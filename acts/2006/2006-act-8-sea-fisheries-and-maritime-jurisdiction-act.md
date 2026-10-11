@@ -1,0 +1,4970 @@
+---
+title: "Sea-Fisheries and Maritime Jurisdiction Act 2006"
+identifier: "eli/2006/act/8"
+type: act
+jurisdiction: ie
+language: en
+number: 8
+year: 2006
+date: 2006-04-04
+last_amended: 2025-12-19
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2006/act/8/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2006/act/8/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Sea-Fisheries and Maritime Jurisdiction Act 2006
+
+AN ACT TO REVISE WITH AMENDMENTS PART XIII OF THE FISHERIES (CONSOLIDATION) ACT 1959 AND THE MARITIME JURISDICTION ACTS 1959 TO 1988, TO PROVIDE FOR THE ESTABLISHMENT OF A BODY TO BE KNOWN IN THE IRISH LANGUAGE AS AN T-ÚDARÁS UM CHOSAINT IASCAIGH MHARA, OR IN THE ENGLISH LANGUAGE AS THE SEA-FISHERIES PROTECTION AUTHORITY, AND TO DEFINE ITS FUNCTIONS, TO AMEND AND EXTEND THE FISHERIES ACTS 1959 TO 2003, THE MERCANTILE MARINE ACT 1955, THE FISHERY HARBOUR CENTRES ACT 1968, THE DUMPING AT SEA ACT 1996 AND THE MARITIME SAFETY ACT 2005, TO AMEND OR REPEAL CERTAIN ENACTMENTS AND TO PROVIDE FOR CONNECTED MATTERS.
+
+[4*th April*, 2006]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Application of Act and collectively cited *Aquaculture Acts 1997 to 2006*, *Dumping at Sea Acts 1996 to 2009*, *Maritime Safety Acts 1992 to 2006* and *Sea-Fisheries Acts 2003 to 2007* affected (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), regs. 42(22), 46(3), 63(2) and sch. 2, in effect as per reg. 1(3).
+>
+> *Screening for Appropriate Assessment and Appropriate Assessment of implications for European Sites*
+>
+> 42\. ...
+>
+> (22) Notwithstanding any provision of any statute listed in the Second Schedule that provides for the consent for a plan or project to which this Regulation applies to be obtained by default on the failure of the public authority to provide a response within a specified timescale or otherwise, that provision shall not have effect in respect of any plan or project to which this Regulation applies
+>
+> ...
+>
+> *Review of existing plans*
+>
+> 46\. ...
+>
+> (3) For the purposes of this Regulation, a decision, including a decision to adopt or undertake, or give approval for a plan, may include those adopted, undertaken or approved pursuant to any of the enactments set out in the Second Schedule to these Regulations.
+>
+> ...
+>
+> *General provisions regarding licences etc*
+>
+> 63\. ...
+>
+> (2) A licence, consent, permission, permit, derogation or other authorisation given under these Regulations or under any of the enactments referred to in the Second Schedule may include conditions requiring compliance with any guideline or code of practice issued under Regulation 71 or such provisions thereof as may be specified in the conditions.
+>
+> ...
+>
+> SECOND SCHEDULE
+>
+> <table><tr><td>Number</td><td>Year</td><td>Short Title/Citation</td></tr><tr><td>...<br>...<br>...<br>...<br>8<br>...<br>...</td><td>...<br>...<br>...<br>...<br>2006<br>...<br>...</td><td>...<br>Aquaculture Acts 1997 to 2006<br>...<br>Dumping at Sea Acts 1996 to 2009<br>...<br>Maritime Safety Acts 1992 to 2006<br>...<br>Sea Fisheries and Maritime Jurisdiction Act 2006<br>...<br>Sea-Fisheries Acts 2003 to 2007<br>...</td></tr></table>
+>
+> C2: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-8.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>...<br>No. 8 of 2006<br>...</td><td>...<br>Sea-Fisheries and Maritime Jurisdiction Act 2006<br>...</td><td>...<br>Sections 31(2)(a), 43(2), 48(13), 56, 61, 62, 63, 65, 69, 76(h) and 77<br>...</td></tr></table>
+>
+> C3: Functions transferred and references to “Minister” and “Department of Finance” construed (4.07.2011 and 6.07.2011, appointed day) by *Ministers and Secretaries (Amendment) Act 2011* (10/2011), ss. 7, 9, 11 and sch. 2 part 1, commenced as per s. 1(2) and S.I. No. 401 of 2011.
+>
+> **Department of Public Expenditure and Reform**.
+>
+> **7**.— (1) There shall stand established on the appointed day a Department of State to be known, in the Irish language, as an Roinn Caiteachais Phoiblí agus Athchóirithe or, in the English language, as the Department of Public Expenditure and Reform.
+>
+> (2) The member of the Government who is in charge of the Department of Public Expenditure and Reform—
+>
+> (a) shall be known, in the Irish language, as an tAire Caiteachais Phoiblí agus Athchóirithe or, in the English language, as the Minister for Public Expenditure and Reform, and
+>
+> (b) is, in this Act, referred to as the “Minister”.
+>
+> ...
+>
+> **Transfer of certain other functions to Minister**.
+>
+> **9**.— ...
+>
+> (2) The functions conferred on the Minister for Finance by or under any of the provisions specified in Part 1 of Schedule 2 are transferred to the Minister.
+>
+> ...
+>
+> **Transfer of administration and business of Department of Finance**.
+>
+> **11**.— (1) The administration and business in connection with the performance of the functions transferred by sections 8 and 9 are hereby transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any statute or instrument under a statute in so far as they relate to the administration and business transferred by subsection (1) shall, from the appointed day, be construed as references to the Department of Public Expenditure and Reform.
+>
+> ...
+>
+> SCHEDULE 2
+>
+> Functions Transferred To Minister
+>
+> ...
+>
+> PART 1
+>
+> Functions performable with consent of Minister for Finance
+>
+> STATUTES
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>...<br>No. 8 of 2006<br>...</td><td>...<br>Sea-Fisheries and Maritime Jurisdiction Act 2006<br>...</td><td>...<br>Section 64<br>...</td></tr></table>
+>
+> C4: Application of collectively cited *Aquaculture Acts* restricted (1.08.2008) by *European Communities (Health of Aquaculture Animals and Products) Regulations 2008* (S.I. No. 261 of 2008), reg. 43(2)(b), in effect as per reg. 1.
+>
+> *Revocations, amendment, etc.*
+>
+> **43**.— ...
+>
+> (2) If there is a conflict between — ...
+>
+> *(b)* between the Aquaculture Acts and these Regulations, these Regulations prevail.
+>
+> ...
+>
+> C5: Act included in definition of “food legislation” for purposes of *Food Safety Authority of Ireland Act 1998* (29/1998) by *Food Safety Authority of Ireland Act 1998* (29/1998), s. 2 and sch. 1 part 1 as amended (19.12.2007) by *Food Safety Authority of Ireland Act 1998 (Amendment of First and Second Schedules) Order 2007* (S.I. No. 839 of 2007), art. 2.
+>
+> **Interpretation.**
+>
+> **2**.—(1) In this Act, except where the context otherwise requires— ...
+>
+> “food legislation” means—
+>
+> (a) the Acts (including any instruments made there under) specified in Part I,
+>
+> (b) the statutory instruments specified in Part II,
+>
+> (c) the Regulations of an institution of the European Communities specified in Part III,
+>
+> of the First Schedule in so far as they relate to food safety and hygiene,
+>
+> ...
+>
+> FIRST SCHEDULE
+>
+> Food Legislation
+>
+> PART I
+>
+> Acts
+>
+> ...
+>
+> [Sea-Fisheries and Maritime Jurisdiction Act 2006 (No. 8 of 2006).]
+>
+> ...
+>
+> C6: Functions transferred and references to “Department of Communications, Marine and Natural Resources” and “Minister for Communications, Marine and Natural Resources” construed (19.10.2007) by *Sea Fisheries, Foreshore and Dumping at Sea (Transfer of Departmental Administration and Ministerial Functions) Order 2007* (S.I. No. 707 of 2007), arts. 2 and 3, in effect as per art. 1, subject to transitional provisions in arts. 4-8.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Agriculture and Food.
+>
+> (2) A reference to the Department of Communications, Marine and Natural Resources contained in any Act or instrument made thereunder and relating to any administration and business transferred by paragraph (1) shall be construed as a reference to the Department of Agriculture and Food.
+>
+> 3\. (1) A function vested in the Minister for Communications, Marine and Natural Resources by or under—
+>
+> (a) an enactment cited in Part 1 of the Schedule to this Order, and
+>
+> ...
+>
+> is transferred to the Minister for Agriculture and Food.
+>
+> (2) A reference to the Minister for Communications, Marine and Natural Resources contained in an enactment or instrument made under an enactment and relating to a function transferred by this Article shall be construed as a reference to the Minister for Agriculture and Food.
+>
+> ...
+>
+> SCHEDULE
+>
+> *PART 1*
+>
+> Sea-Fisheries and Maritime Jurisdiction Act 2006 (No. 8 of 2006)
+>
+> ...
+>
+> Fishery Harbour Centres Acts 1968 to 2006
+>
+> ...
+>
+> Aquaculture Acts 1997 to 2006
+>
+> ...
+>
+> Dumping at Sea Acts 1996 to 2006
+>
+> C7: Functions transferred (1.01.2007, establishment day) by *European Communities (Hygiene of Fishery Products and Fish Feed) Regulations 2006* (S.I. No. 335 of 2006), reg. 18(1), commenced as per reg. 18(1) by S.I. No. 376 of 2006.
+>
+> **Transfer of Minister’s functions to Sea-Fisheries Protection Authority**.
+>
+> **18**.— (1) Subject to paragraph (3), the functions of the Minister under these Regulations are transferred to the Sea-Fisheries Protection Authority on the establishment day appointed under section 40 of the Sea-Fisheries and Maritime Jurisdiction Act 2006 (No. 8 of 2006).
+>
+> ...
+>
+> C8: Application of collectively cited *Fisheries Acts* restricted (20.12.1999) by *Fisheries (Amendment) Act 1999* (35/1999), s. 31, S.I. No. 419 of 1999.
+>
+> **Exclusion of Carlingford Area from Dundalk Fishery District.**
+>
+> **31.**—Notwithstanding anything in the Fisheries Acts, 1959 to 1998, the area comprising the Dundalk Fishery District does not include any part of the Carlingford Area within the meaning of paragraph 5 of Part 6 of Annex 2 to the Agreement between the Government of Ireland and the Government of the United Kingdom of Great Britain and Northern Ireland establishing Implementation Bodies done at Dublin on the 8th day of March, 1999, the text of which is set out in the Schedule to the British-Irish Agreement Act, 1999 (No. 1 of 1999).
+>
+> C9: Application of collectively cited *Fisheries Acts* restricted (30.06.1998) by *Fisheries (Amendment) Act 1997* (23/1997), s. 16, S.I. No. 203 of 1998.
+>
+> **Effect of licence.**
+>
+> **16.**—(1) A licence is binding on the State and on all persons whomsoever, and, subject to section 8 (3), shall operate to enable the licensee to carry on, in accordance with the licence, such operations as are specified in the licence, free from all prior or other rights, titles, estates or interests, if any.
+>
+> (2) In addition to his or her entitlement under subsection (1), and notwithstanding anything contained in the Fisheries Acts, 1959 to 1995, or any instrument under those Acts, a licensee and any person acting under the directions of a licensee shall, by virtue of, but subject to the conditions of, the licence and the requirements of any regulations made under section 71 , have the exclusive right to do within the boundaries or limits specified in the licence anything authorised by the licence or necessary or expedient to conduct the operations specified in the licence.
+>
+> C10: Application of collectively cited *Fisheries Acts* restricted (30.06.1998) by *Fisheries (Amendment) Act 1997*, s. 77(2), S.I. No. 203 of 1998, as amended (1.07.2010) by *Inland Fisheries Act 2010* (10/2010), s. 8 and sch. 2 part 11, commenced as per s. 5(2).
+>
+> **Recapture of escaped stock.**
+>
+> **77**.—(1) **[**Inland Fisheries Ireland**]** may take such action as it considers necessary to recapture stock which has escaped from a facility operated under a licence.
+>
+> (2) The Minister, or an officer of the Minister designated by the Minister for the purposes of this section, may, notwithstanding any other provision of this Act or of the Fisheries Acts, 1959 to 1995, authorise a licensee or other person or body to take such action as is specified in the authorisation to recapture stock which has escaped from a facility operated under a licence.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E1: Previous affecting provision: application of Act extended (13.04.2006) by *Sea Fisheries (Technical Conservation Measures) Regulations 2006* (S.I. No. 171 of 2006), reg. 5; revoked (5.06.2013) by *Sea-Fisheries (Technical Measures) Regulations 2013* (S.I. No. 197 of 2013), reg. 6(1).
+
+## PART 1 Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title, collective citation and construction.
+
+**1**.— (1) This Act may be cited as the Sea-Fisheries and Maritime Jurisdiction Act 2006.
+
+(2) The Act of 2003 (other than Part 5), *Part 2* and *Chapter 2* of *Part 4* may be cited together as the Sea-Fisheries Acts 2003 and 2006 and shall be construed together as one.
+
+(3) The Fisheries (Amendment) Act 1997, sections 2, 3 and 4 of the Fisheries and Foreshore (Amendment) Act 1998, the Fisheries (Amendment) Act 2001 and *section 101* may be cited together as the Aquaculture Acts 1997 to 2006 and shall be construed together as one.
+
+(4) The Fisheries Acts 1959 to 2003 and this Act (other than *Part 3* and *sections 100*, *102* , *103* and *104* ) may be cited together as the Fisheries Acts 1959 to 2006 and shall be construed together as one.
+
+(5) The Act of 1955 and *section 100* may be cited together as the Mercantile Marine Acts 1955 and 2006.
+
+(6) The Fishery Harbour Centres Acts 1968 to 2005 and *section 102* may be cited together as the Fishery Harbour Centres Acts 1968 to 2006.
+
+(7) The Dumping at Sea Acts 1996 and 2004 and *section 103* may be cited together as the Dumping at Sea Acts 1996 to 2006.
+
+(8) The Maritime Safety Acts 1992 to 2005 and *section 104* may be cited together as the Maritime Safety Acts 1992 to 2006.
+
+### 2. Definitions.
+
+**2**.— In this Act—
+
+“Act of 1894” means Merchant Shipping Act 1894;
+
+“Act of 1955” means Mercantile Marine Act 1955;
+
+“Act of 2003” means Fisheries (Amendment) Act 2003;
+
+“Community law” means an act adopted by an institution of the European Communities;
+
+“Department” means F1[Department of Agriculture, Food and the Marine;]
+
+F3[“fisheries monitoring centre“ has the same meaning as it has in Article 4 of Council Regulation (EC) No. 1224/2009 of 20 November 2009[^1];]
+
+“foreign sea-fishing boat” means a sea-fishing boat which is not an Irish sea-fishing boat;
+
+“Irish sea-fishing boat” means a sea-fishing boat which is—
+
+(*a*) entered in the Register of Fishing Boats,
+
+(*b*) required by regulations under *section 76* to be so entered, or
+
+(*c*) exempt from such registration by regulations under that section;
+
+“Minister” means F2[Minister for Agriculture, Food and the Marine;]
+
+“Principal Act” means Fisheries (Consolidation) Act 1959;
+
+“Register of Fishing Boats” means the register maintained under *section 74*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1, F2: Substituted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 2(a), (b), S.I. No. 202 of 2022.
+>
+> F3: Inserted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 2(c), S.I. No. 202 of 2022.
+
+### 3. Regulations.
+
+**3**.— (1) The Minister may make regulations in relation to any matter referred to in *Part 2* as prescribed.
+
+(2) Every regulation made under *Part 2* or section 25 of the Act of 2003 shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next 21 days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done under it.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E2: Power pursuant to section exercised (19.12.2025) by *Sea - Fisheries (Technical Measures) (Amendment) Regulations 2025* (S.I. No. 675 of 2025).
+>
+> E3: Power pursuant to section exercised (9.12.2025) by *Sea-Fisheries (Quotas) Regulations 2025* (S.I. No. 612 of 2025).
+>
+> E4: Power pursuant to section exercised (12.11.2025 to 29.03.2026) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2025* (S.I. No. 538 of 2025), in effect and to cease as per reg. 1(2).
+>
+> E5: Power pursuant to section exercised (23.10.2025 to 1.10.2026) by *Sea-fisheries (Sprat Fishing Closure) Regulations 2025* (S.I. No. 501 of 2025), in effect and to cease as per reg. 1(2).
+>
+> E6: Power pursuant to section exercised (26.06.2024) by *Sea-Fisheries (Bluefin Tuna) Regulations 2024* (S.I. No. 352 of 2024).
+>
+> E7: Power pursuant to section exercised (20.06.2023) by *Sea-Fisheries (North Western Waters Landing Obligation) (Amendment) (No. 2) Regulations 2023* (S.I. No. 323 of 2023).
+>
+> E8: Power pursuant to section exercised (25.05.2023) by *Sea-Fisheries (Illegal, Unreported and Unregulated Fishing) (Amendment) Regulations 2023* (S.I. No. 264 of 2023).
+>
+> E9: Power pursuant to section exercised (7.12.2022) by *Sea-Fisheries (Community Control System) (Amendment) (No. 2) Regulations 2022* (S.I. No. 638 of 2022).
+>
+> E10: Power pursuant to section exercised (7.09.2022) by *Sea-Fisheries (Community Control System) (Amendment) Regulations 2022* (S.I. No. 463 of 2022).
+>
+> E11: Power pursuant to section exercised (12.11.2021) by *Sea-fisheries (Revocation) Regulations 2021* (S.I. No. 602 of 2021).
+>
+> E12: Power pursuant to section exercised (23.09.2021) by *Sea-Fisheries (Common Fisheries Policy) (Bluefin Tuna) (Amendment) Regulations 2021* (S.I. No. 497 of 2021).
+>
+> E13: Power pursuant to section exercised (14.09.2021 to 16.12.2021) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2021* (S.I. No. 461 of 2021), in effect as per reg. 1(2).
+>
+> E14: Power pursuant to section exercised (2.03.2021 to 31.12.2023) by *Sea-Fisheries (North Western Waters Landing Obligation) Regulations 2021* (S.I. No. 101 of 2021).
+>
+> E15: Power pursuant to section exercised (11.02.2021) by *Sea-Fisheries (Quotas) Regulations 2021* (S.I. No. 69 of 2021).
+>
+> E16: Power pursuant to section exercised (28.01.2021) by *Sea-Fisheries (Illegal, Unreported and Unregulated Fishing) (Amendment) Regulations 2021* (S.I. No. 37 of 2021).
+>
+> E17: Power pursuant to section exercised (10.10.2020) by *Sea-Fisheries (Technical Measures) Regulations 2020* (S.I. No. 440 of 2020).
+>
+> E18: Power pursuant to section exercised (13.05.2020) by *Sea Fisheries (Shark Fin) Regulations 2020* (S.I. No. 172 of 2020).
+>
+> E19: Power pursuant to section exercised (28.11.2019) by *Sea-Fisheries (Community Control System) (Amendment) (No. 2) Regulations 2019* (S.I. No. 596 of 2019).
+>
+> E20: Power pursuant to section exercised (23.10.2019) by *Sea Fisheries (Technical Measures) Regulations 2019* (S.I. No. 520 of 2019).
+>
+> E21: Power pursuant to section exercised (20.09.2019 to 22.12.2019) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2019* (S.I. No. 464 of 2019), in effect as per reg. 1(2).
+>
+> E22: Previous affecting provision: power pursuant to section exercised (16.07.2019) by *Sea-Fisheries (Community Control System) (Amendment) Regulations 2019* (S.I. No. 365 of 2019).
+>
+> E23: Power pursuant to section exercised (17.07.2019) by *Sea-Fisheries (Common Fisheries Policy) (Bluefin Tuna) (Amendment) Regulations 2019* (S.I. No. 360 of 2019).
+>
+> E24: Power pursuant to section exercised (1.07.2019) by *Crawfish (Conservation Of Stocks) Regulations 2019* (S.I. No. 289 of 2019), in effect as per reg. 2.
+>
+> E25: Power pursuant to section exercised (1.03.2019) by *Brown Crab (Conservation Of Stocks) Regulations 2019* (S.I. No. 26 of 2019), in effect as per reg. 1(2).
+>
+> E26: Power pursuant to section exercised (24.10.2018) by *Sea-Fisheries (Common Fisheries Policy) (Bluefin Tuna) (Amendment) Regulations 2018* (S.I. No. 447 of 2018).
+>
+> E27: Power pursuant to section exercised (24.10.2018) by *Sea-Fisheries (Community Control System) (Amendment) (No. 2) Regulations 2018* (S.I. No. 446 of 2018).
+>
+> E28: Power pursuant to section exercised (1.07.2018) by *Razor Clam (Conservation of Stocks) (North Irish Sea) Regulations 2018* (S.I. No. 160 of 2018).
+>
+> E29: Power pursuant to section exercised (3.05.2018) by *Sea-Fisheries (Community Control System) (Amendment) Regulations 2018* (S.I. No. 155 of 2018).
+>
+> E30: Power pursuant to section exercised (26.04.2018) by *European Union (Common Fisheries Policy) (Landing Obligation) (Amendment) Regulations 2018* (S.I. No. 137 of 2018).
+>
+> E31: Power pursuant to section exercised (22.03.2018) by *Sea-Fisheries (Quotas) Regulations 2018* (S.I. No. 99 of 2018).
+>
+> E32: Power pursuant to section exercised (1.01.2018) by *Velvet Crab (Conservation of Stocks) Regulations 2017* (S.I. No. 431 of 2017).
+>
+> E33: Power pursuant to section exercised (21.12.2017) by *Lobster (Conservation of Stocks) (Amendment) Regulations 2017* (S.I. No. 640 of 2017).
+>
+> E34: Power pursuant to section exercised (3.03.2017) by *Sea-Fisheries (Community Control System) (Amendment) Regulations 2017* (S.I. No. 78 of 2017).
+>
+> E35: Power pursuant to section exercised (17.02.2017) by *Sea-Fisheries (Conservation and Rational Exploitation of Deep-Sea Species) Regulations 2017* (S.I. No. 50 of 2017).
+>
+> E36: Power pursuant to section exercised (12.01.2017) by *Sea-Fisheries (Quotas) (Deep-Sea Stocks) Regulations 2017* (S.I. No. 9 of 2017).
+>
+> E37: Power pursuant to section exercised (1.01.2017) by *Sea-Fisheries (Codend Mesh Size) Regulations 2016* (S.I. No. 510 of 2016), in effect as per reg. 1(2).
+>
+> E38: Power pursuant to section exercised (20.12.2016) by *Sea-Fisheries (Common Fisheries Policy) (Bluefin Tuna) Regulations 2016* (S.I. No. 680 of 2016).
+>
+> E39: Power pursuant to section exercised (8.12.2016) by *Razor Clam (Inishkea Islands) (Revocation) Regulations 2016* (S.I. No. 603 of 2016).
+>
+> E40: Power pursuant to section exercised (4.11.2016) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) (Amendment) Regulations 2016* (S.I. No. 551 of 2016).
+>
+> E41: Power pursuant to section exercised (22.06.2016) by *Bass (Conservation of Stocks) Regulations 2016* (S.I. No. 341 of 2016).
+>
+> E42: Power pursuant to section exercised (2.02.2016) by *Sea-Fisheries (Community Control System) Regulations 2016* (S.I. No. 54 of 2016).
+>
+> E43: Power pursuant to section exercised (1.02.2016) by *Non-Commercial Pot Fishing (Lobster and Crab) Regulations 2016* (S.I. No. 31 of 2016), in effect as per reg. 1(2).
+>
+> E44: Power pursuant to section exercised (5.01.2016) by *Sea-Fisheries (North Western Waters Landing Obligation) Regulations 2016* (S.I. No. 7 of 2016).
+>
+> E45: Power pursuant to section exercised (1.01.2016) by *Razor Clam (Conservation of Stocks) (North Irish Sea) (Amendment) Regulations 2015* (S.I. No. 588 of 2015), in effect as per reg. 1(2).
+>
+> E46: Power pursuant to section exercised (1.01.2016) by *Sea-Fisheries (Multi-Rigged Fishing Gear) Regulations 2015* (S.I. No. 518 of 2015), in effect as per reg. 1(2).
+>
+> E47: Power pursuant to section exercised (9.12.2015) by *Sea-Fisheries (Conservation and Rational Exploitation of Cod in the North Sea and to the West of Scotland) (Amendment) Regulations 2015* (S.I. No. 565 of 2015).
+>
+> E48: Power pursuant to section exercised (5.11.2015) by *European Union (Common Fisheries Policy) (Landing Obligation) (Amendment) Regulations 2015* (S.I. No. 510 of 2015).
+>
+> E49: Power pursuant to section exercised (1.06.2015) by *Razor Clam (Conservation of Stocks) (North Irish Sea) Regulations 2015* (S.I. No. 207 of 2015), in effect as per reg. 1(2).
+>
+> E50: Power pursuant to section exercised (27.05.2015) by *Sea-Fisheries (Celtic Sea Technical Measures) Regulations 2015* (S.I. No. 231 of 2015).
+>
+> E51: Power pursuant to section exercised (26.05.2015 and 20.07.2015) by *Razor Clam (Conservation of Stocks) Regulations 2015* (S.I. No. 206 of 2015).
+>
+> E52: Power pursuant to section exercised (4.03.2015) by *European Union (Common Fisheries Policy) (Landing Obligation) Regulations 2015* (S.I. No. 83 of 2015).
+>
+> E53: Power pursuant to section exercised (3.12.2014) by *Sea-Fisheries (Control on fishing for razor clams) (Revocation) Regulations 2014* (S.I. No. 567 of 2014).
+>
+> E54: Power pursuant to section exercised (16.09.2014) by *European Union (Common Fisheries Policy) (Faroe Islands) (Revocation) Regulations 2014* (S.I. No. 419 of 2014).
+>
+> E55: Power pursuant to section exercised (19.09.2012) by *Sea-Fisheries (Illegal, Unreported and Unregulated Fishing) (Amendment) Regulations 2012* (S.I. No. 367 of 2012).
+>
+> E56: Power pursuant to section exercised (18.11.2010) by *Sea-Fisheries (Illegal, Unreported and Unregulated Fishing) Regulations 2010* (S.I. No. 554 of 2010).
+>
+> E57: Power pursuant to section exercised (23.12.2009) by *Mussel Seed (Prohibition On Fishing) (No. 3) Regulations 2009* (S.I. No. 554 of 2009), in effect as per reg. 1.
+>
+> E58: Power pursuant to section exercised (20.10.2009) by *Sea-fisheries (Control On Fishing For Clams In Waterford Estuary) (No. 2) Regulations 2009* (S.I. No. 418 of 2009), in effect as per reg. 1.
+>
+> E59: Power pursuant to section exercised (26.08.2009) by *Mussel Seed (Prohibition On Fishing) (No. 2) Regulations 2009 (Revocation) Regulations 2009* (S.I. No. 341 of 2009), in effect as per reg. 1.
+>
+> E60: Power pursuant to section exercised (30.04.2009) by *Mussel Seed (Prohibition On Fishing) Regulations 2008 (Revocation) Regulations 2009* (S.I. No. 150 of 2009), in effect as per reg. 1.
+>
+> E61: Power pursuant to section exercised (21.04.2008) by *Sea-Fisheries (Control of Catches) (Deep-Sea Stocks) Regulations 2008* (S.I. No. 137 of 2008).
+>
+> E62: Previous affecting provision: power pursuant to section exercised (11.10.2025 to 1.10.2026) by *Sea-fisheries (Sprat Fishing) Regulations 2025* (S.I. No. 446 of 2025), in effect as per reg. 1(2); revoked (23.10.2025) by *Sea-fisheries (Sprat Fishing Closure) Regulations 2025* (S.I. No. 501 of 2025), reg. 7.
+>
+> E63: Previous affecting provision: power pursuant to section exercised (16.12.2024) by *Sea-fisheries (Technical Measures) (Amendment) Regulations 2024* (S.I. No. 715 of 2024); revoked (19.12.2025) by *Sea - Fisheries (Technical Measures) (Amendment) Regulations 2025* (S.I. No. 675 of 2025), reg. 3.
+>
+> E64: Previous affecting provision: power pursuant to section exercised (4.12.2024) by *Sea-fisheries (Quotas) (Amendment) Regulations 2024* (S.I. No. 679 of 2024); revoked (9.12.2025) by *Sea-Fisheries (Quotas) Regulations 2025* (S.I. No. 612 of 2025), reg. 5(b).
+>
+> E65: Previous affecting provision: power pursuant to section exercised (10.09.2024) by *Sea-Fisheries (Quotas) Regulations 2024* (S.I. No. 457 of 2024); revoked (9.12.2025) by *Sea-Fisheries (Quotas) Regulations 2025* (S.I. No. 612 of 2025), reg. 5(a).
+>
+> E66: Previous affecting provision: power pursuant to section exercised (26.01.2023) by *Sea-Fisheries (Technical Measures) (Amendment) Regulations 2023* (S.I. No. 13 of 2023); revoked (16.12.2024) by *Sea-fisheries (Technical Measures) (Amendment) Regulations 2024* (S.I. No. 715 of 2024), reg. 3.
+>
+> E67: Previous affecting provision: power pursuant to section exercised (1.06.2023) by *Sea Fisheries (Quotas) Regulations 2023* (S.I. No. 274 of 2023); revoked (10.09.2024) by *Sea-Fisheries (Quotas) Regulations 2024* (S.I. No. 457 of 2024), reg. 5.
+>
+> E68: Previous affecting provision: power pursuant to section exercised (8.02.2023) by *Sea-Fisheries (North Western Waters Landing Obligation) (Amendment) Regulations 2023* (S.I. No. 47 of 2023); revoked (20.06.2023) by *Sea-Fisheries (North Western Waters Landing Obligation) (Amendment) (No. 2) Regulations 2023* (S.I. No. 323 of 2023), reg. 3.
+>
+> E69: Previous affecting provision: power pursuant to section exercised (3.09.2022 to 18.12.2022) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2022* (S.I. No. 424 of 2022), in effect as per reg. 1(2).
+>
+> E70: Previous affecting provision: power pursuant to section exercised (8.06.2022) by *Sea-Fisheries (Quotas) Regulations 2022* (S.I. No. 290 of 2022); revoked (1.06.2023) by *Sea Fisheries (Quotas) Regulations 2023* (S.I. No. 274 of 2023), reg. 5(b).
+>
+> E71: Previous affecting provision: power pursuant to section exercised (31.03.2022) by *Sea-Fisheries (North Western Waters Landing Obligation) (Amendment) Regulations 2022* (S.I. No. 224 of 2022); revoked (8.02.2023) by *Sea-Fisheries (North Western Waters Landing Obligation) (Amendment) Regulations 2023* (S.I. No. 47 of 2023).
+>
+> E72: Previous affecting provision: power pursuant to section exercised (31.03.2022) by *Sea-Fisheries (Technical Measures) (Amendment) Regulations 2022* (S.I. No. 223 of 2022); revoked (26.01.2023) by *Sea Fisheries (Technical Measures) (Amendment) Regulations 2023* (S.I. No. 13 of 2023).
+>
+> E73: Previous affecting provision: power pursuant to section exercised (11.02.2021) by *Sea-Fisheries (Quotas) (Deep-Sea Stocks) Regulations 2021* (S.I. No. 70 of 2021); revoked (1.06.2023) by *Sea Fisheries (Quotas) Regulations 2023* (S.I. No. 274 of 2023), reg. 5(a).
+>
+> E74: Previous affecting provision: power pursuant to section exercised (9.09.2020 to 10.12.2020) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2020* (S.I. No. 338 of 2020), in effect as per reg. 1(2).
+>
+> E75: Previous affecting provision: power pursuant to section exercised (11.02.2021) by *Sea-Fisheries (Quotas) Regulations 2021* (S.I. No. 69 of 2021); revoked (8.06.2022) by *Sea-fisheries (Quotas) Regulations 2022* (S.I. No. 290 of 2022), reg. 5.
+>
+> E76: Previous affecting provision: power pursuant to section exercised (26.02.2020) by *Sea Fisheries (Quotas) Regulations 2020* (S.I. No. 57 of 2020); revoked (11.02.2021) by *Sea-Fisheries (Quotas) Regulations 2021* (S.I. No. 69 of 2021), reg. 6.
+>
+> E77: Previous affecting provision: power pursuant to section exercised (18.02.2020 to 31.12.2021) by *Sea-Fisheries (North Western Waters Landing Obligation) Regulations 2020* (S.I. No. 54 of 2020); revoked (2.03.2021) by *Sea-Fisheries (North Western Waters Landing Obligation) Regulations 2021* (S.I. No. 101 of 2021), reg. 5.
+>
+> E78: Previous affecting provision: power pursuant to section exercised (17.06.2019) by *Sea-Fisheries And Maritime Jurisdiction (Bluefin Tuna) Regulations 2019* (S.I. No. 265 of 2019); revoked (26.06.2024) by *Sea-Fisheries (Bluefin Tuna) Regulations 2024* (S.I. No. 352 of 2024), reg. 11.
+>
+> E79: Previous affecting provision: power pursuant to section exercised (28.02.2019) by *Sea-Fisheries (Quotas) (Deep-Sea Stocks) Regulations 2019* (S.I. No. 70 of 2019); revoked (11.02.2021) by *Sea-Fisheries (Quotas) (Deep-Sea Stocks) Regulations 2021* (S.I. No. 70 of 2021), reg. 4.
+>
+> E80: Previous affecting provision: power pursuant to section exercised (28.02.2019) by *Sea-Fisheries (Quotas) Regulations 2019* (S.I. No. 71 of 2019); revoked (26.02.2020) by *Sea Fisheries (Quotas) Regulations 2020* (S.I. No. 57 of 2020), reg. 5.
+>
+> E81: Previous affecting provision: power pursuant to section exercised (12.02.2019 to 31.12.2021) by *Sea Fisheries (North Western Waters Landing Obligation) Regulations 2019* (S.I. No. 43 of 2019); revoked (18.02.2020) by *Sea-Fisheries (North Western Waters Landing Obligation) Regulations 2020* (S.I. No. 54 of 2020), reg. 5(b).
+>
+> E82: Previous affecting provisions: power pursuant to section exercised:
+>
+> • (17.09.2018 to 21.12.2018) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2018* (S.I. No. 369 of 2018).
+>
+> • (13.03.2018 to 31.12.2018) by *Sea-Fisheries (North Western Waters Landing Obligation) Regulations 2018* (S.I. No. 88 of 2018); revoked (12.02.2019) by *Sea Fisheries (North Western Waters Landing Obligation ) Regulations 2019* (S.I. No. 43 of 2019), reg. 5.
+>
+> • (13.09.2017 to 30.12.2017) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2017* (S.I. No. 398 of 2017).
+>
+> • (22.03.2017) by *Sea-Fisheries (Quotas) Regulations 2017* (S.I. No. 136 of 2017); revoked (22.03.2018) by *Sea-Fisheries (Quotas) Regulations 2018* (S.I. No. 99 of 2018), reg. 5.
+>
+> • (15.02.2017 to 31.12.2018) by *Sea-Fisheries (North Western Waters Landing Obligation) Regulations 2017* (S.I. No. 51 of 2017), in effect as per reg. 1(2); revoked (13.03.2018) by *Sea-Fisheries (North Western Waters Landing Obligation) Regulations 2018* (S.I. No. 88 of 2018), reg. 4.
+>
+> • (15.02.2017) by *Sea-Fisheries (North Western Waters Landing Obligation) Regulations 2017* (S.I. No. 52 of 2017); revoked (22.03.2017) by *Sea-Fisheries (Quotas) Regulations 2017* (S.I. No. 136 of 2017), reg. 5.
+>
+> • (7.09.2016 to 11.12.2016) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2016* (S.I. No. 469 of 2016), in effect as per reg. 1(2).
+>
+> • (20.12.2016) by *Lobster (Conservation of Stocks) (Amendment) Regulations 2016* (S.I. No. 679 of 2016); revoked (21.12.2017) by *Lobster (Conservation of Stocks) (Amendment) Regulations 2017* (S.I. No. 640 of 2017), reg. 3.
+>
+> • (9.03.2016) by *Razor Clam (Conservation of Stocks) (Inishkea Islands) Regulations 2016* (S.I. No. 137 of 2016); revoked (8.12.2016) by *Razor Clam (Inishkea Islands) (Revocation) Regulations 2016* (S.I. No. 603 of 2016), reg. 2.
+>
+> • (19.02.2016) by *Sea-Fisheries (Quotas) Regulations 2016* (S.I. No. 112 of 2016); revoked (15.02.2017) by *Sea-Fisheries (Conservation and Rational Exploitation of Deep-Sea Species) Regulations 2017* (S.I. No. 52 of 2017), reg. 5.
+>
+> • (5.01.2016 to 31.12.2018) by *Sea-Fisheries (Conservation and Rational Exploitation of Hake) (Amendment) Regulations 2016* (S.I. No. 8 of 2016); revoked (15.02.2017) by *Sea-Fisheries (North Western Waters Landing Obligation) Regulations 2017* (S.I. No. 51 of 2017), reg. 4.
+>
+> • (18.12.2015 to 22.01.2016) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) (Castlemaine) Regulations 2015* (S.I. No. 589 of 2015).
+>
+> • (19.11.2015) by *Sea-Fisheries (Technical Measures) (Amendment) Regulations 2015* (S.I. No. 531 of 2015); revoked (23.10.2019) by *Sea Fisheries (Technical Measures) Regulations* 2019 (S.I. No. 520 of 2019), reg. 7(3).
+>
+> • (5.11.2015) by *Sea-Fisheries (Conservation and Rational Exploitation of Deep-Sea Species) (Amendment) Regulations 2015* (S.I. No. 511 of 2015); revoked (17.02.2017) by *Sea-Fisheries (Conservation and Rational Exploitation of Deep-Sea Species) Regulations 2017* (S.I. No. 50 of 2017), reg. 9(b).
+>
+> • (20.10.2015) by *Sea-Fisheries (Quotas) No. 2 Regulations 2015* (S.I. No. 478 of 2015); revoked (19.02.2016) by *Sea-Fisheries (Quotas) Regulations 2016* (S.I. No. 112 of 2016), reg. 5.
+>
+> • (5.09.2015 to 9.12.2015) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2015* (S.I. No. 370 of 2015).
+>
+> • (7.08.2015 to 12.08.2015) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) (Rusk Channel) Regulations 2015* (S.I. No. 351 of 2015).
+>
+> • (12.06.2015 to 6.07.2015) by *Razor Clam (Conservation of Stocks) (North Irish Sea Spawning Season) Regulations 2015* (S.I. No. 244 of 2015).
+>
+> • (14.04.2015) by *Sea-Fisheries (Common Fisheries Policy) (Bluefin Tuna) Regulations 2015* (S.I. No. 135 of 2015); revoked (20.12.2016) by *Sea-Fisheries (Common Fisheries Policy) (Bluefin Tuna) Regulations 2016* (S.I. No. 680 of 2016), reg. 10.
+>
+> • (16.03.2015) by *Sea-Fisheries (Quotas) Regulations 2015* (S.I. No. 116 of 2015); revoked (20.10.2015) by *Sea-Fisheries (Quotas) No. 2 Regulations 2015* (S.I. No. 478 of 2015), reg. 5(b).
+>
+> • (16.03.2015 to 1.05.2015) by *Sea-Fisheries (Alleviation Measures) (Sea Bass Stocks) Regulations 2015* (S.I. No. 115 of 2015); revoked (20.10.2015) by *Sea-Fisheries (Quotas) No. 2 Regulations 2015* (S.I. No. 478 of 2015), reg. 5(a).
+>
+> • (25.02.2015) by *Sea-Fisheries (Quotas) (Deep-Sea Stocks) Regulations 2015* (S.I. No. 80 of 2015); revoked (12.01.2017) by *Sea-Fisheries (Quotas) (Deep-Sea Stocks) Regulations 2017* (S.I. No. 9 of 2017), reg. 4.
+>
+> • (26.03.2014) by *Sea-Fisheries (Quotas) Regulations 2014* (S.I. No. 161 of 2014); revoked (16.03.2015) by *Sea-Fisheries (Quotas) Regulations 2015* (S.I. No. 116 of 2015), reg. 4.
+>
+> • (20.11.2013) by *Sea-Fisheries (Community Control System) (Amendment) (No. 3) Regulations 2013* (S.I. No. 441 of 2013); revoked (2.02.2016) by *Sea-Fisheries (Community Control System) Regulations 2016* (S.I. No. 54 of 2016), reg. 14(e).
+>
+> • (13.11.2013) by *European Union (Common Fisheries Policy) (Faroe Islands) Regulations 2013* (S.I. No. 432 of 2013); revoked (16.09.2014) by *European Union (Common Fisheries Policy) (Faroe Islands) (Revocation) Regulations 2014* (S.I. No. 419 of 2014), reg. 2.
+>
+> • (22.09.2013) by *Sea-Fisheries (Community Control System) (Amendment) (No. 2) Regulations 2013* (S.I. No. 354 of 2013); revoked (2.02.2016) by *Sea-Fisheries (Community Control System) Regulations 2016* (S.I. No. 54 of 2016), reg. 14(d).
+>
+> • (5.06.2013) by *Sea-Fisheries (Technical Measures) Regulations 2013* (S.I. No. 197 of 2013); revoked (23.10.2019) by *Sea Fisheries (Technical Measures) Regulations 2019* (S.I. No. 520 of 2019), reg. 7(2).
+>
+> • (23.05.2013) by *Sea-Fisheries (Community Control System) (Amendment) Regulations 2013* (S.I. No. 184 of 2013); revoked (2.02.2016) by *Sea-Fisheries (Community Control System) Regulations 2016* (S.I. No. 54 of 2016), reg. 14(c).
+>
+> • (23.05.2013) by *Sea-Fisheries (Quotas) Regulations 2013* (S.I. No. 183 of 2013); revoked (26.03.2014) by *Sea-Fisheries (Quotas) Regulations 2014* (S.I. No. 161 of 2014), reg. 4.
+>
+> • (11.04.2013) by *Sea-Fisheries (Quotas) (Deep-Sea Stocks) Regulations 2013* (S.I. No. 141 of 2013); revoked (25.02.2015) by *Sea-Fisheries (Quotas) (Deep-Sea Stocks) Regulations 2015* (S.I. No. 80 of 2015), reg. 4.
+>
+> • (31.08.2012) by *Sea-Fisheries (Technical Measures) (Amendment) (No. 2) Regulations 2012* (S.I. No. 337 of 2012); ceased (25.08.2013) as per reg. 3 but revoked (5.06.2013) by *Sea-Fisheries (Technical Measures) Regulations 2013* (S.I. No. 197 of 2013), reg. 6(3).
+>
+> • (14.04.2012) by *Sea-Fisheries (Quotas) Regulations 2012* (S.I. No. 134 of 2012); revoked (23.05.2013) by *Sea-Fisheries (Quotas) Regulations 2013* (S.I. No. 183 of 2013), reg. 4.
+>
+> • (8.03.2012) by *Sea-Fisheries (Technical Measures) (Amendment) Regulations 2012* (S.I. No. 78 of 2012); ceased (25.08.2012) as per reg. 3 and revoked (31.08.2012) by *Sea-Fisheries (Technical Measures) (Amendment) (No. 2) Regulations 2012* (S.I. No. 337 of 2012), reg. 4.
+>
+> • (28.09.2011) by *Sea-Fisheries (Common Fisheries Policy Community Control System) Regulations 2011* (S.I. No. 490 of 2011); revoked (9.08.2012) by *Sea-Fisheries (Community Control System) Regulations 2012* (S.I. No. 320 of 2012), reg. 14.
+>
+> • (22.09.2011) by *Sea-Fisheries (Technical Measures) Regulations 2011* (S.I. No. 481 of 2011); revoked (5.06.2013) by *Sea-Fisheries (Technical Measures) Regulations 20132* (S.I. No. 197 of 2013), reg. 6(2).
+>
+> • (5.08.2011) by *Sea-Fisheries (Control on Fishing for Razor Clams in Cahore) Regulations 2011* (S.I. No. 425 of 2011); revoked (3.12.2014) by *Sea-Fisheries (Control on fishing for razor clams) (Revocation) Regulations 2014* (S.I. No. 567 of 2014), reg. 2(c).
+>
+> • (15.02.2011) by *Sea-Fisheries (Recording of Fish) (Amendment) Regulations 2011* (S.I. No. 91 of 2011); revoked (28.09.2011) by *Sea-Fisheries (Common Fisheries Policy Community Control System) Regulations 2011* (S.I. No. 490 of 2011), reg. 22(g).
+>
+> • (11.02.2011) by *Sea-Fisheries (Quotas) Regulations 2011* (S.I. No. 68 of 2011); revoked (14.04.2012) by *Sea-Fisheries (Quotas) Regulations 2012* (S.I. No. 134 of 2012), reg. 9.
+>
+> • (1.02.2011) by *Sea-Fisheries (Recording of Fish) No. 2 Regulations 2011* (S.I. No. 37 of 2011), in effect as per reg. 1(1); revoked (6.04.2011) by *Sea-Fisheries (Recording of Fish) (No. 2) (Revocation) Regulations 2011* (S.I. No. 182 of 2011), reg. 2.
+>
+> • (14.01.2011) by *Sea-Fisheries (Recording of Fish) Regulations 2011* (S.I. No. 8 of 2011); revoked (28.09.2011) by *Sea-Fisheries (Common Fisheries Policy Community Control System) Regulations 2011* (S.I. No. 490 of 2011), reg. 22(f).
+>
+> • (16.09.2010) by *Sea-Fisheries (Landing and weighing of pelagic fish) Regulations 2010* (S.I. No. 453 of 2010); revoked (28.09.2011) by *Sea-Fisheries (Common Fisheries Policy Community Control System) Regulations 2011* (S.I. No. 490 of 2011), reg. 22(e).
+>
+> • (9.09.2010) by *Sea-fisheries (Control on fishing for razor clams in Rosslare Harbour) (Amendment) Regulations 2010* (S.I. No. 437 of 2010); revoked (3.12.2014) by *Sea-Fisheries (Control on fishing for razor clams) (Revocation) Regulations 2014* (S.I. No. 567 of 2014), reg. 2(b).
+>
+> • (27.07.2010) by *Sea-fisheries (Prohibition on fishing for clams in Waterford Estuary) Regulations 2010* (S.I. No. 378 of 2010); revoked (2.05.2011) by *Sea-fisheries (Control on fishing for clams in Waterford Estuary) Regulations 2011* (S.I. No. 221 of 2011), reg. 8, in effect as per reg. 1.
+>
+> • (24.06.2010) by *Sea-fisheries (Control on fishing for razor clams in Rosslare Harbour) Regulations 2010* (S.I. No. 310 of 2010); revoked (3.12.2014) by *Sea-Fisheries (Control on fishing for razor clams) (Revocation) Regulations 2014* (S.I. No. 567 of 2014), reg. 2(a).
+>
+> • (21.04.2010) by *Sea-Fisheries (Quotas) Regulations 2010* (S.I. No. 167 of 2010); revoked (11.02.2011) by *Sea-Fisheries (Quotas) Regulations 2011* (S.I. No. 68 of 2011), reg. 9.
+>
+> • (9.03.2010) by *Sea-Fisheries (Control of catches) (No. 2) Regulations 2010* (S.I. No. 95 of 2010); revoked (21.04.2010) by *Sea-Fisheries (Quotas) Regulations 2010* (S.I. No. 167 of 2010), reg. 9.
+>
+> • (1.02.2010) by *Sea-Fisheries (Control of catches) Regulations 2010* (S.I. No. 52 of 2010); revoked (9.03.2010) by *Sea-Fisheries (Control of catches) (No. 2) Regulations 2010* (S.I. No. 95 of 2010), reg. 9.
+>
+> • (1.02.2010) by *Sea-Fisheries (Recording of Catches) Regulations 2010* (S.I. No. 51 of 2010); revoked (22.09.2011) by *Sea-Fisheries (Technical Measures) Regulations 2011* (S.I. No. 481 of 2011), reg. 4.
+>
+> • (19.10.2009) by *Monkfish (Control of Landings) Regulations 2009* (S.I. No. 417 of 2009); revoked (9.01.2013) by *Monkfish (Control of Landings) Regulations 2013* (S.I. No. 7 of 2013), reg. 6.
+>
+> • (13.10.2009) by *Sea-fisheries (Control On Fishing For Clams In Waterford Estuary) Regulations 2009* (S.I. No. 412 of 2009), in effect as per reg. 1; revoked (20.10.2009) by *Sea-fisheries (Control On Fishing For Clams In Waterford Estuary) (No. 2) Regulations 2009* (S.I. No. 418 of 2009), reg. 8, in effect as per reg. 1.
+>
+> • (2.07.2009) by *Sea-fisheries (Technical Conservation Measures) Regulations 2009* (S.I. No. 252 of 2009); revoked (23.10.2019) by *Sea Fisheries (Technical Measures) Regulations 2019* (S.I. No. 520 of 2019), reg. 7(1).
+>
+> • (2.07.2009) by *Sea-fisheries (Recording of Catches) Regulations 2009* (S.I. No. 253 of 2009); revoked (14.01.2011) by *Sea-Fisheries (Recording of Fish) Regulations 2011* (S.I. No. 8 of 2011), reg. 12.
+>
+> • (14.05.2009) by *Mussel Seed (Prohibition On Fishing) (No. 2) Regulations 2009* (S.I. No. 197 of 2009) in effect as per reg. 1; revoked (26.08.2009) by *Mussel Seed (Prohibition On Fishing) (No. 2) Regulations 2009 (Revocation) Regulations 2009* (S.I. No. 341 of 2009), reg. 2, in effect as per reg. 1.
+>
+> • (5.02.2009) by *Sea-fisheries (Fishing For Herring) (West of Scotland) Regulations 2009* (S.I. No. 39 of 2009); revoked (18.02.2020) by *Sea-Fisheries (North Western Waters Landing Obligation) Regulations 2020* (S.I. No. 54 of 2020), reg. 5(a).
+>
+> • (5.02.2009) by *Sea-fisheries (Control of Catches) (Deep-sea Stocks) Regulations 2009* (S.I. No. 38 of 2009); revoked (22.09.2011) by *Sea-Fisheries (Control of Catches) (Deep-Sea Stocks) Regulations 2011* (S.I. No. 482 of 2011), reg. 5.
+>
+> • (5.02.2009) by *Monkfish (Control of Landings) Regulations 2009* (S.I. No. 33 of 2009); revoked (19.10.2009) by *Monkfish (Control of Landings) Regulations 2009* (S.I. No. 417 of 2009), reg. 6.
+>
+> • (30.01.2009) by *Sea-fisheries (Control of Catches) Regulations 2009* (S.I. No. 31 of 2009); revoked (1.2.2010) by *Sea-Fisheries (Recording of Catches) Regulations 2010* (S.I. No. 51 of 2010), reg. 4.
+>
+> • (8.02.2008) by *Sea-Fisheries (Control of Catches) Regulations 2008* (S.I. No. 22 of 2008); revoked (30.01.2009) by *Sea-fisheries (Control of Catches) Regulations 2009* (S.I. No. 31 of 2009), reg. 10.
+>
+> • (30.01.2008) by *Sea-Fisheries (Landing and Weighing of Pelagic Fish) Regulations 2008* (S.I. No. 15 of 2008); revoked (16.09.2010) by *Sea-Fisheries (Landing and weighing of pelagic fish) Regulations 2010* (S.I. No. 453 of 2010), reg. 8.
+
+### 4. Repeals and Revocations.
+
+**4**.— (1) Each enactment specified in *column (2)* of *Schedule 1* is repealed to the extent specified in *column (3)* of thatSchedule.
+
+(2) Subject to *sections 78*, *85(3)*, *92(2)* and *97(2*, every order or regulation or licence, permit or authorisation made or granted under an enactment or a provision of an enactment repealed by *subsection (1)* is revoked.
+
+### 5. Expenses.
+
+**5**.— The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## PART 2 Sea-Fisheries — PART 2 — Sea-Fisheries
+
+### Chapter 1 Preliminary — Chapter 1 — Preliminary
+
+#### 6. Definitions (Part 2).
+
+**6**.— In this Part—
+
+“Act of 1967” means Criminal Procedure Act 1967;
+
+“Act of 1972” means European Communities Act 1972;
+
+“Act of 1994” means Fisheries (Amendment) Act 1994;
+
+“Act of 1999” means Criminal Justice Act 1999;
+
+“common fisheries policy” means the common fisheries policy of the European Communities;
+
+“Community Regulation” means a Regulation of an institution of the European Communities on the conservation and sustainable exploitation of fisheries resources under the common fisheries policy or the matters related thereto, and includes a reference to a Regulation of an institution of the European Communities amending or replacing the Regulation;
+
+“equipment” includes any thing, instrument or machinery (other than fishing gear) used or capable of being used for handling, weighing, transporting, processing or storing fish;
+
+“exclusive fishery limits” means exclusive fishery limits of the State;
+
+F4["exclusive economic zone" has the same meaning as it has in the Maritime Jurisdiction Act 2021;]
+
+F5["exclusive fishery limits of the State" comprise all seas that lie inside the outer limit of the exclusive economic zone;]
+
+“fish” and “sea-fish” include anadromous and catadromous species and all crustaceans and molluscs found in the sea and the brood and spawn of fish, and references to a fish are to be read as including references to part of that fish;
+
+“fishing effort” and “fishing opportunities” have the meaning assigned to them, respectively, in Council Regulation (EC) No. 2371/2002 of 20 December 2002 [^2] and any Community regulations made under it on the conservation and sustainable exploitation of fisheries resources under the common fisheries policy;
+
+“fishing gear” includes any net, pot, trap, line, pole, dredge or other apparatus of any kind and any attachment of any kind thereto used or capable of being used for catching fish;
+
+“ICES” means the International Council for the Exploration of the Sea;
+
+“master”, when used in relation to a sea-fishing boat, means the master, skipper or other person for the time being in charge of the boat;
+
+“net” means an implement comprised mainly of netting wherever found, stored or used for the capture of fish in the sea whether static or towed or hauled or intended to be towed or hauled;
+
+“owner” in relation to a sea-fishing boat, means the person registered as its owner or, if no person is so registered, the person who owns the boat, and includes any part owner, charterer, hirer, manager or operator of the boat;
+
+“prescribed” means prescribed by regulations made by the Minister and “prescribe” is to be read accordingly;
+
+“prosecutor” means the Attorney General and, in lieu of him or her, from the day appointed by an order made under *section 39*, the Director of Public Prosecutions;
+
+“records” means any logbook, document or any other written or printed material in any form including any information stored, maintained or preserved by means of any mechanical or electronic device, whether or not stored, maintained or preserved in a legible form;
+
+“relevant provision” means *Chapter 2* or Part 4 of the Act of 2003;
+
+“sea-fishing” means fishing for or taking fish or sea-fish;
+
+“sea-fishing boat” means any ship, boat or other vessel of whatsoever kind used for sea-fishing and includes any vessel or boat used for the treatment of fish or partly or wholly for the transport of fish;
+
+“sea-fisheries protection officer” means a person declared by *section 16* to be a sea-fisheries protection officer;
+
+“Secretary General” means Secretary General of the Department;
+
+“specified area” means waters falling within the ICES sub-areas and divisions as described in Communication (85/C347/05) from the Commission of the European Communities on the description of the ICES sub-areas and divisions used for the purposes of fishing statistics and regulations in the North East Atlantic;
+
+“State’s fishing quota” means the State’s share of the total allowable catch fixed by a Regulation of the Council of the European Communities relating to certain species of fish in respect of a particular period;
+
+“Table” means a Table to *section 28*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F4: Inserted (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 31(a)(ii), S.I. No. 601 of 2021.
+>
+> F5: Substituted (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 31(a)(i), S.I. No. 601 of 2021.
+
+#### 7. Moville and Louth areas.
+
+**7**.— This Part extends to the Moville Area (within the meaning of the Foyle Fisheries Act 1952) and the Louth Area (within the meaning of section 31 of the British-Irish Agreement Act 1999).
+
+### Chapter 2 Regulation of Sea-Fishing — Chapter 2 — Regulation of Sea-Fishing
+
+#### 8. Restriction on foreign sea-fishing boats entering exclusive fishery limits.
+
+**8**.— (1) It is not lawful for any foreign sea-fishing boat to enter within the exclusive fishery limits except for—
+
+(*a*) a purpose or purposes recognised by—
+
+(i) Community law,
+
+(ii) international law, or
+
+(iii) any convention, treaty or arrangement for the time being in force between the State and the country to which the boat belongs,
+
+or
+
+(*b*) any other lawful purpose or purposes.
+
+(2) If a foreign sea-fishing boat enters within the exclusive fishery limits in contravention of *subsection (1)* the master of the boat commits an offence.
+
+#### 9. Provisions in relation to foreign sea-fishing boats lawfully entering exclusive fishery limits.
+
+**9**.— (1) If a foreign sea-fishing boat enters within the exclusive fishery limits for—
+
+(*a*) a purpose or purposes recognised by—
+
+(i) Community law,
+
+(ii) international law, or
+
+(iii) any convention, treaty or arrangement for the time being in force between the State and the country to which the boat belongs,
+
+or
+
+(*b*) any other lawful purpose or purposes,
+
+then—
+
+(I) the boat must leave the exclusive fishery limits as soon as the purpose for which the boat so entered has been answered, and
+
+(II) any regulations made under *subsection (2)* and for the time being in force shall be duly observed.
+
+(2) The Minister may make regulations in relation to the maintenance of good order amongst foreign sea-fishing boats for the time being within the territorial seas of the State and the persons on board such boats.
+
+(3) If there has been in relation to a foreign sea-fishing boat which has lawfully entered within the exclusive fishery limits or in relation to the persons on board that boat, a contravention (whether by commission or omission) of *subsection (1)*, the master of the boat commits an offence.
+
+#### 10. Unauthorised fishing while on board foreign sea-fishing boat within exclusive fishery limits.
+
+F6[**10.**— (1) Subject to *section 9* and *subsection (2)*, a person on board a foreign sea-fishing boat shall not fish or attempt to fish while the boat is within the exclusive fishery limits unless he or she is authorised by law to do so.
+
+(2) A person who is on board a sea-fishing boat owned and operated in Northern Ireland may fish or attempt to fish while the boat is within the area between 0 and 6 nautical miles as measured from the baseline (within the meaning of F7[the Maritime Jurisdiction Act 2021]) if, at that time, both the person and the boat comply with any obligation specified in *subsection (3)* which would apply in the same circumstances if the boat were an Irish sea-fishing boat.
+
+(3) The obligations referred to in *subsection (2)* are the following:
+
+(*a*) an obligation under the *Sea-Fisheries Acts 2003 to 2019* or regulations made under those Acts;
+
+(*b*) an obligation under the *Fisheries Acts 1959 to 2019* or regulations made under those Acts;
+
+(*c*) an obligation contained in regulations made under section 3 of the European Communities Act 1972;
+
+(*d*) an obligation under a provision of the treaties of the European Union, or a provision of an act adopted by an institution of the European Union, an institution of the European Communities or a body competent under those treaties;
+
+(*e*) an obligation specified in a policy directive given by the Minister under section 3(2)(b) of the Act of 2003;
+
+(*f*) such other obligation as the Minister may specify in regulations under *section 3*.
+
+(4) A person who contravenes *subsection (1)* commits an offence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F6: Substituted (23.04.2019) by *Sea-Fisheries (Amendment) Act 2019* (9/2019), s. 1, S.I. No. 165 of 2019.
+>
+> F7: Substituted (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 31(b), S.I. No. 601 of 2021.
+
+#### 11. Contravention of EC Regulation (common fisheries policy).
+
+**11**.— (1) Unless otherwise provided by law, a person who contravenes or fails to comply with an obligation imposed on the person by a Community Regulation commits an offence.
+
+(2) *Subsection (1)* does not apply to an obligation imposed on the State by a Community Regulation.
+
+(3) This section applies to—
+
+(*a*) sea-fishing boats within the exclusive fishery limits,
+
+(*b*) an Irish sea-fishing boat in waters, wherever it may be, and
+
+(*c*) any person engaged in landing, trans-shipping, buying, handling, weighing, transporting, processing, storing, documenting or selling fish within the State or the exclusive fishery limits.
+
+(4) Where there is a contravention of or a failure to comply with an obligation imposed by a Community Regulation on, or by, a sea-fishing boat and where a person is not specified in the Community Regulation to have contravened or failed to comply with the obligation, the master and the owner of the boat each commits an offence.
+
+(5) Where there is a contravention of or a failure to comply with an obligation imposed by a Community Regulation by a person involved in landing, trans-shipping, buying, handling, weighing, transporting, processing, storing, documenting or selling fish, the person contravening or failing to comply with such obligation commits an offence.
+
+#### 12. Management of State’s fishing quota — notices.
+
+**12**.— (1) The Minister may, for the proper management and conservation and rational exploitation of the State’s fishing quota and fishing effort under the common fisheries policy, issue notices to be complied with by the owners or masters of Irish sea-fishing boats and persons on board them with regard to prohibitions or restrictions on the catching of fish or the quantity of fish which may be caught in a specified area.
+
+(2) A notice may restrict or prohibit for a specified period the catching, retention on board or landing of a specified fish stock or group of fish stocks or a quantity of such in a specified area and may be addressed to all or certain types, lengths, sizes or classes of sea-fishing boats.
+
+(3) The master of an Irish sea-fishing boat shall not engage in or cause or permit any person on board to engage in fishing for fish in a specified area in which the catching, retention on board or landing of such fish is prohibited by a notice.
+
+(4) An Irish sea-fishing boat shall not have or retain, and the master of the boat shall not cause or permit the boat or any person on board to have or retain, any fish on board which is prohibited by a notice.
+
+(5) An Irish sea-fishing boat or a person on board the boat shall not have or retain on board in a specified area or specified period—
+
+(*a*) more than the quantity of fish, or
+
+(*b*) such quantities of fish which are more than the catch composition,
+
+permitted by a notice in respect of the area nor land more than that quantity.
+
+(6) The master of an Irish sea-fishing boat shall not, unless permitted by a notice, during the specified period in a notice cause or permit the boat to be used, in a specified area mentioned in the notice, for the trans-shipment of fish specified in the notice or cause or permit such boat to engage in trans-shipment operations at sea.
+
+(7) The master of an Irish sea-fishing boat—
+
+(*a*) before setting out on a voyage to fish for fish specified in a notice the fishing of which is restricted by the notice, shall, if required by the notice, inform a sea-fisheries protection officer of the expected port at which the fish is intended to be landed from the boat on completion of the voyage,
+
+(*b*) in a specified area mentioned in a notice before any entry into port or trans-shipment of fish from the boat, shall if required by the notice, inform a sea-fisheries protection officer of the time and location of the entry or trans-shipment, as the case may be, whether inside or outside the State and the quantity of fish concerned, and
+
+(*c*) shall if required by the notice not land the fish at any port or place, unless on each occasion a sea-fisheries protection officer has given prior approval of the landing.
+
+(8) A notice, specifying the date and time of its issue and the date from which it comes into force, not being a day earlier than the day after its first publication, shall be published, in such manner as the Minister considers appropriate and expedient in the circumstances (including electronic means, whether by electronic-mail, facsimile, the internet, or otherwise, or by publication in a newspaper published and circulating in the State or to organisations the Minister considers representative of the interests of persons engaged in sea-fishing).
+
+F8[(9) Without prejudice to *subsection (8)*, notification of the publication of a notice under that subsection shall be made by publishing a notification in Iris Oifigiil and such notification shall include the date on which, and manner in which, the notice was published.]
+
+(10) A copy of the *Iris Oifigiúil* purporting to contain a F9[notification] may be produced in every court and in all legal proceedings and is evidence, unless the contrary is shown, of the F10[notification].
+
+(11) A copy of a notice, which has endorsed on it a certificate purporting to be signed by an officer of the Department (authorised in that behalf by the Secretary General) stating that the copy is a true copy of the notice may, without proof of signature of that officer, be produced in every court and in all legal proceedings and is evidence, unless the contrary is shown, of the notice.
+
+(12) The master of an Irish sea-fishing boat who contravenes *subsection (3)*, *(4)* or *(6)* commits an offence.
+
+(13) Where there is a contravention of *subsection (5)* the master of the Irish sea-fishing boat upon which the contravention occurred commits an offence.
+
+(14) The master of an Irish sea-fishing boat who fails to comply with *subsection (7)* commits an offence.
+
+(15) It is the duty of the master of an Irish sea-fishing boat to keep himself or herself informed of notices relating to fishing from his or her boat.
+
+(16) The Minister may authorise in writing an officer of the Department to issue a notice on his or her behalf.
+
+(17) In this section “notice” means a notice issued under *subsection (1)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F8, F9, F10: Substituted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 3(a), (b), S.I. No. 202 of 2022.
+>
+> **Editorial Notes:**
+>
+> E83: Power pursuant to section exercised (6.04.2011) by *Sea-Fisheries (Recording of Fish) (No. 2) (Revocation) Regulations 2011* (S.I. No. 182 of 2011).
+>
+> E84: Previous affecting provisions: power pursuant to section exercised :
+>
+> • (31.08.2012) by *Sea-Fisheries (Technical Measures) (Amendment) (No. 2) Regulations 2012* (S.I. No. 337 of 2012); revoked (5.06.2013) by *Sea-Fisheries (Technical Measures) Regulations 2013* (S.I. No. 197 of 2013), reg. 6(3).
+>
+> • (8.03.2012) by *Sea-Fisheries (Technical Measures) (Amendment) Regulations 2012* (S.I. No. 78 of 2012); ceased (25.08.2012) as per reg. 3 and revoked (31.08.2012) by *Sea-Fisheries (Technical Measures) (Amendment) (No. 2) Regulations 2012* (S.I. No. 337 of 2012), reg. 4.
+>
+> • (28.09.2011) by *Sea-Fisheries (Common Fisheries Policy Community Control System) Regulations 2011* (S.I. No. 490 of 2011); revoked (9.08.2012) by *Sea-Fisheries (Community Control System) Regulations 2012* (S.I. No. 320 of 2012), reg. 14.
+>
+> • (22.09.2011) by *Sea-Fisheries (Control of Catches) (Deep-Sea Stocks) Regulations 2011* (S.I. No. 482 of 2011); revoked (11.04.2013) by *Sea-Fisheries (Quotas) (Deep-Sea Stocks) Regulations 2013* (S.I. No. 141 of 2013), reg. 5.
+>
+> • (22.09.2011) by *Sea-Fisheries (Technical Measures) Regulations 2011* (S.I. No. 481 of 2011); revoked (5.06.2013) by *Sea-Fisheries (Technical Measures) Regulations 2013* (S.I. No. 197 of 2013), reg. 6(2).
+
+#### 13. Management and Regulation of State’s fishing opportunities and fishing effort — authorisations.
+
+**13**.— (1) The Minister may, for the proper and effective management and conservation and rational exploitation of fishing opportunities and fishing effort for Irish sea-fishing boats under the common fisheries policy, at his or her discretion—
+
+F11[*(a)* upon—
+
+(i) the application from any person, in such form as the Minister decides, or
+
+(ii) the Minister’s own initiative, in respect of any person,
+
+(I) is the owner of an Irish sea-fishing boat which is entered in the Register of Fishing Boats, and
+
+(II) to whom a sea-fishing boat licence has been granted,
+
+and]
+
+(*b*) upon the person giving to the Minister such information as the Minister may reasonably require in relation to the application or the fishing capacity or operation of the boat concerned,
+
+F12[grant (in electronic form or otherwise)] to the person an authorisation (“authorisation”) in respect of the boat, authorising, subject to this section, the utilisation of the boat’s fishing effort for the capture and retention on board of a specified fish stock (“stock”) or group of fish stocks (“stocks”) from the boat in a specified area mentioned in the authorisation and the landing or trans-shipment of the specified stock or stocks taken in that area during such period as is specified in the authorisation.
+
+(2) The Minister may renew, subject to this section, without application, at his or her discretion, an authorisation for such period as may be stated in the renewed authorisation, where the Minister is satisfied that—
+
+(*a*) the holder of the authorisation upon its expiration continues to be the owner, F13[...] of the boat in respect of which the authorisation was granted, and
+
+(*b*) the boat concerned upon the expiration of the authorisation continues to be—
+
+(i) the subject of a sea-fishing boat licence, and
+
+(ii) entered in the Register of Fishing Boats.
+
+(3) Without prejudice to the Minister’s discretion to refuse to grant or renew an authorisation, the Minister may refuse to grant or renew an authorisation where the applicant for or holder of an authorisation, as the case may be, has previously had such an authorisation held by him or her revoked.
+
+(4) An authorisation shall not authorise the fishing for a specified stock or stocks in the area, or the divisions, or sub-areas specified in the authorisation, or the landing or trans-shipment of a specified stock or stocks taken on board a boat or caught in that area, or in those divisions or sub-areas, in contravention of a Community Regulation or a notice issued under *section 12(1)*.
+
+(5) The Minister may attach to an authorisation conditions—
+
+(*a*) specifying the quantities and types of fishing gear which may be kept on board the boat or used for the purposes of fishing for the specified stock or stocks, and the manner in which such gear may be used or stored,
+
+(*b*) specifying conditions for the use of fishing effort,
+
+(*c*) prohibiting the trans-shipment or landing of the specified stock or stocks other than at specified places and within specified hours,
+
+(*d*) requiring the giving of specified advance notice of entry into port, and any other information as may be specified in the authorisation,
+
+(*e*) requiring the authorisation by a sea-fisheries protection officer for the landing of the specified stock or stocks,
+
+(*f*) requiring the separate storage of specified stocks,
+
+(*g*) requiring the collection, collation and submission of all specified data considered necessary in relation to fishing, trans-shipment or landing for the specified stocks,
+
+(*h*) requiring the provision of assistance to and co-operation with sea-fisheries protection officers in carrying out their duties,
+
+(*i*) requiring the keeping of such records in relation to the activities of the boat as may be specified in the authorisation,
+
+(*j*) requiring the facilitation of the placing of any person appointed by the Department or its agencies on board the boat for the purposes of ensuring compliance with the requirements of the authorisation, fisheries legislation, scientific observation, and requiring the provision of assistance and co-operation to that person in carrying out his or her duties or otherwise,
+
+F14[(*k*) requiring the keeping of the authorisation, or where the authorisation is issued in electronic form, a printed copy of the authorisation, on the boat concerned.]
+
+(6) The Minister may, as a condition of the authorisation, from time to time, restrict the quantity of fish, during such period as he or she decides—
+
+(*a*) that may be taken or retained, on board a particular authorised boat in any specified area or part of it, or
+
+(*b*) in respect of fish so taken or retained, that may be landed or trans-shipped from the boat.
+
+(7) (*a*) Conditions under *subsection (5)* or *(6)* may be attached to an authorisation at the time it is granted or at any time while it is in force.
+
+(*b*) A condition may be altered at any time while the authorisation is in force and further conditions may be added.
+
+(*c*) Notification of any condition or alteration shall be made in writing (including writing in electronic form) to the holder of the authorisation and to any organisation which the Minister considers to be representative of the holder.
+
+(*d*) Any condition attached or altered, after the authorisation is granted, comes into force as specified in the notification to the holder of the authorisation, being a period not earlier than 24 hours after the notification is sent.
+
+(*e*) It is the duty of the holder of the authorisation to inform the master of the sea-fishing boat to which the authorisation relates of any condition or alteration of a condition notified to the holder under this subsection.
+
+(8) The Minister may, as a condition of the authorisation, from time to time, restrict the fishing effort by a particular authorised boat in any specified area or specified time period on any specified stock or stocks or types of fishing gear.
+
+(9) Where an authorised boat is engaged with another authorised boat in pair fishing for a specified stock or stocks in an area specified in an authorisation, the boat may, notwithstanding any restriction under *subsection (6)*, take on board such quantity allowed to the other boat under *subsection (6)(a)*, or land or trans-ship the other boat’s share of the specified stock or stocks so taken, subject to such conditions as may be specified in the authorisation relating to the other boat.
+
+(10) Any restriction under *subsection (6)* or *(8)* is deemed a condition of the authorisation to which it relates and the holder of the authorisation and the master of the authorised boat concerned shall comply with it.
+
+(11) The master of a licensed boat who contravenes or fails to comply with any condition of an authorisation relating to the boat or causes or permits such a contravention or failure commits an offence.
+
+(12) If the Minister is satisfied that there has been a failure to comply with a Community Regulation or this Act or with a condition specified in an authorisation, the Minister may revoke or withdraw for a period the authorisation.
+
+(13) (*a*) Where the Minister proposes to revoke, or withdraw for a period, an authorisation he or she shall notify in writing (including writing in electronic form) the holder of the authorisation of the proposal and the reasons for it.
+
+(*b*) The holder may within 14 days of being sent the notification make representations to the Minister about the proposal.
+
+(*c*) The Minister shall consider such representations before making a decision to revoke or withdraw the authorisation.
+
+(*d*) The decision takes effect 24 hours after notification of it in writing is sent to the holder.
+
+(*e*) It is the duty of the holder to inform immediately the master of the sea-fishing boat to which the authorisation relates of the revocation or withdrawal.
+
+(14) An authorisation stands revoked if—
+
+(*a*) the holder of the authorisation ceases to be the owner of the boat in respect of which the authorisation was granted,
+
+(*b*) a sea-fishing boat licence in relation to the boat is revoked or has expired, or
+
+(*c*) the boat ceases to be registered in the Register of Fishing Boats.
+
+(15) A person shall not, other than pursuant to an authorisation, fish for, retain on board, or trans-ship or land from, an Irish sea-fishing boat, a specified stock or stocks where the Minister has determined that, for that stock or stocks and for that boat or type of boat, an authorisation is required.
+
+(16) The owner or master of an Irish sea-fishing boat, shall not, other than pursuant to an authorisation, cause or permit—
+
+(*a*) the boat or any person on board the boat to fish for the specified stock or stocks in the specified area, or
+
+(*b*) the landing or trans-shipment from, or retention on board, the boat of the specified stock or stocks taken in the specified area.
+
+(17) A person who contravenes *subsection (15)* or *(16)* commits an offence.
+
+(18) The Minister may authorise such officers of the Department as he or she considers necessary to grant authorisations on behalf of the Minister and to add or alter conditions to authorisations.
+
+(19) In this section—
+
+“authorisation” means an authorisation granted under *subsection (1)*;
+
+“authorised boat” means an Irish sea-fishing boat in respect of which an authorisation, which is in force, has been granted;
+
+“pair fishing” means, in relation to an authorised boat, the towing or trawling of a trawl, seine or other net in the sea by the boat jointly with another authorised boat for the purpose of catching fish;
+
+“sea-fishing boat licence” means a licence granted under section 4 (inserted by *section 97*) of the Act of 2003.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F11, F12: Substituted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 4(a)(i), (ii), S.I. No. 202 of 2022.
+>
+> F13: Deleted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 4(b), S.I. No. 202 of 2022.
+>
+> F14: Substituted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 4(c), S.I. No. 202 of 2022.
+>
+> **Editorial Notes:**
+>
+> E85: Previous affecting provision: power pursuant to section exercised (28.09.2011) by *Sea-Fisheries (Common Fisheries Policy Community Control System) Regulations 2011* (S.I. No. 490 of 2011); revoked (9.08.2012) by *Sea-Fisheries (Community Control System) Regulations 2012* (S.I. No. 320 of 2012), reg. 14.
+>
+> E86: Previous affecting provisions: entitlement of persons who hold an authorisation to fish for mussel seed granted under section provided:
+>
+> • (17.08.2014 to 3.12.2014) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2014* (S.I. No. 386 of 2014), regs. 3, 4, in effect as per reg. 1; revoked (5.09.2015) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2015* (S.I. No. 370 of 2015), reg. 4(a), in effect as per reg. 1(2).
+>
+> • (12.09.2013 to 30.11.2013) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2013* (S.I. No. 352 of 2013), regs. 3, 4, in effect as per reg. 1; revoked (5.09.2015) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2015* (S.I. No. 370 of 2015), reg. 4(b), in effect as per reg. 1(2).
+>
+> • (12.05.2012) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) Opening of Fisheries) Regulations 2012* (S.I. No. 154 of 2012), reg. 3, in effect as per reg. 1; revoked (9.01.2013) by *Mussel Seed (Closing of Fisheries) Regulations 2013* (S.I. No. 8 of 2013)
+>
+> • (9.05.2011) by *Mussel Seed (Opening of Fisheries) Regulations 2011* (S.I. No. 204 of 2011), reg. 3, in effect as per reg. 1; revoked (26.01.2012) by *Mussel Seed (Closing of Fisheries) Regulations 2012* (S.I. No. 29 of 2012), reg. 4.
+>
+> • (30.08.2010) by *Mussel Seed (Opening of Fisheries) (No. 2) Regulations 2010* (S.I. No. 413 of 2010), in effect as per reg. 1; revoked (2.12.2010) by *Mussel Seed (Closing of Fisheries) (No. 2) Regulations 2010* (S.I. No. 572 of 2010), reg. 2, in effect as per reg. 1.
+>
+> • (4.05.2010) by *Mussel Seed (Opening of Fisheries) Regulations 2010* (S.I. No. 174 of 2010), reg. 3(1), in effect as per reg. 1; revoked (25.05.2010) by *Mussel Seed (Closing of Fisheries) Regulations 2010* (S.I. No. 228 of 2010), reg. 2, in effect as per reg. 1.
+
+#### 14. Regulations to give effect to common fisheries policy.
+
+**14**.— (1) Without prejudice to the generality of section 3(1) of the Act of 1972, the Minister may by regulations prescribe measures to give effect to any provision either of the treaties governing the European Communities or Community law which authorises any or all of the Member States of the European Communities to restrict, or otherwise regulate in respect of the common fisheries policy in a manner specified in the provision, fishing or fishing gear or equipment or buying, handling, weighing, trans-shipping, transporting, landing, processing, storing, documenting or selling fish. Such regulations may apply to any or all of the following:
+
+(*a*) sea-fishing boats within the exclusive fishery limits;
+
+(*b*) an Irish sea-fishing boat, wherever it may be; and
+
+(*c*) any person engaged in buying, handling, weighing, trans-shipping, transporting, landing, processing, storing, documenting or selling fish within the State or the exclusive fishery limits.
+
+(2) Regulations under this section may, in particular—
+
+(*a*) prescribe measures such as—
+
+(i) prohibitions of or restrictions on areas or times or methods of fishing or use of fishing boats or fishing gear or equipment on them,
+
+(ii) prohibitions of or restrictions on fishing effort,
+
+(iii) prohibitions of or restrictions on or requirements as regards the equipment of fishing boats or fishing gear, or the use, modification or maintenance or storage thereof or interference therewith,
+
+(iv) prohibitions of or restrictions on the catching, handling, composition of catch, retention and storage on board, trans-shipment and landing of fish, including permitted—
+
+(I) size and type of fish which may be caught, and
+
+(II) times, locations and conditions of landings,
+
+or such other measures as may be prescribed,
+
+(*b*) impose obligations on the holder of a sea-fishing boat licence including, in particular, obligations in relation to—
+
+(i) the catching, handling, composition of catch, retention and storage on board, trans-shipment and landing of fish, and
+
+(ii) the taking, making and keeping of records and assisting and co-operating with any person appointed by the Department or its agencies to be on that boat,
+
+and
+
+(*c*) include such incidental, supplementary and consequential provisions as appear to the Minister to be necessary for the purposes of the regulations (including provisions repealing, amending or applying, with or without modification, other law, exclusive of this Act).
+
+(3) Where there is a contravention of a regulation under this section—
+
+(*a*) in relation to a sea-fishing boat or to fishing gear or equipment on board the boat, the master and owner of the boat and the owner of the fishing gear or equipment each commits an offence, or
+
+(*b*) in relation to fish, the master and owner of the boat concerned and the buyer, handler, weigher, transporter, processor, person storing or documenting and seller of the fish each commits an offence.
+
+(4) In any proceedings for an offence under this section it shall be for the accused to show (as the case may be)—
+
+(*a*) entitlement to any exemption or relief from any prohibition or restriction or requirement alleged to have been contravened, or
+
+(*b*) that in the circumstances it was not possible to know or not reasonable to ascertain that a regulation was being contravened.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C11: Application of subs. (3) extended (13.04.2006) by *Sea Fisheries (Conservation and Rational Exploitation of Hake) Regulations 2006* (S.I. No. 179 of 2006), reg. 3.
+>
+> 3\. A contravention of any provision of the Commission Regulation relating to:
+>
+> (*a*) sea-fishing boats within the exclusive fishery limits of the State; or
+>
+> (*b*) an Irish sea-fishing boat wherever it may be,
+>
+> or a failure to comply with an obligation imposed by the Commission Regulation so relating, other than an obligation imposed on the State, shall, for the purposes of subsection (3) of section 14 of the Sea-Fisheries and Maritime Jurisdiction Act 2006 be deemed to be a contravention of these Regulations and the provisions of that Act relating to a contravention of a regulation under the said section 14 shall accordingly apply thereto.
+>
+> C12: Application of section extended (13.04.2006) by *Sea Fisheries (Conservation and Rational Exploitation of Cod in the Irish Sea) Regulations 2006* (S.I. No. 178 of 2006), reg. 3.
+>
+> 3\. A contravention of any provision of the Council Regulation relating to:
+>
+> (*a*) sea-fishing boats within the exclusive fishery limits of the State; or
+>
+> (*b*) an Irish sea-fishing boat wherever it may be,
+>
+> or a failure to comply with an obligation imposed by the Council Regulation so relating, other than an obligation imposed on the State, shall, for the purposes of subsection (3) of section 14 of the Sea-Fisheries and Maritime Jurisdiction Act 2006 be deemed to be a contravention of these Regulations and the provisions of that Act relating to a contravention of a regulation under the said section 14 shall accordingly apply thereto.
+>
+> C13: Application of section extended (13.04.2006) by *Sea Fisheries (Conservation and Rational Exploitation of Cod in the North Sea and to the West of Scotland) Regulations 2006* (S.I. No. 177 of 2006), reg. 3.
+>
+> 3\. A contravention of any provision of the Council Regulation relating to:
+>
+> (*a*) sea-fishing boats within the exclusive fishery limits of the State; or
+>
+> (*b*) an Irish sea-fishing boat wherever it may be,
+>
+> or a failure to comply with an obligation imposed by the Council Regulation so relating, other than an obligation imposed on the State, shall, for the purposes of subsection (3) of section 14 of the Sea-Fisheries and Maritime Jurisdiction Act 2006 be deemed to be a contravention of these Regulations and the provisions of that Act relating to a contravention of a regulation under the said section 14 shall accordingly apply thereto.
+>
+> C14: Application of section extended (13.04.2006) by *Fishing Effort for Vessels in the Context of the Recovery of Certain Stocks Regulations 2006* (S.I. No. 176 of 2006), reg. 4.
+>
+> 4\. A contravention of any provision of the Commission Regulation or the Cod Recovery plan relating to:
+>
+> (*a*) sea-fishing boats within the exclusive fishery limits of the State; or
+>
+> (*b*) an Irish sea-fishing boat wherever it may be,
+>
+> or a failure to comply with an obligation imposed by the Council Regulation or the Cod Recovery Plan so relating, other than an obligation imposed on the State, shall, for the purposes of subsection (3) of section 14 of the Sea-Fisheries and Maritime Jurisdiction Act 2006 be deemed to be a contravention of these Regulations and the provisions of that Act relating to a contravention of a regulation under the said section 14 shall accordingly apply thereto.
+>
+> C15: Application of section extended (13.04.2006) by *Deep Sea Fishing Opportunities and Orange Roughy Protection Areas Regulations 2006* (S.I. No. 174 of 2006), reg. 4.
+>
+> 4\. A contravention of any provision of the Council Regulation relating to:
+>
+> (*a*) sea-fishing boats within the exclusive fishery limits of the State; or
+>
+> (*b*) an Irish sea-fishing boat wherever it may be; or
+>
+> (*c*) any person engaged in buying, handling, weighing, trans-shipping, transporting, landing, processing, storing, documenting or selling fish within the State or the exclusive fishery limits of the State,
+>
+> or a failure to comply with an obligation imposed by the Council Regulation so relating, other than an obligation imposed on the State, shall, for the purposes of subsection (3) of section 14 of the Sea-Fisheries and Maritime Jurisdiction Act 2006 , be deemed to be a contravention of these Regulations and the provisions of that Act relating to a contravention of a regulation under the said section 14 shall accordingly apply thereto.
+>
+> C16: Application of section extended (13.04.2006) by *Fishing Opportunities and Associated Conditions (No. 2) Regulations 2006* (S.I. No. 173 of 2006), reg. 4.
+>
+> 4\. A contravention of any provision of the Council Regulation relating to:
+>
+> (*a*) sea-fishing boats within the exclusive fishery limits of the State; or
+>
+> (*b*) an Irish sea-fishing boat wherever it may be; or
+>
+> (*c*) any person engaged in buying, handling, weighing, trans-shipping, transporting, landing, processing, storing, documenting or selling fish within the State or the exclusive fishery limits of the State,
+>
+> or a failure to comply with an obligation imposed by the Council Regulation so relating, other than an obligation imposed on the State, shall, for the purposes of subsection (3) of section 14 of the Sea-Fisheries and Maritime Jurisdiction Act 2006 , be deemed to be a contravention of these Regulations and the provisions of that Act relating to a contravention of a regulation under the said section 14 shall accordingly apply thereto.
+>
+> **Editorial Notes:**
+>
+> E87: Power pursuant to section exercised (19.12.2025) by *Sea - Fisheries (Technical Measures) (Amendment) Regulations 2025* (S.I. No. 675 of 2025).
+>
+> E88: Power pursuant to section exercised (9.12.2025) by *Sea-Fisheries (Quotas) Regulations 2025* (S.I. No. 612 of 2025).
+>
+> E89: Power pursuant to section exercised (20.06.2023) by *Sea-Fisheries (North Western Waters Landing Obligation) (Amendment) (No. 2) Regulations 2023* (S.I. No. 323 of 2023).
+>
+> E90: Power pursuant to section exercised (25.05.2023) by *Sea-Fisheries (Illegal, Unreported and Unregulated Fishing) (Amendment) Regulations 2023* (S.I. No. 264 of 2023).
+>
+> E91: Power pursuant to section exercised (7.12.2022) by *Sea-Fisheries (Community Control System) (Amendment) (No. 2) Regulations 2022* (S.I. No. 638 of 2022).
+>
+> E92: Power pursuant to section exercised (7.09.2022) by *Sea-Fisheries (Community Control System) (Amendment) Regulations 2022* (S.I. No. 463 of 2022).
+>
+> E93: Power pursuant to section exercised (12.11.2021) by *Sea-fisheries (Revocation) Regulations 2021* (S.I. No. 602 of 2021).
+>
+> E94: Power pursuant to section exercised (23.09.2021) by *Sea-Fisheries (Common Fisheries Policy) (Bluefin Tuna) (Amendment) Regulations 2021* (S.I. No. 497 of 2021).
+>
+> E95: Power pursuant to section exercised (2.03.2021 to 31.12.2023) by *Sea-Fisheries (North Western Waters Landing Obligation) Regulations 2021* (S.I. No. 101 of 2021).
+>
+> E96: Power pursuant to section exercised (28.01.2021) by *Sea-Fisheries (Illegal, Unreported and Unregulated Fishing) (Amendment) Regulations 2021* (S.I. No. 37 of 2021).
+>
+> E97: Power pursuant to section exercised (10.10.2020) by *Sea-Fisheries (Technical Measures) Regulations 2020* (S.I. No. 440 of 2020).
+>
+> E98: Power pursuant to section exercised (13.05.2020) by *Sea Fisheries (Shark Fin) Regulations 2020* (S.I. No. 172 of 2020).
+>
+> E99: Power pursuant to section exercised (28.11.2019) by *Sea-Fisheries (Community Control System) (Amendment) (No. 2) Regulations 2019* (S.I. No. 596 of 2019).
+>
+> E100: Power pursuant to section exercised (23.10.2019) by *Sea Fisheries (Technical Measures) Regulations 2019* (S.I. No. 520 of 2019).
+>
+> E101: Power pursuant to section exercised (17.07.2019) by *Sea-Fisheries (Common Fisheries Policy) (Bluefin Tuna) (Amendment) Regulations 2019* (S.I. No. 360 of 2019).
+>
+> E102: Power pursuant to section exercised (16.07.2019) by *Sea-Fisheries (Community Control System) (Amendment) Regulations 2019* (S.I. No. 365 of 2019).
+>
+> E103: Power pursuant to section exercised (24.10.2018) by *Sea-Fisheries (Common Fisheries Policy) (Bluefin Tuna) (Amendment) Regulations 2018* (S.I. No. 447 of 2018).
+>
+> E104: Power pursuant to section exercised (24.10.2018) by *Sea-Fisheries (Community Control System) (Amendment) (No. 2) Regulations 2018* (S.I. No. 446 of 2018).
+>
+> E105: Power pursuant to section exercised (3.05.2018) by *Sea-Fisheries (Community Control System) (Amendment) Regulations 2018* (S.I. No. 155 of 2018).
+>
+> E106: Power pursuant to section exercised (26.04.2018) by *European Union (Common Fisheries Policy) (Landing Obligation) (Amendment) Regulations 2018* (S.I. No. 137 of 2018).
+>
+> E107: Power pursuant to section exercised (3.03.2017) by *Sea-Fisheries (Community Control System) (Amendment) Regulations 2017* (S.I. No. 78 of 2017).
+>
+> E108: Power pursuant to section exercised (17.02.2017) by *Sea-Fisheries (Conservation and Rational Exploitation of Deep-Sea Species) Regulations 2017* (S.I. No. 50 of 2017).
+>
+> E109: Power pursuant to section exercised (20.12.2016) by *Sea-Fisheries (Common Fisheries Policy) (Bluefin Tuna) Regulations 2016* (S.I. No. 680 of 2016).
+>
+> E110: Power pursuant to section exercised (2.02.2016) by *Sea-Fisheries (Community Control System) Regulations 2016* (S.I. No. 54 of 2016).
+>
+> E111: Power pursuant to section exercised (5.01.2016) by *Sea-Fisheries (Conservation and Rational Exploitation of Hake) (Amendment) Regulations 2016* (S.I. No. 7 of 2016).
+>
+> E112: Power pursuant to section exercised (9.12.2015) by *Sea-Fisheries (Conservation and Rational Exploitation of Cod in the North Sea and to the West of Scotland) (Amendment) Regulations 2015* (S.I. No. 565 of 2015).
+>
+> E113: Power pursuant to section exercised (5.11.2015) by *European Union (Common Fisheries Policy) (Landing Obligation) (Amendment) Regulations 2015* (S.I. No. 510 of 2015).
+>
+> E114: Power pursuant to section exercised (27.05.2015) by *Sea-Fisheries (Celtic Sea Technical Measures) Regulations 2015* (S.I. No. 231 of 2015).
+>
+> E115: Power pursuant to section exercised (4.03.2015) by *European Union (Common Fisheries Policy) (Landing Obligation) Regulations 2015* (S.I. No. 83 of 2015).
+>
+> E116: Power pursuant to section exercised (16.09.2014) by *European Union (Common Fisheries Policy) (Faroe Islands) (Revocation) Regulations 2014* (S.I. No. 419 of 2014).
+>
+> E117: Power pursuant to section exercised (19.09.2012) by *Sea-Fisheries (Illegal, Unreported and Unregulated Fishing) (Amendment) Regulations 2012* (S.I. No. 367 of 2012).
+>
+> E118: Power pursuant to section exercised (18.11.2010) by *Sea-Fisheries (Illegal, Unreported and Unregulated Fishing) Regulations 2010* (S.I. No. 554 of 2010).
+>
+> E119: Power pursuant to section exercised (21.04.2008) by *Sea-Fisheries (Control of Catches) (Deep-Sea Stocks) Regulations 2008* (S.I. No. 137 of 2008).
+>
+> E120: Power pursuant to section exercised (12.06.2007) by *Sea-Fisheries (Incidental Catches of Cetaceans in Fisheries) Regulations 2007* (S.I. No. 274 of 2007).
+>
+> E121: Power pursuant to section exercised (13.04.2006) by *Sea Fisheries (Conservation and Rational Exploitation of Hake) Regulations 2006* (S.I. No. 179 of 2006).
+>
+> E122: Power pursuant to section exercised (13.04.2006) by *Sea Fisheries (Conservation and Rational Exploitation of Cod in the Irish Sea) Regulations 2006* (S.I. No. 178 of 2006).
+>
+> E123: Power pursuant to section exercised (13.04.2006) by *Sea Fisheries (Conservation and Rational Exploitation of Cod in the North Sea and to the West of Scotland) Regulations 2006* (S.I. No. 177 of 2006).
+>
+> E124: Power pursuant to section exercised (13.04.2006) by *Fishing Effort for Vessels in the Context of the Recovery of Certain Stocks Regulations 2006* (S.I. No. 176 of 2006).
+>
+> E125: Power pursuant to section exercised (13.04.2006) by *Deep Sea Fishing Opportunities and Orange Roughy Protection Areas Regulations 2006* (S.I. No. 174 of 2006).
+>
+> E126: Power pursuant to section exercised (13.04.2006) by *Fishing Opportunities and Associated Conditions (No. 2) Regulations 2006* (S.I. No. 173 of 2006).
+>
+> E127: Power pursuant to section exercised (11.02.2021) by *Sea-Fisheries (Quotas) Regulations 2021* (S.I. No. 69 of 2021); revoked (26.01.2023) by *Sea-fisheries (Quotas) Regulations 2022* (S.I. No. 290 of 2022), reg. 5.
+>
+> E128: Power pursuant to section exercised (26.02.2020) by *Sea Fisheries (Quotas) Regulations 2020* (S.I. No. 57 of 2020); revoked (11.02.2021) by *Sea-Fisheries (Quotas) Regulations 2021* (S.I. No. 69 of 2021), reg. 6.
+>
+> E129: Power pursuant to section exercised (28.02.2019) by *Sea-Fisheries (Quotas) Regulations 2019* (S.I. No. 71 of 2019); revoked (26.02.2020) by *Sea Fisheries (Quotas) Regulations 2020* (S.I. No. 57 of 2020), reg. 5.
+>
+> E130: Previous affecting provision: power pursuant to section exercised (16.12.2024) by *Sea-fisheries (Technical Measures) (Amendment) Regulations 2024* (S.I. No. 715 of 2024); revoked (19.12.2025) by *Sea - Fisheries (Technical Measures) (Amendment) Regulations 2025* (S.I. No. 675 of 2025), reg. 3.
+>
+> E131: Previous affecting provision: power pursuant to section exercised (4.12.2024) by *Sea-fisheries (Quotas) (Amendment) Regulations 2024* (S.I. No. 679 of 2024); revoked (9.12.2025) by *Sea-Fisheries (Quotas) Regulations 2025* (S.I. No. 612 of 2025), reg. 5(b).
+>
+> E132: Previous affecting provision: power pursuant to section exercised (10.09.2024) by *Sea-Fisheries (Quotas) Regulations 2024* (S.I. No. 457 of 2024); revoked (9.12.2025) by *Sea-Fisheries (Quotas) Regulations 2025* (S.I. No. 612 of 2025), reg. 5(a).
+>
+> E133: Previous affecting provision: power pursuant to section exercised (18.02.2020 to 31.12.2021) by *Sea-Fisheries (North Western Waters Landing Obligation) Regulations 2020* (S.I. No. 54 of 2020); revoked (2.03.2021) by *Sea-Fisheries (North Western Waters Landing Obligation) Regulations 2021* (S.I. No. 101 of 2021), reg. 5.
+>
+> E134: Previous affecting provision: power pursuant to section exercised (26.01.2023) by *Sea-Fisheries (Technical Measures) (Amendment) Regulations 2023* (S.I. No. 13 of 2023); revoked (16.12.2024) by *Sea-fisheries (Technical Measures) (Amendment) Regulations 2024* (S.I. No. 715 of 2024).
+>
+> E135: Previous affecting provision: power pursuant to section exercised (1.06.2023) by *Sea Fisheries (Quotas) Regulations 2023* (S.I. No. 274 of 2023); revoked (10.09.2024) by *Sea-Fisheries (Quotas) Regulations 2024* (S.I. No. 457 of 2024), reg. 5.
+>
+> E136: Previous affecting provision: power pursuant to section exercised (8.02.2023) by *Sea-Fisheries (North Western Waters Landing Obligation) (Amendment) Regulations 2023* (S.I. No. 47 of 2023); revoked (20.06.2023) by *Sea-Fisheries (North Western Waters Landing Obligation) (Amendment) (No. 2) Regulations 2023* (S.I. No. 323 of 2023), reg. 3.
+>
+> E137: Previous affecting provisions: power pursuant to section exercised (8.06.2022) by *Sea-Fisheries (Quotas) Regulations 2022* (S.I. No. 290 of 2022); revoked (1.06.2023) by *Sea Fisheries (Quotas) Regulations 2023* (S.I. No. 274 of 2023), reg. 5(b).
+>
+> E138: Previous affecting provision: power pursuant to section exercised (31.03.2022) by *Sea-Fisheries (North Western Waters Landing Obligation) (Amendment) Regulations 2022* (S.I. No. 224 of 2022); revoked (8.02.2023) by *Sea-Fisheries (North Western Waters Landing Obligation) (Amendment) Regulations 2023* (S.I. No. 47 of 2023), reg. 3.
+>
+> E139: Previous affecting provision: power pursuant to section exercised (31.03.2022) by *Sea-Fisheries (Technical Measures) (Amendment) Regulations 2022* (S.I. No. 223 of 2022); revoked (26.01.2023) by *Sea Fisheries (Technical Measures) (Amendment) Regulations 2023* (S.I. No. 13 of 2023), reg. 3.
+>
+> E140: Previous affecting provision: power pursuant to section exercised (11.02.2021) by *Sea-Fisheries (Quotas) (Deep-Sea Stocks) Regulations 2021* (S.I. No. 70 of 2021); revoked (1.06.2023) by *Sea Fisheries (Quotas) Regulations 2023* (S.I. No. 274 of 2023), reg. 5(a).
+>
+> E141: Previous affecting provision: power pursuant to section exercised (28.02.2019) by *Sea-Fisheries (Quotas) (Deep-Sea Stocks) Regulations 2019* (S.I. No. 70 of 2019); revoked (11.02.2021) by *Sea-Fisheries (Quotas) (Deep-Sea Stocks) Regulations 2021* (S.I. No. 70 of 2021), reg. 4.
+>
+> E142: Previous affecting provision: power pursuant to section exercised (12.02.2019 to 31.12.2021) by *Sea Fisheries (North Western Waters Landing Obligation) Regulations 2019* (S.I. No. 43 of 2019); revoked (18.02.2020) by *Sea-Fisheries (North Western Waters Landing Obligation) Regulations 2020* (S.I. No. 54 of 2020), reg. 5(b).
+>
+> E143: Previous affecting provisions: power pursuant to section exercised:
+>
+> • (22.03.2018) by *Sea-Fisheries (Quotas) Regulations 2018* (S.I. No. 99 of 2018); revoked (28.02.2019) by *Sea-Fisheries (Quotas) Regulations 2019* (S.I. No. 71 of 2019), reg. 5.
+>
+> • (13.03.2018 to 31.12.2018) by *Sea-Fisheries (North Western Waters Landing Obligation) Regulations 2018* (S.I. No. 88 of 2018); revoked (12.02.2019) by *Sea Fisheries (North Western Waters Landing Obligation ) Regulations 2019* (S.I. No. 43 of 2019), reg. 5.
+>
+> • (22.03.2017) by *Sea-Fisheries (Quotas) Regulations 2017* (S.I. No. 136 of 2017); revoked (22.03.2018) by *Sea-Fisheries (Quotas) Regulations 2018* (S.I. No. 99 of 2018), reg. 5.
+>
+> • (15.02.2017 to 31.12.2018) by *Sea-Fisheries (North Western Waters Landing Obligation) Regulations 2017* (S.I. No. 51 of 2017), in effect as per reg. 1(2); revoked (13.03.2018) by *Sea-Fisheries (North Western Waters Landing Obligation) Regulations 2018* (S.I. No. 88 of 2018), reg. 4.
+>
+> • (15.02.2017) by *Sea-Fisheries (North Western Waters Landing Obligation) Regulations 2017* (S.I. No. 52 of 2017); revoked (22.03.2017) by *Sea-Fisheries (Quotas) Regulations 2017* (S.I. No. 136 of 2017), reg. 5.
+>
+> • (12.01.2017) by *Sea-Fisheries (Quotas) (Deep-Sea Stocks) Regulations 2017* (S.I. No. 9 of 2017); revoked (28.02.2019) by *Sea-Fisheries (Quotas) (Deep-Sea Stocks) Regulations 2019* (S.I. No. 70 of 2019), reg. 4.
+>
+> • (19.02.2016) by *Sea-Fisheries (Quotas) Regulations 2016* (S.I. No. 112 of 2016); revoked (15.02.2017) by *Sea-Fisheries (Conservation and Rational Exploitation of Deep-Sea Species) Regulations 2017* (S.I. No. 52 of 2017), reg. 5.
+>
+> • (5.01.2016 to 31.12.2018) by *Sea-Fisheries (Conservation and Rational Exploitation of Hake) (Amendment) Regulations 2016* (S.I. No. 8 of 2016); revoked (15.02.2017) by *Sea-Fisheries (North Western Waters Landing Obligation) Regulations 2017* (S.I. No. 51 of 2017), reg. 4.
+>
+> • (19.11.2015) by *Sea-Fisheries (Technical Measures) (Amendment) Regulations 2015* (S.I. No. 531 of 2015); revoked (23.10.2019) by *Sea Fisheries (Technical Measures) Regulations 2019* (S.I. No. 520 of 2019), reg. 7(3).
+>
+> • (5.11.2015) by *Sea-Fisheries (Conservation and Rational Exploitation of Deep-Sea Species) (Amendment) Regulations 2015* (S.I. No. 511 of 2015); revoked (17.02.2017) by *Sea-Fisheries (Conservation and Rational Exploitation of Deep-Sea Species) Regulations 2017* (S.I. No. 50 of 2017), reg. 9(b).
+>
+> • (20.10.2015) by *Sea-Fisheries (Quotas) No. 2 Regulations 2015* (S.I. No. 478 of 2015); revoked (19.02.2016) by *Sea-Fisheries (Quotas) Regulations 2016* (S.I. No. 112 of 2016), reg. 5.
+>
+> • (14.04.2015) by *Sea-Fisheries (Common Fisheries Policy) (Bluefin Tuna) Regulations 2015* (S.I. No. 135 of 2015); revoked (20.12.2016) by *Sea-Fisheries (Common Fisheries Policy) (Bluefin Tuna) Regulations 2016* (S.I. No. 680 of 2016), reg. 10.
+>
+> • (16.03.2015) by *Sea-Fisheries (Quotas) Regulations 2015* (S.I. No. 116 of 2015); revoked (20.10.2015) by *Sea-Fisheries (Quotas) No. 2 Regulations 2015* (S.I. No. 478 of 2015), reg. 5(b).
+>
+> • (16.03.2015 to 1.05.2015) by *Sea-Fisheries (Alleviation Measures) (Sea Bass Stocks) Regulations 2015* (S.I. No. 115 of 2015); revoked (20.10.2015) by *Sea-Fisheries (Quotas) No. 2 Regulations 2015* (S.I. No. 478 of 2015), reg. 5(a).
+>
+> • (25.02.2015) by *Sea-Fisheries (Quotas) (Deep-Sea Stocks) Regulations 2015* (S.I. No. 80 of 2015); revoked (12.01.2017) by *Sea-Fisheries (Quotas) (Deep-Sea Stocks) Regulations 2017* (S.I. No. 9 of 2017), reg. 4.
+>
+> • (26.03.2014) by *Sea-Fisheries (Quotas) Regulations 2014* (S.I. No. 161 of 2014); revoked (16.03.2015) by *Sea-Fisheries (Quotas) Regulations 2015* (S.I. No. 116 of 2015).
+>
+> • (20.11.2013) by *Sea-Fisheries (Community Control System) (Amendment) (No. 3) Regulations 2013* (S.I. No. 441 of 2013); revoked (2.02.2016) by *Sea-Fisheries (Community Control System) Regulations 2016* (S.I. No. 54 of 2016), reg. 14(e).
+>
+> • (13.11.2013) by *European Union (Common Fisheries Policy) (Faroe Islands) Regulations 2013* (S.I. No. 432 of 2013); revoked (16.09.2014) by *European Union (Common Fisheries Policy) (Faroe Islands) (Revocation) Regulations 2014* (S.I. No. 419 of 2014), reg. 2.
+>
+> • (22.09.2013) by *Sea-Fisheries (Community Control System) (Amendment) (No. 2) Regulations 2013* (S.I. No. 354 of 2013); revoked (2.02.2016) by *Sea-Fisheries (Community Control System) Regulations 2016* (S.I. No. 54 of 2016), reg. 14(d).
+>
+> • (5.06.2013) by *Sea-Fisheries (Technical Measures) Regulations 2013* (S.I. No. 197 of 2013); revoked (23.10.2019) by *Sea Fisheries (Technical Measures) Regulations 2019* (S.I. No. 520 of 2019), reg. 7(2).
+>
+> • (23.05.2013) by *Sea-Fisheries (Community Control System) (Amendment) Regulations 2013* (S.I. No. 184 of 2013); revoked (2.02.2016) by *Sea-Fisheries (Community Control System) Regulations 2016* (S.I. No. 54 of 2016), reg. 14(c).
+>
+> • (23.05.2013) by *Sea-Fisheries (Quotas) Regulations 2013* (S.I. No. 183 of 2013); revoked (26.03.2014) by *Sea-Fisheries (Quotas) Regulations 2014* (S.I. No. 161 of 2014), reg. 4.
+>
+> • (11.04.2013) by *Sea-Fisheries (Quotas) (Deep-Sea Stocks) Regulations 2013* (S.I. No. 141 of 2013); revoked (25.02.2015) by *Sea-Fisheries (Quotas) (Deep-Sea Stocks) Regulations 2015* (S.I. No. 80 of 2015), reg. 4.
+>
+> • (13.11.2012) by *Sea-Fisheries (Community Control System) (Amendment) Regulations 2012* (S.I. No. 453 of 2012); revoked (2.02.2016) by *Sea-Fisheries (Community Control System) Regulations 2016* (S.I. No. 54 of 2016), reg. 14(b).
+>
+> • (25.10.2012) by *Sea-Fisheries (Celtic Sea Technical Measures) Regulations 2012* (S.I. No. 412 of 2012); revoked (27.05.2015) by *Sea-Fisheries (Celtic Sea Technical Measures) Regulations 2015* (S.I. No. 231 of 2015), reg. 4(a).
+>
+> • (31.08.2012) by *Sea-Fisheries (Technical Measures) (Amendment) (No. 2) Regulations 2012* (S.I. No. 337 of 2012); revoked (5.06.2013) by *Sea-Fisheries (Technical Measures) Regulations 2013* (S.I. No. 197 of 2013), reg. 6(3).
+>
+> • (9.08.2012) by *Sea-Fisheries (Community Control System) Regulations 2012* (S.I. No. 320 of 2012); revoked (2.02.2016) by *Sea-Fisheries (Community Control System) Regulations 2016* (S.I. No. 54 of 2016), reg. 14(a).
+>
+> • (14.04.2012) by *Sea-Fisheries (Quotas) Regulations 2012* (S.I. No. 134 of 2012); revoked (23.05.2013) by *Sea-Fisheries (Quotas) Regulations 2013* (S.I. No. 183 of 2013), reg. 4.
+>
+> • (8.03.2012 to 25.08.2012) by *Sea-Fisheries (Technical Measures) (Amendment) Regulations 2012* (S.I. No. 78 of 2012); revoked (31.08.2012) by *Sea-Fisheries (Quotas) Regulations 2013* (S.I. No. 337 of 2012), reg. 4.
+>
+> • (28.09.2011) by *Sea-Fisheries (Common Fisheries Policy Community Control System) Regulations 2011* (S.I. No. 490 of 2011); revoked (9.08.2010) by *Sea-Fisheries (Community Control System) Regulations 2012* (S.I. No. 320 of 2012), reg. 14.
+>
+> • (22.09.2011) by *Sea-Fisheries (Technical Measures) Regulations 2011* (S.I. No. 481 of 2011); revoked (5.06.2013) by *Sea-Fisheries (Technical Measures) Regulations 2013* (S.I. No. 197 of 2013), reg. 6(2).
+>
+> • (15.02.2011) by *Sea-Fisheries (Recording of Fish) (Amendment) Regulations 2011* (S.I. No. 91 of 2011); revoked (28.09.2011) by *Sea-Fisheries (Common Fisheries Policy Community Control System) Regulations 2011* (S.I. No. 490 of 2011), reg. 22(g).
+>
+> • (11.02.2011) by *Sea-Fisheries (Quotas) Regulations 2011* (S.I. No. 68 of 2011); revoked (14.04.2012) by *Sea-Fisheries (Quotas) Regulations 2012* (S.I. No. 134 of 2012), reg. 9.
+>
+> • (1.02.2011) by *Sea-Fisheries (Recording of Fish) No. 2 Regulations 2011* (S.I. No. 37 of 2011) in effect as per reg. 1(1); revoked (6.04.2011) by *Sea-Fisheries (Recording of Fish) (No. 2) (Revocation) Regulations 2011* (S.I. No. 182 of 2011), reg. 2.
+>
+> • (14.01.2011) by *Sea-Fisheries (Recording of Fish) Regulations 2011* (S.I. No. 8 of 2011); revoked (28.09.2011) by *Sea-Fisheries (Common Fisheries Policy Community Control System) Regulations 2011* (S.I. No. 490 of 2011), reg. 22(f).
+>
+> • (16.09.2010) by *Sea-Fisheries (Landing and weighing of pelagic fish) Regulations 2010* (S.I. No. 453 of 2010); revoked (28.09.2011) by *Sea-Fisheries (Common Fisheries Policy Community Control System) Regulations 2011* (S.I. No. 490 of 2011), reg. 22(e).
+>
+> • (21.04.2010) by *Sea-Fisheries (Quotas) Regulations 2010* (S.I. No. 167 of 2010); revoked (11.02.2011) by *Sea-Fisheries (Quotas) Regulations 2011* (S.I. No. 68 of 2011), reg. 9.
+>
+> • (9.03.2010) by *Sea-Fisheries (Control of catches) (No. 2) Regulations 2010* (S.I. No. 95 of 2010); revoked (21.04.2010) by *Sea-Fisheries (Quotas) Regulations 2010* (S.I. No. 167 of 2010), reg. 9.
+>
+> • (1.02.2010) by *Sea-Fisheries (Control of catches) Regulations 2010* (S.I. No. 52 of 2010); revoked (9.03.2010) by *Sea-Fisheries (Control of catches) (No. 2) Regulations 2010* (S.I. No. 95 of 2010), reg. 9.
+>
+> • (1.02.2010) by *Sea-Fisheries (Recording of Catches) Regulations 2010* (S.I. No. 51 of 2010); revoked (22.09.2011) by *Sea-Fisheries (Technical Measures) Regulations 2011* (S.I. No. 481 of 2011), reg. 4.
+>
+> • (19.10.2009) by *Monkfish (Control of Landings) Regulations 2009* (S.I. No. 417 of 2009); revoked (9.01.2013) by *Monkfish (Control of Landings) Regulations 2013* (S.I. No. 7 of 2013), reg. 6.
+>
+> • (2.07.2009) by *Sea-fisheries (Technical Conservation Measures) Regulations 2009* (S.I. No. 252 of 2009); revoked (23.10.2019) by *Sea Fisheries (Technical Measures) Regulations 2019* (S.I. No. 520 of 2019), reg. 7(1).
+>
+> • (2.07.2009) by *Sea-fisheries (Recording of Catches) Regulations 2009* (S.I. No. 253 of 2009); revoked (14.01.2011) by *Sea-Fisheries (Recording of Fish) Regulations 2011* (S.I. No. 8 of 2011), reg. 12.
+>
+> • (5.02.2009) by *Sea-fisheries (Fishing For Herring) (West of Scotland) Regulations 2009* (S.I. No. 39 of 2009); revoked (18.02.2020) by *Sea-Fisheries (North Western Waters Landing Obligation) Regulations 2020* (S.I. No. 54 of 2020), reg. 5(a).
+>
+> • (5.02.2009) by *Sea-fisheries (Control of Catches) (Deep-sea Stocks) Regulations 2009* (S.I. No. 38 of 2009); revoked (22.09.2011) by *Sea-Fisheries (Control of Catches) (Deep-Sea Stocks) Regulations 2011* (S.I. No. 482 of 2011), reg. 5.
+>
+> • (5.02.2009) by *Monkfish (Control of Landings) Regulations 2009* (S.I. No. 33 of 2009); revoked (19.10.2009) by *Monkfish (Control of Landings) Regulations 2009* (S.I. No. 417 of 2009), reg. 6.
+>
+> • (30.01.2009) by *Sea-fisheries (Control of Catches) Regulations 2009* (S.I. No. 31 of 2009); revoked (1.2.2010) by *Sea-Fisheries (Recording of Catches) Regulations 2010* (S.I. No. 51 of 2010), reg. 4.
+>
+> • (22.10.2008) by *Sea-Fisheries (Control on Fishing for Hake) Regulations 2008* (S.I. No. 418 of 2008); revoked (23.05.2013) by *Sea-Fisheries (Community Control System) (Amendment) Regulations 2013* (S.I. No. 184 of 2013), reg. 3.
+>
+> • (26.02.2008) by *Sea-Fisheries (Fishing for Cod) Regulations 2008* (S.I. No. 45 of 2008); revoked (30.01.2009) by *Sea-Fisheries (Control of Catches) Regulations 2009* (S.I. No. 31 of 2009), reg. 10.
+>
+> • (8.02.2008) by *Sea-Fisheries (Control of Catches) Regulations 2008* (S.I. No. 22 of 2008); revoked (30.01.2009) by *Sea-fisheries (Control of Catches) Regulations 2009* (S.I. No. 31 of 2009), reg. 10.
+>
+> • (30.01.2008) by *Sea-Fisheries (Landing and Weighing of Pelagic Fish) Regulations 2008* (S.I. No. 15 of 2008); revoked (16.09.2010) by *Sea-Fisheries (Landing and weighing of pelagic fish) Regulations 2010* (S.I. No. 453 of 2010), reg. 8.
+>
+> • (7.09.2007) by *Sea Fisheries (Conservation and Rational Exploitation of Hake) Regulations 2007* (S.I. No. 619 of 2007); revoked (22.10.2008) by *Sea-Fisheries (Control on Fishing for Hake) Regulations 2008* (S.I. No. 418 of 2008), reg. 7.
+>
+> • (1.06.2007) by *Sea-Fisheries (First Marketing of Fish) Regulations 2007* (S.I. No. 260 of 2007), in effect as per reg. 1(2); revoked (28.09.2011) by *Sea-Fisheries (Common Fisheries Policy Community Control System) Regulations 2011* (S.I. No. 490 of 2011), reg. 22(d).
+>
+> • (21.02.2007) by *Fishing Effort for Vessels in the Context of the Recovery of Certain Stocks (No. 2) Regulations 2007* (S.I. No. 72 of 2007); revoked (26.02.2008) by *Sea-Fisheries (Fishing for Cod) Regulations 2008* (S.I. No. 45 of 2008), reg. 11.
+>
+> • (21.02.2007) by *Fishing Opportunities and Associated Conditions (No. 2) Regulations 2007* (S.I. No. 70 of 2007); revoked (8.02.2008) by *Sea-Fisheries (Control of Catches) Regulations 2008* (S.I. No. 22 of 2008), reg. 4.
+>
+> • (21.02.2007) by *Sea Fisheries (Weighing Procedures for Herring, Mackerel and Horse Mackerel) (No. 2) Regulations 2007* (S.I. No. 69 of 2007); revoked (30.01.2008) by *Sea-Fisheries (Landing and Weighing of Pelagic Fish) Regulations 2008* (S.I. No. 15 of 2008), reg. 7.
+>
+> • (30.01.2007) by *Sea Fisheries (Weighing Procedures for Herring, Mackerel and Horse Mackerel) Regulations 2007* (S.I. No. 35 of 2007); revoked (21.02.2007) by *Sea Fisheries (Weighing Procedures for Herring, Mackerel and Horse Mackerel) (No. 2) Regulations 2007* (S.I. No. 69 of 2007), reg. 10.
+>
+> • (30.01.2007) by *Fishing Effort for Vessels in the Context of the Recovery of Certain Stocks Regulations 2007* (S.I. No. 34 of 2007); revoked (21.02.2007) by *Fishing Effort for Vessels in the Context of the Recovery of Certain Stocks (No. 2) Regulations 2007* (S.I. No. 72 of 2007), reg. 13.
+>
+> • (30.01.2007) by *Fishing Opportunities and Associated Conditions Regulations 2007* (S.I. No. 33 of 2007); revoked (21.02.2007) by *Fishing Opportunities and Associated Conditions (No. 2) Regulations 2007* (S.I. No. 70 of 2007), reg. 5.
+>
+> • (2.12.2006) by *Sea Fisheries (Weighing Procedures for Herring, Mackerel and Horse Mackerel) (No. 2) Regulations 2006* (S.I. No. 575 of 2006), in effect as per reg. 2; revoked (30.01.2007) by *Sea Fisheries (Weighing Procedures for Herring, Mackerel and Horse Mackerel) Regulations 2007* (S.I. No. 35 of 2007), reg. 10.
+>
+> • (29.06.2006) by *Sea Fisheries (Gill Net Tuna and Certain other Species Fishing) Regulations 2006* (S.I. No. 343 of 2006); revoked (2.07.2009) by *Sea-fisheries (Technical Conservation Measures) Regulations 2009* (S.I. No. 252 of 2009), reg. 6.
+>
+> • (29.06.2006) *Passive Fishing Gear and Beam Trawls Marking and Identification (No.2) Regulations 2006* (S.I. No. 341 of 2006); revoked (12.11.2021) by *Sea-fisheries (Revocation) Regulations 2021* (S.I. No. 602 of 2021), reg. 2(a).
+>
+> • (13.04.2006) by *Satellite-Based Vessel Monitoring Systems Regulations 2006* (S.I. No. 183 of 2006); revoked (28.09.2011) by *Sea-Fisheries (Common Fisheries Policy Community Control System) Regulations 2011* (S.I. No. 490 of 2011), reg. 22(c).
+>
+> • (13.04.2006) by *Sea Fisheries (Marking and Documentation of Sea-Fishing Boats) Regulations 2006* (S.I. No. 182 of 2006); revoked (28.09.2011) by *Sea-Fisheries (Common Fisheries Policy Community Control System) Regulations 2011* (S.I. No. 490 of 2011), reg. 22(b).
+>
+> • (13.04.2006) by *Sea Fisheries (Inspection of Fishing Boats) Regulations 2006* (S.I. No. 181 of 2006); revoked (28.09.2011) by *Sea-Fisheries (Common Fisheries Policy Community Control System) Regulations 2011* (S.I. No. 490 of 2011), reg. 22(a).
+>
+> • (13.04.2006) by *Sea Fisheries (Conservation and Rational Exploitation of Hake) (No.2) Regulations 2006* (S.I. No. 180 of 2006); revoked (7.09.2007) by *Sea Fisheries (Conservation and Rational Exploitation of Hake) Regulations 2007* (S.I. No. 619 of 2007), reg. 7.
+>
+> • (13.04.2006) by *Sea Fisheries (Conservation and Rational Exploitation of Deep-Sea Species) Regulations 2006* (S.I. No. 175 of 2006); revoked (17.02.2017) by *Sea-Fisheries (Conservation and Rational Exploitation of Deep-Sea Species) Regulations 2017* (S.I. No. 50 of 2017), reg. 9(a).
+>
+> • (13.04.2006) by *Sea Fisheries (Weighing Procedures for Herring, Mackerel and Horse Mackerel) Regulations 2006* (S.I. No. 172 of 2006); revoked (2.12.2006) by *Sea Fisheries (Weighing Procedures for Herring, Mackerel and Horse Mackerel) (No. 2) Regulations 2006* (S.I. No. 575 of 2006), reg. 11, in effect as per reg. 2.
+>
+> • (13.04.2006) by *Sea Fisheries (Technical Conservation Measures) Regulations 2006* (S.I. No. 171 of 2006); revoked (5.06.2013) by *Sea-Fisheries (Technical Measures) Regulations 2013* (S.I. No. 197 of 2013), reg. 6(1).
+>
+> • (13.04.2006) by *Sea Fisheries (Control of Catches) Regulations 2006* (S.I. No. 170 of 2006); revoked (2.07.2009) by *Sea-fisheries (Recording of Catches) Regulations 2009* (S.I. No. 253 of 2009), reg. 7.
+>
+> E144: Previous affecting provisions: application of section extended:
+>
+> • (28.09.2011) by *Sea-Fisheries (Common Fisheries Policy Community Control System) Regulations 2011* (S.I. No. 490 of 2011), reg. 21; revoked (9.08.2012) by *Sea-Fisheries (Community Control System) Regulations 2012* (S.I. No. 320 of 2012), reg. 14.
+>
+> • (7.09.2007) by *Sea Fisheries (Conservation and Rational Exploitation of Hake) Regulations 2007* (S.I. No. 619 of 2007), reg. 3; revoked (22.10.2008) by *Sea-Fisheries (Control on Fishing for Hake) Regulations 2008* (S.I. No. 418 of 2008), reg. 7.
+>
+> • (21.02.2007) by *Fishing Effort for Vessels in the Context of the Recovery of Certain Stocks (No. 2) Regulations 2007* (S.I. No. 72 of 2007), reg. 4; revoked (26.02.2008) by *Sea-Fisheries (Fishing for Cod) Regulations 2008* (S.I. No. 45 of 2008), reg. 11.
+>
+> • (21.02.2007) by *Fishing Opportunities and Associated Conditions (No. 2) Regulations 2007* (S.I. No. 70 of 2007); revoked (8.02.2008) by *Sea-Fisheries (Control of Catches) Regulations 2008* (S.I. No. 22 of 2008), reg. 4.
+>
+> • (21.02.2007) by *Sea Fisheries (Weighing Procedures for Herring, Mackerel and Horse Mackerel) (No. 2) Regulations 2007* (S.I. No. 69 of 2007), reg. 3; revoked (30.01.2008) by *Sea-Fisheries (Landing and Weighing of Pelagic Fish) Regulations 2008* (S.I. No. 15 of 2008), reg. 7.
+>
+> • (30.01.2007) by *Sea Fisheries (Weighing Procedures for Herring, Mackerel and Horse Mackerel) Regulations 2007* (S.I. No. 35 of 2007), reg. 3; revoked (21.02.2007) by *Sea Fisheries (Weighing Procedures for Herring, Mackerel and Horse Mackerel) (No. 2) Regulations 2007* (S.I. No. 69 of 2007), reg. 10.
+>
+> • (30.01.2007) by *Fishing Effort for Vessels in the Context of the Recovery of Certain Stocks Regulations 2007* (S.I. No. 34 of 2007), reg. 4; revoked (21.02.2007) by *Fishing Effort for Vessels in the Context of the Recovery of Certain Stocks (No. 2) Regulations 2007* (S.I. No. 72 of 2007), reg. 13.
+>
+> • (30.01.2007) by *Fishing Opportunities and Associated Conditions Regulations 2007* (S.I. No. 33 of 2007), reg. 4; revoked (21.02.2007) by *Fishing Opportunities and Associated Conditions (No. 2) Regulations 2007* (S.I. No. 70 of 2007), reg. 5.
+>
+> • (2.12.2006) by *Sea Fisheries (Weighing Procedures for Herring, Mackerel and Horse Mackerel) (No. 2) Regulations 2006* (S.I. No. 575 of 2006), in effect as per reg. 2; revoked (30.01.2007) by *Sea Fisheries (Weighing Procedures for Herring, Mackerel and Horse Mackerel) Regulations 2007* (S.I. No. 35 of 2007), reg. 10.
+>
+> • (29.06.2006) by *Sea Fisheries (Gill Net Tuna and Certain other Species Fishing) Regulations 2006* (S.I. No. 343 of 2006), reg. 5; revoked (2.07.2009) by *Sea-fisheries (Technical Conservation Measures) Regulations 2009* (S.I. No. 252 of 2009), reg. 6.
+>
+> • (13.04.2006) by *Satellite-Based Vessel Monitoring Systems Regulations 2006* (S.I. No. 183 of 2006), reg. 3; revoked (28.09.2011) by *Sea-Fisheries (Common Fisheries Policy Community Control System) Regulations 2011* (S.I. No. 490 of 2011), reg. 22(c).
+>
+> • (13.04.2006) by *Sea Fisheries (Marking and Documentation of Sea-Fishing Boats) Regulations 2006* (S.I. No. 182 of 2006), reg. 3; revoked (28.09.2011) by *Sea-Fisheries (Common Fisheries Policy Community Control System) Regulations 2011* (S.I. No. 490 of 2011), reg. 22(b).
+>
+> • (13.04.2006) by *Sea Fisheries (Inspection of Fishing Boats) Regulations 2006* (S.I. No. 181 of 2006), reg. 3; revoked (28.09.2011) by *Sea-Fisheries (Common Fisheries Policy Community Control System) Regulations 2011* (S.I. No. 490 of 2011), reg. 22(a).
+>
+> • (13.04.2006) by *Sea Fisheries (Conservation and Rational Exploitation of Hake) (No.2) Regulations 2006* (S.I. No. 180 of 2006), reg. 3; revoked (7.09.2007) by *Sea Fisheries (Conservation and Rational Exploitation of Hake) Regulations 2007* (S.I. No. 619 of 2007), reg. 7.
+>
+> • (13.04.2006) by *Sea Fisheries (Conservation and Rational Exploitation of Deep-Sea Species) Regulations 2006* (S.I. No. 175 of 2006), reg. 3; revoked (17.02.2017) by *Sea-Fisheries (Conservation and Rational Exploitation of Deep-Sea Species) Regulations 2017* (S.I. No. 50 of 2017), reg. 9(a).
+>
+> • (13.04.2006) by *Sea Fisheries (Weighing Procedures for Herring, Mackerel and Horse Mackerel) Regulations 2006* (S.I. No. 172 of 2006), reg. 3; revoked (2.12.2006) by *Sea Fisheries (Weighing Procedures for Herring, Mackerel and Horse Mackerel) (No. 2) Regulations 2006* (S.I. No. 575 of 2006), reg. 11.
+>
+> • (13.04.2006) by *Sea Fisheries (Control of Catches) Regulations 2006* (S.I. No. 170 of 2006), reg. 3; revoked (2.07.2009) by *Sea-fisheries (Recording of Catches) Regulations 2009* (S.I. No. 253 of 2009), reg. 7.
+
+#### 15. National regulatory measures to supplement common fisheries policy.
+
+**15**.— (1) The Minister may to supplement the common fisheries policy, as he or she thinks proper, by regulations prescribe measures for the purpose of protecting, conserving or allowing the sustainable exploitation of fish or the rational management of fisheries that restrict, or otherwise regulate, fishing or fishing gear or equipment or the buying, handling, weighing, trans-shipping, transporting, landing, processing, storing, documenting or selling of fish. Such regulations may apply to any or all of the following:
+
+(*a*) fishing boats within the exclusive fishery limits or internal waters;
+
+(*b*) an Irish sea-fishing boat, wherever it may be;
+
+(*c*) any person engaged in F15[fishing or] buying, handling, weighing, trans-shipping, transporting, landing, processing, storing, documenting or selling of fish; and
+
+(*d*) nets and their usage during any time or season or at any place within the exclusive fishery limits or internal waters.
+
+(2) Regulations under this section may, in particular—
+
+(*a*) prescribe such measures as—
+
+(i) prohibitions of or restrictions on areas or times or methods of fishing or use of sea-fishing boats or F16[fishing gear or equipment,]
+
+(ii) prohibitions of or restrictions on fishing effort,
+
+(iii) prohibitions of or restrictions on or requirements as regards the equipment of fishing boats or fishing gear, or the use, modification or maintenance or storage thereof or interference therewith,
+
+(iv) prohibitions of or restrictions on the catching, handling, composition of catch, retention and storage on board, trans-shipment and landing of fish, including permitted—
+
+(I) size and type of species which may be caught, and
+
+(II) times, locations and conditions of landings,
+
+(v) permitted by a Community Regulation which the State may take in relation to an Irish sea-fishing boat or to a sea-fishing boat within the exclusive fishery limits or may apply to a buyer, handler, seller, weigher, transporter or processor of fish which supplement or go beyond a Community Regulation or other European Community law, but are compatible with Community law and in conformity with the common fisheries policy,
+
+or
+
+(*b*) impose obligations on the holder of a sea-fishing boat licence including, in particular, obligations in relation to—
+
+(i) the catching, handling, composition of catch, retention and storage on board, trans-shipment and landing of fish, and
+
+(ii) the taking, making and keeping of records and assisting or co-operating with any person appointed by the Department or its agencies to be on that boat,
+
+or
+
+(*c*) include such incidental, supplementary and consequential provisions as appear to the Minister to be necessary for the purposes of the regulations.
+
+(3) Where there is a contravention of a regulation under this section—
+
+(*a*) in relation to a fishing boat or to fishing gear or equipment on board the boat, the master and owner of the boat and the owner of the fishing gear or equipment each commits an offence, or
+
+(*b*) in relation to fish, the master and owner of the boat concerned and the buyer, handler, weigher, transporter, processor, person storing or documenting and seller of the fish each commits an offence.
+
+(4) In any proceedings for an offence under this section it shall be for the accused to show (as the case may be)—
+
+(*a*) entitlement to any exemption or relief from any prohibition or restriction or requirement alleged to have been contravened, or
+
+(*b*) that in the circumstances it was not possible to know or not reasonable to ascertain that a regulation was being contravened.
+
+(5) In this section “internal waters” means the internal waters of the State (within the meaning of *section 86*).
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F15: Inserted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 5(a), S.I. No. 202 of 2022.
+>
+> F16: Substituted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 5(b), S.I. No. 202 of 2022.
+>
+> **Editorial Notes:**
+>
+> E145: Power pursuant to section exercised (12.11.2025 to 29.03.2026) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2025* (S.I. No. 538 of 2025), in effect and to cease as per reg. 1(2).
+>
+> E146: Power pursuant to section exercised (23.10.2025 to 1.10.2026) by *Sea-fisheries (Sprat Fishing Closure) Regulations 2025* (S.I. No. 501 of 2025), in effect and to cease as per reg. 1(2).
+>
+> E147: Power pursuant to section exercised (26.06.2024) by *Sea-Fisheries (Bluefin Tuna) Regulations 2024* (S.I. No. 352 of 2024).
+>
+> E148: Power pursuant to section exercised (29.07.2021) by *Monkfish (Control of Landings) (No. 2) Regulations 2013 (Amendment) Regulations 2021* (S.I. No. 416 of 2021).
+>
+> E149: Power pursuant to section exercised (17.07.2019) by *Sea-Fisheries (Common Fisheries Policy) (Bluefin Tuna) (Amendment) Regulations 2019* (S.I. No. 360 of 2019).
+>
+> E150: Power pursuant to section exercised (1.07.2019) by *Crawfish (Conservation Of Stocks) Regulations 2019* (S.I. No. 289 of 2019), in effect as per reg. 2.
+>
+> E151: Power pursuant to section exercised (1.03.2019) by *Brown Crab (Conservation Of Stocks) Regulations 2019* (S.I. No. 26 of 2019), in effect as per reg. 1(2).
+>
+> E152: Power pursuant to section exercised (1.07.2018) by *Razor Clam (Conservation of Stocks) (North Irish Sea) Regulations 2018* (S.I. No. 160 of 2018).
+>
+> E153: Power pursuant to section exercised (1.01.2018) by *Velvet Crab (Conservation of Stocks) Regulations 2017* (S.I. No. 431 of 2017).
+>
+> E154: Power pursuant to section exercised (21.12.2017) by *Lobster (Conservation of Stocks) (Amendment) Regulations 2017* (S.I. No. 640 of 2017).
+>
+> E155: Power pursuant to section exercised (1.01.2017) by *Sea-Fisheries (Codend Mesh Size) Regulations 2016* (S.I. No. 510 of 2016), in effect as per reg. 1(2).
+>
+> E156: Power pursuant to section exercised (8.12.2016) by *Razor Clam (Inishkea Islands) (Revocation) Regulations 2016* (S.I. No. 603 of 2016).
+>
+> E157: Power pursuant to section exercised (4.11.2016) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) (Amendment) Regulations 2016* (S.I. No. 551 of 2016).
+>
+> E158: Power pursuant to section exercised (22.06.2016) by *Bass (Conservation of Stocks) Regulations 2016* (S.I. No. 341 of 2016).
+>
+> E159: Power pursuant to section exercised (1.02.2016) by *Non-Commercial Pot Fishing (Lobster and Crab) Regulations 2016* (S.I. No. 31 of 2016), in effect as per reg. 1(2).
+>
+> E160: Power pursuant to section exercised (1.01.2016) by *Razor Clam (Conservation of Stocks) (North Irish Sea) (Amendment) Regulations 2015* (S.I. No. 588 of 2015), in effect as per reg. 1(2).
+>
+> E161: Power pursuant to section exercised (1.01.2016) by *Sea-Fisheries (Multi-Rigged Fishing Gear) Regulations 2015* (S.I. No. 518 of 2015), in effect as per reg. 1(2).
+>
+> E162: Power pursuant to section exercised (1.06.2015) by *Razor Clam (Conservation of Stocks) (North Irish Sea) Regulations 2015* (S.I. No. 207 of 2015), in effect as per reg. 1(2).
+>
+> E163: Power pursuant to section exercised (26.05.2015 and 20.07.2015) by *Razor Clam (Conservation of Stocks) Regulations 2015* (S.I. No. 206 of 2015).
+>
+> E164: Power pursuant to section exercised (1.05.2015) by *Lobster (Conservation of Stocks) Regulations 2014* (S.I. No. 591 of 2014).
+>
+> E165: Power pursuant to section exercised (17.12.2014) by *Shrimp (Conservation of Stocks) Regulations 2014* (S.I. No. 592 of 2014), in effect as per reg. 2.
+>
+> E166: Power pursuant to section exercised (3.12.2014) by *Sea-Fisheries (Control on fishing for razor clams) (Revocation) Regulations 2014* (S.I. No. 567 of 2014).
+>
+> E167: Power pursuant to section exercised (13.02.2013) by *Monkfish (Control of Landings) (No. 2) Regulations 2013* (S.I. No. 55 of 2013).
+>
+> E168: Power pursuant to section exercised (9.01.2013) by *Mussel Seed (Closing of Fisheries) Regulations 2013* (S.I. No. 8 of 2013).
+>
+> E169: Power pursuant to section exercised (2.05.2011) by *Sea-fisheries (Control on fishing for clams in Waterford Estuary) Regulations 2011* (S.I. No. 221 of 2011), in effect as per reg. 1.
+>
+> E170: Power pursuant to section exercised (23.12.2009) by *Mussel Seed (Prohibition On Fishing) (No. 3) Regulations 2009* (S.I. No. 554 of 2009), in effect as per reg. 1.
+>
+> E171: Power pursuant to section exercised (20.10.2009) by *Sea-fisheries (Control On Fishing For Clams In Waterford Estuary) (No. 2) Regulations 2009* (S.I. No. 418 of 2009), in effect as per reg. 1.
+>
+> E172: Power pursuant to section exercised (26.08.2009) by *Mussel Seed (Prohibition On Fishing) (No. 2) Regulations 2009 (Revocation) Regulations 2009* (S.I. No. 341 of 2009), in effect as per reg. 1.
+>
+> E173: Power pursuant to section exercised (30.04.2009) by *Mussel Seed (Prohibition On Fishing) Regulations 2008 (Revocation) Regulations 2009* (S.I. No. 150 of 2009), in effect as per reg. 1.
+>
+> E174: Power pursuant to section exercised (31.12.2008) by *Mussel Seed (Prohibition on Fishing) (No. 3) Regulations 2008* (S.I. No. 605 of 2008), in effect as per reg. 1.
+>
+> E175: Power pursuant to section exercised (14.11.2007) by *Cockle (Fisheries Management and Conservation) (Waterford Estuary) Regulations 2007* (S.I. No. 753 of 2007), in effect as per reg. 2.
+>
+> E176: Power pursuant to section exercised (21.07.2007) by *Cockle (Fisheries Management and Conservation) (Tramore Bay) Regulations 2007* (S.I. No. 533 of 2007), in effect as per reg. 2.
+>
+> E177: Power pursuant to section exercised (21.07.2007) by *Cockle (Fisheries Management and Conservation) (Waterford Estuary) Regulations 2007* (S.I. No. 531 of 2007), in effect as per reg. 2.
+>
+> E178: Power pursuant to section exercised (1.07.2007) by *Bass (Restriction on Sale) Regulations 2007* (S.I. No. 367 of 2007), in effect as per reg. 2.
+>
+> E179: Power pursuant to section exercised (6.06.2007) by *Mussel Seed (Conservation) (No. 2) Regulations 2007* (S.I. No. 213 of 2007), in effect as per reg. 2.
+>
+> E180: Power pursuant to section exercised (17.02.2007) by *Blue Whiting (Catch Reporting) Regulations 2007* (S.I. No. 58 of 2007), in effect as per reg. 2.
+>
+> E181: Power pursuant to section exercised (4.08.2006) by *Mussel Seed (Conservation) (No. 7) Regulations 2006* (S.I. No. 416 of 2006).
+>
+> E182: Power pursuant to section exercised (29.06.2006) by *Molluscan Shellfish (Conservation of Stocks) Regulations 2006* (S.I. No. 345 of 2006).
+>
+> E183: Power pursuant to section exercised (14.06.2006) by *Mussel Seed (Fishing) Regulations 2006* (S.I. No. 311 of 2006).
+>
+> E184: Power pursuant to section exercised (9.05.2006) by *Bass (Conservation of Stocks) Regulations 2006* (S.I. No. 230 of 2006), in effect as per reg. 2.
+>
+> E185: Power pursuant to section exercised (4.05.2006) by *Whelk (Conservation of Stocks) Regulations 2006* (S.I. No. 237 of 2006).
+>
+> E186: Power pursuant to section exercised (4.05.2006) by *Spider Crab (Conservation of Stocks) Regulations 2006* (S.I. No. 236 of 2006).
+>
+> E187: Power pursuant to section exercised 4.05.2006) by *Crawfish (Fisheries Management and Conservation) Regulations 2006* (S.I. No. 233 of 2006).
+>
+> E188: Power pursuant to section exercised (4.05.2006) by *Crawfish (Conservation of Stocks) Regulations 2006* (S.I. No. 232 of 2006).
+>
+> E189: Previous affecting provision: power pursuant to section exercised (11.10.2025 to 1.11.2026) by *Sea-fisheries (Sprat Fishing) Regulations 2025* (S.I. No. 446 of 2025), in effect as per reg. 1(2); revoked (23.10.2025) by *Sea-fisheries (Sprat Fishing Closure) Regulations 2025* (S.I. No. 501 of 2025), reg. 7.
+>
+> E190: Previous affecting provision: power pursuant to section exercised (3.09.2022 to 18.12.2022) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2022* (S.I. No. 424 of 2022), in effect as per reg. 1(2).
+>
+> E191: Previous affecting provision: power pursuant to section exercised (14.09.2021 to 16.12.2021) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2021* (S.I. No. 461 of 2021), in effect as per reg. 1(2).
+>
+> E192: Previous affecting provision: power pursuant to section exercised (17.06.2019) by *Sea-Fisheries And Maritime Jurisdiction (Bluefin Tuna) Regulations 2019* (S.I. No. 265 of 2019); revoked (26.06.2024) by *Sea-Fisheries (Bluefin Tuna) Regulations 2024* (S.I. No. 352 of 2024), reg. 11.
+>
+> E193: Previous affecting provisions: power pursuant to section exercised:
+>
+> • (9.09.2020 to 10.12.2020) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2020* (S.I. No. 338 of 2020), in effect as per reg. 1(2).
+>
+> • (20.09.2019 to 22.12.2019) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2019* (S.I. No. 464 of 2019), in effect as per reg. 1(2).
+>
+> • (17.09.2018 to 21.12.2018) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2018* (S.I. No. 369 of 2018).
+>
+> • (13.09.2017 to 30.12.2017) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2017* (S.I. No. 398 of 2017).
+>
+> • (7.09.2016 to 11.12.2016) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2016* (S.I. No. 469 of 2016), in effect as per reg. 1(2).
+>
+> • (20.12.2016) by *Lobster (Conservation of Stocks) (Amendment) Regulations 2016* (S.I. No. 679 of 2016); revoked (21.12.2017) by *Lobster (Conservation of Stocks) (Amendment) Regulations 2017* (S.I. No. 640 of 2017), reg. 3.
+>
+> • (9.03.2016) by *Razor Clam (Conservation of Stocks) (Inishkea Islands) Regulations 2016* (S.I. No. 137 of 2016); revoked (8.12.2016) by *Razor Clam (Inishkea Islands) (Revocation) Regulations 2016* (S.I. No. 603 of 2016), reg. 2.
+>
+> • (18.12.2015 to 22.01.2016) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) (Castlemaine) Regulations 2015* (S.I. No. 589 of 2015).
+>
+> • (5.09.2015 to 9.12.2015) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2015* (S.I. No. 370 of 2015).
+>
+> • (7.08.2015 to 12.08.2015) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) (Rusk Channel) Regulations 2015* (S.I. No. 351 of 2015).
+>
+> • (12.06.2015 to 6.07.2015) by *Razor Clam (Conservation of Stocks) (North Irish Sea Spawning Season) Regulations 2015* (S.I. No. 244 of 2015).
+>
+> • (17.08.2014 to 3.12.2014) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2014* (S.I. No. 386 of 2014); revoked (5.09.2015) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2015* (S.I. No. 370 of 2015), reg. 4(a), in effect as per reg. 1(2).
+>
+> • (8.08.2014) by *Sea-Fisheries (Celtic Sea Discard Reduction Dividend Scheme) Regulations 2014* (S.I. No. 387 of 2014); revoked (27.05.2015) by *Sea-Fisheries (Celtic Sea Technical Measures) Regulations 2015* (S.I. No. 231 of 2015), reg. 4(b) .
+>
+> • (12.09.2013 to 30.11.2013) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2013* (S.I. No. 352 of 2013), in effect as per reg. 1; revoked (5.09.2015) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2015* (S.I. No. 370 of 2015), reg. 4(b), in effect as per reg. 1(2).
+>
+> • (9.01.2013) by *Monkfish (Control of Landings) Regulations 2013* (S.I. No. 7 of 2013); revoked (13.02.2013) by *Monkfish (Control of Landings) (No. 2) Regulations 2013* (S.I. No. 55 of 2013), reg. 6.
+>
+> • (12.05.2012) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) Opening of Fisheries) Regulations 2012* (S.I. No. 154 of 2012), in effect as per reg. 1; revoked (9.01.2013) by *Mussel Seed (Closing of Fisheries) Regulations 2013* (S.I. No. 8 of 2013), reg. 4.
+>
+> • (14.04.2012) by *Sea-Fisheries (Quotas) Regulations 2012* (S.I. No. 134 of 2012); revoked (23.05.2013) by *Sea-Fisheries (Quotas) Regulations 2013* (S.I. No. 183 of 2013, reg. 4.
+>
+> • (26.01.2012) by *Mussel Seed (Closing of Fisheries) Regulations 2012* (S.I. No. 29 of 2012); spent, revoked (12.11.2025) by *Sea-Fisheries and Maritime Jurisdiction (Mussel Seed) (Opening of Fisheries) Regulations 2025* (S.I. No. 538 of 2025), reg. 4.
+>
+> • (28.09.2011) by *Sea-Fisheries (Common Fisheries Policy Community Control System) Regulations 2011* (S.I. No. 490 of 2011); revoked (9.08.2012) by *Sea-Fisheries (Community Control System) Regulations 2012* (S.I. No. 320 of 2012), reg. 14.
+>
+> • (28.09.2011) by *Sea-Fisheries (Common Fisheries Policy Community Control System) Regulations 2011* (S.I. No. 490 of 2011); revoked (9.08.2012) by *Sea-Fisheries (Community Control System) Regulations 2012* (S.I. No. 320 of 2012), reg. 14.
+>
+> • (2.09.2011) by *Cockle (Fisheries Management and Conservation) (Dundalk Bay) (Revocation) Regulations 2011* (S.I. No. 438 of 2011); spent.
+>
+> • (5.08.2011) by *Sea-Fisheries (Control on Fishing for Razor Clams in Cahore) Regulations 2011* (S.I. No. 425 of 2011); revoked by (3.12.2014) by *Sea-Fisheries (Control on fishing for razor clams) (Revocation) Regulations 2014* (S.I. No. 567 of 2014), reg. 2(c).
+>
+> • (9.05.2011) by *Mussel Seed (Opening of Fisheries) Regulations 2011* (S.I. No. 204 of 2011), in effect as per reg. 1; revoked (26.01.2012) by *Mussel Seed (Closing of Fisheries) Regulations 2012* (S.I. No. 29 of 2012).
+>
+> • (2.12.2010) by *Mussel Seed (Closing of Fisheries) (No. 2) Regulations 2010* (S.I. No. 572 of 2010), in effect as per reg. 1; spent.
+>
+> • (9.09.2010) by *Sea-fisheries (Control on fishing for razor clams in Rosslare Harbour) (Amendment) Regulations 2010* (S.I. No. 437 of 2010); revoked by (3.12.2014) by *Sea-Fisheries (Control on fishing for razor clams) (Revocation) Regulations 2014* (S.I. No. 567 of 2014), reg. 2(b)
+>
+> • (30.08.2010) by *Mussel Seed (Opening of Fisheries) (No. 2) Regulations 2010* (S.I. No. 413 of 2010), in effect as per reg. 1; revoked (2.12.2010) by *Mussel Seed (Closing of Fisheries) (No. 2) Regulations 2010* (S.I. No. 572 of 2010), reg. 2, in effect as per reg. 1.
+>
+> • (27.07.2010) by *Sea-fisheries (Prohibition on fishing for clams in Waterford Estuary) Regulations 2010* (S.I. No. 378 of 2010); revoked (2.05.2011) by *Sea-fisheries (Control on fishing for clams in Waterford Estuary) Regulations 2011* (S.I. No. 221 of 2011), reg. 8, in effect as per reg. 1.
+>
+> • (24.06.2010) by *Sea-fisheries (Control on fishing for razor clams in Rosslare Harbour) Regulations 2010* (S.I. No. 310 of 2010); revoked by (3.12.2014) by *Sea-Fisheries (Control on fishing for razor clams) (Revocation) Regulations 2014* (S.I. No. 567 of 2014), reg. 2(a).
+>
+> • (25.05.2010) by *Mussel Seed (Closing of Fisheries) Regulations 2010* (S.I. No. 228 of 2010), in effect as per reg. 1; spent.
+>
+> • (6.05.2010) by *Sea-fisheries (Control on fishing for clams in Waterford Estuary) Regulations 2010* (S.I. No. 180 of 2010), in effect as per reg. 1; revoked (27.07.2010) by *Sea-fisheries (Prohibition on fishing for clams in Waterford Estuary) Regulations 2010* (S.I. No. 378 of 2010), reg. 5.
+>
+> • (4.05.2010) by *Mussel Seed (Opening of Fisheries) Regulations 2010* (S.I. No. 174 of 2010), in effect as per reg. 1; revoked (25.05.2010) by *Mussel Seed (Closing of Fisheries) Regulations 2010* (S.I. No. 228 of 2010), reg. 2, in effect as per reg. 1.
+>
+> • (13.10.2009) by *Sea-fisheries (Control On Fishing For Clams In Waterford Estuary) Regulations 2009* (S.I. No. 412 of 2009), in effect as per reg. 1; revoked (20.10.2009) by *Sea-fisheries (Control On Fishing For Clams In Waterford Estuary) (No. 2) Regulations 2009* (S.I. No. 418 of 2009), reg. 8, in effect as per reg. 1.
+>
+> • (14.05.2009) by *Mussel Seed (Prohibition On Fishing) (No. 2) Regulations 2009* (S.I. No. 197 of 2009) in effect as per reg. 1; revoked (26.08.2009) by *Mussel Seed (Prohibition On Fishing) (No. 2) Regulations 2009 (Revocation) Regulations 2009* (S.I. No. 341 of 2009), reg. 2, in effect as per reg. 1.
+>
+> • (26.11.2008) by *Monkfish (Control of Landings) Regulations 2008* (S.I. No. 486 of 2008); revoked (5.02.2009) by *Monkfish (Control of Landings) Regulations 2009* (S.I. No. 33 of 2009), reg. 6.
+>
+> • (1.07.2008) by *Mussel Seed (Prohibition on Fishing) (No. 2) Regulations 2008* (S.I. No. 194 of 2008), in effect as per reg. 1; revoked (23.08.2008) by *European Communities (Control on Mussel Fishing) Regulations 2008* (S.I. No. 347 of 2008), reg. 9, in effect as per reg. 1.
+>
+> • (17.06.2008) by *Monkfish (Control of Landings) Regulations 2008* (S.I. No. 203 of 2008); revoked (26.11.2008) by *Monkfish (Control of Landings) Regulations 2008* (S.I. No. 486 of 2008), reg. 6.
+>
+> • (9.06.2008) by *Mussel Seed (Prohibition on Fishing) Regulations 2008* (S.I. No. 176 of 2008), in effect as per reg. 1; revoked (1.07.2008) by *Mussel Seed (Prohibition on Fishing) (No. 2) Regulations 2008* (S.I. No. 194 of 2008), reg. 4, in effect as per reg. 1.
+>
+> • (9.06.2008) by *Mussel Seed (Prohibition on Fishing) Regulations 2007 (Revocation) Regulations 2008* (S.I. No. 162 of 2008), in effect as per reg. 1.; spent.
+>
+> • (30.11.2007) by *Mussel Seed (Prohibition on Fishing) Regulations 2007* (S.I. No. 789 of 2007), in effect as per reg. 1; revoked (9.06.2008) by *Mussel Seed (Prohibition on Fishing) Regulations 2007 (Revocation) Regulations 2008* (S.I. No. 162 of 2008), reg. 2, in effect as per reg. 1.
+>
+> • (15.10.2007) by *Mussel Seed (Conservation) (No. 7) Regulations 2007* (S.I. No. 693 of 2007); revoked (30.11.2007) by *Mussel Seed (Prohibition on Fishing) Regulations 2007* (S.I. No. 789 of 2007), reg. 4(e), in effect as per reg. 1.
+>
+> • (13.10.2007) by *Cockle (Fisheries Management and Conservation) (Dundalk Bay) Regulations 2007* (S.I. No. 692 of 2007), in effect as per reg. 2; revoked (2.09.2011) by *Cockle (Fisheries Management and Conservation) (Dundalk Bay) (Revocation) Regulations 2011* (S.I. No. 438 of 2011), reg. 2.
+>
+> • (5.09.2007) by *Mussel Seed (Conservation) (No. 6) Regulations 2007* (S.I. No. 641 of 2007); revoked (30.11.2007) by *Mussel Seed (Prohibition on Fishing) Regulations 2007* (S.I. No. 789 of 2007), reg. 4(d), in effect as per reg. 1.
+>
+> • (22.08.2007) by *Mussel Seed (Conservation) (No. 5) Regulations 2007* (S.I. No. 595 of 2007); revoked (30.11.2007) by *Mussel Seed (Prohibition on Fishing) Regulations 2007* (S.I. No. 789 of 2007), reg. 4(c), in effect as per reg. 1.
+>
+> • (20.08.2007) by *Mussel Seed (Conservation) (No. 4) Regulations 2007* (S.I. No. 589 of 2007); revoked (30.11.2007) by *Mussel Seed (Prohibition on Fishing) Regulations 2007* (S.I. No. 789 of 2007), reg. 4(b), in effect as per reg. 1.
+>
+> • (21.07.2007) by *Cockle (Fisheries Management and Conservation) (Dundalk Bay) Regulations 2007* (S.I. No. 532 of 2007), in effect as per reg. 2; revoked (2.09.2011) by *Cockle (Fisheries Management and Conservation) (Dundalk Bay) (Revocation) Regulations 2011* (S.I. No. 438 of 2011), reg. 2.
+>
+> • (4.07.2007) by *Mussel Seed (Conservation) (No. 3) Regulations 2007* (S.I. No. 415 of 2007); revoked (30.11.2007) by *Mussel Seed (Prohibition on Fishing) Regulations 2007* (S.I. No. 789 of 2007), reg. 4(a), in effect as per reg. 1.
+>
+> • (1.06.2007) by *Sea-Fisheries (First Marketing of Fish) Regulations 2007* (S.I. No. 260 of 2007), in effect as per reg. 1(2); revoked (28.09.2011) by *Sea-Fisheries (Common Fisheries Policy Community Control System) Regulations 2011* (S.I. No. 490 of 2011), reg. 22(d).
+>
+> • (6.01.2007 to 15.07.2007) by *Cockle (Fisheries Management and Conservation) Regulations 2007* (S.I. No. 270 of 2007), in effect as per reg. 2.
+>
+> • (6.01.2007 to 15.07.2007) by *Cockle (Fisheries Management and Conservation) Regulations 2007* (S.I. No. 269 of 2007), in effect as per reg. 2.
+>
+> • (6.01.2007 to 31.05.2007) by *Cockle (Fisheries Management and Conservation) (No. 2) Regulations 2007* (S.I. No. 3 of 2007), in effect as per reg. 2.
+>
+> • (6.01.2007 to 31.07.2007) by *Cockle (Fisheries Management and Conservation) Regulations 2007* (S.I. No. 2 of 2007), in effect as per reg. 2.
+>
+> • (8.12.2006) by *Mussel Seed (Conservation) (No. 11) Regulations 2006* (S.I. No. 603 of 2006); revoked (6.06.2007) by *Mussel Seed (Conservation) (No. 2) Regulations 2007* (S.I. No. 213 of 2007), reg. 3, in effect as per reg. 2.
+>
+> • (6.10.2006) by *Monkfish (Control of Landings) Regulations 2006* (S.I. No. 496 of 2006), in effect as per reg. 2; revoked (17.06.2008) by *Monkfish (Control of Landings) Regulations 2008* (S.I. No. 203 of 2008), reg. 6.
+>
+> • (21.09.2006) by *Mussel Seed (Conservation) (No.10) Regulations 2006* (S.I. No. 495 of 2006); spent.
+>
+> • (31.08.2006) by *Mussel Seed (Conservation) (No. 9) Regulations 2006* (S.I. No. 466 of 2006); spent.
+>
+> • (31.08.2006) by *Mussel Seed (Conservation) (No. 8) Regulations 2006* (S.I. No. 465 of 2006); spent.
+>
+> • (4.08.2006) by *Mussel Seed (Conservation) (No. 6) Regulations 2006* (S.I. No. 415 of 2006); revoked (31.08.2006) by *Mussel Seed (Conservation) (No. 9) Regulations 2006* (S.I. No. 466 of 2006), reg. 2.
+>
+> • (1.08.2006) by *Mussel Seed (Conservation) (No. 5) Regulations 2006* (S.I. No. 403 of 2006); revoked (21.09.2006) by *Mussel Seed (Conservation) (No.10) Regulations 2006* (S.I. No. 495 of 2006), reg. 2(b).
+>
+> • (17.07.2006) by *Mussel Seed (Conservation) (No. 2) Regulations 2006* (S.I. No. 344 of 2006), in effect as per reg. 2; spent.
+>
+> • (13.07.2006) by *Mussel Seed (Conservation) (No. 4) Regulations 2006* (S.I. No. 368 of 2006); revoked (21.09.2006) by *Mussel Seed (Conservation) (No.10) Regulations 2006* (S.I. No. 495 of 2006), reg. 2(a).
+>
+> • (13.07.2006) by *Mussel Seed (Conservation) (No. 3) Regulations 2006* (S.I. No. 367 of 2006); revoked (31.08.2006) by *Mussel Seed (Conservation) (No. 8) Regulations 2006* (S.I. No. 465 of 2006), reg. 2. The revoking S.I. gives an incorrect title but it appears that this S.I. is intended.
+>
+> • (1.07.2006 to 30.06.2007) by *Bass (Restriction on Sale) (No. 2) Regulations 2006* (S.I. No. 337 of 2006), in effect as per reg. 2.
+>
+> • (14.06.2006) by *Mussel Seed (Conservation) Regulations 2006* (S.I. No. 310 of 2006), in effect as per reg. 2; revoked (17.07.2006) by *Mussel Seed (Conservation) (No.2) Regulations 2006* (S.I. No. 344 of 2006), reg. 3, in effect as per reg. 2.
+>
+> • (9.05.2006 to 30.06.2006) by *Bass (Restriction on Sale) Regulations 2006* (S.I. No. 231 of 2006), in effect as per reg. 2.
+>
+> • (4.05.2006) by *Shrimp (Fisheries Management and Conservation) Regulations 2006* (S.I. No. 235 of 2006); revoked (17.12.2014) by *Shrimp (Conservation of Stocks) Regulations 2014* (S.I. No. 592 of 2014), reg. 5.
+>
+> • (4.05.2006) by *Lobster (Conservation of Stocks) Regulations 2006* (S.I. No. 234 of 2006); revoked (1.01.2015) by *Lobster (Conservation of Stocks) Regulations 2014* (S.I. No. 591 of 2014), reg. 10.
+
+### F17[Chapter 2A Regulation of Irish fishing masters — Chapter 2A — Regulation of Irish fishing masters]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F17: Inserted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 6, S.I. No. 202 of 2022.
+
+#### 15A. Interpretation and application (Chapter 2A of Part 2)
+
+F18[**15A**.—(1) In this Chapter—
+
+"Appeals Officer" shall be construed in accordance with *section 15M*;
+
+"certificate of master registration" shall be construed in accordance with *section 15C(1)*;
+
+"Commission Regulation" means Commission Implementing Regulation (EU) No. 404/2011 of 8 April 2011[^3] laying down detailed rules for the implementation of Council Regulation (EC) No. 1224/2009 of 20 November 2009[^4] establishing a Community control system for ensuring compliance with the rules of the Common Fisheries Policy, as amended by Commission Implementing Regulation (EU) 2015/1962 of 28 October 2015[^5], Commission Implementing Regulation (EU) 2020/30 of 14 January 2020[^6] and Commission Implementing Regulation (EU) 2020/863 of 22 June 2020[^7];
+
+"competent authority" means, in relation to another Member State, the competent authority designated by that Member State to perform the functions of the competent authority under the Control Regulation;
+
+"Control Regulation" means Council Regulation (EC) No. 1224/2009 of 20 November 2009[^8] establishing a Union control system for ensuring compliance with the rules of the common fisheries policy, as amended by Regulation (EU) No. 1379/2013 of the European Parliament and of the Council of 11 December 2013[^9], Regulation (EU) No. 1380/2013 of the European Parliament and of the Council of 11 December 2013[^10], Council Regulation (EU) No. 1385/2013 of 17 December 2013[^11], Regulation (EU) No. 508/2014 of the European Parliament and of the Council of 15 May 2014[^12], Regulation (EU) 2015/812 of the European Parliament and of the Council of 20 May 2015[^13], Regulation (EU) 2019/473 of the European Parliament and of the Council of 19 March 2019[^14] and Regulation (EU) 2019/1241 of the European Parliament and of the Council of 20 June 2019[^15];
+
+"Determination Panel" shall be construed in accordance with *section 15G*;
+
+"engage", in relation to a master of a sea-fishing boat, means—
+
+(*a*) retain, hire or otherwise employ the master concerned, or
+
+(*b*) enter into any other contractual or legal arrangement with the master concerned pursuant to which the master acts as master of a sea-fishing boat;
+
+"Irish citizen" means a person who—
+
+(*a*) is an Irish citizen under the Irish Nationality and Citizenship Acts 1956 to 2004, or
+
+(*b*) acquires Irish citizenship under those Acts or any other enactment;
+
+"IUU Regulation" means Council Regulation (EC) No. 1005/2008 of 29 September 2008[^16] establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing, as amended by Commission Regulation (EC) No. 1010/2009 of 22 October 2009[^17], Commission Regulation (EU) No. 86/2010 of 29 January 2010[^18] and Commission Regulation (EU) No. 202/2011 of 1 March 2011[^19];
+
+"official" has the same meaning as it has in Article 4(6) of the Control Regulation;
+
+"points" means points assigned to a master of a sea-fishing boat for a serious infringement in accordance with Annex XXX to the Commission Regulation or section 15U, as the case may be;
+
+"registered master" means an Irish citizen who is entered in the Irish Fishing Master Register in accordance with *section 15B*;
+
+"Regulations of 2020" means the European Union (Common Fisheries Policy) (Point System) Regulations 2020 (S.I. No. 318 of 2020);
+
+"report" means a report in writing and includes an inspection report, a surveillance report, a report of control data or material, collected by an official acting in the execution of his or her powers or duties;
+
+"sea-fishing boat licence" means a licence granted under section 4 (inserted by section 97) of the Act of 2003;
+
+"serious infringement" means an infringement of the rules of the common fisheries policy specified in Annex XXX to the Commission Regulation or Article 90(1)(c) of the Control Regulation.
+
+(2) A word or expression that is used in this Chapter and is also used in the Commission Regulation, the Control Regulation or the IUU Regulation has, unless the context otherwise requires, the same meaning in this Chapter as it has in the Commission Regulation, the Control Regulation or the IUU Regulation, as the case may be.
+
+(3) This Chapter is without prejudice to section 3 of the Merchant Shipping (Certification of Seamen) Act 1979 and any regulations made thereunder.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F18: Inserted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 6, S.I. No. 202 of 2022.
+
+#### 15B. Irish Fishing Master Register
+
+F19[**15B**.— (1) For the purposes of this Chapter, the Minister shall establish and maintain, in such form (including electronic form) as he or she considers appropriate, a register, to be known as the Irish Fishing Master Register, of Irish citizens who are masters of sea-fishing boats and the points assigned in accordance with this Chapter to each such master.
+
+(2) A person applying for registration in the Irish Fishing Master Register shall—
+
+(*a*) furnish the Minister with such information as the Minister may reasonably require for the purposes of maintaining the Irish Fishing Master Register, and
+
+(*b*) without prejudice to the generality of *paragraph (c)*, satisfy the Minister that he or she—
+
+(i) is an Irish citizen, and
+
+(ii) is not, at the time of registration, assigned 90 or more points in accordance with this Chapter.
+
+(3) An application for entry in the Irish Fishing Master Register shall be made in such form and manner as the Minister may specify.
+
+(4) The Irish Fishing Master Register shall contain the following details in respect of each person registered therein:
+
+(*a*) his or her name and address;
+
+(*b*) his or her phone number, email address and any other relevant contact details;
+
+(*c*) his or her personal public service number (within the meaning of section 262 of the Social Welfare Consolidation Act 2005);
+
+(*d*) his or her registration number as specified in the certificate of master registration issued in respect of him or her;
+
+(*e*) the date of registration on the certificate of master registration;
+
+(*f*) the number of points (if any) assigned to him or her by the Authority in accordance with this Chapter;
+
+(*g*) the date on which any such points were so assigned;
+
+(*h*) details of any suspension of the registration of the person in the Irish Fishing Master Register, including the date and duration of any such suspension, a summary of the reasons for the suspension and particulars of all deletions of such suspensions;
+
+(*i*) the date of occurrence and details of each serious infringement for which he or she has been assigned points (if any);
+
+(*j*) the date of the detection of each such serious infringement;
+
+(*k*) the date on which any points assigned to the master or any suspension of the registration of the master may be deleted from the Irish Fishing Master Register in accordance with *section 15J(2)* or *15K(6)*;
+
+(*l*) such other information as the Minister considers necessary to ensure the effective management of the Irish Fishing Master Register.
+
+(5) A registered master shall notify the Minister of any change in the details specified in *paragraph (a)* or *(b)* of *subsection (4)* relating to him or her.
+
+(6) The Minister shall make the following information entered in the Irish Fishing Master Register in relation to a person entered in that register available in such manner as he or she considers appropriate to holders of sea-fishing boat licences and other relevant persons:
+
+(*a*) his or her name;
+
+(*b*) his or her registration number;
+
+(*c*) the number of points assigned to him or her;
+
+(*d*) details of any suspension of the registration of the person in the Irish Fishing Master Register, including the date and duration of any such suspension.
+
+(7) An official shall, at all reasonable times, have access to and may inspect and examine the Irish Fishing Master Register.
+
+(8) Upon receipt of a notification under *section 15I(3)(b)* or *section 15I(6)(b)*, the Minister shall record on the Irish Fishing Master Register the points assigned in accordance with this Chapter to the master to whom the notification relates.
+
+(9) Subject to *subsection (10)*, the Minister may refuse to register a person in, or remove a person from, the Irish Fishing Master Register where the Minister is satisfied that the person's application for registration is or was, at the time it was made, incomplete, inaccurate, false or misleading in any material respect.
+
+(10) Where the Minister proposes, in accordance with *subsection (9)*, to refuse to register in, or to remove from, the Irish Fishing Master Register, a person, he or she shall—
+
+(*a*) notify the person concerned in writing of the proposal and of the reasons for the proposed refusal or removal,
+
+(*b*) notify the person in writing that he or she, or a person acting on his or her behalf, may make representations to the Minister in relation to the proposal within 14 days of the receipt by the person of the notification referred to in *paragraph (a)*, and
+
+(*c*) consider any such representations duly made before deciding whether to refuse to register in, or to remove from, the Irish Fishing Master Register, the person.
+
+(11) The Minister shall retain a record, in such form (including electronic form) as he or she considers appropriate, of persons who have been removed from the Irish Fishing Master Register in accordance with *subsection (9)* or *(13)* or *section 15L*.
+
+(12) A person who, when applying for registration in the Irish Fishing Master Register, furnishes information to the Minister knowing it to be false or misleading in any material respect shall be guilty of an offence and shall be liable—
+
+(*a*) on summary conviction, to a class A fine, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €15,000.
+
+(13) Where a person is convicted of an offence under *subsection (12)*, he or she shall be removed by the Minister from the Irish Fishing Master Register.
+
+(14) In this section, "relevant person" means—
+
+(*a*) a holder of a sea-fishing boat licence, and
+
+(*b*) a person who has made an application for a sea-fishing boat licence to the licensing authority and such licence has not yet been granted.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F19: Inserted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 6, S.I. No. 202 of 2022. A class A fine means a fine not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+#### 15C. Certificate of master registration
+
+F20[**15C**.— (1) A certificate certifying that a person is entered in the Irish Fishing Master Register (a certificate of master registration) and specifying—
+
+(*a*) the registration number of the registered master, and
+
+(*b*) the date of registration of the person,
+
+shall be issued by the Minister in respect of each person so entered.
+
+(2) A master shall, at all times when he or she is acting as the master of a sea-fishing boat, carry his or her certificate of master registration on board the sea-fishing boat.
+
+(3) A person who fails to comply with *subsection (2)* commits an offence and is liable on summary conviction to a class A fine.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F20: Inserted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 6, S.I. No. 202 of 2022. A class A fine means a fine not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+#### 15D. Data entered in Irish Fishing Master Register
+
+F21[**15D**.— (1) Subject to *subsection (2)*, data entered in the Irish Fishing Master Register shall be stored only for as long as necessary for the operation of the Irish Fishing Master Register for the purposes of this Chapter.
+
+(2) Where data entered in the Irish Fishing Master Register concerns the points system referred to in Article 92 of the Control Regulation, such data shall be stored for a minimum of 3 years, starting from the year following the later of—
+
+(*a*) the year in which the data is entered in the Irish Fishing Master Register, or
+
+(*b*) the year in which the most recent points are assigned to the person to whom it relates.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F21: Inserted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 6, S.I. No. 202 of 2022.
+
+#### 15E. Regulations relating to maintenance and administration of Irish Fishing Master Register
+
+F22[**15E**.— (1) The Minister may by regulations make provision for such additional, incidental, consequential or supplementary matters relating to the maintenance and proper administration of the Irish Fishing Master Register as appear to him or her to be necessary or expedient.
+
+(2) Without prejudice to the generality of *subsection (1)*, regulations under that subsection may provide for—
+
+(*a*) the manner in which the Irish Fishing Master Register shall be maintained, and
+
+(*b*) the manner in which the Irish Fishing Master Register shall be operated to ensure compliance with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016[^20].]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F22: Inserted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 6, S.I. No. 202 of 2022.
+
+#### 15F. Taking charge of certain sea-fishing boats when not registered in the Irish Fishing Master Register
+
+F23[**15F**.— (1) Subject to *subsection (3)*, an Irish citizen shall not take charge, or attempt to take charge, of an Irish sea-fishing boat or a foreign sea‑fishing boat wherever it may be, unless he or she is for the time being registered in the Irish Fishing Master Register.
+
+(2) A person who contravenes *subsection (1)* commits an offence and is liable—
+
+(*a*) on summary conviction, to a class A fine, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €15,000.
+
+(3) In proceedings for an offence under *subsection (2)*, it shall be a defence for the defendant to prove that he or she took charge of the Irish sea-fishing boat or the foreign sea-fishing boat in order to avert, or to seek to avert, an immediate or imminent danger to the boat or a person on the boat.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F23: Inserted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 6, S.I. No. 202 of 2022. A class A fine means a fine not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+#### 15G. Determination Panel
+
+F24[**15G**.—(1) The Determination Panel established and appointed under and in accordance with Regulation 5 of the Regulations of 2020 shall be the Determination Panel for the purpose of determining, in accordance with this Chapter, whether a serious infringement has occurred and whether a person was, at the time, the master of the sea-fishing boat.
+
+(2) Paragraphs (2) to (14) of Regulation 5 of the Regulations of 2020 shall apply to a Determination Panel under this section, subject to the following modifications:
+
+(*a*) a reference to the Regulations of 2020 shall be construed as a reference to this Chapter;
+
+(*b*) a reference to a "licence holder" shall be construed as a reference to a master of a sea-fishing boat;
+
+(*c*) a reference to a "determination" shall be construed as a reference to a determination under this Chapter;
+
+(*d*) in paragraphs (8) and (9), the references to Regulation 6(6) shall be read as references to *section 15H(2)(b)*;
+
+(*e*) in paragraph (11), the reference to Regulation 6(9) shall be read as a reference to *section 15H(6)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F24: Inserted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 6, S.I. No. 202 of 2022.
+
+#### 15H. Notification of an alleged serious infringement
+
+F25[**15H**.—(1) Where an official detects an alleged serious infringement—
+
+(*a*) involving an Irish sea-fishing boat, wherever the boat may be, or
+
+(*b*) involving a foreign sea-fishing boat, in the exclusive fishery limits of the State (within the meaning of *Part 3*),
+
+of which boat the person who is alleged to be the master ("the alleged master") is an Irish citizen or a national of another Member State, the official shall prepare a report and forward the report and any material collected in relation to the alleged infringement to the Authority.
+
+(2) Where a report is forwarded to the Authority pursuant to *subsection (1)*, the Authority shall—
+
+(*a*) send the report and any material collected relating to the alleged serious infringement to the Determination Panel to determine if a serious infringement has occurred,
+
+(*b*) notify the alleged master in writing—
+
+(i) that an alleged serious infringement has been detected,
+
+(ii) that he or she is alleged to have been the master of the sea‑fishing boat when the alleged serious infringement took place,
+
+(iii) that the matter shall be sent to the Determination Panel to determine if a serious infringement has occurred,
+
+(iv) of the opportunity for him or her to make submissions in writing to the Determination Panel within 30 working days from the date of the notification, and
+
+(v) that he or she may, within 30 working days from the date of the notification, make a request in writing to the Determination Panel for an oral hearing,
+
+and
+
+(*c*) provide the alleged master with a copy of the report and the material referred to in *paragraph (a)*.
+
+(3) A report and any material forwarded to the Authority by an official pursuant to *subsection (1)* and any submission referred to in *subsection (4)* may be used by the Determination Panel in making a determination under *subsection (6)*.
+
+(4) The alleged master shall be given the opportunity to make submissions in writing to the Determination Panel within 30 working days from the date of the notification referred to in *subsection (2)(b)*.
+
+(5) The Determination Panel may request that extra information be provided by the Authority or the alleged master in relation to the issue under determination by the Determination Panel and the Authority or the alleged master, as the case may be, shall provide the information not later than 20 working days after receiving the request.
+
+(6) The Determination Panel shall, not later than 70 working days after the date of notification referred to in *subsection (2)(b)* to the alleged master, determine on the balance of probabilities whether a serious infringement has occurred and whether the alleged master was, at the time the serious infringement occurred, the master of the sea-fishing boat.
+
+(7) In determining whether an alleged serious infringement has occurred, the Determination Panel shall have regard to the criteria referred to in Article 3(2) of the IUU Regulation.
+
+(8) The Determination Panel shall notify the Authority and the alleged master concerned in writing of its determination under *subsection (6)* and the reasons for that determination.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F25: Inserted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 6, S.I. No. 202 of 2022.
+
+#### 15I. Assignment of points by Authority
+
+F26[**15I**.— (1) Where the Authority is notified under *section 15H(8)* that the Determination Panel has determined that a serious infringement has occurred and the master, at the time the serious infringement occurred, was the master of the sea-fishing boat, the Authority shall—
+
+(*a*) in a case where the master concerned is an Irish citizen, notify the master in writing—
+
+(i) of it having been so notified, and
+
+(ii) of the proposal to assign the appropriate points in accordance with Annex XXX to the Commission Regulation or *section 15U*, as the case may be, to the master for the serious infringement,
+
+or
+
+(*b*) in a case where the master concerned is a national of another Member State, notify the master—
+
+(i) of it having been so notified, and
+
+(ii) that it is proposed to notify the competent authority of the Member State of which the master is a national of the detection of the serious infringement.
+
+(2) A notification under *subsection (1)* to a master shall—
+
+(*a*) give particulars of—
+
+(i) the serious infringement concerned, and
+
+(ii) where relevant, the appropriate number of points proposed to be assigned,
+
+and
+
+(*b*) inform the master of the master’s right to appeal in accordance with *section 15N*.
+
+(3) Subject to *subsection (5)*, where a notification has been issued under *subsection (1)* in respect of a master who is an Irish citizen, the Authority shall—
+
+(*a*) assign the appropriate number of points to the master in question, and
+
+(*b*) as soon as practicable thereafter, notify the Minister of the following matters:
+
+(i) the name and address of the master to whom the points are assigned;
+
+(ii) the registration number of the registered master;
+
+(iii) the identity of the sea-fishing boat to which the infringement concerned relates;
+
+(iv) the particulars of the serious infringement concerned;
+
+(v) the number of points assigned;
+
+(vi) the date from which the points are assigned.
+
+(4) Subject to *subsection (5)*, where a notification has been issued under *subsection (1)* in respect of a master who is a national of another Member State, the Authority shall notify the competent authority of the Member State of the following matters:
+
+(*a*) the identity of the sea-fishing boat to which the infringement concerned relates;
+
+(*b*) the name and address of, and any other identifying details available relating to, the master of the sea-fishing boat;
+
+(*c*) the particulars of the serious infringement concerned;
+
+(*d*) the number of points applicable to that infringement.
+
+(5) Points shall not be assigned under *subsection (3)* or a notification shall not be made under *subsection (4)*, as the case may be, until—
+
+(*a*) the period allowed to appeal the determination by the Determination Panel to the Appeals Officer under *section 15N* has expired, without such an appeal having been made, or
+
+(*b*) where an appeal under *section 15N* is made—
+
+(i) in case the appeal is withdrawn, the date of the withdrawal, or
+
+(ii) in case the Appeals Officer decides to uphold the determination of the Determination Panel in respect of the serious infringement, the date of that decision.
+
+(6) Where the Authority receives a notification under Article 89(4) of the Control Regulation from the competent authority of another Member State of the detection of a serious infringement involving a sea-fishing boat of which an Irish citizen was the master, the Authority shall—
+
+(*a*) assign the appropriate number of points to the master, and
+
+(*b*) notify the master and the Minister accordingly.
+
+(7) Points assigned by the Authority in accordance with this section shall apply from the date of detection of the serious infringement concerned.
+
+(8) The Authority shall not assign more than 12 points in respect of any one inspection.
+
+(9) In this section—
+
+"identity", in relation to a sea-fishing boat, includes the lettering and numbering of the boat;
+
+"inspection" has the same meaning as it has in Article 4(4) of the Control Regulation.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F26: Inserted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 6, S.I. No. 202 of 2022.
+
+#### 15J. Matters relating to points assigned
+
+F27[**15J**.—(1) Subject to *subsection (2)*, points assigned by the Authority to a master who is an Irish citizen remain assigned regardless of any criminal proceedings pending, or the outcome of any such proceedings, in respect of the serious infringement concerned.
+
+(2) If a master who is an Irish citizen and to whom points have been assigned in accordance with this Chapter, does not commit, within 3 years from the date of the detection of the last serious infringement to which the points relate, another serious infringement, all points in the Irish Fishing Master Register assigned to the master concerned shall be removed and shall be deleted from the Irish Fishing Master Register.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F27: Inserted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 6, S.I. No. 202 of 2022.
+
+#### 15K. Suspension of Irish fishing master from Irish Fishing Master Register
+
+F28[**15K**.—(1) Subject to *subsection (6)* and *section 15J(2)*, where points are assigned to a master on the Irish Fishing Master Register in accordance with this Chapter, the Minister shall suspend the registration of the master in the Irish Fishing Master Register—
+
+(*a*) where the master accumulates a total of 18 points, for a period of 2 months,
+
+(*b*) where the master accumulates a total of 36 points, for a period of 4 months,
+
+(*c*) where the master accumulates a total of 54 points, for a period of 8 months, and
+
+(*d*) where the master accumulates a total of 72 points, for a period of 12 months.
+
+(2) Where the registration of a master in the Irish Fishing Master Register is suspended under *subsection (1)*, the Minister shall record the suspension in that Register.
+
+(3) A master whose registration in the Irish Fishing Master Register has been suspended under *subsection (1)* shall immediately inform the holder of a sea-fishing boat licence who engages or proposes to engage him or her as master, of—
+
+(*a*) such suspension,
+
+(*b*) the reasons for such suspension, and
+
+(*c*) the duration of such suspension.
+
+(4) A person who fails to comply with *subsection (3)* commits an offence and is liable on summary conviction to a class B fine.
+
+(5) Where during a period of suspension under *subsection (1)* (in this subsection referred to as "the first-mentioned period"), the master is assigned further points which result in a further suspension under that subsection, the period of the further suspension shall commence on the day immediately following the last day of the first-mentioned period.
+
+(6) Where a master whose registration in the Irish Fishing Master Register has been suspended under *subsection (1)* does not commit another serious infringement within 3 years from the date of the detection of the last serious infringement to which the points assigned to him or her relate, the record in that Register of the suspension shall be deleted by the Minister.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F28: Inserted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 6, S.I. No. 202 of 2022. A class B fine means a fine not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(1), S.I. No. 662 of 2010.
+
+#### 15L. Removal of master from Irish Fishing Master Register for accumulation of points or suspensions
+
+F29[**15L**.—(1) Where a master accumulates 90 points (which have not been deleted in accordance with *section 15J(2)*) or has received five suspensions under *section 15K* (which have not been deleted in accordance with *subsection (6)* of that section), the Minister shall remove the master from the Irish Fishing Master Register.
+
+(2) A person who has been removed from the Irish Fishing Master Register under *subsection (1)* shall not be entitled to be re-entered in the Register.
+
+(3) A person who has been removed from the Irish Fishing Master Register under *subsection (1)* shall immediately inform the holder of a sea-fishing boat licence who engages or proposes to engage him or her as a master of such removal.
+
+(4) A person who fails to comply with *subsection (3)* commits an offence and shall be liable on summary conviction to a class B fine.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F29: Inserted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 6, S.I. No. 202 of 2022. A class B fine means a fine not greater than €4,000 as provided (4.10.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(1), S.I. No 662 of 2010.
+
+#### 15M. Appeals Officer
+
+F30[**15M**.—(1) An Appeals Officer appointed under and in accordance with Regulation 11 of the Regulations of 2020 shall be an Appeals Officer for the purposes of this Chapter.
+
+(2) Paragraphs (2), (3), (5), (6) and (7) of Regulation 11 of the Regulations of 2020 shall apply to an Appeals Officer, subject to the following modifications:
+
+(*a*) a reference to the Regulations of 2020 shall be construed as a reference to this Chapter;
+
+(*b*) a reference to "licence holder" shall be construed as a reference to the master of a sea-fishing boat;
+
+(*c*) a reference to an appeal shall be construed as a reference to an appeal under this Chapter;
+
+(*d*) in paragraph (5), the reference to Regulation 12(11) shall be construed as a reference to *section 15N(11)*.
+
+(3) Should the post of Appeals Officer become vacant, pending the appointment of a new appointee the Authority will suspend—
+
+(*a*) in a case where the master concerned is an Irish citizen—
+
+(i) the proposal to assign the appropriate points to the master for the serious infringement, and
+
+(ii) the notification to the master of the proposal to assign points,
+
+or
+
+(*b*) in a case where the master is a national of another Member State—
+
+(i) the notification to the master of the sea-fishing boat concerned of the proposal to notify the competent authority of the Member State of which the master is a national of the detection of the serious infringement, and
+
+(ii) the proposal to notify the competent authority of the Member State of which the master is a national of the serious infringement detected and the number of points appropriate to that infringement.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F30: Inserted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 6, S.I. No. 202 of 2022.
+
+#### 15N. Appeal to the Appeals Officer
+
+F31[**15N**.—(1) A master who is—
+
+(*a*) an Irish citizen to whom points are proposed to be assigned in accordance with *section 15I(3)*, or
+
+(*b*) a national of another Member State, in respect of whom it is proposed to make a notification under *section 15I(4)*,
+
+may appeal to the Appeals Officer, not later than 30 working days from the date of the notification referred to in *section 15I(1)* in respect of the proposal—
+
+(i) to assign points to him or her, or
+
+(ii) to notify the competent authority of the Member State of which he or she is a national,
+
+as the case may be.
+
+(2) An appeal shall—
+
+(*a*) be made by the master,
+
+(*b*) be made in writing, and
+
+(*c*) be accompanied by a statement of grounds relied on by the master concerned.
+
+(3) The Appeals Officer shall, if so requested by a master who has made an appeal, hold an oral hearing for the purposes of the appeal.
+
+(4) A request by a party for any oral hearing shall be made in writing to the Appeals Officer not later than 30 working days from the date of the notification of the proposal by the Authority under *section 15I(1)*—
+
+(*a*) to assign points to him or her, or
+
+(*b*) to notify the Member State of which the master concerned is a national.
+
+(5) An oral hearing shall not be held if the request referred to in *subsection (4)* is received later than the time specified in that subsection.
+
+(6) The Appeals Officer may request that extra information with regard to the subject matter of the appeal be provided by the Authority or a master and, in any case, not later than 20 working days after receiving the request, the Authority or master, as the case may be, shall provide the information.
+
+(7) The Appeals Officer shall arrange his or her business as he or she sees fit and may set down the procedures to be followed in respect of the conduct and consideration of appeals.
+
+(8) The Authority shall provide all reasonable facilities and services as may be required by the Appeals Officer for the performance of his or her functions.
+
+(9) The Appeals Officer may, where an appeal is made by a master—
+
+(*a*) confirm that points shall be assigned to the master concerned or that notification be made to the Member State of which the master concerned is a national, as the case may be, or
+
+(*b*) find in favour of the master, in which event—
+
+(i) in the case of a master who is an Irish citizen, points shall not be assigned and a notification shall not be made under *section 151(3)*, or
+
+(ii) in the case of a master that is a national of another Member State, a notification under *section 15I(4)* shall not be made.
+
+(10) The Appeals Officer shall confirm that points shall be assigned to the master or that notification be made to the Member State of which the master concerned is a national, as the case may be, under *subsection (9)(a)* where on the balance of probabilities, the Appeals Officer considers that the alleged serious infringement in respect of which it is proposed to assign points or notify the competent authority of the Member State—
+
+(*a*) did occur,
+
+(*b*) involved a serious infringement, and
+
+(*c*) did involve the sea-fishing boat of which the master concerned was master at the time of the serious infringement.
+
+(11) Subject to *subsection (12)*, an Appeals Officer shall make a decision in relation to an appeal not later than 45 working days from the date of receipt of the appeal by him or her under *subsection (1)*.
+
+(12) In exceptional circumstances, the Appeals Officer may take not more than 15 working days in addition to the number of days mentioned in *subsection (11)* to make a decision.
+
+(13) The Appeals Officer shall notify the master concerned, and the Authority, in writing of his or her decision and the reasons for it and the decision or reasons for the decision may be published on a website maintained by the Authority.
+
+(14) The Authority or the master concerned may apply to the High Court on a point of law regarding a decision of the Appeals Officer.
+
+(15) An application to the High Court under *subsection (14)* shall be made not later than 28 days after the notification to the parties of the decision of the Appeals Officer under *subsection (13)*.
+
+(16) In this section "appeal" means an appeal under this section.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F31: Inserted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 6, S.I. No. 202 of 2022.
+
+#### 15O. Notification of assignment of points
+
+F32[**15O**.—Where points are assigned to a master on the Irish Fishing Master Register under *section 15I*, the Minister shall notify the master in writing—
+
+(*a*) of the number of points which have been assigned,
+
+(*b*) the total number of points assigned to him or her which have not been deleted in accordance with *section 15J(2)*,
+
+(*c*) where the master has accumulated points, such that, in accordance with *section 15K*, the registration of the master in the Irish Fishing Master Register is to be suspended, the start date and end date of the period of suspension, and
+
+(*d*) where the master has accumulated sufficient points or suspensions, such that, in accordance with *section 15L*, the master is to be removed from the Irish Fishing Master Register, that the master has been so removed.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F32: Inserted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 6, S.I. No. 202 of 2022.
+
+#### 15P. Service of notifications to masters
+
+F33[**15P**.—(1) Subject to *subsection (2)*, a notification that is required to be made or a document or other material that is required to be sent to a master under this Chapter shall be addressed to the master by name, and may be made or sent in any of the following ways:
+
+(*a*) by giving a copy to the master,
+
+(*b*) by leaving it—
+
+(i) at the address at which the master ordinarily resides or, in a case in which an address for service has been furnished, at that address, or
+
+(ii) on the sea-fishing boat of which the master is for the time being the master,
+
+(*c*) by sending it by post in a prepaid registered letter to the address at which the master ordinarily resides or, in a case in which an address has been furnished, to that address,
+
+(*d*) in a case in which an email address has been furnished, by sending it to that email address,
+
+(*e*) in a case in which a master is registered on an electronic interface, by leaving it on that electronic interface,
+
+(*f*) where the master is mastering a sea-fishing boat that is at sea at the time of such making or sending, by email, satellite telephone or through the fisheries monitoring centre and by subsequent confirmation by any of the other methods referred to in this subsection, or
+
+(*g*) where the master is a national of another Member State, by a request to the other Member State for notification to that master in accordance with Article 161 of the Commission Regulation.
+
+(2) Where a notification is required to be made, or a document or other material is required to be sent, under this Chapter to a master who is a national of another Member State and the Authority does not have contact details for him or her, the notification may be made, or the document or other material may be sent, to the licence holder of the sea-fishing boat concerned in one of the following ways:
+
+(*a*) by giving a copy of the notification, or document or other material, to the licence holder,
+
+(*b*) by leaving it—
+
+(i) at the address at which the licence holder ordinarily resides, or in a case in which an address for service has been furnished, at that address, or
+
+(ii) on the sea-fishing boat for which the licence holder holds the licence,
+
+(*c*) by sending it by post in a prepaid registered letter to the address at which the licence holder ordinarily resides, or in a case in which an address has been furnished, to that address, or
+
+(*d*) in a case in which an email address has been furnished, by sending it to that email address.
+
+(3) For the purpose of this section, a company within the meaning of the Companies Act 2014 shall be deemed to be ordinarily resident at its registered office, and every other body corporate and every unincorporated body of persons shall be deemed to be ordinarily resident at its principal office or place of business.
+
+(4) In this section, "electronic interface" means a secure information technology platform, portal, exchange network or other similar interface maintained by, or on behalf of, the Minister which requires personal log-in details.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F33: Inserted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 6, S.I. No. 202 of 2022.
+
+#### 15Q. Matters relating to oral hearings
+
+F34[**15Q**.—(1) In conducting an oral hearing referred to in *section 15H(2)(b)(v)* or *section 15N(3)*, the Determination Panel or Appeals Officer, as the case may be, may—
+
+(*a*) by notice in writing to any person, require the person to attend at such time and place as is specified in the notice to give evidence in relation to any matter in question at the hearing or to produce any books, accounts, maps, plans or other documents in his or her possession, custody or control which relate to the matter, or
+
+(*b*) take evidence on oath and for that purpose may administer oaths, and a person giving evidence at an oral hearing shall be entitled to the same immunities and privileges as if he or she were a witness before the High Court.
+
+(2) Where a person requests an oral hearing under *section 15H(2)(b)(v)* or *section 15N(3)*, and that person fails to attend at the scheduled hearing in accordance with a notice referred to in *subsection (1)(a)*, the Determination Panel or the Appeals Officer, as the case may be, may make the determination or finding within the time specified in *sections 15H(6)* or *15N(11)* notwithstanding a person's failure to attend at a scheduled hearing.
+
+(3) A person to whom a notice referred to in *subsection (1)(a)* has been given who—
+
+(*a*) refuses or neglects to attend in accordance with the notice,
+
+(*b*) alters, suppresses, conceals or destroys any document to which the notice relates, or
+
+(*c*) having attended in accordance with the notice, refuses to give evidence or refuses or fails to produce any document to which the notice relates,
+
+commits an offence and is liable on summary conviction to a class C fine.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F34: Inserted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 6, S.I. No. 202 of 2022. A class C fine means a fine not greater than €2,500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(1), S.I. No. 662 of 2010.
+
+#### 15R. Offence of employing person who is suspended or removed from Irish Fishing Master Register
+
+F35[**15R**.—(1) A holder of a sea-fishing boat licence shall not—
+
+(*a*) permit a person to take control of the sea-fishing boat to which the licence relates, or
+
+(*b*) engage a person as a master of the sea-fishing boat to which the licence relates,
+
+knowing that the person is an Irish citizen and is not registered in the Irish Fishing Master Register or that the registration of that person in that Register is suspended under *section 15K*.
+
+(2) A holder of a sea-fishing boat licence shall not—
+
+(*a*) permit a national of another Member State to take control of the sea-fishing boat to which the licence relates, or
+
+(*b*) engage such a national as a master of such a sea-fishing boat to which the licence relates,
+
+knowing that he or she has been suspended or removed from a register in the Member State equivalent to the Irish Fishing Master Register or has had his or her right or permission to master a sea-fishing boat permanently withdrawn under the law of that Member State that gives effect to Article 92 of the Control Regulation.
+
+(3) A person who contravenes *subsection (1)* or *(2)* commits an offence and is liable—
+
+(*a*) on summary conviction, to a class A fine, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €15,000.
+
+(4) In proceedings against the holder of a sea-fishing boat licence for a contravention of *subsection (1)(a)* or *(2)(a)*, it shall be a defence for the defendant to prove that he or she permitted the person referred to in those paragraphs to take charge of the sea-fishing boat concerned in order to avert, or to seek to avert, an immediate or imminent danger to the sea-fishing boat or a person thereon.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F35: Inserted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 6, S.I. No. 202 of 2022. A class A fine means a fine not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+#### 15S. Consideration by Determination Panel and Appeals Officer of submissions
+
+F36[**15S**.—(1) A Determination Panel, in relation to an alleged serious infringement, may conduct a determination under this Chapter at the same time as conducting a determination in relation to the same serious infringement under the Regulations of 2020 acting as a Determination Panel under those Regulations and may, including during an oral hearing under *section 15H(2)(b)(v)* or under those Regulations, take evidence and hear and consider submissions relating to—
+
+(*a*) a master in respect of whom the alleged serious infringement has been detected under this Act, and
+
+(*b*) a holder of a sea-fishing boat licence in respect of whom the alleged serious infringement has been detected under the Regulations of 2020.
+
+(2) An Appeals Officer, in relation to an alleged serious infringement, may conduct an appeal under this Chapter at the same time as conducting an appeal in relation to the same serious infringement under the Regulations of 2020 acting as an Appeals Officer under those Regulations and may, including during an oral hearing under *section 15N(3)* or under those Regulations, take evidence and hear and consider submissions relating to—
+
+(*a*) a master in respect of whom the alleged serious infringement has been detected under this Act, and
+
+(*b*) a holder of a sea-fishing boat licence in respect of whom the alleged serious infringement has been detected under the Regulations of 2020.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F36: Inserted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 6, S.I. No. 202 of 2022.
+
+#### 15T. Extension of time limits
+
+F37[**15T**.—(1) Any time limit referred to in this Chapter within which any action is required to be taken or may not be taken, or anything is required to be done or may not be done, may be extended by the Determination Panel or the Appeals Officer, as the case may be, by such period as is necessary to align the time limit concerned with a corresponding time limit in the Regulations of 2020 relating to a determination or appeal under those Regulations arising out of the same alleged serious infringement.
+
+(2) Any time limit referred to in the Regulations of 2020 within which any action is required to be taken or may not be taken, or anything is required to be done or may not be done, may be extended by the Determination Panel or the Appeals Officer, as the case may be, within the meaning of those Regulations, by such period as is necessary to align the time limit concerned with a corresponding time limit in this Chapter relating to a determination or appeal under this Chapter arising out of the same alleged serious infringement.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F37: Inserted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 6, S.I. No. 202 of 2022.
+
+#### 15U. Points to be assigned for serious infringement specified in Article 90(1)(c) of Control Regulation
+
+F38[**15U**.—For the purposes of Article 90 of the Control Regulation, the number of points to be assigned in accordance with this Chapter for a serious infringement specified in paragraph (1)(c) of that Article shall be five.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F38: Inserted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 6, S.I. No. 202 of 2022.
+
+### Chapter 3 Sea-Fisheries Protection Officers Detention of boats Related offences — Chapter 3 — Sea-Fisheries Protection Officers — Detention of boats — Related offences
+
+#### 16. Sea-fisheries protection officers.
+
+**16**.— (1) Each of the following persons is, for the purposes of the *Sea-Fisheries Acts 2003* *and 2006*, a sea-fisheries protection officer—
+
+(*a*) an officer of the Department authorised in that behalf by the Minister,
+
+(*b*) a person appointed under *subsection (1)*, or authorised under *subsection (2)(a)*, of *section 51*,
+
+(*c*) a member of the Permanent Defence Forces (not below the rank of leading seaman or corporal) for the time being serving on board any ship, vessel or aircraft belonging to or employed in the service of the State, F39[or serving in the fisheries monitoring centre,]
+
+(*d*) a member of the Garda Síochána, and
+
+(*e*) an officer of Customs and Excise authorised in that behalf by the Revenue Commissioners.
+
+(2) The Minister may, in agreement with any body established by or under statute, authorise persons who are officers of that body to—
+
+(*a*) perform such functions of a sea-fisheries protection officer under this Act, or
+
+(*b*) assist a sea-fisheries protection officer in exercising such functions,
+
+in such circumstances or area, to such extent and subject to such conditions as he or she may specify in the authorisation.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F39: Inserted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 7, S.I. No. 202 of 2022.
+>
+> **Editorial Notes:**
+>
+> E194: Sea-fisheries protection officer within meaning of section included in definition of “authorised officer” for purposes of:
+>
+> • *European Communities (Food and Feed Hygiene) Regulations 2009* (S.I. No. 432 of 2009) (1.11.2009) by *European Communities (Food and Feed Hygiene) Regulations 2009* (S.I. No. 432 of 2009), reg. 2(1)(d), in effect as per reg. 1.
+>
+> • *European Communities (Health of aquaculture animals and products) Regulations 2008* (S.I. No. 261 of 2008) (1.08.2008) by *European Communities (Health of aquaculture animals and products) Regulations 2008* (S.I. No. 261 of 2008), reg. 2(1)(c), in effect as per reg. 1.
+>
+> • *European Communities (Transmissible Spongiform Encephalopathies and Animal By-products) Regulations 2008* (S.I. No. 252 of 2008) (31.07.2008) by *European Communities (Transmissible Spongiform Encephalopathies and Animal By-products) Regulations 2008* (S.I. No. 252 of 2008), reg. 2(1)(a).
+>
+> • *European Communities (Transmissible Spongiform Encephalopathies and Animal By-Products) Regulations 2006* ( S.I. No. 612 of 2006) (1.09.2006) by *European Communities (Transmissible Spongiform Encephalopathies and Animal By-Products) Regulations 2006* ( S.I. No. 612 of 2006), reg. 2(1)(b), in effect as per reg. 1.
+>
+> E195: Previous affecting provision: sea-fisheries protection officer within the meaning of section included in definition of “authorised officer” for purposes of *European Communities (Hygiene of Fishery Products and Fish Feed) Regulations 2006* (S.I. No. 335 of 2006) (30. 06. 2006) by *European Communities (Hygiene of Fishery Products and Fish Feed) Regulations 2006* (S.I. No. 335 of 2006), reg. 2(1)(a); revoked (1.11.2009) by *European Communities (Food and Feed Hygiene) Regulations 2009* (S.I. No. 432 of 2009), reg. 32(1)(d), in effect as per reg. 1.
+
+#### 17. Powers of sea-fisheries protection officer related to the inspection, examination and detention of sea-fish, etc.
+
+**17**.— (1) A sea-fisheries protection officer is authorised and empowered to do all or any of the following things, that is to say:
+
+(*a*) to stop any person conveying or believed to be conveying sea-fish of any kind and to inspect any sea-fish which the person is found to be conveying and for that purpose to open, search and examine any vehicle, equipment or package in which such sea-fish is or may be or is believed to be conveyed;
+
+(*b*) at all reasonable times, to enter upon or stop, as appropriate and have free access to the interior of—
+
+(i) any premises in which sea-fish is or is believed to be sold, or kept, exposed for sale, stored, processed or disposed of,
+
+(ii) the premises of any person engaged in the business of carrying goods which relate to the common fisheries policy,
+
+(iii) any pier, quay, wharf, jetty, dock or dock premises, seafood factory or processing facility or warehouse,
+
+(iv) any ship, boat, railway wagon, lorry, tanker, trailer or other vessel or vehicle used for the conveyance of goods,
+
+(v) the premises of any person engaged in the business of retaining documents containing information on activities relating to the common fisheries policy;
+
+(*c*) to examine all sea-fish found in any place which he or she is authorised by this section to enter and for that purpose to open any package found in such place and containing or believed to contain sea-fish;
+
+(*d*) to verify the accuracy of the information in any document or record which relates to the common fisheries policy;
+
+(*e*) to check the size, weight, characteristics and condition of sea-fish and the operation of any equipment used for the measurement, weighing, handling, storage, trans-shipment, transportation and processing of sea-fish;
+
+(*f*) to stop, board and examine or search, on any part of the sea or the sea shore, any boat used or believed to be used for fishing or containing illegally caught or retained sea-fish, and to examine all fish and all fishing gear and other equipment found on or in it, or used from it and for that purpose to open any package, hold, tank, container or other article which contains or is suspected of containing any fish, fishing gear or other such equipment;
+
+(*g*) to take, remove, and detain in his or her custody any sea-fish (either together with or without any package or container in which the fish may be contained) found in the course of the exercise of any of the powers conferred by this section in respect of which an offence under this Part is being or is suspected of being or to have been committed;
+
+(*h*) to take, remove, and detain in his or her custody any fishing gear or other equipment used in fishing or capable of being used for fishing or any article which is liable or is believed to be liable to forfeiture under this Part;
+
+(*i*) to request and take the name and address of the person having custody of any sea-fish or other article which he or she is authorised under this section to examine, and also to request and take from such person the name and address of the owner of such sea-fish or other article;
+
+(*j*) to require the owner of or any person connected with—
+
+(i) any premises referred to in F40[*paragraph (b)(i)*, *(ii)* or *(v)*,]
+
+(ii) any pier, quay, wharf, jetty, dock or dock premises, seafood factory or processing facility or warehouse referred to in *paragraph (b)(iii)*, or
+
+(iii) any ship, boat, railway wagon, lorry, tanker, trailer or other vessel or vehicle referred to in *paragraph (b)(iv)*,
+
+to give to him or her such information and to produce to him or her such records within the power or procurement of that person as he or she may reasonably require relating to the common fisheries policy;
+
+(*k*) to examine and take the documents or records or copies of, or extracts from, such documents or records relating to the common fisheries policy;
+
+(*l*) take evidence, including photographic evidence or electronically recorded evidence, of anything relating to an offence under this Part which is being committed or suspected of being or having been committed.
+
+(2) When a sea-fisheries protection officer detains in his or her custody under this section any sea-fish or other article, he or she shall, as soon as conveniently may be, take such steps as may be proper to have the person accused of the alleged offence committed in relation to such sea-fish or other article dealt with according to law.
+
+(3) Where a sea-fisheries protection officer detains in his or her custody under this section any sea-fish and the sea-fish is likely to become unfit for human food before the matter can conveniently be dealt with by any court, he or she may produce the sea-fish to a designated officer (where he or she is not a designated officer), and, if authorised so to do by the designated officer, shall sell or otherwise dispose properly of the sea-fish.
+
+(4) Where a sea-fisheries protection officer detains in his or her custody under this section any live sea-fish, he or she may produce the sea-fish to a designated officer (where he or she is not a designated officer) and, if authorised so to do by the designated officer, shall return the sea-fish to the sea.
+
+(5) A designated officer to whom any sea-fish is produced under this section or which he or she has detained in his or her authority as a sea-fisheries protection officer shall, if he or she is of opinion that the sea-fish ought in the circumstances to be destroyed or returned to the sea, give to the sea-fisheries protection officer producing the sea-fish or create for himself or herself, as the case may be, a certificate in writing describing the sea-fish and any marks, peculiarities or other particulars thereof pointed out to him or her by the sea-fisheries protection officer and authorising the officer to destroy the sea-fish or return the sea-fish to the sea, as the case may be. The certificate shall be conclusive evidence in every court of all such matters of fact stated in it.
+
+(6) A sea-fisheries protection officer shall avoid the use of force except when and to the degree necessary to ensure the safety of the officer and where the officer is threatened, obstructed, intimidated or interfered with in exercising his or her duties. The degree of force shall not exceed that reasonably required in the circumstances.
+
+(7) A sea-fisheries protection officer, who is not in uniform, shall if requested by a person affected produce evidence of his or her authority.
+
+(8) A sea-fisheries protection officer when exercising any powers under this section may be accompanied by other persons and may take with him or her, or those persons may take with them, any equipment or materials to assist the officer in the exercise of those powers.
+
+(9) In this section “designated officer” means an officer of the Department or such other person designated by the Minister to whom a sea-fisheries protection officer produces sea-fish for the purposes of this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F40: Substituted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 8, S.I. No. 202 of 2022.
+>
+> **Modifications (not altering text):**
+>
+> C17: Application of section extended (9.08.2012) by *Sea-Fisheries (Community Control System) Regulations 2012* (S.I. No. 320 of 2012), reg. 4(3), as substituted (13.11.2012) by *Sea-Fisheries (Community Control System) (Amendment) Regulations 2012* (S.I. No. 453 of 2012), reg. 2(b).
+>
+> *Competent authority*
+>
+> 4\. ...
+>
+> **[**(3) A surveyor of ships may carry out the functions of a sea fisheries protection officer under sections 17 and 18 of the Sea-Fisheries and Maritime Jurisdiction Act 2006 (No. 8 of 2006) for the purpose of Articles 39(2) and (3) and 41(2) of the Council Regulation and Article 62(6) and 63 of the Commission Regulation.**]**
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E196: Provision for a report prepared, or material collected, by a sea-fisheries protection officer in the exercise of his or her powers under this section to be used for the purposes of a proposal to assign points under that Regulation made (20.01.2014) by *European Union (Common Fisheries Policy) (Point System) Regulations 2014* (S.I. No. 3 of 2014), reg. 5(8), in effect as per reg. 1(2).
+>
+> E197: Application of section extended (13.04.2006) by *Sea Fisheries (Technical Conservation Measures) Regulations 2006* (S.I. No. 171 of 2006), reg. 5; revoked (5.06.2013) by *Sea-Fisheries (Technical Measures) Regulations 2013* (S.I. No. 197 of 2013), reg. 6(1).
+
+#### 17A. Search warrants.
+
+F41[**17A.**— (1) This section applies to an offence under the *Sea-Fisheries Acts 2003 to 2007*.
+
+(2) A judge of the District Court, by information on oath of a sea-fisheries protection officer, may, if he or she is satisfied that there are reasonable grounds for suspecting that evidence of, or relating to the commission of, an offence to which this section applies is to be found in any place, issue a warrant for the search of that place and any persons found there.
+
+(3) A warrant under this section shall be expressed and shall operate to authorise a named sea-fisheries protection officer, alone or accompanied by such other persons as may be necessary—
+
+(*a*) to enter (if necessary by the use of reasonable force) and on production of the warrant (if so requested), within 7 days from the date of issuing of the warrant, the place named in the warrant,
+
+(*b*) to search it and any persons found there,
+
+(*c*) while there, to exercise any of the functions of a sea-fisheries protection officer—
+
+(i) under *section 17*, and
+
+(ii) under *section 18*, if the place is a sea-fishing boat,
+
+(*d*) to otherwise examine, take, remove and detain any thing found there, or in the possession of a person present there at the time of the search, which the sea-fisheries protection officer reasonably believes to be evidence of or relating to the commission of an offence to which this section applies, and
+
+(*e*) to take any other steps which may appear to the sea-fisheries protection officer to be necessary for preserving any such thing and preventing interference with it.
+
+(4) The authority conferred by *subsection (3)(d)* to take, remove and detain any thing includes, in the case of records, authority—
+
+(*a*) to make and retain a copy of the records, and
+
+(*b*) where necessary, to seize and, for as long as necessary, retain any computer or other storage medium in which any record is kept.
+
+(5) A sea-fisheries protection officer acting under the authority of a warrant under this section may—
+
+(*a*) operate any computer at the place which is being searched or cause any such computer to be operated by a person accompanying the officer for that purpose, and
+
+(*b*) require any person at that place who appears to the officer to have lawful access to the information in any such computer—
+
+(i) to give to the officer any password necessary to operate it,
+
+(ii) otherwise to enable the officer to examine the information accessible by the computer in a form in which the information is visible and legible, or
+
+(iii) to produce the information in a form in which it can be removed and in which it is, or can be made, visible and legible.
+
+(6) Where any sea-fisheries protection officer has entered a place in the execution of a warrant issued under this section, he or she may seize and detain any material, other than items subject to legal privilege, which is likely to be of substantial value (whether by itself or together with other material) to the investigation for the purpose of which the warrant was issued.
+
+(7) The power to issue a warrant under this section—
+
+(*a*) is without prejudice to the exercise of a function by a sea-fisheries protection officer under any other provision of the *Sea-Fisheries Acts 2003 to 2007*, and
+
+(*b*) is in addition to and not in substitution for any other power to issue a warrant for the search of any place or person.
+
+(8) A sea-fisheries protection officer to whom a warrant under this section has been issued shall, if not in uniform and if requested by a person affected, produce evidence of his or her authority as such an officer.
+
+(9) In this section—
+
+"commission", in relation to an offence, includes an attempt to commit the offence;
+
+"computer at the place which is being searched" includes any other computer, whether at that place or at any other place, which is lawfully accessible by means of that computer;
+
+"place" includes a dwelling, a building or other structure or part of a building or other structure, a vehicle, a sea-fishing boat or other vessel, an aircraft, an installation in the territorial seas or in a designated area (within the meaning of F42[the Maritime Jurisdiction Act 2021]) and a tent, caravan or other temporary or movable structure;
+
+"thing" includes any thing that may be inspected by a sea-fisheries protection officer pursuant to *section 17* or *18*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F41: Inserted (9.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 44(a), commenced on enactment.
+>
+> F42: Substituted (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 31(c), S.I. No. 601 of 2021.
+
+#### 18. Powers of sea-fisheries protection officer relating to fishing boats.
+
+**18**.— (1) A sea-fisheries protection officer, for the purposes of enforcing the *Sea-Fisheries Acts 2003 and 2006* or a Community Regulation with respect to any sea-fishing boat within a port in the State, the exclusive fishery limits or (subject to Community law or international law) outside those limits, may—
+
+(*a*) if the boat is underway, order it to be stopped or be manoeuvred as directed for the purposes of identification or of allowing the officer to go on board it,
+
+(*b*) board the boat,
+
+(*c*) require the owner, master or member of the crew of the boat to produce the certificates of registry, licences, authorisations, logbooks or other records relating to the boat or any fishing gear or equipment thereon, the crew or any member of the crew, which are in his or her possession or control, and inspect and take extracts from or copies of them,
+
+(*d*) require the master of the boat to give an explanation concerning the boat or any fishing gear or equipment on it or concerning the boat’s fishing activity and the certificates, licences, authorisations, logbooks, or other records relating to it,
+
+(*e*) inspect the satellite-tracking device and any other positioning equipment on the boat and require the owner, master or member of the crew of the boat to demonstrate the operation of that equipment, for the purposes of verifying whether that equipment is operated properly, has not been tampered with or otherwise modified or interfered with and is protected against improper use,
+
+(*f*) search the boat (including any package, hold, tank, container or boat or other craft on board),
+
+(*g*) request and take the name and address of any person on board the boat,
+
+(*h*) request co-operation and assistance from the master or crew of the boat in relation to the inspection, examination and detention of the boat or any fishing gear, equipment or sea-fish on it,
+
+(*i*) if he or she reasonably suspects that there has been a contravention by any person on board the boat of this Part, without summons, warrant or other process—
+
+(i) if the boat is not in a port, take or instruct that the boat and all persons on board be taken to port or order the master of the boat to take the boat directly to a specified port, and pending the taking of the steps required by *section 20* or *21*, as may be appropriate, detain the boat and the persons on board, or
+
+(ii) if the boat is in a port, detain the boat and the persons on board at the port or take it and them to a more convenient port and there detain it and them, pending (in either case) the taking of those steps.
+
+(2) A sea-fisheries protection officer shall avoid the use of force except when and to the degree necessary to ensure the safety of the officer and where the officer is threatened, obstructed, intimidated or interfered with in exercising his or her duties. The degree of force shall not exceed that reasonably required in the circumstances.
+
+(3) A sea-fisheries protection officer, who is not in uniform, shall if requested by a person affected produce evidence of his or her authority.
+
+(4) A sea-fisheries protection officer when exercising any powers under this section may be accompanied by other persons and may take with him or her, or those persons may take with them, any equipment or materials (including firearms or other weapons (where he or she or any of those other persons is a member of the Defence Forces or the Garda Síochána)) to assist the officer in the exercise of those powers.
+
+(5) The master of a boat who fails to obey—
+
+(*a*) an order for the boat to be stopped or to be manoeuvred in accordance with directions, or
+
+(*b*) an instruction for the boat to be taken to a specified port,
+
+given by a sea-fisheries protection officer under this section commits an offence and is liable—
+
+(i) on summary conviction, to a fine not exceeding €5,000 or to imprisonment for a term not exceeding 3 months, or to both, or
+
+(ii) on conviction on indictment, to a fine not exceeding €50,000 or to imprisonment for a term not exceeding 2 years, or to both.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C18: Application of section extended (9.08.2012) by *Sea-Fisheries (Community Control System) Regulations 2012* (S.I. No. 320 of 2012), reg. 4(3), as substituted (13.11.2012) by *Sea-Fisheries (Community Control System) (Amendment) Regulations 2012* (S.I. No. 453 of 2012), reg. 2(b).
+>
+> *Competent authority*
+>
+> 4\. ...
+>
+> **[**(3) A surveyor of ships may carry out the functions of a sea fisheries protection officer under sections 17 and 18 of the Sea-Fisheries and Maritime Jurisdiction Act 2006 (No. 8 of 2006) for the purpose of Articles 39(2) and (3) and 41(2) of the Council Regulation and Article 62(6) and 63 of the Commission Regulation.**]**
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E198: Provision for a report prepared, or material collected, by a sea-fisheries protection officer in the exercise of his or her powers under this section to be used for the purposes of a proposal to assign points under that Regulation made (20.01.2014) by *European Union (Common Fisheries Policy) (Point System) Regulations 2014* (S.I. No. 3 of 2014), reg. 5(8), in effect as per reg. 1(2).
+>
+> E199: A fine of €5,000 translates into a class A fine, not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E200: Previous affecting provision: application of section extended (13.04.2006) by *Sea Fisheries (Technical Conservation Measures) Regulations 2006* (S.I. No. 171 of 2006), reg. 5; revoked (5.06.2013) by *Sea-Fisheries (Technical Measures) Regulations 2013* (S.I. No. 197 of 2013), reg. 6(1).
+
+#### 19. Detention of boats and persons on board when offences suspected.
+
+**19**.— (1) Where a sea-fisheries protection officer has, in the exercise of the powers conferred on him or her by *section 18* or by section 26(2)(*e*) of the Act of 2003, detained a boat and the persons on board the boat at a port, any sea-fisheries protection officer who suspects that a person on board the boat has committed an offence under a relevant provision shall (unless he or she is proceeding under *section 21*), as soon as may be, apply to a judge of the District Court for an order authorising the continued detention of the boat and those persons, and the judge may grant an order authorising such detention for a period of 48 hours if he or she is satisfied that the applicant sea-fisheries protection officer has such suspicion and it is reasonable.
+
+(2) Upon the expiration of the period of 48 hours—
+
+(*a*) the boat shall be released, unless an order or an application for an order providing for its further detention has been made under this section before the expiration of that period of 48 hours, and
+
+(*b*) each person on board the boat shall be released, unless an order providing for his or her further detention has been made under this section before the expiration of that period.
+
+(3) In this section “application for an order” includes mentioning to the court that an application will be made to the court.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> Previous affecting provision: application of section extended (13.04.2006) by *Sea Fisheries (Technical Conservation Measures) Regulations 2006* (S.I. No. 171 of 2006), reg. 5; revoked (5.06.2013) by *Sea-Fisheries (Technical Measures) Regulations 2013* (S.I. No. 197 of 2013), reg. 6(1).
+
+#### 20. Detention of boats and persons charged or to be charged pending prosecution.
+
+**20**.— (1) Where a sea-fisheries protection officer has in exercise of the powers conferred on him or her by *section 18* or by section 26(2)(*e*) of the Act of 2003 detained a boat and the persons on board the boat at a port, any sea-fisheries protection officer shall, as soon as may be, bring the master of the boat and any other persons on board the boat against whom proceedings for an offence under a relevant provision have been or are about to be instituted before a judge of the District Court.
+
+(2) Subject to *subsection (3)*, the judge shall, if he or she is satisfied that such proceedings have been or are about to be instituted against the master and those other persons or any one or more of them, by order, directed to a sea-fisheries protection officer, require the officer to detain at a specified port in the State the boat and each such person (including the master) in respect of whom he or she is satisfied that proceedings have been or are about to be instituted, until the proceedings have been determined.
+
+(3) The judge may order the release on bail of a person against whom such proceedings have been instituted before the proceedings have been determined.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> Previous affecting provision: application of section extended (13.04.2006) by *Sea Fisheries (Technical Conservation Measures) Regulations 2006* (S.I. No. 171 of 2006), reg. 5; revoked (5.06.2013) by *Sea-Fisheries (Technical Measures) Regulations 2013* (S.I. No. 197 of 2013), reg. 6(1).
+
+#### 21. Detention of boats pending determination of any proceeding (including appeals) under relevant provision.
+
+**21**.— (1) (*a*) Where—
+
+(i) a person is convicted by a judge of the District Court of an offence under a relevant provision or proceedings in relation to such an offence are dismissed by a judge of the District Court, and
+
+(ii) the boat, on which the person committed the offence or to which the proceedings related, has been detained under *section 18* or section 26(2)(*e*) of the Act of 2003,
+
+the judge shall, by order directed to a sea-fisheries protection officer, require the officer in the event of an appeal from, or any other proceedings in relation to the order of the District Court or the order of any other court to which the case is brought, whether by way of appeal or otherwise, to detain the boat further pending the determination of the appeal or other proceedings (and any proceedings consequent upon the appeal or the other proceedings) at a specified port in the State.
+
+(*b*) Where—
+
+(i) a person is sent forward for trial or for sentence by a judge of the District Court to a court other than the District Court, charged with an offence under a relevant provision, and
+
+(ii) the boat on which the person committed, or is alleged to have committed, the offence has been detained under *section 18* or section 26(2)(*e*) of the Act of 2003,
+
+the judge shall, by order directed to a sea-fisheries protection officer, require the officer—
+
+(I) to detain the boat further at a specified port in the State pending the determination of the case in that other court, and
+
+(II) in the event of an appeal from, or other proceedings in relation to the order of the District Court or of the other court to which the person is sent forward under this paragraph or of any other court to which the case is brought, whether by way of appeal or otherwise, to detain the boat further pending the determination of the appeal or the other proceedings (and any proceedings consequent upon the appeal or the other proceedings) at a specified port in the State.
+
+(2) (*a*) Where, in respect of an offence under a relevant provision, an order is made under *section 20* or *subsection (1)* in relation to a boat, a judge of the District Court may, at his or her discretion, by order directed to a sea-fisheries protection officer, require the boat to be released if security, which in the opinion of the judge is satisfactory, is given for payment, in the event of conviction of the defendant in respect of the offence or in the event of his or her failure to attend before any court when such attendance is required, in relation to the offence or any trials, appeals or other proceedings in relation to the offence, of a sum that, in the opinion of the judge, is sufficient to provide for—
+
+(i) payment of the maximum fine ordered, or which may be ordered, to be paid in respect of the offence,
+
+(ii) the estimated amount of the costs (if any) of any trials, appeals or other proceedings in relation to the offence awarded, or which may be awarded, against the defendant concerned, and
+
+(iii) the estimated value of any forfeitures ordered, or which may be ordered, to be made upon the final determination of any trials, appeals or other proceedings in relation to the offence.
+
+(*b*) The security provided for in *paragraph (a)* is in addition to and not in substitution for any other bond or recognisance which the defendant concerned may be required to enter into by the judge of the District Court concerned in relation to any trials, appeals or other proceedings in respect of the offence concerned.
+
+(3) Where an order is made under this section for the detention or release of a boat, the boat shall be detained or released, as the case may be, in accordance with its terms.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> Previous affecting provision: application of section extended (13.04.2006) by *Sea Fisheries (Technical Conservation Measures) Regulations 2006* (S.I. No. 171 of 2006), reg. 5; revoked (5.06.2013) by *Sea-Fisheries (Technical Measures) Regulations 2013* (S.I. No. 197 of 2013), reg. 6(1).
+
+#### 22. Recovery of fine for offence under relevant provision and possession by sea-fisheries protection officer of articles forfeited.
+
+**22**.— (1) The following provisions have effect in relation to the recovery of a fine for an offence under a relevant provision and the costs (if any) ordered to be paid by the person convicted of the offence:
+
+(*a*) the Court shall fix a time within which such costs and fine (if any) are to be paid;
+
+(*b*) where the boat to which such person belongs is, at the time of the hearing of the proceedings for such offence, detained under this Chapter, the Court shall by order directed to a sea-fisheries protection officer or officers require such officer or officers to detain further, until such fine and costs (if any) are paid, at a specified port in the State such boat, and such boat shall be detained accordingly;
+
+(*c*) in the event of such fine and costs (if any) not being paid within the said time, such fine and costs (if any) may be recovered by distress and the sale of such boat (including the capacity thereof);
+
+(*d*) nothing in the foregoing paragraphs of this subsection shall prevent such fine and costs (if any) being recovered from such person by ordinary process of law.
+
+(2) Where—
+
+(*a*) any article on board a boat is ordered under *Chapter 4*, by a court to be forfeited or, as a statutory consequence of conviction by a court, stands, under *Chapter 4*, forfeited, and
+
+(*b*) the boat is detained under *section 19* or section 26(2)(*e*) of the Act of 2003,
+
+the Court may, on the application of the prosecutor, by order directed to a sea-fisheries protection officer, authorise such officer to detain such boat until possession has been taken of the article forfeited, and such boat may be detained accordingly.
+
+(3) Where an article on board a boat is forfeited under a relevant provision, a sea-fisheries protection officer may request the master of such boat to make available such facilities (including the moving of the boat from place to place and the doing of things upon, to or with such boat, its equipment or machinery) as such sea-fisheries protection officer may reasonably require for the purpose of enabling him or her to take possession of the article.
+
+(4) Where the master of a boat fails or refuses to comply with a request made to him or her under *subsection (3)*, he or she commits an offence and is liable on summary conviction to a fine not exceeding €5,000.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E201: A fine of €5,000 translates into a class A fine, not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E202: Previous affecting provision: application of section extended (13.04.2006) by *Sea Fisheries (Technical Conservation Measures) Regulations 2006* (S.I. No. 171 of 2006), reg. 5; revoked (5.06.2013) by *Sea-Fisheries (Technical Measures) Regulations 2013* (S.I. No. 197 of 2013), reg. 6(1).
+
+#### 23. Trial in District Court of person charged with offence on boat detained by sea-fisheries protection officer.
+
+**23**.— (1) Where—
+
+(*a*) a sea-fisheries protection officer has in exercise of the powers conferred on him or her by *section 18* or by section 26(2)(*e*) of the Act of 2003 detained a boat and the persons on board it at a port in the State, and
+
+(*b*) a person (being one of those persons) is alleged to have committed an offence under this Part,
+
+the person may be brought before the appropriate judge of the District Court and—
+
+(i) if the offence is not an offence under a section specified in a Table, that judge may hear and determine the case, or
+
+(ii) if the offence is an offence under a section specified in that Table, that judge has jurisdiction to deal with the case under *section 28(2)* or *(3)*, as may be appropriate.
+
+(2) In this section “appropriate judge of the District Court” means the judge for the time being assigned to the district court district in which is situated the port in which the boat and persons concerned are detained.
+
+(3) *Subsection (1)* shall not be read as affecting section 79 of the Courts of Justice Act 1924.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> Previous affecting provision: application of section extended (13.04.2006) by *Sea Fisheries (Technical Conservation Measures) Regulations 2006* (S.I. No. 171 of 2006), reg. 5; revoked (5.06.2013) by *Sea-Fisheries (Technical Measures) Regulations 2013* (S.I. No. 197 of 2013), reg. 6(1).
+
+#### 24. Offence — obstruction, etc., of sea-fisheries protection officer.
+
+**24**.— (1) A person who—
+
+(*a*) obstructs or impedes any sea-fisheries protection officer in the exercise of any of the powers conferred on such officer by this Part,
+
+(*b*) refuses or fails to comply with any requirement or direction lawfully made or given by such officer under this Part (other than *section 18*),
+
+(*c*) fails to answer any question lawfully asked by such officer under this Part, or
+
+(*d*) where—
+
+(i) his or her name and address is requested of him or her by a sea-fisheries protection officer under *section 17(1)(i)* or *18(1)(g)*, refuses or fails to give his or her name and address or gives a name or address which is false or misleading, or
+
+(ii) the name and address of any other person is lawfully requested of him or her by a sea-fisheries protection officer under *section 17(1)(i)*, refuses or fails, knowing such name and address, to give the name or address or gives a name or address which is false or misleading,
+
+commits an offence and is liable on summary conviction, to a fine not exceeding €5,000 or to imprisonment for a term not exceeding 2 months, or to both.
+
+(2) If a person—
+
+(*a*) obstructs or impedes a sea-fisheries protection officer so as to prevent or to attempt to prevent the officer exercise any of his or her powers under this Part, or
+
+(*b*) whose name and address is lawfully required by a sea-fisheries protection officer under this section refuses to give his or her name and address or gives, as his or her name or address, a name or address which is reasonably believed by such officer to be false or misleading,
+
+the officer or another sea-fisheries protection officer may (being a member of the Defence Forces or Garda Síochána or an officer of Customs and Excise) arrest, without warrant, the person and, if that officer is not a member of the Garda Síochána, shall, as soon as practicable, deliver the person into the custody of a member of the Garda Síochána to be dealt with according to law.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E203: A fine of €5,000 translates into a class A fine, not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+#### 25. Offence — assaulting sea-fisheries protection officer.
+
+**25**.— (1) A person who assaults a sea-fisheries protection officer in exercise of any power conferred on a sea-fisheries protection officer under this Part or Part 4 of the Act of 2003 commits an offence and is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000 or to imprisonment for a term not exceeding 12 months, or to both, or
+
+(*b*) on conviction on indictment, to a fine or to imprisonment for a term not exceeding 5 years, or to both.
+
+(2) If a person assaults a sea-fisheries protection officer in the exercise of his or her powers under this Part or the Act of 2003 the officer or another sea-fisheries protection officer may (being a member of the Defence Forces or Garda Síochána or an officer of Customs and Excise) arrest, without warrant, the person and, if that officer is not a member of the Garda Síochána, shall, as soon as practicable, deliver the person into the custody of a member of the Garda Síochána to be dealt with according to law.
+
+(3) Section 15(1) of the Act of 1994 is amended by deleting “sea-fisheries protection officer”.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E204: A fine of €5,000 translates into a class A fine, not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+#### 26. Immunity of sea-fisheries protection officer.
+
+**26**.— A sea-fisheries protection officer or a person acting under the orders of a sea-fisheries protection officer is not liable in any proceedings for anything done in the purported exercise of the powers of a sea-fisheries protection officer under this Part if the court is satisfied that the act was done in good faith and that there were reasonable grounds for doing it.
+
+#### 26A. F43[Data Transfer
+
+**26A**.—(1) (*a*) Information held by the Authority for the purposes of the Fisheries Acts 1959 to 2022 may be transferred by the Authority to the Revenue Commissioners.
+
+(*b*) Information held by the Revenue Commissioners for the purposes of a relevant Act relating to income derived from the fisheries sector may be transferred by the Revenue Commissioners to the Authority.
+
+(2) In this section, "relevant Act" means—
+
+(*a*) an Act that is a Tax Act within the meaning of section 1(2) of the Taxes Consolidation Act 1997, or
+
+(*b*) the Value-Added Tax Consolidation Act 2010.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F43: Substituted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 9, S.I. No. 202 of 2022.
+
+### Chapter 4 Matters relating to indictable fishery offences, proceedings, forfeiture — Chapter 4 — Matters relating to indictable fishery offences, proceedings, forfeiture
+
+#### 27. Option for accused persons as regards proceedings in relation to indictable offences under Sea-Fisheries Acts 2003 and 2006.
+
+**27**.— (1) (*a*) A person charged with an indictable offence under *Chapter 2* or the Act of 2003 may, with the consent of the prosecutor, elect to be sent forward for trial in the Circuit Court on a plea of not guilty.
+
+(*b*) In that event, the prosecutor shall cause to be served on the accused person or the solicitor (if any) for that person, within 42 days after the not guilty plea is entered (or such longer period as the District Court may determine under *subsection (2)(a)*), any documents that under section 4B or 4C (inserted by section 9 of the Act of 1999) of the Act of 1967 are required to be served and have not already been served and a copy of those documents to be furnished to the District Court.
+
+(2) (*a*) The District Court may, on the application of the prosecutor, extend the period within which any documents required under section 4B of the Act of 1967 are to be served, if satisfied that—
+
+(i) there is good reason for doing so, and
+
+(ii) it would be in the interests of justice to do so.
+
+(*b*) An application may be made and an extension may be granted under *paragraph (a)* before or after the expiry of—
+
+(i) the period of 42 days mentioned in *subsection (1)*, or
+
+(ii) any extension of that period granted under *paragraph (a)*.
+
+(*c*) Where it refuses to grant an extension, the District Court shall strike out the proceedings against the accused in relation to the offence.
+
+(*d*) The striking out of proceedings under *paragraph (c)* does not prejudice the institution of any further proceedings against the accused by the prosecutor.
+
+#### 28. Penalties and forfeiture for certain indictable fishery offences.
+
+**28**.— F44[(1) A person guilty of an offence committed on board a sea-fishing boat under a provision of—
+
+(*a*) Chapter 2 specified in column (2) of Table 1, or
+
+(*b*) the Act of 2003 specified in column (2) of Table 2,
+
+is liable, on conviction on indictment, to the fine specified in column (3) of that Table at the reference number at which that provision is specified in respect of the category of sea-fishing boat mentioned in that column and to the forfeiture specified in *subsection (5)*.
+
+(1A) A person guilty of an offence under *section 11, 12, 13, 14* or *15*, which is not committed on board a sea-fishing boat, in respect of the buying, handling, weighing, trans-shipping, transporting, landing, processing, storing, documenting or selling of fish is liable, on conviction on indictment, to a fine not exceeding €100,000. Any fish found to which the offence relates used in the commission of the offence are, as a statutory consequence of the conviction, forfeited.]
+
+(2) A judge of the District Court has jurisdiction to try summarily any offence referred to in F45[*subsection (1) or (1A)*] if—
+
+(*a*) the judge is of opinion that the facts proved or alleged against a defendant charged with such an offence constitute a minor offence fit to be tried summarily,
+
+(*b*) the prosecutor consents, and
+
+(*c*) the defendant (on being informed by the judge of his or her right to be tried by a jury) does not object to being tried summarily,
+
+and, upon conviction under this subsection, the defendant is liable to a fine not exceeding €5,000 and to the forfeiture specified in *subsection (6)*.
+
+(3) If at any time a judge of the District Court ascertains that a person charged with an offence referred to in *subsection (1)* wishes to plead guilty and the judge is satisfied that the person understands the nature of the offence and the facts charged, he or she may—
+
+(*a*) with the consent of the prosecutor, deal with the offence summarily, in which case the accused is liable to a fine not exceeding €5,000 and to the forfeiture specified in *subsection (6)*, or
+
+(*b*) if the accused signs a plea of guilty, send him or her, with the consent of the prosecutor, forward for sentence with that plea to a court to which, if he or she had not pleaded guilty, he or she could lawfully have been sent forward for trial.
+
+(4) Section 13(1) to (3) of the Act of 1967 does not apply in relation to an offence referred to in *subsection (1)*. In subsection 13(4) (as amended by section 10 of the Act of 1999) of the Act of 1967 a reference to a person sent forward for trial under paragraph (*a*) of that section shall be read as including a reference to a person sent forward for trial under *subsection (3)(b)* of this section.
+
+(5) Where a person is convicted on indictment of an offence specified in a Table, in addition to any fine the court may impose under this section—
+
+(*a*) in the case of a conviction under *section 8* or *9*, it may order the forfeiture of all or any fish and fishing gear found on the boat to which the offence relates, or
+
+F46[*(b)* in the case of a conviction under any other provision mentioned in a Table, any fish and fishing gear found on the boat to which the offence relates or found in any other place to which they had been moved from the boat are, as a statutory consequence of the conviction, forfeited.]
+
+(6) Where a person is convicted summarily of an offence specified in a Table, in addition to any fine the court may impose under this section—
+
+(*a*) in the case of a conviction under *section 8* or *9*, or a first conviction under any other provision mentioned in a Table, it may order the forfeiture of all or any of the following found on the boat to which the offence relates, namely—
+
+(i) any fish unlawfully caught, and
+
+(ii) any fishing gear used in the commission of the offence or to which the offence relates, or
+
+(*b*) in the case of a second or subsequent conviction under any provision (other than *section 8* or *9*) mentioned in a Table, F47[...] the following found on the boat to which the offence relates, namely—
+
+(i) any fish unlawfully caught, and
+
+(ii) any fishing gear used in the commission of the offence or to which the offence relates,
+
+are as a statutory consequence of the conviction, forfeited.
+
+F48[(6A) Where a person who is convicted of an offence to which *subsection (1A)*, *(5)(b)* or *(6)(b)* applies demonstrates that the mandatory forfeiture required by the subsection concerned is disproportionate, the court may in those exceptional circumstances adjust, modulate or mitigate the extent of the mandatory forfeiture order. In making this assessment the court shall have regard to the requirement that the severity of the sanctions must be commensurate with the seriousness of the breaches for which they are imposed, in particular by ensuring a genuinely dissuasive effect.]
+
+F49[(6B) Where the Court decides under *subsection (6A)* to substitute an order of forfeiture that it deems appropriate in place of a mandatory forfeiture required by this section as a statutory consequence of conviction, it shall give reasons for doing so.]
+
+Where the Court decides under *paragraph (a)* not to order the forfeiture of all or any of the above it shall give reasons for not doing so.
+
+(7) (*a*) The court may, in addition to any fine and forfeiture which it may impose or is as a statutory consequence of conviction imposed under this section, revoke or suspend, for such period as it sees fit, the sea-fishing boat licence granted in relation to the boat concerned.
+
+(*b*) A licence revoked or suspended under this subsection shall be delivered as soon as practicable to the licensing authority after it is revoked or suspended.
+
+(*c*) A person who fails to comply with *paragraph (b)* commits an offence and is liable on summary conviction to a fine not exceeding €500.
+
+TABLE 1 — Fines - Provisions of *Chapter 2*
+
+<table><tr><td>Reference Number</td><td>Provision</td><td colspan="3">Fine on conviction on indictment not exceeding amount specified below</td></tr><tr><td>(1)</td><td>(2)</td><td colspan="3">(3)</td></tr><tr><td></td><td></td><td>Category 1 - sea-fishing boat of less than 12 metres in length overall</td><td>Category 2 - sea-fishing boat of 12 metres or more but not exceeding 18 metres in length overall</td><td>Category 3 - sea-fishing boat of more than 18 metres in length overall</td></tr><tr><td>1.</td><td>Section 11, 14 or 15 in so far as it relates to—</td><td></td><td></td><td></td></tr><tr><td>(a)</td><td>a contravention relating to fish storage capacity of a sea-fishing boat,</td><td>€20,000</td><td>€50,000</td><td>€100,000</td></tr><tr><td>(b)</td><td>F50[a contravention relating to fishing gear or equipment], or</td><td>€20,000</td><td>€40,000</td><td>€80,000</td></tr><tr><td>(c)</td><td>any other contravention or failure of compliance.</td><td>€10,000</td><td>€20,000</td><td>€35,000</td></tr><tr><td>2.</td><td>Section 8(2), 9(3) or F51[10(4)].</td><td>€20,000</td><td>€50,000</td><td>€75,000</td></tr><tr><td>3.</td><td>Section 12 or 13.</td><td>€10,000</td><td>€20,000</td><td>€35,000</td></tr></table>
+
+TABLE 2 — Fines - Provisions of Act of 2003
+
+<table><tr><td>Reference Number</td><td>Provision</td><td colspan="3">Fine on conviction on indictment not exceeding amount specified below</td></tr><tr><td>(1)</td><td>(2)</td><td colspan="3">(3)</td></tr><tr><td></td><td></td><td>Category 1 - sea-fishing boat of less than 12 metres in length overall</td><td>Category 2 - sea-fishing boat of 12 metres or more but not exceeding 18 metres in length overall</td><td>Category 3 - sea-fishing boat of more than 18 metres in length overall</td></tr><tr><td>1.</td><td>F52[Section 4(13) (fishing without or in contravention of a sea-fishing boat licence).]</td><td>€20,000</td><td>€50,000</td><td>€75,000</td></tr><tr><td>2.</td><td>Section 25(3) (fishing in contravention of conservation regulations).</td><td>€20,000</td><td>€50,000</td><td>€100,000</td></tr><tr><td>3.</td><td>Section 27(5) (failure to return to port immediately on order of sea-fisheries protection officer).</td><td>€20,000</td><td>€50,000</td><td>€100,000</td></tr></table>
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F44: Substituted (9.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 44b(i), commenced on enactment.
+>
+> F45: Substituted (9.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 44(b)(ii), commenced on enactment.
+>
+> F46: Substituted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 10(a), S.I. No. 202 of 2022.
+>
+> F47: Deleted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 10(b), S.I. No. 202 of 2022.
+>
+> F48, F49: Inserted (28.07.2022) by *European Union (Sea-Fisheries and Maritime Jurisdiction Act 2006) (Amendment) Regulations 2022* (S.I. No. 407 of 2022), reg. 2, in effect as per reg. 1(2).
+>
+> F50, F51, F52: Substituted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 10(c), (d), (e), S.I. No. 202 of 2022.
+>
+> **Editorial Notes:**
+>
+> E205: A fine of €5,000 translates into a class A fine, not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> A fine of €500 translates into a class E fine, not greater than €500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E206: Previous affecting provision: application of subss. (5) and (6) extended (13.04.2006) by *Sea Fisheries (Technical Conservation Measures) Regulations 2006* (S.I. No. 171 of 2006), reg. 5; revoked (5.06.2013) by *Sea-Fisheries (Technical Measures) Regulations 2013* (S.I. No. 197 of 2013), reg. 6(1) .
+
+#### 29. Non-obligation of Court to pronounce or record forfeiture where forfeiture falls as a statutory consequence of conviction.
+
+**29**.— Where a person is convicted by a court of an offence specified in a Table F53[or under *section 28(1A)*] and any fishing gear or fish under *section 28* is, as a statutory consequence of the conviction, forfeited, then, notwithstanding any rule of law, it is not necessary for the court—
+
+(*a*) to pronounce the fact of such forfeiture at the time of adjudication, or
+
+(*b*) to record the fact of such forfeiture in the judge’s minute book, the charge sheet or in the order of conviction.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F53: Inserted (9.05.2007) by *Criminal Justice Act 2007* (29/2007), s.44(c), commenced on enactment.
+
+#### 30. Disposal of forfeitures.
+
+**30**.— Where any thing which, either as a statutory consequence of conviction or by an order of a court, is forfeited under *section 28*, is lawfully seized, the Secretary General may direct that such thing shall be sold or otherwise disposed of in such manner as he or she thinks fit for the benefit of the Exchequer.
+
+#### 31. Forfeiture of proceeds from disposal of illegally-caught fish.
+
+**31**.— (1) Where it is shown to the satisfaction of the court on the balance of probability that fish were caught in contravention of any law of the State or of Community law or in contravention of any international agreement to which the State is a party, the appropriate market value from disposal of that fish shall be forfeited to the State and may be recovered, in accordance with this section, from—
+
+(*a*) in the case of an Irish sea-fishing boat, the owner or owners of that boat as recorded in the Register of Fishing Boats if the boat is registered in that register or the holder of the sea-fishing boat licence for the boat concerned, or
+
+(*b*) in the case of any other sea-fishing boat, the owner or owners of the boat concerned.
+
+(2) A forfeiture under *subsection (1)*—
+
+(*a*) shall be in addition to and not in substitution for any fine or other forfeiture which a court may impose in relation to the sea-fishing boat or sea-fishing concerned and shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance directs, and
+
+(*b*) may be imposed where there were no proceedings for an offence in relation to the sea-fishing boat or sea-fishing concerned.
+
+(3) *Prima facie* evidence that fish were caught illegally may be adduced by a sea-fisheries protection officer from the logbook or other records relating to the sea-fishing boat or sea-fishing concerned.
+
+(4) In order to establish an appropriate valuation of the proceeds to be forfeited so as to reflect the economic effects of the illegal sea-fishing concerned, the court shall have regard to the greater of the following amounts—
+
+(*a*) the amount of the proceeds of disposal according to any documentary evidence submitted by the owner of the sea-fishing boat concerned, within such period as the court may specify, or
+
+(*b*) the appropriate market value of the sea-fish concerned involving a willing seller and a willing buyer operating at arms’ length, in so far as that value could reasonably be established:
+
+Provided that where the sea-fish concerned were first disposed of for storage and were subsequently disposed of otherwise at a different value, the appropriate market value of the sea-fish concerned shall be taken to be the value of the disposal with the greater value.
+
+(5) Proceedings under *subsection (1)* may be brought by or at the suit of the Minister.
+
+(6) In this section—
+
+“disposal” includes sale, exchange, barter or other transaction based on a valuation of the fish concerned;
+
+“sea-fishing boat concerned” includes an Irish sea-fishing boat wherever it may be and any other sea-fishing boat which disposes of fish within the exclusive fishery limits or in a port or other landing place in the State.
+
+#### 32. Prosecutor may appeal dismissal of proceedings in District Court.
+
+**32**.— (1) Where any proceedings tried summarily in the District Court for an offence under the *Sea-Fisheries Acts 2003 and 2006* are dismissed, whether on the merits or without prejudice, the prosecutor may appeal against the order of dismissal to the judge of the Circuit Court within whose Circuit the courthouse where the order was made is situated.
+
+(2) The judge of the Circuit Court on an appeal under *subsection (1)* may vary, confirm or reverse the order and his or her decision is final and conclusive and not appealable.
+
+#### 33. Proof that boat is foreign sea-fishing boat.
+
+**33**.— (1) Where in any proceedings for an offence under this Part or the Act of 2003 there is evidence from which it appears to the court that the sea-fishing boat to which the alleged offence relates, or on board which such offence is alleged to have been committed, is either of a foreign character or of foreign origin or that at or about the time of the alleged offence such boat—
+
+(*a*) wore no flag or wore a flag other than the national flag,
+
+(*b*) had marked on its stern the name of any place other than a port mentioned in the Second Schedule to the Act of 1955, or
+
+(*c*) had on board any books, papers or other documents from which it so appears that the boat was not an Irish ship (within the meaning of section 9 of that Act),
+
+then, until the contrary is shown, such evidence shall be sufficient to prove that such boat is a foreign sea-fishing boat.
+
+(2) Where in proceedings for an offence under this Part or the Act of 2003 it is proved that the sea-fishing boat to which the alleged offence relates, or on board which such offence is alleged to have been committed, wore at or about the time of the alleged offence a flag other than the national flag, the presumption raised by *subsection (1)*, insofar as it depends on that proof, may be rebutted by the defendant proving that the flag so worn was not a flag distinctive of nationality.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F54: Substituted by *Merchant Shipping (Registration of Ships) Act 2014* (43/2014), s. 68 and sch. 4, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C19: Prospective affecting provision: paras. (1)(b), (c) substituted by *Merchant Shipping (Registration of Ships) Act 2014* (43/2014), s. 68 and sch. 4, not commenced as of date of revision.
+>
+> **33**.— ...
+>
+> (*b*) had marked on its stern the name of any place other than F54[a port (within the meaning of section 30 of the Merchant Shipping (Registration of Ships) Act 2014)], or
+>
+> (*c*) had on board any books, papers or other documents from which it so appears that the boat was not an Irish ship (F54[within the meaning of section 33 of that Act]),
+>
+> ...
+
+#### 34. Offence by body corporate, etc.
+
+**34**.— Where an offence under the *Sea-Fisheries Acts 2003* *and 2006* is committed by a body corporate or by a person purporting to act on behalf of a body corporate or on behalf of an unincorporated body of persons and it is proved to have been so committed with the consent or connivance of or to be attributable to any neglect on the part of any other person who, when the offence was committed, was, or purported to act as, a director, manager, secretary or other officer (including a member of such body), such other person as well as the body, or the person so purporting to act on behalf of the body, commits an offence and is liable to be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
+
+#### 35. Service of trial documents — persons resident outside State.
+
+**35**.— (1) Where a judge of the District Court proposes to make an order for the release on bail of a defendant before him or her, charged with an offence under the *Sea-Fisheries Acts 2003 and 2006*, who is ordinarily resident outside the State, he or she shall, unless he or she is satisfied that the following documents can be duly served on the defendant in the State, direct that all documents (including an indictment) required by law to be served on the defendant in connection with or for the purpose of the charge or of any proceedings arising out of or connected with the charge may, in lieu of being served on the defendant, be served on a person specified in the direction who is ordinarily resident in the State.
+
+(2) Where a judge of the District Court who has given a direction under *subsection (1)* or another judge of the District Court acting in his or her place is satisfied that, owing to the death or absence from the State of a person specified in the direction or for any other reason a document referred to in *subsection (1)* cannot be served on that person, the judge shall direct that the document may be served on another person specified in the direction who is ordinarily resident in the State.
+
+(3) Service of a document referred to in this section on a person specified in a direction under this section is deemed for all purposes to be service on the defendant concerned.
+
+#### 36. Defence.
+
+**36**.— Where an offence under a relevant provision has been committed by any person on board a sea-fishing boat, and where the master or owner of the boat is charged with having committed the offence, it is a defence for him or her to show that—
+
+(*a*) he or she used due diligence to prevent the commission of the acts alleged to constitute the offence and they were done without his or her consent, connivance or default, or
+
+(*b*) the acts were necessary to secure the safety of the boat or any other vessel or person in peril on the sea.
+
+#### 37. Presumption.
+
+**37**.— In a prosecution of an offence in relation to the catching, retention, storage on board, trans-shipment or landing of the fish concerned in contravention of *Chapter 2* or section 25 of the Act of 2003, it shall be presumed, unless the contrary is shown, that the sea-fishing boat concerned was, at the time of the alleged offence, used for the catching, retention, storage on board, trans-shipment or landing of the fish concerned in contravention of the provision concerned, from—
+
+(*a*) any fish relevant to the offence on board such sea-fishing boat,
+
+(*b*) F55[any fishing gear or] other equipment or articles on board such sea-fishing boat indicating use of the boat for fishing, the retention, storage on board, trans-shipment or landing of fish relevant to the offence,
+
+(*c*) evidence that such sea-fishing boat had on board any records from which it appears to the court that on the day on which the offence is alleged to have been committed fish relevant to the offence were caught, retained, stored on board, trans-shipped or landed contrary to the provision concerned,
+
+(*d*) any admission by any person who is for the time being the master or another member of the crew, of such sea-fishing boat that at such time it was so used,
+
+(*e*) any photographic evidence from which it so appears that the sea-fishing boat was so used or which in the opinion of the court suggests, or tends to suggest, that the sea-fishing boat was so used, or
+
+(*f*) any data received by a Fisheries Monitoring Centre (within the meaning of Commission Regulation (EC) No. 2244/2003 of 18 December 2003 [^21] laying down detailed provisions regarding satellite-based vessel monitoring systems) monitoring the fishing activities of the boat from which it so appears that the sea-fishing boat was so used or which in the opinion of the court suggests, or tends to suggest, that the boat was so used.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F55: Substituted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 11, S.I. No. 202 of 2022.
+
+#### 38. Prosecution of summary offences — Sea-Fisheries Acts 2003 and 2006.
+
+**38**.— (1) Proceedings for an offence under the *Sea-Fisheries Acts 2003 and 2006* (other than a section specified in a Table) may be prosecuted summarily by the Minister.
+
+(2) Notwithstanding anything contained in any other enactment, an offence under the *Sea-Fisheries Acts 2003 and 2006*, other than an offence specified in a Table, may be determined in a summary way by a judge of the District Court upon the complaint, verbal or otherwise, of a sea-fisheries protection officer.
+
+(3) For the purpose of giving jurisdiction under the *Sea-Fisheries Acts 2003 and 2006* any act which is an offence under those Acts and triable summarily shall, if committed by or on board a sea-fishing boat—
+
+(*a*) be deemed to have been committed in any place in which the accused person may be, or
+
+(*b*) which was within the exclusive fishery limits when the act was committed or when the accused person was arrested, be deemed to have been committed in a district court district abutting on that portion of those limits in which the boat was when the act was committed or the accused person arrested, as the case may be.
+
+#### 39. Prosecution of sea-fisheries offences by DPP and saver.
+
+**39**.— (1) The Government, on the request of the Attorney General, may by order appoint a day from which the Director, subject to *subsection (2)*, is the prosecutor in lieu of the Attorney General, of an offence under a section specified in a Table. That Order shall be laid before each House of the Oireachtas as soon as may be after it is made.
+
+(2) Any proceedings in respect of an offence under a section specified in a Table or a Table to section 2 of the Act of 1978 which have been instituted in the name of the Attorney General before the commencement of an order under *subsection (1)* and are still pending and have not been determined before that commencement continue in the name of the Attorney General after that commencement.
+
+(3) Any proceedings for an offence under a section specified in a Table to section 2 of the Act of 1978 which have not been instituted on the commencement of an order under *subsection (1)* shall be taken in the name of the Director. Accordingly, for the purposes of those proceedings, the reference to the Attorney General in section 2 of the Act of 1978 is to be read as a reference to the Director and section 18 of the Act of 1978 does not apply.
+
+(4) Until the commencement of an order made under *subsection (1)*—
+
+(*a*) section 3 of the Prosecution of Offences Act 1974 does not apply to the prosecution of an offence under a section specified in a Table or a Table to section 2 of the Act of 1978 or to any functions in relation to that matter to which, but for this subsection, it would apply, and
+
+(*b*) references in section 62 of the Courts of Justice Act 1936 and section 6 of the Courts Act 1964 to the Director are, in so far as those sections apply in relation to the offences referred to in *paragraph (a)* or to any functions referred to in that paragraph, to be construed as references to the Attorney General.
+
+(5) *Subsection (4)* stands repealed upon the commencement of an order made under *subsection (1)*.
+
+(6) In this section—
+
+“Act of 1978” means Fisheries (Amendment) Act 1978;
+
+“Director” means Director of Public Prosecutions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E207: Power pursuant to subs. (1) exercised (1.08.2009) by *Sea-fisheries (Prosecution of offences) Order 2009* (S.I. No. 314 of 2009), art. 2.
+>
+> 2\. The day appointed for the purposes of section 39(1) of the Sea-Fisheries and Maritime Jurisdiction Act 2006 (No. 8 of 2006) is 1 August 2009, being the day from which the Director of Public Prosecutions is the prosecutor, in lieu of the Attorney General, of sea-fisheries offences as specified in that subsection.
+
+### Chapter 5 Sea-Fisheries Protection Authority — Chapter 5 — Sea-Fisheries Protection Authority
+
+#### 40. Establishment day.
+
+**40**.— The Minister shall by order appoint a day to be the establishment day for the purposes of this Chapter. That order shall be laid before each House of the Oireachtas as soon as may be after it is made.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E208: Power pursuant to section exercised (1.01.2007) by *Sea-Fisheries Protection Authority (Establishment Day) Order 2006* (S.I. No. 376 of 2006), art. 2.
+>
+> 2\. The day appointed as the establishment day for the purposes of Chapter 5 of Part 2 of the Sea-Fisheries and Maritime Jurisdiction Act 2006 (No. 8 of 2006) is 1 January 2007.
+
+#### 41. Establishment of Sea-Fisheries Protection Authority.
+
+**41**.— (1) There shall stand established, on the establishment day, a body to be known in the Irish language as An t-Údarás um Chosaint Iascaigh Mhara, or, in the English language, the Sea-Fisheries Protection Authority, in this Act referred to as the “Authority”, to perform the functions assigned to it by or under this Chapter.
+
+(2) The Authority shall be a body corporate with perpetual succession and shall have a seal and power to sue and be sued in its corporate name and to acquire, hold and dispose of land or an interest in land, and to acquire, hold and dispose of any other property.
+
+(3) The Authority shall have all such powers as are necessary for or incidental to the performance of its functions under this Chapter.
+
+#### 42. Independence of Authority.
+
+**42**.— Subject to this Chapter, the Authority shall be independent in the exercise of its functions.
+
+#### 43. Functions of Authority.
+
+**43**.— (1) The principal functions of the Authority are—
+
+(*a*) to secure efficient and effective enforcement of sea-fisheries law and food safety law,
+
+(*b*) to promote compliance with and deter contraventions of sea-fisheries law and food safety law,
+
+(*c*) to detect contraventions of sea-fisheries law and food safety law,
+
+(*d*) to provide information to the sea-fisheries and seafood sectors on sea-fisheries law and food safety law and relevant matters within the remit of the Authority, through the Consultative Committee established under *section 48* or by any other means it considers appropriate,
+
+(*e*) to advise the Minister in relation to policy on effective implementation of sea-fisheries law and food safety law: the Minister shall consider any such advice for the purposes of *Chapter 2*,
+
+(*f*) to provide assistance and information to the Minister in relation to the remit of the Authority,
+
+(*g*) to collect and report data in relation to sea-fisheries and food safety as required by the Minister and under Community law,
+
+(*h*) to represent or assist in the representation of the State at national, Community and international fora as requested by the Minister, and
+
+(*i*) to engage in any other activities relating to the functions of the Authority as may be approved of by the Minister.
+
+(2) The Authority, subject to the approval of the Minister given with the consent of the Minister for Finance, may—
+
+(*a*) for the purpose of carrying out its functions under *subsection (1)* make arrangements with or enter into agreements including Service Level Agreements or contracts with the Minister for Defence or, with the consent of the Minister for Defence, the Naval Service and the Air Corps of the Permanent Defence Forces, in respect of those functions for which they were responsible immediately before the establishment day or other functions of the Authority as may be appropriate,
+
+(*b*) enter into agreements or make arrangements with any other Minister of the Government, or any other person, for that other Minister or person to perform on behalf of the Authority (with or without payment) any of its functions,
+
+(*c*) enter into agreements or make arrangements with any other Minister of the Government or the Food Safety Authority of Ireland for the Authority to perform on behalf of that Minister or that other Authority (with or without payment) such functions as may appropriately be performed by it in connection with its functions under this Chapter.
+
+#### 44. Transfer of functions.
+
+**44**.— (1) The administration and business in connection with the performance of any of the functions transferred by *subsection (2)* are transferred, on the establishment day, to the Authority.
+
+(2) The functions vested in the Minister or Secretary General by or under—
+
+(*a*) sections 28(3) and 33(3) of the Radiological Protection Act 1991,
+
+(*b*) *sections 16(1)*, *17(9)*, *30*, *31(5)* and *38*, and
+
+(*c*) the regulations mentioned in *Schedule 3*,
+
+are, on the establishment day, transferred to the Authority.
+
+(3) The Minister shall consult the Authority before making regulations under subsection (1), or an order under subsection (2), of section 32 of the Radiological Protection Act 1991.
+
+(4) The Authority is an official agency, in lieu of the Minister, in respect of the enforcement of food safety law, for the purposes of the Food Safety Authority of Ireland Act 1998.
+
+(5) Anything commenced before the establishment day by or under the authority of the Minister may, in so far as it relates to functions transferred by this section, be carried on or completed on or after that day by the Authority.
+
+(6) Where, immediately before the establishment day, any legal proceedings are pending to which the Minister is the plaintiff or the prosecutor and the proceedings have reference to functions transferred by this section to the Authority, the name of the Authority shall, in so far as the proceedings relate to any functions transferred by this section, be substituted in those proceedings for that of the Minister or added in those proceedings as may be appropriate and those proceedings shall not abate by reason of such substitution or addition.
+
+(7) Where, immediately before the establishment day, any legal proceedings are pending to which the Minister is a defendant and the proceedings have reference to any functions transferred to the Authority by this section, the Authority shall not be substituted for the Minister in those proceedings notwithstanding the transfer of functions under this Chapter.
+
+(8) Every document (including any certificate or licence) granted or made in the exercise of a function transferred by this section shall, if and in so far as it was operative immediately before the establishment day, have effect on and after that day as if it had been granted or made by the Authority.
+
+#### 45. Transfer of assets and liabilities of staff, etc., transferred.
+
+**45**.— (1) The following are transferred to the Authority on the establishment day—
+
+(*a*) all property and rights relating to such property held or enjoyed immediately before that day by the staff, administration or business transferred to the Authority under *section 44* or *section 52*, as the case may be, or any trustee or agent acting on their behalf, and
+
+(*b*) all liabilities incurred before that day by the staff, administration or business so transferred, or any trustee or agent acting on their behalf, that had not been discharged before that day,
+
+and, accordingly, without any further conveyance, transfer or assignment—
+
+(i) that property, real and personal, shall, on that day, vest in the Authority for all the estate, term or interest for which, immediately before that day, it was so vested in the staff, the administration or business so transferred, as the case may be, but subject to all trusts and equities affecting the property subsisting and capable of being performed,
+
+(ii) those rights shall, as on and from that day, be enjoyed by the Authority, and
+
+(iii) those liabilities shall, as on and from that day, be liabilities of the Authority.
+
+(2) Every right and liability transferred to the Authority by this section may, on or after the establishment day, be sued on, recovered or enforced by or against the Authority in its own name and it shall not be necessary for the Authority to give notice to the person whose right or liability is transferred by this section of the transfer.
+
+#### 46. Policy directions by Minister to Authority.
+
+**46**.— (1) Subject to *subsection (3)*, the Minister may give such general policy directions in writing to the Authority in relation to its functions as he or she considers appropriate.
+
+(2) The Authority shall, subject to the performance of the functions specified in *section 43(1)*, implement any direction given under *subsection (1)*.
+
+(3) Nothing in this section shall be construed as enabling the Minister to exercise any power or control in relation to individual cases or groups of cases with which the Authority is or may be concerned or in relation to the performance in particular circumstances by the Authority of a function assigned to it by or under this Chapter.
+
+(4) A copy of any direction given by the Minister under *subsection (1)*, along with a statement of the reasons for giving the direction, shall be laid before each House of the Oireachtas and published in the *Iris Oifigiúil* as soon as may be after it is given.
+
+#### 47. Members of Authority.
+
+**47**.— (1) The Authority shall consist of at least one but not more than 3 members.
+
+(2) (*a*) The person who holds, immediately before the establishment day, the position of Seafood Control Manager in the Department, is deemed to be appointed as a member of the Authority, with effect on and from the establishment day for a period of not less than 5 years, subject to such terms and conditions, including remuneration and superannuation arrangements, as the Minister with the consent of the Minister for Finance may fix.
+
+(*b*) The person referred to in *paragraph (a)* shall be eligible to apply for re-appointment as a member.
+
+(*c*) In the event that the person—
+
+(i) fails to be re-appointed as a member, or
+
+(ii) resigns or is removed from office under *subsection (10)* other than for stated misbehaviour,
+
+he will be deemed to be the Seafood Control Manager in the employment of the Authority, subject to the same terms and conditions as regards grading, remuneration and superannuation arrangements as applied to him immediately prior to his appointment as a member of the Authority under *subsection (2)(a)*.
+
+(3) A member of the Authority (other than as provided for in *subsection (2)(a)*) shall be appointed by the Minister.
+
+(4) A member of the Authority shall be appointed to hold office in a full-time capacity for a period of not less than 3 years and not more than 7 years on such terms and conditions, including remuneration, as the Minister, with the consent of the Minister for Finance, may fix.
+
+(5) Where there is more than one member of the Authority, the Minister shall appoint one of them to be chairperson of the Authority on such terms and conditions, including remuneration, as the Minister may fix, with the consent of the Minister for Finance, to hold office in a full-time capacity for a period of not less than 3 years and not more than 7 years.
+
+(6) The chairperson of the Authority shall have a casting vote in the case of decisions to be taken by the Authority in the event of a tied vote.
+
+(7) Where the chairperson of the Authority is unavailable to perform his or her duties, he or she, or if he or she is unable to do so, the Minister, shall appoint a member of the Authority to be an acting chairperson to assume the duties of the chairperson for a defined period not exceeding 12 months.
+
+(8) With the exception of the person appointed under *subsection (2)(a)*, a person shall not be appointed as a member of the Authority unless the Public Appointments Service, after holding a competition on behalf of the Authority, has selected him or her for appointment as a member.
+
+(9) With the exception of the person appointed under *subsection (2)(a)*, a member of the Authority, including the chairperson, whose term of office expires by effluxion of time shall be eligible for re-appointment to serve a second term, subject to a limit of serving not more than 14 years on the Authority.
+
+(10) A member of the Authority may—
+
+(*a*) at any time resign his or her office by letter addressed to the Minister and the resignation shall take effect from the date specified therein or upon the date of receipt of the letter, whichever is the later, and
+
+(*b*) be removed from office by the Minister if, in his or her opinion, the member has become incapable through ill-health of effectively performing his or her duties or for stated misbehaviour and the Minister shall cause to be laid before each House of the Oireachtas a statement of the reasons for such removal.
+
+(11) The Authority may act notwithstanding a vacancy or vacancies in its membership.
+
+(12) A member of the Authority shall not hold any other office or employment in respect of which emoluments are payable.
+
+(13) A member of the Authority shall not, for a period of two years following his or her resignation, removal or retirement from the office of member of the Authority, accept any office, consultancy or employment, where he or she could or might use or disclose information of a confidential or commercially sensitive nature acquired by him or her in the exercise of the functions of the Authority.
+
+(14) Notwithstanding *subsection (13)*, a person who was a member of the Authority shall not be precluded from holding office or engagement in any employment in the Civil Service or any statutory regulatory body or from acting as a consultant to the Authority, the Minister or any other Minister of the Government on the basis that the period referred to in that subsection has not expired.
+
+#### 48. Consultative Committee.
+
+**48**.— (1) The Minister shall, for the purposes of consultations and liaison with the sea-fisheries and seafood sectors and other relevant interests on matters relating to the functions of the Authority, establish a body to be known in the Irish language as An Coiste Sainchomhairleach um Chosaint Iascaigh Mhara or, in the English language, the Sea-Fisheries Protection Consultative Committee (referred to in this Chapter as the “Consultative Committee”) and appoint the members of the Consultative Committee.
+
+(2) The Consultative Committee shall have the following functions—
+
+(*a*) to inform the Authority of concerns and views of the sea-fisheries and seafood sectors regarding the functions of the Authority,
+
+(*b*) to seek to keep the sea-fisheries and seafood sectors generally informed of the applicable sea-fisheries law and food safety law, as well as of the standards, guidelines, practices and procedures operated by the Authority in relation to the enforcement of that law,
+
+(*c*) to advise the Authority on keeping the burden on the sea-fisheries and seafood sectors generally of compliance with that law to the minimum possible consistent with the essential purposes and the effective enforcement of that law,
+
+(*d*) to advise the Authority of its views on the fairness and consistency of the operations of the Authority,
+
+(*e*) to seek the delivery of a high standard of service by the Authority.
+
+(3) The Consultative Committee shall have no function in relation to detailed operational matters or individual cases or groups of cases with which the Authority is or may be concerned.
+
+(4) The Minister or the Authority may consult the Consultative Committee on any matters arising in relation to the functions of the Authority.
+
+(5) The Consultative Committee shall consist of not more than 14 members comprising—
+
+(*a*) representatives of the following sectors:
+
+(i) sea-fishing catching;
+
+(ii) inshore fishing;
+
+(iii) seafood processing;
+
+(iv) aquaculture;
+
+and
+
+(*b*) other persons with particular expertise or experience in relation to marine matters (including marine environment and marine research) of relevance to the functions of the Authority.
+
+(6) A member may resign from office by written notice given to the Minister and the resignation shall take effect on the date specified in the notice or on the date on which the Minister receives the notice whichever is the later.
+
+(7) The Consultative Committee may act notwithstanding a vacancy or vacancies in its membership.
+
+(8) The Minister may appoint a person to fill a casual vacancy which arises in the membership of the Consultative Committee due to the death, resignation or removal of a member and the person so appointed shall be appointed in the same manner as the member who occasioned the casual vacancy.
+
+(9) The Minister in appointing members of the Consultative Committee, shall ensure, in as far as is practicable, an equitable balance between men and women in the composition of the Consultative Committee.
+
+(10) The Minister shall appoint the chairperson and deputy chairperson of the Consultative Committee from among the members of the Consultative Committee for such period as is specified in the appointment and may reappoint a chairperson and deputy chairperson for a further specified period or further specified periods. The chairperson or deputy chairperson ceases to be the chairperson or deputy chairperson on ceasing to be a member of the Consultative Committee.
+
+(11) The Minister may remove from office a member of the Consultative Committee in the following circumstances—
+
+(*a*) where, in the opinion of the Minister, the member has become incapable through ill-health of being a member of the Consultative Committee,
+
+(*b*) for stated misbehaviour,
+
+(*c*) in the case of a person appointed to represent a sector referred to in *paragraph (a)* of *subsection (5)*, where the person is no longer a representative, or
+
+(*d*) where removal of the member appears to the Minister to be necessary or desirable for effective performance by the Consultative Committee of its functions.
+
+(12) The Consultative Committee shall arrange its business as it sees fit.
+
+(13) Members of the Consultative Committee shall be paid by the Authority such allowances for expenses as the Minister, with the consent of the Minister for Finance, may from time to time determine.
+
+(14) The Authority shall provide all reasonable facilities and services as may be required by the Consultative Committee for the performance of its functions.
+
+#### 49. Complaints procedures.
+
+**49**.— (1) The Authority shall appoint one or more persons from outside the Authority (“Complaints Officer”) to—
+
+(*a*) duly consider, and
+
+(*b*) furnish a report to the Authority on,
+
+any complaint duly made under this section by or on behalf of a member of the public in relation to the enforcement of sea-fisheries law or food safety law.
+
+(2) The Authority shall have regard to the report of the Complaints Officer under *subsection (1)* and shall advise the complainant and the Complaints Officer of its decision in the matter.
+
+(3) A complaint shall not be considered under this section if—
+
+(*a*) it relates to any matter the subject of proceedings before a court or other tribunal,
+
+(*b*) it is the subject of a complaint to the Ombudsman or an appeal to the Information Commissioner, or
+
+(*c*) it is not made to a Complaints Officer within 28 days after the subject matter of the complaint arose.
+
+#### 50. Staff of Authority.
+
+**50**.— (1) The Authority may, with the approval of the Minister given with the consent of the Minister for Finance, appoint such and so many persons to be members of its staff as it considers necessary to assist it in the performance of its functions.
+
+(2) The terms and conditions, including terms and conditions as to remuneration and grading, of persons appointed under *subsection (1)* shall be determined by the Minister with the consent of the Minister for Finance.
+
+(3) The Authority may perform such of its functions as it may deem proper through or by any member of its staff (including any person who is made available to it under *section 61(1)*).
+
+#### 51. Sea-fisheries protection officers.
+
+**51**.— (1) The Authority may appoint members of staff of the Authority to be sea-fisheries protection officers for the purposes of enforcing sea-fisheries law and food safety law for such period as it sees fit.
+
+(2) The Authority may, in agreement with any body established by or under statute, authorise persons who are officers of that body, to—
+
+(*a*) perform such functions of a sea-fisheries protection officer under sea-fisheries and food safety law, or
+
+(*b*) assist a sea-fisheries protection officer in exercising such functions,
+
+for such period and in such circumstances or area, to such extent and subject to such conditions as it may specify in the authorisation.
+
+#### 52. Transfer of staff from Minister to Authority.
+
+**52**.— (1) The Minister shall designate officers of the Minister who are sea-fisheries protection officers immediately before the establishment day to be transferred to the Authority on the establishment day.
+
+(2) The Minister may designate such and so many of his or her other officers to be transferred to the Authority.
+
+(3) Staff transferred in accordance with *subsection (1)* or *(2)* are deemed to be in the employment of the Authority.
+
+(4) Save in accordance with a collective agreement negotiated with any recognized trade unions and staff associations concerned, an officer of the Minister transferred to the staff of the Authority under *subsection (1)* or *(2)* shall not, while he or she is in the service of the Authority, receive a lesser scale of pay or be made subject to less beneficial terms and conditions of service (including those relating to tenure of office) than the scale of pay to which he or she was entitled or the terms and conditions of service (including those relating to tenure of office) to which he or she was subject immediately before his or her transfer.
+
+(5) In relation to persons transferred in accordance with *subsection (1)* or *(2)* to the staff of the Authority, previous service in the Civil Service shall be reckonable for the purposes of, but subject to any exceptions or exclusions in—
+
+(*a*) the Redundancy Payments Acts 1967 to 2003,
+
+(*b*) the Minimum Notice and Terms of Employment Acts 1973 to 2005,
+
+(*c*) the Unfair Dismissals Acts 1977 to 2005,
+
+(*d*) the Terms of Employment (Information) Acts 1994 and 2001,
+
+(*e*) the Organisation of Working Time Act 1997,
+
+(*f*) the Parental Leave Act 1998,
+
+(*g*) the Carer’s Leave Act 2001,
+
+(*h*) the Protection of Employees (Part-Time Work) Act 2001, and
+
+(*i*) the Protection of Employees (Fixed-Term Work) Act 2003.
+
+#### 53. Consultants and advisers.
+
+**53**.— The Authority may, from time to time, engage such consultants or advisers as it may consider necessary to assist it in the discharge of its functions and any fees due to a consultant or adviser engaged under this section shall form part of the expenses of the Authority.
+
+#### 54. Indemnity.
+
+**54**.— No action or other proceedings shall lie or be maintainable (except in the case of wilful neglect or default) against—
+
+(*a*) a member of the Authority or a member of the staff of the Authority,
+
+(*b*) a person authorised by the Authority under section F56[*51(2)*,]
+
+(*c*) a person engaged by the Authority under *section 53*, or
+
+(*d*) a person made available to the Authority under *section 61*,
+
+arising from a failure to perform or to comply with any of the functions conferred or obligations imposed on the Authority by or under this Chapter.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F56: Substituted (3.05.2022) by *Sea-Fisheries (Miscellaneous Provisions) Act 2022* (2/2022), s. 12, S.I. No. 202 of 2022.
+
+#### 55. Membership of House of Oireachtas, European Parliament and local authorities.
+
+**55**.— (1) Where a member of the Authority—
+
+(*a*) accepts nomination as a member of Seanad Éireann,
+
+(*b*) is elected as a member of either House of the Oireachtas or as a representative in the European Parliament,
+
+(*c*) is regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act 1997 as having been elected to the European Parliament to fill a vacancy, or
+
+(*d*) becomes a member of a local authority,
+
+he or she shall thereupon cease to be a member of the Authority.
+
+(2) Where a member of the staff of the Authority—
+
+(*a*) accepts nomination as a member of Seanad Éireann,
+
+(*b*) is elected as a member of either House of the Oireachtas or as a representative in the European Parliament, or
+
+(*c*) is regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act 1997 as having been elected to the European Parliament to fill a vacancy,
+
+he or she shall thereupon stand seconded from his or her employment by the Authority and shall not be paid by, or be entitled to receive from, the Authority remuneration or allowances in respect of the period commencing on such nomination or election or when he or she is so regarded as having been elected, as the case may be, and ending when he or she ceases to be a member of either such House or such Parliament.
+
+(3) A person who is, for the time being, entitled under the Standing Orders of either House of the Oireachtas to sit therein or who is a member of the European Parliament shall, while he or she is so entitled or is such a member, be disqualified from becoming a member of the Authority or a member of the staff of the Authority.
+
+(4) A person who is a member of a local authority shall be disqualified from becoming a member of the Authority while he or she is a member of such local authority.
+
+(5) The Authority shall not employ or otherwise retain in any capacity a person who would otherwise be disqualified under this section from becoming a member of the Authority while that person would be so disqualified.
+
+(6) Without prejudice to the generality of *subsection (2)*, that subsection shall be construed as prohibiting, among other things, the reckoning of a period mentioned in that subsection as service with the Authority for the purposes of any superannuation benefits.
+
+#### 56. Code of Conduct.
+
+**56**.— The Authority shall, following consultation with the Minister and the Minister for Finance, draw up a code of conduct in respect of controls on interests and ethical behavior to apply to all members of the Authority and all members of the staff of the Authority.
+
+#### 57. Disclosure of interests.
+
+**57**.— (1) Where a member of the Authority, a member of the staff of the Authority, or a consultant, adviser or other person engaged by the Authority, has a beneficial interest in, or material to, any matter which falls to be considered by the Authority, he or she shall—
+
+(*a*) disclose to the Authority, and in the case of disclosure by a member of the Authority where there is only one member, that member shall disclose to the Minister, the nature of his or her interest in advance of any consideration of the matter,
+
+(*b*) neither influence nor seek to influence a decision in relation to the matter,
+
+(*c*) take no part in any consideration of the matter, unless there are compelling reasons requiring him or her to do so,
+
+(*d*) if he or she is a member of the Authority, withdraw from a meeting of the Authority for so long as the matter is being discussed or considered by the Authority, and unless there are compelling reasons requiring him or her to do so, shall not vote or otherwise act in relation to the matter, and
+
+(*e*) prepare and furnish in advance to the Authority or Minister, as appropriate, a statement in writing of the compelling reasons aforesaid.
+
+(2) For the purposes of this section, but without prejudice to the generality of *subsection (1)*, a person shall be regarded as having a beneficial interest if—
+
+(*a*) he or she or any connected relative F57[or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010], or any nominee of his or her or any connected relative F57[or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010], is a member of an undertaking or any other body which has a beneficial interest in, or material to, a matter referred to in that subsection,
+
+(*b*) he or she or any connected relative F57[or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010] is in partnership with or is in the employment of a person who has a beneficial interest in, or material to, such a matter,
+
+(*c*) he or she or any connected relative F57[or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010] is a party to any arrangement or agreement (whether or not enforceable) concerning land to which such a matter relates, or
+
+(*d*) any connected relative F57[or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010] is in partnership with or is in the employment of a person who has a beneficial interest in, or material to, such a matter.
+
+(3) In *subsection (2)*, “connected relative” means, in relation to a person to whom that subsection applies, the person’s spouse or partner, parent, brother, sister, child or a child of a spouse or partner.
+
+(4) For the purposes of this section, a person shall not be regarded as having a beneficial interest in, or material to, any matter, by reason only of an interest of his or her or of any undertaking or of any other body or person mentioned in *subsection (2)* which is so remote or insignificant that it cannot reasonably be regarded as likely to influence a person in considering, discussing or in voting on, any question with respect to the matter, or in performing any function in relation to that matter.
+
+(5) Where a question arises as to whether or not a course of conduct, if pursued by a person, would be a failure by him or her to comply with the requirements of *subsection (1)*, the question shall be determined by the Authority or, where there is only one member of the Authority, in the case of that member, by the Minister.
+
+(6) Particulars of the determination under *subsection (5)* shall be recorded by the Authority in the minutes of the meeting concerned or by the Minister by letter addressed to the Authority.
+
+(7) Where a disclosure is made to the Authority or the Minister pursuant to *subsection (1)*, particulars of the disclosure shall be recorded in the minutes of any meeting concerned or by the Minister by letter addressed to the Authority.
+
+(8) Where a person referred to in this section, other than a member of the Authority, fails to make a disclosure in accordance with this section, the Authority shall decide the appropriate action (including removal from office or termination of contract) to be taken.
+
+(9) Where a member of the Authority fails to make a disclosure in accordance with this section, the Minister shall decide the appropriate action (including removal from office) to be taken.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F57: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97 and sch. part 1 item 42 (S.I. No. 648 of 2010).
+
+#### 58. Disclosure of confidential information.
+
+**58**.— (1) Save as otherwise provided by law, a person shall not disclose confidential information obtained by him or her while performing duties as a member of the Authority, member of the staff of the Authority or a consultant, adviser or other person engaged by the Authority, unless he or she is duly authorised to do so.
+
+(2) In this section, “ duly authorised ” means authorised by the Authority or by some person authorised in that behalf by the Authority for the purposes of this section.
+
+(3) A person who contravenes *subsection (1)* is guilty of an offence and is liable on summary conviction to a fine not exceeding €5,000 or imprisonment for a term not exceeding 3 months, or to both.
+
+(4) (*a*) In this section, “confidential information” means that which is expressed by the Authority to be confidential either as regards particular information or as regards information of a particular class or description.
+
+(*b*) In expressing information to be confidential, the Authority shall have regard to the requirement to protect information of a confidential commercial nature.
+
+(5) Nothing in *subsection (1)* shall prevent the disclosure of information in a report made by or on behalf of the Authority to the Minister.
+
+(6) The Third Schedule to the Freedom of Information Act 1997 is amended by the insertion in Part I at the end thereof—
+
+(*a*) in column (2) of “*Sea-Fisheries and Maritime Jurisdiction Act 2006*”, and
+
+(*b*) in column (3) of “*Section 58* ”.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E209: Person holding record under section excluded from obligation to refuse an FOI request (14.10.2014) by *Freedom of Information Act 2014* (30/2014), s. 41(1)(a) and sch. 3 part 1, commenced as per s. 1(2).
+>
+> E210: A fine of €5,000 translates into a class A fine, not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(3) and table ref. no. 1, S.I. No. 662 of 2010.
+
+#### 59. Superannuation of members of Authority.
+
+**59**.— (1) The Minister shall, with the consent of the Minister for Finance, make a scheme or schemes for the granting of superannuation benefits to or in respect of a member of the Authority ceasing to hold office.
+
+(2) Every scheme made under this section shall fix the time and conditions of retirement for all persons to or in respect of whom superannuation benefits are payable under the scheme and different times and conditions may be fixed in respect of different classes of persons.
+
+(3) The Minister may, with the consent of the Minister for Finance, make a scheme amending or revoking a scheme under this section, including a scheme under this subsection.
+
+(4) If any dispute arises as to the claim of a member of the Authority to, or the amount of, any superannuation benefit payable in pursuance of a scheme under this section, such dispute shall be submitted to the Minister who shall refer it to the Minister for Finance for determination by him or her.
+
+(5) A scheme under this section shall be carried out by the Minister in accordance with its terms.
+
+(6) No superannuation benefit shall be granted by the Minister to or in respect of any member of the Authority ceasing to hold office otherwise than in accordance with a scheme under this section or as otherwise may be approved of by the Minister with the consent of the Minister for Finance.
+
+(7) A scheme under this section shall be laid before each House of the Oireachtas by the Minister as soon as may be after it is made and, if a resolution annulling the scheme is passed by either such House within the next 21 days on which that House has sat after the scheme is laid before it, the scheme shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E211: Power pursuant to section exercised (28.06.2016) by *Sea-Fisheries Protection Authority (Employees) Superannuation Scheme 2016* (S.I. No. 358 of 2016), in effect as per art. 1(ii). Note: this instrument, art. 3, revoked the *Sea-Fisheries Protection Authority Staff Superannuation Scheme 2013*.
+>
+> E212: Any defined benefit scheme established under section is excluded from *Pensions Act 1990* (25/1990), Part III, by *Occupational Pension Schemes (Preservation of Benefits) Regulations 2002* (S.I. No. 279 of 2002), reg. 11 as substituted (26.02.2009) by *Occupational Pension Schemes (Preservation of Benefits)(Amendment) Regulations 2009* (S.I. No. 70 of 2009), reg. 2.
+>
+> E213: Any defined benefit scheme established under section is excluded from *Pensions Act 1990* (25/1990), Part IV, by *Occupational Pension Schemes (Funding Standard) Regulations 2008* (S.I. No. 419 of 1993), reg. 6 and sch. C as substituted (1.08.2008) by *Occupational Pension Schemes (Funding Standard)(Amendment) Regulations 2008* (S.I. No. 295 of 2008), reg. 4, and (18.04.2013) by *Occupational Pension Schemes (Funding Standard) (Amendment) Regulations 2013* (S.I. No. 135 of 2013), reg. 2, and (16.06.2014) by *Occupational Pension Schemes (Funding Standard) (Amendment) Regulations 2014* (S.I. No. 268 of 2014), reg. 2.
+>
+> E214: Previous affecting provision: power pursuant to section exercised (28.06.2016) by *Sea-Fisheries Protection Authority Superannuation Scheme 2016* (S.I. No. 353 of 2016); revoked (12.11.2021) by *Sea-Fisheries (Revocation) Regulations 2021* (S.I. No. 602 of 2021), reg. 2(b).
+
+#### 60. Superannuation of staff of Authority.
+
+**60**.— (1) The Authority shall prepare and submit to the Minister a scheme or schemes for the granting of superannuation benefits to or in respect of such members of the staff of the Authority as it may think fit.
+
+(2) Every scheme made under this section shall fix the time and conditions of retirement for all persons to or in respect of whom superannuation benefits are payable under the scheme and different times and conditions may be fixed in respect of different classes of persons.
+
+(3) Every scheme made under *subsection (1)* may, with the consent of the Minister for Finance, be amended or revoked by a subsequent scheme prepared, submitted and approved under *subsection (1)*.
+
+(4) A scheme made under *subsection (1)* submitted by the Authority to the Minister shall, if approved by the Minister with the consent of the Minister for Finance, be carried out by the Authority in accordance with its terms.
+
+(5) No superannuation benefits shall be granted by the Authority nor shall any other arrangements be entered into by the Authority for the provision of such a benefit to or in respect of a member of the staff of the Authority otherwise than in accordance with a scheme under *subsection (1)* or otherwise as may be approved of by the Minister with the consent of the Minister for Finance.
+
+(6) If any dispute arises as to the claim of any person to, or the amount of, any superannuation benefit payable in pursuance of a scheme or schemes under this section, such dispute shall be submitted to the Minister who shall refer it to the Minister for Finance for determination by him or her.
+
+(7) A scheme under this section shall be laid before each House of the Oireachtas by the Authority as soon as may be after it is made and, if a resolution annulling the scheme is passed by either such House within the next 21 days on which that House has sat after the scheme is laid before it, the scheme shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
+
+(8) Superannuation benefits granted under schemes under this section to persons who, immediately before the establishment day, were officers of the Minister and the terms and conditions relating to those benefits shall not be less favourable to those persons than those to which they were entitled immediately before that day.
+
+(9) Where, in the period beginning on the establishment day and ending immediately before the commencement of a scheme under this section, a superannuation benefit falls due for payment to or in respect of a person who was transferred to the staff of the Authority under *section 52*, the benefit shall be calculated by the Authority in accordance with such scheme, or such enactments in relation to superannuation, as applied to the person immediately before the establishment day and, for that purpose, his or her pensionable service with the Authority shall be aggregated with his or her previous pensionable service and shall be paid by the Authority.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E215: Any defined benefit scheme established under section is excluded from *Pensions Act 1990* (25/1990), Part III, by *Occupational Pension Schemes (Preservation of Benefits) Regulations 2002* (S.I. No. 279 of 2002), reg. 11 and schedule as substituted (26.02.2009) by *Occupational Pension Schemes (Preservation of Benefits)(Amendment) Regulations 2009* (S.I. No. 70 of 2009), reg. 2.
+>
+> E216: Any defined benefit scheme established under section is excluded from *Pensions Act 1990* (25/1990), Part IV, by *Occupational Pension Schemes (Funding Standard) Regulations 2008* (S.I. No. 419 of 1993), reg. 6 and sch. C as substituted (1.08.2008) by *Occupational Pension Schemes (Funding Standard)(Amendment) Regulations 2008* (S.I. No. 295 of 2008), reg. 4, and (18.04.2013) by *Occupational Pension Schemes (Funding Standard) (Amendment) Regulations 2013* (S.I. No. 135 of 2013), reg. 2, and (16.06.2014) by *Occupational Pension Schemes (Funding Standard) (Amendment) Regulations 2014* (S.I. No. 268 of 2014), reg. 2.
+
+#### 61. Resources made available by Minister to Authority.
+
+**61**.— (1) The Minister may make available to the Authority, on a request being made by the Authority, such staff, premises, equipment, services and other resources as the Minister may determine from time to time in consultation with the Minister for Finance.
+
+(2) The Authority shall, on request from the Minister, pay to the Minister such sum or sums as the Minister may specify to be the expenses incurred by the Minister in making available to the Authority such staff, premises, equipment, services and other resources under *subsection (1)*.
+
+#### 62. Grants to Authority.
+
+**62**.— (1) In each financial year there shall be paid to the Authority out of moneys provided by the Oireachtas a grant of such amount as the Minister, with the consent of the Minister for Finance and after consultation with the Authority in relation to its likely work programme and expenditure for the financial year (and after taking into account any other resources including monies available to the Authority), may sanction towards the expenses of the Authority in the due performance of its functions.
+
+(2) In determining the grant payable to the Authority under *subsection (1)*, the Minister shall have regard to the obligations of the State under the common fisheries policy or other international agreement in so far as the due performance of the functions of the Authority is concerned.
+
+#### 63. Fees.
+
+**63**.— (1) Subject to *subsection (2)*, for the purpose of meeting expenses properly incurred by the Authority in the due performance of its functions under this Chapter, the Authority, with the consent of the Minister and the Minister for Finance, may make regulations imposing fees to be paid by such classes of persons as may be specified by the Authority in the regulations.
+
+(2) Regulations under *subsection (1)* may provide for the following—
+
+(*a*) rates of fee payable,
+
+(*b*) the keeping of records and the making of returns by persons liable to pay fees,
+
+(*c*) the collection and recovery of fees, and
+
+(*d*) such other matters as are necessary or incidental to the procurement of the payment of fees.
+
+(3) Fees shall be payable to the Authority at such time and at such rates as may be prescribed in regulations made by the Authority under *subsection (1)* and different rates may be prescribed in respect of different classes of persons liable to pay fees.
+
+(4) Fees payable under the regulations mentioned in *Schedule 3* shall, on the establishment day, be payable to the Authority and may be altered by regulations under this section.
+
+(5) The Minister may, with the consent of the Minister for Finance, direct the Authority to pay into the Central Fund or the growing produce thereof, such sum as he or she may specify, being a sum that represents the amount by which the gross income received by the Authority in each financial year exceeds the gross expenditure incurred in the administration of its office in that year.
+
+(6) The Authority may recover, as a simple contract debt in any court of competent jurisdiction, from any person by whom it is payable any amount due and owing to it under this section (including fees payable under regulations mentioned in *Schedule 3*).
+
+(7) The Public Offices Fees Act 1879 does not apply to any fees payable under this section.
+
+#### 64. Borrowings.
+
+**64**.— The Authority may, for the purpose of the performance of its functions, borrow money (whether on the security of its assets or otherwise), including money in a currency other than the currency of the State, but shall not do so without the consent of the Minister and the Minister for Finance.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C20: Functions transferred and references to “Minister” and “Department of Finance” construed (4.07.2011 and 6.07.2011, appointed day) by *Ministers and Secretaries (Amendment) Act 2011* (10/2011), ss. 7, 9, 11 and sch. 2 part 1, commenced as per s. 1(2) and S.I. No. 401 of 2011.
+>
+> **Department of Public Expenditure and Reform**.
+>
+> **7**.— (1) There shall stand established on the appointed day a Department of State to be known, in the Irish language, as an Roinn Caiteachais Phoiblí agus Athchóirithe or, in the English language, as the Department of Public Expenditure and Reform.
+>
+> (2) The member of the Government who is in charge of the Department of Public Expenditure and Reform—
+>
+> (a) shall be known, in the Irish language, as an tAire Caiteachais Phoiblí agus Athchóirithe or, in the English language, as the Minister for Public Expenditure and Reform, and
+>
+> (b) is, in this Act, referred to as the “Minister”.
+>
+> ...
+>
+> **Transfer of certain other functions to Minister**.
+>
+> **9**.— ...
+>
+> (2) The functions conferred on the Minister for Finance by or under any of the provisions specified in Part 1 of Schedule 2 are transferred to the Minister.
+>
+> ...
+>
+> **Transfer of administration and business of Department of Finance**.
+>
+> **11**.— (1) The administration and business in connection with the performance of the functions transferred by sections 8 and 9 are hereby transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any statute or instrument under a statute in so far as they relate to the administration and business transferred by subsection (1) shall, from the appointed day, be construed as references to the Department of Public Expenditure and Reform.
+>
+> ...
+>
+> SCHEDULE 2
+>
+> Functions Transferred To Minister
+>
+> ...
+>
+> PART 1
+>
+> Functions performable with consent of Minister for Finance
+>
+> STATUTES
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>...<br>No. 8 of 2006<br>...</td><td>...<br>Sea-Fisheries and Maritime Jurisdiction Act 2006<br>...</td><td>...<br>Section 64<br>...</td></tr></table>
+
+#### 65. Accounts and annual report of Authority.
+
+**65**.— (1) The Authority shall keep in such form and in respect of such accounting periods as may be approved of by the Minister, with the consent of the Minister for Finance, all proper and usual accounts of moneys received or expended by it, including an income and expenditure account and a balance sheet.
+
+(2) Accounts kept in pursuance of this section shall be submitted, not later than three months after the end of the financial year to which they relate, by the Authority to the Comptroller and Auditor General for audit and, immediately after the receipt of the Comptroller and Auditor General’s report on the accounts, a copy of the income and expenditure account, the balance sheet and of such other (if any) accounts kept pursuant to this section as the Minister, after consultation with the Minister for Finance, may direct and a copy of the Comptroller and Auditor General’s report on the accounts shall be presented to the Minister who shall cause copies thereof to be laid before each House of the Oireachtas.
+
+(3) As soon as practicable, but not later than 3 months after the end of each financial year, the Authority shall, in writing, report to the Minister in relation to the performance of its functions in that year and the Minister shall cause copies of the report to be laid before each House of the Oireachtas within 3 months of its receipt by him or her.
+
+(4) The report under *subsection (3)* shall, in particular, indicate—
+
+(*a*) the extent to which the Strategy Statement of the Authority was implemented in that year,
+
+(*b*) the number of complaints made under *section 49* in that year and the decision of the Authority in relation to the complaints, and
+
+(*c*) the results of any review by or on behalf of the Authority of the cost-effectiveness of its operations.
+
+(5) The Minister may give directions in writing to the Authority in regard to the format and content of a report under *subsection (3)*, but such directions shall not require the Authority to include in such report details which could, in the opinion of the Authority, be prejudicial to the performance of its functions.
+
+(6) The Authority shall give to the Minister such information relating to the performance of its functions as the Minister may request provided that such information would not, in the opinion of the Authority, be prejudicial to the performance of its functions.
+
+(7) The financial year of the Authority shall be the period of 12 months ending on 31 December in any year and, for the purposes of this section and *section 62*, the period commencing on the establishment day and ending on the following 31 December shall be deemed to be a financial year.
+
+#### 66. Strategy Statement of Authority.
+
+**66**.— (1) The Authority shall adopt and submit to the Minister a statement of strategy within 6 months after the establishment day and at least every 3 years from the submission date of the first statement.
+
+(2) The statement of strategy shall—
+
+(*a*) comprise the key objectives, outputs and related strategies, including use of resources, of the Authority,
+
+(*b*) be prepared in a form and manner in accordance with any directions issued from time to time by the Minister, and
+
+(*c*) have regard to the need to ensure the most beneficial, effective and efficient use of the resources of the Authority.
+
+(3) The Authority shall publish a statement of strategy adopted by it and shall lay a copy before each House of the Oireachtas.
+
+#### 67. Publication of reports of Authority.
+
+**67**.— Subject to *section 65*, the Authority may publish any reports on matters related to its functions.
+
+#### 68. Accountability of Authority to Committees of Oireachtas.
+
+**68**.— (1) The member of the Authority, or where there is more than one member of the Authority, the chairperson of the Authority, shall, whenever required by the Committee of Dáil Éireann established under the Standing Orders of Dáil Éireann to examine and report to Dáil Éireann on the appropriation accounts and reports of the Comptroller and Auditor General, attend before and give evidence to that Committee on—
+
+(*a*) the regularity and propriety of the transactions recorded or required to be recorded in any book or other record of account subject to audit by the Comptroller and Auditor General which the Authority is required by or under statute to prepare,
+
+(*b*) the economy and efficiency of the Authority in the use of its resources,
+
+(*c*) the systems, procedures and practices employed by the Authority for the purpose of evaluating the effectiveness of its operations, and
+
+(*d*) any matter affecting the Authority referred to in a special report of the Comptroller and Auditor General under section 11(2) of the Comptroller and Auditor General (Amendment) Act 1993, or in any other report of the Comptroller and Auditor General (in so far as it relates to a matter specified in *paragraph (a)*, *(b)* or *(c)*) that is laid before Dáil Éireann.
+
+(2) From time to time, and whenever so requested, the Authority shall account for the performance of the functions of the Authority to a Committee of one or both Houses of the Oireachtas and shall have regard to any recommendations of such Committee relevant to its functions.
+
+(3) In carrying out its duties under this section, the Authority shall not—
+
+(*a*) question or express an opinion on the merits of any policy of the Government or a Minister of the Government or on the merits of the objectives of such a policy,
+
+(*b*) provide information that might facilitate the commission of an offence, prejudice a criminal investigation or jeopardise the safety of any person, or
+
+(*c*) be required to account to a Committee for any matter which is or has been or may at a future time be the subject of proceedings before a court or tribunal in the State.
+
+#### 69. Premises of Authority.
+
+**69**.— The Authority may, for the purposes of providing premises necessary for the performance of its functions, purchase, lease, equip and maintain offices and other premises with the consent of the Minister and the Minister for Finance.
+
+#### 70. Seal of Authority.
+
+**70**.— (1) The Authority shall, as soon as may be after its establishment, provide itself with a seal.
+
+(2) The seal shall be authenticated by the signature of—
+
+(*a*) a member of the Authority, or
+
+(*b*) a member of the staff of the Authority, authorised by the Authority to act in that behalf.
+
+(3) Judicial notice shall be taken of the seal of the Authority and every document purporting to be an instrument made by and to be sealed with the seal of the Authority (purporting to be authenticated in accordance with this section) shall be received in evidence and be deemed to be such instrument without proof unless the contrary is shown.
+
+#### 71. Authority to keep itself informed on certain matters.
+
+**71**.— (1) The Authority shall keep itself informed of the policies, objectives, resolutions and guidelines of any public authority the functions of which have, or may have, a bearing on the matters with which the Authority is concerned.
+
+(2) In this section, “public authority” means the Minister, the Council and Commission of the European Communities and any other public authority inside or outside the State which, in the opinion of the Authority, has functions that have, or may have, a bearing on matters with which the Authority is concerned.
+
+#### 72. Provision of services by Authority.
+
+**72**.— The Authority may provide services (including services of staff) to the Minister or to another person on such terms and conditions (including payment for such services) as may be agreed and the Minister or the other person concerned may avail of such services.
+
+#### 73. Definitions (Chapter 5).
+
+**73**.— In this Chapter—
+
+“food safety law” means—
+
+(*a*) food legislation (within the meaning of section 2(1) of the Food Safety Authority of Ireland Act 1998) relating to the safety and hygiene of fish or fishery products, and
+
+(*b*) the legal obligations of the State in relation to fish or fishery products arising under any law of an institution of the European Communities or other international agreement which is binding on the State (whether or not such legal obligation is the subject of regulations under the Act of 1972 or any other enactment);
+
+“local authority” has the meaning assigned to it by the Local Government Act 2001;
+
+“sea-fisheries law” means—
+
+(*a*) the *Sea-Fisheries Acts 2003* *and* *2006* and instruments made by the Minister under the Acts, and
+
+(*b*) the legal obligations of the State in relation to sea-fisheries arising under any law of an institution of the European Communities to give effect to the common fisheries policy or other international agreement which is binding on the State (whether or not such legal obligation is the subject of regulations under the Act of 1972 or any other enactment).
+
+### Chapter 6 Registration of sea-fishing boats and miscellaneous offences involving sea-fishing boats — Chapter 6 — Registration of sea-fishing boats and miscellaneous offences involving sea-fishing boats
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E217: Irish fishing boats registered under Chapter affected (1.07.2007) by *Mercantile Marine (Tonnage) Regulations 2007* (S.I. No. 369 of 2007), regs. 4(1) and 13(1), in effect as per reg. 1(2).
+
+#### 74. Register of Fishing Boats.
+
+**74**.— (1) The Register of Fishing Boats continues in existence as the Register of Fishing Boats (“Register”) for the purposes of this section and shall continue to be maintained by the Registrar General of Fishing Boats in such form as he or she considers appropriate (including in an electronic or other non-documentary form) and shall be revised or amended as he or she considers necessary from time to time.
+
+(2) There continues to be a registrar of fishing boats known as the Registrar General of Fishing Boats (“Registrar General”).
+
+(3) The Registrar General shall be appointed by the Minister who may remove him or her from office for stated reasons.
+
+(4) The Minister may appoint, and terminate for stated reasons the appointment of, a Deputy Registrar General of Fishing Boats (“Deputy Registrar General”) to act for or perform the functions of the Registrar General during any absence from duty or inability to act of the Registrar General or as the Registrar General may from time to time direct. References in this Chapter to the Registrar General shall be read as including references to the Deputy Registrar General.
+
+(5) The persons who immediately before the passing of this Act hold the position of Registrar General and Deputy Registrar General shall be the first Registrar General and Deputy Registrar General under this section.
+
+(6) There continue to be local registrars of sea-fishing boats for such ports as provided for in the Regulations of 2005 unless otherwise provided for in regulations under *section 76*.
+
+#### 75. Registration, lettering and numbering of sea-fishing boats.
+
+**75**.— (1) Subject to *subsections (2)* and *(3)*, every Irish sea-fishing boat shall be entered in the Register and shall be lettered and numbered in accordance with regulations under *section 76* and with any Community law, or other international obligations which are binding on the State, for the time being in force.
+
+(2) In the interests of the proper management of the capacity of Irish sea-fishing boats, in accordance with—
+
+(*a*) the requirements of the Community law, or other international obligations which are binding on the State, or
+
+(*b*) any regulations under *section 76*,
+
+the Registrar General may enter a sea-fishing boat in the Register or remove it from the Register.
+
+(3) (*a*) A sea-fishing boat shall not be entered in the Register unless at the time of the entry there is in relation to the boat a sea-fishing boat licence and which is for the time being in force or, if it is not so in force, is to come into force on the boat’s being so registered.
+
+(*b*) A ship which is a sea-fishing boat shall not be registered under the Act of 1955 unless, at the time of registration, there is in relation to the ship a sea-fishing boat licence and which is for the time being in force or, if it is not so in force, is to come into force on the ship’s being so registered.
+
+(4) (*a*) A certificate of registration shall be issued in respect of a boat entered in the Register.
+
+(*b*) The certificate of registration shall be carried on board the boat in respect of which it is issued.
+
+(*c*) A certificate of registration issued in respect of a particular boat, or a certificate signed by the Registrar General that a boat specified in the certificate is not entered in the Register, is sufficient evidence that the boat is or is not registered, as the case may be.
+
+(5) (*a*) In any proceedings against the owner or skipper of or any person belonging to any boat entered in the Register, or for the recovery of damages for injury or loss caused by such boat, the Register shall be evidence (unless the contrary is shown) that the person entered in the Register at any date as the owner or owners of the boat was or were the owner or owners of the boat at that date and that the boat is an Irish sea-fishing boat.
+
+(*b*) *Paragraph (a)* does not—
+
+(i) prevent any proceedings being instituted against any person not so entered who is beneficially interested in the boat,
+
+(ii) affect the rights of the owners among themselves, or affect the rights of any owner entered in the Register against any person not so entered who is beneficially interested in the boat, or
+
+(iii) otherwise confer, take away or affect any title to or interest in any boat.
+
+(6) If an Irish sea-fishing boat is used for sea-fishing and—
+
+(*a*) is not entered in the Register, but is required to be so entered,
+
+(*b*) is entered in the Register, but there is not on board the boat the certificate of registration issued in respect of that boat (or a copy of that certificate), or
+
+(*c*) is not lettered and numbered in accordance with regulations under *section 76* and Community law, or other international obligations which are binding on the State, applicable to the lettering and numbering of that boat,
+
+the master and the owner of the boat each commits an offence and is liable on summary conviction to a fine not exceeding €5,000.
+
+(7) If a sea-fishing boat required to be entered in the Register is not so entered, it shall not be entitled to any of the privileges or advantages of an Irish sea-fishing boat, but all obligations, liabilities and penalties with reference to that boat and the punishment of offences committed on board the boat, or by any persons belonging to it, and the jurisdiction of sea-fisheries protection officers or other officers and courts shall be the same as if the boat were entered in the Register.
+
+(8) For so long as a ship which but for *subsection (3)* would be required to be registered under the Act of 1955 is not so registered, section 18(3) of that Act applies to that ship as if it were required by section 18(1) of that Act to be so registered.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F58: Substituted by *Merchant Shipping (Registration of Ships) Act 2014* (43/2014), s. 68 and sch. 4, not commenced as of date of revision.
+>
+> F59: Deleted by *Merchant Shipping (Registration of Ships) Act 2014* (43/2014), s. 68 and sch. 4, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C21: Prospective affecting provision: subs. (3)(b) amended and subs. (8) deleted by *Merchant Shipping (Registration of Ships) Act 2014* (43/2014), s. 68 and sch. 4, not commenced as of date of revision.
+>
+> **75**.—...
+>
+> (3) ...
+>
+> (*b*) A ship which is a sea-fishing boat shall not be registered under F58[section 18(1) of the Merchant Shipping (Registration of Ships) Act 2014] unless, at the time of registration, there is in relation to the ship a sea-fishing boat licence and which is for the time being in force or, if it is not so in force, is to come into force on the ship’s being so registered.
+>
+> ...
+>
+> (8) F59[...]
+>
+> **Editorial Notes:**
+>
+> E218: A fine of €5,000 translates into a class A fine, not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(3) and table ref. no. 1, S.I. No. 662 of 2010.
+
+#### 76. Regulations.
+
+**76**.— The Minister may make regulations for the registration, lettering and numbering of sea-fishing boats so as to—
+
+(*a*) provide for a system of registry, lettering and numbering of sea-fishing boats and the making of details of registration available to the public,
+
+(*b*) define the boats or classes of boats to which the regulations or any of them are to apply and the exemption of any boats or classes of boats from the regulations or any of them,
+
+(*c*) provide further for the appointment, functions and removal of local registrars,
+
+(*d*) specify procedures for application for registration and for entry of a sea-fishing boat in the Register,
+
+(*e*) specify procedures and methods for determining the dimensions and tonnage of sea-fishing boats,
+
+(*f*) specify procedures for the removal of a sea-fishing boat from the Register,
+
+(*g*) make such provision as is necessary to ensure compliance with an obligation relating to the registration of sea-fishing boats, the marking and numbering of sea-fishing boats, the measurement of sea-fishing boats and the determination of the tonnage and engine power of sea-fishing boats imposed by or under Community law or other international obligations which are binding on the State,
+
+(*h*) require (with the consent of the Minister for Finance) the payment of such fee before an application for registration or removal of a sea-fishing boat from the Register can be considered, or
+
+(*i*) provide for any other necessary matters relating to the registration of sea-fishing boats and the removal of sea-fishing boats from the Register.
+
+#### 77. Fees.
+
+**77**.— (1) Every fee received by the Department under *section 76* shall be disposed of for the benefit of the Exchequer in such manner as the Minister for Finance directs.
+
+(2) The Public Offices Fees Act 1879 does not apply to a fee required under *section 76*.
+
+#### 78. Continuance of Regulations of 2005.
+
+**78**.— The Regulations of 2005, if in operation on the passing of this Act, continue in force as if made under *section 76*.
+
+#### 79. Miscellaneous offences involving sea-fishing boats.
+
+**79**.— (1) If a foreign sea-fishing boat is found within the exclusive fishery limits without having on board official papers evidencing the nationality of the boat, the master of the boat commits an offence.
+
+(2) If any sea-fishing boat within the exclusive fishery limits fails to observe the provisions, relating to lights to be carried and exhibited, of the regulations for the prevention of collisions at sea made under section 418 of the Act of 1894, and applicable to the boat, the master and the owner of the boat each commits an offence.
+
+(3) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding €5,000.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E219: A fine of €5,000 translates into a class A fine, not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+#### 80. Definitions (Chapter 6).
+
+**80**.— In this Chapter—
+
+“certificate of registration” means a certificate signed by the Registrar General stating that the Irish sea-fishing boat to which it relates is entered in the Register;
+
+“Regulations of 2005” means Merchant Shipping (Registry, Lettering and Numbering of Fishing Boats) Regulations 2005 (S.I. No. 261 of 2005);
+
+“sea-fishing boat licence” means a licence granted under section 4 (inserted by *section 97*) of the Act of 2003.
+
+## PART 3 Maritime Jurisdiction (Including Exclusive Economic Zone and Exclusive Fishery Limits) of the State — PART 3 — Maritime Jurisdiction (Including Exclusive Economic Zone and Exclusive Fishery Limits) of the State
+
+### 81. Definitions (Part 3).
+
+**81.** F60[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F60: Repealed (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 4(b), S.I. No.601 of 2021.
+>
+> **Editorial Notes:**
+>
+> E220: Previously affecting provision: definition of ‘foreign ship’ substituted by *Merchant Shipping (Registration of Ships) Act 2014* (43/2014), s. 68 and sch. 4, not commenced, repealed as per F-note above.
+
+### 82. Territorial seas.
+
+**82**. F61[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F61: Repealed (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 4(b), S.I. No.601 of 2021.
+
+### 83. Outer limit of territorial seas.
+
+**83**. F62[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F62: Repealed (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 4(b), S.I. No.601 of 2021.
+
+### 84. Contiguous zone.
+
+**84**. F63[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F63: Repealed (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 4(b), S.I. No.601 of 2021.
+
+### 85. Baseline.
+
+**85**. F64[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F64: Repealed (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 4(b), S.I. No.601 of 2021.
+>
+> **Editorial Notes:**
+>
+> E221: Previous affecting provision: power pursuant to subs. (2) exercised (16.04.2019) by *Maritime Jurisdiction (Bay Closing Lines) Order 2019* (S.I. No. 155 of 2019).
+>
+> E222: Previous affecting provision: power pursuant to subs. (2) exercised (1.02.2016) by *Maritime Jurisdiction (Straight Baselines) Order 2016* (S.I. No. 22 of 2016), in effect as per art. 2.
+
+### 86. Internal waters.
+
+**86**. F65[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F65: Repealed (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 4(b), S.I. No.601 of 2021.
+>
+> **Editorial Notes:**
+>
+> E223: Previous affecting provision: obligation imposed on Inland Fisheries Ireland to perform functions conferred on it by *Inland Fisheries Act 2010* (10/2010) within and having regard to any waters which are in any area of the sea to which the internal or inland waters of the State extend under section (1.06.2010) by *Inland Fisheries Act 2010* (10/2010), s. 6(3)(a)(i), commenced on enactment.
+
+### 87. Exclusive economic zone of State.
+
+**87**. F66[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F66: Repealed (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 4(b), S.I. No.601 of 2021.
+>
+> **Editorial Notes:**
+>
+> E224: Previous affecting provision: power pursuant to subs. (3) exercised (31.03.2014) by *Maritime Jurisdiction (Boundaries of Exclusive Economic Zone) Order 2014* (S.I. No. 86 of 2014), in effect as per reg. 1(2).
+
+### 88. Exclusive fishery limits of State.
+
+**88**. F67[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F67: Repealed (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 4(b), S.I. No.601 of 2021.
+
+### 89. Jurisdiction in case of offence.
+
+**89**. F68[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F68: Repealed (22.11.2021) by *Maritime Jurisdiction Act* 2021 (28/2021), s. 4(b), S.I. No.601 of 2021.
+
+### 90. Prosecution of non-national for offence on foreign ship.
+
+**90**. F69[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F69: Repealed (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 4(b), S.I. No.601 of 2021.
+
+### 91. Saving as to jurisdiction.
+
+**91**. F70[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F70: Repealed (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 4(b), S.I. No.601 of 2021.
+
+### 92. Evidence as to extent of internal waters, territorial seas, exclusive economic zone and exclusive fishery limits.
+
+**92**. F71[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F71: Repealed (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 4(b), S.I. No.601 of 2021.
+
+### 93. Adaptation of enactments.
+
+**93**. F72[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F72: Repealed (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 4(b), S.I. No.601 of 2021.
+
+### 94. Laying of orders before Houses of Oireachtas.
+
+**94**. F73[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F73: Repealed (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 4(b), S.I. No.601 of 2021.
+
+## PART 4 Amendments to Fisheries Acts 1959 to 2003, Mercantile Marine Act 1955, Fishery Harbour Centres Act 1968, Dumping at Sea Act 1996 and Maritime Safety Act 2005 — PART 4 — Amendments to Fisheries Acts 1959 to 2003, Mercantile Marine Act 1955, Fishery Harbour Centres Act 1968, Dumping at Sea Act 1996 and Maritime Safety Act 2005
+
+### Chapter 1 Trial of Offences — Chapter 1 — Trial of Offences
+
+#### 95. Provisions in relation to cases in District Court.
+
+**95**.— Section 309 of the Principal Act is amended by substituting for subsection (1) (inserted by section 49 of the Fisheries Act 1980) the following:
+
+“(1) Notwithstanding anything contained in any other enactment, an offence under the *Fisheries Acts 1959 to 2006*, other than the *Sea-Fisheries Acts 2003 and 2006*, may be heard and determined in a summary way by a judge of the District Court upon the complaint, verbal or otherwise, of a member of the Garda Síochána, the Central Board, a regional board, an officer or employee of a board, a private waterkeeper (within the meaning of Part XVIII) or any other person.”.
+
+#### 96. Prosecution of summary offences — Fisheries Acts 1959 to 2006.
+
+**96**.— (1) Proceedings for an offence under the *Fisheries Acts 1959 to 2006* may be prosecuted summarily by the Minister.
+
+(2) This section does not apply to the *Sea-Fisheries Acts 2003 and 2006*.
+
+### Chapter 2 Licensing of sea-fishing boats and miscellaneous amendments to Act of 2003 — Chapter 2 — Licensing of sea-fishing boats and miscellaneous amendments to Act of 2003
+
+#### 97. Sea-fishing boat licences.
+
+**97**.— (1) The following section is substituted for section 4 of the Act of 2003:
+
+“4.— (1) This section applies to any Irish sea-fishing boat.
+
+(2) A sea-fishing boat to which this section applies shall not be used for sea-fishing (whether within the exclusive fishery limits of the State or otherwise) nor shall a person on board such a boat fish for sea-fish or attempt so to fish, save under and in accordance with a licence (‘sea-fishing boat licence’) granted or renewed for the purposes of this section and in relation to the boat by the licensing authority.
+
+(3) (*a*) The licensing authority may grant sea-fishing boat licences for such period as is specified in the licence.
+
+(*b*) An application for a sea-fishing boat licence shall be—
+
+(i) made to the licensing authority,
+
+(ii) in such form and contain such particulars as the licensing authority may specify, and
+
+(iii) made by or on behalf of the owner of the boat in respect of which the application is made.
+
+(*c*) Where an application is made for a sea-fishing boat licence, the licensing authority may, subject to subsection (5), allow or refuse the application.
+
+(*d*) In deciding on the grant or refusal of a sea-fishing boat licence or the attachment of terms and conditions to licences the licensing authority may take account of economic and social benefits which the operation of a boat would be likely to contribute to the coastal communities and regions which the quotas within the meaning of Council Regulation No. 2371/2002 of 20 December 2002 [^22] are designed to benefit, including—
+
+(i) the projected annual number of landings at ports in the State,
+
+(ii) the projected annual tonnage and value of fish landed in the State,
+
+(iii) the projected annual level of expenditure in the State on wages, fuel, supplies, equipment and services, and
+
+(iv) the projected annual level of social security and tax payments in the State in respect of employees and the operation of the boat, and the protection, conservation and sustainable exploitation of living marine aquatic species and requirements of the Common Fisheries Policy of the European Communities.
+
+(4) (*a*) The licensing authority may renew a sea-fishing boat licence, without the holder or the licensee making an application under subsection 3(*b*), for such period or periods as he or she may consider appropriate.
+
+(*b*) Section 7 of this Act does not apply to the renewal of a licence under paragraph (*a*).
+
+(5) The licensing authority shall not grant a sea-fishing boat licence unless the sea-fishing boat in relation to which the licence is granted is wholly owned by a national of a Member State or a state belonging to the European Economic Area or a body corporate established under and subject to the law of a Member State and having its principal place of business in a Member State or a state belonging to the European Economic Area.
+
+(6) Where a sea-fishing boat is owned by a body corporate, the name, address and nationality of the beneficial owner or owners of the shares in, or of the person or persons who otherwise controls or control, the body corporate, shall be given to the licensing authority—
+
+(*a*) on application for a sea-fishing boat licence in respect of the boat, or
+
+(*b*) where a sea-fishing boat licence is in force in respect of the boat, if there is any change in such ownership or control.
+
+(7) (*a*) A body corporate which is applying for a sea-fishing boat licence or holds a sea-fishing boat licence must have an agent in the State and give the licensing authority the name and address of the agent and details of contacting the agent at any time by or on behalf of the licensing authority.
+
+(*b*) The licensing authority may, as the case may be, refuse to grant or suspend (for such period as he or she sees fit) or revoke a sea-fishing boat licence where he or she considers that a body corporate is not complying with paragraph (*a*) to the satisfaction of the authority.
+
+(8) (*a*) The licensing authority may attach to a sea-fishing boat licence such terms (including terms specifying an event or other circumstances on the occurrence of which the licence is to come into force or cease to be in force) and conditions (including conditions precedent to the licence’s becoming operative) as he or she shall think fit and he or she may also attach further terms or conditions to or vary the terms or conditions already attached to such a licence or remove any such terms or conditions.
+
+(*b*) Without prejudice to the generality of paragraph (*a*), a term or condition attached to a sea-fishing boat licence may—
+
+(i) restrict sea-fishing by the boat to which the licence relates in a manner specified in the term or condition,
+
+(ii) require that for so long as the licence is in force the members of the crew of such boat, or of any proportion of such members specified in the condition, shall be of a nationality specified in the term or condition, or
+
+(iii) specify an event or other circumstance on the occurrence of which the licence shall cease to be in force.
+
+(*c*) Where the licensing authority is satisfied that a person has fished in contravention of a term or condition attached to a sea-fishing boat licence or that a person has attempted so to fish, the licensing authority may, if he or she thinks fit, revoke or suspend (for such period as he or she sees fit) the licence.
+
+(9) (*a*) It is a condition of a sea-fishing boat licence that the licensee shall ensure that the licensed boat complies with requirements specified by or under the Merchant Shipping Acts 1894 to 2005.
+
+(*b*) Where by or under the Merchant Shipping Acts 1894 to 2005 a survey is required to be carried out of a sea-fishing boat for the purpose of establishing whether or not such boat complies with the requirements specified by or under those Acts, the licensing authority shall not grant or renew a sea-fishing boat licence in respect of the boat unless the licensing authority is satisfied that the boat complies with such requirements.
+
+(*c*) Where a code of practice published by the Minister for Transport relating to the safety and sea-worthiness of sea-fishing boats of a class to which paragraph (*b*) does not apply requires a survey to be carried out of a sea-fishing boat of such class for the purpose of establishing whether or not such boat complies with the requirements specified in the code of practice, the licensing authority shall not grant or renew a sea-fishing boat licence in respect of the boat unless a declaration of compliance with the code of practice has been provided to the licensing authority.
+
+(10) (*a*) The holder of a sea-fishing boat licence suspended or revoked under subsection (7)(*b*) or (8)(*c*) shall, as soon as practicable, surrender the licence to the licensing authority.
+
+(*b*) A person who fails to comply with paragraph (*a*) of this subsection commits an offence and is liable on summary conviction to a fine not exceeding €500.
+
+(*c*) Where a licence has been suspended under subsection (7)(*b*) or (8)(*c*) the District Court may, upon application to it, direct the licensing authority to re-issue and return the licence or it may reduce the period of suspension.
+
+(11) Without prejudice to the generality of subsection (3)(*c*) where the licensing authority receives an application for a sea-fishing boat licence and—
+
+(*a*) the application relates to a sea-fishing boat which is owned by a body corporate and the licensing authority is not satisfied that the body corporate is under the control of, beneficially owned by or under the control of and beneficially owned by a person or persons who, or, as may be appropriate, each of whom, is either a qualified individual or a qualified body, or
+
+(*b*) the licensing authority is satisfied that the applicant has previously used or attempted to use a sea-fishing boat for sea-fishing in contravention of, or that the applicant has fished for sea-fish or has attempted so to fish contrary to, subsection (2),
+
+he or she may refuse the application.
+
+(12) (*a*) Where the holder of a sea-fishing boat licence—
+
+(i) ceases to be the owner of the sea-fishing boat to which the licence relates, or
+
+(ii) is a body corporate which ceases to be under the control of or beneficially owned by or under the control of and beneficially owned by a person or persons who, or, as may be appropriate, each of whom, is either a qualified individual or a qualified body,
+
+the licence ceases to have effect and the holder of the licence shall, as soon as practicable, deliver the licence to the licensing authority.
+
+(*b*) A person who fails to comply with paragraph (*a*) commits an offence and is liable on summary conviction to a fine not exceeding €500.
+
+(13) (*a*) A person who uses or attempts to use a sea-fishing boat in contravention of subsection (2) commits an offence.
+
+(*b*) A person who, while on board a sea-fishing boat, fishes for sea-fish or attempts to so fish in contravention of subsection (2) commits an offence.
+
+(14) In this section—
+
+‘Irish sea-fishing boat’ means a sea-fishing boat which is—
+
+(*a*) entered in the Register of Fishing Boats maintained under *section 74* of the *Sea-Fisheries and Maritime Jurisdiction Act 2006*,
+
+(*b*) required by regulations under *section 76* of that Act to be so entered, or
+
+(*c*) exempt from such registration by regulations under that section;
+
+‘qualified body’ means a body corporate in which all of the shares are beneficially owned, or the body is otherwise controlled, by one or more individuals who, or, as may be appropriate, each of whom is, a qualified individual;
+
+‘qualified individual’ means an individual person who is a national of a Member State or a state belonging to the European Economic Area;
+
+‘licensing authority’ has the meaning assigned to it by section 3;
+
+‘Member State’ means a Member State of the European Communities.’’.
+
+(2) A sea-fishing boat licence granted or renewed under section 222B of the Principal Act which is in force immediately before the passing of this Act continues in force as if made or renewed under the corresponding provision of section 4 (inserted by this section) of the Act of 2003.
+
+#### 98. Tax clearance certification requirement for applicants for sea-fishing boat licences.
+
+**98**.— (1) The following section is inserted after section 5 of the Act of 2003:
+
+“5A.— (1) A sea-fishing boat licence shall not be granted by the licensing authority unless the applicant produces to the licensing authority a tax clearance certificate.
+
+(2) In this section ‘tax clearance certificate’ means a tax clearance certificate issued under section 1095 (inserted by section 127 of the Finance Act 2002) of the Taxes Consolidation Act 1997.”.
+
+(2) This section comes into operation on such day as the Minister may appoint by order. That order shall be laid before each House of the Oireachtas as soon as may be after it is made.
+
+#### 99. Miscellaneous amendments to Act of 2003.
+
+**99**.— The Act of 2003 is amended—
+
+(*a*) in section 2(1) by substituting “section 4(3)” for “section 222B(3) of the Principal Act”,
+
+(*b*) in section 3—
+
+(i) by substituting for subsection (3) the following:
+
+“(3) A policy directive given under subsection 2(*b*) may provide for measures to control and regulate the capacity, structure, equipment, use and operation of sea-fishing boats for the purpose of protecting, conserving or allowing the sustainable exploitation of living marine aquatic species or the rational management of fisheries, in furtherance of national policy objectives and to comply with requirements of the common fisheries policy of the European Communities or other international obligations which are binding on the State.”,
+
+(ii) in subsection (6), by substituting “section 4” for “section 222B of the Principal Act”,
+
+(iii) in subsection (9)(*a*), by substituting “section 4(3)” for “section 222B(3) of the Principal Act”,
+
+(iv) in subsection (9)(*b*), by substituting “section 4(3)” for “section 222B(3) (inserted by section 4)”,
+
+(v) by inserting after subsection (9) the following:
+
+“(9A) The licensing authority is not liable in any proceedings for anything done in good faith in the purported exercise of his or her powers in relation to granting or renewing sea-fishing boat licences or maintaining the Register of Fishing Boats.”,
+
+and
+
+(vi) in section 3(10), by substituting “*section 74* of the *Sea-Fisheries and Maritime Jurisdiction Act 2006*” for “Regulation 5 of the Merchant Shipping (Registry, Lettering and Numbering of Fishing Boats) Regulations 1997 (S.I. No. 294 of 1997)”,
+
+(*c*) in section 5—
+
+(i) by substituting for paragraph (*b*) of subsection (1) the following:
+
+“(*b*) an authorisation under section 13 or a licence, authorisation or permit under any regulation made under *section 14* or *15* of the *Sea-Fisheries and Maritime Jurisdiction Act 2006* or section 25 of the 2003 Act,”,
+
+(ii) by substituting for paragraph (*b*) of subsection (2) the following:
+
+“(*b*) an authorisation under section 13 or a licence, authorisation or permit under any regulation made under *section 14* or *15* of the *Sea-Fisheries and Maritime Jurisdiction Act 2006* or section 25 of the 2003 Act,”,
+
+(iii) in subsection (4), by substituting “licensing authority, the Minister or an appeals officer” for “licensing authority or the Minister”, and
+
+(iv) by inserting after subsection (6) the following:
+
+“(7) The Public Offices Fees Act 1879 does not apply to a fee prescribed under this section.”,
+
+(*d*) in section 6, by substituting for subsection (4) the following:
+
+“(4) A policy directive given under subsection 3(*b*) may provide for measures to control and regulate the capacity, structure, equipment, use and operation of sea-fishing boats for the purpose of protecting, conserving or allowing the sustainable exploitation of living marine aquatic species or the rational management of fisheries, in furtherance of national policy objectives and to comply with requirements of the common fisheries policy of the European Communities or other international obligations which are binding to the State.”,
+
+(*e*) in section 7(1), by substituting for paragraph (*b*) the following:
+
+“(*b*) A person other than the applicant for or holder of the licence concerned may only appeal under paragraph (*a*) if he or she made representations in writing to the licensing authority before the expiration of a period of one month beginning on the date on which the application for the licence concerned was published by the licensing authority in accordance with section 3(8).”,
+
+(*f*) in section 9(2)(*a*), by substituting “section 4” for “section 222B of the Principal Act”,
+
+(*g*) in section 25, by substituting for subsection (3) the following:
+
+“(3) A person who fishes or attempts to fish in contravention of any conservation regulation commits an offence.”,
+
+(*h*) in section 27, by substituting for subsection (5) the following:
+
+“(5) A person who fails to comply with subsection (3)(*a*) commits an offence.”,
+
+(*i*) in section 29(1), by substituting “under a section specified in a Table to *section 28* of the *Sea-Fisheries and Maritime Jurisdiction Act 2006*” for “under section 221, 222, 222A, 222B, 222C, 223, 223A, 224B, 226 or 227 of the Principal Act, a conservation regulation or section 27(5)”,
+
+(*j*) in section 32, by inserting after subsection (6) the following:
+
+“(6A) The Public Offices Fees Act 1879 does not apply to a fee prescribed under this section.”,
+
+and
+
+(*k*) in paragraph 7(d) of Schedule 1, by substituting “section 4” for “section 222B of the Principal Act”.
+
+### Chapter 3 Mercantile Marine — Chapter 3 — Mercantile Marine
+
+#### 100. Amendment of Act of 1955.
+
+**100**.— The Act of 1955 is amended—
+
+(*a*) by inserting after section 16 the following:
+
+“Persons qualified to own registered sea-fishing ships.
+
+16A.— (1) Section 16 of this Act does not apply to sea-fishing ships.
+
+(2) Subject to section 19 of this Act respecting reciprocating states, the following shall alone be qualified to own a registered sea-fishing ship or a share in it—
+
+(*a*) the Government,
+
+(*b*) a Minister of the Government,
+
+(*c*) a national of a Member State, or
+
+(*d*) a body corporate established under and subject to the law of a Member State and having its principal place of business in a Member State.
+
+(3) Every ship to which the provisions of subsection (2) apply shall be registered under this Act unless the ship is exempt under section 18(2) of this Act from the obligation to so register.
+
+(4) In this section, ‘ Member State’ means a Member State of the European Communities.”,
+
+(*b*) in section 18(2), by inserting after paragraph (*d*) the following:
+
+“(*e*) a sea-fishing boat of less than 15 metres in length overall and required to be registered in the Register of Fishing Boats maintained under *section 74* of the *Sea-Fisheries and Maritime Jurisdiction Act 2006* or exempt from such registration by regulations under *section 76* of that Act.”,
+
+and
+
+(*c*) in section 19—
+
+(i) by inserting after subsection (2) the following:
+
+“(2A) Notwithstanding subsection (2) of this section, the Government may by order provide that the citizens, subjects or nationals of a state declared under subsection (1) of this section to be a reciprocating state or bodies corporate established under and subject to the laws of that state shall—
+
+(*a*) be qualified to own only a registered ship (or a share in it) which is of a particular class or description specified in the order, or
+
+(*b*) not be qualified to own a registered ship (or a share in it) which is of a class or description so specified,
+
+and subsection (2) of this section is to be construed and have effect subject to the terms of the order.”,
+
+and
+
+(ii) subsection (3), by deleting “subsection (1) of”.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F74: Repealed by *Merchant Shipping (Registration of Ships) Act 2014* (43/2014), s. 7 and sch. 1, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C22: Prospective affecting provision: section repealed by *Merchant Shipping (Registration of Ships) Act 2014* (43/2014), s. 7 and sch. 1, not commenced as of date of revision.
+>
+> **100**.— F74[...]
+
+### Chapter 4 Aquaculture — Chapter 4 — Aquaculture
+
+#### 101. Miscellaneous amendments to Fisheries (Amendment) Act 1997— aquaculture.
+
+**101**.— The Fisheries (Amendment) Act 1997 is amended—
+
+(*a*) in section 6(2), by substituting—
+
+(i) “€300” for “£200”, and
+
+(ii) “€2,000” for “£1,000”,
+
+(*b*) in section 10, by substituting for subsection (4) (inserted by Regulation 17 of the European Communities (Environmental Impact Assessment) (Amendment) Regulations 1999 (S.I. No. 93 of 1999)) the following:
+
+“(4) Where the submission to the Minister of an environmental impact statement is required under regulations made under subsection (3)(*d*) in respect of an application for a licence, the Minister, if requested by the applicant, shall, after consultation with such persons as the Minister considers appropriate, give a written opinion to the applicant of the information to be contained in the statement, before the applicant submits the statement.”,
+
+(*c*) by inserting after section 19 the following:
+
+“Renewal of licence after its expiration.
+
+19A.— (1) The power of the licensing authority to renew or to further renew an aquaculture licence under section 19 is exercisable notwithstanding the expiration of the period for which the licence was granted or renewed.
+
+(2) Where, prior to the passing of the *Sea-Fisheries and Maritime Jurisdiction Act 2006*, an aquaculture licence has been renewed or further renewed after the expiration of the period for which the licence was granted or renewed, such renewal shall be and be deemed always to have been as valid and effectual as if the licence had been renewed or further renewed on the expiration of the period in question.
+
+(3) If, because of the validation expressed to be effected by subsection (2), that subsection would, but for this subsection, conflict with a constitutional right of any person, the validation shall be subject to such limitation as is necessary to secure that it does not so conflict but shall be otherwise of full force and effect.
+
+(4) A licensee who has applied for the renewal or further renewal of an aquaculture licence shall, notwithstanding the expiration of the period for which the licence was granted or renewed but subject otherwise to the terms and conditions of the licence, be entitled to continue the aquaculture or operations in relation to aquaculture authorised by the licence pending the decision on the said application.”,
+
+(*d*) in section 34, by substituting for subsection (6) the following:
+
+“(6) Where the Minister is satisfied that a member of the Board has failed to comply with subsection (1), the Minister may, if he or she thinks fit, remove that member from office or take such other action as he or she considers appropriate and, in case a person is removed from office pursuant to this subsection, he or she shall thereafter be disqualified from membership of the Board.
+
+(7) Where the Board is satisfied that a person who is not a member of the Board has failed to comply with subsection (1), the Board shall decide the appropriate action (including removal from office or termination of contract) to be taken.
+
+(8) For the purposes of this section a person shall not be regarded as having an interest in any matter by reason only of an interest of that person, or of any company in which he or she has an interest, which is so remote or insignificant that it cannot reasonably be regarded as likely to influence a person in considering, discussing or in voting on, any question relating to the matter, or in performing any function in relation to that matter.”,
+
+(*e*) in section 57(6), by substituting “€600” for “£500”,
+
+(*f*) in section 65—
+
+(i) by substituting for subsection (2) the following:
+
+“(2) A person guilty of an offence under subsection (1), section 6(1), 20 or 67(2) is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €250,000.
+
+(2A) A person guilty of an offence (other than an offence under a provision mentioned in subsection (2) or under section 6(2) or 57(6)) is liable on summary conviction to a fine not exceeding €2,000.”,
+
+and
+
+(ii) by inserting after subsection (3) the following:
+
+“(4) Notwithstanding section 10(4) of the Petty Sessions (Ireland) Act 1851, summary proceedings for an offence under subsection (1) or section 6(1) may be instituted within 12 months from the date on which the offence was committed.”,
+
+(*g*) by inserting after section 65 the following:
+
+“Offence by body corporate, etc.
+
+65A.— Where an offence under this Act is committed by a body corporate or by a person purporting to act on behalf of a body corporate or on behalf of an unincorporated body of persons and it is proved to have been so committed with the consent or connivance of or to be attributable to any neglect on the part of any other person who, when the offence was committed, was, or purported to act as, a director, manager, secretary or other officer (including a member of such body) such other person as well as the body, or the person so purporting to act on behalf of the body, is guilty of an offence and is liable to be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
+
+Prosecutor may appeal dismissal of proceedings in District Court.
+
+65B.— (1) Where any proceedings tried summarily in the District Court for an offence under this Act are dismissed, whether on the merits or without prejudice, the prosecutor may appeal against the order of dismissal to the judge of the Circuit Court within whose Circuit the courthouse in which the order was made is situated.
+
+(2) The judge of the Circuit Court on an appeal under subsection (1) may vary, confirm or reverse the order and his or her decision is final and conclusive and not appealable.”,
+
+(*h*) by inserting after section 67 the following:
+
+“Reduction in licensed area, etc.
+
+67A.— The Minister may, on the application of a licensee and subject to such conditions (if any) as the Minister may consider appropriate in the circumstances and specifies in writing, reduce the area or permitted aquaculture or both to which the licensee’s licence relates, absolutely or for such period as the Minister specifies in writing and the licence shall have effect and be noted accordingly in the register of licences maintained under section 78.
+
+Permission of use of novel or experimental equipment by licensee.
+
+67B.— The Minister may, on the application of a licensee and subject to such conditions (if any) as the Minister may consider appropriate in the circumstances and specifies in writing, permit the licensee to use novel or experimental equipment within the licensed area for such period as the Minister specifies in writing. Such permission shall be granted only if the Minister is satisfied that the use of the novel or experimental equipment will have no greater environmental or visual impact than that which existed prior to the introduction and use of such equipment and shall be noted in the register of licences maintained under section 78.”,
+
+(*i*) in section 68(1) and (2), by deleting “and section 69(2)”, and
+
+(*j*) by substituting for section 69 the following:
+
+“Cesser of aquaculture licences in certain circumstances.
+
+69.— (1) (*a*) Subject to paragraph (*b*), where aquaculture in respect of which a licence has been granted has not commenced within 2 years after the date on which the licence was granted, the licence ceases to have effect.
+
+(*b*) A licensee, who considers that there are exceptional reasons why aquaculture, in respect of which a licence has been granted to the licensee, has not been commenced or cannot commence within the period specified in paragraph (*a*), may apply to the Minister, giving those reasons, for a determination that the licence concerned shall not cease to have effect.
+
+(*c*) The Minister may, at his or her discretion, having considered the reasons given by the licensee under paragraph (*b*), determine whether or not the licence shall cease to have effect. The determination of the Minister is final.
+
+(2) (*a*) Subject to paragraph (*b*), where aquaculture in respect of which a licence has been granted has ceased for a continuous period of 2 years, the Minister shall, without compensation to the licensee, revoke the licence.
+
+(*b*) A licensee, who considers that there are exceptional reasons why aquaculture, in respect of which a licence has been granted to the licensee, has ceased or is likely to cease for the period referred to in paragraph (*a*), may apply to the Minister, giving those reasons, for a determination not to revoke the licence.
+
+(*c*) The Minister may, in his or her discretion, having considered the reasons given by the licensee under paragraph (*b*), determine whether or not to revoke the licence. The determination of the Minister is final.
+
+(*d*) This subsection is deemed to have come into operation on 30 June 1998.”.
+
+### Chapter 5 Fishery Harbour Centres — Chapter 5 — Fishery Harbour Centres
+
+#### 102. Amendment of section 4 of Fishery Harbour Centres Act 1968.
+
+**102**.— Section 4 of the Fishery Harbour Centres Act 1968 is amended by—
+
+(*a*) inserting the following subsection after subsection (2):
+
+“(2A) (*a*) Any ship or boat in respect of which any rate, toll or other charge payable pursuant to an order under subsection (2)(*b*) is in arrears may not be disposed of without the consent of the Minister.
+
+(*b*) A reference in this subsection and in subsection (2) to a ship or boat includes the capacity of it.”,
+
+and
+
+(*b*) deleting subsection (8).
+
+### Chapter 6 Dumping at Sea — Chapter 6 — Dumping at Sea
+
+#### 103. Amendment of Dumping at Sea Act 1996.
+
+**103**.— The Dumping at Sea Act 1996 is amended—
+
+(*a*) in section 1—
+
+(i) by inserting the following definitions:
+
+“‘exclusive economic zone of the State’ and ‘inland waters and territorial seas of the State’ have the meanings assigned by *Part 3* of the *Sea-Fisheries and Maritime Jurisdiction Act 2006*;”,
+
+(ii) by substituting for the definition of “the maritime area” the following:
+
+“‘the maritime area’ comprises—
+
+(I) the inland waters and territorial seas of the State, and the seabed and subsoil beneath them,
+
+(II) any area for the time being standing designated by order under section 2 of the Continental Shelf Act 1968 for the purposes of that Act, and the waters above it, and
+
+(III) the exclusive economic zone of the State;”,
+
+and
+
+(iii) by deleting the definition of “territorial seas of the State”,
+
+(*b*) in section 6(1), by substituting for paragraph (*f*) the following:
+
+“(*f*) Every member of the Permanent Defence Forces (not below the rank of leading seaman or corporal) for the time being serving on board any ship, vessel or aircraft belonging to or employed in the service of the State shall be an authorised officer for the purposes of this Act.”,
+
+(*c*) in section 10(2)(*b*), by inserting after “Attorney General” the following:
+
+“or the Director of Public Prosecutions, from the day appointed by an order made under section 12 (inserted by *section 103* of the *Sea-Fisheries and Maritime Jurisdiction Act 2006*) of this Act,”,
+
+and
+
+(*d*) by inserting the following section after section 11:
+
+“Prosecution of offences by DPP.
+
+12.— (1) The Government, on the request of the Attorney General, may by order appoint a day from which the Director of Public Prosecutions, subject to subsection (2), is the prosecutor, in lieu of the Attorney General, of offences under this Act. That order shall be laid before each House of the Oireachtas as soon as may be after it is made.
+
+(2) Any proceedings which have been instituted in the name of the Attorney General before the commencement of an order under subsection (1) are still pending and have not been determined before that commencement continue in the name of the Attorney General after that commencement.
+
+(3) Section 11 of this Act standsrepealed upon the commencement of an order made under subsection (1).”.
+
+### Chapter 7 Maritime Safety — Chapter 7 — Maritime Safety
+
+#### 104. Amendment of Maritime Safety Act 2005.
+
+**104**.— The Maritime Safety Act 2005 is amended—
+
+(*a*) in section 2(1), by substituting “*Part 3* of the *Sea-Fisheries and Maritime Jurisdiction Act 2006*” for “the Maritime Jurisdiction Act 1959 (as amended by the Maritime Jurisdiction (Amendment) Act 1988)”,
+
+(*b*) in section 17(1), by substituting “Part” for “Act”,
+
+(*c*) in section 36(1)(*a*), by substituting “any of the matters referred to in section 35(1)” for “the safe operation, or any of the matters referred to in subsection (1)”,
+
+(*d*) in section 38—
+
+(i) in subsection (1), by substituting the following paragraphs for paragraph (*c*):
+
+“(*c*) securing safe navigable routes,
+
+(*cc*) securing that search and rescue and search and recovery operations can be conducted safely, or”,
+
+and
+
+(ii) in subsection (3), by substituting the following paragraph for paragraph (*d*):
+
+“(*d*) the temporary prevention of or restriction on the navigation of vessels within a specified area or specified areas, or the establishment and maintenance of a temporary exclusion zone around a vessel, structure or other thing that is sunk, wrecked, damaged or in distress, for the purposes of allowing any directions or actions under this section to be carried out safely, and”,
+
+and
+
+(*e*) in section 46(2), by substituting “sections 23, 24, 37 and 38” for “sections 23 and 24”.
+
+## SCHEDULE 1 — Enactments Repealed
+
+| Session and Chapter or Number and Year | Short Title or Subject | Extent of Repeal |
+|---|---|---|
+| (1) | (2) | (3) |
+| 33 Hen. 6, c.9 | Ships guarding sea between Ireland and England to have certain tolls (1455) | The whole Act |
+| 38 Hen. 6, c.14 | Payments by fishermen and for boats protected at sea (1460) | The whole Act |
+| 10 Edw. 4, c.10 | Protection for herring fishery at Dublin (1470) | The whole Act |
+| 8 & 9 Hen. 8 [c.9] | Foreigners fishing off coast to land one-third of catch in Ireland (1516) | The whole Act |
+| 8 & 9 Vic. 1845, c.108 | Fisheries (Ireland) Act 1845 | Sections 7 and 8 |
+| 9 Vic. 1846, c.3 | Fisheries (Ireland) Act 1846 | The whole Act |
+| 57 & 58 Vic., c.60 | Merchant Shipping Act 1894 | Sections 371 to 374 |
+| 9 Edw. 7, 1909, c.8 | Trawling in Prohibited Areas Prevention Act 1909 | The whole Act |
+| No. 33 of 1931 | Fisheries (Revision of Loans) Act 1931 | The whole Act |
+| No. 21 of 1951 | Freshwater Fisheries (Prohibition of Netting) Act 1951 | The whole Act |
+| No. 25 of 1951 | Fishing Licences (Moville District) Act 1951 | The whole Act |
+| No. 14 of 1959 | Fisheries (Consolidation) Act 1959 | Part XIII, sections 309(2) and 314(4) |
+| No. 22 of 1959 | Maritime Jurisdiction Act 1959 | The whole Act |
+| No. 31 of 1962 | Fisheries (Amendment) Act 1962 | Sections 19 to 23, 32(3), (4) and (5) and 34 and in the Table to section 32 at Ref. No. 1 “237, 238, 239, 240, 241, 242, 243,” and at Ref. No. 10 “233, 236,” |
+| No. 32 of 1964 | Maritime Jurisdiction (Amendment) Act 1964 | The whole Act |
+| No. 25 of 1974 | Fisheries (Amendment) Act 1974 | The whole Act |
+| No. 18 of 1978 | Fisheries (Amendment) Act 1978 | The whole Act |
+| No. 1 of 1980 | Fisheries Act 1980 | Sections 48, 49, 72, 73 and 75 and in the Table to section 50 at Ref. No. 2 “240, 241, 242, 243,” and at Ref. No. 3 “237, 238, 239,” |
+| No. 27 of 1983 | Fisheries (Amendment) Act 1983 | The whole Act |
+| No. 9 of 1988 | Maritime Jurisdiction (Amendment) Act 1988 | The whole Act |
+| No. 23 of 1994 | Fisheries (Amendment) Act 1994 | Sections 1(4) and (5), 3 to 14 and 16 |
+| No. 21 of 2003 | Fisheries (Amendment) Act 2003 | Sections 26(1) and (9), 28 and 30 |
+| No. 11 of 2005 | Maritime Safety Act 2005 | Section 53 |
+
+## SCHEDULE 2 — United Nations Convention on the Law of the Sea 1982
+
+Part V - Exclusive Economic Zone
+
+**Article 55**
+
+*Specific Legal Regime of the Exclusive Economic Zone*
+
+The exclusive economic zone is an area beyond and adjacent to the territorial sea, subject to the specific legal regime established in this Part, under which the rights and jurisdiction of the coastal State and the rights and freedoms of other States are governed by the relevant provisions of this Convention.
+
+**Article 56**
+
+*Rights, Jurisdiction and Duties of the Coastal State in the Exclusive Economic Zone*
+
+1\. In the exclusive economic zone, the coastal State has:
+
+(*a*) sovereign rights for the purpose of exploring and exploiting, conserving and managing the natural resources, whether living or non-living, of the waters superjacent to the seabed and of the seabed and its subsoil, and with regard to other activities for the economic exploitation and exploration of the zone, such as the production of energy from the water, currents and winds;
+
+(*b*) jurisdiction as provided for in the relevant provisions of this Convention with regard to:
+
+(i) the establishment and use of artificial islands, installations and structures;
+
+(ii) marine scientific research;
+
+(iii) the protection and preservation of the marine environment;
+
+(*c*) other rights and duties provided for in this Convention.
+
+2\. In exercising its rights and performing its duties under this Convention in the exclusive economic zone, the coastal State shall have due regard to the rights and duties of other States and shall act in a manner compatible with the provisions of this Convention.
+
+3\. The rights set out in this article with respect to the seabed and subsoil shall be exercised in accordance with Part VI.
+
+**Article 57**
+
+*Breadth of the Exclusive Economic Zone*
+
+The exclusive economic zone shall not extend beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured.
+
+**Article 58**
+
+*Rights and duties of other States in the Exclusive Economic Zone*
+
+1\. In the exclusive economic zone, all States, whether coastal or land-locked, enjoy, subject to the relevant provisions of this Convention, the freedoms referred to in article 87 of navigation and over-flight and of the laying of submarine cables and pipelines, and other internationally lawful uses of the sea related to these freedoms, such as those associated with the operation of ships, aircraft and submarine cables and pipelines, and compatible with the other provisions of this Convention.
+
+2\. Articles 88 to 115 and other pertinent rules of international law apply to the exclusive economic zone in so far as they are not incompatible with this Part.
+
+3\. In exercising their rights and performing their duties under this Convention in the exclusive economic zone, States shall have due regard to the rights and duties of the coastal State and shall comply with the laws and regulations adopted by the coastal State in accordance with the provisions of this Convention and other rules of international law in so far as they are not incompatible with this Part.
+
+**Article 59**
+
+*Basis for the resolution of conflicts regarding the attribution of rights and jurisdiction in the Exclusive Economic Zone*
+
+In cases where this Convention does not attribute rights or jurisdiction to the coastal State or to other States within the exclusive economic zone, and a conflict arises between the interests of the coastal State and any other State or States, the conflict should be resolved on the basis of equity and in the light of all the relevant circumstances, taking into account the respective importance of the interests involved to the parties as well as to the international community as a whole.
+
+**Article 60**
+
+*Artificial Islands, Installations and Structures in the Exclusive Economic Zone*
+
+1\. In the exclusive economic zone, the coastal State shall have the exclusive right to construct and to authorize and regulate the construction, operation and use of:
+
+(*a*) artificial islands;
+
+(*b*) installations and structures for the purposes provided for in article 56 and other economic purposes;
+
+(*c*) installations and structures which may interfere with the exercise of the rights of the coastal State in the zone.
+
+2\. The coastal State shall have exclusive jurisdiction over such artificial islands, installations and structures, including jurisdiction with regard to customs, fiscal, health, safety and immigration laws and regulations.
+
+3\. Due notice must be given of the construction of such artificial islands, installations or structures, and permanent means for giving warning of their presence must be maintained. Any installations or structures which are abandoned or disused shall be removed to ensure safety of navigation, taking into account any generally accepted international standards established in this regard by the competent international organization. Such removal shall also have due regard to fishing, the protection of the marine environment and the rights and duties of other States. Appropriate publicity shall be given to the depth, position and dimensions of any installations or structures not entirely removed.
+
+4\. The coastal State may, where necessary, establish reasonable safety zones around such artificial islands, installations and structures in which it may take appropriate measures to ensure the safety both of navigation and of the artificial islands, installations and structures.
+
+5\. The breadth of the safety zones shall be determined by the coastal State, taking into account applicable international standards. Such zones shall be designed to ensure that they are reasonably related to the nature and function of the artificial islands, installations or structures, and shall not exceed a distance of 500 metres around them, measured from each point of their outer edge, except as authorized by generally accepted international standards or as recommended by the competent international organization. Due notice shall be given of the extent of safety zones.
+
+6\. All ships must respect these safety zones and shall comply with generally accepted international standards regarding navigation in the vicinity of artificial islands, installations, structures and safety zones.
+
+7\. Artificial islands, installations and structures and the safety zones around them may not be established where interference may be caused to the use of recognized sea lanes essential to international navigation.
+
+8\. Artificial islands, installations and structures do not possess the status of islands. They have no territorial sea of their own, and their presence does not affect the delimitation of the territorial sea, the exclusive economic zone or the continental shelf.
+
+**Article 61**
+
+*Conservation of the Living Resources*
+
+1\. The coastal State shall determine the allowable catch of the living resources in its exclusive economic zone.
+
+2\. The coastal State, taking into account the best scientific evidence available to it, shall ensure through proper conservation and management measures that the maintenance of the living resources in the exclusive economic zone is not endangered by over-exploitation. As appropriate, the coastal State and competent international organizations, whether subregional, regional or global, shall cooperate to this end.
+
+3\. Such measures shall also be designed to maintain or restore populations of harvested species at levels which can produce the maximum sustainable yield, as qualified by relevant environmental and economic factors, including the economic needs of coastal fishing communities and the special requirements of developing States, and taking into account fishing patterns, the interdependence of stocks and any generally recommended international minimum standards, whether subregional, regional or global.
+
+4\. In taking such measures the coastal State shall take into consideration the effects on species associated with or dependent upon harvested species with a view to maintaining or restoring populations of such associated or dependent species above levels at which their reproduction may become seriously threatened.
+
+5\. Available scientific information, catch and fishing effort statistics, and other data relevant to the conservation of fish stocks shall be contributed and exchanged on a regular basis through competent international organizations, whether subregional, regional or global, where appropriate and with participation by all States concerned, including States whose nationals are allowed to fish in the exclusive economic zone.
+
+**Article 62**
+
+*Utilization of the Living Resources*
+
+1\. The coastal State shall promote the objective of optimum utilization of the living resources in the exclusive economic zone without prejudice to article 61.
+
+2\. The coastal State shall determine its capacity to harvest the living resources of the exclusive economic zone. Where the coastal State does not have the capacity to harvest the entire allowable catch, it shall, through agreements or other arrangements and pursuant to the terms, conditions, laws and regulations referred to in paragraph 4, give other States access to the surplus of the allowable catch, having particular regard to the provisions of articles 69 and 70, especially in relation to the developing States mentioned therein.
+
+3\. In giving access to other States to its exclusive economic zone under this article, the coastal State shall take into account all relevant factors, including, *inter alia*, the significance of the living resources of the area to the economy of the coastal State concerned and its other national interests, the provisions of articles 69 and 70, the requirements of developing States in the subregion or region in harvesting part of the surplus and the need to minimize economic dislocation in States whose nationals have habitually fished in the zone or which have made substantial efforts in research and identification of stocks.
+
+4\. Nationals of other States fishing in the exclusive economic zone shall comply with the conservation measures and with the other terms and conditions established in the laws and regulations of the coastal State. These laws and regulations shall be consistent with this Convention and may relate, *inter alia*, to the following:
+
+(*a*) licensing of fishermen, fishing vessels and equipment, including payment of fees and other forms of remuneration, which, in the case of developing coastal States, may consist of adequate compensation in the field of financing, equipment and technology relating to the fishing industry;
+
+(*b*) determining the species which may be caught, and fixing quotas of catch, whether in relation to particular stocks or groups of stocks or catch per vessel over a period of time or to the catch by nationals of any State during a specified period;
+
+(*c*) regulating seasons and areas of fishing, the types, sizes and amount of gear, and the types, sizes and number of fishing vessels that may be used;
+
+(*d*) fixing the age and size of fish and other species that may be caught;
+
+(*e*) specifying information required of fishing vessels, including catch and effort statistics and vessel position reports;
+
+(*f*) requiring, under the authorization and control of the coastal State, the conduct of specified fisheries research programmes and regulating the conduct of such research, including the sampling of catches, disposition of samples and reporting of associated scientific data;
+
+(*g*) the placing of observers or trainees on board such vessels by the coastal State;
+
+(*h*) the landing of all or any part of the catch by such vessels in the ports of the coastal State;
+
+(*i*) terms and conditions relating to joint ventures or other cooperative arrangements;
+
+(*j*) requirements for the training of personnel and the transfer of fisheries technology, including enhancement of the coastal State’s capability of undertaking fisheries research;
+
+(*k*) enforcement procedures.
+
+5\. Coastal States shall give due notice of conservation and management laws and regulations.
+
+**Article 63**
+
+*Stocks occurring within the Exclusive Economic Zones of two or more Coastal States or both within the Exclusive Economic Zone and in an area beyond and adjacent to it*
+
+1\. Where the same stock or stocks of associated species occur within the exclusive economic zones of two or more coastal States, these States shall seek, either directly or through appropriate subregional or regional organizations, to agree upon the measures necessary to coordinate and ensure the conservation and development of such stocks without prejudice to the other provisions of this Part.
+
+2\. Where the same stock or stocks of associated species occur both within the exclusive economic zone and in an area beyond and adjacent to the zone, the coastal State and the States fishing for such stocks in the adjacent area shall seek, either directly or through appropriate subregional or regional organizations, to agree upon the measures necessary for the conservation of these stocks in the adjacent area.
+
+**Article 64**
+
+*Highly Migratory Species*
+
+1\. The coastal State and other States whose nationals fish in the region for the highly migratory species listed in Annex I shall cooperate directly or through appropriate international organizations with a view to ensuring conservation and promoting the objective of optimum utilization of such species throughout the region, both within and beyond the exclusive economic zone. In regions for which no appropriate international organization exists, the coastal State and other States whose nationals harvest these species in the region shall cooperate to establish such an organization and participate in its work.
+
+2\. The provisions of paragraph 1 apply in addition to the other provisions of this Part.
+
+**Article 65**
+
+*Marine Mammals*
+
+Nothing in this Part restricts the right of a coastal State or the competence of an international organization, as appropriate, to prohibit, limit or regulate the exploitation of marine mammals more strictly than provided for in this Part. States shall cooperate with a view to the conservation of marine mammals and in the case of cetaceans shall in particular work through the appropriate international organizations for their conservation, management and study.
+
+**Article 66**
+
+*Anadromous Stocks*
+
+1\. States in whose rivers anadromous stocks originate shall have the primary interest in and responsibility for such stocks.
+
+2\. The State of origin of anadromous stocks shall ensure their conservation by the establishment of appropriate regulatory measures for fishing in all waters landward of the outer limits of its exclusive economic zone and for fishing provided for in paragraph 3(*b*). The State of origin may, after consultations with the other States referred to in paragraphs 3 and 4 fishing these stocks, establish total allowable catches for stocks originating in its rivers.
+
+3\. (*a*) Fisheries for anadromous stocks shall be conducted only in waters landward of the outer limits of exclusive economic zones, except in cases where this provision would result in economic dislocation for a State other than the State of origin. With respect to such fishing beyond the outer limits of the exclusive economic zone, States concerned shall maintain consultations with a view to achieving agreement on terms and conditions of such fishing giving due regard to the conservation requirements and the needs of the State of origin in respect of these stocks.
+
+(*b*) The State of origin shall cooperate in minimizing economic dislocation in such other States fishing these stocks, taking into account the normal catch and the mode of operations of such States, and all the areas in which such fishing has occurred.
+
+(*c*) States referred to in subparagraph (*b*), participating by agreement with the State of origin in measures to renew anadromous stocks, particularly by expenditures for that purpose, shall be given special consideration by the State of origin in the harvesting of stocks originating in its rivers.
+
+(*d*) Enforcement of regulations regarding anadromous stocks beyond the exclusive economic zone shall be by agreement between the State of origin and the other States concerned.
+
+4\. In cases where anadromous stocks migrate into or through the waters landward of the outer limits of the exclusive economic zone of a State other than the State of origin, such State shall cooperate with the State of origin with regard to the conservation and management of such stocks.
+
+5\. The State of origin of anadromous stocks and other States fishing these stocks shall make arrangements for the implementation of the provisions of this article, where appropriate, through regional organizations.
+
+**Article 67**
+
+*Catadromous Species*
+
+1\. A coastal State in whose waters catadromous species spend the greater part of their life cycle shall have responsibility for the management of these species and shall ensure the ingress and egress of migrating fish.
+
+2\. Harvesting of catadromous species shall be conducted only in waters landward of the outer limits of exclusive economic zones. When conducted in exclusive economic zones, harvesting shall be subject to this article and the other provisions of this Convention concerning fishing in these zones.
+
+3\. In cases where catadromous fish migrate through the exclusive economic zone of another State, whether as juvenile or maturing fish, the management, including harvesting, of such fish shall be regulated by agreement between the State mentioned in paragraph 1 and the other State concerned. Such agreement shall ensure the rational management of the species and take into account the responsibilities of the State mentioned in paragraph 1 for the maintenance of these species.
+
+**Article 68**
+
+*Sedentary Species*
+
+This Part does not apply to sedentary species as defined in article 77, paragraph 4.
+
+**Article 69**
+
+*Right of Land-Locked States*
+
+1\. Land-locked States shall have the right to participate, on an equitable basis, in the exploitation of an appropriate part of the surplus of the living resources of the exclusive economic zones of coastal States of the same subregion or region, taking into account the relevant economic and geographical circumstances of all the States concerned and in conformity with the provisions of this article and of articles 61 and 62.
+
+2\. The terms and modalities of such participation shall be established by the States concerned through bilateral, subregional or regional agreements taking into account, *inter alia*:
+
+(*a*) the need to avoid effects detrimental to fishing communities or fishing industries of the coastal State;
+
+(*b*) the extent to which the land-locked State, in accordance with the provisions of this article, is participating or is entitled to participate under existing bilateral, subregional or regional agreements in the exploitation of living resources of the exclusive economic zones of other coastal States;
+
+(*c*) the extent to which other land-locked States and geographically disadvantaged States are participating in the exploitation of the living resources of the exclusive economic zone of the coastal State and the consequent need to avoid a particular burden for any single coastal State or a part of it;
+
+(*d*) the nutritional needs of the populations of the respective States.
+
+3\. When the harvesting capacity of a coastal State approaches a point which would enable it to harvest the entire allowable catch of the living resources in its exclusive economic zone, the coastal State and other States concerned shall cooperate in the establishment of equitable arrangements on a bilateral, subregional or regional basis to allow for participation of developing land-locked States of the same subregion or region in the exploitation of the living resources of the exclusive economic zones of coastal States of the subregion or region, as may be appropriate in the circumstances and on terms satisfactory to all parties. In the implementation of this provision the factors mentioned in paragraph 2 shall also be taken into account.
+
+4\. Developed land-locked States shall, under the provisions of this article, be entitled to participate in the exploitation of living resources only in the exclusive economic zones of developed coastal States of the same subregion or region having regard to the extent to which the coastal State, in giving access to other States to the living resources of its exclusive economic zone, has taken into account the need to minimize detrimental effects on fishing communities and economic dislocation in States whose nationals have habitually fished in the zone.
+
+5\. The above provisions are without prejudice to arrangements agreed upon in subregions or regions where the coastal States may grant to land-locked States of the same subregion or region equal or preferential rights for the exploitation of the living resources in the exclusive economic zones.
+
+**Article 70**
+
+*Right of Geographically Disadvantaged States*
+
+1\. Geographically disadvantaged States shall have the right to participate, on an equitable basis, in the exploitation of an appropriate part of the surplus of the living resources of the exclusive economic zones of coastal States of the same subregion or region, taking into account the relevant economic and geographical circumstances of all the States concerned and in conformity with the provisions of this article and of articles 61 and 62.
+
+2\. For the purposes of this Part, “ geographically disadvantaged States ” means coastal States, including States bordering enclosed or semi-enclosed seas, whose geographical situation makes them dependent upon the exploitation of the living resources of the exclusive economic zones of other States in the subregion or region for adequate supplies of fish for the nutritional purposes of their populations or parts thereof, and coastal States which can claim no exclusive economic zones of their own.
+
+3\. The terms and modalities of such participation shall be established by the States concerned through bilateral, subregional or regional agreements taking into account, *inter alia*:
+
+(*a*) the need to avoid effects detrimental to fishing communities or fishing industries of the coastal State;
+
+(*b*) the extent to which the geographically disadvantaged State, in accordance with the provisions of this article, is participating or is entitled to participate under existing bilateral, subregional or regional agreements in the exploitation of living resources of the exclusive economic zones of other coastal States;
+
+(*c*) the extent to which other geographically disadvantaged States and land-locked States are participating in the exploitation of the living resources of the exclusive economic zone of the coastal State and the consequent need to avoid a particular burden for any single coastal State or a part of it;
+
+(*d*) the nutritional needs of the populations of the respective States.
+
+4\. When the harvesting capacity of a coastal State approaches a point which would enable it to harvest the entire allowable catch of the living resources in its exclusive economic zone, the coastal State and other States concerned shall cooperate in the establishment of equitable arrangements on a bilateral, subregional or regional basis to allow for participation of developing geographically disadvantaged States of the same subregion or region in the exploitation of the living resources of the exclusive economic zones of coastal States of the subregion or region, as may be appropriate in the circumstances and on terms satisfactory to all parties. In the implementation of this provision the factors mentioned in paragraph 3 shall also be taken into account.
+
+5\. Developed geographically disadvantaged States shall, under the provisions of this article, be entitled to participate in the exploitation of living resources only in the exclusive economic zones of developed coastal States of the same subregion or region having regard to the extent to which the coastal State, in giving access to other States to the living resources of its exclusive economic zone, has taken into account the need to minimize detrimental effects on fishing communities and economic dislocation in States whose nationals have habitually fished in the zone.
+
+6\. The above provisions are without prejudice to arrangements agreed upon in subregions or regions where the coastal States may grant to geographically disadvantaged States of the same subregion or region equal or preferential rights for the exploitation of the living resources in the exclusive economic zones.
+
+**Article 71**
+
+*Non-Applicability of Articles 69 and 70*
+
+The provisions of articles 69 and 70 do not apply in the case of a coastal State whose economy is overwhelmingly dependent on the exploitation of the living resources of its exclusive economic zone.
+
+**Article 72**
+
+*Restrictions on Transfer of Rights*
+
+1\. Rights provided under articles 69 and 70 to exploit living resources shall not be directly or indirectly transferred to third States or their nationals by lease or licence, by establishing joint ventures or in any other manner which has the effect of such transfer unless otherwise agreed by the States concerned.
+
+2\. The foregoing provision does not preclude the States concerned from obtaining technical or financial assistance from third States or international organizations in order to facilitate the exercise of the rights pursuant to articles 69 and 70, provided that it does not have the effect referred to in paragraph 1.
+
+**Article 73**
+
+*Enforcement of Laws and Regulations of the Coastal State*
+
+1\. The coastal State may, in the exercise of its sovereign rights to explore, exploit, conserve and manage the living resources in the exclusive economic zone, take such measures, including boarding, inspection, arrest and judicial proceedings, as may be necessary to ensure compliance with the laws and regulations adopted by it in conformity with this Convention.
+
+2\. Arrested vessels and their crews shall be promptly released upon the posting of reasonable bond or other security.
+
+3\. Coastal State penalties for violations of fisheries laws and regulations in the exclusive economic zone may not include imprisonment, in the absence of agreements to the contrary by the States concerned, or any other form of corporal punishment.
+
+4\. In cases of arrest or detention of foreign vessels the coastal State shall promptly notify the flag State, through appropriate channels, of the action taken and of any penalties subsequently imposed.
+
+**Article 74**
+
+*Delimitation of the Exclusive Economic Zone between States with opposite or Adjacent Coasts*
+
+1\. The delimitation of the exclusive economic zone between States with opposite or adjacent coasts shall be effected by agreement on the basis of international law, as referred to in Article 38 of the Statute of the International Court of Justice, in order to achieve an equitable solution.
+
+2\. If no agreement can be reached within a reasonable period of time, the States concerned shall resort to the procedures provided for in Part XV.
+
+3\. Pending agreement as provided for in paragraph 1, the States concerned, in a spirit of understanding and cooperation, shall make every effort to enter into provisional arrangements of a practical nature and, during this transitional period, not to jeopardize or hamper the reaching of the final agreement. Such arrangements shall be without prejudice to the final delimitation.
+
+4\. Where there is an agreement in force between the States concerned, questions relating to the delimitation of the exclusive economic zone shall be determined in accordance with the provisions of that agreement.
+
+**Article 75**
+
+*Charts and Lists of Geographical Coordinates*
+
+1\. Subject to this Part, the outer limit lines of the exclusive economic zone and the lines of delimitation drawn in accordance with article 74 shall be shown on charts of a scale or scales adequate for ascertaining their position. Where appropriate, lists of geographical coordinates of points, specifying the geodetic datum, may be substituted for such outer limit lines or lines of delimitation.
+
+2\. The coastal State shall give due publicity to such charts or lists of geographical coordinates and shall deposit a copy of each such chart or list with the Secretary-General of the United Nations.
+
+## SCHEDULE 3 — Functions under Regulations which are Transferred
+
+| European Communities (Aquaculture Animals and Fish) (Placing on the Market and Control of Certain Diseases) Regulations 1996 | (S.I. No. 253 of 1996) |
+|---|---|
+| European Communities (Trade in Fish) Regulations 1997 | (S.I. No. 191 of 1997) |
+| European Communities (Minimum measures for the control of certain diseases affecting bivalve molluscs) Regulations 1999 | (S.I. No. 26 of 1999) |
+| European Communities (Animal By-products) Regulations 2003 | (S.I. No. 248 of 2003) |
+| European Communities (Labelling of Fishery and Aquaculture Products) Regulations 2003 | (S.I. No. 320 of 2003) |
+| European Communities (Financing of Veterinary Inspections and Controls on Fish and Fishery Products at Approved Establishments and on Factory Vessels) Regulations 2003 | (S.I. No. 544 of 2003) |
+| European Communities (Financing of Veterinary Inspections and Controls on Fish and Fishery Products on Irish Fishing Vessels) Regulations 2003 | (S.I. No. 545 of 2003) |
+| European Communities (Financing of Veterinary Inspections and Controls on Fish and Fishery Products at Border Inspection Posts) Regulations 2003 | (S.I. No. 546 of 2003) |
+| European Communities (Financing of Veterinary Inspections and Controls on Fresh Fish landed by Third Country Vessels) Regulations 2003 | (S.I. No. 547 of 2003) |
+| European Communities (Veterinary Checks on Fish and Fishery Products Imported from Third Countries) Regulations 2003 | (S.I. No. 548 of 2003) |
+| European Communities (Common Organisation of Markets in Fishery and Aquaculture Products) (Financial Compensation for Withdrawal and Carry-over Aid) Regulations 2004 | (S.I. No. 398 of 2004) |
+
+[^1]: OJ No. L 343, 22.12.2009, p. 1
+[^2]: OJ No. L358, 31.12.2002, p.59
+[^3]: OJ No. L169, 1.7.2015, p. 1
+[^4]: OJ No. L 343, 22.12.2009, p. 1
+[^5]: OJ No. L 287, 31.10.2015, p. 6
+[^6]: OJ No. L 9, 15.1.2020, p. 3
+[^7]: OJ No. L 200, 24.06.2020, p. 1
+[^8]: OJ No. L 343, 22. 12. 2009, p. 1
+[^9]: OJ No. L 354, 28.12.2013, p. 1
+[^10]: OJ No. L 354, 28.12.2013, p. 22
+[^11]: OJ No. L 354, 28.12.2013, p. 86
+[^12]: OJ No. L 149, 20.05.2014, p. 1
+[^13]: OJ No. L 133, 29.05.2015, p. 1
+[^14]: OJ No. L 83, 25.03.2019, p. 18
+[^15]: OJ No. L 198, 25.07.2019, p. 105
+[^16]: OJ No. L 286, 29.10.2008, p. 1
+[^17]: OJ No. L 280, 27.10.2009, p. 5
+[^18]: OJ No. L 26, 30.01.2010, p. 1
+[^19]: OJ No. L 57, 02.03.2011, p. 10
+[^20]: OJ No. L 119, 4.5.2016, p.1.
+[^21]: OJ No. L333, 20.12.2003, p.17
+[^22]: OJ No. L358, 31.12.2002, p.59

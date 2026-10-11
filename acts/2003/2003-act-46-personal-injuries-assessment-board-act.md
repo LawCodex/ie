@@ -1,0 +1,2736 @@
+---
+title: "Personal Injuries Assessment Board Act 2003"
+identifier: "eli/2003/act/46"
+type: act
+jurisdiction: ie
+language: en
+number: 46
+year: 2003
+date: 2003-12-28
+last_amended: 2025-12-01
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2003/act/46/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2003/act/46/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Personal Injuries Assessment Board Act 2003
+
+AN ACT TO ENABLE, IN CERTAIN SITUATIONS, THE MAKING OF ASSESSMENTS, WITHOUT THE NEED FOR LEGAL PROCEEDINGS TO BE BROUGHT IN THAT BEHALF, OF COMPENSATION FOR PERSONAL INJURIES (OR BOTH SUCH INJURIES AND PROPERTY DAMAGE), IN THOSE SITUATIONS TO PROHIBIT, IN THE INTERESTS OF THE COMMON GOOD, THE BRINGING OF LEGAL PROCEEDINGS UNLESS ANY OF THE PARTIES CONCERNED DECIDES NOT TO ACCEPT THE PARTICULAR ASSESSMENT OR CERTAIN OTHER CIRCUMSTANCES APPLY, TO PROVIDE FOR THE ENFORCEMENT OF SUCH AN ASSESSMENT, FOR THOSE PURPOSES TO ESTABLISH A BODY TO BE KNOWN AS THE PERSONAL INJURIES ASSESSMENT BOARD AND TO DEFINE ITS FUNCTIONS AND TO PROVIDE FOR RELATED MATTERS. [28*th December*, 2003]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications etc. (not altering text):**
+>
+> C1: Name of Personal Injuries Assessment Board changed (14.12.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 2, S.I. No. 626 of 2023, art. 3 and *Personal Injuries Resolution Board Act 2022 (Change of Name of Board) Order 2023* (S.I. No. 627 of 2023), art. 2
+>
+> **Change of name of Board**
+>
+> 2\. (1) The Personal Injuries Assessment Board, shall on and from such day as the Minister appoints by order be known, in the Irish language, as An Bord um Réiteach Díobhálacha Pearsanta and, in the English language, as the Personal Injuries Resolution Board.
+>
+> (2) References in any enactment, statutory instrument or legal proceedings or any other document to the Personal Injuries Assessment Board shall, on and from such date as the Minister appoints under *subsection (1)* be read as references, in the Irish language, to An Bord um Réiteach Díobhálacha Pearsanta or, in the English language, to the Personal Injuries Resolution Board.
+>
+> C2: Act applied with modifications and references construed (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), ss. 19, 20, 21(2), S.I. No. 163 of 2023.
+>
+> **Application of Act of 2003**
+>
+> **19.** In relation to an application to the Personal Injuries Assessment Board to which section 14(11)(c) or section 18(6)(c) applies—
+>
+> (*a*) the Act of 2003 shall, subject to this section and section 20, apply to, and in relation to, the application, and
+>
+> (*b*) the Garda Commissioner shall be liable to pay any charges imposed by the Personal Injuries Assessment Board pursuant to regulations under *section 22* of the Act of 2003 on a claimant within the meaning of that Act to whom that application relates.
+>
+> **Modifications to application of Act of 2003**
+>
+> **20.** The Act of 2003 shall apply to, and in relation to, an application to which section 19 refers, subject to the following modifications and any other necessary modifications:
+>
+> (*a*) it shall be read as if the words “, in respect of a wrong,” in the definition of “civil action” in *section 4(1)* of the Act of 2003 were deleted;
+>
+> (*b*) an application to which section 19 refers shall be deemed to be an application made by the claimant under *section 11* of the Act of 2003;
+>
+> (*c*) it shall be read as if *subsection (5)* of *section 11* of the Act of 2003 were deleted;
+>
+> (*d*) it shall be read as if the words “rules under section 46(3)” and the words “or rules” in *section 12(1)* of the Act of 2003 were deleted;
+>
+> (*e*) it shall be read as if any reference to “respondent” were a reference to the Garda Commissioner, or to any person entitled, by or under any enactment, to act on behalf of the Garda Commissioner in an action to which *section 3(aa)* of the Act of 2003 applies;
+>
+> (*f*) it shall be read as if *section 13(1)(b)(iii)* of the Act of 2003 were deleted;
+>
+> (*g*) it shall be read as if the reference in *section 20(1)* of the Act of 2003 to the assumption that the respondent or respondents are fully liable to the claimant in respect of the claim is a reference to the assumption that the Garda Commissioner, or any person entitled, by or under any enactment, to act on behalf of the Garda Commissioner in an action to which *section 3(aa)* of the Act of 2003 applies, is fully liable to pay any award of damages made to the claimant in respect of the claim;
+>
+> (*h*) it shall be read as if *section 50* of the Act of 2003 were deleted.
+>
+> **Amendment of Act of 2003**
+>
+> **21.** — ...
+>
+> (2) A reference in the Act of 2003 to—
+>
+> (*a*) “this Act” shall, where applicable and where the context so requires, include a reference to “this Act, as applied by section 19 of the Act of 2022”,
+>
+> (*b*) “this Part” shall, where applicable and where the context so requires, include a reference to “this Part, as applied by section 19 of the Act of 2022”, and
+>
+> (*c*) “this section” shall, where applicable and where the context so requires, include a reference to “this section, as applied by section 19 of the Act of 2022
+>
+> C3: Personal Injuries Assessment Board designated a prescribed body (1.05.2006) by *Personal Injuries Assessment Board by Official Languages Act 2003 (Public Bodies) Regulations 2006* (S.I. No. 150 of 2006), art. 2 and sch. 1.
+>
+> 2\. The bodies, organisations and groups specified in Schedule 1 to these Regulations are prescribed for the purposes of paragraph 1(5) of the First Schedule to the Official Languages Act 2003 (No. 32 of 2003).
+>
+> **Schedule 1**
+>
+> ...
+>
+> Personal Injuries Assessment Board
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E1: Payment of compensation awards made subject to recovery of certain illness-related social welfare payments by *Social Welfare Consolidation Act 2005* (26/2005), Part 11B (ss. 343L to 343W) as inserted (1.08.2014) by *Social Welfare and Pensions Act 2013* (38/2013), s. 13, S.I. No. 308 of 2013.
+>
+> E2: Personal Injuries Assessment Board prescribed as person for purposes of *Finance Act 1993* (13/1993), s. 60(3) (3.09.2009) by *Finance Act 1993 (Section 60) Regulations 2009* (S.I. No. 382 of 2009) (access to motor license records established under section).
+
+## PART 1Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title.
+
+**1.**—This Act may be cited as the Personal Injuries Assessment Board Act 2003.
+
+### 2. Commencement.
+
+**2.**—This Act comes into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or different provisions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E3: Power pursuant to section exercised (22.07.2004) by *Personal Injuries Assessment Board Act 2003 (Commencement) (No. 3) Order 2004* (S.I. No. 438 of 2004).
+>
+> 3\. The 22nd day of July 2004 is appointed as the day on which paragraphs (b), (c) and (d) of section 3 of the Act come into operation.
+>
+> E4: Power pursuant to section exercised (01.06.2004) by *Personal Injuries Assessment Board Act 2003 (Commencement) (No. 2) Order 2004* (S.I. No. 252 of 2004).
+>
+> 3\. Subject to Article 4 of this Order, the 1st day of June 2004 is appointed as the day on which the Act, in so far as not already in operation, comes into operation.
+>
+> 4\. Article 3 of this Order does not apply to paragraph (*b*), (*c*) or (*d*) of section 3 of the Act.
+>
+> E5: Power pursuant to section exercised (13.04.2004) by *Personal Injuries Assessment Board Act 2003 (Commencement) Order 2004* (S.I. No. 155 of 2004).
+>
+> 3\. The 13th day of April 2004 is appointed as the day on which the following provisions of the Act come into operation, namely—
+>
+> (*a*) Part 1 (other than section 3), but only in so far as that Part relates to Part 3 and the following sections of the Act,
+>
+> (*b*) sections 22, 46 and 48,
+>
+> (*c*) Part 3, and
+>
+> (*d*) sections 79 to 81 and 83 to 85.
+
+### 3. Civil actions to which Act applies.
+
+**3.**—This Act applies to the following civil actions—
+
+(*a*) a civil action by an employee against his or her employer for negligence or breach of duty arising in the course of the employee's employment with that employer,
+
+F1[(*aa*) subject to Part 5 of the Act of 2022, a civil action against the Commissioner of the Garda Síochána to which that Act applies,]
+
+(*b*) a civil action by a person against another arising out of that other's ownership, driving or use of a mechanically propelled vehicle,
+
+*c*) a civil action by a person against another arising out of that other's use or occupation of land or any structure or building,
+
+(*d*) a civil action not falling within any of the preceding paragraphs (other than one arising out of the provision of any health service to a person, the carrying out of a medical or surgical procedure in relation to a person or the provision of any medical advice or treatment to a person).
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1: Inserted (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 21(1)(a), S.I. No. 163 of 2023, subject to construction of references in subs. (2).
+
+### 3A. Civil actions to which Act does not apply.
+
+F2[**3A.**— Notwithstanding *section 3*, this Act does not apply to a civil action to which any of the following applies:
+
+(*a*) the Warsaw Convention;
+
+(*b*) the Montreal Convention;
+
+(*c*) Council Regulation (EC) No. 2027/97;
+
+(*d*) section 46(2) of the Civil Liability Act 1961;
+
+(*e*) the Athens Convention;
+
+(*f*) Regulation (EC) No. 392/2009;
+
+(*g*) Part III of the Merchant Shipping (Liability of Shipowners and Others) Act 1996;
+
+insofar as those statutory provisions are in force and insofar as those conventions and regulations are applicable to or in the State.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F2: Inserted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 56(1)(a), commenced on enactment.
+
+### 4. Interpretation.
+
+**4.**—(1) In this Act, unless the context otherwise requires—
+
+“Act of 1961” means the Civil Liability Act 1961;
+
+F3[“Act of 2022” means the Garda Síochána (Compensation) Act 2022;]
+
+F5["Athens Convention" means the Athens Convention relating to the Carriage of Passengers and their Luggage by Sea, 1974, as amended by the Protocol of 2002 (the Athens Convention) and as amended from time to time;]
+
+“Board” shall be construed in accordance with *section 53*;
+
+“civil action” means an action intended to be pursued for the purpose of recovering damages, in respect of a wrong, for—
+
+(*a*) personal injuries, or
+
+(*b*) both such injuries and damage to property (but only if both have been caused by the same wrong),
+
+but does not include—
+
+(i) an action intended to be pursued in which, in addition to damages for the foregoing matters, it is bona fide intended, and not for the purpose of circumventing the operation of *section 3*, to claim damages or other relief in respect of any other cause of action,
+
+(ii) F6[...]
+
+(iii) an action intended to be pursued in respect of an alleged breach by the State or any other person of a provision of the Constitution,
+
+(iv) an action intended to be pursued under section 3 of the European Convention on Human Rights Act 2003;
+
+F7[“claimant” means a person who would, subject to this Act, be entitled to pursue a civil action to which this Act applies and includes—
+
+(*a*) other than in a civil action referred to in *paragraph (e)*, a personal representative in whom a cause of action comprising a civil action is vested by virtue of the Act of 1961,
+
+(*b*) other than in a civil action referred to in *paragraph (e)*, a person specified in subsection (3) of section 48 of the Act of 1961 who would, subject to this Act, be entitled to pursue an action for damages under that section,
+
+(*c*) a person who would be entitled to act as a next friend of a minor or a person of unsound mind were a civil action to which this Act applies to be pursued on his or her behalf,
+
+(*d*) the committee of a person of unsound mind acting on his or her behalf in relation to a civil action to which this Act applies that is proposed to be pursued, and
+
+(*e*) for the purposes of a civil action referred to in *section 3(aa)*, an applicant within the meaning of the Act of 2022 in relation to whom an application to the Board referred to in section 19 of that Act was made;]
+
+F5["Council Regulation (EC) No. 2027/97" means Council Regulation (EC) No. 2027/97 on air carrier liability in respect of the carriage of passengers and their baggage by air, as amended by Regulation (EC) No. 889/2002[^1] and as amended from time to time;]
+
+F4[“damages” includes compensation for the purposes of civil actions referred to in *section 3(aa)*;]
+
+“employee” means a person of any age, who has entered into or works under (or, where the employment has ceased, entered into or worked under) a contract of employment; and, for the purposes of this Act, a person holding office under, or in the service of, the State (including a civil servant within the meaning of the Civil Service Regulation Act 1956) shall be deemed to be an employee employed by the State or Government, as the case may be, and an employee, officer or servant of a local authority for the purposes of the Local Government Act 2001 or of a harbour authority F8[or health board, or a member of staff of an education and training board] shall be deemed to be an employee employed by the authority F9[or board], as the case may be;
+
+“employer” means, in relation to an employee, the person with whom the employee has entered into or for whom the employee works under (or, where the employment has ceased, entered into or worked under) a contract of employment;
+
+“health board” includes the Eastern Regional Health Authority and an area health board established under the Health (Eastern Regional Health Authority) Act 1999;
+
+“Minister” means the Minister for Enterprise, Trade and Employment;
+
+F5["Montreal Convention" means the Convention for the Unification of Certain Rules for International Carriage by Air, signed at Montreal on 28 May 1999 and as amended from time to time;]
+
+“personal injury” has the same meaning as it has in the Act of 1961;
+
+“proceedings” means proceedings in court;
+
+F5["Regulation (EC) No. 392/2009"[^2] means Regulation (EC) No. 392/2009 of the European Parliament and of the Council of 23 April 2009 on the liability of carriers of passengers by sea in the event of accidents, as amended from time to time;]
+
+F5["Warsaw Convention" means the Convention for the Unification of Certain Rules Relating to International Carriage by Air, signed at Warsaw on 12 October 1929, or the Warsaw Convention as amended—
+
+(*a*) at The Hague on 28 September 1955,
+
+(*b*) by the Convention supplementary to the Warsaw Convention done at Guadalajara on 18 September 1961, and
+
+(*c*) as amended from time to time;]
+
+“wrong” has the same meaning as it has in the Act of 1961.
+
+(2) For the purposes of the definition of “civil action” in *subsection (1)* “action”—
+
+(*a*) includes an action the cause of action comprising which accrued before the passing of this Act, and
+
+(*b*) shall be deemed to include an action intended to be pursued for damages under section 48 of the Act of 1961.
+
+(3) In this Act “respondent”, where used without qualification, does not, unless expressly provided otherwise, include a non-participating respondent (within the meaning of *section 15*) or a nonaccepting respondent (within the meaning of *section 34*).
+
+(4) References in subsequent provisions of this Act to a next friend or, as appropriate, a guardian, in relation to a claimant or a respondent, shall be construed as references to a person who would be entitled to act as a next friend or guardian of the claimant or respondent, as the case may be, were the relevant claim concerned to be the subject of proceedings.
+
+(5) In this Act—
+
+(*a*) a reference to a section or Part is a reference to a section or Part of this Act unless it is indicated that reference to some other enactment is intended,
+
+(*b*) a reference to a Chapter is a reference to the Chapter of the Part in which the reference occurs, unless it is indicated that reference to some other provision is intended,
+
+(*c*) a reference to a subsection, paragraph or subparagraph is a reference to the subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that reference to some other provision is intended, and
+
+(*d*) a reference to any other enactment is a reference to that enactment as amended or extended by or under any subsequent enactment.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F3, F4: Inserted (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 21(1)(b)(i), (iv), S.I. No. 163 of 2023.
+>
+> F5: Inserted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 56(1)(b), commenced on enactment.
+>
+> F6: Deleted (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 21(1)(b)(ii), S.I. No. 163 of 2023.
+>
+> F7: Substituted (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 21(1)(b)(iii), S.I. No. 163 of 2023.
+>
+> F8: Substituted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72 and sch. 6 item 45, S.I. No. 211 of 2013.
+>
+> F9: Substituted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72 and sch. 6 item 45, S.I. No. 211 of 2013.
+>
+> **Modifications etc. (not altering text):**
+>
+> C4: Definition of "civil action" applied with modifications and "respondent" construed (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 20(a), (e), S.I. No. 163 of 2023.
+>
+> **Modifications to application of Act of 2003**
+>
+> 20\. The Act of 2003 shall apply to, and in relation to, an application to which section 19 refers, subject to the following modifications and any other necessary modifications:
+>
+> (*a*) it shall be read as if the words “, in respect of a wrong,” in the definition of “civil action” in section 4(1) of the Act of 2003 were deleted;
+>
+> ...
+>
+> (*e*) it shall be read as if any reference to “respondent” were a reference to the Garda Commissioner, or to any person entitled, by or under any enactment, to act on behalf of the Garda Commissioner in an action to which section 3(aa) of the Act of 2003 applies;
+>
+> ...
+>
+> C5: Application of section clarified (21.07.2004) by *Civil Liability and Courts Act 2004* (31/2004), s. 32(1), commenced as per s. 1(3), subject to transitional provision in s. 6.
+>
+> **Other amendments of Act of 2003.**
+>
+> **32.**—(1) For the avoidance of doubt, the reference in the definition of “proceedings” in section 4(1) of the Act of 2003 to “proceedings in court” includes, and shall be deemed to have always included, a reference to—
+>
+> (*a*) proceedings by way of a counterclaim, and
+>
+> (*b*) proceedings by way of the service of a third party notice (other than a third party notice claiming only an indemnity or a contribution).
+>
+> ...
+
+### 5. Regulations.
+
+**5.**—(1) The Minister may make regulations in respect of anything referred to in this Act as being the subject of regulations or for the purpose of enabling this Act to have full effect.
+
+(2) Every order (other than an order under *section 2*) and regulation made by the Minister under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order or regulation is passed by either such House within the next 21 days on which that House has sat after the order or regulation is laid before it, the order or regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+(3) The Minister may by order amend or revoke an order under this Act (other than an order under *section 2* but including an order under this subsection).
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E6: Power pursuant to section exercised (1.09.2019) by *Personal Injuries Assessment Board (Fees) (Amendment) Regulations 2019* (S.I. No. 363 of 2019), in effect as per reg. 3.
+
+### 6. Savings.
+
+**6.**—(1) Nothing in this Act affects proceedings brought before the commencement of this section.
+
+(2) *Subsection (1)* is without prejudice to *section 48* (which enables the Board, where rules under *section 46* so provide, to make an assessment of a relevant claim, the subject of proceedings brought before the commencement of this section).
+
+(3) Nothing in this Act prevents 2 or more persons from entering into a settlement in respect of a relevant claim.
+
+(4) If—
+
+(*a*) such a settlement is entered into after one or more steps under *Part 2* have been taken in relation to the relevant claim, and
+
+(*b*) the claimant and the respondent or, as the case may be, the claimant and each of the respondents are parties to the settlement,
+
+the Board shall, on being informed in writing of the settlement, cause no further step under that Part to be taken in relation to the claim.
+
+### 7. Obtaining of legal advice.
+
+**7.**—(1) Nothing in this Act is to be read as affecting the right of any person to seek legal advice in respect of his or her relevant claim and no rule shall be made under *section 46* that affects that right.
+
+(2) *Subsection (1)* shall not be read as requiring any procedure to be followed by the Board or hearing to be conducted by it that would be required to be followed or conducted by a court were the relevant claim concerned to be the subject of proceedings.
+
+### 8. Expenses.
+
+**8.**—The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## PART 2Mandatory Assessment Procedures in respect of Certain Civil Actions — PART 2 — Mandatory Assessment Procedures in respect of Certain Civil Actions
+
+### Chapter 1Mandatory applications for assessment — Chapter 1 — Mandatory applications for assessment
+
+#### 9. “Relevant claim”.
+
+**9.**—In this Chapter “relevant claim” means a civil action to which this Act applies.
+
+#### 10. What this Chapter does.
+
+**10.**—This Chapter—
+
+(*a*) specifies certain procedures that must be employed by—
+
+(i) every claimant who wishes to recover damages in respect of a relevant claim, and
+
+(ii) the Board in consequence of those procedures having been employed by such a claimant,
+
+and
+
+(*b*) prohibits the bringing of proceedings in respect of such a claim unless specified conditions are satisfied.
+
+#### 11. Application for assessment.
+
+**11.**—F10[(1) A claimant —
+
+(*a*) shall make an application under this section to the Board for an assessment to be made under *section 20* of his or her relevant claim, and
+
+(*b*) may apply for resolution of his or her relevant claim by way of mediation under *Chapter 1A*.]
+
+(2) That application shall be in the form specified by rules under *section 46* and be accompanied by such documents as may be so specified.
+
+(3) Without prejudice to the generality of *section 46* as regards the documents that may be specified for the foregoing purpose, the documents that may be specified for that purpose include—
+
+(*a*) a document that has been given or sent, by or on behalf of the claimant, to the person or persons whom he or she believes to be liable to pay compensation to him or her in respect of the claim, notifying the person or persons of his or her relevant claim and seeking the payment of compensation,
+
+(*b*) copies of any other correspondence between the claimant and that person or those persons in relation to the relevant claim,
+
+F11[(*ba*) copies of any documentation concerning the identity of the claimant where such claimant does not have a personal public service number (within the meaning of section 262 of the Social Welfare Consolidation Act 2005),]
+
+(*c*) a report prepared by a medical practitioner who has treated the claimant in respect of the personal injuries, the subject of the relevant claim, in relation to those injuries,
+
+(*d*) receipts, vouchers or other documentary proof in relation to loss or damage in respect of which special damages are being sought in the relevant claim.
+
+F12[(3A) Notwithstanding *subsection (2)* and any rules under *section 46*, an application under this section made on or after the commencement of section 3(c) of the Personal Injuries Resolution Board Act 2022 shall not be an application for the purposes of *section 50*, unless it is signed by the claimant and includes confirmation of each of the following:
+
+(*a*) the claimant’s name, date of birth, phone number, and the address at which he or she ordinarily resides;
+
+(*b*) the claimant’s personal public service number (within the meaning of section 262 of the Social Welfare Consolidation Act 2005) or, in any case where the claimant does not have a personal public service number, such other documentation concerning his or her identity as may be specified by rules under *section 46*;
+
+(*c*) the name and address of the person or each of the persons who the claimant alleges in the application is or are liable to him or her in respect of the accident or incident concerned;
+
+(*d*) the date and time on which it is alleged that the accident or incident the subject of the application occurred;
+
+(*e*) a description of how and where it is alleged that the accident or incident the subject of the application occurred;
+
+(*f*) a description of the personal injuries allegedly sustained by the claimant in the accident or incident the subject of the application;
+
+(*g*) that the medical report enclosed with the application describes the personal injuries allegedly sustained by the claimant in the accident or incident the subject of the application.]
+
+(4) If an enactment or a rule of court (whether passed or made before or after the passing of this Act) requires notice of any accident or occurrence that has given rise to personal injuries being sustained by a person to be given, prior to a civil action being pursued in respect of those injuries, to the person or persons alleged to be responsible for them, then the reference in *subsection (3) (a)* to the document mentioned in that provision shall be construed as a reference to such a notice.
+
+(5) When it appears to the Board, in circumstances where the presumption provided for by *section 18* (presumption as to full capacity) is rebutted in relation to the applicant, that an applicant under this section is not of full capacity the Board shall not deal with the applicant's application (but without prejudice to its duty, subject to *section 17*, to deal with a fresh application subsequently made under this section on his or her behalf by a next friend or a committee of him or her).
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F10: Substituted (14.12.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 3(a), S.I. No. 626 of 2023.
+>
+> F11, F12: Inserted (4.09.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 3(b), (c), S.I. No. 354 of 2023.
+>
+> **Modifications (not altering text):**
+>
+> C6: Section applied with modifications (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 20(b), (c), S.I. No. 163 of 2023.
+>
+> **Modifications to application of Act of 2003**
+>
+> 20\. The Act of 2003 shall apply to, and in relation to, an application to which *section 19* refers, subject to the following modifications and any other necessary modifications: ...
+>
+> (*b*) an application to which *section 19* refers shall be deemed to be an application made by the claimant under section 11 of the Act of 2003;
+>
+> (*c*) it shall be read as if subsection (5) of section 11 of the Act of 2003 were deleted;
+>
+> ...
+
+#### 12. Bar on bringing proceedings unless certain conditions are satisfied.
+
+**12.**—(1) Unless and until an application is made to the Board under *section 11* in relation to the relevant claim and then only when the bringing of those proceedings is authorised under *section 14, 17, 32* or *36*, rules under *section 46(3)* or *section 49* and subject to those sections or rules, no proceedings may be brought in respect of that claim.
+
+(2) Nothing in *subsection (1)* or any other provision of this Act is to be read as affecting the right of a claimant or a respondent to invoke, subject to and in accordance with this section, the jurisdiction of any court to make an order referred to in *subsection (3)* that could be made if proceedings, but for *subsection (1)*, were to be brought or were about to be brought in respect of the relevant claim and the court shall, accordingly, have jurisdiction, subject to and in accordance with this section, to make such an order despite the enactment of *subsection (1)*.
+
+(3) The order mentioned in *subsection (2)* is any order of an interlocutory kind or power to make which is provided for by rules of court or otherwise inherent in the court's general jurisdiction in civil proceedings and, in particular, an order restraining the transfer of assets to a place outside the State for the purpose of defeating the rights of another arising out of the relevant claim or the dissipation of assets for that purpose and an order requiring evidence to be preserved.
+
+(4) In relation to the invocation of the foregoing jurisdiction of the court the following provisions have effect—
+
+(*a*) the application for the order concerned shall be made by motion on notice or, as appropriate, ex parte motion,
+
+(*b*) without prejudice to the principles or rules that govern generally the exercise of that jurisdiction, the court shall not exercise that jurisdiction to make any order (not being an order relating to the transfer or dissipation of assets) unless it is satisfied that—
+
+(i) the making of the application therefor is bona fide and for the sole purpose of ensuring the fair and just disposition of any proceedings that could be brought in the event of the issue of an authorisation referred to in *subsection (1)*, and
+
+(ii) the making of the order is required so as to enable the fair and just disposition of those proceedings,
+
+and the court shall ensure that the manner in which any such application is dealt with does not prejudice any procedures which are being or may be followed under this Act in relation to the relevant claim,
+
+(*c*) on the hearing of any such application the court shall have power to grant the relief sought or, subject to this section, make any other interlocutory order that is appropriate to the application or may adjourn, from time to time, the hearing of the application or dismiss the application and, in any of the foregoing cases, may make such order as to costs as it considers appropriate,
+
+(*d*) the person making any such application shall be subject to the same duties as he or she would be subject to if the application were to be made in the course of proceedings brought in respect of the relevant claim and may (in addition to any undertaking he or she may be regarded as having given by operation of law) be required to give such undertakings as the court may specify in the circumstances,
+
+(*e*) in the event of proceedings being brought in respect of the relevant claim pursuant to an authorisation referred to in *subsection (1)*, any order made in exercise of the foregoing jurisdiction shall be deemed to be an order made in the course of those proceedings and the court may, accordingly, continue to exercise jurisdiction in respect of the order, and
+
+(*f*) in the event of no proceedings being brought in respect of the relevant claim, the court may make such order as to the discharge of the order referred to in *paragraph (e)*, to any other matters in consequence of the order so referred to and to the costs of the matter as in necessary or appropriate in the circumstances.
+
+F13[(5) The issuing of a notice of motion or the moving of a motion for the purposes of an application referred to in *subsection (4)* shall not be regarded as the commencement of proceedings in respect of the relevant claim for the purposes of any applicable limitation period in relation to such claim (including any limitation period under the Statute of Limitations 1957, section 9(2) of the Civil Liability Act 1961, the Statute of Limitations (Amendment) Act 1991 and an international agreement or convention by which the State is bound).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Substituted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 56(1)(c), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C7: Subs. (1) applied with modifications by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 20(d), S.I. No. 163 of 2023.
+>
+> **Modifications to application of Act of 2003**
+>
+> 20\. The Act of 2003 shall apply to, and in relation to, an application to which *section 19* refers, subject to the following modifications and any other necessary modifications: ...
+>
+> (*d*) it shall be read as if the words “rules under section 46(3)” and the words “or rules” in section 12(1) of the Act of 2003 were deleted;
+>
+> ...
+
+#### 13. Notification of application to respondent and ascertainment of his or her wishes.
+
+**13.**—F14[(1) (*a*) As soon as practicable after receipt of an application under *section 11*, the Board may serve a preliminary notice on the person or each of the persons who the claimant alleges in the application is or are liable to him or her in respect of the relevant claim (who or each of whom is referred to in this Part as a "respondent") notifying the respondent of the relevant claim.
+
+(*b*) As soon as practicable after receipt of—
+
+(i) an application under *section 11*,
+
+(ii) a report prepared by a medical practitioner under *section 11(3)(c)*, and
+
+(iii) the charge imposed on the claimant pursuant to regulations made under *section 22(1)*,
+
+the Board shall serve the following notice on the respondent.]
+
+F15[(2) The notice under *subsection (1)(b)* is a notice stating that the Board has received an application made under *section 11* by the claimant and requesting the respondent to state to the Board in writing, within the period specified in the notice, whether he or she consents to —
+
+(*a*) an assessment being made under *section 20* of the claimant’s relevant claim,
+
+(*b*) mediation of the relevant claim under *Chapter 1A*, where the claimant has applied for resolution of his or her relevant claim under that Chapter, or
+
+(*c*) both an assessment referred to in *paragraph (a)* and mediation referred to in *paragraph (b)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F14: Substituted (3.04.2019) by *Personal Injuries Assessment Board (Amendment) Act 2019* (3/2019), s. 2(1)(a), (b), S.I. No. 123 of 2019, subject to transitional provision in subs. (2).
+>
+> F15: Substituted (14.12.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 4, S.I. No. 626 of 2023.
+>
+> **Modifications (not altering text):**
+>
+> C8: Subs. (1)(b) applied with modifications by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 20(f), not commenced as of date of revision.
+>
+> **Modifications to application of Act of 2003**
+>
+> 20\. The Act of 2003 shall apply to, and in relation to, an application to which *section 19* refers, subject to the following modifications and any other necessary modifications: ...
+>
+> (*f*) it shall be read as if section 13(1)(b)(iii) of the Act of 2003 were deleted;
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E7: Previous affecting provision: subs. (2) amended (3.04.2019) by *Personal Injuries Assessment Board (Amendment) Act 2019* (3/2019), s. 2(1)(b), S.I. No. 123 of 2019, subject to transitional provision in subs. (2); subsection substituted as per F-note above.
+
+#### 14. Procedures on foot of notification under section 13.
+
+**14.**—F16[(1) (*a*) If a respondent states in writing in response to a notice served under *section 13(1)(b)* within the period specified in the notice that he or she consents to mediation of the relevant claim under *Chapter 1A*, then the Board shall, subject to *sections 17* and *18*, arrange for mediation of that claim under *Chapter 1A*.
+
+(*b*) If a respondent —
+
+(i) states in writing in response to a notice served under *section 13(1)(b)* within the period specified in the notice that he or she does not consent to mediation of the relevant claim under *Chapter 1A*, or
+
+(ii) fails to state in writing, in response to the notice, within the period specified in that notice, whether or not he or she consents to mediation under *Chapter 1A*,
+
+then *paragraph (c)* shall apply.
+
+(*c*) If a respondent —
+
+(i) states in writing, in response to a notice served under *section 13(1)(b)*, within the period specified in it, that he or she consents to an assessment being made under *section 20* of the claimant’s relevant claim, or
+
+(ii) fails to state in writing, in response to that notice, within the period specified in it, whether or not he or she does so consent, then the Board shall, subject to *sections 17* and *18*, arrange for an assessment to be made under *section 20* of that claim.]
+
+(2) If a respondent states in writing, in response to F17[a notice served under *section 13(1)(b)*], within the period specified in it, that he or she does not consent to an assessment being made under *section 20* of the claimant's relevant claim, it shall be the duty of the Board, as soon as may be after that statement is received by it, to issue to the claimant a document that contains the statement and operates to have the effect mentioned in *subsection (4)*.
+
+(3) Such a document is referred to in this Act as an “authorisation”.
+
+(4) An authorisation under this section shall state that the claimant is authorised to, and operate to authorise the claimant to, bring proceedings in respect of his or her relevant claim.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F16: Substituted (14.12.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 5, S.I. No. 626 of 2023.
+>
+> F17: Substituted (3.04.2019) by *Personal Injuries Assessment Board (Amendment) Act 2019* (3/2019), s. 3(b), S.I. No. 123 of 2019.
+>
+> **Editorial Notes:**
+>
+> E8: Previous affecting provision: subs. (1)(a) amended by *Personal Injuries Assessment Board (Amendment) Act 2019* (3/2019), s. 3(a), S.I. No. 123 of 2019; subsection substituted (14.12.2023) as per F-note above.
+
+#### 15. Procedures if not everyone of 2 or more respondents consents to assessment being made.
+
+**15.**—If there are 2 or more respondents as respects a relevant claim and one or more but not all of them makes a statement in writing of the kind referred to in *section 14(2)* the following provisions have effect—
+
+(*a*) the Board, despite the making of such a statement, shall, subject to *sections 17* and *18*, arrange for an assessment to be made under *section 20* of the claimant's relevant claim,
+
+(*b*) the assessment made under that section, though subsequently accepted, if such be the case, by the other respondent or respondents, shall not be binding on the respondent or respondents who made such a statement, (the “non-participating respondent or respondents”), and
+
+(*c*) *section 14* shall have effect as if the following subsections were substituted for *subsection (4)*:
+
+“(4) An authorisation under this section shall state that the claimant is authorised to, and operate to authorise the claimant to, bring proceedings in respect of his or her relevant claim against only the non-participating respondent or respondents (within the meaning of *section 15*) but this subsection is subject to the following subsection.
+
+(5) *Subsection (4)* does not prejudice the operation of *section 41* (which relates to the application of section 16 of the Act of 1961 (satisfaction by one wrongdoer discharging the other wrongdoer or wrongdoers)) and, accordingly, the proceedings authorised by that subsection to be brought—
+
+(*a*) shall cease to be maintainable if the amount or amounts specified in an order to pay that may eventually be issued by the Board in respect of the relevant claim are paid to the claimant, or
+
+(*b*) if only a portion of the amount or amounts specified in such an order to pay that may eventually be issued is paid to the claimant, shall be maintainable in respect of only the balance outstanding.”.
+
+#### 16. Making of, or omission to make, statement referred to in section 14 not an admission of liability.
+
+F18[**16.** Neither a statement referred to in *subsection (1)(a)* or *(1)(c)(i)* of *section 14* nor a failure of the kind mentioned in *subsection (1)(c)(ii)* of that section shall constitute an admission of liability by the respondent concerned or be capable of being used in evidence against him or her in any proceedings or operate in any manner to prejudice any proceedings.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F18, F19: Substituted (14.12.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 6, S.I. No. 626 of 2023, art. 4(b).
+
+#### 17. Discretion of Board not to arrange for making of assessment.
+
+**17.**—(1) Despite—
+
+(*a*) the making by a respondent of a statement referred to in F20[*section 14(1)(c)(i)*], or
+
+(*b*) the fact that a failure by him or her of the kind referred to in F21[*section 14(1)(c)(ii)*] has occurred,
+
+the Board shall not be required to arrange for the making of an assessment under *section 20* of the relevant claim concerned (or, as appropriate, shall discontinue any such assessment the making of which it has arranged) if—
+
+(i) in its opinion, there does not exist, or there has not been previously entered into, in relation to the type of personal injury or injuries to which the relevant claim relates, a sufficient body of case law or, as the case may be, a sufficient number of settlements to which regard may be had by the assessors for the purpose of making such an assessment, or
+
+(ii) in its opinion, it would not be appropriate to do so—
+
+(I) because of the particular complexity of the issues that would require to be addressed were an assessment of the relevant claim to be made such as (without limiting the generality of this clause) issues involving the interaction between each of a number of injuries the claimant alleges he or she sustained in the accident or incident concerned or the interaction between one or more such injuries and any existing condition or disease the claimant suffered from or any injury he or she previously sustained, or
+
+(II) F22[...]
+
+(III) because aggravated or exemplary damages are bona fide (and not for the purpose of circumventing the operation of this Act) sought to be recovered in the relevant claim, or
+
+(IV) in case the relevant claim arises out of a trespass to the person, because the making of an assessment of the claim by the means to which assessors are limited to employing by this Act would not respect the dignity of the claimant, or
+
+(V) because the gravity of any injury or illness of the claimant is such that, were proceedings to be brought in respect of his or her relevant claim, an early trial of the claim would, in the Board’s opinion, be ordered to be held to meet the contingency of the claimant's dying before the time the claim would otherwise, in the ordinary course of events, come on for trial,
+
+or
+
+(iii) F23[...]
+
+(iv) in its opinion, the person purporting to act as a next friend, or as the case may be, a guardian of the claimant or a respondent has a conflict of interest in the matter, or otherwise would not be entitled to act as a next friend or guardian of the claimant or respondent were the relevant claim to be the subject of proceedings, and steps are unlikely to be taken in a timely fashion to secure an appropriate replacement for him or her, or
+
+(v) in its opinion, the relevant claim falls within a class of relevant claims as respects which the Board has, with the consent of the Minister and the Minister for Justice, Equality and Law Reform, for the time being declared there to be other good and substantial reasons for its not arranging the making of such an assessment in respect of F24[them, or]
+
+F25[(vi) the notice under *section 13(1)(b)* on the person or each of the persons who the claimant alleges in the application is or are liable to him or her in respect of the relevant claim cannot be served on, or given, or issued to the person in accordance with *section 79*, or
+
+(vii) the respondent has notified the Board of his or her intention not to accept the assessment when made, or
+
+(viii) in its opinion, the relevant claim falls within a class of relevant claims to which Regulation (EC) No. 864/2007 of the European Parliament and of the Council of 11 July 2007[^3] on the law applicable to non-contractual obligations (Rome II) applies, or
+
+(ix) in its opinion, the relevant claim falls within a class of relevant claims where a settlement has been negotiated for the benefit of a minor or person of unsound mind (including a dependant minor or person of unsound mind where the relevant claim arises from fatal injuries) to be approved by the court.]
+
+F26[(1A) Despite the making by a respondent of a statement referred to in *section 14(1)(a)*, the Board shall not be required to arrange for mediation under *Chapter 1A* of the relevant claim concerned (or, as appropriate, shall discontinue any such mediation which it has arranged) if any of *paragraphs (i)* to *(ix)* of *subsection (1)* applies in relation to the relevant claim concerned.]
+
+(2) As soon as may be after the Board forms an opinion referred to in any of *paragraphs (i)* to *(v)* of *subsection (1)*, the Board shall record that opinion in writing and the reasons therefor.
+
+(3) In addition to the grounds specified in *subsection (1)* for its not doing so, the Board may, in its discretion, decide not to arrange for the making of an assessment under *section 20* F27[or the carrying out of mediation under *Chapter 1A*] of a relevant claim if a charge imposed by it pursuant to regulations under *section 22(1)* on a respondent has not been paid to it; any such decision shall be recorded in writing by the Board as soon as may be after it is made.
+
+(4) It shall be the duty of the Board, as soon as may be after recording an opinion or a decision referred to in *subsection (1)* or *(3)*, to issue to the claimant concerned a document that contains the statement and operates to have the effect mentioned in *subsection (6)*.
+
+(5) Such a document is also referred to in this Act as an “authorisation”.
+
+(6) An authorisation under this section shall state that the claimant is authorised to, and operate to authorise the claimant to, bring proceedings in respect of his or her relevant claim.
+
+(7) If an authorisation would fall to be issued under both—
+
+(*a*) this section, and
+
+(*b*) but for this subsection, *section 14* as it has effect by virtue of *section 15*,
+
+then an authorisation shall only be issued under this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F20, F21: Substituted (14.12.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 7(a)(i), (ii), S.I. No. 626 of 2023, art. 4(c).
+>
+> F22, F23: Deleted (13.02.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 7(a)(iii), (iv), S.I. No. 28 of 2023.
+>
+> F24: Substituted (3.04.2019) by *Personal Injuries Assessment Board (Amendment) Act 2019* (3/2019), s. 4(a), S.I. No. 123 of 2019.
+>
+> F25: Inserted (3.04.2019) by *Personal Injuries Assessment Board (Amendment) Act 2019* (3/2019), s. 4(b), S.I. No. 123 of 2019.
+>
+> F26, F27: Inserted (14.12.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 7(b), (c), S.I. No. 626 of 2023, art. 4(c).
+
+#### 18. Presumption as to capacity of claimant and respondent.
+
+**18.**—(1) Subject to *subsections (2)* and *(3)*, for the purpose of the performance of every function under this Part the Board shall presume that the claimant and the respondent or respondents are each of full capacity.
+
+(2) If—
+
+(*a*) rules under *section 46* require an application under *section 11* to include a statement that the claimant is of full age, or
+
+(*b*) rules under that section require the Board, before it deals with a claimant or a respondent under this Part, to seek confirmation from the claimant or the respondent that he or she is of full age,
+
+then *subsection (1)*, in so far as it relates to a person’s being of full age, shall not apply unless and until that requirement of those rules is complied with or that confirmation is given by the claimant or the respondent.
+
+(3) Subject to *subsection (4)*, if, during the course of the performance by the Board of its functions under this Part, a medical opinion in writing is furnished to the Board to the effect that the claimant or a respondent is not of sound mind then the presumption in *subsection (1)* shall be regarded as rebutted and the Board shall, as appropriate—
+
+F28[(*a*) not arrange for the making of an assessment of, or the carrying out of mediation in relation to, the relevant claim concerned, or
+
+(*b*) if any step in the making of that assessment or carrying out of that mediation, or consequent on the making of that assessment or carrying out of that mediation, has already been taken, cause no further step to be taken in the making of that assessment or carrying out of that mediation or consequent on its making or carrying out,]
+
+unless, in the case of such an opinion that has been furnished in respect of one or more than one of 2 or more respondents, no such opinion has been furnished in respect of the other or others or the claimant.
+
+(4) Nothing in *subsection (1)* or *paragraph (a)* or *(b)* of *subsection (3)* applies if—
+
+(*a*) in the case of a claimant, a next friend or a committee of the claimant is acting on his or her behalf, and
+
+(*b*) in the case of a respondent, a guardian or a committee of the respondent is acting on his or her behalf.
+
+(5) No action or proceeding shall lie against the Board or any of its members or employees in respect of anything which the Board, the member or the employee could have lawfully done or omitted to do had the circumstances presumed by virtue of *subsection (1)* to pertain pertained in fact.
+
+(6) If such an opinion as is referred to in *subsection (3)* is furnished in respect of one or more than one, but not all, of 2 or more respondents and *subsection (4)* does not apply then the Board shall record in writing the fact of its having received that opinion and no assessment made under this Part in relation to the relevant claim shall bind the respondent or respondents to whom the opinion relates.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F28: Substituted (14.12.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 8, S.I. No. 626 of 2023, art. 4(d).
+
+### Chapter 1A — Mediation
+
+#### F29[18A. Application and definitions
+
+**18A.**—(1) This Chapter applies to—
+
+(*a*) a relevant claim in respect of which an application was, before the commencement of this section, made under *section 11* where—
+
+(i) an authorisation has not issued in respect of the relevant claim concerned, and
+
+(ii) neither the claimant nor any of the respondents have—
+
+(I) responded to a notice served in accordance with *section 30*, nor
+
+(II) been deemed to have accepted or not accepted, as the case may be, an assessment in accordance with *section 31*,
+
+and
+
+(*b*) a relevant claim in respect of which an application was, on or after the commencement of this section, made under *section 11*.
+
+(2) In this Chapter—
+
+“date of the completion of the mediation” means—
+
+(*a*) the date that the document referred to in *section 18C(1)(b)* is signed by each of the parties, or
+
+(*b*) where the document is signed by the parties on different dates, the last of those dates;
+
+“mediation” means a confidential, facilitative, and voluntary process in which parties to a relevant claim, with the assistance of a mediator, attempt to reach a mutually acceptable agreement to resolve the relevant claim;
+
+“mediator” has the meaning assigned to it by *section 18B(4)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F29: Inserted (14.12.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 9, S.I. No. 626 of 2023, art. 4(e), in so far as it refers to a civil action by an employee against his or her employer for negligence or breach of duty arising in the course of the employee's employment with that employer, as referred to in s. 3(a); also inserted (8.05.2024) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 9, S.I. No. 187 of 2024, in so far as it relates to a civil action by a person against another arising out of that other's use or occupation of land or any structure or building, as referred to in s. 3(c); also inserted (12.12.2024) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 9, S.I. No. 681 of 2024, in so far as it relates to a civil action by a person against another arising out of that other's ownership, driving or use of a mechanically propelled vehicle, as referred to in s. 3(b).
+>
+> Insertion is not commenced in so far as it refers to a civil action against the Commissioner of the Garda Síochána to which this Act applies, as referred to in s. 3(aa), and in so far as it refers to a civil action not falling within any of s. 3(a)-(c) (other than one arising out of the provision of any health service to a person, the carrying out of a medical or surgical procedure in relation to a person or the provision of any medical advice or treatment to a person), as referred to in s. 3(d).
+
+#### 18B. Mediation process
+
+F30[**18B.**—(1) Notwithstanding anything contained in this Part the Board may, where it considers it appropriate—
+
+(*a*) invite the parties to consider mediation as a means of attempting to resolve the relevant claim, and
+
+(*b*) provide the parties with information about the objectives and benefits of mediation in attempting to resolve the relevant claim.
+
+(2) The objective of mediation, in relation to a relevant claim, is to have the claim resolved by agreement reached by the parties and the Board shall, in order to promote engagement in the mediation process, ensure that the objective is understood by each of the parties.
+
+(3) Where each of the parties state that he or she consents to the relevant claim being the subject of mediation, the Board shall arrange for the claim to be the subject of mediation under this Chapter.
+
+(4) Mediation of a relevant claim shall be made by—
+
+(*a*) such employees of the Board for the time being assigned the performance of functions under this Chapter as the Board may direct, or
+
+(*b*) such persons as may be appointed under *section 18D*, each of whom, in this Chapter, shall be referred to as a “mediator”.
+
+(5) A mediator shall—
+
+(*a*) inquire fully into each relevant aspect of the relevant claim concerned,
+
+(*b*) provide to, and receive from, each party such information as is appropriate, and
+
+(*c*) generally make such suggestions to each party and take such other actions as he or she considers appropriate, with a view to achieving the objective referred to in *subsection (2)*.
+
+(6) Participation in mediation by the parties is voluntary, and a party may—
+
+(*a*) withdraw from mediation at any time prior to the date of completion of the mediation, and
+
+(*b*) be accompanied to the mediation, and assisted by a person (including a legal advisor) who is not a party to the relevant claim.
+
+(7) The Board may, prior to the date of completion of the mediation, where the mediator has failed to furnish his or her report within the period specified by rules under *section 18F* and where the Board considers it appropriate to do so, abandon an attempt to resolve a relevant claim by mediation.
+
+(8) Where the Board abandons an attempt to resolve a claim by mediation under *subsection (7)*, *section 18C(6)* shall apply.
+
+(9) The Board shall not be required to arrange for mediation of a relevant claim where there are 2 or more respondents as respects the relevant claim and one or more of them—
+
+(*a*) makes a statement in writing of the kind referred to in *section 14(1)(b)(i)*, or
+
+(*b*) is a respondent on whose part a failure of the kind referred to in *section 14(1)(b)(ii)* occurred in relation to the relevant claim.
+
+(10) Subject to *subsection (11)*, all communications (including oral statements) and all records and notes relating to a mediation including a report under *section 18C* shall be confidential and shall not be disclosed in relation to an assessment made under *section 20* or any proceedings before a court or otherwise.
+
+(11) *Subsection (10)* shall not apply to a communication or records or notes, or both, where disclosure—
+
+(*a*) is necessary in order to implement or enforce a mediation settlement,
+
+(*b*) is necessary to prevent physical or psychological injury to a party,
+
+(*c*) is required by law,
+
+(*d*) is necessary in the interests of preventing or revealing—
+
+(i) the commission of a crime (including an attempt to commit a crime),
+
+(ii) the concealment of a crime, or
+
+(iii) a threat to a party,
+
+or
+
+(*e*) is sought or offered to prove or disprove a civil claim concerning the negligence or misconduct of the mediator occurring during the mediation or a complaint to a professional body concerning such negligence or misconduct.
+
+(12) Evidence introduced into or used in mediation that is otherwise admissible or subject to discovery in proceedings shall not be or become inadmissible or protected by privilege in such proceedings solely because it was introduced into or used in mediation.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F30: Inserted (14.12.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 9, S.I. No. 626 of 2023. art. 4(e), in so far as it refers to a civil action by an employee against his or her employer for negligence or breach of duty arising in the course of the employee's employment with that employer, as referred to in s. 3(a); also inserted (8.05.2024) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 9, S.I. No. 187 of 2024, in so far as it relates to a civil action by a person against another arising out of that other's use or occupation of land or any structure or building, as referred to in s. 3(c); also inserted (12.12.2024) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 9, S.I. No. 681 of 2024, in so far as it relates to a civil action by a person against another arising out of that other's ownership, driving or use of a mechanically propelled vehicle, as referred to in s. 3(b).
+>
+> Insertion is not commenced in so far as it refers to a civil action against the Commissioner of the Garda Síochána to which this Act applies, as referred to in s. 3(aa), and in so far as it refers to a civil action not falling within any of s. 3(a)-(c) (other than one arising out of the provision of any health service to a person, the carrying out of a medical or surgical procedure in relation to a person or the provision of any medical advice or treatment to a person), as referred to in s. 3(d).
+
+#### 18C. Mediation outcome and report
+
+F31[**18C.**—(1) As soon as practicable after the mediation is completed, the mediator shall prepare a report containing the following namely:
+
+(*a*) a statement of what matters, if any, relating to the dispute are agreed by the parties to be matters of fact;
+
+(*b*) a summary in writing, signed by the parties, of the matter or matters, if any, whether they go in whole or part to resolving the dispute or not, agreed to by the parties; and
+
+(*c*) relevant particulars in relation to the conduct of the mediation (including particulars in relation to the number and duration of sessions held by the mediator and the persons who participated in any such session or sessions), and a list of any documents submitted to the mediator (but without disclosing any of their contents).
+
+(2) The mediator shall, after preparing a report under *subsection (1)*, furnish a copy of it to the Board.
+
+(3) Notwithstanding that, following a mediation, the parties have signed an agreement which resolves the dispute concerned, each of the parties may, not later than 10 days from the date of the completion of the mediation concerned, notify the mediator and the Board in writing that he or she no longer accepts the agreement and does not wish to be bound by it.
+
+(4) Where—
+
+(*a*) the report furnished to the Board under *subsection (2)* states that there is agreement between the parties and that the agreement resolves the relevant claim,
+
+(*b*) a period of 10 days has elapsed from the date of the completion of the mediation, and
+
+(*c*) in that period none of the parties to the agreement has informed the Board that he or she no longer accepts that agreement,
+
+the Board shall proceed to issue an order to pay pursuant to *section 38* to include provision for the monetary value, if any, which the respondent has agreed to pay to the claimant.
+
+(5) Where an order to pay has issued in accordance with *subsection (4)* the Board shall not issue a document referred to in this Act as an “authorisation”.
+
+(6) Where an attempt to resolve a relevant claim by mediation is unsuccessful (including where mediation has been abandoned under *section 18B(7)*), or if any of the parties responds within the period specified in *subsection (3)* by stating that he or she does not wish to be bound by the agreement, and—
+
+(*a*) where the respondent has given consent under *section 14(1)(c)*, and
+
+(*b*) an assessment has not already been completed,
+
+the Board shall refer the relevant claim for assessment under *section 20*.
+
+(7) Notwithstanding *subsection (6)*—
+
+(*a*) a claimant may withdraw an application in relation to the relevant claim under *section 47(1)*,
+
+(*b*) the Board may not arrange for the making of an assessment where the respondent has notified the Board of his or her intention not to accept an assessment under *section 17(1)(b)(vii)*, or
+
+(*c*) the Board may arrange for the making of an assessment under *section 20* where the respondent notifies the Board of his or her consent to an assessment.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F31: Inserted (14.12.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 9, S.I. No. 626 of 2023. art. 4(e), in so far as it refers to a civil action by an employee against his or her employer for negligence or breach of duty arising in the course of the employee's employment with that employer, as referred to in s. 3(a); also inserted (8.05.2024) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 9, S.I. No. 187 of 2024, in so far as it relates to a civil action by a person against another arising out of that other's use or occupation of land or any structure or building, as referred to in s. 3(c); also inserted (12.12.2024) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 9, S.I. No. 681 of 2024, in so far as it relates to a civil action by a person against another arising out of that other's ownership, driving or use of a mechanically propelled vehicle, as referred to in s. 3(b).
+>
+> Insertion is not commenced in so far as it refers to a civil action against the Commissioner of the Garda Síochána to which this Act applies, as referred to in s. 3(aa), and in so far as it refers to a civil action not falling within any of s. 3(a)-(c) (other than one arising out of the provision of any health service to a person, the carrying out of a medical or surgical procedure in relation to a person or the provision of any medical advice or treatment to a person), as referred to in s. 3(d).
+
+#### 18D. Appointment of mediators
+
+F32[**18D.**—(1) The Board may from time to time appoint such and so many persons, not being members of staff of the Board, as it considers appropriate to carry out the mediation functions assigned to them by the Board.
+
+(2) The Board may form a panel comprising the names of the persons who stand appointed under *subsection (1)*.
+
+(3) A person appointed under *subsection (1)* shall be appointed for such period as the Board may determine and, subject to *subsection (4)*, his or her terms and conditions shall be such as the Board may determine from time to time.
+
+(4) A person appointed under *subsection (1)* shall be paid such fees and expenses as the Board, with the consent of the Minister and the Minister for Public Expenditure and Reform, may determine from time to time.
+
+(5) A person appointed under *subsection (1)* may, by notice in writing addressed to the Board, at any time resign from his or her appointment and his or her resignation shall take effect on the date on which the Board receives the notice, or the date stated in the notice, whichever is the later.
+
+(6) The Board may for stated reasons revoke an appointment under *subsection (1)*.
+
+(7) Neither the Public Service Management (Recruitment and Appointments) Act 2004 nor the Civil Service Regulation Acts 1956 to 2005 shall apply to a person appointed under this section.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F32: Inserted (14.12.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 9, S.I. No. 626 of 2023. art. 4(e), in so far as it refers to a civil action by an employee against his or her employer for negligence or breach of duty arising in the course of the employee's employment with that employer, as referred to in s. 3(a); also inserted (8.05.2024) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 9, S.I. No. 187 of 2024, in so far as it relates to a civil action by a person against another arising out of that other's use or occupation of land or any structure or building, as referred to in s. 3(c); also inserted (12.12.2024) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 9, S.I. No. 681 of 2024, in so far as it relates to a civil action by a person against another arising out of that other's ownership, driving or use of a mechanically propelled vehicle, as referred to in s. 3(b).
+>
+> Insertion is not commenced in so far as it refers to a civil action against the Commissioner of the Garda Síochána to which this Act applies, as referred to in s. 3(aa), and in so far as it refers to a civil action not falling within any of s. 3(a)-(c) (other than one arising out of the provision of any health service to a person, the carrying out of a medical or surgical procedure in relation to a person or the provision of any medical advice or treatment to a person), as referred to in s. 3(d).
+
+#### 18E. Provisions relating to mediators
+
+F33[**18E.**—(1) In respect of a matter dealt with by him or her under this Chapter, a mediator shall—
+
+(*a*) declare to the parties at the outset of dealing with the matter any potential conflict of interest of which he or she is aware or ought to reasonably be aware, and
+
+(*b*) maintain the confidentiality of the proceedings concerned and shall not disclose any report prepared by him or her under *section 18C* otherwise than in accordance with that section.
+
+(2) Where a declaration referred to in *subsection (1)(a)* is made to the parties then, unless each of the parties agree to the mediator continuing to deal with the matter, the Board shall appoint another mediator to deal with the matter.
+
+(3) Where a mediator has, in respect of a relevant claim, participated in a mediation he or she shall not—
+
+(*a*) be an assessor or a retained expert in respect of the relevant claim, or
+
+(*b*) otherwise participate in the assessment of the relevant claim.
+
+(4) Subject to any rules under *section 18F*, the manner in which a mediation is conducted shall be at the discretion of the mediator concerned but it shall be the duty of that mediator to ensure that the mediation is conducted without undue formality.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F33: Inserted (14.12.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 9, S.I. No. 626 of 2023. art. 4(e), in so far as it refers to a civil action by an employee against his or her employer for negligence or breach of duty arising in the course of the employee's employment with that employer, as referred to in s. 3(a); also inserted (8.05.2024) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 9, S.I. No. 187 of 2024, in so far as it relates to a civil action by a person against another arising out of that other's use or occupation of land or any structure or building, as referred to in s. 3(c); also inserted (12.12.2024) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 9, S.I. No. 681 of 2024, in so far as it relates to a civil action by a person against another arising out of that other's ownership, driving or use of a mechanically propelled vehicle, as referred to in s. 3(b).
+>
+> Insertion is not commenced in so far as it refers to a civil action against the Commissioner of the Garda Síochána to which this Act applies, as referred to in s. 3(aa), and in so far as it refers to a civil action not falling within any of s. 3(a)-(c) (other than one arising out of the provision of any health service to a person, the carrying out of a medical or surgical procedure in relation to a person or the provision of any medical advice or treatment to a person), as referred to in s. 3(d).
+
+#### 18F. Power of the Board to make procedural rules relating to mediation
+
+F34[**18F.**—(1) Subject to the provisions of this Chapter, the Board may make rules concerning the procedures to be followed under this Chapter.
+
+(2) Without prejudice to the generality of *subsection (1)*, rules under this section may
+
+(*a*) specify the period within which
+
+(i) a mediator shall be assigned to deal with a relevant claim referred to the Board,
+
+(ii) a mediator shall furnish his or her report under *section 18C* to the Board,
+
+(*b*) specify any other time periods that the Board considers appropriate for the purposes of this Chapter,
+
+(*c*) subject to *section 18B(10)*, specify how the confidentiality of the mediation process shall be maintained within the Board,
+
+(*d*) subject to *section 18E(3)*, specify by which means mediation under this Chapter and an assessment under section 20 shall be independent and separate from each other,
+
+(*e*) specify that the Board may facilitate the mediation process to take place other than in person, including by way of telephone or other electronic means.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F34: Inserted (14.12.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 9, S.I. No. 626 of 2023. art. 4(e), in so far as it refers to a civil action by an employee against his or her employer for negligence or breach of duty arising in the course of the employee's employment with that employer, as referred to in s. 3(a); also inserted (8.05.2024) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 9, S.I. No. 187 of 2024, in so far as it relates to a civil action by a person against another arising out of that other's use or occupation of land or any structure or building, as referred to in s. 3(c); also inserted (12.12.2024) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 9, S.I. No. 681 of 2024, in so far as it relates to a civil action by a person against another arising out of that other's ownership, driving or use of a mechanically propelled vehicle, as referred to in s. 3(b).
+>
+> Insertion is not commenced in so far as it refers to a civil action against the Commissioner of the Garda Síochána to which this Act applies, as referred to in s. 3(aa), and in so far as it refers to a civil action not falling within any of s. 3(a)-(c) (other than one arising out of the provision of any health service to a person, the carrying out of a medical or surgical procedure in relation to a person or the provision of any medical advice or treatment to a person), as referred to in s. 3(d).
+>
+> **Editorial Notes:**
+>
+> E9: Power pursuant to section exercised (14.12.2023) by *Personal Injuries Assessment Board Rules, 2023 (No. 2)* (S.I. No. 617 of 2023), in effect as per art. 2.
+
+### Chapter 2Procedure for assessment — Chapter 2 — Procedure for assessment
+
+#### 19. What this Chapter contains.
+
+**19.**—This Chapter contains the principal provisions relating to the making of an assessment of a relevant claim the making of which has been arranged by the Board under F35[*section 14(1)(c)*].
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F35: Substituted (14.12.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 10, S.I. No. 626 of 2023, art. 4(f).
+
+#### 20. Assessment.
+
+**20.**—(1) In this section “assessment”, in relation to a relevant claim, means an assessment of the amount of damages the claimant is entitled to in respect of the claim on the assumption that the respondent or respondents are fully liable to the claimant in respect of the claim.
+
+(2) An assessment of a relevant claim shall be made by such one or more of the employees of the Board for the time being assigned the performance of functions under this Chapter as the Board directs (in subsequent sections of this Part referred to as “assessors”).
+
+(3) That employee or those employees may be assisted in the making of the assessment by one or more of the persons the services of whom are engaged by the Board under *section 80* (in subsequent sections of this Part referred to as “retained experts”).
+
+(4) F36[Subject to *subsection (5)*, an assessment shall be made] on the same basis and by reference to the same principles governing the measure of damages in the law of tort and the same enactments as would be applicable in an assessment of damages were proceedings to be brought in relation to the relevant claim concerned.
+
+F37[(5) In making, on or after the date of coming into operation of section 99 of the Judicial Council Act 2019, an assessment in relation to a relevant claim of the amount of damages for personal injuries the claimant is entitled to, assessors shall—
+
+(*a*) have regard to the personal injuries guidelines (within the meaning of that Act) in force, and
+
+(*b*) where they depart from those guidelines, state the reasons for such departure and include those reasons in the assessment in writing under *section 30(1)*.]
+
+F38[(6) Notwithstanding *subsections (4)* and *(5)*, the Board, when making an assessment of a claim in a civil action referred to in *section 3(aa)*, shall take into account the following:
+
+(*a*) in the case of a claim relating to personal injuries not causing death, paragraphs (a) and (b) of section 23(3) of the Act of 2022 and section 23(4) of the Act of 2022,
+
+(*b*) in the case of a claim relating to a death, paragraphs (b) to (e) of section 23(6) of the Act of 2022 and section 23(7) of the Act of 2022.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F36: Substituted (24.04.2021) by *Family Leave and Miscellaneous Provisions Act 2021* (4/2021) s. 31(a), S.I. No. 180 of 2021.
+>
+> F37: Inserted (24.04.2021) by *Family Leave and Miscellaneous Provisions Act 2021* (4/2021) s. 31(b), S.I. No. 180 of 2021.
+>
+> F38: Inserted (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 21(1)(c), S.I. No. 163 of 2023.
+>
+> **Modifications (not altering text):**
+>
+> C9: Subs. (1) construed (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 20(g), S.I. No. 163 of 2023.
+>
+> **Modifications to application of Act of 2003**
+>
+> 20\. The Act of 2003 shall apply to, and in relation to, an application to which section 19 refers, subject to the following modifications and any other necessary modifications: ...
+>
+> (*g*) it shall be read as if the reference in section 20(1) of the Act of 2003 to the assumption that the respondent or respondents are fully liable to the claimant in respect of the claim is a reference to the assumption that the Garda Commissioner, or any person entitled, by or under any enactment, to act on behalf of the Garda Commissioner in an action to which section 3(aa) of the Act of 2003 applies, is fully liable to pay any award of damages made to the claimant in respect of the claim;
+>
+> ...
+
+#### 21. Section 20: supplemental provisions.
+
+**21.**—(1) The assessors shall make their assessment by reference to the information, records or other documents required or authorised by this Act to be furnished to them; no hearing shall be conducted by them for that purpose.
+
+(2) The assessors may also have regard, for that purpose, to relevant information, records or documents that came, before the commencement of this section, into the possession of the board known as the “Interim Personal Injuries Assessment Board” established on 27 November 2002 by the Minister for Enterprise, Trade and Employment.
+
+F39[(3A) If the assessment is an assessment of a relevant claim relating to a civil action referred to in *section 3(aa)* that is being taken by or for the benefit of persons to whom section 8(2)(b) of the Act of 2022 applies, the assessment shall specify the proportion of the amount of damages it provides for to which each of those persons is to be entitled.]
+
+(3) If the assessment is an assessment of a relevant claim relating to a proposed action for damages under section 48 of the Act of 1961 the assessment shall specify the proportion of the amount of damages it provides for to which each of the dependants concerned is to be entitled.
+
+(4) An assessment shall not, in respect of the damages which it provides for, specify that they shall be paid in 2 or more instalments.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F39: Inserted (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 21(1)(d), S.I. No. 163 of 2023.
+
+#### 22. Power to impose charges.
+
+**22.**—F40[(1) The Board, with the consent of the Minister may, and if directed by the Minister to do so shall, make regulations enabling the Board to impose the charges referred to in *subsection (2)* in respect of the dealing by the Board with an application under *section 11* in relation to a relevant claim.]
+
+(2) Those charges are—
+
+(*a*) a charge on the claimant of an amount specified in the regulations under *subsection (1)*,
+
+(*b*) a charge on the respondent or, as the case may be, each of the respondents of an amount F41[specified in those regulations,]
+
+F42[(*ba*) a charge, additional to that referred to in *paragraph (b)*, on the respondent or, as the case may be, each of the respondents of an amount specified in those regulations for failure to pay within the period provided for by those regulations, and]
+
+(*c*) a charge, additional to that referred to in *paragraph (b)*, on the respondent or, as the case may be, each of the respondents, for the purpose of defraying any amount of the expenses incurred by the Board, or on its behalf, in the making of the assessment concerned that, in its opinion, is of an exceptional kind.
+
+(3) For the purpose of *subsection (2)(c)* and regulations under that provision—
+
+(*a*) “an exceptional kind”, in relation to an amount, means an exceptional kind relative to the amounts of expenses typically incurred by the Board, or on its behalf, in the making of assessments,
+
+(*b*) without prejudice to *paragraph (a)*, any amount of expenses incurred by the Board, or on its behalf, in the arranging of, or the carrying out of, a medical examination referred to in *section 24(2)* is an amount of an exceptional kind.
+
+F43[(4) Different amounts may be specified in regulations under *subsection (1)*—
+
+(*a*) for the purposes of *subsection (2)(b)*—
+
+(i) in relation to different classes of relevant claim, and
+
+(ii) in relation to different stages of a relevant claim,
+
+and
+
+(*b*) for the purposes of *subsection (2)(a)* and *(b)* in relation to the submission of documents in electronic and paper form.]
+
+(5) The Board may refuse to deal with an application under *section 11* if a charge imposed by it pursuant to regulations under *subsection (1)* in relation to the application has not been paid to it.
+
+(6) Any amount of charges imposed pursuant to regulations under *subsection (1)* may be recovered by the Board from the person concerned as a simple contract debt in any court of competent jurisdiction.
+
+(7) Charges may be imposed pursuant to regulations under *subsection (1)* even though, before the making of an assessment of the claim would otherwise have fallen to be made under *section 20*, a settlement is entered into in respect of the relevant claim concerned.
+
+F44[(7A) A respondent referred to in *section 14(1)* shall be liable to the Board for any and all charges incurred by the Board in respect of the respondent in relation to the relevant claim concerned pursuant to regulations made under this section.]
+
+(8) In *subsection (2)* “respondent” includes a non-accepting respondent (within the meaning of *section 34*).
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F40: Inserted (14.12.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 11(a), S.I. No. 626 of 2023, art. 4(g).
+>
+> F41: Substituted (14.12.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 11(b)(i), S.I. No. 626 of 2023, art. 4(g).
+>
+> F42: Inserted (14.12.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 11(b)(ii), S.I. No. 626 of 2023, art. 4(g).
+>
+> F43: Substituted (3.04.2019) by *Personal Injuries Assessment Board (Amendment) Act 2019* (3/2019), s. 5, S.I. No. 123 of 2019.
+>
+> F44: Inserted (13.02.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 11(c), S.I. No. 28 of 2023.
+>
+> **Editorial Notes:**
+>
+> E10: Power pursuant to section exercised (1.12.2025) by *Personal Injuries Resolution Board (Fees) (Amendment) Regulations 2025* (S.I. No. 557 of 2025), in effect as per reg. 3.
+>
+> E11: Power pursuant to section exercised (11.04.2022) by *Personal Injuries Assessment Board (Fees) (Amendment) Regulations 2022* (S.I. No. 124 of 2022), in effect as per reg. 2.
+>
+> E12: Power pursuant to section exercised (1.09.2019) by *Personal Injuries Assessment Board (Fees) (Amendment) Regulations 2019* (S.I. No. 363 of 2019), in effect as per reg. 3.
+>
+> E13: Power pursuant to section exercised (1.01.2013) by *Personal Injuries Assessment Board (Fees) (Amendment) Regulations 2012* (S.I. No. 523 of 2012), in effect as per reg. 2.
+>
+> E14: Power pursuant to section exercised (1.02.2011) by *Personal Injuries Assessment Board (Fees) (Amendment) Regulations 2011* (S.I. No. 41 of 2011), in effect as per reg. 2.
+>
+> E15: Power pursuant to section exercised (1.01.2008) by *Personal Injuries Assessment Board (Fees) (Amendment) Regulations 2007* (S.I. No. 869 of 2007), in effect as per reg. 2; amended (1.02.2011) by *Personal Injuries Assessment Board (Fees) (Amendment) Regulations 2011* (S.I. No. 41 of 2011), in effect as per reg. 2.
+>
+> E16: Power pursuant to section exercised (1.06.2006) by *Personal Injuries Assessment Board (Fees) (Amendment) Regulations 2006* (S.I. No. 264 of 2006), in effect as per reg. 2.
+>
+> E17: Power pursuant to section exercised (1.06.2004) by *Personal Injuries Assessment Board (Fees) Regulations 2004* (S.I. No. 251 of 2004), in effect as per reg. 2; amended (1.06.2006) by *Personal Injuries Assessment Board (Fees) (Amendment) Regulations 2006* (S.I. No. 264 of 2006), in effect as per reg. 2 and (1.01.2008) by *Personal Injuries Assessment Board (Fees) (Amendment) Regulations 2007* (S.I. No. 869 of 2007), in effect as per reg. 2 and (1.02.2011) by *Personal Injuries Assessment Board (Fees) (Amendment) Regulations 2011* (S.I. No. 41 of 2011), in effect as per reg. 2.
+
+#### 23. Power to require additional information, etc.
+
+**23.**—(1) The assessors may request the claimant to furnish to them such information or documents in the possession or control of the claimant, additional to the information contained in, or the documents which accompanied, his or her application under *section 11*, as they consider necessary for the making of the assessment.
+
+(2) The assessors may request the respondent or respondents to furnish to them such information or documents in the possession or control of the respondent or respondents as the assessors consider necessary for the making of the assessment.
+
+(3) If retained experts are assisting the assessors in the making of the assessment the assessors may make the following request if they consider that it is necessary to do so for the purpose of enabling those experts to assist them in the making of the assessment.
+
+(4) That request is a request of the claimant or the respondent or respondents to—
+
+(*a*) provide such assistance to the retained experts,
+
+(*b*) furnish such information or documents to those experts, additional to that or those referred to in *subsection (1)* or *(2)*, or
+
+(*c*) otherwise co-operate with those experts in such manner,
+
+as is or are specified in the request.
+
+#### 24. Medical examination of claimant in certain circumstances.
+
+**24.**—(1) The assessors may make the request referred to in *subsection (2)* if—
+
+(*a*) any information or documents furnished by the claimant, whether initially or pursuant to a request made under *section 23*, and consisting of any medical opinion (whether a diagnosis or prognosis) in relation to the claimant's injuries is not accepted as being correct by a respondent, or
+
+(*b*) the assessors otherwise consider it appropriate to do so.
+
+(2) The request mentioned in *subsection (1)* is a request of the claimant to submit himself or herself to a medical examination which the Board may arrange to be carried out in relation to the claimant by one or more medical practitioners.
+
+(3) That medical practitioner or those medical practitioners shall be a person or persons who have no pecuniary interest or other beneficial interest in, or material to, any matter which could reasonably be affected (whether favourably or unfavourably) by the outcome of the assessment.
+
+(4) For the avoidance of doubt the medical examinations which the Board may arrange to be carried out under this section include a medical examination to be carried out in a place outside the State.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E18: Power pursuant to section exercised (1.06.2004) by *Personal Injuries Assessment Board (Fees) Regulations 2004* (S.I. No. 251 of 2004), regs. 6, 7, in effect as per reg. 2.
+
+#### 25. Failure to comply with a request under section 23 or 24.
+
+**25.**—(1) If a claimant fails to comply with—
+
+(*a*) a request under *section 23(1)*, the assessors shall proceed to make the assessment as best they may in the absence of the information or document to which the request related,
+
+(*b*) a request under *section 23(3)*, the assessors shall proceed to make the assessment as best they may in the absence of the information or document to which the request related having been furnished to the retained experts or, as the case may be, the assistance or co-operation to which the request related having been afforded to those experts,
+
+(*c*) a request under *section 24(1)(a)*, the assessors shall, unless they see good reason for not doing so, make the assessment on the basis that the contention of the respondent concerning the information or document referred to in *section 24(1)* and which gave rise to the making of the request was correct,
+
+(*d*) a request under *section 24(1)(b)*, the assessors shall proceed to make the assessment as best they may in the absence of the information that would have been provided to them had the medical examination to which the request related been carried out.
+
+(2) If a respondent fails to comply with a request under *section 23(2)* or *(3)*, the assessors shall proceed to make the assessment as best they may in the absence of the information or document to which the request related having been furnished to them or the retained experts or, as the case may be, in the absence of the assistance or co-operation to which the request related, having been afforded to those experts.
+
+#### 26. Powers to request information from third parties.
+
+**26.**—(1) The assessors may request any person (including a Department of State or any other public body (other than the Revenue Commissioners)) to furnish to them such records, documents or other information in his or her possession or control as they reasonably request for the purpose of—
+
+(*a*) verifying any item of loss alleged by the claimant in his or her relevant claim, or
+
+(*b*) complying with the provisions of any enactment that requires specified amounts to be deducted or specified matters to be taken account of in the making of an assessment of damages,
+
+and the records, documents or other information that may be the subject of such a request include records, documents or information that came into existence, or into the possession of the person requested, before the passing of this Act, and it shall be the duty of such person to comply with such request.
+
+(2) Without prejudice to the generality of *subsection (1)*, the assessors may, for the purpose specified in *subsection (3)*, request the Department of the Environment, Heritage and Local Government to furnish to them relevant particulars in relation to a mechanically propelled vehicle contained in a database that is maintained by it for the purposes of any Community act.
+
+(3) The purpose mentioned in *subsection (2)* is the purpose of the Board's ascertaining the identity of the insurance company or undertaking, if any, which has entered in to an approved policy of insurance (within the meaning of the Road Traffic Act 1961) in respect of the vehicle referred to in that subsection.
+
+(4) If the database referred to in *subsection (2)* is maintained for the time being by another person on behalf of the Department of the Environment, Heritage and Local Government the reference in that subsection to that Department of State shall, for so long as the database is maintained by that other person, be construed as a reference to that person.
+
+#### 27. Section 26: supplemental provisions.
+
+**27.**—(1) If a person fails or refuses to comply with a request made by the assessors under *section 26* the assessors may apply to the District Court for an order under *subsection (2)*.
+
+(2) On the hearing of an application under this section, the District Court may, if it thinks fit, make an order directing the person concerned to comply with the relevant request.
+
+(3) A person who fails or refuses to comply with an order made under *subsection (2)* is guilty of an offence.
+
+(4) The jurisdiction of the District Court under this section shall be exercised by the judge of the District Court for the time being assigned to the district court district in which the person against whom the order concerned is sought resides or carries on business.
+
+#### 28. Limited power to require certain other information.
+
+**28.**—(1) A claimant, by virtue of his or her having made an application under *section 11*, shall be deemed to have consented to the Revenue Commissioners complying with the following request.
+
+(2) That request is a request by the assessors (which by virtue of this section they have power to make) of the Revenue Commissioners to furnish to the assessors particulars or other information in their possession or control in relation to the amount of income of the claimant for the purpose, and the purpose only of, the assessors' verifying any item of financial loss that is alleged by the claimant in his or her relevant claim and which relates to that income.
+
+(3) Notwithstanding any enactment, it shall be the duty of the Revenue Commissioners to comply with such a request unless the consent referred to in *subsection (1)* is deemed to have been revoked by virtue of *subsection (4)*.
+
+(4) That consent shall be deemed to have been revoked if, at the date of the making of the request of the Revenue Commissioners, the application under *section 11* of the claimant concerned stands withdrawn by him or her in accordance with *section 47*.
+
+(5) The particulars or other information that may be the subject of a request under this section include particulars or other information that came into existence, or into the possession of the Revenue Commissioners, before the passing of this Act.
+
+#### 29. Special provision in relation to vulnerable parties.
+
+**29.**—(1) If the Board considers it to be a reasonable inference from the manner in which a claimant or a respondent has completed, or is completing or attempting to complete, a step required to be taken by him or her by or under this Act that he or she does not have a sufficient appreciation of the legal consequences the taking of that step, or the following of the procedures generally under this Act, may have in respect of his or her rights or obligations as regards the relevant claim, it shall be the duty of the Board to do one, or more than one, as it considers appropriate, of the following things.
+
+(2) Those things are—
+
+(*a*) to advise the claimant or respondent, as appropriate, of the desirability of his or her obtaining legal advice in the matter,
+
+(*b*) to provide an explanation to the claimant or the respondent of the legal consequences generally a failure to complete properly the step concerned or to follow properly the procedures generally under this Act may have in respect of a claimant's or respondent's rights or obligations as regards a relevant claim,
+
+(*c*) to provide such assistance as the Board considers reasonable to the claimant or the respondent, as appropriate, in completing the step concerned properly or, as the case may be, re-taking that step in a proper manner.
+
+(3) The respondent or respondents or, as appropriate, the claimant shall be informed by the Board, as soon as may be after the doing of that or those things, of the fact that one or more of the things referred to in *subsection (2)* (but not the doing alone of the thing referred to in *paragraph (a)* of that subsection) has been done.
+
+(4) The Board shall ensure that the doing of the thing referred to in *paragraph (b)* or *(c)* of *subsection (2)* is accompanied by a statement to the claimant or the respondent, as appropriate, that the doing of that thing does not absolve the Board of the duty to cause an assessment of the relevant claim concerned to be made impartially.
+
+(5) For the avoidance of doubt no statement contained in any medical report or other document furnished to the assessors in respect of the relevant claim concerned, of itself, gives rise to any duty on the part of the Board to do one or more of the things specified in *subsection (2)*.
+
+#### 30. Parties to indicate whether or not they accept assessment.
+
+**30.**—(1) Having made their assessment of a relevant claim the assessors shall reduce the assessment to writing and the Board shall serve the assessment on the claimant and the respondent or each of the respondents, together with the following notice.
+
+(2) That notice is a notice requesting—
+
+(*a*) in the case of a notice served on the claimant, the claimant to state to the Board in writing within 28 days, or such greater period as may be specified by rules under *section 46*, from the service of the notice whether he or she accepts the assessment, and
+
+(*b*) in the case of a notice served on a respondent, the respondent to state to the Board in writing within 21 days from the service of the notice whether he or she accepts the assessment.
+
+(3) If—
+
+(*a*) a next friend or, as appropriate, a guardian of the claimant or the respondent, (or, as the case may be, any one or more of 2 or more respondents) who is a minor or a person of unsound mind is acting on behalf of the claimant or that respondent or those respondents in the F45[matter,]
+
+F46[(*aa*) a person referred to in section 8(4) of the Act of 2022 is acting on behalf of a person in the matter, or]
+
+(*b*) a committee of the claimant or the respondent (or, as the case may be, any one or more of 2 or more respondents) who is a person of unsound mind is acting on behalf of the claimant or that respondent or those respondents in the matter,
+
+the notice referred to in *subsection (1)* shall also include a direction to the next friend, F47[guardian, person referred to in section 8(4) of the Act of 2022 or] committee that he or she or it obtain legal advice from a person who is independent of him or her or it as to whether the assessment ought to be accepted.
+
+(4) The reference in *subsection (2)(a)* to a statement as to the acceptance of the assessment is, if the claim concerned falls within *subsection (3)* F48[or is one relating to a proposed action for damages under section 48 of the Act of 1961], a reference to a statement as to the acceptance (subject to the approval of the court under *section 35* of the assessment) of the assessment.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F45: Substituted (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 21(e)(i), S.I. No. 163 of 2023.
+>
+> F46: Inserted (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 21(e)(ii), S.I. No. 163 of 2023.
+>
+> F47: Substituted (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 21(e)(iii), S.I. No. 163 of 2023.
+>
+> F48: Inserted (21.07.2004) by *Civil Liability and Courts Act 2004 (31/2004)*, s. 32(2), commenced as per s. 1(3), subject to transitional provision in s. 6.
+
+#### 31. Deemed acceptance or non-acceptance of assessment.
+
+**31.**—(1) If the claimant fails to state in writing, in response to the notice under *section 30*, within the period specified in it, whether or not he or she accepts the assessment he or she shall be deemed not to have accepted it.
+
+(2) If a respondent fails to state in writing, in response to the notice under *section 30*, within the period specified in it, whether or not he or she accepts the assessment, he or she shall be deemed to have accepted it.
+
+#### 32. Proceedings to be authorised if assessment not accepted.
+
+**32.**—(1) In a case either—
+
+(*a*) to which *section 31(1)* applies, or
+
+(*b*) in which the claimant or a respondent states in writing, in response to the notice under *section 30*, within the period specified in it, that he or she does not accept the assessment,
+
+it shall be the duty of the Board, as soon as may be after the expiry of that period, to issue to the claimant a document that contains the statement and operates to have the effect mentioned in *subsection (3)*.
+
+(2) Such a document is also referred to in this Act as an “authorisation”.
+
+(3) An authorisation under this section shall state that the claimant is authorised to, and operate to authorise the claimant to, bring proceedings in respect of his or her relevant claim and such an authorisation shall be in addition to any authorisation issued under *section 14* to the claimant.
+
+#### 33. Assessment binding on parties unless section 32 applies.
+
+**33.**—(1) Unless one or other of the cases mentioned in *section 32(1)* applies in respect of the assessment concerned, the assessment shall, subject to *subsection (3)* and *section 35*, become binding on—
+
+(*a*) the claimant, and
+
+(*b*) the respondent or, as the case may be and subject to *section 34*, each of the respondents,
+
+on the expiry of the following period.
+
+(2) That period is the period specified in the notice mentioned in *section 30(2)(a)* that was served on the claimant.
+
+(3) The assessment shall not be binding on a person who proves that, at the time of his or her acceptance, or deemed acceptance, in accordance with this Part, of the assessment he or she was not of sound mind.
+
+(4) *Subsection (3)* does not apply if—
+
+(*a*) in the case of a claimant, a next friend or a committee of the claimant is acting on his or her behalf, and
+
+(*b*) in the case of a respondent, a guardian or a committee of the respondent is acting on his or her behalf.
+
+#### 34. Position of respondent or respondents who do not accept assessment.
+
+**34.**—If there are 2 or more respondents as respects a relevant claim and one or more but not all of them makes a statement of the kind referred to in *section 32(1)(b)* the following provisions have effect—
+
+(*a*) the assessment made under *section 20*, though accepted by the other respondent or respondents, shall not be binding on the respondent or respondents who made such a statement (the “non-accepting respondent or respondents”),
+
+(*b*) *section 32* shall have effect as if the following subsections were substituted for *subsection (3)*:
+
+“(3) An authorisation under this section shall state that the claimant is authorised to, and operate to authorise the claimant to, bring proceedings in respect of his or her relevant claim against only the non-accepting respondent or respondents (within the meaning of *section 34*) and such an authorisation shall be in addition to any authorisation issued under *section 14* to the claimant (but this subsection is subject to the following subsection).
+
+(4) *Subsection (3)* does not prejudice the operation of *section 41* (which relates to the application of section 16 of the Act of 1961 (satisfaction by one wrongdoer discharging the other wrongdoer or wrongdoers)) and, accordingly, the proceedings authorised by that subsection to be brought—
+
+(*a*) shall cease to be maintainable if the amount or amounts specified in an order to pay issued by the Board in respect of the relevant claim are paid to the claimant, or
+
+(*b*) if only a portion of the amount or amounts specified in such an order to pay is paid to the claimant, shall be maintainable in respect of only the balance outstanding.”.
+
+#### 35. Approval of court required for certain assessments.
+
+**35.**—(1) This section applies to a relevant claim where—
+
+(*a*) a next friend or the committee of a minor or a person of unsound mind is acting on behalf of the minor or person in respect of the F49[claim,]
+
+F50[(*aa*) a person referred to in section 8(4) of the Act of 2022 is acting on behalf of a person in relation to a claim,
+
+(*ab*) the claim relates to a civil action referred to in *section 3(aa)* that is being taken by or for the benefit of persons to whom section 8(2)(b) of the Act of 2022 applies, or]
+
+(*b*) the claim relates to a proposed action for damages under section 48 of the Act of 1961,
+
+F51[and the next friend, committee, person referred to in *paragraph (aa)*, person taking the civil action referred to in *paragraph (ab)*, or the person proposing to bring the action for damages referred to in *paragraph (b)*, as the case may be] accepts, subject to the assessment being approved under this section, the assessment made under *section 20* of the relevant claim.
+
+(2) Where any enactment or rule of court requires any settlement of a relevant claim to which this section applies to be approved by the court then that enactment or rule of court shall apply, with the necessary modifications, to the assessment referred to in *subsection (1)* as if proceedings had been brought in relation to the claim, and the court shall have jurisdiction to approve the assessment accordingly on application in that behalf being made by the next friend, committee or other person referred to in that subsection.
+
+(3) The court shall order that the costs of such an application by the applicant shall be borne by the respondent or respondents.
+
+(4) Unless and until an assessment of a relevant claim to which this section applies has been approved by the court, the assessment, despite *section 33*, shall not become binding on the claimant and the respondent or respondents.
+
+(5) In this section “court” means the court which has jurisdiction to make an award of damages of the amount of the assessment the subject of the application for approval or, if 2 or more courts have jurisdiction to make such an award, whichever of them possesses the lesser or the least jurisdiction to make an award of damages in respect of relevant claims.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F49: Substituted (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 21(f)(i), S.I. No. 163 of 2023.
+>
+> F50: Inserted (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 21(f)(ii), S.I. No. 163 of 2023.
+>
+> F51: Substituted (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 21(f)(iii), S.I. No. 163 of 2023.
+
+#### 36. Authorisation to bring proceedings where assessment not approved.
+
+**36.**—(1) If the court does not approve an assessment the subject of an application to it under *section 35*, then it shall be the duty of the Board, as soon as may be after the court refuses to approve the assessment, to issue to the claimant concerned a document that contains the statement and operates to have the effect mentioned in *subsection (3)*.
+
+(2) Such a document is also referred to in this Act as an “authorisation”.
+
+(3) An authorisation under this section shall state that the claimant is authorised to, and operate to authorise the claimant to, bring proceedings in respect of his or her relevant claim against the respondent or respondents who accepted, or, in accordance with this Part, is or are deemed to have accepted, the assessment concerned and such an authorisation shall be in addition to any authorisation issued under another provision of the Act to the claimant.
+
+#### 37. Certain statements, etc., not to prejudice claimant or respondent.
+
+**37.**—(1) In neither of the cases referred to in *subsection (2)* shall the statement concerned of the claimant or, as the case may be, the respondent (or, as appropriate the deemed acceptance by the respondent) be capable of being used in evidence against the claimant or the respondent (or, in the case of the respondent, constitute an admission of liability by him or her) or operate in any manner to prejudice any proceedings.
+
+(2) The cases referred to in *subsection (1)* are—
+
+(*a*) a case in which a statement in writing, in response to a notice under *section 30*, is made by a claimant that he or she accepts an assessment in circumstances where a statement in writing, in response to such a notice, is made by a respondent that he or she does not accept that assessment, and
+
+(*b*) a case in which either—
+
+(i) a statement in writing, in response to a notice under *section 30*, is made by a respondent that he or she does accept an assessment, or
+
+(ii) a respondent is deemed, by virtue of *section 31*, to have accepted an assessment,
+
+in circumstances where a statement in writing, in response to such a notice, is made by a claimant that he or she does not accept that assessment.
+
+#### 38. Enforceability of assessment.
+
+**38.**—(1) Within one month after F52[an assessment or an agreement under *section 18C(1)(b)*] becomes binding on the claimant and the respondent or, as the case may be, each of the respondents the Board shall issue to the respondent or each of the respondents a document (in this Act referred to as an “order to pay”).
+
+F53[(2) An order to pay shall state that the respondent to whom it is issued is liable to pay—
+
+F54[(*a*) to the Minister for Social Protection, the amount of recoverable benefits specified in the relevant statement of recoverable benefits, if any, in accordance with the provisions of Part 11B (amended by section 12 of the Social Welfare (Miscellaneous Provisions) Act 2015) of F55[the Social Welfare Consolidation Act 2005,]]
+
+(*b*) to the claimant—
+
+(i) the amount of damages specified in the assessment less the amount referred to in *paragraph (a)*, and
+
+(ii) the amount, if any, directed to be paid under section 44 or 45 or both of F56[those sections, and]]
+
+F57[(*c*) to the Board, the amount of any outstanding charges payable to the Board by the respondent in accordance with regulations under *section 22*.]
+
+(3) If the assessment is binding on more than one respondent, the liability of the respondents for payment of that amount or those amounts shall be joint and several and an order to pay shall include a statement to that effect.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F52: Substituted (14.12.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 12(a), S.I. No. 626 of 2023, art. 4(g).
+>
+> F53: Substituted (1.08.2014) by *Social Welfare and Pensions Act 2013* (38/2013), s. 14, S.I. No. 308 of 2014.
+>
+> F54: Substituted (6.05.2015) by *Social Welfare (Miscellaneous Provisions) Act 2015* (12/2015), s. 17, commenced on enactment.
+>
+> F55, F56: Substituted (13.02.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 12(b)(i), (ii), S.I. No. 28 of 2023.
+>
+> F57: Inserted (13.02.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 12(b)(iii), S.I. No. 28 of 2023.
+
+### Chapter 3Legal status of order to pay, etc. — Chapter 3 — Legal status of order to pay, etc.
+
+#### 39. What this Chapter specifies.
+
+**39.**—This Chapter specifies the effect an order to pay or, as appropriate, an assessment has for various purposes (including the purposes of certain provisions of the Act of 1961); a different effect is specified by reference to the different circumstances in which an order to pay or an assessment falls to be considered and, in particular, circumstances—
+
+(*a*) in which there is a default in payment of the amount or amounts specified in an order to pay, and
+
+(*b*) in which a respondent who has paid the amount or amounts specified in an order to pay seeks to make a claim for contribution against one or more concurrent wrongdoers in respect of the relevant claim concerned.
+
+#### 40. Primary legal effect of order to pay.
+
+**40.**—(1) As between—
+
+(*a*) the claimant and the respondent or respondents, and
+
+(*b*) 2 or more respondents,
+
+an order to pay shall, without prejudice to the other provisions of this Chapter, operate as if it were a judgment of a court given for the amount or amounts concerned.
+
+(2) Accordingly the provisions of every enactment (and in particular section 26 of the Debtors (Ireland) Act 1840 but not section 22 of the Courts Act 1981) and every instrument under an enactment shall, with any adaptations of them that may be made under *subsection (3)*, apply to an order to pay as they apply to a judgment of a court.
+
+(3) The authority for the time being having power to make rules regulating the practice and procedure of any court (being a court which would have jurisdiction to make an award of the amount or amounts specified in the order to pay concerned) may make rules providing for such adaptations of any enactment or instrument referred to in *subsection (2)* as are necessary for the purpose of enabling each of the methods that are available for the enforcement of a judgment of that court available for the purpose of the enforcement of an order to pay.
+
+#### 41. Order to pay to operate as satisfaction of claimant's claim.
+
+**41.**—(1) If the amount or amounts specified in an order to pay are paid to the claimant such payment shall constitute a satisfaction of the claimant's relevant claim for the purposes of section 16 of the Act of 1961 as if the claimant had agreed that that payment would be a payment of the full damages to him or her in respect of the claim.
+
+(2) If only a portion of the amount or amounts specified in an order to pay are paid to the claimant such payment shall constitute a partial satisfaction of the claimant's relevant claim for the purposes of section 16 of the Act of 1961.
+
+#### 42. Application of section 22 of Act of 1961 (claims for contributions between concurrent wrongdoers).
+
+**42.**—(1) As between—
+
+(*a*) one or more respondents and either or both—
+
+(i) one or more non-participating respondents,
+
+(ii) one or more non-accepting respondents,
+
+(*b*) one or more non-participating respondents or non-accepting respondents and either or both—
+
+(i) one or more other non-participating respondents,
+
+(ii) one or more other non-accepting respondents,
+
+and
+
+(*c*) any one or more of the foregoing persons and one or more other persons (not falling within either of the preceding paragraphs) who are concurrent wrongdoers as respects the relevant claim,
+
+an order to pay shall, for the purposes of section 22 of the Act of 1961, be regarded as a settlement by the first-mentioned respondent or respondents in *paragraph (a)* with the claimant of his or her relevant claim.
+
+(2) In this section and the following section—
+
+“non-accepting respondent” has the same meaning as it has in *section 34*;
+
+“non-participating respondent” has the same meaning as it has in *section 15*.
+
+#### 43. Application of section 18 of Act of 1961.
+
+**43.**—For the purposes of the application of section 18 of the Act of 1961 in circumstances where a claimant is not barred from bringing proceedings against a non-participating or non-accepting respondent or respondents, an assessment of the claimant's relevant claim or, if an order to pay in respect of it has been issued, that order to pay, shall be deemed to be an award of damages, of the amount or amounts specified in the assessment or the order to pay, made by the judgment first given (within the meaning of that section).
+
+### Chapter 4Miscellaneous — Chapter 4 — Miscellaneous
+
+#### 44. Expenses incurred by claimant.
+
+**44.**—(1) Without prejudice to *section 45*, on an assessment having been made the Board may include in the notice it serves under *section 30* in relation to the assessment the following statement.
+
+(2) That statement (“the statement”) is one to the effect that the Board will direct, if the assessment is accepted by the claimant and accepted or deemed to be accepted by the respondent or one or more of the respondents, that the respondent or respondents who accept or are deemed to have accepted the assessment shall pay to the claimant, in addition to the amount of the assessment, a specified amount, being the whole or part, as the Board, in its discretion, determines, of the amount of the following fees or expenses of the claimant.
+
+(3) Those fees or expenses are fees or expenses that, in the opinion of the Board, have been reasonably and necessarily incurred by the claimant in complying with the provisions of this Part or any rules under *section 46* in relation to his or her relevant claim.
+
+(4) If the assessment is accepted or deemed to be accepted, in accordance with this Part, by the claimant and the respondent or one or more of the respondents the Board shall direct that that respondent or those respondents shall pay to the claimant the amount specified in the statement.
+
+(5) The statement shall indicate, in brief terms, the nature of the fees or expenses to which the amount specified in the statement relates; not later than 10 days before the expiry of the period mentioned in *section 30(2)(b)* a respondent may request the Board to furnish to him or her such further details as he or she may reasonably specify in relation to the nature of those fees or expenses and the manner in which the foregoing amount was calculated by the Board and the Board shall comply with such a request.
+
+(6) In this section “fees or expenses” do not include fees or expenses to which *section 45* applies.
+
+#### 45. Fees or expenses where direction referred to in section 30(3) given.
+
+**45.**—(1) If a direction to the F58[next friend, guardian, or committee of the claimant, or person referred to in section 8(4) of the Act of 2022] of the kind referred to in *subsection (3)* of *section 30* is included in a notice under that section that direction shall include the following statement.
+
+(2) That statement is one to the effect that the Board will direct, if the assessment concerned is accepted by the claimant and accepted or deemed to be accepted by the respondent or one or more of the respondents, that the respondent or respondents who accept or are deemed to have accepted the assessment shall pay to the claimant, in addition to the amount of the assessment and any amount directed to be paid under *section 44*, the whole of the fees or expenses reasonably incurred by the F59[next friend, guardian, person referred to in section 8(4) of the Act of 2022 or committee in] complying with the direction referred to in *subsection (1)*.
+
+(3) If the assessment is accepted or deemed to be accepted, in accordance with this Part, by the claimant and the respondent or one or more of the respondents the Board shall direct that that respondent or those respondents shall pay to the claimant the whole of the fees or expenses referred to in *subsection (2)*.
+
+(4) If a direction under *subsection (3)* is given, and the respondent or respondents concerned and the F60[next friend, guardian, or committee of the claimant, or person referred to in section 8(4) of the Act of 2022] cannot agree as to what is the amount, for the purposes of this section, of the fees or expenses reasonably incurred by the F61[next friend, guardian, person referred to in section 8(4) of the Act of 2022 or committee in] complying with the direction referred to in *subsection (1)*, those fees and expenses shall be taxed by a Taxing Master of the High Court or, if the Board determines it would be more appropriate, having regard to the limited amounts involved, for a county registrar to do so and so directs, the county registrar for the circuit of the Circuit Court in which the respondent or any of the respondents concerned resides or carries on business.
+
+(5) A reference in this Act to an amount specified in an order to pay shall, in so far as the reference relates to an amount the subject of a direction under *subsection (3)*, be deemed to be a reference to the amount, as agreed between the parties concerned or taxed under *subsection (4)*, in respect of the fees or expenses the subject of that direction.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F58, F59, F60, F61: Substituted (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 21(1)(g)(i), (ii), S.I. No. 163 of 2023.
+
+#### 46. Rules.
+
+**46.**—(1) Subject to the provisions of F62[this Part (including this Part as applied by section 19 of the Act of 2022)], the Board may make rules concerning the procedure to be followed under this Part in relation to—
+
+(*a*) the making of applications under *section 11*,
+
+(*b*) the making of assessments under *section 20*, and
+
+(*c*) matters consequential on, or incidental to the foregoing.
+
+(2) Rules under this section shall enable the Board to supply a copy of any records or other documents furnished by a claimant or a respondent to it, pursuant to F63[this Act (including this Act as applied by section 19 of the Act of 2022)] or the exercise by it or any member of its staff of powers under F64[this Act (including this Act as applied by section 19 of the Act of 2022)], to a respondent or, as the case may be, a claimant in relation to the relevant claim concerned.
+
+(3) F65[Except in relation to a civil action to which *section 3(aa)* refers, rules under] this section shall enable the Board (subject to rules under *subsection (4)*) to issue to a claimant a document (in this Act also referred to as an “authorisation”), in circumstances where the claimant is not otherwise authorised under a provision of this Act to bring proceedings in respect of his or her relevant claim, in either or both of the following cases, namely—
+
+(*a*) *section 18(3)* or *(6)* applies in respect of one or more of the respondents to the relevant claim and the claimant wishes to bring proceedings in respect of that claim against that respondent or those respondents (acting, unless he, she or they are no longer of unsound mind, by a guardian or a committee),
+
+(*b*) the claimant wishes to bring proceedings in respect of his or her relevant claim against one or more persons whom he or she omitted, through a genuine oversight or ignorance of all of the facts relating to the matter, to specify in his or her application under *section 11* as being a person or persons liable to him or her in respect of that claim.
+
+(4) Rules under this section shall enable the Board to defer making a decision as to whether to issue an authorisation referred to in *subsection (3)* unless and until the relevant claim concerned has been the subject of an assessment or, as appropriate, a fresh assessment under this Act (which rules under this section may include a requirement for (but subject to those rules permitting the Board to waive that requirement where, due to lapse of time or other circumstances, compliance with that requirement would unduly interfere with the claimant's right to bring proceedings)).
+
+(5) An authorisation referred to in *subsection (3)* shall state that the claimant is authorised to, and operate to authorise the claimant to, bring proceedings in respect of his or her relevant claim against the person or persons concerned and such an authorisation shall be in addition to any authorisation issued under another provision of this Act to the claimant.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F62, F63, F64, F65: Substituted (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 21(h)(i)-(iii), S.I. No. 163 of 2023, without prejudice to the generality of subs. (2).
+>
+> **Editorial Notes:**
+>
+> E19: Power pursuant to section exercised (14.12.2023) by *Personal Injuries Assessment Board Rules, 2023 (No. 2)* (S.I. No. 617 of 2023), in effect as per art. 2.
+>
+> E20: Previous affecting provision: power pursuant to section exercised (4.09.2023) by *Personal Injuries Assessment Board Rules 2023* (S.I. No. 425 of 2023), in effect as per art. 2; revoked (14.12.2023) by *Personal Injuries Assessment Board Rules, 2023 (No. 2)* (S.I. No. 617 of 2023), art. 24, in effect as per art. 2.
+>
+> E21: Previous affecting provision: power pursuant to section exercised (4.04.2019) by *Personal Injuries Assessment Board Rules 2019* (S.I. No. 140 of 2019); revoked (4.09.2023) by *Personal Injuries Assessment Board Rules 2023* (S.I. No. 425 of 2023), art. 13, in effect as per art. 2.
+>
+> E22: Previous affecting provision: power pursuant to section exercised (12.05.2004) by *Personal Injuries Assessment Board Rules 2004* (S.I. No. 219 of 2004); revoked (4.04.2019) by *Personal Injuries Assessment Board Rules 2019* (S.I. No. 140 of 2019), art. 10.
+
+#### 47. Withdrawal of application under section 11.
+
+**47.**—(1) A claimant may, in accordance with rules under *section 46*, withdraw an application made by him or her under *section 11* at any time before an assessment is made in respect of the relevant claim concerned and, where a claimant does so, the Board shall cause no step or no further step under this Part in relation to the claim to be taken.
+
+(2) If such an application is so withdrawn the claimant may not, in relation to the relevant claim concerned, either—
+
+(*a*) make a fresh application under *section 11*, or
+
+(*b*) bring proceedings.
+
+(3) Where a claimant indicates that he or she wishes to withdraw an application made by him or her, the Board shall, by notice served on him or her, notify the claimant of the desirability of obtaining legal advice before withdrawing the application and the application shall not be regarded as withdrawn unless and until, 14 or more days having elapsed from the service of that notice, a withdrawal by the claimant, in the form specified by rules under *section 46*, of the application is received by the Board.
+
+#### 48. Assessment of relevant claims where proceedings concerned brought before commencement of section 6.
+
+**48.**—(1) Rules under *section 46* may enable the Board to cause an assessment of a relevant claim referred to in *subsection (2)* to be made under *section 20* on the joint application of the parties to the proceedings concerned and provide, with any necessary modifications, for the application of such provisions of this Act as, in the opinion of the Board, are necessary and expedient in relation to the making of such an assessment and the assessment so made.
+
+(2) The relevant claim mentioned in *subsection (1)* is one the subject of proceedings brought before the commencement of *section 6*.
+
+#### 49. Assessments to be made expeditiously.
+
+**49.**—(1) It shall be the duty of the Board to ensure that assessments in respect of relevant claims are made as expeditiously as may be and, for that purpose, to take all such steps as are open to it to ensure that, in so far as is practicable, there are no avoidable delays at any stage in the making of assessments.
+
+(2) In particular, and without prejudice to the generality of *subsection (1)*, it shall, subject to *subsection (4)*, be the duty of the Board to ensure that every assessment is made within a period of 9 months beginning on (without prejudice to *subsection (3)*)—
+
+(*a*) if there is only one respondent as respects the relevant claim concerned, the date on which it receives the respondent's consent to an assessment being made under *section 20* in relation to that claim,
+
+(*b*) if there are 2 or more respondents as respects the relevant claim concerned—
+
+(i) where only one of them consents to such an assessment being made in relation to that claim (irrespective of whether there is a failure of the kind mentioned in *subsection (3)* on the part of the other or others), the date on which it receives that consent,
+
+(ii) where 2 or more of the respondents consent to such an assessment being made in relation to that claim (irrespective of whether there is a failure of the foregoing kind on the part of the other or others), the date it receives those consents or, if the dates on which it receives those consents are not the same, the earlier or earliest of the dates on which it receives one of those consents.
+
+(3) If a failure of the kind referred to in F66[*section 14(1)(c)(ii)*] occurs on the part of the respondent or, if there are 2 or more respondents as respects the relevant claim concerned, on the part of each of them the period of 9 months referred to in *subsection (2)* begins on the expiry of the period specified in the notice served under F67[*section 13(1)(b)*] on the respondent or, as the case may be, each of the respondents.
+
+(4) Where it appears to the Board that it would not be possible or appropriate, because of the particular circumstances of the relevant claim concerned, to make an assessment in respect of it within the period referred to in *subsection (2)*, the Board shall, by notice in writing served on the claimant and the respondent or respondents before the expiration of that period, inform each of them of the reasons why it would not be possible or appropriate (as the case may be) to make the assessment within that period and shall specify the date before which the Board intends that the assessment shall be made; the date so specified shall not be a date that falls more than 6 months after the end of the period referred to in *subsection (2)*.
+
+(5) Where a notice has been served under *subsection (4)*, the Board shall take all such steps as are open to it to ensure that the assessment is made before the date specified in the notice.
+
+(6) If the assessment is not made before that date, then unless the claimant consents in writing to the Board's continuing to deal with the matter, it shall be the duty of the Board, as soon as may be after that date, to issue to the claimant a document that contains the statement and operates to have the effect mentioned in *subsection (8)*.
+
+F68[(6A) Where a claimant who has consented under *subsection (6)*, subsequently gives notice in writing to the Board of the withdrawal of his or her consent, it shall be the duty of the Board, as soon as may be after the date of the notice, to issue to the claimant a document that contains the statement and operates to have the effect mentioned in *subsection (8)*.]
+
+F69[(7) A document referred to in *subsection (6)* or *(6A)* is also referred to in this Act as an “authorisation”.]
+
+(8) An authorisation under this section shall state that the claimant is authorised to, and operate to authorise the claimant to, bring proceedings in respect of his or her relevant claim.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F66: Substituted (14.12.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 13(a), S.I. No. 626 of 2023, art. 4(g).
+>
+> F67: Substituted (3.04.2019) by *Personal Injuries Assessment Board (Amendment) Act 2019* (3/2019), s. 6, S.I. No. 123 of 2019.
+>
+> F68: Inserted (13.02.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 13(b), S.I. No. 28 of 2023.
+>
+> F69: Substituted (13.02.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 13(c), S.I. No. 28 of 2023.
+
+#### 49A. Assessment of relevant claims where long term prognosis is awaited
+
+F70[**49A.** (1) Without prejudice to *section 49*, and subject to *subsection (5)*, where it appears to the Board having regard to—
+
+(*a*) a report referred to in *section 11(3)(c)*, or
+
+(*b*) a medical examination under *section 24(2)*,
+
+that a long term prognosis in respect of the personal injury or injuries to which the relevant claim relates is unlikely to be available within the period referred to in *section 49(2)*, the Board shall, by notice in writing served on the claimant and the respondent or respondents before the expiration of that period, inform each of them that it will not be possible or appropriate to make an assessment within that period.
+
+(2) A notice under *subsection (1)* shall specify the period, which shall be determined by the Board, within which another medical examination (in this section referred to as a “further medical examination”) under *section 24(2)* shall be undertaken.
+
+(3) Where a further medical examination has been completed and a long term prognosis has not been determined, the Board shall serve a notice in writing on the claimant and the respondent or each of the respondents stating that the long term prognosis has not been determined and requesting each of them to confirm in writing whether or not they consent to the Board continuing to deal with the matter.
+
+(4) Where the claimant or any of the respondents has not consented to the Board continuing to deal with the matter under *subsection (3)*, it shall be the duty of the Board to issue to the claimant a document that contains the statement and operates to have the effect mentioned in *subsection (9)*.
+
+(5) Where the period determined by the Board under *subsection (2)* is such that the Board determines that it would not be possible or appropriate to make the assessment within 2 years of the expiration of the period referred to in *section 49(2)*, the Board shall by notice in writing served on the claimant and the respondent or respondents—
+
+(*a*) inform each of them that it would not be possible or appropriate (as the case may be) to make an assessment within that period, and
+
+(*b*) request each of them to confirm in writing whether or not they consent to the Board continuing to deal with the matter.
+
+(6) Where the claimant or any of the respondents has not consented to the Board continuing to deal with the matter under *subsection (5)*, it shall be the duty of the Board to issue to the claimant a document that contains the statement and operates to have the effect mentioned in *subsection (9)*.
+
+(7) Where a claimant or any of the respondents who has consented to the Board continuing to deal with the matter, subsequently gives notice in writing to the Board of the withdrawal of his or her consent, it shall be the duty of the Board, as soon as may be after the date of the notice, to issue to the claimant a document that contains the statement and operates to have the effect mentioned in *subsection (9)*.
+
+(8) A document referred to in *subsection (4)*, *(6)* or *(7)* is also referred to in this Act as an “authorisation”.
+
+(9) An authorisation under this section shall state that the claimant is authorised to, and operate to authorise the claimant to, bring proceedings in respect of his or her relevant claim.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F70: Inserted (13.02.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 14, S.I. No. 28 of 2023.
+
+#### 50. Reckoning of time for purpose of Statute of Limitations, etc.
+
+F71[F72[**50.** In reckoning any period of time for the purpose of any applicable limitation period in relation to a relevant claim (including any limitation period under the Statute of Limitations, 1957, section 9(2) of the Civil Liability Act 1961, the Statute of Limitations (Amendment) Act, 1991 and an international agreement or convention by which the State is bound)—
+
+(*a*) the period beginning on the making of an application under *section 11* in relation to the claim and ending 6 months from the date of issue of an authorisation under, as appropriate, *section 14*, *17*, *32*, F73[*36*, *49* or *49A*] shall be disregarded insofar as it relates to one or more respondents named at the time of the application made under *section 11*, or
+
+(*b*) the period beginning on the addition of a further respondent or respondents in relation to the claim and ending 6 months from the date of issue of an authorisation under, as appropriate, *section 14*, *17*, *32*, F74[*36*, *49* or *49A*] or rules under *section 46(3)(b)* shall be disregarded insofar as it relates to such further respondent or respondents.]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F71: Substituted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 56(1)(d), commenced on enactment, subject to transitional provision in subs. (2).
+>
+> F72: Substituted (3.04.2019) by *Personal Injuries Assessment Board (Amendment) Act 2019* (3/2019), s. 7, S.I. No. 123 of 2019, subject to transitional provision in subs. (2).
+>
+> F73, F74: Substituted (13.02.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 15, S.I. No. 28 of 2023.
+>
+> **Modifications (not altering text):**
+>
+> C10: Application of section restricted (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 20(h),S.I. No. 163 of 2023.
+>
+> **Modifications to application of Act of 2003**
+>
+> 20\. The Act of 2003 shall apply to, and in relation to, an application to which section 19 refers, subject to the following modifications and any other necessary modifications: ...
+>
+> (*h*) it shall be read as if section 50 of the Act of 2003 were deleted.
+
+#### 51. Non-admissibility of assessment in evidence.
+
+**51.**—(1) An assessment made in respect of a relevant claim shall not be admissible in evidence in any proceedings between the claimant and the respondent or respondents in relation to the claim or be referred to in any originating document, pleadings, notice or affidavit relating to those proceedings.
+
+(2) *Subsection (1)* does not apply if the proceedings concerned are in connection with the enforcement of an assessment that has been accepted or deemed to be accepted in accordance with this Part by the claimant and the respondent or one or more of the respondents.
+
+#### 51A. Costs in proceedings where assessment not accepted by claimant.
+
+F75[**51A.**—(1) This section applies to a relevant claim if the following 2 conditions are satisfied in respect of that claim.
+
+(2) Those conditions are that—
+
+(*a*) the claimant either—
+
+(i) has made a statement in writing, in response to a notice under *section 30*, that he or she does not accept an assessment of the relevant claim, or
+
+(ii) is deemed, by virtue of section 31, not to have accepted that assessment,
+
+and
+
+(*b*) a respondent either—
+
+(i) has made a statement in writing, in response to a notice under *section 30*, that he or she does accept the foregoing assessment, or
+
+(ii) is deemed, by virtue of *section 31*, to have accepted the foregoing assessment.
+
+F76[(3) Subject to *subsections (6)* and *(7)* and notwithstanding section 169 of the Legal Services Regulation Act 2015, if, as respects a relevant claim to which this section applies, a claimant brings proceedings in accordance with this Act, no award of costs nor any other order providing for payment of costs may be made in favour of the claimant where the amount of damages (if any) awarded on foot of, or accepted in settlement of, those proceedings does not exceed the amount of the assessment referred to in *subsection (2)*.]
+
+F77[(3A) (*a*) Subject to *subsections (6)* and *(7)*, if, as respects a relevant claim to which this section applies, a claimant brings proceedings in accordance with this Act a respondent, as the defendant in the relevant proceedings, shall be deemed to have made an offer of tender of payment pursuant to rules of court on the relevant date equal to the amount of the assessment in relation to the relevant claim concerned.
+
+(*b*) Where the court finds that the defendant was not in a position to pay a sum equal to the amount of the assessment on the relevant date the court may, by special cause shown and mentioned in the order, direct that *paragraph (a)* shall not apply.
+
+(*c*) In this subsection—
+
+“relevant date” means the date on which—
+
+(i) the respondent made a statement in writing, in response to a notice under *section 30*, that he or she accepted the assessment, or
+
+(ii) the respondent was deemed, by virtue of *section 31*, to have accepted the assessment.]
+
+(4) F78[In *subsections (3)* and *(3A)*] "proceedings" means proceedings against—
+
+(*a*) one or more persons who consented, in accordance with this Part, to the making of an assessment of the relevant claim or on whose part a failure of the kind referred to in F79[*section 14(1)(c)(ii)*] occurred in relation to the relevant claim (or both), or
+
+(*b*) both—
+
+(i) one or more persons referred to in *paragraph (a)*, and
+
+(ii) one or more non-participating respondents (within the meaning of *section 15)*,
+
+whether or not the proceedings are also against one or more non-accepting respondents (within the meaning of *section 34*).
+
+(5) F80[*Subsections (3)* and *(3A)* apply] notwithstanding *sections 37* and *51*.
+
+(6) F81[*Subsections (3)* and *(3A)* do not apply] if, in the proceedings referred to in that subsection—
+
+(*a*) a formal offer (within the meaning of section 17 of the Civil Liability and Courts Act 2004) is made by a defendant and the amount of the offer is not equal to the amount of the assessment referred to in *subsection (2)*, or
+
+(*b*) a payment into court of a sum of money in satisfaction of the cause of action or an offer of tender of payment, pursuant to rules of court, is made.
+
+(7) F82[*Subsections (3)* and *(3A)* do not operate]—
+
+(*a*) to prohibit an award of costs or the making of any other order providing for payment of costs, in the circumstances mentioned in that subsection, in favour of a claimant against a non-accepting respondent or respondents (within the meaning of *section 34*), or
+
+(*b*) to confer on a court a power, in the circumstances mentioned in that subsection, to order a claimant to pay all or a portion of the costs of a non-accepting respondent or respondents (within the meaning of *section 34*).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F75: Inserted (11.07.2007) by *Personal Injuries Assessment Board (Amendment) Act 2007* (35/2007), s. 1, commenced on enactment.
+>
+> F76: Substituted (13.02.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 16(1)(a), S.I. No. 28 of 2023.
+>
+> F77: Inserted (13.02.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 16(1)(b), S.I. No. 28 of 2023.
+>
+> F78, F79, F80, F81, F82: Substituted (13.02.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 16(1)(c)-(f), S.I. No. 28 of 2023.
+>
+> **Modifications (not altering text):**
+>
+> C11: Application of provision restricted (13.02.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 16(2)(a)-(b), S.I. No. 28 of 2023.
+>
+> **Amendment of section 51A of Principal Act**
+>
+> **16.**—. . .
+>
+> (2) The amendments effected by *subsection (1)* shall not affect proceedings—
+>
+> (*a*) in relation to which, before the commencement of this section, the claimant refused an assessment in response to a notice under *section 30* of the Principal Act, or
+>
+> (*b*) in relation to which the claimant was deemed, before the commencement of this section by virtue of *section 31* of the Principal Act, not to have accepted an assessment.
+
+#### 51B. Costs in connection with application under section 11 not taxable.
+
+F83[**51B.**— (1) This section applies irrespective of whether an assessment of the relevant claim referred to in this section has been made or whether any assessment so made has been accepted, or is deemed to have been accepted, under this Part by any person.
+
+(2) If a claimant brings proceedings in accordance with this Act in respect of his or her relevant claim then, in any taxation of costs in those proceedings, no amount shall be allowed in respect of any fees or expenses incurred by the claimant in connection with the application he or she made under *section 11* in respect of the relevant claim or in complying with any provision of this Act in respect thereto, other than fees or expenses referred to in *section 35*, *44* or *45*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F83: Inserted (11.07.2007) by *Personal Injuries Assessment Board (Amendment) Act 2007* (35/2007), s. 1, commenced on enactment.
+
+#### 51C. Costs in proceedings where claimant or respondent does not comply with request of assessors
+
+F84[**51C.**—(1) This section applies to a relevant claim where—
+
+(*a*) the assessors have requested the claimant to furnish to them additional information or documents pursuant to *section 23(1)* and the claimant has not complied with that request,
+
+(*b*) the assessors have requested the respondent or respondents to furnish to them additional information or documents pursuant to *section 23(2)* and the respondent or respondents has or have not complied with that request,
+
+(*c*) the assessors have requested the claimant or the respondent or respondents to provide assistance to retained experts or furnish information or documents or co-operate with those experts pursuant to *section 23(4)* and the claimant or the respondent or respondents, as appropriate, has or have not complied with that request, or
+
+(*d*) the assessors have requested the claimant to submit himself or herself to a medical examination pursuant to *section 24(2)* and the claimant has not submitted himself or herself to the medical examination.
+
+(2) If as respects a relevant claim to which this section applies, a claimant brings proceedings in accordance with this Act, the court may, in its discretion, taking into account any failure to comply or submit in the manner specified in *subsection (1)* and all other relevant circumstances, order that—
+
+(*a*) no award of costs nor any other order providing for payment of costs may be made—
+
+(i) in favour of the claimant where *subsection (1)(a)* or *(1)(d)* applies,
+
+(ii) in favour of the defendant or defendants where *subsection (1)(b)* applies, or
+
+(iii) in favour of the claimant or the defendant or defendants, as appropriate, where *subsection (1)(c)* applies,
+
+(*b*) the claimant pay all or a portion of the costs of the defendant or defendants where *subsection (1)(a)*, *(c)* or *(d)* applies, or
+
+(*c*) the defendant or defendants pay all or a portion of the costs of the claimant where *subsection (1)(c)* applies.
+
+(3) This section applies notwithstanding *section 51*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F84: Inserted (3.04.2019) by *Personal Injuries Assessment Board (Amendment) Act 2019* (3/2019), s. 8(1), S.I. No. 123 of 2019, subject to transitional provision in subs. (2).
+>
+> **Editorial Notes:**
+>
+> E23: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+## PART 3Personal Injuries Assessment Board — PART 3 — Personal Injuries Assessment Board
+
+### Chapter 1Establishment and principal functions of Board — Chapter 1 — Establishment and principal functions of Board
+
+#### 52. Establishment day.
+
+**52.**—The Minister shall, by order, appoint a day to be the establishment day for the purposes of this Act.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E24: Power pursuant to section exercised (13.04.2004) by *Personal Injuries Assessment Board Act 2003 (Establishment Day) Order 2004* (S.I. No. 156 of 2004).
+>
+> 2\. The 13th day of April 2004 is appointed to be the establishment day for the purposes of the Personal Injuries Assessment Board Act 2003 (No. 46 of 2003).
+
+#### 53. Personal Injuries Assessment Board.
+
+**53.**—(1) There shall stand established, on the establishment day, a body which shall be known as the Personal Injuries Assessment Board (in this Act referred to as the “Board”) to perform the functions conferred on it by this Act.
+
+(2) The Board shall be a body corporate with perpetual succession and an official seal and shall have power to sue, and may be sued, in its corporate name, and shall, with the consent of the Minister and the Minister for Finance, have power to acquire, hold and dispose of land or an interest in land, and to acquire, hold and dispose of any other property.
+
+(3) The Board shall, subject to the provisions of this Act, be independent in the performance of its functions.
+
+(4) The seal of the Board shall be authenticated by—
+
+(*a*) the signature of 2 members of the Board, or
+
+(*b*) the signatures of both—
+
+(i) a member of the Board, and
+
+(ii) such member of the staff of the Board as is authorised by the Board to act in that behalf.
+
+(5) Judicial notice shall be taken of the seal of the Board and any document purporting to be an instrument made by, and to be sealed with the seal of, the Board shall be received in evidence and be deemed to be such instrument without further proof, unless the contrary is shown.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C12: Name of Personal Injuries Assessment Board changed (14.12.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 2, S.I. No. 626 of 2023, art. 3 and *Personal Injuries Resolution Board Act 2022 (Change of Name of Board) Order 2023* (S.I. No. 627 of 2023), art. 2
+>
+> **Change of name of Board**
+>
+> 2\. (1) The Personal Injuries Assessment Board, shall on and from such day as the Minister appoints by order be known, in the Irish language, as An Bord um Réiteach Díobhálacha Pearsanta and, in the English language, as the Personal Injuries Resolution Board.
+>
+> (2) References in any enactment, statutory instrument or legal proceedings or any other document to the Personal Injuries Assessment Board shall, on and from such date as the Minister appoints under *subsection (1)* be read as references, in the Irish language, to An Bord um Réiteach Díobhálacha Pearsanta or, in the English language, to the Personal Injuries Resolution Board.
+>
+> C13: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3(a), 5 and sch. 1 part 2, in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of –
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 46 of 2003</td><td>Personal Injuries Assessment Board Act 2003</td><td>Sections 53(2), 55, 61(3) and 74</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+#### 54. Functions of Board.
+
+**54.**—(1) The principal functions of the Board shall be—
+
+(*a*) to arrange for the making, in accordance with F85[this Act (including this Act as applied by section 19 of the Act of 2022)], of assessments of relevant claims the subject of applications to it under *section 11*,
+
+F89[(*aa*) to facilitate the resolution of relevant claims, within the meaning of *Part 2*, by mediation in accordance with *Chapter 1A* of that Part,]
+
+F90[(*ab*) to collect and publish on its website information in relation to personal injury claims, including information concerning personal injury awards provided for in the personal injuries guidelines (within the meaning of section 2 of the Judicial Council Act 2019 ),
+
+(*ac*) to conduct, or commission the conduct of, research, studies and analysis on such matters relating to the functions of the Board as the Board considers appropriate,
+
+(*ad*) to collect and compile information for the purposes referred to in *paragraph (ac)*, in such form and manner as the Board considers appropriate, and to publish any findings following the research, studies and analysis referred to in that paragraph as the Board considers appropriate,
+
+(*ae*) to promote public awareness of, and conduct public information campaigns in relation to, the work of the Board,]
+
+(*b*) F91[...]
+
+F92[(*ba*) F91[...]]
+
+(*c*) to cause a cost-benefit analysis to be made of the legal procedures and the associated processes (including those provided for by this Act) that are currently employed in the State for the purpose of awarding compensation for personal injuries,
+
+(*c*) to cause a cost-benefit analysis to be made of the legal procedures and the associated processes (including those provided for by F86[this Act (including this Act as applied by section 19 of the Act of 2022)]) that are currently employed in the State for the purpose of awarding compensation for personal injuries,
+
+(*d*) to collect and analyse data in relation to amounts awarded on foot of, or agreed in settlement of, civil actions to which F87[this Act (including this Act as applied by section 19 of the Act of 2022)] applies, and
+
+(2) The Board shall have all such powers as are necessary or expedient for, or incidental to, the performance of its functions under F88[this Act (including this Act as applied by section 19 of the Act of 2022)].
+
+(3) The Board may perform any of its functions through or by any member of the staff of the Board duly authorised in that behalf by the Board.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F85, F86, F87, F88: Substituted (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 21(1)(i), S.I. No. 163 of 2023, without prejudice to the generality of subs. (2).
+>
+> F89: Inserted (14.12.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 17, S.I. No. 626 of 2023, art. 4(g).
+>
+> F90: Inserted (13.02.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 17, S.I. No. 28 of 2023.
+>
+> F91: Deleted (24.04.2021) by *Judicial Council Act 2019* (33/2019), s. 98(a), S.I. No. 182 of 2021.
+>
+> F92: Inserted (3.04.2019) by *Personal Injuries Assessment Board (Amendment) Act 2019* (3/2019), s. 9, S.I. No. 123 of 2019.
+
+#### 54A. Requiring certain persons to provide information.
+
+F93[**54A.**—(1) The Board may require any person (including a Minister of the Government or a body established by or under any enactment) to provide it with such records, documents or information as it may reasonably require for the purposes of the performance of its functions under F94[F95[*paragraph (ab)*, (*ac*), (*ad*), (*c*), (*d*), or (*e*)] of *section 54(1)*].
+
+(2) A person of whom a requirement is made under *subsection (1)* shall comply with that requirement.]
+
+F96[(3) A person who, without reasonable cause, contravenes *subsection (2)* is guilty of an offence.
+
+(4) The court in which a conviction for an offence under this section is recorded or affirmed may order that the person convicted shall remedy the breach of this section in respect of which that person was convicted.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F93: Inserted (21.07.2004) by *Civil Liability and Courts Act 2004* (31/2004), s. 31, commenced as per s. 1(3), subject to transitional provision in s. 6.
+>
+> F94: Substituted (3.04.2019) by *Personal Injuries Assessment Board (Amendment) Act 2019* (3/2019), s. 10(a), S.I. No. 123 of 2019.
+>
+> F95: Substituted (13.02.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 18, S.I. No. 28 of 2023.
+>
+> F96: Inserted (3.04.2019) by *Personal Injuries Assessment Board (Amendment) Act 2019* (3/2019), s. 10(b), S.I. No. 123 of 2019.
+>
+> **Editorial Notes:**
+>
+> E25: Previous affecting provision: subs. (1) amended (24.04.2021) by *Judicial Council Act 2019* (33/2019), s. 98(b), S.I. No. 182 of 2021; amendment substituted (13.02.2023) as per F-note above.
+
+#### 55. Conferral of additional functions on Board.
+
+**55.**—(1) The Minister may, with the consent of the Minister for Finance, confer on the Board, by order, such additional functions connected with the functions for the time being of the Board as he or she thinks fit, subject to such conditions (if any) as may be specified in the order.
+
+(2) An order under this section may contain such incidental, supplemental and consequential provisions as may, in the opinion of the Minister, be necessary to give full effect to the order.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C14: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3(a), 5 and sch. 1 part 2, in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of –
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 46 of 2003</td><td>Personal Injuries Assessment Board Act 2003</td><td>Sections 53(2), 55, 61(3) and 74</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### Chapter 2Composition of Board — Chapter 2 — Composition of Board
+
+#### 56. Membership of Board.
+
+**56.**—(1) The members of the Board (including the chairperson and the chief executive) shall be such number, not more than 11, as the Minister considers appropriate from time to time.
+
+(2) Each member of the Board shall be a person who, in the Minister’s opinion, has experience in a field of expertise relevant to the Board's functions.
+
+(3) The members of the Board shall be appointed by the Minister as soon as may be after the establishment day.
+
+(4) Except as provided for by *subsection (3)*, the members of the Board shall be appointed from time to time as occasion requires by the Minister.
+
+F97[(5) Of the members of the Board—
+
+(*a*) one shall be a person nominated for such appointment by Insurance Ireland (or any successor of it), and
+
+(*b*) one shall be an employee of the Central Bank of Ireland nominated for such appointment by the Governor of the Central Bank of Ireland.]
+
+F98[(6) The chief executive, and a person nominated for such appointment by the chairperson of the Competition and Consumer Protection Commission, shall each be a member of the Board.]
+
+(7) The Minister shall, in so far as is practicable, ensure an equitable balance between the numbers of members of the Board who are women and the number of them who are men.
+
+(8) The Minister when appointing a member shall fix such member’s period of membership which shall not exceed 5 years and, subject to this section, membership shall be on such terms as the Minister may determine.
+
+(9) The members of the Board (including the chairperson and the vice-chairperson) may be paid such remuneration and allowances as the Minister, with the consent of the Minister for Finance, may determine.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F97: Substituted (3.04.2019) by *Personal Injuries Assessment Board (Amendment) Act 2019* (3/2019), s. 11, S.I. No. 123 of 2019.
+>
+> F98: Substituted (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 88, S.I. No. 366 of 2014.
+>
+> **Modifications (not altering text):**
+>
+> **Editorial Notes:**
+>
+> E26: Previous affecting provision: subs. (5)(c), (d) substituted and inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 91, S.I. No. 287 of 2013; substituted as per F-note above.
+>
+> E27: Previous affecting provision: subs. (6) amended (1.10.2010) by *Central Bank Reform Act 2010* (23/2010), s. 15(13) and sch. 2 part 13, S.I. No. 469 of 2010; substituted as per F-note above.
+>
+> E28: Previous affecting provision: subs. (6) amended (1.05.2007) by *Consumer Protection Act 2007* (19/2007), s. 40(1) and sch. 3 part 1, S.I. No. 178 of 2007; substituted as per F-note above.
+
+#### 57. Supplemental provisions as to membership of Board.
+
+**57.**—(1) A member of the Board may at any time resign his or her membership by letter addressed to the Minister and the resignation shall take effect from the date specified in the letter or upon receipt of the letter by the Minister, whichever is the later.
+
+(2) A member of the Board may, at any time, be removed from membership of the Board by the Minister if, in the Minister’s opinion, the member has become incapable through ill-health of performing his or her functions, or has committed stated misbehaviour, or his or her removal appears to the Minister to be necessary for the effective performance by the Board of its functions.
+
+(3) A person shall cease to be, and shall be disqualified from being, a member of that Board where he or she—
+
+(*a*) is adjudicated bankrupt,
+
+(*b*) makes a composition or arrangement with creditors,
+
+(*c*) is sentenced by a court of competent jurisdiction to a term of imprisonment, or
+
+(*d*) is disqualified or restricted from being a director of any company.
+
+(4) If a member of the Board dies, resigns, becomes disqualified or is removed from membership, the Minister may appoint a person to be a member of the Board and fill the casual vacancy so caused.
+
+(5) A person appointed to be a member of the Board pursuant to *subsection (4)* shall, subject to *subsections (1), (2)* and *(3)*, hold office for that period of the term of office of the member who occasioned the casual vacancy concerned that remains unexpired at the date of his or her appointment.
+
+(6) F99[Subject to *subsection (7)*, a member of the Board] whose term of membership of the Board expires shall be eligible for re-appointment as a member of the Board.
+
+F100[(7) A person who is re-appointed to the Board in accordance with *subsection (6)* shall not hold office for periods the aggregate of which exceeds 10 years.
+
+(8) Where a member of the Board is—
+
+(*a*) nominated as a member of Seanad Éireann,
+
+(*b*) elected as a member of either House of the Oireachtas or to be a member of the European Parliament,
+
+(*c*) regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act 1997 as having been elected to that Parliament, or
+
+(*d*) elected or co-opted as a member of a local authority,
+
+he or she shall thereupon cease to be a member of the Board.
+
+(9) A person who is for the time being entitled under the Standing Orders of either House of the Oireachtas to sit therein or who is a member of the European Parliament or of a local authority shall, while he or she is so entitled or is such a member, be disqualified for membership of the Board.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F99: Substituted (3.04.2019) by *Personal Injuries Assessment Board (Amendment) Act 2019* (3/2019), s. 12(a), S.I. No. 123 of 2019.
+>
+> F100: Substituted (3.04.2019) by *Personal Injuries Assessment Board (Amendment) Act 2019* (3/2019), s. 12(b), S.I. No. 123 of 2019.
+
+#### 58. Chairperson of Board.
+
+**58.**—(1) The Minister shall appoint a person, from among the members of the Board, as chairperson of the Board.
+
+(2) Where the chairperson of the Board ceases to be a member of the Board he or she shall also thereupon cease to be chairperson of the Board.
+
+(3) The chairperson of the Board may at any time resign his or her office as chairperson of the Board while continuing to serve as a member of the Board and the resignation, unless previously withdrawn, shall take effect at the commencement of the meeting of the Board held after the Board has been informed by the Minister of the resignation.
+
+(4) The chairperson of the Board shall, unless he or she sooner dies or otherwise ceases to be chairperson by virtue of *subsection (2)*, hold office until the expiry of his or her period of membership of the Board and, if re-appointed as a member of the Board, shall be eligible for re-appointment as chairperson of the Board.
+
+#### 59. Vice-chairperson.
+
+**59.**—(1) The Minister shall appoint one of the ordinary members of the Board to be vice-chairperson of the Board with the function of acting as chairperson in the absence of the chairperson, and when so acting shall have the same powers as the chairperson.
+
+(2) Where the vice-chairperson of the Board ceases to be a member of the Board he or she shall also thereupon cease to be vice-chairperson of the Board.
+
+(3) The vice-chairperson of the Board may at any time resign his or her office as vice-chairperson of the Board while continuing to serve as a member of the Board and the resignation, unless previously withdrawn, shall take effect at the commencement of the meeting of the Board held after the Board has been informed by the Minister of the resignation.
+
+(4) The vice-chairperson of the Board shall, unless he or she sooner dies or otherwise ceases to be vice-chairperson by virtue of *subsection (2)*, hold office until the expiry of his or her period of membership of the Board and, if re-appointed as a member of the Board, shall be eligible for re-appointment as vice-chairperson of the Board.
+
+### Chapter 3Meetings and committees — Chapter 3 — Meetings and committees
+
+#### 60. Meetings of Board.
+
+**60.**—(1) The Board shall hold such and so many meetings as may be necessary for the performance of its functions.
+
+(2) The Minister shall fix the date, time and place of the first meeting of the Board and the Board shall fix the date, time and place of subsequent meetings.
+
+(3) The quorum for a meeting of the Board shall be 6.
+
+(4) At a meeting of the Board—
+
+(*a*) the chairperson of the Board shall, if present, chair the meeting,
+
+(*b*) if the chairperson is not present, or if the office of chairperson is vacant, the vice-chairperson shall, if present, chair the meeting,
+
+(*c*) if neither the chairperson nor the vice-chairperson are present, the members of the Board present at the meeting shall choose one of their number to chair the meeting.
+
+(5) At a meeting of the Board each person present, including the chairperson, shall have a vote and any question on which a vote is required so as to establish the Board's position on a matter shall be determined by a majority of the votes of the members present and voting on the question and, in the case of an equal division of the votes, the chairperson of the meeting shall have a second and casting vote.
+
+(6) The Board may act notwithstanding one or more vacancies among its members (but this subsection is without prejudice to *subsection (3)*).
+
+(7) Subject to the provisions of this Act, the Board may regulate its own procedures and business.
+
+#### 61. Committees of Board.
+
+**61.**—(1) The Board may establish committees consisting in whole or in part of persons who are members of the Board—
+
+(*a*) to assist and advise the Board on matters relating to any of its functions or on such matters as the Board may from time to time determine, or
+
+(*b*) to perform such functions of the Board as may be delegated by it from time to time.
+
+(2) The Board, when appointing a member of a committee, shall—
+
+(*a*) have regard to the range of qualifications and experience necessary for the proper and effective discharge of the functions of the committee,
+
+(*b*) have regard to the desirability of such balance between the numbers of each sex on the committee as is appropriate and determined from time to time,
+
+(*c*) fix the member's period of membership,
+
+(*d*) fix the terms of his or her membership.
+
+(3) The members of a committee may be paid by the Board such fees as the Board may determine, subject to the consent of the Minister and the Minister for Finance.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C15: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3(a), 5 and sch. 1 part 2, in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of –
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 46 of 2003</td><td>Personal Injuries Assessment Board Act 2003</td><td>Sections 53(2), 55, 61(3) and 74</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+#### 62. Supplemental provisions as to committees of Board.
+
+**62.**—(1) In this section “committee” means a committee established under *section 61*.
+
+(2) A member of a committee may be removed by the Board at any time for stated reasons.
+
+(3) The acts of a committee and the performance by a committee of functions delegated to it under *section 61* shall be subject to confirmation by the Board, unless the Board otherwise determines.
+
+(4) The Board may, subject to this Act, determine the terms of reference and regulate, by standing orders or otherwise, the procedures and business of a committee including the filling of casual vacancies but, subject to any such regulation, a committee may regulate its own procedures.
+
+(5) A committee shall appoint, from time to time, a chairperson from among its members.
+
+(6) The Board may at any time dissolve a committee.
+
+(7) A committee shall provide the Board with such information as the Board may from time to time require, in respect of its activities and operation, for the purposes of the performance of the functions of the Board.
+
+### Chapter 4Management of Board — Chapter 4 — Management of Board
+
+#### 63. Chief executive.
+
+**63.**—(1) There shall be a chief executive officer of the Board (who shall be known as and is referred to in this Act as the “chief executive”).
+
+(2) The chief executive shall carry on and manage, and control generally, the administration of the Board and perform such other functions (if any) as may be determined by the Board.
+
+(3) Subject to *subsections (5)* and *(6)*, the chief executive shall be appointed by the Board with the consent of the Minister.
+
+(4) The chief executive may be removed from office by the Board for stated reasons.
+
+(5) The Minister may, before the establishment day, designate a person to be appointed to be the first chief executive.
+
+(6) If, immediately before the establishment day, a person stands designated by the Minister under *subsection (5)*, the Board shall appoint that person to be the first chief executive.
+
+(7) The chief executive shall hold office under a written contract of service (which contract may be renewed) for such period as is specified in the contract, upon and subject to such terms and conditions (including terms and conditions relating to superannuation) as are so specified, being terms and conditions which are determined by the Board with the consent of the Minister given with the concurrence of the Minister for Finance.
+
+(8) The chief executive shall not hold any other office or employment or carry on any business without the consent of the Board.
+
+(9) The chief executive shall furnish the Board with such information (including financial information) in relation to the performance of his or her executive functions as the Board may from time to time require.
+
+(10) The Civil Service Commissioners Act 1956 shall not apply to the appointment of a person as the chief executive.
+
+#### 64. Supplemental provisions in relation to chief executive.
+
+**64.**—(1) The chief executive shall perform his or her functions subject to such policies as may be determined from time to time by the Board and shall be answerable to the Board for the efficient and effective management of the Board and for the due performance of his or her functions.
+
+(2) The chief executive may, with the consent of the Board, delegate any of his or her functions to a member of staff of the Board (other than functions that have been delegated to the chief executive subject to a condition that they are not to be sub-delegated), and the member of staff shall be accountable to the chief executive for the performance of the functions so delegated.
+
+(3) Notwithstanding *subsection (2)*, the chief executive shall at all times remain accountable to the Board for the performance of functions delegated by him or her.
+
+(4) In the absence of the chief executive, or where that post is vacant, the Board may designate a member of its staff to perform functions of the chief executive.
+
+#### 65. Accountability of chief executive to Committee of Public Accounts.
+
+**65.**—The chief executive shall, whenever required in writing to do so by the Committee of Dáil Éireann established under the Standing Orders of Dáil Éireann to examine and report to Dáil Éireann on the appropriation accounts and reports of the Comptroller and Auditor General (hereafter in this section referred to as the “Committee”), give evidence to that Committee on—
+
+(*a*) the regularity and propriety of the transactions recorded or required to be recorded in any book or other record of account subject to audit by the Comptroller and Auditor General that the Board is required by this Act to prepare,
+
+(*b*) the economy and efficiency of the Board in the use of its resources,
+
+(*c*) the systems, procedures and practices employed by the Board for the purpose of evaluating the effectiveness of its operations, and
+
+(*d*) any matter affecting the Board referred to in a special report of the Comptroller and Auditor General under section 11(2) of the Comptroller and Auditor General (Amendment) Act 1993, or in any other report of the Comptroller and Auditor General (in so far as it relates to a matter specified in *paragraph (a), (b)* or *(c)*) that is laid before Dáil Éireann.
+
+#### 66. Accountability of chief executive to other Oireachtas Committees.
+
+**66.**—(1) In this section “Committee” means a Committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas (other than the Committee referred to in *section 65* or the Committee on Members' Interests of Dáil Éireann or the Committee on Members' Interests of Seanad Éireann) or a subcommittee of such a Committee.
+
+(2) Subject to *subsection (3)*, the chief executive shall, at the request in writing of a Committee, attend before it to give account for the general administration of the Board.
+
+(3) The chief executive shall not be required to give account before a Committee for any matter which is or has been or may at a future time be the subject of proceedings before a court or tribunal in the State.
+
+(4) Where the chief executive is of the opinion that a matter in respect of which he or she is requested to give an account before a Committee is a matter to which *subsection (3)* applies, he or she shall inform the Committee of that opinion and the reasons for the opinion and, unless the information is conveyed to the Committee at a time when the chief executive is before it, the information shall be so conveyed in writing.
+
+(5) Where the chief executive has informed a Committee of his or her opinion in accordance with *subsection (4)* and the Committee does not withdraw the request referred to in *subsection (2)* in so far as it relates to a matter the subject of that opinion—
+
+(*a*) the chief executive may, not later than 21 days after being informed by the Committee of its decision not to do so, apply to the High Court in a summary manner for determination of the question whether the matter is one to which *subsection (3)* applies, or
+
+(*b*) the chairperson of the Committee may, on behalf of the Committee, make such an application,
+
+and the High Court shall determine the matter.
+
+(6) Pending the determination of an application under *subsection (5)*, the chief executive shall not attend before the Committee to give account for the matter the subject of the application.
+
+(7) If the High Court determines that the matter concerned is one to which *subsection (3)* applies, the Committee shall withdraw the request referred to in *subsection (2)*, but if the High Court determines that *subsection (3)* does not apply, the chief executive shall attend before the Committee to give account for the matter.
+
+### Chapter 5Staff of Board and superannuation matters — Chapter 5 — Staff of Board and superannuation matters
+
+#### 67. Staff of Board.
+
+**67.**—(1) In addition to the chief executive, the Board may, from time to time, appoint such and such number of persons to be members of the staff of the Board as it may determine with the consent of the Minister and the Minister for Finance.
+
+(2) The grades of the staff of the Board, the numbers of staff in each grade and the appropriate level of remuneration for each grade shall be determined by the Board with the consent of the Minister and the Minister for Finance.
+
+(3) Subject to such conditions as it thinks fit, the Board may delegate to the chief executive any of the functions of the Board in relation to the employment of staff and the determination of selection procedures.
+
+(4) The staff of the Board shall—
+
+(*a*) be paid out of moneys available to the Board,
+
+(*b*) perform such functions as determined from time to time by the chief executive, and
+
+(*c*) hold office or employment for such period and upon and subject to such terms and conditions as may be determined from time to time by the chief executive, with the consent of the Minister and the Minister for Finance.
+
+(5) Every member of the staff of the Minister designated by order made by the Minister for the purposes of this section shall, on being so designated, be transferred to and become a member of the staff of the Board.
+
+(6) The Minister may make an order for the purposes of *subsection (5)* at any time but shall not do so without first having—
+
+(*a*) notified in writing any recognised trade union or staff association concerned of the Minister's intention to do so, and
+
+(*b*) considered, within such time as may be specified in the notification, any representations made by such trade unions or staff associations in relation to the matter.
+
+(7) Except in accordance with a collective agreement negotiated with any recognised trade unions or staff associations concerned, a person referred to in *subsection (5)* shall not, while in the service of the Board, receive a lesser scale of pay or be made subject to less beneficial terms and conditions of service than the scale of pay to which he or she was entitled and the terms and conditions of service to which he or she was subject immediately before his or her transfer into such service.
+
+#### 68. Superannuation.
+
+**68.**—(1) As soon as practicable after the establishment day, the Board shall prepare and submit to the Minister a scheme or schemes for the granting of superannuation benefits to or in respect of such members of the staff of the Board as it may think fit.
+
+(2) Every such scheme shall fix the time and conditions of retirement for all persons to or in respect of whom superannuation benefits are payable under the scheme, and different times and conditions may be fixed in respect of different classes of persons.
+
+(3) Every such scheme may be amended or revoked by a subsequent scheme prepared, submitted and approved under this section.
+
+(4) A scheme submitted by the Board under this section shall, if approved by the Minister, with the consent of the Minister for Finance, be carried out by the Board in accordance with its terms.
+
+(5) Superannuation benefits granted under schemes under this section to persons, who immediately before their being designated by an order under *section 67*, were members of the staff of the Minister, and the terms and conditions relating to those benefits, shall not be less favourable to those persons than those to which they were entitled immediately before such designation.
+
+(6) No superannuation benefit shall be granted by the Board nor shall any other arrangements be entered into by the Board for the provision of such a benefit to or in respect of a member of the staff of the Board otherwise than in accordance with a scheme under this section or, if the Minister, with the consent of the Minister for Finance, sanctions the granting of such a benefit, in accordance with that sanction.
+
+(7) If any dispute arises as to the claim of any person to, or the amount of, any superannuation benefit payable in pursuance of a scheme or schemes under this section, such dispute shall be submitted to the Minister who shall refer it to the Minister for Finance for his or her decision.
+
+(8) A scheme under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the scheme is passed by either such House within the next 21 days on which that House has sat after the scheme is laid before it, the scheme shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E29: Defined benefit schemes created under section excluded from application of certain provisions of *Pensions Act 1990* (25/1990) by *Occupational Pension Schemes (Funding Standard) Regulations 1993* (S.I. No. 419 of 1993), as substituted (18.04.2013) by *Occupational Pension Schemes (Funding Standard) (Amendment) Regulations 2013* (S.I. No. 135 of 2013), reg. 2, (16.06.2014) *Occupational Pension Schemes (Funding Standard) (Amendment) Regulations 2014* (S.I. No. 268 of 2014), reg. 2, and (12.02.2019) by *Occupational Pension Schemes (Funding Standard) (Amendment) Regulations 2019* (S.I. No. 39 of 2019), reg. 2.
+>
+> E30: Power pursuant to section exercised (13.04.2004) by *The Personal Injuries Assessment Board Spouses’ and Children’s Contributory Pension Scheme 2009* (S.I. 156 of 2009), commenced as per art. 2.
+>
+> E31: Power pursuant to section exercised (13.04.2004) by *Personal Injuries Assessment Board Employee Superannuation Scheme 2008* (S.I. No. 465 of 2008), commenced as per art. 2.
+>
+> E32: Other legislation concerning PIAB pensions includes *Occupational Pension Schemes (Funding Standard) (Amendment) Regulations 2008* (S.I. No. 295 of 2008), *Superannuation (Designation of Approved Organisations) Regulations 2008* (S.I. No. 361 of 2008) and *Occupational Pension Schemes (Preservation of Benefits) (Amendment) Regulations 2009* (S.I. No. 70 of 2009).
+
+### Chapter 6Supplemental provisions with regard to Board's administration and management — Chapter 6 — Supplemental provisions with regard to Board's administration and management
+
+#### 69. Indemnification of certain persons.
+
+**69.**—(1) Where the Board is satisfied that a person to whom this section applies has discharged the functions appropriate to that person in relation to the functions of the Board in good faith, it shall indemnify that person against all actions or claims however they arise in respect of the discharge by that person of those functions.
+
+(2) This section applies to—
+
+(*a*) a member of the Board,
+
+(*b*) a member of a committee of the Board,
+
+(*c*) F101[a member of staff of the Board,]
+
+F102[(*ca*) a person appointed under *section 18D*, and]
+
+(*d*) a person whose services are provided to the Board under *section 80*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F101: Substituted (14.12.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 19(a), S.I. No. 626 of 2023, art. 4(h).
+>
+> F102: Inserted (14.12.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 19(b), S.I. No. 626 of 2023, art. 4(h).
+
+#### 70. Membership of either House of the Oireachtas, etc.
+
+**70.**—(1) Where a member of the staff of the Board—
+
+(*a*) accepts nomination as a member of Seanad Éireann,
+
+(*b*) is elected to either House of the Oireachtas or to the European Parliament,
+
+(*c*) is regarded, pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act 1997, as having been elected to that Parliament, or
+
+(*d*) becomes a member of a local authority,
+
+he or she shall thereupon stand seconded from employment by the Board for the period specified in *subsection (2)*.
+
+(2) A person who stands seconded under *subsection (1)* shall not be paid by, or be entitled to receive from, the Board any remuneration in respect of the period commencing on such nomination or election or his or her membership of the local authority or the date on which he or she is so regarded as having been elected, as the case may be, and ending on the date on which he or she ceases to be a member of either such House or such Parliament or such local authority.
+
+(3) Without prejudice to the generality of *subsection (2)*, that subsection shall be construed as prohibiting, among other things, the reckoning of a period mentioned in that subsection as service with the Board for the purposes of any superannuation benefits.
+
+(4) A person who is for the time being entitled under the Standing Orders of either House of the Oireachtas to sit therein or who is a representative in the European Parliament or a member of a local authority shall, while he or she is so entitled or is such a representative or member, be disqualified from becoming a member of the staff of the Board.
+
+#### 71. Disclosure of interests.
+
+**71.**—(1) Where a member of the Board, a member of a committee of the Board, a member of the staff of the Board or a consultant or adviser engaged under *section 80* has a pecuniary interest or other beneficial interest in, or material to, any matter which falls to be considered by the Board or a committee, he or she shall comply with the following requirements:
+
+(*a*) he or she shall disclose to the Board the fact of such interest and the nature of the interest in advance of any consideration of the matter;
+
+(*b*) he or she shall neither influence nor seek to influence a decision in relation to the matter;
+
+(*c*) he or she shall take no part in any consideration of the matter;
+
+(*d*) if he or she is a member of the Board or a committee or both, or a member of the staff of the Board, he or she shall withdraw from any meeting concerned for so long as the matter is being discussed or considered and shall not vote or otherwise act as such Board or committee member or member of staff in relation to the matter.
+
+(2) For the purposes of this section, but without prejudice to the generality of *subsection (1)*, a person shall be regarded as having a beneficial interest in, or material to, a matter referred to in that subsection if—
+
+(*a*) the person or any member of his or her household, or any nominee of him or her or of his or her household, is a member of a company or any other body which has a beneficial interest in, or material to, such a matter,
+
+(*b*) the person or any member of his or her household is in partnership with or is in the employment of a person who has a beneficial interest in, or material to, such a matter,
+
+(*c*) the person or any member of his or her household is a party to any arrangement or agreement (whether or not enforceable) concerning property to which such a matter relates, or
+
+(*d*) any member of his or her household has a beneficial interest in, or material to, such a matter.
+
+(3) A person shall not be regarded as having a beneficial interest in, or material to, any matter by reason only of an interest of the person or of any company or of any other body or person mentioned in *subsection (2)* which is so remote or insignificant that it cannot reasonably be regarded as likely to influence a person in considering, discussing or voting on any question with respect to the matter, or in performing any function in relation to that matter.
+
+#### 72. Section 71: supplemental provisions.
+
+**72.**—(1) Where at a meeting or proceeding of the Board or a committee of the Board a question arises as to whether or not a course of conduct, if pursued by a person, would constitute a failure by the person to comply with the requirements of *section 71*, then, if the meeting or proceeding is of a committee, it shall be adjourned until the question has been referred to and determined by the Board, and if the meeting is of the Board, the question shall be determined by the Board, whose decision in all cases shall be final, and particulars of the determination shall be recorded in the minutes of the Board's meeting.
+
+(2) Where a disclosure is made under *section 71*, the disclosure shall be recorded in the minutes of the meeting concerned and, for so long as the matter to which the disclosure relates is being considered or discussed by the meeting, the person by whom the disclosure is made, where he or she is a member of the Board, shall not be counted in the quorum for the meeting unless the Board otherwise determines.
+
+(3) A person who contravenes *section 71* is guilty of an offence.
+
+(4) In any proceedings for an offence under *subsection (3)*, it shall be a defence for the defendant to prove that at the time of the alleged offence he or she did not know and had no reason to believe that a matter in which, or in relation to which, he or she had a beneficial interest had fallen to be considered by him or her, by the Board or by a committee of the Board or that the beneficial interest to which the alleged offence relates was one in relation to which a requirement of *section 71* applied.
+
+(5) A member of the Board, or of a committee of the Board, if convicted of an offence under *subsection (3)* shall, on such conviction, cease to be and be disqualified from being such a member.
+
+#### 73. Disclosure of information.
+
+**73.**—(1) Save as otherwise provided by law and subject to *subsection (3)*, a person shall not, other than with the consent of the Board, disclose confidential information obtained by him or her while performing (or as a result of having performed) functions as—
+
+(*a*) a member of the Board,
+
+(*b*) a member of the staff of the Board,
+
+(*c*) a member of a committee of the Board,
+
+(*d*) an adviser or consultant to the Board engaged under *section 80*.
+
+(2) A person who contravenes *subsection (1)* is guilty of an offence.
+
+(3) Nothing in *subsection (1)* shall prohibit the disclosure of information by means of a report made to the Board or made by, or on behalf of, the Board to the Minister.
+
+F103[(3A) Nothing in *subsection (1)* shall prevent the disclosure of information to any member of the Garda Síochána if that information, in the opinion of the Board, may relate to the commission of an offence.]
+
+(4) In this section “confidential information” includes—
+
+(*a*) information that is expressed by the Board or a committee of the Board, as the case may be, to be confidential either as regards particular information or as regards information of a particular class or description,
+
+(*b*) proposals of a commercial nature or tenders submitted to the Board by contractors, consultants or any other person,
+
+(*c*) information the disclosure of which would—
+
+(i) identify a claimant F104[or, other than in relation to a civil action to which *section 3(aa)* refers, a respondent], or
+
+(ii) make known the amount of an assessment that has been made in respect of a particular relevant claim,
+
+(*d*) information obtained under *section 28*.
+
+(5) A member of the Board or of a committee of the Board, if convicted of an offence under *subsection (2)* shall, on such conviction, cease to be and be disqualified from being such a member.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F103: Inserted (13.02.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 20, S.I. No. 28 of 2023.
+>
+> F104: Substituted (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 21(j), S.I. No. 163 of 2023.
+
+### 73A. F105[Board shall provide information requested by Minister]
+
+F106[**73A.** (1) Subject to *subsection (2)* and *section 73*, the Board shall provide the Minister with such information as he or she may, from time to time, request in relation to the performance by the Board of its functions.
+
+(2) The Board shall not be required to provide the Minister with information under *subsection (1)* if the provision of the information would, in the opinion of the Board, be likely to prejudice the Board in the performance of any of its functions.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F105, F106: Inserted (13.02.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 21, S.I. No. 28 of 2023.
+
+### Chapter 7Financial provisions — Chapter 7 — Financial provisions
+
+#### 74. Grants to Board.
+
+**74.**—The Minister may, in each financial year, after consultation with the Board in relation to its proposed work programme and projected expenditure for that year, make to the Board a grant of such amount, as may be sanctioned by the Minister for Finance, out of moneys provided by the Oireachtas for the purposes of expenditure by the Board in the performance of its functions.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C16: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3(a), 5 and sch. 1 part 2, in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of –
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 46 of 2003</td><td>Personal Injuries Assessment Board Act 2003</td><td>Sections 53(2), 55, 61(3) and 74</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+#### 74A. Remittance by Board of moneys to Minister
+
+F107[**74A.**(1) The Minister, with the consent of the Minister for Public Expenditure and Reform, may from time to time authorise the Board to retain a specified sum of money for the purposes of expenditure by the Board in the performance of its functions.
+
+(2) The sum specified for the purposes of *subsection (1)* shall be determined by the Minister having regard to the operational, capital and contingency costs of the Board.
+
+(3) The Minister, with the consent of the Minister for Public Expenditure and Reform, may from time to time request the Board to remit to the Minister any moneys held by the Board in excess of those authorised to be retained under *subsection (1)*.
+
+(4) The Board shall comply with a request under *subsection (3)*.
+
+(5) All moneys received by the Minister under this section shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Public Expenditure and Reform directs.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F107: Inserted (3.04.2019) by *Personal Injuries Assessment Board (Amendment) Act 2019* (3/2019), s. 13, S.I. No. 123 of 2019.
+>
+> **Editorial Notes:**
+>
+> E33: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 75. Borrowings by Board.
+
+**75.**—(1) The Board may, for the purpose of providing for current expenditure, from time to time, borrow money (whether on the security of the assets of the Board or otherwise).
+
+(2) The exercise of this power is subject to the consent of the Minister and the Minister for Finance and to such conditions as they may specify.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C17: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (6.07.2011) by *Ministers and Secretaries (Amendment) Act 2011* (10/2011), ss. 7(1) and (2), 9(2), 11, 15(1), 20(1) and sch. 2 part 1, commenced as per ss. 1(2), 6 and S.I. No. 401 of 2011.
+>
+> **Department of Public Expenditure and Reform.**
+>
+> **7**.— (1) There shall stand established on the appointed day a Department of State to be known, in the Irish language, as an *Roinn Caiteachais Phoiblí agus Athchóirithe* or, in the English language, as the Department of Public Expenditure and Reform.
+>
+> (2) The member of the Government who is in charge of the Department of Public Expenditure and Reform—
+>
+> (*a*) shall be known, in the Irish language, as an tAire Caiteachais Phoiblí agus Athchóirithe or, in the English language, as the Minister for Public Expenditure and Reform, and
+>
+> (*b*) is, in this Act, referred to as the “Minister”.
+>
+> ...
+>
+> **Transfer of certain other functions to Minister.**
+>
+> **9**.— ...
+>
+> (2) The functions conferred on the Minister for Finance by or under any of the provisions specified in *Part 1* of *Schedule 2* are transferred to the Minister.
+>
+> ...
+>
+> **Transfer of administration and business of Department of Finance.**
+>
+> **11**.— (1) The administration and business in connection with the performance of the functions transferred by *sections 8* and *9* are hereby transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any statute or instrument under a statute in so far as they relate to the administration and business transferred by *subsection (1)* shall, from the appointed day, be construed as references to the Department of Public Expenditure and Reform.
+>
+> ...
+>
+> **Construction of references.**
+>
+> **15**.— (1) References to the Minister for Finance contained in any statute or instrument under a statute in so far as they relate to any function transferred by this Act shall, from the appointed day, be construed as references to the Minister.
+>
+> ...
+>
+> **Performance of certain functions transferred to Minister by *section 9*.**
+>
+> **20**.— (1) The Minister shall not perform a function transferred by *subsection (2)* of *section 9* without the consent of the Minister for Finance.
+>
+> ...
+>
+> SCHEDULE 2
+>
+> Functions Transferred To Minister
+>
+> *Sections 9 and 20*
+>
+> PART 1
+>
+> Functions performable with consent of Minister for Finance
+>
+> STATUTES
+>
+> <table><tr><td>Number and Year<br>(1)</td><td>Short Title<br>(2)</td><td>Provision<br>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 46 of 2003</td><td>Personal Injuries Assessment Board Act 2003</td><td>Section 75</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+#### 76. Accounts.
+
+**76.**—(1) The chief executive shall submit estimates of income and expenditure of the Board to the Minister in such form, in respect of such periods, and at such times as may be required by the Minister and shall furnish to the Minister any information which the Minister may require in relation to such estimates, including proposals and future plans relating to the discharge by the Board of its functions over a period of years, as required.
+
+(2) The chief executive shall consult with the Board in performing the functions under *subsection (1)* and may submit to the Minister any estimates, information, proposals or other matters under that subsection only after obtaining the Board's consent to do so.
+
+(3) The chief executive, under the direction of the Board, shall cause to be kept on a continuous basis and in a legible or a machine readable form, or both, all proper books and records of account of all income and expenditure of the Board, and of the sources of such income and the subject matter of such expenditure, and of the property, assets and liabilities of the Board; the chief executive shall also keep and shall account to the Board for all such special accounts as the Minister or the Board, with the consent of the Minister, may from time to time direct should be kept.
+
+(4) The financial year of the Board shall be the period of 12 months ending on 31 December in any year and, for the purposes of *section 74*, this section and *sections 77* and *83*, the period commencing on the establishment day and ending on the following 31 December shall be deemed to be a financial year.
+
+#### 77. Further provisions with respect to accounts (including their audit).
+
+**77.**—(1) The Board, the chief executive and any relevant member of the staff of the Board shall, whenever so requested by the Minister, permit any person appointed by the Minister to examine the books or other records of account of the Board in respect of any financial year or other period and shall facilitate any such examination, and the Board shall pay such fee therefor as may be fixed by the Minister.
+
+(2) In *subsection (1)* “relevant member of the staff of the Board” means a member of the staff of the Board to whom there has been duly assigned functions relating to the books or other records of account referred to in that subsection.
+
+(3) The accounts of the Board for each financial year shall be prepared in such a form and manner as may be specified by the Minister and be prepared by the chief executive and approved by the Board as soon as practicable but not later than three months after the end of the financial year to which they relate for submission, as soon as practicable, to the Comptroller and Auditor General for audit.
+
+(4) A copy of such of the accounts referred to in *subsection (3)* as the Minister directs and the report of the Comptroller and Auditor General thereon shall be presented to the members of the Board and to the Minister, as soon as practicable after the audit of them is completed, and the Minister shall cause a copy of these documents to be laid before each House of the Oireachtas.
+
+#### 78. Strategic plans.
+
+**78.**—(1) As soon as practicable after the establishment day, and thereafter within 6 months before each fifth anniversary of the establishment day, the Board shall prepare and submit to the Minister, for approval with or without amendment by the Minister, a strategic plan for the ensuing 5 year period.
+
+(2) A strategic plan shall—
+
+(*a*) comprise the key objectives, outputs and related strategies, including the use of resources, of the Board,
+
+(*b*) be prepared in a form and manner in accordance with any directions issued from time to time by the Minister, and
+
+(*c*) have regard to the need to ensure the most beneficial, effective and efficient use of the resources of the Board.
+
+(3) The Minister shall, as soon as practicable after the strategic plan has been approved, cause a copy of the strategic plan to be laid before each House of the Oireachtas.
+
+## PART 4Miscellaneous — PART 4 — Miscellaneous
+
+### 79. Service of documents.
+
+**79.**—(1) A notice or other document that is required to be served on or given or issued to a person under this Act shall be addressed to the person concerned by name, and may be so served on or given or issued to the person in one of the following ways:
+
+(*a*) by delivering it to the person;
+
+(*b*) by leaving it at the address at which the person ordinarily resides or, in a case in which an address for service has been furnished, at that F108[address;]
+
+(*c*) by sending it by post in a prepaid registered letter to the address at which the person ordinarily resides or, in a case in which an address for service has been furnished, to that F108[address;]
+
+F109[(*d*) by electronic means, in a case in which the person has given notice in writing to the person serving or giving the notice or document concerned of his or her consent to the notice or document (or notices or documents of a class to which the notice or document belongs) being served on, or given or issued to, him or her in that manner; or
+
+(*e*) through a document exchange service, in a case in which the person has given notice in writing to the person serving or giving the notice or document concerned of his or her consent to the notice or document (or notices or documents of a class to which the notice or document belongs) being served on, or given or issued to, him or her in that manner.]
+
+(2) For the purposes of this section, a company shall be deemed to be ordinarily resident at its registered office, and every other body corporate and every unincorporated body shall be deemed to be ordinarily resident at its principal office or place of business.
+
+F109[(3) In this section, "document exchange service" means provision of means, including the supply of premises specifically for that purpose and transportation by a third party, allowing self-delivery by mutual exchange of postal packets between persons subscribing to the service.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F108: Substituted (3.04.2019) by *Personal Injuries Assessment Board (Amendment) Act 2019* (3/2019), s. 14(a)(i), (ii), S.I. No. 123 of 2019.
+>
+> F109: Inserted (3.04.2019) by *Personal Injuries Assessment Board (Amendment) Act 2019* (3/2019), s. 14(a)(iii), (b), S.I. No. 123 of 2019.
+
+### 80. Consultants and advisers.
+
+**80.**—(1) Subject to such conditions (if any) as may for the time being stand specified by the Minister for the purposes of this section, the Board may from time to time engage such consultants or advisers as it may consider necessary for the performance of its functions and any fees due to a consultant or adviser engaged pursuant to this section shall be paid by the Board out of moneys at its disposal.
+
+(2) Without prejudice to the generality of *subsection (1)* the persons who may be engaged pursuant to this section include medical practitioners, accountants and other appropriately qualified persons.
+
+(3) Any person who wishes to be engaged by the Board as a consultant or adviser pursuant to this section may notify the Board in writing of this fact and any notification for that purpose shall include particulars of the person's qualifications and experience.
+
+(4) The Board shall maintain a list of the persons who notify the Board pursuant to *subsection (3)*.
+
+(5) The Board shall, in engaging a consultant or adviser under this section, have regard to the list maintained under *subsection (4)*, but nothing in this subsection shall be construed as precluding the Board from engaging as a consultant or adviser a person whose name is not on that list.
+
+### 80A. F110[Offences: false or misleading information]
+
+F111[**80A.** (1) A person who knowingly, or recklessly, provides the Board with information which is false or misleading in a material particular in connection with an application under *section 11* is guilty of an offence.
+
+(2) A person who knowingly, or recklessly, provides an assessor (within the meaning of *section 20*) with information which is false or misleading in a material particular in connection with a request under *section 23* or *26* is guilty of an offence.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F110, F111: Inserted (13.02.2023) by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 22, S.I. No. 28 of 2023.
+
+### 81. Penalties.
+
+**81.**—A person guilty of an offence under this Act shall be liable on summary conviction to a fine not exceeding €3,000 or imprisonment for a term not exceeding 6 months or both.
+
+### 82. Representation of Board in applications under section 27.
+
+**82.**—A member of staff of the Board who is a solicitor or a barrister may appear on behalf of the Board in an application under *section 27* notwithstanding—
+
+(*a*) any rule of law relating to the representation of bodies corporate, or
+
+(*b*) that, by virtue of any rule of law or provision of any enactment or code of conduct imposing restrictions on employed solicitors or barristers in relation to engaging in activity of that kind, he or she would be prohibited from doing so.
+
+### 83. Annual report.
+
+**83.**—(1) The Board shall submit to the Minister, in such form as the Minister may direct, an annual report of its activities after the end of the financial year to which it relates and the Minister shall cause copies of the report to be laid before each House of the Oireachtas as soon as practicable after the receipt by him or her of it.
+
+(2) A report under this section shall not include information to which *paragraph (c)* or *(d)* of *section 73(4)* applies.
+
+### 84. Amendment of Social Welfare (Consolidation) Act 1993.
+
+**84.**—The definition of “specified body” in section 223(1) of the Social Welfare (Consolidation) Act 1993 (as amended by the Social Welfare (Miscellaneous Provisions) Act 2003) is amended—
+
+(*a*) in paragraph (*t*), by deleting “or”, and
+
+(b) by substituting the following paragraphs for paragraph (*u*):
+
+“(*u*) the Personal Injuries Assessment Board, or
+
+(*v*) such other persons as may be prescribed;”.
+
+### 85. Amendment of Taxes Consolidation Act 1997.
+
+**85.**—Schedule 13 to the Taxes Consolidation Act 1997 is amended by inserting the following paragraph after paragraph 139:
+
+“140.—The Personal Injuries Assessment Board.”.
+
+### 86. Supply of information to, or from, central database.
+
+**86.**—(1) This section has effect in relation to any database (a “central database”) maintained for the time being by any group of persons in which particulars are entered with respect to accidents or incidents proceedings in respect of which—
+
+(*a*) may be brought,
+
+(*b*) may, subject to this Act, be brought, or
+
+(*c*) are brought,
+
+for the purpose of claiming damages for personal injuries, F112[but only if the processing (within the meaning of the Data Protection Regulation) of any particulars constituting personal data (within the meaning of that Regulation) in the database is in accordance with the Data Protection Regulation and the Data Protection Act 2018.]
+
+(2) There may be supplied to the Board, for the purpose of its dealing with an application made to it under *section 11*, any relevant particulars entered in a central database.
+
+(3) The Board may supply the following, and no other particulars, for the purpose of their being entered in a central database and, by means of that database, being disclosed to other persons who have access to that database, namely—
+
+(*a*) the name and address of a claimant who has made an application under *section 11*,
+
+(*b*) the date on which the accident or incident, the subject of that application, is alleged in that application to have occurred,
+
+(*c*) the name and address of the person or each of the persons who the claimant alleges in the application is or are liable to him or her in respect of the relevant claim concerned, and
+
+(*d*) the name of the insurance company or undertaking, if any, which has entered into a policy of insurance with the person or any of the persons referred to in *paragraph (c)* and which policy provides an indemnity in respect of the claimant's proposed proceedings.
+
+(4) This section is without prejudice to the generality of the provisions of *Chapter 4* of *Part 2*.
+
+F113[(5) In this section, "Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016[^4] on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F112: Substituted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 195(a), S.I. No. 174 of 2018.
+>
+> F113: Inserted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 195(b), S.I. No. 174 of 2018.
+
+[^1]: OJ No. L 140, 30.05.2002, p2-5.
+[^2]: OJ No. L 131, 28.05.2009, p24-46.
+[^3]: OJ No. L 199, 31.7.2007, p.40.
+[^4]: OJ No. L 119, 4.5.2016, p.1

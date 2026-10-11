@@ -1,0 +1,3493 @@
+---
+title: "Pharmacy Act 2007"
+identifier: "eli/2007/act/20"
+type: act
+jurisdiction: ie
+language: en
+number: 20
+year: 2007
+date: 2007-04-21
+last_amended: 2026-06-30
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2007/act/20/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2007/act/20/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Pharmacy Act 2007
+
+AN ACT TO MAKE NEW PROVISION FOR THE REGULATION OF PHARMACY, INCLUDING PROVISION FOR THE DISSOLUTION OF THE PHARMACEUTICAL SOCIETY OF IRELAND AND THE SETTING UP OF A NEW PHARMACEUTICAL SOCIETY OF IRELAND, FOR THE ESTABLISHMENT, CONSTITUTION AND FUNCTIONS OF THE NEW SOCIETY’S COUNCIL, FOR A NEW SYSTEM OF REGISTRATION OF QUALIFIED PHARMACISTS, DRUGGISTS AND PHARMACEUTICAL ASSISTANTS AND OF PHARMACIES, FOR THE CREATION OF CERTAIN OFFENCES RELATING TO PHARMACY AND FOR THE SETTING UP OF NEW PROCEDURES TO ENSURE THAT PHARMACISTS ARE AND CONTINUE TO BE FIT TO PRACTISE AND TO PREVENT PHARMACISTS, PHARMACY OWNERS AND MEDICAL PRACTITIONERS FROM ENTERING INTO CERTAIN INAPPROPRIATE RELATIONSHIPS; AND TO PROVIDE FOR RELATED MATTERS. [21*st April*, 2007]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred and references to “Minister” and “Department of Finance” construed (6.07.2011) by *Ministers and Secretaries (Amendment) Act 2011* (10/2011), ss. 7, 9, 11, 15, 20 and sch. 2 part 1, commenced as per s. 1(2).
+>
+> **Department of Public Expenditure and Reform**.
+>
+> **7**.— (1) There shall stand established on the appointed day a Department of State to be known, in the Irish language, as an Roinn Caiteachais Phoiblí agus Athchóirithe or, in the English language, as the Department of Public Expenditure and Reform.
+>
+> (2) The member of the Government who is in charge of the Department of Public Expenditure and Reform—
+>
+> (*a*) shall be known, in the Irish language, as an tAire Caiteachais Phoiblí agus Athchóirithe or, in the English language, as the Minister for Public Expenditure and Reform, and
+>
+> (*b*) is, in this Act, referred to as the “Minister”.
+>
+> ...
+>
+> **Transfer of certain other functions to Minister**.
+>
+> **9**.— ...
+>
+> (2) The functions conferred on the Minister for Finance by or under any of the provisions specified in Part 1 of Schedule 2 are transferred to the Minister.
+>
+> ...
+>
+> **Transfer of administration and business of Department of Finance**.
+>
+> **11**.— (1) The administration and business in connection with the performance of the functions transferred by sections 8 and 9 are hereby transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any statute or instrument under a statute in so far as they relate to the administration and business transferred by subsection (1) shall, from the appointed day, be construed as references to the Department of Public Expenditure and Reform.
+>
+> ...
+>
+> **Construction of references**
+>
+> **15**.— (1) References to the Minister for Finance contained in any statute or instrument under a statute in so far as they relate to any function transferred by this Act shall, from the appointed day, be construed as references to the Minister.
+>
+> ...
+>
+> **Performance of certain functions transferred to Minister by section 9.**
+>
+> **20**.— (1) The Minister shall not perform a function transferred by subsection (2) of section 9 without the consent of the Minister for Finance.
+>
+> ...
+>
+> SCHEDULE 2
+>
+> Functions Transferred To Minister
+>
+> ...
+>
+> PART 1
+>
+> Functions performable with consent of Minister for Finance
+>
+> STATUTES
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 20 of 2007</td><td>Pharmacy Act 2007</td><td>Paragraph 18(1) of Schedule 1</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E1: Registrar of Pharmaceutical Society of Ireland designated as recipient of disclosures of relevant wrongdoings relating to the regulation of pharmacists and pharmacies including the Society’s responsibility for supervising compliance with Act (24.09.2020) by *Protected Disclosures Act 2014 (Disclosure to Prescribed Persons) Order 2020* (S.I. No. 339 of 2014), art. 2 and sch. ref. no. 57.
+>
+> E2: Work or activity which is carried on by a person, a necessary and regular part of which requires the person to have access to, or contact with, children and vulnerable persons pursuant to Act included in schedule 1 to *National Vetting Bureau (Children and Vulnerable Persons) Act 2012* (47/2012) (29.04.2016) by *National Vetting Bureau (Children and Vulnerable Persons) Act 2012* (47/2012), s. 2 and sch. 1, part 1 item 15(f) and part 2 item 12(f), S.I. No. 214 of 2016.
+>
+> E3: Previous affecting provision: Registrar of Pharmaceutical Society of Ireland designated as recipient of disclosures of relevant wrongdoings relating to the regulation of pharmacists and pharmacies including the Society’s responsibility for supervising compliance with Act (23.07.2014) by *Protected Disclosures Act 2014 (Section 7(2)) Order 2014* (S.I. No. 339 of 2014), art. 2 and sch. ref. no. 55; revoked (24.09.2020) by *Protected Disclosures Act 2014 (Disclosure to Prescribed Persons) Order 2020* (S.I. No. 367 of 2020), art. 3(a).
+
+## PART 1 Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title and commencement.
+
+**1**.— (1) This Act may be cited as the Pharmacy Act 2007.
+
+(2) This Act shall come into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or provisions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E4: A table of commencement dates ordered by section is available at https://www.irishstatutebook.ie/eli/isbc/2007_20.html.
+>
+> E5: Date from which s. 64(9) is to take effect prescribed (1.05.2010) by *Pharmacy Act 2007 (Section 64(9)) Order 2009* (S.I. No. 282 of 2009).
+>
+> 2\. The 1st day of May 2010 is appointed as the day on which section 64(9) of the Pharmacy Act 2007 (No. 20 of 2007) shall take effect.
+>
+> E6: Power pursuant to section exercised (1.08.2009) by *Pharmacy Act 2007 (Commencement) Order 2009* (S.I. No. 281 of 2009).
+>
+> 2\. The 1st day of August 2009 is appointed as the day on which the Pharmacy Act 2007 (No. 20 of 2007) shall come into operation insofar as it is not already in operation.
+>
+> E7: Power pursuant to section exercised (29.11.2008 and others) by *Pharmacy Act 2007 (Commencement) Order 2008* (S.I. No. 487 of 2008).
+>
+> 3\. The 29th day of November 2008 is appointed as the day on which the following provisions of the Act come into operation:
+>
+> (*a*) sections 4, 13 (other than subsections (1)(a)(iv) and (1)(c)), 14 to 17, 19, 21 to 24 and 59 to 62;
+>
+> (*b*) Part 5 (other than sections 27(e), 28(d) and 29(e));
+>
+> (*c*) Part 7;
+>
+> (*d*) Part 8 (except insofar as it is already in operation);
+>
+> (e) Schedules 2, 3 and 4.
+>
+> 4\. The 1st day of January 2009 is appointed as the day on which sections 13(1)(a)(iv), 13(1)(c) and 20 of the Act come into operation.
+>
+> 5\. The 1st day of April 2009 is appointed as the day on which sections 27(e), 28(d) and 29(e) of the Act come into operation.
+>
+> E8: Power pursuant to section exercised (22.05.2007) by *Pharmacy Act 2007 (Commencement) Order 2007* (S.I. No. 243 of 2007).
+>
+> 2\. The 22nd day of May 2007 is appointed as the day on which the following provisions of the Pharmacy Act 2007 (No. 20 of 2007) shall come into operation—
+>
+> (*a*) Part 1 (other than section 4);
+>
+> (*b*) Part 2;
+>
+> (*c*) Part 3;
+>
+> (*d*) Section 18;
+>
+> (*e*) Section 76;
+>
+> (*f*) Schedule 1.
+
+### 2. Interpretation.
+
+**2**.— (1) In this Act—
+
+“Company” means a company within the meaning of the Companies Acts 1963 to 2005;
+
+F1["condition" includes a restriction;]
+
+“Council” means the Council established by *section 10*;
+
+“Directive” means Directive 2001/83/EC of 6 November 2001 on the Community code relating to medicinal products for human use, as amended;
+
+“Enduring power of attorney” means a power of attorney within the meaning of section 2 of the Powers of Attorney Act 1996, which is an enduring power construed in accordance with section 5 of that Act;
+
+F2["health or social care", in relation to a person (howsoever described), means the health or social care that the person provides or has provided in his or her capacity or former capacity as a member of a relevant profession;
+
+"inspect" includes search;]
+
+“medicinal product” has the same meaning as in the Directive except that until 30 April 2011 it does not include herbal or homeopathic medicinal products;
+
+“Minister” means the Minister for Health and Children;
+
+F3["partner" shall be construed in accordance with the Partnership Act 1890;]
+
+“pharmaceutical assistant” means a person who before the coming into operation of *section 4(1)* of this Act was competent, under section 19 of the Pharmacy Act, (Ireland) Amendment Act 1890 to transact the business of a pharmacist in his or her temporary absence;
+
+“pharmacy owner” means a person carrying on a retail pharmacy business and, as such, being entitled to the profits and liable to sustain the losses of the business and “pharmacy”, when used with reference to a pharmacy owner, means a retail pharmacy business;
+
+“practice” means the carrying on of practice as a registered pharmacist;
+
+“prescribed” means prescribed by rules made by the Council;
+
+F8[“Professional Qualifications Directive”, has the same meaning as that assigned to “Directive” in the Professional Qualifications Regulations;
+
+“Professional Qualifications Regulations” means the European Union (Recognition of Professional Qualifications) Regulations 2017 (No. 8 of 2017);]
+
+F4["record" includes, in addition to a record in writing—
+
+(*a*) a disc, tape, sound-track or other device in which information, sounds or signals are embodied so as to be capable (with or without the aid of some other instrument) of being reproduced in legible or audible form,
+
+(*b*) a film, tape or other device in which visual images are embodied so as to be capable (with or without the aid of some other instrument) of being reproduced in visual form, and
+
+(*c*) a photograph,
+
+and any reference to a copy of a record includes—
+
+(i) in the case of a record to which *paragraph (a)* applies, a transcript of the sounds or signals embodied therein,
+
+(ii) in the case of a record to which *paragraph (b)* applies, a still reproduction of the images embodied therein, and
+
+(iii) in the case of a record to which *paragraphs (a)* and *(b)* apply, such a transcript together with such a still reproduction;]
+
+“register” means a register set up and maintained under *section 13* and “registered” and connected expressions shall be construed accordingly;
+
+“registered medical practitioner” means a person whose name is entered in the General Register of Medical Practitioners established under the Medical Practitioners Act 1978;
+
+F4["relevant profession" means any of the following professions:
+
+(*a*) dentist;
+
+(*b*) a designated profession within the meaning of section 3 of the Health and Social Care Professionals Act 2005;
+
+(*c*) medical practitioner;
+
+(*d*) midwife;
+
+(*e*) nurse;
+
+(*f*) pharmacist;]
+
+F5["restriction" includes a condition;]
+
+“retail pharmacy business” means a business (not being a professional practice carried on by a registered medical practitioner or a registered dentist) which consists of or includes the sale or supply of medicinal products other than medicinal products on a general sales list (whether or not such products on such a list are also sold or supplied in the course of the business);
+
+“sale” means sale by retail;
+
+“the Society” has the meaning assigned to it by *section 5*;
+
+“the old Society” has the meaning assigned to it by *section 5*;
+
+F6["this Act" includes a statutory instrument made under this Act;]
+
+“supply” in relation to a medicinal product, means its supply (other than by way of sale) to a person who receives it for a purpose other than—
+
+(*a*) selling or supplying it, or
+
+(*b*) administering it or causing it to be administered to another person,
+
+in the course of a business or profession.
+
+(2) References in this Act to the sale and supply or the sale or supply of a medicinal product include references to the keeping, preparing, compounding or dispensing of the medicinal product.
+
+(3) For the purposes of this Act, two or more premises which are separate and distinct from each other shall each be regarded as separate premises although they are parts of the same building.
+
+(4) *Subsection (3)* shall not apply to *sections 63* and *64*.
+
+(5) In the definition of “retail pharmacy business” in *subsection (1)*, “medicinal products on a general sales list” means medicinal products which may be sold under section 32(2)(*m*)(ii) of the Irish Medicines Board Act 1995.
+
+F7[(6) Unless otherwise specified in this Act, nothing in this Act shall be construed to prejudice the performance by the Council of its functions under the Professional Qualifications Regulations as the competent authority in respect of the regulated professions (within the meaning of Regulation 3 of those Regulations) concerned.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1, F2, F3, F4, F5, F6, F7: Inserted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 52(a), (b), S.I. No. 54 of 2021.
+>
+> F8: Inserted (17.01.2017) by *European Union (Recognition of Professional Qualifications) Regulations 2017* (S.I. No. 8 of 2017), reg. 91(a), in operation as per reg. 2.
+>
+> **Modifications (not altering text):**
+>
+> C2: Terms “General Register of Medical Practitioners” and “registered medical practitioner”construed (16.03.2009) by *Medical Practitioners Act 2007* (25/2007), s. 108(1), (2), S.I. No. 40 of 2009.
+>
+> **Construction of references to registered medical practitioner and Medical Council, etc**.
+>
+> **108.**— (1) Every reference to a registered medical practitioner contained in any enactment or any statutory instrument shall be construed as a reference to a registered medical practitioner within the meaning of section 2.
+>
+> (2) Every reference to the General Register of Medical Practitioners contained in any other enactment or any statutory instrument shall be construed as a reference to any division of the register.
+>
+> (3) Every reference to—
+>
+> (*a*) the Medical Council, or
+>
+> (*b*) the Medical Registration Council, contained in any other enactment or any statutory instrument
+>
+> shall be construed as the Council within the meaning of section 2.
+
+### 3. Expenses.
+
+**3**.— The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of money provided by the Oireachtas.
+
+### 4. Repeals and revocations.
+
+**4**.— (1) The enactments specified in *Schedule 4* are repealed.
+
+(2) The European Communities (Recognition of Qualifications in Pharmacy) Regulations 1987 to 2004 are revoked.
+
+## PART 2 The Pharmaceutical Society of Ireland — PART 2 — The Pharmaceutical Society of Ireland
+
+### 5. Dissolution of old and establishment and membership of new Pharmaceutical Society of Ireland.
+
+**5**.— (1) The Pharmaceutical Society of Ireland constituted and incorporated by section 4 of the Pharmacy (Ireland) Act 1875 (in this Act referred to as “the old Society”) is hereby dissolved.
+
+(2) There is hereby established in its place a body to be known as Cumann Cógaiseoirí na hÉireann, or, in the English language, “The Pharmaceutical Society of Ireland” (in this Act referred to as “the Society”).
+
+(3) Every registered pharmacist is a member of the Society.
+
+(4) All rights, property and liabilities of the old Society are transferred to the Society.
+
+(5) The Society becomes the employer of all persons who immediately before the dissolution of the old Society were its employees and shall employ each of them on terms and conditions not less favourable than those then applicable to the employee.
+
+(6) In—
+
+(*a*) any proceedings in a court or tribunal, and
+
+(*b*) any contract or other agreement,
+
+to which the old Society is a party, the Society is substituted for the old Society.
+
+(7) References to the old Society which—
+
+(*a*) occur in any enactment passed or made before this Act is passed, and
+
+(*b*) relate to anything which becomes the responsibility of the Society by virtue of this Act,
+
+are to be construed as references to the Society.
+
+(8) Anything done by, on behalf of or in respect of the old Society which relates to anything which becomes the responsibility of the Society by virtue of this Act shall be treated as if done by, on behalf of or in respect of the Society.
+
+(9) Enactments are to be construed and applied, so far as it is possible to do so, in a way which achieves continuity between the functions of the old Society and, so far as they correspond, those of the Society.
+
+(10) Stamp duty is not chargeable on an instrument under which any property owned by the old Society is transferred to the Society.
+
+(11) For the purposes of the Capital Gains Tax Acts (within the meaning of section 1 of the Taxes Consolidation Act 1997), any gain accruing to the old Society on a disposal made by virtue of this section shall not be a chargeable gain.
+
+### 6. Status of the Society.
+
+**6**.— (1) The Society is a corporate body with perpetual succession and an official seal.
+
+(2) The official seal of the Society shall be authenticated by—
+
+(*a*) the signature of 2 members of the Council, or
+
+(*b*) the signature of a member of the Council and an employee of the Society,
+
+authorised by the Council to sign for that purpose.
+
+(3) Judicial notice shall be taken of the official seal of the Society and any document purporting to be an instrument made by and sealed by the Society shall, until the contrary is shown, be received in evidence and be deemed to be such instrument without further proof.
+
+(4) The Society may sue and may be sued in its corporate name.
+
+(5) The Society may acquire, hold and transfer land and other property.
+
+### 7. Functions of the Society.
+
+**7**.— (1) The principal functions of the Society shall be—
+
+F9[(*a*) to regulate the profession of pharmacy in the State, including prescribing by pharmacists, having regard to the need to protect, maintain and promote the health and safety of the public,]
+
+(*b*) to promote and ensure a high standard of education and training for persons seeking to become pharmacists,
+
+(*c*) to ensure that those persons and pharmacists obtain appropriate experience,
+
+(*d*) to ensure that pharmacists F10[and pharmaceutical assistants] undertake appropriate continuing professional development, including F11[in relation to prescribing and] the acquisition of specialisation, and
+
+F12[(*e*) to—
+
+(i) supervise compliance with this Act, and
+
+(ii) supervise compliance by pharmacists, pharmaceutical assistants and pharmacy owners in their respective capacities as such, with—
+
+(I) the Poisons Acts 1961 and 1977,
+
+(II) the Misuse of Drugs Acts 1977 to 2017,
+
+(III) the Animal Remedies Acts 1993 and 2006,
+
+(IV) the Irish Medicines Boards Acts 1995 and 2006,
+
+(V) the Health (Pricing and Supply of Medical Goods) Act 2013 ,
+
+(VI) any statutory instrument made under any of those Acts, and
+
+(VII) the European Communities (Animal Remedies) (No. 2) Regulations 2007 ( S.I. No. 786 of 2007),
+
+and]
+
+F13[(*f*) to establish and maintain, in accordance with regulation 19A (inserted by regulation 7 of the Medicinal Products (Prescription and Control of Supply) (Amendment) Regulations 2015 (S.I. No. 87 of 2015)) of the Medicinal Products (Prescription and Control of Supply) Regulations 2003 (S.I. No. 540 of 2003), the ISS supply list of persons entitled to supply non-prescription medicinal products at a distance to the public by means of information society services.]
+
+(2) Without prejudice to the generality of *subsection(1)*, but subject to the other provisions of this Act—
+
+(*a*) it is the duty of the Society to—
+
+(i) keep the registers,
+
+(ii) determine and apply the criteria for registration,
+
+(iii) draw up codes of conduct for pharmacists,
+
+(iv) determine, approve and keep under review programmes of education and training suitable to enable persons applying for registration to meet those criteria and pharmacists to comply with those codes,
+
+(v) give the Minister such information and advice about such matters relating to its functions as the Minister may call for,
+
+(vi) act as the competent authority for the purposes of the mutual recognition of pharmacy qualifications obtained in or recognised by Member States and for the purposes of the Professional Qualifications Directive, F14[Commission Implementing Regulation (EU) 2015/983 of 24 June 20154 and the Professional Qualifications Regulations,]
+
+(vii) take suitable action to improve the profession of pharmacy,
+
+(*b*) the Society shall have power to—
+
+(i) conduct inquiries into the qualifications and fitness of persons to practise,
+
+(ii) impose sanctions on pharmacists whom it finds (whether or not after an inquiry) to be unqualified or unfit to practise,
+
+(iii) impose sanctions on pharmacy owners whom it finds (whether or not after an inquiry) have failed to comply with regulations under *section 18* ,
+
+(iv) to conduct or arrange for the conduct of examinations of persons who are applying or might apply for registration,
+
+(v) give the Minister such advice or information about matters relating to its functions as it thinks fit,
+
+(vi) facilitate the exchange of information between its members collectively or any sector of them and members of the public who use, or might use, their or its services,
+
+(vii) make public statements about any aspect of pharmacy to which its functions relate,
+
+(viii) borrow money,
+
+(ix) authorise persons to exercise the powers of entry and inspection, etc., of drugs and documents, as set out in section 24 of the Misuse of Drugs Act 1977,
+
+(x) appoint persons as authorised officers for the purposes of the Irish Medicines Board Act 1995 and furnish them with warrants, all as set out in section 32B of that Act.
+
+(3) In *subsection (2)(a)(ii)* and *(iv)*, “registration” includes continued registration.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F9: Substituted (1.01.2025) by *Health (Miscellaneous Provisions) Act 2024* (23/2024), s. 11(a)(i), S.I. No. 753 of 2024.
+>
+> F10: Inserted (6.05.2025) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 53(a), S.I. No. 151 of 2025.
+>
+> F11: Inserted (1.01.2025) by *Health (Miscellaneous Provisions) Act 2024* (23/2024), s. 11(a)(ii), S.I. No. 753 of 2024.
+>
+> F12: Substituted (13.02.2021) by by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 53(b), S.I. No. 54 of 2021.
+>
+> F13: Inserted (12.03.2015) by *European Union (Amendment of the Pharmacy Act 2007) Regulations 2015* (S.I. No. 86 of 2015), reg. 2(b).
+>
+> F14: Inserted (17.01.2017) by *European Union (Recognition of Professional Qualifications) Regulations 2017* (S.I. No. 8 of 2017), reg. 91(b), in operation as per reg. 2.
+>
+> **Editorial Notes:**
+>
+> E9: Previous affecting provision: subs. (1)(e) amended (12.03.2015) by *European Union (Amendment of the Pharmacy Act 2007) Regulations 2015* (S.I. No. 86 of 2015), reg. 2(a); substituted as per F-note above.
+>
+> E10: Previous affecting provision: subs. (1)(e) substituted (24.06.2013) by *Health (Pricing and Supply of Medical Goods) Act 2013* (14/2013), s. 32(a), S.I. No. 202 of 2013; paragraph substituted as per F-note above.
+
+### 8. Additional functions.
+
+**8**.— The Minister may, by order—
+
+(*a*) confer on the Society such additional functions, connected with those which it has,
+
+(*b*) make such provision ancillary to the exercise of the power under *paragraph (a)*,
+
+as the Minister thinks fit.
+
+### 9. Ancillary powers.
+
+**9**.— (1) The Society shall have all such powers as are necessary or expedient for the performance by it of its functions.
+
+(2) Without prejudice to the generality of *subsection (1)* or *section 7* or *8*, the Society may—
+
+(*a*) carry out or commission research into and evaluation of—
+
+(i) education and training (including the formulation and testing of experimental curricula),
+
+(ii) examination and assessment processes,
+
+(*b*) keep and publish statistics,
+
+in relation to pharmacy.
+
+## PART 3 The Council of the Society — PART 3 — The Council of the Society
+
+### 10. The Council of the Society.
+
+**10**.— (1) The Society shall have a Council.
+
+(2) The Council shall consist of 21 persons appointed by the Minister.
+
+(3) Of those 21—
+
+(*a*) one shall be nominated by the Irish Medicines Board as representative of the management of the regulation of medicinal products,
+
+(*b*) one shall be nominated by the Health Services Executive as representative of the management of the public health sector,
+
+(*c*) one shall be a person appearing to the Minister to be representative of the provision of continuing professional development in relation to pharmacy,
+
+(*d*) 3 shall be persons with such qualifications, expertise, interests or experience (or such combination of any of them) as would, in the opinion of the Minister, enable them to make a substantial contribution to the performance of the Society’s functions,
+
+(*e*) 11 (including the persons referred to in *paragraphs (a)* to *(d)*) shall be persons who are not and never have been—
+
+(i) registered as pharmacists or (before the coming into operation of *Part 4* ) as pharmaceutical chemists or dispensing chemists and druggists, or
+
+(ii) registered outside the State or otherwise qualified there as pharmacists,
+
+(*f*) 9 shall be members of the Society who have been selected by its members in accordance with rules made under *section 11(2)(b)*, and
+
+(*g*) one shall be a member of the Society who has been selected as a representative of third level education establishments carrying out education, training or research in pharmacy, by—
+
+(i) the deans of the schools of pharmacy of those establishments (including, where there is no such dean, the person whose functions are the same as or most nearly correspond to those which might be carried out by a dean), and
+
+(ii) the heads of those establishments.
+
+(4) In—
+
+(*a*) making nominations under *subsection (3)(a)* and *(b)*, the bodies there referred to, and
+
+(*b*) making appointments in pursuance of *subsection (3)(c)*, *(d)* and *(e)*, the Minister,
+
+shall have regard to the desirability of ensuring that the persons nominated or, as the case may be, appointed are also representative of the public interest.
+
+(5) In relation to the first Council appointed after the establishment of the Society, the 9 persons referred to in *subsection (3)(f)* shall be members of the Council of the old Society selected for the purposes of this section by the members of the Council of the old Society before its dissolution.
+
+(6) *Schedule 1* shall apply in relation to the Council and its members and the employees of the Society.
+
+(7) The Minister may not refuse to appoint to the Council a person nominated under *paragraph (a)* or *(b)* of *subsection (3)* or selected under *paragraph (f)* (as read with *subsection (5)*) or *(g)* of *subsection (3)*.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E11: Procedure for selection by the Minister of members of the Pharmaceutical Society of Ireland for appointment to the Council pursuant to subs. (3)(f) and filling of casual vacancies on the Council prescribed (29.11.2008) by *Pharmaceutical Society of Ireland (Council) Rules 2008* (S.I. No. 492 of 2008), parts 2 and 3, in operation as per rule 2.
+
+### 11. Functions of the Council and their delegation.
+
+**11**.— (1) Subject to this Act, the functions of the Society shall be performed on its behalf by the Council.
+
+(2) The Council may make rules for the purposes of—
+
+(*a*) regulating or prescribing anything that may, in accordance with any provision of this Act, be prescribed,
+
+(*b*) making such provision as it thinks fit for facilitating the performance of its functions under this Act.
+
+F15[(2A) The Council may make rules in relation to the specification of grounds for the purposes of *section 16(2)(c)* after having regard to—
+
+(*a*) the standard of education and training required to obtain recognition as a pharmacist in the State referred to in that section for persons seeking to become pharmacists,
+
+(*b*) the practical experience of such persons, and
+
+(*c*) the continued professional development for such pharmacists.
+
+(2B) Subject to *subsection (2C)*, the Council may, for the purposes of *section 14(1)(a)* (including that section as read with *section 14(5)*) make rules for the purposes of setting criteria to be complied with by persons who wish to—
+
+(*a*) resume practice as a registered pharmacist after not having so practised for a period specified in the rules, or
+
+(*b*) commence practice as a registered pharmacist after not having so practised previously where a period specified in the rules has elapsed since such persons have obtained their respective qualifications in pharmacy pursuant to which they wish to so practise.
+
+(2C) Criteria to be complied with by persons referred to in *subsection (2B)* may include criteria in relation to—
+
+(*a*) the education or training of those persons,
+
+(*b*) the manner of verifying that those persons possess the relevant competencies, or
+
+(*c*) any other matter where, in the opinion of the Council, the specification in rules of criteria in relation to that matter is necessary or desirable for the protection of the public.]
+
+(3) The Council shall make rules for the purposes of regulating or prescribing anything relating to education or training that, in accordance with this Act, is to be prescribed.
+
+F16[(3A) The Council shall make rules specifying the education and training which a registered pharmacist must receive to enable him or her to prescribe medicinal products in accordance with regulations made under section 32 (2)(l)(iv) of the Irish Medicines Board Act 1995.
+
+(3B) Rules made under *subsection (3A)* shall include—
+
+(*a*) the standard of education and training required to be reached by a registered pharmacist in order to prescribe medicinal products in accordance with regulations made under section 32 (2)(l)(iv) of the Irish Medicines Board Act 1995, taking into account any practical professional experience of prescribing which the registered pharmacist may have, and
+
+(*b*) any other relevant continuing professional education.]
+
+(4) The Council may not make rules under F17[*subsection (2)*, *(2A)*, *(2B)* or *(3)*] for any purpose for which the Minister may make regulations under *section 18*.
+
+(5) Rules made under F18[*subsection (2)*, *(2A)*, *(2B)*, *(3)* or *(3A)*] shall be subject to the consent of the Minister and, when the Council has made them, it shall—
+
+(*a*) submit them to the Minister for laying before each House of the Oireachtas, and
+
+(*b*) publish them in such a manner as it determines.
+
+(6) The Council, shall in the prescribed manner, publish—
+
+(*a*) a draft of the rules it proposes to make under this section, and
+
+(*b*) together with the draft, an invitation to the public to comment on the draft by such date as is specified in the invitation.
+
+(7) The Council shall have such further functions as are assigned to it by or under this Act.
+
+(8) The Council may delegate any of its functions to any of its committees or to the registrar or to any other employee of the Society and, where it delegates a function to a committee, the committee’s remit under this Act shall be extended accordingly.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F15: Inserted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 54(a), S.I. No. 54 of 2021.
+>
+> F16: Inserted (1.01.2025) by *Health (Miscellaneous Provisions) Act 2024* (23/2024), s. 11(b)(i), S.I. No. 753 of 2024.
+>
+> F17: Substituted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 54(b), S.I. No. 54 of 2021.
+>
+> F18: Substituted (1.01.2025) by *Health (Miscellaneous Provisions) Act 2024* (23/2024), s. 11(b)(ii), S.I. No. 753 of 2024.
+>
+> **Editorial Notes:**
+>
+> E12: Power pursuant to section exercised (1.05.2026) by *Pharmaceutical Society of Ireland (Fees) Rules 2026* (S.I. No. 171 of 2026), in operation as per rule 2.
+>
+> E13: Power pursuant to section exercised (4.03.2026) by *Pharmaceutical Society of Ireland (Education and Training) (Integrated Course) (Amendment) Rules 2026* (S.I. No. 102 of 2026).
+>
+> E14: Power pursuant to section exercised (23.10.2025) by *Pharmaceutical Society of Ireland (Registration) (Amendment) Rules 2025* (S.I. No. 509 of 2025).
+>
+> E15: Power pursuant to section exercised (23.10.2025) by *Pharmaceutical Society of Ireland (Continuing Professional Development) (Amendment) Rules 2025* (S.I. No. 508 of 2025).
+>
+> E16: Power pursuant to section exercised (23.10.2025) by *Pharmaceutical Society of Ireland (Education and Training required to prescribe medicinal products in accordance with a Common Conditions Service) Rules 2025* (S.I. No. 507 of 2025).
+>
+> E17: Power pursuant to section exercised (10.07.2023) by *Pharmaceutical Society of Ireland (Registration) (Amendment) Rules 2023* (S.I. No. 452 of 2023).
+>
+> E18: Power pursuant to section exercised (18.02.2021) by *Pharmaceutical Society of Ireland (Education and Training) (Integrated Course) (Amendment) Rules 2021* (S.I. No. 79 of 2021).
+>
+> E19: Power pursuant to section exercised (1.01.2021) by *Pharmaceutical Society of Ireland (Registration) (Amendment) (No 2) Rules 2020* (S.I. No. 563 of 2020), in operation as per art. 2.
+>
+> E20: Power pursuant to section exercised (15.08.2020) by *Pharmaceutical Society of Ireland (Registration) (Amendment) Rules 2020* (S.I. No. 316 of 2020).
+>
+> E21: Power pursuant to section exercised (24.04.2020) by *Pharmaceutical Society of Ireland (Education and Training) (Integrated Course) (Amendment) Rules 2020* (S.I. No. 148 of 2020).
+>
+> E22: Power pursuant to section exercised (31.05.2017) by *Pharmaceutical Society of Ireland (Receiving and Recording of Evidence by Committee of Inquiry) Rules 2017* (S.I. No. 274 of 2017), in operation as per rule 2.
+>
+> E23: Power pursuant to section exercised (16.03.2017) by *Pharmaceutical Society of Ireland (Registration) (Amendment) Rules 2017* (S.I. No. 100 of 2017).
+>
+> E24: Power pursuant to section exercised (16.03.2017) by *Pharmaceutical Society of Ireland (Education and Training) (Integrated Course) (Amendment) Rules 2017* (S.I. No. 97 of 2017).
+>
+> E25: Power pursuant to section exercised (1.01.2016 and 1.01.2017) by *Pharmaceutical Society of Ireland (Continuing Professional Development) Rules 2015* (S.I. No. 553 of 2015), in operation as per rule 2(1) and (2).
+>
+> E26: Power pursuant to section exercised (1.06.2015) by *Pharmaceutical Society of Ireland (Education and Training) (Integrated Course) Rules 2014* (S.I. No. 377 of 2014), in operation as per rule 2.
+>
+> E27: Power pursuant to section exercised (1.04.2015) by *Pharmaceutical Society of Ireland (Council) (Amendment) Rules 2015* (S.I. No. 114 of 2015), in operation as per rule 2.
+>
+> E28: Power pursuant to section exercised (29.11.2008) by *Pharmaceutical Society of Ireland (Retail Pharmacy Businesses) (Registration) Rules 2008* (S.I. No. 495 of 2008), in operation as per rule 2.
+>
+> E29: Power pursuant to section exercised (29.11.2008) by *Pharmaceutical Society of Ireland (Registration) Rules 2008* (S.I. No. 494 of 2008), in operation as per rule 2.
+>
+> E30: Power pursuant to section exercised (29.11.2008) by *Pharmaceutical Society of Ireland (Council) Rules 2008* (S.I. No. 492 of 2008), in operation as per rule 2.
+>
+> E31: Previous affecting provision: power pursuant to section exercised (16.04.2025) by *Pharmaceutical Society of Ireland (Fees) (Amendment) Rules 2025* (S.I. No. 135 of 2025); revoked (1.05.2026) by *Pharmaceutical Society of Ireland (Fees) Rules 2026* (S.I. No. 171 of 2026), rule 6, in operation as per rule 2.
+>
+> E32: Previous affecting provision: subs. (5) amended (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 54(c), S.I. No. 54 of 2021; substituted (1.01.2025) as per F-note above.
+>
+> E33: Previous affecting provision: power pursuant to section exercised (12.06.2020) by *Pharmaceutical Society of Ireland (Fees) (Amendment) Rules 2020* (S.I. No. 213 of 2020); revoked (1.05.2026) by *Pharmaceutical Society of Ireland (Fees) Rules 2026* (S.I. No. 171 of 2026), rule 6, in operation as per rule 2.
+>
+> E34: Previous affecting provision: power pursuant to section exercised (16.03.2017) by *Pharmaceutical Society of Ireland (Fees) (Amendment) Rules 2017* (S.I. No. 99 of 2017); revoked (1.05.2026) by *Pharmaceutical Society of Ireland (Fees) Rules 2026* (S.I. No. 171 of 2026), rule 6, in operation as per rule 2.
+>
+> E35: Previous affecting provision: power pursuant to section exercised (24.06.2016) by *Pharmaceutical Society of Ireland (Fees) (Amendment) Rules 2016* (S.I. No. 311 of 2016), in operation as per rule 2; revoked (1.05.2026) by *Pharmaceutical Society of Ireland (Fees) Rules 2026* (S.I. No. 171 of 2026), rule 6, in operation as per rule 2.
+>
+> E36: Previous affecting provision: power pursuant to section exercised (24.06.2015) by *Pharmaceutical Society of Ireland (Fees) (Amendment) Rules 2015* (S.I. No. 238 of 2015), in operation as per rule 2; revoked (1.05.2026) by *Pharmaceutical Society of Ireland (Fees) Rules 2026* (S.I. No. 171 of 2026), rule 6, in operation as per rule 2.
+>
+> E37: Previous affecting provision: power pursuant to section exercised (1.09.2014) by *Pharmaceutical Society of Ireland (Fees) Rules 2014* (S.I. No. 378 of 2014), in operation as per rule 2; revoked (1.05.2026) by *Pharmaceutical Society of Ireland (Fees) Rules 2026* (S.I. No. 171 of 2026), rule 6, in operation as per rule 2.
+>
+> E38: Previous affecting provision: power pursuant to section exercised (2.06.2010) by *Pharmaceutical Society of Ireland (Fees) (Amendment) Rules 2010* (S.I. No. 257 of 2010); revoked (1.09.2014) by *Pharmaceutical Society of Ireland (Fees) Rules 2014* (S.I. No. 378 of 2014), rule 6, in operation as per rule 2.
+>
+> E39: Previous affecting provision: power pursuant to section exercised (29.11.2008 and 1.06.2009) by *Pharmaceutical Society of Ireland (Fees) Rules 2008* (S.I. No. 496 of 2008), in operation as per rule 2; revoked (1.09.2014) by *Pharmaceutical Society of Ireland (Fees) Rules 2014* (S.I. No. 378 of 2014), rule 6, in operation as per rule 2.
+>
+> E40: Previous affecting provision: power pursuant to section exercised (29.11.2008) by *Pharmaceutical Society of Ireland (Education and Training) Rules 2008* (S.I. No. 493 of 2008), in operation as per rule 2; revoked (1.06.2015) by *Pharmaceutical Society of Ireland (Education and Training) (Integrated Course) Rules 2014* (S.I. No. 377 of 2014), rule 23(1), in operation as per rule 2, subject to transitional provision in rule 23(2).
+
+### 12. Codes of conduct: reference to Competition Authority and Ministerial consent.
+
+**12**.— (1) In performing the function referred to in *section 7(2)(a)(iii)*, the Council shall—
+
+(*a*) before giving effect to a code of conduct, submit a draft of it to the Competition Authority for its opinion as to whether any provision of the draft code would, if given effect, be likely to result in competition being prevented, restricted or distorted, and
+
+(*b*) request that the opinion be given in writing to the Council before the date specified in the request.
+
+(2) If, before that date, the Council receives from the Competition Authority a written opinion that a provision of the draft code would, if given effect, be likely to have the result referred to in *subsection (1)*, the Council shall either—
+
+(*a*) taking account of the opinion, change the draft code so as to obviate that result, or
+
+(*b*) if they do not so change the draft code, supply to the Minister, when submitting it for consent under *subsection (3)*, a copy of the opinion and a written statement of its reasons for not changing the draft code under *paragraph (a)*.
+
+(3) A code of conduct shall be subject to the consent of the Minister.
+
+(4) *Subsections (1)* to *(3)* apply also in relation to an amendment to a code of conduct and (with the substitution for the references in those subsections to the draft code or any provision in it of references to a proposal to revoke a code of conduct) to a revocation of a code of conduct.
+
+(5) As soon as practicable after giving effect to a code of conduct, the Council shall—
+
+(*a*) publish it in such manner as it determines, and
+
+(*b*) submit it to the Minister for laying before each House of the Oireachtas.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C3: References to the Competition Authority construed (31.10.2014, establishment day) by *Competition and Consumer Protection Act 2014* (29/2014), s. 39(2)(b), S.I. No. 366 of 2014, S.I. No. 367 of 2014.
+>
+> **39.** — (1) All functions that, immediately before the establishment day, were vested in the dissolved bodies are transferred to the Commission.
+>
+> (2) References in any Act of the Oireachtas passed before the establishment day or in any instrument made before that day under an Act of the Oireachtas to—
+>
+> (*a*) the National Consumer Agency, or
+>
+> (*b*) the Competition Authority,
+>
+> shall, on and after that day, be construed as references to the Commission.
+>
+> ...
+
+## PART 4 Pharmaceutical Registration System — PART 4 — Pharmaceutical Registration System
+
+### 13. Registers.
+
+**13**.— (1) The Council shall perform the function referred to in *section 7(2)(a)(i)* by—
+
+(*a*) setting up, as soon as practicable after the establishment of the Society, a register for each of the following:
+
+(i) pharmacists;
+
+(ii) druggists;
+
+(iii) pharmaceutical assistants;
+
+(iv) retail pharmacy businesses,
+
+(*b*) entering in each of the registers mentioned in *subparagraphs (i)* to *(iii)* of *paragraph (a)* (the “personal registers”) the name of and other prescribed information concerning every person entitled to be registered there,
+
+(*c*) entering in the retail pharmacy businesses’ register—
+
+(i) the address of the premises in which the business is being or is to be carried on,
+
+(ii) the name under which it is being or is to be carried on,
+
+(iii) the name of the pharmacy owner, and
+
+(iv) where the pharmacy owner is a corporate body, the name of the pharmacist specified under *section 28(a)*,
+
+(*d*) otherwise maintaining the registers,
+
+(*e*) ensuring that the information in the registers is available, without charge, to the public at all reasonable times.
+
+(2) Without prejudice to the generality of *subsection (1)(e)*, the Council shall publish each register by means of—
+
+(*a*) the Internet, and
+
+(*b*) at least one other method of publication,
+
+within 12 months of the setting up of the register and thereafter at intervals of not more than 12 months.
+
+(3) The duties imposed by *subsections (1)(e)* and *(2)* do not extend to the home addresses, telephone numbers and e-mail addresses of individuals and to such other similar information about them as the Council considers should, in the interests of the security and privacy of those individuals, not be disclosed.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E41: Additional information required to be recorded in the Registers maintained under subs. (1) prescribed (29.11.2008) by *Pharmaceutical Society of Ireland (Registration) Rules 2008* (S.I. No. 494 of 2008), part 2, in operation as per rule 2.
+
+### 14. Procedure and criteria for registration of pharmacists.
+
+**14**.— (1) The Council shall register a person in the pharmacists’ register if the person—
+
+(*a*) makes an application which complies with the prescribed requirements in relation to such an application,
+
+(*b*) complies with any requirement which may be imposed by the Council—
+
+(i) to verify anything contained in the application,
+
+(ii) to supply further information in relation to the application,
+
+(iii) to make a statutory declaration supplying that information,
+
+(*c*) pays the prescribed fee to the Council,
+
+(*d*) satisfies the Council that the person is fit to be a registered pharmacist,
+
+(*e*) holds a qualification appropriate for practice in accordance with *section 16* ,
+
+(*f*) F19[...]
+
+(*g*) not being a national of the State or another Member State, satisfies the Council that he or she has the linguistic competence necessary to be a registered pharmacist in the State,
+
+F20[(*h*) being a national of the State or another Member State, satisfies the Council that he or she has the linguistic competence necessary to be a registered pharmacist in the State.]
+
+(2) In determining whether a person is fit to be a registered pharmacist, the Council shall have regard to whether the person has—
+
+(*a*) under the law of another state, been—
+
+(i) prohibited from carrying on any activity in that state corresponding to the practice of a pharmacist or the carrying on of a retail pharmacy business, or
+
+(ii) convicted in that state of an offence the nature of which has, in the opinion of the Council, a bearing on the person’s fitness to practise,
+
+(*b*) under the law of the State or another state, been prohibited from carrying on any other practice, profession or occupation appearing to the Council to consist or mainly to consist of the provision of health care or services or social care or services.
+
+(3) F21[...]
+
+(4) In registering a person whose qualification for practice is one to which *section 16(2)(b)* applies, the Council may impose a condition that the person’s practice must be supervised by a registered pharmacist specified in the condition for such period as is so specified.
+
+(5) *Subsections (1)* to *(4)* apply also in respect of the continued registration of a person in a personal register.
+
+(6) This section does not apply in respect of the first registration of a person to whom *section 15(1)* applies.
+
+(7) *Subsection (1)(d)* to *(g)* does not apply in respect of the first registration of a person who—
+
+(*a*) at any time during the period of 6 months immediately before the dissolution of the old Society (in this section referred to as the “dissolution”), became entitled to be registered as mentioned in an enactment referred to in *section 15(1)(a)* and, immediately before dissolution, was still so entitled but was never so registered, or
+
+(*b*) was, immediately before dissolution, a licentiate of Apothecaries Hall to whom a certificate under the Apothecaries Hall Act 1791 to transact the business of an apothecary was granted before 31 December 1975.
+
+(8) In this section, “another state” means a state other than the State.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F19: Deleted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 55, S.I. No. 54 of 2021.
+>
+> F20: Substituted (17.01.2017) by *European Union (Recognition of Professional Qualifications) Regulations 2017* (S.I. No. 8 of 2017), reg. 91(c)(i), in operation as per reg. 2.
+>
+> F21: Deleted (17.01.2017) by *European Union (Recognition of Professional Qualifications) Regulations 2017* (S.I. No. 8 of 2017), reg. 91(c)(ii), in operation as per reg. 2.
+>
+> **Editorial Notes:**
+>
+> E42: Procedures required to be complied with by persons making application for registration of pharmacists under section prescribed (29.11.2008) by *Pharmaceutical Society of Ireland (Registration) Rules 2008* (S.I. No. 494 of 2008), part 3, in operation as per rule 2.
+
+### 15. Registration of persons registered or entitled to be registered under repealed legislation.
+
+**15**.— (1) *Subsections (2)* and *(3)* make provision as respects a person who—
+
+(*a*) immediately before the dissolution of the old Society (in this section referred to as the “dissolution”) was registered—
+
+(i) as a pharmaceutical chemist under the Pharmacy Act (Ireland) 1875 or as a dispensing chemist and druggist under the Pharmacy Act 1951,
+
+(ii) as a druggist under the Pharmacy Act, (Ireland) Amendment Act 1890,
+
+(*b*) before dissolution, was a pharmaceutical assistant.
+
+(2) As soon as practicable after dissolution the Council shall—
+
+(*a*) in the case of a person to whom *subsection (1)(a)(i)* applies, register the person in the pharmacists’ register,
+
+(*b*) in the case of a person to whom *subsection (1)(a)(ii)* applies, register the person in the druggists’ register,
+
+(*c*) in the case of a person to whom *subsection (1)(b)* applies, register the person in the pharmaceutical assistants’ register.
+
+(3) A person who is to be registered under *subsection (2)* shall be regarded, for all purposes except those of that subsection, as having been so registered immediately upon dissolution.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E43: Date of registration for those persons who were registered in one of the registers by virtue of subs. (2) prescribed (29.11.2008) by *Pharmaceutical Society of Ireland (Registration) Rules 2008* (S.I. No. 494 of 2008), rule 6, in operation as per rule 2.
+
+### 16. Qualifications for practice.
+
+**16**.— F22[(1) A person holds a qualification appropriate for practice if he or she has been awarded a prescribed qualification in the State in accordance with prescribed training and education.]
+
+(2) A person applying for registration in the pharmacists’ register who does not hold a qualification appropriate for practice as a pharmacist by virtue of *subsection (1)* shall be regarded as having a qualification appropriate for practice if—
+
+F23[(*a*) he or she is a national of a relevant state and has his or her professional qualifications recognised by the Council under the Professional Qualifications F24[Regulations,]]
+
+(*b*) he or she has, in a third country received such training and education, passed such examinations and obtained such qualifications as are, in the opinion of the Council, of a standard not lower than the standard of those necessary for practice in the F25[the State, or]
+
+F27[(*c*) he or she has a qualification in pharmacy from a state other than the State which—
+
+(i) falls within a ground prescribed for the purposes of this paragraph, and
+
+(ii) in the opinion of the Council, is of a standard not lower than the standard of that necessary for practice in the State.]
+
+F28[(3) The Council may—
+
+(*a*) so as to inform itself for the purposes of F26[*subsection (2)(b)* or *(c)*] about the standard of training, education, examinations and qualifications in another state, require a person to whom that provision appears to apply to sit an examination,
+
+(*b*) in any case in which it is in any doubt about a matter referred to in that provision, require a person to whom that provision appears to apply to undergo such training as it may specify.
+
+(4) *Schedule 2* makes further provision as to the recognition of professional qualifications in pharmacy.
+
+(5) In this section—
+
+“national of a relevant state” includes a person who is not a national of a relevant state, but who is an eligible person, as defined in Regulation 3 of the Professional Qualifications Regulations;
+
+“relevant state” means—
+
+(*a*) a Member State,
+
+(*b*) a state that is a contracting state to the EEA Agreement within the meaning given by the European Communities (Amendment) Act 1993 (other than a Member State or the State),
+
+(*c*) Switzerland;
+
+“third country” means a country that is not a relevant state.]
+
+(6) F29[...]
+
+(7) F29[...]
+
+(8) F29[...]
+
+(9) F29[...]
+
+(10) F29[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F22: Substituted (17.01.2017) by *European Union (Recognition of Professional Qualifications) Regulations 2017* (S.I. No. 8 of 2017), reg. 91(d)(i), in operation as per reg. 2.
+>
+> F23: Substituted (17.01.2017) by *European Union (Recognition of Professional Qualifications) Regulations 2017* (S.I. No. 8 of 2017), reg. 91(d)(ii), in operation as per reg. 2.
+>
+> F24, F25, F26: Substituted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 56(a)(i), (ii), (b), S.I. No. 54 of 2021.
+>
+> F27: Inserted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 56(a)(iii), S.I. No. 54 of 2021.
+>
+> F28: Substituted (17.01.2017) by *European Union (Recognition of Professional Qualifications) Regulations 2017* (S.I. No. 8 of 2017), reg. 91(d)(iii), in operation as per reg. 2.
+>
+> F29: Deleted (17.01.2017) by *European Union (Recognition of Professional Qualifications) Regulations 2017* (S.I. No. 8 of 2017), reg. 91(d)(iii), in operation as per reg. 2.
+>
+> **Editorial Notes:**
+>
+> E44: Qualifications, education and training prescribed for purposes of subs. (1) (1.06.2015) by *Pharmaceutical Society of Ireland (Education and Training) (Integrated Course) Rules 2014* (S.I. No. 377 of 2014), in operation as per rule 2.
+>
+> E45: Fee prescribed for application under subs. (5) (1.09.2014) by *Pharmaceutical Society of Ireland (Fees) Rules 2014* (S.I. No. 378 of 2014), rule 4 and sch. ref. 39, in operation as per rule 2.
+>
+> E46: Previous affecting provision: section amended (02.10.2013) by *European Union (Recognition of Professional Qualifications relating to the Profession of Pharmacist) Regulations 2013* (S.I. No. 377 of 2013), regs. 3 and 4; provisions substituted or deleted as per F-note above.
+>
+> E47: Previous affecting provision: section amended (30.06.2012) by *European Union (Recognition of Professional Qualifications relating to the Profession of Pharmacist) Regulations 2012* (S.I. No. 235 of 2012), reg. 2; provisions substituted as per F-note above.
+>
+> E48: Previous affecting provision: fee prescribed for application under subs. (5) (29.11.2008) by *Pharmaceutical Society of Ireland (Fees) Rules 2008* (S.I. No. 496 of 2008), rule 4(1) and sch. ref. 33, in operation as per rule 2; revoked (1.09.2014) by *Pharmaceutical Society of Ireland (Fees) Rules 2014* (S.I. No. 378 of 2014), rule 6, in operation as per rule 2.
+>
+> E49: Previous affecting provision: section amended (29.11.2008) by *European Communities (Recognition of Professional Qualifications relating to the Profession of Pharmacist) (No 2) Regulations 2008* (S.I. No. 489 of 2008), regs. 4, 5, 6 and 7 in operation as per reg. 2; provisions substituted or deleted as per F-note above.
+>
+> E50: Previous affecting provision: power pursuant to section exercised (29.11.2008) by *Pharmaceutical Society of Ireland (Education and Training) Rules 2008* (S.I. No. 493 of 2008), in operation as per rule 2; revoked (1.06.2015) by *Pharmaceutical Society of Ireland (Education and Training) (Integrated Course) Rules 2014* (S.I. No. 377 of 2014), rule 23(1), in operation as per rule 2, subject to transitional provision in rule 23(2).
+
+### 17. Procedure and criteria for registration of retail pharmacy businesses.
+
+**17**.— (1) The Council shall register a retail pharmacy business in the retail pharmacy businesses’ register if the applicant for registration—
+
+(*a*) is the pharmacy owner,
+
+(*b*) specifies in the application the address of the premises in which the business is being or is to be carried on and the name under which it is being or is to be carried on and otherwise meets the prescribed requirements for the application,
+
+(*c*) specifies in the application the name of the registered pharmacist who is or is to be in whole-time charge of the carrying on of the business there,
+
+(*d*) complies with any requirement of the Council to—
+
+(i) verify anything contained in the application,
+
+(ii) supply further information in relation to the application,
+
+(iii) make a statutory declaration supplying that information,
+
+(*e*) pays the prescribed fee to the Council,
+
+(*f*) satisfies the Council that the retail pharmacy business will be conducted in accordance with regulations under *section 18*.
+
+(2) Where a pharmacy owner carries on business as such in two or more premises, each of those premises shall, for the purposes of *subsection (1)*, be regarded as separate premises in which a retail pharmacy business is being or is to be carried on.
+
+(3) *Subsections (1)* and *(2)* apply also in respect of the continued registration of a retail pharmacy business.
+
+(4) A change in the ownership of a retail pharmacy business shall have the effect of cancelling its registration.
+
+(5) The cancellation of the registration of a retail pharmacy business under *subsection (4)* shall take effect—
+
+(*a*) in the case of a change in ownership brought about by the death of an owner or joint owner, at the end of the period of three months beginning with the date of the death, and
+
+(*b*) in any other case, at the end of the period of 28 days beginning with the date of the change in ownership.
+
+(6) In *subsection (4)*, a “change in the ownership of a pharmacy”—
+
+(*a*) in the case of a pharmacy which is owned by two or more persons, includes a change of one of the co-owners,
+
+(*b*) in the case of a pharmacy which is not so owned, includes a change which results in its being so owned, and
+
+(*c*) in the case of a pharmacy which is owned by a company, includes the acquisition or disposal in one transaction or in a series of transactions of shares amounting in value to more than half of those issued by the company.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E51: Procedures required to be complied with by persons making application for registration of retail pharmacy business under section prescribed (29.11.2008) by *Pharmaceutical Society of Ireland (Retail Pharmacy Business) (Registration) Rules 2008* (S.I. No. 495 of 2008), rule 4 and sch. 1, in operation as per rule 2.
+
+### 18. Regulation of retail pharmacy businesses.
+
+**18**.— (1) The Minister may, for the purposes of the health, safety and convenience of the public, make regulations about all or any of the following matters in respect of retail pharmacy businesses:
+
+(*a*) the manner in which medicinal products are prepared there;
+
+(*b*) the supervision of those processes there;
+
+(*c*) the physical characteristics of that part of the premises which is to be provided for the conduct of those processes, including the separation of that part from the rest of the premises;
+
+(*d*) the facilities to be provided for the conduct of those processes;
+
+(*e*) the physical characteristics of the part of the premises which is to be used for the storage of medicinal products;
+
+(*f*) the conditions, (including those relating to temperature, humidity, cleanliness and sanitation) in which medicinal products are prepared, stored, sold, supplied and dispensed there;
+
+(*g*) the precautions to be taken before medicinal products are F30[prepared, supplied, sold or prescribed] there;
+
+(*h*) the disposal of medicinal products;
+
+(*i*) the manner in which medicinal products are to be F31[supplied, sold or prescribed] there;
+
+(*j*) the physical characteristics of that part of the premises which is to be provided for members of the public F32[to whom medicinal products are being sold, supplied or prescribed] or to whom medical prescriptions are being dispensed, and the facilities within that part;
+
+(*k*) the facilities to be provided and arrangements made there to enable the review, if necessary in private, of the medicinal treatment of a person to whom medicinal products are being or might be F33[sold, supplied or prescribed] and the counselling, if necessary in private, of that person in connection with that treatment;
+
+F34[(*l*) the keeping of records of and in connection with the preparation, prescribing, sale and supply of medicinal products and the preparation and dispensing of medicinal prescriptions;]
+
+(*m*) the retention, custody, transfer and disposal of those records following the cessation or transfer of the retail pharmacy business;
+
+(*n*) the use and condition of any apparatus, equipment, utensil or furnishing used for or in connection with the carrying on of the retail pharmacy business;
+
+(*o*) the safe keeping of medicinal products there.
+
+F35[(1A) Regulations made under this section may impose duties on—
+
+(*a*) a pharmacy owner,
+
+(*b*) a pharmacist acting in the capacity specified in section 27(*b*), 28(*a*) or 29(*b*), and who is in personal control of the management and administration of the sale and supply of medicinal products, either where such control is exercised in respect of a single retail pharmacy business or in respect of a number of such businesses, or
+
+(*c*) a pharmacist acting in the capacity specified in section 27(*c*), 28(*b*) or 29(*c*), who is in whole-time charge of the carrying on of the retail pharmacy business concerned,
+
+to supervise, in the retail pharmacy business or retail pharmacy businesses in respect of which he or she is the pharmacy owner or such pharmacist, as the case may be, compliance by pharmacists with Chapters 2 and 3 of Part 2, and Part 3, of the Health (Pricing and Supply of Medical Goods) Act 2013.]
+
+(2) In *subsection (1)*, “medicinal product” includes veterinary medicinal products within the meaning of Directive 2001/82/EC of the European Parliament and of the Council of 6 November 2001 as amended by Directive 2004/28/EC of the European Parliament and of the Council of 31 March 2004.
+
+(3) A person who contravenes a relevant provision shall be guilty of an offence.
+
+(4) In *subsection (3)*, a “relevant provision” is any provision of regulations made under this section designated as such in the regulations.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F30, F31, F32, F33, F34: Substituted (1.01.2025) by *Health (Miscellaneous Provisions) Act 2024* (23/2024), s. 11(c)(i)-(v), S.I. No. 753 of 2024.
+>
+> F35: Inserted (24.06.2013) by *Health (Pricing and Supply of Medical Goods) Act 2013* (14/2013), s. 32(b), S.I. No. 202 of 2013.
+>
+> **Editorial Notes:**
+>
+> E52: Power pursuant to section exercised (30.06.2026) by *Regulation of Retail Pharmacy Businesses (Amendment) Regulations 2026* (S.I. No. 140 of 2026), in operation as per reg. 3.
+>
+> E53: Power pursuant to section exercised (23.10.2025) by *Regulation of Retail Pharmacy Businesses (Amendment) Regulations 2025* (S.I. No. 503 of 2025).
+>
+> E54: Power pursuant to subs. (1) exercised (1.03.2024) by *Regulation of Retail Pharmacy Businesses (Amendment) Regulations 2024* (S.I. No. 74 of 2024), in operation as per reg. 2.
+>
+> E55: Power pursuant to subs. (1) exercised (22.02.2016) by *Regulation of Retail Pharmacy Businesses (Amendment) Regulations 2016* (S.I. No. 80 of 2016).
+>
+> E56: Power pursuant to section exercised (29.11.2008 and 1.11.2010) by *Regulation of Retail Pharmacy Business Regulations 2008* (S.I. No. 488 of 2008), in operation as per reg. 2.
+>
+> E57: *Regulation of Retail Pharmacy Business Regulations 2008* (S.I. No. 488 of 2008), regs. 5(1)(a), (b), (d) and (f) and 13, in so far as those Regulations relates to veterinary medicinal products, and regs. 4(5), 5(1)(c), 5(3), 6, 8, 11 and 12(1)(b), designated as relevant provisions for purposes of subs. (3) (29.11.2008) by *Regulation of Retail Pharmacy Business Regulations 2008* (S.I. No. 488 of 2008), reg. 15, in operation as per reg. 2(1).
+
+### 19. Inspection of premises of retail pharmacy business for the purposes of section 18.
+
+**19**.— (1) In any case where the Council considers that it is appropriate, it may cause an authorised officer F36[(within the meaning of *section 66*)] to inspect the premises of a retail pharmacy business in respect of which an application for registration or continued registration has been made to ascertain if they comply with any regulations made by the Minister under *section 18* F37[, and the provisions of *Part 7* shall apply accordingly for the purposes of such inspection].
+
+(2) An authorised officer F38[(within the meaning of *section 66*)] shall, as soon as practicable after the inspection furnish a written report to the Council, and a copy of the written report to the applicant.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F36, F37, F38: Inserted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 57(a), (b), S.I. No. 54 of 2021.
+>
+> **Editorial Notes:**
+>
+> E58: Obligation imposed on Council to give notice in writing to applicant where it considers it necessary to conduct an inspection in accordance with section (29.11.2008) by *Pharmaceutical Society of Ireland (Retail Pharmacy Businesses) (Registration) Rules 2008* (S.I. No. 495 of 2008), rule 5(2), in operation as per rule 2.
+
+### 20. Certificate of registration.
+
+**20**.— (1) As soon as practicable, the Council shall issue a certificate of registration to—
+
+(*a*) a pharmacist who has, or
+
+(*b*) a pharmacy owner whose retail pharmacy business has,
+
+been registered or restored to a register.
+
+(2) On continuing the registration of a registered pharmacist or registered retail pharmacy business, the Council shall issue a certificate of continued registration to the registered pharmacist or as the case may be the owner of the registered retail pharmacy business.
+
+(3) A certificate of registration is current for the period of 12 months from the date of registration or restoration.
+
+(4) A certificate of continued registration is current for the period of 12 months beginning with the day following the date of expiry of the immediately preceding certificate.
+
+(5) A person who gives to another person a certificate issued to him or her under this section, with the intention that it be used to induce a third person to accept it as relating to that other person or who, with that intention, permits that other person to use the certificate, commits an offence.
+
+(6) A person to whom a certificate has been issued under this section and who ceases to be registered within the currency of the certificate shall return it to the registrar within 14 days of the cessation.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E59: Format of certificates of registration issued pursuant to section prescribed (29.11.2008) by *Pharmaceutical Society of Ireland (Registration) Rules 2008* (S.I. No. 494 of 2008), part 2, in operation as per rule 2.
+
+### 21. Refusal to register: notification and appeal.
+
+**21**.— (1) If the Council refuses an application for registration, it shall notify the applicant in writing of its decision, the reason for it and the date when it was made.
+
+(2) An applicant whose application for registration under this Act is refused by the Council, may appeal to the High Court against the refusal within a period of 3 months beginning on the date of receipt of notification under *subsection (1)*.
+
+(3) On an appeal under this section, the High Court may make—
+
+(*a*) an order affirming the refusal,
+
+(*b*) an order setting it aside and requiring the Council to proceed with the registration,
+
+(*c*) an order (with or without directions) remitting the application to the Council for reconsideration and the making of a new decision, or
+
+(*d*) any other order that it considers appropriate.
+
+### 21A. Appeal against failure to make a determination
+
+F39[**21A.**— F40[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F39: Inserted (29.11.2008) by *European Communities (Recognition of Professional Qualifications Relating to the Profession of Pharmacist) (No 2) Regulations 2008* (S.I. No. 489 of 2008), reg. 8, in operation as per reg. 2.
+>
+> F40: Repealed (17.01.2017) by *European Union (Recognition of Professional Qualifications) Regulations 2017* (S.I. No. 8 of 2017), reg. 91(e), in operation as per reg. 2.
+>
+> **Editorial Notes:**
+>
+> E60: Previous affecting provision: section inserted (29.11.2008) by *European Communities (Recognition of Professional Qualifications relating to the Profession of Pharmacist) (No 2) Regulations 2008* (S.I. No. 489 of 2008), reg. 8, in operation as per reg. 2; repealed as per F-note above.
+
+### 21B. Declarations by registered pharmacists in relation to certain matters in State or other jurisdictions, etc.
+
+F41[**21B.**— (1) Subject to *subsections (2)* to *(4)*, a registered pharmacist shall, in each year, give to the Council a declaration in writing in the specified form providing particulars of any relevant proceedings that are pending or in progress.
+
+(2) If, in any year, *subsection (1)* does not apply to a registered pharmacist because there are no particulars referred to in that subsection which he or she is required to give to the Council, the pharmacist shall give to the Council a declaration in writing to that effect.
+
+(3) If, in any year subsequent to a year in which a registered pharmacist gave particulars referred to in *subsection (1)* to the Council, there has been no material change in the matter to which the particulars relate, the pharmacist may, instead of again giving those particulars to the Council, give to the Council a declaration in writing to the effect that there has been no material change to the matter to which the particulars relate.
+
+(4) A registered pharmacist shall, in each year, comply with *subsection (1)*, *(2)* or *(3)* —
+
+(*a*) not earlier than 60 days before he or she is required to pay, in that year, the prescribed fee referred to in *section 14(1)(c)* that applies in the case of the continued registration referred to in *section 14(5)*, and
+
+(*b*) not later than the last day of that 60 days.
+
+(5) A registered pharmacist shall, not later than 3 months after the final determination of any relevant proceedings, give to the Council—
+
+(*a*) a declaration in writing providing particulars of the sanctions (if any) imposed on the pharmacist in consequence of those proceedings, or
+
+(*b*) if no such sanctions were so imposed, a declaration in writing to that effect.
+
+(6) The Council may, by notice in writing given to a registered pharmacist who has made a declaration under this section, require the pharmacist to provide to the Council, within a reasonable period specified in the notice, further information concerning any particulars provided to the Council in the declaration.
+
+(7) (*a*) A registered pharmacist shall comply with a notice under *subsection (6)* given to the pharmacist.
+
+(*b*) Where the Council considers that a registered pharmacist has contravened *paragraph (a)*, the Council shall forthwith make a complaint under *section 35*.
+
+(8) In this section—
+
+"final determination", in relation to any relevant proceedings and a registered pharmacist, means—
+
+(*a*) the conclusion of those proceedings without any party to the proceedings making an appeal, against a decision in those proceedings to impose or to not impose a sanction on the pharmacist, within the ordinary time in the State or other jurisdiction concerned, as appropriate, for making such an appeal, or
+
+(*b*) if such an appeal is made—
+
+(i) the abandonment or withdrawal of the appeal, or
+
+(ii) the determination of the appeal, whichever first occurs;
+
+"relevant proceedings", in relation to a registered pharmacist, means any disciplinary or judicial proceedings (other than any such proceedings under this Act) in respect of which the pharmacist is the subject—
+
+(*a*) in the State or another jurisdiction which may directly or indirectly result in the pharmacist—
+
+(i) being prohibited from providing one or more than one kind of health or social care in the State or that jurisdiction, or
+
+(ii) having a restriction placed on his or her ability to provide one or more than one kind of health or social care in the State or that jurisdiction,
+
+(*b*) in another jurisdiction which may result in the pharmacist being convicted, in that jurisdiction, for an offence consisting of acts or omissions that, if done or made in the State, would constitute an offence triable on indictment, or
+
+(*c*) in the State which may result in the pharmacist being convicted, in the State, for an offence triable on indictment;
+
+"sanction" includes any restriction or measure.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F41: Inserted (6.05.2025) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 58, S.I. No. 151 of 2025.
+
+### 21C. Declarations by pharmacy owner.
+
+F42[**21C.**— ...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F42: Inserted by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 58, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C4: Prospective affecting provision: section inserted by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 58, not commenced as of date of revision.
+>
+> **21C.**— (1) Subject to *subsections (2)* to *(4)*, a pharmacy owner shall, in each year, give to the Council a declaration in writing in the specified form providing particulars of any relevant proceedings that are pending or in progress.
+>
+> (2) If, in any year, *subsection (1)* does not apply to a pharmacy owner because there are no particulars referred to in that subsection which he or she is required to give to the Council, the owner shall give to the Council a declaration in writing to that effect.
+>
+> (3) If, in any year subsequent to a year in which a pharmacy owner gave particulars referred to in *subsection (1)* to the Council, there has been no material change in the matter to which the particulars relate, the owner may, instead of again giving those particulars to the Council, give to the Council a declaration in writing to the effect that there has been no material change to the matter to which the particulars relate.
+>
+> (4) A pharmacy owner shall, in each year, comply with *subsection (1)*, *(2)* or *(3)* —
+>
+> (*a*) not earlier than 60 days before there is required to be paid, in that year, the prescribed fee referred to in *section 17(1)(e)* that applies in the case of the continued registration referred to in *section 17(3)*, and
+>
+> (*b*) not later than the last day of that 60 days.
+>
+> (5) A pharmacy owner shall, not later than 3 months after the final determination of any relevant proceedings, give to the Council—
+>
+> (*a*) a declaration in writing providing particulars of the sanctions (if any) imposed on the owner in consequence of those proceedings, or
+>
+> (*b*) if no such sanctions were so imposed, a declaration in writing to that effect.
+>
+> (6) The Council may, by notice in writing given to a pharmacy owner who has made a declaration under this section, require the owner to provide to the Council, within a reasonable period specified in the notice, further information concerning any particulars provided to the Council in the declaration.
+>
+> (7) (*a*) A pharmacy owner shall comply with a notice under subsection (6) given to the owner.
+>
+> (*b*) Where the Council considers that a pharmacy owner has contravened *paragraph (a)*, the Council shall forthwith make a complaint under *section 36*.
+>
+> (8) In this section, references to a pharmacy owner include references to a director of a corporate body which owns the retail pharmacy business concerned.
+>
+> (9) In this section—
+>
+> "final determination", in relation to any relevant proceedings and a pharmacy owner, means—
+>
+> (*a*) the conclusion of those proceedings without any party to the proceedings making an appeal, against a decision in those proceedings to impose or to not impose a sanction on the owner, within the ordinary time in the State or other jurisdiction concerned, as appropriate, for making such an appeal, or
+>
+> (*b*) if such an appeal is made—
+>
+> (i) the abandonment or withdrawal of the appeal, or
+>
+> (ii) the determination of the appeal,
+>
+> whichever first occurs;
+>
+> "relevant proceedings", in relation to a pharmacy owner, means any disciplinary or judicial proceedings (other than any such proceedings under this Act) in respect of which the owner is the subject—
+>
+> (*a*) concerning a contravention or alleged contravention of a provision of an Act or statutory instrument referred to in *section 7(1)(e)(ii)*,
+>
+> (*b*) in another jurisdiction which may result in the owner being convicted, in that jurisdiction, for an offence consisting of acts or omissions that, if done or made in the State, would constitute an offence triable on indictment, or
+>
+> (*c*) in the State which may result in the owner being convicted, in the State, for an offence triable on indictment;
+>
+> "sanction" includes any restriction or measure.]
+
+### 22. Maintenance and correction of registers.
+
+**22**.— (1) It is the duty of the Council to ensure that the registers are accurate.
+
+(2) Without prejudice to the generality of *subsection (1)* the Council shall—
+
+(*a*) make any alteration requiring to be made in the information contained in an entry,
+
+(*b*) correct typographical and similar errors.
+
+(3) The Council shall, as soon as practicable after doing anything under *subsections (1)* and *(2)*, give notice in writing of that fact to the person to whom the cancellation, correction or other change relates or, as the case may be, that person’s next of kin.
+
+(4) A person to whom an entry in a register relates shall notify the Council in writing of—
+
+(*a*) any error that the person knows of in that entry, or
+
+(*b*) any change of circumstances that is likely to have a bearing on the accuracy of the entry,
+
+as soon as may be after the person becomes aware of that error or change in circumstances.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E61: Amount of fee payable in respect of alteration to the information contained in an entry pursuant to subs. (2)(a) prescribed (1.09.2014) by *Pharmaceutical Society of Ireland (Fees) Rules 2014* (S.I. No. 378 of 2014), rule 4 and sch. refs. 27 and 32, in operation as per rule 2.
+>
+> E62: Previous affecting provision: amount of fee payable in respect of alteration to the information contained in an entry pursuant to subs. (2)(a) prescribed (29.11.2008) by *Pharmaceutical Society of Ireland (Fees) Rules 2008* (S.I. No. 496 of 2008), rule 4(1) and sch. refs. 22 and 26, in operation as per reg. 2(1); revoked (1.09.2014) by *Pharmaceutical Society of Ireland (Fees) Rules 2014* (S.I. No. 378 of 2014), rule 6, in operation as per rule 2.
+
+### 23. Evidence as to the registers.
+
+**23**.— In any legal proceedings—
+
+(*a*) a document signed by the registrar stating—
+
+(i) what is or is not registered,
+
+(ii) what was or was not registered and when,
+
+is, in the absence of evidence to the contrary, proof of the matters stated,
+
+(*b*) a printed document—
+
+(i) appearing to be a copy of any part of or an extract from a register, and
+
+(ii) bearing a signed statement by the registrar that it is such a copy or extract,
+
+is, in the absence of evidence to the contrary, proof of the content of so much of the register that is copied or extracted,
+
+(*c*) a signature appearing to be the registrar’s on any such document is, in the absence of evidence to the contrary, to be taken as being the registrar’s.
+
+### 23A. Council may request certain information concerning registered pharmacists from certain bodies in State or other jurisdictions.
+
+F43[**23A.**— (1) Where a registered pharmacist provides, or has provided, one or more than one kind of health or social care in the State or another jurisdiction, the Council may make a request in writing, accompanied by the relevant statement, to the body, duly authorised in the State or that jurisdiction, as appropriate, to regulate persons who provide that kind of health or social care in the State or that jurisdiction, to provide the Council with any information relevant to either or both of the following:
+
+(*a*) any material matter that has occurred in the State or that jurisdiction in relation to the pharmacist;
+
+(*b*) the pharmacist’s qualifications, or registration (or equivalent thereof in that jurisdiction), as a person who provides that kind of health or social care.
+
+(2) In *subsection (1)* —
+
+"material matter", in relation to a registered pharmacist, means—
+
+(*a*) any of the following taken by any regulatory body (whether in or outside the State), other than the Council, in relation to the provision of one or more than one kind of health or social care by such pharmacist:
+
+(i) the imposition of conditions on any registration or licence;
+
+(ii) the suspension, withdrawal or removal of any registration or licence;
+
+(iii) the refusal to grant registration or a licence, or
+
+(*b*) a conviction in the State for an offence triable on indictment (other than a spent conviction within the meaning of section 5 of the Criminal Justice (Spent Convictions and Certain Disclosures) Act 2016 ) or a conviction outside the State for an offence consisting of acts or omissions that, if done or made in the State, would constitute an offence triable on indictment;
+
+"registered pharmacist" includes a person who has made an application under *section 14* for registration which has not yet been determined by the Council;
+
+"relevant statement", in relation to a request under *subsection (1)*, means a statement to the effect that any information provided to the Council, pursuant to that request, by the body to which the request is made may be used in any proceedings under this Act concerning the pharmacist the subject of the request.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F43: Inserted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 59, S.I. No. 54 of 2021.
+>
+> **Editorial Notes:**
+>
+> E63: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 24. Roll of pharmacy students.
+
+**24**.— (1) The Council may set up and maintain a roll of persons who are studying pharmacy in the schools of pharmacy of third level educational establishments in the State (but the fact that a person studying pharmacy there is not or has not been enrolled, shall have no effect on his or her eligibility to be awarded a qualification or to be registered).
+
+(2) No fee shall be payable in respect of any enrolment under *subsection (1)*.
+
+### 24A. Visiting European pharmacists
+
+F44[**24A**.— F45[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F44: Inserted (29.11.2008) by *European Communities (Recognition of Professional Qualifications Relating to the Profession of Pharmacist) (No 2) Regulations 2008* (S.I. No. 489 of 2008), reg. 9, in operation as per reg. 2.
+>
+> F45: Repealed (17.01.2017) by *European Union (Recognition of Professional Qualifications) Regulations 2017* (S.I. No. 8 of 2017), reg. 91(e), in operation as per reg. 2.
+>
+> **Editorial Notes:**
+>
+> E64: Amount of fee payable by a person who, having submitted a declaration under subs. (3) and who, on the basis of the verification carried out by the Council under subs. (5)(b), is required to undertake an aptitude test prescribed (1.09.2014) by *Pharmaceutical Society of Ireland (Fees) Rules 2014* (S.I. No. 378 of 2014), rule 4 and sch. ref. 41, in operation as per rule 2.
+>
+> E65: Previous affecting provision: amount of fee payable by a person who, having submitted a declaration under subs. (3) and who, on the basis of the verification carried out by the Council under subs. (5)(b), is required to undertake an aptitude test prescribed (29.11.2008) by *Pharmaceutical Society of Ireland (Fees) Rules 2008* (S.I. No. 496 of 2008), rule 4(1) and sch. ref. 35, in operation as per rule 2(1); revoked (1.09.2014) by *Pharmaceutical Society of Ireland (Fees) Rules 2014* (S.I. No. 378 of 2014), rule 6, in operation as per rule 2.
+>
+> E66: Previous affecting provision: section inserted (29.11.2008) by *European Communities (Recognition of Professional Qualifications relating to the Profession of Pharmacist)(No 2) Regulations 2008* (S.I. No. 489 of 2008), reg. 9, in operation as per reg. 2; repealed as per F-note above.
+
+### 24B. Division of Register for visiting European pharmacists
+
+F46[**24B.**— (1) The Register referred to in *section 13(1)(a)(i)* of this Act shall have a second part, hereinafter referred to as Part B, which shall be entitled “Visiting Pharmacists from Relevant EEA States”.
+
+F47[(2) The Council shall enter, in Part B of the Register of Pharmacists, the names of persons providing the services of a registered pharmacist in the State on a temporary and occasional basis pursuant to Part 4 of the Professional Qualifications Regulations.
+
+(3) Notwithstanding the provisions of *Part 6* of this Act, the Council may cancel a registration under Part B of the Register of Pharmacists in any of the circumstances referred to Regulation 12(6) of the Professional Qualifications Regulations within two months of the date on which the information concerned becomes known to the Council.]
+
+(4) F48[...]
+
+(5) F48[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F46: Inserted (29.11.2008) by *European Communities (Recognition of Professional Qualifications Relating to the Profession of Pharmacist) (No 2) Regulations 2008* (S.I. No. 489 of 2008), reg. 9, in operation as per reg. 2.
+>
+> F47: Substituted (17.01.2017) by *European Union (Recognition of Professional Qualifications) Regulations 2017* (S.I. No. 8 of 2017), reg. 91(f), in operation as per reg. 2.
+>
+> F48: Deleted (17.01.2017) by *European Union (Recognition of Professional Qualifications) Regulations 2017* (S.I. No. 8 of 2017), reg. 91(f), in operation as per reg. 2.
+
+## PART 5 Offences — PART 5 — Offences
+
+### 25. Interpretation of Part 5.
+
+**25**.— (1) This section has effect for the purposes of the interpretation of *Part 5*.
+
+(2) In *Part 5* —
+
+“3 year minimum post-registration experience” means experience of at least 3 years of—
+
+(*a*) practising whole-time as a registered pharmacist—
+
+(i) in a retail pharmacy business,
+
+(ii) before the commencement of this Act, in a shop kept open for the dispensing or compounding of medical prescriptions and the sale of poisons, or
+
+(iii) in a combination of both,
+
+or
+
+(*b*) practising whole-time as a pharmacist outside the State in a business corresponding to a retail pharmacy business on foot of a qualification which was (or could have been) the qualification appropriate for practice by reference to which he or she has registered under this Act, or
+
+(*c*) any combination of the types of experience set out in *paragraphs (a)* and *(b)*;
+
+“representative” means—
+
+(*a*) in relation to a pharmacist who has died—
+
+(i) his or her executor or administrator, or
+
+(ii) where the pharmacist has died without an executor entitled and willing to carry on the retail pharmacy business and the person beneficially interested in the estate has (or, if there are two or more persons so interested, each has or all have jointly), within a period of 3 months after the death, nominated a representative to carry on the business pending the appointment of an administrator, the representative so nominated,
+
+(*b*) in relation to a pharmacist who has been adjudicated bankrupt, the official assignee in bankruptcy,
+
+(*c*) in relation to a pharmacist who is a ward of court and in respect of whom a committee has been appointed, the committee,
+
+(*d*) in relation to a pharmacist who is under a mental incapacity and in respect of whom an enduring power of attorney has been registered, the attorney.
+
+### 26. Conduct of retail pharmacy business: offences.
+
+**26**.— (1) A person carries on a retail pharmacy business in accordance with this section if the retail pharmacy business is registered and—
+
+(*a*) where the business is carried on by a natural person or by a partnership, the conditions set out in *section 27* are met,
+
+(*b*) where the business is carried on by a corporate body, the conditions set out in *section 28* are met,
+
+(*c*) where the business is carried on by a representative of a registered pharmacist, the conditions set out in *section 29* are met.
+
+(2) A person who carries on a retail pharmacy business otherwise than in accordance with this section commits an offence.
+
+### 27. Carrying on of retail pharmacy business by natural person or partnership.
+
+**27**.— The conditions referred to in *section 26(1)(a)* are—
+
+(*a*) that the person referred to in *section 26(1)(a)* is a registered pharmacist or the partnership there referred to consists only of registered pharmacists,
+
+(*b*) that the part of the business that consists of the management and administration of the sale and supply of medicinal products is under the personal control of a registered pharmacist who has a 3 years minimum post-registration experience,
+
+(*c*) that, at the premises where the business is carried on, or, if there are two or more of those premises, at each of them, there is a registered pharmacist who has a 3 years minimum post-registration experience in whole-time charge of the carrying on of the business there,
+
+(*d*) that the sale and supply of medicinal products in the premises in which the business is carried on is conducted in those premises or, as the case may be, in each of them, by or under the personal supervision of a registered pharmacist,
+
+(*e*) that the name and certificate of registration of the registered pharmacist referred to in *paragraph (c)* and the certificate of registration of the business are conspicuously displayed at the premises in which the business is carried on or, as the case may be, at each of those premises.
+
+### 28. Carrying on of retail pharmacy business by corporate body.
+
+**28**.— The conditions referred to in *section 26(1(b)* are—
+
+(*a*) that the part of the business that consists of the management and administration of the sale and supply of medicinal products is under the personal control of a registered pharmacist who has a 3 year minimum post-registration experience and who has provided the registrar with a statement—
+
+(i) specifying the name of the pharmacist and declaring whether he or she is a director of the corporate body or office holder in the other body referred to in *section 26(1)(b)*, and
+
+(ii) signed by the pharmacist and on behalf of the corporate body or other body,
+
+(*b*) that, at the premises where the business is carried on or, if there are two or more of those premises, at each of them, there is a registered pharmacist who has a 3 years minimum post-registration experience in whole-time charge of the carrying on of the business there,
+
+(*c*) the sale and supply of medicinal products in the premises in which the business is carried on is conducted in those premises or, as the case may be, in each of them by or under the personal supervision of a registered pharmacist,
+
+(*d*) the name and certificate of registration of the pharmacist referred to in *paragraph (b)* and the certificate of registration of the business are conspicuously displayed at the premises at which the business is carried on or, as the case may be, at each of them.
+
+### 29. Carrying on of retail pharmacy business by representative.
+
+**29**.— The conditions referred to in *section 26(1)(c)* are—
+
+(*a*) that the registrar has been notified of the name and address of the representative and of the pharmacist of whom he or she is a representative,
+
+(*b*) that the part of the business that consists of the management and administration of the sale and supply of medicinal products is under the personal control of a registered pharmacist who has a 3 year minimum post-registration experience,
+
+(*c*) that, at the premises where the business is carried on or, if there are two or more of those premises, at each of them, there is a registered pharmacist who has a 3 years minimum post-registration experience in whole-time charge of the carrying on of the business there,
+
+(*d*) that the sale and supply of medicinal products in the premises in which the business is carried on is conducted in those premises or, as the case may be, in each of them by or under the personal supervision of a registered pharmacist,
+
+(*e*) that the name and certificate of registration of the pharmacist referred to in *paragraph (c)* and the certificate of registration of the business are conspicuously displayed at the premises where the business is carried on or, as the case may be, at each of them,
+
+(*f*) that—
+
+(i) in the case where the event that gave rise to the appointment of the representative was the death of the registered pharmacist referred to in *section 26(1)(c)*, not more than 5 years has elapsed since that death, and
+
+(ii) in any other case, not more than 3 years has elapsed since that event.
+
+### 30. Saving for temporary cover by pharmaceutical assistant.
+
+**30**.— (1) No offence is committed under *section 26* where a registered pharmaceutical assistant acts on behalf of a registered pharmacist during the temporary absence of the registered pharmacist.
+
+(2) Rules made by the Council with the consent of the Minister may, for the purposes of *subsection (1)*, provide further as to—
+
+(*a*) what may or may not be done by a registered pharmaceutical assistant when acting on behalf of a registered pharmacist,
+
+(*b*) what constitutes the temporary absence of a registered pharmacist.
+
+### 31. Offence of providing skilled pharmaceutical assistance by unregistered person.
+
+**31**.— (1) A person, other than—
+
+(*a*) a registered pharmacist, or
+
+(*b*) a registered pharmaceutical assistant,
+
+who knowingly provides skilled assistance to a registered pharmacist shall be guilty of an offence.
+
+(2) A registered pharmacist who accepts skilled assistance from a person whom he knows or ought to know is not a registered pharmacist or a registered pharmaceutical assistant shall be guilty of an offence.
+
+(3) Providing or accepting skilled assistance shall not be an offence under this section if it is done as part of the training or education of a person as a pharmacist or in an activity ancillary to pharmacy.
+
+(4) In this section, “skilled assistance” is any assistance which consists of or includes or should consist of or include the exercise of the knowledge, ability, judgment and other qualities necessary of a person who is a pharmacist or a pharmaceutical assistant, including the exercise of that knowledge, ability and judgment and those other qualities by way of the supervision of others.
+
+### 32. Offence of holding oneself out as registered pharmacist or registered druggist.
+
+**32**.— (1) A person other than a registered pharmacist who holds himself or herself out as a registered pharmacist shall be guilty of an offence.
+
+(2) A person other than a registered druggist who holds himself or herself out as a registered druggist shall be guilty of an offence.
+
+(3) A person other than a registered retail pharmacy business who holds himself, herself or itself out as a registered retail pharmacy business shall be guilty of an offence.
+
+(4) A person, other than a registered pharmacist, who—
+
+(*a*) publicly describes himself or herself as a “pharmacist”, a “dispensing chemist”, a “pharmaceutical chemist” (whether or not with the addition of the word “registered”) or a “Member of the Pharmaceutical Society of Ireland” or “MPSI” or, in any public description of himself or herself, uses an expression mentioned in *subsection (6)*,
+
+(*b*) uses any emblem or device from which the public might reasonably infer that he or she is a registered pharmacist, or
+
+(*c*) causes or permits such a public description or use to occur,
+
+is, without prejudice to the generality of *subsection (1)*, to be regarded as holding himself or herself out as a registered pharmacist.
+
+(5) A person, other than a registered druggist or registered pharmacist, who—
+
+(*a*) publicly describes himself or herself as a “druggist”, a “chemist and druggist” (whether or not with the addition of the word “registered”) or, in any public description of himself or herself uses an expression mentioned in *subsection (6)*,
+
+(*b*) uses any emblem or device from which the public might reasonably infer that he or she is a registered druggist, or
+
+(*c*) causes or permits such a public description or use to occur,
+
+is, without prejudice to the generality of *subsection (2)* to be regarded as holding himself or herself out to be a registered druggist.
+
+(6) The expressions referred to in *subsections (4)* and *(5)* are—
+
+(*a*) pharmacy,
+
+(*b*) medical stores,
+
+(*c*) drug stores,
+
+(*d*) drug hall,
+
+(*e*) medical supply stores,
+
+(*f*) medical hall,
+
+(*g*) chemist.
+
+(7) A person does not commit an offence under this section by using, in a public description of a registered retail pharmacy business, an expression mentioned in *subsection (6)*.
+
+## PART 6 Complaints, Inquiries and Discipline — PART 6 — Complaints, Inquiries and Discipline
+
+### 33. Interpretation of Part 6.
+
+**33**.— In this Part—
+
+“committee of inquiry” means a health committee or a professional conduct committee;
+
+“complaint” means a complaint made under *section 35* or *36*;
+
+“disciplinary committee” means a committee established under *section 34(1)*;
+
+“disciplinary sanction” means a sanction specified in any paragraph of *section 48(1)*;
+
+“health committee” means a committee established under *section 34(1)(c)*;
+
+“poor professional performance” , in relation to a registered pharmacist, means any failure of the registered pharmacist to meet the standards of competence that may be reasonably expected of a registered pharmacist;
+
+“preliminary proceedings committee” means a committee established under *section 34(1)(a)*;
+
+“professional conduct committee” means a committee established under *section 34(1)(b)*;
+
+“professional misconduct”, in relation to a registered pharmacist, means any act, omission or pattern of conduct that—
+
+(*a*) is a breach of the code of conduct for registered pharmacists,
+
+(*b*) is infamous or disgraceful in a professional respect (notwithstanding that, if the same or like act, omission or pattern of conduct were committed by a member of another profession, it would not be professional misconduct in respect of that profession),
+
+(*c*) involves moral turpitude, fraud or dishonesty of a nature or degree which bears on the carrying on of the profession of a pharmacist, or
+
+(*d*) if the registered pharmacist has been granted a licence, certificate or registration by a body outside the State relating to the practice of pharmacy is a breach of a standard of conduct, performance or ethics that—
+
+(i) applies to a person holding that licence, certificate or registration, and
+
+(ii) corresponds to a standard contained in the code referred to in *paragraph (a)* or a standard breach of which amounts to conduct of the kind mentioned in *paragraphs (b)* or *(c)*,
+
+but does not include an act, omission or pattern of conduct that consists of a wrongly but honestly formed professional judgment;
+
+“registered” in relation to a complaint against a pharmacist or retail pharmacy business includes a pharmacist or retail pharmacy business which was registered at the time when the circumstances constituting the grounds of the complaint occurred although not registered when the complaint is made or later.
+
+### 34. Disciplinary committees.
+
+**34**.— (1) The Council shall establish the following disciplinary committees:
+
+(*a*) a preliminary proceedings committee;
+
+(*b*) a professional conduct committee;
+
+(*c*) a health committee.
+
+(2) The President of the Society is not eligible to be appointed to a disciplinary committee.
+
+(3) A majority of the members of a disciplinary committee shall be persons other than registered pharmacists and at least one of those persons shall be appointed to represent the interest of the public.
+
+(4) At least one third of its members shall be registered pharmacists.
+
+(5) At least 2 of its members shall be registered pharmacists who are pharmacy owners.
+
+(6) The quorum of a disciplinary committee considering a complaint against a pharmacy owner shall include at least one registered pharmacist who is a pharmacy owner.
+
+(7) A person is not eligible to hold concurrent membership of more than one disciplinary committee.
+
+(8) The members of a disciplinary committee have, as such, the same protections and immunities as a judge of the High Court.
+
+(9) The Council shall appoint a registered medical practitioner with relevant expertise to advise the health committee in relation to each complaint referred to it.
+
+(10) The registered medical practitioner must be present at the meetings of that committee, but may not vote.
+
+(11) The registered medical practitioner has, when advising that committee, the same protections and immunities as a judge of the High Court.
+
+F49[(12) In this section, references to a pharmacy owner include references to a registered pharmacist who is a director of, or a shareholder in, a corporate body which carries on a retail pharmacy business.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F49: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 60, S.I. No. 409 of 2021.
+
+### 35. Complaints about registered pharmacists.
+
+**35**.— (1) This section applies to a complaint made to the Council about a registered pharmacist on the grounds of—
+
+(*a*) professional misconduct within or outside the State,
+
+(*b*) poor professional performance within or outside the State,
+
+(*c*) impairment of the registered pharmacist’s ability to practise because of a physical or mental ailment, an emotional disturbance or an addiction to alcohol or drugs,
+
+(*d*) a failure to comply with a condition of registration,
+
+(*e*) a failure to comply with an undertaking or to take any action specified in a consent given in response to a request under *section 46*,
+
+F50[(*ea*) a failure to comply with Chapter 2 or 3 of Part 2, or Part 3, of the Health (Pricing and Supply of Medical Goods) Act 2013,
+
+(*eb*) a failure to comply with any duties referred to in section 18(1A) imposed on the pharmacist by regulations made under *section 18*.]
+
+F51[(*ec*) a failure to comply, in his or her capacity as a registered pharmacist, with a provision of an Act or statutory instrument referred to in *section 7(1)(e)(ii)*,
+
+(*ed*) the imposition on the pharmacist of—
+
+(i) a prohibition against him or her providing one or more than one kind of health or social care in the State or another jurisdiction, or
+
+(ii) a restriction on his or her ability to provide one or more than one kind of health or social care in the State or another jurisdiction,]
+
+(*f*) a contravention of this Act F52[...], or
+
+(*g*) a conviction in the State for an offence triable on indictment or a conviction outside the State for an offence consisting of an act or omission that, if done or made in the State, would constitute an offence triable on indictment.
+
+(2) A complaint must be in writing or, if not, in a form acceptable to the Council.
+
+(3) A complaint may be made by or on behalf of any person or by the registrar.
+
+F53[(3B) (*a*) The registrar may, in relation to a complaint heard, being heard or to be heard by a committee of inquiry, whenever he or she considers it necessary to do so, request in writing the Garda Síochána to give to him or her information concerning the criminal record of the registered pharmacist the subject of the complaint that the committee may reasonably require for the performance of its functions.
+
+(*b*) The Garda Síochána shall, subject to section 55 of the Data Protection Act 2018 , comply with a request under *paragraph (a)* as soon as is practicable after receiving the request.
+
+(*c*) The registrar may, whenever he or she considers it necessary to do so, request in writing that the registrar or clerk of a court which has convicted a registered pharmacist of an offence in the State to give to him or her a certificate of conviction (or, in the case of the District Court, a certified copy of the order concerned made by the Court), or a certified copy of the judgment, or both, in respect of the offence that the registrar or Council (including any committee thereof), or both, may reasonably require for the performance of his or her or its functions under this Act in relation to that pharmacist.
+
+(*d*) The registrar or clerk of the court concerned the subject of a request under *paragraph (c)* shall comply with the request as soon as is practicable after receiving the request.
+
+(*e*) In this subsection, "criminal record", in relation to a registered pharmacist, means a record of the previous convictions (other than spent convictions within the meaning of section 5 of the Criminal Justice (Spent Convictions and Certain Disclosures) Act 2016 ) of the pharmacist for offences (if any).]
+
+(4) The Council shall inform the registered pharmacist about whom a complaint has been made of that fact and give the registered pharmacist a copy of the complaint.
+
+(5) The Council shall take all reasonable steps to ensure that the complainant and the registered pharmacist are kept informed of the making of all decisions by it in relation to a complaint.
+
+(6) The Council shall take all reasonable steps to ensure that a complaint is processed in a timely manner.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F50: Inserted (24.06.2013) by *Health (Pricing and Supply of Medical Goods) Act 2013* (14/2013), s. 32(c), S.I. No. 202 of 2013.
+>
+> F51: Inserted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 61(a)(i), S.I. No. 54 of 2021.
+>
+> F52: Deleted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 61(a)(ii), S.I. No. 54 of 2021.
+>
+> F53: Inserted (6.05.2025) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 61(b), S.I. No. 151 of 2025.
+>
+> F54: Substituted by *Health Identifiers Act 2014* (15/2014), s. 37(a), (b), not commenced as of date of revision.
+>
+> F55: Inserted by *Health Identifiers Act 2014* (15/2014), s. 37(c), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C5: Prospective affecting provision: subs. (1)(ea) substituted, subs. (3) amended and subs. (3A) inserted by *Health Identifiers Act 2014* (15/2014), s. 37, not commenced as of date of revision.
+>
+> **35**.— (1) This section applies to a complaint made to the Council about a registered pharmacist on the grounds of— ...
+>
+> (*ea*) a failure to comply with—
+>
+> (i) Chapter 2 or 3 of Part 2, or Part 3, of the Health (Pricing and Supply of Medical Goods) Act 2013, or
+>
+> (ii) a provision of the Health Identifiers Act 2014 applicable to a pharmacist in his or her capacity (if any) as a health services provider within the meaning of section 2 of that Act,
+>
+> ...
+>
+> (3) F54[Subject to *subsection (3A)*, a complaint] may be made by or on behalf of any person or by the registrar.
+>
+> (3A) A complaint shall not be made by a person other than the Minister if the ground concerned is a registered pharmacist’s failure to comply with a provision referred to in *subsection (1) (ea)(ii)*.
+>
+> ...
+
+### 36. Complaints about registered retail pharmacy businesses.
+
+**36**.— (1) This section applies in relation to a complaint made to the Council about a registered retail pharmacy business on the grounds that—
+
+(*a*) the pharmacy owner or an employee or partner of the pharmacy owner has been convicted of an offence under this Act, any Act repealed by this Act, or regulations made under this Act or that Act, the Misuse of Drugs Acts 1977 to 2006, the Irish Medicines Board Acts 1995 and 2006, the Poisons Acts 1961 and 1977 or the Animal Remedies Acts 1993 F56[and 2006,]
+
+(*b*) the pharmacy owner or an employee or a partner of the pharmacy owner has been convicted of any other offence F57[(whether in the State or another jurisdiction) or has committed misconduct (whether in the State or another jurisdiction)] and the nature of that offence or misconduct is such that, were the person applying to the Council for registration as a pharmacist, the Council would be likely to refuse to register the person,
+
+F59[(*ba*) the pharmacy owner—
+
+(i) has failed to comply, in his or her capacity as a pharmacy owner, with a provision of an Act or statutory instrument referred to in *section 7(1)(e)(ii)*, or]
+
+(ii) ...
+
+(*c*) in a case where the business has been carried on as mentioned in *sections 26* and *29* by a representative, the representative or any person engaged by the representative in connection with the carrying on of the pharmacy (whether or not for the purposes of *section 29*) has—
+
+(i) been convicted of an offence mentioned in *paragraph (a)*, or
+
+(ii) been convicted of an offence or committed misconduct the nature of which is as mentioned in F56[paragraph (*b*),]
+
+F61[F62[...]
+
+(*d*) the pharmacy owner has failed to comply with any of the duties referred to in section 18(1A) imposed on the pharmacy owner by regulations made F58[under section 18, or]
+
+F60[(*e*) the pharmacy owner or an employee or partner of the pharmacy owner has contravened a provision of this Act not otherwise referred to in this subsection.]]
+
+(2) *Subsections (2)* to *(6)* of *section 35* shall apply to a complaint about a registered retail pharmacy business as they apply to a complaint about a registered pharmacist but with the substitution for references to the registered pharmacist of references to the pharmacy owner or, as the case may be, the representative of that owner.
+
+(3) In *subsection (1)*, the references to a pharmacy owner include references to a director of a corporate body which owns the retail pharmacy business.
+
+F63[(4) *Section 35(3B)* shall, with all necessary modifications, apply to a pharmacy owner as that section applies to a registered pharmacist within the meaning of that section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F56: Substituted (24.06.2013) by *Health (Pricing and Supply of Medical Goods) Act 2013* (14/2013), s. 32(d)(i) and (ii), S.I. No. 202 of 2013.
+>
+> F57, F58: Substituted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 62(a)(i), (iv), S.I. No. 54 of 2021.
+>
+> F59, F60: Inserted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 62(a)(ii), (v), S.I. No. 54 of 2021.
+>
+> F61: Inserted (24.06.2013) by *Health (Pricing and Supply of Medical Goods) Act 2013* (14/2013), s. 32(d)(iii), S.I. No. 202 of 2013.
+>
+> F62: Deleted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 62(a)(iii), S.I. No. 54 of 2021.
+>
+> F63: Inserted (6.05.2025) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 62(b), S.I. No. 151 of 2025.
+>
+> F64: Inserted by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 62(a)(ii), (b), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C6: Prospective affecting provisions: subs. (1)(ba)(ii) inserted by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 62(a)(ii), not commenced as of date of revision.
+>
+> F64[(ii) has contravened *section 21C(7)(a)*,]
+
+### 37. Mediation of complaints.
+
+**37**.— (1) The Council may devise guidelines about resolving complaints by mediation.
+
+(2) The guidelines may include provision about—
+
+(*a*) determining, having regard to the public interest, whether a complaint might be satisfactorily resolved by mediation or warrants the holding of an inquiry,
+
+(*b*) the persons who may mediate (“mediators”),
+
+(*c*) the recording of the manner in which the complaint is resolved and of the agreement of the complainant and the registered pharmacist or pharmacy owner to the resolution,
+
+(*d*) the steps to be taken (including notice to the complainant, the registered pharmacist or pharmacy owner and the preliminary proceedings committee) if the complaint cannot, in the opinion of the mediator, be resolved by mediation,
+
+(*e*) any other matters that the Council considers necessary or appropriate for facilitating the resolution of a complaint by mediation.
+
+(3) No attempt may be made to resolve a complaint by mediation without the consent of the complainant and the registered pharmacist or pharmacy owner.
+
+(4) Consent given for the purposes of *subsection (3)* by a registered pharmacist or pharmacy owner shall not be taken as an admission of any allegation made by the complainant.
+
+(5) The mediator shall report the terms of resolution of a complaint by mediation to the Council.
+
+(6) Where the terms of resolution of a complaint consist of or include an outcome corresponding to one or more of the disciplinary sanctions set out in *subsection (1)(b)* of *section 48*, the Council may impose that or those sanctions as if under that section.
+
+(7) No answer or statement made by the complainant or by the registered pharmacist or pharmacy owner in the course of mediation may be—
+
+(*a*) communicated to any person other than those participating in the mediation, or
+
+(*b*) used in any disciplinary, civil or criminal proceedings.
+
+(8) The Council may revise any guidelines devised under this section.
+
+(9) In this section, “mediation” includes other informal means of resolving complaints.
+
+### 38. Reference of complaints to preliminary proceedings committee for advice.
+
+**38**.— (1) As soon as practicable after receiving a complaint, the Council shall refer it to the preliminary proceedings committee for its advice on whether there is sufficient cause to warrant further action being taken.
+
+(2) The committee may—
+
+(*a*) require the complainant to verify, by affidavit or otherwise, anything contained in the complaint,
+
+(*b*) require the complainant to give, by statutory declaration or otherwise, more information relating to the matter raised by the complaint,
+
+(*c*) require the registered pharmacist or pharmacy owner to give such information in relation to the complaint as the committee specifies,
+
+(*d*) invite the registered pharmacist or pharmacy owner to submit observations.
+
+(3) A requirement under *subsection (2)*—
+
+(*a*) must be in writing,
+
+(*b*) must specify a reasonable time within which it is to be met,
+
+(*c*) may be made along with or after another such requirement.
+
+(4) The registered pharmacist or pharmacy owner may give the committee information although not required to do so and submit observations although not invited to do so.
+
+(5) Before arriving at its advice on whether there is sufficient cause to warrant further action, the committee shall consider—
+
+(*a*) any information given under this section, and
+
+(*b*) whether the complaint is trivial, vexatious, or made in bad faith.
+
+### 39. Action by Council on advice for no further action.
+
+**39**.— (1) On receiving advice pursuant to *section 38*, the Council shall decide whether to take further action.
+
+(2) If the Council decides to take no further action, it shall inform the registered pharmacist or the pharmacy owner, the preliminary proceedings committee and the complainant accordingly.
+
+### 40. Procedure following recommendation for, or decision to take, further action.
+
+**40**.— (1) If the preliminary proceedings committee advises, pursuant to *section 38*, that there is sufficient cause to warrant further action or the Council decides, under *section 39*, to take further action, the committee shall either—
+
+(*a*) refer the complaint for resolution by mediation under *section 37*, or
+
+(*b*) refer the complaint to whichever of the following committees (“committees of inquiry”) it considers appropriate—
+
+(i) the professional conduct committee,
+
+(ii) the health committee.
+
+(2) If informed by a mediator that a complaint referred for resolution by mediation—
+
+(*a*) cannot be so resolved,
+
+(*b*) can be so resolved but only after taking into account considerations which make the complaint more suitable for a committee of inquiry,
+
+the committee shall refer the complaint to a committee of inquiry as if under *subsection (1)(b)*.
+
+### 41. Notification of referral of complaint to committee of inquiry and of hearing.
+
+**41**.— (1) As soon as practicable after a complaint is referred to a committee of inquiry, the committee shall notify the registered pharmacist or pharmacy owner in writing of—
+
+(*a*) the referral of the complaint and the name of the committee,
+
+(*b*) the subject matter of the complaint, including the particulars of any evidence provided in support of the complaint, and
+
+(*c*) the entitlement of the registered pharmacist or pharmacy owner, and his or her representative, to attend the committee and to be heard.
+
+(2) After notifying the registered pharmacist or pharmacy owner under *subsection (1)* the committee shall arrange a hearing and fix a date, time and place for it.
+
+(3) Not later than 30 days before the date of a hearing, the committee shall notify the registered pharmacist or pharmacy owner and the complainant in writing of the date, time and place of the hearing.
+
+### 42. Hearings: procedure.
+
+**42**.— (1) A hearing before the professional conduct committee shall be held in public.
+
+(2) But it shall be held in private if—
+
+(*a*) the registered pharmacist or pharmacy owner or the complainant so requests, and
+
+(*b*) the committee is satisfied that it would be appropriate to agree to that request.
+
+(3) A hearing before the health committee shall be held in private.
+
+(4) But it shall be held in public if—
+
+(*a*) the registered pharmacist or pharmacy owner or the complainant so requests, and
+
+(*b*) the committee is satisfied that it would be appropriate to agree to that request.
+
+(5) At a hearing before a committee of inquiry—
+
+(*a*) any person, with leave of the committee, may lead the evidence in support of the complaint,
+
+(*b*) the testimony of witnesses shall be given on oath or affirmation, and
+
+(*c*) there shall be a full right to cross-examine witnesses and call evidence in defence and reply.
+
+(6) Any member of a committee of inquiry may administer oaths.
+
+(7) A committee of inquiry may transfer a complaint to the other committee of inquiry before or after hearing any evidence relating to the complaint, but only if both committees are satisfied that—
+
+(*a*) the nature of the complaint makes it appropriate to do so, and
+
+(*b*) the registered pharmacist or pharmacy owner will not be prejudiced.
+
+(8) A committee of inquiry to which a complaint is so transferred—
+
+(*a*) may receive in evidence a transcript of evidence taken before the other committee of inquiry and draw conclusions of fact from the evidence,
+
+(*b*) if it considers it necessary in the interests of fairness to rehear any evidence taken before the other committee of inquiry, shall do so.
+
+### 43. Hearings: evidence, powers, immunities, offences, etc.
+
+**43**.— (1) A committee of inquiry shall have all the powers, rights, privileges and duties of the Court or a judge of the Court that relate to—
+
+(*a*) enforcing the attendance of witnesses,
+
+(*b*) examining witnesses on oath or otherwise,
+
+(*c*) compelling the production or inspection of records or other documents or property, and
+
+(*d*) awarding and authorising the recovery of costs.
+
+(2) The chair, or any other member of a committee of inquiry who has been authorised for the purpose by the Council, may issue a summons for the purposes of exercising and performing the powers, rights, privileges and duties referred to in *subsections (1)(a)* and *(c)*.
+
+(3) *Subsection (2)* does not limit the generality of *subsection (1)*.
+
+(4) Subject to any rules under *section 11* and to the necessity of observing fair procedures, a committee of inquiry may receive evidence given—
+
+(*a*) orally before the committee,
+
+(*b*) by statutory declaration,
+
+(*c*) as otherwise allowed by those rules, including by means of a live-video link, or any other mode of transmission.
+
+(5) A witness before a committee of inquiry shall have the same immunities and privileges as a witness before the Court.
+
+(6) An award of costs under *subsection (1)(d)* may, within 21 days of its having been made, be appealed to the District Court for the time being assigned to the district where the committee awarding the costs sat when doing so.
+
+(7) A person shall be guilty of an offence if he or she—
+
+(*a*) having been summoned to attend before a committee of inquiry, fails without reasonable excuse to attend,
+
+(*b*) without reasonable excuse, refuses to—
+
+(i) take an oath or make an affirmation,
+
+(ii) produce or allow inspection of any record or other document or property in his or her possession or control that he or she is required to produce, or allow to be inspected, or
+
+(iii) answer any question that he or she is lawfully required to answer,
+
+or
+
+(*c*) does anything that, if the committee were a court of law, would be contempt of court.
+
+(8) On a failure or refusal of a kind mentioned in *subsection (7)(a)* or *(b)*, the Court, on application by the Council, may—
+
+(*a*) order the person to attend before the committee,
+
+(*b*) order the person to do the thing that he or she refused to do,
+
+(*c*) make such interim or interlocutory orders as it considers necessary,
+
+(*d*) authorise the award of costs.
+
+(9) An application for the making of an order under *subsection (8)* does not preclude proceedings for an offence under *subsection (7)(a)* or *(b)*.
+
+(10) In this section “Court” means the High Court.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E67: Power pursuant to subs. (4) exercised (31.05.2017) by *Pharmaceutical Society of Ireland (Receiving and Recording of Evidence by Committee of Inquiry) Rules 2017* (S.I. No. 274 of 2017), in operation as per rule 2.
+
+### 44. Procedure following withdrawal of complaint.
+
+**44**.— If a complaint is withdrawn, the committee considering it may, with the Council’s agreement—
+
+(*a*) decide that no further action is to be taken, or
+
+(*b*) proceed as if the complaint had not been withdrawn.
+
+### 45. Interim suspension of registration.
+
+**45**.— (1) The High Court, on application by the Council, may by order suspend the registration of a registered pharmacist or registered retail pharmacy business against whom a complaint has been made.
+
+(2) An order under *subsection (1)* suspending the registration of a retail pharmacy business may also provide for the closure of the premises in which the business has been carried on.
+
+(3) The High Court shall not make an order under *subsection (1)* unless satisfied that the Council has notified the registered pharmacist or, as the case may be, the pharmacy owner of its intention to apply for an order.
+
+(4) An order under *subsection (1)* may be made only if the High Court considers that there is a risk to the health and safety of the public which is of such magnitude that the pharmacist’s or pharmacy retail business’ registration should be suspended pending further procedure under this Part and, in the case of an order containing a closure provision under *subsection (2)*, that the premises there referred to should be closed pending that procedure.
+
+(5) An application under this section shall be heard in private, unless the High Court, on a request by the registered pharmacist or the pharmacy owner that it be heard in public, considers that it should be so heard.
+
+F65[(6) (*a*) *Paragraph (b)* applies where—
+
+(i) a registered pharmacist becomes the subject of an order under *subsection (1)*, and
+
+(ii) the Council has reason to believe that—
+
+(I) the pharmacist is registered in another jurisdiction as a pharmacist or has made an application to be registered as a pharmacist in another jurisdiction which has not yet been determined, and
+
+(II) that order may not have come to the attention of the body duly authorised to perform functions in that jurisdiction that correspond to the functions of the Council.
+
+(*b*) The Council shall give notice in writing to that body of that order and may, notwithstanding any provision of Directive 2005/36/EC or of the Professional Qualifications Regulations, provide that body with a copy of that order and copies of other documents relevant to that order.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F65: Inserted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 63, S.I. No. 54 of 2021.
+
+### 46. Undertaking and consents.
+
+**46**.— (1) A committee of inquiry may, in dealing with a complaint, request the registered pharmacist or the pharmacy owner to do one or more of the following as appropriate—
+
+(*a*) to undertake not to repeat the conduct to which the complaint relates,
+
+(*b*) to undertake to attend specified educational courses, training or other means of improving his or her competence to practise or to carry on a retail pharmacy business,
+
+(*c*) to consent to undergo medical treatment,
+
+(*d*) to consent to being admonished or censured by the Council.
+
+F66[(1A) If a registered pharmacist or pharmacy owner gives an undertaking or consent the subject of a request under *subsection (1)* by the committee of inquiry, the inquiry into the complaint shall be considered to be completed.]
+
+(2) If a registered pharmacist or pharmacy owner refuses to give an undertaking or consent so requested, the committee of inquiry may proceed as if the request had not been made.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F66: Inserted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 64, S.I. No. 54 of 2021.
+
+### 47. Committee’s inquiry report.
+
+**47**.— (1) On completing an inquiry, a committee of inquiry shall make a written report to the Council.
+
+(2) The report shall specify the subject matter of the complaint, the evidence presented and the committee’s findings.
+
+(3) The report may include such additional matters as the committee considers appropriate.
+
+### 48. Action by Council on report by disciplinary committee.
+
+**48**.— (1) Within 30 days after considering the report, the Council shall—
+
+(*a*) if the committee finds that the complaint is not substantiated, dismiss the complaint, or
+
+(*b*) if the committee finds that the complaint is substantiated, impose one or more of the following disciplinary sanctions on the registered pharmacist or the pharmacy owner—
+
+(i) an admonishment or a censure,
+
+(ii) the attachment of conditions to the registration of the pharmacist or retail pharmacy business, which may include restrictions on practice or, as the case may be, the carrying on of the business,
+
+(iii) the suspension of the registration for a specified period,
+
+(iv) the cancellation of the registration,
+
+(v) a prohibition for a specified period on applying for restoration to the register.
+
+(2) The Council may not cancel the registration of a pharmacist or retail pharmacy business on the grounds of a conviction for an offence unless in the Council’s opinion, the nature of the offence or the circumstances in which it was committed are such that, were the pharmacist or pharmacy owner applying for registration, the Council would refuse the registration.
+
+F67[(3) If the report referred to in *section 47(1)* follows an undertaking or consent under *section 46(1)*, then the measures to be taken in respect of the registered pharmacist or the pharmacy owner shall be those contained in the report.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F67: Inserted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 65, S.I. No. 54 of 2021.
+
+### 49. Notification of imposition of disciplinary sanction.
+
+**49**.— (1) As soon as practicable after deciding to impose a disciplinary sanction, the Council shall notify the registered pharmacist or pharmacy owner and the complainant of the following—
+
+(*a*) the disciplinary sanction imposed,
+
+(*b*) the reasons for the imposition of the sanction,
+
+(*c*) the date of the decision.
+
+F68[(2) If the Council has imposed a disciplinary sanction other than a disciplinary sanction arising out of measures referred to in *section 48(3)*, the notification under *subsection (1)* must also specify—
+
+(*a*) the time within which the registered pharmacist or pharmacy owner may apply to the High Court for cancellation of the decision, and
+
+(*b*) in the case of a disciplinary sanction other than an admonishment or a censure, the time within which the Council may apply to the High Court for confirmation of the decision.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F68: Substituted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 66, S.I. No. 54 of 2021.
+
+### 50. Disciplinary sanction to be confirmed by High Court.
+
+**50**.— F69[(1)]A decision under *section 48* to impose a disciplinary sanction (F71[not being] an admonishment or a censure) does not take effect unless and until it is confirmed by the High Court on application under *section 51* or *52* .
+
+F70[(2) A decision under *section 48* to impose a disciplinary sanction (being an admonishment or a censure) does not take effect unless—
+
+(*a*) the decision is confirmed by the High Court on application under *section 51*, or
+
+(*b*) the 30 days referred to in *section 51(2)* within which the registered pharmacist or pharmacy owner concerned may make an application to the High Court for an order cancelling the decision expires without the registered pharmacist or pharmacy owner making such application.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F69, F70: Inserted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 67(a), (c), S.I. No. 54 of 2021.
+>
+> F71: Substituted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 67(b), S.I. No. 54 of 2021.
+
+### 51. High Court’s power to cancel, etc., disciplinary sanction.
+
+**51**.— (1) The High Court may, on application by a registered pharmacist or pharmacy owner on whom the Council has imposed a disciplinary sanction (other than F72[a disciplinary sanction arising out of measures referred to in section 48(3)]), order its cancellation.
+
+(2) The application must be made within 30 days after receipt of the notification of the decision from the Council.
+
+(3) The High Court may consider any evidence adduced or argument made to it, whether or not adduced or made to a committee of inquiry.
+
+F73[(4) The High Court may, on an application for an order under *subsection (1)* —
+
+(*a*) make any other order it considers just, including an order confirming or modifying the decision, and
+
+(*b*) give the Council any direction,
+
+and direct how the costs of the application are to be borne.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F72, F73: Substituted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 68(a), (b), S.I. No. 54 of 2021.
+
+### 52. Confirmation by High Court of disciplinary sanction.
+
+**52**.— (1) If no application under *section 51* is made within the period referred to in *subsection (2)* of that section, the Council shall apply to the High Court for an order confirming the decision F74[(not being a decision to impose the disciplinary sanction of an admonishment or a censure)].
+
+(2) An application under this section must be made within 60 days of the registered pharmacist’s or pharmacy owner’s receipt of notification of the decision.
+
+(3) The High Court may but need not confirm the Council’s decision.
+
+(4) A suspension of registration confirmed under this section may not begin in the 7 days following the making of the order.
+
+F75[(5) The High Court may direct how the costs of an application under this section are to be borne.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F74, F75: Inserted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 69(a), (b), S.I. No. 54 of 2021.
+
+### 53. Expert evidence on poor professional performance and professional misconduct.
+
+**53**.— On an application under *section 51* or *52*, the High Court may hear evidence from any person of good standing within the profession of pharmacy as to what constitutes poor professional performance or professional misconduct in that profession.
+
+### 54. Finality of decision of High Court.
+
+**54**.— The decision of the High Court on an application under *section 51* or *52* is final except that, by leave of the High Court or the Supreme Court, the Council or the pharmacist or pharmacy owner may appeal that decision to the Supreme Court on a question of law of public importance.
+
+### 55. Notification of decision of High Court.
+
+**55**.— The Council shall notify the pharmacist or pharmacy owner, in writing, of the effect of the decision of the High Court under *section 51* or *52*.
+
+### 56. Notification of sanctions, etc., to Minister.
+
+**56**.— (1) The Council shall notify the F76[Health Service Executive and such other persons as it thinks fit] as soon as practicable of—
+
+(*a*) the cancellation of a registration,
+
+(*b*) the restoration of a registration,
+
+(*c*) the suspension of a registration,
+
+(*d*) the expiry of a suspension,
+
+(*e*) the attachment of conditions to a registration,
+
+(*f*) the removal of conditions from a registration,
+
+(*g*) the prohibition for a specified period of a pharmacist or pharmacy owner from applying for restoration to the register,
+
+(*h*) the admonishment or censure of a registered pharmacist or pharmacy owner.
+
+(2) If it comes to the Council’s attention that, under the law of a state other than the State, any action corresponding to one referred to in *subsection (1)* has been taken in relation to a pharmacist, retail pharmacy business or pharmacy owner, the Council shall F77[, if satisfied that it is in the public interest to do so, notify the Health Service Executive] of that fact.
+
+(3) If, in the case of a pharmacist who is an employee—
+
+(*a*) the Court or the Council has taken any action specified in *subsection (1)*, or
+
+(*b*) it has come to the Council’s attention that any corresponding action of the kind referred to in *subsection (2)* has been taken in respect of the pharmacist,
+
+and the Council knows who the employer of the pharmacist is, it shall F78[(if satisfied that, in the case of an action referred to in *subsection (2)*, it is in the public interest to do so)] notify the employer of that fact.
+
+F79[(4) (*a*) *Paragraph (b)* applies where—
+
+(i) it comes to the Council’s attention that any action referred to in subsection (1) has been taken in relation to a registered pharmacist, and
+
+(ii) the Council has reason to believe that—
+
+(I) the pharmacist is registered in another jurisdiction, and
+
+(II) that action may not have come to the attention of the body duly authorised to perform functions in that jurisdiction that correspond to the functions of the Council.
+
+(*b*) The Council shall give notice in writing to that body of that action and may, notwithstanding any provision of the Professional Qualifications Directive or of the Professional Qualifications Regulations, provide that body with copies of documents relevant to that action (including a copy of the report concerned referred to in *section 47*).
+
+(5) (*a*) *Paragraph (b)* applies where—
+
+(i) it comes to the Council’s attention that any action referred to in *subsection (2)* has been taken in relation to a registered pharmacist, and
+
+(ii) the Council has reason to believe that—
+
+(I) the pharmacist is registered in another jurisdiction, and
+
+(II) that action may not have come to the attention of the body duly authorised to perform functions in that jurisdiction that correspond to the functions of the Council.
+
+(*b*) The Council shall, if satisfied that it is in the public interest to do so, give notice in writing to that body of that action.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F76, F77: Substituted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 70(a), (b), S.I. No. 54 of 2021.
+>
+> F78, F79: Inserted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 70(c), (d), S.I. No. 54 of 2021.
+
+### 57. Public notice of sanctions, etc.
+
+**57**.—F80[(1)] The Council shall, F82[(if satisfied that, in the case of an action referred to in *paragraph (h)* or *(i)*, it is in the public interest to do so)], give public notice of—
+
+(*a*) the cancellation of registration,
+
+(*b*) the restoration of a registration,
+
+(*c*) the suspension of a registration,
+
+(*d*) the expiry of a suspension,
+
+(*e*) the attachment of conditions to a registration,
+
+(*f*) the removal of conditions from a registration,
+
+(*g*) the prohibition for a specified period of a pharmacist or pharmacy owner from applying for restoration to the register,
+
+(*h*) the admonishment or censure of a registered pharmacist or pharmacy owner,
+
+(*i*) any action in respect of which the F83[Health Service Executive] is required to be notified under *section 56(2)*.
+
+F81[(2) The Council shall, if it is satisfied that it is in the public interest to do so, publish a transcript of all or any part of the proceedings of a committee of inquiry at an inquiry or publish all or any part of a report referred to in *section 47* of a committee of inquiry (and, in either case, whether with or without any information which would enable all, or any one or more than one, of the parties to the proceedings to be identified).
+
+(3) The Council shall not publish anything under this section which is inconsistent with a decision (if any) of the High Court arising from the performance of a function under *section 51* or *52*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F80, F81: Inserted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 71(a), (c), S.I. No. 54 of 2021.
+>
+> F82, F83: Substituted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 71(b), S.I. No. 54 of 2021.
+
+### 58. Absolute privilege for disciplinary proceedings, etc.
+
+**58**.— In an action for defamation, anything said or done in any of the following shall be absolutely privileged—
+
+(*a*) proceedings of a preliminary proceedings committee or of a committee of inquiry,
+
+(*b*) communications by a committee of inquiry,
+
+(*c*) reports of a committee of inquiry,
+
+(*d*) mediation under *section 37,*
+
+(*e*) communications by the Council under this Part,
+
+(*f*) any other communication by the Council or a committee relating to the disciplinary proceedings.
+
+### 59. Cancellation of registration on request.
+
+**59**.— (1) The Council shall cancel a registration if the person to whom or the owner of the retail pharmacy business to which it relates—
+
+(*a*) applies for its cancellation,
+
+(*b*) pays the prescribed fee,
+
+(*c*) is not, at the time of applying, the subject of a complaint under this Part.
+
+(2) For the purposes of *subsection (1)*, the circumstances in which a person or owner of a retail pharmacy business is not subject to a complaint include those in which—
+
+(*a*) the Council, under *section 39(2)*, has decided to take no further action in relation to the complaint,
+
+(*b*) the Council, under *section 48(1)* has dismissed the complaint,
+
+(*c*) the Court, under *section 51(1)*, has ordered the cancellation of a sanction which has followed on the complaint and given no direction under *section 51(4)(b)* that might result in another sanction.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E68: Amount of fee payable under subs. (1) prescribed (1.09.2014) by *Pharmaceutical Society of Ireland (Fees) Rules 2014* (S.I. No. 378 of 2014), rule 4 and sch. ref. 13, in operation as per rule 2.
+>
+> E69: Procedures for making application for cancellation of registration under section prescribed (29.11.2008) by *Pharmaceutical Society of Ireland (Retail Pharmacy Businesses) (Registration) Rules 2008* (S.I. No. 495 of 2008), rule 7, in operation as per rule 2.
+>
+> E70: Previous affecting provision: amount of fee payable under subs. (1) prescribed (29.11.2008) by *Pharmaceutical Society of Ireland (Fees) Rules 2008* (S.I. No. 496 of 2008), rule 4(1) and sch. par. 11, in operation as per rule 2(1); revoked (1.09.2014) by *Pharmaceutical Society of Ireland (Fees) Rules 2014* (S.I. No. 378 of 2014), rule 6, in operation as per rule 2.
+
+### 60. Cancellation of registration on failure to pay fee.
+
+**60**.— The Council may cancel a registration if the person to whom or owner of the retail pharmacy business to which it relates—
+
+(*a*) has failed to pay a retention fee or a fee for recording a change in the register, and
+
+(*b*) having been notified at least twice by the Council of that failure, continues so to fail.
+
+### 61. Restoration of registration.
+
+**61**.— (1) The Council shall restore a registration cancelled—
+
+(*a*) under *section 59*, if the person to whom or owner of the pharmacy business to which it related—
+
+(i) applies for its restoration,
+
+(ii) pays the prescribed fee, and
+
+(iii) undertakes to comply with such conditions, if any, as the Council may stipulate,
+
+(*b*) under *section 60*, if the person to whom or owner of the retail pharmacy business to which the registration related—
+
+(i) applies for its restoration within six months of the date when the unpaid fee became due,
+
+(ii) pays the prescribed fee and the unpaid fee.
+
+(2) The Council shall, however, refuse to restore a registration cancelled under *section 59* or *60* if it is satisfied on the basis of new evidence or evidence of changed circumstances that, were the applicant applying instead under *section 14* or, as the case may be, *section 17*, the Council would refuse registration on one of the grounds specified in *section 14(1)(d)* or *(e)* or, as the case may be, *section 17(1)(f)*.
+
+(3) The Council may, with the consent of the Court, restore a registration the cancellation of which has been confirmed under *section 51 or 52*.
+
+(4) Before arriving at a decision under *subsection (3)*, the Council shall give the pharmacist to whom the registration related an opportunity to make oral or written submissions to it.
+
+(5) The Council may attach conditions to a restoration under *subsection (3)*.
+
+(6) The Council shall notify the person to whom or the owner of the retail pharmacy business to which a cancelled registration related of its decision under this section.
+
+(7) *Section 21* applies also to a refusal to restore a registration under this section.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E71: Amount of fee payable under subss. (1)(a) and (b) prescribed (1.09.2014) by *Pharmaceutical Society of Ireland (Fees) Rules 2014* (S.I. No. 378 of 2014), rule 4 and sch. refs. 15 to 23 , in operation as per rule 2.
+>
+> E72: Procedures for making an application for restoration of registration under section prescribed (29.11.2008) by *Pharmaceutical Society of Ireland (Retail Pharmacy Businesses) (Registration) Rules 2008* (S.I. No. 495 of 2008), rule 8, in operation as per rule 2.
+>
+> E73: Previous affecting provision: amount of fee payable under subss. (1)(a) and (b) prescribed (29.11.2008) by *Pharmaceutical Society of Ireland (Fees) Rules 2008* (S.I. No. 496 of 2008), rule 4(1) and sch. refs. 13 to 18, in operation as per rule 2(1); revoked (1.09.2014) by *Pharmaceutical Society of Ireland (Fees) Rules 2014* (S.I. No. 378 of 2014), rule 6, in operation as per rule 2.
+
+### 62. Removal of conditions imposed under this Part.
+
+**62**.— (1) The Council may remove a condition attached to a registration if the pharmacist, or owner of the retail pharmacy business subject to the condition—
+
+(*a*) applies for its removal, and
+
+(*b*) pays the prescribed fee.
+
+(2) Before arriving at a decision under *subsection (1)*, the Council must give the pharmacist or owner referred to in that subsection an opportunity of making oral or written submissions to it.
+
+(3) The Council may, instead of removing a condition, amend it or substitute another for it.
+
+(4) The Council must notify the pharmacist or owner referred to in *subsection (1)* of its decision under this section.
+
+(5) *Section 21* applies also to a refusal to remove a condition and to a decision to amend a condition or substitute another for it.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E74: Amount of fee payable under subs. (1) prescribed (1.09.2014) by *Pharmaceutical Society of Ireland (Fees) Rules 2014* (S.I. No. 378 of 2014), rule 4 and sch. refs. 33 and 34, in operation as per rule 2.
+>
+> E75: Previous affecting provision: amount of fee payable under subs. (1) prescribed (29.11.2008) by *Pharmaceutical Society of Ireland (Fees) Rules 2008* (S.I. No. 496 of 2008), rule 4(1) and sch. refs. 27 and 28, in operation as per rule 2(1); revoked (1.09.2014) by *Pharmaceutical Society of Ireland (Fees) Rules 2014* (S.I. No. 378 of 2014), rule 6, in operation as per rule 2.
+
+### 63. Prohibition on certain economic relationships between pharmacists or pharmacies and doctors.
+
+**63**.— (1) For the purposes of *section 35* and so much of this Part as relates to that section, it is professional misconduct by a registered pharmacist if—
+
+(*a*) he or she, or
+
+(*b*) to the knowledge of the registered pharmacist, his or her partner or employee,
+
+has a beneficial interest in a medical practice.
+
+(2) For the purposes of *section 36* and so much of this Part as relates to that section, it is misconduct of the kind referred to in that section by a pharmacy owner if—
+
+(*a*) the pharmacy owner, or
+
+(*b*) to the knowledge of the pharmacy owner, a partner or employee of the pharmacy owner,
+
+has a beneficial interest in a medical practice.
+
+(3) For the purposes of section 45 of the Medical Practitioners Act 1978 and so much of Part V of that Act as relates to that section or any enactments re-enacting those provisions, it is professional misconduct by a registered medical practitioner if—
+
+(*a*) he or she, or
+
+(*b*) to the knowledge of the registered medical practitioner, his or her partner or employee,
+
+has a beneficial interest in a registered retail pharmacy business.
+
+(4) For the purposes of this section, an interest consisting of the ownership of a medical practice or registered retail pharmacy business (or part thereof)—
+
+(*a*) is not to be taken to be a beneficial interest in the practice or business if the benefit deriving from the interest consists of the benefit of ownership alone, but
+
+(*b*) is to be taken to be a beneficial interest in the practice or business if the benefit so deriving consists of or includes a financial benefit accruing to the registered pharmacist or registered medical practitioner in the exercise of his or her profession as such or, as the case may be, to the owner of the registered retail pharmacy business in his, her or its capacity as such.
+
+(5) In this section—
+
+(*a*) “beneficial interest” in a medical practice or registered retail pharmacy business includes—
+
+(i) where the practice or business or a part of it is owned by—
+
+(I) a company, the interest of a director of or shareholder in the company,
+
+(II) a corporate body which is not a company, the interest of a member of the body,
+
+(ii) where the practice or business is carried on in leased premises, the interest of the landlord in the rent or other consideration for the tenancy where that rent or other consideration—
+
+(I) does not represent the rental value of the tenancy on the open market and the difference may reasonably be attributed to the existence of a commercial relationship between the parties other than that of landlord and tenant, or
+
+(II) is ascertained by reference to the receipts or profits of a registered retail pharmacy business or a medical practice,
+
+and a person shall be regarded, for the purposes of this section, as having a beneficial interest in such a practice or business if his or her spouse F84[or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010] or dependent child has such an interest in it;
+
+“dependent child” means, in relation to a person, a child of that person who is under the age of 18 years or, if he or she has attained that age, is a child to whom paragraph (i) or (ii) of the definition of “dependent child of the family” in section 3(*a*) of the Family Law (Maintenance of Spouses and Children) Act 1976 applies;
+
+“employee” means a person who works under a contract of employment (or has entered such a contract in order to do so) and includes a fixed-term employee and a temporary employee;
+
+F85[...]
+
+“registered medical practitioner” has the meaning given by the Medical Practitioners Act 1978 or any enactment re-enacting that definition;
+
+“shareholder” does not include a shareholder in a company whose holding does not exceed one half of one per cent of the total value of shares issued by the company;
+
+“spouse” does not include a spouse who is a registered pharmacist, a registered pharmaceutical assistant or a registered medical practitioner;
+
+and
+
+(*b*) references to leased premises, the landlord, the tenancy, the rental value and the tenant include, in a case where premises are made available for use or occupation on licence or similarly, references respectively to the premises so made available, the person who makes them available, the use or occupation, the value of that use or occupation and the person who uses or occupies them.
+
+(6) A—
+
+(*a*) pharmacist does not commit professional misconduct by virtue of *subsection (1)(b)*,
+
+(*b*) pharmacy owner does not commit misconduct by virtue of *subsection (2)(b)*,
+
+(*c*) medical practitioner does not commit professional misconduct by virtue of *subsection (3)(b)*,
+
+if he or she, within 21 days of becoming aware that his or her partner has a beneficial interest of the kind respectively referred to in those provisions, notifies the Society (in the case of the pharmacist or the pharmacy owner) or the Medical Council (in the case of the medical practitioner) of the existence and nature of the interest.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F84: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97 and sch. part 1 item 44, S.I. No. 648 of 2010.
+>
+> F85: Deleted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 72, S.I. No. 54 of 2021.
+
+### 64. Prohibitions on carrying on retail pharmacy businesses and medical practices together and on improper recommendations.
+
+**64**.— (1) A registered retail pharmacy business and a medical practice shall not be carried on—
+
+(*a*) in the same premises as each other, or
+
+(*b*) in premises which, although separate—
+
+(i) are such that public access to the one is available only by way of the other, or
+
+(ii) share a common public entrance with each other,
+
+if there is an arrangement of the kind described in *subsection (2)*.
+
+(2) An arrangement is of the kind referred to in *subsection (1)* if it—
+
+(*a*) is between the owner of the registered retail pharmacy business referred to in that subsection or the registered pharmacist in whole-time charge of that business and a registered medical practitioner practising in the medical practice referred to in that subsection, and
+
+(*b*) provides for, acknowledges or regulates a financial benefit to any of them arising from or facilitated by the co-location or juxtaposition described in that subsection.
+
+(3) A registered pharmacist or a pharmacy owner shall not recommend any medical practice or registered medical practitioner to a member of the public otherwise than in the exercise of his or her professional judgment as a pharmacist, or, as the case may be, in the proper carrying on of the business.
+
+(4) In *subsection (3)*, “ proper” means in a way not intended to result in a financial benefit to be derived from the medical practice or registered medical practitioner referred to in that subsection.
+
+(5) A registered medical practitioner shall not recommend any pharmacist or retail pharmacy business to a member of the public otherwise than in the exercise of his or her professional judgment as a registered medical practitioner.
+
+(6) A registered pharmacist or pharmacy owner who is aware of a contravention of this section shall report it to the Society.
+
+(7) A registered medical practitioner who is aware of a contravention of this section shall report it to the Medical Council.
+
+(8) A contravention of this section—
+
+(*a*) by a registered pharmacist shall for the purposes of *section 35* and so much of this Part as relates to that section, constitute professional misconduct by the registered pharmacist,
+
+(*b*) by the owner of a registered retail pharmacy business shall for the purposes of *section 36* and so much of this Part as relates to that section, constitute misconduct of the kind referred to in that provision by the pharmacy owner,
+
+(*c*) by a registered medical practitioner shall, for the purposes of section 45 of the Medical Practitioners Act 1978 and so much of Part V of that Act as relates to that section, or any enactment re-enacting those provisions, constitute professional misconduct by the registered medical practitioner.
+
+(9) *Subsections (1)* to *(4)* and *(10)* and such much of the remainder of this section as relates to those subsections shall apply in relation to a registered retail pharmacy business or medical practice which was being lawfully carried on immediately before the passing of this Act only with effect on and from such later date as is specified by order made by the Minister.
+
+(10) In this section “registered medical practitioner” has the same meaning as in *section 63* .
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E76: Power pursuant to subs. (9) exercised (1.05.2010) by *Pharmacy Act 2007 (Section 64(9)) Order 2009* (S.I. No. 282 of 2009).
+>
+> 2\. The 1st day of May 2010 is appointed as the day on which section 64(9) of the Pharmacy Act 2007 (No. 20 of 2007) shall take effect.
+
+### 65. Saver for certain property interests.
+
+**65**.— Nothing in *sections 63* and *64*—
+
+(*a*) shall affect—
+
+(i) the title to any property,
+
+(ii) the validity or terms of any lease of or other contract relating to property, or
+
+(iii) the validity or terms of any planning permission, licence, consent or other approval (however described) relating to property,
+
+or
+
+(*b*) shall diminish the freedom of any person referred to in those sections to enter into a lease or other contract relating to property other than one that gives rise to a beneficial interest of the kind referred to in *section 63* or consists of or includes an arrangement of the kind described in *section 64*.
+
+## PART 7 Powers of Investigation — PART 7 — Powers of Investigation
+
+### 66. Definitions.
+
+**66**.— In this Part F86[and *Schedule 3*]—
+
+“authorised officer” means a person appointed under *section 67(1)* to be an authorised officer;
+
+F88[...]
+
+“premises” is not restricted to land and buildings;
+
+F89[...]
+
+F87["relevant enactment" means—
+
+(*a*) this Act, or
+
+(*b*) any Act or statutory instrument referred to in *section 7(1)(e)(ii)*.]
+
+“relevant thing” means—
+
+(*a*) any medicinal product,
+
+(*b*) any article or substance used in the manufacture, preparation, compounding, processing or storage of any medicinal or veterinary medicinal product, and
+
+(*c*) any veterinary medicinal product;
+
+F90[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F86, F87: Inserted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 73(a), (c), S.I. No. 54 of 2021.
+>
+> F88, F89, F90: Deleted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 73(b), S.I. No. 54 of 2021.
+
+### 67. Powers of entry, search, seizure, etc.
+
+**67**.— (1) The Council—
+
+(*a*) may appoint such and so many persons as the Council thinks fit to be authorised officers for the purposes of F91[this Act], and
+
+(*b*) shall furnish each authorised officer so appointed with a warrant of the authorised officer’s appointment.
+
+(2) An authorised officer shall, when performing a function given by or under F92[this Act] to an authorised officer, produce his or her warrant for inspection if requested to do so by a person affected by the performance of that function.
+
+(3) For the purposes of ascertaining whether any F93[offence under a relevant enactment], any breach of a code of conduct or any professional misconduct has been committed or for obtaining information or evidence about these matters, an authorised officer may—
+
+(*a*) subject to *subsection (5)*, enter (if necessary by the use of reasonable force), at all reasonable times, any premises at which he or she has reasonable grounds for believing that—
+
+(i) any trade, business or activity consisting of or connected with the carrying on of a retail pharmacy business, or
+
+(ii) books, records or other documents (including documents stored in non-legible form) relating to such trade, business or activity are kept,
+
+(*b*) at such premises inspect and take copies of, any books, records, other such documents or extracts therefrom, which he or she finds in the course of his or her inspection,
+
+(*c*) remove any such books, records or other documents from such premises and detain them for such period as he or she reasonably considers to be necessary for the purposes of his or her functions under F94[this Act],
+
+(*d*) carry out, or have carried out, such tests, examinations, analyses, inspections and checks of—
+
+(i) the premises,
+
+(ii) any relevant thing at the premises, or
+
+(iii) any equipment, machinery or plant at the premises,
+
+as he or she reasonably considers to be necessary for the purposes of his or her functions under F95[this Act],
+
+(*e*) require any person at the premises or the owner or person in charge of the premises and any person employed there to give to him or her such assistance and information and to produce to him or her such books, records or other documents (and in the case of documents or records stored in non-legible form, produce to him or her a legible reproduction thereof) that are in that person’s power or procurement, as he or she may reasonably require for the purposes of his or her functions under F96[this Act],
+
+(*f*) without payment, take samples of any relevant thing found at the premises for the purposes of any test, examination or analysis,
+
+(*g*) direct that such relevant thing found at the premises as he or she, upon reasonable grounds, believes provides information about or evidence of a contravention of a provision of F97[a relevant enactment] or of a breach of a code of conduct or of the professional misconduct of a pharmacist not be sold or distributed or moved from the premises, without his or her consent,
+
+(*h*) secure for later inspection any premises or part of any premises in which a relevant thing is found or ordinarily kept, or books, records or other documents are found or ordinarily kept, for such period as may reasonably be necessary for the purposes of his or her functions under F98[this Act],
+
+(*i*) without payment, take possession of and remove from the premises for any test, examination or analysis any relevant thing found there, and detain it for such period as he or she considers reasonably necessary for the purposes of his or her functions under F99[this Act],
+
+(*j*) without payment, take samples of any relevant thing, detained pursuant to *paragraph (i)*, for the purposes of any test, examination, or analysis,
+
+(*k*) where the taking of samples of any relevant thing pursuant to *paragraphs (f)* or *(j)* is, for whatever reason, not practicable, without payment take the relevant thing concerned for the purposes of any test, examination or analysis,
+
+F106[(*l*) inspect and copy or extract information from any data, including data that constitutes personal data within the meaning of—
+
+(i) the Data Protection Regulation, or
+
+(ii) Part 5 of the Data Protection Act 2018.]
+
+(*m*) require a person having authority to do so to break open any container or package, or to open any machine, or to permit him or her to do so, as he or she may reasonably require for the purposes of his or her functions under F100[this Act], or
+
+(*n*) require a person, who makes available facilities such as post office boxes, telecommunications or electronic mail addresses or other like facilities, to give him or her such assistance and information as he or she may reasonably require for the purposes of his or her functions under F101[this Act] in any case where the officer has reasonable grounds for believing that any relevant thing is being supplied by mail or other means of delivery.
+
+F107[(3A) Following an investigation under this section by an authorised officer, the officer shall furnish a written report on the investigation to the Council.]
+
+(4) When performing a function under F102[this Act], an authorised officer may, subject to any warrant under *subsection (6)*, be accompanied by such number of—
+
+(*a*) other authorised officers,
+
+(*b*) members of the Garda Síochána, or
+
+(*c*) persons with expertise relating to the relevant thing,
+
+as he or she considers appropriate in the circumstances of the case.
+
+(5) An authorised officer shall not enter a dwelling, other than—
+
+(*a*) with the consent of the occupier, or
+
+(*b*) in accordance with a warrant issued under *subsection (6)*.
+
+(6) Upon the application of an authorised officer, a judge of the District Court, if satisfied that there are reasonable grounds for believing that—
+
+(*a*) a relevant thing is to be found in any dwelling, or is being or has been subjected to any process or stored in any dwelling,
+
+(*b*) a dwelling is occupied in whole or in part by an undertaking engaged in any trade, business or activity referred to in *subsection (3)(a)(i)*, or
+
+(*c*) books, records or other documents (including documents stored in non-legible form) referred to in *subsection (3)(a)(ii)* are being stored or kept in any dwelling,
+
+may issue a warrant authorising a named authorised officer accompanied by such other authorised officers, members of the Garda Síochána, or persons with expertise relating to any relevant thing, as may be necessary, at any time or times within one month of the date of issue of the warrant, to enter the dwelling and perform any of the functions of an authorised officer under *subsection (3)(b)* to *(n)*.
+
+(7) Any person who—
+
+(*a*) obstructs or interferes with an authorised officer, a member of the Garda Síochána, or a person with expertise relating to any relevant thing, in the course of performing a function conferred on him or her by F103[this Act] or a warrant under *subsection (6)*,
+
+(*b*) impedes the performance by the officer, member, or person with expertise, as the case may be, of such function or fails or refuses to comply with a request or requirement of, or to answer a question asked by, the officer, member, or person with expertise, as the case may be, pursuant to this paragraph, or
+
+(*c*) in purported compliance with such request or requirement or in answer to such question gives information to the officer, member, or person with expertise, as the case may be, that he or she knows to be false or misleading in any material respect,
+
+shall be guilty of an offence.
+
+(8) Where an authorised officer, upon reasonable grounds, believes that a person has committed an offence under F104[a relevant enactment], he or she may require that person to provide him or her with his or her name and the address at which he or she ordinarily resides.
+
+(9) A person who, without reasonable excuse, does not comply with a requirement under *subsection (8)* shall be guilty of an offence.
+
+(10) A statement or admission made by a person pursuant to a requirement under *subsection (3)(e)* shall not be admissible as evidence in proceedings brought against that person for an offence (other than an offence under *subsection (7)*).
+
+(11) A person who falsely represents himself or herself to be an authorised officer shall be guilty of an offence.
+
+(12) Nothing in F105[this section] shall be taken to compel the production by any person of a document which he or she would be exempt from producing in proceedings in a court on the ground of legal professional privilege.
+
+F108[(13) In this section, "Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016[^1] on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F91, F92, F93, F94, F95, F96, F97, F98, F99, F100, F101, F102, F103, F104, F105: Substituted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 71(a)-(c), (e)-(h), S.I. No. 54 of 2021.
+>
+> F106: Substituted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 206(a), S.I. No. 174 of 2018.
+>
+> F107: Inserted (1.08.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 74(d), S.I. No. 409 of 2021.
+>
+> F108: Inserted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 206(b), S.I. No. 174 of 2018.
+
+### 68. Samples.
+
+**68**.— (1) Subject to *subsection (3)*, where an authorised officer takes a sample of a relevant thing pursuant to *section 67(3)(f)* or *(j)*, he or she shall—
+
+(*a*) divide the sample into 3 approximately equal parts,
+
+(*b*) place each part into separate containers, and
+
+(*c*) forthwith seal and mark each such container in such a manner as to identify it as part of the sample taken by that authorised officer.
+
+(2) Where an authorised officer has complied with *subsection (1)*, he or she shall—
+
+(*a*) offer one of the sealed containers to the owner or person for the time being in charge or possession of the relevant thing from which the sample concerned was taken,
+
+(*b*) retain one of the sealed containers, and
+
+(*c*) forward, or cause to be forwarded, one of the sealed containers for test, examination or analysis of the sample concerned by a person mentioned in *section 69(1)(a)*, *(b)* or *(c)*.
+
+(3) Where a relevant thing is contained in a container and its division into parts pursuant to *subsection (1)* is, for whatever reason, not practicable, an authorised officer who wishes to take samples of such relevant things for the purposes of any tests, examination or analysis shall take possession of 3 such containers belonging to the same batch, and each such container shall be deemed to be part of a sample for the purposes of *subsection (1)*, and the provisions of *subsections (1)* and *(2)* shall apply thereto accordingly.
+
+(4) Where an authorised officer takes a relevant thing pursuant to *section 67(3)(k)*, he or she shall—
+
+(*a*) place the relevant thing in a container,
+
+(*b*) forthwith seal and mark the container in such a manner as to identify it as a relevant thing taken pursuant to that section, and
+
+(*c*) forward, or cause to be forwarded, the sealed container for test, examination or analysis of the relevant thing by a person mentioned in *section 69(1)(a)*, *(b)* or *(c)*.
+
+### 69. Evidence.
+
+**69**.— (1) In any proceedings for an offence under this Act, a certificate in the form specified in *Schedule 3* to this Act signed by—
+
+(*a*) either—
+
+(i) the State Chemist, or
+
+(ii) another chemist employed or engaged at the State Laboratory and authorised by the State Chemist to sign the certificate,
+
+(*b*) either—
+
+(i) a public analyst appointed under section 10 of the Sale of Food and Drugs Act 1875, or
+
+(ii) another analyst authorised by such a public analyst to sign the certificate,
+
+or
+
+(*c*) a chemist or analyst appointed by the Council,
+
+stating the result of any test, examination or analysis of a sample of any relevant thing, or of a relevant thing, as the case may be, forwarded under *section 68(2)(c* or *(4)(c)* shall, with regard to that sample of the relevant thing, or the relevant thing, as the case may be, be evidence of the matters stated in the certificate unless the contrary is proved.
+
+(2) In proceedings for an offence under this Act, a relevant thing, or a package containing a relevant thing, that bears a trademark shall, unless the contrary is proved, be evidence that the thing was manufactured by the person who at the time of the alleged commission of the offence owned that trademark.
+
+(3) In this paragraph, “trademark” has the same meaning as it has in the Trade Marks Act 1996.
+
+### 70. Indemnification of authorised officers.
+
+**70**.— Where the Council is satisfied that an authorised officer appointed by it has discharged his or her functions under this Part in good faith, the Council shall indemnify the authorised officer against all actions or claims arising out of the discharge of those functions.
+
+### 71. Functions of Council on receipt of report of investigation by authorised officer.
+
+**71**.— (1) The Council shall consider a written report from an authorised officer following his or her investigation under F109[this Act], as soon as practicable after receipt of it and shall do whatever of the following that it considers appropriate—
+
+(*a*) take no action,
+
+(*b*) commence disciplinary proceedings,
+
+(*c*) if it appears to the Council that any person to whom the written report refers is guilty of an offence, it shall, subject to *paragraph (d)* and *subsection (3)*, direct the registrar to take specified action and the registrar shall take such action,
+
+(*d*) take such other action as it considers appropriate in the circumstances.
+
+(2) For the purposes of *subsection (1)(c)*, specified action to be taken by the registrar may include referring the matter to any public body or authority exercising functions which are relevant to the matters considered by the Council when directing the action referred to in that provision and, in such a case, the registrar shall furnish such information, and give such access to and facilities for inspecting and taking any copies of any documents being information or documents in the possession or under the control of the authorised officer, the Council, or the registrar and relating to the matter in question as that body or authority, may require.
+
+(3) The action which the Council may take under *subsection (1)(d)* includes, in the case of an offence under this Act, the bringing by the Council of summary proceedings for the offence.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F109: Substituted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 75, S.I. No. 54 of 2021.
+
+### 72. Penalties for offences.
+
+**72**.— (1) Subject to *subsection (2)*, a person guilty of an offence under this Act or regulations made thereunder is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €3,000 or imprisonment for a term not exceeding 6 months, or to both,
+
+(*b*) on conviction on indictment—
+
+(i) in the case of a first offence, to a fine not exceeding €130,000, or to imprisonment for a term not exceeding 5 years, or to both,
+
+(ii) in the case of a second or subsequent offence under the same provision, to a fine not exceeding €320,000, or to imprisonment for a term not exceeding 10 years, or to both.
+
+(2) Unless it is satisfied that there are special and substantial reasons for not so doing, the court shall, where the person is convicted of an offence, order a person to pay to the prosecution the costs and expenses, measured by the court, incurred by the prosecution in relation to the prosecution of the offence.
+
+(3) Where an offence under this Act is committed by a corporate body and is proved to have been so committed with the consent, connivance or approval of, or to have been attributable to any wilful neglect on the part of, any person being a director, manager, secretary or any other officer of the corporate body or a person who was purporting to act in any such capacity, that person, as well as the corporate body, is guilty of an offence and is liable to be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
+
+(4) In *subsection (3)*, “director” includes a shadow director within the meaning given by section 27 of the Companies Act 1990.
+
+## PART 8 Miscellaneous and General — PART 8 — Miscellaneous and General
+
+### 73. Restriction of Apothecaries’ Hall Act 1791.
+
+**73**.— The powers conferred by the Apothecaries’ Hall Act 1791—
+
+(*a*) upon the court of directors constituted by that Act, to inspect and direct all chemical and compound preparations and experiments,
+
+(*b*) to provide for or concerning the composition of medicines, and
+
+(*c*) to examine apprentices and journeymen for the purposes of their learning and transacting the business of apothecaries and to certify them as qualified for those purposes,
+
+shall cease to be exercisable.
+
+### 74. Amendment of Poisons Act 1961.
+
+**74**.— (1) Section 14 of the Poisons Act 1961 is amended by inserting the following after subsection (3)—
+
+“(3A) The Minister may not, however, declare a substance whose sole use is as a medicinal product within the meaning of *section 2(1)* of the *Pharmacy Act 2007* to be a poison for the purposes of the regulations made under subsection (2) or any provision of those regulations.”.
+
+(2) The Poisons Act 1961 is amended by inserting the following after section 18—
+
+“Keeping of open shop for sale of poisons.
+
+18A.— (1) A person who, otherwise than in compliance with subsections (3) or (4), keeps open shop for the sale of poisons commits an offence.
+
+(2) Subsection (1) does not apply in relation to the keeping of open shop by a person of a class specified in regulations under section 14 who is keeping open shop in accordance with those regulations.
+
+(3) This subsection is complied with if—
+
+(*a*) the person referred to in subsection (1) is—
+
+(i) a registered pharmacist,
+
+(ii) a registered druggist,
+
+(iii) the personal representative of a person who, at the time of his or her death, was lawfully keeping open shop for the sale of poisons,
+
+(iv) the Official Assignee or committee of a person lawfully keeping open shop for the sale of poisons who is adjudicated bankrupt or becomes an arranging debtor within the meaning of section 3 of the Bankruptcy Act 1988 or becomes of unsound mind, or
+
+(v) a corporate body,
+
+and
+
+(*b*) the shop is personally managed by a registered pharmacist or registered druggist.
+
+(4) The Council of the Pharmaceutical Society of Ireland shall, with the approval of the Minister, make such rules as it considers appropriate for the purpose of facilitating the operation of and compliance with subsections (1) to (4); and those rules may include provision for—
+
+(*a*) the keeping of records in relation to the premises where open shop is kept for the sale of poisons and in relation to persons employed in such shops, and
+
+(*b*) the furnishing of statements and returns.
+
+(5) *Subsection (4)* of *section 11* of the *Pharmacy Act 2007* shall apply in relation to rules made under subsection (4) of this section as it applies to rules made under *subsections (2)* or *(3)* of that section.
+
+(6) A person guilty of an offence under this section shall, on summary conviction, be liable to the same penalty as is provided for, on summary conviction, in *section 72(1)* of the *Pharmacy Act 2007*.
+
+(7) *Section 72(2)* and *(3)* of the *Pharmacy Act 2007* apply in respect of an offence under this section as they apply to an offence under that Act.”.
+
+### 75. Interpretation of references to pharmaceutical chemists, persons keeping open shop, etc.
+
+**75**.— (1) Any reference (however expressed) in a prior enactment to a pharmaceutical chemist registered under the Pharmacy Act (Ireland) 1875 or a dispensing chemist and druggist registered under the Pharmacy Act 1951 shall be construed as a reference to a registered pharmacist.
+
+(2) Any reference (however expressed) in a prior enactment to a person who is keeping open shop for the dispensing or compounding of medical prescriptions under the Pharmacy Acts 1875 to 1977—
+
+(*a*) where that person is, in relation to a pharmacist, a representative within the meaning given by *section 25(2)*, shall be construed as a reference to such a representative, and
+
+(*b*) in any other case, shall be construed as a reference to a registered retail pharmacy business.
+
+(3) In this section—
+
+“prior enactment” means an enactment passed or made before the coming into operation of this section;
+
+“representative of a registered pharmacist” shall be construed in accordance with *sections 25* and *26 .*
+
+### 76. Codes, rules and regulations.
+
+**76**.— (1) A code of conduct having effect under *sections 7(2)(a)(iii)* and *12*, rules made under *section 11*, *30* or *74* and regulations made under *section 18(4)* shall be laid before each House of the Oireachtas as soon as practicable after it has effect or, as the case may be, they are made.
+
+(2) If a resolution annulling those regulations is passed by either such House within the next 21 days on which that House has sat after the regulations were laid before it, the regulations shall be annulled accordingly, but without prejudice to the validity of anything previously done under the regulations.
+
+(3) A draft of every proposed order under *section 8* shall be laid before each House of the Oireachtas and the order shall not be made unless a resolution approving of the draft has been passed by each such House.
+
+### 77. Special measures registration having regard to Covid-19
+
+F110[**77.**— (1) A previous registrant may make an application to the Council to be registered in the register pursuant to this section.
+
+(2) Subject to *subsections (3)* to *(7)*, the provisions of this Act shall, with all necessary modifications, apply to—
+
+(*a*) a *section 77* registration as they apply to a registration in the register effected by another section of this Act, and
+
+(*b*) a *section 77* registrant as they apply to a person registered in the register who is not a *section 77* registrant.
+
+(3) No fee shall be charged for, or relating to—
+
+(*a*) a *section 77* application, or
+
+(*b*) a *section 77* registration or the retention of such registration.
+
+(4) Where a previous registrant’s name is entered in the register pursuant to a *section 77* registration, the Council shall enter in the register, or cause to be entered in the register, the term ‘(*section 77* registration)’ immediately after that name to indicate that his or her registration in the register arises from the operation of this section.
+
+(5) (*a*) Nothing in this section shall be construed to prevent a previous registrant’s name from being entered in the register pursuant to the operation of another section of this Act, whether or not his or her name is already entered in the register pursuant to a *section 77* registration.
+
+(*b*) Where a previous registrant’s name is entered in the register pursuant to the operation of this Act (other than this section) when his or her name is already entered in the register pursuant to a *section 77* registration, the Council shall cancel from the register, or cause to be cancelled from the register, the latter entry at the same time as the first-mentioned entry is made.
+
+(*c*) The refusal of a *section 77* registration for a previous registrant shall not prevent that registrant from making an application under another section of this Act to be registered in the register.
+
+(6) (*a*) Subject to *subsection (7)*, each *section 77* registration that is still in force on the 31st day of July 2020, shall, on and after that date, cease to have effect.
+
+(*b*) The Council shall cancel from the register, or cause to be cancelled from the register, on the date referred to in *paragraph (a)*, or as soon as is practicable thereafter, each name that was entered in the register pursuant to a *section 77* registration.
+
+(7) (*a*) The Minister may, by order, specify a different date for the purposes of *subsection (6)* (including a different date for a previous different date specified in an order made under this paragraph) and, if the Minister so specifies, that subsection shall be construed, with all necessary modifications, to take account of that first-mentioned date.
+
+(*b*) *Section 76(1)* and *(2)* shall, with all necessary modifications, apply to an order made under *paragraph (a)* as that section applies to regulations referred to in that section.
+
+(8) In this section—
+
+"previous registrant" means a former registered pharmacist or registered pharmaceutical assistant, as appropriate, who was previously registered in the register and who was cancelled from the register pursuant to *section 59* or *60*;
+
+"*section 77* application" means an application under *subsection (1)*;
+
+"*section 77* registrant" means a person registered in the register pursuant to—
+
+(*a*) the Council’s determination of a *section 77* application, or
+
+(*b*) a decision (howsoever called) of the High Court arising from the Council’s determination of a *section 77* application;
+
+"*section 77* registration" means a registration effected in the register pursuant to—
+
+(*a*) the Council’s determination of a *section 77* application, or
+
+(*b*) a decision (howsoever called) of the High Court arising from the Council’s determination of a *section 77* application.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F110: Inserted (27.03.2020) by *Emergency Measures in the Public Interest (Covid-19) Act 2020* (2/2020), s. 12, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E77: Power pursuant to subs. (7) exercised (8.12.2021) by *Pharmacy Act 2007 (Special measures registration having regard to Covid-19) (No 2) Order 2021* (S.I. No. 683 of 2021). The different date specified is 30 June 2022.
+>
+> E78: Power pursuant to subs. (7) exercised (24.06.2021) by *Pharmacy Act 2007 (Special measures registration having regard to Covid-19) Order 2021* (S.I. No. 300 of 2021). The different date specified is 31 December 2021.
+>
+> E79: Power pursuant to subs. (7) exercised (23.12.2020) by *Pharmacy Act 2007 (Special measures registration having regard to Covid-19) (No 2) Order 2020* (S.I. No. 691 of 2020). The different date specified is 30 June 2021.
+>
+> E80: Power pursuant to subs. (7) exercised (4.08.2020) by *Pharmacy Act 2007 (Special Measures Registration Having Regard to Covid 19) Order 2020* (S.I. No. 273 of 2020). The different date specified is 31 December 2020.
+>
+> E81: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 78. Admissibility of certain documents relating to proceedings in State or other jurisdictions
+
+F111[**78.** (1) In any proceedings under this Act concerning a relevant person, a document that purports to be a relevant document shall be admissible as evidence of any fact stated therein of which evidence would be admissible in those proceedings.
+
+(2) In any proceedings under this Act concerning a relevant person, a document purporting to be a certification by a court, tribunal or other authority of a document purporting to be a relevant document (and whether or not the certification is incorporated into the document) and to be signed by or on behalf of that court, tribunal or other authority shall be deemed, for the purpose of this section, to be such a certificate and to be so signed, unless the contrary is proved.
+
+(3) Where a document is admissible in evidence under this section, any document which purports to be a translation of that document shall be admissible as evidence of the translation if it is certified as correct by a person competent to do so and a document purporting to be a certificate under this subsection shall be deemed to be such a certificate, and to be signed by the person purporting to have signed it, unless the contrary is proved.
+
+(4) In this section—
+
+"final determination", in relation to any relevant proceedings and a relevant person, means—
+
+(*a*) the conclusion of those proceedings without any party to the proceedings making an appeal, against a decision in those proceedings to impose or to not impose a sanction on the relevant person, within the ordinary time in the State or other jurisdiction concerned, as appropriate, for making such an appeal, or
+
+(*b*) if such an appeal is made—
+
+(i) the abandonment or withdrawal of the appeal, or
+
+(ii) the determination of the appeal, whichever first occurs;
+
+"relevant document", in relation to a relevant person, means any of the following:
+
+(*a*) a copy of a transcript of all or any part of relevant proceedings that has been certified, by or on behalf of the court, tribunal or other authority before which the proceedings were held, to be a true and accurate copy of that transcript;
+
+(*b*) a copy of all or any part of a report arising out of such proceedings certified, by or on behalf of the court, tribunal or other authority which made the report, to be a true and accurate copy of that report;
+
+(*c*) if, after the final determination of such proceedings, sanctions are, or continue to be, imposed on the relevant person in consequence of such proceedings, a statement in writing giving particulars of such sanctions so imposed certified, by or on behalf of the court, tribunal or other authority which imposed the sanctions, to be true and accurate particulars of the sanctions that are, or continue to be, imposed on the relevant person after the final determination of the proceedings;
+
+(*d*) if, after the final determination of such proceedings, no sanctions are, or continue to be, imposed on the relevant person in consequence of such proceedings, a statement in writing to that effect certified by or on behalf of the court, tribunal or other authority before which the proceedings were held;
+
+"relevant person" means—
+
+(*a*) a registered pharmacist,
+
+(*b*) a person who has made an application under section 14 for registration as a pharmacist which has not yet been determined by the Council,
+
+(*c*) the pharmacy owner of a registered retail pharmacy business or an employee or partner of the pharmacy owner,
+
+(*d*) the pharmacy owner of a retail pharmacy business who has made an application under section 17 for the registration of the business which has not yet been determined by the Council, or
+
+(*e*) where a corporate body owns all or part of a registered retail pharmacy business, any person being a director (including a shadow director as construed in accordance with section 221 of the Companies Act 2014), manager, secretary or any other officer of the corporate body or a person who was purporting to act in any such capacity;
+
+"relevant proceedings", in relation to a relevant person, means any disciplinary or judicial proceedings (other than any such proceedings under this Act), in respect of which the relevant person is the subject—
+
+(*a*) in the State or another jurisdiction which may directly or indirectly result in the relevant person—
+
+(i) being prohibited from providing one or more than one kind of health or social care in the State or that jurisdiction, or
+
+(ii) having a restriction placed on his or her ability to provide one or more than one kind of health or social care in the State or that jurisdiction,
+
+(*b*) in another jurisdiction which may result in the relevant person being convicted, in that jurisdiction, for an offence consisting of acts or omissions that, if done or made in the State, would constitute an offence triable on indictment, or
+
+(*c*) in the State which may result in the relevant person being convicted, in the State, for an offence triable on indictment;
+
+"sanction" includes any restriction or measure.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F111: Inserted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 76, S.I. No. 54 of 2021.
+
+### 79. Power to specify form of documents
+
+F112[**79.** (1) The relevant body may specify the form of documents required for the purposes of this Act as the relevant body thinks fit.
+
+(2) The relevant body’s power under *subsection (1)* may be exercised in such a way as to—
+
+(*a*) include in the specified form of any document referred to in that subsection a statutory declaration—
+
+(i) to be made by the person completing the form, and
+
+(ii) as to whether the particulars contained in the form are true and correct to the best of that person’s knowledge and belief, and
+
+(*b*) specify 2 or more forms of any document referred to in that subsection, whether as alternatives, or to provide for particular circumstances or particular cases, as the relevant body thinks fit.
+
+(3) The relevant body’s power under *subsection (1)* may be exercised in such a way as to include in the specified form of any document a statement requiring the person completing the form to verify any particulars contained in the form, or contained in any document accompanying the form, in such manner as is specified in the form.
+
+(4) A form specified under this section shall be—
+
+(*a*) completed in accordance with such directions and instructions as are specified in the form,
+
+(*b*) accompanied by such documents as are specified in the form, and
+
+(*c*) if the completed form is required to be provided to—
+
+(i) the relevant body,
+
+(ii) another person on behalf of the relevant body, or
+
+(iii) any other person, so provided in the manner, if any, specified in the form.
+
+(5) Without prejudice to the generality of *subsection (1)*, the Council may—
+
+(*a*) specify a form to be completed by a registered pharmacist in connection with the payment by the pharmacist of any fee for continued registration referred to in *section 14(5)*, and
+
+(*b*) in that form, require the pharmacist to supply the Council with such information that the pharmacist would have to supply the Council if the pharmacist were not registered but were seeking registration.
+
+(6) Without prejudice to the generality of *subsection (1)*, the Council may—
+
+(*a*) specify a form to be completed by a pharmacy owner in connection with the payment by the pharmacy owner of any fee for continued registration referred to in section 17(3) of the retail pharmacy business concerned, and
+
+(*b*) in the form, require the pharmacy owner to supply the Council with such information that the pharmacy owner would have to supply the Council if that retail pharmacy business were not registered but the pharmacy owner was seeking registration of the business.
+
+(7) In this section, "relevant body" means the following:
+
+(*a*) subject to *paragraphs (b)* and *(c)*, the Council;
+
+(*b*) in relation to a function under this Act performed by a preliminary proceedings committee, that committee;
+
+(*c*) in relation to a function under this Act performed by a committee of inquiry, that committee.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F112: Inserted (13.02.2021) by *Regulated Professions (Health and Social Care) (Amendment) Act 2020* (16/2020), s. 76, S.I. No. 54 of 2021.
+
+## SCHEDULE 1 — The Council and its members and the society’s employees
+
+*Term of office*
+
+1\. (1) Members of the Council shall hold office for a term of 4 years from the date of appointment.
+
+(2) But 6 of the members first appointed by virtue of *sections 10(3)(a)*, *(b)*, *(c)*, *(d)*, and *(e)*, and *5* of those first appointed by virtue of *section 10(3)(f)* (as read with section *10(5)*) and *(g)* after the passing of this Act shall hold office for a term of 2 years from the date of appointment.
+
+(3) The members making up the numbers mentioned in *subparagraph (2)* shall be determined by lot to be drawn in the manner fixed by the Minister.
+
+*Disqualification from Office*
+
+2\. (1) A person shall not be qualified for office and a member shall cease to be so qualified and shall cease to hold office if he or she—
+
+(*a*) is adjudicated bankrupt,
+
+(*b*) makes a composition or arrangement with creditors,
+
+(*c*) is convicted of any indictable offence,
+
+(*d*) is convicted of an offence involving fraud or dishonesty,
+
+(*e*) is the subject of an order under section 160 of the Companies Act 1990, or
+
+(*f*) is sentenced to a term of imprisonment.
+
+(2) A disqualification under *subparagraph (1)(a)*, *(c)*, *(d)* or *(e)* shall not take effect until the ordinary time for appealing against the adjudication, conviction or, as the case may be, order has expired, or if an appeal is brought, it (or any further appeal) is determined in a way which upholds the adjudication, conviction or order or is abandoned.
+
+(3) The Minister may at any time remove a member from office if—
+
+(*a*) in the Minister’s opinion, the member has become incapable, through ill-health, of performing his or her functions,
+
+(*b*) the member has committed stated misbehaviour, or
+
+(*c*) the removal of the member appears to the Minister to be necessary for the Council to perform its functions effectively.
+
+(4) *Subparagraph (2)* does not limit the Minister’s power under *paragraph 21(2)* to remove any or all of the members of the Council.
+
+*Conditions of office*
+
+3\. Subject to the other provisions of this Act, a member shall hold office upon such terms and conditions (including terms and conditions relating to expenses and allowances) as are determined by the Minister with the consent of the Minister for Finance.
+
+*President and Vice-President*
+
+4\. (1) The Council shall elect from among its members who are registered pharmacists a President and a Vice-President, to be known as the President and Vice-President respectively of the Pharmaceutical Society of Ireland (in this Schedule referred to as “President” and “Vice-President” respectively).
+
+(2) The President and Vice-President shall each hold office for one year.
+
+(3) No person may hold the office of President or Vice-President for more than 2 consecutive years.
+
+*Casual Vacancies*
+
+5\. (1) If a member dies, resigns, or ceases to hold office or is removed from office, (in this paragraph referred to as a “former member”), the Minister may appoint a person (in this paragraph referred to as a “new member”) to fill the casual vacancy in the same way (having regard to *section 10(3)*) as the former member was appointed.
+
+(2) A new member shall hold office for the period of office of the former member that remained unexpired at the date of the new member’s appointment and shall be eligible for reappointment on the expiry of that period.
+
+*Meetings and Procedure of the Council*
+
+6\. (1) The Council shall hold 4 meetings in each period of 12 months and may hold such other meetings as are necessary for the performance of its functions.
+
+(2) At a meeting of the Council—
+
+(*a*) the President, or
+
+(*b*) in his or her absence, the Vice-President, or
+
+(*c*) in both their absences, a member chosen by the members present,
+
+shall chair the meeting.
+
+(3) The reference in *subsection (2)* to the absence of the President or Vice-President includes reference to a vacancy in that office.
+
+(4) Every question at a meeting shall be determined by a majority of the votes of the members present and voting and, in the case of an equal division of votes, the chair shall have a casting vote.
+
+(5) Subject to *subparagraph (6)*, the Council may act notwithstanding one or more vacancies in its membership.
+
+(6) The quorum for a meeting shall be, unless the Minister otherwise directs, 11 members.
+
+(7) The Council shall arrange for the recording of the business done at its meetings and those of its committees and, subject to that and the other provisions of this Act, shall regulate its procedure and that of its committees by rules and otherwise as it sees fit.
+
+*Committees of the Council*
+
+7\. (1) In addition to the disciplinary committees which the Council must set up under *section 34*, it may establish committees to advise it in relation to the performance of its functions (in this Schedule referred to as “advisory committees”) and may determine their terms of reference.
+
+(2) *Subparagraphs (3)* to *(6)* shall apply to disciplinary committees and advisory committees.
+
+(3) A committee may include persons who are not members of the Council.
+
+(4) A member of a committee may be removed from it by the Council.
+
+(5) The Council shall appoint a member of a committee to chair it.
+
+(6) The Council shall fix the quorum of a committee.
+
+(7) The Council may dissolve a committee established under *subparagraph (1)*.
+
+*Membership of either House of the Oireachtas or European Parliament by a Member of the Council or Staff of the Society*
+
+8\. (1) A member of the Council who is—
+
+(*a*) nominated as a member of Seanad Éireann,
+
+(*b*) elected as a member of either House of the Oireachtas or the European Parliament, or
+
+(*c*) regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act 1997 as having been elected to that Parliament,
+
+shall then cease to be a member of the Council.
+
+(2) An employee of the Society who is—
+
+(*a*) nominated as a member of Seanad Éireann,
+
+(*b*) elected as a member of either House of the Oireachtas or the European Parliament, or
+
+(*c*) regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act 1997 as having been elected to that Parliament,
+
+shall then stand seconded from employment by the Society.
+
+(3) An employee seconded under *subparagraph (2)* shall not be paid by, or entitled to receive from, the Society any remuneration or allowances in respect of the period beginning on such nomination or election or when he or she is so regarded as having been elected (as the case may be) and ending when such person ceases to be a member of either such House or a member of such Parliament.
+
+(4) A person who is entitled under the standing orders of either House of the Oireachtas to sit in it or who is a member of the European Parliament shall be, while so entitled or while such a member, disqualified from membership of the Council and from becoming employed in any capacity by the Council.
+
+(5) A period mentioned in *subparagraph (3)* shall not, for the purposes of any superannuation benefit, be reckoned as service with the Society.
+
+*Disclosure of certain interests*
+
+9\. (1) In this paragraph—
+
+“connected relative” , in relation to a person, means a spouse, a man and woman who are not married to each other but are cohabiting as husband and wife, parent, brother, sister, child or spouse of a child of the person;
+
+“meeting” means a meeting of the Council or of a committee of the Council;
+
+“member” includes a member of a committee of the Council;
+
+“specified matter” means—
+
+(*a*) an arrangement to which the Council is a party or a proposed such arrangement, or
+
+(*b*) a contract or other agreement with the Council or a proposed such contract or agreement.
+
+(2) A member present at a meeting where a specified matter arises who, otherwise than in his or her capacity as a member, has an interest in that matter—
+
+(*a*) shall at the meeting, disclose that fact and the extent of the interest,
+
+(*b*) may not influence or seek to influence a decision to be made in relation to the matter,
+
+(*c*) shall absent himself or herself from the meeting or that part of the meeting during which the matter is being discussed,
+
+(*d*) may not vote on a decision relating to the matter, and
+
+(*e*) may not take part in any further deliberation of the Council or any of its committees relating to the matter.
+
+(3) For the purposes of this paragraph, but without prejudice to the generality of *subparagraph (2)*, a member shall be regarded as having an interest in a matter if a connected relative F113[or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 of that member or a nominee of any of them] has such an interest.
+
+(4) The disclosure shall be recorded in the minutes of the meeting and, for as long as the specified matter is being dealt with by the meeting, the member making the disclosure may not be counted for the purposes of determining the presence of a quorum for the meeting.
+
+(5) The question of whether a member’s course of conduct, is or would be a contravention of *subparagraph (2)* shall be determined by the chair, whose decision shall be final, and the particulars of the determination shall be recorded in the minutes of the meeting.
+
+(6) Where the member referred to in *subparagraph (4)* is the chair, the meeting shall choose another member to chair it for the purposes of the determination.
+
+(7) If satisfied that a member has contravened *subparagraph (2)*, the Minister may remove the member from office and that person is then disqualified from office.
+
+*Disclosure by employees of certain interests*
+
+10\. (1) In this paragraph—
+
+“connected relative” has the same meaning as in *paragraph 9*;
+
+“material interest” has the same meaning in relation to an employee of the Society as it has in the Ethics in Public Office Act 1995 in relation to a person holding a designated position;
+
+“specified matter” has the same meaning as in *paragraph 9*.
+
+(2) An employee of the Society who, otherwise than as such, has a material interest in a specified matter—
+
+(*a*) shall disclose that fact to the Council and the extent of the interest,
+
+(*b*) may not influence or seek to influence any decision to be made in relation to the matter,
+
+(*c*) may not make any recommendation relating to the matter, and
+
+(*d*) may not take part in the negotiation of the matter or in any deliberation by the Council or the Society’s employees relating to that matter.
+
+(3) For the purposes of this paragraph but without prejudice to the generality of *subparagraph (2)*, an employee shall be regarded as having a material interest in a matter if a connected relative F114[or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 of the employee or any of them] has such an interest.
+
+(4) Where an employee fails to make a disclosure in accordance with this paragraph, the Council shall decide the appropriate action (which may include termination of his or her contract of employment) to be taken.
+
+*Prohibition of unauthorised disclosure of confidential information*
+
+11\. (1) A person who discloses confidential information obtained as—
+
+(*a*) a member of the Council or one of its committees,
+
+(*b*) an adviser or consultant to the Society or the Council or one of its committees,
+
+(*c*) an employee of the Society,
+
+shall be guilty of an offence.
+
+(2) In this paragraph, “confidential information” includes—
+
+(*a*) information declared by the Council to be confidential (whether particular information or information of a class or description), and
+
+(*b*) proposals of a commercial nature or tenders submitted to the Council.
+
+(3) Nothing in this paragraph prohibits the disclosure of information by means of a report made—
+
+(*a*) to the Society, the Council or one of its committees, or
+
+(*b*) by or on behalf of the Council to the Minister.
+
+*Application of surpluses*
+
+12\. (1) *Subparagraph (2)* applies to any money appearing to the Council to be left over after meeting its expenses (in this paragraph referred to as the “surplus”).
+
+(2) The Council may spend the surplus including any surplus following disposal of assets as it sees fit on—
+
+(*a*) the development of education,
+
+(*b*) research, or
+
+(*c*) any other public purpose,
+
+connected with pharmacy.
+
+*Registrar*
+
+13\. (1) The Council shall appoint a chief officer of the Society, to be known as the Registrar of the Pharmaceutical Society of Ireland (in this Act referred to as the “registrar”).
+
+(2) The registrar shall be paid by the Society such remuneration and allowances as the Council, with the approval of the Minister with the consent of the Minister for Finance, determines from time to time.
+
+(3) The registrar shall be employed on such other terms and conditions as the Council, with the approval of the Minister, determines.
+
+(4) The registrar shall keep the registers, manage and control the administration and business of the Society and the Council and perform such other functions as may be determined by the Council.
+
+*Staff of the Pharmaceutical Society of Ireland*
+
+14\. (1) The Council may engage such and such number of persons to be employees of the Society as the Council, with the approval of the Minister with the consent of the Minister for Finance, may determine.
+
+(2) An employee of the Society shall be paid by the Council such remuneration and allowances as the Council, with the approval of the Minister with the consent of the Minister for Finance determines from time to time.
+
+(3) An employee of the Society shall be employed on such other terms and conditions as the Council, with the approval of the Minister, determines from time to time.
+
+(4) An employee of the Society shall perform such duties as the Council determines from time to time.
+
+(5) An employee of the Society may not be a member of the Council.
+
+*Superannuation*
+
+15\. (1) The Society shall prepare and submit to the Minister a scheme or schemes for the granting of superannuation benefits to or in respect of such members of the staff of the Society as it may think fit.
+
+(2) Every such scheme shall fix the time and conditions of retirement for all persons to or in respect of whom superannuation benefits are payable under the scheme, and different times and conditions may be fixed in respect of different classes of persons.
+
+(3) Every such scheme may be amended or revoked by a subsequent scheme prepared, submitted and approved under this section.
+
+(4) A scheme submitted by a Society under this section shall, if approved by the Minister with the consent of the Minister for Finance, be carried out by the Society in accordance with its terms.
+
+(5) No superannuation benefit shall be granted by the Society nor shall any other arrangements be entered into by the Society for the provision of such a benefit to or in respect of a member of the staff of the Society otherwise than in accordance with a scheme under this section or with the consent of the Minister and the Minister for Finance.
+
+(6) Each scheme made under this section shall make provision for appeals.
+
+(7) A scheme under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the scheme is passed by either such House within the next 21 days on which that House has sat after the scheme is laid before it, the scheme shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+*Accounts and audit*
+
+16\. (1) The Council shall keep proper accounts—
+
+(*a*) of all income and expenditure of the Society, including the sources of such income, and
+
+(*b*) of the property and liabilities of the Society.
+
+(2) The accounts shall be audited at least once in every year by an auditor appointed by the Council for that purpose and the fees of the auditor and the expenses of the audit shall be paid by the Council as soon as practicable after each audit.
+
+(3) Not later than 3 months after the end of the financial year to which the accounts relate, the Council shall submit copies of the accounts and the auditors’ certificate and report to the Minister.
+
+(4) As soon as practicable after those copies have been so submitted, the Minister shall lay them before each House of the Oireachtas and as soon as practicable after they have been so laid, the Council shall have them printed, published and put on sale.
+
+*Annual report*
+
+17\. (1) Not later than 3 months after the end of each financial year, the Council shall submit to the Minister a report on its activities in that year and the Minster shall, as soon as practicable, lay copies of the report before each House of the Oireachtas.
+
+(2) As soon as practicable after the report has been so submitted, the Council shall have it printed, published and put on sale.
+
+*Council’s exercise of Society’s borrowing power*
+
+18\. (1) The Council’s exercise of the Society’s power to borrow shall be subject to any conditions that may be imposed by, or in accordance with any directions given by, the Minster with the consent of the Minister for Finance.
+
+(2) Any money so borrowed and any interest accruing on it shall be secured on the income or property of the Society.
+
+*Acceptance of gifts by the Council*
+
+19\. The Council may accept gifts of land, money or other property, but only if any trusts or conditions specified by the donor are consistent with the Society’s functions.
+
+*Power to charge and recover fees*
+
+20\. (1) The Society may charge such fees as may, with the approval of the Minister, from time to time, be prescribed for any or all the following:
+
+(*a*) registration;
+
+(*b*) continued registration;
+
+(*c*) the issue of certificates of registration or continued registration;
+
+(*d*) the making of alterations in a register under *section 22(2)(a)*;
+
+(*e*) the restoration of a name to a register under *section 61*;
+
+(*f*) any other service provided by virtue of this Act F115[or the Professional Qualifications Regulations].
+
+(2) The Society may recover, as a simple contract debt, any amount owed in respect of a fee charged under this section.
+
+*Failure of Council to perform a function*
+
+21\. (1) If the Council fails to perform any of its functions the Minister may, in writing, direct it—
+
+(*a*) to perform the function within the time specified in the direction, and
+
+(*b*) for that purpose, to do any other thing that is ancillary or incidental to the performance of the function.
+
+(2) If the Council does not comply with the direction the Minister may, by order, remove from office any or all of its members and perform the function himself or herself.
+
+*Annual service plan and corporate strategy*
+
+22\. The Society shall prepare an annual service plan and a corporate strategy.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F113: Substituted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97 and sch. part 1 item 45, S.I. No. 648 of 2010.
+>
+> F114: Substituted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97 and sch. part 1 item 46, S.I. No. 648 of 2010.
+>
+> F115: Inserted (17.01.2017) by *European Union (Recognition of Professional Qualifications) Regulations 2017* (S.I. No. 8 of 2017), reg. 91(g), in operation as per reg. 2.
+>
+> **Editorial Notes:**
+>
+> E82: Power pursuant to para. 15 exercised (10.03.2016) by *Pharmaceutical Society of Ireland Superannuation Scheme 2016* (S.I. No. 136 of 2016), in operation as per art. 1(2).
+>
+> E83: Fees prescribed pursuant to para. 20(1) (1.09.2014) by *Pharmaceutical Society of Ireland (Fees) Rules 2014* (S.I. No. 378 of 2014), rl. 4 and sch., in operation as per rl. 2.
+>
+> E84: Any defined benefit scheme established under para. 15 is excluded from *Pensions Act 1990* (25/1990), Part III by *Occupational Pension Scheme (Preservation of Benefits) Regulations 2002* (S.I. No. 279 of 2002), reg. 11 and sch. as substituted (26.02.2009) by *Occupational Pension Schemes (Preservation of Benefits) (Amendment) Regulations 2009* (S.I. No. 70 of 2009), reg. 2.
+>
+> E85: Additional responsibilities and duties conferred on Registrar for the probity, integrity, efficiency and cost-effectiveness of the financial management of the affairs of the Society, in so far as it is not inconsistent with para. 16 (29.11.2008) by *Pharmaceutical Society of Ireland (Council) Rules 2008* (S.I. No. 492 of 2008), rl. 26(2), in operation as per rl. 2.
+>
+> E86: Obligation imposed on Registrar to prepare the annual report referred to in para. 17 (29.11.2008) by *Pharmaceutical Society of Ireland (Council) Rules 2008* (S.I. No. 492 of 2008), rule 28, in operation as per rule 2.
+>
+> E87: Obligation imposed on Registrar to ensure that the governance responsibilities conferred upon the Society by schedule are complied with (29.11.2008) by *Pharmaceutical Society of Ireland (Council) Rules 2008* (S.I. No. 492 of 2008), rl. 29, in operation as per rl. 2.
+>
+> E88: Previous affecting provision: fees prescribed pursuant to para. 20(1) (29.11.2008 and 1.06.2009) by *Pharmaceutical Society of Ireland (Fees) Rules 2008* (S.I. No. 496 of 2008), in operation as per reg. 2; amended (2.06.2010) by *Pharmaceutical Society of Ireland (Fees) Amendment Rules 2010* (S.I. No. 257 of 2010); revoked (1.09.2014) by *Pharmaceutical Society of Ireland (Fees) Rules 2014* (S.I. No. 378 of 2014), rl. 6, in operation as per rl. 2.
+
+## SCHEDULE 2 — Recognition of Professional Qualifications in Pharmacy
+
+1\. F116[...]
+
+2\. F116[...]
+
+3\. F116[...]
+
+4\. F116[...]
+
+5\. F116[...]
+
+6\. In registering a person under *section 14* as read with *section 16(2)(b)*—
+
+(*a*) the Council may impose a condition requiring the person, when professing or otherwise using any academic title, status or other qualification specified in the condition, being a title, status or qualification that is relevant to the person’s registration, to indicate by whom it was conferred or awarded,
+
+(*b*) the Council, if of the opinion that any such title, status or qualification that is so relevant is capable of being understood as indicating that the person has pursued a programme of education other than that which he or she pursued, may impose a condition requiring the person, when professing or otherwise using the title, status or qualification, to do so in a manner specified in the condition or otherwise directed by the Council.
+
+7\. If a person does not comply with a condition imposed under *paragraph 6*, the Council may, without more—
+
+(*a*) suspend the registration of the person for a specified period, or
+
+(*b*) cancel the person’s registration,
+
+as if under *section 45*.
+
+8\. *Sections 49* to *52* shall apply in respect of a condition or sanction imposed under this Schedule as they apply in respect of one imposed under *Part 6*.
+
+9\. In considering an application for registration under *section 14* as read with *section 16(2)(b)*, the Council shall take into account any relevant training undergone or experience gained in a third country.
+
+10\. F116[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F116: Deleted (17.01.2017) by *European Union (Recognition of Professional Qualifications) Regulations 2017* (S.I. No. 8 of 2017), reg. 91(h), in operation as per reg. 2.
+>
+> **Editorial Notes:**
+>
+> E89: Previous affecting provision: paras. 1 to 5 substituted (29.11.2008) by *European Communities (Recognition of Professional Qualifications relating to the Profession of Pharmacist) (No 2) Regulations 2008* (S.I. No. 489 of 2008), reg. 10, in operation as per reg. 2; deleted as per F-note above.
+
+## SCHEDULE 3 — Certificate stating results of test, examination or analysis
+
+This certificate is issued by me, the undersigned, for the purpose of *section 69* of the *Pharmacy Act 2007*, being—
+
+1................................................................
+
+I hereby certify that I received, on the day of
+
+, from 2.
+
+..
+
+of
+
+a sample of the relevant thing/the relevant thing*,
+
+being 3.
+
+for test, examination or analysis; which
+
+was undamaged, duly sealed and marked 4..
+
+.
+
+I further certify that the said sample/relevant thing has been tested, examined or analysed by me or under my direction and that the results are as follows— 5..
+
+.
+
+.
+
+Signature
+
+Date
+
+Address.
+
+.
+
+.
+
+1\. Here insert official title of person signing the certificate.
+
+2\. Here insert the name of the authorised officer who submitted the sample of the relevant thing, or the relevant thing, as the case may be.
+
+3\. Here insert the name or description of the relevant thing.
+
+4\. Here insert distinguishing mark on the sample of the relevant thing, or the relevant thing, as the case may be, and the date shown on its container as the date of sampling, or the date on which the relevant thing was taken into possession, as the case may be.
+
+5\. Here insert the relevant results as appropriate.
+
+\* Delete whichever is inapplicable.
+
+## SCHEDULE 4 — Enactments Repealed
+
+| Session and chapter or year and number (1) | Short Title (2) | Extent of repeal (3) |
+|---|---|---|
+| 31 Geo. 3., c. 34 | Apothecaries’ Hall Act 1791 | Sections 22 to 31 |
+| 38 & 39 Vic., c. 57 | Pharmacy Act (Ireland) 1875 | The whole Act |
+| 53 & 54 Vic., c. 48 | Pharmacy Act, (Ireland) Amendment Act 1890 | The whole Act |
+| 8 Edw. 7., c. 55 | Poisons and Pharmacy Act 1908 | The whole Act |
+| 1951 No. 30 | Pharmacy Act 1951 | The whole Act |
+| 1962 No. 14 | Pharmacy Act 1962 | The whole Act |
+| 1977 No. 12 | Misuse of Drugs Act 1977 | Section 32 |
+
+[^1]: OJ No. L 119, 4.5.2016, p.1

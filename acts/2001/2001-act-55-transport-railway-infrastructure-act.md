@@ -1,0 +1,2504 @@
+---
+title: "Transport (Railway Infrastructure) Act, 2001"
+identifier: "eli/2001/act/55"
+type: act
+jurisdiction: ie
+language: en
+number: 55
+year: 2001
+date: 2001-12-23
+last_amended: 2026-06-03
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2001/act/55/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2001/act/55/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Transport (Railway Infrastructure) Act, 2001
+
+AN ACT TO MAKE FURTHER PROVISION IN RELATION TO TRANSPORT, TO ESTABLISH A BODY TO BE KNOWN AS THE RAILWAY PROCUREMENT AGENCY OR, IN THE IRISH LANGUAGE, AN GHNÍOMHAIREACHT UM FHÁIL IARNRÓD, AND TO DEFINE ITS FUNCTIONS, TO ENABLE THE MINISTER FOR PUBLIC ENTERPRISE TO AUTHORISE, BY ORDER, THE CONSTRUCTION, OPERATION AND MAINTENANCE OF RAILWAYS, TO PROVIDE FOR THE ON-STREET REGULATION OF LIGHT RAILWAYS, TO MAKE FURTHER PROVISION IN RELATION TO CÓRAS IOMPAIR ÉIREANN, TO REPEAL SECTIONS 2 TO 11 OF THE TRANSPORT ACT, 1963, AND THE TRANSPORT (DUBLIN LIGHT RAIL) ACT, 1996, AND TO PROVIDE FOR CONNECTED MATTERS. [23*rd December*, 2001]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C1: Application of Act restricted (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), reg. 42(22), sch. 2, in operation as per reg. 1(3).
+>
+> *Screening for Appropriate Assessment and Appropriate Assessment of implications for European Sites*
+>
+> **42.**
+>
+> ...
+>
+> (22) Notwithstanding any provision of any statute listed in the Second Schedule that provides for the consent for a plan or project to which this Regulation applies to be obtained by default on the failure of the public authority to provide a response within a specified timescale or otherwise, that provision shall not have effect in respect of any plan or project to which this Regulation applies.
+>
+> ...
+>
+> SECOND SCHEDULE
+>
+> <table><tr><td>Number</td><td>Year</td><td>Short Title/Citation</td></tr><tr><td>...<br>55</td><td>...<br>2001</td><td>...<br>Transport (Railway Infrastructure) Act, 2001<br>...</td></tr></table>
+>
+> C2: Application of Act restricted by *Planning and Development Act 2000* (30/2000), s. 177V(3), as inserted (21.09.2011) by *Planning and Development (Amendment) Act 2010* (30/2010), s. 57, S.I. No. 475 of 2011, art. 2(f), and as amended (21.09.2011) by *European Union (Environmental Impact Assessment and Habitats) Regulations 2011* (S.I. No. 473 of 2011), reg. 12(a).
+>
+> **[Appropriate assessment.**
+>
+> **177V**.— ...
+>
+> (3) Notwithstanding any other provision of this Act, or, as appropriate, the Act of 2001, or the Roads Acts 1993 to 2007 **[**and save as otherwise provided for in sections 177X, 177Y, 177AB and 177AC**]**, a competent authority shall make a Land use plan or give consent for proposed development only after having determined that the Land use plan or proposed development shall not adversely affect the integrity of a European site.
+>
+> ...**]**
+
+## PART 1 — Preliminary and General
+
+### 1. Short title.
+
+**1.**—This Act may be cited as the Transport (Railway Infrastructure) Act, 2001.
+
+### 2. Interpretation.
+
+**2.**—(1) In this Act—
+
+“Act of 1961” means Road Traffic Act, 1961;
+
+“Act of 1963” means Transport Act, 1963;
+
+“Act of 1993” means Roads Act, 1993;
+
+“Act of 1994” means Road Traffic Act, 1994;
+
+“Act of 1996” means Transport (Dublin Light Rail) Act, 1996;
+
+“Act of 2000” means Planning and Development Act, 2000;
+
+F1[“Act of 2024” means the Planning and Development Act 2024;]
+
+“Agency” means Railway Procurement Agency established under *section 9*;
+
+“applicant” in *Part 3*, means the Agency, CIÉ, or any other person applying for a railway order;
+
+“authorised person” means a person authorised as an authorised person under *section 36*;
+
+“CIÉ” means Córas Iompair Éireann;
+
+F2[“Commission” has the meaning assigned to it by the Act of 2024;]
+
+F3[“designated body” means an authority designated by the Minister under *section 39A*;]
+
+“driving” in relation to a light rail vehicle includes managing and controlling the vehicle, and “driver” and other cognate words shall be construed accordingly;
+
+F8[...]
+
+F4[“EIA Directive” means Directive No. 2011/92/EU of the European Parliament and of the Council of 13 December 2011[^1] on the assessment of the effects of certain public and private projects on the environment as amended by Directive 2014/52/EU of the European Parliament and of the Council of 16 April 2014[^2];]
+
+F5[“environmental impact assessment”,in relation to proposed railway works, means a process—
+
+(*a*) consisting of—
+
+(i) the preparation of an environmental impact assessment report by the applicant in accordance with *section 39*,
+
+(ii) the carrying out of consultation required by or under this Part,
+
+(iii) the examination by the Board of—
+
+(I) the information presented in the environmental impact assessment report,
+
+(II) any further information provided by the applicant under *section 41* and, where applicable, *section 47D*, and
+
+(III) any relevant information received through consultation under *section 40*, *section 41* and, where applicable, *section 47D*,
+
+(iv) the reaching of a reasoned conclusion by the Board in accordance with *section 42B* on the significant effects of the proposed railway works on the environment, taking into account the results of the examination referred to in *subparagraph (iii)* and, where appropriate, its own supplementary examination, and
+
+(v) the integration by the Board of its reasoned conclusion into its decision under *section 43*,
+
+and
+
+(*b*) including an examination, analysis and evaluation by the Board under *sections 42B* and *43* in order to identify, describe and assess, in the light of each individual case, the direct and indirect significant effects of the proposed railway works, including significant effects derived from the vulnerability of the activity to risks of major accidents and disasters relevant to it, on—
+
+(i) population and human health,
+
+(ii) biodiversity, with particular attention to species and habitats protected under Council Directive 92/43/EEC of 21 May 1992[^3] and Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009[^4],
+
+(iii) land, soil, water, air and climate,
+
+(iv) material assets, cultural heritage and the landscape, and
+
+(v) the interaction between the factors mentioned in *subparagraphs (i)* to *(iv)*;]
+
+F6[“environmental impact assessment report” shall be construed in accordance with *section 39(1)* and *(2)*;]
+
+“establishment day” means the day appointed by the Minister under *section 8* to be the establishment day for the purposes of *Part 2*;
+
+“functions” includes powers and duties and references to the performance of functions include, as respect powers and duties, references to the exercise of the powers and the carrying out of the duties;
+
+“land” has the meaning assigned to it by the Act of 2000;
+
+“light rail vehicle” means a vehicle with flanged wheels designed to run on a light railway;
+
+“light railway” means a railway designated as a light railway in a railway order issued under *section 43*;
+
+“local authority” has the meaning assigned to it by the Act of 1993;
+
+“metro” means a railway designated as a metro in a railway order issued under *section 43*;
+
+“Minister” means Minister for Public Enterprise;
+
+“planning authority” has the meaning assigned to it by the Act of 2000;
+
+F9[“prescribed” in Part 3, means prescribed by regulations made by the Minister for the Environment, Heritage and Local Government;]
+
+“public place” has the meaning assigned to it by the Act of 1961;
+
+“public road” has the meaning assigned to it by the Act of 1993;
+
+“railway” means a railway (whether above, on or under the ground) whose operation is authorised by a railway order;
+
+“railway infrastructure” means any land, buildings, structures, equipment, systems, vehicles, services or other thing used in connection with, or necessary or incidental to, the movement of passengers or freight by railway;
+
+“railway order” means an order under *section 43*;
+
+“railway undertaking” means any person who has been granted a railway order or another person with whom that person has made arrangements under F10[*section 43(5)*];
+
+“railway works” means any works required for the purposes of a railway or any part of a railway, including works ancillary to the purposes aforesaid such as parking by buses or by persons using vehicles who intend to complete their journey by railway, and relocation of utilities, and in this definition “works” includes any act or operation of construction, excavation, tunnelling, demolition, extension, alteration, reinstatement, reconstruction, making good, repair or renewal;
+
+“rights” in relation to a railway order includes rights which exist or which are proposed to be created in the order;
+
+“road” has the meaning assigned to it by the Act of 1993;
+
+“road authority” has the meaning assigned to it by the Act of 1993;
+
+“substratum of land” means any subsoil or anything beneath the surface of land required—
+
+(i) for the purposes of a tunnel or tunnelling or anything connected therewith, or
+
+(ii) for any other purpose connected with a railway order;
+
+“superannuation benefits” means pensions, gratuities and other allowances payable on resignation, retirement or death.
+
+(2) In this Act—
+
+(*a*) a reference to a section is a reference to a section of this Act, unless it is indicated that reference to some other enactment is intended,
+
+(*b*) a reference to a subsection, paragraph or subparagraph is a reference to the subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that reference to some other provision is intended,
+
+(*c*) a reference to an enactment shall be construed as a reference to that enactment as amended, adapted or extended by or under any subsequent enactment including this Act,
+
+(*d*) a reference to a statutory instrument shall be construed as a reference to that instrument as amended, adapted or extended by any subsequent statutory instrument.
+
+F7[(3) A word or expression that is used in this section or in *Part 3* and that is also used in the EIA Directive has the same meaning as it has in that Directive.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1, F2: Inserted (18.06.2025) by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 19, S.I. No. 256 of 2025.
+>
+> F3, F4, F5, F6, F7: Inserted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), reg. 3(a)(i), (ii), (b).
+>
+> F8: Deleted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), reg. 3(a)(i).
+>
+> F9: Inserted (31.01.2007) by *Planning and Development (Strategic Infrastructure) Act 2006* (27/2006), s. 49(a)(ii), S.I. No. 684 of 2006.
+>
+> F10: Substituted (31.01.2007) by *Planning and Development (Strategic Infrastructure) Act 2006* (27/2006), s. 49(a)(iii), S.I. No. 684 of 2006.
+>
+> F11, F12: Substituted by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 19, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C3: Prospective affecting provision: definitions of "land" and "planning authority" amended by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 19, not commenced as of date of revision.
+>
+> **2.**—...
+>
+> “land” has the meaning assigned to it by the F11[Act of 2024];
+>
+> ...
+>
+> “planning authority” has the meaning assigned to it by the F12[Act of 2024];
+>
+> C4: Functions and references to “Railway Procurement Agency” construed as “National Roads Authority” (1.08.2015) by *Roads Act 2015* (14/2015), s. 5, S.I. No. 298 of 2015.
+>
+> **Transfer of functions of dissolved body to Authority**
+>
+> **7.** —(1) On the dissolution day, all functions that, immediately before the dissolution day, were vested in the dissolved body are transferred to the Authority.
+>
+> (2) References—
+>
+> (*a*) to the dissolved body, in any enactment (other than this Act or an enactment mentioned in the Schedule) or any instrument made under an enactment, in so far as they relate to a function transferred by subsection (1), or
+>
+> (*b*) to a person that has been granted a railway order, in any enactment or in any instrument made under an enactment, in the case of a railway order granted to the dissolved body before the dissolution day,
+>
+> shall be construed, on and after the dissolution day, as references to the Authority.
+>
+> **Editorial Notes:**
+>
+> E1: Previous affecting provision: definition of "environmental impact statement" amended (31.01.2007) by *Planning and Development (Strategic Infrastructure) Act 2006* (27/2006), s. 49(*a*)(i), S.I. No. 684 of 2006; deleted (20.12.2021) as per F-note above.
+
+### 3. Repeals.
+
+**3.**—The following are repealed—
+
+(*a*) sections 2 to 11 of the Act of 1963, and
+
+(*b*) the Act of 1996.
+
+### 4. Continuation of orders made under Act of 1963 and Act of 1996.
+
+**4.**—(1) Any order made under the Act of 1963 or the Act of 1996 which is in force immediately before the repeal of those Acts shall continue in force as if made under this Act and *subsections (6)* to *(11)* of *section 43* shall apply to such orders and references in those orders made under the Act of 1996 to the Board shall be construed as references to the Agency.
+
+(2) For the avoidance of any doubt, any orders made under the Act of 1996 include the power to operate the railway in question.
+
+(3) Notwithstanding the repeal of sections 2 to 11 of the Act of 1963, where an application for a railway works order has been made and not determined immediately before the repeal of those sections, then those sections continue to apply to the application until its determination.
+
+### 5. Laying of orders and regulations before Houses of Oireachtas.
+
+**5.**—Every order (other than an order under *section 8*) or regulation made by the Minister under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made, and if a resolution annulling the order or regulation is passed by either such House within the next 21 days on which that House has sat after the order or regulation is laid before it, the order or regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+### 6. Offences by bodies corporate.
+
+**6.**—Where an offence under this Act has been committed by a body corporate and is proved to have been committed with the consent or connivance of or to be attributable to any neglect or default on the part of a person being a director, manager, secretary or other officer of the body corporate, or a person who was purporting to act in any such capacity, that person as well as the body corporate is guilty of an offence and shall be liable to be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
+
+### 7. Expenses.
+
+**7.**—The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be authorised by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## PART 2 — Railway Procurement Agency
+
+### 8. Establishment day.
+
+**8.**—F13[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F13: Repealed (1.08.2015, dissolution day) by *Roads Act 2015* (14/2015), s. 5, S.I. No. 298 of 2015.
+>
+> **Editorial Notes:**
+>
+> E2: Previous affecting provision: power pursuant to section exercised (28.12.2001) by *Transport (Railway Infrastructure) Act 2001 (Part 2) (Establishment Day) Order 2001* (S.I. No. 649 of 2001); section repealed (1.08.2015) as per F-note above.
+
+### 9. Establishment of Agency.
+
+**9.**—F14[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F14: Repealed (1.08.2015, dissolution day) by *Roads Act 2015* (14/2015), s. 5, S.I. No. 298 of 2015.
+>
+> **Editorial Notes:**
+>
+> E3: Previous affecting provision: subs. (4) deleted (1.08.2008) by *Dublin Transport Authority Act 2008* (15/2008), s. 115(1), S.I. No. 291 of 2008; section repealed (1.08.2015) as per F-note above.
+
+### 10. Seal of Agency.
+
+**10.**—F15[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F15: Repealed (1.08.2015, dissolution day) by *Roads Act 2015* (14/2015), s. 5, S.I. No. 298 of 2015.
+
+### 11. Functions of Agency.
+
+**11.**—(1) The Agency shall have the following functions:
+
+(*a*) to secure the provision of, or to provide, such light railway and metro railway infrastructure as may be determined from time to time by the Minister;
+
+(*b*) F16[...]
+
+(*c*) to enter into agreements with other persons in order to secure the provision of such railway infrastructure whether by means of a concession, joint venture, public private partnership or any other means; and
+
+(*d*) to acquire and facilitate the development of land adjacent to any railway works subject to an application for a railway order under this Act where such acquisition and development contributes to the economic viability of the said railway works.
+
+(2) The Minister may, with the consent of the Minister for Finance, by order confer on the Agency such additional functions in relation to public transport by rail or road as, from time to time, he or she considers appropriate.
+
+(3) The Agency may exploit commercial opportunities arising from its functions.
+
+(4) The exploitation of such commercial opportunities may be carried out by a railway undertaking on behalf of the Agency.
+
+(5) The Agency may receive income (including any amount, right, interest, benefit or profit) arising from, or make payments (or otherwise provide consideration) in respect of functions referred to in *subsections (1)* and *(3)* or such additional functions assigned to it under *subsection (2)*.
+
+(6) Where the Agency enters into an agreement with a person and in connection with the agreement another person makes a financial loan to, or provides any other form of finance for, a party to the agreement, the Agency shall be deemed to have the power to enter into an arrangement with that other person.
+
+(7) The Agency may only act as the operator of a railway where authorised by the Minister by order.
+
+(8) The Minister may, by order, amend or revoke an order under this section (including an order under this subsection).
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F16: Repealed (1.05.2006) by *Railway Safety Act 2005* (31/2005), s. 5 and sch. 1, S.I. No. 215 of 2006, art. 3.
+>
+> F17: Inserted by *Dublin Transport Authority Act 2008* (15/2008), s. 115(2), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C5: Prospective affecting provision: subs. (1)(*a*) amended by *Dublin Transport Authority Act 2008* (15/2008), s. 115(2), not commenced as of date of revision.
+>
+> **11.**—(1) The Agency shall have the following functions:
+>
+> (*a*) to secure the provision of, or to provide, such light railway and metro railway infrastructure as may be determined from time to time by the Minister F17[or, in the case of such railway infrastructure within its functional area, by the Dublin Transport Authority];
+>
+> ...
+>
+> C6: Additional functions conferred (31.05.2012) by *Railway Procurement Agency (Conferral of Additional Functions) Order 2012* (S.I. No. 200 of 2012), art. 2.
+>
+> 2\. The Railway Procurement Agency shall have the function of entering into agreements with other persons to provide those persons with consulting services (including the services of members of the staff of the Agency) in relation to light railway and metro infrastructure.
+>
+> C7: Additional functions conferred (20.09.2011) by *Transport (Railway Infrastructure) Act 2001 (Additional Functions) (Public Transport by Road) Order 2011* (S.I. No. 470 of 2011), art. 3.
+>
+> 3\. The Railway Procurement Agency shall have the following additional functions:
+>
+> (*a*) to enter into agreements with the National Transport Authority in relation to the development of one or more bus rapid transit systems;
+>
+> (*b*) to secure the provision of, or to provide, public transport infrastructure as required in the performance of an agreement referred to in paragraph (*a*);
+>
+> (*c*) to enter into agreements with other persons in order to secure the provision of public transport infrastructure as required in the performance of an agreement referred to in paragraph (*a*) whether by means of a concession, joint venture, public private partnership or any other means.
+>
+> C8: Functions under subs. (2) transferred and references to Minister for **Finance** construed as Minister for **Public Expenditure and Reform** (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in operation as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 55 of 2001</td><td>Transport (Railway Infrastructure) Act 2001</td><td>Sections 11(2), 12, 14, 17, 32 and 71</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> The history of the Ministers concerned with Finance aspects of the Act can be traced as follows:
+>
+> • Functions transferred and title of Minister for **Finance** changed to **Public Expenditure and Reform** (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2025);
+>
+> • Title of Minister for **Public Expenditure and Reform** changed to **Public Expenditure, National Development Plan Delivery and Reform** (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in operation as per art. 1(2);
+>
+> • Title of Minister for **Public Expenditure, National Development Plan Delivery and Reform** changed to **Public Expenditure, Infrastructure, Public Service Reform and Digitalisation** (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025).
+>
+> **Editorial Notes:**
+>
+> E4: Power pursuant to subs. (2) exercised (31.05.2012) by *Railway Procurement Agency (Conferral of Additional Functions) Order 2012* (S.I. No. 200 of 2012).
+>
+> E5: Power pursuant to subs. (2) exercised (20.09.2011) by *Transport (Railway Infrastructure) Act 2001 (Additional Functions) (Public Transport by Road) Order 2011* (S.I. No. 470 of 2011).
+>
+> E6: Previous affecting provision: power pursuant to subs. (2) and additional functions conferred (7.03.2002) by *Transport (Railway Infrastructure) Act 2001 (Additional Functions) (Integrated Ticketing) Order 2002* (S.I. No. 84 of 2002); revoked (30.09.2010) by *Dublin Transport Authority Act 2008* (15/2008), s. 58(11), S.I. No. 468 of 2010.
+
+### 12. Subsidiaries, investments, joint ventures, etc.
+
+**12.**—(1) Such functions of the Agency as it may determine may be performed by a subsidiary and, accordingly, the Agency may, with the consent of the Minister and the Minister for Finance, for the purpose of such performance, acquire or form and establish one or more subsidiaries.
+
+(2) The Agency or a subsidiary may, either by itself or with another person, with the consent of the Minister and the Minister for Finance, promote and take part in the formation or establishment of a company (within the meaning of the Companies Acts, 1963 to 2001), enter into joint ventures or partnerships for the purpose of fulfilling any of its functions.
+
+(3) The Agency may, with the consent of the Minister and the Minister for Finance, acquire, hold and dispose of shares or other interests in a company and become a member of a company.
+
+(4) The memorandum and articles of association of a subsidiary shall be in such form consistent with this Act as may be determined by the Agency with the consent of the Minister and the Minister for Finance.
+
+(5) The Minister may give a direction in writing to the Agency on any matter relating to a subsidiary and the Agency shall comply or, as may be appropriate, secure compliance with the direction.
+
+(6) A direction under this section in relation to the disposal of any assets or surpluses of a subsidiary shall not be given without the consent of the Minister for Finance.
+
+(7) In this section “subsidiary” means a subsidiary (within the meaning of section 155 of the Companies Act, 1963) of the Agency.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C9: Functions under subs. (2) transferred and references to Minister for **Finance** construed as Minister for **Public Expenditure and Reform** (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in operation as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 55 of 2001</td><td>Transport (Railway Infrastructure) Act 2001</td><td>Sections 11(2), 12, 14, 17, 32 and 71</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> The history of the Ministers concerned with Finance aspects of the Act can be traced as follows:
+>
+> • Functions transferred and title of Minister for **Finance** changed to **Public Expenditure and Reform** (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2025);
+>
+> • Title of Minister for **Public Expenditure and Reform** changed to **Public Expenditure, National Development Plan Delivery and Reform** (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in operation as per art. 1(2);
+>
+> • Title of Minister for **Public Expenditure, National Development Plan Delivery and Reform** changed to **Public Expenditure, Infrastructure, Public Service Reform and Digitalisation** (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025).
+
+### 13. Charges for services.
+
+**13.**—(1) The Agency may make such charges F18[(including fares)] as it considers appropriate in consideration of the performance of its functions, the provision by it of services and the carrying on by it of activities and shall record receipts from such charges as income.
+
+(2) The Agency may recover, as a simple contract debt in any court of competent jurisdiction, from the person by whom it is payable any amount due and owing to it under the above.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F18: Inserted (1.08.2008) by *Dublin Transport Authority Act 2008* (15/2008), s. 115(3), S.I. No. 291 of 2008.
+
+### 14. Gifts.
+
+**14.**—F19[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F19: Repealed (1.08.2015, dissolution day) by *Roads Act 2015* (14/2015), s. 5, S.I. No. 298 of 2015.
+>
+> **Editorial Notes:**
+>
+> E7: Previous affecting provision: functions transferred and references Minister for **Finance** construed as Minister for **Public Expenditure and Reform** (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in operation as per art. 1(2), subject to transitional provisions in arts. 6-9; section repealed (1.08.2015) as per F-note above.
+>
+> E8: Previous affecting provision: functions under section transferred (6.07.2011, appointed day) by *Ministers and Secretaries (Amendment) Act 2011* (10/2011), ss. 9(1), (2), 20(1) and sch. 2 part 1, in operation as per s. 1(2) and S.I. No. 401 of 2011; section repealed (1.08.2015) as per F-note above.
+
+### 15. Borrowings by Agency.
+
+**15.**—F20[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F20: Repealed (1.08.2015, dissolution day) by *Roads Act 2015* (14/2015), s. 5, S.I. No. 298 of 2015.
+>
+> **Editorial Notes:**
+>
+> E9: Previous affecting provision: functions transferred and references Minister for **Finance** construed as Minister for **Public Expenditure and Reform** (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in operation as per art. 1(2), subject to transitional provisions in arts. 6-9; section repealed (1.08.2015) as per F-note above.
+
+### 16. Guarantee by Minister for Finance of borrowing by Agency.
+
+**16.**—F21[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F21: Repealed (1.08.2015, dissolution day) by *Roads Act 2015* (14/2015), s. 5, S.I. No. 298 of 2015.
+
+### 17. Advances by Minister to Agency.
+
+**17.**—F22[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F22: Repealed (1.08.2015, dissolution day) by *Roads Act 2015* (14/2015), s. 5, S.I. No. 298 of 2015.
+>
+> **Editorial Notes:**
+>
+> E10: Previous affecting provision: functions transferred and references Minister for **Finance** construed as Minister for **Public Expenditure and Reform** (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in operation as per art. 1(2), subject to transitional provisions in arts. 6-9; section repealed (1.08.2015) as per F-note above.
+
+### 18. Reports and information to Minister.
+
+**18.**—F23[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F23: Repealed (1.08.2015, dissolution day) by *Roads Act 2015* (14/2015), s. 5, S.I. No. 298 of 2015.
+
+### 19. Accounts and audits.
+
+**19.**—F24[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F24: Repealed (1.08.2015, dissolution day) by *Roads Act 2015* (14/2015), s. 5, S.I. No. 298 of 2015.
+
+### 20. Membership of Agency.
+
+**20.**—F25[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F25: Repealed (1.08.2015, dissolution day) by *Roads Act 2015* (14/2015), s. 5, S.I. No. 298 of 2015.
+>
+> **Editorial Notes:**
+>
+> E11: Previous affecting provision: subs. (12) substituted (1.08.2008) by *Dublin Transport Authority Act 2008* (15/2008), s. 115(4), S.I. No. 291 of 2008; section repealed (1.08.2015) as per F-note above.
+
+### 21. Chairperson of Agency.
+
+**21.**—F26[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F26: Repealed (1.08.2015, dissolution day) by *Roads Act 2015* (14/2015), s. 5, S.I. No. 298 of 2015.
+
+### 22. Meetings of Agency.
+
+**22.**—F27[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F27: Repealed (1.08.2015, dissolution day) by *Roads Act 2015* (14/2015), s. 5, S.I. No. 298 of 2015.
+
+### 23. Chief executive of Agency.
+
+**23.**—F28[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F28: Repealed (1.08.2015, dissolution day) by *Roads Act 2015* (14/2015), s. 5, S.I. No. 298 of 2015.
+
+### 24. Staff of Agency.
+
+**24.**—F29[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F29: Repealed (1.08.2015, dissolution day) by *Roads Act 2015* (14/2015), s. 5, S.I. No. 298 of 2015.
+
+### 25. Superannuation.
+
+**25.**—(1) The Agency shall prepare and submit to the Minister a scheme or schemes for the granting of superannuation benefits to or in respect of such members of the staff of the Agency as it may think fit.
+
+(2) Every such scheme shall fix the time and conditions of retirement for all persons to or in respect of whom superannuation benefits are payable under the scheme or schemes and different times and conditions may be fixed in respect of different classes of persons.
+
+(3) Every such scheme may be amended or revoked by a subsequent scheme prepared, submitted and approved under this section.
+
+(4) A scheme or an amending scheme submitted by the Agency under this section shall, if approved by the Minister with the consent of the Minister for Finance, be carried out by the Agency in accordance with its terms.
+
+(5) Superannuation benefits, and the terms and conditions relating to superannuation benefits, granted under schemes under this section to, or in respect of, persons who, immediately before the establishment day, were members of the staff of CIÉ shall not be less favourable than those which applied immediately before that day.
+
+(6) No superannuation benefit shall be granted by the Agency nor shall any other arrangements be entered into by the Agency for the provision of such a benefit to or in respect of a member of the staff of the Agency otherwise than in accordance with a scheme under this section or with the consent of the Minister and the Minister for Finance.
+
+F30[(7) Each scheme made under this section shall make provision for appeals.]
+
+(8) Where, in the period beginning on the establishment day and ending immediately before the commencement of a scheme under this section, a superannuation benefit falls due for payment to or in respect of a person who was transferred to the staff of the Agency under *section 24*, the benefit shall be calculated by the Agency in accordance with such scheme, or such enactments in relation to superannuation, as applied to the person immediately before the establishment day and, for that purpose, his or her pensionable service with the Agency shall be aggregated with his or her previous pensionable service and shall be paid by the Agency.
+
+(9) A scheme under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the scheme is passed by either such House within the next 21 days on which that House has sat after the scheme is laid before it, the scheme shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F30: Substituted (27.11.2009) by *Public Transport Regulation Act 2009* (37/2009), s. 42(1) and sch. 1 part 3, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E12: Power pursuant to section exercised (31.07.2018, deemed) by *Transport Infrastructure Ireland (RPA (2003) Plan) Superannuation Scheme 2018* (S.I. No. 271 of 2018), in operation as per reg. 3.
+>
+> E13: Power pursuant to section exercised (1.08.2015, deemed) by *Transport Infrastructure Ireland (RPA (2003) Plan) Superannuation (Amendment) Scheme 2017* (S.I. No. 42 of 2017), in operation as per reg. 3.
+
+### 26. Membership of either House of Oireachtas, European Parliament or local authority.
+
+**26.**—F31[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F31: Repealed (1.08.2015, dissolution day) by *Roads Act 2015* (14/2015), s. 5, S.I. No. 298 of 2015.
+
+### 27. Code of conduct.
+
+**27.**—F32[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F32: Repealed (1.08.2015, dissolution day) by *Roads Act 2015* (14/2015), s. 5, S.I. No. 298 of 2015.
+
+### 28. Declaration of interests.
+
+**28.**—F33[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F33: Repealed (1.08.2008) by *Dublin Transport Authority Act 2008* (15/2008), s. 115(5), S.I. No. 291 of 2008.
+
+### 29. Disclosure of interests.
+
+**29.**—F34[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F34: Repealed (1.08.2015, dissolution day) by *Roads Act 2015* (14/2015), s. 5, S.I. No. 298 of 2015.
+>
+> **Editorial Notes:**
+>
+> E14: Previous affecting provision: subs. (2) amended (1.01.2010) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97 and sch. part 1, S.I. No. 648 of 2010; section repealed (1.08.2015) as per F-note above.
+
+### 30. Prohibition on unauthorised disclosure of confidential information.
+
+**30.**—F35[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F35: Repealed (1.08.2008, dissolution day) by *Dublin Transport Authority Act 2008* (15/2008), s. 115(5), S.I. No. 291 of 2008.
+
+### 31. Prohibition on certain communications.
+
+**31.**—F36[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F36: Repealed (1.08.2008, dissolution day) by *Dublin Transport Authority Act 2008* (15/2008), s. 115(5), S.I. No. 291 of 2008.
+
+### 32. Power of Minister to issue directions and guidelines to Agency.
+
+**32.**—F37[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F37: Repealed (1.08.2008, dissolution day) by *Dublin Transport Authority Act 2008* (15/2008), s. 115(5), S.I. No. 291 of 2008.
+>
+> **Editorial Notes:**
+>
+> E15: Previous affecting provision: functions transferred and references Minister for **Finance** construed as Minister for **Public Expenditure and Reform** (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in operation as per art. 1(2), subject to transitional provisions in arts. 6-9; section repealed (1.08.2015) as per F-note above.
+
+### 33. Transfer of property.
+
+**33.**—F38[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F38: Repealed (1.08.2008, dissolution day) by *Dublin Transport Authority Act 2008* (15/2008), s. 115(5), S.I. No. 291 of 2008.
+
+### 34. Transfer of rights and liabilities.
+
+**34.**—F39[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F39: Repealed (1.08.2008, dissolution day) by *Dublin Transport Authority Act 2008* (15/2008), s. 115(5), S.I. No. 291 of 2008.
+
+### 35. Continuance of pending legal proceedings.
+
+**35.**—F40[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F40: Repealed (1.08.2008) by *Dublin Transport Authority Act 2008* (15/2008), s. 115(5), S.I. No. 291 of 2008.
+
+## PART 3 — Railway Orders
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C10: Functions of the Agency or a Railway Undertaking applied with modifications and references in Part construed (1.12.2009) by *Dublin Transport Authority Act 2008* (15/2008), s. 46(1), S.I. No. 458 of 2009.
+>
+> **Railway orders.**
+>
+> **46.**—(1) Where the Authority decides in accordance with section 44 to provide railway infrastructure, it shall for the purpose of so doing have all the powers and duties of the RPA or a railway undertaking, as the case may be, as contained in Part 3 of the Act of 2001 and a reference in that Part to the Agency or a railway undertaking shall be deemed to be a reference to the Authority.
+>
+> ...
+
+### 36. Surveys and inspections.
+
+**36.**—(1) The Agency or CIÉ may authorise in writing persons to be authorised persons for the purposes of this Part.
+
+(2) An authorised person may, on production of his or her authorisation together with an appropriate form of identification if so requested by any person affected, for the purposes of this Part enter on any land and—
+
+(*a*) inspect and survey the land and make any inquiry, investigation or examination for the purpose of ascertaining whether or not the land is suitable for the purposes of the construction of a railway,
+
+(*b*) carry out any investigation or examination thereon preliminary or incidental to the purposes aforesaid,
+
+(*c*) bring thereon such other persons or equipment as he or she may reasonably consider necessary for the purposes of his or her functions under this section,
+
+(*d*) line sight, drill, bore, probe or excavate, or take such samples and carry out such tests as he or she reasonably considers necessary or expedient for the purposes of such functions,
+
+(*e*) if authorised by the Agency, inspect and survey the land and make any inquiry, investigation or examination for the purpose of ascertaining whether or not the land is suitable for the purposes of fulfilling any of the related functions of the Agency.
+
+(3) An authorised person shall not, other than with the consent of the occupier, enter a private dwelling unless he or she has obtained a warrant from the District Court under *subsection (4)* authorising such entry.
+
+(4) Where an authorised person is refused entry to any land, the Agency or CIÉ, as the case may be, may apply to a judge of the District Court assigned to the district court district in which the land is situated for a warrant authorising such entry, and upon the hearing of the application the judge shall, if satisfied that such entry is necessary or expedient, by warrant authorise such entry, on production of the warrant, if so requested.
+
+(5) Whenever an authorised person exercises any of the functions conferred on him or her by *subsection (2)*, the Agency or CIÉ, as the case may be, shall be liable to make good all damage done to the land entered upon or interfered with by the exercise of such functions and to pay compensation in respect of any loss arising out of or in the course of the performance of the functions of an authorised person under this section, and, if there is a failure to do so, any person affected by the damage or loss shall be entitled to compensation in respect thereof and such compensation shall be recoverable from the Agency or CIÉ, as the case may be, in default of agreement, in any court of competent jurisdiction.
+
+### 37. Application for a railway order.
+
+F41[**37.**—F42[(1) An application may be made to An Bord Pleanála ("the Board") for a railway order by the Dublin Transport Authority ("DTA"), the Agency, CIÉ or another person. Where any part of the proposed railway works in the application is within the functional area of the DTA the applicant (not being the DTA) must have obtained the prior written consent of the DTA for the application.
+
+(2) An application under *subsection (1)* shall specify whether the application is in respect of a light railway, metro or otherwise.]
+
+(3) An application under *subsection (1)* shall be made in writing in such form as the Minister may specify and shall be accompanied by—
+
+(*a*) a draft of the proposed order,
+
+(*b*) a plan of the proposed railway works,
+
+(*c*) in the case of an application by the Agency or a person with the consent of the Agency, a plan of any proposed commercial development of land adjacent to the proposed railway works,
+
+(*d*) a book of reference to a plan required under this subsection (indicating the identity of the owners and of the occupiers of the lands described in the plan), and
+
+(*e*) F43[a report on] the likely effects on the environment (referred to subsequently in this Part as an "F44[environmental impact assessment report]") of the proposed railway works,
+
+and a draft plan and book of reference shall be in such form as the Minister may specify or in a form to the like effect.
+
+(4) The construction of railway works, the subject of an application for a railway order under this Part, shall not be undertaken unless the Board has granted an order under *section 43*.]
+
+F45[(5) An application under *subsection (1)* shall be accompanied by an electronic version of each of the documents referred to in *subsection (3)* including the application itself.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F41: Substituted (31.01.2007) by *Planning and Development (Strategic Infrastructure) Act 2006* (27/2006), s. 49(b), S.I. No. 684 of 2006.
+>
+> F42: Substituted (1.12.2009) by *Dublin Transport Authority Act 2008* (15/2008), s. 46(2), S.I. No. 458 of 2009.
+>
+> F43: Substituted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), reg. 5(a).
+>
+> F44: Substituted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), reg. 4.
+>
+> F45: Inserted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), reg. 5(b).
+
+### 38. Exempted development.
+
+F46[F47[**38.**—(1) Each of the following shall be exempted development for the purposes of the Act of 2000:
+
+(*a*) development consisting of the carrying out of railway works, including the use of the railway works or any part thereof for the purposes of the operation of a railway, authorised by the Board and specified in a railway order or of any incidental or temporary works connected with such development;
+
+(*b*) development consisting of the carrying out of railway works for the maintenance, improvement or repair of a railway that has been built pursuant to a railway order.]]
+
+(2) Part IV of the Act of 2000 does not apply and is deemed never to have applied to developments specified in *subsection (1)*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F46: Substituted (31.01.2007) by *Planning and Development (Strategic Infrastructure) Act 2006* (27/2006), s. 49(b), S.I. No. 684 of 2006.
+>
+> F47: Substituted (1.08.2008) by *Dublin Transport Authority Act 2008* (15/2008), s. 115(6), S.I. No. 291 of 2008.
+>
+> F48, F49: Inserted by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 19, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C11: Prospective affecting provision: subs. (1) amended, subs. (3) inserted by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 19, not commenced as of date of revision.
+>
+> **38.**—(1) Each of the following shall be exempted development for the purposes of F48[and the *Act of 2024*]:
+>
+> ...
+>
+> F49[(3) Part 10 of the Act of 2024 does not apply to developments specified in *subsection (1)*.]
+
+### 39. F51[Environmental Impact Assessment Report]
+
+F50[**39.**—F55[(1) The applicant shall ensure that an environmental impact assessment report—
+
+(*a*) is prepared by competent experts,
+
+(*b*) subject to *subsection (3)*, contains—
+
+(i) a description of the proposed railway works comprising information on the site, design, size and other relevant features of the proposed works,
+
+(ii) a description of the likely significant effects of the proposed railway works on the environment,
+
+(iii) the data required to identify and assess the main effects which the proposed railway works are likely to have on the environment,
+
+(iv) a description of any features of the proposed railway works, and of any measures envisaged, to avoid, prevent or reduce and, if possible, offset likely significant adverse effects on the environment,
+
+(v) a description of the reasonable alternatives studied by the applicant which are relevant to the proposed railway works and their specific characteristics, and an indication of the main reasons for the option chosen, taking into account the effects of the railway works on the environment, and
+
+(vi) a summary in non-technical language of the above information,
+
+and
+
+(*c*) takes into account the available results of other relevant assessments under European Union or national legislation with a view to avoiding duplication of assessments.]
+
+F56[(2) The applicant shall further ensure that an environmental impact assessment report, in addition to and by way of explanation or amplification of the specified information referred to in *subsection (1)*, contains any additional information specified in Annex IV to the EIA Directive relevant to the specific characteristics of the particular railway works, or type of railway works, proposed and to the environmental features likely to be affected.]
+
+(3) F57[(*a*) If a person, before applying to the Board for a railway order, so requests, the Board shall, after consulting the person and any designated body and taking into account the information provided by the person, in particular on the specific characteristics of the proposed railway works, including its location and technical capacity, and its likely impact on the environment, issue an opinion on the scope, and level of detail, of the information to be included by the person in the environmental impact assessment report in accordance with *subsections (1)* and *(2)*.]
+
+F59[(*aa*) Where the Board issues an opinion under *paragraph (a)* the applicant shall—
+
+(i) prepare the environmental impact assessment report referred to in *subsection (1)* based on that opinion, and
+
+(ii) include in the report the information that may reasonably be required for reaching a reasoned conclusion in accordance with *section 42B* on the significant effects of the proposed railway works on the environment, taking into account current knowledge and methods of assessment.]
+
+(*b*) The giving of a written opinion in accordance with this subsection shall not prejudice the exercise by the Board of its powers pursuant to this Act to require an applicant F58[to furnish it with specified additional information in relation to the likely effects] on the environment of the proposed railway works.
+
+F60[(3A) The Board shall ensure that it has, or has access as necessary to, sufficient expertise to examine the environmental impact assessment report.]
+
+(4) The European Communities (Environmental Impact Assessment) Regulations 1989 to 2005 and the Act of 2000 and any regulation made thereunder in relation to environmental impact assessment shall not apply to anything done under an order made under this Act.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F50: Substituted (31.01.2007) by *Planning and Development (Strategic Infrastructure) Act 2006* (27/2006), s. 49(*b*), S.I. No. 684 of 2006.
+>
+> F51, F52, F53, F54: Substituted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), reg. 4.
+>
+> F55, F56, F57, F58: Substituted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), reg. 6(a), (b), (c)(i), (iii).
+>
+> F59, F60: Inserted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), reg. 6(c)(ii), (d).
+>
+> F61: Substituted by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 19, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C12: Prospective affecting provision: subs. (4) amended by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 19, not commenced as of date of revision.
+>
+> **39.**—...
+>
+> (4) The European Communities (Environmental Impact Assessment) Regulations 1989 to 2005 F61[, the Act of 2000 and any regulation made thereunder in relation to environmental impact assessment and the Act of 2024 and any regulation made thereunder in relation to environmental impact assessment] shall not apply to anything done under an order made under this Act.
+>
+> **Editorial Notes:**
+>
+> E16: Power pursuant to section exercised (31.01.2007) by *Transport (Railway Infrastructure) Regulations 2007* (S.I. No. 24 of 2007), in operation as per reg. 1(b).
+
+### 39A. Designated bodies
+
+F62[**39A.**—The Minister for Transport shall designate, by notice published on the website of the Department of Transport, either in general terms or on a case-by-case basis, the authorities likely to be concerned by any proposed railway works by reason of their specific environmental responsibilities or local and regional competences.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F62: Inserted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), reg. 7.
+
+### 40. Publication of notice in relation to application for railway order.
+
+F63[**40.**—(1) Before an application is made for a railway order, the applicant shall—
+
+(*a*) deposit and keep deposited at such place or places, being a place or places which is or are easily accessible to the public, F64[and make available electronically in such manner,] as may be appointed by the Board, a copy of the draft order and all documents which will accompany the application, for not less than 6 weeks following the publication of the notice referred to in *paragraph (b)*,
+
+(*b*) publish a notice in one or more newspapers circulating in the area to which the order relates F65[and make available electronically in such manner as may be appointed by the Board]—
+
+F70[(i) indicating that an application will be made for an order and specifying the types of decision the Board may make under *section 43* in relation to the application,]
+
+F66[(ia) indicating that the proposed railway works covered by the draft order are subject to an environmental impact assessment procedure,]
+
+(ii) indicating the time and the place or places at which, and the period (which shall be F71[at least 6 weeks]) during which, a copy of the draft order and accompanying documents deposited F72[and made available electronically] under this section may be inspected,
+
+(iii) stating that F67[the Board is the competent authority responsible for taking the decision whether or not to grant the order, from which relevant information can be obtained and to which comments or questions can be submitted, and that] the Board will consider any submissions in relation to the proposed order or in relation to the likely effects on the environment of the proposed railway works which are submitted in writing to it by any person within the period referred to in *subparagraph (ii)*,
+
+F73[(iv) stating that the draft order and accompanying documents are available to be viewed electronically and at the places appointed by the Board under *paragraph (a)* and that a copy of, or extract from, the draft order and accompanying documents may be purchased on payment of a fee not exceeding the reasonable cost of making such copy or extract,]
+
+(v) stating, if it be the case, that the proposed railway works are likely to have significant effects on the environment in Northern Ireland,
+
+F74[(vi) stating that a person may question the validity of a decision of the Board by way of an application for judicial review, under Order 84 of the Rules of the Superior Courts (S.I. No. 15 of 1986) and
+
+(v) identifying where practical information on the review mechanism can be found.]
+
+(*c*) serve on the planning authority in whose functional area (or any part thereof) the proposed railway works are proposed to be carried out, on the Minister F68[, on any designated body] and on such other persons (if any) as the Board may direct a copy of the draft order and accompanying documents and the notice referred to in *paragraph (b)*,
+
+(*d*) serve a copy of the notice referred to in *paragraph (b)* together with relevant extracts from the documents referred to in *paragraph (a)* on every (if any) occupier and every (if any) owner of a land referred to in the draft order, and
+
+(*e*) in a case where—
+
+(i) the proposed railway works are likely to have significant effects on the environment in Northern Ireland, or
+
+(ii) the authority referred to subsequently in this paragraph requests that such a copy be so sent to it,
+
+send a copy of the F75[environmental impact assessment report] to the prescribed authority in Northern Ireland, together with a notice, in such form as may be prescribed, stating that an application for approval of the said works has been made and that submissions may be made in writing to the Board (during the period specified in the notice referred to in *subsection (1)(b)*) in relation to the likely effects on the environment of the said works.
+
+(2) Members of the public may inspect a copy of a draft railway order and accompanying documents deposited under this section free of charge at the times and during the period specified in the notice referred to in *subsection (1)(b)* and may purchase copies of or extracts from any of the documents aforesaid on payment of a fee to the applicant not exceeding the reasonable cost of making such copies or extracts as may be fixed by the applicant.
+
+(3) A person may, during the period specified in the notice referred to in *subsection (1)(b)*, make submissions in writing to the Board in relation to the proposed railway order or the likely effects on the environment of the proposed railway works.
+
+(4) Where the F76[environmental impact assessment report] and a notice referred to in *subsection (1)(e)* has been sent to the prescribed authority in Northern Ireland pursuant to that provision, the Agency, CIÉ, or the Board, in the case of any other applicant, as appropriate, shall enter into consultations with that authority regarding the potential effects on the environment of the proposed railway works and the measures envisaged to reduce or eliminate such effects.]
+
+F69[(5) The Board shall make an electronic version of the documents specified in *section 37(3)* and made available by the applicant under this section available electronically on the Board’s website.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F63: Substituted (31.01.2007) by *Planning and Development (Strategic Infrastructure) Act 2006* (27/2006), s. 49(b), S.I. No. 684 of 2006.
+>
+> F64, F65, F66, F67, F68, F69: Inserted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), regs. 8(a), (b)(i), (iii), (v), (c), (d).
+>
+> F70, F71, F72, F73: Substituted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), regs. 8(b)(ii), (iv), (vi).
+>
+> F74: Inserted (13.07.2010) by *European Communities (Public Participation) Regulations 2010* (S.I. No. 352 of 2010), reg. 13(1).
+>
+> F75, F76: Substituted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), reg. 4.
+>
+> **Editorial Notes:**
+>
+> E17: Power pursuant to section exercised (31.01.2007) by *Transport (Railway Infrastructure) Regulations 2007* (S.I. No. 24 of 2007), in operation as per reg. 1(b).
+>
+> E18: Previous affecting provision: subs. (1)(*b*)(iv) substituted (18.12.2005) by *Railway Safety Act 2005* (31/2005), s. 136, commenced on enactment; section substituted (31.01.2007) as per F-note above.
+
+### Notification to Minister for Housing, Planning and Local Government
+
+F77[**40A.**—As soon as practicable after receiving an application for a railway order, the Board shall send to the Minister for Housing, Planning and Local Government each of the following:
+
+(*a*) the name of the applicant together with a contact name, email address and phone number for correspondence;
+
+(*b*) a description of the location of the proposed railway works;
+
+(*c*) a description of the proposed railway works;
+
+(*d*) notice that the Board is the competent authority to which the application has been made;
+
+(*e*) a map of the location of the proposed railway works marked so as to identify clearly the land or structure to which the application relates;
+
+(*f*) an electronic version of the notice referred to in section 40;
+
+(*g*) notification of the location where information in electronic form that relates to the application is available on the Board’s website.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F77: Inserted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), reg. 9.
+
+### 41. Further information to Board.
+
+F78[**41.**—Where the Board is of the opinion that an F79[environmental impact assessment report] furnished under *section 37* does not comply with the provisions of section 39 or where it otherwise considers it necessary so to do, it shall require the applicant to furnish to it a document containing such further information in relation to the proposed railway F80[including any additional information specified in Annex IV to the EIA Directive which is directly relevant to reaching a reasoned conclusion on the significant effects of the proposed railway works on the environment] works as it may specify and the applicant shall comply with any such requirement within such period as the Board specifies.
+
+(2) (*a*) If the document furnished under *subsection (1)* contains significant data in relation to the likely effects on the environment of the proposed railway works, the Board shall require the applicant—
+
+(i) to deposit and keep deposited at the place or each of the places appointed by the Board F81[and make available electronically in such manner as may be appointed by the Board,], a copy of the aforesaid document,
+
+(ii) to publish in one or more newspapers circulating in the area to which the proposed railway order relates F82[and make available electronically in such manner as may be appointed by the Board] a notice stating that further information in relation to the likely effects on the environment of the proposed railway works has been furnished to the Board, that copies of the document containing the information will be available for inspection free of charge and for purchase by members of the public, at the place or each of the places appointed by the Board, at specified times during the period of not less than 3 weeks beginning on the day of publication of the notice and that submissions in relation to the further information may be made to the Board before the expiration of the said period, and
+
+(iii) to serve notice of the furnishing of the further information to the Board, together with relevant extracts from the document aforesaid, on any person on whom notice was served pursuant to *section 40(1)* and to indicate to the person concerned that submissions in relation to the further information may be made to the Board during the period of not less than 3 weeks beginning on the day on which the notice is sent to the person concerned by the applicant.
+
+(*b*) Copies of further information in respect of which notice is published pursuant to a requirement under *subsection (2)(a)(ii)* shall be made available for purchase by members of the public during the period specified in the notice referred to in that provision for such fee as the applicant may fix not exceeding the reasonable cost of making such copies.
+
+(3) Members of the public may inspect the further information deposited under this section free of charge at the times and during the period specified in the notice referred to in *subsection (2)(a)(ii)*.
+
+(4) A person may, during the period specified in the notice referred to in *paragraph (a)(ii)* or *(iii)*, as appropriate, of *subsection (2)*, make submissions in writing to the Board in relation to the further information deposited under this section.]
+
+F83[(5) Where the Board requires the applicant to publish a notice in accordance with *subsection (2)(a)* the applicant shall provide the Board with an electronic version of that notice.
+
+(6) The Board shall make an electronic version of—
+
+(*a*) the notice referred to in *subsection (5*),
+
+(*b*) the additional information referred to in *subsection (1)*, and
+
+(*c*) any submissions it receives in relation to the further information,
+
+available on the Board’s website.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F78: Substituted (31.01.2007) by *Planning and Development (Strategic Infrastructure) Act 2006* (27/2006), s. 49(b), S.I. No. 684 of 2006.
+>
+> F79: Substituted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), reg. 4.
+>
+> F80, F81, F82, F83: Inserted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), regs. 10(a), (b), (c).
+
+### 42. Oral hearings.
+
+F84[**42.**—(1) The Board may, at its absolute discretion, hold an oral hearing into an application for a railway order.
+
+(2) Sections 135, 143 and F85[...] of the Act of 2000 (as amended by the Planning and Development (Strategic Infrastructure) Act 2006) and F86[376 of the Act of 2024] shall apply and have effect in relation to an oral hearing referred to in *subsection (1)* and those sections shall be construed accordingly.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F84: Substituted (31.01.2007) by *Planning and Development (Strategic Infrastructure) Act 2006* (27/2006), s. 49(*b*), S.I. No. 684 of 2006.
+>
+> F85: Deleted (18.06.2025) by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 19, S.I. No. 256 of 2025, art. 3(3) and sch. part 3 item 1(b).
+>
+> F86: Substituted (18.06.2025) by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 19, S.I. No. 256 of 2025, art. 3(3) and sch. part 3 item 1(b). See C-note below for full amendment, partially commenced here.
+>
+> F87, F88: Substituted by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 19, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C13: Prospective affecting provision: subs. (2) amended by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 19, not fully commenced as of date of revision.
+>
+> F84[ ...
+>
+> (2) F87[Sections 370, 372], F86[376] and F88[380 of the Act of 2024] shall apply and have effect in relation to an oral hearing referred to in *subsection (1)* and those sections shall be construed accordingly.]
+
+### 42A. Coordinated assessments
+
+F89[**42A.**—In carrying out an environmental impact assessment in respect of an application made under *section 37* the Board shall, where appropriate, co-ordinate the assessment with any assessment under Council Directive 92/43/EEC of 21 May 1992[^5] or Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009[^6].]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F89: Inserted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), reg. 11.
+
+### Reasoned conclusion
+
+F90[**42B.**—Whenever an application is made under *section 37*, before deciding whether or not to grant the order to which the application relates, the Board shall—
+
+(*a*) duly take into account—
+
+(i) the environmental impact assessment report submitted under *section 37*, and any revised environmental impact assessment report submitted under *section 47D*,
+
+(ii) any additional information furnished to it under *section 41* and, where applicable, any information submitted on foot of a notice under *section 47D(4)*,
+
+(iii) any submissions or observation made in relation to the likely significant effects on the environment of the activity to which the application relates duly made to it—
+
+(I) under *section 40(3)* or *41(4)*, and not withdrawn, or
+
+(II) by an authority referred to in *section 40(1)(c)* or *(e)*,
+
+(III) on foot of a request under *section 47D(1)* or a notice under *section 47D(6)*.
+
+(*b*) consider any other evidence that it has obtained under this Part in relation to the likely significant effects on the environment of the activity to which the application relates, and
+
+(*c*) taking into account the results of the examination referred to in *paragraphs (a)* and *(b)*, reach a reasoned conclusion on the significant effects on the environment of the activity to which the application relates.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F90: Inserted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), reg. 11.
+
+### 43. F91[Railway order.
+
+**43.**—(1) Whenever an application is made under *section 37*, the Board shall, before deciding whether to grant the order to which the application relates, consider the following:
+
+(*a*) the application;
+
+(*b*) the draft order and documents that accompanied the application;
+
+(*c*) the report of any oral hearing held under *section 42* and the recommendations (if any) contained therein;
+
+(*d*) F92[...]
+
+(*e*) F93[...]
+
+(*f*) F94[...]
+
+(*g*) the likely consequences for proper planning and sustainable development in the area in which it is proposed to carry out the railway works and for the environment of such works; and
+
+(*h*) the matters referred to in section 143 (inserted by the Planning and Development (Strategic Infrastructure) Act 2006) of the Act of 2000.
+
+F95[(2) After considering the matters referred to in *subsection (1)*, having taken into account its reasoned conclusion under *section 42B(c)* and being satisfied that that reasoned conclusion remains up-to-date, the Board—
+
+(*a*) if it is of opinion that the application should be granted, shall make an order authorising the applicant to construct, maintain, improve and, subject to *section 11(7)* in the case of the Agency, operate the railway or the railway works specified in the order or any part thereof, in such manner and subject to such conditions (including conditions regarding monitoring measures, parameters to be monitored and the duration of monitoring), modifications, restrictions and requirements (and on such other terms) as the Board thinks proper and specifies in the order, or
+
+(*b*) if it is of opinion that the application should not be granted, refuse to make the order to which the application relates,
+
+and the Board shall furnish the applicant with a copy of the order or, as the case may be, the decision to refuse to grant the order.]
+
+F98[(2A) A railway order shall include—
+
+(*a*) the reasoned conclusion referred to in *section 42B*,
+
+(*b*) any environmental conditions, including conditions regarding monitoring measures, parameters to be monitored and the duration of monitoring, to which the authorisation is subject, and
+
+(*c*) a description of any features of the proposed railway works, or any measures envisaged, to avoid, prevent or reduce, or offset significant adverse effects on the environment.
+
+(2B) A decision to refuse to grant the order to which the application relates shall include the main reasons for the refusal.]
+
+F96[(3) As soon as may be after making a decision under *subsection (2)*, the Board shall—
+
+(*a*) publish in at least 2 newspapers circulating in the area to which the application for the order relates and in electronic form on the Board’s website, a notice stating—
+
+(i) that the Board has made or, as the case may be, refused to grant, the proposed railway order,
+
+(ii) the main reasons and considerations on which the decision to grant or refuse to grant the order is based, including—
+
+(I) information about the public participation process,
+
+(II) a summary of the results of the consultations and the information gathered pursuant to *section 40* (in particular, where a copy of the environmental impact assessment report was sent in accordance with *section 40(1)(e)*, the results of consultations and the information gathered under *section 40(4)*), *section 41* and, where applicable, *section 47D*, and,
+
+(III) a description of how the results referred to in *clause (II)* have been incorporated or otherwise addressed,
+
+(iii) where the railway order was subject to conditions (including conditions regarding monitoring measures, parameters to be monitored and the duration of monitoring), modifications, restrictions or requirements relating to the environment, particulars of those conditions, modifications, restrictions or requirements,
+
+(iv) that a copy of the railway order, or as the case may be the decision to refuse to grant the order, is available for inspection and purchase at a cost not exceeding the reasonable cost of making such copies during specified hours, at a specified place, for a specified period of time, and in electronic form on the Board’s website, and
+
+(v) that practical information regarding the judicial review procedures by which a person may seek to question the validity of a determination by the Board on a proposed railway order can be found on the Board’s website,
+
+(*b*) forward to each of the designated bodies a copy of the railway order or, as the case may be, the decision to refuse to grant the order under *subsection (2)(b)*,
+
+and
+
+(*c*) give notice to the prescribed authority in Northern Ireland of its decision in a case where a copy of the environmental statement has been sent to that authority in accordance with *section 40(1)(e)*.]
+
+(4) A railway order shall come into operation—
+
+(*a*) in case an application for leave to apply for judicial review of the order has not been made, upon the expiration of 8 weeks, and
+
+(*b*) in case such an application has been made and has not been withdrawn, in so far as it has not been declared invalid or quashed pursuant to that review, upon the final determination of the proceedings concerned or such other date as may be determined in those proceedings, and
+
+(*c*) in case such an application has been made and is withdrawn, upon the date of the withdrawal.
+
+(5) A person who has been granted a railway order may, with the consent of the Minister, make arrangements with another person to construct, maintain, improve or operate the railway or the railway works to which the order relates.
+
+(6) The Board may, if there is a failure or refusal to comply with a F97[condition, modification, restriction or requirement] specified in a railway order, revoke the order.
+
+(7) (*a*) Where the Board proposes to revoke an order under this section, it shall notify the railway undertaking in writing of its proposal and of the reasons for it.
+
+(*b*) The railway undertaking may, not later than 3 weeks from the date of the sending of the notification, make submissions in writing to the Board and the Board shall—
+
+(i) before deciding the matter, take into consideration any submissions duly made to it under this paragraph in relation to the proposal and not withdrawn, and
+
+(ii) notify the railway undertaking in writing of its decision and of the reasons for it.
+
+(8) A notification of a proposal of the Board under *subsection (7)* shall include a statement that the railway undertaking may make submissions to the Board not later than 3 weeks from the date of the sending of the notification and a notification of a decision of the Board under *subsection (7)* shall include a statement that the railway undertaking may appeal to the High Court under *subsection (9)* against the decision not later than 3 weeks from the date of the sending of the notification.
+
+(9) Notwithstanding *section 47(1)*, the railway undertaking may appeal to the High Court against a decision of the Board under *subsection (6)* not later than 3 weeks from the date of the sending of the notification of the decision under *subsection (7)* and that Court may, as it thinks proper, on the hearing of the appeal, confirm the decision of the Board or direct the Board to withdraw its decision and prohibit the making of the proposed order concerned.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F91: Substituted (31.01.2007) by *Planning and Development (Strategic Infrastructure) Act 2006* (27/2006), s. 49(b), S.I. No. 684 of 2006.
+>
+> F92, F93, F94: Deleted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), reg. 12(a).
+>
+> F95, F96, F97: Substituted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), reg. 12(b), (d), (e).
+>
+> F98: Inserted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), reg. 12(c).
+>
+> F99: Substituted by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 19, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C14: Prospective affecting provision: subs. (1)(h) amended by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 19, not commenced as of date of revision.
+>
+> (*h*) the matters referred to in F99[section 380 of the Act of 2024].
+>
+> **Editorial Notes:**
+>
+> E19: Power pursuant to section exercised (5.04.2007) by *Railway (Glounthaune to Midleton) Order 2007* (S.I. No. 145 of 2007).
+>
+> E20: Power pursuant to section exercised (31.01.2007) by *Transport (Railway Infrastructure) Regulations 2007* (S.I. No. 24 of 2007), in operation as per reg. 1(b).
+>
+> E21: Power pursuant to subs. 7(a) exercised (16.01.2007) by *Railway (Dublin Light Rail Line A - Tallaght to Abbey Street) (Amendment) Order 2007* (S.I. No. 15 of 2007).
+>
+> E22: Power pursuant to section exercised (18.12.2006) by *Railway (Dublin Light Rail Line C1 - Connolly to The Point) Order 2006* (S.I. No. 648 of 2006).
+>
+> E23: Power pursuant to section exercised (5.12.2006) by *Railway (Kildare Route Project) Order 2006* (S.I. No. 596 of 2006).
+>
+> E24: Power pursuant to section exercised (14.08.2006) by *Railway (Dublin Light Rail Line B1 - Sandyford Industrial Estate to Cherrywood) Order 2006* (S.I. No. 441 of 2006).
+>
+> E25: Power pursuant to subs. (7)(a) exercised (2.09.2004) by *Transport (Railway Infrastructure) Act 2001 (Line A - Tallaght To Abbey Street Light Railway) (Amendment) (No. 3) Order 2004* (S.I. No. 529 of 2004).
+>
+> E26: Power pursuant to section exercised (28.07.2004) by *Transport (Railway Infrastructure) Act 2001 (Kilkenny Diversion) Railway Order 2004* (S.I. No. 495 of 2004).
+>
+> E27: Power pursuant to subs. (7)(a) exercised (31.05.2004) by *Transport (Railway Infrastructure) Act 2001 (Line B - St. Stephen's Green To Sandyford Industrial Estate Light Railway) (Amendment) Order 2004* (S.I. No. 257 of 2004).
+>
+> E28: Power pursuant to subs. (7)(a) exercised (31.05.2004) by *Transport (Railway Infrastructure) Act 2001 (Line A -Tallaght To Abbey Street Light Railway) (Amendment) (No. 2) Order 2004* (S.I. No. 256 of 2004).
+>
+> E29: Power pursuant to subs. (7)(a) exercised (18.02.2004) by *Transport (Railway Infrastructure) Act 2001 (Line A - Tallaght To Abbey Street Light Railway) (Amendment) Order 2004* (S.I. No. 71 of 2004).
+>
+> E30: Previous affecting provision: subs. (3)(c) inserted (13.07.2010) by *European Communities (Public Participation) Regulations 2010* (S.I. No. 352 of 2010), reg. 13(2); subsection substituted (20.12.2021) as per F-note above.
+
+### 43A. Interpretation – sections 43B to 43F
+
+F100[**43A.**—In *sections 43B* to *43F*—
+
+"environmental condition", in relation to a railway order, means any condition, modification, restriction or requirement to which a railway order is subject that relates to—
+
+(*a*) features of the railway works or measures envisaged to avoid, prevent, reduce or offset significant adverse effects on the environment, or
+
+(*b*) the monitoring of significant adverse effects on the environment (including conditions regarding monitoring measures, parameters to be monitored and the duration of monitoring).]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F100: Inserted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), reg. 13.
+
+### 43B. Duty to notify, and to comply with modification and conditions of approval
+
+F101[**43B.**—(1) Where the Board makes a railway order, the person to whom the railway order is granted shall notify the Minister of any environmental conditions and each railway undertaking shall comply with such conditions.
+
+(2) A railway undertaking that fails to comply with this section shall be guilty of an offence and shall be liable—
+
+(*a*) on summary conviction, to a class A fine or to imprisonment for any term not exceeding 6 months or, at the discretion of the court, to both such fine and such imprisonment, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €500,000 or to imprisonment for a term not exceeding 3 years or, at the discretion of the court, to both such fine and such imprisonment.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F101: Inserted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), reg. 13. A class A fine means a fine not greater than 5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+### 43C. Minister to ensure compliance with modifications and conditions
+
+F102[**43C.**—Where the Minister receives a notification under *section 43B(1)* the Minister shall take all reasonable steps to ensure that each railway undertaking complies with the environmental conditions.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F102: Inserted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), reg. 13.
+
+### 43D. Power to request information regarding compliance with modification or condition
+
+F103[**43D.**—(1) Where the Minister has been notified of an environmental condition the Minister may request a railway undertaking to furnish, within a specified period, specified information in relation to the railway undertaking’s compliance with the environmental condition, and that railway undertaking shall comply with such a request.
+
+(2) A request under *subsection (1)* by the Minister may include a request for information relating to—
+
+(*a*) the number and location of places within an area at which monitoring is being carried out and the frequency of such monitoring,
+
+(*b*) the manner in which samples and measurements are taken and analyses are carried out,
+
+(*c*) the equipment being used for the purposes of taking such samples and measurements, or of carrying out such analyses, and
+
+(*d*) the results of any monitoring carried out.
+
+(3) A railway undertaking that fails to comply with a request under *subsection (1)* shall be guilty of an offence and shall be liable—
+
+(*a*) on summary conviction, to a class A fine or to imprisonment for any term not exceeding 6 months or, at the discretion of the court, to both such fine and such imprisonment, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €500,000 or to imprisonment for a term not exceeding 3 years or, at the discretion of the court, to both such fine and such imprisonment.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F103: Inserted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), reg. 13. A class A fine means a fine not greater than 5,000 as provided (4.01.2011) by Fines Act 2010 (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+### 43E. Power to carry out assessment of railway undertaking’s compliance with environmental condition
+
+F104[**43E.**—(1) Where the Minister has been notified of an environmental condition under *section 43B(1)* the Minister may, having notified a railway undertaking of his or her intention to do so, carry out an assessment of the railway undertaking’s compliance with the environmental condition.
+
+(2) During the course of an assessment under *subsection (1)* the railway undertaking shall comply with any request, made by the Minister for the purposes of that assessment, to—
+
+(*a*) furnish information, records or reports or the results of any monitoring by the railway undertaking in relation to the railway undertaking’s compliance with the environmental condition, or
+
+(*b*) afford to the Minister access to any land, premises or structure occupied by the railway undertaking, for the purposes of assessing the railway undertaking’s compliance with the environmental condition.
+
+(3) A railway undertaking that fails to comply with a request under *subsection (2)* shall be guilty of an offence and shall be liable—
+
+(*a*) on summary conviction, to a class A fine or to imprisonment for any term not exceeding 6 months or, at the discretion of the court, to both such fine and such imprisonment, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €500,000 or to imprisonment for a term not exceeding 3 years or, at the discretion of the court, to both such fine and such imprisonment.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F104: Inserted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), reg. 13. A class A fine means a fine not greater than 5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+### 43F. Power to direct action to ensure compliance with environmental condition
+
+F105[**43F.**—(1) The Minister having made a request under *section 43D*, or carried out an assessment under *section 43E*, and considered any information furnished to him or her, or that has otherwise come into his or her possession as a result of the request or assessment, may issue to the railway undertaking to whom the request was made the terms of a direction (in this section referred to as "the proposed direction") that the Minister proposes to issue to the railway undertaking, requiring the railway undertaking, within a specified period, to carry out, cause to be carried out, or arrange for, such action as the Minister considers necessary for the purposes of *section 43C* to ensure that that the railway undertaking complies with the environmental condition.
+
+(2) The proposed direction shall specify a period within which the railway undertaking may make observations to the Minister in relation to the proposal to make the direction (and the railway undertaking may make such observations within that period accordingly).
+
+(3) After the expiration of the period referred to in *subsection (2)* and having considered any observations made by the railway undertaking under that subsection, the Minister may confirm, with or without modification, or decide not to confirm the proposed direction and, in a case where the proposal is confirmed, the Minister shall accordingly issue to the railway undertaking the direction concerned and the railway undertaking shall comply with the direction within the period specified in the direction.
+
+(4) A railway undertaking that fails to comply with a direction under *subsection (3)* shall be guilty of an offence and shall be liable—
+
+(*a*) on summary conviction, to a class A fine or to imprisonment for any term not exceeding 6 months or, at the discretion of the court, to both such fine and such imprisonment, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €500,000 or to imprisonment for a term not exceeding 3 years or, at the discretion of the court, to both such fine and such imprisonment.
+
+(5) In imposing any penalty under *subsection (4)* the court shall, in particular, have regard to the risk or extent of damage to the environment and any remediation required arising from the act or omission constituting the offence.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F105: Inserted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), reg. 13. A class A fine means a fine not greater than 5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+### 44. Provisions in relation to railway order.
+
+F106[**44.**—(1) A railway order shall contain such provisions as the Board considers necessary or expedient for the purpose of the order.
+
+(2) Without prejudice to the generality of *subsection (1)*, a railway order may—
+
+(*a*) specify any land or any substratum of land, the acquisition of which is, in the opinion of the Board, necessary for giving effect to the order,
+
+F107[(*b*) specify any rights in, under or over land, water or any public road, the acquisition of which is, in the opinion of the Board, necessary for giving effect to the order,]
+
+(*c*) specify the manner in which the railway or the railway works or any part thereof to which the order relates are to be constructed,
+
+(*d*) fix the period within which the construction of the railway works is to be completed,
+
+(*e*) contain provisions as to the manner in which the railway works are to be operated and maintained,
+
+(*f*) without prejudice to *paragraph (g*), contain such provisions as the Board thinks proper for the protection of the public generally, of local communities and of any persons affected by the order,
+
+(*g*) contain provisions requiring—
+
+(i) the construction or the financing, in whole or in part, of the construction of a facility, or
+
+(ii) the provision or the financing, in whole or in part, of the provision of a service,
+
+in the area in which the railway works are to be constructed, being a facility or service that, in the opinion of the Board, would constitute a gain to the community,
+
+(*h*) provide for the determination by arbitration of any specified questions arising thereunder,
+
+(*i*) contain such provisions ancillary or incidental to any of the matters aforesaid as the Board considers necessary and proper.
+
+F108[(*j*) designate the railway to which the order relates as a light railway or as a metro.]
+
+(3) A provision of a railway order referred to in *subsection (2)(g)* shall not require such an amount of financial resources to be committed for the purposes of the provision being complied with as would substantially deprive the person in whose favour the order operates of the benefits likely to accrue from the making of the order.
+
+(4) F109[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F106: Substituted (31.01.2007) by *Planning and Development (Strategic Infrastructure) Act 2006* (27/2006), s. 49(b), S.I. No. 684 of 2006.
+>
+> F107: Substituted (1.08.2008) by *Dublin Transport Authority Act 2008* (15/2008), s. 115(7), S.I. No. 291 of 2008.
+>
+> F108: Inserted (27.11.2009) by *Public Transport Regulation Act 2009* (37/2009), s. 42(1) and sch. 1 part 3 item 2, commenced on enactment.
+>
+> F109: Deleted (27.11.2009) by *Public Transport Regulation Act 2009* (37/2009), s. 42(1) and sch. 1 part 3 item 2, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E31: Previous affecting provision: subs. 2(*b*) substituted (1.01.2008) by *Local Government (Roads Functions) Act 2007* (38/2007), s. 3, S.I. No. 793 of 2007; substituted (1.08.2008) as per F-note above.
+
+### 45. Compulsory acquisition of land.
+
+F110[**45.**—(1) Upon the commencement of a railway order, the Agency or CIÉ shall thereupon be authorised to acquire compulsorily any land or rights in, under or over land or any substratum of land specified in the order and, for that purpose, the railway order shall have effect as if it were a compulsory purchase order referred to in section 10(1) of the Local Government (No. 2) Act 1960 (inserted by section 86 of the Housing Act 1966), which has been duly made and confirmed and, accordingly, that section shall apply and have effect in relation to the order with the modifications that—
+
+(*a*) references to the local authority shall be construed as including references to the Agency or CIÉ as the case may be,
+
+(*b*) references to the Minister for the Environment, Heritage and Local Government shall be construed as references to the Board,
+
+(*c*) the reference in *subsection (4)(a)* to section 78 of the Housing Act 1966 shall be construed as including a reference to subsections (1), (4) and (5) of that section,
+
+F111[(*d*) the form of any vesting order as may be prescribed pursuant to section 82(1) of the Housing Act 1966, shall be the prescribed form of a vesting order to be used by the Agency or CIÉ,]
+
+and with any other necessary modifications.
+
+(2) Where the Agency or CIÉ proposes to acquire land pursuant to *subsection (1)* and, in the opinion of the Agency or CIÉ, as the case may be, it is more efficient and economical to acquire additional adjoining land, the Agency or CIÉ, as the case may be, may do so with the consent of the Minister and of any person having an interest in or right in, under or over the adjoining land notwithstanding the fact that the adjoining land is not specified in the railway order.
+
+(3) The Agency or CIÉ shall comply with any directions of the Minister in relation to land acquired by it pursuant to *subsection (1)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F110: Substituted (31.01.2007) by *Planning and Development (Strategic Infrastructure) Act 2006* (27/2006), s. 49(b), S.I. No. 684 of 2006.
+>
+> F111: Inserted (27.11.2009) by *Public Transport Regulation Act 2009* (37/2009), s. 42(1) and sch. 1 part 3 item 3, commenced on enactment.
+
+### 46. Notification of grant of railway order.
+
+F112[**46.**—As soon as may be after the making of a railway order, the railway undertaking shall—
+
+(*a*) deposit and keep deposited at the head office of the railway undertaking and at such other place as may be specified by the Board, during the period of 5 years following the opening for traffic of the railway, a copy of the order and the plan referred to therein and the aforesaid order and plan shall, while so deposited, be open to inspection by members of the public free of charge, at all reasonable times, and copies of or extracts from any of the documents aforesaid may be purchased on payment of a fee to the railway undertaking not exceeding the reasonable cost of making such copies or extracts, and
+
+(*b*) serve a copy of relevant extracts from the railway order and the plan referred to therein on every planning authority for the area (or any part thereof) to which the order relates and to every (if any) occupier and every (if any) owner of land referred to in the railway order.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F112: Substituted (31.01.2007) by *Planning and Development (Strategic Infrastructure) Act 2006* (27/2006), s. 49(b), S.I. No. 684 of 2006.
+
+### 46A. Alteration of railway order.
+
+F113[**46A**.— ...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F113: Inserted by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 19, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C15: Prospective affecting provision: section inserted by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 19, not commenced as of date of revision.
+>
+> F113[**46A.**—(1) A person who has been granted a railway order may request the Commission to alter the railway order.
+>
+> (2) A request under *subsection (1)* shall specify the particulars of the alteration and be accompanied by—
+>
+> (*a*) sufficient information to allow the Commission to assess the request, and
+>
+> (*b*) such documents or information as may be prescribed.
+>
+> (3) Subject to *subsection (4)*, the Commission shall by order make the alteration to the railway order where it is satisfied that the alteration is for one or more than one of the following purposes:
+>
+> (*a*) correcting a clerical error in the railway order;
+>
+> (*b*) facilitating the doing of a thing pursuant to the railway order, where the doing of that thing may reasonably be regarded as having been contemplated by a particular term of the railway order, or its terms as a whole, but was not expressly provided for in the railway order;
+>
+> (*c*) clarifying the terms of the railway order; or
+>
+> (*d*) facilitating the implementation or operation of the railway order.
+>
+> (4) The Commission shall not make an alteration where to do so would, in its opinion, result in a material alteration of the railway order.
+>
+> (5) Before the Commission decides, in relation to a request, whether to make an alteration under *subsection (3)* or whether an alteration is a material alteration referred to in *subsection (4)*, the Commission may invite submissions in relation to the matter to be made to it by any person it considers appropriate, and shall have regard to submissions made to it on foot of that invitation (if any) in making its decision.
+>
+> (6) An order under *subsection (3)* shall be considered to be a railway order under *section 43*.
+>
+> (7) The Commission shall, as soon as practicable after making the order under *subsection (3)*, notify the person who made the request and each planning authority in whose functional area the railway works the subject of the order are situated or proposed to be situated of the order.
+>
+> (8) Where the Commission is not satisfied that the alteration requested under *subsection (1)* is for a purpose referred to in *subsection (3)*, or is of the opinion that it is a material alteration referred to in *subsection (4)*, the person who made the request may apply to the Commission for an alteration of the railway order under *section 37* and *sections 37* to *47E* shall apply to the request accordingly, subject to the following and any other necessary modifications:
+>
+> (*a*) a reference to railway works or proposed railway works shall be construed as if it were a reference to the alteration applied for;
+>
+> (*b*) a reference to the applicant for a railway order shall be construed as if it were a reference to the applicant for the alteration.
+>
+> (9) In this section, "term" includes a condition, modification, restriction or requirement in a railway order.]
+
+### 47. Judicial review of railway order and related acts.
+
+F114[**47.**—(1) A person shall not question the validity of a railway order made or any act done by the Board in the performance or the purported performance of its functions under *sections 37* to *46* otherwise than by way of an application for judicial review under Order 84 of the Rules of the Superior Courts (S.I. No. 15 of 1986) (the "Order").
+
+(2) The Board may, at any time after the bringing of an application for leave to apply for judicial review of any act to which *subsection (1)* applies and which relates to a matter for the time being before the Board, apply to the High Court to stay the proceedings pending the making of a decision by the Board in relation to the matter concerned.
+
+(3) On the making of such an application the High Court may, where it considers that the matter before the Board is within the jurisdiction of the Board, make an order staying the proceedings concerned on such terms as it thinks fit.
+
+(4) Subject to *subsection (5)*, an application for leave to apply for judicial review under the Order in respect of an order or act to which *subsection (1)* applies shall be made within the period of 8 weeks beginning on the date on which the order was made or, as the case may be, the date of the doing of the act by the Board.
+
+(5) The High Court may extend the period provided for in *subsection (4)* within which an application for leave referred to in that subsection may be made but shall only do so if it is satisfied that—
+
+(*a*) there is good and sufficient reason for doing so, and
+
+(*b*) the circumstances that resulted in the failure to make the application for leave within the period so provided were outside the control of the applicant for the extension.
+
+(6) References in this section to the Order shall be construed as including references to the Order as amended or replaced (with or without modification) by rules of court.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F114: Substituted (31.01.2007) by *Planning and Development (Strategic Infrastructure) Act 2006* (27/2006), s. 49(*b*), S.I. No. 684 of 2006.
+>
+> F115: Substituted by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 19, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C16: Prospective affecting provision: subs. (1) amended by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 19, not commenced as of date of revision.
+>
+> **47.**—(1) A person shall not question the validity of a railway order made or any act done by the Board in the performance or the purported performance of its functions under F115[sections 37 to 47E] otherwise than by way of an application for judicial review under Order 84 of the Rules of the Superior Courts (S.I. No. 15 of 1986) (the "Order".
+
+### 47A. Section 47: supplemental provisions.
+
+F116[**47A.**—(1) In this section—
+
+“Court”, where used without qualification, means the High Court (but this definition shall not be construed as meaning that subsections (2) to (6) and (9) do not extend to and govern the exercise by the Supreme Court of jurisdiction on any appeal that may be made);
+
+“Order” shall be construed in accordance with *section 47*;
+
+“*section 47* leave” means leave to apply for judicial review under the Order in respect of an order or act to which *section 47(1)* applies.
+
+(2) An application for *section 47* leave shall be made by motion on notice (grounded in the manner specified in the Order in respect of an ex parte motion for leave) to the Board, to the applicant for the railway order, where he or she is not the applicant for leave, and to any other person specified for that purpose by order of the High Court, and the Court shall not grant *section 47* leave unless it is satisfied that—
+
+(*a*) there are substantial grounds for contending that the order or act concerned is invalid or ought to be quashed, and
+
+(*b*) F117[(i) The applicant has a sufficient interest in the matter which is the subject of the application, or]
+
+(ii) the applicant—
+
+(I) is a body or organisation (other than a State authority, a public authority or governmental body or agency) the aims or objectives of which relate to the promotion of environmental protection,
+
+(II) has, during the period of 12 months preceding the date of the application, pursued those aims or objectives, and
+
+(III) satisfies such requirements (if any) as a body or organisation, if it were to make an appeal under section 37(4)(c) of the Act of 2000, would have to satisfy by virtue of section 37(4)(d)(iii) of that Act (and, for this purpose, any requirement prescribed under section 37(4)(e)(iv) of that Act shall apply as if the reference in it to the class of matter into which the decision, the subject of the appeal, falls were a reference to the class of matter into which the order or act, the subject of the application for *section 47* leave, falls).
+
+F118[(3) A sufficient interest of the purposes of *subsection (2)(b)(i)* is not limited to an interest in land or other financial interest.]
+
+(4) Notwithstanding the making of an application for *section 47* leave in respect of a railway order, the application shall not affect the validity of the railway order and its operation unless, upon an application to the Court, the Court suspends the operation of the railway order until the application is determined or withdrawn.
+
+(5) If the Court grants section 47 leave, no grounds shall be relied upon in the application for judicial review under the Order other than those determined by the Court to be substantial under *subsection (2)(a)*.
+
+(6) The Court may, as a condition for granting *section 47* leave, require the applicant for such leave to give an undertaking as to damages.
+
+(7) The determination of the Court of an application for *section 47* leave or of an application for judicial review on foot of such leave shall be final and no appeal shall lie from the decision of the Court to the Supreme Court in either case save with leave of the Court which leave shall only be granted where the Court certifies that its decision involves a point of law of exceptional public importance and that it is desirable in the public interest that an appeal should be taken to the Supreme Court.
+
+(8) *Subsection (7)* shall not apply to a determination of the Court in so far as it involves a question as to the validity of any law having regard to the provisions of the Constitution.
+
+(9) If an application is made for judicial review under the Order in respect of part only of an order or act to which *section 47(1*) applies, the Court may, if it thinks fit, declare to be invalid or quash the part concerned or any provision thereof without declaring invalid or quashing the remainder of the order or act or part of the order or act, and if the Court does so, it may make any consequential amendments to the remainder of the order or act or the part thereof that it considers appropriate.
+
+(10) The Court shall, in determining an application for *section 47* leave or an application for judicial review on foot of such leave, act as expeditiously as possible consistent with the administration of justice.
+
+(11) On an appeal from a determination of the Court in respect of an application referred to in *subsection (10)*, the Supreme Court shall—
+
+(*a*) have jurisdiction to determine only the point of law certified by the Court under *subsection (7)* (and to make only such order in the proceedings as follows from such determination), and
+
+(*b*) in determining the appeal, act as expeditiously as possible consistent with the administration of justice.
+
+(12) Rules of court may make provision for the expeditious hearing of applications for *section 47* leave and applications for judicial review on foot of such leave.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F116: Inserted (31.01.2007) by *Planning and Development (Strategic Infrastructure) Act 2006* (27/2006), s. 49(b), S.I. No. 684 of 2006.
+>
+> F117, F118: Substituted (23.07.2014) by *European Union (Access to Review of Decisions for Certain Bodies or Organisations promoting Environmental Protection) Regulations 2014* (S.I. No. 352 of 2014), reg. 10(a), (b).
+
+### 47B. Discussions with Board before making an application.
+
+F119[**47B.**—(1) The Agency, CIÉ or any other person who proposes to apply for a railway order in accordance with section 37(1) shall, before making the application, enter into consultations with the Board in relation to the proposed railway works.
+
+(2) Such a person is referred to subsequently in this section and in *section 47C* as a "prospective applicant".
+
+(3) In any consultations under *subsection (1)*, the Board may give advice to the prospective applicant regarding the proposed application and, in particular, regarding—
+
+(*a*) the procedures involved in making an application under this Part and in considering such an application, and
+
+(*b*) what considerations, related to proper planning and sustainable development or the environment, may, in the opinion of the Board, have a bearing on its decision in relation to the application.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F119: Inserted (31.01.2007) by *Planning and Development (Strategic Infrastructure) Act 2006* (27/2006), s. 50, S.I. No. 684 of 2006.
+
+### 47C. Section 47B: supplemental provisions.
+
+F120[**47C.**—(1) A prospective applicant shall, for the purposes of consultations under *section 47B*, supply to the Board sufficient information in relation to the proposed railway works so as to enable the Board to assess those works.
+
+(2) The Board may, at its absolute discretion, consult with any other person who may, in the opinion of the Board, have information which is relevant for the purposes of consultations under *section 47B* in relation to the proposed railway works.
+
+(3) The holding of consultations under *section 47B* shall not prejudice the performance by the Board of any other of its functions under this Act or the Planning and Development Act 2000 or regulations under either of those Acts and cannot be relied upon in the formal planning process or in legal proceedings.
+
+(4) The Board shall keep a record in writing of any consultations under *section 47B* in relation to proposed railway works, including the names of those who participated in the consultations, and a copy of such record shall be placed and kept with the documents to which any application in respect of the proposed railway works relates.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F120: Inserted (31.01.2007) by *Planning and Development (Strategic Infrastructure) Act 2006* (27/2006), s. 50, S.I. No. 684 of 2006.
+>
+> F121: Substituted by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 19, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C17: Prospective affecting provision: subs. (3) amended by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 19, not commenced as of date of revision.
+>
+> (3) The holding of consultations under *section 47B* shall not prejudice the performance by the Board of any other of its functions under F121[this Act, the Act of 2000, the Act of 2024 or regulations under any of those Acts] and cannot be relied upon in the formal planning process or in legal proceedings.
+
+### 47D. Supplemental powers for the Board.
+
+F132[**47D.**—(1) Before determining an application for a railway order, the Board may, at its absolute discretion and at any time—
+
+(*a*) request further submissions or observations from the applicant, any person who made submissions or observations in relation to the application or any other person who may, in the opinion of the Board, have information which is relevant to the determination of the application,
+
+(*b*) without prejudice to *section 41*, make any information relating to the application available for inspection, notify any person or the public that the information is so available and, if it considers appropriate, invite further submissions or observations to be made to it within such period as it may specify, or
+
+(*c*) hold meetings with the applicant or any other person where it appears to the Board to be necessary or expedient for the purpose of—
+
+(i) determining the application, or
+
+(ii) resolving any issue with the applicant or any disagreement between the applicant and any other party, including resolving any issue or disagreement in advance of an oral hearing.
+
+(2) Where the Board holds a meeting in accordance with *subsection (1)(c)*, it shall keep a written record of the meeting and make that record available for inspection.
+
+(3) The Board, or an employee of the Board duly authorised by the Board, may appoint any person to hold a meeting referred to in *subsection (1)(c)*.
+
+(4) The Board may, if it is provisionally of the view that it would be appropriate to grant the railway order concerned were certain alterations (specified in the notification referred to in this subsection) to be made to the terms of the application in respect of it or the proposed order, notify the applicant that it is of that view and invite the applicant to make to the terms of the application or the proposed order alterations specified in the notification and, if the applicant makes those alterations, to furnish to it such information (if any) as it may specify in relation to the proposed application or order, in the terms as so altered, or, where necessary, a revised F122[environmental impact assessment report] in respect of it.
+
+(5) If the applicant makes the alterations to the terms of the application or proposed order specified in a notification given to the applicant under *subsection (4)*, the terms of the application or order as so altered shall be deemed to be the application or order for the purposes of this Part.
+
+(6) The Board shall, where the applicant has made the alterations to the terms of the application or proposed order specified in a notification given to the applicant under *subsection (4)*, require the applicant—
+
+(*a*) to publish in one or more newspapers circulating in the area or areas in which the proposed railway works would be situate F126[, and make available electronically in such manner as may be appointed by the Board,] a notice stating that the applicant has, pursuant to an invitation of the Board, made alterations to the terms of the application or order (and the nature of those alterations shall be indicated) and, if it be the case, that information in relation to the terms of the application or order as so altered or a revised F123[environmental impact assessment report] in respect of the development has been furnished to the Board, indicating the times at which, the period (which shall not be less than 3 weeks) during which and the place, or places, where a copy of the information or the F124[environmental impact assessment report] may be inspected free of charge or purchased on payment of a specified fee (which fee shall not exceed the reasonable cost of making such copy) and that submissions or observations in relation to that F128[information or report] may be made to the Board before the expiration of the indicated period, and
+
+(*b*) to send to the planning authority and each person to which a notice was served pursuant to *section 40(1)(c)* or *(e)*, and to every (if any) occupier and every (if any) owner of land referred to in the order (being, if the terms of it have been so altered, the order as so altered)—
+
+(i) a notice of the furnishing to the Board of the F129[information or report] referred to in *paragraph (a)*, and
+
+(ii) a copy of that F130[information or report],
+
+and to indicate to that authority or other person that submissions or observations in relation to that F131[information or report] may be made to the Board before the expiration of a period (which shall be not less than 3 weeks) beginning on the day on which the notice is sent to the authority or other person by the applicant.
+
+F127[(6A) The Board shall make—
+
+(*a*) any information, submission, observation, record or alteration to the terms of an application proposed by the Board under *subsection (4)*, that contains significant data in relation to the likely effects on the environment of the proposed railway works,
+
+(*b*) any notice, any information in relation to the terms of an application or order as altered and any revised environmental impact assessment report, referred to in *subsection (6)(a)*,
+
+available electronically on the Board’s website.]
+
+(7) The Board shall, in deciding whether to grant the railway order to which the application concerned relates, have regard to any information submitted on foot of a notice under *subsection (4)*, including any revised F125[environmental impact assessment report], or any submissions or observations made on foot of a request under *subsection (1)* or a notice under *subsection (6)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F122, F123, F124, F125: Substituted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), reg. 4.
+>
+> F126, F127: Inserted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), reg. 14(a)(i), (b).
+>
+> F128, F129, F130, F131: Substituted (20.12.2021) by *European Union (Railway Orders) (Environmental Impact Assessment) (Amendment) Regulations 2021* (S.I. No. 743 of 2021), reg. 149a)(ii).
+>
+> F132: Inserted (31.01.2007) by *Planning and Development (Strategic Infrastructure) Act 2006* (27/2006), s. 50, S.I. No. 684 of 2006.
+
+### Direction of payment of costs by Board.
+
+F133[**47DD.**—(1) Where the Board determines an application made under *section 37* (amended by section 49 of the Act of 2006) it may at its absolute discretion direct the payment of such sums as it considers reasonable by the applicant to the Board towards the costs incurred by the Board of—
+
+(*a*) conducting consultations under *section 47B*,
+
+(*b*) compliance by the Board with a request by an applicant for an opinion of the Board under *section 39(3)* (amended by section 49 of the Act of 2006), or
+
+(*c*) determining an application made under *section 37* aforesaid,
+
+and, in such amount as the Board considers to be reasonable, state the sum to be paid and direct the payment of that sum, to any planning authority that incurred costs during the course of consideration of that application and to any other person as a contribution to the costs incurred by that person during the course of consideration of that application (each of which sums the Board may, by virtue of this subsection, require to be paid), and the applicant shall pay such sums.
+
+(2) A reference to costs in *subsection (1)* shall be construed as a reference to such costs as the Board in its absolute discretion considers to be reasonable costs, but does not include a reference to so much of the costs there referred to as have been recovered by the Board by way of a fee charged under section 144 of the Act of 2000.
+
+(3) A notice of a determination of an application under *section 37* shall be furnished to the applicant as soon as may be after the determination but shall not become operative until any requirement under *subsection (1)* in relation to the payment by the applicant of a sum in respect of costs has been complied with.
+
+(4) Where an applicant for permission fails to pay a sum in respect of costs in accordance with a requirement made under *subsection (1)* to the Board, the authority or any other person concerned (as may be appropriate) may recover the sum as a simple contract debt in any court of competent jurisdiction.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F133: Inserted (19.08.2010) by *Planning and Development (Amendment) Act 2010* (30/2010), s. 81, S.I. No. 405 of 2010.
+>
+> F134: Inserted by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 19, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C18: Prospective affecting provision: subs. (2) amended by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 19, not commenced as of date of revision.
+>
+> **47DD.**—...
+>
+> (2) A reference to costs in *subsection (1)* shall be construed as a reference to such costs as the Board in its absolute discretion considers to be reasonable costs, but does not include a reference to so much of the costs there referred to as have been recovered by the Board by way of a fee charged under section 144 of the Act of 2000 F134[or section 381 of the Act of 2024].
+
+### 47E. Objective of the Board in relation to railway orders.
+
+F135[**47E.**—(1) It shall be the duty of the Board to ensure that—
+
+(*a*) consultations held under *section 47B* are completed, and
+
+(*b*) a decision under *section 43* on an application for a railway order is made,
+
+as expeditiously as is consistent with proper planning and sustainable development and, for that purpose, to take all such steps as are open to it to ensure that, in so far as is practicable, there are no avoidable delays at any stage in the holding of those consultations or the making of that decision.
+
+(2) Without prejudice to the generality of *subsection (1)* and subject to *subsections (3)* to *(6)*, it shall be the objective of the Board to ensure that a decision under *section 43* on an application for a railway order is made—
+
+(*a*) within a period of 18 weeks beginning on the last day for making submissions or observations in accordance with the notice referred to in *section 40(1)(b)*, or
+
+(*b*) within such other period as the Minister for the Environment, Heritage and Local Government, having consulted with the Minister, may prescribe by regulations either generally or in respect of a particular class or classes of matter.
+
+(3) Where it appears to the Board that it would not be possible or appropriate, because of the particular circumstances of the matter with which the Board is concerned, to determine the matter within the period referred to in *paragraph (a)* or *(b)* of *subsection (2)* as the case may be, the Board shall, by notice in writing served on the applicant, the Minister, any planning authority involved and any other person who submitted submissions or observations in relation to the matter before the expiration of that period, inform the Minister, the authority and those persons of the reasons why it would not be possible or appropriate to determine the matter within that period and shall specify the date before which the Board intends that the matter shall be determined.
+
+(4) Where a notice has been served under *subsection (3)*, the Board shall take all such steps as are open to it to ensure that the matter is determined before the date specified in the notice.
+
+(5) The Minister for the Environment, Heritage and Local Government, having consulted the Minister, may by regulations vary the period referred to in *subsection (2)(a)* either generally or in respect of a particular class or classes of applications for railway orders, where it appears to him or her to be necessary, by virtue of exceptional circumstances, to do so and, for so long as the regulations are in force, this section shall be construed and have effect in accordance therewith.
+
+(6) Where the Minister for the Environment, Heritage and Local Government, having consulted with the Minister, considers it to be necessary or expedient that a certain class or classes of application for a railway order that are of special strategic, economic or social importance to the State be determined as expeditiously as is consistent with proper planning and sustainable development, he or she may give a direction to the Board that priority be given to the determination of applications of the class or classes concerned, and the Board shall comply with such a direction.
+
+(7) The Board shall include in each report made under section 118 of the Planning and Development Act 2000 F136[or under section 522 of the Act of 2024] a statement of the number of matters which the Board has determined within a period referred to in *paragraph (a)* or *(b)* of *subsection (2)* and such other information as to the time taken to determine such matters as the Minister for the Environment, Heritage and Local Government may direct.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F135: Inserted (31.01.2007) by *Planning and Development (Strategic Infrastructure) Act 2006* (27/2006), s. 50, S.I. No. 684 of 2006.
+>
+> F136: Inserted (18.06.2025) by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 19, S.I. No. 256 of 2025, art. 3(3) and sch. part 3 item 1(c).
+
+### 47F. Construction of certain references and transitional provision.
+
+F137[**47F.**—(1) References to the Minister in a railway order, being an order made before the amendment of this Act by the Planning and Development (Strategic Infrastructure) Act 2006, shall be construed as references to the Board.
+
+(2) Notwithstanding the amendments of this Act made by the Planning and Development (Strategic Infrastructure) Act 2006, any thing commenced under this Part but not completed before the commencement of those amendments may be carried on and completed after the commencement of those amendments as if those amendments had not been made.
+
+(3) The reference in *subsection (2)* to any thing commenced under this Part includes a reference to—
+
+(*a*) an application that has been made under *section 3*7 (being that section in the terms as it stood before the commencement of the amendments referred to in that subsection),
+
+(*b*) an application that has been made under *subsection (7)* of *section 43* (being that section in the terms as it stood before the commencement of those amendments), and
+
+(*c*) any step (including the holding of a public inquiry) that has been taken in the making of a decision in relation to an application referred to in *paragraph (a)* or *(b)* or any step that has been taken on foot of the making of such a decision.
+
+(4) For the avoidance of doubt, any questioning, after the commencement of the amendments referred to in *subsection (2)*, by the procedures of judicial review under the Order (within the meaning of *section 47*) of the validity of any thing referred to in *subsection (2)* completed after that commencement, or being carried on after that commencement, shall be done in accordance with the provisions of this Part as amended by the Planning and Development (Strategic Infrastructure) Act 2006.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F137: Inserted (31.01.2007) by *Planning and Development (Strategic Infrastructure) Act 2006* (27/2006), s. 50, S.I. No. 684 of 2006.
+
+### 47G. Transitional and saving provisions relating to Act of 2024.
+
+F138[**47G.**—(1) Notwithstanding the repeal of sections 135, 143 or 146 of the Act of 2000 effected by section 6 of the Act of 2024, those sections of the Act of 2000 shall continue to apply and have effect on and after that repeal in relation to an oral hearing referred to in *section 42* in respect of an application for a railway order made under *section 37* but not determined before the repeal.
+
+(2) Notwithstanding the repeal of paragraphs (d) and (e) of subsection (4) of section 37 of the Act of 2000 by section 6 of the Act of 2024, those paragraphs and any regulations made under that paragraph (e) shall continue to apply and have effect on and after that repeal for the purposes of *section 47A(2)(b)(ii)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F138: Inserted (18.06.2025) by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 19, S.I. No. 256 of 2025, art. 3(3) and sch. part 3 item 1(d).
+
+### 48. Power of railway undertaking to carry out railway works and to enter land.
+
+**48.**—(1) (*a*) Upon the commencement of a railway order, the railway undertaking may, for the purposes of carrying out the works allowed under that order—
+
+(i) enter on any land the subject of the order and carry out on the land railway works authorised by the order,
+
+(ii) enter on any other land and occupy it or otherwise make use of it for the purpose of carrying out the works aforesaid,
+
+(iii) enter on any land for the purpose of carrying out any maintenance or improvement of the railway concerned,
+
+(iv) enter on any land and attach to any wall, house or other building any bracket, cable or wire or other fixture required for the construction, operation or maintenance of the railway concerned,
+
+(v) enter on any land and underpin or otherwise strengthen any house or other building affected or likely to be affected by the works or the railway aforesaid,
+
+and do on any such land all such other things as are, in its opinion, ancillary to, or reasonably necessary for, the purposes aforesaid.
+
+(*b*) Before exercising any power under *paragraph (a)*, the railway undertaking shall either—
+
+(i) obtain the consent of any owner or occupier of the land concerned, or
+
+(ii) give to any owner or occupier of the land concerned not less than 14 days notice in writing stating its intention to enter on the land, the purposes for which the entry is intended to be made and that he or she may apply in accordance with *paragraph (c)* to the District Court for an order prohibiting entry.
+
+(*c*) A person to whom a notice has been given under this subsection may, not later than 14 days after the giving of the notice, apply, on notice to the railway undertaking, to the judge of the District Court having jurisdiction in the district court district in which the land is situated for an order prohibiting the entry and, upon the hearing of the application, the judge may, if he or she so thinks proper, either prohibit the entry or specify conditions to be complied with by the person making the entry.
+
+(*d*) Where a judge of the District Court prohibits under this subsection a proposed entry onto land, it shall not be lawful for any person to enter onto the land under *paragraph (a)*, and where a judge of the District Court specifies under this subsection conditions to be complied with by a person entering onto land, every person who enters onto the land under *paragraph (a)* shall comply with the conditions so specified.
+
+(2) (*a*) Where, in the opinion of the railway undertaking—
+
+(i) the exercise of a power conferred on it by *subsection (1)* is urgently required for the purpose of preventing or minimising injury, loss or damage to persons or property, and
+
+(ii) it is not reasonably possible to comply, in relation to such exercise, with *paragraph (b)* of that subsection,
+
+the railway undertaking may exercise the power without having complied in relation to such exercise, with that paragraph.
+
+(*b*) Before exercising a power by virtue of this subsection, the railway undertaking shall give to any owner or occupier of the land notice of its intention to enter on the land, and of the purposes for which the entry is intended to be made.
+
+(*c*) Where, in the opinion of the railway undertaking, it is not reasonably possible to comply with *paragraph (b)*, the railway undertaking may exercise the power concerned without having complied therewith and, as soon as may be thereafter, shall give to any owner or occupier of the land concerned a notice in writing specifying the powers exercised and the purposes of such exercise.
+
+(3) (*a*) Where an owner or occupier of land (other than a person whose land is acquired under *section 45*) suffers loss, injury or damage or incurs expenditure in consequence of the exercise by the railway undertaking of a power conferred on it by this section, the railway undertaking shall pay to him or her compensation in respect of the loss, injury, damage or expenditure and the amount of the compensation shall, in default of agreement, be determined by arbitration under and in accordance with the Lands Clauses Acts (other than sections 38 to 67 of the Lands Clauses Consolidation Act, 1845) and, for the purposes of those Acts, the railway undertaking shall be deemed to be the promoter of the undertaking and this Part and the railway order concerned shall be deemed to be the special Act; and, for the purposes of such determination, those Acts shall apply with any other necessary modifications and are incorporated (except insofar as they are inconsistent with and subject to any amendments or modifications, express or implied, thereof effected by this Act) with this Part.
+
+(*b*) In assessing the compensation payable to a person under *paragraph (a)*, regard shall be had to any benefit to any property of the person that arises or may reasonably be expected to arise from the exercise of the power concerned.
+
+### 49. Lopping of trees.
+
+**49.**—(1) The Agency, CIÉ, or a railway undertaking may lop, remove or cut any tree, shrub or hedge which obstructs or interferes with—
+
+(*a*) surveys or inspections under *section 36*,
+
+(*b*) railway works authorised by a railway order,
+
+(*c*) the maintenance, operation or improvement of railway works or cables or other railway apparatus,
+
+(*d*) the operation of a railway,
+
+(*e*) the laying and erection of electric wires, or
+
+(*f*) the safe passage of the railway vehicles including the safety of any passengers on board such vehicles on a railway line.
+
+(2) Subject to *subsection (4)*, before lopping or cutting any tree, shrub or hedge under this section, the Agency, CIÉ, or railway undertaking shall serve on the owner or occupier of the land or, in the case of a public road, on the road authority charged with the maintenance of such road on which such tree, shrub or hedge is standing, notice in writing of its intention to do so and, after the expiration of 28 days from the date of such service, the Agency, CIÉ, or railway undertaking, may lop or cut any tree, shrub or hedge if the owner or occupier has not already done so.
+
+(3) Where an occupier or owner of land cuts or lops any tree, shrub or hedge under this section, the expense incurred by him or her in so doing shall be paid to him or her on demand by the Agency, CIÉ, or railway undertaking, and the amount of such expenses shall be recoverable from the Agency, CIÉ, or railway undertaking, in default of agreement, as a simple contract debt in any court of competent jurisdiction.
+
+(4) If a railway undertaking, for reasons of safety, needs to fell or lop any tree, shrub or hedge, the conditions in *subsections (2)* do not apply.
+
+(5) Where a railway undertaking fells or lops any tree, shrub or hedge under *subsection (4)*, it shall give written notice to the owner or occupier of the land concerned informing them of such felling or lopping and the reasons for so doing.
+
+(6) The requirement for a tree felling licence under section 37 of the Forestry Act, 1946, does not apply to the Agency, CIÉ, or railway undertaking for the purposes of a railway development under this Part.
+
+### 50. Breaking up of roads, etc.
+
+**50.**—(1) Upon the commencement of a railway order, the railway undertaking shall thereupon be authorised for the purpose of carrying out railway works or the operation, maintenance, repair or improvement of a railway or for any purpose incidental to the purposes aforesaid to—
+
+(*a*) open, break up and, if necessary, alter the level or route of any public road, or
+
+(*b*) construct a new road.
+
+(2) The railway undertaking shall not open, break up or alter the level or route of any public road or construct a new road without the prior consent in writing (which shall not be unreasonably withheld) of the road authority in whose functional area the road is situate or, in the case of a new road, to be situate.
+
+(3) A consent under *subsection (2)* may be given by the road authority subject to such conditions, restrictions or requirements as it thinks fit and specifies in the consent and the railway undertaking shall comply with such conditions, restrictions or requirements (if any).
+
+### 51. Safety of railways.
+
+**51.**—F139[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F139: Repealed (1.05.2006) by *Railway Safety Act 2005* (31/2005), s. 5 and sch. 1, S.I. No. 215 of 2006, art. 3.
+
+### 52. Service of notices.
+
+**52.**—(1) On request from an applicant or railway undertaking, and if the Minister is satisfied in relation to a notice required to be served under this Part that—
+
+(*a*) reasonable grounds exist for dispensing with the service of the notice, and
+
+(*b*) the dispensing with the service of the notice will not cause injury or damage to any person,
+
+he or she may dispense with the service of the notice and every such dispensation shall have effect according to the terms thereof.
+
+(2) Where a notice is required or authorised by or under this Part to be served on a person, it shall be addressed to him or her and shall be served on or given to him or her in any one of the following ways—
+
+(*a*) where it is addressed to him or her by name, by delivering it to him or her,
+
+(*b*) by leaving it at the address at which he or she ordinarily resides or, in a case in which an address for service has been furnished, at that address,
+
+(*c*) by sending it by post in a prepaid registered letter, or by any other form of recorded delivery service specified by the Minister, addressed to him or her at the address at which he or she ordinarily resides or, in a case in which an address for service has been furnished, at that address, or
+
+(*d*) where the address at which he or she ordinarily resides cannot be ascertained by reasonable inquiry and the notice is so required or authorised to be served in respect of any land or premises, by delivering it to some person over 16 years of age resident or employed on such land or premises or by affixing it in a conspicuous position on or near such land or premises.
+
+(3) Where a notice is required by or under this Part to be served on an owner or occupier of any land or premises and the name of the owner or of the occupier, as the case may be, cannot be ascertained by reasonable inquiry, it may be addressed to “the owner” or “the occupier”, as the case may require, without naming him or her.
+
+(4) A person who, at any time during the period of 12 weeks after a notice is affixed under *subsection (2) (d)*, removes, damages or defaces the notice without lawful authority is guilty of an offence and shall be liable on summary conviction to a fine not exceeding €2,000 (£1,575.13) or to imprisonment for a term not exceeding 3 months or to both.
+
+(5) For the purposes of this section, a company (within the meaning of the Companies Acts, 1963 to 2001) shall be deemed to be ordinarily resident at its registered office, and every other body corporate and every unincorporated body shall be deemed to be ordinarily resident at its principal office or place of business.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E32: A fine of €2,000 translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2), table ref. no. 1, S.I. No. 662 of 2010.
+
+### 53. Obstruction.
+
+**53.**—A person who obstructs or interferes with or assists a person to obstruct or interfere with any person in the performance of a function conferred on that person under this Part is guilty of an offence and shall be liable on summary conviction to a fine not exceeding €2,000 (£1,575.13) or to imprisonment for a term not exceeding 3 months or to both.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E33: A fine of €2,000 translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2), table ref. no. 1, S.I. No. 662 of 2010.
+
+## PART 4 — On-street Regulation of Light Railway
+
+### 54. Speed limits.
+
+**54.**—(1) Subject to *subsection (2)*, a speed limit applying under Part IV (as amended by the Road Traffic Act, 1968 and the Act of 1994) of the Act of 1961 in respect of a public road shall apply to a light rail vehicle.
+
+(2) Subject to *subsections (3)* and *(4)*, the Minister may make regulations prescribing in respect of any specified public road or parts of a public road the speed which shall be the speed limit on such road or roads for a light rail vehicle, and any such regulations shall be road regulations for the purposes of section 95(1) of the Act of 1961.
+
+(3) Before making regulations under *subsection (2)*, the Minister shall give notice to—
+
+(*a*) a local authority and the commissioners of any town in the area concerned, of the proposed regulations relating to public roads in the area and shall consider any representations made in writing to the Minister by such local authority or commissioners within the period (not being less than 28 days after the date of service of the notice) specified in the notice, and
+
+(*b*) the Commissioner of the Garda Síochána of the proposed regulations and shall consider any representations made in writing to the Minister by the Commissioner within the period (not being less than 28 days after the date of service of the notice) specified in the notice.
+
+(4) The Minister shall not make regulations under *subsection (2)* relating to national roads or motorways (within the meaning of the Act of 1993) without the prior consent of the National Roads Authority.
+
+(5) A person who drives a light rail vehicle at a speed exceeding a speed limit applying in respect of a public road—
+
+(*a*) under the Act of 1961 as applied by this section, or
+
+(*b*) prescribed in regulations made under *subsection (2)*,
+
+is guilty of an offence.
+
+(6) A person guilty of an offence under *subsection (5)* shall be liable on summary conviction to a fine not exceeding F140[€1,600].
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F140: Substituted (18.12.2005) by *Railway Safety Act 2005* (31/2005), s. 135(*a*), commenced on enactment. A fine of €1,600 translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(3), table ref. no. 1, S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E34: Power pursuant to subs. (2) exercised (1.06.2004) by *Light Railway (Speed Limits - Luas Line A) Regulations 2004* (S.I. No. 255 of 2004).
+
+### 55. Driving while unfit or under influence of intoxicant.
+
+**55.**—F141[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F141: Repealed (1.05.2006) by *Railway Safety Act 2005* (31/2005), s. 5 and sch. 1, S.I. No. 215 of 2006, art. 3.
+
+### 56. Prohibition on person disqualified for holding driving licence from driving light rail vehicle on public road.
+
+**56.**—(1) A person who is disqualified under the Act of 1961 for holding a driving licence (within the meaning of section 22 of the Act of 1961) shall not drive a light rail vehicle on a public road.
+
+(2) A person who contravenes this section is guilty of an offence and is liable on summary conviction to a fine not exceeding F142[€5,000] or to imprisonment for a term not exceeding 3 months, or to both.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F142: Substituted (18.12.2005) by *Railway Safety Act 2005* (31/2005), s. 135(b), commenced on enactment. A fine of €5,000 translates into a class A fine, not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(3) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 57. Compulsory insurance of light rail vehicles.
+
+**57.**—F143[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F143: Repealed (1.05.2006) by *Railway Safety Act 2005* (31/2005), s. 5 and sch. 1, S.I. No. 215 of 2006, art. 3.
+
+### 58. Minimum qualifications and competencies required by driver of light rail vehicle.
+
+**58.**—The Minister may make regulations prescribing the minimum qualifications and competencies required by the driver of a light rail vehicle.
+
+### 59. Duty to give information to member of Garda Síochána.
+
+**59.**—(1) Where a member of the Garda Síochána alleges to a person driving a light rail vehicle that the member suspects that such person has committed an offence under this Part, or under the Road Traffic Acts, 1961 to 1995, the member may require such person to give his or her name and address to the member and may, if such person refuses or fails to give his or her name and address or gives a name or address which the member has reasonable grounds for believing to be false or misleading, arrest such person without warrant.
+
+(2) Where a person, when his or her name and address is required of him or her under this section, refuses or fails to give his or her name and address or gives a name or address which is false or misleading, such person is guilty of an offence.
+
+(3) A person guilty of an offence under this section shall be liable on summary conviction to a fine not exceeding F144[€1,600].
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F144: Substituted (18.12.2005) by *Railway Safety Act 2005* (31/2005), s. 135(c), commenced on enactment. A fine of €1,600 translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(3), table ref. no. 1, S.I. No. 662 of 2010.
+
+### 60. Unauthorised taking or interference with light rail vehicle.
+
+**60.**—(1) A person shall not use or take possession of a light rail vehicle without the consent of the railway undertaking concerned.
+
+(2) A person shall not, without lawful authority or reasonable cause, interfere or attempt to interfere with a light rail vehicle or get on or into or attempt to get on or into a light rail vehicle.
+
+(3) A person who contravenes *subsection (1)* or *(2)* is guilty of an offence.
+
+(4) A person guilty of an offence under this section shall be liable on summary conviction to a fine not exceeding F145[€5,000] or to imprisonment for a term not exceeding 6 months or to both.
+
+(5) Where a member of the Garda Síochána has reasonable grounds for believing that a person is committing or has committed an offence under this section, he or she may arrest the person without warrant.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F145: Substituted (18.12.2005) by *Railway Safety Act 2005* (31/2005), s. 135(d), commenced on enactment. A fine of €5,000 translates into a class A fine, not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(3) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 61. Restriction on application of regulations made under section 11 of Act of 1961.
+
+**61.**—Regulations made under section 11 of the Act of 1961 shall not apply to a light rail vehicle.
+
+### 62. Amendment of section 35(2)(d) of Act of 1994.
+
+**62.**—Section 35(2) of the Act of 1994 is amended by the insertion after paragraph (*d*) of the following paragraph:
+
+“(*dd*) prohibiting or restricting pedestrians from using a specified road or specified parts of a road upon which there is a light railway (within the meaning of the *Transport (Railway Infrastructure) Act, 2001*).”.
+
+### 63. Excavation or closure of public roads.
+
+**63.**—(1) A person shall not excavate a public road or part thereof on which there is a light railway without the prior written consent of the road authority concerned and subject to any conditions contained in any such consent.
+
+(2) Before giving its consent under *subsection (1)*, a road authority shall obtain the written views of the Agency and shall consider any written objections or representations made by the Agency and not withdrawn.
+
+(3) A person who contravenes *subsection (1)* is guilty of an offence and shall be liable on summary conviction to a fine not exceeding F146[€5,000] or to imprisonment for a term not exceeding 3 months or to both.
+
+(4) Where a road authority proposes to excavate or close under section 75 of the Act of 1993 a public road or part thereof on which there is a light railway it shall obtain the written views of the Agency and shall consider any written objections or representations made by the Agency and not withdrawn before carrying out any such excavation or closure.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F146: Substituted (18.12.2005) by *Railway Safety Act 2005* (31/2005), s. 135(e), commenced on enactment. A fine of €5,000 translates into a class A fine, not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(3) and table ref. no. 1, S.I. No. 662 of 2010.
+
+## PART 5 — Miscellaneous
+
+### 64. Trespass on railway.
+
+**64.**—(1) A person who trespasses on a railway, that has been built pursuant to a railway order, and that is not on a public road or trespasses on any land, machinery or equipment used for the purposes of the railway, is guilty of an offence and shall be liable on summary conviction to a fine not exceeding F147[€1,600].
+
+(2) Where a person is charged with an offence under this section in respect of a trespass—
+
+(*a*) the fact that he or she had not received a personal warning shall not be a ground of defence,
+
+(*b*) he or she shall not, in any case, be convicted of the offence unless the railway undertaking proves to the satisfaction of the Court that, at the date of the trespass there was affixed at the station of the railway undertaking nearest to the place where the trespass is alleged to have been committed a prominent notice in legible characters warning persons not to trespass on the railways of the railway undertaking.
+
+(3) A person lawfully crossing a railway of a railway undertaking by means of any accommodation works maintained in pursuance of section 68 of the Railways Clauses Consolidation Act, 1845, does not commit an offence under this section.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F147: Substituted (18.12.2005) by *Railway Safety Act 2005* (31/2005), s. 135(*f*), commenced on enactment. A fine of €1,600 translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(3), table ref. no. 1, S.I. No. 662 of 2010.
+
+### 65. Unlawful use of railway.
+
+**65.**—A person who uses or attempts to use, on a railway that has been built pursuant to a railway order, a vehicle with flange wheels or wheels suitable only for use on the rails of a railway without the written consent of the railway undertaking is guilty of an offence and shall be liable on summary conviction to a fine not exceeding F148[€5,000] or to imprisonment for a term not exceeding 6 months or to both.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F148: Substituted (18.12.2005) by *Railway Safety Act 2005* (31/2005), s. 135(*g*), commenced on enactment. A fine of €5,000 translates into a class A fine, not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(3) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 66. Bye-laws.
+
+F149[**66.**—(1) Bye-laws may be made—
+
+(*a*) by the Agency, in relation to a railway, or
+
+(*b*) with the consent of the Agency, by a railway undertaking in relation to a railway it operates or under its control,
+
+in relation to any one or more of the following matters—
+
+(i) the general regulation, subject to any statutory provisions in that behalf, of—
+
+(I) the travelling upon or use of a railway, (including a requirement to travel with a valid ticket or pass and the issue of such), or
+
+(II) the working of railway transport services by a railway undertaking,
+
+(ii) the prevention of the commission of nuisances in or upon a railway,
+
+(iii) the prevention of damage to railway infrastructure,
+
+(iv) the removal from or the prohibition of the use on a railway of any vehicle or thing which is or may become a danger to life, health, the operation or maintenance of a railway or would otherwise interfere with the proper operation of a railway,
+
+(v) the regulation of parking of vehicles on or adjacent to a railway,
+
+(vi) the safe custody and return or disposal of any property found on a railway,
+
+F150[(via) the detention, storage, release and disposal of vehicles,]
+
+(vii) the repair, improvement, extension and development of a railway,
+
+(viii) subject to any statutory provisions in that behalf, the regulation of works that would affect the operation or maintenance of a railway or would otherwise interfere with the proper operation of a railway.
+
+(2) Bye-laws under this section may contain such incidental, subsidiary and ancillary provisions as the Agency or the railway undertaking making the bye-laws, considers necessary or expedient for the purposes of the bye-laws.
+
+(3) The Agency, or, as the case may be, a railway undertaking may provide for reasonable charges in respect of matters provided for in bye-laws made by it under this section.
+
+(4) Whenever, after the passing of the Railway Safety Act 2005, the Agency or a railway undertaking proposes to make bye-laws under this section, the following provisions have effect—
+
+F151[(*a*) the National Roads Authority or the undertaking, as the case may be, shall, publish notice of the proposal—
+
+(i) on its website, and
+
+(ii) in at least 2 national newspapers circulating within the State or in the area to which the bye-laws relate,]
+
+(*b*) the notice shall include—
+
+(i) a statement of the purposes for which the bye-laws are to be made,
+
+F152[(ii) an intimation that—
+
+(I) a copy of the draft bye-laws is open for public inspection at the principal offices in the State of the National Roads Authority or the undertaking, as the case may be, and
+
+(II) that the draft bye-laws are published on the National Roads Authority’s or the undertaking’s, as the case may be, website, and]
+
+(iii) an intimation that any person may submit to the Agency or the undertaking, as the case may be, objections to the draft bye-laws at any time during the period of 30 days commencing on the date of the first publication of the notice,
+
+(*c*) the Agency or the undertaking, as the case may be, shall, during that period of 30 days, keep a copy of the draft bye-laws open for public inspection during ordinary office hours at its principal offices,
+
+(*d*) any person who objects to the draft bye-laws may submit his or her objection to the Agency or the undertaking, as the case may be, in writing at any time during that period of 30 days and the Agency or the undertaking, as the case may be, shall consider the objections, and
+
+(*e*) on the completion of that period of 30 days, the Agency or the undertaking, as the case may be, shall as it thinks proper, refrain from making the bye-laws or make the bye-laws either without modification or with modification as it thinks proper.
+
+F153[(4A) The National Roads Authority or the undertaking shall publish on its website bye-laws made by it under this section. The failure to publish such bye-laws is not a defence to a contravention of or failure to comply with such bye-laws.]
+
+(5) Such details of bye-laws under this section shall be displayed on a railway, where practicable, in conspicuous places in such manner as—
+
+(*a*) the Agency, where the bye-laws are made by it, or
+
+(*b*) a railway undertaking, where the bye-laws are made by it, subject to any general direction of the Agency,
+
+considers best adapted for giving information to the public. The absence of any such display is not a defence to a contravention of or failure to comply with such bye-laws.
+
+(6) Bye-laws under this section shall not be made without the consent of the Minister.
+
+(7) Every bye-law made under this section, after the passing of the Railway Safety Act 2005, shall be laid, where they are made by the Agency, by the Agency and where they are made by a railway undertaking, by the railway undertaking, before each House of the Oireachtas, as soon as may be after it is made and, if a resolution annulling the bye-law is passed by either such House within the next 21 days on which that House has sat after the bye-law is laid before it, the bye-law shall be annulled accordingly, but without prejudice to anything previously done under it.
+
+(8) A person who contravenes or fails to comply with a bye-law under this section is guilty of an offence and is liable on summary conviction to a fine not exceeding €1,000.
+
+(9) The liability of an offender to a fine under *subsection (8*) does not prejudice the recovery of any fare, tariff or fee payable by him or her to the Agency or a railway undertaking for any damage caused by him or her to property of the Agency or a railway undertaking.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F149: Substituted (18.12.2005) by *Railway Safety Act 2005* (31/2005), s. 134(1), commenced on enactment. A fine of €1,000 translates into a class D fine, not greater than €1,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 7(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> F150: Inserted (1.10.2017) by *Vehicle Clamping Act 2015* (13/2015), s. 37(a), S.I. No. 211 of 2017.
+>
+> F151, F152: Substituted (8.02.2016) by *Public Transport Act 2016* (3/2016), s. 5(a)(i), (ii), commenced on enactment.
+>
+> F153: Inserted (8.02.2016) by *Public Transport Act 2016* (3/2016), s. 5(b), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E35: Power pursuant to subs. (1) exercised (24.07.2015) by *Light Railway (Regulation of Travel and Use) Bye-laws 2015* (S.I. No. 322 of 2015).
+>
+> E36: Power pursuant to subs. (1) exercised (3.02.2012) by *Light Railway (Regulation of Travel and Use) Bye-laws 2012* (S.I. No. 44 of 2012).
+>
+> E37: Power pursuant to subs. (1) exercised (18.03.2004) by *Light Railway (Regulation of Works) Bye-Laws 2004* (S.I. No. 101 of 2004); continued in force (18.12.2005) by *Railway Safety Act 2005* (31/2005), s. 134(2), commenced on enactment.
+>
+> E38: Power pursuant to subs. (1) exercised (18.03.2004) by *Light Railway (Regulation of Travel and Use) Bye-Laws 2004* (S.I. No. 100 of 2004); continued in force (18.12.2005) by *Railway Safety Act 2005* (31/2005), s. 134(2), commenced on enactment.
+
+### 66A. Immobilisation, removal, etc. of unlawfully parked vehicles.
+
+F154[**66A.**—(1) Where an authorised officer finds on or adjacent to a railway a vehicle which he or she believes—
+
+(*a*) is parked in contravention of bye-laws made under section 66,
+
+F155[(*aa*) is parked without payment of the charge imposed for its parking in a parking facility provided by the Agency,]
+
+(*b*) is or may become a danger or a nuisance to persons, or
+
+(*c*) would otherwise interfere with the proper operation of a railway,
+
+he or she or a person acting under his or her direction may—
+
+(i) fix an immobilisation device to the vehicle while it remains in the place where he or she finds it, or
+
+(ii) move it from the place where he or she finds it (whether or not he or she has fixed an immobilisation device to it) to another place and, if he or she considers it necessary, fix an immobilisation device to it in that other place.
+
+(2) When fixing an immobilisation device to a vehicle, there shall also be affixed to the vehicle a notice in the prescribed form—
+
+(*a*) indicating that the device has been fixed to the vehicle and warning that an attempt should not be made to drive it or otherwise put it in motion until the device is removed,
+
+(*b*) specifying the steps to be taken to secure such removal, and
+
+(*c*) giving such other information (if any) as may be prescribed.
+
+(3) Subject to *subsection (4)*, an immobilisation device that has been fixed to a vehicle under this section may be removed only by an authorised person or a person acting under his or her direction.
+
+(4) (*a*) An immobilisation device fixed to a vehicle under this section shall be removed or a vehicle moved under this section shall be released, only—
+
+(i) if the person seeking its removal or release shows to the satisfaction of an authorised person that he or she, is the owner of the vehicle or is authorised by its owner to seek such removal or release and pays the prescribed charge,
+
+(ii) for the purpose of the removal of the vehicle under section 97 of the Act of 1961, or
+
+(iii) for the purpose of moving the vehicle under *subsection (1)*.
+
+(*b*) Where the owner of a vehicle which has been moved or to which an immobilisation device has been fixed under this section shows to the satisfaction of an authorised officer that the vehicle was parked while being used by a person other than the owner and that such use was not authorised by the owner, the authorised officer shall waive the prescribed charge and he or she or a person acting under his or her direction shall remove the immobilisation device from or release the vehicle.
+
+(*c*) An immobilisation device fixed to a vehicle under this section shall be removed from it or a vehicle moved under this section shall be released, as soon as is reasonably practicable, after the payment of the prescribed charge or after the waiver of such charge, as the case may be.
+
+(5) A notice affixed to a vehicle under this section shall not be removed or interfered with by a person other than the owner of the vehicle or a person authorised by such owner to use the vehicle and a person who contravenes this subsection is guilty of an offence and is liable on summary conviction to a fine not exceeding €1,000.
+
+(6) Charges may be prescribed for the purposes of this section for the removal of an immobilisation device or the release of a vehicle.
+
+(7) A person who—
+
+(*a*) obstructs or impedes an authorised officer, or a person acting under his or her direction, in the performance of his or her duties under this section, or
+
+(*b*) without being authorised to do so under this section, removes or attempts to remove from a vehicle an immobilisation device fixed to it under this section,
+
+is guilty of an offence and is liable on summary conviction to a fine not exceeding €2,000.
+
+(8) An immobilisation device shall not be fixed under this section to an ambulance, a fire brigade vehicle or any vehicle used by a member of the Garda Síochána or the Defence Forces, in the performance of his or her duties, in an emergency situation.
+
+(9) In this section—
+
+"immobilisation device" means any device or appliance designed or adapted for fixing to a vehicle for the purpose of preventing it from being driven or otherwise put in motion;
+
+"prescribed" means prescribed in regulations made by the Agency with the consent of the Minister;
+
+"vehicle" has the same meaning as in the Act of 1961.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F154: Inserted (18.12.2005) by *Railway Safety Act 2005* (31/2005), s. 134(1), commenced on enactment. A fine of €1,000 translates into a class D fine, not greater than €1,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 7(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> A fine of €2,000 translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(3), table ref. no. 1, S.I. No. 662 of 2010.
+>
+> F155: Inserted (1.10.2017) by *Vehicle Clamping Act 2015* (13/2015), s. 37(b), S.I. No. 211 of 2017.
+
+### 66B. Powers of authorised officers.
+
+F156[**66B.**—(1) If an authorised officer reasonably suspects that a person—
+
+(*a*) is contravening or has contravened or is failing or has failed to comply with a bye-law made under *section 66*,
+
+(*b*) is committing or has committed on a railway an offence under *section 64* or *65*,
+
+(*c*) is assaulting or has assaulted or is causing or has caused deliberate harm to another on a railway,
+
+(*d*) is causing or has caused wanton or deliberate damage to railway infrastructure,
+
+(*e*) has contravened section 118 or 132 of the Railway Safety Act 2005,
+
+(*f*) is obstructing or has obstructed or is impeding or has impeded an authorised officer in the exercise of his or her duties under this section, *section 66A*, *66C*, or under any bye-law made under *section 66*,
+
+(*g*) on any railway is intoxicated or is committing or has committed an offence under section 15 of the Misuse of Drugs Act 1977, or
+
+(*h*) if requested by an authorised officer to cease such contravention or action or to so comply, fails to comply with the request,
+
+he or she may—
+
+(i) using such reasonable force as the circumstances require, remove or escort the person from the railway or any part of it,
+
+(ii) in circumstances where the authorised officer considers it to be justified, arrest the person without warrant, or
+
+(iii) require the person to give his or her name and address and, if the person fails or refuses to do so or gives a name that the authorised officer reasonably suspects is false or misleading, arrest that person without warrant,
+
+and, if he or she is not a member of the Garda Síochána, deliver, as soon as practicable, the person, if arrested, into the custody of a member of the Garda Síochána to be dealt with according to law.
+
+(2) A person who fails or refuses to give his or her name or address when required under *subsection (1)*, or gives a name or address which is false or misleading, is guilty of an offence and is liable on summary conviction to a fine not exceeding €1,000.
+
+(3) The Agency, or a railway undertaking with the consent of the Agency, may appoint such and so many persons as it considers necessary to be authorised officers for the purposes of this section, *section 66A*, *66C* or any bye-law made under *section 66*.
+
+(4) An authorised officer, who is not a member of the Garda Síochána, is not entitled to exercise a power under this section unless he or she has received training and instruction, which, in the opinion of the Agency is such as will provide guidance to him or her in the exercise of the power.
+
+(5) The Agency or a railway undertaking, as the case may be, shall endorse on the warrant it furnishes to an authorised officer under *subsection (6)* a statement to the effect that the officer has received the training and instruction referred to in *subsection (4)*.
+
+(6) An authorised officer, who is not a member of the Garda Síochána, shall, on his or her appointment under this section, be furnished by the Agency or a railway undertaking, as the case may be, with a warrant of his or her appointment as an authorised officer.
+
+(7) An authorised officer, who is not a member of the Garda Síochána, when exercising a power under this section shall be in uniform provided or authorised—
+
+(*a*) where he or she is appointed by the Agency, by the Agency, or
+
+(*b*) where he or she is appointed by a railway undertaking, by the railway undertaking.
+
+(8) The arrest of a person under this section does not prejudice the re-arrest of the person by a member of the Garda Síochána.
+
+(9) An authorised officer, who is not a member of the Garda Síochána, may be referred to—
+
+(*a*) where he or she is appointed by the Agency, by the Agency, or
+
+(*b*) where he or she is appointed by a railway undertaking, by the railway undertaking,by such title as it decides.
+
+(10) In this section a reference to the committal of an offence or an act includes a reference to an attempt to commit the offence or the act.
+
+(11) In this section "authorised officer" means a person appointed under this section or a member of the Garda Síochána whose attendance is requested by an authorised officer or by the Agency or a railway undertaking.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F156: Inserted (18.12.2005) by *Railway Safety Act 2005* (31/2005), s. 134(1), commenced on enactment. A fine of €1,000 translates into a class D fine, not greater than €1,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 7(2) and table ref. no. 1, S.I. No. 662 of 2010;
+
+### F157[66C. Fixed payment notice.
+
+**66C.**—(1) Where—
+
+(*a*) an authorised officer has reasonable grounds for believing that a person is committing or has committed an offence under section 64 (1), 66 (8) (for a contravention or failure to comply with a bye-law made under that section), 66A(5) or (6), or 66B(2) or section 118 or 132 of the Railway Safety Act 2005, or
+
+(*b*) a member of the Garda Síochána has reasonable grounds for believing that a person is committing or has committed an offence under *section 54(5)*,
+
+he or she may serve the person with a notice ("fixed payment notice") in the prescribed form stating that—
+
+(i) the person is alleged to have committed the offence,
+
+(ii) the person may during the period of 21 days beginning on the date of the notice make to the Agency or the railway undertaking concerned, as the case may be, at the address specified in the notice a payment of €100, or in lieu of that amount such other amount standing prescribed for the time being, accompanied by the notice, and
+
+(iii) a prosecution in respect of the alleged offence will not be instituted during the period specified in the notice and, if the payment specified in the notice is made during that period, no prosecution in respect of the alleged offence will be instituted.
+
+(2) Where a fixed payment notice is given under *subsection (1)*—
+
+(*a*) a person to whom the notice applies may, during the period specified in the notice, make to the Agency or the railway undertaking concerned, as the case may be, at the address specified in the notice the payment specified in it and accompanied by the notice,
+
+(*b*) the Agency or the railway undertaking concerned may receive the payment, issue a receipt for it and retain the money so paid, and any payment so received shall not be recoverable in any circumstances by the person who made it, and
+
+(*c*) a prosecution in respect of the alleged offence shall not be instituted in the period specified in the notice, and if the payment so specified is made during that period, no prosecution in respect of the alleged offence shall be instituted.
+
+(3) In a prosecution for an offence under this Act the onus of proving that a payment pursuant to a notice under this section has been made lies on the defendant.
+
+(4) In this section "prescribed" means prescribed in regulations made by the Minister.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F157: Inserted (18.12.2005) by *Railway Safety Act 2005* (31/2005), s. 134(1), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E39: Power pursuant to section exercised (30.04.2007) by *Light Railway (Fixed Payment Notice) Regulations 2007* (S.I. No. 189 of 2007).
+
+### 66D. Parking charges
+
+F158[**66D.**—The Agency may provide parking facilities on land adjacent to a railway and fix charges in respect of the parking of vehicles on such land.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F158: Inserted (1.10.2017) by *Vehicle Clamping Act 2015* (13/2015), s. 37(*c*), S.I. No. 211 of 2017.
+
+### 67. Powers of arrest under Part.
+
+**67.**—(1) If a member of the Garda Síochána reasonably suspects that a person has committed an offence under this Part, he or she may—
+
+(*a*) arrest that person without warrant, or
+
+(*b*) require him or her to give his or her name and address and, if the person fails or refuses to do so or gives a name or address that the member reasonably suspects to be false or misleading, the member may arrest that person without warrant.
+
+(2) A person who fails or refuses to give his or her name or address when required under *subsection (1)*, or gives a name or address which is false or misleading, is guilty of an offence and shall be liable on summary conviction to a fine not exceeding F159[€1,600].
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F159: Substituted (18.12.2005) by *Railway Safety Act 2005* (31/2005), s. 135(*h*), commenced on enactment. A fine of €1,600 translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(3), table ref. no. 1, S.I. No. 662 of 2010.
+
+### 68. Prosecutions for offences under Part.
+
+**68.**—Proceedings for an offence under this Part may be brought and prosecuted by the Agency, CIÉ, or railway undertaking operating the railway to which the offence relates.
+
+### 69. Application of Railways Acts.
+
+**69.**—The Regulation of Railways Acts, 1840 to 1889, and any other Act relating to railways shall, in so far as they are not inconsistent with the provisions of this Act, apply to railway undertakings and any railway constructed under this Act.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C19: Application of section restricted (18.12.2005) by *Railway Safety Act 2005* (31/2005), s. 4(2), commenced on enactment.
+>
+> **Application.**
+>
+> 4.— ...
+>
+> (2) Notwithstanding section 69 of the Transport (Railway Infrastructure) Act 2001, this Act applies to any railway works authorised by a railway order under section 43 of that Act.
+>
+> ...
+
+### 70. Amendment to section 43 of Act of 1993.
+
+**70.**—Section 43 of the Act of 1993 is amended by the substitution for subsection (2A) (inserted by section 3 of the Roads (Amendment) Act, 1998) of the following subsection:
+
+“(2A) Notwithstanding subsection (2) and section 46(4), direct access from any adjoining land to a motorway or from the motorway to such land may be granted by a road authority to the Railway Procurement Agency, an applicant or a railway undertaking (within the meaning of the *Transport (Railway Infrastructure) Act, 2001*) in respect of a railway (within the meaning of that Act)—
+
+(*a*) authorised by a railway order under *section 43* of the *Transport (Railway Infrastructure) Act, 2001,* or
+
+(*b*) the subject of an application for a railway order under *section 37* of that Act,
+
+subject to such conditions as the road authority may decide, and, accordingly, any such access shall not be a contravention of subsection (2) or section 46(4).”.
+
+### 71. Subsidiary of CIÉ.
+
+**71.**—(1) Such functions of CIÉ as it may determine may be performed by a subsidiary and, accordingly, CIÉ may, with the consent of the Minister and the Minister for Finance, for the purpose of such performance, acquire or form and establish one or more subsidiaries.
+
+(2) The memorandum and articles of association of a subsidiary shall be in such form as may be determined by CIÉ with the consent of the Minister and the Minister for Finance.
+
+(3) The Minister may give a direction in writing to CIÉ on any matter relating to a subsidiary or the policies, programmes or activities of a subsidiary and CIÉ shall comply or, as may be appropriate, secure compliance with the direction.
+
+(4) A direction under this subsection in relation to the disposal of any assets or surpluses of a subsidiary shall not be given without the consent of the Minister for Finance.
+
+(5) In this section, “subsidiary” means a subsidiary (within the meaning of section 155 of the Companies Act, 1963) of CIÉ.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C20: Functions under subs. (2) transferred and references to Minister for **Finance** construed as Minister for **Public Expenditure and Reform** (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in operation as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 55 of 2001</td><td>Transport (Railway Infrastructure) Act 2001</td><td>Sections 11(2), 12, 14, 17, 32 and 71</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> The history of the Ministers concerned with Finance aspects of the Act can be traced as follows:
+>
+> • Functions transferred and title of Minister for **Finance** changed to **Public Expenditure and Reform** (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2025);
+>
+> • Title of Minister for **Public Expenditure and Reform** changed to **Public Expenditure, National Development Plan Delivery and Reform** (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in operation as per art. 1(2);
+>
+> • Title of Minister for **Public Expenditure, National Development Plan Delivery and Reform** changed to **Public Expenditure, Infrastructure, Public Service Reform and Digitalisation** (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025).
+
+### 72. Amendment to section 11 of Transport (Re-organisation of Córas Iompair Éireann) Act, 1986.
+
+**72.**—(1) Section 11 of the Transport (Re-organisation of Córas Iompair Éireann) Act, 1986, is amended—
+
+(*a*) in subsection (2) (*a*), by the substitution for “6” of “9”, and
+
+(*b*) by the deletion of subsection (4),
+
+and the said paragraph, as so amended, is set out in the Table to this section.
+
+(2) CIÉ shall, as soon as may be, amend the articles of association of the three companies formed pursuant to section 6 of the Transport (Re-organisation of Córas Iompair Éireann) Act, 1986, to give effect to the amendment affected by *subsection (1)*.
+
+TABLE
+
+(*a*) the number of directors (including the chairman) shall not be more than 9;
+
+[^1]: OJ No. L 26, 28.1.2012, p. 1
+[^2]: OJ No. L 124, 25.4.2014, p. 1
+[^3]: OJ No. L 206, 22.7.1992, p. 7
+[^4]: OJ No. L 20, 26.1.2010, p. 7
+[^5]: OJ No. L 206, 22.7.1992, p. 7
+[^6]: OJ No. L 20, 26.1.2010, p. 7

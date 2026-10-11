@@ -1,0 +1,2530 @@
+---
+title: "Criminal Justice (Theft and Fraud Offences) Act, 2001"
+identifier: "eli/2001/act/50"
+type: act
+jurisdiction: ie
+language: en
+number: 50
+year: 2001
+date: 2001-12-19
+last_amended: 2023-11-01
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2001/act/50/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2001/act/50/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Criminal Justice (Theft and Fraud Offences) Act, 2001
+
+AN ACT TO AMEND THE LAW RELATING TO STEALING AND RELATED OFFENCES AND THEIR INVESTIGATION AND TRIAL; TO GIVE THE FORCE OF LAW TO PROVISIONS OF THE CONVENTION ON THE PROTECTION OF THE EUROPEAN COMMUNITIES' FINANCIAL INTERESTS DONE AT BRUSSELS ON 26 JULY 1995 AND THE THREE PROTOCOLS TO THAT CONVENTION; AND TO PROVIDE FOR CONSEQUENTIAL AND RELATED MATTERS. [19*th December*, 2001]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## PART 1Preliminary — PART 1 — Preliminary
+
+### 1. Short title and commencement.
+
+**1.**—(1) This Act may be cited as the Criminal Justice (Theft and Fraud Offences) Act, 2001.
+
+(2) Subject to *subsection (3)*, this Act shall come into operation on such day or days as may be appointed by order or orders made by the Minister, either generally or with reference to any particular purpose or provision, and different days may be so appointed for different purposes and different provisions of this Act.
+
+(3) *Parts 5* and *7* and *sections 23, 53, 58* and *60(1)* shall come into operation on the passing of this Act.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to subs. (2) exercised (1.08.2011) by *Criminal Justice (Theft and Fraud Offences) Act 2001 (Commencement) Order 2011* (S.I. No. 394 of 2011).
+>
+> 2\. The 1st day of August 2011 is appointed as the day on which section 57 of the Criminal Justice (Theft and Fraud Offences) Act 2001 (No. 50 of 2001) shall come into operation.
+>
+> E2: Power pursuant to subs. (2) exercised (1.08.2002) by *Criminal Justice (Theft and Fraud Offences) Act 2001 (Commencement) Order 2002* (S.I. No. 252 of 2002).
+>
+> The 1st day of August 2002 is fixed as the day on which the remaining provisions (other than section 57) of the Criminal Justice (Theft and Fraud Offences) Act 2001 shall come into operation, that is to say:
+>
+> (a) Parts 1, 2, 4 and 6, and
+>
+> (b) section 16 to 22, 54 to 56, 59, 60(2) and 61 to 65.
+
+### 2. Interpretation (general).
+
+**2.**—(1) In this Act—
+
+“appropriates” has the meaning given to it by *section 4(5)*;
+
+“deception” has the meaning given to it by *subsection (2)*;
+
+“dishonestly” means without a claim of right made in good faith;
+
+“document” includes—
+
+(*a*) a map, plan, graph, drawing, photograph or record, or
+
+(*b*) a reproduction in permanent legible form, by a computer or other means (including enlarging), of information in non-legible form;
+
+“gain” and “loss” have the meanings given to them by *subsection (3)*;
+
+“information in non-legible form” means information which is kept (by electronic means or otherwise) on microfilm, microfiche, magnetic tape or disk or in any other non-legible form;
+
+“owner” and “ownership”, in relation to property, have the meanings given to them by *subsection (4)*;
+
+“premises” includes a vehicle, vessel, aircraft or hovercraft or an installation in F1[the territorial sea or in a designated area (within the meaning of the Maritime Jurisdiction Act 2021)] or a tent, caravan or other temporary or movable structure;
+
+“property” means money and all other property, real or personal, including things in action and other intangible property;
+
+“record” includes any information in non-legible form which is capable of being reproduced in permanent legible form;
+
+“stealing” means committing an offence under *section 4*, and cognate words shall be construed accordingly;
+
+“stolen property” includes property which has been unlawfully obtained otherwise than by stealing, and cognate words shall be construed accordingly;
+
+“theft” has the meaning given to it by *section 4(1)*; and
+
+“unlawfully obtained” means obtained in circumstances constituting an offence, and cognate words shall be construed accordingly.
+
+(2) For the purposes of this Act a person deceives if he or she—
+
+(*a*) creates or reinforces a false impression, including a false impression as to law, value or intention or other state of mind,
+
+(*b*) prevents another person from acquiring information which would affect that person's judgement of a transaction, or
+
+(*c*) fails to correct a false impression which the deceiver previously created or reinforced or which the deceiver knows to be influencing another to whom he or she stands in a fiduciary or confidential relationship,
+
+and references to deception shall be construed accordingly.
+
+(3) For the purposes of this Act—
+
+(*a*) “gain” and “loss” are to be construed as extending only to gain or loss in money or other property, whether any such gain or loss is temporary or permanent,
+
+(*b*) “gain” includes a gain by keeping what one has, as well as a gain by getting what one has not, and
+
+(*c*) “loss” includes a loss by not getting what one might get, as well as a loss by parting with what one has.
+
+(4) For the purposes of this Act—
+
+(*a*) a person shall be regarded as owning property if he or she has possession or control of it, or has in it any proprietary right or interest (not being an equitable interest arising only from an agreement to transfer or grant an interest);
+
+(*b*) where property is subject to a trust, the persons who own it shall be regarded as including any person having a right to enforce the trust, and an intention to defeat the trust shall be regarded accordingly as an intention to deprive of the property any person having that right;
+
+(*c*) where a person receives property from or on behalf of another, and is under an obligation to that other person to retain and deal with that property or its proceeds in a particular way, that other person shall be regarded (as against the first-mentioned person) as the owner of the property;
+
+(*d*) where a person gets property by another's mistake and is under an obligation to make restoration (in whole or in part) of the property or its proceeds or of the value thereof, then the person entitled to restoration shall to the extent of that obligation be regarded (as against the first-mentioned person) as the owner of the property or its proceeds or an amount equivalent to its value, and an intention not to make restoration shall be regarded accordingly as an intention to deprive that person of the property, proceeds or such amount;
+
+(*e*) property of a corporation sole shall be regarded as belonging to the corporation notwithstanding a vacancy in the corporation,
+
+and references to “owner” and “ownership” shall be construed accordingly.
+
+(5) (*a*) A reference in this Act to a Part, section or Schedule is a reference to a Part, section or Schedule of this Act unless it is indicated that a reference to some other Act is intended.
+
+(*b*) A reference in this Act to a subsection, paragraph or subparagraph is to the subsection, paragraph or subparagraph of the provision in which the reference occurs unless it is indicated that a reference to some other provision is intended.
+
+(*c*) A reference in this Act to any enactment shall be construed as a reference to that enactment as amended, adapted or extended, whether before or after the passing of this Act, by or under any subsequent enactment.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1: Substituted (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 20(3) and sch. 2 item 23, S.I. No. 601 of 2021.
+
+### 3. Repeals, etc.
+
+**3.**—(1) Subject to *section 65*, the Acts specified in *Schedule 1* are repealed to the extent specified in the third column of that Schedule.
+
+(2) Any offence at common law of larceny, burglary, robbery, cheating (except in relation to the public revenue), extortion under colour of office and forgery is abolished.
+
+(3) The abolition of a common law offence mentioned in *subsection (2)* shall not affect proceedings for any such offence committed before its abolition.
+
+## PART 2Theft and Related Offences — PART 2 — Theft and Related Offences
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E3: Liability for repayment on conviction under Part provided (1.12.2005) by *Social Welfare (Consolidation) Act 2005* (26/2005), s. 337, S.I. No. 923 of 2005.
+
+### 4. Theft.
+
+**4.**—(1) Subject to *section 5*, a person is guilty of theft if he or she dishonestly appropriates property without the consent of its owner and with the intention of depriving its owner of it.
+
+(2) For the purposes of this section a person does not appropriate property without the consent of its owner if—
+
+(*a*) the person believes that he or she has the owner's consent, or would have the owner's consent if the owner knew of the appropriation of the property and the circumstances in which it was appropriated, or
+
+(*b*) (except where the property came to the person as trustee or personal representative) he or she appropriates the property in the belief that the owner cannot be discovered by taking reasonable steps,
+
+but consent obtained by deception or intimidation is not consent for those purposes.
+
+(3) (*a*) This subsection applies to a person who in the course of business holds property in trust for, or on behalf of, more than one owner.
+
+(*b*) Where a person to whom this subsection applies appropriates some of the property so held to his or her own use or benefit, the person shall, for the purposes of *subsection (1)* but subject to *subsection (2)*, be deemed to have appropriated the property or, as the case may be, a sum representing it without the consent of its owner or owners.
+
+(*c*) If in any proceedings against a person to whom this subsection applies for theft of some or all of the property so held by him or her it is proved that—
+
+(i) there is a deficiency in the property or a sum representing it, and
+
+(ii) the person has failed to provide a satisfactory explanation for the whole or any part of the deficiency,
+
+it shall be presumed, until the contrary is proved, for the purposes of *subsection (1)* but subject to *subsection (2)*, that the person appropriated, without the consent of its owner or owners, the whole or that part of the deficiency.
+
+(4) If at the trial of a person for theft the court or jury, as the case may be has to consider whether the person believed—
+
+(*a*) that he or she had not acted dishonestly, or
+
+(*b*) that the owner of the property concerned had consented or would have consented to its appropriation, or
+
+(*c*) that the owner could not be discovered by taking reasonable steps,
+
+the presence or absence of reasonable grounds for such a belief is a matter to which the court or jury shall have regard, in conjunction with any other relevant matters, in considering whether the person so believed.
+
+(5) In this section—
+
+“appropriates”, in relation to property, means usurps or adversely interferes with the proprietary rights of the owner of the property;
+
+“depriving” means temporarily or permanently depriving.
+
+(6) A person guilty of theft is liable on conviction on indictment to a fine or imprisonment for a term not exceeding 10 years or both.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E4: Offence under section designated a relevant offence for purposes of *Criminal Justice Act 2011* (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3 and sch. 1 para. 23, S.I. No. 411 of 2011.
+
+### 5. Exceptions to theft.
+
+**5.**—(1) Where property or a right or interest in property is or purports to be transferred for value to a person acting in good faith, no later assumption by that person of rights which that person believes himself or herself to be acquiring shall, by reason of any defect in the transferor's title, amount to theft of the property.
+
+(2) A person cannot steal land, or things forming part of land and severed from it by or under his or her directions, except where the person—
+
+(*a*) being a trustee, personal representative or other person authorised by power of attorney or as liquidator of a company or otherwise to sell or dispose of land owned by another, appropriates the land or anything forming part of it by dealing with it in breach of the confidence reposed in him or her, or
+
+(*b*) not being in possession of the land, appropriates anything forming part of the land by severing it or causing it to be severed, or after it has been severed, or
+
+(*c*) being in possession of the land under a tenancy or licence, appropriates the whole or part of any fixture or structure let or licensed to be used with the land.
+
+(3) For the purposes of *subsection (2)*—
+
+(*a*) “land” does not include incorporeal hereditaments,
+
+“tenancy” means a tenancy for years or any less period and includes an agreement for such a tenancy,
+
+“licence” includes an agreement for a licence,
+
+and
+
+(*b*) a person who after the expiration of a tenancy or licence remains in possession of land shall be treated as having possession under the tenancy or licence, and “let” and “licensed” shall be construed accordingly.
+
+(4) A person who picks mushrooms or any other fungus growing wild on any land, or who picks flowers, fruit or foliage from a plant (including any shrub or tree) growing wild on any land, does not (although not in possession of the land) steal what is picked, unless he or she does it for reward or for sale or other commercial purpose.
+
+(5) Wild creatures, tamed or untamed, shall be regarded as property; but a person cannot steal a wild creature not tamed or ordinarily kept in captivity, or the carcase of any such creature, unless it has been reduced into possession by or on behalf of another person and possession of it has not since been lost or abandoned, or another person is in course of reducing it into possession.
+
+### 6. Making gain or causing loss by deception.
+
+**6.**—(1) A person who dishonestly, with the intention of making a gain for himself or herself or another, or of causing loss to another, by any deception induces another to do or refrain from doing an act is guilty of an offence.
+
+(2) A person guilty of an offence under this section is liable on conviction on indictment to a fine or imprisonment for a term not exceeding 5 years or both.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E5: Offence under section designated a relevant offence for purposes of *Criminal Justice Act 2011* (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3 and sch. 1 para. 23, S.I. No. 411 of 2011.
+
+### 7. Obtaining services by deception.
+
+**7.**—(1) A person who dishonestly, with the intention of making a gain for himself or herself or another, or of causing loss to another, by any deception obtains services from another is guilty of an offence.
+
+(2) For the purposes of this section a person obtains services from another where the other is induced to confer a benefit on some person by doing some act, or causing or permitting some act to be done, on the understanding that the benefit has been or will be paid for.
+
+(3) Without prejudice to the generality of *subsection (2)*, a person obtains services where the other is induced to make a loan, or to cause or permit a loan to be made, on the understanding that any payment (whether by way of interest or otherwise) will be or has been made in respect of the loan.
+
+(4) A person guilty of an offence under this section is liable on conviction on indictment to a fine or imprisonment for a term not exceeding 5 years or both.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E6: Offence under section designated a relevant offence for purposes of *Criminal Justice Act 2011* (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3 and sch. 1 para. 23, S.I. No. 411 of 2011.
+
+### 8. Making off without payment.
+
+**8.**—(1) Subject to *subsection (2)*, a person who, knowing that payment on the spot for any goods obtained or any service done is required or expected, dishonestly makes off without having paid as required or expected and with the intention of avoiding payment on the spot is guilty of an offence.
+
+(2) *Subsection (1)* shall not apply where the supply of the goods or the doing of the service is contrary to law or where the service done is such that payment is not legally enforceable.
+
+(3) Subject to *subsections (5)* and *(6)*, any person may arrest without warrant anyone who is or whom he or she, with reasonable cause, suspects to be in the act of committing an offence under this section.
+
+(4) Where a member of the Garda Síochána, with reasonable cause, suspects that an offence under this section has been committed, he or she may arrest without warrant any person whom the member, with reasonable cause, suspects to be guilty of the offence.
+
+(5) An arrest other than by a member of the Garda Síochána may be effected by a person under *subsection (3)* only where the person, with reasonable cause, suspects that the person to be arrested by him or her would otherwise attempt to avoid, or is avoiding, arrest by a member of the Garda Síochána.
+
+(6) A person who is arrested pursuant to this section by a person other than a member of the Garda Síochána shall be transferred by that person into the custody of the Garda Síochána as soon as practicable.
+
+(7) A person guilty of an offence under this section is liable on conviction on indictment to a fine not exceeding £3,000 or imprisonment for a term not exceeding 2 years or both.
+
+### 9. Unlawful use of computer.
+
+**9.**—(1) A person who dishonestly, whether within or outside the State, operates or causes to be operated a computer within the State with the intention of making a gain for himself or herself or another, or of causing loss to another, is guilty of an offence.
+
+(2) A person guilty of an offence under this section is liable on conviction on indictment to a fine or imprisonment for a term not exceeding 10 years or both.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E7: Offence under section designated a relevant offence for purposes of *Criminal Justice Act 2011* (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3 and sch. 1 para. 23, S.I. No. 411 of 2011.
+
+### 10. False accounting.
+
+**10.**—(1) A person is guilty of an offence if he or she dishonestly, with the intention of making a gain for himself or herself or another, or of causing loss to another—
+
+(*a*) destroys, defaces, conceals or falsifies any account or any document made or required for any accounting purpose,
+
+(*b*) fails to make or complete any account or any such document, or
+
+(*c*) in furnishing information for any purpose produces or makes use of any account, or any such document, which to his or her knowledge is or may be misleading, false or deceptive in a material particular.
+
+(2) For the purposes of this section a person shall be treated as falsifying an account or other document if he or she—
+
+(*a*) makes or concurs in making therein an entry which is or may be misleading, false or deceptive in a material particular, or
+
+(*b*) omits or concurs in omitting a material particular therefrom.
+
+(3) A person guilty of an offence under this section is liable on conviction on indictment to a fine or imprisonment for a term not exceeding 10 years or both.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E8: Offence under section designated a relevant offence for purposes of *Criminal Justice Act 2011* (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3 and sch. 1 para. 23, S.I. No. 411 of 2011.
+
+### 11. Suppression, etc., of documents.
+
+**11.**—(1) A person is guilty of an offence if he or she dishonestly, with the intention of making a gain for himself or herself or another, or of causing loss to another, destroys, defaces or conceals any valuable security, any will or other testamentary document or any original document of or belonging to, or filed or deposited in, any court or any government department or office.
+
+(2) (*a*) A person who dishonestly, with the intention of making a gain for himself or herself or another, or of causing loss to another, by any deception procures the execution of a valuable security is guilty of an offence.
+
+(*b*) *Paragraph (a)* shall apply in relation to—
+
+(i) the making, acceptance, endorsement, alteration, cancellation or destruction in whole or in part of a valuable security, and
+
+(ii) the signing or sealing of any paper or other material in order that it may be made or converted into, or used or dealt with as, a valuable security,
+
+as if that were the execution of a valuable security.
+
+(3) In this section, “valuable security” means any document—
+
+(*a*) creating, transferring, surrendering or releasing any right to, in or over property,
+
+(*b*) authorising the payment of money or delivery of any property, or
+
+(*c*) evidencing the creation, transfer, surrender or release of any such right, the payment of money or delivery of any property or the satisfaction of any obligation.
+
+(4) A person guilty of an offence under this section is liable on conviction on indictment to a fine or imprisonment for a term not exceeding 10 years or both.
+
+### 12. Burglary.
+
+**12.**—(1) A person is guilty of burglary if he or she—
+
+(*a*) enters any building or part of a building as a trespasser and with intent to commit an arrestable offence, or
+
+(*b*) having entered any building or part of a building as a trespasser, commits or attempts to commit any such offence therein.
+
+(2) References in *subsection (1)* to a building shall apply also to an inhabited vehicle or vessel and to any other inhabited temporary or movable structure, and shall apply to any such vehicle, vessel or structure at times when the person having a habitation in it is not there as well as at times when the person is there.
+
+(3) A person guilty of burglary is liable on conviction on indictment to a fine or imprisonment for a term not exceeding 14 years or both.
+
+(4) In this section, “arrestable offence” means an offence for which a person of full age and not previously convicted may be punished by imprisonment for a term of five years or by a more severe penalty.
+
+### 13. Aggravated burglary.
+
+**13.**—(1) A person is guilty of aggravated burglary if he or she commits any burglary and at the time has with him or her any firearm or imitation firearm, any weapon of offence or any explosive.
+
+(2) In *subsection (1)*—
+
+“explosive” means any article manufactured for the purpose of producing a practical effect by explosion, or intended by the person having it with him or her for that purpose;
+
+“firearm” means:
+
+(*a*) a lethal firearm or other lethal weapon of any description from which any shot, bullet or other missile can be discharged,
+
+(*b*) an air gun (which expression includes an air rifle and an air pistol) or any other weapon incorporating a barrel from which metal or other slugs can be discharged,
+
+(*c*) a crossbow,
+
+(*d*) any type of stun gun or other weapon for causing any shock or other disablement to a person by means of electricity or any other kind of energy emission;
+
+“imitation firearm” means anything which is not a firearm but has the appearance of being one;
+
+“weapon of offence” means:
+
+(*a*) any article which has a blade or sharp point,
+
+(*b*) any other article made or adapted for use for causing injury to or incapacitating a person, or intended by the person having it with him or her for such use or for threatening such use,
+
+(*c*) any weapon of whatever description designed for the discharge of any noxious liquid, noxious gas or other noxious thing.
+
+(3) A person guilty of aggravated burglary is liable on conviction on indictment to imprisonment for life.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E9: Offence under section may be re-tried with court approval as provided (1.09.2010) by *Criminal Procedure Act 2010* (27/2010), ss. 15-18 and sch. para. 21, S.I. No. 414 of 2010.
+>
+> E10: Offence under section may merit minimum sentence under certain condititions as provided (18.05.2007) by *Criminal Justice Act 2007* (22/2007), s. 25 and sch. 2 para. 7, S.I. No. 236 of 2007.
+>
+> E11: Certain persons convicted under section may be made subject of a monitoring order or protection of person order as provided (18.05.2007) by *Criminal Justice Act 2007* (22/2007), s. 26(1) and sch. 2 para. 7, S.I. No. 236 of 2007.
+
+### 14. Robbery.
+
+**14.**—(1) A person is guilty of robbery if he or she steals, and immediately before or at the time of doing so, and in order to do so, uses force on any person or puts or seeks to put any person in fear of being then and there subjected to force.
+
+(2) A person guilty of robbery is liable on conviction on indictment to imprisonment for life.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E12: Offence under section may be re-tried with court approval as provided (1.09.2010) by *Criminal Procedure Act 2010* (27/2010), ss. 15-18 and sch. para. 21, S.I. No. 414 of 2010.
+
+### 15. Possession of certain articles.
+
+**15.**—(1) A person who is, when not at his or her place of residence, in possession of any article with the intention that it be used in the course of or in connection with—
+
+(*a*) theft or burglary,
+
+(*b*) an offence under *section 6* or *7*,
+
+F2[(*aa*) robbery,]
+
+(*c*) an offence under *section 17* (blackmail, extortion, demanding money with menaces) of the Criminal Justice (Public Order) Act, 1994, or
+
+(*d*) an offence under section 112 (taking a vehicle without lawful authority) of the Road Traffic Act, 1961,
+
+is guilty of an offence.
+
+F3[(1A) A person who, without lawful authority or reasonable excuse, is in possession of any article made or adapted for use in the course of, or in connection with, the commission of an offence referred to in *paragraphs (a)* to *(d)* of *subsection (1)* is guilty of an offence.]
+
+F4[(2) It is a defence for a person charged with an offence under *subsection (1)* to prove that at the time of the alleged offence the article concerned was not in his or her possession for a purpose specified in that subsection.
+
+(2A) It is a defence for a person charged with an offence under *subsection (1A)* to prove that the article concerned was not made or adapted for use in the course of or in connection with the commission of an offence referred to in *paragraphs (a)* to *(d)* of *subsection (1)*.]
+
+(3) Where a person is convicted of an offence under this section, the court may order that any article for the possession of which he or she was so convicted shall be forfeited and either destroyed or disposed of in such manner as the court may determine.
+
+(4) An order under *subsection (3)* shall not take effect until the ordinary time for instituting an appeal against the conviction or order concerned has expired or, where such an appeal is instituted, until it or any further appeal is finally decided or abandoned or the ordinary time for instituting any further appeal has expired.
+
+(5) A person guilty of an offence under this section is liable on conviction on indictment to a fine or imprisonment for a term not exceeding 5 years or both.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F2: Inserted (18.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 47(a)(i), S.I. No. 236 of 2007.
+>
+> F3: Inserted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 49(a), S.I. No. 330 of 2009.
+>
+> F4: Substituted and inserted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 49(b), S.I. No. 330 of 2009.
+>
+> **Editorial Notes:**
+>
+> E13: Offence under section designated a relevant offence for purposes of *Criminal Justice Act 2011* (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3 and sch. 1 para. 23, S.I. No. 411 of 2011.
+>
+> E14: Previous affecting provision: subs. (2) substituted (18.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 47(a)(ii), S.I. No. 236 of 2007; substituted as per F-note above.
+
+## PART 3Handling, etc. Stolen Property and Other Proceeds of Crime — PART 3 — Handling, etc. Stolen Property and Other Proceeds of Crime
+
+### 16. Interpretation (Part 3).
+
+**16.**—(1) In this Part “principal offender”, for the purposes of *sections 17* and *18*, means the person who has stolen or otherwise unlawfully obtained the property alleged to have been handled or possessed, and cognate words shall be construed accordingly.
+
+(2) For the purposes of this Part, a person is reckless if he or she disregards a substantial risk that the property handled is stolen, and for those purposes “substantial risk” means a risk of such a nature and degree that, having regard to the circumstances in which the person acquired the property and the extent of the information then available to him or her, its disregard involves culpability of a high degree.
+
+(3) This Part is without prejudice to section 31 (as substituted by *section 21* of this Act) of the Criminal Justice Act, 1994.
+
+### 17. Handling stolen property.
+
+**17.**—(1) A person is guilty of handling stolen property if (otherwise than in the course of the stealing) he or she, knowing that the property was stolen or being reckless as to whether it was stolen, dishonestly—
+
+(*a*) receives or arranges to receive it, or
+
+(*b*) undertakes, or assists in, its retention, removal, disposal or realisation by or for the benefit of another person, or arranges to do so.
+
+(2) Where a person—
+
+(*a*) receives or arranges to receive property, or
+
+(*b*) undertakes, or assists in, its retention, removal, disposal or realisation by or for the benefit of another person, or arranges to do so,
+
+in such circumstances that it is reasonable to conclude that the person either knew that the property was stolen or was reckless as to whether it was stolen, he or she shall be taken for the purposes of this section to have so known or to have been so reckless, unless the court or the jury, as the case may be, is satisfied having regard to all the evidence that there is a reasonable doubt as to whether he or she so knew or was so reckless.
+
+(3) A person to whom this section applies may be tried and convicted whether the principal offender has or has not been previously convicted or is or is not amenable to justice.
+
+(4) A person guilty of handling stolen property is liable on conviction on indictment to a fine or imprisonment for a term not exceeding 10 years or both, but is not liable to a higher fine or longer term of imprisonment than that which applies to the principal offence.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E15: Offence under section designated a relevant offence for purposes of *Criminal Justice Act 2011* (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3 and sch. 1 para. 23, S.I. No. 411 of 2011.
+
+### 18. Possession of stolen property.
+
+**18.**—(1) A person who, without lawful authority or excuse, possesses stolen property (otherwise than in the course of the stealing), knowing that the property was stolen or being reckless as to whether it was stolen, is guilty of an offence.
+
+(2) Where a person has in his or her possession stolen property in such circumstances (including purchase of the property at a price below its market value) that it is reasonable to conclude that the person either knew that the property was stolen or was reckless as to whether it was stolen, he or she shall be taken for the purposes of this section to have so known or to have been so reckless, unless the court or the jury, as the case may be, is satisfied having regard to all the evidence that there is a reasonable doubt as to whether he or she so knew or was so reckless.
+
+(3) A person to whom this section applies may be tried and convicted whether the principal offender has or has not been previously convicted or is or is not amenable to justice.
+
+(4) A person guilty of an offence under this section is liable on conviction on indictment to a fine or imprisonment for a term not exceeding 5 years or both, but is not liable to a higher fine or longer term of imprisonment than that which applies to the principal offence.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E16: Offence under section designated a relevant offence for purposes of *Criminal Justice Act 2011* (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3 and sch. 1 para. 23, S.I. No. 411 of 2011.
+
+### 19. Withholding information regarding stolen property.
+
+**19.**—(1) Where a member of the Garda Síochána—
+
+(*a*) has reasonable grounds for believing that an offence consisting of stealing property or of handling stolen property has been committed,
+
+(*b*) finds any person in possession of any property,
+
+(*c*) has reasonable grounds for believing that the property referred to in *paragraph (b)* includes, or may include, property referred to in *paragraph (a)* or part of it, or the whole or any part of the proceeds of that property or part, and
+
+(*d*) informs the person of his or her belief,
+
+the member may require the person to give an account of how he or she came by the property.
+
+(2) If the person fails or refuses, without reasonable excuse, to give such account or gives information that the person knows to be false or misleading, he or she is guilty of an offence and is liable on summary conviction to a fine not exceeding F5[€5,000] or imprisonment for a term not exceeding 12 months or both.
+
+(3) *Subsection (2)* shall not have effect unless the person when required to give the account was told in ordinary language by the member of the Garda Síochána what the effect of the failure or refusal might be.
+
+(4) Any information given by a person in compliance with a requirement under *subsection (1)* shall not be admissible in evidence against that person or his or her spouse in any criminal proceedings, other than proceedings for an offence under *subsection (2)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F5: Substituted (18.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 47(b), S.I. No. 236 of 2007.
+
+### 20. Scope of offences relating to stolen property.
+
+**20.**—(1) The provisions of this Part relating to property which has been stolen apply—
+
+(*a*) whether the stealing occurred before or after the commencement of this Act, and
+
+(*b*) to stealing outside the State if the stealing constituted an offence where and at the time when the property was stolen,
+
+and references to stolen property shall be construed accordingly.
+
+(2) For the purposes of those provisions references to stolen property include, in addition to the property originally stolen and parts of it (whether in their original state or not)—
+
+(*a*) any property which directly or indirectly represents, or has at any time represented, the stolen property in the hands of the person who stole the property as being the proceeds of any disposal or realisation of the whole or part of the stolen property or of property so representing the stolen property, and
+
+(*b*) any property which directly or indirectly represents, or has at any time represented, the stolen property in the hands of a handler or possessor of the stolen property or any part of it as being the proceeds of any disposal or realisation of the whole or part of the stolen property handled or possessed by him or her or of property so representing it.
+
+(3) However, property shall not be regarded as having continued to be stolen property after it has been restored to the person from whom it was stolen or to other lawful possession or custody, or after that person and any other person claiming through him or her have otherwise ceased, as regards that property, to have any right to restitution in respect of the stealing.
+
+### 21. Amendment of section 31 of Criminal Justice Act, 1994.
+
+**21.**—The Criminal Justice Act, 1994, is hereby amended by the substitution of the following section for section 31 (money laundering, etc.):
+
+“31.—(1) A person is guilty of money laundering if, knowing or believing that property is or represents the proceeds of criminal conduct or being reckless as to whether it is or represents such proceeds, the person, without lawful authority or excuse (the proof of which shall lie on him or her)—
+
+(*a*) converts, transfers or handles the property, or removes it from the State, with the intention of—
+
+(i) concealing or disguising its true nature, source, location, disposition, movement or ownership or any rights with respect to it, or
+
+(ii) assisting another person to avoid prosecution for the criminal conduct concerned, or
+
+(iii) avoiding the making of a confiscation order or a confiscation co-operation order (within the meaning of section 46 of this Act) or frustrating its enforcement against that person or another person,
+
+(*b*) conceals or disguises its true nature, source, location, disposition, movement or ownership or any rights with respect to it, or
+
+(*c*) acquires, possesses or uses the property.
+
+(2) A person guilty of money laundering is liable—
+
+(*a*) on summary conviction, to a fine not exceeding £1,500 or to imprisonment for a term not exceeding 12 months or to both, or
+
+(*b*) on conviction on indictment, to a fine or to imprisonment for a term not exceeding 14 years or to both.
+
+(3) Where a person—
+
+(*a*) converts, transfers, handles or removes from the State any property which is or represents the proceeds of criminal conduct,
+
+(*b*) conceals or disguises its true nature, source, location, disposition, movement or ownership or any rights with respect to it, or
+
+(*c*) acquires, possesses or uses it,
+
+in such circumstances that it is reasonable to conclude that the person—
+
+(i) knew or believed that the property was or represented the proceeds of criminal conduct, or
+
+(ii) was reckless as to whether it was or represented such proceeds,
+
+the person shall be taken to have so known or believed or to have been so reckless, unless the court or jury, as the case may be, is satisfied having regard to all the evidence that there is a reasonable doubt as to whether the person so knew or believed or was so reckless.
+
+(4) Where a person first referred to in subsection (1) of this section does an act referred to in paragraph (*a*) of that subsection in such circumstances that it is reasonable to conclude that the act was done with an intention specified in that paragraph, the person shall be taken to have done the act with that intention unless the court or jury, as the case may be, is satisfied having regard to all the evidence that there is a reasonable doubt as to whether the person did it with that intention.
+
+(5) This section does not apply to a person in respect of anything done by the person in connection with the enforcement of any law.
+
+(6) This Part shall apply whether the criminal conduct in question occurred before or after the commencement of this section and whether it was or is attributable to the person first mentioned in subsection (1) or another.
+
+(7) (*a*) In this section—
+
+(i) criminal conduct’ means conduct which—
+
+(I) constitutes an indictable offence, or
+
+(II) where the conduct occurs outside the State, would constitute such an offence if it occurred within the State and also constitutes an offence under the law of the country or territorial unit in which it occurs,
+
+and includes participation in such conduct;
+
+(ii) 'reckless' shall be construed in accordance with *section 16(2)* of the *Criminal Justice Theft and Fraud Offences) Act, 2001*;
+
+(iii) references to converting, transferring, handling or removing any property include references to the provision of any advice or assistance in relation to converting, transferring, handling or removing it;
+
+(iv) references to believing that any property is or represents the proceeds of criminal conduct include references to thinking that the property was probably, or probably represented, such proceeds;
+
+(v) references to any property representing the proceeds of criminal conduct include references to the property representing those proceeds in whole or in part directly or indirectly, and cognate references shall be construed accordingly.
+
+(*b*) For the purposes of this section a person handles property if he or she, without a claim of right made in good faith—
+
+(i) receives it, or
+
+(ii) undertakes or assists in its retention, removal, disposal or realisation by or for the benefit of another person, or
+
+(iii) arranges to do any of the things specified in subparagraph (i) or (ii).
+
+(*c*) For the purposes of paragraph (*a*)(i)(II)—
+
+(i) a document purporting to be signed by a lawyer practising in the state or territorial unit in which the criminal conduct concerned is alleged to have occurred and stating that such conduct is an offence under the law of that state or territorial unit, and
+
+(ii) a document purporting to be a translation of a document mentioned in subparagraph (i) and to be certified as correct by a person appearing to be competent to so certify,
+
+shall be admissible in any proceedings, without further proof, as evidence of the matters mentioned in those documents, unless the contrary is shown.
+
+(8) Where—
+
+(*a*) a report is made by a person or body to the Garda Síochána under section 57 of this Act in relation to property referred to in this section, or
+
+(*b*) a person or body (other than a person or body suspected of committing an offence under this section) is informed by the Garda Síochána that property in the possession of the person or body is property referred to in this section,
+
+the person or body shall not commit an offence under this section or section 58 of this Act if and for as long as the person or body complies with the directions of the Garda Síochána in relation to the property.”.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E17: The above s. 31, inserted into *Criminal Justice Act 1994* (15/1994), was repealed (15.07.2010) by *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010* (6/2010), s. 4(1), S.I. No. 342 of 2010.
+
+### 22. Amendment of section 56A of Criminal Justice Act, 1994.
+
+**22.**—F6[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F6: Repealed (1.09.2008) by *Criminal Justice (Mutual Assistance) Act 2008* (7/2008), s. 10, S.I. No. 338 of 2008.
+
+### 23. Amendment of Criminal Justice Act, 1994.
+
+**23.**—The Criminal Justice Act, 1994, is hereby amended by the insertion of the following section after section 57:
+
+| “Designation of certain states or territorial units. | 57A.—(1) The Minister may by order, after consultation with the Minister for Finance, designate any state, or territorial unit within a state, that in his or her opinion has not in place adequate procedures for the detection of money laundering. (2) Any person or body to whom or which section 32 of this Act applies (including any director, employee or officer thereof) shall report to the Garda Síochána any transaction connected with a state or territorial unit that stands designated under subsection (1). (3) A person charged by law with the supervision of a person or body to whom or which section 32 of this Act applies shall report to the Garda Síochána if the person suspects that a transaction referred to in subsection (2) has taken place and that that subsection has not been complied with by the person or body with whose supervision the first-mentioned person is so charged. (4) A report may be made to the Garda Síochána under this section in accordance with an internal reporting procedure established by an employer for the purpose of facilitating the operation of this section. (5) In the case of a person who was in employment at the relevant time, it shall be a defence to a charge of committing an offence under this section that the person charged made a report of the type referred to in subsection (2) or (3) of this section, as the case may be, to another person in accordance with an internal reporting procedure established for the purpose specified in subsection (4) of this section. (6) A person who fails to comply with subsection (2) or (3) of this section is guilty of an offence and liable— (*a*) on summary conviction, to a fine not exceeding £1,000 or to imprisonment for a term not exceeding 12 months or both, or (*b*) on conviction on indictment, to a fine or to imprisonment for a term not exceeding 5 years or to both. (7) In determining whether a person has complied with any of the requirements of this section, a court may take account of any relevant supervisory or regulatory guidance which applies to that person or any other relevant guidance issued by a body that regulates, or is representative of, any trade, profession, business or employment carried on by that person. (8) Where a person or body discloses in good faith information in the course of making a report under subsection (2) or (3) of this section, the disclosure shall not be treated as a breach of any restriction on the disclosure of information imposed by statute or otherwise or involve the person or body making the disclosure (or any director, employee or officer of the body) in liability of any kind. (9) The Minister may by order, after consultation with the Minister for Finance, amend or revoke an order under this section, including an order under this subsection.”. |
+|---|---|
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E18: The above s. 57A, inserted into *Criminal Justice Act 1994* (15/1994), was repealed (15.07.2010) by *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010* (6/2010), s. 4(1), S.I. No. 342 of 2010.
+
+## PART 4Forgery — PART 4 — Forgery
+
+### 24. Interpretation (Part 4).
+
+**24.**—In this Part—
+
+“false” and “making”, in relation to an instrument, have the meanings assigned to these words by *section 30*;
+
+“instrument” means any document, whether of a formal or informal character (other than a currency note within the meaning of *Part 5*) and includes any—
+
+(*a*) disk, tape, sound track or other device on or in which information is recorded or stored by mechanical, electronic or other means,
+
+(*b*) money order,
+
+(*c*) postal order,
+
+(*d*) postage stamp issued or sold by An Post or any mark denoting payment of postage which is authorised by An Post to be used instead of an adhesive stamp,
+
+(*e*) stamp of the Revenue Commissioners denoting any stamp duty or fee, whether it is an adhesive stamp or a stamp impressed by means of a die,
+
+(*f*) licence or certificate issued by the Revenue Commissioners,
+
+(*g*) cheque, including traveller's cheque, or bank draft,
+
+(*h*) charge card, cheque card, credit card, debit card or any card combining two or more of the functions performed by such cards,
+
+(*i*) share certificate,
+
+(*j*) certified copy, issued by or on behalf of an tArd-Chláraitheoir, of an entry in any register of births, stillbirths, marriages or deaths or in the Adopted Children Register,
+
+(*k*) certificate relating to such an entry,
+
+(*l*) a certificate of insurance,
+
+(*m*) passport or document which can be used instead of a passport,
+
+(*n*) document issued by or on behalf of a Minister of the Government and permitting or authorising a person to enter or remain (whether temporarily or permanently) in the State or to enter employment F7[or self-employment] therein,
+
+(*o*) registration certificate issued under Article 11(1)(*e*)(i) of the Aliens Order, 1946 (S.I. No. 395 of 1946) F8[or the Immigration Act 2004],
+
+(*p*) F9[public services card],
+
+(*q*) ticket of admission to an event to which members of the public may be admitted on payment of a fee;
+
+“prejudice” and “induce”, in relation to a person, have the meanings assigned to those words by *section 31*;
+
+“share certificate” means a document entitling or evidencing the title of a person to a share or interest—
+
+(*a*) in any public stock, annuity, fund or debt of the Government or the State or of any government or state, including a state which forms part of another state, or
+
+(*b*) in any stock, fund or debt of a body (whether corporate or unincorporated), wherever established.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F7: Inserted (30.06.2018) by *European Communities (Reception Conditions) Regulations 2018* (S.I. No. 230 of 2018), reg. 28, in effect as per reg. 1(2).
+>
+> F8: Inserted (13.02.2004) by *Immigration Act 2004* (1/2004), s. 16(7), commenced on enactment.
+>
+> F9: Substituted (21.12.2010) by *Social Welfare and Pensions Act 2010* (37/2010), s. 9(4), commenced on enactment.
+
+### 25. Forgery.
+
+**25.**—(1) A person is guilty of forgery if he or she makes a false instrument with the intention that it shall be used to induce another person to accept it as genuine and, by reason of so accepting it, to do some act, or to make some omission, to the prejudice of that person or any other person.
+
+(2) A person guilty of forgery is liable on conviction on indictment to a fine or imprisonment for a term not exceeding 10 years or both.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E19: Offence under section designated a relevant offence for purposes of *Criminal Justice Act 2011* (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3 and sch. 1 para. 23, S.I. No. 411 of 2011.
+
+### 26. Using false instrument.
+
+**26.**—(1) A person who uses an instrument which is, and which he or she knows or believes to be, a false instrument, with the intention of inducing another person to accept it as genuine and, by reason of so accepting it, to do some act, or to make some omission, or to provide some service, to the prejudice of that person or any other person is guilty of an offence.
+
+(2) A person guilty of an offence under this section is liable on conviction on indictment to a fine or imprisonment for a term not exceeding 10 years or both.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E20: Offence under section designated a relevant offence for purposes of *Criminal Justice Act 2011* (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3 and sch. 1 para. 23, S.I. No. 411 of 2011.
+
+### 27. Copying false instrument.
+
+**27.**—(1) A person who makes a copy of an instrument which is, and which he or she knows or believes to be, a false instrument with the intention that it shall be used to induce another person to accept it as a copy of a genuine instrument and, by reason of so accepting it, to do some act, or to make some omission, or to provide some service, to the prejudice of that person or any other person is guilty of an offence.
+
+(2) A person guilty of an offence under this section is liable on conviction on indictment to a fine or imprisonment for a term not exceeding 10 years or both.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E21: Offence under section designated a relevant offence for purposes of *Criminal Justice Act 2011* (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3 and sch. 1 para. 23, S.I. No. 411 of 2011.
+
+### 28. Using copy of false instrument.
+
+**28.**—(1) A person who uses a copy of an instrument which is, and which he or she knows or believes to be, a false instrument with the intention of inducing another person to accept it as a copy of a genuine instrument and, by reason of so accepting it, to do some act, or to make some omission, or to provide some service, to the prejudice of that person or another person is guilty of an offence.
+
+(2) A person guilty of an offence under this section is liable on conviction on indictment to a fine or imprisonment for a term not exceeding 10 years or both.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E22: Offence under section designated a relevant offence for purposes of *Criminal Justice Act 2011* (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3 and sch. 1 para. 23, S.I. No. 411 of 2011.
+
+### 29. Custody or control of certain false instruments, etc.
+
+**29.**—(1) A person who has in his or her custody or under his or her control an instrument which is, and which he or she knows or believes to be, a false instrument with the intention that it shall be used to induce another person to accept it as genuine and, by reason of so accepting it, to do some act, or to make some omission, or to provide some service, to the prejudice of that person or any other person is guilty of an offence.
+
+(2) A person who, without lawful authority or excuse, has an instrument which is, and which he or she knows or believes to be, a false instrument in his or her custody or under his or her control is guilty of an offence.
+
+(3) A person who makes or has in his or her custody or under his or her control a machine, stamp, implement, paper or any other material, which to his or her knowledge is or has been specially designed or adapted for the making of an instrument with the intention—
+
+(*a*) that it would be used in the making of a false instrument, and
+
+(*b*) that the instrument would be used to induce another person to accept it as genuine and, by reason of so accepting it, to do some act, or to make some omission, or to provide some service, to the prejudice of that person or any other person,
+
+is guilty of an offence.
+
+(4) A person who, without lawful authority or excuse, has in his or her custody or under his or her control any machine, stamp, implement, paper or material which to his or her knowledge is or has been specially designed or adapted for the making of an instrument with the intention that it would be used for the making of a false instrument is guilty of an offence.
+
+(5) In *subsections (3)* and *(4)*, references to a machine include references to any disk, tape, drive or other device on or in which a program is recorded or stored by mechanical, electronic or other means, being a program designed or adapted to enable an instrument to be made or to assist in its making, and those subsections shall apply and have effect accordingly.
+
+(6) A person guilty of an offence under this section is liable on conviction on indictment to a fine or imprisonment for a term not exceeding—
+
+(*a*) in the case of an offence under *subsection (2)* or *(4)*, 5 years,
+
+(*b*) in the case of an offence under *subsection (1)* or *(3)*, 10 years,
+
+or both.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E23: Offence under section designated a relevant offence for purposes of *Criminal Justice Act 2011* (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3 and sch. 1 para. 23, S.I. No. 411 of 2011.
+
+### 30. Meaning of “false” and “making”.
+
+**30.**—(1) An instrument is false for the purposes of this Part if it purports—
+
+(*a*) to have been made in the form in which it is made by a person who did not in fact make it in that form,
+
+(*b*) to have been made in the form in which it is made on the authority of a person who did not in fact authorise its making in that form,
+
+(*c*) to have been made in the terms in which it is made by a person who did not in fact make it in those terms,
+
+(*d*) to have been made in the terms in which it is made on the authority of a person who did not in fact authorise its making in those terms,
+
+(*e*) to have been altered in any respect by a person who did not in fact alter it in that respect,
+
+(*f*) to have been altered in any respect on the authority of a person who did not in fact authorise the alteration in that respect,
+
+(*g*) to have been made or altered on a date on which, or at a place at which, or otherwise in circumstances in which, it was not in fact made or altered, or
+
+(*h*) to have been made or altered by an existing person where that person did not in fact exist.
+
+(2) A person shall be treated for the purposes of this Part as making a false instrument if he or she alters an instrument so as to make it false in any respect (whether or not it is false in some other respect apart from that alteration).
+
+### 31. Meaning of “prejudice” and “induce”.
+
+**31.**—(1) Subject to *subsections (2)* and *(4)*, for the purposes of this Part, an act or omission intended to be induced shall be to a person's prejudice if, and only if, it is one which, if it occurs—
+
+(*a*) will result, as respects that person—
+
+(i) in temporary or permanent loss of property,
+
+(ii) in deprivation of an opportunity to earn remuneration or greater remuneration, or
+
+(iii) in deprivation of an opportunity to gain a financial advantage otherwise than by way of remuneration,
+
+or
+
+(*b*) will result in another person being given an opportunity—
+
+(i) to earn remuneration or greater remuneration from him or her, or
+
+(ii) to gain a financial advantage from him or her otherwise than by way of remuneration,
+
+or
+
+(*c*) will be the result of his or her having accepted any false instrument as genuine, or any copy of it as a copy of a genuine instrument, in connection with his or her performance of any duty.
+
+(2) An act which a person has an enforceable duty to do and an omission to do an act which a person is not entitled to do shall be disregarded for the purposes of this Part.
+
+(3) In this Part references to inducing a person to accept a false instrument as genuine, or a copy of a false instrument as a copy of a genuine one, include references to inducing a machine to respond to the instrument or copy as if it were a genuine instrument or copy of a genuine one.
+
+(4) Where *subsection (3)* applies, the act or omission intended to be induced by the machine responding to the instrument or copy shall be treated as an act or omission to a person's prejudice.
+
+## PART 5Counterfeiting — PART 5 — Counterfeiting
+
+### 32. Interpretation (Part 5).
+
+**32.**—(1) In this Part—
+
+F10["currency note" means a currency note lawfully issued or customarily used as money in the State or in any other state or a territorial unit within it and includes a currency note denominated in euro;]
+
+F12["coin" (other than in relation to a coin referred to in the definition of ‘designated’ and a coin to which *subsection (2)(aa)* applies) means a coin lawfully issued or customarily used as money in the State or in any other state or a territorial unit within it and includes a coin denominated in euro or in cent;]
+
+F13["counterfeiting instrument" includes any instrument, article, computer programme or data, and any other means specially designed or adapted for making a counterfeit of a currency note or coin;]
+
+F14["currency authority" means an authority or body referred to in *paragraph (a)*, *(b)* or *(c)* of the definition of ‘lawfully issued’;]
+
+F15["currency instrument" includes any instrument, article, computer programme or data, and any other means specially designed or adapted for making a currency note or coin;]
+
+F16["designated" means, in relation to a note or coin, designated for circulation as legal tender but not yet lawfully issued;]
+
+F17["Directive 2014/62/EU" means Directive 2014/62/EU of the European Parliament and of the Council of 15 May 2014 on the protection of the euro and other currencies against counterfeiting by criminal law, and replacing Council Framework Decision 2000/383/JHA;]
+
+“lawfully issued” means issued—
+
+(*a*) by or under the authority of the European Central Bank,
+
+(*b*) by the Central Bank of Ireland or the Minister for Finance, or
+
+(*c*) by a body in a state (other than the State) or a territorial unit within it which is authorised under the law of that state or territorial unit to issue currency notes or coins.
+
+F18["security feature" includes a hologram, watermark or other component of currency which serves to protect against counterfeiting;]
+
+(2) For the purposes of this Part, a thing is a counterfeit of a currency note or coin—
+
+(*a*) if it is not a currency note or coin but resembles a currency note or coin (whether on one side only or on both) to such an extent that it is reasonably capable of passing for a currency note or coin of that F11[description,]
+
+F19[(*aa*) if it is a note or coin which has been manufactured by use of legal facilities or materials in violation of the rights or the conditions under which a currency authority may issue currency notes or coins, or]
+
+(*b*) if it is a currency note or coin which has been so altered that it is reasonably capable of passing for a note or coin of some other description.
+
+F20[(2A) A reference in *section 34*, *35*, *36*, *37* and *38* to a counterfeit of a currency note or coin shall be deemed to include a reference to a designated note or coin.]
+
+(3) For the purposes of this Part—
+
+(*a*) a thing consisting of or containing a representation of one side only of a currency note, with or without the addition of other material, is capable of being a counterfeit of such a currency note, and
+
+(*b*) a thing consisting—
+
+(i) of parts of two or more currency notes, or
+
+(ii) of parts of a currency note, or of parts of two or more currency notes, with the addition of other material,
+
+is capable of being a counterfeit of a currency note.
+
+F21[(4) A word or expression used in this Part that is also used in Directive 2014/62/EU has, unless the contrary intention appears, the same meaning in this Part as it has in that Directive.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F10, F11: Substituted (3.08.2021) by *Counterfeiting Act 2021* (16/2021), s. 3(a)(i), (b)(i), S.I. No. 404 of 2021.
+>
+> F12, F13, F14, F15, F16, F17, F18, F19: Inserted (3.08.2021) by *Counterfeiting Act 2021* (16/2021), s. 3(a)(i), (ii), (b)(i), (ii), S.I. No. 404 of 2021.
+>
+> F20, F21: Inserted (3.08.2021) by *Counterfeiting Act 2021* (16/2021), s. 3(c), (d), S.I. No. 404 of 2021.
+
+### 33. Counterfeiting currency notes and coins.
+
+**33.**—(1) A person who makes a counterfeit of a currency note or coin, with the intention that he or she or another shall pass or tender it as genuine, is guilty of an offence.
+
+F22[(1A) A person who makes or alters a designated note or coin, with the intention that he or she or another shall pass or tender it as genuine, is guilty of an offence.]
+
+(2) A person guilty of an offence under this section is liable on conviction on indictment to a fine or imprisonment for a term not exceeding 10 years or both.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F22: Inserted (3.08.2021) by *Counterfeiting Act 2021* (16/2021), s. 4, S.I. No. 404 of 2021.
+>
+> **Editorial Notes:**
+>
+> E24: Offence under section designated a relevant offence for purposes of *Criminal Justice Act 2011* (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3 and sch. 1 para. 23, S.I. No. 411 of 2011.
+
+### 34. Passing, etc. counterfeit currency notes or coins.
+
+**34.**—(1) A person who—
+
+(*a*) passes or tenders as genuine any thing which is, and which he or she knows or believes to be, a counterfeit of a currency note or coin, or
+
+(*b*) delivers any such thing to another person with the intention that that person or any other person shall pass or tender it as genuine,
+
+is guilty of an offence.
+
+(2) A person who, without lawful authority or excuse, delivers to another person anything which is, and which he or she knows or believes to be, a counterfeit of a currency note or coin is guilty of an offence.
+
+F23[(2A) A person who receives, obtains or transports anything which is, and which he or she knows or believes to be, a counterfeit of a currency note or coin with the intention that he or she or another shall pass or tender it as genuine is guilty of an offence.]
+
+(3) A person guilty of an offence under this section is liable on conviction on indictment to a fine or imprisonment for a term not exceeding—
+
+(*a*) in the case of an offence under *subsection (1)*, 10 years, or
+
+(*b*) in the case of an offence under F24[*subsection (2)* or *(2A)*], 5 years,
+
+or both.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F23: Inserted (3.08.2021) by *Counterfeiting Act 2021* (16/2021), s. 5(a), S.I. No. 404 of 2021.
+>
+> F24: Substituted (3.08.2021) by *Counterfeiting Act 2021* (16/2021), s. 5(b), S.I. No. 404 of 2021.
+>
+> **Editorial Notes:**
+>
+> E25: Offence under section designated a relevant offence for purposes of *Criminal Justice Act 2011* (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3 and sch. 1 para. 23, S.I. No. 411 of 2011.
+
+### 35. Custody or control of counterfeit currency notes and coins.
+
+**35.**—(1) A person who has in his or her custody or under his or her control any thing which is, and which he or she knows or believes to be, a counterfeit of a currency note or coin, intending either—
+
+(*a*) to pass or tender it as genuine, or
+
+(*b*) to deliver it to another with the intention that that person or any other person shall pass or tender it as genuine,
+
+is guilty of an offence.
+
+(2) A person who, without lawful authority or excuse, has in his or her custody or under his or her control any thing which is, and which he or she knows or believes to be, a counterfeit of a currency note or coin is guilty of an offence.
+
+(3) A person guilty of an offence under this section is liable on conviction on indictment to a fine or imprisonment for a term not exceeding—
+
+(*a*) in the case of an offence under *subsection (1)*, 10 years, or
+
+(*b*) in the case of an offence under *subsection (2)*, 5 years,
+
+or both.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E26: Offence under section designated a relevant offence for purposes of *Criminal Justice Act 2011* (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3 and sch. 1 para. 23, S.I. No. 411 of 2011.
+
+### 36. Materials and implements for counterfeiting.
+
+F25[**36.**—(1) A person who makes, receives, obtains or has in his or her custody or under his or her control a currency instrument, counterfeiting instrument or security feature, with the intention that he or she or another shall use the currency instrument, counterfeiting instrument or security feature for the purpose of making a counterfeit of a currency note or coin with the intention that it be passed or tendered as genuine, is guilty of an offence.
+
+(2) A person who, without lawful authority or excuse, has in his or her custody or under his or her control a currency instrument, counterfeiting instrument or security feature is guilty of an offence.
+
+F26[(3) A person guilty of an offence under this section is liable on conviction on indictment to a fine or imprisonment for a term not exceeding—
+
+(*a*) in the case of an offence under *subsection (1)*, 10 years, or
+
+(*b*) in the case of an offence under *subsection (2)*, five years,
+
+or both.]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F25: Substituted (3.08.2021) by *Counterfeiting Act 2021* (16/2021), s. 6, S.I. No. 404 of 2021.
+>
+> F26: Substituted (1.11.2023) by *Criminal Justice (Miscellaneous Provisions) Act 2023* (24/2023), s. 68, S.I. No. 525 of 2023, art. 3(g).
+>
+> **Editorial Notes:**
+>
+> E27: Offence under section designated a relevant offence for purposes of *Criminal Justice Act 2011* (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3 and sch. 1 para. 23, S.I. No. 411 of 2011.
+
+### 37. Import and export of counterfeits.
+
+**37.**—F27[(1) A person who imports or exports a counterfeit of a currency note or coin, which he or she knows or believes to be a counterfeit of a currency note or coin, with the intention that he or she or another shall pass or tender it as genuine is guilty of an offence.]
+
+(2) A person guilty of an offence under this section is liable on conviction on indictment to a fine or imprisonment for a term not exceeding 10 years or both.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F27: Substituted (3.08.2021) by *Counterfeiting Act 2021* (16/2021), s. 7, S.I. No. 404 of 2021.
+>
+> **Editorial Notes:**
+>
+> E28: Offence under section designated a relevant offence for purposes of *Criminal Justice Act 2011* (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3 and sch. 1 para. 23, S.I. No. 411 of 2011.
+
+### 38. Certain offences committed outside the State.
+
+F28[**38.**—(1) An Irish citizen who does an act in a place outside the State that, if done in the State, would constitute—
+
+(*a*) an offence under *section 33*, *34*, *35*, *36*, *37* or *38A*, or
+
+(*b*) an offence of inciting, aiding and abetting, or attempting the commission of an offence referred to in *paragraph (a)*,
+
+is guilty of an offence.
+
+(2) Subject to *subsection (4)*, a person other than an Irish citizen who does an act in a place outside the State that, if done in the State, would constitute—
+
+(*a*) an offence under *section 33*, *34*, *35*, *36*, *37* or *38A*, or
+
+(*b*) an offence of inciting, aiding and abetting, or attempting the commission of an offence referred to in *paragraph (a)*, is guilty of an offence.
+
+(3) A person guilty of an offence under *subsection (1)* or *(2)* is liable on conviction on indictment to the penalty to which he or she would have been liable if he or she had done the act that constitutes the offence in the State.
+
+(4) *Subsection (2)* shall apply where the counterfeit of a currency note or coin to which the act related was a counterfeit of a currency note denominated in euro or a coin denominated in euro or in cent.
+
+(5) Where a person is charged with an offence under *subsection (2)*, no further proceedings in the matter (other than a remand in custody or on bail) may be taken except by, or with the consent of, the Director of Public Prosecutions.
+
+(6) The Director of Public Prosecutions may take proceedings for an offence under *subsection (2)* if satisfied that—
+
+(*a*) a request for a person’s surrender for the purpose of trying him or her for an offence in respect of the conduct concerned has been made by a state in relation to which Part II of the Extradition Act 1965 applies, and that request has been finally refused (whether as a result of a decision of a court or otherwise),
+
+(*b*) a European arrest warrant has been received from an issuing state for the purpose of bringing proceedings against the person for an offence in respect of the conduct concerned, and a final determination has been made that the European arrest warrant should not be endorsed for execution in the State under the European Arrest Warrant Act 2003 or that the person should not be surrendered to the issuing state concerned, or
+
+(*c*) a counterfeit of a currency note denominated in euro or a coin denominated in euro or in cent related to the offence has been detected in the State.
+
+(7) Proceedings for an offence under *subsection (1)* or *(2)* may be taken in any place in the State and the offence may for all incidental purposes be treated as having been committed in that place.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F28: Substituted (3.08.2021) by *Counterfeiting Act 2021* (16/2021), s. 8, S.I. No. 404 of 2021.
+>
+> **Editorial Notes:**
+>
+> E29: Offence under section designated a relevant offence for purposes of *Criminal Justice Act 2011* (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3 and sch. 1 para. 23, S.I. No. 411 of 2011.
+
+### 38A. Liability for offences by body corporate, etc. (Part 5)
+
+F29[**38A.**—(1) Where a relevant offence is committed for the benefit of a body corporate by a relevant person and the commission of the relevant offence is attributable to the failure, by a director, manager, secretary or other officer of the body corporate, or a person purporting to act in that capacity, to exercise, at the time of the commission of the relevant offence and in all the circumstances of the case, the requisite degree of supervision or control of the relevant person, the body corporate shall be guilty of an offence.
+
+(2) In proceedings for an offence under *subsection (1)*, it shall be a defence for a body corporate against which such proceedings are brought to prove that it took all reasonable steps and exercised all due diligence to avoid the commission of the offence.
+
+(3) Where a relevant offence is committed by a body corporate and it is proved that the offence was committed with the consent or connivance, or was attributable to any wilful neglect, of a person who was a director, manager, secretary or other officer of the body corporate, or a person purporting to act in that capacity, that person shall, as well as the body corporate, be guilty of an offence and shall be liable to be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
+
+(4) Where the affairs of a body corporate are managed by its members, *subsection (3)* shall apply in relation to the acts and defaults of a member in connection with his or her functions of management as if he or she were a director or manager of the body corporate.
+
+(5) *Subsection (1)*—
+
+(*a*) is without prejudice to the other circumstances, under the general law, whereby acts of a natural person are attributed to a body corporate resulting in criminal liability of that body corporate for those acts, and
+
+(*b*) does not exclude criminal proceedings against natural persons who are involved as perpetrators, inciters or accessories in an offence referred to in that subsection.
+
+(6) A person guilty of an offence under *subsection (1)* is liable on conviction on indictment to a fine.
+
+(7) In this section—
+
+"relevant person", in relation to a body corporate, means—
+
+(*a*) a director, manager, secretary or other officer of the body corporate, or a person purporting to act in that capacity, or
+
+(*b*) an employee, subsidiary or agent of the body corporate;
+
+"relevant offence" means an offence—
+
+(*a*) under *section 33*, *34*, *35*, *36* or *37*, or
+
+(*b*) of inciting, aiding and abetting, or attempting the commission of an offence referred to in *paragraph (a)*;
+
+"subsidiary", in relation to a body corporate, has the same meaning as it has in the Companies Act 2014.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F29: Inserted (3.08.2021) by *Counterfeiting Act 2021* (16/2021), s. 9, S.I. No. 404 of 2021.
+
+### 39. Measures to detect counterfeiting.
+
+**39.**—(1) In this section—
+
+F30[‘credit institution’ means a credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No. 575/2013[^1] of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No. 648/2012;]
+
+F34[‘designated body’ means—
+
+(*a*) a credit institution,
+
+(*b*) within the limits of its payment activity, a payment service provider,
+
+(*c*) An Post, and
+
+(*d*) any other person engaged in the processing and distribution to the public of currency notes or coins, or both, including—
+
+(i) a person whose activity consists of exchanging currency notes and coins of different currencies, including a person or body authorised under the Central Bank Act 1997 to carry on bureau de change business,
+
+(ii) a transporter of funds, and
+
+(iii) a person who is engaged on a secondary basis in the processing and distribution to the public of currency notes via automated teller machines (ATMs), within the limit of that secondary basis;]
+
+F31["payment service provider" means a person referred to in Regulation 6(1) of the European Union (Payment Services) Regulations 2018 ( S.I. No. 6 of 2018);]
+
+“recognised code of practice” means a code of practice drawn up for the purposes of this section—
+
+(*a*) by a designated body or class of designated bodies and approved by the Central Bank of Ireland, or
+
+(*b*) by the Central Bank of Ireland for a designated body or class of such bodies.
+
+F32["transporter of funds" has the same meaning as it has in Regulation (EC) No. 1338/2001 of 28 June 2001 laying down measures necessary for the protection of the euro against counterfeiting, as amended by Council Regulation (EC) No. 44/2009 of 18 December 2008;]
+
+F33[(1A) A reference in this section to a note or coin does not include a reference to a note or coin that is denominated, or purports to be denominated, in euro or in cent.]
+
+(2) A designated body shall—
+
+(*a*) withdraw from circulation any notes or coins received by it or tendered to it which it knows or suspects to be counterfeit, and
+
+(*b*) transmit them as soon as possible to the Central Bank of Ireland with such information as to the time, location and circumstances of their receipt as may be available.
+
+(3) Counterfeit or suspect currency notes or coins may be transmitted to the Garda Síochána under *subsection (2)* in accordance with a recognised code of practice.
+
+(4) A recognised code of practice may include provision for—
+
+(*a*) procedures to be followed by directors or other officers and employees of a designated body in the conduct of its business,
+
+(*b*) instructions to them on the application of this section,
+
+(*c*) standards of training in the identification of counterfeit notes and coins,
+
+(*d*) procedures to be followed by them on perceiving or suspecting that currency notes or coins are counterfeit,
+
+(*e*) different such procedures to be followed in respect of different currencies,
+
+(*f*) the retention of documents required for the purposes of criminal proceedings.
+
+(5) Without prejudice to *section 58*, a designated body which contravenes a provision of *subsection (2)* of this section or who provides false or misleading information on matters referred to in F35[that subsection] is guilty of an offence under this section and liable—
+
+(*a*) on summary conviction, to a fine not exceeding £1,500 or imprisonment for a term not exceeding 12 months or both, or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years or both.
+
+(6) It shall be a defence in proceedings for an offence under this section—
+
+(*a*) for a designated body to show—
+
+(i) that it had established procedures to enable this section to be complied with, or
+
+(ii) that it had complied with the relevant provisions of a recognised code of practice,
+
+and
+
+(*b*) for a person employed by a designated body to show that he or she transmitted the currency notes or coins concerned, or gave the relevant information, to another person in accordance with an internal reporting procedure or a recognised code of practice.
+
+(7) Where a designated body, a director, other officer or employee of the body—
+
+(*a*) discloses in good faith to a member of the Garda Síochána or any person concerned in the investigation or prosecution of an offence under this Part a suspicion that a currency note or coin is counterfeit or any matter on which such a suspicion is based, or
+
+(*b*) otherwise complies in good faith with *subsection (2)* or with a recognised code of practice,
+
+such disclosure or compliance shall not be treated as a breach of any restriction imposed by statute or otherwise on the disclosure of information or involve the person or body making the disclosure in liability in any proceedings.
+
+(8) F36[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F30, F31, F32, F33: Inserted (3.08.2021) by *Counterfeiting Act 2021* (16/2021), s. 10(a)(ii), (b), S.I. No. 404 of 2021.
+>
+> F34: Substituted (3.08.2021) by *Counterfeiting Act 2021* (16/2021), s. 10(a)(i), S.I. No. 404 of 2021.
+>
+> F35: Substituted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 50, S.I. No. 330 of 2009.
+>
+> F36: Deleted (3.08.2021) by *Counterfeiting Act 2021* (16/2021), s. 10(c), S.I. No. 404 of 2021.
+
+## PART 6Convention on Protection of European Communities' Financial Interests — PART 6 — Convention on Protection of European Communities' Financial Interests
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E30: The Convention on Protection of European Communities' Financial Interests and associated Protocols were repealed and replaced by *Criminal Justice (Theft and Fraud Offences) (Amendment) Act 2021* (2/2021), with the effect that Part 6 as amended refers to Directive (EU) 2017/1371 of the European Parliament and of the Council of 5 July 2017, set out in Schedule 1A:
+>
+> Directive on the Fight against Fraud
+>
+> to the European Union's Financial Interests
+
+### 40. Interpretation (Part 6)
+
+F37[**40.**—(1) In this Part—
+
+"Act of 2018" means the Criminal Justice (Corruption Offences) Act 2018;
+
+"corruption offence" means an offence under section 5 of the Act of 2018;
+
+"Directive" means Directive (EU) 2017/1371 of the European Parliament and of the Council of 5 July 2017 on the fight against fraud to the Union’s financial interests by means of criminal law, the text of which is, for convenience of reference, set out in Schedule 1A;
+
+"fraud affecting the financial interests of the European Union" has the same meaning as "fraud affecting the Union’s financial interests" in Article 3(2) of the Directive;
+
+"misappropriation" has the same meaning as it has in Article 4(3) of the Directive;
+
+"money laundering offence" means an offence under Part 2 of the Criminal Justice (Money Laundering and Terrorist Financing) Act 2010;
+
+"national official", for the purposes of the application of Article 4(4)(a) of the Directive, means an Irish official within the meaning of section 2(1) of the Act of 2018;
+
+"public official" means—
+
+(*a*) a Union official within the meaning of Article 4(4)(a)(i) of the Directive,
+
+(*b*) a national official,
+
+(*c*) a foreign official within the meaning of section 2(1) of the Act of 2018, or
+
+(*d*) a person referred to in Article 4(4)(b) of the Directive.
+
+(2) A word or expression that is used in this Part and that is also used in the Directive has, unless the context otherwise requires, the same meaning in this Part as it has in the Directive.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F37: Substituted (14.04.2021) by *Criminal Justice (Theft and Fraud Offences) (Amendment) Act 2021* (2/2021), s. 2, S.I. No. 167 of 2021.
+>
+> **Editorial Notes:**
+>
+> E31: Previous affecting provision: definition of "money laundering" substituted (15.07.2010) by *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010* (6/2010), s. 119, S.I. No. 342 of 2010; section substituted as per F-note above.
+>
+> E32: Previous affecting provision: definitions of "active corruption" and "passive corruption" repealed (30.07.2018) by *Criminal Justice (Corruption Offences) Act 2018* (9/2018), s. 4 and sch. 2, S.I. No. 298 of 2018; section substituted as per F-note above.
+
+### 41. Convention and Protocols to have force of law.
+
+**41.**—F38[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F38: Repealed (14.04.2021) by *Criminal Justice (Theft and Fraud Offences) (Amendment) Act 2021* (2/2021), s. 12(a), S.I. No. 167 of 2021.
+
+### 3. Fraud affecting financial interests of European Union
+
+F39[**42.** (1) Subject to *subsection (2)*, a person who intentionally commits any fraud affecting the financial interests of the European Union is guilty of an offence and is liable on conviction on indictment to a fine or to imprisonment for a term not exceeding 5 years or both.
+
+(2) Where an offence under *subsection (1)* relates to acts or omissions to which Article 3(2)(d) of the Directive applies, the offence is not committed unless such acts or omissions are connected with the territory of two or more Member States and involve a total damage of not less than €10,000,000.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F39: Substituted (14.04.2021) by *Criminal Justice (Theft and Fraud Offences) (Amendment) Act 2021* (2/2021), s. 3, S.I. No. 167 of 2021.
+>
+> **Editorial Notes:**
+>
+> E33: Offence under section designated a relevant offence for purposes of *Criminal Justice Act 2011* (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3 and sch. 1 para. 23, S.I. No. 411 of 2011.
+
+### 42A. F40[ Misappropriation
+
+**42A.**—A public official who intentionally commits misappropriation is guilty of an offence and is liable on conviction on indictment to a fine or to imprisonment for a term not exceeding 5 years or both.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F40: Inserted (14.04.2021) by *Criminal Justice (Theft and Fraud Offences) (Amendment) Act 2021* (2/2021), s. 4, S.I. No. 167 of 2021.
+>
+> **Editorial Notes:**
+>
+> E34: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 5. F41[Liability for offences by body corporate, etc. (Part 6)
+
+**42B.**—(1) Where a relevant offence is committed for the benefit of a body corporate by a relevant person and the commission of the relevant offence is attributable to the failure, by a director, manager, secretary or other officer of the body corporate, or a person purporting to act in that capacity, to exercise, at the time of the commission of the relevant offence and in all the circumstances of the case, the requisite degree of supervision or control of the relevant person, the body corporate shall be guilty of an offence.
+
+(2) In proceedings for an offence under *subsection (1)*, it shall be a defence for a body corporate against which such proceedings are brought to prove that it took all reasonable steps and exercised all due diligence to avoid the commission of the offence.
+
+(3) Where an offence under *section 42* or *42A*, or an offence of inciting, aiding and abetting, or attempting the commission of such an offence, is committed by a body corporate and it is proved that the offence was committed with the consent or connivance, or was attributable to any wilful neglect, of a person who was a director, manager, secretary or other officer of the body corporate, or a person purporting to act in that capacity, that person shall, as well as the body corporate, be guilty of an offence and shall be liable to be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
+
+(4) Where the affairs of a body corporate are managed by its members, *subsection (3)* shall apply in relation to the acts and defaults of a member in connection with his or her functions of management as if he or she were a director or manager of the body corporate.
+
+(5) *Subsection (1)*—
+
+(*a*) is without prejudice to the other circumstances, under the general law, whereby acts or omissions of a natural person are attributed to a body corporate resulting in criminal liability of that body corporate for those acts or omissions, and
+
+(*b*) does not exclude criminal proceedings against natural persons who are involved as perpetrators, inciters or accessories in an offence referred to in that subsection.
+
+(6) A person guilty of an offence under *subsection (1)* is liable on conviction on indictment to a fine.
+
+(7) In this section—
+
+"relevant person", in relation to a body corporate, means—
+
+(*a*) a director, manager, secretary or other officer of the body corporate, or a person purporting to act in that capacity, or
+
+(*b*) an employee, subsidiary or agent of the body corporate;
+
+"relevant offence" means—
+
+(*a*) an offence under *section 42* or *42A*,
+
+(*b*) a money laundering offence involving property derived from the proceeds of an offence referred to in *paragraph (a)*, *(c)* or *(d)*,
+
+(*c*) a corruption offence that damages, or is likely to damage, the financial interests of the European Union, or
+
+(*d*) an offence of inciting, aiding and abetting, or attempting the commission of an offence referred to in *paragraph (a)*, *(b)* or *(c)*;
+
+"subsidiary", in relation to a body corporate, has the same meaning as it has in the Companies Act 2014.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F41: Inserted (14.04.2021) by *Criminal Justice (Theft and Fraud Offences) (Amendment) Act 2021* (2/2021), s. 5, S.I. No. 167 of 2021.
+>
+> **Editorial Notes:**
+>
+> E35: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 43. Active corruption.
+
+**43.**—F42[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F42: Repealed (30.07.2018) by *Criminal Justice (Corruption Offences) Act 2018* (9/2018), s. 4 and sch. 2, S.I. No. 298 of 2018.
+>
+> **Editorial Notes:**
+>
+> E36: Previous affecting provision: offence under section designated a relevant offence for purposes of *Criminal Justice Act 2011* (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3 and sch. 1 para. 23, S.I. No. 411 of 2011; section repealed as per F-note above.
+
+### 44. Passive corruption.
+
+**44.**—F43[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F43: Repealed (30.07.2018) by *Criminal Justice (Corruption Offences) Act 2018* (9/2018), s. 4 and sch. 2, S.I. No. 298 of 2018.
+>
+> **Editorial Notes:**
+>
+> E37: Previous affecting provision: offence under section designated a relevant offence for purposes of *Criminal Justice Act 2011* (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3 and sch. 1 para. 23, S.I. No. 411 of 2011; section repealed as per F-note above.
+
+### 45. Extra-territorial jurisdiction in case of certain offences.
+
+**45.**—F44[(1) An Irish citizen who engages in conduct in a place outside the State that, if engaged in in the State, would constitute an offence under *section 42*, *42A* or *42B*, or would constitute an offence of inciting, aiding and abetting, or attempting the commission of such an offence, shall be guilty of an offence.]
+
+F46[(1A) A—
+
+*(a)* company formed and registered under the Companies Act 2014, an existing company within the meaning of that Act, or any other body corporate established under the law of the State, or
+
+*(b)* person who has had his or her principal residence in the State for the period of 12 months immediately preceding the doing of the act concerned,
+
+who engages in conduct in a place outside the State that, if done in the State, would constitute—
+
+(i) an offence under *section 42*, *42A* or *42B*, or
+
+(ii) an offence of inciting, aiding and abetting, or attempting the commission of an offence referred to in *paragraph (i)*,
+
+shall be guilty of an offence.]
+
+(2) F47[...]
+
+(3) F45[A person guilty of an offence under this section is liable on conviction to the penalty to which the person would have been liable had the person engaged in the conduct that constitutes the offence in the State.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F44, F45: Substituted (14.04.2021) by *Criminal Justice (Theft and Fraud Offences) (Amendment) Act 2021* (2/2021), s. 6(a), (c), S.I. No. 167 of 2021.
+>
+> F46: Inserted (14.04.2021) by *Criminal Justice (Theft and Fraud Offences) (Amendment) Act 2021* (2/2021), s. 6(b), S.I. No. 167 of 2021.
+>
+> F47: Repealed (30.07.2018) by *Criminal Justice (Corruption Offences) Act 2018* (9/2018), s. 4 and sch. 2, S.I. No. 298 of 2018.
+>
+> **Editorial Notes:**
+>
+> E38: Offence under section designated a relevant offence for purposes of *Criminal Justice Act 2011* (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3 and sch. 1 para. 23, S.I. No. 411 of 2011.
+
+### 46. Restriction on certain proceedings.
+
+**46.**—(1) Where a person is charged with an offence under *section 45*, no further proceedings (other than a remand in custody or on bail) shall be taken except by or with the consent of the Director of Public Prosecutions.
+
+(2) Where the Director of Public Prosecutions considers that another member state of the European Union has jurisdiction to try a person charged with an offence under *section 45*, the Director shall cooperate with the appropriate authorities in the member state concerned with a view to centralising the prosecution of the person in a single member state where possible.
+
+(3) Proceedings for an offence to which this section applies may be taken in any place in the State, and the offence may for all incidental purposes be treated as having been committed in that place.
+
+(4) F48[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F48: Repealed (14.04.2021) by *Criminal Justice (Theft and Fraud Offences) (Amendment) Act 2021* (2/2021), s. 12(b), S.I. No. 167 of 2021.
+
+### 47. Extradition for revenue offences.
+
+**47.**—F49[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F49: Repealed (14.04.2021) by *Criminal Justice (Theft and Fraud Offences) (Amendment) Act 2021* (2/2021), s. 12(c), S.I. No. 167 of 2021.
+
+## PART 7Investigation of Offences — PART 7 — Investigation of Offences
+
+### 48. Search warrants.
+
+**48.**—(1) This section applies to an offence under any provision of this Act for which a person of full age and capacity and not previously convicted may be punished by imprisonment for a term of five years or by a more severe penalty and to an attempt to commit any such offence.
+
+F50[(2) If a Judge of the District Court is satisfied by information on oath of a member of the Garda Síochána that there are reasonable grounds for suspecting that evidence of, or relating to the commission of, an offence to which this section applies is to be found in any place, the judge may issue a warrant for the search of that place and any person found there.]
+
+(3) A warrant under this section shall be expressed and shall operate to authorise a named member of the Garda Síochána, alone or accompanied by such other persons as may be necessary—
+
+(*a*) to enter, within 7 days from the date of issuing of the warrant (if necessary by the use of reasonable force), the place named in the warrant,
+
+(*b*) to search it and any persons found there,
+
+(*c*) to examine, seize and retain any thing found there, or in the possession of a person present there at the time of the search, which the member reasonably believes to be evidence of or relating to the commission of an offence to which this section applies, and
+
+(*d*) to take any other steps which may appear to the member to be necessary for preserving any such thing and preventing interference with it.
+
+(4) The authority conferred by *subsection (3)(c)* to seize and retain any thing includes, in the case of a document or record, authority—
+
+(*a*) to make and retain a copy of the document or record, and
+
+(*b*) where necessary, to seize and, for as long as necessary, retain any computer or other storage medium in which any record is kept.
+
+(5) A member of the Garda Síochána acting under the authority of a warrant under this section may—
+
+(*a*) operate any computer at the place which is being searched or cause any such computer to be operated by a person accompanying the member for that purpose, and
+
+(*b*) require any person at that place who appears to the member to have lawful access to the information in any such computer—
+
+(i) to give to the member any password necessary to operate it,
+
+(ii) otherwise to enable the member to examine the information accessible by the computer in a form in which the information is visible and legible, or
+
+(iii) to produce the information in a form in which it can be removed and in which it is, or can be made, visible and legible.
+
+(6) Where a member of the Garda Síochána has entered premises in the execution of a warrant issued under this section, he may seize and retain any material, other than items subject to legal privilege, which is likely to be of substantial value (whether by itself or together with other material) to the investigation for the purpose of which the warrant was issued.
+
+(7) The power to issue a warrant under this section is in addition to and not in substitution for any other power to issue a warrant for the search of any place or person.
+
+(8) In this section, unless the context otherwise requires—
+
+“commission”, in relation to an offence, includes an attempt to commit the offence;
+
+“computer at the place which is being searched” includes any other computer, whether at that place or at any other place, which is lawfully accessible by means of that computer;
+
+“place” includes a dwelling;
+
+“thing” includes an instrument (within the meaning of *Part 4*), a copy of such instrument, a document or a record.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F50: Substituted (1.08.2006) by *Criminal Justice Act 2006* (26/2006), s. 192(1)(a), S.I. No. 390 of 2006, subject to transitional provision in subs. (2).
+>
+> **Editorial Notes:**
+>
+> E39: Offence under section designated a relevant offence for purposes of *Criminal Justice Act 2011* (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3 and sch. 1 para. 23, S.I. No. 411 of 2011.
+
+### 49. Obstruction of Garda acting on warrant.
+
+**49.**—(1) A person who—
+
+(*a*) obstructs or attempts to obstruct a member of the Garda Síochána acting under the authority of a warrant issued under this Part, or
+
+(*b*) is found in or at the place named in the warrant by a member of the Garda Síochána so acting and fails or refuses to give the member his or her name and address when required by the member to do so or gives the member a name and address that is false or misleading, or
+
+(*c*) fails without lawful authority or excuse to comply with a requirement under *paragraph (b)* or *section 48(5)(b)*,
+
+is guilty of an offence and is liable on summary conviction to a fine not exceeding £500 or imprisonment for a term not exceeding 6 months or both.
+
+(2) A member of the Garda Síochána may arrest without warrant any person who is committing an offence under this section or whom the member suspects, with reasonable cause, of having done so.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E40: A fine of £500 converted (1.01.1999) to €634.87. This translates into a class D fine not exceeding €1,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 7(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 50. Forfeiture of seized property.
+
+**50.**—(1) This section applies to any thing which has been seized by a member of the Garda Síochána (whether the seizure was effected by virtue of a warrant under *section 48* or otherwise) and which the member suspects to be—
+
+(*a*) any thing used (whether before or after the commencement of this section), or intended to be used, for the making of any false instrument, or any copy of a false instrument, in contravention of *section 25* or *27* respectively,
+
+(*b*) any false instrument or any copy of a false instrument used (whether before or after the commencement of this section), or intended to be so used, in contravention of *section 26* or *28* respectively,
+
+(*c*) any thing the custody or control of which, without lawful authority or excuse, is an offence under *section 29*,
+
+(*d*) any thing which is a counterfeit of a currency note or coin,
+
+(*e*) any thing used, whether before or after the commencement of this section, or intended to be used, for the making of any such counterfeit.
+
+(2) A member of the Garda Síochána may, at any time after the seizure of any thing to which this section applies, apply to the judge of the District Court for the time being assigned to the district in which the seizure was effected for an order under this subsection with respect to it; and the judge may, if satisfied both that the thing is one to which this section applies and that it is in the public interest to do so, subject to *subsection (4)*, make such order as the judge thinks fit for its forfeiture and subsequent destruction or disposal.
+
+(3) Subject to *subsection (4)*, the court by or before which a person is convicted of an offence under *Part 4* or *5* may order any thing shown to the satisfaction of the court to relate to the offence to be forfeited and either destroyed or dealt with in such other manner as the court may order.
+
+(4) The court shall not order any thing to be forfeited under *subsection (3)* or *(4)* where a person claiming to be the owner of or otherwise interested in it applies to be heard by the court, unless an opportunity has been given to the person to show cause why the order should not be made.
+
+### 51. Concealing facts disclosed by documents.
+
+**51.**—(1) Any person who—
+
+(*a*) knows or suspects that an investigation by the Garda Síochána into an offence under this Act is being or is likely to be carried out, and
+
+(*b*) falsifies, conceals, destroys or otherwise disposes of a document or record which he or she knows or suspects is or would be relevant to the investigation or causes or permits its falsification, concealment, destruction or disposal,
+
+is guilty of an offence.
+
+(2) Where a person—
+
+(*a*) falsifies, conceals, destroys or otherwise disposes of a document, or
+
+(*b*) causes or permits its falsification, concealment, destruction or disposal,
+
+in such circumstances that it is reasonable to conclude that the person knew or suspected—
+
+(i) that an investigation by the Garda Síochána into an offence under this Act was being or was likely to be carried out, and
+
+(ii) that the document was or would be relevant to the investigation,
+
+he or she shall be taken for the purposes of this section to have so known or suspected, unless the court or the jury, as the case may be, is satisfied having regard to all the evidence that there is a reasonable doubt as to whether he or she so knew or suspected.
+
+(3) A person guilty of an offence under this section is liable on conviction on indictment to a fine or imprisonment for a term not exceeding 5 years or both.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C1: Application of section affected (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 17(4), S.I. No. 411 of 2011.
+>
+> **Concealing facts disclosed by documents.**
+>
+> **17.**— ...
+>
+> (4) This section shall not affect the operation of section 51 of the Criminal Justice (Theft and Fraud Offences) Act 2001 insofar as that section applies to offences that are relevant offences.
+
+### 52. Order to produce evidential material.
+
+**52.**—(1) This section applies to any offence under this Act which is punishable by imprisonment for a term of five years or by a more severe penalty.
+
+F51[(2) If a Judge of the District Court is satisfied by information on oath of a member of the Garda Síochána that—
+
+(*a*) the Garda Síochána are investigating an offence to which this section applies,
+
+(*b*) a person has possession or control of particular material or material of a particular description, and
+
+(*c*) there are reasonable grounds for suspecting that the material constitutes evidence of or relating to the commission of the offence,
+
+the judge may order the person to—
+
+(i) produce the material to a member of the Garda Síochána for the member to take away, or
+
+(ii) give such a member access to it,
+
+either immediately or within such period as the order may specify.]
+
+(3) Where the material consists of or includes information contained in a computer, the order shall have effect as an order to produce the information, or to give access to it, in a form in which it is visible and legible and in which it can be taken away.
+
+(4) An order under this section—
+
+(*a*) in so far as it may empower a member of the Garda Síochána to take away a document, or to be given access to it, shall also have effect as an order empowering the member to take away a copy of the document (and for that purpose the member may, if necessary, make a copy of the document),
+
+(*b*) shall not confer any right to production of, or access to, any document subject to legal privilege, and
+
+(*c*) shall have effect notwithstanding any other obligation as to secrecy or other restriction on disclosure of information imposed by statute or otherwise.
+
+(5) Any material taken away by a member of the Garda Síochána, under this section may be retained by the member for use as evidence in any criminal proceedings.
+
+(6) (*a*) Information contained in a document which was produced to a member of the Garda Síochána, or to which such a member was given access, in accordance with an order under this section shall be admissible in any criminal proceedings as evidence of any fact therein of which direct oral evidence would be admissible unless the information—
+
+(i) is privileged from disclosure in such proceedings,
+
+(ii) was supplied by a person who would not be compellable to give evidence at the instance of the prosecution,
+
+(iii) was compiled for the purposes or in contemplation of any—
+
+(I) criminal investigation,
+
+(II) investigation or inquiry carried out pursuant to or under any enactment,
+
+(III) civil or criminal proceedings, or
+
+(IV) proceedings of a disciplinary nature,
+
+or unless the requirements of the provisions mentioned in *paragraph (b)* are not complied with.
+
+(*b*) References in sections 7 (notice of documentary evidence to be served on accused), 8 (admission and weight of documentary evidence) and 9 (admissibility of evidence as to credibility of supplier of information) of the Criminal Evidence Act, 1992, to a document or information contained in it shall be construed as including references to a document mentioned in *paragraph (a)* and the information contained in it, and those provisions shall have effect accordingly with any necessary modifications.
+
+(*c*) The Criminal Procedure Act, 1967, is amended both in section 6(1)(*e*) (as amended by section 10 of the Criminal Evidence Act, 1992) and in section 11 (as so amended) by the insertion, after “1992”, of “or *section 52(6)(b)* of the *Criminal Justice (Theft and Fraud Offences) Act, 2001*,”.
+
+(7) A judge of the District Court may, on the application of any person to whom an order under this section relates or a member of the Garda Síochána, vary or discharge the order.
+
+(8) A person who without reasonable excuse fails or refuses to comply with an order under this section is guilty of an offence and liable on summary conviction to a fine not exceeding £1,500 or imprisonment for a term not exceeding 12 months or both.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F51: Substituted (1.08.2006) by *Criminal Justice Act 2006* (26/2006), s. 192(1)(b), S.I. No. 390 of 2006, subject to transitional provision in subs. (2).
+>
+> **Editorial Notes:**
+>
+> E41: A fine of £1,500 converted (1.01.1999) to €1,904.61. This translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+## PART 8Trial of Offences — PART 8 — Trial of Offences
+
+### 53. Summary trial of indictable offences.
+
+**53.**—(1) The District Court may try summarily a person charged with an indictable offence under this Act if—
+
+(*a*) the Court is of opinion that the facts proved or alleged constitute a minor offence fit to be tried summarily,
+
+(*b*) the accused, on being informed by the Court of his or her right to be tried with a jury, does not object to being tried summarily, and
+
+(*c*) the Director of Public Prosecutions consents to the accused being tried summarily for the offence.
+
+(2) On conviction by the District Court for an indictable offence tried summarily under *subsection (1)* the accused shall be liable to a F52[class A fine within the meaning of Part 2 of the Fines Act 2010] or imprisonment for a term not exceeding 12 months or both such fine and imprisonment.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F52: Substituted (4.01.2011) by *Fines Act 2010* (8/2010), s. 10(3), S.I. No. 662 of 2010. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+### 54. Trial procedure.
+
+**54.**—(1) In any proceedings for an offence or attempted offence under any of *sections 6* and *7* and *sections 9* to *11* it shall not be necessary to prove an intention dishonestly to cause a loss to, or make a gain at the expense of, a particular person, and it shall be sufficient to prove that the accused did the act charged dishonestly with the intention of causing such a loss or making such a gain.
+
+(2) Any number of persons may be charged in one indictment, with reference to the same theft, with having at different times or at the same time handled or possessed all or any of the stolen property, and the persons so charged may be tried together.
+
+(3) Any person who—
+
+(*a*) is a member of a partnership or is one of two or more beneficial owners of any property, and
+
+(*b*) steals any property of or belonging to the partnership or such beneficial owners,
+
+is liable to be dealt with, tried and punished as if he or she had not been or was not a member of the partnership or one of such beneficial owners.
+
+(4) If on the trial of a person for stealing any property it appears that the property alleged to have been stolen at one time was taken at different times, the separate takings may, unless the trial judge directs otherwise, be tried together, to a number not exceeding 3, provided that not more than 6 months elapsed between the first and the last of the takings.
+
+(5) Charges of stealing, handling or possessing any property or any part thereof may be included in separate counts of the same indictment and such counts may be tried together.
+
+(6) Any person or persons charged in separate counts of the same indictment with stealing any property or any part thereof may be severally found guilty of stealing, handling or possessing the property or any part thereof.
+
+(7) On the trial of two or more persons indicted for jointly handling or possessing any stolen property the court or jury, as the case may be, may find any of the accused guilty if satisfied that he or she handled or possessed all or any part of such property, whether or not he or she did so jointly with the other accused or any of them.
+
+### 54A. Consecutive sentencing for burglary of dwelling
+
+F53[**54A.**—(1) Subject to this section, where a person—
+
+(*a*) is convicted of a relevant offence and is being sentenced to a term of imprisonment in respect of that offence where that offence was committed—
+
+(i) in a dwelling, and
+
+(ii) after he or she has attained the age of 18 years,
+
+(*b*) has a conviction for a relevant offence (other than the relevant offence referred to in *paragraph (a)*) whether or not any sentence (whether of imprisonment or otherwise) was imposed in respect of that conviction and where that offence was committed—
+
+(i) in a dwelling,
+
+(ii) in the period of 5 years immediately prior to the commission of the relevant offence referred to in *paragraph (a)*, and
+
+(iii) after he or she attained the age of 18 years,
+
+and
+
+(c) has a conviction for a relevant offence and was sentenced to a term of imprisonment in respect of that conviction, where that relevant offence was committed by the person—
+
+(i) in a dwelling,
+
+(ii) within a period commencing 6 months before and ending 6 months after the commission of the relevant offence referred to in paragraph (a), and
+
+(iii) after he or she attained the age of 18 years,
+
+any sentence of imprisonment imposed on the person for the relevant offence referred to in *paragraph (a)* shall be consecutive on the sentence referred to in *paragraph (c)* or, if a sentence of imprisonment has been imposed in respect of a relevant offence referred to in *paragraphs (b)* and *(c)*, the last of those sentences due to expire.
+
+(2) Where, in relation to a person referred to in *subsection (1)*, a relevant offence committed by the person would come within *paragraphs (b)* and *(c)* of that subsection, then, that relevant offence may be considered for the purpose of satisfying either *paragraph (b)* or *(c)* of that subsection but not both.
+
+(3) *Subsection (1)* applies to a person in respect of a relevant offence referred to in *paragraph (a)* of that subsection only if that relevant offence is committed after the coming into operation of section 2 of the Criminal Justice (Burglary of Dwellings) Act 2015 and that subsection shall apply to the person whether the other relevant offences referred to in *paragraphs (b)* and *(c)* of that subsection were committed before or after such coming into operation.
+
+(4) Where two or more consecutive sentences required by *subsection (1)* are imposed by the District Court, the aggregate term of imprisonment in respect of those consecutive sentences shall not exceed 2 years.
+
+(5) A reference in *paragraphs (b)* and *(c)* of *subsection (1)* to a conviction includes a reference to a conviction for a relevant offence which is the subject of an appeal (which has neither been determined nor withdrawn).
+
+(6) In this section—
+
+"dwelling" includes—
+
+(*a*) a building or structure (whether temporary or not) which is constructed or adapted for use as a dwelling and is being so used,
+
+(*b*) a vehicle or vessel (whether mobile or not) which is constructed or adapted for use as a dwelling and is being so used, or
+
+(*c*) a part of a dwelling;
+
+"relevant offence" means an offence under *section 12* or *13*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F53: Inserted (17.01.2016) by *Criminal Justice (Burglary of Dwellings) Act 2015* (56/2015), s. 2, S.I. No. 15 of 2016.
+
+### 55. Alternative verdicts.
+
+**55.**—(1) If, on the trial of a person for theft or for unlawfully obtaining property otherwise, it is proved that the person handled or possessed the property in such circumstances as to constitute an offence under *section 17* or *18*, he or she may be convicted of that offence.
+
+(2) If, on the trial of a person for an offence under *section 17* or *18* of handling or possessing stolen or otherwise unlawfully obtained property, it is proved that the person stole or otherwise unlawfully obtained the property, he or she may be convicted of the theft of the property or of the offence consisting of unlawfully obtaining the property.
+
+### 56. Orders for restitution.
+
+**56.**—(1) Where property has been stolen and either—
+
+(*a*) a person is convicted of an offence with reference to the theft (whether or not the stealing is the essential ingredient of the offence), or
+
+(*b*) a person is convicted of any other offence but the first-mentioned offence is taken into consideration in determining his or her sentence,
+
+the court by or before which the person is convicted may on the conviction (whether or not the passing of sentence is in other respects deferred)—
+
+(i) order anyone having possession or control of the property to restore it to any person entitled to recover it from the convicted person,
+
+(ii) on the application of a person entitled to recover from the convicted person any other property directly or indirectly representing the first-mentioned property (as being the proceeds of any disposal or realisation of the whole or part of it or of property so representing it), order that other property to be delivered or transferred to the applicant, or
+
+(iii) order that a sum not exceeding the value of the first-mentioned property shall be paid, out of any money of the convicted person which was taken out of his or her possession when arrested, to any person who, if that property were in the possession of the convicted person, would be entitled to recover it from him or her.
+
+(2) Where the court has power on a person's conviction to make an order against him or her under both *paragraph (ii)* and *paragraph (iii)* of *subsection (1)* with reference to the stealing of the same property, the court may make orders under both paragraphs, if the person in whose favour the orders are made does not thereby recover more than the value of that property.
+
+(3) Where—
+
+(*a*) the court makes an order under *subsection (1)(i)* for the restoration of any property, and
+
+(*b*) it appears to the court that the convicted person has sold the property to a person acting in good faith or has borrowed money on the security of it from a person so acting,
+
+then, on the application of the purchaser or lender the court may order that there shall be paid to the applicant, out of any money of the convicted person which was taken out of his or her possession when arrested, a sum not exceeding the amount paid for the purchase by the applicant or, as the case may be, the amount owed to the applicant in respect of the loan.
+
+(4) (*a*) The court shall not exercise the powers conferred by this section unless in its opinion the relevant facts sufficiently appear from evidence given at the trial or the available documents, together with admissions made by or on behalf of any person in connection with any proposed exercise of the powers.
+
+(*b*) In *paragraph (a)* “available documents” means—
+
+(i) any written statements or admissions which were made for use, and would have been admissible in evidence, at the trial,
+
+(ii) any depositions taken in any proceedings before the trial, and
+
+(iii) any written statements or admissions used as evidence at the trial or in any such proceedings.
+
+(5) The provisions of *section 20* in relation to property which has been stolen shall have effect also in relation to the property referred to in this section.
+
+(6) This section is without prejudice to the Police (Property) Act, 1897 (disposal of property in the possession of the Garda Síochána).
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C2: Application of subs. (1)(i) extended (1.09.2008) by *Criminal Justice (Mutual Assistance) Act 2008* (7/2008), s. 84(1), S.I. No. 338 of 2008.
+>
+> **Restitution of stolen property from designated state.**
+>
+> **84.**— (1) An order under paragraph (i) of section 56 (orders for restitution) of the Criminal Justice (Theft and Fraud Offences) Act 2001 may be made by the court by or before which a person is convicted in relation to property in a designated state.
+>
+> ...
+
+### 57. Provision of information to juries.
+
+**57.**—(1) In a trial on indictment of an offence under this Act, the trial judge may order that copies of any or all of the following documents shall be given to the jury in any form that the judge considers appropriate:
+
+(*a*) any document admitted in evidence at the trial,
+
+(*b*) the transcript of the opening speeches of counsel,
+
+(*c*) any charts, diagrams, graphics, schedules or agreed summaries of evidence produced at the trial,
+
+(*d*) the transcript of the whole or any part of the evidence given at the trial,
+
+(*e*) the transcript of the closing speeches of counsel,
+
+(*f*) the transcript of the trial judge's charge to the jury,
+
+(*g*) any other document that in the opinion of the trial judge would be of assistance to the jury in its deliberations including, where appropriate, an affidavit by an accountant summarising, in a form which is likely to be comprehended by the jury, any transactions by the accused or other persons which are relevant to the offence.
+
+(2) If the prosecutor proposes to apply to the trial judge for an order that a document mentioned in *subsection (1)(g)* shall be given to the jury, the prosecutor shall give a copy of the document to the accused in advance of the trial and, on the hearing of the application, the trial judge shall take into account any representations made by or on behalf of the accused in relation to it.
+
+(3) Where the trial judge has made an order that an affidavit mentioned in *subsection (1)(g)* shall be given to the jury, the accountant concerned—
+
+(*a*) shall be summoned by the prosecutor to attend at the trial as an expert witness, and
+
+(*b*) may be required by the trial judge, in an appropriate case, to give evidence in regard to any relevant accounting procedures or principles.
+
+## PART 9Miscellaneous — PART 9 — Miscellaneous
+
+### 58. Liability for offences by bodies corporate and unincorporated.
+
+**58.**—(1) Where—
+
+(*a*) an offence under F54[this Act F55[(other than *Part 5* or *6*)]] has been committed by a body corporate, and
+
+(*b*) the offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, a person who was either—
+
+(i) a director, manager, secretary or other officer of the body corporate, or
+
+(ii) a person purporting to act in any such capacity,
+
+that person, as well as the body corporate, is guilty of an offence and liable to be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
+
+(2) Where the affairs of a body corporate are managed by its members, *subsection (1)* shall apply in relation to the acts and defaults of a member in connection with the member's functions of management as if he or she were a director or manager of the body corporate.
+
+(3) The foregoing provisions shall apply, with the necessary modifications, in relation to offences under this Act committed by an unincorporated body.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F54: Substituted (14.04.2021) by *Criminal Justice (Theft and Fraud Offences) (Amendment) Act 2021* (2/2021), s. 7, S.I. No. 167 of 2021.
+>
+> F55: Substituted (3.08.2021) by *Counterfeiting Act 2021* (16/2021), s. 11, S.I. No. 404 of 2021.
+
+### 59. Reporting of offences.
+
+**59.**—(1) In this section—
+
+“firm” means a partnership, a corporate or unincorporated body or a self-employed individual;
+
+“relevant person” means a person—
+
+(*a*) who audits the accounts of a firm, or
+
+(*b*) who otherwise with a view to reward assists or advises a firm in the preparation or delivery of any information, or of any declaration, return, account or other document, which the person knows will be, or is likely to be, used for the purpose of keeping or auditing the accounts of the firm,
+
+but does not include an employee of a firm who—
+
+(i) in that capacity so assists or advises the firm, and
+
+(ii) whose income from so doing consists solely of emoluments chargeable to income tax under Schedule E, as defined in section 19 of the Taxes Consolidation Act, 1997.
+
+(2) Where the accounts of a firm, or as the case may be any information or document mentioned in *subsection (1)(b)*, indicate that—
+
+(*a*) an offence under this Act (other than *sections 8, 12* to *15*, *49(1)* and *52(8)*) may have been committed by the firm concerned, or
+
+(*b*) such an offence may have been committed in relation to its affairs by a partner in the firm or, in the case of a corporate or unincorporated body, by a director, manager, secretary or other employee thereof, or by the self-employed individual concerned,
+
+the relevant person shall, notwithstanding any professional obligations of privilege or confidentiality, report that fact to a member of the Garda Síochána.
+
+(3) A disclosure in a report made in good faith by a relevant person to a member of the Garda Síochána under *subsection (2)* shall not be treated as a breach of any restriction imposed by statute or otherwise or involve the person in liability of any kind.
+
+(4) A person who fails, without reasonable excuse, to comply with the duty imposed by *subsection (2)* is guilty of an offence and is liable on summary conviction to a fine not exceeding £1,500 or imprisonment for a term not exceeding 12 months or both.
+
+### 60. Evidence in proceedings.
+
+**60.**—(1) For the purposes of any provision of this Act relating to specified conduct outside the State—
+
+(*a*) a document purporting to be signed by a lawyer practising in the state or a territorial unit within it where the conduct is alleged to have occurred and stating that the conduct is an offence under the law of that state or territorial unit, and
+
+(*b*) a document purporting to be a translation of a document mentioned in *paragraph (a)* and to be certified as correct by a person appearing to be competent to so certify,
+
+shall be admissible in any proceedings, without further proof, as evidence of the matters mentioned in those documents, unless the contrary is shown.
+
+(2) For the purposes of *section 45* a document purporting to be signed by an officer of the Department of Foreign Affairs and stating that a passport was issued by the Department to a specified person on a specified date and that, to the best of the officer's knowledge and belief, the person has not ceased to be an Irish citizen shall be admissible in any proceedings, without further proof, as evidence that the person was an Irish citizen on the date on which the offence under that section with which the person is charged was committed, unless the contrary is shown.
+
+### 61. Jurisdiction of District Court in certain proceedings.
+
+**61.**—For the purposes of the exercise of jurisdiction by a judge of the District Court in proceedings for an offence under this Act committed on a vessel or hovercraft or on an installation in the F56[territorial sea or in a designated area (within the meaning of the Maritime Jurisdiction Act 2021)] the offence may be treated as having been committed in any place in the State.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F56: Substituted (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 20(3) and sch. 2 item 24, S.I. No. 601 of 2021.
+
+### 62. Amendment of section 9 of Married Women's Status Act, 1957.
+
+**62.**—Section 9 of the Married Women's Status Act, 1957, is hereby amended by the substitution for subsection (3) of the following subsection:
+
+“(3) No criminal proceedings referred to in subsection (1) or (2) shall be taken by a spouse against the other spouse except by or with the consent of the Director of Public Prosecutions.”.
+
+### 63. Amendment of Defence Act, 1954.
+
+**63.**—The Defence Act, 1954, is hereby amended by the substitution for section 156 (as substituted by the Larceny Act, 1990) of the following section:
+
+“156.—(1) Every person subject to military law who—
+
+(*a*) steals or otherwise unlawfully obtains any property belonging to a person subject to military law or any public service property or service property, or
+
+(*b*) handles or possesses (within the meaning of *section 17* or *18* of the *Criminal Justice (Theft and Fraud Offences) Act, 2001*) any such property,
+
+is guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer imprisonment for any term not exceeding two years or any less punishment awardable by a court martial.
+
+(2) The said *sections 17* and *18* shall apply to the offences of handling and possessing under subsection (1)(*b*) of this section as they apply to the offences of handling and possessing stolen or otherwise unlawfully obtained property.”.
+
+### 64. Amendment of Bail Act, 1997.
+
+**64.**—The Schedule to the Bail Act, 1997, is hereby amended by the substitution, for the matter contained in paragraph 17, of “Any offence under the *Criminal Justice (Theft and Fraud Offences) Act, 2001*.” and by the deletion of the section headed “Forgery etc. offences.”.
+
+### 65. Effect of Act and transitional provisions.
+
+**65.**—(1) This Act, save as otherwise provided by it, shall, as regards offences under any of its provisions, have effect only in relation to offences wholly or partly committed on or after the commencement of any such provision.
+
+(2) No repeal or amendment by this Act of any enactment relating to procedure or evidence or to the jurisdiction or powers of any court or to the effect of a conviction shall affect the operation of the enactment in relation to offences committed before the commencement of this Act or to proceedings for any such offence.
+
+(3) If—
+
+(*a*) a person is charged in the alternative with having committed an offence under a statute or rule of law in force immediately before the commencement of this Act and an offence under this Act, and
+
+(*b*) it is proved that the person did acts which would constitute either of the offences charged, but it is not proved whether those acts were done before or after such commencement,
+
+the person may be convicted of the first-mentioned offence but shall not be liable to a penalty greater than the lesser of the maximum penalties provided for the two offences with which the person was charged.
+
+(4) Except as regards offences committed before the commencement of this Act and except where the context otherwise requires—
+
+(*a*) references in any enactment passed before this Act to an offence abolished by this Act shall, subject to any express amendment or repeal made by this Act, have effect as references to the corresponding offence under this Act, and
+
+(*b*) without prejudice to *paragraph (a)*, references, however expressed, in any enactment, whenever passed, to theft or stealing (including references to stolen goods) or related offences, and references to robbery, burglary, aggravated burglary, receiving or handling stolen property, forgery or counterfeiting shall be construed in accordance with the provisions of this Act, and any such enactment shall have effect accordingly, with any necessary modifications.
+
+(5) (*a*) The repeal by *section 3(1)* of sections 23 (robbery), 23A (burglary) and 23B (aggravated burglary) of the Larceny Act, 1916, shall not affect the operation of those sections for the purposes of section 2 of, and paragraph 9 of the Schedule to, the Criminal Law (Jurisdiction) Act, 1976, and accordingly that section and that paragraph shall have effect as if *section 3(1)* had not been enacted.
+
+(*b*) References in *paragraph (a)* to sections 23, 23A and 23B of the Larceny Act, 1916, are to those sections as substituted, or as the case may be inserted, by sections 5 to 7 of the Criminal Law (Jurisdiction) Act, 1976.
+
+(6) On the commencement of this subsection—
+
+(*a*) *subsection (5)* shall cease to have effect,
+
+(*b*) sections 5 to 7 of the Criminal Law (Jurisdiction) Act, 1976, shall be repealed, and
+
+(*c*) the following paragraph shall be substituted for paragraph 9 of the Schedule to the Criminal Law (Jurisdiction) Act, 1976:
+
+“*Robbery and burglary*
+
+9\. Any offence under the following provisions of the *Criminal Justice (Theft and Fraud Offences) Act, 2001*:
+
+(*a*) *section 13* (aggravated burglary);
+
+(*b*) *section 14* (robbery).”.
+
+## SCHEDULE 1
+
+Enactments Repealed
+
+| Session & Chapter or Number & Year | Short Title | Extent of repeal |
+|---|---|---|
+| (1) | (2) | (3) |
+| 24 & 25 Vict., c. 96 | Larceny Act, 1861 | The whole Act, except sections 12 to 16 and 24 and 25 |
+| 24 & 25 Vict., c. 98 | Forgery Act, 1861 | The whole Act |
+| 24 & 25 Vict., c. 99 | Coinage Offences Act, 1861 | The whole Act |
+| 24 & 25 Vict., c. 50 | Summary Jurisdiction (Ireland) Act, 1862 | Sections 4 to 8 |
+| 35 & 36 Vict., c. 57 | Debtors (Ireland) Act, 1872 | Section 13 |
+| 38 & 39 Vict., c. 24 | Falsification of Accounts Act, 1875 | The whole Act |
+| 56 & 57 Vict., c. 71 | Sale of Goods Act, 1893 | Section 24 |
+| 3 & 4 Geo. 5, c. 27 | Forgery Act, 1913 | The whole Act |
+| 6 & 7 Geo. 5, c. 50 | Larceny Act, 1916 | The whole Act |
+| No. 2 of 1951 | Criminal Justice Act, 1951 | Sections 10 and 13 and ref. nos. 8, 11, 14, 15 and 20 of First Schedule |
+| No. 2 of 1956 | Gaming and Lotteries Act, 1956 | Section 11 |
+| No. 1 of 1963 | Official Secrets Act, 1963 | Sections 7 and 8 |
+| No. 22 of 1984 | Criminal Justice Act, 1984 | Section 16 |
+| No. 9 of 1990 | Larceny Act, 1990 | The whole Act |
+
+## F57[SCHEDULE 1A
+
+**DIRECTIVE (EU) 2017/1371 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 5 July 2017**
+
+**on the fight against fraud to the Union’s financial interests by means of criminal law**
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 83(2) thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national parliaments,
+
+Having regard to the opinion of the Committee of the Regions[^2]
+
+Acting in accordance with the ordinary legislative procedure,[^3]
+
+Whereas:
+
+(1) The protection of the Union’s financial interests concerns not only the management of budget appropriations, but extends to all measures which negatively affect or which threaten to negatively affect its assets and those of the Member States, to the extent that those measures are of relevance to Union policies.
+
+(2) The Convention drawn up on the basis of Article K.3 of the Treaty on European Union, on the protection of the European Communities’ financial interests of 26 July 1995,[^4] including the Protocols thereto of 27 September 1996,[^5] of 29 November 1996[^6] and of 19 June 1997[^7] (the ‘Convention’) establishes minimum rules relating to the definition of criminal offences and sanctions in the area of fraud affecting the Union’s financial interests. The Member States drew up the Convention, in which it was noted that fraud affecting Union revenue and expenditure in many cases was not confined to a single country and was often committed by organised criminal networks. On that basis, it was already recognised in the Convention that the protection of the Union’s financial interests called for the criminal prosecution of fraudulent conduct injuring those interests. In parallel, Council Regulation (EC, Euratom) No 2988/95[^8] was adopted. That Regulation lays down general rules relating to homogenous checks and to administrative measures and penalties concerning irregularities with regard to Union law while, at the same time, referring to sectoral rules in that area, fraudulent actions as defined in the Convention and the application of the Member States’ criminal law and proceedings.
+
+(3) Union policy in the area of the protection of the Union’s financial interests has already been the subject of harmonisation measures such as Regulation (EC, Euratom) No 2988/95. In order to ensure the implementation of Union policy in this area, it is essential to continue to approximate the criminal law of the Member States by complementing the protection of the Union’s financial interests under administrative and civil law for the most serious types of fraud-related conduct in that field, whilst avoiding inconsistencies, both within and among those areas of law.
+
+(4) The protection of the Union’s financial interests calls for a common definition of fraud falling within the scope of this Directive, which should cover fraudulent conduct with respect to revenues, expenditure and assets at the expense of the general budget of the European Union (the ‘Union budget’), including financial operations such as borrowing and lending activities. The notion of serious offences against the common system of value added tax (‘VAT’) as established by Council Directive 2006/112/EC[^9] (the ‘common VAT system’) refers to the most serious forms of VAT fraud, in particular carrousel fraud, VAT fraud through missing traders, and VAT fraud committed within a criminal organisation, which create serious threats to the common VAT system and thus to the Union budget. Offences against the common VAT system should be considered to be serious where they are connected with the territory of two or more Member States, result from a fraudulent scheme whereby those offences are committed in a structured way with the aim of taking undue advantage of the common VAT system and the total damage caused by the offences is at least EUR 10 000 000. The notion of total damage refers to the estimated damage that results from the entire fraud scheme, both to the financial interests of the Member States concerned and to the Union, excluding interest and penalties. This Directive aims to contribute to the efforts to fight those criminal phenomena.
+
+(5) When the Commission implements the Union budget under shared or indirect management, it may delegate budget implementation tasks to the Member States or entrust them to bodies, offices or agencies established pursuant to the Treaties or to other entities or persons. In the event of such shared or indirect management, the Union’s financial interests should benefit from the same level of protection as they do when under the direct management of the Commission.
+
+(6) For the purposes of this Directive, procurement-related expenditure is any expenditure in connection with the public contracts determined by Article 101(1) of Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council.[^10]
+
+(7) Union money laundering law is fully applicable to money laundering involving property derived from the criminal offences covered by this Directive. A reference made to that law should ensure that the sanctioning regime introduced by this Directive applies to all serious cases of criminal offences against the Union’s financial interests.
+
+(8) Corruption constitutes a particularly serious threat to the Union’s financial interests, which can in many cases also be linked to fraudulent conduct. Since all public officials have a duty to exercise judgment or discretion impartially, the giving of bribes in order to influence a public official’s judgment or discretion and the taking of such bribes should be included in the definition of corruption, irrespective of the law or regulations applicable in the particular official’s country or to the international organisation concerned.
+
+(9) The Union’s financial interests can be negatively affected by certain types of conduct of a public official who is entrusted with the management of funds or assets, whether he or she is in charge or acts in a supervisory capacity, which types of conduct aim at misappropriating funds or assets, contrary to the intended purpose and whereby the Union’s financial interests are damaged. There is therefore a need to introduce a precise definition of criminal offences covering such conduct.
+
+(10) As regards the criminal offences of passive corruption and misappropriation, there is a need to include a definition of public officials covering all relevant officials, whether holding a formal office in the Union, in the Member States or in third countries. Private persons are increasingly involved in the management of Union funds. In order to protect Union funds adequately from corruption and misappropriation, the definition of ‘public official’ therefore needs to cover persons who do not hold formal office but who are nonetheless assigned and exercise, in a similar manner, a public service function in relation to Union funds, such as contractors involved in the management of such funds.
+
+(11) With regard to the criminal offences provided for in this Directive, the notion of intention must apply to all the elements constituting those criminal offences. The intentional nature of an act or omission may be inferred from objective, factual circumstances. Criminal offences which do not require intention are not covered by this Directive.
+
+(12) This Directive does not oblige Member States to provide for sanctions of imprisonment for the commission of criminal offences that are not of a serious nature, in cases where intent is presumed under national law.
+
+(13) Some criminal offences against the Union’s financial interests are in practice often closely related to the criminal offences covered by Article 83(1) of the Treaty on the Functioning of the European Union (TFEU) and Union legislative acts that are based on that provision. Coherence between such legislative acts and this Directive should therefore be ensured in the wording of this Directive.
+
+(14) Insofar as the Union’s financial interests can be damaged or threatened by conduct attributable to legal persons, legal persons should be liable for the criminal offences, as defined in this Directive, which are committed on their behalf.
+
+(15) In order to ensure equivalent protection of the Union’s financial interests throughout the Union by means of measures which should act as a deterrent, Member States should provide for certain types and levels of sanctions when the criminal offences defined in this Directive are committed. The levels of sanctions should not go beyond what is proportionate for the offences.
+
+(16) As this Directive provides for minimum rules, Member States are free to adopt or maintain more stringent rules for criminal offences affecting the Union’s financial interests.
+
+(17) This Directive does not affect the proper and effective application of disciplinary measures or penalties other than of a criminal nature. Sanctions that cannot be equated to criminal sanctions, which are imposed on the same person for the same conduct, can be taken into account when sentencing that person for a criminal offence defined in this Directive. For other sanctions, the principle of prohibition of being tried or punished twice in criminal proceedings for the same criminal offence (*ne bis in idem*) should be fully respected. This Directive does not criminalise behaviour which is not also subject to disciplinary penalties or other measures concerning a breach of official duties, in cases where such disciplinary penalties or other measures can be applied to the persons concerned.
+
+(18) Sanctions with regard to natural persons should, in certain cases, provide for a maximum penalty of at least four years of imprisonment. Such cases should include at least those involving considerable damage done or advantage gained whereby the damage or advantage should be presumed to be considerable when it involves more than EUR 100 000. Where a Member State’s law does not provide for an explicit threshold for considerable damage or advantage as a basis for a maximum penalty, the Member State should ensure that the amount of damage or advantage is taken into account by its courts in the determination of sanctions for fraud and other criminal offences affecting the Union’s financial interests. This Directive does not prevent Member States from providing for other elements which would indicate the serious nature of a criminal offence, for instance when the damage or advantage is potential, but of very considerable nature. However, for offences against the common VAT system, the threshold as of which the damage or advantage should be presumed to be considerable is, in conformity with this Directive, EUR 10 000 000. The introduction of minimum levels of maximum imprisonment sanctions is necessary in order to ensure equivalent protection of the Union’s financial interests throughout the Union. The sanctions are intended to serve as a strong deterrent for potential offenders, with effect throughout the Union.
+
+(19) Member States should ensure that the fact that a criminal offence is committed within a criminal organisation as defined in Council Framework Decision 2008/841/JHA[^11] is considered to be an aggravating circumstance in accordance with the applicable rules established by their legal systems. They should ensure that the aggravating circumstance is made available to judges for their consideration when sentencing offenders, although there is no obligation on judges to take the aggravating circumstance into account in their sentence. Member States are not obliged to provide for the aggravating circumstance where national law provides for the criminal offences as defined in Framework Decision 2008/841/JHA to be punishable as a separate criminal offence and this may lead to more severe sanctions.
+
+(20) Given, in particular, the mobility of perpetrators and of the proceeds stemming from illegal activities at the expense of the Union’s financial interests, as well as the complex cross-border investigations which this entails, each Member State should establish its jurisdiction in order to enable it to counter such activities. Each Member State should thereby ensure that its jurisdiction covers criminal offences which are committed using information and communication technology accessed from its territory.
+
+(21) Given the possibility of multiple jurisdictions for cross-border criminal offences falling under the scope of this Directive, the Member States should ensure that the principle of *ne bis in idem* is respected in full in the application of national law transposing this Directive.
+
+(22) Member States should lay down rules concerning limitation periods necessary in order to enable them to counter illegal activities at the expense of the Union’s financial interests. In cases of criminal offences punishable by a maximum sanction of at least four years of imprisonment, the limitation period should be at least five years from the time when the criminal offence was committed. This should be without prejudice to those Member States which do not set limitation periods for investigation, prosecution and enforcement.
+
+(23) Without prejudice to the rules on cross-border cooperation and mutual legal assistance in criminal matters and to other rules under Union law, in particular under Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council,[^12] there is a need for appropriate provision to be made for cooperation to ensure effective action against the criminal offences defined in this Directive affecting the Union’s financial interests, including exchange of information between the Member States and the Commission as well as technical and operational assistance provided by the Commission to the competent national authorities as they may need to facilitate coordination of their investigations. Such assistance should not entail the participation of the Commission in the investigation or prosecution procedures of individual criminal cases conducted by the national authorities. The Court of Auditors and the auditors responsible for auditing the budgets of the Union institutions, bodies, offices and agencies should disclose to the European Anti-Fraud Office (OLAF) and to other competent authorities any fact which could be qualified as a criminal offence under this Directive, and Member States should ensure that national audit bodies within the meaning of Article 59 of Regulation (EU, Euratom) No 966/2012 do the same, in accordance with Article 8 of Regulation (EU, Euratom) No 883/2013.
+
+(24) The Commission should report to the European Parliament and to the Council on the measures taken by Member States to comply with this Directive. The report may be accompanied, if necessary, by proposals taking into consideration possible evolutions, in particular regarding the financing of the Union budget.
+
+(25) The Convention should be replaced by this Directive for the Member States bound by it.
+
+(26) For the application of point (d) of Article 3(4) of Directive (EU) 2015/849 of the European Parliament and of the Council,[^13] the reference to serious fraud affecting the Union’s financial interests as defined in Article 1(1) and Article 2(1) of the Convention should be construed as fraud affecting the Union’s financial interests as defined in Article 3 and in Article 7(3) of this Directive or, as regards offences against the common VAT system, as defined in Article 2(2) of this Directive.
+
+(27) Proper implementation of this Directive by the Member States includes the processing of personal data by the competent national authorities, and the exchange of such data between Member States on the one hand, and between competent Union bodies on the other. The processing of personal data at national level between national competent authorities should be regulated by the *acquis* of the Union. The exchange of personal data between Member States should be carried out in accordance with Directive (EU) 2016/680 of the European Parliament and of the Council.[^14] To the extent that the Union institutions, bodies, offices and agencies process personal data, Regulation (EC) No 45/2001 of the European Parliament and of the Council[^15] or, where applicable, other Union legal acts regulating the processing of personal data by those bodies, offices and agencies as well as the applicable rules concerning the confidentiality of judicial investigations, should apply.
+
+(28) The intended dissuasive effect of the application of criminal law sanctions requires particular caution with regard to fundamental rights. This Directive respects fundamental rights and observes the principles recognised in particular by the Charter of Fundamental Rights of the European Union (the ‘Charter’) and in particular the right to liberty and security, the protection of personal data, the freedom to choose an occupation and right to engage in work, the freedom to conduct a business, the right to property, the right to an effective remedy and to a fair trial, the presumption of innocence and the right of defence, the principles of the legality and proportionality of criminal offences and sanctions, as well as the principle of *ne bis in idem*. This Directive seeks to ensure full respect for those rights and principles and must be implemented accordingly.
+
+(29) Member States should take the necessary measures to ensure the prompt recovery of sums and their transfer to the Union budget, without prejudice to the relevant Union sector-specific rules on financial corrections and recovery of amounts unduly spent.
+
+(30) Administrative measures and penalties play an important role in the protection of the Union’s financial interests. This Directive does not exempt Member States from the obligation to apply and implement administrative Union measures and penalties within the meaning of Articles 4 and 5 of Regulation (EC, Euratom) No 2988/95.
+
+(31) This Directive should oblige Member States to provide in their national law for criminal penalties in respect of the acts of fraud and fraud-related criminal offences affecting the Union’s financial interests to which this Directive applies. This Directive should not create obligations regarding the application of such penalties or any other available system of law enforcement to individual cases. Member States may in principle continue to apply administrative measures and penalties in parallel in the area covered by this Directive. In the application of national law transposing this Directive, Member States should, however, ensure that the imposition of criminal sanctions for criminal offences in accordance with this Directive and of administrative measures and penalties does not lead to a breach of the Charter.
+
+(32) This Directive should not affect the competences of Member States to structure and organise their tax administration as they see fit to ensure the correct determination, assessment and collection of value added tax, as well as the effective application of VAT law.
+
+(33) This Directive applies without prejudice to the provisions on the lifting of the immunities contained in the TFEU, Protocol No 3 on the Statute of the Court of Justice of the European Union and Protocol No 7 on the Privileges and Immunities of the European Union, annexed to the TFEU and to the Treaty on European Union (TEU), and the texts implementing them, or similar provisions incorporated in national law. In the transposition of this Directive into national law as well as in the application of national law transposing this Directive, those privileges and immunities, including the respect for the freedom of the Member’s mandate, are fully taken into account.
+
+(34) This Directive is without prejudice to the general rules and principles of national criminal law on the application and execution of sentences in accordance with the concrete circumstances in each individual case.
+
+(35) Since the objective of this Directive cannot be sufficiently achieved by the Member States but can rather, by reason of its scale and effects, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 TEU. In accordance with the principle of proportionality as set out in that Article, this Directive does not go beyond what is necessary to achieve that objective.
+
+(36) In accordance with Article 3 and Article 4a(1) of Protocol No 21 on the position of United Kingdom and Ireland in respect of the area of freedom, security and justice, annexed to the TEU and to the TFEU, Ireland has notified its wish to take part in the adoption and application of this Directive.
+
+(37) In accordance with Articles 1 and 2 of Protocol No 21 on the position of the United Kingdom and Ireland in respect of the area of freedom, security and justice, annexed to the TEU and to the TFEU, and without prejudice to Article 4 of that Protocol, the United Kingdom is not taking part in the adoption of this Directive and is not bound by it or subject to its application.
+
+(38) In accordance with Articles 1 and 2 of Protocol No 22 on the position of Denmark, annexed to the TEU and to the TFEU, Denmark is not taking part in the adoption of this Directive and is not bound by it or subject to its application.
+
+(39) The European Court of Auditors has been consulted and has adopted an opinion,[^16]
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+TITLE I
+
+**SUBJECT MATTER, DEFINITIONS AND SCOPE**
+
+*Article 1*
+
+**Subject matter**
+
+This Directive establishes minimum rules concerning the definition of criminal offences and sanctions with regard to combatting fraud and other illegal activities affecting the Union’s financial interests, with a view to strengthening protection against criminal offences which affect those financial interests, in line with the *acquis* of the Union in this field.
+
+*Article 2*
+
+**Definitions and scope**
+
+1\. For the purposes of this Directive, the following definitions apply:
+
+(a)‘Union’s financial interests’ means all revenues, expenditure and assets covered by, acquired through, or due to:
+
+(i) the Union budget;
+
+(ii) the budgets of the Union institutions, bodies, offices and agencies established pursuant to the Treaties or budgets directly or indirectly managed and monitored by them;
+
+(b)‘legal person’ means an entity having legal personality under the applicable law, except for States or public bodies in the exercise of State authority and for public international organisations.
+
+2\. In respect of revenue arising from VAT own resources, this Directive shall apply only in cases of serious offences against the common VAT system. For the purposes of this Directive, offences against the common VAT system shall be considered to be serious where the intentional acts or omissions defined in point (d) of Article 3(2) are connected with the territory of two or more Member States of the Union and involve a total damage of at least EUR 10 000 000.
+
+3\. The structure and functioning of the tax administration of the Member States are not affected by this Directive.
+
+TITLE II
+
+**CRIMINAL OFFENCES WITH REGARD TO FRAUD AFFECTING THE UNION’S FINANCIAL INTERESTS**
+
+*Article 3*
+
+**Fraud affecting the Union’s financial interests**
+
+1\. Member States shall take the necessary measures to ensure that fraud affecting the Union’s financial interests constitutes a criminal offence when committed intentionally.
+
+2\. For the purposes of this Directive, the following shall be regarded as fraud affecting the Union’s financial interests:
+
+(a) in respect of non-procurement-related expenditure, any act or omission relating to:
+
+(i) the use or presentation of false, incorrect or incomplete statements or documents, which has as its effect the misappropriation or wrongful retention of funds or assets from the Union budget or budgets managed by the Union, or on its behalf;
+
+(ii) non-disclosure of information in violation of a specific obligation, with the same effect; or
+
+(iii) the misapplication of such funds or assets for purposes other than those for which they were originally granted;
+
+(b) in respect of procurement-related expenditure, at least when committed in order to make an unlawful gain for the perpetrator or another by causing a loss to the Union’s financial interests, any act or omission relating to:
+
+(i) the use or presentation of false, incorrect or incomplete statements or documents, which has as its effect the misappropriation or wrongful retention of funds or assets from the Union budget or budgets managed by the Union, or on its behalf;
+
+(ii) non-disclosure of information in violation of a specific obligation, with the same effect; or
+
+(iii) the misapplication of such funds or assets for purposes other than those for which they were originally granted, which damages the Union’s financial interests;
+
+(c) in respect of revenue other than revenue arising from VAT own resources referred to in point (d), any act or omission relating to:
+
+(i) the use or presentation of false, incorrect or incomplete statements or documents, which has as its effect the illegal diminution of the resources of the Union budget or budgets managed by the Union, or on its behalf;
+
+(ii) non-disclosure of information in violation of a specific obligation, with the same effect; or
+
+(iii) misapplication of a legally obtained benefit, with the same effect;
+
+(d) in respect of revenue arising from VAT own resources, any act or omission committed in cross-border fraudulent schemes in relation to:
+
+(i) the use or presentation of false, incorrect or incomplete VAT-related statements or documents, which has as an effect the diminution of the resources of the Union budget;
+
+(ii) non-disclosure of VAT-related information in violation of a specific obligation, with the same effect; or
+
+(iii) the presentation of correct VAT-related statements for the purposes of fraudulently disguising the non-payment or wrongful creation of rights to VAT refunds.
+
+*Article 4*
+
+**Other criminal offences affecting the Union’s financial interests**
+
+1\. Member States shall take the necessary measures to ensure that money laundering as described in Article 1(3) of Directive (EU) 2015/849 involving property derived from the criminal offences covered by this Directive constitutes a criminal offence.
+
+2\. Member States shall take the necessary measures to ensure that passive and active corruption, when committed intentionally, constitute criminal offences.
+
+(a) For the purposes of this Directive, ‘passive corruption’ means the action of a public official who, directly or through an intermediary, requests or receives advantages of any kind, for himself or for a third party, or accepts a promise of such an advantage, to act or to refrain from acting in accordance with his duty or in the exercise of his functions in a way which damages or is likely to damage the Union’s financial interests.
+
+(b) For the purposes of this Directive, ‘active corruption’ means the action of a person who promises, offers or gives, directly or through an intermediary, an advantage of any kind to a public official for himself or for a third party for him to act or to refrain from acting in accordance with his duty or in the exercise of his functions in a way which damages or is likely to damage the Union’s financial interests.
+
+3\. Member States shall take the necessary measures to ensure that misappropriation, when committed intentionally, constitutes a criminal offence.
+
+For the purposes of this Directive, ‘misappropriation’ means the action of a public official who is directly or indirectly entrusted with the management of funds or assets to commit or disburse funds or appropriate or use assets contrary to the purpose for which they were intended in any way which damages the Union’s financial interests.
+
+4\. For the purposes of this Directive, ‘public official’ means:
+
+(a) a Union official or a national official, including any national official of another Member State and any national official of a third country:
+
+(i)‘Union official’ means a person who is:
+
+—an official or other servant engaged under contract by the Union within the meaning of the Staff Regulations of Officials and the Conditions of Employment of Other Servants of the European Union laid down in Council Regulation (EEC, Euratom, ECSC) No 259/68[^17] (the ‘Staff Regulations’), or
+
+—seconded to the Union by a Member State or by any public or private body, who carries out functions equivalent to those performed by Union officials or other servants.
+
+Without prejudice to the provisions on privileges and immunities contained in Protocols No 3 and No 7, Members of the Union institutions, bodies, offices and agencies, set up in accordance with the Treaties and the staff of such bodies shall be assimilated to Union officials, inasmuch as the Staff Regulations do not apply to them;
+
+(ii)‘national official’ shall be understood by reference to the definition of ‘official’ or ‘public official’ in the national law of the Member State or third country in which the person in question carries out his or her functions.
+
+Nevertheless, in the case of proceedings involving a national official of a Member State, or a national official of a third country, initiated by another Member State, the latter shall not be bound to apply the definition of ‘national official’ except insofar as that definition is compatible with its national law.
+
+The term ‘national official’ shall include any person holding an executive, administrative or judicial office at national, regional or local level. Any person holding a legislative office at national, regional or local level shall be assimilated to a national official;
+
+(b) any other person assigned and exercising a public service function involving the management of or decisions concerning the Union’s financial interests in Member States or third countries.
+
+TITLE III
+
+**GENERAL PROVISIONS RELATING TO FRAUD AND OTHER CRIMINAL OFFENCES AFFECTING THE UNION’S FINANCIAL INTERESTS**
+
+*Article 5*
+
+**Incitement, aiding and abetting, and attempt**
+
+1\. Member States shall take the necessary measures to ensure that inciting, and aiding and abetting the commission of any of the criminal offences referred to in Articles 3 and 4 are punishable as criminal offences.
+
+2\. Member States shall take the necessary measures to ensure that an attempt to commit any of the criminal offences referred to in Article 3 and Article 4(3) is punishable as a criminal offence.
+
+*Article 6*
+
+**Liability of legal persons**
+
+1\. Member States shall take the necessary measures to ensure that legal persons can be held liable for any of the criminal offences referred to in Articles 3, 4 and 5 committed for their benefit by any person, acting either individually or as part of an organ of the legal person, and having a leading position within the legal person, based on:
+
+(a) a power of representation of the legal person;
+
+(b) an authority to take decisions on behalf of the legal person; or
+
+(c) an authority to exercise control within the legal person.
+
+2\. Member States shall also take the necessary measures to ensure that legal persons can be held liable where the lack of supervision or control by a person referred to in paragraph 1 of this Article has made possible the commission, by a person under its authority, of any of the criminal offences referred to in Article 3, 4 or 5 for the benefit of that legal person.
+
+3\. Liability of legal persons under paragraphs 1 and 2 of this Article shall not exclude the possibility of criminal proceedings against natural persons who are perpetrators of the criminal offences referred to in Articles 3 and 4 or who are criminally liable under Article 5.
+
+*Article 7*
+
+**Sanctions with regard to natural persons**
+
+1\. As regards natural persons, Member States shall ensure that the criminal offences referred to in Articles 3, 4 and 5 are punishable by effective, proportionate and dissuasive criminal sanctions.
+
+2\. Member States shall take the necessary measures to ensure that the criminal offences referred to in Articles 3 and 4 are punishable by a maximum penalty which provides for imprisonment.
+
+3\. Member States shall take the necessary measures to ensure that the criminal offences referred to in Articles 3 and 4 are punishable by a maximum penalty of at least four years of imprisonment when they involve considerable damage or advantage.
+
+The damage or advantage resulting from the criminal offences referred to in points (a), (b) and (c) of Article 3(2) and in Article 4 shall be presumed to be considerable where the damage or advantage involves more than EUR 100 000.
+
+The damage or advantage resulting from the criminal offences referred to in point (d) of Article 3(2) and subject to Article 2(2) shall always be presumed to be considerable.
+
+Member States may also provide for a maximum sanction of at least four years of imprisonment in other serious circumstances defined in their national law.
+
+4\. Where a criminal offence referred to in point (a), (b) or (c) of Article 3(2) or in Article 4 involves damage of less than EUR 10 000 or an advantage of less than EUR 10 000, Member States may provide for sanctions other than criminal sanctions.
+
+5\. Paragraph 1 shall be without prejudice to the exercise of disciplinary powers by the competent authorities against public officials.
+
+*Article 8*
+
+**Aggravating circumstance**
+
+Member States shall take the necessary measures to ensure that where a criminal offence referred to in Article 3, 4 or 5 is committed within a criminal organisation in the sense of Framework Decision 2008/841/JHA, this shall be considered to be an aggravating circumstance.
+
+*Article 9*
+
+**Sanctions with regard to legal persons**
+
+Member States shall take the necessary measures to ensure that a legal person held liable pursuant to Article 6 is subject to effective, proportionate and dissuasive sanctions, which shall include criminal or non-criminal fines and may include other sanctions, such as:
+
+(a) exclusion from entitlement to public benefits or aid;
+
+(b) temporary or permanent exclusion from public tender procedures;
+
+(c) temporary or permanent disqualification from the practice of commercial activities;
+
+(d) placing under judicial supervision;
+
+(e) judicial winding-up;
+
+(f) temporary or permanent closure of establishments which have been used for committing the criminal offence.
+
+*Article 10*
+
+**Freezing and confiscation**
+
+Member States shall take the necessary measures to enable the freezing and confiscation of instrumentalities and proceeds from the criminal offences referred to in Articles 3, 4 and 5. Member States bound by Directive 2014/42/EU of the European Parliament and of the Council[^18] shall do so in accordance with that Directive.
+
+*Article 11*
+
+**Jurisdiction**
+
+1\. Each Member State shall take the necessary measures to establish its jurisdiction over the criminal offences referred to in Articles 3, 4 and 5 where:
+
+(a) the criminal offence is committed in whole or in part within its territory; or
+
+(b) the offender is one of its nationals.
+
+2\. Each Member State shall take the necessary measures to establish its jurisdiction over the criminal offences referred to in Articles 3, 4 and 5 where the offender is subject to the Staff Regulations at the time of the criminal offence. Each Member State may refrain from applying the rules on jurisdiction established in this paragraph or may apply them only in specific cases or only where specific conditions are fulfilled and shall inform the Commission thereof.
+
+3\. A Member State shall inform the Commission where it decides to extend its jurisdiction to criminal offences referred to in Article 3, 4 or 5 which have been committed outside its territory in any of the following situations:
+
+(a) the offender is a habitual resident in its territory;
+
+(b) the criminal offence is committed for the benefit of a legal person established in its territory; or
+
+(c) the offender is one of its officials who acts in his or her official duty.
+
+4\. In cases referred to in point (b) of paragraph 1, Member States shall take the necessary measures to ensure that the exercise of their jurisdiction is not subject to the condition that a prosecution can be initiated only following a report made by the victim in the place where the criminal offence was committed, or a denunciation from the State of the place where the criminal offence was committed.
+
+*Article 12*
+
+**Limitation periods for criminal offences affecting the Union’s financial interests**
+
+1\. Member States shall take the necessary measures to provide for a limitation period that enables the investigation, prosecution, trial and judicial decision of criminal offences referred to in Articles 3, 4 and 5 for a sufficient period of time after the commission of those criminal offences, in order for those criminal offences to be tackled effectively.
+
+2\. Member States shall take the necessary measures to enable the investigation, prosecution, trial and judicial decision of criminal offences referred to in Articles 3, 4 and 5 which are punishable by a maximum sanction of at least four years of imprisonment, for a period of at least five years from the time when the offence was committed.
+
+3\. By way of derogation from paragraph 2, Member States may establish a limitation period that is shorter than five years, but not shorter than three years, provided that the period may be interrupted or suspended in the event of specified acts.
+
+4\. Member States shall take the necessary measures to enable the enforcement of:
+
+(a) a penalty of more than one year of imprisonment; or alternatively
+
+(b) a penalty of imprisonment in the case of a criminal offence which is punishable by a maximum sanction of at least four years of imprisonment,
+
+imposed following a final conviction for a criminal offence referred to in Article 3, 4 or 5, for at least five years from the date of the final conviction. That period may include extensions of the limitation period arising from interruption or suspension.
+
+*Article 13*
+
+**Recovery**
+
+This Directive shall be without prejudice to the recovery of the following:
+
+(1) at Union level of sums unduly paid in the context of the commission of the criminal offences referred to in point (a), (b) or (c) of Article 3(2), or in Article 4 or 5;
+
+(2) at national level, of any VAT not paid in the context of the commission of the criminal offences referred in point (d) of Article 3(2), or in Article 4 or 5.
+
+*Article 14*
+
+**Interaction with other applicable legal acts of the Union**
+
+The application of administrative measures, penalties and fines as laid down in Union law, in particular those within the meaning of Articles 4 and 5 of Regulation (EC, Euratom) No 2988/95, or in national law adopted in compliance with a specific obligation under Union law, shall be without prejudice to this Directive. Member States shall ensure that any criminal proceedings initiated on the basis of national provisions implementing this Directive do not unduly affect the proper and effective application of administrative measures, penalties and fines that cannot be equated to criminal proceedings, laid down in Union law or national implementing provisions.
+
+TITLE IV
+
+**FINAL PROVISIONS**
+
+*Article 15*
+
+**Cooperation between the Member States and the Commission (OLAF) and other Union institutions, bodies, offices or agencies**
+
+1\. Without prejudice to the rules on cross-border cooperation and mutual legal assistance in criminal matters, the Member States, Eurojust, the European Public Prosecutor’s Office and the Commission shall, within their respective competences, cooperate with each other in the fight against the criminal offences referred to in Articles 3, 4 and 5. To that end the Commission, and where appropriate, Eurojust, shall provide such technical and operational assistance as the competent national authorities need to facilitate coordination of their investigations.
+
+2\. The competent authorities in the Member States may, within their competences, exchange information with the Commission so as to make it easier to establish the facts and to ensure effective action against the criminal offences referred to in Articles 3, 4 and 5. The Commission and the competent national authorities shall take into account in each specific case the requirements of confidentiality and the rules on data protection. Without prejudice to national law on access to information, a Member State may, to that end, when supplying information to the Commission, set specific conditions covering the use of information, whether by the Commission or by another Member State to which the information is passed.
+
+3\. The Court of Auditors and auditors responsible for auditing the budgets of the Union institutions, bodies, offices and agencies established pursuant to the Treaties, and the budgets managed and audited by the institutions, shall disclose to OLAF and to other competent authorities any fact of which they become aware when carrying out their duties, which could be qualified as a criminal offence referred to in Article 3, 4 or 5. Member States shall ensure that national audit bodies do the same.
+
+*Article 16*
+
+**Replacement of the Convention on the protection of the European Communities’ financial interests**
+
+The Convention on the protection of the European Communities’ financial interests of 26 July 1995, including the Protocols thereto of 27 September 1996, of 29 November 1996 and of 19 June 1997, is hereby replaced by this Directive for the Member States bound by it, with effect from 6 July 2019.
+
+For the Member States bound by this Directive, references to the Convention shall be construed as references to this Directive.
+
+*Article 17*
+
+**Transposition**
+
+1\. Member States shall adopt and publish, by 6 July 2019, the laws, regulations and administrative provisions necessary to comply with this Directive. They shall immediately communicate the text of those measures to the Commission. They shall apply those measures from 6 July 2019.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. They shall also include a statement that, for the Member States bound by this Directive, references in existing laws, regulations and administrative provisions to the Convention replaced by this Directive shall be construed as references to this Directive. Member States shall determine how such reference is to be made and how that statement is to be formulated.
+
+2\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+*Article 18*
+
+**Reporting and assessment**
+
+1\. The Commission shall by 6 July 2021 submit a report to the European Parliament and the Council, assessing the extent to which the Member States have taken the necessary measures in order to comply with this Directive.
+
+2\. Without prejudice to reporting obligations laid down in other Union legal acts, Member States shall, on an annual basis, submit the following statistics on the criminal offences referred to in Articles 3, 4 and 5 to the Commission, if they are available at a central level in the Member State concerned:
+
+(a) the number of criminal proceedings initiated, dismissed, resulting in an acquittal, resulting in a conviction and ongoing;
+
+(b) the amounts recovered following criminal proceedings and the estimated damage.
+
+3\. The Commission shall, by 6 July 2024 and taking into account its report submitted pursuant to paragraph 1 and the Member States’ statistics submitted pursuant to paragraph 2, submit a report to the European Parliament and to the Council, assessing the impact of national law transposing this Directive on the prevention of fraud to the Union’s financial interests.
+
+4\. The Commission shall, by 6 July 2022 and on the basis of the statistics submitted by Member States, pursuant to paragraph 2, submit a report to the European Parliament and to the Council, assessing, with regard to the general objective to strengthen the protection of the Union’s financial interests, whether:
+
+(a) the threshold indicated in Article 2(2) is appropriate;
+
+(b) the provisions relating to limitation periods as referred to in Article 12 are sufficiently effective;
+
+(c) this Directive effectively addresses cases of procurement fraud.
+
+5\. The reports referred to in paragraphs 3 and 4 shall be accompanied, if necessary, by a legislative proposal, which may include a specific provision on procurement fraud.
+
+*Article 19*
+
+**Entry into force**
+
+This Directive shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
+
+*Article 20*
+
+**Addressees**
+
+This Directive is addressed to the Member States in accordance with the Treaties.
+
+Done at Strasbourg, 5 July 2017.]
+
+| *For the European Parliament* | *For the Council* |
+|---|---|
+| *The President* | *The President* |
+| A. TAJANI | M. MAASIKAS. |
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F57: Inserted (14.04.2021) by *Criminal Justice (Theft and Fraud Offences) (Amendment) Act 2021* (2/2021), s. 8, S.I. No. 167 of 2021.
+
+## SCHEDULE 2
+
+Text in the English language of the Convention drawn up on the basis of Article K.3 of the Treaty on European Union, on the protection of the European Communities' financial interests done at Brussels on 26 July 1995
+
+F58[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F58: Repealed (14.04.2021) by *Criminal Justice (Theft and Fraud Offences) (Amendment) Act 2021* (2/2021), s. 12(d), S.I. No. 167 of 2021.
+
+## SCHEDULE 3
+
+Text in the Irish language of the Convention drawn up on the basis of Article K.3 of the Treaty on European Union, on the protection of the European Communities' financial interests done at Brussels on 26 July 1995
+
+F59[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F59: Repealed (14.04.2021) by *Criminal Justice (Theft and Fraud Offences) (Amendment) Act 2021* (2/2021), s. 12(d), S.I. No. 167 of 2021.
+
+## SCHEDULE 4
+
+Text in the English language of the Protocol drawn up on the basis of Article K.3 of the Treaty on European Union to the Convention on the protection of the European Communities' financial interests done at Brussels on 27 September 1996
+
+F60[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F60: Repealed (14.04.2021) by *Criminal Justice (Theft and Fraud Offences) (Amendment) Act 2021* (2/2021), s. 12(d), S.I. No. 167 of 2021.
+
+## SCHEDULE 5
+
+Text in the Irish language of the Protocol drawn up on the basis of Article K.3 of the Treaty on European Union to the Convention on the protection of the European Communities' financial interests done at Brussels on 27 September 1996
+
+F61[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F61: Repealed (14.04.2021) by *Criminal Justice (Theft and Fraud Offences) (Amendment) Act 2021* (2/2021), s. 12(d), S.I. No. 167 of 2021.
+
+## SCHEDULE 6
+
+Text in the English language of the Protocol drawn up on the basis of Article K.3 of the Treaty on European Union, on the interpretation, by way of preliminary rulings, by the Court of Justice of the European Communities of the Convention on the protection of the European Communities' financial interests done at Brussels on 29 November 1996
+
+F62[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F62: Repealed (14.04.2021) by *Criminal Justice (Theft and Fraud Offences) (Amendment) Act 2021* (2/2021), s. 12(d), S.I. No. 167 of 2021.
+
+## SCHEDULE 7
+
+Text in the Irish language of the Protocol drawn up on the basis of Article K.3 of the Treaty on European Union, on the interpretation, by way of preliminary rulings, by the Court of Justice of the European Communities of the Convention on the protection of the European Communities' financial interests done at Brussels on 29 November 1996
+
+F63[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F63: Repealed (14.04.2021) by *Criminal Justice (Theft and Fraud Offences) (Amendment) Act 2021* (2/2021), s. 12(d), S.I. No. 167 of 2021.
+
+## SCHEDULE 8
+
+Text in the English language of the Protocol drawn up on the basis of Article K.3 of the Treaty on European Union, to the Convention on the protection of the European Communities' financial interests done at Brussels on 19 June 1997
+
+F64[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F64: Repealed (14.04.2021) by *Criminal Justice (Theft and Fraud Offences) (Amendment) Act 2021* (2/2021), s. 12(d), S.I. No. 167 of 2021.
+
+## SCHEDULE 9
+
+Text in the Irish language of the Protocol drawn up on the basis of Article K.3 of the Treaty on European Union, to the Convention on the protection of the European Communities financial interests done at Brussels on 19 June 1997
+
+F65[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F65: Repealed (14.04.2021) by *Criminal Justice (Theft and Fraud Offences) (Amendment) Act 2021* (2/2021), s. 12(d), S.I. No. 167 of 2021.
+
+[^1]: OJ No. L 176, 27.06.2013, p.1
+[^2]: OJ C 391, 18.12.2012, p. 134.
+[^3]: Position of the European Parliament of 16 April 2014 (not yet published in the Official Journal) and position of the Council at first reading of 25 April 2017 (OJ C 184, 9. 6.2017, p.1). Position of the European Parliament of 5 July 2017 (not yet published in the Official Journal).
+[^4]: OJ C 316, 27.11.1995, p. 48.
+[^5]: OJ C 313, 23.10.1996, p. 1.
+[^6]: OJ C 151, 20.5.1997, p. 1.
+[^7]: OJ C 221, 19.7.1997, p. 11.
+[^8]: Council Regulation (EC, Euratom) No 2988/95 of 18 December 1995 on the protection of the European Communities’ financial interests (OJ L 312, 23.12.1995, p. 1).
+[^9]: Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (OJ L 347, 11.12.2006, p. 1).
+[^10]: Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council of 25 October 2012 on the financial rules applicable to the general budget of the Union and repealing Council Regulation (EC, Euratom) No 1605/2002 (OJ L 298, 26.10.2012, p. 1).
+[^11]: Council Framework Decision 2008/841/JHA of 24 October 2008 on the fight against organised crime (OJ L 300, 11.11.2008, p. 42).
+[^12]: Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council of 11 September 2013 concerning investigations conducted by the European Anti-Fraud Office (OLAF) and repealing Regulation (EC) No 1073/1999 of the European Parliament and of the Council and Council Regulation (Euratom) No 1074/1999 (OJ L 248, 18.9.2013, p. 1).
+[^13]: Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73).
+[^14]: Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA (OJ L 119, 4.5.2016, p. 89).
+[^15]: Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data (OJ L 8, 12.1.2001, p. 1).
+[^16]: OJ C 383, 12.12.2012, p. 1.
+[^17]: OJ L 56, 4.3.1968, p. 1.
+[^18]: Directive 2014/42/EU of the European Parliament and of the Council of 3 April 2014 on the freezing and confiscation of instrumentalities and proceeds of crime in the European Union (OJ L 127, 29.4.2014, p. 39).

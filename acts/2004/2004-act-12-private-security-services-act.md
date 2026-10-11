@@ -1,0 +1,2353 @@
+---
+title: "Private Security Services Act 2004"
+identifier: "eli/2004/act/12"
+type: act
+jurisdiction: ie
+language: en
+number: 12
+year: 2004
+date: 2004-05-04
+last_amended: 2025-10-31
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2004/act/12/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2004/act/12/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Private Security Services Act 2004
+
+AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF A BODY, TO BE KNOWN AS THE PRIVATE SECURITY AUTHORITY, OR IN THE IRISH LANGUAGE AN tÚDARÁS SLÁNDÁLA PRÍOBHÁIDÍ, TO CONTROL AND SUPERVISE INDIVIDUALS AND FIRMS PROVIDING PRIVATE SECURITY SERVICES AND TO INVESTIGATE AND ADJUDICATE ON ANY COMPLAINTS AGAINST THEM; FOR THE ESTABLISHMENT OF A BODY, TO BE KNOWN AS THE PRIVATE SECURITY APPEAL BOARD, OR IN THE IRISH LANGUAGE AN BORD ACHOMHAIRC UM SHLÁNDÁIL PHRÍOBHÁI DEACH, TO HEAR AND DETERMINE APPEALS AGAINST DECISIONS OF THAT AUTHORITY; AND FOR RELATED MATTERS. [4*th May*, 2004]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## PART 1Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title and commencement.
+
+**1.**—(1) This Act may be cited as the Private Security Services Act 2004.
+
+(2) This Act shall come into operation on such day or days as may be fixed by order or orders made by the Minister, either generally or by reference to any particular purpose or provision, and different days may be so fixed for different provisions and different purposes of this Act.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to subs. (2) exercised (29.09.2023) by *Private Security Services Act 2004 (Commencement) Order 2023* (S.I. No. 473 of 2023).
+>
+> 3\. The 29th day of September 2023 is fixed as the day on which section 37 (amended by section 13 of the Civil Law (Miscellaneous Provisions) Act 2011 (No. 23 of 2011)) of the Principal Act comes into operation in respect of an individual -
+>
+> (*a*) who provides a security service as a door supervisor, in so far as the said section 37 is not already in operation in respect of an individual who provides a security service as a door supervisor,
+>
+> (*b*) who provides a security service as a private investigator, or
+>
+> (*c*) who, as a security guard, provides the security services referred to in paragraph (e) of the definition of “security guard” in section 2(1) of the Principal Act.
+>
+> E2: Power pursuant to subs. (2) exercised (1.06.2018) by *Private Security Services Act 2004 (Commencement) Order 2018* (S.I. No. 56 of 2018).
+>
+> 2\. The 1st day of June 2018 is fixed as the day on which section 37 (as amended by section 13 of the Civil Law (Miscellaneous Provisions) Act 2011 (No. 23 of 2011)) of the Private Security Services Act 2004 (No. 12 of 2004) comes into operation as respects a security guard (monitoring centre), who as a security guard monitors security equipment which consists of a continuously manned remote centre to which information concerning the status of one or more alarm or cctv systems is reported.
+>
+> E3: Power pursuant to subs. (2) exercised (1.02.2017) by *Private Security Services Act 2004 (Commencement) Order 2016* (S.I. No. 344 of 2016).
+>
+> 2\. The 1st day of February 2017 is fixed as the day on which section 37 (as amended by section 13 of the Civil Law (Miscellaneous Provisions) Act 2011 (No. 23 of 2011)) of the Private Security Services Act 2004 (No. 12 of 2004) comes into operation as respects a private security employer or an independent contractor who provides a security service as a locksmith.
+>
+> E4: Power pursuant to subs. (2) exercised (1.11.2015) by *Private Security Services Act 2004 (Section 37) (Commencement) Order 2015* (S.I. No. 194 of 2015).
+>
+> 2\. The 1st day of November 2015 is fixed as the day on which section 37 (as amended by section 13 of the Civil Law (Miscellaneous Provisions) Act 2011 (No. 23 of 2011)) of the Private Security Services Act 2004 (No. 12 of 2004) comes into operation as respects a private security employer or an independent contractor who provides a security service as a private investigator.
+>
+> E5: Power pursuant to subs. (2) exercised (1.11.2014) by *Private Security Services Act 2004 (Section 37) (Commencement) Order 2014* (S.I. No. 191 of 2014).
+>
+> 3\. The 1st day of November 2014 is fixed as the day on which section 37 (as amended by section 13 of the Civil Law (Miscellaneous Provisions) Act 2011 (No. 23 of 2011)) of the Private Security Services Act 2004 (No. 12 of 2004) comes into operation as respects a private security employer or an independent contractor who provides a security service as a—
+>
+> (*a*) security guard (alarm monitoring),
+>
+> (*b*) security guard (cctv monitoring).
+>
+> E6: Power pursuant to subs. (2) exercised (1.11.2014) by *Private Security Services Act 2004 (Section 37) (Commencement) Order 2014* (S.I. No. 303 of 2014).
+>
+> 3\. The 1st day of November, 2014 is fixed as the day on which section 37 (as amended by section 13 of the Civil Law (Miscellaneous Provisions) Act 2011 (No. 23 of 2011)) of the Private Security Services Act 2004 (No. 12 of 2004) comes into operation as respects a private security employer or an independent contractor who provides a security service as a —
+>
+> (a) door supervisor (event security),
+>
+> (b) security guard (event security).
+>
+> E7: Power pursuant to subs. (2) exercised (1.10.2012) by *Private Security Services Act 2004 (Section 37) (Commencement) Order 2012* (S.I. No. 145 of 2012).
+>
+> 3\. The 1st day of October 2012 is fixed as the day on which section 37 (as amended by section 13 of the Civil Law (Miscellaneous Provisions) Act 2011 (No. 23 of 2011)) of the Private Security Services Act 2004 (No. 12 of 2004) comes into operation as respects a private security employer or an independent contractor who—
+>
+> (*a*) installs, maintains, repairs or services access control security equipment,
+>
+> (*b*) installs, maintains, repairs or services cctv security equipment,
+>
+> (*c*) maintains, repairs or services intruder alarms.
+>
+> E8: Power pursuant to subs. (2) exercised (1.12.2008) by *Private Security Services Act 2004 (Section 37) (Commencement) Order 2008* (S.I. No. 497 of 2008).
+>
+> 2\. The 1st day of December 2008 is fixed as the day on which section 37 of the Private Security Services Act 2004 (No. 12 of 2004) comes into operation in so far as it refers to a provider of protected forms of transport referred to in paragraph (f) of the definition of “security service ” in section 2(1) of that Act.
+>
+> E9: Power pursuant to subs. (2) exercised (1.04.2007) by *Private Security Services Act 2004 (Section 37) (Part) (Commencement) Order 2007* (S.I. No. 306 of 2007).
+>
+> 3\. The 1st April 2007 is fixed as the day on which section 37 of the Act comes into operation for the purposes of its application in relation to a door supervisor (licensed premises) or security guard (static).
+>
+> E10: Power pursuant to subs. (2) exercised (1.08.2006) by *Private Security Services Act 2004 (Section 37 (Part)) (Commencement) (No.2) Order 2006* (S.I. No. 436 of 2006).
+>
+> 2\. The 1st day of August, 2006, is fixed as the day on which section 37 of the Act comes into operation for the purposes of its application in relation to an installer (intruder alarm), or a security guard (monitoring centre), within the meaning of the Private Security (Licensing and Standards) Regulations 2005 (S.I. No. 834 of 2005).
+>
+> E11: Power pursuant to subs. (2) exercised (1.04.2006) by *Private Security Services Act 2004 (Sections 29 to 33, 35 and 37 (Part)) (Commencement) Order 2006* (S.I. No. 151 of 2006).
+>
+> 3\. The 1st day of April, 2006, is fixed as the day on which -
+>
+> (*a*) sections 29 to 33 and section 35 of the Act come into operation, and
+>
+> (*b*) section 37 of the Act comes into operation for the purposes of its application in relation to a door supervisor (licensed premises), or a security guard (static), within the meaning of the Private Security (Licensing and Standards) Regulations 2005 (S.I. No. 834 of 2005).
+>
+> E12: Power pursuant to subs. (2) exercised (3.10.2005) by *Private Security Services Act 2004 (Sections 13 to 16, 21 to 28, 34, 36 and 38, Parts 4, 5 and 7 and Schedule 2) (Commencement) Order 2005* (S.I. No. 637 of 2005).
+>
+> 2\. The 3rd day of October 2005 is fixed as the day on which sections 13 to 16, 21 to 28, 34, 36 and 38, Parts 4, 5 and 7 and Schedule 2 of the Private Security Services Act 2004 (No. 12 of 2004) shall come into operation.
+>
+> E13: Power pursuant to subs. (2) exercised (28.10.2004) by *Private Security Services Act 2004 (Part 1, (b) sections 6, 7, 8, 9, 10, 11, 12, 17, 18, 19 and 20, and (c) Schedule 1.) (Commencement) Order 2004* (S.I. No. 685 of 2004).
+>
+> 2\. The 28th day of October 2004 is fixed as the day on which—
+>
+> (*a*) Part 1,
+>
+> (*b*) sections 6, 7, 8, 9, 10, 11, 12, 17, 18, 19 and 20, and
+>
+> (*c*) Schedule 1. of the Private Security Services Act 2004 (No. 12 of 2004) shall come into operation.
+
+### 2. Interpretation.
+
+**2.**—(1) In this Act, unless the context otherwise requires—
+
+“advisory committee” means a committee appointed by the Authority under *paragraph 1* of *Schedule 1*;
+
+“Appeal Board” means the Private Security Appeal Board established under *section 40*;
+
+“Authority” means the Private Security Authority established under *section 6*;
+
+“Chief Executive” means the person appointed under *section 10(1)* as the chief executive officer of the Authority;
+
+“corresponding authority” has the meaning given to it by *section 42*;
+
+F1["county registrar" means a person appointed as such under section 35 of the Court Officers Act 1926;]
+
+F3["court messenger" means a person appointed as such under section 4 of the Enforcement of Court Orders Act 1926;]
+
+“director”, in relation to a body corporate, includes—
+
+(*a*) any person occupying the position of director, by whatever name called,
+
+(*b*) any person who effectively directs or has a material influence over the business of the body corporate,
+
+(*c*) any person in accordance with whose directions or instructions the directors of the body corporate are accustomed to act, unless the directors are accustomed so to act by reason only that they do so on advice given by the person in a professional capacity, and
+
+(*d*) where the affairs of the body corporate are managed by its members, any of the members who exercises the functions of such management;
+
+“door supervisor” means a person who for remuneration, as part of his or her duties, performs any of the following functions at, in or in the vicinity of any premises or any other place where a public or private event or function is taking place or is about to take place:
+
+(*a*) controlling, supervising, regulating or restricting entry to the premises or place,
+
+(*b*) controlling or monitoring the behaviour of persons therein,
+
+(*c*) removing persons therefrom because of their behaviour;
+
+F4["enforcement guard" means a person other than a sheriff, county registrar or court messenger who for remuneration, as part of his or her duties, is authorised to perform any of the following functions:
+
+(*a*) removing one or more persons from any premises or any other place in order to take possession of the premises or place,
+
+(*b*) controlling, supervising or restricting entry by one or more persons to any premises or any other place in order to take possession of the premises or place, or
+
+(*c*) seizing goods or other property in lieu of an outstanding debt,
+
+which said authorisation is conferred by or under an enactment, pursuant to a court order, in accordance with an agreement or a consent, pursuant to a contract, or otherwise in accordance with the law;]
+
+“functions” includes powers and duties, and references to the performance of functions include, as respects powers and duties, references to the exercise of the powers and the performance of the duties;
+
+“identity badge” has the meaning given to it by *section 30*;
+
+“identity card” means a card issued under *section 29*;
+
+“inspector” has the meaning given to it by *section 14*;
+
+F5[“installer of security equipment” means a person—
+
+(*a*) in the course of a business, trade or profession, installs, maintains, repairs or services electronic or other devices designed, constructed or adapted to give warning of, or monitor or record unauthorised entry or misconduct on or in the vicinity of premises,
+
+(*b*) in the course of a business, trade or profession, installs, maintains, repairs or services electronic or other devices designed, constructed or adapted to control or record access by persons or vehicles to or within premises by means of—
+
+(i) personal identity verification, including by means of biometrics,
+
+(ii) vehicle identification,
+
+(iii) numerical codes,
+
+(iv) alphabetical codes,
+
+(v) access or other card management, or
+
+(vi) electronic key management,
+
+or any combination of such means,
+
+and includes a person who in connection with the provision of services referred to in *paragraph (a)* or *(b)* gives advice relating to the installation of such equipment or advice relating to the protection of such devices from damage or interference;]
+
+“licence” means a licence to provide a particular security service specified by the Authority, and cognate words shall be construed accordingly;
+
+“Minister” means the Minister for Justice, Equality and Law Reform;
+
+“person” includes a body corporate and an unincorporated body of persons;
+
+“prescribed” means prescribed by regulations made by the Authority with the consent of the Minister;
+
+“private investigator” means a person who F6[in the course of a business, trade or profession,] conducts investigations into matters on behalf of a client and includes a person who—
+
+(*a*) obtains or furnishes information in relation to the personal character, actions or occupation of a person or to the character or kind of business in which a person is engaged, or
+
+(*b*) searches for missing persons;
+
+“private security employer” means a person who employs persons whose principal function is to provide security services for persons other than the employer;
+
+“Register” means the Private Security Register established under *section 33*;
+
+“relevant person” has the meaning given to it by *section 42*;
+
+“remuneration” includes a benefit in kind but does not include any meal or refreshment provided in connection with the performance of a service;
+
+“security consultant” means a person who F7[in the course of a business, trade or profession,] advises on methods of protecting property, including information recorded in non-legible form, from vandalism, intrusion, trespass, theft or from being otherwise damaged or interfered with but does not include—
+
+(*a*) a person who advises on such methods in the ordinary course of carrying out an audit, or
+
+(*b*) an installer of security equipment;
+
+“security guard” means a person who for remuneration guards or patrols or provides any other protective services in relation to persons or property and includes a person who for those purposes—
+
+(*a*) provides those services exclusively for an employer who is not a private security employer,
+
+(*b*) monitors security equipment,
+
+(*c*) supervises and inspects security guards while they are guarding or patrolling,
+
+(*d*) accompanies a guard dog while the dog is guarding or patrolling, or
+
+(*e*) controls, supervises, regulates, restricts or directs the movements of persons, whether in vehicles or otherwise, in relation to any premises or any other place where a public or private event or function is taking place or about to take place;
+
+“security service” means a service provided by a private security employer or by any one of the following persons in the course of an employment or as an independent contractor (but, except in the case of a door supervisor or security guard, does not include a service provided by a person whose principal function is to provide it only for the person's employer):
+
+(*a*) door supervisor,
+
+(*b*) F8[installer] of security equipment,
+
+(*c*) private investigator,
+
+(*d*) security consultant,
+
+(*e*) security guard,
+
+(*f*) provider of protected forms of transport,
+
+(*g*) locksmith,
+
+(*h*) supplier or installer of F9[safes,]
+
+F10[(i) enforcement guard.]
+
+F2["sheriff" means a sheriff appointed by the Government under the Court Officers Act 1945.]
+
+(2) In this Act, unless the context otherwise requires—
+
+(*a*) a reference to a section is a reference to a section of this Act,
+
+(*b*) subject to *paragraph (c)*, a reference to a subsection, paragraph, subparagraph or clause is a reference to a subsection, paragraph, subparagraph or clause of the provision in which the reference occurs, and
+
+(*c*) a reference to a paragraph in a Schedule to this Act is a reference to a paragraph of that Schedule.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1, F2: Inserted (22.07.2021) by *Private Security Services (Amendment) Act 2021* (19/2021), s. 2(1)(a), S.I. No. 379 of 2021.
+>
+> F3, F4: Inserted (31.03.2023) by *Private Security Services (Amendment) Act 2021* (10/2021), s. 2(1)(a), S.I. No. 139 of 2023.
+>
+> F5, F6, F7, F8: Substituted (22.06.2012) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 6(a)-(d), S.I. No. 215 of 2012.
+>
+> F9: Substituted (31.03.2023) by *Private Security Services (Amendment) Act 2021* (10/2021), s. 2(1)(b)(i), S.I. No. 139 of 2023.
+>
+> F10: Inserted (31.03.2023) by *Private Security Services (Amendment) Act 2021* (10/2021), s. 2(1)(b)(ii), S.I. No. 139 0f 2023.
+
+### 3. Exemptions.
+
+**3.**—(1) Without prejudice to *sections 43* and *52*, this Act does not apply to relevant persons or to—
+
+(*a*) a member of the Garda Síochána,
+
+(*b*) a member of the Defence Forces,
+
+(*c*) a member of a company's harbour police within the meaning of section 54 of the Harbours Act 1996,
+
+(*d*) an authorised officer, or authorised person, within the meaning of the Air Navigation and Transport Acts 1936 to 1998,
+
+(*e*) an officer or employee of a Government department or State F11[agency,]
+
+(*f*) a person employed as apprentice by a person providing a security F12[service, or]
+
+F13[(*g*) a person appointed by a county registrar or sheriff for the execution of a certificate under section 960L of the Taxes Consolidation Act 1997,]
+
+while carrying out the duties of his or her office or employment or to a person employed as a resident caretaker who keeps property under surveillance only as an incidental part of the duties of his or her employment.
+
+(2) The Authority may by order exempt from any or all of the provisions of this Act persons providing security services or security services of a particular class at a specified place, event or function or specified class of place, event or function or in connection with a visit to the State by a specified person where in its opinion, by reason of the size of the expected attendance or other exceptional circumstances, it would not otherwise be reasonably practicable to provide the requisite level of security services there.
+
+(3) Notice of any such exemption shall be published in *Iris Oifigiúil*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F11, F12: Substituted (22.07.2021) by *Private Security Services (Amendment) Act 2021* (19/2021), s. 3(a), (b), S.I. No. 379 of 2021.
+>
+> F13: Inserted (22.07.2021) by *Private Security Services (Amendment) Act 2021* (19/2021), s. 3(c), S.I. No. 379 of 2021.
+>
+> **Editorial Notes:**
+>
+> E14: Power pursuant to subs. (2) exercised (27.09.2007) by *Private Security (Exemption) Order 2007* (S.I. No. 873 of 2007).
+
+### 4. Laying of orders and regulations before Houses of Oireachtas.
+
+**4.**—Every order (other than an order under *section 1*) and regulation made under this Act by the Minister or, as the case may be, the Authority shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order or regulation is passed by either such House within the next 21 days on which that House has sat after the order or regulation is laid before it, the order or regulation shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
+
+### 5. Expenses of Minister.
+
+**5.**—The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## PART 2Private Security Authority — PART 2 — Private Security Authority
+
+### 6. Private Security Authority.
+
+**6.**—(1) There stands established a body to be known as the Private Security Authority, or in the Irish language An tÚdarás Slán dála Príobháidí, to perform the functions conferred on it by this Act.
+
+(2) The Authority shall, subject to this Act, be independent in the exercise of its functions.
+
+(3) The Authority shall be a body corporate with perpetual succession and with power—
+
+(*a*) to sue and be sued in its corporate name,
+
+(*b*) with the consent of the Minister, to acquire, hold and dispose of land or an interest in or rights over or in respect of land, and
+
+(*c*) to acquire, hold and dispose of any other property.
+
+(4) *Schedule 1* shall have effect in relation to the Authority.
+
+### 7. Membership.
+
+**7.**—(1) (*a*) The Authority shall consist of not more than 11 members.
+
+(*b*) Notwithstanding *paragraph (a)*, until the first appointment to the Authority of a person elected by its staff in accordance with *subsection (2)(g)*, the Authority shall consist of not more than 10 members.
+
+(*c*) The members of the Authority shall be appointed by the Minister, who shall designate one of them as its chairperson.
+
+(2) The members of the Authority shall include—
+
+(*a*) at least one person who is a practising barrister, or practising solicitor, of not less than 5 years' standing,
+
+(*b*) 2 persons each of whom the Minister considers to be representative of private security employers,
+
+(*c*) 2 persons each of whom the Minister considers to be representative of employees of such employers,
+
+(*d*) the Commissioner of the Garda Síochána or such other member of the Garda Síochána not below the rank of Assistant Commissioner as the Commissioner may nominate in that behalf,
+
+(*e*) an officer of the Minister,
+
+(*f*) a representative of any other Minister of the Government who, in the opinion of the Minister, is directly concerned with or responsible for activities relevant to the functions of the Authority, and
+
+(*g*) one member of the staff of the Authority elected by secret ballot of the staff of the Authority in such manner—
+
+(i) if notice of the holding of the first such election is given before the day on which the Authority is established, as the Minister directs in writing, or
+
+(ii) in any other case, as the Authority, with the agreement of the Minister, may determine.
+
+(3) (*a*) The term of office of a member of the Authority shall be not more than 4 years.
+
+(*b*) A person may not be appointed to be a member for more than 2 consecutive terms.
+
+(*c*) A member may resign from the Authority by letter addressed to the Minister, and the resignation shall take effect on the date of receipt of the letter.
+
+(*d*) A member shall, unless he or she sooner dies, resigns, is removed from office or otherwise ceases to be a member, hold office as such member until the expiration of his or her term of office.
+
+(4) The Minister may for stated reasons at any time remove a member from office for misbehaviour or where the Minister considers that either—
+
+(*a*) the member has become incapable through ill health of effectively performing his or her functions as a member, or
+
+(*b*) the member's removal is necessary for the effective performance by the Authority of its functions.
+
+(5) A member of the Authority shall cease to be a member on—
+
+(*a*) being adjudicated bankrupt,
+
+(*b*) making a composition or arrangement with creditors,
+
+(*c*) being sentenced to imprisonment on conviction on indictment,
+
+(*d*) ceasing to be ordinarily resident in the State, or
+
+(*e*) if on appointment he or she was a person to whom any paragraph of *subsection (2)* applied, ceasing to be such a person.
+
+(6) (*a*) If a member of the Authority dies, resigns, is removed from office or otherwise ceases to hold office, the Minister may, subject to *subsection (2)*, appoint a person to fill the vacancy.
+
+(*b*) A person so appointed shall hold office for the remainder of the term of office of the member whom he or she replaces and be eligible for reappointment for one further term.
+
+(*c*) The chairperson shall hold office as such chairperson until his or her term of office as a member of the Authority expires, unless he or she sooner dies, resigns, is removed from office or otherwise ceases to be a member, but, if reappointed as a member, he or she shall be eligible to be designated as chairperson.
+
+(7) In making appointments to the Authority the Minister shall have regard to the extent to which each sex is represented in its membership and shall ensure that an appropriate balance in this respect is maintained.
+
+(8) Each member of the Authority shall act on a part-time basis and shall be paid such remuneration (if any) and allowances for expenses as the Minister, with the consent of the Minister for Finance, may determine.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 12 of 2004</td><td>Private Security Services Act 2004</td><td>Sections 7(8) and 8(3); Schedule 1, paragraphs 1 and 9; Schedule 2, paragraphs 1 and 5</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 8. Functions.
+
+**8.**—(1) The Authority shall, subject to this Act, control and supervise persons providing security services and maintain and improve standards in the provision by them of those services.
+
+(2) Without prejudice to the generality of *subsection (1)*, the Authority may, and where required by this Act shall—
+
+(*a*) grant and renew licences,
+
+(*b*) issue identity cards to licensees,
+
+(*c*) where appropriate, suspend or revoke licences,
+
+(*d*) establish and maintain a register of licensees,
+
+(*e*) specify standards to be observed in the provision of security services by licensees or particular categories of licensees,
+
+(*f*) specify qualifications or any other requirements (including requirements as to training) for the grant of licences,
+
+(*g*) undertake or commission, or collaborate or assist in, research projects and activities relating to the provision of security services, including the compilation of statistical information and other records necessary for the proper planning, development and provision of those services,
+
+(*h*) investigate any security services being provided by any person,
+
+(*i*) establish and administer a system of investigation and adjudication of complaints against licensees,
+
+(*j*) monitor the provision of private security services generally,
+
+(*k*) liaise with licensees with a view to keeping itself informed of any matters requiring its attention,
+
+(*l*) advise the Minister on any matter relating to its functions,
+
+(*m*) keep the Minister informed of developments in relation to the provision of security services by licensees or particular categories of licensees and assist him or her in coordinating and developing policy in that regard.
+
+(3) The Minister may, with the consent of the Minister for Finance, by order—
+
+(*a*) confer on the Authority such additional functions relating to security services and connected with the functions conferred on it by *subsections (1)* and *(2)* or any order under this subsection as the Minister considers appropriate, and
+
+(*b*) make such provision as the Minister considers necessary or expedient in relation to matters ancillary to or arising out of any of the functions mentioned in *paragraph (a)*.
+
+(4) The Minister may by order amend or revoke an order under this section, including an order under this subsection.
+
+(5) Any function of the Authority may, without prejudice to its general responsibilities under this Act, be performed through or by its Chief Executive or any other member of its staff duly authorised in that behalf.
+
+(6) The Authority may, subject to this Act, do anything which it considers necessary or expedient for enabling it to perform its functions.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C2: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 12 of 2004</td><td>Private Security Services Act 2004</td><td>Sections 7(8) and 8(3); Schedule 1, paragraphs 1 and 9; Schedule 2, paragraphs 1 and 5</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 9. Strategic plans.
+
+**9.**—(1) The Authority shall, as soon as practicable after it is established and thereafter within 6 months before each third anniversary of its establishment, prepare and submit to the Minister, for approval by the Minister with or without amendment, a strategic plan for the ensuing 3-year period.
+
+(2) A strategic plan shall—
+
+(*a*) set out the key objectives, outputs and related strategies of the Authority, including its use of resources,
+
+(*b*) comply with any directions issued from time to time by the Minister in relation to the form and manner of the plan's preparation, and
+
+(*c*) have regard to the need to ensure the most beneficial and efficient use of the Authority's resources.
+
+(3) The Minister shall, as soon as practicable after a strategic plan has been so approved, cause a copy of it to be laid before each House of the Oireachtas.
+
+### 10. Chief Executive.
+
+**10.**—(1) There shall be a chief executive officer of the Authority (in this Act referred to as the “Chief Executive”).
+
+(2) The Chief Executive shall, subject to *subsection (3)(b)*, be appointed by the Minister on the recommendation of the F14[Chief Executive of the Public Appointments Service].
+
+(3) The appointment shall either—
+
+(*a*) be on such terms as the Minister may, with the consent of the Minister for Finance, determine and be subject to F14[Public Service Management (Recruitment and Appointments) Act 2004] and the Civil Service Regulation Acts 1956 to 1996, or
+
+(*b*) be on such other terms and conditions as may be determined by the Authority and approved by the Minister with the consent of the Minister for Finance.
+
+(4) The Chief Executive shall manage and control generally the staff, administration and business of the Authority and perform such other functions as may be conferred on him or her by or under this Act or by the Authority.
+
+(5) The Chief Executive shall be responsible to the Authority for the performance of his or her functions and the implementation of the Authority's functions.
+
+(6) Such of the functions of the Chief Executive as he or she may specify from time to time may, with the consent of the Authority, be performed by such member of the staff of the Authority as the Chief Executive may authorise in that behalf.
+
+(7) The functions of the Chief Executive may be performed during his or her absence or when the post of Chief Executive is vacant by such member or members of the staff of the Authority as it may from time to time designate for that purpose.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F14: Substituted (6.10.2004) by *Public Service Management (Recruitment and Appointments) Act 2004* (33/2004), s. 61(1) and sch. 2 part 1, commenced on enactment.
+
+### 11. Staff.
+
+**11.**—(1) The Authority may appoint such and so many persons to be members of its staff as may be approved from time to time by the Minister with the consent of the Minister for Finance.
+
+(2) The grades of staff of the Authority and the number in each grade shall be determined by the Authority with the consent of the Minister and the Minister for Finance.
+
+(3) *Section 10(3)* shall apply, with the necessary modifications, to an appointment under this section.
+
+### 12. Superannuation.
+
+**12.**—(1) The Authority may, with the approval of the Minister and the consent of the Minister for Finance, make a scheme or schemes for the granting of superannuation benefits to or in respect of the members of staff of the Authority, including the Chief Executive.
+
+(2) Every such scheme shall fix the time and conditions of retirement of all persons to or in respect of whom superannuation benefits are payable under the scheme or schemes, and different times and conditions may be fixed in respect of different classes of persons.
+
+(3) Every such scheme may be amended or revoked by a subsequent scheme under this section.
+
+(4) Any scheme submitted by the Authority under this section shall, if approved by the Minister with the consent of the Minister for Finance, be carried out by the Authority in accordance with its terms.
+
+(5) (*a*) Any dispute arising as to the claim of any person to, or the amount of, any superannuation benefit payable in pursuance of a scheme or schemes under this section shall be submitted to the Minister.
+
+(*b*) The Minister shall refer the dispute to the Minister for Finance, whose decision shall be final.
+
+(6) A superannuation benefit shall not be granted by the Authority to or in respect of a person on his or her ceasing to be Chief Executive or a member of its staff, or any other arrangement be entered into by the Authority for the provision of such a benefit, otherwise than in accordance with a scheme or schemes under this section.
+
+(7) Any scheme under this section, including an amendment of a scheme, shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the scheme is passed by either such House within the next 21 days on which that House has sat after the scheme is laid before it, the scheme shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+(8) In this section “superannuation benefit” means any pension, gratuity or other allowance payable to or in respect of a person on ceasing to be the Chief Executive or a member of the staff of the Authority.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E15: Any defined benefit scheme established under section excluded from application of *Pensions Act 1990*, part III by *Occupational Pension Schemes (Preservation of Benefits) Regulations 2002* (S.I. No. 279 of 2002), reg. 11 and sch. part 1, sch. part 1 as substituted (26.02.2009) by *Occupational Pension Schemes (Preservation of Benefits) (Amendment) Regulations 2009* (S.I. No. 70 of 2009), reg. 2.
+>
+> E16: Any defined benefit scheme established under section excluded from provisions of *Pensions Act 1990* (25/1990), part IV, by *Occupational Pension Schemes (Funding Standard) Regulations 1993* (S.I. No. 419 of 1993), reg. 6 and sch. C, sch. C as substituted (1.08.2008) by *Occupational Pension Schemes (Funding Standard) (Amendment) Regulations 2008* (S.I. No. 295 of 2008), reg. 4; substituted (18.04.2013) by *Occupational Pension Schemes (Funding Standard) (Amendment) Regulations 2013* (S.I. No. 135 of 2013), reg. 2; substituted (16.06.2014) by *Occupational Pension Schemes (Funding Standard) (Amendment) Regulations 2014* (S.I. No. 268 of 2014), reg. 2; subsituted (12.02.2019) by *Occupational Pension Schemes (Funding Standard) (Amendment) Regulations 2019* (S.I. No. 39 of 2019), reg. 2.
+
+### 13. Investigations by Authority.
+
+**13.**—(1) Without prejudice to *section 39(2)*, the Authority may of its own motion investigate any security services being provided by any person.
+
+(2) For the purposes of such an investigation the Authority—
+
+(*a*) may by notice in writing require any person who in its opinion is in possession of information, or has any record or thing in the person's possession or under the person's control, that is relevant to the investigation to supply that information, record or thing to the Authority within a period specified in the notice, and
+
+(*b*) where appropriate, may require the person to attend before it for those purposes within that period.
+
+(3) The person shall be entitled to the same immunities and privileges in relation to compliance with any requirement mentioned in *subsection (2)* as if the person were a witness before a court.
+
+(4) If the person does not comply or comply fully with the requirement within the specified period, the Authority may apply to the District Court, on notice to the person, for an order requiring the person to comply or comply fully with the requirement within a period to be specified by the Court.
+
+(5) If it appears to the Court, on application by the Authority, that the person has failed, without reasonable excuse (proof of which shall lie on the person), to comply or comply fully with the order, the Court may treat the failure for all purposes as if it were a contempt in the face of the Court.
+
+(6) The jurisdiction conferred on the District Court by this section may be exercised by the judge of that Court for the time being assigned to the district court district in which the person concerned ordinarily resides or carries on any profession, business or occupation.
+
+### 14. Inspectors.
+
+**14.**—F15[(1) For the purposes of this Act the Authority may appoint a person (including a member of the staff of the Authority) to be an inspector for such period and subject to such terms and conditions as the Authority may determine.]
+
+(2) Each inspector shall be given a warrant of his or her appointment and, when exercising any power conferred by this Act, shall, on request by any person affected, produce the warrant or a copy thereof, together with a form of personal identification.
+
+F16[(3) The Authority may designate a member of its staff, who has been appointed as an inspector pursuant to *subsection (1)*, to be Chief Inspector.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F15: Substituted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 7(a), commenced on enactment.
+>
+> F16: Inserted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 7(b), commenced on enactment.
+
+### 15. Power of entry and inspection.
+
+**15.**—(1) An inspector may, for the purposes of obtaining any information in relation to a matter under investigation by the Authority or of otherwise enabling the Authority to exercise its functions under this Act—
+
+(*a*) at all reasonable times enter, inspect, examine and search any place where the inspector has reasonable cause to believe that a security service is being provided,
+
+(*b*) make such examination and inquiry as may be necessary to establish whether the relevant provisions of this Act or regulations thereunder are being complied with,
+
+(*c*) require the production of any records, books or accounts (whether kept in manual form or otherwise) or any other documents or information which it is necessary for the inspector to see for those purposes and inspect, examine and copy them or require that a copy of them or of any entries in them be provided to him or her,
+
+(*d*) take with him or her a member of the Garda Síochána if he or she has reasonable cause to apprehend any serious obstruction in the execution of his or her duty,
+
+(*e*) require any person to afford him or her such facilities and assistance within the person's control or responsibilities as are reasonably necessary to enable the inspector to exercise any of the powers conferred on him or her under *paragraphs (a), (b)* or *(c)*.
+
+(2) An inspector shall not, other than with the consent of the occupier, enter a private dwelling unless he or she has obtained a warrant under *subsection (3)* authorising the entry.
+
+(3) A judge of the District Court, if satisfied on the sworn information of an inspector that—
+
+(*a*) there are reasonable grounds for suspecting that information required by an inspector under this section is held on any premises or any part of any premises, and
+
+(*b*) an inspector in the exercise of his or her powers under this section has been prevented from entering the premises or any part thereof,
+
+may issue a warrant authorising the inspector, accompanied if necessary by other persons, at any time or times within one month from the date of issue of the warrant and on production if so requested of the warrant, to enter, if need be by reasonable force, the premises or part of the premises concerned and exercise all or any of the powers conferred on an inspector by *subsection (1)*.
+
+(4) A person who—
+
+(*a*) withholds, destroys, conceals or refuses to furnish any information or thing required for the purposes of an investigation by the Authority,
+
+(*b*) fails or refuses to comply with any requirement of an inspector under this section, or
+
+(*c*) otherwise obstructs or hinders him or her in the performance of duties under this Act,
+
+is guilty of an offence and liable on summary conviction to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E17: A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 16. Reports to Minister.
+
+**16.**—(1) The Authority shall, not later than 30 September in each year, make a report to the Minister on the performance of its functions and on its activities during the preceding year.
+
+(2) The Minister shall cause copies of the report to be laid before each House of the Oireachtas.
+
+(3) The report shall be in such form as the Minister may approve and include information in such form and regarding such matters as he or she may direct.
+
+(4) The Authority may from time to time make such other reports to the Minister on the performance of its functions as it thinks fit.
+
+(5) The Authority shall give to the Minister such other information regarding such performance as he or she may from time to time require.
+
+(6) For the purposes of *subsection (1)* the period between the date of the establishment of the Authority and the following 31 December shall be deemed to be the preceding year referred to in that subsection.
+
+### 17. Disclosure of interests.
+
+**17.**—(1) Where a member of the Authority, the Chief Executive, a member of the staff of the Authority or a member of an advisory committee, a consultant or an adviser appointed by it has (otherwise than in that capacity) a pecuniary interest or other beneficial interest in, or material to, any matter to be considered by the Authority, he or she shall—
+
+(*a*) in advance of any consideration of the matter, disclose that interest and its nature to the Authority or advisory committee, as the case may be,
+
+(*b*) neither influence nor seek to influence any decision to be made in relation to it,
+
+(*c*) not make any recommendation in relation to it,
+
+(*d*) not take part in any consideration of it,
+
+(*e*) absent himself or herself from any meeting of the Authority, or any part of such a meeting, at which it is being considered or discussed,
+
+(*f*) not be counted towards a quorum during any such consideration or discussion, and
+
+(*g*) not vote on any decision relating to the matter.
+
+(2) Without prejudice to the generality of *subsection (1)*, a person shall be regarded for the purposes of this section as having a beneficial interest if—
+
+(*a*) he or she or any connected relative F17[or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010], or any nominee of his or hers or any connected relative F17[or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010], is a member of a company or any other body which has a beneficial interest in, or material to, a matter referred to in that subsection,
+
+(*b*) he or she or any connected relative F17[or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010] is in partnership with or is in the employment of a person who has a beneficial interest in, or material to, such a matter,
+
+(*c*) he or she or any connected relative F17[or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010] is a party to any arrangement or agreement (whether or not enforceable) concerning land to which such a matter relates, or
+
+(*d*) any connected relative F17[or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010] has a beneficial interest in, or material to, such a matter.
+
+(3) For the purposes of this section a person shall not be regarded as having a beneficial interest in, or material to, any matter by reason only of an interest of the person, or of any company or other entity or person mentioned in *subsection (2)*, which is so remote or insignificant that it could not reasonably be regarded as likely to influence a person in considering, discussing or voting on any question with respect to the matter or in performing any function in relation to it.
+
+(4) Where a question arises as to whether or not a course of conduct, if pursued by a person, would be a failure by the person to comply with *subsection (1)*, it shall be determined by the Authority, and particulars of the determination shall be recorded in the minutes of the meeting concerned.
+
+(5) Where a disclosure under *subsection (1)* is made to the Authority or an advisory committee, particulars of the disclosure shall be recorded in the minutes of the meeting concerned.
+
+(6) The Minister, if of opinion that a person mentioned in *subsection (1)* has contravened that subsection, may remove the person from office or terminate his or her contract, and the person shall thereupon cease to be qualified for membership of the Authority or appointment by it in any capacity.
+
+(7) A person who contravenes *subsection (1)* is guilty of an offence and liable on summary conviction to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both.
+
+(8) In this section “connected relative” means, in relation to a person to whom this section applies, the person's spouse or partner or the parent, brother, sister or child of the person or the person's spouse or partner.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F17: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), sch. 2 part 1 item 37, S.I. No. 648 of 2010.
+>
+> **Editorial Notes:**
+>
+> E18: A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 18. Non-disclosure of information.
+
+**18.**—(1) Save as otherwise provided by law, a person shall not, without the consent of the Authority, disclose any information obtained by him or her while performing, or as a result of having performed, duties as a member of the Authority, the Chief Executive, a member of the staff of the Authority or a member of an advisory committee, F18[a consultant, an inspector or an adviser] appointed by it.
+
+(2) A person who contravenes *subsection (1)* is guilty of an offence and liable on summary conviction to a fine not exceeding €2,000.
+
+(3) This section does not apply to the disclosure of information in a report made to the Authority or by the Authority to the Minister.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F18: Substituted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 8, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E19: A fine of €2,000 translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 19. Grants to Authority.
+
+**19.**—The Minister may from time to time, with the consent of the Minister for Finance, advance to the Authority out of moneys provided by the Oireachtas such sums as the Minister may determine towards the expenses incurred by the Authority in the performance of its functions.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C3: Functions under section transferred (20.09.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) (No. 2) Order 2011* (S.I. No. 480 of 2011), arts. 2, 3(a), 4 and sch., in effect as per art. 1(2), subject to transitional provisions in arts. 5-9.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or any instrument made thereunder and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under—
+>
+> (a) the provisions of the enactments specified in the Schedule, and ...
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> 4\. References to the Minister for Finance contained in any Act or instrument made under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule
+>
+> Enactments
+>
+> ...
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 12 of 2004</td><td>Private Security Services Act 2004</td><td>Section 19 and Schedule 1, paragraph 4(2)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 20. Membership, etc., of Dáil, Seanad or European Parliament.
+
+**20.**—(1) Where a member of the Authority—
+
+(*a*) accepts nomination as a member of Seanad Éireann,
+
+(*b*) is elected as a member of either House of the Oireachtas or to be a representative in the European Parliament, or
+
+(*c*) is regarded under Part XIII of the Second Schedule to the European Parliament Elections Act 1997 as having been elected to that Parliament,
+
+he or she shall thereupon cease to be a member of the Authority.
+
+(2) Where the Chief Executive or a member of the staff of the Authority is—
+
+(*a*) nominated as a member of Seanad Éireann, or
+
+(*b*) elected as a member of either House of the Oireachtas or to be a representative in the European Parliament, or
+
+(*c*) regarded under the said Part XIII as having been elected to that Parliament,
+
+he or she shall thereupon stand seconded from employment by the Authority and shall not be paid by, or be entitled to receive from, the Authority any remuneration or allowances in respect of the period commencing on such nomination, election or the date on which he or she is regarded as having been so elected and ending on the date on which he or she ceases to be a member of either such House or a representative in that Parliament.
+
+(3) A person who is for the time being entitled under the Standing Orders of either House of the Oireachtas to sit therein or who is a representative in the European Parliament shall, while so entitled or such a representative, be disqualified for appointment as a member or Chief Executive of the Authority or for employment by the Authority in any capacity.
+
+(4) Without prejudice to the generality of *subsection (2)*, that subsection shall be construed as prohibiting, *inter alia*, the reckoning of a period mentioned in that subsection as service with the Authority for the purposes of any pensions, gratuities or other allowances payable on resignation, retirement or death.
+
+## PART 3Licences to provide Security Services — PART 3 — Licences to provide Security Services
+
+### 21. Application for licence.
+
+**21.**—(1) An application to the Authority for a licence to provide a security service shall be in the prescribed form and be accompanied by—
+
+(*a*) the prescribed fee, and
+
+(*b*) such references as to the applicant's character and competence as the Authority may require,
+
+and shall contain such other information as may be required by the Authority.
+
+(2) The Authority may require that the applicant's signature be witnessed by a person from within a prescribed category of persons.
+
+(3) Without prejudice to *sections 24* and *36*, the Authority may—
+
+(*a*) require an applicant to furnish such additional information in respect of the applicant's character, financial position and competence, and make such investigations and conduct such examinations in that regard, as it considers necessary,
+
+F19[(*ab*) require the applicant to furnish particulars of every person who, in a case in which the applicant is a company, is the beneficial owner of more than 5 per cent of the share capital of the company,]
+
+(*b*) require verification by affidavit or otherwise of any information provided by the applicant, and
+
+(*c*) require the applicant to supply a certificate by a member of the Garda Síochána not below the rank of superintendent in such form and containing such particulars in relation to the applicant as the Authority may prescribe.
+
+(4) In this section references to the applicant's character, financial position and competence include references to the character, financial position and competence of—
+
+(*a*) in the case of a body corporate, F20[the shareholders to whom *subsection (3)(ab)* refers and the directors, and]
+
+(*b*) in the case of a partnership, the partners,
+
+and, in either case, any manager, secretary or other officer of the entity concerned.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F19: Inserted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 9(a), commenced on enactment.
+>
+> F20: Substituted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 9(b), commenced on enactment.
+
+### 22. Grant or refusal of licence.
+
+**22.**—(1) Subject to *subsection (3)* and *sections 24* and *25*, the Authority may grant a licence to a person to provide a security service.
+
+(2) When deciding whether to grant a licence the Authority shall take into account any information supplied to it under *sections 21*, *34* and *36*.
+
+(3) The Authority shall refuse to grant a licence if satisfied—
+
+(*a*) if the applicant is an individual, that he or she:
+
+(i) is not a fit and proper person to provide a security service,
+
+(ii) is under 18,
+
+(iii) does not comply with any requirement of this Act or regulations thereunder,
+
+(iv) has not paid the prescribed fee,
+
+(*b*) if the applicant is a body corporate:
+
+(i) that F21[any director, shareholder to whom *section 21(3)(ab)* refers, manager,] secretary or other similar officer of the body corporate or any person purporting to act in that capacity is not a fit and proper person to hold such a position in a body corporate which is providing a security service,
+
+(ii) that *subparagraph (iii)* or *(iv)* of *paragraph (a)* applies in respect of the body corporate,
+
+and
+
+(*c*) if the applicant is a partnership, that one or more than one of *subparagraphs (i)* to *(iv)* of *paragraph (a)* applies or apply in respect of any of the partners.
+
+(4) A licence, unless sooner surrendered or revoked or otherwise ceasing to be in force, shall remain in force for a period of 2 years from the date on which it is issued or for such longer period as may be prescribed.
+
+(5) A licence—
+
+(*a*) does not confer any right of property, and
+
+(*b*) may not be transferred or assigned or be mortgaged, charged or otherwise encumbered.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F21: Substituted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 10, commenced on enactment.
+
+### 23. Renewal of licence.
+
+**23.**—(1) Every licence, unless it has been terminated in accordance with this Act, may, subject to *sections 24, 25* and *26*, be renewed from time to time by the Authority F22[...].
+
+F23[(2) An application for the renewal of a licence shall be made in accordance with procedures specified by the Authority.]
+
+(3) If the application is not determined by the Authority before the licence expires, the licence shall continue in force until the application has been so determined.
+
+F24[(3A) Where—
+
+(*a*) *subsection (3)* applies,
+
+(*b*) the applicant has complied with the procedures specified pursuant to *subsection (2)*, and
+
+(*c*) a licence is renewed by the Authority,
+
+the licence so renewed shall expire on the day on which it would have expired if it had been renewed with effect from the day next following the day on which the licence would have expired but for the operation of *subsection (3)*.]
+
+(4) *Sections 21* and *22* shall apply, with the necessary modifications, in relation to an application under this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F22: Deleted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 11(a), commenced on enactment.
+>
+> F23: Substituted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 11(b), commenced on enactment.
+>
+> F24: Inserted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 11(c), commenced on enactment.
+
+### 24. Tax clearance.
+
+**24.**—(1) In this section—
+
+“Act of 1997” means the Taxes Consolidation Act 1997;
+
+“Collector-General” means the Collector-General appointed under section 851 of the Act of 1997;
+
+“person” does not include an individual who provides a security service in the course of an employment but includes—
+
+(*a*) in the case of a body corporate, the directors, and
+
+(*b*) in the case of a partnership, the partners;
+
+“tax clearance certificate” means a certificate under section 1095 (as substituted by section 127(*b*) of the Finance Act 2002) of the Act of 1997.
+
+(2) The Authority shall refuse to grant or renew a licence to or in respect of a person in relation to whom a tax clearance certificate is not in force.
+
+(3) The Authority may nevertheless grant or renew a licence to or in respect of such a person if—
+
+(*a*) the person has, at least four months before applying for the grant or renewal, applied for a tax clearance certificate and either—
+
+(i) that application has not been determined, or
+
+(ii) it has been refused and an appeal against the refusal has been made under section 1094(7) of the Act of 1997 but not determined,
+
+and
+
+(*b*) the Authority would, but for *subsection (2)*, have granted or renewed the licence.
+
+(4) The Authority shall notify the Collector-General of the issue of a licence granted or renewed under *subsection (3)*.
+
+(5) Such a licence shall expire—
+
+(*a*) if the application for a tax clearance certificate is granted or is granted on appeal, on the day on which it would expire if the certificate had been in force when the licence was granted or renewed,
+
+(*b*) if the application is refused and—
+
+(i) an appeal against the refusal under the said section 1094(7) is not made within the period of 30 days after the refusal, on the expiration of that period, or
+
+(ii) such an appeal is so made but is not successful, 7 days after the appeal has been determined or finally determined.
+
+(6) The Collector-General shall notify the Authority of the determination of any such application for a tax clearance certificate, of any appeal against a refusal of such an application and of the final determination of any such appeal.
+
+(7) The reference in *subsection (3)(a)(ii)* to section 1094(7) is to that provision as applied by subsection (6) of section 1095 (as substituted by section 127(*b*) of the Finance Act 2002) of the Act of 1997.
+
+### 25. Documents to accompany certain applications.
+
+**25.**—The Authority shall refuse to grant an application for a licence or for renewal of a licence—
+
+(*a*) by or on behalf of a company, unless the application is accompanied by a certificate of the incorporation of the company, certified by the registrar of companies under section 370(1)(*b*) of the Companies Act 1963 and dated not earlier than 4 weeks before the date of the application, or
+
+(*b*) by or on behalf of a person carrying on business under a name that is not that of the beneficial owner of the business, unless the application is accompanied by a copy of a certificate of registration of the person under the Registration of Business Names Act 1963, certified in accordance with section 16(1)(*b*) of that Act.
+
+### 26. Refusal to renew, suspension, etc., of licence.
+
+**26.**—F25[(1) Subject to *section 27*, the Authority may—
+
+(*a*) refuse to renew a licence, or
+
+(*b*) at any time suspend a licence for a specified period or revoke it,
+
+if it is satisfied on reasonable grounds—
+
+(i) if the licensee is an individual, that he or she—
+
+(I) has supplied information in or in connection with the application for the licence or its renewal that was false or misleading in a material particular,
+
+(II) has contravened any provision of this Act or regulations thereunder (whether or not the licensee has been convicted of an offence in relation to the contravention),
+
+(III) is no longer a fit and proper person to provide a security service, or
+
+(IV) has not paid the prescribed fee,
+
+(ii) if the licensee is a body corporate—
+
+(I) that any director, shareholder to whom *section 21(3)(ab)* refers, manager, secretary or other similar officer of the body corporate or any person purporting to act in that capacity is not a fit and proper person to hold such a position in a body corporate which is providing a security service, or
+
+(II) that *subparagraph (I)*, *(II)* or *(IV)* of *paragraph (i)* applies in respect of the body corporate, or
+
+(iii) if the licensee is a partnership, that one or more than one of *subparagraphs (I)* to *(IV)* of *paragraph (i)* applies or apply in respect of any of the partners,
+
+or if the Authority would not have granted the licence or renewed it if information obtained subsequent to the date of its grant or renewal had been available at that date.]
+
+(2) (*a*) The Authority shall—
+
+(i) refuse to renew a licence, or at any time suspend a licence for a specified period or revoke it, if it is satisfied on reasonable grounds that the safety or welfare of any person or persons is or may be at risk from the continuance in force of the licence, and
+
+(ii) notify the licensee of its decision.
+
+(*b*) *Section 27* does not apply in relation to a decision under this subsection.
+
+(3) Without prejudice to *subsection (1)*, if the Authority is satisfied on reasonable grounds that the licensee—
+
+(*a*) has been guilty of misconduct in the course of providing a security service, or
+
+(*b*) has contravened any provision of this Act or regulations thereunder (whether or not the licensee has been convicted of an offence in relation to the contravention),
+
+it may take whichever of the following actions in relation to the licence or licensee is in its opinion appropriate in the circumstances of the case:
+
+(i) revocation of the licence,
+
+(ii) suspension of the licence for a specified period,
+
+(iii) reprimand,
+
+(iv) warning,
+
+(v) caution,
+
+(vi) advice.
+
+(4) A licence which is suspended shall not be in force during the period of its suspension.
+
+(5) A person whose licence has been suspended or revoked shall comply with any directions of the Authority in relation to delivering up to it the person's licence and identity card.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F25: Substituted (22.07.2021) by *Private Security Services (Amendment) Act 2021* (19/2021), s. 4, S.I. No. 379 of 2021.
+
+### 27. Notification to applicant of refusal, etc.
+
+**27.**—(1) If the Authority proposes to—
+
+(*a*) refuse to grant or renew a licence,
+
+(*b*) suspend it for a specified period, or
+
+(*c*) revoke it,
+
+it shall notify the applicant or licensee of its proposal and consider any representations that are made to it in writing by the applicant or licensee within 14 days after the notification.
+
+(2) If the Authority, having considered any such representations, decides to refuse to grant or renew a licence or to suspend or revoke it, it shall notify the applicant or licensee of the decision and the grounds for it and of the procedure for appealing against it.
+
+### 27A. Temporary licence.
+
+F26[**27A.**— (1) Where the Authority has received an application for a licence under *section 21* and, having considered the application it is satisfied that—
+
+(*a*) the requirements of this Act and any regulations relating to licence applications made pursuant to *section 51* have been complied with (otherwise than as respects the competence of the applicant to provide the security service to which the application relates), and
+
+(*b*) it is appropriate to grant a temporary licence to the applicant to enable the applicant to display the necessary competence to provide security services of a type to which the application for a licence relates,
+
+the Authority may grant a temporary licence for a period not exceeding 6 months to enable the applicant to satisfy the Authority that the applicant has the necessary competence to provide security services of a type to which the application relates.
+
+(2) Where the Authority has granted a temporary licence under this section and the Authority is satisfied that exceptional circumstances exist, the Authority may extend the term of such licence by a period not exceeding 3 months.
+
+(3) The Authority may, in respect of a particular licensee, exercise its power under *subsection (2)* once only.
+
+(4) This section shall not apply in a case where the application relates to the renewal of a licence.
+
+(5) *Section 28* shall not apply to a temporary licence issued pursuant to this section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F26: Inserted (22.06.2012) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 12, S.I. No. 215 of 2012.
+
+### 28. Variation of licensed security service.
+
+**28.**—(1) A licensee may apply to the Authority for a variation in the kind or kinds of security service to which the licence relates.
+
+(2) *Sections 21* and *22* shall apply, with the necessary modifications, in relation to the application.
+
+### 29. Identity cards.
+
+**29.**—(1) The Authority shall issue an identity card to each individual who is a licensee.
+
+(2) Each such individual—
+
+(*a*) shall have the identity card in his or her possession when providing the security service authorised by the licence, and
+
+(*b*) shall, on request, produce it there and then for inspection by any person for whom the licensee is providing a security service under the licence and permit such a person to inspect it.
+
+(3) A member of the Garda Síochána may require an individual who in the member’s opinion is providing a security service to produce there and then for inspection by the member the identity card issued to the individual in connection with the grant of a licence authorising the provision of the service.
+
+(4) An individual who produces an identity card in accordance with *subsection (3)* shall permit the person to whom it is produced to inspect it.
+
+(5) Where an individual does not comply with *subsection (3)* or *(4)*, the member of the Garda Síochána concerned may require the individual to give his or her name and address.
+
+(6) The powers conferred on a member of the Garda Síochána by *subsections (3)* and *(5)* may also be exercised by an inspector.
+
+(7) (*a*) In this subsection “identity card” includes an identity card or other form of identification issued by a corresponding authority.
+
+(*b*) An individual shall not—
+
+(i) produce for inspection an identity card issued to another individual, or
+
+(ii) with intent to deceive, make or use a document purporting to be an identity card, alter an identity card or use an altered identity card.
+
+(*c*) An individual who contravenes *paragraph (b)* is liable on summary conviction to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both.
+
+(8) A member of the Garda Síochána may arrest without warrant—
+
+(*a*) an individual who refuses to produce the identity card issued to him or her when required to do so under *subsection (3)* or does not permit the person to whom an identity card is produced under *subsection (3)* to inspect it,
+
+(*b*) an individual who—
+
+(i) does not give his or her name and address when required by a person under *subsection (5)* to do so, or
+
+(ii) gives a name or address which that person reasonably believes to be false,
+
+or
+
+(*c*) an individual whom the member, with reasonable cause, suspects of having contravened *subsection (7)(b)*.
+
+(9) An individual who—
+
+(*a*) contravenes *subsection (2)(a)* or *(4)*, or
+
+(*b*) does not comply with a request under *subsection (2)(b)* or a requirement under *subsection (3)* or *(5)*,
+
+is guilty of an offence and liable on summary conviction to a fine not exceeding €2,000.
+
+(10) It is a defence in proceedings for an offence under *subsection (2)* or *(3)* for the defendant to prove that he or she had a reasonable excuse for not complying with the subsection concerned.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E20: A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E21: A fine of €2,000 translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 30. Identity badges.
+
+**30.**—(1) An individual who is a member of a prescribed category of licensees shall, when providing a security service, wear an identity badge.
+
+(2) An individual shall not—
+
+(i) wear an identity badge relating to another individual, or
+
+(ii) with intent to deceive, make or use a badge purporting to be an identity badge, alter an identity badge or use an altered identity badge.
+
+(3) An individual who contravenes *subsection (1)* or *(2)* is liable on summary conviction to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both.
+
+(4) It is a defence in proceedings for an offence under *subsection (1)* for the defendant to prove that he or she had a reasonable excuse for not complying with the subsection concerned.
+
+(5) In this section—
+
+“identity badge” means a badge—
+
+(*a*) which clearly indicates the licence number of the licensee concerned,
+
+(*b*) whose form, content and size are as prescribed for identity badges to be worn by members of the prescribed category of licensees concerned, and
+
+(*c*) which, when worn, is clearly visible;
+
+“prescribed category” means a category prescribed for the purposes of this section.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E22: Power pursuant to section exercised (1.11.2024) by *Private Security (Identity Badge) Regulations 2024* (S.I. No. 588 of 2024), in effect as per reg. 2.
+>
+> E23: A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E24: Previous affecting provision: power pursuant to section exercised (1.09.2009) by *Private Security (Identity Badge) Regulations 2009* (S.I. No. 332 of 2009), in effect as per reg. 2; revoked (1.11.2024) by *Private Security (Identity Badge) Regulations 2024* (S.I. No. 588 of 2024), reg. 6, in effect as per reg. 2.
+
+### 31. Issue of duplicate licence or identity card.
+
+**31.**—The Authority, if satisfied that a licence or an identity card has been lost or destroyed, may issue a duplicate thereof on payment of the prescribed fee.
+
+### 32. Surrender of licence.
+
+**32.**—(1) Where—
+
+(*a*) a licence is suspended or revoked or it expires, or
+
+(*b*) a licensee ceases to provide a security service,
+
+the licensee shall forthwith surrender to the Authority in the prescribed manner the licence and any identity card issued to the licensee.
+
+(2) On the suspension, revocation or expiration of a licence, an inspector may seize and retain the licence and any identity card so issued.
+
+(3) A person who contravenes *subsection (1)* is guilty of an offence and liable on summary conviction to a fine not exceeding €2,000.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E25: A fine of €2,000 translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 33. Register of licensees.
+
+**33.**—(1) The Authority shall, as soon as may be after the commencement of this section, establish and maintain for the purposes of this Act a register of licensees to be known as the Private Security Register and which is referred to in this Act as “the Register”.
+
+(2) The Register shall be in such form, and contain such entries and additions, as may be prescribed from time to time.
+
+F27[(3) The Authority shall make the Register available for inspection free of charge by members of the public—
+
+(*a*) at the offices of the Authority during normal working hours, and
+
+(*b*) on its internet website in such a manner that the section of that website which contains the Register is readily accessible by members of the public.]
+
+(4) A copy of an entry in the Register shall, on request, be issued by the Authority on payment of such fee (if any), not exceeding the reasonable cost of making the copy, as may be prescribed.
+
+(5) In any proceedings a document purporting to be a copy of such an entry and to be certified by an officer of the Authority to be a true copy of the entry shall, without proof of the signature of the person purporting so to certify the document or that he or she was such an officer, be received in evidence and shall, unless the contrary is shown, be deemed to be a true copy of the entry and to be evidence of the matters stated in it.
+
+(6) F28[...]
+
+(7) F29[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F27: Substituted (22.07.2021) by *Private Security Services (Amendment) Act 2021* (19/2021), s. 5, S.I. No. 379 of 2021.
+>
+> F28, F29: Repealed (22.07.2021) by *Private Security Services (Amendment) Act 2021* (19/2021), s. 7(b), (c), S.I. No. 379 of 2021.
+
+### 34. Provision of information by Garda Síochána.
+
+**34.**—(1) The Authority may request the Commissioner of the Garda Síochána to provide any information requisite for the due performance of its functions in relation to any applicant for a licence or any licensee.
+
+(2) Notwithstanding anything contained in any enactment, the Commissioner shall comply with any such request.
+
+### 35. Production or display of licence.
+
+**35.**—*Section 29* shall have effect in relation to possessing a licence or producing it for inspection as it does in relation to possessing or so producing an identity card, with the modification that, where the licensee is a company, it shall be sufficient compliance with *subsections (2)(b)* and *(3)*, as so applied, of that section if the licence—
+
+(*a*) is kept in the company's registered office,
+
+(*b*) is displayed in a conspicuous place there, and
+
+(*c*) is available for inspection on request by a member of the Garda Síochána, an inspector or any person for whom the licensee is providing a security service,
+
+and with any other necessary modifications.
+
+### 36. Notification of conviction of offence.
+
+**36.**—(1) An applicant for a licence, or a licensee, who has been convicted of an offence (other than a prescribed offence), or against whom proceedings for such an offence are pending, under the law of the State or another state shall notify the Authority of the conviction or proceedings in the prescribed manner within the prescribed period and supply the Authority with the prescribed particulars thereof.
+
+(2) A licensee shall, within the prescribed period, report to the Authority such other matter as may be prescribed.
+
+(3) A person who contravenes *subsection (1)* or *(2)* is guilty of an offence and liable on summary conviction to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both.
+
+(4) A person shall not be convicted of an offence under this section if the court is satisfied that, in the case of an applicant or a licensee who has been convicted of an offence, or against whom proceedings for an offence are pending, in a place other than the State, the offence does not correspond with any offence under the law of the State.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E26: A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 37. Prohibition of unlicensed security service.
+
+**37.**—(1) F30[A person shall not provide a security service insofar as this Act has come into operation as respects the security service concerned and shall not hold himself or herself out] or represent himself or herself by—
+
+(*a*) advertisement,
+
+(*b*) displaying any shield, card or other object purporting to indicate that he or she is a licensee, or
+
+(*c*) otherwise,
+
+as available to provide such a service unless the individual is the holder of a licence under this Act authorising him or her to provide that particular service.
+
+(2) *Subsection (1)* applies, with the necessary modifications, in relation to a body corporate and an unincorporated body of persons as it applies in relation to an individual.
+
+(3) A person who contravenes *subsection (1)* is guilty of an offence and liable—
+
+(*a*) on summary conviction, to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both, or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years or both.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F30: Substituted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 13, commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C4: Application of subs. (1) restricted (21.09.2007) by *Private Security (Exemption) Order 2007* (S.I. No. 873 of 2007), art. 3-5.
+>
+> 3\. Subject to paragraph 4, a person (not being the holder of an installer (intruder alarm) licence) is exempt from section 37 (1) of the Private Security Services Act 2004 while performing the functions of an installer (intruder alarm) at a specified place or places for the purpose of establishing whether a certificate should be issued to the person.
+>
+> 4\. Paragraph 3 does not apply unless the Authority has confirmed in writing that the person mentioned in that paragraph has complied with the requirements of paragraph 5.
+>
+> 5\. Such a person must—
+>
+> (*a*) apply to the Authority for an installer (intruder alarm) licence,
+>
+> (*b*) give the Authority such information as it requires in respect of the application,
+>
+> (*c*) apply to a certification body for a certificate,
+>
+> (*d*) communicate in writing to the Authority—
+>
+> (i) the name of the certification body,
+>
+> (ii) the date of the application for a certificate,
+>
+> (iii) the place or places where the person proposes to provide the security services concerned, and
+>
+> (iv) the person for whom, and the date and times at which, those services are proposed to be provided,
+>
+> and
+>
+> (*e*) not be a person whose application for an installer (intruder alarm) licence would be refused by virtue of section 22(3) of the Act.
+>
+> **Editorial Notes:**
+>
+> E27: A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 38. Prohibition of employment of unlicensed person.
+
+**38.**—(1) A person shall not employ a person, or engage an independent contractor, to provide a security service if that person or the contractor is required to, but does not, hold a licence to provide the service.
+
+(2) A person who contravenes *subsection (1)* is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both, or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years or both.
+
+(3) In any proceedings for a contravention of *subsection (1)* it is a defence to prove that the person providing the security service produced to the defendant—
+
+(*a*) if the person is an individual, his or her identity card or licence, or
+
+(*b*) if not, the person's licence.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E28: A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+## PART 4Complaints against Licensees — PART 4 — Complaints against Licensees
+
+### 39. Investigation of complaints.
+
+**39.**—(1) Any person may make a complaint in writing to the Authority against a licensee in relation to the conduct of the licensee in the course of providing a security service, including an alleged contravention by the licensee of any provision of this Act or regulations made thereunder.
+
+(2) On receipt of such a complaint, the Authority, if satisfied that the complaint is made in good faith and is not frivolous or vexatious, shall investigate it, giving the licensee and the complainant an opportunity to be heard during the investigation.
+
+(3) On completion of the investigation—
+
+(*a*) the Authority may decide not to uphold the complaint;
+
+(*b*) if the Authority is satisfied on reasonable grounds that the licensee—
+
+(i) has been guilty of misconduct in the course of providing a security service, or
+
+(ii) has contravened any provision of this Act or regulations thereunder (whether or not the licensee has been convicted of an offence in relation to the contravention),
+
+it may take whichever of the following actions in relation to the licence or licensee is in its opinion appropriate in the circumstances of the case:
+
+(I) revocation of the licence,
+
+(II) suspension of the licence for a specified period,
+
+(III) reprimand,
+
+(IV) warning,
+
+(V) caution,
+
+(VI) advice,
+
+and shall notify the complainant and licensee of its decision;
+
+(*c*) if the Authority is satisfied on reasonable grounds that the safety or welfare of any person or persons is or may be at risk from the continuance in force of the licence, it shall revoke the licence or suspend it for a specified period and notify the complainant and licensee of its decision, and in such a case *section 27* does not apply.
+
+(4) For the purposes of investigating a complaint, an inspector may enter the premises of a person providing a security service and inspect the books, documents and records of the person, and *section 15* shall apply, with any necessary modifications, in relation to such entry and inspection.
+
+## PART 5Appeals against Decisions of Authority — PART 5 — Appeals against Decisions of Authority
+
+### 40. Private Security Appeal Board.
+
+**40.**—(1) There stands established a body to be known as the Private Security Appeal Board (in this Act referred to as “the Appeal Board”), or in the Irish language An Bord Achomhairc um Shlándáil Phríobháideach, to hear and determine appeals against decisions of the Authority.
+
+(2) The Appeal Board shall be independent in the performance of its functions.
+
+(3) The provisions of *Schedule 2* shall have effect in relation to the Appeal Board.
+
+### 41. Appeal to High Court on question of law.
+
+**41.**—(1) Within 3 months after the date on which an appeal is determined by the Appeal Board any party to the appeal may appeal to the High Court on any question of law arising from the determination.
+
+(2) The Court may affirm the determination or set it aside and make any other determination the Appeal Board could have made or remit the case to the Appeal Board for further consideration.
+
+(3) An appeal may not be brought from a decision of the Court under this section except by its leave.
+
+## PART 6Security Services provided by Certain Persons from EU Member States — PART 6 — Security Services provided by Certain Persons from EU Member States
+
+### 42. Interpretation.
+
+**42.**—In this Part—
+
+“corresponding authority” means an authority in a member state of the European Communities which—
+
+(*a*) has functions that substantially correspond to those of the Authority, and
+
+(*b*) is designated by the Authority as such an authority;
+
+“relevant person” means a person who or which—
+
+(*a*) holds from a corresponding authority a licence or other form of authorisation that is in force and that authorises the person to provide a security service that corresponds to a security service provided by one of the persons mentioned in the definition of “security service” in *section 2(1)*,
+
+(*b*) proposes to provide or is providing that security service in the State, and
+
+(*c*) is not prohibited by the Authority from providing such a security service.
+
+### 43. Application of Act to relevant persons.
+
+**43.**—For the purposes of controlling and supervising relevant persons in the interests of the protection of the public and investigating and adjudicating on any complaints against them this Act shall have effect in relation to such persons with the modifications specified in *Schedule 3* and with any other necessary modifications.
+
+### 44. Prior notification by relevant person of conviction or criminal proceedings.
+
+**44.**—(1) A relevant person who has been convicted of an offence (other than a prescribed offence), or against whom proceedings for such an offence are pending, under the law of the State or another state shall, before providing a security service in the State, notify the Authority in the prescribed manner of the conviction or proceedings and supply the Authority with prescribed particulars thereof.
+
+(2) Subject to *section 27*, on receiving the notification or becoming otherwise aware of the conviction or proceedings the Authority may, if in its opinion the relevant person is not a fit and proper person to provide a security service in the State, prohibit the person from providing such a security service or so prohibit the person for a specified period.
+
+(3) A relevant person who contravenes *subsection (1)* or who provides a security service in contravention of a prohibition under *subsection (2)* is guilty of an offence and liable on summary conviction to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both.
+
+(4) A person shall not be convicted of an offence under this section if the court is satisfied that, in the case of a person who has been convicted of an offence, or against whom proceedings for an offence are pending, in a place other than the State, the offence does not correspond with any offence under the law of the State.
+
+(5) This section is without prejudice to *section 36*, as modified by *paragraph 9* of *Schedule 3*.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E29: A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 45. Prohibition of relevant person from providing security service.
+
+**45.**—Subject to *section 27*, the Authority may at any time, if satisfied on reasonable grounds that a relevant person is not or no longer a fit and proper person to provide a security service in the State, prohibit the person from providing such a security service or so prohibit the person for a specified period.
+
+### 46. Relations with corresponding authorities.
+
+**46.**—(1) The Authority shall notify the corresponding authority concerned of—
+
+(*a*) any action taken by the Authority under *section 26, 39, 44* or *45* in relation to a relevant person,
+
+(*b*) the taking of any appeal by such a person and the result of any such appeal or any subsequent proceedings, and
+
+(*c*) any offence under this Act committed by a relevant person.
+
+(2) The Authority shall collaborate with and assist corresponding authorities with a view to promoting the effective performance by the Authority and those authorities of their functions in relation to relevant persons.
+
+(3) The Authority shall publish in *Iris Oifigiúil* a list of corresponding authorities designated for the time being by it.
+
+### 47. Effect of revocation or suspension of relevant person's licence or other authorisation.
+
+**47.**—If a licence or other form of authorisation issued by a corresponding authority to a relevant person is revoked or suspended by it—
+
+(*a*) this Part and *Schedule 3* shall cease to have effect in relation to that person, and
+
+(*b*) the relevant person shall be treated as a person who is not the holder of a licence,
+
+with effect from the date of revocation or during the period of suspension.
+
+## PART 7Miscellaneous — PART 7 — Miscellaneous
+
+### 48. Offences.
+
+**48.**—(1) Any person who—
+
+(*a*) makes any false or misleading statement in any application or notice of appeal under this Act or in any document required thereunder or otherwise gives false or misleading information to the Authority or Appeal Board,
+
+(*b*) being a licensee who has been notified of the suspension or revocation of the licence, produces the licence or identity card to any other person with a view to providing a security service for that F31[person,]
+
+(*c*) being a licensee, fails or refuses to keep any prescribed records or to furnish to the Authority any prescribed information or F32[returns, or]
+
+F33[(*d*) falsely represents himself or herself to be an inspector,]
+
+is guilty of an offence and liable on summary conviction to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both.
+
+(2) Where—
+
+(*a*) an offence under this Act is committed by a body corporate, and
+
+(*b*) the offence is proved to have been committed with the consent, connivance or approval of, or to have been attributable to any neglect on the part of, a person who was either—
+
+(i) a director, manager, secretary or other similar officer of the body corporate, or
+
+(ii) a person purporting to act in any such capacity,
+
+that person is also guilty of an offence and liable to be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
+
+(3) Where the affairs of a body corporate are managed by its members, *subsection (2)* shall apply in relation to the acts or defaults of a member in connection with the member's functions of management as if he or she were a director or manager of the body corporate.
+
+(4) *Subsections (2)* and *(3)* shall apply, with the necessary modifications, in relation to offences under this Act committed by an unincorporated body.
+
+(5) The Authority may bring and prosecute summary proceedings for an offence under this Act.
+
+F34[(6) Where a person is convicted of an offence under this Act, prosecuted by the Authority, the court shall, unless it is satisfied that there are special and substantial reasons for not so doing, order the person to pay to the Authority the costs and expenses, measured by the court, incurred by the Authority in relation to the investigation, detection and prosecution of the offence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F31, F32: Substituted (22.07.2021) by *Private Security Services (Amendment) Act 2021* (19/2021), s. 6(a), (b), S.I. No. 379 of 2021.
+>
+> F33: Inserted (22.07.2021) by *Private Security Services (Amendment) Act 2021* (19/2021), s. 6(c), S.I. No. 379 of 2021.
+>
+> F34: Inserted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 14, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E30: A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 49. Receipt of notification or notice.
+
+**49.**—(1) A notification or notice to be given to a person by the Authority or Appeal Board under this Act shall be given to the person in one of the following ways:
+
+(*a*) by delivering it to the person;
+
+(*b*) by leaving it at the address at which the person ordinarily resides or carries on business;
+
+(*c*) by sending it by prepaid registered post in an envelope addressed to the person at that address;
+
+(*d*) where the person has given an address for service of notices, by leaving it at the address for such service or sending it by prepaid registered post in an envelope addressed to the person at that address;
+
+(*e*) where—
+
+(i) the Authority or Appeal Board considers that notice should be given immediately, and
+
+(ii) a fax machine is located at an address mentioned in *paragraph (b)* or *(d)*,
+
+by sending it by fax to that machine.
+
+(2) (*a*) When a notification or notice is sent by prepaid registered post, it is deemed to be received by the person on the third working day after the day on which it was so sent.
+
+(*b*) When sent by fax, it is deemed to be received by the person when the sender's fax machine generates a message confirming successful transmission of the notice.
+
+(3) For the purposes of this section a company registered under the Companies Acts 1963 to 2003 is deemed to be ordinarily resident at its registered office and every other body corporate or unincorporated body to be so resident at its principal office or place of business.
+
+### 50. Taking effect of decision of Authority.
+
+**50.**—(1) This section applies to a decision of the Authority—
+
+(*a*) refusing to renew a licence,
+
+(*b*) suspending or revoking a licence, or
+
+(*c*) issuing a reprimand, warning or caution or an advice.
+
+(2) Subject to *subsection (3)*, a decision of the Authority to which this section applies takes effect on the expiration of the period within which an appeal against it may be brought, unless an appeal is duly brought, in which case the decision stands suspended pending the outcome of the appeal proceedings (including proceedings under *section 41*).
+
+(3) A decision of the Authority to revoke or suspend a licence, if taken because in its opinion the safety or welfare of any person or persons is or may be at risk from the continuance in force of the licence, takes effect when notification of the decision, stating the grounds on which it was taken, is received or deemed to be received by the licensee.
+
+### 51. Regulations.
+
+**51.**—(1) The Minister may by regulations make such incidental or consequential provision as he or she considers necessary or expedient for the purposes of giving this Act full effect.
+
+(2) The Authority, with the consent of the Minister, may by regulations provide for any matter referred to in this Act as prescribed and for—
+
+(*a*) the categories of licences which may be issued by the Authority,
+
+(*b*) the procedures governing—
+
+(i) the grant and renewal of licences (including time limits in respect thereof),
+
+(ii) the surrender of licences and identity cards, and
+
+(iii) the processing of complaints under *section 39*,
+
+(*c*) the form of licences and identity cards,
+
+(*d*) the standards to be observed in the provision of security services by licensees or particular categories of licensees,
+
+(*e*) the qualifications for licences,
+
+(*f*) the records to be kept and the information and returns to be furnished by licensees, and
+
+F35[(*g*) the fees to be charged by the Authority in respect of applications for licences and other services provided by the Authority.]
+
+F36[(2A) In making regulations pursuant to *subsection (2)(g)* the Authority may—
+
+(*a*) prescribe different fees in respect of different circumstances or classes of circumstances, or in relation to different classes of licences and in relation to different classes of cases,
+
+(*b*) provide for the waiving, remitting or refunding of fees (in whole or in part) in different circumstances or classes of circumstances or in relation to different classes of licences and in relation to different classes of cases,
+
+(*c*) provide for exemption from payment of fees in circumstances specified in the regulations.
+
+(2B) In making regulations pursuant to *subsection (2)(g)* the Authority may have regard to—
+
+(*a*) the expenses incurred by the Authority, or
+
+(*b*) the expenses which it is anticipated will be incurred by the Authority,
+
+in performing its functions under this Act, so that so much of those expenses as the Authority considers appropriate are recovered from fees to be charged pursuant to such regulations.]
+
+(3) The Authority shall submit a draft of any proposed regulations to the Minister for his or her consideration.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F35: Substituted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 15(a), commenced on enactment.
+>
+> F36: Inserted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 15(b), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E31: Power pursuant to section exercised (31.10.2025) by *Private Security (Licensing and Standards) (Amendment) Regulations 2025* (S.I. No. 489 of 2025), in effect as per reg. 2.
+>
+> E32: Power pursuant to section exercised (30.05.2025) by *Private Security (Licensing, Standards and Fees) (Supplier or Installer of Safes) Regulations 2025* (S.I. No. 134 of 2025), in effect as per reg. 2.
+>
+> E33: Power pursuant to section exercised (8.05.2024) by *Private Security (Licence Fee) (Amendment) Regulations 2024* (S.I. No. 206 of 2024), in effect as per reg. 2.
+>
+> E34: Power pursuant to section exercised (8.05.2024) by *Private Security (Licensing and Qualifications) (Amendment) Regulations 2024* (S.I. No. 204 of 2024), in effect as per reg. 2.
+>
+> E35: Power pursuant to section exercised (30.03.2023) by *Private Security (Licensing and Standards) Regulations 2023* (S.I. No. 140 of 2023), in effect as per reg. 2.
+>
+> E36: Power pursuant to section exercised (1.11.2022) by *Private Security (Licensing and Qualifications) Regulations 2022* (S.I. No. 574 of 2022), in effect as per reg. 2.
+>
+> E37: Power pursuant to section exercised (1.11.2022) by *Private Security (Security Guard Temporary Licence) Regulations 2022* (S.I. No. 573 of 2022), in effect as per reg. 2.
+>
+> E38: Power pursuant to section exercised (1.09.2018) by *Private Security (Licensing and Standards) (Cash In Transit) (Amendment) Regulations 2018* (S.I. No. 322 of 2018), in effect as per reg. 2.
+>
+> E39: Power pursuant to section exercised (1.06.2018) by *Private Security (Licensing and Training) (Security Guard (Monitoring Centre)) Regulations 2018* (S.I. No. 54 of 2018), in effect as per reg. 2.
+>
+> E40: Power pursuant to section exercised (1.04.2017) by *Private Security (Licensing and Training) (Provider of Protected Forms of Transport) (Cash-in-Transit) Regulations 2016* (S.I. No. 631 of 2016), in effect as per reg. 2.
+>
+> E41: Power pursuant to section exercised (1.12.2015) by *Private Security (Licence Fees) Regulations 2015* (S.I. No. 362 of 2015), in effect as per reg. 2.
+>
+> E42: Power pursuant to section exercised (1.03.2015) by *Private Security (Refund of Fees) Regulations 2015* (S.I. No. 67 of 2015), in effect as per reg. 2.
+>
+> E43: Power pursuant to section exercised (1.12.2014) by *Private Security (Licensing and Standards) (Cash In Transit) (Amendment) Regulations 2014* (S.I. No. 537 of 2014), in effect as per reg. 2.
+>
+> E44: Power pursuant to section exercised (1.01.2013) by *Private Security (Licence Fees) Regulations 2013* (S.I. No. 293 of 2013), in effect as per reg. 2.
+>
+> E45: Power pursuant to section exercised (10.05.2012) by *Private Security (Miscellaneous Provisions) Regulations 2012* (S.I. No. 147 of 2012), in effect as per reg. 2.
+>
+> E46: Power pursuant to section exercised (1.05.2011) by *Private Security (Duplicate Licence and Identity Card Fee) Regulations 2011* (S.I. No. 152 of 2011), in effect as per reg. 2.
+>
+> E47: Power pursuant to section exercised (21.12.2007) by *Private Security (Licensing and Standards) (Cash in Transit) Regulations 2007* (S.I. No. 857 of 2007), in effect as per reg. 2.
+>
+> E48: Power pursuant to section exercised (29.03.2006) by *Private Security (Complaints Procedures) Regulations 2006* (S.I. No. 153 of 2006), in effect as per reg. 2.
+>
+> E49: Previous affecting provision: power pursuant to section exercised (8.06.2022) by *Private Security (Licensing and Standards) (Amendment) Regulations 2022* (S.I. No. 299 of 2022), in effect as per reg. 2; revoked (31.03.2023) by *Private Security (Licensing and Standards) Regulations 2023* (S.I. No. 140 of 2023), reg. 7(f), in effect as per reg. 2.
+>
+> E50: Previous affecting provision: power pursuant to section exercised (1.10.2016) by *Private Security (Licensing and Standards) (Locksmith) Regulations 2016* (S.I. No. 343 of 2016), in effect as per reg. 2; revoked (31.03.2023) by *Private Security (Licensing and Standards) Regulations 2023* (S.I. No. 140 of 2023), reg. 7(e), in effect as per reg. 2.
+>
+> E51: Previous affecting provision: power pursuant to section exercised (1.11.2015) by *Private Security (Licensing and Standards) (Private Investigator) Regulations 2015* (S.I. No. 195 of 2015), in effect as per reg. 2; revoked (31.03.2023) by *Private Security (Licensing and Standards) Regulations 2023* (S.I. No. 140 of 2023), reg. 7(d), in effect as per reg. 2.
+>
+> E52: Previous affecting provision: power pursuant to section exercised (1.11.2014) by *Private Security (Licensing and Standards) (Event Security) Regulations 2014* (S.I. No. 302 of 2014), in effect as per reg. 2; revoked (31.03.2023) by *Private Security (Licensing and Standards) Regulations 2023* (S.I. No. 140 of 2023), reg. 7(c), in effect as per reg. 2.
+>
+> E53: Previous affecting provision: power pursuant to section exercised (1.05.2014) by *Private Security (Licensing and Standards) (Security Guard Monitoring) Regulations 2014* (S.I. No. 190 of 2014), in effect as per reg. 2; revoked (31.03.2023) by *Private Security (Licensing and Standards) Regulations 2023* (S.I. No. 140 of 2023), reg. 7(b), in effect as per reg. 2.
+>
+> E54: Previous affecting provision: power pursuant to section exercised (1.01.2013) by *Private Security (Licensing and Training) (Provider of Protected Forms of Transport) (Cash-in-Transit) Regulations 2012* (S.I. No. 484 of 2012), in effect as per reg. 2; revoked (1.04.2017) by *Private Security (Licensing and Training) (Provider of Protected Forms of Transport) (Cash-in-Transit) Regulations 2016* (S.I. No. 631 of 2016), reg. 6, in effect as per reg. 2.
+>
+> E55: Previous affecting provision: power pursuant to section exercised (10.05.2012) by *Private Security (Licensing and Standards) Regulations 2012* (S.I. No. 144 of 2012), in effect as per reg. 2; revoked (31.03.2023) by *Private Security (Licensing and Standards) Regulations 2023* (S.I. No. 140 of 2023), reg. 7(a), in effect as per reg. 2.
+>
+> E56: Previous affecting provision: power pursuant to section exercised (15.10.2009) by *Private Security (Licensing and Standards) (Amendment) Regulations 2009* (S.I. No. 419 of 2009), in effect as per reg. 2; revoked (10.05.2012) by *Private Security (Licensing and Standards) Regulations 2012* (S.I. No. 144 of 2012), reg. 7(c), in effect as per reg. 2.
+>
+> E57: Power pursuant to section exercised (25.01.2008) by *Private Security (Licensing Applications) Regulations 2008* (S.I. No. 19 of 2008), in effect as per reg. 2; revoked (10.05.2012) by *Private Security (Miscellaneous Provisions) Regulations 2012* (S.I. No. 147 of 2012), reg. 12(c), in effect as per reg. 2.
+>
+> E58: Previous affecting provision: power pursuant to section exercised (21.12.2007) by *Private Security (Licence Fees) (Amendment) Regulations 2007* (S.I. No. 858 of 2007), in effect as per reg. 2; rendered obsolete by revocation of S.I. No. 835 of 2005, which this SI amended, (1.01.2013) by *Private Security (Licence Fees) Regulations 2013* (S.I. No. 293 of 2013, reg. 7, in effect as per reg. 2.
+>
+> E59: Power pursuant to section exercised (21.12.2007) by *Private Security (Licensing Applications) Regulations 2007* (S.I. No. 856 of 2007) in effect as per reg. 2; revoked (25.01.2008) by *Private Security (Licensing Applications) Regulations 2008* (S.I. No. 19 of 2008), reg. 3, in effect as per reg. 2.
+>
+> E60: Previous affecting provision: power pursuant to section exercised (22.12.2006) by *Private Security (License Fees) (Amendment) Regulations 2006* (S.I. No. 704 of 2006); in effect as per reg. 2; rendered obsolete by revocation of S.I. No. 470 of 2006, which this SI amended, (1.12.2015) by *Private Security (Licence Fees) Regulations 2015* (S.I. No. 362 of 2015), reg. 7, in effect as per reg. 2.
+>
+> E61: Previous affecting provision: power pursuant to section exercised (1.09.2006) by *Private Security (Licence Fees) Regulations 2006* (S.I. No. 470 of 2006), in effect as per reg. 2; revoked (1.12.2015) by *Private Security (Licence Fees) Regulations 2015* (S.I. No. 362 of 2015), reg. 7, in effect as per reg. 2.
+>
+> E62: Previous affecting provision: power pursuant to section exercised (1.09.2006) by *Private Security (Licensing Applications) Regulations 2006* (S.I. No. 469 of 2006), in effect as per reg. 2; revoked (10.05.2012) by *Private Security (Miscellaneous Provisions) Regulations 2012* (S.I. Bo. 147 of 2012), reg. 12(b), in effect as per reg. 2.
+>
+> E63: Previous affecting provision: power pursuant to section exercised (1.09.2006) by *Private Security (Licensing and Qualifications) Regulations 2006* (S.I. No. 468 of 2006), in effect as per reg. 2; revoked (1.11.2022) by *Private Security (Licensing and Qualifications) Regulations 2022* (S.I. No. 574 of 2022), reg. 3, in effect as per reg. 2.
+>
+> E64: Previous affecting provision: power pursuant to section exercised (27.07.2006) by *Private Security (Licensing and Standards) Regulations 2005* (S.I. No. 835 of 2005), in effect as per reg. 2; revoked (10.05.2012) by *Private Security (Licensing and Standards) Regulations 2012* (S.I. No. 144 of 2012), reg. 7(b), in effect as per reg. 2.
+>
+> E65: Previous affecting provision: power pursuant to section exercised (29.03.2006) by *Private Security (Forms, Surrender of Licence and Offence Notification) Regulations 200*6 (S.I. No. 152 of 2006), in effect as per reg. 2; revoked (10.05.2012) by *Private Security (Miscellaneous Provisions) Regulations 2012* (S.I. No. 147 of 2012), reg. 12(a), in effect as per reg. 2.
+>
+> E66: Previous affecting provision: power pursuant to section exercised (19.12.2005) by *Private Security (Licensing Applications) Regulations 2005* (S.I. No. 836 of 2005), in effect as per reg. 2; revoked (21.12.2007) by *Private Security (Licensing Applications) Regulations 2007* (S.I. No. 856 of 2007) reg. 3, in effect as per reg. 2.
+>
+> E67: Previous affecting provision: power pursuant to section exercised (19.12.2005) by *Private Security (Licence Fees) Regulations 2005* (S.I. No. 835 of 2005), in effect as per reg. 2; revoked (1.01.2013) by *Private Security (Licence Fees) Regulations 2013* (S.I. No. 293 of 2013), reg. 7, in effect as per reg. 2.
+>
+> E68: Previous affecting provision: power pursuant to section exercised (19.12.2005) by *Private Security (Licensing and Standards) Regulations 2005* (S.I. No. 834 of 2005), in effect as per reg. 2; revoked (10.05.2012) by *Private Security (Licensing and Standards) Regulations 2012* (S.I. No. 144 of 2012), reg. 7(a), in effect as per reg. 2.
+
+### 52. Transitional provision.
+
+**52.**—(1) In this section, “critical date” means, in relation to a person who is providing a security service, the date on which the person is required by this Act to hold a licence.
+
+(2) This Act does not apply in relation to a person—
+
+(*a*) who, immediately before the critical date, was providing a security service,
+
+(*b*) who intends to continue to provide the service after that date,
+
+(*c*) who has applied by that date to the Authority for a licence, and
+
+(*d*) whose application has not been determined.
+
+(3) For the purposes of *subsection (2)* an application for a licence is to be taken as not to have been determined—
+
+(*a*) if the applicant has not been notified that the Authority has decided to refuse to grant the licence, or
+
+(*b*) where the applicant has been so notified, until—
+
+(i) one month has elapsed after the notification and the decision has not been appealed, or
+
+(ii) any appeal against the decision has been finally determined.
+
+(4) (*a*) Where the Authority has refused the application, it may, if in its opinion the safety or welfare of any person or persons is or may be at risk from the continued provision of the security service by the applicant, declare that this section shall no longer apply in relation to the applicant and give notice to the applicant of its decision to make the declaration, stating the grounds on which the decision was made.
+
+(*b*) This section shall cease to apply in relation to the applicant when the applicant receives or is deemed to receive the notice.
+
+## SCHEDULE 1 — Private Security Authority
+
+**Advisory committees, consultants and advisers**
+
+1.—(1) (*a*) The Authority, subject to the approval of the Minister, may from time to time appoint such and so many advisory committees and such and so many consultants or advisers as it may consider necessary to assist it in the performance of its functions.
+
+(*b*) The approval of the Minister is subject to the consent of the Minister for Finance in respect of fees or expenses to which *subparagraph (3)* relates.
+
+(2) The appointment of a person to an advisory committee or as a consultant or adviser shall be for such period and subject to such terms and conditions as the Authority may consider appropriate.
+
+(3) Any fees or expenses which have been agreed by the Minister, with the prior consent of the Minister for Finance, and are due to a member of an advisory committee or to a consultant or an adviser shall be paid out of moneys at the disposal of the Authority.
+
+(4) An advisory committee shall include persons who have special knowledge and experience related to the purposes of the committee concerned.
+
+(5) The Authority may at any time dissolve an advisory committee.
+
+(6) The Authority shall ensure the maintenance of an appropriate balance as between men and women in an advisory committee's membership.
+
+**Meetings of Authority**
+
+2.—(1) The Authority shall hold such and so many meetings as may be necessary for the performance of its functions but shall hold at least one meeting in each quarter of the year.
+
+(2) The Minister may fix the date, time and place of the first meeting of the Authority.
+
+(3) At a meeting of the Authority—
+
+(*a*) the quorum shall be 4 or such other number (not being less than 4) as the Authority may from time to time determine,
+
+(*b*) the chairperson shall, if present, be chairperson of the meeting,
+
+(*c*) if and so long as the chairperson is not present or the office of chairperson is vacant, the members present shall appoint one of their number to be chairperson of the meeting,
+
+(*d*) each member present shall have one vote,
+
+(*e*) every question shall be determined by a majority of the votes of the members present and voting on the question, and
+
+(*f*) if there is an equal division of votes, the chairperson of the meeting shall have a second or casting vote.
+
+(4) Subject to this Act or regulations thereunder, the Authority may regulate its own procedure.
+
+**Vacancies in membership**
+
+3.—(1) Subject to *paragraph 2(3)(a)*, the Authority and any committee (including an advisory committee) appointed by it may act notwithstanding a vacancy or vacancies in its membership.
+
+(2) Where a vacancy occurs, the Minister or the Authority, as the case may be, shall take steps to fill it as soon as practicable.
+
+**Accounts and audits**
+
+4.—(1) The Chief Executive, with the agreement of the Authority, shall—
+
+(*a*) submit estimates of income and expenditure to the Minister in such form, in respect of such periods and at such times as may be specified by the Minister, and
+
+(*b*) supply to the Minister any information which the Minister may require regarding those estimates and also regarding the proposals and plans of the Authority in respect of a period specified by the Minister.
+
+(2) The Chief Executive, under the direction of the Authority, shall keep, in such form and in respect of such accounting periods as may be approved of by the Minister with the consent of the Minister for Finance, all proper and usual accounts of moneys received and spent by the Authority, including an income and expenditure account and a balance sheet.
+
+(3) (*a*) The Authority, the Chief Executive and any relevant member of the staff shall, whenever so requested by the Minister, permit any person appointed by the Minister to examine the accounts of the Authority in respect of any financial year or other period and shall facilitate any such examination, and the Authority shall pay to the Minister such fee therefor as may be fixed by the Minister.
+
+(*b*) In this subsection, “relevant member of the staff” means a member of the staff of the Authority to whom duties relating to those accounts have been duly assigned.
+
+(4) (*a*) The accounts of the Authority shall be approved by it as soon as practicable (but not later than 3 months after the end of the accounting period to which they relate) and submitted by it to the Comptroller and Auditor General for audit.
+
+(*b*) A copy of the accounts and the report of the Comptroller and Auditor General on them shall be presented to the members of the Authority and the Minister as soon as practicable, and the Minister shall cause a copy of the accounts and report to be laid before each House of the Oireachtas.
+
+**Accountability of Chief Executive to Public Accounts Committee**
+
+5.—(1) The Chief Executive shall, whenever so required by the Committee of Dáil Éireann established under the Standing Orders of Dáil Éireann to examine and report to Dáil Éireann on the appropriation accounts and reports of the Comptroller and Auditor General, give evidence to the Committee on—
+
+(*a*) the regularity and propriety of the transactions recorded or required to be recorded in the accounts kept under *paragraph 4(2)*,
+
+(*b*) the economy and efficiency of the Authority in the use of its resources,
+
+(*c*) the systems, procedures and practices employed by it for the purpose of evaluating the effectiveness of its operations, and
+
+(*d*) any matter affecting it which is referred to in a special report of the Comptroller and Auditor General under section 11(2) of the Comptroller and Auditor General (Amendment) Act 1993 or in any other report by him or her (in so far as it relates to a matter specified in *clause (a), (b)* or *(c)*) that is laid before Dáil Éireann.
+
+(2) In giving evidence to the Committee, the Chief Executive shall not question or express an opinion on the merits of any policy of the Government or a Minister of the Government or on the merits of the objectives of any such policy.
+
+**Accountability to other Oireachtas Committees**
+
+6.—(1) In this paragraph, “Committee” means a committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas (other than the Committee referred to in *paragraph 5* or the Committee on Members' Interests of Seanad Éireann) or a subcommittee of such a committee.
+
+(2) Subject to *subparagraph (3)*, the Chief Executive shall, at the request in writing of a Committee, attend before it to give account for the general administration of the Authority.
+
+(3) The Chief Executive shall not be required to give account before a Committee for any matter which is or has been or may at a future time be the subject of proceedings before a court or tribunal in the State.
+
+(4) The Chief Executive, if of the opinion that a matter in respect of which he or she is requested to give an account before a Committee is a matter to which *subparagraph (3)* applies, shall inform the Committee in writing of that opinion and the reasons for it, unless the information is conveyed to the Committee at a time when the Chief Executive is before it.
+
+(5) Where the Chief Executive has informed a Committee of his or her opinion in accordance with *subparagraph (4)* and the Committee does not withdraw its request in so far as it relates to a matter the subject of that opinion—
+
+(*a*) the Chief Executive may, not later than 21 days after being informed by the Committee of its decision not to withdraw the request, apply to the High Court in a summary manner to determine whether the matter is one to which *subparagraph (3)* applies, or
+
+(*b*) the Chairperson of the Committee may, on behalf of the Committee, make such an application,
+
+and the High Court may so determine.
+
+(6) Pending determination of an application under *subparagraph (5)*, the Chief Executive shall not attend before the Committee to give account for the matter the subject of the application.
+
+(7) If the High Court determines that the matter concerned is one to which *subparagraph (3)* applies, the Committee shall withdraw its request in so far as it relates to that matter but, if the High Court determines that that subparagraph does not apply, the Chief Executive shall attend before the Committee to give account for it.
+
+**Seal of Authority**
+
+7.—(1) The Authority shall, as soon as may be after its establishment, provide itself with a seal.
+
+(2) The seal of the Authority, when applied to a document, may be authenticated by the signatures—
+
+(*a*) of the chairperson or of another member authorised by it to act in that behalf, and
+
+(*b*) of the Chief Executive or of a member of the staff of the Authority so authorised.
+
+(3) Any contract or instrument which, if entered into or executed by an individual, would not require to be under seal may be entered into or executed on behalf of the Authority by any person generally or specially authorised by the Authority for that purpose.
+
+(4) Judicial notice shall be taken of the seal of the Authority.
+
+(5) In any proceedings, a document purporting to be made or issued by the Authority and to be sealed with its seal, duly authenticated in accordance with *subparagraph (2)*, shall be received in evidence and shall, unless the contrary is shown, be deemed to be such a document and to be evidence of the matters stated in it.
+
+**Prohibition of improper influence**
+
+8.—(1) A person who communicates with a member of the Authority or the Chief Executive or a member of the staff of the Authority for the purpose of influencing improperly any decision to be taken by the Authority in the performance of its functions is guilty of an offence and liable on summary conviction to a fine not exceeding €2,000.
+
+(2) If the person communicated with is of opinion that the communication is in contravention of *subparagraph (1)*, he or she shall not entertain it further and shall immediately inform the Authority in writing of its substance, and the Authority shall acknowledge in writing the receipt of such information.
+
+**Fees payable to Authority**
+
+9.—(1) Any application in respect of which a fee is payable shall not be dealt with by the Authority unless the fee has been received by it.
+
+(2) Such fees shall be paid into, or disposed of for the benefit of the Exchequer in accordance with the directions of the Minister for Finance, and the Public Offices Fees Act 1879 shall not apply in respect of them.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C5: Functions in relation to section transferred (20.09.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) (No. 2) Order 2011* (S.I. No. 480 of 2011), arts. 2, 3(a), 4 and sch., in effect as per art. 1(2), subject to transitional provisions in arts. 5-9.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or any instrument made thereunder and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under—
+>
+> (*a*) the provisions of the enactments specified in the Schedule, and ...
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> 4\. References to the Minister for Finance contained in any Act or instrument made under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule
+>
+> Enactments
+>
+> ...
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 12 of 2004</td><td>Private Security Services Act 2004</td><td>Section 19 and Schedule 1, paragraph 4(2)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> C6: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 12 of 2004</td><td>Private Security Services Act 2004</td><td>Sections 7(8) and 8(3); Schedule 1, paragraphs 1 and 9; Schedule 2, paragraphs 1 and 5</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E69: A fine of €2,000 translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+## SCHEDULE 2Private Security Appeal Board — SCHEDULE 2 — Private Security Appeal Board
+
+### PART 1 — General
+
+**Membership**
+
+1.—The Appeal Board shall consist of a chairperson and such and so many other members as the Minister, with the consent of the Minister for Finance, considers necessary from time to time for the expeditious discharge of its functions.
+
+**Appointment**
+
+2.—The chairperson and other members of the Appeal Board shall be appointed by the Government and, subject to this Schedule, shall hold office on such terms and conditions as the Government may determine.
+
+**Chairperson**
+
+3.—(1) (*a*) The chairperson shall be a practising barrister, or a practising solicitor, of not less than 7 years' standing.
+
+(*b*) A chairperson who ceases to be such a barrister or solicitor during his or her term of office as chairperson shall thereupon cease to be chairperson and a member of the Appeal Board.
+
+(2) It shall be the function of the chairperson to ensure the effective performance by the Appeal Board of its functions.
+
+(3) The chairperson, if of opinion that the conduct of a member has been such as to bring the Appeal Board into disrepute or has been otherwise prejudicial to the effective performance of the Appeal Board's functions, may—
+
+(*a*) require the member to attend for interview and, on the member so attending, inform the member privately of that opinion, or
+
+(*b*) otherwise investigate the matter,
+
+and report to the Minister the outcome of the interview or investigation if the chairperson considers it appropriate to do so.
+
+**Term of office**
+
+4.—(1) Subject to this paragraph—
+
+(*a*) the chairperson shall hold office for a period of 4 years, and
+
+(*b*) any other member of the Board shall hold office for such period, not exceeding 4 years, as shall be specified by the Government when appointing the member,
+
+and may in each case be reappointed by the Government for a second or subsequent term of office.
+
+(2) A member may resign from the Appeal Board by letter addressed to the Secretary General to the Government, and the resignation shall take effect on the date of receipt of the letter.
+
+(3) A member shall, unless he or she sooner dies, resigns or otherwise ceases to be a member, hold office as such member until the expiration of his or her term of office.
+
+(4) A member shall vacate office on attaining the age of 70 years.
+
+(5) Where a member—
+
+(*a*) accepts nomination as a member of Seanad Éireann,
+
+(*b*) is nominated as a candidate for election as a member of either House of the Oireachtas or to be a representative in the European Parliament, or
+
+(*c*) is regarded, under Part XIII of the Second Schedule to the European Parliament Elections Act 1997, as having been elected to that Parliament,
+
+he or she shall thereupon cease to be a member of the Appeal Board.
+
+(6) The Government may for stated reasons at any time remove a member from office for misbehaviour or where it considers that—
+
+(*a*) the member has become incapable through ill health of effectively performing his or her functions as a member, or
+
+(*b*) the member's removal is necessary for the effective performance by the Appeal Board of its functions.
+
+(7) A member shall cease to be a member on—
+
+(*a*) being adjudicated bankrupt,
+
+(*b*) making a composition or arrangement with creditors,
+
+(*c*) being sentenced to imprisonment on conviction on indictment, or
+
+(*d*) ceasing to be ordinarily resident in the State.
+
+**Remuneration, etc. of members**
+
+5.—Members of the Appeal Board shall be paid such remuneration (if any) and allowances for expenses as the Minister, with the consent of the Minister for Finance, may determine.
+
+**Procedure of Board**
+
+6.—(1) The Appeal Board shall hold such and so many meetings as may be necessary for the effective performance of its functions.
+
+(2) At a meeting of the Appeal Board—
+
+(*a*) the quorum shall be 3,
+
+(*b*) the chairperson shall, if present, be chairperson of the meeting,
+
+(*c*) if and so long as the chairperson is not present or the office of chairperson is vacant, the members present shall appoint one of their number to be chairperson of the meeting,
+
+(*d*) each member present shall have one vote,
+
+(*e*) every question shall be determined by a majority of the votes of the members present and voting on the question, and
+
+(*f*) if there is an equal division of votes, the chairperson of the meeting shall have a second or casting vote.
+
+(3) Subject to this Act and regulations thereunder, the Appeal Board may regulate its own procedure.
+
+(4) Subject to *subparagraphs (5)* and *(6)*, the Appeal Board may perform any of its functions through or by the chairperson or any other member or other person who has been duly authorised by the Appeal Board in that behalf.
+
+(5) A member of the Appeal Board may finally determine a particular case only if it has been considered at a meeting of the Board before the relevant authorisation is given.
+
+(6) The Appeal Board may not authorise a person who is not a member to determine finally a particular case.
+
+(7) A decision of the Appeal Board on an appeal may be by a majority of its members.
+
+**Vacancies in membership**
+
+7.—(1) Subject to *paragraph 6(2)(a)*, the Appeal Board may act notwithstanding a vacancy or vacancies in its membership.
+
+(2) Where a vacancy occurs, the Minister shall take steps to fill the vacancy as soon as practicable.
+
+**Secretary of Board**
+
+8.—An officer of the Minister who is an established civil servant for the purposes of the Civil Service Regulation Acts 1956 to 1996 and who is seconded to the Appeal Board on a whole-time or part-time basis shall act as its secretary.
+
+**Non-disclosure of information**
+
+9.—(1) Save as otherwise provided by law, a person shall not, without the consent of the Appeal Board, disclose information obtained by the person in his or her capacity as a member or the secretary of the Appeal Board.
+
+(2) A person who contravenes *subparagraph (1)* is guilty of an offence and liable on summary conviction to a fine not exceeding €2,000.
+
+**Prohibition of improper influence**
+
+10.—(1) A person who communicates with a member or the secretary of the Appeal Board for the purpose of influencing improperly either consideration by it of an appeal or any decision of the Appeal Board in relation to an appeal is guilty of an offence and liable on summary conviction to a fine not exceeding €2,000.
+
+(2) If the member or secretary is of opinion that any communication is in contravention of *subparagraph (1)*, he or she shall not entertain it further and shall immediately inform the Appeal Board in writing of its substance, and the Appeal Board shall acknowledge in writing the receipt of such information.
+
+**Reports to Minister**
+
+11.—*Section 16* shall apply, with the necessary modifications, in relation to the Appeal Board as it applies to the Authority.
+
+**Disclosure of Interests**
+
+12.—*Section 17* shall apply, with the necessary modifications, in relation to a member and the secretary of the Appeal Board as it applies in relation to a member of the Authority.
+
+### PART 2 — Appeals
+
+**General**
+
+13.—The Appeal Board shall, as far as practicable, ensure that appeals are dealt with and determined expeditiously.
+
+**Notice of appeal**
+
+14.—(1) F37[An applicant for a licence or the holder of a licence aggrieved by a decision of the Authority—]
+
+(*a*) refusing to grant a licence or renewal of a licence,
+
+(*b*) suspending or revoking a licence,
+
+(*c*) issuing a reprimand, warning or caution or an advice,
+
+(*d*) refusing a variation in the kind or kinds of security services F37[to which a licence relates,]
+
+(*e*) F38[...]
+
+may, within one month after the date of receipt of notification of the decision, appeal to the Appeal Board against it by serving on the Appeal Board a notice of appeal which complies with *paragraph 15(1)*.
+
+(2) The notice of appeal may be served—
+
+(*a*) by sending it by registered post to the Appeal Board,
+
+(*b*) by leaving it during normal office hours at the office of the Appeal Board with a person who is apparently its employee, or
+
+(*c*) by such other means as may be prescribed.
+
+(3) The Appeal Board shall not consider an appeal if the relevant notice of appeal is received by it later than the expiration of the period of one month referred to in *subparagraph (1)* or if or so long as the notice does not comply with the requirements of *paragraph 15(1)*.
+
+F39[(4) An appeal shall be grounded on the record of the decision to which the appeal relates, on the grounds of appeal contained in the notice of appeal and on any observations of the Authority given at the request of the Appeal Board on any other matter arising on the decision.]
+
+(5) The appeal, if not withdrawn, shall be determined by the Board—
+
+(*a*) by affirming the decision of the Authority to which the appeal relates, or
+
+F40[(*b*) by remitting the matter back to the Authority with a recommendation that—
+
+(i) the licence be granted, renewed or restored, as the case may be,
+
+(ii) that the reprimand, warning, caution or an advice be withdrawn, or
+
+(iii) that the variation sought be granted,
+
+and the Authority shall give effect to any such recommendation.]
+
+(6) The Authority shall be a party to an appeal.
+
+(7) The Appeal Board shall serve notice of its determination on each party to the appeal.
+
+**Notice of appeal requirements**
+
+15.—(1) The notice of appeal shall be in writing and state—
+
+(*a*) the name and address of the appellant,
+
+(*b*) the subject matter of the appeal,
+
+(*c*) the appellant's interest in its outcome,
+
+(*d*) the grounds of the appeal F40[and the reasons on which they are based,]
+
+and shall be accompanied by such fee, if any, as may be specified by the Appeal Board and by such documents relating to the appeal as the appellant considers necessary or appropriate.
+
+(2) The requirement under *subparagraph (1)(d)* shall apply whether or not the appellant requests, or proposes to request in accordance with *paragraph 21(2)*, an oral hearing of the appeal.
+
+(3) Unless requested to do so by the Appeal Board, an appellant shall not be entitled to elaborate in writing on, or make further submissions in writing in relation to, the grounds of appeal stated in the notice of appeal or to submit further grounds of appeal, and any such elaboration, submissions or further grounds received by the Appeal Board shall not be considered by it.
+
+F40[(4) The Appeal Board shall not consider any documents submitted by an appellant in relation to an appeal other than those which accompanied the notice of appeal or which were furnished by the appellant in response to a request by the Appeal Board.]
+
+**Documents to be supplied to Appeal Board by Authority**
+
+16.—(1) The Appeal Board shall, as soon as practicable after receiving a notice of appeal, send a copy of the notice to the Authority by post.
+
+(2) The Authority shall, within 14 days after receiving the copy of the notice, submit to the Appeal Board a copy of—
+
+(*a*) the application for the licence, or renewal of the licence, concerned and any other information received or obtained from the applicant in that regard,
+
+(*b*)F40[any report prepared for or received by the Authority] or other relevant documents or information in its possession in relation to its dealing with the matter which is the subject of the appeal,
+
+(*c*) the record of the decision of the Authority which is the subject of the appeal, and
+
+(*d*) the notification of the decision to the applicant.
+
+**Submissions by Authority on appeal**
+
+17.—(1) The Authority may make submissions or observations in writing to the Appeal Board in relation to the appeal within one month after receiving the copy of the notice of appeal from the Appeal Board, and any such submissions or observations received by the Appeal Board after the expiration of that period shall not be considered by it.
+
+(2) Where no submissions or observations have been received within the period referred to in *subparagraph (1)*, the Appeal Board may, without further notice to the Authority, determine the appeal.
+
+(3) Unless requested to do so by the Appeal Board, the Authority shall not be entitled to elaborate in writing on any submissions or observations made in accordance with *subparagraph (1)* or make any further submissions or observations in writing in relation to the appeal, and any such elaboration or further submissions or observations shall not be considered by the Appeal Board.
+
+**Appeals against decisions on complaints under section 39**
+
+18.—F41[...]
+
+**Submissions by person not party to appeal**
+
+19.—F42[(1) A person who is not a party to an appeal may make a submission or observations in writing to the Appeal Board in relation to the appeal where invited by the Appeal Board to do so.]
+
+F42[(2) Such submission or observations may be made within one month of the issue of the invitation to do so by the Appeal Board and any such submission or observations received by the Appeal Board after the expiration of that period shall not be considered by it.]
+
+(3) Unless requested to do so by the Appeal Board, the person making such submissions or observations shall not be entitled to elaborate in writing on them or to make further submissions or observations in writing in relation to the appeal, and any such elaboration or further submissions or observations shall not be considered by the Appeal Board.
+
+**Further information required by Appeal Board**
+
+20.—F43[...]
+
+**Hearing of appeal**
+
+21.—F44[(1) Sittings of the Appeal Board shall normally be heard in private and shall be conducted with the minimum formality consistent with the carrying out by the Appeal Board of its functions.]
+
+(2) Subject to *subparagraphs (3)* and *(4)*, the Appeal Board, F45[...] at the request of a party, may in its absolute discretion conduct an oral hearing of an appeal.
+
+F46[(3) The Appeal Board in conducting an oral hearing may by notice in writing require any person to attend at such time and place as is specified in the notice to give evidence in relation to any matter in issue at the hearing or to produce any relevant documents in his or her possession or under his or her control.]
+
+(4) A person referred to in F46[*subparagraph (3)*] shall be entitled to the same immunities and privileges as if he or she were a witness before a court.
+
+(5) An oral hearing may be conducted on behalf of the Appeal Board by one or more than one of its members.
+
+(6) A request by a party for an oral hearing—
+
+(*a*) shall be made in writing to the Appeal Board,
+
+(*b*) subject to *clause (c)*, shall be made within the period of one month referred to in *paragraph 14(1)*,
+
+F46[(*c*) where the request is by the Authority, shall be made within the period of one month referred to in *paragraph 17(1)*.]
+
+(7) The Appeal Board shall not consider a request for an oral hearing made later than the expiry of the relevant period referred to in *subparagraph (6)*.
+
+(8) Where the Appeal Board is requested to conduct an oral hearing and decides to determine the appeal without such a hearing, it shall serve notice of its decision on each party to the appeal and on any person who, in accordance with *paragraph 20*, made submissions or observations to the Board in relation to it.
+
+**Expenses of persons attending before Appeal Board**
+
+22.—The reasonable travelling and subsistence expenses of any person attending before the Appeal Board in accordance with F47[*paragraph 21(3)*] shall be paid out of moneys provided by the Oireachtas.
+
+**Dismissal of frivolous, etc. appeals**
+
+23.—The Appeal Board shall dismiss any appeal which in its opinion is frivolous, vexatious or without substance or foundation.
+
+**Withdrawal of appeal**
+
+24.—An appellant may withdraw an appeal by notice in writing to the Appeal Board at any time before the appeal is determined.
+
+**Delayed or abandoned appeals**
+
+25.—(1) Where the Appeal Board is of opinion—
+
+(*a*) that proceedings on an appeal have been unnecessarily delayed by the conduct of the appellant, or
+
+(*b*) that an application for a licence, or the renewal of a licence, to which the appeal relates has been abandoned,
+
+it may serve on the appellant a notice stating that it is of that opinion and requiring the appellant, within a period specified in the notice (being not less than 14 or more than 28 days after the date of service of the notice) to make a submission in writing to it as to why the appeal should not be treated as having been withdrawn.
+
+(2) At any time after the expiration of the period specified in a notice which has been served under *subparagraph (1)*, the Appeal Board may, after considering any submissions made to it pursuant to that subparagraph—
+
+(*a*) declare that the appeal and, where appropriate, the application is to be treated as having been withdrawn, or
+
+(*b*) determine the appeal.
+
+(3) Where under *subparagraph (2)(a)* the Appeal Board declares that an appeal or application is to be treated as having been withdrawn, then as the case may be—
+
+(*a*) the appeal is deemed to have been withdrawn and accordingly shall not be determined by the Appeal Board, or
+
+(*b*) notwithstanding any previous decision relating to the application, a licence shall not be granted or renewed as a result of it.
+
+**Date of receipt of certain notices, etc.**
+
+26.—Appeals, notices of appeal, submissions, observations, requests, documents or information, which are required by or under this Act to be made or submitted to the Appeal Board within a specified period shall, if its offices are closed on the last day of the period, be regarded as having been received before the expiration of the period if received by it on the next following day on which its offices are open.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F37: Substituted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 16(a)(i), (ii), commenced on enactment.
+>
+> F38: Deleted (2.08.2011) by C*ivil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 16(a)(iii), commenced on enactment.
+>
+> F39: Substituted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 16(b), commenced on enactment.
+>
+> F40: Substituted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 16(c)-(f), commenced on enactment.
+>
+> F41: Deleted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 16(g), commenced on enactment.
+>
+> F42: Substituted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 16(h), commenced on enactment.
+>
+> F43: Deleted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 16(i), commenced on enactment.
+>
+> F44: Substituted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 16(j)(i), commenced on enactment.
+>
+> F45: Deleted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 16(j)(ii), commenced on enactment.
+>
+> F46: Substituted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 16(j)(iii)-(v), commenced on enactment.
+>
+> F47: Substituted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 16(k), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C7: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 12 of 2004</td><td>Private Security Services Act 2004</td><td>Sections 7(8) and 8(3); Schedule 1, paragraphs 1 and 9; Schedule 2, paragraphs 1 and 5</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E70: A fine of €2,000 translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+## SCHEDULE 3 — Modifications of Act in its Application to Relevant Persons
+
+1.—Except as provided otherwise in this Schedule, *sections 21* to *25, 26* (except *subsections (2)* and *(3)*), *28, 31* to *33* and *52* and *paragraphs 14(1)* (except *subparagraphs (b), (c)* and *(e)*) and *16(2)(a)* of *Schedule 2* shall not have effect in relation to relevant persons.
+
+2.—References in *paragraphs (e), (i), (k)* and *(m)* of *section 8(2)* to licensees are references to relevant persons.
+
+3.—(*a*) In *section 26(2)*—
+
+(i) the reference to a licensee is a reference to a relevant person,
+
+(ii) the reference to the revocation or suspension of a licence is a reference to a prohibition of the relevant person by the Authority from providing a security service in the State or to such a prohibition for a specified period, and
+
+(iii) the reference to the continuance in force of a licence is a reference to the continued provision of such a service.
+
+(*b*) In *section 26(3)*—
+
+(i) the reference to a licensee is a reference to a relevant person, and
+
+(ii) the reference to the revocation or suspension of a licence is a reference to a prohibition of the relevant person by the Authority from providing a security service in the State or to such a prohibition for a specified period.
+
+4.—The references in *section 27(1)* to the revocation or suspension of a licence are references to a prohibition, or a prohibition for a specified period, of a relevant person from providing a security service in the State and the section applies accordingly with the necessary modifications.
+
+5.—*Section 29* is modified as follows:
+
+(*a*) *subsection (1)* is deleted;
+
+(*b*) references in the section to an identity card are to an identity card or other form of identification issued to a relevant person by the corresponding authority concerned;
+
+(*c*) the reference in *subsection (2)(b)* to a licensee includes, where appropriate, a reference to a relevant person.
+
+6.—References in *section 30* to licensees are references to relevant persons, and references to the licence number of a licensee are to the number of the licence or other form of authorisation issued by the corresponding authority concerned.
+
+7.—The reference in *section 34(1)* to a licensee is a reference to a relevant person.
+
+8.—The reference in *section 35* to a licensee is a reference to a relevant person and that to a licence is a reference to the licence or other form of authorisation issued to such a person by the corresponding authority concerned.
+
+9.—References in *section 36* to a licensee are references to a relevant person.
+
+10.—*Section 37(1)* is amended by the insertion of “or is a relevant person authorised by a corresponding authority to provide such a service” after “that particular service”.
+
+11.—The reference in *section 38* to a licence is to a licence or other form of authorisation issued to a relevant person by the corresponding authority concerned.
+
+12.—In *section 39*—
+
+(*a*) references to a licensee are references to a relevant person, and
+
+(*b*) references to the revocation and suspension of a licence are references to the prohibition of the relevant person by the Authority from providing a security service in the State and to such a prohibition for a specified period.
+
+13.—In *section 48*—
+
+(*a*) references to a licensee are references to a relevant person,
+
+(*b*) references to the revocation or suspension of a licence are references to a prohibition, or a prohibition for a specified period, of a relevant person from providing a security service in the State, and
+
+(*c*) the reference to a licence or identity card is a reference to the licence or other form of authorisation, or the identity card or other form of identification, issued to such a person by the corresponding authority concerned.
+
+14.—In *section 50*—
+
+(*a*) references to the revocation or suspension of a licence are references to a prohibition, or a prohibition for a specified period, of a relevant person from providing a security service in the State,
+
+(*b*) the reference to the continuance in force of a licence is a reference to the provision of such a security service, and
+
+(*c*) the reference to a licensee is a reference to a relevant person.
+
+15.—The references in *subsections (2)(d)* and *(2)(f)* of *section 51* to licensees are references to relevant persons.
+
+16.—References in *paragraph 14* of *Schedule 2* to revoking and suspending a licence are references to prohibiting the relevant person from providing a security service in the State and to so prohibiting the relevant person for a specified period.

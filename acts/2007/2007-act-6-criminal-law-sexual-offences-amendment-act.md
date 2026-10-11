@@ -1,0 +1,167 @@
+---
+title: "Criminal Law (Sexual Offences) (Amendment) Act 2007"
+identifier: "eli/2007/act/6"
+type: act
+jurisdiction: ie
+language: en
+number: 6
+year: 2007
+date: 2007-03-07
+last_amended: 2024-08-31
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2007/act/6/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2007/act/6/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Criminal Law (Sexual Offences) (Amendment) Act 2007
+
+AN ACT TO AMEND THE CRIMINAL LAW (SEXUAL OFFENCES) ACT 1993, THE CHILD TRAFFICKING AND PORNOGRAPHY ACT 1998 AND THE CRIMINAL LAW (SEXUAL OFFENCES) ACT 2006; AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH.
+
+[7*th March*, 2007]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## 1. Definitions.
+
+**1**.— In this Act—
+
+“ Act of 1981 ” means Criminal Law (Rape) Act 1981;
+
+“Act of 1990” means the Criminal Law (Rape) (Amendment) Act 1990;
+
+“ Act of 1993 ” means the Criminal Law (Sexual Offences) Act 1993;
+
+“ Act of 2006 ” means the Criminal Law (Sexual Offences) Act 2006.
+
+## 2. Soliciting or importuning for purposes of commission of sexual offence.
+
+**2**.— The Act of 1993 is amended by the substitution of the following section for section 6 (inserted by section 250 of the Children Act 2001):
+
+“6.— (1) A person who solicits or importunes a child (whether or not for the purposes of prostitution) for the purposes of the commission of an act that would constitute an offence—
+
+(*a*) under section 2 or 3 of the Criminal Law (Sexual Offences) Act 2006, or
+
+(*b*) referred to in section 2 of the Act of 1990,
+
+shall be guilty of an offence.
+
+(2) A person who solicits or importunes a person who is mentally impaired (whether or not for the purposes of prostitution) for the purposes of the commission of an act that would constitute an offence—
+
+(*a*) under section 5 of this Act, or
+
+(*b*) referred to in section 2 of the Act of 1990,
+
+shall be guilty of an offence.
+
+(3) A person guilty of an offence under this section shall be liable—
+
+(*a*) on summary conviction to a fine not exceeding €5,000, or imprisonment for a term not exceeding 12 months, or to both, or
+
+(*b*) on conviction on indictment to a fine, or imprisonment for a term not exceeding 5 years, or to both.
+
+(4) In this section—
+
+‘Act of 1990’ means the Criminal Law (Rape) (Amendment) Act 1990;
+
+‘ child ’ means a person under the age of 17 years;
+
+‘ mentally impaired ’ has the same meaning as it has in section 5 of this Act.”.
+
+## 3. Application of certain enactments.
+
+**3**.— (1) Section 4A of the Act of 1981 is amended, in subsection (6), by the insertion after “an offence under the Criminal Law (Sexual Offences) Act 2006” (inserted by section 6(2) of the Act of 2006) of “an offence under section 6 of the Criminal Law (Sexual Offences) Act 1993”.
+
+(2) References in section 3 of the Act of 1981 to jury shall, in the case of summary proceedings for an offence under section 6 (inserted by *section 2*), be construed as references to court.
+
+F1[(3) Sections 3 and 4 of the Act of 1981 shall apply to an offence under section 6 of the Act of 1993 subject to the modification that references in those sections to "sexual assault offence" shall be construed as including references to an offence under section 6 of the Act of 1993.]
+
+F2[(4) Sections 6, 7 and 8 of the Act of 1981 shall apply to an offence under section 6 of the Act of 1993 subject to the modification that references in those sections to "applicable offence" shall be construed as including references to an offence under section 6 of the Act of 1993.]
+
+(4) Section 26 of the Civil Legal Aid Act 1995 is amended, in subsection (3)(*b*), by the substitution of “an offence under section 6 (inserted by *section 2* of the *Criminal Law (Sexual Offences)(Amendment) Act 2007*) of the Criminal Law (Sexual Offences) Act 1993, or of an offence under the Criminal Law (Sexual Offences) Act 2006” for “unlawful carnal knowledge under section 1 or 2 of the Criminal Law Amendment Act, 1935”.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1: Substituted (31.08.2024) by *Criminal Law (Sexual Offences and Human Trafficking) Act 2024* (28/2024), s. 17, S.I. No. 391 opf 2024.
+>
+> F2: Inserted (31.08.2024) by *Criminal Law (Sexual Offences and Human Trafficking) Act 2024* (28/2024), s. 17, S.I. No. 391 opf 2024.
+
+## 4. Amendment of certain enactments.
+
+**4**.— (1) Section 2 of the Criminal Evidence Act 1992 is amended, in the definition of “sexual offence”, by the insertion of the following paragraph:
+
+“(*aa*) section 6 (inserted by *section 2* of the *Criminal Law (Sexual Offences) (Amendment) Act 2007*) of the Criminal Law (Sexual Offences) Act 1993;”.
+
+(2) The Schedule to the Sexual Offences (Jurisdiction) Act 1996 is amended by the insertion of the following paragraph:
+
+“2. Section 6 (inserted by *section 2* of the *Criminal Law (Sexual Offences) (Amendment) Act 2007*) of the Criminal Law (Sexual Offences) Act 1993.”.
+
+(3) The Schedule to the Bail Act 1997 is amended by the insertion of the following paragraph:
+
+“12B. An offence under section 6 (inserted by *section 2* of the *Criminal Law (Sexual Offences) (Amendment) Act 2007*) of the Criminal Law (Sexual Offences) Act 1993.”.
+
+(4) The Schedule to the Sex Offenders Act 2001 is amended by the insertion of the following paragraph:
+
+“21. An offence under section 6 (inserted by *section 2* of the *Criminal Law (Sexual Offences) (Amendment) Act 2007*) of the Criminal Law (Sexual Offences) Act 1993.”.
+
+## 5. Amendment of Act of 2006.
+
+**5**.— (1) Section 3 of the Act of 2006 is amended—
+
+(*a*) in paragraph (*a*) of subsection (2), by the substitution of “5 years” for “2 years”,
+
+(*b*) in paragraph (*b*) of subsection (2), by the substitution of “10 years” for “4 years”,
+
+(*c*) in paragraph (*a*) of subsection (4), by the substitution of “10 years” for “4 years”, and
+
+(*d*) in paragraph (*b*) of subsection (4), by the substitution of “15 years” for “7 years”.
+
+(2) Section 6 of the Act of 2006 is amended by the insertion of the following subsection:
+
+“(1A) References in section 3 of the Act of 1981 to jury shall, in the case of summary proceedings for an offence under this Act, be construed as references to court.”.
+
+## 6. Meeting child for purpose of sexual exploitation.
+
+**6**.— Section 3 of the Child Trafficking and Pornography Act 1998 is amended by—
+
+(*a*) the insertion of the following subsections:
+
+“(2A) Any person who within the State—
+
+(*a*) intentionally meets, or travels with the intention of meeting, a child, having met or communicated with that child on 2 or more previous occasions, and
+
+(*b*) does so for the purpose of doing anything that would constitute sexual exploitation of the child,
+
+shall be guilty of an offence and shall be liable on conviction on indictment to imprisonment for a term not exceeding 14 years.
+
+(2B) Any person, being a citizen of the State or being ordinarily resident in the State, who outside the State—
+
+(*a*) intentionally meets, or travels with the intention of meeting, a child, having met or communicated with that child on 2 or more previous occasions, and
+
+(*b*) does so for the purpose of doing anything that would constitute sexual exploitation of the child,
+
+shall be guilty of an offence and shall be liable on conviction on indictment to imprisonment for a term not exceeding 14 years.”,
+
+and
+
+(*b*) the substitution of the following subsection for subsection (3):
+
+“(3) In this section ‘ sexual exploitation ’ means, in relation to a child—
+
+(*a*) inviting, inducing or coercing the child to engage in prostitution or the production of child pornography,
+
+(*b*) using the child for prostitution or the production of child pornography,
+
+(*c*) inviting, inducing or coercing the child to participate in any sexual activity which is an offence under any enactment,
+
+(*d*) the commission of any such offence against the child, or
+
+(*e*) inviting, inducing or coercing the child to participate in or observe any activity of a sexual or indecent nature.”.
+
+## 7. Short title.
+
+**7**.— This Act may be cited as the Criminal Law (Sexual Offences) (Amendment) Act 2007.

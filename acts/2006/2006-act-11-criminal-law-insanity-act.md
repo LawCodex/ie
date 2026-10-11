@@ -1,0 +1,1057 @@
+---
+title: "Criminal Law (Insanity) Act 2006"
+identifier: "eli/2006/act/11"
+type: act
+jurisdiction: ie
+language: en
+number: 11
+year: 2006
+date: 2006-04-12
+last_amended: 2023-11-01
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2006/act/11/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2006/act/11/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Criminal Law (Insanity) Act 2006
+
+AN ACT TO AMEND THE LAW RELATING TO THE TRIAL AND DETENTION OF PERSONS SUFFERING FROM MENTAL DISORDERS WHO ARE CHARGED WITH OFFENCES OR FOUND NOT GUILTY BY REASON OF INSANITY, TO AMEND THE LAW RELATING TO UNFITNESS TO PLEAD AND THE SPECIAL VERDICT, TO PROVIDE FOR THE COMMITTAL OF SUCH PERSONS TO DESIGNATED CENTRES AND FOR THE INDEPENDENT REVIEW OF THE DETENTION OF SUCH PERSONS AND, FOR THOSE PURPOSES, TO PROVIDE FOR THE ESTABLISHMENT OF A BODY TO BE KNOWN AS AN BORD ATHBHREITHNITHE MEABHAIR-SHLÁINTE (AN DLÍ COIRIÚIL), OR, IN THE ENGLISH LANGUAGE, THE MENTAL HEALTH (CRIMINAL LAW) REVIEW BOARD, TO REPEAL THE TRIAL OF LUNATICS ACT 1883, TO AMEND THE INFANTICIDE ACT 1949, AND TO PROVIDE FOR RELATED MATTERS.
+
+[12*th April*, 2006]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 11 of 2006</td><td>Criminal Law (Insanity) Act 2006</td><td>Sections 12(6)(a) and 24</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> C2: References to “Department of Justice, Equality and Law Reform” and “Minister for Justice, Equality and Law Reform” construed (2.04.2011) by *Justice and Law Reform (Alteration of Name of Department and Title of Minister) Order 2011* (S.I. No. 138 of 2011), in effect as per art. 1(2).
+>
+> 4\. In an enactment or instrument made under an enactment—
+>
+> (*a*) references to the Department of Justice and Law Reform shall be construed as references to the Department of Justice and Equality;
+>
+> (*b*) references to the Minister for Justice and Law Reform shall be construed as references to the Minister for Justice and Equality.
+>
+> C3: Power of Court-Martial Appeal Court to make certain orders as may be necessary for the purpose of doing justice in accordance with Act provided by *Court Martial Appeals Act 1983* (19/1983), s. 19C(4), as inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 11 and sch. 4 part 1, S.I. No. 254 of 2008.
+>
+> **Appeals (supplementary provisions).**
+>
+> **19C**.—...
+>
+> (4) The powers of the Court in an appeal under section 19A or 19B of this Act or subsection (1) of this section shall include the power to make any such order as may be necessary for the purpose of doing justice in accordance with the provisions of this Act and the Criminal Law (Insanity) Act 2006.
+>
+> **Editorial Notes:**
+>
+> E1: Application of *Prisons Act 2007* (10/2007), s. 33, extended to applications to court using videolink in criminal proceedings where the accused or person convicted of the offence concerned is in a designated centre within the meaning of the Act (29.08.2008) by *Prisons Act 2007* (10/2007), s. 34, S.I. No. 337 of 2008.
+>
+> E2: Application of *Social Welfare Consolidation Act 2005* (26/2005), s. 249, confirmed not restricted in respect of any period during which a person is found not guilty by reason of insanity under Act and is detained in any institution for the treatment of mental illness or infectious disease:
+>
+> • (29.03.2007) by *Social Welfare (Consolidated Claims, Payments and Control) Regulations 2007* (S.I. No. 142 of 2007), reg. 218(1)(a), in effect as per reg. 2, subsequently substituted (21.11.2011) by *Social Welfare (Consolidated Claims, Payments and Control) (Amendment) (No. 6) (Civil Partnership) Regulations 2011* (S.I. No. 604 of 2011), reg. 16(m)(i).
+>
+> • (12.03.2007) by *Social Welfare (Consolidated Occupational Injuries) Regulations 2007* (S.I. No. 102 of 2007), reg. 72(1)(a), in effect as per reg. 2.
+>
+> • (15.12.2006) by *Social Welfare (Claims and Payments) Regulations 1952* (S.I. No. 374 of 1952), reg. 17C(1)(a), as inserted by *Social Welfare (Occupational Injuries)(Amendment)(No. 1)(Miscellaneous Provisions) Regulations 2006* (S.I. No. 695 of 2006), reg. 3(c), in effect as per reg. 2.
+>
+> • (11.12.2006) by *Social Welfare (Consolidated Payments Provisions) Regulations 1994* (S.I. No. 417 of 1994), reg. 123H(1)(a), as inserted by *Social Welfare (Consolidated Payments Provisions)(Amendment)(No. 15)(Absence From State and Imprisonment) Regulations 2006* (S.I. No. 696 of 2006), reg. 2.
+>
+> E3: Previous affecting provision: references to “Department of Justice, Equality and Law Reform” and “Minister for Justice, Equality and Law Reform” construed (2.06.2010) by *Justice, Equality and Law Reform (Alteration of Name of Department and Title of Minister) Order 2010* (S.I. No. 216 of 2010), in effect as per art. 1(2).
+
+## 1. Interpretation.
+
+**1**.— In this Act, save where the context otherwise requires—
+
+“act” includes omission and references to committing an act include references to making an omission;
+
+“the Act of 2001” means the Mental Health Act 2001;
+
+“approved medical officer” means a consultant psychiatrist (within the meaning of the Mental Health Act 2001);
+
+“clinical director” has the meaning assigned to it by the Mental Health Act 2001, and, where an approved medical officer is duly authorised by a clinical director to perform his or her functions under this Act, the officer shall, in relation to those functions, be deemed, for the purposes of this Act, to be a clinical director;
+
+“court” means any court exercising criminal jurisdiction and includes court martial;
+
+“designated centre” shall be construed in accordance with *section 3*;
+
+“establishment day” means the day appointed under *section 10* to be the establishment day;
+
+“intoxication” means being under the intoxicating influence of any alcoholic drink, drug, solvent or any other substance or combination of substances;
+
+“legal representative” means a practising barrister or a practising solicitor;
+
+“mental disorder” includes mental illness, mental disability, dementia or any disease of the mind but does not include intoxication;
+
+“Minister” means the Minister for Justice, Equality and Law Reform;
+
+“patient”, in *sections* *12* *,* F1[*13, 13A, 13B*] and *14*, means a person detained in a designated centre pursuant to this Act;
+
+“prison” means a place of custody administered by the Minister;
+
+“prisoner” means a person who is in prison on foot of a sentence of imprisonment, on committal awaiting trial, on remand or otherwise;
+
+“Review Board” means the Mental Health (Criminal Law) Review Board established under *section 11*;
+
+“special court” means a special court established under Article 38.3.1° of the Constitution.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Substituted (8.02.2011) by *Criminal Law (Insanity) Act 2010* (40/2010), s. 2, S.I. No. 50 of 2011.
+
+## 2. Orders.
+
+**2**.— Every order made by the Minister or by the Minister for Health and Children under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made.
+
+## 3. Designated centres.
+
+**3**.— (1) The Central Mental Hospital is hereby designated as a centre (in this Act referred to as a “designated centre”) for the reception, detention and care or treatment of persons or classes of persons committed or transferred thereto under the provisions of this Act.
+
+(2) The Minister for Health and Children by order may after consultation with the Mental Health Commission established under section 32 of the Act of 2001, designate a psychiatric centre as a centre (in this Act referred to as a “designated centre”) for the reception, detention and, where appropriate, care or treatment of persons or classes of persons committed or transferred thereto under the provisions of this Act.
+
+F2[(2A) Notwithstanding the generality of *subsection (2)*, the Minister for Health and Children by order may after consultation with the Mental Health Commission, designate a psychiatric centre as a designated centre for the reception and, where appropriate, detention, examination and, where appropriate, care and treatment of persons or classes of persons committed or directed thereto by the District Court under *section 4(6)(a)* for examination.]
+
+(3) Part 4 of the Act of 2001 shall apply to any person who is detained in a designated centre under this Act.
+
+(4) In this section, “psychiatric centre” means a hospital or in-patient facility in which care or treatment is provided for persons suffering from a mental disorder within the meaning of the Act of 2001.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F2: Inserted (8.02.2011) by *Criminal Law (Insanity) Act 2010* (40/2010), s. 3, S.I. No. 50 of 2011.
+>
+> **Editorial Notes:**
+>
+> E4: Power pursuant to subs. (2) exercised (24.04.2020) by *Criminal Law (Insanity) Act 2006 (Designation of Centre) Order 2020* (S.I. No. 142 of 2020), in effect as per art. 2.
+
+## 4. Fitness to be tried.
+
+**4**.— (1) Where in the course of criminal proceedings against an accused person the question arises, at the instance of the defence, the prosecution or the court, as to whether or not the person is fit to be tried the following provisions shall have effect.
+
+(2) An accused person shall be deemed unfit to be tried if he or she is unable by reason of mental disorder to understand the nature or course of the proceedings so as to—
+
+(*a*) plead to the charge,
+
+(*b*) instruct a legal representative,
+
+(*c*) in the case of an indictable offence which may be tried summarily, elect for a trial by jury,
+
+(*d*) make a proper defence,
+
+(*e*) in the case of a trial by jury, challenge a juror to whom he or she might wish to object, or
+
+(*f*) understand the evidence.
+
+(3) (*a*) Where an accused person is before the District Court (in this section referred to as “the Court”) charged with a summary offence, or with an indictable offence which is being or is to be tried summarily, any question as to whether or not the accused is fit to be tried shall be determined by the Court.
+
+F3[(*aa*) In a case to which *paragraph (a)* relates, the Court may request evidence of an approved medical officer to be adduced before it in respect of the accused person for the purposes of—
+
+(i) determining whether to adjourn the proceedings until further order to facilitate the accused person in accessing any care or treatment necessary for the welfare of the person,
+
+(ii) making a determination as to whether or not the accused person is fit to be tried, or
+
+(iii) exercising a power referred to in *subsection (6)(a)*.]
+
+(*b*) Subject to *subsections (7)* and *(8)*, in a case to which *paragraph (a)* relates, the Court determines that an accused person is unfit to be tried, that Court shall adjourn the proceedings until further order, and may—
+
+(i) if it is satisfied, having considered the evidence of an approved medical officer adduced pursuant to F4[*subsection (6)(b)*] and any other evidence that may be adduced before it that the accused person is suffering from a mental disorder (within the meaning of the Act of 2001) and is in need of in-patient care or treatment in a designated centre, commit him or her to a specified designated centre until an order is made under *section 13* F3[or *13A*], or
+
+(ii) if it is satisfied, having considered the evidence of an approved medical officer adduced pursuant to F4[*subsection (6)(b)*] and any other evidence that may be adduced before it that the accused person is suffering from a mental disorder or from a mental disorder (within the meaning of the Act of 2001) and is in need of out-patient care or treatment in a designated centre, make such order as it thinks proper in relation to the accused person for out-patient treatment in a designated centre.
+
+(*c*) Where in a case to which *paragraph (a)* relates, the Court determines that the accused person is fit to be tried the proceedings shall continue.
+
+(4) (*a*) Where an accused person is before the Court charged with an offence other than an offence to which *paragraph (a)* of *subsection (3)* applies, any question as to whether that person is fit to be tried shall be determined by the court of trial to which the person would have been sent forward if he or she were fit to be tried and the Court shall send the person forward to that court for the purpose of determining that issue.
+
+(*b*) Where an accused person is sent forward to the court of trial under *paragraph (a)*, the question of whether the person is fit to be tried shall be determined by the judge concerned sitting alone.
+
+(*c*) If the determination under *paragraph (b)* is that the accused person is fit to be tried, the provisions of the Criminal Procedure Act 1967, shall apply as if an order returning the person for trial had been made by the Court under section 4A of that Act (inserted by section 9 of the Criminal Justice Act 1999) on the date the determination was made but, in any case where section 13 of that Act applies, the person shall be returned for trial.
+
+(*d*) If the determination under *paragraph (b)* is that the person is unfit to be tried the provisions of *subsection (5)* shall apply.
+
+(*e*) Where the court subsequently determines that the person is fit to be tried the provisions of the Criminal Procedure Act 1967, shall apply as if an order returning the person for trial had been made by the Court on the date the determination was made.
+
+(5) (*a*) Where an accused person is before a court other than the Court charged with an offence and the question arises as to whether that person is fit to be tried the provisions of this subsection shall apply.
+
+(*b*) The question of whether the accused person is fit to be tried shall be determined by the judge concerned sitting alone.
+
+F3[(*bb*) In a case to which *paragraph (a)* relates, the court may request evidence of an approved medical officer to be adduced before it in respect of the accused person for the purposes of—
+
+(i) determining whether to adjourn the proceedings until further order to facilitate the accused person in accessing any care or treatment necessary for the welfare of the person,
+
+(ii) making a determination as to whether or not the accused person is fit to be tried, or
+
+(iii) exercising a power referred to in *subsection (6)(a)*.]
+
+(*c*) Subject to *subsections (7)* and *(8)*, if the judge determines that the accused person is unfit to be tried, he or she shall adjourn the proceedings until further order, and may—
+
+(i) if he or she is satisfied, having considered the evidence of an approved medical officer adduced pursuant to F4[*subsection (6)(b)*] and any other evidence that may be adduced before him or her that the accused person is suffering from a mental disorder (within the meaning of the Act of 2001) and is in need of in-patient care or treatment in a designated centre, commit him or her to a specified designated centre until an order is made under *section 13*F3[ or *13A*], or
+
+(ii) if he or she is satisfied, having considered the evidence of an approved medical officer adduced pursuant to F4[*subsection (6)(b)*] and any other evidence that may be adduced before him or her that the accused person is suffering from a mental disorder or from a mental disorder (within the meaning of the Act of 2001) and is in need of out-patient care or treatment in a designated centre, make such order as he or she thinks proper in relation to the accused person for out-patient treatment in a designated centre.
+
+(*d*) Where the court determines that the accused person is fit to be tried the proceedings shall continue.
+
+F4[(6) (*a*) For the purposes of determining whether or not to exercise a power under *subsection (3)(b)(i)* or *(ii)* or *subsection (5)(c)(i)* or *(ii)*, the court, having considered the evidence of an approved medical officer adduced before it in respect of the accused person—
+
+(i) may for that purpose—
+
+(I) commit the accused person to a designated centre for a period of not more than 14 days, or
+
+(II) by order direct that the accused person attend a designated centre as an out-patient on such day or days as the court may direct within a period of 14 days from the date of the making of the order,
+
+and
+
+(ii) shall direct that the accused person concerned be examined by an approved medical officer at the designated centre.
+
+(*b*) Within the period authorised by the court under this subsection, the approved medical officer who examined the accused person pursuant to subparagraph (ii) of paragraph (*a*) shall report to the court on whether or not in his or her opinion the accused person is—
+
+(i) suffering from a mental disorder (within the meaning of the Act of 2001) and is in need of in-patient care or treatment in a designated centre, or
+
+(ii) suffering from a mental disorder or a mental disorder (within the meaning of the Act of 2001) and is in need of out-patient care or treatment in a designated centre.]
+
+(7) Where on the trial of an accused person the question arises as to whether or not the person is fit to be tried and the court considers that it is expedient and in the interests of the accused so to do, it may defer consideration of the question until any time before the opening of the case for the defence and if, before the question falls to be determined, the jury by the direction of the court or the court, as the case may be, return a verdict in favour of the accused or find the accused person not guilty, as the case may be, on the count or each of the counts on which the accused is being tried the question shall not be determined and the person shall be acquitted.
+
+(8) Upon a determination having been made by the court that an accused person is unfit to be tried it may on application to it in that behalf allow evidence to be adduced before it as to whether or not the accused person did the act alleged and if the court is satisfied that there is a reasonable doubt as to whether the accused did the act alleged, it shall order the accused to be discharged.
+
+(9) Where evidence is adduced before the court under *subsection (8)* but the court decides not to order the accused person to be discharged, no person shall publish a report of the evidence or the decision until such time, if any, as—
+
+(*a*) the trial of the person concludes, or
+
+(*b*) a decision is made not to proceed with the trial of the person or the trial is otherwise not proceeded with.
+
+(10) A person who contravenes *subsection (9)* shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding €3,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F3: Inserted (8.02.2011) by *Criminal Law (Insanity) Act 2010* (40/2010), s. 4, S.I. No. 50 of 2011.
+>
+> F4: Substituted (8.02.2011) by *Criminal Law (Insanity) Act 2010* (40/2010), s. 4, S.I. No. 50 of 2011.
+>
+> **Editorial Notes:**
+>
+> E5: A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E6: Persons detained for treatment pursuant to order made under section confirmed not regarded as undergoing detention in legal custody for purposes of entitlement to disability allowance whilst so detained by *Social Welfare Consolidation Act 2005* (26/2005), s. 249(1A), as inserted (7.03.2008 with retrospective effect from 1.06.2005) by *Social Welfare and Pensions Act 2008* (2/2008), s. 10(1)(b), commenced as per s. 10(2).
+
+## 5. Verdict of not guilty by reason of insanity.
+
+**5**.— (1) Where an accused person is tried for an offence and, in the case of the District Court or Special Criminal Court, the court or, in any other case, the jury finds that the accused person committed the act alleged against him or her and, having heard evidence relating to the mental condition of the accused given by a consultant psychiatrist, finds that—
+
+(*a*) the accused person was suffering at the time from a mental disorder, and
+
+(*b*) the mental disorder was such that the accused person ought not to be held responsible for the act alleged by reason of the fact that he or she—
+
+(i) did not know the nature and quality of the act, or
+
+(ii) did not know that what he or she was doing was wrong, or
+
+(iii) was unable to refrain from committing the act,
+
+the court or the jury, as the case may be, shall return a special verdict to the effect that the accused person is not guilty by reason of insanity.
+
+(2) If the court, having considered any report submitted to it in accordance with *subsection (3)* and such other evidence as may be adduced before it, is satisfied that an accused person found not guilty by reason of insanity pursuant to *subsection (1)* is suffering from a mental disorder (within the meaning of the Act of 2001) and is in need of in-patient care or treatment in a designated centre, the court shall commit that person to a specified designated centre until an order is made under *section 13*F5[ or *13A*].
+
+(3) (*a*) For the purposes of *subsection (2)*, if the court considers that an accused person found not guilty by reason of insanity pursuant to *subsection (1)* is suffering from a mental disorder (within the meaning of the Act of 2001) and may be in need of in-patient care or treatment in a designated centre, the court may commit that person to a specified designated centre for a period of not more than 14 days and direct that during such period he or she be examined by an approved medical officer at that centre.
+
+(*b*) The court may, on application to it in that behalf by any party and, if it considers it appropriate to do so, after consultation with an approved medical officer, extend the period of committal under this subsection, but the period or the aggregate of the periods for which an accused person may be committed under this subsection shall not exceed 6 months.
+
+(*c*) Within the period of committal authorised by the court under this subsection the approved medical officer concerned shall report to the court on whether in his or her opinion the accused person committed under *paragraph (a)* is suffering from a mental disorder (within the meaning of the Act of 2001) and is in need of in-patient care or treatment in a designated centre.
+
+(4) Where on a trial for murder the accused contends—
+
+(*a*) that at the time of the alleged offence he or she was suffering from a mental disorder such that he or she ought to be found not guilty by reason of insanity, or
+
+(*b*) that at that time he or she was suffering from a mental disorder specified in *section 6(1)(c)*,
+
+the court shall allow the prosecution to adduce evidence tending to prove the other of those contentions, and may give directions as to the stage of the proceedings at which the prosecution may adduce such evidence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F5: Inserted (8.02.2011) by *Criminal Law (Insanity) Act 2010* (40/2010), s. 5, S.I. No. 50 of 2011.
+>
+> **Editorial Notes:**
+>
+> E7: Application of *Criminal Procedure Act 2010* (27/2010), ss. 8, 16, 17 and 18, restricted in relation to relevant offences in respect of which a person was the subject of a special verdict under section (1.09.2010) by *Criminal Procedure Act 2010* (27/2010), ss. 8(7), 16(8), 17(9) and 18(7), S.I. No. 414 of 2010.
+>
+> E8: Persons detained for treatment pursuant to order made under section confirmed not regarded as undergoing detention in legal custody for purposes of entitlement to disability allowance whilst so detained by *Social Welfare Consolidation Act 2005* (26/2005), s. 249(1A), as inserted (7.03.2008 with retrospective effect from 1.06.2005) by *Social Welfare and Pensions Act 2008* (2/2008), s. 10(1)(b), commenced as per s.10(2).
+
+## 6. Diminished responsibility.
+
+**6**.— (1) Where a person is tried for murder and the jury or, as the case may be, the Special Criminal Court finds that the person—
+
+(*a*) did the act alleged,
+
+(*b*) was at the time suffering from a mental disorder, and
+
+(*c*) the mental disorder was not such as to justify finding him or her not guilty by reason of insanity, but was such as to diminish substantially his or her responsibility for the act,
+
+the jury or court, as the case may be, shall find the person not guilty of that offence but guilty of manslaughter on the ground of diminished responsibility.
+
+(2) Subject to *section 5(4)*, where a person is tried for the offence specified in *subsection (1)*, it shall be for the defence to establish that the person is, by virtue of this section, not liable to be convicted of that offence.
+
+(3) A woman found guilty of infanticide may be dealt with in accordance with *subsection (1)*.
+
+## 7. Appeals (fitness to be tried).
+
+**7**.— (1) An appeal shall lie to the Circuit Court from a determination by the District Court, pursuant to *section 4(3)*, that an accused person is unfit to be tried.
+
+(2) On an appeal from a determination referred to in *subsection (1)*, the Circuit Court shall, if it allows the appeal, order that the appellant be tried or retried, as the case may be, by the District Court for the offence alleged, but if the District Court, pursuant to *section 4(7)*, postponed consideration of the question as to the accused’s fitness to be tried and the Circuit Court is of opinion that the appellant ought to have been found not guilty before the question as to fitness to be tried was considered, the court shall order that the appellant be acquitted.
+
+(3) An appeal shall lie to the Court of Criminal Appeal from a determination by the Central Criminal Court, the Circuit Court or the Special Criminal Court that an accused person is unfit to be tried, and if the Court of Criminal Appeal allows the appeal it shall order that the appellant be tried or retried as the case may be for the offence alleged but if the court concerned, pursuant to *section 4(7)*, postponed consideration of the question as to the accused’s fitness to be tried and the Court of Criminal Appeal is of opinion that the appellant ought to have been found not guilty before the question as to fitness to be tried was considered, the court shall order that the appellant be acquitted.
+
+(4) Where an order is made pursuant to *subsection (2)* or *(3)* directing the accused be tried or retried, as the case may be, for the offence alleged, the accused may be tried or retried for an offence other than the offence alleged in respect of which he or she was found unfit to be tried being an offence of which he or she might be found guilty on a charge for the offence alleged.
+
+(5) F6[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F6: Deleted (28.10.2014) by *Court of Appeal Act 2014* (18/2014), s. 65(a), S.I. No. 479 of 2014.
+
+## 8. Appeals (not guilty by reason of insanity).
+
+**8**.— (1)A person tried for an offence in the District Court and found not guilty by reason of insanity may appeal against the finding to the Circuit Court on any or all of the following grounds:
+
+(*a*) that it was not proved that he or she had committed the act in question;
+
+(*b*) that he or she was not, at the time when the act was committed, suffering from a mental disorder of the nature referred to in *section 5(1)(b)*;
+
+(*c*) that the District Court ought to have made a determination in respect of the person that he or she was unfit to be tried.
+
+(2) If on an appeal to the Circuit Court on the ground referred to in *subsection (1)(a)*, the Court is satisfied that it was not established that the appellant had committed the act in question it shall order that the appellant be acquitted.
+
+(3) If, on an appeal to the Circuit Court on the ground referred to in *subsection (1)(b)*, the court is satisfied that the appellant committed the act alleged but having considered the evidence or any new evidence relating to the mental condition of the appellant given by a consultant psychiatrist is satisfied that he or she was not suffering from a mental disorder of the nature referred to in *section 5(1)(b)*, the court shall substitute a verdict of guilty of the offence charged or of any other offence of which it is satisfied that the person could (by virtue of the charge) and ought to have been convicted, and shall have the like powers of punishing or otherwise dealing with the person as the District Court would have had if the person had been convicted of the offence in respect of which the verdict of guilty has been so substituted.
+
+(4) If, on appeal to the Circuit Court on the ground set out at *subsection (1)(c)*, the court is satisfied that the appellant ought to have been found unfit to be tried it shall make a finding to that effect and, in that case the provisions of *section 4(5)(c)* shall apply.
+
+(5) If on appeal to the Circuit Court the court is satisfied, having considered the evidence or any new evidence relating to the mental condition of the appellant, that he or she was at the time that the offence alleged was committed suffering from a mental disorder of the nature referred to in *section 5(1)(b)* and that but for that disorder the appellant would have been found guilty of the offence charged or of another offence of which the person could have been found guilty by virtue of the charge, the court shall dismiss the appeal.
+
+(6) A person tried on indictment in the Circuit Court, the Central Criminal Court or the Special Criminal Court and found not guilty by reason of insanity may appeal against the finding to the Court of Criminal Appeal on one or more or all of the following grounds:
+
+(*a*) that it was not proved that he or she had committed the act in question;
+
+(*b*) that he or she was not, at the time when the act was committed, suffering from any mental disorder of the nature referred to in *section 5(1)(b)*;
+
+(*c*) that the court ought to have made a determination in respect of this person that he or she was unfit to be tried.
+
+(7) Subject to *section 9*, if on an appeal to the Court of Criminal Appeal on the grounds referred to in *subsection (6)(a)* the court is satisfied that it was not proved that the appellant had committed the act in question it shall order that the appellant be acquitted.
+
+(8) Subject to *section 9*, if on an appeal to the Court of Criminal Appeal on the ground referred to in *subsection (6)(b)* the court is satisfied that the appellant committed the act alleged but, having considered the evidence or any new evidence relating to the mental condition of the accused given by a consultant psychiatrist, is satisfied that he or she was not suffering from any mental disorder of the nature referred to in *section 5(1)(b)* the court shall substitute a verdict of guilty of the offence charged or, in the case of murder where *section 6(1)(c)* applies, guilty of manslaughter on the grounds of diminished responsibility or of any other offence of which it is satisfied that the person could (by virtue of the charge) and ought to have been convicted, and shall have the like powers of punishing or otherwise dealing with the person as the trial court would have had if the person had been convicted of the offence in respect of which the verdict of guilty has been so substituted.
+
+(9) If, on an appeal to the Court of Criminal Appeal, on the ground set out at *subsection (6)(c)*, the court is satisfied that the appellant ought to have been found unfit to be tried it shall make a finding to that effect and, in that case the provisions of *section 4(5)(c)* shall apply.
+
+(10) If, on an appeal to the Court of Criminal Appeal, the court is satisfied that the appellant was at the time that the offence alleged was committed suffering from a mental disorder of the nature referred to in *section 5(1)(b)* and that but for that disorder the appellant would have been found guilty of the offence charged or of another offence of which the person could have been found guilty by virtue of the charge, the court shall dismiss the appeal.
+
+## 9. Appeals (supplemental provisions).
+
+**9**.— (1)An appeal against a decision by the court of trial (but not a decision by an appellate court), to make or not to make an order of committal under *section 4(3)(b)*, *4(5)(c)*, *4(6)(a)*, *5(2)* or *5(3)* shall lie at the instance of the defence or the prosecution to the Circuit Court or the Court of Criminal Appeal, as may be appropriate, and the court hearing the appeal may, having considered the evidence or any new evidence relating to the mental condition of the accused given by a consultant psychiatrist, make such order, being an order that it was open to the court of trial to make, as it considers appropriate and, without prejudice to the provisions of *section 13* relating to the review of orders of committal, no further appeal shall lie from an order made on an appeal under this section.
+
+(2) Where the Circuit Court or the Court of Criminal Appeal allows an appeal against a conviction or against a verdict of not guilty by reason of insanity on the ground that the appellant ought to have been found unfit to be tried, or allows an appeal against a conviction on the ground that the appellant ought to have been found not guilty by reason of insanity, it shall have the same powers to deal with the appellant as the court of trial would have had under *section 4* or *section 5* if it had come to the same conclusion.
+
+(3) All ancillary and procedural provisions contained in a statute or an instrument made under statute relating to appeals against convictions, including provisions relating to leave to appeal, shall apply with the necessary modifications to appeals under *sections 7*, *8* and *9(1)*.
+
+(4) The powers of an appellate court in an appeal under *section 7*, *8* or *9(1)* shall include the power to make any such order as may be necessary for the purpose of doing justice in accordance with the provisions of this Act.
+
+## 10. Establishment day.
+
+**10**.— The Minister may by order appoint a day to be the establishment day for the purpose of *section 11*.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E9: Power pursant to section exercised (27.09.2006) by *Mental Health (Criminal Law) Review Board (Establishment Day) Order 2006* (S.I. No. 499 of 2006), art. 2.
+>
+> 2\. The 27th day of September, 2006 is appointed to be the establishment day.
+
+## 11. Mental Health (Criminal Law) Review Board.
+
+**11**.— (1) On the establishment day there shall stand established a board to be known as An Bord Athbhreithnithe Meabhair-Shláinte (An Dlí Coiriúil) or, in the English Language, the Mental Health (Criminal Law) Review Board (in this Act referred to as “the Review Board”) to perform the functions conferred on it by or under this Act.
+
+(2) The Review Board shall be independent in the exercise of its functions under this Act and shall have regard to the welfare and safety of the person F7[whose detention or conditions of discharge it reviews or whose application for unconditional discharge it determines] under this Act and to the public interest.
+
+(3) The provisions of *Schedule 1* shall have effect in relation to the Review Board.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F7: Substituted (8.02.2011) by *Criminal Law (Insanity) Act 2010* (40/2010), s. 6, S.I. No. 50 of 2011.
+
+## 12. Powers of Review Board.
+
+**12**.— (1) The Review Board shall—
+
+(*a*) hold sittings for the purpose of a review by it under this Act and at the sittings may receive submissions and such evidence as it thinks fit,
+
+(*b*) take account of the court record (if any) of the proceedings of the court to whose decision the request for review relates and, where such a record exists, the court shall make it available to the Board,
+
+(*c*) assign a legal representative to a patient the subject of the review unless he or she proposes to engage one.
+
+(2) The Review Board may, for the purposes of its functions—
+
+(*a*) subject to *subsection (10)*, direct in writing the consultant psychiatrist responsible for the care or treatment of a patient the subject of the review concerned to arrange for the patient to attend before the Review Board on a date and at a time and place specified in the direction,
+
+(*b*) direct in writing any person whose evidence is required by the Review Board to attend before the Review Board on a date and at a time and place specified in the direction and there to give evidence and to produce any document or thing in his or her possession or power specified in the direction,
+
+(*c*) direct any person in attendance before the Review Board to produce to the Review Board any document or thing in his or her possession or power specified in the direction,
+
+(*d*) direct in writing any person to send to the Review Board any document or thing in his or her possession or power specified in the direction, and
+
+(*e*) give any other directions for the purpose of the proceedings concerned that appear to the Review Board to be reasonable and just.
+
+(3) The reasonable expenses of witnesses directed under *subsection (2)(b)* to attend before the Review Board shall be paid by the Board out of moneys at the disposal of the Board.
+
+(4) A person who—
+
+(*a*) having been directed under *subsection (2)* to attend before the Review Board and, in the case of a person so directed under *paragraph (b)* of that subsection, having had tendered to him or her any sum in respect of the expenses of his or her attendance which a witness summoned to attend before the High Court would be entitled to have tendered to him or her, without just cause or excuse disobeys the direction,
+
+(*b*) being in attendance before the Review Board pursuant to a direction under *paragraph (b)* of *subsection (2)*, refuses to take the oath on being required by the Review Board to do so or refuses to answer any question to which the Review Board may legally require an answer or to produce any document or thing in his or her possession or power legally required by the Review Board to be produced by the person,
+
+(*c*) fails or refuses to send to the Review Board any document or thing legally required by the Review Board under *paragraph (d)* of *subsection (2)* to be sent to it by the person or without just cause or excuse disobeys a direction under *paragraph (c)*, *(d)* or *(e)* of that subsection, or
+
+(*d*) does any other thing in relation to the proceedings before the Review Board which, if done in relation to proceedings before a court by a witness in the court, would be contempt of that court,
+
+shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding €3,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(5) If a person gives false evidence before a Review Board in such circumstances that, if he or she had given the evidence before a court, he or she would be guilty of perjury, he or she shall be guilty of that offence.
+
+(6) The procedure of the Review Board in relation to a review by it under this Act shall, subject to the provisions of this Act be such as shall be determined by the Review Board with the consent of the Minister and the Review Board shall, without prejudice to the generality of the foregoing, make provision for—
+
+(*a*) for the purpose of *subsection (1)(c)*, the making, with the consent of the Minister and the Minister for Finance, of a scheme or schemes for the granting by the Review Board of legal aid to patients,
+
+(*b*) notifying the consultant psychiatrist responsible for the care or treatment of the patient the subject of the review and the patient and his or her legal representative of the date, time and place of the relevant sitting of the Review Board,
+
+(*c*) giving the patient the subject of the review and his or her legal representative a copy of any document furnished to the Review Board and an indication in writing of the nature and source of any information relating to the matter which has come to notice in the course of the review,
+
+(*d*) subject to *subsection (10)*, enabling the patient the subject of the review and his or her legal representative to be present at the relevant sitting of the Review Board and enabling the patient the subject of the review to present his or her case to the Review Board in person or through a legal representative,
+
+(*e*) enabling the Minister, the Director of Public Prosecutions and, where appropriate, the Minister for Defence to be heard or represented at sittings of the Review Board,
+
+(*f*) enabling written statements to be admissible as evidence by the Review Board with the consent of the patient the subject of the review or his or her legal representative,
+
+(*g*) enabling any signature appearing on a document produced before the Review Board to be taken, in the absence of evidence to the contrary, to be that of the person whose signature it purports to be,
+
+(*h*) the examination by or on behalf of the Review Board and the cross-examination by or on behalf of the patient the subject of the review concerned on oath or otherwise as it may determine of witnesses before the Review Board called by it,
+
+(*i*) the examination by or on behalf of the patient the subject of the review and the cross-examination by or on behalf of the Review Board (on oath or otherwise as the Review Board may determine), of witnesses before the Review Board called by the patient the subject of the review,
+
+(*j*) the determination by the Review Board whether evidence at the Review Board should be given on oath or otherwise,
+
+(*k*) the administration by the Review Board of the oath to witnesses before the Review Board, and
+
+(*l*) the making of a sufficient record of the proceedings of the Review Board.
+
+(7) A witness whose evidence has been, is being or is to be given before the Review Board in proceedings under this Act shall be entitled to the same privileges and immunities as a witness in a court.
+
+(8) Sittings of a Review Board for the purposes of an investigation by it under this Act shall be held in private.
+
+(9) The following shall be absolutely privileged:
+
+(*a*) documents of the Review Board and documents of its members connected with the Review Board or its functions, wherever published;
+
+(*b*) reports of the Review Board, wherever published;
+
+(*c*) statements made in any form at meetings or sittings of the Review Board by its members or officials and such statements wherever published subsequently.
+
+(10) A patient shall not be required to attend before the Review Board under this section if, in the opinion of the Review Board, such attendance might be prejudicial to his or her mental health, well-being or emotional condition.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C4: Perjury construed (28.07.2021) by *Criminal Justice (Perjury and Related Offences) Act 2021* (13/2021), s. 4(2) and sch. 2 item 50, S.I. No. 378 of 2021.
+>
+> **References to perjury or subornation of perjury**
+>
+> **4.** ...
+>
+> (2) A reference in an enactment specified in Schedule 2 to perjury or to subornation of perjury, howsoever described, in relation to an act committed on or after the coming into operation of this subsection, shall be construed as a reference to perjury or to subornation of perjury, as the case may be, within the meaning of this Act.
+>
+> ...
+>
+> SCHEDULE 2
+>
+> *Section 4 (2)*
+>
+> ...
+>
+> 50\. Criminal Law (Insanity) Act 2006, section 12(5)
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E10: A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+## 13. Review of detention.
+
+**13**.— (1) F8[...]
+
+F9[(1)] The Review Board shall ensure that the detention of a patient is reviewed at intervals of such length not being more than 6 months as it considers appropriate and the clinical director of the designated centre where the patient is detained shall comply with any request by the Review Board in connection with the review.
+
+F9[(2)] (*a*) Where the clinical director of a designated centre forms the opinion in relation to a patient detained pursuant to *section 4* that the patient is no longer unfit to be tried for an offence he or she shall forthwith notify the court that committed the patient to the designated centre of this opinion and the court shall order that the patient be brought before it, as soon as may be, to be dealt with as the court thinks proper.
+
+F10[(*b*) Where the clinical director of a designated centre forms the opinion in relation to a patient detained pursuant to section 202 of the Defence Act 1954, that the patient is no longer unfit to take his or her trial he or she shall forthwith notify the Director of Military Prosecutions (within the meaning of that Act) of this opinion and the Director of Military Prosecutions may direct—
+
+(i) that the matter be referred to the summary court-martial or that the Court-Martial Administrator convene a general court-martial or limited court-martial, as specified in the direction, and
+
+(ii) that the person be brought before such court-martial as soon as may be to be dealt with as the court-martial considers proper.]
+
+F9[(3)] Where the clinical director of a designated centre forms the opinion in relation to a patient detained pursuant to *section 4* or to section 202 of the Defence Act 1954, that the patient, although still unfit to be tried, is no longer in need of in-patient care or treatment at a designated centre he or she shall forthwith notify the Review Board of this opinion.
+
+F9[(4)] Where the Review Board receives a notification under F11[*subsection (3)*], it shall order that the patient be brought before it as soon as may be, and shall, having heard evidence relating to the mental condition of the patient given by the consultant psychiatrist responsible for his or her care or treatment, determine the question whether or not the treatment referred to in F11[*subsection (3)*] is still required in the same manner as if that question were being determined pursuant to the relevant provision of this Act or the Defence Act 1954, as may be appropriate, and shall make such order as it thinks proper in relation to the patient, F12[whether for further detention, care or treatment in a designated centre, for his or her conditional discharge under *section 13A* or for his or her unconditional discharge].
+
+F9[(5)] Where the clinical director of a designated centre forms the opinion in relation to a patient detained pursuant to *section 5* or section 203 of the Defence Act 1954, that he or she is no longer in need of in-patient care or treatment at a designated centre he or she shall forthwith notify the Review Board of this opinion.
+
+F9[(6)] Where the Review Board receives a notification under F13[*subsection (5)*], it shall order that the patient be brought before it, as soon as may be, and shall, having heard evidence relating to the mental condition of the patient given by the consultant psychiatrist responsible for his or her care or treatment, determine the question whether or not the treatment referred to in F13[*subsection (5)*] is still required and shall make such order as it thinks proper in relation to the patient, F12[whether for further detention, care or treatment in a designated centre, for his or her conditional discharge under *section 13A* or for his or her unconditional discharge].
+
+F9[(7)] A patient detained pursuant to *section 4* or to section 202 of the Defence Act 1954, may apply to the Review Board for a review of his or her detention and the Review Board shall, unless satisfied that such a review is not necessary because of any review undertaken in accordance with this section, order that the patient be brought before it, as soon as may be, and—
+
+F10[(*a*) if, having heard evidence relating to the mental condition of the patient given by the consultant psychiatrist responsible for his or her care or treatment, the Review Board determines that he or she is no longer unfit to be tried by reason of mental disorder or to participate in proceedings referred to in section 4 it shall order that the patient be brought before the court which committed him or her to the designated centre to be dealt with as that court thinks proper or in the case of a patient detained pursuant to section 202 of the Defence Act 1954, it shall notify the Director of Military Prosecutions (within the meaning of that Act) and the Director of Military Prosecutions may direct—
+
+(i) that the matter be referred to the summary court-martial or that the Court-Martial Administrator convene a general court-martial or limited court-martial, as specified in the direction, and
+
+(ii) that the person be brought before such court-martial as soon as may be to be dealt with as the court-martial considers proper.]
+
+(*b*) if the Review Board determines that the patient, although still unfit to be tried is no longer in need of in-patient care or treatment at a designated centre, the Review Board may make such order as it thinks proper in relation to the patient, F12[whether for further detention, care or treatment in a designated centre, for his or her conditional discharge under *section 13A* or for his or her unconditional discharge].
+
+F9[(8)] A patient detained pursuant to *section 5* or to section 203 of the Defence Act 1954, may apply to the Review Board for a review of his or her detention and the Review Board shall, unless satisfied that such a review is not necessary because of any review undertaken in accordance with this section, order that the patient be brought before it, as soon as may be, and shall, having heard evidence relating to the mental condition of the patient given by the consultant psychiatrist responsible for his or her care or treatment, determine the question of whether or not the patient is still in need of in-patient treatment in a designated centre and shall make such order as it thinks proper in relation to the patient F12[whether for further detention, care or treatment in a designated centre, for his or her conditional discharge under *section 13A* or for his or her unconditional discharge].
+
+F9[(9)] The Review Board may on its own initiative review the detention of a patient detained pursuant to *section 4* or *5* or to section 202 or 203 of the Defence Act 1954, and F14[*subsection (7)* or *(8)*], as appropriate, shall apply to such review as if the patient had applied for the review under the subsection concerned.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F8: Subs. (1) deleted (1.08.2006) by *Criminal Justice Act 2006* (26/2006), s. 197(1), S.I. No. 390 of 2006. The remaining subss. (2) - (10) were renumbered as subss. (1) - (9) as per F-note below.
+>
+> F9: Substituted (1.08.2006) by *Criminal Justice Act 2006* (26/2006), s. 197(2)(a), S.I. No. 390 of 2006.
+>
+> F10: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 11 and sch. 4 part 5, S.I. No. 254 of 2008. The amending section does not appear to have taken account of the renumbering of subss. (2) - (10) by *Criminal Justice Act 2006* (26/2006), s. 197(2)(a), as per F note above.
+>
+> F11: Substituted (1.08.2006) by *Criminal Justice Act 2006* (26/2006), s. 197(2)(b), S.I. No. 390 of 2006.
+>
+> F12: Substituted (8.02.2011) by *Criminal Law (Insanity) Act 2010* (40/2010), s. 7, S.I. No. 50 of 2011.
+>
+> F13: Substituted (1.08.2006) by *Criminal Justice Act 2006* (26/2006), s. 197(2)(c), S.I. No. 390 of 2006.
+>
+> F14: Substituted (1.08.2006) by *Criminal Justice Act 2006* (26/2006), s. 197(2)(d), S.I. No. 390 of 2006.
+>
+> **Modifications (not altering text):**
+>
+> C5: Subss. (2) - (10) were renumbered as per F-note above (1.08.2006) by *Criminal Justice Act 2006* (26/2006) s. 197(2)(a). Prior to the substitution, the section as enacted was numbered as follows:
+>
+> **Review of detention.**
+>
+> **13**.—(1) Where a person is detained under this Act in a designated centre being a prison, the duties and powers conferred by this section and by section 14 of this Act on a clinical director shall be carried out by the governor of the prison on the advice of an approved medical officer.
+>
+> (2) The Review Board shall ensure that the detention of a patient is reviewed at intervals of such length not being more than 6 months as it considers appropriate and the clinical director of the designated centre where the patient is detained shall comply with any request by the Review Board in connection with the review.
+>
+> (3) (*a*) Where the clinical director of a designated centre forms the opinion in relation to a patient detained pursuant to *section 4* that the patient is no longer unfit to be tried for an offence he or she shall forthwith notify the court that committed the patient to the designated centre of this opinion and the court shall order that the patient be brought before it, as soon as may be, to be dealt with as the court thinks proper.
+>
+> (*b*) Where the clinical director of a designated centre forms the opinion in relation to a patient detained pursuant to section 202 of the Defence Act 1954, that the patient is no longer unfit to take his or her trial he or she shall forthwith notify a convening authority (within the meaning of Chapter V of the Defence Act 1954) of this opinion and the convening authority shall convene a court-martial which may thereupon order that the patient be brought before it as soon as may be to be dealt with as the court martial thinks proper.
+>
+> (4) Where the clinical director of a designated centre forms the opinion in relation to a patient detained pursuant to *section 4* or to section 202 of the Defence Act 1954, that the patient, although still unfit to be tried, is no longer in need of in-patient care or treatment at a designated centre he or she shall forthwith notify the Review Board of this opinion.
+>
+> (5) Where the Review Board receives a notification under *subsection (4)*, it shall order that the patient be brought before it as soon as may be, and shall, having heard evidence relating to the mental condition of the patient given by the consultant psychiatrist responsible for his or her care or treatment, determine the question whether or not the treatment referred to in *subsection (4)* is still required in the same manner as if that question were being determined pursuant to the relevant provision of this Act or the Defence Act 1954, as may be appropriate, and shall make such order as it thinks proper in relation to the patient, whether for further detention, care or treatment in a designated centre or for his or her discharge whether unconditionally or subject to conditions for out-patient treatment or supervision or both.
+>
+> (6) Where the clinical director of a designated centre forms the opinion in relation to a patient detained pursuant to section 5 or section 203 of the Defence Act 1954, that he or she is no longer in need of in-patient care or treatment at a designated centre he or she shall forthwith notify the Review Board of this opinion.
+>
+> (7) Where the Review Board receives a notification under *subsection (6)*, it shall order that the patient be brought before it, as soon as may be, and shall, having heard evidence relating to the mental condition of the patient given by the consultant psychiatrist responsible for his or her care or treatment, determine the question whether or not the treatment referred to in *subsection (6)* is still required and shall make such order as it thinks proper in relation to the patient, whether for further detention, care or treatment in a designated centre or for his or her discharge whether unconditionally or subject to conditions for out-patient treatment or supervision or both.
+>
+> (8) A patient detained pursuant to section 4 or to section 202 of the Defence Act 1954, may apply to the Review Board for a review of his or her detention and the Review Board shall, unless satisfied that such a review is not necessary because of any review undertaken in accordance with this section, order that the patient be brought before it, as soon as may be, and—
+>
+> (*a*) if, having heard evidence relating to the mental condition of the patient given by the consultant psychiatrist responsible for his or her care or treatment, the Review Board determines that he or she is no longer unfit to be tried by reason of mental disorder or to participate in proceedings referred to in section 4 it shall order that the patient be brought before the court which committed him or her to the designated centre to be dealt with as that court thinks proper or in the case of a patient detained pursuant to section 202 of the Defence Act 1954, it shall notify a convening authority (within the meaning of Chapter V of the Defence Act 1954) and the convening authority shall convene a court-martial which shall order that the patient be brought before it to be dealt with as the court-martial thinks proper, or
+>
+> (*b*) if the Review Board determines that the patient, although still unfit to be tried is no longer in need of in-patient care or treatment at a designated centre, the Review Board may make such order as it thinks proper in relation to the patient, whether for further detention, care or treatment in a designated centre or for his or her discharge whether unconditionally or subject to conditions for out-patient treatment or supervision or both.
+>
+> (9) A patient detained pursuant to *section 5* or to section 203 of the Defence Act 1954, may apply to the Review Board for a review of his or her detention and the Review Board shall, unless satisfied that such a review is not necessary because of any review undertaken in accordance with this section, order that the patient be brought before it, as soon as may be, and shall, having heard evidence relating to the mental condition of the patient given by the consultant psychiatrist responsible for his or her care or treatment, determine the question of whether or not the patient is still in need of in-patient treatment in a designated centre and shall make such order as it thinks proper in relation to the patient whether for further detention, care or treatment in a designated centre or for his or her discharge whether unconditionally or subject to conditions for out-patient treatment or supervision or both.
+>
+> (10) The Review Board may on its own initiative review the detention of a patient detained pursuant to *section 4* or *5* or to section 202 or 203 of the Defence Act 1954, and *subsection (8)* or *(9)*, as appropriate, shall apply to such review as if the patient had applied for the review under the subsection concerned.
+>
+> **Editorial Notes:**
+>
+> E11: Power of military judge to commit persons found not guilty by reason of insanity who are suffering from a mental disorder and in need of in-patient care or treatment in a designated centre to a specified designated centre pending order made under section provided by *Defence Act 1954* (18/1954), s. 203(2), as substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 51(b), S.I. No. 254 of 2008.
+
+## 13A. Persons may be discharged subject to conditions, etc.
+
+F15[**13A**.—(1) Subject to *subsection (2)*, the Review Board may, when reviewing the detention of a patient under *section 13*, make an order for the discharge of the patient subject to such conditions, including conditions relating to out-patient treatment or supervision or both, as it considers appropriate (in this Act referred to as a "conditional discharge order").
+
+(2) The Review Board shall not make a conditional discharge order in respect of a patient until it is satisfied that such arrangements as appear necessary to the clinical director of the designated centre concerned have been made in respect of the patient, and for that purpose, the clinical director concerned shall make such arrangements as may be necessary for—
+
+(*a*) facilitating compliance by the patient who is the subject of the proposed order with the conditions of the order,
+
+(*b*) the supervision of the patient, and
+
+(*c*) providing for the return of the patient to the designated centre under *section 13B* in the event that he or she is in material breach of his or her conditional discharge order.
+
+(3) Where the Review Board makes a conditional discharge order in respect of a person, the Board shall—
+
+(*a*) order that the conditions imposed in the order be communicated to the person by notice in writing at the time of his or her discharge, and
+
+(*b*) shall explain or cause to have explained to him or her—
+
+(i) the effect of the conditional discharge order and the effect of the conditions imposed in the order,
+
+(ii) the fact that the person may, under section 13B, be returned to the designated centre if he or she is in material breach of his or her conditional discharge order,
+
+(iii) that the Board may in accordance with this section vary or remove any one or more of the conditions or impose further conditions on the application of either the person concerned or the clinical director of the designated centre concerned, and
+
+(iv) that the person may in accordance with this section make an application for an unconditional discharge.
+
+(4) A person who is the subject of a conditional discharge order shall comply with the conditions to which his or her discharge is made subject.
+
+(5) The Review Board shall cause a copy of the conditional discharge order to be sent to the Minister and the clinical director of the designated centre concerned.
+
+(6) At any time after the making of a conditional discharge order, the Board on application to it in that behalf by—
+
+(*a*) the person who is the subject of the conditional discharge order, or
+
+(*b*) the clinical director of the designated centre concerned,
+
+may vary or remove one or more of the conditions of the conditional discharge order, or impose further conditions if it considers it appropriate to do so, and the provisions of this section shall apply to the varied order as if it had been an order made under *subsection (1)*.
+
+(7) An application under *subsection (6)* shall be on notice to the person concerned and the clinical director of the designated centre concerned, if the applicant is not the clinical director.
+
+(8) (*a*) A person who is the subject of a conditional discharge order may make an application in writing to the Review Board for an unconditional discharge (in this Act referred to as an "application for an unconditional discharge").
+
+(*b*) An application for an unconditional discharge may be made at any time after the expiration of 12 months from the date of the person’s conditional discharge so long as a period of not less than 12 months elapses between an application and the next subsequent application.
+
+(9) (*a*) Where the Review Board receives an application for an unconditional discharge, it shall request that the person (in this subsection referred to as the "applicant") attend before it so that it may determine whether or not to discharge the applicant unconditionally.
+
+(*b*) The Review Board having heard—
+
+(i) evidence relating to the applicant (including evidence as to the applicant’s mental condition and his or her compliance with the conditions of his or her conditional discharge order) given by the clinical director or, at the request of the Board, the consultant psychiatrist responsible for the applicant’s treatment and supervision, or by both of them, and
+
+(ii) any evidence adduced by or on behalf of the applicant,
+
+shall, if it thinks proper, make an order for the unconditional discharge of the applicant.
+
+(*c*) Where the Review Board makes an order for the unconditional discharge of an applicant, the order shall be deemed to be an order for unconditional discharge duly made under *section 13*.
+
+(*d*) Where the Review Board does not make an order for unconditional discharge, it shall make such order as it thinks proper for the further conditional discharge of the applicant on the same or different conditions as may be specified in the order, and the provisions of this section shall apply to such further conditional discharge order as if it had been an order made under *subsection (1)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F15: Inserted (8.02.2011) by *Criminal Law (Insanity) Act 2010* (40/2010), s. 8, S.I. No. 50 of 2011.
+
+## 13B. Material breach of conditional discharge order.
+
+F16[**13B**.—(1) A conditional discharge order shall, in respect of a person who is the subject of the conditional discharge order, be deemed to be revoked if the person is in material breach of that order and accordingly the person shall be deemed to be unlawfully at large.
+
+(2) A person is in material breach of his or her conditional discharge order where the clinical director on reasonable grounds believes that the person is in breach of one or more conditions of his or her conditional discharge, and that—
+
+(*a*) there is a serious likelihood of the person causing serious harm to himself or herself or to other persons, or
+
+(*b*) the person may be in need of in-patient care or treatment.
+
+(3) Where the clinical director on reasonable grounds believes that a person is in material breach of his or her conditional discharge order, the director shall, unless *subsection (4)* applies, inform the person in writing of that fact and the reasons for that belief.
+
+(4) *Subsection (3)* shall not apply where the clinical director on reasonable grounds believes that the material breach is such as to give reasonable grounds for the director to believe that there is a serious likelihood of the person concerned causing immediate and serious harm to himself or herself or to other persons.
+
+(5) The clinical director shall arrange for an officer or servant of the designated centre or an authorised person to effect the person’s return to the designated centre and the clinical director may, if necessary, request the Garda Síochána to assist in effecting the return of the person to that centre and the Garda Síochána shall comply with any such request.
+
+(6) Without prejudice to *subsection (5)* and to any other power conferred by law, a member of the Garda Síochána may arrest without warrant any person whom he or she with reasonable cause suspects to be unlawfully at large pursuant to *subsection (1)*.
+
+(7) A person who is arrested under *subsection (6)* by a member of the Garda Síochána shall, as soon as practicable, be transferred into the custody of an officer or servant of the designated centre or an authorised person for the purpose of effecting the return of that person to the designated centre concerned.
+
+(8) A member of the Garda Síochána may for the purposes of this section—
+
+(*a*) enter if need be by force any dwelling or other premises where he or she has reasonable cause to believe that the person may be, and
+
+(*b*) take all reasonable measures necessary for the return of the person to the designated centre including, where necessary, the detention or restraint of the person.
+
+(9) (*a*) Notwithstanding the generality of *subsection (4)*, a person who returns or who is returned, as the case may be, to the designated centre concerned pursuant to this section shall as soon as may be upon his or her return be given reasons in writing for his or her return.
+
+(*b*) The provisions of this Act shall apply to the person as if the person was being committed for the first time to the designated centre pursuant to *section 4* or *5* or to section 202 or 203 of the Defence Act 1954 on the date of his or her return to the centre.
+
+(10) Where a person returns or is returned, as the case may be, to a designated centre pursuant to this section—
+
+(*a*) the clinical director of that centre shall forthwith notify the Review Board of that return,
+
+(*b*) the Board shall order that the patient be brought before it as soon as may be for the purposes of reviewing the patient’s detention, and
+
+(*c*) the Board may exercise all the powers available to it under *section 13* in relation to that patient.
+
+(11) In this section, "authorised person", in relation to effecting the return of a person under this section, means a person who is for the time being authorised pursuant to *section 13C* to provide services relating to such a return.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F16: Inserted (8.02.2011) by *Criminal Law (Insanity) Act 2010* (40/2010), s. 8, S.I. No. 50 of 2011.
+
+## 13C. Arrangements to provide services.
+
+F17[**13C**.—(1) The registered proprietor of a designated centre may enter into an arrangement with a person for the purposes of arranging for persons who are members of the staff of that person to provide services relating to effecting the return pursuant to *section 13B* of persons to that centre.
+
+(2) Where the registered proprietor of a designated centre has entered into an arrangement referred to in *subsection (1)* with a person, the clinical director of that centre may authorise, in writing and for a period not exceeding 12 months as is specified in the authorisation, such and so many persons who are members of the staff of that person to provide the services referred to in that subsection which are the subject of that arrangement.
+
+(3) In this section—
+
+"register" shall be construed in accordance with section 62 of the Mental Health Act 2001;
+
+"registered proprietor", in relation to a designated centre, means the person whose name is entered in the register as the person carrying on the centre.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F17: Inserted (8.02.2011) by *Criminal Law (Insanity) Act 2010* (40/2010), s. 8, S.I. No. 50 of 2011.
+
+## 14. Temporary release, transfer and other matters.
+
+**14**.— (1) The clinical director of a designated centre may, with the consent of the Minister, direct the temporary release of a patient on such conditions and for such period or periods as the clinical director deems appropriate.
+
+(2) The clinical director of a designated centre may, with the consent of the Minister and the Minister for Health and Children, direct the transfer to another designated centre of a patient on such condition and for such period or periods as the clinical director deems appropriate with the consent of the clinical director of the other centre.
+
+(3) Where the release or transfer of a patient under *subsection (1)* or *(2)* is made subject to conditions, the conditions shall be communicated to the patient by notice in writing at the time of his or her release or transfer.
+
+(4) A patient whose temporary release or transfer is directed under this section shall comply with any conditions to which his or her release or transfer is made subject.
+
+(5) A patient who, by reason of having been temporarily released from a designated centre, is at large shall be deemed to be unlawfully at large if—
+
+(*a*) the period for which he or she was temporarily released has expired, or
+
+(*b*) a condition to which his or her release was made subject has been broken.
+
+(6) Where, by reason of the breach of a condition to which his or her release was made subject, a patient is deemed to be unlawfully at large and is arrested under *subsection (7)* or otherwise or returns voluntarily, the period for which he or she was temporarily released shall thereupon be deemed to have expired.
+
+(7) Without prejudice to any other power conferred by law, a member of the Garda Síochána shall, or an officer or servant of the designated centre may, arrest without warrant any person whom he or she suspects to be unlawfully at large while subject to an order for his or her detention in a designated centre under this Act and bring him or her back to such centre.
+
+(8) (*a*) A patient may be removed from a designated centre to a hospital in order to receive medical attention not available in the designated centre and while detained in that hospital he or she shall be in lawful custody.
+
+(*b*) Where a patient is removed from a designated centre pursuant to this subsection the clinical director shall within 48 hours of such removal forward a report of the circumstances regarding the removal to the Minister.
+
+(9) The Minister may, where he or she is satisfied that it is in the interests of justice to do so, direct that a patient be removed from a designated centre to a specified place and during such authorised absence the patient shall be deemed to remain in the lawful custody of the designated centre.
+
+## 15. Transfer of prisoner to designated centre.
+
+**15**.— (1) Where—
+
+(*a*) a relevant officer certifies in writing that a prisoner is suffering from a mental disorder for which he or she cannot be afforded appropriate care or treatment within the prison in which the prisoner is detained, and
+
+(*b*) the prisoner voluntarily consents to be transferred from the prison to a designated centre for the purpose of receiving care or treatment for the mental disorder,
+
+then the Governor of the prison may direct in writing the transfer of the prisoner to any designated centre for that purpose.
+
+(2) Where 2 or more relevant officers certify in writing that a prisoner is suffering from a mental disorder for which he or she cannot be afforded appropriate care or treatment within the prison in which the prisoner is detained, then the Governor of the prison may direct in writing the transfer of the prisoner to any designated centre for the purpose of the prisoner receiving care or treatment for the mental disorder notwithstanding that the prisoner is unwilling or unable to voluntarily consent to the transfer.
+
+(3) The Governor of a prison who gives a direction under *subsection (1)* or *(2)* shall cause—
+
+(*a*) the original of the direction to be sent to the clinical director of the designated centre to which the prisoner the subject of the direction is to be transferred,
+
+(*b*) a copy of the direction to be given to the prisoner before the prisoner is transferred to the centre,
+
+(*c*) a copy of the direction to be sent to the Minister, and
+
+(*d*) where *subsection (2)* is applicable—
+
+(i) the original of the certification concerned referred to in that subsection to accompany the original referred to in *paragraph (a)*,
+
+(ii) a copy of that certification to accompany the copy referred to in *paragraph (b)*, and
+
+(iii) a copy of that certification to accompany the copy referred to in *paragraph (c)*.
+
+(4) A direction under *subsection (1)* and *(2)* shall be sufficient authority to transfer the prisoner the subject of the direction from the prison in which the prisoner is detained to the designated centre specified in the direction.
+
+(5) Where a prisoner who has been transferred to a designated centre pursuant to a direction under *subsection (1)* refuses to receive care or treatment there for a mental disorder, then—
+
+(*a*) if 2 or more relevant officers certify in writing that the prisoner is suffering from a mental disorder for which the prisoner should remain in the centre for the purpose of the prisoner receiving care or treatment for the mental disorder, the prisoner shall continue to remain in the centre for that purpose,
+
+(*b*) in any other case—
+
+(i) the prisoner shall be transferred back to the prison from which he or she was transferred to the centre, or
+
+(ii) the prisoner shall be transferred to such other prison as the Minister considers appropriate in all the circumstances of the case.
+
+(6) Where *subsection (5)(a)* is applicable to a prisoner transferred to a designated centre, the clinical director of the centre shall cause—
+
+(*a*) a copy of the certification referred to in that subsection to be given to the prisoner as soon as is practicable after the certification has been made, and
+
+(*b*) a copy of that certification to be sent to the Minister as soon as practicable after the certification has been made.
+
+(7) Where a prisoner transferred to a designated centre pursuant to a direction under *subsection (1)* or *(2)* is required to appear in court, the prisoner may be transferred to and from court as so required.
+
+(8) A prisoner transferred under this section—
+
+(*a*) from a prison to a designated centre is deemed to be in lawful custody while being so transferred, while at the centre and while being transferred back to prison,
+
+(*b*) from a designated centre to a court is deemed to be in lawful custody while being so transferred, while in court and while being transferred back to the centre,
+
+(*c*) while being so transferred may be escorted by any members of the staff of the prison or centre, and
+
+(*d*) while being so escorted by any such members is deemed to be in their lawful custody.
+
+(9) In this section, “relevant officer” means—
+
+(*a*) an approved medical officer, or
+
+(*b*) a person registered in the General Register of Medical Practitioners established under the Medical Practitioners Acts 1978 to 2002.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C6: Term “General Register of Medical Practitioners” construed (16.03.2009) by *Medical Practitioners Act 2007* (25/2007), s. 108(2), S.I. No. 40 of 2009.
+>
+> **Construction of references to registered medical practitioner and Medical Council, etc.**
+>
+> **108**.— ...
+>
+> (2) Every reference to the General Register of Medical Practitioners contained in any other enactment or any statutory instrument shall be construed as a reference to any division of the register.
+
+## 16. Clinical director of designated centre to be notified of date on which prisoner detained in centre ceases to be prisoner, etc.
+
+**16**.— (1) Where a prisoner is detained in a designated centre pursuant to *section 15*, the Governor of the prison from which the prisoner was transferred to the centre shall, as soon as it is practicable to do so, give notice in writing to the clinical director of the centre of—
+
+(*a*) the date, if known, on which the prisoner will cease to be a prisoner, and
+
+(*b*) any change to such date.
+
+(2) Nothing in this Act shall be construed as prohibiting or restricting, on and after the date on which a prisoner who is detained in a designated centre pursuant to *section 15* ceases to be a prisoner, the voluntary or involuntary admission to or detention in any place of the former prisoner pursuant to the provisions of the Act of 2001 or any other enactment.
+
+(3) Nothing in this Act shall be construed as prohibiting or restricting any steps being taken, before the date on which a prisoner who is detained in a designated centre pursuant to *section 15* ceases to be a prisoner, to ascertain whether or not the prisoner should, on or after that date, be admitted or detained as mentioned in *subsection(2)*.
+
+## 17. Review of prisoner’s detention in designated centre.
+
+**17**.— (1) Where the Minister is satisfied that it is in the interests of justice to do so, the Minister may direct the Review Board to review the detention of a prisoner in a designated centre in any case where the detention arises pursuant to a certification referred to in *section 15(2)* or *(5)(a)*.
+
+(2) The Review Board shall ensure that the detention of a prisoner in a designated centre pursuant to *section 15* is reviewed at intervals of such length not being more than 6 months as it considers appropriate and the clinical director of the centre shall comply with any request by the Review Board in connection with the review.
+
+(3) A prisoner detained in a designated centre pursuant to *section 15* may apply to the Review Board for a review of his or her detention and the Review Board shall, unless satisfied that the review is, in all the circumstances of the case, not necessary, conduct the review and—
+
+(*a*) if satisfied that the prisoner is suffering from or continues to suffer from a mental disorder for which he or she cannot be afforded appropriate treatment within the prison from which the prisoner was transferred to the centre, refuse to make an order referred to in *paragraph (b)*,
+
+(*b*) in any other case, after consultation with the Minister—
+
+(i) order the prisoner to be transferred back to the prison from which he or she was transferred to the centre, or
+
+(ii) order the prisoner to be transferred to such other prison as the Minister considers appropriate in all the circumstances of the case.
+
+(4) Notwithstanding *subsection (1)*, the Review Board may on its own initiative review the detention of a prisoner in a designated centre pursuant to *section 15*, and *subsection (3)* shall apply to such review as if the prisoner had applied for the review under that subsection.
+
+(5) This section shall, with all necessary modifications, apply to a prisoner detained in a relevant place before the commencement of this section as it applies to a prisoner detained in a designated centre on or after that commencement.
+
+(6) In *subsection (5)*, “relevant place” means any place which, on or after the commencement of this section, is a designated centre.
+
+## 18. Transfer back to prison.
+
+**18**.— Where the clinical director of a designated centre forms the opinion in relation to a prisoner detained in the centre pursuant to *section 15* that he or she is no longer in need of in-patient care or treatment he or she shall, after consultation with the Minister, direct in writing—
+
+(*a*) the transfer of the prisoner back to the prison from which he or she was transferred to the centre, or
+
+(*b*) the transfer of the prisoner to such other prison as the Minister considers appropriate in all the circumstances of the case.
+
+## 19. Notice to be given of intention to adduce evidence as to mental condition, etc.
+
+**19**.— (1) Where in any proceedings for an offence the defence intends to adduce evidence as to the mental condition of the accused, notice of the intention shall be given to the prosecution within 10 days of the accused being asked how he or she wishes to plead to the charge.
+
+(2) Where the notice referred to in *subsection (1)* is not given within the period specified in that subsection, then, without prejudice to any other provision of this Act, evidence shall not, without leave of the court, be adduced by the defence during the course of the trial for the offence concerned as to the mental condition of the accused.
+
+(3) A notice referred to in *subsection (1)* shall be in such form as rules of court provide.
+
+## 20. Application to existing detentions.
+
+**20**.— (1) This Act shall apply to a person detained under section 17 of the Lunacy (Ireland) Act 1821, as if he or she were a person detained pursuant to an order under *section 4* and, accordingly, such a person shall be entitled to the benefit of the provisions of this Act.
+
+(2) This Act shall apply to a person found guilty but insane and detained under section 2 of the Trial of Lunatics Act 1883, as if he or she were a person detained pursuant to an order of the court made under *section 5* and, accordingly, such a person shall be entitled to the benefit of the provisions of this Act.
+
+## 21. Amendment of Defence Act 1954.
+
+**21**.— The Defence Act 1954, is hereby amended by the substitution for sections 202, 203 and 203A thereof of the following sections:
+
+“Mental disorder at time of trial.
+
+202.— (1) Where at the trial by court-martial of a person charged with an offence it appears that such person is by reason of mental disorder unfit to take his trial the following provisions, subject to subsection (4), shall have effect, that is to say:
+
+(*a*) the court-martial shall find specially that fact,
+
+(*b*) the court-martial, if it is satisfied having heard evidence relating to the mental condition of the person given by a consultant psychiatrist that such person is suffering from a mental disorder (within the meaning of the Act of 2001) and is in need of in-patient care or treatment in a designated centre, shall commit him to a specified designated centre until an order is made under *section* *13* of the *Criminal Law* *(Insanity) Act 2006*.
+
+(2) A finding under this section shall not require confirmation or be subject to revision.
+
+(3) A person charged with an offence shall not be fit to take his trial if he is unable by reason of mental disorder to understand the nature or course of the proceedings so as to—
+
+(*a*) plead to the charge,
+
+(*b*) instruct a legal representative,
+
+(*c*) make a proper defence, or
+
+(*d*) understand the evidence.
+
+(4) After the court-martial has found that a person charged with an offence is unfit to take his trial, it may on application to it and without prejudice to any further proceedings allow evidence to be adduced before it as to whether or not that person did the act or made the omission alleged against him and if the court-martial is satisfied that there is a reasonable doubt that the person committed that act or made the omission it shall acquit him.
+
+(5) In this section and in section 203 of this Act ‘mental disorder’ and ‘designated centre’ shall have the meanings respectively assigned to them by *section* *1* of the *Criminal Law (Insanity) Act* *2006*, unless the context otherwise requires.
+
+Mental disorder at time of commission of offence.
+
+203.— (1) Where at the trial by court-martial of a person charged with an offence, the court-martial finds that the person did the act or made the omission charged but, having heard evidence relating to his mental condition given by a consultant psychiatrist, finds that he was at the time when he did the act or made the omission suffering from a mental disorder and that the mental disorder was such that he should not be held responsible for the act or omission alleged by reason of the fact that—
+
+(*a*) he did not know the nature and quality of the act he was doing, or
+
+(*b*) he did not know what he was doing was wrong, or
+
+(*c*) he was unable to refrain from committing the act or making the omission,
+
+the court-martial shall specially find that theperson is not guilty by reason of insanity.
+
+(2) If the court-martial having considered any evidence adduced before it is satisfied that the person found not guilty by reason of insanity is suffering from a mental disorder (within the meaning of the Act of 2001) and is in need of in-patient care or treatment in a designated centre the court-martial shall, after consultation with the clinical director of the designated centre concerned, commit him to a specified designated centre until an order is made under *section* *13* of the *Criminal Law* *(Insanity) Act 2006*.
+
+(3) A finding under this section shall not require confirmation or be subject to revision.
+
+Diminished responsibility.
+
+203A.— *Section* *6* of the *Criminal Law (Insanity)* *Act 2006*, shall apply with any necessary modifications to a person subject to military law who is tried by court-martial for murder as it applies to a person who is tried for murder.”.
+
+## 22. Amendment of Infanticide Act 1949.
+
+**22**.— Section 1(3) of the Infanticide Act 1949 is hereby amended—
+
+(*a*) in subsection (3)(c), by the substitution of “by reason of a mental disorder (within the meaning of the *Criminal Law (Insanity) Act 2006*)” for “by reason of the effect of lactation”, and
+
+(*b*) by the substitution of “as for manslaughter and, on conviction may be dealt with under *section 6(3)* of the *Criminal Law (Insanity) Act 2006* as if she had been found guilty of manslaughter on the grounds of diminished responsibility” for “and punished as for manslaughter”.
+
+## 23. Expenses.
+
+**23**.— The expenses incurred by the Minister and the Minister for Health and Children in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## 24. Grants to Review Board.
+
+**24**.— The Minister may, in each financial year, after consultation with the Review Board in relation to its proposed work programme and expenditure for that year, make grants of such amount as may be sanctioned by the Minister for Finance out of moneys provided by the Oireachtas towards other expenditure incurred by the Review Board in the performance of its functions.
+
+## 25. Repeals and transitional provision.
+
+**25**.— (1) The enactments specified in *column 3* of *Schedule 2* to this Act opposite a reference number specified in *column 1* are hereby repealed to the extent specified in *column 4* of that Schedule opposite the mention of that reference number.
+
+(2) An instrument made under an enactment repealed by this Act and in force immediately before the commencement of this section shall, notwithstanding the repeal, continue in force after such commencement.
+
+## 26. Short title and commencement.
+
+**26**.— (1) This Act may be cited as the Criminal Law (Insanity) Act 2006.
+
+(2) This Act shall come into operation on such day or days as, by order or orders made by the Minister under this section, may be fixed therefor either generally or with reference to any particular purpose or provision, and different days may be so fixed for different purposes and different provisions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E12: Power pursuant to section exercised (1.06.2006) by *Criminal Law (Insanity) Act 2006 (Commencement) Order 2006* (S.I No. 273 of 2006), art. 2.
+>
+> 2\. The 1<sup>st</sup> day of June 2006 is appointed as the day on which the Criminal Law (Insanity) Act 2006 (No. 11 of 2006) (other than section 13(1) comes into operation.
+
+## SCHEDULE 1 — Mental Health (Criminal Law) Review Board
+
+1\. The Review Board shall consist of a chairperson and such number of members as the Minister, after consultation with the Minister for Health and Children, may from time to time as the occasion requires F18[appoint. The Minister may also appoint a deputy chairperson to the Review Board, where the Minister, after undertaking such consultation, considers it to be appropriate.] The Review Board shall have as an ordinary member, at least one approved medical officer.
+
+2\. The F19[chairperson and, where applicable, the deputy chairperson] shall have had not less than 10 years’ experience as a practising barrister or practising solicitor ending immediately before his or her appointment or shall be a judge of or former judge of the Circuit Court, High Court F21[, Court of Appeal] or Supreme Court.
+
+3\. The members of the Review Board shall, subject to the provisions of this Schedule, hold office upon such terms and conditions as the Minister may determine.
+
+4\. The term of office of a member of the Review Board shall be 5 years and subject to the provisions of this Schedule, he or she shall be eligible for re-appointment as such member.
+
+5\. A member of the Review Board may at any time resign his or her office by letter addressed to the Minister and the resignation shall take effect on and from the date of receipt of the letter.
+
+6\. A member of the Review Board may be removed from office by the Minister, after consultation with the Minister for Health and Children, for stated reasons.
+
+7\. The F20[chairperson and, where applicable, the deputy chairperson (other than a chairperson or deputy chairperson who is a serving judge)] and each member of the Review Board shall be paid, out of monies provided by the Oireachtas, such remuneration (if any) and such allowances or expenses as the Minister may, with the consent of the Minister for Finance, determine.
+
+8\. If a member of the Review Board dies, resigns, becomes disqualified or is removed from office, the Minister may appoint another person to be a member of the Review Board to fill the casual vacancy so occasioned and the person so appointed shall be appointed in the same manner as the member of the Review Board who occasioned the vacancy and shall hold office for the remainder of the term of office for which his or her predecessor was appointed.
+
+F22[8A. In the event that the chairperson is temporarily unable to perform his or her functions as chairperson due to absence or incapacity—
+
+(*a*) where a deputy chairperson has been appointed, the deputy chairperson shall act as chairperson for the duration of the period of absence or incapacity, or
+
+(*b*) where a deputy chairperson has not been appointed or the deputy chairperson is temporarily unable to act as chairperson due to absence or incapacity, the Minister may appoint—
+
+(i) a member of the Review Board, or
+
+(ii) any other person,
+
+possessing the qualifications referred to in *paragraph 2* of this Schedule, to act as chairperson during the period during which the chairperson is unable to so act.]
+
+9\. The Minister may appoint such and so many persons to be members of the staff of the Review Board as he or she considers necessary to assist the Review Board in the performance of its functions and such members of the staff of the Review Board shall hold their offices or employment on such terms and subject to such conditions and receive such remuneration as the Minister may, with the consent of the Minister for Finance, determine.
+
+10\. Members of the staff of the Review Board shall be civil servants within the meaning of the Civil Service Regulation Act 1956.
+
+11\. The Review Board shall hold such sittings as may be necessary for the performance of its functions under this Act.
+
+12\. Every question at a sitting of the Review Board shall be determined by a majority of the votes of the members voting on the question and, in the case of an equal division of votes, the chairperson shall have a casting vote.
+
+13\. Subject to the provisions of this Schedule, the Review Board shall establish its own rules of procedure.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F18, F19, F20: Substituted (1.11.2023) by *Criminal Justice (Miscellaneous Provisions) Act 2023* (24/2023), s. 72(a)-(c), S.I. No. 525 oof 2023.
+>
+> F21: Inserted (28.10.2014) by *Court of Appeal Act 2014* (18/2014), s. 65(b), S.I. No. 479 of 2014.
+>
+> F22: Inserted (1.11.2023) by *Criminal Justice (Miscellaneous Provisions) Act 2023* (24/2023), s. 72(d), S.I. No. 525 oof 2023.
+
+## SCHEDULE 2 — Enactments Repealed
+
+| Reference Number | Session and Chapter or Year and Number | Short Title | Extent of Repeal |
+|---|---|---|---|
+| (1) | (2) | (3) | (4) |
+| 1. | 39 & 40 Geo. 3 c.94 | Criminal Lunatics Act 1800 | The whole Act |
+| 2. | 1 & 2 Geo. 4 c.33 | Lunacy (Ireland) Act 1821 | Sections 17 and 18 |
+| 3. | 1 Vict., c.27 | Criminal Lunatics (Ireland) Act 1838 | Sections 2 and 3 |
+| 4. | 8 & 9 Vict., c. 107 | Central Criminal Lunatic Asylum (Ireland) Act 1845 | Sections 8 and 12 |
+| 5. | 38 & 39 Vict., c.67 | Lunatic Asylums (Ireland) Act 1875 | Section 13 |
+| 6. | 46 & 47 Vict., c.38 | Trial of Lunatics Act 1883 | The whole Act |
+| 7. | 1924, No. 10 | Courts of Justice Act 1924 | Section 35 |
+| 8. | 1960, No. 27 | Criminal Justice Act 1960 | Section 8 |
+| 9. | 1976, No. 4 | Juries Act 1976 | Section 19(2) |
+| 10. | F23[ 1967, No. 12 ] | F23[ Criminal Procedure Act 1967 ] | F23[ Section 4A(1)(*c*) ] |
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F23: Substituted (8.02.2011) by *Criminal Law (Insanity) Act 2010* (40/2010), s. 9, S.I. No. 50 of 2011.

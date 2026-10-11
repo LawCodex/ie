@@ -1,0 +1,1498 @@
+---
+title: "Registration of Deeds and Title Act 2006"
+identifier: "eli/2006/act/12"
+type: act
+jurisdiction: ie
+language: en
+number: 12
+year: 2006
+date: 2006-05-07
+last_amended: 2023-07-31
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2006/act/12/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2006/act/12/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Registration of Deeds and Title Act 2006
+
+AN ACT TO ESTABLISH A BODY TO BE KNOWN AS AN tÚDARÁS CLÁRÚCHÁIN MAOINE OR, IN THE ENGLISH LANGUAGE, THE PROPERTY REGISTRATION AUTHORITY, WITH THE FUNCTIONS CONFERRED ON IT BY THIS ACT, INCLUDING THE MANAGEMENT AND CONTROL OF THE REGISTRY OF DEEDS AND THE LAND REGISTRY, TO REPEAL AND RE-ENACT, WITH AMENDMENTS, THE LAW RELATING TO THE REGISTRATION OF DEEDS AND OTHER DOCUMENTS AFFECTING LAND, TO AMEND THE LAW RELATING TO THE REGISTRATION OF TITLE TO LAND AND TO AMEND SECTIONS 16 AND 28 OF THE LANDLORD AND TENANT (GROUND RENTS) (NO. 2) ACT 1978.
+
+[7*th May*, 2006]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred and references to "the Property Registration Authority" construed (1.03.2023) by *Tailte Éireann Act 2022* (50/2022), ss. 27, 28, 29, S.I. No. 66 of 2023.
+>
+> **Dissolution of bodies**
+>
+> **27.** Each of the following bodies (in this Act referred to as a “dissolved body”) is dissolved on the establishment day:
+>
+> (*a*) the Property Registration Authority;
+>
+> ...
+>
+> **Transfer of functions to Tailte Éireann**
+>
+> **28.** On the establishment day, all functions that, immediately before the establishment day, were vested in—
+>
+> (*a*) a dissolved body,
+>
+> ...
+>
+> are transferred to Tailte Éireann.
+>
+> ...
+>
+> **References in enactments**
+>
+> **29.** References in any enactment (other than this Act) or any instrument made under such an enactment, to—
+>
+> (*a*) a dissolved body,
+>
+> ...
+>
+> shall, on and after the establishment day, be construed as references to Tailte Éireann.
+>
+> …
+>
+> C2: Prospective affecting provisions: application of collectively cited *Registration of Deeds and Title Acts 1964 and 2006* restricted by *Minerals Development Act 2017* (23/2017), ss. 112(5) and 149(4), not commenced as of date of revision.
+>
+> **Mining facilities acquisition order**
+>
+> **112.** ....
+>
+> (3) On the making of a mining facilities acquisition order for the purpose of acquiring an ancillary surface right, the right is vested in the Minister on behalf of the State.
+>
+> (4) On the making of a mining facilities acquisition order for the purpose of acquiring an estate or interest in land, the estate or interest is vested in the licensee.
+>
+> (5) Notwithstanding the Registration of Deeds and Title Acts 1964 and 2006, the vesting of an ancillary surface right, estate or interest under subsections (3) and (4) that affects registered land occurs when the order is made.
+>
+> ...
+>
+> **Rehabilitation acquisition order**
+>
+> **149.** ...
+>
+> (3) On the making of a rehabilitation acquisition order for the purpose of acquiring an estate or interest in land, the estate or interest is vested in the Minister on behalf of the State.
+>
+> (4) The vesting of an estate or interest under *subsection (3)* that affects registered land occurs when the order is made notwithstanding the provisions of the Registration of Deeds and Title Acts 1964 and 2006.
+>
+> ...
+>
+> C3: Functions transferred and references to “Department of Justice and Equality” and “Minister for Justice and Equality” construed (1.01.2018) by *Property Registration Authority (Transfer of Departmental Administration and Ministerial Functions) Order 2017* (S.I. No. 574 of 2017), arts. 2 and 3, in effect as per art. 1(2), subject to transitional provisions in arts. 4-8. Note change of Title of Minister and name of Department from Justice, Equality and Law Reform to Justice and Law Reform (2.06.2010) by *Justice, Equality and Law Reform (Alteration of Name of Department and Title of Minister) Order 2010* (S.I. No. 216 of 2010), in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of the functions transferred by Article 3 are transferred to the Department of Housing, Planning and Local Government.
+>
+> (2) References to the Department of Justice and Equality contained in any Act or any instrument made thereunder and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Housing, Planning and Local Government.
+>
+> 3\. (1) The functions vested in the Minister for Justice and Equality by or under— ...
+>
+> (*c*) the Registration of Deeds and Title Act 2006 (No. 12 of 2006),
+>
+> are transferred to the Minister for Housing, Planning and Local Government.
+>
+> (2) References to the Minister for Justice and Equality contained in any Act or instrument made thereunder and relating to any functions transferred by this Article shall, from the commencement of this Order, be construed as references to the Minister for Housing, Planning and Local Government.
+>
+> C4: Charging of fees restricted (24.05.2017) by *Forestry Act 2014* (31/2014), s. 21(5), S.I. No. 189 of 2017.
+>
+> **Registration under Act of 2006 of conditions and replanting orders**
+>
+> **21.** ...
+>
+> (5) No fees shall be payable to the Authority in respect of any steps taken under this section.
+>
+> C5: Application of collectively cited *Registration of Deeds and Title Acts 1964 and 2006* restricted (15.07.2015) by *European Union (Bank Recovery and Resolution) Regulations 2015* (S.I. No. 289 of 2015), reg. 76, in effect as per reg. 1(2).
+>
+> *Effect of transfer by resolution order in relation to securities.*
+>
+> 76\. (1) On and after a transfer under a resolution order or a capital instruments order, or a transfer having effect in the State in accordance with Regulation 126 in relation to property referred to in paragraph (3)(d) or (e) of Regulation 75, or a security referred to in subparagraph (f) of that paragraph, transferred by the relevant order or in accordance with Regulation 126—
+>
+> (*a*) notwithstanding any provision of an Act referred to in paragraph (2) or any other Act that provides for the registration of assets or security, or any details of assets or security, a recipient is not required to become registered as owner of the security,
+>
+> (*b*) notwithstanding sections 62 and 64 of the Registration of Title Act 1964 (No. 16 of 1964), a recipient has, in relation to any charge that is or is part of such a security, the powers of a mortgagee under a mortgage by deed, even though the recipient is not registered as owner of the charge,
+>
+> (*c*) the recipient has the powers and rights conferred on the registered owner of a charge by the Registration of Title Act 1964, and
+>
+> (*d*) where the resolution order effects an extension of, or in relation to the security so as to include future advances by or future liabilities to the recipient, the extension or inclusion need not be registered under any Act referred to in paragraph (2) under which it would otherwise be required to be registered but operates for the purposes of those Acts as if made by deed duly registered under that Act on the time of the transfer.
+>
+> (2) The Acts referred to in paragraph (1)(a) and (d) are the following: ...
+>
+> (*d*) the Registration of Deeds and Title Acts 1964 and 2006;
+>
+> ...
+>
+> C6: Application of collectively cited *Registration of Deeds and Title Acts 1964 and 2006* restricted (28.10.2011) by *Central Bank and Credit Institutions (Resolution) Act 2011* (27/2011), s. 50, S.I. No. 548 of 2011.
+>
+> **Effect of transfer order in relation to securities.**
+>
+> **50**. (1) On and after the transfer of assets and liabilities under a transfer order, in relation to property referred to in paragraph (d) or (e) of subsection (4) of section 49 or a security referred to in paragraph (f) of that subsection, transferred by the order—
+>
+> (*a*) notwithstanding any provision of an Act referred to in subsection (2) or any other Act that provides for the registration of assets or security, or any details of assets or security, a transferee is not required to become registered as owner of the security,
+>
+> ...
+>
+> (*d*) if the transfer order effects an extension of or in relation to the security so as to include future advances by or future liabilities to the transferee, the extension need not be registered under any Act referred to in subsection (2) under which it would otherwise be required to be registered, but operates for the purposes of those Acts as if made by deed duly registered under that Act on the time of the transfer.
+>
+> (2) The Acts referred to in paragraphs (a) and (d) of subsection (1) are the following:
+>
+> ...
+>
+> (*d*) the Registration of Deeds and Title Acts 1964 and 2006;
+>
+> ...
+>
+> C7: Application of collectively cited *Registration of Deeds and Title Acts 1964 and 2006* extended (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), arts. 14(6) and 18(9), in effect as per art. 1(3).
+>
+> *Designation, amendment and de-designation of special areas of conservation*
+>
+> 14\. ...
+>
+> (6) Any designation made under this Regulation, and any amendment or revocation thereof, may be registered under the Registration of Deeds and Title Acts 1964 and 2006, in the appropriate register maintained under those Acts as a burden on the land.
+>
+> ...
+>
+> *Designation, amendment and de-designation of special protection areas*
+>
+> 18\. ...
+>
+> (9) Any designation made under this Regulation, and any amendment or revocation thereof, may be registered under the Registration of Deeds and Title Acts 1964 and 2006, in the appropriate register maintained under those Acts as a burden on the land.
+>
+> ...
+>
+> C8: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 12 of 2006</td><td>Registration of Deeds and Title Act 2006</td><td>Sections 10(5)(a), 17(3) and (7), 21,<br>73(4), (6), (7) and (8)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> C9: Application of collectively cited *Registration of Deeds and Title Acts 1964 to 2006* restricted (21.12.2010) by *Credit Institutions (Stabilisation) Act 2010* (36/2010), s. 40, S.I. No. 623 of 2010.
+>
+> **Effect of transfer order in relation to securities.**
+>
+> **40**. (1) On and after the transfer of assets and liabilities under a transfer order, in relation to property referred to in paragraph (d) or (e) of section 39 (4) or a security referred to in paragraph (f) of that section, transferred by the order—
+>
+> (*a*) notwithstanding any provision of an Act listed in *subsection (2)* or any other Act that provides for the registration of assets or security, or any details of assets or security, a transferee is not required to become registered as owner of the security,
+>
+> ...
+>
+> (*d*) where the transfer order effects an extension of or in relation to the security so as to include future advances by or future liabilities to the transferee, the extension need not be registered under any Act listed in *subsection (2)* under which it would otherwise be required to be registered, but operates for the purposes of those Acts as if made by deed duly registered under that Act on the date of transfer.
+>
+> (2) The Acts referred to in *paragraphs (a)* and *(d)* of *subsection (1)* are the following:
+>
+> ...
+>
+> (*d*) the Registration of Deeds and Title Acts 1964 and 2006
+>
+> ...
+>
+> C10: Obligation imposed on National Asset Management Agency to send compulsory transfer order to Property Registration Authority under Act (21.12.2009) by *National Asset Management Agency Act 2009* (34/2009), s. 169(3), S.I. No. 545 of 2009.
+>
+> **Form and effect of compulsory transfer order.**
+>
+> **169**. ...
+>
+> (3) NAMA shall cause a compulsory transfer order to be sent to the Property Registration Authority under the Registration of Title Act 1964 and the Registration of Deeds and Title Act 2006. The Property Registration Authority shall cause NAMA or the nominated NAMA group entity referred to in section 163(1) to be registered as owner of the land in accordance with the order.
+>
+> C11: Obligation imposed on National Asset Management Agency to send vesting order to Property Registration Authority under Act (21.12.2009) by *National Asset Management Agency Act 2009* (34/2009), s. 155(4), S.I. No. 545 of 2009.
+>
+> **Effect of vesting order.**
+>
+> **155**.— ...
+>
+> (4) NAMA shall cause a vesting order to be sent to the Property Registration Authority under the Registration of Title Act 1964 and the Registration of Deeds and Title Act 2006. The Property Registration Authority shall cause NAMA or the nominated NAMA group entity, as the case requires, to be registered as owner of the land in accordance with the order.
+>
+> C12: Application of collectively cited *Registration of Deeds and Title Acts 1964 and 2006* restricted (21.12.2009) by *National Asset Management Agency Act 2009* (34/2009), s. 107(1)(a) and (2)(d), S.I. No. 545 of 2009.
+>
+> **NAMA not required to register certain instruments, etc.**
+>
+> **107**. (1) Where a bank asset has been acquired by NAMA or a NAMA group entity—
+>
+> (*a*) notwithstanding anything in any Act listed in subsection (2) or any other Act that provides for the registration of assets, security or details of them, NAMA or the NAMA group entity is not required to become registered as owner of any security that is part of the bank asset.
+>
+> ...
+>
+> (2) The Acts referred to *subsection (1)(a)* are the following:
+>
+> ...
+>
+> (*d*) the Registration of Deeds and Title Acts 1964 and 2006;
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E1: Provision made for registration under this Act of certain orders relating to mergers and divisions of companies (1.06.2015) by *Companies Act 2014* (38/2014), ss. 480, 503, 1144 and 1166, S.I. No. 169 of 2015.
+
+## PART 1 Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title, collective citation and construction.
+
+**1**.— (1) This Act may be cited as the Registration of Deeds and Title Act 2006.
+
+(2) The Registration of Title Act 1964 and this Act (other than *sections 76* and *77*) may be cited together as the Registration of Deeds and Title Acts 1964 and 2006 and are to be construed together as one.
+
+### 2. Commencement.
+
+**2**.— (1) Subject to *subsection* *(2)* , this Act comes into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision, and different days may be so appointed for different purposes or provisions.
+
+(2) *Sections* *76* and *77* come into operation on the passing of this Act.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E2: Power pursuant to section exercised (1.05.2008) by *Registration of Deeds and Title Act 2006 (Commencement) Order 2008* (S.I. No. 1 of 2008).
+>
+> 2\. The 1st day of May, 2008 is appointed as the day on which the following provisions of the Registration of Deeds and Title Act 2006 (No. 12 of 2006) come into operation:
+>
+> (*a*) section 4 (in so far as it applies to Part 1 of the Schedule to the Act),
+>
+> (*b*) sections 32 to 45 and 49,
+>
+> (*c*) Part 1 of the Schedule.
+>
+> E3: Power pursuant to section exercised (1.09.2007) by *Registration of Deeds and Title Act 2006 (Section 66) (Commencement) Order 2007* (S.I. No. 537 of 2007).
+>
+> 2\. The 1st day of September, 2007 is appointed as the day on which section 66 of the Act of 2006 (No. 12 of 2006) comes into operation.
+>
+> E4: Power pursuant to section exercised (4.11.2006 and 1.01.2007) by *Registration of Deeds and Title Act 2006 (Commencement) (No. 2) Order 2006* (S.I. No. 511 of 2006).
+>
+> 3\. The 4th day of November, 2006 is appointed as the day on which the following provisions of the Act of 2006 come into operation, namely —
+>
+> (*a*) section 4 (except in so far as it applies to Part 1 of the Schedule to the Act of 2006),
+>
+> (*b*) Part 2,
+>
+> (*c*) sections 46 to 48,
+>
+> (*d*) sections 50(e) and 51, paragraphs (b) and (d) of section 52, sections 53 to 57, 61, 62, 64, 67, 71 and 72,
+>
+> (*e*) sections 74, 75 and 78, and
+>
+> (*f*) Part 2 of the Schedule.
+>
+> 4\. The 1st day of January 2007 is appointed as the day on which section 73 of the Act of 2006 comes into operation.
+>
+> E5: Power pursuant to section exercised (26.05.2006) by *Registration of Deeds and Title Act 2006 (Commencement) Order 2006* (S.I. No. 271 of 2006).
+>
+> 2\. The 26th day of May 2006 is appointed as the day on which the following provisions of the Registration of Deeds and Title Act 2006 come into operation:
+>
+> Sections 1 to 3, 5 and 6, 50 (except paragraph (e)), 52 (except paragraphs (b) and (d)), 58 to 60, 63, 65 and 68 to 70.
+
+### 3. Interpretation.
+
+**3**.— In this Act—
+
+“Act of 1964” means the Registration of Title Act 1964;
+
+“Authority” means the Property Registration Authority established under *section 9*;
+
+“general rules” means rules under *section 48* or under section 126 of the Act of 1964;
+
+“Minister” means the Minister for Justice, Equality and Law Reform.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C13: Functions transferred and references to “Department of Justice and Equality” and “Minister for Justice and Equality” construed (1.01.2018) by *Property Registration Authority (Transfer of Departmental Administration and Ministerial Functions) Order 2017* (S.I. No. 574 of 2017), arts. 2 and 3, in effect as per art. 1(2), subject to transitional provisions in arts. 4-8. Note earlier change of title of Minister and name of Department from Justice, Equality and Law Reform to Justice and Law Reform (2.06.2010) by *Justice, Equality and Law Reform (Alteration of Name of Department and Title of Minister) Order 2010* (S.I. No. 216 of 2010), in effect as per art. 1(2). Title of Minister and name of Department changed from Housing, Planning and Local Government to Housing, Local Government and Heritage (30.09.2020) by *Housing, Planning and Local Government (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 408 of 2020), in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of the functions transferred by Article 3 are transferred to the Department of Housing, Planning and Local Government.
+>
+> (2) References to the Department of Justice and Equality contained in any Act or any instrument made thereunder and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Housing, Planning and Local Government.
+>
+> 3\. (1) The functions vested in the Minister for Justice and Equality by or under— ...
+>
+> (*c*) the Registration of Deeds and Title Act 2006 (No. 12 of 2006),
+>
+> are transferred to the Minister for Housing, Planning and Local Government.
+>
+> (2) References to the Minister for Justice and Equality contained in any Act or instrument made thereunder and relating to any functions transferred by this Article shall, from the commencement of this Order, be construed as references to the Minister for Housing, Planning and Local Government.
+
+### 4. Repeals and consequential amendment of Act of 1964.
+
+**4**.— (1) The enactments specified in the *Schedule* to this Act are repealed to the extent specified in the third column thereof.
+
+(2) References in the Act of 1964 to a registering authority and the Registrar, and references in it and in any other enactment to the Registrar of Titles or Registrar of Deeds, are deleted and references to the Authority inserted.
+
+(3) Accordingly, the words “he”, “him” and “his”, where referring in that Act or other enactment to a registering authority or the Registrar, Registrar of Titles or Registrar of Deeds, are also deleted and, as appropriate, “it” or “its” inserted.
+
+(4) The Act of 1964 is further amended by the deletion of “central office” in sections 8, 108(2) and 121(2) and the insertion of “Land Registry”.
+
+### 5. Expenses.
+
+**5**.— The expenses incurred in respect of the Authority under this Act and the Act of 1964 and any other expenses incurred by the Minister in the administration of those Acts shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+### 6. Laying of orders and general rules before Houses of the Oireachtas.
+
+**6**.— An order under *section* *21* or under section 24 of the Act of 1964 and any general rules shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling it is passed by either House within the subsequent 21 days on which that House has sat after it is laid before it, the order or rule is annulled accordingly, but without prejudice to the validity of anything previously done under it.
+
+## PART 2 Property Registration Authority — PART 2 — Property Registration Authority
+
+### 7. Establishment day.
+
+**7**.—F1[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Repealed (1.03.2023) by *Tailte Éireann Act 2022* (50/2022), s. 5 and sch. 2 2, S.I. No. 58 of 2023.
+>
+> E6: Previous affecting provision: power pursuant to section exercised (4.11.2006) by *Registration of Deeds and Title Act 2006 (Establishment Day) Order 2006* (S.I. No. 512 of 2006), art. 2; section repealed as per F-note above.
+
+### 8. Definition (Part 2).
+
+**8**.—F2[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F2: Repealed (1.03.2023) by *Tailte Éireann Act 2022* (50/2022), s. 5 and sch. 2, S.I. No. 58 of 2023.
+
+### 9. Property Registration Authority.
+
+**9**.—F3[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F3: Repealed (1.03.2023) by *Tailte Éireann Act 2022* (50/2022), s. 5 and sch. 2, S.I. No. 58 of 2023.
+>
+> **Modifications (not altering text):**
+>
+> C14: Functions transferred and references to "the Property Registration Authority" construed (1.03.2023) by *Tailte Éireann Act 2022* (50/2022), ss. 27, 28, 29, S.I. No. 66 of 2023.
+>
+> **Dissolution of bodies**
+>
+> **27.** Each of the following bodies (in this Act referred to as a “dissolved body”) is dissolved on the establishment day:
+>
+> (*a*) the Property Registration Authority;
+>
+> ...
+>
+> **Transfer of functions to Tailte Éireann**
+>
+> **28.** On the establishment day, all functions that, immediately before the establishment day, were vested in—
+>
+> (*a*) a dissolved body,
+>
+> ...
+>
+> are transferred to Tailte Éireann.
+>
+> ...
+>
+> **References in enactments**
+>
+> **29.** References in any enactment (other than this Act) or any instrument made under such an enactment, to—
+>
+> (*a*) a dissolved body,
+>
+> ...
+>
+> shall, on and after the establishment day, be construed as references to Tailte Éireann.
+>
+> …
+
+### 10. Functions of Authority.
+
+**10**.— (1) The functions of the Authority are—
+
+(*a*) to manage and control the Registry of Deeds and the Land Registry,
+
+(*b*) to promote and extend the registration of ownership of land,
+
+(*c*) to deal with applications under Part III of the Landlord and Tenant (Ground Rents) (No. 2) Act 1978,
+
+(*d*) to undertake or commission, or collaborate or assist in, research projects and activities relating to the registration of ownership of land, including the compilation of statistical data needed for the proper planning, development and provision of services related to such registration,
+
+(*e*) to perform any additional functions conferred on it under *subsection* *(4)* , and
+
+(*f*) to keep the Minister informed of progress in relation to the registration of ownership of land and to assist him or her in the development of policy in relation to such registration.
+
+(2) The Authority may disseminate, to such extent and in such manner as it considers appropriate, information in relation to the services provided by it and their availability.
+
+(3) The Authority may, subject to this Act, do anything which it considers necessary or expedient to enable it to perform its functions.
+
+(4) The Minister may by order confer on the Authority such additional functions connected with the functions for the time being of the Authority as he or she considers appropriate.
+
+(5) An order under this section—
+
+(*a*) shall be made with the consent of the Minister for Finance and after consultation with the Authority,
+
+(*b*) may be subject to any conditions specified in the order, and
+
+(*c*) may contain such incidental, supplemental or consequential provisions as may, in the opinion of the Minister, be necessary to give full effect to it.
+
+(6) The Minister may by order amend or revoke an order under this section, including an order under this subsection.
+
+### 11. Membership.
+
+**11**.—F4[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F4: Repealed (1.03.2023) by *Tailte Éireann Act 2022* (50/2022), s. 5 and sch. 2, S.I. No. 58 of 2023.
+>
+> **Editorial Notes:**
+>
+> E7: Previous affecting provision: subs. (6) amended (1.12.2009) by *Land and Conveyancing Law Reform Act 2009* (27/2009), s. 8(1) and sch. 1, S.I. No. 356 of 2009; section repealed as per F-note above.
+
+### 12. Vacancies.
+
+**12**.—F5[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F5: Repealed (1.03.2023) by *Tailte Éireann Act 2022* (50/2022), s. 5 and sch. 2, S.I. No. 58 of 2023.
+>
+> **Editorial Notes:**
+>
+> E8: Previous affecting provision: subs. (3) amended (1.12.2009) by *Land and Conveyancing Law Reform Act 2009* (27/2009), s. 8(1) and sch. 1, S.I. No. 356 of 2009; section repealed as per F-note above.
+
+### 13. Membership etc., of Dáil, Seanad or European Parliament.
+
+**13**.—F6[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F6: Repealed (1.03.2023) by *Tailte Éireann Act 2022* (50/2022), s. 5 and sch. 2, S.I. No. 58 of 2023.
+
+### 14. Disclosure of interests.
+
+**14**.—F7[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F7: Repealed (1.03.2023) by *Tailte Éireann Act 2022* (50/2022), s. 5 and sch. 2, S.I. No. 58 of 2023.
+>
+> **Editorial Notes:**
+>
+> E9: Previous affecting provision: subs. (2)(a), (b), (c), (d) amended (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97 and sch. part 1 item 41, S.I. No. 648 of 2010; section repealed as per F-note above.
+
+### 15. Non-disclosure of confidential information.
+
+**15**.—F8[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F8: Repealed (1.03.2023) by *Tailte Éireann Act 2022* (50/2022), s. 5 and sch. 2, S.I. No. 58 of 2023.
+
+### 16. Meetings.
+
+**16**.—F9[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F9: Repealed (1.03.2023) by *Tailte Éireann Act 2022* (50/2022), s. 5 and sch. 2, S.I. No. 58 of 2023.
+
+### 17. Committees, consultants and advisers to Authority.
+
+**17**.—F10[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F10: Repealed (1.03.2023) by *Tailte Éireann Act 2022* (50/2022), s. 5 and sch. 2, S.I. No. 58 of 2023.
+
+### 18. Strategic plans.
+
+**18**.—F11[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F11: Repealed (1.03.2023) by *Tailte Éireann Act 2022* (50/2022), s. 5 and sch. 2, S.I. No. 58 of 2023.
+
+### 19. Reports to Minister.
+
+**19**.—F12[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F12: Repealed (1.03.2023) by *Tailte Éireann Act 2022* (50/2022), s. 5 and sch. 2, S.I. No. 58 of 2023.
+
+### 20. General policy directives.
+
+**20**.—F13[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F13: Repealed (1.03.2023) by *Tailte Éireann Act 2022* (50/2022), s. 5 and sch. 2, S.I. No. 58 of 2023.
+
+### 21. Fees.
+
+**21**.—F14[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F14: Repealed (24.03.2023) by *Tailte Éireann Act 2022* (50/2022), s. 5 and sch. 2, S.I. No. 117 of 2023.
+>
+> **Editorial Notes:**
+>
+> E10: Previous affecting provision: power pursuant to subs. (1) exercised (1.01.2021 to 31.12.2023) by *Registration of Deeds and Title Act 2006 (Fees) Order 2020* (S.I. No. 544 of 2020), in effect as per art. 1(b); enabling provision repealed as per F-note above.
+>
+> E11: Previous affecting provision: power pursuant to section exercised (28.01.2013 to 31.12.2013) by *Land Registration (Fees) (Amendment) Order 2013* (S.I. No. 21 of 2013), in effect as per art. 1(2); enabling provision repealed as per F-note above.
+>
+> E12: Previous affecting provision: power pursuant to section exercised (1.12.2012) by *Land Registration (Fees) Order 2012* (S.I. No. 380 of 2012), in effect as per art. 1(2); as amended (28.01.2013) by *Land Registration (Fees) (Amendment) Order 2013* (S.I. No. 21 of 2013), in effect as per art. 1(2); enabling provision repealed as per F-note above.
+>
+> E13: Previous affecting provision: power pursuant to section exercised (1.05.2008) by *Registry of Deeds (Fees) Order 2008* (S.I. No. 51 of 2008), in effect as per art. 1(2); enabling provision repealed as per F-note above.
+>
+> E14: Previous affecting provision: note requirement to lay orders made under section before Houses of the Oireachtas as provided (26.05.2006) by s. 6 of this Act, S.I. No. 271 of 2006; section repealed as per F-note above.
+>
+> E15: Previous affecting provision: power pursuant to section exercised (27.10.2009) by *Land Registration (Fees) Order 2009* (S.I. No. 425 of 2009), in effect as per art. 1(2); revoked (1.12.2012) by *Land Registration (Fees) Order 2012* (S.I. No. 380 of 2012), art. 2(c), in effect as per art. 1(2).
+>
+> E16: Previous affecting provision: power pursuant to section exercised (2.03.2009) by *Land Registration (Fees Relating to Discharges Lodged by Electronic Means) Order 2009* (S.I. No. 52 of 2009), in effect as per art. 1(2); revoked (1.12.2012) by *Land Registration (Fees) Order 2012* (S.I. No. 380 of 2012), art. 2(b), in effect as per art. 1(2).
+
+### 22. Chief Executive.
+
+**22**.—F15[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F15: Repealed (1.03.2023) by *Tailte Éireann Act 2022* (50/2022), s. 5 and sch. 2, S.I. No. 58 of 2023.
+
+### 23. Chief Executive to be accounting officer.
+
+**23**.—F16[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F16: Repealed (1.03.2023) by *Tailte Éireann Act 2022* (50/2022), s. 5 and sch. 2, S.I. No. 58 of 2023.
+
+### 24. Amendment of Comptroller and Auditor General (Amendment) Act 1993.
+
+**24**.— The Comptroller and Auditor General (Amendment) Act 1993 is amended by inserting the following section after section 18A:
+
+“Application of this Act to Property Registration Authority.
+
+18B.— This Act applies to the Property Registration Authority as if it were a Department.”.
+
+### 25. Attendance of Chief Executive before Oireachtas Committee.
+
+**25**.— (1) Subject to *subsection* *(2)* , the Chief Executive shall, at the request in writing of a committee of the Oireachtas, attend before it to give account for the general administration of the Authority, including its strategic plans.
+
+(2) In this section “committee of the Oireachtas” means a committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas (except the Committee on Members’ Interests of Dáil Éireann or the Committee on Members’ Interests of Seanad Éireann) or a subcommittee of a committee so appointed.
+
+### 26. Staff of Authority.
+
+**26**.— (1) Subject to *subsection* *(3)* and *section* *22* *(2)* , the Authority may appoint such number of persons to be members of its staff as it may determine.
+
+(2) Subject to *subsection* *(3)* , the Authority shall determine the grades of members of its staff and the numbers in each grade.
+
+(3) A determination of the Authority under *subsection* *(1)* or *(2)* is subject to the approval of the Minister and the consent of the Minister for Finance.
+
+(4) The functions of the Authority may be performed on behalf of the Authority by any member or members of its staff who is or are authorised by it to do so.
+
+(5) A member of the staff of the Authority who performs any of its functions is presumed in any proceedings to have been authorised by it to do so on its behalf, unless the contrary is shown.
+
+(6) Members of the staff of the Authority are civil servants in the Civil Service of the Government.
+
+(7) The Authority is the appropriate authority (within the meaning of the Civil Service Commissioners Act 1956 and the Civil Service Regulation Acts 1956 to 2005) in relation to its staff.
+
+### 27. Transfer of staff to Authority.
+
+**27**.— Every person who immediately before the establishment day was a member of the staff of the Land Registry or Registry of Deeds shall become a member of the staff of the Authority on that day.
+
+### 28. Transfer of land and other property.
+
+**28**.— (1) On the establishment day—
+
+(*a*) land that immediately before that day was vested in the Minister, the Minister for Finance or the Commissioners of Public Works and is designated by the Minister, with the consent of the Minister for Finance, for use solely for purposes related to the Authority's functions, and
+
+(*b*) any rights, powers and privileges relating to or connected with the land,
+
+stand vested in the Authority, without any conveyance or assignment, for the estate or interest therein that immediately before the establishment day was vested in any of the persons referred to in *paragraph* *(a)* , but subject to any trusts and equities then affecting the land.
+
+(2) On the establishment day, property other than land, including any chose in action, that immediately before that day was being used in connection with a function of the Registrar of Deeds or Registrar of Titles or Registrar of Deeds and Titles corresponding to a function of the Authority stands vested in the Authority without any assignment.
+
+(3) A chose in action vested in the Authority under *subsection* *(2)* may, on and after the establishment day, be sued on, recovered or enforced by or against the Authority in its own name, and the Authority or the Minister need not give notice of the vesting to any person bound by the chose in action.
+
+(4) On the establishment day, documents and records that were held by the Land Registry and Registry of Deeds immediately before that day stand vested in the Authority.
+
+(5) The Minister may, and shall on application by the Authority, issue a certificate that specified property is property to which this section applies or does not apply.
+
+(6) In any proceedings a certificate purporting to be so issued is admissible, without further proof, as evidence of the matters stated in it.
+
+### 29. Preservation of contracts.
+
+**29**.— Any contract, agreement or arrangement made—
+
+(*a*) between the Minister and the Registrar of Deeds, the Registrar of Titles or the Registrar of Deeds and Titles, or
+
+(*b*) between any other person and any of those Registrars,
+
+and in force immediately before the establishment day—
+
+(i) continues in force on or after that day, and
+
+(ii) has effect as if the name of the Authority were substituted in the contract, agreement or arrangement for the name of the Registrar concerned.
+
+### 30. Pending proceedings.
+
+**30**.— If, immediately before the establishment day, any proceedings are pending in any court or tribunal to which the Registrar of Deeds, the Registrar of Titles or the Registrar of Deeds and Titles is a party, the name of the Authority is substituted in the proceedings for that of the Registrar concerned, and the proceedings do not abate by reason of the substitution.
+
+### 31. Saving for certain acts.
+
+**31**.— Nothing in this Act affects the validity of any act done before the establishment day by or on behalf of the Registrar of Deeds, the Registrar of Titles or the Registrar of Deeds and Titles, and any such act, if and in so far as it was operative immediately before that day, has effect on and after that day as if it had been done by or on behalf of the Authority.
+
+## PART 3 Registration of Deeds — PART 3 — Registration of Deeds
+
+### 32. Interpretation (Part 3).
+
+**32.—** (1) In this Part, unless the context otherwise requires—
+
+“deed” means a document by which an estate or interest in land is created, transferred, charged or otherwise affected and includes any of the following documents, whether under seal or not, affecting land:
+
+(*a*) a conveyance;
+
+(*b*) a document not attested;
+
+(*c*) an assent under the Succession Act 1965;
+
+(*d*) a vesting certificate under the Landlord and Tenant (Ground Rents) (No. 2) Act 1978;
+
+F17[(*e*) a certificate of vesting issued under section 46(1) of the Bankruptcy Act 1988 as evidence of the vesting of land in the Official Assignee under that Act;]
+
+(*f*) a receipt under section 43 of the Industrial and Provident Societies Act 1893, section 53 of the Friendly Societies Act 1896, section 84(1) of the Building Societies Act 1976 or section 18(1) of the Housing Act 1988;
+
+F18[(*g*) an application to register a judgment mortgage under section 116 of the Land and Conveyancing Law Reform Act 2009;]
+
+(*h*) a judgment, decree or order of a court or a declaration by a court of title, division or allotment;
+
+(*i*) a notification or order under the Land Reclamation Act 1949;
+
+(*j*) a notice under the Family Home Protection Act 1976 F19[or under section 36 of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010];
+
+(*k*) a certified copy of a statement under section 3(8)(*c*) (inserted by section 54(1)(*b*)(ii) of the Family Law Act 1995) of the Family Home Protection Act 1976 F19[or under section 28(12) of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010];
+
+(*l*) a record of the registration of the ownership of any estate or interest in land as referred to in section 116(2) of the Act of 1964;
+
+(*m*) information in electronic or other non-legible form which is capable of being converted into any of the preceding documents; and
+
+(*n*) such other documents as may be prescribed;
+
+but does not include—
+
+(i) any document affecting, or in so far as it affects, registered land, or
+
+(ii) any lease for a term not exceeding 21 years (or such other period as may be prescribed) where actual occupation is in accordance with the lease;
+
+F18["land" has the meaning given to it by *section 3* of the Land and Conveyancing Law Reform Act 2009;]
+
+“lease” means any contract of tenancy and includes an agreement for a lease;
+
+“record” includes any book, index or document and any information in electronic or other non-legible form which is capable of being converted into a permanent legible form;
+
+“register” means the register of deeds maintained under *section* *35* ;
+
+“Registry” has the meaning given to it by *section* *33* ;
+
+“repealed enactments” means the enactments repealed by this Act.
+
+(2) In this Part, unless the context otherwise requires—
+
+(*a*) a reference to a section or the Schedule is a reference to a section of, or the Schedule to, this Act,
+
+(*b*) a reference to a subsection or paragraph is a reference to the subsection or paragraph of the provision in which the reference occurs,
+
+(*c*) a reference to any enactment shall be construed as a reference to that enactment as amended, extended or adapted, whether before or after the commencement of this Act, by or under any subsequent enactment.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F17: Substituted (31.07.2023) by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 123, S.I. No. 389 of 2023.
+>
+> F18: Substituted (1.12.2009) by *Land and Conveyancing Law Reform Act 2009* (27/2009), s. 8(1) and sch. 1, S.I. No. 356 of 2009.
+>
+> F19: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97 and sch. part 5 item 24, S.I. No. 648 of 2010.
+
+### 33. Registry of Deeds.
+
+**33.—** (1) There shall be an office or offices for the purpose of registering deeds.
+
+(2) The office or offices shall be known as the Registry of Deeds (referred to in this Part as “the Registry”).
+
+(3) The Registry shall be under the management and control of the Property Registration Authority.
+
+### 34. Transitional provision.
+
+**34**.— (1) Any register or record maintained under any of the enactments mentioned in *Part 1* of the *Schedule* shall form part of the appropriate register or record maintained under this Part or general rules.
+
+(2) Any document issued or made under any of the enactments mentioned in *Part 1* of the *Schedule* and in force immediately before the commencement of this section shall continue in force and have the same validity as if made or issued under this Part.
+
+### 35. Register of deeds.
+
+**35**.— (1) The Authority shall maintain a register of deeds.
+
+(2) The register—
+
+(*a*) shall be in the prescribed form,
+
+(*b*) shall contain the prescribed information, and
+
+(*c*) may be in an electronic or other non-legible form which is capable of being converted into a permanent legible form.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C15: Obligation imposed on Property Registration Authority in relation to registration of freezing co-operation orders in register maintained under collectively cited *Registration of Deeds and Title Acts 1964 and 2006* or register maintained under section (1.09.2008) by *Criminal Justice (Mutual Assistance) Act 2008* (7/2008), s. 37, S.I. No. 338 of 2008.
+>
+> **Registration of freezing co-operation orders.**
+>
+> **37**. ...
+>
+> (2) On receipt of those documents the Authority shall—
+>
+> (*a*) if the land is registered land, cause an entry to be made in the register kept by it under the Registration of Deeds and Title Acts 1964 and 2006 inhibiting, until the order is discharged, any dealing with the land and any charge thereon, and
+>
+> (*b*) if the order is subsequently varied or discharged, cause the entry to be varied accordingly or cancelled, as the case may be.
+>
+> (3) If subsection (2)(a) does not apply, the Authority shall cause the notice of the making, variation or discharge of the freezing co-operation order to be registered in the register of deeds maintained by the Authority under section 35 of the Registration of Deeds and Title Act 2006.
+>
+> ...
+
+### 36. Registration of deeds.
+
+**36.—** (1) An application for registration of a deed in the register shall be made in the prescribed form.
+
+(2) The manner in which registration is to be effected shall be prescribed.
+
+### 37. Allocation of serial numbers.
+
+**37.—** A serial number shall be allocated in the prescribed manner to every application for registration under this Part.
+
+### 38. Effect of registration.
+
+**38.—** (1) Deeds registered under this Part are deemed and taken as good and effectual both in law and equity according to the priority determined by the serial numbers allocated to them pursuant to *section* *37* and shall, as regards any right, title, interest or liability arising from their execution, rank in priority among themselves according to the priority determined by the serial numbers so allocated.
+
+(2) A deed which is not so registered is void against a registered deed affecting the land concerned.
+
+(3) This section is without prejudice to the application of any rule of law or equity in cases where a person claiming under a registered deed had knowledge, or is deemed to have had knowledge, of a prior unregistered deed.
+
+### 39. Validity of certain registered deeds.
+
+**39.—** (1) Subject to *subsection* *(2)* , proof of execution of a deed by a witness to the execution by a grantee under the deed is deemed to be and always to have been as valid, for the purposes of section 6 of the Registration of Deeds Act 1707, as if the witness had been a witness to the execution by a grantor under it.
+
+(2) *Subsection* *(1)* does not affect—
+
+(*a*) any judgment or order given or made before the commencement of this section in any proceedings, including appeal proceedings, or
+
+(*b*) any proceedings pending at such commencement,
+
+in relation to the execution of a deed.
+
+### 40. Rectification of errors.
+
+**40.—** (1) Where any error occurs in registration—
+
+(*a*) the Authority may, with the consent of the applicant for registration and of such other persons as may appear to be interested, rectify the error on such terms as may be agreed to in writing by the parties,
+
+(*b*) the Authority may, if of opinion that the error can be rectified without loss to any person, rectify the error after giving such notices as may be prescribed,
+
+(*c*) the Circuit Court, if of opinion that the error can be rectified without injustice to any person, may order the error to be rectified on such terms as to costs or otherwise as it thinks just.
+
+(2) The jurisdiction conferred on the Circuit Court under this section may be exercised by the judge assigned to the circuit where the land or any part of the land concerned is situated.
+
+### 41. Procuring registration of false deed.
+
+**41.—** Any person who procures or attempts to procure the registration of any deed—
+
+(*a*) knowing it to be false in any material particular, or
+
+(*b*) knowing any signature on it to be false,
+
+is guilty of an offence and liable—
+
+(i) on summary conviction, to a fine not exceeding €3,000 or to imprisonment for a term not exceeding 12 months or both, and
+
+(ii) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years or both.
+
+### 42. Other records.
+
+**42**.— (1) The Authority shall maintain such records relating to registered deeds as may be prescribed.
+
+(2) The information contained in any documentation delivered to the Authority may be recorded and kept in an electronic or other non-legible form which is capable of being converted into a permanent legible form.
+
+(3) Any reference in any enactment to the issue of any documentation by the Authority includes a reference to the communication of the information concerned by transmission in any prescribed electronic or other non-legible form.
+
+(4) Where any such documentation is required to be signed or certified, it may be authenticated in any other prescribed manner.
+
+### 43. Searches.
+
+**43.—** Searches of records maintained under this Part may be made in such manner and by such means as may be determined by the Authority.
+
+### 44. Inspection, search and examination of records.
+
+**44.—** Any person may, during such hours, in such manner and subject to such conditions as may be determined by the Authority, inspect, search, copy, examine and make extracts from, or take short notes of, such records maintained under this Part as may be prescribed.
+
+### 45. Evidence in proceedings.
+
+**45.—** Without prejudice to *section* *9* *(6)* , a document purporting—
+
+(*a*) to be a copy or reproduction of any entry in the register or of any other record maintained, made or issued under this Part, including any document produced by the conversion into legible form of information kept in electronic or other non-legible form, and
+
+(*b*) to be certified by a member of the staff of the Authority to be such a copy or reproduction,
+
+is admissible in any proceedings, without further proof, as evidence of the matters mentioned therein.
+
+### 46. Closing of Index of Lands.
+
+**46.—** The Index of Lands established by section 17 of the Registry of Deeds (Ireland) Act 1832 is deemed to have been closed on 31 December 1946.
+
+### 47. Closing of certain other records.
+
+**47.—** The Day Book, Abstract Book, Duplicate Abstract Book, Transcript Book and Duplicate Copy of Index of Names are deemed to have been closed during the period or periods during which any of them was not being kept in accordance with the Registry of Deeds (Ireland) Act 1832.
+
+### 48. General rules.
+
+**48**.— The Registration of Deeds and Title Rules Committee established by *section* *74* may, with the agreement of the Minister, make general rules for the purpose of enabling this Part to have full effect and, without prejudice to the generality of the foregoing, may make provision in those rules in relation to any of the following matters:
+
+(*a*) the form, content and indexing of the register and records;
+
+(*b*) the forms of application for registration of deeds;
+
+(*c*) the procedures to be observed in connection with registration, including the allocation of serial numbers to applications for registration and their cancellation where the applications are refused;
+
+(*d*) the form and manner in which entries in the register are to be made, modified or cancelled;
+
+(*e*) any other matter referred to in this Part as prescribed.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E17: Power pursuant to section exercised (16.12.2021) by *Registration of Deeds Rules 2021* (S.I. No. 727 of 2021), in effect as per rule 2.
+>
+> E18: Power pursuant to section exercised (1.11.2013) by *Registration of Deeds Rules* (S.I. No. 387 of 2013), in effect as per rule 2.
+>
+> E19: Power pursuant to section exercised (1.12.2009) by *Registration of Deeds (No. 2) Rules 2009* (S.I. No. 457 of 2009), in effect as per art. 2.
+>
+> E20: Power pursuant to section exercised (1.11.2009) by *Registration of Deeds Rules 2009* (S.I. No. 350 of 2009), in effect as per art. 2; amended (1.12.2009) by *Registration of Deeds (No. 2) Rules 2009* (S.I. No. 457 of 2009), rl. 7, in effect as per art. 2
+>
+> E21: Power pursuant to section exercised (1.05.2008) by *Registration of Deeds Rules 2008* (S.I. No. 52 of 2008), in effect as per art. 1; amended (1.12.2009) by *Registration of Deeds (No. 2) Rules 2009* (S.I. No. 457 of 2009), rls. 5 and 6, in effect as per art. 2
+
+### 49. Saver for certain deeds.
+
+**49.—** Nothing in this Part affects the registration or priority of any deed—
+
+(*a*) lodged or presented for registration before the commencement of this section, or
+
+(*b*) registered in accordance with the law in force before such commencement.
+
+## PART 4 Other Amendments to Registration of Title Act 1964 — PART 4 — Other Amendments to Registration of Title Act 1964
+
+### 50. Amendment of section 3.
+
+**50.—** Section 3 (interpretation) of the Act of 1964 is amended in subsection (1)—
+
+(*a*) by the insertion of the following definitions:
+
+“ ‘index’ means an index maintained under this Act and includes, and is deemed always to have included, any index stored in electronic or other non-legible form which is capable of being converted into a permanent legible form;
+
+‘record’ includes any book, index or document and any information in electronic or other non‑legible form which is capable of being converted into a permanent legible form;
+
+‘registry maps’ means the maps referred to in section 84;”,
+
+(*b*) by the substitution, in the definition of “judgment mortgage”, of “affidavit of judgment” for “affidavit of ownership”,
+
+(*c*) by the deletion, in the definition of “Land Purchase Acts” of “the Irish Church Act, 1869, and”,
+
+(*d*) by the insertion, in the definition of “leasehold interest” of—
+
+(i) “(or such other number as may be prescribed)” after “twenty-one”, and
+
+(ii) “and the right or interest of a person who has barred, under the Statute of Limitations 1957, the right of action of a person entitled to such leasehold interest,” after “determinable on a life or lives,”,
+
+(*e*) by the deletion of the definitions of “the central office”, “the local office”, “the local registrar” and “registering authority”, and
+
+(*f*) by the substitution of the following definition for the definition of “register”:
+
+“ ‘register’ means a register maintained under this Act and includes, and is deemed always to have included, any register kept in electronic or other non-legible form which is capable of being converted into a permanent legible form;”.
+
+### 51. Substitution of section 7.
+
+**51.—** The following section is substituted for section 7 (the central and local offices) (as amended by the Registration of Title (Amendment) Act 1997) of the Act of 1964:
+
+“Land Registry.
+
+7.— (1) There shall be an office or offices for the purpose of registering the ownership of land in the State.
+
+(2) The office or offices shall be known as the Land Registry.
+
+(3) The Land Registry shall be under the management and control of the Property Registration Authority.”.
+
+### 52. Amendment of section 23.
+
+**52**.— Section 23 (compulsory registration) of the Act of 1964 is amended—
+
+(*a*) in subsection (1)(*a*), by the deletion of “, or is deemed to have been,”,
+
+(*b*) in subsection (1)(*c*), by the insertion of “or (2A)” after “subsection (2)”,
+
+(*c*) by the insertion of the following subsection after subsection (1):
+
+“(1A) Where land has been sold, conveyed or vested under the Irish Church Act 1869 and its ownership has not been registered, registration of ownership of the land is deemed never to have been required merely by virtue of the sale, conveyance or vesting.”,
+
+and
+
+(*d*) in subsection (2)(*b*), by the insertion of “or (2A)” after “subsection (2)”.
+
+### 53. Amendment of section 24.
+
+**53**.— Section 24 (extension of compulsory registration) of the Act of 1964 is amended by the substitution of the following subsections for subsections (1) and (2):
+
+“(1) The Minister for Justice, Equality and Law Reform, after consultation with the Authority, may by order provide that this section shall apply to—
+
+(*a*) a specified area, including a local government area within the meaning of section 10 of the Local Government Act 2001,
+
+(*b*) specified land, or
+
+(*c*) specified land in such an area,
+
+on or after a specified day, not being earlier than 6 months after the making of the order.
+
+(2) Where this section applies, the registration of ownership of the land concerned shall, if not already compulsory, become compulsory—
+
+(*a*) in the case of freehold land, upon its conveyance on sale, and
+
+(*b*) in the case of a leasehold interest, upon the grant or assignment on sale of such an interest.
+
+(2A) An order under this section may provide that the registration of ownership of land to which this section applies shall, if not already compulsory, become compulsory in the case of specified dispositions of land other than those mentioned in subsection (2).
+
+(2B) The Minister may by order amend or revoke an order under this section, including an order under this subsection.”.
+
+### 54. Substitution of section 25.
+
+**54**.— The following section is substituted for section 25 (effect of failure to register where registration compulsory) of the Act of 1964:
+
+“25.— A person shall not acquire any estate or interest in land under a disposition specified in subsection (2) or (2A) of section 24 after the date on which registration of ownership of the land becomes compulsory in relation to the disposition unless the person is registered as owner of the estate or interest within 6 months after the execution of the disposition or at such later time as the Authority (or, in case of refusal, the court) may sanction in any particular case, but on any such registration the person’s title shall relate back to the date of such execution, and any dealings with the land before the registration shall have effect accordingly.”.
+
+### 55. Amendment of section 32.
+
+**55.—** Section 32 (rectification of errors in registration) F20[of the Act of 1964] is amended by the substitution of the following subsection for subsection (1):
+
+“(1) Where any error originating in the Land Registry (whether of misstatement, misdescription, omission or otherwise, and whether in a register or registry map) occurs in registration—
+
+(*a*) the Authority may, with the consent of the registered owner of the land and of such other persons as may appear to be interested, rectify the error upon such terms as may be agreed to in writing by the parties,
+
+(*b*) the Authority may, if of opinion that the error can be rectified without loss to any person, rectify the error after giving such notices as may be prescribed,
+
+(*c*) the court, if of opinion that the error can be rectified without injustice to any person, may order the error to be rectified upon such terms as to costs or otherwise as it thinks just.”.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F20: Inserted (1.12.2009) by *Land and Conveyancing Law Reform Act 2009* (27/2009), s. 8(1) and sch. 1, S.I. No. 356 of 2009.
+
+### 56. Substitution of section 33.
+
+**56**.— The following section is substituted for section 33 (classes of freehold land which may be registered) of the Act of 1964:
+
+“33.— (1) On registration of the ownership of unregistered freehold land, a person may be registered with an absolute title, a qualified title or a possessory title.
+
+(2) An application for registration may be made by such person, and shall be in such form and accompanied by such evidence of title, as may be prescribed.
+
+(3) The application shall be for registration with an absolute title, a qualified title or a possessory title.
+
+(4) The applicant shall be registered as owner with an absolute title where the title is approved by the Authority.
+
+(5) The applicant may be registered as owner with a qualified title where—
+
+(*a*) it appears to the Authority that the title can be established only for a limited period or only subject to certain reservations, and
+
+(*b*) the Authority, by an entry in the register, excepts from the effect of registration any right—
+
+(i) arising before a specified date,
+
+(ii) arising under a specified instrument, or
+
+(iii) otherwise particularly described in the register.
+
+(6) The applicant may be registered as owner with a possessory title on giving such evidence of title as may be prescribed.
+
+(7) If, on an application for registration under this section, the Authority is not satisfied that the grant of the title applied for would be warranted or appropriate, it may, subject to subsection (8), register the applicant as owner with such one of the other titles provided for in this section as it considers would be warranted or appropriate.
+
+(8) Where registration of ownership is not compulsory, the Authority may not—
+
+(*a*) on an application for registration with an absolute title, register the applicant as owner with a qualified title without the applicant’s consent, or
+
+(*b*) on an application for registration with a title other than a possessory title, register the applicant as owner with a possessory title without such consent.”.
+
+### 57. Substitution of section 40.
+
+**57**.— The following section is substituted for section 40 (classes of title which may be registered) of the Act of 1964:
+
+“40.— (1) On registration of the ownership of an unregistered leasehold interest, a person may be registered with an absolute title, a good leasehold title, a qualified title or a possessory title.
+
+(2) An application for registration may be made by such person, and shall be in such form and accompanied by such evidence of title, as may be prescribed.
+
+(3) The application shall be for registration with an absolute title, a good leasehold title, a qualified title or a possessory title.
+
+(4) The applicant shall be registered as owner with an absolute title where the title to the leasehold interest, the freehold estate and any intermediate leasehold interest is approved by the Authority.
+
+(5) The applicant shall be registered as owner with a good leasehold title where the title to the leasehold interest is approved by the Authority.
+
+(6) The applicant may be registered as owner with a qualified title where—
+
+(*a*) it appears to the Authority that the title, either of the lessor to the reversion or of the lessee to the leasehold interest, can be established only for a limited period or only subject to certain reservations, and
+
+(*b*) the Authority, by an entry in the register, excepts from the effect of registration any right—
+
+(i) arising before a specified date,
+
+(ii) arising under a specified instrument, or
+
+(iii) otherwise particularly described in the register.
+
+(7) The applicant may be registered as owner with a possessory title on giving such evidence of title as may be prescribed.
+
+(8) If, on an application for registration under this section, the Authority is not satisfied that the grant of the title applied for would be warranted or appropriate, it may, subject to subsection (9), register the applicant as owner with such one of the other titles provided for in this section as it considers would be warranted or appropriate.
+
+(9) Where registration of ownership of title is not compulsory, the Authority may not—
+
+(*a*) on an application for registration with an absolute title or a good leasehold title, register the applicant as owner with a qualified title without the applicant’s consent, or
+
+(*b*) on an application for registration with a title other than a possessory title, register the applicant as owner with a possessory title without such consent.”.
+
+### 58. Amendment of section 51.
+
+**58**.— Section 51 (transfer of registered land) of the Act of 1964 is amended by the insertion of the following subsection after subsection (2):
+
+“(2A) In this section “transfer” includes “lease”, and cognate words shall be construed accordingly.”.
+
+### 59. Amendment of section 69.
+
+**59**.— Section 69 (burdens which may be registered as affecting registered land) of the Act of 1964 is amended in subsection (1)(*g*) by the insertion of “(or such other period as may be prescribed)” after “twenty-one years”.
+
+### 60. Amendment of section 72.
+
+**60**.— Section 72 (burdens affecting land without registration) of the Act of 1964 is amended in subsection (1)(*i*) by the insertion of “(or such other period as may be prescribed)” after “twenty-one years”.
+
+### 61. Amendment of section 84.
+
+**61.—** The following section is substituted for section 84 (ordnance survey maps to be kept in central office) of the Act of 1964:
+
+“Registry maps.
+
+84.— (1) Provision may be made by general rules—
+
+(*a*) for identifying on maps (in this Act referred to as ‘registry maps’) land whose ownership has been registered under this Act, and
+
+(*b*) for reference in the register to those maps.
+
+(2) (*a*) For the purposes of such registration—
+
+(i) the Registrar, in respect of the period before the commencement of *section* *61* of the *Registration of* *Deeds and Title Act 2006*, is deemed to have had power in any particular case to adopt any map which the Registrar considered satisfactory, and
+
+(ii) on such commencement, the Authority may in any particular case adopt any map which it considers satisfactory.
+
+(*b*) For the purposes of this Act and the repealed enactments, any map so adopted is, and is deemed always to have been, a registry map.
+
+(3) A registry map shall be in such form, including an electronic or other non-legible form which is capable of conversion into a permanent legible form, as may be prescribed.”.
+
+### 62. Amendment of section 85.
+
+**62**.— The following section is substituted for section 85 (description of registered land) of the Act of 1964:
+
+“85.— (1) Registered land shall be described and identified by reference to the registry maps concerned in such manner as may be prescribed.
+
+(2) Except as provided by this Act, neither the description of land in a register nor its identification by reference to a registry map is conclusive as to its boundaries or extent.”.
+
+### 63. Substitution of section 90.
+
+**63**.— The following section is substituted for section 90 (powers of person entitled to be registered as owner of land or charge) of the Act of 1964:
+
+“90.— (1) This section applies to a person—
+
+(*a*) on whom the right to be registered as owner of registered land or a registered charge has devolved by reason of the death of the owner or the defeasance of the owner’s estate or interest or by reason of a transfer made in accordance with this Act or under a lease, and
+
+(*b*) who, before being registered as such owner, wishes to take any of the following actions in relation to the land or charge:
+
+(i) in the case of registered land—
+
+(I) transferring or charging it or any part of it,
+
+(II) creating a lien by deposit of the land certificate,
+
+(III) granting a lease,
+
+(IV) creating an easement or a *profit à prendre*, or
+
+(V) where the person is the Minister for Agriculture and Food, exercising any other rights of ownership, including enforcing the right to vacant possession,
+
+or
+
+(ii) in the case of a registered charge—
+
+(I) transferring or charging it, or
+
+(II) creating a lien by deposit of the certificate of charge.
+
+(2) A person to whom this section applies may take any of the actions mentioned in subsection (1) in the like manner and with the same effect as if the person were the registered owner at the date of the action concerned, but subject to any burdens or rights affecting the person’s interest which would have been entered on the register if the person had become the registered owner and subject also to the provisions of this Act with regard to registered dealings for valuable consideration.”.
+
+### 64. Substitution of section 104.
+
+**64**.— The following section is substituted for section 104 (stamp duties) of the Act of 1964:
+
+“104.— Where, in relation to a document presented for registration, the Authority has reasonable grounds for suspecting that stamp duty, or the correct amount of such duty, has not been paid, the Authority shall not proceed with the registration unless the applicant for registration provides evidence to its satisfaction that stamp duty is not payable or, as the case may be, the correct amount of such duty has been paid.”.
+
+### 65. Amendment of section 107.
+
+**65.—** Section 107 (searches of registers and maps) of the Act of 1964 is amended in subsection (1) by the insertion, after “inspected”, of “, in the form in which it is kept or (as the case may be) a legible reproduction thereof,”.
+
+### 66. Substitution of section 108.
+
+**66**.— The following section is substituted for section 108 (priority given by certificate of official search) of the Act of 1964:
+
+“Priority of certain applications for registration.
+
+108.— (1) The Authority, if of opinion that a person has contracted to purchase or take a lease of registered land or to lend money on the security of a charge on it, shall, on application by the person and on notice by the person to the other party to the contract, make an entry in the register in the prescribed form.
+
+(2) An application for registration by such a person in relation to the completion of the contract which is in order and is delivered to the Authority within a period of 21 days (or such longer period as may be prescribed) after the date of the entry ranks in priority before any other application for registration made within that period in respect of the land.
+
+(3) In determining whether to prescribe a longer period than 21 days under subsection (2) and the duration of any such period, the Registration of Deeds and Titles Rules Committee shall have regard to—
+
+(*a*) changes in the period generally elapsing between applications by persons under subsection (1) and those made by such persons under subsection (2), and
+
+(*b*) the need for adequate protection of the interests of parties to the contracts concerned.”.
+
+### 67. Amendment of section 116.
+
+**67**.— Section 116 (exemption of land from registration in Registry of Deeds) of the Act of 1964 is amended by the substitution of the following subsection for subsection (2):
+
+“(2) Where the ownership of any estate or interest in land is registered under this Act, the Authority shall cause a record of the registration, in the prescribed form, to be registered in the Registry of Deeds free of any fee or duty.”.
+
+### 68. Amendment of section 119.
+
+**68**.— Section 119 (penalties for fraud) of the Act of 1964 is amended in subsection (1) by the substitution, for “he shall be guilty of a misdemeanour, and if convicted on indictment shall be liable to imprisonment for any term not exceeding two years, or to a fine not exceeding five hundred pounds”, of “the person shall be guilty of an offence and liable—
+
+(i) on summary conviction, to a fine not exceeding €3,000 or imprisonment for a term not exceeding twelve months or both, and
+
+(ii) on conviction on indictment, to a fine or imprisonment for a term not exceeding five years or both.”.
+
+### 69. Amendment of section 120.
+
+**69**.— Section 120 (compensation for error, forgery or fraud in relation to registration) of the Act of 1964 is amended—
+
+(*a*) in subsections (1) and (3), by the deletion of “by the court”, and
+
+(*b*) in subsection (5), by the substitution of the following paragraph for paragraph (*b*):
+
+“(*b*) if the claim is not settled, the claimant or the Minister for Finance may apply to the court to determine the amount (if any) of compensation payable;”.
+
+### 70. Amendment of section 123.
+
+**70**.— Section 123 (effect of words of transfer) of the Act of 1964 is amended by the substitution of the following subsections for subsection (4):
+
+“(4) An instrument granting, or containing a grant or reservation of, an easement or a *profit à prendre* out of registered freehold land without words of limitation or any equivalent expression shall pass or reserve the whole estate which the grantor had power to grant or reserve in the easement or *profit à* *prendre*.
+
+(5) An instrument granting, or containing a grant or reservation of, an easement or a *profit à prendre* out of registered freehold land to a corporation sole by its corporate designation without the word ‘successors’ shall pass or reserve the whole estate which the grantor had power to grant or reserve in the easement or *profit à prendre.*
+
+(6) Subsections (1), (2) and (3) of this section apply only to instruments of transfer executed on or after 1 January 1967, and subsections (4) and (5) thereof apply only to those executed after the commencement of *section* *70* of the *Registration of* *Deeds and Title Act 2006*.”.
+
+### 71. New section 124A.
+
+**71.—** The following section is inserted after section 124 of the Act of 1964:
+
+“Evidence in proceedings.
+
+124A.— A document purporting—
+
+(*a*) to be a copy or reproduction of any entry in a register or of any other record maintained, made or issued under this Act, including any document produced by the conversion into legible form of information kept in electronic or other non-legible form, and
+
+(*b*) to be certified by a member of the staff of the Authority to be such a copy or reproduction,
+
+is admissible in any proceedings, without further proof, as evidence of the matters mentioned therein.”.
+
+### 72. Amendment of section 126.
+
+**72**.— Section 126 (power to make rules and orders) of the Act of 1964 is amended—
+
+(*a*) by the substitution of the following subsections for subsections (1) and (2):
+
+“(1) The Registration of Deeds and Title Rules Committee established by *section* *74* of the *Registration of* *Deeds and Title Act 2006*, with the agreement of the Minister for Justice, Equality and Law Reform, may make general rules for carrying into effect the objects of this Act and, in particular, without prejudice to the generality of the foregoing, in respect of all or any of the following matters:
+
+(*a*) the form and content and the indexing of registers and registry maps;
+
+(*b*) the authentication of documents relating to title;
+
+(*c*) the procedures to be observed, precautions to be taken, notices to be given and evidence to be adduced in proceedings in connection with registration;
+
+(*d*) the circumstances under which and the persons to whom reference is to be made in respect of the examination of any title to land for which an application for registration is made;
+
+(*e*) the form and manner in which entries in registers are to be made, modified or cancelled;
+
+(*f*) the order in which entries relating to land are to be made;
+
+(*g*) the correction of errors in registers or maps or in any record connected with registration;
+
+(*h*) the form and content of any document required or authorised to be used or given under or for the purposes of this Act;
+
+(*i*) the conditions under which a new land certificate or certificate of charge may be issued in place of a lost, defaced or destroyed certificate;
+
+(*j*) the inspection of and making of copies or reproductions of, or extracts from, any records in the custody of the Land Registry;
+
+(*k*) the custody and preservation of records in the Land Registry;
+
+(*l*) the taxation of costs of any proceedings in connection with registration and the persons by and to whom costs are to be taxed and paid;
+
+(*m*) the entering into security for the costs of appeal under this Act;
+
+(*n*) any other matter referred to in this Act as prescribed.
+
+(2) The Committee, in determining for the purposes of this Act—
+
+(*a*) whether the duration of a lease or of the unexpired portion of a lease, as specified in the Act, should be altered, and
+
+(*b*) if so, the extent of the alteration to be prescribed by it,
+
+shall have regard to the Authority’s function to promote and extend registration of ownership of land and to the resources available to the Authority for performing that function.”,
+
+(*b*) by the deletion of subsection (4).
+
+## PART 5 Miscellaneous — PART 5 — Miscellaneous
+
+### 73. Abolition of land certificates and certificates of charge.
+
+**73**.— (1) The Authority shall cease to issue land certificates and certificates of charge under the Act of 1964, and accordingly—
+
+(*a*) sections 28, 32(2), 32(3), 51(3), 51(4), 62(5) and 64(3) of that Act are repealed, and
+
+(*b*) section 105 (certificates) thereof—
+
+(i) applies only in relation to land certificates and certificates of charge issued before the commencement of this subsection and not already cancelled, and
+
+(ii) ceases to have effect 3 years after the commencement of *subsection* *(2)* .
+
+(2) Subject to *subsection* *(3)* , land certificates and certificates of charge issued before the commencement of *subsection* *(1)* and not already cancelled cease to have any force or effect on the expiration of the period of 3 years after the commencement of this subsection.
+
+(3) The following provisions have effect during the period referred to in *subsection* *(2)* :
+
+(*a*) the Authority shall cause adequate notice to be published of the coming into operation of *subsection* *(2)* and of its implications for persons to whom land certificates or certificates of charge have been issued and for any others who may be affected, including persons holding a lien on registered land or a registered charge through deposit or possession of those certificates;
+
+(*b*) a holder of such a lien may apply to the Authority for registration of the lien in such manner as the Authority may determine;
+
+(*c*) the application shall be on notice by the applicant to the registered owner of the land or charge and be accompanied by the certificate concerned;
+
+(*d*) the lien is deemed for the purposes of section 69 of the 1964 Act to be a burden which may be registered as affecting registered land;
+
+(*e*) the Authority shall register the lien without charging any fee or duty for doing so.
+
+(4) Notwithstanding *subsection* *(2)* , where the holder of a lien has suffered loss by reason of not having applied to the Authority during the period referred to in *subsection* *(3)* for registration of the lien as a burden affecting the registered land, the holder may apply to the court for compensation for the loss, on notice to the Minister for Finance.
+
+(5) On the application the court may, if satisfied—
+
+(*a*) that the applicant is the holder of the lien concerned,
+
+(*b*) that the holder was prevented from applying to the Authority under *subsection* *(3)* by reason of being under a disability (within the meaning of section 48 of the Statute of Limitations 1957) or of other exceptional circumstances and has thereby incurred financial loss,
+
+(*c*) that the remedies available for the recovery of the loss have been exhausted, and
+
+(*d*) that it would be manifestly unjust for the holder to suffer the loss,
+
+declare that the holder is entitled to compensation for the loss and determine the amount of the loss.
+
+(6) Compensation to which a person is entitled pursuant to the declaration of the court is payable by the Minister for Finance out of moneys provided by the Oireachtas.
+
+(7) The Minister for Finance shall have the same right to recover the amount of the compensation from any person who caused or derived advantage from the loss as the holder of the lien would have had if the loss were an injury caused to him or her by that person.
+
+(8) Interest is payable on any amount recoverable by the Minister for Finance in accordance with *subsection* *(7)* from the date of payment of the compensation at the rate for the time being standing specified under section 26 of the Debtors (Ireland) Act 1840.
+
+(9) In this section—
+
+“holder”, in relation to a lien, includes any person deriving title from the holder of the lien;
+
+“published” means published by way of advertisement both in the national daily newspapers and in broadcasts for reception by the general public, whether the broadcasts are actually received or not.
+
+### 74. Registration of Deeds and Title Rules Committee.
+
+**74**.— (1) On the commencement of this section there stands established a committee, to be known as the Registration of Deeds and Title Rules Committee, to perform the functions assigned to it under *section* *48* and under section 126, as amended by *section* *72* , of the Act of 1964.
+
+(2) The Committee shall consist of—
+
+(*a*) the judge of the High Court for the time being assigned for that purpose by the President of the High Court,
+
+(*b*) F21[the chairperson of the Board of Tailte Éireann],
+
+F22[(*c*) the chief executive of Tailte Éireann or such member of the staff of Tailte Éireann as the chief executive may nominate for that purpose,]
+
+(*d*) a practising barrister nominated by the General Council of the Bar of Ireland, and
+
+(*e*) a practising solicitor nominated by the Council of the Law Society of Ireland.
+
+(3) The judge of the High Court so assigned shall be chairperson, and the Chief Executive of the Authority secretary, of the Committee.
+
+(4) A nominated barrister or solicitor shall hold office as such member for 5 years from the date of the nomination, unless he or she sooner dies, resigns or ceases to be a practising barrister or practising solicitor.
+
+(5) A nominated barrister or solicitor whose membership expires by lapse of time is eligible for renomination.
+
+(6) The quorum of the Committee is 3 members.
+
+(7) The Committee may act notwithstanding a vacancy in its membership.
+
+(8) Pending the making of rules under this section the rules made by the Registration of Title Rules Committee and in force immediately before the commencement of this section shall continue in force, with any necessary modifications.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F21, F22: Substituted (1.03.2023) by *Tailte Éireann Act 2022* (50/2022), s. 41(a), (b), S.I. No. 58 of 2023.
+
+### 75. Reports by Committee.
+
+**75.—** (1) The secretary of the Registration of Deeds and Title Rules Committee shall summon a meeting of the Committee once at least in every year, on such day as may be fixed by the chairperson of the Committee, to consider practice, procedure and administration under the Act of 1964 and this Act and the operation and effect of those Acts.
+
+(2) As soon as may be after every such meeting the Committee shall report to the Minister whether any and, if so, what amendments or alterations should in its opinion be made in practice, procedure or administration under the said Acts with a view to improving their operation and effect.
+
+### 76. Amendment of section 16 of Landlord and Tenant (Ground Rents) (No. 2) Act 1978.
+
+**76**.— (1) Section 16 (restrictions on right to acquire fee simple) of the Landlord and Tenant (Ground Rents) (No. 2) Act 1978 is amended—
+
+(*a*) in subsection (2)(*e*), by the deletion of “Act.” and the insertion of “Act, or”,
+
+(*b*) by the insertion of the following paragraph after subsection (2)(*e*):
+
+“(*f*) subject to subsection (3), a sublease of land granted by a lessee who is not a person to whom this Part applies—
+
+(i) on or after 27 February 2006, or
+
+(ii) before that date, unless before that date—
+
+(I) a notice of intention to acquire the fee simple in the land was served by the sublessee in accordance with section 4 of the Act of 1967, or
+
+(II) an application was made by the sublessee to the Registrar of Titles under Part III of this Act.”,
+
+and
+
+(*c*) by the addition of the following subsections:
+
+“(3) Subsection (2)(*f*) does not apply where—
+
+(*a*) at the date on which the sublease is granted, the sole reason why the lessee is not a person to whom this Part applies is that a covenant by the lessee to erect permanent buildings on the land has not been substantially complied with, and
+
+(*b*) after that date, the covenant is substantially complied with by the sublessee.
+
+(4) In this section, “sublessee” includes the personal representatives and successors in title of a sublessee.”.
+
+### 77. Amendment of section 28 of Landlord and Tenant (Ground Rents) (No. 2) Act 1978.
+
+**77**.— Section 28 (effect of acquisition of fee simple on covenants) of the Landlord and Tenant (Ground Rents) (No. 2) Act 1978 is amended by the substitution of the following subsections for subsection (1):
+
+“(1) Subject to subsection (1A), where a person to whom Part II of this Act applies acquires the fee simple in land under the Act of 1967 or Part III of this Act*—*
+
+(*a*) covenants (except any of those specified in subsection (2)) affecting the land in the lease under which the person held the land thereupon cease to have effect, and
+
+(*b*) no new covenant affecting the land shall be created when the fee simple is being conveyed, except with the person’s agreement.
+
+(1A) Subsection (1) has effect where the fee simple in the land concerned is acquired on or after 27 February 2006, unless before that date—
+
+(i) a notice of intention to acquire the fee simple was served by the person in accordance with section 4 of the Act of 1967, or
+
+(ii) an application was made by the person to the Registrar of Titles under Part III of this Act.”.
+
+### 78. Amendment of Ombudsman Act 1980 and Ombudsman for Children Act 2002.
+
+**78**.— (1) Part 1 of the First Schedule to the Ombudsman Act 1980 is amended by the insertion of “Property Registration Authority” after “Registry of Deeds”.
+
+(2) Part 1 of Schedule 1 to the Ombudsman for Children Act 2002 is amended by the insertion of “Property Registration Authority” after “National Museum of Ireland”.
+
+## SCHEDULE Enactments Repealed — SCHEDULE — Enactments Repealed
+
+### PART 1 — Enactments relating to Registry of Deeds
+
+| Session and Chapter or Number and Year | Short Title | Extent of Repeal |
+|---|---|---|
+| 6 Anne, c. 2 | Registration of Deeds Act 1707 | The whole Act so far as unrepealed |
+| 8 Anne, c. 10 | Registration of Deeds Act 1709 | The whole Act so far as unrepealed |
+| 8 Geo., 1 c. 15 | Registration of Deeds Act 1721 | The whole Act |
+| 5 Geo., 2 c. 4 | Security of Trade Act 1731 | Section 10 |
+| 25 Geo., 3, c. 47 | Registration of Deeds Act 1785 | The whole Act so far as unrepealed |
+| 3 Geo., 4, c. 116 | Registry of Deeds (Ireland) Act 1822 | The whole Act so far as unrepealed |
+| 2 & 3 Will., 4, c. 87 | Registry of Deeds (Ireland) Act 1832 | The whole Act so far as unrepealed |
+| 10 & 11 Vic., c. 32 | Landed Property Improvement (Ireland) Act 1847 | In section 21, from “, and to enter a memorial thereof in the abstract book” to end of section |
+| 11 & 12 Vic., c. 120 | Land Transfer (Ireland) Act 1848 | So far as unrepealed and relates to the Registrar of Deeds or the Registry of Deeds |
+| 14 & 15 Vic., c. 57 | Civil Bill Courts (Ireland) Act 1851 | Sections 89 and 90 |
+| 21 & 22 Vic., c. 72 | Landed Estates Court (Ireland) Act 1858 | In section 51, from “; and it shall and may be lawful for such owner” to end of section In section 85, the words “and may be registered in the office for registering deeds in Ireland” |
+| 23 & 24 Vic., c. 153 | Landed Property Improvement (Ireland) Act 1860 | Section 20 |
+| 27 & 28 Vic., c. 76 | Registration of Deeds (Ireland) Act 1864 | The whole Act |
+| 28 & 29 Vic., c. 88 | Record of Title (Ireland) Act 1865 | In section 7, from “Provided always” to end of section |
+| 34 & 35 Vic., c. 100 | Glebe Loan (Ireland) Amendment Act 1871 | In section 8, “in the city of Dublin” and from “and shall enter a memorial thereof” to end of section In section 13, from “in the city of Dublin, and for which no registration fee shall be payable” to end of section |
+| 38 & 39 Vic., c. 5 | Registry of Deeds (Ireland) Act 1875 | The whole Act so far as unrepealed |
+| 38 & 39 Vic., c. 82 | National School Teachers Residences (Ireland) Act 1875 | In section 5, “in the city of Dublin” and from “and shall enter a memorial thereof” to end of section |
+| 56 & 57 Vic., c. 39 | Industrial and Provident Societies Act 1893 | In section 43(2), “verified by oath or statutory declaration of any person”, so far as those words relate to the production of receipts to the Registry of Deeds, and from “and such registrar” to end of section, so far as those words relate to the Registrar of Deeds |
+| 59 & 60 Vic., c. 25 | Friendly Societies Act 1896 | In section 53(2), “verified by oath of any person”, so far as those words relate to the production of receipts to the Registrar of Deeds Section 53(4), in so far as it relates to the Registry of Deeds |
+| No. 25 of 1949 | Land Reclamation Act 1949 | In section 2(3) and section 3(7), “and no fee or other payment shall be required for registration” |
+| No. 10 of 1966 | Houses of the Oireachtas (Laying of Documents) Act 1966 | Section 4 |
+| No. 38 of 1976 | Building Societies Act 1976 | Section 84(3)(*b*) |
+| No. 28 of 1988 | Housing Act 1988 | Section 18(6) |
+
+### PART 2 — Enactments relating to Land Registry
+
+| No. 48 of 1936 | Courts of Justice Act 1936 | Section 73 Section 75, so far as it applies to the Registration of Title Rules Committee |
+|---|---|---|
+| No. 16 of 1964 | Registration of Title Act 1964 | Sections 4, 9 to 15 and 17 |
+| No. 35 of 1997 | Registration of Title (Amendment) Act 1997 | The whole Act |

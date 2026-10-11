@@ -1,0 +1,3446 @@
+---
+title: "European Arrest Warrant Act 2003"
+identifier: "eli/2003/act/45"
+type: act
+jurisdiction: ie
+language: en
+number: 45
+year: 2003
+date: 2003-12-28
+last_amended: 2024-07-23
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2003/act/45/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2003/act/45/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# European Arrest Warrant Act 2003
+
+AN ACT TO GIVE EFFECT TO COUNCIL FRAMEWORK DECISION OF 13 JUNE 2002[^1] ON THE EUROPEAN ARREST WARRANT AND THE SURRENDER PROCEDURES BETWEEN MEMBER STATES; TO AMEND THE EXTRADITION ACT 1965 AND CERTAIN OTHER ENACTMENTS; AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH. [28*th December*, 2003]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Application of Act extended (31.12.2020 at 11 p.m.) by *European Arrest Warrant (Application to Third Countries) (United Kingdom) Order 2020* (S.I. No. 720 of 2020), in effect as per art. 1(2).
+>
+> 3\. The provisions of the Act of 2003 that would, apart from section 2 of the European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012 (No. 30 of 2012) and orders made under subsection (2) of that section, apply only in relation to Member States shall apply in relation to the United Kingdom of Great Britain and Northern Ireland.
+>
+> 4\. Without prejudice to the generality of Article 3, the provisions of the Act of 2003 referred to in that Article shall, in accordance with Article LAW.SURR.112 of the Agreement, apply in relation to a European arrest warrant that satisfies the following conditions:
+>
+> (*a*) that the European arrest warrant has been issued by a judicial authority in the United Kingdom of Great Britain and Northern Ireland before 11.00 p.m. on the 31st day of December 2020, and
+>
+> (*b*) that the person in respect of whom the European arrest warrant is issued has not been arrested for the purposes of the execution of the European arrest warrant before 11.00 p.m. on the 31st day of December 2020.
+>
+> C2: Application of Act extended (15.09.2020) by *European Arrest Warrant (Application to Third Countries) (Iceland and Norway) Order 2020* (S.I. No. 346 of 2020), art. 2.
+>
+> 2\. The provisions of the European Arrest Warrant Act 2003 (No. 45 of 2003) that would, apart from section 2 of the European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012 (No. 30 of 2012) and this Order, apply only in relation to Member States shall apply in relation to Iceland and Norway.
+>
+> C3: Application of Act restricted (20.12.2013) by *European Communities Act 1972 (Interpretation and Translation in Criminal Proceedings) Regulations 2013* (S.I. No. 565 of 2013), reg. 10.
+>
+> PART IV
+>
+> *Proceedings for the execution of a European arrest warrant*
+>
+> 10\. Notwithstanding the provisions of the European Arrest Warrant Act 2003 (as amended), Parts I, II and III of these Regulations shall apply with any necessary modifications in proceedings for the execution of a European arrest warrant.
+>
+> **Editorial Notes:**
+>
+> E1: Proceedings under Act included in definition of "relevant proceedings" (21.08.2020) by *Civil Law and Criminal Law (Miscellaneous Provisions) Act 2020* (13/2020), s. 22, S.I. No. 306 of 2020.
+
+## PART 1Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title and commencement.
+
+**1.**—(1) This Act may be cited as the European Arrest Warrant Act 2003.
+
+(2) This Act comes into operation on 1 January 2004.
+
+### 2. Interpretation.
+
+**2.**—(1) In this Act, except where the context otherwise requires—
+
+“Act of 1965” means the Extradition Act 1965;
+
+“Act of 2001” means the Extradition (European Union Conventions) Act 2001;
+
+F1["alert" means an alert entered in the SIS for the arrest and surrender, on foot of a European arrest warrant, of the person named therein;]
+
+“Central Authority in the State” shall be read in accordance with *section 6*;
+
+F2[...]
+
+F3["Council Framework Decision 2009/299/JHA" means Council Framework Decision 2009/299/JHA of 26 February 2009 amending Framework Decisions 2002/584/JHA, 2005/214/JHA, 2006/783/JHA, 2008/909/JHA and 2008/947/JHA, thereby enhancing the procedural rights of persons and fostering the application of the principle of mutual recognition to decisions rendered in the absence of the person concerned at the trial,]
+
+F4["EU-Iceland Norway Agreement" means the Agreement between the European Union and the Republic of Iceland and the Kingdom of Norway on the surrender procedure between the Member States of the European Union and Iceland and Norway, done at Vienna on 28 June 2006[^2], approved on behalf of the European Union by Council Decision of 27 November 2014[^3];]
+
+F8["Eurojust" means the European Union Agency for Criminal Justice Cooperation established by Article 1 of Regulation (EU) 2018/1727 of the European Parliament and of the Council of 14 November 20181 on the European Union Agency for Criminal Justice Cooperation (Eurojust), and replacing and repealing Council Decision 2002/187/JHA, which replaced and succeeded Eurojust as established by the said Council Decision 2002/187/JHA[^4];]
+
+“European arrest warrant” means a warrant, order or decision of a judicial authority of a F9[relevant Member State], issued under such laws as give effect to the Framework Decision in that F10[relevant Member State], for the arrest and surrender by the State to that F11[relevant Member State] of a person in respect of an offence committed or alleged to have been committed by him or her under the law of that F12[relevant Member State];
+
+“European Communities” has the same meaning as it has in the European Communities Act 1972;
+
+F17[...]
+
+F18["flag" means the addition to an alert by the SIRENE Bureau of a Member State, the Republic of Iceland or the Kingdom of Norway, pertaining to a European arrest warrant, to the effect that an action to be taken on the basis of the alert in accordance with Article 24 or 25 of the SIS Regulation will not be taken in the State;]
+
+“Framework Decision” means Council Framework Decision of 13 June 2002 on the European arrest warrant and the surrender procedures between F13[relevant Member States], the text of which—
+
+(*a*) in the Irish language, is set out in *Part A* of the *Schedule*, and
+
+(*b*) in the English language, is set out in *Part B* of the *Schedule*;
+
+“functions” includes powers and duties, and references to the performance of functions include, as respects powers and duties, references to the exercise of the powers and the carrying out of the duties;
+
+F14["issuing judicial authority" means, in relation to a relevant arrest warrant, the judicial authority in the issuing state that issued the relevant arrest warrant concerned;]
+
+F15["issuing state" means —
+
+(*a*) in relation to a European arrest warrant, a relevant Member State designated under section 3, a judicial authority of which has issued that European arrest warrant,
+
+(*b*) in relation to a Trade and Cooperation Agreement arrest warrant, the United Kingdom of Great Britain and Northern Ireland, a judicial authority of which has issued that warrant, and
+
+(*c*) in relation to an arrest warrant within the meaning of the EU-Iceland Norway Agreement, the Republic of Iceland or the Kingdom of Norway, a judicial authority of which has issued that warrant;]
+
+“judicial authority” means the judge, magistrate or other person authorised under the law of the Member State concerned to perform functions the same as or similar to those performed under *section 33* by a court in the State;
+
+F16["Member State" means a relevant Member State of the European Communities (other than the State) and the United Kingdom of Great Britain and Northern Ireland, the Republic of Iceland and the Kingdom of Norway;]
+
+“Minister” means the Minister for Justice, Equality and Law Reform;
+
+F5["relevant agreement" means
+
+(*a*) in relation to a European arrest warrant, the Framework Decision,
+
+(*b*) in relation to a Trade and Cooperation Agreement arrest warrant, the Trade and Cooperation Agreement, and
+
+(*c*) in relation to an arrest warrant within the meaning of the EU-Iceland Norway Agreement, the EU-Iceland Norway Agreement;]
+
+F6["relevant arrest warrant" means—
+
+(*a*) a European arrest warrant,
+
+(*b*) a Trade and Cooperation Agreement arrest warrant, or
+
+(*c*) an arrest warrant within the meaning of the EU-Iceland Norway Agreement;
+
+"relevant Member State" means a Member State, other than, subject to subsection (3), the United Kingdom of Great Britain and Northern Ireland, the Republic of Iceland and the Kingdom of Norway;]
+
+F19["remand centre" has the same meaning as it has in section 3 of the Children Act 2001;]
+
+F1["Schengen Convention" means the Convention implementing the Schengen Agreement of 14 June 1985 between the Governments of the States of the Benelux Economic Union, the Federal Republic of Germany and the French Republic on the gradual abolition of checks at their common borders done at Schengen on 19 June 1990 and includes any amendment to or modification of that Convention whether before or after the passing of this Act but does not include the F21[SIS Regulation];
+
+F19["SIRENE Bureau", in relation to a Member State, the Republic of Iceland or the Kingdom of Norway, means the authority designated by the Member State, the Republic of Iceland or the Kingdom of Norway, as the case may be, in accordance with Article 7 of the SIS Regulation to perform the functions referred to in that Article;]
+
+"SIS" means the system referred to in Title IV of the Schengen Convention or, as appropriate, the system established under Chapter 1 of the F22[SIS Regulation];]
+
+F20["SIS Regulation" means Regulation (EU) 2018/1862 of the European Parliament and of the Council of 28 November 2018[^5] on the establishment, operation and use of the Schengen Information System (SIS) in the field of police cooperation and judicial cooperation in criminal matters, amending and repealing Council Decision 2007/533/JHA, and repealing Regulation (EC) No 1986/2006 of the European Parliament and of the Council and Commission Decision 2010/261/EU, as amended by Regulation (EU) 2019/818 of the European Parliament and of the Council of 20 May 2019[^6], Regulation (EU) 2021/1133 of the European Parliament and of the Council of 7 July 2021[^7], Regulation (EU) 2021/1150 of the European Parliament and of the Council of 7 July 2021[^8] and Regulation (EU) 2022/1190 of the European Parliament and of the Council of 6 July 2022[^9];]
+
+“third country” means a country other than the State or a Member State;
+
+F7["Trade and Cooperation Agreement" means the Trade and Cooperation Agreement between the European Union and the European Atomic Energy Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part, done at Brussels and London on 30 December 2020[^10];
+
+"Trade and Cooperation Agreement arrest warrant" means an arrest warrant within the meaning of Title VII of Part Three of the Trade and Cooperation Agreement;]
+
+“true copy” shall be read in accordance with *section 12(7)*.
+
+(2) In this Act—
+
+(*a*) a reference to a section, Part or Schedule is a reference to a section or Part of, or a Schedule to, this Act, unless it is indicated that a reference to some other enactment is intended,
+
+(*b*) a reference to a subsection, paragraph or subparagraph is a reference to a subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that a reference to some other provision is intended, and
+
+(*c*) a reference to any enactment is a reference to that enactment as amended, extended or adapted, whether before or after the passing of this Act, by or under any subsequent enactment.
+
+F23[(3) (*a*) In this Act, a reference to a European arrest warrant shall be construed as including a reference to a European arrest warrant that satisfies the following conditions:
+
+(i) that the European arrest warrant has been issued by a judicial authority in the United Kingdom of Great Britain and Northern Ireland before 11.00 p.m. on the 31st day of December 2020, and
+
+(ii) that the person in respect of whom the European arrest warrant is issued has been arrested for the purposes of the execution of the European arrest warrant before 11.00 p.m. on the 31st day of December 2020.
+
+(*b*) Where *paragraph (a)* applies, a reference in this Act to a "relevant Member State" shall be construed as a reference to the United Kingdom of Great Britain and Northern Ireland.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 4(a), (d), S.I. No. 330 of 2009.
+>
+> F2: Deleted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 3(a), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F3: Inserted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 4, commenced on enactment
+>
+> F4, F5, F6, F7: Inserted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 3(a)(vi), in effect as per reg. 1(2).
+>
+> F8: Substituted (12.12.2019) by *European Union (Eurojust) Regulations 2019* (S.I. No. 637 of 2019), reg. 3, in effect as per reg. 1(2).
+>
+> F9, F10, F11, F12, F13, F14, F15, F16: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 3(a)(i)-(v), in effect as per reg. 1(2).
+>
+> F17: Deleted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 4(c), S.I. No. 330 of 2009.
+>
+> F18, F19, F20: Inserted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 3(d), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F21, F22: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 3(b), (c), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F23: Inserted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 3(b), in effect as per reg. 1(2).
+>
+> **Editorial Notes:**
+>
+> E2: Previous affecting provision: definition of "Council decision" inserted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 4(b), S.I. No. 330 of 2009; deleted (1.05.2024) as per F-note above.
+
+### 3. Designated States.
+
+**3.**—(1) For the purposes of this Act, the Minister for Foreign Affairs may, by order, designate a F24[relevant Member State] that has, under its national law, given effect to the Framework Decision.
+
+(2) The Minister for Foreign Affairs may, by order, amend or revoke an order under this section, including an order under this subsection.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F24: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 4, in effect as per reg. 1(2).
+>
+> **Editorial Notes:**
+>
+> E3: Power pursuant to section exercised (31.12.2020 at 11 p.m.) by *European Arrest Warrant Act 2003 (Designated Member States) (Amendment) Order 2020* (S.I. No. 719 of 2020), in effect as per art. 2.
+>
+> E4: Power pursuant to section exercised (12.04.2014) by *European Arrest Warrant Act 2003 (Designated Member States) Order 2014* (S.I. No. 84 of 2014).
+>
+> E5: Power pursuant to section exercised (13.02.2007) by *European Arrest Warrant Act 2003 (Designated Member States) (No. 2) Order 2007* (S.I. No. 59 of 2007).
+>
+> E6: Power pursuant to section exercised (22.01.2007) by *European Arrest Warrant Act 2003 (Designated Member States) Order 2007* (S.I. No. 18 of 2007).
+>
+> E7: Power pursuant to section exercised (15.05.2005) by *European Arrest Warrant Act 2003 (Designated Member States) (No. 2) Order 2005* (S.I. No. 240 of 2005).
+>
+> E8: Power pursuant to section exercised (25.01.2005) by *European Arrest Warrant Act 2003 (Designated Member States) Order 2005* (S.I. No. 27 of 2005).
+>
+> E9: Power pursuant to section exercised (31.08.2004) by *European Arrest Warrant Act 2003 (Designated Member States) (No. 6) Order 2004* (S.I. No. 532 of 2004).
+>
+> E10: Power pursuant to section exercised (21.07.2004) by *European Arrest Warrant Act 2003 (Designated Member States) (No. 5) Order 2004* (S.I. No. 449 of 2004).
+>
+> E11: Power pursuant to section exercised (24.06.2004) by *European Arrest Warrant Act 2003 (Designated Member States) (No. 4) Order 2004* (S.I. No. 400 of 2004).
+>
+> E12: Power pursuant to section exercised (5.05.2004) by *European Arrest Warrant Act 2003 (Designated Member States) (No. 3) Order 2004* (S.I. No. 206 of 2004).
+>
+> E13: Power pursuant to section exercised (2.04.2004) by *European Arrest Warrant Act 2003 (Designated Member States) (No. 2) Order 2004* (S.I. No. 130 of 2004).
+>
+> E14: Power pursuant to section exercised (1.01.2004) by *European Arrest Warrant Act 2003 (Designated Member States) Order 2004* (S.I. No. 4 of 2004).
+
+### 4. Application of Act.
+
+4.—(1) F25[This] Act shall apply in relation to an offence, whether committed or alleged to have been committed before or after the commencement of this Act.
+
+(2) F26[...]
+
+(3) F26[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F25: Substituted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009) s. 5(a), S.I. No. 330 of 2009.
+>
+> F26: Deleted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 5(b), S.I. No. 330 of 2009.
+
+### 4A. Issuing state presumed to comply with Framework Decision.
+
+F27[**4A.**—It shall be presumed that an issuing state will comply with the requirements of F28[the relevant agreement], unless the contrary is shown.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F27: Inserted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 69, commenced on enactment, subject to transitional provision in s. 68.
+>
+> F28: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 5, in effect as per reg. 1(2).
+>
+> **Editorial Notes:**
+>
+> E15: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 5. Corresponding offences.
+
+F29[**5.**—For the purposes of this Act, an offence specified in a F30[relevant arrest warrant] corresponds to an offence under the law of the State, where the act or omission that constitutes the offence so specified would, if committed in the State on the date on which the F31[relevant arrest warrant] is issued, constitute an offence under the law of the State.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F29: Substituted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 5, commenced on enactment, subject to transitional provision in s. 68.
+>
+> F30, F31: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 6, in effect as per reg. 1(2).
+
+### 6. Central Authority in the State.
+
+**6.**—(1) The Minister shall be the Central Authority in the State for the purposes of this Act.
+
+(2) The Minister may, by order, designate such persons as he or she considers appropriate to perform such functions of the Central Authority in the State as are specified in the order and different persons may be so designated to perform different functions of the Central Authority in the State.
+
+(3) For so long as an order under *subsection (2)* remains in force, a reference in this Act to the Central Authority in the State shall, insofar as it relates to the performance of a function specified in the order, be construed as a reference to the person designated by the order to perform the function concerned.
+
+(4) The Minister shall, by notice in writing, inform the General Secretariat of the Council of the European Union of the making of an order under this section and of the names of the persons designated under the order.
+
+(5) The Minister may, by order, amend or revoke an order under this section (including an order under this subsection).
+
+(6) The Central Authority in the State shall, in each year, prepare a report on the operation, in the preceding year, of *Part 2*, and shall cause copies of each such report to be laid before both Houses of the Oireachtas as soon as may be after it is so prepared.
+
+### 7. Orders and regulations.
+
+**7.**—Every order and regulation under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order or regulation is passed by either such House within the next 21 days on which that House sits after the order or regulation is laid before it, the order or regulation shall be annulled accordingly, but without prejudice to anything previously done thereunder.
+
+### 8. Expenses.
+
+**8.**—The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## PART 2European Arrest Warrant — PART 2 — European Arrest Warrant
+
+### Chapter 1European Arrest Warrant Received in State — Chapter 1 — European Arrest Warrant Received in State
+
+#### 9. Executing judicial authority in the State.
+
+**9.**—For the purposes of F32[the relevant agreement], the High Court shall be the executing judicial authority in the State.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F32: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 7, in effect as per reg. 1(2).
+
+#### 10. Obligation to surrender.
+
+F33[**10.**—Where a judicial authority in an issuing state F34[...] issues a F36[relevant arrest warrant] in respect of a person—
+
+(*a*) F41[whom] that state intends to F42[prosecute] for an offence to which the F37[relevant arrest warrant] relates,
+
+(*b*) who is the subject of F43[a prosecution] in that state for an offence to which the F38[relevant arrest warrant] relates,
+
+(*c*) who has been convicted of, but not yet sentenced in respect of, an offence F44[in that state] to which the F39[relevant arrest warrant] relates, or
+
+(*d*) on whom a sentence of imprisonment or detention has been imposed F45[...] in respect of an offence to which the F40[relevant arrest warrant] relates, F35[...]
+
+(i) F35[...]
+
+(ii) F35[...]
+
+that person shall, F46[subject to and in accordance with the provisions of this Act, be arrested] and surrendered to the issuing state.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F33: Substituted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 71, commenced on enactment, subject to transitional provision in s. 68.
+>
+> F34, F35: Deleted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 6(a), (c)(ii), S.I. No. 330 of 2009, art. 2.
+>
+> F36, F37, F38, F39, F40: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 8(a), in effect as per reg. 1(2).
+>
+> F41, F42, F43: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 4(a), (b), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F44: Inserted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 6(b), S.I. No. 330 of 2009, art. 2.
+>
+> F45: Deleted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 4(c), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F46: Substituted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 5, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E16: Previous affecting provision: para. (d) amended (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 6(c)(i), S.I. No. 330 of 2009); deleted (1.05.2024) as per F-note above.
+
+#### 11. European arrest warrant.
+
+**11.**—F48[(1) A relevant arrest warrant shall, in so far as is practicable - (a) in the case of a European arrest warrant, be in the form set out in the Annex to the Framework Decision as amended by Council Framework Decision 2009/299/JHA, (b) in the case of a Trade and Cooperation Agreement arrest warrant, be in the form set out in Annex Law-5 to the Trade and Cooperation Agreement, and (c) in the case of an arrest warrant within the meaning of the EU-Iceland Norway Agreement, be in the form set out in the Annex to the EU-Iceland Norway Agreement.]
+
+F59[(1A) Subject to *subsection (2A)*, a F49[relevant arrest warrant] shall specify—
+
+(*a*) the name and the nationality of the person in respect of whom it is issued,
+
+(*b*) the name of the judicial authority that issued the F50[relevant arrest warrant], and the address of its principal office,
+
+(*c*) the telephone number, fax number and email address (if any) of that judicial authority,
+
+(*d*) the offence to which the F51[relevant arrest warrant] relates, including the nature and classification under the law of the issuing state of the offence concerned,
+
+(*e*) that a conviction, sentence or detention order is immediately enforceable against the person, or that a warrant for his or her arrest, or other order of a judicial authority in the issuing state having the same effect, has been issued in respect of F60[one of the offences to which the F52[relevant arrest warrant] relates,]
+
+(*f*) the circumstances in which the offence was committed or is alleged to have been committed, including the time and place of its commission or alleged commission, and the degree of involvement or alleged degree of involvement of the person in the commission of the offence, and
+
+(*g*) (i) the penalties to which that person would, if convicted of the offence specified in the F53[relevant arrest warrant], be liable,
+
+(ii) where that person has been convicted of the offence specified in the F54[relevant arrest warrant] but has not yet been sentenced, the penalties to which he or she is liable in respect of the offence, or
+
+(iii) where that person has been convicted of the offence specified in the F55[relevant arrest warrant] and a sentence has been imposed in respect thereof, the penalties of which that sentence consists.]
+
+(2) Where it is not practicable for the F56[relevant arrest warrant] to be in the form referred to in *subsection (1)*, it shall include such information, additional to the information specified in *subsection* F60[*(1A)*], as would be required to be provided were it in that form.
+
+F60[(2A) If any of the information to which *subsection (1A)* (inserted by section 72(*a*) of the Criminal Justice (Terrorist Offences) Act 2005) refers is not specified in the F57[relevant arrest warrant], it may be specified in a separate document.]
+
+(3) F61[...]
+
+(4) For the avoidance of doubt, a F58[relevant arrest warrant] may be issued in respect of one or more than one offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F47: Substituted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012*, s. 6, commenced on enactment.
+>
+> F48, F49, F50, F51, F52, F53, F54, F55, F56, F57, F58: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 9(a)-(e), in effect as per reg. 1(2).
+>
+> F59: Inserted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 72(a), (b), commenced on enactment, subject to transitional provision in s. 68.
+>
+> F60: Substituted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 7(a)-(c), S.I. No. 330 of 2009.
+>
+> F61: Deleted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 72(c), commenced on enactment, subject to transitional provision in s. 68.
+>
+> **Editorial Notes:**
+>
+> E17: Previous affecting provision: subs. (1) substituted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012*, s. 6, commenced on enactment; substituted as per F-note above.
+>
+> E18: Previous affecting provisions: subs. (1) substituted and subs. (2A) inserted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 72(a), (b), commenced on enactment; substituted as per E-note and F-note above.
+
+#### 12. Transmission of European arrest warrant.
+
+**12.**—(1) A F62[relevant arrest warrant] shall be transmitted by, or on behalf of, the issuing judicial authority to the Central Authority in the State and, where the F63[relevant arrest warrant] is in a language other than the Irish language, the English language or such other language as the Minister may by order prescribe, a translation of the F64[relevant arrest warrant] into the Irish language or the English language shall be so transmitted with the F65[relevant arrest warrant].
+
+(2) Such undertakings as are required to be given under this Act shall be transmitted by, or on behalf of, the F73[issuing judicial authority or the issuing state, as may be appropriate,] to the Central Authority in the State, and where any such undertaking is in a language other than the Irish language, the English language or such other languages as the Minister may by order prescribe, a translation of that undertaking into the Irish language or the English language shall be so transmitted with the undertaking.
+
+(3) A F66[relevant arrest warrant], or an undertaking required to be given under this Act F74[or any other document to be transmitted for the purposes of this Act], may be transmitted to the Central Authority in the State by—
+
+(*a*) delivering it to the Central Authority in the State, or
+
+F75[(*b*) any means capable of producing a written record under conditions allowing the Central Authority in the State to establish its authenticity.]
+
+F76[(3A) An undertaking required under this Act may be set out in the F67[relevant arrest warrant] or in a separate document.]
+
+F77[(3B) The written record of a document that is transmitted in accordance with *subsection (3)(b)* shall be deemed to be the document that was transmitted and, in the case of the further transmission of the document electronically by or on behalf of the Central Authority in the State to the High Court, the written record of the document that is further transmitted shall be deemed to be the document that was transmitted to the Central Authority.]
+
+(4) F78[...]
+
+(5) F78[...]
+
+(6) F78[...]
+
+F75[(7) For the purposes of this Act, a document shall be deemed to be a true copy of an original document if it has been certified as a true copy of the original document by—
+
+(*a*) the issuing judicial authority, or
+
+(*b*) an officer of the central authority of the issuing state.]
+
+(8) In proceedings to which this Act applies, a document that purports to be—
+
+(*a*) a F68[relevant arrest warrant] issued by a judicial authority in the issuing state,
+
+(*b*) an undertaking required under this Act of F79[an issuing judicial authority or the issuing state, as may be appropriate,]
+
+F80[(*c*) a document referred to in *section 11(2A)* (inserted by section 72(b) of the Criminal Justice (Terrorist Offences) Act 2005),]
+
+(*c*) a translation of a F69[relevant arrest warrant] or undertaking under this Act, or
+
+(*d*) a true copy of such a document,
+
+shall be received in evidence without further proof.
+
+(9) In proceedings to which this Act applies, a document that purports to be a F81[...] true copy of a F70[relevant arrest warrant], undertaking or translation referred to in *subsection (8)* shall, unless the contrary is shown, be evidence of the F71[relevant arrest warrant], undertaking or translation concerned, as the case may be.
+
+(10) The Minister may, for the purposes of ensuring the accuracy of documents transmitted in accordance with this section, make regulations prescribing—
+
+(*a*) the procedures that shall be followed in connection with the transmission of documents in accordance with this section, and
+
+(*b*) that such features as are specified in the regulations shall be present in any equipment being used in that connection.
+
+F82[(11) In this section "F72[relevant arrest warrant]" includes a document referred to in *section 11(2A)* (inserted by section 72(b) of the Criminal Justice (Terrorist Offences) Act 2005).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F62, F63, F64, F65, F66, F67, F68, F69, F70, F71, F72: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 10(a)-(f), in effect as per reg. 1(2).
+>
+> F73: Substituted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 73(a), commenced on enactment, subject to transitional provision in s. 68.
+>
+> F74: Inserted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 8(a)(i), S.I. No. 330 of 2009, art. 2.
+>
+> F75: Substituted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 8(a)(ii), (c), S.I. No. 330 of 2009, art. 2.
+>
+> F76: Inserted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 73(b), commenced on enactment, subject to transitional provision in s. 68.
+>
+> F77: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 5, S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F78: Deleted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 8(b), S.I. No. 330 of 2009, art. 2.
+>
+> F79: Substituted (8.23.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 73(f), commenced on enactment, subject to transitional provision in s. 68.
+>
+> F80: Inserted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 73(g), commenced on enactment, subject to transitional provision in s. 68.
+>
+> F81: Deleted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 8(d), S.I. No. 330 of 2009.
+>
+> F82: Substituted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 73(h), commenced on enactment, subject to transitional provision in s. 68.
+>
+> **Editorial Notes:**
+>
+> E19: Previous affecting provision: subs. (3B) inserted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 7, commenced on enactment; substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 5, S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> E20: It may be that the numbering of the second subs. (8)(c) inserted as per F-note above was intended to be subs. (8)(e).
+>
+> E21: Previous affecting provision: subss. (4), (5) substituted and subs. (6) amended (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), section 73(c)-(e), commenced on enactment; substituted as per F-note above.
+
+#### 13. Application to High Court for endorsement to execute European arrest warrant.
+
+**13.**—(1) The Central Authority in the State shall, as soon as may be after it receives a F83[relevant arrest warrant] transmitted to it in accordance with *section 12*, apply, or cause an application to be made, to the High Court for the endorsement by it of the F84[relevant arrest warrant], or a F90[...] true copy thereof, for execution of the F85[relevant arrest warrant] concerned.
+
+F92[(2) Upon an application under *subsection (1)*, the High Court shall, in relation to a relevant arrest warrant, decide as soon as may be whether there has been compliance with the provisions of this Act, and, if so satisfied, shall, in accordance with the provisions of this Act, endorse the relevant arrest warrant for execution.]
+
+(3) A F86[relevant arrest warrant] may, upon there being compliance with *subsection (2)*, be executed by any member of the Garda Síochána in any part of the State and may be so executed notwithstanding that it is not in the possession of the member when he or she executes the F86[relevant arrest warrant], and the warrant, F93[...] the true copy of the warrant, as the case may be, endorsed in accordance with *subsection (2)*, shall be shown to and a copy thereof given to, the person arrested at the time of his or her arrest or, if the warrant F93[...] or true copy, as the case may be, is not then in the possession of the member, not later than 24 hours after the person’s arrest.
+
+(4) A person arrested under a F87[relevant arrest warrant] shall, upon his or her arrest, be informed of his or her right to—
+
+(*a*) consent to his or her being surrendered to the issuing state under *section 15*,
+
+(*b*) obtain, or be provided with, professional legal advice and F94[representation,]
+
+(*c*) where appropriate, obtain, or be provided with, the services of F95[an interpreter, and]
+
+F98[(*d*) in the case of a Trade and Cooperation Agreement arrest warrant, and without prejudice to *paragraph (b)*, obtain, or be provided with, professional legal advice in the issuing state for the purposes of assisting his or her legal representatives in the State in respect of the proceedings under this Act.]
+
+(5) A person arrested under a F88[relevant arrest warrant] shall, as soon as may be after his or her arrest, be brought before the High Court, and the High Court shall, if satisfied that that person is the person in respect of whom the F89[relevant arrest warrant] was issued—
+
+(*a*) remand the person in custody or on bail (and, for that purpose, the High Court shall have the same powers in relation to remand as it would have if the person were brought before it charged with an indictable offence),
+
+(*b*) fix a date for the purpose of *section 16* (being a date that falls not later than 21 days after the date of the person's arrest), and
+
+(*c*) inform the person that he or she has the right to—
+
+(i) consent to his or her surrender to the issuing state under *section 15*,
+
+(ii) obtain, or be provided with, professional legal advice and F96[representation,]
+
+(iii) where appropriate, obtain, or be provided with, the services of F97[an interpreter, and]
+
+F99[(iv) in the case of a Trade and Cooperation Agreement arrest warrant, and without prejudice to *subparagraph (ii)*, obtain, or be provided with, professional legal advice in the issuing state for the purposes of assisting his or her legal representatives in the State in respect of the proceedings under this Act.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F83, F84, F85, F86, F87, F88, F89: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 11(a), (c)-(e), in effect as per reg. 1(2).
+>
+> F90: Deleted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 9(a), S.I. No. 330 of 2009.
+>
+> F91: Substituted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 8(1), commenced on enactment.
+>
+> F92: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 6(a), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F93: Deleted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 9(c), S.I. No. 330 of 2009.
+>
+> F94, F95, F96, F97: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 6(b)(i), (ii), (c)(i), (ii), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F98, F99: Inserted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 6(b)(iii), (c)(iii), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> **Editorial Notes:**
+>
+> E22: Previous affecting provision: subs. (2) amended (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 11(b), in effect as per reg. 1(2); subsection substituted (1.05.2024) as per F-note above.
+>
+> E23: Previous affecting provision: subs. (2) substituted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 8(1), commenced on enactment; substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 6(a), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> E24: Previous affecting provision: subs. (2)(b) deleted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 9(b), S.I. No. 330 of 2009; subs. (2) substituted as per F-note above.
+
+#### 14. Arrest without warrant for surrender purposes.
+
+F100[**14.**— (1) A member of the Garda Síochána may arrest any person without a warrant that the member believes, on reasonable grounds, to be a person named in an alert.
+
+(2) A person arrested under this section shall, upon his or her arrest, be informed, in ordinary language, of the reason for the arrest and of his or her right to—
+
+(*a*) obtain or be provided with professional legal advice and representation, and
+
+(*b*) where appropriate, obtain or be provided with the services of an interpreter.
+
+(3) A person arrested under this section shall, as soon as may be after his or her arrest—
+
+(*a*) be furnished with a copy of the alert, and
+
+(*b*) be brought before the High Court, which court shall, if satisfied that he or she is the person named in the alert—
+
+(i) inform the person of his or her right to—
+
+(I) obtain or be provided with professional legal advice and representation, and
+
+(II) where appropriate, obtain or be provided with the services of an interpreter,
+
+and
+
+(ii) remand the person in custody or, at its discretion, on bail for a period not exceeding 14 days (and for that purpose the High Court shall have the same powers in relation to remand as it would have if the person were brought before it charged with an indictable offence) for production to the High Court of the European arrest warrant on foot of which the alert was entered.
+
+(4) Where, in respect of a person remanded in custody or on bail under *subsection (3)*, a European arrest warrant is transmitted to the Central Authority in the State pursuant to *section 12*—
+
+(*a*) that person shall be brought before the High Court as soon as may be,
+
+(*b*) the European arrest warrant shall be produced to the High Court,
+
+(*c*) a copy shall be given to that person, and
+
+(*d*) the High Court, if satisfied that the provisions of this Act have been complied with and that the person before it is the person in respect of whom the European arrest warrant was issued, shall—
+
+(i) inform the person of his or her right to consent to being surrendered to the issuing state under *section 15*, and
+
+(ii) if the person does not exercise his or her right to consent under *paragraph (i)*—
+
+(I) remand the person in custody or on bail (and for that purpose the High Court shall have the same powers in relation to remand as it would have if the person were brought before it charged with an indictable offence), and
+
+(II) fix a date for the purposes of section 16 within the period of 21 days next following.
+
+(5) Where, in respect of a person remanded in custody or on bail under *subsection (3)*, the European arrest warrant is not produced on the date fixed by the Court for the purpose under that subsection the person F101[shall be released from custody or the terms of his or her bail].]
+
+F102[(6) The release of a person under *subsection (5)* shall not prevent his or her re-arrest and surrender if a European arrest warrant for his or her surrender is received by the Central Authority and subsequently endorsed by the High Court for execution.
+
+(7) Where the arrest and surrender of a person named in an alert is sought, the High Court shall direct the Commissioner of the Garda Síochána to request the SIRENE Bureau concerned to add a flag to the alert where—
+
+(*a*) the person has been remanded on bail,
+
+(*b*) the High Court has refused to surrender the person in accordance with *section 16*, or
+
+(*c*) the person has been released from custody or the terms of his or her bail in accordance with *subsection (5)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F100: Substituted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 10, S.I. No. 330 of 2009.
+>
+> F101: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 7(a), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F102: Inserted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 7(b), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> **Editorial Notes:**
+>
+> E25: Previous affecting provisions: subss. (6), (7) substituted and subs. (10) amended (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 74, commenced on enactment; section substituted as per F-note above.
+
+#### 14A. Facilitation of hearing by judicial authority of issuing state
+
+F103[**14A.**—(1) Without prejudice to Part 4 of the Civil Law and Criminal Law (Miscellaneous Provisions) Act 2020, this section applies where—
+
+(*a*) a relevant arrest warrant has been issued by a judicial authority in an issuing state, and
+
+(*b*) a decision regarding whether to make an order directing that a person be surrendered has not been taken.
+
+(2) Where this section applies, the High Court shall, where practicable and on being satisfied that it is not contrary to the interests of justice, upon receiving a request from a judicial authority of an issuing state to facilitate a person in respect of whom the relevant arrest warrant was issued appearing using a live video link between that judicial authority and the place where the person is located, direct that arrangements be made to facilitate the video link request.
+
+(3) Where a request is made, regarding a relevant arrest warrant issued in respect of a person who the issuing state intends to prosecute for an offence to which the warrant relates, that arrangements pursuant to the applicable relevant provisions be put in place to facilitate the person being heard by a judicial authority of the issuing state, the High Court shall decide whether—
+
+(*a*) subject to *subsection (5)*, to order the temporary transfer of the person to the issuing state, or
+
+(*b*) to direct that the person be heard in accordance with *subsection (7)*.
+
+(4) The High Court shall, in making its decision under *subsection (3)*, have regard to the views of the person concerned.
+
+(5) The High Court shall not order a temporary transfer under *subsection (3)(a)* unless it is satisfied that the person shall be able to return to the State to participate in proceedings relating to him or her to which this Act applies.
+
+(6) Where the High Court decides under *subsection (3)(a)* to order the temporary transfer of a person to the issuing state, the High Court shall, with the agreement of the issuing judicial authority, determine the conditions and duration of the transfer.
+
+(7) Where the High Court decides under *subsection (3)(b)* to direct that the person be heard in accordance with *subsection (7)*, the High Court shall, subject to *subsection (8)*, direct that the person be heard—
+
+(*a*) by a judge of the High Court, nominated by the President of the High Court, assisted by a person designated by the issuing state, and
+
+(*b*) without prejudice to *paragraph (a)*, otherwise in accordance with the law of the State applicable to proceedings under this Act.
+
+(8) The High Court may, with the agreement of the issuing judicial authority, agree such other conditions as may be required for the purposes of this section.
+
+(9) In this section, "applicable relevant provisions" in relation to a relevant arrest warrant means—
+
+(*a*) in respect of a European Arrest Warrant, Articles 18 and 19 of the Framework Decision,
+
+(*b*) in respect of a Trade and Cooperation Arrest Warrant, Articles 617 and 618 of the Trade and Cooperation Agreement, and
+
+(*c*) in respect of an arrest warrant within the meaning of the EU Iceland Norway Agreement, Articles 21 and 22 of the EU Iceland Norway Agreement.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F103: Inserted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 8, S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+
+#### 14B. Warrant for temporary transfer of person to issuing state
+
+F104[**14B.**—(1) The Minister shall, on the grant of an order under *subsection (3)(a)*, issue a warrant under section 66 of the Criminal Justice (Mutual Assistance) Act 2008 for the temporary transfer of the person out of the State to the issuing state.
+
+(2) For the purposes of *subsection (1)*, section 66 of the Criminal Justice (Mutual Assistance) Act 2008 shall apply subject to the following modifications:
+
+(*a*) a reference in section 66 to a request shall be construed as a reference to a request under *section 14A(3)*,
+
+(*b*) a reference in section 66 to—
+
+(i) a person serving a sentence of imprisonment in a prison, and
+
+(ii) a prisoner,
+
+shall be construed as a reference to the person referred to in *subsection (1)*,
+
+(*c*) a reference in section 66 to a—
+
+(i) designated state, and
+
+(ii) requesting authority,
+
+shall be construed as a reference to the issuing state,
+
+(*d*) the purpose for which the warrant may be issued shall be to ensure that the person is heard in the issuing state pursuant to the applicable relevant provisions (within the meaning of *section 14A*),
+
+(*e*) a reference in section 66 to a prison shall be construed as including a reference to a remand centre,
+
+(*f*) subsections (2), (3) and (6) of section 66 shall not apply, and
+
+(*g*) any other necessary modifications.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F104: Inserted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 8, S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+
+#### 15. Consent to surrender.
+
+**15.**—F105[(1) Where a person is brought before the High Court under *section 13*, he or she may consent to his or her being surrendered to the issuing state and, if he or she so consents, the High Court shall—
+
+(*a*) if the F106[relevant arrest warrant], or a F108[...] true copy thereof, has been endorsed in accordance with *section 13* for execution of the warrant,
+
+(*b*) if it is satisfied that—
+
+(i) the person voluntarily consents to his or her being surrendered to the issuing state concerned and is aware of the consequences of his or her so consenting, and
+
+(ii) the person has obtained, or has been afforded the opportunity of obtaining or being provided with professional legal advice before consenting to his or her surrender,
+
+(*c*) if it is not required, under F109[...] *22*, *23* or *24* (inserted by F111[sections 80], 81 and 82 of the Criminal Justice (Terrorist Offences) Act 2005), to refuse to surrender the person under this Act, and
+
+F115[(*d*) if the surrender of the person is not prohibited F112[by, or refused under, *Part 3*],]
+
+make an order directing that the person be surrendered to such other person as is duly authorised by the issuing state to receive him or her.
+
+(2) Where a person is brought before the High Court under *section 14*, he or she may consent to his or her being surrendered to the issuing state and, if he or she so consents, the High Court shall—
+
+(*a*) upon production to the High Court of the F107[relevant arrest warrant] or F116[a true copy] thereof,
+
+(*b*) if it is satisfied that—
+
+(i) the person voluntarily consents to his or her being surrendered to the issuing state concerned and is aware of the consequences of his or her so consenting, and
+
+(ii) the person has obtained, or has been afforded the opportunity of obtaining or being provided with, professional legal advice and representation before consenting to his or her surrender,
+
+(*c*) if it is not required, under F110[...] *22*, *23* or *24* (inserted by F113[sections 80], 81 and 82 of the Criminal Justice (Terrorist Offences) Act 2005), to refuse to surrender the person under this Act, and
+
+F115[(*d*) if the surrender of the person is not prohibited F114[by, or refused under, *Part 3*],]
+
+make an order directing that the person be surrendered to such other person as is duly authorised by the issuing state to receive him or her.]
+
+F117[(3) An order—
+
+(*a*) under *subsection (1)* shall, subject to *section 18*, be made within the period of 10 days beginning on the date on which the person provides his or her consent to the High Court to his or her being surrendered to the issuing state, or
+
+(*b*) under *subsection (2)* shall, following the period of time for which the person is remanded under *section 14(3)(b)(ii)* and subject to *section 18*, be made within the period of 10 days beginning on the date on which the person provides his or her consent to the High Court to his or her being surrendered to the issuing state.]
+
+F115[(3A) Subject to F118[*subsections (5), (5C), (6)* and *(6A)*], a person to whom an order for the time being in force under *subsection (1)* or *(2)* applies shall be surrendered to the issuing state concerned not later than 10 days after the order takes effect in accordance with *subsection (3)*.]
+
+F119[(3B) An appeal against an order under *subsection (1)* or *(2)*, or a decision not to make such an order, may be brought in the Supreme Court if, and only if, the High Court certifies that the order or decision involves a point of law of exceptional public importance and that it is desirable in the public interest that an appeal should be taken to the Supreme Court.]
+
+F120[(4) Where the High Court makes an order under *subsection (1)* or *(2)*, it shall, unless it orders postponement of surrender under *section 18*—
+
+(*a*) inform the person to whom the order relates of his or her right to make a complaint under Article 40.4.2° of the Constitution F121[within the period of 10 days referred to in *paragraph (a)* or *(b)*, as applicable, of *subsection (3)*],
+
+(*b*) record in writing that the person concerned has consented to his or her being surrendered to the F122[issuing state concerned and, where appropriate, that the person has renounced his or her entitlement not to be prosecuted, sentenced or otherwise deprived of his or her liberty for an offence committed prior to his or her surrender other than that for which he or she was surrendered,]
+
+(*c*) order that that person be detained in a prison F123[(or, if the person is not more than 18 years of age, in a remand centre)] for a period not exceeding 20 days pending the carrying out of the terms of the order, and
+
+(*d*) direct that the person be again brought before the High Court—
+
+(i) if he or she is not surrendered before the expiration of the time for surrender under *subsection (3A)*, as soon as practicable after that expiration, or
+
+(ii) if it appears to the Central Authority in the State that, because of circumstances beyond the control of the State or the issuing state concerned, that person will not be surrendered on the expiration referred to in *subparagraph (i)*, before that expiration.]
+
+F124[(5) Where a person is brought before the High Court pursuant to *subsection (4)(d)*—
+
+(*a*) the High Court shall, if satisfied that, because of circumstances beyond the control of the State or the issuing state concerned, the person was not surrendered within the time for surrender under *subsection (3A)* or, as the case may be, will not be so surrendered—
+
+(i) notify the issuing judicial authority without delay and, with the agreement of that authority, fix a new date for the surrender of the person, and order that the person be detained in a prison (or if the person is not more than 18 years of age, in a remand centre) for a period not exceeding 10 days, pending the agreement of a date for the purpose of this subparagraph, and
+
+(ii) on agreement of a date under *subparagraph (i)*, order that the person be detained in a prison (or, if the person is not more than 18 years of age, in a remand centre) for a period not exceeding 10 days after the date fixed under *subparagraph (i)*, pending the surrender,
+
+(*b*) the High Court shall continue to apply the provisions of *paragraph (a)* for so long as it is satisfied that the person will not be surrendered before the expiration of the period specified under *paragraph (a)(ii)* because of circumstances beyond the control of the State or the issuing state concerned, and
+
+(*c*) in any other case, the High Court shall—
+
+(i) notify the issuing judicial authority without delay and, with the agreement of that authority, fix a new date for the surrender of the person, and
+
+(ii) remand the person on bail (and for that purpose the High Court shall have the same powers in relation to remand as it would have if the person was brought before it charged with an indictable offence) pending the carrying out of the order directing that the person be surrendered to the issuing state.]
+
+F125[(5A) A person to whom an order for the time being in force under *subsection (5)(a)* applies shall be surrendered to the issuing state concerned not later than 10 days after any new date fixed under that subsection.]
+
+F127[(5B) Where a person is ordered, under *subsection (4)(c)*, to be detained in a prison F126[(or, if the person is not more than 18 years of age, in a remand centre)] and is brought before the High Court pursuant to *subsection (4)(d)*, the person shall be deemed to be in lawful custody at all times beginning at the time of the making of the order under *subsection (4)(c)* and ending when he or she is brought before the Court.]
+
+F128[(5C) (*a*) Where, in particular circumstances, the High Court has not, within 10 days beginning on the date the person provides his or her consent to the High Court to his or her being surrendered to the issuing state, made an order under *subsection (1)* or *(2)* or has decided not to make an order under *subsection (1)* or *(2)*, the Court shall, without delay, direct the Central Authority in the State to inform the issuing judicial authority in relation thereto and of the reasons therefor specified in the direction, and the Central Authority in the State shall comply with the direction.
+
+(*b*) The Court may extend the period of time referred to in *paragraph (a)* for a further period of 30 days, where it considers it appropriate and just in the circumstances to do so.]
+
+F131[(6) Where a person—
+
+(*a*) lodges an appeal pursuant to *subsection (3B)*, or
+
+(*b*) makes a complaint under Article 40.4.2° of the Constitution,
+
+he or she shall not be surrendered to the issuing state while proceedings relating to the appeal or complaint are pending.
+
+F129[(6A) If, in exceptional circumstances, the proceedings referred to in *subsection (6)* have not been finally determined after the expiration of 40 days from the person’s consent, pursuant to *subsection (3)*, the High Court shall—
+
+(*a*) notify the issuing judicial authority and Eurojust without delay, provide reasons as to why the proceedings have not yet been finalised and, on conclusion of those proceedings and with that authority’s agreement, fix a new date for the surrender of the person, and
+
+(*b*) order that the person be detained in a prison (or if the person is not more than 18 years of age, in a remand centre) for a period not exceeding 10 days after the date fixed under *paragraph (a)*, pending the surrender.]
+
+(7) Where a person lodges an appeal pursuant to *subsection (3B)*, the High Court may remand the person in custody or on bail pending the hearing of the appeal and, for that purpose, the High Court shall have the same powers in relation to remand as it would have if the person were brought before it charged with an indictable offence.]
+
+F130[(7A) The period of 40 days referred to in *subsection (6A)* consists of the aggregate of the initial period of 10 days referred to in *subsection (3)* and such further extension of 30 days as may be granted by the High Court under *subsection (5C)(b)*.]
+
+(8) F132[...]
+
+(9) F132[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F105: Substituted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 75(a), commenced on enactment, subject to transitional provision in s. 68.
+>
+> F106, F107: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 12(a), (b), in effect as per reg. 1(2).
+>
+> F108: Deleted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 11(a), S.I. No. 330 of 2009.
+>
+> F109, F110: Deleted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 9(a)(i)(I), (b)(i)(I), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F111, F112, F113, F114: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 9(a)(i)(II), (ii), (b)(i)(II), (ii), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F115: Substituted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 9(a), (b), commenced on enactment.
+>
+> F116: Substituted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 11(b), S.I. No. 330 of 2009.
+>
+> F117, F118: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 9(c), (d), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F119: Inserted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 9(c), commenced on enactment.
+>
+> F120: Substituted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 9(c), commenced on enactment.
+>
+> F121, F122, F123: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 9(e)-(g), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F124, F125, F126: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 9(h)-(j), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F127: Inserted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 9(c), commenced on enactment.
+>
+> F128, F129, F130: Inserted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 9(k)-(m), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F131: Substituted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 9(c), commenced on enactment.
+>
+> F132: Deleted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 9(c), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E26: Previous affecting provision: subss. (3), (5) substituted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 9(c), commenced on enactment; substituted (1.05.2024) as per F-note above.
+>
+> E27: Previous affecting provision: subs. (5A) inserted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 9(c), commenced on enactment; substituted (1.05.2024) as per F-note above.
+>
+> E28: Previous affecting provision: subs. (3A) inserted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 11(c), S.I. No. 330 of 2009; substituted as per F-note above.
+>
+> E29: Previous affecting provision: subs. (5)(5) amended (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 11(d), S.I. No. 330 of 2009; substituted as per F-note above.
+>
+> E30: Previous affecting provisions: subss. (6), (7), (9) substituted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 11(e)-(g), S.I. No. 330 of 2009; substituted as per F-notes above.
+>
+> E31: Previous affecting provisions: subss. (3), (5)(a), (7) substituted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 75(b)-(d), commenced on enactment; substituted as per F-notes above.
+
+#### 16. Committal of person named in European arrest warrant.
+
+**16.**—F133[(1) Where a person does not consent to his or her surrender to the issuing state F134[...] the High Court F135[shall], upon such date as is fixed F136[under *section 13* or, subject to *subsection (3)*,] such later date as it considers appropriate, make an order directing that the person be surrendered to such other person as is duly authorised by the issuing state to receive him or her, provided that—
+
+(*a*) the High Court is satisfied that the person before it is the person in respect of whom the F139[relevant arrest warrant] was issued,
+
+(*b*) the F140[relevant arrest warrant], or a F134[...] true copy thereof, has been endorsed in accordance with *section 13* for execution of the warrant,
+
+F144[(*c*) the F141[European arrest warrant or Trade and Cooperation Agreement arrest warrant, as the case may be,] states, where appropriate, the matters required by section 45 (inserted by section 23 of the European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012),]
+
+(*d*) the High Court is not required, under F145[...] *22*, *23* or *24* (inserted by F137[sections 80], 81 and 82 of the Criminal Justice (Terrorist Offences) Act 2005), to refuse to surrender the person under this Act, and
+
+F144[(*e*) the surrender of the person is not prohibited F138[by, or refused under, *Part 3*].]]
+
+F133[(2) Where a person does not consent to his or her surrender to the issuing state F134[...], the High Court F147[shall], upon such date as is fixed F148[under *section 14* or, subject to *section (3)*,] such later date as it considers appropriate, make an order directing that the person be surrendered to such other person as is duly authorised by the issuing state to receive him or her, provided that—
+
+F144[(*a*) the F142[European arrest warrant or Trade and Cooperation Agreement arrest warrant, as the case may be, including], where appropriate, the matters required by section 45 (inserted by section 23 of the European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012), is provided to the court,]
+
+(*b*) the High Court is satisfied that the person before it is the person in respect of whom the F143[relevant arrest warrant] was issued,
+
+(*c*) the High Court is not required, under F146[...] *22*, *23* or *24* (inserted by F149[sections 80], 81 and 82 of the Criminal Justice (Terrorist Offences) Act 2005), to refuse to surrender the person under this Act, and
+
+F144[(*d*) the surrender of the person is not prohibited F150[by, or refused under, *Part 3*].]]
+
+F151[(2A) Where the High Court does not—
+
+(*a*) make an order under *subsection (1)* on the date fixed under *section 13*, or
+
+(*b*) make an order under *subsection (2)* on the date fixed under *section 14*,
+
+it may remand the person before it in custody or on bail and, for those purposes, the High Court shall have the same powers in relation to remand as it would have if the person were brought before it charged with an indictable offence.]
+
+F152[(3) An order under *subsection (1)* or *(2)* shall, subject to *subsection (3B)(b)*, be made not later than 60 days from the date of the person’s arrest.]
+
+F155[(3A) Subject to F153[*subsections (3B), (5), (6)*, and *(6A)*], a person to whom an order for the time being in force under *subsection (1)* or *(2)* applies shall be surrendered to the issuing state concerned not later than 10 days after the order takes effect in accordance with *subsection (3)*.
+
+F156[(3B) (*a*) Where the High Court has not, upon the expiration of 60 days from the arrest of the person under *section 13* or *14*, made an order under *subsection (1)* or *(2)*, it shall, without delay, so inform the issuing judicial authority.
+
+(*b*) The High Court may extend the period of time specified under *paragraph (a)* for a further period of 30 days, where the Court considers it appropriate and just in the circumstances to do so.]
+
+(4) Where the High Court makes an order under *subsection (1)* or *(2)*, it shall, unless it orders postponement of surrender under *section 18*—
+
+(*a*) inform the person to whom the order relates of his or her right to make a complaint under Article 40.4.2° of the Constitution at any time before his or her surrender to the issuing state,
+
+(*b*) order that that person be detained in a prison F154[(or, if the person is not more than 18 years of age, in a remand centre)] for a period not exceeding 25 days pending the carrying out of the terms of the order, and
+
+(*c*) direct that the person be again brought before the High Court—
+
+(i) if he or she is not surrendered before the expiration of the time for surrender under *subsection (3A)*, as soon as practicable after that expiration, or
+
+(ii) if it appears to the Central Authority in the State that, because of circumstances beyond the control of the State or the issuing state concerned, that person will not be surrendered on the expiration referred to in *subparagraph (i)*, before that expiration.
+
+F157[(5) Where a person is brought before the High Court pursuant to *subsection (4)(c)*—
+
+(*a*) the High Court shall, if satisfied that, because of circumstances beyond the control of the State or the issuing state concerned, the person was not surrendered within the time for surrender under *subsection (3A)* or, as the case may be, will not be so surrendered—
+
+(i) notify the issuing judicial authority without delay and, with the agreement of that authority, fix a new date for the surrender of the person, and order that the person be detained in a prison (or, if the person is not more than 18 years of age, in a remand centre) for a period not exceeding 10 days, pending the agreement of a date for the purpose of this subparagraph, and
+
+(ii) on agreement of a date under *subparagraph (i)*, order that the person be detained in a prison (or, if the person is not more than 18 years of age, in a remand centre) for a period not exceeding 10 days after the date fixed under *subparagraph (i)*, pending the surrender,
+
+(*b*) the High Court shall continue to apply the provisions of *paragraph (a)* for so long as it is satisfied that the person will not be surrendered before the expiration of the period specified under *paragraph (a)(ii)* because of circumstances beyond the control of the State or the issuing state concerned, and
+
+(*c*) in any other case, the High Court shall—
+
+(i) notify the issuing judicial authority without delay and, with the agreement of that authority, fix a new date for the surrender of the person, and
+
+(ii) remand the person on bail (and for that purpose the High Court shall have the same powers in relation to remand as it would have if the person was brought before it charged with an indictable offence) pending the carrying out of the order directing that the person be surrendered to the issuing state.]
+
+F158[(5A) A person to whom an order for the time being in force under *subsection (5)(a)* applies shall be surrendered to the issuing state concerned not later than 10 days after any new date fixed under that subsection.]
+
+(5B) Where a person is ordered, under *subsection (4)(b)*, to be detained in a prison F159[(or, if the person is not more than 18 years of age, in a remand centre)] and is brought before the High Court pursuant to *subsection (4)(c)*, the person shall be deemed to be in lawful custody at all times beginning at the time of the making of the order under *subsection (4)(b)* and ending when he or she is brought before the Court.
+
+(6) Where a person—
+
+(*a*) lodges an appeal pursuant to *subsection (11)*, or
+
+(*b*) makes a complaint under Article 40.4.2° of the Constitution,
+
+he or she shall not be surrendered to the issuing state while proceedings relating to the appeal or complaint are F160[pending, provided that the proceedings comply with the time limit specified in *subsection (3)* or, where applicable, *(3B)*.]
+
+F162[(6A) If, in exceptional circumstances, the proceedings referred to in *paragraph (a)* or *(b)* of *subsection (6)* have not been finalised within 90 days of the person’s arrest, pursuant to *section 13* or *14*, the High Court shall—
+
+(*a*) notify the issuing judicial authority and Eurojust without delay, provide reasons as to why the proceedings have not yet been finalised and, on conclusion of those proceedings and with that authority’s agreement, fix a new date for the surrender of the person, and
+
+(*b*) order that the person be detained in a prison (or, if the person is not more than 18 years of age, in a remand centre) for a period not exceeding 10 days after the date fixed under *paragraph (a)*, pending surrender.]
+
+(7) Where the High Court decides not to make an order under *subsection (1)* or *(2)*—
+
+(*a*) it shall give reasons for its decision, and
+
+(*b*) the person shall, subject to *subsection (8)*, be released from custody.
+
+(8) *Subsection (7)(b)* shall not apply if—
+
+(*a*) (i) the person has been sentenced to a term of imprisonment,
+
+(ii) on the date on which he or she would, but for this subsection, be entitled to be released under *subsection (7)*, all or part of the term of imprisonment remains unexpired, and
+
+(iii) the person is required to serve all or part of the remainder of that term of imprisonment in the State,
+
+or
+
+(*b*) (i) the person has been charged with or convicted of an offence in the State, and
+
+(ii) on the date on which he or she would, but for this paragraph, be entitled to be released from custody under *subsection (7)*, he or she is required to be in custody by virtue of having been remanded in custody pending his or her being tried, or the imposition of sentence, in respect of that offence.
+
+F161[(9) If the High Court has not, after the expiration of 60 days from the arrest of the person concerned under *section 13* or *14*, made an order under *subsection (1)* or *(2)* or *subsection (1)* or *(2)* of *section 15*, or has decided not to make an order under *subsection (1)* or *(2)* as the case may be, it shall direct the Central Authority in the State to—
+
+(*a*) inform the issuing judicial authority without delay, and
+
+(*b*) where appropriate, Eurojust, in relation thereto and of the reasons therefor specified in the direction, and the Central Authority in the State shall comply with the direction.]
+
+(10) If the High Court has not, after the expiration of 90 days from the arrest of the person concerned under *section 13* or *14*, made an order under *subsection (1)* or *(2)* or *subsection (1)* or *(2)* of *section 15*, or has decided not to make an order under *subsection (1)* or *(2)*, it shall direct the Central Authority in the State to inform the issuing judicial authority and, where appropriate, Eurojust in relation thereto and of the reason therefor specified in the direction, and the Central Authority in the State shall comply with such direction.
+
+F163[(10A) The period of 90 days referred to in *subsection (10)* consists of the aggregate of the initial period of 60 days referred to in *subsection (3)* and such further extension of 30 days as may be granted by the High Court under *subsection (3B)*.]
+
+(11) An appeal against an order under *subsection (1*) or *(2)* or a decision not to make such an order may be brought in the Supreme Court if, and only if, the High Court certifies that the order or decision involves a point of law of exceptional public importance and that it is desirable in the public interest that an appeal should be taken to the Supreme Court.
+
+(12) Where a person lodges an appeal pursuant to *subsection (11)*, the High Court may remand the person in custody or on bail pending the hearing of the appeal and, for that purpose, the High Court shall have the same powers in relation to remand as it would have if the person were brought before it charged with an indictable offence.]
+
+F164[(13) F165[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F133: Substituted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 76(a), (b), commenced on enactment, subject to transitional provision in s. 68.
+>
+> F134: Deleted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 12(a), (b), S.I. No. 330 of 2009.
+>
+> F135, F136, F137, F138: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 10(a)(i), (ii), (iii)(II), (iv), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F139, F140, F141, F142, F143: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 13(a)(i)-(iii), (b)(i), (ii), in effect as per reg. 1(2).
+>
+> F144: Substituted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 10(a)-(d), commenced on enactment.
+>
+> F145, F146: Deleted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 10(a)(iii)(I), (b)(iii)(I), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F147, F148, F149, F150: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 10(b)(i), (ii), (iii)(II), (iv), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F151: Inserted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 76(c), commenced on enactment, subject to transitional provision in s. 68.
+>
+> F152, F153, F154: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 10(c), (d), (f), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F155: Inserted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 10(e), commenced on enactment.
+>
+> F156: Inserted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 10(e), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F157, F158, F159, F160, F161: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 10(g)-(j), (l), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F162, F163: Inserted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 10(k), (m), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F164: Inserted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 12(g), S.I. No. 330 of 2009.
+>
+> F165: Deleted (24.07.2019) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 10(e), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E32: Previous affecting provision: subss. (3), (5), (9) substituted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 10(e), commenced on enactment; substituted (1.05.2024) as per F-note above.
+>
+> E33: Previous affecting provision: subs. (5A) inserted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 10(e), commenced on enactment; substtituted (1.05.2024) as per F-note above.
+>
+> E34: Previous affecting provision: subs. (2)(a) amended, subss. (5)-(7) substituted, subs. (12) amended and subs. (13) inserted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 12(b)(ii), (c)-(g), S.I. No. 330 of 2009; subss. (2)(a), (5)-(7), (12) substituted and subs. (13) deleted as per F-note above.
+>
+> E35: Previous affecting provisions: subs. (3), (5)(a), (7) substituted and subs. (9) amended (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 76(d)-(f), commenced on enactment; substituted as per F-notes above.
+
+#### 16A. Failure to comply with time periods in section 15 or 16
+
+F166[**16A.**—(1) The expiry of the period of 40 days referred to in *section 15(7A)* shall not—
+
+(*a*) constitute a ground to refuse to surrender a person under this Act, or
+
+(*b*) preclude the continued detention of a person under this Act.
+
+(2) The expiry of the period of 90 days referred to in *section 16(10A)* shall not—
+
+(*a*) constitute a ground to refuse to surrender a person under this Act, or
+
+(*b*) preclude the continued detention of a person under this Act.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F166: Inserted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 11, S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> **Editorial Notes:**
+>
+> E36: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 17. European arrest warrant relating to more than one offence.
+
+**17.**—Where, in relation to an offence specified in a F167[relevant arrest warrant], the High Court decides not to make an order under *section 15* or *16*, it shall not be necessary for the issuing judicial authority to issue another F168[relevant arrest warrant] in respect of such other offences as are specified in that warrant, and, where such other offences are specified in the F169[relevant arrest warrant], that warrant shall be treated as having been issued in respect of those other offences only.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F167, F168, F169: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 14, in effect as per reg. 1(2).
+
+#### 18. Postponement of surrender.
+
+F170[**18.**— (1) The High Court may direct that the surrender of a person to whom an order under *subsection (1)* or *(2)* of *section 15* or *subsection (1)* or *(2)* of *section 16* applies be postponed in accordance with this section where—
+
+(*a*) the High Court is satisfied that circumstances exist that would warrant that postponement, on humanitarian grounds, including that a manifest danger to the life or health of the person concerned would likely be occasioned by his or her surrender to the issuing state,
+
+(*b*) the person is being proceeded against for an offence in the State, or
+
+(*c*) the person has been sentenced to a term of imprisonment for an offence and is required to serve all or part of that term of imprisonment in the State.
+
+(2) The postponement shall continue until the High Court makes an order under *subsection (4)*.
+
+(3) Where the High Court decides to postpone a person’s surrender under this section, it shall remand the person in custody or on bail and, for that purpose, the High Court shall have the same powers in relation to remand as it would have if the person were brought before it charged with an indictable offence.
+
+(4) The High Court shall make an order ending the postponement of surrender—
+
+(*a*) where *paragraph (a)* of *subsection (1)* applies, when the High Court is satisfied that the circumstances referred to in that paragraph no longer exist,
+
+(*b*) where *paragraph (b)* of *subsection (1)* applies, when the High Court is satisfied that the proceedings in respect of the offence concerned have been finally determined (where the person concerned is not required to serve a term of imprisonment), or
+
+(*c*) where *paragraph (c)* of *subsection (1)* applies, when the High Court is satisfied that the person concerned is no longer required to serve any part of the term of imprisonment concerned.
+
+F171[(5) Upon the making of an order under *subsection (4)*—
+
+(*a*) the issuing judicial authority shall be notified of the making of the order without delay by the Central Authority for the purpose of agreeing a new date for the surrender of the person,
+
+(*b*) the person shall be surrendered not later than 10 days after the agreed new date, and
+
+(*c*) where a further date is required for the surrender of the person, the issuing judicial authority shall be notified of that fact without delay by the Central Authority and with the agreement of the issuing judicial authority, the High Court shall fix a new date for the surrender of the person.]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F170: Substituted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 11, commenced on enactment.
+>
+> F171: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 12, S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> **Editorial Notes:**
+>
+> E37: Previous affecting provisions: subs. (3) substituted and subs. (4) amended (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 13(a), (b), S.I. No. 330 of 2009; section substituted as per F-note above.
+>
+> E38: Previous affecting provision: subs. (2A) inserted (8.03.2019) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 77, commenced on enactment, subject to transitional provision in s. 68; section substituted as per F-note above.
+
+#### 19. Conditional surrender.
+
+**19.**— F172[(1) Where a person to whom an order under *section 15* or *16* applies has been sentenced to a term of imprisonment for an offence and is, at the time of the making of the order, required to serve all or part of that term of imprisonment in the State, F173[the High Court, with the agreement of the issuing judicial authority, may direct that the person be temporarily surrendered to the issuing state].]
+
+F174[(1A) A direction under *subsection (1)* shall be made on the basis of conditions determined by the High Court, with the agreement of the issuing judicial authority, and such conditions shall be recorded in writing, and be binding on all of the relevant authorities, as appropriate, in the issuing state.]
+
+(2) Where a person is surrendered to the issuing state under this section, then any term of imprisonment or part of a term of imprisonment that the person is required to serve in the State shall be reduced by an amount equal to any period of time spent by that person in custody or detention in the issuing state consequent upon his or her being so surrendered, or pending trial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F172: Substituted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 12, commenced on enactment.
+>
+> F173: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 13(a), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F174: Inserted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 13(b), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> **Editorial Notes:**
+>
+> E39: Previous affecting provision: subs. (1) amended (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 15, in effect as per reg. 1(2); substituted (1.05.2024) as per F-note above.
+
+#### 20. Additional documentation and information.
+
+**20.**—(1) In proceedings to which this Act applies F175[the High Court shall,] if of the opinion that the documentation or information provided to it is not sufficient to enable it to perform its functions under this Act, require the F176[issuing judicial authority or the issuing state, as may be appropriate,] to provide it with such additional documentation or information as it may specify, within such period as it may specify,
+
+(2) F177[...]
+
+(3) F178[...]
+
+(4) F178[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F175: Substituted (4.09.2019) by *Criminal Justice (International Co-Operation) Act 2019* (27/2019), s. 4(a), S.I. No. 443 of 2019.
+>
+> F176: Substituted (8.03.2019) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 78(a), commenced on enactment, subject to transitional provision in s. 68.
+>
+> F177: Deleted (4.09.2019) by *Criminal Justice (International Co-Operation) Act 2019* (27/2019), s. 4(b), S.I. No. 443 of 2019.
+>
+> F178: Deleted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 13, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E40: Previous affecting provision: subs. (3) amended (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 14, S.I. No. 330 of 2009; subs. (3) deleted as per F-note above.
+>
+> E41: Previous affecting provision: subs. (2) amended (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 78(b), commenced on enactment, subject to transitional provision in s. 68; subs. (2) deleted as per F-note above.
+
+#### 21. Movement of persons detained under this Act.
+
+F179[**21.**— (1) The Minister may direct that a person remanded in custody under this Act or detained in a prison or F180[remand centre] pursuant to an order under *subsection (1)* or *(2)* of *section 15* or *(1)* or *(2)* of *section 16* be removed to a hospital or any other place if the Minister considers that in the interests of the person’s health, it is necessary that he or she be so removed, and the person shall, while detained in a hospital or other place pursuant to a direction under this subsection, be deemed to be in lawful custody.
+
+(2) *Sections 10* and *11* of the Criminal Justice Act 1960 shall apply to a person who is not less than 16, nor more than 21, years of age remanded in custody under this Act or detained in a prison or F181[remand centre] pursuant to an order under *subsection (1)* or *(2)* of *section 15* or *(1)* or *(2)* of *section 16*, subject to the following modifications:
+
+(*a*) in *section 10(1)*, the reference to "a person detained under *section 9* of this Act or this section" shall be construed as a reference to "a person remanded in custody or detained in a prison or F182[remand centre] under the European Arrest Warrant Act 2003";
+
+(*b*) in *section 11(1)*, the reference to "a person who is detained in a F183[remand centre] pursuant to *section 9* of this Act" shall be construed as a reference to "a person remanded in custody or detained in a prison or F184[remand centre] under the European Arrest Warrant Act 2003"; and
+
+(*c*) in *section 11(3)*, the reference to "section 9" shall be construed as a reference to "the European Arrest Warrant Act 2003".]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F179: Substituted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 14, commenced on enactment.
+>
+> F180, F181, F182, F183, F184: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 14, S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+
+#### 21A. Refusal of surrender where no decision to prosecute.
+
+F185[**21A.**—F186[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F185: Inserted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 79, commenced on enactment, subject to transitional provision in s. 68.
+>
+> F186: Repealed (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 31(a), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> **Editorial Notes:**
+>
+> E42: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 22. Rule of speciality disapplied.
+
+F187[**22.**—(1) In this section, except where the context otherwise requires, "offence" means, in relation to a person to whom a F188[relevant arrest warrant] applies, an offence (other than an offence specified in the F189[relevant arrest warrant] in respect of which the person’s surrender is ordered under this Act) under the law of the issuing state committed before the person's surrender, but shall not include an offence consisting, in whole, of acts or omissions of which the offence specified in the European arrest warrant consists in whole or in part.
+
+(2) Subject to this section, the High Court shall refuse to surrender a person under this Act if it is satisfied that—
+
+(*a*) the law of the issuing state does not provide that a person who is surrendered to it pursuant to a F190[relevant arrest warrant] shall not be proceeded against, sentenced or detained for the purposes of executing a sentence or detention order, or otherwise restricted in his or her personal liberty, in respect of an offence, and
+
+(*b*) the person will be proceeded against, sentenced, or detained for the purposes of executing a sentence or detention order, or otherwise restricted in his or her personal liberty, in respect of an offence.
+
+(3) It shall be presumed that, in relation to a person to whom a F191[relevant arrest warrant] applies, the issuing state does not intend to—
+
+(*a*) proceed against him or her,
+
+(*b*) sentence or detain him or her for a purpose referred to in *subsection (2)(a)*, or
+
+(*c*) otherwise restrict him or her in his or her personal liberty,
+
+in respect of an offence, unless the contrary is proved.
+
+(4) The surrender of a person under this Act shall not be refused under *subsection (2)* if—
+
+(*a*) upon conviction in respect of the offence concerned he or she is not liable to a term of imprisonment or detention, or
+
+(*b*) the High Court is satisfied that, where upon such conviction he or she is liable to a term of imprisonment or detention and such other penalty as does not involve a restriction of his or her personal liberty, the said other penalty only will be imposed if he or she is convicted of the offence.
+
+(5) The surrender of a person under this Act shall not be refused under *subsection (2)* if it is intended to impose in the issuing state a penalty (other than a penalty consisting of a restriction of the person’s liberty) including a financial penalty in respect of an offence of which the person claimed has been convicted, notwithstanding that where such person fails or refuses to pay the penalty concerned (or, in the case of a penalty that is not a financial penalty, fails or refuses to submit to any measure or comply with any requirements of which the penalty consists) he or she may, under the law of the issuing state be detained or otherwise deprived of his or her personal liberty.
+
+(6) The surrender of a person under this Act shall not be refused under *subsection (2)* if the High Court—
+
+(*a*) is satisfied that—
+
+(i) proceedings will not be brought against the person in respect of an offence,
+
+(ii) a penalty will not be imposed on the person in respect of an offence, and
+
+(iii) the person will not be detained or otherwise restricted in his or her personal liberty for the purposes of an offence,
+
+without the issuing judicial authority first obtaining the consent thereto of the High Court,
+
+(*b*) is satisfied that—
+
+(i) the person consents to being surrendered under *section 15*,
+
+(ii) at the time of so consenting he or she consented to being so proceeded against, to such a penalty being imposed, or being so detained or restricted in his or her personal liberty, and was aware of the consequences of his or her so consenting, and
+
+(iii) the person obtained or was afforded the opportunity of obtaining, or being provided with, professional legal advice in relation to the matters to which this section relates,
+
+(*c*) is satisfied that—
+
+(i) such proceedings will not be brought, such penalty will not be imposed and the person will not be so detained or otherwise restricted in his or her personal liberty before the expiration of a period of 45 days from the date of the person’s final discharge in respect of the offence for which he or she is surrendered, and
+
+(ii) during that period he or she will be free to leave the issuing state,
+
+except where having been so discharged he or she leaves the issuing state and later returns thereto (whether during that period or later), or
+
+(*d*) is satisfied that such proceedings will not be brought, such penalty will not be imposed and the person will not be so detained or restricted in his or her personal liberty unless—
+
+(i) the person voluntarily gives his or her consent to being so proceeded against, such a penalty being imposed, or being so detained or restricted in his or her personal liberty, and is fully aware of the consequences of so doing,
+
+(ii) that consent is given before the competent judicial authority in the issuing state, and
+
+(iii) the person obtains or is afforded the opportunity of obtaining, or being provided with, professional legal advice in the issuing state in relation to the matters to which this section relates before he or she gives that consent.
+
+F192[(7) The High Court shall, in relation to a person who has been surrendered to an issuing state under this Act, not later than 30 days after receipt of a request in writing from the issuing state in that behalf, consent to—
+
+(*a*) proceedings being brought against the person in the issuing state for an offence,
+
+(*b*) the imposition in the issuing state of a penalty, including a penalty consisting of a restriction of the person’s liberty, in respect of an offence, or
+
+(*c*) proceedings being brought against, or the detention of, the person in the issuing state for the purpose of executing a sentence or order of detention in respect of an offence,
+
+provided that the offence is not—
+
+(i) an offence for which his or her surrender would be prohibited by virtue of *Part 3*, or
+
+(ii) an offence for which his or her surrender would be refused under *Part 3*.]]
+
+F193[(8) F194[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F187: Substituted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 80, commenced on enactment, subject to transitional provision in s. 68.
+>
+> F188, F189, F190, F191: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 16, in effect as per reg. 1(2).
+>
+> F192: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 15(a), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F193: Substituted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 15, commenced on enactment.
+>
+> F194: Repealed (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 15(b), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+
+#### 23. Surrender of person by issuing state to other Member State.
+
+F195[**23.**—(1) In this section, except where the context otherwise requires—
+
+"offence" means, in relation to a person to whom a F196[relevant arrest warrant] applies, an offence under the law of a Member State (other than the issuing state) committed before the person’s surrender to the issuing state under this Act; and
+
+"Member State" means a Member State other than the issuing state.
+
+(2) Subject to this section, the High Court shall refuse to surrender a person under this Act if it is satisfied that—
+
+(*a*) the law of the issuing state does not provide that a person who is surrendered to it pursuant to a F197[relevant arrest warrant] shall not be surrendered to a Member State pursuant to a F198[relevant arrest warrant] issued by a judicial authority in that Member State in respect of an offence, and
+
+(*b*) the person will be surrendered to a Member State pursuant to a F199[relevant arrest warrant] issued by a judicial authority in that Member State in respect of an offence.
+
+(3) It shall be presumed that, in relation to a person to whom a F200[relevant arrest warrant] applies, the issuing state does not intend to surrender him or her to a Member State pursuant to a F201[relevant arrest warrant] issued by a judicial authority in that Member State in respect of an offence, unless the contrary is proved.
+
+(4) The surrender of a person under this Act shall not be refused under *subsection (2)* if the High Court—
+
+(*a*) is satisfied that the issuing judicial authority will not surrender the person to a Member State pursuant to a F202[relevant arrest warrant] issued by a judicial authority in that Member State, without first obtaining the consent thereto of the High Court,
+
+(*b*) is satisfied that—
+
+(i) the person consents to being surrendered under *section 15*,
+
+(ii) at the time of so consenting he or she consented to being surrendered by the issuing state to a Member State pursuant to a F203[relevant arrest warrant] issued by a judicial authority in that Member State, and was aware of the consequences of his or her so consenting, and
+
+(iii) the person obtained or was afforded the opportunity of obtaining, or being provided with, professional legal advice in relation to the matters to which this section relates,
+
+(*c*) is satisfied that—
+
+(i) the person will not be surrendered by the issuing state to a Member State pursuant to a F204[relevant arrest warrant] issued by a judicial authority in that Member State, before the expiration of a period of 45 days from the date of the person’s final discharge in respect of the offence for which he or she is surrendered under this Act, and
+
+(ii) during that period he or she will be free to leave the issuing state,
+
+except where having been so discharged he or she leaves the issuing state and later returns thereto (whether during that period or later), or
+
+(*d*) is satisfied that the person will not be surrendered to a Member State pursuant to a F205[relevant arrest warrant] issued by a judicial authority in that Member State unless—
+
+(i) the person voluntarily gives his or her consent to being so surrendered and is fully aware of the consequences of his or her so doing,
+
+(ii) that consent is given before the competent judicial authority in the issuing state, and
+
+(iii) the person obtains or is afforded the opportunity of obtaining, or being provided with, professional legal advice in the issuing state in relation to the matters to which this section relates before he or she gives that consent.
+
+F206[(5) The High Court shall, in relation to a person who has been surrendered to an issuing state under this Act, and not later than 30 days after the date of the request being made, consent to the person being surrendered by the issuing state to a Member State pursuant to a relevant arrest warrant issued by a judicial authority in that Member State in respect of an offence, upon receiving a request in writing from the issuing state in that behalf, provided that the offence is not—
+
+(*a*) an offence for which his or her surrender would be prohibited by virtue of *Part 3*, or
+
+(*b*) an offence for which his or her surrender F207[...] would be refused under *Part 3*.]
+
+F208[(6) F209[...]]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F195: Substituted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 81, commenced on enactment, subject to transitional provision in s. 68.
+>
+> F196, F197, F198, F199, F200, F201, F202, F203, F204, F205: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 17(a), (b)(ii), (ii), (c), (d)(i)-(iv), in effect as per reg. 1(2).
+>
+> F206: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 16(a), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F207: Deleted (23.07.2024) by *Courts, Civil Law, Criminal Law and Superannuation (Miscellaneous Provisions) Act 2024* (30/2024), s. 25, commenced on enactment.
+>
+> F208: Substituted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 16, commenced on enactment.
+>
+> F209: Repealed (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 16(b), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> **Editorial Notes:**
+>
+> E43: Previous affecting provision: subs. (5) amended (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 17(a), (b)(ii), (ii), (c), (d)(i)-(iv), (e), in effect as per reg. 1(2); substituted (1.05.2024) as per F-note above.
+
+#### 24. Surrender of person by issuing state to third state.
+
+F210[**24.**—(1) The High Court shall refuse to surrender a person under this Act if it is satisfied that—
+
+(*a*) the law of the issuing state does not provide that a person who is surrendered to it pursuant to a F211[relevant arrest warrant] shall not be extradited to a third country without the consent of the High Court and the Minister first being obtained, and
+
+(*b*) the person will be extradited to a third country without such consent first being obtained.
+
+(2) It shall be presumed that, in relation to a person to whom a F212[relevant arrest warrant] applies, the issuing state does not intend to extradite him or her to a third country, unless the contrary is proved.
+
+(3) The issuing state may request, in writing, the High Court to consent to the extradition to a third country by the issuing state of a person surrendered to the issuing state under this Act.
+
+(4) The High Court shall give its consent to a request under *subsection (3)* if it is satisfied that—
+
+(*a*) were the person concerned in the State, and
+
+(*b*) were a request for his or her extradition received in the State from the third country concerned,
+
+his or her extradition pursuant to such a request would not be prohibited under the Extradition Acts 1965 to 2001.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F210: Substituted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 82, commenced on enactment, subject to transitional provision in s. 68.
+>
+> F211, F212: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 18(a), (b), in effect as per reg. 1(2).
+
+#### 25. Searches for purposes of European arrest warrant.
+
+**25.**—(1) A member of the Garda Síochána, may, for the purposes of performing functions under *section 13* or *14*, enter any place (if necessary by the use of reasonable force) and search that place, if he or she has reasonable grounds for believing that a person in respect of whom a F213[relevant arrest warrant] has been issued is to be found at that place.
+
+(2) Where a member of the Garda Síochána enters a place under *subsection (1)*, he or she may search that place and any person found at that place, and may seize anything found at that place or anything found in the possession of a person present at that place at the time of the search that the said member believes to be evidence of, or relating to, an offence specified in a F214[relevant arrest warrant], or to be property obtained or received at any time (whether before or after the passing of this Act) as a result of or in connection with the commission of that offence.
+
+(3) Subject to *subsection (4)*, a member of the Garda Síochána, who has reasonable grounds for believing that evidence of, or relating to, an offence specified in a F215[relevant arrest warrant], or property obtained or received at any time (whether before or after the passing of this Act) as a result of, or in connection with, the commission of that offence is to be found at any place, may enter that place (if necessary by the use of reasonable force) and search that place and any person found at that place, and may seize anything found at that place or anything found in the possession of a person present at that place at the time of the search that the member believes to be such evidence or property.
+
+(4) (*a*) A member of the Garda Síochána shall not enter a dwelling under *subsection (3)*, other than—
+
+(i) with the consent of the occupier, or
+
+(ii) in accordance with a warrant issued under *paragraph (b)*.
+
+(*b*) On the application of a member of the Garda Síochána, a judge of the District Court may, if satisfied that there are reasonable grounds for believing that—
+
+(i) evidence of, or relating to, an offence specified in a F216[relevant arrest warrant], or
+
+(ii) property obtained or received at any time (whether before or after the passing of this Act) as a result of or in connection with the commission of that offence,
+
+is to be found in any dwelling, issue a warrant authorising a named member of the Garda Síochána accompanied by such other members of the Garda Síochána as may be necessary, at any time or times, within one month of the date of the issue of the warrant, to enter the dwelling (if necessary by the use of reasonable force) and search the dwelling and any person found at the dwelling, and a member of the Garda Síochána who enters a dwelling pursuant to such a warrant may seize anything found at the dwelling or anything found in the possession of a person present at the dwelling at the time of the search that the member believes to be such evidence or property.
+
+(5) A member of the Garda Síochána who is performing functions under this section may—
+
+(*a*) require any person present at the place where the search is carried out to give to the member his or her name and address, and
+
+(*b*) arrest otherwise than pursuant to a warrant any person who—
+
+(i) obstructs or attempts to obstruct that member in the performance of his or her functions,
+
+(ii) fails to comply with a requirement under *paragraph (a)*, or
+
+(iii) gives a name or address which the member has reasonable cause for believing is false or misleading.
+
+(6) A person who—
+
+(*a*) obstructs or attempts to obstruct a member of the Garda Síochána in the performance of his or her functions under this section,
+
+(*b*) fails to comply with a requirement under *paragraph (a)* of *subsection (5)*, or
+
+(*c*) gives a false name or address to a member of the Garda Síochána,
+
+shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding €3,000, or to imprisonment for a period not exceeding 6 months, or to both.
+
+(7) In this section “place” includes a ship or other vessel, an aircraft, a railway wagon or other vehicle, and a container used for the transporting of goods.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F213, F214, F215, F216: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 19(a)-(d), in effect as per reg. 1(2).
+
+#### 26. Handing over of property.
+
+**26.**—(1) Subject to the provisions of this section, any property seized under *section 25* shall, if a person is surrendered under this Act, be handed over to any person duly authorised by the issuing state to receive it, as soon as may be after the surrender of the person, and the said property shall be so handed over notwithstanding that the surrender of the person cannot be carried out by reason of the death or escape from custody of the person claimed.
+
+(2) Any property seized under *section 25* may, if any criminal proceedings to which the property relates are pending in the State, be retained in the State for the purposes of those proceedings or may, if the Central Authority in the State, after consultation with the Director of Public Prosecutions, so directs, be handed over to the issuing state subject to the issuing state agreeing to return the property.
+
+(3) This section shall not operate to abrogate any rights lawfully vested in the State, or any person, in any property to which this section applies and, where any such rights exist, the property shall not be handed over unless an undertaking is given by the issuing state that it will return the property as soon as may be after the trial of the person surrendered and without charge to the State or person in whom such rights vest.
+
+#### 27. Remand.
+
+**27.**—(1) A person remanded in custody under this Act may be detained in a prison F217[(or, if the person is not more than 18 years of age, in a remand centre)] or, for a period not exceeding 48 hours, in a Garda Síochána station.
+
+(2) A person shall not be remanded on bail or otherwise released from custody under this Act if—
+
+(*a*) (i) the person has been sentenced to a term of imprisonment for an offence of which he or she was convicted in the State,
+
+(ii) on the date of his or her being remanded or on which he or she would, but for this paragraph, be entitled to be released, all or part of the term of imprisonment remains unexpired, and
+
+(iii) the person is required to serve all or part of the remainder of that term of imprisonment,
+
+or
+
+(*b*) (i) the person has been charged with or convicted of an offence in the State, and
+
+(ii) on the date of his or her being remanded or on which he or she would, but for this paragraph, be entitled to be released, he or she is required to be in custody by virtue of having been remanded in custody pending trial for that offence or the imposition of sentence in respect of that offence.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F217: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 17, S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+
+#### 28. Transit.
+
+**28.**—(1) Transit through the State of a person being conveyed from an executing state to an issuing state, upon his or her surrender pursuant to a F218[relevant arrest warrant], shall be permitted where the Central Authority in the State receives a request in that behalf from the issuing state and where the issuing state provides the Central Authority in the State with the following information:
+
+(*a*) the nationality of the person and such other information as will enable the person to be identified by the Central Authority in the State;
+
+(*b*) information showing that a European arrest warrant has been issued by the issuing state in respect of the person;
+
+(*c*) the nature and classification under the law of the issuing state of the offence to which the European arrest warrant relates;
+
+(*d*) the circumstances in which the offence specified in the European arrest warrant was committed or is alleged to have been committed, including the date and place of its commission.
+
+(2) The transit of a person through the State shall be supervised by members of the Garda Síochána if the Central Authority in the State considers it appropriate, and where a person's transit is so supervised the person shall be deemed to be in the custody of any member of the Garda Síochána who accompanies him or her.
+
+(3) (*a*) This subsection applies to an aircraft that has taken off from a place (other than the State) and that is scheduled to land in a place (other than the State) and on board which there is a person who is being conveyed to an issuing state upon his or her surrender pursuant to a F219[relevant arrest warrant].
+
+(*b*) Where an aircraft to which this subsection applies lands (for whatever reason) in the State, the issuing state shall, upon its landing or as soon as may be after it lands, provide the Central Authority in the State with the information referred to in *subsection (1)*.
+
+(*c*) While an aircraft to which this subsection applies is in the State, a person referred to in *paragraph (a)* who is on board that aircraft shall be deemed to be in transit through the State and *subsection (2)* shall apply accordingly.
+
+(4) Where a person F223[is being] extradited by a third country to a Member State this section shall apply subject to the modifications that—
+
+(*a*) the reference to an executing state shall be construed as a reference to a third state,
+
+(*b*) references to a F220[relevant arrest warrant] shall be construed as references to an extradition request, and
+
+(*c*) references to an issuing state shall be construed as references to a Member State.
+
+(5) In this section “executing state” means, in relation to a F221[relevant arrest warrant], a Member State (a judicial authority of which has ordered the arrest and surrender to the issuing state, pursuant to the F222[relevant arrest warrant], of a person in respect of whom that warrant was issued).
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F218, F219, F220, F221, F222: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 20(a)-(d), in effect as per reg. 1(2).
+>
+> F223: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 18, S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+
+#### 29. Multiple European arrest warrants.
+
+**29.**—(1) Where the Central Authority in the State receives two or more F224[relevant arrest warrants] in respect of a person, F229[...] the Central Authority in the State shall, where the High Court has not yet made an order under F230[*subsection (1)* or *(2)* of *section 15* or *(1)* or *(2)* of *section 16*], in relation to the person, inform the High Court as soon as may be of the receipt by it of those warrants and the High Court shall, having regard to all the circumstances, decide, in relation to which of those F225[relevant arrest warrants] it shall—
+
+(*a*) perform functions under *section 13*, or
+
+(*b*) where it has already performed such functions in relation to one of those European arrest warrants, perform functions under *section 15* or *16*, as may be appropriate.
+
+(2) Without prejudice to the generality of *subsection (1)*, the High Court shall in making a decision under *subsection (1)* have regard to—
+
+(*a*) the seriousness of the offences specified in the F226[relevant arrest warrants] concerned,
+
+(*b*) the places where the offences were committed or are alleged to have been committed,
+
+(*c*) the dates on which the F227[relevant arrest warrants] were issued, and
+
+(*d*) whether the F228[relevant arrest warrants] concerned were issued for the purposes of bringing proceedings for an offence against the person named in the warrants or for the purposes of executing a sentence or detention order in respect of the person.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F224, F225, F226, F227, F228: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 21(a), (b), in effect as per reg. 1(2).
+>
+> F229: Deleted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 15, S.I. No. 330 of 2009.
+>
+> F230: Substituted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 17, commenced on enactment.
+
+#### 30. European arrest warrants and requests for extradition.
+
+F231[**30.**— (1) If the Central Authority in the State receives a F232[relevant arrest warrant] in respect of a person and the State receives a request from a third country for the extradition of that person, the Central Authority in the State shall, where an order has not yet been made under *subsection (1)* or *(2)* of *section 15*, or *subsection (1)* or *(2)* of *section 16*, in relation to the person, so inform the High Court, and the High Court shall not perform functions under this Act in relation to the F233[relevant arrest warrant], unless the Minister has informed the High Court that—
+
+(*a*) the request for extradition is not being proceeded with, or
+
+(*b*) the European arrest warrant is to have precedence over the request for extradition.
+
+(2) If the Central Authority in the State receives a F234[relevant arrest warrant] in respect of a person and the State receives a request from the International Criminal Court for the arrest and surrender of the same person, the Central Authority in the State shall, where an order has not yet been made under *subsection (1)* or *(2)* of *section 15*, or *subsection (1)* or *(2)* of *section 16*, in relation to that person, so inform the High Court, and the High Court shall not perform functions under this Act in relation to the F235[relevant arrest warrant], unless the arrest and surrender of that person pursuant to such a request is prohibited, or not provided for, under the law of the State.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F231: Substituted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 18, commenced on enactment.
+>
+> F232, F233, F234, F235: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 22(a), (b), in effect as per reg. 1(2).
+
+#### 30A. Extradition arrangements with third countries
+
+F236[**30A.**—(1) Where a person has been extradited to the State from a third country and the person is protected by provisions of the arrangement under which he or she was extradited, the High Court shall request the third country to consent to the surrender of the person to the issuing state which issued the relevant arrest warrant.
+
+(2) The periods of time referred to in *section 15* or *16*, as the case may be, shall commence from the date on which the consent of the third country is received by the High Court.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F236: Inserted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 19, S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> **Editorial Notes:**
+>
+> E44: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### Chapter 2Issue of European Arrest Warrant by State — Chapter 2 — Issue of European Arrest Warrant by State
+
+#### 31. Definition.
+
+**31.**—In this Chapter—
+
+“domestic warrant” means a warrant (other than a F237[relevant arrest warrant]) issued, for the arrest of a person, by a court in the State;
+
+F238["relevant arrest warrant" means a warrant to which a relevant agreement applies issued by a court, in accordance with this Chapter and for the purposes of —
+
+(*a*) the arrest, in a Member State, of that person, and
+
+(*b*) the surrender of that person to the State by the Member State concerned.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F237, F238: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 23(a), (b), in effect as per reg. 1(2).
+
+#### 32. Offences to which Article 2.2 of Framework Decision applies.
+
+**32.**—(1) For the purposes of paragraph 2 of Article 2 of the Framework Decision, the Minister may, by order, specify the offences under the law of the State to which that paragraph applies.
+
+(2) The Minister may, by order, amend or revoke an order under this section (including an order under this subsection).
+
+(3) This section shall not operate to require that an order under this section be in force before a court may issue a European arrest warrant under *section 33*.
+
+#### 33. Issue of European arrest warrant by court in State.
+
+F239[**33.**— (1) A court may, upon an application made by or on behalf of the Director of Public Prosecutions, issue a F240[relevant arrest warrant] in respect of a person where it is satisfied that—
+
+(*a*) a domestic warrant has been issued for the arrest of that person but has not been executed, and
+
+(*b*) a term of imprisonment or detention of not less than 4 months has been imposed on the person in respect of the offence concerned and the person is required to serve all or part of that term of imprisonment or detention, or, as the case may be, the person would, if convicted of the offence concerned, be liable to a term of imprisonment or detention of 12 months or more than 12 months.]
+
+F242[(1A) Where a court issues a European arrest warrant in respect of a person under this section, such issue shall be deemed to constitute a request by the court for entry of an alert and of a copy of the European arrest warrant in respect of that person.
+
+(1B) F243[...]]
+
+F241[(2) A relevant arrest warrant shall, in so far as is practicable —
+
+(*a*) in the case of a European arrest warrant, be in the form set out in the Annex to the Framework Decision as amended by Council Framework Decision 2009/299/JHA,
+
+(*b*) in the case of a Trade and Cooperation Agreement arrest warrant, be in the form set out in Annex Law-5 to the Trade and Cooperation Agreement, and
+
+(*c*) in the case of an arrest warrant within the meaning of the EU-Iceland Norway Agreement, be in the form set out in the Annex to the EU-Iceland Norway Agreement.]
+
+F245[(2A) A relevant arrest warrant shall specify —
+
+(*a*) the name and the nationality of the person to whom it relates,
+
+(*b*) the name, address, fax number and e-mail address of —
+
+(i) the District Court Office for the district in which the District Court was sitting when it issued the relevant arrest warrant,
+
+(ii) the Circuit Court Office of the county in which the Circuit Criminal Court was sitting when it issued the relevant arrest warrant,
+
+(iii) the Central Office of the High Court, or
+
+(iv) the Registrar of the Special Criminal Court, as may be appropriate,
+
+(*c*) the offence to which the relevant arrest warrant relates including a description thereof,
+
+(*d*) that a conviction, sentence or detention order is immediately enforceable against the person, or that a domestic warrant for his or her arrest has been issued in respect of that offence,
+
+(*e*) the circumstances in which the offence was committed or is alleged to have been committed, including the time and place of its commission or alleged commission, and the degree of involvement or alleged degree of involvement of the person in the commission of the offence, and
+
+(*f*) (i) the penalties to which the person named in the relevant arrest warrant would, if convicted of the offence to which the relevant arrest warrant relates, be liable,
+
+(ii) where the person named in the relevant arrest warrant has been convicted of the offence specified therein and a sentence has been imposed in respect thereof, the penalties of which that sentence consists, and
+
+(iii) where the person named in the relevant arrest warrant has been convicted of the offence specified therein but has not yet been sentenced, the penalties to which he or she is liable in respect of the offence.]
+
+F246[(3) Where it is not practicable for the relevant arrest warrant to be in the form referred to in *subsection (2)* the warrant shall, in addition to containing the information specified in *subsection (2A)*, include such other information as would be required to be provided were it in that form.]
+
+(4) For the avoidance of doubt, a F247[relevant arrest warrant] may be issued in respect of one or more than one offence.
+
+F248[(4A) The High Court, sitting otherwise than in public, may, upon an application made by a member of the Garda Síochána, approve the making temporarily unavailable of an alert for a period not exceeding 48 hours in respect of a person where it is satisfied—
+
+(*a*) that the person is the subject of an ongoing criminal investigation, and
+
+(*b*) that the purpose of the criminal investigation cannot be achieved by any other measure.
+
+(4B) The period for which an alert may be made unavailable may be extended by the High Court for a further period not exceeding 48 hours upon an application by a member of the Garda Síochána that is made before the expiry of the period approved under *subsection (4A)*.]
+
+(5) In this section “court” means—
+
+(*a*) the court that issued the domestic warrant F239[to which *subsection (1)(a)* applies], or
+
+(*b*) the High Court.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F239: Substituted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 19(a), (d), commenced on enactment.
+>
+> F240, F241: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 24(a), (b), in effect as per reg. 1(2).
+>
+> F242: Inserted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 16(d), S.I. No. 330 of 2009.
+>
+> F243: Repealed (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 19(b), commenced on enactment.
+>
+> F244: Inserted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 19(c), commenced on enactment.
+>
+> F245: Inserted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 24(c), in effect as per reg. 1(2).
+>
+> F246, F247: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 24(d), (e), in effect as per reg. 1(2).
+>
+> F248: Inserted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 20, S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> **Editorial Notes:**
+>
+> E45: Previous affecting provision: subs. (2) amended (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 19(c), commenced on enactment; substituted as per F-note above.
+>
+> E46: Previous affecting provision: subs. (1)(a) substituted and para. (b) amended (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 16(a)-(c), S.I. No. 330 of 2009; substituted as per F-note above.
+
+#### 33A. Request for disapplication of rule of specialty
+
+F249[**33A.**—(1) In this section, an "offence" means, in relation to a person to whom a relevant arrest warrant applies, an offence (other than an offence specified in the relevant arrest warrant issued by the High Court in respect of which the person has been surrendered to the State pursuant to the relevant arrest warrant) under the law of the State committed before the person’s surrender to the State, but shall not include an offence consisting, in whole, of acts or omissions of which the offence specified in the relevant arrest warrant consists in whole or in part.
+
+(2) A court may, upon an application made by or on behalf of the Director of Public Prosecutions, issue a request for the executing state’s consent to the prosecution of an offence or enforcement of a conviction, sentence or detention order against a person in respect of an offence where the court is satisfied that—
+
+(*a*) a domestic warrant has been issued for the arrest of that person but has not been executed, and
+
+(*b*) a term of imprisonment or detention of not less than 4 months has been imposed on the person in respect of the offence concerned and the person is required to serve all or part of that term of imprisonment or detention, or, as the case may be, the person would, if convicted of the offence concerned, be liable to a term of imprisonment or detention of 12 months or more than 12 months.
+
+(3) A request under *subsection (2)* for the executing state’s consent to the prosecution of an offence or enforcement of a conviction, sentence or detention order against a person in respect of an offence shall specify—
+
+(*a*) the name and nationality of the person to whom it relates,
+
+(*b*) the name, address, fax number and e-mail address of—
+
+(i) the District Court Office for the district in which the District Court was sitting when it issued the warrant referred to in *section 2(a)*,
+
+(ii) the Circuit Court Office of the county in which the Circuit Criminal Court was sitting when it issued the warrant referred to in *section 2(a)*,
+
+(iii) the Central Office of the High Court, or
+
+(iv) the Registrar of the Special Criminal Court,
+
+as may be appropriate,
+
+(*c*) the offence to which the request relates including a description thereof,
+
+(*d*) that a conviction, sentence or detention order is immediately enforceable against the person, or that a domestic warrant for his or her arrest has been issued in respect of that offence,
+
+(*e*) the circumstances in which the offence was committed or is alleged to have been committed, including the time and place of its commission or alleged commission, and the degree of involvement or alleged degree of involvement of the person in the commission of the offence, and
+
+(*f*) the following information, as applicable:
+
+(i) the penalties to which the person named in the relevant arrest warrant would, if convicted of the offence to which the request relates, be liable;
+
+(ii) where the person named in the request has been convicted of the offence specified therein and a sentence has been imposed in respect thereof, the penalties of which that sentence consists;
+
+(iii) where the person named in the request has been convicted of the offence specified therein but has not yet been sentenced, the penalties to which he or she is liable in respect of the offence.
+
+(4) A request under *subsection (2)* may be issued in respect of one or more than one offence.
+
+(5) In this section, "court" means—
+
+(*a*) the court that issued the domestic warrant to which *subsection (2)(a)* applies, or
+
+(*b*) the High Court.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F249: Inserted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 21, S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> **Editorial Notes:**
+>
+> E47: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 34. Transmission of European arrest warrant issued in State.
+
+**34.**—A F250[relevant arrest warrant] issued under *section 33* F251[may] be transmitted to a Member State by the Central Authority in the State.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F250: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 25, in effect as per reg. 1(2).
+>
+> F251: Substituted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 18, S.I. No. 330 of 2009.
+
+#### 35. Arrest of person surrendered to State.
+
+**35.**—(1) Where a person is surrendered to the State pursuant to a F252[relevant arrest warrant]—
+
+(*a*) the domestic warrant issued for his or her arrest and referred to in F254[...] *section 33(1)(a)*,
+
+(*b*) subject to *paragraph (c)*, where more than one such domestic warrant was issued, those domestic warrants, or
+
+(*c*) where—
+
+(i) more than one such domestic warrant was issued, and
+
+(ii) the executing judicial authority ordered the surrender of the person in respect of one or more but not all of the offences specified in the F253[relevant arrest warrant],
+
+the domestic warrants issued in respect of the offences for which the person was surrendered,
+
+may be executed by any member of the Garda Síochána in any part of the State and may be so executed notwithstanding that the domestic warrant concerned is not in the possession of the member when he or she executes the warrant, and the domestic warrant concerned shall be shown to and a copy thereof given to the person arrested at the time of his or her arrest or, if the domestic warrant or copy thereof is not then in the possession of the member, not later than 24 hours after the person’s arrest.
+
+(2) Where a person is surrendered to the State pursuant to a F253[relevant arrest warrant] issued by the High Court (whether or not sitting as the Central Criminal Court), the Central Authority in the State shall inform the Central Office of the High Court, in writing, of the person’s surrender.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F252, F253: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 26(a), (b), in effect as per reg. 1(2).
+>
+> F254: Deleted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 20, commenced on enactment.
+
+#### 35A. Guarantees surrounding custodial sentences imposed in absentia
+
+F255[**35A.**—(1) Where a person is arrested on foot of a relevant arrest warrant issued by the High Court for service of a sentence or detention order imposed on him or her in absentia and the person has not received any information from the authorities in the State about the existence of criminal proceedings against him or her, the person may request a copy of the judgment which was the basis for the relevant arrest warrant and upon such a request being made, the High Court shall arrange for the judgment to be sent to the executing judicial authority without delay.
+
+(2) Where a person is surrendered to the State pursuant to a relevant arrest warrant and is detained pending a retrial or an appeal and he or she did not appear in person at the proceedings resulting in the sentence or detention order in respect of which a relevant arrest warrant was issued, his or her detention pending a retrial or appeal shall be reviewed in accordance with the law of the State in relation to such detention.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F255: Inserted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 22, S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+
+#### 36. Deduction of period of detention in executing state from sentence.
+
+**36.**—(1) Where a person is surrendered to the State pursuant to a F256[relevant arrest warrant], then any term of imprisonment that the person is required to serve by virtue of the imposition of a sentence by a court in the State (whether before or after the person's surrender) in respect of the offence specified in that F257[relevant arrest warrant] shall be reduced by an amount equal to any period of time spent by that person in custody or detention in the executing state in contemplation, or in consequence, of the execution of the F258[relevant arrest warrant].
+
+(2) In this section “executing state” means, in relation to a F259[relevant arrest warrant], a Member State (a judicial authority of which has ordered the arrest and surrender to the State, pursuant to the F260[relevant arrest warrant], of a person in respect of whom that warrant was issued).
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F256, F257, F258, F259, F260: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 27(a), (b), in effect as per reg. 1(2).
+
+#### 36A. Conditional surrender to State pursuant to relevant arrest warrant
+
+F261[**36A.**—(1) The High Court may—
+
+(*a*) on the application of the Director of Public Prosecutions, and
+
+(*b*) where a judicial authority of an executing state indicates that it may temporarily surrender a person to the State pursuant to a relevant arrest warrant,
+
+agree with the judicial authority the conditions of such a temporary surrender.
+
+(2) The conditions agreed under *subsection (1)* shall be recorded in writing.
+
+(3) Without prejudice to the generality of *subsection (1)*, the conditions agreed under that subsection may include—
+
+(*a*) that the person shall be returned to the executing state on conclusion of the criminal proceedings in respect of the offence specified in the relevant arrest warrant, notwithstanding that the person may be required to serve a term of imprisonment by virtue of the imposition of a sentence by a court in the State in respect of that offence, and
+
+(*b*) that the currency of a sentence imposed in the State shall not be suspended notwithstanding the return of the person to the executing state.
+
+(4) In this section, "executing state" means, in relation to a relevant arrest warrant, a Member State (a judicial authority of which has ordered the arrest and conditional surrender to the State, pursuant to the relevant arrest warrant, of a person in respect of whom that warrant was issued).]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F261: Inserted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 23, S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+
+## PART 3Prohibition on Surrender — PART 3 — Prohibition on Surrender
+
+### 37. Fundamental rights.
+
+**37.**—(1) A person shall not be surrendered under this Act if—
+
+(*a*) his or her surrender would be incompatible with the State's obligations under—
+
+(i) the Convention, or
+
+(ii) the Protocols to the Convention,
+
+(*b*) F262[...]
+
+(*c*) there are reasonable grounds for believing that—
+
+(i) the F263[relevant arrest warrant] was issued in respect of the person for the purposes of facilitating his or her prosecution or punishment in the issuing state for reasons connected with his or her sex, race, religion, ethnic origin, nationality, language, political opinion or sexual orientation, or
+
+(ii) in the prosecution or punishment of the person in the issuing state, he or she will be treated less favourably than a person who—
+
+(I) is not his or her sex, race, religion, nationality or ethnic origin,
+
+(II) does not hold the same political opinions as him or her,
+
+(III) speaks a different language than he or she does, or
+
+(IV) does not have the same sexual orientation as he or she does,
+
+or
+
+(iii) were the person to be surrendered to the issuing state—
+
+(I) he or she would be sentenced to death, or a death sentence imposed on him or her would be carried out, or
+
+(II) he or she would be tortured or subjected to other inhuman or degrading treatment.
+
+(2) In this section—
+
+“Convention” means the Convention for the Protection of Human Rights and Fundamental Freedoms done at Rome on the 4th day of November, 1950, as amended by Protocol No. 11 done at Strasbourg on the 11th day of May, 1994; and
+
+“Protocols to the Convention” means the following protocols to the Convention, construed in accordance with Articles 16 to 18 of the Convention:
+
+(*a*) the Protocol to the Convention done at Paris on the 20th day of March, 1952;
+
+(*b*) Protocol No. 4 to the Convention securing certain rights and freedoms other than those already included in the Convention and in the First Protocol thereto done at Strasbourg on the 16th day of September, 1963;
+
+(*c*) Protocol No. 6 to the Convention concerning the abolition of the death penalty done at Strasbourg on the 28th day of April, 1983;
+
+(*d*) Protocol No. 7 to the Convention done at Strasbourg on the 22nd day of November, 1984.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F262: Repealed (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 31(b), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F263: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 28, in effect as per reg. 1(2).
+>
+> **Editorial Notes:**
+>
+> E48: Previous affecting provision: subs. (1)(b) amended (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 28, in effect as per reg. 1(2); para. (b) repealed (1.05.2024) as per F-note above.
+
+### 38. Offence in respect of which a person shall not be surrendered.
+
+**38.**—(1) F264[A person] shall not be surrendered to an issuing state under this Act in respect of an offence unless—
+
+(*a*) F265[it is the case that]—
+
+(i) under the law of the issuing state the offence is punishable by imprisonment or detention for a maximum period of not less than 12 months, or
+
+(ii) a term of imprisonment or detention of not less than 4 months has been imposed on the person in respect of the offence in the issuing state, and the person is required under the law of the issuing state to serve all or part of F266[that term of imprisonment,]
+
+F267[(*b*) in the case of a European arrest warrant, the offence is an offence to which paragraph 2 of Article 2 of the Framework decision applies and under the law of the issuing state the offence is punishable by imprisonment for a maximum period of not less than three years, or]
+
+F268[(*c*) in the case of a Trade and Cooperation Agreement arrest warrant, the offence is an offence to which paragraph 5 of Article LAW.SURR.79 of the Trade and Cooperation Agreement applies and under the law of the issuing state the offence is punishable by imprisonment for a maximum period of not less than three years.]
+
+F269[(1A) Subject to *subsection (2)*, the surrender of a person to an issuing state under this Act in respect of an offence may be refused where the offence does not correspond to an offence under the law of the State.]
+
+(2) The surrender of a person to an issuing state under this Act shall not be refused on the ground that, in relation to a revenue offence—
+
+(*a*) no tax or duty of the kind to which the offence relates is imposed in the State, or
+
+(*b*) the rules relating to taxes, duties, customs or exchange control that apply in the issuing state differ in nature from the rules that apply in the State to taxes, duties, customs or exchange control.
+
+(3) In this section “revenue offence” means, in relation to an issuing state, an offence in connection with taxes, duties, customs or exchange control.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F264, F265: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 24(a)(i), (ii), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F266, F267: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 29(a), (b), in effect as per reg. 1(2).
+>
+> F268: Inserted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 29(c), in effect as per reg. 1(2).
+>
+> F269: Inserted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 24(b), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> **Editorial Notes:**
+>
+> E49: Previous affecting provision: subs. (1)(b) amended (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 17, S.I. No. 330 of 2009; substituted as per F-note above.
+>
+> E50: Words in subs. (1)(b) “or is an offence that consists of conduct specified in that paragraph,” again deleted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 21, commenced on enactment.
+
+### 39. Pardon or amnesty.
+
+**39.**—(1) F270[...]
+
+F272[(2) A person shall not be surrendered under this Act where he or she has, in accordance with the law of the State, become immune, by virtue of any amnesty or pardon, from prosecution or punishment in the State for the offence specified in the relevant arrest warrant issued in respect of him or her, where that offence is one that the State has jurisdiction to prosecute under its own law.]
+
+(3) F271[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F270, F271: Repealed (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 31(c), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F272: Substituted (1.05.2024) by European Arrest Warrant (Amendment) Act 2024 (9/2024), s. 25, S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> **Editorial Notes:**
+>
+> E51: Previous affecting provision: subs. (2) amended (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 30(b), in effect as per reg. 1(2); subsection substituted (1.05.2024) as per F-note above.
+>
+> E52: Previous affecting provision: subss. (1), (3) amended (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 30(a), (c), in effect as per reg. 1(2); subsections repealed (1.05.2024) as per F-note above.
+
+### 40. Passage of time from commission of offence.
+
+**40.**—F273[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F273: Deleted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 19, S.I. No. 330 of 2009.
+
+### 41. Double jeopardy.
+
+**41.**—F274[(1) A person shall not be surrendered under this Act for the purpose of his or her being proceeded against in the issuing state, or for the execution of a sentence order or detention order for an offence consisting of an act or omission that constitutes an offence in respect of which final judgment has been given in the State or a Member State provided that where a sentence of imprisonment or period of detention was imposed on the person in respect of the second-mentioned offence in the State or Member State, as the case may be—
+
+(*a*) the person has completed serving the sentence of imprisonment or period of detention,
+
+(*b*) the person is otherwise no longer liable under the law of the State or the Member State, as the case may be, to serve any period of imprisonment or detention in respect of the offence, or
+
+(*c*) where that sentence of imprisonment or period of detention is currently being served by the person.]
+
+(2) F275[The surrender of a person to an issuing state under this Act may be refused where the surrender is for the purpose of his or her being proceeded against in the issuing state] for an offence consisting of the act or omission that constitutes an offence in respect of which final judgment has been given in a third country, provided that where a F276[sentence of imprisonment or period of detention] was imposed on the person in the third country in respect of the second-mentioned offence—
+
+(*a*) the person has completed serving the F277[sentence or period of detention], or
+
+(*b*) the person is otherwise no longer liable under the law of the third country to serve any period of imprisonment or detention in respect of the offence.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F274, F275, F276, F277: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 26(a), (b)(i)-(iii), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+
+### 42. Proceedings in the State.
+
+F278[**42.**—The surrender of a person to an issuing state under this Act may be refused where the person is being prosecuted in the State for an offence consisting of an act or omission of which the offence specified in the relevant arrest warrant issued in respect of him or her consists in whole or in part.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F278: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 27, S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> **Editorial Notes:**
+>
+> E53: Previous affecting provision: para. (b) amended (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 31, in effect as per reg. 1(2); section substituted (1.05.2024) as per F-note above.
+>
+> E54: Previous affecting provision: section substituted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 83, commenced on enactment, subject to transitional provision in s. 68; section substituted (1.05.2024) as per F-note above.
+
+### 43. Age.
+
+**43.**—F279[The surrender of a person to an issuing state under this Act may be refused where] the offence specified in the F280[relevant arrest warrant] issued in respect of him or her corresponds to an offence under the law of the State in respect of which a person of the same age as the person in respect of whom the F281[relevant arrest warrant] was issued could not be proceeded against by reason of his or her age.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F279: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 28, S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F280, F281: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 32, in effect as per reg. 1(2).
+
+### 44. Commission of offence outside issuing state.
+
+**44.**—F282[The surrender of a person to an issuing state under this Act may be refused where] the offence specified in the F283[relevant arrest warrant] issued in respect of him or her was committed or is alleged to have been committed in a place other than the issuing state and the act or omission of which the offence consists does not, by virtue of having been committed in a place other than the State, constitute an offence under the law of the State.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F282: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 28, S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F283: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 33, in effect as per reg. 1(2).
+
+### 45. Persons convicted in absentia.
+
+F284[**45.**—F285[(1)] F287[The High Court may refuse to order the surrender of a person under this Act] if he or she did not appear in person at the proceedings resulting in the sentence or detention order F289[in respect of which the European arrest warrant or the Trade and Cooperation Agreement arrest warrant, as the case may be, was issued, unless in the case of a European arrest warrant, the warrant indicates the matters required by points 2, 3 and 4 of point (d) of the form of warrant in the Annex to the Framework Decision as amended by Council Framework Decision 2009/299/JHA and in the case of a Trade and Cooperation Agreement arrest warrant, the warrant indicates the matters required by paragraph 1(i) of F288[Article 601 of the Trade and Cooperation Agreement]], as set out in the table to this section.
+
+F286[(2) Where a person has not received any information from the authorities in the State about the existence of criminal proceedings against him or her, he or she may request a copy of the judgment in relation to which the European arrest warrant or the Trade and Cooperation Agreement arrest warrant, as the case may be, in respect of the person has been issued and upon such a request being made the High Court shall without delay arrange for the issuing state to be informed of the request.]
+
+TABLE
+
+(*d*) Indicate if the person appeared in person at the trial resulting in the decision:
+
+1\. □ Yes, the person appeared in person at the trial resulting in the decision.
+
+2\. □ No, the person did not appear in person at the trial resulting in the decision.
+
+3\. If you have ticked the box under point 2, please confirm the existence of one of the following:
+
+□ 3.1a. the person was summoned in person on . . . (day/month/year) and thereby informed of the scheduled date and place of the trial which resulted in the decision and was informed that a decision may be handed down if he or she does not appear for the trial;
+
+OR
+
+□ 3.1b. the person was not summoned in person but by other means actually received official information of the scheduled date and place of the trial which resulted in the decision, in such a manner that it was unequivocally established that he or she was aware of the scheduled trial, and was informed that a decision may be handed down if he or she does not appear for the trial;
+
+OR
+
+□ 3.2. being aware of the scheduled trial, the person had given a mandate to a legal counsellor, who was either appointed by the person concerned or by the State, to defend him or her at the trial, and was indeed defended by that counsellor at the trial;
+
+OR
+
+□ 3.3. the person was served with the decision on . . . (day/month/year) and was expressly informed about the right to a retrial or appeal, in which he or she has the right to participate and which allows the merits of the case, including fresh evidence, to be re-examined, and which may lead to the original decision being reversed, and
+
+□ the person expressly stated that he or she does not contest this decision,
+
+OR
+
+□ the person did not request a retrial or appeal within the applicable time frame;
+
+OR
+
+□ 3.4. the person was not personally served with the decision, but
+
+—the person will be personally served with this decision without delay after the surrender, and
+
+—when served with the decision, the person will be expressly informed of his or her right to a retrial or appeal, in which he or she has the right to participate and which allows the merits of the case, including fresh evidence, to be re-examined, and which may lead to the original decision being reversed, and
+
+—the person will be informed of the time frame within which he or she has to request a retrial or appeal, which will be . . . days.
+
+4\. If you have ticked the box under points 3.1b, 3.2 or 3.3 above, please provide information about how the relevant condition has been met: ]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F284: Substituted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 23, commenced on enactment.
+>
+> F285, F286: Inserted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 29(a), (c), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F287, F288: Substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 29(b)(i), (ii), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F289: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 34, in effect as per reg. 1(2).
+>
+> **Editorial Notes:**
+>
+> E55: Previous affecting provision: section substituted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 20(a), S.I. No. 330 of 2009; substituted as per F-note above.
+
+### 45A. Identification procedures.
+
+F290[**45A.**— (1) Where a member of the Garda Síochána arrests a person under any power conferred by this Act, the member of the Garda Síochána may, in order to assist in verifying or ascertaining his or her identity for the purpose of proceedings under this Act and for no other purpose—
+
+(*a*) take, or cause to be taken, his or her fingerprint,
+
+(*b*) take, or cause to be taken, his or her palm print,
+
+(*c*) photograph him or her or cause him or her to be photographed.
+
+(2) Where a fingerprint, palm print or photograph taken pursuant to *subsection (1)* is lost or damaged, or is otherwise unsuitable for use for the purpose referred to in that subsection, it may be taken on a second or any further occasion.
+
+(3) The powers conferred by *subsection (1)* shall not be exercised except on the authority of a member of the Garda Síochána not below the rank of inspector.
+
+(4) A member of the Garda Síochána may, where a person fails or refuses to allow his or her fingerprint, palm print or photograph to be taken pursuant to subsection (1), use such force as he or she reasonably considers necessary to take the fingerprint, palm print or photograph or to cause the photograph to be taken.
+
+(5) (*a*) The powers conferred by *subsection (4)* shall not be exercised except on the authority of a member of the Garda Síochána not below the rank of superintendent.
+
+(*b*) An authorization pursuant to *paragraph (a)* may be given orally or in writing and if given orally shall be confirmed in writing as soon as practicable.
+
+(6) Where a member of the Garda Síochána intends to exercise a power conferred by *subsection (4)*, he or she shall inform the person—
+
+(*a*) of that intention, and
+
+(*b*) that an authorization to do so has been given pursuant to *subsection (5)(a)*.
+
+(7) Every fingerprint, palm print or photograph taken pursuant to *subsection (4)* shall be taken in the presence of a member of the Garda Síochána not below the rank of inspector.
+
+(8) The taking of every fingerprint, palm print or photograph pursuant to *subsection (4)* shall be video-recorded.
+
+(9) Every fingerprint, palm print or photograph of a person taken in pursuance of a power conferred by this section and every copy and record thereof shall be destroyed within the period of 12 months from the date of the taking of the fingerprint, palm print or photograph, as the case may be, or on the conclusion of proceedings under this Act in relation to the person, whichever occurs later.
+
+(10) A person who obstructs a member of the Garda Síochána in exercise of the powers under this section shall be guilty of an offence and shall, on summary conviction, be liable to a fine not exceeding €5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(11) Where a fingerprint, palm print or photograph of a person to whom a F291[relevant arrest warrant] relates is transmitted by or on behalf of an issuing judicial authority, such fingerprint, palm print or photograph shall be received in evidence without further proof.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F290: Inserted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 20(b), S.I. No. 330 of 2009.
+>
+> F291: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 35, in effect as per reg. 1(2).
+
+### 45B. Transfer of persons to state from which surrendered.
+
+F292[F293[**45B.** (1) Where a national or resident of another state from which he or she is surrendered—
+
+(*a*) is surrendered to the State pursuant to a Trade and Cooperation Agreement arrest warrant or an arrest warrant within the meaning of the EU-Iceland Norway Agreement with a view to being prosecuted in the State, and
+
+(*b*) whose surrender is subject to the condition that he or she, after being so prosecuted, is returned to that other state in order to serve any custodial sentence or detention order imposed upon him or her in the State,
+
+the Minister shall, following the final determination of the proceedings and if the person consents, issue a warrant under section 5 of that Act for the transfer of the person from the State to that state in order to serve there any custodial sentence or detention order so imposed.
+
+(2) Where a national or resident of another state from which he or she is surrendered—
+
+(*a*) is surrendered to the State pursuant to a European arrest warrant with a view to being prosecuted in the State, and
+
+(*b*) whose surrender is subject to the condition that he or she, after being so prosecuted, is returned to that other state in order to serve any sentence (within the meaning of the Act of 2023) imposed upon him or her in the State,
+
+the Minister shall, following the final determination of the proceedings, forward the judgment in the proceedings together with a copy of a Framework Decision Certificate (within the meaning of the Act of 2023) to that other state in order for the person to serve there any sentence so imposed.
+
+(3) For the purposes of *subsection (1)*—
+
+(*a*) a reference to the administering state in the Act of 1995 shall be construed as a reference to the state from which a person under *subsection (1)* is surrendered,
+
+(*b*) a person to whom *subsection (1)* applies shall be deemed to have made an application under section 4(1) of the Act of 1995, and
+
+(*c*) the state from which the person under *subsection (1)* is surrendered shall be deemed to have agreed under section 4(3)(f) of the Act of 1995 to the transfer.
+
+(4) For the purposes of *subsection (2)*, Part 2 of the Act of 2023 shall apply in respect of a judgment referred to in that subsection as it applies to a judgment to which that Part applies, subject to the following modifications:
+
+(*a*) the competent authority of the state from which a person under *subsection (2)* is surrendered shall be deemed to have made an application within the meaning of Part 2 of the Act of 2023;
+
+(*b*) a reference in Part 2 of the Act of 2023 to the executing state shall be construed as a reference to the state from which a person under *subsection (2)* is surrendered;
+
+(*c*) where paragraph (c) of section 14 of the Act of 2023 applies, the competent authority of the executing state shall be deemed to have given its consent under that provision;
+
+(*d*) any other necessary modifications.
+
+(5) In this section—
+
+"Act of 1995" means the Transfer of Sentenced Persons Act 1995;
+
+"Act of 2023" means the Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023.]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F292: Inserted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 20(b), S.I. No. 330 of 2009.
+>
+> F293: Substituted (3.05.2023) by *Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023*(3/2023), s. 75, S.I. No. 213 of 2023.
+>
+> **Editorial Notes:**
+>
+> E56: Previous affecting provision: subs. (1) amended (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 36, in effect as per reg. 1(2); substituted as per F-note above.
+
+### 45C. Technical flaws in applications for surrender.
+
+F294[F295[**45C.**— For the avoidance of doubt, an application for surrender under *section 16* shall not be refused if the Court is satisfied that no injustice would be caused to the person even if—
+
+(*a*) there is a defect in, or an omission of, a non-substantial detail in the F296[relevant arrest warrant] or any accompanying document grounding the application,
+
+(*b*) there is a variance between any such document and the evidence adduced on the part of the applicant at the hearing of the application, so long as the Court is satisfied that the variance is explained by the evidence, or
+
+(*c*) there has been a technical failure to comply with a provision of this Act, so long as the Court is satisfied that the failure does not impinge on the merits of the application.]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F294: Inserted (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 20(b), S.I. No. 330 of 2009.
+>
+> F295: Substituted (24.07.2012) by *European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012* (30/2012), s. 24, commenced on enactment.
+>
+> F296: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 37, in effect as per reg. 1(2).
+
+### 46. Immunity from prosecution.
+
+**46.**—F297[(1) A person who, by virtue of his or her holding any office or other position, enjoys a privilege or immunity under the law of the State from prosecution for any offence, shall not while he or she holds such office or position be surrendered under this Act.]
+
+F298[(2) Where the power to waive an immunity or privilege referred to in *subsection (1)*—
+
+(*a*) is exercisable by a person in the State, the High Court shall request the person concerned to exercise the power to waive such privilege or immunity, or
+
+(*b*) resides with an international organisation or a person in another state, the issuing judicial authority shall request the organisation or person concerned to waive the privilege or immunity.
+
+(3) *Section 15* or *16*, as the case may be, shall apply to a person to whom *subsection (1)* applies as of the date on which the High Court is informed that the immunity or privilege, as the case may be, has been waived, as though that order were an order made under *subsection (1)* or *(2)* of *section 15* or *subsection (1)* or *(2)* of *section 16*, as the case may be.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F297: Inserted and substituted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 30(c), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+>
+> F298: Inserted (1.05.2024) by *European Arrest Warrant (Amendment) Act 2024* (9/2024), s. 30(a), (b), S.I. No. 180 of 2024, subject to transitional provision in s. 2.
+
+## PART 4Miscellaneous — PART 4 — Miscellaneous
+
+### 47. Amendment of section 3 of Act of 1965.
+
+**47.**—Section 3 of the Act of 1965 is amended by—
+
+(*a*) the insertion in subsection (1) of the following definition:
+
+“ ‘country’ includes territories for whose external relations the country concerned is responsible;”,
+
+(*b*) the substitution of the following subsection for subsection (1A):
+
+“(1A) For the purposes of the amendments to this Act effected by Part 2 of the Extradition (European Union Conventions) Act 2001, ‘Convention country’ means—
+
+(*a*) a country designated under section 4(1) of that Act, or
+
+(*b*) in such provisions of this Act as are specified in an order under subsection (1A) (inserted by *section 52* of the *European Arrest Warrant Act 2003)* of section 4 of the Extradition (European Union Conventions) Act 2001, a country designated by that order, to which the provisions so specified apply.”,
+
+and
+
+(*c*) the substitution of the following subsection for subsection (1B) (inserted by section 9 of the Act of 2001):
+
+“(1B) For the purposes of the amendments to this Act effected by Part 3 of the Extradition (European Union Conventions) Act 2001, ‘Convention country’ means—
+
+(*a*) a country designated under section 10(1) of that Act, or
+
+(*b*) in such provisions of this Act as are specified in an order under subsection (1A) (inserted by *section 52* of the *European Arrest Warrant Act 2003*) of section 10 of the Extradition (European Union Conventions) Act 2001, a country designated by that order, to which the provisions so specified apply.”.
+
+### 48. Laying of orders under Act of 1965 before Houses of Oireachtas.
+
+**48.**—The Act of 1965 is amended by the substitution of the following section for section 4 (inserted by section 21 of the Act of 2001):
+
+“4.—Every order under section 8 of this Act made after the commencement of *section 48* of the *European Arrest Warrant Act 2003* shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which that House sits after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.”.
+
+### 49. Application of Part II of Act of 1965.
+
+**49.**—Section 8 of the Act of 1965 is amended by—
+
+(*a*) the substitution in subsection (1) of—
+
+(i) “Minister is” for “Government are” where it first occurs, and
+
+(ii) “Minister for Foreign Affairs may, after consultation with the Minister,” for “Government may”,
+
+(*b*) the substitution in subsection (1A) (inserted by section 23 of the Act of 2001) of “Minister for Foreign Affairs may, after consultation with the Minister,” for “Government may”,
+
+(*c*) the substitution in subsection (2) of “Minister for Foreign Affairs may, after consultation with the Minister”, for “Government may”,
+
+(*d*) the substitution in subsection (6) of “Minister for Foreign Affairs may, after consultation with the Minister,” for “Government may”, and
+
+(*e*) the insertion of the following subsection:
+
+“(9) An order under this section in force immediately before the commencement of the *European Arrest Warrant Act 2003* shall continue in force after such commencement as if made under this section (as amended by *section 49* of that Act), and may be amended or revoked accordingly.”,
+
+and the said section 8 as so amended is set out in the Table to this section.
+
+TABLE
+
+<table><tr><td>8.—(1) Where by any international agreement or convention to which the State is a party an arrangement (in this Act referred to as an extradition agreement) is made with another country for the surrender by each country to the other of persons wanted for prosecution or punishment or where the Minister is satisfied that reciprocal facilities to that effect will be afforded by another country, the Minister for Foreign Affairs may, after consultation with the Minister, by order apply this Part in relation to that country.<br>(1A) Where at any time after the making of an order under subsection (1) a country becomes a party to an extradition agreement to which that order applies, the Minister for Foreign Affairs may, after consultation with the Minister, by order so declare, and this Part shall, upon the making of the second-mentioned order, apply to that country.<br>(2) Where the Government have made an arrangement amending an extradition agreement the Minister for Foreign Affairs may, after consultation with the Minister, by order so declare and the extradition agreement shall thereupon have effect as so amended.<br>(3) An order relating to an extradition agreement (other than an order under subsection (1A) (inserted by section 23(<i>a</i>) of the Extradition (European Union Conventions) Act 2001)) shall recite or embody the terms of the agreement and shall be evidence of the making of the agreement and of its terms.<br>(3A) An order under subsection (1A) shall in relation to the extradition agreement concerned recite or embody the terms of any reservation or declaration entered to that agreement by a country to which the order applies, and shall be evidence of the reservation or declaration (if any) and of its terms.<br>(3B) An order under subsection (2) shall recite or embody the terms of the amendment and shall be evidence of the making of the arrangement amending the extradition agreement concerned and of the terms of the amendment.<br>(4) An order applying this Part in relation to any country otherwise than in pursuance of an extradition agreement, may be made subject to such conditions, exceptions and qualifications as may be specified in the order.<br>(5) Every extradition agreement and every order applying this Part otherwise than in pursuance of an extradition agreement shall, subject to the provisions of this Part, have the force of law in accordance with its terms.<br>(6) The Minister for Foreign Affairs may, after consultation with the Minister, by order revoke or amend an order under this section.<br>(7) On the revocation of an order applying this Part in relation to any country this Part shall cease to apply in relation to that country.<br>(8) A notice of the making of each order under this section shall be published in <i>Iris Oifigiúil</i> as soon as may be after it is made.<br>(9) An order under this section in force immediately before the commencement of the <i>European Arrest Warrant Act 2003</i> shall continue in force after such commencement as if made under this section (as amended by <i>section 49</i> of that Act) and may be amended or revoked accordingly.</td></tr></table>
+
+### 50. Repeal of Part III of Act of 1965.
+
+**50.**—(1) Part III of the Act of 1965 is repealed.
+
+(2) Where, before the commencement of this Act, a warrant issued by a judicial authority in a place in relation to which Part III of the Act of 1965 applies was—
+
+(*a*) produced to the Commissioner of the Garda Síochána for the purposes of section 43 of the Act of 1965, or
+
+(*b*) endorsed for execution under that Part,
+
+then, notwithstanding the repeal of the said Part III effected by *subsection (1)*, that Part shall, on and after the said commencement, continue to apply in relation to that warrant and the person named in that warrant shall be dealt with under and in accordance with that Part.
+
+### 51. Amendment of Extradition (European Convention on the Suppression of Terrorism) Act 1987.
+
+**51.**—The Extradition (European Convention on the Suppression of Terrorism) Act 1987 is amended by the substitution of the following section for section 10:
+
+“10.—(1) The Minister for Foreign Affairs may, after consultation with the Minister, by order direct that all or any of the provisions of this Act which would, apart from this section, apply only in relation to convention countries shall apply (subject to such exceptions, if any, as may be specified in the order) in relation to any country which is not a convention country and with which there is in force an extradition agreement (within the meaning of the Act of 1965) as they apply in relation to a convention country.
+
+(2) The Minister for Foreign Affairs may, after consultation with the Minister, by order amend or revoke an order under this section including an order under this subsection.
+
+(3) Every order under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which that House sits after the order is laid before it, the order shall be annulled accordingly, but without prejudice to anything previously done thereunder.”.
+
+### 52. Amendment of Act of 2001.
+
+**52.**—The Act of 2001 is amended by—
+
+(*a*) the insertion of the following subsection in section 4:
+
+“(1A) The Minister for Foreign Affairs may by order designate a country (other than a Member State of the European Communities) as being deemed to have adopted in whole or in part the Convention of 1995 and any such order shall specify the provisions of this Part that apply to that country.”, and
+
+(*b*) the insertion of the following subsection in section 10:
+
+“(1A) The Minister for Foreign Affairs may by order designate a country (other than a Member State of the European Communities) as being deemed to have adopted in whole or in part the Convention of 1996 and any such order shall specify the provisions of this Part that apply to that country.”.
+
+## SCHEDULE — SCHEDULE
+
+### PART A — Text in the Irish language of Council Framework Decision of 13 June 2002 on the European arrest warrant and the surrender procedures between Member States.
+
+**TREOIRCHINNEADH 2002 — CGB ÓN gCOMHAIRLE**
+
+**an 13 Meitheamh 2002**
+
+**maidir leis an mbarántas gabhála Eorpach agus na nósanna imeachta um ghéilleadh idir na Ballstáit**
+
+(2002/584/JHA)
+
+TÁ COMHAIRLE AN AONTAIS EORPAIGH,
+
+Ag féachaint don Chonradh ar an Aontas Eorpach, agus go háirithe Airteagal 31(a) agus (b) agus Airteagal 34(2)(b) de,
+
+Ag féachaint don togra ón gCoimisiún[^11],
+
+Ag féachaint don tuairim ó Pharlaimint na hEorpa[^12],
+
+De bhrí:
+
+(1) De réir na gconclúidí ón gComhairle Eorpach in Tampere an 15 agus 16 Deireadh Fómhair 1999, agus go háirithe pointe 35 díobh, gur chóir an nós imeachta foirmiúil um eiseachadadh a dhíothú idir na Ballstáit maidir le daoine atá ar a dteitheadh ón gceartas tar éis dóibh bheith ina n-ábhair do phianbhreith chríochnaitheach agus na nósanna imeachta um eiseachadadh a bhrostú maidir le daoine atá faoi amhras ciona.
+
+(2) Go bhfuil tagairt i gclár na mbeart a bhaineann le cur chun feidhme an phrionsabail maidir le breitheanna coiriúla a aithint go frithpháirteach, atá luaite i bpointe 37 de na conclúidí arna nglacadh ag an gComhairle Eorpach in Tampere ar an 20 Samhain 2000[^13], don cheist maidir le barántais ghabhála a fhorghníomhú go frithpháirteach.
+
+(3) Go bhfuil na Ballstáit uile nó cuid díobh ina bpáirtithe i roinnt coinbhinsiún i dtaca leis an eiseachadadh, lena n-áirítear Coinbhinsiún Eorpach um Eiseachadadh an 13 Nollaig 1957 agus Coinbhinsiún Eorpach chun Sceimhlitheoireacht a Dhíothú an 27 Eanáir 1977. Tá dlíthe maidir leis an Eiseachadadh ag na Stáit Nordacha inar comhionann an fhoclaíocht.
+
+(4) Ina theannta sin, go bhfuil na trí Choinbhinsiún seo a leanas a bhaineann go hiomlán nó go páirteach leis an eiseachadadh comhaontaithe idir na Ballstáit agus gur cuid de acquis an Aontais iad: Coinbhinsiún an 19 Meitheamh 1990 ag cur chun feidhme Chomhaontú Schengen an 14 Meitheamh 1985 maidir le seiceálacha ag a dteorainneacha coiteanna a dhíothú de réir a chéile (sa chaidreamh idir na Ballstáit is páirtithe sa Choinbhinsiún sin)[^14], Coinbhinsiún an 10 Márta 1995 maidir leis an nós imeachta simplithe um eiseachadadh idir na Ballstáit den Aontas Eorpach[^15] agus Coinbhinsiún an 27 Meán Fómhair 1996 maidir leis an Eiseachadadh idir na Ballstáit den Aontas Eorpach[^16].
+
+(5) Mar thoradh ar an gcuspóir atá leagtha síos ag an Aontas limistéar saoirse, slándála agus ceartais a dhéanamh dá limistéar nach gá an t-eiseachadadh níos mó, agus toisc go gcuirfear ina ionad córas um ghéilleadh idir na húdaráis bhreithiúnacha. Fairis sin, de dheasca córas nua simplithe um ghéilleadh a thabhairt isteach maidir le daoine a bhfuil pianbhreith tugtha ina leith nó daoine atá faoi amhras ciona chun críocha pianbhreitheanna nó imeachtaí coiriúla a fhorghníomhú nó a thabhairt ar aghaidh, is féidir coimpléascacht agus an tsiocair moilleadóireachta is cuid dhílis den nós imeachta láithreach um eiseachadadh a dhíchur. An comhar traidisiúnta caidrimh a bhí i réim idir na Ballstáit go dtí seo ba chóir córas saorghluaiseachta maidir le breitheanna breithiúnacha in ábhair choiriúla a chur ina ionad, a fholaíonn breitheanna réamhphianbhreithe oiread agus breitheanna críochnaitheacha, laistigh de limistéar saoirse, slándála agus ceartais.
+
+(6) Gurb é an barántas gabhála Eorpach dá bhforáiltear sa Treoirchinneadh seo an chéad bheart táigiúil i réimse an dlí choiriúil a chuireann chun feidhme an prionsabal maidir leis an aitheantas frithpháirteach ar thug an Chomhairle Eorpach cloch choirnéil an chomhair bhreithiúnaigh air.
+
+(7) Nach féidir leis na Ballstáit an aidhm, arb éard é córas a chur in ionad an chórais iltaobhaigh um eiseachadadh arna thógáil ar Choinbhinsiún Eorpach um Eiseachadadh an 13 Nollaig 1957, a ghnóthú go leordhóthanach trí na Ballstáit bheith ag gníomhú go haontaobhach agus gur fearr is féidir a ghnóthú mar sin, toisc a raon feidhme agus a éifeachtaí, ag leibhéal an Aontais, is féidir leis an gComhairle bearta a ghlacadh, i gcomhréir le prionsabal na coimhdeachta dá dtagraítear in Airteagal 2 den Chonradh ar an Aontas Eorpach agus in Airteagal 5 den Chonradh ag bunú an Chomhphobail Eorpaigh. I gcomhréir le prionsabal na comhréireachta, mar atá leagtha amach san Airteagal sin, ní théann an Treoirchinneadh seo thar mar is gá chun an cuspóir sin a ghnóthú.
+
+(8) Nach mór breitheanna maidir leis an mbarántas gabhála Eorpach a fhorghníomhú a bheith faoi réir rialuithe leordhóthanacha; ciallaíonn sé sin go gcaithfidh údarás breithiúnach de chuid an Bhallstáit inar gabhadh an duine iarrtha an bhreith a ghlacadh maidir lena g(h)éilleadh.
+
+(9) Nach mór ról na n-údarás láir maidir le forghníomhú barántas gabhála Eorpach a theorannú do chúnamh praiticiúil riarthach.
+
+(10) Go bhfuil an mheicníocht i dtaca leis an mbarántas gabhála Eorpach bunaithe ar ardleibhéal muiníne idir na Ballstáit. Ní fhéadfar cur chun feidhme na meicníochta sin a fhionraí ach amháin i gcás Ballstát amháin na prionsabail atá leagtha amach in Airteagal 6(1) den Chonradh ar an Aontas Eorpach a shárú go tromchúiseach, leanúnach, agus an sárú sin arna shuíomh ag an gComhairle de bhun Airteagal 7(1) den Chonradh sin leis na hiarmhairtí dá bhforáiltear in Airteagal 7(2).
+
+(11) Sa chaidreamh idir na Ballstáit gur chóir go ngabhfadh an barántas gabhála Eorpach ionad na n-ionstraimí uile maidir le heiseachadadh, lena n-áirítear forálacha Theideal III de Choinbhinsiún chur chun feidhme Chomhaontú Schengen a bhaineann leis an eiseachadadh.
+
+(12) Go n-urramaíonn an Treoirchinneadh seo na saoirsí bunúsacha agus go gcomhlíonann sé na prionsabail arna n-aithint in Airteagal 6 den Chonradh ar an Aontas Eorpach agus atá le fáil sa Chairt um Chearta Bunúsacha den Aontas Eorpach[^17], go háirithe Caibidil VI de. Ní féidir aon ní sa Treoirchinneadh seo a léirmhíniú mar thoirmeasc ar dhiúltú duine a ghéilleadh a bhfuil barántas gabhála Eorpach eisithe ina leith má tá cúiseanna oibiachtúla ann lena chreidiúint go bhfuil an barántas gabhála Eorpach eisithe d'fhonn duine a ionchúiseamh nó a phionósú de bhíthin a g(h)néis, a c(h)ine, a reiligiúin, a b(h)unaidh eitnigh, a náisúntachta, a t(h)eanga, a t(h)uairimí polaitiúla nó a t(h)reoshuímh ghnéasaigh, nó go bhféadfar seasamh an duine sin a dhochrú ar aon cheann de na cúiseanna sin.
+
+Ní chuireann an Treoirchinneadh seo cosc ar aon Bhallstát a chuid rialacha bunreachtúla a chur i bhfeidhm a bhaineann le próiseas cuí, saoirse comhlachais, saoirse an phreasa agus an tsaoirse friotail sna meáin eile.
+
+(13) Nár chóir aon duine a aistriú, a dhíbirt nó a eiseachadadh chuig Stát ina bhfuil baol tromchúiseach ann go bhféadfaí é/í a chur faoi réir phionós an bháis, céasadh nó aon drochíde mídhaonna nó táireach ná pionós mídhaonna nó táireach eile.
+
+(14) toisc go bhfuil Coinbhinsiún Chomhairle na hEorpa an 28 Eanáir 1981 chun daoine aonair a chosaint maidir le huathphróiseáil sonraí pearsanta daingnithe ag na Ballstáit uile, gur chóir na sonraí pearsanta arna bpróiseáil mar chuid de chur chun feidhme an Treoirchinnidh seo a chosaint i gcomhréir le prionsabail an Choinbhinsiúin a dúradh,
+
+TAR ÉIS AN TREOIRCHINNEADH SEO A GHLACADH:
+
+#### CAIBIDIL 1 — PRIONSABAIL GHINEARÁLTA
+
+**Airteagal 1 — An barántas gabhála Eorpach a shainiú agus an oibleagáid é a fhorghníomhú**
+
+1\. Breith bhreithiúnach arna heisiúint ag Ballstát ar mhaithe le Ballstát eile duine iarrtha a ghabháil agus a ghéilleadh d'fhonn ionchúiseamh coiriúil a sheoladh nó pianbhreith faoi choimeád nó ordú coinneála a fhorghníomhú, is ea an barántas gabhála Eorpach.
+
+2\. Déanann na Ballstáit aon bharántas gabhála Eorpach a fhorghníomhú ar bhonn an phrionsabail maidir le haitheantas frithpháirteach agus i gcomhréir le forálacha an Treoirchinnidh seo.
+
+3\. Ní bheidh d'éifeacht leis an Treoirchinneadh seo an oibleagáid a mhodhnú maidir le cearta bunúsacha agus prionsabail dlí bunúsacha a urramú mar atá arna leagan amach in Airteagal 6 den Chonradh ar an Aontas Eorpach.
+
+**Airteagal 2 — An raon feidhme atá ag an mbarántas gabhála Eorpach**
+
+1\. Féadfar barántas gabhála Eorpach a eisiúint i leith gníomhartha is inphionóis faoin dlí sa Bhallstát eisitheach le pianbhreith faoi choimeád nó ordú coinneála go feadh uastréimhse dhá mhí dhéag ar a laghad nó, má tá an phianbhreith tugtha nó an t-ordú coinneála déanta, i leith pianbhreitheanna go feadh ceithre mhí ar a laghad.
+
+2\. Na cionta seo a leanas, má tá siad inphionóis sa Bhallstát eisitheach le pianbhreith faoi choimeád go feadh trí bliana ar a laghad agus de réir mar atá siad sainithe sa dlí sa Bhallstát eisitheach, beidh siad, faoi théarmaí an Treoirchinnidh seo agus gan coiriúlacht dhúbailte an ghnímh a fhíorú, ina siocair le géilleadh de bhun barántas gabhála Eorpach:
+
+— rannpháirteachas in eagraíocht choiriúil,
+
+— sceimhlitheoireacht,
+
+— ceannaíocht i ndaoine,
+
+— dúshaothrú gnéasach leanaí agus an phornagrafaíocht maidir le leanaí,
+
+— gáinneáil aindleathach i ndrugaí támhshuanacha agus substaintí síceatrópacha,
+
+— gáinneáil aindleathach in airm, lón cogaidh agus pléascáin,
+
+— éilliú,
+
+— calaois, lena n-áirítear an chalaois a fhearann ar leasanna airgeadais na gComhphobal Eorpach de réir bhrí Choinbhinsiún an 26 Iúil 1995 maidir le leasanna airgeadais na gComhbhobal Eorpach a chosaint,
+
+— fáltais na coiriúlachta a sciúradh,
+
+— airgeadra, lena n-áirítear an euro, a ghóchumadh,
+
+— an choiriúlacht atá bainteach le ríomhaireacht,
+
+— coiriúlacht na timpeallachta, lena n-áirítear gáinneáil aindleathach i speicis ainmhithe atá faoi bhagairt agus i speicis phlandaí agus cineálacha plandaí atá faoi bhagairt,
+
+— iontráil agus cónaí neamhúdaraithe a éascú,
+
+— dúnmharú, mórdhíobháil choirp,
+
+— trádáil aindleathach in orgáin agus i bhfíochán an duine,
+
+— fuadach, srianadh neamhdhlíthiúil agus gabháil giall,
+
+— ciníochas agus seineafóibe,
+
+— robáil eagraithe nó armtha,
+
+— gáinneáil aindleathach in earraí cultúir, lena n-áirítear seandachtaí agus saothair ealaíne,
+
+— caimiléireacht,
+
+— cambheartaíocht agus sracaireacht,
+
+— góchumadh agus píoráideacht táirgí,
+
+— doiciméid riarthacha a bhrionnú agus gáinneáil iontu,
+
+— cóir íocaíochta a bhrionnú,
+
+— gáinneáil aindleathach i substaintí hormónacha agus tionscnóirí fáis eile,
+
+— gáinneáil aindleathach in ábhair núicléacha nó radaighníomhacha,
+
+— gáinneáil i mótarfheithiclí goidte,
+
+— éigniú,
+
+— coirloscadh,
+
+— coireanna laistigh de dhlínse na Cúirte Coiriúla Idirnáisiúnta
+
+— urghabháil neamhdhleathach aerárthaí/árthaí,
+
+— sabaitéireacht.
+
+3\. Féadfaidh an Chomhairle a chinneadh tráth ar bith, ag gníomhú di d'aon toil tar éis dul i gcomhairle le Parlaimint na hEorpa faoi na coinníollacha atá leagtha síos in Airteagal 39(1) den Chonradh ar an Aontas Eorpach (CAE), catagóirí eile ciona a chur leis an liosta atá i mír 2 den Airteagal seo. Scrúdóidh an Chomhairle, i bhfianaise na tuarascála arna cur faoina bráid ag an gCoimisiún de bhun Airteagal 34(3), ar chóir an liosta a mhéadú nó a leasú.
+
+4\. Maidir le cionta seachas na cinn atá folaithe i mír 2, féadfaidh an géilleadh a bheith faoi réir an choinníll gur cion iad faoin dlí sa Bhallstát forghníomhaitheach na gníomhartha a bhfuil an barántas gabhála Eorpach eisithe ina leith, is cuma cad iad na heilimintí is comhábhar dóibh nó cad é mar atá siad tuairiscithe.
+
+**Airteagal 3 — Forais le neamhfhorghníomhú sainordaitheach den bharántas gabhála Eorpach**
+
+Diúltóidh an t-údarás breithiúnach sa Bhallstát forghníomhaitheach (dá ngairtear “údarás breithiúnach forghníomhaitheach” anseo feasta) an barántas gabhála Eorpach a fhorghníomhú sna cásanna seo a leanas:
+
+1\. má tá an cion ar a bhfuil an barántas bunaithe faoi chlúdach ollmhaithiúnais sa Bhallstát forghníomhaitheach nuair atá dlínse ag an Stát sin an cion a ionchúiseamh faoina dhlí coiriúil féin;
+
+2\. má chuirtear in iúl don údarás breithiúnach forghníomhaitheach go bhfuil breith chríochnaitheach tugtha ar an duine iarrtha ag Ballstát mar gheall ar na gníomhartha céanna ar chuntar, má cuireadh pianbhreith air, go bhfuil an phianbhreith seirbheáilte nó go bhfuil sí á seirbheáil faoi láthair nó nach féidir í a fhorghníomhú a thuilleadh faoin dlí sa Bhallstát inar cuireadh an phianbhreith air;
+
+3\. mura féidir mar gheall ar a aois an fhreagracht choiriúil as na gníomhartha ar a bhfuil an barántas gabhála Eorpach bunaithe faoin dlí sa Stát forghníomhaitheach a chur ar an duine is ábhar don bharántas.
+
+**Airteagal 4 — Forais le neamhfhorghníomhú roghnach an bharántais ghabhála Eorpaigh**
+
+Féadfaidh an t-údarás breithiúnach forghníomhaitheach diúltú an barántas gabhála Eorpach a fhorghníomhú:
+
+1\. más rud é, in aon cheann de na cásanna dá dtagraítear in Airteagal 2(4), nach cion é faoin dlí sa Bhallstát forghníomhaitheach an gníomh ar a bhfuil an barántas gabhála Eorpach bunaithe; ar a shon sin, i ndáil le cánacha nó dleachtanna, custam agus malairt ní fhéadfar an barántas gabhála Eorpach a dhiúltú ar an bhforas nach bhforchuireann an dlí sa Bhallstát forghníomhaitheach an cineál céanna cánacha nó dleachtanna nó nach bhfuil sa dlí sin an saghas céanna rialacha maidir le cáin, dleacht agus rialacháin chustaim agus malairte leis an dlí sa Bhallstát eisitheach;
+
+2\. má tá an duine is ábhar don bharántas gabhála Eorpach á ionchúiseamh sa Bhallstát forghníomhaitheach as an ngníomh céanna agus an gníomh ar a bhfuil an barántas gabhála Eorpach bunaithe;
+
+3\. má tá na húdaráis bhreithiúnacha sa Bhallstát forghníomhaitheach tar éis a chinneadh nach ndéanfar an duine a ionchúiseamh as an ngníomh ar a bhfuil an barántas gabhála Eorpach bunaithe nó deireadh a chur leis na himeachtaí, nó má tá breithiúnas críochnaitheach tugtha i gcoinne an duine iarrtha i mBallstát mar gheall ar na gníomhartha céanna, a chuireann cosc le tuilleadh imeachtaí;
+
+4\. má tá an t-ionchúiseamh coiriúil nó pionósú an duine iarrtha faoi urchosc reachta de réir an dlí sa Bhallstát forghníomhaitheach agus má thagann na gníomhartha faoi dhlínse an Bhallstáit sin faoina dhlí coiriúil féin;
+
+5\. má chuirtear an t-údarás breithiúnach forghníomhaitheach ar an eolas go bhfuil breith chríochnaitheach tugtha ar an duine iarrtha i dtríú Stát mar gheall ar na gníomhartha céanna ar chuntar, má cuireadh pianbhreith air, go bhfuil an phianbhreith seirbheáilte aige nó go bhfuil sí á seirbheáil faoi láthair aige nó nach féidir é a fhorghníomhú a thuilleadh faoin dlí sa tír inar cuireadh an phianbhreith air;
+
+6\. má tá an barántas gabhála Eorpach eisithe d'fhonn pianbhreith faoi choimeád nó ordú coinneála a fhorghníomhú nuair atá an duine iarrtha ag fanacht sa Bhallstát forghníomhaitheach nó nuair is náisiúnach nó cónaitheoir sa Bhallstát forghníomhaitheach an duine agus go ngabhann an Stát sin ar láimh an phianbhreith nó an t-ordú coinneála sin a fhorghníomhú i gcomhréir lena dhlí inmheánach;
+
+7\. Nuair a bhainean an barántas gabhála Eorpach le cionta:
+
+(a) a meastar faoi dhlí an Bhallstáit fhorghníomhaithigh go ndearnadh iad go hiomlán nó go páirteach ar chríoch an Bhallstáit fhorghníomhaithigh nó in ionad a roinntear leis amhlaidh; nó
+
+(b) a rinneadh lasmuigh de chríoch an Bhallstáit eisithigh agus nach gceadaíonn an dlí sa Bhallstát forghníomhaitheach an t-ionchúiseamh mar gheall ar na cionta céanna nuair a rinneadh lasmuigh dá chríoch iad.
+
+**Airteagal 5 — Ráthaíochtaí atá le tabhairt ag an mBallstát eisitheach i gcásanna ar leith**
+
+Féadfaidh an barántas gabhála Eorpach a fhorghníomhú ag an údarás breithiúnach forghníomhaitheach a chur, de réir an dlí sa Bhallstát forghníomhaitheach, faoi réir na gcoinníollacha seo a leanas:
+
+1\. nuair atá an barántas gabhála Eorpach eisithe ar mhaithe le pianbhreith nó ordú coinneála arna bhforchur trí bhreith arna tabhairt in absentia a fhorghníomhú, is é sin le rá go raibh an duine i dtrácht as láthair toisc nach raibh toghairm faighte aici/aige go pearsanta nó nach raibh dáta agus ionad na héisteachta ba shiocair leis an mbreith a bheith á tabhairt in absentia curtha in iúl di/dó ar aon dóigh eile, féadfaidh an géilleadh a bheith faoi réir an choinníll go dtugann an t-údarás breithiúnach eisitheach ráthaíocht a mheastar a bheith leormhaith chun a ráthú don duine is ábhar don bharántas gabhála Eorpach go mbeidh deis aici/aige atriail an cháis a lorg sa Bhallstát eisitheach agus bheith i láthair don bhreithiúnas;
+
+2\. má tá an cion a bhfuil an barántas gabhála Eorpach eisithe ar a bhonn inphionóis le pianbhreith saoil faoi choimeád nó ordú coinneála fad saoil, féadfaidh forghníomhú an bharántais sin a chur faoi réir an choinníll go bhfuil forálacha ag an mBallstát eisitheach ina chóras dlí chun an pionós nó beart arna fhorchur a léirmheas — arna iarraidh sin nó faoi cheann fiche bliain ar a laghad — nó chun bearta trócaire a bhfuil an duine ina dteideal faoin dlí nó cleachtas sa Bhallstát eisitheach a chur i bhfeidhm arb é is aidhm dóibh pionós nó beart den sórt sin a neamhfhorghníomhú;
+
+3\. más náisiúnach den Bhallstát forghníomhaitheach nó cónaitheoir ann an duine is ábhar don bharántas gabhála Eorpach ar mhaithe le hionchúiseamh, féadfaidh an géilleadh a bheith faoi réir an choinníll go gcuirtear an duine, tar éis éisteacht a fháil, ar ais chuig an mBallstát forghníomhaitheach chun an phianbhreith faoi choimeád nó an t-ordú coinneála arna fhorchur air sa Bhallstát eisitheach a sheirbheáil ansin.
+
+**Airteagal 6 — Na húdaráis bhreithiúnacha inniúla a chinneadh**
+
+1\. Is é an t-údarás breithiúnach eisitheach an t-údarás breithiúnach sa Bhallstát eisitheach atá inniúil an barántas gabhála Eorpach a eisiúint de bhua an dlí sa Stát sin.
+
+2\. Is é an t-údarás breithiúnach forghníomhaitheach an t-údarás breithiúnach sa Bhallstát forghníomhaitheach atá inniúil an barántas gabhála Eorpach a fhorghníomhú de bhua an dlí sa Stát sin.
+
+3\. Cuirfidh gach Ballstát Ardrúnaíocht na Comhairle ar an eolas faoin údarás breithiúnach inniúil faoina dhlí.
+
+**Airteagal 7 — Dul i muinín an údaráis láir**
+
+1\. Féadfaidh gach Ballstát údarás láir a ainmniú nó, má fhoráiltear a leithéid ina chóras dlí, níos mó ná údarás láir amháin chun cuidiú leis na húdaráis bhreithiúnacha inniúla.
+
+2\. Féadfaidh Ballstát, más gá de dheasca eagrúchán a chóras breithiúnach inmheánach, a údará(i)s láir a dhéanamh freagrach as barántais ghabhála Eorpacha a tharchur agus a ghlacadh go riarthach agus as comhfhreagras oifigiúil eile a bhaineann leo.
+
+Ballstát ar mian leis na caíonna dá dtagraítear san Airteagal seo a úsáid, páirteoidh sé faisnéis i ndáil leis an údarás láir nó leis na húda ráis láir arna (n-)ainmniú le hArdrúnaíocht na Comhairle. Beidh na sonraí sin ina gceangal ar na húdaráis uile sa Bhallstát eisitheach.
+
+**Airteagal 8 — Inneachar agus foirm an bharántais ghabhála Eorpaigh**
+
+1\. Beidh sa bharántas gabhála Eorpach an fhaisnéis seo a leanas arna leagan amach i gcomhréir leis an bhfoirm atá san Iarscríbhinn maidir le:
+
+(a) céannacht agus náisiúntacht an duine iarrtha;
+
+(b) ainm, seoladh, uimhreacha teileafóin agus facs agus seoladh ríomhphoist an údaráis bhreithiúnaigh eisithigh;
+
+(c) fianaise go bhfuil breithiúnais infhorghníomhaithe, barántas gabhála nó aon bhreith bhreithiúnach infhorghníomhaithe eile leis an éifeacht chéanna ann, a thagann faoi raon feidhme Airtegail 1 agus 2, ann;
+
+(d) cineál agus rangú dlí an chiona, go háirithe i dtaca le hAirteagal 2;
+
+(e) tuairisc ar na himthosca ina ndearnadh an cion, lena n-áirítear an t-am, an t-ionad agus méid an rannpháirteachais ag an duine iarrtha sa chion arna líomhaint;
+
+(f) an pionós arna fhorchur, má tá breithiúnas críochnaitheach ann, nó scála na bpionós arna fhorordú don chion faoin dlí sa Bhallstát eisitheach;
+
+(g) más féidir, iarmhairtí eile an chiona.
+
+2\. Ní mór an barántas gabhála Eorpach a aistriú go teanga oifigiúil nó go ceann de na teangacha oifigiúla den Bhallstát forghníomhaitheach. Féadfaidh aon Bhallstát, agus an Treoirchinneadh seo á ghlacadh aige nó tráth níos déanaí, sonrú i ndearbhú arna thaisceadh in Ardrúnaíocht na Comhairle go nglacfaidh sé le haistriúchán i dteanga amháin nó níos mó de na teangacha oifigiúla d'Institiúidí na gComhphobal Eorpach.
+
+#### CAIBIDIL 2 — NÓS IMEACHTA UM GHÉILLEADH
+
+**Airteagal 9 — Barántas gabhála Eorpach a tharchur**
+
+1\. Nuair is eol cá bhfuil an duine iarrtha, féadfaidh an t-údarás breithiúnach eisitheach an barántas gabhála Eorpach a tharchur go díreach chuig an údarás breithiúnach forghníomhaitheach.
+
+2\. Féadfaidh an t-údarás breithiúnach eisitheach ar aon chuma a chinneadh foláireamh faoin duine iarrtha a chur i gCóras Faisnéise Schengen (CFS).
+
+3\. Déanfar foláireamh den sórt sin i gcomhréir le forálacha Airteagal 95 de Choinbhinsiún an 19 Meitheamh 1990 a chuireann chun feidhme Comhaontú Schengen an 14 Meitheamh 1985 maidir le seiceálacha ag a dteorainneacha coiteanna a dhíothú de réir a chéile. Tá foláireamh i gCóras Faisnéise Schengen coibhéiseach le barántas gabhála Eorpach in éineacht leis an bhfaisnéis dá bhforáiltear in Airteagal 8(1).
+
+Go ceann idirthréimhse, go dtí go dtig leis an CFS an fhaisnéis uile atá luaite in Airteagal 8 a tharchur, beidh an foláireamh coibhéiseach le barántas gabhála Eorpach fad atá an t-údarás breithiúnach forghníomhaitheach ag fanacht le teacht an téacs bunaidh i bhfoirm chuí cheart.
+
+**Airteagal 10 — Nós imeachta mionsonraithe maidir le barántas gabhála Eorpach a tharchur**
+
+1\. Murab eol don údarás breithiúnach eisitheach an t-údarás breithiúnach forghníomhaitheach inniúil, déanfaidh sé na fiosrúcháin is gá, lena n-áirítear trí na pointí tadhaill sa Líonra Breithiúnach Eorpach[^18], d'fhonn an fhaisnéis sin a fháil ón mBallstát forghníomhaitheach.
+
+2\. Más toil leis an údarás breithiúnach eisitheach, féadfar an tarchur a dhéanamh tríd an gcóras teileachumarsáide sábháilte den Líonra Breithiúnach Eorpach.
+
+3\. Mura féidir dul in iontaoibh seirbhísí CFS, féadfaidh an t-údarás breithiúnach eisitheach dul in iontaoibh Interpol chun barántas gabhála Eorpach a tharchur.
+
+4\. Féadfaidh an t-údarás breithiúnach eisitheach an barántas gabhála Eorpach a dhíriú trí aon mheán sábháilte atá ábalta taifid i scríbhinn a sholáthar faoi choinníollacha a cheadaíonn don Bhallstát forghníomhaitheach a bharántúlacht a bhunú.
+
+5\. Gach deacracht a bhaineann le tarchur nó barántúlacht aon doiciméid atá riachtanach chun barántas gabhála Eorpach a fhorghníomhú, roinnfear leis an deacracht sin trí thadhaill dhíreacha idir na húdaráis bhreithiúnacha i dtreis, nó, más iomchuí, le rannpháirteachas na n-údarás láir sna Ballstáit.
+
+6\. Mura bhfuil an t-údarás a fhaigheann an barántas gabhála Eorpach inniúil chun gníomhú ina leith, díreoidh sé go uathoibríoch an barántas gabhála Eorpach chuig an údarás inniúil ina Bhallstát agus cuirfidh sé an t-údarás breithiúnach eisitheach ar an eolas dá réir.
+
+**Airteagal 11 — Na cearta atá ag duine iarrtha**
+
+1\. Nuair a ghabhtar duine iarrtha, cuirfidh an t-údarás breithiúnach inniúil forghníomhaitheach, i gcomhréir lena dhlí náisiúnta, an duine sin ar an eolas faoin mbarántas gabhála Eorpach agus faoina inneachar, agus freisin faoin gcaoi atá ann toiliú géilleadh don údarás breithiúnach eisitheach.
+
+2\. Duine iarrtha a ghabhtar d'fhonn barántas gabhála Eorpach a fhorghníomhú, beidh an ceart aige cuidiú a fháil ó dhlíodóir agus ó theangaire i gcomhréir leis an dlí náisiúnta sa Bhallstát forghníomhaitheach.
+
+**Airteagal 12 — An duine a choimeád faoi choinneáil**
+
+Nuair a ghabhtar duine ar bhonn an bharántais ghabhála Eorpaigh, glacfaidh an t-údarás breithiúnach forghníomhaitheach breith faoinar chóir don duine iarrtha fanacht faoi choinneáil, i gcomhréir leis an dlí sa Bhallstát forghníomhaitheach. Féadfar an duine a scaoileadh saor go sealadach tráth ar bith ar cothrom leis an dlí inmheánach sa Bhallstát forghníomhaitheach, ar chuntar go nglacann an t-údarás inniúil sa Bhallstát a dúradh na bearta uile a mheasann sé is gá chun a chinntiú nach n-éalóidh an duine.
+
+**Airteagal 13 — Toiliú don ghéilleadh**
+
+1\. Má chuireann an duine gafa i bhfios go dtoilíonn sé don ghéilleadh, tabharfar an toiliú sin agus, más iomchuí, tréigean sainráite dá theideal do riail na speisialtachta, dá dtagraítear in Airteagal 27(2), os comhair an údaráis bhreithiúnaigh fhorghníomhaithigh, i gcomhréir leis an dlí inmheánach sa Bhallstát forghníomhaitheach.
+
+2\. Glacfaidh gach Ballstát na bearta is gá chun a áirithiú go ndéantar an toiliú agus, más iomchuí, an tréigean, dá dtagraítear i mír 1, a bhunú ionas gur léir gur chuir an duine i dtrácht in iúl iad go deonach agus láneolas aige nó aici ar na hiarmhairtí. Chuige sin, beidh an ceart ag an duine iarrtha do dhlíodóir.
+
+3\. Déanfar an toiliú agus, más iomchuí, an tréigean, dá dtagraítear i mír 1, a thaifeadadh go foirmiúil i gcomhréir leis an nós imeachta dá bhforáiltear sa dlí inmheánach sa Bhallstát forghníomhaitheach.
+
+4\. I bprionsabal, ní féidir an toiliú a chúlghairm. Féadfaidh gach Ballstát a shocrú go bhféadfar an toiliú agus, más iomchuí, an tréigean a chúlghairm, i gcomhréir leis na rialacha is infheidhme faoina dhlí inmheánach. Sa chás sin, ní chuirfear an tréimhse idir an dáta a tugadh an toiliú agus an dáta a rinneadh an chúlghairm san áireamh agus an teorainn ama atá leagtha síos in Airteagal 17 á bunú. Ballstát ar mian leis an chaoi sin a úsáid, cuirfidh sé Ardrúnaíocht na Comhairle ar an eolas dá réir nuair a ghlactar an Treoirchinneadh seo agus sonróidh sé na nósanna imeachta trínar féidir an toiliú a chúlghairm agus aon leasú orthu.
+
+**Airteagal 14 — An duine iarrtha a éisteacht**
+
+Nuair nach dtoilíonn an duine gafa don ghéilleadh dá dtagraítear in Airteagal 13, beidh an duine sin i dteideal éisteacht a fháil ón údarás breithiúnach forghníomhaitheach, i gcomhréir leis an dlí sa Bhallstát forghníomhaitheach.
+
+**Airteagal 15 — Breith maidir leis an ngéilleadh**
+
+1\. Cinnfidh an t-údarás breithiúnach forghníomhaitheach, laistigh de na teorainneacha ama agus faoi na coinníollacha atá sainithe sa Treoirchinneadh seo, an bhfuil an duine le géilleadh.
+
+2\. Má fhaigheann an t-údarás breithiúnach forghníomhaitheach nach leor an fhaisnéis arna páirtiú ag an mBallstát eisitheach chun go dtig leis cinneadh maidir leis an ngéilleadh, iarrfaidh sé go dtugtar go dlúsúil an fhaisnéis sa bhreis is gá i dtaca le hAirteagail 3 go 5 agus Airteagal 8 go háirithe, agus féadfaidh sé teorainn ama a shocrú chun an fhaisnéis sin a fháil, agus aird á tabhairt aige ar a riachtanaí atá sé na teorainneacha ama atá leagtha síos in Airteagal 17 a urramú.
+
+3\. Féadfaidh an t-údarás breithiúnach eisitheach tráth ar bith aon fhaisnéis fhóinteach sa bhreis a dhíriú chuig an údarás breithiúnach forghníomhaitheach.
+
+**Airteagal 16 — Breith má tá iarrataí iomadúla ann**
+
+1\. Má tá barántais ghabhála Eorpacha eisithe ag dá Bhallstát nó níos mó i leith an duine chéanna, is é an t-údarás breithiúnach forghníomhaitheach a ghlacfaidh an bhreith faoi cé acu de na barántais ghabhála Eorpacha atá le forghníomhú agus aird chuí aige ar na himthosca uile agus go háirithe tromchúis choibhneasta agus ionad na gcionta, dátaí na mbarántas gabhála Eorpach faoi seach agus má tharlaíonn go bhfuil an barántas eisithe ar mhaithe le pianbhreith nó ordú faoi choimeád nó ordú coinneála a thabhairt ar aghaidh nó a fhorghníomhú.
+
+2\. Féadfaidh an t-údarás breithiúnach forghníomhaitheach comhairle a iarraidh ar Eurojust[^19] agus an rogha dá dtagraítear i mír 1 á déanamh aige.
+
+3\. Má tá coimhlint idir barántas gabhála Eorpach agus iarraidh ar eiseachadadh arna tíolacadh ag tríú Stát, is é an t-údarás inniúil sa Bhallstát forghníomhaitheach a ghlacfaidh an bhreith faoi cé acu an ag an mbarántas gabhála Eorpach nó ag an iarraidh ar eiseachadadh atá an tosaíocht agus aird chuí aige ar na himthosca uile, go háirithe na himthosca dá dtagraítear i mír 1 agus iadsan atá luaite sa choinbhinsiún is infheidhme.
+
+4\. Beidh an fhoráil seo gan dochar do na hoibleagáidí atá ar na Ballstáit faoi Reacht na Cúirte Coiriúla Idirnáisiúnta.
+
+**Airteagal 17 — Teorainneacha ama agus nósanna imeachta maidir leis an mbreith an barántas gabhála Eorpach a fhorghníomhú**
+
+1\. Déileálfar le barántas gabhála Eorpach agus déanfar é a fhorghníomhú go dlúsúil.
+
+2\. Sna cásanna ina dtoilíonn an duine iarrtha don ghéilleadh, ba chóir an bhreith chríochnaitheach maidir le forghníomhú an bharántais ghabhála Eorpaigh a ghlacadh faoi cheann deich lá tar éis an toiliú a thabhairt.
+
+3\. I gcásanna eile, glacfar an bhreith chríochnaitheach maidir leis an mbarántas gabhála Eorpach a fhorghníomhú faoi cheann tréimhse 60 lá tar éis an duine iarrtha a ghabháil.
+
+4\. Nuair nach féidir i gcásanna sonracha an barántas gabhála Eorpach a fhorghníomhú faoi cheann na dteorainneacha ama atá leagtha síos i míreanna 2 nó 3, cuirfidh an t-údarás breithiúnach forghníomhaitheach an t-údarás breithiúnach eisitheach ar an eolas láithreach agau tabharfaidh sé na cúiseanna atá leis an moill. Sa chás sin, féadfar na teorainneacha ama a shíneadh 30 lá sa bhreis.
+
+5\. Fad nach bhfuil breith chríochnaitheach glactha ag an údarás breithiúnach forghníomhaitheach maidir leis an mbarántas gabhála Eorpach, déanfaidh sé a áirithiú go bhfuil na coinníollacha ábhartha is gá i dtaca le géilleadh an duine iarbhír arna gcomhall fós.
+
+6\. Ní mór cúiseanna a thabhairt i dtaca le haon diúltú barántas gabhála Eorpach a fhorghníomhú.
+
+7\. Mura dtig le Ballstát in imthosca eisceachtúla na teorainneacha ama dá bhforáiltear san Airteagal seo a urramú, cuirfidh sé Eurojust ar an eolas agus tabharfaidh sé na cúiseanna atá leis an moill. Ina theannta sin, Ballstát a bhfuil taithí aige ar mhoilleanna ag Ballstát eile i dtaca le barántais ghabhála Eorpacha a fhorghníomhú cuirfidh sé an Chomhairle ar an eolas ar mhaithe le cur chun feidhme an Treoirchinnidh seo ag leibhéal an Bhallstáit a mheas.
+
+**Airteagal 18 — An cor fad atá an bhreith ar feitheamh**
+
+1\. Má tá an barántas gabhála Eorpach eisithe ar mhaithe le hionchúiseamh coiriúil a sheoladh, caithfidh an t-údarás breithiúnach forghníomhaitheach:
+
+(a) comhaontú gur chóir éisteacht a thabhairt don duine iarrtha de réir Airteagal 19;
+
+(b) nó comhaontú an duine iarrtha a aistriú go sealadach.
+
+2\. Déanfar na coinníollacha agus fad an aistrithe shealadaigh a chomhaontú de thoil a chéile idir an t-údarás breithiúnach eisitheach agus an t-údarás breithiúnach forghníomhaitheach.
+
+3\. Má dhéantar duine a aistriú go sealadach, ní mór go dtig leis an duine sin filleadh ar an mBallstát forghníomhaitheach chun freastal ar éisteachtaí a bhaineann leis/léi mar chuid den nós imeachta um ghéilleadh.
+
+**Airteagal 19 — Éisteacht a thabhairt don duine fad atá an bhreith ar feitheamh**
+
+1\. Tabharfaidh údarás breithiúnach éisteacht don duine iarrtha; beidh de chuidiú ag an údarás aon duine eile arna ainmniú i gcomhréir leis an dlí i mBallstát na cúirte iarrthaí.
+
+2\. Tabharfar éisteacht don duine iarrtha i gcomhréir leis an dlí sa Bhallstát forghníomhaitheach agus faoi na coinníollacha arna gcinneadh de thoil a chéile idir an t-údarás breithiúnach eisitheach agus an t-údarás breithiúnach forghníomhaitheach.
+
+3\. Féadfaidh an t-údarás breithiúnach forghníomhaitheach inniúil a chur de chúram ar údarás breithiúnach eile sa Bhallstát páirt a ghlacadh in éisteacht an duine iarrtha d'fhonn cur i bhfeidhm cuí an Airteagail seo agus na gcoinníollacha atá leagtha síos a áirithiú.
+
+**Airteagal 20 — Pribhléidí agus díolúintí**
+
+1\. Má tá pribhléid nó díolúine maidir le dlínse nó forghníomhú ag an duine iarrtha sa Bhallstát forghníomhaitheach, ní chuirfear tús leis na teorainneacha ama dá dtagraítear in Airteagal 17 ach amháin má chuirtear agus ón lá a chuirtear an t-údarás breithiúnach forghníomhaitheach ar an eolas go bhfuil an phribhléid nó an díolúine tarscaoilte.
+
+Más rud é nach bhfuil pribhléid ná díolúine den sórt sin ag an duine níos mó, déanfaidh an Ballstát forghníomhaitheach a áirithiú go bhfuil na coinníollacha ábhartha is gá maidir leis an ngéilleadh iarbhír arna gcomhall.
+
+2\. Má tá an chumhacht ag údarás sa Bhallstát forghníomhaitheach an phribhléid nó an díolúine a tharscaoileadh, is é an t-údarás breithiúnach forghníomhaitheach a iarrfaidh air an chumhacht sin a fheidhmiú láithreach. Má tá an chumhacht ag údarás i mBallstát eile nó ag eagraíocht idirnáisiúnta an phribhléid nó an díolúine a tharscaoileadh, is é an t-údarás breithiúnach eisitheach a iarrfaidh air an chumhacht sin a fheidhmiú.
+
+**Airteagal 21 — Oibleagáidí idirnáisiúnta iomaíocha**
+
+Beidh an Treoirchinneadh seo gan dochar do na hoibleagáidí atá ag an mBallstát forghníomhaitheach má tá an duine iarrtha eiseachadta chuig an mBallstát sin ó thríú Stát, agus má tá cosaint ag an duine sin ag forálacha an tsocraithe faoinar eiseachadadh é a bhaineann le speisialtacht. Glacfaidh an Ballstát forghníomhaitheach gach beart is gá chun toiliú a iarraidh láithreach ón Stát ónar eiseachadadh an duine iarrtha chun gur féidir an duine a ghéilleadh don Bhallstát eisitheach. Ní chuirfear tús leis na teorainneacha ama dá dtagraítear in Airteagal 17 go dtí an lá a scoirfidh rialacha sin na speisialtachta de bheith infheidhme. Fad atá an bhreith ón Stát ónar eiseachadadh an duine iarrtha ar feitheamh, déanfaidh an Ballstát forghníomhaitheach a áirithiú go bhfuil na coinníollacha ábhartha is gá maidir leis an ngéilleadh iarbhír arna gcomhall fós.
+
+**Airteagal 22 — Fógra faoin mbreith**
+
+Tabharfaidh an t-údarás breithiúnach forghníomhaitheach fógra don údarás breithiúnach eisitheach láithreach faoin mbreith maidir leis an ngníomh atá le glacadh i dtaca leis an mbarántas gabhála Eorpach.
+
+**Airteagal 23 — Teorainneacha ama chun an duine a ghéilleadh**
+
+1\. Déanfar an duine iarrtha a ghéilleadh a luaithe is féidir ar dháta arna chomhaontú idir na húdaráis i dtrácht.
+
+2\. Déanfar an duine a ghéilleadh tráth nach déanaí ná deich lá tar éis an bhreith maidir leis an mbarántas gabhála Eorpach a fhorghníomhú.
+
+3\. Má chuireann imthosca nach bhfuil neart ag aon cheann de na Ballstáit i dtrácht orthu cosc leis an duine iarrtha a ghéilleadh laistigh den tréimhse atá leagtha síos i mír 2, déanfaidh an t-údarás breithiúnach forghníomhaitheach agus an t-údarás breithiúnach eisitheach tadhall le chéile láithreach agus dáta nua don ghéilleadh a chomhaontú. Sa chás sin, déanfar an géilleadh laistigh de dheich lá ón dáta nua arna chomhaontú amhlaidh.
+
+4\. Féadfar go heisceachtúil an géilleadh a chur ar athló go sealadach ar chúiseanna daonnúla tromchúiseacha, mar shampla, má tá forais shubstainteacha ann lena chreidiúint go gcuirfeadh sé beatha nó sláinte an duine iarrtha i mbaol go follasach. Déanfar an barántas gabhála Eorpach a fhorghníomhú a luaithe atá deireadh leis na forais sin. Cuirfidh an t-údarás breithiúnach forghníomhaitheach an t-údarás breithiúnach eisitheach ar an eolas láithreach agus comhaontóidh siad ar dháta nua don ghéilleadh. Sa chás sin, déanfar an géilleadh laistigh de dheich lá ón dáta nua arna chomhaontú amhlaidh.
+
+5\. Ar na teorainneacha ama sin dá dtagraítear i míreanna 2 go 4 a dhul in éag, má tá an duine fós faoi choimeád scaoilfear saor é/í.
+
+**Airteagal 24 — Géilleadh atá curtha ar athló nó atá coinníollach**
+
+1\. Féadfaidh an t-údarás breithiúnach forghníomhaitheach, tar éis cinneadh an barántas gabhála Eorpach a fhorghníomhú, géilleadh an duine iarrtha a chur ar athló ionas gur féidir an duine a ionchúiseamh sa Bhallstát forghníomhaitheach nó, má tá pianbhreith tugtha cheana ina leith, ionas gur féidir leis an duine pianbhreith arna tabhairt mar gheall ar ghníomh seachas an ceann dá dtagraítear sa bharántas gabhála Eorpach a sheirbheáil ar a chríoch.
+
+2\. In ionad an géilleadh a chur ar athló, féadfaidh an t-údarás breithiúnach forghníomhaitheach an duine iarrtha a ghéilleadh go sealadach don Bhallstát eisitheach faoi choinníollacha atá le cinneadh de thoil a chéile idir an t-údarás breithiúnach forghníomhaitheach agus an t-údarás breithiúnach eisitheach. Déanfar an comhaontú i scríbhinn agus beidh na coinníollacha ina gceangal ar na húdráis uile sa Bhallstát eisitheach.
+
+**Airteagal 25 — Idirthuras**
+
+1\. Déanfaidh gach Ballstát, ach amháin má úsáideann sé an chaoi idirthuras a dhiúltú nuair a iarrtar idirthuras náisiúnaigh nó cónaitheora ar mhaithe le pianbhreith faoi choimeád nó ordú coinneála a fhorghníomhú, idirthuras duine iarrtha atá á ghéilleadh a cheadú trína chríoch ar chuntar go bhfuil faisnéis tugtha dó mar gheall ar:
+
+(a) céannacht agus náisiúntacht an duine is ábhar don bharántas gabhála Eorpach;
+
+(b) barantás gabhála Eorpach a bheith ann;
+
+(c) cineál agus rangú dlí an chiona;
+
+(d) tuairisc ar na himthosca ina ndearnadh an cion, lena n-áirítear an t-am agus an t-ionad.
+
+Más náisiúnach de Bhallstát an idirthurais nó más cónaitheoir ann é an duine is ábhar don bharántas gabhála Eorpach ar mhaithe le hionchúiseamh, féadfar an t-idirthuras a bheith faoi réir an choinníll go gcuirtear an duine ar ais, tar éis éisteacht a thabhairt dó, chuig Ballstát an idirthurais chun an phianbhreith faoi choimeád nó an tordú coinneála a rinneadh ina leith sa Bhallstát eisitheach a sheirbheáil.
+
+2\. Ainmneoidh gach Ballstát údarás chun bheith freagrach as iarrataí um idirthuras agus na doiciméid riachtanacha a ghlacadh, chomh maith le haon chomhfhreagras oifigiúil eile a bhaineann le hiarrataí um idirthuras. Páirteoidh na Ballstáit an t-ainmniúchán sin le hArdrúnaíocht na Comhairle.
+
+3\. Féadfar an iarraidh um idirthuras agus an fhaisnéis atá leagtha amach i mír 1 a chur chuig an údarás arna ainmniú de bhun mhír 2
+
+trí aon mheán atá ábalta taifeadadh i scríbhinn a sholáthar. Cuirfidh Ballstát an idirthurais a bhreith in iúl tríd an nós imeachta céanna.
+
+4\. Níl an Treoirchinneadh seo infheidhme ar aeriompar nuair nach bhfuil stad sceidealta ann. Ar a shon sin, má tharlaíonn tuirlingt neamhsceidealta, cuirfidh an Ballstát eisitheach an fhaisnéis dá bhforáiltear i mír 1 ar fáil don údarás arna ainmniú de bhun mhír 2.
+
+5\. Nuair a bhaineann idirthuras le duine atá le heiseachadadh ó thríú Stát chuig Ballstát beidh an tAirteagal seo infheidhme mutatis mutandis. Measfar ach go háirithe go ngabhann an frása “iarraidh ar eiseachadadh” ionad an fhrása “barántas gabhála Eorpach”.
+
+#### CAIBIDIL 3 — NA hÉIFEACHTAÍ A LEANANN ÓN nGÉILLEADH
+
+**Airteagal 26 — Tréimhse na coinneála arna seirbheáil sa Stát forghníomhaitheach a asbhaint**
+
+1\. Déanfaidh an Ballstát eisitheach gach tréimhse coinneála a eascraíonn ó fhorghníomhú an bharántais ghabhála Eorpaigh a asbhaint ón tréimhse iomlán coinneála atá le seirbheáil sa Stát eisitheach mar thoradh ar an bpianbhreith faoi choimeád nó an ordú coinneála a bheith tugtha.
+
+2\. Chuige sin, déanfaidh an t-údarás breithiúnach forghníomhaitheach nó an t-údarás láir arna ainmniú faoi Airteagal 7 gach faisnéis maidir le fad na coinneála ag an duine iarrtha ar bhonn an bharántais ghabhála Eorpaigh a tharchur chuig an údarás breithiúnach eisitheach tráth an ghéillte.
+
+**Airteagal 27 — Ionchúiseamh is féidir bheith ann mar gheall ar chionta eile**
+
+1\. Féadfaidh gach Ballstát a chur in iúl d'Ardrúnaíocht na Comhairle go bhfuil sé toimhdithe, ina chaidreamh le Ballstáit eile a bhfuil an fógra céanna tugtha acu, go bhfuil an toiliú tugtha maidir leis an ionchúiseamh, pianbhreith nó coinneáil ar mhaithe le pianbhreith faoi choimeád nó ordú coinneála a chur i gcrích mar gheall ar chion arna dhéanamh roimh an ngéilleadh seachas an cion ar géilleadh an duine mar gheall air, ach amháin i gcás ar leith go sonraíonn an t-údarás breithiúnach forghníomhaitheach a mhalairt ina bhreith maidir leis an ngéilleadh.
+
+2\. Ach amháin sa chás dá dtagraítear i míreanna 1 agus 3, ní fhéadfar duine arna ghéilleadh a ionchúiseamh, pianbhreith a chur air/uirthi ná a s(h)aoirse a bhaint de/di ar aon dóigh eile mar gheall ar chion arna dhéanamh roimh an ngéilleadh seachas an cion ar géilleadh an duine mar gheall air.
+
+3\. Níl mir 2 infheidhme sna cásanna seo a leanas:
+
+(a) má bhí deis ag an duine críoch an Bhallstáit ar géilleadh é chuige a fhágáil agus nár thapaigh sé/sí an deis laistigh de 45 lá ón lá ar scaoileadh saor é/í go críochnaitheach, nó gur fhill an duine ar an gcríoch tar éis an chríoch a fhágáil;
+
+(b) níl an cion inphionóis le pianbhreith faoi choimeád nó ordú coinneála;
+
+(c) níl na himeachtaí coiriúla ina siocair le beart a chur i bhfeidhm a shrianann an tsaoirse phearsanta;
+
+(d) nuair a d'fhéadfadh pionós nó beart nach bhfuil cailleadh saoirse i dtreis ann, lena n-áirítear pionós airgeadais nó beart ina ionad sin, a bheith de dhliteanas ar an duine, go fiú más dóigh go srianann an pionós nó an beart sin saoirse phearsanta an duine;
+
+(e) má tá an duine tar éis toiliú lena g(h)éilleadh, nuair is iomchuí ar aon uain le riail na speisialtachta a thréigean, i gcomhréir le hAirteagal 13;
+
+(f) má dhéanann an duine, tar éis a g(h)éillte, a t(h)eideal do riail na speisialtachta a thréigean go sainráite i dtaca le cionta sonracha roimh an ngéilleadh. Ní mór an tréigean a dhéanamh os comhair na n-údarás breithiúnach inniúil sa Bhallstát eisitheach agus déanfar é a thaifeadadh i gcomhréir leis an dlí náisiúnta sa Stát sin. Bunófar an tréigean ionas go dtaispeántar go bhfuil sé déanta go deonach ag an duine agus é/í ar an láneolas faoi na hiarmhairtí. Chuige sin, beidh an ceart ag an duine iarrtha do dhlíodóir;
+
+(g) nuair a thugann an t-údarás breithiúnach forghníomhaitheach a ghéilleann an duine a thoiliú i gcomhréir le mír 4.
+
+4\. Cuirfear iarrraidh ar thoiliú faoi bhráid an údaráis bhreithiúnaigh fhorghníomhaithigh, lena náirítear an fhaisnéis atá luaite in Airteagal 8(1) agus mar aon le haistriúchán dá dtagráitear in Airtegal 8(2). Tabharfar an toiliú nuair atá an cion a ndéantar an iarraidh mar gheall air ina ábhar do ghéilleadh i gcomhréir le forálacha an Treoirchinnidh seo. Diúltófar an toiliú ar na forais dá dtagraítear in Airteagal 3 ach lasmuigh de sin ní fhéadfar é a dhiúltú ach amháin ar na forais dá dtagraítear in Airteagal 4. Glacfar an bhreith tráth nach déanaí ná 30 lá tar éis an iarraidh a fháil.
+
+Maidir leis na cora atá luaite in Airteagal 5, ní mór don Stát eisitheach na ráthaíochtaí céanna dá bhforáiltear ann a thabhairt.
+
+**Airteagal 28 — Géilleadh nó eiseachadadh iardain**
+
+1\. Féadfaidh gach Ballstát a chur in iúl d'Ardrúnaíocht na Comhairle go bhfuil sé toimhdithe, ina chaidreamh le Ballstáit eile a bhfuil an fógra céanna tugtha acu, go bhfuil an toiliú tugtha maidir le duine a ghéilleadh do Bhallstát eile seachas an Ballstát forghníomhaitheach de bhun barántas gabhála Eorpach arna eisiúint mar gheall ar chion arna dhéanamh roimh an ngéilleadh seachas an cion ar géilleadh an duine mar gheall air, ach amháin i gcás ar leith go sonraíonn an t-údarás breithiúnach forghníomhaitheach a mhalairt ina bhreith maidir leis an ngéilleadh.
+
+2\. Ar aon chuma, féadfar an duine atá géillte don Bhallstát eisitheach de bhun barántas gabhála Eorpach, gan toiliú ón mBallstát forghníomhaitheach, a ghéilleadh do Bhallstát eile seachas an Ballstát forghníomhaitheach de bhun barántas gabhála Eorpach arna eisiúint mar gheall ar aon chion arna dhéanamh roimh an ngéilleadh sna cásanna seo a leanas:
+
+(a) má bhí deis ag an duine críoch an Bhallstáit ar géilleadh é/í chuige a fhágáil agus nár thapaigh sé/sí an deis laistigh de 45 lá ón lá ar scaoileadh saor é/í go críochnaitheach, nó gur fhill an duine ar an gcríoch tar éis an chríoch a fhágáil;
+
+(b) nuair a thoilíonn an duine iarrtha lena ghéilleadh do Bhallstát seachas an Ballstát forghníomhaitheach de bhun barántas gabhála Eorpach. Ní mór an toiliú a thabhairt os comhair na n-údarás breithiúnach inniúil sa Bhallstát eisitheach agus déanfar é a thaifeadadh i gcomhréir leis an dlí náisiúnta sa Stát sin. Bunófar an toiliú ionas go dtaispeántar go bhfuil sé déanta go deonach ag an duine agus é/í ar an láneolas faoi na hiarmhairtí. Chuige sin, beidh an ceart ag an duine iarrtha do dhlíodóir;
+
+(c) nuair nach bhfuil an duine iarrtha faoi réir riail na speisialtachta, i gcomhréir le hAirteagal 27(3)(a), (e), (f) agus (g).
+
+3\. Toilíonn an t-údarás breithiúnach forghníomhaitheach don ghéilleadh do Bhallstát eile de réir na rialacha seo a leanas:
+
+(a) tíolacfar an iarraidh ar thoiliú i gcomhréir le hAirteagal 9, maille leis an bhfaisnéis atá luaite in Airteagal 8(1), agus aistriúchán mar atá luaite in Airteagal 8(2);
+
+(b) tabharfar an toiliú nuair atá an cion a ndéantar an iarraidh mar gheall air ina ábhar é féin do ghéilleadh i gcomhréir le forálacha an Treoirchinnidh seo;
+
+(c) glacfar an bhreith tráth nach déanaí ná 30 lá tar éis an iarraidh a fháil;
+
+(d) diúltófar an toiliú ar na forais dá dtagraítear in Airteagal 3 ach lasmuigh de sin ní fhéadfar é a dhiúltú ach amháin ar na forais dá dtagraítear in Airteagal 4.
+
+Maidir leis na cora atá luaite in Airteagal 5, ní mór don Bhallstát eisitheach na ráthaíochtaí dá bhforáiltear ann a thabhairt.
+
+D'ainneoin mhír 1, ní dhéanfar duine atá géillte de bhun barántas gabhála Eorpach a eiseachadadh chuig triú Stát gan toiliú ón údarás inniúil sa Bhallstát a ghéill an duine. Tabharfar an toiliú sin i gcomhréir leis na Coinbhinsiúin atá ina gceangal ar an mBallstát sin agus lena dhlí inmheánach.
+
+**Airteagal 29 — Maoin a thabhairt ar láimh**
+
+1\. Déanfaidh an t-údarás breithiúnach forghníomhaitheach, i gcomhréir lena dhlí náisiúnta, arna iarraidh sin don údarás breithiúnach eisitheach nó ar a thionscnamh féin, maoin a urghabháil agus a thabhairt ar láimh atá:
+
+(a) ag teastaíl mar fhianaise, nó
+
+(b) faighte ag an duine iarrtha de dheasca an chiona.
+
+2\. Tabharfar ar láimh an mhaoin dá dtagraítear i mír 1 go fiú mura féidir an barántas gabhála Eorpach a chur i gcrích de thairbhe bhás nó éalú an duine iarrtha.
+
+3\. Más maoin í an mhaoin dá dtagraítear i mír 1 a dhlífear a urghabháil nó a choigistiú ar chríoch an Bhallstát forghníomhaithigh, féadfaidh an déanach, má tá an mhaoin ag teastáil i ndáil le himeachtaí coiriúla atá ar feitheamh, í a choinneáil go sealadach nó í a thabhairt ar láimh don Bhallstát eisitheach ar choinníoll go dtugtar ar ais í.
+
+4\. Aon chearta a fhéadfaidh an Ballstát forghníomhaitheach nó tríú páirtithe a fháil sa mhaoin dá dtagraítear i mír 1, déanfar iad a chaomhnú. Nuair atá cearta den sórt sin ann, tabharfaidh an Ballstát eisitheach an mhaoin ar ais gan mhuirear don Bhallstát forghníomhaitheach a luaithe is féidir tar éis na trialach.
+
+**Airteagal 30 — Costais**
+
+1\. Beidh na costais arna dtabhú ar chríoch an Bhallstáit fhorghníomhaithigh de bharr barántas gabhála Eorpach a fhorghníomhú de mhuirear ar an mBallstát sin.
+
+2\. Beidh na costais eile de mhuirear ar an mBallstát eisitheach.
+
+#### CAIBIDIL 4 — FORÁLACHA GINEARÁLTA AGUS CRÍOCHNAITHEACHA
+
+**Airteagal 31 — An bhaint le hionstraimí dlí eile**
+
+1\. Gan dochar dá gcur i bhfeidhm sa chaidreamh idir Ballstáit agus tríú Stáit, gabhfaidh ar an 1 Eanáir 2004 na forálacha atá sa Treoirchinneadh seo ionad na bhforálacha comhfhreagracha de na coinbhinsiúin seo a leanas is infheidhme maidir leis an eiseachadadh sa chaidreamh idir na Ballstáit,
+
+(a) Coinbhinsiún Eorpach um Eiseachadadh an 13 Nollaig 1957, prótacal breise a ghabhann leis an 15 Deireadh Fómhair 1975, dara prótacal breise a ghabhann leis an 17 Márta 1978 agus Coinbhinsiún Eorpach chun Sceimhlitheoireacht a Dhíothú an 27 Eanáir 1977, fad a bhaineann leis an eiseachadadh;
+
+(b) Comhaontú an 26 Bealtaine 1989 idir Dhá Ballstát Déag na gComhphobal Eorpach maidir le simpliú agus nuachóiriú na modhanna chun iarrataí ar eiseachadadh a tharchur;
+
+(c) Coinbhinsiún an 10 Márta 1995 maidir leis an Nós Imeachta Simplithe um eiseachadadh idir na Ballstáit den Aontas Eorpach;
+
+(d) Coinbhinsiún an 27 Meán Fómhair 1996 maidir leis an Eiseachadadh idir na Ballstáit den Aontas Eorpach;
+
+(e) Teideal III, Caibidil 4 de Choinbhinsiún an 19 Meitheamh 1990 ag cur chun feidhme Chomhaontú Schengen an 14 Meitheamh 1985 maidir le seiceálacha ag na teorainneacha coiteanna a dhíothú de réir a chéile.
+
+2\. Féadfaidh Ballstáit leanúint de chomhaontuithe nó comhshocraíochtaí déthaobhacha nó iltaobhacha atá i bhfeidhm nuair a ghlactar an Treoirchinneadh seo a chur i bhfeidhm a mhéad a cheadaíonn comhaontuithe nó comhshocraíochtaí den sórt sin cuspóirí an Treoirchinnidh a fhairsingiú nó a mhéadú agus go gcuidíonn siad leis na nósanna imeachta a shimpliú agus a éascú tuilleadh maidir le géilleadh daoine is ábhair don bharántas gabhála Eorpach.
+
+Féadfaidh Ballstáit comhaontuithe nó comhshocraíochtaí déthaobhacha nó iltaobhacha a thabhairt i gcrích tar éis an Treoirchinneadh seo a theacht i bhfeidhm a mhéad a cheadaíonn comhaontuithe nó comhshocraíochtaí den sórt sin fororduithe an Treoirchinnidh a fhairsingiú agus a mhéadú agus go gcuidíonn siad leis na nósanna imeachta a shimpliú agus a éascú tuilleadh maidir le géilleadh daoine is ábhair don bharántas gabhála Eorpach, go háirithe trí theorainneacha ama níos giorra ná na cinn atá socruithe in Airteagal 17 a shocrú, trí liosta na gcionta atá leagtha síos in Airteagal 2(2) a leathnú, trí na forais le diúltú atá leagtha síos in Airteagail 3 agus 4 a theorannú tuilleadh, nó tríd an uasteorainn atá leagtha síos in Airteagal 2(1) nó (2) a ísliú.
+
+Ní fhéadfaidh na comhaontuithe agus comhshocraíochtaí dá dtagraítear sa dara mír difear a dhéanamh don chaidreamh leis na Ballstáit nach bhfuil ina bpáirtithe iontu.
+
+Tabharfaidh na Ballstáit, laistigh de thrí mhí ón Treoirchinneadh seo a theacht i bhfeidhm, fógra don Chomhairle agus don Choimisiún faoi na comhaontuithe agus comhshocraíochtaí atá ann dá dtagraítear sa chéad fhomhír is mian leo leanúint dá gcur i bhfeidhm.
+
+Tabharfaidh na Ballstáit, laistigh de thrí mhí óna shíniú, fógra don Chomhairle agus don Choimisiún freisin faoi aon chomhaontú nó comhshocraíocht nua dá dtagraíteatr sa dara fomhír.
+
+3\. Nuair atá na coinbhinsiúin nó comhaontuithe dá dtagraítear i mír 1 infheidhme ar chríocha na mBallstát nó críocha a bhfuil Ballstát freagrach as a chaidreamh eachtrach nach bhfuil an Treoirchinneadh infheidhme air, leanfaidh na hionstraimí sin den chaidreamh atá ann idir na críocha sin agus na Ballstáit eile a rialú.
+
+**Airteagal 32 — Foráil idirthréimhseach**
+
+Leanfaidh iarrataí ar eiseachadadh arna bhfáil roimh 1 Eanáir 2004 de bheith faoi rialú ag ionstraimí atá ann a bhaineann leis an eiseachadadh. Iarrataí arna bhfáil ón 1 Eanáir 2004 ar aghaidh, beidh siad faoi rialú ag na rialacha arna nglacadh ag na Ballstát de bhun an Treoirchinnidh seo. Ar a shon sin, féadfaidh Ballstát, tráth an Chomhairle an Treoirchinneadh seo a ghlacadh, dearbhú a dhéanamh á rá go leanfaidh sé mar Bhallstát forghníomhaitheach de dhéileáil le hiarrataí a bhaineann le gníomhartha arna ndéanamh roimh dháta a shonraíonn sé i gcomhréir leis an gcóras um eiseachadadh is infheidhme roimh 1 Eanáir 2004. Ní fhéadfar gur déanaí an dáta i gceist ná 7 Lúnasa 2002. Foilseofar aon dearbhú den sórt sin san Iris Oifigiúil. Féadfar é a tharraingt siar tráth ar bith.
+
+**Airteagal 33 — Foráil maidir leis an Ostair agus Giobráltar**
+
+1\. Fad nach bhfuil Airteagal 12(1) den “Auslieferungs- und Rechtshilfegesetz” modhnaithe ag an Ostair agus, ar a dhéanaí, go dtí 31 Nollaig 2008, féadfaidh an Ostair ceadú dá húdaráis bhreithiúnacha forghníomhaitheacha forghníomhú barántais ghabhála Eorpaigh a dhiúltú más saoránach den Ostair an duine iarrtha agus más rud é nach bhfuil an gníomh ar eisíodh an barántas gabhála Eorpach mar gheall air inphionóis faoi dhlí na hOstaire.
+
+2\. Beidh an Treoirchinneadh seo infheidhme ar Ghiobráltar.
+
+**Airteagal 34 — Cur chun feidhme**
+
+1\. Glacfaidh na Ballstáit na bearta is gá chun an Treoirchinneadh seo a chomhlíonadh faoi 31 Nollaig 2003.
+
+2\. Tarchuirfidh na Ballstáit chuig Ardrúnaíocht na Comhairle agus chuig an gCoimisiún téacs aon fhorálacha a thrasuíonn ina ndlí náisiúnta na hoibleagáidi arna bhforchur orthu faoin Treoirchinneadh seo. Lena linn sin, féadfaidh gach Ballstát a shonrú go gcuirfidh sé an Treoirchinneadh seo i bhfeidhm láithreach ina chaidreamh leis na Ballstáit sin a bhfuil an fógra céanna tugtha acu.
+
+Cuirfidh Ardrúnaíocht na Comhairle i bhfios do na Ballstát agus don Choimisiún an fhaisnéis atá faighte de bhun Airteagal 7(2), Airteagal 8(2), Airteagal 13(4) agus Airteagal 25(2). Foilseoidh sé an fhaisnéis san Iris Oifigiúil.
+
+3\. Ar bhonn na faisnéise arna páirtiú ag Ardrúnaíocht na Comhairle, cuirfidh an Coimisiún, faoi 31 Nollaig 2004 ar a dhéanaí, tuarascáil faoi bhráid Pharlaimint na hEorpa agus na Comhairle faoi oibríocht an Treoirchinnidh seo mar aon, más gá, le tograí reachtacha.
+
+4\. Sa dara leath de 2003 athbhreithneoidh an Chomhairle cur chun feidhme, agus go háirithe cur i bhfeidhm praiticiúil, fhorálacha an Treoirchinnidh seo sna Ballstáit agus freisin oibriú Chóras Faisnéise Schengen.
+
+**Airteagal 35 — Teacht i bhfeidhm**
+
+Tiocfaidh an Treoirchinneadh seo i bhfeidhm ar an bhfichidiú lá tar éis á fhoilsithe san Iris Oifigiúil.
+
+Arna dhéanamh sa Bhruiséil,
+
+Thar cheann na Comhairle
+
+An tUachtarán
+
+M. RAJOY BREY
+
+**IARSCRÍBHINN — BARÁNTAS GABHÁLA EORPACH[^20]**
+
+Tá an barántas seo eisithe ag údarás breithiúnach inniúil. Iarraim go ndéantar an duine atá luaite thíos a ghabháil agus a ghéilleadh ar mhaithe le hionchúiseamh coiriúil a sheoladh nó pianbhreith faoi choimeád nó ordú coinneála a fhorghníomhú.
+
+<table><tr><td>(a) Faisnéis maidir le céannacht an duine iarrtha:............................................................ ............................................................ ........<br>Ainm:............................................................ ............................................................ ...........................................................<br>Réamhainm (neacha):............................................................ ............................................................ .......................................<br>Ainm réamhphósta, más infheidhme:............................................................ ............................................................ ..................<br>Ainmneacha cleite, más infheidhme:............................................................ ............................................................ ...................<br>Gnéas:............................................................ ............................................................ ...........................................................<br>Náisiúntacht:............................................................ ............................................................ ..................................................<br>Dáta breithe:............................................................ ............................................................ ...................................................<br>Ionad breithe:............................................................ ............................................................ ..................................................<br>Áit chónaithe agus/nó seoladh aitheanta:............................................................ ............................................................ ..............<br>Teanga(cha) a thuigeann an duine iarrtha (más eol):............................................................ ............................................................<br>............................................................ ............................................................ ............................................................ ........<br>Sainchomharthaí/tuairisc den duine iarrtha:............................................................ ............................................................ ..........<br>............................................................ ............................................................ ............................................................ ........<br>Grianghraf agus méarloirg an duine iarrtha, má tá siad ann agus más féidir iad a tharchur, nó sonraí tadhaill an duinc atá le tadhall chun an fhaisncis sin a fháil nó próifí DNA (más féidir an fhianaise seo a sholáthar ach nuair nach bhfuil sí ar áireamh)</td></tr></table>
+
+<table><tr><td>(b) Breith ar a bhfuil an barántas bunaithe:<br>1. Barántas gabhála nó breith bhreithiúnach leis an éifeacht chéanna:............................................................ .........................................<br>Saghas:............................................................ ............................................................ .........................................................<br>2. Breithiúnas infhorghníomhaithe:............................................................ ............................................................ .........................<br>............................................................ ............................................................ ............................................................ ........<br>Tagairt:............................................................ ............................................................ .........................................................</td></tr></table>
+
+<table><tr><td>(c) Eolas maidir le fad na pianbhreithe:<br>1. Fad uasta na pianbhreithe faoi choimeád nó an ordú coinneála is infhorchurtha mar gheall ar an gcion/na cionta<br>............................................................ ............................................................ ............................................................ .............<br>............................................................ ............................................................ ............................................................ .............<br>2. Fad na pianbhreithe faoi choimeád nó an ordú coinneála arna bhforchur:<br>............................................................ ............................................................ ............................................................ .............<br>Méid na pianbhreithe atá le seirbheáil fós:............................................................ ............................................................ ............<br>............................................................ ............................................................ ............................................................ ........<br>............................................................ ............................................................ ............................................................ ........</td></tr></table>
+
+<table><tr><td>(d) Tugadh an bhreith in absentia:<br>— Tá toghairm faighte go pearsanta ag an duine i dtrácht nó cuireadh ar an eolas é/í ar dhóigh eile faoi dháta agus ionad na héisteachta inar tugadh an bhreith in absentia<br>nó<br>— Níl toghairm faighte go pearsanta ag an duine i dtrácht nó níor cuireadh ar an eolas é/í ar dhóigh eile faoi dháta agus ionad na héisteachta inar tugadh an bhreith in absentia ach tá na ráthaíochtaí dlí seo a leanas tar éis an ghéillte (cf. Is féidir ráthaíochtaí den sórt sin a thabhairt roimh ré)<br>Sonraigh na ráthaíochtaí dlí<br>............................................................ ............................................................ ............................................................ .............<br>............................................................ ............................................................ ............................................................ .............<br>............................................................ ............................................................ ............................................................ .............</td></tr></table>
+
+<table><tr><td>(e) Cionta:<br>Baineann an barántas seo san iomlán le: ............................................................ ........................cionta.<br>Tuairisc ar na himthosca ina ndearnadh an cion/na cionta, lena n-áirítear an t-am, an t-ionad agus méid an rannpháirteachais ag an duine iarrtha sa chion/sna cionta:<br>............................................................ ............................................................ ............................................................ .............<br>............................................................ ............................................................ ............................................................ .............<br>............................................................ ............................................................ ............................................................ .............<br>Cineál agus rangú dlí an chiona/na gcionta agus an fhoráil/cód reachtúil is infheidhme:<br>............................................................ ............................................................ ............................................................ .............<br>............................................................ ............................................................ ............................................................ .............<br>............................................................ ............................................................ ............................................................ .............<br>............................................................ ............................................................ ............................................................ .............<br>............................................................ ............................................................ ............................................................ .............<br>I. Más infheidhme, cuir tic ar cheann amháin nó níos mó de na cionta seo a leanas is inphionóis sa Stát eisitheach le pianbhreith faoi choimeád ag feadh trí bliana ar a laghad mar atá arna shainiú sna dlíthe sa Stát eisitheach:<br>□ rannpháirteachas in eagraíocht choiriúil,<br>□ sceimhlitheoireacht,<br>□ ceannaíocht i ndaoine,<br>□ dúshaothrú gnéasach leanaí agus an phornagrafaíocht maidir le leanaí,<br>□ gáinneáil aindleathach i ndrugaí támhshuanacha agus substaintí síceatrópacha,<br>□ gáinneáil aindleathach in airm, lón cogaidh agus pléascáin,<br>□ éilliú,<br>□ calaois, lena n-áirítear an chalaois a fhearann ar leasanna airgeadais na gComhphobal Eorpach de réir bhrí Choinbhinsiún an 26 Iúil 1995 maidir le leasanna airgeadais na gComhbhobal Eorpach a chosaint,<br>□ fáltais na coiriúlachta a sciúradh,<br>□ airgeadra, lena n-áirítear an euro, a ghóchumadh,<br>□ an choiriúlacht atá bainteach le ríomhaireacht,<br>□ coiriúlacht na timpeallachta, lena n-áirítear gáinneáil aindleathach i speicis ainmhithe atá faoi bhagairt agus i speicis phlandaí agus cineálacha plandaí atá faoi bhagairt,<br>□ iontráil agus cónaí neamhúdaraithe a éascú,<br>□ dúnmharú, mórdhíobháil choirp,<br>□ trádáil aindleathach in orgáin agus i bhfíochán an duine,<br>□ fuadach, srianadh neamhdhlíthiúil agus gabháil giall,<br>□ ciníochas agus seineafóibe,<br>□ robáil eagraithe nó armtha,<br>□ gáinneáil aindleathach in earraí cultúir, lena n-áirítear seandachtaí agus saothair ealaíne,<br>□ caimiléireacht,<br>□ cambheartaíocht agus sracaireacht,<br>□ góchumadh agus píoráideacht táirgí,<br>□ doiciméid riarthacha a bhrionnú agus gáinneáil iontu,<br>□ cóir íocaíochta a bhrionnú,<br>□ gáinneáil aindleathach i substaintí hormónacha agus tionscnóirí fáis eile,<br>□ gáinneáil aindleathach in ábhair núicléacha nó radaighníomhacha,<br>□ gáinneáil i mótarfheithiclí goidte,<br>□ éigniú,<br>□ coirloscadh,<br>□ coireanna laistigh de dhlínse an Chúirt Choiriúil Idirnáisiúnta<br>□ urghabháil neamhdhleathach aerárthaí/árthaí,<br>□ sabaitéireacht.<br>II. Tuairisc iomlán ar an gcion/na cionta nach bhfuil folaithe i Roinn I thuas:<br>............................................................ ............................................................ ............................................................ .............<br>............................................................ ............................................................ ............................................................ .............</td></tr></table>
+
+<table><tr><td>(f) Imthosca eile is ábhartha don chás (faisnéis dheonach):<br>(NB: D'fhéadfaí barúlacha maidir le seach-chríochachas, briseadh sna tréimhsí a bhaineann le teorannú ama agus iarmhairtí eile den chion a fholú)<br>............................................................ ............................................................ ............................................................ .............<br>............................................................ ............................................................ ............................................................ .............</td></tr></table>
+
+<table><tr><td>(g) Clúdaíonn an barántas seo freisin maoin a urghabháil agus a thabhairt ar láimh atá riachtanach mar fhianaise:<br>Clúdaíonn an barántas seo freisin maoin atá faighte ag an duine iarrtha de thoradh ar an gcion a urghabháil agus a thabhairt ar láimh:<br>Tuairisc ar an maoin (agus ionad) (más eol):<br>............................................................ ............................................................ ............................................................ ........<br>............................................................ ............................................................ ............................................................ ........<br>............................................................ ............................................................ ............................................................ ........</td></tr></table>
+
+<table><tr><td>(h) An cion/na cionta atá mar bhonn leis an mbarántas seo a bheith eisithe, tá siad inphionóis le pianbhreith saoil nó ordú coinneála fad saoil nó tá pianbhre ith saoil nó ordú coinneála fad saoil mar thoradh orthu:<br>— ceadaíonn an córas dlí sa Bhallstát eisitheach an pionós arna fhorchur a athbhreithniú — arna iarraidh sin nó faoi cheann fiche bliain ar a laghad — arb é is aidhm dó pionós nó beart den sórt sin a neamhfhorghníomhú agus/nó<br>— ceadaíonn an córas dlí sa Bhallstát eisitheach bearta trócaire a chur i bhfeidhm a bhfuil an duine ina dteideal faoina dhlí nó cleachtas náisiúnta arb é is aidhm dóibh pionós nó beart den sórt sin a neamhfhorghníomhú.</td></tr></table>
+
+<table><tr><td>(i) An t-údarás náisiúnta a d'eisigh an barántas:<br>Ainm oifigiúil:<br>Ainm an ionadaí aige[^22]............................................................ ............................................................ ....................................<br>............................................................ ............................................................ ............................................................ .........<br>Post (teideal/grád):............................................................ ............................................................ ...........................................<br>............................................................ ............................................................ ............................................................ ........<br>Comhadtagairt:............................................................ ............................................................ ................................................<br>Seoladh:............................................................ ............................................................ .........................................................<br>............................................................ ............................................................ ............................................................ .........<br>Uimh. Teil.: (cód na tíre) (cód an limistéir/na cathrach) (...)............................................................ .................................................<br>Uimh. Facs.: (cód an tíre) (cód an limistéir/na cathrach (...)............................................................ .................................................<br>Ríomhphost:............................................................ ............................................................ ....................................................<br>Sonraí tadhaill an duine atá le tadhall chun na socruithe praiticiúla riachtanacha a dhéanamh maidir leis an ngéilleadh:...............................<br>............................................................ ............................................................ ............................................................ .........</td></tr></table>
+
+<table><tr><td>Má cuireadh an fhreagracht ar údarás láir barántais ghabhála Eorpacha a tharchur agus iad a ghlacadh go riarthach:<br>Ainm an údaráis láir:<br>............................................................ ............................................................ ............................................................ ........<br>Duine tadhaill, más infheidhme (teideal/grád agus ainm):<br>............................................................ ............................................................ ............................................................ ........<br>Seoladh:............................................................ ............................................................ ........................................................<br>............................................................ ............................................................ ............................................................ ........<br>Uimh. Teil.: (cód na tíre) (cód an limistéir/na cathrach) (...) ............................................................ ...............................................<br>Uimh. Facs.: (cód na tíre) (cód an limistéir/na cathrach) (...) ............................................................ ...............................................<br>Ríomhphost: ............................................................ ............................................................ ..................................................</td></tr></table>
+
+<table><tr><td>Síniúchán an údaráis bhreithiúnaigh eisithigh agus/nó ionadaí dó:<br>............................................................ ............................................................ ............................................................ ..............<br>Ainm: ............................................................ ............................................................ ............................................................ ....<br>Post (teideal/grád): ............................................................ ............................................................ ...............................................<br>Dáta: ............................................................ ............................................................ ............................................................ ..............<br>Séala oifigiúil (más ann)</td></tr></table>
+
+### PART B — Text in the English language of Council Framework Decision of 13 June 2002 on the European arrest warrant and the surrender procedures between Member States.
+
+**COUNCIL FRAMEWORK DECISION**
+
+**of 13 June 2002**
+
+**on the European arrest warrant and the surrender procedures between Member States**
+
+(2002/584/JHA)
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treary on European Union, and in particular Article 31(a) and (b) and Article 34(2)(b) thereof,
+
+Having regard to the proposal from the Commission[^23],
+
+Having regard to the opinion of the European Parliament[^24],
+
+Whereas:
+
+(1) According to the Conclusions of the Tampere European Council of 15 and 16 October 1999, and in particular point 35 thereof, the formal extradition procedure should be abolished among the Member States in respect of persons who are fleeing from justice after having been finally sentenced and extradition procedures should be speeded up in respect of persons suspected of having committed an offence.
+
+(2) The programme of measures to implement the principle of mutual recognition of criminal decisions envisaged in point 37 of the Tampere European Council Conclusions and adopted by the Council on 30 November 2000[^25], addresses the matter of mutual enforcement of arrest warrants.
+
+(3) All or some Member States are parties to a number of conventions in the field of extradition, including the European Convention on extradition of 13 December 1957 and the European Convention on the suppression of terrorism of 27 January 1977. The Nordic States have extradition laws with identical wording.
+
+(4) In addition, the following three Conventions dealing in whole or in part with extradition have been agreed upon among Member States and form part of the Union acquis: the Convention of 19 June 1990 implementing the Schengen Agreement of 14 June 1985 on the gradual abolition of checks at their common borders[^26] (regarding relations between the Member States which are parties to that Convention), the Convention of 10 March 1995 on simplified extradition procedure between the Member States of the European Union[^27] and the Convention of 27 September 1996 relating to extradition between the Member States of the European Union[^28].
+
+(5) The objective set for the Union to become an area of freedom, security and justice leads to abolishing extradition between Member States and replacing it by a system of surrender between judicial authorities. Further, the introduction of a new simplified system of surrender of sentenced or suspected persons for the purposes of execution or prosecution of criminal sentences makes it possible to remove the complexity and potential for delay inherent in the present extradition procedures. Traditional cooperation relations which have prevailed up till now between Member States should be replaced by a system of free movement of judicial decisions in criminal matters, covering both pre-sentence and final decisions, within an area of freedom, security and justice.
+
+(6) The European arrest warrant provided for in this Framework Decision is the first concrete measure in the field of criminal law implementing the principle of mutual recognition which the European Council referred to as the "cornerstone" of judicial cooperation.
+
+(7) Since the aim of replacing the system of multilateral extradition built upon the European Convention on Extradition of 13 December 1957 cannot be sufficiently achieved by the Member States acting unilaterally and can therefore, by reason of its scale and effects, be better achieved at Union level, the Council may adopt measures in accordance with the principle of subsidiarity as referred to in Article 2 of the Treaty on European Union and Article 5 of the Treaty establishing the European Community. In accordance with the principle of proportionality, as set out in the latter Article, this Framework Decision does not go beyond what is necessary in order to achieve that objective.
+
+(8) Decisions on the execution of the European arrest warrant must be subject to sufficient controls, which means that a judicial authority of the Member State where the requested person has been arrested will have to take the decision on his or her surrender.
+
+(9) The role of central authorities in the execution of a European arrest warrant must be limited to practical and administrative assistance.
+
+(10) The mechanism of the European arrest warrant is based on a high level of confidence between Member States. Its implementation may be suspended only in the event of a serious and persistent breach by one of the Member States of the principle set out in Article 6(1) of the Treaty on European Union, determined by the Council pursuant to Article 7(1) of the said Treaty with the consequences set out in Article 7(2) thereof.
+
+(11) In relations between Member States, the European arrest warrant should replace all the previous instruments concerning extradition, including the provisions of Title III of the Convention implementing the Schengen Agreement which concern extradition.
+
+(12) This Framework Decision respects fundamental rights and observes the principles recognised by Article 6 of the Treaty on European Union and reflected in the Charter of Fundamental Rights of the European Union[^29], in particular Chapter VI thereof. Nothing in this Framework Decision may be interpreted as prohibiting refusal to surrender a person for whom a European arrest warrant has been issued when there are reasons to believe, on the basis of objective elements, that the said arrest warrant has been issued for the purpose of prosecuting or punishing a person on the grounds of his or her sex, race, religion, ethnic origin, nationality, language, political opinions or sexual orientation, or that that person's position may be prejudiced for any of these reasons.
+
+This Framework Decision does not prevent a Member State from applying its constitutional rules relating to due process, freedom of association, freedom of the press and freedom of expression in other media.
+
+(13) No person should be removed, expelled or extradited to a State where there is a serious risk that he or she would be subjected to the death penalty, torture or other inhuman or degrading treatment or punishment.
+
+(14) Since all Member States have ratified the Council of Europe Convention of 28 January 1981 for the protection of individuals with regard to automatic processing of personal data, the personal data processed in the context of the implementation of this Framework Decision should be protected in accordance with the principles of the said Convention
+
+HAS ADOPTED THIS FRAMEWORK DECISION:
+
+#### CHAPTER 1 — GENERAL PRINCIPLES
+
+**Article 1 — Definition of the European arrest warrant and obligation to execute it**
+
+1\. The European arrest warrant is a judicial decision issued by a Member State with a view to the arrest and surrender by another Member State of a requested person, for the purposes of conducting a criminal prosecution or executing a custodial sentence or detention order.
+
+2\. Member States shall execute any European arrest warrant on the basis of the principle of mutual recognition and in accordance with the provisions of this Framework Decision.
+
+3\. This Framework Decision shall not have the effect of modifying the obligation to respect fundamental rights and fundamental legal principles as enshrined in Article 6 of the Treaty on European Union.
+
+**Article 2 — Scope of the European arrest warrant**
+
+1\. A European arrest warrant may be issued for acts punishable by the law of the issuing Member State by a custodial sentence or a detention order for a maximum period of at least 12 months or, where a sentence has been passed or a detention order has been made, for sentences of at least four months.
+
+2\. The following offences, if they are punishable in the issuing Member State by a custodial sentence or a detention order for a maximum period of at least three years and as they are defined by the law of the issuing Member State, shall, under the terms of this Framework Decision and without verification of the double criminality of the act, give rise to surrender pursuant to a European arrest warrant:
+
+— participation in a criminal organisation,
+
+— terrorism,
+
+— trafficking in human beings,
+
+— sexual exploitation of children and child pornography,
+
+— illicit trafficking in narcotic drugs and psychotropic substances,
+
+— illicit trafficking in weapons, munitions and explosives,
+
+— corruption,
+
+— fraud, including that affecting the financial interests of the European Communities within the meaning of the Convention of 26 July 1995 on the protection of the European Communities' financial interests,
+
+— laundering of the proceeds of crime,
+
+— counterfeiting currency, including of the euro,
+
+— computer-related crime,
+
+— environmental crime, including illicit trafficking in endangered animal species and in endangered plant species and varieties,
+
+— facilitation of unauthorised entry and residence,
+
+— murder, grievous bodily injury,
+
+— illicit trade in human organs and tissue,
+
+— kidnapping, illegal restraint and hostage-taking,
+
+— racism and xenophobia,
+
+— organised or armed robbery,
+
+— illicit trafficking in cultural goods, including antiques and works of art,
+
+— swindling,
+
+— racketeering and extortion,
+
+— counterfeiting and piracy of products,
+
+— forgery of administrative documents and trafficking therein,
+
+— forgery of means of payment,
+
+— illicit trafficking in hormonal substances and other growth promoters,
+
+— illicit trafficking in nuclear or radioactive materials,
+
+— trafficking in stolen vehicles,
+
+— rape,
+
+— arson,
+
+— crimes within the jurisdiction of the International Criminal Court,
+
+— unlawful seizure of aircraft/ships,
+
+— sabotage.
+
+3\. The Council may decide at any time, acting unanimously after consultation of the European Parliament under the conditions laid down in Article 39(1) of the Treaty on European Union (TEU), to add other categories of offence to the list contained in paragraph 2. The Council shall examine, in the light of the report submitted by the Commission pursuant to Article 34(3), whether the list should be extended or amended.
+
+4\. For offences other than those covered by paragraph 2, surrender may be subject to the condition that the acts for which the European arrest warrant has been issued constitute an offence under the law of the executing Member State, whatever the constituent elements or however it is described.
+
+**Article 3 — Grounds for mandatory non-execution of the European arrest warrant**
+
+The judicial authority of the Member State of execution (hereinafter "executing judicial authority") shall refuse to execute the European arrest warrant in the following cases:
+
+1\. if the offence on which the arrest warrant is based is covered by amnesty in the executing Member State, where that State had jurisdiction to prosecute the offence under its own criminal law;
+
+2\. if the executing judicial authority is informed that the requested person has been finally judged by a Member State in respect of the same acts provided that, where there has been sentence, the sentence has been served or is currently being served or may no longer be executed under the law of the sentencing Member State;
+
+3\. if the person who is the subject of the European arrest warrant may not, owing to his age, be held criminally responsible for the acts on which the arrest warrant is based under the law of the executing State.
+
+**Article 4 — Grounds for optional non-execution of the European arrest warrant**
+
+The executing judicial authority may refuse to execute the European arrest warrant:
+
+1\. if, in one of the cases referred to in Article 2(4), the act on which the European arrest warrant is based does not constitute an offence under the law of the executing Member State; however, in relation to taxes or duties, customs and exchange, execution of the European arrest warrant shall not be refused on the ground that the law of the executing Member State does not impose the same kind of tax or duty or does not contain the same type of rules as regards taxes, duties and customs and exchange regulations as the law of the issuing Member State;
+
+2\. where the person who is the subject of the European arrest warrant is being prosecuted in the executing Member State for the same act as that on which the European arrest warrant is based;
+
+3\. where the judicial authorities of the executing Member State have decided either not to prosecute for the offence on which the European arrest warrant is based or to halt proceedings, or where a final judgment has been passed upon the requested person in a Member State, in respect of the same acts, which prevents further proceedings;
+
+4\. where the criminal prosecution or punishment of the requested person is statute-barred according to the law of the executing Member State and the acts fall within the jurisdiction of that Member State under its own criminal law;
+
+5\. if the executing judicial authority is informed that the requested person has been finally judged by a third State in respect of the same acts provided that, where there has been sentence, the sentence has been served or is currently being served or may no longer be executed under the law of the sentencing country;
+
+6\. if the European arrest warrant has been issued for the purposes of execution of a custodial sentence or detention order, where the requested person is staying in, or is a national or a resident of the executing Member State and that State undertakes to execute the sentence or detention order in accordance with its domestic law;
+
+7\. where the European arrest warrant relates to offences which:
+
+(a) are regarded by the law of the executing Member State as having been committed in whole or in part in the territory of the executing Member State or in a place treated as such; or
+
+(b) have been committed outside the territory of the issuing Member State and the law of the executing Member State does not allow prosecution for the same offences when committed outside its territory.
+
+**Article 5 — Guarantees to be given by the issuing Member State in particular cases**
+
+The execution of the European arrest warrant by the executing judicial authority may, by the law of the executing Member State, be subject to the following conditions:
+
+1\. where the European arrest warrant has been issued for the purposes of executing a sentence or a detention order imposed by a decision rendered and if the person concerned has not been summoned in person or otherwise informed of the date and place of the hearing which led to the decision rendered *in absentia*, surrender may be subject to the condition that the issuing judicial authority gives an assurance deemed adequate to guarantee the person who is the subject of the European arrest warrant that he or she will have an opportunity to apply for a retrial of the case in the issuing Member State and to be present at the judgment;
+
+2\. if the offence on the basis of which the European arrest warrant has been issued is punishable by custodial life sentence or life-time detention order, the execution of the said arrest warrant may be subject to the condition that the issuing Member State has provisions in its legal system for a review of the penalty or measure imposed, on request or at the latest after 20 years, or for the application of measures of clemency to which the person is entitled to apply for under the law or practice of the issuing Member State, aiming at a non-execution of such penalty or measure;
+
+3\. where a person who is the subject of a European arrest warrant for the purposes of prosecution is a national or resident of the executing Member State, surrender may be subject to the condition that the person, after being heard, is returned to the executing Member State in order to serve there the custodial sentence or detention order passed against him in the issuing Member State.
+
+**Article 6 — Determination of the competent judicial authorities**
+
+1\. The issuing judicial authority shall be the judicial authority of the issuing Member State which is competent to issue a European arrest warrant by virtue of the law of that State.
+
+2\. The executing judicial authority shall be the judicial authority of the executing Member State which is competent to execute the European arrest warrant by virtue of the law of that State.
+
+3\. Each Member State shall inform the General Secretariat of the Council of the competent judicial authority under its law.
+
+**Article 7 — Recourse to the central authority**
+
+1\. Each Member State may designate a central authority or, when its legal system so provides, more than one central authority to assist the competent judicial authorities.
+
+2\. A Member State may, if it is necessary as a result of the organisation of its internal judicial system, make its central authority(ies) responsible for the administrative transmission and reception of European arrest warrants as well as for all other official correspondence relating thereto.
+
+Member State wishing to make use of the possibilities referred to in this Article shall communicate to the General Secretariat of the Council information relating to the designated central authority or central authorities. These indications shall be binding upon all the authorities of the issuing Member State.
+
+**Article 8 — Content and form of the European arrest warrant**
+
+1\. The European arrest warrant shall contain the following information set out in accordance with the form contained in the Annex:
+
+(a) the identity and nationality of the requested person;
+
+(b) the name, address, telephone and fax numbers and e-mail address of the issuing judicial authority;
+
+(c) evidence of an enforceable judgment, an arrest warrant or any other enforceable judicial decision having the same effect, coming within the scope of Articles 1 and 2;
+
+(d) the nature and legal classification of the offence, particularly in respect of Article 2;
+
+(e) a description of the circumstances in which the offence was committed, including the time, place and degree of participation in the offence by the requested person;
+
+(f) the penalty imposed, if there is a final judgment, or the prescribed scale of penalties for the offence under the law of the issuing Member State;
+
+(g) if possible, other consequences of the offence.
+
+2\. The European arrest warrant must be translated into the official language or one of the official languages of the executing Member State. Any Member State may, when this Framework Decision is adopted or at a later date, state in a declaration deposited with the General Secretariat of the Council that it will accept a translation in one or more other official languages of the Institutions of the European Communities.
+
+#### CHAPTER 2 — SURRENDER PROCEDURE
+
+**Article 9 — Transmission of a European arrest warrant**
+
+1\. When the location of the requested person is known, the issuing judicial authority may transmit the European arrest warrant directly to the executing judicial authority.
+
+2\. The issuing judicial authority may, in any event, decide to issue an alert for the requested person in the Schengen Information System (SIS).
+
+3\. Such an alert shall be effected in accordance with the provisions of Article 95 of the Convention of 19 June 1990 implementing the Schengen Agreement of 14 June 1985 on the gradual abolition of controls at common borders. An alert in the Schengen Information System shall be equivalent to a European arrest warrant accompanied by the information set out in Article 8(1).
+
+For a transitional period, until the SIS is capable of transmitting all the information described in Article 8, the alert shall be equivalent to a European arrest warrant pending the receipt of the original in due and proper form by the executing judicial authority.
+
+**Article 10 — Detailed procedures for transmitting a European arrest warrant**
+
+1\. If the issuing judicial authority does not know the competent executing judicial authority, it shall make the requisite enquiries, including through the contact points of the European Judicial Network[^30], in order to obtain that information from the executing Member State.
+
+2\. If the issuing judicial authority so wishes, transmission may be effected via the secure telecommunications system of the European Judicial Network.
+
+3\. If it is not possible to call on the services of the SIS, the issuing judicial authority may call on Interpol to transmit a European arrest warrant.
+
+4\. The issuing judicial authority may forward the European arrest warrant by any secure means capable of producing written records under conditions allowing the executing Member State to establish its authenticity.
+
+5\. All difficulties concerning the transmission or the authenticity of any document needed for the execution of the European arrest warrant shall be dealt with by direct contacts between the judicial authorities involved, or, where appropriate, with the involvement of the central authorities of the Member States.
+
+6\. If the authority which receives a European arrest warrant is not competent to act upon it, it shall automatically forward the European arrest warrant to the competent authority in its Member State and shall inform the issuing judicial authority accordingly.
+
+**Article 11 — Rights of a requested person**
+
+1\. When a requested person is arrested, the executing competent judicial authority shall, in accordance with its national law, inform that person of the European arrest warrant and of its contents, and also of the possibility of consenting to surrender to the issuing judicial authority.
+
+2\. A requested person who is arrested for the purpose of the execution of a European arrest warrant shall have a right to be assisted by a legal counsel and by an interpreter in accordance with the national law of the executing Member State.
+
+**Article 12 — Keeping the person in detention**
+
+When a person is arrested on the basis of a European arrest warrant, the executing judicial authority shall take a decision on whether the requested person should remain in detention, in accordance with the law of the executing Member State. The person may be released provisionally at any time in conformity with the domestic law of the executing Member State, provided that the competent authority of the said Member State takes all the measures it deems necessary to prevent the person absconding.
+
+**Article 13 — Consent to surrender**
+
+1\. If the arrested person indicates that he or she consents to surrender, that consent and, if appropriate, express renunciation of entitlement to the "speciality rule", referred to in Article 27(2), shall be given before the executing judicial authority, in accordance with the domestic law of the executing Member State.
+
+2\. Each Member State shall adopt the measures necessary to ensure that consent and, where appropriate, renunciation, as referred to in paragraph 1, are established in such a way as to show that the person concerned has expressed them voluntarily and in full awareness of the consequences. To that end, the requested person shall have the right to legal counsel.
+
+3\. The consent and, where appropriate, renunciation, as referred to in paragraph 1, shall be formally recorded in accordance with the procedure laid down by the domestic law of the executing Member State.
+
+4\. In principle, consent may not be revoked. Each Member State may provide that consent and, if appropriate, renunciation may be revoked, in accordance with the rules applicable under its domestic law. In this case, the period between the date of consent and that of its revocation shall not be taken into consideration in establishing the time limits laid down in Article 17. A Member State which wishes to have recourse to this possibility shall inform the General Secretariat of the Council accordingly when this Framework Decision is adopted and shall specify the procedures whereby revocation of consent shall be possible and any amendment to them.
+
+**Article 14 — Hearing of the requested person**
+
+Where the arrested person does not consent to his or her surrender as referred to in Article 13, he or she shall be entitled to be heard by the executing judicial authority, in accordance with the law of the executing Member State.
+
+**Article 15 — Surrender decision**
+
+1\. The executing judicial authority shall decide, within the timelimits and under the conditions defined in this Framework Decision, whether the person is to be surrendered.
+
+2\. If the executing judicial authority finds the information communicated by the issuing Member State to be insufficient to allow it to decide on surrender, it shall request that the necessary supplementary information, in particular with respect to Articles 3 to 5 and Article 8, be furnished as a matter of urgency and may fix a time limit for the receipt thereof, taking into account the need to observe the time limits set in Article 17.
+
+3\. The issuing judicial authority may at any time forward any additional useful information to the executing judicial authority.
+
+**Article 16 — Decision in the event of multiple requests**
+
+1\. If two or more Member States have issued European arrest warrants for the same person, the decision on which of the European arrest warrants shall be executed shall be taken by the executing judicial authority with due consideration of all the circumstances and especially the relative seriousness and place of the offences, the respective dates of the European arrest warrants and whether the warrant has been issued for the purposes of prosecution or for execution of a custodial sentence or detention order.
+
+2\. The executing judicial authority may seek the advice of Eurojust[^31] when making the choice referred to in paragraph 1.
+
+3\. In the event of a conflict between a European arrest warrant and a request for extradition presented by a third country, the decision on whether the European arrest warrant or the extradition request takes precedence shall be taken by the competent authority of the executing Member State with due consideration of all the circumstances, in particular those referred to in paragraph 1 and those mentioned in the applicable convention.
+
+4\. This Article shall be without prejudice to Member States' obligations under the Statute of the International Criminal Court.
+
+**Article 17 — Time limits and procedures for the decision to execute the European arrest warrant**
+
+1\. A European arrest warrant shall be dealt with and executed as a matter of urgency.
+
+2\. In cases where the requested person consents to his surrender, the final decision on the execution of the European arrest warrant should be taken within a period of 10 days after consent has been given.
+
+3\. In other cases, the final decision on the execution of the European arrest warrant should be taken within a period of 60 days after the arrest of the requested person.
+
+4\. Where in specific cases the European arrest warrant cannot be executed within the time limits laid down in paragraphs 2 or 3, the executing judicial authority shall immediately inform the issuing judicial authority thereof, giving the reasons for the delay. In such case, the time limits may be extended by a further 30 days.
+
+5\. As long as the executing judicial authority has not taken a final decision on the European arrest warrant, it shall ensure that the material conditions necessary for effective surrender of the person remain fulfilled.
+
+6\. Reasons must be given for any refusal to execute a European arrest warrant.
+
+7\. Where in exceptional circumstances a Member State cannot observe the time limits provided for in this Article, it shall inform Eurojust, giving the reasons for the delay. In addition, a Member State which has experienced repeated delays on the part of another Member State in the execution of European arrest warrants shall inform the Council with a view to evaluating the implementation of this Framework Decision at Member State level.
+
+**Article 18 — Situation pending the decision**
+
+1\. Where the European arrest warrant has been issued for the purpose of conducting a criminal prosecution, the executing judicial authority must:
+
+(a) either agree that the requested person should be heard according to Article 19;
+
+(b) or agree to the temporary transfer of the requested person.
+
+2\. The conditions and the duration of the temporary transfer shall be determined by mutual agreement between the issuing and executing judicial authorities.
+
+3\. In the case of temporary transfer, the person must be able to return to the executing Member State to attend hearings concerning him or her as part of the surrender procedure.
+
+**Article 19 — Hearing the person pending the decision**
+
+1\. The requested person shall be heard by a judicial authority, assisted by another person designated in accordance with the law of the Member State of the requesting court.
+
+2\. The requested person shall be heard in accordance with the law of the executing Member State and with the conditions determined by mutual agreement between the issuing and executing judicial authorities.
+
+3\. The competent executing judicial authority may assign another judicial authority of its Member State to take part in the hearing of the requested person in order to ensure the proper application of this Article and of the conditions laid down.
+
+**Article 20 — Privileges and immunities**
+
+1\. Where the requested person enjoys a privilege or immunity regarding jurisdiction or execution in the executing Member State, the time limits referred to in Article 17 shall not start running unless, and counting from the day when, the executing judicial authority is informed of the fact that the privilege or immunity has been
+
+waived. The executing Member State shall ensure that the material conditions necessary for effective surrender are fulfilled when the person no longer enjoys such privilege or immunity.
+
+2\. Where power to waive the privilege or immunity lies with an authority of the executing Member State, the executing judicial authority shall request it to exercise that power forthwith. Where power to waive the privilege or immunity lies with an authority of another State or international organisation, it shall be for the issuing judicial authority to request it to exercise that power.
+
+**Article 21 — Competing international obligations**
+
+This Framework Decision shall not prejudice the obligations of the executing Member State where the requested person has been extradited to that Member State from a third State and where that person is protected by provisions of the arrangement under which he or she was extradited concerning speciality. The executing Member State shall take all necessary measures for requesting forthwith the consent of the State from which the requested person was extradited so that he or she can be surrendered to the Member State which issued the European arrest warrant. The time limits referred to in Article 17 shall not start running until the day on which these speciality rules cease to apply. Pending the decision of the State from which the requested person was extradited, the executing Member State will ensure that the material conditions necessary for effective surrender remain fulfilled.
+
+**Article 22 — Notification of the decision**
+
+The executing judicial authority shall notify the issuing judicial authority immediately of the decision on the action to be taken on the European arrest warrant.
+
+**Article 23 — Time limits for surrender of the person**
+
+1\. The person requested shall be surrendered as soon as possible on a date agreed between the authorities concerned.
+
+2\. He or she shall be surrendered no later than 10 days after the final decision on the execution of the European arrest warrant.
+
+3\. If the surrender of the requested person within the period laid down in paragraph 2 is prevented by circumstances beyond the control of any of the Member States, the executing and issuing judicial authorities shall immediately contact each other and agree on a new surrender date. In that event, the surrender shall take place within 10 days of the new date thus agreed.
+
+4\. The surrender may exceptionally be temporarily postponed for serious humanitarian reasons, for example if there are substantial grounds for believing that it would manifestly endanger the requested person's life or health. The execution of the European arrest warrant shall take place as soon as these grounds have ceased to exist. The executing judicial authority shall immediately inform the issuing judicial authority and agree on a new surrender date. In that event, the surrender shall take place within 10 days of the new date thus agreed.
+
+5\. Upon expiry of the time limits referred to in paragraphs 2 to 4, if the person is still being held in custody he shall be released.
+
+**Article 24 — Postponed or conditional surrender**
+
+1\. The executing judicial authority may, after deciding to execute the European arrest warrant, postpone the surrender of the requested person so that he or she may be prosecuted in the executing Member State or, if he or she has already been sentenced, so that he or she may serve, in its territory, a sentence passed for an act other than that referred to in the European arrest warrant.
+
+2\. Instead of postponing the surrender, the executing judicial authority may temporarily surrender the requested person to the issuing Member State under conditions to be determined by mutual agreement between the executing and the issuing judicial authorities. The agreement shall be made in writing and the conditions shall be binding on all the authorities in the issuing Member State.
+
+**Article 25 — Transit**
+
+1\. Each Member State shall, except when it avails itself of the possibility of refusal when the transit of a national or a resident is requested for the purpose of the execution of a custodial sentence or detention order, permit the transit through its territory of a requested person who is being surrendered provided that it has been given information on:
+
+(a) the identity and nationality of the person subject to the European arrest warrant;
+
+(b) the existence of a European arrest warrant;
+
+(c) the nature and legal classification of the offence;
+
+(d) the description of the circumstances of the offence, including the date and place.
+
+Where a person who is the subject of a European arrest warrant for the purposes of prosecution is a national or resident of the Member State of transit, transit may be subject to the condition that the person, after being heard, is returned to the transit Member State to serve the custodial sentence or detention order passed against him in the issuing Member State.
+
+2\. Each Member State shall designate an authority responsible for receiving transit requests and the necessary documents, as well as any other official correspondence relating to transit requests. Member States shall communicate this designation to the General Secretariat of the Council.
+
+3\. The transit request and the information set out in paragraph 1 may be addressed to the authority designated pursuant to paragraph 2 by any means capable of producing a written record. The Member State of transit shall notify its decision by the same procedure.
+
+4\. This Framework Decision does not apply in the case of transport by air without a scheduled stopover. However, if an unscheduled landing occurs, the issuing Member State shall provide the authority designated pursuant to paragraph 2 with the information provided for in paragraph 1.
+
+5\. Where a transit concerns a person who is to be extradited from a third State to a Member State this Article will apply *mutatis mutandis*. In particular the expression "European arrest warrant" shall be deemed to be replaced by "extradition request".
+
+#### CHAPTER 3 — EFFECTS OF THE SURRENDER
+
+**Article 26 — Deduction of the period of detention served in the executing Member State**
+
+1\. The issuing Member State shall deduct all periods of detention arising from the execution of a European arrest warrant from the total period of detention to be served in the issuing Member State as a result of a custodial sentence or detention order being passed.
+
+2\. To that end, all information concerning the duration of the detention of the requested person on the basis of the European arrest warrant shall be transmitted by the executing judicial authority or the central authority designated under Article 7 to the issuing judicial authority at the time of the surrender.
+
+**Article 27 — Possible prosecution for other offences**
+
+1\. Each Member State may notify the General Secretariat of the Council that, in its relations with other Member States that have given the same notification, consent is presumed to have been given for the prosecution, sentencing or detention with a view to the carrying out of a custodial sentence or detention order for an offence committed prior to his or her surrender, other than that for which he or she was surrendered, unless in a particular case the executing judicial authority states otherwise in its decision on surrender.
+
+2\. Except in the cases referred to in paragraphs 1 and 3, a person surrendered may not be prosecuted, sentenced or otherwise deprived of his or her liberty for an offence committed prior to his or her surrender other than that for which he or she was surrendered.
+
+3\. Paragraph 2 does not apply in the following cases:
+
+(a) when the person having had an opportunity to leave the territory of the Member State to which he or she has been surrendered has not done so within 45 days of his or her final discharge, or has returned to that territory after leaving it;
+
+(b) the offence is not punishable by a custodial sentence or detention order;
+
+(c) the criminal proceedings do not give rise to the application of a measure restricting personal liberty;
+
+(d) when the person could be liable to a penalty or a measure not involving the deprivation of liberty, in particular a financial penalty or a measure in lieu thereof, even if the penalty or measure may give rise to a restriction of his or her personal liberty;
+
+(e) when the person consented to be surrendered, where appropriate at the same time as he or she renounced the speciality rule, in accordance with Article 13;
+
+(f) when the person, after his/her surrender, has expressly renounced entitlement to the speciality rule with regard to specific offences preceding his/her surrender. Renunciation shall be given before the competent judicial authorities of the issuing Member State and shall be recorded in accordance with that State's domestic law. The renunciation shall be drawn up in such a way as to make clear that the person has given it voluntarily and in full awareness of the consequences. To that end, the person shall have the right to legal counsel;
+
+(g) where the executing judicial authority which surrendered the person gives its consent in accordance with paragraph 4.
+
+4\. A request for consent shall be submitted to the executing judicial authority, accompanied by the information mentioned in Article 8(1) and a translation as referred to in Article 8(2). Consent shall be given when the offence for which it is requested is itself subject to surrender in accordance with the provisions of this Framework Decision. Consent shall be refused on the grounds referred to in Article 3 and otherwise may be refused only on the grounds referred to in Article 4. The decision shall be taken no later than 30 days after receipt of the request.
+
+For the situations mentioned in Article 5 the issuing Member State must give the guarantees provided for therein.
+
+**Article 28 — Surrender or subsequent extradition**
+
+1\. Each Member State may notify the General Secretariat of the Council that, in its relations with other Member States which have given the same notification, the consent for the surrender of a person to a Member State other than the executing Member State pursuant to a European arrest warrant issued for an offence committed prior to his or her surrender is presumed to have been given, unless in a particular case the executing judicial authority states otherwise in its decision on surrender.
+
+2\. In any case, a person who has been surrendered to the issuing Member State pursuant to a European arrest warrant may, without the consent of the executing Member State, be surrendered to a Member State other than the executing Member State pursuant to a European arrest warrant issued for any offence committed prior to his or her surrender in the following cases:
+
+(a) where the requested person, having had an opportunity to leave the territory of the Member State to which he or she has been surrendered, has not done so within 45 days of his final discharge, or has returned to that territory after leaving it;
+
+(b) where the requested person consents to be surrendered to a Member State other than the executing Member State pursuant to a European arrest warrant. Consent shall be given before the competent judicial authorities of the issuing Member State and shall be recorded in accordance with that State's national law. It shall be drawn up in such a way as to make clear that the person concerned has given it voluntarily and in full awareness of the consequences. To that end, the requested person shall have the right to legal counsel;
+
+(c) where the requested person is not subject to the speciality rule, in accordance with Article 27(3)(a), (e), (f) and (g).
+
+3\. The executing judicial authority consents to the surrender to another Member State according to the following rules:
+
+(a) the request for consent shall be submitted in accordance with Article 9, accompanied by the information mentioned in Article 8(1) and a translation as stated in Article 8(2);
+
+(b) consent shall be given when the offence for which it is requested is itself subject to surrender in accordance with the provisions of this Framework Decision;
+
+(c) the decision shall be taken no later than 30 days after receipt of the request;
+
+(d) consent shall be refused on the grounds referred to in Article 3 and otherwise may be refused only on the grounds referred to in Article 4.
+
+For the situations referred to in Article 5, the issuing Member State must give the guarantees provided for therein.
+
+4\. Notwithstanding paragraph 1, a person who has been surrendered pursuant to a European arrest warrant shall not be extradited to a third State without the consent of the competent authority of the Member State which surrendered the person. Such consent shall be given in accordance with the Conventions by which that Member State is bound, as well as with its domestic law.
+
+**Article 29 — Handing over of property**
+
+1\. At the request of the issuing judicial authority or on its own initiative, the executing judicial authority shall, in accordance with its national law, seize and hand over property which:
+
+(a) may be required as evidence, or
+
+(b) has been acquired by the requested person as a result of the offence.
+
+2\. The property referred to in paragraph 1 shall be handed over even if the European arrest warrant cannot be carried out owing to the death or escape of the requested person.
+
+3\. If the property referred to in paragraph 1 is liable to seizure or confiscation in the territory of the executing Member State, the latter may, if the property is needed in connection with pending criminal proceedings, temporarily retain it or hand it over to the issuing Member State, on condition that it is returned.
+
+4\. Any rights which the executing Member State or third parties may have acquired in the property referred to in paragraph 1 shall be preserved. Where such rights exist, the issuing Member State shall return the property without charge to the executing Member State as soon as the criminal proceedings have been terminated.
+
+**Article 30 — Expenses**
+
+1\. Expenses incurred in the territory of the executing Member State for the execution of a European arrest warrant shall be borne by that Member State.
+
+2\. All other expenses shall be borne by the issuing Member State.
+
+#### CHAPTER 4 — GENERAL AND FINAL PROVISIONS
+
+**Article 31 — Relation to other legal instruments**
+
+1\. Without prejudice to their application in relations between Member States and third States, this Framework Decision shall, from 1 January 2004, replace the corresponding provisions of the following conventions applicable in the field of extradition in relations between the Member States:
+
+(a) the European Convention on Extradition of 13 December 1957, its additional protocol of 15 October 1975, its second additional protocol of 17 March 1978, and the European Convention on the suppression of terrorism of 27 January 1977 as far as extradition is concerned;
+
+(b) the Agreement between the 12 Member States of the European Communities on the simplification and modernisation of methods of transmitting extradition requests of 26 May 1989;
+
+(c) the Convention of 10 March 1995 on simplified extradition procedure between the Member States of the European Union;
+
+(d) the Convention of 27 September 1996 relating to extradition between the Member States of the European Union;
+
+(e) Title III, Chapter 4 of the Convention of 19 June 1990 implementing the Schengen Agreement of 14 June 1985 on the gradual abolition of checks at common borders.
+
+2\. Member States may continue to apply bilateral or multilateral agreements or arrangements in force when this Framework Decision is adopted in so far as such agreements or arrangements allow the objectives of this Framework Decision to be extended or enlarged and help to simplify or facilitate further the procedures for surrender of persons who are the subject of European arrest warrants.
+
+Member States may conclude bilateral or multilateral agreements or arrangements after this Framework Decision has come into force in so far as such agreements or arrangements allow the prescriptions of this Framework Decision to be extended or enlarged and help to simplify or facilitate further the procedures for surrender of persons who are the subject of European arrest warrants, in particular by fixing time limits shorter than those fixed in Article 17, by extending the list of offences laid down in Article 2(2), by further limiting the grounds for refusal set out in Articles 3 and 4, or by lowering the threshold provided for in Article 2(1) or (2).
+
+The agreements and arrangements referred to in the second subparagraph may in no case affect relations with Member States which are not parties to them.
+
+Member States shall, within three months from the entry into force of this Framework Decision, notify the Council and the Commission of the existing agreements and arrangements referred to in the first subparagraph which they wish to continue applying.
+
+Member States shall also notify the Council and the Commission of any new agreement or arrangement as referred to in the second subparagraph, within three months of signing it.
+
+3\. Where the conventions or agreements referred to in paragraph 1 apply to the territories of Member States or to territories for whose external relations a Member State is responsible to which this Framework Decision does not apply, these instruments shall continue to govern the relations existing between those territories and the other Members States.
+
+**Article 32 — Transitional provision**
+
+1\. Extradition requests received before 1 January 2004 will continue to be governed by existing instruments relating to extradition. Requests received after that date will be governed by the rules adopted by Member States pursuant to this Framework Decision. However, any Member State may, at the time of the adoption of this Framework Decision by the Council, make a statement indicating that as executing Member State it will continue to deal with requests relating to acts committed before a date which it specifies in accordance with the extradition system applicable before 1 January 2004. The date in question may not be later than 7 August 2002. The said statement will be published in the *Official Journal of the European Communities*. It may be withdrawn at any time.
+
+**Article 33 — Provisions concerning Austria and Gibraltar**
+
+1\. As long as Austria has not modified Article 12(1) of the "Auslieferungs und Rechtshilfegesetz" and, at the latest, until 31 December 2008, it may allow its executing judicial authorities to refuse the enforcement of a European arrest warrant if the requested person is an Austrian citizen and if the act for which the European arrest warrant has been issued is not punishable under Austrian law.
+
+2\. This Framework Decision shall apply to Gibraltar.
+
+**Article 34 — Implementation**
+
+1\. Member States shall take the necessary measures to comply with the provisions of this Framework Decision by 31 December 2003.
+
+2\. Member States shall transmit to the General Secretariat of the Council and to the Commission the text of the provisions transposing into their national law the obligations imposed on them under this Framework Decision. When doing so, each Member State may indicate that it will apply immediately this Framework Decision in its relations with those Member States which have given the same notification.
+
+The General Secretariat of the Council shall communicate to the Member States and to the Commission the information received pursuant to Article 7(2), Article 8(2), Article 13(4) and Article 25(2). It shall also have the information published in the *Official Journal of the European Communities*.
+
+3\. On the basis of the information communicated by the General Secretariat of the Council, the Commission shall, by 31 December 2004 at the latest, submit a report to the European Parliament and to the Council on the operation of this Framework Decision, accompanied, where necessary, by legislative proposals.
+
+4\. The Council shall in the second half of 2003 conduct a review, in particular of the practical application, of the provisions of this Framework Decision by the Member States as well as the functioning of the Schengen Information System.
+
+**Article 35 — Entry into force**
+
+This Framework Decision shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Communities*.
+
+Done at Luxembourg, 13 June 2002.
+
+*For the Council*
+
+*The President*
+
+M. RAJOY BREY
+
+**ANNEX — EUROPEAN ARREST WARRANT[^32]**
+
+This warrant has been issued by a competent judicial authority. I request that the person mentioned below be arrested and surrendered for the purposes of conducting a criminal prosecution or executing a custodial sentence or detention order.
+
+<table><tr><td>(a) Information regarding the identity of the requested person: ............................................................ ...............................................<br>Name: ............................................................ ............................................................ ........................................................<br>Forename(s): ............................................................ ............................................................ ................................................<br>Maiden name, where applicable:............................................................ ............................................................ .......................<br>Aliases, where applicable: ............................................................ ............................................................ ..............................<br>Sex: ............................................................ ............................................................ ...........................................................<br>Nationality: ............................................................ ............................................................ .................................................<br>Date of birth: ............................................................ ............................................................ ...............................................<br>Place of birth: ............................................................ ............................................................ ..............................................<br>Residence and/or known address: ............................................................ ............................................................ .....................<br>Language(s) which the requested person understands (if known): ............................................................ ........................................<br>............................................................ ............................................................ ............................................................ ......<br>Distinctive marks/description of the requested person: ............................................................ .....................................................<br>............................................................ ............................................................ ............................................................ ......<br>Photo and fingerprints of the requested person, if they are available and can be transmitted, or contact details of the person to be contacted in order to obtain such information or a DNA profile (where this evidence can be supplied but has not been included)</td></tr></table>
+
+<table><tr><td>(b) Decision on which the warrant is based:<br>1. Arrest warrant or judicial decision having the same effect: ............................................................ .................................................<br>Type: ............................................................ ............................................................ .........................................................<br>2. Enforceable judgement: ............................................................ ............................................................ ..................................<br>............................................................ ............................................................ ............................................................ ......<br>Reference: ............................................................ ............................................................ ....................................................</td></tr></table>
+
+<table><tr><td>(c) Indications on the length of the sentence:<br>1. Maximum length of the custodial sentence or detention order which may be imposed for the offence(s):<br>............................................................ ............................................................ ............................................................ ...........<br>............................................................ ............................................................ ............................................................ ...........<br>2. Length of the custodial sentence or detention order imposed:<br>............................................................ ............................................................ ............................................................ ...........<br>Remaining sentence to be served: ............................................................ ............................................................ ....................<br>............................................................ ............................................................ ............................................................ ......<br>............................................................ ............................................................ ............................................................ ......</td></tr></table>
+
+<table><tr><td>(d) Decision rendered in absentia and:<br>— the person concerned has been summoned in person or otherwise informed of the date and place of the hearing which led to the decision rendered in absentia,<br>or<br>— the person concerned has not been summoned in person or otherwise informed of the date and place of the hearing which led to the decision rendered in absentia but has the following legal guarantees after surrender (such guarantees can be given in advance)<br>Specify the legal guarantees<br>............................................................ ............................................................ ............................................................ ...........<br>............................................................ ............................................................ ............................................................ ...........<br>............................................................ ............................................................ ............................................................ ...........</td></tr></table>
+
+<table><tr><td>(e) Offences:<br>This warrant relates to in total: ............................................................ ......... offences.<br>Description of the circumstances in which the offence(s) was (were) committed, including the time, place and degree of participation in the offence(s) by the requested person:<br>............................................................ ............................................................ ............................................................ ...........<br>............................................................ ............................................................ ............................................................ ...........<br>............................................................ ............................................................ ............................................................ ...........<br>Nature and legal classification of the offence(s) and the applicable statutory provision/code:<br>............................................................ ............................................................ ............................................................ ...........<br>............................................................ ............................................................ ............................................................ ...........<br>............................................................ ............................................................ ............................................................ ...........<br>............................................................ ............................................................ ............................................................ ...........<br>............................................................ ............................................................ ............................................................ ...........<br>1. If applicable, tick one or more of the following offences punishable in the issuing Member State by a custodial sentence or detention order of a maximum of at least 3 years as defined by the laws of the issuing Member State:<br>□ participation in a criminal organisation;<br>□ terrorism;<br>□ trafficking in human beings;<br>□ sexual exploitation of children and child pornography;<br>□ illicit trafficking in narcotic drugs and psychotropic substances;<br>□ illicit trafficking in weapons, munitions and explosives;<br>□ corruption;<br>□ fraud, including that affecting the financial interests of the European Communities within the meaning of the Convention of 26 July 1995 on the protection of European Communities' financial interests;<br>□ laundering of the proceeds of crime;<br>□ counterfeiting of currency, including the euro;<br>□ computer-related crime;<br>□ environmental crime, including illicit trafficking in endangered animal species and in endangered plant species and varieties;<br>□ facilitation of unauthorised entry and residence;<br>□ murder, grievous bodily injury;<br>□ illicit trade in human organs and tissue;<br>□ kidnapping, illegal restraint and hostage-taking;<br>□ racism and xenophobia;<br>□ organised or armed robbery;<br>□ illicit trafficking in cultural goods, including antiques and works of art;<br>□ swindling;<br>□ racketeering and extortion;<br>□ counterfeiting and piracy of products;<br>□ forgery of administrative documents and trafficking therein;<br>□ forgery of means of payment;<br>□ illicit trafficking in hormonal substances and other growth promoters;<br>□ illicit trafficking in nuclear or radioactive materials;<br>□ trafficking in stolen vehicles;<br>□ rape;<br>□ arson;<br>□ crimes within the jurisdiction of the International Criminal Court;<br>□ unlawful seizure of aircraft/ships;<br>□ sabotage.<br>II. Full descriptions of offence(s) not covered by section I above:<br>............................................................ ............................................................ ............................................................ ...........<br>............................................................ ............................................................ ............................................................ ...........</td></tr></table>
+
+<table><tr><td>(f) Other circumstances relevant to the case (optional information):<br><i>(NB: This could cover remarks on extraterritoriality, interruption of periods of time limitation and other consequences of the offence)</i><br>............................................................ ............................................................ ............................................................ ...........<br>............................................................ ............................................................ ............................................................ ...........</td></tr></table>
+
+<table><tr><td>(g) This warrant pertains also to the seizure and handing over of property which may be required as evidence:<br>This warrant pertains also to the seizure and handing over of property acquired by the requested person as a result of the offence:<br>Description of the property (and location) (if known):<br>............................................................ ............................................................ ............................................................ ......<br>............................................................ ............................................................ ............................................................ ......<br>............................................................ ............................................................ ............................................................ ......</td></tr></table>
+
+<table><tr><td>(h) The offence(s) on the basis of which this warrant has been issued is(are) punishable by/has(have) led to a custodial life sentence or lifetime detention order:<br>— the legal system of the issuing Member State allows for a review of the penalty or measure imposed — on request or at least after 20 years — aiming at a non-execution of such penalty or measure,<br>and/or<br>— the legal system of the issuing Member State allow for the application of measures of elemency to which the person is entitled under the law or practice of the issuing Member State, aiming at non-execution of such penalty of measure.</td></tr></table>
+
+<table><tr><td>(i) The judicial authority which issued the warrant:<br>Official name:<br>Name of its representative[^34]:<br>............................................................ ............................................................ ............................................................ ......<br>Post held (title/grade): ............................................................ ............................................................ ...................................<br>............................................................ ............................................................ ............................................................ ......<br>File reference: ............................................................ ............................................................ ...............................................<br>Address: ............................................................ ............................................................ .....................................................<br>Tel: (country code) (area/city code) (...) ............................................................ ............................................................ ............<br>Fax: (country code) (area/city code) (...) ............................................................ ............................................................ ............<br>E-mail: ............................................................ ............................................................ ......................................................<br>Contact details of the person to contact to make necessary practical arrangements for the surrender: ....................................................<br>............................................................ ............................................................ ............................................................ ......</td></tr></table>
+
+<table><tr><td>Where a central authority has been made responsible for the transmission and administrative reception of European arrest warrants:<br>Name of the central authority: ............................................................ ............................................................ .........................<br>............................................................ ............................................................ ............................................................ ......<br>Contact person, if applicable (title/grade and name): ............................................................ ........................................................<br>............................................................ ............................................................ ............................................................ ......<br>Address: ............................................................ ............................................................ ....................................................<br>............................................................ ............................................................ ............................................................ ......<br>Tel: (country code) (area/city code) (...) ............................................................ ............................................................ ............<br>Fax: (country code) (area/city code) (...) ............................................................ ............................................................ ............<br>E-mail: ............................................................ ............................................................ .......................................................</td></tr></table>
+
+<table><tr><td>Signature of the issuing judicial authority and/or its representative:<br>............................................................ ............................................................ ............................................................ ...........<br>Name: ............................................................ ............................................................ ............................................................ .<br>Post held (title/grade) ............................................................ ............................................................ .........................................<br>Date: ............................................................ ............................................................ ............................................................ .<br>Official stamp (if available)</td></tr></table>
+
+[^1]: OJ No. L190 of 18.7.2002, p.1
+[^2]: OJ No. L 292, 21.10.2006, p. 2
+[^3]: OJ No. 343, 28.11.2014, p. 1
+[^4]: O.J. No. L63, 6.3.2002, p.1.
+[^5]: OJ No. L 312, 7.12.2018, p. 56
+[^6]: OJ No. L 135, 22.5.2019, p. 85
+[^7]: OJ No. L 248, 13.7.2021, p. 1
+[^8]: OJ No. L 249, 14.7.2021, p. 1
+[^9]: OJ No. L 185, 12.7.2022, p. 1
+[^10]: OJ No. L 444, 31.12.2020, p. 14
+[^11]: <sup>(1)</sup> IO C 332 E, 27.11.2001, p.305.
+[^12]: <sup>(2)</sup> Opinion delivered on 9 January 2002.
+[^13]: <sup>(3)</sup> IO C E 12, 15.1.2001, Ich. 10.
+[^14]: <sup>(4)</sup> IO L 239, 22.9.2000, Ich. 19.
+[^15]: <sup>(5)</sup> IO C 78, 30.3.1995, lch. 2.
+[^16]: <sup>(6)</sup> IO C 313, 13.10.1996, lch. 12.
+[^17]: <sup>(7)</sup> IO C 364, 18.12.2000, lch. 1.
+[^18]: <sup>(8)</sup> Gníomh comhpháirteach 98/428/CGB an 29 Meitheamh 1998 ón gComhairle maidir le Líonra Breithiúnach Eorpach a chur ar bun (IO L 191, 7.7.1998, lch. 4).
+[^19]: <sup>(9)</sup> Cinneadh 2002/187/CGB ón gComhairle an 28 Feabhra 2002 ag cur Eurojust ar bun ar mhaithe leis an gcomhrac in aghaidh na coiriúlachta tromchúistí a athneartú (IO L 63, 6.3.2002, Ich. 1).
+[^20]: <sup>(1)</sup> Dáta an Treoirchinneadh seo a theacht i bhfeidhm.
+[^21]: <sup>(1)</sup> Ní Mór an barántas seo a scríobh i gceann de theangacha oifigiula an Stáit fhorghníomhaithigh nó a aistriú go ceann de theangacha oifigiúla an Stáit fhorghníomhaithigh, nuair is eol an Stát sin, nó aon teanga eile arna glacadh ag an Stát sin.
+[^22]: <sup>(1)</sup> Ní Mór an barántas seo a scríobh i gceann de theangacha oifigiula an Stáit fhorghníomhaithigh nó a aistriú go ceann de theangacha oifigiúla an Stáit fhorghníomhaithigh, nuair is eol an Stát sin, nó aon teanga eile arna glacadh ag an Stát sin.
+[^23]: <sup>(1)</sup> OJ C 332 E, 27.11.2001, p. 305.
+[^24]: <sup>(2)</sup> Opinion delivered on 9 January 2002 (not yet published in the Official Journal).
+[^25]: <sup>(3)</sup> OJ C 12 E, 15.1.2001, p. 10.
+[^26]: <sup>(4)</sup> OJ L 239, 22.9.2000, p. 19.
+[^27]: <sup>(5)</sup> OJ C 78, 30.3.1995, p. 2.
+[^28]: <sup>(6)</sup> OJ C 313, 13.10.1996, p. 12.
+[^29]: <sup>(1)</sup> OJ C 364, 18.12.2000, p. 1.
+[^30]: <sup>(1)</sup> Council Joint Action 98/428/JHA of 29 June 1998 on the creation of a European Judicial Network (OJ L 191, 7.7.1998, p. 4).
+[^31]: <sup>(1)</sup> Council Decision 2002/187/JHA of 28 February 2002 setting up Eurojust with a view to reinforcing the fight against serious crime (OJ L 63, 6.3.2002, p. 1).
+[^32]: <sup>(1)</sup> This warrant must be written in, or translated into, one of the official languages of the executing Member State, when that State is known, or any other language accepted by that State.
+[^33]: <sup>(1)</sup> In the different language versions a reference to the “holder” of the judicial authority will be included.
+[^34]: <sup>(1)</sup> In the different language versions a reference to the “holder” of the judicial authority will be included.

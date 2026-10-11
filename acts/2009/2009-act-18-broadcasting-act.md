@@ -1,0 +1,11026 @@
+---
+title: "Broadcasting Act 2009"
+identifier: "eli/2009/act/18"
+type: act
+jurisdiction: ie
+language: en
+number: 18
+year: 2009
+date: 2009-07-12
+last_amended: 2026-06-12
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2009/act/18/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2009/act/18/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Broadcasting Act 2009
+
+AN ACT TO REVISE THE LAW RELATING TO BROADCASTING SERVICES AND CONTENT AND FOR THAT PURPOSE TO ESTABLISH AN AUTHORITY TO BE KNOWN AS, IN THE ENGLISH LANGUAGE, THE BROADCASTING AUTHORITY OF IRELAND OR, IN THE IRISH LANGUAGE, ÚDARÁS CRAOLACHÁIN NA hÉIREANN, TO DISSOLVE THE BROADCASTING COMMISSION OF IRELAND AND THE BROADCASTING COMPLAINTS COMMISSION, TO AMEND AND REPEAL CERTAIN ENACTMENTS RELATING TO BROADCASTING, TO PROVIDE FOR MATTERS RELATING TO TELEVISION LICENCES, TO PROVIDE FOR THE REGULATION AND PROVISION OF TELECOMMUNICATIONS SERVICES AND TO PROVIDE FOR CONNECTED MATTERS.
+
+[12*th July*, 2009]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred and references to Broadcasting Authority of Ireland ("Authority") construed as Coimisiún na Meán ("Commission") (15.03.2023, establishment day) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 60, S.I. Nos. 71, 72 of 2023.
+>
+> **Transfer of functions**
+>
+> **60.** (1) On the establishment day all functions that immediately before the establishment day were vested in the Authority or the statutory committees are transferred to the Commission.
+>
+> (2) Unless otherwise provided, references to the Authority, or to the Broadcasting Commission of Ireland, in any Act of the Oireachtas passed before the establishment day, other than this Act, or in any instrument made before that day under an Act of the Oireachtas shall, on and after that day, be construed as references to the Commission.
+>
+> (3) Unless otherwise provided, references to the Contract Awards Committee or the Compliance Committee in any Act of the Oireachtas passed before the establishment day, other than this Act, or in an instrument made before that day under an Act of the Oireachtas shall, on and after that day, be construed as references to the Commission.
+>
+> C2: Name of Department and title of Minister changed from Communications, Energy and Natural Resources to Communications, Climate Action and Environment (23.07.2016) by *Communications, Energy and Natural Resources (Alteration of Name of Department and Title of Minister) Order 2016* (S.I. No. 421 of 2016). Functions transferred and references to Department of and Minister for Communications, Climate Action and Environment construed (23.09.2020) by *Broadcasting (Transfer of Departmental Administration and Ministerial Functions) Order 2020* (S.I. No. 372 of 2020), arts. 2 and 3 and sch. part 1, in operation as per art. 1(2), subject to transitional provisions in arts. 4-8. Note change of Department's name and Minister's title from Culture, Heritage and the Gaeltacht to Tourism, Culture, Arts, Gaeltacht, Sport and Media (30.09.2020) by *Culture, Heritage and the Gaeltacht (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 403 of 2020), in operation as per art. 1(2)..
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Culture, Heritage and the Gaeltacht.
+>
+> (2) References to the Department of Communications, Climate Action and Environment contained in any Act or any instrument made under an Act and relating to the administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Culture, Heritage and the Gaeltacht.
+>
+> 3\. (1) The functions vested in the Minister for Communications, Climate Action and Environment -
+>
+> (*a*) by or under any of the Acts specified in Part 1 of the Schedule, and
+>
+> (*b*) under the instruments specified in Part 2 of the Schedule,
+>
+> are transferred to the Minister for Culture, Heritage and the Gaeltacht.
+>
+> (2) References to the Minister for Communications, Climate Action and Environment contained in any Act or instrument made under an Act and relating to any functions transferred by this Article shall, from the commencement of this Order, be construed as references to the Minister for Culture, Heritage and the Gaeltacht.
+>
+> SCHEDULE
+>
+> Part 1
+>
+> *Article 3(1)(a)*
+>
+> ...
+>
+> Broadcasting Act 2009 (No. 18 of 2009), other than section 184
+>
+> ...
+>
+> C3: Application of collectively cited *Wireless Telegraphy Acts* restricted (6.06.2016) by *European Union (Radio Equipment) Regulations 2017* (S.I. No. 248 of 2017), reg. 46(2).
+>
+> *Application of the Wireless Telegraphy Act, 1926*
+>
+> 46\. (1) Notwithstanding section 3 (1) of the Wireless Telegraphy Act, 1926, a person shall not be required to hold a licence under that Act to keep or have in his or her possession any apparatus for wireless telegraphy solely for the purpose of placing that apparatus on the market, within the meaning of the Directive.
+>
+> (2) Nothing in the Wireless Telegraphy Acts, 1926 to 1988, shall operate to restrict or prevent any person from working or using an apparatus for wireless telegraphy, which is lawfully in their possession, or which is otherwise in compliance with the licensing requirements of those Acts for its intended purpose where it complies with the provisions of the Directive, save where such restriction or prevention is related to the effective and appropriate use of the radio frequency spectrum, avoidance of harmful interference or matters relating to public health.
+>
+> C4: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in operation as per art. 1(2), subject to transitional provisions.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>...<br>No. 18 of 2009<br>...</td><td>...<br>Broadcasting Act 2009<br>...</td><td>...<br>Sections 10, 17(2), 34, 36(3), 37, 55(7), 61(4), 67(10), 69(13), 97, 104, 122(3), 123, 144(3), 149(5), 156 and 159<br>...</td></tr></table>
+>
+> C5: Functions transferred and references to “Minister” and “Department of Finance” construed (6.07.2011) by *Ministers and Secretaries (Amendment) Act 2011* (10/2011), ss. 7, 9, 11, 15, 20 and sch. 2 part 1, commenced as per s. 1(2).
+>
+> **Department of Public Expenditure and Reform**.
+>
+> **7**.— (1) There shall stand established on the appointed day a Department of State to be known, in the Irish language, as an Roinn Caiteachais Phoiblí agus Athchóirithe or, in the English language, as the Department of Public Expenditure and Reform.
+>
+> (2) The member of the Government who is in charge of the Department of Public Expenditure and Reform—
+>
+> (*a*) shall be known, in the Irish language, as an tAire Caiteachais Phoiblí agus Athchóirithe or, in the English language, as the Minister for Public Expenditure and Reform, and
+>
+> (*b*) is, in this Act, referred to as the “Minister”.
+>
+> ...
+>
+> **Transfer of certain other functions to Minister**.
+>
+> **9**.— ...
+>
+> (2) The functions conferred on the Minister for Finance by or under any of the provisions specified in Part 1 of Schedule 2 are transferred to the Minister.
+>
+> ...
+>
+> **Transfer of administration and business of Department of Finance**.
+>
+> **11**.— (1) The administration and business in connection with the performance of the functions transferred by sections 8 and 9 are hereby transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any statute or instrument under a statute in so far as they relate to the administration and business transferred by subsection (1) shall, from the appointed day, be construed as references to the Department of Public Expenditure and Reform.
+>
+> ...
+>
+> **Construction of references**
+>
+> **15**.— (1) References to the Minister for Finance contained in any statute or instrument under a statute in so far as they relate to any function transferred by this Act shall, from the appointed day, be construed as references to the Minister.
+>
+> ...
+>
+> **Performance of certain functions transferred to Minister by section 9.**
+>
+> **20**.— (1) The Minister shall not perform a function transferred by subsection (2) of section 9 without the consent of the Minister for Finance.
+>
+> ...
+>
+> SCHEDULE 2
+>
+> Functions Transferred To Minister
+>
+> ...
+>
+> PART 1
+>
+> Functions performable with consent of Minister for Finance
+>
+> STATUTES
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 18 of 2009</td><td>Broadcasting Act 2009</td><td>Sections 35 and 107</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+## PART 1 Preliminary and General matters — PART 1 — Preliminary and General matters
+
+### 1. Short title.
+
+**1**.— This Act may be cited as the Broadcasting Act 2009.
+
+### 2. Definitions.
+
+**2**.— F1[(1)] In this Act—
+
+“Act of 1926” means Wireless Telegraphy Act 1926;
+
+“Act of 1972” means Wireless Telegraphy Act 1972;
+
+“Act of 1988” means Broadcasting and Wireless Telegraphy Act 1988;
+
+“Act of 1998” means Referendum Act 1998;
+
+“Act of 2001” means Broadcasting Act 2001;
+
+F2[“advertisement” includes a commercial communication;
+
+“audiovisual broadcasting service” means an audiovisual media service provided for simultaneous or near-simultaneous viewing of audiovisual programmes on the basis of a programme schedule;
+
+“audiovisual commercial communication” means a commercial communication consisting of images with or without sound F3[, including sponsorship and product placement];
+
+F6["audiovisual media service" means:
+
+(*a*) a service, within the meaning of Articles 56 and 57 of the Treaty on the Functioning of the European Union, where -
+
+(i) the principal purpose of the service is devoted to, or
+
+(ii) the principal purpose of a dissociable section of the service is devoted to,
+
+providing audiovisual programmes, by electronic communications networks, to the general public, under the editorial responsibility of the provider of the service, in order to inform, entertain or educate, or
+
+(*b*) an audiovisual commercial communication;]
+
+“audiovisual on-demand media service” means an audiovisual media service provided for the viewing of programmes at the moment chosen by the user and at the user’s request on the basis of a catalogue of programmes selected by the provider of the service;
+
+“audiovisual programme” means a set of moving images with or without sound which, in the case of an audiovisual media service, constitutes an individual item, irrespective of its length, within a programme schedule or a catalogue;]
+
+“Authority” means Broadcasting Authority of Ireland;
+
+F7[...]
+
+“BCI” means Broadcasting Commission of Ireland;
+
+“broadcast” means the transmission, relaying or distribution by electronic communications network of communications, sounds, signs, visual images or signals, intended for direct reception by the general public whether such communications, sounds, signs, visual images or signals are actually received or not;
+
+“broadcaster” means a person who supplies a compilation of programme material for the purpose of its being transmitted, relayed or distributed as a broadcasting service (whether that person transmits, relays or distributes that material as such a service or not);
+
+F7[...]
+
+“broadcasting contract” means a contract entered into under *section 63*, *64* , *68* or *70* ;
+
+“broadcasting contractor” means a person holding a broadcasting contract;
+
+F7[...]
+
+*“*broadcasting service” means a service which comprises a compilation of programme material of any description and which is transmitted, relayed or distributed by means of an electronic communications network, directly or indirectly for simultaneous or near-simultaneous reception by the general public, whether that material is actually received or not, and where the programmes are provided in a pre-scheduled and linear order, but does not include:
+
+(*a*) a service provided in a non-linear manner where each user of the service chooses a programme from a catalogue of programmes, or
+
+F8[(*b*) any other service which is provided by way of the internet, if the service does not provide audiovisual programmes;]
+
+F2[“category 1 offence” means an offence the penalties for which are specified in *section 139ZZH(1)*;
+
+“category 2 offence” means an offence the penalties for which are specified in *section 139ZZH(2)*;
+
+“category 3 offence” means an offence the penalties for which are specified in *section 139ZZH(3)*;
+
+“Charter” means the Charter of Fundamental Rights of the European Union;]
+
+“children” means persons under the age of 18 years;
+
+F2[“commercial communication” means images or sound or both—
+
+(*a*) designed to promote, directly or indirectly, the goods, services or image of a person pursuing an economic activity, and
+
+(*b*) included in or accompanying a programme or user-generated content in return for payment or for similar consideration or for self-promotional purposes;
+
+“Commissioner” has the meaning given by *section 11(2)*;]
+
+“Communications Regulator” means Commission for Communications Regulation;
+
+F8[“communications media” means—
+
+(*a*) broadcasting services,
+
+(*b*) audiovisual on-demand media services,
+
+(*c*) designated online services, or
+
+(*d*) newspapers or periodicals consisting substantially of news and comment on current affairs;]
+
+“community broadcaster” means a person holding a contract under *sections 64*, *68(1)(b)* or *72*;
+
+“community of interest” means a group of persons with a shared interest, association or bond;
+
+F7[...]
+
+“content provision contract” has the meaning assigned to it in *section 71*;
+
+F7[...]
+
+“corporation” means RTÉ or TG4 or both, as the case may be;
+
+“Council Directive” means Council Directive 89/552/EEC of 3 October 1989[^1] on the co-ordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the pursuit of television broadcasting activities as amended by Directive 97/36/EC of the European Parliament and of the Council of 30 June 1997[^2] and by Directive 2007/65/EC of the European Parliament and of the Council of 11 December 2007[^3];
+
+F2[“Data Protection Regulation” means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016[^4] on the protection of natural persons with regard to the processing of personal data and on the free movement of such data and repealing Directive 95/46/EC (General Data Protection Regulation);
+
+“designated online service” means a service designated under *section 139E*;
+
+F9[“Digital Services Regulation” means Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022[^5]on a Single Market For Digital Services and amending Directive 2000/31/EC (Digital Services Act);]
+
+“Directive” means Directive 2010/13/EU of the European Parliament and of the Council of 10 March 2010[^6] on the coordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the provision of audiovisual media services, as amended by Directive (EU) 2018/1808 of the European Parliament and of the Council of 14 November 2018[^7];]
+
+“director general” means a person appointed as the director general of a corporation under *section 89 (1)*;
+
+F2[“E-Commerce Directive” means Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000[^8] on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market;
+
+“editorial responsibility”, in relation to providing programmes, means effective control—
+
+(*a*) over the selection of the programmes, and
+
+(*b*) over their organisation in a programme schedule or in a catalogue;]
+
+F10[“electronic communications network” means transmission systems, whether or not based on a permanent infrastructure or centralised administration capacity, and, where applicable, switching or routing equipment and other resources, including network elements which are not active, which permit the conveyance of signals by wire, radio, optical or other electromagnetic means, including satellite networks, fixed (circuit- and packet-switched, including internet) and mobile networks, electricity cable systems, to the extent that they are used for the purpose of transmitting signals, networks used for radio and television broadcasting, and cable television networks, irrespective of the type of information conveyed;]
+
+“EEA Agreement” has the meaning assigned to it in the European Communities (Amendment) Act 1993;
+
+F7[...]
+
+F7[...]
+
+F11[“EMFA” means Regulation (EU) 2024/1083 of the European Parliament and of the Council of 11 April 2024[^9] establishing a common framework for media services in the internal market and amending Directive 2010/13/EU (European Media Freedom Act);]
+
+F8[“employment” includes—
+
+(*a*) full-time paid employment,
+
+(*b*) part-time paid employment,
+
+(*c*) temporary paid employment for a period of 16 weeks or more in the period of a year, or
+
+(*d*) being retained under contract, directly or indirectly, in any capacity as an adviser, consultant or lobbyist, or for the provision of services;]
+
+F8[“establishment day” means the day appointed by the Minister under *section 5* to be the establishment day for the purposes of this Act;]
+
+F7[...]
+
+“exploitation of commercial opportunities object” means an activity undertaken by a corporation in pursuance of *paragraph (j)* of *section 114(1)* or *paragraph (i)* of *section 118(1)*;
+
+“free-to-air service” means a broadcasting service for the reception of which no charge is made by the person providing the service;
+
+F2[“harmful online content” has the meaning given by *section 139A(1)*;]
+
+“holder” means—
+
+(*a*) in relation to a contract entered into under this Act, the person with whom the Authority has entered into the contract,
+
+(*b*) in relation to a licence granted under this Act or any other enactment, the person to whom the licence has been granted;
+
+“holding company” has the same meaning as in the F8[Companies Act 2014];
+
+F12["hosting service provider" has the same meaning as it has in the Terrorist Content Online Regulation;]
+
+F7[...]
+
+F9[“intermediary service provider” means a provider of intermediary services;]
+
+“Joint Oireachtas Committee” means a Joint Committee of the Houses of the Oireachtas to which those Houses have assigned the role of examining matters F8[to which this Act relates];
+
+“local community” means the community of a town or other urban or rural area;
+
+F8[“media literacy” means public understanding of material published in print, broadcast, online or other media, including understanding of—
+
+(*a*) the nature and characteristics of published material,
+
+(*b*) how material is selected, or made available, for publication,
+
+(*c*) how individuals and communities can create and publish material, and
+
+(*d*) how access to published material is or can be regulated;]
+
+F2[“media service code”means a code made under *section 46N*;
+
+“media service provider”means a person who provides an audiovisual media service;
+
+“media service rules” means rules made under *section 46O*;]
+
+“Member State” includes a state that is a contracting state to the EEA Agreement;
+
+F9[“Member State competent authority” means an authority that is designated by a Member State (other than the State) as a competent authority for the purposes of Article 49(1) of the Digital Service Regulation;]
+
+F9[“Member State Digital Services Coordinator” means an authority that is designated by a Member State (other than the State) as a Digital Services Coordinator for the purposes of Article 49(2) of the Digital Service Regulation;]
+
+“Minister” means Minister for Communications, Energy and Natural Resources;
+
+F7[...]
+
+“multiplex” has the meaning assigned to it by *section 129*;
+
+“multiplex contractor” means the holder of a contract entered into under *section 131*;
+
+“multiplex licence” has the meaning assigned to it by *section 129*;
+
+“national emergency” means an emergency declared under section 10 of the Act of 1926;
+
+F2[“online safety code” means a code made under *section 139K*;
+
+“Online Safety Commissioner” means a Commissioner designated under *section 11(7)* as an Online Safety Commissioner;]
+
+F7[...]
+
+F2[“personal data” has the same meaning as it has in the Data Protection Regulation;]
+
+F4["product placement" means any form of audiovisual commercial communication consisting of the inclusion of, or reference to, a product, a service or the trade mark thereof so that it is featured within a programme or a user-generated video, in return for payment or for similar consideration;]
+
+F2[“programme”means a sound programme or audiovisual programme;]
+
+“programme material” F2[(subject to *section 153*)] means audio-visual material or audio material and includes advertisements F7[...];
+
+F2[“programme schedule” means a chronological schedule of audiovisual or sound programmes;]
+
+“provide a broadcasting service” means to supply a compilation of programme material for the purpose of its being transmitted, relayed or distributed as a broadcasting service;
+
+F2[“provider of communications media” means—
+
+(*a*) in the case of a broadcasting service, the broadcaster of the service,
+
+(*b*) in the case of an audiovisual on-demand media service, the media service provider who provides the service,
+
+(*c*) in the case of a designated online service, the person who controls the service, and
+
+(*d*) in the case of newspapers or periodicals consisting substantially of news and comment on current affairs, the person who controls the newspaper or periodical;]
+
+“public service broadcaster” means RTÉ, TG4, the Houses of the Oireachtas Channel and the Irish Film Channel;
+
+“public service broadcasting licence” means a licence issued under *section 121*;
+
+“public service objects” shall mean an activity undertaken by a corporation in pursuance of *paragraphs (a)* to *(i)* of *section 114 (1)* or *paragraphs (a)* to *(h)* of *section 118 (1)*;
+
+“Raidió Teilifís Éireann” means the authority established under section 3 of the Broadcasting Authority Act 1960;
+
+F2[“relevant online service” means—
+
+(*a*) a video-sharing platform service the provider of which is under the jurisdiction of the State, or
+
+(*b*) any other information society service, within the meaning of Article 1(1)(b) of Directive (EU) 2015/1535 of the European Parliament and of the Council of 9 September 2015[^10]—
+
+(i) the provider of which is under the jurisdiction of the State, and
+
+(ii) on which user-generated content is made available (directly or through providing access to another service),
+
+but does not include an audiovisual on-demand media service;]
+
+“RTÉ” means Raidió Teilifís Éireann;
+
+“sectoral” means pertaining to the provision of broadcasting and broadcasting related services;
+
+F8[“sound broadcasting service” means a service, within the meaning of Articles 56 and 57 of the Treaty on the Functioning of the European Union, where—
+
+(*a*) the principal purpose of the service is devoted to providing sound programmes, by electronic communications networks, to the general public, under the editorial responsibility of the provider of the service, in order to inform, entertain or educate, and
+
+(*b*) the service is provided for simultaneous or near-simultaneous listening to sound programmes on the basis of a programme schedule;]
+
+F5["sponsorship" means any contribution made by a public or private undertaking or natural person not engaged in providing audiovisual media services or video-sharing platform services or in producing audiovisual works to the financing of audiovisual media services, video-sharing platform services, user-generated videos or programmes with a view to promoting the name, trade mark, image, activities or products of the undertaking or person.]
+
+“statutory committee” means the Contract Awards Committee or the Compliance Committee or both, as the case may be;
+
+“subscription or pay-per-view basis”, in relation to the making available of a broadcasting service, means any basis for making a charge on a person in respect of the reception by him or her of a broadcasting service, and includes the basis of making such a charge by reference to the number of items of programme material viewed by him or her;
+
+“subsidiary” has the same meaning as in the F8[Companies Act 2014];
+
+“superannuation benefits” means pensions, gratuities or other allowances payable on resignation, retirement or death;
+
+“Teilifís na Gaeilge” means the body established by section 44 of the Act of 2001;
+
+“TG4” means Teilifís na Gaeilge;
+
+“television programme service” means a service which comprises a compilation of audio-visual programme material of any description and is transmitted, distributed or relayed by means of wireless telegraphy directly or indirectly for reception by the general public;
+
+“television programme service contract” and “television programme service contractor” have the same meaning as they have in *section 70*;
+
+“television licence fees” means a fee paid on a licence granted under *section 143* in respect of a television set (within the meaning of *section 140*);
+
+“terrestrial means”, in relation to the transmission of a broadcasting service, means any means of transmitting such a service by wireless telegraphy, other than by means of F7[...] a satellite device and “digital terrestrial means” shall be read accordingly;
+
+F13["Terrorist Content Online Regulation" means Regulation (EU) 2021/784 of the European Parliament and of the Council of 29 April 2021[^11] on addressing the dissemination of terrorist content online;]
+
+F7[...]
+
+F2[“user-generated content”, in relation to a relevant online service, means content created by a user of the service and uploaded to the service by that or another user;
+
+“user-generated video” means user-generated content consisting of a set of moving images with or without sound;
+
+“video-sharing platform service” has the meaning given by *subsections (2)* and *(3)*;]
+
+F7[...]
+
+“wireless telegraphy” has the same meaning as in the Act of 1926.
+
+F2[(2) In this Act, “video-sharing platform service” means, subject to *subsection (3)*, a service, within the meaning of Articles 56 and 57 of the Treaty on the Functioning of the European Union, where—
+
+(*a*) the principal purpose of the service is devoted to,
+
+(*b*) the principal purpose of a dissociable section of the service is devoted to, or
+
+(*c*) an essential functionality of the service is devoted to,
+
+providing audiovisual programmes or user-generated videos, or both, by electronic communications networks, to the general public, in order to inform, entertain or educate.
+
+(3) A service is a video-sharing platform service within *subsection (2)* only if the provider of the service—
+
+(*a*) does not have effective control over the selection of the programmes and videos referred to in that subsection, but
+
+(*b*) determines their organisation, by automatic means or algorithms (including displaying, tagging and sequencing) or otherwise.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 3(1), S.I. No. 71 of 2023.
+>
+> F2: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 3(2)(a), (c), (d), (f), (g), (j), (n), (o), (p), (q)(i), (r), (s), (t), (x), (3), S.I. No. 71 of 2023.
+>
+> F3, F4, F5: Inserted (22.10.2024) by *European Union (Audiovisual Media Services) Regulations 2024* (S.I. No. 557 of 2024), reg. 3(a), (c), (d).
+>
+> F6: Substituted (22.10.2024) by *European Union (Audiovisual Media Services) Regulations 2024* (S.I. No. 557 of 2024), reg. 3(b).
+>
+> F7: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 3(2)(q)(ii), (w), (y), S.I. No. 71 of 2023.
+>
+> F8: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 3(2)(b), (e), (h), (i), (k), (l), (m), (u), (v), S.I. No. 71 of 2023.
+>
+> F9: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 7, S.I. No. 53 of 2024.
+>
+> F10: Substituted (27.09.2024) by *Courts, Civil Law, Criminal Law and Superannuation (Miscellaneous Provisions) Act 2024* (30/2024), s. 16(a), S.I. No. 486 of 2024.
+>
+> F11: Inserted (8.02.2025) by *European Union (Media Freedom Act) Regulations 2025* (S.I. No. 22 of 2025), reg. 4(a), in operation as per reg. 1(2).
+>
+> F12, F13: Inserted (27.09.2024) by *Courts, Civil Law, Criminal Law and Superannuation (Miscellaneous Provisions) Act 2024* (30/2024), s. 16(b), S.I. No. 486 of 2024.
+>
+> **Modifications (not altering text):**
+>
+> C6: Functions transferred and references to Broadcasting Authority of Ireland ("Authority") construed as Coimisiún na Meán ("Commission") (15.03.2023, establishment day) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 60, S.I. Nos. 71, 72 of 2023.
+>
+> **Transfer of functions**
+>
+> **60.** (1) On the establishment day all functions that immediately before the establishment day were vested in the Authority or the statutory committees are transferred to the Commission.
+>
+> (2) Unless otherwise provided, references to the Authority, or to the Broadcasting Commission of Ireland, in any Act of the Oireachtas passed before the establishment day, other than this Act, or in any instrument made before that day under an Act of the Oireachtas shall, on and after that day, be construed as references to the Commission.
+>
+> (3) Unless otherwise provided, references to the Contract Awards Committee or the Compliance Committee in any Act of the Oireachtas passed before the establishment day, other than this Act, or in an instrument made before that day under an Act of the Oireachtas shall, on and after that day, be construed as references to the Commission.
+>
+> C7: Name of Department and title of Minister changed from Communications, Energy and Natural Resources to Communications, Climate Action and Environment (23.07.2016) by *Communications, Energy and Natural Resources (Alteration of Name of Department and Title of Minister) Order 2016* (S.I. No. 421 of 2016). Functions transferred and references to Department of and Minister for Communications, Climate Action and Environment construed (23.09.2020) by *Broadcasting (Transfer of Departmental Administration and Ministerial Functions) Order 2020* (S.I. No. 372 of 2020), arts. 2 and 3 and sch. part 1, in operation as per art. 1(2), subject to transitional provisions in arts. 4-8. Note change of Department's name and Minister's title to Tourism, Culture, Arts, Gaeltacht, Sport and Media (30.09.2020) by *Culture, Heritage and the Gaeltacht (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 403 of 2020), in operation as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Culture, Heritage and the Gaeltacht.
+>
+> (2) References to the Department of Communications, Climate Action and Environment contained in any Act or any instrument made under an Act and relating to the administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Culture, Heritage and the Gaeltacht.
+>
+> 3\. (1) The functions vested in the Minister for Communications, Climate Action and Environment -
+>
+> (*a*) by or under any of the Acts specified in Part 1 of the Schedule, and
+>
+> (*b*) under the instruments specified in Part 2 of the Schedule,
+>
+> are transferred to the Minister for Culture, Heritage and the Gaeltacht.
+>
+> (2) References to the Minister for Communications, Climate Action and Environment contained in any Act or instrument made under an Act and relating to any functions transferred by this Article shall, from the commencement of this Order, be construed as references to the Minister for Culture, Heritage and the Gaeltacht.
+>
+> SCHEDULE
+>
+> Part 1
+>
+> *Article 3(1)(a)*
+>
+> ...
+>
+> Broadcasting Act 2009 (No. 18 of 2009), other than section 184
+>
+> ...
+
+### 2A. Meaning of “under the jurisdiction of the State”: media service providers.
+
+F14[**2A**.— (1) For the purposes of this Act, the question whether a media service provider is under the jurisdiction of the State (or another Member State) is to be determined in accordance with this section.
+
+(2) A media service provider is under the jurisdiction of a Member State if under *subsection (5)* it is established in that state.
+
+(3) If a media service provider is not, under *subsection (5)*, established in a Member State, then the provider is under the jurisdiction of a Member State if—
+
+(*a*) it uses a satellite up-link situated in that state, or
+
+(*b*) it uses satellite capacity appertaining to that state.
+
+(4) If *subsections (2)* and *(3)* do not determine the question in relation to a media service provider, then the provider is under the jurisdiction of the Member State in which it is established within the meaning of Articles 49 to 55 of the Treaty on the Functioning of the European Union.
+
+(5) The following provisions apply to a media service provider for the purposes of *subsections (2)* and *(3)*:
+
+(*a*) if the provider has its head office in a Member State, and the relevant editorial decisions are taken in the same Member State, the provider is established in that Member State;
+
+(*b*) if the provider has its head office in a Member State, and the relevant editorial decisions are taken in another Member State, then—
+
+(i) if a significant part of the workforce involved in the pursuit of the programme-related audiovisual media service activity operates in the Member State where the provider has its head office, the provider is established in that Member State,
+
+(ii) if *subparagraph (i)* does not apply but a significant part of the workforce involved in the pursuit of the programme-related audiovisual media service activity operates in the Member State where relevant editorial decisions are taken, the provider is established in that Member State, and
+
+(iii) if neither *subparagraph (i)* nor *subparagraph (ii)* applies, the provider is established in the Member State where it first began its activity in accordance with the law of that Member State, provided that it maintains a stable and effective link with the economy of that Member State;
+
+(*c*) if the place where the provider has its head office and the place where the relevant editorial decisions are taken are different, and only one of them is in a Member State, the provider is established in that Member State, provided that a significant part of the workforce involved in the pursuit of the audiovisual media service activity operates in that Member State.
+
+(6) In this section—
+
+“audiovisual media service activity” means activity relating to the audiovisual media service concerned;
+
+“relevant editorial decisions” means editorial decisions about the audiovisual media service concerned.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F14: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 4, S.I. No. 71 of 2023.
+>
+> **Editorial Notes:**
+>
+> E1: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 2B. Meaning of “under the jurisdiction of the State”: providers of video-sharing platform services.
+
+F15[**2B**.— (1) For the purposes of this Act, the question whether the provider of a video-sharing platform service is under the jurisdiction of the State (or another Member State) is to be determined in accordance with this section.
+
+(2) The provider of a video-sharing platform service is under the jurisdiction of a Member State if the provider is established in the territory of that state.
+
+(3) If the provider of a video-sharing platform service is not established in a Member State, then the provider is under the jurisdiction of a Member State if—
+
+(*a*) it has a parent undertaking or a subsidiary undertaking that is established in the territory of that state, or
+
+(*b*) it is part of a group, and another undertaking of that group is established in the territory of that state.
+
+(4) For the purposes of *subsection (3)*, if in the provider’s case there are different undertakings (parent undertaking, subsidiary undertakings, or other undertakings in the same group) that are established in different Member States, the provider shall be deemed to be established—
+
+(*a*) if it has a parent undertaking that is established in a Member State, in that Member State,
+
+(*b*) if *paragraph (a)* does not apply but it has a subsidiary undertaking established in a Member State, in that Member State, and
+
+(*c*) if *paragraphs (a)* and *(b)* do not apply but another undertaking in the group is established in a Member State, in that Member State.
+
+(5) If *subsection (4)(b)* applies but there are different subsidiary undertakings established in different Member States, the provider shall be deemed to be established in the Member State where one of the subsidiary undertakings first began its activity, provided that it maintains a stable and effective link with the economy of that Member State.
+
+(6) If *subsection (4)(c)* applies but there are different undertakings in the group established in different Member States, the provider shall be deemed to be established in the Member State where one of the undertakings first began its activity, provided that it maintains a stable and effective link with the economy of that Member State.
+
+(7) In this section—
+
+(*a*) “established” has the same meaning as in Article 3(1) of the E‑Commerce Directive;
+
+(*b*) “parent undertaking” means an undertaking that controls one or more subsidiary undertakings;
+
+(*c*) “subsidiary undertaking” means an undertaking controlled by a parent undertaking, including any subsidiary undertaking of an ultimate parent undertaking;
+
+(*d*) “group” means a parent undertaking, all its subsidiary undertakings and all other undertakings having economic and legal organisational links to them.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F15: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 5, S.I. No. 71 of 2023.
+>
+> **Editorial Notes:**
+>
+> E2: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 2C. Meaning of “under the jurisdiction of the State”: providers of other services that may be relevant online services.
+
+F16[**2C**.— (1) For the purposes of this Act, the provider of an information society service, other than a provider to whom *section 2A* or *2B* applies, is under the jurisdiction of the State if the provider of the service is established in the State within the meaning of Article 3(1) of the E‑Commerce Directive.
+
+(2) In this section “information society service” has the same meaning as in Article 1(1)(b) of Directive (EU) 2015/1535 of the European Parliament and of the Council of 9 September 2015[^12].]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F16: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 6, S.I. No. 71 of 2023.
+>
+> **Editorial Notes:**
+>
+> E3: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 2D. Procedure for giving notices.
+
+F17[**2D**.— (1) Where a provision of this Act provides for a notice to be given to a person, the notice shall be given in one of the following ways:
+
+(*a*) by delivering it to the person (where the person is an individual);
+
+(*b*) by leaving it addressed to the person at a relevant address;
+
+(*c*) by sending it, addressed to the person, to a relevant address by pre‑paid registered post or other pre-paid recorded delivery service;
+
+(*d*) by sending it to the person by electronic means in accordance with *subsection (5)*.
+
+(2) *Subsection (1)* does not apply to a notice under *section 147*, a reminder notification or fixed payment notice under *section 149*, or a notification under *Part 11*.
+
+(3) In *subsection (1)(b)* and *(c)*, “relevant address” means any of the following:
+
+(*a*) the address at which the person ordinarily resides;
+
+(*b*) an address at which the person carries on business;
+
+(*c*) a postal address at which the person has agreed in writing to receive notices under this Act.
+
+(4) For the purposes of *subsection (3)(a)*, a company registered under the Companies Act 2014, or an existing company within the meaning of that Act, is deemed to be ordinarily resident at its registered office, and every other body corporate and every unincorporated body is deemed to be ordinarily resident at its principal office or place of business.
+
+(5) For the purposes of *subsection (1)(d)*, a notice is sent to a person by electronic means in accordance with this subsection if—
+
+(*a*) it is sent to an email address, fax number, or other electronic contact point, at which the person has agreed in writing to receive notices under this Act, and
+
+(*b*) a record that the email, fax, or other electronic message has been sent is made for the sender by the email system, fax machine, or other electronic system used.
+
+(6) A notice to which *subsection (1)* applies—
+
+(*a*) if given in accordance with *subsection (1)(a)*, is given at the time when it is delivered,
+
+(*b*) if given in accordance with *subsection (1)(b)*, is given at the time when it is left at the relevant address,
+
+(*c*) if given in accordance with *subsection (1)(c)*, is deemed, unless the contrary is proved, to be given at the time when it would be delivered in the ordinary course of the post or other service used, and
+
+(*d*) if given in accordance with *subsection (1)(d)*, is deemed, unless the contrary is proved, to be given at the time stated in the record referred to in *subsection (5)(b)*.
+
+(7) In this section, “notice” includes notification.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F17: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 7, S.I. No. 71 of 2023.
+>
+> **Editorial Notes:**
+>
+> E4: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 3. Repeals.
+
+**3**.— The enactments mentioned in *Schedule 1* are repealed to the extent specified in the *third column* of *Schedule 1*.
+
+### 4. Expenses.
+
+**4**.— The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of monies provided by the Oireachtas.
+
+## PART 2 Broadcasting Authority of Ireland — F18[PART 2 — Coimisiún na Meán
+
+### 5. Establishment day.
+
+**5**.— The Minister shall, by order, appoint a day to be the establishment day for the purposes of this Act.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F18: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+>
+> **Editorial Notes:**
+>
+> E5: Power pursuant to section exercised (15.03.2023) by *Broadcasting Act 2009 (Establishment Day) Order 2023* (S.I. No. 72 of 2023).
+>
+> 2\. The 15th day of March 2023 is appointed to be the establishment day for the purposes of the Broadcasting Act 2009 (No. 18 of 2009).
+>
+> E6: Previous affecting provision: power pursuant to section exercised (1.10.2009) by *Broadcasting Authority of Ireland (Establishment Day) Order 2009* (S.I. No. 389 of 2009); section substituted as per F-note above.
+
+### 6. Establishment of Commission.
+
+F19[**6**.— (1) There shall stand established on the establishment day a body which shall be known as Coimisiún na Meán (in this Act referred to as the “Commission”).
+
+(2) The Commission—
+
+(*a*) is a body corporate with perpetual succession and a seal,
+
+(*b*) may sue and be sued in its corporate name,
+
+(*c*) may, with the approval of the Minister, given with the consent of the Minister for Public Expenditure and Reform, acquire, hold and dispose of land or an interest in land, and
+
+(*d*) may acquire, hold and dispose of any other property.
+
+(3) The seal of the Commission must be authenticated by the signature of—
+
+(*a*) a Commissioner, or
+
+(*b*) a member of the staff of the Commission, authorised by the Commission to act in that behalf.
+
+(4) Any contract or instrument which, if entered into or executed by an individual, would not require to be under seal may be entered into or executed on behalf of the Commission by any person generally or specially authorised by the Commission in that behalf.
+
+(5) Judicial notice shall be taken of the seal of the Commission and any document purporting to be an instrument made by, and to be sealed with the seal of, the Commission shall, unless the contrary is shown, be received in evidence and be deemed to be such an instrument without further proof.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F19: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+
+### 7. Powers and functions of Commission.
+
+F20[**7**.— (1) The Commission shall have all such powers as are necessary or expedient for the performance of its functions and shall ensure that its functions are performed effectively and efficiently.
+
+(2) In performing its functions the Commission shall endeavour to ensure—
+
+(*a*) that the democratic values enshrined in the Constitution, especially those relating to rightful liberty of expression, are upheld,
+
+(*b*) that the interests of the public, including the interests of children, are protected, with particular commitment to the safety of children,
+
+(*c*) that the broadcasting services and audiovisual on-demand media services available in the State are open, inclusive and pluralistic, and that the Commission’s policies in relation to those services best serve the needs of the people of the island of Ireland, bearing in mind—
+
+(i) their languages and traditions,
+
+(ii) their experiences, and the experiences of people of Irish ancestry living abroad,
+
+(iii) their diversity, including religious, ethical, cultural, linguistic, socio-economic, and gender diversity,
+
+(iv) their levels of participation in those services and their levels of representation in programmes on those services, and
+
+(v) as regards people with disabilities, their requirements for accessibility to those services,
+
+and
+
+(*d*) that regulatory arrangements—
+
+(i) address programme material, user-generated content, and other content, which are harmful or illegal,
+
+(ii) take account of technological and societal change, and
+
+(iii) operate proportionately, consistently and fairly.
+
+(3) Without prejudice to the generality of *subsection (2)*, the Commission shall—
+
+(*a*) stimulate the provision of high quality, diverse, and innovative programmes by providers of broadcasting services and audiovisual on-demand media services,
+
+(*b*) endeavour to ensure diversity and transparency in the control of communications media operating in the State,
+
+(*c*) promote and encourage the use of the Irish language by communications media operating in the State,
+
+(*d*) provide a regulatory environment that will sustain independent and impartial journalism,
+
+(*e*) promote and stimulate the development of—
+
+(i) programmes in the Irish language, and
+
+(ii) programmes relating to climate change and environmental sustainability,
+
+(*f*) promote and encourage environmental sustainability in the policies and practices of providers of broadcasting services, audiovisual on‑demand media services, and relevant online services,
+
+(*g*) encourage research, promote or endorse educational and training initiatives and activities, including in media literacy, and co-operate for that purpose with educational and training bodies, sporting bodies and community, local and representative bodies, and otherwise promote public awareness, knowledge and understanding, in relation to matters connected to its functions,
+
+(*h*) engage in evidence-based decision-making in the exercise of its functions, and promote evidence-based decision-making by those with which it consults, and
+
+(*i*) encourage compliance with the provisions of this Act, and the provisions of any code, rule or other statutory instrument made under it, in any manner the Commission considers appropriate, including by the publication of guidance as to how those provisions may be complied with.
+
+(4) In performing its functions the Commission shall have regard to—
+
+(*a*) the safety of children, and published policies of the Minister for Children, Equality, Disability, Integration and Youth in respect of that matter,
+
+(*b*) the regulation of gambling, and published policies of the Minister for Justice in respect of that matter,
+
+(*c*) climate change and environmental sustainability, and published policies of the Minister for the Environment, Climate and Communications in respect of that matter, and
+
+(*d*) published policies of the Government in respect of any matter referred to in *paragraph (a)*, *(b)* or *(c)*.
+
+(5) The Commission shall, in so far as consistent with its other functions and its available resources—
+
+(*a*) provide advice on matters to which its functions relate, if requested to do so by a Minister of the Government, educational or training institution, or public body whose activities are concerned with those matters,
+
+(*b*) give effect to any arrangements entered into with the Minister to stimulate the provision of high quality, diverse and innovative news and comment on current affairs—
+
+(i) by publishers of newspapers or periodicals consisting substantially of news and comment on current affairs,
+
+(ii) by broadcasters,
+
+(iii) by providers of programme material consisting substantially of news and comment on current affairs to a broadcaster, and
+
+(iv) by providers of services otherwise made available on an electronic communications network and providing content, consisting substantially of news and comment on current affairs, that is under the provider’s editorial control,
+
+(*c*) conduct or commission research on matters relating to its functions, including on any development outside the State, and publish, in the form and manner that it thinks fit, the findings of such research, as it considers appropriate,
+
+(*d*) undertake strategic reviews of the broadcasting services sector, audiovisual on-demand media services sector, and relevant online services sector in respect of the following areas:
+
+(i) funding of those sectors;
+
+(ii) technological and societal change;
+
+(iii) the protection of children;
+
+(iv) other areas relevant to its functions, that the Minister may direct,
+
+and
+
+(*e*) co-operate, in relation to the regulation of gambling, with any public body concerned with that matter.]
+
+F21[(6) The Commission is designated, for the purposes of Article 49(1) of the Digital Services Regulation, as—
+
+(*a*) the competent authority (other than in respect of Articles 30, 31 and 32 of that Regulation), and
+
+(*b*) the Digital Services Coordinator.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F20: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+>
+> F21: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 8, S.I. No. 53 of 2024.
+
+### 8. Delegation of functions.
+
+F22[**8**.— (1) Subject to *subsection (3)*, the Commission may delegate the performance of any of its functions to a Commissioner, or to a member of the staff of the Commission, on such terms and conditions as it may determine, and the Commissioner or member of the staff of the Commission shall be accountable to the Commission for the performance of that function.
+
+(2) Without prejudice to the generality of *subsection (1)*, a function may be delegated under that subsection so as to be capable of being performed by any Online Safety Commissioner for the time being.
+
+(3) The Commission may not delegate the performance of its functions under—
+
+(*a*) *section 17*, *24*, *29*, or *31*,
+
+(*b*) *subsection (3)*, *(4)* or *(5)* of *section 48*,
+
+(*c*) *section 50* or *51*,
+
+(*d*) *Part 6* or *8*,
+
+(*e*) *subsection (6)* or *(8)* of *section 139ZE*,
+
+(*f*) *Part 8B*, or
+
+(*g*) Part 3A of the Competition Act 2002.
+
+(4) A function delegated by the Commission under *subsection (1)* continues to be vested in the Commission and is capable of being performed concurrently by either the Commission or the delegate.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F22: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+
+### 9. Conferral of additional functions.
+
+F23[**9**.— (1) The Minister may, after consulting with the Commission and any other Minister of the Government who, in the Minister’s opinion, is concerned, by order confer on the Commission additional functions, connected with its existing functions and relating to the regulation of broadcasting services, audiovisual on-demand media services and designated online services, including as regards the protection of children, subject to such conditions as may be specified in the order.
+
+(2) An order under this section may contain such incidental, supplemental and consequential provisions as the Minister considers necessary or expedient to give full effect to the conferral of additional functions on the Commission.
+
+(3) An order made under this section shall be laid by the Minister before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which the House sits after that order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done under it.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F23: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+
+### 10. Independence of Commission.
+
+F24[**10**.— The Commission shall be independent in the performance of its functions.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F24: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+
+### 11. Membership of Commission.
+
+F25[**11**.— (1) The membership of the Commission shall consist of a chairperson and such number of other whole-time members, not being less than 3 nor greater than 6, as the Minister determines.
+
+(2) Each member of the Commission, including the chairperson, shall be known as a Commissioner.
+
+(3) The chairperson and each of the other Commissioners shall be appointed by the Minister on the recommendation of the Public Appointments Service.
+
+(4) A Commissioner shall hold office for such term, not exceeding 5 years from the date of his or her appointment, as the Minister determines.
+
+(5) A Commissioner whose term of office expires or is due to expire shall be eligible for reappointment to the Commission.
+
+(6) A Commissioner who has served 2 terms of office shall not be eligible for reappointment to the Commission.
+
+(7) One or more of the Commissioners shall be designated in writing by the Minister on the recommendation of the Public Appointments Service as an Online Safety Commissioner.
+
+(8) Notwithstanding *subsection (3)*, a person who immediately before the establishment day was the chief executive officer of the Authority may be appointed by the Minister to be a Commissioner for such period as the Minister determines (which period shall be no longer than one year from the establishment day).
+
+(9) A person who becomes a Commissioner under *subsection (8)* shall be eligible for appointment as a Commissioner under *subsection (3)* at any time during or after the period referred to in *subsection (8)*.
+
+(10) The period referred to in *subsection (8)* shall not be considered a term of office for the purposes of *subsection (6)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F25: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+
+### 12. Conditions of office of Commissioner.
+
+F26[**12**.— (1) A Commissioner shall hold office on such terms and conditions as may be fixed by the Minister with the consent of the Minister for Public Expenditure and Reform.
+
+(2) A Commissioner shall be paid such remuneration as the Minister, with the consent of the Minister for Public Expenditure and Reform, determines.
+
+(3) A Commissioner holds office until his or her term of office expires, unless he or she ceases to be a Commissioner under any other provision of this section.
+
+(4) A Commissioner may resign from the Commission by letter addressed to the Minister and the resignation shall take effect on the date specified in the letter, or on the date on which the Minister receives the letter, whichever is the later.
+
+(5) The Government may at any time remove a Commissioner from office if it is satisfied that—
+
+(*a*) the Commissioner has become incapable through ill-health or otherwise of performing the functions of the office,
+
+(*b*) the Commissioner has engaged in serious misconduct,
+
+(*c*) the Commissioner has a conflict of interest of such significance that the Commissioner should cease to hold office, or
+
+(*d*) the Commissioner has failed without reasonable cause to perform his or her functions for a continuous period of at least 3 months.
+
+(6) Where the Government proposes to remove a Commissioner from office under *subsection (5)*, the Government shall give notice in writing to the Commissioner of that proposal.
+
+(7) A notice under *subsection (6)* shall contain a statement—
+
+(*a*) of the reasons for the proposed removal,
+
+(*b*) that the Commissioner may make representations to the Government in such form and manner as may be specified by the Government,
+
+(*c*) that any such representations must be made within a period of 20 working days from the date of the giving of the notice, or such longer period as the Government may, having regard to the requirements of natural justice, specify in the notice, and
+
+(*d*) that at the end of the period referred to in *paragraph (c)* or the period specified in the notice, whether or not any representations are made, the Government shall decide whether to remove the Commissioner from office.
+
+(8) In considering whether to remove a Commissioner from office under *subsection (5)*, the Government shall take into account—
+
+(*a*) any representations made by the Commissioner in accordance with *paragraphs (b)* and *(c)* of *subsection (7)*, and
+
+(*b*) any other matter the Government considers relevant.
+
+(9) Where, after giving notice under *subsection (6)*, the Government decides not to remove the Commissioner from office, the Government shall notify the Commissioner in writing of the decision.
+
+(10) Where, after giving notice under *subsection (6)*, the Government decides to remove a Commissioner from office, the Government shall—
+
+(*a*) notify the Commissioner in writing of the decision, the reasons for it and the date from which it shall take effect (which shall be a date not earlier than the date of the notice under this paragraph),
+
+(*b*) shall lay before each House of the Oireachtas a statement in writing of the decision and the reasons for it, and
+
+(*c*) shall provide a copy of that statement to the Commissioner.
+
+(11) A person shall cease to hold office as a Commissioner if he or she—
+
+(*a*) is adjudicated bankrupt,
+
+(*b*) makes a composition or arrangement with his or her creditors,
+
+(*c*) is convicted of an indictable offence in relation to a company, a body corporate or a trust,
+
+(*d*) is convicted of an offence involving fraud or dishonesty,
+
+(*e*) is nominated as a member of Seanad Éireann,
+
+(*f*) is elected to be a member of either House of the Oireachtas or to be a member of the European Parliament,
+
+(*g*) is regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act 1997 as having been elected to the European Parliament,
+
+(*h*) is elected or co-opted as a member of a local authority,
+
+(*i*) becomes, or acquires a relevant interest in, a provider of communications media, or
+
+(*j*) enters into employment with a provider of communications media, or with an organisation representative of providers of communications media.
+
+(12) References to a relevant interest in a provider of communications media in *subsection (11)(i)* are to be read in accordance with *subsections (13)* and *(14)*.
+
+(13) A person has a relevant interest in a provider of communications media if the person, or a connected person—
+
+(*a*) holds shares or any other proprietary interest in the provider, where the value of the interest exceeds €5,000,
+
+(*b*) holds bonds, debentures, or other like investments in the provider, where their aggregate value exceeds €13,000,
+
+(*c*) holds a directorship or shadow directorship (within the meaning of the Companies Act 2014) in the provider, or
+
+(*d*) receives gifts or other benefits from the provider, where their aggregate value exceeds €650.
+
+(14) A person also has a relevant interest in a provider of communications media if the person or a connected relative of the person is a party to an arrangement or agreement concerning land (whether or not enforceable) with the provider.
+
+(15) In this section—
+
+“civil partner” means a civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
+
+“connected person”, in relation to a person, means—
+
+(*a*) a connected relative of the person,
+
+(*b*) a person acting on behalf of the person or of a connected relative of the person,
+
+(*c*) a company or other body of which the person or a connected relative of the person, or a nominee of either of them, is a member,
+
+(*d*) a partnership in which the person or a connected relative of the person is a partner, or
+
+(*e*) an employer of the person, or of a connected relative of the person;
+
+“connected relative”, in relation to a person, means a spouse, partner, civil partner, parent, brother, sister, or child of the person, or a spouse, partner or civil partner of a child of the person (and "child" in this definition includes an adult child).]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F26: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+
+### 13. Appointment of Acting Commissioner.
+
+F27[**13**.— (1) If a vacancy occurs in the office of a Commissioner, or if a Commissioner is absent from the State or is, for any other reason, unable to perform the functions of a Commissioner, the Minister may appoint a member of the staff of the Commission to perform the functions of the Commissioner (referred to in this section and in *section 14* as an “Acting Commissioner”, and the term “Commissioner” shall be construed as including an Acting Commissioner).
+
+(2) An appointment under subsection (1)—
+
+(*a*) shall be made for a period of not more than 6 months, and
+
+(*b*) subject to *paragraph (a)*, may be made for all or part of the period of vacancy, absence or inability.
+
+(3) If, in a case of vacancy, the Minister is satisfied that it is not reasonably practicable for an appointment under *section 11* to be made before the end of the period referred to in *subsection (2)*, the Minister may extend the appointment by such further period, not exceeding 6 months, as he or she is satisfied is necessary for an appointment to be made under that section.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F27: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+
+### 14. Chairperson of Commission
+
+F28[**14**.— (1) The chairperson shall carry on, manage, and control generally the staff, administration and business of the Commission.
+
+(2) If a vacancy occurs in the office of the chairperson, or if the chairperson is absent from the State or is, for any other reason, unable to perform the functions of the chairperson, the Minister may appoint a Commissioner, other than an Acting Commissioner or a Commissioner appointed under *section 11(8)*, to perform the functions of the chairperson, for all or part of that period of vacancy, absence or inability, and references in this Act to the chairperson of the Commission shall, unless the context otherwise requires, be construed as including references to that Commissioner.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F28: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+
+### 15. Eligibility for appointment as Commissioner or member of staff.
+
+F29[**15**.— (1) A person shall be ineligible for appointment as a Commissioner, or as a member of the staff of the Commission, while he or she—
+
+(*a*) is a member of either House of the Oireachtas,
+
+(*b*) is a member of the European Parliament,
+
+(*c*) is a member of a local authority, or
+
+(*d*) is, or has a relevant interest in, a provider of communications media.
+
+(2) The reference to a “relevant interest” in *subsection (1)(d)* shall be construed in accordance with *section 12(13)* and *(14)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F29: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+
+### 16. Meetings of Commission.
+
+F30[**16**.— (1) The Commission shall hold such and so many meetings as it considers necessary for the performance of its functions.
+
+(2) At a meeting of the Commission—
+
+(*a*) the chairperson shall, if present, be the chairperson of the meeting, or
+
+(*b*) if the chairperson is not present, the Commissioners present shall choose one of their number to be the chairperson of the meeting.
+
+(3) Every question at a meeting on which a vote is required shall be determined by a majority of the votes of the Commissioners present and voting on the question and, in the case of an equal division of votes, the chairperson of the meeting shall have a second or casting vote.
+
+(4) Subject to *subsection (5)*, the Commission may act notwithstanding one or more vacancies among the Commissioners.
+
+(5) The quorum for a meeting of the Commission shall, unless the Minister otherwise directs, be 3.
+
+(6) A meeting of the Commission may take place by any means of communication by which all of the Commissioners participating can hear and be heard at the same time.
+
+(7) Subject to the provisions of this Act, the Commission shall regulate its procedures in such manner as it determines.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F30: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+>
+> **Editorial Notes:**
+>
+> E7: Previous affecting provision: power pursuant to subs. (1) exercised (16.06.2017) by *Broadcasting Authority of Ireland (Superannuation) Scheme 2017* (S.I. No. 269 of 2017), in operation as per art. 1(2); section substituted as per F-note above.
+
+### 17. Staff of Commission.
+
+F31[**17**.— (1) The Commission may, with the approval of the Minister given with the consent of the Minister for Public Expenditure and Reform, appoint such and so many persons to be members of the staff of the Commission as it may determine.
+
+(2) The terms and conditions of service of a member of the staff of the Commission shall, with the approval of the Minister given with the consent of the Minister for Public Expenditure and Reform, be determined by the Commission.
+
+(3) There shall be paid by the Commission to the members of its staff such remuneration and allowances as the Commission may, with the approval of the Minister given with the consent of the Minister for Public Expenditure and Reform, determine.
+
+(4) A member of the staff of the Commission shall, unless otherwise provided for under *subsection (2)*, stand seconded from employment by the Commission and shall not be paid by, nor entitled to receive from, the Commission any remuneration or allowances for the period of that secondment, if he or she is—
+
+(*a*) nominated as a member of Seanad Éireann,
+
+(*b*) elected as a member of either House of the Oireachtas or to be a member of the European Parliament,
+
+(*c*) regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act 1997 as having been elected to the European Parliament, or
+
+(*d*) elected or co-opted as a member of a local authority.
+
+(5) Without prejudice to the generality of *subsection (4)*, a period of secondment referred to in *subsection (4)* shall not be considered as service with the Commission for the purposes of any superannuation benefits.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F31: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+
+### 18. Superannuation.
+
+F32[**18**.— (1) The Commission may, with the approval of the Minister given with the consent of the Minister for Public Expenditure and Reform, make a scheme granting superannuation benefits to or in respect of—
+
+(*a*) a Commissioner, or
+
+(*b*) a member of the staff of the Commission.
+
+(2) A scheme made under this section shall not provide for the granting of superannuation benefits to or in respect of any person where the Single Public Service Pension Scheme applies to or in respect of that person by virtue of Chapter 2 of Part 2 of the Public Service Pensions (Single Scheme and Other Provisions) Act 2012.
+
+(3) A scheme made under this section shall fix the time and conditions of retirement of all persons to or in respect of whom superannuation benefits are payable under the scheme and different times and conditions may be fixed in respect of different classes of persons.
+
+(4) The Commission may, with the approval of the Minister given with the consent of the Minister for Public Expenditure and Reform, amend or revoke a scheme.
+
+(5) A scheme shall be carried out by the Commission in accordance with its terms.
+
+(6) A scheme shall include provision for appeals from a decision relating to a superannuation benefit under the scheme.
+
+(7) No superannuation benefits shall be granted by the Commission to or in respect of a person who is a member of a scheme under this section on ceasing to be a Commissioner or a member of the staff of the Commission otherwise than—
+
+(*a*) in accordance with a scheme or schemes under this section, or
+
+(*b*) with the approval of the Minister, given with the consent of the Minister for Public Expenditure and Reform.
+
+(8) A scheme shall be laid by the Commission before each House of the Oireachtas as soon as practicable after it is made and, if a resolution annulling the scheme is passed by either such House within the next 21 days on which that House sits after the scheme is laid before it, the scheme shall be annulled accordingly, but without prejudice to the validity of anything previously done under it.
+
+(9) *Subsection (8)* shall, with all necessary modifications, apply to an amendment to a scheme or a revocation of a scheme as it applies to a scheme.
+
+(10) A scheme shall not provide for less favourable conditions in respect of people who immediately before the establishment day were members of the staff of the Authority than those conditions to which they were entitled immediately before the establishment day.
+
+(11) Disbursement of superannuation benefits which may be granted to or in respect of persons who, immediately before the establishment day, were members of the staff of the Authority shall not be on less favourable conditions than would apply if the benefits had continued to be paid out of moneys provided by the Authority.
+
+(12) In this section, “scheme” means a scheme made under *subsection (1)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F32: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+
+### 19. Committees.
+
+F33[**19**.— (1) The Commission may establish committees to assist and advise the Commission on matters relating to its functions or on such other matters as the Commission may determine.
+
+(2) A committee may include such number of members as the Commission considers appropriate, and may include Commissioners, members of the staff of the Commission or other persons.
+
+(3) The Commission shall specify in writing the purpose and terms of reference of each committee.
+
+(4) The acts of a committee are subject to confirmation in writing by the Commission unless the Commission dispenses with the necessity for confirmation.
+
+(5) The Commission may, at any time, dissolve a committee, or for any reason remove any members of a committee.
+
+(6) The Commission may regulate the procedures of a committee but, subject to any such regulation, a committee may regulate its own procedures.
+
+(7) Any expenses of a committee shall be considered to be expenses of the Commission.
+
+(8) There may be paid by the Commission to members of a committee such allowances for expenses (if any) incurred by them as the Commission may, with the approval of the Minister, given with the consent of the Minister for Public Expenditure and Reform, determine.
+
+(9) Without prejudice to the generality of this section, the Commission shall, within one year after the establishment day, establish a committee under this section to be known as the “Youth Advisory Committee”.
+
+(10) The Youth Advisory Committee shall assist and advise the Commission—
+
+(*a*) in the exercise of its functions under *Part 8A* in so far as those functions relate to the interests of children and people not more than 25 years of age, and
+
+(*b*) on such other matters as the Commission may determine.
+
+(11) The Youth Advisory Committee shall include such representatives as may be nominated at the invitation of the Commission by organisations representing children or people of not more than 25 years of age.
+
+(12) At least half of the members of the Youth Advisory Committee shall be not more than 25 years of age.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F33: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+
+### 20. Consultants and advisers.
+
+F34[**20**.— (1) The Commission may engage such consultants or advisers as it considers necessary for the performance of its functions.
+
+(2) Any fees due to a consultant or adviser engaged under this section shall be paid by the Commission out of moneys at its disposal.
+
+(3) The Commission shall have regard to the advice of any consultant or adviser engaged under this section.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F34: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+
+### 21. Power to impose levies.
+
+F35[**21**.— (1) The Commission may make an order (a “levy order”) imposing a levy on any of the following:
+
+(*a*) providers of audiovisual media services;
+
+(*b*) providers of sound broadcasting services;
+
+(*c*) providers of designated F36[online services;]
+
+F41[(*d*) intermediary service providers;]
+
+F38[(*e*) hosting service providers.]
+
+(2) A levy order shall specify the period in respect of which a levy is imposed (the “levy period”).
+
+(3) Levy periods shall run successively, and shall be the same for all levies imposed.
+
+(4) The Commission shall seek to ensure that the amount of all levies imposed under *subsection (1)* in respect of a levy period is sufficient to meet the Commission’s expenses properly incurred in that period and its working capital requirements in that period, in so far as those expenses and requirements are not met in any other way.
+
+(5) In calculating the amount of a levy under any paragraph of *subsection (1)* in respect of a levy period, the Commission—
+
+(*a*) shall consider the Commission’s expenses in that period in performing functions in relation to services mentioned in that paragraph, as a proportion of its expenses in that period in performing functions in relation to all services mentioned in *subsection (1)*, and
+
+(*b*) shall seek to ensure that the total amount imposed by way of levy under that paragraph in respect of that period, represents a corresponding proportion of the total amount imposed by way of levy under this section in respect of that period.
+
+(6) A levy order shall provide for the collection, payment and administration of a levy, including—
+
+(*a*) the method of calculation of the levy,
+
+(*b*) the times at which payment is to be made and the form of payment,
+
+(*c*) requirements for providers subject to the levy to keep relevant records, and to make them available to the Commission,
+
+(*d*) any provision for exemptions, deferrals or refunds, and
+
+(*e*) the consideration of applications by providers for the review of decisions under the order.
+
+(7) A levy order—
+
+(*a*) shall not impose a levy on a provider providing only a community broadcasting service, and
+
+(*b*) shall exempt any such service from the calculation of a levy imposed on a provider also providing other services.
+
+(8) In *subsection (7)*, “community broadcasting service” means a service provided under a contract under *section 64*, *68(1)(b)*, or *72*.
+
+(9) In making provision by levy order for the method of calculation of a levy and for any exemption or deferral, the Commission shall consider the relevance of the following factors:
+
+(*a*) the financing of a provider, including any public funding;
+
+(*b*) the desirability of promoting new or innovative services;
+
+(*c*) the nature and scale of services provided by a provider;
+
+(*d*) any other factor that may affect the exercise by the Commission of functions in relation to a provider, including, in the case of designated online services, matters referred to in *section 139E(3)(d)*, *(e)* F37[and *(f)*;]
+
+F39[(*e*) any other factor that may affect the performance by the Commission of functions in relation to an intermediary service provider including if that provider has been designated as a very large online platform or very large online search engine under Article 33 of the Digital Services Regulation and has been charged the annual supervisory fee under Article 43 of that Regulation.]
+
+(10) Levy orders may (subject to *subsection (3)*):
+
+(*a*) make different provision for different providers, including providers within the same paragraph of *subsection (1)*;
+
+(*b*) in the case of providers who fall within more than one of those paragraphs, make different provision under different paragraphs.
+
+(11) Any surplus of income, from levies imposed in respect of a levy period, over the expenses properly incurred by the Commission in that period and its working capital requirements in that period shall either—
+
+(*a*) be retained by the Commission to be offset proportionately against subsequent levy obligations of the providers on whom the levy was imposed, or
+
+(*b*) be refunded proportionately to those providers.
+
+(12) In this section and *section 22*—
+
+F42[...]
+
+“levy order” has the meaning given in *subsection (1)*;
+
+“levy period” has the meaning given in *subsection (2)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F35: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+>
+> F36, F37: Substituted (2.09.2024) by *Digital Services (Levy) Act 2024* (26/2024), s. 4(1)(a)(i), (b)(i), (c)(i), S.I. No. 408 of 2024, subject to transitional provisions in s. 4(2).
+>
+> F38, F39, F40, F41: Inserted (2.09.2024) by *Digital Services (Levy) Act 2024* (26/2024), s. 4(1)(a)(ii), (b)(ii), (c)(ii), S.I. No. 408 of 2024, subject to transitional provisions in s. 4(2).
+>
+> F42: Deleted (27.09.2024) by *Courts, Civil Law, Criminal Law and Superannuation (Miscellaneous Provisions) Act 2024* (30/2024), s. 17, S.I. No. 486 of 2024.
+>
+> **Editorial Notes:**
+>
+> E8: Power pursuant to section exercised (1.01.2026) by *Broadcasting Act 2009 (Section 21) Levy Order 2025* (S.I. No. 602 of 2025), in operation as per art. 1(2).
+>
+> E9: Power pursuant to section exercised (1.01.2025) by *Broadcasting Act 2009 (Section 21) Levy (No. 2) Order 2024* (S.I. No. 698 of 2024), in operation as per art. 1(2).
+>
+> E10: Subs. (12) purported to be amended (2.09.2024) by *Digital Services (Levy) Act 2024* (26/2024), s. 4(1)(c)(i), S.I. No. 408 of 2024, subject to transitional provisions in s. 4(2); amendment incapable of being executed as no reference to s. 22A appears in subsection.
+>
+> E11: Power pursuant to section exercised (1.05.2024) by *Broadcasting Act 2009 (Section 21) Levy Order 2024* (S.I. No. 175 of 2024), in operation as per art. 1(2).
+>
+> E12: Previous affecting provision: definition of "hosting service provider" deleted (27.09.2024) by *Courts, Civil Law, Criminal Law and Superannuation (Miscellaneous Provisions) Act 2024* (30/2024), s. 17, S.I. No. 486 of 2024.
+>
+> E13: Previous affecting provision: power pursuant to section exercised (1.01.2024) by *Broadcasting Act 2009 (Section 21) Levy Order 2023* (S.I. No. 657 of 2023), in operation as per art. 1(2); revoked (1.05.2024) by *Broadcasting Act 2009 (Section 21) Levy Order 2024* (S.I. No. 175 of 2024), art. 1(3), in operation as per art. 1(2).
+
+### 22. Levies under section 21: enforcement and procedure.
+
+F43[**22**.— (1) A levy payable under a levy order by any person may be recovered by the Commission from that person as a simple contract debt in any court of competent jurisdiction.
+
+(2) A person shall be guilty of a category 2 offence if in purported compliance with a requirement imposed by or under a levy order, he or she provides information to the Commission which is to his or her knowledge false or misleading.
+
+(3) A levy order shall be laid by the Commission before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which that House sits after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done under it.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F43: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+
+### 22A. F44[Arrangement in relation to collection of levies
+
+**22A**.—(1) The Commission may enter into an arrangement with the Competition and Consumer Protection Commission in relation to the collection of a relevant levy.
+
+(2) An arrangement referred to in *subsection (1)* shall be for the purpose of enabling the Commission or the Competition and Consumer Protection Commission to collect the relevant levy from each person obliged to pay it and pay over the relevant levy so collected to the Commission or Competition and Consumer Protection Commission as appropriate.
+
+(3) An arrangement referred to in *subsection (1)* may provide for the costs associated with the collection and payment of the relevant levy concerned to be met by the Commission or Competition and Consumer Protection Commission as appropriate.
+
+(4) Nothing in this section affects any other power of the Commission to enter into an arrangement for the collection of levies.
+
+(5) In this section, "relevant levy" means a levy payable under—
+
+(*a*) a levy order, or
+
+(*b*) a levy order under section 45A of the Digital Services Act 2024.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F44: Inserted (2.09.2024) by *Digital Services (Levy) Act 2024* (26/2024), s. 5, S.I. No. 408 of 2024.
+>
+> **Editorial Notes:**
+>
+> E14: This section heading is taken from the amending section in absence of one included in the amendment.
+
+### 23. Grant to Commission.
+
+F45[**23**.— In each financial year of the Commission, the Minister may advance to the Commission out of moneys provided by the Oireachtas such sums as the Minister may, with the consent of the Minister for Public Expenditure and Reform, determine.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F45: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+
+### 24. Power to borrow.
+
+F46[**24**.— The Commission may borrow money (including money in a currency other than the currency of the State) for the purpose of performing any of its functions, subject to the approval of the Minister, given with the consent of the Minister for Public Expenditure and Reform and the Minister for Finance, and any conditions they may determine.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F46: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+
+### 25. Deposits and charges for services.
+
+F47[**25**.— (1) The Commission may require a person to pay a deposit of such amount as the Commission considers reasonable in respect of an application made by the person to the Commission for a broadcasting contract.
+
+(2) The Commission may charge for services or facilities provided by it.
+
+(3) Any surplus of income under *subsection (2)* over the expenses incurred by the Commission in respect of the provision of the services or facilities concerned in a particular financial year shall be applied in such manner as the Minister, after consultation with the Commission and with the consent of the Minister for Finance and the Minister for Public Expenditure and Reform, may direct and any such direction may require that all or part of such excess be paid into the Exchequer.
+
+(4) The Commission may recover any amount due and owing to it under this section from any person as a simple contract debt in any court of competent jurisdiction.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F47: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+
+### 26. Estimates and accounts.
+
+F48[**26**.— (1) The Commission shall submit estimates of income and expenditure to the Minister in such form, in respect of such periods and at such times as may be required by the Minister and shall furnish to the Minister any information which the Minister may require in relation to those estimates, including proposals and future plans relating to the performance by the Commission of its functions over a specified period of years.
+
+(2) The Commission shall keep, in such form as may be approved by the Minister with the consent of the Minister for Public Expenditure and Reform, all proper and usual books or other records of account of—
+
+(*a*) all moneys received or expended by the Commission,
+
+(*b*) the sources of all moneys received and the reasons for all expenses, and
+
+(*c*) all property, assets and liabilities of the Commission.
+
+(3) The books and records referred to in *subsection (2)* shall include an income and expenditure account and a balance sheet and such special accounts, if any, as the Minister may from time to time direct.
+
+(4) The Commission shall, whenever so requested by the Minister, permit any person appointed by the Minister to examine the books or other records of account of the Commission in respect of any financial year, or other period, and shall facilitate any such examination, and the Commission shall pay such fee for the examination as may be required by the Minister.
+
+(5) Accounts kept under this section, signed by the chairperson and one other Commissioner or, in the absence of the chairperson, by 2 Commissioners, shall be submitted by the Commission to the Comptroller and Auditor General for audit as soon as practicable after the end of the financial year to which the accounts relate, but not later than 3 months thereafter.
+
+(6) When so audited, a copy of the accounts together with a copy of the report of the Comptroller and Auditor General thereon shall be presented by the Commission to the Minister who shall, as soon as practicable but not later than 3 months thereafter, cause copies of them to be laid before each House of the Oireachtas.
+
+(7) The Commission shall, with the approval of the Minister, given with the consent of the Minister for Public Expenditure and Reform, publish on a website maintained by the Commission—
+
+(*a*) such estimates of income and expenditure as are required to be submitted under *subsection (1)*, and
+
+(*b*) the audited accounts, or a summary of them, and the report of the Comptroller and Auditor General, presented to the Minister under *subsection (6)*.
+
+(8) The financial year of the Commission shall be the period of 12 months ending on the 31st day of December in any year, except that the period commencing on the establishment day and ending on the following 31st day of December shall be the first financial year of the Commission.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F48: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+>
+> **Editorial Notes:**
+>
+> E15: Broadcasting Authority of Ireland designated as competent authority for purposes of Directive 2010/13/EU of the European Parliament and of the Council of 10 March 2010[^13] on the coordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the provision of audiovisual media services (Audiovisual Media Services Directive) (Articles 9, 10, 11 and Articles 19 to 26) (17.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2020* (S.I. No. 14 of 2020), reg. 4 and sch. ref. no. 17, in operation as per reg. 1(2).
+>
+> E16: Power pursuant to subs. (5) exercised (10.02.2011) by *Broadcasting Act 2009 (Section 26(5)) (Conferral of Additional Functions - Broadcasting Services) Order 2011* (S.I. No. 67 of 2011).
+>
+> E17: Previous affecting provision: Broadcasting Authority of Ireland designated as competent authority for purposes of Directive 2010/13/EU of the European Parliament and of the Council of 10 March 2010[^14] on the coordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the provision of audiovisual media services (Audiovisual Media Services Directive) (Articles 9, 10, 11 and Articles 19 to 26) (17.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2019* (S.I. No. 691 of 2019), reg. 4 and sch. ref. no. 17, in operation as per reg. 1(2); revoked (17.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2020* (S.I. No. 14 of 2020), reg. 11(f), in operation as per reg. 1(2).
+
+### 27. Accountability of chairperson to Public Accounts Committee.
+
+F49[**27**.— (1) The chairperson shall, whenever required in writing to do so by the Committee of Dáil Éireann established under the Standing Orders of Dáil Éireann to examine and report to Dáil Éireann on the appropriation accounts and reports of the Comptroller and Auditor General, give evidence to the Committee in relation to—
+
+(*a*) the regularity and propriety of the transactions recorded or required to be recorded in any book or other record of account subject to audit by the Comptroller and Auditor General that the Commission is required by or under any enactment to prepare,
+
+(*b*) the economy and efficiency of the Commission in the use of its resources,
+
+(*c*) the systems, procedures and practices employed by the Commission for the purpose of evaluating the effectiveness of its operations, and
+
+(*d*) any matter affecting the Commission referred to in a special report of the Comptroller and Auditor General under section 11(2) of the Comptroller and Auditor General (Amendment) Act 1993, or in any other report of the Comptroller and Auditor General (in so far as it relates to a matter specified in *paragraph (a)*, *(b)* or *(c)*) that is laid before Dáil Éireann.
+
+(2) In the performance of his or her duties under this section, the chairperson shall not question or express an opinion on the merits of—
+
+(*a*) any policy of the Government or of a Minister of the Government, or
+
+(*b*) the objectives of such a policy.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F49: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+
+### 28. Accountability of Commissioner to Oireachtas committees.
+
+F50[**28**.— (1) The chairperson, if required in writing to do so by a committee, shall attend before it to give account for the general administration of the Commission.
+
+(2) Any Commissioner, if required in writing to do so by a committee, shall attend before it to give account for the performance of any functions of the Commission delegated to him or her.
+
+(3) *Subsections (1)* and *(2)* do not require a Commissioner to give account before a committee for any matter which is or has been, or which may in the future be, the subject of proceedings before a court or tribunal.
+
+(4) Where a Commissioner is of the opinion that a matter in respect of which he or she is requested to give an account before a committee is a matter to which *subsection (3)* applies, he or she shall inform the committee of that opinion and the reasons for the opinion and, unless the information is conveyed to the committee at a time when the Commissioner is before it, the information shall be so conveyed in writing.
+
+(5) Where the Commissioner has informed a committee of his or her opinion in accordance with *subsection (4)* and the committee does not withdraw the requirement referred to in *subsection (1)* or *(2)* in so far as it relates to a matter the subject of that opinion—
+
+(*a*) the Commissioner may, not later than 21 days after being informed by the committee of its decision not to do so, apply to the High Court in a summary manner for determination of the question whether the matter is one to which *subsection (3)* applies, or
+
+(*b*) the chairperson of the committee may, on behalf of the committee, make such an application,
+
+and the High Court shall determine the matter.
+
+(6) Pending the determination of an application under *subsection (5)*, the Commissioner shall not attend before the committee to give account for the matter the subject of the application.
+
+(7) If the High Court determines that *subsection (3)* applies to the matter concerned, the committee shall withdraw the requirement referred to in *subsection (1)* or *(2)*, but if the High Court determines that *subsection (3)* does not apply, the Commissioner shall attend before the committee and give account for the matter.
+
+(8) In this section, “committee” means a committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas (other than the committee referred to in *section 27* or the Committee on Members’ Interests of Dáil Éireann or the Committee on Members’ Interests of Seanad Éireann) or a subcommittee of such a committee.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F50: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+
+### 29. Strategy statement and work programme.
+
+F51[**29**.— (1) As soon as practicable after the establishment day, and thereafter not earlier than 6 months before and not later than 3 months before each third anniversary of the establishment day, the Commission shall prepare and submit to the Minister a strategy statement for the 3 year period immediately following the year in which the statement is submitted.
+
+(2) A strategy statement shall—
+
+(*a*) specify the Commission’s objectives and intended outputs for the 3 year period referred to in *subsection (1)*, and its strategies for achieving them, including its strategies for the economic and efficient use of resources,
+
+(*b*) specify the manner in which the Commission proposes to assess its performance in respect of the objectives referred to in *paragraph (a)*, taking account of its proposed financial and non-financial performance indicators,
+
+(*c*) except for the first strategy statement, include an assessment of the outcomes and effectiveness of the preceding strategy statement, based on the manner of assessment and the proposed performance indicators specified in the preceding strategy statement, and
+
+(*d*) include any other matter that the Minister may direct.
+
+(3) A strategy statement shall be prepared in the form and manner that the Minister directs.
+
+(4) When preparing a strategy statement, the Commission may consult such persons as it considers appropriate.
+
+(5) Prior to the adoption of a strategy statement and its submission to the Minister, the Commission shall undertake, for such reasonable period as the Commission may determine, a public consultation process on a draft of the strategy statement.
+
+(6) As soon as practicable after a strategy statement has been submitted to the Minister under *subsection (1)*, the Minister shall cause a copy of the strategy statement to be laid before each House of the Oireachtas and the Commission shall publish the strategy statement on a website maintained by the Commission.
+
+(7) The Commission shall prepare and submit to the Minister, at least 2 months before the commencement of each financial year, a work programme relating to the discharge of its functions, including—
+
+(*a*) having regard to the strategy statement, the objectives and intended outputs of the Commission for that year and its strategy for achieving those objectives and outputs,
+
+(*b*) the Commission’s priorities for its work to achieve those objectives and outputs, and
+
+(*c*) any other matter that the Minister may direct.
+
+(8) The Commission shall, in preparing each strategy statement and each work programme, have regard to the need to ensure the most effective, efficient, and economical use of its resources.
+
+(9) The Commission shall give a copy of the strategy statement to such committees of either or both Houses of the Oireachtas as the Minister may direct.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F51: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+
+### 30. Observations on legislative proposals and review of enactments.
+
+F52[**30**.— (1) The Minister may direct the Commission to—
+
+(*a*) provide observations in relation to proposals for legislative measures, or
+
+(*b*) undertake a review of the operation or intended operation of an enactment,
+
+where the functions of the Commission relate to or impact on the proposals or enactment.
+
+(2) The Commission may, on receipt of a direction under *subsection (1)* or of its own volition, make a proposal to the Minister or any other Minister of the Government it considers appropriate, for a legislative measure on a matter to which the functions of the Commission relate or upon which the functions of the Commission impact.
+
+(3) Without prejudice to the generality of *subsection (2)*, a proposal under that subsection may include a proposal to make, amend or repeal any enactment.
+
+(4) The Commission shall, in complying with a direction under *subsection (1)* or in making a proposal under *subsection (2)*, consult any person who it appears to the Commission it is appropriate to consult, or whom the Minister concerned directs is to be consulted.
+
+(5) In this section—
+
+“Act” means —
+
+(*a*) an Act of the Oireachtas, and
+
+(*b*) a statute which was in force in Saorstát Éireann immediately before the date of the coming into operation of the Constitution and which continued in force by virtue of Article 50 of the Constitution;
+
+“enactment” means an Act or a statutory instrument, including this Act or any statutory instrument made under it, or any provision of an Act or statutory instrument;
+
+“make” in *subsection (3)*, in respect of an Act, includes enact or commence;
+
+“proposal for a legislative measure” means a proposal for an Act or statutory instrument;
+
+“ repeal” includes revoke, rescind, abrogate or cancel;
+
+“statutory instrument ”means an order, regulation, rule, bye-law, warrant, licence, certificate, notice, direction, code, scheme, guideline or other like document made, issued, granted or otherwise created by or under an Act.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F52: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+
+### 31. Reporting by Commission.
+
+F53[**31**.— (1) The Commission shall not later than the 30th day of June in each year prepare and submit to the Minister a report on its activities in the immediately preceding year (in this section referred to as the “annual report”), and the Minister shall, as soon as may be after receiving the annual report, cause copies of the annual report to be laid before each House of the Oireachtas.
+
+(2) An annual report shall include information in such form and regarding such matters as the Minister may direct but nothing in this subsection shall be construed as requiring the Commission to include information the inclusion of which would, in the opinion of the Commission, be likely to prejudice the performance of its functions.
+
+(3) An annual report shall include details of any scheme approved under *Part 10* or *10A* of this Act.
+
+(4) An annual report shall include a report to the Minister on progress made towards increasing the accessibility of audiovisual media services to people with disabilities, and in particular, on progress made to achieve the intended outcomes relating to such accessibility set out in any media service rules.
+
+(5) The Commission may furnish to the Minister such information or reports, in addition to the annual report, about the performance of its functions as it considers appropriate.
+
+(6) In addition to information provided by the Commission in its annual report and in any reports made under *subsection (5)* the Commission shall supply to the Minister such information as the Minister may require regarding the performance of its functions.
+
+(7) The Commission shall arrange for an annual report that has been laid before each House of the Oireachtas in accordance with *subsection (1)* to be published, on a website maintained by the Commission, as soon as practicable after copies of the report are so laid.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F53: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+>
+> **Modifications (not altering text):**
+>
+> C8: Section applied with modifications (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 66, S.I. No. 71 of 2023.
+>
+> *Final accounts and final annual report of Authority*
+>
+> **66**. (1) Final accounts of the Authority shall be drawn up by the Commission as soon as may be after the establishment day but not later than 6 months thereafter and shall be in such form as may be approved by the Minister, in respect of the financial year or part of the financial year of the Authority.
+>
+> (2) Accounts prepared pursuant to this section shall be submitted as soon as may be by the Commission to the Comptroller and Auditor General for audit, and, immediately after the audit, a copy of the income and expenditure account and of the balance sheet and of such other (if any) of the accounts as the Minister may direct and a copy of the Comptroller and Auditor General’s report on the accounts shall be presented to the Minister who shall cause copies of them to be laid before each House of the Oireachtas.
+>
+> (3) The Commission shall prepare the final annual report for the Authority and submit the report to the Minister not later than 6 months after the establishment day.
+>
+> (4) Subject to *subsection (3)* and to the modifications referred to in *subsection (5)*, section 31 of the Principal Act as substituted by *section 8* shall apply in relation to an annual report prepared under this section.
+>
+> (5) The modifications referred to in *subsection (4)* are that—
+>
+> (*a*) the reference to Part 10A of the Principal Act in section 31(3) of the Principal Act shall be deleted, and
+>
+> (*b*) the reference in section 31(4) of the Principal Act to media service rules shall be construed as a reference to broadcasting rules made under section 43(1)(c) of the Principal Act as it existed before the coming into operation of *section 73(a)*.
+
+### 32. Co-operation with other bodies.
+
+F54[**32**.— (1) The Commission may, in the interests of the effective discharge of its functions, F55[including its functions under the Directive and any task assigned to it by or under Chapter III of EMFA,] co-operate and enter into co-operation agreements with a body established in the State.
+
+(2) The Commission may, in the interests of the effective discharge of its functions, F55[including its functions under the Directive and any task assigned to it by or under Chapter III of EMFA,] co-operate, and enter into co-operation agreements, with a body not established in the State, if that body performs similar functions to the Commission.
+
+(3) Without prejudice to the generality of *subsection (2)*, a body which is a member of the F56[European Board for Media Services established under Article 8 of EMFA] shall be considered to be a body which performs similar functions to the Commission.
+
+(4) If the Commission enters into an agreement under this section—
+
+(*a*) it shall provide the Minister and the Joint Oireachtas Committee with a copy of the agreement, and
+
+(*b*) it may publish the agreement on a website maintained by it, with the consent of all parties to the agreement, and subject to such redaction as may be agreed between them.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F54: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+>
+> F55: Inserted (8.02.2025) by *European Union (Media Freedom Act) Regulations 2025* (S.I. No. 22 of 2025), reg. 4(b)(i), in operation as per reg. 1(2).
+>
+> F56: Substituted (8.02.2025) by *European Union (Media Freedom Act) Regulations 2025* (S.I. No. 22 of 2025), reg. 4(b)(ii), in operation as per reg. 1(2).
+
+### 33. Disclosure of personal data.
+
+F57[**33**.— (1) The Commission may, in the circumstances referred to in *subsection (2)*, disclose personal data to any of the following:
+
+(*a*) the Data Protection Commission;
+
+(*b*) a national regulatory authority or body designated by another Member State under Article 30 of the Directive;
+
+F58[(*ba*) the Competition and Consumer Protection Commission;]
+
+(*c*) the Garda Síochána;
+
+(*d*) a broadcaster or a provider of an audiovisual on-demand media service;
+
+F58[(*da*) an intermediary service provider;]
+
+(*e*) a body prescribed in regulations made by the Minister.
+
+(2) The circumstances referred to in *subsection (1)* are:
+
+(*a*) in the case of *subsection (1)(a)*, where the Commission considers that a complaint, or part of a complaint, made under *section 48* is not relevant to the performance by the Commission of its functions, but may be relevant to the performance by the Data Protection Commission of its functions, and the Commission considers that the disclosure is necessary and proportionate for the purposes of transferring the complaint or part to the Data Protection Commission;
+
+(*b*) in the case of *subsection (1)(b)*, where the Commission considers that a complaint, or part of a complaint, made under *section 48* is made in relation to a broadcaster, or a provider of an audiovisual on-demand media service, which is under the jurisdiction of another Member State, and the Commission considers that the disclosure is necessary and proportionate for the purposes of transferring the complaint or part to the national regulatory authority or body designated by that Member State;
+
+F58[(*ba*) In the case of *subsection (1)(ba)*, where the Commission considers that the disclosure is necessary and proportionate—
+
+(i) for the effective implementation of the Digital Services Regulation, or
+
+(ii) for the purposes of transferring a complaint or part of a complaint to the Competition and Consumer Protection Commission, where a complaint, or part of a complaint made under section 201 relates to a failure to comply with the Digital Services Regulation;]
+
+(*c*) in the case of *subsection (1)(c)*, where the Commission considers that the disclosure may be necessary and proportionate for the prevention or investigation of a criminal offence;
+
+(*d*) in the case of *subsection (1)(d)*, where the Commission considers that a complaint, or part of a complaint, made under *section 48* is made in relation to the broadcaster or provider of an audiovisual on-demand media service, and the Commission considers that the disclosure is necessary and proportionate for the purposes of transferring the complaint or part to the broadcaster or provider under *section 48(3)*;
+
+F58[(*da*) in the case of *subsection (1)(da)*,where the Commission considers that a complaint, or part of a complaint, made under *section 201* is made in relation to an intermediary service provider, and the Commission considers that the disclosure is necessary and proportionate for the purposes of considering a complaint or part of a complaint made under that section;]
+
+(*e*) in the case of any paragraph of *subsection (1)*, where the Commission considers that the disclosure is necessary and proportionate in such other circumstances as may be prescribed in regulations made by the Minister.
+
+(3) Where the Commission discloses a person’s personal data under this section the Commission shall notify the person of the disclosure in so far as it is practicable to do so.
+
+F58[(3A) Where the Commission processes or discloses special categories of personal data in accordance with this section, it shall only do so where the Commission considers that the disclosure is necessary and proportionate in accordance with the Data Protection Regulation and the Act of 2018.
+
+(3B) The Minister may make regulations prescribing suitable and specific measures for the processing of special categories of personal data under this section.
+
+(3C) Where personal data processed by the Commission is required for the purposes of the prevention, investigation, detection or prosecution of a criminal offence, the data—
+
+(*a*) may be processed for as long as it is required for such prevention, investigation, detection or prosecution, and
+
+(*b*) shall be permanently deleted after it is no longer required for such prevention, investigation, detection or prosecution.]
+
+(4) The matters that section 19 (1) of the Data Sharing and Governance Act 2019 requires to be specified or included in a data-sharing agreement shall be specified or included in any agreement entered into by the Commission for the disclosure to another body of personal data in accordance with *subsection (1)*, subject to the following modifications to the description of those matters in section 19 (1) of that Act:
+
+(*a*) references to the data-sharing shall be construed as references to any disclosure under the agreement;
+
+(*b*) the reference in *paragraph (d)* to the public body concerned shall be construed as a reference to the body with whom the agreement is entered into;
+
+(*c*) the reference in *paragraph (f)* to a public body shall be construed as a reference to a party to the agreement;
+
+(*d*) the following paragraph shall be substituted for *paragraph (r)*:
+
+“(r) include in a schedule to the agreement a statement summarising the grounds on which the Commission considers the disclosure of the information to be necessary and proportionate as described in any paragraph of section 33 (2) of the Broadcasting Act 2009.”.
+
+(5) The Minister shall make regulations under *subsection (1)(e)* only where he or she is satisfied that disclosure by the Commission of personal data to a body prescribed under the regulations, in the circumstances referred to in *subsection (2)*, is necessary for the performance by the Commission or the body prescribed of functions in the public interest.
+
+(6) The Minister shall make regulations under *subsection (2)(e)* only where he or she is satisfied that disclosure by the Commission of personal data to a body referred to in *subsection (1)*, in the circumstances prescribed under the regulations, is necessary for the performance by the Commission or such a body of functions in the public interest.
+
+(7) The Minister shall consider whether it is necessary to carry out an assessment of the impact of regulations made under *subsection (1)(e)* or *(2)(e)* on the processing of personal data before making the regulations and, where he or she considers it necessary to do so, shall carry out the assessment.
+
+(8) Regulations made under this section shall be laid by the Minister before each House of the Oireachtas as soon as may be after they are made and, if a resolution annulling the regulations is passed by either such House within the next 21 days on which the House sits after the regulations are laid before it, the regulations shall be annulled accordingly, but without prejudice to the validity of anything previously done under them.
+
+(9) The Commission shall give a copy of any agreement referred to in *subsection (4)* to the Minister.]
+
+F58[(10) In this section—
+
+“Act of 2018” means the *Data Protection Act 2018;*
+
+“special categories of personal data” has the same meaning as it has in the Act of 2018;
+
+“suitable and specific measures” means measures to be taken to safeguard the fundamental rights and freedoms of data subjects in processing the personal data of those data subjects and may include measures specified in *section 36(1)* of the Act of 2018.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F57: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+>
+> F58: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 9(a)-(d), S.I. No. 53 of 2024.
+>
+> **Editorial Notes:**
+>
+> E18: Previous affecting provision: power pursuant to section exercised (1.01.2021) by *Broadcasting Act 2009 (Section 33) Levy (Amendment) Order 2020* (S.I. No. 521 of 2020), in operation as per art. 1(2); section substituted (15.03.2023) as per F-note above, SI revoked (1.01.2024) by *Broadcasting Act 2009 (Section 21) Levy Order 2023* (S.I. No. 657 of 2023), art. 1(3), in operation as per reg. 1(2).
+>
+> E19: Previous affecting provision: power pursuant to section exercised (17.01.2010) by *Broadcasting Act 2009 (Section 33) Levy Order 2010* (S.I. No. 7 of 2010), in operation as per art. 1(2); section substituted (15.03.2023) as per F-note above, SI revoked (1.01.2024) by *Broadcasting Act 2009 (Section 21) Levy Order 2023* (S.I. No. 657 of 2023), art. 1(3), in operation as per reg. 1(2)..
+
+### 34. Co-operation with self-regulatory systems.
+
+F59[**34**.— (1) The Commission may co-operate with, or give assistance to, a person or group of persons, whether established in the State or elsewhere—
+
+(*a*) in the preparation by that person or group of standards, or
+
+(*b*) in the establishment and administration by that person or group of a self-regulatory system,
+
+relating to the regulation of programme material, user-generated video or other content.
+
+(2) In this section, “self-regulatory system” means a system whereby the members of a group of persons with a shared interest voluntarily adhere to rules or codes of conduct established by that group, and may include a system which provides for the resolution of disputes.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F59: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+
+### 35. Policy communications.
+
+F60[**35**.— (1) The Commission may consider any communication issued to it by the Minister in accordance with this section (a “policy communication”), if the Commission is satisfied that doing so is consistent with its independence in the performance of its functions.
+
+(2) The Minister may issue a policy communication if—
+
+(*a*) the Minister thinks the Commission should consider the matters referred to in the communication in formulating policy relating to the performance of its functions, and
+
+(*b*) the Minister is satisfied that issuing the communication is consistent with the Commission’s independence in the performance of its functions.
+
+(3) Before issuing a policy communication, the Minister—
+
+(*a*) shall give the Commission a draft of the proposed communication and the reasons for it, and
+
+(*b*) shall publish the draft and the reasons with a notice specifying the period within which representations relating to the communication may be made by any person.
+
+(4) The period specified must not be less than 21 days from the date of publication of the notice.
+
+(5) After considering any representations made under *subsection (3)*, the Minister may issue the policy communication with or without amendment.
+
+(6) Before issuing a policy communication that relates to the functions of another Minister of the Government, the Minister shall consult that other Minister.
+
+(7) The Minister shall not issue a policy communication that relates to the Commission’s performance of its functions in relation to a particular person.
+
+(8) The Minister shall not issue a policy communication that relates to the Commission’s performance of its functions under *Part 5*, *6*, *8* or *8B* of this Act.
+
+(9) A policy communication shall be laid before each House of the Oireachtas by the Minister as soon as may be after it is issued.
+
+(10) The Commission shall publish a policy communication on a website maintained by it.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F60: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+
+### 36. Confidential information.
+
+F61[**36**.— (1) A person shall not disclose confidential information obtained by him or her in the course of performing, or as a result of having performed, functions as a relevant person under this Act unless he or she is required or permitted by law, or duly authorised by the Commission, to do so.
+
+(2) *Subsection (1)* does not apply where—
+
+(*a*) the disclosure is made to the Commission,
+
+(*b*) the disclosure is made to a Minister of the Government,
+
+F62[(*ba*) the disclosure is made to the Competition and Consumer Protection Commission for the purposes of the Digital Services Regulation including where, in the opinion of the person making the disclosure, the information may relate to the commission of an offence under this Act,]
+
+(*c*) the disclosure is made to a public body, whether in the State or otherwise, for the purposes of facilitating co-operation between the Commission and such body in the performance of their respective functions, or
+
+(*d*) the disclosure is made to a member of the Garda Síochána and, in the opinion of the person making the disclosure, the information may relate to the commission of an offence (whether an offence under this Act or not).
+
+(3) A person who contravenes *subsection (1)* shall be guilty of a category 3 offence.
+
+F62[(3A) Notwithstanding any other enactment or rule of law, if information, in the opinion of any body or person referred to in *paragraphs (b)* to *(d)* of *subsection (2)*, may relate to the commission of an offence under this Act, then the information may be disclosed by that person or body to—
+
+(*a*) a Commissioner,
+
+(*b*) a member of the staff of the Commission, or
+
+(*c*) an authorised officer.]
+
+(4) In this section—
+
+“confidential information” means—
+
+(*a*) information that is expressed by the Commission to be confidential, either as regards particular information or as regards information of a particular class or description, or
+
+(*b*) information of a commercially sensitive nature submitted to the Commission for the purposes of the performance of its functions;
+
+“relevant person” means—
+
+(*a*) a Commissioner,
+
+(*b*) a member of the staff of the Commission,
+
+(*c*) an authorised officer,
+
+(*d*) any other person engaged under a contract for services by the Commission, or a member of the staff of such a person, including a consultant or adviser engaged under *section 20*, or
+
+(*e*) a person who has previously acted in a capacity referred to in any of *paragraphs (a)* to *(d)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F61: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+>
+> F62: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 10(a), (b), S.I. No. 53 of 2024.
+
+### 36A. Professional secrecy under Digital Services Regulation
+
+F63[**36A**.— (1) Notwithstanding *section 36* and without prejudice to the exchange and the use of information referred to in Chapter IV of the Digital Services Regulation, a Commissioner, a member of the staff of the Commission, a person working under the supervision of the Commission or any other person involved shall not contravene Article 84 of the Regulation. —
+
+(2) A person who, without reasonable excuse, contravenes *subsection (1)* shall be guilty of a category 3 offence.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F63: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 11, S.I. No. 53 of 2024.
+
+### 37. Disclosure of interests.
+
+F64[**37**.— (1) Where a relevant person or a connected relative of a relevant person is likely to derive a benefit from any matter to be considered by the Commission, or where a relevant person has a relevant interest in any business or organisation representative of any business, which is likely to derive a benefit from such a matter, the relevant person—
+
+(*a*) shall, in advance of any consideration of the matter, disclose that fact to the Commission,
+
+(*b*) shall take no part in the deliberation by the Commissioners or members of the staff of the Commission in relation to the matter,
+
+(*c*) shall withdraw from a meeting at which the matter is being considered for so long as it is being so considered, and shall not be counted towards a quorum during any such consideration,
+
+(*d*) shall not influence or seek to influence a decision to be made in relation to the matter, and
+
+(*e*) shall not make any recommendation to the Commission in relation to the matter.
+
+(2) *Subsection (1)* does not apply to a person as regards—
+
+(*a*) a contract or proposed contract of employment of that person as a member of the staff of the Commission, or
+
+(*b*) a contract or proposed contract for services in respect of that person, provided that person is not a Commissioner or a member of staff.
+
+(3) Where a Commissioner fails to comply with this section, and that failure has not resulted in the Government issuing a notice under *section 12(6)*, the Minister shall decide the appropriate action to be taken.
+
+(4) Where a person other than a Commissioner fails to comply with this section, the Commission shall decide the appropriate action to be taken, which may include termination of the person’s contract of employment or contract for services.
+
+(5) For the purposes of this section—
+
+“connected relative” shall be construed in accordance with *section 12(15)*;
+
+“relevant interest” shall be construed in accordance with *section 12(13)* and *(14)*, subject to the modifications that—
+
+(*a*) references to a “provider of communications media” or “the provider” in those subsections shall be construed as references to the “business” or “organisation representative of any business” referred to in *subsection (1)*, and
+
+(*b*) references to a person shall be construed as references to the relevant person referred to in *subsection (1)*;
+
+“relevant person” means a Commissioner, a member of the staff of the Commission, or a consultant or adviser engaged under *section 20*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F64: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+
+### 38. Judicial review.
+
+F65[**38**.— (1) F66[...]
+
+(2) Leave shall not be granted for judicial review of F67[any decision] made or act done by the Commission under this Act unless—
+
+(*a*) the application for leave is made to the High Court within the period of 28 days beginning on the date of the decision or the date of the doing of the act, or
+
+(*b*) the High Court is satisfied that it may extend the period provided for in *paragraph (a)* because—
+
+(i) there is good and sufficient reason for doing so, and
+
+(ii) the circumstances that resulted in the failure to make the application for leave within the period in *paragraph (a)* were outside the control of the applicant for the extension.
+
+(3) The Commission may, at any time after the bringing of an application for leave to apply for judicial review which relates to a matter for the time being before the Commission, apply to the High Court to stay the judicial review proceedings pending the making of a decision by the Commission in relation to the matter.
+
+(4) On the making of an application referred to in *subsection (3)*, the High Court may, where it considers that the matter is within the jurisdiction of the Commission, stay the proceedings on such terms as it thinks fit.
+
+(5) Subject to *subsection (6)*, no appeal shall lie to the Court of Appeal from a decision of the High Court on:
+
+(*a*) an application for leave for judicial review made in accordance with F68[*subsection (2)*];
+
+(*b*) an application to extend the period for the making of such an application in accordance with *subsection (2)*;
+
+(*c*) an application for judicial review following leave granted under *subsection (2)*;
+
+(*d*) any other application made in proceedings referred to in *paragraph (a)*, *(b)* or *(c)*.
+
+(6) The High Court may grant leave to appeal from a decision referred to in *subsection (5)*, where it certifies that its decision involves a point of law of exceptional public importance and that it is desirable in the public interest that an appeal should be taken to the Court of Appeal.
+
+(7) On an appeal referred to in *subsection (6)*, the Court of Appeal shall have jurisdiction to determine only the point of law certified by the High Court under *subsection (6)*, and to make only such order as necessarily follows from that determination.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F65: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 8, S.I. No. 71 of 2023.
+>
+> F66: Deleted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 12(a), S.I. No. 53 of 2024.
+>
+> F67, F68: Substituted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 12(b), (c), S.I. No. 53 of 2024.
+
+## PART 3 — PART 3
+
+Broadcasters — Duties, Codes and Rules
+
+## 58. Duties of broadcasters.
+
+**39**.— F69[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F69: Repealed (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 73(a), S.I. No. 71 of 2023.
+
+## 58. Recording of broadcasts.
+
+**40**.— F70[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F70: Repealed (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 73(a), S.I. No. 71 of 2023.
+
+## 58. Advertising.
+
+**41**.—F71[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F71: Repealed (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 73(a), S.I. No. 71 of 2023.
+>
+> **Editorial Notes:**
+>
+> E20: Previous affecting provision: application of subs. (3) restricted (9.02.2023) by *Electoral Reform Act 2022* (30/2022), s. 32(1), S.I. No. 32 of 2023; section repealed (15.03.2023) as per F-note above.
+>
+> E21: Previous affecting provision: subs. (6) amended (9.02.2023) by *Electoral Reform Act 2022* (30/2022), s. 70(a), S.I. No. 32 of 2023; section repealed (15.03.2023) as per F-note above.
+
+## 58. Broadcasting codes.
+
+**42**. — F72[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F72: Repealed (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 73(a), S.I. No. 71 of 2023.
+
+## 58. Broadcasting rules.
+
+**43**. — F73[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F73: Repealed (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 73(a), S.I. No. 71 of 2023.
+
+## 58. Inspection of draft broadcasting codes and rules.
+
+**44**.— F74[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F74: Repealed (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 73(a), S.I. No. 71 of 2023.
+
+## 58. Presentation of broadcasting codes and rules to Minister.
+
+**45**. — F75[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F75: Repealed (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 73(a), S.I. No. 71 of 2023.
+
+## 58. Co-operation with other parties — standards and self-regulation.
+
+**46**. — F76[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F76: Repealed (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 73(a), S.I. No. 71 of 2023.
+
+## PART 3A Register of providers of audiovisual on-demand media services — PART 3A — Register of providers of audiovisual on-demand media services
+
+### F77[46A. Register of providers of audiovisual on-demand media services.
+
+**46A**.— (1) The Commission shall establish and maintain a register of media service providers subject to registration.
+
+(2) For the purposes of this Part a media service provider is subject to registration if—
+
+(*a*) it is under the jurisdiction of the State, and
+
+(*b*) it provides an audiovisual on-demand media service.
+
+(3) The register shall include at least the following information for each media service provider:
+
+(*a*) the name of the media service provider;
+
+(*b*) the name of each audiovisual on-demand media service provided by the media service provider;
+
+(*c*) the criteria under *section 2A* on the basis of which the media service provider is under the jurisdiction of the State.
+
+(4) The register shall be in such form as the Commission considers appropriate.
+
+(5) The Commission shall provide a copy of the register to the Minister annually, or otherwise on the request of the Minister.
+
+(6) The Commission shall publish the register on a website maintained by it, but may omit such information, other than the information mentioned in *subsection (3)(a)* and *(b)*, as the Commission considers appropriate.
+
+(7) In this Part, “the register” means the register established and maintained by the Commission under this section.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F77: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 9, S.I. No. 71 of 2023.
+
+### 46B. Duty of media service providers to notify Commission.
+
+F78[**46B**.— (1) A media service provider that is subject to registration at the date of coming into operation of this Part shall give the Commission a notification under this section not later than the end of the transitional period.
+
+(2) A media service provider that becomes subject to registration during the transitional period shall give the Commission a notification under this section not later than—
+
+(*a*) the end of the transitional period, or
+
+(*b*) if later, the end of 10 working days from the date on which the provider becomes subject to registration.
+
+(3) A media service provider that becomes subject to registration after the transitional period shall give the Commission a notification under this section not later than 10 working days from the date on which the provider becomes subject to registration.
+
+(4) The transitional period is the period of 3 months from the date of coming into operation of this Part.
+
+(5) A notification under this section shall contain—
+
+(*a*) the name of the media service provider,
+
+(*b*) contact details of the media service provider,
+
+(*c*) the name of each audiovisual on-demand media service provided by the provider,
+
+(*d*) in each case, a description of the nature of the service and the nature of the content provided by the service,
+
+(*e*) a statement of the basis on which the media service provider considers that it is under the jurisdiction of the State, and
+
+(*f*) such other matters as the Commission may prescribe by rules under *section 46H*.
+
+(6) A notification shall be given in compliance with any rules made under *section 46H*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F78: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 9, S.I. No. 71 of 2023.
+
+### 46C. Duty of registered media service providers to notify changes.
+
+F79[**46C**.— (1) A media service provider registered on the register shall give the Commission a notification under this section of any change in the matters referred to in *section 46B(5)* (including any matters prescribed by rules under *section 46H*) relating to the provider or the services provided by the provider.
+
+(2) A notification under this section shall be given not later than 10 working days from the date on which the change occurs.
+
+(3) A notification shall be given in compliance with any rules made under *section 46H*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F79: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 9, S.I. No. 71 of 2023.
+
+### 46D. Procedure where Commission notified under section 46B or 46C.
+
+F80[**46D**.— (1) This section applies if the Commission receives a notification under *section 46B* or *46C*.
+
+(2) The Commission may request further information from the media service provider for the purposes of deciding what action to take under *subsection (3)* or *(4)*.
+
+(3) In the case of a notification under *section 46B*, the Commission shall as soon as practicable—
+
+(*a*) decide whether the media service provider is subject to registration, and
+
+(*b*) if it decides that the media service provider is subject to registration, make the appropriate entry in the register.
+
+(4) In the case of a notification under *section 46C*, the Commission shall as soon as practicable make any appropriate amendment to the register.
+
+(5) The Commission shall give the media service provider—
+
+(*a*) a statement in writing of any decision under *subsection (3)(a)*,
+
+(*b*) if that decision is that the provider is not subject to registration, a statement in writing of the reasons for the decision,
+
+(*c*) a copy of any entry under *subsection (3)(b)*, and
+
+(*d*) a statement in writing of any amendment under *subsection (4)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F80: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 9, S.I. No. 71 of 2023.
+
+### 46E. Review and correction of register.
+
+F81[**46E**.— (1) The Commission shall, from time to time as it considers appropriate, review each entry in the register.
+
+(2) The Commission shall amend the register if it is satisfied, following a review under *subsection (1)* or otherwise, that—
+
+(*a*) the provider to which an entry relates is not subject to registration, or
+
+(*b*) information included in the register is incorrect.
+
+(3) Before making an amendment under *subsection (2)* the Commission shall consult the provider concerned if it is practicable to do so.
+
+(4) The Commission may request further information from the provider for the purposes of deciding whether to make an amendment under *subsection (2)*.
+
+(5) The Commission shall give the provider concerned a statement in writing of any amendment it makes under *subsection (2)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F81: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 9, S.I. No. 71 of 2023.
+
+### 46F. Failure to notify or to provide further information.
+
+F82[**46F**.— (1) Where it appears to the Commission that a media service provider has failed to comply with *section 46B*, or *46C*, or a request under *section 46D(2)* or *section 46E(4)*, the Commission may by notice in writing direct the provider to take any action stated in the notice to comply with that section or that request.
+
+(2) The Commission shall not give a direction under *subsection (1)* unless it has given the provider an opportunity to make representations about the apparent failure.
+
+(3) A direction shall state—
+
+(*a*) the reasons for it, and
+
+(*b*) the period within which the provider must comply with it.
+
+(4) Where a direction states that the provider has failed to comply with *section 46B* or *46C*, the provider may appeal the direction to the Circuit Court within 28 days of receipt of the direction.
+
+(5) On hearing an appeal under *subsection (4)*, the Circuit Court may either—
+
+(*a*) affirm the direction, or
+
+(*b*) where it is satisfied that the Commission in giving the direction was irrational or erroneous in its reasoning, or committed a failure to comply with fair procedures, or any other clear error of law, order that the direction be withdrawn.
+
+(6) A person who fails without reasonable excuse to comply with a direction under *subsection (1)* shall be guilty of a category 2 offence.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F82: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 9, S.I. No. 71 of 2023.
+
+### 46G. Removal of provider or service from register.
+
+F83[**46G**.— (1) If under *section 46D(4)* or *46E(2)* the Commission—
+
+(*a*) removes from the register the entry relating to a media service provider, or
+
+(*b*) removes from the entry relating to a media service provider reference to an audiovisual on-demand media service,
+
+the Commission shall enter in the register a statement to that effect and a statement of the reasons for that removal.
+
+(2) The Commission shall give the provider concerned a copy of any statement included in the register under *subsection (1)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F83: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 9, S.I. No. 71 of 2023.
+
+### 46H. Rules and guidelines.
+
+F84[**46H**.— (1) The Commission may, having regard to the efficiency of the registration process and the need to maintain an up-to-date register, make rules prescribing:
+
+(*a*) subject to *section 46A(3)*, the information to be included in the register;
+
+(*b*) the form and manner of a notification under *section 46B* or *46C*, including the information which must be provided under *section 46B(5)(f)*;
+
+(*c*) the procedures which the Commission shall follow in making requests for further information under *sections 46D(2)* and *46E(4)*.
+
+(2) The Commission may issue guidelines in relation to the operation of this Part or of any rules made under *subsection (1)* and such guidelines shall be published on a website maintained by the Commission.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F84: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 9, S.I. No. 71 of 2023.
+
+## PART 3B — Duties, codes, and rules applying to media service providers and sound broadcasters
+
+### F85[Chapter 1 — Interpretation
+
+#### 46I. Interpretation.
+
+**46I**.— (1) In this Part—
+
+“party political programme” means a programme broadcast, or made available in a catalogue of an audiovisual on-demand media service, by or on behalf of a political party for the purpose of promoting the political party;
+
+“political party” means a political party registered in the Register of Political Parties;
+
+“relevant media service provider” means a provider of an audiovisual on-demand media service who is—
+
+(*a*) a corporation, or a subsidiary of a corporation,
+
+(*b*) a broadcasting contractor, or
+
+(*c*) a person who meets one or more of the conditions in *subsection (2)* and whose annual sales derived from activities referred to in that subsection are greater than €2 million;
+
+“relevant service” in relation to a relevant media service provider means an audiovisual on-demand media service provided by that provider.
+
+(2) The conditions referred to in *paragraph (c)* of the definition of “relevant media service provider” in *subsection (1)* are:
+
+(*a*) that the person or a related person publishes a newspaper or periodical consisting substantially of news and comment on current affairs;
+
+(*b*) that the person or a related person is a broadcaster;
+
+(*c*) that the person or a related person provides programme material consisting substantially of news and comment on current affairs to a broadcaster; or
+
+(*d*) that the person or a related person otherwise makes available on an electronic communications network any written, audio, audiovisual or photographic material, consisting substantially of news and comment on current affairs, that is under his or her editorial control.
+
+(3) For the purposes of *subsection (2)*, a person is a “related person” if the person is part of the same group of companies (within the meaning given to that term by section 8 of the Companies Act 2014) as the person referred to in *paragraph (c)* of the definition of “relevant media service provider” in *subsection (1)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F85: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 10, S.I. No. 71 of 2023.
+
+### Chapter 2 — Duties
+
+#### F86[46J. Harm, offence, incitement, and authority of State.
+
+**46J**.— (1) A broadcaster shall not broadcast, and a provider of an audiovisual on‑demand media service shall not make available in a catalogue of the service—
+
+(*a*) anything which may reasonably be regarded as causing harm or undue offence,
+
+(*b*) anything which may reasonably be regarded as likely to promote, or incite to, crime,
+
+(*c*) anything which may reasonably be regarded as conduct falling within Article 5 of Directive (EU) 2017/541 of the European Parliament and of the Council of 15 March 2017[^15] on combating terrorism and replacing Council Framework Decision 2002/475/JHA and amending Council Decision 2005/671/JHA,
+
+(*d*) anything which may reasonably be regarded as likely to incite to violence or hatred directed against a group of persons, or a member of a group, based on any of the grounds referred to in Article 21 of the Charter, or
+
+(*e*) anything which may reasonably be regarded as tending to undermine the authority of the State.
+
+(2) A failure to comply with *subsection (1)* shall be a contravention for the purposes of *Part 8B*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F86: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 10, S.I. No. 71 of 2023.
+
+#### 46K. Privacy.
+
+F87[**46K**.— (1) A broadcaster shall ensure that, in programmes broadcast by the broadcaster, and in the means employed to make such programmes, the privacy of any individual is not unreasonably encroached upon.
+
+(2) A provider of an audiovisual on-demand media service shall ensure that in programmes included in a catalogue of the service, and in the means employed to make such programmes, the privacy of any individual is not unreasonably encroached upon.
+
+(3) A failure to comply with *subsection (1)* or *(2)* shall be a contravention for the purposes of *Part 8B*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F87: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 10, S.I. No. 71 of 2023.
+
+#### 46L. News and current affairs.
+
+F88[**46L**.— (1) A broadcaster, in programmes which he or she broadcasts, and a relevant media service provider, in programmes which he or she makes available in a catalogue of the relevant service, shall ensure—
+
+(*a*) that news is reported and presented in an objective and impartial manner and without any expression of the broadcaster’s or provider’s own views, and
+
+(*b*) that the treatment of current affairs, including matters which are either of public controversy or the subject of current public debate, is fair to all interests concerned, and that the matter broadcast or made available is presented in an objective and impartial manner and without any expression of the broadcaster’s or provider’s own views.
+
+(2) Should it prove impracticable to apply *subsection (1)(b)* in relation to a single programme, 2 or more related programmes may be considered as a whole, if—
+
+(*a*) where the programmes are broadcast, they are broadcast within a reasonable period of each other, or
+
+(*b*) where the programmes are made available on a relevant service, they are made available in the same way on the relevant service within a reasonable period of each other.
+
+(3) Nothing in *subsection (1)* prevents a broadcaster from broadcasting, or a relevant media service provider from making available, party political programmes, provided that an unfair preference is not given to any political party—
+
+(*a*) by a broadcaster, in the allocation of time for such programmes, or
+
+(*b*) by a relevant media service provider, in the positioning of such programmes in a catalogue of the relevant service.
+
+(4) *Subsection (1)*, in so far as it requires a broadcaster or a relevant media service provider not to express his or her own views, does not apply to news or current affairs relating to a proposal which—
+
+(*a*) concerns policy as regards broadcasting which is of public controversy or the subject of current public debate, and
+
+(*b*) is being considered by the Government or the Minister.
+
+(5) Subject to *subsection (6)*, a provider of a sound broadcasting service shall ensure that the time devoted to the broadcasting of news and current affairs programmes on the service—
+
+(*a*) is not less than 20 per cent of the broadcasting time of the service, and
+
+(*b*) if the service is provided for more than 12 hours in any one day, is not less than 2 hours of the broadcasting time of the service between 07. 00 hours and 19. 00 hours.
+
+(6) The Commission may authorise a derogation in whole or in part from the requirement in *subsection (5)* in the case of a sound broadcasting service, if the Commission is satisfied that the derogation would be beneficial to the listeners of the service.
+
+(7) The sound broadcasting services established and maintained by RTÉ are deemed to be one sound broadcasting service for the purposes of *subsection (5)*.
+
+(8) A failure to comply with this section shall be a contravention for the purposes of *Part 8B*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F88: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 10, S.I. No. 71 of 2023.
+
+#### 46M. Advertising.
+
+F89[**46M**.— (1) A programme broadcast, or made available in a catalogue of an audiovisual on-demand media service, may include advertisements inserted in it.
+
+(2) A broadcaster shall not broadcast, and a relevant media service provider shall not make available in a catalogue of the relevant service, an advertisement which—
+
+(*a*) is directed towards a political end or has any relation to an industrial dispute, or
+
+(*b*) addresses the issue of the merits or otherwise of adhering to any religious faith or belief, or of becoming a member of any religion or religious organisation.
+
+(3) A provider of a sound broadcasting service shall ensure that in the service the total daily time devoted to the broadcasting of advertisements does not exceed 15 per cent of the total daily broadcasting time.
+
+(4) Nothing in *subsection (2)(a)* prevents a broadcaster from broadcasting, or a relevant media service provider from making available, party political programmes, provided that an unfair preference is not given to any political party—
+
+(*a*) by a broadcaster, in the allocation of time for such programmes, or
+
+(*b*) by a relevant media service provider, in the positioning of such programmes in a catalogue of the relevant service.
+
+(5) *Subsection (2)(a)* does not apply to advertisements broadcast by a broadcaster, or advertisements made available in a catalogue of a relevant service by a relevant media service provider, at the request of F90[An Coimisiún Toghcháin], in relation to a matter referred to in F91[section 31 of the Electoral Reform Act 2022] concerning a referendum.
+
+(6) A failure to comply with *subsection (2)* or *(3)* shall be a contravention for the purposes of *Part 8B*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F89: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 10, S.I. No. 71 of 2023.
+>
+> F90: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 68(a), S.I. No. 71 of 2023.
+>
+> F91: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 68(b), S.I. No. 71 of 2023.
+>
+> **Modifications (not altering text):**
+>
+> C9: Application of subs. (2)(a) restricted by *Electoral Reform Act 2022* (30/2022), s. 32(1) as amended (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 80, S.I. No. 71 of 2023
+>
+> **Advertisements etc. by Commission**
+>
+> **32.** (1) **[**Section 46M(2)(a)**]** of the Broadcasting Act 2009 shall not apply to advertisements broadcast at the request of the Commission in relation to a matter referred to in section 31 concerning a referendum.
+>
+> ...
+
+### Chapter 3 — Media service codes and media service rules
+
+#### F92[46N. Media service codes.
+
+**46N**. (1) The Commission may make codes (“media service codes”) governing the standards and practices of broadcasters and providers of audiovisual on-demand media services.
+
+(2) Media service codes may provide for standards and practices to ensure—
+
+(*a*) that broadcasters and providers of audiovisual on-demand media services comply with *sections 46J* and *46K*,
+
+(*b*) that broadcasters and relevant media service providers comply with *section 46L(1)* to *(3)*,
+
+(*c*) that in programme material audiences are protected from anything harmful or unduly offensive, and in particular that programme material relating to gratuitous violence or sexual conduct is presented—
+
+(i) with due sensitivity to the convictions or feelings of the audience, and
+
+(ii) in such a way that children will not normally hear or see anything which may impair their physical, mental or moral development,
+
+(*d*) that commercial communications—
+
+(i) protect the interests of the audience, and
+
+(ii) in particular, where they relate to matters likely to be of direct or indirect interest to children, protect the interests of children having particular regard to the general public health interests of children,
+
+and
+
+(*e*) that the provision of a broadcasting service or audiovisual on-demand media service which has as one of its principal objectives the promotion of the interests of any organisation protects the interests of the audience.
+
+(3) Media service codes may provide that party political programmes may be broadcast or made available only at specified times.
+
+(4) Media service codes may provide for standards and practices to promote the following:
+
+(*a*) balanced gender representation of participants in news and current affairs programmes broadcast by broadcasters or made available by providers of audiovisual on-demand media services;
+
+(*b*) the broadcast in programmes broadcast on sound broadcasting services of music composed or performed by women.
+
+(5) The Commission shall make media service codes providing for the matters required to be provided for by Articles 5, 6(1), 6a(1) to (3), 7b, 8, 9, 10, 11, 15, Chapter VI, and Chapter VII (other than Article 26) of the Directive (except in so far as provision is made by media service rules).
+
+(6) The Commission shall have regard to each of the following matters in making or amending a media service code—
+
+(*a*) the degree of harm or offence likely to be caused by the inclusion of a particular matter in programme material,
+
+(*b*) the likely size and composition of the potential audience for programme material,
+
+(*c*) the likely expectation of the audience as to the nature of programme material, and the extent to which the nature of the programme material can be brought to the attention of potential members of the audience,
+
+(*d*) the likelihood of persons who are unaware of the nature of programme material being unintentionally exposed to it by their own actions,
+
+(*e*) the desirability of securing that the provider of a broadcasting service or an audiovisual on-demand media service informs the Commission of any change affecting the nature of the service and, in particular, of any change relevant to the application of media service codes, and
+
+(*f*) the desirability of maintaining the independence of editorial control over programmes.
+
+(7) Provision made for the purpose referred to in *subsection (2)(d)(ii)* may prohibit or restrict, in accordance with law, the inclusion in programmes of commercial communications relating to foods or beverages considered by the Commission to be the subject of public concern in respect of the general public health interests of children, in particular infant formula, follow-on formula or those foods or beverages which contain fat, trans-fatty acids, salts or sugars.
+
+(8) In preparing a media service code the Commission may consult the relevant public health authorities about any provision made for the purpose referred to in *subsection (2)(d)(ii)*.
+
+(9) The Commission may amend or revoke a media service code.
+
+(10) A failure to comply with a media service code shall be a contravention for the purposes of *Part 8B*.
+
+(11) Subject to *subsection (12)*, the following broadcasting codes prepared under *section 42* of this Act before the date of coming into operation of this section shall, if in force immediately before that date, continue in force as if made under this section:
+
+(*a*) the General Commercial Communications Code (1 June 2017);
+
+(*b*) the Code of Fairness, Objectivity and Impartiality (1 July 2013);
+
+(*c*) the Code of Programme Standards (1 March 2015);
+
+(*d*) the Children’s Commercial Communications Code (2 September 2013).
+
+(12) After the coming into operation of this section, the broadcasting codes referred to in *subsection (11)* shall continue to apply to broadcasters only, unless otherwise amended or revoked by the Commission.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F92: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 10, S.I. No. 71 of 2023.
+
+#### 46O. Media service rules.
+
+F93[**46O**.— (1) The Commission may make rules (“media service rules”) for the purposes of this section.
+
+(2) Subject to *subsections (3)* and *(4)*, the Commission may make media service rules in relation to the total daily times that shall be allowed for broadcasting commercial communications on a broadcasting service provided by a broadcasting contractor.
+
+(3) In the case of audiovisual broadcasting—
+
+(*a*) media service rules under *subsection (2)* shall specify the time allowed for broadcasting audiovisual commercial communications in the period between 06. 00 and 18. 00 hours and in the period between 18. 00 and 24. 00 hours each day, but
+
+(*b*) the time specified shall not exceed 20 per cent of the time in each period.
+
+(4) Media service rules under *subsection (2)* relating to sound broadcasting shall be in accordance with *section 46M(3)*.
+
+(5) The Commission shall make media service rules requiring a broadcaster, as respects programmes broadcast by the broadcaster, and a provider of an audiovisual on-demand media service, as respects programmes made available in a catalogue of the service, to take steps to promote the understanding and enjoyment of those programmes by—
+
+(*a*) persons who are deaf or have a hearing impairment,
+
+(*b*) persons who are blind or partially sighted, and
+
+(*c*) persons who have a hearing impairment and are partially sighted.
+
+(6) Without prejudice to the generality of *subsection (5)*, media service rules under that subsection shall require a media service provider to take steps to provide access to audiovisual programmes by persons within any paragraph of that subsection by means such as the provision of—
+
+(*a*) a sign language service,
+
+(*b*) subtitling, or
+
+(*c*) audio description.
+
+(7) Media service rules under *subsection (5)* shall require media service providers to have regard to whether facilities such as those referred to in *subsection (6)* are provided—
+
+(*a*) in the case of an audiovisual broadcasting service—
+
+(i) daily, or at other regular intervals,
+
+(ii) at popular viewing times, as well as at other times, and
+
+(iii) for news and news related matters, as well as for other matters,
+
+or
+
+(*b*) in the case of an audiovisual on-demand media service, in an easily identifiable and easily accessible manner.
+
+(8) Media service rules under *subsection (5)* may require a broadcaster to ensure that a specified percentage of programmes broadcast on a broadcasting service in a specified period employs specified means by which the understanding and enjoyment by persons referred to in that subsection of that percentage of programmes may be promoted.
+
+(9) Media service rules shall provide for the matters required to be provided for by Articles 6(1), 6a(1), 7, 7b, 8, 9, 10, 11, Chapter VI and Articles 23(2), 24 and 25 of the Directive (except in so far as provision is made by media service codes).
+
+(10) The Commission may amend or revoke a media service rule.
+
+(11) A failure to comply with a media service rule shall be a contravention for the purposes of *Part 8B*.
+
+(12) The Commission shall prepare a report for the Minister on the operation of media service rules made under *subsection (5)*, in such form and manner as the Minister may specify, not later than 3 years after the coming into operation of this subsection, and every 3 years thereafter.
+
+(13) Subject to *subsection (14)*, the following broadcasting rules prepared under *section 43* of this Act before the date of coming into operation of this section shall, if in force immediately before that date, continue in force as if made under this section:
+
+(*a*) Access rules (28 January 2019);
+
+(*b*) Rules on Adverts and Teleshopping (28 July 2010).
+
+(14) After the coming into operation of this section, the broadcasting rules referred to in *subsection (13)* shall continue to apply to broadcasters only, unless otherwise amended or revoked by the Commission.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F93: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 10, S.I. No. 71 of 2023.
+
+### Chapter 4 — Retention of copies of programme material
+
+#### F94[46P. Retention of copies of programme material.
+
+**46P**.— (1) A broadcaster shall retain a copy of all programme material—
+
+(*a*) broadcast by the broadcaster, or
+
+(*b*) supplied by the broadcaster under a broadcasting contract or a content provision contract.
+
+(2) A provider of an audiovisual on-demand media service shall retain a copy of all programme material made available in a catalogue of an audiovisual on-demand media service by the provider.
+
+(3) The Commission may determine the duration for which copies of programme material shall be retained in each of the cases referred to in *subsections (1)* and *(2)* and shall publish the duration on a website maintained by it.
+
+(4) The Commission may require the broadcaster or provider referred to in *subsection (1)* or *(2)* to provide a copy of any programme material to which that subsection applies within a specified period.
+
+(5) A failure to comply with *subsection (1)* or *(2)* shall be a contravention for the purposes of Part 8B.
+
+(6) A person who fails without reasonable excuse to comply with a requirement under *subsection (4)* shall be guilty of a category 2 offence.
+
+(7) The making or retention of a copy of programme material for the purposes of compliance with *subsection (1)* or *(2)* is not a contravention of the Copyright and Related Rights Act 2000.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F94: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 10, S.I. No. 71 of 2023.
+
+### Chapter 5 — Procedures in relation to media service codes and media service rules
+
+#### F95[46Q. Consultation.
+
+**46Q**.— (1) Before making a media service code or media service rule, the Commission shall make a draft of it available for inspection by any person.
+
+(2) A person may make submissions to the Commission in relation to the draft referred to in *subsection (1)*, within such period as the Commission specifies for that purpose.
+
+(3) The Commission shall publish on a website maintained by it, and may publish in a newspaper circulating in the State, notice—
+
+(*a*) that a draft referred to in *subsection (1)* is available for inspection,
+
+(*b*) of the place at which, or the means by which, it may be inspected, and
+
+(*c*) of the period specified under *subsection (2)* for the making of submissions.
+
+(4) The Commission shall, in finalising a draft media service code or media service rule, have regard to any submissions made during the period specified under *subsection (2)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F95: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 10, S.I. No. 71 of 2023.
+
+#### 46R. Laying of codes and rules.
+
+F96[**46R**.— (1) A copy of any media service code or media service rule made or amended, and notice in writing of the revocation of any code or rule, shall be given to the Minister as soon as practicable after the code or rule is made, amended or revoked.
+
+(2) A media service code or media service rule shall be laid by the Commission before each House of the Oireachtas as soon as may be after it is made or amended and, if a resolution annulling the code or rule is passed by either such House within the next 21 days on which that House sits after the code or rule is laid before it, the code or rule shall be annulled accordingly, but without prejudice to the validity of anything previously done under it.
+
+(3) Subject to *section 46O(12)*, the Commission shall, from time to time as it sees fit, or at the direction of the Minister, review the effect of a media service code or media service rule and shall prepare a report in relation to that review and give it to the Minister.
+
+(4) The Minister shall cause a copy of the report referred to in *subsection (3)* to be laid before each House of the Oireachtas as soon as practicable after receiving it.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F96: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 10, S.I. No. 71 of 2023.
+
+## PART 4 — Redress
+
+### 47. Code of practice — complaints handling.
+
+**47**.— F97[(1) A broadcaster or provider of an audiovisual on-demand media service shall give due and adequate consideration to a complaint made in writing to it that it has failed to comply with one or more of the matters referred to in *section 48(1)* where, in the opinion of the broadcaster or provider of an audiovisual on-demand media service, the complaint is made in good faith and is not frivolous or vexatious.]
+
+(2) A complaint under *subsection (1)* shall be made to the F98[broadcaster or provider of an audiovisual on-demand media service] not more than 30 days after—
+
+(*a*) in case the complaint relates to one broadcast, the date of the broadcast,
+
+(*b*) in the case of 2 or more unrelated broadcasts, the date of the earlier or earliest, as the case may be, of those broadcasts, F99[...]
+
+(*c*) in case the complaint relates to 2 or more related broadcasts of which at least 2 are made on different dates, the later or latest of F100[those dates, or]
+
+F101[(*d*) in the case the complaint relates to programme material made available on an audiovisual on-demand media service, the date the programme material ceased to be available on that service.]
+
+(3) A F98[broadcaster or provider of an audiovisual on-demand media service] shall prepare and implement a code of practice for the handling F102[in accordance with *subsection (1)* of complaints made in accordance with *subsection (2)* or referred under *section 48(3)*]. The code of practice shall make provision for the following matters—
+
+(*a*) an initial point of contact for complainants, including an electronic-mail address,
+
+(*b*) a time period within which the F98[broadcaster or provider of an audiovisual on-demand media service] shall respond to complaints, and
+
+(*c*) the procedures to be followed by the F98[broadcaster or provider of an audiovisual on-demand media service] in the resolution of complaints.
+
+(4) A F98[broadcaster or provider of an audiovisual on-demand media service] shall publish on a website maintained by the F98[broadcaster or provider of an audiovisual on-demand media service], and generally make available, a copy of the code of practice prepared under *subsection (3)*.
+
+(5) The Compliance Committee may prepare and publish guidance for F103[broadcasters or providers of an audiovisual on-demand media service] for the purposes of ensuring compliance with *subsection (3)*.
+
+(6) A F98[broadcaster or provider of an audiovisual on-demand media service] shall supply F104[the matters referred to in *subsection (3)(a)* and *(b)*, and the address of the website referred to in *subsection (4)*,] to the Compliance Committee who shall cause such information to be published on a website maintained by the Authority.
+
+(7) A F98[broadcaster or provider of an audiovisual on-demand media service] shall keep a record of complaints made under *subsection (1)* F105[or referred under *section 48(3)*] and of any reply made thereto for a period of 2 years from the date of receipt of the complaint.
+
+(8) A F98[broadcaster or provider of an audiovisual on-demand media service] shall, if directed by the Compliance Committee, make available for inspection by the Compliance Committee all records kept by the F98[broadcaster or provider of an audiovisual on-demand media service] under *subsection (7)*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F97: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 11(a), S.I. No. 71 of 2023.
+>
+> F98: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 11(g), S.I. No. 71 of 2023.
+>
+> F99: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 11(b)(i), S.I. No. 71 of 2023.
+>
+> F100: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 11(b)(ii), S.I. No. 71 of 2023.
+>
+> F101: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 11(b)(iii), S.I. No. 71 of 2023.
+>
+> F102: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 11(c), S.I. No. 71 of 2023.
+>
+> F103: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 11(d), S.I. No. 71 of 2023.
+>
+> F104: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 11(e), S.I. No. 71 of 2023.
+>
+> F105: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 11(f), S.I. No. 71 of 2023.
+
+### 48. Complaints process.
+
+F106[**48**. (1) A person may make a complaint to the Commission that there has been a failure to comply with *section 46J*, *46K*, *46L*, *46M(2)* or *(3)*, a media service code, a media service rule, *section 46P(1)* or *(2)*, *section 106(3)* or *section 127(6)*.
+
+(2) A complaint shall be made in writing to the Commission not more than 30 days after—
+
+(*a*) where the complaint relates to one broadcast, the date of the broadcast,
+
+(*b*) where the complaint relates to 2 or more unrelated broadcasts, the date of the earlier or earliest, as the case may be, of those broadcasts,
+
+(*c*) where the complaint relates to 2 or more related broadcasts, of which at least 2 are made on different dates, the later or latest of those dates, or
+
+(*d*) where the complaint relates to programme material made available on an audiovisual on-demand media service, the date the programme material ceased to be available on that service.
+
+(3) The Commission may, in the first instance, refer the complaint to the broadcaster or provider of an audiovisual on-demand media service concerned, for his or her consideration in accordance with a code of practice prepared under *section 47(3)*.
+
+(4) If the Commission does not refer a complaint under *subsection (3)*, it may, following consideration of the complaint, dismiss the complaint, if it is satisfied that—
+
+(*a*) the complaint is frivolous or vexatious or was not made in good faith,
+
+(*b*) the subject matter of the complaint is trivial,
+
+(*c*) the complaint has been resolved effectively under a code of practice prepared under *section 47(3)*, or
+
+(*d*) the complaint was not made in accordance with *subsection (2)*.
+
+(5) If the Commission does not refer a complaint under *subsection (3)* or dismiss it under *subsection (4)*, it shall refer the complaint to a person authorised under *section 139ZI(2)* for his or her consideration.
+
+(6) Where the Commission refers a complaint under *subsection (3)* or *(5)* or dismisses a complaint under *subsection (4)*, it shall notify the person who made the complaint of that reference or dismissal as soon as practicable after doing so, and no later than 30 days after the date of the reference or dismissal.
+
+(7) Where a complaint is dismissed under *subsection (4)*, the notification referred to in *subsection (6)* shall include a statement of the reasons for the dismissal.
+
+(8) The Commission shall either refer a complaint under *subsection (3)* or *(5)* or dismiss a complaint under *subsection (4)* within 60 working days from the date on which the complaint is received and shall publish notice of the fact of the reference or dismissal on a website maintained by it.
+
+(9) A complaint made under *subsection (1)* of *section 47* in accordance with *subsection (2)* of that section may, whether resolved under a code of practice prepared under *subsection (3)* of that section or not, be treated by the Commission as a complaint made to the Commission in accordance with *subsection (2)* of this section.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F106: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 12, S.I. No. 71 of 2023, subject to transitional provision in s. 69.
+
+### 49. Right of reply.
+
+**49**.— (1) In this section—
+
+“requester” means a person who makes a request under *subsection (6)*;
+
+“right of reply” means the broadcast by a broadcaster of a statement prepared in accordance with a scheme;
+
+“scheme” means a scheme under *subsection (3)*.
+
+(2) Subject to this section, any person whose honour or reputation has been impugned by an assertion of incorrect facts or information in a broadcast shall have a right of reply.
+
+(3) The Authority shall prepare, F107[...] following a period of public consultation, a scheme for the exercise of the right of reply.
+
+(4) A scheme shall set out the procedures to be followed in the exercise of the right of reply.
+
+(5) In preparing a scheme the Authority shall ensure that—
+
+(*a*) a right of reply shall be broadcast—
+
+(i) within a reasonable time period subsequent to the request for a right of reply being made, and
+
+(ii) at a time and in a manner appropriate to the broadcast to which the request refers, and
+
+(*b*) a right of reply shall—
+
+(i) state to what extent the information contained in the broadcast under *subsection (2)* is incorrect or misleading, and
+
+(ii) be limited to factual assertions necessary to rectify an incomplete or otherwise distorting assertion.
+
+(6) A person who wishes to exercise a right of reply in accordance with a scheme shall make a request in writing addressed to the broadcaster concerned—
+
+(*a*) stating that the request is made under this section,
+
+(*b*) containing sufficient particulars to enable the identification by the taking of reasonable steps of the part of the broadcast which asserted incorrect facts impugning the honour or reputation of the requester, and
+
+(*c*) if the requester requires the right of reply to be given in a particular form or manner (being a form or manner which is in accordance with the terms of any scheme) specifying the form or manner of the right of reply.
+
+(7) A request for a right of reply shall be made not later than 21 days after the making of the broadcast referred to in the request, unless otherwise agreed between the requester and the broadcaster concerned.
+
+(8) The broadcaster shall, as soon as may be but not later than 10 days after the receipt of a request under *subsection (6)*—
+
+(*a*) decide whether to grant or refuse the request, and
+
+(*b*) cause notice in writing of the decision to be given to the requester.
+
+(9) Where notice of a decision under *subsection (8)* is not given to the requester by the expiration of the period specified for that purpose a decision refusing to grant the request under *subsection (6)* shall be deemed to have been made upon such expiration by the broadcaster concerned.
+
+(10) A broadcaster shall give due and adequate consideration to any request under *subsection (6)*, which in the opinion of the broadcaster has been made in good faith and is not of a frivolous or vexatious nature, by a member of the public in respect of the broadcasting service provided by the broadcaster and shall keep due and proper records for a period of 2 years of all such requests and of any reply made to them or of any action taken on foot of them.
+
+(11) A broadcaster shall, if directed by the Compliance Committee, make available for inspection by the Compliance Committee all records kept by him or her under *subsection (10)*.
+
+(12) No charge shall be made for the processing of a request under *subsection (6)* by a broadcaster.
+
+(13) In a defamation action the granting of a request for a right of reply under this section by a defendant in respect of a statement to which the action relates—
+
+(*a*) does not constitute an express or implied admission of liability by that defendant, and
+
+(*b*) is not relevant to the determination of liability in the action.
+
+(14) In a defamation action the defendant may give evidence in mitigation of damage, that he or she granted or offered to grant a right of reply under this section to the plaintiff in respect of the statement to which the action relates, either—
+
+(*a*) before the bringing of the action, or
+
+(*b*) as soon as practicable thereafter, in circumstances where the action was commenced before there was an opportunity to grant or offer to grant a right of reply.
+
+(15) In a defamation action, a defendant who intends to give evidence to which *subsection (14)* applies shall, at the time of the filing or delivery of the defence to the action, notify the plaintiff in writing of his or her intention to give such evidence.
+
+(16) Evidence of the granting of a right of reply under this section by a broadcaster in respect of a statement to which the action relates is not admissible in any civil proceedings as evidence of liability of the defendant.
+
+(17) Subject to this section, the Compliance Committee, F108[on application to it] in that behalf, in writing, by a requester, shall endeavor to within 21 days after the receipt of such an application, review a decision to refuse by a broadcaster under *subsection (8)* or *(9)* and F407[as it considers appropriate]—
+
+(*a*) affirm the decision, or
+
+(*b*) annul the decision and require the broadcaster concerned to broadcast the Compliance Committee’s decision including any correction of inaccurate facts or information relating to the individual concerned within 7 days of such decision being communicated to the broadcaster and at a time and in a manner corresponding to that in which the broadcast to which the request relates took place,
+
+in accordance with this section.
+
+(18) An application under *subsection (17)* shall be made to the Compliance Committee not more than 21 days after receipt of a decision to refuse under *subsection (8)* or *(9)*.
+
+(19) Where F110[the Commission proposes] to investigate an application made under *subsection (17)*, the Compliance Committee shall afford to the broadcaster to whom the application relates (hereafter in this section referred to as the “broadcaster concerned”) an opportunity to comment on the application.
+
+(20) As soon as may be after F111[it decides] on an application made under *subsection (17)*, the Compliance Committee shall send to—
+
+(*a*) the person who made the application, and
+
+(*b*) the broadcaster concerned,
+
+a statement in writing of F112[its decision], including the reasons for F112[its decision].
+
+(21) The Compliance Committee may reject any request for a right of reply where it is of the opinion *inter alia* that—
+
+(*a*) the request is of a frivolous or vexatious nature or was not made in good faith,
+
+(*b*) a right of reply is manifestly unnecessary owing to the minor significance of the error in the broadcast complained of,
+
+(*c*) the proposed right of reply cites untrue information or assertions,
+
+(*d*) the proposed right of reply is a personal opinion,
+
+(*e*) the proposed right of reply is an assessment or warning against the future conduct of a person,
+
+(*f*) satisfaction of the proposed right of reply would involve a punishable act,
+
+(*g*) satisfaction of the proposed right of reply would be harmful or offensive,
+
+(*h*) satisfaction of the proposed right of reply would render the broadcaster liable to civil law proceedings,
+
+(*i*) satisfaction of the proposed right of reply would breach a broadcaster’s statutory obligation,
+
+(*j*) satisfaction of the proposed right of reply would breach the terms of a broadcaster’s contract under *Part 6* with the Authority,
+
+(*k*) the person who was injured by the contested information has no legally justifiable actual interest in the publication of a right of reply,
+
+(*l*) the original broadcast also contained a statement from the person affected and such contents are equivalent to a right of reply,
+
+(*m*) an equivalent editorial correction has been made and the person affected informed,
+
+(*n*) the content of the proposed right of reply would violate the rights of a third party,
+
+(*o*) the matter concerned relates to reports on public sessions of the Houses of the Oireachtas or the Courts,
+
+(*p*) the matter concerned relates to a party political broadcast,
+
+(*q*) the matter concerned relates to a broadcast under F113[section 31 of the Electoral Reform Act 2022],
+
+(*r*) the broadcast of a right of reply is not in the public interest, or
+
+(*s*) the application was not made within the period specified in *subsection (18)*.
+
+(22) Where the Compliance Committee finds that the broadcaster has failed to comply with a decision under *subsection (17)* the Compliance Committee shall notify the broadcaster of those findings and give the broadcaster an opportunity to make representations in relation to the notification or remedy any non-compliance, not later than—
+
+(*a*) 10 days after F114[the giving of the notification], or
+
+(*b*) the end of such longer period as is agreed by the Compliance Committee with the broadcaster concerned.
+
+(23) Where, at the end of the period referred to in *subsection (22)*, the Compliance Committee is of the opinion that the broadcaster concerned has not remedied its non-compliance, F115[the Commission may, on notice to the broadcaster,] apply to the High Court for such order as may be appropriate in order to ensure compliance with a decision under *subsection (17)*.
+
+(24) The High Court may, as it thinks fit, on the hearing of the application make an order—
+
+(*a*) compelling compliance with a decision under *subsection (17)*,
+
+(*b*) varying a requirement under *subsection (17)*, or
+
+(*c*) refusing the application.
+
+(25) A scheme shall be—
+
+(*a*) published by the Authority on a website maintained by the Authority, and
+
+(*b*) carried out in accordance with its terms by the Compliance Committee.
+
+F116[(25A) The Commission may amend a scheme prepared under *subsection (3)* and an amended scheme shall be considered to be a scheme prepared under *subsection (3)*.]
+
+(26) (*a*) A scheme shall be laid before each House of the Oireachtas by the Minister as soon as may be after it is prepared.
+
+(*b*) Either House of the Oireachtas may, by resolution passed within 21 sitting days after the day on which a scheme was laid before it in accordance with *paragraph (a)*, annul the scheme.
+
+(*c*) The annulment under *paragraph (b)* of a scheme takes effect immediately on the passing of the resolution concerned but does not affect anything that was done under the scheme before the passing of the resolution.
+
+(27) The Authority shall review and report to the Minister on the operation, effectiveness and impact of a scheme not later than 3 years from the date on which it comes into operation and every 5 years thereafter or at such time as may be requested by the Minister.
+
+(28) A copy of a report under *subsection (27)* shall be laid by the Minister before each House of the Oireachtas as soon as may be after it has been made to him or her.
+
+F117[(29) A scheme prepared under *subsection (3)* before the date of coming into operation of section 13 of the Online Safety and Media Regulation Act 2022 shall, if in force immediately before that date, continue in force as if made under this section as amended by that section.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F107: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 13(a), S.I. No. 71 of 2023.
+>
+> F108, F109: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 13(b)(i), (ii), S.I. No. 71 of 2023.
+>
+> F110: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 13(c), S.I. No. 71 of 2023.
+>
+> F111, F112: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 13(d)(i), (ii), S.I. No. 71 of 2023.
+>
+> F113, F114, F115: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 13(e), (f), (g), S.I. No. 71 of 2023.
+>
+> F116, F117: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 13(h), (i), S.I. No. 71 of 2023.
+
+## PART 5 — Enforcement
+
+### Chapter 1 — Compliance with terms of contract
+
+#### 50. Investigation into affairs of contractor.
+
+**50**. F118[(1) In this section—
+
+“contractor” means a holder of a contract under *Part 6* or *8*;
+
+“investigator” means a person appointed as an investigator under *subsection (2)*.]
+
+F119[(2) If a person authorised by the Commission under *subsection (2A)* has reason to suspect that a contractor is not providing a service in accordance with the terms of the contractor’s contract, the person may appoint a member of the staff of the Commission, or such other person as he or she considers appropriate, as an investigator to carry out an investigation under this section into the operational, programming, financial, technical or other affairs of the contractor.]
+
+F120[(2A) The Commission may authorise any Commissioner or member of its staff to make an appointment referred to in *subsection (2)*.]
+
+(3) The F121[investigator]shall notify the contractor concerned of the matter under investigation and afford the contractor an opportunity to respond, within 7 days of the date of the notification, or such further period as the F122[investigator] allows, to the matter under investigation. It is the duty of the contractor to co-operate in the investigation.
+
+(4) An investigator may for the purposes of an investigation under this section require the contractor concerned to—
+
+(*a*) produce to the investigator such information or records in the contractor’s possession or control relevant to the investigation,
+
+(*b*) allow the investigator to enter the premises of the contractor to conduct such inspections and make such examinations of broadcasting equipment found there, and
+
+(*c*) where appropriate, attend before the investigator for the purposes of the investigation.
+
+(5) Where an investigator, having conducted an investigation under *subsection (2),* forms a view that a contractor is not providing the service referred to in that subsection in accordance with the terms of the contractor’s contract, then he or she shall notify the finding to the contractor and afford that contractor an opportunity to make submissions in accordance with any rules made under *subsection (8)* at a hearing before the Compliance Committee in respect of the matter under investigation.
+
+(6) The contractor concerned shall supply the Compliance Committee with such information and records the F123[Commission] considers necessary for the purposes of a hearing.
+
+(7) After consideration of submissions (if any) made by the contractor concerned under *subsection (5)*, the Compliance Committee may—
+
+(*a*) make a finding that the contractor is not providing the service referred to in *subsection (2)* in accordance with the terms of the contractor’s contract, or
+
+(*b*) make such other finding as it considers appropriate in the circumstances.
+
+(8) The Compliance Committee shall make rules providing for F124[the operation of an investigation under this section, and] the conduct of a hearing under *subsection (5)*. The rules shall provide for the period in which submissions under *subsection (5)* are to be made. The rules may include provision for an oral or other form of hearing, as appropriate.
+
+F125[(8A) The functions of the Commission under *subsections (5)*, *(6)* and *(7)* shall be exercised by a division of the Commission consisting of such uneven number of Commissioners, not being less than 3, as the Commission may determine.]
+
+F125[(8B) If the person appointing an investigator to carry out an investigation under *subsection (2)* is a Commissioner, the division exercising the functions referred to in *subsection (8A)* in relation to the investigation shall not include that Commissioner.]
+
+(9) F126[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F118, F119: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 14(a), (b), S.I. No. 71 of 2023.
+>
+> F120: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 14(c), S.I. No. 71 of 2023.
+>
+> F121, F122: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 14(d)(i), (ii), S.I. No. 71 of 2023.
+>
+> F123: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 14(e), S.I. No. 71 of 2023.
+>
+> F124, F125: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 14(f), (g), S.I. No. 71 of 2023.
+>
+> F126: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 14(h), S.I. No. 71 of 2023.
+>
+> **Modifications (not altering text):**
+>
+> C10: Transitional period provided for and section applied with modifications (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 70, S.I. No. 71 of 2023.
+>
+> *Investigation under section 50 of Principal Act*
+>
+> **70**. (1) Where before the date of coming into operation of section 14 an investigation conducted under *section 50* of the Principal Act has not resulted in a finding under *section 50(7)* of the Principal Act the investigation shall, on and after that date and subject to the modifications referred to in *subsection (2)*, be considered to be an investigation under *section 50* of the Principal Act as amended by this Act.
+>
+> (2) The modifications are that—
+>
+> (*a*) the investigator appointed by the Compliance Committee shall be deemed to have been appointed in accordance with *section 50(2)* and *(2A)* of the Principal Act as amended by this Act, and
+>
+> (*b*) where before the date of coming into operation of section 14 submissions have been made by a contractor under *section 50(5)* of the Principal Act, but a finding has not been made under *section 50(7)* of that Act, the contractor may be afforded a further opportunity to make submissions to the Commission under *section 50(5)* of the Principal Act as amended by this Act.
+
+#### 51. Termination or suspension of contract under Part 6 or 8.
+
+**51**.— F127[(1) Without prejudice to any provision of this Act, or of a contract made under it, the Commission may terminate, or suspend for such period as it considers reasonable, a contract entered into under *Part 6* or *Part 8*—
+
+(*a*) if any false or misleading information of a material nature was given to the Commission by or on behalf of the holder of the contract before it was entered into, or
+
+(*b*) if, following an investigation under *section 50*, the Commission has made a finding under *subsection (7)* of that section that the holder of the contract has failed on one or more occasions to comply with a term or condition of the contract, and the nature of that failure is of such seriousness as in the Commission’s opinion warrants the termination or suspension of the contract.]
+
+F128[(1A) The functions of the Commission under *subsections (1)* and *(2)*, shall be exercised by a division of the Commission consisting of such uneven number of Commissioners, not being less than 3, as the Commission may determine.]
+
+F128[(1B) In the case of functions under *subsection (1)(b)*, and *subsection (2)* as it applies to a decision under *subsection (1)(b)*, if the person who appointed the investigator to carry out the investigation referred to in *subsection (1)(b)* was a Commissioner, the division referred to in *subsection (1A)* shall not include that Commissioner.]
+
+F129[(2) Where the Commission proposes to make a decision under *subsection (1)* the Commission shall by notice in writing afford the holder of the contract concerned an opportunity to make submissions, in accordance with any rules made under *subsection (3)*, at a hearing before the Commission in respect of the matter under consideration.]
+
+(3) The Compliance Committee shall make rules providing for F130[the operation of this section, including] the conduct of a hearing under *subsection (2)*. The rules shall provide for the period in which submissions under *subsection (2)* are to be made. The rules may include provision for an oral or other form of hearing, as appropriate.
+
+F131[(3A) The Commission may make guidelines in relation to the operation of *section 50* and this section and shall publish any guidelines on a website maintained by it.]
+
+(4) A decision to terminate or suspend a contract by the Authority under this section, any other provision of this Act or a provision of the contract, may be appealed by the holder of the contract to the High Court.
+
+(5) F132[...]
+
+(6) A contract terminated or suspended under this section, under any other provision of this Act or under a provision of the contract, shall—
+
+(*a*) in case it is terminated, cease to have effect, and
+
+(*b*) in case it is suspended, cease to have effect for the period for which it is suspended.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F127: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 15(a), S.I. No. 71 of 2023.
+>
+> F128: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 15(b), S.I. No. 71 of 2023.
+>
+> F129: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 15(c), S.I. No. 71 of 2023.
+>
+> F130: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 15(d), S.I. No. 71 of 2023.
+>
+> F131: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 15(e), S.I. No. 71 of 2023.
+>
+> F132: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 15(f), S.I. No. 71 of 2023.
+>
+> **Modifications (not altering text):**
+>
+> C11: Transitional period provided for and section applied with modifications (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 71, S.I. No. 71 of 2023.
+>
+> **Termination or suspension of contract under section 51 of Principal Act**
+>
+> **71**. (1) Where before the date of coming into operation of section 15 the Compliance Committee has issued a notification under *section 51(2)* of the Principal Act but not heard submissions under that subsection, the notification shall on and after that date, and subject to the modification referred to in subsection (4)(a), be considered to be a notice under *section 51(2)* of the Principal Act as amended by section 15, and *section 51* of the Principal Act as amended by section 15 shall apply accordingly.
+>
+> (2) Where before the date of coming into operation of section 15 the Compliance Committee has received submissions under *section 51(2)* of the Principal Act but has not made a recommendation under *section 51(1)* of the Principal Act, the Commission shall on and after that date, and subject to the modifications referred to in subsection (4), make a decision in accordance with *section 51* of the Principal Act as amended by section 15.
+>
+> (3) Where before the date of coming into operation of section 15 the Compliance Committee has made a recommendation under *section 51(1)* of the Principal Act but the Authority has not suspended or terminated the contract under *section 51(1)* of the Principal Act, the Commission shall, on and after that date, and subject to the modification referred to in subsection (5), act in accordance with *section 51(1)* and *(5)* of the Principal Act as if section 15 had not come into operation.
+>
+> (4) The modifications referred to in subsections (1) and (2) are that—
+>
+> (*a*) the reference in *section 51(1)* of the Principal Act as amended by section 15 to the finding of the Commission under *section 50(7)* of the Principal Act, shall be construed as a reference to the finding of the Compliance Committee under *section 50(7)* of the Principal Act as it existed prior to the coming into operation of section 15, and
+>
+> (*b*) the Commission may afford the holder of the contract referred to in *section 51* of the Principal Act a further opportunity to make submissions in accordance with *section 51(2)* of the Principal Act as amended by section 15.
+>
+> (5) The modification referred to in subsection (3) is that references to the Authority in *section 51* of the Principal Act shall be construed as references to the Commission.
+>
+> (6) Any rules made by the Authority under *section 51(5)* of the Principal Act which were in force immediately before the coming into operation of section 15 shall continue in force for the purposes of *subsection (3)*, subject to any amendment made by the Commission.
+
+### Chapter 2 — Financial Sancitions
+
+#### 58. Definitions (Chapter 2).
+
+**52**.— F133[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F133: Repealed (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 73(b), S.I. No. 71 of 2023, subject to transitional provision in s. 72.
+
+#### 58. Investigation into affairs of broadcaster.
+
+**53**.— F134[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F134: Repealed (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 73(b), S.I. No. 71 of 2023, subject to transitional provision in s. 72.
+
+#### 58. Reports, findings, recommendations and procedures relating to outcome of investigation.
+
+**54**.— F135[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F135: Repealed (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 73(b), S.I. No. 71 of 2023, subject to transitional provision in s. 72.
+
+#### 58. Financial sanctions.
+
+**55**.— F136[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F136: Repealed (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 73(b), S.I. No. 71 of 2023, subject to transitional provision in s. 72.
+
+#### 58. Matters to be considered in determining the amount of financial sanction.
+
+**56**.— F137[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F137: Repealed (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 73(b), S.I. No. 71 of 2023, subject to transitional provision in s. 72.
+
+### Chapter 3 — Notifications
+
+#### 57. Notifications.
+
+**57**.— (1) F138[...]
+
+(2) F138[...]
+
+(3) A copy of a notification, which has endorsed on it a certificate purporting to be signed by an investigator under *Chapter 1* or investigating officer under *Chapter 2*, as the case may be, stating that the copy is a true copy of the notification may, without proof of signature of that person, be produced in every court or before the Authority and in all legal proceedings and is evidence, unless the contrary is shown, of the notification.
+
+(4) In this section “notification” means a notification under this Part.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F138: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 16, S.I. No. 71 of 2023.
+
+## PART 6 — Broadcasting Contracts and Content Provision Contracts — Commercial and Community Broadcasters
+
+### 58. Interpretation (Part 6).
+
+**58**.— (1) In this Part—
+
+“broadcasting licence” means a licence granted under *section 59*;
+
+“sound broadcasting contract” means a contract entered into under *section 63*;
+
+F139[...]
+
+(2) Any contract in respect of broadcasting entered into under an enactment repealed by *section 3* by the BCI with another person which is in force immediately before the passing of this Act continues in force as if made under the corresponding provision of this Part and has effect accordingly.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F139: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 17, S.I. No. 71 of 2023.
+
+### 59. Broadcasting licence.
+
+**59**.— (1) The Authority shall not authorise a broadcasting contractor to operate a broadcasting transmitter and provide a broadcasting service under a broadcasting contract unless and until the Communications Regulator has granted under this subsection to the Authority a licence (“broadcasting licence”) under section 5 of the Act of 1926 in respect of the sound or television broadcasting transmitter to which the contract relates.
+
+(2) A broadcasting licence shall be valid only for such period of time as a broadcasting contract between the Authority and a broadcasting contractor is in force.
+
+(3) Every broadcasting contract shall contain a condition requiring the broadcasting contractor concerned to establish, maintain and operate the broadcasting transmitter concerned in accordance with such terms and conditions as the Communications Regulator attaches to the broadcasting licence to which the contract relates (including any variations made to it in accordance with *section 60*), and so long as the terms and conditions are complied with, the contract has the effect of conveying the benefits of the licence to the broadcasting contractor and any such transmitter so established, maintained and operated shall be deemed to be licensed for the purposes of the Act of 1926.
+
+(4) Every broadcasting licence shall be open to inspection by members of the public at the Authority’s F140[...] office, at such times as the Authority considers reasonable during office opening hours.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F140: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 18, S.I. No. 71 of 2023.
+
+### 60. Variation of broadcasting licence.
+
+**60**.— (1) The Communications Regulator may vary any term or condition of a broadcasting licence—
+
+(*a*) if it appears to it to be necessary so to do in the interest of good radio frequency management,
+
+(*b*) for the purpose of giving effect to any international agreement to which the State is a party and which has been ratified by the State and which relates to broadcasting,
+
+(*c*) if it appears to it to be in the public interest so to do,
+
+(*d*) if it appears to it to be necessary for the safety or security of persons or property so to do,
+
+(*e*) on request from the Authority after consultation with any affected broadcasting contractor, or
+
+(*f*) on request from the Authority on behalf of a broadcasting contractor.
+
+(2) (*a*) If the Communications Regulator, for any reason specified in *paragraph (a)*, *(b)* or *(c)* of *subsection (1)* proposes to vary, under this section, any term or condition of a broadcasting licence, the Regulator shall, by notice in writing, inform the Authority of the Regulator’s intentions and of the reasons for it. The Authority shall, within 7 days of receiving the notice, give notice in writing to the broadcasting contractor concerned of the intention.
+
+(*b*) The broadcasting contractor shall have the right to make representations in writing to the Authority in respect of the Communications Regulator’s intentions, within 21 days after the service of the notice by the Authority.
+
+(*c*) The Authority shall transmit any such representations to the Communications Regulator within a further 7 days and the Communications Regulator, having considered the representations, may make such decision thereon as seems to it to be appropriate.
+
+(3) (*a*) If, having considered the representations (if any) which have been notified to it by the Authority by or on behalf of a broadcasting contractor, the Communications Regulator decides to vary any term or condition of a licence, it shall, by notice in writing, inform the Authority of its decision.
+
+(*b*) The Authority shall, within 7 days of receipt of the Communications Regulator’s decision by notice in writing inform the broadcasting contractor of that decision.
+
+(*c*) On and from the day following service on the contractor of notice of the Communications Regulator’s decision the licence shall have effect subject to the variation of it by that decision.
+
+(4) F141[...]
+
+(5) F141[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F141: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 19, S.I. No. 71 of 2023.
+
+### 61. Emergencies.
+
+**61**.— (1) In this section “network provider” means a person providing or operating an electronic communications network which is used for the distribution, transmission or retransmission of broadcasting services to the public.
+
+(2) During the continuance of any national emergency, the Minister may suspend any broadcasting licence or multiplex licence as defined in *section 129* and, while any such suspension continues, the Minister may operate any service which was provided under the suspended licence or require such service to be operated as he or she directs.
+
+(3) The Authority shall have the power to require broadcasting contractors and network providers to co-operate with the relevant public bodies in the dissemination of relevant information to the public in the event of a major emergency.
+
+(4) If and whenever the Minister shall exercise the powers conferred on him or her by *subsection (2)* the broadcasting contractor or multiplex contractor shall be entitled to receive from the Minister, with the consent of the Minister for Finance—
+
+(*a*) such sums as are required to defray any expenses which, regard being had to the nature of the emergency, have been properly and necessarily incurred by the broadcasting contractor or multiplex contractor and for meeting which revenue is by reason of the exercise of such powers not otherwise available to the broadcasting contractor or multiplex contractor, and
+
+(*b*) compensation for any damage done to any property of the broadcasting contractor or multiplex contractor, being damage directly attributable to the exercise of such powers.
+
+(5) At the request of the Minister, the Authority shall direct a broadcasting contractor to allocate broadcasting time for announcements for and on behalf of any Minister of the Government, in the event of a major emergency, in connection with the functions of that Minister of the Government. The broadcasting contractor shall comply with the direction.
+
+(6) At the request of the Minister, the Authority shall direct a network provider, in a manner to be specified by the Authority, to carry broadcast announcements for and on behalf of any Minister of the Government, in the event of a major emergency, in connection with the functions of that Minister of the Government. The network provider shall comply with the direction.
+
+(7) In complying with a direction under *subsection (5)* or *(6)* a broadcasting contractor or network provider may broadcast an announcement that it has received such a direction from the Authority.
+
+### 62. Restriction on award of sound broadcasting contract.
+
+**62**.— F142[The Commission shall not grant] a sound broadcasting contract to a person who has been convicted of an offence under section 3(3) (inserted by *section 181 (2)*) of the Act of 1926 or under section 3, 4 or 5 of the Act of 1988 if the conviction occurred less than 12 months before the first day on which the person proposes to engage in sound broadcasting activities to which the application for the sound broadcasting contract relates.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F142: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 20, S.I. No. 71 of 2023.
+
+### 63. Sound broadcasting contracts.
+
+**63**.— F143[The Commission] shall enter into contracts (“sound broadcasting contracts”) with persons ("sound broadcasting contractors”) under which the sound broadcasting contractors have, subject to this Part, the right and duty to establish, maintain and operate sound broadcasting transmitters serving the areas specified in the sound broadcasting contract and to provide, as the sound broadcasting contract may specify, a sound broadcasting service.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F143: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 21, S.I. No. 71 of 2023.
+
+### 64. Community sound broadcasting contracts.
+
+**64**.— F144[The Commission] may enter into a class of sound broadcasting contract (“community sound broadcasting contract”) with 2 or more members of a local community or of a community of interest if it is satisfied that—
+
+(*a*) those members are representative of, and accountable to, the community concerned, and
+
+(*b*) the supply of programme material in pursuance of the contract will be effected with the sole objective of—
+
+(i) specifically addressing the interests of, and seeking to provide a social benefit to, the community concerned, and
+
+(ii) achieving a monetary reward of no greater amount than is reasonably necessary to defray the expenses that will be incurred in effecting that supply.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F144: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 22, S.I. No. 71 of 2023.
+
+### 65. Applications for sound broadcasting contracts.
+
+**65**.— (1) In order to secure the orderly development of broadcasting services and to allow for the establishment of a diversity of services in an area catering for a wide range of tastes including those of minority interests, the Authority shall liaise and consult with the Communications Regulator in the preparation by that body of an allocation plan for the frequency range dedicated to sound broadcasting.
+
+(2) The Authority, having regard to an allocation plan under *subsection (1)* and after consultation with the Communications Regulator, in respect of the availability of radio frequencies for sound broadcasting services shall—
+
+(*a*) specify the area (which area may consist of the whole or any part of the State) in relation to which applications for a sound broadcasting contract are to be F145[invited.]
+
+(*b*) F146[...]
+
+(3) Where the Authority proposes to specify an area under *subsection (2)*, the Authority may conduct, or arrange for there to be conducted, either or both—
+
+(*a*) a study in that area or amongst a community of interest for the purposes of ascertaining the interests and wishes of that area or community in respect of sound broadcasting services, or
+
+(*b*) a study as to the sectoral impact of an additional sound broadcasting contract in that area.
+
+(4) The Authority shall publish the results of any study conducted under *subsection (3)* on a website maintained by the Authority.
+
+(5) F147[...]
+
+(6) F149[The Commission may, by public notice, in such form and manner as it considers appropriate,] invite expressions of interest in the securing of contracts for sound broadcasting services under this Act. Any expressions of interest must be made within 60 days of the date of such notice and must indicate in general terms the type of service that would be provided and shall not be regarded as an application for a sound broadcasting contract.
+
+(7) A public notice under *subsection (6)* may invite all interested parties to express their views on the type of sound broadcasting service proposed.
+
+F150[(8) Subject to this Part, the Commission shall invite applications for a sound broadcasting contract for the provision of a sound broadcasting service in each area specified by the Commission under *subsection (2)*, and may enter into such a contract.]
+
+F151[(8A) For the purposes of *subsection (8)* the Commission may consider the results of any study conducted under *subsection (3)*.]
+
+(9) Where the Contract Awards Committee invites applications for a sound broadcasting contract for the provision of a sound broadcasting service it shall by public notice specify the area in relation to which the sound broadcasting service is to be provided pursuant to such contract and by such notice shall invite persons interested in providing such a service to apply for such contract.
+
+(10) In considering applications for the award of a sound broadcasting contract the Contract Awards Committee shall determine applications in accordance with *section 66* and assign a F152[score to each of the criteria specified in *section 66(2)*, either individually or in combination,] and the Contract Awards Committee shall inform each person who has indicated his or her intention of being an applicant for a contract of such assignment.
+
+(11) The Contract Awards Committee shall in reaching its decision as to the award of a sound broadcasting contract assign an agreed score to each of the applications received in accordance with *subsection (10)*.
+
+(12) F148[...]
+
+(13) Every notice under *subsection (9)* shall—
+
+(*a*) be published on a website maintained by the Authority, and where appropriate, in a newspaper circulating in the area to be served,
+
+(*b*) specify the procedure to be followed in order to make an application, and
+
+(*c*) specify any other matters which appear to the Contract Awards Committee to be necessary or relevant.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F145: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 23(a)(i), S.I. No. 71 of 2023.
+>
+> F146, F147, F148: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 23(a)(ii), (b), (g), S.I. No. 71 of 2023.
+>
+> F149, F150: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 23(c), (d), S.I. No. 71 of 2023.
+>
+> F151: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 23(e), S.I. No. 71 of 2023.
+>
+> F152: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 23(f), S.I. No. 71 of 2023.
+
+### 66. Determination of applications for award of sound broadcasting contracts and television programme service contract.
+
+**66**.— (1) The Contract Awards Committee shall, in accordance with this Part, consider every application received by it—
+
+(*a*) for a sound broadcasting contract made under *section 65 (8)*, or
+
+(*b*) for a television programme service contract,
+
+for the purpose of determining the most suitable applicant, if any, to be awarded a broadcasting contract.
+
+(2) In the consideration of applications referred to in *subsection (1)* received by it and in determining the most suitable applicant to be awarded a broadcasting contract, the Contract Awards Committee shall have regard to—
+
+(*a*) the character, expertise and experience of the applicant or, if the applicant is a body corporate, the character expertise and experience of the body and its directors, manager, secretary or other similar officer and its members and the persons entitled to the beneficial ownership of its shares,
+
+(*b*) the adequacy of the financial resources that will be available to each applicant and the extent to which the application accords with good business and economic principles,
+
+(*c*) the quality, range and type of the programmes proposed to be provided by each applicant or, if there is only one applicant, by that applicant,
+
+(*d*) the quantity, quality, range and type of programmes in the Irish language and the extent of programmes relating to Irish culture proposed to be provided,
+
+(*e*) the extent to which the applicant will create within the proposed broadcasting service new opportunities for talent in music, drama and entertainment and in particular in respect of Irish culture,
+
+(*f*) the desirability of having a diversity of services in the area specified in the notice catering for a wide range of tastes including those of minority interests,
+
+(*g*) the desirability of allowing any person, or group of persons, to have control of, or substantial interests in, an undue number of sound broadcasting services in respect of which a sound broadcasting contract has been awarded under this Part,
+
+(*h*) the desirability of allowing any person, or group of persons, to have control of, or substantial interests in, an undue number of sound broadcasting services in the area specified in the notice,
+
+(*i*) the desirability of allowing any person, or group of persons, to have control of, or substantial interests in, an undue amount of the communications media in the area specified in the notice,
+
+(*j*) the extent to which the service proposed—
+
+(i) serves recognisably local communities and is supported by the various interests in the community, or
+
+(ii) serves communities of interest,
+
+(*k*) any other matters which the Contract Awards Committee considers to be necessary to secure the orderly development of broadcasting services, and
+
+(*l*) F153[...] any of—
+
+(i) the amount of a single cash sum payment, as specified by the applicant during the course of his or her application, which the applicant is willing to pay to the Authority in respect of the award of the broadcasting contract,
+
+(ii) the amount of a periodic cash sum payment, as specified by the applicant during the course of his or her application, which the applicant is willing to pay to the Authority in respect of the award of the broadcasting contract, and
+
+(iii) the amount of a periodic cash sum payment determined by reference to a variable, as specified by the applicant during the course of his or her application, which the applicant is willing to pay to the Authority in respect of the award of the broadcasting contract.
+
+(3) In considering the suitability of any applicant for the award of a sound broadcasting contract to provide a sound broadcasting service in respect of an area which includes a Gaeltacht area, the Contract Awards Committee shall have particular regard to the continuance and advancement as a spoken language of the Irish language.
+
+(4) In considering the suitability of an applicant for the award of a broadcasting contract, the Contract Awards Committee shall have regard to—
+
+(*a*) the overall quality of the performance of the applicant with respect to the provision by him or her of a broadcasting service under any broadcasting contract held by him or her at, or before, the date of the making of the F154[application.]
+
+(*b*) F155[...]
+
+(5) Where F156[the Commission decides to refuse to award a broadcasting contract to an applicant, it shall] notify the applicant of—
+
+(*a*) the reasons for the decision,
+
+(*b*) the score of the applicant, and
+
+(*c*) the score of any successful applicant.
+
+(6) In this section “notice” means a notice under *section 65 (9)*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F153: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 24(a), S.I. No. 71 of 2023.
+>
+> F154: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 24(b)(i), S.I. No. 71 of 2023.
+>
+> F155: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 24(b)(ii), S.I. No. 71 of 2023.
+>
+> F156: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 24(c), S.I. No. 71 of 2023.
+
+### 67. Fast-track application process for award of sound broadcasting contracts.
+
+**67**.— (1) In this section—
+
+F157[...]
+
+“fast-track procedure” means a procedure provided for under *subsection (2)*;
+
+“incumbent” means the holder of a sound broadcasting contract which is the subject of a notice under *section 65 (6)*.
+
+(2) Where, in the opinion of the F158[Commission], the only response made in good faith pursuant to a public notice under *section 65(6)*, is received from the incumbent, then the F158[Commission] may at its discretion propose to invoke a fast-track procedure under *subsection (6)*.
+
+(3) Where the F159[Commission] proposes to invoke a fast-track procedure, it shall by notice published on a website maintained by the Authority, and where appropriate in a newspaper circulating in the area to be served, state its intention to invoke such a procedure.
+
+(4) If a person, other than the incumbent, within 28 days of a notice published under *subsection (3)*—
+
+(*a*) submits in writing that he or she wishes to apply for the award of a sound broadcasting contract for the area concerned, and
+
+(*b*) deposits such a sum with the Authority as is specified by the F160[Commission] in any notice under *subsection (3)*, not exceeding €25,000,
+
+then the F160[Commission] shall proceed to—
+
+(i) invite applications for the award of a sound broadcasting contract for the area concerned under F161[*section 65(8)*.]
+
+(ii) F162[...]
+
+(5) Where, in the opinion of the F163[Commission], an application under *section 65* has been received consequent to a submission under *subsection (4)* then any sum deposited under *subsection (4)* shall be refunded in full.
+
+(6) In the event that no written submission and associated deposit are received under *subsection (4)* the F164[Commission] may—
+
+F165[(*a*) assess the incumbent’s compliance with the terms of its sound broadcasting contract and *Part 3B*,]
+
+(*b*) invite the incumbent to make a proposal to amend the terms of his or her sound broadcasting contract, and
+
+(*c*) suggest to the incumbent possible amendments to the terms of his or her contract.
+
+(7) A proposal received under *subsection (6)* must address—
+
+(*a*) the matters outlined in *section 66*, and
+
+(*b*) such other matters as the F166[Commission] may consider relevant.
+
+(8) On consideration of a proposal received under *subsection (6)* the F167[Commission] may—
+
+(*a*) reject the contractual changes proposed by the incumbent and proceed to invite applications under *section 65 (8)* from other persons for the area F168[concerned, or]
+
+(*b*) F170[...]
+
+F169[(*c*) agree amended contract terms with the incumbent.]
+
+(9) The term of any contract extension agreed under *subsection (8)* shall not exceed 10 years.
+
+(10) All payments made to the Authority under *subsection (4) (b)* and subsequently forfeited by the applicant shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance may direct.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F157: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 25(a), S.I. No. 71 of 2023.
+>
+> F158, F159: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 25(b), (c), S.I. No. 71 of 2023.
+>
+> F160, F161: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 25(d)(i), (ii), S.I. No. 71 of 2023.
+>
+> F162: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 25(d)(iii), S.I. No. 71 of 2023.
+>
+> F163, F164, F165, F166: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 25(e), (f)(i), (ii), (g), S.I. No. 71 of 2023.
+>
+> F167, F168, F169: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 25(h)(i), (ii), (iv), S.I. No. 71 of 2023.
+>
+> F170: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 25(h)(iii), S.I. No. 71 of 2023.
+
+### 68. Sound broadcasting contracts for temporary or institutional sound broadcasting services.
+
+**68**.— (1) F171[The Commission] may, in any period of 12 months, enter into a sound broadcasting contract with an applicant for the provision in such area as may be specified in the contract of a sound broadcasting service for a period of—
+
+(*a*) not more than 30 days (whether consecutive days or otherwise) in that period of 12 months, or
+
+(*b*) if the application is for a community sound broadcasting contract, not more than 100 days (whether consecutive days or otherwise) in that period of 12 months.
+
+(2) F172[The Commission] may enter into a sound broadcasting contract with an applicant for the provision of a low-power sound broadcasting service which is intended to serve only such single educational institution, hospital, or other similar establishment as may be specified in the contract.
+
+(3) F173[*Section 46L(5)*] does not apply to a contract awarded for the provision of a sound broadcasting service under this section.
+
+(4) *Sections 65* and *66* do not apply in the case of a contract applied for, or awarded, for the provision of a sound broadcasting service under this section.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F171, F172, F173: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 26(a), (b), (c), S.I. No. 71 of 2023.
+
+### 69. Terms and conditions of broadcasting contract.
+
+**69**.— (1) Every broadcasting contract may contain such terms and conditions as the Authority thinks appropriate and specifies in the contract.
+
+(2) Without prejudice to the generality of *subsection (1)*, the Authority may specify in a broadcasting contract all or any of the following terms or conditions:
+
+(*a*) the period during which the contract shall continue in force;
+
+(*b*) whether the contract may be renewed and, if so, the manner in which, the terms on which, and the period for which, the contract may be so renewed;
+
+(*c*) a condition prohibiting the assignment of the contract or of any interest in it;
+
+(*d*) if the broadcasting contractor is a company, a condition prohibiting any alteration in the Memorandum or Articles of Association of the company or in so much of that Memorandum or of those Articles as may be specified or prohibiting any material change in the ownership of the company;
+
+(*e*) a condition requiring the broadcasting contractor to provide the quality, range and type of programmes which he or she proposed to offer in his or her application for the award of the contract;
+
+(*f*) a condition requiring the sound broadcasting contractor to pay to the Authority the amount which the contractor specified in his or her application.
+
+(3) If a broadcasting contract does not contain a condition of the type specified in *paragraph (c)* or *(d)* of *subsection (2)*, the following provisions shall have effect:
+
+(*a*) a broadcasting contract, or any interest in a broadcasting contract, shall not be assignable, nor shall any alteration be made in the Memorandum or Articles of Association of any company which is a broadcasting contractor, nor shall there be any material change in the ownership of such a company, without the previous consent in writing of the Authority, and the Authority may, if it considers it reasonable so to do, refuse such consent;
+
+(*b*) in considering whether to grant its consent to an assignment of a broadcasting contract, a change in the Memorandum or Articles of Association of a company which is a broadcasting contractor, or a material change in the ownership of such a company, the Authority shall have regard to the criteria specified in *section 66 (2)* and, where applicable, *section 66 (4)*.
+
+(4) Every broadcasting contract shall provide that the broadcasting contractor shall provide such information (including copies of his or her accounts) which F174[the Commission] considers it requires in order to enable it carry out its functions under this Act.
+
+(5) Every broadcasting contract shall be open to inspection by members of the public at the Authority’s F175[...] office and the Authority shall, on request made by any person and on payment of such sum (if any) as the Authority may reasonably require, give to that person a copy of that contract.
+
+(6) In order to avoid the loss of sound programme material inimical to the preservation of a historical record of Irish culture, heritage and experience and as an initial step towards the development of an integrated approach to the archiving of programme material produced in the State, every sound broadcasting contract shall contain a term or condition requiring the sound broadcasting contractor to make a recording and to store categories of programme material, which may be inspected by the Authority, for the term of the sound broadcasting contract and for a period of 6 years thereafter.
+
+(7) The Authority shall, within one year of the passing of this Act, prescribe a format and categories to be followed by sound broadcasting contractors for the purposes of the storing and recording of programme material as required under *subsection (6)*.
+
+(8) The Authority may vary the categories and amounts of programme material required to be recorded and stored by a sound broadcasting contractor having regard to the nature and amount of programme material broadcast by the sound broadcasting contractor and any financial burden associated with such recording and storage.
+
+(9) In carrying out its duties under *subsections (7)* and *(8)* the Authority shall have due regard to programme content which:
+
+(*a*) is in the Irish language,
+
+(*b*) relates to Irish culture and life,
+
+(*c*) concerns Irish music, drama and entertainment,
+
+(*d*) is news, current affairs or documentary,
+
+(*e*) is in any other category identified by the Authority and which the Authority deems is worthy of maintenance and preservation.
+
+(10) The Authority may store on behalf of a sound broadcasting contractor or a person who held a sound broadcasting contract any programme material recorded under *subsection (6)*.
+
+(11) The making of a recording and storage of programme material in compliance with *subsection (6)* or *(10)* is not a contravention of the Copyright and Related Rights Act 2000.
+
+(12) The Authority shall report to the Minister on an annual basis in relation to the performance of its duties under *subsections (7)*, *(8)*, *(9)* and *(10)*.
+
+(13) Any amount paid to the Authority by a contractor, being an amount which the contractor specified in his or her application, shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance may direct.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F174: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 27(a), S.I. No. 71 of 2023.
+>
+> F175: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 27(b), S.I. No. 71 of 2023.
+
+### 70. Television programme service contract.
+
+**70**.— (1) F176[The Commission] shall enter into a contract (“television programme service contract”) with a person or persons (“television programme service contractor”) who shall have the right and duty to establish and maintain a television programme service and who, subject to *section 139*, shall have the right and duty, subject to the terms of the contract, to establish, maintain and operate television broadcasting transmitters for the purpose of transmitting the television programme service as a free-to-air service.
+
+(2) The Authority shall ensure that a television programme service provided by a television programme service contractor under this section shall in its programming—
+
+(*a*) be responsive to the interests and concerns of the whole community, be mindful of the need for understanding and peace within the whole island of Ireland, ensure that the programmes reflect the varied elements which make up the culture of the people of the whole island of Ireland, and have special regard for the elements which distinguish that culture and in particular for the Irish language,
+
+(*b*) uphold the democratic values enshrined in the Constitution, especially those relating to rightful liberty of expression,
+
+(*c*) have regard to the need for the formation of public awareness and understanding of the values and traditions of countries other than the State, including in particular those of other Member States, and
+
+(*d*) include a reasonable proportion of news and current affairs programmes.
+
+(3) A television programme service contractor shall in its programming comply with the requirements set out in *paragraphs (a)* to *(d)* of *subsection (2)*.
+
+(4) For the purpose of ensuring compliance with *subsection (2)* the Authority shall ensure that a reasonable proportion of the television programme service—
+
+(*a*) is produced in the State or in another Member State, and
+
+(*b*) is devoted to original programme material produced therein by persons other than the contractor, its subsidiary, its parent or existing broadcasting organisations.
+
+(5) The television programme service contract entered into between TV3 Television Network Limited trading as TV3 and the BCI under section 17 of the Radio and Television Act 1988 and section 6 of the Broadcasting Act 1990, if in force immediately before the passing of this Act, continues as if entered into under this section.
+
+(6) The Authority shall ensure that any contract entered into by it under this section and any such contract renewed by it under this Act, contains a term providing that the expression “independent television programme”, where used in the contract, has the same meaning as it has in *section 116*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F176: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 28, S.I. No. 71 of 2023.
+
+### 71. Content provision contracts.
+
+**71**.— (1) Subject to *subsection (3)*, a person shall not supply a compilation of programme material for either of the purposes set out in *subsection (2)* otherwise than under and in accordance with a content provision contract.
+
+(2) The purposes for which *subsection (1)* applies are—
+
+(*a*) inclusion as part of a multiplex,
+
+(*b*) the purpose of its being transmitted as a broadcasting service in the State, part of the State or elsewhere by means of an electronic communications network including a satellite network, F177[...] a fixed or mobile terrestrial network, a cable television network, an internet protocol television network or any other form of electronic communications network.
+
+(3) *Subsection (1)* does not apply to such a supply made by—
+
+(*a*) an excepted person for the purpose of any such arrangements, or
+
+(*b*) RTÉ, TG4, Houses of the Oireachtas Channel, Irish Film Channel or the holder of a broadcasting contract for the purposes of a free-to-air service.
+
+(4) F178[The Commission] may enter into a contract (“content provision contract”) with a person whereby that person may supply a compilation of programme material for the purposes referred to in *subsection (2)*.
+
+(5) A content provision contract shall include—
+
+(*a*) a condition requiring the holder of the contract to comply with any F179[media service codes or media service rules] with respect to the programme material supplied in pursuance of the contract, and
+
+(*b*) a condition authorising the Compliance Committee to request the holder of the contract to pay to the Authority, in respect of a failure by the holder to comply with a particular term or condition of the contract, a sum of money (not exceeding an amount that shall be specified in the condition as being the maximum amount that may be so requested to be so paid) and requiring the holder to comply with such a request.
+
+(6) A content provision contract shall include a condition providing that, where any of the programme material supplied in pursuance of the contract—
+
+F180[(*a*) contains anything referred to in *section 46J(1)(c)* or *(d)*,]
+
+F181[(*aa*) contains anything which may impair the physical, mental or moral development of children which is not presented in such a way that children will not normally hear or see it, or]
+
+(*b*) constitutes an incitement to commit an offence,
+
+the Authority may, or, if such a supply of programme material has occurred within 6 months of a previous such supply by the same person having occurred, shall, terminate the contract.
+
+(7) The Authority may divide the contracts it may enter into under this section into different classes by reference to the different conditions which, in pursuance of its powers under this Act, it may attach to the contracts and may style each such class of contract by the addition of such distinguishing words as it considers appropriate.
+
+(8) The Authority may, before it enters into a content provision contract with a person, require that person to pay a fee to the Authority of such amount as it considers appropriate. If that person fails to pay that fee to the Authority, the Authority shall not enter into the contract with him or her.
+
+F182[(8A) Where under a levy order under *section 21* a levy becomes payable in respect of a levy period by a person who, in that period, paid a fee to the Commission under *subsection (8)*, the Commission shall—
+
+(*a*) deduct the amount of the fee from the amount payable by that person under the levy order, and
+
+(*b*) if the fee paid is more than the amount payable under the levy order, refund to that person so much of the fee as exceeds that amount.]
+
+F182[(8B) Payment of a refund under *subsection (8A)(b)* shall be deferred for any period for which payment of the amount under the levy order referred to in that paragraph is deferred.]
+
+(9) The Authority may specify different fees for particular classes of content provision contractors.
+
+(10) The amount of any fee paid to the Authority under *subsection (8)* may be used by it for the purpose of defraying the expenses incurred by it in performing its functions generally.
+
+F183[(11) In this section, “excepted person” means a person who is under the jurisdiction of another Member State, and for the purposes of this subsection *section 2A* applies to a person providing a sound broadcasting service—
+
+(*a*) as if references to a media service provider were references to a provider of a sound broadcasting service,
+
+(*b*) as if references to audiovisual media service activity were references to activity relating to the sound broadcasting service concerned, and
+
+(*c*) as if references to relevant editorial decisions were references to editorial decisions about the sound broadcasting service concerned.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F177: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 29(a), S.I. No. 71 of 2023.
+>
+> F178, F179, F180: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 29(b), (c), (d)(i), S.I. No. 71 of 2023.
+>
+> F181, F182, F183: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 29(d)(ii), (e), (f), S.I. No. 71 of 2023.
+
+### 72. Community content provision contracts.
+
+**72**.— (1) Subject to this section, 2 or more members of a local community or community of interest may supply a compilation of programme material for the purposes of its being transmitted as a broadcasting service F184[...] by an appropriate network provider referred to in *section 77 (1)*.
+
+(2) Subject to *subsections (3)* and *(4)*, the Authority may enter into a class of content provision contract (“community content pro vision contract”) with 2 or more members of a local community or a community of interest whereby those members may supply a compilation of programme material for the purposes referred to in *subsection (1)* if it is satisfied that—
+
+(*a*) those members are representative of, and accountable to, the community concerned, and
+
+(*b*) the supply of programme material in pursuance of the contract will be effected with the sole objective of—
+
+(i) specifically addressing the interests of, and seeking to provide a social benefit to, the community concerned, and
+
+(ii) achieving a monetary reward of no greater amount than is reasonably necessary to defray the expenses that will be incurred in effecting that supply.
+
+(3) The Authority shall not enter into a community content contract save after consultation with the person who it appears to the Authority will transmit or, as the case may be, will be the subject of a requirement under *section* F185[...] *77(8)* to transmit, the programme material supplied pursuant to the contract as a broadcasting service.
+
+(4) The Authority shall establish procedures whereby members of local communities are enabled, at regular intervals, to make submissions to the Authority as to what particular contracts ought, in their opinion, to be entered into under this section and what particular terms and conditions ought, in their opinion, to be included in such contracts and requiring the Authority to furnish, on request, to any such members particulars of any proposals formulated, for the time being, by the Authority itself with regard to each of those matters.
+
+(5) Before entering into a community content provision contract, the Authority shall have regard to any submissions made to it under and in accordance with procedures established under *subsection (4)* and which appear to it to be of relevance to that contract.
+
+(6) The Authority shall conduct, or arrange with members of the local community or community of interest concerned for there to be conducted, a survey, which shall be as comprehensive as is practicable, amongst members of that community for the purpose of ascertaining—
+
+(*a*) the extent to which that community is facilitated in the active participation by it in the compilation and transmission of the programme material supplied pursuant to a community content provision contract,
+
+(*b*) the extent to which those members view any broadcasting service on which there is transmitted that programme material, and
+
+(*c*) the opinion of those members with regard to—
+
+(i) the quality of that programme material, and
+
+(ii) whether that material specifically addresses the interests of their community,
+
+and shall have regard to the results of such a survey in deciding, in relation to any community content provision contract it proposes to enter into with members of that community next after the conduct of that survey, with whom it shall enter into such a contract and the nature of the terms and conditions it may include in that contract.
+
+(7) If F186[...] an appropriate network provider referred to in *section 77 (1)* is required under *subsection (8)* of that section, to transmit as a broadcasting service the programme material supplied pursuant to a community content provision contract, the F187[...] appropriate network service provider shall not be—
+
+(*a*) under any duty to ensure that the material complies with the terms and conditions of that contract or the requirements of *F188[Part 3B]*,
+
+(*b*) regarded, for the purposes of the law of defamation, malicious falsehood or any other form of civil liability as having, by virtue of such transmission, published the material, or
+
+(*c*) liable in damages, by virtue of such transmission, for any infringement of copyright, other intellectual property rights or other legal rights of any person.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F184, F185: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 30(a), (b), S.I. No. 71 of 2023.
+>
+> F186, F187: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 30(c)(i), (ii), S.I. No. 71 of 2023.
+>
+> F188: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 30(c)(iii), S.I. No. 71 of 2023.
+
+### 73. Assessment of community needs in respect of broadcasting.
+
+**73**.— The Authority may, of its own initiative or at the request of a local community or community of interest, carry out an assessment of the needs of a community in respect of broadcasting and such an assessment shall include an ascertainment of the extent to which production facilities, training and resources are available to the community to enable the community to best serve its interests in respect of those needs.
+
+### 74. Electronic programme guides.
+
+**74**.— F189[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F189: Repealed (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 73(c), S.I. No. 71 of 2023.
+
+### 75. Rules with respect to programme guide contracts.
+
+**75**.— F190[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F190: Repealed (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 73(d), S.I. No. 71 of 2023.
+
+### 76. Transmission of broadcasting services by MMD system.
+
+**76**.— F191[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F191: Repealed (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 73(e), S.I. No. 71 of 2023.
+
+### 77. Must-carry and must-offer obligations.
+
+**77**.— (1) (*a*) In this Part “appropriate network” means an electronic communications network provided by a person (“appropriate network provider”) which is used for the distribution or transmission of broadcasting services to the public.
+
+(*b*) For the purposes of this section a multiplex contractor in relation to multiplexes referred to in *section 132(1)*, *(2)*, *(3)* and *(4)* or in *section 133* is not an appropriate network provider by virtue of being a multiplex contractor or associated activities.
+
+(*c*) F192[...]
+
+(*d*) For the purposes of this section a holder of a licence issued under *section 59* or *121* , the terms of which authorise the transmission of programme material, is not an appropriate network provider by virtue of being a licensee under that section or associated activities.
+
+(2) Where the Authority is of the view, after carrying out a review and after consultation with the Communications Regulator, that a type or class of network system, rather than an individual network system, is not used by a significant number of end-users as their principal means of receiving transmissions of programme material, it may propose to the Minister the full or partial removal of the obligations set out in *subsections (3), (4)*, *(5)*, *(6)*, *(7)*, *(8), (9)* and *(10)* on that type or class of network system. The Minister may make an order to that effect.
+
+(3) In the case where the appropriate network is a digital system, the appropriate network provider shall ensure the re-transmission, by or through his or her appropriate network, of the Houses of the Oireachtas Channel and the Irish Film Channel.
+
+(4) An appropriate network provider shall ensure the re-transmission, by or through his or her appropriate network, of each free-to-air television service provided for the time being by RTÉ, TG4 and the free-to-air service provided under *section 70* by the television service programme contractor which that body or contractor requests the appropriate network provider to so re-transmit.
+
+(5) If a dispute arises between the appropriate network provider and RTÉ, TG4 or the television programme service contractor in relation to the placement by the appropriate network provider, relative to the placement by him or her of another broadcasting service, on the system concerned of a free-to-air service provided by that body or contractor, being a placement made on an appropriate network for the purposes of the appropriate network provider complying with a request by that body or contractor under *subsection (4),* the dispute shall be referred to the Authority for its determination and the determination of the Authority in the matter shall be final.
+
+(6) An appropriate network provider shall re-transmit each national sound broadcasting service provided for the time being by RTÉ and each sound broadcasting contractor and which RTÉ or the contractor concerned requests the holder to so re-transmit.
+
+(7) The appropriate network provider shall not impose a charge or allow a charge to be imposed in relation to the making available to a person of any service referred to in *subsection (3), (4)*, *(5)* or *(6)* if he or she imposes a charge or allows a charge to be imposed on that person in relation to the making available of any other service to that person by means of the appropriate network concerned.
+
+(8) The Authority may require an appropriate network provider to transmit as a broadcasting service, by means of specified appropriate networks (whether analogue or digital) maintained by the appropriate network provider, the whole or part of the programme material supplied under one or more specified community content provision contracts the holders of which are members of the local community or community of interest that is served by the said appropriate network and who request the first-mentioned appropriate network provider to so transmit the whole or, as the case may be, part of that programme material.
+
+(9) A person of whom a requirement is made by the Authority under *subsection (8)* shall comply with that requirement.
+
+(10) An appropriate network provider shall not impose a charge or allow a charge to be imposed in relation to the making available to a person of any service referred to in *subsection (8)*, pursuant to a requirement made of him or her under that subsection, if he or she imposes a charge or allows a charge to be imposed on that person in relation to the making available of any other service to that person by means of the appropriate network concerned.
+
+(11) Without prejudice to the requirements imposed under *subsection (4)*, RTÉ, TG4 and the television service programme contractor shall ensure that their must-offer services are at all times offered for re-transmission (subject to agreement as to fair, reasonable and non-discriminatory terms of use) by means of any appropriate network that is available for reception in an intelligible form by members of the public in the whole of or in part of the State.
+
+(12) RTÉ, TG4 and the television service programme contractor shall ensure that their must-offer services are at all times offered for broadcast or re-transmission (subject to agreement as to fair, reasonable and non-discriminatory terms of use) by means of every satellite television service.
+
+(13) Arrangements entered into under *subsection (12)* shall not result in an additional charge on any subscriber to a satellite television service by reason of the making available to that subscriber of any must-offer service by way of the satellite television service.
+
+(14) F192[...]
+
+(15) The Authority shall report to the Minister on an annual basis in relation to the operation of this section.
+
+(16) (*a*) An order under *subsection (2)* shall be laid before each House of the Oireachtas by the Minister as soon as may be after it is made.
+
+(*b*) Either House of the Oireachtas may, by resolution passed within 21 sitting days after the day on which an order was laid before it in accordance with *paragraph (a)*, pass a resolution annulling the order.
+
+(*c*) The annulment under *paragraph (b)* of an order takes effect immediately on the passing of the resolution concerned but does not affect anything that was done under the order before the passing of the resolution.
+
+(17) In this section—
+
+“must-offer service” means a free-to-air television service provided for the time being by RTÉ, TG4 and the free-to-air service provided under *section 70* by the television service programme contractor;
+
+“re-transmission” means near-simultaneous, unaltered and unabridged transmission;
+
+“satellite television service” means a service which consists in or involves the distribution or transmission of television broadcasting services from a satellite, such services then offered to the public with the intention that such services be used by a significant number of the persons in the whole or part of the State by whom the broadcasts are received in an intelligible form as their principal means of receiving television programmes.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F192: Repealed (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 73(f), S.I. No. 71 of 2023.
+
+### 78. Offences (Part 6).
+
+**78**.— (1) A person who contravenes *section 71(1)* F193[...] commits an offence.
+
+(2) A person guilty of an offence under *subsection (1)* is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €100,000.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F193: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 31, S.I. No. 71 of 2023. A fine of €5,000 translates into a class A fine, not greater than €5,000, as provided by *Fines Act 2010* (8/2010), ss. 3, 4(2) and table ref. no. 1, S.I. No. 662 of 2010
+
+## PART 7 — Public Service Broadcasting
+
+### Chapter 1 Public Service Broadcasting Corporations Common Provisions — Chapter 1 — Public Service Broadcasting Corporations — Common Provisions
+
+#### 79. Bodies corporate.
+
+**79**.— Each corporation continues as a body corporate with perpetual succession and power to sue and be sued and to acquire, hold and dispose of land.
+
+#### 80. Seals of corporations.
+
+**80**.— (1) A corporation shall as soon as may be after the passing of this Act provide itself with a new seal.
+
+(2) The seal of a corporation shall be authenticated by the signature of the chairperson of the corporation, or some other member of it authorised by the corporation to act in that behalf, and the signature of an officer of the corporation authorised by the corporation to act in that behalf.
+
+(3) Judicial notice shall be taken of the seal of a corporation, and every document purporting to be an instrument made by the corporation and to be sealed with the seal (purporting to be authenticated in accordance with this section) of the corporation shall be received in evidence and be deemed to be such instrument without further proof unless the contrary is shown.
+
+#### 81. Appointment of board.
+
+**81**.— (1) The number of members of the board of a corporation shall be 12 in number, of which—
+
+(*a*) 6 of them shall be appointed by the Government on the nomination of the Minister,
+
+(*b*) subject to *subsection (2)*, 4 of them shall be appointed by the Government on the nomination of the Minister,
+
+(*c*) one shall be appointed by the Government following an election in accordance with *section 83*, and
+
+(*d*) one shall be the director general of the corporation.
+
+(2) Where an appointment is to be made by the Government under *subsection (1)(b)* or under that paragraph arising from a vacancy referred to in *section 84(12)*—
+
+(*a*) the Minister shall inform the Joint Oireachtas Committee of the proposed appointment,
+
+(*b*) The Minister in respect of an appointment under *subsection (1)(a)* shall provide a statement to the Joint Oireachtas Committee indicating the relevant experience and expertise of the persons or person nominated by the Minister for appointment or appointed by the Government on the nomination of the Minister, and such other matters as the Minister considers relevant,
+
+(*c*) the Joint Oireachtas Committee shall within the period of 90 days of being so informed, advise the Minister of the names of the persons or name of the person it proposes that the Minister should nominate under *subsection (1)(b)* giving reasons, such as relevant experience and expertise, in relation to the proposed named persons or person,
+
+(*d*) the Minister shall have regard to the advice and may accept the proposed named persons or some of them or the named person or decide to nominate as he or she sees fit other persons or another person, and
+
+(*e*) inform the Joint Oireachtas Committee of his or her decision.
+
+(3) Not less than 5 of the members of the board of a corporation shall be men and not less than 5 of them shall be women.
+
+(4) The Joint Oireachtas Committee for the purposes of providing advice to the Minister under *subsection (2)* may establish a panel, for such duration, and consisting of such number of persons as the Joint Oireachtas Committee shall think proper.
+
+(5) Persons placed on a panel established under *subsection (4)* shall—
+
+(*a*) have experience of or have shown capacity in one or more of the matters stated in *section 82 (1)*,
+
+(*b*) in respect of TG4 comply with the requirements of *section 82 (2)*, and
+
+(*c*) be chosen with a view to representing the public interest in respect of public service broadcasting matters.
+
+(6) The Joint Oireachtas Committee shall, insofar as is practicable, endeavour to ensure that among the persons placed on a panel under *subsection (4)* there is an equitable balance between men and women.
+
+(7) The Joint Oireachtas Committee shall have sole responsibility for the selection and placing of candidates on a panel established under *subsection (4)*.
+
+#### 82. Criteria for board membership.
+
+**82**.— (1) A person shall not be appointed to be a member of the board of a corporation unless he or she has experience of or shown capacity in one or more of the following matters—
+
+(*a*) media affairs,
+
+(*b*) public service broadcasting,
+
+(*c*) broadcast content production,
+
+(*d*) digital media technologies,
+
+(*e*) trade union affairs,
+
+(*f*) business or commercial affairs,
+
+(*g*) matters pertaining to the development of the Irish language,
+
+(*h*) matters pertaining to disability,
+
+(*i*) arts, music, sport or culture,
+
+(*j*) science, technology or environmental matters,
+
+(*k*) legal or regulatory affairs, and
+
+(*l*) social, educational or community activities or Gaeltacht affairs,
+
+relevant to the oversight of a public service broadcaster.
+
+(2) A person shall not be appointed to be a member of the board of TG4 unless he or she is able to communicate proficiently in the Irish language.
+
+(3) Each member of the board of a corporation shall be appointed for a period not exceeding 5 years.
+
+(4) The Government in setting a term of appointment under *subsection (3)* shall consider the need for continuity of membership of the board of a corporation.
+
+(5) A member of the board of a corporation whose term of office expires by the effluxion of time shall be eligible for re-appointment.
+
+(6) A member of the board of a corporation shall not serve more than 2 consecutive terms of office.
+
+(7) A member of the board of a corporation may at any time resign his or her office by letter addressed to the Government and the resignation shall take effect on the date specified therein or upon receipt of the letter by the Government, whichever is the later.
+
+(8) *Subsections (3)* to *(7)* do not apply to the membership of the director general of the board of a corporation.
+
+#### 83. Appointment of staff member.
+
+**83**.— (1) The Government shall appoint to be a member of the board of each corporation one member of staff of the corporation elected to be a staff member of the board in accordance with this section.
+
+(2) A member of the board of a corporation appointed under this section shall, subject to this section, be eligible for nomination as a candidate and for election at an election.
+
+(3) An election shall be held as soon as practicable after the passing of this Act or such longer period as may be agreed between the corporation and recognised trade unions and staff associations.
+
+(4) *Subsections (5)* to *(16)* apply for the purposes of an election.
+
+(5) (*a*) The secretary of a corporation (or a person selected by him or her after consultation with representatives of recognised trade unions or staff associations) shall be the returning officer for each election of a staff member of the board of the corporation.
+
+(*b*) The returning officer shall not be entitled to be nominated as, or to nominate, act as agent for or promote the interests of, a candidate at the election.
+
+(*c*) The returning officer may authorise any person to exercise designated functions on his or her behalf and *paragraph (b)* applies to any such person.
+
+(6) (*a*) A poll shall be conducted where there is more than one candidate.
+
+(*b*) Voting shall be by secret ballot and on the basis of proportional representation by means of a single transferable vote.
+
+(*c*) Presiding officers at the poll and polling clerks shall be appointed by the returning officer.
+
+(*d*) An election shall be held in accordance with arrangements made by the returning officer.
+
+(*e*) The returning officer shall be required to give due notice of these arrangements to the electorate and to designate premises as an election office.
+
+(7) (*a*) The returning officer shall fix the nomination day and give notice of the election not later than 4 weeks before that day.
+
+(*b*) The nomination day shall be not earlier than 4 weeks after the day on which eligibility of voters and candidates is determined in accordance with *subsections (13)* and *(14)*, respectively.
+
+(8) The returning officer may declare a candidate elected if the number of candidates standing duly nominated does not exceed one.
+
+(9) If the nomination of candidates or any poll is interrupted or cannot be proceeded with the returning officer may adjourn the nomination or poll for such period as he or she considers appropriate to enable him or her, on its expiration, to proceed with or complete the nomination or poll.
+
+(10) On receipt of a notification from the returning officer of the name of the candidate elected or declared to be elected under *subsection (8)*, the Government shall, in accordance with this section, appoint the candidate as a member of the board of the corporation.
+
+(11) The returning officer shall place the remaining candidates in order of votes credited to each at the last count in which he or she was involved.
+
+(12) A corporation shall bear the cost of holding an election except costs incurred by candidates on their own behalf.
+
+(13) Every employee of a corporation who, on the day specified by the returning officer and on the day on which the poll is taken—
+
+(*a*) is not less than 18 years of age, and
+
+(*b*) has been an employee of the corporation for a continuous period of not less than one year,
+
+shall be entitled to vote at an election.
+
+(14) (*a*) Every employee of a corporation who, on the day specified by the returning officer under *subsection (13)*, is not less than 18 years of age and has been an employee of the corporation for a continuous period of not less than 18 months, shall be eligible to be nominated as a candidate at the election.
+
+(*b*) A candidate may be nominated by—
+
+(i) a recognised trade union or staff association or jointly by 2 or more such bodies, or
+
+(ii) a minimum of 20 eligible voters.
+
+(*c*) Nominations shall be made in the manner specified by the returning officer.
+
+(*d*) The returning officer shall rule on the validity of nominations and his or her decision shall be final.
+
+(15) The returning officer shall prepare and maintain a list of eligible voters and candidates.
+
+(16) The returning officer shall prepare and maintain a list of recognised trade unions and staff associations for the purposes of this section.
+
+(17) In this section “election” means an election held under this section for the appointment of a staff member to be a staff member of the board of a corporation.
+
+#### 84. Terms and removal.
+
+**84**.— (1) There shall be paid to members of the board of a corporation, out of monies at the disposal of the corporation, such remuneration (if any) as the Minister, with the consent of the Minister for Finance, from time to time determines.
+
+(2) There shall be paid to members of the board of a corporation, out of monies at the disposal of the corporation, such allowances for expenses incurred by them in the performance of their functions as the Minister, with the consent of the Minister for Finance, from time to time determines.
+
+(3) Subject to this Act, a member of the board of a corporation shall hold office on such terms (other than the payment of remuneration and allowances for expenses) as the Minister, with the consent of the Minister for Finance, from time to time determines.
+
+(4) The Minister shall cause a statement in writing specifying the expertise or experience, terms of office and remuneration of the members of a corporation to be laid before both Houses of the Oireachtas and published in the *Iris Oifigiúil*.
+
+(5) A member of the board of a corporation may at any time be removed from membership of the board of the corporation by the Government if, in the Government’s opinion, the member has become incapable through ill-health of performing his or her functions, or has committed stated misbehaviour, or his or her removal appears to the Government to be necessary for the effective performance by the corporation of its functions, and only if, resolutions are passed by each House of the Oireachtas calling for his or her removal.
+
+(6) A member of the board of a corporation shall cease to be and shall be disqualified from being a member of the corporation where such member—
+
+(*a*) is adjudicated a bankrupt,
+
+(*b*) makes a composition or arrangement with creditors,
+
+(*c*) on conviction on indictment by a court of competent jurisdiction is sentenced to a term of imprisonment,
+
+(*d*) is convicted of an offence involving fraud or dishonesty, or
+
+(*e*) is disqualified or restricted from being a director of any company.
+
+(7) A member of staff of a corporation, who is appointed to serve on the board of the corporation or the director general of the corporation, shall cease to be a member of the board of the corporation on the cessation of his or her contract of service with the corporation.
+
+(8) Where a member of the board of a corporation fails—
+
+(*a*) for a consecutive period of 6 months, to attend a meeting of the corporation, unless the member demonstrates to the Minister’s satisfaction that the failure to attend was due to illness, or
+
+(*b*) to comply with the requirements of *section 93*, or
+
+(*c*) to make a declaration in accordance with the requirements of section 17 of the Ethics in Public Office Act 1995,
+
+the Minister may with the consent of the Government by order remove the member from office.
+
+(9) (*a*) An order made under *subsection (8)* shall be laid before each House of the Oireachtas as soon as practicable after it is made.
+
+(*b*) Either House of the Oireachtas may, within 21 sitting days after the day on which an order was laid before it in accordance with *paragraph (a)*, pass a resolution annulling the order.
+
+(*c*) The annulment under *paragraph (b)* of an order takes effect immediately on the passing of the resolution concerned, but does not affect anything that was done under the order before the passing of the resolution.
+
+(10) If a member of the board of a corporation appointed by the Government, on the nomination of the Minister under *section 81(1)(a)* or following an election under *section 83*, dies, resigns, becomes disqualified or is removed from office or for any other reason ceases to be a member of the board of the corporation, the Government on the nomination of the Minister, may appoint a person to be a member of the board of the corporation to fill the casual vacancy so occasioned and the person so appointed shall be appointed for the unexpired period of the term of membership of, and in the same manner as, the member of the board of the corporation appointed by the Government, on the nomination of the Minister or following an election under *section 83*, who occasioned the casual vacancy.
+
+(11) In choosing a person to fill a casual vacancy occasioned by the cessation of membership of a member appointed by Government following an election under *section 83*, the Government shall select the next eligible candidate, if any, under *section 83(11)*. Where 2 or more candidates are credited with an equal number of votes, the Government shall select one of them by lot.
+
+(12) If a member of the board of a corporation appointed by the Government on the nomination of the Minister under *paragraph (b)* of *section 81(1)* dies, resigns, becomes disqualified or is removed from office or for any other reason ceases to be a member of the board of the corporation, the Government on the nomination of the Minister, the Minister having regard to the advice of the Joint Oireachtas Committee, may appoint a person to be a member of the board of the corporation to fill the casual vacancy so occasioned and the person so appointed shall be appointed for the unexpired period of the term of membership of, and in the same manner as, the member of the board of the corporation appointed by the Government on the nomination of the Minister under *paragraph (b)* of *section 81(1)*, who occasioned the casual vacancy.
+
+#### 85. Chairperson.
+
+**85**.— (1) The Government shall from time to time as occasion requires appoint, on the nomination of the Minister, a member of the board of a corporation to be chairperson of it.
+
+(2) A chairperson of a corporation shall, unless he or she sooner dies, resigns the office of chairperson or ceases to be chairperson under *subsection (4)*, hold office until the expiration of his or her period of office as a member of the board of the corporation.
+
+(3) A chairperson of a corporation may at any time resign his or her office as chairperson by letter sent to the Government and the resignation shall, unless it is previously withdrawn in writing, take effect at the commencement of the meeting of the corporation held next after the corporation has been informed by the Government of the resignation.
+
+(4) Where a chairperson of a corporation ceases during his or her term of office as chairperson to be a member of the corporation he or she shall also cease to be chairperson of the corporation.
+
+(5) A member of staff of a corporation appointed by the Government to membership of the board of the corporation or a director general of a corporation shall not be appointed as chairperson of the corporation.
+
+#### 86. Exclusions from board membership.
+
+**86**.— (1) Where a member of the board of a corporation is—
+
+(*a*) nominated as a candidate for election to the European Parliament, either House of the Oireachtas, or as a member of Seanad Éireann,
+
+(*b*) elected as a member of either House of the Oireachtas or the European Parliament, or
+
+(*c*) regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act 1997 as having been elected to that Parliament to fill a vacancy,
+
+he or she thereupon ceases to be a member of the corporation.
+
+(2) Where the person who is the director general or a member of the staff of a corporation is—
+
+(*a*) nominated as a candidate for election to the European Parliament, either House of the Oireachtas, or as a member of Seanad Éireann,
+
+(*b*) elected as a member of either House of the Oireachtas or the European Parliament, or
+
+(*c*) regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act 1997 as having been elected to that Parliament to fill a vacancy,
+
+he or she shall thereupon stand seconded from employment by the corporation and shall not be paid by, or be entitled to receive from, the corporation any remuneration or allowances in respect of the period commencing on such nomination or election, or when he or she is so regarded as having been elected as the case may be, and ending when such person ceases to be a member of either such House or that Parliament.
+
+(3) A person who is for the time being entitled under the Standing Orders of either House of the Oireachtas to sit therein or who is a member of the European Parliament, shall, while so entitled or such a member, be disqualified from becoming a member of the board of a corporation or the director general or a member of the staff of a corporation.
+
+(4) A person who is appointed F194[a Commissioner] shall be disqualified from becoming or ceases to be a member of the board of a corporation or a director general or a member of staff of a corporation.
+
+(5) A person who holds employment, save for educational or performing creative work, or has an interest in an undertaking holding a contract under this Act, shall be disqualified from becoming or ceases to be a member of the board of a corporation.
+
+(6) A person who holds employment in RTÉ shall be disqualified from becoming or ceases to be a member of the board of TG4.
+
+(7) A person who holds employment in TG4 shall be disqualified from becoming or ceases to be a member of the board of RTÉ.
+
+(8) A person who holds membership of the board of RTÉ shall be disqualified from becoming or ceases to be a member of the board of TG4.
+
+(9) A person who holds membership of the board of TG4 shall be disqualified from becoming or ceases to be a member of the board of RTÉ.
+
+(10) Without prejudice to the generality of *subsection (2)*, that subsection shall be read as prohibiting, *inter alia*, the reckoning of a period mentioned in that subsection as service with the corporation for the purposes of any superannuation benefits.
+
+> **Annotations:**
+>
+> Substituted
+>
+> **Amendments:**
+>
+> F194: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 32, S.I. No. 71 of 2023.
+
+#### 87. Duties of board members.
+
+**87**.— Subject to the requirements of this Act every member of the board of a corporation shall perform his or her functions in such a manner as to—
+
+(*a*) represent the interests of viewers and listeners,
+
+(*b*) ensure that the activities of the corporation in pursuance of its objectives as set out in *section 114(1)* or *118(1)* are performed efficiently and effectively,
+
+(*c*) ensure that the gathering and presentation by the corporation of news and current affairs is accurate and impartial, and
+
+(*d*) safeguard the independence of the corporation, as regards, the conception, content and production of programmes, the editing and presentation of news and current affairs programmes and the definition of programme schedules from State, political and commercial influences.
+
+#### 88. Meetings.
+
+**88**.— (1) The board of a corporation shall hold such and so many meetings as may be necessary for the due performance of its functions.
+
+(2) At a meeting of the board of a corporation—
+
+(*a*) the chairperson of the board of a corporation shall, if present, be chairperson of the meeting, and
+
+(*b*) if and so long as the chairperson of the board of a corporation is not present or if the office of chairperson is vacant, the members of the board of a corporation who are present shall choose one of their number to be chairperson of the meeting.
+
+(3) Every question at a meeting of the board of a corporation shall be determined by a majority of the votes of the members of the board present and voting on the question, and in the case of an equal division of votes, the chairperson of the meeting shall have a second or casting vote.
+
+(4) The board of a corporation may act notwithstanding one or more vacancies among its members.
+
+(5) Subject to this Part, the board of a corporation shall regulate its procedure and practice by rules made under this section.
+
+(6) The quorum for a meeting of the board of a corporation shall be 7.
+
+(7) Subject to any rule made under *subsection (5)* meetings of the board of a corporation shall be capable of being held by telephone or other suitable electronic means whereby all the members of the board can hear and be heard.
+
+(8) The board of a corporation may delegate any of its functions to a subcommittee of the board of the corporation subject to such conditions as the board of the corporation considers appropriate.
+
+#### 89. Director general.
+
+**89**.— (1) A corporation shall from time to time appoint a person to be the chief executive officer of the corporation and who shall be known, and is in this Part referred to, as, in the Irish language, ardstiúrthóir or, in the English language, director general.
+
+(2) A director general shall—
+
+(*a*) carry on and manage, and control generally, the administration of the corporation,
+
+(*b*) act as editor-in-chief in respect of content published by the corporation in pursuance of its objects under this Act, and
+
+(*c*) perform such other functions (if any) as may be determined by the board of the corporation.
+
+(3) The consent of the Government is necessary before a corporation appoints or removes the director general of the corporation, or alters his or her remuneration or his or her terms and conditions of holding office.
+
+(4) The person who, immediately before the passing of this Act, was the director general of Radio Telefís Éireann, continues as director general of RTÉ.
+
+(5) The person who, immediately before the passing of this Act, was the chief executive officer of TG4, continues as director general of TG4.
+
+(6) A director general shall not hold any other office or employment or carry on any business without the consent of the board of the corporation.
+
+(7) A director general shall furnish the board of the corporation with such information (including financial information) in relation to the performance of his or her functions as the board of the corporation may from time to time require.
+
+(8) The functions of a director general may be performed in his or her absence or when the position of director general is vacant by such member of the staff of the corporation as may, from time to time, be designated for that purpose by the board of the corporation.
+
+(9) A director general shall, for the duration of his or her appointment, serve as an *ex officio* member of the board of his or her corporation.
+
+#### 90. Staff.
+
+**90**.— (1) A corporation shall, as well as appointing a director general, appoint such and so many persons to be members of the staff of the corporation as it may, from time to time, determine but, subject to *subsection (2)*, a person shall not be appointed under this section to be a member of staff of the corporation unless he or she has been selected by means of a public competition.
+
+(2) The requirement under *subsection (1)* of being selected by means of a public competition does not apply in relation to:
+
+(*a*) an appointment consisting of the promotion of a person who is already a member of staff of the corporation,
+
+(*b*) an office for which, in the opinion of the corporation, specialised qualifications not commonly held are required, or
+
+(*c*) an office to which appointments are made for limited periods only, being periods not exceeding 2 years.
+
+(3) A member of staff of a corporation shall hold his or her employment on such terms and conditions as the corporation from time to time determines.
+
+(4) A corporation may perform any of its functions through or by any of its members of staff duly authorised by the corporation in that behalf.
+
+#### 91. Superannuation.
+
+**91**.— (1) A corporation, with the approval of the Minister and the consent of the Minister for Finance, shall make a scheme or schemes for the granting of superannuation benefits to or in respect of the members of staff, including the director general, of the corporation.
+
+(2) A superannuation scheme shall fix the time and conditions of retirement of all persons to or in respect of whom superannuation benefits are payable under the scheme or schemes and different times and conditions may be fixed in respect of different classes of persons.
+
+(3) A corporation may, with the approval of the Minister and the consent of the Minister for Finance, make a scheme amending or revoking a superannuation scheme including a scheme under this section.
+
+(4) A superannuation scheme submitted by the corporation under this section shall, if approved by the Minister with the consent of the Minister for Finance, be carried out by the corporation in accordance with its terms.
+
+(5) Each superannuation scheme shall include a provision for appeals from a decision relating to a superannuation benefit under the scheme.
+
+(6) No superannuation benefits shall be granted by the corporation to or in respect of a person on ceasing to be director general or a member of the staff of the corporation otherwise than—
+
+(*a*) in accordance with a superannuation scheme, or
+
+(*b*) with the consent of the Minister and the Minister for Finance.
+
+(7) Disbursement of superannuation benefits which may be granted to or in respect of persons who, immediately before the establishment of Radio Éireann, were officers and servants of the Minister, shall not be on less favourable conditions than would apply if the benefits referred to had continued to be paid out of monies provided by the Oireachtas.
+
+(8) The Minister for Finance shall make such contribution as may, with his or her consent, be specified in a scheme or schemes under this section towards the superannuation benefits related to reckonable service given before the establishment day of Radio Éireann which may be granted to or in respect of persons who, immediately before that day, were officers and servants of the Minister, and such scheme or schemes shall, with the like consent, fix the manner and times of the payment of such contribution.
+
+(9) Monies required to be paid by the Minister for Finance under this section shall be advanced out of the Central Fund or the growing produce of it.
+
+(10) (*a*) A superannuation scheme (including an amendment of it) shall be laid before each House of the Oireachtas by the Minister as soon as may be after it is made.
+
+(*b*) Either House of the Oireachtas may, by resolution passed within 21 sitting days after the day on which a scheme was laid before it in accordance with *paragraph (a)*, annul the scheme.
+
+(*c*) The annulment of a scheme under *paragraph (b)* takes effect immediately on the passing of the resolution concerned but does not affect anything that was done under the scheme before the passing of the resolution.
+
+(11) In this section “superannuation scheme” means a scheme under this section.
+
+#### 92. Accountability of director general and chairperson to Oireachtas Committees.
+
+**92**.— (1) In this section “Committee” means a Committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas (other than the Committee on Members’ Interests of Dáil Éireann or the Committee on Members’ Interests of Seanad Éireann) or a subcommittee of such a Committee.
+
+(2) Subject to *subsection (4)*, a director general shall, at the request in writing of a Committee, attend before it to give account for the general administration of his or her corporation.
+
+(3) Subject to *subsection (4)*, the chairperson of a corporation shall, at the request in writing of a Committee, attend before it to represent the views of the board of his or her corporation.
+
+(4) A director general or chairperson shall not be required to give account for, or represent the views of the board of his or her corporation in respect of, any matter which is or has been or may at a future time be the subject of proceedings before a court or tribunal in the State.
+
+(5) Where a director general or chairperson is of the opinion that a matter in respect of which he or she is requested to give an account for, or represent the views of the board of the corporation, is a matter to which *subsection (4)* applies, he or she shall inform the Committee of that opinion and the reasons for the opinion and, unless the information is conveyed to the Committee at a time when the director general or chairperson is before it, the information shall be so conveyed in writing.
+
+(6) Where the director general or chairperson has informed a Committee of his or her opinion in accordance with *subsection (5)* and the Committee does not withdraw the request referred to in *subsection (2)* or *subsection (3)* in so far as it relates to a matter the subject of that opinion—
+
+(*a*) the director general or chairperson may, not later than 21 days after being informed by the Committee of its decision not to do so, apply to the High Court in a summary manner for determination of the question whether the matter is one to which *subsection (4)* applies, or
+
+(*b*) the chairperson of the Committee may, on behalf of the Committee, make such an application,
+
+and the High Court may determine the matter.
+
+(7) Pending the determination of an application under *subsection (6)*, the director general or chairperson shall not attend before the Committee to give account for, or represent the views of the board of the corporation in respect of, the matter the subject of the application.
+
+(8) If the High Court determines that the matter concerned is one to which *subsection (4)* applies, the Committee shall withdraw the request referred to in *subsection (2)* or *subsection (3)*, but if the High Court determines that *subsection (4)* does not apply, the director general or chairperson shall attend before the Committee to give account for, or represent the views of the board of the corporation in respect of, the matter.
+
+#### 93. Disclosure by members of corporation of certain interests.
+
+**93**.— (1) A member of the board of a corporation who has—
+
+(*a*) any interest in any body or concerns with which the corporation has made a contract or proposes to make a contract, or
+
+(*b*) any interest in any contract which the corporation has made or proposes to make,
+
+shall disclose to the board of the corporation the fact of such interest and the nature of it and shall not be present at any deliberation or decision of the board of the corporation relating to the contract.
+
+(2) Where at a meeting of a board of a corporation any of the following matters arise, namely—
+
+(*a*) an arrangement to which the corporation is a party or a proposed such arrangement, or
+
+(*b*) a contract or other agreement with the corporation or a proposed such contract or other agreement,
+
+then, any member of the board of the corporation present at the meeting who otherwise than in his or her capacity as such a member has an interest in the matter shall—
+
+(i) at the meeting disclose to the board of the corporation the fact of such interest and the nature of it,
+
+(ii) neither influence nor seek to influence a decision to be made in relation to the matter,
+
+(iii) absent himself or herself from the meeting or that part of the meeting during which the matter is discussed,
+
+(iv) take no part in any deliberation of the board of the corporation relating to the matter, and
+
+(v) not vote on a decision relating to the matter.
+
+(3) Where an interest is disclosed under this section, the disclosure shall be recorded in the minutes of the meeting concerned and, for so long as the matter to which the disclosure relates is being considered or discussed by the meeting, the member of the board by whom the disclosure is made shall not be counted in the quorum for the meeting.
+
+(4) Where at a meeting of a board of a corporation a question arises as to whether or not a course of conduct, if pursued by a member of the board of the corporation, would constitute a failure by him or her to comply with the requirements of *subsection (2)*, the question may be determined by the board of the corporation, whose decision shall be final, and where such a question is so determined, particulars of the determination shall be recorded in the minutes of the meeting.
+
+(5) For the purposes of this section and *section 94* a person shall not be regarded as having an interest in any matter by reason only of an interest of that person, or of any company in which he or she has an interest, which is so remote or insignificant that it cannot reasonably be regarded as likely to influence a person in considering, discussing or in voting on, any question relating to the matter, or in performing any function in relation to that matter.
+
+#### 94. Disclosure by staff and contractors for services of certain interests.
+
+**94**.— (1) Where a member of the staff of a corporation or a member of the staff or a director of a subsidiary or a contractor for services, in a category specified before engagement by the corporation, has an interest, otherwise than in his or her capacity as such, in any contract, agreement or arrangement, or any proposed contract, agreement or arrangement, to which the corporation is or is proposed to be a party, that person—
+
+(*a*) shall disclose to the board of the corporation his or her interest and the nature of it,
+
+(*b*) shall take no part in the negotiation of the contract, agreement or arrangement or in any deliberation by members of the board of the corporation or members of the staff of the corporation or contractors for services in a category specified before engagement by the corporation in relation to it,
+
+(*c*) shall not influence or seek to influence a decision to be made in the matter, and
+
+(*d*) shall not make any recommendation in relation to the contract, agreement or arrangement.
+
+(2) *Subsection (1)* does not apply to a person as regards a contract or proposed contract of employment of that person as a member of the staff of the corporation or as regards a contract or proposed contract for services of that person as a contractor for services to the corporation.
+
+(3) Where a person to whom *subsection (1)* applies fails to comply with a requirement of this section, the corporation concerned shall decide the appropriate action (including removal from office or termination of contract) to be taken.
+
+(4) In this section ‘‘member of staff’’ includes the director general.
+
+(5) In this section and *sections 95*, *104* and *116* , “subsidiary” means a subsidiary of a corporation.
+
+#### 95. Code of conduct.
+
+**95**.— (1) A corporation shall, as soon as may be, draw up and adopt a code of conduct in respect of controls on interests and ethical behaviour to apply to each member of the board, member of staff, adviser, member of an advisory committee and member of an audience council of the corporation or a subsidiary of the corporation.
+
+(2) A corporation shall, as soon as may be, draw up a code of conduct in respect of controls on interests and ethical behaviour to apply to such categories of contractors for services as the corporation may specify before engagement.
+
+(3) A corporation shall publish on a website maintained by the corporation any code of conduct drawn up under *subsections (1)* and *(2)*.
+
+#### 96. Audience council.
+
+**96**.— (1) A corporation shall establish for the purposes of this section, a committee, which committee shall be known, and is in this section referred to, as an audience council.
+
+(2) An audience council shall consist of 15 members appointed by its corporation.
+
+(3) The members of the board of a corporation shall appoint one of their number to serve as a member of its audience council.
+
+(4) In appointing the members of its audience council, a corporation shall endeavour to ensure that the audience council is representative of the viewing and listening public and, in particular, of Gaeltacht communities and persons with a sight or hearing disability.
+
+(5) In appointing the members of its audience council TG4 shall endeavour to ensure that the members of the audience council are able to communicate proficiently in the Irish language.
+
+(6) A corporation shall from time to time appoint, as occasion requires, a member of its audience council to be chairperson of it.
+
+(7) The membership of an audience council shall be appointed for such periods, not exceeding 5 years, as the corporation may think fit and a member of the audience council appointed for a period of less than 5 years shall be eligible for re-appointment for the remainder of the period of 5 years from the beginning of his or her appointment, or for any shorter period.
+
+(8) A member of an audience council may at any time, by notice in writing to the corporation, resign his or her membership. The membership of any member of the audience council may at any time be terminated by notice in writing given to him or her by the corporation.
+
+(9) A corporation shall give to its audience council the use of such resources and information as the council requires for the proper performance of its functions.
+
+(10) The principal function of an audience council shall be to represent to the board of its corporation the views and interests of the general public with regard to public service broadcasting by the corporation.
+
+(11) An audience council may require its corporation to conduct, or arrange to be conducted, as far as is reasonably practicable, a survey of children and young persons, for the purpose of ascertaining the views and interests of children and young persons in respect of public service broadcasting by the corporation.
+
+(12) An audience council may require its corporation to conduct, or arrange to be conducted, as far as is reasonably practicable, a survey of elderly persons, for the purpose of ascertaining the views and interests of elderly persons in respect of public service broadcasting by the corporation.
+
+(13) In order to exercise its function under *subsection (10)*, an audience council may—
+
+(*a*) hold public meetings, and
+
+(*b*) require that its corporation provide the equivalent of up to one hour of television programme material and in respect of RTÉ one hour of sound broadcasting programme material in each year, and that the corporation shall broadcast same, at such times as are agreed between the corporation and the audience council.
+
+(14) The quorum for a meeting of an audience council shall be 8.
+
+(15) Subject to this section an audience council shall have the power to regulate its own procedure and practice by rules made under this section.
+
+(16) An audience council shall, not later than 30 June in each year, make an annual report to the Minister, the board of its corporation and the Authority, of its proceedings during the preceding financial year. An audience council may, and if requested to do so by the Minister shall, make special reports to the Minister during any year.
+
+(17) At least once in each year the director general of the corporation concerned shall meet with the audience council of the corporation.
+
+(18) At least once in each year an audience council shall meet with the board of its corporation.
+
+(19) A corporation may pay to each member of its audience council such out-of-pocket expenses as such member may reasonably incur in the performance of his or her functions.
+
+#### 97. Advisory committees.
+
+**97**.— (1) A corporation may establish advisory committees to advise and assist it in the performance of its functions.
+
+(2) Where advisory committees include members other than members of the board of the corporation or staff of the corporation, such members may be paid such remuneration (if any) and allowances for expenses as the corporation considers reasonable, subject to the consent of the Minister and the Minister for Finance.
+
+(3) A corporation may regulate the procedure of its advisory committees, but subject to such regulation, an advisory committee may regulate its own procedure.
+
+(4) A corporation and its director general shall have regard to, but shall not be bound by, the advice of any advisory committee under this section.
+
+#### 98. Independence.
+
+**98**.— Subject to the requirements of this Act, a corporation shall be independent in the pursuance of its objects.
+
+#### 99. Statement of strategy.
+
+**99**.— (1) As soon as may be, but not later than 6 months after the passing of this Act, and every 5 years thereafter, a corporation shall prepare and present to the Minister, in such format as shall be approved by the Minister, a statement of strategy.
+
+(2) A statement of strategy prepared under *subsection (1)* shall set out the strategy of the board of the corporation for achieving its objects under this Act during the period to which the statement relates, having regard to resources available to the corporation.
+
+(3) The Minister shall, as soon as may be, after a statement of strategy or any revision to it under this section has been presented to him or her, cause a copy or a summary of it to be laid before each House of the Oireachtas.
+
+#### 100. Sectoral impact assessments by Authority.
+
+**100**.— (1) The Authority shall, within 3 months of receiving a written request for advice from the Minister in respect of the sectoral impact of a proposal under this Part, prepare and submit such advice to the Minister.
+
+(2) The Authority, in advising the Minister on the sectoral impact of a proposal under this Part, shall consider the following matters—
+
+(*a*) the extent to which the proposal impacts on—
+
+(i) the availability, choice, quality and accessibility of services for audiences, and
+
+(ii) existing sectoral services,
+
+(*b*) the impact of the proposal on sectoral development, innovation and investment,
+
+(*c*) the impact of the proposal on related markets, and
+
+(*d*) such matters as the Authority may decide.
+
+(3) In reviewing the sectoral impact of a proposal under this Part, the Authority shall consider such impacts as may arise within a 5 year period of the receipt of a written request for advice from the Minister under *subsection (1)*.
+
+#### 101. Public service statement.
+
+**101**.— (1) A corporation, following a public consultation, shall prepare, not later than 12 months after the passing of this Act, and every 5 years thereafter, or as required by the Minister, a public service statement setting out the principles to be observed, and activities to be undertaken by the corporation in order to fulfil its public service objects.
+
+(2) A corporation shall submit a public service statement prepared under *subsection (1)* to the Minister.
+
+(3) The Minister, having consulted with the Authority, and having reviewed a public service statement received from the corporation under *subsection (2)* against its public service objects, may grant his or her consent to the public service statement.
+
+(4) The Minister shall on the grant of his or her consent to a public service statement, or any revision to it, cause a copy of the public service statement to be laid before each House of the Oireachtas.
+
+#### 102. Annual statement of performance commitments.
+
+**102**.— (1) A corporation shall, by 31 January in each year, prepare an annual statement of performance commitments, in accordance with —
+
+(*a*) its objects,
+
+(*b*) any extant statement of strategy prepared under *section 99*, and
+
+(*c*) any extant public service statement prepared under *section 101*,
+
+and including the activities to which the corporation intends to commit in that financial year and associated performance indicators.
+
+(2) An annual statement of performance commitments prepared by a corporation under *subsection (1),* shall address, *inter alia*—
+
+(*a*) original children’s programming, commissioned or produced by the corporation, relevant to the social and cultural needs and interests of children in Ireland and including animation and children’s programming in the Irish language, to be broadcast by the corporation,
+
+(*b*) Irish language programming to be broadcast by the corporation,
+
+(*c*) science and technology programming to be broadcast by the corporation,
+
+(*d*) magazines and books to be prepared, published and distributed in pursuance of the corporation’s public service objects, and
+
+(*e*) the recorded audio material to be compiled, published and distributed in pursuance of the corporation’s public service objects.
+
+(3) As soon as may be after 31 January in each year a corporation shall submit to the Minister and the Authority an annual statement of performance commitments prepared under *subsection (1)* and, having consulted with the Minister and the Authority, shall publish the statement, or a summary of it, as soon as practicable, thereafter.
+
+(4) A corporation shall by 31 March in each year submit to the Minister and the Authority a report on the fulfilment or otherwise of any commitments made in a statement prepared under *subsection (1)* for the previous financial year and an explanation of any difference arising.
+
+(5) A corporation shall include within a report required under *section 110* a report on the fulfilment or otherwise of any commitments published under *subsection (3)* for the period concerned and an explanation of any difference arising.
+
+#### 103. Ministerial consent for new services and variations in channels.
+
+**103**.— (1) A corporation may, with the consent of the Minister, pursue the objects in *paragraphs (g)* and *(h)* of *section 114(1)* or *paragraphs (g)* and *(h)* of *section 118(1)*, as the case may be.
+
+(2) A corporation may, with the consent of the Minister, vary the number of television or sound broadcasting channels it operates.
+
+(3) A corporation may, with the consent of the Minister, undertake ancillary services.
+
+(4) Where the Minister proposes to give his or her consent under this section, the Minister shall—
+
+(*a*) consult with the corporation concerned and such other persons as he or she considers appropriate,
+
+(*b*) consult with the Authority as to the sectoral impact of a proposal under this section,
+
+(*c*) consider the public value of such proposal, and
+
+(*d*) publish in such manner as he or she considers appropriate a statement outlining the consultations that have been carried out under *paragraphs (a)* and *(b)* and indicate a place at which any document given to the Minister by a person referred to in *paragraph (a)* or *(b)* in the course of consultations under those paragraphs may be inspected.
+
+(5) A person referred to in *paragraphs (a)* or *(b)* of *subsection (4)* may, on giving a document to the Minister for the purposes of *subsection (4)*, request the Minister to omit from documents made available for public inspection under *paragraph (d)* of *subsection (4)* a document or part of a document which the person regards as commercially sensitive.
+
+(6) The Minister may, if satisfied that the information contained in a document or part of a document is commercially sensitive and that its disclosure is not necessary for the purposes of public understanding of a decision made under *subsection (4)*, omit the document or part of a document from the documents made available for public inspection under *paragraph (d)* of *subsection (4)*.
+
+(7) For the purposes of this section, information is commercially sensitive if its disclosure could reasonably be expected to—
+
+(*a*) materially prejudice the commercial interests of the person who provided that information to the Minister, or of a group or class of persons to which that person belongs, or
+
+(*b*) prejudice the competitive position of a person in the conduct of the person’s business.
+
+(8) The Minister, in deciding on the public value of a proposal under this section shall consider the following matters—
+
+(*a*) the importance of the proposal in respect of the pursuance of the public service objects of the corporation,
+
+(*b*) the compatibility of the proposal with the Council Directive and recommendations of the Council of Europe in respect of public service broadcasting,
+
+(*c*) the costs and revenues associated with the proposal and any impact on existing public service provision,
+
+(*d*) the extent to which the proposal contributes to meeting the democratic, cultural, linguistic, educational, and social needs of Irish society, of individual groups within Irish society, and of Irish communities outside of the island of Ireland,
+
+(*e*) the extent to which the proposed service will be accessible by the public,
+
+(*f*) the extent to which the proposed service will reach under-served audiences,
+
+(*g*) the contribution of the proposed service or activity to raising the level of familiarity of the general public, or of individual groups within Irish society, with new forms of services and technologies,
+
+(*h*) the contribution of the proposal to media plurality, and
+
+(*i*) such matters as the Minister may decide.
+
+(9) The Minister may attach to any consent granted under this section such particular terms or conditions as he or she considers appropriate in the circumstances.
+
+(10) The requirements of *subsection (2)* shall not apply to the establishment by a corporation of a television or sound broadcasting channel for a period of not more than 30 days (whether consecutive days or otherwise) in any period of 12 months.
+
+(11) In this section “ancillary services” means the provision by a corporation of services, which—
+
+(*a*) are ancillary to the public service objects of the corporation,
+
+(*b*) the corporation has not engaged in a significant manner in the previous 5 years,
+
+(*c*) require expenditure by the corporation in excess of €5 million in each year, and
+
+(*d*) for which the corporation proposes to use funding received by the corporation under *section 123*,
+
+but does not include the provision by a corporation of a service in pursuance of *paragraphs (d)*, *(f)* and *(i)* of *section 114 (1)* and *paragraphs (d)* and *(f)* of *section 118 (1)*.
+
+#### 104. Establishment of subsidiaries and joint ventures.
+
+**104**.— (1) A corporation may, in pursuance of its objects under this Act, with the consent of the Minister and the Minister for Finance, the Minister having consulted with the Authority, acquire, form, establish and dispose of one or more subsidiaries.
+
+(2) A corporation or a subsidiary of it may, either by itself or with another person, with the consent of the Minister and the Minister for Finance, the Minister having consulted with the Authority, promote or take part in the formation or establishment of a company, and enter into joint ventures or partnerships in pursuance of its objects under this Act.
+
+(3) A corporation may, with the consent of the Minister and the Minister for Finance, the Minister having consulted with the Authority, acquire, hold and dispose of shares or other interests in a company and become a member of a company.
+
+(4) The memorandum and articles of association of a subsidiary shall be in such form as may be determined by the corporation with the consent of the Minister and the Minister for Finance.
+
+(5) The Minister may attach to any consent granted under this section particular terms or conditions as he or she considers appropriate in the circumstances.
+
+#### 105. Duty of corporation with respect to its revenue.
+
+**105**.— It is the duty of a corporation so to conduct its affairs as to secure that its revenue is at the earliest possible date, and thereafter continues to be, at least sufficient—
+
+(*a*) to meet all sums properly chargeable to current account, and
+
+(*b*) to make suitable provision with respect to capital expenditure.
+
+#### 106. Advertisements.
+
+**106**.— (1) A corporation may broadcast advertisements, broadcast acknowledgements of sponsorship, may fix charges and conditions for such broadcasts and, in fixing the charges, may provide for different circumstances and for additional special charges to be made in special cases.
+
+(2) A corporation may reject any advertisement presented for broadcast in whole or in part.
+
+(3) F195[Subject to subsections *(3A)* and *(3B)*], a corporation in providing a broadcasting service under this Part shall, subject to the approval of the Minister following consultation with the Authority, fix—
+
+(*a*) the total daily time for broadcasting F196[advertisements,]
+
+(*b*) the maximum period given to advertisements in any F197[hour, and]
+
+F198[(*c*) for audiovisual broadcasting services, the time allowed for broadcasting advertisements in the period between 06.00 and 18.00 and in the period between 18.00 and 24.00 each day.]
+
+F199[(3A) For sound broadcasting services—
+
+(*a*) the time fixed under *subsection (3)(a)*, shall not exceed 15 per cent of the total daily broadcasting time, and
+
+(*b*) the period fixed under *subsection (3)(b)*, shall not exceed 10 minutes in any hour.
+
+(3B) The time fixed under *subsection (3)(c)* shall not exceed 20 per cent of the time in each period.
+
+(3C) A failure to comply with *subsection (3)* shall be a contravention for the purposes of *Part 8B*.]
+
+(4) The Minister, if so requested by F200[*An Coimisiún Toghcháin*] following consultation by F200[*An Coimisiún Toghcháin*] with a corporation and consideration of any proposals of the corporation for broadcasts in connection with the referendum that it communicates to F200[*An Coimisiún Toghcháin*], shall direct the corporation in writing to allocate broadcasting time to facilitate F200[*An Coimisiún Toghcháin*] in performing its functions, and the corporation shall comply with a direction under this subsection.
+
+(5) Charges and conditions referred to in *subsection (1)* may be fixed subject to variations benefiting advertisers who use the Irish language in their advertisements.
+
+(6) A power under this section to fix charges and conditions shall be read as including a power to cancel or vary any charges or conditions fixed under such power and, where charges or conditions are cancelled, to fix other charges or conditions in lieu of those cancelled.
+
+(7) F201[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F195, F196, F197: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 33(a)(i), (ii), (iii), S.I. No. 71 of 2023.
+>
+> F198, F199: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 33(a)(iv), (b), S.I. No. 71 of 2023.
+>
+> F200: Substituted (9.02.2023) by *Electoral Reform Act 2022* (30/2022), s. 70(b), S.I. No. 32 of 2023.
+>
+> F201: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 33(c), S.I. No. 71 of 2023.
+
+#### 107. Borrowings.
+
+**107**.— (1) RTÉ may, for the purpose of providing for current or capital expenditure, from time to time, borrow money (whether on the security of the assets of the corporation or otherwise), not exceeding in the aggregate €100,000,000 without requiring the consent of the Minister and the Minister for Finance.
+
+(2) TG4 may, for the purpose of providing for current or capital expenditure, from time to time, borrow money (whether on the security of the assets of the corporation or otherwise), not exceeding in the aggregate €10,000,000 without requiring the consent of the Minister and the Minister for Finance.
+
+(3) A corporation may, with the consent of the Minister and the Minister for Finance, the Minister having consulted with the Authority, borrow money exceeding the amount specified in *subsections (1)* or *(2)* for the purposes of providing for current or capital expenditure by means of—
+
+(*a*) temporary borrowings from financial institutions, or
+
+(*b*) the creation of stock or other forms of security to be issued, transferred, dealt with and redeemed in such manner and on such terms and conditions as the corporation, with the consents aforesaid, may determine.
+
+(4) The Minister may attach to any consent granted under *subsection (3)* such particular terms or conditions as he or she considers appropriate in the circumstances.
+
+(5) The terms upon which monies are borrowed under this section may include provisions charging the monies and interest thereon upon all property of whatsoever kind for the time being vested in the corporation or upon any particular property of the corporation and provisions establishing the priority of such charges amongst themselves.
+
+#### 108. Transactions between public service and commercial opportunities.
+
+**108**.— (1) The commercial activities undertaken by a corporation in pursuance of its exploitation of commercial opportunities object shall—
+
+(*a*) be operated in an efficient manner so as to maximise revenues, and
+
+(*b*) be used to subsidise its public service objects.
+
+(2) All transactions or arrangements entered into by a corporation as between the activities arising from—
+
+(*a*) its public service objects, and
+
+(*b*) its exploitation of commercial opportunities object,
+
+shall be made at arm’s length and on commercial terms.
+
+(3) On the direction of the Minister, the Compliance Committee shall prepare and submit to the Minister a report on compliance by the corporation with the requirements of *subsection (2)*.
+
+#### 109. Accounts and audit.
+
+**109**.— (1) A corporation shall submit estimates of income and expenditure to the Minister in such form, in respect of such periods and at such times, as may be required by the Minister and shall furnish to the Minister any information which the Minister may require in relation to such estimates, including proposals and future plans relating to the performance by the corporation of its functions over a period of years, as required.
+
+(2) A director general, under the direction of the board of his or her corporation, shall cause to be kept, on a continuous basis, all proper and usual books or other records of account in respect of—
+
+(*a*) all income and expenditure of the corporation,
+
+(*b*) the sources of such income and the subject matter of such expenditure, and
+
+(*c*) the property, assets and liabilities of the corporation.
+
+(3) The accounts of a corporation for each financial year shall be prepared in accordance with accounting standards by the director general and approved by the board of the corporation as soon as practicable but not later than three months after the end of the financial year to which they relate for submission to—
+
+(*a*) in respect of RTÉ, such duly qualified auditors as the board of RTÉ shall appoint, and
+
+(*b*) in respect of TG4, the Comptroller and Auditor General,
+
+for audit.
+
+(4) A copy of the accounts referred to in *subsection (3)* and the report of the auditors appointed by the board of RTÉ under *paragraph (a)* of *subsection (3)* or the Comptroller and Auditor General, as the case may be, thereon shall, as soon as may be but not later than 6 months after the end of the financial year to which they relate, be presented to the board of the relevant corporation and to the Minister.
+
+(5) The financial year of a corporation shall be the period of 12 months ending on 31 December in any year.
+
+(6) A corporation shall, if so required by the Minister, furnish to him or her, such information as he or she may require in respect of any balance sheet, account or report of the corporation or in relation to the policy and operations of the corporation other than day-to-day operations.
+
+(7) (*a*) A corporation, its director general and any relevant member of staff of the corporation shall, whenever so requested by the Minister, permit any person appointed by the Minister to examine the books or other records of account of the corporation in respect of any financial year or other period and shall facilitate any such examination.
+
+(*b*) In this subsection “relevant member of staff” means a member of the staff of the corporation in respect of whom there have been duly assigned duties which relate to the books or other records of account referred to in *paragraph (a)*.
+
+(8) A director general, under the direction of the board of his or her corporation, shall cause to be kept all such special accounts as the Minister may from time to time direct.
+
+(9) Without prejudice to *subsection (3)* and *section 110*, a corporation shall as soon as may be after the end of each financial year, send to the Minister—
+
+(*a*) a statement of the use it has made, of the monies paid to it under *section 123* in that financial year, in pursuance of its public service objects, and
+
+(*b*) a statement in respect of the total revenue and costs derived by the corporation in that financial year distinguishing between monies received or expended on—
+
+(i) activities in pursuance of its public service objects, and
+
+(ii) activities in pursuance of its exploitation of commercial opportunities object.
+
+(10) A corporation shall include in the statement required under *subsection (9)* a statement of the cost accounting principles and methods by which costs and revenues have been assigned to such activities.
+
+(11) The Authority, at the direction of the Minister, and having consulted with a corporation, shall prepare and publish guidance for the corporation as regards the cost accounting principles and methods to be considered by the corporation in preparing a statement under *subsection (9)*.
+
+(12) Any guidance issued by the Authority under *subsection (11)* shall be general in nature and shall not specify the particular items to be included in preparing a statement under *subsection (9)* to which the guidance relates.
+
+(13) The Compliance Committee, at the direction of the Minister, shall review and report to the Minister on the extent to which a statement prepared under *subsection (9)* complies with the guidance issued by the Authority under *subsection (11)*.
+
+(14) The Minister may give directions to a corporation as to the format of a statement prepared under *subsection (9)*.
+
+(15) The Minister shall cause the documents furnished to him or her under this section to be laid before each House of the Oireachtas.
+
+(16) In this section “accounting standards” has the same meaning as in section 205A(1) of the Companies Act 1990.
+
+#### 110. Reports and information.
+
+**110**.— (1) A corporation shall, not later than 30 June in each year make a report to the Minister (in this section referred to as the “annual report”) in such form as the Minister may approve, on the performance of its functions and activities during the preceding year, and the Minister shall cause copies of the report to be laid before each House of the Oireachtas.
+
+(2) Whenever the Minister so directs, the annual report shall also include such additional information on the performance of the corporation’s functions and activities during the preceding year as the Minister may specify.
+
+(3) A corporation shall co-operate with the Minister and the Authority in the performance of their respective functions under this Act including providing them with all necessary information.
+
+(4) RTÉ shall on the third and fifth anniversaries of 18 April 2007 carry out a review of the provision of the television broadcasting service and sound broadcasting service referred to in *paragraph (f)* of *section 114 (1)*.
+
+(5) RTÉ shall make a report to the Minister of each review carried out by it under *subsection (4)*.
+
+(6) The Minister shall cause copies of each report made to him or her under *subsection (5)* to be laid before each House of the Oireachtas.
+
+#### 111. Access to archives.
+
+**111**.— (1) A corporation shall make reasonable arrangements, itself or with such person or persons as it chooses, for public access to an archive or library established or maintained in pursuance of *section 114(1)(e)* or *section 118(1)(e)* with or without charge, such charge not to exceed the estimated cost of the search for and retrieval of items contained in the archive or library.
+
+(2) Arrangements made under *subsection (1)* shall not encompass the copying or reuse of material contained in an archive or library.
+
+(3) A corporation may enter into an arrangement with a public service broadcaster for the reuse with or without charge by the public service broadcaster, in pursuance of its public service objects and functions under this Part, of items contained in any archive or library maintained by the corporation, such charge not to exceed the estimated cost of the search and retrieval of such items.
+
+(4) A corporation shall prepare and submit to the Minister for his or her approval, following consultation with the Authority, a scheme for the licensing of the use and exploitation by third parties of sound and television recordings over which the corporation holds copyright and related rights.
+
+(5) A scheme shall provide separate terms and conditions of licencing for—
+
+(*a*) non-commercial *bona fide* educational and research purposes,
+
+(*b*) commercial purposes, and
+
+(*c*) other purposes.
+
+(6) Without prejudice to the generality of *subsection (4)* a corporation may—
+
+(*a*) specify more favourable charges, terms and conditions in respect of programme material used for the purpose of Irish language broadcasts, and
+
+(*b*) attach to a scheme such particular terms or conditions as it considers appropriate.
+
+(7) Any amendment or revocation of a scheme shall be submitted by the corporation to the Minister for his or her approval.
+
+(8) A scheme shall, if approved of by the Minister, be—
+
+(*a*) published (including publication on a website maintained by the corporation), and
+
+(*b*) carried out in accordance with its terms,
+
+by the corporation.
+
+(9) The Minister shall cause a scheme approved under *subsection (4)* to be laid before each House of the Oireachtas as soon as practicable after it is made.
+
+(10) The corporation shall ensure that provision is made for resolving disputes arising in respect of the operation of a scheme (by independent arbitration or otherwise) in a manner that appears to the Minister to be appropriate.
+
+(11) The Compliance Committee shall, at the direction of the Minister, report to the Minister on compliance by the corporation with this section.
+
+(12) In this section “scheme” means a scheme prepared and submitted to the Minister under *subsection (4)*.
+
+#### 112. Code of fair trading practice.
+
+**112**.— (1) It is the duty of a corporation to prepare and publish, within 15 months of the passing of this Act, and every fourth year thereafter, a code of fair trading practice (in this section referred to as a “code”) setting out the principles that it shall apply when agreeing terms for the commissioning of programming material from independent producers.
+
+(2) The Authority, having consulted with the Minister, a corporation, and independent producers (or such persons appearing to the Authority to represent them), shall within 12 months of the passing of this Act and every fourth year thereafter, prepare and issue guidance to the corporation on the format of a code required under *subsection (1)*.
+
+(3) The guidance issued by the Authority under *subsection (2)* shall be general in nature and shall not specify the particular items to be included in a code to which the guidance relates.
+
+(4) A corporation, having considered the guidance received under *subsection (2)*, shall prepare and submit for approval to the Minister a code.
+
+(5) A code shall include reference to a corporation’s approach to—
+
+(*a*) multi-annual commissioning,
+
+(*b*) acquisition of rights, and
+
+(*c*) timetable for contractual negotiations.
+
+(6) In meeting the requirements of *subsection (5) (b)* the corporation shall address the arrangements it proposes to adopt in respect of the duration and exclusivity of the various categories of rights it intends to acquire.
+
+(7) The Minister shall, in considering a code, consult with the Authority.
+
+(8) On approval by the Minister the code shall be deemed to have come into force and the corporation shall comply with such a code.
+
+(9) A corporation shall ensure that provision is made for resolving disputes arising in respect of the provisions of a code (by independent arbitration or otherwise) in a manner that appears to the Minister to be appropriate.
+
+(10) The Compliance Committee shall, at the direction of the Minister, report to the Minister on compliance by a corporation with a code prepared under this section.
+
+(11) A corporation may with the approval of the Minister, the Minister having consulted with the Authority, revise and publish amendments to a code.
+
+(12) RTÉ shall co-operate with independent producers in the marketing outside the State of sound broadcasting and television programmes commissioned by RTÉ from independent producers.
+
+### Chapter 2 Provisions specific to RT — Chapter 2 — Provisions specific to RTÉ
+
+#### 113. Raidió Teilifís Éireann.
+
+**113**.— (1) The name of Radio Telefís Éireann (changed by section 3 of the Broadcasting Authority (Amendment) Act 1966) is changed and following the passing of this Act is to be known as Raidió Teilifís Éireann.
+
+(2) Raidió Teilifís Éireann continues in being.
+
+#### 114. Principal objects and associated powers of RTÉ.
+
+**114**.— (1) The objects of RTÉ are—
+
+(*a*) to establish, maintain and operate a national television and sound broadcasting service which shall have the character of a public service, be a free-to-air service and be made available, in so far as it is reasonably practicable, to the whole community on the island of Ireland,
+
+(*b*) to establish and maintain a website F202[...] in connection with the services of RTÉ under *paragraphs (a)*, *(c)*, *(d)*, *(e)*, *(f)*, *(g)*, *(h)* and *(i)*,
+
+(*c*) to establish and maintain F203[a concert orchestra and other cultural performing groups] in connection with the services of RTÉ under *paragraphs (a)*, *(f)*, *(g)* and *(h)*,
+
+(*d*) to assist and co-operate with the relevant public bodies in preparation for, and execution of, the dissemination of relevant information to the public in the event of a major emergency,
+
+(*e*) to establish and maintain archives and libraries containing materials relevant to the objects of RTÉ under this subsection,
+
+(*f*) to establish, maintain and operate a television broadcasting service and a sound broadcasting service which shall have the character of a public service, which services shall be made available, in so far as RTÉ considers reasonably practicable, to Irish communities outside the island of Ireland,
+
+(*g*) subject to the consent of the Minister, the Minister having consulted with the Authority, to establish, maintain and operate, in so far as it is reasonably practicable, community, local, or regional broadcasting services, which shall have the character of a public service, and be available free-to-air,
+
+(*h*) subject to the consent of the Minister, the Minister having consulted with the Authority, to establish and maintain F204[audiovisual on-demand media services], in so far as it is reasonably practicable, which shall have the character of a public broadcasting service (such consent not being required in respect of such services which are ancillary to a broadcasting service provided under *paragraphs (a)*, *(d)*, *(f)* and *(g)*),
+
+(*i*) to establish, maintain, and operate one or more national multiplexes,
+
+(*j*) so far as it is reasonably practicable, to exploit such commercial opportunities as may arise in pursuit of the objects outlined in *paragraphs (a)* to *(i)*.
+
+(2) In pursuit of the objects outlined in *subsection (1)*, RTÉ shall—
+
+(*a*) be responsive to the interests and concerns of the whole community, be mindful of the need for understanding and peace within the whole island of Ireland, ensure that the programmes reflect the varied elements which make up the culture of the people of the whole island of Ireland, and have special regard for the elements which distinguish that culture and in particular for the Irish language,
+
+(*b*) uphold the democratic values enshrined in the Constitution, especially those relating to rightful liberty of expression, and
+
+(*c*) have regard to the need for the formation of public awareness and understanding of the values and traditions of countries other than the State, including in particular those of other Member States.
+
+(3) Without prejudice to the generality of *subsection (1)*, RTÉ shall ensure that the programme schedules of the broadcasting services referred to in that subsection—
+
+(*a*) provide a comprehensive range of programmes in the Irish and English languages that reflect the cultural diversity of the whole island of Ireland and include programmes that entertain, inform and educate, provide coverage of sporting, religious and cultural activities and cater for the expectations of the community generally as well as members of the community with special or minority interests and which, in every case, respect human dignity,
+
+(*b*) provide programmes of news and current affairs in the Irish and English languages, including programmes that provide coverage of proceedings in the Houses of the Oireachtas and the European Parliament, and
+
+(*c*) facilitate or assist contemporary cultural expression and encourage or promote innovation and experimentation in broadcasting.
+
+(4) The principal express powers of RTÉ in pursuance of the objects outlined in *subsection (1)* are—
+
+(*a*) to establish, maintain and operate broadcasting stations and to acquire, install and operate apparatus for wireless telegraphy,
+
+(*b*) subject to any regulations under the Act of 1926, which are for the time being in force, to provide for the distribution by means of wired broadcast relay stations of programmes broadcast by RTÉ and such other programmes as RTÉ may decide,
+
+(*c*) to originate programmes and procure programmes from any source,
+
+(*d*) to make contracts, agreements and arrangements incidental or conducive to the objects of RTÉ,
+
+(*e*) to acquire and make use of copyrights, patents, licences, privileges and concessions,
+
+(*f*) to collect news and information and to subscribe to news services and such other services as may be conducive to the objects of RTÉ,
+
+(*g*) to subscribe to such international associations, and to such educational, musical and dramatic bodies and such other bodies promoting entertainment or culture, as may be conducive to the objects of RTÉ,
+
+(*h*) to organise, provide and subsidise concerts, entertainments, education and other activities in connection with a broadcasting service or for any purpose incidental to it and, in relation to any such concert or entertainment, to provide or procure accommodation and, if desired, to make charges for admission,
+
+(*i*) to prepare, publish and distribute, with or without charge, such magazines, books, papers and other printed matter as may seem to RTÉ to be conducive or incidental to its objects,
+
+(*j*) to arrange with other broadcasting organisations or authorities for the distribution, receipt, exchange and relay of programmes (whether live or recorded),
+
+(*k*) to compile, publish and distribute, with or without charge, recorded aural and visual material,
+
+(*l*) to provide programmes of news and current affairs in the Irish and English languages, including programmes that provide coverage of proceedings in the Houses of the Oireachtas and the European Parliament,
+
+(*m*) to facilitate or assist contemporary cultural expression and encourage or promote innovation and experimentation in broadcasting,
+
+(*n*) to invest in, originate or procure films,
+
+(*o*) to establish and maintain websites,
+
+(*p*) to establish and maintain an electronic communications network subject to any enactment or rule of law,
+
+(*q*) to establish and maintain an “electronic communications service” meaning a service which consists wholly or mainly of the conveyance of signals on electronic communications networks, subject to the provisions of any enactment or rule of law,
+
+(*r*) to make available the broadcasting services of RTÉ in so far as reasonably practicable by any and all means of transmission, relaying or distribution, whether by way of broadcast (which includes terrestrial sound and television broadcasting networks, cable networks or satellite networks), or by any form of electronic means (which includes fixed terrestrial networks, mobile terrestrial networks, including the Internet and other electronic communications networks) and whether now known or hereinafter invented on a linear or non-linear basis, and
+
+(*s*) to invest any of its funds in any manner in which a trustee is empowered by law to invest trust funds.
+
+(5) Nothing in this section shall be read as preventing RTÉ from including in the programme schedules programmes made outside the State.
+
+(6) Nothing in this section shall be read as preventing RTÉ from providing broadcasting services which are of a special interest to only certain members of the community and which are made available on a subscription or pay-per-view basis under its exploitation of commercial opportunities object.
+
+(7) RTÉ shall have all such powers as are necessary or incidental to the attainment of the objects specified in *subsection (1)*, and which are not inconsistent with this Act.
+
+(8) RTÉ shall endeavour to ensure that the programme schedules of the television broadcasting service and the sound broadcasting service established and maintained pursuant to *subsection (1) (f)* are, in so far as it is reasonably practicable, representative of the programme schedules of the national television and sound broadcasting services referred to in *subsection (1) (a)* and *section 118 (1) (a)*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F202: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 34(a), S.I. No. 71 of 2023.
+>
+> F203: Substituted (28.02.2023) by *National Cultural Institutions (National Concert Hall) (Amendment) Act 2023*(1/2023), s. 15, S.I. No. 130 of 2023.
+>
+> F204: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 34(b), S.I. No. 71 of 2023.
+
+#### 115. Broadcasting infrastructure.
+
+**115**.— (1) The Minister may, at the request of the Authority and after consultation with RTÉ, require RTÉ to co-operate with a holder of a sound broadcasting contract in the use of any mast, tower, site or other installation or facility needed in connection with the provision of transmission facilities for sound broadcasting services under the sound broadcasting contract.
+
+(2) A sound broadcaster shall make to RTÉ such periodical or other payments in respect of any facilities provided under *subsection (1)* as the Minister, after consultation with RTÉ and the Authority, directs.
+
+#### 116. Independent programme account.
+
+**116**.— (1) RTÉ shall keep an account which shall be known as the independent programmes account (in this section referred to as the “account”).
+
+(2) (*a*) Monies standing to the credit of the account shall be used by RTÉ for the purpose of—
+
+(i) commissioning the making of independent television or sound broadcasting programmes,
+
+(ii) procuring the formulation by persons of proposals for the commissioning by RTÉ of the making of the above programmes, and
+
+(iii) assisting the completion of independent television or sound broadcasting programmes the making of which has not been commissioned by RTÉ,
+
+and for no other purpose.
+
+(*b*) The amount of monies that RTÉ is required by *subsection (3)* to pay into the account in a financial year shall be expended, unless it is impracticable to do so, within 2 years of that financial year.
+
+(*c*) RTÉ shall not in a financial year use for the purposes specified in *subparagraphs (ii)* and *(iii)* of *paragraph (a)* more than 10 per cent of the amount of monies that it is required by *subsection (3)* to pay into the account in that financial year.
+
+(3) RTÉ shall in each financial year mentioned in *column (1)* of *Part 1* of the Table to this section pay into the account, in accordance with *subsection (4)*, an amount of monies that is not less than the amount of monies mentioned in *column (2)* opposite the mention of the financial year concerned.
+
+(4) The amount of monies required to be paid by *subsection (3)* into the account in a financial year shall be so paid in such number of instalments as RTÉ deems appropriate having regard to its duty under *subsection (2) (b)*.
+
+(5) If any of the monies paid under *subsection (3)* into the account in a financial year remains unexpended at the end of a two year period from the end of that financial year the Minister may, having consulted with the Authority and RTÉ, authorise RTÉ to withdraw those monies or a specified portion of them from the account. Monies so withdrawn shall thereupon become and be available to RTÉ for the purposes generally of pursuing its public service objects.
+
+(6) References in this section to the expenditure of monies in the account include references to the incurring of a legal obligation to expend such monies.
+
+(7) (*a*) The Minister may, having had regard to each of the following matters, namely—
+
+(i) the current and prospective financial liabilities of RTÉ,
+
+(ii) the effect (if any) for the time being of the operation of this section on—
+
+(I) the employment or recruitment of staff by RTÉ,
+
+(II) the performance by RTÉ of its public service objects, and
+
+(III) the employment of persons in the making of independent television or sound broadcasting programmes,
+
+from time to time by order vary the sum referred to in the definition of the “ appropriate amount” in *subsection (8) (a)* and for so long as the order is in force *Part 1* of the Table and the definition are to be read as having effect in accordance with the order.
+
+(*b*) Where it is proposed to make an order under this subsection, a draft of the order shall be laid before each House of the Oireachtas and the order shall not be made until a resolution approving of the draft has been passed by each such House.
+
+(8) (*a*) In *Part 1* of the Table to this section “appropriate amount” means the sum of €40,000,000 as increased by an amount equal to the appropriate percentage of that sum.
+
+(*b*) In this subsection the “appropriate percentage” means the difference between the consumer price index number at mid-August, 2008, and the said number at the mid-August immediately preceding the financial year concerned expressed as a percentage of the first-mentioned number.
+
+(*c*) If at the second-mentioned date in *paragraph (b)* the consumer price index number stands at a figure that is less than that at which it stood at the first-mentioned date in that paragraph, the definition of “the appropriate amount” in this subsection has effect as respects the financial year immediately following the second-mentioned date as if “reduced” were substituted for “increased” in that definition.
+
+(9) As soon as may be, but not later than 3 months, after the end of each financial year, RTÉ shall make a report to the Minister of—
+
+(*a*) its activities during that financial year as respects commissioning the making of independent television or sound broadcasting programmes,
+
+(*b*) the name or corporate identity of persons commissioned to make independent television or sound broadcasting programmes,
+
+(*c*) the operation by it of the account during that financial year, and
+
+(*d*) such other matters relating to the matters referred to in *paragraphs (a)*, *(b)* and *(c)* as the Minister may direct.
+
+(10) The Minister shall cause copies of the report to be laid before each House of the Oireachtas.
+
+(11) For the purposes of this Part, the making of an independent programme shall not be regarded as having been commissioned by RTÉ unless, before work on the making of the programme commences, RTÉ has incurred a legal obligation to pay at least 25 per cent of the cost of its making.
+
+(12) In this section “independent programme” means a television or sound broadcasting programme made by a person who complies with the following conditions, namely—
+
+(*a*) each of the following matters as respects the said programme is determined by him or her or by one or more persons on his or her behalf and over whose activities in respect of the determination of such matters he or she exercises control, namely—
+
+(i) the persons who are to participate in the said programme,
+
+(ii) the persons who are to be involved in the making of the said programme, and
+
+(iii) the equipment and facilities to be used in the making of the said programme,
+
+(*b*) he or she is not a subsidiary of a broadcaster, and
+
+(*c*) he or she is not a holding company of a broadcaster.
+
+(13) For the purposes of the definition in *subsection (12)*, where—
+
+(*a*) two or more broadcasters hold shares in a body corporate or a holding company of a body corporate, or
+
+(*b*) each of two or more broadcasters (being shareholders in a body corporate or a holding company of a body corporate) by the exercise of some power exercisable by it without the consent or concurrence of any other person can appoint or remove a holder of a directorship of the body corporate or, as the case may be, the holding company,
+
+then, notwithstanding that the body corporate is not a subsidiary of any of these broadcasters, the body corporate is deemed not to comply with the condition specified in *paragraph (b)* of that definition if—
+
+(i) the total number of shares held by the said broadcasters in the body corporate or, as the case may be, the holding company, or
+
+(ii) the total number of directorships of the body corporate or, as the case may be, the holding company that the aforesaid powers of the said broadcasters may be exercised in respect of,
+
+is such that, were the said broadcasters to be regarded as one company, the body corporate would be a subsidiary of it, and
+
+(I) RTÉ is one of the said broadcasters, or
+
+(II) there exists a business relationship between the said broadcasters that, in the opinion of RTÉ, is of such a kind as is likely to result in the said broadcasters acting in concert with one another in exercising their rights under those shares or in exercising the said powers.
+
+(14) For the purposes of *subsection (13) (b)* a broadcaster shall be deemed to have power to appoint to a directorship in relation to which the condition specified in paragraph (*a*) or (*b*) of section 155(2) of the Companies Act 1963 is satisfied, and for this purpose references in those paragraphs to the other company shall be construed as references to the broadcaster.
+
+(15) RTÉ shall in each financial year mentioned in *column (1)* of *Part 2* of the Table to this section use a per cent of the monies paid into the account that is not less than the per cent mentioned in *column (2)* opposite the mention of the financial year concerned for the purposes of—
+
+(*a*) commissioning the making of independent sound broadcasting programmes,
+
+(*b*) procuring the formulation by persons of proposals for the commissioning by RTÉ of the making of the above programmes, and
+
+(*c*) assisting the completion of independent sound broadcasting programmes the making of which has not been commissioned by RTÉ,
+
+and for no other purpose.
+
+(16) A minimum of 95 per cent of the monies paid into the account shall be used by RTÉ for the purpose of—
+
+(*a*) commissioning the making of independent television programmes,
+
+(*b*) procuring the formulation by persons of proposals for the commissioning by RTÉ of the making of the above programmes, and
+
+(*c*) assisting the completion of independent television broadcasting programmes the making of which has not been commissioned by RTÉ,
+
+and for no other purpose.
+
+TABLE
+
+*Part 1*
+
+Independent programmes account
+
+| Financial year (1) | Amount of monies to be paid by RTÉ into the account (2) |
+|---|---|
+| 2009 | €40,000,000 |
+| Each subsequent financial year | The appropriate amount |
+
+*Part 2*
+
+Independent sound broadcasting programmes
+
+| Financial year (1) | Minimum percentage of monies paid into account to be expended by RTÉ on independent sound broadcasting programmes (2) |
+|---|---|
+| 2009 | 1.25 per cent |
+| 2010 | 1.50 per cent |
+| 2011 | 2.00 per cent |
+| 2012 | 2.50 per cent |
+| Each subsequent financial year | 3.00 per cent |
+
+### Chapter 3 — Provisions specific to TG4
+
+#### 117. Continuance of Teilifís na Gaeilge.
+
+**117**.— Teilifís na Gaeilge continues in being.
+
+#### 118. Principal objects and associated powers of TG4.
+
+**118**.— (1) The objects of TG4 are—
+
+(*a*) to establish, maintain and operate a national television broadcasting service, which shall have the character of a public service, be a free-to-air service and be made available, in so far as it is reasonably practicable, to the whole community on the island of Ireland,
+
+(*b*) to establish and maintain a website F205[...] in connection with the services of TG4 under *paragraphs (a)*, *(c)*, *(d)*, *(e)*, *(f)*, *(g)* and *(h)*,
+
+(*c*) to establish and maintain choirs and other cultural performing groups in connection with the services of TG4 under *paragraphs (a)*, *(f)*, *(g)* and *(h)*,
+
+(*d*) to assist and co-operate with the relevant public bodies in preparation for, and execution of, the dissemination of relevant information to the public in the event of a major emergency,
+
+(*e*) to establish and maintain archives and libraries containing materials relevant to the objects of TG4 under this subsection,
+
+(*f*) to establish, maintain and operate, in so far as it is reasonably practicable, a television broadcasting service, which shall have the character of a public service, to be made available to Irish communities outside of the island of Ireland,
+
+(*g*) subject to the consent of the Minister, the Minister having consulted with the Authority, to establish, maintain and operate in so far as it is reasonably practicable, community, local, or regional broadcasting services, which shall have the character of a public service, and be available free-to-air,
+
+(*h*) subject to the consent of the Minister, the Minister having consulted with the Authority, to establish and maintain F206[audiovisual on-demand media services], in so far as it is reasonably practicable, which shall have the character of a public broadcasting service (such consent not being required in respect of such services which are ancillary to a broadcasting service provided under *paragraphs (a)*, *(d)*, *(f)* and *(g)*),
+
+(*i*) so far as it is reasonably practicable, to exploit such commercial opportunities as may arise in pursuit of the objects outlined in *paragraphs (a)* to *(h)*.
+
+(2) In pursuit of the objects outlined in *subsection (1)*, TG4 shall—
+
+(*a*) be responsive to the interests and concerns of the whole community, be mindful of the need for understanding and peace within the whole island of Ireland, ensure that the programmes reflect the varied elements which make up the culture of the people of the whole island of Ireland, and have special regard for the elements which distinguish that culture and in particular for the Gaeltachtaí,
+
+(*b*) uphold the democratic values enshrined in the Constitution, especially those relating to rightful liberty of expression, and
+
+(*c*) have regard to the need for the formation of public awareness and understanding of the values and traditions of countries other than the State, including in particular those of other Member States.
+
+(3) Without prejudice to the generality of *subsection (1)*, TG4 shall ensure that the programme schedules of the broadcasting services referred to in that subsection—
+
+(*a*) provide a comprehensive range of programmes, primarily in the Irish language, that reflect the cultural diversity of the whole island of Ireland and include programmes that entertain, inform and educate, provide coverage of sporting, religious and cultural activities and cater for the expectations of those of all age groups in the community whose preferred spoken language is Irish or who otherwise have an interest in Irish,
+
+(*b*) provide programmes, primarily in the Irish language, of news and current affairs,
+
+(*c*) provide coverage of proceedings in the Houses of the Oireachtas and the European Parliament, and
+
+(*d*) facilitate or assist contemporary cultural expression and encourage or promote innovation and experimentation in broadcasting.
+
+(4) The principal express powers of TG4 in pursuance of the objects outlined in *subsection (1)* are—
+
+(*a*) to establish, maintain and operate broadcasting stations and to acquire, install and operate apparatus for wireless telegraphy,
+
+(*b*) subject to any regulations under the Act of 1926, which are for the time being in force, to provide for the distribution by means of wired broadcast relay stations of programmes broadcast by TG4 and such other programmes as TG4 may decide,
+
+(*c*) to originate programmes and procure programmes from any source,
+
+(*d*) to make contracts, agreements and arrangements incidental or conducive to the objects of TG4,
+
+(*e*) to acquire and make use of copyrights, patents, licences, privileges and concessions,
+
+(*f*) to collect news and information and to subscribe to news services and such other services as may be conducive to the objects of TG4,
+
+(*g*) to subscribe to such international associations, and to such educational, musical and dramatic bodies and such other bodies promoting entertainment or culture, as may be conducive to the objects of TG4,
+
+(*h*) to organise, provide and subsidise concerts, entertainments, education and other activities in connection with a broadcasting service or for any purpose incidental to it and, in relation to any such concert or entertainment, to provide or procure accommodation and, if desired, to make charges for admission,
+
+(*i*) to prepare, publish and distribute, with or without charge, such magazines, books, papers and other printed matter as may seem to TG4 to be conducive or incidental to its objects,
+
+(*j*) to arrange with other broadcasting organisations or authorities for the distribution, receipt, exchange and relay of programmes (whether live or recorded),
+
+(*k*) to compile, publish and distribute, with or without charge, recorded aural and visual material,
+
+(*l*) to provide programmes of news and current affairs in the Irish and English languages, including programmes that provide coverage of proceedings in the Houses of the Oireachtas and the European Parliament,
+
+(*m*) to facilitate or assist contemporary cultural expression and encourage or promote innovation and experimentation in broadcasting,
+
+(*n*) to invest in, originate or procure films,
+
+(*o*) to establish and maintain websites,
+
+(*p*) to establish and maintain an electronic communications network subject to any enactment or rule of law,
+
+(*q*) to establish and maintain an “electronic communications service” meaning a service which consists wholly or mainly in the conveyance of signals on electronic communications networks, subject to the provisions of any enactment or rule of law,
+
+(*r*) to make available the broadcasting services of TG4 in so far as reasonably practicable by any and all means of transmission, relaying or distribution, whether by way of broadcast (which includes terrestrial sound and television broadcasting networks, cable networks or satellite networks), or by any form of electronic means (which includes fixed terrestrial networks, mobile terrestrial networks, including the Internet and other electronic communications networks) and whether now known or hereinafter invented on a linear or non-linear basis, and
+
+(*s*) to invest any of its funds in any manner in which a trustee is empowered by law to invest trust funds.
+
+(5) TG4 may, for the purpose of complementing the programme material it broadcasts in the Irish language, acquire programme material in other languages; in acquiring such material, TG4 shall have regard to the need to maintain the distinctive character of the broadcasting service referred to in *paragraph (a)* of *subsection (1)* and to cater for the expectations of audiences who are not generally catered for by other broadcasting services.
+
+(6) Nothing in this section is to be read as preventing TG4 from including in the programme schedules programmes made outside the State.
+
+(7) Nothing in this section is to be read as preventing TG4 from providing broadcasting services which are of a special interest to only certain members of the community and which are made available on a subscription or pay-per-view basis under its exploitation of commercial opportunities object.
+
+(8) TG4 shall have all such powers as are necessary or incidental to the attainment of the objects under *subsection (1)* and which are not inconsistent with this Act.
+
+F207[(9) Each amount paid to TG4 under section 123(4) shall be used by TG4 solely for the purposes of—
+
+(*a*) pursuing its public service objects, and
+
+(*b*) paying amounts levied on TG4 under section 33.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F205: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 35(a), S.I. No. 71 of 2023.
+>
+> F206: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 35(b), S.I. No. 71 of 2023.
+>
+> F207: Substituted (2.08.2011) by *Communications Regulation (Postal Services) Act 2011* (21/2011), s. 68, commenced on enactment.
+
+#### 119. Accountability of director general of TG4 to Committee of Public Accounts.
+
+**119**.— The director general of TG4 shall, whenever he or she is required to do so by a Committee of Dáil Éireann established under the Standing Orders of Dáil Éireann to examine and report to Dáil Éireann on the appropriation accounts and the reports of the Comptroller and Auditor General, give evidence to that Committee on all matters pertaining to the expenditure of TG4.
+
+### Chapter 4 — Exchange of Programme Material and Spectrum Licencing
+
+#### 120. Duty to supply programme material.
+
+**120**.— (1) RTÉ shall provide to TG4 programme material in the Irish language of such amounts and at such times as may be agreed between them, being of such amounts and at such times as, in their opinion, will result in the equivalent of one hour of such programme material being provided daily by RTÉ to TG4.
+
+(2) For the purposes of *section 114 (8)* TG4 shall provide to RTÉ, in such amounts and at such times as may be agreed between them, programme material representative of the programme schedules of the national television broadcasting service referred to in *section 118 (1) (a)*.
+
+#### 121. Public service broadcasting licence.
+
+**121**.— (1) The powers conferred on RTÉ by virtue of *section 114 (4) (a)* and *(b)* shall not be exercised save under a licence (“public service broadcasting licence”) issued to RTÉ or its agent by the Communications Regulator and in accordance with any conditions attached by the Communications Regulator to the licence.
+
+(2) The powers conferred on TG4 by virtue of *section 118 (4) (a)* and *(b)* shall not be exercised save under a public service broadcasting licence issued to TG4 or its agent by the Communications Regulator and in accordance with any conditions attached by the Communications Regulator to such licence.
+
+(3) A copy of every public service broadcasting licence shall be laid before each House of the Oireachtas as soon as may be after the issue of the licence.
+
+#### 122. Emergencies.
+
+**122**.— (1) During the continuance of any national emergency the Minister may suspend any public service broadcasting licence and any licence under *section 132 (1)* or *(2)* or *section 133 (1)* or *(2)*, and, while any such suspension continues, the Minister may operate any service which was provided under the suspended licence or require such service to be operated as he or she directs.
+
+(2) Without prejudice to *section 114 (1) (d)* and *section 118 (1) (d)* it shall be a duty of a corporation, at the direction of the Minister, to assist and to co-operate with the relevant public bodies in the preparation for, and execution of, the dissemination of relevant information to the public in the event of a major emergency.
+
+(3) If and whenever the Minister shall exercise the powers conferred on him or her by *subsection (1)* a corporation shall be entitled to receive from the Minister, with the consent of the Minister for Finance—
+
+(*a*) such sums as are required to defray any expenses which, regard being had to the nature of the emergency, have been properly and necessarily incurred by the corporation and for meeting which revenue is by reason of the exercise of such powers not otherwise available to the corporation, and
+
+(*b*) compensation for any damage done to any property of the corporation, being damage directly attributable to the exercise of such powers.
+
+(4) The Minister may direct a corporation to allocate broadcasting time for announcements for and on behalf of any Minister of the Government, in the event of a major emergency, in connection with the functions of that Minister of the Government, and the corporation shall comply with the direction.
+
+(5) In complying with a direction under *subsection (4)* a corporation may broadcast an announcement that it has received such a direction from the Minister.
+
+### Chapter 5 — Allocation of Public Funding to RTÉ and TG4
+
+#### 123. Allocation of public funding.
+
+**123**.— F208[(1) The Minister, with the approval of the Minister for Public Expenditure and Reform, may pay to RTÉ and TG4 out of monies provided by the Oireachtas, in respect of each financial year beginning with the financial year commencing on 1 January 2011, an amount equal to the total of the receipts in that year in respect of television licence fees apportioned to RTÉ and TG4 as the Minister determines in accordance with *subsection (1A)* less—
+
+(*a*) any expenses certified by the Minister as having been incurred by him or her in that year in relation to the collection of those fees, and
+
+(*b*) any amount paid under *section 156(2)*.]
+
+F209[(1A) (*a*) The Minister shall, after consultation with the Minister for Public Expenditure and Reform, determine the portion of the amount referred to in subsection (1) to be paid to RTÉ and TG4 respectively.
+
+(*b*) When making a determination for the purposes of paragraph (*a*), the Minister shall have regard to the ability of RTÉ and TG4 to fulfil their public service objects.]
+
+(2) The amount paid to RTÉ in each financial year under *subsection (1)* of this section, shall be used by RTÉ solely for the purposes of—
+
+(*a*) pursuing its public service objects, and
+
+(*b*) paying amounts levied on RTÉ under *section 33*.
+
+F210[(2A) The amount paid to TG4 in each financial year under *subsection (1)*, shall be used by TG4 solely for the purposes of—
+
+(*a*) pursuing its public service objects, and
+
+(*b*) paying amounts levied on TG4 under *section 33*.]
+
+(3) The Minister, with the consent of the Minister for Finance, may from time to time, pay to RTÉ such an amount as he or she determines to be reasonable for the purposes of defraying the expenses incurred by RTÉ in the pursuance of its public service objects.
+
+(4) The Minister, with the consent of the Minister for Finance, may from time to time, pay to TG4 such an amount as he or she determines to be reasonable for the purposes of defraying the expenses incurred by TG4 in—
+
+(*a*) pursuing its public service objects, and
+
+(*b*) paying amounts levied on TG4 under *section 33*.
+
+(5) The Minister in making a determination under *subsection (4)* shall consider the multi-annual funding needs of TG4.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F208: Substituted (2.08.2011) by *Communications Regulation (Postal Services) Act 2011* (21/2011), s. 69(a), commenced on enactment.
+>
+> F209: Inserted (2.08.2011) by *Communications Regulation (Postal Services) Act 2011* (21/2011), s. 69(b), commenced on enactment.
+>
+> F210: Inserted (2.08.2011) by *Communications Regulation (Postal Services) Act 2011* (21/2011), s. 69(c), commenced on enactment.
+>
+> F211: Substituted by *Online Safety and Media Regulation Act 2022* (41/2022), s. 36(1)(a), (b), not commenced as of date of revision, subject to subs. (2) which provides that the amendments are to have effect only in relation to financial years beginning on or after the date on which the Commission first makes a levy order under s. 21.
+>
+> **Modifications (not altering text):**
+>
+> C12: Prospective affecting provision: subss. (1), (1A) substituted by *Online Safety and Media Regulation Act 2022* (41/2022), s. 36(1)(a), (b), not commenced as of date of revision, subject to subs. (2) which provides that the amendments are to have effect only in relation to financial years beginning on or after the date on which the Commission first makes a levy order under s. 21.
+>
+> **123.** F211[(1) The Minister, with the approval of the Minister for Public Expenditure and Reform, may pay to RTÉ, TG4 and the Commission out of moneys provided by the Oireachtas, in respect of each financial year, an amount equal to the total of the receipts in that year in respect of television licence fees apportioned to RTÉ, TG4 and the Commission as the Minister determines in accordance with *subsection (1A)* less—
+>
+> (*a*) any expenses certified by the Minister as having been incurred by him or her in that year in relation to the collection of those fees, and
+>
+> (*b*) any amount paid under *section 156(2)*.]
+>
+> F211[(1A) (*a*) The Minister shall, after consultation with the Minister for Public Expenditure and Reform, determine the portion of the amount referred to in *subsection (1)* to be paid to RTÉ, TG4 and the Commission respectively.
+>
+> (*b*) When making a determination for the purposes of *paragraph (a)*, the Minister shall—
+>
+> (i) have regard to the ability of RTÉ and TG4 to fulfil their public service objects, and
+>
+> (ii) ensure that the amount, if any, to be paid to the Commission under *subsection (1)* shall not exceed 50 per cent of the estimate of the expenses of the Commission for the financial year concerned as set out in its estimates of income and expenditure submitted to the Minister under *section 26(1)* in the financial year immediately preceding the year in which an amount under *subsection (1)* is to be paid.]
+>
+> **Editorial Notes:**
+>
+> E22: Previous affecting provision: amounts paid to broadcaster by Minister for Communications, Energy and Natural Resources under section confirmed as qualifying income for the purposes of *Broadcasting Act 2009 (Section 33) Levy Order 2010* (17.01.2010) by *Broadcasting Act 2009 (Section 33) Levy Order 2010* (S.I. No. 7 of 2010), art. 3 and sch. 2 par. 3, in operation as per art. 1(2); revoked (1.01.2024) by *Broadcasting Act 2009 (Section 21) Levy Order 2023* (S.I. No. 657 of 2023), art. 1(3), in operation as per art. 1(2).
+
+#### 124. Recommendations as to changes to public funding.
+
+**124**.— (1) In this section—
+
+“CPI” means the consumer price index as compiled by the Central Statistics Office;
+
+“financial year” means a period of 12 months ending on 31 December;
+
+“(Δ CPI)” means the annual percentage change in the CPI;
+
+“annual television licence fee modification” = (Δ CPI) + 1% - X;
+
+“X” means the adjustment recommended by the Authority.
+
+(2) The Authority, shall in each year, carry out a review of the extent to which a corporation has during the previous financial year fulfilled the commitments in respect of its public service objects stated in an annual statement of performance commitments for that financial year and the adequacy or otherwise of public funding to enable the corporation to meet its public service objects.
+
+(3) A corporation shall co-operate with the Authority in the exercise of a review under *subsection (2)*.
+
+(4) The Authority shall prepare and by 30 June in each year submit to the Minister a report of the outcome of any review under *subsection (2)*.
+
+(5) The Authority shall on the basis of the review under *subsection (2)* recommend in a report to the Minister an annual television licence fee modification F212[and the amounts of any payments to be made to TG4 under section 123].
+
+(6) The Minister shall publish a response to a recommendation of the Authority under *subsection (5)*.
+
+(7) The Minister shall cause copies of—
+
+(*a*) the report of the Authority under *subsection (4)*,
+
+(*b*) the recommendations made by the Authority under *subsection (5)*, and
+
+(*c*) his or her response to the recommendations of the Authority under *subsection (6)*,
+
+to be laid before each House of the Oireachtas.
+
+(8) The Authority shall within a period of not more than 3 years after the passing of this Act, and every 5 years thereafter, or as directed by the Minister, carry out a review of the adequacy or otherwise, of public funding to enable a corporation to meet its public service objects.
+
+(9) In carrying out a review under *subsection (8)* the Authority shall take account of the following—
+
+(*a*) the existing financial resources available to a corporation,
+
+(*b*) the current level of public funding available to a corporation,
+
+(*c*) the multi-annual nature of public funding requirements,
+
+(*d*) the level of commercial funding available to a corporation in pursuance of its exploitation of commercial opportunities object,
+
+(*e*) the outcome of any review under *subsection (2)*,
+
+(*f*) the public service statement for a corporation in force during the period under review,
+
+(*g*) developments in public service broadcasting internationally,
+
+(*h*) F213[...]
+
+(*i*) such other matters as the Authority may consider relevant, and
+
+(*j*) such other matters which the Minister may consider relevant and has communicated to the Authority.
+
+(10) A corporation shall co-operate with the Authority in the exercise of a review under *subsection (8)*.
+
+(11) The Authority shall prepare and as soon as practicable submit to the Minister a report of the outcome of any review under *subsection (8)*.
+
+(12) The Authority shall on the basis of the review under *subsection (8)* make in a report to the Minister under *subsection (11)* a recommendation as to the requisite level of public funding required to permit the corporation to fulfil its public service objects.
+
+(13) The Minister shall submit to the Government—
+
+(*a*) the report of the Authority under *subsection (11)*, and
+
+(*b*) the recommendation made by the Authority under *subsection (12)*.
+
+(14) The Government shall publish a response to the recommendation of the Authority under *subsection (12)*.
+
+(15) The Minister shall cause copies of:
+
+(*a*) the report of the Authority under *subsection (11)*,
+
+(*b*) the recommendation made by the Authority under *subsection (12)*, and
+
+(*c*) the Government’s response to the recommendation of the Authority under *subsection (14)*,
+
+to be laid before each House of the Oireachtas.
+
+(16) The Authority may appoint an agent to perform any acts and discharge any functions authorised by this section to be performed or discharged by the Authority.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F212: Substituted (2.08.2011) by *Communications Regulation (Postal Services) Act 2011* (21/2011), s. 70, commenced on enactment.
+>
+> F213: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 37, S.I. No. 71 of 2023.
+
+### Chapter 6 Bealach Thithe an Oireachtais and Bealach Scannn na hireann — Chapter 6 — Bealach Thithe an Oireachtais and Bealach Scannán na hÉireann
+
+#### 125. Bealach Thithe an Oireachtais (Houses of the Oireachtas Channel).
+
+**125**.— (1) In this Chapter “Joint Administration Committee” means a joint committee of the Houses of the Oireachtas to which those Houses have assigned the role of oversight of the broadcasting of the proceedings of the Houses of the Oireachtas.
+
+(2) The Commission of the Houses of the Oireachtas may establish, fund and provide a television broadcasting service to be known as, in the Irish language, Bealach Thithe an Oireachtais or, in the English language, the Houses of the Oireachtas Channel, which shall have the character of a public service, be a free-to-air service and be made available, in so far as it is reasonably practicable, to the whole community on the island of Ireland.
+
+(3) The Houses of the Oireachtas Channel shall, as its principal function, provide coverage of proceedings in the Houses of the Oireachtas.
+
+(4) Subject to the consent of the Joint Administration Committee, the Houses of the Oireachtas Channel may provide coverage of matters and events ancillary to proceedings of the Houses of the Oireachtas.
+
+(5) The Houses of the Oireachtas Channel may provide coverage of the proceedings of—
+
+(*a*) a local authority (within the meaning of the Local Government Act 2001),
+
+(*b*) the implementation bodies (within the meaning of the British-Irish Agreement Act 1999),
+
+(*c*) the legislatures of other jurisdictions outside the State,
+
+(*d*) the institutions of the United Nations, the European Communities and the Council of Europe, and
+
+(*e*) such other bodies and institutions as the Commission of the Houses of the Oireachtas considers appropriate.
+
+(6) The Commission of the Houses of the Oireachtas may enter into such contracts as are necessary to establish and maintain the Houses of the Oireachtas Channel.
+
+(7) The Houses of the Oireachtas Channel shall not broadcast advertisements F214[...].
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F214: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 38, S.I. No. 71 of 2023.
+
+#### 126. Amendment of Schedule to Houses of the Oireachtas Commission Act 2003.
+
+**126**.— Schedule 1 to the Houses of the Oireachtas Commission Act 2003 is amended by inserting after paragraph 2(*c*) the following:
+
+“(*cc*) costs for the purposes of defraying the expenses incurred by the Commission in respect of Bealach Thithe an Oireachtais under *section 125* of the *Broadcasting Act 2009*;”.
+
+#### 127. Bealach Scannán na hÉireann (Irish Film Channel).
+
+**127**.— (1) The Irish Film Board may establish, fund and provide a television broadcasting service to be known as, in the Irish language, Bealach Scannán na hÉireann or, in the English language, the Irish Film Channel, which shall have the character of a public service, be a free-to-air service and be made available, in so far as it is reasonably practicable, to the whole community on the island of Ireland.
+
+(2) The Irish Film Channel shall, as its principal purpose, provide programme material consisting of Irish, European, and world films and cinema works including, as far as practicable, film and cinema works in the Irish language.
+
+(3) The Irish Film Board may enter into such contracts as are necessary to establish and maintain the Irish Film Channel.
+
+(4) The Irish Film Channel may broadcast advertisements, broadcast acknowledgements of sponsorship, may fix charges and conditions for such broadcasts and, in fixing the charges, may provide for different circumstances and for additional special charges to be made in special cases.
+
+(5) The Irish Film Channel may reject any advertisement presented for broadcast in whole or in part.
+
+(6) The Irish Film Channel in providing a broadcasting service under this section shall, subject to the consent of the Minister and F215[...] following consultation with the Authority, fix—
+
+(*a*) the total daily time for broadcasting F216[advertisements,]
+
+(*b*) the maximum period given to advertisements in any 3 hour F217[period, and]
+
+F218[(*c*) subject to *subsection (6A)*, the time allowed for broadcasting advertisements in the period between 06.00 and 18.00 hours and in the period between 18.00 and 24.00 hours each day.]
+
+F219[(6A) The time fixed under *subsection (6)(c)* shall not exceed 20 per cent of the time in each period.]
+
+F219[(6B) A failure to comply with *subsection (6)* shall be a contravention for the purposes of *Part 8B*.]
+
+(7) Film and cinema works broadcast by the Irish Film Channel shall be broadcast uninterrupted by advertisements or acknowledgements of sponsorship.
+
+(8) The Minister, if so requested by F220[*An Coimisiún Toghcháin*] following consultation by F220[*An Coimisiún Toghcháin*] with the Irish Film Channel and consideration of any proposals of the Irish Film Channel for broadcasts in connection with the referendum that it communicates to F220[*An Coimisiún Toghcháin*], shall direct the Irish Film Channel in writing to allocate broadcasting time to facilitate F220[*An Coimisiún Toghcháin*] in performing its functions, and the Irish Film Channel shall comply with a direction under this subsection.
+
+(9) Charges and conditions referred to in *subsection (4)* may be fixed subject to variations benefiting advertisers who use the Irish language in their advertisements.
+
+(10) A power under this section to fix charges and conditions shall be read as including a power to cancel or vary any charges or conditions fixed under such power and, where charges or conditions are cancelled, to fix other charges or conditions in lieu of those cancelled.
+
+(11) F221[...]
+
+(12) Nothing in this section shall preclude the Irish Film Channel from promoting the services of the Irish Film Board or promoting its future broadcasting of featured films and works.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F215: Deleted (30.05.2021) by *Planning and Development, Heritage and Broadcasting (Amendment) Act 2021* (11/2021), s. 16, commenced on enactment.
+>
+> F216, F217: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 39(a)(i), (ii), S.I. No. 71 of 2023.
+>
+> F218: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 39(a)(iii), S.I. No. 71 of 2023.
+>
+> F219: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 39(b), S.I. No. 71 of 2023.
+>
+> F220: Substituted (9.02.2023) by *Electoral Reform Act 2022* (30/2022), s. 70(c), S.I. No. 32 of 2023.
+>
+> F221: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 39(c), S.I. No. 71 of 2023.
+>
+> **Editorial Notes:**
+>
+> E23: Previous affecting provision: name of Department and title of Minister in subs. (6) changed from Arts, Sport and Tourism to Tourism, Culture and Sport (2.05.2010) by *Arts, Sport and Tourism (Alteration of Name of Department and Title of Minister) Order 2010* (S.I. No. 178 of 2010). Functions transferred to Department of and Minister for Transport, Tourism and Sport and references to Department of and Minister for Tourism, Culture and Sport construed (1.06.2011) by *Tourism and Sport (Transfer of Departmental Administration and Ministerial Functions) (No. 2) Order 2011* (S.I. No. 217 of 2011), arts. 2 and 3, in operation as per art. 1(2), subject to transitional provisions. Reference to Minister for Arts, Sports and Tourism deleted as per F-note above.
+
+#### 128. Oversight of public funding of Houses of the Oireachtas Channel and Irish Film Channel.
+
+**128**.— (1) The Irish Film Board shall prepare prior to the provision of a broadcasting service in respect of the Irish Film Channel and every 5 years thereafter, or as directed by the Minister for Arts, Sport and Tourism, a public service statement, not in conflict with this Act, setting out the principles to be observed, and activities to be undertaken by the Irish Film Channel.
+
+(2) The Commission of the Houses of the Oireachtas shall prepare prior to the provision of a broadcasting service in respect of the Houses of the Oireachtas Channel and every 5 years thereafter, a public service statement, not in conflict with this Act, setting out the principles to be observed, and activities to be undertaken by the Houses of the Oireachtas Channel.
+
+(3) The Authority shall within a period of not more than 5 years after the passing of this Act and every 5 years thereafter carry out a review of the adequacy or otherwise of public funding to enable the fulfilment of the functions of—
+
+(*a*) the Houses of the Oireachtas Channel under *section 125*, and
+
+(*b*) the Irish Film Channel under *section 127*.
+
+(4) The Authority shall prepare and as soon as practicable submit to the Joint Administration Committee a report of the outcome of any review under *subsection (3)* in respect of the Houses of the Oireachtas Channel.
+
+(5) The Authority shall prepare and as soon as practicable submit to the Minister for Arts, Sport and Tourism a report of the outcome of any review under *subsection (3)* in respect of the Irish Film Channel.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C13: Functions transferred and references to Department of and Minister for Transport construed (14.07.2021) by *Broadcasting (Transfer of Departmental Administration and Ministerial Functions) Order 2021* (S.I. No. 402 of 2021), arts. 2 and 3, in operation as per art. 1(2), subject to transitional provisions.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Tourism, Culture, Arts, Gaeltacht, Sport and Media.
+>
+> (2) References to the Department of Transport contained in any Act or any instrument made under an Act and relating to the administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Tourism, Culture, Arts, Gaeltacht, Sport and Media.
+>
+> 3\. (1) The functions vested in the Minister for Transport by or under subsections (1) and (5) of section 128 of the Broadcasting Act 2009 (No. 18 of 2009) are transferred to the Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media.
+>
+> (2) References to the Minister for Transport contained in any Act or instrument made under an Act and relating to any functions transferred by this Article shall, from the commencement of this Order, be construed as references to the Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media.
+>
+> **Editorial Notes:**
+>
+> E24: Previous affecting provision: functions transferred to Department of and Minister for Transport, Tourism and Sport and references to Department of and Minister for Tourism, Culture and Sport construed (1.06.2011) by *Tourism and Sport (Transfer of Departmental Administration and Ministerial Functions) (No. 2) Order 2011* (S.I. No. 217 of 2011), arts. 2 and 3, in operation as per art. 1(2), subject to transitional provisions; superseded by C-note above. Note name of Department and title of Minister for Transport, Tourism and Sport changed to Transport (17.09.2020) by *Transport, Tourism and Sport (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 351 of 2020), in operation as per art. 1(2).
+>
+> E25: Previous affecting provision: references to Department and title of Minister in subss. (1), (5) construed (2.05.2010) by *Arts, Sport and Tourism (Alteration of Name of Department and Title of Minister) Order 2010* (S.I. No. 178 of 2010), arts. 2-4, in operation as per art. 1(2); superseded by E-note above.
+
+### Chapter 7 Availability and prominence of public service programmes and services — Chapter 7 — Availability and prominence of public service programmes and services
+
+#### F222[128A. Interpretation.
+
+**128A**.— ...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F222: Inserted by *Online Safety and Media Regulation Act 2022* (41/2022), s. 40, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C14: Prospective affecting provision: section inserted by *Online Safety and Media Regulation Act 2022* (41/2022), s. 40, not commenced as of date of revision.
+>
+> F222[**128A**.— In this Chapter—
+>
+> “appropriate network” has the same meaning as it has in *section 77*;
+>
+> “interactive guide” means an interface, transmitted by means of an electronic communications network, by which a person can select a service or programme to view on a platform, appropriate network or satellite television service;
+>
+> “platform” means a service, transmitted by means of an electronic communications network and accessed by the use of an interactive guide, which re-transmits or makes available more than one audiovisual media service, including at least one audiovisual on-demand media service;
+>
+> “platform provider” means a person who provides a platform, whether or not the person is also the provider of an interactive guide to the platform;
+>
+> “public service audiovisual broadcasting service” means an audiovisual broadcasting service which—
+>
+> (*a*) is provided by a corporation or a subsidiary of a corporation,
+>
+> (*b*) is provided by the holder of a television programme service contract, under that contract, or
+>
+> (*c*) is designated under *section 128D*;
+>
+> “public service audiovisual on-demand media service” means an audiovisual on-demand media service which—
+>
+> (*a*) is provided by a corporation or a subsidiary of a corporation,
+>
+> (*b*) is provided by the holder of a television programme service contract, or
+>
+> (*c*) is designated under *section 128D*;
+>
+> “public service programme” means an audiovisual programme broadcast on a public service audiovisual broadcasting service or made available in a catalogue of a public service audiovisual on-demand media service;
+>
+> “public service provider” means the provider of a public service audiovisual broadcasting service or a public service audiovisual on‑demand media service;
+>
+> “satellite television service’” has the same meaning as it has in *section 77*.]
+
+#### 128B. Must-carry and must-offer obligations for platforms.
+
+F223[**128B**.— ...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F223: Inserted by *Online Safety and Media Regulation Act 2022* (41/2022), s. 40, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C15: Prospective affecting provision: section inserted by *Online Safety and Media Regulation Act 2022* (41/2022), s. 40, not commenced as of date of revision.
+>
+> F223[**128B**.— (1) A platform provider shall comply with a request—
+>
+> (*a*) by a public service provider that a particular public service audiovisual broadcasting service provided by the public service provider be re-transmitted on the platform provider’s platform, and
+>
+> (*b*) by a public service provider that a particular public service audiovisual on-demand media service provided by the public service provider be made available on the platform provider’s platform.
+>
+> (2) A public service provider shall ensure that any public service audiovisual broadcasting service or public service audiovisual on‑demand media service it provides is at all times offered to platform providers in such a way that it may be re-transmitted or made available on their platforms.
+>
+> (3) The obligations in *subsections (1)* and *(2)* shall not preclude the conclusion of an agreement between the public service provider and the platform provider in relation to—
+>
+> (*a*) the remuneration of the public service provider by the platform provider, or
+>
+> (*b*) fair, reasonable and non-discriminatory terms of use of the public service audiovisual broadcasting service or public service audiovisual on-demand media service.
+>
+> (4) If a dispute arises between a platform provider and a public service provider in relation to the remuneration of the public service provider—
+>
+> (*a*) the dispute shall be notified to the Commission by the public service provider or the platform provider,
+>
+> (*b*) the Commission shall take whatever steps it considers appropriate to encourage the use of mediation to resolve the dispute, and
+>
+> (*c*) if the dispute is not resolved within a reasonable period of time the Commission shall, at the request of either the platform provider or the public service provider and following a reasonable opportunity for each of them to make submissions, make a determination in relation to the dispute.
+>
+> (5) The Commission may make rules prescribing:
+>
+> (*a*) the ways in which a platform provider may re-transmit or make available on its platform the services referred to in *subsection (1)* for the purposes of complying with a request;
+>
+> (*b*) the ways in which a public service audiovisual broadcasting service may be transmitted or a public service audiovisual on-demand media service may be made available by a public service provider in order to ensure compliance with *subsection (2)*.
+>
+> (6) Where a platform is also an appropriate network or a satellite television service—
+>
+> (*a*) in respect of the re-transmission of broadcasting services, *section 77* shall apply to the platform notwithstanding this section and any rules made under it, and
+>
+> (*b*) in respect of the making available of audiovisual on-demand media services, this section and any rules made under it, in so far as they relate to such services, shall apply to the platform.
+>
+> (7) A failure to comply with *subsection (1)* or *(2)* shall be a contravention for the purposes of *Part 8B*.
+>
+> (8) In this section, “re-transmission” means the provision of near‑simultaneous, unaltered and unabridged transmission.]
+
+#### 128C. Prominence on interactive guides.
+
+F224[**128C**.— ...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F224: Inserted by *Online Safety and Media Regulation Act 2022* (41/2022), s. 40, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C16: Prospective affecting provision: section inserted by *Online Safety and Media Regulation Act 2022* (41/2022), s. 40, not commenced as of date of revision.
+>
+> F224[**128C**.— (1) The Commission may, subject to *subsection (3)*, make rules requiring providers of interactive guides to take steps to ensure the prominence on such guides of any of the following:
+>
+> (*a*) public service programmes, or categories of them;
+>
+> (*b*) public service audiovisual broadcasting services, or the schedules of such services;
+>
+> (*c*) public service audiovisual on-demand media services, or the catalogues of such services.
+>
+> (2) In preparing rules under *subsection (1)*, the Commission shall have regard to the following matters:
+>
+> (*a*) the need to promote access by the widest possible audience to the programmes and services referred to in *subsection (1)*;
+>
+> (*b*) the nature of providers of interactive guides, including the technical ability of providers and the number of users of guides;
+>
+> (*c*) the nature of public service providers, including the amount of public service programmes broadcast or made available by providers;
+>
+> (*d*) the rights of providers of interactive guides;
+>
+> (*e*) the rights of users of interactive guides, and their likely expectations as to the availability and prominence on such guides of the programmes and services referred to in *subsection (1)*, with particular regard to their rights and likely expectations regarding Irish language programmes and services;
+>
+> (*f*) contractual arrangements which may exist between public service providers and providers of interactive guides;
+>
+> (*g*) technological developments;
+>
+> (*h*) the proportionality of any requirement under the rules, in light of the matters referred to in *paragraphs (b)*, *(c)*, *(d)* and *(e)*.
+>
+> (3) The Commission may make rules under *subsection (1)(a)* only if it appears to the Commission that the programmes concerned—
+>
+> (*a*) relate to Irish culture, history, heritage, society, sport, language, or other matters of interest to the people of the island of Ireland,
+>
+> (*b*) contain impartial and independent journalism,
+>
+> (*c*) relate to an event or issue of major importance to the people of the island of Ireland, and to people of Irish ancestry living abroad,
+>
+> (*d*) relate to environmental sustainability and climate change,
+>
+> (*e*) relate to human rights, including equality, diversity and inclusion, or
+>
+> (*f*) relate to science or education.
+>
+> (4) Rules under *subsection (1)* may require that different steps be taken—
+>
+> (*a*) by different types of providers, or
+>
+> (*b*) in relation to different types of guides.
+>
+> (5) A failure to comply with any rules made under *subsection (1)* shall be a contravention for the purposes of *Part 8B*.]
+
+#### 128D. Designation of public service audiovisual broadcasting or on-demand media services.
+
+F225[**128D**.— ...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F225: Inserted by *Online Safety and Media Regulation Act 2022* (41/2022), s. 40, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C17: Prospective affecting provision: section inserted by *Online Safety and Media Regulation Act 2022* (41/2022), s. 40, not commenced as of date of revision.
+>
+> F225[**128D**.— (1) Subject to *subsection (2)*, if the Commission recommends to the Minister—
+>
+> (*a*) that a specified audiovisual broadcasting service provided by a media service provider under the jurisdiction of the State be designated as a public service audiovisual broadcasting service for the purposes of *section 128B* or *128C*, or
+>
+> (*b*) that a specified audiovisual on-demand media service provided by a media service provider under the jurisdiction of the State be designated as a public service audiovisual on-demand media service for the purposes of *section 128B* or *128C*,
+>
+> the Minister may make an order designating the service accordingly.
+>
+> (2) The Commission shall not make a recommendation under *subsection (1)*, and the Minister shall not make an order under that subsection, unless satisfied that the service has the character of a public service.]
+
+#### 128E. Consultation and laying.
+
+F226[**128E**.— ...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F226: Inserted by *Online Safety and Media Regulation Act 2022* (41/2022), s. 40, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C18: Prospective affecting provision: section inserted by *Online Safety and Media Regulation Act 2022* (41/2022), s. 40, not commenced as of date of revision.
+>
+> F226[**128E**.— (1) In making rules under *section 128B(5)* or *128C(1)*, or a recommendation under *section 128D(1)*, the Commission may consult with such persons as it sees fit.
+>
+> (2) Any rule made under *section 128B(5)* or *128C(1)* shall be laid by the Commission, and any order made under *section 128D(1)* shall be laid by the Minister, before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the rule or order is passed by either such House within the next 21 days on which that House sits after the rule or order is laid before it, the rule or order shall be annulled accordingly, but without prejudice to the validity of anything previously done under it.]
+
+## PART 8 Digital Broadcasting and Analogue Switch-Off — PART 8 — Digital Broadcasting and Analogue Switch-Off
+
+### 129. Definitions (Part 8).
+
+**129**.— In this Part—
+
+“Acts of 1926 to 2009” means *Wireless Telegraphy Acts 1926 to 2009*;
+
+F227[“listed simulcast service” means a sound broadcasting service designated as a listed simulcast service under *section 134(7)(b)*;]
+
+“multiplex” means an electronic system which combines programme material and related and other data in a digital form and the transmission of that material and data so combined by means of wireless telegraphy directly or indirectly for reception by the general public;
+
+“multiplex licence” means a licence under *section 132(1)* or *(2)*, *section 133(1)* or *(2)*, or a television or sound broadcasting multiplex licence;
+
+“sound broadcasting multiplex” means a multiplex in which the programme material is predominantly sound;
+
+“sound broadcasting multiplex licence” means a licence issued for the purposes of *subsection (3), (4)* or *(5)* of *section 133*;
+
+“television multiplex” means a multiplex in which the programme material is predominantly television;
+
+“television multiplex licence” means a licence issued for the purposes of *subsection (3)* or *(4)* of F228[*section 132*.]
+
+F229[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F227: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 41(a), S.I. No. 71 of 2023.
+>
+> F228: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 41(b), S.I. No. 71 of 2023.
+>
+> F229: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 41(c), S.I. No. 71 of 2023.
+
+### 130. Additional functions of RTÉ.
+
+**130**.— (1) (*a*) A national television multiplex established, maintained and operated by RTÉ under *section 114 (1) (i)* shall provide for the broadcasting by digital means of—
+
+(i) the national television broadcasting service commonly known as RTÉ One and RTÉ Two,
+
+(ii) TG4,
+
+(iii) where required by the Minister—
+
+(I) The Houses of the Oireachtas Channel, and
+
+(II) The Irish Film Channel,
+
+(iv) such other television services, having the character of a public service, as may be designated by the Minister by order, and
+
+(v) where required by RTÉ or where required by the Minister, after consultation with the Authority, transmissions of data necessary to ensure the proper maintenance and functioning and updating of receiving equipment required for reception and viewing of services referred to in this paragraph and the multiplexes referred to in *section 132 (3)* and *(4)*.
+
+(*b*) RTÉ shall—
+
+(i) ensure that the national television multiplex referred to in *paragraph (a)* is established as a matter of priority, and—
+
+(I) on such date as may be specified by the Minister by order, is operational and available free-to-air to approximately 90 per cent of the population, and
+
+(II) by 31 December 2011, or such later date as may be specified by the Minister by order, is operational, available free-to-air and capable of providing coverage to the same extent as is, on the passing of this Act, available by free-to-air analogue means,
+
+and
+
+(ii) at the request of the Minister, report to the Minister on its progress in relation to the activities set out in *subparagraph (i)*.
+
+(*c*) RTÉ shall take steps to promote the availability of equipment capable of receiving, identifying, decoding and displaying a national television multiplex operated by RTÉ under *section 114 (1) (i)*.
+
+(*d*) Nothing in this subsection precludes RTÉ from making provision in a multiplex established, maintained and operated by RTÉ under *section 114 (1) (i)* for the broadcasting by digital means of programme material and related and other data other than that broadcast as part of a service specified in *paragraph (a)*.
+
+(*e*) Without prejudice to the requirements of this section, RTÉ may, with the consent of the Minister, the Minister having consulted with the Authority, in respect of the use of spare capacity on a multiplex established, maintained and operated by RTÉ under *section 114 (1) (i)*, broadcast programme material in pursuance of its exploitation of commercial opportunities object.
+
+(2) TG4 shall make to RTÉ such periodic or other payments in respect of any service provided by RTÉ for the purposes set out in *subsection (1) (a)* of broadcasting by digital means TG4 as the Minister, after consultation with the Communications Regulator, RTÉ and TG4, may direct.
+
+(3) In the event that TG4 does not consider the digital capacity employed by RTÉ for the purposes set out in *subsection (1) (a)* of broadcasting by digital means TG4 to be adequate, the Minister may, at the request of TG4, direct RTÉ to employ a specific amount of digital capacity.
+
+(4) The Commission of the Houses of the Oireachtas shall make to RTÉ such periodic or other payments in respect of any service provided by RTÉ for the purposes set out in *subsection (1) (a)* of broadcasting by digital means the Houses of the Oireachtas Channel as the Minister, after consultation with the Communications Regulator, RTÉ and the Commission of the Houses of the Oireachtas, may direct.
+
+(5) In the event that the Commission of the Houses of the Oireachtas does not consider the digital capacity employed by RTÉ for the purposes set out in *subsection (1) (a)* of broadcasting by digital means the Houses of the Oireachtas Channel to be adequate, the Minister may, at the request of the Commission of the Houses of the Oireachtas, direct RTÉ to employ a specific amount of digital capacity.
+
+(6) The Irish Film Board shall make to RTÉ such periodic or other payments in respect of any service provided by RTÉ for the purposes set out in *subsection (1) (a)* of broadcasting by digital means the Irish Film Channel as the Minister, after consultation with the Communications Regulator, RTÉ and the Irish Film Board, may direct.
+
+(7) In the event that the Irish Film Board does not consider the digital capacity employed by RTÉ for the purposes set out in *subsection (1) (a)* of broadcasting by digital means the Irish Film Channel to be adequate, the Minister may, at the request of the Irish Film Board, direct RTÉ to employ a specific amount of digital capacity.
+
+(8) A provider of a television service designated by the Minister under *subsection (1) (a) (iv)* shall make to RTÉ such periodic or other payments in respect of any service provided by RTÉ for the purposes of *subsection (1) (a) (iv)* as the Minister, after consultation with the Communications Regulator, RTÉ and the provider of the television service, may direct.
+
+(9) In the event that a provider of a television service under *subsection (1) (a) (iv)* does not consider the digital capacity employed by RTÉ for the purposes set out in *subsection (1) (a) (iv)* to be adequate, the Minister may, at the request of the provider, direct RTÉ to employ a specific amount of digital capacity.
+
+(10) The Minister shall, at the request of the Authority and after consultation with RTÉ require RTÉ to make provision in a multiplex established, maintained and operated by RTÉ under *section 114 (1) (i)* for the broadcasting by digital means of the television programme service provided under the television programme service contract by the television programme service contractor.
+
+(11) If the Minister makes a requirement of RTÉ under *subsection (10)*, the television programme service contractor shall make to RTÉ such periodic or other payments in respect of any service provided by RTÉ in meeting that requirement as the Minister, after consultation with the Communications Regulator, RTÉ and the television programme service contractor, may direct.
+
+(12) If the Minister makes a requirement of RTÉ under *subsection (10)* and in the event that the television programme service contractor does not consider the digital capacity employed by RTÉ for the purposes of broadcasting by digital means the television programme service to be adequate, the Minister may, at the request of the television programme service contractor and after consultation with the Authority, direct RTÉ to employ a specific amount of digital capacity.
+
+(13) A national sound multiplex established, maintained and operated by RTÉ under *section 114 (1) (i)* shall provide for the broadcasting by digital means of such other sound broadcasting services, having the character of a public service, as may be designated by the Minister by order.
+
+(14) A provider of a sound broadcasting service designated by the Minister under *subsection (13)* shall make to RTÉ such periodic or other payments in respect of any service provided by RTÉ for the purposes of *subsection (13)* as the Minister, after consultation with the Communications Regulator, RTÉ and the provider of the sound broadcasting service, may direct.
+
+(15) (*a*) An order made under this section shall be laid before each House of the Oireachtas as soon as practicable after it is made.
+
+(*b*) Either House of the Oireachtas may, within 21 sitting days after the day on which an order was laid before it in accordance with *paragraph (a)*, pass a resolution annulling the order.
+
+(*c*) The annulment under *paragraph (b)* of an order takes effect immediately on the passing of the resolution concerned, but does not affect anything that was done under the order before the passing of the resolution.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E26: Power pursuant to subs. (1)(a)(iv) exercised (23.06.2016) by *Broadcasting Act 2009 (Section 130 (1)(a)(iv) Designation) Order 2016* (S.I. No. 328 of 2016).
+>
+> E27: Power pursuant to subs. (1)(a)(iv) exercised (1.12.2014) by *Broadcasting Act 2009 (Section 130(1)(a)(iv) Designation) Order 2014* (S.I. No. 542 of 2014).
+>
+> E28: Additional functions conferred on Broadcasting Authority in relation to section (10.02.2011) by *Broadcasting Act 2009 (Section 26(5)) (Conferral of Additional Functions - Broadcasting Services) Order 2011* (S.I. No. 67 of 2011), art. 3.
+>
+> E29: Power pursuant to subs. (1)(b)(i)(I) exercised (26.02.2010) by *RTÉ (National Television Multiplex) Order 2010* (S.I. No. 85 of 2010).
+>
+> 2\. The date specified as the date on which the national television multiplex is required to be operational and available free-to-air to approximately 90 per cent of the population is 31 October 2010.
+
+### 131. Additional functions of Authority.
+
+**131**.— (1) It is the function of the Authority to arrange, in accordance with this Part, for the establishment, maintenance and operation of multiplexes, including national multiplexes, in addition to any multiplexes established, maintained and operated by RTÉ under *section 114 (1) (i)*.
+
+(2) For the purpose of *subsection (1)* the Authority shall, with persons (“multiplex contractors”) enter into contracts (“multiplex contracts”) under which the multiplex contractors have, subject to this Part, the right and duty to establish, maintain and operate a multiplex in the area specified in the multiplex contract and in accordance with the terms of the contract.
+
+(3) It is a duty of the Compliance Committee to ensure that every multiplex contractor complies with this Part.
+
+(4) It is a duty of the Authority to endeavour to arrange, as a matter of priority, for the establishment, maintenance and operation of 3 national television multiplexes, which multiplexes, in so far as it is reasonably practicable, shall be capable of being transmitted by digital terrestrial means to the whole community in the State.
+
+(5) The Authority has all such powers as are necessary for or incidental to the performance of its functions under this Part including, in particular, the power to consult with the Communications Regulator as it sees fit.
+
+### 132. Duty of Communications Regulator in respect of digital terrestrial television multiplexes.
+
+**132**.— (1) The Communications Regulator, at the request of RTÉ, shall issue to RTÉ a licence in respect of the establishment, maintenance and operation of a single television multiplex, which multiplex shall, in so far as it is reasonably practicable, be capable of being transmitted by digital terrestrial means to the whole community in the State.
+
+(2) The Communications Regulator, at the request of RTÉ and after consultation with the Minister and with the Authority regarding the digital capacity requirements of TG4, the television programme service contractor, the Houses of the Oireachtas Channel, the Irish Film Channel, and any television service designated under *section 130(1)(a)(iv)*, shall issue to RTÉ a licence in respect of the establishment, maintenance and operation of one further television multiplex, which multiplex shall, in so far as it is reasonably practicable, be capable of being transmitted by digital terrestrial means to the whole community in the State.
+
+(3) The Communications Regulator, at the request of the Authority, shall issue to the Authority under the *Acts of 1926 to 2009*, subject to this Part, television multiplex licences in respect of the establishment, maintenance and operation of 4 television multiplexes, which multiplexes shall, in so far as it is reasonably practicable, be capable of being transmitted by digital terrestrial means to the whole community in the State, in accordance with contracts to be entered into by the Authority under *section 136 (2)*.
+
+(4) The Communications Regulator shall consult with the Authority regarding the desirability of it issuing to the Authority under the *Acts of 1926 to 2009*, subject to this Part, further television multiplex licences in respect of the establishment, maintenance and operation of additional television multiplexes, which multiplexes shall, in so far as it is reasonably practicable, be capable of being transmitted by digital terrestrial means to the whole community in the State, in accordance with additional contracts entered into by the Authority under *section 136 (2)*.
+
+(5) Nothing in this section shall be read as preventing the Communications Regulator, following consultation with the Minister and with the Authority, from issuing under the *Acts of 1926 to 2009*, other licences authorising the combination, by means of a multiplex other than a multiplex to which *subsections (1)*, *(2)* or *(3)* relate, of programme material and related and other data in a digital form, subject to such conditions as the Authority may consider necessary to impose in a contract entered into under *section 71*.
+
+### 133. Duty of Communications Regulator in respect of digital terrestrial sound broadcasting multiplexes.
+
+**133**.— (1) The Communications Regulator, at the request of RTÉ, shall issue to RTÉ a licence in respect of the establishment, maintenance and operation of a single sound broadcasting multiplex, which multiplex shall, in so far as it is reasonably practicable, be capable of being transmitted by digital terrestrial means to the whole community in the State.
+
+(2) The Communications Regulator, at the request of RTÉ and after consultation with the Minister and the Authority, shall issue to RTÉ a licence in respect of the establishment, maintenance and operation of one further sound broadcasting multiplex, which multiplex shall, in so far as it is reasonably practicable, be capable of being transmitted by digital terrestrial means to the whole community in the State.
+
+(3) The Communications Regulator, at the request of the Authority, shall issue to the Authority under the *Acts of 1926 to 2009*, subject to this Part, a sound broadcasting multiplex licence in respect of the establishment, maintenance and operation of one sound broadcasting multiplex, which multiplex shall, in so far as it is reasonably practicable, be capable of being transmitted by digital terrestrial means to the whole community in the State, in accordance with contracts to be entered into by the Authority under *section 136 (2)*.
+
+(4) The Communications Regulator, at the request of the Authority, shall issue to the Authority under the *Acts of 1926 to 2009*, subject to this Part, sound broadcasting multiplex licences in respect of the establishment, maintenance and operation of one or more sound broadcasting multiplexes, which multiplexes shall, in so far as it is reasonably practicable, be capable of being transmitted by digital terrestrial means to the whole community in an area of the State specified by the Authority, which area may consist of the whole or any part of the State, in accordance with contracts to be entered into by the Authority under *section 136 (2)*.
+
+(5) The Communications Regulator shall consult with the Authority regarding the desirability of it issuing to the Authority under the *Acts of 1926 to 2009*, subject to the provisions of this Part, further licences in respect of the establishment, maintenance and operation of additional sound broadcasting multiplexes, which multiplexes shall, in so far as it is reasonably practicable, be capable of being transmitted by digital terrestrial means to the whole community in an area of the State specified by the Authority, which area may consist of the whole or any part of the State, in accordance with additional contracts to be entered into by the Authority under *section 136 (2)*.
+
+(6) Nothing in this section shall be read as preventing the Communications Regulator, following consultation with the Minister and with the Authority, from issuing under the *Acts of 1926 to 2009*, other licences authorising the combination, by means of a multiplex other than a multiplex to which *subsections (1)*, *(2)*, *(3)* or *(4)* relate, of programme material and related and other data in a digital form, subject to such conditions as the Authority may consider necessary to impose in a contract entered into under *section 71*.
+
+### 134. Amendment of sound broadcasting contracts for listed simulcast services.
+
+**134**. F230[(1) Where the Commission invites applications for a sound broadcasting multiplex contract under *section 136*, it may—
+
+(*a*) identify as “relevant incumbents” sound broadcasting contractors who, under sound broadcasting contracts have the right and duty to establish, maintain and operate sound broadcasting transmitters in part or all of the coverage area (specified under *section 136(3)*) to which the contract relates, and
+
+(*b*) offer to any relevant incumbents it considers appropriate an amendment to its relevant sound broadcasting contract (“a simulcasting amendment”) for the purpose of ensuring simulcasts of sound broadcasting contract services on sound broadcasting multiplexes.
+
+(2) In identifying relevant incumbents the Commission may use whatever procedures it considers necessary, including consultation with the Communications Regulator.
+
+(3) A relevant incumbent shall have 60 days in which to accept in full or reject in full the offer of a simulcasting amendment.]
+
+(4) F231[...]
+
+(5) F231[...]
+
+(6) F231[...]
+
+(7) A simulcasting amendment may contain such terms and conditions as the Authority thinks appropriate and shall contain the following terms and conditions:
+
+(*a*) an increase in the period during which the existing sound broadcasting contract shall continue in force,
+
+(*b*) a designation of the sound broadcasting contractor’s sound broadcasting service as a “listed simulcast service” for the purpose of this Part,
+
+(*c*) a requirement on the sound broadcasting contractor to provide its sound broadcasting service so that it may be provided as part of a digital sound broadcasting multiplex under this Part, and
+
+(*d*) a requirement to enter into any such subsequent agreements with sound broadcasting multiplex contractors which the Authority may specify, including agreements in relation to the payment of appropriate fees in relation to the costs of establishing, maintaining and operating a multiplex to the sound broadcasting multiplex contractor or contractors.
+
+(8) The increase in the period during which an existing sound broadcasting contract continues in force under *subsection (7)(a)* shall be not more than 6 years.
+
+(9) Where a relevant incumbent fails to meet its obligations under *subsection (7) (c)* or *(d)*, the simulcasting amendment to its sound broadcasting contract will be considered to be null and void.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F230: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 42, S.I. No. 71 of 2023.
+>
+> F231: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 42, S.I. No. 71 of 2023.
+
+### 135. Regulations prescribing fees.
+
+**135**.— (1) Every multiplex licence shall be issued on payment of such fees (if any) as may be prescribed in regulations by the Communications Regulator, with the consent of the Minister.
+
+(2) Regulations made under this section may prescribe in relation to all such licences or any particular class or classes of such licences—
+
+(*a*) the fees to be paid on the grant or renewal of such licences, and
+
+(*b*) the time and manner at and in which such fees are to be paid.
+
+(3) (*a*) Every regulation made under this section shall be laid before each House of the Oireachtas by the Communications Regulator as soon as may be after it is made.
+
+(*b*) Either House of the Oireachtas may, by resolution passed within 21 sitting days after the day on which a regulation was laid before it in accordance with *paragraph (a)*, annul the regulation.
+
+(*c*) The annulment under *paragraph (b)* of a regulation takes effect immediately on the passing of the resolution concerned but does not affect anything that was done under the regulation before the passing of the resolution.
+
+### 136. Applications for multiplex contracts.
+
+**136**.— (1) In order to secure the orderly establishment, maintenance and operation of multiplexes the Authority shall from time to time having regard to the availability of radio frequencies for multiplexes, specify the coverage area (which area may consist of F232[the whole] or any part of the State) in which programme material and related and other data shall be broadcast pursuant to a multiplex contract and F233[shall invite] applications for a multiplex contract F234[...].
+
+F235[(2) Subject to this Part, the Commission may enter into a multiplex contract with a person who makes an application for such a contract in accordance with this section.]
+
+(3) Where the Contract Awards Committee invites applications for a multiplex contract it shall by public notice specify the coverage area (specified by the Authority under *subsection (1)*) in which the programme material and related and other data shall be broadcast pursuant to such contract (in this section referred to as “maximum coverage area”) and by such notice shall invite persons interested in establishing and maintaining a multiplex to apply for such contract.
+
+(4) Every notice under *subsection (3)* shall—
+
+(*a*) be published on a website maintained by the Authority, and where appropriate, in a newspaper circulating in the area to be served,
+
+(*b*) specify the procedure to be followed in order to make an application, and
+
+(*c*) specify any other matters which appear to the Contract Awards Committee to be necessary or relevant.
+
+(5) The Contract Awards Committee may, in a notice under *subsection (3)*, specify the minimum coverage area in which the programme material and related and other data shall be broadcast under the contract, which coverage area may be less than that of the maximum coverage area specified in the notice.
+
+(6) Notwithstanding *subsection (3)*, where a minimum coverage area is specified in a notice under that subsection the coverage area in which the programme material and related and other data shall be broadcast pursuant to any contract entered into on foot of such notice shall be the minimum coverage area so specified, subject to the requirement that every effort is made by the person to whom the contract is awarded to ensure that the programme material and related and other data is broadcast in as much of the maximum coverage area as is practicable.
+
+(7) Where the F236[Commission invites] applications for sound broadcasting multiplex contracts under *subsection (1)*, the Contract Awards Committee shall, as part of the notice, indicate whether any listed simulcast services shall be contained on the multiplex.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F232, F233: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 43(a)(i), (ii), S.I. No. 71 of 2023.
+>
+> F234: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 43(a)(iii), S.I. No. 71 of 2023.
+>
+> F235: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 43(b), S.I. No. 71 of 2023.
+>
+> F236: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 43(c), S.I. No. 71 of 2023.
+
+### 137. Determination of applications for award of multiplex contracts.
+
+**137**.— (1) The Contract Awards Committee shall, in accordance with this Part, consider every application for a multiplex contract received by it pursuant to a notice under *section 136* for the purpose of determining the most suitable applicant, if any, to be awarded a multiplex contract.
+
+(2) In the consideration of applications received by it and in determining the most suitable applicant to be awarded a multiplex contract, the Contract Awards Committee shall have regard to—
+
+(*a*) the character, expertise and experience of the applicant or, if the applicant is a body corporate, the character, expertise and experience of the body and its directors, manager, secretary or other similar officer and its members and the persons entitled to the beneficial ownership of its shares,
+
+(*b*) the adequacy of the financial resources that will be available to each applicant and the extent to which the application accords with good business and economic principles,
+
+(*c*) the range and type of programme material or compilations of programme material proposed to be included in the multiplex by the applicant and how the applicant proposes to secure continued inclusion of such material,
+
+(*d*) in the case of a television multiplex, the proposals by the applicant for promoting the acquisition by persons in the proposed coverage area of equipment capable of—
+
+(i) receiving, identifying and, subject to the viewer gaining any necessary entitlements for non free-to-air services, decoding and displaying all of the television multiplexes available or expected to be available in that area, including the national television multiplex referred to in *section 130 (1) (a)*, and
+
+(ii) enabling such persons to keep themselves informed of the choice of programme material included in those multiplexes,
+
+(*e*) the extent of the coverage area proposed to be achieved by the applicant,
+
+(*f*) the technical proposal, including a timetable for implementation, regarding the establishment, maintenance and operation of the proposed multiplex,
+
+(*g*) in the case of a sound broadcasting multiplex, the proposals by the applicant for facilitating the inclusion of any listed simulcast services and promoting such services,
+
+(*h*) any other matters which the Contract Awards Committee considers to be necessary to secure the orderly establishment, maintenance and operation of multiplexes, and
+
+(*i*) the desirability of allowing any person, or groups of persons, to have control of, or a substantial interest in, an undue amount of communications media in the area specified in the notice under *section 136 (3)*.
+
+### 138. Terms and conditions of multiplex contracts.
+
+**138**.— (1) Every multiplex contract may contain such terms and conditions as the Authority considers appropriate and specifies in the contract.
+
+(2) Without prejudice to the generality of *subsection (1)*, the Authority—
+
+(*a*) may specify in a multiplex contract all or any of the following terms or conditions:
+
+(i) in the case of a sound broadcasting multiplex contractor, a condition requiring the multiplex contractor to implement any proposals made in his or her application for facilitating the inclusion of any listed simulcast services and promoting such services;
+
+(ii) the period during which the contract shall continue in force;
+
+(iii) whether the contract may be renewed and, if so, the manner in which, the terms on which, and the period for which, the contract may be so renewed;
+
+(iv) a condition prohibiting the assignment of the contract or of any interest therein without the prior consent of the Authority; and
+
+(v) if the multiplex contractor is a company, a condition prohibiting any alteration in the Memorandum or Articles of Association of the company or in so much of that Memorandum or of those Articles as may be specified or prohibiting any material change in the ownership of the company without the prior approval of the Authority;
+
+and
+
+(*b*) may specify in such a contract the following conditions:
+
+(i) a condition requiring the multiplex contractor to provide the range and type of programmes which he or she proposed to offer in his or her application for the award of the contract;
+
+(ii) a condition requiring the multiplex contractor to implement any proposals made in his or her application for the coverage area of the multiplex or multiplexes;
+
+(iii) a condition requiring the multiplex contractor to implement the proposals made in his or her application for the award of the contract for promoting the acquisition, by persons in the proposed coverage area of the multiplex, of equipment capable of receiving, identifying and, subject to the viewer gaining any necessary entitlements for non free-to-air services, decoding and displaying all of the multiplexes available in that area; and
+
+(iv) following consultation with the Communications Regulator, any condition requiring the multiplex contractor to comply with any technical condition as the Communications Regulator may require in the exercise of its functions.
+
+(3) If a multiplex contract does not contain a condition of the type specified in *subparagraph (iv)* or *(v)* of *subsection (2) (a)*, the following provisions shall have effect:
+
+(*a*) the multiplex contract, or any interest in it, shall not be assignable, nor shall any alteration be made in the Memorandum or Articles of Association of a company which is a multiplex contractor, nor shall there be any material change in the ownership of such a company, without the previous consent in writing of the Authority, and the Authority may, if it considers it reasonable so to do, refuse such consent stating the grounds for such refusal; and
+
+(*b*) in considering whether to grant its consent to an assignment of a multiplex contract, a change in the Memorandum or Articles of Association of the company which is the multiplex contractor, or a material change in the ownership of such a company, the Authority shall have regard to the criteria specified in *section 137 (2)*.
+
+(4) Every multiplex contract shall—
+
+(*a*) provide that a multiplex contractor shall pay to the Authority the fees (if any) specified in it, including any fees payable by the Authority to the Communications Regulator under *section 135*, and
+
+(*b*) provide that the multiplex contractor shall provide such information (including copies of his or her accounts) as F237[the Commission] may consider it requires in order to enable it carry out its functions under this Part.
+
+(5) Every multiplex contract shall be open to inspection by members of the public at the Authority’s F238[...] office and the Authority shall, on request made by any person and on payment of such sum (if any) as the Authority may reasonably require, give to that person a copy of that contract.
+
+(6) The Authority shall, if it considers it appropriate in the context of the interests of the viewer of multiplex services and in the context of satisfactory and orderly operation of multiplexes by multiplex contractors, through further multiplex contract conditions, ensure that each television multiplex contractor operates multiplexes, and any associated services, for which they have entered into multiplex contracts in relation to multiplexes referred to in *section 132 (3)* and *(4)*—
+
+(*a*) in a manner which does not prevent the availing by persons in any area of a single set of receiving equipment that receives all television multiplexes in the area on that one set of receiving equipment, and
+
+(*b*) in a manner whereby one set of equipment is capable of supporting encryption systems for all multiplexes that may be encrypted but available in the area.
+
+(7) The Authority may specify in each multiplex contract conditions related to *subsection (6)*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F237: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 44(a), S.I. No. 71 of 2023.
+>
+> F238: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 44(b), S.I. No. 71 of 2023.
+
+### 139. Analogue switch-off.
+
+**139**.— (1) For the purpose of considering for how long it would be appropriate for television broadcasting services to continue to be provided by analogue means, the Minister—
+
+(*a*) shall keep under review *inter alia* the extent of—
+
+(i) the availability of multiplexes in the State,
+
+(ii) the availability in the State by digital means of the services specified in *subsection (2)*,
+
+(iii) the ownership or possession in the State of equipment capable of receiving the services specified in *subsection (2)* when transmitted by digital means, and
+
+(iv) the likely future extent of such availability and such ownership or possession,
+
+and
+
+(*b*) shall, at such time or times as he or she considers fit and, in any case, every 6 months from the passing of this Act until 31 December 2012, require the Authority and RTÉ to report to him or her on the matters referred to in *paragraph (a)*.
+
+(2) The services specified for the purposes of *subparagraphs (ii)* and *(iii)* of *subsection (1) (a)* are—
+
+(*a*) the national television broadcasting service commonly known as RTÉ One and RTÉ Two established and maintained by RTÉ,
+
+(*b*) the national television broadcasting service established and maintained by TG4 under *section 118 (1) (a)*, and
+
+(*c*) the television programme service provided under the television programme service contract by the television programme service contractor.
+
+(3) For the purpose mentioned in *subsection (1)*, the Minister shall, on requiring reports under *subsection (1) (b)*, consult with—
+
+(*a*) such persons as appear to the Minister to represent viewers as the Minister considers fit, and
+
+(*b*) such other persons as the Minister considers fit,
+
+regarding the matters referred to in *subsection (1) (a)* and also, if the Minister considers fit, regarding the likely effects on viewers of any of the services referred to in *subsection (2)* ceasing to be broadcast by analogue means.
+
+(4) The Minister may, at any stage or following consideration of a report under *subsection (1) (b)*, issue a policy direction under section 13 of the Communications Regulation Act 2002 regarding the date or dates with effect from which the Communications Regulator shall revoke licences granted under *section 121* or *section 59* in respect of the provision of any of the services referred to in *subsection (2)* by analogue means.
+
+(5) The Communications Regulator shall, on the passing of this Act, and as necessary under *section 60 (1)* vary a term or condition of a licence issued under *section 59* to ensure that any contract for the provision by analogue means of a service referred to in *subsection (2) (c)* that is at any stage entered into by the Authority shall contain a condition that, after a date or dates regarding which the Minister may issue a policy direction as set out in *subsection (4)*, the service may no longer be provided by analogue means.
+
+(6) RTÉ shall take steps to ensure that all viewers of services referred to in *paragraphs (a)* and *(b)* of *subsection (2)* provided by analogue means are made aware, of the analogue switch-off date or dates, the reasons for it or them, the consequences, and practical information on how such viewers can receive such services by digital means after that date or those dates.
+
+(7) The Authority shall from 1 July 2009 until the analogue switch-off date or dates provide information to the public in respect of the reception of television services by means of a multiplex and the reception equipment necessary to receive such television services.
+
+(8) In fulfilling its obligations under *subsection (7)* the Authority may consult with multiplex contractors, public service broadcasters, the television programme service contractor and the manufacturers and retailers of such reception equipment.
+
+(9) The Minister, for the purpose of ensuring a smooth and efficient interchange between the provision of analogue and digital television services in the context of analogue switch-off, shall have the power by himself or herself, or in conjunction with any other person, to—
+
+(*a*) promote cooperation and coordination between broadcasters, multiplex contractors and other interested parties in relation to analogue switch-off,
+
+(*b*) commission research on matters relating to analogue switch-off,
+
+(*c*) promote public awareness and the dissemination of coordinated information to the public in relation to analogue switch-off, and
+
+(*d*) operate, manage or sponsor, whether in whole or in part, measures aimed at alleviating the effects of analogue switch-off on classes of communities or persons adversely affected.
+
+(10) The Minister has all such incidental, supplemental, ancillary and consequential powers as are necessary or expedient for the purpose of the exercise by him or her of the above powers.
+
+(11) The Minister may, after consultation with the Authority, the Communications Regulator, RTÉ and such other persons (if any) as he or she considers appropriate, by order—
+
+(*a*) confer on the Authority, the Communications Regulator or RTÉ such additional functions connected with preparation for analogue switch-off, as the Minister considers appropriate, subject to the conditions (if any) that may be specified in the order, and
+
+(*b*) make such provision as he or she considers necessary or expedient in relation to matters ancillary to or arising out of the conferral of those additional functions.
+
+(12) (*a*) An order made under *subsection (11)* shall be laid before each House of the Oireachtas as soon as practicable after it is made.
+
+(*b*) Either House of the Oireachtas may, within 21 sitting days after the day on which an order was laid before it in accordance with *paragraph (a)*, pass a resolution annulling the order.
+
+(*c*) The annulment under *paragraph (b)* of an order takes effect immediately on the passing of the resolution concerned, but does not affect anything that was done under the order before the passing of the resolution.
+
+(13) In *subsection (6)* “analogue switch-off date or dates” means the date or dates with effect from which the Communications Regulator shall revoke any licences specified in *subsection (4)*.
+
+## PART 8A — Online safety
+
+### F239[Chapter 1 — Interpretation: harmful online content and age-inappropriate online content
+
+#### 139A. Harmful online content.
+
+**139A**.— (1) For the purposes of this Act, online content is “harmful online content” if it is one of the following 2 kinds:
+
+(*a*) content that falls within one of the offence-specific categories of online content defined in *subsection (2)*;
+
+(*b*) content that—
+
+(i) falls within one of the other categories of online content defined in *subsection (3)*, and
+
+(ii) meets the risk test defined in *subsection (4)*.
+
+(2) The offence-specific categories of online content are—
+
+(*a*) the categories listed in *Schedule 3*, and
+
+(*b*) any category specified for the purposes of this paragraph by order under *section 139B*.
+
+(3) The other categories of online content are:
+
+(*a*) online content by which a person bullies or humiliates another person;
+
+(*b*) online content by which a person promotes or encourages behaviour that characterises a feeding or eating disorder;
+
+(*c*) online content by which a person promotes or encourages self-harm or suicide;
+
+(*d*) online content by which a person makes available knowledge of methods of self-harm or suicide;
+
+(*e*) any category specified for the purposes of this paragraph by order under *section 139B*.
+
+(4) Online content meets the risk test for the purposes of *subsection (1)(b)(ii)* if it gives rise to—
+
+(*a*) any risk to a person’s life, or
+
+(*b*) a risk of significant harm to a person’s physical or mental health, where the harm is reasonably foreseeable.
+
+(5) For the purposes of this Act, any question whether particular online content falls within a category under this section shall be determined on the balance of probabilities.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F239: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+#### 139B. Power to specify other harmful online content.
+
+F240[**139B**.— (1) If the Commission makes a proposal to the Minister that a category of online content should be specified for the purposes of *section 139A(2)(b)* or *(3)(e)*, the Minister may make an order giving effect to the proposal.
+
+(2) *Section 139C* sets out the procedure for proposals and orders under *subsection (1)*.
+
+(3) A proposal under *subsection (1)* that a category of online content should be specified for the purposes of *section 139A(2)(b)*, and an order giving effect to such a proposal, may be made only if—
+
+(*a*) it is a category of content by which a person does a thing contrary to an enactment specified in the proposal, and
+
+(*b*) the thing done is an offence under that enactment.
+
+(4) The Commission may make a proposal under *subsection (1)* only if satisfied—
+
+(*a*) that giving effect to the proposal will enable the Commission to take action against significant risks posed by the content within the proposed category,
+
+(*b*) that those risks are not sufficiently addressed by available means (including means available to other regulators, providers of relevant online services, or others), and
+
+(*c*) that, having regard to the protection of children, to the protection of the public generally, and to all other relevant considerations, it is in the public interest to give effect to the proposal.
+
+(5) In deciding whether to make a proposal under *subsection (1)*, the Commission shall have regard in particular to—
+
+(*a*) levels of availability of any online content on relevant online services,
+
+(*b*) levels of risk of exposure to any online content when using relevant online services,
+
+(*c*) levels of risk of harm, and in particular harm to children, from the availability of content or exposure to it,
+
+(*d*) changes in the nature of online content and in levels of availability and risk referred to in *paragraphs (a) to (c)*,
+
+(*e*) the impact of automated decision-making in relation to content delivery and content moderation by relevant online services, and
+
+(*f*) the rights of providers of designated online services and of users of those services.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F240: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+#### 139C. Procedure for proposals and orders under section 139B.
+
+F241[**139C**.— (1) The Commission may make a proposal under *section 139B(1)* only if—
+
+(*a*) the Commission has published a draft of the proposal in a way that it thinks appropriate to bring it to the attention of members of the public,
+
+(*b*) it has published with the draft a notice stating how members of the public may submit comments to it, and within what time,
+
+(*c*) it has consulted about the draft any advisory committee it has established for that purpose under *section 19*,
+
+(*d*) it has carried out any other consultation that it considers appropriate on the draft, and
+
+(*e*) it has considered any comments submitted to it in accordance with a notice under *paragraph (b)* or in consultation under this subsection.
+
+(2) On receiving a proposal the Minister shall—
+
+(*a*) consult the Joint Oireachtas Committee,
+
+(*b*) consider the proposal in the light of that consultation and any other consultation the Minister considers appropriate, and
+
+(*c*) respond to the Commission within a reasonable time.
+
+(3) The Minister’s response must be either—
+
+(*a*) to accept the proposal for consideration by the Government, or
+
+(*b*) to request the Commission to reconsider the proposal.
+
+(4) The Minister may make an order under *section 139B(1)* giving effect to a proposal only if—
+
+(*a*) the Minister has accepted the proposal for consideration by the Government, and
+
+(*b*) the Government has approved the proposal.
+
+(5) The Minister may accept a proposal for consideration, and the Government may approve a proposal, only if satisfied of the matters listed in *section 139B(4)*.
+
+(6) In deciding whether to accept or approve a proposal, the Minister and the Government shall have regard in particular to the matters listed in *section 139B(5)*.
+
+(7) Where an order is proposed to be made under *section 139B(1)*, a draft of the order shall be laid by the Minister before each House of the Oireachtas and the order shall not be made unless a resolution approving the draft has been passed by each such House.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F241: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+#### 139D. Age- inappropriate online content.
+
+F242[**139D**.— (1) In this Part, “age-inappropriate online content” means online content that is likely to be unsuitable for children (either generally or below a particular age), having regard to their capabilities, their development, and their rights and interests, including in particular content consisting of—
+
+(*a*) pornography, or
+
+(*b*) realistic representations of, or of the effects of, gross or gratuitous violence or acts of cruelty.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F242: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+### Chapter 2 — Designated online services
+
+#### F243[139E. Designation of online services.
+
+**139E**.— (1) The Commission may designate a relevant online service as a service to which online safety codes may be applied under *Chapter 3*.
+
+(2) A designation under this section may be made in relation to a named service, or in relation to all services falling within a category of services described in the designation (and a service may be designated both as a named service and as falling within a category).
+
+(3) Subject to *section 139G* the Commission, in deciding whether to designate a named service or a category of services, shall have regard in particular to—
+
+(*a*) the nature and the scale of the service or of services within the category,
+
+(*b*) provision made or that may be made by online safety codes that may be applied to the service or to services within the category,
+
+(*c*) other provisions of or made under this Act that apply to designated online services,
+
+(*d*) levels of availability of harmful online content on the service, or on services within the category,
+
+(*e*) levels of risk of exposure to harmful online content when using the service, or services within the category,
+
+(*f*) levels of risk of harm, and in particular harm to children, from the availability of harmful online content or exposure to it on the service, or on services within the category,
+
+(*g*) the rights of the provider of the service, or providers of services within the category, and
+
+(*h*) the rights of users of the service, or users of services within the category.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F243: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+#### 139F. Power to require information relevant to designation.
+
+F244[**139F**.— (1) The Commission may by notice in writing require the provider of a relevant online service to provide the Commission with any information relating to the service that appears to the Commission to be—
+
+(*a*) relevant to a decision under *section 139E* as to whether to designate the service as a named service,
+
+(*b*) relevant to a decision under *section 139E* as to whether to designate a category of services including the service, or
+
+(*c*) required for inclusion in the register under *section 139J*.
+
+(2) A provider who fails, without reasonable excuse, to comply with a notice under *subsection (1)* shall be guilty of a category 1 offence.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F244: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+#### 139G. Requirement to designate video-sharing platform services.
+
+F245[**139G**.— (1) The Commission shall designate as a category of services under *section 139E* the video-sharing platform services the provider of which is under the jurisdiction of the State.
+
+(2) The Commission shall designate as a named service under *section 139E* any relevant online service that appears to the Commission to be a video-sharing platform service the provider of which is under the jurisdiction of the State.
+
+(3) Where the Commission has reason to believe that a relevant online service may be a video-sharing platform service the provider of which is under the jurisdiction of the State, the Commission shall issue a notice under *section 139F* requiring the provision of any information that appears to the Commission to be relevant for the purpose of complying with *subsection (2)*.
+
+(4) For the purposes of *subsections (2)* and *(3)* the Commission shall have regard to any guidelines issued by the European Commission in respect of the practical application of the essential functionality criterion in the definition of a video-sharing platform service in Article 1(1)(aa) of the Directive.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F245: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+#### 139H. Procedure for designation of online services.
+
+F246[**139H**.— (1) Before designating a service under this Chapter, the Commission shall consult—
+
+(*a*) where the designation is of a named service, the provider of the service,
+
+(*b*) where the designation is of a category of services—
+
+(i) an organisation representative of providers of services falling within the category, if there is such an organisation, and
+
+(ii) the providers of those services, so far as the Commission is able to consult them,
+
+(*c*) any advisory committee the Commission has established for that purpose under *section 19*, and
+
+(*d*) any other person the Commission considers appropriate.
+
+(2) Subsections *(1)(a)* and *(1)(b)(i)* do not apply in the case of a provider or organisation if, after taking reasonable steps to consult it, the Commission is unable to do so.
+
+(3) A designation under this Chapter takes effect—
+
+(*a*) in the case of a named service, on the Commission giving the provider of the service notice in writing of the designation, and
+
+(*b*) in the case of a category of services, at the end of the period of 28 days after the date on which notice of the designation is published by the Commission on a website maintained by it.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F246: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+#### 139I. Revocation of designation.
+
+F247[**139I**.— (1) The Commission may, subject to *section 139G(1)* and *(2)*, at any time revoke a designation under *section 139E*.
+
+(2) Sections *139E(3)*, *139F* and *139H* apply in relation to revocation of a designation of a named service or a category of services as they apply in relation to a designation.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F247: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+#### 139J. Register of designated online services.
+
+F248[**139J**.— (1) The Commission shall maintain and make available to the public a register of—
+
+(*a*) the services for the time being designated under this Chapter as named services, and
+
+(*b*) the categories of services for the time being designated under this Chapter.
+
+(2) The register shall state—
+
+(*a*) for each named service—
+
+(i) the provider of the service,
+
+(ii) the address of the provider and any other information the Commission considers appropriate about how the provider may be contacted by members of the public, and
+
+(iii) any designated category of services that the named service appears to the Commission to fall within,
+
+and
+
+(*b*) for each named service and each category of services, any online safety code under *Chapter 3* that applies to that service or to the services within that category.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F248: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+### Chapter 3 — Online safety codes
+
+#### F249[139K. Online safety codes.
+
+**139K**.— (1) The Commission may make codes (“online safety codes”), to be applied to designated online services in accordance with *section 139L*.
+
+(2) An online safety code may make provision with a view to ensuring—
+
+(*a*) that service providers take appropriate measures to minimise the availability of harmful online content and risks arising from the availability of and exposure to such content,
+
+(*b*) that service providers take any other measures that are appropriate to protect users of their services from harmful online content,
+
+(*c*) that service providers take any other measures that are appropriate to provide the protections set out in Article 28b(1)(a), (b) and (c) of the Directive, and
+
+(*d*) that service providers take any measures in relation to commercial communications on their services that are appropriate to protect the interests of users of their services, and in particular the interests of children.
+
+(3) In the case of video-sharing platform services, the Commission shall exercise its powers under this section with a view to ensuring (without prejudice to any other exercise of those powers in relation to video-sharing platform services) that service providers—
+
+(*a*) take appropriate measures to provide the protections referred to in *subsection (2)(c)*, including appropriate measures referred to in Article 28b(3) of the Directive,
+
+(*b*) comply with the requirements set out in Article 9(1) of the Directive with respect to audiovisual commercial communications that are marketed, sold or arranged by them, and
+
+(*c*) take appropriate measures to comply with the requirements set out in Article 9(1) of the Directive with respect to audiovisual commercial communications that are not marketed, sold or arranged by them, taking into account the limited control they exercise over those communications.
+
+(4) Without prejudice to *subsection (2)* an online safety code may provide for:
+
+(*a*) standards that services must meet, practices that service providers must follow, or measures that service providers must take;
+
+(*b*) in particular, standards, practices or measures relating to the moderation of content or to how content is delivered on services;
+
+(*c*) the assessment by service providers of the availability of harmful online content on services, of the risk of it being available, and of the risk posed to users by harmful online content;
+
+(*d*) the making of reports by service providers to the Commission;
+
+(*e*) the handling by service providers of communications from users raising complaints or other matters.
+
+(5) Without prejudice to *subsection (2)* or *(4)*, an online safety code may prohibit or restrict, in accordance with law, the inclusion in programmes or user-generated content of commercial communications relating to foods or beverages considered by the Commission to be the subject of public concern in respect of the general public health interests of children, in particular infant formula, follow-on formula or foods or beverages which contain fat, trans-fatty acids, salts or sugars.
+
+(6) Without prejudice to *subsection (4)*, the Commission shall make an online safety code, to be applied in accordance with *section 139L* to such designated online services as the Commission considers appropriate, requiring the service provider to report to the Commission at intervals, specified in the code, of not more than 3 months on the provider’s handling of communications from users raising complaints or other matters.
+
+(7) In this section, “service provider” means the provider of a designated online service.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F249: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+#### 139L. Application of online safety codes.
+
+F250[**139L**.— (1) An online safety code applies to a designated online service if—
+
+(*a*) the Commission has determined that the code is to apply to the service, or to a designated category of services that includes the service,
+
+(*b*) the Commission has given notice of the determination, and the notice has taken effect, in accordance with *subsection (2)*, and
+
+(*c*) the determination has not been revoked.
+
+(2) Notice under *subsection (1)(b)*—
+
+(*a*) in the case of a service designated as a named service, must be given to the provider of the service in writing, and takes effect when the notice is given to the provider, and
+
+(*b*) in the case of a designated category of services, must be given by publication of notice of the determination on a website maintained by the Commission, and takes effect at the end of the period of 28 days after the date on which the notice is published on the website.
+
+(3) Before making or revoking a determination under *subsection (1)* in relation to a named service or a category of services, the Commission shall have regard in particular to—
+
+(*a*) the nature and the scale of the service, or of services within the category,
+
+(*b*) levels of availability of harmful online content on the service, or on services within the category,
+
+(*c*) levels of risk of exposure to harmful online content when using the service, or services within the category,
+
+(*d*) levels of risk of harm, and in particular harm to children, from the availability of harmful online content or exposure to it on the service, or on services within the category,
+
+(*e*) the rights of the provider of the service, or providers of services within the category, and
+
+(*f*) the rights of users of the service, or users of services within the category.
+
+(4) Before making or revoking a determination under *subsection (1)*, the Commission shall consult—
+
+(*a*) where the designation is of a named service, the provider of the service,
+
+(*b*) where the designation is of a category of services—
+
+(i) an organisation representative of providers of services falling within the category, if there is such an organisation, and
+
+(ii) the providers of those services, so far as the Commission is able to consult them,
+
+(*c*) any advisory committee the Commission has established for that purpose under *section 19*, and
+
+(*d*) any other person the Commission considers appropriate.
+
+(5) An online safety code applying to an interpersonal communications service or a private online storage service applies to that service only in so far as it relates to content that falls within one of the offence‑specific categories of online content defined in *section 139A(2)*.
+
+(6) In this section—
+
+“interpersonal communications service” means a service normally provided for remuneration that enables direct interpersonal and interactive exchange of information between a finite number of persons by means of electronic communications networks, where the persons initiating or participating in the communication determine its recipients, but it does not include services which enable interpersonal and interactive communication only as a minor ancillary feature that is intrinsically linked to another service;
+
+“private online storage service” means any service providing online storage, other than—
+
+(*a*) local or temporary storage, or
+
+(*b*) storage provided for the purpose of enabling the provision of another service, or as a minor ancillary feature intrinsically linked to another service;
+
+“temporary storage” means the automatic, intermediate and temporary storage of information for the sole purpose of making more efficient onward transmission of that information.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F250: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+#### 139M. Online safety codes: matters to be considered.
+
+F251[**139M**.— When preparing an online safety code the Commission shall have regard in particular to—
+
+(*a*) the desirability of services having transparent decision-making processes in relation to content delivery and content moderation,
+
+(*b*) the impact of automated decision-making on those processes,
+
+(*c*) the need for any provision to be proportionate having regard to the nature and the scale of the services to which a code applies,
+
+(*d*) levels of availability of harmful online content on designated online services,
+
+(*e*) levels of risk of exposure to harmful online content when using designated online services,
+
+(*f*) levels of risk of harm, and in particular harm to children, from the availability of harmful online content or exposure to it,
+
+(*g*) the rights of providers of designated online services and of users of those services, and
+
+(*h*) the e-Commerce compliance strategy prepared under *section 139ZF*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F251: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+#### 139N. Online safety codes: procedure.
+
+F252[**139N**.— (1) Before making an online safety code, the Commission—
+
+(*a*) shall consult—
+
+(i) any advisory committee it has established for that purpose under *section 19*, and
+
+(ii) any other person the Commission thinks appropriate,
+
+and
+
+(*b*) may consult a public health authority about any provision of an online safety code referred to in *section 139K(2)(d)* which it proposes to make.
+
+(2) As soon as practicable after making an online safety code, the Commission shall give a copy of the code to the Minister.
+
+(3) As soon as practicable after receiving a copy of an online safety code under *subsection (2)*, the Minister shall lay copies of the code before each House of the Oireachtas.
+
+(4) The Commission may at any time amend or revoke an online safety code, or any provision of an online safety code, and *subsections (1)* to *(3)* apply to an amendment or revocation of an online safety code as they apply to an online safety code.
+
+(5) The Commission shall from time to time review the operation of any online safety code it makes.
+
+(6) If the Minister makes a request in writing to the Commission to review the operation of an online safety code, the Commission shall carry out the review and give the Minister a report on the review in writing within a reasonable time.
+
+(7) The Commission shall publish a report given to the Minister under *subsection (6)* on a website maintained by the Commission.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F252: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+#### 139O. Compliance with online safety codes: information notices.
+
+F253[**139O**.— (1) The Commission may by notice in writing require the provider of a designated online service to provide the Commission with information relating to the provider’s compliance with an online safety code over any period, and may require such information to be provided periodically for a succession of periods.
+
+(2) A notice must—
+
+(*a*) identify the information to be provided and the period or periods it must relate to, and
+
+(*b*) state when the information is to be provided.
+
+(3) A notice may not require information to be provided before the end of the period of 7 days beginning on the date on which the notice is received by the provider.
+
+(4) The Commission may at any time by notice in writing extend the time within which information is to be provided.
+
+(5) If within the period referred to in *subsection (3)* the provider requests the Commission to make an extension under *subsection (4)*, the period beginning with the date on which the Commission receives the request and ending on the date notice of the Commission’s decision on the request is received by the provider does not count towards the time within which the information is to be provided.
+
+(6) The provider of a designated online service is guilty of a category 1 offence if—
+
+(*a*) the provider fails without reasonable excuse to comply with a notice under *subsection (1)*, or
+
+(*b*) in purported compliance with a notice under *subsection (1)*, the provider provides false information, knowing that it is false or being reckless as to whether it is false.
+
+(7) If the Commission is notified by a nominated body of a matter that appears to the Commission to be relevant to a provider’s compliance with an online safety code, the Commission shall consider that matter for the purpose of deciding whether to exercise its functions under this section.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F253: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+#### 139P. Audit of complaints and complaint handling.
+
+F254[**139P**.— (1) The Commission may appoint a person to carry out an audit under this section, and may by notice in writing require the provider of a designated online service to co-operate with any person appointed.
+
+(2) A notice under *subsection (1)* may relate to audits to be undertaken periodically, at intervals specified in the notice.
+
+(3) The purpose of an audit under this section is—
+
+(*a*) to enable the Commission to assess compliance by the provider with provisions of an online safety code that relate to the handling of communications by which users raise complaints or other matters relating to designated online services with the providers of those services, and
+
+(*b*) to provide the Commission with information to identify any trends in complaints or other matters raised by such communications that may be relevant to the Commission’s functions under this Part.
+
+(4) A person appointed to carry out an audit under this section—
+
+(*a*) must be independent of the provider, and
+
+(*b*) must not be a Commissioner, or a member of the staff of the Commission.
+
+(5) A notice under this section must—
+
+(*a*) identify the person appointed to carry out the audit,
+
+(*b*) identify the provisions of the online safety code that the audit is to assess compliance with,
+
+(*c*) state when the audit is to commence,
+
+(*d*) specify the co-operation that may be requested by the person appointed, and
+
+(*e*) require the provider to provide that co-operation, subject to reasonable notice being given by the person appointed.
+
+(6) The co-operation that may be specified under *subsection (5)(d)* may include the taking, on reasonable notice from the person carrying out the audit, of steps specified by that person that are reasonably required to assist the carrying out of an audit under this section.
+
+(7) A person who carries out an audit under this section shall provide the Commission with a report on the audit, setting out any information relevant to an assessment in accordance with *subsection (3)(a)*, and any information relevant for the purposes of *subsection (3)(b)*.
+
+(8) The Commission shall provide a copy of the report—
+
+(*a*) to the provider concerned, and
+
+(*b*) to the Minister,
+
+and shall give the provider an opportunity to make representations in writing to the Commission on the report within such period as the Commission specifies.
+
+(9) After considering any representations made under *subsection (8)*, the Commission shall publish the report on a website maintained by it, with any redactions the Commission considers necessary on grounds of the personal, confidential or commercially sensitive nature of any part of the report.
+
+(10) If the Commission is notified by a nominated body of a matter that appears to the Commission to be relevant to compliance by a provider with a provision of the kind mentioned in *subsection (3)(a)*, the Commission shall consider that matter for the purpose of deciding whether to exercise its functions under this section.
+
+(11) A provider who fails without reasonable excuse to comply with a notice under *subsection (1)* shall be guilty of a category 1 offence.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F254: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+#### 139Q. Enforcement of online safety codes.
+
+F255[**139Q**. A failure by a provider of a designated online service to comply with an online safety code that applies to the service shall be a contravention for the purposes of *Part 8B*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F255: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+### Chapter 4 — Complaints to Commission about harmful online content
+
+#### F256[139R. Complaints to Commission about harmful online content.
+
+**139R**.— Where a scheme under *section 139V* provides for the making of a complaint to the Commission on the grounds that harmful online content is available on a designated online service, the Commission may deal with the complaint in accordance with this Chapter and the provisions of the scheme.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F256: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+#### 139S. Complaints which may be considered by Commission.
+
+F257[**139S**.— (1) Subject to *subsection (2)*, the Commission may not consider a complaint under this Chapter unless it is satisfied that the following conditions are met:
+
+(*a*) the complainant has made a complaint to the provider of the designated online service concerned about the availability of the content on the service;
+
+(*b*) a period of more than 2 days has elapsed since the complainant made the complaint to the provider;
+
+(*c*) where the provider operates a process in accordance with an online safety code for handling such a complaint, the complainant has taken reasonable steps in that period to have the complaint resolved through that process.
+
+(2) Where the Commission is not satisfied that the conditions in *subsection (1)* are met, it may consider a complaint under this Chapter if it considers it appropriate to do so having regard to the principles referred to in *section 139U*.
+
+(3) Where a complaint relates to content which falls within one of the offence-specific categories of harmful online content defined in *section 139A(2)*, the Commission may consider the complaint under this Chapter only if—
+
+(*a*) the Commission has brought the complaint to the attention of the Garda Síochána, or any other body the Commission considers appropriate,
+
+(*b*) the Commission has informed the complainant and the provider of the designated online service that it has done so, and
+
+(*c*) where the complaint was brought to the attention of the Garda Síochána, the Garda Síochána has informed the Commission that they do not intend to take any action, or any further action, in relation to the availability of the content on the service concerned.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F257: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+#### 139T. Resolution of complaints.
+
+F258[**139T**.— (1) The Commission may take any of the following actions for the purpose of resolving a complaint under this Chapter:
+
+(*a*) referring the complaint to the provider concerned with such advice, guidance or support as the Commission considers appropriate;
+
+(*b*) bringing the complaint to the attention of another body, where the Commission considers the complaint relates to the activities of that body;
+
+(*c*) giving the provider a notice under *section 139ZZD(1)*;
+
+(*d*) dismissing the complaint where the Commission concludes that the content is not harmful online content, or is no longer available on the designated online service;
+
+(*e*) dismissing the complaint where the Commission finds that the complaint is frivolous or vexatious;
+
+(*f*) taking any other action provided for in a scheme under *section 139V*.
+
+(2) Where the Commission concludes its consideration of a complaint under this Chapter but does not consider any action within *subsection (1)* to be appropriate, it shall provide such advice, guidance or support to the complainant as it considers appropriate.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F258: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+#### 139U. Principles for resolution of complaints.
+
+F259[**139U**.— In dealing with complaints under this Chapter, the Commission shall have regard to—
+
+(*a*) the rights of—
+
+(i) the complainant,
+
+(ii) the person who uploaded the content to the designated online service,
+
+(iii) the provider of the designated online service,
+
+(iv) the users of the designated online service, and
+
+(v) any person to whom the content relates or at whom it is directed,
+
+(*b*) the interests of any child concerned as complainant, as the person who uploaded the content to the designated online service, or as a person to whom the content relates or at whom it is directed,
+
+(*c*) the levels of risk of harm, and in particular harm to children, from the availability of the content or exposure to it, and
+
+(*d*) the desirability of resolving the complaint efficiently.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F259: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+#### 139V. Complaint scheme: content.
+
+F260[**139V**.— (1) Subject to this Chapter the Commission may make a scheme providing for the making and resolution of complaints referred to in *section 139R*.
+
+(2) The Commission may make a scheme relating to complaints about the availability of a type of harmful online content on designated online services only if there is an online safety code that—
+
+(*a*) applies to the designated online services concerned, and
+
+(*b*) relates to the handling, by those providers, of communications from users raising complaints about harmful online content of that type.
+
+(3) A scheme shall provide, in particular, for—
+
+(*a*) the content of a complaint,
+
+(*b*) the procedures by which a complaint may be made,
+
+(*c*) the procedures the Commission shall follow in considering and resolving complaints,
+
+(*d*) the making of representations in relation to the complaint by the person who uploaded the content that the complaint is about to the designated online service,
+
+(*e*) the requirements the Commission may impose on providers of designated online services for the purpose of resolving complaints, and
+
+(*f*) the procedures by which the Commission shall inform the complainant of the Commission’s resolution of the complaint.
+
+(4) A complaint shall contain, in particular—
+
+(*a*) a description of the content that the complaint is about,
+
+(*b*) a description of the category of harmful online content into which the complainant considers the content falls, and the reasons for that consideration,
+
+(*c*) a description of the location of the content on the designated online service, and
+
+(*d*) evidence that the conditions in *section 139S(1)* are met.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F260: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+#### 139W. Complaint scheme: procedure.
+
+F261[**139W**.— (1) Before making a scheme under *section 139V*, the Commission shall consult—
+
+(*a*) any advisory committee it has established for that purpose under *section 19*, and
+
+(*b*) any other person the Commission thinks appropriate.
+
+(2) The Commission shall give the Minister a copy of any scheme made under *section 139V* as soon as practicable after it is made.
+
+(3) The Commission may amend or replace a scheme made under *section 139V*, and *subsections (1)* and *(2)* apply to the amendment of a scheme as they apply to the making of a scheme.
+
+(4) A scheme made under *section 139V*, and any amendment of it, shall be laid by the Commission before each House of the Oireachtas as soon as may be after it is made.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F261: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+#### 139X. Implementation of schemes.
+
+F262[**139X**.— (1) The Commission shall prepare a plan describing the period within which, and the manner in which, it proposes to make schemes under *section 139V* such that, in any case where there is an online safety code that relates to the handling, by providers of designated online services, of communications from users raising complaints about harmful online content of any type, the Commission is able to deal with complaints about the availability of that type of harmful online content on any designated online service to which the code is applied under *section 139L*.
+
+(2) The Commission’s proposals in the plan prepared under *subsection (1)* shall prioritise the making of schemes under *section 139V* relating to complaints about harmful online content relating to or directed at children.
+
+(3) A plan prepared under *subsection (1)* shall be given to the Minister and published on a website maintained by or on behalf of the Commission as soon as practicable after it is prepared.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F262: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+#### 139Y. Review of operation of scheme.
+
+F263[**139Y**.— (1) The Commission shall review the operation of this Chapter at the end of the period of 5 years after the date of its coming into operation.
+
+(2) Without prejudice to *subsection (1)*, the Commission shall review the operation of a scheme under *section 139V* where the Minister requests the Commission in writing to do so.
+
+(3) The Commission shall give a report of a review to the Minister as soon as practicable after completing the review.
+
+(4) The Commission shall publish the following annually on a website maintained by it:
+
+(*a*) the number of complaints it has received in the previous year under a scheme and how those complaints were resolved;
+
+(*b*) the categories of harmful online content to which the complaints related;
+
+(*c*) such case studies of complaints as it considers appropriate.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F263: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+### Chapter 5 — Online safety guidance materials and advisory notices
+
+#### F264[139Z. Guidance materials and advisory notices.
+
+**139Z**.— (1) The Commission may issue guidance materials for providers of relevant online services—
+
+(*a*) on identifying harmful online content, and in particular on the application of *subsection (4)* of *section 139A*,
+
+(*b*) on any other matter relating to the operation of this Part or for which provision may be made by an online safety code, and
+
+(*c*) otherwise for the protection of F265[children] and the general public from harmful online content and age-inappropriate online content.
+
+(2) Before issuing guidance materials under *subsection (1)*, the Commission shall consult—
+
+(*a*) any advisory committee it has established for that purpose under *section 19*, and
+
+(*b*) any other person the Commission thinks appropriate.
+
+(3) Where the Commission considers there is an urgent need to bring to the attention of a provider or providers of relevant online services any matter on which guidance materials may be issued under this section, the Commission may issue an online safety advisory notice to the provider or providers on the matter.
+
+(4) Before issuing an advisory notice under *subsection (3)*, or as soon after as is practicable, the Commission shall consult—
+
+(*a*) any advisory committee it has established for that purpose under *section 19*, and
+
+(*b*) any other person the Commission thinks appropriate.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F264: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+>
+> F265: Substituted (17.02.2024) by *Digital Services Act 2024 (2/2024)*, s. 13, S.I. No. 53 of 2024.
+
+#### 139ZA. Guidance materials and advisory notices: matters to be considered.
+
+F266[**139ZA**.— (1) In preparing guidance materials or advisory notices under *section 139Z*, the Commission shall have regard in particular to—
+
+(*a*) Article 28b of the Directive,
+
+(*b*) the desirability of services having transparent decision-making processes in relation to content delivery and content moderation,
+
+(*c*) the impact of automated decision-making on those processes,
+
+(*d*) the need for any provision to be proportionate having regard to the nature and the scale of the services concerned,
+
+(*e*) levels of availability of any online content, and of age‑inappropriate online content, on relevant online services,
+
+(*f*) levels of risk of exposure to harmful online content, or of exposure of children to age-inappropriate online content, when using relevant online services,
+
+(*g*) levels of risk of harm, and in particular harm to children, from the availability of such content or exposure to it,
+
+(*h*) the rights of providers of relevant online services and of users of those services, and
+
+(*i*) the e-Commerce compliance strategy prepared under *section 139ZF*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F266: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+#### 139ZB. Guidance materials and advisory notices: procedure.
+
+F267[**139ZB**.— (1) This section applies to any guidance materials or advisory notices issued by the Commission under *section 139Z*.
+
+(2) The Commission shall—
+
+(*a*) publish any guidance materials or advisory notices in whatever way it thinks appropriate, and
+
+(*b*) take any other steps it considers appropriate to bring guidance materials or advisory notices to the attention of providers of services to which they are relevant.
+
+(3) As soon as practicable after issuing guidance materials or an advisory notice, the Commission shall give a copy to the Minister.
+
+(4) If the Minister makes a request in writing to the Commission to review guidance materials or an advisory notice, the Commission shall carry out the review and give the Minister a report on the review in writing within a reasonable time.
+
+(5) The Commission may at any time withdraw guidance materials or an advisory notice.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F267: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+### Chapter 6 — Ancillary matters
+
+#### F268[139ZC. Scheme for notifications by nominated bodies.
+
+**139ZC**.— (1) The Commission shall make a scheme under which bodies are nominated by it for the purpose of notifying the Commission of matters relevant to its functions under this Part.
+
+(2) Where a nominated body notifies the Commission in accordance with a scheme, the Commission shall inform the nominated body of any action taken by the Commission as a result of the notification.
+
+(3) The matters that may be notified to the Commission under a scheme shall include, but need not be limited to, the following:
+
+(*a*) concerns arising from the manner in which a designated online service purports to comply with the online safety codes that apply to it;
+
+(*b*) concerns relating to the availability of harmful online content on a designated online service or a relevant online service;
+
+(*c*) concerns relating to the availability of age-inappropriate online content on a designated online service or a relevant online service;
+
+(*d*) measures taken by the provider of a designated online service, in purported compliance with an online safety code, which the nominated body considers excessive having regard to users’ freedom of expression or other rights, or for any other reason.
+
+(4) A scheme shall in particular provide for the following:
+
+(*a*) the procedure for applying for nomination, and the nomination process;
+
+(*b*) the criteria for nomination;
+
+(*c*) revocation of a nomination;
+
+(*d*) matters of which nominated bodies may notify the Commission;
+
+(*e*) the form and content of a notification;
+
+(*f*) the process by which notification is to be given by a nominated body and acknowledged by the Commission;
+
+(*g*) the process by which the Commission is to inform a nominated body of any action taken by the Commission as a result of a notification.
+
+(5) As soon as practicable after making a scheme under this section, the Commission shall give a copy to the Minister.
+
+(6) If the Minister makes a request in writing to the Commission to review a scheme under this section, the Commission shall carry out the review and give the Minister a report on the review in writing within a reasonable time.
+
+(7) The Commission may at any time amend or replace a scheme under this section.
+
+(8) *Subsection (5)* applies to the amendment or replacement of a scheme as it applies to the making of a scheme.
+
+(9) A scheme and any amendment of a scheme under this section shall be laid by the Commission before each House of the Oireachtas as soon as may be after it is made.
+
+(10) In this section, “scheme” means a scheme made under this section.
+
+(11) In this section and *sections 139O* and *139P*, “nominated body” means a body nominated by the Commission under a scheme.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F268: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+#### 139ZD. Duty of Commission to encourage use of mediation.
+
+F269[**139ZD**.— The Commission shall take whatever steps it considers appropriate to encourage the use by users and providers of mediation by an independent mediator to resolve any dispute arising from users’ complaints about a provider taking or not taking any action—
+
+(*a*) in response to an online safety code, or
+
+(*b*) in response to guidance materials or an advisory notice issued under *section 139Z*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F269: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+#### 139ZE. Voluntary arrangements with providers in third countries.
+
+F270[**139ZE**.— (1) This section applies if the Commission enters into a voluntary arrangement, within the meaning assigned to it by *subsection (2)*, with the provider of a service, where—
+
+(*a*) the provider is not under the jurisdiction of the State or another Member State, but
+
+(*b*) the service would be a relevant online service if the provider were under the jurisdiction of the State.
+
+(2) In this section, a “voluntary arrangement” means an arrangement under which the provider agrees, for the period during which the arrangement is in force—
+
+(*a*) that the provider will comply with any online safety code, and any guidance materials issued under *section 139Z*, that may be specified in the arrangement, to the extent specified in the arrangement,
+
+(*b*) that the provider will comply with any request made by the Commission under *subsection (5)*, and
+
+(*c*) that the Commission may publish the information it is required to publish in accordance with *subsections (4)* and *(6)*.
+
+(3) The Commission shall notify the Minister of any voluntary arrangement it enters into.
+
+(4) The Commission shall publish, on a website maintained by it, the following details of any voluntary arrangement it enters into with a provider:
+
+(*a*) the name of the provider and any other information necessary to identify the provider
+
+(*b*) the matters specified in accordance with *subsection (2)(a)*.
+
+(5) The Commission—
+
+(*a*) may request information from the provider regarding its compliance with any online safety code or guidance materials, to the extent that it has agreed to comply with them, and
+
+(*b*) may request the provider to provide such information on a periodic basis.
+
+(6) If it appears to the Commission that there has been a failure by a provider to comply with an online safety code, guidance materials, or a request under *subsection (5)*, the Commission may publish, on a website maintained by it, a notice of the failure, and information about the nature of the failure.
+
+(7) The Commission shall keep any voluntary arrangement under review.
+
+(8) The Commission or the provider may at any time end a voluntary arrangement by notice in writing to the other.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F270: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+
+#### 139ZF. e-Commerce compliance strategy.
+
+F271[**139ZF**. F272[(1) The Commission shall prepare and may revise, an e-Commerce compliance strategy setting out its approach to ensuring that—
+
+(*a*) no requirements that are inconsistent with the limitations placed on the liability of intermediary service providers by Articles 4 to 6 of the Digital Services Regulation, and
+
+(*b*) no general obligation contrary to Article 8 of that Regulation to monitor the information intermediary service providers transmit or store, or actively to seek facts or circumstances indicating illegality,
+
+are imposed on those providers by virtue of online safety codes, online safety guidance materials or advisory notices.]
+
+(2) Before preparing an e-Commerce compliance strategy the Commission shall consult—
+
+(*a*) any advisory committee it has established for that purpose under *section 19*, and
+
+(*b*) any other person the Commission thinks appropriate.
+
+(3) The Commission shall publish an e-Commerce compliance strategy prepared or revised under this section on a website maintained by it.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F271: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 45, S.I. No. 71 of 2023.
+>
+> F272: Substituted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 14(1), S.I. No. 53 of 2024, with current e-Commerce compliance strategy continuing to apply as per subs. (2).
+
+## PART 8B Investigations and sanctions — PART 8B — Investigations and sanctions
+
+### F273[Chapter 1 — Interpretation
+
+#### 139ZG. Interpretation.
+
+F274[**139ZG.** (1) In this Part—
+
+“authorised officer” means a person appointed to be an authorised officer under *section 139ZH(1)*, and "the authorised officer", in relation to an investigation, means the authorised officer carrying out the investigation;
+
+“contravention” means—
+
+(*a*) a failure to comply with *section 46J,* *46K*, *46L*, *46M(2)* or *(3)*, a media service code, a media service rule, *section 46P(1)* or *(2)*, *section 106(3)*, *section 127(6)*, *section 128B(1)* or *(2)*, any rules made under *section 128C*, an online safety code, *section 159B(1)* (or any rules made under *section 159B(6)*) or *section 159C(1)* (or any rules made under *section 159C(3)* or *(6)*),
+
+(*b*) an infringement by a relevant intermediary service provider of any of the designated provisions of the Digital Services Regulation,
+
+F275[(*ba*) an infringement by a hosting service provider of Article 3(3) or (6), Article 4(2) or (7), Article 5(1), (2), (3), (5) or (6), Article 6, Article 7, Article 10, Article 11, Article 14(5), Article 15(1), or Article 17, of the Terrorist Content Online Regulation,]
+
+(*c*) anything for which section *139ZK(8A)* or *139ZR(9A)* or *paragraph 14A* of Schedule 4 provides that a person may be liable to an administrative financial sanction in accordance with this Part, or
+
+(*d*) anything for which section *139ZLB(10)* or *139ZZGB(7)* provides that a person may be liable to an administrative financial sanction in accordance with this Part;
+
+“designated provision” in relation to the Digital Services Regulation means any of the provisions of the Regulation other than Article 30, 31 or 32 or Section 5 of Chapter III;
+
+“Digital Services investigation” means an investigation where the suspected contravention falls within *paragraph (b)* of the definition of ‘contravention’;
+
+“inquiry subject” in relation to an investigation or other proceedings under this Part, means the person whose contravention or suspected contravention is the subject of the investigation or other proceedings;
+
+“place” includes
+
+(*a*) a dwelling;
+
+(*b*) a building;
+
+(*c*) any other premises;
+
+(*d*) a vehicle, vessel, aircraft, or other means of transport;
+
+“relevant equipment” means, in relation to an investigation, any electronic, photographic, magnetic, optical or other equipment, including a computer, which may be used for processing or holding relevant material;
+
+“relevant intermediary service provider” means any of the following:
+
+(*a*) an intermediary service provider whose main establishment is located in the State;
+
+(*b*) an intermediary service provider to which Article 13(1) applies and whose legal representative designated under that Article resides or is established in the State;
+
+(*c*) an intermediary service provider to which Article 13(1) applies, but which has failed to designate a legal representative under that Article;
+
+“relevant material” means, in relation to an investigation, any document, information, or content, however communicated, recorded or stored, which may be relevant to the investigation;
+
+“very large online platform” means an online platform designated by a decision of the European Commission under Article 33(4);
+
+“very large online search engine” means an online search engine designated by a decision of the European Commission under Article 33(4).
+
+(2) A word or expression used in this Part that is also used in the Digital Services Regulation has, unless the context otherwise requires, the same meaning in this Part as it has in that Regulation.
+
+(3) Unless the context otherwise requires, a reference in this Part to a numbered Article is a reference to the Article so numbered of the Digital Services Regulation.]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F273: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, s. 139ZG other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*.
+>
+> F274: Substituted (17.02.2024) by *Digital Services Act 2024 (2/2024)*, s. 15, S.I. No. 53 of 2024.
+>
+> F275: Inserted (27.09.2024) by *Courts, Civil Law, Criminal Law and Superannuation (Miscellaneous Provisions) Act 2024* (30/2024), s. 18, S.I. No. 486 of 2024.
+
+### Chapter 1A — Provision of information for purposes of functions of Commission as competent authority under Terrorist Content Online Regulation
+
+#### F276[139ZGA. Provision of information for purposes of functions of Commission as competent authority under Terrorist Content Online Regulation
+
+**139ZGA**.—(1) The Commission may by notice in writing require a person (in this section referred to as "the person") to provide the Commission with information relating to whether the person—
+
+(*a*) is a hosting service provider, or
+
+(*b*) is a hosting service provider that is, or has been, exposed to terrorist content.
+
+(2) A notice under *subsection (1)* shall specify the information to be provided by the person and the form and manner in which that information shall be provided.
+
+(3) The person shall comply with a notice under *subsection (1)* within a period of 20 working days of the date of the notice under that subsection or within such further period as may be agreed in writing before the expiry of the 20 days between the Commission and the person concerned.
+
+(4) The Commission may, on notice to the person, apply to a judge of the District Court who is assigned to the Dublin Metropolitan District for an order under *subsection (5)* where it appears to the Commission that the person has failed to comply with *subsection (3)*.
+
+(5) The judge of the District Court may, on hearing an application under *subsection (4)*, where he or she is satisfied that the person concerned has failed to comply with *subsection (3)*, make an order directing the person, within such period as is specified in the order, to provide the information requested in the notice under *subsection (1)*.
+
+(6) In this section—
+
+"exposed to terrorist content" shall be construed in accordance with Article 5 of the Terrorist Content Online Regulation, and
+
+"terrorist content" has the same meaning as it has in Article 2(7) of the Terrorist Content Online Regulation.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F276: Inserted (27.09.2024) by *Courts, Civil Law, Criminal Law and Superannuation (Miscellaneous Provisions) Act 2024* (30/2024), s. 19, S.I. No. 486 of 2024.
+
+### Chapter 2 — Authorised officers and investigations
+
+#### F277[139ZH. Appointment of authorised officers.
+
+**139ZH**.— (1) The Commission may appoint a person to be an authorised officer for the purposes of this Act.
+
+(2) The Commission shall provide an authorised officer appointed under *subsection (1)* with a certificate of his or her appointment.
+
+(3) An authorised officer exercising a power conferred by or under this Act shall, if requested by a person affected by the exercise of the power, produce for that person to inspect—
+
+(*a*) the certificate of his or her appointment, or a copy of it, and
+
+(*b*) a form of personal identification.
+
+(4) An authorised officer shall be appointed subject to such terms and conditions (including terms as to remuneration and allowances for expenses (if any)) as the Commission may, with the approval of the Minister given with the consent of the Minister for Public Expenditure and Reform, determine.
+
+(5) A person’s appointment under *subsection (1)* ceases—
+
+(*a*) if it is revoked in writing by the Commission,
+
+(*b*) if it is for a fixed period and the period expires, or
+
+(*c*) if the person was when appointed, or has since become, a member of the staff of the Commission, and the person ceases to be a member of its staff.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F277: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*.
+
+#### 139ZI. Commencement and terms of investigation.
+
+F278[**139ZI**.— (1) If a person authorised by the Commission under *subsection (2)* believes there is reason to suspect that there has been a contravention, the person may direct an authorised officer to carry out an investigation of the suspected contravention.
+
+(2) The Commission may authorise any Commissioner or member of its staff for the purposes of *subsection (1)*.
+
+(3) The person who directs the authorised officer to carry out an investigation under *subsection (1)* shall define the terms of the investigation in writing.]
+
+F279[(4) Where the provider of a very large online platform or very large online search engine would be the inquiry subject, no direction may be given under *subsection (1)* in relation to a contravention that is an infringement of the Digital Services Regulation if the European Commission has initiated proceedings for the same infringement.
+
+(5) Where the suspected contravention is an infringement of the Digital Services Regulation by a person falling within *paragraph (c)* of the definition of "relevant intermediary service provider" in *section 139ZG*, a direction may be given under *subsection (1)* only if—
+
+(*a*) the Commission has given the notification required by Article 56(7), and
+
+(*b*) no notification under Article 56(7) referring to the same infringement has been given by the European Commission or a Member State Digital Services Coordinator, or any that has been given has been withdrawn.
+
+(6) Where a direction is given under *subsection (1)* and the suspected contravention is an infringement of the Digital Services Regulation, the Commission shall notify—
+
+(*a*) the European Commission,
+
+(*b*) the European Board for Digital Services, and
+
+(*c*) each Member State Digital Services Coordinator.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F278: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with section 128B(1) or (2) or any rules made under section 128C.
+>
+> F279: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 16, S.I. No. 53 of 2024.
+
+#### 139ZJ. Notice of commencement of investigation.
+
+F280[**139ZJ**.— (1) An authorised officer directed to carry out an investigation under *section 139ZI(1)* shall give the F281[inquiry subject] a notice in writing of the commencement of the investigation.
+
+(2) The notice shall include—
+
+(*a*) a statement of the nature and particulars of the suspected contravention,
+
+(*b*) a copy of the terms of the investigation defined under *section 139ZI(3)*, and
+
+(*c*) a copy of any material relied upon by the person referred to in *section 139ZI(3)* in defining those terms or notice of the place at which such material may be inspected and copied by the F281[inquiry subject].
+
+(3) A notice under *subsection (1)* shall state that the F281[inquiry subject] may respond in writing to the contents of the notice within—
+
+(*a*) the period of 10 working days from the date on which the notice was received, or
+
+(*b*) any further period, of not more than 10 working days, that the authorised officer considers necessary to give the F281[inquiry subject] an opportunity to respond.]
+
+F282[(4)In the case of an investigation pursuant to a direction under *section 139ZI(1)* which is a joint investigation to which Article 60 applies, the authorised officer shall also give the inquiry subject notice in writing of—
+
+(*a*) the Member State Digital Services Coordinators or other Member State competent authorities participating in the investigation, and
+
+(*b*) the deadline for the conclusion of the investigation.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F280: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*.
+>
+> F281: Substituted (17.02.2024) by *Digital Services Act 2024*(2/2024), s. 17(a), S.I. No. 53 of 2024.
+>
+> F282: Inserted (17.02.2024) by *Digital Services Act 2024*(2/2024), s. 17(b), S.I. No. 53 of 2024.
+
+#### 139ZJA. Notice of communication under Article 58(5).
+
+F283[**139ZJA**.— Where, at any time after the commencement of an investigation pursuant to a direction under *section 139ZI(1)*, the Commission makes a communication under Article 58(5) relating to the suspected contravention which is the subject of the investigation, the Commission shall as soon as is practicable give the inquiry subject notice in writing that the communication has been made.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F283: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 18, S.I. No. 53 of 2024.
+>
+> **Editorial Notes:**
+>
+> E30: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 139ZK. Powers of authorised officer.
+
+F284[**139ZK**.— (1) For the purposes of an investigation F285[pursuant to a direction under *section 139ZI(1)*], an authorised officer F286[may, subject to *subsection (1A)*, do any of the following]:
+
+(*a*) F285[except in the case of an investigation to which *paragraph (aa)* applies,] subject to *subsection (7)*, at any reasonable time, enter any place where the authorised officer has reasonable grounds for believing—
+
+(i) that an activity connected with a broadcasting service, audiovisual on-demand media service F287[, hosting service provider] or designated online service takes place, or
+
+(ii) that relevant material or relevant equipment is kept;
+
+F285[(*aa*) In the case of a Digital Services investigation, or an investigation where the suspected contravention falls within *paragraph (c)* or *(d)* of the definition of "contravention" in *section 139ZG*, subject to *subsection (7)*, at any reasonable time, enter any place that the authorised officer has reasonable grounds for believing is used—
+
+(i) by the inquiry subject for purposes related to the inquiry subject’s trade, business, craft or profession, or
+
+(ii) by a relevant person for purposes related to that person’s trade, business, craft or profession;]
+
+(*b*) search a place referred to inF286[*paragraph (a)* or *(aa)*];
+
+(*c*) stop any vehicle, or detain any vessel, aircraft or other means of transport, for the purpose of exercising a power under F286[*paragraph (a)*, *(aa)* or *(b)*] to enter, search or inspect the vehicle, vessel, aircraft or other means of transport;
+
+(*d*) require any person to produce to him or her any relevant material which is in that person’s power or control or which that person is able to procure, and to produce it, where necessary, in a form in which it can be taken away and in which it is, or can be made, legible and comprehensible;
+
+(*e*) require a person who is unable to produce relevant material within that person’s power, procurement or control to state, to the best of that person’s knowledge and belief, where the material is or from whom it may be obtained;
+
+(*f*) require any person to give the authorised officer such information as the officer may reasonably require relating to any relevant material which is in that person’s power or control or which that person is able to procure;
+
+(*g*) require any person to give the authorised officer any information that the officer may reasonably require relating to a broadcasting service, an audiovisual on-demand media service, F288[hosting service provider] or a F286[a designated online service or an intermediary service];
+
+(*h*) require any person to attend before the authorised officer to give any information that the officer may require the person to give under this section;
+
+(*i*) operate any relevant equipment, or cause it to be operated by a person accompanying the authorised officer, for the purpose of accessing relevant material;
+
+(*j*) require any person to give the authorised officer all reasonable assistance in the operation of relevant equipment for the purpose of accessing relevant material, including—
+
+(i) making the material legible and comprehensible or providing any authentication necessary to do so, or
+
+(ii) enabling the material to be taken away in any form;
+
+(*k*) secure for later inspection, for such period as the authorised officer reasonably considers necessary, any place where the authorised officer has reasonable grounds for believing there is relevant material or relevant equipment;
+
+(*l*) inspect and take extracts from or copies of any relevant material;
+
+(*m*) remove from any place, and retain, any relevant material or relevant equipment, for such period as the authorised officer reasonably considers necessary;
+
+(*n*) require any person who has any relevant material or relevant equipment in his or her power or control to retain the material or maintain the equipment for such period as the authorised officer reasonably considers necessary.
+
+F285[(1A) In the case of a Digital Services investigation, or an investigation where the suspected contravention falls within *paragraph (c)* or *(d)* of the definition of "contravention" in *section 139ZG*, a requirement under *paragraph (d)*, *(e)*, *(f)*, *(g)*, *(h)*, *(j)* or *(n)* of *subsection (1)* may be imposed only on the following persons:
+
+(*a*) the inquiry subject;
+
+(*b*) a relevant person;
+
+(*c*) a member of staff or representative, or former member of staff or representative, of the inquiry subject or a relevant person.
+
+(1B) In *paragraph (aa)* of *subsection (1)* and in *subsection (1A)*, "relevant person" means a person acting for purposes related to the person’s trade, business, craft or profession who may reasonably be aware of information relating to the suspected contravention.]
+
+(2) An authorised officer may specify that a requirement under *paragraph (d)*, *(e)*, *(f)*, *(g)*, *(h)* or F286[*(j)* of *subsection (1)*] be complied with within such reasonable period as he or she may determine.
+
+(3) An authorised officer may conduct an oral hearing if he or she considers it necessary for the purposes of F286[an investigation pursuant to a direction under *section 139ZI(1)*].
+
+(4) *Schedule 4*, and any rules made by the Commission under *section 139ZN*, shall have effect for the purposes of an oral hearing referred to in *subsection (3)*.
+
+(5) When performing a function under this Act, an authorised officer may, subject to the terms of any warrant issued under *section 139ZL*, be accompanied by such and so many other persons, including members of the Garda Síochána, as he or she considers appropriate.
+
+(6) An authorised officer may require a person to provide his or her name and address if the authorised officer has reasonable grounds for requiring the information in order to apply for a warrant under *section 139ZL*.
+
+(7) An authorised officer shall not enter a dwelling, other than—
+
+(*a*) with the consent of the occupier, or
+
+(*b*) in accordance with a warrant under *section 139ZL*.
+
+(8) A person shall be guilty of a category 2 offence if he or she—
+
+(*a*) without reasonable excuse, obstructs an authorised officer in the exercise of his or her powers under this section,
+
+(*b*) without reasonable excuse, fails or refuses to comply with a requirement of an authorised officer under this section,
+
+(*c*) with the intention of obstructing an authorised officer in the conduct of an investigation, alters, hides, or destroys, any relevant material or relevant equipment which is, or which could reasonably be, the subject of a requirement of an authorised officer under this section,
+
+(*d*) in purported compliance with a requirement under this section, gives to an authorised officer information which the person knows to be false or misleading in any material respect, or
+
+(*e*) falsely represents himself or herself to be an authorised officer.
+
+F285[(8A) Without prejudice to *subsection (8)*, a person may, subject to *subsection (8B)*, be liable to an administrative financial sanction in accordance with this Part if in the course of a Digital Services investigation he or she—
+
+(*a*) obstructs an authorised officer in the exercise of his or her powers under *subsection (1)(aa)*, *(b)* or *(c)*,
+
+(*b*) fails or refuses to comply with a requirement of an authorised officer under *subsection (1)(d)*, *(e)*, *(f)* or *(g)*,
+
+(*c*) in purported compliance with a requirement under this section, gives to an authorised officer information which is false or misleading in a material respect, or
+
+(*d*) fails to rectify—
+
+(i) any failure on his or her part to comply with a requirement of an authorised officer under *subsection (1)(d)*, *(e)*, *(f)* or *(g)*, or
+
+(ii) any information which he or she has given to an authorised officer in purported compliance with a requirement under this section and which is false or misleading in a material respect.
+
+(8B) Where, in the course of a Digital Services investigation, a person other than the inquiry subject does an act or makes an omission referred to in any paragraph of *subsection (8A)*, that subsection does not authorise the imposition of an administrative financial sanction on that person unless, before the act or omission occurred, the person was given in reasonable time by notice in writing by an authorised officer all relevant information relating to the exercise of the power, or to the request or requirement, referred to in that paragraph, including information about—
+
+(*a*) the time within which the person was required to comply with the exercise of the power or with the request or the requirement,
+
+(*b*) the maximum amount of the administrative financial sanction that could be imposed on the person, and
+
+(*c*) the effect of *section 139ZS(2)*, and the sections referred to there, in relation to the imposition of an administrative financial sanction.]
+
+(9) Where an authorised officer has exercised his or her powers under this section in good faith, the Commission shall indemnify the authorised officer against all actions or claims howsoever arising in respect of the exercise of those powers.
+
+(10) A statement or admission made by a person pursuant to a requirement of an authorised officer under *subsection (1)* shall not be admissible in evidence in proceedings brought against the person for an offence, other than an offence under *subsection (8)*, and this shall be explained to the person in ordinary language by the authorised officer.
+
+(11) A person the subject of a requirement under *subsection (1)* shall be entitled to the same immunities and privileges in respect of compliance with such requirement as if the person were a witness before the High Court.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F284: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*.
+>
+> F285: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 19(a)(i), (iii), (iv), (b), (e), S.I. No. 53 of 2024.
+>
+> F286: Substituted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 19(a)(ii), (v), (vi), (vii), (c), (d), S.I. No. 53 of 2024.
+>
+> F287, F288: Inserted (27.09.2024) by *Courts, Civil Law, Criminal Law and Superannuation (Miscellaneous Provisions) Act 2024* (30/2024), s. 20(a), (b), S.I. No. 486 of 2024.
+
+#### F289[139ZKA. Use of powers for other purposes of Digital Services Regulation.
+
+**139ZKA**.—(1) A person authorised by the Commission, under *subsection (2)*, may direct an authorised officer to exercise powers under *section 139ZK*, as that section applies in accordance with *subsection (3)*, for the purpose of assisting the Commission to perform its functions—
+
+(*a*) under Article 57(2) in relation to an investigation by a Member State Digital Services Coordinator or other Member State competent authority,
+
+(*b*) under Article 60(4) in relation to a joint investigation led by a Member State Digital Services Coordinator, or
+
+(*c*) under Article 66(3) in relation to an investigation conducted by the European Commission.
+
+(2) The Commission may authorise any Commissioner or member of its staff for the purposes of *subsection (1)*.
+
+(3) Where a direction is given under *subsection (1)*, *sections 139ZK* and *139ZL* apply for the purposes referred to in that subsection as they apply in relation to a Digital Services investigation.
+
+(4) Before exercising powers under *section 139ZK* as applied by *subsection (3)*, an authorised officer shall give the inquiry subject a notice in writing which—
+
+(*a*) identifies the investigation or exercise of investigative powers referred to in *subsection (1)*, and
+
+(*b*) states that the powers may be exercised by an authorised officer for the purposes of the investigation.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F289: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 20, S.I. No. 53 of 2024.
+>
+> **Editorial Notes:**
+>
+> E31: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 139ZL. Search warrant.
+
+F290[**139ZL**.— (1) If a judge of the District Court is satisfied on the sworn information of an authorised officer that there are reasonable grounds for suspecting that relevant material required by an authorised officer for the purpose of performing his or her functions under this Act is held at any place, the judge may issue a warrant authorising an authorised officer, on production, if so required, of the warrant, to enter the place, if necessary by reasonable force, and to exercise all or any of the powers conferred on an authorised officer by *section 139ZK*.
+
+(2) A warrant under *subsection (1)* may permit an authorised officer to be accompanied by such and so many other persons, including members of the Garda Síochána, as the officer considers necessary.
+
+(3) A warrant issued under this section shall be valid for 28 days from its date of issue.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F290: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*.
+
+#### F291[139ZLA. Enforcement of investigatory powers by daily payment penalty.
+
+**139ZLA**.— (1) A penalty of a daily payment (in this section referred to as a "daily payment penalty") may be imposed on a person in accordance with this section for the purpose of enforcing an obligation imposed on that person by an authorised officer in the exercise, in a Digital Services investigation, of any power conferred on the authorised officer by *section 139ZK*.
+
+(2) Where it appears to an authorised officer to be necessary to impose a daily payment penalty on a person, the authorised officer may give the person a notice in writing which—
+
+(*a*) specifies the obligation referred to in *subsection (1)* in respect of which the notice is given,
+
+(*b*) gives the person all relevant information relating to the obligation,
+
+(*c*) states the date by which the person must comply with the obligation,
+
+(*d*) states that, if the person fails to comply with the obligation by that date, the authorised officer intends to refer the matter to the Commission for a decision whether to impose a daily payment penalty on the person, for each day during which the failure continues, beginning with the day following that date,
+
+(*e*) states why it appears to the authorised officer to be necessary to impose the penalty,
+
+(*f*) states the maximum daily amount of the penalty that the Commission may impose, and
+
+(*g*) invites the person to make written submissions to the Commission regarding the matters to which the notice relates within the period specified in the notice or such further period as the Commission may allow.
+
+(3) The date specified under *subsection (2)(c)* may not be earlier than the date on which the notice under *subsection (2)* is given.
+
+(4) The amount of a penalty imposed under this section on a person for each day, during which the failure referred to in *subsection (2)(d)* continues, shall not exceed 5 per cent of the person’s average daily income or turnover in the preceding financial year.
+
+(5) Where it appears to an authorised officer that the person to whom a notice under *subsection (2)* has been given has failed to comply with the obligation specified in the notice by the date specified under *subsection (2)(c)*, the authorised officer may refer the matter to the Commission.
+
+(6) Where a matter is referred to the Commission under *subsection (5)* and it appears to the Commission, after considering any written submissions made by the person to whom the notice under *subsection (2)* was given within the period specified in accordance with *subsection (2)(g)*, that it is necessary to impose a daily payment penalty on the person for the purpose of enforcing the obligation specified in the notice, the Commission may—
+
+*(a)* determine the daily amount of the penalty to be imposed, and the date on which it is to commence, and
+
+*(b)* by notice in writing to the person, impose the penalty.
+
+(7) The functions of the Commission under this section (except this subsection) shall be exercised by a division of the Commission consisting of such uneven number of Commissioners, not being less than 3, as the Commission may determine.
+
+(8) If the person who gave the direction under *section 139ZI* for the investigation referred to in *subsection (1)* to be carried out is a Commissioner, the division exercising functions under this section shall not include that Commissioner.
+
+(9) A decision of the Commission to impose a daily payment penalty does not take effect unless it is confirmed on appeal under *section 139ZX* or on summary application under *section 139ZY*, as those sections apply in accordance with *section 139ZZAA*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F291: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 21, S.I. No. 53 of 2024.
+
+#### F292[139ZLB. Power to require intermediary service provider to take interim measures.
+
+**139ZLB**.— (1) Where in the course of a Digital Services investigation it appears to the Commission from information provided by an authorised officer—
+
+(*a*) that there is *prima facie* evidence—
+
+(i) that the inquiry subject has committed a contravention which is an infringement of the Digital Services Regulation, and
+
+(ii) that the contravention is continuing,
+
+(*b*) that the suspected contravention gives rise to a risk of serious harm occurring before a decision in relation to the suspected contravention could be made under *section 139ZS*, and
+
+(*c*) that measures could be taken by the inquiry subject that would avoid or reduce that risk,
+
+the Commission may, by notice in writing to the inquiry subject, require the inquiry subject to take those measures by a date stated in the notice.
+
+(2) A notice under *subsection (1)* shall—
+
+(*a*) state the suspected contravention,
+
+(*b*) state the grounds on which it appears to the Commission that there is *prima facie* evidence that the suspected contravention has occurred and is continuing, and
+
+(*c*) state the grounds on which it appears to the Commission that the suspected contravention gives rise to a risk of serious harm occurring before a decision in relation to the suspected contravention could be made under *section 139ZS*.
+
+(3) A notice under *subsection (1)* ceases to have effect on the earliest of the following to occur:
+
+(*a*) the taking of a decision under *section 139ZS* in relation to the suspected contravention;
+
+(*b*) the discontinuance of the investigation referred to in *subsection (1)*;
+
+(*c*) the revocation of the notice by the Commission.
+
+(4) The functions of the Commission under this section (except this subsection) shall be exercised by a division of the Commission consisting of such uneven number of Commissioners, not being less than 3, as the Commission may determine.
+
+(5) If the person who gave the direction under *section 139ZI* for the investigation referred to in *subsection (1)* to be carried out is a Commissioner, the division exercising functions under this section shall not include that Commissioner.
+
+(6) A person who, without reasonable excuse, fails to comply with a notice under *subsection (1)* shall be guilty of a category 1 offence.
+
+(7) Where an offence has been committed under *subsection (6)* by a body corporate and the offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, a person who was either a director, manager, secretary or other officer of the body corporate, or a person purporting to act in such capacity, that person, as well as the body corporate, shall be guilty of an offence and shall be liable to be proceeded against and punished as if he or she were guilty of the offence committed by the body corporate.
+
+(8) Where the affairs of a body corporate are managed by its members, *subsection (7)* applies in relation to the acts or defaults of a member in connection with his or her functions of management as if he or she were a director or manager of the body corporate.
+
+(9) Any proceedings, including summary proceedings, under *subsection (7)* shall not be instituted except by or with the consent of the Director of Public Prosecutions.
+
+(10) Without prejudice to *subsection (6)*, a person who fails to comply with a notice under *subsection (1)* may be liable to an administrative financial sanction in accordance with this Part.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F292: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 21, S.I. No. 53 of 2024.
+
+#### 139ZM. F293[Report of authorised officer.
+
+**139ZM**.— (1) As soon as is practicable after the completion of an investigation F294[pursuant to a direction under *section 139ZI(1)*], the authorised officer shall prepare a draft report of the investigation.
+
+(2) In preparing the draft report referred to in *subsection (1)*, the authorised officer shall consider, in so far as they are relevant to the investigation—
+
+(*a*) the terms of the investigation,
+
+(*b*) the notice under *section 139ZJ(1)*, and any response made by the F295[inquiry subject] to that notice under *section 139ZJ(3)*,
+
+(*c*) any relevant material or relevant equipment obtained in the course of the investigation in the exercise of powers under *section 139ZK*,
+
+(*d*) any statement or admission made by any person in the course of the investigation pursuant to a requirement, or during an oral hearing, under F295[*section 139ZK*,]
+
+(*e*) any submissions made by any person during an oral hearing under F295[*section 139ZK*,]
+
+F294[(*f*) in the case of a Digital Services investigation which is a joint investigation, anything of a similar nature to the material, equipment, statements, admissions and submissions referred to in *paragraphs (c)* to *(e)*, obtained by any participating Member State Digital Services Coordinator or other Member State competent authority, and
+
+(*g*) any views communicated by the European Commission under Article 59(3).]
+
+(3) The authorised officer shall, as soon as is practicable after preparing the draft report, give the F295[inquiry subject]—
+
+(*a*) a copy of the draft report,
+
+(*b*) a copy of any material relied upon by the authorised officer in preparing the draft report,
+
+(*c*) a copy of this section, and
+
+(*d*) a notice in writing stating that the F295[inquiry subject] may, not later than 28 days from the date on which it receives the notice, or such further period as the authorised officer considers necessary, make submissions in writing to the authorised officer on the draft report.
+
+(4) The authorised officer shall, as soon as is practicable after the expiration of the period referred to in *subsection (3)(d)*, and having considered any submissions made under that subsection, make any revisions to the draft report which, in the opinion of the authorised officer are warranted, and finalise the report.
+
+(5) An authorised officer shall not make any recommendation, or express any opinion, in a draft report under *subsection (1)* or in a final report under *subsection (4)*, as to whether an administrative financial sanction should be imposed under *section 139ZS* in the event that the Commission is satisfied that the F295[inquiry subject] has committed a contravention, or as to the amount of any such sanction imposed.
+
+(6) An authorised officer shall, as soon as is practicable after the draft report has been finalised under *subsection (4)*, provide a copy of the final report to the F295[and any views to which *subsection (7A)* applies to the inquiry subject.]
+
+(7) An authorised officer shall, as soon as is practicable after the draft report has been finalised under *subsection (4)*, provide a copy of the final report F295[any submissions made in accordance with a notice under *subsection (3)(d)*, and any views to which *subsection (7A)* applies], to the Commission.
+
+F294[(7A) This subsection applies, in the case of a report under this section, to—
+
+(*a*) any views communicated by the European Commission under Article 59(3) in relation to the matter to which the report relates, and
+
+(*b*) any views of Member State Digital Services Coordinators that Article 60(2) requires to be taken into account in relation to that matter.]
+
+(8) An authorised officer may provide a copy of the final report, F295[any submissions made in accordance with a notice under *subsection (3)(d)*, and any views to which *subsection (7A)* applies] to such other persons as he or she considers appropriate.
+
+F295[(9) A person who receives a final report or any submissions or views under *subsection (8)* shall not, without the prior authorisation of the Commission, disclose the existence or the content of the report or those submissions or views to any other person.]
+
+(10) A person who without reasonable excuse contravenes *subsection (9)* shall be guilty of a category 1 offence.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F293: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*.
+>
+> F294: Substituted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 22(a), (c)(i), (ii), (d), (e), (g), (h), S.I. No. 53 of 2024.
+>
+> F295: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 22(b), (c)(iii), (f), S.I. No. 53 of 2024.
+
+#### 139ZMA. Information about decision process following joint investigation to which Article 60 applies.
+
+F296[**139ZMA**.— In the case of an investigation pursuant to a direction under *section 139ZI(1)* which is a joint investigation to which Article 60 applies, the authorised officer shall, not later than the time when he or she provides a final report in compliance with *section 139ZM(6)*, inform the inquiry subject of the effect of *section 139ZSA*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F296: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 23, S.I. No. 53 of 2024.
+>
+> **Editorial Notes:**
+>
+> E32: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 139ZN. Rules.
+
+F297[**139ZN**.— F298[(1) Subject to the provisions of this Part and *Schedule 4*, the Commission may make rules providing for the conduct of investigations under this Chapter, the exercise of powers under *section 139ZK* as applied by *section 139ZKA*, and the conduct of its proceedings under *Chapters 3* and *4.*]
+
+F298[(2) In making rules under *subsection (1)*, the Commission shall have regard to the need for fairness and efficiency in the conduct of such investigations and proceedings and the exercise of such powers, in particular the need to address conflicts of interest which may arise in investigations or proceedings or the exercise of powers.]
+
+(3) The Commission shall publish rules made under *subsection (1)* on a website maintained by it.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F297: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under section 128C.
+>
+> F298: Substituted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 24(a)(b), S.I. No. 53 of 2024.
+
+#### 139ZO. Guidelines.
+
+F299[**139ZO**.— (1) The Commission may make guidelines with respect to the operation of this Chapter, *Chapters 3* and *4*, *Schedule 4* and any rules made under *section 139ZN*.
+
+(2) The Commission shall publish any guidelines made under this section, and any amendment to or revocation of those guidelines, on a website maintained by it.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F299: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*.
+
+#### 139ZP. Conduct of investigations.
+
+F300[**139ZP**.— (1) Subject to the provisions of this Part and *Schedule 4*, any rules made under *section 139ZN* and any guidelines made under *section 139ZO*, an authorised officer may follow such procedures for the F301[conduct of an investigation, or the exercise of powers under *section 139ZK* as applied by *section 139ZKA*] as he or she considers appropriate.
+
+(2) An authorised officer shall, in the conduct of an investigation, take reasonable steps to keep the F301[inquiry subject] informed as to the progress of the investigation.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F300: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*.
+>
+> F301: Substituted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 25(a), (b), S.I. No. 53 of 2024.
+
+### Chapter 3 — Decision of Commission
+
+#### F302[Division of Commission.
+
+**139ZQ**.— (1) The functions of the Commission under this Chapter (except this subsection), *Chapter 4* (except *sections 139ZY*, *139ZZ* and *139ZZA*), and *Schedule 4* shall, unless otherwise stated, be exercised by a division of the Commission consisting of such uneven number of Commissioners, not being less than 3, as the Commission may determine.
+
+(2) If the person who directed an investigation be carried out under *section 139ZI* is a Commissioner, the division exercising functions in relation to the investigation shall not include that Commissioner.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F302: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*.
+
+#### 139ZR. Action by Commission after receiving report.
+
+F303[**139ZR**.— (1) After the authorised officer has complied with *subsections (6)* and *(7)* of *section 139ZM* the Commission shall, subject to *subsection (2)*, give the F304[inquiry subject]—
+
+(*a*) a copy of this section, and
+
+F304[(*b*) a notice in writing stating that the inquiry subject may make submissions in writing to the Commission on the final report and any views to which *section 139ZM(7A)* applies within the period of 28 days from the date the inquiry subject receives the notice or views, or such further period as the Commission may allow.]
+
+(2) The Commission need not comply with *subsection (1)* if it holds an oral hearing under *subsection (3)* at which the F304[inquiry subject] may make submissions to it on F304[the final report and any views to which *section 139ZM(7A)* applies].
+
+(3) The Commission shall at any time after the authorised officer has complied with *subsections (6)* and *(7)* of *section 139ZM* conduct an oral hearing if it considers it necessary to do so in order for the procedures under this Part to operate fairly.
+
+(4) The Commission may, at any time after the authorised officer has complied with *subsections (6)* and *(7)* of *section 139ZM*, do any of the following that it considers necessary to resolve an issue of fact or otherwise enable it to make a decision under *section 139ZS*:
+
+(*a*) request the F304[inquiry subject] to provide the Commission with further information within such period as the Commission specifies;
+
+(*b*) request any other person to provide the Commission with further information within such period as the Commission specifies;
+
+(*c*) for the purposes of a request under *paragraph (b)* F305[or in an oral hearing under *paragraph (d)*], provide a copy of the final report, or of part of the final report, with any redactions the Commission considers necessary, to the person the request is made to;
+
+(*d*) conduct an oral hearing F305[in accordance with *Schedule 4*].
+
+(5) As soon as practicable after making a request under *subsection (4)(b)*, the Commission shall give the F304[inquiry subject] a copy of the request.
+
+(6) As soon as practicable after receiving any information pursuant to a request under *subsection (4)(b)*, the Commission shall give the F304[inquiry subject]—
+
+(*a*) a copy of the information, and
+
+(*b*) a notice in writing stating that the F304[inquiry subject] may make submissions in writing to the Commission on the information within the period of 20 working days from the date the F304[inquiry subject] receives the notice, or such further period as the Commission may allow.
+
+F305[(6A) Where, after the authorised officer has complied with *subsections (6)* and *(7)* of *section 139ZM*, the European Commission under Article 59(3) communicates its views and requests the matter to be reviewed, the Commission—
+
+(*a*) shall give the inquiry subject notice in writing of those views and the request, and
+
+(*b*) may, following the review, take any action that appears to it to be necessary to ensure compliance with the Digital Services Regulation, which may include referring the matter back to the authorised officer to reopen the investigation.
+
+(6B) Where an investigation is reopened in accordance with *subsection (6A)(b)*, this Part applies as if references to the final report on the investigation were references to the final report on the reopened investigation, but that does not affect anything done before the reopening of the investigation.]
+
+(7) A person who receives a copy of a report, or of part of a report, under *subsection (4)(c)* shall not, without the prior authorisation of the Commission, disclose the existence or the content of the report to any other person.
+
+(8) A person who without reasonable excuse—
+
+(*a*) fails to comply with a request for further information under *subsection (4)(a)* or *(b)*, or
+
+(*b*) contravenes *subsection (7)*,
+
+shall be guilty of a category 2 offence.
+
+(9) A person who, in purported compliance with a request for further information under *subsection (4)(a)* or *(b)*, gives to the Commission information which the person knows to be false or misleading in any material respect shall be guilty of a category 2 offence.
+
+F305[(9A) Without prejudice to *subsections (8)* and *(9)*, a person may be liable to an administrative financial sanction in accordance with this Part if, in a case where the report referred to in *subsection (1)(b)* relates to a Digital Services investigation, the person—
+
+(*a*) fails to comply with a request for further information under *subsection (4)(a)* or *(b)*,
+
+(*b*) in purported compliance with a request for further information under *subsection (4)(a)* or *(b)*, gives to the Commission information which the person knows to be false or misleading in any material respect, or
+
+(*c*) fails to rectify—
+
+(i) any failure on his or her part to comply with a request for further information under *subsection (4)(a)* or *(b)*, or
+
+(ii) any information which he or she has given to the Commission in purported compliance with a requirement under *subsection (4)(a)* or *(b)* and which is false or misleading in a material respect.]
+
+(10) A statement or admission made by a person pursuant to a request for further information under *subsection (4)(a)* or *(b)*, shall not be admissible in evidence in proceedings brought against the person for an offence, other than an offence under *subsection (9)*, and this shall be explained to the person in ordinary language by the Commission.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F303: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*.
+>
+> F304: Substituted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 26(a), (b), (c), S.I. No. 53 of 2024.
+>
+> F305: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 26(d)(i), (ii), (e), (f) S.I. No. 53 of 2024.
+
+#### 139ZS. Decision by Commission.
+
+F306[**139ZS**.— (1) The Commission shall decide, in respect of a F307[person] who is the subject of a report under *section 139ZM*—
+
+(*a*) whether or not it is satisfied on the balance of probabilities that the F307[person] has committed the contravention to which the investigation relates, and
+
+(*b*) if so, whether or not to impose an administrative financial sanction.
+
+(2) A decision under *subsection (1)* that a contravention has been committed, or that an administrative financial sanction shall be imposed, does not take effect unless it is confirmed on appeal under *section 139ZX* or on summary application under *section 139ZY*.
+
+(3) For the purposes of making a decision under *subsection (1)*, the Commission shall consider—
+
+F307[(*a*) the final report provided under *subsection (7)* of *section 139ZM* and any submissions or views provided with the report in accordance with that subsection,]
+
+(*b*) any evidence adduced or submissions made during an oral hearing conducted under *section 139ZR*,
+
+(*c*) any information provided as a result of a request under *section 139ZR(4)*, and
+
+(*d*) any submissions made pursuant to a notice under *subsection (1)* or *(6)* of *section 139ZR*.
+
+(4) F308[Other than where *subsection (4A)* applies, in deciding] under *subsection (1)(b)* whether or not to impose an administrative financial sanction on a F307[person], the Commission shall have regard to the matters referred to in *paragraphs (a)*, *(b)*, *(c)*, *(d)* *(e)*, *(g)*, *(h)*, *(i)*, *(j)* and *(k)* of *section 139ZW(3)*.]
+
+F309[(4A) Where a contravention falls within *paragraph (ba)* of the definition of "contravention" in *section 139ZG*, in deciding whether or not to impose an administrative financial sanction on a hosting service provider, the Commission shall have regard to all relevant circumstances, including the following:
+
+(*a*) the nature, gravity and duration of the contravention;
+
+(*b*) whether the contravention was intentional or negligent;
+
+(*c*) previous contraventions by the hosting service provider;
+
+(*d*) the financial strength of the hosting service provider;
+
+(*e*) the level of cooperation of the hosting service provider with the competent authorities designated pursuant to Article 12(1) of the Terrorist Content Online Regulation;
+
+(*f*) the nature and size of the hosting service provider, in particular whether it is a micro, small or medium-sized enterprise;
+
+(*g*) the degree of fault of the hosting service provider, taking into account the technical and organisational measures taken by the hosting service provider to comply with the Terrorist Content Online Regulation.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F306: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*.
+>
+> F307: Substituted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 27(a), (b), S.I. No. 53 of 2024.
+>
+> F308: Substituted (27.09.2024) by *Courts, Civil Law, Criminal Law and Superannuation (Miscellaneous Provisions) Act 2024* (30/2024), s. 21(a), S.I. No. 486 of 2024.
+>
+> F309: Inserted (27.09.2024) by *Courts, Civil Law, Criminal Law and Superannuation (Miscellaneous Provisions) Act 2024* (30/2024), s. 21(b), S.I. No. 486 of 2024.
+
+#### 139ZSA. Decision following joint investigation to which Article 60 applies.
+
+F310[**139ZSA**.— (1) A decision under *section 139ZS*, where the report referred to in *subsection (1)* of that section relates to a joint investigation to which Article 60 applies, constitutes the preliminary position referred to in that Article, and (subject to *subsections (5)* to *(7)*) *sections 139ZT*, *139ZU* and *139ZV* do not apply in relation to the decision.
+
+(2) As soon as is practicable after making a decision to which *subsection (1)* applies, the Commission shall give notice in writing of the decision to the inquiry subject.
+
+(3) A notice under *subsection (2)* shall—
+
+(*a*) set out the decision and the reasons for it, and
+
+(*b*) state the effect of *subsections (1)* and *(5)* to *(7)*.
+
+(4) Where the Commission makes a communication under Article 60(2) in relation to a decision to which *subsection (1)* applies, the Commission shall as soon as is practicable give the inquiry subject notice in writing that the communication has been made.
+
+(5) If in relation to a decision to which *subsection (1)* applies—
+
+(*a*) no referral is made under Article 60(3), or
+
+(*b*) following a referral, the European Commission does not make a request under Article 59(3) for the matter to be reviewed,
+
+the Commission shall adopt the decision as its final decision.
+
+(6) If, in relation to a decision to which *subsection (1)* applies, the European Commission makes a request under Article 59(3) for the matter to be reviewed, the Commission may, following the review and subject to Article 59(3), do any of the following:
+
+(*a*) adopt the decision as its final decision;
+
+(*b*) request a person authorised under *section 139ZI(2)* to give a direction under *subsection (1)* of that section for a new investigation;
+
+(*c*) take any other action that appears to the Commission to be necessary to ensure compliance with the Digital Services Regulation.
+
+(7) Where the Commission adopts a decision to which *subsection (1)* applies as its final decision, *sections 139ZT*, *139ZU* and *139ZV* shall apply in relation to the decision.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F310: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 28, S.I. No. 53 of 2024.
+>
+> **Editorial Notes:**
+>
+> E33: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 139ZT. Notice and publication of decision of Commission.
+
+F311[**139ZT**.— F312[(1) The Commission shall, as soon as is practicable after making a decision under *section 139ZS*, give notice in writing of the decision to the inquiry subject.]
+
+(2) The notice under *subsection (1)* shall set out the decision made and the reasons for it.
+
+(3) If the Commission decides that a contravention has occurred, the notice shall also—
+
+(*a*) state that the decision does not take effect unless it is confirmed on appeal under *section 139ZX* or on summary application under *section 139ZY,* and
+
+(*b*) state that, if the F312[inquiry subject] does not appeal under *section 139ZX*, the Commission will, as soon as is practicable after the expiration of the period for the making of an appeal referred to in *section 139ZX(1)*, make an application in a summary manner for confirmation of the decision under *section 139ZY.*
+
+(4) If the Commission decides to impose an administrative financial sanction, the notice shall also—
+
+(*a*) state that the F312[inquiry subject] may make submissions in relation to the application of *section 139ZW* to the determination of the amount of the sanction,
+
+(*b*) state either that—
+
+(i) those submissions may be made at an oral hearing, under *section 139ZU(2)(a)*, on a date specified in the notice, or
+
+(ii) that those submissions may be made in writing, under *section 139ZU(2)(b)*, within a period specified in the notice in accordance with that section,
+
+and
+
+(*c*) state that the Commission may request further information under *section 139ZU(3)*.
+
+(5) The Commission shall publish the decision made under *section 139ZS* on a website maintained by it and that publication shall include the following matters:
+
+(*a*) the name of the F312[inquiry subject];
+
+(*b*) the nature of the suspected contravention to which the investigation related;
+
+(*c*) the reasons for the decision;
+
+(*d*) such other particulars, reports or material as the Commission considers appropriate.
+
+F313[(5A) *Subsection (5)* does not apply to a decision where the suspected contravention falls within *paragraph (c)* of the definition of "contravention" in *section 139ZG*.
+
+(5B) Where the decision referred to in *subsection (1)* relates to a contravention falling within *paragraph (b)* or *(d)* of the definition of "contravention" in *section 139ZG*, the Commission shall provide a copy of the notice referred to in that subsection to
+
+(*a*) the European Commission,
+
+(*b*) the European Board for Digital Services, and
+
+(*c*) each Member State Digital Services Coordinator.]
+
+(6) The Commission may provide a copy of a notice referred to in *subsection (1)* to F312[any other person] where it considers it appropriate to do so.
+
+(7) A person who receives a copy of a notice under *subsection (6)* prior to the publication of the decision under *subsection (5)* shall not, without the prior authorisation of the Commission, disclose the existence or the content of the notice, including any content redacted in accordance with *subsection (9)* from a notice published under *subsection (5)*, to any other person.
+
+(8) A person who without reasonable excuse contravenes *subsection (7)* shall be guilty of a category 2 offence.
+
+(9) The Commission may, for the purposes of publication under *subsection (5)*, redact any particulars which appear to the Commission—
+
+(*a*) to be commercially sensitive, or
+
+(*b*) to relate to the commission of an offence.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F311: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*.
+>
+> F312: Substituted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 29(a), (b), (d), S.I. No. 53 of 2024.
+>
+> F313: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 29(c), S.I. No. 53 of 2024.
+
+### Chapter 4 — Administrative financial sanctions
+
+#### F314[139ZU. Submissions and requests for information.
+
+**139ZU**.— (1) *Subsections (2)* and *(3)* apply where the Commission has made a decision under *section 139ZS* to impose an administrative financial sanction on a F315[person].
+
+(2) The F315[person] may make submissions to the Commission in relation to the application of *section 139ZW* to the determination of the amount of the sanction—
+
+(*a*) at an oral hearing, where the Commission considers it necessary, or
+
+(*b*) otherwise, in writing, within the period of 10 working days from the date the F315[person] receives the notice under *section 139ZT*, or such longer period as the Commission may specify in the notice.
+
+F315[(3) Where a person makes submissions to the Commission under *subsection (2)(b)*, the Commission may by notice in writing request the person to provide, within a specified period, such further information as the Commission considers appropriate for the purposes of determining the amount of the sanction.]
+
+F315[(4) A person who—
+
+(*a*) without reasonable excuse fails to comply with a request under *subsection (3)*, or
+
+(*b*) in purported compliance with a request under *subsection (3)*, gives to the Commission information which the person knows to be false or misleading in any material respect,
+
+shall be guilty of a category 2 offence.]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F314: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*.
+>
+> F315: Substituted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 30(a),(b),(c), S.I. No. 53 of 2024.
+
+#### 139ZV. Determination of amount of administrative financial sanction.
+
+F316[**139ZV**.— (1) Where a decision has been made under *section 139ZS* to impose an administrative financial sanction, the Commission shall determine the amount of the sanction in accordance with *section 139ZW*.
+
+(2) The Commission shall make the determination as soon as practicable after—
+
+(*a*) where *section 139ZU(2)(a)* applies, the date of the oral hearing referred to in that paragraph, or
+
+(*b*) where *section 139ZU(2)(b)* applies, the expiry of the period or further period referred to in that paragraph, or if applicable the period specified in any notice under *section 139ZU(3)*,
+
+whether or not any submissions have been made or information provided.
+
+(3) As soon as practicable after making the determination, the Commission shall give the F317[inquiry subject] a notice in writing of the determination and the reasons for it.
+
+(4) As soon as practicable after giving the notice under *subsection (3)*, the Commission shall publish the notice on a website maintained by it.
+
+(5) The Commission may, for the purposes of publication under *subsection (4)*, redact any particulars from the notice which appear to the Commission—
+
+(*a*) to be commercially sensitive, or
+
+(*b*) to relate to the commission of an offence.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F316: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*.
+>
+> F317: Substituted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 31, S.I. No. 53 of 2024.
+
+#### 139ZW. Limitations on amount of administrative financial sanction.
+
+F318[**139ZW**.— F319[(1) In the case of a contravention falling within *paragraph (a)* of the definition of "contravention" in *section 139ZG*—
+
+(*a*) where the inquiry subject is an individual, the amount of an administrative financial sanction imposed under *section 139ZS* shall not exceed €20,000,000, but shall not be such as would be likely to cause the inquiry subject to be adjudicated bankrupt, and
+
+(*b*) where the inquiry subject is not an individual, the amount of an administrative financial sanction imposed under *section 139ZS* shall not exceed—
+
+(i) €20,000,000, or
+
+(ii) if greater, 10 per cent of the relevant turnover of the inquiry subject in the financial year preceding the date of the decision under *section 139ZS* to impose the sanction,
+
+but shall not be such as would be likely to cause the inquiry subject to cease trading.]
+
+F320[(1A) In the case of a contravention falling within *paragraph (b)* or *(d)* of the definition of "contravention" in *section 139ZG*, the amount of an administrative financial sanction imposed under *section 139ZS* shall not exceed 6 per cent of the turnover of the inquiry subject in the financial year preceding the date of the decision under *section 139ZS* to impose the sanction.]
+
+F321[(1AA) In the case of a contravention falling within *paragraph (ba)* of the definition of "contravention" in *section 139ZG* that amounts to, or is a result of, a systematic or persistent failure to comply with obligations under Article 3(3) of the Terrorist Content Online Regulation, an administrative financial sanction may be imposed under *section 139ZS* of up to 4 per cent of the global turnover of the inquiry subject in the financial year preceding the date of the decision under *section 139ZS* to impose the sanction.]
+
+F320[(1B) In the case of a contravention falling within *paragraph (c)* of the definition of "contravention" in *section 139ZG*, the amount of an administrative financial sanction imposed under *section 139ZS* shall not exceed one per cent of the income or turnover of the inquiry subject in the financial year preceding the date of the decision under *section 139ZS* to impose the sanction.]
+
+(2) In F319[*subsection (1)(b)(ii)*], “relevant turnover” means turnover F323[...] attributable to the service which gave rise to the contravention.
+
+(3) F324[Other than where *subsection (3A)* applies, the Commission] shall have regard to the following matters in determining the amount of the administrative financial sanction imposed under *section 139ZS*:
+
+(*a*) the nature, gravity and duration of the contravention;
+
+(*b*) the degree of harm to particular people or to the public caused as a result of the contravention;
+
+(*c*) the extent of any failure by the F319[inquiry subject] to co-operate with an investigation, provided that acknowledgement of a contravention shall not in itself constitute grounds for reduction of a sanction;
+
+(*d*) any explanation accepted by the Commission for the contravention or the failure to co-operate with an investigation;
+
+(*e*) any gain (financial or otherwise) made, or any loss (financial or otherwise) avoided, F319[by the inquiry subject, or by any other person in which the inquiry subject] has a pecuniary interest or beneficial interest, as a consequence of the contravention;
+
+(*f*) whether a previous decision under *section 139ZS* in respect of the F319[inquiry subject] has been confirmed or made by the appropriate court (within the meaning of *section 139ZX*) under *section 139ZX* or confirmed by the Circuit Court under *section 139ZY*;
+
+(*g*) the nature and timeliness of any steps taken by the F319[inquiry subject] to bring the contravention to an end, and any steps taken by the F319[inquiry subject] to remedy the consequences of the contravention;
+
+(*h*) the absence or ineffectiveness of internal mechanisms or procedures intended to prevent such a contravention;
+
+(*i*) the extent to which the contravention was contributed to by the act or omission of a third party, and the extent to which the F319[inquiry subject] took steps to identify, and mitigate the effect of, the act or omission;
+
+(*j*) the extent to which the contravention was contributed to by circumstances beyond the control of the F319[inquiry subject], and the extent to which the F319[inquiry subject] took steps to identify, and mitigate the effect of, those circumstances;
+
+(*k*) F319[in the case of a body corporate, the extent to which] the management of the F319[body] knew, or ought to have known, that the contravention was occurring or would occur;
+
+(*l*) the F319[income or turnover] of the F319[inquiry subject] in the financial years during which the contravention occurred and the ability of the F319[inquiry subject] to pay a sanction;
+
+F320[(*la*) any views communicated by the European Commission under Article 59(3) that are relevant to the amount of the sanction;]
+
+(*m*) any submissions made by the F319[inquiry subject] under *section 139ZU(2)* in relation to the determination of the amount of the sanction;
+
+(*n*) any further information given to the Commission by the F319[inquiry subject] in response to a request under *section 139ZU(3)*;
+
+(*o*) previous determinations under this section which have been confirmed or made by the appropriate court (within the meaning of *section 139ZX*) under *section 139ZX* or confirmed by the Circuit Court under *section 139ZY*.
+
+F322[(3A) In the case of a contravention falling within *paragraph (ba)* of the definition of "contravention" in *section 139ZG*, the Commission shall have regard to all relevant circumstances when determining the amount of the administrative financial sanction imposed under *section 139ZS*, including the following:
+
+(*a*) the nature, gravity and duration of the contravention;
+
+(*b*) whether the contravention was intentional or negligent;
+
+(*c*) previous contraventions by the hosting service provider;
+
+(*d*) the financial strength of the hosting service provider;
+
+(*e*) the level of cooperation of the hosting service provider with the competent authorities designated pursuant to Article 12(1) of the Terrorist Content Online Regulation;
+
+(*f*) the nature and size of the hosting service provider, in particular whether it is a micro, small or medium-sized enterprise;
+
+(*g*) the degree of fault of the hosting service provider, taking into account the technical and organisational measures taken by the provider to comply with the requirements of the Terrorist Content Online Regulation.]
+
+(4) The amount of an administrative financial sanction imposed under *section 139ZS* shall—
+
+(*a*) be proportionate to the nature of the contravention, and
+
+F319[(*b*) be set with a view to deterring the inquiry subject, and, where the inquiry subject is a F325[a hosting service provider or a provider] of broadcasting services, audiovisual on-demand media services, designated online services or intermediary services, other such providers, from committing a contravention.]
+
+(5) F323[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F318: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*.
+>
+> F319: Substituted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 32(a), (c)(i), (d)(i), (ii), (iii)(I), (II), (iv), (e), S.I. No. 53 of 2024.
+>
+> F320: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 32(b), (d)(v), S.I. No. 53 of 2024.
+>
+> F321, F322: Inserted (27.09.2024) by *Courts, Civil Law, Criminal Law and Superannuation (Miscellaneous Provisions) Act 2024* (30/2024), s. 22(a), (c), S.I. No. 486 of 2024.
+>
+> F323: Deleted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 32(c)(ii), (f), S.I. No. 53 of 2024.
+>
+> F324, F325: Substituted (27.09.2024) by *Courts, Civil Law, Criminal Law and Superannuation (Miscellaneous Provisions) Act 2024* (30/2024), s. 22(b), (d), S.I. No. 486 of 2024.
+
+#### 139ZX. Appeal against decision.
+
+F326[**139ZX**.— (1) The F327[inquiry subject] to whom a decision under *section 139ZS* relates may, within 28 days from the date on which the notice referred to in *section 139ZT* is received, or where *section 139ZV* applies, within 28 days from the date on which the notice referred to in *section 139ZV(3)* is received, appeal to the appropriate court against the decision.
+
+(2) F328[...]
+
+(3) The appropriate court may, on F327[the application of the inquiry subject], extend the period for the making of an appeal under *subsection (1)*, where it is satisfied that—
+
+(*a*) there is good and sufficient reason for doing so,
+
+(*b*) the circumstances that resulted in the failure to bring an appeal within the period referred to in *subsection (1)* were outside F327[the control of the inquiry subject], and
+
+(*c*) an application for confirmation has not been determined under *section 139ZY*.
+
+(4) In considering an appeal, the appropriate court—
+
+(*a*) shall have regard to the record of the decision the subject of the appeal, and
+
+(*b*) may, where it considers it necessary for the fair and proper determination of the appeal, consider any evidence adduced or submission made by the F327[inquiry subject] concerned, whether or not already adduced or made to the authorised officer or the Commission.
+
+(5) Subject to *subsection (7)*, the appropriate court may, on the hearing of an appeal under *subsection (1)*—
+
+(*a*) confirm the decision, or
+
+(*b*) subject to *subsection (6)*—
+
+(i) set aside the decision,
+
+(ii) set aside the decision and replace it with such other decision as the court considers it just and appropriate to make, including a decision not to impose an administrative financial sanction, or a decision to impose an administrative financial sanction of a different amount, or
+
+(iii) remit the decision for reconsideration by the Commission, subject to such directions as the court considers appropriate.
+
+(6) A decision of the Commission may not be set aside or remitted by the appropriate court under *subsection (5)(b)* for error of law or fact unless the appropriate court is satisfied that the Commission committed a serious and significant error in making the decision, or that the Commission committed a series of minor errors which, when taken together, amount to a serious and significant error.
+
+(7) For the purposes of *subsection (5)*, *sections 139ZS(4)* and *139ZW* shall apply to the appropriate court and references to the Commission in those sections shall be construed as references to the appropriate court.
+
+(8) Where the appropriate court is the Circuit Court it may make such interim or interlocutory orders in any proceedings under *subsection (1)* or *(3)* as it considers appropriate.
+
+(9) The appropriate court may direct how the costs of an appeal under this section are to be borne.
+
+(10) In this section, “appropriate court” means—
+
+(*a*) where no administrative financial sanction is imposed under *section 139ZS* or where the amount of any administrative financial sanction imposed does not exceed €75,000, or such other sum as stands specified in law as that court’s jurisdiction in tort, the Circuit Court, or
+
+(*b*) in any other case, the High Court.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F326: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*.
+>
+> F327: Substituted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 33(b), (c)(i), (ii), S.I. No. 53 of 2024.
+>
+> F328: Deleted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 33(a), S.I. No. 53 of 2024.
+
+#### 139ZY. Circuit Court confirmation of decision.
+
+F329[**139ZY**.— (1) Where the F330[inquiry subject] to whom a decision under *section 139ZS* relates does not appeal against the decision in accordance with *section 139ZX(1)*, the Commission shall, as soon as is practicable after the expiration of the period referred to in *section 139ZX(1)*, and on notice to the F330[inquiry subject], make an application in a summary manner to the Circuit Court for confirmation of the decision.
+
+(2) On the hearing of an application under *subsection (1)*, the Circuit Court shall confirm the decision unless it is satisfied, on the basis of the evidence that was before the Commission when making the decision—
+
+(*a*) that the Commission made an error of law which is—
+
+(i) manifest from the record of the decision, and
+
+(ii) fundamental so as to deprive the decision of its basis,
+
+or
+
+(*b*) that any administrative financial sanction imposed is manifestly disproportionate.
+
+(3) If under *subsection (2)* the Circuit Court does not confirm the decision it may—
+
+(*a*) annul the decision, or
+
+(*b*) remit it for reconsideration by the Commission, subject to such directions as it considers appropriate.
+
+(4) F330[The inquiry subject] may, as soon as practicable after receiving notice of the application under *subsection (1)*, inform the Commission in writing that it does not intend to appear at, or make submissions at, the hearing of the application.
+
+(5) If an application to extend the period for the making of an appeal against a decision is made under *section 139ZX(3)* to the High Court, the Circuit Court shall make an order staying any application under *subsection (1)* for the confirmation of that decision until the High Court has made a decision under *section 139ZX(3)*.
+
+(6) If the High Court makes an order under *section 139ZX(3)* extending the period for the making of an appeal under *section 139ZX(1)* against a decision, the Circuit Court shall make an order staying any application under *subsection (1)* for the confirmation of that decision until the High Court has made a decision on the appeal under *section 139ZX(5)*.
+
+(7) The Circuit Court may make such interim or interlocutory orders as it considers appropriate in any proceedings under *subsection (1)*.
+
+(8) The Circuit Court may direct how the costs of an application under *subsection (1)* are to be borne.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F329: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*.
+>
+> F330: Substituted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 34(a), (b), S.I. No. 53 of 2024.
+
+#### 139ZZ. Treatment of amounts paid in respect of administrative financial sanctions.
+
+F331[**139ZZ**.— A payment received by the Commission of any amount due to it pursuant to a decision confirmed or made under *section 139ZX* or confirmed under *section 139ZY* shall be paid into, or disposed of for the benefit of, the Exchequer in such manner as the Minister for Finance may direct.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F331: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*.
+
+#### 139ZZA. Reference on point of law to High Court.
+
+F332[**139ZZA**.— (1) Where a division of the Commission decides, before the making of a decision under *section 139ZS*, or where a decision is made under that section to impose an administrative financial sanction, before the making of a determination under *section 139ZV(1)*, to refer any question of law arising under *Chapter 3* or *4* to the High Court, the Commission shall refer the question.
+
+(2) Subject to *subsection (3)*, no appeal shall lie to the Court of Appeal from a decision of the High Court on a reference under *subsection (1)*.
+
+(3) The High Court may grant leave to appeal, where it certifies that its decision involves a point of law of exceptional public importance and that it is desirable in the public interest that an appeal should be taken to the Court of Appeal.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F332: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*.
+
+### Chapter 4A — Daily payment penalty under section 139ZLA: appeal and confirmation
+
+#### F333[139ZZAA. Daily payment penalty under section 139ZLA: appeal and confirmation.
+
+**139ZZAA**.— (1) A person to whom a notice under *section 139ZLA(6)* is given may, within 28 days from the date on which the notice is received, appeal to the High Court against the decision to impose the daily payment penalty.
+
+(2) *Subsections (3)* to *(7)* and *(9)* of *section 139ZX* apply for the purposes of an appeal under this section as they apply for the purposes of an appeal by the inquiry subject under that section subject to the following and any other necessary modifications:
+
+(*a*) references to an administrative financial sanction are references to a daily payment penalty under *section 139ZLA*;
+
+(*b*) references to the appropriate court are references to the High Court.
+
+(3) Where the person to whom a notice under *section 139ZLA(6)* is given does not appeal in accordance with *subsection (1)* against the decision to impose a daily payment penalty, the Commission shall, as soon as is practicable after the expiration of the period referred to in *subsection (1)*, and on notice to that person, make an application in a summary manner to the Circuit Court for confirmation of the decision.
+
+(4) *Section 139ZY(2)* to *(8)* apply for the purposes of an application under *subsection (3)* subject to the following and any other necessary modifications:
+
+(*a*) the reference to an administrative financial sanction is a reference to a daily payment penalty under *section 139ZLA*;
+
+(*b*) references to an appeal under *section 139ZX(1)* are references to an appeal under *subsection (1)* of this section;
+
+(*c*) references to *section 139ZY(1)* are references to *subsection (3)* of this section.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F333: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 35, S.I. No. 53 of 2024.
+
+### Chapter 5 — Notice to end contravention
+
+#### F334[139ZZB. Notice to end contravention.
+
+**139ZZB**.— (1) Where—
+
+(*a*) the Commission has decided under *section 139ZS* that it is satisfied that a contravention has occurred, and
+
+(*b*) the Commission’s decision in so far as it relates to the occurrence of the contravention is confirmed under *section 139ZX* or *139ZY* or is replaced under *section 139ZX* with a decision to the same effect,
+
+the Commission may, if it is of the view that the contravention is continuing, give notice in writing to the F335[the inquiry subject directing the inquiry subject] to put an end to the contravention.
+
+(2) A notice under *subsection (1)* shall state—
+
+(*a*) the steps which the Commission requires the F335[inquiry subject] to take to put an end to the contravention, and
+
+(*b*) the period within which those steps must be taken.
+
+(3) A notice under *subsection (1)* shall be given as soon as practicable after the date on which the decision is confirmed under *section 139ZX* or *139ZY* or is replaced under *section 139ZX* with a decision to the same effect.
+
+(4) A F335[person] who without reasonable excuse fails to comply with a notice under *subsection (1)* shall be guilty of a category 1 offence.
+
+(5) Where an offence has been committed under *subsection (4)* F335[by a body corporate] and the offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, a person who was either a director, manager, secretary or other officer of the body corporate, or a person purporting to act in such capacity, that person, as well as the body corporate, shall be guilty of an offence and shall be liable to be proceeded against and punished as if he or she were guilty of the offence committed by the body corporate.
+
+(6) Where the affairs of a body corporate are managed by its members, *subsection (5)* applies in relation to the acts or defaults of a member in connection with his or her functions of management as if he or she were a director or manager of the body corporate.
+
+(7) Any proceedings, including summary proceedings, under *subsection (5)* shall not be instituted except by or with the consent of the Director of Public Prosecutions.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F334: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*.
+>
+> F335: Substituted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 36(a),(b),(c),(d), S.I. No. 53 of 2024.
+
+#### 139ZZBA. Daily payment for failure to comply with notice to end contravention.
+
+F336[**139ZZBA**.— (1) Where the Commission gives a notice under *section 139ZZB* to an intermediary service provider in respect of a contravention that is an infringement of the Digital Services Regulation, the Commission may, for the purpose of enforcing the notice, impose a penalty of a daily payment (in this section referred to as a "daily payment penalty") on the provider.
+
+(2) Before the Commission makes a decision to impose a daily payment penalty on a provider, the Commission shall give the provider a notice in writing which—
+
+(*a*) states that if the provider fails to take the steps stated under *section 139ZZB(2)(a)* by a date specified in the notice under this subsection, the Commission intends to impose a daily payment penalty on the provider for each day during which the failure continues, beginning with the day following that date,
+
+(*b*) states why it appears to the Commission to be necessary to impose the penalty,
+
+(*c*) states the maximum daily amount of the penalty that the Commission may impose, and
+
+(*d*) invites the provider to make written submissions to the Commission, regarding the matters to which the notice relates within the period specified in the notice or such further period as the Commission may allow.
+
+(3) The date specified under *subsection (2)(a)*—
+
+(*a*) may not be earlier than the end of the period specified under *section 139ZZB(2)(b)*, and
+
+(*b*) may not be earlier than the date on which the notice under *subsection (2)* is given.
+
+(4) The amount of a penalty imposed under this section shall not exceed, for each day during which the failure referred to in *subsection (2)(a)* continues, 5 per cent of the provider’s average daily turnover in the preceding financial year.
+
+(5) Where the intermediary service provider fails to take the steps stated under *section 139ZZB(2)(a)* by the date specified in the notice under *subsection (2)*, the Commission, after considering any written submissions made by the provider within the period referred to in *subsection (2)(d)*, may—
+
+(*a*) determine the daily amount of the penalty to be imposed, and the date on which it is to commence, and
+
+(*b*) by notice in writing to the provider, impose the penalty.
+
+(6) A decision of the Commission to impose a daily payment penalty under this section does not take effect unless it is confirmed on appeal under *section 139ZX* or on summary application under *section 139ZY*, as those sections apply in accordance with *section 139ZZBB*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F336: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 37, S.I. No. 53 of 2024.
+
+#### 139ZZBB. Daily payment penalty under section 139ZZBA: appeal and confirmation.
+
+F337[**139ZZBB**.— (1) The provider to whom a notice under *section 139ZZBA(5)* is given may, within 28 days from the date on which the notice is received, appeal to the High Court against the decision to impose the daily payment penalty.
+
+(2) *Subsections (3)* to *(7)* and *(9)* of *section 139ZX* apply for the purposes of an appeal by a provider under this section, as they apply for the purposes of an appeal by the inquiry subject under *subsection (1)* of that section, subject to the following and any other necessary modifications:
+
+(*a*) references to an administrative financial sanction are references to a daily payment penalty under *section 139ZZBA*;
+
+(*b*) references to the appropriate court are references to the High Court.
+
+(3) Where the provider to whom a notice under *section 139ZZBA(5)* is given does not appeal in accordance with *subsection (1)* against the decision to impose a daily payment penalty, the Commission shall, as soon as is practicable after the expiration of the period referred to in *subsection (1)*, and on notice to the provider, make an application in a summary manner to the Circuit Court for confirmation of the decision.
+
+(4) *Section 139ZY(2)* to *(8)* apply for the purposes of an application under *subsection (3)* subject to the following and any other necessary modifications:
+
+(*a*) references to an appeal under *section 139ZX(1)* are references to an appeal under *subsection (1)* of this section;
+
+(*b*) references to *section 139ZY(1)* were references to *subsection (3)* of this section.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F337: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 37, S.I. No. 53 of 2024.
+
+### Chapter 6 — Access blocking order
+
+#### F338[139ZZC. Access blocking order.
+
+**139ZZC**.— (1) The Commission may apply to the High Court for an order requiring an internet service provider or a provider of an application store service to block access in the State to a relevant online service or an audiovisual on-demand media service.
+
+(2) An application to the High Court under *subsection (1)* shall be made on notice—
+
+(*a*) to the internet service provider or the provider of an application store service concerned, and
+
+(*b*) to the provider of the relevant online service or audiovisual on‑demand media service concerned.
+
+(3) The court may make an order requiring the blocking of access to a relevant online service if it is satisfied that the provider of the service has actual knowledge that it is making available content that falls within one of the offence-specific categories of harmful online content defined in *section 139A(2)* and either—
+
+(*a*) where the service is a designated online service—
+
+(i) the content is made available in contravention of an online safety code which applies to the service, and
+
+(ii) the provider has been convicted of an offence under *section 139ZZB(4)* for failure to comply with a notice to end the contravention,
+
+or
+
+(*b*) where the Commission has designated the service but the designation has not taken effect as notice of the designation has not been served on the provider in accordance with *section 139H(3)(a)*—
+
+(i) making available the content would be a contravention of an online safety code which the Commission intends to apply to the service, and
+
+(ii) the failure to serve notice of the designation on the provider is due to the fault of the provider.
+
+(4) The court may make an order requiring the blocking of access to an audiovisual on-demand media service if it is satisfied that—
+
+(*a*) the provider of the service has actual knowledge that it is making anything referred to in *paragraph (b)*, *(c)* or *(d)* of *section 46J(1)* available in a catalogue of the service, and
+
+(*b*) the provider has been convicted of an offence under *section 139ZZB(4)*, for failure to comply with a notice to end the contravention referred to in *paragraph (a)*.
+
+(5) An order may be made under this section if—
+
+(*a*) the application under *subsection (1)* was made as soon as practicable after the provider concerned was convicted of the offence referred to in *subsection (3)(a)(ii)*, or *(4)(b)*, or as soon as practicable after the failure referred to in *subsection (3)(b)(ii)* occurred, as the case may be, and
+
+(*b*) the order would not be disproportionate.
+
+(6) The High Court may provide in an order under this section that a requirement imposed by the order is subject to such conditions as it considers necessary.
+
+(7) The following persons may apply to the High Court to vary or discharge an order under this section in the event that there is any material change in the circumstances which gave rise to the order:
+
+(*a*) the internet service provider or provider of an application store service the subject of the order;
+
+(*b*) the provider of a service access to which is required to be blocked under the order.
+
+(8) Without prejudice to *subsection (7)*, the High Court may, on an application under that subsection or of its own motion, discharge an order under this section if it is satisfied that—
+
+(*a*) where the order was made on grounds falling within *subsection (3)(a)(ii)* or *(4)(b)*, the provider of the service has complied with the notice to end the contravention concerned, or
+
+(*b*) where the order was made on grounds falling within *subsection (3)(b)*, the relevant online service, access to which is required to be blocked under the order, has been designated as a designated online service.
+
+(9) In this section, references to a provider of an application store service blocking access to a service include references to the provider blocking the downloading of software used to provide the service or to access the service.
+
+(10) For the purposes of this section:
+
+“internet service provider” means a person who provides access to the internet at endpoints of the internet (including, for example, on a smartphone);
+
+“provider of an application store service” means a person who provides a service the main purpose of which is to facilitate the download of, or access to, application software at endpoints of the internet.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F338: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*.
+
+### Chapter 6A — Access blocking order where Digital Services Regulation infringed
+
+#### F339[139ZZCA. Further notice to end infringement of Digital Services Regulation.
+
+**139ZZCA**.— (1) Where the Commission has given a notice under *section 139ZZB* to an intermediary service provider in respect of a contravention that is an infringement of the Digital Services Regulation, and it appears to the Commission that—
+
+(*a*) the provider has failed to comply with the notice within the period specified under *section 139ZZB(2)*,
+
+(*b*) the contravention is continuing,
+
+(*c*) the other powers of the Commission pursuant to Article 51 to put an end to the contravention have been exhausted, and
+
+(*d*) the contravention is causing serious harm that cannot be avoided through the exercise of other powers,
+
+the Commission may, by notice in writing to the provider, request the management body of the provider to consider the steps required by the notice under *section 139ZZB* and to propose what steps the provider should now be required to take to put an end to the contravention, and within what period.
+
+(2) A notice under *subsection (1)* shall state the time within which the management body must comply with the request.
+
+(3) Where the management body of a provider makes a proposal in accordance with a notice under *subsection (1)*, the Commission may give a further notice in writing to the provider directing the provider to put an end to the contravention referred to in *subsection (1)* and stating—
+
+(*a*) the steps which the Commission requires the provider to take to put an end to the contravention, and
+
+(*b*) the period within which those steps must be taken.
+
+(4) *Section 139ZZB(4)* to *(7)*, and *sections 139ZZBA* and *139ZZBB*, apply in relation to a notice under *subsection (3)* as they apply in relation to a notice under *section 139ZZB*.
+
+(5) The giving of a notice under *subsection (3)* does not affect the application of *section 139ZZB(4)* to *(7)*, *139ZZBA* or *139ZZBB* in relation to the earlier notice under *section 139ZZB*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F339: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 38, S.I. No. 53 of 2024.
+
+#### 139ZZCB. Access blocking order in case of infringement of Digital Services Regulation.
+
+F340[**139ZZCB**.— (1) Where—
+
+(*a*) the management body of an intermediary service provider fails to make a proposal in accordance with a notice under *section 139ZZCA(1)*,
+
+(*b*) the Commission gives an intermediary service provider a notice under *subsection (3)* of *section 139ZZCA*, and the period referred to in *paragraph (b)* of that subsection expires without the Commission being satisfied that the contravention has ended, or
+
+(*c*) the European Commission makes a request to the Commission pursuant to Article 82(1) in respect of the provider of a very large online platform or very large online search engine,
+
+the Commission may apply to the High Court for an order requiring a relevant intermediary service provider (referred to in this section as the provider of the "carrying service") to block access in the State to an intermediary service (referred to in this section as the "subject service") provided by the provider referred to in *paragraph (a)*, *(b)* or *(c)*.
+
+(2) An application under *subsection (1)* shall be made on notice to—
+
+(*a*) the provider of the carrying service,
+
+(*b*) the provider of the subject service, and
+
+(*c*) any other person appearing to the Commission to have a legitimate interest.
+
+(3) Where *paragraph (a)* of *subsection (1)* applies, the Commission shall, before making an application under that subsection, give notice in writing to the persons referred to in *subsection (2)*——
+
+(*a*) stating that it intends to make an application under *subsection (1)*,
+
+(*b*) setting out the order it intends to apply for and the addressees of that order, and
+
+(*c*) stating that the persons to whom the notice is given may submit written observations to the Commission within a period specified in the notice of not less than 10 working days beginning with the day on which the notice is received.
+
+(4) Where the Commission gives notice under *subsection (3)*, no application under *subsection (1)* may be made before the end of the period specified under *subsection (3)(c)*.
+
+(5) On an application under *subsection (1)* the court may make an order requiring the blocking of access to the subject service if it is satisfied in relation to the relevant infringement—
+
+(*a*) that the infringement is continuing,
+
+(*b*) that the infringement entails a criminal offence involving a threat to the life or safety of persons,
+
+(*c*) where *subsection (1)(a)* or *(b)* applies, that all reasonable steps for the Commission to take to put an end to the infringement have been taken, and
+
+(*d*) that, having regard to the nature, gravity, recurrence and duration of the infringement, an order under this section is proportionate and will not unduly restrict access to lawful information by users of the subject service.
+
+(6) The High Court may provide in an order under this section that a requirement imposed by the order is subject to such conditions as it considers necessary.
+
+(7) Subject to *subsection (8)*, an order under this section shall have effect for a period of not more than 28 days.
+
+(8) The High Court may provide that the Commission may with leave of the court extend the period for which an order under this section has effect for further periods of not more than 28 days, subject to the maximum number of extensions specified by the court.
+
+(9) The Commission may make an application, in accordance with *subsection (8)*, for leave to extend the period for which an order under this section has effect only if, having regard to the rights and interests of all those affected by the order, it considers that—
+
+(*a*) the provider has failed to take the necessary measures to put an end to the relevant infringement, and
+
+(*b*) the extension will not unduly restrict access to lawful information by users of the subject service, having regard to the number of recipients affected and whether any adequate and readily accessible alternative exists.
+
+(10) Where in relation to an order under this section—
+
+(*a*) no application, or no further application, may be made in accordance with *subsection (8)* for leave to extend the period for which the order has effect, but
+
+(*b*) having regard to the rights and interests of all those affected by the order, the Commission considers that the conditions referred to in *subsection (9)(a)* and *(b)* are satisfied,
+
+the Commission may make a further application under *subsection (1)*.
+
+(11) The provider of the carrying service or the subject service may apply to the High Court to vary or discharge an order under this section in the event that there is any material change in the circumstances which gave rise to the order.
+
+(12) In this section, references to the provider of the carrying service blocking access to the subject service, where the carrying service is an application store service, include references to the provider of the carrying service blocking the downloading of software used to provide the subject service or to access the subject service.
+
+(13) In this section—
+
+“application store service” means a service the main purpose of which is to facilitate the download of, or access to, application software at endpoints of the internet;
+
+“relevant infringement” means—
+
+(*a*) where *subsection (1)(a)* or *(b)* applies, the contravention referred to in *section 139ZZCA(1)*, and
+
+(*b*) where *subsection (1)(c)* applies, the infringement to which the request by the European Commission relates.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F340: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 38, S.I. No. 53 of 2024.
+
+### Chapter 7 — Content limitation notice
+
+#### F341[139ZZD. Content limitation notice.
+
+**139ZZD**.— (1) Subject to *subsection (2)*, where it appears to the Commission, either in the course of an investigation under this Part or otherwise, that content available on a designated online service is harmful online content, the Commission may give a notice in writing to the provider of the designated online service—
+
+(*a*) where the content appears to the Commission to fall within the offence-specific category of harmful online content defined in *section 139A(2)*, requiring the provider to remove it or to disable access to it, or
+
+(*b*) in any other case, requiring the provider to remove the content, to disable access to it, or to limit the availability of it.
+
+(2) Where *subsection (1)* applies in the course of the investigation of a suspected contravention that relates to the content concerned, the Commission—
+
+(*a*) shall not issue a notice under *subsection (1)* before it has made a decision under *section 139ZS*, and
+
+(*b*) if the decision under that section is that the contravention has occurred, shall not issue a notice under *subsection (1)* before the decision, in so far as it relates to the occurrence of the contravention, is confirmed under *section 139ZX* or *139ZY* or is replaced under *section 139ZX* with a decision to the same effect.
+
+(3) In issuing a notice under *subsection (1)*, the Commission shall have regard to the following matters:
+
+(*a*) the nature and the scale of the service or services provided by the provider;
+
+(*b*) the technical capacity of the provider;
+
+(*c*) levels of risk of harm, and in particular harm to children, from the availability of the content or exposure to it;
+
+(*d*) the rights of the provider and users of the designated online service, and of the uploader of the content;
+
+(*e*) the rights of persons to whom the content may pertain;
+
+(*f*) the proportionality of any requirement contained in the notice, in light of the matters referred to in *paragraphs (a)* to *(e)*.
+
+(4) Where a notice under *subsection (1)* requires that the availability of an item of content be limited, the notice may also, without prejudice to the generality of *subsection (1)*, require one or more of the following:
+
+(*a*) that the provider restrict access to the content to persons who have attained the age of 18 years, or such other age less than 18 years as the Commission may specify;
+
+(*b*) that a warning or specified information be placed by the provider with the content in a way specified in the notice;
+
+(*c*) that the provider limit the ability of users of the designated online service to interact with the content;
+
+(*d*) that the provider ensure that prominence is not given to the content, or the content is not recommended to users of the designated online service, or to users below a specified age, including by automated means.
+
+(5) A notice under *subsection (1)* shall not impose an obligation on a provider contrary to F342[Article 8 of the Digital Services Regulation].]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F341: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*.
+>
+> F342: Substituted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 39, S.I. No. 53 of 2024.
+
+#### 139ZZE. Procedure in relation to content limitation notice.
+
+F408[**139ZZE**.— (1) A notice under *section 139ZZD(1)* shall—
+
+(*a*) identify the content the subject of the notice,
+
+(*b*) state the particular category of harmful online content under *section 139A* into which the Commission considers that the content falls, and the reasons for that consideration,
+
+(*c*) provide sufficient information to allow the provider to locate the content on the designated online service,
+
+(*d*) specify the action required by the Commission under *section 139ZZD(1)* and the reasons for that action,
+
+(*e*) where the action required by the Commission under *section 139ZZD(1)* is that the availability of the content be limited, specify the nature of the limitation,
+
+(*f*) identify the geographical area within which the action required by the Commission under *section 139ZZD(1)* must be taken, and
+
+(*g*) state that the provider, and the uploader where relevant, may make submissions in relation to the notice within such period as may be specified in the notice, which shall not be less than 28 days after the date on which the notice is issued.
+
+(2) A provider who receives a notice under *section 139ZZD(1)* shall, where the content is user-generated content, take all reasonable steps to provide a copy of that notice and a copy of this section to the uploader of the content within 2 days of receiving it.
+
+(3) The provider shall inform the Commission of all steps taken by the provider in order to comply with *subsection (2)* and the Commission may direct—
+
+(*a*) that such further steps as the Commission considers necessary for the purposes of complying with *subsection (2)* be taken by the provider, within such period as the Commission considers appropriate, or
+
+(*b*) that no further steps are necessary.
+
+(4) Where a provider receives a notice under *section 139ZZD(1)*, the provider may make submissions to the Commission in relation to the notice within the period specified in the notice, or within such further period as the Commission may allow.
+
+(5) Where an uploader receives a copy of the notice under *subsection (2)*, the uploader may make submissions to the Commission in relation to the notice within the period specified in the notice, or within such further period as the Commission may allow.
+
+(6) Submissions may be made under *subsection (4)* or *(5)* in relation to—
+
+(*a*) whether or not the content the subject of the notice is harmful online content (provided that issue has not been determined by the Commission in a decision under *section 139ZS*, or by the court under *section 139ZX* or *139ZY*), and
+
+(*b*) the requirements set out in the notice.
+
+(7) The Commission, after considering any submissions made under *subsections (4)* and *(5)* and, having regard to the matters referred to in *section 139ZZD(3)*, shall—
+
+(*a*) confirm the notice after making such amendments, if any, as it considers necessary, and specify the period within which the provider must comply with the notice, or
+
+(*b*) revoke the notice.
+
+(8) If the Commission confirms the notice under *subsection (7)(a)*, it shall provide to the provider and (if applicable) the uploader a copy of the notice, or of the notice as amended, and a statement in writing—
+
+(*a*) of the confirmation and the reasons for it,
+
+(*b*) of the reasons for any amendment made to the notice,
+
+(*c*) of the period determined under *subsection (7)(a)* within which the provider must comply with the notice, and
+
+(*d*) of the right of the provider or (if applicable) the uploader to appeal the notice in accordance with *section 139ZZF*.
+
+(9) A provider who without reasonable excuse fails to comply with a notice confirmed under *subsection (7)(a)* within the period specified under that paragraph, shall be guilty of a category 3 offence.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F273: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*.
+
+#### 139ZZF. Appeal.
+
+F343[**139ZZF**.— (1) The provider of a designated online service or the uploader of user‑generated content concerned may within 28 days of receipt of a notice confirmed under *section 139ZZE(7)(a)*, appeal to the Circuit Court against the notice.
+
+(2) The Circuit Court, where it considers that the Commission was irrational or erroneous in its reasoning, or committed a failure to comply with fair procedures, or any other clear error of law, in the issuing of the notice referred to in *subsection (1)*, may—
+
+(*a*) set aside the notice,
+
+(*b*) replace the notice with such other notice as it considers appropriate, or
+
+(*c*) remit the notice for reconsideration by the Commission, with such directions as the court considers appropriate.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F343: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*.
+
+#### 139ZZG. Publication of content limitation notice.
+
+F344[**139ZZG**.— (1) The Commission shall publish the following on a website maintained by it:
+
+(*a*) a notice which has been confirmed under *section 139ZZE(7)(a)*;
+
+(*b*) a notice of a decision by the Circuit Court under *section 139ZZF(2)* to affirm, set aside, replace or remit a notice confirmed under*section 139ZZE(7)(a)*.
+
+(2) The Commission shall publish a list of the notices referred to in *subsection (1)*, in such form as it considers appropriate, on a website maintained by it.
+
+(3) The Commission may redact information from a notice to be published under *subsection (1)* if it appears to the Commission that—
+
+(*a*) the publication of the information may prejudice an ongoing investigation under this Part by the Commission, the Garda Síochána or any other public body, or
+
+(*b*) the information is personal data.
+
+(4) Where the redaction of information under *subsection (3)* would prevent the remainder of the notice, or a portion of the notice, being understood, the Commission may publish a summary in place of the notice or the portion of the notice.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F344: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*.
+
+### Chapter 7A — Other enforcement measures
+
+#### F345[139ZZGA. Compliance notice.
+
+**139ZZGA**.— (1) Where a person authorised by the Commission under *subsection (2)* is of the opinion that a relevant intermediary service provider has infringed a provision of the Digital Services Regulation to which this section applies, that person may direct an authorised officer to serve a notice (in this section referred to as a "compliance notice") on the provider.
+
+(2) The Commission may authorise any Commissioner or member of its staff for the purposes of *subsection (1)*.
+
+(3) A compliance notice shall—
+
+(*a*) state the contravention to which it relates,
+
+(*b*) state the grounds on which the person authorised under *subsection (2)* is of the opinion referred to in *subsection (1)*,
+
+(*c*) for the purpose of ensuring compliance by the provider with the provision which is the subject of the contravention, require the provider to do or refrain from doing anything specified in the notice by a date specified in the notice, and
+
+(*d*) contain information regarding the bringing of an appeal under *subsection (7)* against the notice, including information specifying the manner in which an appeal may be brought.
+
+(4) An authorised officer may withdraw a compliance notice at any time.
+
+(5) An authorised officer may amend a compliance notice by notice in writing to the provider to substitute any later date for the date for the time being specified under *subsection (3)(c)* or this subsection.
+
+(6) A date specified under *subsection (3)(c)* or (*5)* must be later than the date by which an appeal under *subsection (7)* may be brought.
+
+(7) A provider may, not later than 14 days after the service on the provider of a compliance notice, appeal against the notice to the District Court.
+
+(8) An appeal under *subsection (7)* shall be brought in the manner specified in accordance with *subsection (3)(d)*.
+
+(9) The authorised officer and the provider concerned shall be entitled to be heard and to adduce evidence at the hearing of an appeal under *subsection (7)*.
+
+(10) The District Court shall, on an appeal under *subsection (7)* against a compliance notice, do one of the following:
+
+(*a*) affirm the notice;
+
+(*b*) cancel the notice;
+
+(*c*) cancel the notice and require the provider to comply with such directions as may be given by the court.
+
+(11) A provider on whom a compliance notice is served, who fails to comply with the notice by the due date, shall be guilty of an offence and liable on summary conviction to a class B fine or imprisonment for a term not exceeding 6 months or both.
+
+(12) The due date for the purposes of *subsection (11)* is:
+
+(*a*) where no appeal is brought under *subsection (7)*, the date for the time being specified in the compliance notice in accordance with *subsection (3)(c)* or *(5)*;
+
+(*b*) where an appeal against the notice is brought under *subsection (7)* and the court affirms the notice, the day falling immediately after the expiration of the period of 14 days from the date on which the court affirms the notice.
+
+(13) Nothing done under this section prevents or restricts the taking of any other action for the purpose of enforcing a provision to which this section applies.
+
+(14) This section applies to Articles 11, 12, 13(4), 14(1), (2), (5) and (6), 15(1), 16(1), 21(1) and (4), 24(2), 25 and 26(1)(a), (b), (c) and (d).]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F345: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 40, S.I. No. 53 of 2024.
+
+#### 139ZZGB. Power to enter into commitment agreement with intermediary service provider.
+
+F346[**139ZZGB**.— (1) The Commission may at any time enter into an agreement in writing with a relevant intermediary service provider under which the provider agrees to take measures that appear to the Commission to address any issue relating to compliance by the provider with the designated provisions of the Digital Services Regulation.
+
+(2) An agreement under this section is referred to in this section as a “commitment agreement”.
+
+(3) A commitment agreement may include provision under which the Commission agrees, subject to the terms of the agreement, not to take specified steps in relation to matters or findings addressed by the agreement.
+
+(4) A commitment agreement, unless terminated under *subsection (5)* or *(6)*, is binding on the parties for the period specified in the agreement.
+
+(5) A commitment agreement may be amended or terminated by the parties by agreement in writing.
+
+(6) The Commission may terminate a commitment agreement by giving notice in writing to the provider if—
+
+(*a*) the provider does not comply with the agreement, or
+
+(*b*) it appears to the Commission that information provided by the provider and relied on by the Commission for the purposes of entering into the agreement was, in a material respect, incomplete, misleading or false.
+
+(7) A provider who fails to comply with a commitment agreement may be liable to an administrative financial sanction in accordance with this Part.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F346: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 40, S.I. No. 53 of 2024.
+
+### Chapter 8 — Offences
+
+#### F273[139ZZH. Categories of offences.
+
+**139ZZH**.— (1) A person guilty of an offence under this Act that is stated to be a category 1 offence shall be liable—
+
+(*a*) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months or both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €500,000 or imprisonment for a term not exceeding 10 years or both.
+
+(2) A person guilty of an offence under this Act that is stated to be a category 2 offence shall be liable—
+
+(*a*) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months or both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €50,000 or imprisonment for a term not exceeding 5 years or both.
+
+(3) A person guilty of an offence under this Act that is stated to be a category 3 offence shall be liable, on summary conviction, to a class A fine.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F273: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+#### 139ZZI. Summary prosecution and costs.
+
+F347[**139ZZI**. (1) Summary proceedings for an offence under this Act may be brought and prosecuted by the Commission.
+
+(2) Notwithstanding (in the case of a category 3 offence) section 10(4) of the Petty Sessions (Ireland) Act 1851, summary proceedings for an offence under this Act may be instituted—
+
+(*a*) at any time within 2 years from the date on which the offence was alleged to have been committed, or
+
+(*b*) if, at the expiry of that period, the person against whom the proceedings are to be brought is outside the State, within 6 months of the date on which he or she next enters the State,
+
+provided that no such proceedings shall be commenced later than 5 years from the date on which the offence concerned was alleged to have been committed.
+
+(3) Where a person is convicted of an offence under this Act, the court may, where it is satisfied that there are good reasons for so doing, order the person to pay the costs and expenses, measured by the court, incurred by the Commission in relation to the investigation, detection and prosecution of the offence, including the costs and expenses of and incidental to an examination of any information provided to the Commission or an authorised officer.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F347: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 47, S.I. No. 71 of 2023, other than insofar as it relates to a failure to comply with *section 128B(1)* or *(2)* or any rules made under *section 128C*.
+
+## PART 9 Television Licence — PART 9 — Television Licence
+
+### 140. Definitions (Part 9) — order — “specified place”.
+
+**140**.— (1) In this Part—
+
+“apartment” means a self-contained residential unit in a building that comprises a number of such units;
+
+“issuing agent” has the meaning assigned to it by *section 145 (1)*;
+
+“officer of an issuing agent” means a person appointed as an officer of an issuing agent under *section 146 (1)*;
+
+“premises” means land, a vehicle, a structure of any kind whether attached or affixed to the land or not and includes a part of a building occupied as a separate dwelling whether or not the occupier with any other person shares any portion of it or any accommodation, amenity or facility in connection with it;
+
+“prescribed” means prescribed by regulations made by the Minister;
+
+“reminder notification” has the meaning assigned to it in *section 149 (1)*;
+
+“specified place” includes an apartment, holiday apartment or any individual room specified by order under *subsection (2)*;
+
+“television licence” means a licence granted under *section 143*;
+
+“television set” means any electronic apparatus capable of receiving and exhibiting television broadcasting services broadcast for general reception (whether or not its use for that purpose is dependent on the use of anything else in conjunction with it) and any software or assembly comprising such apparatus and other apparatus;
+
+“vehicle” means a vehicle other than a mechanically propelled vehicle (within the meaning of section 3 of the Road Traffic Act 1961) capable of being lived in being a caravan or a mobile home.
+
+(2) The Minister may by order specify that a specified place includes individual rooms or a number of such within a premises used for commercial purposes, apart-hotel, hotel, place normally used for indoor public entertainment, licensed premises (within the meaning of section 2 of the Intoxicating Liquor Act 2003), registered club (within the meaning of section 13 of the Registration of Clubs (Ireland) Act 1904) or place of work.
+
+### 141. Laying regulations and orders — Part 9.
+
+**141**.— (1) Every regulation and order made under this Part shall be laid before each House of the Oireachtas as soon as may be after it is made.
+
+(2) Either House of the Oireachtas may, within 21 sitting days after the day on which a regulation or an order was laid before it in accordance with *subsection (1)*, pass a resolution annulling the regulation or order, as the case may be.
+
+(3) The annulment under *subsection (2)* of a regulation or order takes effect immediately on the passing of the resolution concerned, but does not affect anything that was done under it before the passing of the resolution.
+
+### 142. Restrictions on possession of television set.
+
+**142**.— (1) Subject to the exceptions mentioned in *subsection (3)*, a person shall not keep or have in his or her possession anywhere in the territory of the State a television set save in so far as such keeping or possession is authorised by a television licence for the time being in force.
+
+(2) A person having possession of a television set under a television licence shall not keep such a television set otherwise than in accordance with the terms and conditions subject to which such licence is expressly, or is by virtue of this Part deemed to have been granted.
+
+(3) This section does not apply to a television set, which is of a class or description for the time being declared by an order of the Minister to be a class or description of television set to which this section is not to apply.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C19: Exemption from the television licensing requirements provided in respect of certain classes of television pursuant to subs. (3) (31.07.2009) by *Television Licence (Exemption of Classes of Television Set) Order 2009* (S.I. No. 319 of 2009), art. 3.
+>
+> 3\. The following classes of television set are declared to be classes of television set to which section 142 of the Broadcasting Act 2009 (No. 18 of 2009) does not apply, namely—
+>
+> (a) a non-portable television set capable of exhibiting television broadcasting services distributed by means of the publicly available Internet, and
+>
+> (b) a portable television set.
+
+### 143. Grant of television licences.
+
+**143**.— (1) The Minister may, subject to this Part and on payment of the prescribed fee (if any) grant to any person a licence (“television licence”) to keep and have possession of a television set in a premises or specified place in the territory of the State.
+
+(2) Every television licence shall be in such form, continue in force for such period, and be subject to such conditions and restrictions (including conditions as to suspension and revocation) as prescribed in regulations made under *section 144*.
+
+(3) On the passing of this Act section 5 of the Act of 1926 does not apply to television sets.
+
+(4) All licences for the keeping and possession of a television set (within the meaning of section 1 of the Act of 1972) which were granted under section 5 of the Act of 1926 and are in force on the passing of this Act continue in force for the remainder of their period of validity and are deemed to have been granted under this section and this Part applies to all such licences accordingly.
+
+### 144. Regulations in regard to television licences.
+
+**144**.— (1) The Minister may make regulations prescribing in relation to all television licences or any particular class or classes of television licences in respect of premises or specified places generally or different classes of such, all or any of the matters following, that is to say:
+
+(*a*) the form of a licence,
+
+(*b*) the period during which a licence continues in force,
+
+(*c*) the manner in which, the terms on which, and the period or periods for which a licence may be renewed,
+
+(*d*) the circumstances in which or the terms under which the licence is granted,
+
+(*e*) the terms and conditions to be observed by the holder of a licence and subject to which the licence is deemed to be granted,
+
+(*f*) the circumstances and manner in which a licence may be amended, suspended or revoked by the Minister,
+
+(*g*) the fees to be paid on the grant or renewal of a licence, including any discount of fees, and the time and manner at and in which such fees are to be paid, and
+
+(*h*) matters which a licence does not entitle or authorise the licence holder to do.
+
+(2) Where regulations are made under this section prescribing fees to be paid on the grant of a television licence, different fees may be prescribed in respect of licences granted in relation to different classes of premises or specified places and the number of television sets kept in the premises or specified place to which the television licence relates.
+
+(3) No regulation shall be made under this section in relation to fees without the previous consent of the Minister for Finance.
+
+(4) On the passing of this Act section 6 of the Act of 1926 does not apply in relation to television licences and any regulations made under that section before such passing and which are in force on such passing in relation to television licences continue as if made under this section.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E34: Regulations continued in force under subs. (6) are listed in the Classified List of Acts and Statutory Instruments under the listing for this Act at Title 2.3, available on www.lawreform.ie under the Classified List link.
+
+### 145. Issue of television licences by agent.
+
+**145**.— (1) In this section “issuing agent” means An Post or another person designated by the Minister under *subsection (3)*.
+
+(2) Subject to *subsection (12)*, an issuing agent may, on payment of the appropriate licence fee, issue on behalf of the Minister a television licence in accordance with this Part.
+
+(3) The Minister may by order designate a person other than An Post to be an issuing agent for the purposes of this section other than *subsection (12).*
+
+(4) An issuing agent may—
+
+(*a*) collect fees in respect of television licences, and
+
+(*b*) identify persons who have television sets not authorised by a licence for the time being in force,
+
+on such terms and conditions as the Minister may decide.
+
+(5) Summary proceedings may be brought and prosecuted by an issuing agent for an offence under *section 147 (3)* or *148* .
+
+(6) An issuing agent shall maintain and furnish such data and information, and in such format (including electronic formats), as the Minister may require in relation to the exercise of powers conferred on the issuing agent under this Part.
+
+(7) An issuing agent shall pay to the Minister such amounts arising in relation to the collection by the issuing agent of fees due in respect of the issue of television licences.
+
+(8) An issuing agent shall pay to the Minister promptly the amounts collected by the issuing agent in respect of the issue of television licences.
+
+(9) The Minister shall pay to an issuing agent an appropriate sum in respect of work done by the issuing agent in the exercise of powers conferred on the issuing agent under this Part.
+
+(10) The appropriate sum payable by the Minister to an issuing agent and the manner in which and the intervals at which it is to be paid shall be decided by the Minister after consultation with the issuing agent.
+
+(11) An issuing agent may, with the consent of the Minister, appoint a sub-agent to perform any acts and exercise any powers (other than *subsection (5)*) authorised by this Part to be performed or exercised by the issuing agent.
+
+(12) The Department of Social and Family Affairs may issue on behalf of the Minister a television licence to a person who, in accordance with the scheme administered by the Minister for Social and Family Affairs known as a Free Television Licence or any scheme amending or replacing that scheme, is entitled to a television licence under that scheme.
+
+(13) The Department of Social and Family Affairs may, with the consent of the Minister, appoint an agent to issue a television licence for the purposes of *subsection (12)*.
+
+(14) Anything commenced before the passing of this Act by or under the authority of the Minister may, in so far as it relates to the functions under this section, be carried on or completed on or after such commencement by an issuing agent.
+
+P348[(15) (*a*) The Department of Social Protection shall pay to the Minister such an amount as is determined by the Minister, in consultation with the Minister for Public Expenditure and Reform and the Minister for Social Protection, in respect of each licence (if any) issued in accordance with the scheme referred to in subsection (12).
+
+(*b*) In making a determination for the purposes of paragraph (*a*), the Minister shall have regard to the ability of RTÉ and TG4 to meet their public service objects.
+
+(16) The Department of Social Protection shall maintain and furnish such data and information, and in such format (including electronic formats), as the Minister, following consultation with the Minister for Social Protection, may require in relation to the exercise of powers conferred on the Department of Social Protection under this Part.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F348: Inserted (2.08.2011) by *Communications Regulation (Postal Services) Act 2011* (21/2011), s. 71, commenced on enactment.
+
+### 146. Request to show television licence.
+
+**146**.— (1) An issuing agent may appoint persons to be officers of the issuing agent for the purposes of this Part.
+
+(2) A person appointed under *subsection (1)* shall, on his or her appointment be furnished by the issuing agent with a certificate of his or her appointment and when exercising a power conferred by *subsection (3)* shall, if requested by any person thereby affected, produce such certificate to that person for inspection.
+
+(3) An officer of an issuing agent may enter at any reasonable time any premises or specified place for the purposes of ascertaining whether there is a television set there and a television licence is for the time being in force in respect of the premises or specified place authorising the keeping of a television set at the premises or specified place.
+
+(4) An officer of an issuing agent may request any person on the premises or at the place where he or she finds a television set or evidence of such to produce the television licence for the time being in force in respect of the premises or specified place for inspection by the officer.
+
+### 147. Statutory declaration.
+
+**147**.— (1) An officer of an issuing agent may, if and whenever he or she thinks proper so to do, cause a special notice in writing (accompanied by or having annexed to it a form of declaration) to be given personally to, or be served by registered post on, any person requiring that person, within 28 days after the service of the notice on him or her—
+
+(*a*) to state on the form of declaration such one or more of the matters mentioned below as specified in the notice,
+
+(*b*) to sign and otherwise complete the declaration, and
+
+(*c*) to give it or send it by post to a specified officer of the issuing agent.
+
+(2) The matters which a person may be required under this section to state in a declaration are—
+
+(*a*) whether he or she does or does not keep or has or has not in his or her possession a television set,
+
+(*b*) if he or she keeps or has in his or her possession a television set, the premises or specified place at which he or she keeps or has the same,
+
+(*c*) whether he or she has or has not a television licence then in force,
+
+(*d*) if he or she has such a licence, the number, date or other identifying information in respect of such licence, and
+
+(*e*) any other matter relating to the possession of a television set or any apparatus used in conjunction with it.
+
+(3) Every person on whom a notice is duly served under this section shall within the time mentioned duly and correctly complete in accordance with the notice and this section the form of declaration accompanying or annexed to the notice and give or send the declaration to the officer named in that behalf in the notice. If the person makes in it any statement which is to his or her knowledge false or misleading he or she commits an offence and is liable on summary conviction to a fine not exceeding €1,000.
+
+(4) Where a person fails or neglects, within 28 days of service, to duly complete the form of declaration accompanied or annexed to a notice given or sent to him, it shall be presumed, unless the contrary is shown, that he or she keeps or has possession of a television set at the premises or specified place to which the notice relates and a television licence is not in force in relation to the premises or specified place authorising the keeping or having possession of a television set at the premises or specified place.
+
+(5) On the passing of this Act section 7 of the Act of 1926 does not apply to television sets.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E35: A fine of €1,000 translates into a class D fine, not greater than €1,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 7(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 148. Offences for not having television licence.
+
+**148**.— A person who keeps, has in his or her possession or uses a television set in contravention of *section 142* commits an offence and is liable on summary conviction—
+
+(*a*) in the case of a first such offence, to a fine not exceeding €1,000, and
+
+(*b*) in the case of a second or subsequent such offence, to a fine not exceeding €2,000.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E36: A fine of €1,000 translates into a class D fine, not greater than €1,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 7(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> A fine of €2,000 translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 149. Reminder notification and fixed payment notice.
+
+**149**.— (1) An officer of the issuing agent may, if and whenever he or she thinks proper so to do, send by post or deliver personally a notification in writing (“reminder notification”) to any person whom he or she believes to keep or be in possession of a television set at a premises or specified place other than in accordance with a television licence pointing out the requirements of *section 142*.
+
+(2) Where an officer of an issuing agent has reasonable grounds for believing that a person is committing or has committed an offence under *section 148* he or she may, subject to *subsection (4),* serve the person personally or by post with a notice (“fixed payment notice”) in the prescribed form, stating that—
+
+(*a*) the person is alleged to have committed the offence, and
+
+(*b*) the person may during the period of 21 days beginning on the date of the notice make to the issuing agent at the address specified in the notice a payment of the appropriate amount specified in the notice, and accompanied by the notice and evidence of having obtained a television licence in respect of a premises or specified place to which the notice relates, and
+
+(*c*) a prosecution in respect of the alleged offence shall not be instituted during the period specified in the notice, and—
+
+(i) if the payment specified in the notice is made during that period, and
+
+(ii) evidence of having obtained a valid television licence in respect of a specified premises or place to which the notice relates is given,
+
+no prosecution in respect of the alleged offence shall be instituted.
+
+(3) Where notice is given under *subsection (2)*—
+
+(*a*) the person to whom the notice applies may, during the period specified in the notice, make to the issuing agent at the address specified in the notice the payment specified in the notice accompanied by the notice and evidence of having obtained a television licence in respect of a premises or specified place to which the notice relates,
+
+(*b*) the issuing agent specified in the notice may receive the payment, issue a receipt for it and retain the money paid, and any payment received shall not be recoverable by the person who made it, and
+
+(*c*) a prosecution in respect of the alleged offence shall not be instituted in the period specified in the notice, and—
+
+(i) if the payment specified is made during that period, and
+
+(ii) evidence of having obtained a valid television licence in respect of a specified premises or place to which the notice relates is given,
+
+no prosecution in respect of the alleged offence shall be instituted.
+
+(4) A fixed payment notice shall not be served on the person unless at least 2 reminder notifications have issued to the person and until—
+
+(*a*) a period of 28 days has elapsed since the issue of the first reminder notification, and
+
+(*b*) subsequent to that period, a period of 28 days has elapsed since the issue of the second reminder notification.
+
+(5) Any payment made to the issuing agent under *paragraph (a)* of *subsection (3)* shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance may direct.
+
+(6) In a prosecution for an offence under *section 148* the onus of proving that a payment pursuant to a notice under this section has been made lies on the defendant.
+
+(7) In this section “the appropriate amount” means—
+
+(*a*) an amount being one third of the amount of the television licence fee rounded down to the nearest whole euro amount, or
+
+(*b*) where that amount is greater than one third of the maximum amount of the fine to which the person is liable on summary conviction under *section 148*, such amount being not more than one third of the amount of that fine as prescribed and different amounts may be prescribed in respect of different classes of television licences.
+
+### 150. Reminder notification — effective date of television licence and recovery of licence fees.
+
+**150**.— (1) Where a person has received a first reminder notification and the person—
+
+(*a*) has held a television licence, within the 12 month period previous to the reminder notification, in respect of keeping or possessing a television set at the premises or place to which the notification relates, any renewal of the licence takes effect from the expiration of the previous licence, unless the person can satisfy the issuing agent that he or she was not in possession of a television set at the premises or place during the material time after the expiration of the previous licence, or
+
+(*b*) has not held such a licence, any television licence obtained by the person to keep or have possession of a television set at the premises or place takes effect from the date of the notification or such later date as the issuing agent may decide.
+
+(2) Where a person having received a first reminder notification obtains a television licence after the notification, which is not in accordance with *subsection (1)*, to keep and have possession of a television set at the premises or place specified in the notification, the licence is deemed to have effect from the date of expiration of the previous licence or the first notification or such later date as the issuing agent may decide, as the case may be. The issuing agent may alter accordingly any licence so obtained.
+
+(3) An issuing agent may recover, as a simple contract debt in any court of competent jurisdiction, any fee owing by a person in respect of a television licence which has not been obtained by the person to keep or possess a television set at a specified premises or place at any material time.
+
+### 151. Prosecution of offences.
+
+**151**.— (1) Summary proceedings for an offence under this Part may be brought by the Minister or the issuing agent concerned.
+
+(2) In a prosecution for an offence under *section 148* in which it is shown that a television set was in a particular premises or specified place on a particular day, it shall be presumed, until the contrary is shown by the defendant, that on that day the television set was in the possession of the person who was then the occupier of the premises or specified place.
+
+(3) In a prosecution for an offence under *section 148* in which it appears that a person kept or had in his or her possession a television set at the time to which the prosecution relates, it shall be presumed, until the contrary is shown by the defendant, that he or she did not at such time hold a television licence then having effect and licensing him or her to keep or have in his or her possession the television set to which the prosecution relates.
+
+(4) In a prosecution for an offence under *section 148* in which it is shown that a notice under *section 147* has been sent by registered post it shall be presumed, until the contrary is shown by the defendant, that the person to whom the notice was so sent has not complied with the requirements of that section.
+
+(5) In this section “occupier” in relation to premises, means a person who as owner, tenant or otherwise is in occupation, whether solely, jointly or severally, of the premises.
+
+(6) Where an offence under this Part which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he or she, as well as the body corporate, commits that offence and is liable to be proceeded against accordingly.
+
+### 152. Miscellaneous amendments.
+
+**152**.— (1) Section 9 of the Act of 1988 is amended in subsection (5) by substituting for the definition of “television set” the following:
+
+“ ‘television set’ has the meaning assigned to it by *section 140* of the *Broadcasting Act 2009*.”.
+
+(2) Section 2(1) of the Communications Regulation Act 2002 is amended by substituting for the definition of “television set” the following:
+
+“ ‘television set’ has the meaning assigned to it by ***section*** ***140*** of the *Broadcasting Act 2009*;”.
+
+## PART 10 Broadcasting Fund — PART 10 — Broadcasting Fund
+
+### 153. Definitions (Part 10).
+
+**153**.— In this Part—
+
+“appropriate network provider” means a body referred to in *section 77(1)*;
+
+“free television service” means a television broadcasting service for the reception of which no charge is made by the person providing the service, and reception of which is available to at least 90 per cent of the population of the State;
+
+“programme material” means audio-visual or audio material, including advertising and similar material, which was broadcast in whole or in part or was recorded for broadcast, and includes stills and photographs produced from such material or in the context of the recording of such material;
+
+“scheme” means a scheme prepared under *section 154*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F349: Inserted by *Online Safety and Media Regulation Act 2022* (41/2022), s. 49(a), not commenced as of date of revision.
+>
+> F350: Substituted by *Online Safety and Media Regulation Act 2022* (41/2022), s. 49(b), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C20: Prospective affecting provision: sections amended by *Online Safety and Media Regulation Act 2022* (41/2022), s. 49(a), (b), not commenced as of date of revision.
+>
+> **153.**— In this Part— ...
+>
+> F349[“local sound broadcaster” means a person holding a sound broadcasting contract under *section 63*—
+>
+> (*a*) which is a contract for the provision of a sound broadcasting service in an area consisting of a part, but not the whole, of the State, and
+>
+> (*b*) which is not a contract under *section 64* or *68(1)(b)*;]
+>
+> ...
+>
+> F350[ “scheme” means—
+>
+> (*a*) in *sections 154* and *155*, a scheme prepared under *section 154*,
+>
+> (*b*) in *section 155A*, a scheme prepared under that section, and
+>
+> (*c*) in *sections 156* to *159*, a scheme prepared under *section 154* or *155A*.]
+
+### 154. Broadcasting funding scheme.
+
+**154**.— (1) The Authority shall prepare and submit to the Minister for his or her approval a scheme or a number of schemes for the granting of funds to support all or any of the following—
+
+(*a*) new television or sound broadcasting programmes including feature films, animation and drama on Irish culture, heritage and experience, including—
+
+(i) history (including history relating to particular areas, groups or aspects of experience, activity or influence),
+
+(ii) historical buildings,
+
+(iii) the natural environment,
+
+(iv) folk, rural and vernacular heritage,
+
+(v) traditional and contemporary arts,
+
+(vi) the Irish language, and
+
+(vii) the Irish experience in European and international contexts,
+
+(*b*) new television or sound broadcasting programmes to improve adult or media literacy,
+
+(*c*) new television or sound broadcasting programmes which raise public awareness and understanding of global issues impacting on the State and countries other than the State,
+
+(*d*) programmes under *paragraphs (a), (b)* and *(c)* in the Irish language,
+
+F351[(*e*) the development of archiving of programme material for all or any of the descriptions of programme specified in paragraphs (*a*), (*b*), (*c*), (*d*) and (*f*), including technological and system developments for the purposes of enhancing the availability of and access to archived programme material, and]
+
+(*f*) such ancillary measures as are necessary to support schemes prepared under *paragraphs (a), (b), (c)* or *(d).*
+
+(2) A scheme—
+
+(*a*) may only fund television programmes under *subsection (1)* which are broadcast—
+
+(i) on a free television service which provides near universal coverage in the State, or
+
+(ii) on an appropriate network provider F352[...] as part of a community content provision contract under *section 72*,
+
+and which, other than in the case of programmes for children or educational programmes or programmes in the Irish language broadcast by commercial and community broadcasters, are broadcast during peak viewing times,
+
+(*b*) may only fund sound broadcasting programmes under *subsection (1)* which are carried on sound broadcasting services under a contract made by the Authority or operated by RTÉ and which, other than in the case of programmes for children or educational programmes or programmes in the Irish language broadcast by commercial and community broadcasters, are broadcast during peak listening times,
+
+(*c*) may provide funding for projects relating to matters such as research, needs assessments, analyses, feasibility studies and pilot projects in relation to *subsection (1) (e)*, including such projects undertaken by or on behalf of the Minister, and
+
+(*d*) may not provide funding for programmes which are produced primarily for news or current affairs.
+
+(3) A scheme may provide—
+
+(*a*) for the making of applications by persons for funding under a scheme,
+
+(*b*) general terms and conditions of funding, or
+
+(*c*) that funding in a particular year will be directed at—
+
+(i) particular classes of television or sound broadcasting programmes referred to in *subsection (1)* including but not limited to programmes of a specified nature or subject matter, or broadcast by means of a particular medium (including media of a local or regional nature such as local or community television or radio), or
+
+(ii) particular classes of projects referred to in *subsection (1) (e)*.
+
+(4) The Authority may attach to any particular funding under a scheme such particular terms or conditions as it considers appropriate in the circumstances.
+
+(5) The Authority in preparing a scheme, may have regard to the developmental needs of community broadcasters.
+
+(6) The Authority, in preparing a scheme, shall have regard to the understanding and enjoyment of television programmes under the scheme by persons who are deaf or hard of hearing.
+
+(7) The Minister may direct the Authority—
+
+(*a*) to prepare and submit to him or her a scheme relating to any matter in *subsection (1)*, or
+
+(*b*) to amend or revoke a scheme.
+
+The Authority shall comply with the direction.
+
+(8) Any amendment or revocation of a scheme shall be submitted by the Authority to the Minister for his or her approval.
+
+(9) A scheme shall, if approved of by the Minister, be—
+
+(*a*) published (including publication by electronic means capable of being read in legible form), and
+
+(*b*) carried out in accordance with its terms,
+
+by the Authority.
+
+(10) (*a*) A scheme shall be laid before each House of the Oireachtas by the Minister as soon as may be after it is made.
+
+(*b*) Either House of the Oireachtas may, within 21 sitting days after the day on which a scheme was laid before it in accordance with *paragraph (a)*, pass a resolution annulling the scheme.
+
+(*c*) The annulment under *paragraph (b)* of a scheme takes effect immediately on the passing of the resolution concerned but does not affect anything that was done under a scheme before the passing of the resolution.
+
+(11) F353[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F351: Substituted (2.08.2011) by *Communications Regulation (Postal Services) Act 2011* (21/2011), s. 72, commenced on enactment.
+>
+> F352: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 50(a), S.I. No. 71 of 2023.
+>
+> F353: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 50(b), S.I. No. 71 of 2023.
+
+### 155. Objectives of scheme.
+
+**155**.— (1) The objectives of a scheme in relation to programmes referred to in *section 154 (1) (a)* are to—
+
+(*a*) develop high quality programmes based on Irish culture, heritage and experience,
+
+(*b*) develop these programmes in the Irish language,
+
+(*c*) increase the availability of programmes referred to in *paragraphs (a)* and *(b)* to audiences in the State,
+
+(*d*) represent the diversity of Irish culture and heritage,
+
+(*e*) record oral Irish heritage and aspects of Irish heritage which are disappearing, under threat, or have not been previously recorded, and
+
+(*f*) develop local and community broadcasting.
+
+(2) The objective of a scheme in relation to the development of archiving of programme material produced in the State referred to in *section 154 (1) (e)* is to develop an integrated approach to the archiving of programme material, including the development of suitable storage processes and formats and the accessing of material by interested parties and reflecting the obligations of the Authority as set out in *subsections (6)*, *(7)*, *(8)* and *(9)* of *section 69*.
+
+(3) The Authority, in preparing a scheme and in considering applications for funding, shall have regard to the objectives of a scheme.
+
+### 155A. Scheme for professional journalistic practices in local sound broadcasting and community broadcasting.
+
+F354[**155A**.— ...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F354: Inserted by *Online Safety and Media Regulation Act 2022* (41/2022), s. 51, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C21: Prospective affecting provision: section inserted by *Online Safety and Media Regulation Act 2022* (41/2022), s. 51, not commenced as of date of revision.
+>
+> F354[**155A**. (1) The Commission shall prepare and submit to the Minister for his or her approval a scheme or a number of schemes for the making of grants to local sound broadcasters and community broadcasters for the purposes of supporting and promoting good professional journalistic practices and standards in local sound broadcasting and community broadcasting and towards the cost of such ancillary measures as are necessary to support such a scheme or schemes.
+>
+> (2) A scheme may provide for—
+>
+> (*a*) the number of grants to be awarded in a year,
+>
+> (*b*) the procedures for the making of applications for grants by local sound broadcasters and community broadcasters,
+>
+> (*c*) the amount which may be awarded in respect of each grant, and
+>
+> (*d*) the terms and conditions subject to which a grant may be awarded.
+>
+> (3) A scheme may in particular require a local sound broadcaster or community broadcaster to whom a grant is awarded—
+>
+> (*a*) to apply the grant to the costs of providing appropriate training or professional development for persons employed by, or providing services to, the broadcaster for the purposes referred to in *subsection (1)*, and
+>
+> (*b*) to co-fund the costs of that training or professional development.
+>
+> (4) The Commission, in preparing a scheme—
+>
+> (*a*) shall have regard to its duty set out in *section 7(3)(d)*, and
+>
+> (*b*) may have regard to the developmental needs of local sound broadcasters and community broadcasters.
+>
+> (5) The Minister may direct the Commission—
+>
+> (*a*) to provide in any scheme for practices and standards in a description of local sound broadcasting or community broadcasting specified by the Minister,
+>
+> (*b*) to amend or revoke a scheme,
+>
+> and the Commission shall comply with any such direction.
+>
+> (6) If a scheme is approved of by the Minister, the Commission shall—
+>
+> (*a*) as soon as practicable after the approval, make the scheme, and
+>
+> (*b*) carry out the scheme in accordance with its terms.
+>
+> (7) A scheme shall be laid by the Commission before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the scheme is passed by either such House within the next 21 days on which the House sits after that scheme is laid before it, the scheme shall be annulled accordingly, but without prejudice to the validity of anything previously done under it.
+>
+> (8) Where a broadcaster—
+>
+> (*a*) submits, in an application for a grant under a scheme, information that is incomplete or inaccurate in a material respect and on which the Commission relies in awarding a grant to the broadcaster, or
+>
+> (*b*) having been awarded a grant, fails to comply with a condition subject to which the grant was awarded,
+>
+> the broadcaster shall repay such amount of the grant as the Commission may demand in writing.
+>
+> (9) If the broadcaster does not repay an amount demanded under *subsection (8)*, the Commission may recover the amount due and owing from the broadcaster as a simple contract debt in any court of competent jurisdiction.]
+>
+> **Editorial Notes:**
+>
+> E37: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 156. Amounts to be paid by Minister to scheme.
+
+**156**.— (1) In this section “net receipts” in relation to the receipt of television licence fees, means the total receipts less any expenses in respect of those receipts certified by the Minister as having been incurred by him or her in that year in relation to the collection of the fees.
+
+(2) The Minister, with the approval of the Minister for Finance, may pay to the Authority out of monies provided by the Oireachtas for the purposes of grants under a scheme and any administration of or reasonable expenses relating to a scheme, in respect of each financial year, an amount being equal to 7 per cent of net receipts in that year in respect of television licence fees.
+
+(3) The Minister, with the approval of the Minister for Finance, may from time to time pay to the Authority out of monies provided by the Oireachtas such an amount as he or she determines to be reasonable for the purposes of grants under a scheme and any administration of or reasonable expenses relating to a scheme.
+
+### 157. Broadcasting fund.
+
+**157**.— (1) The Authority shall F355[continue to maintain] a fund which shall be known as the Broadcasting Fund and is referred to in this Part as the “Fund”.
+
+(2) The Fund shall be managed and controlled by the Authority and shall consist of a current account (“current account”) and an investment account (“investment account”).
+
+(3) There shall be paid into the current account all monies paid to the Authority under *section 156 (2)* and *(3)* and there shall be paid out of the current account all monies in respect of expenditure by the Authority for the purposes of grants under, and any administration of or reasonable expenses relating to, a scheme duly approved under *section 154*.
+
+(4) Monies standing to the credit of the current account and not required to meet current liabilities shall be paid into the investment account of the Fund.
+
+(5) Whenever the monies in the current account of the Fund are not sufficient to meet the current liabilities of that account, there shall be paid into that account from the investment account of the Fund such monies as are necessary to meet those liabilities.
+
+(6) Monies in the investment account of the Fund that are not required to meet current and prospective liabilities of that account shall be invested and the investments shall be realised or varied from time to time as occasion requires and the proceeds of any such realisation, and any income received in respect of monies invested under this subsection, shall be paid into the investment account of the Fund or invested under this subsection.
+
+(7) The costs of administration of the Fund incurred by the Authority shall be defrayed from the resources of the Fund.
+
+(8) The Authority shall keep all proper and usual accounts of all monies paid into the Fund and of all disbursements from the Fund including an income and expenditure account, cash-flow statement and balance sheet.
+
+(9) As soon as may be after the end of each financial year of the Authority, the Authority shall submit the accounts of the Fund to the Comptroller and Auditor General for audit and the Minister shall cause a copy of an abstract of the accounts as so audited together with a copy of the report of the Comptroller and Auditor General thereon to be laid before each House of the Oireachtas.
+
+(10) As soon as may be, but not later than 3 months, after the end of each financial year of the Authority, the Authority shall make a report, in such a manner as the Minister may direct, to the Minister with respect to the operation by it of the Fund during that financial year and the Minister shall cause copies of the report to be laid before each House of the Oireachtas.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F355: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 52(a), S.I. No. 71 of 2023.
+>
+> F356: Inserted by *Online Safety and Media Regulation Act 2022* (41/2022), s. 52(b), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C22: Prospective affecting provision: subs. (3) amended by *Online Safety and Media Regulation Act 2022* (41/2022), s. 52(b), not commenced as of date of revision.
+>
+> (3) There shall be paid into the current account all monies paid to the Authority under *section 156 (2)* and *(3)* and there shall be paid out of the current account all monies in respect of expenditure by the Authority for the purposes of grants under, and any administration of or reasonable expenses relating to, a scheme duly approved under *section 154* F356[or *section 155A*].
+
+### 158. Reviews of scheme.
+
+**158**.— (1) The Authority shall review the operation, effectiveness and impact of a scheme not later than 3 years from the passing of this Act, and every 3 years thereafter, or at such other time as may be requested by the Minister, and make a written report to the Minister on the review.
+
+(2) A copy of a report under *subsection (1)* shall be laid by the Minister before each House of the Oireachtas, as soon as may be, after it has been made to him or her.
+
+(3) The Minister shall publish (including publication by electronic means capable of being read in legible form) a report made to him or her under *subsection (1)*.
+
+### 159. Winding-up and dissolution of scheme.
+
+**159**.— (1) The Minister may, with the consent of the Minister for Finance, direct the Authority to wind-up, where there is only one scheme, the scheme or, where there is more than one scheme, all schemes, and the Fund established under *section 157* and to pay to the Minister any monies remaining in respect of the Fund. The Minister shall pay to RTÉ any such monies paid to him or her.
+
+(2) Where the Minister directs that the scheme or all schemes, as the case may be, and the Fund be wound up in accordance with *subsection (1)*, he or she shall upon being satisfied that the scheme has or the schemes have and the Fund has been wound up in accordance with that subsection, by order (in this section referred to as a “dissolution order”) dissolve the scheme or schemes and the Fund.
+
+(3) Upon the commencement of a dissolution order no further scheme may be made under *section 154*.
+
+(4) (*a*) A dissolution order shall be laid before each of the Houses of the Oireachtas as soon as practicable after it is made.
+
+(*b*) Either House of the Oireachtas may, by resolution passed within 21 sitting days after the day on which a dissolution order was laid before it in accordance with *paragraph (a)*, pass a resolution annulling the order.
+
+(*c*) The annulment under *paragraph (b)* of a dissolution order takes effect immediately on the passing of the resolution concerned, but does not affect anything that was done under the order before the passing of the resolution.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F357: Inserted by *Online Safety and Media Regulation Act 2022* (41/2022), s. 53, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C23: Prospective affecting provision: subs. (3) amended by *Online Safety and Media Regulation Act 2022* (41/2022), s. 53, not commenced as of date of revision.
+>
+> (3) Upon the commencement of a dissolution order no further scheme may be made under *section 154* F357[or *section 155A*].
+
+## PART 10A — European works
+
+### F358[159A. Interpretation of European works.
+
+**159A**.— (1) For the purposes of this Act, subject to *subsections (2)* and *(3)*, the following are European works:
+
+(*a*) works originating in Member States;
+
+(*b*) works originating in third countries that are European states party to the European Convention on Transfrontier Television of the Council of Europe done at Strasbourg on 5 May 1989;
+
+(*c*) works that do not fall within *paragraph (a)* or *(b)*, that are co‑produced within the framework of agreements related to the audiovisual sector concluded between the European Union and third countries, and that fulfil the conditions defined in those agreements;
+
+(*d*) works that do not fall within *paragraph (a)*, *(b)* or *(c)*, and that are co-produced within the framework of bilateral co-production agreements concluded between Member States and third countries, provided that—
+
+(i) the co-producers from the Member States supply a majority share of the total cost of production, and
+
+(ii) the production is not controlled by one or more co-producers established in a third country.
+
+(2) *Subsection (1)(b)* and *(c)* do not apply in the case of a third country if works originating in Member States are the subject of discriminatory measures in that country.
+
+(3) A work falls within *paragraph (a)* or *(b)* of *subsection (1)* only if it is mainly made with authors and workers residing in one or more of the states referred to in those paragraphs and meets one of the conditions in *subsections (4)* to *(6)*.
+
+(4) The first condition is that the work is made by one or more producers established in one or more of those states.
+
+(5) The second condition is that the production of the work is supervised and controlled by one or more producers established in one or more of those states.
+
+(6) The third condition is that there are co-producers, including one or more established outside those states, but—
+
+(*a*) the contribution of co-producers established in those states to the total co-production costs is preponderant, and
+
+(*b*) the co-production is not controlled by one or more co-producers established outside those states.
+
+(7) In this section, “third country” means a state other than a Member State.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F358: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 54, S.I. No. 71 of 2023.
+
+### 159B. Share of European works.
+
+F359[**159B**.— (1) A media service provider under the jurisdiction of the State shall not provide an audiovisual on-demand media service with a catalogue in which the share of European works is less than 30 per cent.
+
+(2) *Subsection (1)* does not apply to—
+
+(*a*) a media service provider with a low turnover or low audience, or
+
+(*b*) a service exempted by rules under *section 159I*.
+
+(3) The Commission shall make rules for determining—
+
+(*a*) for the purposes of *subsection (1)*, whether an audiovisual on‑demand media service has a catalogue in which the share of European works is less than 30 per cent, and
+
+(*b*) for the purposes of *subsection (2)(a)*, whether a media service provider has a low turnover or low audience.
+
+(4) In making rules under *subsection (3)*, the Commission shall have regard to—
+
+(*a*) any guidelines issued by the European Commission in accordance with Article 13(7) of the Directive, and
+
+(*b*) any relevant reports produced by the F360[European Board for Media Services established under Article 8 of EMFA].
+
+(5) In making rules under *subsection (3)(b)*, the Commission shall have regard to any relevant characteristics of the market in which a media service provider under the jurisdiction of the State provides an audiovisual on-demand media service, including—
+
+(*a*) the turnover of the provider from the service in the market, as a proportion of the total turnover of providers of audiovisual on‑demand media services from those services in the market, and
+
+(*b*) the number of audience members of the service in the market, as a proportion of the total number of audience members for audiovisual on-demand media services in the market.
+
+(6) The Commission may make rules prescribing records a provider must keep and any other action a provider must take to enable compliance with the requirement in *subsection (1)* to be assessed.
+
+(7) A failure to comply with *subsection (1)* or any rules made under *subsection (6)* is a contravention for the purposes of *Part 8B*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F359: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 54, S.I. No. 71 of 2023.
+>
+> F360: Substituted (8.02.2025) by *European Union (Media Freedom Act) Regulations 2025* (S.I. No. 22 of 2025), reg. 4(c), in operation as per reg. 1(2).
+
+### 159C. Prominence of European works.
+
+F361[**159C**.— (1) A media service provider under the jurisdiction of the State which provides an audiovisual on-demand media service shall take any steps required by rules under this section to ensure prominence of European works in any catalogue of that service.
+
+(2) *Subsection (1)* does not apply to—
+
+(*a*) a media service provider with a low turnover or low audience, or
+
+(*b*) a service exempted by rules under *section 159I*.
+
+(3) The Commission shall make rules setting out the steps that media service providers must take for the purposes of *subsection (1)*.
+
+(4) Without prejudice to the generality of *subsection (3)*, the steps required by the rules referred to in *subsection (3)* may relate to:
+
+(*a*) the visibility and presentation of European works within a catalogue;
+
+(*b*) the inclusion of information in a catalogue in relation to whether or not a work is a European work, and the placement of that information;
+
+(*c*) the accessibility of European works within a catalogue, including the configuration of search tools;
+
+(*d*) references to European works in advertising for the service;
+
+(*e*) the promotion of minimum percentages of European works within a catalogue to the audience of the service, and the means to be used for such promotion.
+
+(5) In making rules under *subsection (3)*, the Commission shall have regard to—
+
+(*a*) the objective of cultural diversity,
+
+(*b*) the desirability of providing European works to the widest possible audience,
+
+(*c*) technological developments,
+
+(*d*) developments in audiovisual on-demand media service markets, and
+
+(*e*) any relevant reports produced by the F362[European Board for Media Services established under Article 8 of EMFA].
+
+(6) The Commission may make rules prescribing records a provider must keep and any other action a provider must take to enable compliance with the requirement in *subsection (1)* to be assessed.
+
+(7) Rules made under *section 159B(3)(b)* shall apply for the purposes of *subsection (2)(a)*.
+
+(8) A failure to comply with *subsection (1)* or any rules made under *subsection (3)* or *(6)*, is a contravention for the purposes of *Part 8B*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F361: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 54, S.I. No. 71 of 2023.
+>
+> F362: Substituted (8.02.2025) by *European Union (Media Freedom Act) Regulations 2025* (S.I. No. 22 of 2025), reg. 4(d), in operation as per reg. 1(2).
+
+### 159D
+
+F363[Reporting.
+
+**159D**.— (1) The Commission shall report to the Minister annually on the operation of *sections 159B* and *159C*.
+
+(2) The Minister may specify the form and contents of a report referred to in *subsection (1)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F363: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 54, S.I. No. 71 of 2023.
+
+### 159E. European works levy.
+
+F364[**159E**.— (1) The Commission may, for the purposes of funding a scheme made under *section 159F*, make an order imposing a levy on the media service providers referred to in *subsection (2)*, or on any class of those providers.
+
+(2) The providers mentioned in *subsection (1)* are media service providers and—
+
+(*a*) are under the jurisdiction of the State, or
+
+(*b*) target audiences in the State and are established in another Member State in accordance with *section 2A(2)*.
+
+(3) A levy order may provide for the collection, payment and administration of a levy, including:
+
+(*a*) the method of calculation of the levy;
+
+(*b*) the period in respect of which the levy is imposed;
+
+(*c*) the times at which payment is to be made and the form of payment;
+
+(*d*) the records which a provider must keep and make available to the Commission;
+
+(*e*) exemptions from the levy, deferrals of payment of the levy or refunds of the levy;
+
+(*f*) the consideration of applications by providers for review of decisions under the order.
+
+(4) In the case of a media service provider that is under the jurisdiction of the State and targets audiences in another Member State, the method of calculation of a levy shall take into account any financial contribution imposed on the provider by that Member State.
+
+(5) In the case of a media service provider which targets audiences in the State and is established in another Member State in accordance with *section 2A(2)*—
+
+(*a*) the method of calculation of a levy shall be based on the revenue earned by the provider in the State from any audiovisual media service which it provides there, and
+
+(*b*) the levy shall be proportionate and non-discriminatory.
+
+(6) A levy shall not apply to a media service provider—
+
+(*a*) with a low audience or a low turnover, in accordance with any rules made under *section 159B(3)(b)*, or
+
+(*b*) in respect of a service exempted under any rules made under *section 159I*.
+
+(7) Where a levy imposed on a media service provider remains unpaid, in whole or in part, the levy or part of the levy may be recovered by the Commission as a simple contract debt in any court of competent jurisdiction.
+
+(8) In this section and *section 159F*—
+
+“levy”means a levy imposed by a levy order;
+
+“levy order”means an order made under *subsection (1)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F364: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 54, S.I. No. 71 of 2023.
+
+### 159F. European works scheme.
+
+F365[**159F**.— (1) The Commission, following consultation with Fís Éireann, may prepare a scheme for funds to be granted, out of the proceeds of any levy, to provide support for the production of European works included, or to be included, in the programme schedule of an audiovisual broadcasting service, or in a catalogue of an audiovisual on-demand media service.
+
+(2) The kinds of support for which funds may be granted under a scheme shall be support of such of the following, or such classes or descriptions of any of the following, as the scheme may specify:
+
+(*a*) new audiovisual programmes relating to—
+
+(i) Irish culture, language, history, heritage, society and sport,
+
+(ii) the experiences of the people of the island of Ireland, including the experiences of people of Irish ancestry living abroad,
+
+(iii) environmental sustainability, biodiversity, and climate change,
+
+(iv) human rights, equality, diversity and inclusion,
+
+(v) news, current affairs and international affairs,
+
+(vi) science, or
+
+(vii) education;
+
+(*b*) new audiovisual programmes to—
+
+(i) improve adult literacy, or
+
+(ii) improve media literacy;
+
+(*c*) incidental, supplementary or consequential measures that appear to the Commission to be necessary to support programmes referred to in *paragraph (a)* or *(b)*;
+
+(*d*) any activity in the development of programmes referred to in *paragraph (a)* or *(b)* or of measures referred to in *paragraph (c)*.
+
+(3) A scheme may in particular:
+
+(*a*) specify the kind of support for which funds may be granted by reference to the nature or subject matter of programmes within *paragraph (a)* or *(b)* of *subsection (2)*;
+
+(*b*) limit support for which funds may be granted in a particular period to support of specified kinds;
+
+(*c*) impose requirements as to the time within which programmes in relation to which funds have been granted are to be made available in the schedule of an audiovisual broadcasting service or in a catalogue of an audiovisual on-demand media service;
+
+(*d*) impose requirements as to such services or as to how such programmes are to be made available on them, which may include requirements to ensure that such services are, or include, services—
+
+(i) that are so far as practicable available in the whole of the State, and
+
+(ii) on which the programmes concerned are made available without charge to the viewer.
+
+(4) A scheme shall allocate—
+
+(*a*) not less than 25 per cent of its annual funds to programmes in the Irish language that fall within *paragraph (a)* or *(b)* of *subsection (2)*, and
+
+(*b*) not less than 80 per cent of its annual funds to programmes that fall within *paragraph (a)* or *(b)* of *subsection (2)*, the producers of which are independent producers for the purposes of the scheme.
+
+(5) A scheme shall include provision for determining whether the producer of a programme is an independent producer, and for the purpose of making such provision the Commission may have regard to the following matters:
+
+(*a*) the ownership structure of the person that produces the programme;
+
+(*b*) the amount of programmes supplied by the person who produces the programme to the same media service provider;
+
+(*c*) the ownership of the rights to broadcast the programme or make it available in a catalogue of an audiovisual on-demand media service, or otherwise use the programme for a commercial purpose;
+
+(*d*) such other matters as it considers appropriate.
+
+(6) If the Minister directs it to do so, the Commission shall prepare a scheme specifying in accordance with *subsection (2)* any kind of support the Minister directs.
+
+(7) A scheme may provide for:
+
+(*a*) applications for a grant of funding;
+
+(*b*) the terms and conditions upon which funds are granted;
+
+(*c*) the records a provider which receives funding must keep and make available to the Commission.
+
+(8) In preparing a scheme, the Commission shall have regard to the need to—
+
+(*a*) ensure understanding and enjoyment of new audiovisual programmes by people with disabilities,
+
+(*b*) support the development of new audiovisual programmes of interest to children, and to young people under the age of 25 years, and
+
+(*c*) encourage the development of community broadcasters, including development as regards audiovisual on-demand media services provided by such broadcasters.
+
+(9) In this section, and *sections 159G* and *159H*, “scheme” means a scheme prepared under *subsection (1)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F365: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 54, S.I. No. 71 of 2023.
+
+### 159G. Procedure for making schemes under section 159F.
+
+F366[**159G**.— (1) The Commission shall submit a scheme to the Minister for approval.
+
+(2) The Minister shall consider a scheme submitted to him or her, and may—
+
+(*a*) approve the scheme,
+
+(*b*) refuse to approve the scheme,
+
+(*c*) direct the Commission to reconsider the scheme, or
+
+(*d*) direct the Commission to resubmit the scheme with such amendments as the Commission thinks fit.
+
+(3) Where a scheme is approved by the Minister under *subsection (2)(a)*, the Commission shall, as soon as is practicable after the approval, make the scheme.
+
+(4) The Commission shall administer a scheme approved by the Minister under *subsection (2)(a)* in accordance with its terms.
+
+(5) The Commission may prepare amendments to a scheme approved by the Minister under *subsection (2)(a)*, and *subsections (1)* to *(4)* and *section 159J* apply to amendments to such a scheme as they apply to a scheme.
+
+(6) The Minister may, in respect of a scheme approved under *subsection (2)(a)*, direct the Commission to—
+
+(*a*) review the scheme, and prepare and submit to the Minister any amendments to the scheme the Commission thinks fit, or
+
+(*b*) revoke the scheme.
+
+(7) The Commission shall comply with a direction under *paragraph (c)* or *(d)* of *subsection (2)*, or *subsection (6)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F366: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 54, S.I. No. 71 of 2023.
+
+### 159H. Designation of Fís Éireann for the purpose of making a European works scheme.
+
+F367[**159H**.— (1) The Minister may, where he or she considers it appropriate to do so, by order provide that Fís Éireann may prepare a scheme under *section 159F(1)*, subject to any restriction in the order as to the kinds of support for which funds may be granted under such a scheme.
+
+(2) Where an order is made under *subsection (1)*, *sections 159F* and *159G* shall apply to the preparation and making of a scheme by Fís Éireann subject to any restriction referred to in *subsection (1)* and the modification—
+
+(*a*) that references in those sections to the Commission shall be construed as references to Fís Éireann, and
+
+(*b*) in *section 159F(1)*, that “following consultation with the Commission ”shall be substituted for “following consultation with Fís Éireann”.
+
+(3) Where the Minister makes an order under *subsection (1)*, he or she may direct the Commission to pay such monies collected out of the levy referred to in *section 159E* to Fís Éireann for the purposes of funding a scheme prepared by Fís Éireann as he or she considers appropriate, and the Commission shall comply with such a direction.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F367: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 54, S.I. No. 71 of 2023.
+
+### 159I. Exemptions for particular services.
+
+F368[**159I**.— (1) The Commission may make rules providing that the obligations in *section 159B(1)* or *159C(1)* shall not apply to an audiovisual on‑demand media service, or that a levy under *section 159E* shall not apply to a media service provider in respect of an audiovisual media service, where it would be impracticable or unjustified by reason of the nature of the service, or the general theme of audiovisual programmes provided by the service, to impose those obligations.
+
+(2) In making rules under *subsection (1)*, the Commission shall have regard to whether an audiovisual media service provides audiovisual programmes—
+
+(*a*) dealing with a narrow subject matter which may not be of general interest to an audience, or
+
+(*b*) which may impair the physical, mental or moral development of children, including gratuitous violence and pornography.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F368: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 54, S.I. No. 71 of 2023.
+
+### 159J. Laying of rules, orders and schemes.
+
+F369[**159J**.— (1) Any rule, order or scheme made under this Part shall be laid by the Commission, or in the case of a scheme made by Fís Éireann in accordance with *section 159H*, by Fís Éireann before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the rule, order or scheme is passed by either such House within the next 21 days on which that House sits after the rule, order or scheme is laid before it, the rule, order or scheme shall be annulled accordingly, but without prejudice to the validity of anything previously done under it.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F369: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 54, S.I. No. 71 of 2023.
+
+## PART 11 Major Events Television Coverage — PART 11 — Major Events Television Coverage
+
+### 160. Definitions (Part 11).
+
+**160**.— (1) In this Part—
+
+“broadcaster” has the meaning assigned to it in the F370[Directive];
+
+“designated” means designated by a designation order;
+
+“designation order” means an order under *section 162*;
+
+“event” means an event of interest to the general public in the European Union, a Member State or in the State or in a significant part of the State that is organised by an event organiser who is legally entitled to sell the broadcasting rights to the event and includes the whole event or where part of it has already taken place the remainder;
+
+“event organiser” means the person who is legally entitled to sell the rights to the event;
+
+“free television service” means a television broadcasting service for the reception of which no charge is made at anytime by the person providing the service, and which is available on a free-to-air basis;
+
+“near universal coverage” means—
+
+(*a*) free television service, reception of which is available to at least 95 per cent of the population of the State, or
+
+(*b*) if at any time fewer than three broadcasters are able to provide the coverage required under *paragraph (a)*, free television service, reception of which is available to at least 90 per cent of the population of the State;
+
+“qualifying broadcaster” means a broadcaster who is deemed under *subsection (2)* to be a qualifying broadcaster;
+
+“rights” in relation to the broadcast of a designated event, means the exclusive or non-exclusive rights to broadcast the event;
+
+“television broadcasting” has the meaning assigned in the F371[Directive].
+
+(2) A broadcaster who provides near universal coverage of a designated event is deemed to be a qualifying broadcaster.
+
+(3) For the purpose of *subsection (2)*, two or more broadcasters who enter into a contract or arrangement to jointly provide near universal coverage of a designated event shall be deemed to be a single broadcaster with respect to that event.
+
+(4) A broadcaster may request the Minister to resolve any dispute as to the extent of a free television service being provided by a broadcaster in the State for the purpose of *subsection (2)* and the definition of “near universal coverage” in *subsection (1)*.
+
+(5) The Minister may consult with any technical experts or other persons or bodies he or she considers appropriate before resolving a dispute under *subsection (4)*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F370, F371: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 55(a), (b), S.I. No. 71 of 2023.
+
+### 161. Application.
+
+**161**.— This Part applies to a designated event which is designated, before or after 22 April 2003, whether or not any agreement or arrangement has been entered into between the event organiser and a broadcaster in respect of the acquisition by the broadcaster of rights to the event, and where such an agreement or arrangement has been entered into before 22 April 2003, in respect of those rights, it was entered into after the publication of the Council Directive concerning an event which takes place after 13 November 1999 (being the date Article 3j of the Council Directive was given effect to by this Part).
+
+### 162. Designation of major events.
+
+**162**.— (1) The Minister may by order—
+
+(*a*) designate events as events of major importance to society for which the right of a qualifying broadcaster to provide coverage on free television services should be provided in the public interest, and
+
+(*b*) determine whether coverage on free television services of an event designated under *paragraph (a)* should be available—
+
+(i) on a live, deferred or both live and deferred basis, and
+
+(ii) in whole, in part or both in whole and in part.
+
+(2) The Minister shall have regard to all the circumstances and in particular each of the following criteria in making a designation under *subsection (1) (a)*:
+
+(*a*) the extent to which the event has a special general resonance for the people of Ireland, and
+
+(*b*) the extent to which the event has a generally recognised distinct cultural importance for the people of Ireland.
+
+(3) In order to determine the extent to which the criteria in *subsection (2)* have been met, the following factors may be taken into account by the Minister:
+
+(*a*) whether the event involves participation by a national or non-national team or by Irish persons;
+
+(*b*) past practice or experience with regard to television coverage of the event or similar events.
+
+(4) The Minister shall consider the following in making the determination under *subsection (1) (b)*:
+
+(*a*) the nature of the event,
+
+(*b*) the time within the State at which the event takes place, and
+
+(*c*) practical broadcasting considerations.
+
+(5) The Minister shall consult with F372[such Minister or Ministers of the Government as he or she considers appropriate] before making, revoking or amending an order under this section.
+
+(6) Where it is proposed to make, revoke or amend an order under this section, a draft of the order shall be laid before each House of the Oireachtas and the order shall not be made until a resolution approving the draft has been passed by each House.
+
+(7) On the passing of this Act any order made under section 2 of the Broadcasting (Major Events Television Coverage) Act 1999 which is in force on such passing continues and is deemed to have been made under this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F372: Substituted (30.05.2021) by *Planning and Development, Heritage and Broadcasting (Amendment) Act 2021* (11/2021), s. 17, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E38: Power pursuant to section exercised (25.10.2017) by *Broadcasting Act 2009 (Designation of Major Events) Order 2017* (S.I. No. 465 of 2017).
+>
+> E39: Previous affecting provision: name of Department and title of Minister in subs. (5) changed from Arts, Sport and Tourism to Tourism, Culture and Sport (2.05.2010) by *Arts, Sport and Tourism (Alteration of Name of Department and Title of Minister) Order 2010* (S.I. No. 178 of 2010). Functions transferred and references to Department of and Minister for Tourism, Culture and Sport construed (1.06.2011) by *Tourism and Sport (Transfer of Departmental Administration and Ministerial Functions) (No. 2) Order 2011* (S.I. No. 217 of 2011), arts. 2 and 3, in operation as per art. 1(2), subject to transitional provisions. Reference to Minister for Arts, Sport and Tourism deleted as per F-note above.
+>
+> E40: Previous affecting provision: *Broadcasting (Major Events Television Coverage) Act 1999 (Designation of Major Events) Order 2003* (S.I. No. 99 of 2003) deemed to have been made under subs. (7); revoked (25.10.2017) by *Broadcasting Act 2009 (Designation of Major Events) Order 2017* (S.I. No. 465 of 2017), art. 4.
+
+### 163. Consultation.
+
+**163**.— (1) Before making a designation order, the Minister shall—
+
+(*a*) make reasonable efforts to consult with the organisers of the event and with broadcasters who are under the jurisdiction of the State F373[...],
+
+(*b*) publish a notice of the event which the Minister intends to designate under that section on a website maintained by him or her and where appropriate in a newspaper circulating in the State, and
+
+(*c*) invite comments on the intended designation from members of the public.
+
+(2) The inability to establish who is the organiser of an event or the failure of the organiser or a broadcaster under the jurisdiction of the State to respond to the Minister’s efforts to consult shall not preclude the making of a designation order.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F373: Deleted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 56, S.I. No. 71 of 2023.
+
+### 164. Broadcasters’ duties with respect to designated events.
+
+**164**.— (1) Where a broadcaster under the jurisdiction of the State who is not a qualifying broadcaster acquires exclusive rights to broadcast a designated event, that broadcaster shall not broadcast the event unless the event has been made available to a qualifying broadcaster, in accordance with the designation order concerned, on request and the payment of reasonable market rates by the qualifying broadcaster.
+
+(2) Where a qualifying broadcaster acquires the right to broadcast a designated event (under this section or directly) the qualifying broadcaster shall broadcast the event on a free television service providing near universal coverage in accordance with the designation order concerned.
+
+(3) In this section, “designated event” means an event that is designated in a designation order.
+
+### 165. Broadcasters’ duties with respect to Member State events.
+
+**165**.— Where another Member State has designated an event as being of major importance to society in that Member State and the European Commission has communicated the measures taken by that Member State in accordance with F374[Article 14(2) of the Directive], no broadcaster under the jurisdiction of the State who acquires exclusive rights to the designated event shall exercise the exclusive rights in such a way that a substantial portion of the public in that Member State is deprived of the possibility of following the events in accordance with the measures taken.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F374: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 57, S.I. No. 71 of 2023.
+
+### 166. Civil remedies.
+
+**166**.— (1) Where it is alleged by a broadcaster (the “aggrieved broadcaster”) that any activity or conduct prohibited by *section 164* or *165* is being, has been or is about to be carried on by one or more other broadcasters (the “other broadcaster”), the aggrieved broadcaster shall be entitled to apply to the High Court for the following remedies against the other broadcaster:
+
+(*a*) an order restraining the other broadcaster from carrying on or attempting to carry on the activity or conduct prohibited by *section 164* or *165* ;
+
+(*b*) a declaration that the contract under which the other broadcaster received exclusive rights to the designated event is void;
+
+(*c*) damages from the other broadcaster;
+
+(*d*) a direction that the right to provide television coverage of the event shall be offered to the aggrieved broadcaster at reasonable market rates.
+
+(2) An application to the High Court for an order referred to in *subsection (1)* shall be by motion and the Court, when considering the matter, may make such interim or interlocutory order as it considers appropriate.
+
+### 167. Reasonable market rates.
+
+**167**.— (1) For the purpose of *section 164 (1)*, if broadcasters are unable to agree on what constitutes reasonable market rates with respect to television coverage of an event, either of the broadcasters may apply to the High Court in a summary manner for an order determining reasonable market rates for an event.
+
+(2) An order under *subsection (1)* may contain such consequential or supplementary provisions as the High Court considers appropriate.
+
+### 168. Qualifying broadcaster may apply to High Court to obtain rights from event organiser to provide coverage of designated event on free television services in State, etc.
+
+**168**.— (1) Where an event has been designated, and if within 56 days, or such other lesser or greater period which the Minister directs, before the event or a part of it takes place the event organiser has not made an agreement or arrangement with a qualifying broadcaster to enable it to provide coverage on free television services in the State of the event or part of it, as determined under *section 162 (1) (b)* in the designation order which designated the event—
+
+(*a*) subject to *subsection (3)*, a qualifying broadcaster may apply to the High Court in a summary manner for an order directing the event organiser to give rights to the qualifying broadcaster to provide such coverage and upon such terms as are fixed by the High Court, including the fixing of reasonable market rates, in respect of the acquisition of the rights, or
+
+(*b*) within that period a qualifying broadcaster has not so applied, the event organiser may apply to the High Court in a summary manner to request the High Court to invite qualifying broadcasters to make such an application.
+
+(2) Subject to *subsection (3)*, the High Court may, on application to it under *subsection (1)* by a qualifying broadcaster, direct the event organiser, upon such terms as to the Court appears just and proper, to give to the qualifying broadcaster rights to provide coverage of the designated event or part of it on free television services, as determined under *section 162 (1) (b)* in the designation order which designated the event, notwithstanding that all of the terms for the acquisition of the rights to provide coverage under *subsection (1)*, have not yet been fixed by it, including the fixing of reasonable market rates.
+
+(3) *Subsection (1)* does not apply where an event organiser decides, prior to the making of an application under *subsection (1)*, not to allow coverage of an event or a part of it, as determined under *section 162(1)(b)* in the designation order designating the event, on any television service provided by a broadcaster. Where an event organiser has so decided, the event organiser must notify, as soon as possible, the Minister.
+
+(4) The High Court in fixing the terms under *subsection (1)* may, in arriving at a computation of reasonable market rates, to be paid by a qualifying broadcaster for the acquisition of the rights under that subsection, refer the computation of the rates to an arbitrator appointed by the High Court. The arbitrator shall report to the Court and the parties, by way of issuing an award, setting out the amount that he or she decides are reasonable market rates.
+
+(5) An arbitration under *subsection (4)* shall be conducted in accordance with such procedures as are determined by the Court referring the computation of the rates to the arbitrator. The Court may, in determining such procedures, give such directions as it considers just and proper for the processing of the arbitration, including fixing the period within which the award of the arbitrator is to be issued.
+
+(6) Where in an application under *subsection (1)*—
+
+(*a*) the High Court has fixed the reasonable market rates, or an arbitrator has issued an award under *subsection (4)*, and prior to the High Court making a final order in respect of the application, or
+
+(*b*) in the circumstances referred to in *subsection (2)*, the High Court indicates that it will fix the reasonable market rates for coverage of the event after the event has taken place, and prior to the event taking place,
+
+the qualifying broadcaster may withdraw the application. The High Court may in these circumstances, having regard to the intention of the broadcaster making the application, award such costs to such party or parties to the application as it considers appropriate.
+
+(7) The High Court may, either of its own motion or on application to it by an arbitrator appointed under *subsection (4)*, give, from time to time, such directions in connection with the arbitration as it considers just and proper.
+
+(8) Where more than one qualifying broadcaster applies under *subsection (1)* for rights to provide coverage of a designated event or part of it and the High Court has fixed under this section the terms upon which a qualifying broadcaster may obtain the rights, the event organiser may choose to which qualifying broadcaster it gives the rights.
+
+(9) Where there is an existing contract in respect of an event or part of it between the event organiser and another broadcaster, who is not a qualifying broadcaster, the High Court in an application to it under *subsection (1)* shall decide to whom and in which proportions monies in respect of the reasonable market rates, fixed under this section in respect of the acquisition of rights to the event or part of it, should be paid.
+
+(10) The High Court may, if it considers it necessary, for the purposes of exercising its powers under this section, adjust an existing agreement or arrangement, in respect of rights to a designated event or a part of it, between the event organiser and a broadcaster, who is not a qualifying broadcaster.
+
+(11) Without prejudice to *subsection (2)*, when considering any matter under this section, the High Court may make such interim or interlocutory order as it considers appropriate.
+
+### 169. Arbitration in respect of reasonable market rates where event organiser is willing to sell broadcasting rights to designated event to qualifying broadcaster.
+
+**169**.— (1) Where an event organiser is willing to sell rights enabling a qualifying broadcaster to provide coverage on free television services in the State of a designated event or a part of it, as determined under *section 162 (1) (b)* in the designation order which designated the event, but the qualifying broadcaster and the event organiser have not agreed the amount to be paid in respect of the acquisition of the rights, the following provisions of this section apply.
+
+(2) The qualifying broadcaster or the event organiser may request the other to agree to the appointment of an arbitrator for the purposes of fixing reasonable market rates for the acquisition of the rights referred to in *subsection (1)*. In default of agreement, on the appointment of an arbitrator by the parties, the Minister may appoint an arbitrator, who he or she considers to be suitably qualified in this regard, within 21 days of being notified by either party of such default.
+
+(3) An arbitrator appointed under *subsection (2)* shall issue his or her award, in writing, which, subject to *subsection (4)*, shall be a provisional award. The arbitrator shall notify the parties concerned of the award.
+
+(4) An award issued under *subsection (3)* is not binding on the qualifying broadcaster concerned unless, within the period of 21 days from the date of issuing of the award of the arbitrator under *subsection (3)*, the qualifying broadcaster has notified the event organiser concerned of the qualifying broadcaster’s acceptance of the award.
+
+### 170. Criteria for determining reasonable market rates.
+
+**170**.— In determining that which constitutes reasonable market rates or terms for the purposes of this Act, the High Court or an arbitrator shall have regard to, *inter alia*—
+
+(*a*) previous fees (if any) for the event or similar events,
+
+(*b*) time of day for live coverage of the event,
+
+(*c*) the period for which rights are offered,
+
+(*d*) the revenue potential associated with the live or deferred coverage of the event,
+
+(*e*) the purposes of F375[Article 14 of the Directive] and the rights conferred on Member States of the European Communities to regulate the exercise of broadcasting rights, and
+
+(*f*) such other matters as may appear to be relevant.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F375: Substituted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 58, S.I. No. 71 of 2023.
+
+### 171. Obligation to give copy of agreement or arrangement to broadcasting rights to Minister.
+
+**171**.— (1) The Minister may, where he or she considers it is in the public interest, direct an event organiser who has entered into an agreement or arrangement with a broadcaster in respect of the broadcasting rights to a designated event to give to the Minister, at the Department of Communications, Energy and Natural Resources, within such period specified in the direction, a copy of the agreement or arrangement.
+
+(2) Where an agreement or arrangement referred to in *subsection (1)* is not in writing, the event organiser must, upon receiving a direction of the Minister, notify the Minister of the agreement or arrangement and set out all its terms and conditions.
+
+### 172. Service of directions and notification.
+
+**172**.— (1) Where a direction or notification is required under this Part to be given to a person, it shall be in writing, addressed to the person and given to the person in one of the following ways—
+
+(*a*) by delivering it to the person,
+
+(*b*) by leaving it at the address at which the person ordinarily carries on business,
+
+(*c*) by sending it by post in a pre-paid registered letter addressed to the person at the address at which the person ordinarily carries on business,
+
+(*d*) if an address for the service of directions or notifications has been furnished by the person, by leaving it at, or sending it by pre-paid registered post addressed to the person at that address,
+
+(*e*) in any case where the person giving the direction or notification considers that the immediate giving of it is required, by sending it, by means of electronic mail or a facsimile machine, to a device or facility for the reception of electronic mail or facsimiles located at the address at which the person ordinarily carries on business or, if an address for the service of directions or notifications has been furnished by the person, that address, but only if—
+
+(i) the sender’s—
+
+(I) facility for the reception of electronic mail generates a message confirming a receipt of the electronic mail, or
+
+(II) facsimile machine generates a message confirming successful transmission of the total number of pages of the direction or notification,
+
+and
+
+(ii) the direction or notification is also given in one of the other ways mentioned in any of the preceding paragraphs.
+
+(2) For the purposes of this section—
+
+(*a*) a company registered under the Companies Acts is deemed to carry on business at its registered office, and every other body corporate and unincorporated body is deemed to carry on business at its principal office or place of business, and
+
+(*b*) the Minister is deemed to carry on business at the Department of Communications, Energy and Natural Resources.
+
+### 173. Review of designated events.
+
+**173**.— (1) Subject to *subsection (2)*, the Minister shall review, from time to time, designated events and the designation of events under *section 162*.
+
+(2) A review under *subsection (1)* shall be not later than 3 years after the preceding review under section 9 of the Broadcasting (Major Events Television Coverage) (Amendment) Act 2003 and every 3 years after that.
+
+## PART 12 Transitional Provisions — PART 12 — Transitional Provisions
+
+### 174. Dissolution of BCI and saver.
+
+**174**.— F376[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F376: Repealed (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 73(g), S.I. No. 71 of 2023.
+
+### 175. Dissolution of BCC and saver.
+
+**175**.— F377[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F377: Repealed (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 73(g), S.I. No. 71 of 2023.
+
+### 176. Transitional provisions — BCI.
+
+**176**.— F378[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F378: Repealed (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 73(g), S.I. No. 71 of 2023.
+
+### 177. Transitional provisions — BCC.
+
+**177**.— F379[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F379: Repealed (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 73(g), S.I. No. 71 of 2023.
+
+### 178. Final accounts of BCI.
+
+**178**.— F380[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F380: Repealed (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 73(g), S.I. No. 71 of 2023.
+
+### 179. Continuance of Ministerial consents given in respect of public service broadcasters.
+
+**179**.— F381[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F381: Repealed (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 73(g), S.I. No. 71 of 2023.
+
+## PART 13 Wireless Telegraphy — PART 13 — Wireless Telegraphy
+
+### 180. Collective citations — Wireless Telegraphy Acts.
+
+**180**.— (1) The Wireless Telegraphy Acts 1926 to 1988 and *sections 181(1)* to *(7)* and *(9)* and *section 182* may be cited together as the Wireless Telegraphy Acts 1926 to 2009.
+
+(2) The Broadcasting (Offences) Acts 1968 and 1988, sections 9 to 16 of the Broadcasting Act 1990 and *section 181(8)*, *(10)* and *(11)* may be cited together as the Broadcasting (Offences) Acts 1968 to 2009.
+
+### 181. Amendment of Broadcasting and Wireless Telegraphy Acts (increase of fines, etc.).
+
+**181**.— (1) Section 2 of the Act of 1926 is amended—
+
+(*a*) by substituting for the definition of “the appropriate authority” (inserted by Part 1 of Schedule 1 of the Act of 2007) the following:
+
+“except as provided by section 9, ‘appropriate authority’—
+
+(*a*) in relation to wireless telegraphy apparatus in ships and vessels associated with safety and security on board them and their operation (including the certificates of competency for the operation of apparatus for wireless telegraphy on ships and vessels), means the Minister for Transport, and
+
+(*b*) in relation to any other matter, means the Commission;”,
+
+(*b*) by deleting the definition of “broadcast matter”, and
+
+(*c*) by inserting after the definition of “signalling station” the following:
+
+“ ‘television set’ has the meaning assigned to it by *section 140* of the *Broadcasting Act 2009*.”.
+
+(2) Section 3 of the Act of 1926 is amended by substituting for subsection (3) (inserted by section 12(1)(*a*) of the Act of 1988) the following:
+
+“(3) A person who keeps, has in his or her possession, installs, maintains, works or uses any apparatus (other than a television set) in contravention of this section commits an offence and is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €250,000.”.
+
+(3) Section 10 of the Act of 1926 is amended in subsection (8) (inserted by section 12(1)*(d)*(ii) of the Act of 1988) by substituting for paragraphs (*a*) and (*b*) the following:
+
+“(*a*) on summary conviction, to a fine not exceeding €5,000, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €250,000.”.
+
+(4) Section 11 of the Act of 1926 is amended in subsection (3) (inserted by section 12(1)(*f)* of the Act of 1988) by substituting—
+
+(*a*) in paragraph (*a*) “€5,000” for “one thousand pounds”, and
+
+(*b*) in paragraph (*b*) “€250,000” for “twenty thousand pounds”.
+
+(5) Section 12 of the Act of 1926 is amended in subsection (1) (as amended by section 34(*e*) of the Broadcasting Authority Act 1960) by substituting “under the *Broadcasting Act 2009*” for “under Part II of this Act or under the Broadcasting Authority Act, 1960”.
+
+(6) Section 12 of the Act of 1926 is amended in subsection (3) (as amended by section 12(1)*(g)* of the Act of 1988) by substituting for paragraphs (*a*) and (*b*) the following:
+
+“(*a*) on summary conviction, to a fine not exceeding €5,000, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €250,000.”.
+
+(7) Section 12A of the Act of 1926 is amended by substituting for subsection (12) (inserted by section 12(1)*(h)* of the Act of 1988) the following:
+
+“(12) A person guilty of an offence under this section is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €250,000.”.
+
+(8) Section 7(1) of the Broadcasting (Offences) Act 1968 is amended by substituting—
+
+(*a*) in paragraph *(a)* “€5,000” for “£1,000” (inserted by section 18 of the Act of 1988), and
+
+(*b*) in paragraph *(b)* “€250,000” for “£20,000” (inserted by that section).
+
+(9) Section 10 of the Act of 1972 is amended—
+
+(*a*) in subsection (1), by substituting for paragraph (*a*) the following:
+
+“(*a*) without reasonable cause or excuse, fails to comply with a requirement of an order under section 5, or”,
+
+(*b*) in subsection (3) (as amended by section 12(2)*(a)* of the Act of 1988) by substituting—
+
+(i) in paragraph *(a)*, “€2,000” for “five hundred pounds”, and
+
+(ii) in paragraph *(b)*, “€5,000” for “one thousand pounds”, and
+
+(*c*) in subsection (4)*(a)* (inserted by section 12(2)*(b)* of the Act of 1988) by substituting for subparagraph (i) the following:
+
+“(i) A person guilty of an offence under subsection (2) is liable—
+
+(I) on summary conviction, to a fine not exceeding €5,000, or
+
+(II) on conviction on indictment, to a fine not exceeding €250,000.”.
+
+(10) The Act of 1988 is amended—
+
+(*a*) in section 6, by substituting for subsection (1) the following:
+
+“(1) A person guilty of an offence under section 3, 4 or 5 is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €250,000.”,
+
+(*b*) in section 8, by substituting “€5,000” for “£1,000”,
+
+(*c*) in section 9, by substituting for subsection (4) the following:
+
+“(4) A person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding €5,000.”.
+
+(11) Section 11 of the Broadcasting Act 1990 is amended by substituting for subsection (1) the following:
+
+“(1) A person guilty of an offence under section 9 or 10 is liable—
+
+(*a*) on summary conviction to a fine not exceeding €5,000, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €250,000.”.
+
+### 182. Matters relating to wireless telegraphy.
+
+**182**.— The Act of 1926 is amended by substituting for sections 5 to 9 the sections set out in *Schedule 2* .
+
+## PART 14 Miscellaneous — PART 14 — Miscellaneous
+
+### 183. Amendment to definitions in Copyright and Related Rights Act 2000.
+
+**183**.— Section 2 of the Copyright and Related Rights Act 2000 is amended—
+
+(*a*) by substituting for the definition of “broadcast” the following:
+
+“ ‘broadcast’ means a transmission by wireless means, including by terrestrial or satellite means, whether digital or analogue, for direct public reception or for presentation to members of the public of sounds, images or data or any combination of sounds, images or data, or the representations thereof, but does not include transmission by means of MMDS or digital terrestrial retransmission;”,
+
+(*b*) in the definition of “cable programme service” by substituting “including MMDS and digital terrestrial retransmission” for “including MMDS”,
+
+(*c*) by inserting after the definition of “database” the following:
+
+“ ‘digital terrestrial retransmission’ means the reception and immediate retransmission on an encrypted basis without alteration by means of a multiplex of a broadcast or a cable programme initially transmitted from another Member State of the EEA;”,
+
+and
+
+(*d*) by inserting after the definition of “MMDS” the following:
+
+“ ‘multiplex’ has the meaning assigned to it in *section 129* of the *Broadcasting Act 2009*;”.
+
+### 184. Minister’s functions in relation to electronic communications networks and electronic communications services.
+
+**184**.— (1) Without prejudice to the Minister’s functions under this or any other enactment, the Minister has the power and is deemed always to have had the power, by himself or herself, or in conjunction with any other person, to fund, install, own and operate electronic communications networks and to provide electronic communications services, including where such networks or services are for the purpose of providing broadcasting services.
+
+(2) The Minister has all such incidental, supplemental, ancillary and consequential powers as are necessary or expedient for the purpose of the exercise by him or her of the above powers.
+
+(3) The exercise of the powers referred to in *subsections (1)* and *(2)* is subject to all requirements otherwise imposed by law.
+
+(4) The powers referred to in *subsections (1)* and *(2)* are in addition to and not in substitution for any other powers or functions of the Minister under this or any other enactment.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C24: Functions transferred and references to Minister for the Environment, Climate and Communications construed as Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media (1.06.2025) by *Telecommunications (Transfer of Departmental Administration and Ministerial Functions) Order 2025* (S.I. No. 237 of 2025), art. 3 and sch. 1 part 1, in operation as per art. 1(2), subject to transitional provisions in arts. 4-6.
+>
+> 3\. (1) The functions vested in the Minister for the Environment, Climate and Communications –
+>
+> (a) by or under the Acts or provisions of the Acts mentioned in Part 1 of the Schedule,
+>
+> (b) ...
+>
+> are transferred to the Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media.
+>
+> (2) References to the Minister for the Environment, Climate and Communications contained in any Act or instrument made under such Act and relating to any functions transferred by this Article shall, from the commencement of this Order, be construed as references to the Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media.
+>
+> ...
+>
+> Schedule
+>
+> Part 1
+>
+> ...
+>
+> Section 184 of the Broadcasting Act 2009 (No. 18 of 2009)
+>
+> ...
+
+### 185. Amendment of section 5 of Act of 1998 (advertisement, etc., by Referendum Commission).
+
+**185**.— The following section is substituted for section 5 of the Act of 1998:
+
+“5.— (1) *Section 41 (3)* of the *Broadcasting Act 2009* does not apply to advertisements broadcast at the request of the Commission in relation to a matter referred to in section 3 concerning the referendum.
+
+(2) The Minister for Communications, Energy and Natural Resources, if so requested by the Commission following consultation by the Commission with RTÉ and TG4 and consideration of any proposals of RTÉ or TG4 for broadcasts in connection with the referendum that RTÉ or TG4 communicate to the Commission, shall direct RTÉ and TG4 in writing to allocate broadcasting time to facilitate the Commission in performing its functions. RTÉ and TG4 shall comply with the direction.
+
+(3) The Minister for Communications, Energy and Natural Resources, if so requested by the Commission following consultation by the Commission with the BAI and consideration of any proposals of the BAI for broadcasts in connection with the referendum by sound broadcasting contractors, a television programme service contractor or content provision contractors that it communicates to the Commission, shall direct the BAI in writing to arrange for the provision for and on behalf of the Commission of services (with or without charge) including the allocation of broadcasting time to facilitate the Commission in performing its functions. The BAI shall comply with the direction.
+
+(4) In this section—
+
+‘BAI’ means Broadcasting Authority of Ireland;
+
+‘RTÉ’ and ‘TG4’ have the meaning assigned to them, respectively, by *section 2* of the *Broadcasting Act 2009*.”.
+
+## PART 15 Digital Services — PART 15 — Digital Services
+
+### F382[Chapter 1 — Interpretation
+
+#### 186. Interpretation (Part 15).
+
+**186**.— (1) In this Part—
+
+“certification conditions” means the conditions specified in Article 21(3);
+
+“designation conditions” means the conditions specified in Article 40(8);
+
+“out-of-court dispute settlement body” means a person certified under section 193(3)(a);
+
+“vetted researcher” means a person designated as a vetted researcher under section 187(5)(a).
+
+(2) A word or expression used in this Part that is also used in the Digital Services Regulation has, unless the context otherwise requires, the same meaning in this Part as it has in that Regulation.
+
+(3) Unless the context otherwise requires, a reference in this Part to a numbered Article is a reference to the Article so numbered of the Digital Services Regulation.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F382: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 41, S.I. No. 53 of 2024.
+
+### Chapter 2 — Vetted researchers, trusted flaggers and out-of-court settlement bodies
+
+#### F383[187. Designation of vetted researchers.
+
+**187**.— (1) A person who applies to the Commission under Article 40(8) to be designated as a vetted researcher shall do so in the form and manner specified by the Commission and such application shall specify the research to which the application relates.
+
+(2) Where a Member State Digital Services Coordinator provides the Commission with an initial assessment conducted in accordance with Article 40(9) together with the application and supporting documents submitted to the Coordinator, any information provided by the Member State Digital Services Coordinator in accordance with this subsection shall be deemed to be an application under *subsection (1)* by the person who submitted the application to the Coordinator.
+
+(3) At any time after receiving an application under *subsection (1)*, and before determining the application, the Commission may by notice in writing require the person applying under *subsection (1)* to provide additional information to the Commission and where the Commission does so, the person shall comply with that requirement within the period specified in the request.
+
+(4) Additional information referred to in *subsection (3)* may include information the Commission considers is appropriate for, or relevant to, the making of a reasoned request in accordance with Article 40(4).
+
+(5) Where the Commission is satisfied that a person, the subject of the application under *subsection (1)*—
+
+(*a*) meets the designation conditions, the Commission may designate that person as a vetted researcher for the research referred to in the application, or
+
+(*b*) does not meet the designation conditions, the Commission may refuse to designate that person as a vetted researcher for the research referred to in the application.
+
+(6) Where the Commission makes a decision under *subsection (5)*, the Commission shall notify the person, the subject of the application under *subsection (1)*, in writing of the decision.
+
+(7) A provider of a very large online platform (within the meaning of *section 139ZG*) or of a very large online search engine (within the meaning of *section 139ZG*) shall provide access to data to a vetted researcher where the Commission has issued a reasoned request under Article 40(4) for that vetted researcher.
+
+(8) The Commission shall provide a copy of the reasoned request issued under Article 40(4) to the vetted researcher concerned.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F383: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 41, S.I. No. 53 of 2024.
+
+#### 188. Termination of data access.
+
+F384[**188**.— (1) Where a vetted researcher has been granted data access following a reasoned request for such access under Article 40(4), the Commission shall terminate the access where the Commission has determined that the vetted researcher no longer meets the designation conditions, following an investigation—
+
+(*a*) on the Commission’s own initiative, or
+
+(*b*) based on information received by the Commission from third parties.
+
+(2) Where the Commission proposes to terminate data access in accordance with *subsection (1)*, the Commission shall notify the vetted researcher in writing of the proposed termination.
+
+(3) A notification under *subsection (2)* shall include particulars of the following:
+
+(*a*) the proposal to terminate access under *subsection (1)* and the reason for it;
+
+(*b*) that the researcher is entitled to make representations in accordance with *section 196* regarding the proposal to terminate access;
+
+(*c*) that if the researcher does not make such representations, the proposed termination under *subsection (1)* shall come into operation 14 days from the date of the service of the notification;
+
+(*d*) that the researcher is entitled to seek a review of the decision to terminate access in accordance with *section 189*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F384: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 41, S.I. No. 53 of 2024.
+
+#### 189. Review of refusal of designation or revocation of designation.
+
+F385[**189**.— (1) Where—
+
+(*a*) an application for designation is refused by the Commission under *section 187(5)(b)*, or
+
+(*b*) the data access of a vetted researcher is proposed to be terminated by the Commission under *section 188*,
+
+the applicant or the vetted researcher may, within 14 days from the date of the service of the notification under *section 187(6)* or *188(2)*, request in writing a review (in this section referred to as a ‘review request’) of such refusal or proposed termination in the form and manner specified by the Commission.
+
+(2) The review request shall state the grounds on which the person making the request seeks a review of the refusal or proposed termination, as the case may be.
+
+(3) The Commission shall, upon receipt of the review request, appoint an independent person (in this section referred to as a “reviewer”) to carry out a review in accordance with this section.
+
+(4) The reviewer shall, as soon as is practicable after being appointed, review the decision to refuse the application or the proposal to terminate the data access and may recommend to the Commission that—
+
+(*a*) the decision should be affirmed, or
+
+(*b*) the decision should be set aside and the Commission reconsider the decision.
+
+(5) The reviewer shall, within 14 days of making a recommendation under *subsection (4)*, notify the person who made the review request, of the recommendation and the reasons for it.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F385: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 41, S.I. No. 53 of 2024.
+
+#### 190. Award of trusted flagger status.
+
+F386[**190**.— (1) An entity established in the State that applies to the Commission under Article 22(2) to be awarded status as a trusted flagger shall do so in the form and manner specified by the Commission (and an entity that so applies is in this section referred to as an “applicant”).
+
+(2) At any time after receiving an application and before determining the application, the Commission may by notice in writing require the applicant to provide additional information to the Commission and where the Commission does so, the applicant shall comply with that requirement within the period specified in the request.
+
+(3) Where the Commission is satisfied that an applicant—
+
+(*a*) meets the specified conditions, the Commission may award the applicant status as a trusted flagger, or
+
+(*b*) does not meet the specified conditions, the Commission may refuse to award the applicant status as a trusted flagger.
+
+(4) Where the Commission makes a decision under *subsection (3)*, the Commission shall notify the applicant in writing of the decision.
+
+(5) In this section and in *section 191*, “specified conditions” means the conditions specified in Article 22(2).]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F386: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 41, S.I. No. 53 of 2024.
+
+#### 191. Revocation of status as trusted flagger.
+
+F387[**191**.— (1) Where the Commission proposes to revoke the status of a trusted flagger under Article 22(7), the Commission shall notify the trusted flagger in writing of the proposed revocation.
+
+(2) A notification under *subsection (1)* shall include particulars of the following:
+
+(*a*) the proposal to revoke the status of the trusted flagger under Article 22(7) and the reason for it;
+
+(*b*) that the trusted flagger is entitled to make representations in accordance with *section 196* regarding the proposal to revoke the status of the trusted flagger;
+
+(*c*) that if the trusted flagger does not make such representations, the proposed revocation of the status of the trusted flagger under Article 22(7) shall come into operation 14 days from the date of the service of the notification;
+
+(*d*) that the trusted flagger is entitled to seek a review of the decision to revoke the status of the trusted flagger in accordance with *section 192*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F387: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 41, S.I. No. 53 of 2024.
+
+#### 192. Review of refusal of designation or revocation of designation.
+
+F388[**192**.— (1) Where—
+
+(*a*) an application by an entity to be awarded status as a trusted flagger is refused by the Commission under *section 190(3)(b)*, or
+
+(*b*) the status of a trusted flagger is proposed to be revoked by the Commission under *section 191*, the entity or the trusted flagger may, within 14 days from the date of the notification under *section 190(4)* or *191(1)*, request in writing a review (in this section referred to as a “review request”) of such refusal or proposed revocation, in the form and manner specified by the Commission.
+
+(2) The review request shall state the grounds on which the entity or trusted flagger making the request seeks a review of the refusal or proposed revocation, as the case may be.
+
+(3) The Commission shall, upon receipt of the review request, appoint an independent person (in this section referred to as a “reviewer”) to carry out a review in accordance with this section.
+
+(4) The reviewer shall, as soon as is practicable after being appointed, review the decision to refuse the award of status as a trusted flagger or to revoke the status as a trusted flagger and may recommend to the Commission that—
+
+(*a*) the decision should be affirmed, or
+
+(*b*) the decision should be set aside and that the Commission reconsider the decision.
+
+(5) The reviewer shall, within 14 days of making a recommendation under *subsection (4)*, give notice to the entity or trusted flagger who made the review request, of the recommendation and the reasons for it.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F388: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 41, S.I. No. 53 of 2024.
+
+#### 193. Certification of out-of-court dispute settlement bodies.
+
+F389[**193**.— (1) A person who applies to the Commission under Article 21 to be certified as an out-of-court dispute settlement body shall do so in the form and manner specified by the Commission (and a person who so applies is in this section referred to as an “applicant”).
+
+(2) At any time after receiving an application and before determining the application, the Commission may by notice in writing require the applicant to provide additional information to the Commission and, where the Commission does so, the applicant shall comply with that requirement within the period specified in the notice.
+
+(3) Where the Commission is satisfied that an applicant—
+
+(*a*) meets the certification conditions, the Commission may certify the applicant as an out-of-court dispute settlement body, or
+
+(*b*) does not meet the certification conditions, the Commission may refuse to certify the applicant as an out-of-court dispute settlement body.
+
+(4) Where the Commission makes a decision under *subsection (3)*, it shall notify the applicant in writing of the decision.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F389: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 41, S.I. No. 53 of 2024.
+
+#### 194. Revocation of certification as out-of-court dispute settlement body.
+
+F390[**194**.— (1) Where the Commission proposes to revoke the certification of an out of-court dispute settlement body under Article 21(7), it shall notify the out-of-court dispute settlement body concerned in writing of the proposed revocation.
+
+(2) A notification under *subsection (1)* shall include particulars of the following:
+
+(*a*) the proposal to revoke the certification under Article 21(7) and the reason for it;
+
+(*b*) that the out-of-court dispute settlement body is entitled to make representations in accordance with *section 196* regarding the proposal to revoke the certification;
+
+(*c*) that if the out-of-court dispute settlement body does not make such representations, the proposed revocation of the certification under Article 21(7) shall come into operation 14 days from the date of the service of the notification;
+
+(*d*) that the out-of-court dispute settlement body is entitled to seek a review of the decision to revoke the certification in accordance with *section 195*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F390: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 41, S.I. No. 53 of 2024.
+
+#### 195. Review of refusal of certification or revocation of certification.
+
+F391[**195**.— (1) Where—
+
+(*a*) an application for certification as an out-of-court dispute settlement body is refused by the Commission under *section 193(3)(b)*, or
+
+(*b*) the certification of an out-of-court dispute settlement body is proposed to be revoked by the Commission under *section 194*, the body may, within 14 days from the date of the notification under *section 193(4)* or *194(1)*, request in writing a review (in this section referred to as a “review request”) of such refusal or proposed revocation in the manner and form specified by the Commission.
+
+(2) The review request shall state the grounds on which the body or out of-court dispute settlement body making the request seeks a review of the refusal or proposed revocation, as the case may be.
+
+(3) The Commission shall, upon receipt of the review request, appoint an independent person (in this section referred to as a “reviewer”) to carry out a review in accordance with this section.
+
+(4) The reviewer shall, as soon as is practicable after being appointed, review the decision to refuse or revoke the designation and may recommend to the Commission that—
+
+(*a*) the decision should be affirmed, or
+
+(*b*) the decision should be set aside and that the Commission reconsider the decision.
+
+(5) The reviewer shall, within 14 days of making a recommendation under *subsection (4)*, give notice to the person who made the review request, of the recommendation and the reasons for it.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F391: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 41, S.I. No. 53 of 2024.
+
+#### 196. Representations.
+
+F392[**196**.— (1) Where—
+
+(*a*) a vetted researcher has been notified of a proposal to terminate data access under *section 188*,
+
+(*b*) a trusted flagger has been notified of a proposal to revoke the status of the trusted flagger under *section 191*, or
+
+(*c*) an out-of-court dispute settlement body has been notified of a proposal to revoke the certification of the out-of-court dispute settlement body under *section 194*,
+
+the researcher, flagger or body may make representations to the Commission about such proposal.
+
+(2) The Commission shall have regard to any representations made to it under *subsection (1)* in deciding whether to proceed with the proposed termination or revocation concerned.
+
+(3) Where—
+
+(*a*) a researcher, flagger or body makes representations to the Commission in accordance with *subsection (1)*, and
+
+(*b*) the Commission decides to give effect to the proposed termination of data access, revocation of the status of trusted flagger or revocation of certification as an out-of-court dispute settlement body,
+
+the termination or revocation shall come into operation 14 days from the date of the notification under *section 188*, *191* or *194*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F392: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 41, S.I. No. 53 of 2024.
+
+#### 197. Investigation of trusted flagger, vetted researcher or out-of-court dispute settlement body.
+
+F393[**197**.— (1) For the purposes of an investigation in accordance with Articles 21(7), 22(7) and 40(1), the Commission may appoint a member of the staff of the Commission as an investigator to investigate—
+
+(*a*) the award of a status as a trusted flagger in accordance with Article 22(7),
+
+(*b*) the certification of an out-of-court dispute settlement body in accordance with Article 21(7), or
+
+(*c*) the designation as a vetted researcher in accordance with Article 40(10).
+
+(2) An investigation under this section shall be carried out by a Digital Services investigator without undue delay and where the investigation concerns the status of a trusted flagger, that status shall be suspended during the period of the investigation.
+
+(3) For the purposes of an investigation undertaken in accordance with this section, the Digital Services investigator may—
+
+(*a*) inspect and make copies of any books, records or other documents (including books, records or documents stored in non-legible form), or take extracts therefrom, relating to the trusted flagger, vetted researcher or out-of-court dispute settlement body,
+
+(*b*) by notice in writing, request the trusted flagger, vetted researcher or out-of-court dispute settlement body to provide additional information to him or her, and
+
+(*c*) request any person at the place of work or premises of the trusted flagger, vetted researcher or out-of-court dispute settlement body concerned, including the owner or person in charge of that place or premises, to give the Digital Services investigator such information and assistance as he or she may reasonably require for the purposes of an investigation under this section.
+
+(4) A person requested to provide information or assistance in accordance with *subsection (3)(c)* shall comply with a request of the Digital Services investigator to provide such information and assistance as he or she may reasonably require for the purposes of the investigation.
+
+(5) In this section, “Digital Services investigator” means an investigator appointed under *subsection (1)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F393: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 41, S.I. No. 53 of 2024.
+
+### F394[Chapter 3 — Miscellaneous
+
+#### 198. Orders to act against illegal content.
+
+**198**.— (1) Where an authority in the State issues an order to act against one or more specific items of illegal content under Article 9(1), the authority shall ensure that the order meets the conditions specified in Article 9(2).
+
+(2) Any order issued in the State under Article 9 shall be transmitted to the Commission by the authority who issues it, and such transmission shall include any information received from an intermediary service provider of the effect given to the order under Article 9(1).]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F394: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 41, S.I. No. 53 of 2024.
+
+#### 199. Orders to provide information.
+
+F395[**199**.— (1) Where an authority in the State issues an order to provide specific information under Article 10(1), the authority shall ensure that the order meets the conditions specified in Article 10(2).
+
+(2) Any order issued in the State under Article 10 shall be transmitted to the Commission by the authority who issues it, and such transmission shall include any information received from an intermediary service provider of the effect given to the order under Article 10(1).]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F395: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 41, S.I. No. 53 of 2024.
+
+#### 200. Fees.
+
+F396[**200**.— (1) The Commission may specify a fee to accompany—
+
+(*a*) an application referred to in *section 187*, *190* or *193*, and
+
+(*b*) a review request made under *section 189*, *192* or *195*.
+
+(2) The Commission may specify different fees for different classes of application or review request.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F396: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 41, S.I. No. 53 of 2024.
+
+#### 201. Complaints to Commission concerning Digital Services Regulation.
+
+F397[**201**.— (1) A person (in this section referred to as “a complainant”) may make a complaint to the Commission, in the manner and form specified by the Commission, that there has been a failure by an intermediary service provider to comply with a provision of the Digital Services Regulation.
+
+(2) The Commission shall carry out an initial assessment of the complaint made under *subsection (1)* and, having done so, may transmit the complaint to—
+
+(*a*) the Competition and Consumer Protection Commission where the complaint concerns Article 30, 31 or 32,
+
+(*b*) the Digital Services Coordinator of establishment, where considered appropriate, accompanied by an opinion, or
+
+(*c*) the European Commission where the complaint concerns Articles 33 to 42.
+
+(3) The Commission shall notify the complainant where the complaint has been transmitted under *subsection (2)*.
+
+(4) The Commission shall, where it does not transmit the complaint under *subsection (2)*, carry out a further assessment of the complaint and may take any of the following actions:
+
+(*a*) serve an intermediary service provider a compliance notice under *section 139ZZGA*;
+
+(*b*) investigate the complaint in accordance with *section 139ZI(1)*;
+
+(*c*) dismiss the complaint where the Commission finds—
+
+(i) the complaint is frivolous or vexatious or was not made in good faith, or
+
+(ii) the subject matter of the complaint is trivial;
+
+(*d*) take such other action in respect of the complaint as the Commission considers appropriate.
+
+(5) The Commission shall notify the complainant and the intermediary service provider to which the complaint relates of the complaint made under this section and of any action proposed by the Commission under *subsection (4)*.
+
+(6) A notification under *subsection (5)* shall—
+
+(*a*) include particulars of the complaint,
+
+(*b*) state that the intermediary service provider to which the complaint relates may make representations under *subsection (7)*, and
+
+(*c*) specify the date by which any representations shall be made under *subsection (7)*.
+
+(7) An intermediary service provider the subject of a complaint made under *subsection (1)* and notified under *subsection (6)* may, within the time specified by the Commission in such notification, make representations to the Commission about such complaint.
+
+(8) The Commission shall have regard to any representations made to it under *subsection (7)* in deciding whether to proceed with any proposed action under *subsection (4)*.
+
+(9) The Commission shall notify the complainant and the intermediary service provider the subject of the complaint made under *subsection (1)* in writing of its decision under *subsection (4)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F397: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 41, S.I. No. 53 of 2024.
+
+#### 202. Offences.
+
+F398[**202**.— (1) A person who knowingly or recklessly provides false or misleading information to the Commission in relation to an application referred to in *section 187*, *190* or *193* or under *section 196* or *197(3)* shall be guilty of a category 2 offence.
+
+(2) A person, while not awarded status as a trusted flagger or whose status as a trusted flagger is revoked, who holds themselves out as a trusted flagger, shall be guilty of a category 3 offence.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F398: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 41, S.I. No. 53 of 2024.
+
+## Section 3. — SCHEDULE 1 — Enactments Repealed
+
+| Number and year | Short title | Extent of repeal |
+|---|---|---|
+| No. 45 of 1926 | Wireless Telegraphy Act 1926 | Section 3A (inserted by section 17 of No. 37 of 1976) and Part II. |
+| No. 4 of 1956 | Wireless Telegraph Act 1956 | The whole Act |
+| No. 10 of 1960 | Broadcasting Authority Act 1960 | The whole Act (other than Part II of the Third Schedule) |
+| No. 4 of 1964 | Broadcasting Authority (Amendment) Act 1964 | The whole Act |
+| No. 7 of 1966 | Broadcasting Authority (Amendment) Act 1966 | The whole Act |
+| No. 2 of 1971 | Broadcasting Authority (Amendment) Act 1971 | The whole Act |
+| No. 5 of 1972 | Wireless Telegraphy Act 1972 | Sections 2, 3, 4, 9, 12 and 14 and the Schedule |
+| No. 1 of 1973 | Broadcasting Authority (Amendment) Act 1973 | The whole Act |
+| No. 33 of 1974 | Broadcasting Authority (Amendment) Act 1974 | The whole Act |
+| No. 37 of 1976 | Broadcasting Authority (Amendment) Act 1976 | Sections 2 to 17 and 21 |
+| No. 36 of 1979 | Broadcasting Authority (Amendment) Act 1979 | The whole Act |
+| No. 24 of 1983 | Postal and Telecommunications Services Act 1983 | Sections 76 to 79 |
+| No. 19 of 1988 | Broadcasting and Wireless Telegraphy Act 1988 | Sections 2(2), 10, 11 and 17 to 20 |
+| No. 20 of 1988 | Radio and Television Act 1988 | The whole Act |
+| No. 24 of 1990 | Broadcasting Act 1990 | Sections 5, 6, 7 and 8 |
+| No. 15 of 1993 | Broadcasting Authority (Amendment) Act 1993 | The whole Act |
+| No. 28 of 1999 | Broadcasting (Major Events Television Coverage) Act 1999 | The whole Act |
+| No. 4 of 2001 | Broadcasting Act 2001 | The whole Act |
+| No. 13 of 2003 | Broadcasting (Major Events Television Coverage) (Amendment) Act 2003 | The whole Act |
+| No. 43 of 2003 | Broadcasting (Funding) Act 2003 | The whole Act |
+| No. 14 of 2005 | Disability Act 2005 | Section 53 |
+| No. 15 of 2007 | Broadcasting (Amendment) Act 2007 | The whole Act |
+| No. 22 of 2007 | Communications Regulation (Amendment) Act 2007 | Paragraph (*b*) in the third column at item 4 in the first column of Part 1 of Schedule 1 |
+
+## Section 182. — SCHEDULE 2 — Sections 5 to 9 of the Wireless Telegraphy Act 1926
+
+Grant of licences.
+
+**5**.— (1) The appropriate authority may, subject to this Act and on payment of the prescribed fee (if any) grant to any person a licence to keep and have possession of apparatus for wireless telegraphy in any specified place in the State or to keep and have possession of apparatus for wireless telegraphy in any specified ship or other vessel or aircraft.
+
+(2) Every licence granted under this section shall be in such form, continue in force for such period and be subject to such conditions and restrictions (including conditions as to suspension and revocation) as shall be prescribed in regard to it by regulations made by the appropriate authority under section 6.
+
+(3) Where it appears appropriate to the appropriate authority, it may, in the interests of the efficient and orderly use of wireless telegraphy, limit the number of licences for any particular class or classes of apparatus for wireless telegraphy granted under this section.
+
+(4) This section does not apply to television sets.
+
+(5) For the purposes of this Act and any regulations under section 6, a vehicle is itself deemed to be a place separate and distinct from the premises in which the vehicle is ordinarily kept, and place and specified place shall in this Act and in any such regulations be read accordingly.
+
+Regulations in regard to licences.
+
+**6**.— (1) The appropriate authority may make regulations prescribing in relation to all licences granted by it under section 5 or any particular class or classes of such licences all or any of the matters following that is to say—
+
+(*a*) the form of such licences,
+
+(*b*) the period during which such licences continue in force,
+
+(*c*) the manner in which, the terms on which, and the period or periods for which such licences may be renewed,
+
+(*d*) the circumstances in which or the terms under which such licences are granted,
+
+(*e*) the circumstances and manner in which such licences may be suspended or revoked by that authority,
+
+(*f*) the terms and conditions to be observed by the holders of such licences and subject to which such licences are deemed to be granted,
+
+(*g*) the fees to be paid on the application, grant or renewal of such licences or classes of such licences, subject to such exceptions as the appropriate authority may prescribe, and the time and manner at and in which such fees are to be paid,
+
+(*h*) matters which such licences do not entitle or authorise the holder to do.
+
+(2) Regulations made under this section may authorise and provide for the granting of a licence under section 5 subject to special terms, conditions, and restrictions to any person who satisfies the appropriate authority that the person requires the licence solely for the purpose of conducting experiments in wireless telegraphy.
+
+(3) If it appears to be expedient to the appropriate authority to do so it may by instrument in writing recognise as valid a licence issued by another country or state in respect of a class or classes of apparatus for wireless telegraphy subject to such conditions or restrictions as to the use of such apparatus as that authority sees fit.
+
+(4) (*a*) Every regulation made under this section shall be laid before each House of the Oireachtas as soon as may be after it is made.
+
+(*b*) Either House of the Oireachtas may, within 21 sitting days after the day on which a regulation was laid before it in accordance with paragraph (*a*), pass a resolution annulling the regulation.
+
+(*c*) The annulment under paragraph (*b*) of a regulation takes effect immediately on the passing of the resolution concerned, but does not affect anything that was done under it before the passing of the resolution.
+
+Obligation to furnish certain information.
+
+**7**.— (1) The appropriate authority may, whenever it considers it appropriate to do so, serve on a person a special notice, accompanied by or including a form of declaration, requiring the person—
+
+(*a*) to state on the form of declaration such one or more of the matters specified in subsection (2) as is specified in the notice,
+
+(*b*) to complete and sign the declaration, and
+
+(*c*) to give or send the completed declaration by post to a specified officer of that authority.
+
+The special notice is required to be in writing and to be sent by registered post.
+
+(2) The matters which a person may be required under this section to state in a declaration are—
+
+(*a*) whether he or she does or does not keep or has or has not in his or her possession any apparatus for wireless telegraphy (other than television sets),
+
+(*b*) if he or she keeps or has in his or her possession any such apparatus, the nature of such apparatus, the name and address of the person by whom such apparatus was sold, let, hired or otherwise supplied to him or her and the place at which he or she keeps or has the same,
+
+(*c*) whether he or she has or has not a licence granted under section 5 and then in force,
+
+(*d*) if he or she has such a licence, the number, date, and office of issue of such licence,
+
+(*e*) any matter which the Commission may require for the purpose of an order under section 5 of the Wireless Telegraphy Act 1972, and
+
+(*f*) any other matter relating to wireless telegraphy (other than television sets).
+
+(3) Every person on whom a special notice is duly served under this section shall, within 14 days after service, duly and correctly complete in accordance with the notice and this section the form of declaration to the officer named in that behalf in the notice. If the person fails or neglects so to complete and give or send the declaration or makes in the declaration any statement which is to his or her knowledge false or misleading he or she commits an offence and is liable on summary conviction to a fine not exceeding €1,000.
+
+(4) In a prosecution for an offence under subsection (3) in which it is shown that a specific notice has been sent by registered post, it shall be presumed, until the contrary is shown, that the person to whom the notice was sent has not complied with the requirements of that subsection.
+
+Issue of search warrants.
+
+**8**.— (1) A judge of the District Court may, upon the information on oath of an officer of the appropriate authority or of a member of the Garda Síochána that there is reasonable ground for believing that apparatus for wireless telegraphy is being kept or is being worked or used at any specified place, specified vehicle or in any specified ship or other vessel in contravention of the *Wireless Telegraphy Acts 1926 to 2009* or any regulation made or condition imposed under those Acts or the *Broadcasting (Offences) Acts 1968 to 2009*, issue to such officer or (with the consent of the appropriate authority) to such member of the Garda Síochána (as the case may be) a search warrant which shall be expressed and shall operate to authorise the officer of that authority or member of the Garda Síochána to whom the same is granted—
+
+(*a*) to enter, within one month from the date of issue of the warrant, on production of the warrant, if so requested, and if need be by force, the place, vehicle, ship or other vessel named in the information,
+
+(*b*) there to search for apparatus for wireless telegraphy and to examine all such apparatus or any such vehicle found there, and
+
+(*c*) to seize and take away all or any part of such apparatus which appears to such officer or member to be kept, worked or used in contravention of the *Wireless Telegraphy Acts 1926 to 2009* or any regulation made or condition imposed under those Acts or the *Broadcasting (Offences) Acts 1968 to 2009*.
+
+(2) A search warrant granted under this section shall operate to authorise any one or more of the following, namely, any member of the Garda Síochána or officer of the appropriate authority or other person authorised by the person to whom the warrant is granted to accompany and assist him or her in the exercise of the powers conferred on him or her by the warrant.
+
+(3) An officer of the appropriate authority may retain anything seized under this section which he or she believes to be evidence of any offence or suspected offence under the *Wireless Telegraphy Acts 1926 to 2009* or the *Broadcasting (Offences) Acts 1968 to 2009*, for use as evidence in proceedings in relation to any such offence, for such period from the date of seizure as is reasonable, or, if proceedings are commenced in which the thing so seized is required for use in evidence, until the conclusion of the proceedings.
+
+(4) The appropriate authority shall, as soon as may be after the conclusion of any proceedings, deliver any thing seized and retained under this section to the person who in its opinion is the owner of it, unless—
+
+(*a*) the appropriate authority decides it is unable to ascertain who owns the thing, in which case the Police (Property) Act 1897 applies to the thing so seized and retained, or
+
+(*b*) such delivery would result in a contravention of the *Wireless Telegraphy Acts 1926 to 2009* or the *Broadcasting (Offences) Acts 1968 to 2009*, in which case the Police (Property) Act 1897 applies to the thing so seized and retained as though the appropriate authority could not ascertain the owner of the thing.
+
+(5) (*a*) A person who by act or omission impedes or obstructs an officer of the appropriate authority or a member of the Garda Síochána or any other person in the exercise of a power conferred by a search warrant issued under this section commits an offence.
+
+(*b*) A person who with intent to impede or obstruct an officer of the appropriate authority or a member of the Garda Síochána or any other person in the exercise of a power conferred by a search warrant issued under this section places, erects, installs, keeps or maintains any thing commits an offence.
+
+(*c*) A person guilty of an offence under this subsection is liable on summary conviction to a fine not exceeding €2,000.
+
+Regulations as to wireless telegraphy in ships and aircraft.
+
+**9**.— (1) The appropriate authority may make regulations in respect of all or any of the following matters, that is to say:
+
+(*a*) requiring operators and other persons engaged in the working of apparatus for wireless telegraphy on—
+
+(i) all or any ships registered under the Mercantile Marine Act 1955, or
+
+(ii) all or any classes or class of ships or vessels navigating or operating in the State,
+
+to hold certificates of competency;
+
+(*b*) requiring operators and other persons engaged in the working of apparatus for wireless telegraphy on all or any classes of aircraft owned or leased by persons in the State to hold certificates of competency;
+
+(*c*) the grant and renewal of such certificates of competency, the terms and conditions on which such certificates will be granted, and the qualifications to be possessed and the examinations and other tests to be undergone by persons to whom such certificates are granted;
+
+(*d*) the duration, revocation and suspension of certificates of competency granted under the regulations;
+
+(*e*) the validity, duration, renewal, revocation, and suspension of certificates of competency granted otherwise than under the regulations whether by the appropriate authority or any other person;
+
+(*f*) the fees to be charged for or in connection with the granting and renewal of any such certificates of competence as aforesaid and the collection and disposal of such fees;
+
+(*g*) regulating and controlling the times and manner of working apparatus for wireless telegraphy in ships registered under the Mercantile Marine Act 1955 and, while they are in the State, ships registered outside the State and unregistered ships and other vessels;
+
+(*h*) regulating and controlling the times and manner of working apparatus for wireless telegraphy in aircraft owned or leased by persons in the State and, while they are in or over the State or the territorial waters thereof, aircraft not so owned;
+
+(*i*) giving effect to and securing compliance with the provisions (save in so far as the same relate to ships to which this section and regulations made under it do not apply) of any international convention in relation to wireless telegraphy entered into by the Government.
+
+(2) Regulations made under this section may—
+
+(*a*) provide that a breach or contravention of any specified such regulation shall be an offence, and
+
+(*b*) in relation to convictions on indictment for such an offence, provide that the court by whom the defendant is convicted may order the interest of the defendant, whether as owner or otherwise, in all or any apparatus in respect of or by means of which the court is satisfied a breach or contravention of a specified such regulation was committed to be forfeited.
+
+(3) (*a*) Every regulation made under this section shall be laid before each House of the Oireachtas as soon as may be after it is made.
+
+(*b*) Either House of the Oireachtas may, within 21 sitting days after the day on which a regulation was laid before it in accordance with paragraph (*a*), pass a resolution annulling the regulation.
+
+(*c*) The annulment under paragraph (*b*) of a regulation takes effect immediately on the passing of the resolution concerned, but does not affect anything that was done under it before the passing of the resolution.
+
+(4) A person guilty of an offence by reason of a breach or contravention of a regulation specified, by virtue of paragraph (*a*) of subsection (2), in regulations made under this section is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €250,000.
+
+(5) For the purposes of this section—
+
+(*a*) a ship is deemed to be navigating or operating in the State if it is usually kept in Irish waters (within the meaning of section 2 of the Maritime Safety Act 2005), and
+
+(*b*) an aircraft is deemed to be owned or leased by a person in the State if but only if it is owned or leased by a person who—
+
+(i) in the case of an individual, has his or her place of residence in the State, or
+
+(ii) in the case of an association, company (within the meaning of the Companies Acts) or other body (whether corporate or unincorporate) has its principal office in the State.
+
+(6) In this section, "appropriate authority"—
+
+(*a*) in relation to apparatus for wireless telegraphy on ships or other vessels, means the Minister for Transport, and
+
+(*b*) in relation to apparatus for wireless telegraphy on aircraft, means the Commission.
+
+## Section 139A — SCHEDULE 3 — Harmful Online Content: Offence-Specific Categories
+
+F399[Offences against the State Act 1939
+
+1\. Online content by which a person publishes or broadcasts information about an application under section 30(4) of the Offences against the State Act 1939 contrary to subsection (4BA)(d) of that section (application for further detention of a person arrested for certain offences).
+
+Criminal Law (Rape) Act 1981
+
+2\. Online content by which a person publishes or broadcasts matter likely to lead members of the public to identify a person as the complainant in relation to a charge of a sexual assault offence, contrary to section 7(1) of the Criminal Law (Rape) Act 1981.
+
+3\. Online content by which a person publishes or broadcasts matter likely to lead members of the public to identify a person as the person charged with a rape offence, contrary to section 8(1) of the Criminal Law (Rape) Act 1981.
+
+Prohibition of Incitement to Hatred Act 1989
+
+4\. Online content by which a person publishes or distributes written material, or a recording of visual images or sounds, contrary to section 2(1) of the Prohibition of Incitement to Hatred Act 1989 (material, images or sounds which are threatening, abusive or insulting and are intended or, having regard to all the circumstances, are likely to stir up hatred).
+
+5\. Online content by which a person broadcasts visual images or sounds, contrary to section 3 (1) of the Prohibition of Incitement to Hatred Act 1989 (threatening, abusive or insulting images or sounds whose broadcast is intended or, having regard to all the circumstances, is likely to stir up hatred).
+
+Criminal Justice Act 1993
+
+6\. Online content by which a person publishes or broadcasts information relating to, or to part of, evidence given under section 5 (3) of the Criminal Justice Act 1993, contrary to an order under subsection (5)(a) of that section (sentencing: evidence of a person in respect of whom an offence is committed).
+
+Criminal Law (Suicide) Act 1993
+
+7\. Online content by which a person counsels the suicide of another, contrary to section 2 (2) of the Criminal Law (Suicide) Act 1993.
+
+Criminal Justice (Drug Trafficking) Act 1996
+
+8\. Online content by which a person publishes or broadcasts information about an application under section 2 (2) of the Criminal Justice (Drug Trafficking) Act 1996 contrary to subsection (3A)(d) of that section (application for detention of a person arrested for a drug trafficking offence).
+
+Bail Act 1997
+
+9\. Online content by which a person publishes or broadcasts information relating to the criminal record of a person applying for bail, contrary to section 4 (3) of the Bail Act 1997.
+
+10\. Online content by which a person publishes or broadcasts information relating to, or to part of, evidence given under section 9A(1) of the Bail Act 1997 contrary to an order under subsection (3) of that section (evidence, at application for bail, from a person in respect of whom an offence is alleged to have been committed).
+
+Non-Fatal Offences against the Person Act 1997
+
+11\. Online content by which a person applies force to the body of another, or causes another to believe on reasonable grounds that he or she is likely immediately to be subjected to such force, contrary to section 2 of the Non-Fatal Offences against the Person Act 1997.
+
+F400[11A. Online content by which a person without lawful excuse, intentionally or recklessly, causes another to believe on reasonable grounds that he or she is likely immediately to be subjected to suffocation or strangulation, contrary to section 3A(1)(b) of the Non-Fatal Offences against the Person Act 1997.]
+
+12\. Online content by which a person makes a threat, contrary to section 5 (1) of the Non-Fatal Offences against the Person Act 1997 (threat to kill or cause serious harm to a person).
+
+F402[13. Online content by which a person harasses another contrary to section 10(1), stalks another contrary to section 10(2), or breaches an order made under section 10(4), of the Non-Fatal Offences against the Person Act 1997.]
+
+F401[13A. Online content by which a person publishes or broadcasts identifying material contrary to section 10A of the Non-Fatal Offences against the Person Act 1997.]
+
+Child Trafficking and Pornography Act 1998
+
+14\. Online content by which a person distributes, transmits, disseminates or publishes child pornography, contrary to section 5 (1)(b) of the Child Trafficking and Pornography Act 1998 .
+
+15\. Online content by which a person publishes, distributes, transmits or disseminates an advertisement, contrary to section 5 (1)(e) of the Child Trafficking and Pornography Act 1998 (advertisement of sale etc. of child pornography).
+
+Children Act 2001
+
+16\. Online content by which a person publishes or includes in a broadcast a report to which section 51 (1) of the Children Act 2001 applies (report in relation to admission of a child to the Programme etc. or revealing information likely to lead to identification of the child).
+
+17\. Online content by which a person publishes or includes in a broadcast any such report or picture as is referred to in section 93 (1) of the Children Act 2001 , except so far as the requirements of that section have been dispensed with under subsection (2) of that section (proceedings before a court concerning a child: particulars likely to lead to identification etc.).
+
+18\. Online content by which a person encourages unlawful activity involving a child, contrary to section 249 of the Children Act 2001 (person with custody, charge or care of a child encouraging sexual offences on the child etc.).
+
+19\. Online content by which a person publishes or includes in a broadcast a report or picture to which section 252 (1) of the Children Act 2001 applies, except so far as the requirements of subsection (1) of that section have been dispensed with under subsection (2) of that section (proceedings for an offence against a child or where a child is a witness: report or picture likely to lead to identification of the child etc.).
+
+Criminal Justice (Terrorist Offences) Act 2005
+
+20\. Online content by which a person engages in public provocation to commit a terrorist offence, contrary to section 6 (1)(a)(i) of the Criminal Justice (Terrorist Offences) Act 2005 (where a "terrorist‑linked activity" includes public provocation to commit a terrorist offence, as defined by section 4A of that Act).
+
+21\. Online content by which a person makes a threat to engage in a terrorist activity, contrary to section 6 (1)(a)(iii) of the Criminal Justice (Terrorist Offences) Act 2005.
+
+Criminal Law (Insanity) Act 2006
+
+22\. Online content by which a person publishes, contrary to section 4 (9) of the Criminal Law (Insanity) Act 2006, a report of evidence adduced under subsection (8) of that section as to whether an accused person did the act alleged, or of the decision of the court under that subsection not to order the accused to be discharged.
+
+Criminal Justice Act 2006
+
+23\. Online content by which a person publishes any matter relating to criminal proceedings which would identify a person as having a particular medical condition, contrary to an order under section 181 of the Criminal Justice Act 2006.
+
+Criminal Justice Act 2007
+
+24\. Online content by which a person publishes or broadcasts information about an application under section 50 of the Criminal Justice Act 2007 contrary to subsection (4A)(d) of that section (application for further detention for investigation of certain serious offences).
+
+Criminal Law (Human Trafficking) Act 2008
+
+25\. Online content by which a person publishes or broadcasts, contrary to section 11 (1) of the Criminal Law (Human Trafficking) Act 2008 —
+
+(*a*) a photograph of, or that includes a depiction of, the alleged victim of an offence with which a person is charged under section 2 or 4, or section 3 (other than subsections (2A) and (2B)) of the Child Trafficking and Pornography Act 1998,
+
+(*b*) any other representation of the physical likeness, or any representation that includes a depiction of the physical likeness, of the alleged victim of such an offence, or
+
+(*c*) any other information in relation to such an offence,
+
+that is likely to enable the identification of the alleged victim of the offence.
+
+Criminal Procedure Act 2010
+
+26\. Online content by which a person publishes or broadcasts, contrary to an order under section 12 (3) of the Criminal Procedure Act 2010 —
+
+(*a*) evidence given or referred to at a hearing of an application for a re-trial order, or
+
+(*b*) matter identifying or having the effect of identifying a person who is the subject of an application for a re-trial order, or any other person connected with the re-trial for which an order is sought under section 8 or 9 of that Act.
+
+27\. Online content by which a person publishes or broadcasts, contrary to an order under section 25 (3) of the Criminal Procedure Act 2010 —
+
+(*a*) evidence given or referred to during a proceeding under section 23 of that Act, or
+
+(*b*) matter identifying or having the effect of identifying a person who is the subject of an appeal under section 23 of that Act, or any other person connected with a re-trial for which an order is sought under that section.
+
+Criminal Justice (Female Genital Mutilation) Act 2012
+
+28\. Online content by which a person publishes matter contrary to section 9 (1) of the Criminal Justice (Female Genital Mutilation) Act 2012 (matter likely to lead to identification of a woman or girl as a person in relation to whom an offence is alleged to have been committed).
+
+29\. Online content by which a person publishes matter contrary to section 10 (1) of the Criminal Justice (Female Genital Mutilation) Act 2012 (matter likely to lead to identification of a person charged with an offence).
+
+Animal Health and Welfare Act 2013
+
+30\. Online content by which a person—
+
+(*a*) publicises or promotes a proposed animal fight or performance,
+
+(*b*) provides information about an animal fight or performance, or
+
+(*c*) supplies, displays, shows or publishes anything by which an animal fight or performance is recorded,
+
+contrary to section 15 of the Animal Health and Welfare Act 2013.
+
+International Protection Act 2015
+
+31\. Online content by which a person publishes or broadcasts information, contrary to section 26 (2) of the International Protection Act 2015 (publication or broadcast of information likely to lead to identification of an applicant for protection).
+
+Criminal Law (Sexual Offences) Act 2017
+
+32\. Online content by which a person communicates with another person for the purpose of facilitating the sexual exploitation of a child, contrary to section 8 (1) of the Criminal Law (Sexual Offences) Act 2017.
+
+33\. Online content by which a person sends sexually explicit material to a child, contrary to section 8(2) of the Criminal Law (Sexual Offences) Act 2017.
+
+34\. Online content by which a person publishes matter contrary to section 30 (1) of the Criminal Law (Sexual Offences) Act 2017 (matter likely to lead to identification of a person as a person charged with an offence under the Punishment of Incest Act 1908 or as a person in relation to whom an offence is alleged to have been committed).
+
+35\. Online content by which a person exposes his or her genitals intending to cause fear, distress or alarm to another person contrary to section 45 (1) of the Criminal Law (Sexual Offences) Act 2017.
+
+36\. Online content by which a person intentionally engages in offensive conduct of a sexual nature contrary to section 45(3) of the Criminal Law (Sexual Offences) Act 2017.
+
+Domestic Violence Act 2018
+
+37\. Online content by which a person publishes or broadcasts information, or a photograph, depiction, or other representation, contrary to section 36 (1) of the Domestic Violence Act 2018 (publication or broadcast of material likely to lead to the identification of persons concerned in proceedings).
+
+Harassment, Harmful Communications and Related Offences Act 2020
+
+38\. Online content by which a person distributes or publishes or threatens to distribute or publish an intimate image, contrary to section 2 (1) of the Harassment, Harmful Communications and Related Offences Act 2020 (distribution etc. of image without consent and with intent to cause harm etc.).
+
+39\. Online content by which a person distributes or publishes an intimate image, contrary to section 3 (1) of the Harassment, Harmful Communications and Related Offences Act 2020(distribution etc. of image without consent and so as seriously to interfere with peace and privacy or to cause alarm, distress or harm).
+
+40\. Online content by which a person—
+
+(*a*) distributes or publishes a threatening or grossly offensive communication about another person, or
+
+(*b*) sends a threatening or grossly offensive communication to another person,
+
+contrary to section 4 (1) of the Harassment, Harmful Communications and Related Offences Act 2020 (distribution etc. of communication with intent to cause harm).
+
+41\. Online content by which a person publishes or broadcasts information, or a photograph or other representation, likely to enable the identification of the alleged victim of an offence under section 2 or 3 of the Harassment, Harmful Communications and Related Offences Act 2020, contrary to section 5(1) of that Act.
+
+Criminal Procedure Act 2021
+
+42\. Online content by which a person publishes or broadcasts information about a preliminary trial hearing, or an appeal under section 7 of the Criminal Procedure Act 2021, contrary to section 10(1) of that Act.]
+
+F403[Criminal Justice (Miscellaneous Provisions) Act 2023
+
+43\. Online content by which a person breaches an order made under section 28 of the Criminal Justice (Miscellaneous Provisions) Act 2023.
+
+44\. Online content by which a person publishes or broadcasts identifying material contrary to section 46 of the Criminal Justice (Miscellaneous Provisions) Act 2023.]
+
+F404[International Protection Act 2026
+
+45\. Online content by which a person publishes or broadcasts information, contrary to section 278(1) of the International Protection Act 2026 (prohibition on publication or broadcast of certain information).]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F399: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 46, S.I. No. 71 of 2023.
+>
+> F400, F401: Inserted (1.11.2023) by *Criminal Justice (Miscellaneous Provisions) Act 2023* (24/2023), s. 76(a), (c), S.I. No. 525 of 2023, art. 3(g).
+>
+> F402: Substituted (1.11.2023) by *Criminal Justice (Miscellaneous Provisions) Act 2023* (24/2023), s. 76(b), S.I. No. 525 of 2023, art. 3(g).
+>
+> F403: Inserted (2.09.2024) by *Criminal Justice (Miscellaneous Provisions) Act 2023* (24/2023), s. 76(d), S.I. No. 378 of 2024.
+>
+> F404: Inserted (12.06.2026) by *International Protection Act 2026* (9/2026), s. 305, S.I. No. 244 of 2026.
+
+## Sections 139ZK(3), 139ZR(3) and (4) or 139ZU(2)(a). — SCHEDULE 4 — Oral hearings
+
+F405[1\. (1) This Schedule applies to an oral hearing under *section 139ZK(3)*, *139ZR(3)* or *(4)* and *139ZU(2)(a)*.
+
+(2) In this Schedule—
+
+(*a*) “conducting authority” means—
+
+(i) in relation to an oral hearing under *section 139ZK(3)*, the authorised officer conducting the hearing, and
+
+(ii) in relation to an oral hearing under *section 139ZR(3)* or *(4)* or *section 139ZU(2)(a)*, the Commission,
+
+(*b*) “investigation” means—
+
+(i) in relation to an oral hearing under *section 139ZK(3)*, the investigation for the purposes of which the hearing is conducted, and
+
+(ii) in relation to an oral hearing under *section 139ZR(3)* or *(4)* or *section 139ZU(2)(a)*, the investigation to which the report mentioned in that provision relates,
+
+and
+
+(*c*) “remote hearing” means a hearing in which—
+
+(i) the participants, including the conducting authority, are not all in the one place, and
+
+(ii) one or more of them participate in the hearing by means of electronic communications technology permitting real time transmission and real-time two-way audiovisual, or audio, communications.
+
+2\. The conducting authority may by notice in writing require a person to attend or participate in an oral hearing at a time and place specified in the notice—
+
+(*a*) to give evidence in respect of any matter in issue, or
+
+(*b*) to produce any relevant material or relevant equipment which is within the person’s possession or control or which the person is able to procure.
+
+3\. At an oral hearing, the conducting authority may take evidence on oath or affirmation, and may administer an oath for that purpose.
+
+4\. (1) The conducting authority may allow a witness at an oral hearing to give evidence by tendering a written statement.
+
+(2) A statement tendered under *subparagraph (1)* shall be verified by oath or affirmation.
+
+5\. A person giving evidence at an oral hearing, including an authorised officer where the conducting authority is the Commission, may be examined and cross-examined at the oral hearing.
+
+6\. The conducting authority is bound by the rules of evidence in the conduct of an oral hearing, subject to such exceptions to the rule against hearsay evidence as may be provided for by rules under *section 139ZN*.
+
+7\. A person to whom notice is given under *paragraph 2* shall be entitled to the same immunities and privileges in respect of compliance with any requirement referred to in that paragraph as if the person were a witness before the High Court.
+
+8\. Where a person to whom notice is given under *paragraph 2* does not comply with a requirement referred to in that paragraph, the conducting authority may apply in a summary manner to the Circuit Court, on notice to that person, for an order requiring the person to comply with the requirement within a period to be specified by the Court, and the Court may make the order sought or such other order as it thinks fit or refuse to make any order.
+
+9\. Nothing in this Schedule compels the disclosure by any person of any information that the person would be entitled to refuse to produce on the grounds of legal professional privilege or authorises the inspection or copying of any document containing such information that is in the person’s possession.
+
+10\. The conducting authority, where it is satisfied that special circumstances arise which so necessitate, may—
+
+(*a*) hold an oral hearing otherwise than in public, or partly otherwise than in public, or
+
+(*b*) require that any information is not disclosed in an oral hearing, or not otherwise published or reported where the Commission considers that—
+
+(i) it is commercially sensitive,
+
+(ii) its publication may prejudice an ongoing investigation by the Commission, the Garda Síochána or any other public body, or
+
+(iii) it is personal data.
+
+11\. The conducting authority may pay or reimburse out of moneys at its disposal, in whole or in part, the reasonable travelling and subsistence expenses of a person required to attend an oral hearing.
+
+12\. An oral hearing may be held by remote hearing.
+
+13\. A person who without reasonable excuse knowingly gives false or misleading evidence on oath or affirmation, shall be guilty of an offence and may be liable—
+
+(*a*) on summary conviction, to a class B fine or to imprisonment for a term not exceeding 12 months, or both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €100,000 or imprisonment for a term not exceeding 10 years, or both.
+
+14\. A person who does not comply with a requirement under *paragraph 2* or *paragraph 10(b)*, shall be guilty of a category 2 offence.
+
+F406[14A. Without prejudice to *paragraph 13*, a person may be liable to an administrative financial sanction in accordance with *Part 8B* if in an oral hearing where the suspected contravention is an infringement of the Digital Services Regulation he or she knowingly gives false or misleading evidence on oath or affirmation.]
+
+15\. A statement or admission made by a person in the course of an oral hearing, shall not be admissible in evidence in proceedings brought against the person for an offence, other than an offence under *paragraph 13*, and this shall be explained to the person in ordinary language by the conducting authority.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F405: Inserted (15.03.2023) by *Online Safety and Media Regulation Act 2022* (41/2022), s. 48, S.I. No. 71 of 2023. A class B fine means a fine not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(1), S.I. No. 662 of 2010.
+>
+> F406: Inserted (17.02.2024) by *Digital Services Act 2024* (2/2024), s. 42, S.I. No. 53 of 2024.
+
+[^1]: OJ No. L. 298/23, 17.10.1989
+[^2]: OJ No. L. 202/60, 30.07.1997
+[^3]: OJ No. L. 332, 18.12.2007
+[^4]: OJ No. L. 119, 4.5.2016, p. 1
+[^5]: OJ L277, 27.10.2022, p. 1
+[^6]: OJ No. L. 95, 15.4.2010, p. 1
+[^7]: OJ No. L. 303, 28.11.2018, p. 69
+[^8]: OJ No. L. 178, 17.7.2000, p. 1
+[^9]: OJ L, 2024/1083, 17.4.2024
+[^10]: OJ No. L. 241, 17.9.2015, p. 1
+[^11]: OJ No. L 172, 17.5.2021, p.79.
+[^12]: OJ No. L. 241, 17.9.2015
+[^13]: OJ No. L 95, 15.4.2010, p. 1.
+[^14]: OJ No. L 95, 15.4.2010, p. 1.
+[^15]: OJ No. L. 88, 31.3.2017

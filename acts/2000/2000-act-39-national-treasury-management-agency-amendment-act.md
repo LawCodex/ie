@@ -1,0 +1,917 @@
+---
+title: "National Treasury Management Agency (Amendment) Act, 2000"
+identifier: "eli/2000/act/39"
+type: act
+jurisdiction: ie
+language: en
+number: 39
+year: 2000
+date: 2000-12-20
+last_amended: 2025-11-26
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2000/act/39/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2000/act/39/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# National Treasury Management Agency (Amendment) Act, 2000
+
+AN ACT TO PROVIDE FOR THE DELEGATION TO, AND THE CONFERRAL ON, THE NATIONAL TREASURY MANAGEMENT AGENCY OF FUNCTIONS IN RELATION TO THE MANAGEMENT OF CERTAIN CLAIMS AGAINST THE STATE AND CERTAIN OTHER RELATED FUNCTIONS, FUNCTIONS IN RELATION TO FUND INVESTMENT SERVICES, CONSULTANCY SERVICES AND OTHER SERVICES, THE CONFERRAL ON THE MINISTER FOR FINANCE OF FUNCTIONS IN RELATION TO CENTRAL TREASURY SERVICES AND THE DELEGATION OF THOSE FUNCTIONS TO THE NATIONAL TREASURY MANAGEMENT AGENCY, AND FOR THOSE PURPOSES TO AMEND THE NATIONAL TREASURY MANAGEMENT AGENCY ACT, 1990, AND THE VOCATIONAL EDUCATION ACT, 1930, AND TO PROVIDE FOR RELATED MATTERS.
+
+[20*th December*, 2000]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## PART 1Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title, commencement, construction and collective citation.
+
+**1.** —(1) This Act may be cited as the National Treasury Management Agency (Amendment) Act, 2000.
+
+(2) *Part 2* shall come into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or different provisions.
+
+(3) This Act and the National Treasury Management Agency Act, 1990, shall be construed together as one and may be cited as the National Treasury Management Agency Acts, 1990 and 2000.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to subs. (2) exercised (30.11.2001) by *National Treasury Management Agency (Amendment) Act, 2000 (Part 2) (Commencement) Order 2001* (S.I. No. 526 of 2001).
+>
+> 2\. The 30th day of November 2001 is appointed as the day on which Part 2 of the National Treasury Management Agency (Amendment) Act, 2000 (No. 39 of 2000) shall come into operation.
+
+### 2. Interpretation generally.
+
+**2.** —(1) In this Act, unless the context otherwise requires—
+
+“Agency” means National Treasury Management Agency;
+
+“Minister” means Minister for Finance;
+
+“Principal Act” means National Treasury Management Agency Act, 1990.
+
+(2) In this Act—
+
+(*a*) a reference to a Part, section or Schedule is a reference to a Part or section of, or the Schedule to, this Act unless it is indicated that reference to some other enactment is intended,
+
+(*b*) a reference to a subsection, paragraph or subparagraph is a reference to the subsection, paragraph or subparagraph of the provision in which the reference occurs unless it is indicated that reference to some other provision is intended, and
+
+(*c*) a reference to an enactment shall be construed as a reference to that enactment as amended, adapted or extended by or under any other enactment (including this Act).
+
+### 3. Orders and directions.
+
+**3.** —(1) The Minister may by order amend or revoke an order made by him or her under this Act (other than an order under *section 1(2)*) including an order under this subsection.
+
+(2) The Minister may by direction amend or revoke a direction given by him or her under this Act including a direction under this subsection.
+
+(3) An order under *subsection (1)* shall be made, or a direction under *subsection (2)* shall be given, in the like manner and subject to the like (if any) consultation and conditions as the order or direction that it is amending or revoking.
+
+### 4. Laying of orders before Houses of Oireachtas.
+
+**4.** —Every order (other than an order under *section 1(2)*) under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which that House has sat after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+### 5. Expenses.
+
+**5.** —The expenses incurred by the Minister in the administration of this Act shall be paid out of moneys provided by the Oireachtas.
+
+## PART 2State Claims Agency — PART 2 — State Claims Agency
+
+### 6. Interpretation.
+
+**6.** —(1) In this Part—
+
+“delegated claim” means a claim, or a claim of a class, the management of which stands delegated to the Agency under *subsection (1)* of *section 9* and which is not the subject of a direction under *subsection (4)* of that section;
+
+“manage” means—
+
+(*a*) in relation to a claim, take the steps necessary or expedient for the purpose of disposing (whether by agreement or otherwise) of the claim and, without prejudice to the generality of the foregoing, includes—
+
+(i) perform the clerical and other administrative functions relating to the claim and the disposal of it,
+
+(ii) investigate the claim and any act, omission or other matter (and the circumstances thereof and any other matter relevant thereto) that occasioned the claim,
+
+(iii) retain the services of professional and other expert advisers in relation to the claim and the other matters referred to in *subparagraph (ii)* and in relation to the liability (including the amount of the potential financial liability) of the State authority concerned in respect of the claim and the amount (if any) that would be reasonable to pay in settlement of the claim,
+
+(iv) represent the State authority concerned in a court or other tribunal in relation to the claim,
+
+and
+
+(*b*) in relation to a counterclaim, take the steps necessary or expedient for the purpose of making and disposing of (whether by agreement or otherwise) the counterclaim and, without prejudice to the generality of the foregoing, includes—
+
+(i) perform the clerical and other administrative functions relating to the making of the counterclaim,
+
+(ii) investigate the counterclaim and any act, omission or other matter (and the circumstances thereof and any other matter relevant thereto) that occasioned the counterclaim,
+
+(iii) retain the services of professional and other expert advisers in relation to the counterclaim and the other matters referred to in *subparagraph (ii)* and in relation to the liability (including the amount of the potential financial liability) of the claimant in respect of the counterclaim and the amount (if any) that would be reasonable to receive in settlement of the counterclaim,
+
+(iv) represent the State authority concerned in a court or other tribunal in relation to the counterclaim,
+
+and cognate words shall be construed accordingly;
+
+“relevant Minister of the Government”, in relation to a claim or a delegated claim, as may be appropriate, means—
+
+(*a*) in the case of a claim or delegated claim, as may be appropriate, made against a Minister of the Government, the Minister of the Government concerned,
+
+(*b*) in the case of a claim or a delegated claim, as may be appropriate, made against the State or the Attorney General, the Taoiseach, and
+
+(*c*) in the case of a claim or a delegated claim, as may be appropriate, made against any other State authority, the Minister of the Government at whose request an order may be made under *section 9(1)* in relation to—
+
+(i) the claim concerned, or
+
+(ii) a class of claim to which the claim concerned belongs.
+
+(2) Any function (which includes any power or duty) conferred, or any liability imposed, on a State authority by this Part shall, in the case of the State, be performed or undertaken on its behalf by the Taoiseach.
+
+### 7. Claims and counterclaims to which Part 2 applies.
+
+**7.** —(1) In this Part—
+
+“claim” (other than in *section 12(4)*) means a claim, other than one involving a question as to the validity of any law having regard to the provisions of the Constitution, that is wholly, or in the opinion of the Minister is mainly, one for compensation or damages for loss of life or personal injury, or loss of or damage to property, occasioned by an act, omission or other matter constituting a cause of action made against any one or more State authorities either alone or with any other person, but does not include—
+
+(*a*) F1[...]
+
+(*b*) a claim against the Minister for Justice, Equality and Law Reform, the Commissioner of the Garda Síochána and the Governor of a prison or any of them in respect of an alleged assault upon the claimant by a member of the Garda Síochána or a prison officer of a prison, or
+
+(*c*) a claim under the scheme administered by the Minister for Justice, Equality and Law Reform providing for compensation for personal injury criminally inflicted on prison officers of a prison,
+
+and cognate words shall be construed accordingly;
+
+“counterclaim” means a counterclaim made by a State authority for compensation or damages in relation to a matter the subject of a delegated claim;
+
+“State authority” means—
+
+(*a*) the State (whether or not described in the claim as Ireland),
+
+(*b*) a Minister of the Government,
+
+(*c*) a body specified in the *Schedule* or, if appropriate, the head of such a body,
+
+(*d*) the Commissioner of the Garda Síochána,
+
+(*e*) the Governor of a prison,
+
+(*f*) the board of management of a community school, or a comprehensive school, which is a recognised school within the meaning of section 2 of the Education Act, 1998,
+
+(*g*) the board of management of, or person for the time being managing, a school certified under section 45 of the Children Act, 1908, or a place of detention registered under section 108 of that Act, in which young offenders are detained,
+
+(*h*) the Attorney General,
+
+(*i*) a person in respect of whom a Minister of the Government pays, or agrees to pay, the amount (if any) payable in respect of a claim against the person, or
+
+(*j*) any other body that the Minister may, at the request of that body, if appropriate, and with the consent of the relevant Minister of the Government, prescribe by order, being a body established by or under any enactment (other than the Companies Acts, 1963 to 1999), and financed wholly or partly, whether directly or indirectly, by means of moneys provided, or loans made or guaranteed, by a Minister of the Government or the issue of shares held by or on behalf of a Minister of the Government, or the head of any such body,
+
+and State authorities shall be construed accordingly.
+
+(2) In this section—
+
+“head”, in relation to a body referred to in *paragraph (c)* or *(j)* of the definition of “State authority” in *subsection (1)*, means the person who holds, or performs the functions of, the office of chief executive officer (by whatever name called) of the body;
+
+“personal injury” includes any disease and any impairment of a person's physical or mental condition except in *paragraph (c)* of the definition of “claim” in *subsection (1)*;
+
+“prison” means a place of custody administered by the Minister for Justice, Equality and Law Reform, and includes Saint Patrick's Institution, any place provided under section 2 of the Prisons Act, 1970, or any place specified to be used as a prison under section 3 of the Prisons Act, 1972, and “Governor” and “prison officer”, in relation to a prison, shall be construed accordingly.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Deleted (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 31(1), S.I. No. 163 of 2023.
+>
+> **Modifications (not altering text):**
+>
+> C1: Definition of "claim" construed (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 31(2), S.I. No. 163 of 2023.
+>
+> **National Treasury Management Agency (Amendment) Act 2000**
+>
+> **31.** (1) ...
+>
+> (2) The definition of “claim” in *section 7(1)* of the Act of 2000 shall be construed as including—
+>
+> (a) an application to which *section 5(1)* refers,
+>
+> (b) an application to the Personal Injuries Assessment Board to which *section 19* refers,
+>
+> (c) proceedings to which *Part 6* applies, and
+>
+> (d) proceedings brought as a result of the operation of *section 25*.
+>
+> **Editorial Notes:**
+>
+> E2: Power pursuant to subs. (1) exercised (30.09.2025) by *National Treasury Management Agency (Amendment) Act 2000 (State Authority) Order 2025* (S.I. No. 441 of 2025).
+>
+> E3: Power pursuant to subs. (1) exercised (16.12.2024) by *National Treasury Management Agency (Amendment) Act 2000 (State Authority) (No. 2) Order 2024* (S.I. No. 707 of 2024).
+>
+> E4: Power pursuant to subs. (1) exercised (11.12.2024) by *National Treasury Management Agency (Amendment) Act 2000 (State Authority) Order 2024* (S.I. No. 705 of 2024).
+>
+> E5: Power pursuant to definition of "State authority", para. 7(1)(j) exercised (11.05.2023) *National Treasury Management Agency (Amendment) Act 2000 (State Authority) Order 2023* (S.I. No. 263 of 2023).
+>
+> E6: Power pursuant to definition of "State authority", para. 7(1)(j) exercised (11.05.2023) by *National Treasury Management Agency (Amendment) Act 2000 (State Authorities) Order 2023* (S.I. No. 235 of 2023).
+>
+> E7: Power pursuant to definition of "State authority", para. 7(1)(j) exercised (2.12.2019) by *National Treasury Management Agency (Amendment) Act 2000 (State Authority) (Office of the Planning Regulator) Order 2019* (S.I. No. 613 of 2019).
+>
+> E8: Power pursuant to definition of "State authority", para. 7(1)(j) exercised (1.09.2019) by *National Treasury Management Agency (Amendment) Act 2000 (State Authority) Order 2019* (S.I. No. 445 of 2019).
+>
+> E9: Power pursuant to definition of "State authority", para. 7(1)(j) exercised (28.03.2019) by *National Treasury Management Agency (State Authority) Order 2019* (S.I. No. 136 of 2019).
+>
+> E10: Power pursuant to definition of "State authority", para. 7(1)(j) exercised (5.11.2018) by *National Treasury Management Agency (State Authority) Order 2018* (S.I. No. 498 of 2018).
+>
+> E11: Power pursuant to definition of "State authority", para. 7(1)(j) exercised (26.05.2015) by *National Treasury Management Agency (State Authorities) Order 2015* (S.I. No. 210 of 2015).
+>
+> E12: Power pursuant to definition of "State authority", para. 7(1)(j) exercised (12.03.2014) by *National Treasury Management Agency (State Authorities) Order 2014* (S.I. No. 138 of 2014).
+>
+> E13: Power pursuant to definition of "State authority", para. 7(1)(j) exercised (6.02.2011) by *National Treasury Management Agency (State Authority) Order 2011* (S.I. No. 78 of 2011).
+>
+> E14: Power pursuant to definition of "State authority", para. 7(1)(j) exercised (6.02.2011) by *National Treasury Management Agency (State Authority) (No. 2) Order 2011* (S.I. No. 77 of 2011).
+>
+> E15: Power pursuant to definition of "State authority", para. 7(1)(j) exercised (22.12.2009) by *National Treasury Management Agency (State Authority) Order 2009* (S.I. No. 570 of 2009).
+>
+> E16: Power pursuant to definition of "State authority", para. 7(1)(j) exercised (22.03.2007) by *National Treasury Management Agency (State Authorities) Order 2007* (S.I. No. 110 of 2007), in effect as per art. 1(2).
+>
+> E17: Power pursuant to definition of "State authority", para. 7(1)(j) exercised (10.02.2003) by *National Treasury Management Agency (State Authorities) Order 2003* (S.I. No. 46 of 2003), in effect as per art. 1(2).
+
+### 8. Additional functions of Agency.
+
+**8.** —(1) The Agency shall perform the function delegated to it under *section 9(1)*.
+
+(2) The Agency shall manage counterclaims.
+
+(3) The Agency shall manage delegated claims and counterclaims in such manner as to ensure that the liability of the State authorities in relation to such claims, and the expenses of the Agency in relation to such management, are contained at the lowest achievable level.
+
+(4) (*a*) The Agency shall advise and assist a State authority whenever it considers it appropriate to do so or is requested by such an authority to do so in relation to the measures to be taken to prevent the occurrence, or to reduce the incidence, of acts, omissions or other matters occasioning, or that may occasion, delegated claims against such an authority, including measures to identify sources of risk that may occasion such claims.
+
+(*b*) The advice under *paragraph (a)* may include advice for the purpose of preventing or reducing any such risk as is referred to in that paragraph and the assistance under that paragraph may include any one or more of the following:
+
+(i) the provision to such an authority and its officers and other employees, or other persons nominated by it, of information, instruction and training for the purposes of enabling them to ascertain whether any such risk exists and if it does, of increasing the awareness of its existence and encouraging the adoption by that authority of appropriate measures to counter any such risk,
+
+(ii) the assessment of any such risk, including the determination of whether it could give rise to a serious hazard,
+
+(iii) the evaluation of the adequacy of the measures adopted by such an authority to counter any such risk,
+
+(iv) the provision to such an authority of safety audits, inspections and reviews.
+
+(5) (*a*) The Agency may, on behalf of a State authority, whenever it considers it appropriate to do so or is requested by such an authority to do so, place insurance with an insurer within the meaning of section 2 of the Insurance Act, 1989, in respect of a risk that may occasion a delegated claim against such an authority.
+
+(*b*) Before insurance is placed on behalf of a State authority under *paragraph (a)*, the authority shall, on the written request of the Agency, pay to it the amount specified in the request within the period specified therein in respect of the premium for such insurance.
+
+(6) The Agency shall be known as the State Claims Agency when performing the functions conferred on, or delegated to, it by or under this Part.
+
+### 8A. Additional function - specification of minimum levels of indemnity for classes of medical practitioners
+
+F2[**8A.**— (1) The Agency shall, by notice in Iris Oifigiúil, specify, having regard to the criteria set out in *subsection (3)*, and after consultation with the Medical Council and any other person that the Agency considers appropriate, the minimum levels of indemnity applicable to classes of medical practitioners.
+
+(2) The Agency shall, as regards the minimum levels of indemnity specified in a notice referred to in *subsection (1)*, specify, in that notice, a date or the occurrence of an event from which such levels of indemnity are to take effect and different dates or events may be specified for different classes of medical practitioners.
+
+(3) The criteria referred to in *subsection (1)* in respect of a class of medical practitioners are—
+
+(*a*) the level of risk generally inherent in the medical specialty practised by the members of that class,
+
+(*b*) the level of risk, from any act or omission of a member of that class, to the health, safety or welfare of any person to whom a duty of care is owed by the members of that class in their capacity as medical practitioners who fall within that class,
+
+(*c*) the risks identified by providers of indemnity as particularly associated with the medical specialty practised by members of that class, and
+
+(*d*) the level of awards or settlements made in proceedings where the cause of action arose out of an alleged breach of duty involving a member of that class in his or her capacity as a medical practitioner who falls within that class.
+
+(4) In this section—
+
+(*a*) “indemnity”, “medical practitioner” and “minimum level of indemnity” have the same meanings as they have in the Medical Practitioners Act 2007,
+
+(*b*) “medical specialty” means a medical specialty recognised by the Medical Council under section 89 (1) of the Medical Practitioners Act 2007 and includes any subset of a medical specialty.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F2: Inserted (6.11.2017) by *Medical Practitioners (Amendment) Act 2017* (10/2017), s. 10, S.I. No. 481 of 2017.
+
+### 8B. Additional function in relation to Insurance Compensation Fund under sections 3A, 3B and 3C of Insurance Act 1964
+
+F3[**8B.**— F4[(1) In this section—
+
+"Act of 1964" means the Insurance Act 1964;
+
+"Act of 2024" means the Motor Insurance Insolvency Compensation Act 2024;
+
+"Compensation Body" has the meaning assigned to it by the Act of 2024;
+
+"personal data" has the meaning assigned to it by the Act of 2024;
+
+"processing" has the meaning assigned to it by Part 4 of the Act of 2024.]
+
+(2) The Agency shall perform the following functions conferred on it in respect of the Insurance Compensation Fund:
+
+(*a*) the application by it under section 3B(1)(a) of the Act of 1964 to the High Court for approvals under section 3 of that Act;
+
+(*b*) the assessment and verification by it of information provided to it under section 3A(1A)(a) or 3B(1A)(a), as the case may be, of the Act of 1964;
+
+(*c*) the preparation by it of a report under section 3A(1A)(c) or 3B(1A)(c), as the case may be, of the Act of 1964;
+
+(*d*) the payment by it to a person under section 3B(2)(a) of the Act of 1964 of the sum due to such person;
+
+(*e*) the preparation by it of a report under section 3C(1A) of the Act of 1964;
+
+(*f*) the clerical and other administrative functions relating to the performance by the Agency of its functions under sections 3A, 3B and 3C of the Act of F4[1964;]
+
+F5[(*g*) acting as one of the interested parties within the meaning of section 12 of the Act of 2024;
+
+(*h*) the co-operation by it, pursuant to section 13 of the Act of 2024, with the Compensation Body, the Central Bank of Ireland and the Revenue Commissioners;
+
+(*i*) the carrying out, pursuant to section 16 of the Act of 2024, of audits of samples of completed claims presented to the Compensation Body under that Act;
+
+(*j*) the carrying out, pursuant to section 17 of the Act of 2024, of audits of certain uncompleted claims presented to the Compensation Body;
+
+(*k*) the preparation and submission to the Minister, pursuant to section 18 of the Act of 2024, of a report on, inter alia, the conclusions to be drawn from the audits referred to in *paragraphs (i)* and *(j)* which it has carried out;
+
+(*l*) processing personal data which, pursuant to section 20 of the Act of 2024, has been disclosed to it by the Compensation Body.]
+
+(3) The Agency shall be known as the State Claims Agency when performing the functions conferred on it by the Act of 1964.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F3: Inserted (24.07.2018) by *Insurance (Amendment) Act 2018* (21/2018), s. 17, commenced on enactment.
+>
+> F4: Substituted (17.10.2024) by *Motor Insurance Insolvency Compensation Act 2024* (32/2024), s. 32(a), (b)(i), S.I. No. 537 of 2024.
+>
+> F5: Inserted (17.10.2024) by *Motor Insurance Insolvency Compensation Act 2024* (32/2024), s. 32(b)(ii), S.I. No. 537 of 2024.
+
+### 9. Delegation to Agency of claims management function.
+
+**9.** —(1) (*a*) Subject to *paragraph (b)*, the Government may, at the request of a Minister of the Government in whom functions in relation to a State authority are vested, by order delegate to the Agency the management of any claims, or classes of claims, against such an authority.
+
+(*b*) An order under *paragraph (a)* may exempt any class of claims against all or any of the State authorities from the delegation effected by the order.
+
+(*c*) A delegation under *paragraph (a)* may relate to claims made before the commencement of this Part or the commencement of the order concerned as well as to claims made after the commencement of the order concerned irrespective of whether the latter claims relate to acts, omissions or other matters occurring before or after the commencement of the order concerned or before the commencement of this Part.
+
+(2) (*a*) Without prejudice to the generality of *subsection (1)*, whenever an order under *subsection (1)* is in force, the Agency shall, if and in so far as the order so declares, have the following functions:
+
+(i) advising the Minister, whenever he or she so requests, in relation to the management of delegated claims and counterclaims and matters connected therewith,
+
+(ii) advising a relevant Minister of the Government, whenever he or she so requests, of the status and progress of the management of any delegated claim, or class of delegated claims, against, or the management of any counterclaim made by, such Minister of the Government or any other State authority other than the State and the Attorney General,
+
+(iii) advising the Taoiseach, whenever he or she so requests, of the status and progress of the management of any delegated claim, or class of delegated claims, against, or the management of any counterclaim made by, the State or the Attorney General,
+
+(iv) advising a State authority other than the State, a Minister of the Government or the Attorney General, whenever such an authority so requests, of the status and progress of the management of any delegated claim, or class of delegated claims, against, or the management of any counterclaim made by, such an authority.
+
+(*b*) An order under *subsection (1)* may contain such ancillary and incidental provisions as the Government consider necessary or expedient for the purposes of the delegation effected by the order.
+
+(3) Subject to *subsection (4),* the following provisions shall apply in relation to a delegation under this section and a declaration under *subsection (2)(a)*, that is to say:
+
+(*a*) the Government may at any time by order—
+
+(i) revoke the delegation in whole or in part, or
+
+(ii) provide that all or any of the functions to which the declaration relates shall cease to be performed by the Agency, and, upon the commencement of the order, the functions shall cease to be performed by the Agency,
+
+(*b*) subject to *paragraph (a)*, the delegation shall operate, so long as it continues in force, to confer on and vest in the Agency the function delegated by the delegation and the declaration shall operate, so long as it continues in force, to confer on and vest in the Agency each function specified in *subsection (2)(a)*,
+
+(*c*) the function delegated by the delegation or to which the declaration aforesaid relates shall be performed by the Agency subject to any conditions or restrictions specified in the order concerned under this section,
+
+(*d*) any obligation or liability undertaken by the Agency consequent upon the performance by the Agency of a function to which the delegation or declaration relates shall be of the same force and effect as if the obligation or liability had been undertaken by the State authority concerned,
+
+(*e*) a function of a State authority delegated by the delegation or to which the declaration relates shall, notwithstanding the delegation or declaration, as the case may be, continue to be vested in the State authority but shall be so vested concurrently with the Agency and so be capable of being performed by either the State authority concerned or the Agency, but shall be performed by the State authority concerned only if, and to the extent that, a direction under *subsection (4)* applies to it, and
+
+(*f*) the delegation or declaration shall not remove or derogate from the responsibility of any Minister of the Government to Dáil Éireann or as a member of the Government for the performance of functions of that Minister of the Government thereby delegated or to which the declaration relates.
+
+(4) The Minister may—
+
+(*a*) at the request of the Taoiseach in the case of delegated claims against the State or the Attorney General, and
+
+(*b*) at the request of a relevant Minister of the Government and after consultation with the Attorney General in the case of all other delegated claims,
+
+if he or she is of opinion that it is in the interests of the State to do so, give the Agency a direction (which it shall comply with) not to begin, or to discontinue, managing any delegated claim specified in the direction and, following such a direction, the claim concerned shall not be managed or further managed by the Agency.
+
+(5) The Government may by order amend or revoke an order under this section including an order under this subsection.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C2: Certain claims deemed to have been delegated under subs. (1)(a) (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 31(3), S.I. No. 163 of 2023.
+>
+> **National Treasury Management Agency (Amendment) Act 2000**
+>
+> **31.** ...
+>
+> (3) The National Treasury Management Agency shall be deemed to have been delegated, under section 9(1)(a) of the Act of 2000, the management of any claims against the Minister for Public Expenditure and Reform relating to an application for compensation under the Garda Síochána (Compensation) Acts 1941 to 2003 to which section 5 (1) applies.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E18: Power pursuant to section exercised (26.11.2025) by *National Treasury Management Agency (Delegation of Claims Management Functions) (No. 3) Order 2025* (S.I. No. 585 of 2025).
+>
+> E19: Power pursuant to subs. (1) exercised (17.09.2025) by *National Treasury Management Agency (Delegation of Claims Management Functions) (No. 2) Order 2025* (S.I. No. 500 of 2025).
+>
+> E20: Power pursuant to subs. (1) exercised (22.07.2025) by *National Treasury Management Agency (Delegation of Claims Management Functions) Order 2025* (S.I. No. 480 of 2025).
+>
+> E21: Power pursuant to subs. (1) exercised (2.07.2024) by *National Treasury Management Agency (Delegation of Claims Management Functions) Order 2024* (S.I. No. 337 of 2024).
+>
+> E22: Power pursuant to section exercised (19.06.2020) by *National Treasury Management Agency (Delegation of Claims Management Functions) (No. 2) Order 2020* (S.I. No. 229 of 2020).
+>
+> E23: Power pursuant to section exercised (19.06.2020) by *National Treasury Management Agency (Delegation of Claims Management Functions) Order 2020* (S.I. No. 228 of 2020).
+>
+> E24: Power pursuant to section exercised (30.10.2019) by *National Treasury Management Agency (Delegation of Claims Management Functions) Order 2019* (S.I. No. 571 of 2019).
+>
+> E25: Power pursuant to subs. (5) exercised (25.07.2019) by *National Treasury Management Agency (Delegation of Functions) (Amendment) Order 2019* (S.I. No. 404 of 2019).
+>
+> E26: Power pursuant to section exercised (18.07.2017) by *National Treasury Management Agency (Delegation of Claims Management Functions) Order 2017* (S.I. No. 390 of 2017).
+>
+> E27: Power pursuant to subs. (1) exercised (3.06.2015) by *National Treasury Management Agency (Delegation of Claims Management Functions) Order 2015* (S.I. No. 237 of 2015).
+>
+> E28: Power pursuant to subs. (1) exercised (15.10.2013) by *National Treasury Management Agency (Delegation of Claims Management Functions) (Amendment) Order 2013* (S.I. No. 405 of 2013).
+>
+> E29: Power pursuant to subs. (1) exercised (3.04.2012) by *National Treasury Management Agency (Delegation of Claims Management Functions) (Amendment) Order 2012* (S.I. No. 124 of 2012), in effect as per art. 1(2).
+>
+> E30: Power pursuant to subs. (1) exercised (1.01.2010) by *National Treasury Management Agency (Delegation of Functions) Order 2009* (S.I. No. 586 of 2009), in effect as per art. 1(2).
+>
+> E31: Power pursuant to subs. (5) exercised (8.05.2007) by *National Treasury Management Agency (Delegation of Functions) (Amendment) Order 2007* (S.I. No. 628 of 2007), in effect as per art. 1(2).
+>
+> E32: Power pursuant to subs. (1) exercised (18.02.2003) by *National Treasury Management Agency (Delegation of Functions) Order 2003* (S.I. No. 63 of 2003), in effect as per art. 1(2).
+>
+> E33: Previous affecting provision: power pursuant to subs. (1) exercised (15.04.2014) by *National Treasury Management Agency (Delegation of Claims Management Functions) Order 2014* (S.I. No. 182 of 2014); revoked (3.06.2015) by *National Treasury Management Agency (Delegation of Claims Management Functions) Order 2015* (S.I. No. 237 of 2015), art. 9.
+>
+> E34: Previous affecting provision: power pursuant to subs. (1) exercised (7.02.2011) by *National Treasury Management Agency (Delegation of Claims Management Functions) Order 2011* (S.I. No. 69 of 2011); revoked (15.04.2014) by *National Treasury Management Agency (Delegation of Claims Management Functions) Order 2014* (S.I. No. 182 of 2014), art. 9.
+>
+> E35: Previous affecting provision: power pursuant to subs. (1) exercised (1.09.2005) by *National Treasury Management Agency (Delegation of Claims Management Functions) Order 2005* (S.I. No. 503 of 2005), in effect as per art. 1(2); revoked (7.02.2011) by *National Treasury Management Agency (Delegation of Claims Management Functions) Order 2011* (S.I. No. 69 of 2011), art. 8.
+>
+> E36: Previous affecting provision: power pursuant to subs. (1) exercised (3.12.2001) by *National Treasury Management Agency (Delegation and Conferral of Functions) Order 2001* (S.I. No. 531 of 2001), in effect as per art. 1(2); revoked (1.09.2005) by *National Treasury Management Agency (Delegation of Claims Management Functions) Order 2005* (S.I. No. 503 of 2005), art. 8, in effect as per art. 1(2).
+
+### 10. Functions of Attorney General.
+
+**10.** —(1) The claims management functions shall, in so far as section 6(1) of the Ministers and Secretaries Act, 1924, applies to them, be performed by the Agency on behalf of the Attorney General.
+
+(2) The Attorney General may, for the purposes of *subsection (1)*, request the Agency to furnish to him or her information in relation to such matters as he or she may specify concerning or relating to the performance by the Agency of the claims management functions, and the Agency shall comply with any such request.
+
+(3) (*a*) The Attorney General may, for the purposes of *subsection (1)* and where he or she is satisfied that the interests of the State so require, give the Agency such directions (whether of a general or a particular nature) as he or she considers appropriate in relation to the performance by the Agency of the claims management functions, and the Agency shall comply with any such directions.
+
+(*b*) Without prejudice to the generality of *paragraph (a)*, a direction under this subsection may direct the Agency not to begin, or to discontinue, managing any delegated claim or class of delegated claims specified in the direction and such a direction shall remain in force for a period ending on—
+
+(i) in the case of a delegated claim, the giving by the Minister of a direction under *section 9(4)* in relation to the delegated claim so specified,
+
+(ii) the revocation by the Government under *section 9(3)* of a delegation in relation to the delegated claim or class of delegated claims so specified,
+
+(iii) the expiration of a period of 30 days commencing on the date of the giving of the first-mentioned direction,
+
+whichever occurs first.
+
+(4) If the Attorney General gives a direction under *subsection (3)*, he or she shall, as soon as practicable, inform the Taoiseach, the Minister and the relevant Minister of the Government that he or she has done so.
+
+(5) The Attorney General may whenever he or she considers it necessary or expedient to do so, for the purposes of *subsection (1)*, give general guidelines to the Agency and the Agency shall perform the claims management functions in accordance with any such guidelines.
+
+(6) In this section the “claims management functions” means the functions referred to in *subsections (1)* and *(2)* of *section 8* .
+
+### 11. Duty to report adverse incidents
+
+**11.** —(1) A State authority shall—
+
+(*a*) report any adverse incident to the Agency as soon as may be,
+
+(*b*) furnish to the Agency in relation to any such incident such information as such an authority considers relevant and such other information (if any) as the Agency considers relevant and specifies to such an authority,
+
+(*c*) in relation to any such incident preserve and, if appropriate, furnish to the Agency such evidence as such an authority considers relevant and such other evidence (if any) as the Agency considers relevant and specifies to such an authority, and
+
+(*d*) permit the Agency or any other person on behalf of the Agency to investigate any such incident in such manner and to such extent as the Agency considers appropriate.
+
+(2) In this section “adverse incident” means any act, omission or other matter in relation to which a delegated claim has been made, or may, in the opinion of the State authority concerned, be made.
+
+### F6[11A. Notifications under Act of 2023
+
+**11A.**— ...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F6: Inserted by *Patient Safety (Notifiable Incidents and Open Disclosure) Act 2023* (10/2023), s. 81, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C3: Prospective affecting provision: section inserted by *Patient Safety (Notifiable Incidents and Open Disclosure) Act 2023* (10/2023), s. 81, not commenced as of date of revision.
+>
+> F6[**11A.**— (1) The Agency may provide the National Treasury Management Agency incident management system (within the meaning of the Act of 2023) as the means for making a notification under section 27, 28 or 29 of the Act of 2023.
+>
+> (2) *Subsection (1)* shall apply whether the health services provider (within the meaning of the Act of 2023) making a notification referred to in that subsection is a State authority or otherwise.
+>
+> (3) In this section, "Act of 2023" means the Patient Safety (Notifiable Incidents and Open Disclosure) Act 2023.]
+
+### 12. Policy Committee.
+
+**12.** —F7[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F7: Repealed (22.12.2014) by *National Treasury Management Agency (Amendment) Act 2014* (23/2014), s. 5(1) and sch. 1 part 6 item 1, S.I. No. 586 of 2014.
+
+### 13. Reports to Policy Committee.
+
+**13.** —F8[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F8: Repealed (22.12.2014) by *National Treasury Management Agency (Amendment) Act 2014* (23/2014), s. 5(1) and sch. 1 part 6 item 1, S.I. No. 586 of 2014.
+
+### 14. Role of Advisory Committee in relation to additional functions of Agency under Part 2.
+
+**14.** —F9[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F9: Repealed (22.12.2014) by *National Treasury Management Agency (Amendment) Act 2014* (23/2014), s. 5(1) and sch. 1 part 6 item 1, S.I. No. 586 of 2014.
+
+### 15. Directions and guidelines to Agency for purposes of Part 2.
+
+**15.** —Notwithstanding section 4(4) of the Principal Act, the Minister may give the Agency directions as to general policy, or guidelines, in relation to the performance by it of the functions delegated to, or conferred on, it by or under this Part only after consultation with F10[...] such other Ministers of the Government as the Minister considers appropriate, and the Agency shall comply with any such directions and perform those functions in accordance with any such guidelines.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F10: Deleted (22.12.2014) by *National Treasury Management Agency (Amendment) Act 2014* (23/2014), s. 5(1) and sch. 1 part 6 item 2, S.I. No. 586 of 2014.
+
+### 16. Satisfaction of claims and counterclaims.
+
+**16.** —(1) (*a*) The Agency may, out of advances made by the Minister under *subsection (7)*, pay—
+
+(i) the amount of any costs, charges and expenses incurred from time to time by the Agency in respect of the services of professional and other expert advisers in relation to a delegated claim and, if appropriate, a counterclaim,
+
+(ii) the amount of any award or settlement to be paid to a claimant in respect of a delegated claim,
+
+(iii) the amount of any costs, charges and expenses of a claimant in relation to a delegated claim as agreed by the parties, or in default of agreement, as taxed or ascertained in accordance with rules of court, and
+
+(iv) the amount of interest (if any) payable on any of the amounts referred to in *subparagraphs (i), (ii)* and *(iii)*.
+
+(*b*) A payment under *paragraph (a)* may be in respect of any amount referred to in *subparagraph (i), (ii), (iii)* or *(iv)* of that paragraph or part thereof.
+
+(2) A State authority on whose behalf an amount is paid under *subsection (1)* shall, on the request of the Agency, pay to the Agency the amount so paid not later than 30 days from the receipt by it of the request concerned.
+
+(3) Where a State authority contravenes *subsection (2)*, it shall pay to the Agency the amount to which the request under that subsection relates, together with interest thereon, in respect of the period commencing on the expiration of the 30 days referred to in that subsection and ending on the date of the payment by the State authority concerned of the said amount, calculated at the rate or rates at which, during that period, interest on moneys deposited with the Central Bank of Ireland by the Exchequer is calculated.
+
+(4) All moneys received by the Agency under *subsection (2)* or *(3)* shall be paid into the Post Office Savings Bank Fund.
+
+(5) Where an award or settlement is made in favour of a State authority in respect of a counterclaim—
+
+(*a*) the reference in *subsection (1) (a) (ii)* to the amount of any award or settlement to be paid to the claimant in respect of a delegated claim shall be construed as a reference to the net amount of such award or settlement following the set-off of the amount due to the State authority in respect of the counterclaim, and
+
+(*b*) the reference in *subsection (1) (a) (iii)* to the amount of any costs, charges and expenses of the claimant in relation to the delegated claim concerned shall be construed as a reference to the amount of costs, charges and expenses which the claimant is entitled to recover in respect of the net amount of the award or settlement made in favour of the claimant in respect of the delegated claim concerned following the set-off of the amount due to the State authority in respect of the counterclaim.
+
+(6) Where the amount of—
+
+(*a*) an award or settlement made in favour of a State authority, and
+
+(*b*) any costs, charges and expenses of such an authority as agreed by the parties, or in default of agreement, as taxed or ascertained in accordance with rules of court,
+
+in respect of a counterclaim exceeds the total of the amounts referred to in *subparagraphs (i), (ii), (iii)* and *(iv)* of *subsection (1)(a)* in respect of the delegated claim concerned, the Agency shall, as soon as practicable, pay the excess to such an authority.
+
+(7) The Minister may, for the purposes of *subsection (1)*, advance moneys from the Post Office Savings Bank Fund to the Agency.
+
+(8) If the Government makes an order under *section 9(1)* in relation to a claim or a class of claims, the power of the Minister under *subsection (7)* may be exercised by the Agency in relation to the claim or class of claims concerned.
+
+(9) The Minister may give directions or guidelines to the Agency in relation to the exercise by it of the power conferred on it by *subsection (8)*, and the Agency shall comply with any such directions and exercise that power in accordance with any such guidelines.
+
+### 17. Services of Chief State Solicitor.
+
+**17.** —The Agency may retain the services of the Chief State Solicitor for any purpose relating to the management of delegated claims or counterclaims.
+
+## PART 3Central Treasury Services — PART 3 — Central Treasury Services
+
+### 18. Definitions.
+
+**18.** —In this Part—
+
+“advance” means an advance of moneys by the Minister to a designated body under this Part;
+
+“central treasury services” means—
+
+(*a*) the taking of deposits, or
+
+(*b*) the making of advances,
+
+or both on such terms and conditions (including terms and conditions relating to the payment of interest) as may be agreed from time to time by the Minister and the designated body concerned;
+
+“deposit” means a deposit of moneys by a designated body with the Minister under this Part;
+
+“designated body” means—
+
+(*a*) a local authority within the meaning of section 1 of the Local Government Act, 1998,
+
+F11[(*b*) an education and training board,]
+
+F12[(*c*) the Health Service Executive established by section 6(1) of the Health Act 2004,]
+
+(*d*) the General Medical Services (Payments) Board,
+
+F13[(*e*) a body specified in Schedule 4 of the Taxes Consolidation Act 1997,]
+
+F14[(*ea*) the Courts Service,
+
+(*eb*) a university within the meaning of the Universities Act 1997, other than Trinity College and the University of Dublin,
+
+(*ec*) the Dublin Institute of Technology,
+
+(*ed*) a college within the meaning of section 2 of the Regional Technical Colleges Act 1992,
+
+(*ee*) the Railway Procurement Agency, F15[...]
+
+(*ef*) the Housing Finance Agency F16[plc,]
+
+F17[(*eg*) the Commission for Energy Regulation,]]
+
+F18[(*eh*) the National Oil Reserves Agency, and
+
+(*ei*) Irish Water,]
+
+(*f*) a non-commercial State body designated by the Minister under *section 19*,
+
+and designated bodies shall be construed accordingly;
+
+“non-commercial State body” means a body—
+
+(*a*) in relation to which a function or functions (other than functions relating to its finances) stand conferred on the Government or a Minister of the Government, and
+
+(*b*) which is, or will be, in the opinion of the Minister taking one year with another in receipt of moneys provided by the Oireachtas or an institution of the European Communities in respect of not less than 50 per cent. of its non-capital expenditure.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F11: Substituted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72(1) and sch. 6 item 32, S.I. No. 211 of 2013.
+>
+> F12: Substituted (1.11.2007) by *Markets in Financial Instruments and Miscellaneous Provisions Act 2007* (37/2007), s. 14(a), S.I. No. 730 of 2007.
+>
+> F13: Substituted (1.11.2007) by *Markets in Financial Instruments and Miscellaneous Provisions Act 2007* (37/2007), s. 14(b), S.I. No. 730 of 2007.
+>
+> F14: Inserted (1.11.2007) by *Markets in Financial Instruments and Miscellaneous Provisions Act 2007* (37/2007), s. 14(c), S.I. No. 730 of 2007.
+>
+> F15: Deleted (23.11.2011) by *Access to Central Treasury Funds (Commission for Energy Regulation) Act 2011* (30/2011), s. 1, commenced on enactment.
+>
+> F16: Substituted (23.11.2011) by *Access to Central Treasury Funds (Commission for Energy Regulation) Act 2011* (30/2011), s. 1, commenced on enactment.
+>
+> F17: Inserted (23.11.2011) by *Access to Central Treasury Funds (Commission for Energy Regulation) Act 2011* (30/2011), s. 1, commenced on enactment.
+>
+> F18: Inserted (1.08.2020) by *National Oil Reserves Agency (Amendment) and Provision of Central Treasury Services Act 2020* (6/2020), s. 28, S.I. No. 280 of 2020.
+
+### 19. Designation of bodies.
+
+**19.** —(1) The Minister may by order, with the approval of the relevant Minister of the Government, designate a non-commercial State body for the purposes of this Part.
+
+(2) In this section “relevant Minister of the Government”, in relation to a non-commercial State body, means the Minister of the Government whose approval to the making of an order under this section in relation to the body should, having regard to his or her functions in relation to the body, in the opinion of the Minister, be obtained.
+
+### 20. Provision of central treasury services.
+
+**20.** —(1) The Minister shall provide central treasury services to a designated body if such a body, at its discretion, wishes to avail of such services.
+
+(2) This Part shall not be construed as affecting or altering any limit on the amount that a designated body may borrow or any other provision contained in an enactment in relation to its power to borrow money.
+
+(3) In this section “enactment” means a statute or an instrument made under a power conferred by a statute.
+
+### 21. Advance of moneys to Post Office Savings Bank Fund by Minister.
+
+**21.** —(1) The Minister may advance moneys from the Central Fund or the growing produce thereof to the Post Office Savings Bank Fund on such terms and conditions as he or she thinks fit for the purposes of *section 22* .
+
+(2) The Minister may by order delegate to the Agency the function conferred on him or her by *subsection (1)*.
+
+(3) An order under *subsection (2)* may contain such ancillary and incidental provisions as the Minister considers necessary or expedient for the purposes of the delegation effected by the order including a provision specifying the maximum amount of moneys which may be advanced from the Central Fund or the growing produce thereof to the Post Office Savings Bank Fund for the purpose of providing central treasury services.
+
+(4) If the function conferred on the Minister by *subsection (1)* stands delegated to the Agency by virtue of an order under *subsection (2)*, the Minister may give directions or guidelines to the Agency in relation to the performance by it of that function, and the Agency shall comply with any such directions and perform that function in accordance with any such guidelines.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E37: Power pursuant to subs. (2) exercised (31.01.2001) by *National Treasury Management Agency (Amendment) Act, 2000 (Central Treasury Services) (Delegation of Functions) Order 2001* (S.I. No. 16 of 2001).
+
+### 22. Use of Post Office Savings Bank Fund for provision of central treasury services.
+
+**22.** —(1) The Minister may, for the purposes of providing central treasury services, make payments to and from the Post Office Savings Bank Fund.
+
+F19[(1A) The Minister—
+
+(*a*) may engage in transactions of a normal banking nature in connection with the exercise of the powers in *subsection (1)*, and
+
+(*b*) for the purposes of those transactions, may issue such funds from the Exchequer as he or she considers appropriate.
+
+(1B) All expenses and other costs incurred by the Minister or the Agency, as appropriate, in connection with or arising out of those transactions shall be charged on the Central Fund.]
+
+(2) If the function conferred on the Minister by *section 20(1)* stands delegated to the Agency by virtue of an order under *section 23*, the power of the Minister under F20[*subsections (1)* and *(1A)*] may be exercised by the Agency.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F19: Inserted (1.11.2007) by *Markets in Financial Instruments and Miscellaneous Provisions Act 2007* (37/2007), s. 14(d), S.I. No. 730 of 2007.
+>
+> F20: Substituted (1.11.2007) by *Markets in Financial Instruments and Miscellaneous Provisions Act 2007* (37/2007), s. 14(e), S.I. No. 730 of 2007.
+
+### 23. Delegation to Agency of function of providing central treasury services.
+
+**23.** —(1) The Minister may by order delegate to the Agency the function conferred on him or her by *section 20(1)*.
+
+(2) An order under *subsection (1)* may contain such ancillary and incidental provisions as the Minister considers necessary or expedient for the purposes of the delegation effected by the order.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E38: Power pursuant to subs. (1) exercised (31.01.2001) by *National Treasury Management Agency (Amendment) Act, 2000 (Central Treasury Services) (Delegation of Functions) Order 2001* (S.I. No. 16 of 2001).
+
+### 24. Non-application of section 7(1) of Central Bank Act, 1971.
+
+**24.** —Subsection (1) (inserted by section 70(*a*) of the Central Bank Act, 1997) of section 7 of the Central Bank Act, 1971, shall not apply to—
+
+(*a*) the Minister, or
+
+(*b*) the Agency, if the function conferred on the Minister by *section 20(1)* stands delegated to the Agency by virtue of an order under *section 23* ,
+
+in respect of the provision of central treasury services.
+
+### 25. Directions and guidelines to Agency for purposes of Part 3.
+
+**25.** —If the function conferred on the Minister by *section 20(1)* stands delegated to the Agency by virtue of an order under *section 23* , the Minister may give directions or guidelines to the Agency in relation to the performance by it of that function or the exercise by it of the power conferred by *section 22* or both, and the Agency shall comply with any such directions and perform that function or exercise that power, as the case may be, in accordance with any such guidelines.
+
+### 25A. Agency may procure foreign currency for Government Minister or designated body.
+
+F21[**25A.**— (1) Subject to first receiving the consent of the Minister for Finance, a Minister of the Government or a designated body may request the Agency to procure for that Minister of the Government or designated body, as the case may be, foreign currency on terms and conditions agreed between—
+
+(*a*) the Agency, and
+
+(*b*) that Minister of Government or designated body.
+
+(2) The Agency has all the powers necessary for it to comply with a request made under *subsection (1)*.
+
+(3) The Agency, in connection with the performance of its functions under *subsection (1)*, may—
+
+(*a*) pay into any foreign currency clearing account created by the Minister for Finance under section 139 of the Finance Act 1993 the proceeds of any transaction denominated in a currency other than the currency of the State, and
+
+(*b*) apply any amounts standing to the credit of any foreign currency clearing account towards the discharging of payment obligations arising under any transaction in connection with the performance of its functions under *subsection (1)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F21: Inserted (1.11.2007) by *Markets in Financial Instruments and Miscellaneous Provisions Act 2007* (37/2007), s. 14(f), S.I. No. 730 of 2007.
+
+### 26. Amendment of section 48 of Vocational Education Act, 1930.
+
+**26.** — Section 48 of the Vocational Education Act, 1930, is amended—
+
+(*a*) in subsection (5), by the substitution of “Subject to subsection (7) of this section, a vocational education committee” for “A vocational education committee”, and
+
+(*b*) by the insertion of the following subsection after subsection (6):
+
+“(7) (*a*) A vocational education committee may, in relation to moneys from time to time standing to the credit of such committee in the vocational education fund maintained by it, do either or both of the following—
+
+(i) make a deposit within the meaning of *Part 3* of the *National Treasury Management Agency (Amendment) Act, 2000*, on such terms and conditions (including terms and conditions relating to the payment of interest) as it may agree with the Minister for Finance or with the National Treasury Management Agency, if the function conferred on the Minister for Finance by *section 20(1)* of that Act stands delegated to that Agency by virtue of an order under *section 23* of that Act,
+
+(ii) deposit such moneys with any credit institution authorised and supervised by the competent authority of a Member State of the European Communities on such terms and conditions (including terms and conditions relating to the payment of interest) as it may agree with such an institution.
+
+(*b*) In this subsection, ‘credit institution’ and ‘competent authority’ have the same meanings as they have in the European Communities (Licensing and Supervision of Credit Institutions) Regulations, 1992 (S.I. No. 395 of 1992).”.
+
+## PART 4 Fund Investment Services — PART 4 — Fund Investment Services
+
+### 27. Interpretation.
+
+**27.** —(1) In this Part—
+
+“enactment” means a statute or an instrument made under a power conferred by statute;
+
+“fund” means a fund managed or controlled, or both managed and controlled, by a Minister of the Government;
+
+“investment” means, in relation to a fund—
+
+(*a*) the application of the moneys in the fund concerned for the purpose of acquiring, holding or disposing of any right or interest, direct or indirect, in any asset, or
+
+(*b*) the placing or holding of the moneys in the fund concerned in any account.
+
+(2) This Part shall not be construed as affecting or altering any power contained in an enactment to invest the moneys in a fund.
+
+### 28. Fund investment services for Minister.
+
+**28.** —(1) The Minister may, in relation to a fund or any part of a fund, by order delegate to the Agency his or her functions in relation to the investment of the fund, or that part of the fund.
+
+(2) An order under *subsection (1)* may contain such ancillary and incidental provisions as the Minister considers necessary or expedient for the purposes of the delegation effected by the order.
+
+(3) The Minister may give directions or guidelines to the Agency in relation to the performance by it of the function delegated to it under *subsection (1)*, and the Agency shall comply with any such directions and perform that function in accordance with any such guidelines.
+
+(4) The Minister shall, before giving directions or guidelines to the Agency under *subsection (3)*, consult with any other Minister of the Government who manages or controls, or both manages and controls, all or any part of the fund concerned.
+
+(5) The Agency shall keep, in such form as may be approved of by the Minister, all proper and usual accounts in relation to the performance by it of the function delegated to it under *subsection (1)*, and it shall, whenever requested to do so by the Minister, furnish such accounts to him or her or provide him or her with such information in relation to such accounts as he or she may specify or both.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E39: Power pursuant to subss. (1), (2) exercised (31.10.2019) by *National Treasury Management Agency (Amendment) Act 2000 (Delegation of Investment Functions) Order 2019* (S.I. No. 535 of 2019).
+>
+> E40: Power pursuant to subss. (1), (2) exercised (9.05.2018) by *National Treasury Management Agency (Amendment) Act 2000 (Delegation of Investment Functions) Order 2018* (S.I. No. 157 of 2018).
+>
+> E41: Power pursuant to subss. (1), (2) exercised (20.07.2017) by *National Treasury Management Agency (Amendment) Act 2000 (Delegation of Investment Functions) Order 2017* (S.I. No. 331 of 2017).
+>
+> E42: Power pursuant to subss. (1), (2) exercised (29.05.2001) by *National Treasury Management Agency (Amendment) Act, 2000 (Delegation of Investment Functions) Order 2001* (S.I. No. 241 of 2001).
+
+### 29. Fund investment services for other Ministers of Government.
+
+**29.** —(1) Subject to *subsections (2)* and *(3)*, a Minister of the Government (other than the Minister) may, in relation to a fund or any part of a fund, request the Agency to perform, on his or her behalf, his or her functions in relation to the investment of the fund, or that part thereof, in accordance with an investment strategy determined by that Minister of the Government following consultation with the Agency and on such terms and conditions as may be agreed by the Agency and that Minister of the Government, and the Agency shall comply with any such request.
+
+(2) A Minister of the Government shall, prior to the making of a request under *subsection (1)*, obtain the consent of the Minister in relation thereto.
+
+(3) A Minister of the Government shall, prior to determining an investment strategy for the purposes of *subsection (1)*, consult with any other Minister of the Government who manages or controls, or both manages and controls, all or any part of the fund concerned.
+
+(4) The Agency shall keep in such form as may be approved of by the Minister of the Government concerned all proper and usual accounts in relation to the performance by it of any function on behalf of that Minister of the Government under *subsection (1)*, and it shall, whenever requested to do so by that Minister of the Government, furnish such accounts to him or her or provide him or her with such information in relation to such accounts as he or she may specify or both.
+
+## PART 5 Miscellaneous — PART 5 — Miscellaneous
+
+### 30. Provision of consultancy services, etc., by Agency.
+
+**30.** —(1) The Agency may, in respect of any matter to which its functions relate, alone or with any other person provide, on such terms and conditions as it may determine, in or outside the State any one or more of the following—
+
+(*a*) such consultancy services and advisory services,
+
+(*b*) such training services and technical services,
+
+(*c*) such information technology products, systems or services,
+
+as the Agency considers appropriate, and it shall have all such powers as may be necessary for those purposes.
+
+(2) The Minister may issue guidelines to the Agency in relation to the performance by it of its functions under *subsection (1)*, and the Agency shall, in the performance of those functions, act in accordance with such guidelines.
+
+(3) This section shall be deemed to have come into operation on the establishment day.
+
+### 31. Charges for services, etc.,
+
+**31.** —(1) The Agency may make such charges as it considers appropriate in consideration of the performance by it of the function conferred on it by *section 30(1)*.
+
+(2) The Agency may recover any amount due and owing to it under *subsection (1)* from the person or body by whom it is payable as a simple contract debt in any court of competent jurisdiction.
+
+(3) Any moneys received by the Agency under *subsection (1)* shall be used to discharge the expenses incurred by the Agency in the performance of its functions or paid into the Exchequer.
+
+(4) The Public Offices Fees Act, 1879, shall not apply to charges under this section.
+
+### 32. Professional and other expert advisers.
+
+**32.** —Section 4(2) of the Principal Act is amended by the insertion of “, professional and other expert advisers,” after “consultants”.
+
+### 33. References in Principal Act to functions of Agency.
+
+**33.** —(1) Subject to *subsections (2)* and *(3)*, references in the Principal Act to the functions of the Agency shall, except where the context otherwise requires, be construed as including references to the functions delegated to, or conferred on, it by or under this Act.
+
+(2) Notwithstanding section 3(1) of the Principal Act, the functions delegated to, or conferred on, the Agency by or under *Part 3*, *4* and *5* are not performed on the authority of the Government.
+
+(3) The reference in section 4(3) of the Principal Act to the functions of the Agency shall be construed as not including references to the functions delegated to, or conferred on, it by or under *Parts 3, 4* and *5*.
+
+## SCHEDULE — Bodies Under Paragraph (c) of Definition of “State Authority”
+
+F22[Commission for Public Service Appointments]
+
+Commissioner of Valuation
+
+Commissioners of Public Works in Ireland
+
+Comptroller and Auditor General
+
+Comptroller of Patents, Designs and Trade Marks
+
+Courts Service
+
+Director General of the Central Statistics Office
+
+Director of Public Prosecutions
+
+F23[...]
+
+National Gallery of Ireland
+
+F24[Houses of the Oireachtas Service]
+
+Office of the Secretary to the President
+
+Ombudsman
+
+F25[Public Appointments Service]
+
+Registrar of Deeds
+
+Registrar of Titles
+
+Revenue Commissioners
+
+State Laboratory.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F22: Substituted (6.10.2004) by *Public Service Management (Recruitment and Appointments) Act 2004* (33/2004), s. 61(1) and sch. 2 part 1, commenced on enactment.
+>
+> F23: Deleted (6.10.2004) by *Public Service Management (Recruitment and Appointments) Act 2004* (33/2004), s. 61(1) and sch. 2 part 1, commenced on enactment.
+>
+> F24: Substituted (1.01.2010) by *Houses of the Oireachtas Commission (Amendment) Act 2009* (44/2009), s. 14(1) and sch. part 1 item 5, commenced as per s. 15(3).
+>
+> F25: Inserted (6.10.2004) by *Public Service Management (Recruitment and Appointments) Act 2004* (33/2004), s. 61(1) and sch. 2 part 1, commenced on enactment.

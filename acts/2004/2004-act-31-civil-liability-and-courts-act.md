@@ -1,0 +1,2042 @@
+---
+title: "Civil Liability and Courts Act 2004"
+identifier: "eli/2004/act/31"
+type: act
+jurisdiction: ie
+language: en
+number: 31
+year: 2004
+date: 2004-07-21
+last_amended: 2024-09-02
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2004/act/31/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2004/act/31/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Civil Liability and Courts Act 2004
+
+AN ACT TO PROVIDE FOR CERTAIN PROCEDURAL AND OTHER CHANGES IN ACTIONS TO RECOVER DAMAGES FOR PERSONAL INJURIES; TO PROVIDE THAT AN ACTION FOR PERSONAL INJURIES SHALL NOT BE BROUGHT AFTER THE EXPIRATION OF 2 YEARS FROM THE DATE OF ACCRUAL OF THE CAUSE OF ACTION OR THE DATE OF KNOWLEDGE OF THE CAUSE OF ACTION WHICHEVER OCCURS LATER; TO PROVIDE THAT WHERE A PLAINTIFF IN A PERSONAL INJURIES ACTION GIVES FALSE EVIDENCE, THE COURT MAY DISMISS THE PLAINTIFF'S ACTION; TO MAKE PROVISION IN RELATION TO THE ASSESSMENT OF DAMAGES IN A PERSONAL INJURIES ACTION; TO MAKE PROVISION IN RELATION TO THE JURISDICTION OF THE CIRCUIT COURT IN PROCEEDINGS RELATING TO LAND; TO PROVIDE FOR THE DISPOSAL OF PART OF THE FUNDS OF SUITORS VESTED IN THE ACCOUNTANT OF THE COURTS OF JUSTICE; TO MAKE PROVISION IN RELATION TO THE PUBLICATION OF REPORTS, AND PRODUCTION OF DOCUMENTS PREPARED FOR THE PURPOSES, OF PROCEEDINGS TO BE HEARD OTHERWISE THAN IN PUBLIC; AND, FOR THOSE AND OTHER PURPOSES, TO AMEND THE STATUTE OF LIMITATIONS (AMENDMENT) ACT 1991, THE CIVIL LIABILITY ACT 1961 AND CERTAIN OTHER ENACTMENTS; AND TO PROVIDE FOR RELATED MATTERS. [21*st July* 2004]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## PART 1Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title and commencement.
+
+**1.**—(1) This Act may be cited as the Civil Liability and Courts Act 2004.
+
+(2) This Act, other than the provisions specified in *subsection (3)*, shall come into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or provisions.
+
+(3) *Sections 2* to *4, 31* and *32, Chapter 1* of *Part 3* and *sections 49* and *56* shall come into operation upon the passing of this Act.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to section exercised (11.01.2017) by *Civil Liability and Courts Act 2004 (Commencement) Order 2017* (S.I. No. 2 of 2017).
+>
+> 2\. The following sections of the Civil Liability and Courts Act 2004 (No. 31 of 2004) shall come into operation on 11 January 2017:
+>
+> (a) section 45;
+>
+> (b) section 46;
+>
+> (c) section 47;
+>
+> (d) section 48;
+>
+> (e) section 50;
+>
+> (f) section 51;
+>
+> (g) section 52;
+>
+> (h) section 53.
+>
+> E2: Power pursuant to subs. (2) exercised (20.09.2004) by *Civil Liability and Courts Act 2004 (Commencement) Order 2004* (S.I. No. 544 of 2004).
+>
+> 3\. (1) The day on which this Order is made is appointed to be the day on which sections 1, 5, 6, 8, 19, 21, 22, 25, 26, 29, 39, 41, 42, 43, 44, 54 and 55 of the Act of 2004 shall come into operation.
+>
+> (2) The 31st day of March, 2005 is appointed to be the day on which sections 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 23, 24, 27, 28 and 40 of the Act of 2004 shall come into operation.
+
+### 2. Interpretation.
+
+**2.**—(1) In this Act, except where the context otherwise requires—
+
+“act” has the same meaning as it has in the Act of 1961;
+
+“Act of 1961” means the Civil Liability Act 1961;
+
+“Act of 1993” means the Social Welfare (Consolidation) Act 1993;
+
+“Act of 1998” means the Social Welfare Act 1998;
+
+“Act of 2002” means the Courts and Court Officers Act 2002;
+
+“Act of 2003” means the Personal Injuries Assessment Board Act 2003;
+
+“court” means, in relation to a personal injuries action, the court in which that action has been brought, being the High Court, Circuit Court or District Court, as the case may be;
+
+“date of knowledge” shall be construed in accordance with the Statute of Limitations (Amendment) Act 1991;
+
+“defendant” has the same meaning as it has in the Act of 1961;
+
+“expert evidence” means evidence of fact or opinion given by a person who would not be competent to give such evidence unless he or she had a special skill or expertise;
+
+“further information” has the meaning assigned to it by *section 11*;
+
+“mediation conference” has the meaning assigned to it by *section 15*;
+
+“Minister” means the Minister for Justice, Equality and Law Reform;
+
+“negligence” includes nuisance and breach of duty (whether the duty exists by virtue of a contract, a provision of a statute, an instrument under a statute, or otherwise);
+
+“personal injuries action” means an action for the recovery of damages, in respect of a wrong—
+
+(*a*) for personal injuries,
+
+(*b*) for both such injuries and damage to property (but only if both have been caused by the same wrong), or
+
+(*c*) under section 48 of the Act of 1961,
+
+but shall not include F1[...] an action where the damages claimed include damages for false imprisonment or trespass to the person;
+
+“personal injuries summons” has the meaning assigned to it by *section 10*;
+
+“personal injury” has the same meaning as it has in the Act of 1961;
+
+“plaintiff” has the same meaning as it has in the Act of 1961;
+
+“pleading” means, in relation to a personal injuries action, a personal injuries summons, a defence, a defence and counterclaim or any other document (other than an affidavit or a report prepared by a person who is not a party to that action) that, under rules of court, is required to be, or may be, served (within such period as is prescribed by those rules) by a party to the action on another party to that action;
+
+“settlement” includes, in relation to a personal injuries action, a settlement of the action in part only, and cognate words shall be construed accordingly;
+
+“third party” has the same meaning as it has in the Act of 1961;
+
+“wrong” has the same meaning as it has in the Act of 1961;
+
+“wrongdoer” has the same meaning as it has in the Act of 1961.
+
+(2) In this Act—
+
+(*a*) a reference to a section or Part is a reference to a section or Part of this Act, unless it is indicated that a reference to some other enactment is intended,
+
+(*b*) a reference to a subsection, paragraph or subparagraph is a reference to a subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that a reference to some other provision is intended, and
+
+(*c*) a reference to any enactment is a reference to that enactment as amended, extended or adapted whether before or after the coming into operation of this Act, by or under any subsequent enactment.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1: Deleted (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (32/2022), s. 32, S.I. No. 163 of 2023.
+>
+> **Modifications (not altering text):**
+>
+> C1: Definitions of "personal injuries action" construed and "pleading" applied with modifications (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 24(1), (2)(a), S.I. No. 163 of 2023.
+>
+> **Additional provisions regarding proceedings**
+>
+> **24.** (1) The proceedings referred to in section 23 shall, subject to this Act and the Act of 2003 as applied by section 19 and with any necessary modifications, be deemed to be a personal injuries action for the purposes of any enactments relating in whole or in part to personal injuries actions (including the Act of 2004) and shall be treated as if they were a personal injuries action within the meaning of those enactments, including for the purposes of costs.
+>
+> (2) Notwithstanding subsection (1), the Act of 2004 shall apply to the proceedings referred to in section 23 with the following modifications:
+>
+> (*a*) the definition of “pleading” in section 2(1) of the Act of 2004 shall be read as if the words “a Garda compensation personal injuries summons,” were inserted after the words “a personal injuries summons,”;
+>
+> ...
+
+### 3. Orders and regulations.
+
+**3.**—Every order (other than an order under *section 1(2)*) and regulation under this Act shall be laid by the Minister before both Houses of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which that House sits after the order or regulation is laid before it, the order or regulation shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
+
+### 4. Service of notices.
+
+**4.**—(1) A notice under *section 8* or *section 17* shall be addressed to the person concerned by name, and may be served on or given to the person in one of the following ways:
+
+(*a*) by delivering it to the person;
+
+(*b*) by leaving it at the address at which the person ordinarily resides or, in a case in which an address for service has been furnished, at that address; or
+
+(*c*) by sending it by post in a prepaid registered letter to the address at which the person ordinarily resides or, in a case in which an address for service has been furnished, to that address.
+
+(2) For the purposes of this section, a company within the meaning of the Companies Acts 1963 to 2003 shall be deemed to be ordinarily resident at its registered office, and every other body corporate and every unincorporated body shall be deemed to be ordinarily resident at its principal office or place of business.
+
+### 5. Expenses.
+
+**5.**—The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## PART 2Civil Liability — PART 2 — Civil Liability
+
+### 6. Application of Part.
+
+**6.**—Subject to *sections 14(8), 25(4), 26(4), 27(3)* and *28(2)*, a provision of this Part applies only to personal injuries actions brought after the date of the commencement of that provision.
+
+### 7. Amendments of Statute of Limitations (Amendment) Act 1991.
+
+**7.**—The Statute of Limitations (Amendment) Act 1991 is amended by—
+
+(*a*) the substitution in subsection (1) of section 3 of “2 years” for “three years”,
+
+(*b*) the substitution in subsection (1) of section 4 of “2 years” for “three years”,
+
+(*c*) the substitution in subsection (1) of section 5 of “2 years” for “three years”,
+
+(*d*) the insertion of the following section:
+
+“5A.—(1) Where the relevant date in respect of a cause of action falls before the commencement of *section 7* of the *Civil Liability and Courts Act 2004*, an action (being an action to which section 3(1), 4(1), 5(1) or 6(1) of this Act applies) in respect of that cause of action shall not be brought after the expiration of—
+
+(*a*) 2 years from the said commencement, or
+
+(*b*) 3 years from the relevant date,
+
+whichever occurs first.
+
+(2) In this section ‘relevant date’ means the date of accrual of the cause of action or the date of knowledge of the person concerned as respects that cause of action whichever occurs later.”,
+
+and
+
+(*e*) the substitution in subsection (1) of section 6 of “2 years” for “three years”.
+
+### 8. Letter of claim.
+
+**8.**—(1) Where a plaintiff in a personal injuries action fails, without reasonable cause, to serve a notice in writing, before the expiration of F2[one month from the date of the cause of action,] on the wrongdoer or alleged wrongdoer stating the nature of the wrong alleged to have been committed by him or her, F2[the court hearing the action shall]—
+
+(*a*) draw such inferences from the failure as appear proper, and
+
+(*b*) where the interests of justice so require—
+
+(i) make no order as to the payment of costs to the plaintiff, or
+
+(ii) deduct such amount from the costs that would, but for this section, be payable to the plaintiff as it considers appropriate.
+
+(2) In this section “date of the cause of action” means—
+
+(*a*) the date of accrual of the cause of action, or
+
+(*b*) the date of knowledge, as respects the cause of action concerned, of the person against whom the wrong was committed or alleged to have been committed,
+
+whichever occurs later.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F2: Substituted (28.01.2019) by *Central Bank (National Claims Information Database) Act 2018* (42/2018), s. 13(2), S.I. No. 2 of 2019.
+>
+> F3: Substituted by *Legal Services Regulation Act 2015* (65/2015), s. 220(1)(a), not commenced as of date of revision.
+>
+> F4: Inserted by *Legal Services Regulation Act 2015* (65/2015), s. 220(1)(b), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C2: Prospective affecting provision: subs. (1) amended and subs. (3) inserted by *Legal Services Regulation Act 2015* (65/2015), s. 220(1), not commenced as of date of revision.
+>
+> **8.**—(1) F3[Subject to *subsection (3)*, where] a plaintiff in a personal injuries action fails, without reasonable cause, to serve a notice in writing, before the expiration of 2 months from the date of the cause of action, or as soon as practicable thereafter, on the wrongdoer or alleged wrongdoer stating the nature of the wrong alleged to have been committed by him or her, the court hearing the action may—
+>
+> (*a*) draw such inferences from the failure as appear proper, and
+>
+> (*b*) where the interests of justice so require—
+>
+> (i) make no order as to the payment of costs to the plaintiff, or
+>
+> (ii) deduct such amount from the costs that would, but for this section, be payable to the plaintiff as it considers appropriate.
+>
+> (2) ...
+>
+> (3) This section does not apply to a clinical negligence action within the meaning of *Part 2A*.
+>
+> C3: For purposes of certain proceedings, section to be read as if deleted as provided (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 24(2)(b), S.I. No. 163 of 2023.
+>
+> **Additional provisions regarding proceedings**
+>
+> **24.** (1) The proceedings referred to in section 23 shall, subject to this Act and the Act of 2003 as applied by section 19 and with any necessary modifications, be deemed to be a personal injuries action for the purposes of any enactments relating in whole or in part to personal injuries actions (including the Act of 2004) and shall be treated as if they were a personal injuries action within the meaning of those enactments, including for the purposes of costs.
+>
+> (2) Notwithstanding *subsection (1)*, the Act of 2004 shall apply to the proceedings referred to in section 23 with the following modifications: ...
+>
+> (*b*) it shall be read as if section 8 of the Act of 2004 were deleted;
+>
+> ...
+
+### 9. Rules of court.
+
+**9.**—(1) It shall be a function of the courts in personal injuries actions to ensure that parties to such actions comply with such rules of court as apply in relation to personal injuries actions so that the trial of personal injuries actions within a reasonable period of their having been commenced is secured.
+
+(2) Where rules of court prescribe a period of time for the service of a document, or the doing of any other thing, in relation to a personal injuries action, the period within which that document may be served or thing may be done shall not be extended beyond the period so prescribed unless—
+
+(*a*) the parties to the action agree to the period being extended, or
+
+(*b*) the court considers that—
+
+(i) in all the circumstances the extension of the period by such further period as it may direct is necessary or expedient to enable the action to be properly prosecuted or defended, and
+
+(ii) the interests of justice require the extension of the period by that further period.
+
+(3) For the purposes of ensuring compliance by a party to a personal injuries action with rules of court, a court may make such orders as to the payment of costs as it considers appropriate.
+
+(4) Nothing in this Act shall be construed as limiting or reducing the power of an authority, having (for the time being) power to make rules regulating the practice and procedure of a court, to—
+
+(*a*) make such rules in relation to personal injuries actions provided such rules do not derogate from, and are not inconsistent with, any provision of this Act, or
+
+(*b*) make such rules in relation to proceedings or actions other than personal injuries actions.
+
+(5) In *subsections (1)* and *(2)* a reference to the courts or the court includes a reference to the Master of the High Court and a county registrar.
+
+### 10. Bringing of proceedings.
+
+**10.**—(1) Proceedings in the High Court, Circuit Court or District Court, in respect of a personal injuries action, shall be commenced by a summons to be known as and referred to in this Act as a “personal injuries summons”.
+
+(2) A personal injuries summons shall specify—
+
+(*a*) the plaintiff's name, the address at which he or she ordinarily resides and his or her occupation,
+
+(*b*) the personal public service number allocated and issued to the plaintiff under section 223 (inserted by section 14 of the Act of 1998) of the Act of 1993,
+
+(*c*) the defendant's name, the address at which he or she ordinarily resides (if known to the plaintiff) and his or her occupation (if known to the plaintiff),
+
+(*d*) the injuries to the plaintiff alleged to have been occasioned by the wrong of the defendant,
+
+(*e*) full particulars of all items of special damage in respect of which the plaintiff is making a claim,
+
+(*f*) full particulars of the acts of the defendant constituting the said wrong and the circumstances relating to the commission of the said wrong,
+
+(*g*) full particulars of each instance of negligence by the defendant.
+
+(3) Where a plaintiff fails to comply with this section—
+
+(*a*) the court may—
+
+(i) direct that the action shall not proceed any further until the plaintiff complies with such conditions as the court may specify, or
+
+(ii) where it considers that the interests of justice so require, dismiss the plaintiff's action,
+
+and
+
+(*b*) the court shall take such failure into account when deciding whether to make an order as to the payment of the costs of the personal injuries action concerned, or the amount of such costs.
+
+(4) Where a plaintiff fails to comply with this section, the court hearing the personal injuries action concerned may draw such inferences from the failure as appear proper.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C4: For purposes of certain proceedings, subss. (1), (2) to be construed as provided (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 24(2)(c), (d), S.I. No. 163 of 2023.
+>
+> **Additional provisions regarding proceedings**
+>
+> **24.** (1) The proceedings referred to in section 23 shall, subject to this Act and the Act of 2003 as applied by section 19 and with any necessary modifications, be deemed to be a personal injuries action for the purposes of any enactments relating in whole or in part to personal injuries actions (including the Act of 2004) and shall be treated as if they were a personal injuries action within the meaning of those enactments, including for the purposes of costs.
+>
+> (2) Notwithstanding *subsection (1)*, the Act of 2004 shall apply to the proceedings referred to in section 23 with the following modifications: ...
+>
+> (*c*) section 10(1) of the Act of 2004 shall be read as follows:
+>
+> (1) Proceedings in the High Court, Circuit Court or District Court, in respect of a personal injuries action involving proceedings under section 23 of the Garda Síochána (Compensation) Act 2022, shall be commenced by a summons to be known as and referred to in this Act as a ‘Garda compensation personal injuries summons’.
+>
+> (*d*) section 10(2) of the Act of 2004 shall be read as follows:
+>
+> (2) A Garda compensation personal injuries summons shall specify—
+>
+> (*a*) the plaintiff’s name, the address at which he or she ordinarily resides and his or her occupation,
+>
+> (*b*) the personal public service number allocated and issued to the plaintiff under section 223 (inserted by section 14 of the Act of 1998) of the Act of 1993,
+>
+> (*c*) the defendant’s name and his or her occupation,
+>
+> (*d*) the injuries or death alleged to have been occasioned by the malicious incident,
+>
+> (*e*) full particulars of all items of special damage in respect of which the plaintiff is making a claim,
+>
+> (*f*) full particulars of the malicious incident, and
+>
+> (*g*) in the case of proceedings brought by one or more persons to whom section 8 (2)(b) of the Garda Síochána (Compensation) Act 2022 refers, full particulars of the applicability of that section to each person by whom or for whose benefit the proceedings are brought.
+>
+> ...
+
+### 11. Request for further information.
+
+**11.**—(1) Upon the request of a defendant in a personal injuries action, the plaintiff shall provide the defendant with—
+
+(*a*) particulars of any personal injuries action brought by the plaintiff in which a court made an award of damages,
+
+(*b*) particulars of any personal injuries action brought by the plaintiff which was withdrawn or settled,
+
+(*c*) particulars of any injuries sustained or treatment administered to the plaintiff that would have a bearing on the personal injuries to which the personal injuries action relates, and
+
+(*d*) the name of any persons from whom the plaintiff received such medical treatment,
+
+in this Act referred to as “further information”.
+
+(2) Upon the request of a defendant in a personal injuries action, the plaintiff shall provide the defendant with documents, of such a class as may be prescribed from time to time by the Minister, from the Revenue Commissioners or the Minister for Social and Family Affairs, as may be appropriate, relating to any earnings or other income in respect of which the plaintiff is making a claim.
+
+(3) Where a plaintiff fails to comply with a request under *subsection (1)* or *(2)*—
+
+(*a*) the court may—
+
+(i) direct that the personal injuries action concerned shall not proceed any further until the plaintiff complies with such conditions as the court may specify, or
+
+(ii) where it considers that the interests of justice so require, dismiss the plaintiff's action,
+
+and
+
+(*b*) the court shall, at the hearing of the action, take such failure into account when deciding whether to make any order as to the payment of the costs of the action, or the amount of such costs.
+
+(4) Where, upon a request referred to in *subsection (1)*, a plaintiff fails to comply with that subsection, the court hearing the personal injuries action concerned may draw such inferences from the failure as appear proper.
+
+(5) Where, for the purposes of complying with *subsection (2)*, a plaintiff requests the Revenue Commissioners or the Minister for Social and Family Affairs to furnish him or her with documents referred to in that paragraph, the Revenue Commissioners or the said Minister shall furnish him or her with such documents as are in their, or his or her, possession or procurement.
+
+### 12. Defence and counterclaim.
+
+**12.**—(1) A defence to a personal injuries action shall specify—
+
+(*a*) the allegations specified, or matters pleaded, in the personal injuries summons of which the defendant does not require proof,
+
+(*b*) the allegations specified, or matters pleaded in the personal injuries summons of which he or she requires proof,
+
+(*c*) the grounds upon which the defendant claims that he or she is not liable for any injuries suffered by the plaintiff, and
+
+(*d*) where the defendant alleges that some or all of the personal injuries suffered by the plaintiff were occasioned in whole or in part by the plaintiff's own acts, the grounds upon which he or she so alleges.
+
+(2) A counterclaim in a personal injuries action shall specify—
+
+(*a*) the personal public service number allocated and issued to the defendant under section 223 (inserted by section 14 of the Act of 1998) of the Act of 1993,
+
+(*b*) the injuries to the defendant alleged to have been occasioned by the wrong of the plaintiff,
+
+(*c*) full particulars of all items of special damage in respect of which the defendant is making a claim,
+
+(*d*) full particulars of the acts of the plaintiff constituting the said wrong and the circumstances relating to the commission of the said wrong,
+
+(*e*) full particulars of each instance of negligence by the plaintiff.
+
+(3) Where a defendant fails to comply with this section—
+
+(*a*) the court may—
+
+(i) direct that the action shall not proceed further until the defendant complies with such conditions as the court may specify, or
+
+(ii) where it considers that the interests of justice so require, give judgment in favour of the plaintiff,
+
+and
+
+(*b*) the court shall take such failure or refusal into account when deciding whether to make any order as to the payment of the costs of the personal injuries action concerned, or the amount of such costs.
+
+(4) Where a defendant fails to comply with this section, the court hearing the personal injuries action concerned may draw such inferences from the failure as appear proper.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C5: For purposes of certain proceedings, section to be construed as provided (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 24(2)(e), S.I. No. 163 of 2023.
+>
+> **Additional provisions regarding proceedings**
+>
+> **24.** (1) The proceedings referred to in section 23 shall, subject to this Act and the Act of 2003 as applied by section 19 and with any necessary modifications, be deemed to be a personal injuries action for the purposes of any enactments relating in whole or in part to personal injuries actions (including the Act of 2004) and shall be treated as if they were a personal injuries action within the meaning of those enactments, including for the purposes of costs.
+>
+> (2) Notwithstanding *subsection (1)*, the Act of 2004 shall apply to the proceedings referred to in section 23 with the following modifications: ...
+>
+> (*e*) section 12 of the Act of 2004 shall be read as if the words “personal injuries summons” were the words “Garda compensation personal injuries summons”, wherever they occur;
+>
+> ...
+
+### 13. Pleadings generally.
+
+**13.**—(1) All pleadings in a personal injuries action shall—
+
+(*a*) in the case of a pleading served by the plaintiff, contain full and detailed particulars of the claim of which the action consists and of each allegation, assertion or plea comprising that claim, or
+
+(*b*) in the case of a pleading served by the defendant or a third party contain full and detailed particulars of each denial or traverse, and of each allegation, assertion or plea, comprising his or her defence.
+
+(2) Subject to this Act, pleadings in a personal injuries action shall be in such form as are prescribed by rules of court.
+
+### 14. Verifying affidavit.
+
+**14.**—(1) Where the plaintiff in a personal injuries action—
+
+(*a*) serves on the defendant any pleading containing assertions or allegations, or
+
+(*b*) provides further information to the defendant,
+
+the plaintiff (or in the case of a personal injuries action brought on behalf of an infant or person of unsound mind by a next friend or a committee of the infant or person, the next friend or committee) shall swear an affidavit verifying those assertions or allegations, or that further information.
+
+(2) Where the defendant or a third party in a personal injuries action serves on another party to the action any pleading containing assertions or allegations, the defendant or third party, as the case may be, shall swear an affidavit verifying those assertions or allegations.
+
+(3) Where a personal injuries action is brought on behalf of an infant or a person of unsound mind by a next friend or a committee of the infant or person, an affidavit to which *subsection (1)* applies sworn by the next friend or committee concerned shall, in respect of assertions, allegations or further information, of which he or she does not have personal knowledge, state that he or she honestly believes the assertions, allegations or further information, to be true.
+
+(4) An affidavit under this section shall be lodged in court not later than—
+
+(*a*) 21 days after the service of the pleading concerned or such longer period as the court may direct or the parties may agree, or
+
+(*b*) in the case of a requirement to which *subsection (8)(b)* applies, 7 days before the date fixed for the trial of the personal injuries action concerned.
+
+F5[(4A) Where there is a failure to comply with *subsection (4)*, the court hearing the personal injuries action concerned shall—
+
+(*a*) draw such inferences from the failure as appear proper, and
+
+(*b*) where the interests of justice so require—
+
+(i) make no order as to the payment of costs to the party responsible for the failure, or
+
+(ii) deduct such amount from the costs that would, but for this subsection, be payable to the party responsible for the failure as it considers appropriate.]
+
+(5) If a person makes a statement in an affidavit under this section—
+
+(*a*) that is false or misleading in any material respect, and
+
+(*b*) that he or she knows to be false or misleading,
+
+he or she shall be guilty of an offence.
+
+(6) The reference to court in *subsection (4)* shall—
+
+(*a*) in the case of a personal injuries action brought in the High Court, include a reference to the Master of the High Court, and
+
+(*b*) in the case of a personal injuries action brought in the Circuit Court, include a reference to the county registrar for the county in which the proceedings concerned were issued.
+
+(7) An affidavit sworn under this section shall include a statement by the deponent that he or she is aware that the making of a statement by him or her in the affidavit that is false or misleading in any material respect and that he or she knows to be false or misleading is an offence.
+
+(8) This section applies to personal injuries actions brought—
+
+(*a*) on or after the commencement of this section, and
+
+(*b*) before such commencement, where a party to the action requires (not later than 21 days before the date fixed for the trial of the action) another party to the action to swear an affidavit in accordance with this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F5: Inserted (28.01.2019) by *Central Bank (National Claims Information Database) Act 2018* (42/2018), s. 13(3), S.I. No. 2 of 2019.
+
+### 15. Mediation conference.
+
+**15.**—(1) Upon the request of any party to a personal injuries action F6[or upon its own initiative], the court may—
+
+(*a*) at any time before the trial of such action, and
+
+(*b*) if it considers that the holding of a meeting pursuant to a direction under this subsection would assist in reaching a settlement in the action,
+
+direct that the parties to the action meet to discuss and attempt to settle the action, and a meeting held pursuant to a direction under this subsection is in this Act referred to as a “mediation conference”.
+
+(2) Where the court gives a direction under *subsection (1)*, each party to the personal injuries action concerned shall comply with that direction.
+
+(3) A mediation conference shall take place—
+
+(*a*) at a time and place agreed by the parties to the personal injuries action concerned, or
+
+(*b*) where the parties do not agree a time and place, at a time and place specified by the court.
+
+(4) There shall be a chairperson of a mediation conference who shall—
+
+(*a*) be a person appointed by agreement of all the parties to the personal injuries action concerned, or
+
+(*b*) where no such agreement is reached—
+
+(i) be a person appointed by the court, and
+
+(ii) (I) be a practising barrister or practising solicitor of not less than 5 years standing, or
+
+(II) a person nominated by a body prescribed, for the purpose of this section, by order of the Minister.
+
+(5) The notes of the chairperson of a mediation conference and all communications during a mediation conference or any records or other evidence thereof shall be confidential and shall not be used in evidence in any proceedings whether civil or criminal.
+
+(6) The costs incurred in the holding and conducting of a mediation conference shall be paid by such party to the personal injuries action concerned as the court hearing the action shall direct.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F6: Inserted (1.01.2018) by *Mediation Act 2017* (27/2017), s. 22, S.I. No. 591 of 2017.
+>
+> **Editorial Notes:**
+>
+> E3: Power pursuant to section exercised (1.07.2005) by *Civil Liability and Courts Act 2004 (Bodies Prescribed under Section 15) (No. 2) Order 2005* (S.I. No. 336 of 2005).
+>
+> E4: Power pursuant to section exercised (31.03.2005) by *Civil Liability and Courts Act 2004 (Bodies Prescribed Under Section 15) Order 2005* (S.I. No. 168 of 2005).
+
+### 16. Report of chairperson of mediation conference.
+
+**16.**—(1) A person appointed under *section 15(4)* to be the chairperson of a mediation conference shall prepare and submit to the court hearing the personal injuries action concerned a report, which shall set out—
+
+(*a*) where the mediation conference did not take place, a statement of the reasons as to why it did not take place, or
+
+(*b*) where the mediation conference did take place—
+
+(i) a statement as to whether or not a settlement has been reached in the personal injuries action concerned, and
+
+(ii) where a settlement has been entered into, a statement of the terms of the settlement signed by the parties thereto.
+
+(2) A copy of a report prepared under *subsection (1)* shall be given to each party to the personal injuries action at the same time as it is submitted to the court under that subsection.
+
+(3) At the conclusion of a personal injuries action, the court may—
+
+(*a*) after hearing submissions by or on behalf of the parties to the action, and
+
+(*b*) if satisfied that a party to the action failed to comply with a direction under *section 15(1)*,
+
+make an order directing that party to pay the costs of the action, or such part of the costs of the action as the court directs, incurred after the giving of the direction under *section 15(1)*.
+
+### 17. Formal offers.
+
+**17.**—(1) The plaintiff in a personal injuries action shall, after the prescribed date, serve a notice in writing of an offer of terms of settlement on the defendant.
+
+(2) The defendant in a personal injuries action shall, after the prescribed date, serve a notice in writing on the plaintiff—
+
+(*a*) of an offer of terms of settlement, or
+
+(*b*) stating that he or she is not prepared to pay any sum of money to the plaintiff in settlement of the action.
+
+F7[(2A) Where a formal offer is made in respect of a personal injuries action relating to a catastrophic injury, the formal offer shall specify the proportion of the amount of the formal offer that is attributable to—
+
+(*a*) the future medical treatment of the plaintiff,
+
+(*b*) the future care of the plaintiff,
+
+(*c*) the provision of assistive technology or other aids and appliances associated with the medical treatment and care of the plaintiff, and
+
+(*d*) future loss of earnings of the plaintiff.]
+
+(3) A copy of a formal offer shall, after the expiration of the prescribed period be lodged in court by, or on behalf of, the plaintiff or defendant, as the case may be.
+
+(4) The terms of a formal offer shall not be communicated to the judge in the trial of a personal injuries action until after he or she has delivered judgment in the action.
+
+(5) F8[Subject to *subsection (5A)*, the court] shall, when considering the making of an order as to the payment of the costs in a personal injuries action have regard to—
+
+(*a*) the terms of a formal offer, and
+
+(*b*) the reasonableness of the conduct of the parties in making their formal offers.
+
+F7[(5A) (*a*) Where a court has made a periodic payments order in a personal injuries action, the court shall, when considering the making of an order as to the payment of the costs in the personal injuries action, have regard to—
+
+(i) the terms of any formal offer, other than those terms which relate to the matters referred to in *paragraphs (a)*, *(b)*, *(c)* and *(d)* of *subsection (2A)*, and
+
+(ii) the reasonableness of the conduct of the parties to the personal injuries action concerned in making any formal offers.
+
+(*b*) In determining liability for the part of the costs of the personal injuries action relating to the matters referred to in *paragraphs (a)*, *(b)*, *(c)* and *(d)* of *subsection (2A)*, the court shall have regard to—
+
+(i) any offers not expressed to be without prejudice or in terms having like effect, and
+
+(ii) any offers made without prejudice save as to the issue of costs which were made by or on behalf of a party to the personal injuries action after the commencement of the trial of the action, to effect a settlement of that action.]
+
+(6) This section is in addition to and not in substitution for any rule of court providing for the payment into court of a sum of money in satisfaction of a cause of action or the making of an offer of tender of payment to the other party or parties to an action.
+
+(7) In this section—
+
+F7["catastrophic injury" has the same meaning as it has in Part IVB of the Civil Liability Act 1961;]
+
+“formal offer” means an offer under *subsection (1)* or *(2)(a)*, or a statement under *subsection (2)(b)*;
+
+F7["periodic payments order" has the same meaning as it has in Part IVB of the Civil Liability Act 1961;]
+
+“prescribed date” means such date before the date of the commencement of the trial of the personal injuries action concerned as is prescribed by order of the Minister;
+
+“prescribed period” means such period commencing on the prescribed date as is prescribed by order of the Minister.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F7: Inserted (1.10.2018) by *Civil Liability (Amendment) Act 2017* (30/2017), s. 6(a), (c), (d), S.I. No. 377 of 2018.
+>
+> F8: Substituted (1.10.2018) by *Civil Liability (Amendment) Act 2017* (30/2017), s. 6(b), S.I. No. 377 of 2018.
+>
+> F9: Substituted by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 50, not commenced as of date of revision.
+>
+> F10: Substituted by *Legal Services Regulation Act 2015* (65/2015), s. 220(2)(a), not commenced as of date of revision.
+>
+> F11: Inserted by *Legal Services Regulation Act 2015* (65/2015), s. 220(2)(b), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C6: Prospective affecting provision: subs. (2) amended by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 50, not commenced as of date of revision.
+>
+> (2) F9[Subject to *subsection (6A)*, the] defendant in a personal injuries action shall, after the prescribed date, serve a notice in writing on the plaintiff—
+>
+> ...
+>
+> C7: Prospective affecting provision: subs. (1) amended and subs. (6A) inserted by *Legal Services Regulation Act 2015* (65/2015), s. 220(2), not commenced as of date of revision.
+>
+> **17.**—(1) F10[Subject to *subsection (6A)*, the] plaintiff in a personal injuries action shall, after the prescribed date, serve a notice in writing of an offer of terms of settlement on the defendant.
+>
+> ...
+>
+> (6A) This section does not apply to a clinical negligence action within the meaning of *Part 2A* if an offer to settle the claim had, before the bringing of the action, been made by any party to the action in accordance with the pre-action protocol.
+>
+> **Editorial Notes:**
+>
+> E5: Power pursuant to section exercised (31.03.2005) by *Civil Liability and Courts Act 2004* (Section 17) Order 2005 (S.I. No. 169 of 2005), arts. 3 and 4.
+
+### 17A. Pre-action offers to settle clinical negligence claims
+
+F12[**17A.**— ...]
+
+F13[Pre-action offers of settlement in clinical negligence claims
+
+**17A.**— ...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F12: Inserted by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 51, not commenced as of date of revision.
+>
+> F13: Inserted by *Legal Services Regulation Act 2015* (65/2015), s. 220(3), not commenced; repealed by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 67, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C8: Prospective affecting provision: section inserted by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 51, not commenced as of date of revision.
+>
+> F12[**Pre-action offers to settle clinical negligence claims**
+>
+> **17A.**—(1) Where an offer to settle is made, before the bringing of a clinical negligence action, in respect of a claim relating to a catastrophic injury (within the meaning of Part IVB of the Act of 1961)—
+>
+> (*a*) the offer to settle shall specify the proportion of the amount of the offer to settle that is attributable to—
+>
+> (i) the future medical treatment of the plaintiff,
+>
+> (ii) the future care of the plaintiff,
+>
+> (iii) the provision of assistive technology or other aids and appliances associated with the medical treatment and care of the plaintiff, and
+>
+> (iv) the future loss of earnings of the plaintiff,
+>
+> and
+>
+> (*b*) a copy of the offer to settle shall be lodged in court by, or on behalf of, the party by which it was made.
+>
+> (2) The terms of an offer to settle shall not be communicated to the judge in the trial of a clinical negligence action until after he or she has delivered judgment in the action.
+>
+> (3) Subject to *subsection (4)*, the court shall, when considering the making of an order as to the payment of the costs in a clinical negligence action, have regard to—
+>
+> (*a*) the terms of an offer to settle, and
+>
+> (*b*) the reasonableness of the conduct of the party by whom the offer was made in making the offer.
+>
+> (4) Where a court has made a periodic payments order (within the meaning of Part IVB of the Act of 1961) in a clinical negligence action, the court shall, when considering the making of an order as to the payment of the costs in the action, have regard to—
+>
+> (*a*) the terms of any offer to settle, other than those terms which relate to the matters referred to in *subparagraphs (i)* to *(iv)* of *paragraph (a)* of *subsection (1)*, and
+>
+> (*b*) the reasonableness of the conduct of the parties to the action concerned in making any offers to settle.
+>
+> (5) In determining liability for the part of the costs of a clinical negligence action relating to the matters referred to in *subparagraphs (i)* to *(iv)* of *paragraph (a)* of *subsection (1)*, the court shall have regard to—
+>
+> (*a*) any offers not expressed to be without prejudice or in terms having like effect, and
+>
+> (*b*) any offers made without prejudice save as to the issue of costs which were made by or on behalf of a party to the action after the commencement of the trial of the action, to effect a settlement of that action.
+>
+> (6) This section is in addition to and not in substitution for any rule of court providing for the payment into court of a sum of money in satisfaction of a cause of action or the making of an offer of tender of payment to the other party or parties to an action.
+>
+> (7) In this section—
+>
+> "clinical negligence action" has the same meaning as it has in *Part 2A*;
+>
+> "offer to settle" means an offer made by any party to a clinical negligence action to settle the claim to which the action relates in accordance with the pre-action protocol within the meaning of *Part 2A*.]
+>
+> C9: Prospective affecting provision: section inserted by *Legal Services Regulation Act 2015* (65/2015), s. 220(3), not commenced; repealed by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 67, not commenced as of date of revision.
+>
+> **Pre-action offers of settlement in clinical negligence claims**
+>
+> **17A.**—(1) In a case of an action to which *section 17* does not apply by virtue of *subsection (6A)* of that section, a copy of the offer of settlement shall be lodged in court by, or on behalf of, the party by which it was made.
+>
+> (2) The terms of the offer of settlement shall not be communicated to the judge in the trial of the clinical negligence action until after he or she has delivered judgment in the action.
+>
+> (3) The court shall, when considering the making of an order as to the payment of the costs in the action, have regard to—
+>
+> (*a*) the terms of the offer of settlement, and
+>
+> (*b*) the reasonableness of the conduct of the party by whom the offer was made in making the offer.
+>
+> (4) This section is in addition to and not in substitution for any rule of court providing for the payment into court of a sum of money in satisfaction of a cause of action or the making of an offer of tender of payment to the other party or parties to an action.
+>
+> **Editorial Notes:**
+>
+> E6: Previous affecting provision: section inserted by *Legal Services Regulation Act 2015* (65/2015), s. 220(3), not commenced; repealed by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 67, not commenced as of date of revision.
+
+### 18. Pre-trial hearings.
+
+**18.**—(1) Where, in a personal injuries action, the court considers it appropriate, it shall direct that a hearing be held before the trial of the action for the purposes of determining what matters relating to the action are in dispute.
+
+(2) All parties to a personal injuries action shall be entitled to be heard at a hearing held pursuant to a direction under *subsection (1)*.
+
+(3) A hearing held pursuant to a direction under *subsection (1)* shall be presided over by—
+
+(*a*) in the case of a personal injuries action brought in the High Court, a judge of the High Court, the Master of the High Court, a Deputy Master of the High Court or an officer nominated under paragraph 6(1) of the Eighth Schedule to the Courts (Supplemental Provisions) Act 1961, as the President of the High Court may direct,
+
+(*b*) in the case of a personal injuries action brought in the Circuit Court, a judge of the Circuit Court, the county registrar for the county in which the action was brought or a member of the staff of the Circuit Court Office in the county in which the action was brought, as the President of the Circuit Court may direct,
+
+(*c*) in the case of a personal injuries action brought in the District Court, a judge of the District Court.
+
+(4) This section is in addition to and not in substitution for any power of a court to give directions in relation to any matter in a personal injuries action.
+
+### 19. Evidence.
+
+**19.**—(1) In a personal injuries action evidence as to any matter shall, where the court so directs, be given by affidavit.
+
+(2) This section shall not operate to deny a party in a personal injuries action the right to cross-examine a witness who has given evidence by affidavit in accordance with a direction under *subsection (1)*.
+
+### 20. Expert evidence.
+
+**20.**—(1) In a personal injuries action, the court may appoint such approved persons as it considers appropriate to carry out investigations into, and give expert evidence in relation to, such matters as the court directs.
+
+(2) A party in a personal injuries action shall cooperate with a person appointed under this section and shall, in particular, provide the person with—
+
+(*a*) (i) any report or other document prepared by the party, or
+
+(ii) any report or other document prepared on behalf of the party concerned, for the purposes of or in contemplation of the personal injuries action,
+
+and
+
+(*b*) any document or information used or referred to for the purpose of preparing the report.
+
+(3) The costs incurred in the appointment of, and carrying out of an investigation by, a person appointed under this section shall be paid by such party to the personal injuries action concerned as the court hearing the action shall direct.
+
+(4) A party in a personal injuries action shall be entitled to cross-examine a person appointed under this section in relation to any matter that he or she was appointed to investigate and give expert evidence on.
+
+(5) The President of the High Court in consultation with the President of the Circuit Court and the President of the District Court shall approve such persons as he or she considers appropriate for the purposes of this section, and a person so approved is in this section referred to as an “approved person”.
+
+### 21. Intervention in a personal injuries action.
+
+**21.**—(1) The Supreme Court may, upon an appeal to it in a personal injuries action, invite such persons as it considers appropriate to make submissions to the court—
+
+(*a*) in relation to any matter concerning either liability or damages that it considers to be of exceptional public importance, and
+
+(*b*) if the action belongs to a class of causes of action in which the same or a similar matter arises.
+
+(2) The Supreme Court may perform functions under *subsection (1)*, either—
+
+(*a*) upon receiving a request in that behalf from a party to the personal injuries action concerned, or from a person who is not such a party, or
+
+(*b*) where no such request is made.
+
+(3) Where a person declines an invitation to make submissions under this section he or she shall inform the court in writing stating his or her reason for so declining.
+
+### 22. Matter to be taken into account by the court when assessing damages.
+
+**22.**—F14[(1) Subject to section 100 of the Act of 2019 and *subsection (1A)(b)*, the court shall, in assessing damages in a personal injuries action commenced on or after the date on which section 99 of that Act comes into operation—
+
+(*a*) have regard to the personal injuries guidelines (within the meaning of that Act) in force, and
+
+(*b*) where it departs from those guidelines, state the reasons for such departure in giving its decision.]
+
+F18[(1A) The court shall have regard to the Book of Quantum in assessing damages in a personal injuries action where the action is commenced—
+
+(*a*) before the date on which section 99 of the Act of 2019 comes into operation, or
+
+(*b*) on or after the date on which that section comes into operation in relation to a relevant claim where—
+
+(i) an assessment was made under section 20 of the Act of 2003 in relation to that claim before the date of such coming into operation, and
+
+(ii) that assessment was not, or was deemed not to have been, accepted in accordance with that Act.]
+
+(2) F15[*Subsection (1A)*] shall not operate to prohibit a court from having regard to matters other than the Book of Quantum when assessing damages F16[in a personal injuries action to which that subsection applies].
+
+F17[(3) In this section—
+
+"Act of 2019" means the Judicial Council Act 2019;
+
+"assessment" has the same meaning as it has in section 20(1) of the Act of 2003;
+
+"Book of Quantum" means the Book of Quantum that, immediately before the coming into operation of section 99 of the Act of 2019, stands published by the Personal Injuries Assessment Board under the Act of 2003;
+
+"relevant claim" has the same meaning as it has in section 9 of the Act of 2003.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F14, F15, F16, F17: Substituted by *Judicial Council Act 2019* (33/2019), s. 99(a), (c)(i), (ii), (d), as substituted (24.04.2021) by *Family Leave and Miscellaneous Provisions Act 2021* (4/2021), s. 30(a), S.I. No. 180 of 2021.
+>
+> F18: Inserted (24.04.2021) by *Judicial Council Act 2019* (33/2019), s. 99(b), as substituted (24.04.2021) by *Family Leave and Miscellaneous Provisions Act 2021* (4/2021), s. 30(a), S.I. No. 180 of 2021.
+>
+> **Modifications (not altering text):**
+>
+> C10: For purposes of certain proceedings, section to be read as if deleted as provided (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 24(2)(f), S.I. No. 163 of 2023.
+>
+> **Additional provisions regarding proceedings**
+>
+> **24.** (1) The proceedings referred to in section 23 shall, subject to this Act and the Act of 2003 as applied by section 19 and with any necessary modifications, be deemed to be a personal injuries action for the purposes of any enactments relating in whole or in part to personal injuries actions (including the Act of 2004) and shall be treated as if they were a personal injuries action within the meaning of those enactments, including for the purposes of costs.
+>
+> (2) Notwithstanding *subsection (1)*, the Act of 2004 shall apply to the proceedings referred to in section 23 with the following modifications: ...
+>
+> (*f*) it shall be read as if section 22 of the Act of 2004 were deleted;
+>
+> ...
+
+### 23. Actuarial tables.
+
+**23.**—(1) The Minister may, by regulations, prescribe actuarial tables for the purpose of their being referred to by the courts when assessing damages in personal injuries actions in respect of future financial loss.
+
+(2) A court in a personal injuries action shall, in assessing damages in respect of future financial loss, refer to such actuarial tables (if any) as are prescribed under *subsection (1)*.
+
+(3) In this section “actuarial tables” means actuarial tables prepared by a person designated for that purpose by a body prescribed by regulations made by the Minister.
+
+### 24. Discount rate.
+
+**24.**—(1) The Minister may, by regulations, prescribe the discount rate that shall apply for the purposes of the assessment of damages in respect of future financial loss.
+
+(2) Regulations under *subsection (1)* may prescribe different rates in respect of different classes of financial loss or different periods of time.
+
+(3) The court may apply a discount rate other than the rate prescribed under *subsection (1)* if it considers that the application of the rate prescribed would result in injustice being done.
+
+(4) In this section “discount rate” means, in relation to the assessment of damages by a court, the rate commonly referred to by that name that is applied by the court for the purpose of determining the current value of any future financial loss.
+
+### 25. False evidence, etc.
+
+**25.**—(1) If, after the commencement of this section, a person gives or dishonestly causes to be given, or adduces or dishonestly causes to be adduced, evidence in a personal injuries action that—
+
+(*a*) is false or misleading in any material respect, and
+
+(*b*) he or she knows to be false or misleading,
+
+he or she shall be guilty of an offence.
+
+(2) If, after the commencement of this section, a person gives, or dishonestly causes to be given, an instruction or information, in relation to a personal injuries action, to a solicitor, or person acting on behalf of a solicitor, or an expert, that—
+
+(*a*) is false or misleading in any material respect, and
+
+(*b*) he or she knows to be false or misleading,
+
+he or she shall be guilty of an offence.
+
+(3) For the purposes of this section, an act is done dishonestly by a person if he or she does the act with the intention of misleading the court.
+
+(4) This section applies to personal injuries actions—
+
+(*a*) brought on or after the commencement of this section, and
+
+(*b*) pending on the date of such commencement.
+
+(5) In this section “expert” means a person who has a special skill or expertise and who—
+
+(*a*) has been engaged by or on behalf of a plaintiff or defendant in a personal injuries action to give expert evidence in that action, or
+
+(*b*) for the purposes of or in contemplation of a personal injuries action has been requested to carry out an examination or investigation in relation to any matter for which such special skill or expertise is necessary.
+
+### 26. Fraudulent actions.
+
+**26.**—(1) If, after the commencement of this section, a plaintiff in a personal injuries action gives or adduces, or dishonestly causes to be given or adduced, evidence that—
+
+(*a*) is false or misleading, in any material respect, and
+
+(*b*) he or she knows to be false or misleading,
+
+the court shall dismiss the plaintiff's action unless, for reasons that the court shall state in its decision, the dismissal of the action would result in injustice being done.
+
+(2) The court in a personal injuries action shall, if satisfied that a person has sworn an affidavit under *section 14* that—
+
+(*a*) is false or misleading in any material respect, and
+
+(*b*) that he or she knew to be false or misleading when swearing the affidavit,
+
+dismiss the plaintiff's action unless, for reasons that the court shall state in its decision, the dismissal of the action would result in injustice being done.
+
+(3) For the purposes of this section, an act is done dishonestly by a person if he or she does the act with the intention of misleading the court.
+
+(4) This section applies to personal injuries actions—
+
+(*a*) brought on or after the commencement of this section, and
+
+(*b*) pending on the date of such commencement.
+
+### 27. Collateral benefits.
+
+**27.**—(1) The Act of 1961 is amended by the insertion, in section 50, of the following subsection:
+
+“(2) In assessing damages under this Part, account shall not be taken of any charitable gift (whether in the form of money or other property) made to the plaintiff in consequence of the death of the deceased unless—
+
+(*a*) the defendant is the donor of the gift, and
+
+(*b*) at the time of the making of the gift he or she informs the plaintiff in writing that, should the plaintiff recover damages in an action under this Part, the defendant will apply to the court for the damages to be reduced by an amount equal to the amount of the gift or the value of the gift, as may be appropriate.”,
+
+and the said section 50 as it stood immediately before the commencement of this subsection shall be referred to as subsection (1) of section 50.
+
+(2) The Civil Liability (Amendment) Act 1964 is amended by the insertion, in section 2, of the following subsection:
+
+“(2) In assessing damages in an action to recover damages in respect of a wrong resulting in personal injury not causing death, account shall not be taken of any charitable gift (whether in the form of money or other property) made to the plaintiff in respect of those injuries unless—
+
+(*a*) the defendant is the donor of the gift, and
+
+(*b*) (i) at the time of the making of the gift he or she informs the plaintiff in writing that, should the plaintiff recover damages in such an action, the defendant will apply to the court for the damages to be reduced by an amount equal to the amount of the gift or the value of the gift, as may be appropriate, or
+
+(ii) in the case of a plaintiff who is employed by the defendant, the gift consists of a series of payments that resemble, in amount and frequency, the normal remuneration that the plaintiff would be entitled to receive from the defendant in the course of his or her employment.”,
+
+and the said section 2 as it stood immediately before the commencement of this subsection shall be referred to as subsection (1) of section 2.
+
+(3) The amendments to—
+
+(*a*) section 50 of the Act of 1961, and
+
+(*b*) section 2 of the Civil Liability (Amendment) Act 1964,
+
+effected by this section do not apply to causes of action accruing before the commencement of this section.
+
+### 28. Income undeclared for tax purposes.
+
+**28.**—(1) In a personal injuries action (other than an action under section 48 of the Act of 1961), any income, profit or gain in respect of which—
+
+(*a*) the plaintiff is making a claim, and
+
+(*b*) (i) a return has not been made before the hearing of the action in accordance with the Taxes Consolidation Act 1997, or
+
+(ii) the plaintiff has not otherwise notified the Revenue Commissioners,
+
+shall, for the purposes of assessing damages, be disregarded by the court, unless the court considers that in all the circumstances it would be unjust to disregard such income, profit or gain.
+
+(2) This section does not apply to causes of action accruing before the commencement of this section.
+
+### 29. Offences.
+
+**29.**—(1) A person guilty of an offence under this Part shall be liable, upon conviction on indictment, to a fine not exceeding €100,000, or imprisonment for a term not exceeding 10 years, or to both.
+
+(2) The District Court may try summarily a person charged with an offence under this Part if—
+
+(*a*) the court is of the opinion that the facts proved or alleged constitute a minor offence fit to be tried summarily,
+
+(*b*) the person, upon being informed by the court of his or her right to be tried with a jury, does not object to being tried summarily, and
+
+(*c*) the Director of Public Prosecutions consents to the person being tried summarily for the offence.
+
+(3) A person who is tried under and in accordance with *subsection (2)* shall be liable, upon conviction, to a fine not exceeding €3,000, or imprisonment for a term not exceeding 12 months, or to both.
+
+(4) Section 13 of the Criminal Procedure Act 1967 shall apply in relation to an offence under this Part as if, in lieu of the penalties specified in subsection (3)(*a*) of that section, there were specified therein the penalties provided for in *subsection (3)*, and the reference in subsection (2)(*a*) of the said section 13 to the penalties provided for by subsection (3) shall be construed and have effect accordingly.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E7: A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 30. Register of personal injuries actions.
+
+**30.**—(1) The Courts Service shall, on the commencement of this section, establish and maintain a register of personal injuries actions (in this section referred to as the “register”).
+
+(2) The Courts Service shall enter in the register—
+
+(*a*) the name and address of the solicitor for each party to a personal injuries action,
+
+(*b*) the name and occupation of each party to a personal injuries action, and
+
+(*c*) the address at which he or she ordinarily resides,
+
+as specified in the pleadings relating to the action.
+
+(3) The register shall be made available to such persons as establish to the satisfaction of the Courts Service a sufficient interest in seeking access to it.
+
+### 31. Amendment of Act of 2003.
+
+**31.**—The Act of 2003 is amended by the insertion of the following section:
+
+| “Requiring certain persons to provide information. | 54A.—(1) The Board may require any person (including a Minister of the Government or a body established by or under any enactment) to provide it with such records, documents or information as it may reasonably require for the purposes of the performance of its functions under section 54(1)(*c*). (2) A person of whom a requirement is made under subsection (1) shall comply with that requirement.”. |
+|---|---|
+
+### 32. Other amendments of Act of 2003.
+
+**32.**—(1) For the avoidance of doubt, the reference in the definition of “proceedings” in section 4(1) of the Act of 2003 to “proceedings in court” includes, and shall be deemed to have always included, a reference to—
+
+(*a*) proceedings by way of a counterclaim, and
+
+(*b*) proceedings by way of the service of a third party notice (other than a third party notice claiming only an indemnity or a contribution).
+
+(2) Section 30(4) of the Act of 2003 is amended by the insertion after “subsection (3)” of “or is one relating to a proposed action for damages under section 48 of the Act of 1961”.
+
+## PART 2AClinical Negligence Actions — F19[PART 2A — Clinical Negligence Actions] — Annotations Amendments: Inserted by Legal Services Regulation Act 2015 (65/2015), s. 219(1), not commenced as of date of revision, subject to transitional provision in subs. (2).
+
+### 32A. Interpretation of Part 2A
+
+F20[**32A.**— ...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F20: Inserted by *Legal Services Regulation Act 2015* (65/2015), s. 219(1), not commenced as of date of revision, subject to transitional provision in subs. (2).
+>
+> **Modifications (not altering text):**
+>
+> C11: Prospective affecting provision: section inserted by *Legal Services Regulation Act 2015* (65/2015), s. 219(1), not commenced as of date of revision, subject to transitional provision in subs. (2).
+>
+> **32A.**—(1) In this Part—
+>
+> "clinical negligence" means anything done or omitted to be done in the provision of a health service by a health service provider in circumstances which could give rise to liability for damages for negligence in respect of personal injury or death;
+>
+> "clinical negligence action" means an action for the recovery of damages brought—
+>
+> (*a*) by or on behalf of a person alleging that he or she, or a deceased person of whom he or she is a personal representative, has suffered personal injury or death as a result of clinical negligence, and
+>
+> (*b*) against the health service provider alleged to have committed the act or omission giving rise to liability or any other person alleged to be liable in respect of that act or omission;
+>
+> "health service" means—
+>
+> (*a*) the carrying out of a clinical investigation, diagnosis, procedure, treatment or research,
+>
+> (*b*) the provision of clinical advice or information, or
+>
+> (*c*) the provision of clinical care;
+>
+> "health service provider" means a person whose name is on—
+>
+> (*a*) the register of medical practitioners,
+>
+> (*b*) a register maintained by the Dental Council,
+>
+> (*c*) a register maintained by the Optical Registration Board,
+>
+> (*d*) a register set up under section 13(1) of the Pharmacy Act 2007,
+>
+> (*e*) a register maintained under section 46 of the Nurses and Midwives Act 2011, or
+>
+> (*f*) a register maintained by any health and social care profession which has been designated for the purposes of the Health and Social Care Professionals Act 2005 and which the Minister has prescribed by regulations;
+>
+> "pre-action protocol" means the pre-action protocol mentioned in *section 32B*.
+
+### 32B. Pre-action protocol
+
+F21[**32B.**— ...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F21: Inserted by *Legal Services Regulation Act 2015* (65/2015), s. 219(1), not commenced as of date of revision, subject to transitional provision in subs. (2).
+>
+> **Modifications (not altering text):**
+>
+> C12: Prospective affecting provision: section inserted by *Legal Services Regulation Act 2015* (65/2015), s. 219(1), not commenced as of date of revision, subject to transitional provision in subs. (2).
+>
+> **32B.**—(1) There shall be a pre-action protocol relating to clinical negligence actions.
+>
+> (2) The pre-action protocol shall include requirements that must be complied with by the parties to clinical negligence actions before such actions are brought.
+>
+> (3) The Minister shall by regulations make provision specifying the terms of the pre-action protocol.
+>
+> (4) Before making regulations under *subsection (3)*, the Minister shall consult—
+>
+> (*a*) the Minister for Health,
+>
+> (*b*) the State Claims Agency,
+>
+> (*c*) any such bodies involved in the regulation of persons providing legal services as the Minister considers appropriate,
+>
+> (*d*) any such bodies involved in the regulation or training of persons providing health services as the Minister considers appropriate,
+>
+> (*e*) any such bodies representative of the interests of patients as the Minister considers appropriate, and
+>
+> (*f*) any such other bodies as the Minister considers appropriate.
+>
+> (5) The Minister shall, in making regulations under *subsection (3)*, have regard to the desirability of—
+>
+> (*a*) encouraging the early resolution of enquiries or allegations relating to possible clinical negligence,
+>
+> (*b*) promoting timely communication between persons who are enquiring into or making allegations about possible clinical negligence and those whom they consider may be liable in respect of it,
+>
+> (*c*) reducing the number of cases in which clinical negligence actions are brought,
+>
+> (*d*) facilitating the early identification of the issues in dispute in clinical negligence actions, and
+>
+> (*e*) encouraging the early settlement of clinical negligence actions.
+>
+> (6) The terms of the pre-action protocol specified by regulations under *subsection (3)* shall in particular include provision relating to—
+>
+> (*a*) the disclosure of medical and other records relating to persons enquiring into or alleging possible clinical negligence (including charges for disclosure),
+>
+> (*b*) the giving of notifications of enquiries into, and allegations of, possible clinical negligence, the acknowledgement of notifications of enquiries and the giving of responses to notifications of allegations,
+>
+> (*c*) the specification of the time at or within which records shall be disclosed and notifications given and acknowledged or responded to,
+>
+> (*d*) the form of, and particulars to be included with, requests for disclosure or notifications of enquiries or allegations and acknowledgements of and responses to such notifications,
+>
+> (*e*) the disclosure of material relevant to allegations and responses, and
+>
+> (*f*) agreements to submit issues for resolution otherwise than by a court.
+
+### 32C. Powers of court
+
+F22[**32C.**— ...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F22: Inserted by *Legal Services Regulation Act 2015* (65/2015), s. 219(1), not commenced as of date of revision, subject to transitional provision in subs. (2).
+>
+> **Modifications (not altering text):**
+>
+> C13: Prospective affecting provision: section inserted by *Legal Services Regulation Act 2015* (65/2015), s. 219(1), not commenced as of date of revision, subject to transitional provision in subs. (2).
+>
+> **32C.**—The court in which a clinical negligence action is brought, on hearing the action, may do any of the following:
+>
+> (*a*) direct that the action shall not proceed any further until steps which are required by the pre-action protocol to have been taken by any of the parties have been taken;
+>
+> (*b*) order that a party who has not complied with a requirement of the pre-action protocol pay the costs, or part of the costs, of the other party or parties (including, where appropriate, on an indemnity basis);
+>
+> (*c*) if an award of damages is made in favour of the plaintiff but the plaintiff either has not complied with a requirement of the pre-action protocol or has rejected an offer to settle made in accordance with the pre-action protocol for an amount equal to or greater than that awarded, order that the plaintiff shall be deprived of interest on all or part of the award or that all or part of the award shall carry interest at a lower rate than it otherwise would;
+>
+> (*d*) if an award of damages is made against a defendant but the defendant either has not complied with a requirement of the pre- action protocol or has rejected an offer to settle made in accordance with the pre-action protocol for an amount equal to or less than that awarded, order that the defendant pay interest on all or part of the award at a rate higher by no more than 10 percentage points than the rate for the time being standing specified under section 26 of the Debtors (Ireland) Act 1840.
+
+### 32D. Apology not to constitute admission of liability or invalidate insurance
+
+F23[**32D.**— ...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F23: Inserted by *Legal Services Regulation Act 2015* (65/2015), s. 219(1), not commenced as of date of revision, subject to transitional provision in subs. (2).
+>
+> **Modifications (not altering text):**
+>
+> C14: Prospective affecting provision: section inserted by *Legal Services Regulation Act 2015* (65/2015), s. 219(1), not commenced as of date of revision, subject to transitional provision in subs. (2).
+>
+> **32D.**—(1) An apology made in connection with an allegation of clinical negligence—
+>
+> (*a*) shall not constitute an express or implied admission of fault or liability, and
+>
+> (*b*) shall not, despite any provision to the contrary in any contract of insurance and despite any other enactment, invalidate or otherwise affect any insurance coverage that is, or but for the apology would be, available in respect of the matter alleged.
+>
+> (2) Despite any other enactment, evidence of an apology referred to in *subsection (1)* is not admissible as evidence of fault or liability of any person in any proceedings in a clinical negligence action.
+
+## PART 3Courts — PART 3 — Courts
+
+### Chapter 1Funds of Suitors — Chapter 1 — Funds of Suitors
+
+#### 33. Definitions.
+
+**33.**—In this Chapter—
+
+F24["accounts" means—
+
+(*a*) the general cash account,
+
+(*b*) the dormant account of the funds of suitors of the High Court,
+
+(*c*) the ledger account, and
+
+(*d*) the special account for small balances;
+
+(*e*) the dormant account of the funds of suitors of the Circuit Court, and
+
+(*f*) the dormant funds of suitors of the District Court;]
+
+“Accountant” means the Accountant of the Courts of Justice as provided for in section 16 of the Court Officers Act 1926;
+
+“dormant account of the funds of suitors of the High Court” means the general ledger account for dormant balance maintained in accordance with Order 77 of the Rules of the Superior Courts, containing the balances of funds standing to the credit of ledger accounts carried over to the said ledger account by the Accountant together with the interest and dividends accruing thereon;
+
+F26["dormant account of the funds of suitors of the Circuit Court" means the general ledger account for dormant balance maintained in accordance with Order 18 of the Circuit Court Rules, containing the balances of funds standing to the credit of ledger accounts carried over to the said ledger account by the Accountant, together with the interest and dividends accruing thereon;
+
+"dormant funds of suitors of the District Court" means any funds for the time being lodged in, or under the control of, the District Court in civil proceedings, pursuant to any order of the District Court or statute or the District Court Rules for the time being in force, where no transaction has been effected on that fund for a period of not less than 15 years ending on the relevant date;]
+
+“financial institution” means the person with which the accounts are maintained, being—
+
+(*a*) a person in respect of whom a licence under section 9 of the Central Bank Act 1971 is in force, or
+
+(*b*) a building society within the meaning of the Building Societies Act 1989;
+
+F25[“fully indemnified” means, in relation to a person—
+
+(*a*) that, in the case of funds in the form of money, the person has been paid the amount standing to his or her credit on the date that the funds were paid into—
+
+(i) the dormant account of the funds of suitors of the High Court,
+
+(ii) the dormant account of the funds of suitors of the Circuit Court, or
+
+(iii) the dormant funds of suitors of the District Court,
+
+as the case may be, and any interest accruing from that date, and
+
+(*b*) that, in the case of funds other than in the form of money, the person has been paid the amount standing to his or her credit on the date of their realisation and any interest accruing thereon from that date;]
+
+“general cash account” means the general cash account of the funds of suitors held with the financial institution in the name of the Accountant;
+
+“ledger account” means an account opened in the name of the Accountant under—
+
+(*a*) an order of the High Court or Supreme Court, or
+
+(*b*) an Act of the Oireachtas,
+
+into which any funds of suitors have been paid;
+
+“small balances” means such moneys as, in accordance with rule 88 of Order 77 of the Rules of the Superior Courts, are carried over to the special account for small balances;
+
+“special account for small balances” means the special account for small balances maintained for the purposes of the said rule 88.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F24, F25: Substituted (31.07.2023) by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 52(a), (c), S.I. No. 389 of 2023, art. 3(i).
+>
+> F26: Inserted (31.07.2023) by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 52(b), S.I. No. 389 of 2023, art. 3(i).
+
+#### 34. Realisation of investment of dormant accounts of funds of suitors.
+
+**34.**—(1) The Chief Justice shall, as soon as may be after the commencement of this Chapter, order the Accountant to realise all of the investments of the dormant account of the funds of suitors of the High Court.
+
+(2) The Chief Justice shall, not later than 3 months after—
+
+(*a*) the expiration of 5 years from the making of an order under *subsection (1)*, and
+
+(*b*) the expiration of each subsequent period of 5 years from the date on which an order under this section is made,
+
+order the Accountant to realise all of the investments of the dormant account of the funds of suitors of the High Court.
+
+(3) The Accountant shall comply with an order of the Chief Justice under this section.
+
+(4) In this section “investments” means, in relation to the dormant account of the funds of suitors, assets other than cash.
+
+#### 34A. Realisation of investment of dormant account of funds of suitors of Circuit Court and dormant funds of suitors of District Court
+
+F27[**34A.**—(1) The Chief Justice shall, as soon as may be after the commencement of section 53 of the Courts and Civil Law (Miscellaneous Provisions) Act 2023, order the Accountant to realise all of the investments of—
+
+(*a*) the dormant account of the funds of suitors of the Circuit Court, and
+
+(*b*) the dormant funds of suitors of the District Court.
+
+(2) The Chief Justice shall, not later than 3 months after—
+
+(*a*) the expiration of 5 years from the making of an order under *subsection (1)*, and
+
+(*b*) the expiration of each subsequent period of 5 years from the date on which an order under this section is made,
+
+order the Accountant to realise all of the investments of—
+
+(i) the dormant account of the funds of suitors of the Circuit Court, and
+
+(ii) the dormant funds of suitors of the District Court.
+
+(3) The Accountant shall comply with an order of the Chief Justice under this section.
+
+(4) In this section, "investments" means, in relation to the dormant account of the funds of suitors, assets other than cash.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F27: Inserted (31.07.2023) by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 53, S.I. No. 389 of 2023, art. 3(i).
+>
+> **Editorial Notes:**
+>
+> E8: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 35. Disposal of part of funds of suitors.
+
+F28[**35.**—(1) The financial institution shall pay out of the general cash account to the Exchequer such sums as the Chief Justice, from time to time, directs, not exceeding 97. 5 per cent of the aggregate of the amounts in the form of money standing in—
+
+(*a*) the dormant account of the funds of suitors of the High Court,
+
+(*b*) the special account for small balances,
+
+(*c*) the dormant account of the funds of suitors of the Circuit Court, and
+
+(*d*) the dormant funds of suitors of the District Court, as may be required for the purposes of *subsection (2)*.
+
+(2) The sums paid to the Exchequer pursuant to a direction under *subsection (1)* may be applied from time to time, by the Minister, with the consent of the Minister for Public Expenditure, National Development Plan Delivery and Reform, for the purposes of defraying the costs of providing, managing and maintaining—
+
+(*a*) court buildings under section 5 (d) of the Courts Service Act 1998, and
+
+(*b*) information and communications technology facilities for courts, court offices and the Courts Service.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F28: Substituted (31.07.2023) by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 54, S.I. No. 389 of 2023, art. 3(i).
+>
+> **Editorial Notes:**
+>
+> E9: Previous affecting provision: functions transferred and references to “Department of Finance” and “Minister for Finance” in subs. (2) construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3(a), 5 and sch. 1 part 2, in effect as per art. 1(2); section substituted (31.07.2023) as per F-note above.
+
+#### 36. Deficiency in funds of suitors.
+
+**36.**— Where, by virtue of the compliance by the financial institution with a direction under *section 35*, the funds of suitors are not sufficient to enable suitors to be fully indemnified, the Minister for Finance shall, for the purpose of enabling them to be so indemnified F29[and on the request of the Minister for Public Expenditure and Reform], advance out of the Central Fund or the growing produce thereof such sum as he or she considers necessary.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F29: Inserted (6.07.2011) by *Ministers and Secretaries (Amendment) Act 2011* (10/2011), s. 93, S.I. No. 401 of 2011.
+
+#### 37. Publication of notices by Accountant.
+
+**37.**—(1) The Accountant shall, not later than 3 months after the compliance by the financial institution concerned with a direction under *section 35*—
+
+(*a*) first given after the passing of this Act, and
+
+(*b*) each subsequent such direction where the sums paid to the Exchequer pursuant thereto exceed €100,000,
+
+cause a notice of the payment of the sums to the Exchequer pursuant to the direction to be published in *Iris Oifigiúil*, the Law Society Gazette, two national daily newspapers and by such other means (if any) as he or she considers appropriate.
+
+(2) The accountant shall, upon compliance by a financial institution with a direction under *section 35*, make all reasonable efforts to serve a notice in writing of the payment of the sums to the Exchequer pursuant to such a direction on such persons as have an entitlement to any of the funds for the time being standing to the credit of the dormant account of the funds of suitors of the High Court.
+
+(3) The expenses incurred by the Accountant in complying with this section may where the Chief Justice so consents be paid out of funds standing for the time being in the dormant account of the funds of suitors of the High Court.
+
+#### 38. Register of funds of suitors.
+
+F30[**38.**—(1) The Accountant shall establish and maintain a register of funds of suitors (in this section referred to as the "register").
+
+(2) The register shall contain the following particulars in respect of all funds paid into the dormant accounts of the funds of suitors of the High Court, the dormant accounts of the funds of suitors of the Circuit Court and the dormant funds of suitors of the District Court respectively:
+
+(*a*) the court in which the proceedings were instituted;
+
+(*b*) the title of the proceedings to which the funds relate;
+
+(*c*) the names of the parties to those proceedings and the addresses at which they ordinarily reside;
+
+(*d*) the ledger account number;
+
+(*e*) the value of the investments realised in accordance with *section 34* or *section 34A* on the date of their realisation;
+
+(*f*) the date on which those funds were paid into the dormant accounts concerned;
+
+(*g*) if those funds were repaid to the ledger account, the date on which they were so repaid;
+
+(*h*) in relation to funds of suitors of the High Court, the account number of the special account for small balances;
+
+(*i*) in relation to funds of suitors of the High Court, the moneys paid over to the special account for small balances, and
+
+(*j*) such other matters as are provided for by rules of court or—
+
+(i) in relation to funds lodged in proceedings in the High Court, as the President of the High Court directs,
+
+(ii) in relation to funds lodged in proceedings in the Circuit Court, as the President of the Circuit Court directs, and
+
+(iii) in relation to funds lodged in proceedings in the District Court, as the President of the District Court directs.
+
+(3) Where funds have been registered under this Act prior to the commencement of section 55 of the Courts and Civil Law (Miscellaneous Provisions) Act 2023, that registration shall continue to have effect and such registration shall form part of the register maintained under *subsection (1)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F30: Substituted (31.07.2023) by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 55, S.I. No. 389 of 2023, art. 3(i).
+
+### Chapter 2Miscellaneous Provisions — Chapter 2 — Miscellaneous Provisions
+
+#### 39. Definitions.
+
+**39.**—In this Chapter—
+
+“Act of 1976” means the Family Home Protection Act 1976;
+
+“Act of 1981” means the Courts Act 1981;
+
+“Act of 1989” means the Judicial Separation and Family Law Reform Act 1989;
+
+“Act of 1991” means the Courts Act 1991;
+
+“Act of 1995” means the Family Law Act 1995;
+
+“Act of 1996” means F31[Family Law (Divorce) Act 1996;]
+
+F32["Act of 2010" means the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
+
+"broadcast" has the same meaning as it has in section 2 of the Broadcasting Act 2009;
+
+"publish" means publish, other than by way of broadcast, to the public or a portion of the public;
+
+"relevant enactment" means any of the following provisions:
+
+(*a*) section 2(1B) (inserted by section 20 of the Courts Act 1971) of the Legitimacy Act 1931;
+
+(*b*) section 45 of the Courts (Supplemental Provisions) Act 1961 (in so far as it relates to matrimonial causes or matters, or minor matters);
+
+(*c*) section 25 of the Family Law (Maintenance of Spouses and Children) Act 1976;
+
+(*d*) section 10 of the Act of 1976;
+
+(*e*) section 36 of the Status of Children Act 1987;
+
+(*f*) section 34 of the Act of 1989;
+
+(*g*) section 7 of the Maintenance Act 1994;
+
+F33[(*h*) section 33 (for the purposes of section 45(2) of the Domestic Violence Act 2018) or 38 of the Act of 1995;]
+
+(*i*) section 38 of the Act of 1996;
+
+F33[(*j*) section 23 of the Domestic Violence Act 2018;]
+
+(*k*) section 18, 30, 31, 49, 54 or 92 of the Adoption Act 2010;
+
+(*l*) section 145 or 199 of the Act of F34[2010;]]
+
+F35[(*m*) section 37 of the Criminal Justice (Miscellaneous Provisions) Act 2023.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F31: Substituted (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 4(a), S.I. No. 5 of 2014.
+>
+> F32: Inserted (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 4(b), S.I. No. 5 of 2014.
+>
+> F33: Substituted (1.01.2019) by *Domestic Violence Act 2018* (6/2018), s. 50(1), S.I. No. 532 of 2018, subject to transitional provisions in subss. (2) and (3).
+>
+> F34: Substituted (2.09.2024) by *Criminal Justice (Miscellaneous Provisions) Act 2023* (24/2023), s. 69(a), S.I. No. 378 of 2024.
+>
+> F35: Inserted (2.09.2024) by *Criminal Justice (Miscellaneous Provisions) Act 2023* (24/2023), s. 69(b), S.I. No. 378 of 2024.
+>
+> F36: Substituted by *Health (Assisted Human Reproduction) Act 2024* (18/2024), s. 231(a), not commenced as of date of revision.
+>
+> F37: Inserted by *Health (Assisted Human Reproduction) Act 2024* (18/2024), s. 231(b), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C15: Prospective affecting provision: definition of relevant enactment amended by *Health (Assisted Human Reproduction) Act 2024* (18/2024), s. 231(a), (b), not commenced as of date of revisision.
+>
+> F32[...
+>
+> (*l*) section 145 or 199 of the Act of F36[2010;]
+>
+> F37[(*m*) section 66 (1)(a), 103 (1)(a), 205 or 217 of the Health (Assisted Human Reproduction) Act 2024.]
+
+#### 40. Proceedings heard otherwise than in public.
+
+**40.**—(1) In this section “court” includes the Master of the High Court.
+
+(2) F38[...]
+
+(3) Nothing contained in a relevant enactment shall operate to prohibit—
+
+(*a*) the preparation by a barrister at law or a solicitor or a person falling within any other class of persons specified in regulations made by the Minister and publication of a report of proceedings to which the relevant enactment relates, or
+
+(*b*) the publication of the decision of the court in such proceedings,
+
+in accordance with rules of court, provided that the report or decision does not contain any information which would enable the parties to the proceedings or any child to which the proceedings relate to be identified and, accordingly, unless in the special circumstances of the matter the court, for reasons which shall be specified in the direction, otherwise directs, a person referred to in *paragraph (a)* may, for the purposes of preparing F39[such a report—
+
+(i) attend the proceedings, and
+
+(ii) have access to any relevant documents,
+
+subject to any directions the court may give in that behalf.]
+
+F40[(3A) (*a*) Subject to *paragraph (b)*, nothing contained in a relevant enactment shall operate to prohibit bona fide representatives of the Press from attending proceedings to which the relevant enactment relates.
+
+(*b*) Subject to *paragraphs (c)* and *(d)*, where, in proceedings under a relevant enactment, a court is satisfied that it is necessary to do so—
+
+(i) in order to preserve the anonymity of a party to the proceedings or any child to whom the proceedings relate,
+
+(ii) by reason of the nature or circumstances of the case, or
+
+(iii) as it is otherwise necessary in the interests of justice,
+
+the court may, on its own motion, or on application to it by a party to the proceedings or by a person on behalf of a child to whom the proceedings relate, by order—
+
+(I) exclude, or otherwise restrict the attendance of, bona fide representatives of the Press from the court during the hearing or particular parts of it, or
+
+(II) prohibit or restrict the publication or broadcasting of any evidence given or referred to during the proceedings or any part of such evidence,
+
+and any such order may, with regard to any restriction, contain such conditions as the court considers appropriate.
+
+(*c*) In determining whether or not to make an order under *paragraph (b)*, a court shall have regard to the desirability of promoting public confidence in the administration of justice and to any other matter that appears to it to be relevant and shall, in particular, have regard to the following:
+
+(i) the best interests of a child to whom the proceedings relate;
+
+(ii) the views, if any, of—
+
+(I) a party to the proceedings, and
+
+(II) a child to whom the proceedings relate who is, in the opinion of the court, capable of forming his or her own views;
+
+(iii) whether information given or likely to be given in evidence is sensitive personal information;
+
+(iv) the extent to which the attendance of bona fide representatives of the Press might inhibit or cause undue distress to a party to the proceedings or a child to whom the proceedings relate by reason of the emotional condition or any medical condition, physical impairment or intellectual disability of the party or the child concerned;
+
+(v) the need to protect a party to the proceedings or a child to whom the proceedings relate against coercion, intimidation or harassment;
+
+(vi) whether information given or likely to be given in evidence might be prejudicial to a criminal investigation or criminal proceedings;
+
+(vii) whether information given or likely to be given in evidence is commercially sensitive information; and
+
+(viii) whether information of the type referred to in *subparagraphs (iii), (vi)* and *(vii)* when taken together with other information would, if published or broadcast, be likely to lead members of the public to identify a party to the proceedings or a child to whom the proceedings relate.
+
+(*d*) In considering the views of a child referred to in *clause (II)* of *paragraph (c)(ii)*, a court shall take account of the age and level of maturity of the child concerned.
+
+(*e*) Where evidence in proceedings to which a relevant enactment relates concerns a matter referred to in subparagraph (vi) of paragraph (c), an application under paragraph (b) may be made by or on behalf of the Director of Public Prosecutions.
+
+(*f*) In this subsection—
+
+"commercially sensitive information" means—
+
+(i) financial, commercial, scientific, technical or other information the disclosure of which could reasonably be expected to result in a material financial loss or gain to the person to whom it relates, or could prejudice the competitive position of that person in the conduct of his or her business or otherwise in his or her occupation, or
+
+(ii) information the disclosure of which could prejudice the conduct or outcome of contractual or other negotiations of the person to whom it relates;
+
+"party to the proceedings" includes a witness in the proceedings;
+
+"sensitive personal information" means information about a person that would, in the ordinary course of events, be known only to the person or members of the family, or friends, of the person, and includes but is not limited to—
+
+(i) information relating to the medical, psychiatric or psychological history of the person,
+
+(ii) information relating to the tax affairs of the person,
+
+(iii) information relating to the sexual conduct or sexual orientation of the person.]
+
+(4) Nothing contained in a relevant enactment shall operate to prohibit a party to proceedings to which the enactment relates from supplying copies of, or extracts from, orders made in the proceedings to such persons and in accordance with such conditions (if any) as may be prescribed by order of the Minister.
+
+(5) Nothing contained in a relevant enactment shall operate to prohibit a party to proceedings to which the enactment relates from being accompanied, in such proceedings, in court by another person subject to the approval of the court and any directions it may give in that behalf.
+
+(6) Nothing contained in an enactment that prohibits proceedings to which the enactment relates from being heard in public shall operate to prohibit the production of a document prepared for the purposes or in contemplation of such proceedings or given in evidence in such proceedings, to—
+
+(*a*) a body or other person when it, or he or she, is performing functions under any enactment consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter, or
+
+(*b*) such body or other person as may be prescribed by order made by the Minister, when the body or person concerned is performing functions consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter as may be so prescribed.
+
+(7) Nothing contained in an enactment that prohibits proceedings to which the enactment relates from being heard in public shall operate to prohibit the giving of information or evidence given in such proceedings to—
+
+(*a*) a body or other person when it, or he or she, is performing functions under any enactment consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter, or
+
+(*b*) such body or other person as may be prescribed by order made by the Minister, when the body or person concerned is performing functions consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter as may be so prescribed.
+
+F41[(7A) The leave of a court shall not be required for—
+
+(*a*) the production of a document in accordance with *subsection (6)*, or
+
+(*b*) the giving of information or evidence in accordance with *subsection (7)*.]
+
+(8) A court hearing proceedings under a relevant enactment shall, on its own motion or on the application of one of the parties to the proceedings, have discretion to order disclosure of documents, information or evidence connected with or arising in the course of the proceedings to third parties if such disclosure is required to protect the legitimate interests of a party or other person affected by the proceedings.
+
+(9) A hearing, inquiry or investigation referred to in *subsection (6)* or *(7)* shall, in so far as it relates to a document referred to in *subsection (6)* or information or evidence referred to in *subsection (7)*, be conducted otherwise than in public and no such document, information or evidence shall be published.
+
+(10) This section shall apply to proceedings brought, and decisions of a court made, whether before or after the commencement of this section.
+
+F42[(11) In *subsection (3)*, "relevant documents", in relation to any proceedings referred to in that subsection—
+
+(*a*) subject to *paragraph (b)*, means—
+
+(i) the petition, summons or other originating document in the proceedings,
+
+(ii) pleadings and other documents (including the terms of settlement, if any) produced to or lodged with the court, or included in the book of pleadings, in the course of the proceedings, and
+
+(iii) any order made by the court in the proceedings,
+
+(*b*) does not include any document the contents of which are expressed to be without prejudice or in terms having a like effect.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F38: Repealed (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 2(2), S.I. No. 334 of 2014.
+>
+> F39: Substituted (1.08.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 31(a), S.I. No. 274 of 2008.
+>
+> F40: Inserted (11.01.2014)by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 5, S.I. No. 5 of 2014.
+>
+> F41: Inserted (31.07.2023) by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 56, S.I. No. 389 of 2023, art. 3(i).
+>
+> F42: Inserted (1.08.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 31(b), S.I. No. 274 of 2008.
+>
+> **Editorial Notes:**
+>
+> E10: Power pursuant to subs. (3) exercised (1.07.2005) by *Civil Liability and Courts Act 2004 (Section 40(3)) Regulations 2005* (S.I. No. 337 of 2005).
+>
+> E11: Power pursuant to subs. (4) exercised (1.07.2005) by *Civil Liability and Courts Act 2004 (Section 40(4)) Order 2005* (S.I. No. 338 of 2005).
+>
+> E12: Power pursuant to subss. (6) and (7) exercised (1.07.2005) by *Civil Liability and Courts Act 2004 (Matters Prescribed under Section 40) Order 2005* (S.I. No. 339 of 2005).
+>
+> E13: Power pursuant to subss. (6) and (7) exercised (31.03.2005) by *Civil Liability and Courts Act 2004 (Bodies Prescribed under Section 40) Order 2005* (S.I. No. 170 of 2005).
+
+#### 40A. Prohibition on publication or broadcast of certain matters
+
+F43[**40A.**—No person shall publish or broadcast or cause to be published or broadcast any information about a matter which would be likely to lead members of the public to identify the parties to proceedings to which a relevant enactment relates or any child to whom those proceedings relate.
+
+(2) If any matter is published or broadcast in contravention of *subsection (1)*, each of the following persons, namely—
+
+(*a*) in the case of publication in a newspaper or periodical, any proprietor, any editor and any publisher of the newspaper or periodical,
+
+(*b*) in the case of any other publication, the person who publishes it, and
+
+(*c*) in the case of a broadcast, any person who transmits or provides the programme in which the broadcast is made and any person having functions in relation to the programme corresponding to those of an editor of a newspaper,
+
+shall be guilty of an offence and shall be liable—
+
+(i) on summary conviction, to a class A fine or to imprisonment for a term not exceeding 12 months or both, or
+
+(ii) on conviction on indictment, to a fine not exceeding €50,000 or to imprisonment for a term not exceeding 3 years or both.
+
+(3) (*a*) Where an offence under this section is committed by a body corporate and it is proved that the offence was committed with the consent or connivance, or was attributable to any wilful neglect, of a person who was a director, manager, secretary or other officer of the body corporate, or a person purporting to act in that capacity, that person, as well as the body corporate, shall be guilty of an offence and may be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
+
+(*b*) Where the affairs of a body corporate are managed by its members, *paragraph (a)* applies in relation to the acts and defaults of a member in connection with his or her functions of management as if he or she were a director or manager of the body corporate.
+
+(4) Nothing in this section shall affect the law as to contempt of court.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F43: Inserted (11.01.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 6, S.I. No. 5 of 2014. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+#### 41. Interest on costs, charges or expenses of certain judgments, orders or decrees.
+
+**41.**—(1) Section 30 of the Act of 2002 is amended by the substitution of the following subsection for subsection (1):
+
+“(1) Subject to section 23 of the Act of 1981, interest on the amount of costs, charges or expenses awarded to a party in proceedings in a court, to which section 27 of the Debtors (Ireland) Act 1840 applies, pursuant to a judgment, order or decree of the court, shall—
+
+(*a*) not be payable until—
+
+(i) if the amount aforesaid is agreed by the parties to the proceedings, the date of such agreement, or
+
+(ii) in default of agreement—
+
+(I) the date on which a certificate of taxation (which expression includes an interim certificate of taxation) in respect of the amount aforesaid is issued by a taxing master of the High Court or by a county registrar exercising the powers of such a taxing master, as may be appropriate, or
+
+(II) if appropriate, in the case of proceedings in the Circuit Court, the date on which a county registrar measures the amount aforesaid in accordance with rules of court,
+
+and
+
+(*b*) be payable at the rate for the time being standing specified in section 26 of the Debtors (Ireland) Act 1840, from the appropriate date aforesaid until that amount is paid.”.
+
+(2) Subsections (3) and (4) of section 30 of the Act of 2002 are repealed.
+
+(3) The amendments to section 30 of the Act of 2002 effected by this section apply to—
+
+(*a*) actions brought on or after the commencement of this section, and
+
+(*b*) actions pending on the date of such commencement.
+
+#### 42. Certain officers to act as registrar of Central Criminal Court.
+
+**42.**—The Eighth Schedule to the Courts (Supplemental Provisions) Act 1961 is amended by the insertion, in paragraph 6, of the following subparagraph:
+
+“(1A) Each officer nominated under subparagraph (1) of this paragraph who stands directed to act as registrar to the High Court under that subparagraph shall (in addition to any other duties which may be assigned to him or her by the officer for the time being managing the Central Office) act as registrar to the Central Criminal Court as and when directed to so act by the officer for the time being managing the Central Office.”.
+
+#### 43. Amendment of section 27 of Court Officers Act 1926.
+
+**43.**—Section 27 of the Court Officers Act 1926 is amended by the substitution of the following subsections for subsections (1) and (2):
+
+“(1) In the event of the temporary absence or the temporary incapacity through illness of any Taxing-Master or in the event of the office of any Taxing-Master being vacant the Courts Service may appoint a deputy to execute the office of such Taxing-Master during such absence, incapacity or vacancy.
+
+(1A) In any of the following cases, namely—
+
+(*a*) the temporary absence or the temporary incapacity through illness of the Master of the High Court,
+
+(*b*) the office of the Master of the High Court being vacant, or
+
+(*c*) any other case in which the Courts Service considers it desirable that the following power be exercised,
+
+the Courts Service may appoint one or more than one deputy to execute the office of the Master of the High Court or, as the case may be, to execute such office concurrently with the Master of the High Court.
+
+(2) A deputy appointed under this section shall while his appointment continues have and exercise all the powers and authorities and shall perform and fulfil all the duties and functions of the officer whose deputy he is—
+
+(*a*) in a case falling within subsection (1) or subsection (1A)(*a*) or (*b*) of this section, in place of their being exercised, performed and fulfilled by that officer, and
+
+(*b*) in a case falling within paragraph (*c*) of subsection (1A), concurrently with their being exercised, performed and fulfilled by that officer.”.
+
+#### 44. Amendment of section 38 of Court Officers Act 1926.
+
+**44.**—Section 38 of the Court Officers Act 1926 is amended by the substitution of the following subsections for subsection (3):
+
+“(3) The county registrar of the county, county borough or other area (other than the county or county borough of Dublin) in which the Central Criminal Court is, for the time being, sitting shall perform the following functions, that is to say:
+
+(*a*) the function of acting as registrar to that court, and
+
+(*b*) the function of performing such powers and carrying out of such duties in relation to that court as are assigned to the registrar of the Central Criminal Court by rules of court,
+
+when requested to so do by the officer for the time being managing the Central Office of the High Court.
+
+(4) The functions performable by a county registrar pursuant to a request under subsection (3) shall be performed by a member of the staff of the Circuit Court Office in the county concerned to whom those functions have been delegated by that county registrar.”.
+
+#### 45. Amendment of Courts (Supplemental Provisions) Act 1961.
+
+**45.**—(1) Section 2 of the Courts (Supplemental Provisions) Act 1961 is amended by the insertion, in subsection (1), of the following definition:
+
+“ ‘market value’ means, in relation to land, the price that would have been obtained in respect of the unencumbranced fee simple were the land to have been sold on the open market, in the year immediately preceding the bringing of the proceedings concerned, in such manner and subject to such conditions as might reasonably be calculated to have resulted in the vendor obtaining the best price for the land.”.
+
+(2) The Third Schedule to the Courts (Supplemental Provisions) Act 1961 is amended, in column (3), by the substitution of—
+
+(*a*) “market value” for “rateable valuation” in each place that it occurs, and
+
+(*b*) “€3,000,000” for “£200” (inserted by section 2(1)(*d*) of the Act of 1981) in each place that it occurs.
+
+#### 46. Amendment of Registration of Title Act 1964.
+
+**46.**—Section 18 of the Registration of Title Act 1964 is amended by—
+
+(*a*) the substitution, in subsection (2) (amended by section 3 of the Act of 1991), of—
+
+(i) “market value” for “rateable valuation”, and
+
+(ii) “€3,000,000” for “£200”,
+
+and
+
+(*b*) the insertion of the following subsection:
+
+“(4) In this section ‘market value’ means, in relation to land, the price that would have been obtained in respect of the unencumbranced fee simple were the land to have been sold on the open market, in the year immediately preceding the bringing of the proceedings concerned, in such manner and subject to such conditions as might reasonably be calculated to have resulted in the vendor obtaining the best price for the land.”.
+
+#### 47. Amendment of Succession Act 1965.
+
+**47.**—Section 6 of the Succession Act 1965 is amended by—
+
+(*a*) the substitution, in subsection (3) (inserted by section 4 of the Act of 1981), of—
+
+(i) “market value” for “rateable valuation”, and
+
+(ii) “€3,000,000” for “£200”,
+
+and
+
+(*b*) the insertion of the following subsection:
+
+“(5) In this section ‘market value’ means, in relation to land, the price that would have been obtained in respect of the unencumbranced fee simple were the land to have been sold on the open market, in the year immediately preceding the bringing of the proceedings concerned, in such manner and subject to such conditions as might reasonably be calculated to have resulted in the vendor obtaining the best price for the land.”.
+
+#### 48. Amendment of Act of 1976.
+
+**48.**—Section 10 of the Act of 1976 is amended by—
+
+(*a*) the substitution, in subsection (4) (inserted by section 13 of the Act of 1981), of—
+
+(i) “market value” for “rateable valuation”, and
+
+(ii) “€3,000,000” for “£200”,
+
+and
+
+(*b*) (i) the repeal of paragraphs (*a*) and (*c*) of subsection (5), and
+
+(ii) the deletion, in paragraph (*b*) of subsection (5), of the words “or where such chattels are or immediately before such disposal or removal, were in a family home the rateable valuation of which does not exceed £20”,
+
+(*c*) the insertion of the following subsection:
+
+“(8) In this section ‘market value’ means, in relation to land, the price that would have been obtained in respect of the unencumbranced fee simple were the land to have been sold on the open market, in the year immediately preceding the bringing of the proceedings concerned, in such manner and subject to such conditions as might reasonably be calculated to have resulted in the vendor obtaining the best price for the land.”.
+
+#### 49. Amendment of section 1 of Courts (No. 3) Act 1986.
+
+**49.**—The Courts (No. 3) Act 1986 is amended by the substitution of the following section for section 1:
+
+“1.—(1) Proceedings in the District Court in respect of an offence may be commenced by the issuing, as a matter of administrative procedure, of a document (in this section referred to as a ‘summons’) to the prosecutor by the appropriate office.
+
+(2) The issue of a summons may, in addition to being effected by any method by which the issue of a summons could be effected immediately before the enactment of *section 49* of the Act of 2004, be effected by transmitting it by electronic means to the person who applied for it or a person acting on his or her behalf.
+
+(3) An application for the issue of a summons may be made to the appropriate office by or on behalf of the Attorney General, the Director of Public Prosecutions, a member of the Garda Síochána or any person authorised by or under an enactment to bring and prosecute proceedings for the offence concerned.
+
+(4) The making of an application referred to in subsection (3) of this section may, in addition to being effected by any method by which the making of an application for a summons could be effected immediately before the enactment of *section 49* of the Act of 2004, be effected by transmitting it to the appropriate office by electronic means.
+
+(5) Where an application for the issue of a summons is made to—
+
+(*a*) an office referred to in paragraph (*a*) of the definition of ‘appropriate office’ in this section, the summons may, instead of its being issued by that office, be issued by an office referred to in paragraph (*b*) of that definition, or
+
+(*b*) an office referred to in paragraph (*b*) of that definition, the summons may, instead of its being issued by that office, be issued by an office referred to in paragraph (*a*) of that definition.
+
+(6) A summons shall—
+
+(*a*) specify the name of the person who applied for the issue of the summons,
+
+(*b*) specify the application date as respects the summons,
+
+(*c*) state shortly and in ordinary language particulars of the alleged offence, the name of the person alleged to have committed the offence and the address (if known) at which he or she ordinarily resides,
+
+(*d*) notify that person that he or she will be accused of that offence at a sitting of the District Court specified by reference to its date and location and, insofar as is practicable, its time, and
+
+(*e*) specify the name of an appropriate District Court clerk.
+
+(7) For the avoidance of doubt, particulars of the penalty to which a person guilty of the offence concerned would be liable are not required to be stated in a summons.
+
+(8) Where the issue of a summons is effected in accordance with subsection (2) of this section, references to an original summons in any enactment relating to the service of summonses (whether the references employ the word ‘summons’ or the expression ‘original document’) shall be construed as references to a true copy of the summons.
+
+(9) In any proceedings—
+
+(*a*) a document purporting to be a summons shall be deemed to be a summons duly applied for and issued, and
+
+(*b*) the date specified in the summons as being the application date shall be deemed to be such date,
+
+unless the contrary is shown.
+
+(10) In any proceedings in which the issue of a summons was effected in accordance with subsection (2) of this section, a true copy of the summons shall, unless the contrary is shown, be evidence of the summons concerned.
+
+(11) A summons duly issued under this Act shall be deemed for all purposes to be a summons duly issued pursuant to the law in force immediately before the passing of this Act.
+
+(12) Any provision made by or under any enactment passed before the passing of this Act relating to the time for making a complaint in relation to an offence shall apply, with any necessary modifications, in relation to an application under subsection (3) of this section.
+
+(13) The procedures provided for in this section in relation to applications for, and the issue of, summonses are without prejudice to any other procedures in force immediately before the passing of this Act whereby proceedings in respect of an offence can be commenced and, accordingly, any of those other procedures may be adopted, where appropriate, as if this Act had not been passed.
+
+(14) In this section—
+
+‘Act of 2004’ means the *Civil Liability and Courts Act 2004*;
+
+‘application date’ means, in relation to a summons, the date on which the application for the issue of the summons was received by the appropriate office;
+
+‘appropriate District Court clerk’ means, in relation to a summons, a District Court clerk assigned to any district court area in the district court district in which a judge of the District Court has jurisdiction in relation to the offence to which the summons relates;
+
+‘appropriate office’ means, in relation to a summons—
+
+(*a*) the office of any District Court clerk assigned to any district court area in the district court district in which a judge of the District Court has jurisdiction in relation to the offence to which the summons relates, or
+
+(*b*) any office of the Courts Service designated by the Courts Service for the purpose of receiving applications referred to in subsection (3) of this section;
+
+‘prosecutor’ includes a person acting on behalf of the prosecutor;
+
+‘summons’ has the meaning assigned to it by subsection (1);
+
+‘true copy’ means, in relation to a summons the issue of which was effected in accordance with subsection (2), a document that purports to be a reproduction in writing of the summons certified by the prosecutor as being a true copy thereof.”.
+
+#### 50. Amendment of Act of 1989.
+
+**50.**—Section 31 of the Act of 1989 is amended by—
+
+(*a*) the substitution, in subsection (3), of—
+
+(i) “market value” for “rateable valuation”, and
+
+(ii) “€3,000,000” for “£200”,
+
+and
+
+(*b*) the insertion of the following subsection:
+
+“(6) In this section ‘market value’ means, in relation to land, the price that would have been obtained in respect of the unencumbranced fee simple were the land to have been sold on the open market, in the year immediately preceding the bringing of the proceedings concerned, in such manner and subject to such conditions as might reasonably be calculated to have resulted in the vendor obtaining the best price for the land.”.
+
+#### 51. Amendment of Act of 1995.
+
+**51.**—Section 38 of the Act of 1995 is amended by—
+
+(*a*) the substitution, in subsection (3), of—
+
+(i) “market value” for “rateable valuation”, and
+
+(ii) “€3,000,000” for “£200”,
+
+(*b*) the repeal of subsection (5), and
+
+(*c*) the insertion of the following subsection:
+
+“(9) In this section ‘market value’ means, in relation to land, the price that would have been obtained in respect of the unencumbranced fee simple were the land to have been sold on the open market, in the year immediately preceding the bringing of the proceedings concerned, in such manner and subject to such conditions as might reasonably be calculated to have resulted in the vendor obtaining the best price for the land.”.
+
+#### 52. Amendment of Act of 1996.
+
+**52.**—Section 38 of the Act of 1996 is amended by—
+
+(*a*) the substitution in subsection (2) of—
+
+(i) “market value” for “rateable valuation”, and
+
+(ii) “€3,000,000” for “£200”,
+
+(*b*) the repeal of subsection (4), and
+
+(*c*) the insertion of the following subsection:
+
+“(8) In this section ‘market value’ means, in relation to land, the price that would have been obtained in respect of the unencumbranced fee simple were the land to have been sold on the open market, in the year immediately preceding the bringing of the proceedings concerned, in such manner and subject to such conditions as might reasonably be calculated to have resulted in the vendor obtaining the best price for the land.”.
+
+#### 53. Amendment of Planning and Development Act 2000.
+
+**53.**—(1) Section 90 of the Act of 2000 is amended, in subsection (5), by—
+
+(*a*) the substitution of—
+
+(i) “market value” for “rateable valuation” in each place that it occurs, and
+
+(ii) “€3,000,000” for “£200” in each place that it occurs,
+
+and
+
+(*b*) the insertion of the following paragraph:
+
+“(*d*) In this subsection ‘market value’ means, in relation to land, the price that would have been obtained in respect of the unencumbranced fee simple were the land to have been sold on the open market, in the year immediately preceding the bringing of the proceedings concerned, in such manner and subject to such conditions as might reasonably be calculated to have resulted in the vendor obtaining the best price for the land.”.
+
+(2) Section 160 of the Act of 2000 is amended, in subsection (5), by—
+
+(*a*) the substitution of—
+
+(i) “market value” for “rateable valuation” in each place that it occurs, and
+
+(ii) “€3,000,000” for “£200” in each place that it occurs,
+
+and
+
+(*b*) the insertion of the following paragraph:
+
+“(*e*) In this subsection ‘market value’ means, in relation to land, the price that would have been obtained in respect of the unencumbranced fee simple were the land to have been sold on the open market, in the year immediately preceding the bringing of the proceedings concerned, in such manner and subject to such conditions as might reasonably be calculated to have resulted in the vendor obtaining the best price for the land.”.
+
+(3) In this section “Act of 2000” means the Planning and Development Act 2000.
+
+#### 53A. Presumption as to market value
+
+F44[**53A.**—(1) Where—
+
+(*a*) in any enactment a monetary amount is specified for the market value of land for the purpose of—
+
+(i) conferring or limiting the jurisdiction of the Circuit Court in civil proceedings, or
+
+(ii) requiring or authorising the Circuit Court to transfer civil proceedings to the High Court,
+
+and
+
+(*b*) the plaintiff or applicant in any such proceedings alleges that the market value of the land concerned does not exceed such monetary amount,
+
+it shall, in the proceedings concerned, be presumed, until the contrary is proved, that the market value of such land does not exceed the foregoing amount.
+
+(2) This section shall not apply to civil proceedings initiated before the passing of the Courts Act 2016.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F44: Inserted (28.12.2016) by *Courts Act 2016* (22/2016), commenced on enactment.
+
+#### 54. Exclusion of certain witnesses, etc.
+
+**54.**—(1) The court in a personal injuries action may, upon the application of a party to the action, direct that a person (other than another party to the action or an expert witness) who it is intended will be called to give evidence at the trial of the action shall not attend that trial until he or she is called to give evidence.
+
+(2) Where a court gives a direction under *subsection (1)*, it may give all such other directions as it considers necessary or expedient to secure that a witness to whom the first-mentioned direction applies does not—
+
+(*a*) communicate with other witnesses who it is intended will be called to give evidence at the trial of the action concerned, or
+
+(*b*) receive information such as might influence him or her when giving evidence.
+
+(3) In this section “expert witness” means, in relation to a personal injuries action, a person who it is intended will be called as a witness to give expert evidence at the trial of that action.
+
+#### 55. Amendment of Act of 2002.
+
+**55.**—Section 46 of the Act of 2002 is amended by—
+
+(*a*) the substitution of the following subsections for subsections (3), (4) and (5):
+
+“(3) Subject to subsection (6), if judgment in the proceedings concerned is not delivered before the expiration of 2 months from the date on which it is reserved, the President of the Court shall, as soon as may be after—
+
+(*a*) the said expiration, and
+
+(*b*) the expiration of each subsequent period of 2 months (if judgment is not delivered first),
+
+list the proceedings or cause them to be listed before the judge who reserved judgment therein and shall give notice in writing to the parties to the proceedings of each date on which the proceedings are listed in accordance with this section.
+
+(3A) If, apart from this subsection, subsection (3) would operate to require the President of the Court to do anything referred to in that subsection during a period when the court is in vacation, then that subsection shall be construed as requiring that President to do that thing as soon as may be after the expiration of that period.
+
+(4) Where proceedings are listed before a judge in accordance with subsection (3), the judge shall specify the date on which he or she proposes to deliver judgment in the proceedings.
+
+(5) The date specified by a judge under subsection (4) shall, in relation to the proceedings concerned, be entered in the register and where the proceedings concerned have been listed more than once in accordance with subsection (1), there shall be entered in the register on each occasion on which they are so listed the date, for the time being, standing so specified.”,
+
+(*b*) the deletion of paragraph (*b*) of subsection (9),
+
+(*c*) the substitution of the following subsection for subsection (10):
+
+“(10) In this section references to a judge shall, in the case of a court constituted of more than one judge, be construed as references to the judge who, among the judges of which the court was constituted, ranks first in order of precedence in accordance with section 9 (inserted by section 9 of the Courts (No. 2) Act 1997) of the Courts of Justice Act 1924.”,
+
+(*d*) the insertion of the following definition in subsection (11):
+
+“ ‘President of the Court’ means—
+
+(*a*) in relation to the District Court, the President of the District Court,
+
+(*b*) in relation to the Circuit Court, the President of the Circuit Court,
+
+(*c*) in relation to the High Court, the President of the High Court,
+
+(*d*) in relation to the Supreme Court, the Chief Justice;”.
+
+#### 56. Increase in number of judges of High Court, Circuit Court and District Court.
+
+**56.**—The Courts and Court Officers Act 1995 is amended by—
+
+(*a*) the substitution of the following section for section 9 (inserted by section 2 of the Courts and Court Officers (Amendment) Act 2003):
+
+“9.—The number of ordinary judges of the High Court shall not be more than 31.”,
+
+(*b*) the substitution of the following section for section 10 (inserted by section 26 of the Act of 2002):
+
+“10.—The number of ordinary judges of the Circuit Court shall not be more than 33.”,
+
+and
+
+(*c*) the substitution of the following subsection for subsection (1) (inserted by section 27(1) of the Act of 2002) of section 11:
+
+“(1) The number of judges of the District Court in addition to the President of the District Court shall not be more than 54.”.

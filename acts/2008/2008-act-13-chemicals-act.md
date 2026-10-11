@@ -1,0 +1,1485 @@
+---
+title: "Chemicals Act 2008"
+identifier: "eli/2008/act/13"
+type: act
+jurisdiction: ie
+language: en
+number: 13
+year: 2008
+date: 2008-07-09
+last_amended: 2024-12-17
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2008/act/13/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2008/act/13/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Chemicals Act 2008
+
+AN ACT TO REGULATE AND CONTROL THE MANUFACTURE, USE, PLACING ON THE MARKET, EXPORT, IMPORT, TRANSPORT, TESTING, STORAGE, CLASSIFICATION, LABELLING AND PACKAGING OF CHEMICALS; TO MAKE PROVISION IN RELATION TO MAJOR ACCIDENT HAZARDS, AND THE PREVENTION OF ACCIDENTS, INVOLVING CHEMICALS; FOR THOSE PURPOSES TO GIVE FURTHER EFFECT TO REGULATION (EC) NO. 304/2003 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL OF 28 JANUARY 2003 CONCERNING THE EXPORT AND IMPORT OF DANGEROUS CHEMICALS [^1], REGULATION (EC) NO. 648/2004 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL OF 31 MARCH 2004 ON DETERGENTS [^2] AND REGULATION (EC) NO. 1907/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL OF 18 DECEMBER 2006 CONCERNING THE REGISTRATION, EVALUATION, AUTHORISATION AND RESTRICTION OF CHEMICALS (REACH) AND ESTABLISHING A EUROPEAN CHEMICALS AGENCY [^3]; TO CONFER POWER ON THE MINISTER FOR ENTERPRISE, TRADE AND EMPLOYMENT TO MAKE REGULATIONS FOR THE PURPOSE OF GIVING EFFECT TO CERTAIN PROVISIONS OF THE TREATIES GOVERNING THE EUROPEAN COMMUNITIES AND CERTAIN ACTS OF THE INSTITUTIONS OF THOSE COMMUNITIES; AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH.
+
+[9*th July*, 2008]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Terms "the Rotterdam Regulation," "the Detergents Regulation," "the REACH Regulation" and "the CLP Regulation" construed (10.12.2010) by *Chemicals (Amendment) Act 2010* (32/2010), s. 11, S.I. No. 591 of 2010.
+>
+> **Construction of references in Principal Act.**
+>
+> **11**.—(1) A reference in the Principal Act to—
+>
+> (*a*) the Rotterdam Regulation,
+>
+> (*b*) the Detergents Regulation,
+>
+> (*c*) the REACH Regulation, or
+>
+> (*d*) the CLP Regulation,
+>
+> shall be construed as a reference to that Regulation as amended by a European act (other than a directive adopted by an institution of the European Union), whether the amendment is made before, on or after the passing of this Act.
+>
+> (2) In this section—
+>
+> “Act of 1972” means the European Communities Act 1972;
+>
+> “European act” means—
+>
+> (*a*) a provision of the treaties governing the European Union, or
+>
+> (*b*) an act adopted by an institution of the European Union, an institution of the European Communities or any other body competent under those treaties;
+>
+> “European Communities” has the same meaning as it has in the Act of 1972;
+>
+> “European Union” has the same meaning as it has in the Act of 1972;
+>
+> “treaties governing the European Union” has the same meaning as it has in the Act of 1972.
+
+## PART 1 Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title and commencement.
+
+**1**.— (1) This Act may be cited as the Chemicals Act 2008.
+
+(2) This Act shall come into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or different provisions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to section exercised (15.07.2008) by *Chemicals Act 2008 (Commencement) Order 2008* (S.I. No. 273 of 2008).
+>
+> 2\. The 15 day of July 2008 is appointed as the day on which the Chemicals Act 2008 (No. 13 of 2008) comes into operation.
+
+### 2. Interpretation.
+
+**2**.— (1) In this Act—
+
+“Act of 1972” means the European Communities Act 1972;
+
+“Authority” means the Health and Safety Authority;
+
+F1[“chemical” includes—
+
+F2[(*a*) a chemical, substance, mixture or article within the meaning of the Rotterdam Regulation,]
+
+(*b*) a detergent within the meaning of the Detergents Regulation,
+
+(*c*) a substance, F3[mixture] or article within the meaning of the REACH Regulation,
+
+(*d*) a substance, mixture or article within the meaning of the CLP Regulation, and
+
+(*e*) a dangerous substance within the meaning of—
+
+(i) F4[Directive 2012/18/EU of the European Parliament and of the Council of 4 July 2012 on the control of major-accident hazards involving dangerous substances, amending and subsequently repealing Council Directive 96/82/EC (hereinafter referred to as the “Seveso III Directive”), and]
+
+(ii) Council Directive 67/548/EEC of 27 June 1967[^4] on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances;]
+
+F6[“CLP Regulation” means Regulation (EC) No. 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures [^5];]
+
+“code of practice” means a code of practice prepared and published, or approved of, by the Authority in accordance with *section 7*, and includes part of a code of practice;
+
+“contravention notice” has the meaning assigned to it by *section 15*;
+
+F7["Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016[^6] on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);]
+
+F8[“Detergents Regulation” means Regulation (EC) No. 648/2004 of the European Parliament and of the Council of 31 March 2004 on detergents[^7];]
+
+“European Communities” has the same meaning as it has in the Act of 1972;
+
+F9[“European Regulations” means—
+
+(*a*) the Rotterdam Regulation,
+
+(*b*) the Detergents Regulation,
+
+(*c*) the REACH Regulation, and
+
+(*d*) the CLP Regulation;]
+
+“external authority” has the meaning assigned to it by *section 9*;
+
+“improvement plan” means a plan required to be submitted under *section 14*;
+
+“information notice” has the meaning assigned to it by *section 27*;
+
+“inspector” means a person appointed under *section 11* by a national authority;
+
+“Member State” means a state that is a member of the European Communities and includes states that are parties to the agreement on the European Economic Area signed at Oporto on 2 May 1992, as adjusted by the protocol done at Brussels on 17 March 1993;
+
+“Minister” means the Minister for Enterprise, Trade and Employment;
+
+“mutual cooperation arrangements” means arrangements under *section 9*;
+
+F5[“national authority” means—
+
+(*a*) a designated national authority in the State under *section 8(1)*,
+
+(*b*) a competent authority in the State under *section 8(2)*, *8(3)* or *8(3A)*,
+
+(*c*) a person prescribed in accordance with *section 5(3)*, or,
+
+(*d*) the Authority as the Central Competent Authority within the meaning of *section 8(3B)*;]
+
+“place” means any structure, premises, land or other location or part of such place, and includes any container, railway wagon, vessel, aircraft, motor or other vehicle;
+
+“prescribed” means prescribed by regulations made by the Minister under this Act;
+
+“prohibition notice” has the meaning assigned by *section 16*;
+
+F10[“REACH Regulation” means Regulation (EC) No. 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) and establishing a European Chemicals Agency[^8];]
+
+F11["record" includes any memorandum, book, report, statement, register, plan, chart, map, drawing, specification, diagram, pictorial or graphic work or other document, any photograph, film or recording (whether of sound or images or both), any form in which data (including data that constitute personal data within the meaning of the Data Protection Regulation or Part 5 of the Data Protection Act 2018) are held, any form (including machine-readable form) or thing in which information is held or stored manually, mechanically or electronically, and anything that is a part or copy, in any form, of any of, or any combination of, the foregoing;]
+
+“relevant chemicals statutory provisions” means—
+
+(*a*) the European Regulations,
+
+(*b*) this Act, or
+
+(*c*) regulations made under this Act;
+
+“relevant Minister” means, in relation to a national authority that is not a Minister of the Government, the Minister of the Government (other than the Minister) in whom functions are vested in relation to that national authority;
+
+F2["Rotterdam Regulation" means Regulation (EU) No. 649/2012 of the European Parliament and of the Council of 4 July 2012 concerning the export and import of hazardous chemicals[^9];]
+
+“special report” means a report made under *section 18*.
+
+(2) Subject to *subsection (1)*, a word or expression that is used in this Act and is also used in a European Regulation has the same meaning in this Act that it has in that European Regulation.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Substituted (10.12.2010) by *Chemicals (Amendment) Act 2010* (32/2010), s. 2(a), S.I. No. 591 of 2010.
+>
+> F2: Substituted (10.05.2019) by *Chemicals Act 2008 (Rotterdam Regulation) Regulations 2019* (S.I. No. 213 of 2019), reg. 3.
+>
+> F3: Substituted (17.12.2024) by *Chemicals Act 2008 (CLP Regulation) Regulations 2024* (S.I. No. 723 of 2024), reg. 2.
+>
+> F4, F5: Substituted (1.06.2015) by *Chemicals Act (Control of Major Accident Hazards Involving Dangerous Substances) Regulations 2015* (S.I. No. 209 of 2015), reg. 6(1)(a), (b), in effect as per reg. 5.
+>
+> F6: Inserted (10.12.2010) by *Chemicals (Amendment) Act 2010* (32/2010), s. 2(b), S.I. No. 591 of 2010.
+>
+> F7: Inserted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 209(b), S.I. No. 174 of 2018.
+>
+> F8: Substituted (10.12.2010) by *Chemicals (Amendment) Act 2010* (32/2010), s. 2(c), S.I. No. 591 of 2010.
+>
+> F9: Substituted (10.12.2010) by *Chemicals (Amendment) Act 2010* (32/2010), s. 2(d), S.I. No. 591 of 2010.
+>
+> F10: Substituted (10.12.2010) by *Chemicals (Amendment) Act 2010* (32/2010), s. 2(f), S.I. No. 591 of 2010.
+>
+> F11: Substituted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 209(a), S.I. No. 174 of 2018.
+>
+> **Editorial Notes:**
+>
+> E2: Previous affecting provision: definition of national authority, para. (b) substituted (10.12.2010) by *Chemicals (Amendment) Act 2010* (32/2010), s. 2(e), S.I. No. 591 of 2010; definition substituted as per F-note above.
+>
+> E3: Previous affecting provision: definition of Rotterdam Regulation substituted (10.12.2010) by *Chemicals (Amendment) Act 2010* (32/2010), s. 2(g), S.I. No. 591 of 2010; substituted as per F-note above.
+
+### 3. Service of notices.
+
+**3**.— (1) A notice or other document required or authorised to be served on, sent or given to a person under the relevant chemicals statutory provisions shall, subject to *subsection (2)*, be addressed to the person concerned by name, and may be served on, sent or given to the person in one of the following ways:
+
+(*a*) by delivering it to the person;
+
+(*b*) by leaving it at the address at which the person ordinarily resides or, in a case where an address for service has been furnished, at that address;
+
+(*c*) by sending it by post in a prepaid registered letter to the address at which the person ordinarily resides or, in a case in which an address for service has been furnished, to that address;
+
+(*d*) where the address at which the person ordinarily resides cannot be ascertained by reasonable inquiry and the notice or other document relates to any place of business, by delivering it to a person over the age of 16 years resident or employed at the place of business or by affixing it in a conspicuous position at or near the place of business;
+
+(*e*) if the person concerned has agreed to service of notices by means of an electronic communication (within the meaning assigned by section 2 of the Electronic Commerce Act 2000), service by such means, provided that there is a facility for confirming receipt of electronic communication and that such receipt has been confirmed;
+
+(*f*) where there is a facility for receiving a facsimile of the notice by electronic means at the address at which the person ordinarily resides or carries on business, by transmitting a facsimile of the notice by such means to that address, or
+
+(*g*) by any other means that may be prescribed.
+
+(2) Where a notice or other document required or authorised under the relevant chemicals statutory provisions is to be served on, sent or given to a person who is the owner or occupier of a place of business and the name of the person cannot be ascertained by reasonable inquiry, it may be addressed to the person by using the words, “the owner” or, as the case may require, “the occupier”.
+
+(3) For the purposes of this section, a company within the meaning of the Companies Acts shall be deemed to be ordinarily resident at its registered office, and every other body corporate and every unincorporated body shall be deemed to be ordinarily resident at its principal office or place of business.
+
+### 4. Expenses.
+
+**4**.— The expenses incurred by the Minister or any other Minister of the Government in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## PART 2 Regulations and Codes of Practice — PART 2 — Regulations and Codes of Practice
+
+### 5. Regulations.
+
+**5**.— (1) The Minister may by regulations provide for any matter referred to in this Act as prescribed or to be prescribed.
+
+(2) The Minister may make regulations for the purpose of giving effect to a provision of the treaties governing the European Communities, or an act adopted by an institution of the European Communities, relating to—
+
+F12[(*a*) the manufacture, classification, labelling, packaging, export, import, placing on the market, testing, storage, transport, use or disposal of chemicals, or]
+
+(*b*) the control of major accident hazards relating to chemicals and the prevention of accidents involving chemicals or the minimisation of the effects of such hazards or accidents on persons and the environment.
+
+(3) Without prejudice to the generality of *subsection (2)*, regulations under that subsection may—
+
+F13[(*a*) contain such incidental, supplementary and consequential provisions as appear to the Minister to be necessary for the purposes of the regulations (including provisions repealing, amending or applying, with or without modification, other law, exclusive of this section, the Act of 1972 and the European Communities Act 2007),]
+
+(*b*) make provision in relation to—
+
+(i) F14[...]
+
+(ii) the establishment and maintenance of such registers, and keeping of such records, as may be specified in the regulations,
+
+(*c*) apply either generally or to such class or classes of chemicals, persons, places or activities as may be specified in the regulations, and
+
+(*d*) prescribe persons to perform the functions of a F15[national authority or competent authority] for the purposes of the regulations and the provision of the treaties governing the European Communities or act adopted by an institution of the European Communities to which the regulations give effect.
+
+(4) Where the Minister proposes to make regulations under this Act, upon a proposal from the Authority, he or she shall consult with the Authority before making the regulations.
+
+(5) The Minister shall, before making regulations under *subsection (2)(a)*, obtain the consent of—
+
+(*a*) the Minister for Agriculture, Fisheries and Food,
+
+(*b*) the Minister for the Environment, Heritage and Local Government, and
+
+(*c*) the Minister for Finance,
+
+to the making of the regulations.
+
+(6) The Minister shall, before making regulations under *subsection (2)(b)*, obtain the consent of—
+
+(*a*) the Minister for the Environment, Heritage and Local Government,
+
+(*b*) the Minister for Health and Children,
+
+(*c*) the Minister for Justice, Equality and Law Reform, and
+
+(*d*) the Minister for Transport,
+
+to the making of the regulations.
+
+(7) F16[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F12: Substituted (10.12.2010) by *Chemicals (Amendment) Act 2010* (32/2010), s. 3(a), S.I. No. 591 of 2010.
+>
+> F13: Substituted (10.12.2010) by *Chemicals (Amendment) Act 2010* (32/2010), s. 3(b)(i), S.I. No. 591 of 2010.
+>
+> F14: Deleted (10.12.2010) by *Chemicals (Amendment) Act 2010* (32/2010), s. 3(b)(ii), S.I. No. 591 of 2010.
+>
+> F15: Substituted (10.12.2010) by *Chemicals (Amendment) Act 2010* (32/2010), s. 3(b)(iii), S.I. No. 591 of 2010.
+>
+> F16: Deleted (10.12.2010) by *Chemicals (Amendment) Act 2010* (32/2010), s. 3(c), S.I. No. 591 of 2010.
+>
+> **Modifications (not altering text):**
+>
+> C2: Functions under subss. (5)(b) and (6)(a) transferred (22.07.2016) by *Climate Action and Environment (Transfer of Departmental Administration and Ministerial Functions) Order 2016* (S.I. No. 393 of 2016), art. 3(1)(a) and sch. 1, in effect as per art. 1(2), subject to transitional provisions in arts. 4-6.
+>
+> 3\. (1) The functions conferred on the Minister for the Environment, Community and Local Government by or under any of the provisions of—
+>
+> (*a*) the enactments specified in Schedule 1, and ...
+>
+> are transferred to the Minister for Communications, Energy and Natural Resources.
+>
+> (2) References to the Minister for the Environment, Community and Local Government contained in any Act or instrument made under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Communications, Energy and Natural Resources.
+>
+> ...
+>
+> Schedule 1
+>
+> *Article 3(1)(a)*
+>
+> Enactments, functions by or under which are transferred from the Minister for the Environment, Community and Local Government to the Minister for Communications, Energy and Natural Resources.
+>
+> ...
+>
+> Subsections (5)(*b*) and (6)(*a*) of section 5 of the Chemicals Act 2008 (No. 13 of 2008)
+>
+> ...
+>
+> C3: Functions under subs. (5) transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>...<br>No. 13 of 2008<br>...</td><td>...<br>Chemicals Act 2008<br>...</td><td>...<br>Sections 5(5), 10, 18(3)and 31(5)<br>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E4: Power pursuant to subs. (2)(a) exercised (10.05.2019) by *Chemicals Act 2008 (Rotterdam Regulation) Regulations 2019* (S.I. No. 213 of 2019).
+>
+> E5: Power pursuant to subs. (2)(b) exercised (1.06.2015) by *Chemicals Act (Control of Major Accident Hazards Involving Dangerous Substances) Regulations 2015* (S.I. No. 209 of 2015), in effect as per reg. 5.
+>
+> E6: Power pursuant to section exercised (31.05.2011) by *Chemicals (Asbestos Articles) Regulations 2011* (S.I. No. 248 of 2011).
+>
+> E7: Power pursuant to subs. (2)(a) exercised (2.03.2011) by *Chemicals Act (CLP Regulation) Regulations 2011* (S.I. No. 102 of 2011).
+
+### 6. Reviews of, and proposals regarding, relevant chemicals statutory provisions.
+
+**6**.— (1) The Authority shall—
+
+(*a*) undertake such reviews of the operation of the relevant chemicals statutory provisions as the Minister may direct, or as the Authority considers appropriate, and
+
+(*b*) submit to the Minister any proposals that it considers appropriate, or as the Minister may direct, relating to the relevant chemicals statutory provisions.
+
+(2) Before submitting proposals under *subsection (1)* to the Minister, the Authority shall consult any other person or body—
+
+(*a*) that appears to the Authority to be appropriate having regard to the proposals to be submitted, or
+
+(*b*) as directed by the Minister.
+
+### 7. Codes of practice.
+
+**7**.— (1) For the purpose of providing practical guidance as regards compliance with the relevant chemicals statutory provisions the Authority—
+
+(*a*) may, and if so requested by the Minister, shall prepare and publish codes of practice, and
+
+(*b*) may approve a code of practice made or published by any other body.
+
+(2) Before publishing or approving a code of practice under this section, the Authority—
+
+(*a*) shall obtain the consent of the Minister,
+
+(*b*) may publish in such manner as the Authority considers appropriate a draft of the code of practice and shall give persons, including any national authority concerned and the relevant Minister, 28 days from the date of publication of the draft code within which to make written representations to the Authority in relation to the draft code, or such further period, not exceeding 28 days, as the Authority in its discretion thinks fit, and
+
+(*c*) following consultation and, where relevant, having considered the representations, if any, made, shall submit the draft code to the Minister for his or her consent to its publication or approval under this section, with or without modification.
+
+(3) Where the Authority publishes or approves a code of practice, it shall publish a notice of such publication or approval in such manner as it considers appropriate and in *Iris Oifigiúil* and that notice shall—
+
+(*a*) identify the code of practice,
+
+(*b*) specify the matters relating to the protection of health and the environment or the relevant chemicals statutory provisions in respect of which the code of practice is published or approved of, and
+
+(*c*) specify the date on which the code of practice shall come into operation.
+
+(4) The Authority may, with the consent of the Minister and following consultation with—
+
+(*a*) any other person or body that the Authority considers appropriate, and
+
+(*b*) any national authority concerned and the relevant Minister,
+
+amend or revoke any code of practice prepared and published by it under this section, or withdraw its approval of any code of practice approved by it under this section.
+
+(5) The Authority shall, where the Minister directs—
+
+(*a*) amend or revoke any code of practice prepared and published by it under this section, or
+
+(*b*) withdraw its approval of any code of practice approved by it under this section.
+
+(6) Where the Authority amends or revokes, or withdraws its approval of, a code of practice under this section, it shall publish notice of the amendment, revocation or withdrawal in such manner as it considers appropriate and in *Iris Oifigiúil*.
+
+(7) The Authority shall publish on the internet and make available for public inspection without charge at its principal office during normal working hours—
+
+(*a*) a copy of each code of practice published or approved by it, and
+
+(*b*) where a code of practice has been amended, a copy of the code as so amended.
+
+(8) In this section “approved” means approved in writing by the Authority or conforming with a specification in writing by the Authority.
+
+## PART 3 National Authorities — PART 3 — National Authorities
+
+### 8. National authorities.
+
+**8**.— (1) The following are designated national authorities in the State for the purposes of the Rotterdam Regulation:
+
+F17[(*a*) the Authority, other than—
+
+(i) for the purposes of Article 18, and
+
+(ii) in respect of pesticides;]
+
+(*b*) the Revenue Commissioners, for the purposes only of F17[the said Article 18] of that Regulation;
+
+(*c*) the Minister for Agriculture, Fisheries and Food, in respect of pesticides (other than for the purposes of the said F17[Article 18]).
+
+(2) The following are competent authorities in the State for the purposes of the Detergents Regulation:
+
+(*a*) the Authority;
+
+(*b*) the Environmental Protection Agency, in respect of matters relating to biodegradability of surfactants in detergents;
+
+F18[(*c*) Beaumont Hospital Board, for the purposes only of Article 9(3) of that Regulation;]
+
+(*d*) the Irish National Accreditation Board, for the purposes only of Article 8(2) and (3) of that Regulation.
+
+(3) The following are competent authorities in the State for the purposes of the REACH Regulation:
+
+(*a*) the Authority;
+
+(*b*) subject to *paragraph (c)*, the Minister for Agriculture, Fisheries and Food, in respect of pesticides;
+
+(*c*) the Environmental Protection Agency, in respect of the prevention of environmental F19[pollution;]
+
+F20[(*d*) the Minister for Housing, Local Government and Heritage, for the purposes only of paragraphs 11 and 13 in entry 63 of Annex XVII to that Regulation.]
+
+F21[(3A) The following are competent authorities in the State for the purposes of the CLP Regulation:
+
+(*a*) the Authority;
+
+(*b*) the Minister for Agriculture, Fisheries and Food, in respect of pesticides;
+
+(*c*) Beaumont Hospital Board, for the purposes only of Article 45 of that Regulation.]
+
+F22[(3B) The Authority is the Central Competent Authority in the State for the purpose of the Seveso III Directive, and Article 6 thereof.]
+
+(4) A national authority (other than the Authority) shall, in accordance with such guidelines (if any) as may be given to that national authority by the Authority—
+
+(*a*) make adequate arrangements for the performance of its functions under the relevant chemicals statutory provisions,
+
+(*b*) keep appropriate records, and
+
+(*c*) furnish to the Authority—
+
+(i) a report within 2 months after the end of each year in accordance with *subsection (5)*, and
+
+(ii) such other reports and information relating to the performance of its functions as the Authority may, from time to time, require, or as may be prescribed.
+
+(5) The report referred to in *subsection (4)(c)(i)* shall be in a form agreed with the Authority and include—
+
+(*a*) information on the performance of the national authority of its functions, and
+
+(*b*) such other information that the national authority considers appropriate, or as the Authority may require.
+
+(6) In this section—
+
+“environmental pollution” has the meaning assigned to it by section 4 (inserted by section 6 of the Protection of the Environment Act 2003) of the Environmental Protection Agency Act 1992, subject to the modification that references in subsection (2) thereof to “substances, heat or noise” be construed as references to “chemicals”;
+
+“Irish National Accreditation Board” means the committee commonly known by that name established pursuant to section 10 (amended by section 46 of the Industrial Development (Enterprise Ireland) Act 1998) of the Industrial Development Act 1993;
+
+“pesticides” has the meaning assigned to it by F17[Article 3(5)] of the Rotterdam Regulation.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F17: Substituted (10.05.2019) by *Chemicals Act 2008 (Rotterdam Regulation) Regulations 2019* (S.I. No. 213 of 2019), reg. 4.
+>
+> F18: Substituted (10.12.2010) by *Chemicals (Amendment) Act 2010* (32/2010), s. 4(a), S.I. No. 591 of 2010.
+>
+> F19: Substituted (26.10.2023) by *Chemicals Act 2008 (Lead in Gunshot in Or Around Wetlands) Regulations 2023* (S.I. No. 517 of 2023), reg. 3(a).
+>
+> F20: Inserted (26.10.2023) by *Chemicals Act 2008 (Lead in Gunshot in Or Around Wetlands) Regulations 2023* (S.I. No. 517 of 2023), reg. 3(b).
+>
+> F21: Inserted (10.12.2010) by *Chemicals (Amendment) Act 2010* (32/2010), s. 4(b), S.I. No. 591 of 2010.
+>
+> F22: Inserted (1.06.2015) by *Chemicals Act (Control of Major Accident Hazards Involving Dangerous Substances) Regulations 2015* (S.I. No. 209 of 2015), reg. 6(2), in effect as per reg. 5.
+
+### 9. Cooperation arrangements.
+
+**9**.— (1) National authorities shall cooperate with each other in the performance of their functions under the relevant chemicals statutory provisions.
+
+(2) A national authority may, for the purposes of *subsection (1)*, enter into arrangements with other national authorities.
+
+(3) Without prejudice to the generality of *subsection (2)*, an arrangement under that subsection may make provision in relation to—
+
+(*a*) the carrying out of inspections, checks, examinations and investigations by the national authorities that are parties to the arrangement,
+
+(*b*) the exchange of information by such national authorities in relation to the activities referred to in *paragraph (a)* and such other activities of those authorities as are specified in the arrangement,
+
+(*c*) advising national authorities that are parties to the arrangement of suspected offences under any of the relevant chemicals statutory provisions, and
+
+(*d*) the carrying out jointly by 2 or more national authorities of activities referred to in *paragraph (a)*.
+
+(4) For the purposes of the European Regulations, a national authority (other than a Minister of the Government) may, with the consent of the Minister and any other relevant Minister, enter into an arrangement (in this section referred to as a “mutual cooperation arrangement”) with an external authority.
+
+(5) For the purposes of the European Regulations, a national authority who is a Minister of the Government may enter into an arrangement (in this section also referred to as a “mutual cooperation arrangement”) with an external authority.
+
+(6) A mutual cooperation arrangement may—
+
+(*a*) make provision in relation to any of the matters referred to in *paragraphs (b)* and *(c)* of *subsection (3)*, and accordingly those paragraphs shall apply in relation to a mutual cooperation arrangement subject to the modification that references to “national authority” shall be construed as including references to “external authority”, and
+
+(*b*) provide that officers of an external authority may accompany an inspector when he or she performs functions in furtherance of a mutual cooperation arrangement to which that external authority is a party.
+
+(7) A mutual cooperation arrangement shall not have effect unless it is approved by order made by the Minister.
+
+(8) In this section “external authority” means a person standing appointed to be—
+
+(*a*) a designated national authority in a Member State for the purposes of the Rotterdam Regulation, or
+
+F23[(*b*) a competent authority in a Member State for the purposes of the Detergents Regulation, the REACH Regulation or the CLP Regulation.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F23: Substituted (10.12.2010) by *Chemicals (Amendment) Act 2010* (32/2010), s. 5, S.I. No. 591 of 2010.
+
+### 10. Fees for services.
+
+**10**.— (1) Subject to the approval of the Minister and the Minister for Finance and in consultation with any other relevant Minister, a national authority may—
+
+(*a*) determine the amount of such fees as it considers appropriate in consideration of—
+
+(i) the performance by that national authority of its functions, and
+
+(ii) the provision by it of services (other than a service consisting of the provision of advice to the Minister, to another Minister of the Government or to another national authority),
+
+(*b*) exempt from the payment of fees in different circumstances or classes of circumstances or for different cases or classes of cases, or for the waiver, remission or refund (in whole or in part) of fees,
+
+(*c*) sell anything produced, published or developed by it, or in cooperation with, another national authority, and
+
+(*d*) enter into contracts upon such terms and conditions as it considers appropriate (including terms and conditions relating to payments to another national authority) for the further development and commercial exploitation of anything produced, published or developed by it,
+
+and shall record receipts from such fees, sales or payments as income.
+
+(2) A national authority shall make available on request and free of charge, details of fees determined under this section.
+
+(3) Fees, prices and payments referred to in this section in respect of functions performed, services provided, activities carried on or things sold, shall not, save with the prior approval of the Minister, in consultation with any other relevant Minister, be less than the cost of the performance of the function, the provision of the service, the carrying on of the activity or the production, publication or development of the thing, as the case may be.
+
+(4) A national authority may recover any amount due and owing to it under this section from the person by whom it is payable as a simple contract debt in any court of competent jurisdiction.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C4: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>...<br>No. 13 of 2008<br>...</td><td>...<br>Chemicals Act 2008<br>...</td><td>...<br>Sections 5(5), 10, 18(3)and 31(5)<br>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E8: Power granted to exempting authority, in accordance with the provisions of section, to levy a fee in respect of the performance of any of its functions under *Chemicals (Asbestos Articles) Regulations 2011* (S.I. No. 248 of 2011) (31.05.2011) by *Chemicals (Asbestos Articles) Regulations 2011* (S.I. No. 248 of 2011), reg. 13.
+
+## PART 4 Enforcement — PART 4 — Enforcement
+
+### 11. Appointment of inspectors.
+
+**11**.— (1) A national authority may appoint such and so many persons as it considers appropriate to be inspectors for the purposes of the enforcement of all or any of the relevant chemicals statutory provisions within its relevant area of responsibility in accordance with *section 8*.
+
+(2) An inspector appointed under this section shall be furnished with a certificate of his or her appointment as an inspector by that national authority.
+
+(3) When exercising a power conferred on him or her by this section, an inspector shall, if requested by a person affected, produce the certificate of his or her appointment or a copy of it to that person and a form of personal identification.
+
+(4) An appointment under this section shall cease when the national authority that made the appointment revokes the appointment.
+
+### 12. Powers of inspectors.
+
+**12**.— (1) An inspector shall, for the purposes of the relevant chemicals statutory provisions, have power to do any one or more of the following:
+
+(*a*) subject to *subsection (5)*, at any time enter, inspect, examine and search any place to which the inspector has reasonable grounds for believing that the relevant chemicals statutory provisions apply;
+
+(*b*) inquire into, search, examine and inspect—
+
+(i) any place referred to in *paragraph (a)*,
+
+(ii) any activity, installation, process, procedure or matter at that place, and
+
+(iii) any chemicals or records relating to it,
+
+to ascertain whether the relevant chemicals statutory provisions have been or are being complied with and, for that purpose, take with him or her and use any equipment or materials he or she considers necessary;
+
+(*c*) require that that place and anything at it be left undisturbed for so long as is reasonably necessary for the purpose of any search, examination, investigation, inspection or inquiry under the relevant chemicals statutory provisions;
+
+(*d*) require the person in charge to produce to the inspector—
+
+(i) any chemical to which the relevant chemicals statutory provisions apply which is in the possession or under the control of such person, and
+
+(ii) any records and, in the case of such information in a non-legible form, to reproduce it in a legible form and to give to the inspector such information as the inspector may reasonably require in relation to any entries in those records;
+
+(*e*) inspect and take copies of or extracts from any such records or any electronic information system at that place, including in the case of information in a non-legible form, copies of or extracts from such information in a permanent legible form or require that such copies be provided;
+
+(*f*) require a person at that place by whom or on whose behalf a computer is or has been used to produce or store records or any person having control of, or otherwise concerned with the operation of the computer, to afford the inspector access thereto and all reasonable assistance as the inspector may require;
+
+(*g*) remove from that place and retain the records (including documents stored in a non-legible form) and copies taken and detain the records for such period as the inspector reasonably considers to be necessary for further examination or until the conclusion of any legal proceedings;
+
+(*h*) require that records at that place be maintained for such period as may be reasonable;
+
+(*i*) require the person in charge to give the inspector such information as the inspector may reasonably require for the purposes of any search, examination, investigation, inspection or inquiry under the relevant chemicals statutory provisions;
+
+(*j*) require the person in charge to give the inspector such assistance and facilities within the person’s power or control as are reasonably necessary to enable the inspector to exercise any of his or her powers under the relevant chemicals statutory provisions;
+
+(*k*) require by notice, at a time and place specified in the notice, any person (including the person in charge) to give the inspector any information that the inspector may reasonably require in relation to the place, any chemical, activity, installation or procedure at the place, and to produce to the inspector any records that are under that person’s power or control;
+
+(*l*) examine any person whom the inspector reasonably believes to be able to give to the inspector information relevant to any search, examination, investigation, inspection or inquiry under the relevant chemicals statutory provisions and require the person to answer such questions as the inspector may ask relative to the search, examination, investigation, inspection or inquiry and to sign a declaration of the truth of the answers;
+
+(*m*) require that any procedure be followed for the purposes of any search, examination, investigation, inspection or inquiry under the relevant chemicals statutory provisions;
+
+(*n*) take any measurements or photographs or make any tape, electrical or other recordings that the inspector considers necessary for the purposes of any search, examination, investigation, inspection or inquiry under the relevant chemicals statutory provisions;
+
+(*o*) take samples of air, soil, water or waste at or near that place;
+
+(*p*) where appropriate, install, use and maintain at that place monitoring instruments, systems and seals for the purposes of the relevant chemicals statutory provisions;
+
+(*q*) there, or at any other place, carry out, or have carried out, such testing, examination or analysis of any chemical found at that place, as he or she reasonably considers to be necessary, and for that purpose—
+
+(i) require the person in charge to supply the inspector without charge any chemical or samples thereof, or
+
+(ii) remove any chemical or samples thereof;
+
+(*r*) cause any chemical found at that place in respect of which there has been or there appears to the inspector to have been a contravention of the relevant chemicals statutory provisions, to be subjected to any testing, examination or analysis in accordance with *paragraph (q)* (but not so as to damage or destroy it unless this is necessary for the purposes of the relevant chemicals statutory provisions) and where an inspector proposes to exercise the power conferred by this subsection in the case of a chemical found at any place, he or she shall, if so requested by the person in charge, cause anything that is to be done by virtue of that power to be done in the presence of that person;
+
+(*s*) remove and retain for such period as is necessary any chemical found at that place for all or any of the following purposes:
+
+(i) to examine or arrange for the examination, testing or analysis of the chemical;
+
+(ii) to ensure that it is not tampered with before the examination of it under *subparagraph (i)* is completed;
+
+(iii) to ensure that it is available for use as evidence in any proceedings;
+
+(*t*) where necessary—
+
+(i) require the disposal of a chemical in respect of which there has been or there appears to the inspector to have been a contravention of the relevant chemicals statutory provisions at the expense of the person in charge, or remove that chemical and arrange for it to be disposed of at the expense of the person in charge, and
+
+(ii) require that such disposal shall be—
+
+(I) such as will prevent the chemical from being used or placed on the market, and
+
+(II) in compliance with requirements under the Waste Management Acts 1996 to 2003;
+
+(*u*) require the removal from the market of a chemical by the person who has placed that chemical on the market, where it appears to the inspector that, in relation to that chemical, the relevant chemicals statutory provisions have been contravened.
+
+(2) Where a chemical is found at a place, and an inquiry is made by an inspector in the course of a search, examination, investigation or inspection as to the identity of the person who supplied that chemical, the person in charge shall give the inspector the name and address of the supplier from whom the chemical was purchased or otherwise obtained.
+
+(3) Before exercising any of the powers conferred by *paragraphs (q)* to *(t)* of *subsection (1)*, an inspector shall, in so far as it is practicable, consult such persons as appear to him or her to be appropriate for the purpose of ascertaining what dangers, if any, there may be in doing what he or she proposes to do under those paragraphs.
+
+(4) Where under the powers conferred by *subsection (1)(s)*, an inspector removes and retains any chemical found at a place, he or she shall, in so far as is practicable, take a sample thereof and give it to the person in charge, marked by the inspector in a manner sufficient to identify it.
+
+(5) An inspector shall not enter a dwelling other than—
+
+(*a*) with the consent of the occupier, or
+
+(*b*) in accordance with a warrant of the District Court issued under *subsection (8)* authorising such entry.
+
+(6) A national authority may authorise any other person as it considers appropriate to accompany an inspector in the performance of his or her functions.
+
+(7) Where an inspector in the exercise of his or her powers under this section is prevented from entering any place, an application may be made to the District Court for a warrant under *subsection (8)* authorising such entry.
+
+(8) Without prejudice to the powers conferred on an inspector by or under any other provision of this section, if a judge of the District Court is satisfied by information on oath of an inspector that there are reasonable grounds for believing that—
+
+(*a*) there are any chemicals at any place or any records (including documents stored in a non-legible form) or information, relating to a place, that the inspector requires to inspect for the purposes of the relevant chemicals statutory provisions, held at any place, or
+
+(*b*) there is, or such an inspection is likely to disclose, evidence of a contravention of the relevant chemicals statutory provisions,
+
+the judge may issue a warrant authorising an inspector, accompanied by such other inspectors or such other competent persons as may be appropriate or members of the Garda Síochána as may be necessary, at any time or times, within one month from the date of issue of the warrant, on production of the warrant if requested, to enter the place, if necessary by the use of reasonable force, and perform the functions conferred on an inspector by or under the relevant chemicals statutory provisions.
+
+(9) Where an inspector has reasonable grounds for apprehending any serious obstruction in the performance of his or her functions or otherwise considers it necessary, he or she may be accompanied by a member of the Garda Síochána or any other person authorised by a national authority, when performing any functions conferred on him or her by or under the relevant chemicals statutory provisions.
+
+(10) A statement or admission made by a person pursuant to a requirement under *subsection (1)(i)*, *(k)* or *(l)* shall not be admissible in proceedings brought against that person for an offence (other than an offence under *section 29(9)*).
+
+(11) Where an inspector, upon reasonable grounds, believes that a person has committed an offence under the relevant chemicals statutory provisions he or she may require that person to provide him or her with his or her name and the address at which he or she ordinarily resides.
+
+(12) In this section “person in charge” means, in relation to a place—
+
+(*a*) the person under whose direction and control the activities at that place are being conducted, or
+
+(*b*) the person whom the inspector has reasonable grounds for believing is in control of that place.
+
+### 13. Immunity and indemnification.
+
+**13**.— (1) None of the following persons, that is to say, a national authority, an inspector, or a member or a member of staff of a national authority shall be liable in damages in respect of any act done or omitted to be done by it or him or her in the performance, or purported performance, of that person’s functions, unless the act or omission concerned was done in bad faith.
+
+(2) A national authority shall, subject to the provisions of any enactment or rule of law, indemnify an inspector appointed by that national authority, or a member or member of staff of that national authority, in respect of any act done or omitted to be done by him or her in the performance, or purported performance, of his or her functions as such inspector, member or member of staff, unless the act or omission concerned was done in bad faith.
+
+### 14. Directions for improvement plan.
+
+**14**.— (1) Where an inspector is of the opinion that there is occurring or likely to occur any activity that involves or is likely to involve a risk to human health or the environment, he or she may give a direction to a person whom the inspector considers to be in control of the activity to which a duty under the relevant chemicals statutory provisions applies requiring submission to him or her of F24[an improvement plan (in this section and in section 15 referred to as a ‘plan’)].
+
+(2) A direction given under *subsection (1)* shall—
+
+(*a*) identify the activity which is or is likely to be a risk,
+
+(*b*) require the submission to the inspector, not later than one month after the giving of the directions, of F25[a plan] specifying the remedial action proposed to be taken,
+
+(*c*) require the person in control of the activity to implement the plan, and
+
+(*d*) include any other requirements that the inspector considers necessary.
+
+F26[(3) An inspector shall, not later than one month after receiving a plan submitted under *subsection (2)* or a revised improvement plan (in this section and in *section 15* also referred to as a "plan") submitted pursuant to a direction under *subsection (4)*, confirm by notice to the person who submitted the plan whether or not the inspector is satisfied that the plan is adequate.]
+
+F27[(4) If an inspector is not satisfied that a plan is adequate he or she shall, not later than one month after receiving the plan, require, by direction in writing, the person who prepared the plan to—
+
+(*a*) revise the plan in such manner as is specified in the direction, and
+
+(*b*) resubmit the plan as so revised to the inspector not later than the date of the expiration of such period as is specified in the direction.
+
+(5) Where an inspector confirms by notice under *subsection (3)* that he or she is satisfied that a plan is adequate the person concerned shall implement the plan forthwith.
+
+(6) A person to whom a direction under this section applies shall comply with the direction.
+
+(7) A direction or notice under this section shall be signed and dated by the inspector.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F24: Substituted (10.12.2010) by *Chemicals (Amendment) Act 2010* (32/2010), s. 6(a), S.I. No. 591 of 2010.
+>
+> F25: Substituted (10.12.2010) by *Chemicals (Amendment) Act 2010* (32/2010), s. 6(b), S.I. No. 591 of 2010.
+>
+> F26: Substituted (10.12.2010) by *Chemicals (Amendment) Act 2010* (32/2010), s. 6(c), S.I. No. 591 of 2010.
+>
+> F27: Inserted (10.12.2010) by *Chemicals (Amendment) Act 2010* (32/2010), s. 6(d), S.I. No. 591 of 2010.
+
+### 15. Contravention notice.
+
+**15**.— (1) An inspector who is of the opinion that a person—
+
+(*a*) is contravening or has contravened any of the provisions of the relevant chemicals statutory provisions, or
+
+F28[(*b*) has failed to comply with a direction under *section 14*,]
+
+F29[(*c*) has submitted a plan in relation to which an inspector has confirmed by notice under *section 14(4)* that he or she is not satisfied that the plan is adequate, or
+
+(*d*) has failed to implement the plan,]
+
+may serve a notice (in this Act referred to as a “contravention notice”) on the person who has or may reasonably be presumed to have control of the activity concerned.
+
+(2) A contravention notice shall—
+
+(*a*) state that the inspector is of the opinion referred to in *subsection (1)*,
+
+(*b*) state the reason for that opinion,
+
+(*c*) identify the relevant chemicals statutory provision in respect of which that opinion is held,
+
+(*d*) direct the person to—
+
+(i) remedy the contravention or the matters occasioning that notice, or
+
+(ii) remove a chemical from the market, as provided for in *section 12(1)(u)*,
+
+by a date specified in the notice that shall not be earlier than the end of the period within which an appeal may be made under *subsection (6)*,
+
+(*e*) include information regarding the making of an appeal under *subsections (6)* and *(7)*,
+
+(*f*) include any other requirement that the inspector considers appropriate, and
+
+(*g*) be signed and dated by the inspector.
+
+(3) A contravention notice may include directions—
+
+(*a*) as to the measures to be taken to remedy any contravention or matter to which the notice relates, or to otherwise comply with the notice, and
+
+(*b*) to bring the notice to the attention of any person who may be affected by it, or to the public generally.
+
+(4) A person on whom a contravention notice has been served who is of the opinion that the contravention notice has been complied with shall confirm in writing to the inspector that the matters referred to in the notice have been so remedied.
+
+(5) Where a person on whom a contravention notice has been served confirms in writing to the inspector in accordance with *subsection (4)* that the matters referred to in the contravention notice have been remedied, the inspector shall, on being satisfied that the matters have been so remedied, within one month of receipt of such confirmation, give notice to the person concerned of compliance with the contravention notice.
+
+(6) A person aggrieved by a contravention notice may, within 14 days beginning on the day on which the notice is served on him or her, appeal against the notice to a judge of the District Court in the district court district in which the notice was served in and, in determining the appeal the judge may, if he or she is satisfied that it is reasonable to do so, confirm, vary or cancel the notice.
+
+(7) A person who appeals under *subsection (6)* shall at the same time notify the relevant national authority of the appeal and the grounds for the appeal and that national authority shall be entitled to appear, be heard and adduce evidence on the hearing of the appeal.
+
+(8) Where an appeal under *subsection (6)* is taken, and the contravention notice is not cancelled, the notice shall take effect on the later of—
+
+(*a*) the day next following the day on which the notice is confirmed on appeal or the appeal is withdrawn, or
+
+(*b*) the day specified in the notice.
+
+(9) Where there is no appeal under *subsection (6)*, the contravention notice shall take effect on the later of—
+
+(*a*) the end of the period for making an appeal, or
+
+(*b*) the day specified in the notice.
+
+(10) An inspector may—
+
+(*a*) withdraw a contravention notice at any time, or
+
+(*b*) where no appeal is made or pending under *subsection (6)*, extend the period specified under *subsection (2)(d)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F28: Substituted (10.12.2010) by *Chemicals (Amendment) Act 2010* (32/2010), s. 7(a), S.I. No. 591 of 2010.
+>
+> F29: Inserted (10.12.2010) by *Chemicals (Amendment) Act 2010* (32/2010), s. 7(b), S.I. No. 591 of 2010.
+
+### 16. Prohibition notice.
+
+**16**.—F30[(1) Where an inspector is of the opinion that at any place—
+
+(*a*) a person is or is likely to be in control of any activity relating to a chemical that involves or is likely to involve a serious risk to health or the environment, or
+
+(*b*) the measures taken by a person for the prevention and mitigation of major accidents are or are likely to be seriously deficient,
+
+the inspector may serve a notice (in this Act referred to as a "prohibition notice") on the person concerned.]
+
+(2) A prohibition notice shall—
+
+(*a*) state that the inspector is of the opinion referred to in *subsection (1)*,
+
+(*b*) state the reason for that opinion,
+
+(*c*) specify the activity in respect of which that opinion is held,
+
+(*d*) where in the opinion of the inspector the activity involves a contravention, or likely contravention of any of the relevant chemicals statutory provisions, specify the provision,
+
+(*e*) prohibit the carrying on of the activity concerned until the matters that give rise or are likely to give rise to the risk are remedied, and
+
+(*f*) be signed and dated by the inspector.
+
+(3) A prohibition notice may include directions—
+
+(*a*) as to the measures to be taken to remedy any contravention or matter to which the notice relates, or to otherwise comply with the notice, and
+
+(*b*) to bring the notice to the attention of any person who may be affected by it, or to the public generally.
+
+(4) A prohibition notice shall take effect—
+
+(*a*) when the notice is received by the person on whom it is served, or
+
+(*b*) where an appeal is brought against the prohibition notice, on the day immediately following—
+
+(i) the day on which the notice is confirmed on appeal or the appeal is withdrawn, or
+
+(ii) the day specified in the notice,
+
+whichever occurs later.
+
+(5) The bringing of an appeal against a prohibition notice shall not have the effect of suspending the operation of the notice but the appellant may apply to the court to have the operation of the notice suspended until the appeal is disposed of and, on such application, the court may, if it thinks proper to do so, direct that the operation of the notice be suspended until the appeal is disposed of.
+
+(6) A person on whom a prohibition notice is served may, within 7 days beginning on the day on which the notice is served on him or her, appeal against the notice to a judge of the District Court in the district court district in which the notice was served and in determining the appeal the judge may, if he or she is satisfied that it is reasonable to do so, confirm, vary or cancel the notice.
+
+(7) Where, on the hearing of an appeal under this section, a prohibition notice is confirmed, notwithstanding *subsection (4)*, the judge by whom the appeal is heard may, on the application of the appellant, suspend the operation of the prohibition notice for such period as in the circumstances of the case the judge considers appropriate.
+
+(8) A person who—
+
+(*a*) brings an appeal under *subsection (6)*, or
+
+(*b*) applies for the suspension of the operation of a prohibition notice under *subsection (7)*,
+
+shall at the same time notify the relevant national authority of the appeal or the application, and the grounds for the appeal or application.
+
+(9) A person on whom a prohibition notice has been served who is of the opinion that the matters referred to in the prohibition notice have been remedied by the date specified in the notice shall confirm in writing to the inspector that those matters have been so remedied.
+
+(10) Where a person on whom a prohibition notice has been served confirms in writing to the inspector in accordance with *subsection (9)* that the matters referred to in the prohibition notice have been remedied, the inspector shall, on being satisfied that the matters have been so remedied, within one month of receipt of such confirmation, give notice to the person concerned of such compliance with the prohibition notice.
+
+(11) An inspector may at any time withdraw a prohibition notice if—
+
+(*a*) the inspector is satisfied that the activity to which the notice relates no longer involves a serious risk to health or the environment, or
+
+(*b*) the inspector is satisfied that the notice was issued in error or is incorrect in some material respect.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F30: Substituted (10.12.2010) by *Chemicals (Amendment) Act 2010* (32/2010), s. 8, S.I. No. 591 of 2010.
+
+### 17. Contravention of prohibition notice — application to High Court.
+
+**17**.— (1) Where a person contravenes a prohibition notice an inspector may apply *ex parte* to the High Court for an order prohibiting the continued contravention of the notice.
+
+(2) The High Court may, upon an application under this section, order the person on whom the prohibition notice concerned was served to cease doing such acts as the High Court directs.
+
+### 18. Investigations and special reports.
+
+**18**.— (1) A national authority may at any time direct any of its staff or any other person to—
+
+(*a*) investigate the causes and circumstances surrounding any injury to health or damage to the environment or any other activity to which the relevant chemicals statutory provisions relate, and
+
+(*b*) submit a report (in this Act referred to as a “special report”) of the investigation to that national authority.
+
+(2) A person, who is not an inspector, carrying out an investigation under this section shall, for the purposes of the investigation, have all the powers of an inspector under this Act.
+
+(3) In the case of a person directed to carry out an investigation and make a special report (other than a member of the staff of the national authority concerned), that national authority may pay to the person such fees and expenses as the Minister or any relevant Minister may, with the approval of the Minister for Finance, determine.
+
+(4) The national authority may, to the extent that the Minister or any relevant Minister may determine, discharge the costs, other than those to which *subsection (3)* applies, if any, incurred in the preparation of a special report.
+
+(5) A copy of a special report shall be submitted as soon as practicable after the completion of an investigation to the Minister and to any relevant Minister.
+
+(6) The national authority may publish a special report, and, if the Minister, upon consultation with a relevant Minister, directs, it shall publish the special report.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C5: Functions under subs. (3) transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>...<br>No. 13 of 2008<br>...</td><td>...<br>Chemicals Act 2008<br>...</td><td>...<br>Sections 5(5), 10, 18(3)and 31(5)<br>...</td></tr></table>
+
+### 19. Application to High Court regarding activity involving serious risk.
+
+**19**.— (1) Where a national authority considers that any activity which involves or is likely to involve a contravention of the relevant chemicals statutory provisions and the risk therefrom to health or to the environment is so serious that that activity should be restricted or immediately prohibited until specified measures have been taken to reduce the risk to a reasonable level, the national authority may apply *ex parte* to the High Court for an order restricting or prohibiting that activity.
+
+(2) The High Court may, upon an application under *subsection (1)*, make such order as it considers appropriate.
+
+(3) An order under this section shall have effect notwithstanding the terms of any permission given under any other enactment for the activity to which the application under this section relates.
+
+(4) On an application by any person for the revocation or variation of an order under *subsection (1)*, the national authority shall be entitled to be heard.
+
+### 20. Prohibition and restriction on the movement of chemicals.
+
+**20**.— Chemicals that are—
+
+(*a*) prohibited from being exported or imported, or
+
+(*b*) subject to any restriction on importation or exportation,
+
+under the relevant chemicals statutory provisions shall be deemed to be so prohibited or restricted for the purposes of the Customs Consolidation Act 1876, the Customs Act 1956 and the Customs and Excise (Miscellaneous Provisions) Act 1988.
+
+### 21. Evidence in proceedings.
+
+**21**.— (1) In proceedings for an offence under this Act, any document purporting to have been prepared or kept—
+
+(*a*) pursuant to a requirement in the European Regulations, or
+
+(*b*) in the ordinary course of business by a person who had, or may reasonably be considered to have had, personal knowledge of the matters specified in the document,
+
+shall be admissible as evidence of the matters specified in the document.
+
+(2) In proceedings for an offence under this Act, a document purporting to be a reproduction in legible form of a document stored in non-legible form to which *subsection (1)* applies shall be admissible as evidence of the matters specified therein, if the court before which the proceedings have been brought is satisfied that it was reproduced in the course of the normal operation of the reproduction system concerned.
+
+(3) This section shall not apply to—
+
+(*a*) a document containing information that is privileged from disclosure in proceedings for an offence,
+
+(*b*) a document prepared by a person who would not be compellable to give evidence at the instance of the party seeking to have the document admitted as evidence of the matters specified in the document,
+
+(*c*) a document (other than a technical document) prepared for the purposes, or in contemplation, of—
+
+(i) the investigation of any offence,
+
+(ii) an investigation or inquiry carried out pursuant to or under any enactment,
+
+(iii) any proceedings whether civil or criminal, or
+
+(iv) proceedings of a disciplinary nature,
+
+or
+
+(*d*) a document (other than a technical document) prepared after the alleged commission of the offence concerned.
+
+(4) Nothing in this section shall operate to render inadmissible in proceedings under this Act any document as evidence of any matter specified therein, that is so admissible by virtue of any rule of law or enactment other than this Act.
+
+(5) In this section—
+
+“business” includes any trade, profession or other occupation carried on—
+
+(*a*) for reward or otherwise, and
+
+(*b*) either in the State or outside the State;
+
+“technical document” means—
+
+(*a*) a map, plan, drawing or photograph (including any explanatory material in or accompanying the document concerned),
+
+(*b*) a record of a direction given by a member of the Garda Síochána pursuant to any enactment,
+
+(*c*) a record of the receipt, handling, transmission, examination or analysis of any thing by any person acting on behalf of any party to the proceedings for the offence concerned, or
+
+(*d*) a record by a registered medical practitioner of an examination of a living or dead person.
+
+### 22. Powers of officer of customs and excise to detain chemicals.
+
+**22**.— For the purpose of the performance by a national authority of any functions conferred on it under any of the relevant chemicals statutory provisions, an officer of customs and excise, following a request in that behalf by that national authority, may detain any chemical being exported or imported for so long as is reasonably necessary for an inspector to examine it for the purposes of the relevant chemicals statutory provisions, which period shall not in any case exceed 72 hours from the time when the chemical concerned is detained.
+
+## PART 5 Information — PART 5 — Information
+
+### 23. Dissemination of information in the public interest.
+
+**23**.— A national authority may, in the interest of the protection of health or the environment, and in consultation, where appropriate, with other national authorities take such measures as it considers appropriate to bring to the attention of the public matters giving rise to any contravention notice or prohibition notice served under this Act.
+
+### 24. Publication of names of certain persons.
+
+**24**.— (1) The Authority shall, each year, compile lists of names and addresses of the following persons and a description of the trade, business or other activity carried on by them:
+
+(*a*) persons convicted of an offence under the relevant chemicals statutory provisions;
+
+(*b*) persons on whom a prohibition notice is served under *section 16*;
+
+(*c*) persons in respect of whom an order has been made under *section 17* or *19*.
+
+(2) The Authority shall, each year, cause any list referred to in *subsection (1)(a)* and *(c)* to be published in such manner as it considers appropriate.
+
+(3) The Authority may, each year, cause any list referred to in *subsection (1)(b)* to be published in such manner as it considers appropriate.
+
+(4) Any list referred to in *subsection (1)* shall specify, in respect of each person named in the list, such particulars as the Authority thinks fit of—
+
+(*a*) the matters occasioning the conviction, prohibition notice or order, as the case may be, imposed on the person, and
+
+(*b*) any fine or penalty imposed upon conviction of an offence.
+
+### 25. Protection for persons reporting breaches of Act.
+
+**25**.—F31[(1)] Where a person communicates his or her opinion, whether in writing or otherwise, to a national authority that—
+
+(*a*) an offence under this Act has been or is being committed, or
+
+(*b*) any provision of the relevant chemicals statutory provisions has not been or is not being complied with,
+
+then, no one shall have a cause of action against that person in respect of that communication, unless he or she acted in bad faith.
+
+F32[(2) *Subsection (1)* does not apply to a communication that is a protected disclosure within the meaning of the Protected Disclosures Act 2014.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F31: Section renumbered as subs. (1) (15.07.2014) by *Protected Disclosures Act 2014* (14/2014), s. 24(1) and sch. 4 part 1 item 9, S.I. No. 327 of 2014.
+>
+> F32: Inserted (15.07.2014) by *Protected Disclosures Act 2014* (14/2014), s. 24(1) and sch. 4 part 1 item 9, S.I. No. 327 of 2014.
+
+### 26. Protection of employees from penalisation for reporting breaches of Act.
+
+**26**.— (1) An employer shall not penalise an employee for having formed an opinion of the kind referred to in *section 25* and communicated it, whether in writing or otherwise, to a national authority if the employee has acted reasonably and in good faith in forming that opinion and communicating it to the national authority concerned.
+
+F33[(1A) *Subsection (1)* does not apply to a communication that is a protected disclosure within the meaning of the Protected Disclosures Act 2014.]
+
+(2) In proceedings F34[under Part 4 of the Workplace Relations Act 2015] in relation to a complaint that *subsection (1)* has been contravened, it shall be presumed, until the contrary is proved, that the employee concerned acted reasonably and in good faith in forming the opinion and making the communication concerned.
+
+(3) If a penalisation of an employee, in contravention of *subsection (1)*, constitutes a dismissal of the employee within the meaning of the Unfair Dismissals Acts 1977 to 2007, relief may not be granted to the employee in respect of that penalisation both under F34[Part 4 of the Workplace Relations Act 2015] and under those Acts.
+
+(4) F35[...]
+
+F34[(5) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a complaint of a contravention of *subsection (1)* shall do one or more of the following, namely—
+
+(*a*) declare that the complaint was or, as the case may be, was not well founded,
+
+(*b*) require the employer to comply with *subsection (1)* and, for that purpose, require the employer to take a specified course of action, or
+
+(*c*) require the employer to pay to the employee compensation of such amount (if any) as the adjudication officer considers just and equitable having regard to all the circumstances, but not exceeding 104 weeks’ remuneration in respect of the employee’s employment calculated in accordance with regulations under section 17 of the Unfair Dismissals Act 1977.]
+
+(6) F35[...]
+
+F36[(6A) A decision of the Labour Court under section 44 of the Workplace Relations Act 2015, on appeal from a decision of an adjudication officer referred to in *subsection (5)* of *section 26*, shall affirm, vary or set aside the decision of the adjudication officer.]
+
+(7) In this section—
+
+“Act of 1994” means the Terms of Employment (Information) Act 1994;
+
+“penalisation” includes any act or omission by an employer or a person acting on behalf of an employer that affects, to his or her detriment, an employee with respect to any term or condition of his or her employment.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F33: Inserted (15.07.2014) by *Protected Disclosures Act 2014* (14/2014), s. 24(1) and sch. 4 part 1 item 9, S.I. No. 327 of 2014.
+>
+> F34: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 item 25(a)-(c), S.I. No. 410 of 2015, subject to transitional provision in subs. (3).
+>
+> F35: Repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 par 1 ref. 24, S.I. No. 410 of 2015, subject to transitional provision in subs. (2)
+>
+> F36: Inserted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 item 25(d), S.I. No. 410 of 2015, subject to transitional provision in subs. (3).
+>
+> **Editorial Notes:**
+>
+> E9: Redress and appeal procedures in respect of subs. (1) provided (1.10.2015) by *Workplace Relations Act 2015* (16/2015), ss. 41, 44, sch. 5 part 1 item 19 and sch. 6 part 1 item 25, S.I. No. 410 of 2015.
+>
+> E10: Subs. (1) included in definitions of “employment enactment” and “relevant enactment” (1.08.2015) by *Workplace Relations Act 2015* (16/2015), s. 2 and sch. 1 part 2 item 10, S.I. No. 338 of 2015, with the following effects:
+>
+> • Authorised officers or inspectors under employment enactments deemed to be appointed under *Workplace Relations Act 2015* (16/2015), s. 26(2) and subject to termination under s. 26(4).
+>
+> • Powers of inspectors for purposes of relevant enactments defined in *Workplace Relations Act 2015* (16/2015), s. 27.
+>
+> • Workplace Relations Commission, an inspector or an adjudication officer authorised to disclose employer’s registered number or employee’s PPSN to enable Labour Court to perform functions under relevant enactments by *Workplace Relations Act 2015* (16/2015) s. 31(5).
+>
+> • Power of Workplace Relations Commission and official body to disclose information to each other concerning the commission of offence under relevant enactment provided by *Workplace Relations Act 2015* (16/2015), s. 32.
+>
+> • Power of Workplace Relations Commission and contracting authority to disclose information to each other concerning the commission of offence under employment enactment/ relevant enactment provided by *Workplace Relations Act 2015* (16/2015), s. 33.
+>
+> • Powers of Minister to prosecute under relevant enactments transferred to Workplace Relations Commission and references construed by *Workplace Relations Act 2015* (16/2015), s. 37.
+>
+> • Functions of EAT to hear claims under employment enactments transferred to Workplace Relations Commission and references to EAT construed by *Workplace Relations Act 2015* (16/2015) s. 66(1), (2), not commenced as of date of revision.
+
+### 27. Power to require information.
+
+**27**.— (1) A national authority may, by notice (in this Act referred to as an “information notice”) served on a person, require the person to give to that national authority, within such period and in such form as may be specified in the notice, any information specified in the notice that the national authority may reasonably require for the proper performance by it of its functions under the relevant chemicals statutory provisions.
+
+(2) The period specified in the information notice may be extended at the discretion of that national authority on the application of the person on whom the notice is served.
+
+(3) A person on whom an information notice is served may, within 7 days beginning on the day on which the notice is served on him or her, appeal against the notice to a judge of the District Court in the district court district in which the notice was served and in determining the appeal the judge may, if he or she is satisfied that it is reasonable to do so, confirm, vary or cancel the notice.
+
+(4) Where, on the hearing of an appeal under *subsection (3)*, an information notice is confirmed or varied, the judge of the District Court by whom the appeal is heard may, on the application of the appellant, suspend the operation of the notice for such period as in the circumstances of the case the judge considers appropriate.
+
+(5) Subject to *subsection (6)*, a person on whom an information notice is served shall comply with the notice before the later of—
+
+(*a*) the end of the period specified in the notice, or
+
+(*b*) where the period referred to in *paragraph (a)* is extended under *subsection (2)*, the end of that extended period.
+
+(6) Where an appeal is brought under this section, and the information notice to which the appeal relates is confirmed or varied or the appeal is withdrawn, the person on whom the notice is served shall comply with the notice before—
+
+(*a*) the day immediately following the day on which the notice is confirmed or varied or the appeal is withdrawn,
+
+(*b*) the end of the period specified in the notice, or
+
+(*c*) where the operation of the notice has been suspended under *subsection (4)*, the end of the period of suspension,
+
+whichever occurs latest.
+
+### 28. Prohibition on unauthorised disclosure of information.
+
+**28**.— (1) A person shall not, save as otherwise provided for by law, disclose information obtained by him or her while performing functions as—
+
+(*a*) a member or member of staff of a national authority,
+
+(*b*) an inspector,
+
+(*c*) a person (other than a member of staff of a national authority) appointed to carry out an investigation under *section 18*,
+
+(*d*) a consultant or adviser to a national authority or a person employed by him or her,
+
+unless he or she is duly authorised to so do by the national authority concerned.
+
+(2) *Subsection (1)* shall not prevent the disclosure of information where that disclosure is—
+
+(*a*) for the purpose of the discharge of functions under the relevant chemicals statutory provisions,
+
+(*b*) made with the consent of the person to whom the information applies, or
+
+(*c*) for the purposes of—
+
+(i) any legal proceedings (including by means of a report to a coroner holding an inquest under the Coroners Acts 1962 and 2005 on the body of a person whose death may have been caused through personal injury), or
+
+(ii) any investigation or special report under *section 18*.
+
+## PART 6 Offences and Penalties — PART 6 — Offences and Penalties
+
+### 29. Offences.
+
+**29**.— (1) An exporter or importer who contravenes a provision of the Rotterdam Regulation that applies to him or her shall be guilty of an offence.
+
+(2) A manufacturer who contravenes a provision of the Detergents Regulation that applies to him or her shall be guilty of an offence.
+
+(3) Where—
+
+(*a*) a distributor,
+
+(*b*) a downstream user,
+
+(*c*) an importer,
+
+(*d*) a manufacturer,
+
+(*e*) a person appointed in accordance with Article 8 of the REACH F37[Regulation,]
+
+(*f*) a producer of an F38[article, or]
+
+F39[(*g*) in relation to paragraph 11 in entry 63 of Annex XVII to the REACH Regulation, a person,]
+
+contravenes a provision of the REACH Regulation that applies to him or her, that person shall be guilty of an offence.
+
+F40[(3A) Where—
+
+(*a*) a distributor,
+
+(*b*) a downstream user,
+
+(*c*) an importer,
+
+(*d*) a manufacturer,
+
+(*e*) a notifier,
+
+(*f*) a producer of an article, or
+
+(*g*) a supplier,
+
+contravenes a provision of the CLP Regulation that applies to him or her, that person shall be guilty of an offence.]
+
+(4) A person who contravenes a provision of regulations under this Act that is declared in the regulations to be a penal provision shall be guilty of an offence.
+
+(5) A person who contravenes a requirement in a contravention notice or a prohibition notice shall be guilty of an offence.
+
+(6) A person who forges or utters knowing it to be forged—
+
+(*a*) a register, record, licence, authorisation, direction, or permit under the relevant chemicals statutory provisions or a document purporting to be an extract therefrom, or
+
+(*b*) a contravention notice, a prohibition notice or an information notice,
+
+(in this section referred to as a “forged document”) shall be guilty of an offence.
+
+(7) A person who alters, with intent to defraud or deceive, or who utters knowing it to be so altered—
+
+(*a*) a register, record, licence, authorisation, direction, or permit under the relevant chemicals statutory provisions or a document purporting to be an extract therefrom, or
+
+(*b*) a contravention notice, a prohibition notice or an information notice,
+
+(in this section referred to as an “altered document”) shall be guilty of an offence.
+
+(8) A person who has, without lawful authority, a forged document or an altered document in his or her possession shall be guilty of an offence.
+
+(9) Any person who obstructs or interferes with an inspector or a member of the Garda Síochána in the course of exercising a power conferred on him or her by this Act or a warrant under *section 12* or impedes the exercise by the inspector or member, as the case may be, of such power, or fails or refuses to comply with a request or requirement of, or to answer a question asked by, an inspector or such a member pursuant to a power conferred by this Act, or in purported compliance with such request or requirement or in answer to such question gives information to the inspector or member that he or she knows to be false or misleading in any material respect, shall be guilty of an offence.
+
+(10) Any person who obstructs or interferes with an officer of customs and excise in the course of exercising a power conferred on him or her by this Act shall be guilty of an offence.
+
+(11) A person who falsely represents himself or herself to be an inspector shall be guilty of an offence.
+
+(12) A person who, at any time during the period of 3 months immediately following the affixing of a notice in accordance with *section 3(1)(d)*, removes, alters, damages or defaces the notice without lawful authority shall be guilty of an offence.
+
+(13) A person who states to a national authority that another person has committed an offence under this section or has failed to comply with a provision of the relevant chemicals statutory provisions knowing the statement to be false shall be guilty of an offence.
+
+(14) A person who, in purported compliance with a requirement in an information notice, furnishes information to a national authority that he or she knows to be false or misleading in a material respect shall be guilty of an offence.
+
+(15) A person who contravenes *section 28* shall be guilty of an offence.
+
+(16) A person who—
+
+(*a*) fails to comply with a direction under *section 14*, or
+
+(*b*) contravenes an information notice under *section 27*,
+
+shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F37, F38: Substituted (26.10.2023) by *Chemicals Act 2008 (Lead in Gunshot in Or Around Wetlands) Regulations 2023* (S.I. No. 517 of 2023), reg. 4(a), (b).
+>
+> F39: Inserted (26.10.2023) by *Chemicals Act 2008 (Lead in Gunshot in Or Around Wetlands) Regulations 2023* (S.I. No. 517 of 2023), reg. 4(c).
+>
+> F40: Inserted (10.12.2010) by *Chemicals (Amendment) Act 2010* (32/2010), s. 9, S.I. No. 591 of 2010.
+>
+> **Editorial Notes:**
+>
+> E11: *Chemicals (Asbestos Articles) Regulations 2011* (S.I. No. 248 of 2011), regs. 3(1) and 4(4), declared to be penal provisions for purposes of subs. (4) (31.05.2011) by *Chemicals (Asbestos Articles) Regulations 2011* (S.I. No. 248 of 2011), reg. 12.
+
+### 30. Penalties.
+
+**30**.— (1) A person guilty of an offence under *section 29* (other than F41[*subsection (3)(g)* and *subsection (16)*]) shall be liable—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding F42[12 months] or both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €3,000,000 or imprisonment for a term not exceeding 2 years or both.
+
+(2) A person guilty of an offence under *section 29(16)* shall be liable on summary conviction to a fine not exceeding €5,000.
+
+F43[(2A) A person guilty of an offence under *section 29(3)(g)* shall be liable –
+
+(*a*) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months or both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €500,000 or imprisonment for a term not exceeding 3 years or both.]
+
+(3) Where a person is convicted of an offence under the relevant chemicals statutory provisions in proceedings brought by a national authority, the court shall, unless it is satisfied that there are special and substantial reasons for not so doing, order the person to pay to that national authority the costs and expenses measured by the court, incurred by the national authority in relation to the investigation, detection and prosecution of the offence, including costs and expenses incurred in the taking of samples, the carrying out of tests, examinations and analyses and in respect of the remuneration and other expenses of employees, consultants and advisers engaged by the national authority.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F41: Substituted (26.10.2023) by *Chemicals Act 2008 (Lead in Gunshot in Or Around Wetlands) Regulations 2023* (S.I. No. 517 of 2023), reg. 5(a).
+>
+> F42: Substituted (10.12.2010) by *Chemicals (Amendment) Act 2010* (32/2010), s. 10, S.I. No. 591 of 2010.
+>
+> F43: Inserted (26.10.2023) by *Chemicals Act 2008 (Lead in Gunshot in Or Around Wetlands) Regulations 2023* (S.I. No. 517 of 2023), reg. 5(b). A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E12: A fine of €5,000 translates into a class A fine, not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 31. Fixed payment notice.
+
+**31**.— (1) Where an inspector has reasonable grounds for believing that a person has committed an offence under the relevant chemicals statutory provisions and is liable to summary prosecution in respect thereof, the inspector may give to the person a notice in writing (in this Act referred to as a “fixed payment notice”) in the prescribed form stating that—
+
+(*a*) the person is alleged to have committed that offence,
+
+(*b*) the person may during the period of 21 days beginning on the date of the notice make to the national authority concerned at the address specified in the notice a payment of such amount as may be prescribed, being an amount of not more than €2,000, accompanied by the notice,
+
+(*c*) the person is not obliged to make the payment specified in the notice, and
+
+(*d*) a prosecution of the person to whom the notice is given in respect of the alleged offence will not be instituted during the period of 21 days beginning on the date of the notice and, if the payment specified in the notice is made during that period, no prosecution in respect of the alleged offence will be instituted.
+
+(2) Where a fixed payment notice is given under *subsection (1)—*
+
+(*a*) the person to whom it applies may, during the period of 21 days beginning on the date of the notice, make to the national authority concerned at the address specified in the notice the payment specified in the notice accompanied by the notice,
+
+(*b*) the national authority may, upon receipt of the payment, issue a receipt for it and any payment so received shall not be recoverable by the person who made it, and
+
+(*c*) a prosecution in respect of the alleged offence shall not be instituted in the period specified in the notice, and if the payment so specified is made during that period, no prosecution in respect of the alleged offence shall be instituted.
+
+(3) In summary proceedings for an offence under the relevant chemicals statutory provisions it shall be a defence for the defendant to prove that he or she has made a payment, in accordance with this section, pursuant to a fixed payment notice issued in respect of that offence.
+
+(4) Regulations prescribing an amount under *subsection (1)(b)* may prescribe different amounts in relation to different offences.
+
+(5) Moneys received pursuant to the giving of a fixed payment notice shall be disposed of in a manner determined—
+
+(*a*) by the Authority, with the prior consent of the Minister and the Minister for Finance,
+
+(*b*) by a national authority (other than the Authority or a Minister of the Government), with the prior consent of the relevant Minister and the Minister for Finance, or
+
+(*c*) by a national authority who is a Minister of the Government, with the prior consent of the Minister for Finance.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C6: Functions under subs. (5) transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>...<br>No. 13 of 2008<br>...</td><td>...<br>Chemicals Act 2008<br>...</td><td>...<br>Sections 5(5), 10, 18(3)and 31(5)<br>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E13: A fine of €2,000 translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 32. Offences by bodies corporate.
+
+**32**.— Where an offence under this Act has been committed by a body corporate and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a person being a director, manager, secretary or other officer of the body corporate, or a person who was purporting to act in any such capacity, that person as well as the body corporate shall be guilty of an offence and shall be liable to be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
+
+### 33. Prosecution of offences.
+
+**33**.— (1) Subject to *subsections (2)* and *(3)*, summary proceedings in relation to an offence under the relevant chemicals statutory provisions may be brought and prosecuted by a national authority.
+
+(2) Notwithstanding section 10(4) of the Petty Sessions (Ireland) Act 1851 and subject to *subsection (3)*, summary proceedings for an offence under *section 29(16)* may be instituted at any time within 12 months from the date on which the offence was committed or alleged to have been committed.
+
+(3) Where a special report is submitted under *section 18(1)* to a national authority and it appears from the report that one or more of the relevant chemicals statutory provisions was contravened during any period to which the report relates, summary proceedings for an offence consisting of the contravention concerned may be instituted at any time within 6 months of the submission of the report under *section 18(1)* or 12 months after the date of the contravention, whichever occurs later.
+
+## PART 7 Miscellaneous — PART 7 — Miscellaneous
+
+### 34. Appeal to Circuit Court from certain orders of District Court.
+
+**34**.— For the avoidance of doubt, an order of the District Court confirming, varying or cancelling a notice under *section 15(6)*, *16(6)* or *27(3)* is a decision of a judge of the District Court for the purposes of section 84 of the Courts of Justice Act 1924.
+
+### 35. Notice or direction to be in writing.
+
+**35**.— Any notice or direction under this Act shall be in writing.
+
+### 36. Laying of regulations and orders before Houses of Oireachtas.
+
+**36**.— Every regulation or order (other than an order under *section 1(2)*) under this Act shall be laid by the Minister before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation or order is passed by either such House within the next 21 days on which that House sits after the regulation or order is laid before it, the regulation or order shall be annulled accordingly but without prejudice to the validity of anything previously done under the regulation or order.
+
+### 37. Amendment of Safety, Health and Welfare at Work Act 2005.
+
+**37**.— The Safety, Health and Welfare at Work Act 2005 is amended—
+
+(*a*) in section 34(1), by inserting after paragraph (*d*) the following:
+
+“(*dd*) to perform the functions conferred on the Authority by the Chemicals Act 2008,”,
+
+and
+
+(*b*) in Schedule 6, paragraph 5, by substituting “paragraph 4” for “paragraph 3”.
+
+[^1]: OJ No. L 63, 6.3.2003, p. 1.
+[^2]: OJ No. L 104, 8.4.2004, p. 1.
+[^3]: OJ No. L 136, 29.5.2007, p. 3.
+[^4]: OJ L196, 16.08.1967, p. 1
+[^5]: OJ L353, 31.12.2008, p. 1
+[^6]: OJ No. L 119, 4.5.2016, p.1
+[^7]: OJ L104, 08.04.2004, p. 1
+[^8]: OJ L396, 30.12.2006, p. 1
+[^9]: OJ No. L201, 27.7.2012, p.60

@@ -1,0 +1,805 @@
+---
+title: "Passports Act 2008"
+identifier: "eli/2008/act/4"
+type: act
+jurisdiction: ie
+language: en
+number: 4
+year: 2008
+date: 2008-03-26
+last_amended: 2018-05-25
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2008/act/4/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2008/act/4/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Passports Act 2008
+
+AN ACT TO PROVIDE FOR THE ISSUE BY THE MINISTER FOR FOREIGN AFFAIRS OF PASSPORTS TO IRISH CITIZENS TO BE USED BY THEM AS EVIDENCE OF IDENTITY AND CITIZENSHIP, TO PROVIDE FOR THE PROCESSING OF PERSONAL DATA, INCLUDING BIOMETRIC DATA, FOR THE ISSUE OF PASSPORTS AND THE MAINTENANCE OF THE INTEGRITY OF THE SYSTEM FOR ISSUING PASSPORTS, TO PROVIDE FOR THE CANCELLATION AND SURRENDER OF PASSPORTS IN CERTAIN CIRCUMSTANCES, TO PROVIDE FOR OFFENCES RELATING TO PASSPORTS, TO PROVIDE FOR THE ISSUE OF EMERGENCY TRAVEL CERTIFICATES IN CERTAIN CIRCUMSTANCES, TO AMEND THE DIPLOMATIC AND CONSULAR OFFICERS (PROVISION OF SERVICES) ACT 1993 AND TO PROVIDE FOR RELATED MATTERS.
+
+[26*th March*, 2008]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>...<br>No. 4 of 2008<br>...</td><td>...<br>Passports Act 2008<br>...</td><td>...<br>Sections 8<br>...</td></tr></table>
+
+## PART 1 Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title and commencement.
+
+**1**.— (1) This Act may be cited as the Passports Act 2008.
+
+(2) This Act shall come into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or different provisions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to section exercised (1.11.2008) by the *Passports Act 2008 (Commencement) Order 2008* (S.I. No. 412 of 2008), art. 2.
+>
+> 2\. The 1st day of November 2008 is appointed as the day on which the Passports Act 2008 (No. 4 of 2008), other than subsections (8) and (9) of section 14, comes into operation.
+
+### 2. Definitions.
+
+**2**.— In this Act, unless the context otherwise requires—
+
+F1[...]
+
+F2[‘Act of 2018’ means the Data Protection Act 2018;]
+
+“applicant”, in relation to an application for a passport, means the person in whose name the passport will be issued if the application is granted;
+
+F1[...]
+
+F3[‘biometric data’ means biometric data within the meaning of—
+
+(a) the Data Protection Regulation, or
+
+(b) Part 5 of the Act of 2018;]
+
+“certificate of birth” means—
+
+(*a*) a document issued under section 13(4) of the Civil Registration Act 2004 in respect of an entry in the register of births,
+
+(*b*) a certified copy of an entry in the Adopted Children Register maintained under section 22 of the Adoption Act 1952 which is issued under subsection (11) of that section,
+
+(*c*) a document purporting to be a copy of an entry in a foreign births entry book or in the foreign births register, both of which are kept under section 27 of the Irish Nationality and Citizenship Act 1956, and which is duly authenticated as such,
+
+(*d*) a document purporting to be a copy of an entry in the Register of Foreign Adoptions issued under section 6(7) of the Adoption Act 1991, or
+
+(*e*) a document issued in accordance with a civil system of registration of births in the place where the birth occurs;
+
+“child” means a person who is under 18 years of age other than a person who is or has been married;
+
+F1[...]
+
+F2[‘Data Protection Regulation’ means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016[^1] on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);]
+
+“emergency travel certificate” shall be construed in accordance with *section 15*;
+
+“guardian”, in relation to a child, means a person who—
+
+(*a*) is a guardian of the child pursuant to the Guardianship of Infants Act 1964, or
+
+(*b*) is appointed to be a guardian of the child by—
+
+(i) deed or will, or
+
+(ii) order of a court in the State,
+
+and has not been removed from office;
+
+“Irish citizen” means a person who—
+
+(*a*) is an Irish citizen under the Irish Nationality and Citizenship Acts 1956 to 2004, or
+
+(*b*) acquires Irish citizenship under those Acts or any other enactment;
+
+“Minister” means Minister for Foreign Affairs;
+
+“passport” means a passport issued, or deemed under *section 27(1)* to have been issued, under this Act;
+
+“passport appeals officer” shall be construed in accordance with *section 19*;
+
+F3[‘personal data’ means personal data within the meaning of—
+
+(a) the Data Protection Regulation, or
+
+(b) Part 5 of the Act of 2018;]
+
+“prescribed” means prescribed by the Minister by regulations under *section 4*;
+
+F3[‘processing’ means processing within the meaning of—
+
+(a) the Data Protection Regulation, or
+
+(b) Part 5 of the Act of 2018.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Deleted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 207(a)(i), S.I. No. 174 of 2018.
+>
+> F2: Inserted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 207(a)(ii), (iv), S.I. No. 174 of 2018.
+>
+> F3: Substituted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 207(a)(iii), (v), (vi), S.I. No. 174 of 2018.
+
+### 3. Service of notices.
+
+**3**.— Where a notice is required to be sent or given to a person under this Act, it shall be addressed to the person concerned by name and may be sent or given to him or her in one of the following ways:
+
+(*a*) by delivering it to the person;
+
+(*b*) by leaving it at the address at which the person ordinarily resides or, in a case in which an address for correspondence relating to the application for the passport concerned has been provided to the Minister, at that address;
+
+(*c*) by sending it by post to the address at which the person ordinarily resides or, in a case in which an address for correspondence relating to the application for the passport concerned has been provided to the Minister, to that address.
+
+### 4. Regulations.
+
+**4**.— (1) The Minister may by regulations provide for any matter referred to in this Act as prescribed or to be prescribed.
+
+(2) Regulations under this Act may contain such incidental, supplementary and consequential provisions as appear to the Minister to be necessary or expedient for the purposes of the regulations.
+
+(3) Every regulation made under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next 21 days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+### 5. Expenses.
+
+**5**.— (1) The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+(2) The expenses incurred by the Minister for Finance in the administration of this Act shall be paid out of moneys provided by the Oireachtas.
+
+## PART 2 Passports and Emergency Travel Certificates — PART 2 — Passports and Emergency Travel Certificates
+
+### 6. Application for passport.
+
+**6**.— (1) A person who is an Irish citizen and is, subject to this Act, thereby entitled to be issued with a passport, may apply in that behalf to the Minister in accordance with this section.
+
+(2) An application for the issue of a passport to a person shall be—
+
+(*a*) made in such form as may be specified by the Minister for that type of passport,
+
+(*b*) accompanied by such information and documents in relation to the person as the Minister may require under *section 7*, and
+
+(*c*) accompanied by the appropriate fee (if any).
+
+(3) An application for the issue of a passport to a child may be made on behalf of the child—
+
+(*a*) by a parent or guardian of the child,
+
+(*b*) where the application is one to which *subsection (4)* of *section 14* applies, by the person referred to in that subsection who is authorised by an order of a court in the State to give consent to the issue of a passport to the child, or
+
+(*c*) where the application is one to which *subsection (6)* of *section 14* applies, by a guardian of the child or any other person who has an interest in the welfare of the child.
+
+(4) An application for the issue of a passport to a person who is suffering from a physical or mental incapacity may be made on his or her behalf by a person duly authorised to act on his or her behalf.
+
+### 7. Information and documents to accompany application for passport.
+
+**7**.— (1) Before issuing a passport to a person, the Minister shall be satisfied—
+
+(*a*) that the person is an Irish citizen, and
+
+(*b*) as to the identity of the person.
+
+(2) The Minister may require an applicant for a passport to provide such information as the Minister may require for the purposes of the application and to produce to him or her such documents as he or she considers necessary or expedient to enable him or her to perform the functions of the Minister under this Part.
+
+(3) The Minister may require that information furnished to him or her under this section shall be accompanied by a statutory declaration made or affidavit sworn by the applicant concerned to the effect that, to the best of the applicant’s knowledge and belief, the information is correct in every material respect and that the applicant has taken all reasonable steps to ensure the accuracy of the information.
+
+### 8. Processing of personal data.
+
+**8**.— (1) F4[Subject to the Data Protection Regulation and the Act of 2018], the Minister may process such personal data, including biometric data, in respect of an applicant for a passport as are required for the issue of a passport to the applicant and the maintenance of the integrity of the system for issuing passports.
+
+(2) The Minister may, with the consent of the Minister for Finance, make such arrangements, including contractual arrangements, as he or she considers appropriate with such persons as he or she thinks fit for the processing of biometric data in respect of applicants for passports.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F4: Substituted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 207(b), S.I. No. 174 of 2018.
+
+### 9. Periods of validity of passports.
+
+**9**.— (1) Subject to this Act, the Minister may prescribe periods of validity for passports, and different periods may be prescribed for different types of passports, for different categories of applicants and for the issue of passports in different circumstances.
+
+(2) If no period of validity is prescribed for a passport under *subsection (1)*, the passport shall be valid for such period as the Minister considers appropriate in the circumstances at the time the passport is issued.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E2: Power pursuant to subs. (1) exercised (1.11.2008) by *Passports (Periods of Validity) Regulations 2008* (S.I. No. 414 of 2008), in effect as per reg. 1(2).
+
+### 10. Name in which passport is issued.
+
+**10**.— (1) Subject to this section and *section 11*, a passport issued under this Act shall be in the name of the applicant for a passport concerned as it appears in his or her certificate of birth (whether in the English language or the Irish language) or, as may be appropriate, a certificate of naturalisation or other document produced by him or her to the Minister as evidence of Irish citizenship.
+
+(2) Subject to this Act, the Minister may, if so requested by an applicant for a passport who is or was married, issue a passport to him or her in his or her name that incorporates the surname of his or her spouse or former spouse, as the case may be, in place of, or in addition to, the surname of the applicant.
+
+(3) The Minister shall, if an applicant for a passport applies to have a passport issued to him or her in a name (in this section referred to as “the new name”) other than the one referred to in *subsection (1)* or *(2)* or, if appropriate, the name entered in the passport last previously issued to him or her, require the applicant to produce to the Minister such evidence as appears to him or her to be satisfactory of the use by the applicant of the new name before a passport may be issued to the applicant in that name.
+
+(4) If an applicant for a passport in the circumstances referred to in *subsection (3)* produces evidence to the satisfaction of the Minister of the use by him or her of the new name for a period of not less than 2 years prior to the date of the application, the Minister may, subject to this Act, issue a passport to the applicant in that name.
+
+(5) If an applicant for a passport in the circumstances referred to in *subsection (3)* does not produce evidence to the satisfaction of the Minister of the use by him or her of the new name for a period of not less than 2 years prior to the date of the application, the Minister may, subject to this Act, issue a passport to the applicant in that name and enter the name of the applicant referred to in *subsection (1)* or *(2)* or, if appropriate, that entered in the passport last previously issued to him or her as an observation in the passport and that entry shall remain there for a period of not less than 2 years.
+
+### 11. Gender re-assignment.
+
+**11**.—(1) F5[...]
+
+(2) F5[...]
+
+F6[(2A) (a) The Minister shall not consider an application for a passport by an applicant who wishes to have a passport issued to him or her in—
+
+(i) the new gender, and
+
+(ii) if applicable, the new name,
+
+unless that applicant produces his or her gender recognition certificate to the Minister.
+
+(b) Where an applicant for a passport to whom paragraph (a) applies produces his or her gender recognition certificate to the Minister the Minister may, subject to this Act, issue a passport to the applicant in the gender specified in the gender recognition certificate and, if applicable, the new name.
+
+(2B) (a) An applicant for a passport, who has attained the age of 18 years and to whom section 9 of the Gender Recognition Act 2015 does not apply, may apply to the Minister to have the passport issued to the applicant in the new gender and if the applicant is using a new name, to have the new name of the applicant entered in the passport.
+
+(b) An applicant under paragraph (a) shall produce to the Minister—
+
+(i) a statutory declaration declaring that the applicant has a settled and solemn intention of living in the new gender for the rest of his or her life and understands the consequences of the application, and
+
+(ii) if appropriate, evidence to the satisfaction of the Minister of the use by the applicant of the new name,
+
+and the Minister may, subject to this Act, issue a passport to the applicant in the new gender and, if applicable, new name specified in the application.
+
+(2C) (a) An applicant for a passport who has attained the age of 16 years but not attained the age of 18 years and to whom section 9 of the Gender Recognition Act 2015 does not apply, may apply to the Minister to have the passport issued to the applicant in the new gender and if the applicant is using a new name, to have the new name of the applicant entered in the passport.
+
+(b) An applicant under paragraph (a) shall produce to the Minister—
+
+(i) a statutory declaration declaring that the applicant has a settled and solemn intention of living in the new gender for the rest of his or her life, and understands the consequences of the application,
+
+(ii) each of the medical certificates referred to in paragraph (c), and
+
+(iii) if appropriate, evidence to the satisfaction of the Minister of the use by the applicant of the new name,
+
+and the Minister may, subject to this Act, issue a passport to the applicant in the new gender and, if applicable, new name specified in the application.
+
+(c) For the purposes of paragraph (b) the following medical certificates are required:
+
+(i) a certificate of the child’s primary treating medical practitioner certifying his or her professional medical opinion that—
+
+(I) the child has attained a sufficient degree of maturity to make the decision to apply for a passport in the new gender,
+
+(II) the child is aware of, has considered and fully understands the consequences of that decision, and
+
+(III) the child’s decision is freely and independently made without duress or undue influence from another person,
+
+and
+
+(ii) a certificate of an endocrinologist or psychiatrist, who has no connection to the child, certifying that his or her medical opinion concurs with the medical opinion referred to in subparagraph (i).]
+
+(3) The issue of a passport to a person in accordance with this section does not—
+
+(*a*) confer any right or entitlement on the person that is not connected with the purposes of this Act, or
+
+(*b*) affect any right, entitlement, duty or obligation arising under statute or otherwise.
+
+F7[(4) In this section—
+
+‘endocrinologist’ means—
+
+(a) a medical practitioner who is registered in the Specialist Division of the register of medical practitioners under the medical specialty of ‘Endocrinology & Diabetes Mellitus’, or
+
+(b) in the case of a person outside the State, a person who is entitled under the law of the place where the person is to practise medicine in the field of endocrinology in that place;
+
+‘gender recognition certificate’ has the same meaning as it has in the Gender Recognition Act 2015;
+
+‘medical practitioner’ means—
+
+(a) a medical practitioner who is for the time being registered in the register of medical practitioners, or
+
+(b) in the case of a person outside the State, a person who is entitled under the law of the place where the person is to practise medicine in that place;
+
+‘medical specialty’ means a medical specialty recognised by the Medical Council under section 89 of the Medical Practitioners Act 2007;
+
+‘new gender’—
+
+(a) in so far as it relates to an applicant referred to in subsection (2A), means the opposite gender to the gender originally specified in—
+
+(i) the register of births maintained under section 13 of the Civil Registration Act 2004, proof of which is a document issued under section 61 of that Act in respect of an entry in that register,
+
+(ii) the Adopted Children Register maintained under section 84 of the Adoption Act 2010, proof of which is a certified copy of an entry issued under subsection (10) of that section of that Act,
+
+(iii) a foreign births entry book or in the foreign births register, both of which are kept under section 27 of the Irish Nationality and Citizenship Act 1956, proof of which is a document purporting to be a copy of an entry in that entry book or register and which is duly authenticated as such,
+
+(iv) the register of intercountry adoptions maintained under section 90 of the Adoption Act 2010, proof of which is a document purporting to be a copy of an entry in that register issued under section 91(1)(b) of that Act,
+
+(v) where the birth concerned is registered in accordance with a civil system of registration of births in the place where his or her birth occurred, proof of which is a document issued in accordance with that system of registration, or a statutory declaration declaring why it is not feasible to produce the proof and exhibiting other evidence of birth, that document or statutory declaration, or
+
+(vi) where the birth concerned is not registered because there is no system of civil registration of births in the place where his or her birth occurred, proof of which is a statutory declaration declaring that there is no such system and exhibiting other evidence of birth, that statutory declaration,
+
+(b) in so far as it relates to an applicant referred to in subsection (2B) or (2C) means the opposite gender to the gender originally specified in—
+
+(i) where the birth concerned is registered in accordance with a civil system of registration of births in the place where his or her birth occurred, proof of which is a document issued in accordance with that system of registration, or a statutory declaration declaring why it is not feasible to produce the proof and exhibiting other evidence of birth, that document or statutory declaration, or
+
+(ii) where the birth concerned is not registered because there is no system of civil registration of births in the place where his or her birth occurred, proof of which is a statutory declaration declaring that there is no such system and exhibiting other evidence of birth, that statutory declaration;
+
+‘new name’—
+
+(a) in so far as it relates to an applicant referred to in subsection (2A) means, if a name other than the one referred to in subsection (1) or (2) of section 10 is specified in the gender recognition certificate, that name,
+
+(b) in so far as it relates to an applicant referred to in subsection (2B) or (2C) means a name other than the one referred to in subsection (1) or (2) of section 10;
+
+‘primary treating medical practitioner’ means a person’s primary treating endocrinologist or psychiatrist in relation to the matter the subject of an application under subsection (2C);
+
+‘psychiatrist’ means—
+
+(a) a medical practitioner who is registered in the Specialist Division of the register of medical practitioners under the medical specialty of ‘Psychiatry’ or under the medical specialty of ‘Child & Adolescent Psychiatry’, or
+
+(b) in the case of a person outside the State, a person who is entitled under the law of the place where the person is to practise medicine in the field of psychiatry or child and adolescent psychiatry in that place;
+
+‘register of medical practitioners’ means the register of medical practitioners established under section 43 of the Medical Practitioners Act 2007.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F5: Deleted (4.09.2015) by *Gender Recognition Act 2015* (25/2015), s. 38(1)(a) and (b), S.I. No. 369 of 2015.
+>
+> F6: Inserted (4.09.2015) by *Gender Recognition Act 2015* (25/2015), s. 38(1)(c), S.I. No. 369 of 2015.
+>
+> F7: Substituted (4.09.2015) by *Gender Recognition Act 2015* (25/2015), s. 38(1)(d), S.I. No. 369 of 2015.
+
+### 12. Refusal to issue passport.
+
+**12**.— (1) The Minister shall refuse to issue a passport to a person if—
+
+(*a*) the Minister is not satisfied that the person is an Irish citizen,
+
+(*b*) the Minister is not satisfied as to the identity of the person,
+
+(*c*) the person would be likely in the opinion of the Minister, after consultation, where appropriate, with the Minister for Justice, Equality and Law Reform or the Minister for Defence or both, to engage in conduct that—
+
+(i) might prejudice national security or the security of another state,
+
+(ii) might endanger public safety or order,
+
+(iii) would be contrary to the common good, or
+
+(iv) might endanger that person or others,
+
+(*d*) the Minister has been notified by the Courts Service that a court in the State has ordered the person (including by way of a condition of a recognisance entered into by the person admitting him or her to bail under the Bail Act 1997) to surrender any passport in his or her possession or, if he or she is not in possession of a passport, to refrain from applying for a passport for so long as the order is in force,
+
+(*e*) in connection with the application concerned for the issue of a passport, a person (whether or not the applicant)—
+
+(i) knowingly or recklessly provides information or documents that are false or misleading in a material respect, or
+
+(ii) makes a statutory declaration, or swears an affidavit, that is false knowing it to be false or being reckless as to whether it is false,
+
+(*f*) the person is a child and *section 14* is not complied with in relation to the issue of a passport to the child, or
+
+(*g*) the Minister has been notified by the Courts Service that an order has been made to require the surrender of any child’s passport or to require any person to refrain from applying for a passport for any child so long as the order is in force.
+
+(2) The Minister may refuse to issue a passport to a person if—
+
+(*a*) the application for the issue of a passport to the person does not comply with *section 6*, or
+
+(*b*) the person holds a valid passport and there is no sufficient reason, in the opinion of the Minister, to issue another passport to him or her.
+
+(3) Where the Minister refuses to issue a passport to a person under this section, the Minister shall inform the person by notice in writing of the decision and the grounds for the refusal.
+
+### 13. Use of information and form of passports.
+
+**13**.— (1) The Minister may enter in a passport such information provided to him or her by an applicant in connection with an application for a passport, including biometric data, as the Minister considers necessary to identify the applicant in whatever form the Minister considers appropriate having regard to relevant international standards and practice regarding the issue and form of passports generally.
+
+(2) A passport shall be in such form as the Minister approves.
+
+### 14. Passports for children.
+
+**14**.—F8[ (1) Subject to this section, the Minister shall, before issuing a passport to a child, be satisfied on reasonable grounds that—
+
+(a) where the child has 2 guardians, each guardian of the child, and
+
+(b) where the child has more than 2 guardians, not fewer than 2 of those guardians,
+
+consents to the issue of a passport to the child.]
+
+(2) If a parent of a child is not a guardian of the child, the Minister shall, in determining whether to issue a passport to the child without the consent to such issue of that parent of the child, have regard to the circumstances of the case in so far as they are known to the Minister.
+
+(3) Subject to this Act, the Minister may issue a passport to a child without the consent to such issue of a guardian of the child if a court in the State makes an order directing that a passport may be issued to the child without the consent to such issue of that guardian of the child.
+
+(4) If a court in the State makes an order under any enactment which authorises a person other than a guardian of the child (including the Health Service Executive) to give consent to the issue of a passport to the child, the Minister may, subject to this Act and for so long as the order is in force, issue a passport to the child in accordance with the order.
+
+(5) Subject to this Act, the Minister may, on application in that behalf to him or her in accordance with *section 6* by a guardian of a child, issue a passport to the child without the consent to such issue of the other guardian F9[or, if appropriate, the other guardians] of the child if it is not practicable or appropriate, by reason of the fact that the first-mentioned guardian and the child are ordinarily resident outside the State, for that guardian of the child to obtain an order of a court in the State directing that a passport may be issued to the child without the consent to such issue of the other guardian F9[or, if appropriate, the other guardians] of the child and the Minister is satisfied that—
+
+(*a*) having regard to all the circumstances of the case, including whether or not F8[any other guardian] of the child has notified the Minister in writing that he or she objects to the issue of a passport to the child, and
+
+(*b*) for the purpose of securing the welfare of the child,
+
+a passport should be issued to the child.
+
+F9[(5A) (a) Subject to this Act, and on application in that behalf to him or her in accordance with section 6 by a guardian of the child, the Minister may, without the consent to such issue of the other guardian or, if appropriate, the other guardians of the child, issue a passport to a child who is ordinarily resident outside the State, where—
+
+(i) a court or competent judicial or administrative authority of the state of ordinary residence of the child takes a measure directing that a passport may be issued to the child without the consent to such issue of the other guardian or, if appropriate, the other guardians of the child, or
+
+(ii) by operation of the law of the state of ordinary residence of the child, the requirements relating to the consent of the other guardian or, if appropriate, the other guardians of the child have been fulfilled.
+
+(b) Paragraph (a) is without prejudice to paragraph 2 of Article 23 of the Convention.
+
+(c) In this subsection—
+
+‘Act of 2000’ means the Protection of Children (Hague Convention) Act 2000;
+
+‘Convention’ has the meaning it has in section 1 of the Act of 2000;
+
+‘guardian’, in relation to a child, includes a person exercising parental responsibility in respect of the child, within the meaning of paragraph 2 of Article 1 of the Convention;
+
+‘measure’ has the meaning it has in section 1 of the Act of 2000;
+
+‘state’ means a state that is another contracting state, within the meaning of section 1 of the Act of 2000.]
+
+(6) Subject to this Act, the Minister may, on application in that behalf to him or her in accordance with *section 6* by a guardian of the child or any other person who has an interest in the welfare of the child, issue a passport to the child without the consent to such issue of the other guardian or, if appropriate, any of the guardians of the child if the Minister is satisfied that—
+
+(*a*) there exist in relation to the child exceptional circumstances involving an immediate and serious risk of harm to his or her life, health or safety requiring him or her to undertake travel for which a passport is required, and
+
+(*b*) for the purpose of securing the welfare of the child,
+
+a passport should be issued to the child.
+
+(7) A passport issued under *subsection (6)* shall be valid for such period as the Minister considers appropriate in the circumstances.
+
+(8) The Minister may, for the purposes of *subsection (1)*, regard a consent given in writing by a guardian of a child to the issue of a passport to the child as being the consent of that guardian of the child to the issue of a passport to the child at any time or times after the consent is given until the child attains full age, unless that guardian of the child revokes the consent by notification in writing to the Minister.
+
+(9) Notwithstanding *subsection (8)*, the Minister shall require one guardian of a child who applies to the Minister for the issue of a passport to the child to give consent in writing to such issue.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F8: Substituted (1.07.2015) by *Children and Family Relationships Act 2015* (9/2015), s. 100(a) and (b)(ii), S.I. No. 263 of 2015.
+>
+> F9: Inserted (1.07.2015) by *Children and Family Relationships Act 2015* (9/2015), s. 100(b)(i) and (c), S.I. No. 263 of 2015.
+
+### 15. Emergency travel facilities.
+
+**15**.— (1) Subject to this Act, the Minister may, on application in that behalf to him or her in accordance with *section 6*, issue a passport (in this section referred to as an “emergency passport”) to a person if the Minister is satisfied that—
+
+(*a*) a passport that was issued to the person has been lost, stolen or damaged or is temporarily unavailable or the person does not hold a valid passport,
+
+(*b*) the person provides evidence of his or her intention to undertake travel immediately for which a passport is required, and
+
+(*c*) by reason of the circumstances of urgency in relation to the application, there is insufficient time in which to issue a passport other than an emergency passport to the person.
+
+(2) The Minister may, on application in that behalf to him or her in accordance with this section, issue an emergency travel certificate (in this section referred to as an “emergency travel certificate”) to a person where—
+
+(*a*) there is reasonable cause to believe that the person is or may be an Irish citizen,
+
+(*b*) there is reasonable cause to believe that—
+
+(i) a passport that was issued to the person has been lost, stolen or damaged or is temporarily unavailable, or
+
+(ii) the person does not hold a valid passport,
+
+and
+
+(*c*) the person provides evidence of his or her intention to undertake travel immediately, but, by reason of the circumstances of urgency in relation to the application, the person is unable to comply with the requirements of this Act regarding the issue of a passport to him or her.
+
+(3) An application for the issue of an emergency travel certificate to a person shall be—
+
+(*a*) made in such form as may be specified by the Minister, and
+
+(*b*) accompanied by such information and documents in relation to the person as the Minister may require for the purposes of the application.
+
+(4) An application for the issue of an emergency travel certificate may be made on behalf of—
+
+(*a*) a child, by a parent or guardian of the child, and
+
+(*b*) a person who is suffering from a physical or mental incapacity, by a person duly authorised to act on his or her behalf.
+
+(5) An emergency passport shall be valid for such period of less than one year as the Minister considers appropriate.
+
+(6) An emergency travel certificate shall be valid for such period as the Minister considers appropriate to enable the person in respect of whom the certificate is issued to undertake the journey in respect of which it is issued.
+
+### 16. Diplomatic and official passports.
+
+**16**.— (1) The Minister may, on application in that behalf to him or her in accordance with *section 6* by a person who is entitled in accordance with this Act to be issued with a passport, issue a diplomatic passport to the person if he or she is—
+
+(*a*) an officer of the Minister of diplomatic rank, or
+
+(*b*) a person, or one of a class of persons, to whom the Minister considers it appropriate to issue such a passport,
+
+for the purpose of facilitating him or her to travel abroad in connection with the performance of official duties.
+
+(2) The Minister may, on application in that behalf in accordance with *section 6* by a person who is entitled in accordance with this Act to be issued with a passport, issue an official passport to the person for the purpose of facilitating him or her to travel abroad in connection with the performance by him or her of official duties on behalf of the State.
+
+(3) An application for an official passport under *subsection (2)* shall not be granted unless it is approved, and submitted to the Minister on behalf of the applicant, by a Department of State.
+
+(4) In this section—
+
+“diplomatic passport” means a passport that is so described on its face thereby indicating that the person to whom it is issued is an officer of the Minister of diplomatic rank or a person falling under *subsection (1)(b)* and which records the office held or the position occupied by that person;
+
+“official passport” means a passport that is so described on its face thereby indicating that the person to whom it is issued is a person who is performing official duties on behalf of the State and which records the office held or the position occupied by that person.
+
+### 17. Procedures for lost or stolen passports.
+
+**17**.— (1) If a person to whom a passport is issued believes that the passport has been lost or stolen, he or she shall notify the Minister and an Garda Síochána of the loss or theft as soon as practicable.
+
+(2) Where a person notifies the Minister under *subsection (1)* that a passport issued to him or her has been lost or stolen, the Minister may—
+
+(*a*) enquire into the circumstances of the loss or theft and require the person to provide such information as the Minister considers necessary regarding those circumstances, and
+
+(*b*) subject to this Act and on application in that behalf to him or her in accordance with *section 6*, issue another passport or an emergency travel certificate, as may be appropriate, to the person.
+
+### 18. Cancellation and surrender of passports.
+
+**18**.— (1) The Minister may cancel a passport issued to a person if—
+
+(*a*) the Minister becomes aware of a fact or a circumstance, whether occurring before or after the issue of the passport, that would have required or permitted him or her to refuse under *section 12* to issue the passport to the person had the Minister been aware of the fact or the circumstance before the passport was issued,
+
+(*b*) the Minister is informed by the Minister for Justice, Equality and Law Reform that the Irish citizenship of the person (a naturalised person) has been revoked by that Minister of the Government or that the person has renounced Irish citizenship,
+
+(*c*) the Minister, after consultation, where appropriate, with the Minister for Justice, Equality and Law Reform or the Minister for Defence or both, is of opinion that the person is likely to engage in conduct that falls under any one or more of *subparagraphs (i)* to *(iv)* of *section 12(1)(c)*,
+
+(*d*) in the case of a passport issued to a child under *subsection (5)* or *(6)* of *section 14*, the Minister becomes aware of a fact or a circumstance in relation to which he or she is satisfied that, for the purpose of securing the welfare of the child, the passport should be cancelled,
+
+(*e*) the Minister is notified that the passport is, without lawful authority or reasonable excuse, in the possession or control of another person, or
+
+(*f*) the Minister is notified by the person, or by another person duly authorised to act on his or her behalf, that the passport has been lost or stolen.
+
+(2) Where a passport issued to a person is cancelled under *subsection (1)*, the Minister shall inform the person by notice in writing of the cancellation and the grounds for it.
+
+(3) Where a passport issued to a person is cancelled under *subsection (1)*, the person shall, if he or she is in possession or control of the passport, surrender it as soon as practicable to the Minister.
+
+(4) Where a passport is cancelled under *subsection (1)*, the Minister may, if appropriate, require by notice in writing the person who is in possession or control of the passport to surrender it to the Minister within such period as may be specified in the notice.
+
+(5) A person who, without lawful authority or reasonable excuse, has a passport other than a passport that was issued to him or her in his or her possession or control shall, as soon as practicable, surrender it to the Minister or deliver it to a Garda Síochána station.
+
+(6) An applicant for a passport shall, if so required by the Minister, surrender a passport that was issued to him or her (whether or not it is valid) to the Minister before another passport may be issued to him or her.
+
+(7) A reference to a passport in this section includes a reference to a document which was issued as a passport by the Minister before the commencement of *sections 6* and *7* and which had ceased to be valid before the commencement of *section 27(1)*.
+
+### 19. Appeals.
+
+**19**.— (1) A person who, in relation to an application for the issue of a passport to him or her, is dissatisfied with a decision of the Minister under *paragraph (b)*, *(c)*, *(d)*, *(e)*, *(f) or (g)* of *subsection (1)*, or *subsection (2)*, of *section 12* may appeal the decision to a passport appeals officer.
+
+(2) A person who, in relation to the cancellation of a passport issued to him or her, is dissatisfied with a decision of the Minister under *paragraph (a)* (other than a decision on the ground that the person is not an Irish citizen), *(c)*, *(d)*, *(e)* or *(f)* of *section 18(1)* may appeal the decision to a passport appeals officer.
+
+(3) A person who is entitled to apply for the issue of a passport on behalf of another person under *section 6* may appeal a decision of the Minister referred to in *subsection (1)* or *(2)* on behalf of that other person.
+
+(4) The Minister may appoint one or more persons who, in the opinion of the Minister, have knowledge or experience relating to the issue of passports, to be a passport appeals officer (in this Act referred to as “a passport appeals officer”).
+
+(5) A passport appeals officer shall hold office for a term of 3 years.
+
+(6) A passport appeals officer shall be paid such remuneration (if any) and such allowances for expenses as the Minister, with the consent of the Minister for Finance, may from time to time determine.
+
+(7) A passport appeals officer may—
+
+(*a*) resign from office by letter addressed to the Minister and the resignation shall take effect on the date on which the Minister receives the letter,
+
+(*b*) be removed from office by the Minister but only if, in the opinion of the Minister, he or she has become incapable through ill-health of effectively performing his or her functions under this Act or has committed stated misbehaviour.
+
+(8) A passport appeals officer shall be independent in the performance of his or her functions under this Act.
+
+(9) An appeal under this section shall be made in writing to a passport appeals officer and shall be accompanied by a statement of the grounds relied on by the appellant.
+
+(10) The passport appeals officer shall forward a copy of the appellant’s statement under *subsection (9)* to the Minister.
+
+(11) The Minister shall furnish observations in writing relating to the grounds of appeal to the passport appeals officer and a copy of such observations to the appellant concerned and the appellant shall be afforded an opportunity to reply thereto.
+
+(12) A passport appeals officer may, in determining an appeal under this section—
+
+(*a*) confirm the decision of the Minister, or
+
+(*b*) recommend that the decision of the Minister should be set aside,
+
+and he or she shall inform the Minister and the appellant concerned by notice in writing of his or her determination and the reasons for it.
+
+(13) Where the Minister does not accept the recommendation of a passport appeals officer under *subsection (12)(b)*, the Minister shall inform the passport appeals officer and the appellant concerned by notice in writing and of the reasons for so doing.
+
+(14) An appellant may withdraw an appeal under this section by sending a notice of withdrawal to the passport appeals officer.
+
+(15) The Minister may prescribe time limits for the making and determination of appeals under this section and such ancillary, supplemental or consequential matters as may be necessary for giving full effect to this section.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E3: Power pursuant to subs. (15) exercised (1.11.2008) by *Passports (Appeals) Regulations 2008* (S.I. No. 413 of 2008), in effect as per reg. 1(2).
+
+### 20. Offences.
+
+**20**.— (1) A person who, whether in the State or elsewhere—
+
+(*a*) in connection with an application for the issue of a passport (whether or not to himself or herself or another person), provides information or documents that are, and that he or she knows or believes to be or is reckless as to whether they are, false or misleading in a material respect,
+
+(*b*) has, without lawful authority or reasonable excuse, in his or her possession or control a passport that is, and that he or she knows or believes to be, a false passport,
+
+(*c*) uses, or attempts to use, a passport that was not issued to him or her, knowing or believing that it was not issued to him or her, as evidence of identity or citizenship (in either case, whether or not in connection with travel abroad),
+
+(*d*) uses, or attempts to use, a passport that is, and that he or she knows or believes to be, a false passport as evidence of identity or citizenship (in either case, whether or not in connection with travel abroad),
+
+(*e*) uses, or attempts to use, a passport that has been cancelled, or is required to be surrendered to the Minister, under *section 18*, knowing or believing that the passport has been so cancelled or is required to be so surrendered, as evidence of identity or citizenship (in either case, whether or not in connection with travel abroad),
+
+(*f*) permits—
+
+(i) a passport that was issued to him or her, or
+
+(ii) a passport other than a passport that was issued to him or her that he or she has in his or her possession or control,
+
+to be falsely used by another person as evidence of that person’s identity or citizenship (in either case, whether or not in connection with travel abroad), or is reckless regarding such use by another person of the passport,
+
+(*g*) sells, or attempts to sell, a passport (whether or not a passport that was issued to him or her),
+
+(*h*) wilfully damages or destroys a passport (whether or not a passport that was issued to him or her),
+
+(*i*) knowingly makes, or attempts to make, a passport that is false,
+
+(*j*) without lawful authority or reasonable excuse, makes or has in his or her possession or control a machine, stamp, implement, paper or any other material, which to his or her knowledge is or has been specially designed or adapted for the making of a passport that is false with the intention that it would be so used, or
+
+(*k*) is required by *subsection (3)*, *(4)* or *(5)* of *section 18* to surrender a passport to the Minister, or is required in the alternative by the said *subsection (5)* to deliver a passport to a Garda Síochána station, but, without reasonable excuse, does not do so in accordance with the requirement,
+
+is guilty of an offence.
+
+(2) A person who uses, or attempts to use, a passport that was not issued to him or her, knowing that it was not issued to him or her, so as to represent himself or herself to be of a particular age for the purpose of being admitted to or allowed to be in the bar of—
+
+(*a*) a licensed premises during certain hours of the day in accordance with the Licensing Acts 1833 to 2004, or
+
+(*b*) the premises of a club registered under the Registration of Clubs Acts 1904 to 2004 during certain hours of the day in accordance with those Acts,
+
+is guilty of an offence.
+
+(3) A person guilty of an offence under *paragraph (b)*, *(c)*, *(h)*, *(j)* or *(k)* of *subsection (1)* is liable on conviction on indictment to a fine not exceeding €10,000 or imprisonment for a term not exceeding 5 years or both.
+
+(4) A person guilty of an offence under *paragraph (a)*, *(d)*, *(e)*, *(f)*, *(g)* or *(i)* of *subsection (1)* is liable on conviction on indictment to a fine or imprisonment for a term not exceeding 10 years or both.
+
+(5) A person guilty of an offence under *subsection (2)* is liable on summary conviction to a fine not exceeding €500.
+
+(6) In this section—
+
+“bar” and “licensed premises” have the meanings they have in the Intoxicating Liquor Act 2003;
+
+“false passport” means—
+
+(*a*) a passport that is false, or
+
+(*b*) a passport that is issued following the provision in connection with the application for the passport of information or documents that are false or misleading in a material respect;
+
+“false” and “making”, in relation to a passport, have the meanings assigned to them by *section 21*.
+
+(7) A reference to a passport in this section (other than *subsection (1)(a)*) and *section 21* includes a reference to a document which was issued as a passport by the Minister before the commencement of *sections 6* and *7* and which had ceased to be valid before the commencement of *section 27(1)*.
+
+### 21. Meaning of “false” and “making”.
+
+**21**.— (1) A passport is false for the purposes of *section 20* if it—
+
+(*a*) purports to have been issued by the Minister who did not in fact issue it,
+
+(*b*) purports to have been issued containing the F10[personal data] (including biometric F10[personal data]) that it contains by the Minister who did not in fact issue it containing those F10[personal data] (including biometric F10[personal data]), or
+
+(*c*) purports to have been altered in any respect by the Minister who did not in fact alter it in that respect.
+
+(2) A person shall be treated for the purposes of *section 20* as making a passport that is false if he or she alters a passport so as to make it false in any respect (whether or not it is false in some other respect apart from that alteration).
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F10: Substituted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 207(c), S.I. No. 174 of 2018.
+
+### 22. Summary trial of offences.
+
+**22**.— (1) The District Court may try summarily a person charged with an offence under any paragraph of *section 20(1)* if—
+
+(*a*) the Court is of opinion that the facts proved or alleged constitute a minor offence fit to be tried summarily,
+
+(*b*) the accused, on being informed by the Court of his or her right to be tried with a jury, does not object to being tried summarily, and
+
+(*c*) the Director of Public Prosecutions consents to the accused being tried summarily for the offence.
+
+(2) A person guilty of an offence under *subsection (1)* shall be liable to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months or both.
+
+### 23. Proceedings relating to offences committed outside State.
+
+**23**.— (1) Proceedings for an offence under any paragraph of *section 20(1)* in relation to an act committed, or an omission made, outside the State may be taken in any place in the State and the offence may for all incidental purposes be treated as having been committed in that place.
+
+(2) Where a person is charged with an offence referred to in *subsection (1)*, no further proceedings in the matter (other than any remand in custody or on bail) may be taken except by or with the consent of the Director of Public Prosecutions.
+
+### 24. Liability for offences by bodies corporate.
+
+**24**.— (1) Where an offence under any paragraph of *section 20(1)* is committed by a body corporate and is proved to have been committed with the consent, connivance or approval of, or to have been attributable to any wilful neglect on the part of, any person, being a director, manager, secretary or other officer of the body corporate or a person who was purporting to act in any such capacity, that person, as well as the body corporate, shall be guilty of an offence and shall be liable to be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
+
+(2) Where the affairs of a body corporate are managed by its members, *subsection (1)* shall apply in relation to the acts and defaults of a member in connection with his or her functions of management as if he or she were a director or manager of the body corporate.
+
+### 25. Amendment of Schedule to Bail Act 1997.
+
+**25**.— The Schedule to the Bail Act 1997 is amended by the insertion of the following after paragraph 18:
+
+“*Offences relating to passports.*
+
+18A. An offence under any paragraph of section *20**(1)* of the *Passports Act 2008*.”.
+
+### 26. Passports to remain property of Minister.
+
+**26**.— A passport shall remain the property of the Minister at all times.
+
+### 27. Saver.
+
+**27**.— (1) A passport issued by the Minister before the commencement of *sections 6* and *7* that is valid shall be deemed to have been issued under this Act and it shall, subject to this Act, continue to be valid after such commencement for the unexpired period of its validity.
+
+(2) The provision of passport facilities for a child by way of an entry in a passport issued by the Minister to a parent or guardian of the child before 1 October 2004 shall be valid until—
+
+(*a*) the passport concerned ceases to be valid,
+
+(*b*) the child reaches 16 years of age, or
+
+(*c*) a passport is issued to the child,
+
+whichever occurs first.
+
+(3) An application to the Minister for the issue of a passport to a person made before the commencement of *sections 6* and *7* that was not determined before that commencement shall, on that commencement, be deemed to be an application for the issue of a passport to the person under this Act and this Act shall apply to the application accordingly.
+
+## PART 3 Miscellaneous — PART 3 — Miscellaneous
+
+### 28. Amendment of Diplomatic and Consular Officers (Provision of Services) Act 1993.
+
+**28**.— The Diplomatic and Consular Officers (Provision of Services) Act 1993 is amended—
+
+(*a*) in section 1, by the insertion of the following definitions:
+
+“‘any officer of the Minister’ means a person (whether or not a civil servant) who performs functions as an officer of the Minister either in the State or in any country or place outside the State;
+
+‘travel documents’ includes the European Union Travel Document issued in accordance with the Decision of the Representatives of the Governments of the Member States meeting within the Council of 25 June 1996 on the establishment of an emergency travel document (96/409/CFSP);”,
+
+(*b*) in section 2, by the substitution of “any officer of the Minister who performs functions as an officer of the Minister in relation to the rendering of consular services or the issue of passports, visas or other travel documents” for “any officer of the Minister appointed by the Minister to be a person to whom sections 3 (other than subsection (2) thereof) and 4 of this Act apply”, and
+
+(*c*) in section 3—
+
+(i) by the substitution of the following subsections for subsections (1) and (2):
+
+“(1) The Minister may, with the consent of the Minister for Finance, make regulations fixing the fees to be charged for such services as are specified in the regulations, namely—
+
+(*a*) consular services, or services relating to passports, visas or other travel documents, when rendered by a person to whom section 2 of this Act applies, and
+
+(*b*) the administering, taking or doing of any oath, affidavit or notarial act authorised by section 5 of this Act when administered, taken or done by persons to whom that section applies.
+
+(2) The fees fixed by regulations made under this section may be charged inside or outside the State, as may be appropriate.”,
+
+and
+
+(ii) by the insertion of the following subsection after subsection (3):
+
+“(3A) Regulations made under this section may fix different fees to be charged for different services and for any such service provided in different circumstances.”.
+
+[^1]: OJ No. L 119, 4.5.2016, p.1

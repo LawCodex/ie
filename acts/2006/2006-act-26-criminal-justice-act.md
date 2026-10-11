@@ -1,0 +1,6054 @@
+---
+title: "Criminal Justice Act 2006"
+identifier: "eli/2006/act/26"
+type: act
+jurisdiction: ie
+language: en
+number: 26
+year: 2006
+date: 2006-07-16
+last_amended: 2024-12-31
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2006/act/26/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2006/act/26/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Criminal Justice Act 2006
+
+AN ACT TO AMEND AND EXTEND THE POWERS OF THE GARDA SÍOCHÁNA IN RELATION TO THE INVESTIGATION OF OFFENCES; TO AMEND CRIMINAL LAW AND PROCEDURE IN OTHER RESPECTS, INCLUDING PROVISION FOR THE ADMISSIBILITY IN EVIDENCE OF CERTAIN WITNESS STATEMENTS, AN EXTENSION OF THE CIRCUMSTANCES IN WHICH THE ATTORNEY GENERAL IN ANY CASE OR, IF HE OR SHE IS THE PROSECUTING AUTHORITY IN A TRIAL, THE DIRECTOR OF PUBLIC PROSECUTIONS MAY REFER A QUESTION OF LAW TO THE SUPREME COURT FOR DETERMINATION OR TAKE AN APPEAL IN CRIMINAL PROCEEDINGS, PROVISION FOR OFFENCES RELATING TO ORGANISED CRIME, AMENDMENTS TO THE MISUSE OF DRUGS ACT 1977, AN OBLIGATION, IN THE INTERESTS OF THE COMMON GOOD, ON PERSONS CONVICTED ON INDICTMENT OF CERTAIN DRUG TRAFFICKING OFFENCES TO NOTIFY CERTAIN INFORMATION TO THE GARDA SÍOCHÁNA, PROVISIONS IN RELATION TO SENTENCING, A RESTRICTION OF THE OFFENCES TO WHICH SECTION 10(4) OF THE PETTY SESSIONS (IRELAND) ACT 1851 APPLIES, AN AMENDMENT OF THE JURISDICTION OF THE DISTRICT COURT AND THE CIRCUIT COURT IN CRIMINAL MATTERS, THE IMPOSITION OF FIXED CHARGES IN RESPECT OF CERTAIN OFFENCES UNDER THE CRIMINAL JUSTICE (PUBLIC ORDER) ACT 1994 AND AN AMENDMENT OF THE PETTY SESSIONS (IRELAND) ACT 1851 RELATING TO THE ISSUE AND EXECUTION OF CERTAIN WARRANTS; TO AMEND THE FIREARMS ACTS 1925 TO 2000 AND THE EXPLOSIVES ACT 1875; TO MAKE PROVISION IN RELATION TO ANTI-SOCIAL BEHAVIOUR BY ADULTS AND CHILDREN; TO AMEND THE CHILDREN ACT 2001; TO PROVIDE FOR THE ESTABLISHMENT OF A BODY TO BE KNOWN AS AN COISTE COMHAIRLEACH UM CHÓDÚ AN DLÍ CHOIRIÚIL OR, IN THE ENGLISH LANGUAGE AS, THE CRIMINAL LAW CODIFICATION ADVISORY COMMITTEE AND TO PROVIDE FOR RELATED MATTERS.
+
+[16*th July*, 2006]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Terms “probation officer”, “welfare officer” and “probation and welfare officer” construed (1.10.2011 with retrospective effect from 19.05.2006) by *Criminal Justice (Community Service) (Amendment) Act 2011* (24/2011), s. 13, in effect as per s. 13(4).
+>
+> **References to Probation and Welfare Service, etc.**
+>
+> **13.**— ...
+>
+> (2) A person appointed by the Minister who was before the coming into operation of this section referred to as—
+>
+> (a) a probation officer,
+>
+> (b) a welfare officer, or
+>
+> (c) a probation and welfare officer,
+>
+> shall, on and after that date, be referred to as a probation officer and, references in any enactment to an officer referred to in paragraph (a), (b) or (c) shall be construed accordingly.
+>
+> C2: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 26 of 2006</td><td>Criminal Justice Act 2006</td><td>Sections 112, 118(7), 119(3), 170(3)<br>and 174</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> C3: Application of collectively cited *Firearms Acts 1925 to 2009* extended by *European Communities (Acquisition and Possession of Weapons and Ammunition) Regulations 1993* (S.I. No. 362 of 1993), reg. 8, as amended (29.10.2010) by *European Communities (Acquisition and Possession of Weapons and Ammunition) (Amendment) Regulations 2010* (S.I. No. 493 of 2010), reg. 3(1)(c), in effect as per reg. 1(3).
+>
+> **Provisions of Firearms Acts and other Statutes.**
+>
+> 8\. The provisions of the Firearms Acts and other relevant statutes, including provisions relating to powers of the Garda Síochána and Customs Officers, shall extend to a European Firearms Pass or other document to which these Regulations relate and a reference in those enactments to a firearm certificate shall, where the context so admits, include reference to any such document.
+>
+> ...
+
+## PART 1 Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title and commencement.
+
+**1**.— (1) This Act may be cited as the Criminal Justice Act 2006.
+
+(2) This Act, other than *Parts 11* and *13*, shall come into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or different provisions.
+
+(3) *Parts 11* and *13* come into operation on such day or days as the Minister may, after consulting with the Commissioner of the Garda Síochána, appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or different provisions.
+
+(4) The Firearms Acts 1925 to 2000, *Part 5* and *Schedule 1* may be cited together as the Firearms Acts 1925 to 2006 and shall be construed together as one.
+
+(5) The Explosives Act 1875, *Part 6* and *Schedule 2* may be cited together as the Explosives Acts 1875 and 2006 and shall be construed together as one.
+
+(6) The collective citation “the Misuse of Drugs Acts 1977 to 2006” shall include Part II (other than section 7) of the Criminal Justice Act 1999 and *Part 8* (other than *section* *86* ) and those Acts and those Parts (other than the sections specified) shall be construed together as one.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: A table of commencement information ordered by section is available at https://www.irishstatutebook.ie/eli/isbc/2006_26.html.
+>
+> E2: Power pursuant to section exercised (2.07.2010) by *Criminal Justice Act 2006 (Commencement) Order 2010* (S.I. No. 336 of 2010).
+>
+> 2\. The 2 July 2010 is appointed as the day on which the following provisions of the Criminal Justice Act 2006 (No. 26 of 2006) shall come into operation:
+>
+> (a) section 108(4);
+>
+> (b) section 109;
+>
+> (c) section 111 (other than paragraph (a));
+>
+> (d) section 112 (other than paragraph (a)).
+>
+> E3: Power pursuant to section exercised (1.08.2009) by *Criminal Justice Act 2006 (Commencement) Order 2009* (S.I. No. 309 of 2009).
+>
+> 2\. The 1st day of August 2009 is appointed as the day on which sections 28, 30, 32 and 33 of the Criminal Justice Act 2006 (No. 26 of 2006) shall come into operation.
+>
+> E4: Power pursuant to section exercised (1.01.2008) by *Criminal Justice Act 2006 (Commencement) (No. 4) Order 2007* (S.I. 848 of 2007).
+>
+> 2\. The 1st day of January 2008 is appointed as the day on which section 38 of the Criminal Justice Act 2006 (No. 26 of 2006) shall come into operation.
+>
+> E5: Power pursuant to section exercised (10.09.2007) by *Criminal Justice Act 2006 (Commencement) (No. 3) Order 2007* (S.I. No. 600 of 2007).
+>
+> 2\. The 10th day of September 2007 is appointed as the day on which section 132 of the Criminal Justice Act 2006 (No. 26 of 2006) (in so far as it relates to the insertion of section 76A(1)(c) (as amended by section 16 of the Child Care (Amendment) Act 2007 (No. 26 of 2007)) of the Children Act 2001 (No. 24 of 2001)) shall come into operation.
+>
+> E6: Power pursuant to section exercised (20.02.2007 and 1.03.2007) by *Criminal Justice Act 2006 (Commencement) (No. 2) Order 2007* (S.I. No. 65 of 2007).
+>
+> 3\. The 20th day of February 2007 is appointed as the day on which section 148 (in so far as it relates to the insertion of subsections (1) and (9) of section 159B of the Act of 2001) of the Act of 2006 shall come into operation.
+>
+> 4\. The 1st day of March 2007 is appointed as the day on which Parts 12 and 13 of the Act of 2006, other than—
+>
+> (a) section 132 (in so far as it relates to the insertion of section 76A(1)(c) of the Act of 2001), and
+>
+> (b) section 144,
+>
+> shall, in so far as not already in operation, come into operation.
+>
+> E7: Power pursuant to section exercised (1.02.2007) by *Criminal Justice Act 2006 (Commencement) Order 2007* (S.I. No. 25 of 2007).
+>
+> 2\. The 1st day of February 2007 is appointed as the day on which Part 14 of the Criminal Justice Act 2006 (No. 26 of 2006) shall come into operation.
+>
+> E8: Power pursuant to section exercised (1.01.2007) by *Criminal Justice Act 2006 (Commencement) (No. 5) Order 2006* (S.I. No. 689 of 2006).
+>
+> 2\. The 1st day of January 2007 is appointed as the day on which Part 11 of the Criminal Justice Act 2006 (No. 26 of 2006) shall come into operation.
+>
+> E9: Power pursuant to section exercised (14.12.2006) by *Criminal Justice Act 2006 (Commencement) (No. 4) Order 2006* (S.I. No. 622 of 2006).
+>
+> 2\. The 14th day of December 2006 is appointed as the day on which paragraphs (c) and (d) of section 9 of the Criminal Justice Act 2006 (No. 26 of 2006) shall come into operation.
+>
+> E10: Power pursuant to section exercised (1.12.2006) by *Children Act 2001 (Amendments to Part 11) (Commencement) Order 2006* (S.I. No. 590 of 2006).
+>
+> 2\. The 1st day of December 2006 is appointed as the day on which the amendments made to Part 11 of the Children Act 2001 (No. 24 of 2001) in sections 156 and 157 of, and paragraph 30 of Schedule 4 to, the Criminal Justice Act 2006 (No 26 of 2006) shall come into operation.
+>
+> E11: Power pursuant to section exercised (29.11.2006) by *Criminal Justice Act 2006 (Commencement) (No. 3) Order 2006* (S.I. No. 586 of 2006).
+>
+> 2\. The 29th day of November 2006 is appointed as the day on which section 121(d) of the Criminal Justice Act 2006 (No. 26 of 2006) shall come into operation.
+>
+> E12: Power pursuant to section exercised (16.10.2006) by *Criminal Justice Act 2006 (Commencement) (No. 2) Order 2006* (S.I. No. 529 of 2006).
+>
+> 3\. The 16th day of October 2006 is appointed as the day on which the following provisions of the Act of 2006 shall come into operation:
+>
+> (a) sections 120, 121(a), 128, 129 and 130, and
+>
+> (b) section 158 of, and Schedule 4 to, the Act of 2006 in so far as they relate to the amendment of the provision of the Children Act 2001 (No. 24 of 2001) specified at reference number 5 of that Schedule.
+>
+> E13: Power pursuant to section exercised (1.08.2006 and others) by *Criminal Justice Act 2006 (Commencement) Order 2006* (S.I. No. 390 of 2006).
+>
+> 3\. The 1st day of August 2006 is appointed as the day on which—
+>
+> (a) Parts 1 to 8 (other than paragraphs (c) and (d) of section 9 of Part 2 and sections 28, 30, 32, 33, 38, 40, 42, 57, 58, 59, 60, 61 and 65 of Part 5),
+>
+> (b) Part 15, and
+>
+> (c) Schedules 1 and 2,
+>
+> of the Act of 2006 shall come into operation.
+>
+> 4\. The 2nd day of October 2006 is appointed as the day on which—
+>
+> (a) Parts 9 and 10 (other than sections 101(10), 101(12)(c), 102, 103(1)(d), 103(4)(d), 107, 108(4), 109, 111 and 112 of Part 10), and
+>
+> (b) Schedule 3,
+>
+> of the Act of 2006 shall come into operation.
+>
+> 5\. The 1st day of November 2006 is appointed as the day on which sections 42, 57, 58, 59, 60, 61 and 65 of Part 5 of the Act of 2006 shall come into operation.
+
+### 2. Interpretation.
+
+**2**.— (1) In this Act, unless the context otherwise requires—
+
+“Act of 1939” means the Offences Against the State Act 1939;
+
+“Act of 1967” means Criminal Procedure Act 1967;
+
+“Act of 1984” means Criminal Justice Act 1984;
+
+“arrestable offence” has the meaning it has in section 2 (as amended by *section 8*) of the Criminal Law Act 1997;
+
+“Minister” means Minister for Justice, Equality and Law Reform;
+
+“place” includes a dwelling.
+
+(2) In this Act, where the context so requires—
+
+(*a*) a reference to an offence shall be construed as including a reference to a suspected offence, and
+
+(*b*) a reference to the commission of an offence shall be construed as including a reference to the attempted commission of an offence.
+
+### 3. Regulations.
+
+**3**.— (1) The Minister may make regulations prescribing any matter or thing which is referred to in this Act as prescribed or to be prescribed.
+
+(2) Every regulation under this section shall be laid before each House of the Oireachtas as soon as may be after it has been made and, if a resolution annulling the regulation is passed by either such House within the next 21 days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+### 4. Expenses.
+
+**4**.— The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## PART 2 Investigation of Offences — PART 2 — Investigation of Offences
+
+### 5. Designation of place as crime scene.
+
+**5**.— (1) Where a member of the Garda Síochána is in—
+
+(*a*) a public place, or
+
+(*b*) any other place under a power of entry authorised by law or to which or in which he or she was expressly or impliedly invited or permitted to be,
+
+and he or she has reasonable grounds for believing that—
+
+(i) an arrestable offence was, is being, or may have been committed in the place, or
+
+(ii) there is, or may be, in the place evidence of, or relating to, the commission of an arrestable offence that was or may have been committed elsewhere,
+
+he or she may, pending the giving of a direction under *subsection* *(3)* in relation to the place, take such of the steps specified in *subsection* *(4)* as he or she reasonably considers necessary to preserve any evidence of, or relating to, the commission of the offence.
+
+(2) A member of the Garda Síochána who exercises powers under *subsection* *(1)* shall, as soon as reasonably practicable, request or cause a request to be made to a member of the Garda Síochána not below the rank of superintendent to give a direction under *subsection* *(3)* in relation to the place concerned.
+
+(3) A member of the Garda Síochána not below the rank of superintendent may give a direction designating a place as a crime scene if he or she has reasonable grounds for believing that—
+
+(*a*) either—
+
+(i) an arrestable offence was, is being, or may have been committed in the place, or
+
+(ii) there is, or may be, in the place evidence of, or relating to, the commission of an arrestable offence that was, or may have been, committed elsewhere,
+
+and
+
+(*b*) it is necessary to designate the place as a crime scene to preserve, search for and collect evidence of, or relating to, the commission of the offence.
+
+(4) A direction under *subsection* *(3)* shall authorise such members of the Garda Síochána as a member of the Garda Síochána not below the rank of superintendent considers appropriate to take such steps, including all or any of the following, as they reasonably consider necessary to preserve, search for and collect evidence at the crime scene to which the direction relates:
+
+(*a*) delineating and segregating the area of the crime scene by means of notices, markings or barriers;
+
+(*b*) directing a person to leave the crime scene;
+
+(*c*) removing a person who fails to comply with a direction to leave the crime scene;
+
+(*d*) directing a person not to enter the crime scene;
+
+(*e*) preventing a person from entering the crime scene;
+
+(*f*) permitting a person authorised under *subsection* *(5)* to enter the crime scene;
+
+(*g*) preventing a person from removing anything which is, or may be, evidence or otherwise interfering with the crime scene or anything at the scene;
+
+(*h*) securing the crime scene from any unauthorised intrusion or disturbance;
+
+(*i*) searching the crime scene and examining the scene and anything at the scene; and
+
+(*j*) photographing or otherwise recording the crime scene or anything at the scene.
+
+(5) A member of the Garda Síochána not below the rank of superintendent may authorise such persons as he or she considers appropriate to enter a crime scene for a specified purpose and for such period as he or she may determine.
+
+(6) The period for which a direction under *subsection* *(3)* is in force shall not be longer than is reasonably necessary to preserve, search for and collect the evidence concerned.
+
+(7) A direction under *subsection* *(3)* in relation to a place other than a public place shall, subject to *subsections* *(9)* to *(11)* , cease to be in force 24 hours after it is given.
+
+(8) (*a*) A direction under *subsection* *(3)* may be given orally or in writing and, if it is given orally, shall be recorded in writing as soon as reasonably practicable but a failure to record the direction shall not by itself render any evidence inadmissible.
+
+(*b*) A direction under *subsection* *(3)* or, if it is given orally, the written record of it shall be signed by the member of the Garda Síochána giving it, shall describe the place thereby designated as a crime scene, shall state the date and time when it is given, the name and rank of the member giving it and that the member has reasonable grounds for believing that the direction is necessary to preserve, search for and collect the evidence concerned.
+
+(9) If a judge of the District Court is satisfied by information on oath of a member of the Garda Síochána not below the rank of superintendent that—
+
+(*a*) a direction under *subsection* *(3)* designating a place as a crime scene is in force,
+
+(*b*) there are reasonable grounds for believing that there is, or may be, evidence at the crime scene,
+
+(*c*) the continuance of the direction in force is necessary to preserve, search for and collect any such evidence, and
+
+(*d*) the investigation of the offence to which any such evidence relates is being conducted diligently and expeditiously,
+
+the judge may make an order continuing the direction in force for such further period, not exceeding 48 hours, as may be specified in the order commencing upon the expiration of the period for which the direction is in force.
+
+(10) A direction under *subsection* *(3)* may be continued in force under *subsection* *(9)* not more than three times.
+
+(11) If the High Court is satisfied, upon application being made to it in that behalf by a member of the Garda Síochána not below the rank of superintendent, that—
+
+(*a*) a direction under *subsection* *(3)* designating a place as a crime scene is in force,
+
+(*b*) there are reasonable grounds for believing that there is, or may be, evidence at the crime scene,
+
+(*c*) exceptional circumstances exist which warrant the continuance of the direction in force to preserve, search for and collect any such evidence, and
+
+(*d*) the investigation of the offence to which any such evidence relates is being conducted diligently and expeditiously,
+
+the Court may make an order continuing the direction in force for such period as it considers appropriate and that is specified in the order (whether or not the direction has been continued in force under *subsection* *(9)* ) commencing upon the expiration of the period for which the direction is in force.
+
+(12) A member of the Garda Síochána who intends to make an application under *subsection* *(9)* or *(11)* shall, if it is reasonably practicable to do so before the application is made, give notice of it to—
+
+(*a*) the occupier of the place the subject of the application, or
+
+(*b*) if it is not reasonably practicable to ascertain the identity or whereabouts of the occupier or the place is unoccupied, the owner, unless it is not reasonably practicable to ascertain the identity or whereabouts of the owner.
+
+(13) If, on an application under *subsection* *(9)* or *(11)* , the occupier or owner of the place concerned applies to be heard by the Court, an order shall not be made under *subsection* *(9)* or *(11)* , as may be appropriate, unless an opportunity has been given to the person to be heard.
+
+(14) The High Court or a judge of the District Court, as may be appropriate, may attach such conditions as the Court or the judge considers appropriate to an order under *subsection* *(9)* or *(11)* for the purpose of protecting the interests of the occupier or owner of the place which is the subject of the order.
+
+(15) A direction under *subsection* *(3)* shall be deemed to continue in force until the determination of an application under *subsection* *(9)* or *(11)* if—
+
+(*a*) the direction is in force when the application is made, and
+
+(*b*) the direction would, but for this subsection, expire before the determination of the application by reason of the fact that, pursuant to *subsection* *(13)* , an opportunity is given to a person to be heard.
+
+(16) A person who obstructs a member of the Garda Síochána in the exercise of his or her powers under this section or who fails to comply with a direction under this section shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding €3,000 or imprisonment for a term not exceeding 6 months or both.
+
+(17) A member of the Garda Síochána may arrest without warrant any person whom the member reasonably suspects of committing or having committed an offence under *subsection* *(16)* .
+
+(18) Nothing in this section shall prevent—
+
+(*a*) the designation of a place as a crime scene, or
+
+(*b*) a member of the Garda Síochána from taking any of the steps referred to in *subsection* *(4)* at a place so designated,
+
+if the owner or occupier of the place consents to such designation or the taking of any of those steps.
+
+(19) In this section—
+
+“evidence” means evidence of, or relating to, the commission of an arrestable offence;
+
+“preserve”, in relation to evidence, includes any action to prevent the concealment, loss, removal, contamination or destruction of, or damage or alteration to, the evidence.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C4: Section applied with modifications (15.07.2022) by *Institutional Burials Act 2022* (18/2022), s. 37, S.I. No. 356 of 2022.
+>
+> **Principal burial land or ancillary burial land as crime scene**
+>
+> **37.** (1) Where, following a determination by a coroner of the cause of death referred to in *section 36*, a direction is issued under section 5 of the Act of 2006 designating the principal burial land or ancillary burial land on which the human remains were discovered a crime scene, the member of An Garda Síochána who issues that direction shall, at the same time, direct the Director in writing to suspend the relevant works on that land for the period specified in the direction.
+>
+> (2) Where a direction is issued under section 5 of the Act of 2006, that section shall apply subject to the following modifications—
+>
+> (*a*) the reference in subsection (7) of that section to 24 hours shall be construed as a reference to 7 days,
+>
+> (*b*) the reference in subsection (9) of that section to 48 hours shall be construed as a reference to 14 days,
+>
+> (*c*) the reference in subsection (12)(a) of that section to the occupier of the place shall be construed as a reference to the Director,
+>
+> (*d*) subsection (12)(b) of that section shall not apply,
+>
+> (*e*) a reference in subsection (14) of that section to the purpose of protecting the interests of the occupier or owner of the place which is the subject of the order shall be construed as a reference to the purpose of protecting the interests of the Director in performing his or her functions in relation to the land which is the subject of the order,
+>
+> (*f*) a reference in subsection (18) of that section to the owner or occupier of the place shall be construed as a reference to the Director, and
+>
+> (*g*) any other necessary modifications.
+>
+> (3) In this section, “Act of 2006” means the Criminal Justice Act 2006.
+
+### 6. Search warrants in relation to arrestable offences.
+
+**6**.— (1) The Criminal Justice (Miscellaneous Provisions) Act 1997 is amended by—
+
+(*a*) the substitution of the following section for section 10:
+
+“Search warrants in relation to arrestable offences.
+
+10.— (1) If a judge of the District Court is satisfied by information on oath of a member not below the rank of sergeant that there are reasonable grounds for suspecting that evidence of, or relating to, the commission of an arrestable offence is to be found in any place, the judge may issue a warrant for the search of that place and any persons found at that place.
+
+(2) A search warrant under this section shall be expressed, and shall operate, to authorise a named member, accompanied by such other members or persons or both as the member thinks necessary—
+
+(*a*) to enter, at any time or times within one week of the date of issue of the warrant, on production if so requested of the warrant, and if necessary by the use of reasonable force, the place named in the warrant,
+
+(*b*) to search it and any persons found at that place, and
+
+(*c*) to seize anything found at that place, or anything found in the possession of a person present at that place at the time of the search, that that member reasonably believes to be evidence of, or relating to, the commission of an arrestable offence.
+
+(3) A member acting under the authority of a search warrant under this section may—
+
+(*a*) require any person present at the place where the search is being carried out to give to the member his or her name and address, and
+
+(*b*) arrest without warrant any person who—
+
+(i) obstructs or attempts to obstruct the member in the carrying out of his or her duties,
+
+(ii) fails to comply with a requirement under paragraph (*a*), or
+
+(iii) gives a name or address which the member has reasonable cause for believing is false or misleading.
+
+(4) A person who obstructs or attempts to obstruct a member acting under the authority of a search warrant under this section, who fails to comply with a requirement under subsection (3)(*a*) or who gives a false or misleading name or address to a member shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding €3,000 or imprisonment for a term not exceeding 6 months or both.
+
+(5) The power to issue a warrant under this section is without prejudice to any other power conferred by statute to issue a warrant for the search of any place or person.
+
+(6) In this section—
+
+‘arrestable offence’ has the meaning it has in section 2 (as amended by *section* *8* of the *Criminal Justice Act 2006*) of the Criminal Law Act 1997;
+
+‘place’ means a physical location and includes—
+
+(*a*) a dwelling, residence, building or abode,
+
+(*b*) a vehicle, whether mechanically propelled or not,
+
+(*c*) a vessel, whether sea-going or not,
+
+(*d*) an aircraft, whether capable of operation or not, and
+
+(*e*) a hovercraft.”,
+
+and
+
+(*b*) the deletion of the First Schedule.
+
+(2) This section shall not affect the validity of a warrant issued under section 10 of the Criminal Justice (Miscellaneous Provisions) Act 1997 before the commencement of this section and such a warrant shall continue in force in accordance with its terms after such commencement.
+
+### 7. Power to seize and retain evidence.
+
+**7**.— (1) Where a member of the Garda Síochána who is in—
+
+(*a*) a public place, or
+
+(*b*) any other place under a power of entry authorised by law or to which or in which he or she was expressly or impliedly invited or permitted to be,
+
+finds or comes into possession of any thing, and he or she has reasonable grounds for believing that it is evidence of, or relating to, the commission of an arrestable offence, he or she may seize and retain the thing for use as evidence in any criminal proceedings for such period from the date of seizure as is reasonable or, if proceedings are commenced in which the thing so seized is required for use in evidence, until the conclusion of the proceedings, and thereafter the Police (Property) Act 1897 shall apply to the thing so seized in the same manner as that Act applies to property which has come into the possession of the Garda Síochána in the circumstances mentioned in that Act.
+
+(2) If it is represented or appears to a member of the Garda Síochána proposing to seize or retain a document under this section that the document was, or may have been, made for the purpose of obtaining, giving or communicating legal advice from or by a barrister or solicitor, the member shall not seize or retain the document unless he or she suspects with reasonable cause that the document was not made, or is not intended, solely for any of the purposes aforesaid.
+
+(3) The power under this section to seize and retain evidence is without prejudice to any other power conferred by statute or otherwise exercisable by a member of the Garda Síochána to seize and retain evidence of, or relating to, the commission or attempted commission of an offence.
+
+### 8. Arrestable offences.
+
+**8**.— Section 2(1) of the Criminal Law Act 1997 is amended in the definition of “arrestable offence” by the substitution of “under or by virtue of any enactment or the common law” for “under or by virtue of any enactment”.
+
+### 9. Amendment of section 4 of Act of 1984.
+
+**9**.— Section 4 of the Act of 1984 is amended—
+
+(*a*) in subsection (1), by the substitution of “under or by virtue of any enactment or the common law” for “under or by virtue of any enactment”,
+
+(*b*) by the substitution of the following subsection for subsection (2):
+
+“(2) (*a*) Where a member of the Garda Síochána arrests without warrant, whether in a Garda Síochána station or elsewhere, a person whom he or she, with reasonable cause, suspects of having committed an offence to which this section applies, the person—
+
+(i) if not already in a Garda Síochána station, may be taken to and detained in a Garda Síochána station, or
+
+(ii) if he or she is arrested in a Garda Síochána station, may be detained in the station,
+
+for such period as is authorised by this section if the member of the Garda Síochána in charge of the station to which the person is taken on arrest or in which he or she is arrested has at the time of the person’s arrival at the station or his or her arrest in the station, as may be appropriate, reasonable grounds for believing that his or her detention is necessary for the proper investigation of the offence.
+
+(*b*) Where a member of the Garda Síochána arrests a person pursuant to an authority of a judge of the District Court under section 10(1), the person may be taken to and detained in a Garda Síochána station for such period as is authorised by this section if the member of the Garda Síochána in charge of the station to which the person is taken on arrest has at the time of the person’s arrival at the station reasonable grounds for believing that his or her detention is necessary for the proper investigation of the offence.”,
+
+(*c*) in subsection (3)—
+
+(i) by the insertion of the following paragraph after paragraph (*b*):
+
+“(*bb*) A member of the Garda Síochána not below the rank of chief superintendent may direct that a person detained pursuant to a direction under paragraph (*b*) be detained for a further period not exceeding twelve hours if he or she has reasonable grounds for believing that such further detention is necessary for the proper investigation of the offence concerned.”,
+
+(ii) in paragraph (*c*), by the substitution of “paragraph (*b*) or (*bb*)” for “paragraph (*b*)”,
+
+and
+
+(*d*) in subsection (9), by the substitution of “for longer than twenty-four hours” for “for longer than twelve hours”.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E14: *Criminal Justice Act 1984 (Treatment of persons in custody in Garda Síochána Stations) Regulations 1987* (S.I. No. 119 of 1987) amended (14.12.2006) by *Criminal Justice Act 1984 (Treatment of persons in custody in Garda Síochána Stations) (Amendment) Regulations 2006* (S.I. No. 641 of 2006) to reflect amendments made by this section.
+
+### 10. Amendment of Criminal Justice (Drug Trafficking) Act 1996.
+
+**10**.— The Criminal Justice (Drug Trafficking) Act 1996 is amended—
+
+(*a*) in section 2—
+
+(i) in subsection (1), by the substitution of the following paragraph for paragraph (*a*):
+
+“(*a*) Where a member of the Garda Síochána arrests without warrant, whether in a Garda Síochána station or elsewhere, a person (an ‘arrested person’) whom he or she, with reasonable cause, suspects of having committed a drug trafficking offence, the arrested person—
+
+(i) if not already in a Garda Síochána station, may be taken to and detained in a Garda Síochána station, or
+
+(ii) if he or she is arrested in a Garda Síochána station, may be detained in the station,
+
+for a period or periods authorised by subsection (2) if the member of the Garda Síochána in charge of the station to which the arrested person is taken on arrest or in which he or she is arrested has at the time of the arrested person’s arrival at the station or his or her arrest in the station, as may be appropriate, reasonable grounds for believing that his or her detention is necessary for the proper investigation of the offence.”,
+
+(ii) by the insertion of the following subsection after subsection (7):
+
+“(7A) Notwithstanding subsections (2) and (7), if—
+
+(*a*) an application is made under subsection (2) for a warrant authorising the detention for a further period of a person detained under that subsection, and
+
+(*b*) the period of detention under that subsection has not expired at the commencement of the hearing of the application but would, but for this subsection, expire during that hearing,
+
+it shall be deemed not to expire until the determination of the application.”,
+
+and
+
+(*b*) in section 4(3), by the insertion of the following paragraph as paragraph (*a*) and the re-lettering of paragraphs (*a*) and (*b*) as paragraphs (*b*) and (*c*):
+
+“(*a*) the substitution for paragraph (*a*) in subsection (1) of the following paragraph:
+
+‘(*a*) Where a member of the Garda Síochána arrests a person (an “arrested person”) under a warrant issued pursuant to section 4(1), the arrested person may be taken to and detained in a Garda Síochána station for a period or periods authorised by subsection (2) if the member of the Garda Síochána in charge of the station to which the arrested person is taken on arrest has at the time of the arrested person’s arrival at the station reasonable grounds for believing that his or her detention is necessary for the proper investigation of the offence.’.”.
+
+### 11. Amendment of section 42 of Criminal Justice Act 1999.
+
+**11**.— Section 42 of the Criminal Justice Act 1999 is amended—
+
+(*a*) in subsection (2), by the deletion of subsection (2) and substitution with the following:
+
+“(2) A member of an Garda Síochána may arrest a prisoner on the authority of a judge of the District Court who is satisfied, on information supplied on oath by a member of the Garda Síochána not below the rank of superintendent, that the following conditions are fulfilled:
+
+(*a*) there are reasonable grounds for suspecting that the prisoner has committed an offence or offences other than the offence or offences in connection with which he or she is imprisoned;
+
+(*b*) the arrest of the prisoner is necessary for the proper investigation of the offence or offences that he or she is suspected of having committed; and
+
+(*c*) where the prisoner has previously been arrested for the same offence or offences, whether prior to his or her imprisonment or under this section, further information has come to the knowledge of the Garda Síochána since that arrest as to the prisoner’s suspected participation in the offence or offences for which his or her arrest is sought.”,
+
+and
+
+(*b*) in subsection (5)—
+
+(i) in paragraph (*a*), by the substitution of “the offence or offences in respect of which he or she was arrested” for “the offence in respect of which he or she was arrested”, and
+
+(ii) in paragraph (*b*), by the substitution of “the proper investigation of that offence or those offences” for “the proper investigation of that offence”.
+
+### 12. Power of Garda Síochána to photograph arrested persons.
+
+**12**.— (1) Where a person is arrested by a member of the Garda Síochána under any power conferred on him or her by law, the member may photograph the person or cause him or her to be photographed in a Garda Síochána station as soon as may be after his or her arrest for the purpose of assisting with the identification of him or her in connection with any proceedings that may be instituted against him or her for the offence in respect of which he or she is arrested.
+
+(2) The power conferred by *subsection* *(1)* shall not be exercised except on the authority of a member of the Garda Síochána not below the rank of sergeant.
+
+(3) An authority under *subsection* *(2)* may be given orally but, if it is given orally, it shall be confirmed in writing as soon as practicable.
+
+F1[(4) Sections 8 to 8I of the Act of 1984 shall, with the following and any other necessary modifications, apply to photographs taken of a person pursuant to this section as they apply to photographs taken of a person pursuant to section 6 or 6A of the Act of 1984:
+
+(a) references to an offence to which section 4 of the Act of 1984 applies shall be construed as references to an offence in respect of which a person may be arrested by a member of the Garda Síochána under any power conferred on him or her by law;
+
+(b) references to section 6 or 6A of the Act of 1984 shall be construed as references to this section; and
+
+(c) references to the detention of the person under section 4 of the Act of 1984 shall be construed as references to the arrest of the person by a member of the Garda Síochána under any power conferred on him or her by law.]
+
+(5) A person who refuses to allow himself or herself to be photographed pursuant to this section shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding €3,000 or imprisonment for a term not exceeding 6 months or both.
+
+(6) The power conferred by this section is without prejudice to any other power exercisable by a member of the Garda Síochána to photograph a person.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Substituted (20.11.2015) by *Criminal Justice (Forensic Evidence and DNA Database System) Act 2014* (11/2014), s. 107, S.I. No. 508 of 2015.
+>
+> **Editorial Notes:**
+>
+> E15: A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 13. Amendment of Act of 1984.
+
+**13**.— The Act of 1984 is amended—
+
+(*a*) in section 6(4), by the substitution of “€3,000” for “£1,000”,
+
+(*b*) in section 8—
+
+(i) in subsection (2), by the substitution of “within the period of twelve months” for “within the period of six months”,
+
+(ii) by the substitution of the following subsections for subsection (3):
+
+“(3) Where proceedings have been so instituted and—
+
+(*a*) the person is acquitted,
+
+(*b*) the charge against the person in respect of the offence concerned is dismissed under section 4E of the Criminal Procedure Act 1967, or
+
+(*c*) the proceedings are discontinued,
+
+the destruction shall be carried out on the expiration of a period of 21 days after the acquittal, dismissal or discontinuance, as the case may be.
+
+(3A) For the purposes of subsection (3)(*b*), a charge against the person in respect of the offence concerned shall be regarded as dismissed when—
+
+(*a*) the time for bringing an appeal against the dismissal has expired,
+
+(*b*) any such appeal has been withdrawn or abandoned, or
+
+(*c*) on any such appeal, the dismissal is upheld.”,
+
+and
+
+(iii) in subsection (7)—
+
+(I) by the substitution of “for a period not exceeding twelve months” for “for a period not exceeding six months”, and
+
+(II) by the substitution of “for the purpose of proceedings or further proceedings” for “for the purpose of further proceedings”,
+
+and
+
+(*c*) in section 28(4), by the substitution of “€3,000” for “£1,500”.
+
+### 14. Amendment of Criminal Justice (Forensic Evidence) Act 1990.
+
+**14**.— The Criminal Justice (Forensic Evidence) Act 1990 is amended—
+
+(*a*) in section 2—
+
+(i) in subsection (1)—
+
+(I) by the substitution of “the provisions of subsections (4) to (8A)” for “the provisions of subsections (4) to (8)”,
+
+(II) by the substitution of the following paragraph for paragraph (*b*):
+
+“(*b*) a swab from any part of the body including the mouth but not from any other body orifice or a genital region,”,
+
+(III) by the substitution of the following paragraph for paragraph (*c*):
+
+“(*c*) a swab from a body orifice, other than the mouth, or a genital region,”,
+
+(IV) in paragraph (*e*), by the deletion of “or mouth”,
+
+(ii) by the insertion of the following subsection after subsection (1):
+
+“(1A) A reference in subsection (1) of this section to the mouth shall be read as including a reference to the inside of the mouth.”,
+
+(iii) in subsection (2), by the substitution of “the provisions of subsections (3) to (8A)” for “the provisions of subsections (3) to (8)”,
+
+(iv) in subsection (4)(*b*), by the substitution of “subparagraph (i), (ii) or (iii) of paragraph (*a*) of subsection (1) of this section” for “subparagraph (i), (ii), (iii) or (iv) of paragraph (*a*) of subsection (1) of this section”,
+
+(v) in subsection (5), by the insertion in paragraph (*a*)(ii) after “applies” of “or a drug trafficking offence within the meaning of section 3(1) of the Criminal Justice Act 1994”,
+
+(vi) by the insertion of the following subsection after subsection (8):
+
+“(8A) Where a sample of hair other than pubic hair is taken in accordance with this section—
+
+(*a*) the sample may be taken by plucking hairs with their roots and, in so far as it is reasonably practicable, the hairs shall be plucked singly, and
+
+(*b*) no more hairs shall be plucked than the person taking the sample reasonably considers to be necessary to constitute a sufficient sample for the purpose of forensic testing.”,
+
+(vii) in subsection (9), by the substitution of “€3,000” for “£1,000”,
+
+(*b*) in section 4—
+
+(i) in subsection (2), by the substitution of “within twelve months from the taking of the sample” for “within six months from the taking of the sample”, and
+
+(ii) by the substitution of the following subsections for subsection (3):
+
+“(3) Where proceedings have been so instituted and—
+
+(*a*) the person is acquitted,
+
+(*b*) the charge against the person in respect of the offence concerned is dismissed under section 4E of the Criminal Procedure Act 1967, or
+
+(*c*) the proceedings are discontinued,
+
+the destruction of the record and the sample identified by such record shall be carried out on the expiration of twenty-one days after the acquittal, dismissal or discontinuance, as the case may be, unless an order has been made under subsection (5) of this section.
+
+(3A) For the purposes of subsection (3)(*b*) of this section, a charge against the person in respect of the offence concerned shall be regarded as dismissed when—
+
+(*a*) the time for bringing an appeal against the dismissal has expired,
+
+(*b*) any such appeal has been withdrawn or abandoned, or
+
+(*c*) on any such appeal, the dismissal is upheld.”,
+
+(*c*) in section 5(2), by the deletion of “and” at the end of paragraph (*a*) and the insertion of the following paragraph after paragraph (*a*):
+
+“(*aa*) make provision for—
+
+(i) the manner in which samples may be taken,
+
+(ii) the location and physical conditions in which samples may be taken, and
+
+(iii) the persons (including members of the Garda Síochána), and the number of such persons, who may be present when samples are taken, and”.
+
+## PART 3 Admissibility of Certain Witness Statements — PART 3 — Admissibility of Certain Witness Statements
+
+### 15. Definitions (Part 3).
+
+**15**.— In this Part—
+
+“audiorecording” includes a recording, on any medium, from which sound may by any means be produced, and cognate words shall be construed accordingly;
+
+“proceedings” includes proceedings under section 4E (application by accused for dismissal of charge) of the Act of 1967 where oral evidence (within the meaning of subsection (5) of that section) is given;
+
+“statement” means a statement the making of which is duly proved and includes—
+
+(*a*) any representation of fact, whether in words or otherwise,
+
+(*b*) a statement which has been videorecorded or audiorecorded, and
+
+(*c*) part of a statement;
+
+“statutory declaration” includes a statutory declaration made under *section* *17* or *18*;
+
+“videorecording” includes a recording, on any medium, from which a moving image may by any means be produced, together with the accompanying soundrecording, and cognate words shall be construed accordingly.
+
+### 16. Admissibility of certain witness statements.
+
+**16**.— (1) Where a person has been sent forward for trial for an arrestable offence, a statement relevant to the proceedings made by a witness (in this section referred to as “the statement”) may, with the leave of the court, be admitted in accordance with this section as evidence of any fact mentioned in it if the witness, although available for cross-examination—
+
+(*a*) refuses to give evidence,
+
+(*b*) denies making the statement, or
+
+(*c*) gives evidence which is materially inconsistent with it.
+
+(2) The statement may be so admitted if—
+
+(*a*) the witness confirms, or it is proved, that he or she made it,
+
+(*b*) the court is satisfied—
+
+(i) that direct oral evidence of the fact concerned would be admissible in the proceedings,
+
+(ii) that it was made voluntarily, and
+
+(iii) that it is reliable,
+
+and
+
+(*c*) either—
+
+(i) the statement was given on oath or affirmation or contains a statutory declaration by the witness to the effect that the statement is true to the best of his or her knowledge or belief, or
+
+(ii) the court is otherwise satisfied that when the statement was made the witness understood the requirement to tell the truth.
+
+(3) In deciding whether the statement is reliable the court shall have regard to—
+
+(*a*) whether it was given on oath or affirmation or was videorecorded, or
+
+(*b*) if *paragraph* *(a)* does not apply in relation to the statement, whether by reason of the circumstances in which it was made, there is other sufficient evidence in support of its reliability,
+
+and shall also have regard to—
+
+(i) any explanation by the witness for refusing to give evidence or for giving evidence which is inconsistent with the statement, or
+
+(ii) where the witness denies making the statement, any evidence given in relation to the denial.
+
+(4) The statement shall not be admitted in evidence under this section if the court is of opinion—
+
+(*a*) having had regard to all the circumstances, including any risk that its admission would be unfair to the accused or, if there are more than one accused, to any of them, that in the interests of justice it ought not to be so admitted, or
+
+(*b*) that its admission is unnecessary, having regard to other evidence given in the proceedings.
+
+(5) In estimating the weight, if any, to be attached to the statement regard shall be had to all the circumstances from which any inference can reasonably be drawn as to its accuracy or otherwise.
+
+(6) This section is without prejudice to sections 3 to 6 of the Criminal Procedure Act 1865 and section 21 (proof by written statement) of the Act of 1984.
+
+F2[(7) A reference in *subsection (1)* to a person being sent forward for trial shall, in relation to proceedings before a Special Criminal Court, include, where appropriate, a reference to such a person being charged before that court.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F2: Inserted (1.11.2023) by *Criminal Justice (Miscellaneous Provisions) Act 2023* (24/2023), s. 73(a), S.I. No. 525 of 2023.
+
+### 17. Witness statements made to members of Garda Síochána.
+
+**17**.— (1) A person who makes a statement to a member of the Garda Síochána during the investigation of an arrestable offence (not being a person who is at that time suspected by any such member of having committed it) may make a statutory declaration that the statement is true to the best of the person’s knowledge and belief.
+
+(2) For the purposes of section 1(1)(*d*) of the Statutory Declarations Act 1938 a member of the Garda Síochána may take and receive a statutory declaration made under *subsection (1)*.
+
+(3) Instead of taking and receiving such a statutory declaration the member may take the person’s statement on oath or affirmation and for that purpose may administer the oath or affirmation to him or her.
+
+### 18. Other witness statements.
+
+**18**.— (1) In this section—
+
+“competent person” means a person employed by a public authority and includes an immigration officer who is deemed to have been appointed as such an officer under section 3 of the Immigration Act 2004;
+
+“public authority” means—
+
+(*a*) a Minister of the Government,
+
+(*b*) the Commissioners of Public Works in Ireland,
+
+(*c*) a local authority within the meaning of the Local Government Act 2001,
+
+(*d*) the Health Service Executive,
+
+(*e*) a harbour authority within the meaning of the Harbours Act 1946,
+
+(*f*) a board or other body (not being a company) established by or under statute,
+
+(*g*) a company in which all the shares are held by, or on behalf of, or by directors appointed by, a Minister of the Government, or
+
+(*h*) a company in which all the shares are held by a board or other body referred to in *paragraph* *(f)* , or by a company referred to in *paragraph* *(g)* .
+
+(2) A person who makes a statement to a competent person in the course of the performance of the competent person’s official duties may make a statutory declaration that the statement is true to the best of the person’s knowledge and belief.
+
+(3) For the purposes of section 1(1)(*d*) of the Statutory Declarations Act 1938 a competent person may take and receive a statutory declaration made under *subsection* *(2)* .
+
+### 19. Regulations concerning certain witness statements which are recorded.
+
+**19**.— (1) The Minister may, in relation to any statements of witnesses that may be videorecorded or audiorecorded by members of the Garda Síochána while investigating offences, make provision in regulations for—
+
+(*a*) the manner in which any such recordings are to be made and preserved, and
+
+(*b*) the period for which they are to be retained.
+
+(2) Any failure by a member of the Garda Síochána to comply with a provision of the regulations shall not of itself—
+
+(*a*) render the member liable to civil or criminal proceedings, or
+
+(*b*) without prejudice to the power of a court to exclude evidence at its discretion, render inadmissible in evidence anything said during the recording concerned.
+
+### 20. Amendment of section 4E of Act of 1967.
+
+**20**.— Section 4E (application by accused for dismissal of charge) of the Act of 1967 is amended in subsection (5)(*b*)—
+
+(*a*) by the substitution of “section 4F, or” for “section 4F.” in subparagraph (ii), and
+
+(*b*) by the addition of the following subparagraph:
+
+“(iii) any other videorecording, or an audiorecording, which may be admitted by the trial court as evidence of any fact stated in it.”.
+
+## PART 4 Appeals in Certain Criminal Proceedings — PART 4 — Appeals in Certain Criminal Proceedings
+
+### 21. Reference of question of law to Supreme Court.
+
+**21**.— The Act of 1967 is amended by the substitution of the following section for section 34:
+
+“Reference of question of law to Supreme Court.
+
+34.— (1) Where a person tried on indictment is acquitted (whether in respect of the whole or part of the indictment) the Attorney General in any case or, if he or she is the prosecuting authority in the trial, the Director of Public Prosecutions may, without prejudice to the verdict or decision in favour of the accused person, refer a question of law arising during the trial to the Supreme Court for determination.
+
+(2) Where a question of law is referred to the Supreme Court under subsection (1), the statement of the question shall be settled by the Attorney General or the Director of Public Prosecutions, as may be appropriate, after consultation with the trial judge concerned or, in the case of a Special Criminal Court, with the member of that Court who pronounced the decision of the Court in the trial concerned following consultation by that member with the other members of the Court concerned and shall include any observations which the judge or that member, as may be appropriate, may wish to add.
+
+(3) For the purpose of considering a question referred to it under this section, the Supreme Court shall hear argument—
+
+(*a*) by, or by counsel on behalf of, the Attorney General or the Director of Public Prosecutions, as may be appropriate,
+
+(*b*) if the acquitted person so wishes, by counsel on his or her behalf or, with the leave of the Court, by the acquitted person himself or herself, and
+
+(*c*) if counsel are assigned under subsection (4), such counsel.
+
+(4) The Supreme Court shall assign counsel to argue in support of the decision if—
+
+(*a*) the acquitted person waives his or her right to be represented or heard under subsection (3)(*b*), or
+
+(*b*) notwithstanding the fact that the acquitted person exercises his or her right to be represented or heard under subsection (3)(*b*), the Court considers it desirable in the public interest to do so.
+
+(5) The Supreme Court shall ensure, in so far as it is reasonably practicable to do so, that the identity of the acquitted person in proceedings under this section is not disclosed in connection with the proceedings unless the person agrees to the use of his or her name in the proceedings.
+
+(6) If the acquitted person wishes to be represented in proceedings before the Supreme Court under this section and a legal aid (Supreme Court) certificate is granted under subsection (7), or is deemed to have been granted under subsection (8), in respect of him or her, he or she shall be entitled to free legal aid in the preparation and presentation of any argument that he or she wishes to make to the Court and to have a solicitor and counsel assigned to him or her for that purpose in the manner prescribed by regulations under section 10 of the Criminal Justice (Legal Aid) Act 1962.
+
+(7) The acquitted person may, in relation to proceedings under this section, apply for a legal aid (Supreme Court) certificate to the Supreme Court either—
+
+(*a*) by letter addressed to the registrar of the Supreme Court setting out the facts of the case and the grounds of the application, or
+
+(*b*) to the Supreme Court itself,
+
+and the Court shall grant the certificate if (but only if) it appears to the Court that the means of the person are insufficient to enable him or her to obtain legal aid.
+
+(8) If a legal aid (trial on indictment) certificate was granted in respect of the acquitted person in relation to the trial on indictment concerned, a legal aid (Supreme Court) certificate shall be deemed to have been granted in respect of him or her in relation to proceedings under this section.
+
+(9) In this section ‘legal aid (Supreme Court) certificate’ and ‘legal aid (trial on indictment) certificate’ have the meanings they have in the Criminal Justice (Legal Aid) Act 1962.”.
+
+### 22. Decision of Court of Criminal Appeal final save on certificate of Court, Attorney General or Director of Public Prosecutions.
+
+**22**.— The Courts of Justice Act 1924 is amended by the substitution of the following section for section 29:
+
+“Decision of Court of Criminal Appeal final save on certificate of Court, Attorney General or Director of Public Prosecutions.
+
+29.— (1) No appeal shall lie to the Supreme Court from a determination by the Court of Criminal Appeal of any appeal or other matter except in accordance with this section.
+
+(2) A person the subject of an appeal or other matter determined by the Court of Criminal Appeal may appeal the decision of that Court to the Supreme Court if that Court or the Attorney General in any case or, if he or she is the prosecuting authority in the matter, the Director of Public Prosecutions certifies that the decision involves a point of law of exceptional public importance and that it is desirable in the public interest that the person should take an appeal to the Supreme Court.
+
+(3) The Attorney General in any case or, if he or she is the prosecuting authority in the matter, the Director of Public Prosecutions may, in relation to an appeal or other matter determined by the Court of Criminal Appeal and without prejudice to the decision in favour of the accused person, appeal the decision of that Court to the Supreme Court if that Court or the Attorney General in any case or, if he or she is the prosecuting authority in the matter, the Director of Public Prosecutions certifies that the decision involves a point of law of exceptional public importance and that it is desirable in the public interest that the Attorney General or the Director of Public Prosecutions, as may be appropriate, should take an appeal to the Supreme Court.
+
+(4) The Supreme Court shall, in an appeal under subsection (3) of this section, hear argument—
+
+(*a*) by, or by counsel on behalf of, the Attorney General or the Director of Public Prosecutions, as may be appropriate,
+
+(*b*) if the accused person so wishes, by counsel on his or her behalf or, with the leave of the Court, by the accused person himself or herself, and
+
+(*c*) if counsel are assigned under subsection (5) of this section, such counsel.
+
+(5) The Supreme Court shall, in an appeal under subsection (3) of this section, assign counsel to argue in support of the decision if—
+
+(*a*) the accused person waives his or her right to be represented or heard under subsection (4)(*b*) of this section, or
+
+(*b*) notwithstanding the fact that the accused person exercises his or her right to be represented or heard under subsection (4)(*b*) of this section, the Court considers it desirable in the public interest to do so.
+
+(6) The Supreme Court shall ensure, in so far as it is reasonably practicable to do so, that the identity of the accused person in an appeal under subsection (3) of this section is not disclosed in connection with the appeal unless the person agrees to the use of his or her name in the appeal.
+
+(7) If the accused person wishes to be represented in an appeal under subsection (3) of this section and a legal aid (Supreme Court) certificate is granted under subsection (8) of this section, or is deemed to have been granted under subsection (9) of this section, in respect of him or her, he or she shall be entitled to free legal aid in the preparation and presentation of any argument that he or she wishes to make to the Court and to have a solicitor and counsel assigned to him or her for that purpose in the manner prescribed by regulations under section 10 of the Criminal Justice (Legal Aid) Act 1962.
+
+(8) The accused person may, in relation to an appeal under subsection (3) of this section, apply for a legal aid (Supreme Court) certificate to the Supreme Court either—
+
+(*a*) by letter addressed to the registrar of the Supreme Court setting out the facts of the case and the grounds of the application, or
+
+(*b*) to the Supreme Court itself,
+
+and the Court shall grant the certificate if (but only if) it appears to the Court that the means of the person are insufficient to enable him or her to obtain legal aid.
+
+(9) If a legal aid (trial on indictment) certificate was granted in respect of the accused person in relation to the trial on indictment concerned, a legal aid (Supreme Court) certificate shall be deemed to have been granted in respect of him or her in relation to an appeal under subsection (3) of this section.
+
+(10) In this section ‘legal aid (Supreme Court) certificate’ and ‘legal aid (trial on indictment) certificate’ have the meanings they have in the Criminal Justice (Legal Aid) Act 1962.”.
+
+### 23. Amendment of section 2(2) of Criminal Justice Act 1993.
+
+**23**.— Section 2(2) of the Criminal Justice Act 1993 is amended by the insertion of “, or such longer period not exceeding 56 days as the Court may, on application to it in that behalf, determine,” after “within 28 days”.
+
+### 24. Appeal against order for costs.
+
+**24**.— (1) Where a person tried on indictment is acquitted (whether in respect of the whole or part of the indictment) the Attorney General or the Director of Public Prosecutions, as may be appropriate, may appeal against an order for costs made by the trial court against the Attorney General or the Director of Public Prosecutions in favour of the accused person to the Court of Criminal Appeal.
+
+(2) An appeal under this section shall be made, on notice given to the accused person, within 28 days, or such longer period not exceeding 56 days as the trial court may, on application to it in that behalf, determine, from the day on which the order is made.
+
+## PART 5 Amendment of Firearms Acts — PART 5 — Amendment of Firearms Acts
+
+### 25. Definitions (Part 5).
+
+**25**.— In this Part “Principal Act” means the Firearms Act 1925.
+
+### 26. Amendment of section 1 of Principal Act.
+
+**26**.— Section 1 of the Principal Act is amended by the substitution of the following subsection for subsection (1):
+
+“(1) In this Act—
+
+“ammunition” (except where used in relation to a prohibited weapon) means ammunition for a firearm and includes—
+
+(*a*) grenades, bombs and other similar missiles, whether or not capable of being used with a firearm,
+
+(*b*) any ingredient or component part of any such ammunition or missile, and
+
+(*c*) restricted ammunition, unless the context otherwise requires;
+
+“Commissioner” means the Commissioner of the Garda Síochána or a member of the Garda Síochána, or members of a particular rank in the Garda Síochána, not below the rank of superintendent appointed in writing by the Commissioner for the purpose of performing any of the Commissioner’s functions under this Act;
+
+“firearm” means—
+
+(*a*) a lethal firearm or other lethal weapon of any description from which any shot, bullet or other missile can be discharged,
+
+(*b*) an air gun (including an air rifle and air pistol) with a muzzle energy greater than one joule or any other weapon incorporating a barrel from which any projectile can be discharged with such a muzzle energy,
+
+(*c*) a crossbow,
+
+(*d*) any type of stun gun or other weapon for causing any shock or other disablement to a person by means of electricity or any other kind of energy emission,
+
+(*e*) a prohibited weapon,
+
+(*f*) any article which would be a firearm under any of the foregoing paragraphs but for the fact that, owing to the lack of a necessary component part or parts, or to any other defect or condition, it is incapable of discharging a shot, bullet or other missile or projectile or of causing a shock or other disablement, as the case may be,
+
+(*g*) except where the context otherwise requires, any component part of any article referred to in any of the foregoing paragraphs and, without prejudice to the generality of the foregoing, the following articles shall be deemed to be such component parts:
+
+(i) telescope sights with a light beam, or telescope sights with an electronic light amplification device or an infra-red device, designed to be fitted to a firearm specified in paragraph (*a*), (*b*), (*c*) or (*e*),
+
+(ii) a silencer designed to be fitted to a firearm specified in paragraph (*a*), (*b*) or (*e*), and
+
+(iii) any object—
+
+(I) manufactured for use as a component in connection with the operation of a firearm, and
+
+(II) without which it could not function as originally designed,
+
+and
+
+(*h*) a device capable of discharging blank ammunition and to be used as a starting gun or blank firing gun,
+
+and includes a restricted firearm, unless otherwise provided or the context otherwise requires;
+
+“firearm certificate” means a firearm certificate granted under this Act and, unless the context otherwise requires, includes a restricted firearm certificate, a firearms training certificate and a firearm certificate granted under the Firearms (Firearm Certificates for Non-Residents) Act 2000;
+
+“firearm dealer” means a person who, by way of trade or business, manufactures, sells, lets on hire, repairs, tests, proves, purchases, or otherwise deals in firearms or ammunition;
+
+“firearms training certificate” has the meaning given to it by section 2A of this Act;
+
+“issuing person”, in relation to the grant or renewal of a firearm certificate, authorisation or licence, means, as the case may be, the Minister, the Commissioner or the superintendent of the Garda Síochána of the district where an applicant for or holder of the firearm certificate, authorisation or licence is residing;
+
+“Minister” means the Minister for Justice, Equality and Law Reform;
+
+“muzzle energy”, in relation to a firearm, means the energy of a projectile discharged by it, measured at its muzzle in joules;
+
+“prohibited weapon” means and includes any weapon of whatever description designed for the discharge of any noxious liquid, noxious gas or other noxious thing, and also any ammunition (whether for any such weapon or any other weapon) which contains or is designed or adapted to contain any noxious liquid, noxious gas or other noxious thing;
+
+“place” includes a dwelling;
+
+“prescribed” means prescribed by regulations made under this Act;
+
+“registered firearms dealer” means a firearms dealer who is for the time being registered in the register of firearms dealers established in pursuance of this Act;
+
+“restricted ammunition” means ammunition which is declared under section 2B(*b*) of this Act to be restricted ammunition;
+
+“restricted firearm” means a firearm which is declared under section 2B(*a*) of this Act to be a restricted firearm;
+
+“working mechanism”, in relation to a firearm, includes the mechanism for loading, cocking and discharging it and ejecting spent ammunition.”.
+
+### 27. Amendment of section 2 of Principal Act.
+
+**27**.— Section 2 of the Principal Act is amended—
+
+(*a*) by the substitution of the following subsection for subsection (2A):
+
+“(2A) A person who is guilty of an offence under this section is liable—
+
+(*a*) in case the firearm is a restricted firearm or the ammunition is restricted ammunition—
+
+(i) on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months or both, and
+
+(ii) on conviction on indictment, to a fine not exceeding €20,000 or imprisonment for a term not exceeding 7 years or both,
+
+and
+
+(*b*) in any other case—
+
+(i) on summary conviction, to a fine not exceeding €2,500 or imprisonment for a term not exceeding 12 months or both, and
+
+(ii) on conviction on indictment, to a fine not exceeding €10,000 or imprisonment for a term not exceeding 5 years or both.”,
+
+(*b*) by the deletion of subsection (2B),
+
+(*c*) in subsection (4)—
+
+(i) by the deletion, in paragraph (*c*), of “this Act” and the insertion of “the Firearms Act 1964”,
+
+(ii) by the substitution of the following paragraph for paragraph (*d*):
+
+“(*d*) the possession, use or carriage of a firearm or ammunition during a competition or target practice at a club, shooting range or any other place that stands authorised under this section or section 4A of this Act”,
+
+and
+
+(iii) by the substitution of the following paragraphs for paragraph (*j*):
+
+“(*j*) the possession or carriage of a firearm or ammunition by a person, or the employee of a person, authorised under section 10(4A) of this Act,
+
+(*k*) the possession, use or carriage of a firearm or ammunition for the purpose of bird control at an airport by an employee or agent of the airport authority who stands authorised in that behalf under this section.”,
+
+(*d*) in subsection (5)(*a*), by the deletion of “or (*h*)” and the insertion of “, (*h*) or (*j*)”,
+
+(*e*) in subsection (5)(*c*), by the deletion of “rifle or other gun”, and
+
+(*f*) by the addition of the following subsection:
+
+“(6) In subsections (3)(*g*) and (4) (other than paragraphs (*d*), (*i*) and (*k*)), references to a firearm or ammunition do not include references to a restricted firearm or restricted ammunition.”.
+
+### 28. New section 2A in Principal Act.
+
+**28**.— The following section is inserted after section 2 of the Principal Act:
+
+“Firearms training certificate.
+
+2A.— (1) The Commissioner, on application and payment of the prescribed fee (if any), may issue to a person over 14 years of age a certificate (in this Act referred to as a “firearms training certificate”) authorising the person to possess a firearm and ammunition (except a restricted firearm and restricted ammunition) only while—
+
+(*a*) carrying and using the firearm for hunting or target shooting—
+
+(i) under the supervision of a specified person over 18 years of age who holds a firearm certificate in respect of it, and
+
+(ii) where the firearm is used for target shooting, on the premises of an authorised rifle or pistol club or at an authorised shooting range or other place that stands authorised under section 2(5) of this Act,
+
+and
+
+(*b*) complying with such other conditions (if any) as the Commissioner may impose in the interests of public safety and security.
+
+(2) Where the applicant is under 16 years of age, the application for a firearms training certificate shall be accompanied by the written consent of the applicant’s parent or guardian.
+
+(3) The firearms training certificate shall be in the prescribed form.
+
+(4) Where such an application is refused, the Commissioner shall inform the applicant in writing and give the reasons for the refusal.
+
+(5) A firearms training certificate shall continue in force for a period of 3 years from the date on which it was granted, unless revoked.
+
+(6) The Commissioner may revoke a firearms training certificate if of opinion that the holder is not complying, or has not complied, with the conditions subject to which the certificate was granted.
+
+(7) A holder of a firearms training certificate who, without reasonable excuse, does not comply with the conditions subject to which the certificate was granted is guilty of an offence and liable on summary conviction—
+
+(*a*) for a first offence, to a fine not exceeding €500, and
+
+(*b*) for any subsequent offence, to a fine not exceeding €1,000.
+
+(8) It is an offence under this Act for the holder of a firearm certificate in respect of the firearm to which the firearms training certificate relates to permit, without reasonable excuse, the holder of that certificate to carry or use the firearm while not under his or her supervision.”.
+
+### 29. New section 2B in Principal Act.
+
+**29**.— The following section is inserted after section 2A of the Principal Act:
+
+“Restricted firearms and ammunition.
+
+2B.— The Minister may, in the interests of public safety and security, by order—
+
+(*a*) declare specified firearms to be restricted firearms for the purposes of this Act by reference to one or more than one of the following criteria:
+
+(i) category;
+
+(ii) calibre;
+
+(iii) working mechanism;
+
+(iv) muzzle energy;
+
+(v) description;
+
+and
+
+(*b*) declare specified ammunition to be restricted ammunition for the purposes of this Act by reference to one or more than one of the following criteria:
+
+(i) category;
+
+(ii) calibre;
+
+(iii) weight;
+
+(iv) kinetic energy;
+
+(v) ballistic co-efficient;
+
+(vi) design;
+
+(vii) composition;
+
+(viii) description.”.
+
+### 30. Substitution of section 3 of Principal Act.
+
+F3[**30**.— The following section is substituted for section 3 of the Principal Act:
+
+"Applications for, and form and effect of, firearm certificates.
+
+3.— (1) Application for a firearm certificate (other than a restricted firearm certificate) shall be made to the Superintendent of the Garda Síochána of the district in which the applicant resides.
+
+(2) Application for a restricted firearm certificate shall be made to the Commissioner.
+
+(3) The application shall be in the prescribed form, and if the applicant intends to use the firearm to hunt and kill exempted wild mammals within the meaning of the Wildlife Act 1976 (other than hares), be accompanied by a current licence to do so under section 29(1) of that Act.
+
+(4) The applicant shall supply in writing any further information that the Superintendent or the Commissioner may require in the performance of his or her functions under this section.
+
+(5) A firearm certificate shall be in the prescribed form and, subject to subsection (6) of this section, shall authorise the person to whom it is granted—
+
+(*a*) to possess, use and carry the firearm specified in the certificate,
+
+(*b*) to purchase ammunition for use in the firearm, and
+
+(*c*) at any one time to possess or carry not more than the amount of ammunition specified in the certificate.
+
+(6) Where the firearm is a shot-gun, the firearm certificate may, subject to subsection (11) of this section, authorise it to be used only for killing animals or birds other than protected wild animals or protected wild birds within the meaning of the Wildlife Act 1976 by the holder of the certificate either (as may be expressed in the certificate)—
+
+(*a*) on land occupied by the holder, or
+
+(*b*) on land occupied by another person.
+
+(7) A firearm certificate which is in force, other than a relevant firearm certificate continued in force under section 3(3) of this Act, as amended by *section 28* of the *Criminal Justice (Miscellaneous Provisions) Act 2009,* shall continue in force for a period of 3 years from the date on which it was granted, unless revoked, and for any further such period for which it may be renewed.
+
+(8) The holder of a firearm certificate may apply for renewal of the certificate within three months before it ceases to be in force.
+
+(9) A decision on an application for a firearm certificate or its renewal shall be given within 3 months from the date on which the applicant submitted a completed application form.
+
+(10) Where the application is refused, the applicant shall be informed in writing of the refusal and the reason for it.
+
+(11) The following provisions have effect in relation to a certificate in the form referred to in subsection (6) of this section (in this subsection referred to as a “limited certificate”):
+
+(*a*) a limited certificate relating to land occupied by a person other than the applicant for the certificate shall not be granted unless the occupier of the land has given the applicant a nomination in writing for holding the certificate;
+
+(*b*) a limited certificate relating to any land shall not be granted in respect of any period if there is a limited certificate relating to the land already in force in respect of that period;
+
+(*c*) a limited certificate shall not be granted unless the whole of the land to which it would relate is occupied by the same person;
+
+(*d*) where a nomination referred to in paragraph (*a*) of this subsection is revoked, the limited certificate to which it related, if then in force, shall not be capable of being renewed.
+
+(12) A firearm in respect of which a firearm certificate is granted shall be marked in the prescribed manner with a number or other prescribed identifying mark, and the number or mark shall be entered on the certificate.
+
+(13) A person who—
+
+(*a*) knowingly gives false or misleading information to an issuing person in relation to an application for a firearm certificate or for its renewal,
+
+(*b*) forges a document purporting to be a firearm certificate or uses or knowingly possesses it, or
+
+(*c*) with intent to deceive, uses or alters a firearm certificate or uses a firearm certificate so altered, is guilty of an offence and liable—
+
+(i) on summary conviction, to a fine not exceeding €2,500 or imprisonment for a term not exceeding 6 months or both, or
+
+(ii) on conviction on indictment, to a fine not exceeding €20,000 or imprisonment for a term not exceeding 5 years or both.
+
+(14) Subsection (13) of this section is without prejudice to Part 4 of the Criminal Justice (Theft and Fraud Offences) Act 2001.
+
+(15) Section 12 (limited use of shot-gun) of the Firearms Act 1964 is repealed."]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F3: Substituted (1.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 43, S.I. No. 310 of 2009.
+>
+> **Editorial Notes:**
+>
+> E16: Previous affecting provision: transitional provisions prescribed pending commencement of section by *Firearms Act 1925* (17/1925), s. 3(3), as amended (27.07.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 28, S.I. No. 293 of 2009.
+
+### 31. New section 3A in Principal Act.
+
+**31**.— The following section is inserted after section 3 of the Principal Act:
+
+“Issue of guidelines etc. by Commissioner.
+
+3A.— (1) The Commissioner may, with the consent of the Minister, from time to time issue guidelines in relation to the practical application and operation of any provision of the *Firearms Acts 1925 to 2006*.
+
+(2) In particular, the Commissioner may issue such guidelines in relation to applications for firearm certificates and authorisations under this Act and to the conditions which may be attached to those certificates and authorisations.”.
+
+### 32. Substitution of section 4 of Principal Act.
+
+**32**.— The following section is substituted for section 4 of the Principal Act:
+
+“Conditions of grant of firearm certificate.
+
+4.— (1) An issuing person shall not grant a firearm certificate unless he or she is satisfied that the applicant complies with the conditions referred to in subsection (2) and will continue to comply with them during the currency of the certificate.
+
+(2) The conditions subject to which a firearm certificate may be granted are that, in the opinion of the issuing person, the applicant—
+
+(*a*) has a good reason for requiring the firearm in respect of which the certificate is applied for,
+
+(*b*) can be permitted to possess, use and carry the firearm and ammunition without danger to the public safety or security or the peace,
+
+(*c*) is not a person declared by this Act to be disentitled to hold a firearm certificate,
+
+(*d*) has provided secure accommodation for the firearm and ammunition at the place where it is to be kept,
+
+(*e*) where the firearm is a rifle or pistol to be used for target shooting, is a member of an authorised rifle or pistol club,
+
+(*f*) has complied with subsection (3),
+
+(*g*) complies with such other conditions (if any) specified in the firearm certificate, including any such conditions to be complied with before a specified date as the issuing person considers necessary in the interests of public safety or security, and
+
+(*h*) in case the application is for a restricted firearm certificate—
+
+(i) has a good and sufficient reason for requiring such a firearm, and
+
+(ii) has demonstrated that the firearm is the only type of weapon that is appropriate for the purpose for which it is required.
+
+(3) An applicant for a firearm certificate shall supply to the issuing person the information requested in the application form and such further information as the issuing person may require in the performance of the person’s functions under this Act, including, in particular—
+
+(*a*) proof of identity,
+
+(*b*) proof of competence in the use of the firearm concerned,
+
+(*c*) written consent for any enquiries in relation to the applicant’s medical history that may be made from a health professional by or on behalf of the issuing person, and
+
+(*d*) names and addresses of two referees who may be contacted to attest to the applicant’s character.
+
+(4) A member of the Garda Síochána may inspect the accommodation for a firearm provided by an applicant for a firearm certificate or require the applicant to provide proof of its existence.
+
+(5) The Minister, in consultation with the Commissioner, may by regulations provide for minimum standards to be complied with by holders of firearm certificates in relation to the provision of secure accommodation for their firearms.
+
+(6) In this section “ health professional” means doctor or psychiatrist registered under any enactments governing the profession concerned or a clinical psychologist.”.
+
+### 33. New section 4A in Principal Act.
+
+**33**.— The following section is inserted after section 4 of the Principal Act:
+
+“Authorisation of rifle or pistol clubs or shooting ranges.
+
+4A.— (1) A rifle or pistol club or the owner or operator of a rifle or pistol shooting range shall not allow any firearm or ammunition to be used or stored on the premises of or at the club or shooting range in connection with target shooting unless an authorisation under this section to do so is in force.
+
+(2) An application for such an authorisation shall be made to the Commissioner in the prescribed form by an officer of the club authorised in that behalf or by the owner or operator of the shooting range.
+
+(3) The application shall be accompanied by—
+
+(*a*) the prescribed fee, and
+
+(*b*) in the case of a shooting range, a firearms range certificate which is in force.
+
+(4) The application form shall contain a copy of any regulations under subsection (13) or of the material part of them.
+
+(5) The applicant shall supply in writing any further information that the Commissioner may need in the performance of his or her functions under this Act.
+
+(6) The Commissioner shall grant an authorisation to the applicant for the use and storage of rifles, pistols and ammunition on the premises of the club or shooting range concerned, or on a specified part of those premises, for the purpose of target shooting only if satisfied—
+
+(*a*) that their use or storage will not endanger public safety or security or the peace,
+
+(*b*) that the club or shooting range is responsibly managed, and
+
+(*c*) in the case of a shooting range, that a firearms range certificate in respect of it is in force.
+
+(7) A decision on the application shall be given within 3 months from the date on which a completed application form was submitted.
+
+(8) The Commissioner may at any time by notice in writing—
+
+(*a*) attach to the authorisation such conditions as he or she thinks necessary for the purpose of securing that the operation of the club or shooting range and the use and storage of rifles, pistols and ammunition on the premises of or at the club or range concerned does not endanger public safety or security or the peace,
+
+(*b*) at any time for that purpose vary any of those conditions, and
+
+(*c*) require that some or all of them be complied with before a specified date.
+
+(9) An authorisation which is in force shall continue in force for a period of 5 years from the date on which it was granted, unless revoked, and for any further such period or periods for which it may be renewed.
+
+(10) A renewal of an authorisation may be applied for within 3 months before the authorisation ceases to be in force.
+
+(11) The Commissioner may, if no longer satisfied in relation to any of the matters mentioned in paragraphs (*a*) to (*c*) of subsection (6), revoke the authorisation of the club or shooting range concerned by notice in writing addressed to the applicant or the person or persons for the time being responsible for its management.
+
+(12) On receipt of such a notice the person or persons so notified shall forthwith surrender to the superintendent of the district in which the club or range is situated the authorisation and any rifles, pistols or ammunition stored on its premises.
+
+(13) The Minister, in consultation with the Commissioner, may by regulations specify minimum standards to be complied with by a rifle or pistol club or shooting range before an authorisation under this section may be granted in respect of it.
+
+(14) The minimum standards shall be determined—
+
+(*a*) in the case of a club, by reference to any or all of the following matters:
+
+(i) security of its premises;
+
+(ii) membership;
+
+(iii) management,
+
+(*b*) in the case of a shooting range, by reference to any or all of the following matters:
+
+(i) security of the range;
+
+(ii) membership;
+
+(iii) management;
+
+(iv) design, construction and maintenance;
+
+(v) types of firearms and ammunition to be used;
+
+(vi) level of competence of persons using the range.
+
+(15) For the purpose of ascertaining whether conditions attached to an authorisation under this section are being complied with, a member of the Garda Síochána authorised in that behalf may, on production if required of the authorisation or a copy of it, enter any premises occupied or used by the club or shooting range concerned and inspect the premises and anything in them.
+
+(16) Any person who by act or omission impedes or obstructs a member of the Garda Síochána in the exercise of the member’s functions under subsection (15) of this section is guilty of an offence and liable on summary conviction to a fine of €1,000 and imprisonment for a term of 3 months or both.
+
+(17) The Commissioner shall cause a register of clubs and shooting ranges for the time being authorised under this section to be established and maintained.
+
+(18) It is an offence—
+
+(*a*) for a club or the owner or operator of a shooting range—
+
+(i) to contravene subsection (1) of this section, or
+
+(ii) without reasonable excuse, not to comply with any conditions attached to an authorisation under this section,
+
+(*b*) for a person not to comply with subsection (12) of this section, or
+
+(*c*) for a person, without reasonable excuse, to participate in the activities of such a club or shooting range for which an authorisation under this section is not in force.
+
+(19) In proceedings against a person for an offence under subsection (18)(*a*)(i) of this section it is a defence to prove that the defendant took reasonable precautions and exercised due diligence to avoid committing the offence.
+
+(20) A person guilty of an offence under subsection (18) of this section is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €2,500 or imprisonment for a term not exceeding 6 months or both, and
+
+(*b*) on conviction on indictment, to a fine not exceeding €20,000 or imprisonment for a term not exceeding 7 years or both.
+
+(21) In this section—
+
+“firearms range certificate” means a certificate issued under section 4B(3)(*a*) of this Act;
+
+“rifle or pistol club” means a club established for the purpose of promoting skill in the use of rifles and pistols for target shooting;
+
+“shooting range” does not include a range or shooting gallery referred to in section 2(4)(*e*) of this Act.”.
+
+### 34. New section 4B in Principal Act.
+
+**34**.— The following section is inserted in the Principal Act after section 4:
+
+“Firearms range inspectors.
+
+4B.— (1) The Minister may by warrant appoint such and so many persons as he or she thinks necessary to be firearms range inspectors and may revoke any such appointment.
+
+(2) It shall be the duty of a firearms range inspector—
+
+(*a*) to examine applications for the authorisation of rifle and pistol shooting ranges, and
+
+(*b*) to inspect rifle and pistol shooting ranges for the purpose of ensuring their compliance with the minimum standards provided for in regulations under section 4A(13) of this Act.
+
+(3) After inspecting a rifle or pistol shooting range, an inspector may—
+
+(*a*) if satisfied that the range complies with those minimum standards, issue a firearms range certificate in respect of it, and
+
+(*b*) if not so satisfied, refuse to issue such a certificate or revoke any such certificate that is in force.
+
+(4) An inspector who suspects, with reasonable cause, that any place is being used for rifle or pistol target shooting may enter and inspect it.
+
+(5) The Minister shall issue to each inspector the warrant of appointment, or a copy of it, for production, on request, when an inspector is exercising any power conferred by this section.
+
+(6) The terms and conditions of appointment of firearms range inspectors shall be determined by the Minister, with the consent of the Minister for Finance.”.
+
+### 35. Substitution of section 5 of Principal Act.
+
+**35**.— The following section is substituted for section 5 of the Principal Act:
+
+“Revocation of firearm certificates.
+
+5.— (1) An issuing person may at any time revoke a firearm certificate granted by the person if satisfied that the holder of the certificate—
+
+(*a*) has not a good reason for requiring the firearm to which the certificate relates,
+
+(*b*) is a person who cannot, without danger to the public safety or security or the peace, be permitted to possess a firearm,
+
+(*c*) is a person who is declared by this Act to be disentitled to hold a firearm certificate,
+
+(*d*) where the firearm certificate limits the purposes for which the firearm to which it relates may be used, is using the firearm for purposes not authorised by the certificate,
+
+(*e*) has not complied with a condition attached to the grant of the certificate, or
+
+(*f*) where the firearm is authorised to be carried or used by a holder of a firearms training certificate, has, without reasonable excuse, permitted the holder of that certificate to carry or use the firearm while not under his or her supervision.
+
+(2) The reason for revoking a firearm certificate shall be communicated in writing by the issuing person to the holder of the certificate.
+
+(3) Where a firearm certificate is revoked or otherwise ceases to be in force, the issuing person may direct in writing that the holder surrender the firearm or ammunition concerned or both to the custody of the superintendent of the district where the holder resides or to a member of the Garda Síochána acting on the superintendent’s behalf.”.
+
+### 36. Amendment of section 6 of Principal Act.
+
+**36**.— Section 6 of the Principal Act is amended—
+
+(*a*) by the deletion of “When a Superintendent revokes a firearm certificate” and the insertion of “When a firearm certificate is revoked”, and
+
+(*b*) in paragraph (*a*), by the insertion of “of the district in which the person resides” after “Superintendent”.
+
+### 37. Amendment of section 8 of Principal Act.
+
+**37**.— Section 8 of the Principal Act is amended in subsection (1) by the deletion of paragraphs (*d*), (*e*), (*f*) and (*g*) and the insertion of the following paragraphs:
+
+“(*d*) any person who has been sentenced to imprisonment for—
+
+(i) an offence under the *Firearms Acts 1925* to *2006*, the Offences Against the State Acts 1939 to 1998 or the Criminal Justice (Terrorist Offences) Act 2005, or
+
+(ii) an offence under the law of another state involving the production or use of a firearm,
+
+and the sentence has not expired or it expired within the previous 5 years,
+
+(*e*) any person who is bound by a recognisance to keep the peace or be of good behaviour, a condition of which is that the person shall not possess, use or carry any firearm or ammunition, and
+
+(*f*) any person not ordinarily resident in the State (except a person who is temporarily so resident) for a period of 6 months before applying for a firearm certificate.”.
+
+### 38. Amendment of section 9 of Principal Act.
+
+**38**.— Section 9 of the Principal Act is amended—
+
+(*a*) by the substitution of the following subsection for subsection (4):
+
+“(4) The registration of a person in the register of firearms dealers shall continue in force for a period of 3 years from the date of the registration, unless previously revoked and, if renewed, for a further period of 3 years from the expiration of that period or, as the case may be, of any subsequent such period for which the registration was renewed.”,
+
+and
+
+(*b*) by the insertion of the following subsections after subsection (9):
+
+“(10) The Minister, after consultation with the Commissioner, may by regulations specify minimum standards to be complied with in relation to premises in which a firearms dealer carries on business or proposes to do so.
+
+(11) The minimum standards shall be determined by reference to—
+
+(*a*) the security of the premises,
+
+(*b*) their safety, and
+
+(*c*) their standard of construction,
+
+and having regard to their use for, as the case may be, the manufacture, repair, testing, proving or sale of firearms or ammunition.
+
+(12) Applicants for renewal of registration shall satisfy the Minister that their premises comply with the minimum standards specified in any regulations under subsection (10) of this section.
+
+(13) Without prejudice to subsection (3) of this section, the following persons are declared to be disentitled to be registered in the register of firearms dealers:
+
+(*a*) a person under the age of 21 years;
+
+(*b*) a person of unsound mind;
+
+(*c*) a person who has been sentenced to imprisonment for an offence under the *Firearms Acts 1925 to 2006*, the Offences Against the State Acts 1939 to 1998 or the Criminal Justice (Terrorist Offences) Act 2005;
+
+(*d*) a person who is bound by a recognisance to keep the peace or be of good behaviour, a condition of which is that the person shall not possess, use or carry a firearm or ammunition.”.
+
+### 39. Amendment of section 10 of Principal Act.
+
+**39**.— Section 10 is amended by the insertion of the following subsections after subsection (4):
+
+“(4A) It is an offence for—
+
+(*a*) a registered firearms dealer (notwithstanding subsection (1) of this section),
+
+(*b*) a person engaged in the business of carrying or warehousing goods for reward, or
+
+(*c*) an auctioneer who stands authorised under section 13 of the Firearms Act 1964,
+
+to possess, use, carry, sell or expose for sale a restricted firearm in the ordinary course of business, unless authorised to do so by an authorisation under this section which is in force.
+
+(4B) Application for such an authorisation shall be made to the Minister in the prescribed form by a person mentioned in subsection (4A) and be accompanied by the prescribed fee (if any).
+
+(4C) The applicant shall supply in writing any further information that the Minister may require in the performance of his or her functions under this section.
+
+(4D) An application for renewal of an authorisation may be made within 3 months before it ceases to be in force.
+
+(4E) An application for an authorisation or its renewal shall be refused if granting it would, in the opinion of the Minister, prejudice public safety or security.
+
+(4F) A decision on an application for an authorisation or its renewal shall be given within 3 months from the date on which the applicant submitted a completed application form.
+
+(4G) An authorisation under this section which is in force shall, unless earlier revoked, continue in force for a period of 3 years from the date on which it was granted and, if renewed, for a further period of 3 years from the expiration of that period or, as the case may be, of any subsequent such period for which the authorisation was renewed.”.
+
+### 40. New section 10A in Principal Act.
+
+**40**.— F4[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F4: Repealed (1.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 44, S.I. No. 310 of 2009. This provision inserted a new s. 10A into the *Firearms Act 1925* (17/1925) and had not been commenced.
+
+### 41. Amendment of section 11 of Principal Act.
+
+**41**.— Section 11 of the Principal Act is amended—
+
+(*a*) in subsection (2), by the substitution of the following paragraph for paragraph (*d*):
+
+“(*d*) has become a person who is declared under section 9(13) of this Act to be disentitled to be registered in the register of firearms dealers,”,
+
+and
+
+(*b*) by the substitution of the following subsections for subsection (3):
+
+“(3) A person whose name is removed under this section from the register of firearms dealers shall, on such removal, forthwith deliver up to the Minister—
+
+(*a*) the person’s certificate of registration or renewal, and
+
+(*b*) the register kept by the person under subsection (1) of section 12 of this Act.
+
+(4) A person who contravenes subsection (3) of this section is guilty of an offence and on summary conviction is liable to a fine not exceeding €3,000.”.
+
+### 42. Substitution of section 15 of Principal Act.
+
+**42**.— The following section is substituted for section 15 of the Principal Act:
+
+“Possession of firearms with intent to endanger life.
+
+15.— (1) Any person who possesses or controls any firearm or ammunition—
+
+(*a*) with intent to endanger life or cause serious injury to property, or
+
+(*b*) with intent to enable any other person by means of the firearm or ammunition to endanger life or cause serious injury to property,
+
+shall, whether any injury to person or property has or has not been caused thereby, be guilty of an offence.
+
+(2) A person guilty of an offence under this section is liable on conviction on indictment—
+
+(*a*) to imprisonment for life or such shorter term as the court may determine, subject to subsections (4) to (6) of this section or, where subsection (8) of this section applies, to that subsection, and
+
+(*b*) at the court’s discretion, to a fine of such amount as the court considers appropriate,
+
+and the firearm or ammunition concerned shall be forfeited.
+
+(3) The court, in imposing sentence on a person for an offence under this section, may, in particular, have regard to whether the person has a previous conviction for an offence under the *Firearms Acts 1925 to 2006*, the Offences against the State Acts 1939 to 1998 or the Criminal Justice (Terrorist Offences) Act 2005.
+
+(4) Where a person (except a person under the age of 18 years) is convicted of an offence under this section, the court shall, in imposing sentence, specify a term of imprisonment of not less than 10 years as the minimum term of imprisonment to be served by the person.
+
+(5) Subsection (4) of this section does not apply where the court is satisfied that there are exceptional and specific circumstances relating to the offence, or the person convicted of it, which would make a sentence of imprisonment of not less than 10 years unjust in all the circumstances, and for this purpose the court may have regard to any matters it considers appropriate, including—
+
+(*a*) whether the person pleaded guilty to the offence and, if so—
+
+(i) the stage at which the intention to plead guilty was indicated,
+
+(ii) the circumstances in which the indication was given,
+
+and
+
+(*b*) whether the person materially assisted in the investigation of the offence.
+
+(6) The court, in considering for the purposes of subsection (5) of this section whether a sentence of not less than 10 years imprisonment is unjust in all the circumstances, may have regard, in particular, to—
+
+(*a*) whether the person convicted of the offence has a previous conviction for an offence under the *Firearms Acts 1925 to 2006*, the Offences Against the State Acts 1939 to 1998 or the Criminal Justice (Terrorist Offences) Act 2005, and
+
+(*b*) whether the public interest in preventing the unlawful possession or use of firearms would be served by the imposition of a lesser sentence.
+
+(7) Subsections (4) to (6) of this section apply and have effect only in relation to a person convicted of a first offence under this section (other than a person who falls under subsection (8)(*b*) of this section), and accordingly references in those first-mentioned subsections to an offence under this section are to be construed as references to a first such offence.
+
+(8) Where a person (except a person under the age of 18 years)—
+
+(*a*) is convicted of a second or subsequent offence under this section,
+
+(*b*) is convicted of a first offence under this section and has been convicted of an offence under section 26, 27, 27A or 27B of the Firearms Act 1964 or section 12A of the Firearms and Offensive Weapons Act 1990,
+
+the court shall, in imposing sentence, specify a term of imprisonment of not less than 10 years as the minimum term of imprisonment to be served by the person.
+
+(9) Section 27C of the Firearms Act 1964 applies in relation to proceedings for an offence under this section and to any minimum term of imprisonment imposed under subsection (4) or (8) of this section in those proceedings.”.
+
+### 43. New section 15A in Principal Act.
+
+**43**.— The following section is inserted after section 15 of the Principal Act:
+
+“Appeal to District Court.
+
+15A.— (1) An appeal may be made to the District Court by a person aggrieved by any of the following decisions made by an issuing person:
+
+(*a*) to refuse to grant a firearms training certificate under section 2A of this Act;
+
+(*b*) to refuse to grant or renew a firearm certificate under section 3 of this Act;
+
+(*c*) to refuse to grant or renew an authorisation for a rifle or pistol club or shooting range under section 4A of this Act;
+
+(*d*) to revoke a firearm certificate under section 5 of this Act;
+
+(*e*) to refuse to register a person, or to renew a registration, in the register of firearms dealers under section 9 of this Act;
+
+(*f*) to grant or renew an authorisation under section 10 of this Act;
+
+(*g*) to remove the name of a person from the register of firearms dealers under section 11 of this Act;
+
+(*h*) to refuse to grant a licence under section 10A of this Act;
+
+(*i*) to refuse to grant an authorisation under section 16(1) of this Act;
+
+(*j*) to refuse to grant a licence for the import of firearms or ammunition or a prohibited weapon under section 17 of this Act or to vary such a licence or conditions named in it;
+
+(*k*) to refuse to renew a firearm certificate under section 9 of the Firearms Act 1964; or
+
+(*l*) to refuse to grant a firearm certificate, or to revoke such a certificate, under section 2 of the Firearms (Firearm Certificate for Non-Residents) Act 2000.
+
+(2) An appeal shall be made within 30 days of receipt of notice of the decision concerned.
+
+(3) On the appeal the Court may—
+
+(*a*) confirm the decision,
+
+(*b*) adjourn the proceedings and direct the issuing person to reconsider the decision in the light of the appeal proceedings, or
+
+(*c*) allow the appeal.
+
+(4) Where the appeal is allowed, the issuing person shall give effect to the Court’s decision.
+
+(5) For the purposes of this section—
+
+(*a*) an issuing person—
+
+(i) who is required under section 3(9), 4A(7) or 10(4F) to decide on an application within a specified period, and
+
+(ii) who does not so decide,
+
+is deemed to have decided to refuse to grant the application,
+
+(*b*) the applicant is deemed to have received notice of the decision on the expiration of that period, and
+
+(*c*) as the case may be, section 3(10) does not apply in relation to the application.
+
+(6) The jurisdiction conferred on the District Court by this section shall be exercised by the judge of that Court assigned to the district in which the appellant resides or carries on business.”.
+
+### 44. Amendment of section 17 of Principal Act.
+
+**44**.— Section 17 of the Principal Act is amended by the insertion of the following subsections after subsection (4):
+
+“(4A) Notwithstanding subsections (1) to (4) of this section, a licence for importing a firearm, ammunition or prohibited weapon may not be granted unless—
+
+(*a*) the applicant has a good reason for importing it,
+
+(*b*) granting the licence would not prejudice public safety or security, and
+
+(*c*) if the application relates to a restricted firearm or restricted ammunition, the applicant—
+
+(i) if a registered firearms dealer, possesses an authorisation under section 10 of this Act, or
+
+(ii) in any other case, is the holder of a restricted firearm certificate in respect of the firearm or ammunition concerned,
+
+which is in force.
+
+(4B) An applicant for a licence under this section shall supply in writing any further information that the Minister may require in the performance of his or her functions under this section.
+
+(4C) The reason for refusing an application for a licence under this section or for its renewal shall be communicated in writing to the applicant.”.
+
+### 45. Substitution of section 25 of Principal Act.
+
+**45**.— The following section is substituted for section 25 of the Principal Act:
+
+“Punishments.
+
+25.— Any person who commits an offence under this Act in respect of which no other punishment is provided is liable in respect of each such offence—
+
+(*a*) on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months or both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €20,000 or imprisonment for a term not exceeding 5 years or both.”.
+
+### 46. New section 25A of Principal Act.
+
+**46**.— The following section is inserted after section 25 of the Principal Act:
+
+“Surrender of firearms and offensive weapons.
+
+25A.— (1) The Minister may by order appoint a specified period during which a person may surrender at any Garda station or at any other place approved for the purpose by a superintendent of the Garda Síochána any of the following weapons:
+
+(*a*) a firearm;
+
+(*b*) a flick-knife;
+
+(*c*) a weapon of offence.
+
+(2) When surrendering a weapon during the specified period, the person—
+
+(*a*) shall give his or her name, address and proof of identity to a member of the Garda Síochána at the Garda Síochána station or place concerned, and
+
+(*b*) shall be informed by the member that the weapon and any thing in which it was surrendered may be forensically examined or tested.
+
+(3) Proceedings for an offence shall not be instituted against any person who surrenders a weapon under this section if—
+
+(*a*) in the case of a firearm, the offence consists only in the possession, carrying and use (other than in the commission of another offence) of the firearm without being the holder of a firearm certificate, in contravention of section 2 of this Act, or
+
+(*b*) in the case of a flick-knife or other weapon of offence, the offence is an offence under section 9(4) or 10(1)(*b*) of the Firearms and Offensive Weapons Act 1990.
+
+(4) Any surrendered weapon or any substance or thing found on or in it or on or in any thing in which it was surrendered may be subjected to forensic examination or testing for the purpose of—
+
+(*a*) determining whether any such weapon, substance or thing is in a safe and stable condition, or
+
+(*b*) discovering information concerning an offence other than an offence referred to in subsection (3) of this section.
+
+(5) In any proceedings, a surrendered weapon and any substance or thing referred to in subsection (4) of this section is admissible in evidence.
+
+(6) A surrendered weapon may be disposed of in a manner deemed appropriate by the Commissioner.
+
+(7) In this section—
+
+“firearm” includes ammunition;
+
+“flick-knife” has the meaning given to it in section 9(9) of the Firearms and Offensive Weapons Act 1990;
+
+“weapon of offence” has the meaning given to it in section 10(2) of the said Act of 1990.”.
+
+### 47. New section 25B in Principal Act.
+
+**47**.— The following section is inserted in the Principal Act after section 25A:
+
+“Surrender of firearm for ballistic testing.
+
+25B.— (1) The Commissioner may by notice in writing require any person lawfully possessing a firearm to produce it at such time and place as may be specified in the notice for the purpose of having ballistic or other tests carried out on it and of establishing and recording its distinctive characteristics.
+
+(2) A person who, without reasonable excuse, does not comply with such a notice is guilty of an offence under this Act.”.
+
+### 48. New section 25C in Principal Act.
+
+**48**.— The following section is inserted after section 25B of the Principal Act:
+
+“Delegation of Commissioner’s functions.
+
+25C.— The Commissioner may appoint in writing a member of the Garda Síochána, or members of a particular rank in the Garda Síochána, not below the rank of superintendent to perform any of the Commissioner’s functions under this Act.”.
+
+### 49. New section 25D in Principal Act.
+
+**49**.— The following section is inserted in the Principal Act after section 25C:
+
+“Liability of officers of bodies corporate.
+
+25D.— (1) Where—
+
+(*a*) an offence under this Act is committed by a body corporate, and
+
+(*b*) it is proved to have been committed with the consent, connivance or approval of, or to have been attributable to any neglect on the part of, a person who—
+
+(i) was a director, manager, secretary or other officer of the body corporate, or
+
+(ii) was a person purporting to act in any such capacity,
+
+that person, as well as the body corporate, is guilty of an offence and liable to be proceeded against and punished as if the person were guilty of the first-mentioned offence.
+
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) of this section applies in relation to the acts and defaults of a member in connection with the member’s functions of management as if the member were a director or manager of the body corporate.
+
+(3) The foregoing provisions apply, with the necessary modifications, where the offence was committed by an unincorporated body.”.
+
+### 50. Substitution of section 27 of Principal Act.
+
+**50**.— The following section is substituted for section 27 of the Principal Act:
+
+“Regulations.
+
+27.— (1) The Minister may make regulations prescribing any matter referred to in this Act as prescribed or to be prescribed or to be the subject of regulations or for the purpose of enabling any of its provisions to have full effect.
+
+(2) The regulations may contain such incidental, supplementary and consequential provisions as appear to the Minister to be necessary for the purposes of the regulations.
+
+(3) Regulations prescribing fees shall be made with the consent of the Minister for Finance.”.
+
+### 51. New section 27A in Principal Act.
+
+**51**.— The following section is inserted after section 27 of the Principal Act:
+
+“Laying of orders or regulations before Houses of Oireachtas.
+
+27A.— An order or regulation under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling it is passed by either such House within the next 21 days on which that House has sat after it has been laid before it, the order or regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done under it.”.
+
+*Amendment of Firearms Act 1964*
+
+### 52. Amendment of section 1 of Firearms Act 1964.
+
+**52**.— Section 1 of the Firearms Act 1964 is amended—
+
+(*a*) by the substitution of the following definition for the definitions of “the Commissioner” and “the Minister”:
+
+“ “the Commissioner” means the Commissioner of the Garda Síochána or a member of the Garda Síochána, or members of a particular rank in the Garda Síochána, not below the rank of superintendent appointed in writing by the Commissioner for the purpose of performing any of the Commissioner’s functions under this Act;
+
+“the Minister” means the Minister for Justice, Equality and Law Reform;”,
+
+(*b*) by inserting the following definition after that of “the Commissioner”:
+
+“ “firearm” includes a restricted firearm, unless otherwise provided or the context otherwise requires;”.
+
+### 53. Substitution of section 9 of Firearms Act 1964.
+
+**53**.— The following section is substituted for section 9 of the Firearms Act of 1964:
+
+“Renewal of firearm certificate.
+
+9.— (1) The Commissioner may from time to time renew a firearm certificate granted by him or her.
+
+(2) The superintendent of the district where the holder of such a certificate resides may from time to time renew such a certificate.
+
+(3) The superintendent of a district where the holder of a firearm certificate resides may from time to time renew a firearm certificate which has been granted by a superintendent.
+
+(4) An inspector or sergeant of the Garda Síochána in the district where the holder of a firearm certificate issued by a superintendent resides may from time to time renew the certificate.
+
+(5) A superintendent, or other member of the Garda Síochána, who is authorised under this section to renew a firearm certificate (“an authorised member”) may refuse to renew it, or vary any conditions to which it is subject under section 4(2)(*g*) of the Principal Act, only if prior sanction to do so in the particular case has been given by the Commissioner or superintendent, as the case may be.
+
+(6) An application for renewal of a firearm certificate—
+
+(*a*) shall be in the prescribed form,
+
+(*b*) shall be accompanied by the prescribed fee (if any), and
+
+(*c*) may be made within one month before the expiration of the certificate.
+
+(7) A renewal of a firearm certificate shall be in the prescribed form.
+
+(8) Before renewing a firearm certificate, an authorised member shall be of opinion that the conditions to which it is subject have been complied with and will continue to be complied with during the period for which the certificate is renewed.
+
+(9) On the renewal of a firearm certificate, an authorised member may, subject to subsection (5) of this section, vary any conditions to which the certificate is subject under section 4(2)(*g*) of the Principal Act, if of opinion that such a variation is necessary in the interests of public safety or security.”.
+
+### 54. Amendment of section 11 of Firearms Act 1964.
+
+**54**.— Section 11 of the Firearms Act 1964 is amended—
+
+(*a*) in subsection (1), by the deletion of “Minister may substitute for the description of a firearm in a firearm certificate granted by him” and the insertion of “Minister or the Commissioner may substitute for the description of a firearm in a firearm certificate granted by him or her”, and
+
+(*b*) in subsection (2), by the insertion of—
+
+(i) “(other than a restricted firearm)” after “firearm”, where it first occurs, and
+
+(ii) “such” after “another”.
+
+### 55. Amendment of section 13 of Firearms Act 1964.
+
+**55**.— Section 13 of the Firearms Act 1964 is amended by the insertion of the following subsections after subsection (6):
+
+“(7) In this section, references to a firearm and ammunition do not include references to a restricted firearm or restricted ammunition.
+
+(8) This section is without prejudice to subsections (4A) to (4G) of section 10 of the Principal Act.”.
+
+### 56. Amendment of section 21 of Firearms Act 1964.
+
+**56**.— Section 21 of the Firearms Act 1964 is amended—
+
+(*a*) in subsection (1), by the insertion of “or ammunition” after “firearms” and “firearm”, where they first occur, and
+
+(*b*) by the insertion of the following subsection after subsection (2):
+
+“(3) In this section, “ammunition” does not include—
+
+(*a*) component parts of ammunition, or
+
+(*b*) grenades, bombs and other similar missiles or their component parts.”.
+
+### 57. Substitution of section 26 of Firearms Act 1964.
+
+**57**.— The following section is substituted for section 26 of the Firearms Act 1964:
+
+“Possession of firearm while taking vehicle without authority.
+
+26.— (1) A person who contravenes subsection (1) of section 112 of the Road Traffic Act 1961 and who at the time of the contravention has with him or her a firearm or imitation firearm is guilty of an offence.
+
+(2) A person guilty of an offence under this section is liable on conviction on indictment—
+
+(*a*) to imprisonment for a term not exceeding 14 years or such shorter term as the court may determine, subject to subsections (4) to (6) of this section or, where subsection (8) of this section applies, to that subsection, and
+
+(*b*) at the court’s discretion, to a fine of such amount as the court considers appropriate.
+
+(3) The court, in imposing sentence on a person for an offence under this section, may, in particular, have regard to whether the person has a previous conviction for an offence under the *Firearms Acts 1925 to 2006*, the Offences against the State Acts 1939 to 1998 or the Criminal Justice (Terrorist Offences) Act 2005.
+
+(4) Where a person (other than a person under the age of 18 years) is convicted of an offence under this section, the court shall, in imposing sentence, specify a term of imprisonment of not less than 5 years as the minimum term of imprisonment to be served by the person.
+
+(5) Subsection (4) of this section does not apply where the court is satisfied that there are exceptional and specific circumstances relating to the offence, or to the person convicted of it, which would make the minimum term unjust in all the circumstances, and for this purpose the court may have regard to any matters it considers appropriate, including—
+
+(*a*) whether the person pleaded guilty to the offence and, if so—
+
+(i) the stage at which the intention to plead guilty was indicated, and
+
+(ii) the circumstances in which the indication was given,
+
+and
+
+(*b*) whether the person materially assisted in the investigation of the offence.
+
+(6) The court, in considering for the purposes of subsection (5) of this section whether a sentence of not less than 5 years imprisonment is unjust in all the circumstances, may have regard, in particular, to—
+
+(*a*) whether the person convicted of the offence has a previous conviction for an offence under the *Firearms Acts 1925 to 2006*, the Offences Against the State Acts 1939 to 1998 or the Criminal Justice (Terrorist Offences) Act 2005, and
+
+(*b*) whether the public interest in preventing the unlawful possession or use of firearms would be served by the imposition of a lesser sentence.
+
+(7) Subsections (4) to (6) of this section apply and have effect only in relation to a person convicted of a first offence under this section (other than a person who falls under subsection (8)(*b*) of this section), and accordingly references in those first-mentioned subsections to an offence under this section are to be construed as references to a first such offence.
+
+(8) Where a person (except a person under the age of 18 years)—
+
+(*a*) is convicted of a second or subsequent offence under this section,
+
+(*b*) is convicted of a first offence under this section and has been convicted of an offence under section 15 of the Principal Act, section 27, 27A or 27B of this Act or section 12A of the Firearms and Offensive Weapons Act 1990,
+
+the court shall, in imposing sentence, specify a term of imprisonment of not less than 5 years as the minimum term of imprisonment to be served by the person.
+
+(9) In proceedings for an offence under this section it is a good defence for the defendant to show that he or she had the firearm or imitation firearm for a lawful purpose when doing the act alleged to constitute the offence under subsection (1) of the said section 112.
+
+(10) Section 27C of this Act applies in relation to proceedings for an offence under this section and any minimum term of imprisonment imposed under subsection (4) or (8) of this section in those proceedings.”.
+
+### 58. Substitution of section 27 of Firearms Act 1964.
+
+**58**.— The following section is substituted for section 27 of the Firearms Act 1964:
+
+“Prohibition of use of firearms to assist or aid escape.
+
+27.— (1) A person shall not use or produce a firearm or imitation firearm—
+
+(*a*) for the purpose of or while resisting the arrest of the person or of another person by a member of the Garda Síochána, or
+
+(*b*) for the purpose of aiding, or in the course of, the escape or rescue of the person or of another person from lawful custody.
+
+(2) A person who contravenes subsection (1) of this section is guilty of an offence and liable on conviction on indictment—
+
+(*a*) to imprisonment for life or such shorter term as the court may determine, subject to subsections (4) to (6) of this section or, where subsection (8) of this section applies, to that subsection, and
+
+(*b*) at the court’s discretion, to a fine of such amount as the court considers appropriate.
+
+(3) The court, in imposing sentence on a person for an offence under this section, may, in particular, have regard to whether the person has a previous conviction for an offence under the *Firearms Acts 1925 to 2006*, the Offences against the State Acts 1939 to 1998 or the Criminal Justice (Terrorist Offences) Act 2005.
+
+(4) Where a person (other than a person under the age of 18 years) is convicted of an offence under this section, the court shall, in imposing sentence, specify a term of imprisonment of not less than 10 years as the minimum term of imprisonment to be served by the person.
+
+(5) Subsection (4) of this section does not apply where the court is satisfied that there are exceptional and specific circumstances relating to the offence, or to the person convicted of it, which would make the minimum term unjust in all the circumstances, and for this purpose the court may have regard to any matters it considers appropriate, including—
+
+(*a*) whether the person pleaded guilty to the offence and, if so—
+
+(i) the stage at which the intention to plead guilty was indicated, and
+
+(ii) the circumstances in which the indication was given,
+
+and
+
+(*b*) whether the person materially assisted in the investigation of the offence.
+
+(6) The court, in considering for the purposes of subsection (5) of this section whether a sentence of not less than 10 years imprisonment is unjust in all the circumstances, may have regard, in particular, to—
+
+(*a*) whether the person convicted of the offence has a previous conviction for an offence under the *Firearms Acts 1925 to 2006*, the Offences Against the State Acts 1939 to 1998 or the Criminal Justice (Terrorist Offences) Act 2005, and
+
+(*b*) whether the public interest in preventing the unlawful possession or use of firearms would be served by the imposition of a lesser sentence.
+
+(7) Subsections (4) to (6) of this section apply and have effect only in relation to a person convicted of a first offence under this section (other than a person who falls under subsection (8)(*b*) of this section), and accordingly references in those first-mentioned subsections to an offence under this section are to be construed as references to a first such offence.
+
+(8) Where a person (except a person under the age of 18 years)—
+
+(*a*) is convicted of a second or subsequent offence under this section,
+
+(*b*) is convicted of a first offence under this section and has been convicted of an offence under section 15 of the Principal Act, section 26, 27A or 27B of this Act or section 12A of the Firearms and Offensive Weapons Act 1990,
+
+the court shall, in imposing sentence, specify a term of imprisonment of not less than 10 years as the minimum term of imprisonment to be served by the person.
+
+(9) Section 27C of this Act applies in relation to proceedings for an offence under this section and any minimum term of imprisonment imposed under subsection (4) or (8) of this section in those proceedings.”.
+
+### 59. Substitution of section 27A of Firearms Act 1964.
+
+**59**.— The following section is substituted for section 27A of the Firearms Act 1964:
+
+“Possession of firearm or ammunition in suspicious circumstances.
+
+27A.— (1) It is an offence for a person to possess or control a firearm in circumstances that give rise to a reasonable inference that the person does not possess or control it for a lawful purpose, unless the person possesses or controls it for such a purpose.
+
+(2) A person guilty of an offence under this section is liable on conviction on indictment—
+
+(*a*) to imprisonment for a term not exceeding 14 years or such shorter term as the court may determine, subject to subsections (4) to (6) of this section or, where subsection (8) of this section applies, to that subsection, and
+
+(*b*) at the court’s discretion, to a fine of such amount as the court considers appropriate.
+
+(3) The court, in imposing sentence on a person for an offence under this section, may, in particular, have regard to whether the person has a previous conviction for an offence under the *Firearms Acts 1925 to 2006*, the Offences against the State Acts 1939 to 1998 or the Criminal Justice (Terrorist Offences) Act 2005.
+
+(4) Where a person (other than a person under the age of 18 years) is convicted of an offence under this section, the court shall, in imposing sentence, specify a term of imprisonment of not less than 5 years as the minimum term of imprisonment to be served by the person.
+
+(5) Subsection (4) of this section does not apply where the court is satisfied that there are exceptional and specific circumstances relating to the offence, or the person convicted of it, which would make the minimum term unjust in all the circumstances, and for this purpose the court may have regard to any matters it considers appropriate, including—
+
+(*a*) whether the person pleaded guilty to the offence and, if so—
+
+(i) the stage at which the intention to plead guilty was indicated, and
+
+(ii) the circumstances in which the indication was given,
+
+and
+
+(*b*) whether the person materially assisted in the investigation of the offence.
+
+(6) The court, in considering for the purposes of subsection (5) of this section whether a sentence of not less than 5 years imprisonment is unjust in all the circumstances, may have regard, in particular, to—
+
+(*a*) whether the person convicted of the offence has a previous conviction for an offence under the *Firearms Acts 1925 to 2006*, the Offences Against the State Acts 1939 to 1998 or the Criminal Justice (Terrorist Offences) Act 2005, and
+
+(*b*) whether the public interest in preventing the unlawful possession or use of firearms would be served by the imposition of a lesser sentence.
+
+(7) Subsections (4) to (6) of this section apply and have effect only in relation to a person convicted of a first offence under this section (other than a person who falls under subsection (8)(*b*) of this section), and accordingly references in those first-mentioned subsections to an offence under this section are to be construed as references to a first such offence.
+
+(8) Where a person (except a person under the age of 18 years)—
+
+(*a*) is convicted of a second or subsequent offence under this section,
+
+(*b*) is convicted of a first offence under this section and has been convicted of an offence under section 15 of the Principal Act, section 26, 27 or 27B of this Act or section 12A of the Firearms and Offensive Weapons Act 1990,
+
+the court shall, in imposing sentence, specify a term of imprisonment of not less than 5 years as the minimum term of imprisonment to be served by the person.
+
+(9) Section 27C of this Act applies in relation to proceedings for an offence under this section and any minimum term of imprisonment imposed under subsection (4) or (8) of this section in those proceedings.
+
+(10) In the application of section 2 of the Criminal Law (Jurisdiction) Act 1976 to this section, it shall be presumed, unless the contrary is shown, that a purpose that is unlawful in the State is unlawful in Northern Ireland.”.
+
+### 60. Substitution of section 27B of Firearms Act 1964.
+
+**60**.— The following section is substituted for section 27B of the Firearms Act 1964:
+
+“Carrying firearm with criminal intent.
+
+27B.— (1) It is an offence for a person to have with him or her a firearm, or an imitation firearm, with intent—
+
+(*a*) to commit an indictable offence, or
+
+(*b*) to resist or prevent the arrest of the person or another person,
+
+in either case while the person has the firearm or imitation firearm with him or her.
+
+(2) A person guilty of an offence under this section is liable on conviction on indictment—
+
+(*a*) to imprisonment for a term not exceeding 14 years or such shorter term as the court may determine, subject to subsections (4) to (6) of this section or, where subsection (8) of this section applies, to that subsection, and
+
+(*b*) at the court’s discretion, to a fine of such amount as the court considers appropriate.
+
+(3) The court, in imposing sentence on a person for an offence under this section, may, in particular, have regard to whether the person has a previous conviction for an offence under the *Firearms Acts 1925 to 2006*, the Offences against the State Acts 1939 to 1998 or the Criminal Justice (Terrorist Offences) Act 2005.
+
+(4) Where a person (other than a person under the age of 18 years) is convicted of an offence under this section, the court shall, in imposing sentence, specify a term of imprisonment of not less than 5 years as the minimum term of imprisonment to be served by the person.
+
+(5) Subsection (4) of this section does not apply where the court is satisfied that there are exceptional and specific circumstances relating to the offence, or the person convicted of it, which would make the minimum term unjust in all the circumstances, and for this purpose the court may have regard to any matters it considers appropriate, including—
+
+(*a*) whether the person pleaded guilty to the offence and, if so—
+
+(i) the stage at which the intention to plead guilty was indicated, and
+
+(ii) the circumstances in which the indication was given,
+
+and
+
+(*b*) whether the person materially assisted in the investigation of the offence.
+
+(6) The court, in considering for the purposes of subsection (5) of this section whether a sentence of not less than 5 years imprisonment is unjust in all the circumstances, may also have regard, in particular, to—
+
+(*a*) whether the person convicted of the offence has a previous conviction for an offence under the *Firearms Acts 1925 to 2006*, the Offences Against the State Acts 1939 to 1998 or the Criminal Justice (Terrorist Offences) Act 2005, and
+
+(*b*) whether the public interest in preventing the unlawful possession or use of firearms would be served by the imposition of a lesser sentence.
+
+(7) Subsections (4) to (6) of this section apply and have effect only in relation to a person convicted of a first offence under this section (other than a person who falls under subsection (8)(*b*) of this section), and accordingly references in those first-mentioned subsections to an offence under this section are to be construed as references to a first such offence.
+
+(8) Where a person (except a person under the age of 18 years)—
+
+(*a*) is convicted of a second or subsequent offence under this section,
+
+(*b*) is convicted of a first offence under this section and has been convicted of an offence under section 15 of the Principal Act, section 26, 27 or 27A of this Act or section 12A of the Firearms and Offensive Weapons Act 1990,
+
+the court shall, in imposing sentence, specify a term of imprisonment of not less than 5 years as the minimum term of imprisonment to be served by the person.
+
+(9) In proceedings for an offence under this section proof that the accused had a firearm or imitation firearm with him or her and intended to commit an indictable offence or to resist or prevent arrest is evidence that the accused intended to have it with him or her while doing so.
+
+(10) Section 27C of this Act applies in relation to proceedings for an offence under this section and any minimum term of imprisonment imposed under subsection (4) or (8) of this section in those proceedings.”
+
+### 61. New section 27C in Firearms Act 1964.
+
+**61**.— The following section is inserted in the Firearms Act 1964 after section 27B:
+
+“Provisions relating to minimum sentences under *Firearms Acts 1925 to 2006*.
+
+27C.— (1) In this section, “ minimum term of imprisonment” means a term specified by a court under—
+
+(*a*) section 15 of the Principal Act,
+
+(*b*) section 26, 27, 27A or 27B of this Act, and
+
+(*c*) section 12A of the Firearms and Offensive Weapons Act 1990,
+
+less any reduction in the period of imprisonment under subsection (3) of this section.
+
+(2) The power to commute or remit punishment conferred by section 23 of the Criminal Justice Act 1951 does not apply in relation to a minimum term of imprisonment.
+
+(3) The rules or practice whereby prisoners generally may earn remission of sentence by industry and good conduct apply in relation to a person serving such a minimum term.
+
+(4) Any powers conferred by rules made under section 2 of the Criminal Justice Act 1960, as applied by section 4 of the Prisons Act 1970, to release temporarily a person serving a sentence of imprisonment shall not be exercised during a minimum term of imprisonment, unless for grave reason of a humanitarian nature, and any release so granted shall be only of such limited duration as is justified by that reason.”.
+
+*Amendment of Criminal Justice Act 1984*
+
+### 62. Amendment of section 15 of Criminal Justice Act 1984.
+
+**62**.— Section 15 of the Criminal Justice Act 1984 is amended by the substitution of “€2,500” for “£1,000”.
+
+*Amendment of Firearms and Offensive Weapons Act 1990*
+
+### 63. Amendment of Firearms and Offensive Weapons Act 1990.
+
+**63**.— The Firearms and Offensive Weapons Act 1990 is amended—
+
+(*a*) by the repeal of section 4,
+
+(*b*) in section 6(1), by the substitution of “paragraph (*f*) of the definition of “firearm” in section 1(1) of the Principal Act” for “section 4(1)(*f*)”, and
+
+(*c*) in section 7(8), by the substitution of “paragraph (*g*)(ii) of the definition of “firearm” in section 1(1) of the Principal Act” for “section 4(1)(*g*)”.
+
+### 64. New section 8A of Firearms and Offensive Weapons Act 1990.
+
+**64**.— The following section is inserted after section 8 of the Firearms and Offensive Weapons Act 1990:
+
+“Other amendments to Firearms Acts.
+
+8A.— Each provision of the *Firearms Acts 1925 to 2006* specified in *Schedule 1* to the *Criminal Justice Act 2006* is amended in the manner specified in the third and fourth columns opposite the mention of that provision in the first column of that Schedule.”.
+
+### 65. New section 12A in Firearms and Offensive Weapons Act 1990.
+
+**65**.— The following section is inserted after section 12 of the Firearms and Offensive Weapons Act 1990:
+
+“Shortening barrel of shot-gun or rifle.
+
+12A.— (1) Subject to subsection (2), a person who shortens the barrel of—
+
+(*a*) a shot-gun to a length of less than 61 centimetres, or
+
+(*b*) a rifle to a length of less than 50 centimetres,
+
+is guilty of an offence.
+
+(2) It is not an offence under subsection (1) for a registered firearms dealer to shorten the barrel of a shot-gun or rifle to a length of less than 61 or 50 centimetres respectively if the sole purpose of doing so is to replace a defective part of the barrel with a barrel of not less than 61 or 50 centimetres, as the case may be.
+
+(3) It is an offence for a person to convert into a firearm anything which resembles a firearm but is not capable of discharging a projectile.
+
+(4) Subject to subsection (5), it is an offence to modify a firearm so as to render its reloading mechanism fully automatic or to increase its calibre, irrespective of whether the firearm, as so modified, is a restricted firearm.
+
+(5) Subsection (4) does not apply to a firearm designed and manufactured so as to enable barrels of different calibres to be attached to it.
+
+(6) It is an offence for a person (except a registered firearms dealer) to possess without lawful authority or reasonable excuse—
+
+(*a*) a shot-gun the barrel of which is less than 61 centimetres in length,
+
+(*b*) a rifle the barrel of which is less than 50 centimetres in length,
+
+(*c*) a converted firearm mentioned in subsection (3), or
+
+(*d*) a firearm which has been modified as described in subsection (4).
+
+(7) A person who is guilty of an offence under this section is liable on conviction on indictment—
+
+(*a*) to imprisonment for a term not exceeding 10 years or such shorter term as the court may determine, subject to subsections (9) to (11) of this section or, where subsection (13) of this section applies, to that subsection, and
+
+(*b*) at the court’s discretion, to a fine of such amount as the court considers appropriate.
+
+(8) The court, in imposing sentence on a person for an offence under this section, may, in particular, have regard to whether the person has a previous conviction for an offence under the *Firearms Acts 1925 to 2006*, the Offences against the State Acts 1939 to 1998 or the Criminal Justice (Terrorist Offences) Act 2005.
+
+(9) Where a person (other than a person under the age of 18 years) is convicted of an offence under this section, the court shall, in imposing sentence, specify a term of imprisonment of not less than 5 years (in this section referred to as the “minimum term of imprisonment”) as the minimum term of imprisonment to be served by the person.
+
+(10) Subsection (9) does not apply where the court is satisfied that there are exceptional and specific circumstances relating to the offence, or to the person convicted of it, which would make the minimum term of imprisonment unjust in all the circumstances, and for this purpose the court may have regard to any matters it considers appropriate, including—
+
+(*a*) whether the person pleaded guilty to the offence and, if so—
+
+(i) the stage at which the intention to plead guilty was indicated, and
+
+(ii) the circumstances in which the indication was given,
+
+and
+
+(*b*) whether the person materially assisted in the investigation of the offence.
+
+(11) The court, in considering for the purposes of subsection (10) of this section whether a sentence of not less than 5 years imprisonment is unjust in all the circumstances, may have regard, in particular, to—
+
+(*a*) whether the person convicted of the offence has a previous conviction for an offence under the *Firearms Acts 1925 to 2006*, the Offences Against the State Acts 1939 to 1998 or the Criminal Justice (Terrorist Offences) Act 2005, and
+
+(*b*) whether the public interest in preventing the unlawful possession or use of firearms would be served by the imposition of a lesser sentence.
+
+(12) Subsections (9) to (11) of this section apply and have effect only in relation to a person convicted of a first offence under this section (other than a person who falls under subsection (13)(*b*) of this section), and accordingly references in those first-mentioned subsections to an offence under this section are to be construed as references to a first such offence.
+
+(13) Where a person (except a person under the age of 18 years)—
+
+(*a*) is convicted of a second or subsequent offence under this section,
+
+(*b*) is convicted of a first offence under this section and has been convicted of an offence under section 15 of the Principal Act or section 26, 27A or 27B of the Firearms Act 1964,
+
+the court shall, in imposing sentence, specify a term of imprisonment of not less than 5 years as the minimum term of imprisonment to be served by the person.
+
+(14) Section 27C of the Firearms Act 1964 applies in relation to proceedings for an offence under this section and any minimum term of imprisonment imposed under subsection (9) or (13) in those proceedings.”.
+
+### 66. Amendment of section 1 of Firearms (Firearm Certificates for Non-Residents) Act 2000.
+
+**66**.— Section 1 of the Firearms (Firearm Certificates for Non-Residents) Act 2000 is amended—
+
+(*a*) by the insertion of the following definition after the definition of “the Act of 1976”—
+
+“ “Commissioner” means the Commissioner of the Garda Síochána or a member of the Garda Síochána, or members of a particular rank in the Garda Síochána, not below the rank of superintendent appointed in writing by the Commissioner for the purpose of performing any of the Commissioner’s functions under this Act;”,
+
+and
+
+(*b*) by the insertion of the following definition after the definition of “the Principal Act”:
+
+“ “restricted firearm” means a firearm which is declared under section 2B(*a*) of the Principal Act to be a restricted firearm;”.
+
+### 67. Amendment of section 2 of Firearms (Firearm Certificates for Non-Residents) Act 2000.
+
+**67**.— Section 2 of the Firearms (Firearm Certificates for Non-Residents) Act 2000 is amended—
+
+(*a*) in subsection (1), by the insertion of “, Commissioner” after “Minister” on both occasions where it occurs,
+
+(*b*) in subsection (2), by the insertion of the following paragraph after paragraph (*a*):
+
+“(*aa*) in case the firearm is a restricted firearm and is intended only for the purposes mentioned in paragraph (*a*), to the Minister or Commissioner,”,
+
+(*c*) in subsection (4), by the insertion of “or (*aa*)” after “paragraph (*a*)”, and
+
+(*d*) in subsection (5), by the insertion of “, Commissioner” after “Minister”.
+
+## PART 6 Amendment of Explosives Act 1875 — PART 6 — Amendment of Explosives Act 1875
+
+### 68. Substitution of section 80 of Explosives Act 1875.
+
+**68**.— The following section is substituted for section 80 of the Explosives Act 1875:
+
+“80.— (1) Any person who in any place—
+
+(*a*) ignites a firework or causes it to be ignited, or
+
+(*b*) throws, directs or propels an ignited firework at or towards a person or property,
+
+is guilty of an offence.
+
+(2) Any person—
+
+(*a*) who possesses a firework with intent to sell or otherwise to supply it to another, and
+
+(*b*) who does not hold a licence under this Act to import it,
+
+is guilty of an offence.
+
+(3) In any proceedings for an offence under subsection (2) it is not necessary for the prosecution to negative by evidence the existence of a licence to import the firework concerned, and accordingly the onus of proving the existence of any such licence is on the defendant.
+
+(4) A member of the Garda Síochána who, with reasonable cause, suspects that a person possesses a firework in contravention of subsection (2) may—
+
+(*a*) request that the person give his or her name and address and that the information given by the person in response to the request be verified,
+
+(*b*) if not satisfied that the information so given is correct, request that the person accompany the member to a Garda Síochána station for the purpose of verifying the information,
+
+(*c*) without warrant—
+
+(i) search the person and, if the member considers it necessary for that purpose, detain the person for such time as is reasonably necessary to make the search,
+
+(ii) enter and search any vehicle, vessel or aircraft in which the member suspects that a firework may be found, and
+
+(iii) seize and detain anything found in the course of the search which the member reasonably believes to be evidence of, or relating to, an offence under this section.
+
+(5) This section is without prejudice to any power to detain or search a person or to seize or detain property which may be exercised by a member of the Garda Síochána under any other enactment.
+
+(6) A member of the Garda Síochána who suspects, with reasonable cause, that a person has committed an offence under this section may arrest the person without warrant.
+
+(7) If a judge of the District Court is satisfied by information on oath of a member of the Garda Síochána not below the rank of sergeant that there are reasonable grounds for suspecting that evidence of, or relating to, the commission of an offence under this section is to be found in any place, the judge may issue a warrant for the search of that place and any persons found at that place.
+
+(8) The search warrant shall be expressed, and shall operate, to authorise a named member of the Garda Síochána, accompanied by such other members of the Garda Síochána or other persons as the member thinks necessary—
+
+(*a*) to enter the place named in the warrant at any time or times within one week of the date of issue of the warrant, on production if so requested of the warrant and if necessary by the use of reasonable force,
+
+(*b*) to search it and any persons found at the place, and
+
+(*c*) to seize anything found at the place, or anything found in the possession of any person present there at the time of the search that that member reasonably believes to be evidence of, or relating to, the commission of an offence under this section.
+
+(9) A member of the Garda Síochána acting under the authority of a search warrant under this section may—
+
+(*a*) require any person present at the place where the search is being carried out to give to the member his or her name and address, and
+
+(*b*) arrest without warrant any person who—
+
+(i) obstructs or attempts to obstruct the member in the carrying out of his or her duties,
+
+(ii) fails to comply with a requirement under paragraph (*a*), or
+
+(iii) gives a name or address which the member has reasonable cause for believing is false or misleading.
+
+(10) A person who—
+
+(*a*) does not give his or her name and address when requested to do so under subsection (4)(*a*) of this section or gives a name and address that is false or misleading, or
+
+(*b*) does not comply with a request under subsection (4)(*b*) of this section,
+
+is guilty of an offence and liable on summary conviction to a fine not exceeding €2,500 or imprisonment for a term not exceeding 6 months or both.
+
+(11) A person who—
+
+(*a*) obstructs or attempts to obstruct a member of the Garda Síochána acting under the authority of a search warrant under this section,
+
+(*b*) does not comply with a requirement under subsection (9)(*a*) of this section, or
+
+(*c*) gives a false or misleading name or address to such a member,
+
+is guilty of an offence and liable on summary conviction to a fine not exceeding €2,500 or imprisonment for a term not exceeding 6 months or both.
+
+(12) A person guilty of an offence under this section (except subsection (10) or (11)) is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €2,500 or imprisonment for a term not exceeding 6 months or both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €10,000 or imprisonment for a term not exceeding 5 years or both.
+
+(13) A court by which a person is convicted of an offence under subsection (1) or (2) may order anything shown to the satisfaction of the court to relate to the offence to be forfeited and either destroyed or dealt with in such other manner as the court thinks fit.
+
+(14) In this section—
+
+“banger” means a non-metallic case containing black powder, the principal purpose of which is to make a noise when ignited or initiated;
+
+“black powder” means a powder consisting of a mixture of charcoal and sodium nitrate or potassium nitrate, with or without sulphur;
+
+“firework”—
+
+(*a*) means a device containing pyrotechnic material which, when functioning, burns or explodes to produce a visual or aural effect or movement or a gas, either separately or in any combination, as a direct form of entertainment, but
+
+(*b*) except in subsection (1)(*b*) does not include—
+
+(i) a low hazard firework (except a banger), or
+
+(ii) a firework imported under licence in accordance with section 40(9) of this Act;
+
+“low hazard firework” means a firework which presents a low hazard and is designed for indoor use;
+
+“place” includes a dwelling;
+
+“pyrotechnic material” means a substance or mixture of substances designed, when ignited, to produce an aural or visual effect or a gas either separately or in any combination.”.
+
+### 69. Other amendments of Explosives Act 1875.
+
+**69**.— Each provision of the Explosives Act 1875 specified in *Schedule 2* to the *Criminal Justice Act 2006* is amended in the manner specified in the third and fourth columns opposite the mention of that provision in the first column of that Schedule.
+
+## PART 7 Organised Crime — PART 7 — Organised Crime
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E17: *Criminal Justice Act 2007* (29/2007), s. 50, confirmed to apply to offences under Part by *Criminal Justice Act 2007* (29/2007), s. 50(1)(e), as inserted (23.07.2009) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 23(1)(c), commenced on enactment.
+>
+> E18: Persons convicted of offences under this Part may be the subject of post-release orders under *Criminal Justice Act 2007* (29/2007), s. 26A as inserted (23.07.2009) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 14(1), commenced on enactment.
+
+### 70. Interpretation (Part 7).
+
+**70**.— (1) In this Part—
+
+“act” includes omission and a reference to the commission or doing of an act includes a reference to the making of an omission;
+
+F5["Act of 1861" means the Offences against the Person Act 1861;]
+
+F6["criminal organisation" means a structured group, however organised, that has as its main purpose or activity the commission or facilitation of a serious offence;]
+
+“Irish ship” has the meaning it has in section 9 of the Mercantile Marine Act 1955;
+
+“serious offence” means an offence for which a person may be punished by imprisonment for a term of 4 years or more;
+
+F6["structured group" means a group of 3 or more persons, which is not randomly formed for the immediate commission of a single offence, and the involvement in which by 2 or more of those persons is with a view to their acting in concert; for the avoidance of doubt, a structured group may exist notwithstanding the absence of all or any of the following:
+
+(*a*) formal rules or formal membership, or any formal roles for those involved in the group;
+
+(*b*) any hierarchical or leadership structure;
+
+(*c*) continuity of involvement by persons in the group.]
+
+(2) For the purposes of this section facilitation of an offence does not require knowledge of a particular offence the commission of which is facilitated, or that an offence actually be committed.
+
+F7[(3) For the purposes of the references in *sections 71(2)(d)* and *74(1)(b)(i)* to a person’s being ordinarily resident in the State, a person shall be taken to be so resident, on the date of the commission of the offence to which *section 71(1)* or *74(1)*, as the case may be, applies, if, for the 12 months immediately preceding that date, the person has his or her principal place of residence in the State.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F5: Inserted (1.11.2023) by *Criminal Justice (Miscellaneous Provisions) Act 2023* (24/2023), s. 4(a), S.I. No. 525 of 2023.
+>
+> F6: Substituted (23.07.2009) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 3(1), commenced on enactment.
+>
+> F7: Inserted (23.07.2009) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 3(2), commenced on enactment.
+>
+> F8: Substituted by *Merchant Shipping (Registration of Ships) Act 2014* (43/2014), s. 68 and sch. 4, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C5: Prospective affecting provision: definition of "Irish ship" substituted by *Merchant Shipping (Registration of Ships) Act 2014* (43/2014), s. 68 and sch. 4, not commenced as of date of revision.
+>
+> **Interpretation**
+>
+> **70**.— (1) In this Part— ...
+>
+> "Irish ship" has the meaning assigned to it by section 33 of the Merchant Shipping (Registration of Ships) Act 2014;
+>
+> ...
+
+### 71. Offence of conspiracy.
+
+**71**.— (1) Subject to *subsections (2)* and *(3)*, a person who conspires, whether in the State or elsewhere, with one or more persons to do an act—
+
+(*a*) in the State that constitutes a serious offence, or
+
+(*b*) in a place outside the State that constitutes a serious offence under the law of that place and which would, if done in the State, constitute a serious offence,
+
+is guilty of an offence irrespective of whether such act actually takes place or not.
+
+(2) *Subsection (1)* applies to a conspiracy committed outside the State if—
+
+(*a*) the offence, the subject of the conspiracy, was committed, or was intended to be committed, in the State or against a citizen of Ireland,
+
+(*b*) the conspiracy is committed on board an Irish ship,
+
+(*c*) the conspiracy is committed on an aircraft registered in the State, or
+
+(*d*) the conspiracy is committed by an Irish citizen or a F9[person ordinarily resident in the State].
+
+(3) *Subsection (1)* shall also apply to a conspiracy committed outside the State in circumstances other than those referred to in *subsection (2)*, but in that case the Director of Public Prosecutions may not take, or consent to the taking of, proceedings for an offence under *subsection (1)* except in accordance with *section 74(3)*.
+
+F10[(4) A person charged with an offence under this section—
+
+(*a*) subject to *paragraph (b)*, is liable to be indicted, tried and punished as a principal offender, or
+
+(*b*) where the offence, the subject of the conspiracy, is murder, is liable on conviction on indictment to imprisonment for life or a lesser term of imprisonment.]
+
+F11[(4A) This section shall not apply in respect of a conspiracy to commit murder to which section 4 of the Act of 1861 applies.]
+
+(5) F12[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F9: Substituted (23.07.2009) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 4(a), commenced on enactment.
+>
+> F10: Substituted (1.11.2023) by *Criminal Justice (Miscellaneous Provisions) Act 2023* (24/2023), s. 4(b)(i), S.I. No. 525 of 2023.
+>
+> F11: Inserted (1.11.2023) by *Criminal Justice (Miscellaneous Provisions) Act 2023* (24/2023), s. 4(b)(ii), S.I. No. 525 of 2023.
+>
+> F12: Deleted (23.07.2009) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 4(b), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E19: Persons convicted of offences under this section (18.05.2007) may be the subject of monitoring and protection of persons orders under *Criminal Justice Act 2007* (29/2007), s. 26 and sch. 2, item 9(a), S.I. No. 236 of 2007.
+>
+> E20: Persons convicted of offences under this section may be subject to the imposition of minimum sentences (18.05.2007) under *Criminal Justice Act 2007* (29/2007), s. 25 and sch. 2, item 9(a), S.I. No. 236 of 2007.
+
+### 71A. Offence of directing a criminal organisation.
+
+F13[**71A.**— (1) In this section—
+
+(*a*) "directs", in relation to activities, means—
+
+(i) controls or supervises the activities, or
+
+(ii) gives an order, instruction or guidance, or makes a request, with respect to the carrying on of the activities;
+
+(*b*) references to activities include references to—
+
+(i) activities carried on outside the State, and
+
+(ii) activities that do not constitute an offence or offences.
+
+(2) A person who directs, at any level of the organisation’s structure, the activities of a criminal organisation is guilty of an offence and shall be liable on conviction on indictment to imprisonment for life or a lesser term of imprisonment.
+
+(3) Any statement made orally, in writing or otherwise, or any conduct, by the defendant implying or leading to a reasonable inference that he or she was at a material time directing the activities of a criminal organisation shall, in proceedings for an offence under this section, be admissible as evidence that the defendant was doing such at that time.
+
+(4) In proceedings under this section, the court or the jury, as the case may be, in determining whether an offence under this section has been committed, may, in addition to any other relevant evidence, also consider—
+
+(*a*) any evidence of a pattern of behaviour on the part of the defendant consistent with his or her having directed the activities of the organisation concerned at the material time, and
+
+(*b*) without limiting *paragraph (a)* or *subsection (3)*—
+
+(i) whether the defendant has received any benefit from the organisation concerned, and
+
+(ii) evidence as to the possession by the defendant of such articles or documents or other records as would give rise to a reasonable suspicion that such articles, documents or other records were in his or her possession or control for a purpose connected with directing the activities of the organisation concerned.
+
+(5) Any document or other record emanating or purporting to emanate from the organisation concerned from which there can be inferred—
+
+(*a*) either—
+
+(i) the giving, at the time concerned, of an instruction, order or guidance by the defendant to any person involved in the organisation, or
+
+(ii) the making, at that time, by the defendant of a request of a person so involved,
+
+or
+
+(*b*) the seeking, at that time, by a person so involved of assistance or guidance from the defendant,
+
+shall, in proceedings for an offence under this section, be admissible as evidence that the defendant was directing the activities of the organisation concerned at the material time.
+
+(6) In this section "document or other record" has the same meaning as it has in *section 71B*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Inserted (23.07.2009) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 5, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E21: Offences under this section are deemed to be relevant offences for purposes of Part 3 of the *Criminal Procedure Act 2010* (1.09.2010) by *Criminal Procedure Act 2010* (27/2010), s. 7 and sch., S.I. No. 414 of 2010.
+>
+> E22: Offences under this section are deemed to be scheduled offences for the purposes of Part V of the *Offences Against the State Act 1939* (13/1939) (23.07.2009) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 8, commenced on enactment.
+>
+> E23: Persons convicted of offences under this section may be the subject of monitoring and protection of persons orders (18.05.2007) under *Criminal Justice Act 2007* (29/2007), s. 26 and sch. 2, item 9(b), S.I. No. 236 of 2007.
+>
+> E24: Persons convicted of offences under this section may be subject to the imposition of minimum sentences (18.05.2007) under *Criminal Justice Act 2007* (29/2007), s. 25 and sch. 2, item 9(b), S.I. No. 236 of 2007.
+
+### 71B. Provisions with respect to proof of criminal organisation’s existence.
+
+F14[**71B.**— (1) In proceedings under this Part the opinion of—
+
+(*a*) any member of the Garda Síochána, or
+
+(*b*) any former member of the Garda Síochána,
+
+who appears to the Court to possess the appropriate expertise (in this section referred to as the "appropriate expert") shall, subject to *section 74B*, be admissible in evidence in relation to the issue as to the existence of a particular criminal organisation.
+
+(2) In *subsection (1)* "expertise" means experience, specialised knowledge or qualifications.
+
+(3) Without limiting the matters that can properly be taken into account, in the formation of such opinion, by the appropriate expert, it shall be permissible for that expert, in forming the opinion referred to in *subsection (1)*, to take into account any previous convictions for arrestable offences of persons believed by that expert to be part of the organisation to which the opinion relates.
+
+(4) Without prejudice to *subsection (1)*, in proceedings under this Part the following shall be admissible as evidence that a particular group constitutes a criminal organisation—
+
+(*a*) any document or other record emanating or purporting to emanate from the group or created or purporting to be created by the defendant—
+
+(i) from which the group’s existence as a criminal organisation can be inferred;
+
+(ii) from which the commission or facilitation by the group of a serious offence or its engaging in any activity in relation thereto can be inferred; or
+
+(iii) that uses or makes reference to a name, word, symbol or other representation that identifies the group as a criminal organisation or from which name, word, symbol or other representation it can be inferred that it is such an organisation,
+
+(*b*) the provision by a group of 3 or more persons of a material benefit to the defendant (or a promise by such a group to provide a material benefit to the defendant), which provision or promise is not made in return for a lawful act performed or to be performed by the defendant.
+
+(5) In *subsection (4)* "document or other record" includes, in addition to a document or other record in writing—
+
+(*a*) a disc, tape, sound-track or other device in which information, sounds or signals are embodied so as to be capable (with or without the aid of some other instrument) of being reproduced in legible or audible form,
+
+(*b*) a film, tape or other device in which visual images are embodied so as to be capable (with or without the aid of some other instrument) of being reproduced in visual form, and
+
+(*c*) a photograph.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F14: Inserted (23.07.2009) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 7, commenced on enactment.
+
+### 72. Offence to participate in, or contribute to, certain activities.
+
+F15[**72.**— (1) A person is guilty of an offence if, with knowledge of the existence of the organisation referred to in this subsection, the person participates in or contributes to any activity (whether constituting an offence or not)—
+
+(*a*) intending either to—
+
+(i) enhance the ability of a criminal organisation or any of its members to commit, or
+
+(ii) facilitate the commission by a criminal organisation or any of its members of,
+
+a serious offence, or
+
+(*b*) being reckless as to whether such participation or contribution could either—
+
+(i) enhance the ability of a criminal organisation or any of its members to commit, or
+
+(ii) facilitate the commission by a criminal organisation or any of its members of,
+
+a serious offence.
+
+(2) A person guilty of an offence under this section shall be liable on conviction on indictment to a fine or imprisonment for a term not exceeding 15 years or both.
+
+(3) The reference in *subsection (1)* to the commission of a serious offence includes a reference to the doing of an act in a place outside the State that constitutes a serious offence under the law of that place and which act would, if done in the State, constitute a serious offence.
+
+(4) In proceedings for an offence under this section it shall not be necessary for the prosecution to prove—
+
+(*a*) that the criminal organisation concerned or any of its members actually committed, as the case may be—
+
+(i) a serious offence in the State, or
+
+(ii) a serious offence under the law of a place outside the State where the act constituting the offence would, if done in the State, constitute a serious offence,
+
+(*b*) that the participation or contribution of the defendant actually—
+
+(i) enhanced the ability of the criminal organisation concerned or any of its members to commit, or
+
+(ii) facilitated the commission by it or any of its members of,
+
+a serious offence, or
+
+(*c*) knowledge on the part of the defendant of the specific nature of any offence referred to in *subsection (1)(a)* or *(b)*.
+
+(5) In determining whether a person participates in or contributes to an activity referred to in *subsection (1)*, the court may consider, inter alia, whether the person—
+
+(*a*) uses a name, word, symbol or other representation that identifies, or is associated with, the criminal organisation concerned, or
+
+(*b*) receives any benefit from the criminal organisation concerned.
+
+(6) In proceedings for an offence under this section, it shall be presumed, until the contrary is shown, that the participation or contribution (the "relevant act") of the defendant referred to in *subsection (1)* was engaged in or made with the state of mind on the defendant’s part referred to in *paragraph (a)* or *(b)* of that subsection if the circumstances under which the relevant act was committed—
+
+(*a*) involved either—
+
+(i) the possession by the defendant, whilst in the presence of one or more other persons, of any article or item referred to in the Table to this section, or
+
+(ii) there being present in (or, in the case of a false registration plate referred to in *paragraph 8* of that Table, present in or affixed to) any vehicle—
+
+(I) the use of which appears connected with the relevant act, and
+
+(II) of which the defendant and one or more other persons were occupants on or about the date of commission of the relevant act,
+
+any such article or item,
+
+and
+
+(*b*) those circumstances are such as give rise to a reasonable suspicion that the defendant’s state of mind was as aforesaid at the time of the relevant act’s commission.
+
+Table
+
+1\. Any balaclava, boiler suit or other means of disguise or impersonation, including any article of Garda uniform or any equipment supplied to a member of the Garda Síochána or imitation thereof.
+
+2\. Any firearm (within the meaning of section 1 of the Firearms Act 1925), ammunition for a firearm or device that appears to the ordinary observer so realistic as to make it indistinguishable from a firearm.
+
+3\. Any knife to which section 9(1) of the Firearms and Offensive Weapons Act 1990 applies, weapon of offence within the meaning of section 10(2) of that Act or weapon to which section 12 of that Act applies.
+
+4\. Any implement for burglary or other article or item for gaining access to any premises or other structure without the permission of the owner or occupier thereof, including any key or card that has been stolen or any access code unlawfully procured.
+
+5\. Any plan of any premises or other structure unrelated to any lawful activity, trade or purpose being pursued or engaged in by one or more of the persons referred to in *subsection (6)(a)*.
+
+6\. Any controlled drug (within the meaning of the Misuse of Drugs Act 1977).
+
+7\. Any substantial amounts, in cash, of any currency unrelated to any lawful activity, trade, transaction or purpose being pursued or engaged in by one or more of the persons referred to in *subsection (6)(a)*.
+
+8\. Any false vehicle registration plate, that is to say, any plate purporting to be a plate for a mechanically propelled vehicle registered under section 131 of the Finance Act 1992 and displaying an identification mark other than that duly assigned by the Revenue Commissioners under Chapter IV of Part II of that Act and regulations thereunder.
+
+9\. Any article or item for making a counterfeit of any currency note or coin or making a counterfeit or otherwise for making a forgery of any credit or debit card.
+
+10\. Any article or item for making copies of any work, being an article or item of a design enabling, and held in circumstances indicating that it would likely be used for, the making, on a substantial scale, of infringing copies (within the meaning of Part II of the Copyright and Related Rights Act 2000) of the work without the copyright owner’s consent.
+
+11\. Any other article or item prescribed for the purposes of *subsection (6)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F15: Substituted (23.07.2009) by *Criminal Law (Amendment) Act 2009* (32/2009), s. 6, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E25: Offences under this section are deemed to be scheduled offences for the purposes of Part V of the *Offences Against the State Act 1939* (13/1939) (23.07.2009) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 8, commenced on enactment.
+>
+> E26: Persons convicted of offences under this section may be the subject of monitoring and protection of persons orders (18.05.2007) under *Criminal Justice Act 2007* (29/2007), s. 26 and sch. 2, item 9(ba), S.I. No. 236 of 2007.
+>
+> E27: Persons convicted of offences under this section may be subject to the imposition of minimum sentences (18.05.2007) under *Criminal Justice Act 2007* (29/2007), s. 25 and sch. 2, item 9(ba), S.I. No. 236 of 2007.
+
+### 72A. Offences under this Part: inferences that may be drawn.
+
+F16[**72A.**— (1) Where in any proceedings against a person F17[for an offence under this Part or the offence of conspiracy to murder under section 4 of the Act of 1861] evidence is given that the defendant at any time before he or she was charged with the offence, on being questioned by a member of the Garda Síochána in relation to the offence, failed to answer any question material to the investigation of the offence, then the court in determining whether a charge should be dismissed under Part IA of the Criminal Procedure Act 1967 or whether there is a case to answer and the court (or subject to the judge’s directions, the jury) in determining whether the defendant is guilty of the offence may draw such inferences from the failure as appear proper; and the failure may, on the basis of such inferences, be treated as, or as capable of amounting to, corroboration of any evidence in relation to the offence, but a person shall not be convicted of the offence solely or mainly on an inference drawn from such a failure.
+
+(2) *Subsection (1)* shall not have effect unless—
+
+(*a*) the defendant was told in ordinary language when being questioned what the effect of such a failure might be, and
+
+(*b*) the defendant was afforded a reasonable opportunity to consult a solicitor before such a failure occurred.
+
+(3) Nothing in this section shall, in any proceedings—
+
+(*a*) prejudice the admissibility in evidence of the silence or other reaction of the defendant in the face of anything said in his or her presence relating to the conduct in respect of which he or she is charged, in so far as evidence thereof would be admissible apart from this section, or
+
+(*b*) be taken to preclude the drawing of any inference from the silence or other reaction of the defendant which could be properly drawn apart from this section.
+
+(4) The court (or, subject to the judge’s directions, the jury) shall, for the purposes of drawing an inference under this section, have regard to whenever, if appropriate, an answer to the question concerned was first given by the defendant.
+
+(5) This section shall not apply in relation to the questioning of a person by a member of the Garda Síochána unless it is recorded by electronic or similar means or the person consents in writing to it not being so recorded.
+
+(6) References in *subsection (1)* to evidence shall, in relation to the hearing of an application under Part IA of the Criminal Procedure Act 1967 for the dismissal of a charge, be taken to include a statement of the evidence to be given by a witness at the trial.
+
+(7) In this section "any question material to the investigation of the offence" means:
+
+(*a*) a question requesting that the defendant give a full account of his or her movements, actions, activities or associations during any specified period relevant to the offence being investigated; and
+
+(*b*) whichever one, or more than one, of the following is relevant to the offence being investigated—
+
+(i) a question relating to any statement or conduct of the type referred to in *section 71A(3)*;
+
+(ii) a question relating to any benefit of the type referred to in *section 71A(4)(b)(i)* or *71B(4)(b)* which the member of the Garda Síochána concerned reasonably believes was received by the defendant or on his or her behalf;
+
+(iii) a question relating to articles, or documents or other records, of the type referred to in *section 71A(4)(b)(ii)* or *(5)(a)*;
+
+(iv) a question relating to any document or other record of the type referred to in *section 71B(4)(a)*—
+
+(I) created or purporting to be created by the defendant, or
+
+(II) found in the possession of the defendant on or about the time of his or her arrest or found on foot of a lawful search of any premises or vehicle occupied by the defendant;
+
+(v) a question relating to the suspected use by the defendant in a document of, or the suspected reference by him or her in a document to, a name, word, symbol or other representation of the type referred to in *section 71B(4)(a)(iii)*;
+
+(vi) a question relating to—
+
+(I) the possession by the defendant, or
+
+(II) the presence in a vehicle referred to in *section 72(6)(a)(ii)* and in the circumstances involving the defendant referred to in that provision,
+
+of any article or item referred to in the Table to *section 72*:
+
+provided that no question shall be regarded as being material to the investigation of the offence unless the member of the Garda Síochána concerned reasonably believed that the question related to the participation of the defendant in the commission of the offence.
+
+(8) In this section references to a failure to answer include references to the giving of an answer that is false or misleading and references to the silence or other reaction of the defendant shall be construed accordingly.
+
+(9) This section shall not apply in relation to a failure to answer a question if the failure occurred before the commencement of section 9 of the Criminal Justice (Amendment) Act 2009.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F16: Inserted (23.07.2009) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 9, commenced on enactment.
+>
+> F17: Substituted (1.11.2023) by *Criminal Justice (Miscellaneous Provisions) Act 2023* (24/2023), s. 4(c), S.I. No. 525 of 2023.
+>
+> F18: Substituted by *Criminal Justice Act 2011* (22/2011), s. 11, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C6: Prospective affecting provision: subs. 2(b) substituted by *Criminal Justice Act 2011* (22/2011), s. 11, not commenced as of date of revision.
+>
+> F18[(*b*) the accused was informed before such failure occurred that he or she had the right to consult a solicitor and, other than where he or she waived that right, the accused was afforded an opportunity to so consult before such failure occurred.]
+
+### 73. Commission of offence for criminal organisation.
+
+**73**.— (1) A person who commits a serious offence for the benefit of, at the direction of, or in association with, a criminal organisation is guilty of an offence.
+
+(2) In proceedings for an offence under *subsection (1)*, it shall not be necessary for the prosecution to prove that the person concerned knew any of the persons who constitute the criminal organisation concerned.
+
+(3) A person guilty of an offence under this section shall be liable on conviction on indictment to a fine or imprisonment for a term not exceeding F19[15 years] or both.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F19: Substituted (23.07.2009) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 10, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E28: Offences under this section are deemed to be scheduled offences for the purposes of Part V of the *Offences Against the State Act 1939* (13/1939) (23.07.2009) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 8, commenced on enactment.
+>
+> E29: Persons convicted of offences under this section may be the subject of monitoring and protection of persons orders (18.05.2007) under *Criminal Justice Act 2007* (29/2007), s. 26 and sch. 2, item 9(c), S.I. No. 236 of 2007.
+>
+> E30: Persons convicted of offences under this section may be subject to the imposition of minimum sentences (18.05.2007) under *Criminal Justice Act 2007* (29/2007), s. 25 and sch. 2, item 9(c), S.I. No. 236 of 2007.
+
+### 74. Proceedings relating to offences committed outside State.
+
+**74**.— F20[(1) A person who does any act in a place outside the State that would, if done in the State, be an offence under *section 71A* or *72* and either—
+
+(*a*) the act in question is done on board an Irish ship or on an aircraft registered in the State, or
+
+(*b*) the person is—
+
+(i) an individual who is an Irish citizen or ordinarily resident in the State, or
+
+(ii) a body corporate established under the law of the State or a company within the meaning of the Companies Acts,
+
+then the person is guilty of an offence and shall be liable to be proceeded against and punished as if he or she were guilty of an offence under *section 71A* or *72*, as the case may be.]
+
+(2) Where a person is charged with an offence referred to in *subsection (1)*, no further proceedings in the matter (other than any remand in custody or on bail) may be taken except by or with the consent of the Director of Public Prosecutions.
+
+F21[(2A) Proceedings for—
+
+(*a*) an offence under *section 71* in relation to an act committed outside the State, or
+
+(*b*) an offence under *subsection (1)*,
+
+may be taken in any place in the State and the offence may for all incidental purposes be treated as having been committed in that place.]
+
+(3) The Director of Public Prosecutions may take, or consent to the taking of, further proceedings against a person for an offence in respect of an act to which *subsection (1)* of *section 71* applies and that is committed outside the State in the circumstances referred to in *subsection (3)* of that section if satisfied—
+
+(*a*) that—
+
+(i) a request for a person’s surrender for the purpose of trying him or her for an offence in respect of that act has been made under Part II of the Extradition Act 1965 by any country, and
+
+(ii) the request has been finally refused (whether as a result of a decision of the court or otherwise),
+
+or
+
+(*b*) that—
+
+(i) a F22[relevant arrest warrant] has been received from an issuing state for the purpose of bringing proceedings against the person for an offence in respect of that act, and
+
+(ii) a final determination has been made that the F23[relevant arrest warrant] should not be endorsed for execution in the State under the European Arrest Warrant Act 2003 or that the person should not be surrendered to the issuing state concerned,
+
+or
+
+(*c*) that, because of the special circumstances (including, but not limited to, the likelihood of a refusal referred to in *paragraph (a)(ii)* or a determination referred to in *paragraph (b)(ii)*), it is expedient that proceedings be taken against the person for an offence under the law of the State in respect of the act.
+
+(4) In this section “F24[relevant arrest warrant]” and “issuing state” have the meanings they have in section 2(1) of the European Arrest Warrant Act 2003.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F20: Substituted (23.07.2009) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 11(a), commenced on enactment.
+>
+> F21: Inserted (23.07.2009) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 11(b), commenced on enactment.
+>
+> F22, F23, F24: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 41(a), (b), in effect as per reg. 1(2).
+
+### 74A. Aggravating factor: serious offence committed as part of, or in furtherance of, activities of criminal organisation.
+
+F25[**74A.**— (1) Where a court is determining the sentence to be imposed on a person for a serious offence, the fact that the offence was committed as part of, or in furtherance of, the activities of a criminal organisation shall be treated for the purpose of determining the sentence as an aggravating factor.
+
+(2) Accordingly, the court shall (except where the sentence for the serious offence is one of imprisonment for life or where the court considers that there are exceptional circumstances justifying its not doing so) impose a sentence that is greater than that which would have been imposed in the absence of such a factor.
+
+(3) The sentence imposed shall not be greater than the maximum sentence permissible for the serious offence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F25: Inserted (23.07.2009) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 12, commenced on enactment.
+
+### 74B. Exclusion of evidence in certain circumstances.
+
+F26[**74B.**— Nothing in this Part prevents a court, in proceedings thereunder, from excluding evidence that would otherwise be admissible if, in its opinion, the prejudicial effect of the evidence outweighs its probative value.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F26: Inserted (23.07.2009) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 13, commenced on enactment.
+
+### 75. Evidence in proceedings under this Part.
+
+**75**.— (1) In any proceedings for an offence under *section 71*—
+
+(*a*) a certificate that is signed by an officer of the Department of Foreign Affairs and states that—
+
+(i) a passport was issued by that Department of State to a person on a specified date, and
+
+(ii) to the best of the officer’s knowledge and belief, the person has not ceased to be an Irish citizen,
+
+is evidence that the person was an Irish citizen on the date on which the offence concerned is alleged to have been committed, unless the contrary is shown, and
+
+(*b*) a certificate that is signed by the Director of Public Prosecutions or by a person authorised by him or her and that states that any of the matters specified in *paragraph (a)*, *(b)* or *(c)* of *section 74(3)* is evidence of the facts stated in the certificate, unless the contrary is shown.
+
+(2) A document purporting to be a certificate under *subsection (1)* is deemed, unless the contrary is shown—
+
+(*a*) to be such a certificate,
+
+(*b*) to have been signed by the person purporting to have signed it, and
+
+(*c*) in the case of a certificate signed with the authority of the Minister for Foreign Affairs or the Director of Public Prosecutions, to have been signed in accordance with the authorisation.
+
+### 76. Liability for offences by bodies corporate.
+
+**76**.— (1) F27[Where an offence under this Part or the offence of conspiracy to murder under section 4 of the Act of 1861 is committed] by a body corporate and is proved to have been committed with the consent, connivance or approval of, or to have been attributable to any wilful neglect on the part of, any person, being a director, manager, secretary or any other officer of the body corporate or a person who was purporting to act in any such capacity, that person, as well as the body corporate, shall be guilty of an offence and shall be liable to be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
+
+(2) Where the affairs of a body corporate are managed by its members, *subsection* *(1)* shall apply in relation to the acts and defaults of a member in connection with his or her functions of management as if he or she were a director or manager of the body corporate.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F27: Substituted (1.11.2023) by *Criminal Justice (Miscellaneous Provisions) Act 2023* (24/2023), s. 4(d), S.I. No. 525 of 2023.
+>
+> **Editorial Notes:**
+>
+> E31: Offences under this section deemed to be scheduled offences for purposes of the *Offences Against the State Act 1939* (13/1939), Part V (23.07.2009) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 8, commenced on enactment.
+
+### 77. Double jeopardy.
+
+F28[**77.**— A person who is acquitted or convicted of an offence in a place outside the State shall not be proceeded against for an offence—
+
+(*a*) under *section 71* consisting of the act, or the conspiracy to do an act, that constituted the offence,
+
+(*b*) under *section 72* consisting of the act that constituted the offence, or
+
+(*c*) of conspiracy to murder under section 4 of the Act of 1861 consisting of the act, or the conspiracy to do the act, that constituted the offence,
+
+of which the person was so acquitted or convicted.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F28: Substituted (1.11.2023) by *Criminal Justice (Miscellaneous Provisions) Act 2023* (24/2023), s. 4(e), S.I. No. 525 of 2023.
+
+### 78. Amendment of Act of 1967.
+
+**78**.— The Act of 1967 is amended—
+
+(*a*) in section 13(1), by the insertion of “or an offence under *section 71*, *72* or *73* of the *Criminal Justice Act 2006*” after “the offence of murder under section 6 or 11 of the Criminal Justice (Terrorist Offences) Act 2005 or an attempt to commit such offence”, and
+
+(*b*) in section 29(1), by the insertion of the following paragraph after paragraph (*k*):
+
+“(*l*) an offence under *section 71,* *72* or *73* of the *Criminal Justice Act 2006*.”.
+
+### 79. Amendment of Schedule to Bail Act 1997.
+
+**79**.— The Schedule to the Bail Act 1997 is amended by the insertion of the following after paragraph 28:
+
+“Organised Crime.
+
+28A.— An offence under *section 71,* *72* or *73* of the *Criminal Justice Act 2006*.”.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E32: Prospective affecting provision: para. 28A of schedule to *Bail Act 1997* (16/1997) as inserted by section subsequently extended to include offences under s. 176 (reckless endangerment of children), s. 183 (possession of article intended for use in connection with certain offences) and s. 183A (possession of monies intended for use in connection with certain offences) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 48(c)(iii), not commenced as of date of revision.
+
+## PART 8 Misuse of Drugs — PART 8 — Misuse of Drugs
+
+### 80. Definition.
+
+**80**.— In this Part “Act of 1977” means Misuse of Drugs Act 1977.
+
+### 81. Amendment of section 15A of Act of 1977.
+
+**81**.— (1) Section 15A of the Act of 1977 is amended by the insertion of the following subsection after subsection (3):
+
+“(3A) In any proceedings for an offence under this section, it shall not be necessary for the prosecutor to prove that a person knew that at any time while the controlled drug or drugs concerned were in the person’s possession that the market value of that drug or the aggregate of the market values of those drugs, as the case may be, amounted to €13,000 or more or that he or she was reckless in that regard.”.
+
+(2) This section shall not have effect in relation to proceedings for an offence under section 15A of the Act of 1977 instituted before the commencement of this section.
+
+### 82. Importation of controlled drugs in excess of certain value.
+
+**82**.— The Act of 1977 is amended by the insertion of the following section after section 15A:
+
+“Importation of controlled drugs in excess of certain value.
+
+15B.— (1) A person shall be guilty of an offence where—
+
+(*a*) the person imports one or more controlled drugs in contravention of regulations under section 5 of this Act, and
+
+(*b*) at or about the time the drug or drugs are imported the market value of the controlled drug or the aggregate of the market values of the controlled drugs, as the case may be, amounts to €13,000 or more.
+
+(2) If the court is satisfied that a member of the Garda Síochána or an officer of customs and excise has knowledge of the unlawful sale or supply of controlled drugs, that member or officer, as the case may be, shall be entitled in any proceedings for an offence under this section to be heard and to give evidence as to—
+
+(*a*) the market value of the controlled drug concerned, or
+
+(*b*) the aggregate of the market values of the controlled drugs concerned.
+
+(3) In any proceedings for an offence under this section, it shall not be necessary for the prosecutor to prove that a person knew that at the time the person imported the controlled drug or drugs concerned that the market value of that drug or the aggregate of the market values of those drugs, as the case may be, amounted to €13,000 or more or that he or she was reckless in that regard.
+
+(4) No proceedings may be instituted under this section except by or with the consent of the Director of Public Prosecutions.
+
+(5) In this section ‘market value’ and ‘an officer of customs and excise’ have the meanings they have in section 15A of this Act.”.
+
+### 83. Supply of controlled drugs into prisons and places of detention.
+
+**83**.— The Act of 1977 is amended by the insertion of the following section after section 15B (inserted by *section* *82* of this Act):
+
+“Supply of controlled drugs into prisons and places of detention.
+
+15C.— (1) A person shall be guilty of an offence where—
+
+(*a*) the person, other than in accordance with regulations made under section 4 of this Act, conveys a controlled drug into a prison, children detention school or remand centre or to a person in the prison, school or centre,
+
+(*b*) the person, other than in accordance with regulations made under section 4 of this Act, places a controlled drug in any place inside or outside a prison, children detention school or remand centre with intent that it shall come into the possession of a person in the prison, school or centre,
+
+(*c*) the person throws or projects a controlled drug into a prison, children detention school or remand centre, or
+
+(*d*) the person, while in the vicinity of a prison, children detention school or remand centre, has in his or her possession a controlled drug with intent to commit an act referred to in paragraph (*a*), (*b*) or (*c*) of this subsection.
+
+(2) A person may be guilty of an offence under subsection (1) of this section irrespective of the quantity of the controlled drug concerned.
+
+(3) Subject to section 29(3) of this Act, in any proceedings for an offence under subsection (1)(*d*) of this section, where—
+
+(*a*) it is proved that a person was in possession of a controlled drug in the vicinity of a prison, children detention school or remand centre, as the case may be, and
+
+(*b*) the court (or the jury, as the case may be), having regard to all the circumstances including the person’s proximity to the prison, school or centre, as the case may be, the packaging (if any) of the controlled drug and the time of the day or night concerned, is satisfied that it is reasonable to assume that the controlled drug was not intended for his or her immediate personal use,
+
+he or she shall be presumed, until the court (or the jury, as the case may be) is satisfied to the contrary, to have been in possession of the controlled drug with intent to commit an act referred to in paragraph (*a*) or (*b*) or, as the case may be, (*c*) of subsection (1) of this section.
+
+(4) In any proceedings for an offence under subsection (1) of this section, it shall not be necessary for the prosecutor to prove that the controlled drug concerned was intended to come into the possession of any particular person in the prison, children detention school or remand centre, as the case may be.
+
+(5) If a prison officer or an authorised member of the staff of a children detention school or remand centre reasonably suspects that a person has committed or is committing an offence under this section, he or she may, for the purpose of detecting the commission of such an offence, search the person at any time while he or she is in the prison, school or centre, as the case may be.
+
+(6) A prison officer or an authorised member of the staff of a children detention school or remand centre may, for the purpose of performing his or her functions under subsection (5) of this section, have a controlled drug in his or her possession.
+
+(7) A person guilty of an offence under this section shall be liable—
+
+(*a*) on summary conviction, to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both, or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 10 years or both.
+
+(8) In this section—
+
+‘an authorised member of the staff’ —
+
+(*a*) in relation to a children detention school, means a member of the staff of the school who is authorised in writing for the purposes of this section by the Director (within the meaning of section 157 of the Children Act 2001) of the school, and
+
+(*b*) in relation to a remand centre, means a member of the staff of the centre who is authorised in writing for the purposes of this section by the owners or, as the case may be, the managers of the centre;
+
+‘children detention school’ and ‘remand centre’ have the meanings they have in section 3(1) of the Children Act 2001;
+
+‘prison’ means a place of custody administered by the Minister for Justice, Equality and Law Reform and includes Saint Patrick’s Institution and a place of detention provided under section 2 of the Prisons Act 1970, and ‘prison officer’, in relation to a prison, shall be construed accordingly.”.
+
+### 84. Amendment of section 27 of Act of 1977.
+
+**84**.— Section 27 of the Act of 1977 is amended—
+
+(*a*) in subsection (3A)—
+
+(i) by the substitution of “an offence under section 15A or 15B of this Act” for “an offence under section 15A”, and
+
+(ii) by the substitution of the following paragraph for paragraph (*a*):
+
+“(*a*) to imprisonment for life or such shorter period as the court may determine, subject to subsections (3B) to (3CC) of this section or, where subsection (3CCCC) of this section applies, to that subsection, and”,
+
+(*b*) by the insertion of the following subsection after subsection (3A):
+
+“(3AA) The court, in imposing sentence on a person for an offence under section 15A or 15B of this Act, may, in particular, have regard to whether the person has a previous conviction for a drug trafficking offence.”,
+
+(*c*) in subsection (3B), by the substitution of “an offence under section 15A or 15B of this Act” for “an offence under section 15A”,
+
+(*d*) by the insertion of the following subsections after subsection (3C):
+
+“(3CC) The court, in considering for the purposes of subsection (3C) of this section whether a sentence of not less than 10 years imprisonment is unjust in all the circumstances, may have regard, in particular, to—
+
+(*a*) whether the person convicted of the offence concerned was previously convicted in respect of a drug trafficking offence, and
+
+(*b*) whether the public interest in preventing drug trafficking would be served by the imposition of a lesser sentence.
+
+(3CCC) Subsections (3B) to (3CC) of this section apply and have effect only in relation to a person convicted of a first offence under section 15A or 15B of this Act (other than a person who falls under paragraph (*b*) of subsection (3CCCC) of this section), and accordingly references in those first-mentioned subsections to an offence under section 15A or 15B of this Act are to be construed as references to a first such offence.
+
+(3CCCC) Where a person (other than a child or young person)—
+
+(*a*) is convicted of a second or subsequent offence under section 15A or 15B of this Act, or
+
+(*b*) is convicted of a first offence under one of those sections and has been convicted under the other of those sections,
+
+the court shall, in imposing sentence, specify as the minimum period of imprisonment to be served by that person a period of not less than 10 years.”,
+
+(*e*) in subsection (3I), by the substitution of “an offence under section 15A or 15B of this Act” for “an offence under section 15A of this Act” and the substitution of “each of those offences” for “that offence”, and
+
+(*f*) by the insertion of the following subsection after subsection (3J):
+
+“(3K) In subsections (3AA) and (3CC) of this section ‘drug trafficking offence’ has the meaning it has in section 3(1) of the Criminal Justice Act 1994 and in subsection (3CC) of this section ‘drug trafficking’ has the meaning it has in the said section 3(1).”.
+
+### 85. Amendment of section 29 of Act of 1977.
+
+**85**.— Section 29 of the Act of 1977 is amended by the substitution of the following subsection for subsection (3):
+
+“(3) In any proceedings for an offence under section 15 or 15A, or subsection (1)(*d*) of section 15C, of this Act, a defendant may rebut the presumption raised by subsection (2) of the said section 15 or 15A or subsection (3) of the said section 15C, as the case may be, by showing that at the time of the alleged offence, he or she was by virtue of regulations made under section 4 of this Act lawfully in possession of the controlled drug or drugs to which the proceedings relate.”.
+
+### 86. Amendment of section 3(1) of Criminal Justice Act 1994.
+
+**86**.— Section 3(1) of the Criminal Justice Act 1994 is amended in the definition of “drug trafficking offence” by the insertion of the following paragraph after paragraph (*bb*):
+
+“(*bbb*) an offence under section 15B (importation of controlled drugs in excess of certain value) of that Act,”.
+
+## PART 9 Obligations of Drug Trafficking Offenders to Notify Certain Information — PART 9 — Obligations of Drug Trafficking Offenders to Notify Certain Information
+
+### 87. Definitions ( Part 9 ).
+
+**87**.— In this Part, unless the context otherwise requires—
+
+“court” means any court exercising criminal jurisdiction and includes a court-martial;
+
+“imprisonment” includes detention in Saint Patrick’s Institution and a place of detention provided under section 2 of the Prisons Act 1970, and “ prison” shall be construed accordingly;
+
+“prescribed” means prescribed by regulations made by the Minister under this Act;
+
+“relevant date” means the date of conviction for the drug trafficking offence concerned;
+
+“remission from the sentence” means, in relation to the sentence imposed on a person, the remission which the person may earn from the sentence under the rules or practice whereby prisoners generally may earn remission of sentence by industry and good conduct;
+
+“sentence” includes a sentence of imprisonment and an order postponing sentence.
+
+### 88. Drug trafficking offences for purposes of this Part.
+
+**88**.— In this Part “drug trafficking offence” has the meaning it has in section 3(1) (as amended by *section* *86* ) of the Criminal Justice Act 1994 but does not include such an offence unless the person convicted of it has, in respect thereof, been sentenced to imprisonment for a period of more than one year.
+
+### 89. Persons subject to the requirements of this Part.
+
+**89**.— (1) Without prejudice to *subsections* *(2)* and *(3)* and *section* *95* , a person is subject to the requirements of this Part if he or she is convicted on indictment of a drug trafficking offence after the commencement of this Part.
+
+(2) A person is also subject to the requirements of this Part if he or she has been convicted on indictment of a drug trafficking offence before the commencement of this Part and, at that commencement, the sentence to be imposed on the person in respect of the offence has yet to be determined.
+
+(3) If a person has been convicted on indictment of a drug trafficking offence before the commencement of this Part and, at that commencement, a sentence has been imposed on the person in respect of the offence and—
+
+(*a*) the person is serving the sentence in prison,
+
+(*b*) the person is temporarily released under section 2 of the Criminal Justice Act 1960, or
+
+(*c*) the sentence is otherwise still in force or current,
+
+the Circuit Court, in the circuit where the person ordinarily resides or has his or her most usual place of abode, may, on application to it in that behalf by a member of the Garda Síochána not below the rank of superintendent, order that the person shall be subject to the requirements of this Part if it considers that the interests of the common good so require and that it is appropriate in all the circumstances of the case.
+
+(4) An application under *subsection* *(3)* may be made within a period of 2 months, or such longer period as the Circuit Court may permit, of the commencement of this Part.
+
+### 90. Period for which person is subject to requirements of this Part and related matters.
+
+**90**.— (1) A person who, by reason of *section* *89* , is subject to the requirements of this Part shall be so subject for the period referred to in *subsection* *(3)* or, in the case of a person referred to in *subsection* *(2)* or *(3)* of *section* *89* , so much (if any) of that period as falls after the commencement of this Part.
+
+(2) *Subsection* *(1)* is subject to *section* *93* *.*
+
+(3) The period mentioned in *subsection* *(1)* is the period, beginning with the relevant date, of—
+
+(*a*) 12 years if the sentence imposed on the person in respect of the offence concerned is one of imprisonment for life,
+
+(*b*) 7 years if the sentence imposed on the person in respect of the offence concerned is one of imprisonment for a term of more than 10 years but not one of imprisonment for life,
+
+(*c*) 5 years if the sentence imposed on the person in respect of the offence concerned is one of imprisonment for a term of more than 5 years but not more than 10 years,
+
+(*d*) 3 years if the sentence imposed on the person in respect of the offence concerned is one of imprisonment for a term of more than one year but not more than 5 years,
+
+(*e*) one year if the sentence imposed on the person in respect of the offence concerned is one of imprisonment for any term, the operation of the whole of which is suspended (but, if the operation of that term is revived by the court, whichever of the preceding paragraphs is appropriate shall apply instead of this paragraph).
+
+(4) If—
+
+(*a*) a sentence is imposed on a person in respect of a drug trafficking offence, and
+
+(*b*) at the time of sentencing the person is aged under 18 years,
+
+*subsection* *(3)* shall have effect in relation to that person as if for the references to 12 years, 7 years, 5 years, 3 years and one year in that subsection there were substituted references to 6 years, 3½ years, 2½ years, 1½ years and 6 months, respectively.
+
+(5) If a sentence of imprisonment for any term is imposed on the person referred to in *subsection* *(1)* in respect of the offence concerned and the operation of a part of that term is suspended—
+
+(*a*) the part of that term the operation of which is not suspended shall be regarded as the term of imprisonment imposed on that person for the purposes of *subsection* *(3)* (but, if the operation of the first-mentioned part of that term is revived by the court, whichever of *paragraphs* *(a)* , *(b)* , *(c)* and *(d)* of *subsection* *(3)* is appropriate shall apply without regard to this paragraph),
+
+(*b*) *paragraph* *(a)* extends to a case in which that suspension is provided for subsequent to the imposition of the sentence.
+
+(6) If a person is or has been sentenced in respect of 2 or more drug trafficking offences and the sentences imposed are consecutive or partly concurrent then *subsection* *(3)* shall have effect as if—
+
+(*a*) in the case of consecutive sentences, the sentence imposed in respect of each of the offences were or had been a sentence equal to the aggregate of those sentences,
+
+(*b*) in the case of partly concurrent sentences, the sentence imposed in respect of each of the offences were or had been a sentence equal to the aggregate of those sentences after making such deduction as is necessary to ensure that no period of time is counted more than once.
+
+(7) Without prejudice to *section* *93* , a person shall cease to be subject to the requirements of this Part if the conviction in respect of the offence concerned is quashed on appeal or otherwise.
+
+(8) A reference in this section to a sentence imposed on a person shall, if the sentence is varied on appeal, be construed as a reference to the sentence as so varied and, accordingly, the period for which a person is subject to the requirements of this Part, by reason of this section, shall stand reduced or increased, as the case may be, in the event that such a variation is made which results in the sentence falling under a different paragraph of *subsection* *(3)* than it did before the variation.
+
+### 91. Supply of information to facilitate compliance with this Part.
+
+**91**.— The person for the time being in charge of the place where a person subject to the requirements of this Part is ordered to be imprisoned in respect of an offence (whether or not the offence that gave rise to the person’s being subject to those requirements) shall notify in writing—
+
+(*a*) before the date on which the sentence of imprisonment imposed on the person in respect of the first-mentioned offence expires or, as the case may be, the person’s remission from the sentence begins (“the date of release”), the person that he or she is subject to the requirements of this Part, and
+
+(*b*) at least 10 days before the date of release, the Commissioner of the Garda Síochána of the fact that that expiry or remission will occur in relation to the person.
+
+### 92. Notification requirements.
+
+**92**.— (1) A person who is subject to the requirements of this Part shall, before the end of the period of 7 days beginning with—
+
+(*a*) the relevant date,
+
+(*b*) if an order is made under *section 89(3)* or *95(3)* , the date of the order, or
+
+(*c*) if the relevant date is prior to the commencement of this Part and no such order is made, that commencement,
+
+notify to the Garda Síochána—
+
+(i) his or her name and, where he or she also uses one or more other names, each of those names, and
+
+(ii) his or her home address.
+
+(2) A person who is subject to those requirements shall also, before the end of the period of 7 days beginning with—
+
+(*a*) the person’s using a name which is not the name, or one of the names, last previously notified by him or her to the Garda Síochána under this section,
+
+(*b*) any change of his or her home address,
+
+(*c*) the person’s having resided or stayed, for a qualifying period, at any place in the State, the address of which has not been notified to the Garda Síochána under this section as being his or her current home address, or
+
+(*d*) the person’s returning to an address in the State, having, immediately prior to such return, been outside the State for a continuous period of 7 days or more,
+
+notify that name, the effect of that change, the address of that place or, as the case may be, the fact of that return to the Garda Síochána.
+
+(3) If a person who is subject to the requirements of this Part intends to leave the State for a continuous period of 7 days or more he or she shall notify the Garda Síochána of that intention and, if known, the address of the place outside the State he or she intends to reside or stay at.
+
+(4) If a person who is subject to the requirements of this Part is outside the State for a continuous period of 7 days or more and did not intend, on leaving the State, to be outside the State for such a continuous period, the person shall, subject to *subsection (5)*, notify the Garda Síochána, before the expiry of a further period of 7 days, reckoned from the 7th day that he or she is so outside the State, of that fact and the address of the place at which he or she is residing or staying outside the State.
+
+(5) *Subsection* *(4)* shall not apply if the person concerned has returned to the State before the expiry of the further period of 7 days mentioned in that subsection.
+
+(6) A notification given to the Garda Síochána by any person shall not be regarded as complying with *subsection (1)*, *(2)*, *(3)* or *(4)* unless it also states the person’s—
+
+(*a*) date of birth,
+
+(*b*) name on the relevant date and, where he or she used one or more other names on that date, each of those names, and
+
+(*c*) home address on the relevant date.
+
+(7) For the purpose of determining any period for the purposes of *subsection (1),* *(2),* *(3)* or *(4)*, there shall be disregarded any time when the person concerned is—
+
+(*a*) remanded in custody,
+
+(*b*) serving a sentence in prison, or
+
+(*c*) temporarily released under section 2 of the Criminal Justice Act 1960.
+
+(8) A person may give a notification under this section—
+
+(*a*) by attending in person at any Garda Síochána station which is a divisional or district headquarters and notifying orally a member of the Garda Síochána at the station of the matters concerned,
+
+(*b*) by sending, by post, a written notification of the matters concerned to any Garda Síochána station which is such a headquarters, or
+
+(*c*) by such other means as may be prescribed.
+
+(9) The onus of proof of the sending by post of such a notification shall, in any proceedings for an offence under *section 94(1)(a)*, lie on the defendant.
+
+(10) A notification under this section shall be acknowledged in writing and that acknowledgement shall be in such form as may be prescribed.
+
+(11) In this section—
+
+“home address”, in relation to any person, means the address of his or her sole or main residence or, if he or she has no such residence, his or her most usual place of abode or, if he or she has no such abode, the place which he or she regularly visits;
+
+“qualifying period” means—
+
+(*a*) a period of 7 days, or
+
+(*b*) 2 or more periods, in any period of 12 months, which (taken together) amount to 7 days.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F29, F30: Substituted by *Garda Síochána (Functions and Operational Areas) Act 2022*(7/2022), s. 8(a), (b), not commenced as of date of revision, subject to transitional provision in s. 25 as substituted by *Sex Offenders (Amendment) Act 2023* (9/2023), s. 30, not commenced as of date of revision.
+>
+> F31: Inserted by *Garda Síochána (Functions and Operational Areas) Act 2022*(7/2022), s. 8(c), not commenced as of date of revision, subject to transitional provision in s. 25 as substituted by *Sex Offenders (Amendment) Act 2023* (9/2023), s. 30, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C7: Prospective affecting provision: subs. (8)(a), (b) amended, subs. (8A) inserted by *Garda Síochána (Functions and Operational Areas) Act 2022*(7/2022), s. 8(a), (b), (c), not commenced as of date of revision, subject to transitional provision in s. 25 as substituted by *Sex Offenders (Amendment) Act 2023* (9/2023), s. 30, not commenced as of date of revision.
+>
+> (8) A person may give a notification under this section—
+>
+> (*a*) by attending in person at any Garda Síochána station which is a F29[divisional headquarters or which has been designated by the Commissioner of the Garda Síochána for the purposes of this subsection] and notifying orally a member of the Garda Síochána at the station of the matters concerned,
+>
+> (*b*) by sending, by post, a written notification of the matters concerned to any Garda Síochána station which is such a F30[headquarters or is designated under *paragraph (a)*], or
+>
+> (*c*) by such other means as may be prescribed.
+>
+> F31[(8A) A designation under *subsection (8)(a)* shall be in writing and the Commissioner of the Garda Síochána shall cause a list of the Garda Síochána stations so designated to be published.]
+
+### 93. Discharge from obligation to comply with requirements of this Part.
+
+**93**.— (1) A person who, by reason of *sections* *89* and *90* , is subject to the requirements of this Part for a period of 12 years or 6 years (in the case of a person to whom *section* *90* *(4)* applies) may apply to the court for an order discharging the person from the obligation to comply with those requirements on the ground that the interests of the common good are no longer served by his or her continuing to be subject to them.
+
+(2) An application under this section shall not be made before the expiration of the period of 8 years, or 4 years in the case of a person to whom *section* *90* *(4)* applies, from the date of the applicant’s release from prison.
+
+(3) The applicant shall, not later than the beginning of such period before the making of the application as may be prescribed, notify the superintendent of the Garda Síochána of the district in which he or she ordinarily resides or has his or her most usual place of abode of his or her intention to make an application under this section.
+
+(4) That superintendent or any other member of the Garda Síochána shall be entitled to appear and be heard at the hearing of that application.
+
+(5) On the hearing of an application under this section, the court shall, if it considers that it is appropriate to do so in all the circumstances of the case, make an order discharging the applicant from the obligation to comply with the requirements of this Part.
+
+(6) In considering an application under this section, the court may have regard to any matter that appears to it to be relevant and may, in particular, have regard to the character of the applicant, his or her conduct after conviction for the offence concerned and the offence concerned.
+
+(7) If the court makes an order discharging the applicant from the obligation to comply with the requirements of this Part, the court shall cause the Garda Síochána to be notified, in writing, of that discharge.
+
+(8) The jurisdiction of the court in respect of an application under this section may be exercised by the judge of the circuit where the applicant ordinarily resides or has his or her most usual place of abode.
+
+(9) Proceedings under this section shall be heard otherwise than in public.
+
+(10) In this section—
+
+“applicant” means the person referred to in *subsection* *(1)* ;
+
+“court” means the Circuit Court;
+
+“date of the applicant’s release from prison” means the date on which the applicant’s sentence of imprisonment for the purposes of *section* *90* *(3)* expires or, as the case may be, his or her remission from the sentence begins.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F32, F33: Substituted by *Garda Síochána (Functions and Operational Areas) Act 2022*(7/2022), s. 4(1) and sch. 1 ref. 24, not commenced as of date of revision, subject to transitional provisions in ss. 13, 26.
+>
+> **Modifications (not altering text):**
+>
+> C8: Prospective affecting provision: subss. (3), (4) amended by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 4(1) and sch. 1 ref. 24, not commenced as of date of revision, subject to transitional provisions in ss. 13, 26.
+>
+> (3) The applicant shall, not later than the beginning of such period before the making of the application as may be prescribed, notify F32[an inspector of the Garda Síochána in the Garda division] in which he or she ordinarily resides or has his or her most usual place of abode of his or her intention to make an application under this section.
+>
+> (4) F33[A superintendent or any other member of the Garda Síochána in the Garda division in which the applicant ordinarily resides] shall be entitled to appear and be heard at the hearing of that application.
+
+### 94. Offences in connection with notification requirements.
+
+**94**.— (1) A person who—
+
+(*a*) fails, without reasonable excuse, to comply with *subsection (1)*, *(2)*, *(3)* or *(4)* of *section 92* or *section 95(1)*, or
+
+(*b*) notifies to the Garda Síochána, in purported compliance with that *subsection (1)*, *(2)*, *(3)* or *(4)* or *section 95(1)*, as may be appropriate, any information which he or she knows to be false or misleading in any respect,
+
+shall be guilty of an offence.
+
+(2) A person is guilty of an offence under *subsection (1)(a)* on the day on which he or she first fails, without reasonable excuse, to comply with *subsection (1)*, *(2)*, *(3)* or *(4)*, as the case may be, of *section 92* or *section 95(1)* and continues to be guilty of it throughout any period during which the failure continues; but a person shall not be prosecuted under that provision more than once in respect of the same failure.
+
+(3) A person guilty of an offence under this section shall be liable, on summary conviction, to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both.
+
+(4) In proceedings for an offence under *subsection (1)(a)* a statement on oath by a member of the Garda Síochána referred to in *subsection (5)* that no notification of the matters concerned was given by the defendant to the Garda Síochána by any of the means referred to in *section 92(8)* shall, until the contrary is shown, be evidence that no such notification was given by the defendant.
+
+(5) The member of the Garda Síochána referred to in *subsection (4)* is a member not below the rank of sergeant who, from his or her evidence to the court, the court is satisfied—
+
+(*a*) is familiar with the systems operated by the Garda Síochána for recording the fact that particular information has been received by them, and
+
+(*b*) has made all proper inquiries in ascertaining whether a notification by the defendant of the matters concerned was received by the Garda Síochána.
+
+### 95. Application of this Part to persons convicted outside State.
+
+**95**.— (1) If—
+
+(*a*) a person has been convicted, in a place other than the State, of an offence,
+
+(*b*) the act constituting the offence concerned would, if done in the State, constitute a drug trafficking offence (within the meaning of this Part) under the law of the State, and either—
+
+(i) the person would, accordingly, be subject to the requirements of this Part by reason of *subsection (1)* or *(2)* of *section 89*, or
+
+(ii) at the commencement of this Part, the person, as a person who has been convicted of an offence mentioned in *paragraph (a)*, is required, under the law of the first-mentioned place in that paragraph (however that requirement is described in that law), to notify to the police in that place information of a similar nature to that required to be notified by a person otherwise subject to the requirements of this Part,
+
+and
+
+(*c*) the person is, at the time of the conviction, or thereafter becomes, resident in the State,
+
+he or she shall, before the end of the period specified in *subsection (2)*, notify to the Garda Síochána—
+
+(I) his or her name and, where he or she also uses one or more other names, each of those names,
+
+(II) his or her home address, and
+
+(III) the fact of his or her conviction for the offence referred to in *paragraph (a)*.
+
+(2) The period referred to in *subsection (1)* is the period of 7 days beginning with—
+
+(*a*) in case the person is already resident in the State upon his or her so first returning and *paragraph (c)* does not apply, the date on which the person first returns to the State after being convicted of the offence concerned,
+
+(*b*) in case the person is not so resident and *paragraph (c)* does not apply, the date on which the person first becomes resident in the State after being convicted of the offence concerned, or
+
+(*c*) in case the date on which the person so first returns to, or becomes resident in, the State is prior to the commencement of this Part, the commencement of this Part.
+
+(3) The Circuit Court, in the circuit where a person to whom *subsection (1)* applies ordinarily resides or has his or her most usual place of abode, on application to it in that behalf by a member of the Garda Síochána not below the rank of superintendent, may order that the person shall be subject to the requirements of this Part if it considers that the interests of the common good so require and that it is appropriate in all the circumstances of the case.
+
+(4) An application under *subsection (3)* may be made within a period of—
+
+(*a*) 2 months of the date of the notification under *subsection (1)*, or
+
+(*b*) if no such notification is given, 6 months of the date specified in *paragraph (a)*, *(b)* or *(c)*, as may be appropriate, of *subsection (2)*,
+
+or such longer period as the Circuit Court may permit.
+
+(5) For the purposes of this section, a person shall be deemed to be resident in the State if he or she is ordinarily resident, or has his or her principal residence, in the State, or is in the State for a qualifying period.
+
+(6) Where a person to whom this section applies is charged with an offence under *section 94*, he or she shall, whether or not he or she would be treated for the purposes of *section 94* as having a reasonable excuse apart from this subsection, be treated for those purposes as having a reasonable excuse if he or she believed that the act constituting the offence referred to in *subsection (1)* would not, if done in the State, constitute any drug trafficking offence (within the meaning of this Part) under the law of the State.
+
+(7) For the purposes of *subsection (6)*, it is immaterial whether a belief is justified or not if it is honestly held.
+
+(8) *Subsections (8)* to *(10)* of *section 92* shall apply to a notification under *subsection (1)* as they apply to a notification under that section.
+
+(9) In this section—
+
+“police” means, in relation to the first-mentioned place in *subsection (1)*, any police force in that place, or a member thereof, whether that force is organised at a national, regional or local level;
+
+“home address” and “qualifying period” have the same meanings as they have in *section 92*.
+
+### 96. Certificate as evidence of person’s being subject to requirements of this Part.
+
+**96**.— (1) If the conviction, after the commencement of this Part, of a person for an offence gives rise or may give rise to his or her becoming subject to the requirements of this Part, the court before which he or she is convicted of the offence shall forthwith, after the conviction, issue to each of the persons referred to in *subsection (6)* a certificate stating—
+
+(*a*) that the person has been convicted of the offence,
+
+(*b*) the sentence, if any, imposed on the person in respect of the offence, and
+
+(*c*) that the person has become or, as may be appropriate, may become subject to the requirements of this Part.
+
+(2) If a sentence is imposed on a person in respect of the offence referred to in *subsection (1)* after a certificate relating to that offence has been issued under that subsection, the court which imposed the sentence shall forthwith, after the imposition of the sentence, issue to each of the persons referred to in *subsection (6)* a certificate stating the sentence that has been imposed on the person.
+
+(3) A court that makes an order under *section 89(3)* or *95(3)* in respect of a person shall forthwith, after the making of the order, issue to each of the persons referred to in *subsection (6)* a certificate stating—
+
+(*a*) the offence for which the person has been convicted that gave rise to his or her becoming subject to the requirements of this Part,
+
+(*b*) the sentence imposed on the person in respect of that offence, and
+
+(*c*) that the person has become subject to the requirements of this Part.
+
+(4) If—
+
+(*a*) the conviction referred to in *subsection (1)* or *(3)(a)* insofar as it relates to an order made under *section 89(3)* is quashed on appeal or otherwise, or
+
+(*b*) the sentence imposed on foot of that conviction is varied on appeal or otherwise,
+
+the court which quashes the conviction or varies the sentence shall forthwith, after the quashing of the conviction or the variation of the sentence, issue to each of the persons referred to in *subsection (6)* a certificate stating that the conviction has been quashed or stating the variation that has been made in the sentence.
+
+(5) A certificate purporting to be issued under *subsection (1)*, *(2)*, *(3)* or *(4)* shall, in any proceedings, be evidence of the matters stated in it without proof of the signature of the officer of the court purporting to sign it or that that person was authorised to sign it.
+
+(6) The persons referred to in *subsections (1)*, *(2)*, *(3)* and *(4)* are—
+
+(*a*) the Garda Síochána,
+
+(*b*) the person convicted of the offence concerned, and
+
+(*c*) where appropriate, the person for the time being in charge of the place where the convicted person is ordered to be imprisoned.
+
+(7) The mode of proving a conviction or sentence authorised by *subsection (5)* shall be in addition to, and not in substitution for, any other authorised mode of proving such conviction or sentence.
+
+(8) Rules of court may make provision in relation to the form of certificates under this section and the manner in which they may be issued.
+
+### 97. Proof of foreign conviction in certain cases.
+
+**97**.— (1) In proceedings against a person for an offence under *section 94* (where the person is a person referred to in *section 95(1)*), the production to the court of a document that satisfies the condition referred to in *subsection (2)* and which purports to contain either or both—
+
+(*a*) particulars of the conviction in a state, other than the State, of that person for an offence and of the act constituting the offence,
+
+(*b*) a statement that, on a specified date, that person was subject to the first-mentioned requirement in *section 95(1)(b)(ii)* ,
+
+shall, without further proof, be evidence, until the contrary is shown, of the matters stated therein.
+
+(2) The condition mentioned in *subsection (1)* is that the document concerned purports to be signed or certified by a judge, magistrate or officer of the state referred to in that subsection and to be authenticated by the oath of some witness or by being sealed with the official seal of a minister of state of that state (judicial notice of which shall be taken by the court).
+
+(3) The condition mentioned in *subsection (1)* shall be regarded as being satisfied without proof of the signature or certification, and the authentication of it, that appears in or on the document.
+
+## PART 10 Sentencing — PART 10 — Sentencing
+
+### 98. Definitions (Part 10).
+
+**98**.— In this Part, unless the context otherwise requires—
+
+“authorised person” means a person who is appointed in writing by the Minister, or a person who is one of a class of persons which is prescribed, to be an authorised person for the purposes of this Part;
+
+“a direction” means a direction given by the Minister under section 2 of the Criminal Justice Act 1960 authorising the release of a person from prison (within the meaning of that section) for a temporary period;
+
+“governor” includes, in relation to a prisoner, a person for the time being performing the functions of governor;
+
+F34[‘imprisonment’ includes detention in a place provided under section 2 of the Prisons Act 1970 and ‘sentence of imprisonment’ shall be construed accordingly;]
+
+“mandatory term of imprisonment” includes, in relation to an offence, a term of imprisonment imposed by a court under an enactment that provides that a person who is guilty of the offence concerned shall be liable to a term of imprisonment of not less than such term as is specified in the enactment;
+
+“offender” means a person in respect of whom a restriction on movement order is, or may be, made under *section 101*;
+
+“probation and welfare officer” means a person appointed by the Minister to be—
+
+(*a*) a probation officer,
+
+(*b*) a welfare officer, or
+
+(*c*) a probation and welfare officer;
+
+“probation and welfare service” means those officers of the Minister assigned to perform functions in the part of the Department of State for which the Minister is responsible commonly known by that name;
+
+“restriction on movement order” means an order made by a court under *section 101*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F34: Substituted (7.04.2017) by *Prisons Act 2015* (57/2015), s. 17, S.I. No. 134 of 2017.
+
+### 99. Power to suspend sentence.
+
+**99**.— (1) Where a person is sentenced to a term of imprisonment (other than a mandatory term of imprisonment) by a court in respect of an offence, that court may make an order suspending the execution of the sentence in whole or in part, subject to the person entering into a recognisance to comply with the conditions of, or imposed in relation to, the order.
+
+(2) It shall be a condition of an order under *subsection (1)* that the person in respect of whom the order is made keep the peace and be of good behaviour during—
+
+(*a*) the period of suspension of the sentence concerned, or
+
+(*b*) in the case of an order that suspends the sentence in part only, the period of imprisonment and the period of suspension of the sentence concerned,
+
+and that condition shall be specified in the order concerned.
+
+(3) The court may, when making an order under *subsection (1)*, impose such conditions in relation to the order as the court considers—
+
+(*a*) appropriate having regard to the nature of the offence, and
+
+(*b*) will reduce the likelihood of the person in respect of whom the order is made committing any other offence,
+
+and any condition imposed in accordance with this subsection shall be specified in that order.
+
+(4) In addition to any condition imposed under *subsection (3)*, the court may, when making an order under *subsection (1)* consisting of the suspension in part of a sentence of imprisonment or upon an application under *subsection (6)*, impose any one or more of the following conditions in relation to that order or the order referred to in the said *subsection (6)*, as the case may be:
+
+(*a*) that the person co-operate with the probation and welfare service to the extent specified by the court for the purpose of his or her rehabilitation and the protection of the public;
+
+(*b*) that the person undergo such—
+
+(i) treatment for drug, alcohol or other substance addiction,
+
+(ii) course of education, training or therapy,
+
+(iii) psychological counselling or other treatment,
+
+as may be approved by the court;
+
+(*c*) that the person be subject to the supervision of the probation and welfare service.
+
+(5) A condition (other than a condition imposed, upon an application under *subsection (6)*, after the making of the order concerned) imposed under *subsection (4)* shall be specified in the order concerned.
+
+(6) A probation and welfare officer may, at any time before the expiration of a sentence of a court to which an order under *subsection (1)* consisting of the suspension of a sentence in part applies, apply to the court for the imposition of any of the conditions referred to in *subsection (4)* in relation to the order.
+
+(7) Where a court makes an order under this section, it shall cause a copy of the order to be given F35[, by electronic or other means,] to—
+
+(*a*) the Garda Síochána, or
+
+(*b*) in the case of an order consisting of the suspension of a sentence in part only, the governor of the prison to which the person is committed and the Garda Síochána.
+
+(8) Where a court has made an order under *subsection (1)* and imposes conditions under *subsection* *(4)* upon an application under *subsection (6)*, it shall cause a copy of the order and conditions to be given F36[, by electronic or other means,] to—
+
+(*a*) the probation and welfare service, and
+
+(*b*) (i) the Garda Síochána, or
+
+(ii) in the case of an order consisting of the suspension of a sentence in part only, the governor of the prison to which the person is committed and the Garda Síochána.
+
+F37[(8A) (*a*) Where a person to whom an order under *subsection (1)* applies—
+
+(i) commits an offence after the making of that order and during the period of suspension of the sentence concerned (in this section referred to as the “triggering offence”), and
+
+(ii) subject to *subsection (8B)*, is convicted of the triggering offence,
+
+the court before which proceedings for the triggering offence are brought shall, after imposing sentence for that offence, remand the person in custody or on bail to a sitting of the court that made the said order to be held—
+
+(I) no later than 15 days after such remand, or
+
+(II) if there is no sitting of that court within that period, to the next sitting of that court thereafter,
+
+and, if there is no sitting of that court on the day to which that person has been remanded, he or she shall stand so remanded to the sitting of that court next held after that day.
+
+(*b*) The remand of a person in custody or on bail under *paragraph (a)* to a sitting of the court that made the order under *subsection (1)* concerned applying to the person may be to a sitting of that court other than a sitting thereof referred to in *paragraph (c*).
+
+(*c*) Subject to *paragraph (b)*, references in *paragraph (a)* to a sitting of a court shall be construed as references to a sitting of the court at a place and time appointed or fixed for sittings of that court by or under statute.
+
+(8B) *Subsection (8A)* applies to a conviction of a person for an offence if proceedings for the offence are instituted against the person during the period of suspension of the sentence concerned pursuant to the order under *subsection (1)* applying to the person and 12 months thereafter.
+
+(8C) Subject to *subsection (8D)*, a court to which a person has been remanded under *subsection (8A)* shall revoke the order under *subsection (1)* concerned unless it considers that the revocation of that order would be unjust in all the circumstances of the case, and where the court revokes that order, the person shall be required to serve the entire of the sentence of imprisonment originally imposed by the court, or such part of the sentence as the court considers just having regard to all of the circumstances of the case, less any period of that sentence already served in prison and any period spent in custody (other than a period spent in custody by the person in respect of the triggering offence) pending the revocation of the said order.
+
+(8D) Where a person appeals against conviction or sentence for the triggering offence, a court referred to in *subsection (8C)* may, upon application in that behalf by the person, adjourn the proceedings under that subsection for such period as the court considers appropriate to enable that person to bring the appeal and for it to be determined.
+
+(8E) If an appeal brought by the person concerned against conviction or sentence for the triggering offence is withdrawn or abandoned, the court referred to in *subsection (8C)* shall, in accordance with that subsection, consider the revocation of the order under *subsection (1)* concerned.
+
+(8F) On the determination of an appeal against conviction or sentence for the triggering offence brought by the person concerned—
+
+(*a*) if the order of the court before which proceedings for that offence were brought is reversed insofar as it relates to the conviction for that offence or the conviction for that offence is quashed, the court referred to in *subsection (8C)* shall dismiss the proceedings under that subsection, and
+
+(*b*) in all other cases, the court referred to in *subsection (8C)* shall, in accordance with that subsection, consider the revocation of the order under *subsection (1)* concerned.
+
+(8G) When an appeal against conviction or sentence for the triggering offence is withdrawn, abandoned or determined, the person concerned shall, for the purposes of *subsections (8E)* and *(8F)*, appear before the court referred to in *subsection (8C)* whenever he or she is required to do so by that court.
+
+(8H) In *subsections (8D)* to *(8G)*, references to an appeal against conviction or sentence for the triggering offence shall be construed as references to an appeal against conviction or sentence, as the case may be, for that offence, whether by way of rehearing, case stated or otherwise.]
+
+(9) ... **[***declared unconstitutional, see E-note below***]**
+
+(10) ... **[***declared unconstitutional, see E-note below***]**
+
+F38[(10A) F39[...]]
+
+F40[(11) (*a*) Where an order under *subsection (1)* applying to a person is revoked under *subsection (8C)*, any period of imprisonment required to be served by the person as a result of that revocation shall be consecutive on any sentence of imprisonment (other than a sentence consisting of imprisonment for life) imposed on the person in respect of the triggering offence.
+
+(*b*) *Paragraph (a)* shall not apply if the execution of the sentence of imprisonment imposed on the person in respect of the triggering offence is wholly suspended under *subsection (1)*.]
+
+(12) Where an order under *subsection (1)* is revoked in accordance with this section, the person to whom the order applied may appeal against the revocation to such court as would have jurisdiction to hear an appeal against any conviction of, or sentence imposed on, a person for an offence by the court that revoked that order.
+
+(13) Where a member of the Garda Síochána or, as the case may be, the governor of the prison to which a person was committed has reasonable grounds for believing that F41[a person to whom an order under *subsection (1)* applies has contravened the condition referred to in *subsection (2)* or a condition imposed under *subsection (3)*, he or she may apply] to the court to fix a date for the hearing of an application for an order revoking the order under *subsection (1)*.
+
+F42[(13A) The Director of Public Prosecutions may, if he or she has reasonable grounds for believing that a person to whom an order under *subsection (1)* applies has contravened a condition imposed under *subsection (3)*, apply to the court to fix a date for the hearing of an application for an order revoking the order under *subsection (1)*.]
+
+(14) A probation and welfare officer may, if he or she has reasonable grounds for believing that a person to whom an order under *subsection (1)* applies has contravened a condition imposed under *subsection* F43[...]*(4)*, apply to the court to fix a date for the hearing of an application for an order revoking the order under *subsection (1)*.
+
+(15) Where the court fixes a date for F44[the hearing of an application referred to in *subsection (13)*, *(13A)* or *(14)*], it shall, by notice in writing, so inform the person in respect of whom the application will be made, or where that person is in prison, the governor of the prison, and such notice shall require the person to appear before it, or require the said governor to produce the person before it, on the date so fixed and at such time as is specified in the notice.
+
+(16) If a person who is not in prison fails to appear before the court in accordance with a requirement contained in a notice under *subsection (15)*, the court may issue a warrant for the arrest of the person.
+
+(17) A court shall, where it is satisfied that a person to whom an order under *subsection (1)* applies has contravened a condition of the order, revoke the order unless it considers that in all of the circumstances of the case it would be unjust to so do, and where the court revokes that order, the person shall be required to serve the entire of the sentence originally imposed by the court, or such part of the sentence as the court considers just having regard to all of the circumstances of the case, less any period of that sentence already served in prison and any period spent in custody pending the revocation of the said order.
+
+(18) A notice under *subsection (15)* shall be addressed to the person concerned by name, and may be given to the person in one of the following ways:
+
+(*a*) by delivering it to the person;
+
+(*b*) by leaving it at the address at which the person ordinarily resides or, in a case in which an address for service has been furnished, at that address;
+
+(*c*) by sending it by post in a prepaid registered letter to the address at which the person ordinarily resides or, in a case in which an address for service has been furnished, to that address.
+
+F45[(18A) Where, under *subsection (8C)* or *(17)*, a court revokes an order under *subsection (1)* applying to a person and the person is required to serve a part of the sentence of imprisonment originally imposed on him or her, the court may make a further order suspending the execution of the part of the sentence of imprisonment that is not required to be served by the person and such further order shall, for the purposes of this section, be regarded as an order made under *subsection (1)* applying to the person and that subsection shall apply accordingly.]
+
+(19) This section shall not affect the operation of—
+
+(*a*) section 2 of the Criminal Justice Act 1960 or Rule 38 of the Rules for the Government of Prisons 1947 (S.R. & O. No. 320 of 1947), or
+
+(*b*) subsections (3G) and (3H) of section 27 of the Misuse of Drugs Act 1977.
+
+F46[(19A) If, in relation to a person, the application of *subsection (11)* conflicts with any of the other consecutive sentencing provisions with regard to the sequence in which the following shall be served by the person, namely—
+
+(*a*) a sentence of a term of imprisonment imposed on the person for the triggering offence,
+
+(*b*) the period of imprisonment required to be served by the person under *subsection (8C)*, and
+
+(*c*) a sentence of a term of imprisonment imposed on the person for another offence of which he or she is convicted,
+
+the court referred to in *subsection (8C)* or any other court concerned may determine that sequence in such manner as it considers just, provided that the sentences of imprisonment referred to in *paragraphs (a)* and *(c)* and the period of imprisonment referred to in *paragraph (b)* shall be consecutive on each other.
+
+(19B) Where a person is convicted of the triggering offence by the District Court and an order under *subsection (1)* applying to the person is revoked by the District Court under *subsection (8C)*, the aggregate of—
+
+(*a*) a sentence of a term of imprisonment imposed on the person for the triggering offence,
+
+(*b*) the period of imprisonment required to be served by the person under *subsection (8C)*, and
+
+(*c*) a sentence of a term of imprisonment for any other offence imposed on the person by the District Court that is required by any of the other consecutive sentencing provisions to be consecutive on the sentence of imprisonment referred to in *paragraph (a)* or the period of imprisonment referred to in *paragraph (b)* or vice versa,
+
+shall not exceed 2 years.]
+
+F38[(20) Where a court imposes a sentence of a term of imprisonment that is to run consecutively to a sentence of a term of imprisonment the operation of a part of which is suspended, the first-mentioned sentence shall commence at the expiration of the part of the second-mentioned sentence the operation of which is not suspended.]
+
+F47[(21) Where—
+
+(*a*) under *subsection (8C)*, an order under *subsection (1)* applying to a person is revoked and the person is required to serve a part of the sentence of imprisonment originally imposed on him or her under that subsection, and
+
+(*b*) a court imposes a sentence of a term of imprisonment on the person that is to be consecutive on the sentence of imprisonment referred to in *paragraph (a)*,
+
+the sentence of imprisonment referred to in *paragraph (b)* shall commence at the expiration of the period of imprisonment required to be served by the person under *subsection (8C)* referred to in *paragraph (a)*.
+
+(22) Where an order under *subsection (1)* is made by a court on appeal from another court—
+
+(*a*) the reference in *subsection (8A)* to the court that made the order under *subsection (1)*,
+
+(*b*) the references in *subsections (8C), (8D), (8G), (13)* to *(17), (18A)* and *(19A)* to the court that may exercise jurisdiction under each of those subsections, and
+
+(*c*) the reference in *subsection (12)* to the court that revoked the order under *subsection (1)*,
+
+shall be construed as references to the court from whose order or decision the appeal was taken.
+
+(23) In this section the “other consecutive sentencing provisions” means—
+
+(*a*) section 5 of the Criminal Justice Act 1951,
+
+(*b*) section 13 of the Criminal Law Act 1976,
+
+(*c*) section 11 of the Criminal Justice Act 1984,
+
+(*d*) section 54A of the Criminal Justice (Theft and Fraud Offences) Act 2001, and
+
+(*e*) any other enactment that requires or permits a court to impose a consecutive sentence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F35: Inserted (11.01.2019) by *Criminal Justice (Suspended Sentences of Imprisonment) Act 2017* (4/2017), s. 2(a), S.I. No. 1 of 2019.
+>
+> F36: Inserted (11.01.2019) by *Criminal Justice (Suspended Sentences of Imprisonment) Act 2017* (4/2017), s. 2(b), S.I. No. 1 of 2019.
+>
+> F37: Inserted (11.01.2019) by *Criminal Justice (Suspended Sentences of Imprisonment) Act 2017* (4/2017), s. 2(c), S.I. No. 1 of 2019.
+>
+> F38: Inserted (18.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 60(c) and (e), S.I. No. 236 of 2007.
+>
+> F39: Deleted (11.01.2019) by *Criminal Justice (Suspended Sentences of Imprisonment) Act 2017* (4/2017), s. 2(d), S.I. No. 1 of 2019.
+>
+> F40: Substituted (11.01.2019) by *Criminal Justice (Suspended Sentences of Imprisonment) Act 2017* (4/2017), s. 2(e), S.I. No. 1 of 2019.
+>
+> F41: Substituted (11.01.2019) by *Criminal Justice (Suspended Sentences of Imprisonment) Act 2017* (4/2017), s. 2(f), S.I. No. 1 of 2019.
+>
+> F42: Inserted (11.01.2019) by *Criminal Justice (Suspended Sentences of Imprisonment) Act 2017* (4/2017), s. 2(g), S.I. No. 1 of 2019.
+>
+> F43: Deleted (11.01.2019) by *Criminal Justice (Suspended Sentences of Imprisonment) Act 2017* (4/2017), s. 2(h), S.I. No. 1 of 2019.
+>
+> F44: Substituted (11.01.2019) by *Criminal Justice (Suspended Sentences of Imprisonment) Act 2017* (4/2017), s. 2(i), S.I. No. 1 of 2019.
+>
+> F45: Inserted (11.01.2019) by *Criminal Justice (Suspended Sentences of Imprisonment) Act 2017* (4/2017), s. 2(j), S.I. No. 1 of 2019.
+>
+> F46: Inserted (11.01.2019) by *Criminal Justice (Suspended Sentences of Imprisonment) Act 2017* (4/2017), s. 2(k), S.I. No. 1 of 2019.
+>
+> F47: Inserted (11.01.2019) by *Criminal Justice (Suspended Sentences of Imprisonment) Act 2017* (4/2017), s. 2(l), S.I. No. 1 of 2019.
+>
+> **Modifications (not altering text):**
+>
+> C9: References construed (11.01.2019) by *Criminal Justice (Suspended Sentences of Imprisonment) Act 2017* (4/2017), s. 3, S.I. No. 1 of 2019.
+>
+> **Construction of references**
+>
+> 3\. A reference in any enactment, within the meaning of the Interpretation Act 2005, to—
+>
+> (a) subsection (9) of section 99 of the Act of 2006 shall be construed as a reference to subsections (8A) and (8B) (inserted by section 2 (c)) of the said section 99, and
+>
+> (b) subsection (10) of section 99 of the Act of 2006 shall be construed as a reference to subsection (8C) (inserted by section 2 (c)) of the said section 99.
+>
+> **Editorial Notes:**
+>
+> E33: Declared unconstitutional: subss. (9) and (10) declared unconstitutional (19.04.2016) by *Moore v DPP* [2016] IEHC 244. The *Criminal Justice (Suspended Sentences of Imprisonment) Act 2017* (4/2017) was enacted in response to this decision.
+>
+> E34: Previous affecting provision: subs. (9) amended (25.08.2009) by *Criminal Justice (Miscellaneous Provisions) Act 2009* (28/2009), s. 51, S.I. No. 330 of 2009 and (18.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 60(a), S.I. No. 236 of 2007; subsection declared unconstitutional as per E-note above.
+>
+> E35: Previous affecting provision: subs. (10) amended (18.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 60(b), S.I. No. 236 of 2007; subsection declared unconstitutional as per E-note above.
+>
+> E36: Previous affecting provision: subs. (11)(a) substituted (18.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 60(d), S.I. No. 236 of 2007; substituted as per F-note above.
+
+### 100. Imposition of fine and deferral of sentence.
+
+**100**.— (1) Where a court makes an order convicting a person of an offence in respect of which the person is liable to both a term of imprisonment and a fine, the court may, subject to *subsection* *(2)* —
+
+(*a*) impose a fine on that person in respect of the offence, and
+
+(*b*) make an order—
+
+(i) deferring the passing of a sentence of imprisonment for the offence, and
+
+(ii) specifying the term of imprisonment that it would propose to impose on the person in respect of that offence should he or she fail or refuse to comply with the conditions specified in the order.
+
+(2) A court shall not perform functions under *subsection* *(1)* unless it is satisfied that—
+
+(*a*) the person concerned consents to the sentence of imprisonment being deferred,
+
+(*b*) the person gives an undertaking to comply with any conditions specified in an order made under s*ubsection* *(1)* *(b)* , and
+
+(*c*) having regard to the nature of the offence concerned and all of the circumstances of the case, it would be in the interests of justice to so do.
+
+(3) An order under *subsection* *(1)* *(b)* shall specify—
+
+(*a*) the date (in this section referred to as the “specified date”) on which it proposes to pass sentence should the person contravene a condition of the order, being a date that falls not later than 6 months after the making of the order, and
+
+(*b*) the conditions with which the person concerned is to comply during the period between the making of the order and the specified date, including a condition that the person be of good behaviour and keep the peace.
+
+(4) Where a court makes an order under *subsection* *(1)* *(b)* , it shall cause a copy of the order to be given to the person in respect of whom it is made and the Garda Síochána.
+
+(5) A court that has made an order under *subsection* *(1)* *(b)* shall not later than one month before the specified date require the person in respect of whom the order was made, by notice, to attend a sitting of the court on that date and at such time as is specified in the notice.
+
+(6) If a person fails to comply with a requirement in a notice under *subsection* *(5)* , the court may issue a warrant for the arrest of that person.
+
+(7) Where a member of the Garda Síochána has reasonable grounds for believing that a person to whom an order under *subsection* *(1)* *(b)* applies has contravened a condition of the order, he or she may apply to the court to fix a date for the hearing of an application for an order imposing the term of imprisonment specified in the order in accordance with *subsection* *(1)* *(b)* *(ii)* .
+
+(8) Where the court fixes a date for the hearing of an application referred to in *subsection* *(7)* , it shall, by notice in writing, so inform the person in respect of whom the application will be made, and such notice shall require the person to appear before it on the date so fixed and at such time as is specified in the notice.
+
+(9) If a person fails to appear before the court in accordance with a requirement contained in a notice under *subsection* *(8)* , the court may issue a warrant for the arrest of the person.
+
+(10) Upon an application by a member of the Garda Síochána for an order imposing the term of imprisonment specified in accordance with *paragraph* *(b)* *(ii)* of *subsection* *(1)* , a court may, if it is satisfied that the person in respect of whom the application was made has contravened a condition specified in the order under that subsection, impose the term of imprisonment that it proposed to impose at the time of the making of the order under that subsection (or such lesser term as it considers just in all of the circumstances of the case), unless it considers that it would in all the circumstances be unjust to so do.
+
+(11) On the specified date the court shall, if it is satisfied that the person in respect of whom the order under *subsection* *(1)* was made has complied with the conditions specified in the order, not impose the sentence that it proposed to impose when making that order and shall discharge the person forthwith.
+
+(12) On the specified date the court may, if it is satisfied that the person in respect of whom the order under *subsection* *(1)* was made has contravened a condition specified in the order, impose the term of imprisonment that it proposed to impose at the time of the making of the order (or such lesser term as it considers just in all of the circumstances of the case) unless it considers that in all of the circumstances of the case it would be unjust to so do, and where it considers that it would be unjust to impose a term of imprisonment it shall discharge the person forthwith.
+
+(13) A notice under *subsection* *(5)* or *(8)* shall be addressed to the person concerned by name, and may be given to the person in one of the following ways:
+
+(*a*) by delivering it to the person;
+
+(*b*) by leaving it at the address at which the person ordinarily resides or, in a case in which an address for service has been furnished, at that address;
+
+(*c*) by sending it by post in a prepaid registered letter to the address at which the person ordinarily resides or, in a case in which an address for service has been furnished, to that address.
+
+(14) Section 18(1) of the Courts of Justice Act 1928 is amended by the insertion of “, including an order under *section* *100* *(1)* of the *Criminal Justice Act 2006*” after “the person against whom the order shall have been made”.
+
+### 101. Restriction on movement order.
+
+**101**.— (1) Where a person aged 18 years or more is convicted of an offence specified in *Schedule 3* and the court which convicts him or her of the offence considers that it is appropriate to impose a sentence of imprisonment for a term of 3 months or more on the person in respect of the offence, it may, as an alternative to such a sentence, make an order under this section (“a restriction on movement order”) in respect of the person.
+
+(2) A restriction on movement order may restrict the offender’s movements to such extent as the court thinks fit and, without prejudice to the generality of the foregoing, may include provision—
+
+(*a*) requiring the offender to be in such place or places as may be specified for such period or periods in each day or week as may be specified, or
+
+(*b*) requiring the offender not to be in such place or places, or such class or classes of place or places, at such time or during such periods, as may be specified,
+
+or both, but the court may not, under *paragraph* *(a)* , require the offender to be in any place or places for a period or periods of more than 12 hours in any one day.
+
+(3) A restriction on movement order may be made for any period of not more than 6 months and, during that period, the offender shall keep the peace and be of good behaviour.
+
+(4) A restriction on movement order may specify such conditions as the court considers necessary for the purposes of ensuring that while the order is in force the offender will keep the peace and be of good behaviour and will not commit any further offences.
+
+(5) A restriction on movement order shall specify the restrictions that are to apply to the offender’s movements and, in particular, it shall specify—
+
+(*a*) the period during which it is in force,
+
+(*b*) the period or periods in each day or week during which the offender shall be in any specified place or places,
+
+(*c*) the time at which, or the periods during which, the offender shall not be in any specified place or places or any class or classes of place or places.
+
+(6) In determining for the purposes of *subsection* *(2)* *(a)* the period or periods during which the offender shall be in a specified place or places, the court shall have regard to the nature and circumstances of the offence of which the offender has been found guilty and any educational course, training, employment or other activity in which the offender is participating, and it shall ensure, as far as practicable, that that period or those periods do not conflict with the practice by the offender of his or her religion.
+
+(7) In determining for the purpose of *subsection* *(2)* *(b)* the place or places, or class or classes of place or places, the time or the periods to be specified in a restriction on movement order, the court shall have regard to the nature and circumstances of the offence of which the offender has been found guilty, the time that the offender committed the offence, the place where the offence was committed and the likelihood of the offender committing another offence in the same or similar place or places or class or classes of place or places.
+
+(8) A court shall not make a restriction on movement order in respect of an offender unless it considers, having regard to the offender and his or her circumstances, that he or she is a suitable person in respect of whom such an order may be made and, for that purpose, the court may request a probation and welfare officer to prepare a report in writing in relation to the offender.
+
+(9) A restriction on movement order which restricts the movements of an offender in accordance with *subsection* *(2)* *(a)* shall not be made without the consent of the owner of, or any adult person habitually residing at, the place or places concerned or, as the case may be, the person in charge of the place or places concerned.
+
+(10) A court making a restriction on movement order may include in the order a requirement that the restrictions on the offender’s movements be monitored electronically in accordance with *section* *102* , but it shall not include such a requirement unless it considers, having regard to the offender and his or her circumstances, that he or she is a suitable person in respect of whom such a requirement may be made and, for that purpose, the court may request an authorised person to prepare a report in writing in relation to the offender.
+
+(11) Before making a restriction on movement order, the court shall explain to the offender in ordinary language—
+
+(*a*) the effect of the order, including any requirement which is to be included in the order under *section* *102* ,
+
+(*b*) the consequences which may follow any failure by the offender to comply with the requirements of the order, and
+
+(*c*) that the court has power under *section* *103* to vary the order on the application of any person referred to in that section,
+
+and the court shall not make the order unless the offender agrees to comply with its requirements.
+
+(12) The court shall cause certified copies of a restriction on movement order to be sent to—
+
+(*a*) the offender,
+
+(*b*) the member in charge of the Garda Síochána station for the area where the offender resides or, where appropriate, the area where he or she is to reside while the order is in force,
+
+(*c*) where appropriate, an authorised person who is responsible under *section* *102* for monitoring the offender’s compliance with the order.
+
+### 102. Electronic monitoring of restriction on movement order.
+
+**102**.— Where the restrictions on an offender’s movements in a restriction on movement order are to be monitored electronically, the order shall include—
+
+(*a*) a provision making an authorised person responsible for monitoring the offender’s compliance with it, and
+
+(*b*) a requirement that the offender shall, either continuously or for such periods as may be specified, have an electronic monitoring device attached to his or her person for the purpose of enabling the monitoring of his or her compliance with the order to be carried out.
+
+### 103. Variation of restriction on movement order.
+
+**103**.— (1) Where a restriction on movement order is in force, the court may, if it so thinks proper, on written application by—
+
+(*a*) the offender,
+
+(*b*) where appropriate, the owner of, or an adult person habitually residing at, the place or places or, as the case may be, the person in charge of the place or places, specified in the order,
+
+(*c*) a member of an Garda Síochána, or
+
+(*d*) where appropriate, an authorised person who is responsible under *section 102* for monitoring the offender’s compliance with the order,
+
+vary the order by substituting another period or time or another place for any period, time or place specified in the order.
+
+(2) An application under *subsection (1)* shall be made on notice to such of the other parties specified in *subsection* *(1)* as is appropriate.
+
+(3) Where any party specified in *subsection (1)* objects to the variation of a restriction on movement order, the court shall not vary the order without hearing from that party.
+
+(4) The court shall cause certified copies of a restriction on movement order varied under this section to be sent to—
+
+(*a*) the offender,
+
+(*b*) where appropriate, the owner of, or an adult person habitually residing at, the place or places or, as the case may be, the person in charge of the place or places, specified in the order,
+
+(*c*) the member in charge of the Garda Síochána station for the area where the offender resides or, where appropriate, the area where he or she is to reside while the order is in force, and
+
+(*d*) where appropriate, an authorised person who is responsible under *section 102* for monitoring the offender’s compliance with the order.
+
+(5) The jurisdiction vested in the court under this section shall be exercised by a judge of the District Court for the time being assigned to the district court district, or, as the case may be, a judge of the Circuit Court for the time being assigned to the circuit, in which the offender resides or is to reside while the restriction on movement order is in force.
+
+### 104. Provisions regarding more than one restriction on movement order.
+
+**104**.— (1) Where more than one restriction on movement order is in force in respect of an offender at any time, the period during which the offender is required to be in a specified place or places shall, notwithstanding *subsections (2)* and *(3)*, not be for a period of more than 6 months.
+
+(2) Where a court makes restriction on movement orders in respect of 2 or more offences of which the offender has been found guilty, it may direct that the period for which the offender is required by any of those orders to be in a specified place or places shall be concurrent with or additional to that specified in any other of those orders.
+
+(3) Where a court makes a restriction on movement order and at the time of the making of the order there is in force in respect of the offender another such order (whether made by the same or a different court), the court making the later order may direct in that order that the period for which the offender is required by that order to be in a specified place or places shall be concurrent with or additional to that specified in the earlier order.
+
+### 105. Non-compliance with restriction on movement order.
+
+**105**.— (1) Where a restriction on movement order is in force and it appears to a court, on application by a member of an Garda Síochána or, where appropriate, an authorised person who is responsible under *section* *102* for monitoring the offender’s compliance with the order, that the offender has failed, without reasonable cause, to comply with the order or any condition to which it is subject, the court may—
+
+(*a*) if the order was made by a court in the district court district, or, as the case may be, the circuit, in which the offender resides or is to reside while the order is in force—
+
+(i) direct the offender to comply with the order or any such condition in so far as it has not been complied with,
+
+(ii) revoke the order and make another restriction on movement order in respect of the offender, or
+
+(iii) revoke the order and deal with the case in any other way in which it could have been dealt with before the order was made,
+
+or
+
+(*b*) if the order was made by a court in another district court district or, as the case may be, another circuit, remand the offender on bail to a sitting of that court to be dealt with, and for that purpose, *paragraph (a)* shall apply in relation to that court, with the necessary modifications.
+
+(2) The matters to be taken into account by the court in arriving at a decision pursuant to *subsection (1)* shall include the extent to which, and the period during which, the offender has complied with the order concerned or any condition to which it is subject.
+
+(3) Where the court proposes to exercise its powers under *subsection (1)*, it shall summon the offender to appear before it and, if the offender does not appear in answer to the summons, it may issue a warrant for his or her arrest.
+
+(4) The jurisdiction vested in the court under this section shall be exercised by a judge of the District Court for the time being assigned to the district court district, or, as the case may be, a judge of the Circuit Court for the time being assigned to the circuit, in which the offender resides or is to reside while the restriction on movement order is in force.
+
+### 106. Amendment of section 5 of Criminal Justice Act 1951.
+
+**106**.— Where 2 or more sentences, one of which is a restriction on movement order, are passed on an offender by the District Court and are ordered to run consecutively, the aggregate of the period during which the order in respect of the offender is in force and the period of any term or terms of imprisonment imposed on him or her shall not exceed the maximum period of the aggregate term of imprisonment specified in section 5 of the Criminal Justice Act 1951.
+
+### 107. Documentary evidence in relation to offenders.
+
+**107**.— (1) Evidence of the presence or absence of the offender in or from a particular place at a particular time may, subject to the provisions of this section, be given by the production of a document or documents being—
+
+(*a*) a statement produced automatically or otherwise by a device, prescribed by regulations under *section 111*, by which the offender’s whereabouts were electronically monitored, and
+
+(*b*) a certificate signed by an authorised person who is responsible under *section 102* for monitoring the offender’s compliance with the order that the statement relates to the whereabouts of the offender at the dates and times shown in the statement.
+
+(2) The statement and certificate mentioned in *subsection (1)* shall, when produced at a hearing, be evidence, until the contrary is shown, of the facts set out in them.
+
+(3) Neither the statement nor the certificate mentioned in *subsection (1)* shall be admissible in evidence unless a copy of both has been served on the offender prior to the hearing.
+
+### 108. Temporary release of prisoners.
+
+**108**.— (1) A direction in respect of a person aged 18 years or more may be subject to a condition restricting the person’s movements to such extent as the Minister thinks fit and specifies in the direction and those restrictions may be monitored electronically in accordance with *subsection (4)*.
+
+(2) Without prejudice to the generality of *subsection (1)*, a direction may include provision—
+
+(*a*) requiring the person to be in such place or places as may be specified for such period or periods in each day or week as may be specified, or
+
+(*b*) requiring the person not to be in such place or places, or such class or classes of place or places, at such time or during such periods, as may be specified,
+
+or both, but the Minister may not, under *paragraph (a)*, require the person to be in any place or places for a period or periods of more than 12 hours in any one day.
+
+(3) A direction shall not be subject to a condition which restricts the movements of a person in accordance with *subsection (2)(a)* without the consent of the owner of, or any adult person habitually residing at, the place or places concerned or, as the case may be, the person in charge of the place or places concerned.
+
+(4) Where the restrictions on a person’s movements imposed by a condition in a direction are to be monitored electronically, the direction shall include—
+
+(*a*) a provision making an authorised person responsible for monitoring the person’s compliance with the condition and the condition referred to in *paragraph (b)*, and
+
+(*b*) a condition that the person shall, either continuously or for such periods of not more than 6 months as may be specified have an electronic monitoring device attached to his or her person for the purpose of enabling the monitoring of his or her compliance with the condition restricting his or her movements to be carried out.
+
+(5) A condition shall not be imposed under *subsection (1)(4)* or *(b)* unless the person concerned agrees to comply with it, but the absence of such agreement shall not confer an entitlement on that person to be released pursuant to a direction.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E37: Electronic monitoring devices for purposes of section prescribed (25.08.2010) by *Criminal Justice Act 2006 (Electronic Monitoring Devices) Regulations 2010* (S.I. No. 409 of 2010), reg. 3.
+
+### 109. Documentary evidence in relation to prisoners on temporary release.
+
+**109**.— (1) In any proceedings for an offence under section 6(2) of the Criminal Justice Act 1960 evidence of the presence or absence of the person in or from a particular place at a particular time may, subject to the provisions of this section, be given by the production of a document or documents being—
+
+(*a*) a statement produced automatically or otherwise by a device, prescribed by regulations made under *section 111*, by which the person’s whereabouts were electronically monitored, and
+
+(*b*) a certificate signed by an authorised person who is responsible under *section 108(4)* for monitoring the offender’s compliance with the condition in the direction that the statement relates to the whereabouts of the person at the dates and times shown in the statement.
+
+(2) The statement and certificate mentioned in *subsection (1)* shall, when produced at a hearing, be evidence, until the contrary is shown, of the facts set out in them.
+
+(3) Neither the statement nor the certificate mentioned in *subsection (1)* shall be admissible in evidence unless a copy of both has been served on the person prior to the hearing.
+
+### 110. Amendment of section 2(1) of Criminal Justice Act 1960.
+
+**110**.— Section 2(1) of the Criminal Justice Act 1960 is amended by the insertion of “(including, if appropriate, any condition under *section 108* of the *Criminal Justice Act 2006*)” after “subject to such conditions, as may be specified in the direction”.
+
+### 111. Regulations regarding electronic monitoring devices.
+
+**111**.— The Minister may prescribe by regulations the types of electronic monitoring device that may be used for the purpose of monitoring—
+
+(*a*) the compliance of offenders with a requirement under *section 102*, and
+
+(*b*) the compliance of persons with *section 108(4)*.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E38: Power pursuant to subs. (b) exercised (25.08.2010) by *Criminal Justice Act 2006 (Electronic Monitoring Devices) Regulations 2010* (S.I. No. 409 of 2010).
+
+### 112. Electronic monitoring.
+
+**112**.— The Minister may, with the consent of the Minister for Finance, make such arrangements, including contractual arrangements, as he or she considers appropriate with such persons as he or she thinks fit for the monitoring of—
+
+(*a*) the compliance of offenders with restriction on movement orders, or
+
+(*b*) the compliance of persons with a condition imposed under *section 108(4)* in directions in respect of such persons,
+
+or both.
+
+## PART 11 Civil Proceedings in Relation to Anti-Social Behaviour — PART 11 — Civil Proceedings in Relation to Anti-Social Behaviour
+
+### 113. Interpretation and application of this Part.
+
+**113**.— (1) In this Part—
+
+“behaviour warning” has the meaning assigned to it under *section 114*;
+
+“civil order” means an order described in *section 115(1)*;
+
+“senior member of the Garda Síochána” means a member of the Garda Síochána not below the rank of a superintendent.
+
+(2) For the purposes of this Part, a person behaves in an anti-social manner if the person causes or, in the circumstances, is likely to cause, to one or more persons who are not of the same household as the person—
+
+(*a*) harassment,
+
+(*b*) significant or persistent alarm, distress, fear or intimidation, or
+
+(*c*) significant or persistent impairment of their use or enjoyment of their property.
+
+(3) This Part does not apply—
+
+(*a*) in respect of behaviour of a person who is under the age of 18 years at the time the behaviour takes place,
+
+(*b*) to any behaviour of a person that takes place before this section comes into force, or
+
+(*c*) to any act or omission of a person in respect of which criminal proceedings have been instituted against that person.
+
+### 114. Behaviour warnings.
+
+**114**.— (1) Subject to *subsection (5)*, a member of the Garda Síochána may issue a behaviour warning to a person who has behaved in an anti-social manner.
+
+(2) The behaviour warning may be issued orally or in writing and, if it is issued orally, it shall be recorded in writing as soon as reasonably practicable and a written record of the behaviour warning shall be served on the person personally or by post.
+
+(3) The behaviour warning or, if it is given orally, the written record of it shall—
+
+(*a*) include a statement that the person has behaved in an anti-social manner and indicate what that behaviour is and when and where it took place,
+
+(*b*) demand that the person cease the behaviour or otherwise address the behaviour in the manner specified in the warning, and
+
+(*c*) include notice that—
+
+(i) failure to comply with a demand under *paragraph (b)*, or
+
+(ii) issuance of a subsequent behaviour warning,
+
+may result in an application being made for a civil order.
+
+(4) The member of the Garda Síochána referred to in *subsection (1)* may require the person to give his or her name and address to the member for purposes of the behaviour warning or the written record of it.
+
+(5) A behaviour warning may not be issued more than one month after the time that—
+
+(*a*) the behaviour took place, or
+
+(*b*) in the case of persistent behaviour, the most recent known instance of that behaviour took place.
+
+(6) Subject to *subsection (7)*, a behaviour warning remains in force against the person to whom it is issued for 3 months from the date that it is issued.
+
+(7) If an application is made under *section 115* in respect of the person, the behaviour warning remains in force against the person until the application is heard or otherwise determined by the District Court.
+
+### 115. Civil orders.
+
+**115**.— (1) On application made in accordance with this section, the District Court may make an order (a “civil order”) prohibiting the respondent from doing anything specified in the order if the court is satisfied that—
+
+(*a*) the respondent has behaved in an anti-social manner,
+
+(*b*) the order is necessary to prevent the respondent from continuing to behave in that manner, and
+
+(*c*) having regard to the effect or likely effect of that behaviour on other persons, the order is reasonable and proportionate in the circumstances.
+
+(2) The court may impose terms or conditions in the civil order that the court considers appropriate.
+
+(3) An application for a civil order may only be made by a senior member of the Garda Síochána and shall be made—
+
+(*a*) on notice to the respondent, and
+
+(*b*) in the district court district in which the respondent resides at the time.
+
+(4) Before making the application, the senior member of the Garda Síochána must be satisfied that either or both of the following conditions have been met:
+
+(*a*) the respondent has been issued a behaviour warning and has not complied with one or more of the demands of that warning;
+
+(*b*) the respondent has been issued 3 or more behaviour warnings in less than 6 consecutive months.
+
+(5) The respondent in an application under *subsection (1)* may not at any time be charged with, prosecuted or punished for an offence if the act or omission that constitutes the offence is the same behaviour that is the subject of the application and is to be determined by the court under *subsection (1)(a)*.
+
+(6) Unless discharged under *subsection (7)*, a civil order remains in force for no more than the lesser of the following:
+
+(*a*) two years from the date the order is made;
+
+(*b*) the period specified in the order.
+
+(7) The court may vary or discharge a civil order on the application of the person subject to that order or a senior member of the Garda Síochána.
+
+(8) An applicant under *subsection (7)* shall give notice of the application—
+
+(*a*) if the applicant is the person subject to the civil order, to a senior member of the Garda Síochána in the Garda Síochána district in which the applicant resides, or
+
+(*b*) if the applicant is a senior member of the Garda Síochána, to the person who is the subject of the civil order.
+
+(9) The standard of proof in proceedings under this section is that applicable to civil proceedings.
+
+(10) The jurisdiction conferred on the District Court by this section may be exercised as follows:
+
+(*a*) in respect of *subsections (1)* and *(2)*, by a judge of the District Court for the time being assigned to the district court district in which the respondent resides at the time the application is made;
+
+(*b*) in respect of *subsection (7)*, by a judge of the District Court for the time being assigned to the district court district in which the person subject to the civil order resides at the time the application is made.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F48: Substituted by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 4(1) and sch. 1 ref. 24, not commenced as of date of revision, subject to transitional provisions in ss. 13, 26.
+>
+> **Modifications (not altering text):**
+>
+> C10: Prospective affecting provision: subs. (8)(a) amended by *Garda Síochána (Functions and Operational Areas) Act 2022*(7/2022), s. 4(1) and sch. 1 ref. 24, not commenced as of date of revision, subject to transitional provisions in ss. 13, 26.
+>
+> (*a*) if the applicant is the person subject to the civil order, to a senior member of the Garda Síochána in the Garda Síochána F48[division] in which the applicant resides, or
+
+### 116. Appeals against a civil order.
+
+**116**.— (1) A person against whom a civil order has been made may, within 21 days from the date that the order is made, appeal the making of the order to the Circuit Court.
+
+(2) An appellant under *subsection (1)* shall give notice of the appeal to a senior member of the Garda Síochána in the Garda Síochána district in which the appellant resides.
+
+(3) Notwithstanding the appeal, the civil order shall remain in force unless the court that made the order or the appeal court places a stay on it.
+
+(4) An appeal under this section shall be in the nature of a rehearing of the application under *section* *115* and, for this purpose, *subsections (1)*, *(2)* and *(5)* of that section apply in respect of the matter.
+
+(5) If on appeal under this section, the appeal court makes a civil order, the provisions of *section 115(6)* to *(8)* apply in respect of the matter.
+
+(6) Notwithstanding the appeal period described in *subsection (1)*, the Circuit Court may, on application by the person subject to the civil order, extend the appeal period if satisfied that exceptional circumstances exist which warrant the extension.
+
+(7) The standard of proof in proceedings under this section is that applicable to civil proceedings.
+
+(8) The jurisdiction conferred on the Circuit Court by this section may be exercised as follows:
+
+(*a*) in respect of *section 115(1)* and *(2)* as those provisions apply to the Circuit Court under *subsection (4)* of this section, by a judge of the Circuit Court for the time being assigned to the circuit in which the appellant under this section resides at the time the appeal is commenced;
+
+(*b*) in respect of *section 115(7)* as it applies to the Circuit Court under *subsection* *(5)* of this section, by a judge of the Circuit Court for the time being assigned to the circuit in which the person subject to the civil order resides at the time the application is made;
+
+(*c*) in respect of *subsection (6)* of this section, by a judge of the Circuit Court for the time being assigned to the circuit in which the person subject to the civil order resides at the time the application is made.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F49: Substituted by *Garda Síochána (Functions and Operational Areas) Act 2022*(7/2022), s. 4(1) and sch. 1 ref. 24, not commenced as of date of revision, subject to transitional provisions in ss. 13, 26.
+>
+> **Modifications (not altering text):**
+>
+> C11: Prospective affecting provision: subs. 2 amended by *Garda Síochána (Functions and Operational Areas) Act 2022*(7/2022), s. 4(1) and sch. 1 ref. 24, not commenced as of date of revision, subject to transitional provisions in ss. 13, 26.
+>
+> (2) An appellant under *subsection (1)* shall give notice of the appeal to a senior member of the Garda Síochána in the Garda Síochána F49[division] in which the appellant resides.
+
+### 117. Offences.
+
+**117**.— (1) A person commits an offence who—
+
+(*a*) fails to give a name and address when required to do so under *section 114(4)* or gives a name or address that is false or misleading in response to that requirement, or
+
+(*b*) without reasonable excuse, does not comply with a civil order to which the person is subject.
+
+(2) A member of the Garda Síochána may arrest a person without warrant if the member has reasonable grounds to believe that the person has committed an offence under *subsection (1)(b)*.
+
+(3) A person who commits an offence under *subsection (1)* is liable, on summary conviction, to the following:
+
+(*a*) for an offence under *subsection (1)(a)*, a fine not exceeding €500;
+
+(*b*) for an offence under *subsection (1)(b)*, a fine not exceeding €3,000 or imprisonment for a term not exceeding 6 months or both.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E39: Obligation imposed on tenants to provide details of convictions under section to housing authority at the time of applying to purchase an apartment under *Housing (Miscellaneous Provisions) Act 2009* (22/2009), Part 4 (1.01.2012) by *Housing (Tenant Purchase of Apartments) Regulations 2011* (S.I. No. 679 of 2011), reg. 31(d), in effect as per reg. 2.
+>
+> E40: Obligation imposed on households to provide details of convictions under section to housing authority or other approved body when applying to purchase a dwelling under an incremental purchase arrangement (14.06.2010) by *Housing (Incremental Purchase) Regulations 2010* (S.I. No. 252 of 2010), reg. 6(b)(iv)(II).
+
+### 118. Legal aid.
+
+**118**.— (1) Subject to *subsection (2)*, a person who is the subject of an application for a civil order may be granted a certificate for free legal aid (in this Part referred to as a “legal aid (civil order) certificate”) in preparation for and representation at the hearing of—
+
+(*a*) the application,
+
+(*b*) an application by the person to vary or discharge a civil order,
+
+(*c*) any appeal by the person against the making of the civil order, and
+
+(*d*) any proceedings in the High Court or Supreme Court arising out of the making of the application, the appeal or any subsequent proceedings.
+
+(2) A legal aid (civil order) certificate may not be granted under *subsection (1)* unless it appears to the court hearing the application for the certificate that—
+
+(*a*) the means of the person concerned are insufficient to enable that person to obtain legal aid, and
+
+(*b*) by reason of the gravity of the behaviour alleged to be anti-social or of exceptional circumstances, it is essential in the interests of justice that the person should have legal aid in preparation for and representation at the hearing concerned.
+
+(3) A person who is granted a legal aid (civil order) certificate is entitled—
+
+(*a*) to free legal aid in preparation for and representation at the hearing of the application for a civil order and any proceedings referred to in *subsection (1)(b)* , *(c)* and *(d)*, and
+
+(*b*) to have, in such manner as may be prescribed,
+
+(i) a solicitor assigned to the person in relation to the application for the civil order or any application to vary or discharge it,
+
+(ii) a solicitor assigned to the person in relation to any other such proceedings, and
+
+(iii) if the court granting the certificate considers it appropriate, a counsel assigned to the person in relation to proceedings referred to in *subparagraph (ii)*.
+
+(4) If a legal aid (civil order) certificate is granted, any fees, costs or other expenses properly incurred in preparation for and representation at the proceedings concerned shall, subject to regulations under *section 119*, be paid out of moneys provided by the Oireachtas.
+
+(5) A person applying for a legal aid (civil order) certificate may be required by the court granting the certificate to furnish a written statement of the person’s means.
+
+(6) A person who, for the purpose of obtaining free legal aid under this section, whether for himself or herself or for some other person, knowingly makes a false or misleading statement or representation either orally or in writing, or knowingly conceals any material fact, commits an offence and is liable on summary conviction to a fine not exceeding €2,500 or imprisonment for a term not exceeding 6 months or both.
+
+(7) On conviction of a person for an offence under this section, the court by which the person is convicted may, if in the circumstances of the case it thinks fit, order the person to pay to the Minister the whole or part of any sum paid under *subsection (4)* in respect of the free legal aid in relation to which the offence was committed, and any sum so paid to the Minister shall be paid into and disposed of for the benefit of the Exchequer in accordance with the directions of the Minister for Finance.
+
+### 119. Regulations (legal aid).
+
+**119**.— (1) The Minister may make regulations for carrying *section 118* into effect.
+
+(2) The regulations may, in particular, prescribe any of the following:
+
+(*a*) the form of certificates granted under that section;
+
+(*b*) the rates or scales of payment of any fees, costs or other expenses payable out of moneys provided by the Oireachtas under those certificates;
+
+(*c*) the manner in which solicitors and counsel are to be assigned under those certificates.
+
+(3) Regulations under *subsection (2) (b)* shall not be made without the consent of the Minister for Finance.
+
+(4) Pending the making of regulations under this section, the regulations under section 10 of the Criminal Justice (Legal Aid) Act 1962 apply and have effect, with the necessary modifications, in relation to certificates for free legal aid granted under *section* *118* of this Act as if they were certificates for free legal aid granted under the Criminal Justice (Legal Aid) Act 1962.
+
+## PART 12 Amendment of Children Act 2001 — PART 12 — Amendment of Children Act 2001
+
+### 120. Interpretation ( Part 12 ).
+
+**120**.— In this Part—
+
+“Act of 1908” means the Children Act 1908;
+
+“Act of 1970” means the Prisons Act 1970;
+
+“Act of 1991” means the Child Care Act 1991;
+
+“Act of 2001” means the Children Act 2001.
+
+### 121. Amendment of section 2 of Act of 2001.
+
+**121**.— Section 2 of the Act of 2001 is amended in subsection (2)—
+
+(*a*) by the insertion of the following paragraph after paragraph (*a*):
+
+“(*aa*) Part 5 shall come into operation 3 months after the passing of the *Criminal Justice Act 2006*.”,
+
+(*b*) by the deletion of paragraph (*c*),
+
+(*c*) in paragraph (*d*), by the deletion of “for Education and Science”, and
+
+(*d*) by the insertion of the following paragraph after paragraph (*e*):
+
+“(*f*) The amendments made to Part 11 in *sections* *156* and *157* of, and *paragraph 30* of *Schedule 4* to, the *Criminal Justice Act 2006* shall come into operation on such day or days as the Minister for Health and Children, with the agreement of the Minister for Justice, Equality and Law Reform, may by order or orders appoint.”.
+
+### 122. Amendment of section 3 of Act of 2001.
+
+**122**.— Section 3 of the Act of 2001 is amended in subsection (1)—
+
+(*a*) by the insertion of the following definition:
+
+“ “anti-social behaviour” is to be construed in accordance with section 257A(2);”,
+
+(*b*) in the definition of “children detention school”, by the substitution of “Minister” for “Minister for Education and Science”,
+
+(*c*) in the definition of “detention”, by the deletion of “or a children detention centre designated as such by the Minister under section 150”,
+
+(*d*) by the deletion of the definition of “junior remand centre”,
+
+(*e*) in the definition of Minister, by the substitution of “Parts 3 and 11” for “Parts 3, 10 and 11”,
+
+(*f*) in the definition of “prescribed”, by the deletion of “, the Minister for Education and Science”,
+
+(*g*) in the definition of “victim” to insert, after “property”, “and, in relation to anti-social behaviour by a child, means a person who suffers physical or emotional harm as a consequence of that behaviour”.
+
+### 123. Substitution of section 18 of Act of 2001.
+
+**123**.— The following section is substituted for section 18 of the Act of 2001:
+
+“Principle.
+
+18.— Unless the interests of society otherwise require and subject to this Part, any child who—
+
+(*a*) has committed an offence, or
+
+(*b*) has behaved anti-socially,
+
+and who accepts responsibility for his or her criminal or anti-social behaviour shall be considered for admission to a diversion programme (in this Part referred to as the Programme) having the objective set out in section 19.”.
+
+### 124. Amendment of section 19 of Act of 2001.
+
+**124**.— Section 19 of the Act of 2001 is amended by the substitution of the following subsection for subsection (1):
+
+“(1) The objective of the Programme is to divert any child who accepts responsibility for his or her criminal or anti-social behaviour from committing further offences or engaging in further anti-social behaviour.”.
+
+### 125. Amendment of section 23 of Act of 2001.
+
+**125**.— Section 23 of the Act of 2001 is amended—
+
+(*a*) in subsection (1), by the substitution of “Subject to subsection (6), a child” for “A child”,
+
+(*b*) in subsections (1)(*a*), (4) and (5), the insertion of “or anti-social” after “criminal”,
+
+(*c*) in subsection (1)(*c*), by the substitution of “is 10 years of age or over that age” for “is of or over the age of criminal responsibility”, and
+
+(*d*) by the addition of the following subsection:
+
+“(6) Notwithstanding subsection (1), a child aged 10 or 11 years shall be admitted to the Programme if—
+
+(*a*) he or she accepts responsibility for his or her criminal behaviour, having had a reasonable opportunity to consult with his or her parents or guardian and obtained any legal advice sought by or on behalf of him or her, and
+
+(*b*) subsections (2) to (5) apply in relation to the child.”.
+
+### 126. Substitution of section 48 of Act of 2001.
+
+**126**.— The following section is substituted for section 48 of the Act of 2001:
+
+“Inadmissibility of certain evidence.
+
+48.— (1) Subject to subsection (2), no evidence shall be admissible in any court in respect of—
+
+(*a*) any acceptance by a child of responsibility for criminal or anti-social behaviour in respect of which the child has been admitted to the Programme,
+
+(*b*) that behaviour, or
+
+(*c*) the child’s involvement in the Programme.
+
+(2) Where a court is considering the sentence (if any) to be imposed in respect of an offence committed by a child after the child’s admission to the Programme, the prosecution may inform it of any of the matters referred to in subsection (1).
+
+(3) Subsection (2) applies, with the necessary modifications, in relation to a child who has attained the age of 18 years.”.
+
+### 127. Substitution of section 49 of Act of 2001.
+
+**127**.— The following section is substituted for section 49 of the Act of 2001:
+
+“Bar to proceedings. 6
+
+49.— (1) A child shall not be prosecuted for the criminal behaviour, or any related behaviour, in respect of which he or she has been admitted to the Programme.
+
+(2) A child who has been admitted to the Programme in respect of anti-social behaviour shall not be the subject of an application for an order under section 257D in relation to any such behaviour which occurred prior to such admission.”.
+
+### 128. Amendment of Title to Part 5 of Act of 2001.
+
+**128**.— The title to Part 5 of the Act of 2001 is amended by the substitution of “RESTRICTION ON CRIMINAL PROCEEDINGS AGAINST CERTAIN CHILDREN” for “CRIMINAL RESPONSIBILITY”.
+
+### 129. Substitution of section 52 of Act of 2001.
+
+**129**.— The following section is substituted for section 52 of the Act of 2001:
+
+“Restriction on criminal proceedings against children.
+
+52.— (1) Subject to subsection (2), a child under 12 years of age shall not be charged with an offence.
+
+(2) Subsection (1) does not apply to a child aged 10 or 11 years who is charged with murder, manslaughter, rape, rape under section 4 of the Criminal Law (Rape) (Amendment) Act 1990 or aggravated sexual assault.
+
+(3) The rebuttable presumption under any rule of law, namely, that a child who is not less than 7 but under 14 years of age is incapable of committing an offence because the child did not have the capacity to know that the act or omission concerned was wrong, is abolished.
+
+(4) Where a child under 14 years of age is charged with an offence, no further proceedings in the matter (other than any remand in custody or on bail) shall be taken except by or with the consent of the Director of Public Prosecutions.”.
+
+### 130. Amendment of section 53 of Act of 2001.
+
+**130**.— Section 53 of the Act of 2001 is amended by the substitution of the following subsection for subsection (1):
+
+“(1) Subject to subsections (2) and (3), where a member of the Garda Síochána has reasonable grounds for believing that a child under 12 years of age has committed an offence (except murder, manslaughter, rape, rape under section 4 of the Criminal Law (Rape) (Amendment) Act 1990 or aggravated sexual assault), the member shall endeavour to take the child to the child’s parent or guardian or arrange for another such member to do so.”.
+
+### 131. Amendment of section 59 of Act of 2001.
+
+**131**.— Section 59 of the Act of 2001 is amended by the substitution of the following subsection for subsection (4):
+
+“(4) The Minister, with the agreement of the Minister for Health and Children, may issue guidelines in relation to the practical operation of this section.”.
+
+### 132. New section 76A in Act of 2001.
+
+**132**.— The following section is inserted in the Act of 2001 after section 76, but in Part 8:
+
+“Powers of Court in criminal proceedings against child. 6
+
+76A.— (1) In any criminal proceedings against a child the Court may exercise any of the following powers conferred on it by this Part, namely, power—
+
+(*a*) under section 76B, to request the attendance of a representative of the Health Service Executive,
+
+(*b*) under section 76C, to dismiss the case on its merits,
+
+(*c*) under section 77, to direct the Health Service Executive to convene a family welfare conference in respect of the child and, pending its outcome, to make an emergency care order or a supervision order under the Act of 1991 in respect of the child, or
+
+(*d*) under section 78, to direct the probation and welfare service to arrange for the convening of a family conference in respect of the child.
+
+(2) Subsection (1) is without prejudice to the power of the Court to deal with the case in any other way if it is satisfied that to do so would be in the interests of justice.”.
+
+### 133. New section 76B in Act of 2001.
+
+**133**.— The following section is inserted in the Act of 2001 after section 76A:
+
+“Assistance to Court by Health Service Executive.
+
+76B.— (1) Where—
+
+(*a*) a child who is charged with an offence is remanded on bail or, subject to section 88(10)(*b*), in custody, and
+
+(*b*) it appears to the Court that the Health Service Executive may be of assistance to it in dealing with the case,
+
+the Court may request the Executive to be represented in the proceedings.
+
+(2) Where the child is remanded on bail, the request shall be made at least one week before the date of the resumption of the proceedings concerned.
+
+(3) If, having heard the Health Service Executive’s representative, the Court dismisses the case against the child on its merits, the Health Service Executive shall, where appropriate, exercise its powers under the Act of 1991 in relation to the child.”.
+
+### 134. New section 76C in Act of 2001.
+
+**134**.— The following section is inserted in the Act of 2001 after section 76B:
+
+“Dismissal of case against child under 14 in certain circumstances.
+
+76C.— Where a child under 14 years of age is charged with an offence, the Court may, of its own motion or the application of any person, dismiss the case on its merits if, having had due regard to the child’s age and level of maturity, it determines that the child did not have a full understanding of what was involved in the commission of the offence.”.
+
+### 135. Substitution of section 88 of Act of 2001.
+
+**135**.— The following section is substituted for section 88 of the Act of 2001:
+
+“Remand in custody.
+
+88.— (1) Where the Court decides to remand in custody a child—
+
+(*a*) who is charged with or found guilty of one or more offences,
+
+(*b*) who is being sent forward for trial, or
+
+(*c*) in respect of whom the court has postponed a decision,
+
+the following provisions of this section shall apply in relation to the child.
+
+(2) The child shall be remanded to a place designated under this section as a remand centre.
+
+(3) The Court shall explain the reasons for its decision in open court in language that is appropriate to the child’s age and level of understanding.
+
+(4) The Minister may by order designate as a remand centre any place, including part of a children detention school, which in the Minister’s opinion is suitable for the custody of children who are remanded in custody under this section.
+
+(5) The designation shall specify the sex and age of children who may be remanded to the remand centre concerned at any time.
+
+(6) The Minister shall cause a copy of any order under this section to be sent to the President of the High Court, the President of the Circuit Court and the President of the District Court.
+
+(7) A place may be designated as a remand centre only with the consent of its owners or, as the case may be, its managers.
+
+(8) Where a remand centre is part of a children detention school, children remanded in custody to the centre shall, as far as practicable and where it is in the interests of the child, be kept separate from and not be allowed to associate with children in respect of whom a period of detention has been imposed.
+
+(9) Where a remand centre is not part of a children detention school, the Minister shall appoint a board of management appointed to a children detention school under section 164 to manage the remand centre also in accordance with criteria laid down from time to time by the Minister.
+
+(10) The Court shall not remand a child in custody under this section if the only reason for doing so is that—
+
+(*a*) the child is in need of care or protection, or
+
+(*b*) the Court wishes the Health Service Executive to assist it under section 76B in dealing with the case.
+
+(11) Such matters as may be necessary or expedient for enabling remand centres to operate and be administered in accordance with this Act may be prescribed by the Minister.
+
+(12) Notwithstanding the provisions of this section, males aged 16 or 17 years mentioned in subsection (1) may be remanded to Saint Patrick’s Institution until places in a remand centre are available for males in that age group.
+
+(13) A child remanded in custody to Saint Patrick’s Institution may be transferred by the Minister to a remand centre.”.
+
+### 136. Amendment of section 96 of Act of 2001.
+
+**136**.— Section 96 of the Act of 2001 is amended by the substitution of the following subsection for subsection (5):
+
+“(5) When dealing with a child charged with an offence, a court shall have due regard to the child’s best interests, the interests of the victim of the offence and the protection of society.”.
+
+### 137. Change in title of principal probation and welfare officer.
+
+**137**.— The Act of 2001 is amended by the substitution of “Director of the Probation and Welfare Service” for “principal probation and welfare officer” in sections 79, 87, 106(5), 118(3), 118(4), 124(4), 125(4), 126(4), 126(5), 141(2)(*b*), 207(1), 207(7), 208(1), 208(4), 209, 230(3)(*e*), 262(1), 262(2) and 262(3).
+
+### 138. Amendment of section 91 of Act of 2001.
+
+**138**.— Section 91 of the Act of 2001 is amended—
+
+(*a*) in subsection (1)—
+
+(i) by the deletion of “or” in paragraph (*b*),
+
+(ii) by the substitution of “subject, or” for “subject.” in paragraph (*c*), and
+
+(iii) by the insertion of the following paragraph after paragraph (*c*):
+
+“(*d*) under section 257D.”,
+
+and
+
+(*b*) in subsection (4), by the insertion of “or under section 257D” after “charged”.
+
+### 139. Substitution of section 93 of Act of 2001.
+
+**139**.— The following section is substituted for section 93 of the Act of 2001:
+
+“Restriction on reports of proceedings where children concerned.
+
+93.— (1) In relation to proceedings before any court concerning a child—
+
+(*a*) no report which reveals the name, address or school of any child concerned in the proceedings or includes any particulars likely to lead to the identification of any such child shall be published or included in a broadcast or any other form of communication, and
+
+(*b*) no still or moving picture of or including any such child or which is likely to lead to his or her identification shall be so published or included.
+
+(2) A court may dispense, in whole or in part, with the requirements of this section in relation to a child if satisfied that to do so is necessary—
+
+(*a*) where the child is charged with an offence—
+
+(i) to avoid injustice to the child,
+
+(ii) where the child is unlawfully at large, for the purpose of apprehending the child, or
+
+(iii) in the public interest,
+
+or
+
+(*b*) where the child is subject to an order under section 257D—
+
+(i) to avoid injustice to the child, or
+
+(ii) to ensure that the order is complied with.
+
+(3) Where a court dispenses with any requirements of this section, it shall explain in open court the reasons for its decision.
+
+(4) Subsections (3) to (6) of section 51 of this Act shall apply, with the necessary modifications, to matters published or included in a broadcast or other form of communication in contravention of subsection (1).
+
+(5) This section shall apply in relation to proceedings on appeal from a court, including proceedings by way of case stated.
+
+(6) This section shall not affect the provisions of any enactment concerning the anonymity of an accused or the law relating to contempt of court.”.
+
+### 140. Amendment of section 136 of Act of 2001.
+
+**140**.— Section 136 of the Act of 2001 is amended—
+
+(*a*) by the substitution of the following subsections for subsection (1):
+
+“(1) A member of the Garda Síochána who finds a child in breach of an order under section 133 or of any condition to which it is subject may arrest the child without warrant.
+
+(1A) Where it appears to a court that a child has failed, without reasonable cause, to comply with such an order or any condition to which it is subject, it may—
+
+(*a*) if the order was made by a court in the district of residence—
+
+(i) direct the child to comply with the order or any such condition in so far as it has not been complied with,
+
+(ii) revoke the order and substitute another order under section 133 or another community sanction, or
+
+(iii) revoke the order and deal with the case in any other way in which it could have been dealt with before the order was made,
+
+or
+
+(*b*) if the order was made by another court, remand the child on bail to a sitting of that court to be dealt with, and for that purpose paragraph (*a*) shall apply in relation to that court, with the necessary modifications.”,
+
+and
+
+(*b*) by the deletion of subsection (3).
+
+### 141. Substitution of section 149 of Act of 2001.
+
+**141**.— The following section is substituted for section 149 of the Act of 2001:
+
+“Period of detention in children detention school.
+
+149.— Where a child is found guilty of an offence in the Children Court, any term of detention in a children detention school imposed for the offence shall not be for a period longer than the term of detention or imprisonment which the court could impose on an adult who commits such an offence.”.
+
+### 142. Amendment of section 155 of Act of 2001.
+
+**142**.— Section 155 of the Act of 2001 is amended—
+
+(*a*) by the substitution of the following subsections for subsections (1) to (3):
+
+“(1) Where—
+
+(*a*) a child is convicted on indictment of an offence and sentenced to detention in a children detention school,
+
+(*b*) the period of detention is served initially in such a school,
+
+(*c*) the child has attained the age of 18 years before the period of detention has expired,
+
+the person shall be transferred to a place of detention provided under section 2 of the Act of 1970 or a prison to serve the remainder of the period of detention.
+
+(2) If, on attaining the age of 18 years, the person—
+
+(*a*) is engaged in a particular course of education or in training which is not available in such a place of detention or in a prison, or
+
+(*b*) is nearing the end of his or her period of detention in the school,
+
+the person may continue to be detained in the school beyond that age for a period not exceeding 6 months.
+
+(3) Notwithstanding any provision in any enactment, no child shall be transferred from a children detention school to a place of detention provided under section 2 of the Act of 1970 or a prison.”,
+
+(*b*) by the deletion of subsections (4) and (5), and
+
+(*c*) in subsection (6), by the deletion of “in a children detention centre,”.
+
+### 143. New section 156A in Act of 2001.
+
+**143**.— The following section is inserted in the Act of 2001 after section 156, but in Part 9:
+
+“Transitional provision.
+
+156A.— (1) Notwithstanding anything in Part 9, males aged 16 and 17 years sentenced to detention may be detained in Saint Patrick’s Institution or a place of detention until—
+
+(*a*) places suitable for the admission of children of those ages become available for designation as children detention schools under section 160, or
+
+(*b*) they have completed their period of detention.
+
+(2) Subject to subsection (3), on or after the making of any such designation, any child serving a period of detention in Saint Patrick’s Institution or a place of detention may be transferred to such a designated children detention school.
+
+(3) A male aged 16 or 17 years may be transferred from Saint Patrick’s Institution or a place of detention to a children detention school before such a designation is made and may later be transferred back to the Institution or place.
+
+(4) A child who is serving a period of detention in St. Patrick’s Institution or place of detention shall not have his or her period of detention varied by reason only of a transfer under subsection (2) or (3).
+
+(5) In this section, “place of detention” means a place of detention provided under section 2 of the Act of 1970.”.
+
+### 144. New section 156B in Act of 2001.
+
+**144**.— F50[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F50: Repealed (31.03.2017) by *Children (Amendment) Act 2015* (30/2015), s. 3(2), S.I. No. 111 of 2017.
+
+### 145. Amendment of section 157 of Act of 2001.
+
+**145**.— Section 157 of the Act of 2001 is amended—
+
+(*a*) by the insertion of the following definitions:
+
+““authorised person” means a person authorised by the Minister under section 185;
+
+“staff” does not include teaching staff;”,
+
+and
+
+(*b*) by the deletion of the definitions of “Inspector” and “Minister”.
+
+### 146. Substitution of section 159 of Act of 2001.
+
+**146**.— The following section is substituted for section 159 of the Act of 2001:
+
+“Certified schools under Act of 1908.
+
+159.— (1) Subject to subsection (2), a certified reformatory school or industrial school under Part IV of the Act of 1908 shall, with the agreement of the Minister and the Minister for Education and Science, become a children detention school on the commencement of this section in relation to it.
+
+(2) A certified industrial school under that Part shall, with the agreement of the Minister for Education and Science and the Minister for Health and Children and on the commencement of this section in relation to it, become premises provided and maintained by the Health Service Executive under section 38(2) of the Act of 1991 for the provision of residential care for children in care.
+
+(3) On the commencement of this section in relation to a certified reformatory school or industrial school the functions relating to which stood vested in the Minister for Education and Science (other than the function of providing education and training and related programmes for children detained in it) immediately before such commencement, such functions shall—
+
+(*a*) if the school becomes a children detention school, be vested in the Minister, or
+
+(*b*) in the case referred to in subsection (2), be vested in the Health Service Executive.
+
+(4) The lawfulness of the detention, and the period of detention, of a child who is detained in a certified reformatory or industrial school is not affected by the commencement of this section in relation to it.
+
+(5) Any reference in any enactment to a reformatory school or an industrial school shall, on the commencement of this section in relation to it, be construed as a reference to a children detention school or, as the case may be, premises provided and maintained by the Health Service Executive under section 38(2) of the Act of 1991.”.
+
+### 147. New section 159A in Act of 2001.
+
+**147**.— The following section is inserted in the Act of 2001 after section 159:
+
+“Education of children in children detention school, residential centres, etc.
+
+159A.— (1) In this section—
+
+“Inspector” and “ recognised school ” have the meanings given to them in section 2 of the Education Act 1998;
+
+“transferred premises” means a certified reformatory or an industrial school under Part IV of the Act of 1908 which, on the commencement of section 159 in relation to it, becomes a children detention school or premises provided and maintained by the Health Service Executive under section 38(2) of the Act of 1991;
+
+“vocational education committee” means a committee established by section 7 of the Vocational Education Act 1930.
+
+(2) Any recognised school forming part of transferred premises is dissolved.
+
+(3) A vocational education committee in whose functional area transferred premises are situated shall provide for the education of children in those premises.
+
+(4) Without prejudice to the generality of subsection (3), each vocational education committee shall, in respect of any such premises—
+
+(*a*) plan, coordinate and review the provision of education and services ancillary thereto,
+
+(*b*) ensure that the education provided therein meets the requirements of education policy as determined from time to time by the Minister for Education and Science,
+
+(*c*) ensure that students have access to appropriate guidance to assist them in their educational and career choices,
+
+(*d*) promote the moral, spiritual, social and personal development of the children concerned, and
+
+(*e*) ensure that the needs of personnel involved in management functions and those in relation to staff development generally are identified and provided for.
+
+(5) The functions of an Inspector within the meaning of the Education Act 1998 apply, with any necessary modifications, in relation to education facilities provided in respect of any transferred premises.
+
+(6) A person who, immediately before the dissolution under this section of a recognised school, is a member of its teaching staff shall, on such dissolution, become an employee of the vocational education committee in whose functional area the recognised school is situated; and the rights and entitlements enjoyed by the person as such employee in respect of tenure, remuneration, fees, allowances, expenses and superannuation shall not, by virtue of the operation of this Act, be any less beneficial than the rights and entitlements enjoyed by that person immediately before the dissolution.”.
+
+### 148. New section 159B in Act of 2001.
+
+**148**.— The following section is inserted in the Act of 2001 after section 159A:
+
+“Transfer of property, rights and liabilities of certified industrial school on commencement of section 159(2).
+
+159B.— (1) In this section—
+
+“board of management” in relation to a certified industrial school, includes managers of the school within the meaning of the Act of 1908;
+
+“certified industrial school” means a certified industrial school under Part IV of the Act of 1908 which becomes transferred premises on the transfer day;
+
+“land” includes any rights, liabilities, powers or privileges relating to or connected with the land;
+
+“property” includes any rights or liabilities relating to or connected with the property;
+
+“transfer day” means the day on which a certified industrial school becomes, by virtue of section 159(2), premises provided and maintained by the Health Service Executive under section 38(2) of the Act of 1991 for the provision of residential care for children in care;
+
+“transferred premises” means premises which on the transfer day become premises so provided and maintained.
+
+(2) On the transfer day—
+
+(*a*) any land or other property, and any other rights or liabilities, vested in the Minister for Education and Science in relation to the certified industrial school concerned or in its board of management immediately before that day, except any rights or liabilities referred to in paragraph (*b*), is transferred to and vested in the Health Service Executive without any conveyance or assignment,
+
+(*b*) any rights or liabilities—
+
+(i) of the Minister for Education and Science in relation to the school or of its board of management, and
+
+(ii) relating to or connected with members of its teaching staff or their teaching functions,
+
+however arising immediately before that day are transferred to and vested without any assignment in the vocational education committee in whose functional area the transferred premises are situated.
+
+(3) Any rights or liabilities transferred under this section may on and after the transfer day be sued on, recovered or enforced by or against the Health Service Executive or the vocational education committee concerned in its own name, and it shall not be necessary for the Executive or committee to give notice of the transfer to the person whose rights or liabilities are so transferred.
+
+(4) Subject to subsection (5), where any proceedings to which the certified industrial school concerned or its board of management is a party are pending immediately before the transfer day, the Minister for Education and Science shall be substituted for the school or board as a party to the proceedings on and after that day, and the proceedings shall not abate by reason of the substitution.
+
+(5) Where—
+
+(*a*) the Minister for Education and Science is a party to proceedings pending immediately before the transfer day in relation to a certified industrial school or its board of management, whether by virtue of subsection (4) or otherwise, and
+
+(*b*) the Minister and the Health Service Executive or vocational education committee concerned agree that the Executive or committee should be substituted for the Minister as a party to the proceedings,
+
+the Executive or the committee shall notify the other parties to the proceedings accordingly, and the proceedings shall not abate by reason of the substitution.
+
+(6) A person who was an employee of the certified industrial school concerned (other than a member of its teaching staff) immediately before the transfer day shall on that day become an employee of the Health Service Executive, and the rights and entitlements enjoyed by the person as such employee in respect of his or her terms and conditions of employment, including remuneration, allowances and superannuation, shall not by virtue of the operation of this Act be any less beneficial than the rights and entitlements enjoyed by that person immediately before that day.
+
+(7) The functions, including powers and duties, of the Minister for Health and Children under the Child Care Act 1991, as amended, and the Health Acts 1947 to 2006 in relation to premises provided and maintained under section 38(2) of the Act of 1991 by the Health Service Executive for the provision of residential care for children in care apply and have effect in relation to transferred premises.
+
+(8) A child who is found guilty of an offence may not be ordered to be placed or detained in transferred premises.
+
+(9) The Minister for Education and Science shall, before the commencement of section 159(2), direct the transfer of each child convicted of an offence or on remand in respect of an offence from any place which, on such commencement, becomes transferred premises to a certified reformatory or industrial school under Part IV of the Act of 1908 or a children detention school to serve the whole or any part of the unexpired residue of his or her period of detention.
+
+(10) This section is without prejudice to section 159A.”.
+
+### 149. Amendment of section 161 of Act of 2001.
+
+**149**.— Section 161 of the Act of 2001 is amended—
+
+(*a*) by the substitution of the following subsections for subsection (1):
+
+“(1) The Minister may enter into arrangements with any person or body for the provision by that person or body on behalf of the Minister of a place (except a prison) where children found guilty of offences can be detained.
+
+(1A) Before entering into any such arrangements, the Minister shall be satisfied that the place provides treatment or other facilities not available in children detention schools.
+
+(1B) The Minister may enter into arrangements under subsection (1) with more than one such person or body.
+
+(1C) A child detained in a children detention school may be transferred to a place provided under subsection (1) with the agreement of the Minister and the person or body providing the place and, with such agreement, may be transferred back to that school”,
+
+and
+
+(*b*) by the insertion of the following subsection:
+
+“(7) In this section, “place” includes part of a building.”.
+
+### 150. Amendment of section 165 of Act of 2001.
+
+**150**.— Section 165 of the Act of 2001 is amended—
+
+(*a*) in subsection (1)(*b*), by the substitution of “risk, and” for “risk,”, and
+
+(*b*) by the deletion of paragraph (*c*) of subsection (1).
+
+### 151. Substitution of section 185 of Act of 2001.
+
+**151**.— The following section is substituted for section 185 of the Act of 2001:
+
+“Inspection of children detention schools.
+
+185.— (1) The Minister shall cause each children detention school to be inspected.
+
+(2) An inspection shall be conducted by a person authorised in that behalf by the Minister.
+
+(3) The person so authorised shall have expertise and experience in relation to the inspection of children’s residential accommodation.”.
+
+### 152. Substitution of section 186 of Act of 2001.
+
+**152**.— The following section is substituted for section 186 of the Act of 2001:
+
+“Functions of authorised person.
+
+186.— (1) A person authorised under section 185 shall carry out inspections at least once every 12 months of each children detention school.
+
+(2) Without prejudice to the generality of subsection (1), an authorised person shall, in carrying out an inspection of any such school, pay particular attention to—
+
+(*a*) the conditions in which the children are detained and the facilities available to them,
+
+(*b*) their health, safety and well-being,
+
+(*c*) policies and practice concerning the preservation and development of relationships between them and their families,
+
+(*d*) policies and practice concerning their discipline, care and protection, and
+
+(*e*) policies and practice in relation to the normal routine of the school.
+
+(3) The authorised person may hear complaints by children who at any time were or who are detained in a children detention school, and for that and any other purpose—
+
+(*a*) may interview them and any member of the staff in the school concerned, and
+
+(*b*) shall have access to records, whether in legible or non-legible form, relating to the administration of the school and the children detained therein.
+
+(4) Any interviews with children shall be with their consent and may, if they agree, take place in private.
+
+(5) The authorised person—
+
+(*a*) shall not be an employee of any children detention school which the person inspects, and
+
+(*b*) shall be independent in the exercise of his or her functions in carrying out inspections.
+
+(6) The authorised person shall submit a report to the Minister in relation to any inspection carried out under this section and publish the report at the same time as it is so submitted.”.
+
+### 153. New section 186A in Act of 2001.
+
+**153**.— The following section is inserted in the Act of 2001 after section 186:
+
+“Investigation of matters arising in relation to children detention schools, etc.
+
+186A.— (1) Where—
+
+(*a*) matters of concern in relation to a children detention school or place provided under section 161 are raised in a report of a person authorised under section 186 or otherwise, and
+
+(*b*) the Minister is satisfied that it would be desirable to investigate those matters,
+
+the Minister shall appoint a person (in this section referred to as an “Inspector”) to investigate and report to him or her thereon.
+
+(2) The Inspector shall carry out an investigation into the matters referred to in subsection (1) and such other matters relevant to them as he or she considers necessary for the purposes of the investigation.
+
+(3) For those purposes, the Inspector may—
+
+(*a*) enter any children detention school or place provided under section 161,
+
+(*b*) examine the records, whether in legible or non-legible form, of the school or place, and
+
+(*c*) interview members of the staff of the school, including the Director, and members of its board of management or, as the case may be, members of the staff and managers of the place.
+
+(4) The Inspector—
+
+(*a*) shall not be an employee of any children detention school which he or she inspects,
+
+(*b*) shall be independent in the exercise of his or her functions in carrying out inspections, and may interview any child who at any time was or who is detained in a children detention school.
+
+(5) Any such interview shall be with the consent of the child concerned and may, if the child agrees, take place in private.
+
+(6) The Inspector shall submit a report to the Minister in relation to the investigation.
+
+(7) Each such report shall, where appropriate, contain recommendations which in the Inspector’s opinion require to be implemented.
+
+(8) A copy of each such report shall be laid by the Minister before each House of the Oireachtas.
+
+(9) Before laying a report before each House of the Oireachtas pursuant to subsection (3), the Minister may omit material from it where the omission is necessary to avoid the identification of any person.
+
+(10) An appointment of an Inspector shall be for a specified investigation, but the Minister may appoint the same person to carry out a further investigation or investigations as the Minister considers appropriate.
+
+(11) The appointment of an Inspector shall be on such terms and conditions as may be determined by the Minister with, in the case of any terms and conditions relating to remuneration, the consent of the Minister for Finance.”.
+
+### 154. Substitution of section 198 of Act of 2001.
+
+**154**.— The following section is substituted for section 198 of the Act of 2001:
+
+“Transfer between schools.
+
+198.— (1) The Minister may direct the transfer of a child detained in a children detention school to another such school to serve the whole or any part of the remainder of the child’s period of detention if—
+
+(*a*) the school to which the child is transferred caters, in accordance with the provisions of this Part, for that class of child, or
+
+(*b*) the Minister considers that the transfer is necessary in the interests of the good governance of children detention schools,
+
+and, in either case, the school to which the child is transferred provides the conditions and facilities necessary for it to achieve its principal object in the case of the child.
+
+(2) Before giving a direction under this section, the Minister shall consult the Directors of the children detention schools from and to which it is desired to transfer the child so as to ascertain whether the transfer would be in the child’s interests or whether another course should be adopted in respect of the child.
+
+(3) A direction under subsection (1) may be given at the request of the Director of a children detention school and, if so given, this section shall apply in relation to the direction with the necessary modifications.”.
+
+### 155. Amendment of section 215 of Act of 2001.
+
+**155**.— Section 215 of the Act of 2001 is amended—
+
+(*a*) by the substitution of the following subsection for subsection (2):
+
+“(2) A child found guilty in the Children Court of an offence under subsection (1) may be sentenced to detention for a period not exceeding 3 months.”,
+
+and
+
+(*b*) by the deletion of subsection (3).
+
+### 156. Amendment of section 227 of Act of 2001.
+
+**156**.— Section 227(1) of the Act of 2001 is amended—
+
+(*a*) by the substitution of “and to” for “and ensure”,
+
+(*b*) in paragraph (*a*), by the substitution of “advise on the coordination of” for “coordinate”,
+
+(*c*) in paragraph (*b*), by the substitution of “advise on” for “ensure”,
+
+(*d*) by the substitution of the following paragraph for paragraph (*c*):
+
+“(*c*) in consultation with the Health Service Executive, prepare and publish criteria for the admission to and discharge from special care units of children subject to special care and interim special care orders,”,
+
+and
+
+(*e*) by the deletion of paragraph (*d*).
+
+### 157. Amendment of section 230 of Act of 2001.
+
+**157**.— Section 230 of the Act of 2001 is amended—
+
+(*a*) in subsection (1), by the substitution of “11” for “12”, and
+
+(*b*) by the substitution of the following subsection for subsection (3):
+
+“(3) The members of the Board shall include—
+
+(*a*) three persons nominated by the Minister for Justice, Equality and Law Reform,
+
+(*b*) three persons, two of whom shall be representatives of the Health Service Executive,
+
+(*c*) three experts in child care, and
+
+(*d*) three persons with relevant experience in dealing with issues of educational disadvantage or exclusion, nominated by the Minister for Education and Science.”.
+
+### 158. Minor and consequential amendments of Act of 2001.
+
+**158**.— Each provision of the Act of 2001 specified in *Schedule 4* to the *Criminal Justice Act 2006* is amended in the manner specified in the third column opposite the mention of that provision in the second column of that Schedule.
+
+## PART 13 Anti-Social Behaviour by Children — PART 13 — Anti-Social Behaviour by Children
+
+### 159. New section 257A in Act of 2001.
+
+**159**.— The following title and section is inserted in the Act of 2001 after section 257:
+
+“PART 12A
+
+Anti-Social Behaviour by Children
+
+Interpretation (Part 12A).
+
+257A.— (1) In this Part—
+
+“behaviour order” means an order under section 257D;
+
+“behaviour warning” shall be construed in accordance with section 257B;
+
+“child” means a child who is at least 12 years of age and under the age of 18 years;
+
+“good behaviour contract” has the meaning given to it in section 257C;
+
+“Programme” means the diversion programme referred to in section 18.
+
+(2) For the purposes of this Part, a child behaves in an anti-social manner if the child causes or, in the circumstances, is likely to cause, to one or more persons who are not of the same household as the child—
+
+(*a*) harassment,
+
+(*b*) significant or persistent alarm, distress, fear or intimidation, or
+
+(*c*) significant or persistent impairment of their use or enjoyment of their property.
+
+(3) This Part does not apply—
+
+(*a*) to any behaviour of a child that takes place before this section comes into force, or
+
+(*b*) to any act or omission of a child in respect of which criminal proceedings have been instituted against the child.”.
+
+### 160. New section 257B in Act of 2001.
+
+**160**.— The following section is inserted in the Act of 2001 after section 257A:
+
+“Behaviour warning to child.
+
+257B.— (1) Subject to subsection (5), a member of the Garda Síochána may issue a behaviour warning to a child who has behaved in an anti-social manner.
+
+(2) The behaviour warning may be issued orally or in writing and, if it is issued orally, shall be recorded in writing as soon as reasonably practicable and a written record of the behaviour warning shall be served on the child and his or her parents or guardian personally or by post.
+
+(3) The behaviour warning or, if it is given orally, the written record of it shall—
+
+(*a*) include a statement that the child has behaved in an anti-social manner and indicate what that behaviour is and when and where it took place,
+
+(*b*) demand that the child cease the behaviour or otherwise address the behaviour in the manner specified in the warning, and
+
+(*c*) include notice that—
+
+(i) failure to comply with a demand under paragraph (*b*), or
+
+(ii) issuance of a subsequent behaviour warning,
+
+may result in an application being made for a behaviour order.
+
+(4) The member of the Garda Síochána referred to in subsection (1) may require the child to give his or her name and address to the member for the purposes of the behaviour warning or the written record of it.
+
+(5) A behaviour warning may not be issued more than one month after the time that—
+
+(*a*) the behaviour took place, or
+
+(*b*) in the case of persistent behaviour, the most recent known instance of that behaviour took place.
+
+(6) Subject to subsection (7), a behaviour warning remains in force against the child to whom it is issued for 3 months from the date that it is issued.
+
+(7) If an application is made under section 257D in respect of the child, the behaviour warning remains in force against the child until the application is determined by the Children Court.”.
+
+### 161. New section 257C in Act of 2001.
+
+**161**.— The following section is inserted in the Act of 2001 after section 257B:
+
+“Meeting to discuss anti-social behaviour by child.
+
+257C.— (1) The superintendent in charge of a district, on receipt of a report from a member of the Garda Síochána in that district concerning the behaviour of a child, shall convene a meeting to discuss the child’s behaviour if satisfied that—
+
+(*a*) the child has behaved in an anti-social manner and is likely to continue doing so, and
+
+(*b*) the child has previously behaved in an anti-social manner, but—
+
+(i) has not received a warning in respect of previous anti-social behaviour, or
+
+(ii) holding such a meeting would help to prevent further such behaviour by the child.
+
+(2) A report under subsection (1) shall be prepared only after a behaviour warning has been given to the child by a member of the Garda Síochána in relation to the child’s anti-social behaviour.
+
+(3) The report shall include details of the behaviour warning.
+
+(4) The following persons shall be asked to attend a meeting convened under subsection (1):
+
+(*a*) the child;
+
+(*b*) his or her parents or guardian;
+
+(*c*) the member of the Garda Síochána who warned the child in relation to his or her anti-social behaviour;
+
+(*d*) if the child is already participating in the Programme, a juvenile liaison officer.
+
+(5) The superintendent may request the attendance at the meeting of such other person or persons as he or she considers would be of assistance to the child or the parents or guardian, including a member of the local policing forum (within the meaning of the Garda Síochána Act 2005).
+
+(6) The meeting shall discuss the child’s behaviour.
+
+(7) Subject to subsection (8), at the meeting—
+
+(*a*) the superintendent shall explain in simple language to the child and the parents or guardian what the offending behaviour is and the effect it is having on any other person or persons,
+
+(*b*) the child shall be asked to acknowledge that the behaviour has occurred and to undertake to stop it,
+
+(*c*) the parents or guardian shall be asked to acknowledge the child’s behaviour and to undertake to take steps to prevent a recurrence,
+
+(*d*) if the child and the parents or guardian agree to give those undertakings, a document (in this section referred to as a “good behaviour contract”) incorporating the undertakings shall be prepared and, where practicable, be signed by the child and the parents or guardian.
+
+(8) The functions of a superintendent under subsection (7) may, at his or her request, be performed by a member of the Garda Síochána not below the rank of inspector, and in that case the member shall provide the superintendent with a written report of the outcome of the meeting.
+
+(9) A good behaviour contract shall expire at the end of a period not exceeding 6 months from the date of the meeting but may be renewed by the child and the parents or guardian for a further period of not more than 3 months.
+
+(10) The superintendent may from time to time review the child’s behaviour in the light of the undertaking given by him or her in the good behaviour contract.
+
+(11) If the child—
+
+(*a*) has behaved, or continues to behave, in breach of the undertaking, or
+
+(*b*) in the opinion of the superintendent or the parent or guardian, is likely to so behave,
+
+the superintendent may reconvene the meeting referred to in subsection (1) and renew the contract if the child and the parents so agree.
+
+(12) A renewal of the contract under subsection (11) shall be for a period not exceeding—
+
+(*a*) 6 months from the date of the original contract, or
+
+(*b*) 9 months from the date of the original contract,
+
+whichever is the shorter.
+
+(13) Nothing in this section prevents a child being the subject of a further good behaviour contract if the child and the parents or guardian so agree.
+
+(14) This subsection applies—
+
+(*a*) where a superintendent, having considered a report referred to at subsection (1), does not consider that convening a meeting under this section would help to prevent anti-social behaviour by the child concerned, or
+
+(*b*) where such a meeting has been convened and—
+
+(i) a good behaviour contract was not prepared because the child or the parents or guardian refused to give the necessary undertaking, or
+
+(ii) the child is in breach of an undertaking given by him or her in such a contract.
+
+(15) Where subsection (14) applies, either—
+
+(*a*) the child shall be admitted to the Programme, in which case Part 4 shall apply accordingly, with any necessary modifications, in relation to him or her, or
+
+(*b*) the superintendent, if satisfied that the child’s participation in the Programme would not be appropriate in the circumstances, shall apply to the Children Court for a behaviour order in respect of the child.”.
+
+### 162. New section 257D in Act of 2001.
+
+**162**.— The following section is inserted in the Act of 2001 after section 257C:
+
+“Behaviour order for children over 12.
+
+257D.— (1) The Children Court may, on the application of a member of the Garda Síochána not below the rank of superintendent, make an order (in this Part referred to as a “behaviour order”) prohibiting a child of or above the age of 12 years from doing anything specified in the order if the court is satisfied that—
+
+(*a*) the child, notwithstanding his or her participation in the procedures provided for in section 257C, has continued and is likely to continue to behave in an anti-social manner,
+
+(*b*) the order is necessary to prevent the child from continuing to behave in that manner,
+
+(*c*) having regard to the effect or likely effect of that behaviour on other persons, the order is reasonable and proportionate in the circumstances.
+
+(2) The application shall indicate the extent of the child’s participation in the procedures under section 257C.
+
+(3) The Court may impose terms or conditions in the behaviour order that it considers appropriate.
+
+(4) An order under this section may, for the purpose of protecting a person or persons from further anti-social behaviour by a child—
+
+(*a*) prohibit a child from behaving in a specified manner, and, where appropriate, from so behaving at or in the vicinity of a specified place,
+
+(*b*) require the child to comply with specified requirements, including requirements relating to—
+
+(i) school attendance, and
+
+(ii) reporting to a member of the Garda Síochána, a teacher or other person in authority in a school,
+
+and
+
+(*c*) provide for the supervision of the child by a parent or guardian or any other specified person or authority with an interest in the child’s welfare.
+
+(5) The respondent child in an application under this section may not at any time be charged with, prosecuted or punished for an offence if the act or omission that constitutes the offence is the same behaviour that is the subject of the application and is to be determined by the court under subsection (1).
+
+(6) Unless discharged under subsection (7), a behaviour order remains in force for no more than the lesser of the following:
+
+(*a*) 2 years from the date of the order;
+
+(*b*) the period specified in the order.
+
+(7) The Court may vary or discharge a behaviour order on the application of the child concerned or his or her parents or guardian or of a member of the Garda Síochána not below the rank of superintendent.
+
+(8) An applicant under subsection (1) or (7) shall give notice of the application—
+
+(*a*) where the applicant under either subsection is a member of the Garda Síochána, to the child and his or her parents or guardian, or
+
+(*b*) where the applicant under subsection (7) is the child, to the applicant under subsection (1) and the child’s parents or guardian, and
+
+(*c*) where the applicant under subsection (7) is the child’s parent or guardian, to the child and the applicant under subsection (1).
+
+(9) The standard of proof in proceedings under this section is that applicable to civil proceedings.
+
+(10) The jurisdiction conferred on the Court by this section may be exercised as follows:
+
+(*a*) in respect of subsections (1), (3) and (4), by a judge of the District Court for the time being assigned to the district court district in which the child resides at the time the application is made;
+
+(*b*) in respect of subsection (7), by a judge of the District Court for the time being assigned to the district court district in which the child subject to the behaviour order resides at the time the application is made.”.
+
+### 163. New section 257E in Act of 2001.
+
+**163**.— The following section is inserted in the Act of 2001 after section 257D:
+
+“Appeal against behaviour order.
+
+257E.— (1) A child against whom a behaviour order has been made may, within 21 days from the date that the order is made, appeal the making of the order to the Circuit Court.
+
+(2) An appellant under subsection (1) shall give notice of the appeal to the superintendent in charge of the Garda Síochána district in which the appellant resides.
+
+(3) Notwithstanding the appeal, the behaviour order shall remain in force unless the court that made the order or the appeal court places a stay on it.
+
+(4) An appeal under this section shall be in the nature of a rehearing of the application under section 257D and, for this purpose, subsections (1), (3) and (4) of that section apply in respect of the matter.
+
+(5) If on appeal under this section, the appeal court makes a behaviour order, the provisions of section 257D(6) to (8) apply in respect of the matter.
+
+(6) Notwithstanding the appeal period described in subsection (1), the Circuit Court may, on application by the child subject to the behaviour order or the child’s parent or guardian, extend the appeal period if satisfied that exceptional circumstances exist which warrant the extension.
+
+(7) The standard of proof in proceedings by this section is that applicable to civil proceedings.
+
+(8) The jurisdiction conferred on the Circuit Court under this section may be exercised as follows:
+
+(*a*) in respect of section 257D(1), (3) and (4) as those provisions apply to the Circuit Court under subsection (4) of this section, by a judge of the Circuit Court for the time being assigned to the circuit in which the appellant under this section resides at the time the appeal is commenced;
+
+(*b*) in respect of section 257D(7) as it applies to the Circuit Court under subsection (5) of this section, by a judge of the Circuit Court for the time being assigned to the circuit in which the child subject to the behaviour order resides at the time the application is made;
+
+(*c*) in respect of subsection (6) of this section, by a judge of the Circuit Court for the time being assigned to the circuit in which the child subject to the behaviour order resides at the time the application is made.”.
+
+### 164. New section 257F in Act of 2001.
+
+**164**.— The following section is inserted in the Act of 2001 after section 257E:
+
+“Offences.
+
+257F.— (1) A child commits an offence who—
+
+(*a*) fails to give a name and address when required to do so under section 257B(4) or gives a name or address that is false or misleading in response to that requirement, or
+
+(*b*) without reasonable excuse, does not comply with a behaviour order to which the child is subject.
+
+(2) A member of the Garda Síochána may arrest a child without warrant if the member has reasonable grounds to believe that the child has committed an offence under subsection (1)(*b*).
+
+(3) A child who is guilty of an offence under this section is liable on summary conviction—
+
+(*a*) in the case of an offence under subsection (1)(*a*), to a fine not exceeding €200, and
+
+(*b*) in the case of an offence under subsection (1)(*b*), to a fine not exceeding €800 or detention in a children detention school for a period not exceeding 3 months or both.
+
+(4) If a child is ordered to pay a fine and costs on conviction of an offence under subsection (1)(*b*), the aggregate of the fine and costs shall not exceed €1,500.”.
+
+### 165. New section 257G in Act of 2001.
+
+**165**.— The following section is inserted in the Act of 2001 after section 257F:
+
+“Legal aid.
+
+257G.— (1) Subject to subsection (2), a child who is the subject of an application for a behaviour order may be granted a certificate for free legal aid (in this Part referred to as a “legal aid (behaviour order) certificate”) in preparation for and representation at the hearing of—
+
+(*a*) the application,
+
+(*b*) any application by the child or his or her parents or guardian to vary or discharge a behaviour order,
+
+(*c*) any appeal by the child against the making of the behaviour order, or
+
+(*d*) any proceedings in the High Court or Supreme Court arising out of the making of the application, the appeal or any subsequent proceedings.
+
+(2) A legal aid (behaviour order) certificate may not be granted under subsection (1) unless it appears to the court hearing the application for the certificate—
+
+(*a*) that the means of the child concerned or of his or her parents or guardian are insufficient to enable him or her to obtain legal aid, and
+
+(*b*) that, by reason of the gravity of the alleged anti-social behaviour or of exceptional circumstances, it is essential in the interests of justice that the child should have legal aid in preparation for and representation at the hearing concerned.
+
+(3) A child who is granted a legal aid (behaviour order) certificate is entitled—
+
+(*a*) to free legal aid in preparation for and representation at the hearing of the application for a behaviour order and any proceedings referred to in subsection (1)(*b*), (*c*) and (*d*), and
+
+(*b*) to have, in such manner as may be prescribed—
+
+(i) a solicitor assigned to the child in relation to the application for the behaviour order or any application to vary or discharge it,
+
+(ii) a solicitor assigned to the child in relation to any other such proceedings, and
+
+(iii) if the court granting the certificate considers it appropriate, a counsel assigned to the child in relation to any other proceedings referred to in subparagraph (ii).
+
+(4) Where a legal aid (behaviour order) certificate is granted, any fees, costs or other expenses properly incurred in preparation for and representation at the proceedings concerned shall, subject to regulations under section 257H, be paid out of moneys provided by the Oireachtas.
+
+(5) A child applying for a legal aid (behaviour order) certificate may be required by the court granting the certificate to furnish a written statement of his or her means and the means of his or her parents or guardian.
+
+(6) A person who, for the purpose of obtaining free legal aid under this section, whether for himself or herself or for some other person, knowingly makes a false or misleading statement or representation either orally or in writing, or knowingly conceals any material fact, is guilty of an offence and liable on summary conviction to a fine not exceeding €2,500 or imprisonment for a term not exceeding 6 months or both.
+
+(7) On conviction of a person for an offence under this section, the court by which the person is convicted may, if in the circumstances of the case it thinks fit, order the person to pay to the Minister the whole or part of any sum paid under subsection (4) in respect of the free legal aid in relation to which the offence was committed, and any sum so paid to the Minister shall be paid into and disposed of for the benefit of the Exchequer in accordance with the directions of the Minister for Finance.”.
+
+### 166. New section 257H in Act of 2001.
+
+**166**.— The following section is inserted in the Act of 2001 after section 257G:
+
+“Regulations (legal aid).
+
+257H.— (1) The Minister may make regulations for carrying section 257G into effect.
+
+(2) The regulations may, in particular, prescribe—
+
+(*a*) the form of certificates granted under that section,
+
+(*b*) the rates or scales of payment of any fees, costs or other expenses payable out of moneys provided by the Oireachtas pursuant to those certificates, and
+
+(*c*) the manner in which solicitors and counsel are to be assigned pursuant to those certificates.
+
+(3) Regulations in subsection (2)(*b*) shall not be made without the consent of the Minister for Finance.
+
+(4) Pending the making of regulations under this section, the regulations under section 10 of the Criminal Justice (Legal Aid) Act 1962 shall apply and have effect, with the necessary modifications, in relation to certificates for free legal aid granted under section 257G of this Act as if they were certificates for free legal aid granted under the Criminal Justice (Legal Aid) Act 1962.”.
+
+## PART 14 Criminal Law Codification Advisory Committee — PART 14 — Criminal Law Codification Advisory Committee
+
+### 167. Criminal Law Codification Advisory Committee.
+
+**167**.— There stands established a body, which shall be known as An Coiste Comhairleach um Chódú an Dlí Choiriúil or, in the English language as, the Criminal Law Codification Advisory Committee and is in this Part referred to as the “Committee”, to perform the functions assigned to it by this Act.
+
+### 168. Functions of Committee.
+
+**168**.— (1) The function of the Committee shall be to oversee the development of a programme for the codification of the criminal law.
+
+(2) Without prejudice to the generality of *subsection* *(1)* , the Committee shall—
+
+(*a*) plan, monitor and review the implementation of a programme for the development of a criminal code (“the code”),
+
+(*b*) advise and assist the Minister on consolidation of areas of criminal law for inclusion in the code,
+
+(*c*) advise and assist the Minister in relation to the amendment and future maintenance of the code,
+
+(*d*) undertake or commission, or collaborate or assist in, research projects relating to the codification of criminal law,
+
+(*e*) consult, on any particular matter which the Committee considers relevant, persons qualified to give opinions thereon,
+
+(*f*) monitor, review and advise and assist the Minister on international developments in the codification of criminal law in so far as they may be relevant to the development of the code,
+
+(*g*) advise and assist the Minister on any other related issues, including issues submitted by the Minister to the Committee for consideration.
+
+### 169. Membership of Committee.
+
+**169**.— (1) The Committee shall consist of the following members, that is to say, a chairperson and such and so many ordinary members as may be appointed from time to time as occasion requires by the Minister.
+
+(2) The members of the Committee shall be appointed by the Minister from among persons who in the opinion of the Minister have experience of, and expertise including Human Rights expertise in relation to, matters connected with the functions of the Committee.
+
+### 170. Conditions of office of members of Committee.
+
+**170**.— (1) The Minister may at any time, for stated reasons, terminate a person’s membership of the Committee.
+
+(2) A member of the Committee may resign his or her membership of the Committee by notice in writing given to the Minister, and the resignation shall take effect on the day on which the Minister receives the notice.
+
+(3) A member of the Committee shall, subject to the provisions of this Part, hold office upon such terms and conditions (including terms and conditions relating to remuneration and allowances for expenses) as the Minister, with the consent of the Minister for Finance, may from time to time determine.
+
+### 171. Vacancies among members of Committee.
+
+**171**.— If a member of the Committee dies, resigns, or ceases to be a member of the Committee, the Minister may appoint a person to be a member of the Committee to fill the vacancy so occasioned in the same manner as the member of the Committee who occasioned the vacancy was appointed.
+
+### 172. Meetings and procedure.
+
+**172**.— (1) The Committee shall hold such and so many meetings as may be necessary for the performance of its functions and the achievement of its programme of work and may make such arrangements for the conduct of its meetings and business (including the establishment of subcommittees and the fixing of a quorum for a meeting) as it considers appropriate.
+
+(2) The Committee may act notwithstanding one or more vacan-cies among its members.
+
+(3) Subject to the provisions of this Part, the Committee shall regulate its own procedure by rules or otherwise.
+
+(4) At a meeting of the Committee—
+
+(*a*) the chairperson of the Committee shall, if present, be the chairperson of the meeting, or
+
+(*b*) if and so long as the chairperson of the Committee is not present, or if that office is vacant, the members of the Committee who are present shall choose one of their number to be chairperson of the meeting.
+
+(5) A member of the Committee, other than the chairperson, who is unable to attend a meeting of the Committee, may nominate a deputy to attend in his or her place.
+
+### 173. Programme of Work of Committee.
+
+**173**.— (1) The Minister shall, as soon as may be after the commencement of this Part and thereafter, at least once in every 2 years, after consultation with the Committee, determine a programme of work to be undertaken by the Committee over the ensuing specified period.
+
+(2) Notwithstanding *subsection* *(1)* , the Minister may, from time to time, amend the programme of work, including the period to which the programme relates.
+
+### 174. Funding of Committee.
+
+**174**.— For the purposes of expenditure by the Committee in the performance of its functions, the Minister may in each financial year, with the consent of the Minister for Finance, advance to the Committee out of moneys provided by the Oireachtas such sum or sums as the Minister, after consultation with the Committee, may determine.
+
+### 175. Report of Committee.
+
+**175**.— (1) The Committee shall, not later than 3 months after the end of each calendar year, prepare and submit to the Minister a report on the performance of its functions and activities during the preceding year and the Minister shall cause copies of the report to be laid before each House of the Oireachtas within a period of 2 months from the receipt of the report.
+
+(2) A report under *subsection* *(1)* shall be in such form as the Minister may approve and shall include information in such form and regarding such matters as the Minister may from time to time direct.
+
+(3) The Committee shall supply to the Minister such information regarding the performance of its functions as the Minister may from time to time require.
+
+## PART 15 Miscellaneous — PART 15 — Miscellaneous
+
+### 176. Reckless endangerment of children.
+
+**176**.— (1) In this section—
+
+“abuser” means an individual believed by a person who has authority or control over that individual to have seriously harmed or sexually abused a child or more than one child;
+
+“child” means a person under 18 years of age, except where the context otherwise requires;
+
+“serious harm” means injury which creates a substantial risk of death or which causes permanent disfigurement or loss or impairment of the mobility of the body as a whole or of the function of any particular member or organ;
+
+“sexual abuse” means an offence under paragraphs 1 to 13 and 16(*a*) and (*b*) of the Schedule to the Sex Offenders Act 2001.
+
+(2) A person, having authority or control over a child or abuser, who intentionally or recklessly endangers a child by—
+
+(*a*) causing or permitting any child to be placed or left in a situation which creates a substantial risk to the child of being a victim of serious harm or sexual abuse, or
+
+(*b*) failing to take reasonable steps to protect a child from such a risk while knowing that the child is in such a situation,
+
+is guilty of an offence.
+
+(3) Where a person is charged with an offence under *subsection (2)*, no further proceedings in the matter (other than any remand in custody or on bail) shall be taken except by or with the consent of the Director of Public Prosecutions.
+
+(4) A person guilty of an offence under this section is liable on conviction on indictment, to a fine or to imprisonment for a term not exceeding 10 years or both.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E41: Offence under section included in definition of “specified offence” for purposes of *Taxi Regulation Act 2013* (37/2013) (6.04.2014) by *Taxi Regulation Act 2013* (37/2013), ss. 10, 30, 31 and sch. part 1 item 16, S.I. No. 163 of 2014.
+>
+> E42: Offence under section included in sch. 1 (offences against children for purposes of offence under s. 2) to *Criminal Justice (Withholding of Information on Offences against Children and Vulnerable Persons) Act 2012* (24/2012) (1.08.2012) by *Criminal Justice (Withholding of Information on Offences against Children and Vulnerable Persons) Act 2012* (24/2012), s. 2 and sch. 1, S.I. No. 281 of 2012.
+
+### 177. Restriction of section 10(4) of Petty Sessions (Ireland) Act 1851.
+
+**177**.— (1) The Criminal Justice Act 1951 is amended by the substitution of the following section for section 7:
+
+“Restriction of section 10(4) of Petty Sessions (Ireland) Act 1851.
+
+7.— Paragraph 4 (which prescribes time limits for the making of complaints in cases of summary jurisdiction) of section 10 of the Petty Sessions (Ireland) Act 1851 shall not apply to a complaint in respect of:
+
+(*a*) a scheduled offence, or
+
+(*b*) an offence that is triable—
+
+(i) at the election of the prosecution, either on indictment or summarily, or
+
+(ii) either on indictment or, subject to certain conditions including the consent of the prosecution, summarily.”.
+
+(2) This section shall not have effect in relation to an offence committed before the commencement of this section.
+
+### 178. Amendment of Courts of Justice Act 1924.
+
+**178**.— The Courts of Justice Act 1924 is amended by the insertion of the following section after section 79:
+
+“Exercise of jurisdiction by District Court judges in criminal cases.
+
+79A.— (1) Where, in respect of a crime committed in the State—
+
+(*a*) the accused does not reside in the State,
+
+(*b*) he or she was not arrested for and charged with the crime in the State, and
+
+(*c*) either—
+
+(i) the crime was committed in more than one district court district, or
+
+(ii) it is known that it was committed in one of not more than five district court districts, but the particular district concerned is not known,
+
+then, for the purposes of section 79 of this Act, the crime shall be deemed to have been committed in each of the districts concerned and a judge assigned to any of the districts concerned may deal with the case.
+
+(2) Where the circumstances of a crime committed in the State fall within paragraphs (*a*) and (*b*), but not (*c*), of subsection (1) of this section and the district court district in which the crime was committed is not known, then, for the purposes of section 79 of this Act, the crime shall be deemed to have been committed in the Dublin Metropolitan District.
+
+(3) A case does not fall within this section unless it is shown that reasonable efforts have been made to ascertain the whereabouts of the accused for the purposes of arresting him or her for and charging him or her with the crime concerned.
+
+(4) Where a judge for the time being assigned to a district court district exercises jurisdiction in a criminal case by virtue of this section, the judge or any other judge assigned to the district shall have jurisdiction in the case until its conclusion in the District Court notwithstanding that it is later established that, but for this subsection, he or she would not have had jurisdiction in the case.
+
+(5) A judge for the time being assigned to a district court district who exercises jurisdiction in a criminal case by virtue of this section may deal with the case in any court area within his or her district.”.
+
+### 179. Amendment of Courts (Supplemental Provisions) Act 1961.
+
+**179**.— The Courts (Supplemental Provisions) Act 1961 is amended—
+
+(*a*) in section 25(4), by the insertion of “and section 25A of this Act” after “subsection (3) of this section”, and
+
+(*b*) by the insertion of the following section after section 25:
+
+“Exercise of jurisdiction by Circuit Court judges in indictable offences.
+
+25A.— (1) Where, in respect of an offence committed in the State—
+
+(*a*) the accused person does not reside in the State,
+
+(*b*) he or she was not arrested for and charged with the offence in the State, and
+
+(*c*) either—
+
+(i) the offence was committed in more than one circuit, or
+
+(ii) it is known that it was committed in one of not more than three circuits, but the particular circuit concerned is not known,
+
+then, for the purposes of section 25(3) of this Act, the offence shall be deemed to have been committed in each of the circuits concerned and a judge of any of the circuits concerned may deal with the case.
+
+(2) Where the circumstances of an offence committed in the State fall within paragraphs (*a*) and (*b*), but not (*c*), of subsection (1) of this section and the circuit in which the offence was committed is not known, then, for the purposes of section 25(3) of this Act, the offence shall be deemed to have been committed in the Dublin Circuit.
+
+(3) A case does not fall within this section unless it is shown that reasonable efforts have been made to ascertain the whereabouts of the accused person for the purposes of arresting him or her for and charging him or her with the offence concerned.
+
+(4) Where a judge of a circuit exercises jurisdiction in relation to an indictable offence by virtue of this section, the judge or any other judge assigned to the circuit shall have jurisdiction in relation to the offence until the conclusion of proceedings in respect of it in the Circuit Court notwithstanding that it is later established that, but for this subsection, he or she would not have had jurisdiction in relation to the offence.
+
+(5) In this section ‘offence’ means an indictable offence as respects which jurisdiction is vested in the Circuit Court by section 25 of this Act.”.
+
+### 180. Exercise of certain powers by judge of District Court outside district court district.
+
+**180**.— The Courts (Supplemental Provisions) Act 1961 is amended by the insertion of the following section after section 32:
+
+6“Exercise of certain powers by judge of District Court outside district court district.
+
+32A.— (1) This section applies to the following powers of a judge of the District Court:
+
+(*a*) the power to issue a warrant for the arrest of a person;
+
+(*b*) the power to issue a warrant to a member of the Garda Síochána or, if appropriate, any other person authorising the entry to, and search of, any place or premises (including a dwelling) and, if appropriate, the search of any person found at such place or premises for all or any of the following purposes:
+
+(i) the gathering of evidence of, or relating to, the commission or attempted commission of any criminal offence;
+
+(ii) the gathering of evidence of, or relating to, the contravention in any other respect of any provision of an enactment;
+
+(iii) ascertaining whether there is or has been compliance with any provision of an enactment;
+
+(iv) the gathering of evidence of, or relating to, assets or proceeds deriving from criminal conduct (within the meaning of section 1(1) of the Criminal Assets Bureau Act 1996) or to their identity or whereabouts;
+
+(*c*) the power to make an order, upon the application of a member of the Garda Síochána or, if appropriate, any other person, directing another person to produce, make available for inspection or to give access to any particular document, material or thing, or documents, material or things of a particular description, for the purposes of investigating—
+
+(i) any criminal offence,
+
+(ii) whether there is or has been a contravention in any other respect of any provision of an enactment, or
+
+(iii) whether a person has benefited from assets or proceeds deriving from criminal conduct (within the meaning of section 1(1) of the Criminal Assets Bureau Act 1996) or is in receipt of or controls such assets or proceeds.
+
+(2) A judge of the District Court may, in relation to a relevant district, exercise while in any place in the State outside that relevant district any of the powers to which this section applies for the time being conferred on him or her by law if, but only if, he or she would be entitled to exercise the power concerned at a sitting of the District Court in that relevant district.
+
+(3) Without prejudice to the generality of paragraph (*b*) of subsection (1) of this section, a warrant may fall within that paragraph notwithstanding that the warrant or the power under which it is issued authorises all or any of the following:
+
+(*a*) the entry, if necessary by the use of force, to a place or premises (including a dwelling);
+
+(*b*) the doing of acts in addition to the acts specified in subsection (1)(*b*) of this section;
+
+(*c*) the execution of the warrant by a person other than the member of the Garda Síochána or, if appropriate, any other person to whom it is issued;
+
+(*d*) the accompaniment of the person executing the warrant by any other persons during the execution thereof.
+
+(4) Without prejudice to the generality of paragraph (*c*) of subsection (1) of this section, an order may fall within that paragraph notwithstanding that the order or the power under which it is made authorises all or any of the following:
+
+(*a*) a member of the Garda Síochána or any other person to enter a place for the purpose of inspecting or getting access to any document, material or thing or documents, material or things of a particular description;
+
+(*b*) the execution of the order by a person other than the member of the Garda Síochána or, if appropriate, any other person who applies for it;
+
+(*c*) the retention, or copying, for the purposes of proceedings (criminal or civil) by a member of the Garda Síochána or any other person of any document, material or thing, or documents, material or things of a particular description, produced, made available for inspection or to which access is given.
+
+(5) In this section—
+
+‘enactment’ means a statute or an instrument made under a power conferred by statute;
+
+‘district’ means a district court district;
+
+‘relevant district’, in relation to a judge of the District Court, means a district—
+
+(*a*) to which he or she is permanently assigned under paragraph 2 of the Sixth Schedule to this Act,
+
+(*b*) to which he or she is temporarily assigned under subparagraph (1) or (2) of paragraph 3 of the said Schedule, or
+
+(*c*) in relation to which he or she is acting in the circumstances specified in subparagraph (1), (2) or (3) of paragraph 4 of the said Schedule for another judge of the District Court who is permanently assigned to the district.”.
+
+### 181. Anonymity of certain witnesses.
+
+**181**.— (1) Where in any criminal proceedings—
+
+(*a*) it is proposed to call a person to give evidence, and
+
+(*b*) the person has a medical condition,
+
+an application may be made for an order under this section prohibiting the publication of any matter relating to the proceedings which would identify the person as a person having that condition.
+
+(2) An application for such an order may be made at any stage of the proceedings and shall be made—
+
+(*a*) in case the accused person has been sent forward for trial, to the trial judge,
+
+(*b*) in case the proceedings are proceedings on appeal, to the judge, or a judge, of the appeal court,
+
+(*c*) in any other case, to a judge of the District Court.
+
+(3) An order under this section may be made only where the judge concerned is satisfied that—
+
+(*a*) the person concerned has a medical condition,
+
+(*b*) his or her identification as a person with that condition would be likely to cause undue distress to him or her, and
+
+(*c*) the order would not be prejudicial to the interests of justice.
+
+(4) An appeal from a refusal or grant of an application for an order under this section shall lie—
+
+(*a*) in relation to proceedings before the District Court, to a judge of the Circuit Court,
+
+(*b*) in relation to proceedings before the Circuit Criminal Court or a Special Criminal Court, to a judge of the High Court, and
+
+F51[(c) in relation to proceedings before the Central Criminal Court, to a judge of the Court of Appeal,]
+
+at the instance of the prosecution or the defence.
+
+(5) Where—
+
+(*a*) an accused person is sent forward for trial, and
+
+(*b*) an order has been made by a judge of the District Court under this section,
+
+the trial judge may, on application made in that behalf, vary or revoke the order.
+
+(6) Where—
+
+(*a*) an appeal is being taken against a decision of a court in criminal proceedings, and
+
+(*b*) the trial judge has made an order under this section,
+
+the judge, or a judge, of the appeal court may, on application made in that behalf, vary or revoke the order.
+
+(7) An application under this section, or an appeal under *subsection* *(4)* , may be made by the prosecution or the defence on notice to the other party to the proceedings and shall be made to the judge concerned in chambers.
+
+(8) Each of the following persons who publishes or broadcasts any matter in contravention of an order under this section is guilty of an offence and is liable on conviction on indictment to a fine not exceeding €25,000 or imprisonment for a term not exceeding 3 years or both:
+
+(*a*) if the matter is published in a newspaper or periodical, any proprietor, editor or publisher of the newspaper or periodical;
+
+(*b*) if the matter is published otherwise, the person who publishes it; or
+
+(*c*) if the matter is broadcast, any person transmitting or providing the programme in which the broadcast is made and any person having functions in relation to the programme corresponding to those of an editor of a newspaper.
+
+(9) Where a person is charged with an offence under *subsection* *(8)* , it is a defence to prove that at the time of the alleged offence the person was not aware, and neither suspected nor had any reason to suspect, that the publication or broadcast concerned was of any such matter as is mentioned in *subsection* *(1)* .
+
+(10) (*a*) Where an offence under *subsection* *(8)* has been committed by a body corporate and it is proved to have been so committed with the consent or connivance of or to be attributable to any neglect on the part of any person who, when the offence was committed, was a director, manager, secretary or other officer of the body corporate, or a person purporting to act in any such capacity, that person, as well as the body corporate, shall be guilty of an offence and shall be liable to be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
+
+(*b*) Where the affairs of a body corporate are managed by its members, *paragraph* *(a)* shall apply in relation to the acts and defaults of a member in connection with the functions of management as if he or she were a director or manager of the body corporate.
+
+(11) In this section—
+
+“broadcast” means the transmission, relaying or distribution by wireless telegraphy of communications, sounds, visual images or signals, intended for reception by the public generally or a section of it, whether the broadcast is so received or not, and cognate words shall be construed accordingly;
+
+“publish” means publish, other than by way of broadcast, to the public generally or a section of it;
+
+“trial judge” and “judge”, in relation to proceedings before a Special Criminal Court, means a member of that Court, and the references in *subsections* *(2)* *(a)* and *(5)* *(a)* to an accused person being sent forward for trial include, where appropriate, references to such a person being charged before that Court.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F51: Substituted (28.10.2014) by *Court of Appeal Act 2014* (18/2014), s. 66, S.I. No. 479 of 2014.
+
+### 182. Information concerning property held in trust.
+
+**182**.— (1) For the purposes of an investigation into whether a person has committed an arrestable offence a member of the Garda Síochána not below the rank of superintendent may apply to a judge of the High Court for an order for the disclosure of information regarding any trust in which the person may have an interest or with which the person may be otherwise connected.
+
+(2) On such an application the judge, if satisfied—
+
+(*a*) that there are reasonable grounds for suspecting that a person—
+
+(i) has committed an arrestable offence, and
+
+(ii) has some interest in or other connection with the trust,
+
+(*b*) that information regarding the trust is required for the purposes of such an investigation, and
+
+(*c*) that there are reasonable grounds for believing that it is in the public interest that the information should be disclosed for the purposes of the investigation, having regard to the benefit likely to accrue to the investigation and any other relevant circumstances,
+
+may order the trustees of the trust and any other persons (including the suspected person) to disclose to the applicant or other member of the Garda Síochána designated by the applicant such information as he or she may require for those purposes in relation to the trust, including the identity of the settlor and any or all of the trustees and beneficiaries.
+
+(3) An order under this section—
+
+(*a*) shall not confer any right to production of, or access to, any information subject to legal privilege, and
+
+(*b*) shall have effect notwithstanding any other obligation as to secrecy or other restriction on disclosure of information imposed by statute or otherwise.
+
+(4) A judge of the High Court may vary or discharge an order under this section on the application of any person to whom it relates or a member of the Garda Síochána.
+
+(5) A trustee or other person who without reasonable excuse—
+
+(*a*) fails or refuses to comply with an order under this section, or
+
+(*b*) discloses information which is false or misleading,
+
+is guilty of an offence and liable—
+
+(i) on summary conviction, to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both, or
+
+(ii) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years or both.
+
+(6) Any information disclosed by a person in accordance with this section is not admissible in evidence in any criminal proceedings against the person or his or her spouse, except in any proceedings for an offence under *subsection* *(5)* *(b)* .
+
+(7) In this section “information” includes—
+
+(*a*) a document or record, and
+
+(*b*) information in non-legible form.
+
+### 183. Possession of article intended for use in connection with certain offences.
+
+F52[**183.**— (1) A person is guilty of an offence if he or she possesses or controls any article in circumstances giving rise to a reasonable inference that he or she possesses or controls it for a purpose connected with the commission, preparation, facilitation or instigation of—
+
+(*a*) an offence under section 15 of the Non-Fatal Offences against the Person Act 1997,
+
+(*b*) a drug trafficking offence within the meaning of section 3(1) of the Criminal Justice Act 1994,
+
+(*c*) murder,
+
+(*d*) murder to which section 3 of the Criminal Justice Act 1990 applies, or
+
+(*e*) the common law offence of kidnapping to which section 2 of, and paragraph 4 of the Schedule to, the Criminal Law (Jurisdiction) Act 1976 applies.
+
+(2) It is a defence for a person charged with an offence under this section to prove that at the time of the alleged offence he or she did not possess or control the article concerned for a purpose specified in subsection (1).
+
+(3) Where a person is charged with an offence under this section, no further proceedings in the matter (other than any remand in custody or on bail) may be taken except by or with the consent of the Director of Public Prosecutions.
+
+(4) A person guilty of an offence under this section is liable on conviction on indictment to a fine or to imprisonment for a term not exceeding 5 years or both.
+
+(5) In this section—
+
+‘article’ means a substance, document or thing;
+
+‘document’ includes—
+
+(*a*) a map, plan, graph, drawing, photograph or record, or
+
+(*b*) a reproduction in permanent legible form, by a computer or other means (including enlarging), of information in non-legible form;
+
+‘information in non-legible form’ includes information on microfilm, magnetic tape or disk.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F52: Substituted (18.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 46, S.I. No. 236 of 2007.
+
+### 183A. Possession of monies intended for use in connection with certain offences.
+
+F53[**183A.**— (1) A person is guilty of an offence if he or she possesses or controls monies of a value of not less than €5,000 in circumstances giving rise to a reasonable inference that he or she possesses or controls the assets concerned for a purpose connected with the commission, preparation, facilitation or instigation of—
+
+(*a*) an offence under section 14 of the Criminal Justice (Theft and Fraud Offences) Act 2001,
+
+(*b*) an offence under section 15 of the Non-Fatal Offences against the Person Act 1997,
+
+(*c*) a drug trafficking offence within the meaning of section 3(1) of the Criminal Justice Act 1994,
+
+(*d*) an offence under section 17 of the Criminal Justice (Public Order) Act 1994,
+
+(*e*) murder,
+
+(*f*) murder to which section 3 of the Criminal Justice Act 1990 applies, or
+
+(*g*) the common law offence of kidnapping to which section 2 of, and paragraph 4 of the Schedule to, the Criminal Law (Jurisdiction) Act 1976 applies.
+
+(2) It is a defence for a person charged with an offence under this section to prove that at the time of the alleged offence he or she did not possess or control the assets concerned for a purpose specified in *subsection (1)*.
+
+(3) Where a person is charged with an offence under this section, no further proceedings in the matter (other than any remand in custody or on bail) may be taken except by or with the consent of the Director of Public Prosecutions.
+
+(4) A person guilty of an offence under this section is liable on conviction on indictment to a fine or to imprisonment for a term not exceeding 5 years or both.
+
+(5) In this section—
+
+‘monies’ means coins and notes in any currency, bank drafts, postal orders, certificates of deposit and any other similar instruments easily convertible into money.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F53: Inserted (18.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 46, S.I. No. 236 of 2007.
+
+### 184. Amendment of Criminal Justice (Public Order) Act 1994.
+
+**184**.— The Criminal Justice (Public Order) Act 1994 is amended by the insertion of the following sections after section 23:
+
+“Fixed charge offences.
+
+23A.— (1) A member of the Garda Síochána who has reasonable grounds for believing that a person is committing, or has committed, an offence under section 5 (in this section referred to as a `fixed charge offence’) may serve on the person personally or by post the notice referred to in subsection (5) or cause it to be so served.
+
+(2) A member of the Garda Síochána may, for the purposes of subsection (1)—
+
+(*a*) request the person concerned to give his or her name and address and to verify the information given, and
+
+(*b*) if not satisfied with the name and address or any verification given, request that the person accompany the member to a Garda Síochána station for the purpose of confirming the person’s name and address.
+
+(3) A person who—
+
+(*a*) does not give his or her name and address when requested to do so under subsection (2)(*a*) or gives a name or address that is false or misleading, or
+
+(*b*) does not comply with a request by a member of the Garda Síochána under subsection (2)(*b*),
+
+is guilty of an offence and is liable on summary conviction to a fine not exceeding €1,500.
+
+(4) A member of the Garda Síochána who is of opinion that a person is committing, or has committed, an offence under subsection (3) may arrest the person without warrant.
+
+(5) The notice referred to in subsection (1) shall be in the prescribed form and shall state—
+
+(*a*) that the person on whom it is served is alleged to have committed the fixed charge offence concerned,
+
+(*b*) when and where it is alleged to have been committed,
+
+(*c*) that a prosecution for it will not be instituted if—
+
+(i) during the period of 28 days beginning on the date of the notice, the person pays to a member of the Garda Síochána at a specified Garda Síochána station or to another specified person at a specified place the prescribed amount, or
+
+(ii) within 28 days beginning on the expiration of that period, the person so pays an amount which is 50 per cent greater than the prescribed amount,
+
+and
+
+(*d*) that in default of such payment the person will be prosecuted for the alleged offence.
+
+(6) A payment referred to in subsection (5) shall be accompanied by the notice referred to in that subsection.
+
+(7) Where a notice is served under subsection (1)—
+
+(*a*) a person to whom the notice applies may make a payment in accordance with subsections (5)(*c*) and (6),
+
+(*b*) a member of the Garda Síochána or other specified person shall receive the payment, issue a receipt for it and retain it for payment or disposal in accordance with subsection (8)(*b*),
+
+(*c*) a payment so received shall not be recoverable by the person who made it, and
+
+(*d*) a prosecution in respect of the alleged fixed charge offence to which the notice relates shall not be instituted during the periods specified in subsection (5)(*c*) or, if a payment is made in accordance with that subsection and subsection (6), at all.
+
+(8) (*a*) In proceedings against a person for a fixed charge offence it shall be presumed, until the contrary is shown, that the person did not make payment in accordance with subsections (5)(*c*) and (6).
+
+(*b*) Payments so made shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance directs.
+
+(9) (*a*) The Minister may make regulations prescribing anything which is referred to in this section as prescribed.
+
+(*b*) Different amounts may be prescribed for a fixed charge offence under this section and an offence under section 4 which is deemed by section 23B(4) to be a fixed charge offence.
+
+(*c*) Regulations made under this section may contain such incidental, supplementary and consequential provisions as appear to the Minister to be necessary for the purposes of the regulations.
+
+(10) In this section—
+
+‘Minister’ means Minister for Justice, Equality and Law Reform;
+
+‘person’ means a person of not less than 18 years of age.
+
+Application of section 23A in relation to offence under section 4.
+
+23B.— (1) This section applies to a person of not less than 18 years of age who is suspected, with reasonable cause, by a member of the Garda Síochána of committing, or of having committed, an offence under section 4.
+
+(2) Where—
+
+(*a*) a person to whom this section applies is arrested and brought to a Garda Síochána station, and
+
+(*b*) he or she is a person whom the member of the Garda Síochána in charge of the station is authorised by section 31 of the Criminal Procedure Act 1967 to release on bail,
+
+the member may, instead of releasing the person on bail, release him or her unconditionally after serving on the person personally a notice in the prescribed form stating the matters specified in section 23A(5) or causing it to be so served.
+
+(3) Where a person to whom this section applies is not arrested, the member of the Garda Síochána referred to in subsection (1) may serve on the person personally or by post a notice in the prescribed form stating the matters specified in section 23A(5) or cause it to be so served.
+
+(4) On the service of a notice under subsection (2) or (3) the offence under section 4 is thereupon deemed to be a fixed charge offence, and subsections (5) to (10) of section 23A apply and have effect accordingly in relation to it.”.
+
+### 185. Amendment of section 19 of Criminal Justice (Public Order) Act 1994.
+
+**185**.— Section 19 of the Criminal Justice (Public Order) Act 1994 is amended—
+
+(*a*) by the substitution of the following subsection for subsection (1):
+
+“(1) Any person who assaults or threatens to assault—
+
+(*a*) a person providing medical services at or in a hospital, or
+
+(*b*) a person assisting such a person, or
+
+(*c*) a peace officer acting in the execution of a peace officer’s duty, knowing that he or she is, or being reckless as to whether he or she is, a peace officer so acting, or
+
+(*d*) any other person acting in aid of a peace officer, or
+
+(*e*) any other person with intent to resist or prevent the lawful apprehension or detention of himself or herself or any other person for any offence,
+
+shall be guilty of an offence.”,
+
+(*b*) in subsection (2), by the substitution of “€5,000” for “£1,000” and by the substitution of “7 years” for “5 years”,
+
+(*c*) by the substitution of the following subsection for subsection (3):
+
+“(3) Any person who resists or wilfully obstructs or impedes—
+
+(*a*) a person providing medical services at or in a hospital, knowing that he or she is, or being reckless as to whether he or she is, a person providing medical services, or
+
+(*b*) a person assisting such a person, or
+
+(*c*) a peace officer acting in the execution of a peace officer’s duty, knowing that he or she is or being reckless as to whether he or she is, a peace officer so acting, or
+
+(*d*) a person assisting a peace officer in the execution of his or her duty,
+
+shall be guilty of an offence.”,
+
+(*d*) in subsection (4), by the substitution of “€2,500” for “£500”, and
+
+(*e*) in subsection (6)—
+
+(i) by the insertion of the following definitions:
+
+“ “hospital” includes the lands, buildings and premises connected with and used wholly or mainly for the purposes of a hospital;
+
+“medical services” means services provided by—
+
+(*a*) doctors, dentists, psychiatrists, nurses, midwives, pharmacists, health and social care professionals (within the meaning of the Health and Social Care Professionals Act 2005) or other persons in the provision of treatment and care for persons at or in a hospital, or
+
+(*b*) persons acting under direction of those persons;”,
+
+and
+
+(ii) in the definition of “peace officer”, by the insertion of “, a member of the fire brigade, ambulance personnel” after “a prison officer”.
+
+### 186. Amendment of section 1 of Criminal Justice (United Nations Convention Against Torture) Act 2000.
+
+**186**.— The definition of “torture” in section 1(1) of the Criminal Justice (United Nations Convention Against Torture) Act 2000 is amended by the insertion after “omission” of “done or made, or at the instigation of, or with the consent or acquiescence of a public official”.
+
+### 187. Amendment of Offences Against the State Act 1939.
+
+**187**.— The Offences Against the State Act 1939 is amended—
+
+(*a*) in section 30, by the insertion of the following subsection after subsection (4C):
+
+“(4D) If—
+
+(*a*) an application is made under subsection (4) of this section for a warrant authorising the detention for a further period of a person detained pursuant to a direction under subsection (3) of this section, and
+
+(*b*) the period of detention under subsection (3) of this section has not expired at the commencement of the hearing of the application but would, but for this subsection, expire during that hearing,
+
+it shall be deemed not to expire until the determination of the application.”,
+
+and
+
+(*b*) in section 30A—
+
+(i) in subsection (2)(*b*), by the substitution of “subsections (4), (4A), (4B) and (4D)” for “subsections (4), (4A) and (4B)”, and
+
+(ii) in subsection (3), by the substitution of “for the purpose of charging him or her with that offence forthwith or bringing him or her before a Special Criminal Court as soon as practicable so that he or she may be charged with that offence before that Court” for “for the purpose of charging him with that offence forthwith”.
+
+### 188. Amendment of section 5 of Criminal Evidence Act 1992.
+
+**188**.— (1) Section 5 of the Criminal Evidence Act 1992 is amended in subsection (4)(*b*) by the insertion of the following subparagraph after subparagraph (ii):
+
+“(ii*a*) a record of the receipt, handling, transmission or storage of anything by the Forensic Science Laboratory of the Department of Justice, Equality and Law Reform in connection with the performance of its functions to examine and analyse things or samples of things for the purposes of criminal investigations or proceedings or both,”.
+
+(2) This section shall be deemed to have come into operation on 1 January 2003.
+
+### 189. Amendment of section 16B(7) of Proceeds of Crime Act 1996.
+
+**189**.— Section 16B(7) of the Proceeds of Crime Act 1996 is amended by the insertion of “of the Criminal Assets Bureau Act 1996” after “Sections 14 to 14C”.
+
+### 190. Amendment of section 14 of Criminal Assets Bureau Act 1996.
+
+**190**.— (1) Section 14 of the Criminal Assets Bureau Act 1996 is amended by the substitution of the following subsection for subsection (1):
+
+“(1) If a judge of the District Court is satisfied by information on oath of a bureau officer who is a member of the Garda Síochána that there are reasonable grounds for suspecting that evidence of or relating to assets or proceeds deriving from criminal conduct, or to their identity or whereabouts, is to be found in any place, the judge may issue a warrant for the search of that place and any person found at that place.”.
+
+(2) This section shall not affect the validity of a warrant issued under section 14 of the Criminal Assets Bureau Act 1996 before the commencement of this section and such a warrant shall continue in force in accordance with its terms after such commencement.
+
+### 191. Amendment of section 5 of Prevention of Corruption (Amendment) Act 2001.
+
+**191**.— (1) Section 5 of the Prevention of Corruption (Amendment) Act 2001 is amended by the substitution of the following subsection for subsection (1):
+
+“(1) If a judge of the District Court is satisfied by information on oath of a member of the Garda Síochána, or if a member of the Garda Síochána not below the rank of superintendent is satisfied, that there are reasonable grounds for suspecting that evidence of or relating to the commission of an offence or suspected offence under the Prevention of Corruption Acts 1889 to 2001 punishable by imprisonment for a term of 5 years or by a more severe penalty (‘an offence’) is to be found in any place, he or she may issue a warrant for the search of that place and any persons found at that place.”.
+
+(2) This section shall not affect the validity of a warrant issued under section 5 of the Prevention of Corruption (Amendment) Act 2001 before the commencement of this section and such a warrant shall continue in force in accordance with its terms after such commencement.
+
+### 192. Amendment of Criminal Justice (Theft and Fraud Offences) Act 2001.
+
+**192**.— (1) The Criminal Justice (Theft and Fraud Offences) Act 2001 is amended—
+
+(*a*) in section 48, by the substitution of the following subsection for subsection (2):
+
+“(2) If a Judge of the District Court is satisfied by information on oath of a member of the Garda Síochána that there are reasonable grounds for suspecting that evidence of, or relating to the commission of, an offence to which this section applies is to be found in any place, the judge may issue a warrant for the search of that place and any person found there.”,
+
+and
+
+(*b*) in section 52, by the substitution of the following subsection for subsection (2):
+
+“(2) If a Judge of the District Court is satisfied by information on oath of a member of the Garda Síochána that—
+
+(*a*) the Garda Síochána are investigating an offence to which this section applies,
+
+(*b*) a person has possession or control of particular material or material of a particular description, and
+
+(*c*) there are reasonable grounds for suspecting that the material constitutes evidence of or relating to the commission of the offence,
+
+the judge may order the person to—
+
+(i) produce the material to a member of the Garda Síochána for the member to take away, or
+
+(ii) give such a member access to it,
+
+either immediately or within such period as the order may specify.”.
+
+(2) This section shall not affect the validity of a warrant issued under section 48, or an order made under section 52, of the Criminal Justice (Theft and Fraud Offences) Act 2001 before the commencement of this section and such a warrant or order shall continue in force in accordance with its terms after such commencement.
+
+### 193. Amendment of section 25 of Petty Sessions (Ireland) Act 1851.
+
+**193**.— Section 25 of the Petty Sessions (Ireland) Act 1851 is amended by the substitution of the following paragraph for paragraph 1:
+
+“1. All warrants (except as otherwise provided by law) in proceedings in respect of offences punishable either on indictment or summarily issued by the District Court shall be addressed to the superintendent or an inspector of the Garda Síochána of the Garda Síochána district within which the place where the warrant is issued is situated or the person named in the warrant resides:”.
+
+### 194. Execution of certain warrants.
+
+**194**.— A warrant for the arrest of a person or an order of committal of a person may, notwithstanding section 26 of the Petty Sessions (Ireland) Act 1851, be executed by a member of the Garda Síochána in any part of the State.
+
+### 195. Imprisonment or distress and sale of goods on conviction on indictment in default of payment of fine.
+
+**195**.—F54[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F54: Repealed (11.01.2016) by *Fines (Payment and Recovery) Act 2014* (7/2014), s. 4(b), S.I. No. 6 of 2016.
+>
+> **Editorial Notes:**
+>
+> E43: Previous affecting provision: section repealed by *Fines Act 2010* (8/2010), s. 22(b), not commenced; repealed and superseded as per F-note above.
+
+### 196. Amendment of section 6(2)(a) of Criminal Law Act 1976.
+
+**196**.— Section 6(2)(*a*) of the Criminal Law Act 1976 is amended by the substitution of “€3,000” for “£500”.
+
+### 197. Amendment of section 13 of the Criminal Law (Insanity) Act 2006.
+
+**197**.— (1) Section 13 of the Criminal Law (Insanity) Act 2006 is amended by the deletion of subsection (1).
+
+(2) Accordingly the following consequential amendments to that section have effect:
+
+(*a*) subsections (2) to (10) are renumbered as subsections (1) to (9);
+
+(*b*) in the renumbered subsection (4), “subsection (3)” is substituted for “subsection (4)” where it occurs;
+
+(*c*) in the renumbered subsection (6), “subsection (5)” is substituted for “subsection (6)” where it occurs; and
+
+(*d*) in the renumbered subsection (9), “subsection (7) or (8)” is substituted for “subsection (8) or (9)”.
+
+## SCHEDULE 1 — Increase of Certain Penalties under Firearms Acts 1925 to 2000
+
+<table><tr><td>Section of Act</td><td>Subject matter</td><td>Word(s) deleted</td><td>Words substituted</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td></tr><tr><td colspan="4"><i>Amendment of Firearms Act 1925</i></td></tr><tr><td>12(4)</td><td>Register to be kept by firearms dealer</td><td>fifty pounds</td><td>€3,000</td></tr><tr><td>12(5)</td><td></td><td>twenty-five pounds</td><td>€1,500</td></tr><tr><td>13(2)</td><td>Inspections of stock of firearms dealer</td><td>ten pounds</td><td>€1,000 or imprisonment for a term not exceeding 6 months or both</td></tr><tr><td>21(4)</td><td>Search for and seizure of certain firearms, etc.</td><td>liable on summary conviction thereof in the case of a first offence to a penalty not exceeding ten pounds, and in the case of a second or any subsequent offence to a penalty not exceeding twenty pounds</td><td>liable on summary conviction to a fine not exceeding €1,000 or imprisonment for a term not exceeding 6 months or both</td></tr><tr><td>22(2)</td><td>Powers of members of Garda Síochána</td><td>ten pounds</td><td>€1,000</td></tr><tr><td colspan="4"><i>Amendment of Firearms and Offensive Weapons Act 1990</i></td></tr><tr><td>7(6)(<i>a</i>)</td><td>Possession, sale, etc. of silencers</td><td>£1,000</td><td>€5,000</td></tr><tr><td>7(6)(<i>b</i>)</td><td></td><td>five years</td><td>7 years</td></tr><tr><td>8(<i>a</i>)</td><td>Reckless discharge of firearm</td><td>£1,000</td><td>€5,000</td></tr><tr><td>8(<i>b</i>)</td><td></td><td>five years</td><td>7 years</td></tr><tr><td>9(7)(<i>a</i>)</td><td>Possession of knives, etc.</td><td>£1,000</td><td>€5,000</td></tr><tr><td>9(7)(<i>b</i>)</td><td></td><td>£1,000</td><td>€5,000</td></tr><tr><td>10(3)(<i>a</i>)</td><td>Trespassing with knife, etc.</td><td>£1,000</td><td>€5,000</td></tr><tr><td>11(<i>a</i>)</td><td>Production of article capable of inflicting serious injury</td><td>£1,000</td><td>€5,000</td></tr><tr><td>12(3)(<i>a</i>)</td><td>Power to prohibit manufacture, etc. of offensive weapons</td><td>£1,000</td><td>€5,000</td></tr><tr><td>12(3)(<i>b</i>)</td><td></td><td>five years</td><td>7 years</td></tr><tr><td colspan="4"><i>Amendment of Firearms (Firearm Certificates for Non-Residents) Act 2000</i></td></tr><tr><td>3(4)(<i>a</i>)</td><td>Prohibition of false information and alteration of firearm certificates</td><td>£1,000</td><td>€2,500</td></tr><tr><td>3(4)(<i>b</i>)</td><td></td><td>£10,000</td><td>€20,000</td></tr></table>
+
+## SCHEDULE 2 — Increase in Certain Penalties under Explosives Act 1875
+
+| Section of Act | Subject Matter | Words deleted | Words substituted |
+|---|---|---|---|
+| (1) | (2) | (3) | (4) |
+| 4 | Making explosives in unauthorised place | to a penalty not exceeding one hundred pounds a day for every day during which he so manufactures | , on summary conviction, to a fine not exceeding €5,000 or, on conviction on indictment, to a fine not exceeding €10,000 |
+| 5 | Keeping explosives | to a penalty not exceeding two shillings for every pound of gunpowder so kept | , on summary conviction, to a fine not exceeding €5,000 or, on conviction on indictment, to a fine not exceeding €10,000 |
+| 9 | Regulation of explosives factories and magazines | to a penalty not exceeding in the case of the first offence fifty pounds, and in the case of a second or any subsequent offence one hundred pounds, and in addition fifty pounds for every day during which such breach continues | , on summary conviction, to a fine not exceeding €5,000 or, on conviction on indictment, to a fine not exceeding €10,000 |
+| 10 | General rules for factories and magazines | to a penalty not exceeding ten pounds, and in addition (in the case of a second offence) ten pounds for every day during which such breach continues | , on summary conviction, to a fine not exceeding €5,000 or, on conviction on indictment, to a fine not exceeding €10,000 |
+| 11 | Special rules for regulation of workmen in factories or magazines | forty shillings | €100 |
+| 13 | Devolution and determination of licence | twenty shillings | €50 |
+| 17 | General rules for stores | to a penalty not exceeding ten pounds, and in addition (in the case of a second offence) ten pounds for every day during which such breach continues | , on summary conviction, to a fine not exceeding €5,000 or, on conviction on indictment, to a fine not exceeding €10,000 |
+| 19 | Special rules for regulation of workmen in stores | forty shillings | €100 |
+| 22 | General rules for registered premises | to a penalty not exceeding two shillings for every pound of gunpowder in respect of which, or being on the premises in which, the offence was committed | , on summary conviction, to a fine not exceeding €5,000 or, on conviction on indictment, to a fine not exceeding €10,000 |
+| 30 | Restriction on sale of explosives in highways, etc. | to a penalty not exceeding forty shillings | , on summary conviction, to a fine not exceeding €2,500 or, on conviction on indictment, to a fine not exceeding €5,000 |
+| 31 | Sale of explosives to children | thirteen years | 18 years |
+|  |  | to a penalty not exceeding five pounds | , on summary conviction, to a fine not exceeding €2,500 or, on conviction on indictment, to a fine not exceeding €5,000 |
+| 32 | Explosives to be sold in closed packages labelled | to a penalty not exceeding forty shillings | , on summary conviction, to a fine not exceeding €2,500 or, on conviction on indictment, to a fine not exceeding €5,000 |
+| 33 | General rules as to packing of explosives for conveyance | to a penalty not exceeding twenty pounds | on summary conviction, to a fine not exceeding €2,500 or, on conviction on indictment, to a fine not exceeding €5,000 |
+| 34 | Bye-laws by harbour authority | pecuniary penalties not exceeding twenty pounds for each offence, and ten pounds for each day during which the offence continues | on summary conviction, a fine not exceeding €5,000 or, on conviction on indictment, a fine not exceeding €10,000 |
+| 35 | Bye-laws by railway and canal company | pecuniary penalties not exceeding twenty pounds of each offence, and ten pounds for each day during which the offence continues | on summary conviction, a fine not exceeding €5,000 or, on conviction on indictment, a fine not exceeding €10,000 |
+| 36 | Bye-laws as to wharves in which explosives loaded or unloaded | pecuniary penalties not exceeding twenty pounds for each offence, and ten pounds for each day during which the offence continues | on summary conviction, a fine not exceeding €5,000 or, on conviction on indictment, a fine not exceeding €10,000 |
+| 37 | Byelaws as to conveyance by road or otherwise | pecuniary penalties not exceeding twenty pounds for each offence, and ten pounds for each day during which the breach continues | on summary conviction, a fine not exceeding €5,000 or, on conviction on indictment, a fine not exceeding €10,000 |
+| 40 | Application of Part I to explosives other than gunpowder | to a penalty not exceeding one hundred pounds, and to a further penalty not exceeding two shillings for every pound of such explosive | on summary conviction, to a fine not exceeding €5,000 or, on conviction on indictment, to a fine not exceeding €10,000 |
+| 43 | Manufacture, etc. of specially dangerous explosives | to a penalty not exceeding ten shillings for every pound of such explosive brought in the ship | on summary conviction, to a fine not exceeding €5,000 or, on conviction on indictment, to a fine not exceeding €10,000 |
+|  |  | to a penalty not exceeding ten shillings for every pound of such explosive delivered or sold or found in his possession | , on summary conviction, to a fine not exceeding €5,000 or, on conviction on indictment, to a fine not exceeding €10,000 |
+| 55 | Powers of Government inspectors | liable to a penalty not exceeding one hundred pounds for each offence | guilty of an offence and liable, on summary conviction, to a fine not exceeding €1,000 |
+| 56 | Notice to remedy dangerous practices, etc. | to a penalty not exceeding twenty pounds for every day during which he so fails to comply | , on summary conviction, to a fine not exceeding €1,000 |
+| 63 | Notice of accidents | to a penalty not exceeding twenty pounds | , on summary conviction, to a fine not exceeding €5,000 or, on conviction on indictment, to a fine not exceeding €10,000 |
+| 66 | Inquiry into accidents | shall for every such offence incur a penalty not exceeding ten pounds and in the case of a failure to comply with a requisition for making any return or producing any document, not exceeding ten pounds during every day that such failure continues | is guilty of an offence and liable on summary conviction, to a fine not exceeding €5,000 or, on conviction on indictment, to a fine not exceeding €10,000 |
+| 69 | Duty and power of local authority | to a penalty not exceeding twenty pounds | , on summary conviction, to a fine not exceeding €1,000 |
+| 73 | Search for explosives | to a penalty not exceeding fifty pounds | , on summary conviction, to a fine not exceeding €1,000 |
+| 74 | Seizure and detention of explosives | to a penalty not exceeding fifty pounds | , on summary conviction, to a fine not exceeding €5,000 or, on conviction on indictment, to a fine not exceeding €10,000 |
+| 77 | Penalty on and removal of trespassers | to a penalty not exceeding five pounds | , on summary conviction, to a fine not exceeding €3,000 or, on conviction on indictment, to a fine not exceeding €5,000 |
+|  |  | to a penalty not exceeding fifty pounds | , on summary conviction, to a fine not exceeding €5,000 or, on conviction on indictment, to a fine not exceeding €10,000 |
+| 79 | Imprisonment for wilful act or neglect endangering life or limb | of the case, to imprisonment, with or without hard labour, for a period not exceeding six months | of the case— |
+|  |  |  | (*a*) on summary conviction, to imprisonment for a term not exceeding 12 months or both the pecuniary penalty and such imprisonment, or |
+|  |  |  | (*b*) on conviction on indictment, to imprisonment for a term not exceeding 5 years or both the pecuniary penalty and such imprisonment |
+| 81 | Forgery and falsification of documents | to imprisonment, with or without hard labour, for a term not exceeding two years | on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months or both or, on conviction on indictment, to a fine not exceeding €10,000 or imprisonment for a term not exceeding five years or both |
+| 82 | Defacing notices | two pounds | €100 |
+
+## SCHEDULE 3
+
+Offences for the purposes of restriction on movement orders
+
+1 *Criminal Justice (Public Order) Act 1994*
+
+section 6 (threatening, abusive or insulting behaviour in public place)
+
+F55[section 6A (threatening, abusive or insulting behaviour in public place aggravated by hatred)]
+
+section 8 (failure to comply with direction of member of Garda Síochána)
+
+section 11 (entering building, etc., with intent to commit an offence)
+
+F56[section 11A (entering building, etc., with intent to commit an offence aggravated by hatred)]
+
+section 13 (trespass on building, etc.)
+
+section 16 (affray)
+
+section 19 (assault or obstruction of peace officer)
+
+2 *Non-Fatal Offences Against the Person Act 1997*
+
+section 2 (assault)
+
+F57[section 2A (assault aggravated by hatred)]
+
+section 3 (assault causing harm)
+
+F61[section 3A (non-fatal strangulation or non-fatal suffocation)]
+
+F58[section 3B (assault causing harm aggravated by hatred)]
+
+section 9 (coercion)
+
+F59[section 9A (coercion aggravated by hatred)]
+
+section 10 (harassment)
+
+F60[section 10B (harassment aggravated by hatred)]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F55, F56, F57, F58, F59, F60: Inserted (31.12.2024) by *Criminal Justice (Hate Offences) Act 2024* (41/2024), s. 15(a)(i), (ii), (b)(i)-(iv)
+>
+> F61: Inserted (1.11.2023) by *Criminal Justice (Miscellaneous Provisions) Act 2023* (24/2023), s. 73(b), S.I. No. 525 of 2023.
+
+## SCHEDULE 4 — Minor and Consequential Amendments of Children Act 2001
+
+| Amendment No. | Section of Act | Amendment |
+|---|---|---|
+| 1. | 4, 5(2), 6 | “, the Minister for Education and Science” deleted. |
+| 2. | 22, 24(2), 25, 26(1) and (2), 28(2)(*a*), 30(3)(*a*), 32, 38(*f*), 39(3)(*i*) | “or anti-social” inserted after “criminal”. |
+| 3. | 28(2)(*c*) | “or engaging in further anti-social behaviour” inserted after “offences”. |
+| 4. | 31(2)(*b*), 39(3)(*h*) | “or further criminal or anti-social behaviour by the child” after “offences”. |
+| 5. | 54 | Section deleted. |
+| 6. | 71(1)(*a*) | “Parts 8 and 12A” substituted for “Part 8”. |
+| 7. | 95 | Definition of “children detention centre” deleted. |
+| 8. | 98(*h*) | “or children detention centre” deleted. |
+| 9. | 103(1) | Paragraph (*c*) deleted. |
+| 10. | 103(1)(*e*) | “or children detention centre” and “or person for the time being in charge of the centre, as appropriate” deleted. |
+| 11. | 142 | “or children detention centre” deleted. |
+| 12. | 143 | “, in the case of a child under 16 years of age,” deleted. |
+| 13. | 145 | “under 16 years of age” deleted. |
+| 14. | 147 | Section deleted. |
+| 15. | 150 | Section deleted. |
+| 16. | 151(1) | “who is between 16 and 18 years of age” deleted. |
+| 17. | 151(2) and 151(3) | “children detention school” substituted for “children detention centre”. |
+| 18. | 152 | Section deleted. |
+| 19. | 153 | Section deleted. |
+| 20. | 154 | “, in any children detention centre designated under section 150 of the Children Act, 2001,” deleted. |
+| 21. | 158 | “appropriate educational, training and other programmes and facilities” substituted for “educational and training programmes and facilities”. |
+| 22. | 167(4)(*c*) | “Minister for Education and Science” substituted for “Minister for Justice, Equality and Law Reform”. |
+| 23. | 179 | “with the consent of the Minister” inserted after “time”. |
+| 24. | 187 | Section deleted. |
+| 25. | 188 | Section deleted. |
+| 26. | 189 | Section deleted. |
+| 27. | 203(3) | “Minister and” inserted before “board of management” and “the board’s” deleted. |
+| 28. | 204(9) | “Minister and” inserted before “board of management” and “board’s” deleted. |
+| 29. | 214 | Subsection (2) deleted. |
+| 30. | 225(2) | “Minister for Justice, Equality and Law Reform” substituted for “Minister for Education and Science”. |
+| 31. | 263 | “(*a*) while in transit to a court from a remand centre or children detention school,” substituted for paragraph (*a*). |
+|  |  | “(*c*) while awaiting removal pursuant to this Act to a remand centre or children detention school.” substituted for paragraph (*c*). |
+| 32. | 265 | “or a place of detention designated under section 150” deleted. |

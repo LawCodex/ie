@@ -1,0 +1,808 @@
+---
+title: "Electoral (Amendment) Act 2009"
+identifier: "eli/2009/act/4"
+type: act
+jurisdiction: ie
+language: en
+number: 4
+year: 2009
+date: 2009-02-24
+last_amended: 2023-01-09
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2009/act/4/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2009/act/4/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Electoral (Amendment) Act 2009
+
+AN ACT TO REVISE DÁIL AND EUROPEAN PARLIAMENT CONSTITUENCIES, TO PROVIDE FOR THE NUMBER OF MEMBERS TO BE ELECTED FOR SUCH CONSTITUENCIES, TO AMEND THE LAW RELATING TO THE CONSTITUENCY COMMISSION, AND FOR THOSE AND OTHER PURPOSES TO AMEND THE EUROPEAN PARLIAMENT ELECTIONS ACT 1997 AND CERTAIN OTHER ENACTMENTS, TO AMEND AND GIVE STATUTORY EFFECT TO THE LOCAL ELECTIONS REGULATIONS 1995 AND TO PROVIDE FOR RELATED MATTERS.
+
+[24*th February*, 2009]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Prospective affecting provision: application of collectively cited *Electoral Acts* and *European Parliament Elections Acts* restricted by *Electoral Reform Act 2022* (30/2022), s. 126(3)(a), (b), not commenced as of date of revision.
+>
+> **Exemptions from public information requirements**
+>
+> **126.** (1) A notice placed or displayed on an online platform by the persons specified in *subsection (2)* for the purpose, and in the course, of performing their statutory functions under the enactments specified in *subsection (3)* shall not be construed as being an “online political advertisement” for the purposes of this Part.
+>
+> (2) The following persons are specified for the purposes of *subsection (1)*:
+>
+> (*a*) the Minister;
+>
+> (*b*) the Commission;
+>
+> (*c*) a returning officer (within the meaning of section 30 of the Act of 1992);
+>
+> (*d*) the presidential returning officer and a local returning officer (within the meaning of sections 9 and 10, respectively, of the Act of 1993);
+>
+> (*e*) the referendum returning officer and a local returning officer (within the meaning of sections 14 and 15, respectively, of the Act of 1994);
+>
+> (*f*) the chief returning officer, a returning officer and a local returning officer (within the meaning of sections 15A, 16 and 17, respectively, of the Act of 1997);
+>
+> (*g*) a returning officer (within the meaning of section 14 of the Seanad Electoral (University Members) Act 1937 );
+>
+> (*h*) the Seanad returning officer (within the meaning of section 4 of the Seanad Electoral (Panel Members) Act 1947 );
+>
+> (*i*) a returning officer (within the meaning of Article 4 of the Local Elections Regulations 1995);
+>
+> (*j*) a local authority.
+>
+> (3) The enactments specified for the purposes of *subsections (1)* and *(2)* are:
+>
+> (*a*) the Electoral Acts 1992 to 2022;
+>
+> (*b*) the European Parliament Elections Act 1992 to 2022;
+>
+> ...
+>
+> C2: Application of collectively cited *Electoral Acts 1923 to 1990*, *Electoral Acts 1992 to 2013*, *European Parliament Elections Acts 1977 to 1993* and *European Parliament Elections Acts 1992 to 2013* restricted (1.07.2014) by *Oireachtas (Ministerial and Parliamentary Offices) (Amendment) Act 2014* (6/2014), s. 2(6)(a), (b), S.I. No. 210 of 2014.
+>
+> **Payment of Parliamentary Activities Allowance to parliamentary leaders of qualifying parties and to independent members**
+>
+> **2.**
+>
+> ...
+>
+> (6) An allowance paid under this section shall not be used for, or to recoup, election or poll expenses incurred for the purposes of any election or poll held under—
+>
+> (a) the Electoral Acts 1923 to 1990 or the Electoral Acts 1992 to 2013,
+>
+> (b) the European Parliament Elections Acts 1977 to 1993 or the European Parliament Elections Acts 1992 to 2013,
+>
+> ...
+
+## PART 1 Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title, collective citations and construction.
+
+**1**.— (1) This Act may be cited as the Electoral (Amendment) Act 2009.
+
+(2) The Electoral Acts 1992 to 2007 and this Act may be cited together as the Electoral Acts 1992 to 2009 and shall be read together as one.
+
+(3) The European Parliament Elections Acts 1992 to 2006 and this Act (in so far as it relates to European Parliament elections) may be cited together as the European Parliament Elections Acts 1992 to 2009 and shall be read together as one.
+
+(4) The Local Elections Acts 1974 to 2006 and this Act (in so far as it relates to local elections) may be cited together as the Local Elections Acts 1974 to 2009 and shall be read together as one.
+
+### 2. Interpretation.
+
+**2**.— (1) In this Act “Local Elections Regulations” means the Local Elections Regulations 1995 (S.I. No. 297 of 1995).
+
+(2) F1[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Repealed (3.02.2016) by *Electoral (Amendment) (Dáil Constituencies) Act 2013* (7/2013), s. 5(1), commenced as per s. 5(2).
+
+## PART 2 Dil Constituencies and Number of Members — PART 2 — Dáil Constituencies and Number of Members
+
+### 3. Number of members of Dáil Éireann.
+
+**3**. — F2[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F2: Repealed (3.02.2016) by *Electoral (Amendment) (Dáil Constituencies) Act 2013* (7/2013), s. 5(1), commenced as per s. 5(2).
+
+### 4. Constituencies.
+
+**4**.— F3[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F3: Repealed (3.02.2016) by *Electoral (Amendment) (Dáil Constituencies) Act 2013* (7/2013), s. 5(1), commenced as per s. 5(2).
+
+### 5. Number of members to be returned for constituency.
+
+**5**.— F4[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F4: Repealed (3.02.2016) by *Electoral (Amendment) (Dáil Constituencies) Act 2013* (7/2013), s. 5(1), commenced as per s. 5(2).
+
+### 6. Repeal.
+
+**6**.— (1) Sections 1, 2, 3, 4, 5 and 7 of, and the Schedule to, the Electoral (Amendment) Act 2005 are repealed.
+
+(2) *Subsection (1)* shall come into operation on the dissolution of Dáil Éireann that next occurs after the passing of this Act.
+
+## PART 3 European Parliament Constituencies and Number of Members — PART 3 — European Parliament Constituencies and Number of Members
+
+### 7. Amendment of section 15 of European Parliament Elections Act 1997.
+
+**7**.— Section 15 of the European Parliament Elections Act 1997 is amended by substituting the following subsection for subsection (3):
+
+“(3) An area specified in the Third Schedule shall be taken to be that area as constituted on 1 March 2008.”.
+
+### 8. Substitution of Third Schedule to European Parliament Elections Act 1997.
+
+**8**.— The European Parliament Elections Act 1997 is amended as respects European elections held after 1 January 2009 by substituting the following Schedule for the Third Schedule to that Act:
+
+Section 15.
+
+“THIRD SCHEDULE
+
+*Constituencies*
+
+| Constituency | Area | Number of Members |
+|---|---|---|
+| Dublin | The counties of: Dún Laoghaire-Rathdown, Fingal and South Dublin; and the city of Dublin. | 3 |
+| East | The counties of: Carlow, Kildare, Kilkenny, Laois, Louth, Meath, Offaly, Wexford and Wicklow. | 3 |
+| North-West | The counties of: Cavan, Clare, Donegal, Galway, Leitrim, Longford, Mayo, Monaghan, Roscommon, Sligo and Westmeath; and the city of Galway. | 3 |
+| South | The counties of: Cork, Kerry, Limerick, North Tipperary, South Tipperary and Waterford; and the cities of Cork, Limerick and Waterford. | 3 |
+
+”.
+
+## PART 4 Constituency Commission — PART 4 — Constituency Commission
+
+### 9. Substitution of Part II of Electoral Act 1997.
+
+**9**.— The Electoral Act 1997 is amended by substituting the following Part for Part II:
+
+“PART II
+
+Constituency Commission
+
+Establishment of Constituency Commission.
+
+5.— (1) Upon the publication by the Central Statistics Office, following a Census of Population, of the Census Report setting out the preliminary result of the Census in respect of the total population of the State there shall be established by the Minister, by order, a commission (in this Act referred to as “a Constituency Commission”) to perform the functions assigned to it by this Part.
+
+(2) A Constituency Commission and its members shall be independent in the performance of their functions under this Act.
+
+(3) Every order made under subsection (1) shall be laid before each House of the Oireachtas as soon as may be after it is made.
+
+Functions of Constituency Commission.
+
+6.— (1) It shall be the function of a Constituency Commission to make a report in relation to the constituencies for—
+
+(*a*) the election of members to the Dáil, and
+
+(*b*) the election of members of the European Parliament.
+
+(2) In preparing a report under subsection (1)(*a*) a Constituency Commission shall, in observing the relevant provisions of the Constitution in relation to Dáil constituencies, have regard to the following:
+
+(*a*) the total number of members of the Dáil, subject to Article 16.2.2° of the Constitution, shall be not less than 164 and not more than 168;
+
+(*b*) each constituency shall return 3, 4 or 5 members;
+
+(*c*) the breaching of county boundaries shall be avoided as far as practicable;
+
+(*d*) each constituency shall be composed of contiguous areas;
+
+(*e*) there shall be regard to geographic considerations including significant physical features and the extent of and the density of population in each constituency; and
+
+(*f*) subject to the provisions of this section, the Commission shall endeavour to maintain continuity in relation to the arrangement of constituencies.
+
+(3) In preparing a report under subsection (1)(*b*) a Constituency Commission shall have regard to the following:
+
+(*a*) the total number of members of the European Parliament to be elected in the State shall be 12 or such other number as may be specified for the time being pursuant to the treaties governing the European Communities;
+
+(*b*) there shall be reasonable equality of representation as between constituencies; and
+
+(*c*) the matters specified in paragraphs (*b*) to (*f*) of subsection (2).
+
+(4) The reference in subsection (2)(*c*) to county boundaries shall be deemed not to include a reference to the boundary of a city or any boundary between any 2 of the counties of Dún Laoghaire-Rathdown, Fingal and South Dublin.
+
+Membership of Constituency Commission.
+
+7.— A Constituency Commission shall consist of the following members:
+
+(*a*) (i) a judge of the Supreme Court, or
+
+(ii) following consultation with the President of the High Court, a judge of the High Court,
+
+nominated by the Chief Justice, who shall be the chairperson of the Commission;
+
+(*b*) the Ombudsman;
+
+(*c*) the Secretary General of the Department of the Environment, Heritage and Local Government;
+
+(*d*) the Clerk of the Dáil; and
+
+(*e*) the Clerk of the Seanad.
+
+Provisions in relation to members.
+
+8.— (1) Where, before the reports of a Constituency Commission have been presented to the Chairman of the Dáil under section 9, the person appointed to be chairperson of the Commission—
+
+(*a*) through ill-health or other reasonable cause becomes unable to act as such chairperson, the Chief Justice shall assign another judge of the Supreme Court or, following consultation with the President of the High Court, another judge of the High Court to be a member and the chairperson of the Commission,
+
+(*b*) ceases to hold office as a judge of the Supreme Court or of the High Court, the person shall continue as such chairperson until the reports of the Commission have been presented unless the Chief Justice assigns another judge of either court to be a member and the chairperson of the Commission.
+
+(2) Where the holder of an office referred to in paragraphs (*b*) to (*e*) of section 7, through ill-health or other reasonable cause, is unable to act as a member of a Constituency Commission or any such office is vacant, the Minister may appoint, in the case of—
+
+(*a*) the Ombudsman, the Director General of the Office of the Ombudsman,
+
+(*b*) the Secretary General of the Department of the Environment, Heritage and Local Government, another officer of the Minister, who is an established civil servant for the purposes of the Civil Service Regulation Acts 1956 to 2005,
+
+(*c*) the Clerk of the Dáil, the Clerk Assistant of the Dáil, and
+
+(*d*) the Clerk of the Seanad, the Clerk Assistant of the Seanad,
+
+to be a member of the Commission and the person so appointed shall remain a member of the Commission until the reports of the Commission are presented to the Chairman of the Dáil under section 9.
+
+(3) Where, before the reports of a Constituency Commission have been presented to the Chairman of the Dáil under section 9, a person who is a member of the Commission ceases to hold an office referred to in paragraphs (*b*) to (*e*) of section 7, the person shall continue as a member of the Commission until the reports of the Commission have been presented unless the Minister by order directs that the person's successor in office or the appropriate person referred to in subsection (2) shall be a member of the Commission.
+
+(4) Subject to subsections (1), (2) and (3), a Constituency Commission may act notwithstanding vacancies in its membership.
+
+Report of Constituency Commission.
+
+9.— (1) As soon as may be after publication by the Central Statistics Office of the Census Report setting out the final result of the Census referred to in section 5(1) in respect of the total population of the State and, in any event, not later than 3 months after such publication, the Constituency Commission shall present to the Chairman of the Dáil—
+
+(*a*) a report containing the recommendations of the Commission in relation to the constituencies for the election of members to the Dáil and any alteration of those constituencies which the Commission considers appropriate, and
+
+(*b*) a report containing the recommendations of the Commission in relation to the constituencies for the election of members of the European Parliament and any alteration of those constituencies which the Commission considers appropriate.
+
+(2) A report of a Constituency Commission under this section may indicate that, in the opinion of the Commission having regard to subsection (2) or (3) of section 6, no alteration is required to be made in the constituencies to which the report relates.
+
+(3) Upon the presentation by a Constituency Commission of the reports to be presented under this section, the Commission shall stand dissolved.
+
+(4) As soon as may be after the receipt of a report of a Constituency Commission, the Chairman of the Dáil shall cause such report to be laid before each House of the Oireachtas.
+
+Constituency Commission to invite and consider submissions.
+
+10.— (1) A Constituency Commission shall, as soon as may be after its establishment, give public notice of its intention to make a report relating to—
+
+(*a*) the constituencies for the election of members to the Dáil, and
+
+(*b*) the constituencies for the election of members of the European Parliament.
+
+(2) As soon as may be after its establishment, a Constituency Commission shall prepare—
+
+(*a*) a statement setting out the relevant provisions of the Constitution in relation to Dáil constituencies to which the Commission is required to have regard in preparing a report under section 6(1)(*a*), and
+
+(*b*) statements based on the population as set out in the Census Report setting out the preliminary result of the Census referred to in section 5(1) in respect of the total population of the State showing, for the constituencies for the time being in force for Dáil and European elections, in relation to each constituency:
+
+(i) the number of members of the Dáil or European Parliament, as the case may be;
+
+(ii) the population of the constituency;
+
+(iii) the population per member of the Dáil or European Parliament, as the case may be, of the constituency; and
+
+(iv) the percentage variation of population per member of the Dáil or European Parliament, as the case may be, of the constituency from the national average population per member.
+
+(3) The public notice referred to in subsection (1) shall indicate that—
+
+(*a*) the statements prepared by the Constituency Commission under this section shall be made available free of charge by the Commission, to any person wishing to examine them, in such manner as shall be specified in the notice,
+
+(*b*) any person may make a submission to the Commission in such manner and within such period (which shall be not less than 3 months after the date of the giving of the notice) as shall be specified in the notice, and
+
+(*c*) submissions received by the Commission in the manner and within the period specified in the notice shall be made available free of charge by the Commission, to any person wishing to examine them, in such manner and within such period as shall be specified in the notice.
+
+(4) The statements prepared by the Constituency Commission, and any submissions received by it, under this section shall be made available free of charge by the Commission, to any person wishing to examine them, in accordance with a public notice referred to in subsection (1).
+
+(5) The Constituency Commission shall consider every submission made to it in accordance with a public notice referred to in subsection (1).
+
+Staff of and assistance to Constituency Commission.
+
+11.— (1) The Minister shall make available to a Constituency Commission such services, including the services of staff, as may reasonably be required by the Commission.
+
+(2) The Director General of the Central Statistics Office and the Chief Executive Officer of Ordnance Survey Ireland shall, on a request being made in that behalf, provide free of charge to a Constituency Commission such assistance as the Commission may reasonably require for the purpose of the performance of its functions.
+
+Expenses of Constituency Commission.
+
+12.— The reasonable expenses of a Constituency Commission, including the travelling and other expenses of the members of the Commission, shall, subject to such conditions as the Minister with the consent of the Minister for Finance may determine, be paid out of moneys provided by the Oireachtas.
+
+Procedure of Constituency Commission.
+
+13.— Subject to the provisions of this Act, a Constituency Commission shall regulate its own procedure.
+
+Prohibition on disclosure of information.
+
+14.— (1) No person shall, without the consent of a Constituency Commission, disclose to any person any information obtained while serving as (or during service as) a member of the Commission or as a person whose services are made available to the Commission under section 11 relative to the business of the Commission or the performance of the functions of the Commission.
+
+(2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding €5,000.
+
+Prohibition of certain co-mmunications.
+
+15.— (1) Subject to the provisions of section 10, it shall not be lawful for any person to communicate with the members of or staff whose services are made available to a Constituency Commission under section 11 for the purposes of influencing the Commission in carrying out its functions.
+
+(2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding €5,000.”.
+
+## PART 5 European Parliament Elections — PART 5 — European Parliament Elections
+
+### 10. Substitution of sections 12 and 13 of European Parliament Elections Act 1997.
+
+**10**.— The European Parliament Elections Act 1997 is amended by substituting the following sections for sections 12 and 13:
+
+“Nomination of candidates and replacement candidates.
+
+12.— (1) At a European election a person may nominate himself or herself as a candidate or may, with his or her consent, be nominated by another person (being a person registered as a European elector in the constituency for which the person proposes to nominate the candidate) as proposer.
+
+(2) In the case of a candidate whose candidature is not authenticated by a certificate of political affiliation under rule 5(3) of the Second Schedule, one or other of the following paragraphs shall, before the expiration of the time appointed by this Act for receiving nominations, be complied with:
+
+(*a*) the candidate’s nomination shall have been assented to by 60 persons (excluding the candidate and any proposer) who are registered as European electors in the constituency (each of whom in this Act is referred to as an ‘assentor’);
+
+(*b*) the candidate, or someone on his or her behalf, shall have made a deposit in accordance with section 13.
+
+(3) The following provisions apply in respect of the assents required by subsection (2)(*a*) to the nomination of a candidate referred to in that subsection:
+
+(*a*) to assent to the nomination, an assentor shall make a statutory declaration in the prescribed form stating the following:
+
+(i) his or her number (including polling district letters) on the register of European electors in force on the date of the making of the statutory declaration;
+
+(ii) his or her place of ordinary residence in respect of which he or she is registered in the register of European electors referred to in subparagraph (i);
+
+(iii) his or her contact details, including telephone numbers (if any);
+
+(iv) the name of the European Parliament constituency, on the date of the making of the statutory declaration, in which he or she is ordinarily resident;
+
+(v) the name and address of the candidate;
+
+(vi) the form of identification produced by him or her in accordance with paragraph (*b*), including any number on it that distinguishes it from similar forms held by others;
+
+(vii) that he or she assents to the nomination of the candidate;
+
+(viii) that he or she has not assented to the nomination of any other candidate in respect of that European election;
+
+(*b*) when making the statutory declaration referred to in paragraph (*a*), the assentor shall produce to the person taking and receiving the declaration a prescribed photographic identification and shall, on so doing, be deemed, for the purposes of the Statutory Declarations Act 1938, to be personally known to the person taking and receiving the declaration;
+
+(*c*) the assent shall have effect as respects, and only as respects, the European Parliament constituency in which the place referred to in paragraph (*a*)(ii) is situate at the time of the European election concerned;
+
+(*d*) subject to paragraph (*e*), the assent shall have effect as respects, and only as respects, the European election in the constituency referred to in paragraph (*c*) held next after the making of the statutory declaration;
+
+(*e*) notwithstanding paragraph (*d*), the assent shall cease to have effect if the register of European electors referred to in paragraph (*a*) ceases to be in force before the holding of the European election referred to in paragraph (*d*);
+
+(*f*) the candidate or proposer shall attach the required number of statutory declarations (that is to say, the 60 statutory declarations constituting the assents) to the nomination paper and the nomination paper delivered to the returning officer in accordance with rule 11 of the Second Schedule shall have the declarations so attached;
+
+(*g*) where more than the required number of statutory declarations is attached to the nomination paper, the declarations (up to the required number) first attached to the nomination paper shall be taken into account to the exclusion of any others;
+
+(*h*) it shall be lawful for a member of the Garda Síochána or an official of the registration authority to take and receive a statutory declaration referred to in paragraph (*a*) and any such declaration shall be stamped by the member or official concerned;
+
+(*i*) a registration authority and a returning officer shall arrange for the provision of forms for the purposes of making a statutory declaration referred to in paragraph (*a*) free of charge to any person who requests such a form.
+
+(4) For the purposes of subsections (2)(*a*) and (3), a person whose application to have his or her name entered in a supplement to the register of European electors is approved by the registration authority at or before the latest time for delivery of a nomination paper to the returning officer shall be deemed to be registered as a European elector in the applicable constituency.
+
+(5) At a European election—
+
+(*a*) a registered political party, and
+
+(*b*) a person who in relation to the election is a non-party candidate,
+
+may, subject to and in accordance with rules 17, 18 and 19 of the Second Schedule, nominate one or more persons, with the consent of the person or persons concerned, to be as regards the election replacement candidates.
+
+(6) Subject to rule 17(*b*) of the Second Schedule, a person who is a candidate at a European election shall be eligible for nomination as a replacement candidate.
+
+(7) At a European election a person may not be nominated as a candidate or as a replacement candidate in respect of more than one constituency.
+
+Deposit by certain candidates.
+
+13.— (1) This section applies to a candidate referred to in section 12(2) unless the candidate concerned has opted to have his or her nomination assented to by the means specified in section 12(2)(*a*) and (3).
+
+(2) A candidate at a European election referred to in section 12(2), or someone on his or her behalf, may, before the expiration of the time appointed by this Act for receiving nominations, deposit with the returning officer the sum of €1,800, and if he or she fails to do so, his or her candidature shall be deemed to have been withdrawn.
+
+(3) The deposit that may be made by or on behalf of a candidate pursuant to this section may be made by means of legal tender or, with the consent of the returning officer, in any other manner.
+
+Return or disposal of deposit.
+
+13A.— (1) The deposit referred to in section 13 shall be returned where the candidate—
+
+(*a*) withdraws his or her candidature in accordance with rule 15 of the Second Schedule,
+
+(*b*) dies before the poll is closed,
+
+(*c*) has not, before the expiration of the time for the receipt of nominations, been validly nominated as a candidate,
+
+(*d*) is elected, or
+
+(*e*) is not elected but the greatest number of votes credited to him or her at any stage of the counting of the votes at the European election exceeds one quarter of the quota.
+
+(2) Any deposit which is not returned under the foregoing subsection shall be forfeited.
+
+(3) Where a deposit is to be returned under subsection (1) it shall be returned to the person by whom it was made, provided that a deposit made by a person who dies before the deposit is returned shall be returned to the personal representative of that person.
+
+(4) A deposit forfeited under this section shall be disposed of by the returning officer in such manner as may be directed by the Minister for Finance.
+
+(5) In this section ‘personal representative’ has the meaning assigned to it by section 3 of the Succession Act 1965.”.
+
+### 11. Substitution of rules 2 to 5 of Second Schedule to European Parliament Elections Act 1997.
+
+**11**.— The Second Schedule to the European Parliament Elections Act 1997 is amended by substituting the following rules for rules 2 to 5:
+
+“Notice of election.
+
+2.— The returning officer shall, not later than the twenty-eighth day (disregarding any excluded day) before the polling day, give public notice in the form directed by the Minister of the European election (in this Schedule referred to as the ‘notice of election’) stating—
+
+(*a*) the times for receiving nominations,
+
+(*b*) the requirement on candidates referred to in section 12(2) to secure 60 assents or make a deposit in accordance with section 13,
+
+(*c*) the times and place at which nomination papers, replacement candidates lists and the forms of statutory declaration referred to in rule 6 may be obtained,
+
+(*d*) the times and place at which the returning officer will attend to receive nominations, and
+
+(*e*) the day and the period fixed for the holding of the poll if the election is contested.
+
+Register of Political Parties.
+
+3.— On the day (disregarding any excluded day) before the latest date for the publication of the notice of election, the Registrar of Political Parties shall send to each returning officer a copy of the Register of Political Parties.
+
+Necessity for nomination.
+
+4.— A person shall not be entitled to have his or her name inserted in a ballot paper as a candidate at a European election unless that person has been nominated in the manner provided by this Act and the person's nomination paper has been ruled as valid by the returning officer.
+
+Nomination of candidates.
+
+5.— (1) Each candidate shall be nominated by a separate nomination paper in the prescribed form. The form of nomination paper may include—
+
+(*a*) a note of the qualifications, disqualifications and incapacities as regards election to and membership of the Parliament,
+
+(*b*) a note of the provisions that apply under this Act to the nomination of a candidate referred to in section 12(2), including—
+
+(i) the fact that a candidate referred to in section 12(2) may either follow the procedure for assenting under section 12(2)(*a*) and (3) or make a deposit under section 13,
+
+(ii) the procedure for assenting under section 12(2)(*a*) and (3), and
+
+(iii) the procedure for making a deposit under section 13,
+
+(*c*) a form of statement indicating whether the candidate is—
+
+(i) a citizen of Ireland or a British citizen, or
+
+(ii) a national of a Member State, other than the State or the United Kingdom,
+
+and
+
+(*d*) a form of declaration, to be signed by the candidate or the candidate's proposer, that he or she has read the note referred to in paragraph (*a*) and believes that—
+
+(i) the information furnished in the nomination paper is correct in all material respects, and
+
+(ii) the candidate is eligible for election, has consented to the nomination, does not stand validly nominated in respect of any other constituency and is not a candidate at the election in any other Member State.
+
+(2) Each nomination paper shall state the names (the surname being stated first) and the address and the occupation (if any) of the candidate.
+
+(3) (*a*) A candidate may include in the nomination paper the name of the registered political party of which he or she is a candidate or the name of such political party together with the name of any political group noted on the Register of Political Parties in relation to that political party, provided that, at the time the nomination paper is delivered to the returning officer, a certificate in the form directed by the Minister (in this Schedule referred to as a ‘certificate of political affiliation’) authenticating the candidature is produced to the returning officer, being a certificate signed by the officer or officers of such party whose name or names appear in the said Register pursuant to section 25(7)(*d*) of the Act of 1992. Where such a certificate is produced, the returning officer, provided he or she is satisfied that it is appropriate to do so in relation to the candidate, shall cause—
+
+(i) a statement of the name of the relevant political party and a copy of the political party’s emblem as registered in the said Register to be specified in relation to the candidate on all the ballot papers, and
+
+(ii) a statement of the name of the relevant political party to be specified in relation to the candidate on notices.
+
+(*b*) Where a candidate includes in the nomination paper a statement of the name of a political group in addition to the name of a political party, the returning officer, provided he or she is satisfied that it is appropriate to do so in relation to the candidate, shall cause a statement of the name of such political group in addition to the name of such party to be specified on all such ballot papers and notices.
+
+(4) Where a candidate is not the candidate of a registered political party, the candidate shall be entitled to enter after his or her name on the nomination paper the expression ‘Non-Party’ and, if the candidate does so, the returning officer shall cause a statement of that expression to be specified in relation to the candidate on all the ballot papers and on notices.
+
+(5) A person to whom paragraph (4) applies may include in the nomination paper the name of any political group formed in accordance with the rules of procedure of the Parliament of which he or she is a member, provided that, at the time the nomination paper is delivered to the returning officer, a certificate (in this Schedule referred to as a ‘certificate of European political affiliation’) is also produced to the returning officer, being a certificate signed by a member of the Secretariat of the relevant political group that the person in question is a member of the political group formed in accordance with the rules of procedure of the Parliament and named in the certificate. Where such a certificate is produced, the returning officer, provided he or she is satisfied that it is appropriate to do so in relation to the candidate, shall cause a statement of the name of such political group, in addition, where appropriate, to the expression ‘Non-Party’, to be specified in relation to the candidate on all the ballot papers and on notices.
+
+(6) Every reference in this rule to the Register of Political Parties shall be construed as a reference to the copy of that Register sent to the returning officer pursuant to rule 3.”.
+
+### 12. Substitution of rule 13 of Second Schedule to European Parliament Elections Act 1997.
+
+**12**.— The Second Schedule to the European Parliament Elections Act 1997 is amended by substituting the following rule for rule 13:
+
+“Ruling on validity of nomination papers.
+
+13.— (1) (*a*) The returning officer shall rule on the validity of each nomination paper within one hour after its delivery to him or her and, subject to paragraph (*d*), may rule that it is invalid if, but only if, he or she considers that the paper is not properly made out or signed.
+
+(*b*) Without prejudice to paragraphs (*a*) and (*d*), the returning officer may also rule that the nomination paper of a candidate referred to in section 12(2)(*a*) is invalid if he or she considers that the provisions of section 12(2)(*a*) and (3) have not been complied with.
+
+(*c*) The returning officer shall not rule that a nomination paper is invalid because an assentor has assented to the nomination of more than one candidate at the same European election.
+
+(*d*) The returning officer shall rule invalid any nomination paper relating to a person referred to in rule 6(1) which is not accompanied by both the statutory declaration and the attestation referred to in that rule or where it appears to the returning officer that the said declaration or attestation does not conform with the said rule 6.
+
+(2) The candidate nominated by each nomination paper and the candidate's proposer, if any, and one other person designated by the candidate or proposer, as the case may be, and no other person, except with the permission of the returning officer, shall be entitled to attend while the said nomination paper is being ruled upon by the returning officer.
+
+(3) The returning officer shall object to the name of a candidate in a nomination paper if such name—
+
+(*a*) is not a name by which the candidate is commonly known,
+
+(*b*) is misleading and likely to cause confusion,
+
+(*c*) is unduly long, or
+
+(*d*) contains a political reference,
+
+and where the returning officer so objects, he or she shall allow the candidate or proposer, as may be appropriate, to amend the name and, if it is not so amended to the returning officer's satisfaction, the returning officer may amend it, as he or she thinks fit, after consultation with the candidate or proposer, if either is present, or may rule that the nomination paper is invalid as not being properly made out.
+
+(4) The returning officer shall object to the description of a candidate in a nomination paper which is, in the opinion of the returning officer, incorrect, insufficient to identify the candidate or unnecessarily long or which contains a political reference other than, where appropriate, a reference to a public or elected office held, or formerly held, by the candidate or an entry made pursuant to paragraph (3), (4) or (5) of rule 5. Where a returning officer so objects, he or she shall allow the candidate or proposer, as may be appropriate, to amend the description and, if it is not so amended to the returning officer's satisfaction, the returning officer may amend or delete it, as he or she thinks fit, after consultation with the candidate or proposer, if either is present, or may rule that the nomination paper is invalid as not being properly made out.
+
+(5) Having ruled on the validity of a nomination paper, the returning officer shall put a note of the decision on the nomination paper and shall sign the note. If the returning officer rules that the paper is invalid, the officer shall include a statement of the reasons for the decision. The decision of the returning officer under this rule shall be final subject only to reversal on a petition questioning the election.
+
+(6) As soon as practicable after ruling on the validity of a nomination paper, the returning officer shall give, by post or otherwise, notice in writing of the ruling to the candidate.
+
+(7) Every person in respect of whom a nomination paper has, under this rule, been determined to be valid and whose candidature is not withdrawn in accordance with rule 15 or is not deemed under section 13(2) or rule 27(1) to have been withdrawn shall stand validly nominated as a candidate.”.
+
+### 13. Amendment of rules 17 and 88 of Second Schedule to European Parliament Elections Act 1997.
+
+**13**.— The Second Schedule to the European Parliament Elections Act 1997 is amended—
+
+(*a*) in rule 17—
+
+(i) in paragraph (*a*)(i) by substituting “six” for “four”, and
+
+(ii) in paragraph (*a*)(ii) by substituting “four” for “three”,
+
+and
+
+(*b*) in rule 88 by substituting the following paragraph for paragraph (3):
+
+“(3) When the last vacancies can be filled under this rule, no further transfer of votes shall be made unless any of the continuing candidates has not been credited with a number of votes exceeding one quarter of the quota and it is necessary for the purposes of section 21 of the Electoral Act 1997 or section 13A(1)(*e*) to make such transfer in order to establish whether such a number of votes could be credited to that candidate.”.
+
+### 14. Amendment of Schedule to Electoral Act 1997.
+
+**14**.— The Schedule to the Electoral Act 1997 is amended by substituting the following subparagraphs for subparagraphs (*d*) and (*dd*) of paragraph 2:
+
+“(*d*) necessary travelling and other expenses incurred by a candidate or an assentor in meeting the requirements of subsections (5)(*a*) and (6) of section 46 of the Act of 1992 and subsections (2)(*a*) and (3) of section 12 of the Act of 1997,
+
+(*dd*) the payment by or on behalf of a candidate of a deposit under section 47 of the Act of 1992 and section 13 of the Act of 1997,”.
+
+## PART 6 Local Elections — PART 6 — Local Elections
+
+### 15. Substitution of articles 11 to 20 of Local Elections Regulations.
+
+**15**.— The Local Elections Regulations are amended by substituting the following articles for articles 11 to 20:
+
+“Notice of election.
+
+11.— The returning officer shall, not later than the twenty-eighth day before the polling day, give public notice of the election (in these Regulations referred to as the ‘notice of election’) stating:
+
+(*a*) the times for receiving nominations;
+
+(*b*) the requirement on candidates referred to in article 14(7) to secure 15 assents or make a deposit in accordance with article 15;
+
+(*c*) the times and place at which nomination papers may be obtained;
+
+(*d*) the times and place at which the returning officer will attend to receive nominations; and
+
+(*e*) the day and the period fixed for the holding of the poll if the election is contested.
+
+Register of political parties.
+
+12.— On the day (disregarding any excluded day) before the latest day for the publication of the notice of election, the Registrar of Political Parties shall send to each returning officer a copy of the Register of Political Parties.
+
+Necessity for nomination.
+
+13.— A person shall not be entitled to have his or her name entered in a ballot paper as a candidate at an election unless that person has been nominated in the manner provided by these Regulations and the person's nomination paper has been ruled as valid by the returning officer.
+
+Nomination of candidates.
+
+14.— (1) At an election a person may nominate himself or herself as a candidate or may, with his or her consent, be nominated by another person (being a person registered as an elector in the area of the local authority for which the person proposes to nominate the candidate) as proposer.
+
+(2) Each candidate shall be nominated by a separate nomination paper in the form directed by the Minister.
+
+(3) A separate nomination paper shall be required for each local electoral area for which a candidate is nominated.
+
+(4) Each nomination paper shall state the names (the surname being stated first) and the address and occupation (if any) of the candidate.
+
+(5) A candidate may include in the nomination paper the name of the political party registered in the Register of Political Parties as a party organised to contest a local election of which he or she is a candidate, provided that, at the time the nomination paper is delivered to the returning officer, a certificate in the form specified in Part II of the Schedule (in these Regulations referred to as a ‘certificate of political affiliation’) authenticating the candidature is produced to the returning officer, being a certificate signed by the officer or officers of such party whose name or names appear in the said Register pursuant to section 25(7)(*d*) of the Act of 1992. Where such a certificate is produced, the returning officer, provided he or she is satisfied that it is appropriate to do so in relation to the candidate, shall cause—
+
+(*a*) a statement of the name of the relevant political party and a copy of the political party’s emblem as registered in the said Register to be specified in relation to the candidate on all the ballot papers, and
+
+(*b*) a statement of the name of the relevant political party to be specified in relation to the candidate on notices.
+
+(6) Where a candidate is not the candidate of a political party registered in the Register of Political Parties as a party organised to contest a local election the candidate shall be entitled to enter after his or her name on the nomination paper the expression ‘Non-Party’ and, if the candidate does so, the returning officer shall cause a statement of that expression to be specified in relation to the candidate on all the ballot papers and on notices.
+
+(7) In the case of a candidate whose candidature is not authenticated by a certificate of political affiliation under sub-article (5), one or other of the following paragraphs shall, before the expiration of the time appointed by these Regulations for receiving nominations, be complied with:
+
+(*a*) the candidate’s nomination shall have been assented to by 15 persons (excluding the candidate and any proposer) who are electors in the local electoral area (each of whom in this Part is referred to as an ‘assentor’);
+
+(*b*) the candidate, or someone on his or her behalf, shall have made a deposit in accordance with article 15.
+
+(8) The following provisions apply in respect of the assents required by sub-article (7)(*a*) to the nomination of a candidate referred to in that sub-article:
+
+(*a*) to assent to the nomination, an assentor shall make a statutory declaration in the form directed by the Minister stating the following:
+
+(i) his or her number (including polling district letters) on the register of local government electors in force on the date of the making of the statutory declaration;
+
+(ii) his or her place of ordinary residence in respect of which he or she is registered in the register of local government electors referred to in sub-paragraph (i);
+
+(iii) his or her contact details, including telephone numbers (if any);
+
+(iv) the name of the local electoral area, on the date of the making of the statutory declaration, in which he or she is ordinarily resident;
+
+(v) the name and address of the candidate;
+
+(vi) the form of identification produced by him or her in accordance with paragraph (*b*), including any number on it that distinguishes it from similar forms held by others;
+
+(vii) that he or she assents to the nomination of the candidate;
+
+(viii) that he or she has not assented to the nomination of any other candidate in respect of that election;
+
+(*b*) when making the statutory declaration referred to in paragraph (*a*), the assentor shall produce to the person taking and receiving the declaration a specified photographic identification in accordance with sub-article (9)(*b*) and shall, on so doing, be deemed, for the purposes of the Statutory Declarations Act 1938, to be personally known to the person taking and receiving the declaration;
+
+(*c*) the assent shall have effect as respects, and only as respects, the local electoral area in which the place referred to in paragraph (*a*)(ii) is situate at the time of the election concerned;
+
+(*d*) subject to paragraph (*e*), the assent shall have effect as respects, and only as respects, the election in the local electoral area referred to in paragraph (*c*) held next after the making of the statutory declaration;
+
+(*e*) notwithstanding paragraph (*d*), the assent shall cease to have effect if the register of local government electors referred to in paragraph (*a*) ceases to be in force before the holding of the election referred to in paragraph (*d*);
+
+(*f*) the candidate or proposer shall attach the required number of statutory declarations (that is to say, the 15 statutory declarations constituting the assents) to the nomination paper and the nomination paper delivered to the returning officer in accordance with article 18 shall have the declarations so attached;
+
+(*g*) where more than the required number of statutory declarations is attached to the nomination paper, the declarations (up to the required number) first attached to the nomination paper shall be taken into account to the exclusion of any others;
+
+(*h*) it shall be lawful for a member of the Garda Síochána or an official of the registration authority to take and receive a statutory declaration referred to in paragraph (*a*) and any such declaration shall be stamped by the member or official concerned;
+
+(*i*) a registration authority and a returning officer shall arrange for the provision of forms for the purposes of making a statutory declaration referred to in paragraph (*a*) free of charge to any person who requests such a form.
+
+(9) For the purposes of sub-articles (7)(*a*) and (8)—
+
+(*a*) a person whose application to have his or her name entered in the supplement to the register of local government electors is approved by the registration authority at or before the latest time for delivery of a nomination paper to the returning officer shall be deemed to be an elector in the applicable local electoral area, and
+
+(*b*) any type of photographic identification that for the time being is prescribed under section 3 of the Act of 1992 for the purposes of section 46(6)(*b*) of that Act is considered to be ‘specified photographic identification’ as referred to in sub-article (8)(*b*).
+
+(10) The returning officer shall provide nomination papers during the usual office hours of the local authority, at such place or places as are named in the notice of election, on each day on which the offices of the local authority are open for public business, during the period beginning on the publication of that notice and ending at 12 noon on the latest day for receiving nominations and the returning officer shall supply a nomination paper or papers free of charge to any person applying therefor, but the use of a paper supplied by the returning officer pursuant to this article shall not be obligatory at an election, provided that the nomination paper used at the election is in the form directed by the Minister in accordance with article 14(2).
+
+(11) Every reference in this article to the Register of Political Parties shall be construed as a reference to the copy of that Register sent to the returning officer pursuant to article 12.
+
+Deposit by certain candidates.
+
+15.— (1) This article applies to a candidate referred to in article 14(7) unless the candidate concerned has opted to have his or her nomination assented to by the means specified in article 14(7)(*a*) and 14(8).
+
+(2) A candidate at an election referred to in article 14(7), or someone on his or her behalf, may, before the expiration of the time appointed by these Regulations for receiving nominations, deposit with the returning officer in respect of each local electoral area for which the candidate is nominated the appropriate sum specified in sub-article (3), and if the said sum is not deposited in respect of any such local electoral area, the candidature of the candidate for that local electoral area shall be deemed to have been withdrawn.
+
+(3) The amount of the deposit shall be €100 in the case of an election of members of a county or city council and €50 in the case of any other election.
+
+(4) The deposit that may be made by or on behalf of a candidate pursuant to this article may be made by means of legal tender or, with the consent of the returning officer, in any other manner.
+
+Return or disposal of deposit.
+
+16.— (1) The deposit made by or on behalf of a candidate in respect of a local electoral area shall be returned where the candidate—
+
+(*a*) withdraws his or her candidature in accordance with article 22 in respect of the local electoral area,
+
+(*b*) is deemed, under article 25(2) or article 28(1), to have withdrawn his or her candidature in respect of the local electoral area,
+
+(*c*) dies before the poll is closed,
+
+(*d*) has not, before the expiration of the time for the receipt of nominations, been validly nominated as a candidate for the local electoral area,
+
+(*e*) is elected, or
+
+(*f*) is not elected but the greatest number of votes credited to him or her at any stage of the counting of the votes in respect of the local electoral area exceeds one quarter of the quota.
+
+(2) Any deposit which is not returned under sub-article (1) shall be forfeited.
+
+(3) Where a deposit is to be returned under sub-article (1) it shall be returned to the person by whom it was made, provided that a deposit made by a person who dies before the deposit is returned shall be returned to his or her personal representative.
+
+(4) A deposit forfeited under this article shall be applied by the returning officer towards his or her expenses in conducting the election and shall be accounted for by the returning officer accordingly.
+
+(5) In this article ‘personal representative’ has the meaning assigned to it by section 3 of the Succession Act 1965.
+
+Times for receiving nominations.
+
+17.— The earliest time for receiving nominations shall be 10 a.m. on the day (disregarding any excluded day) next following the latest day for the publication of the notice of election and the latest time for receiving nominations shall be 12 noon on the seventh day (disregarding any excluded day) next following the latest day for the publication of that notice.
+
+Delivery of nomination papers.
+
+18.— (1) Every nomination paper shall be delivered to the returning officer within the times specified in article 17, by the candidate or the proposer of the candidate.
+
+(2) The delivery of the nomination paper shall be made by the candidate in person except that, where the candidate is proposed by another person, it may be made either as aforesaid or by the proposer in person.
+
+(3) The returning officer shall attend to receive nominations at the place specified in that behalf in the notice of election between the hours of 10 a.m. and 12 noon and between the hours of 2 p.m. and 5 p.m. on the day (disregarding any excluded day) before the latest day for receiving nominations and between the hours of 10 a.m. and 12 noon on such latest day.
+
+Selection of nomination papers.
+
+19.— The returning officer shall number the nomination papers in the order in which they are received and the first valid nomination paper received by the returning officer nominating a candidate for election for a local electoral area shall be deemed to be the nomination of that candidate for that local electoral area.
+
+Ruling on validity of nomination papers.
+
+20.— (1) (*a*) The returning officer shall rule on the validity of each nomination paper within one hour after its delivery and may rule that it is invalid if, but only if, the returning officer considers that the paper is not properly made out or signed.
+
+(*b*) Without prejudice to paragraph (*a*), the returning officer may also rule that the nomination paper of a candidate referred to in article 14(7)(*a*) is invalid if he or she considers that the provisions of sub-articles (7)(*a*) and (8) of article 14 have not been complied with.
+
+(*c*) The returning officer shall not rule that a nomination paper is invalid because an assentor has assented to the nomination of more than one candidate at the same election.
+
+(2) The candidate nominated by each nomination paper and the candidate’s proposer, if any, and one other person designated by the candidate or proposer, as the case may be, and no other person, except with the permission of the returning officer, shall be entitled to attend while the said nomination paper is being ruled upon by the returning officer.
+
+(3) The returning officer shall object to the name of a candidate in a nomination paper if such name—
+
+(*a*) is not a name by which the candidate is commonly known,
+
+(*b*) is misleading and likely to cause confusion,
+
+(*c*) is unduly long, or
+
+(*d*) contains a political reference,
+
+and where the returning officer so objects, he or she shall allow the candidate or proposer, as may be appropriate, to amend the name and, if it is not so amended to the returning officer's satisfaction, the returning officer may amend it, as he or she thinks fit, after consultation with the candidate or proposer, if either is present, or may rule that the nomination paper is invalid as not being properly made out.
+
+(4) The returning officer shall object to the description of a candidate in a nomination paper which is, in the opinion of the returning officer, incorrect, insufficient to identify the candidate or unnecessarily long or which contains a political reference other than, where appropriate, a reference to a public or elected office held, or formerly held, by the candidate or an entry made pursuant to sub-article (5) or (6) of article 14. Where the returning officer so objects, he or she shall allow the candidate or proposer, as may be appropriate, to amend the description and, if it is not so amended to the returning officer's satisfaction, the returning officer may amend or delete it, as he or she thinks fit, after consultation with the candidate or proposer, if either is present, or may rule that the nomination paper is invalid as not being properly made out.
+
+(5) Having ruled on the validity of a nomination paper, the returning officer shall note the decision on the nomination paper and shall sign the note. If the returning officer rules that the paper is invalid, the officer shall include a statement of the reasons for the decision. The decision of the returning officer under this article shall be final subject only to reversal on a petition questioning the election.
+
+(6) As soon as practicable after ruling on the validity of a nomination paper, the returning officer shall give, by post or otherwise, notice in writing of the ruling to the candidate.
+
+(7) Every person in respect of whom a nomination paper has, under this article, been determined to be valid and whose candidature is not withdrawn in accordance with article 22 or is not deemed under article 15(2), 25(2) or 28(1) to have been withdrawn shall stand validly nominated as a candidate.”.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C3: References to “city council” construed (1.06.2014) by *Local Government Reform Act 2014* (1/2014), s. 9(2), S.I. No. 214 of 2014.
+>
+> **Cesser and amalgamation of certain local government areas**
+>
+> **9.**— ...
+>
+> (2) Except where otherwise provided for by this Act, a reference, however expressed, in any enactment—
+>
+> (a) to a county council or a city council (including a reference construed by section 3(2) of, and Schedule 2 to, the Principal Act as a reference to a county council or to a city council, as the case may be) shall, if the context permits, be read as a reference to a county council, a city council or a city and county council, and
+>
+> (b) to a county council and a city council (including a reference so construed) shall, if the context permits, be read as a reference to a county council, a city council and a city and county council.
+>
+> ...
+
+### 16. Amendment of article 83 of Local Elections Regulations.
+
+**16**.— The Local Elections Regulations are amended by substituting the following sub-article for sub-article (8) of article 83:
+
+“(8) The returning officer shall not transfer the surplus of a candidate deemed to be elected whenever that surplus, together with any other surplus not transferred, is less than both the difference between the quota and the number of votes credited to the highest continuing candidate and the difference between the numbers of the votes credited to the two lowest continuing candidates and, in cases where the lowest candidate, or someone on his or her behalf, made a deposit in accordance with article 15 at the election concerned, either—
+
+(*a*) the number of votes credited to the lowest candidate is greater than one quarter of the quota, or
+
+(*b*) the sum of the number of votes credited to the lowest candidate together with that surplus and any other surplus not transferred is not greater than one quarter of the quota.”.
+
+### 17. Amendment of article 84 of Local Elections Regulations.
+
+**17**.— The Local Elections Regulations are amended by substituting the following sub-article for sub-article (2) of article 84:
+
+“(2) Where the total of the votes of the two or more lowest candidates, together with any surplus not transferred, is less than the number of votes credited to the next highest candidate, the returning officer shall in one operation exclude such two or more lowest candidates provided that—
+
+(*a*) in cases where the second lowest candidate, or someone on his or her behalf, made a deposit in accordance with article 15 at the election concerned, the number of votes credited to that candidate is greater than one quarter of the quota, or
+
+(*b*) in cases where any one of such two or more lowest candidates, or someone on his or her behalf, made a deposit in accordance with article 15 at the election concerned and the number of votes credited to any such candidate does not exceed one quarter of the quota, it is clear that the exclusion of the candidates separately in accordance with sub-article (1) and the transfer of any untransferred surplus could not result in a number of votes exceeding one quarter of the quota being credited to that candidate.”.
+
+### 18. Amendment of article 86 of Local Elections Regulations.
+
+**18**.— The Local Elections Regulations are amended by inserting the following sub-article after sub-article (2) of article 86:
+
+“(3) When the last vacancies can be filled under this article, no further transfer of votes shall be made unless any of the continuing candidates has not been credited with a number of votes exceeding one quarter of the quota and it is necessary for the purposes of article 16(1)(*f*) to make such transfer in order to establish whether such a number of votes could be credited to that candidate.”.
+
+### 19. Amendment of Local Elections (Disclosure of Donations and Expenditure) Act 1999.
+
+**19**.— The Local Elections (Disclosure of Donations and Expenditure) Act 1999 is amended in section 6(1)(*b*) by substituting the following subparagraph for subparagraph (i):
+
+“(i) (I) necessary travelling and other expenses incurred by a candidate or an assentor in meeting the requirements of article 14(7)(*a*) and (8) of the Local Elections Regulations 1995 (S.I. No. 297 of 1995), or
+
+(II) the payment by or on behalf of a candidate of a deposit under article 15 of the Local Elections Regulations 1995 (S.I. No. 297 of 1995);”.
+
+### 20. Confirmation of Local Elections Regulations.
+
+**20**.— (1) The Local Elections Regulations shall have statutory effect as if they were an Act of the Oireachtas.
+
+(2) If *subsection (1)* would, but for this subsection, conflict with a constitutional right of any person, the operation of *subsection (1)* shall be subject to such limitation as is necessary to secure that it does not so conflict but shall otherwise be of full force and effect.
+
+## SCHEDULE
+
+F5[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F5: Repealed (3.02.2016) by *Electoral (Amendment) (Dáil Constituencies) Act 2013* (7/2013), s. 5(1), commenced as per s. 5(2).

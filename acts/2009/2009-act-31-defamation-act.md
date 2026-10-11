@@ -1,0 +1,1824 @@
+---
+title: "Defamation Act 2009"
+identifier: "eli/2009/act/31"
+type: act
+jurisdiction: ie
+language: en
+number: 31
+year: 2009
+date: 2009-07-23
+last_amended: 2026-03-01
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2009/act/31/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2009/act/31/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Defamation Act 2009
+
+AN ACT TO REVISE IN PART THE LAW OF DEFAMATION; TO REPEAL THE DEFAMATION ACT 1961; AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH.
+
+[23*rd July*, 2009]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## PART 1 Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title and commencement.
+
+**1**.— (1) This Act may be cited as the Defamation Act 2009.
+
+(2) This Act shall come into operation on such day or days as the Minister may appoint, by order or orders, either generally or with reference to any particular purpose or provision, and different days may be so appointed for different purposes and different provisions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to subs. (2) exercised (1.01.2010) by *Defamation Act 2009 (Commencement) Order 2009* (S.I. No. 517 of 2009).
+>
+> 2\. The 1st day of January 2010 is appointed as the day on which the Defamation Act 2009 (No. 31 of 2009) comes into operation.
+
+### 2. Definitions.
+
+**2**.— In this Act—
+
+“Act of 1957” means the Statute of Limitations 1957;
+
+“Act of 1961” means the Defamation Act 1961;
+
+F1["Act of 2015" means the Legal Services Regulation Act 2015;]
+
+“cause of action” means a cause of action for defamation;
+
+“correction order” has the meaning assigned to it by *section 30*;
+
+“declaratory order” has the meaning assigned to it by *section 28*;
+
+“defamation” shall be construed in accordance with *section 6 (2)*;
+
+“defamation action” means—
+
+(*a*) an action for damages for defamation, or
+
+(*b*) an application for a declaratory order,
+
+whether or not a claim for other relief under this Act is made;
+
+“defamatory statement” means a statement that tends to injure a person’s reputation in the eyes of reasonable members of society, and “defamatory” shall be construed accordingly;
+
+“defence of absolute privilege” has the meaning assigned to it by *section 17*;
+
+“defence of qualified privilege” has the meaning assigned to it by *section 18*;
+
+“defence of truth” has the meaning assigned to it by *section 16*;
+
+“electronic communication” includes a communication of information in the form of data, text, images or sound (or any combination of these) by means of guided or unguided electromagnetic energy, or both;
+
+“Minister” means the Minister for Justice, Equality and Law Reform;
+
+F2[“periodical” means—
+
+(*a*) any newspaper, magazine, journal or other publication that is printed, published or issued, or that circulates, in the State at regular or substantially regular intervals and includes any version thereof published on the internet or by other electronic means, or
+
+(*b*) any newspaper, magazine, journal or other publication that is published or issued, or that circulates, only on the internet or by other electronic means at regular or substantially regular intervals—
+
+(i) by a publisher who is established in the State, or
+
+(ii) the publication of which is specifically targeted at the general public, or a section of the general public, in the State;]
+
+“plaintiff” includes a defendant counterclaiming in respect of a statement that is alleged to be defamatory;
+
+“Press Council” has the meaning assigned to it by *section 44*;
+
+“Press Ombudsman” has the meaning assigned to it by *paragraph 8* of *Schedule 2*;
+
+“qualified offer” has the meaning assigned to it by *section 22*;
+
+“special damages” has the meaning assigned to it by *section 31 (7)*;
+
+“statement” includes—
+
+(*a*) a statement made orally or in writing,
+
+(*b*) visual images, sounds, gestures and any other method of signifying meaning,
+
+(*c*) a statement—
+
+(i) broadcast on the radio or television, or
+
+(ii) published on the internet, and
+
+(*d*) an electronic communication;
+
+F3[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1: Inserted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 2(a), S.I. No. 61 of 2026.
+>
+> F2: Substituted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 2(b), S.I. No. 61 of 2026.
+>
+> F3: Deleted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 2(c), S.I. No. 61 of 2026.
+
+### 3. Saver.
+
+**3**.— (1) A provision of this Act shall not affect causes of action accruing before its commencement.
+
+(2) This Act shall not affect the operation of the general law in relation to defamation except to the extent that it provides otherwise (either expressly or by necessary implication).
+
+### 4. Repeal.
+
+**4**.— The Act of 1961 is repealed.
+
+### 5. Review of operation of Act.
+
+**5**.— (1) The Minister shall, not later than 5 years after the passing of this Act, commence a review of its operation.
+
+(2) A review under *subsection (1)* shall be completed not later than one year after its commencement.
+
+## PART 2 Defamation — PART 2 — Defamation
+
+### 6. Defamation.
+
+**6**.— (1) The tort of libel and the tort of slander—
+
+(*a*) shall cease to be so described, and
+
+(*b*) shall, instead, be collectively described, and are referred to in this Act, as the “ tort of defamation ”.
+
+(2) The tort of defamation consists of the publication, by any means, of a defamatory statement concerning a person to one or more than one person (other than the first-mentioned person), and “ defamation ” shall be construed accordingly.
+
+(3) A defamatory statement concerns a person if it could reasonably be understood as referring to him or her.
+
+(4) There shall be no publication for the purposes of the tort of defamation if the defamatory statement concerned is published to the person to whom it relates and to a person other than the person to whom it relates in circumstances where—
+
+(*a*) it was not intended that the statement would be published to the second-mentioned person, and
+
+(*b*) it was not reasonably foreseeable that publication of the statement to the first-mentioned person would result in its being published to the second-mentioned person.
+
+(5) The tort of defamation is actionable without proof of special damage.
+
+### 7. Amendment of certain enactments.
+
+**7**.— (1) Section 77 of the Courts of Justice Act 1924 is amended, in paragraph (i) (inserted by section 4(*a*) of the Courts Act 1991), by the substitution of “the tort of defamation” for the words “slander, libel”.
+
+(2) The Civil Liability Act 1961 is amended—
+
+(*a*) in section 11, by—
+
+(i) the substitution, in subsection (5), of “defamatory statement” for the words “libel or slander”, and
+
+(ii) the insertion of the following subsection:
+
+“(7) In this section ‘ defamatory statement ’ has the same meaning as it has in the *Defamation Act 2009*.”,
+
+and
+
+(*b*) in section 14(6), by the substitution of “a defamation action under the *Defamation Act 2009* ” for the words “an action for libel or slander”.
+
+### 8. Verifying affidavit.
+
+**8**.— (1) Where the plaintiff in a defamation action serves on the defendant any pleading containing assertions or allegations of fact, the plaintiff (or in the case of a defamation action brought on behalf of an infant or person of unsound mind by a next friend or a committee of the infant or person, the next friend or committee) shall swear an affidavit verifying those assertions or allegations.
+
+(2) Where the defendant in a defamation action serves on the plaintiff any pleading containing assertions or allegations of fact, the defendant shall swear an affidavit verifying those assertions or allegations.
+
+(3) Where a defamation action is brought on behalf of an infant or a person of unsound mind by a next friend or a committee of the infant or person, an affidavit to which *subsection (1)* applies sworn by the next friend or committee concerned shall, in respect of assertions or allegations, of which he or she does not have personal knowledge, state that he or she honestly believes the assertions or allegations, to be true.
+
+(4) Where the plaintiff or defendant in a defamation action is a body corporate, the person swearing the affidavit on behalf of the body corporate under *subsection (1)* or *(2)*, as the case may be, shall, in respect of assertions or allegations, of which he or she does not have personal knowledge, state that he or she honestly believes the assertions or allegations to be true.
+
+(5) An affidavit under this section shall be sworn and filed in court not later than 2 months after the service of the pleading concerned or such longer period as the court may direct or the parties may agree.
+
+(6) If a person makes a statement in an affidavit under this section—
+
+(*a*) that is false or misleading in any material respect, and
+
+(*b*) that he or she knows to be false or misleading,
+
+he or she shall be guilty of an offence.
+
+(7) A person guilty of an offence under this section shall be liable—
+
+(*a*) on summary conviction, to a fine not exceeding €3,000, or imprisonment for a term not exceeding 6 months or to both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €50,000, or imprisonment for a term not exceeding 5 years, or to both.
+
+(8) An affidavit sworn under this section shall include a statement by the deponent that he or she is aware that the making of a statement by him or her in the affidavit that is false or misleading in any material respect and that he or she knows to be false or misleading is an offence.
+
+(9) In a defamation action—
+
+(*a*) the defendant shall, unless the court otherwise directs, be entitled to cross examine the plaintiff in relation to any statement made by the plaintiff in the affidavit sworn by him or her under this section, and
+
+(*b*) the plaintiff shall, unless the court otherwise directs, be entitled to cross examine the defendant in relation to any statement made by the defendant in the affidavit sworn by him or her under this section.
+
+(10) Where a plaintiff or a defendant fails to comply with this section, the court may make such order as it considers just and equitable, including—
+
+(*a*) in the case of such a failure on the part of the plaintiff, an order dismissing the defamation action, and
+
+(*b*) in the case of such a failure by the defendant, judgment in favour of the plaintiff,
+
+and may give such directions in relation to an order so made as the court considers necessary or expedient.
+
+(11) The reference to court in *subsection (5)* shall—
+
+(*a*) in the case of a defamation action brought in the High Court, include a reference to the Master of the High Court, and
+
+(*b*) in the case of a defamation action brought in the Circuit Court, include a reference to the county registrar for the county in which the proceedings concerned were issued.
+
+(12) (*a*) References in this section to plaintiff shall, in the case of a plaintiff who is deceased, be construed as references to his or her personal representative.
+
+(*b*) References in this section to defendant shall, in the case of a defendant who is deceased, be construed as references to his or her personal representative.
+
+(13) This section does not apply to an application for a declaratory order.
+
+### 9. Imputation.
+
+**9**.— A person has one cause of action only in respect of the publication of a defamatory statement concerning the person even if more than one defamatory imputation in respect of that person is borne by that statement.
+
+### 10. Defamation of class of persons.
+
+**10**.— Where a person publishes a defamatory statement concerning a class of persons, a member of that class shall have a cause of action under this Act against that person if—
+
+(*a*) by reason of the number of persons who are members of that class, or
+
+(*b*) by virtue of the circumstances in which the statement is published,
+
+the statement could reasonably be understood to refer, in particular, to the member concerned.
+
+### 11. Multiple publication.
+
+**11**.— (1) Subject to *subsection (2)*, a person has one cause of action only in respect of a multiple publication.
+
+(2) A court may grant leave to a person to bring more than one defamation action in respect of a multiple publication where it considers that the interests of justice so require.
+
+(3) In this section “ multiple publication ” means publication by a person of the same defamatory statement to 2 or more persons (other than the person in respect of whom the statement is made) whether contemporaneously or not.
+
+### 12. F4[Defamation of body corporate
+
+**12.** (1) The provisions of this Act apply to a body corporate as they apply to a natural person, and a body corporate may bring a defamation action under this Act in respect of a statement concerning it that it claims is defamatory.
+
+(2) A statement concerning a body corporate that is made on or after the date of the coming into operation of section 6 of the Defamation (Amendment) Act 2026 is not defamatory unless its publication has caused, or is likely to cause, serious harm to the reputation of the body corporate.
+
+(3) Harm to the reputation of a body corporate that trades for profit shall not be considered to be serious harm for the purposes of *subsection (2)* unless it has caused, or is likely to cause, the body corporate serious financial loss.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F4: Substituted (1.03.2026) by*Defamation (Amendment) Act 2026* (2/2026), s. 6, S.I. No. 61 of 2026.
+
+### 13. Appeals in defamation actions.
+
+**13**.— (1) Upon the hearing of an appeal from a decision of the High Court in a defamation action, the Supreme Court may, in addition to any other order that it deems appropriate to make, substitute for any amount of damages awarded to the plaintiff by the High Court such amount as it considers appropriate.
+
+(2) F5[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F5: Deleted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 5(1)(a), S.I. No. 61 of 2026, subject to transitional provision in subs. (2).
+
+### 14. Meaning.
+
+**14**.— (1) The court, in a defamation action, may give a ruling—
+
+(*a*) as to whether the statement in respect of which the action was brought is reasonably capable of bearing the imputation pleaded by the plaintiff, and
+
+(*b*) (where the court rules that that statement is reasonably capable of bearing that imputation) as to whether that imputation is reasonably capable of bearing a defamatory meaning,
+
+upon an application being made to it in that behalf.
+
+(2) Where a court rules under *subsection (1)* that—
+
+(*a*) the statement in respect of which the action was brought is not reasonably capable of bearing the imputation pleaded by the plaintiff, or
+
+(*b*) that any imputation so pleaded is not reasonably capable of bearing a defamatory meaning,
+
+it shall dismiss the action in so far only as it relates to the imputation concerned.
+
+(3) An application under this section shall be brought by notice of motion F6[...].
+
+(4) An application under this section may be brought at any time after the bringing of the defamation action concerned including during the course of the trial of the action.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F6: Deleted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 5(1)(b), S.I. No. 61 of 2026, subject to transitional provision in subs. (2).
+
+## PART 3 Defences — PART 3 — Defences
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C1: Application of Part restricted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 4(1), (2), S.I. No. 61 of 2026.
+>
+> 4\. (1) Subject to *subsection (2)* and notwithstanding section 94 of The Courts of Justice Act 1924, or any other provision made by or under statute or any rule of law, a defamation action in the High Court, or a question of fact or an issue arising in such an action, shall not be tried with a jury.
+>
+> (2) *Subsection (1)* shall apply only to defamation actions that are brought on or after the date of the coming into operation of this section.
+>
+> C2: Application of section 27A restricted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 13(2), S.I. No. 61 of 2026.
+>
+> (2) The amendment effected by *subsection (1)* shall apply only to causes of action accruing on or after the date of the coming into operation of this section.
+
+### 15. Abolition of certain defences.
+
+**15**.— (1) Subject to *sections 17(1)* and *18(1)*, any defence that, immediately before the commencement of this Part, could have been pleaded as a defence in an action for libel or slander is abolished.
+
+(2) In this section—
+
+“defence” shall not include a defence under—
+
+(*a*) statute,
+
+(*b*) an act of the institutions of the European Communities, or
+
+(*c*) regulations made for the purpose of giving effect to an act of the institutions of the European Communities;
+
+“European Communities” has the same meaning as it has in the European Communities Act 1972;
+
+“statute” means—
+
+(*a*) an Act of the Oireachtas, or
+
+(*b*) a statute that was in force in Saorstát Éireann immediately before the date of the coming into operation of the Constitution and that continues to be of full force and effect by virtue of Article 50 of the Constitution.
+
+### 16. Truth.
+
+**16**.— (1) It shall be a defence (to be known and in this Act referred to as the “defence of truth”) to a defamation action for the defendant to prove that the statement in respect of which the action was brought is true in all material respects.
+
+(2) In a defamation action in respect of a statement containing 2 or more distinct allegations against the plaintiff, the defence of truth shall not fail by reason only of the truth of every allegation not being proved, if the words not proved to be true do not materially injure the plaintiff’s reputation having regard to the truth of the remaining allegations.
+
+### 17. Absolute privilege.
+
+**17**.— (1) It shall be a defence to a defamation action for the defendant to prove that the statement in respect of which the action was brought would, if it had been made immediately before the commencement of this section, have been considered under the law in force immediately before such commencement as having been made on an occasion of absolute privilege.
+
+(2) Subject to F7[section 18 (3) or 78 (2) of the Houses of the Oireachtas (Inquiries, Privileges and Procedures) Act 2013], and without prejudice to the generality of *subsection (1)*, it shall be a defence to a defamation action for the defendant to prove that the statement in respect of which the action was brought was—
+
+(*a*) made in either House of the Oireachtas by a member of either House of the Oireachtas,
+
+(*b*) contained in a report of a statement, to which *paragraph (a)* applies, produced by or on the authority of either such House,
+
+(*c*) made in the European Parliament by a member of that Parliament,
+
+(*d*) contained in a report of a statement, to which *paragraph (c)* applies, produced by or on the authority of the European Parliament,
+
+(*e*) contained in a judgment of a court established by law in the State,
+
+(*f*) made by a judge, or other person, performing a judicial function,
+
+(*g*) made by a party, witness, legal representative or juror in the course of proceedings presided over by a judge, or other person, performing a judicial function,
+
+(*h*) made in the course of proceedings involving the exercise of limited functions and powers of a judicial nature in accordance with Article 37 of the Constitution, where the statement is connected with those proceedings,
+
+F8[(*i*) a fair and accurate report of proceedings publicly heard before, or a decision made public by, any court (including a court-martial)—
+
+(i) established by law in the State,
+
+(ii) established under the law of Northern Ireland, or
+
+(iii) established under the law of any other state or place,]
+
+(*j*) a fair and accurate report of proceedings to which a relevant enactment referred to in section 40 of the Civil Liability and Courts Act 2004 applies,
+
+(*k*) a fair and accurate report of proceedings publicly heard before, or decision made public by, any court or arbitral tribunal established by an international agreement to which the State is a party including the Court of Justice of the European Communities, the Court of First Instance of the European Communities, the European Court of Human Rights and the International Court of Justice,
+
+(*l*) made in proceedings before a committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas,
+
+(*m*) made in proceedings before a committee of the European Parliament,
+
+(*n*) made in the course of proceedings before a tribunal established under the Tribunals of Inquiry (Evidence) Acts 1921 to 2004, where the statement is connected with those proceedings,
+
+(*o*) contained in a report of any such tribunal,
+
+(*p*) made in the course of proceedings before a commission of investigation established under the Commissions of Investigation Act 2004, where the statement is connected with those proceedings,
+
+(*q*) contained in a report of any such commission,
+
+(*r*) made in the course of an inquest by a coroner or contained in a decision made or verdict given at or during such inquest,
+
+(*s*) made in the course of an inquiry conducted on the authority of a Minister of the Government, the Government, the Oireachtas, either House of the Oireachtas or a court established by law in the State,
+
+(*t*) made in the course of an inquiry conducted in Northern Ireland on the authority of a person or body corresponding to a person or body referred to in *paragraph (s)*,
+
+(*u*) contained in a report of an inquiry referred to in *paragraph (s)* or *(t)*,
+
+(*v*) made in the course of proceedings before an arbitral tribunal where the statement is connected with those proceedings,
+
+(*w*) made pursuant to and in accordance with an order of a court established by law in the F10[State, or]
+
+F11[(*x*) made in the course of the consideration by the Parole Board of—
+
+(i) an application for parole, or
+
+(ii) the variation or revocation of a parole order, where the statement is connected with that consideration, or
+
+(*y*) contained in a decision of the Parole Board, or a notification of such a decision, pursuant to the Parole Act 2019 or a parole order.]
+
+(3) Section 2 of the Committees of the Houses of the Oireachtas (Privilege and Procedure) Act 1976 is amended by the insertion of the following subsection:
+
+“(3) In this section ‘utterance’ includes a statement within the meaning of the *Defamation Act 2009* *;”* .
+
+(4) A defence under this section shall be known as, and is referred to in this Act, as the “defence of absolute privilege”.
+
+F12[F9[(5)] In this section, "application for parole" and "parole order" have the meanings they have in the Parole Act 2019.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F7: Substituted (25.09.2013) by *Houses of the Oireachtas (Inquiries, Privileges and Procedures) Act 2013* (33/2013), s. 132, S.I. No. 362 of 2013.
+>
+> F8, F9: Substituted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 7(a), (b), S.I. No. 61 of 2026, subject to transitional provision in subs. (2).
+>
+> F10: Substituted (30.07.2021) by *Parole Act 2019* (28/2019), s. 38(a)(i), S.I. No. 405 of 2021.
+>
+> F11: Inserted (30.07.2021) by *Parole Act 2019* (28/2019), s. 38(a)(ii), S.I. No. 405 of 2021.
+>
+> F12: Inserted (30.07.2021) by *Parole Act 2019* (28/2019), s. 38(b), S.I. No. 405 of 2021.
+>
+> F13: Substituted by *Family Courts Act 2024* (48/2024), s. 6 and sch. 2 ref. 7, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C3: Prospective affecting provision: subs. (2)(j) amended by *Family Courts Act 2024* (48/2024), s. 6 and sch. 2 ref. 7, not commenced as of date of revision.
+>
+> (*j*) a fair and accurate report of proceedings to which a relevant enactment referred to in F13[section 96 of the Family Courts Act 2024] applies,
+
+### 18. Qualified privilege.
+
+**18**.— (1) Subject to *section 17*, it shall be a defence to a defamation action for the defendant to prove that the statement in respect of which the action was brought would, if it had been made immediately before the commencement of F14[this section or, in relation to a statement referred to in *subsection (1A)*, the commencement of section 8 of the Defamation (Amendment) Act 2026], have been considered under the law (other than the Act of 1961) in force immediately before such commencement as having been made on an occasion of qualified privilege.
+
+F15[(1A) Without prejudice to the generality of *subsection (1)*, it shall be a defence to a defamation action for the defendant to prove that the statement to which the action relates—
+
+(*a*) consisted of—
+
+(i) an inquiry as to whether the person whom the statement concerned had—
+
+(I) paid for goods or services,
+
+(II) obtained services, or
+
+(III) in his or her possession—
+
+(A) goods,
+
+(B) proof of payment for goods, or
+
+(C) proof of payment for services,
+
+or
+
+(ii) a statement that the means of payment proffered by the person whom the statement concerned was unable to be, or not capable of being, accepted,
+
+and
+
+(*b*) was not published excessively,
+
+provided that the person who made the inquiry referred to in *paragraph (a)(i)* or the statement referred to in *paragraph (a)(ii)* had a duty or interest in making it.]
+
+(2) Without prejudice to the generality of *subsection (1)*, it shall, subject to *section 19*, be a defence to a defamation action for the defendant to prove that—
+
+(*a*) the statement was published to a person or persons who—
+
+(i) had a duty to receive, or interest in receiving, the information contained in the statement, or
+
+(ii) the defendant believed upon reasonable grounds that the said person or persons had such a duty or interest, and
+
+(*b*) the defendant had a corresponding duty to communicate, or interest in communicating, the information to such person or persons.
+
+(3) Without prejudice to the generality of *subsection (1)*, it shall be a defence to a defamation action for the defendant to prove that the statement to which the action relates is—
+
+(*a*) a statement to which *Part 1* of *Schedule 1* applies,
+
+(*b*) contained in a report, copy, extract or summary referred to in that Part, or
+
+(*c*) contained in a determination referred to in that Part.
+
+(4) Without prejudice to the generality of *subsection (1)*, it shall be a defence to a defamation action for the defendant to prove that the statement to which the action relates is contained in a report, copy or summary referred to in *Part 2* of *Schedule 1*, unless it is proved that the defendant was requested by the plaintiff to publish in the same medium of communication in which he or she published the statement concerned, a reasonable statement by way of explanation or a contradiction, and has refused or failed to do so or has done so in a manner that is not adequate or reasonable having regard to all of the circumstances.
+
+(5) Nothing in *subsection (3)* shall be construed as—
+
+(*a*) protecting the publication of any statement the publication of which is prohibited by law, or of any statement that is not of public concern and the publication of which is not for the public benefit, or
+
+(*b*) limiting or abridging any privilege subsisting apart from *subsection (3).*
+
+(6) A defence under this section shall be known, and is referred to in this Act, as the “defence of qualified privilege”.
+
+(7) In this section—
+
+“duty” means a legal, moral or social duty;
+
+“interest” means a legal, moral or social interest.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F14: Substituted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 8(1)(a), S.I. No. 61 of 2026, subject to transitional provision subs. (2).
+>
+> F15: Inserted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 8(1)(b), S.I. No. 61 of 2026, subject to transitional provision subs. (2).
+
+### 19. Loss of defence of qualified privilege.
+
+**19**.— (1) In a defamation action, the defence of qualified privilege shall fail if, in relation to the publication of the statement in respect of which the action was brought, the plaintiff proves that the defendant acted with malice.
+
+(2) The defence of qualified privilege shall not fail by reason only of the publication of the statement concerned to a person other than an interested person if it is proved that the statement was published to the person because the publisher mistook him or her for an interested person.
+
+(3) Where a defamation action is brought against more than one defendant, the failure of the defence of qualified privilege in relation to one of the defendants by virtue of the application of *subsection (1)* shall not cause the failure of the defence in relation to another of the defendants unless that other defendant was vicariously liable for such acts or omissions of the first-mentioned defendant as gave rise to the cause of action concerned.
+
+(4) Section 11(4) of the Civil Liability Act 1961 is repealed.
+
+(5) In this section “interested person” means, in relation to a statement, a person who, under *section 18(2)(a)*, had a duty or interest in receiving the information contained in the statement.
+
+### 20. Honest opinion.
+
+**20**.— (1) It shall be a defence (to be known, and in this section referred to, as the “defence of honest opinion”) to a defamation action for the defendant to prove that, in the case of a statement consisting of an opinion, the opinion was honestly held.
+
+(2) Subject to *subsection (3)*, an opinion is honestly held, for the purposes of this section, if—
+
+(*a*) at the time of the publication of the statement, the defendant believed in the truth of the opinion or, where the defendant is not the author of the opinion, believed that the author believed it to be true,
+
+(*b*) (i) the opinion was based on allegations of fact—
+
+(I) specified in the statement containing the opinion, or
+
+(II) referred to in that statement, that were known, or might reasonably be expected to have been known, by the persons to whom the statement was published,
+
+or
+
+(ii) the opinion was based on allegations of fact to which—
+
+(I) the defence of absolute privilege, or
+
+(II) the defence of qualified privilege,
+
+would apply if a defamation action were brought in respect of such allegations,
+
+and
+
+(*c*) the opinion related to a matter of public interest.
+
+(3) (*a*) The defence of honest opinion shall fail, if the opinion concerned is based on allegations of fact to which *subsection (2) (b) (i)* applies, unless—
+
+(i) the defendant proves the truth of those allegations, or
+
+(ii) where the defendant does not prove the truth of all of those allegations, the opinion is honestly held having regard to the allegations of fact the truth of which are proved.
+
+(*b*) The defence of honest opinion shall fail, if the opinion concerned is based on allegations of fact to which *subsection (2) (b) (ii)* applies, unless—
+
+(i) the defendant proves the truth of those allegations, or
+
+(ii) where the defendant does not prove the truth of those allegations—
+
+(I) the opinion could not reasonably be understood as implying that those allegations were true, and
+
+(II) at the time of the publication of the opinion, the defendant did not know or could not reasonably have been expected to know that those allegations were untrue.
+
+(4) Where a defamatory statement consisting of an opinion is published jointly by a person (“first-mentioned person”) and another person (“joint publisher”), the first-mentioned person shall not fail in pleading the defence of honest opinion in a subsequent defamation action brought in respect of that statement by reason only of that opinion not being honestly held by the joint publisher, unless the first-mentioned person was at the time of publication vicariously liable for the acts or omissions, from which the cause of action in respect of that statement accrued, of the joint publisher.
+
+### 21. Distinguishing between allegations of fact and opinion.
+
+**21**.— The matters to which the court in a defamation action shall have regard, for the purposes of distinguishing between a statement consisting of allegations of fact and a statement consisting of opinion, shall include the following:
+
+(*a*) the extent to which the statement is capable of being proved;
+
+(*b*) the extent to which the statement was made in circumstances in which it was likely to have been reasonably understood as a statement of opinion rather than a statement consisting of an allegation of fact; and
+
+(*c*) the words used in the statement and the extent to which the statement was subject to a qualification or a disclaimer or was accompanied by cautionary words.
+
+### 22. Offer to make amends.
+
+**22**.— (1) A person who has published a statement that is alleged to be defamatory of another person may make an offer to make amends.
+
+(2) An offer to make amends shall—
+
+(*a*) be in writing,
+
+(*b*) state that it is an offer to make amends for the purposes of this section, and
+
+(*c*) state whether the offer is in respect of the entire of the statement or an offer (in this Act referred to as a “qualified offer”) in respect of—
+
+(i) part only of the statement, or
+
+(ii) a particular defamatory meaning only.
+
+(3) An offer to make amends shall not be made after the delivery of the defence in the defamation action concerned.
+
+(4) An offer to make amends may be withdrawn before it is accepted and where such an offer is withdrawn a new offer to make amends may be made.
+
+(5) In this section “an offer to make amends” means an offer—
+
+(*a*) to make a suitable correction of the statement concerned and a sufficient apology to the person to whom the statement refers or is alleged to refer,
+
+F16[(*b*) to publish that correction and apology in such manner as will ensure that the correction and apology will be given the same or similar prominence as was given to the statement concerned, unless the person to whom the statement refers or is alleged to refer otherwise requests,]
+
+(*c*) to pay to the person such sum in compensation or damages (if any), and such costs, as may be agreed by them or as may be determined to be payable,
+
+whether or not it is accompanied by any other offer to perform an act other than an act referred to in *paragraph (a)*, *(b)* or *(c)*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F16: Substituted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 9(1), S.I. No. 61 of 2026, subject to transitional provision in subs. (2).
+
+### 23. Effect of offer to make amends.
+
+**23**.— (1) If an offer to make amends under *section 22* is accepted the following provisions shall apply:
+
+(*a*) if the parties agree as to the measures that should be taken by the person who made the offer to ensure compliance by him or her with the terms of the offer, the High Court or, where a defamation action has already been brought, the court in which it was brought may, upon the application of the person to whom the offer was made, direct the party who made the offer to take those measures;
+
+(*b*) if the parties do not so agree, the person who made the offer may, with the leave of the High Court or, where a defamation action has already been brought, the court in which it was brought, make a correction and apology by means of a statement before the court in such terms as may be approved by the court and give an undertaking as to the manner of their publication;
+
+(*c*) if the parties do not agree as to the damages or costs that should be paid by the person who made the offer, those matters shall be determined by the High Court or, where a defamation action has already been brought, the court in which it was brought, and the court shall for those purposes have all such powers as it would have if it were determining damages or costs in a defamation action, and in making a determination under this paragraph it shall take into account the adequacy of any measures already taken to ensure compliance with the terms of the offer by the person who made the offer;
+
+(*d*) no defamation action shall be brought or, if already brought, proceeded with against another person in respect of the statement to which the offer to make amends applies unless the court considers that in all the circumstances of the case it is just and proper to so do.
+
+(2) Subject to *subsection (3)*, it shall be a defence to a defamation action for a person to prove that he or she made an offer to make amends under *section 22* and that it was not accepted, F17[unless the plaintiff proves that, at the time of the publication of the statement to which the offer relates, the defendant knew that, or was reckless as to whether]—
+
+(*a*) it referred to the plaintiff or was likely to be understood as referring to the plaintiff, and
+
+(*b*) it was false and defamatory of the plaintiff.
+
+(3) Where the defendant in a defamation action made a qualified offer only, *subsection (2)* shall apply in relation to that part only of the action that relates to the part of the statement or the meaning, as the case may be, to which the qualified offer relates.
+
+(4) A person who makes an offer to make amends is not required to plead it as a defence in a defamation action.
+
+(5) If a defendant in a defamation action pleads the defence under this section, he or she shall not be entitled to plead any other defence in the action, and if the defence is pleaded in respect of a qualified offer only he or she shall not be entitled to plead any other defence in respect of that part of the action that relates to the part of the statement or the meaning, as the case may be, to which the qualified offer relates.
+
+F18[(6) In addition to having regard to the matters provided for in section 169(1) of the Act of 2015, a court shall, when considering the making of an order as to costs in a defamation action, have regard to the conduct, subsequent to the making of an offer of amends, of—
+
+(*a*) the person who made the offer, and
+
+(*b*) the person to whom the offer was made,
+
+in relation to the offer.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F17: Substituted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 10(1)(a), S.I. No. 61 of 2026, subject to transitional provision in subs. (2).
+>
+> F18: Inserted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 10(1)(b), S.I. No. 61 of 2026, subject to transitional provision in subs. (2).
+>
+> **Modifications (not altering text):**
+>
+> C4: Application of subsection restricted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 10(2), S.I. No. 61 of 2026.
+>
+> (2) The amendment effected by subsection (1) shall apply only to causes of action accruing on or after the date of the coming into operation of this section.
+
+### 24. Apology.
+
+**24**.— (1) In a defamation action the defendant may give evidence in mitigation of damage that he or she—
+
+(*a*) made or offered an apology to the plaintiff in respect of the statement to which the action relates, and
+
+(*b*) published the apology in such manner as ensured that the apology was given the same or similar prominence as was given to that statement, or offered to publish an apology in such a manner,
+
+as soon as practicable after the plaintiff makes complaint to the defendant concerning the utterance to which the apology relates, or after the bringing of the action, whichever is earlier.
+
+(2) In a defamation action, a defendant who intends to give evidence to which *subsection (1)* applies shall, at the time of the filing or delivery of the defence to the action, notify the plaintiff in writing of his or her intention to give such evidence.
+
+(3) In a defamation action, an apology made by or on behalf of a defendant in respect of a statement to which the action relates—
+
+(*a*) does not constitute an express or implied admission of liability by that defendant, and
+
+(*b*) is not relevant to the determination of liability in the action.
+
+(4) Evidence of an apology made by or on behalf of a person in respect of a statement to which the action relates is not admissible in any civil proceedings as evidence of liability of the defendant.
+
+### 25. Consent to publish.
+
+**25**.— In a defamation action it shall be a defence, to be known as the “defence of consent”, for a person to prove that the plaintiff consented to the publication of the statement in respect of which the action was brought.
+
+### 26. F19[Fair publication on matter of public interest.
+
+**26.** (1) It shall be a defence (to be known as the "defence of fair publication on a matter of public interest") to a defamation action for the defendant to prove that the publication was fair in all the circumstances of the case, in that—
+
+(*a*) the statement in respect of which the action was brought was on a matter of public interest,
+
+(*b*) the defendant reasonably believed that publishing the statement was in the public interest, and
+
+(*c*) the statement was published in good faith.
+
+(2) Subject to *subsection (3)*, a court shall, for the purposes of determining whether *subsection (1)(b)* is proved, have regard to whether the belief was arrived at after the making of such enquiries and checks as it was reasonable to expect of the defendant.
+
+(3) Where the statement in respect of which the defamation action was brought was an accurate and impartial account of a dispute to which the plaintiff in the defamation action was a party, the court shall, in determining whether it was reasonable for the defendant to believe that publishing the statement was in the public interest, disregard any omission of the defendant to take steps to verify the truth of the imputation conveyed by it.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F19: Substituted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 11(1), S.I. No. 61 of 2026, subject to transitional provision in subs. (2).
+
+### 26A. Abolition of Reynolds defence
+
+F20[**26A.** (1) Any common law defence known as the Reynolds defence that, immediately before the commencement of section 12 of the Defamation (Amendment) Act 2026, could have been pleaded as a defence in a defamation action is abolished.
+
+(2) *Subsection (1)* shall not apply to causes of action accruing before the date of the coming into operation of section 12 of the Defamation (Amendment) Act 2026.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F20: Inserted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 12, S.I. No. 61 of 2026.
+
+### 27. Innocent publication.
+
+**27**.— (1) It shall be a defence (to be known as the “defence of innocent publication”) to a defamation action for the defendant to prove that—
+
+(*a*) he or she was not the author, editor or publisher of the statement to which the action relates,
+
+(*b*) he or she took reasonable care in relation to its publication, and
+
+(*c*) he or she did not know, and had no reason to believe, that what he or she did caused or contributed to the publication of a statement that would give rise to a cause of action in defamation.
+
+(2) A person shall not, for the purposes of this section, be considered to be the author, editor or publisher of a statement if—
+
+(*a*) in relation to printed material containing the statement, he or she was responsible for the printing, production, distribution or selling only of the printed material,
+
+(*b*) in relation to a film or sound recording containing the statement, he or she was responsible for the processing, copying, distribution, exhibition or selling only of the film or sound recording,
+
+(*c*) in relation to any electronic medium on which the statement is recorded or stored, he or she was responsible for the processing, copying, distribution or selling only of the electronic medium or was responsible for the operation or provision only of any equipment, system or service by means of which the statement would be capable of being retrieved, copied, distributed or made available.
+
+(3) The court shall, for the purposes of determining whether a person took reasonable care, or had reason to believe that what he or she did caused or contributed to the publication of a defamatory statement, have regard to—
+
+(*a*) the extent of the person’s responsibility for the content of the statement or the decision to publish it,
+
+(*b*) the nature or circumstances of the publication, and
+
+(*c*) the previous conduct or character of the person.
+
+### 27A. Live broadcast defence
+
+F21[**27A.**— (1) It shall be a defence (to be known as the "live broadcast defence") to a defamation action that relates to a statement published by a relevant person during the broadcast of a live programme for the broadcaster of the programme to prove that, in advance of and during that broadcast, the broadcaster took reasonable and prudent precautions to prevent the publication by a relevant person of a defamatory statement during the live programme.
+
+(2) The court shall, in determining for the purposes of *subsection (1)* whether a broadcaster of a live programme took reasonable and prudent precautions, have regard to such matters as the court considers relevant, including the following:
+
+(*a*) the level of effective control over the relevant person that could reasonably be expected of the broadcaster in those circumstances, including—
+
+(i) the nature of the location from which the live programme was broadcast,
+
+(ii) the nature of the live programme, and
+
+(iii) whether the relevant person was a contributor, or a person other than a contributor, to the live programme;
+
+(*b*) the overall measures employed by the broadcaster to ensure the taking of reasonable and prudent precautions and risk management in the conception, design and planning of live programmes, including editorial policies, risk assessment, programme production procedures, staff training and guidance and, where appropriate, transmission delays;
+
+(*c*) the extent to which the broadcaster carried out an appropriate risk assessment, in respect of the risk of a relevant person making a defamatory statement during the live programme, in relation to the programme prior to its broadcast, having regard in particular to—
+
+(i) the type of—
+
+(I) live programme concerned, and
+
+(II) persons envisaged as participants in the live programme,
+
+(ii) the topics to be addressed during the live programme, and
+
+(iii) the public interest in having a live programme on the topic concerned;
+
+(*d*) where appropriate, having regard to the conclusions of the risk assessment referred to in *paragraph (c)*, whether any appropriate vetting of participants in the live programme was carried out;
+
+(*e*) the overall management in practice of the live programme concerned, and of its participants, by the broadcaster and in particular by the presenter of the live programme.
+
+(3) For the avoidance of doubt, the live broadcast defence shall not fail by reason only of the live programme concerned having been broadcast with a minimal delay.
+
+(4) In this section—
+
+"broadcast", "broadcaster" and "programme" shall each have the same meaning as they have in the Broadcasting Act 2009;
+
+"contributor" means a participant in a live programme who has been invited by the broadcaster of the live programme to make statements in the course of the programme and who is not an employee or contractor of the broadcaster;
+
+"relevant person", in relation to a defamatory statement referred to in *subsection (1)*, includes—
+
+(*a*) a contributor, or
+
+(*b*) a person whose presence or participation in the live programme was not invited by the broadcaster concerned and who is not an employee or contractor of the broadcaster.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F21: Inserted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 13(1), S.I. No. 61 of 2026, subject to transitional provision in subs. (2).
+
+## PART 4 Remedies — PART 4 — Remedies
+
+### 28. Declaratory order.
+
+**28**.— (1) A person who claims to be the subject of a statement that he or she alleges is defamatory may apply to the Circuit Court for an order (in this Act referred to as a “ declaratory order ”) that the statement is false and defamatory of him or her.
+
+(2) Upon an application under this section, the court shall make a declaratory order if it is satisfied that—
+
+(*a*) the statement is defamatory of the applicant and the respondent has no defence to the F22[application that is reasonably likely to succeed],
+
+(*b*) the applicant requested the respondent to make and publish an apology, correction or retraction in relation to that statement, and
+
+(*c*) the respondent failed or refused to accede to that request or, where he or she acceded to that request, failed or refused to give the apology, correction or retraction the same or similar prominence as was given by the respondent to the statement concerned.
+
+(3) For the avoidance of doubt, an applicant for a declaratory order shall not be required to prove that the statement to which the application concerned relates is false.
+
+(4) Where an application is made under this section, the applicant shall not be entitled to bring any other proceedings in respect of any cause of action arising out of the statement to which the application relates.
+
+(5) An application under this section shall be brought by motion on notice to the respondent grounded on affidavit.
+
+(6) Where a court makes a declaratory order, it may, in addition, make an order under F23[*section 30* or *33*, or orders under both of those sections], upon an application by the applicant in that behalf.
+
+(7) The court may, for the purposes of making a determination in relation to an application under this section in an expeditious manner, give directions in relation to the delivery of pleadings and the time and manner of trial of any issues raised in the course of such an application.
+
+(8) No order in relation to damages shall be made upon an application under this section.
+
+(9) An application under this section shall be made to the Circuit Court sitting in the circuit where—
+
+(*a*) the statement to which the application relates was published, or
+
+(*b*) the defendant or one of the defendants, as the case may be, resides.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F22, F23: Substituted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 14(1)(a), (b), S.I. No. 61 of 2026, subject to transitional provision s. 14(2).
+
+### 29. Lodgment of money in settlement of action.
+
+**29**.— (1) In an action for damages for defamation the defendant may, upon giving notice in writing to the plaintiff, pay a sum of money into court in satisfaction of the action F24[...].
+
+(2) A payment to which this section applies shall be deemed to be a payment under such rule of court for the time being in force as provides for the payment into court of a sum of money in satisfaction of an action for damages for defamation.
+
+(3) Where a payment to which this section applies is made, the plaintiff in the action concerned may accept the payment—
+
+(*a*) in accordance with the rule referred to in *subsection (2)*, or
+
+(*b*) inform the court in which the action was brought, on notice to the defendant, of his or her acceptance of the payment in full settlement of the action.
+
+(4) The defendant shall not be required to admit liability in an action for damages for defamation when making a payment to which this section applies.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F24: Deleted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 15(1)(a), S.I. No. 61 of 2026, subject to transitional provision in subs. (2).
+
+### 30. Correction order.
+
+**30**.— (1) Where, in a defamation action, there is a finding that the statement in respect of which the action was brought was defamatory and the defendant has no defence to the action, the court may, upon the application of the plaintiff, make an order (in this Act referred to as a “correction order”) directing the defendant to publish a correction of the defamatory statement.
+
+(2) Without prejudice to the generality of *subsection (1)*, a correction order shall—
+
+(*a*) specify—
+
+(i) the date and time upon which, or
+
+(ii) the period not later than the expiration of which,
+
+the correction order shall be F25[published,]
+
+(*b*) specify the form, content, extent and manner of publication of the F26[correction, and],
+
+F27[(*c*) unless the plaintiff otherwise requests, require the correction to be published in such manner as will ensure that—
+
+(i) it is given the same or similar prominence as was given to the defamatory statement, and
+
+(ii) it is communicated to all or substantially all of those persons to whom the defamatory statement was published.]
+
+(3) Where a plaintiff intends to make an application under this section, he or she shall so inform—
+
+(*a*) the defendant by notice in writing, not later than 7 days before the trial of the action, and
+
+(*b*) the court at the trial of the action.
+
+(4) An application under this section may be made at such time during the trial of a defamation action as the court F28[...] directs.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F25, F26, F27: Substituted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 16(1)(a)-(c), S.I. No. 61 of 2026, subject to transitional provision subs. (2).
+>
+> F28: Deleted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 5(1)(c), S.I. No. 61 of 2026, subject to transitional provision in subs. (2).
+
+### 31. Damages.
+
+**31**.— (1) The parties in a defamation action may make submissions to the court in relation to the matter of damages.
+
+(2) F29[...]
+
+(3) In making an award of general damages in a defamation action, regard shall be had to all of the circumstances of the case.
+
+(4) Without prejudice to the generality of *subsection (3)*, the court in a defamation action shall, in making an award of general damages, have regard to—
+
+(*a*) the nature and gravity of any allegation in the defamatory statement concerned,
+
+(*b*) the means of publication of the defamatory statement including the enduring nature of those means,
+
+(*c*) the extent to which the defamatory statement was circulated,
+
+(*d*) the offering or making of any apology, correction or retraction by the defendant to the plaintiff in respect of the defamatory statement,
+
+(*e*) the making of any offer to make amends under *section 22* by the defendant, whether or not the making of that offer was pleaded as a defence,
+
+(*f*) the importance to the plaintiff of his or her reputation in the eyes of particular or all recipients of the defamatory statement,
+
+(*g*) the extent (if at all) to which the plaintiff caused or contributed to, or acquiesced in, the publication of the defamatory statement,
+
+(*h*) evidence given concerning the reputation of the plaintiff,
+
+(*i*) if the defence of truth is pleaded and the defendant proves the truth of part but not the whole of the defamatory statement, the extent to which that defence is successfully pleaded in relation to the statement,
+
+(*j*) if the defence of qualified privilege is pleaded, the extent to which the defendant has acceded to the request of the plaintiff to publish a reasonable statement by way of explanation or contradiction, and
+
+(*k*) any order made under *section 33*, or any order under that section or correction order that the court proposes to make F30[...].
+
+(5) For the purposes of *subsection (4) (c)*, a defamatory statement consisting of words that are innocent on their face, but that are defamatory by reason of facts known to some recipients only of the publication containing the defamatory statement, shall be treated as having been published to those recipients only.
+
+(6) The defendant in a defamation action may, for the purposes of mitigating damages, give evidence—
+
+(*a*) with the leave of the court, of any matter that would have a bearing upon the reputation of the plaintiff, provided that it relates to matters connected with the defamatory statement,
+
+(*b*) that the plaintiff has already in another defamation action been awarded damages in respect of a defamatory statement that contained substantially the same allegations as are contained in the defamatory statement to which the first-mentioned defamation action relates.
+
+(7) The court in a defamation action may make an award of damages (in this section referred to as “ special damages ”) to the plaintiff in respect of financial loss suffered by him or her as a result of the injury to his or her reputation caused by the publication of the defamatory statement in respect of which the action was brought.
+
+(8) F31[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F29, F30, F31: Deleted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 5(1)(d)(i)-(iii), S.I. No. 61 of 2026, subject to transitional provision in subs. (2).
+
+### 32. Aggravated and punitive damages.
+
+**32**.— (1) Where, in a defamation action—
+
+(*a*) the court finds the defendant liable to pay damages to the plaintiff in respect of a defamatory statement, and
+
+(*b*) the defendant conducted his or her defence in a manner that aggravated the injury caused to the plaintiff’s reputation by the defamatory statement,
+
+the court may, in addition to any general, special or punitive damages payable by the defendant to the plaintiff, order the defendant to pay to the plaintiff damages (in this section referred to as “aggravated damages”) of such amount as it considers appropriate to compensate the plaintiff for the aggravation of the said injury.
+
+(2) Where, in a defamation action, the court finds the defendant liable to pay damages to the plaintiff in respect of a defamatory statement and it is proved that the defendant—
+
+(*a*) intended to publish the defamatory statement concerned to a person other than the plaintiff,
+
+(*b*) knew that the defamatory statement would be understood by the said person to refer to the plaintiff, and
+
+(*c*) knew that the statement was untrue or in publishing it was reckless as to whether it was true or untrue,
+
+the court may, in addition to any general, special or aggravated damages payable by the defendant to the plaintiff, order the defendant to pay to the plaintiff damages (in this section referred to as “punitive damages”) of such amount as it considers appropriate.
+
+(3) F32[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F32: Deleted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 5(1)(e), S.I. No. 61 of 2026, subject to transitional provision in subs. (2).
+
+### 33. Order prohibiting the publication of a defamatory statement.
+
+**33**.— (1) The High Court, or where a defamation action has been brought, the court in which it was brought, may, upon the application of the plaintiff, make an order prohibiting the publication or further publication of the statement in respect of which the application was made F33[if the court is satisfied that]—
+
+(*a*) the statement is defamatory, and
+
+(*b*) the defendant has no defence to the action that is reasonably likely to succeed.
+
+(2) Where an order is made under this section it shall not operate to prohibit the reporting of the making of that order provided that such reporting does not include the publication of the statement to which the order relates.
+
+(3) In this section “ order ” means—
+
+(*a*) an interim order,
+
+(*b*) an interlocutory order, or
+
+(*c*) a permanent order.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F33: Substituted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 17(1), S.I. No. 61 of 2026, subject to transitional provision in subs. (2).
+
+### 34. Summary disposal of action.
+
+**34**.— (1) The court in a defamation action may, upon the application of the plaintiff, grant F34[a correction order or an order prohibiting further publication of the statement to which the defamation action relates, or both] to the plaintiff if it is satisfied that—
+
+(*a*) the statement in respect of which the action was brought is defamatory, and
+
+(*b*) the defendant has no defence to the action that is reasonably likely to succeed.
+
+(2) The court in a defamation action may, upon the application of the defendant, dismiss the action if it is satisfied that the statement in respect of which the action was brought is not reasonably capable of being found to have a defamatory meaning.
+
+(3) An application under this section shall be brought by motion on notice to the other party to the action and shall be grounded on an affidavit.
+
+(4) F35[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F34: Substituted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 18(1), S.I. No. 61 of 2026, subject to transitional provision in subs. (2).
+>
+> F35: Deleted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 5(1)(f), S.I. No. 61 of 2026, subject to transitional provision in subs. (2).
+
+## PART 4A — ADDITIONAL PROVISIONS REGARDING DEFAMATION PROCEEDINGS RELATING TO ENGAGEMENT IN PUBLIC PARTICIPATION
+
+### F36[34A. Definitions (Part 4A)
+
+**34A**.— ...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F36: Inserted by *Defamation (Amendment) Act 2026* (2/2026), s. 19, not commenced as of date of revision, subject to transitional provision in s. 20.
+>
+> **Modifications (not altering text):**
+>
+> C5: Prospective affecting provision: section inserted by *Defamation (Amendment) Act 2026* (2/2026), s. 19, not commenced as of date of revision.
+>
+> **34A**.— In this Part, unless the context otherwise requires—
+>
+> "abusive court proceedings against public participation" means defamation proceedings or part thereof that pursue unfounded claims and that are not brought to genuinely assert or exercise a right, but that have as their main purpose the prevention, restriction or penalisation of public participation, frequently exploiting an imbalance of power between the parties, including but not limited to—
+>
+> (*a*) where a claim is of a disproportionate, excessive or unreasonable nature,
+>
+> (*b*) the existence of multiple proceedings initiated by the plaintiff or associated parties in relation to similar matters,
+>
+> (*c*) intimidation, harassment or threats on the part of the plaintiff or his or her representatives, before or during the proceedings, as well as similar conduct by the plaintiff in similar or concurrent cases, or
+>
+> (*d*) the use in bad faith of procedural tactics, such as delaying proceedings, fraudulent or abusive forum shopping or the discontinuation of cases at a later stage of the proceedings in bad faith;
+>
+> "claim" includes part of a claim;
+>
+> "defamation proceedings" means—
+>
+> (*a*) an application under section 33 for an order to prevent the publication of an alleged defamatory statement,
+>
+> (*b*) a defamation action, or
+>
+> (*c*) a claim for other relief under this Act in respect of an alleged defamatory statement,whether brought as a claim or a counter-claim;
+>
+> "Directive (EU) 2024/1069" means Directive (EU) 2024/1069 of the European Parliament and of the Council of 11 April 2024[^1] on protecting persons who engage in public participation from manifestly unfounded claims or abusive court proceedings ("Strategic lawsuits against public participation");
+>
+> "matter of public interest" means any matter that affects the public to such an extent that the public may legitimately take an interest in it, in areas such as—
+>
+> (*a*) fundamental rights, public health, safety, the environment or the climate,
+>
+> (b) activities of a person who is a public figure in the public or private sector, having regard to the right to privacy of an individual,
+>
+> (*c*) matters under consideration by a legislative, executive, or judicial body, or any other official proceedings,
+>
+> (*d*) allegations of corruption, fraud, or of any other criminal offence, or, where relevant to defamation proceedings coming within the scope of Directive (EU) 2024/1069, of administrative offences in a place other than the State, in relation to such matters, or
+>
+> (*e*) where relevant to defamation proceedings coming within the scope of Directive (EU) 2024/1069, activities aimed at protecting the values enshrined in Article 2 of the Treaty on European Union, including the protection of democratic processes against undue interference, in particular against disinformation;
+>
+> "public participation" means the making of any statement or the carrying out of any activity by a person in the exercise of the right to freedom of expression and information, freedom of the arts and sciences, or freedom of assembly and association, and any preparatory, supporting or assisting action directly linked thereto, and which concerns a matter of public interest.]
+
+### 34B. Defamation proceedings to which Part applies
+
+F37[**34B.**— ...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F37: Inserted by *Defamation (Amendment) Act 2026* (2/2026), s. 19, not commenced as of date of revision, subject to transitional provision in s. 20.
+>
+> **Modifications (not altering text):**
+>
+> C6: Prospective affecting provision: section inserted by *Defamation (Amendment) Act 2026* (2/2026), s. 19, not commenced as of date of revision.
+>
+> **34B.**— This Part applies to defamation proceedings relating to the engagement by a person in public participation, including those falling within the scope of Article 2 of Directive (EU) 2024/1069.]
+
+### 34C. Information to be given to court
+
+F38[**34C.**— ...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F38: Inserted by *Defamation (Amendment) Act 2026* (2/2026), s. 19, not commenced as of date of revision, subject to transitional provision in s. 20.
+>
+> **Modifications (not altering text):**
+>
+> C7: Prospective affecting provision: section inserted by *Defamation (Amendment) Act 2026* (2/2026), s. 19, not commenced as of date of revision.
+>
+> **34C.**— Where defamation proceedings have been initiated against a defendant and he or she is of the view that they—
+>
+> (*a*) have been initiated on account of his or her engagement in public participation, and
+>
+> (*b*) fall within the scope of Article 2 of Directive (EU) 2024/1069,
+>
+> the defendant shall so inform the court.]
+
+### 34D. Security for costs
+
+F39[**34D.**— ...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F39: Inserted by *Defamation (Amendment) Act 2026* (2/2026), s. 19, not commenced as of date of revision, subject to transitional provision in s. 20.
+>
+> **Modifications (not altering text):**
+>
+> C8: Prospective affecting provision: section inserted by *Defamation (Amendment) Act 2026* (2/2026), s. 19, not commenced as of date of revision.
+>
+> **34D.**— Where a defendant in defamation proceedings relating to his or her engagement in public participation makes an application, in accordance with law, for security for costs in the context of those proceedings, the court shall, in determining the application, act as expeditiously as possible consistent with the administration of justice.]
+
+### 34E. Application to strike out claim and appeal
+
+F40[**34E.**— ...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F40: Inserted by *Defamation (Amendment) Act 2026* (2/2026), s. 19, not commenced as of date of revision, subject to transitional provision in s. 20.
+>
+> **Modifications (not altering text):**
+>
+> C9: Prospective affecting provision: section inserted by *Defamation (Amendment) Act 2026* (2/2026), s. 19, not commenced as of date of revision.
+>
+> **34E.**— (1) Where a defendant in defamation proceedings relating to his or her engagement in public participation makes an application to the court, in accordance with law, to strike out the claim as being manifestly unfounded—
+>
+> (*a*) the court shall, in determining the application, and
+>
+> (*b*) where an appeal is brought against the determination of the application, the court that hears and determines the appeal shall,act as expeditiously as possible consistent with the administration of justice.
+>
+> (2) In this section, "manifestly unfounded", in relation to a claim, includes where—
+>
+> (*a*) the indorsement or pleading—
+>
+> (i) is unnecessary,
+>
+> (ii) is an abuse of the process of the court, or
+>
+> (iii) in the case of an interim or interlocutory application, may unreasonably prejudice or delay the fair trial of the action,
+>
+> (*b*) the claim—
+>
+> (i) discloses no reasonable cause of action,
+>
+> (ii) amounts to an abuse of the process of the court,
+>
+> (iii) is bound to fail, or
+>
+> (iv) has no reasonable chance of succeeding,
+>
+> or
+>
+> (*c*) the statement in respect of which the proceedings have been brought is not reasonably capable of being found to have a defamatory meaning in accordance with *section 34(2)*.]
+
+### 34F. Application for declaration where application to strike out claim
+
+F41[**34F.**— ...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F41: Inserted by *Defamation (Amendment) Act 2026* (2/2026), s. 19, not commenced as of date of revision, subject to transitional provision in s. 20.
+>
+> **Modifications (not altering text):**
+>
+> C10: Prospective affecting provision: section inserted by *Defamation (Amendment) Act 2026* (2/2026), s. 19, not commenced as of date of revision.
+>
+> **34F.**— (1) Where a defendant in defamation proceedings relating to his or her engagement in public participation makes an application referred to in *section 34E(1)*, he or she may also make an application, on notice to the plaintiff in those proceedings, for a declaration by the court that the proceedings or part thereof amount to abusive court proceedings against public participation.
+>
+> (2) Where a court makes a declaration under *subsection (1)* that the defamation proceedings or part thereof amount to abusive court proceedings against public participation, the court shall, insofar as it considers appropriate, take the declaration into account when making an award of costs or any other order providing for the payment of costs and may, if it thinks fit, order the costs to be paid as between legal practitioner and client or on a legal practitioner and own client basis.]
+
+### 34G. Application for declaration before, during or at conclusion of trial of action and costs
+
+F42[**34G.**— ... ]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F42: Inserted by *Defamation (Amendment) Act 2026* (2/2026), s. 19, not commenced as of date of revision, subject to transitional provision in s. 20.
+>
+> **Modifications (not altering text):**
+>
+> C11: Prospective affecting provision: section inserted by *Defamation (Amendment) Act 2026* (2/2026), s. 19, not commenced as of date of revision.
+>
+> **34G.**— (1) In defamation proceedings against a defendant relating to his or her engagement in public participation, he or she may, before, during or at the conclusion of the trial of the action, make an application, on notice to the plaintiff in those proceedings, for a declaration by the court that the proceedings or part thereof amount to abusive court proceedings against public participation.
+>
+> (2) Where the court makes a declaration under *subsection (1)* that the proceedings or part thereof amount to abusive court proceedings against public participation, the court shall—
+>
+> (*a*) insofar as it considers appropriate, take the declaration into account when making an award of costs or any other order providing for the payment of costs and may, if it thinks fit, order the costs to be paid as between legal practitioner and client or on a legal practitioner and own client basis, and
+>
+> (*b*) when making an award or order referred to in *paragraph (a)*, act as expeditiously as possible consistent with the administration of justice.]
+
+### 34H. Order for damages in case of section 34F or 34G declaration
+
+F43[**34H.**— ...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F43: Inserted by *Defamation (Amendment) Act 2026* (2/2026), s. 19, not commenced as of date of revision, subject to transitional provision in s. 20.
+>
+> **Modifications (not altering text):**
+>
+> C12: Prospective affecting provision: section inserted by *Defamation (Amendment) Act 2026* (2/2026), s. 19, not commenced as of date of revision.
+>
+> **34H.**— (1) Where—
+>
+> (*a*) the court makes a declaration under *section 34F* or *34G* that the defamation proceedings concerned or part thereof amount to abusive court proceedings against public participation (in this section referred to as the "declaration"), and
+>
+> (*b*) the defendant in those proceedings (in this section referred to as the "defendant") makes an application to the court, whether before or after the making of the declaration, on notice to the plaintiff in those proceedings (in this section referred to as the "plaintiff"), for an order for the payment of damages by the plaintiff to the defendant under this section,
+>
+> the court may, in addition to the making of the declaration and in its absolute discretion, order the plaintiff to pay damages to the defendant as a result of injury, loss or damage suffered by the defendant consequent upon the bringing of the proceedings or part thereof the subject of the declaration.
+>
+> (2) In deciding whether to make an order under *subsection (1)*, and, where applicable, in determining the amount of any damages to be paid, the court shall have regard to all of the circumstances of the case and the interests of justice, and may take into account the following matters as it considers appropriate:
+>
+> (*a*) the nature of the public participation concerned;
+>
+> (*b*) the purpose or purposes for which the defamation proceedings or part thereof the subject of the declaration (in this subsection referred to as the "proceedings") were brought relating to the defendant’s engagement in public participation;
+>
+> (*c*) the conduct of the proceedings;
+>
+> (*d*) any other factors leading to the making of the declaration;
+>
+> (*e*) whether the declaration has been made under *section 34F* or *34G*;
+>
+> (*f*) whether the declaration relates to all or part of the proceedings;
+>
+> (*g*) the injury, loss or damage suffered by the defendant as a result of the bringing of the proceedings (including, where appropriate, the threat of such proceedings) and any mitigating factors.
+>
+> (3) Where an application for an order for the payment of damages is made under *subsection (1)(b)*—
+>
+> (*a*) the plaintiff and the defendant may make submissions to the court and adduce evidence, and
+>
+> (*b*) the court may direct that evidence be given,in relation to the application.
+>
+> (4) Where the court makes an order for the payment of damages to a defendant under this section, the court may, if it considers it appropriate to do so, apply the provisions of *section 34F(2)* or *34G(2)*, as the case may be, to costs incurred as a result of an application made by the defendant under *subsection (1)(b)*.
+>
+> (5) The damages recoverable under this section in the Circuit Court shall not exceed the amount standing prescribed, for the time being by law, as the higher of any limit of that Court’s jurisdiction in tort.
+>
+> (6) The Personal Injuries Assessment Board Act 2003 shall not apply in relation to an application under *subsection (1)(b)*.
+>
+> (7) This section shall not affect the operation of *sections 31* and *32*.]
+
+### 34I. Publication of certain judgments and court orders
+
+F44[**34I.**— ...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F44: Inserted by *Defamation (Amendment) Act 2026* (2/2026), s. 19, not commenced as of date of revision, subject to transitional provision in s. 20.
+>
+> **Modifications (not altering text):**
+>
+> C13: Prospective affecting provision: section inserted by *Defamation (Amendment) Act 2026* (2/2026), s. 19, not commenced as of date of revision.
+>
+> **34I.**— Where a court finds in the course of defamation proceedings that the proceedings are abusive court proceedings against public participation, the court shall direct that any written judgment of the court or, in the absence of a written judgment of the court, any order of the court, related to that finding, shall be published on the website of the Courts Service where practicable and as soon as so practicable.]
+
+## PART 4B — ALTERNATIVE DISPUTE RESOLUTION
+
+### F45[34J. Definitions (Part 4B)
+
+**34J.**— In this Part—
+
+"proceedings" means—
+
+(*a*) a defamation action, or
+
+(*b*) an application under *section 33* or *34*;
+
+"specified ADR procedures" means—
+
+(*a*) the procedures for the making of a complaint to the Press Council concerning the conduct of its members to which *Schedule 2* refers, or
+
+(*b*) the scheme for the exercise of the right of reply prepared under section 49 of the Broadcasting Act 2009].
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F45: Inserted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 21, S.I. No. 61 of 2026.
+
+### 34K. Practising solicitor and alternatives to issuing of certain proceedings
+
+F46[**34K.**— (1) A practising solicitor shall, prior to issuing proceedings on behalf of a client, where the specified ADR procedures are applicable to the medium of publication of the alleged defamatory statement—
+
+(*a*) inform the client of the availability of the specified ADR procedures,
+
+(*b*) provide the client with information in relation to the implications of engaging in the specified ADR procedures on the proceedings the solicitor may issue on behalf of the client, including implications as to costs,
+
+(*c*) advise the client of the implications of resolving a dispute in relation to the publication of a statement that is alleged to be defamatory of the client otherwise than by way of the issuing of proceedings including by way of the specified ADR procedures, and
+
+(*d*) advise the client that the specified ADR procedures are voluntary.
+
+(2) If a practising solicitor is acting on behalf of a client who intends to institute proceedings, the originating document by which the proceedings concerned are instituted shall be accompanied by a statutory declaration made by the solicitor evidencing his or her compliance with *subsection (1)*.
+
+(3) If the originating document referred to in *subsection (2)* is not accompanied by a statutory declaration made in accordance with that subsection, the court concerned shall adjourn the proceedings for such period as it considers reasonable in the circumstances to enable the practising solicitor concerned to comply with *paragraphs (a)* to *(d)* of *subsection (1)* and provide the court with such declaration or, if the solicitor has already complied with *subsection (1)*, to provide the court with such declaration.
+
+(4) In this section, "practising solicitor" has the same meaning as it has in the Act of 2015.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F46: Inserted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 21, S.I. No. 61 of 2026.
+
+### 34L. Effect of specified ADR procedures on limitation periods
+
+F47[**34L.**— In reckoning a period of time for the purposes of any limitation period under section 11 of the Act of 1957 applicable to the bringing of a defamation action, the following periods of time shall be disregarded:
+
+(*a*) where a complaint is made to the Press Council to which Schedule 2 refers, the period beginning on the date of the making of the complaint and ending on the date of the determination of the complaint (including, where applicable, its determination by the Press Council on appeal) in accordance with the procedures of the Press Council for the time being in force;
+
+(*b*) where a person exercises a right of reply under section 49 of the Broadcasting Act 2009, the period beginning on the date of the making of a request for the right of reply under that section and ending on—
+
+(i) the expiration of a period of 21 days after the date of receipt by the requester of a decision to refuse under subsection (8) or (9) of that section, or
+
+(ii) where an application to the Compliance Committee is made under that section, the date of receipt by the person who made the application of a statement in writing of the decision of the Compliance Committee under subsection (20) of that section.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F47: Inserted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 21, S.I. No. 61 of 2026.
+
+### 34M. Court inviting parties to consider alternatives to certain proceedings
+
+F48[**34M.**— ...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F48: Inserted by *Defamation (Amendment) Act 2026* (2/2026), s. 21, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C14: Prospective affecting provision: section inserted by *Defamation (Amendment) Act 2026* (2/2026), s. 21, not commenced as of date of revision.
+>
+> **34M.**— (1) A court may, on the application of a party to proceedings, or of its own motion where it considers it appropriate having regard to all the circumstances of the case—
+>
+> (*a*) invite the parties to the proceedings to consider engaging in the specified ADR procedures as a means of attempting to resolve the dispute the subject of the proceedings, and
+>
+> (*b*) provide the parties to the proceedings with information about the specified ADR procedures to settle the dispute the subject of the proceedings.
+>
+> (2) Where, following an invitation by the court under *subsection (1)*, the parties decide to engage in a specified ADR procedure, the court may—
+>
+> (*a*) adjourn the proceedings,
+>
+> (*b*) make an order extending the time for compliance by a party with rules of court or with any order of the court in the proceedings, or
+>
+> (*c*) make such other order or give such direction as the court considers necessary to facilitate the effective use of the specified ADR procedure.
+>
+> (3) An application by a party under *subsection (1)* shall be made by motion to the court on notice to all other parties to the proceedings and shall, unless the court otherwise orders, be grounded upon an affidavit sworn by or on behalf of the party.
+>
+> (4) The power conferred by *subsection (1)* is without prejudice to any other discretionary power which the court may exercise at any time during the course of proceedings with a view to facilitating the resolution of a dispute.]
+
+### 34N. Factors to be considered by court in awarding costs
+
+F49[**34N.**— ...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F49: Inserted by *Defamation (Amendment) Act 2026* (2/2026), s. 21, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C15: Prospective affecting provision: section inserted by *Defamation (Amendment) Act 2026* (2/2026), s. 21, not commenced as of date of revision.
+>
+> **34N.** In awarding costs in respect of proceedings in respect of which the court issued an invitation under *section 34M(1)(a)*, a court may, where it considers it just, have regard to—
+>
+> (*a*) any unreasonable refusal or failure by a party to the proceedings to consider using a specified ADR procedure, and
+>
+> (*b*) any unreasonable refusal or failure by a party to the proceedings to attend or engage in a specified ADR procedure.]
+
+## PART 5 Criminal Liability — PART 5 — Criminal Liability
+
+### 35. Abolition of certain common law offences.
+
+**35**.— The common law offences of defamatory libel, seditious libel and obscene libel are abolished.
+
+### 36. Publication or utterance of blasphemous matter.
+
+**36**.— F50[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F50: Repealed (17.01.2020) by *Blasphemy (Abolition of Offences and Related Matters) Act 2019* (43/2019), s. 4, S.I. No. 13 of 2020.
+
+### 37. Seizure of copies of blasphemous statements.
+
+**37**.— F51[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F51: Repealed (17.01.2020) by *Blasphemy (Abolition of Offences and Related Matters) Act 2019* (43/2019), s. 4, S.I. No. 13 of 2020.
+
+## PART 6 Miscellaneous — PART 6 — Miscellaneous
+
+### 38. Limitation of actions.
+
+**38**.— (1) Section 11 of the Act of 1957 is amended—
+
+(*a*) in subsection (2), by the substitution of the following paragraph for paragraph (*c*):
+
+“(*c*) A defamation action within the meaning of the *Defamation Act 2009* shall not be brought after the expiration of—
+
+(i) one year, or
+
+(ii) such longer period as the court may direct not exceeding 2 years,
+
+from the date on which the cause of action accrued.”,
+
+and
+
+(*b*) the insertion of the following subsections:
+
+“(3A) The court shall not give a direction under subsection (2)(*c*)(ii) (inserted by *section 38 (1) (a)* of the *Defamation Act 2009*) unless it is satisfied that—
+
+(*a*) the interests of justice require the giving of the direction,
+
+(*b*) the prejudice that the plaintiff would suffer if the direction were not given would significantly outweigh the prejudice that the defendant would suffer if the direction were given,
+
+and the court shall, in deciding whether to give such a direction, have regard to the reason for the failure to bring the action within the period specified in subparagraph (i) of the said subsection (2)(*c*) and the extent to which any evidence relevant to the matter is by virtue of the delay no longer capable of being adduced.
+
+(3B) For the purposes of bringing a defamation action within the meaning of the *Defamation Act 2009*, the date of accrual of the cause of action shall be the date upon which the defamatory statement is first published and, where the statement is published through the medium of the internet, the date on which it is first capable of being viewed or listened to through that medium.”.
+
+(2) Section 49 of the Act of 1957 is amended by the substitution of the following subsection for subsection (3):
+
+“(3) In the case of defamation actions within the meaning of the *Defamation Act 2009*, subsection (1) of this section shall have effect as if for the words ‘six years’ there were substituted the words ‘one year or such longer period as the court may direct not exceeding two years’.”.
+
+### 39. Survival of cause of action on death.
+
+**39**.— (1) Section 6 of the Civil Liability Act 1961 is amended by the insertion of the following definitions:
+
+“ ‘ Act of 2009 ’ means the *Defamation Act 2009*;
+
+‘ aggravated damages ’ has the same meaning as it has in the Act of 2009;
+
+‘ punitive damages ’ has the same meaning as it has in the Act of 2009.”.
+
+(2) Section 7 of the Civil Liability Act 1961 is amended by—
+
+(*a*) the insertion of the following subsection:
+
+“(1A) On the death of a person on or after the commencement of *section 39 (2) (a)* of the *Act of 2009*, a cause of action for defamation vested in him immediately before his death shall survive for the benefit of his estate.”,
+
+and
+
+(*b*) the insertion of the following subsection:
+
+“(2A) Where by virtue of subsection (1A) of this section, a cause of action for defamation survives for the benefit of the estate of a deceased person, the damages recoverable for the benefit of the estate of that person shall not include general damages, punitive damages or aggravated damages.”.
+
+(3) Section 8 of the Civil Liability Act 1961 is amended by—
+
+(*a*) the insertion of the following subsection:
+
+“(1A) On the death of a person on or after the commencement of *section 39 (3) (a)* of the *Act of 2009* a cause of action subsisting against him shall survive against his estate.”,
+
+(*b*) by the insertion of the following subsection:
+
+“(2A) Where by virtue of subsection (1A) of this section, a cause of action for defamation survives against the estate of a deceased person, the damages recoverable against the estate of that person shall not include general damages, punitive damages or aggravated damages.”.
+
+### 40. Agreements for indemnity.
+
+**40**.— An agreement to indemnify any person against civil liability for defamation in respect of the publication of any statement shall be lawful unless at the time of the publication that person knows that the statement is defamatory, and does not reasonably believe that there is a defence to any action brought upon it that would succeed.
+
+### 41. Jurisdiction of courts.
+
+**41**.— The Third Schedule to the Courts (Supplemental Provisions) Act 1961 is amended by—
+
+(*a*) the insertion, in column (2) at reference number 6, of “a defamation action within the meaning of the *Defamation Act 2009*,” between “other than” and “an action”, and
+
+(*b*) the insertion of the following:
+
+“
+
+| 7A | A defamation action under the *Defamation Act 2009*. | Where the amount of the claim does not exceed €50,000. | At the election of the plaintiff — ( *a*) the judge of the circuit where the tort is alleged to have been committed, or ( *b*) the judge of the circuit where the defendant or one of the defendants resides or carries on business. |
+|---|---|---|---|
+
+”.
+
+### 42. Malicious falsehood.
+
+**42**.— (1) In an action for slander of title, slander of goods or other malicious falsehood, the plaintiff shall be required to prove that the statement upon which the action is founded—
+
+(*a*) was untrue,
+
+(*b*) was published maliciously, and
+
+(*c*) referred to the plaintiff, his or her property or his or her office, profession, calling, trade or business.
+
+(2) In an action for slander of title, slander of goods or other malicious falsehood, the plaintiff shall be required to prove—
+
+(*a*) special damage, or
+
+(*b*) that the publication of the statement was calculated to cause and was likely to cause financial loss to the plaintiff in respect of his or her property or his or her office, profession, calling, trade or business.
+
+### 43. Evidence of acquittal or conviction.
+
+**43**.— (1) Where a person has been acquitted of an offence in the State, the fact of his or her acquittal, and any findings of fact made during the course of proceedings for the offence concerned, shall be admissible in evidence in a defamation action.
+
+(2) Where a person has been convicted of an offence in the State, the fact of his or her conviction, and any findings of fact made during the course of proceedings for the offence concerned, shall be admissible in evidence in a defamation action.
+
+### 44. Press Council.
+
+**44**.— (1) The Minister may by order declare that such body as is specified in the order shall be recognised for the purposes of this Act, and a body standing so recognised, for the time being, shall be known, and in this Act is referred to, as the “Press Council” .
+
+(2) Not more than one body shall stand recognised under this section for the time being.
+
+(3) No body (other than a body that stands recognised under this section for the time being) shall be known as, or describe itself as, the Press Council.
+
+(4) The Minister shall not make an order under *subsection (1)* unless he or she is satisfied that the body in respect of which he or she proposes to make the order complies with the minimum requirements specified in *Schedule 2*.
+
+(5) If the Minister is of the opinion that a body for the time being standing recognised by order under this section no longer complies with the provisions of *Schedule 2*, he or she may revoke that order.
+
+(6) The Minister shall, before making an order under *subsection (5)*, allow the body for the time being standing recognised under this section to make representations to him or her.
+
+(7) Whenever an order is proposed to be made under this section a draft of the order shall be laid before each House of the Oireachtas and the order shall not be made unless a resolution approving of the draft has been passed by each such House.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E2: Power pursuant to section exercised (21.04.2010) by *Defamation Act 2009 (Press Council) Order 2010* (S.I. No. 163 of 2020).
+
+### 45. Circuit Court identification order
+
+F52[**45.**— (1) The Circuit Court (in this section referred to as the "court") shall have jurisdiction to hear and determine an application in accordance with this section.
+
+(2) An application shall be made by an applicant—
+
+(*a*) in good faith, and
+
+(*b*) on notice to the relevant intermediary service provider concerned.
+
+(3) Upon an application, the court may, subject to *subsection (4)*, make an order (in this section referred to as an "identification order") requiring a relevant intermediary service provider to provide to the applicant such relevant information as the court may specify in the identification order where the court is satisfied that—
+
+(*a*) a statement was published, or caused to be published, on an information society service by means of an intermediary service provider by a person or entity (in this section referred to as an "anonymous publisher") whose identity is unknown to the applicant and whose identity is not readily ascertainable on the face of the statement or from other information available to the applicant on the information society service,
+
+(*b*) a claim by the applicant in any defamation proceedings against the anonymous publisher that the statement is defamatory is likely to succeed at trial,
+
+(*c*) the relevant information is necessary to enable the applicant to bring defamation proceedings against the anonymous publisher to whom the relevant information relates,
+
+(*d*) the relevant information is likely to be in the possession of the relevant intermediary service provider, and(e) the applicant has no other practicable means of obtaining the relevant information.
+
+(4) A court may—
+
+(*a*) make an identification order only where it considers that—
+
+(i) it is in the interests of justice to do so, and
+
+(ii) the interests favouring disclosure of relevant information outweigh those against,having regard to the rights and obligations of the applicant and those of the anonymous publisher and any third parties who are reasonably likely to be affected by the order, and
+
+(*b*) make the order subject to such conditions as it considers appropriate, which may include, in relation to the relevant information disclosed to the applicant by the relevant intermediary service provider in accordance with that order—
+
+(i) terms restricting the use of the relevant information so disclosed to the bringing of defamation proceedings against the anonymous publisher, and
+
+(ii) an undertaking by the applicant not to use the relevant information so disclosed other than to bring defamation proceedings against the anonymous publisher.
+
+(5) The court may, whether or not it has made an identification order and where it considers it appropriate to do so, order that an applicant pay any or all of the costs of the relevant intermediary service provider in relation to an application and the costs resulting from the making of any identification order.
+
+(6) In this section—
+
+"application" means an application under this section for an identification order;
+
+"defamation proceedings" means—
+
+(*a*) an application under *section 33* for an order to prevent the publication of an alleged defamatory statement,
+
+(*b*) a defamation action, or
+
+(*c*) a claim for other relief under this Act in respect of an alleged defamatory statement;
+
+"information society service" means a service normally provided—
+
+(*a*) for remuneration, whether such remuneration is provided directly by a recipient of services or indirectly through advertising or other means,
+
+(*b*) at a distance, that is to say, that the service is provided without the parties being simultaneously present,
+
+(*c*) by electronic means, that is to say, that the service is sent initially and received at its destination by means of electronic equipment for the processing (including digital compression) and storage of data, and entirely transmitted, conveyed and received by wire, by radio, by optical means or by other electromagnetic means, and
+
+(*d*) at the individual request of a recipient of services, that is to say, that the service is provided through the transmission of data on individual request;
+
+"intermediary service" means one of the following information society services:
+
+(*a*) a "mere conduit" service, consisting of the transmission in a communication network of information provided by a recipient of the service, or the provision of access to a communication network;
+
+(*b*) a "caching" service, consisting of the transmission in a communication network of information provided by a recipient of the service, involving the automatic, intermediate and temporary storage of that information, performed for the sole purpose of making more efficient the information’s onward transmission to other recipients upon their request;
+
+(*c*) a "hosting" service, consisting of the storage of information provided by, and at the request of, a recipient of the service;
+
+"intermediary service provider" means a provider of an intermediary service;
+
+"recipient of the service", in relation to an intermediary service, means any natural or legal person who uses an intermediary service, in particular for the purposes of seeking information or making it accessible;
+
+"relevant information", in relation to an anonymous publisher, means information as to the identity, address or other contact information of the anonymous publisher;
+
+"relevant intermediary service provider" means an intermediary service provider that provides the intermediary service by means of which a statement referred to in *subsection (3)(a)* is published, or caused to be published, by the anonymous publisher.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F52: Inserted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 22, S.I. No. 61 of 2026.
+>
+> **Editorial Notes:**
+>
+> E3: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+## SCHEDULE 1 Statements having Qualified Privilege — SCHEDULE 1 — Statements having Qualified Privilege
+
+### PART 1 — Statements Privileged Without Explanation or Contradiction
+
+1\. A fair and accurate report of any matter to which the defence of absolute privilege would apply (other than a fair and accurate report referred to in *section 17(2)(i)* or *(k)*).
+
+2\. F53[...]
+
+3\. A fair and accurate report of the proceedings (other than court proceedings) presided over by a judge of a court established under the law of Northern Ireland.
+
+4\. A fair and accurate report of any proceedings in public of a house of any legislature (including a subordinate or federal legislature) of any state other than the State.
+
+5\. A fair and accurate report of proceedings in public of any body duly appointed, in the State, on the authority of a Minister of the Government, the Government, the Oireachtas, either House of the Oireachtas or a court established by law in the State to conduct a public inquiry on a matter of public importance.
+
+6\. A fair and accurate report of proceedings in public of any body duly appointed, in Northern Ireland, on the authority of a person or body corresponding to a person or body referred to in *paragraph 5* to conduct a public inquiry on a matter of public importance.
+
+7\. A fair and accurate report of any proceedings in public of any body—
+
+(*a*) that is part of any legislature (including a subordinate or federal legislature) of any state (other than the State), or
+
+(*b*) duly appointed in a state other than the State, on the authority of a person or body corresponding to a person or body referred to in *paragraph 5*,
+
+to conduct a public inquiry on a matter of public importance.
+
+8\. A fair and accurate report of any proceedings in public of an international organisation of which the State or Government is a member or the proceedings of which are of interest to the State.
+
+9\. A fair and accurate report of any proceedings in public of any international conference to which the Government sends a representative or observer or at which governments of states (other than the State) are represented.
+
+10\. A fair and accurate copy or extract from any register kept in pursuance of any law which is open to inspection by the public or of any other document which is required by law to be open to inspection by the public.
+
+11\. A fair and accurate report, copy or summary of any notice or advertisement published by or on the authority of any court established by law in the State or F54[in a state or place other than the State], or any judge or officer of such a court.
+
+12\. A fair and accurate report or copy or summary of any notice or other document issued for the information of the public by or on behalf of any Department of State for which a Minister of the Government is responsible, local authority or the Commissioner of the Garda Síochána, or by or on behalf of a corresponding department, authority or officer F55[in a state or place other than the State].
+
+13\. A fair and accurate report or copy or summary of any notice or document issued by or on the authority of a committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas.
+
+F56[13A. A protected disclosure within the meaning of the Protected Disclosures Act 2014.]
+
+14\. A determination of the Press Ombudsman referred to in *paragraph 9(2)* of *Schedule 2*.
+
+15\. A determination of the Press Council referred to in *paragraph 9(4)* of *Schedule 2* or a report of the Press Council relating to the past performance of its functions.
+
+16\. Any statement published pursuant to, and in accordance with, a determination of the Press Ombudsman or the Press Council.
+
+17\. Any statement made during the investigation or hearing of a complaint by the Press Ombudsman in accordance with *Schedule 2* .
+
+18\. Any statement made during the hearing of an appeal from a determination of the Press Ombudsman in accordance with *Schedule 2* .
+
+19\. Any statement published by a person in accordance with a requirement under an Act of the Oireachtas whether or not that person is the author of the statement.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F53: Deleted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 23(1)(a)(i), S.I. No. 61 of 2026, subject to transitional provision subs. (2).
+>
+> F54, F55: Substituted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 23(1)(a)(ii), (iii), S.I. No. 61 of 2026, subject to transitional provision subs. (2).
+>
+> F56: Inserted (15.07.2014) by *Protected Disclosures Act 2014* (14/2014), s. 14(2), S.I. No. 327 of 2014.
+>
+> **Editorial Notes:**
+>
+> E4: Previous affecting provision: paras. 11, 12 amended (31.12.2020 at 11 p.m.) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 127(a)(i), (ii), S.I. No. 693 of 2020; substituted (1.03.2026) as per F-note above.
+
+### PART 2 — Statements Privileged Subject to Explanation or Contradiction
+
+1\. A fair and accurate report of the proceedings, findings or decisions of an association, or a committee or governing body of an association, whether incorporated or not F57[the State or in a state or place other than the State], relating to a member of the association or to a person subject, by contract or otherwise, to control by the association.
+
+2\. A fair and accurate report of the proceedings at any public meeting, held F58[the State or in a state or place other than the State], being a meeting held for a lawful purpose and for the discussion of any matter of public concern whether the admission to the meeting is general or restricted.
+
+3\. A fair and accurate report of the proceedings at a general meeting, whether F59[the State or in a state or place other than the State], of any company or association established by or under statute or incorporated by charter.
+
+4\. A fair and accurate report of the proceedings at any meeting or sitting of any local authority or the Health Service Executive, and any corresponding body F60[state or place other than the State].
+
+5\. A fair and accurate report of a press conference convened by or on behalf of a body to which this Part applies or the organisers of a public meeting within the meaning of *paragraph 2* to give an account to the public of the proceedings or meeting.
+
+6\. A fair and accurate report of a report to which the defence of qualified privilege would apply.
+
+7\. A copy or fair and accurate report or summary of any ruling, direction, report, investigation, statement (including any advice, admonition or censure given or administered by the Irish Takeover Panel under section 20 of the Irish Takeover Panel Act 1997) or notice made, given, prepared, published or served by the Irish Takeover Panel.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F57, F58, F59, F60: Substituted (1.03.2026) by *Defamation (Amendment) Act 2026* (2/2026), s. 23(1)(b)(i)-(iv), S.I. No. 61 of 2026, subject to transitional provision in subs. (2).
+>
+> **Editorial Notes:**
+>
+> E5: Previous affecting provision: paras. 1-4 amended (31.12.2020 at 11 p.m.) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 127(b)(i)-(iv), S.I. No. 693 of 2020; substituted (1.03.2026) as per F-note above.
+
+## SCHEDULE 2 — Minimum Requirements in Relation to Press Council
+
+1\. The Press Council shall be a company limited by guarantee.
+
+2\. The principal objects of the Press Council shall be to—
+
+(*a*) ensure the protection of freedom of expression of the press,
+
+(*b*) protect the public interest by ensuring ethical, accurate and truthful reporting by the press,
+
+(*c*) maintain certain minimum ethical and professional standards among the press,
+
+(*d*) ensure that the privacy and dignity of the individual is protected.
+
+3\. The Press Council shall be independent in the performance of its functions.
+
+4\. The owner of any periodical in circulation in the State or part of the State shall be entitled to be a member of the Press Council.
+
+5\. (1) The number of directors of the Press Council shall be 13, of whom—
+
+(*a*) 7 shall be directors (in this Schedule referred to as “independent public interest directors”) who represent the public interest,
+
+(*b*) 5 shall be directors who represent the interests of owners and publishers of periodicals,
+
+(*c*) one shall be a director who represents the interests of journalists.
+
+(2) One of the independent public interest directors of the Press Council shall be appointed as chairperson of the Press Council.
+
+6\. (1) The independent public interest directors shall—
+
+(*a*) be persons who are of standing in the community,
+
+(*b*) be persons who are independent of—
+
+(i) the interests of owners and publishers of periodicals, and
+
+(ii) the interests of journalists,
+
+and
+
+(*c*) be selected for appointment as independent public interest directors—
+
+(i) by a panel of persons who are, in the opinion of the Minister, independent of the interests referred to in *paragraph 5(1) (b)* and *(c)*,
+
+(ii) in accordance with a selection process that is advertised to members of the public in a manner that the Minister considers to be sufficient.
+
+(2) The criteria for selecting persons for appointment as independent public interest directors shall be published in such manner as will enable them to be inspected by members of the public.
+
+7\. (1) The Press Council shall be funded from subscriptions paid by members of the Press Council calculated in accordance with such rules as the Press Council shall make for that purpose.
+
+(2) The Press Council shall not accept gifts or funding from any person other than subscriptions referred to in *subparagraph (1)*.
+
+8\. (1) The Press Council shall have authority to receive, hear and determine complaints concerning the conduct of its members.
+
+(2) The Press Council shall appoint a person (in this Act referred to as the “ Press Ombudsman ”) to investigate, hear and determine complaints made to the Press Council concerning the conduct of its members.
+
+9\. (1) The procedures for investigating, hearing and determining a complaint to the Press Ombudsman shall—
+
+(*a*) where appropriate, provide for the expeditious and informal resolution of the matter between the complainant and the member of the Press Council in respect of whom the complaint was made,
+
+(*b*) provide for the determination of the matter by the Press Ombudsman, where all reasonable efforts made in accordance with *clause (a)* in relation to the matter have failed,
+
+(*c*) provide for the taking of remedial action by the member of the Press Council in respect of whom the complaint was made consisting of any or all of the following:
+
+(i) the publication of the decision of the Press Ombudsman by such members of the Press Council as he or she directs and in such form and manner as he or she directs;
+
+(ii) the publication of a correction of inaccurate facts or information relating to the complainant in a manner that gives due prominence to the correction in the publication concerned;
+
+(iii) the publication of a retraction in respect of the material complained of; or
+
+(iv) such other action as the Ombudsman may, in the circumstances, deem appropriate.
+
+(2) A determination of the Press Ombudsman in relation to a complaint may be appealed to the Press Council.
+
+(3) Where an appeal is brought against the determination of the Press Ombudsman it shall be determined by the directors of the Press Council.
+
+(4) A determination of the Press Council, upon an appeal from a determination of the Press Ombudsman, shall be published by such members of the Press Council as the directors of the Press Council direct and in such form and manner as they direct.
+
+10\. The Press Council shall adopt a code of standards which shall specify the standards to be adhered to, and the rules and practices to be complied with by the members of the Press Council including—
+
+(*a*) ethical standards and practices,
+
+(*b*) rules and standards intended to ensure the accuracy of reporting where a person’s reputation is likely to be affected, and
+
+(*c*) rules and standards intended to ensure that intimidation and harassment of persons does not occur and that the privacy, integrity and dignity of the person is respected.
+
+[^1]: OJ L, 2024/1069, 16.4.2024.

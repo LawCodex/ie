@@ -1,0 +1,797 @@
+---
+title: "Carer's Leave Act, 2001"
+identifier: "eli/2001/act/19"
+type: act
+jurisdiction: ie
+language: en
+number: 19
+year: 2001
+date: 2001-07-02
+last_amended: 2020-10-14
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2001/act/19/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2001/act/19/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Carer's Leave Act, 2001
+
+AN ACT TO PROVIDE FOR THE TEMPORARY ABSENCE FROM EMPLOYMENT OF EMPLOYEES FOR THE PURPOSE OF THE PROVISION OF FULL-TIME CARE AND ATTENTION TO A PERSON REQUIRING IT, TO PROTECT THE EMPLOYMENT RIGHTS OF THOSE EMPLOYEES DURING SUCH ABSENCE, AND FOR THAT PURPOSE TO AMEND CERTAIN ENACTMENTS AND TO PROVIDE FOR RELATED MATTERS. [2*nd July*, 2001]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred and references construed (14.10.2020) by *Disability, Equality, Human Rights, Integration and Reception (Transfer of Departmental Administration and Ministerial Functions) Order 2020* (S.I. No. 436 of 2020), arts. 2, 3(1)(a), (3) and sch., in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> Note change of name of Department and title of Minister to Department of and Minister for Children, Equality, Disability, Integration and Youth made (15.10.2020) by *Children and Youth Affairs (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 437 of 2020), in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Children and Youth Affairs.
+>
+> (2) References to the Department of Justice and Equality contained in any Act or instrument made under such Act and relating to any administration and business transferred by paragraph (1) of this Article shall, on and after the commencement of this Order, be construed as references to the Department of Children and Youth Affairs.
+>
+> 3\. (1) The functions vested in the Minister for Justice and Equality -
+>
+> (a) by or under the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Children and Youth Affairs.
+>
+> ...
+>
+> (3) References to the Minister for Justice and Equality contained in any Act or instrument made under such Act, and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for Children and Youth Affairs.
+>
+> SCHEDULE 1
+>
+> Article 3(1)(a)
+>
+> Enactments, functions by or under which are transferred from the Minister for Justice and Equality to the Minister for Children and Youth Affairs
+>
+> ...
+>
+> Carer’s Leave Act 2001 (No. 19 of 2001)
+>
+> ...
+>
+> C2: Certain functions under Act transferred (1.01.2005) by *Health Act 2004* (42/2004), ss. 58, 59(1)-(3) and sch. 3 item 57, S.I. No. 887 of 2004 and S.I. No. 885 of 2004 (establishment day).
+>
+> **Dissolution of health boards and other specified bodies.**
+>
+> **58.**—The specified bodies are, by this Act, dissolved on the establishment day.
+>
+> **Transfer of functions of specified bodies to Executive.**
+>
+> **59.**—(1) The functions that, immediately before the establishment day, were the functions of a specified body under or in connection with the enactments referred to in Schedule 3 are, by this Act, transferred to the Executive on that day.
+>
+> (2) If a provision of an enactment referred to in Schedule 3, or a provision of an instrument made under such enactment, does not come into effect until on or after the establishment day, a function that on the passing of that enactment or the making of that instrument was assigned under or in connection with that provision to a specified body is, by this Act, transferred to the Executive on the commencement of that provision.
+>
+> (3) The functions transferred by this Act to the Executive include the functions specified in any enactment referred to in Schedule 3 as a function of the following:
+>
+> (a) the chief executive officer of a health board;
+>
+> (b) the Regional Chief Executive of the Eastern Regional Health Authority;
+>
+> (c) the area chief executive of an Area Health Board.
+>
+> ...
+>
+> SCHEDULE 3
+>
+> Transfer of Functions and References to Functional Areas
+>
+> Section 59 and 67 .
+>
+> ...
+>
+> 57\. Carer’s Leave Act 2001
+>
+> ...
+>
+> C3: Act applied with modifications (20.12.2001) by *Protection of Employees (Part-Time Work) Act 2001* (45/2001), ss. 3(1), 8, S.I. No. 636 of 2001.
+>
+> **Interpretation (generally).**
+>
+> **3.**—(1) In this Act, unless the context otherwise requires— ...
+>
+> “relevant enactment” means—
+>
+> (a) the Carer’s Leave Act, 2001,
+>
+> ...
+>
+> **Application of relevant enactments.**
+>
+> **8.**—Each relevant enactment shall apply to a part-time employee in the same manner, and subject to the like exceptions not inconsistent with this section, as it applies, other than by virtue of this Act, to an employee to whom that enactment relates.
+>
+> **Editorial Notes:**
+>
+> E1: Act included in definitions of “employment enactment” and “relevant enactment” (1.08.2015) by *Workplace Relations Act 2015* (16/2015), s. 2 and sch. 1 part 2 item 1, S.I. No. 338 of 2015, with the following effects:
+>
+> • Authorised officers or inspectors under employment enactments deemed to be appointed under *Workplace Relations Act 2015* (16/2015), s. 26(2) and subject to termination under s. 26(4).
+>
+> • Powers of inspectors for purposes of relevant enactments defined in *Workplace Relations Act 2015* (16/2015), s. 27.
+>
+> • Workplace Relations Commission, an inspector or an adjudication officer authorised to disclose employer’s registered number or employee’s PPSN to enable Labour Court to perform functions under relevant enactments by *Workplace Relations Act 2015* (16/2015) s. 31(5).
+>
+> • Power of Workplace Relations Commission and official body to disclose information to each other concerning the commission of offence under relevant enactment provided by *Workplace Relations Act 2015* (16/2015), s. 32.
+>
+> • Power of Workplace Relations Commission and contracting authority to disclose information to each other concerning the commission of offence under employment enactment/ relevant enactment provided by *Workplace Relations Act 2015* (16/2015), s. 33.
+>
+> • Powers of Minister to prosecute under relevant enactments transferred to Workplace Relations Commission and references construed by *Workplace Relations Act 2015* (16/2015), s. 37.
+>
+> • Functions of EAT to hear claims under employment enactments transferred to Workplace Relations Commission and references to EAT construed by *Workplace Relations Act 2015* (16/2015) s. 66(1), (2), not commenced as of date of revision.
+
+## PART 1Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title.
+
+**1.**—This Act may be cited as the Carer’s Leave Act, 2001.
+
+### 2. Interpretation.
+
+**2.**—(1) In this Act, unless the context otherwise requires—
+
+“Act of 1967” means the Redundancy Payments Act, 1967;
+
+“Act of 1977” means the Unfair Dismissals Act, 1977;
+
+“Act of 1993” means the Social Welfare (Consolidation) Act, 1993;
+
+“Act of 2000” means the Social Welfare Act, 2000;
+
+“appeals officer” has the meaning assigned to it by the Act of 1993;
+
+“associated employer” shall be construed in accordance with *subsection (2)*;
+
+“carer’s leave” shall be construed in accordance with *section 6*;
+
+“confirmation document” has the meaning assigned to it by *section 10*;
+
+“continuous employment” shall be construed in accordance with *section 7(6)*;
+
+“contract of employment” means—
+
+(*a*) a contract of service or apprenticeship, and
+
+(*b*) any other contract whereby an individual agrees with another person, who is carrying on the business of an employment agency, within the meaning of the Employment Agency Act, 1971, and is acting in the course of that business, to do or perform personally any work or service for a third person (whether or not that third person is a party to the contract),
+
+whether the contract is express or implied and, if express, whether it is oral or in writing;
+
+“deciding officer” has the meaning assigned to it by the Act of 1993;
+
+“dispute” shall be construed in accordance with *section 17*;
+
+“employee” means a person of any age, who has entered into or works under (or, where the employment has ceased, entered into or worked under) a contract of employment and references, in relation to an employer, to an employee shall be construed as references to an employee employed by that employer; and for the purposes of this Act, a person holding office under, or in the service of, the State (including a civil servant within the meaning of the Civil Service Regulation Act, 1956) shall be deemed to be an employee employed by the State or Government, as the case may be, and an officer or servant of a local authority for the purposes of the F1[Local Government Act 2001 (as amended by the Local Government Reform Act 2014)], or of a harbour authority F2[or health board, or a member of staff of an education and training board] shall be deemed to be an employee employed by the authority F2[or board], as the case may be;
+
+“employer” means, in relation to an employee—
+
+(*a*) the person with whom the employee has entered into or for whom the employee works under (or, where the employment has ceased, entered into or worked under) a contract of employment, subject to the qualification that the person who under a contract of employment referred to in *paragraph (b)* of the definition of “contract of employment” is liable to pay the wages of the individual concerned in respect of the work or service concerned shall be deemed to be the individual’s employer, and
+
+(*b*) includes, where appropriate, the successor of the employer or an associated employer of the employer;
+
+“full-time care and attention” shall be construed in accordance with section 82A (inserted by the Act of 2000) of Chapter 11A of Part II of the Act of 1993;
+
+F3[‘Minister’ means the Minister for Justice and Equality;]
+
+“prescribed” means prescribed by regulations made by the Minister under this Act;
+
+“relevant person” has the meaning assigned to it by section 82A(1) (inserted by the Act of 2000) of Chapter 11A of Part II of the Act of 1993;
+
+“successor” has the meaning assigned to it by *section 14(1)(a)*;
+
+“Tribunal” means the Employment Appeals Tribunal.
+
+(2) For the purposes of this Act, 2 employers shall be taken to be associated if one is a body corporate of which the other (whether directly or indirectly) has control or if both are bodies corporate of which a third person (whether directly or indirectly) has control and “associated employer” shall be construed accordingly.
+
+(3) In this Act—
+
+(*a*) a reference to a Part or section is a reference to a Part or section of this Act, unless it is indicated that a reference to some other enactment is intended,
+
+(*b*) a reference to a subsection or paragraph is a reference to the subsection or paragraph of the provision in which the reference occurs, unless it is indicated that a reference to some other provision is intended, and
+
+(*c*) a reference to any enactment shall, unless the context otherwise requires, be construed as a reference to that enactment as amended or adapted by or under any subsequent enactment.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Substituted (1.06.2014) by *Local Government Reform Act 2014* (1/2014), s. 5(8) and sch. 2 part 6, S.I. No. 214 of 2014.
+>
+> F2: Substituted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72 and sch. 6 item 35, S.I. No. 211 of 2013.
+>
+> F3: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 ref. 14, S.I. No. 410 of 2015, subject to transitional provisions in subs. (3).
+>
+> **Modifications (not altering text):**
+>
+> C4: Prospective affecting provision: functions transferred and Employment Appeals Tribunal construed by *Workplace Relations Act 2015* (16/2015), s. 66, not commenced as of date of revision.
+>
+> **Transfer of functions from Employment Appeals Tribunal**
+>
+> 66.(1) (a) All functions that, immediately before the dissolution day, were vested in the Employment Appeals Tribunal are transferred to the Commission in so far as they relate to any claim for redress, dispute or complaint determined by the Employment Appeals Tribunal under an employment enactment before that day.
+>
+> (b) All functions that, immediately before the dissolution day, were vested in the Employment Appeals Tribunal are transferred to the Labour Court in so far as they relate to appeals determined by the Employment Appeals Tribunal under an employment enactment before that day.
+>
+> (2) (a) References in any enactment or instrument under an enactment to the Employment Appeals Tribunal in so far as they relate to a function transferred by paragraph (a) of subsection (1) shall be construed as references to the Commission.
+>
+> (b) References in any enactment or instrument under an enactment to the Employment Appeals Tribunal in so far as they relate to a function transferred by paragraph (b) of subsection (1) shall be construed as references to the Labour Court.
+>
+> (3) This section shall come into operation on the dissolution day.
+>
+> C5: Functions transferred and references construed (14.10.2020) by *Disability, Equality, Human Rights, Integration and Reception (Transfer of Departmental Administration and Ministerial Functions) Order 2020* (S.I. No. 436 of 2020), arts. 2, 3(1)(a), (3) and sch., in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> Note change of name of Department and title of Minister to Department of and Minister for Children, Equality, Disability, Integration and Youth made (15.10.2020) by *Children and Youth Affairs (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 437 of 2020), in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Children and Youth Affairs.
+>
+> (2) References to the Department of Justice and Equality contained in any Act or instrument made under such Act and relating to any administration and business transferred by paragraph (1) of this Article shall, on and after the commencement of this Order, be construed as references to the Department of Children and Youth Affairs.
+>
+> 3\. (1) The functions vested in the Minister for Justice and Equality -
+>
+> (a) by or under the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Children and Youth Affairs.
+>
+> ...
+>
+> (3) References to the Minister for Justice and Equality contained in any Act or instrument made under such Act, and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for Children and Youth Affairs.
+>
+> SCHEDULE 1
+>
+> Article 3(1)(a)
+>
+> Enactments, functions by or under which are transferred from the Minister for Justice and Equality to the Minister for Children and Youth Affairs
+>
+> ...
+>
+> Carer’s Leave Act 2001 (No. 19 of 2001)
+>
+> ...
+
+### 3. Regulations.
+
+**3.**—(1) The Minister may—
+
+(*a*) by regulations, provide for any matter referred to in this Act as prescribed or to be prescribed, and
+
+(*b*) make regulations generally for the purpose of giving effect to this Act.
+
+(2) Before making regulations under this Act, the Minister shall consult with the Minister for Social, Community and Family Affairs, any other Minister of the Government with whom, in his or her opinion, it is appropriate to consult and persons whom the Minister considers to be representative of employers and employees having regard to the regulations so made.
+
+(3) Regulations under this Act may contain such consequential, supplementary and ancillary provisions as the Minister considers necessary or expedient.
+
+(4) Every regulation under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next 21 days on which the House has sat after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+### 4. Voidance or modification of certain provisions in agreements.
+
+**4.**—(1) A provision in any agreement shall be void in so far as it purports to exclude or limit the application of any provision of this Act or is inconsistent with any provision of this Act.
+
+(2) A provision in any agreement which is or becomes less favourable in relation to an employee than a similar or corresponding entitlement conferred on the employee by this Act shall be deemed to be so modified as to be not less favourable.
+
+(3) Nothing in this Act shall be construed as prohibiting the inclusion in an agreement of a provision more favourable to an employee than any provision in *Parts 2* to *5*.
+
+(4) References in this section to an agreement are to any agreement, whether a contract of employment or not and whether made before or after the passing of this Act.
+
+### 5. Expenses.
+
+**5.**—Any expenses incurred by the Minister in the administration of this Act, shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of monies provided by the Oireachtas.
+
+## PART 2Carers Leave — PART 2 — Carer’s Leave
+
+### 6. Entitlement to carer’s leave.
+
+**6.**—(1) Subject to this Act, an employee who has been employed for a period of 12 months continuous employment by the employer from whose employment the carer’s leave is proposed to be taken shall be entitled to leave from the employment concerned (to be known and referred to in this Act as “carer’s leave”) for the purpose of providing full-time care and attention to a relevant person for a period not exceeding F4[104 weeks] for each relevant person if—
+
+(*a*) the person in respect of whom the employee proposes to provide full-time care and attention is a relevant person,
+
+(*b*) the employee provides the employer concerned with a decision referred to in *subsection (5)*, or, where appropriate, *subsection (6)*,
+
+(*c*) during the period of carer’s leave the employee provides full-time care and attention to the relevant person, and
+
+(*d*) during the period of carer’s leave the employee does not engage in employment or self-employment other than employment or self-employment prescribed under section 82B(3) (inserted by the Act of 2000) of Chapter 11A of Part II of the Act of 1993.
+
+(2) An employee shall give the employer a copy of the decision referred to in *subsection (1)(b)* as soon as he or she receives it and the employee shall not be entitled to carer’s leave until the employer has been given the copy.
+
+(3) An employee shall not be entitled to carer’s leave for the purpose of providing full-time care and attention to a relevant person during the same period in which another employee is absent from employment on carer’s leave for the purpose of providing full-time care and attention to the same relevant person.
+
+(4) An employee shall, subject to *section 7(2)*, be entitled to a period of carer’s leave for one relevant person at any one time.
+
+(5) An employee who proposes to avail of carer’s leave shall apply to the Minister for Social, Community and Family Affairs for a decision by a deciding officer under the Act of 1993 that the person in respect of whom the employee proposes to avail of carer’s leave in order to provide full-time care and attention is a relevant person for the purposes of Chapter 11A (inserted by the Act of 2000) of Part II of the Act of 1993.
+
+(6) A decision of a deciding officer under *subsection (5)* may be appealed under section 257 of the Act of 1993.
+
+(7) For the avoidance of doubt it is declared that entitlement to carer’s benefit under Chapter 11A (inserted by the Act of 2000) of Part II of the Act of 1993 is not a condition for entitlement to carer’s leave.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F4: Substituted (24.03.2006) by *Social Welfare Law Reform and Pensions Act 2006* (5/2006), s. 48 and sch. 9, commenced on enactment.
+
+### 7. Supplemental provisions to section 6.
+
+**7.**—(1) An employee shall, as soon as is practicable, notify his or her employer of any change in circumstances which affect the entitlement to carer’s leave.
+
+(2) Notwithstanding *sections 6(4), 8(4)* and *9(1)* and subject to *subsections (4)* and *(5)*, an employee may, while on carer’s leave in respect of a relevant person, apply for carer’s leave for another person if that person resides with the relevant person.
+
+(3) An employee who wishes to apply for carer’s leave for another person in the circumstances referred to in *subsection (2)* shall apply for carer’s leave under *section 6*.
+
+(4) Where an application referred to in *subsection (3)* is made and an employee who is on carer’s leave in respect of a relevant person takes carer’s leave in respect of a second relevant person—
+
+(*a*) the period of carer’s leave for the first-mentioned relevant person shall not exceed F5[104 weeks] from its commencement, and
+
+(*b*) the period of carer’s leave for the second-mentioned relevant person shall commence on the date of the decision under *section 6(5)* or *section 6(6)* and shall not exceed F5[104 weeks] from its commencement,
+
+and the total amount of weeks for such carer’s leave shall not exceed F5[208 weeks].
+
+(5) An employee who is on carer’s leave in respect of a relevant person and who takes carer’s leave in respect of a second relevant person shall not make another application for carer’s leave in the circumstances referred to in *subsection (2)*.
+
+(6) The First Schedule to the Minimum Notice and Terms of Employment Act, 1973, shall apply for the purpose of ascertaining the period of service of an employee and whether that service has been continuous.
+
+(7) Regulations made under section 82B(3) (inserted by the Act of 2000) of Chapter 11A of Part II of the Act of 1993 shall apply to this Act with any necessary modifications.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F5: Substituted (24.03.2006) by *Social Welfare Law Reform and Pensions Act 2006* (5/2006), s. 48 and sch. 9, commenced on enactment.
+
+### 8. Manner in which carer’s leave may be taken.
+
+**8.**—(1) The period of carer’s leave from employment to which an employee is entitled shall not exceed F6[104 weeks] for each relevant person and may, subject to *subsections (2)* and (*3*) and any regulations made under *subsection (6)*, be taken in the form of—
+
+(*a*) one continuous period of F6[104 weeks] for each relevant person, or
+
+(*b*) a number of periods, the aggregate duration of which does not exceed a total of F6[104 weeks] from the date of the commencement of the carer’s leave.
+
+(2) An employer may refuse, on reasonable grounds, to permit an employee to take a period of carer’s leave which is less than 13 weeks duration and where the employer so refuses he or she shall specify in writing to the employee the grounds for such refusal.
+
+(3) An employee who has taken a period of carer’s leave in accordance with *subsection (1)(b)* in respect of a relevant person, shall not be entitled to commence a further period of carer’s leave in respect of the same relevant person, until a period of 6 weeks has elapsed since the termination of the previous period of carer’s leave.
+
+(4) Where an employee has taken carer’s leave in respect of a relevant person and that period of carer’s leave has terminated the employee shall not commence carer’s leave in respect of another relevant person until a period of 6 months has elapsed since the termination of the previous period of carer’s leave.
+
+(5) Nothing in this Act shall be construed as prohibiting an agreement between an employer and employee in respect of carer’s leave on terms which are more favourable to the employee than the entitlements of the employee under this Act.
+
+(6) The Minister may make regulations in respect of the form in which carer’s leave may be taken by any specified class or classes of employees in circumstances where carer’s leave is to be taken in the form referred to in *subsection (1)(b)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F6: Substituted (24.03.2006) by *Social Welfare Law Reform and Pensions Act 2006* (5/2006), s. 48 and sch. 9, commenced on enactment.
+
+### 9. Notice of carer’s leave.
+
+**9.**—(1) When an employee proposes to take carer’s leave, the employee shall, not later than 6 weeks before the proposed commencement of the carer’s leave, provide the employer with a notice in writing stating—
+
+(*a*) the proposal to take the carer’s leave,
+
+(*b*) that an application referred to in *section 6(5)* or, where appropriate, *section 6(6)*, has been made, and
+
+(*c*) the proposed date of commencement of the carer’s leave and the form in which it is proposed to be taken.
+
+(2) Where, in exceptional or emergency circumstances, it is not reasonably practicable to give notice in accordance with the period specified in *subsection (1)* the employee shall give that notice as soon as is reasonably practicable.
+
+(3) An employee may revoke a notice of the proposal to take carer’s leave given to the employer in accordance with *subsection (1)* or, where appropriate, *subsection (2)*, by notice in writing given to the employer before the date of the confirmation document and where the notice of the proposal to take carer’s leave is so revoked the employee shall not be entitled to take carer’s leave at the time specified in the notice given in accordance with *subsection (1)* or, where appropriate, *subsection (2)*.
+
+(4) Notwithstanding *subsection (1)* where leave, purporting to be carer’s leave, is taken by an employee who is entitled to carer’s leave but who has not complied with *subsection (1)* or *(2)*, the employer may, at his or her discretion and subject to *subsection (8)*, treat that leave as carer’s leave and this Act shall apply to that leave accordingly.
+
+(5) An employer shall retain the documents given to him or her in accordance with *subsection (1)*.
+
+(6) An employee who is on carer’s leave shall, not less than 4 weeks before the date on which that employee is due to return to his or her employment, give notice in writing to the employer of the intention to return to work.
+
+(7) *Subsection (6)* shall not apply if the period of carer’s leave is terminated in accordance with *section 11(2)*.
+
+(8) An employer may, when exercising his or her discretion under *subsection (4)*, refuse to treat leave as carer’s leave on reasonable grounds and where the employer so refuses he or she shall specify in writing the grounds for such refusal.
+
+### 10. Confirmation of carer’s leave.
+
+**10.**—(1) Where an employee has given his or her employer the decision referred to in *section 6(1)(b)*, the employee and the employer shall, on a date that is not less than 2 weeks before the proposed commencement of the carer’s leave concerned, prepare and sign a document (referred to in this Act as a “confirmation document”) specifying the date of the commencement of the carer’s leave, its duration and the form in which it will be taken.
+
+(2) *Subsection (1)* shall apply to the taking of carer’s leave in accordance with *section 9(4)* and the employee and the employer shall prepare and sign the confirmation document as soon as may be.
+
+(3) An employer shall retain a confirmation document signed by him or her and shall give a copy of it to the employee concerned who shall retain it.
+
+(4) A confirmation document, including any amendments to it made under *section 12(1)*, shall be a notice for the purposes of *section 31*.
+
+### 11. Termination of carer’s leave.
+
+**11.**—(1) The period of carer’s leave shall terminate—
+
+(*a*) on the date of termination of the period of carer’s leave specified in the confirmation document,
+
+(*b*) on a date agreed between the employee and employer concerned,
+
+(*c*) where the person in respect of whom the employee has taken carer’s leave ceases to satisfy the conditions for a relevant person for the purposes of the Act,
+
+(*d*) where the employee ceases to satisfy the conditions for the provision of full-time care and attention for the purposes of the Act,
+
+(*e*) where a decision under *subsection (2)* is made, on the date specified in *subsection (3)*, and
+
+(*f*) where the relevant person dies during a period of carer’s leave on the date earliest of the following dates—
+
+(i) the date that is 6 weeks after the date of death, or
+
+(ii) the date of termination of the period specified in the confirmation document.
+
+(2) Where a deciding officer or an appeals officer makes a decision under *section 18(4)* or *section 18(5)* that—
+
+(*a*) the person in respect of whom an employee proposed to take or has taken carer’s leave did not or does not satisfy or no longer satisfies the requirements for a relevant person,
+
+(*b*) the employee does not satisfy the conditions for providing full-time care and attention, or
+
+(*c*) the employee is engaging or has engaged in employment or self-employment other than as prescribed under section 82B(3) (inserted by the Act of 2000) of Chapter 11A of Part II of the Act of 1993,
+
+the period of carer’s leave shall terminate and the deciding officer or the appeals officer shall, as soon as practicable, notify the employer and the employee of that decision.
+
+(3) The employer, following a notification referred to in *subsection (2)*, shall, as soon as practicable, give the employee a notice in writing specifying the date on which the employee is to return to his or her employment and that date shall be a date that is reasonable and practicable having regard to all the circumstances.
+
+(4) Where carer’s leave is terminated under *subsection (2)*, the employee concerned shall return to his or her employment on the day specified in the notice under *subsection (3)* and any period between the date of the return to the employment and the date of the end of the period of the carer’s leave that is specified in the confirmation document concerned, shall be deemed not to be carer’s leave.
+
+(5) An employer shall, when the employee returns to his or her employment, give a notice in writing to the Minister for Social, Community and Family Affairs that the period of carer’s leave has terminated, the employee has returned to work and the date of the return to employment.
+
+(6) A person shall retain a notice under this section given to him or her and a copy of a notice under this section given by him or her.
+
+(7) Notwithstanding *section 24*, the giving of a notice to an employee under this section shall be effected by delivering it to the employee or by sending a copy of it by prepaid registered letter in an envelope addressed to the employee at the last known residence of the employee or, where appropriate, the residence of the relevant person.
+
+### 12. Postponement, curtailment and variation of carer’s leave by parties concerned.
+
+**12.**—(1) If, after the date of the confirmation document (whether or not the period of carer’s leave to which it relates has commenced) the employer and the employee so agree—
+
+(*a*) the carer’s leave or part of it may be postponed to such time as may be so agreed between the parties,
+
+(*b*) the period of carer’s leave may be curtailed in a manner and to an extent as may be so agreed between the parties, or
+
+(*c*) the form of the carer’s leave may be varied in a manner as may be so agreed between the parties,
+
+and the confirmation document shall be amended in accordance with such agreement.
+
+(2) Where carer’s leave is postponed, curtailed or varied the period of carer’s leave that is not taken by reason of such postponement, curtailment or variation may, subject to *section 6*, be taken at another time.
+
+## PART 3Employment Rights — PART 3 — Employment Rights
+
+### 13. Protection of employment rights.
+
+**13.**—(1) An employee who is absent from work on carer’s leave shall be regarded as still working in the employment for all purposes relating to his or her employment and none of his or her rights or obligations related to the employment shall be affected by availing of carer’s leave other than—
+
+(*a*) the right to—
+
+(i) remuneration,
+
+(ii) annual leave, except as provided for in *subsection (2)*,
+
+(iii) public holidays, except as provided for in *subsection (3)*, and
+
+(iv) superannuation benefits,
+
+and
+
+(*b*) any obligation to pay contributions in, or in respect of, the employment.
+
+(2) Section 19 of the Organisation of Working Time Act, 1997, shall apply to the first 13 weeks of absence from work on carer’s leave for each relevant person.
+
+(3) Section 21(1) of the Organisation of Working Time Act, 1997, shall apply to the first 13 weeks of absence from work on carer’s leave for each relevant person and shall not apply to public holidays that occur after such period of absence from work.
+
+(4) Absence from employment while on carer’s leave shall not be treated as part of any other leave from the employment (including sick leave, annual leave, adoptive leave, maternity leave, parental leave and *force majeure* leave) to which the employee concerned is entitled.
+
+(5) Where—
+
+(*a*) an employee who is on probation in his or her employment or is undergoing training in relation to that employment or is employed under a contract of apprenticeship takes carer’s leave, and
+
+(*b*) his or her employer considers that the employee’s absence from employment while on carer’s leave would not be consistent with the continuance of the probation, training or apprenticeship,
+
+the employer may require that the probation, training or apprenticeship be suspended during the period of the carer’s leave and be completed by the employee at the end of that period.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E2: Compliance notice procedure in respect of subs. (2) provided (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 28(17) and sch. 4, S.I. No. 410 of 2015.
+
+### 14. Return to work.
+
+**14.**—(1) On the termination of carer’s leave in accordance with this Act, the employee concerned shall be entitled to return to work—
+
+(*a*) with the employer with whom he or she was working immediately before the start of the period or, where during the employee’s absence from work there was or were a change or changes of ownership of the undertaking in which the employee was employed immediately before the absence, the owner on the expiration of the period (“the successor”),
+
+(*b*) in the job that the employee held immediately before the commencement of the period, and
+
+(*c*) under the contract of employment in respect of which the employee was employed immediately before the commencement of the period or, where a change of ownership such as is referred to in *paragraph (a)* has occurred, under a contract of employment with the successor, that is identical to the contract under which the employee was employed immediately before such commencement, and (in either case) under terms or conditions not less favourable to the employee than those that would have been applicable to him or her if he or she had not been so absent from work.
+
+(2) For the purposes of *subsection (1)(b)*, where the job held by an employee immediately before the commencement of a period of carer’s leave to which he or she is entitled was not the employee’s normal or usual job, the employee shall be entitled to return to work, either in that job or in his or her normal or usual job as soon as is practicable without contravention by the employee or the employer of any provision of a statute or provision made under statute.
+
+(3) Where, because of an interruption or cessation of work at an employee’s place of employment that exists at the time of the expiration of a period of carer’s leave taken by the employee, it is unreasonable to expect the employee to return to work on such expiration, the employee may return to work instead when work resumes at the place of employment after the interruption or cessation, or as soon as reasonably practicable after such resumption.
+
+### 15. Right to alternative employment.
+
+**15.**—(1) Where an employee is entitled to return to work pursuant to *section 14* but it is not reasonably practicable for the employer to permit the employee to return to work in accordance with that section, the employee shall be entitled to be offered by his or her employer suitable alternative employment under a new contract of employment.
+
+(2) Work under a new contract of employment constitutes suitable alternative work for the purposes of this Act if—
+
+(*a*) it is of a kind that is suitable in relation to the employee concerned and appropriate for the employee to do in the circumstances.
+
+(*b*) the terms or conditions of the contract relating to the place where the work under it is required to be done, the capacity in which the employee concerned is to be employed and any other terms or conditions of employment are not substantially less favourable to the employee than those of his or her contract of employment immediately before the commencement of the period of absence from work while on carer’s leave, and
+
+(*c*) the continuity of service is preserved.
+
+### 16. Protection of employees from penalisation.
+
+**16.**—(1) An employer shall not penalise an employee for proposing to exercise or having exercised his or her entitlement to carer’s leave.
+
+(2) Penalisation of an employee includes—
+
+(*a*) dismissal of the employee.
+
+(*b*) unfair treatment of the employee, including selection for redundancy, and
+
+(*c*) an unfavourable change in the conditions of employment of the employee.
+
+(3) If a penalisation of an employee, in contravention of *subsection (1)*, constitutes a dismissal of the employee, as referred to in *subsection (2)(a)* the employee may institute proceedings under the Unfair Dismissals Acts, 1977 to 1993, in respect of that dismissal and such dismissal may not be referred to a rights commissioner under *Part 4*.
+
+(4) An employee who is entitled to return to work in the employment concerned in accordance with *section 14* but is not permitted by his or her employer to do so—
+
+(*a*) shall be deemed to have been dismissed on the date on which he or she was entitled to so return to work and the dismissal shall be deemed, for the purposes of the Unfair Dismissals Acts, 1977 to 1993, to have been an unfair dismissal unless, having regard to all the circumstances, there were substantial grounds justifying the dismissal, and
+
+(*b*) shall be deemed for the purposes of the Redundancy Payments Acts, 1967 to 1991, to have had his or her contract of employment with his or her employer terminated on the date aforesaid.
+
+## PART 4Resolution of Disputes — PART 4 — Resolution of Disputes
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E3: Redress and appeal procedures for dispute about entitlements under Act (other than a dispute to which s. 17(1)(a), (b) or (c) applies) provided (1.10.2015) by *Workplace Relations Act 2015* (16/2015), ss. 41, 44, sch. 5 part 3 item 5 and sch. 6 part 1 item 14, S.I. No. 410 of 2015.
+
+### 17. Disputes.
+
+**17.**—(1) This Part F7[...] does not apply to a dispute relating to—
+
+(*a*) any matter arising out of *section 6(5)* and *6(6)*,
+
+(*b*) any matter arising out of paragraphs *(a), (c)* and *(d)* of *section 6(1)*, and
+
+(*c*) any matter arising out of *section 18*.
+
+(2) Where, in a dispute, there is a decision of a deciding officer or an appeals officer that concerns a matter specified in *paragraph (a), (b)* or *(c)* of *subsection (1)*, F8[an adjudication officer within the meaning of the Workplace Relations Act 2015 or the Labour Court, as may be appropriate,] shall accept that decision as a final determination of that matter.
+
+(3) A document purporting to be a decision of a deciding officer or an appeals officer and signed by that officer shall be sufficient evidence of the making of the decision and of its terms, without proof of the signature of that officer or of the official capacity of that officer.
+
+(4) This Part does not apply to a member of the Defence Forces.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F7: Deleted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 ref. 14, S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> F8: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 ref. 14, S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> **Editorial Notes:**
+>
+> E4: Six month time limit for referral of disputes imposed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 41(7)(b), S.I. No. 410 of 2015, subject to exception in subs. (8).
+
+### 18. Reference by employer to Minister for Social, Community and Family Affairs on certain issues.
+
+**18.**—(1) An employer who is of the opinion that—
+
+(*a*) the person in respect of whom the employee proposes to take carer’s leave is not or is no longer a relevant person, or
+
+(*b*) the person in respect of whom carer’s leave has been granted, and in respect of whom the employee is on carer’s leave, is not or is no longer a relevant person,
+
+shall notify the Minister for Social, Community and Family Affairs of his or her opinion and the grounds for that opinion.
+
+(2) An employer who is of the opinion that an employee who proposes to take, or is on, carer’s leave does not satisfy the conditions for providing full-time care and attention to the relevant person shall notify the Minister for Social, Community and Family Affairs of his or her opinion and the grounds for such opinion.
+
+(3) An employer who is of the opinion that an employee who proposes to take, or is on, carer’s leave is engaging or has engaged in employment or self-employment other than as prescribed under section 82B(3) (inserted by the Act of 2000) of Chapter 11A of Part II of the Act of 1993 shall notify the Minister for Social, Community and Family Affairs of his or her opinion and the grounds for such opinion.
+
+(4) On receipt of a notification under *subsection (1), (2)* or *(3)*, the notification shall be referred to a deciding officer for a decision under the Act of 1993 as to whether—
+
+(*a*) the person referred to in *subsection (1)* is a relevant person,
+
+(*b*) the employee satisfies the conditions for providing full-time care and attention to the relevant person, or
+
+(*c*) the employee is engaging or has engaged in employment or self-employment other than as prescribed under section 82B(3) (inserted by the Act of 2000) of Chapter 11A of Part II of the Act of 1993.
+
+for the purposes of Chapter 11A (inserted by the Act of 2000) of Part II of the Act of 1993.
+
+(5) A decision of a deciding officer under *subsection (4)* may be appealed under section 257 of the Act of 1993.
+
+### 19. Reference of disputes to rights commissioner.
+
+**19.** F9[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F9: Repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 part 1 ref. 13, S.I. No. 410 of 2015.
+
+### 20. Appeal from decision of rights commissioner.
+
+**20.** F10[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F10: Repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 part 1 ref. 13, S.I. No. 410 of 2015.
+
+### 21. Decision under section 41 or 44 of Workplace Relations Act 2015.
+
+F11[**21.** (1) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a dispute to which this Part applies between an employee and an employer concerning the employee’s entitlements under this Act may include—
+
+(a) a grant of carer’s leave to the employee of such length to be taken at such time or times and in such manner as the adjudication officer may specify,
+
+(b) an award of compensation (in favour of the employee concerned to be paid by the employer concerned) of such amount, not exceeding 26 weeks’ remuneration in respect of the employee’s employment calculated in such manner as may be prescribed, as the adjudication officer considers just and equitable having regard to all of the circumstances, or
+
+(c) both such grant and such award.
+
+(2) A decision of the Labour Court under section 44 of the Workplace Relations Act 2015 on appeal from a decision of an adjudication officer referred to in subsection (1) may include—
+
+(a) a grant of carer’s leave to the employee of such length to be taken at such time or times and in such manner as the Labour Court may specify,
+
+(b) an award of compensation (in favour of the employee concerned to be paid by the employer concerned) of such amount, not exceeding 26 weeks’ remuneration in respect of the employee’s employment calculated in such manner as may be prescribed, as the Labour Court considers just and equitable having regard to all of the circumstances, or
+
+(c) both such grant and such award.
+
+(3) Where appropriate, the confirmation document concerned shall be amended by the parties concerned so as to accord with a decision referred to in subsection (1) or (2).
+
+(4) In this section ‘remuneration’ includes allowances in the nature of pay and benefits in lieu of or in addition to pay.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F11: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 ref. 14, S.I. No. 410 of 2015, subject to transitional provision in subs. (3).
+
+### 22. Enforcement of decisions and determinations.
+
+**22.** F12[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F12: Repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 part 1 ref. 13, S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+### 23. Appeal to High Court on point of law.
+
+**23.** F13[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 part 1 ref. 13, S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+## PART 5Miscellaneous — PART 5 — Miscellaneous
+
+### 24. Service of notices.
+
+**24.**—(1) A notice or other document under *Part 4* shall be, subject to *subsection (2)*, addressed to the person concerned by name, and may be served on or given to the person in one of the following ways—
+
+(*a*) by delivering it to the person,
+
+(*b*) by leaving it at the address at which the person ordinarily resides or, in a case in which an address for service has been furnished, at that address.
+
+(*c*) by sending it by post in a prepaid registered letter to the address at which the person ordinarily resides, or in a case in which an address for service has been furnished, to that address.
+
+(2) For the purposes of this section, a company, within the meaning of the Companies Acts, 1963 to 1999, shall be deemed to be ordinarily resident at its registered office, and every other body corporate and every unincorporated body shall be deemed to be ordinarily resident at its principal office or place of business.
+
+### 25. Winding up and bankruptcy.
+
+**25.** F14[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F14: Repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 part 1 ref. 13, S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+### 26. Amendment of Act of 1967.
+
+**26.**—The Act of 1967 is amended in Schedule 3 by the substitution in paragraph 5(1) for clause (*d*) (inserted by the Parental Leave Act, 1998) of the following clause:
+
+“(*d*) a period during which the employee is absent from work while on protective leave, natal care absence within the meaning of Part IV of the Maternity Protection Act, 1994, parental leave, *force majeure* leave or carer’s leave under the *Carer’s Leave Act, 2001*.”.
+
+### 27. Amendment of Act of 1977.
+
+**27.**—(1) Section 2(2) of the Act of 1977 is amended by the insertion in paragraph (*d*) (inserted by the Adoptive Leave Act, 1995) after “the adopting parent” of:
+
+“, or
+
+(*e*) dismissal where the employer at the commencement of the employment informs the employee in writing that the employment will terminate on the return to work with that employer of an employee who is absent from work while on carer’s leave under the *Carer’s Leave Act, 2001,* and the dismissal of the employee duly occurs for the purpose of facilitating the return to work of the employee who has been on carer’s leave.”.
+
+(2) Section 6 of the Act of 1977 is amended—
+
+(*a*) by the substitution in subsection (2) for paragraph (*dd*) (inserted by the Parental Leave Act, 1998) of the following paragraph:
+
+“(*dd*) the exercise or proposed exercise by the employee of the right to parental leave, *force majeure* leave under and in accordance with the Parental Leave Act, 1998, or carer’s leave under and in accordance with the *Carer’s Leave Act, 2001*,”,
+
+and
+
+(*b*) by the insertion, after subsection (2B) (inserted by the Parental Leave Act, 1998), of the following subsection:
+
+“(2C) Sections 3 and 4 do not apply to a case falling within subsection (2)(*dd*) and, for the purpose of that paragraph, ‘employee’ includes a person who would otherwise be excluded from this Act by paragraph (*a*), (*b*), (*c*), (*d*), (*e*), (*f*), (*g*), (*h*), (*i*) or (*j*) of section 2(1).”.
+
+### 28. Amendment of Organisation of Working Time Act, 1997.
+
+**28.**—The Organisation of Working Time Act, 1997, is amended—
+
+(*a*) in section 15, by the substitution in subsection (4), for paragraph (*aa*) (inserted by the Parental Leave Act, 1998) of the following paragraph:
+
+“(*aa*) any period during which the employee was absent from work while on parental leave, *force majeure* leave or carer’s leave within the meaning of the *Carer’s Leave Act, 2001*,”,
+
+and
+
+(*b*) in section 16, by the substitution in subsection (5), for paragraph (*cc*) (inserted by the Parental Leave Act, 1998) of the following paragraph:
+
+“(*cc*) any period during which the employee was absent from work while on parental leave, *force majeure* leave or carer’s leave within the meaning of the *Carer’s Leave Act, 2001*.”.
+
+### 29. Amendment of National Minimum Wage Act, 2000.
+
+**29.**—The National Minimum Wage Act, 2000, is amended in section 8(2) by the substitution for subparagraph (ii) of the following subparagraph:
+
+“(ii) time spent absent from work on annual leave, sick leave, protective leave, adoptive leave, parental leave, carer’s leave under the *Carer’s Leave Act, 2001*, while laid-off, on strike or on ‘lock-out’, or time for which the employee is paid in lieu of notice, or”.
+
+### 30. Extension of Protection of Employees (Employers’ Insolvency) Act, 1984.
+
+**30.**—Section 6 of the Protection of Employees (Employers’ Insolvency) Act, 1984, is amended—
+
+(*a*) in subsection (2)(*a*)(v) (as amended by the Parental Leave Act, 1998) by the substitution for clause (II) of the following clause:
+
+“(II) a decision, determination or order under Part V of the Maternity Protection Act, 1994, Part IV of the Parental Leave Act, 1998, or Part 4 of the *Carer’s Leave Act, 2001*,”,
+
+and
+
+(*b*) in subsection (4)(*c*) by—
+
+(i) the substitution for subparagraph (iv) (other than clauses (I) and (II) (as amended by the Parental Leave Act, 1998) of the following subparagraph:
+
+“(iv) a payment shall not be made under this section in respect of an amount to which a decision under Part V of the Maternity Protection Act, 1994, Part IV of the Parental Leave Act, 1998, or Part 4 of the *Carer’s Leave Act, 2001*, relates unless—”,
+
+and
+
+(ii) the substitution for subparagraph (v) (other than clauses (I) and (II) (as amended by the Parental Leave Act, 1998) of the following subparagraph:
+
+“(v) a payment shall not be made under this section in respect of an amount to which a determination under Part V of the Maternity Protection Act, 1994, Part IV of the Parental Leave Act, 1998, or Part 4 of the *Carer’s Leave Act, 2001*, relates unless—”.
+
+### 31. Maintenance of records.
+
+**31.**—(1) An employer shall make a record of the carer’s leave taken by his or her employees indicating the period of employment for each employee and the dates and times in respect of which each employee was on carer’s leave.
+
+(2) A record made under this section shall be retained by the employer concerned for a period of 8 years and, if the Minister prescribes the form of such records, the records shall be kept in the prescribed form.
+
+(3) Notices, or copies of notices, required to be retained under this Act by a person shall be retained by that person for a period of 3 years.
+
+(4) An employer who contravenes *subsection (1)* or *(2)* shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding €3,000 (£2,362.69).
+
+### 32. Inspectors.
+
+**32.** F15[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F15: Repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 part 1 ref. 13, S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+### 33. Penalties, proceedings, etc.
+
+**33.**—(1) A person guilty of an offence under this Act shall be liable on summary conviction to a fine not exceeding €3,000 (£2,362.69).
+
+(2) Where an offence under this Act is committed by a body corporate and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a person being a director, manager, secretory or other officer of that body corporate, or a person who was purporting to act in that capacity, that person shall also be guilty of an offence and be liable to be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
+
+(3) Proceedings for an offence under *sections 31* and *32* may be brought and prosecuted by the Minister.
+
+(4) Notwithstanding section 10(4) of the Petty Sessions (Ireland) Act, 1851, proceedings for an offence under this Act may be instituted within 12 months from the date of the offence.
+
+### 34. Review of Act.
+
+**34.**—The Minister shall, not earlier than 2 years and not later than 3 years after the commencement of this Act, after consultation with persons whom he or she considers to be representative of employers generally and persons whom he or she considers to be representative of employees generally, conduct a review of the operation of this Act and shall prepare a report in writing of the findings of the review and shall cause copies of the report to be laid before each House of the Oireachtas.

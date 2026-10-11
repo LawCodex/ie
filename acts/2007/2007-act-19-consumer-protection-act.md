@@ -1,0 +1,4526 @@
+---
+title: "Consumer Protection Act 2007"
+identifier: "eli/2007/act/19"
+type: act
+jurisdiction: ie
+language: en
+number: 19
+year: 2007
+date: 2007-04-21
+last_amended: 2025-11-24
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2007/act/19/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2007/act/19/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Consumer Protection Act 2007
+
+AN ACT TO GIVE EFFECT TO THE UNFAIR COMMERCIAL PRACTICES DIRECTIVE (DIRECTIVE NO. 2005/29/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL OF 11 MAY 2005), TO ESTABLISH A BODY TO BE KNOWN AS AN GHNÍOMHAIREACHT NÁISIÚNTA TOMHALTÓIRÍ OR, IN THE ENGLISH LANGUAGE, THE NATIONAL CONSUMER AGENCY AND TO DEFINE ITS FUNCTIONS, TO MAKE NEW PROVISION IN RELATION TO PYRAMID SELLING SCHEMES, TO AMEND THE INDUSTRIAL DEVELOPMENT ACT 1993 AND TO PROVIDE FOR RELATED MATTERS.
+
+[21*st April*, 2007]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 19 of 2007</td><td>Consumer Protection Act 2007</td><td>Sections 7(2), 23(2), 24, 27 and 85(7)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> C2: Application of Act extended by *Central Bank Act 1942* (22/1942), subss. 5A(4) to (9), as substituted (1.10.2010) by *Central Bank Reform Act 2010* (23/2010), s. 14(1) and sch. 1 part 1 item 21, S.I. No. 469 of 2010.
+>
+> **General functions and powers of the Bank.**
+>
+> **5A.**— ...
+>
+> (4) The functions of the Agency specified in subsection (5) are, in so far as they relate to a financial service provided by a regulated financial service provider, also functions of the Bank and subsections (6) to (8) have effect for the purposes of this subsection.
+>
+> (5) The functions of the Agency referred to in subsection (4) are the following functions of it under the Consumer Protection Act 2007, namely, functions under—
+>
+> (*a*) subsections (1), (4), (5) and (6) of section 8 of that Act in relation to—
+>
+> (i) sections 41 to 49 and 51 to 56 of that Act, and
+>
+> (ii) the European Communities (Unfair Terms in Consumer Contracts) Regulations 1995 and 2000 (S.I. No. 27 of 1995 and S.I. No. 307 of 2000),
+>
+> and
+>
+> (*b*) sections 30, 71, 72, 73, 75, 81, 82, 84, 86, 88 and 90 of that Act.
+>
+> (6) Subsection (4) operates to vest in the Bank, concurrently with the vesting in the Agency of those functions by the Consumer Protection Act 2007, the functions specified in subsection (5).
+>
+> (7) Accordingly—
+>
+> (*a*) the functions so specified are, subject to any relevant co-operation agreement entered into under section 21 of the Consumer Protection Act 2007, capable of being performed by either the Agency or the Bank, and
+>
+> (*b*) subject to subsection (9), references to the Agency in the provisions of that Act specified in subsection (5) are to be read as including references to the Bank and those provisions otherwise apply.
+>
+> (8) Subject to subsection (9), sections 80, 85 and 87 of the Consumer Protection Act 2007 apply to the Bank as they apply to the Agency and, accordingly, references to the Agency in those sections are to be read as including references to the Bank.
+>
+> (9) Where any section of the Consumer Protection Act 2007 specified in subsection (5) or (8) provides for anything to be done in relation to the Agency (whether the giving of notice to it, the submitting of a thing to it or the doing of any other thing) then, if a co-operation agreement entered into under section 21 of that Act so specifies, it is sufficient compliance with the section concerned if the thing is done in relation to the Agency or the Bank as is specified in that agreement.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E1: Note consumer protection provisions (21.03.2016) in *European Union (Consumer Mortgage Credit Agreements) Regulations 2016* (S.I. No. 142 of 2016), in effect as per reg. 2.
+>
+> E2: Power of National Consumer Agency to inspect and examine licence records for purposes of assisting with investigations into commercial practices connected with motor vehicles under Act prescribed (29.10.2013) by *Finance Act 1993 (Section 60) Regulations 2013* (S.I. No. 414 of 2013), reg. 2 and sch.
+>
+> E3: Note consumer protection provisions (15.03.2013) in *European Union (Requirements for Credit Transfers and Direct Debits in Euro) Regulations 2013* (S.I. No. 132 of 2013), in effect as per reg. 1(2), as amended (26.04.2016) by *European Union (Requirements for Credit Transfers and Direct Debits in Euro) (Amendment) Regulations 2016* (S.I. No. 204 of 2016).
+>
+> E4: Act included in definition of “designated enactments” for purposes of *Central Bank Act 1942* (22/1942) by *Central Bank Act 1942* (22/1942), s. 2(1) and sch. 2 part 1 item 33, as substituted (1.10.2010) by *Central Bank Reform Act 2010* (23/2010), s. 14(1) and sch. 1 part 1 items 6 and 82, S.I. No. 469 of 2010.
+>
+> E5: National Consumer Agency designated as the competent authority under Article 4(1) of Regulation (EC) No. 2006/2004 of the European Parliament of the Council of 27 October 2004 on cooperation between national authorities responsible for the enforcement of consumer protection laws, as amended, for the enforcement of certain laws that protect consumers’ interests under Act by *European Communities (Cooperation between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2006* (S.I. No. 290 of 2006), reg. 4 and sch. items 6 and 16; as amended (1.08.2008) by *European Communities (Cooperation between National Authorities Responsible for the Enforcement of Consumer Protection Laws) (Amendment) Regulations 2008* (S.I. No. 316 of 2008), reg. 3(b) and (16.11.2012) by *European Communities (Cooperation between National Authorities Responsible for the Enforcement of Consumer Protection Laws) (Amendment) Regulations 2012* (S.I. No. 485 of 2012), reg. 3(c)(iv).
+
+## PART 1 Preliminary Matters — PART 1 — Preliminary Matters
+
+### 1. Short title and commencement.
+
+**1**.— (1) This Act may be cited as the Consumer Protection Act 2007.
+
+(2) This Act shall come into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or different provisions, including the application of *section 4* to different enactments specified in *Schedule 2* and to different provisions of those enactments.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E6: Power pursuant to section exercised (1.05.2007) by *Consumer Protection Act 2007 (Commencement) Order 2007* (S.I. No. 178 of 2007).
+>
+> 2\. The 1st day of May 2007 is appointed as the day on which the provisions of the Consumer Protection Act 2007 (No. 19 of 2007), other than sections 48 and 49, come into operation.
+
+### 2. Interpretation and application.
+
+**2**.— (1) In this Act—
+
+F1["Act of 2022" means the Consumer Rights Act 2022;]
+
+“advertisement” includes any form of advertising or marketing;
+
+“Agency” means the National Consumer Agency established by *section 7*;
+
+F8["authorised officer"—
+
+(*a*) in relation to the functions performed by the Competition and Consumer Protection Commission under this Act, has the same meaning as it has in the Competition and Consumer Protection Act 2014, and
+
+(*b*) in relation to the functions performed by the Commission for Communications Regulation under this Act, has the same meaning as it has in section 39 of the Communications Regulation Act 2002;]
+
+“chief executive” means the chief executive officer of the Agency;
+
+“code of practice” means any code, agreement or set of rules or standards that is not imposed by or under an enactment but purports to govern or define commercial practices of one or more traders (whether generally or in respect of a particular trade, business or professional sector or one or more commercial practices) who agree, commit or undertake to abide or be bound by such rules or standards;
+
+“commercial practice” means any conduct (whether an act or omission), course of conduct or representation by the trader in relation to a consumer transaction, including any such conduct or representation made or engaged in before, during or after the consumer transaction;
+
+F10["consumer" means a natural person (whether in the State or not) who is acting wholly or mainly for purposes unrelated to the person’s trade, business or profession;]
+
+“consumer transaction” means a promotion or supply of a product to a consumer;
+
+“contravene”, in relation to a provision, includes fail to comply with the provision;
+
+F2["digital content" has the same meaning as it has in the Act of 2022;]
+
+F3["digital service" has the same meaning as it has in the Act of 2022;]
+
+“Directive” means Directive No. 2005/29/EC of the European Parliament and of the Council of 11 May 2005[^1] concerning unfair business-to-consumer commercial practices in the internal market and amending Council Directive 84/450/EEC, Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council and Regulation (EC) No. 2006/2004 of the European Parliament and of the Council;
+
+“Director” means the Director of Consumer Affairs;
+
+F4["distance contract" has the same meaning as it has in Part 5 of the Act of 2022;]
+
+“enactment” means an Act (within the meaning of the Interpretation Act 2005) or any instrument made under a power conferred by an Act (within that meaning);
+
+“establishment day” means the establishment day appointed under *section 6* ;
+
+“existing enactments” means the following enactments, to the extent to which those enactments confer functions on the Director which are transferred to the Agency pursuant to *section 37:*
+
+(*a*) food legislation, within the meaning of the Food Safety Authority of Ireland Act 1998;
+
+(*b*) the enactments specified in *Part 1* of *Schedule 1* and any instruments made under those enactments for the time being in force; and
+
+(*c*) the regulations made under the European Communities Act 1972 for the time being in force specified in *Part 2* of *Schedule 1*;
+
+“financial year” means a period of 12 months ending on 31 December in any year and, in the case of the first financial year of the Agency, means the period commencing on the establishment day and ending on 31 December in the year in which the establishment day falls;
+
+“goods” means real or personal property of any nature or description, and includes—
+
+(*a*) ships, aircraft or other vehicles,
+
+(*b*) animals,
+
+(*c*) minerals, trees or crops, whether on, under or attached to land or not,
+
+(*d*) gas, electricity or water,
+
+F10[*(e)* computer software, including content stored in a digital format or content stored electronically in a format which is not digital,]
+
+(*f*) tickets or like evidence of a right to be in attendance at a particular place at a particular time or times or a right of transportation,
+
+(*g*) any voucher, coupon or other document or thing intended to be used as a substitute for money in the payment, in whole or in part, for a product or otherwise exchanged for a product, and
+
+(*h*) any description of interest (present or future, vested or contingent) or obligation arising out of or incidental to goods;
+
+“goods or services” means goods or services or both;
+
+“invitation to purchase” means a representation by the trader in a consumer transaction that—
+
+(*a*) indicates characteristics of the product and includes its price, and
+
+(*b*) enables the consumer to purchase the product;
+
+“Minister” means the Minister for Enterprise, Trade and Employment;
+
+F5["online marketplace" means a service using software, including a website, part of a website or an application, operated by or on behalf of a trader which allows consumers to conclude distance contracts with other traders or consumers;]
+
+F6["ranking" means the relative prominence given to products, as presented, organised or communicated by the trader, irrespective of the technological means used for such presentation, organisation or communication;]
+
+“prescribed” means prescribed by regulations made by the Minister;
+
+F9["product" means any goods or services including immovable property, a digital service and digital content, as well as rights and obligations;]
+
+“public body” means—
+
+(*a*) a board, authority or other body, other than a company under the Companies Acts, established by or under statute;
+
+(*b*) a company under the Companies Acts in which all the shares are held—
+
+(i) by or on behalf of a Minister of the Government, or
+
+(ii) by directors appointed by a Minister of the Government;
+
+(*c*) a company under the Companies Acts in which all the shares are held by a board, authority or body referred to in *paragraph (a)* or by a company referred to in *paragraph (b)*;
+
+“purchase” means to buy, obtain or acquire by any method and includes accept, receive, be vested with, lease, take possession, control or occupation of, and agree to do any of those things (but does not include expropriate);
+
+“relevant State” means a state that is a contracting State to the EEA Agreement within the meaning of the European Communities (Amendment) Act 1993;
+
+F11["relevant statutory instruments" means the statutory instruments for the time being in force specified in *Schedule 9*;]
+
+“relevant statutory provisions” means—
+
+(*a*) existing enactments,
+
+F11[*(aa)* relevant statutory instruments,]
+
+(*b*) the Merchandise Marks Act 1970 and any instruments made under that Act for the time being in force,
+
+(*c*) certain provisions of the Prices Act 1958 referred to in *section 92* and the enactments specified in *subsection (1)(a)* to *(e)* of that section to the extent to which they remain in force for the purposes of this Act,
+
+F12[(*d*) the enactments specified in *subsection (1)(a)* to *(c)* of *section 93*,
+
+F13[(*e*) this Act and any instrument made under this Act for the time being in force,]]
+
+F14[(*f*) the European Communities (Names and Labelling of Textile Products) Regulations 2010 (S.I. No. 485 of 2010),
+
+(*g*) the European Communities (Safety of Toys) Regulations 2011,
+
+(*h*) the European Union (Protection of Consumers in respect of Timeshare, Long-term Holiday Product, Resale and Exchange Contracts) Regulations 2011,
+
+(*i*) the European Union (Textile Fibre Names and Related Labelling and Marking of the Fibre Composition of Textile Products) Regulations 2012,
+
+(*j*) the European Union (Requirements for Credit Transfers and Direct Debits in Euro) Regulations 2013 (S.I. No. 132 of 2013),
+
+(*k*) F16[...]
+
+(*l*) F17[...]]
+
+F19[(*m*) the European Union (Interchange Fees for Card-based Payment Transactions) Regulations 2015 (S.I. No. 550 of 2015) F20[, F18[...]]]
+
+F21[(*n*) the following provisions of the European Union (Payment Services) Regulations 2018 (No. 6 of 2018):
+
+(i) paragraphs (2), (5) and (6) of Regulation 33, and
+
+(ii) paragraph (6) of Regulation 86, to the extent that that paragraph applies as respects a case where—
+
+(I) the payee (within the meaning of those Regulations) is a trader that is not a regulated financial service provider (within the meaning of the Central Bank Act 1942), and
+
+(II) the payer (within the meaning of those Regulations) is a consumer;]
+
+F7[, and
+
+(*o*) the Act of 2022.]
+
+“representation” includes—
+
+(*a*) any oral, written, visual, descriptive or other representation by a trader, including any commercial communication, marketing or advertising, and
+
+(*b*) any term or form of a contract, notice or other document used or relied on by a trader in connection with a consumer transaction;
+
+“services” means any service or facility provided for gain or reward or otherwise than free of charge, including, without limitation—
+
+(*a*) services or facilities for—
+
+(i) banking, insurance, grants, loans, credit or financing,
+
+(ii) amusement, cultural activities, entertainment, instruction, recreation or refreshment,
+
+(iii) accommodation, transport, travel, parking or storage, or
+
+(iv) the care of persons, animals or things,
+
+(*b*) membership in a club or organisation or any service or facility provided by the club or organisation, and
+
+(*c*) any rights, benefits, privileges, obligations or facilities that are, or are to be provided, granted or conferred in the course of services,
+
+but does not include services provided under a contract of employment;
+
+“supply”, in relation to the supply of goods or services to a consumer, includes—
+
+(*a*) sell, lease, take by way of mortgage or other security, assign, award by chance or otherwise effect a disposition of,
+
+(*b*) offer or agree to supply or expose or display for supply;
+
+“trader” means—
+
+(*a*) a person who is acting for purposes related to the person’s trade, business or profession, and
+
+(*b*) a person acting on behalf of a person referred to in *paragraph (a)*;
+
+F10["transactional decision" means, in relation to a consumer transaction, whether or not that transaction is completed, any decision by the consumer concerning whether, how or on what terms to do, or refrain from doing, any of the following:
+
+*(a)* purchase the product;
+
+*(b)* make payment in whole or in part for the product;
+
+*(c)* retain or return the product after its purchase;
+
+*(d)* dispose of the product;
+
+*(e)* exercise a contractual right in relation to the product;]
+
+“voluntary body” means—
+
+(*a*) a body corporate, or
+
+(*b*) an unincorporated body of persons,
+
+other than a public body.
+
+(2) In this Act, “the average consumer” has the meaning assigned to it in the Directive, and when applied in relation to a particular commercial practice or product of a trader—
+
+(*a*) if the commercial practice or product is directed at a particular group of consumers, the expression shall be read as “the average member of that group”, and
+
+(*b*) if the commercial practice or the product is a practice or product that would be likely to materially distort the economic behaviour only of a clearly identifiable group of consumers whom the trader could reasonably be expected to foresee as being particularly vulnerable because of their mental or physical infirmity, age or credulity, the expression shall be read as “the average member of that vulnerable group”.
+
+(3) A word or expression that is used in this Act and is also used in the Directive shall have in this Act the same meaning as it has in the Directive.
+
+(4) A court shall construe this Act in a manner that gives effect to the Directive, and for this purpose the court shall have regard to the provisions of the Directive, including its preambles.
+
+(5) Notwithstanding Article 3(10) of the Directive but subject to sections 5 to 6A (inserted by *section 99*) of the Hallmarking Act 1981, *Part 3* applies to commercial practices relating to indications of the standard of fineness of articles of precious metal.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1, F2, F3, F4, F5, F6, F7: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 152(c)(iii), (d), S.I. No. 596 of 2022.
+>
+> F8, F9: Substituted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 152(a), (b), S.I. No. 596 of 2022.
+>
+> F10: Substituted (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 75(b), (c), S.I. No. 366 of 2014.
+>
+> F11: Inserted (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 75(d), (e)(i)(iii), S.I. No. 366 of 2014.
+>
+> F12: Substituted and inserted (27.09.2010) by *European Communities (Names and Labelling of Textile Products) Regulations 2010* (S.I. No. 485 of 2010), reg. 18(3).
+>
+> F13: Substituted and inserted (20.07.2011) by *European Communities (Safety of Toys) Regulations 2011* (S.I. No. 14 of 2011), reg. 5, in effect as per reg. 1(2).
+>
+> F14: Substituted (26.04.2016) by *European Union (Requirements for Credit Transfers and Direct Debits in Euro) (Amendment) Regulations 2016* (S.I. No. 204 of 2016), reg. 8.
+>
+> F15: Substituted (7.06.20190 by *European Union (Payment Services) (Amendment) Regulations 2019* (S.I. No. 255 of 2019), reg. 3(a)(ii).
+>
+> F16, F17, F18: Deleted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 152(c)(i), (ii), S.I. No. 596 of 2022.
+>
+> F19: Inserted (9.06.2016) by *European Union (Interchange Fees for Card-based Payment Transactions) (Amendment) Regulations 2016* (S.I. No. 292 of 2016), reg. 5, in effect as per reg. 1(2).
+>
+> F20: Substituted (7.06.2019) by *European Union (Payment Services) (Amendment) Regulations 2019* (S.I. No. 255 of 2019), reg. 3(a)(i), (ii).
+>
+> F21: Inserted (7.06.2019) by *European Union (Payment Services) (Amendment) Regulations 2019* (S.I. No. 255 of 2019), reg. 3(a)(iii).
+>
+> **Modifications (not altering text):**
+>
+> C3: Functions transferred (31.10.2014) and references to “the National Consumer Agency” and “chief executive of the National Consumer Agency” construed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 39(1), (2), (3), S.I. No. 366 of 2014 and S.I. No. 367 of 2014 (establishment day).
+>
+> **Transfer of functions to Commission**
+>
+> **39.** — (1) All functions that, immediately before the establishment day, were vested in the dissolved bodies are transferred to the Commission.
+>
+> (2) References in any Act of the Oireachtas passed before the establishment day or in any instrument made before that day under an Act of the Oireachtas to—
+>
+> (*a*) the National Consumer Agency, or
+>
+> (*b*) the Competition Authority,
+>
+> shall, on and after that day, be construed as references to the Commission.
+>
+> (3) A reference in any Act of the Oireachtas passed before the establishment day or in any instrument made before that day under an Act of the Oireachtas to the chief executive of the National Consumer Agency shall, on and after that day, be construed as a reference to the chairperson of the Commission.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E7: Previous affecting provision: definition of "relevant statutory provisions", para. (l) amended (7.06.20190 by *European Union (Payment Services) (Amendment) Regulations 2019* (S.I. No. 255 of 2019), reg. 3(a)(i); paragraph deleted as per F-note above.
+>
+> E8: Previous affecting provision: definition of "relevant statutory provisions", paras. (k), (l) amended (9.06.2016) by *European Union (Interchange Fees for Card-based Payment Transactions) (Amendment) Regulations 2016* (S.I. No. 292 of 2016), reg. 5(a), (b), in effect as per reg. 1(2); paragraphs deleted as per F-note above.
+>
+> E9: Previous affecting provision: subs. (1), definition of "authorised officer" substituted (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 75(a), (b), (c), (e)(i), (f), S.I. No. 366 of 2014; further substituted as per F-note above.
+>
+> E10: Previous affecting provision: par. (e) substituted and par. (f) inserted in definition of “relevant statutory provisions” (27.09.2010) by *European Communities (Names and Labelling of Textile Products) Regulations 2010* (S.I. No. 485 of 2010), reg. 18(3); further substituted as per F-note above.
+>
+> E11: Previous affecting provision: section amended (13.06.2014) by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2013), reg. 33(a); substituted as per F-note above.
+
+### 3. Regulations.
+
+**3**.— (1) The Minister may make regulations in relation to any matter referred to in this Act as prescribed or to be prescribed.
+
+(2) F22[Subject to *section 24B(5)*, every regulation] or order (other than an order under *section 1* or *6*) made under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation or order is passed by either such House within the next 21 days on which that House has sat after the regulation or order is laid before it, the regulation or order shall be annulled accordingly, but without prejudice to the validity of anything previously done under it.
+
+(3) The power to make regulations under this section includes the power to make provision in such regulations to give effect to—
+
+(*a*) a provision of the treaties of the European Communities, or
+
+(*b*) an act adopted by an institution of those Communities which regulates any of the matters to which this Act applies.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F22: Substituted (1.01.2011) by *Central Bank Reform Act 2010* (23/2010), s. 15(5) and sch. 2 part 5 item 1, S.I. No. 686 of 2010.
+>
+> **Editorial Notes:**
+>
+> E12: Power pursuant to section exercised (1.04.2022) by *Consumer Protection Act 2007 (Grocery Goods Undertakings) (Revocation) Regulations 2022* (S.I. No. 150 of 2022).
+>
+> E13: Power pursuant to subs. (1) exercised (28.03.2019) by *Consumer Protection Act 2007 (Section 71(2)) (Dental Council) Regulations 2019* (S.I. No. 126 of 2019).
+>
+> E14: Power pursuant to section exercised (13.10.2007) by *Consumer Protection (Fixed Payment Notice) Regulations 2007* (S.I. No. 689 of 2007), in effect as per reg. 1(2).
+
+### 4. Repeals.
+
+**4**.— (1) Each enactment specified in *Schedule 2* is repealed to the extent specified in *column (3)* of that Schedule.
+
+(2) Section 20(5)(*b*) of the National Standards Authority of Ireland Act 1996 is amended by deleting “the Merchandise Marks Acts 1887 to 1978, and”.
+
+(3) The following are revoked:
+
+(*a*) the Prices (Stabilisation of Profit Margins of Retailers of Motor Cars) Order 1984 (S.I. No. 223 of 1984);
+
+(*b*) the Consumer Information (Diesel and Petrol) (Reduction in Retail Price) Order 1997 (S.I. No. 179 of 1997).
+
+### 5. Expenses.
+
+**5**.— The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of monies provided by the Oireachtas.
+
+## PART 2 National Consumer Agency — PART 2 — National Consumer Agency
+
+### Chapter 1 The Agency — Chapter 1 — The Agency
+
+#### 6. Establishment day.
+
+**6**.— F23[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F23: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+>
+> **Editorial Notes:**
+>
+> E15: Previous affecting provision: power pursuant to section exercised (1.05.2007) by *Consumer Protection Act 2007 (Establishment Day) Order 2007* (S.I. No. 179 of 2007).
+
+#### 7. Establishment of Agency.
+
+**7**.— F24[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F24: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+
+#### 8. Functions of Agency.
+
+**8**.— F25[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F25: Repealed (31.10.2014), by *Competition and Consumer Protection Act 2014* (29/2014) s. 7(2), S.I. No. 366 of 2014.
+>
+> **Editorial Notes:**
+>
+> E16: Previous affecting provision: obligation imposed on Central Bank of Ireland to provide to National Consumer Agency information obtained by it pursuant to *Central Bank Act 1942* (22/1942), ss. 5C(1) and (2), which is relevant to the exercise of the Agency’s functions under subs. (3)(ha) by *Central Bank Act 1942* (22/1942) s. 5C(3), as inserted (1.10.2010) by *Central Bank Reform Act 2010* (23/2010), s. 14(1) and sch. 1 part 1 item 22, S.I. No. 469 of 2010; repealed as per F-note above.
+>
+> E17: Previous affecting provision: subs. (2) amended and subs. (3)(ha) inserted (1.10.2010) by *Central Bank Reform Act 2010* (23/2010), s. 15(14) and sch. 2 part 14, S.I. No. 469 of 2010; repealed as per F-note above.
+
+#### 8A. Supplementary powers of Agency with respect to carrying out certain responsibilities.
+
+F26[**8A.**— F27[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F26: Inserted (1.01.2011) by *Central Bank Reform Act 2010* (23/2010), s. 15(5) and sch. 2 part 5 item 3, S.I. No. 686 of 2010.
+>
+> F27: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+
+#### 9. Review of legislation.
+
+**9**.— F28[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F28: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+
+#### 10. Membership of Agency.
+
+**10**.— F29[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F29: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+
+#### 11. Chairperson of Agency.
+
+**11**.— F30[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F30: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+
+#### 12. Meetings and procedures of Agency.
+
+**12**.— F31[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F31: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014) s. 7(2), S.I. No. 366 of 2014.
+
+#### 13. Committees.
+
+**13**.— F32[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F32: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+
+#### 14. Chief executive.
+
+**14**.— F33[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F33: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+
+#### 15. Functions of chief executive.
+
+**15**.— F34[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F34: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+
+#### 16. Attendance of chief executive before Committee of Public Accounts.
+
+**16**.— F35[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F35: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+
+#### 17. Attendance of chief executive before other Oireachtas Committees.
+
+**17**.— F36[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F36: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+
+#### 18. Membership of either House of the Oireachtas, European Parliament or local authority.
+
+**18**.— F37[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F37: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+
+#### 19. Indemnity for members of Agency.
+
+**19**.— F38[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F38: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+
+#### 20. Strategy statement and work programme of Agency.
+
+**20**.—F39[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F39: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+
+#### 21. Provision for co-operation between Agency and certain prescribed bodies.
+
+**21**.— F40[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F40: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+>
+> **Editorial Notes:**
+>
+> E18: Previous affecting provision: subs. (11)(a)(i) substituted (1.01.2011) by *Central Bank Reform Act 2010* (23/2010), s. 15(5) and sch. 2 part 5 item 4, S.I. No. 686 of 2010; repealed as per F-note above.
+
+#### 22. Reports and information to Minister.
+
+**22**.—F41[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F41: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+
+#### 23. Accounts and audits.
+
+**23**.— F42[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F42: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+
+#### 24. Advances by Minister to Agency.
+
+**24**.— F43[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F43: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+
+#### 24A. Annual estimate of income for certain purposes.
+
+F44[**24A**.— At least one month before the start of each financial year the Agency shall prepare, and shall submit to the Minister and the Minister for Finance, a statement of the expenditure required during the financial year for the purposes of the functions referred to in F45[section 10(3)(j) of the Competition and Consumer Protection Act 2014].]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F44: Inserted (1.01.2011) by *Central Bank Reform Act 2010* (23/2010), s. 15(5) and sch. 2 part 5 item 5, S.I. No. 686 of 2010.
+>
+> F45: Substituted (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 82(a), S.I. No. 366 of 2014.
+
+#### 24B. Power to impose levies.
+
+F44[**24B**.— (1) The Agency may make regulations prescribing levies to be paid by persons who are subject to regulation under the designated enactments and designated statutory instruments (within the respective meanings given by the Central Bank Act 1942).
+
+(2) A levy prescribed under *subsection (1)* shall relate only to the Agency’s performance of its functions referred to in F46[section 10(3)(j) of the Competition and Consumer Protection Act 2014].
+
+(3) In particular, regulations under *subsection (1)* may provide for any of the following matters:
+
+(*a*) the activities, services or other matters for which specified kinds of levies are payable;
+
+(*b*) the persons, or classes of persons, who are required to pay specified kinds of levies;
+
+(*c*) the amounts of specified kinds of levies;
+
+(*d*) the periods for which, or the dates by which, specified levies are to be paid to the Agency;
+
+(*e*) penalties that are payable by a person who fails to pay a levy on time;
+
+(*f*) the keeping of records, and the making of returns to the Agency, by persons who are liable to pay a specified levy;
+
+(*g*) the collection and recovery of levies.
+
+(4) Regulations made under this section do not take effect until approved by the Minister with the consent of the Minister for Finance.
+
+(5) *Section 3(2)* does not apply to regulations made under *subsection (1)*.
+
+(6) The Agency may refund the whole or a part of a levy paid or payable under regulations in force under this section.
+
+(7) The Agency may amend or revoke a regulation made under this section.
+
+(8) An amendment or revocation of regulations made under this section does not take effect until approved by the Minister with the consent of the Minister for Finance.
+
+(9) The Agency may, by proceedings in a court of competent jurisdiction, recover as a debt an amount of levy payable under regulations in force under this section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F44: Inserted (1.01.2011) by *Central Bank Reform Act 2010* (23/2010), s. 15(5) and sch. 2 part 5 item 5, S.I. No. 686 of 2010.
+>
+> F46: Substituted (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 82(b), S.I. No. 366 of 2014.
+>
+> **Editorial Notes:**
+>
+> E19: Power pursuant to section exercised (24.11.2025) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy Regulations 2025* (S.I. No. 547 of 2025), in effect as per reg. 2.
+>
+> E20: Previous affecting provision: power pursuant to section exercised (15.11.2024) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy (No. 2) Regulations 2024* (S.I. No. 628 of 2024), in effect as per reg. 2; revoked (24.11.2025) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy Regulations 2025* (S.I. No. 547 of 2025), reg. 19(b), in effect as per reg. 2, subject to transitional provision.
+>
+> E21: Previous affecting provision: power pursuant to section exercised (19.01.2024) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy Regulations 2024* (S.I. No. 14 of 2024); revoked (24.11.2025) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy Regulations 2025* (S.I. No. 547 of 2025), reg. 19(a), in effect as per reg. 2.
+>
+> E22: Previous affecting provision: power pursuant to section exercised (9.02.2023) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy Regulations 2023* (S.I. No. 48 of 2023); revoked (15.11.2024) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy (No. 2) Regulations 2024* (S.I. No. 628 of 2024), reg. 19(m), in effect as per reg. 2.
+>
+> E23: Previous affecting provision: power pursuant to section exercised (19.01.2022) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy Regulations 2022* (S.I. No. 24 of 2022); revoked (15.11.2024) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy (No. 2) Regulations 2024* (S.I. No. 628 of 2024), reg. 19(l), in effect as per reg. 2.
+>
+> E24: Previous affecting provision: power pursuant to section exercised (20.05.2021) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy Regulations 2021* (S.I. No. 257 of 2021); revoked (15.11.2024) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy (No. 2) Regulations 2024* (S.I. No. 628 of 2024), reg. 19(k), in effect as per reg. 2.
+>
+> E25: Previous affecting provision: power pursuant to section exercised (12.08.2020) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy Regulations 2020* (S.I. No. 305 of 2020); revoked (15.11.2024) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy (No. 2) Regulations 2024* (S.I. No. 628 of 2024), reg. 19(j), in effect as per reg. 2.
+>
+> E26: Previous affecting provision: power pursuant to section exercised (15.10.2019) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy Regulations 2019* (S.I. No. 509 of 2019); revoked (15.11.2024) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy (No. 2) Regulations 2024* (S.I. No. 628 of 2024), reg. 19(i), in effect as per reg. 2.
+>
+> E27: Previous affecting provision: power pursuant to section exercised (12.10.2018) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy Regulations 2018* (S.I. No. 425 of 2018); revoked (15.11.2024) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy (No. 2) Regulations 2024* (S.I. No. 628 of 2024), reg. 19(h), in effect as per reg. 2.
+>
+> E28: Previous affecting provision: power pursuant to section exercised (29.09.2017) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy Regulations 2017* (S.I. No. 423 of 2017); revoked (15.11.2024) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy (No. 2) Regulations 2024* (S.I. No. 628 of 2024), reg. 19(g), in effect as per reg. 2.
+>
+> E29: Previous affecting provision: power pursuant to section exercised (15.09.2016) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy Regulations 2016* (S.I. No. 479 of 2016); revoked (15.11.2024) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy (No. 2) Regulations 2024* (S.I. No. 628 of 2024), reg. 19(f), in effect as per reg. 2.
+>
+> E30: Previous affecting provision: power pursuant to section exercised (22.10.2015) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy Regulations 2015* (S.I. No. 457 of 2015); revoked (15.11.2024) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy (No. 2) Regulations 2024* (S.I. No. 628 of 2024), reg. 19(e), in effect as per reg. 2.
+>
+> E31: Previous affecting provision: power pursuant to section exercised (10.10.2014) by *Consumer Protection Act 2007 (National Consumer Agency) Levy Regulations 2014* (S.I. No. 458 of 2014); revoked (15.11.2024) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy (No. 2) Regulations 2024* (S.I. No. 628 of 2024), reg. 19(d), in effect as per reg. 2.
+>
+> E32: Previous affecting provision: power pursuant to section exercised (29.10.2013) by *Consumer Protection Act 2007 (National Consumer Agency) Levy Regulations 2013* (S.I. No. 409 of 2013); revoked (15.11.2024) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy (No. 2) Regulations 2024* (S.I. No. 628 of 2024), reg. 19(c), in effect as per reg. 2.
+>
+> E33: Previous affecting provision: power pursuant to section exercised (7.11.2012) by *Consumer Protection Act 2007 (National Consumer Agency) Levy Regulations 2012* (S.I. No. 435 of 2012); revoked (15.11.2024) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy (No. 2) Regulations 2024* (S.I. No. 628 of 2024), reg. 19(b), in effect as per reg. 2.
+>
+> E34: Previous affecting provision: power pursuant to section exercised (4.11.2011) by *Consumer Protection Act 2007 (National Consumer Agency) Levy Regulations 2011* (S.I. No. 560 of 2011); revoked (15.11.2024) by *Consumer Protection Act 2007 (Competition and Consumer Protection Commission) Levy (No. 2) Regulations 2024* (S.I. No. 628 of 2024), reg. 19(a), in effect as per reg. 2.
+
+#### 24C. Surplus or deficiency in certain income of Agency during financial year.
+
+F44[**24C**.— (1) If the total sum received by the Agency on account of levies prescribed under *section 24B* during a financial year is greater than the Agency’s expenditure on the performance of its functions referred to in F47[section 10(3)(j) of the Competition and Consumer Protection Act 2014] during that financial year, the Agency—
+
+(*a*) shall apply the surplus to the performance of those functions and the exercise of those powers in the following financial year, and
+
+(*b*) shall reduce the levies prescribed in relation to the latter financial year accordingly.
+
+(2) If the sum received by the Agency on account of levies prescribed under *section 24B* during a financial year is less than the Agency’s expenditure on the performance of its functions referred to in F47[section 10(3)(j) of the Competition and Consumer Protection Act 2014] during that financial year, the Agency may prescribe levies in relation to the following financial year sufficient to—
+
+(*a*) make good the deficiency, and
+
+(*b*) ensure that the sum received by the Agency on account of such levies during the following financial year fully covers the performance of those functions during both those financial years.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F44: Inserted (1.01.2011) by *Central Bank Reform Act 2010* (23/2010), s. 15(5) and sch. 2 part 5 item 5, S.I. No. 686 of 2010.
+>
+> F47: Substituted (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 82(c), S.I. No. 366 of 2014.
+
+#### 24D. Arrangements in relation to collection of levies.
+
+F44[**24D**.— (1) The Agency may enter into an arrangement with a prescribed body in relation to the collection of a levy.
+
+(2) An arrangement referred to in *subsection (1)* is to be for the purpose of enabling the Agency or prescribed body to collect the relevant levy from each person or body obliged to pay it and pay the collected levy to the entity entitled to receive it.
+
+(3) An arrangement referred to in *subsection (1)* shall provide for the costs associated with the collection of the levy concerned to be met by the entity entitled to receive the levy.
+
+(4) Nothing in this section affects any other power of the Agency to enter into an arrangement for the collection of levies.
+
+(5) In this section—
+
+"levy" means a levy imposed under *section 24B* or any other enactment;
+
+"prescribed body" means the following:
+
+(*a*) the Pensions Board;
+
+(*b*) the Financial Services Ombudsman;
+
+(*c*) the Central Bank of Ireland;
+
+(*d*) any other body prescribed by the Minister by regulations made for the purposes of this section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F44: Inserted (1.01.2011) by *Central Bank Reform Act 2010* (23/2010), s. 15(5) and sch. 2 part 5 item 5, S.I. No. 686 of 2010.
+
+#### 24E. Accounting for levies.
+
+F44[**24E**.— In its annual report and annual accounts, the Agency shall include statements of—
+
+(*a*) the amounts collected by way of levies under *section 24B*, and
+
+(*b*) how those amounts were expended.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F44: Inserted (1.01.2011) by *Central Bank Reform Act 2010* (23/2010), s. 15(5) and sch. 2 part 5 item 5, S.I. No. 686 of 2010.
+
+#### 24F. Arrangements in relation to the collection of information relevant to levy collection
+
+F48[**24F.**— (1) The Commission may, for the purpose of obtaining any information which may be required in relation to the calculation of levies to be imposed under *section 24B* require persons who are subject to such levies to provide the Commission within such reasonable period as the Commission may determine, with such information as the Commission may reasonably require in relation to the calculation of the amounts of the said levies.
+
+(2) A person who—
+
+(*a*) without reasonable excuse, fails to comply with a requirement under this section, or
+
+(*b*) in purported compliance with such a requirement provides information that he or she knows to be false or misleading in a material respect,
+
+commits an offence and is liable on summary conviction to the fines and penalties provided in *section 79*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F48: Inserted (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 76, S.I. No. 366 of 2014.
+
+#### 24G. Arrangements for the secondment of certain employees
+
+F49[**24G.**— (1) In this section—
+
+"Bank" means the Central Bank of Ireland;
+
+"secondee" means an employee seconded from the Bank to the Commission under the arrangements referred to in subsection (2).
+
+(2) The Bank and the Commission may make arrangements for the secondment of employees from the Bank to the Commission for the purpose of carrying out the functions specified in section 10(3)(j) of the Competition and Consumer Protection Act 2014.
+
+(3) The length of any secondment period or extension to an existing secondment period shall be agreed by the chairperson of the Commission, the Governor of the Bank and the employee of the Bank.
+
+(4) Subject to *subsection (6)*, a secondee may not later than 2 years after the establishment day elect to become a member of the staff of the Commission.
+
+(5) A secondee may continue on secondment to the Commission for as long as the chairperson of the Commission and the Governor of the Bank consent. A secondee who continues on secondment without electing to become a member of staff of the Commission continues to be an employee of the Bank and his or her terms of employment (including any term conferring a right to an increase in remuneration) continue to be those applicable to his or her employment by the Bank.
+
+(6) An election under *subsection (4)* to become a member of staff of the Commission is subject to the consent of—
+
+(i) the chairperson of the Commission,
+
+(ii) the Governor of the Bank,
+
+(iii) the Minister for Public Expenditure and Reform, and
+
+(iv) the Minister for Jobs, Enterprise and Innovation,
+
+and shall take effect immediately after the latest of those consents is given.
+
+(7) If a secondee elects to become a member of staff of the Commission, the terms and conditions relating to remuneration by the Commission at the time the election takes effect shall not be less favourable than the terms and conditions relating to remuneration at the time of his or her employment by the Bank (subject to any provision in any enactment).
+
+(8) If a person’s employment is transferred under this section, the person’s previous service with the Bank is to be counted as service for the purposes of, but subject to any exceptions or exclusions in, the following Acts:
+
+(*a*) the Redundancy Payments Acts 1967 to 2012;
+
+(*b*) the Protection of Employees (Part-Time Work) Act 2001;
+
+(*c*) the Protection of Employees (Fixed-Term Work) Act 2003;
+
+(*d*) the Organisation of Working Time Act 1997;
+
+(*e*) the Terms of Employment (Information) Acts 1994 to 2012;
+
+(*f*) the Minimum Notice and Terms of Employment Acts 1973 to 2005;
+
+(*g*) the Unfair Dismissals Acts 1977 to 2007;
+
+(*h*) the Maternity Protection Acts 1994 and 2004;
+
+(*i*) the Parental Leave Acts 1998 and 2006;
+
+(*j*) the Adoptive Leave Acts 1995 and 2005;
+
+(*k*) the Carer’s Leave Act 2001.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F49: Inserted (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 76, S.I. No. 366 of 2014.
+
+#### 25. Disclosure of interests.
+
+**25**.— F50[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F50: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+>
+> **Editorial Notes:**
+>
+> E35: Previous affecting provision: subs. (2)(a)-(d) amended (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97 and sch. part 1 item 43(a), S.I. No. 648 of 2010; repealed as per F-note above.
+
+#### 26. Power to enter into contracts and to engage consultants and advisers.
+
+**26**.—F51[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F51: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+
+#### 27. Premises of Agency.
+
+**27**.— F52[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F52: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+
+#### 28. Seal of Agency.
+
+**28**.— F53[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F53: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+
+#### 29. Power to borrow.
+
+**29**.— F54[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F54: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+>
+> **Modifications (not altering text):**
+>
+> C4: Previous affecting provision: functions transferred and references to “Minister” and “Department of Finance” construed (6.07.2011) by *Ministers and Secretaries (Amendment) Act 2011* (10/2011), ss. 7, 9, 11 and sch. 2 part 1, commenced as per s. 1(2); repealed as per F-note above.
+
+#### 30. Authorised officers of Agency.
+
+**30**.— F55[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F55: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+>
+> **Editorial Notes:**
+>
+> E36: Previous affecting provision: term “relevant statutory provisions” construed for purpose of section (27.09.2010) by *European Communities (Names and Labelling of Textile Products) Regulations 2010* (S.I. No. 485 of 2010), reg. 18(3); revoked (8.05.2012) by *European Union (Textile Fibre Names and Related Labelling and Marking of the Fibre Composition of Textile Products) Regulations 2012* (S.I. No. 142 of 2012), reg. 13(a), in effect as per reg. 1(2).
+>
+> E37: Previous affecting provision: application of section extended (27.09.2010) by *European Communities (Names and Labelling of Textile Products) Regulations 2010* (S.I. No. 485 of 2010), reg. 18(1) and (2); revoked (8.05.2012) by *European Union (Textile Fibre Names and Related Labelling and Marking of the Fibre Composition of Textile Products) Regulations 2012* (S.I. No. 142 of 2012), reg. 13(a), in effect as per reg. 1(2).
+>
+> E38: Previous affecting provision: application of section extended (13.06.2014) by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2013), reg. 35(1), in effect as per reg. 1(2); repealed as per F-note above.
+>
+> E39: Previous affecting provision: application of section extended (8.05.2012) by *European Union (Textile Fibre Names and Related Labelling and Marking of the Fibre Composition of Textile Products) Regulations 2012* (S.I. No. 142 of 2012), reg. 9(1), in effect as per reg. 1(2); repealed as per F-note above.
+>
+> E40: Previous affecting provision: term ‘relevant statutory provisions’ construed for purpose of section (23.02.2011) by *European Union (Protection of Consumers in respect of Timeshare, Long-term Holiday Product, Resale and Exchange Contracts) Regulations 2011* (S.I. No. 73 of 2011), reg. 22(a), in effect as per reg. 1(2); repealed as per F-note above.
+>
+> E41: Previous affecting provision: application of section extended (23.02.2011) by *European Union (Protection of Consumers in respect of Timeshare, Long-term Holiday Product, Resale and Exchange Contracts) Regulations 2011* (S.I. No. 73 of 2011), reg. 23, in effect as per reg. 1(2); repealed as per F-note above.
+>
+> E42: Previous affecting provision: application of section extended (11.04.2009) by *European Communities (Prepacked Products) Regulations 2008* (S.I. No. 566 of 2008), reg. 9, in effect as per reg. 1(2); repealed as per F-note above.
+
+#### 31. Disclosure of information relating to offences.
+
+**31**.— F56[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F56: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+>
+> **Editorial Notes:**
+>
+> E43: Previous affecting provision: subss. 1(e) and (2)(e) amended (1.10.2010) by *Central Bank Reform Act 2010* (23/2010), s. 15(14) and sch. 2 part 14, S.I. No. 469 of 2010; repealed as per F-note above.
+
+#### 32. Prohibition on unauthorised disclosure of information.
+
+**32**.— F57[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F57: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+>
+> **Editorial Notes:**
+>
+> E44: Previous affecting provision: person holding record under section excluded from requirement to refuse an FOI request (14.10.2014) by *Freedom of Information Act 2014* (30/2014), s. 41(1)(a) and sch. 3 part 1, commenced on enactment; section repealed as per F-note above.
+
+#### 33. Amendment of Freedom of Information Act 1997.
+
+**33**.— F58[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F58: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+
+### Chapter 2 Staff of Agency — Chapter 2 — Staff of Agency
+
+#### 34. Staffing.
+
+**34**.— F59[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F59: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+
+#### 35. Transfer of employment of certain persons to Agency.
+
+**35**.— F60[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F60: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+
+#### 36. Superannuation.
+
+**36**.— F61[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F61: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+>
+> **Editorial Notes:**
+>
+> E45: Previous affecting provision: any defined benefit scheme established under section excluded from application of *Pensions Act 1990* (25/1990), Part IV by *Occupational Pension Schemes (Funding Standard) Regulations 1993* (S.I. No. 419 of 1993), reg. 6 and sch. C, sch. C as substituted (18.04.2013) by *Occupational Pension Schemes (Funding Standard) (Amendment) Regulations 2013* (S.I. No. 135 of 2013), reg. 2; and as substituted (16.06.2014) by *Occupational Pension Schemes (Funding Standard) (Amendment) Regulations 2014* (S.I. No. 268 of 2014); repealed as per F-note above.
+>
+> E46: Previous affecting provision: any defined benefit scheme established under section excluded from application of *Pensions Act 1990* (25/1990), Part III, by *Occupational Pension Schemes (Preservation of Benefits) Regulations 2002* (S.I. No. 279 of 2002), reg. 11 and sch., sch. as substituted (26.02.2009) by *Occupational Pension Schemes (Preservation of Benefits) (Amendment) Regulations 2009* (S.I. No. 70 of 2009), reg. 2; repealed as per F-note above.
+
+### Chapter 3 Transfer of Functions, etc. — Chapter 3 — Transfer of Functions, etc.
+
+#### 37. Transfer of functions to Agency.
+
+**37**.— F62[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F62: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+>
+> **Editorial Notes:**
+>
+> E47: Functions previously transferred to the National Consumer Agency under subsection (2) transferred to the Competition and Consumer Protection Commission (31.10.2014) by the *Competition and Consumer Protection Act 2014* (29/2014), s. 10(3)(q), S.I. No. 366 of 2014.
+
+#### 38. Preservation of existing contracts.
+
+**38**.— F63[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F63: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+
+#### 39. Transfer of assets and liabilities.
+
+**39**.— F64[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F64: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+
+#### 40. References in certain other enactments to Director or Office of Director.
+
+**40**.— F65[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F65: Repealed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 7(2), S.I. No. 366 of 2014.
+
+## PART 3 Commercial Practices — PART 3 — Commercial Practices
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E48: Part designated a relevant enactment (30.04.2024) by *Representative Actions for the Protection of the Collective Interests of Consumers Act 2023* (22/2023), s. 2 and sch. part 2 item 4, S.I. No. 181 of 2024.
+
+### Chapter 1 Unfair Commercial Practices — Chapter 1 — Unfair Commercial Practices
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E49: Chapter included in definition of “national measure” and infringements with international or widespread effects under chapter prescribed as offences (30.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) (No. 2) Regulations 2020* (S.I. No. 21 of 2020), reg. 4(2), (3)(a), in effect as per reg. 1(2).
+>
+> E50: Chapter included in definition of “national measure” and infringements with international or widespread effects under chapter prescribed as offences (17.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2020* (S.I. No. 14 of 2020), reg. 7(2), (3)(a), in effect as per reg. 1(2).
+>
+> E51: Power granted to Minister for Transport, Tourism and Sport, in determining whether an operator has satisfied or continues to satisfy the requirement of good repute, to consider whether the operator or a person holding a specified position with the operator has, within the previous 10 years, been convicted of an offence under Part (4.12.2011) by *European Union (Occupation of Road Transport Operator) Regulations 2011* (S.I. No. 697 of 2011), reg. 6 and sch.
+>
+> E52: Obligation imposed on persons who hold a specified position with an operator and who is or has been convicted of an offence under Part to inform the operator in writing of the fact of the conviction (4.12.2011) by *European Union (Occupation of Road Transport Operator) Regulations 2011* (S.I. No. 697 of 2011), reg. 8.
+
+#### 41. General prohibition on unfair commercial practices.
+
+**41**.— (1) A trader shall not engage in an unfair commercial practice.
+
+(2) A commercial practice is unfair if it—
+
+(*a*) is contrary to one or both of the following (the requirements of professional diligence):
+
+(i) the general principle of good faith in the trader’s field of activity;
+
+(ii) the standard of skill and care that the trader may reasonably be expected to exercise in respect of consumers,
+
+and
+
+(*b*) would be likely to—
+
+(i) cause appreciable impairment of the average consumer’s ability to make an informed choice in relation to the product concerned, and
+
+(ii) cause the average consumer to make a transactional decision that the average consumer would not otherwise make.
+
+(3) In determining whether a commercial practice is unfair under *subsection (2)*, the commercial practice shall be considered in its factual context, taking account of all of its features and the circumstances.
+
+F66[(4) A trader who continues to engage in a commercial practice that has been found to be unfair by a court under this section commits an offence and is liable on conviction on indictment or on summary conviction, as the case may be, to the fines and penalties provided in *Chapter 4* of *Part 5*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F66: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 153, S.I. No. 596 of 2022.
+
+### Chapter 2 Misleading Commercial Practices — Chapter 2 — Misleading Commercial Practices
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E53: Chapter (other than s. 50) included in definition of “national measure” and infringements with international or widespread effects under chapter prescribed as offences (30.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) (No. 2) Regulations 2020* (S.I. No. 21 of 2020), reg. 4(2), (3)(a), in effect as per reg. 1(2).
+>
+> E54: Chapter included in definition of “national measure” and infringements with international or widespread effects under chapter prescribed as offences (17.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2020* (S.I. No. 14 of 2020), reg. 7(2), (3)(a), in effect as per reg. 1(2).
+
+#### 42. General prohibition on misleading commercial practices.
+
+**42**.— (1) A trader shall not engage in a misleading commercial practice.
+
+(2) Without prejudice to the amendments of the Hallmarking Act 1981 made by *section 99*, *sections 43* to *46* specify the various circumstances in which a commercial practice is misleading.
+
+#### 43. Misleading: false, misleading or deceptive information.
+
+**43**.— (1) A commercial practice is misleading if it includes the provision of false information in relation to any matter set out in *subsection (3)* and that information would be likely to cause the average consumer to make a transactional decision that the average consumer would not otherwise make.
+
+(2) A commercial practice is misleading if it would be likely to cause the average consumer to be deceived or misled in relation to any matter set out in *subsection (3)* and to make a transactional decision that the average consumer would not otherwise make.
+
+(3) The following matters are set out for the purposes of *subsections (1)* and *(2)*:
+
+(*a*) the existence or nature of a product;
+
+(*b*) the main characteristics of a product, including, without limitation, any of the following:
+
+(i) its geographical origin or commercial origin;
+
+(ii) its availability, including, without limitation, its availability at a particular time or place or at a particular price;
+
+(iii) its quantity, weight or volume;
+
+(iv) its benefits or fitness for purpose;
+
+(v) the results to be expected from it;
+
+(vi) the risks it presents to consumers;
+
+(vii) its usage or prior history;
+
+(viii) its composition, ingredients, components or accessories;
+
+(ix) the specifications of the product, including, without limitation, the grade, standard, style, status or model of the product;
+
+(x) the after-supply customer assistance available to consumers in relation to the product;
+
+(xi) the handling of consumer complaints in relation to the product;
+
+(xii) the method or date of—
+
+(I) the product’s delivery, supply or provision, or
+
+(II) in the case of goods, the product’s manufacture;
+
+(xiii) the results and material features of tests or checks carried out on the product;
+
+(xiv) in relation to a service, its execution or performance;
+
+(*c*) the price of the product, the manner in which that price is calculated or the existence or nature of a specific price advantage;
+
+(*d*) the need for any part, replacement, servicing or repair in relation to the product;
+
+(*e*) the existence, extent or nature of any approval or sponsorship (direct or indirect) of the product by others;
+
+(*f*) the nature, attributes or rights of the trader, including, without limitation, the following:
+
+(i) the trader’s identity, qualifications, assets or status;
+
+(ii) the trader’s affiliation or connection with others;
+
+(iii) the existence, extent or nature of—
+
+(I) any industrial, commercial or intellectual property rights the trader may have, or
+
+(II) any award, distinction, approval or sponsorship (direct or indirect) the trader has or has received;
+
+(*g*) the extent of the trader’s commitments;
+
+(*h*) the trader’s motives for the commercial practice;
+
+(*i*) the nature of the trader’s supply process;
+
+(*j*) the legal rights of a consumer (whether contractual or otherwise) or matters respecting when, how or in what circumstances those rights may be exercised.
+
+(4) If the commercial practice in *subsection (2)* involves the provision of information, it is not a defence in any proceeding to show that the information is factually correct.
+
+(5) In determining whether a commercial practice under *subsection (1)* or *(2)* is misleading, the commercial practice shall be considered in its factual context, taking account of all of its features and the circumstances.
+
+(6) Without limiting *subsection (5)*—
+
+(*a*) if the commercial practice involves a representation or creates an impression (whether in advertising, marketing or otherwise) that a product was previously offered at a different price or at a particular price, consideration shall be given to whether the product was previously offered openly and in good faith at that price and at the same place for a reasonable period of time before the representation was made, and
+
+(*b*) if the commercial practice involves a representation or creates an impression (whether in advertising, marketing or otherwise) that a product is being offered by a trader at or below a price recommended by the manufacturer, producer or supplier of the product (other than the trader), consideration shall be given to whether that recommended price was one recommended in good faith by that manufacturer, producer or supplier.
+
+(7) In determining the geographical origin of goods the manufacture or production of which involves more than one country, consideration shall be given to where the goods underwent their last substantial and economically justified processing or working (in a place equipped for that purpose), resulting in the manufacture of new goods or representing an important stage of the manufacture or production.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E55: Comparative marketing communications confirmed prohibited if, as regards the comparison, it is a misleading commercial practice under section (20.11.2007) by *European Communities (Misleading and Comparative Marketing Communications) Regulations 2007* (S.I. No. 774 of 2007), reg. 4(2)(b).
+
+#### 44. Misleading: competitor or product confusion in marketing or advertising.
+
+**44**.— (1) A commercial practice involving marketing or advertising is misleading if it would be likely to cause the average consumer—
+
+(*a*) to confuse—
+
+(i) a competitor’s product with the trader’s product, or
+
+(ii) a competitor’s trade name, trade mark or some other distinguishing feature or mark with that of the trader,
+
+and
+
+(*b*) to make a transactional decision that the average consumer would not otherwise make.
+
+(2) In determining whether a commercial practice is misleading under *subsection (1)*, the commercial practice shall be considered in its factual context, taking account of all of its features and the circumstances.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E56: Comparative marketing communications confirmed prohibited if, as regards the comparison, it is a misleading commercial practice under section (20.11.2007) by *European Communities (Misleading and Comparative Marketing Communications) Regulations 2007* (S.I. No. 774 of 2007), reg. 4(2)(b).
+
+#### 44A. Misleading: marketing of goods as identical where significantly different.
+
+F67[**44A**.— (1) A commercial practice is misleading if—
+
+(*a*) unless justified by legitimate and objective factors, it involves any marketing of goods in a Member State as being identical to goods marketed in other Member States where the goods have significantly different composition or characteristics, and
+
+(*b*) the marketing would be likely to cause the average consumer to make a transactional decision that the average consumer would not otherwise make.
+
+(2) In determining whether a commercial practice is misleading under *subsection (1)*, the commercial practice shall be considered in its factual context, taking account of all of its features and the circumstances.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F67: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 154, S.I. No 596 of 2022.
+>
+> **Editorial Notes:**
+>
+> E57: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 45. Misleading: non-compliance with commitment under code of practice by which trader is bound.
+
+**45**.— (1) A commercial practice is misleading if—
+
+(*a*) it involves a representation that the trader abides, or is bound, by a code of practice,
+
+(*b*) the representation referred to in *paragraph (a)* would be likely to cause the average consumer to make a transactional decision that the average consumer would not otherwise make, and
+
+(*c*) the trader fails to comply with a firm commitment in that code of practice.
+
+(2) In determining whether a commercial practice is misleading under *subsection (1)*, the commercial practice shall be considered in its factual context, taking account of all of its features and the circumstances.
+
+(3) For the purposes of this section, a firm commitment in a code of practice is one that is not merely aspirational but is capable of being verified.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E58: Comparative marketing communications confirmed prohibited if, as regards the comparison, it is a misleading commercial practice under section (20.11.2007) by *European Communities (Misleading and Comparative Marketing Communications) Regulations 2007* (S.I. No. 774 of 2007), reg. 4(2)(b).
+
+#### 46. Misleading: withholding, omitting or concealing material information.
+
+**46**.— (1) A commercial practice is misleading if the trader omits or conceals material information that the average consumer would need, in the context, to make an informed transactional decision (“material information”) and such practice would be likely to cause the average consumer to make a transactional decision that the average consumer would not otherwise make.
+
+(2) A commercial practice is misleading if—
+
+(*a*) the trader—
+
+(i) provides material information referred to in *subsection (1)* in a manner that is unclear, unintelligible, ambiguous or untimely, or
+
+(ii) fails to identify the commercial intent of the practice (if such intent is not already apparent from the context),
+
+and
+
+(*b*) such practice would be likely to cause the average consumer to make a transactional decision that the average consumer would not otherwise make.
+
+(3) If a commercial practice is or includes an invitation to purchase, each of the following constitutes material information for the purposes of this section, unless already apparent to the consumer in the context of the commercial practice:
+
+(*a*) the main characteristics of the product, to an extent appropriate to the medium and the product;
+
+(*b*) the geographical address of the trader, the identity of the trader (such as his or her trading name) and, if the trader is acting in a consumer transaction as an agent of another trader, the geographical address and the identity of that other trader;
+
+(*c*) the price of the product (inclusive of taxes) or, if the nature of the product is such that the price cannot reasonably be calculated in advance, the manner in which the price is calculated;
+
+(*d*) any freight, delivery or postal charges that apply in relation to the product or, if such charges cannot reasonably be calculated in advance, a statement of the fact that such charges will apply and be payable by the consumer;
+
+F68[(*e*) the arrangements for payment, delivery and performance if such arrangements do not meet or accord with—
+
+(i) the standard of skill and care that the trader may reasonably be expected to exercise in respect of consumers, or
+
+(ii) the general principle of good faith in the trader’s field of activity;]
+
+(*f*) if applicable, the legal rights of a consumer (whether contractual or otherwise) to withdraw from or cancel the consumer transaction.
+
+F69[(*g*) for products offered on online marketplaces, whether the third party offering the products is a trader or not, on the basis of the declaration of that third party to the provider of the online marketplace.]
+
+F69[(3A) (*a*) Where consumers are provided with the option of searching for products offered by different traders or consumers on the basis of a query in the form of a keyword, phrase or other input (and irrespective of where transactions are ultimately concluded) general information relating to—
+
+(i) the main parameters determining the ranking of products presented to a consumer as a result of the search query, and
+
+(ii) the importance of those parameters relative to other parameters,
+
+that is made available in a specific section of the online interface directly and easily accessible from the page where the query results are presented shall be treated as material information for the purposes of this section.
+
+(*b*) *Paragraph (a)* does not apply to any person who provides or offers to provide an online search engine to consumers.
+
+(3B) Where a trader provides access to reviews by consumers of products, information in relation to whether and how the trader ensures that the published reviews originate from consumers who have actually used or purchased the products shall be treated as material information for the purposes of this section.]
+
+(4) The material information set out in F68[*subsections (3)* to *(3B)*] is in addition to and not instead of any other information that the trader is required by law to provide to a consumer, including, without limitation, any information required to be provided by regulations under this Act.
+
+(5) In determining whether a commercial practice is misleading under this section, the commercial practice shall be considered in its factual context, taking account of all of its features and the circumstances, including—
+
+(*a*) the space or time available in any communications medium used, and
+
+(*b*) any measures taken by the trader to make the material information available to consumers by other means.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F68: Substituted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 155(a)(i), (c), S.I. No. 596 of 2022.
+>
+> F69: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 155(a)(ii), (b), S.I. No. 596 of 2022.
+>
+> **Editorial Notes:**
+>
+> E59: Comparative marketing communications confirmed prohibited if, as regards the comparison, it is a misleading commercial practice under section (20.11.2007) by *European Communities (Misleading and Comparative Marketing Communications) Regulations 2007* (S.I. No. 774 of 2007), reg. 4(2)(b).
+
+#### 47. Offence: misleading commercial practices.
+
+**47**.— A trader who engages in any misleading commercial practice described in *section 43(1)* or *(2)*F70[, *44(1)*, *44A*, *45(1)* or *46(1)* or *(2)*] commits an offence and is liable on conviction on indictment or on summary conviction, as the case may be, to the fines and penalties provided in *Chapter 4* of *Part 5* .
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F70: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 156, S.I. No. 596 of 2022.
+
+#### 48. Prohibition on surcharges where one method of payment chosen in preference to another.
+
+**48**.— (1) In this section—
+
+“cash” means cash that is legal tender;
+
+“relevant method” , in relation to payment, means each of the following methods of payment—
+
+(*a*) cash,
+
+(*b*) credit card,
+
+(*c*) direct debit,
+
+(*d*) any other method or methods of payment prescribed by the Minister.
+
+(2) In this section a reference to a representation includes a reference to a representation made at any stage up to the time the trader accepts payment in respect of the product concerned.
+
+(3) Where—
+
+(*a*) a trader makes a representation that the trader will accept payment in respect of a product by any one of 2 or more different relevant methods, or
+
+(*b*) it is the practice of a trader to accept payment in respect of a product by different relevant methods,
+
+the trader shall not impose an additional charge on any person by reason of the person’s making payment in respect of the product by one of the relevant methods (to which the foregoing representation relates or as regards which the foregoing practice exists) as distinct from another of them.
+
+(4) For the purposes of *subsection (3)*—
+
+(*a*) without limiting any of the other means by which that subsection may be contravened, a trader shall be deemed to impose an additional charge, by reason of the person concerned making payment as mentioned in that subsection, if the price charged by the trader in respect of the product concerned is, where one of the relevant methods of payment is used by that person, greater than the price that would be so charged were that person to use another of them,
+
+(*b*) if the representation or practice referred to in that subsection relates not only to relevant methods of payment but to one or more other methods of payment as well, that fact is immaterial, and
+
+(*c*) it is immaterial that the trader can show that any expenses incurred by the trader in accepting payment by one of the relevant methods are greater than those incurred by the trader in accepting payment by another of them.
+
+(5) A trader who contravenes *subsection (3)* commits an offence and is liable on summary conviction to the fines and penalties provided in *Chapter 4* of *Part 5*.
+
+(6) In proceedings for an offence under this section, where evidence is given that on a particular occasion the defendant accepted payment in respect of the product concerned by a relevant method which was different from that which the defendant accepted in respect of the product on another occasion in the period of 12 months preceding the first-mentioned occasion (and that previous method is also a relevant method), then it shall be presumed, until the contrary is proved, that a practice existed on the part of the defendant to accept payment in respect of the product by those foregoing methods.
+
+#### 49. Requirement that surcharge (where otherwise permissible) be stated as part of price.
+
+**49**.— (1) Where it is the practice of a trader to accept payment in respect of a product—
+
+(*a*) by only one relevant method and to impose a charge on a person for the person’s making payment in respect of the product by that method, or
+
+(*b*) by different relevant methods and to impose on a person the same charge for the person’s making payment in respect of the product by any of those methods,
+
+the trader shall ensure that any representation made by the trader, or on the trader’s behalf, in relation to the price payable in respect of the product, states clearly that price as a single amount inclusive of the foregoing charge.
+
+(2) For the purposes of *subsection (1)*, it is immaterial that the trader also accepts payment in respect of the product concerned by one or more methods of payment that are not relevant methods of payment and the reference in that subsection to the practice of a trader to accept payment in respect of a product by only one relevant method shall be read accordingly.
+
+(3) A trader who contravenes *subsection (1)* commits an offence and is liable on summary conviction to the fines and penalties provided in *Chapter 4* of *Part 5*.
+
+(4) In a case falling within *paragraph (a)* or *(b)* of *subsection (1)*, nothing in that subsection prevents the inclusion in any representation referred to in that subsection of—
+
+(*a*) an indication that the single price stated is inclusive of a charge for making payment by the method concerned or, as the case may be, any of the methods concerned, or
+
+(*b*) an indication of the amount of such charge.
+
+(5) In this section ‘relevant method’, in relation to payment, has the same meaning as it has in *section 48*.
+
+#### 50. Consumer information regulations.
+
+**50**.— (1) Subject to *subsection (5)*, if the Minister considers it to be in the interest of consumers to have a product, or a class or type of product, marked with or accompanied by any information (or both), the Minister may make regulations—
+
+(*a*) prescribing the product or class or type of product,
+
+(*b*) prescribing—
+
+(i) any stamps, marks, tags and labels for use on those products and the manner of their use, or
+
+(ii) any information to accompany those products when they are supplied to consumers by traders, or
+
+(iii) the matters referred to in both of the foregoing subparagraphs,
+
+(*c*) requiring traders who supply a prescribed product, or a product of a prescribed class or type, to—
+
+(i) stamp, mark, tag or label them in accordance with regulations made under *paragraph (b)(i)*, or
+
+(ii) have prescribed information under *paragraph (b)(ii)* accompany those products in the manner and form specified in the regulations, or
+
+(iii) do the things referred to in both of the foregoing subparagraphs,
+
+and
+
+(*d*) regulating or prohibiting the supply of a prescribed product, or a product of a prescribed class or type, if any regulation under *paragraph (b)* or *(c)* is not complied with.
+
+(2) Subject to *subsection (5)*, if the Minister considers it to be in the interest of consumers that advertisements for a product, or a class or type of product, contain or refer to any information relating to those products (or do both those things), the Minister may make regulations—
+
+(*a*) prescribing the product, or class or type of product, and that information, and
+
+(*b*) requiring traders who market or advertise those products to do either or both of the following, as the Minister considers necessary or appropriate:
+
+(i) include that information in their advertisements and to do so in the manner and form specified in the regulations;
+
+(ii) specify in their advertisements the means by which that information may be obtained by a consumer.
+
+(3) The Minister may make different regulations under this section for—
+
+(*a*) different classes or types of products or traders,
+
+(*b*) different classes or types of advertisements,
+
+(*c*) different circumstances, and
+
+(*d*) different geographical areas of the State.
+
+(4) A regulation made under this section may apply to the whole State or to a specified geographical area of the State.
+
+(5) The Minister may not make a regulation under this section unless the Minister is satisfied that in the context—
+
+(*a*) the average consumer would need the stamp, mark, tag, label or information in order to make an informed transactional decision (“material information”), and
+
+(*b*) if such material information was withheld, omitted or concealed, it would be likely to cause the average consumer to make a transactional decision that the average consumer would not otherwise make.
+
+(6) *Subsection (5)* does not apply in respect of regulations that may be made under *subsection (1)* relating to indications of the standard of fineness of articles of precious metal.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E60: Power pursuant to section exercised (1.10.2019) by *Consumer Protection (Consumer Information) (Articles of Precious Metals) Regulations 2019* (S.I. No. 442 of 2019), in effect as per reg. 2.
+>
+> E61: Previous affecting provision: power pursuant to section exercised (1.07.2012) by *Consumer Protection (Consumer Information) (Articles of Precious Metals) Regulations 2012* (S.I. No. 143 of 2012), in effect as per reg. 2; revoked (1.10.2019) by *Consumer Protection (Consumer Information) (Articles of Precious Metals) Regulations 2019* (S.I. No. 442 of 2019), reg. 9, in effect as per reg. 2.
+
+#### 51. Offences: contravening consumer information regulations.
+
+**51**.— (1) A trader who supplies a product in contravention of a regulation under *section 50(1)* commits an offence.
+
+(2) If an advertisement fails to comply with any requirement of a regulation under *section 50(2)*, any trader who publishes the advertisement or causes it to be published commits an offence.
+
+(3) A trader who commits an offence under *subsection (1)* or *(2)* is liable on summary conviction to the fines and penalties provided in *Chapter 4* of *Part 5*.
+
+### Chapter 3 Aggressive Commercial Practices — Chapter 3 — Aggressive Commercial Practices
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E62: Chapter included in definition of “national measure” and infringements with international or widespread effects under chapter prescribed as offences (30.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) (No. 2) Regulations 2020* (S.I. No. 21 of 2020), reg. 4(2), (3)(a), in effect as per reg. 1(2).
+>
+> E63: Chapter included in definition of “national measure” and infringements with international or widespread effects under chapter prescribed as offences (17.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2020* (S.I. No. 14 of 2020), reg. 7(2), (3)(a), in effect as per reg. 1(2).
+
+#### 52. General prohibition on aggressive commercial practices.
+
+**52**.— A trader shall not engage in an aggressive commercial practice.
+
+#### 53. Aggressive commercial practices.
+
+**53**.— (1) A commercial practice is aggressive if by harassment, coercion or undue influence it would be likely to—
+
+(*a*) cause significant impairment of the average consumer’s freedom of choice or conduct in relation to the product concerned, and
+
+(*b*) cause the average consumer to make a transactional decision that the average consumer would not otherwise make.
+
+(2) In determining whether a commercial practice is aggressive under *subsection (1)*, the commercial practice shall be considered in its factual context, taking account of all of its features and the circumstances.
+
+(3) Without limiting *subsection (2)*, in determining whether the commercial practice employs harassment, coercion or undue influence, the following shall be taken into account:
+
+(*a*) the timing, location, nature or persistence of the commercial practice;
+
+(*b*) the use of threatening or abusive language or behaviour by the trader;
+
+(*c*) the exploitation of a consumer’s misfortune or circumstance when the trader is aware that the consumer’s judgment is impaired as a result of the gravity of the misfortune or circumstance, in order to influence the consumer’s transactional decision;
+
+(*d*) the imposition of onerous or disproportionate non-contractual barriers by the trader when the consumer wishes to terminate the contract, exercise a contractual right or switch to another product or trader;
+
+(*e*) the use of threats by the trader to—
+
+(i) take action or initiate proceedings against the consumer when the trader has no legal basis for taking such action or initiating such proceedings, or
+
+(ii) do something unlawful.
+
+(4) In this section, “undue influence” means exploiting a position of power in relation to a consumer so as to apply pressure (without necessarily using or threatening to use physical force) in a way that significantly limits the consumer’s ability to make an informed choice in relation to the trader’s product.
+
+#### 54. Offence: aggressive commercial practices.
+
+**54**.— A trader who engages in any aggressive commercial practice described in *section 53(1)* commits an offence and is liable on conviction on indictment or on summary conviction, as the case may be, to the fines and penalties provided in *Chapter 4* of *Part 5* .
+
+### Chapter 4 Prohibited Commercial Practices — Chapter 4 — Prohibited Commercial Practices
+
+> **Annotations**
+>
+> **Editorial notes:**
+>
+> E64: Sections 55, 56 included in definition of “national measure” and infringements with international or widespread effects under chapter prescribed as offences (30.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) (No. 2) Regulations 2020* (S.I. No. 21 of 2020), reg. 4(2), (3)(a), in effect as per reg. 1(2).
+>
+> E65: Chapter included in definition of “national measure” and infringements with international or widespread effects under chapter prescribed as offences (17.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2020* (S.I. No. 14 of 2020), reg. 7(2), (3)(a), in effect as per reg. 1(2).
+
+#### 55. Prohibited commercial practices.
+
+**55**.— (1) A trader shall not engage in any of the following commercial practices:
+
+(*a*) a representation that the trader has an approval, authorisation or endorsement that the trader does not have, or making such a representation when the trader is not in compliance with that approval, authorisation or endorsement;
+
+(*b*) a representation that the trader is signatory to a code of practice, if the trader is not;
+
+(*c*) a representation that the trader is about to cease trading or move premises, if the trader is not;
+
+(*d*) a representation that a product has an approval, authorisation or endorsement that it does not have, or making such a representation when the trader is not in compliance with that approval, authorisation or endorsement;
+
+(*e*) a representation that a product is able to facilitate winning in games of chance;
+
+(*f*) a representation that supply of a product is legal, if it is not, or creating such an impression;
+
+(*g*) a representation that a product is able to cure an illness, dysfunction or malformation, if it cannot;
+
+(*h*) a representation that describes a product as “gratis”, “free”, “without charge” or anything similar, if a consumer has to pay anything other than the necessary and reasonable cost of—
+
+(i) responding to the representation, and
+
+(ii) collecting the product or having it delivered;
+
+(*i*) a representation that a commercial practice of the trader has an approval, authorisation or endorsement that it does not have, or making such a representation when the trader is not in compliance with the approval, authorisation or endorsement;
+
+(*j*) a representation that a code of practice has an approval or other endorsement that it does not have;
+
+(*k*) displaying a quality, standard or trust mark or symbol, or some equivalent type of mark or symbol, without having obtained necessary authorisation to do so;
+
+(*l*) making an invitation to purchase a product without disclosing the existence of any reasonable grounds the trader may have for believing that the trader will not be able to supply, or procure another trader to supply, the product or an equivalent product at the price specified in the invitation, or to do so for a reasonable period of time or in reasonable quantities, having regard to the scale of any marketing or advertising of the product and the price specified (bait advertising);
+
+(*m*) making an invitation to purchase a product, then—
+
+(i) demonstrating a defective sample of the product, or
+
+(ii) refusing to—
+
+(I) show or display the product to the consumer,
+
+(II) take an order from the consumer for the product, or
+
+(III) deliver the product to the consumer within a reasonable period of time,
+
+with the intention of promoting a different product (bait and switch);
+
+(*n*) making a false representation that a product is available only for a limited time, or on particular terms for a limited time, in order to elicit an immediate decision from a consumer, depriving the consumer of sufficient opportunity or time to make an informed choice in relation to the trader’s product;
+
+F71[*(o)* undertaking to provide after-sales service to consumers with whom the trader has communicated prior to a transaction in a language which is not an official language of the relevant State in which the trader is located and then making such service available only in another language without clearly disclosing this to the consumer before the consumer is committed to the transaction;]
+
+(*p*) making a representation or creating an impression that a right given to consumers under an enactment is a distinctive feature of the trader’s promotion or supply;
+
+(*q*) using editorial content in the media to promote a product (if a trader has paid for that promotion) if it is not made clear that the promotion is a paid promotion, whether in the content itself or in any oral, written, visual or descriptive representation in the promotion;
+
+F72[(*qa*) providing search results in response to a consumer’s online search query without clearly disclosing any paid advertisement or payment specifically for achieving higher ranking of products within the search results;]
+
+(*r*) making a representation to a consumer that is materially inaccurate in respect of the nature and extent of risk to the consumer’s personal security, or that of other members of the consumer’s household, if the consumer does not purchase the trader’s product;
+
+(*s*) promoting a product (similar to that of another manufacturer) in such a manner as to deliberately mislead or deceive a consumer into thinking that the product is manufactured by that manufacturer, when it is not;
+
+(*t*) making a representation to a consumer that is inaccurate to a material degree in respect of market conditions, or in respect of the possibility of finding a product, with the intention of inducing the consumer to purchase a product at conditions less favourable than normal market conditions;
+
+(*u*) operating, running or promoting a competition or prize promotion without awarding the prizes described or reasonable equivalents;
+
+(*v*) making a representation or creating an impression that a consumer has won or will win a prize or other equivalent benefit, if—
+
+(i) there is no prize or equivalent benefit, or
+
+(ii) in claiming the prize, the consumer has to make a payment or incur a loss;
+
+(*w*) including in marketing material an invoice or any similar document seeking payment from a consumer for a product that the consumer has not ordered;
+
+(*x*) making a representation or creating an impression that the trader—
+
+(i) is not acting for purposes related to the trader’s trade, business or profession, when the trader is so acting, or
+
+(ii) is acting as a consumer, when the trader is not;
+
+(*y*) making a representation or creating an impression that after-supply service in relation to a product is available in a relevant State other than the one in which the product is supplied, when it is not so available.
+
+F72[(*z*) reselling event tickets to consumers if the trader acquired them by using automated means to circumvent any limit on the number of tickets that a person may buy or any other rules applicable to the purchase of tickets;
+
+(*za*) stating that reviews of a product are submitted by consumers who have actually used or purchased the product without taking reasonable and proportionate steps to check that the reviews originate from such consumers;
+
+(*zb*) submitting or commissioning a person to submit false reviews or endorsements by consumers, or misrepresenting reviews or social endorsements by consumers, in order to promote products.]
+
+(2) F73[...]
+
+(3) A trader shall not engage in any of the following commercial practices:
+
+(*a*) making a representation or creating an impression that a consumer cannot leave the premises until a contract is formed;
+
+(*b*) failing to comply with a consumer’s request to leave the consumer’s residence or to not return (except in circumstances and to the extent justified or permitted by or under law in order to enforce a contractual obligation);
+
+(*c*) persistently failing to comply with a consumer’s request to cease—
+
+(i) communicating or initiating unwanted or unsolicited contact with, or
+
+(ii) making or sending unwanted or unsolicited representations to,
+
+the consumer by telephone, fax, email or any other electronic means or remote media (except in circumstances and to the extent justified or permitted by or under law in order to enforce a contractual obligation);
+
+(*d*) in relation to a consumer’s claim on an insurance policy, doing either or both of the following:
+
+(i) requiring the consumer to produce documents irrelevant to the validity of the claim;
+
+(ii) persistently failing to respond to the consumer’s correspondence on the matter, in order to dissuade the consumer from exercising contractual rights in respect of that claim;
+
+(*e*) including in an advertisement a direct exhortation to children to—
+
+(i) purchase a product, or
+
+(ii) persuade a parent or adult to purchase the product for them;
+
+(*f*) in relation to any product that a consumer does not solicit, demanding that the consumer—
+
+(i) make immediate or deferred payment for the product, or
+
+(ii) return or keep the product safe;
+
+(*g*) explicitly informing a consumer that if the consumer does not purchase a product, the trader’s job or livelihood will be in jeopardy.
+
+(4) *Subsection (3)(f)* does not apply in respect of a product provided by a trader in accordance with Regulation 9(3) of the European Communities (Protection of Consumers in Respect of Contracts Made by Means of Distance Communication) Regulations 2001 (S.I. No. 207 of 2001).
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F71: Substituted (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 77(a), S.I. No. 366 of 2014.
+>
+> F72: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 157(a), (b), S.I. No. 596 of 2022.
+>
+> F73: Deleted (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 77(b), S.I. No. 366 of 2014.
+
+#### 56. Offence: prohibited commercial practices.
+
+**56**.— A trader who contravenes *section 55(1)* or *(3)* commits an offence and is liable on conviction on indictment or on summary conviction, as the case may be, to the fines and penalties provided in *Chapter 4* of *Part 5*.
+
+#### 57. Price display regulations.
+
+**57**.— (1) If the Minister considers it to be in the interest of consumers, the Minister may make regulations requiring traders who supply a product, or a class or type of product, to display the price or charge to consumers of or for those products in any manner or form specified in the regulations.
+
+(2) Without limiting *subsection (1)*, a regulation under this section may—
+
+(*a*) require prices or charges, or any combination of prices and charges, to be displayed in a single amount and inclusive of any charges, fees or taxes payable,
+
+(*b*) require the price or charge display, or combined price and charge display, to state the range of prices or charges for the products, and
+
+(*c*) prohibit the supply of the products to consumers at any price greater than the price or charge so displayed.
+
+(3) The Minister may make different regulations under this section for different classes or types of products or traders.
+
+(4) A regulation made under this section may apply to the whole State or to a prescribed geographical area of the State.
+
+(5) This section is in addition to *section 49* (respecting certain surcharges being stated as part of price).
+
+#### 58. Offence: price display contraventions.
+
+**58**.— A trader who contravenes a regulation under *section 57* commits an offence and is liable on summary conviction to the fines and penalties provided in *Chapter 4* of *Part 5*.
+
+#### 59. Offence: weighing facilities in grocery retail.
+
+**59**.— (1) In this section, “grocery retailer” means a trader who is a retailer within the meaning of section 15A of the Competition Act 2002.
+
+(2) A grocery retailer who offers food for sale to consumers by weight (other than food packed for sale by its manufacturer or producer or by the person who supplied it for sale) shall—
+
+(*a*) provide a weighing scale, or weighing machine, that—
+
+(i) is in a public and prominent position on the premises where that food is sold, and
+
+(ii) subject to health and food safety considerations, is as near as reasonably possible to where that food is on display for sale,
+
+and
+
+(*b*) allow any person purchasing, or about to purchase, such food to weigh it or observe its weighing on the weighing scale or weighing machine in a manner that allows the person to see the reading of the weight provided by the scale or machine and to be informed of the resultant price before payment.
+
+(3) A grocery retailer who contravenes *subsection (2)(a)* or *(b)* commits an offence and is liable on summary conviction to the fines and penalties provided in *Chapter 4* of *Part 5*.
+
+#### 60. Offence: preventing the reading of prices.
+
+**60**.— (1) A trader shall not, without reasonable cause, prevent a person from, or obstruct or interfere with that person in—
+
+(*a*) reading the prices displayed on or in relation to products supplied by the trader, or
+
+(*b*) entering premises for purposes described in *paragraph (a)*, if those premises are where the trader supplies those products.
+
+(2) A trader who contravenes *subsection (1)(a)* or *(b)* commits an offence and is liable on summary conviction to the fines and penalties provided in *Chapter 4* of *Part 5* .
+
+#### 61. State of emergency affecting supply of a product.
+
+**61**.— (1) If the Government are of the opinion that abnormal circumstances prevail or are likely to prevail in relation to the supply of a product, the Government may by order (“emergency order”) declare that a state of emergency affecting the supply of that product exists.
+
+(2) An emergency order may relate to one or more products and may define the products in such manner as the Government think fit.
+
+(3) Unless the term of an emergency order is extended under *subsection (4)* or *(5)* or the order is revoked, an emergency order—
+
+(*a*) remains in force for such term (not exceeding 6 months from the date that the order is made) that the Government think proper and specify in the order, and
+
+(*b*) expires at the end of the last day of the term specified.
+
+(4) Subject to *subsection (5)*, if an emergency order is in force (“principal order”) and the Government are of the opinion that abnormal circumstances continue to prevail in relation to the supply of a product to which the order relates, the Government may make one order (“extension order”) in relation to that product extending the term of the principal order as it relates to that product for a period not exceeding 6 months from the date that the extension order is made.
+
+(5) If during the extended term under *subsection (4)*, the Government are of the opinion that abnormal circumstances continue to prevail in relation to the supply of the product to which the extension order relates, the Government may make only one more order (“final extension order”) in relation to that product extending the term of the principal order as it relates to that product for a period not exceeding 6 months from the date that the final extension order is made.
+
+#### 62. Power to fix maximum prices during state of emergency.
+
+**62**.— (1) If an emergency order is in force in respect of a product under *section 61*, the Government may by order fix the maximum price at which that product may be supplied by a trader to consumers.
+
+(2) An order under *subsection (1)* may—
+
+(*a*) limit the application of the order to a class or type of the product,
+
+(*b*) specify conditions by reference to which a maximum price is fixed and may fix different maximum prices in relation to different conditions,
+
+(*c*) apply to the whole State, to a particular geographical area in the State, or to the supply of the product by a particular class or type of trader,
+
+(*d*) fix a maximum price by specifying it or by specifying the manner in which it is to be calculated, and
+
+(*e*) provide for any incidental or ancillary matter (including a requirement that the product to which the order relates shall be sold only in specified units of weight, measure or volume) that the Government consider necessary or expedient to give full effect to any provision of the order or to secure compliance with it.
+
+(3) Unless previously revoked, an order made under this section expires on the expiration of the emergency order in respect of which it is made.
+
+#### 63. Offence: contravening maximum price orders.
+
+**63**.— A trader who contravenes an order made under *section 62* commits an offence and is liable on conviction on indictment or on summary conviction, as the case may be, to the fines and penalties provided in *Chapter 4* of *Part 5* .
+
+### Chapter 5Grocery Goods Undertakings — F74[Chapter 5 — Grocery Goods Undertakings]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F74: Chapter 5 (ss. 63A-63E) inserted (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 83, S.I. No. 366 of 2014.
+>
+> **Editorial Notes:**
+>
+> E66: Certain findings under Chapter stated to be res judicata in respect of subsequent proceedings by *Competition and Consumer Protection Act 2014* (29/2014), s. 86(1), S.I. No. 366 of 2014.
+
+#### 63A. Interpretation
+
+F75[**63A.**— In this Chapter—
+
+"allowance" includes any discount, rebate, price concession or other advantage that is collateral to a sale or purchase of grocery goods but is not applied directly to the selling or purchase price;
+
+"contravention notice" has the meaning assigned to it by *section 63D*;
+
+"grocery goods" means—
+
+(*a*) any food or drink that is intended to be sold for human consumption and includes—
+
+(i) any substance or thing sold or represented for use as food or drink for human consumption,
+
+(ii) any substance or thing sold or represented for use as an additive, ingredient or processing aid in the preparation or production of food or drink for human consumption, and that is intended to be sold by a retailer as such an additive, ingredient or processing aid, and
+
+(iii) intoxicating liquors,
+
+but does not include food or drink served or supplied on the premises of a grocery goods undertaking in the course of providing catering, restaurant or take-away services or any similar hospitality services, or intoxicating liquor served or supplied for consumption on the premises of a grocery goods undertaking,
+
+(*b*) household cleaning products,
+
+(*c*) toiletries, and
+
+(*d*) garden plants and garden plant bulbs;
+
+"grocery goods undertaking" means an undertaking that is engaged for gain in the production, supply, distribution, wholesale or retail of grocery goods, whether or not the undertaking is engaged in the direct sale of those goods to the public;
+
+"marketing costs" means costs relating to the marketing of grocery goods, including costs relating to—
+
+(*a*) visits to a supplier by employees or representatives of a retailer or wholesaler directly involved in the purchase of grocery goods,
+
+(*b*) artwork or packaging design,
+
+(*c*) consumer or marketing research,
+
+(*d*) marketing consequent upon or related to the opening or refurbishment of a retail or wholesale premises, and
+
+(*e*) hospitality for the staff or representatives of a retailer or wholesaler,
+
+in relation to the goods concerned;
+
+"payment" means any compensation, consideration, allowance or inducement in any form (monetary or otherwise) and includes more favourable contractual terms;
+
+"promotion" means an offer for sale at an introductory or a reduced retail price or with some other benefit to consumers that is intended to subsist for a specified period;
+
+"relevant grocery goods undertaking" means a grocery goods undertaking engaged in the production, supply, distribution, wholesale or retail of grocery goods in the State, that has, or is a member of a group of related undertakings that has, an annual worldwide turnover of more than €50 million;
+
+"related undertaking", in relation to a person (the first-mentioned person), means—
+
+(*a*) if the first-mentioned person is a company, another company that is related within the meaning of section 140(5) of the Companies Act 1990,
+
+(*b*) a partnership of which the first-mentioned person is a member,
+
+(*c*) if the businesses of the first-mentioned person and another person have been so carried on that the separate business of each of them, or a substantial part thereof, is not readily identifiable, that other person,
+
+(*d*) if the decision as to how and by whom the businesses of the first- mentioned person and another person shall be managed can be made either by the same person or by the same group of persons acting in concert, that other person,
+
+(*e*) a person who performs a specific and limited purpose by or in connection with the business of the first-mentioned person, or
+
+(*f*) if provision is required to be made for the first-mentioned person and another person in any consolidated accounts compiled in accordance with the Seventh Council Directive 83/349/EEC of 13 June 1983[^2], that other person;
+
+"retailer" means a grocery goods undertaking that offers for sale, sells or resells grocery goods directly, or indirectly through franchise arrangements, to the public in the State;
+
+"shrinkage" means losses that occur as a result of theft, loss or accounting error, after goods are delivered by a grocery goods undertaking to a retailer’s premises;
+
+"supplier" means a grocery goods undertaking carrying on (or actively seeking to carry on) a business in the direct supply to any wholesaler or retailer of grocery goods for resale in the State, and includes any such undertaking whether located in the State or not;
+
+"wastage" means grocery goods that become unfit for sale after their delivery by a grocery goods undertaking to a retailer or a wholesaler;
+
+"wholesaler" means a grocery goods undertaking that purchases goods from a supplier for resale to a retailer.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F75: Chapter 5 (ss. 63A-63E) inserted (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 83, S.I. No. 366 of 2014.
+
+#### 63B. Regulations in respect of grocery goods undertakings
+
+F76[**63B.**— (1) Where the Minister considers it to be appropriate having regard to—
+
+(*a*) the desirability of the promotion of competitive trade between grocery goods undertakings,
+
+(*b*) the interests of consumers of grocery goods, in particular in relation to quality, value for money and access to choice,
+
+(*c*) the importance of grocery goods undertakings conducting their trading relationships in good faith and in a fair, open and transparent manner,
+
+(*d*) the importance of maintaining freedom of contract between grocery goods undertakings,
+
+(*e*) the importance of providing grocery goods undertakings with reasonable certainty in respect of the risks and costs of trading,
+
+(*f*) the economic importance to the State of the production, supply, distribution, wholesale and retail sectors in respect of grocery goods,
+
+(*g*) the impact on the development and maintenance of strong, innovative, efficient and competitive production and supply bases in the grocery goods sector, and
+
+(*h*) the impact on the development and maintenance of a competitive retail sector in respect of grocery goods,
+
+he or she may, having consulted with the Commission and such other persons (including relevant grocery goods undertakings and other grocery goods undertakings) as he or she considers appropriate, make regulations in relation to particular aspects of the commercial relationships between relevant grocery goods undertakings and other grocery goods undertakings, in relation to the sale or supply of grocery goods.
+
+(2) Notwithstanding the generality of *subsection (1)*, regulations made under that subsection may—
+
+(**a**) specify the form of contract to be entered into by a grocery goods undertaking for the sale or supply of grocery goods to, or the purchase or receipt of goods from, a relevant grocery goods undertaking,
+
+(*b*) specify the ways in which a contract for the sale or supply of grocery goods referred to in paragraph (a) may be—
+
+(i) varied,
+
+(ii) terminated, or
+
+(iii) renewed,
+
+(*c*) specify the circumstances in which arrangements relating to the supply or delivery, including the frequency and timing in relation to the supply or delivery, of grocery goods may be varied,
+
+(*d*) specify the manner in which certain terms and conditions are to be incorporated into contracts for the sale or supply of grocery goods referred to in *paragraph (a)*, including terms and conditions in relation to—
+
+(i) payment for grocery goods supplied to relevant grocery goods undertakings,
+
+(ii) the ordering, supply, price, marketing and sale of goods on promotion and the duration of the promotion,
+
+(iii) where a contract provides for payment arising from the negligence or fault of the supplier, the circumstances in which wastage that occurs at the premises of a relevant grocery goods undertaking is to be considered as due to the negligence or fault of the supplier, and
+
+(iv) the circumstances and manner in which a relevant grocery goods undertaking may require a grocery goods undertaking to make any payment, either directly or indirectly, towards the resolution of a customer complaint,
+
+(*e*) provide that a relevant grocery goods undertaking shall not enter into or renew any contract for the sale or supply of grocery goods referred to in *paragraph (a)* unless terms and conditions specified in regulations made under this section in relation to the following form part of the contract:
+
+(i) the conditions under which a relevant grocery goods undertaking may, or may not, directly or indirectly require a supplier or retailer to obtain any goods or services from a third party from whom the relevant grocery goods undertaking receives payment for this arrangement;
+
+(ii) the extent of the liability of a party to a contract for the sale or supply of grocery goods referred to in *paragraph (a)* for delays or failures in performance of the contract resulting from circumstances beyond the reasonable control of that party, and the actions that may or shall be taken by the parties to the contract in such circumstances,
+
+(*f*) limit the circumstances in which a relevant grocery goods undertaking may seek payment from a grocery goods undertaking in respect of—
+
+(i) shrinkage,
+
+(ii) wastage, or
+
+(iii) marketing costs,
+
+(*g*) specify the circumstances in which a relevant grocery goods undertaking may, or may not, seek payment from a grocery goods undertaking for the purchase of grocery goods for resale by the relevant grocery goods undertaking from the grocery goods undertaking,
+
+(*h*) provide for the manner in which forecasts for the supply of grocery goods are to be prepared and for the communication of the basis on which they are prepared,
+
+(*i*) specify the circumstances in which a relevant grocery goods undertaking that is a retailer or wholesaler may, or may not, seek payment from a supplier to retain shelf space, or to secure better positioning on shelves, or an increase in the allocation of shelf space, for the grocery goods of that supplier,
+
+(*j*) prohibit a relevant grocery goods undertaking from directly or indirectly compelling a grocery goods undertaking to make any payment or grant any allowance—
+
+(i) in respect of a promotion of the grocery goods of a grocery goods undertaking in the premises of the relevant grocery goods undertaking,
+
+(ii) for the advertising or display of the grocery goods of the grocery goods undertaking in the premises of the relevant grocery goods undertaking, or
+
+(iii) to retain shelf space, or to secure better positioning on shelves, or an increase in the allocation of shelf space, for the grocery goods of that grocery goods undertaking,
+
+(*k*) specify arrangements regarding promotions of grocery goods and related activities and the circumstances in which such arrangements shall be included in the contract for the sale or supply of grocery goods referred to in *paragraph (a)*,
+
+(*l*) provide for limitations on the obligation of grocery goods undertakings to participate in promotions by relevant grocery goods undertakings or similar activities in relation to grocery goods,
+
+(*m*) prohibit a relevant grocery goods undertaking from requiring a grocery goods undertaking to obtain any goods or services from a third party from whom the relevant grocery goods undertaking receives payment for this arrangement,
+
+(*n*) specify arrangements for the preparation by relevant grocery goods undertakings of an annual compliance report in respect of compliance with regulations made under this section, and for the submission of this report to the Commission,
+
+(*o*) provide for the maintenance of records, and specify the records to be maintained, by relevant grocery goods undertakings in relation to the sale or supply of grocery goods to or from grocery goods undertakings,
+
+(*p*) provide for the nature or type of information, documents or records that shall be maintained and kept by relevant grocery goods undertakings, and the length of time that such information, documents or records shall be kept,
+
+(*q*) specify the manner and timeframe in which payments for grocery goods supplied to relevant grocery goods undertakings are to be made,
+
+(*r*) provide for the designation and training of staff in relevant grocery goods undertakings to be responsible for compliance with any regulations made under this section and the dissemination of information in relation to the implementation of such regulations to other staff in the undertaking, and
+
+(*s*) contain transitional provisions relating to the contracts for the sale or supply of grocery goods referred to in paragraph (a) to which the regulations, or different provisions of the regulations, will apply and any other relevant transitional provisions.
+
+(3) Subject to this section, when making regulations under this section, the Minister may prescribe one or more classes (whether retailers, suppliers or wholesalers) of relevant grocery goods undertakings or grocery goods undertakings, or one or more classes of grocery goods, to which one or more of the regulations shall apply.
+
+(4) Regulations under this section shall only apply to contracts entered into or renewed on or after the date on which the regulations come into operation.
+
+(5) The Minister may, after he or she makes regulations under this section, and after consultation with the Commission and such other persons (including relevant grocery goods undertakings and other grocery goods undertakings) as he or she considers appropriate, prepare and make guidelines for the purpose of providing practical guidance as regards the operation of, and compliance with, this Chapter and any regulations made under this Chapter.
+
+(6) Guidelines issued under *subsection (5)* shall—
+
+(*a*) be published by the Minister in such manner as he or she considers appropriate,
+
+(*b*) be published by the Commission in such manner as it considers appropriate, and
+
+(*c*) be made available for inspection by any person free of charge during ordinary office hours at the principal office of the Commission.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F76: Chapter 5 (ss. 63A-63E) inserted (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 83, S.I. No. 366 of 2014.
+>
+> **Editorial Notes:**
+>
+> E67: Previous affecting provision: power pursuant to section exercised (30.04.2016) by *Consumer Protection Act 2007 (Grocery Goods Undertakings) Regulations 2016* (S.I. No. 35 of 2016), in effect as per reg. 1(2); revoked (1.04.2022) by *Consumer Protection Act 2007 (Grocery Goods Undertakings) (Revocation) Regulations 2022* (S.I. No. 150 of 2022), reg. 3, in effect as per reg. 2.
+
+#### 63C. Inspections and investigations by the Commission
+
+F77[**63C.**— (1) The Commission may from time to time carry out such and so many inspections of relevant grocery goods undertakings as it considers necessary to monitor compliance with regulations under *section 63B*.
+
+(2) In addition to carrying out inspections under subsection (1), the Commission may, where it has reasonable grounds to believe that a relevant grocery goods undertaking may be failing or may have failed to comply with regulations under *section 63B*, investigate any complaints it receives in relation to such an alleged failure.
+
+(3) The Commission may decide not to investigate a complaint referred to in *subsection (2)*, or to discontinue an investigation of a complaint, on the grounds that—
+
+(*a*) the complaint is frivolous or vexatious or was not made in good faith,
+
+(*b*) the subject-matter of the complaint is trivial,
+
+(*c*) the conduct complained of occurred at too remote a time to justify investigation, or
+
+(*d*) there is or was available to the complainant an alternative and satisfactory means of redress in relation to the conduct complained of.
+
+(4) The Commission may make preliminary inquiries for the purpose of deciding whether a complaint should be investigated and may in writing request the complainant to provide further written particulars of the complaint within a period specified by the Commission in the request.
+
+(5) The Commission may decide not to continue to investigate a complaint if the complainant fails to comply with a request for further written particulars within the time specified in the request under *subsection (4)*.
+
+(6) As soon as practicable after deciding not to investigate a complaint, or to discontinue an investigation of a complaint, the Commission shall inform the complainant in writing of the decision and the reasons for the decision.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F77: Chapter 5 (ss. 63A-63E) inserted (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 83, S.I. No. 366 of 2014.
+
+#### 63D. Contravention notices
+
+F78[**63D.**— (1) Where, on foot of an investigation carried out by the Commission under *section 63C*, the Commission is of the opinion that a relevant grocery goods undertaking is contravening or has contravened any provision of regulations made under *section 63B* that is stated in those regulations to be a penal provision, the Commission may instruct an authorised officer to serve, personally or by post, a notice (in this Chapter referred to as a "contravention notice") on the relevant grocery goods undertaking.
+
+(2) A contravention notice shall—
+
+(*a*) state that the Commission is of the opinion that the relevant grocery goods undertaking is contravening or has contravened regulations under *section 63B*,
+
+(*b*) state the reason for that opinion,
+
+(*c*) identify the relevant penal provision of the regulations in respect of which that opinion is held,
+
+(*d*) direct the relevant grocery goods undertaking to remedy the contravention by a date specified in the notice that shall not be earlier than the end of the period within which an appeal may be made under *subsection (6)*,
+
+(*e*) include information regarding the making of an appeal under *subsection (6)*,
+
+(*f*) include any other requirement that the Commission considers appropriate, in order to remedy the contravention, and
+
+(*g*) be signed and dated by a person duly authorised by the Commission to do so.
+
+(3) A contravention notice may include directions—
+
+(*a*) as to the measures to be taken to remedy any contravention or matter to which the notice relates, or to otherwise comply with the notice, and
+
+(*b*) to bring the notice to the attention of any person who may be affected by it.
+
+(4) A relevant grocery goods undertaking on whom a contravention notice has been served who is of the opinion that the contravention notice has been complied with shall confirm in writing to the Commission that the matters referred to in the notice have been so remedied.
+
+(5) Where a relevant grocery goods undertaking on whom a contravention notice has been served confirms in writing to the Commission in accordance with *subsection (4)* that the matters referred to in the contravention notice have been remedied, the Commission shall, on being satisfied that the matters have been so remedied, not later than one month from receipt of such confirmation, give notice to the relevant grocery goods undertaking concerned of compliance with the contravention notice.
+
+(6) A relevant grocery goods undertaking on which a contravention notice has been served may, within 21 days beginning on the day on which the notice is served, appeal against the notice to a judge of the Circuit Court in the circuit court area in which the notice was served and in determining the appeal the judge may, if he or she is satisfied that it is reasonable to do so, confirm, vary or cancel the notice.
+
+(7) A relevant grocery goods undertaking who appeals under *subsection (6)* shall at the same time notify the Commission of the appeal and the grounds for the appeal and the Commission shall be entitled to appear, be heard and adduce evidence on the hearing of the appeal.
+
+(8) Where an appeal under *subsection (6)* is made, and the contravention notice is not cancelled, the notice as confirmed or varied shall take effect on the later of—
+
+(*a*) the day next following the day on which the notice is confirmed or varied on appeal or the appeal is withdrawn, or
+
+(*b*) the day specified in the notice.
+
+(9) Where there is no appeal under *subsection (6)*, the contravention notice shall take effect on the later of—
+
+(*a*) the end of the period for making an appeal, or
+
+(*b*) the day specified in the notice.
+
+(10) The Commission may—
+
+(*a*) withdraw a contravention notice at any time, or
+
+(*b*) where no appeal is made or pending under *subsection (6)*, extend the period specified under *subsection (2)(d)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F78: Chapter 5 (ss. 63A-63E) inserted (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 83, S.I. No. 366 of 2014.
+
+#### 63E. Enforcement
+
+F79[**63E.**— (1) A relevant grocery goods undertaking that contravenes a requirement in a contravention notice commits an offence and is liable—
+
+(*a*) on summary conviction, to the fines and penalties provided for in *section 79*, or
+
+(*b*) on conviction on indictment, to the fines and penalties provided for in *section 79*.
+
+(2) A relevant grocery goods undertaking that, without reasonable excuse, contravenes a provision of regulations under *section 63B* that is declared in the regulations to be a penal provision commits an offence and is liable—
+
+(*a*) on summary conviction, to the fines and penalties provided for in *section 79*, or
+
+(*b*) on conviction on indictment, to the fines and penalties provided for in *section 79*.
+
+(3) Any person who is aggrieved in consequence of a relevant grocery goods undertaking’s failure to comply with any provision of regulations under section 63B or a contravention notice shall have a right of action under this subsection for relief against that relevant grocery goods undertaking.
+
+(4) An action under *subsection (3)* may be brought in the Circuit Court.
+
+(5) Any relief by way of damages, including exemplary damages, for an action under *subsection (3)* shall not, except by consent of the necessary parties in such form as may be provided for by rules of court, be in excess of the limit of the jurisdiction of the Circuit Court in an action founded on tort.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F79: Chapter 5 (ss. 63A-63E) inserted (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 83, S.I. No. 366 of 2014.
+
+## PART 4 Pyramid Promotional Schemes — PART 4 — Pyramid Promotional Schemes
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E68: Part designated a relevant enactment (30.04.2024) by *Representative Actions for the Protection of the Collective Interests of Consumers Act 2023* (22/2023), s. 2 and sch. part 2 item 4, S.I. No. 181 of 2024.
+
+### 64. Definition (Part 4).
+
+**64**.— (1) In this Part, “pyramid promotional scheme” means a scheme by which a person gives consideration in money or money’s worth, or gives a gift in money or money’s worth, for an opportunity to receive compensation derived primarily from the introduction of other persons into the scheme rather than from the supply or consumption of a product.
+
+(2) The following apply in respect of *subsection (1)*:
+
+(*a*) the opportunity to receive compensation need not be limited to the person’s introduction of other persons into the scheme but may include their introduction by other persons;
+
+(*b*) the scheme may but need not involve the supply of a product.
+
+### 65. Indictable offence: participating in, establishing, operating or promoting pyramid promotional schemes.
+
+**65**.— (1) A person shall not—
+
+(*a*) establish, operate or promote a pyramid promotional scheme,
+
+(*b*) F80[...]
+
+(*c*) induce or attempt to induce another person to participate in such a scheme.
+
+(2) A person who contravenes *subsection (1)* commits an offence.
+
+(3) In proceedings for an offence under this section or for a prohibition order under *section 71*, it shall not be necessary for the prosecution or the applicant, as the case may be, to prove—
+
+(*a*) that the opportunity to receive compensation was a legally enforceable right,
+
+(*b*) that the consideration or gift given, as the case may be, was given within the State,
+
+(*c*) that giving consideration or a gift was the only requirement a person had to satisfy in order to—
+
+(i) participate or be eligible to participate in the scheme, or
+
+(ii) be eligible or have opportunity to receive compensation under the scheme,
+
+(*d*) that any compensation received was received within the State,
+
+(*e*) that any opportunity to receive compensation was to be a receipt of such compensation within the State, or
+
+(*f*) that any arrangements under the scheme were recorded in writing.
+
+(4) If, in proceedings for an offence under this section or for a prohibition order under *section 71*, the alleged pyramid promotional scheme involves the supply of a product, then the following may be considered (among other things) in determining whether the opportunity to receive compensation is derived primarily from the introduction of other persons into the scheme:
+
+(*a*) in respect of a promotion of the scheme, the emphasis given to a participant’s entitlement to the product, as compared to the emphasis given to compensation derived from the introduction of other persons into the scheme;
+
+(*b*) the extent to which the consideration given bears a reasonable relationship to the product, by reference to the price of the same or a comparable product available elsewhere.
+
+(5) A person guilty of an offence under this section is liable on conviction on indictment to the fines and penalties provided in *Chapter 4* of *Part 5*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F80: Repealed (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 8(1) and sch. 1 part 1 ref. 6, S.I. No. 596 of 2022.
+>
+> **Editorial Notes:**
+>
+> E69: Offence under section included in definition of “relevant offence” for purposes of *Criminal Justice Act 2011* (22/2011) (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3 and sch. 1, S.I. No. 411 of 2011.
+
+### 66. Pyramid promotional scheme agreements void.
+
+**66**.— (1) An agreement between a scheme promoter and another person is, to the extent it requires or provides for payment of money or money’s worth in respect of a pyramid promotional scheme, void and has no effect, and no action lies in any court for the recovery of such money or money’s worth under or pursuant to such agreement.
+
+(2) For the purposes of *subsection (1)*, a “scheme promoter” means a person who establishes, operates or promotes a pyramid promotional scheme or who induces or attempts to induce others to participate in such a scheme, and includes any person acting on a scheme promoter’s behalf.
+
+## Part 4AGift Voucher Contracts — F81[Part 4A — Gift Voucher Contracts] — Annotations Amendments: Inserted (2.12.2019) by Consumer Protection (Gift Vouchers) Act 2019 (38/2019), s. 2, S.I. No. 595 of 2019.
+
+### 66A. Definitions and application
+
+F82[**66A.**— (1) In this Part—
+
+"durable medium" means any medium on which information is provided and stored, including paper and email, that—
+
+(*a*) renders the information accessible for future reference for a period of time adequate for the purposes of the information, and
+
+(*b*) allows the unchanged reproduction of the information;
+
+"expiry date" means the date after which, by virtue of the passage of time, a gift voucher ceases to be redeemable for the purchase of goods or services;
+
+"gift voucher" means, subject to *subsection (2)*, any voucher, coupon or other document or instrument, including in electronic form, that is intended to be used as a substitute for money in the payment, in whole or in part, for goods or services or otherwise exchanged for goods or services;
+
+"gift voucher contract" means a contract between a relevant trader and another person whereby the relevant trader supplies the person with a gift voucher;
+
+"relevant trader" means a trader who supplies a gift voucher to a person in accordance with a gift voucher contract.
+
+(2) In this Part, "gift voucher" does not include a voucher, coupon or other document or instrument, including in electronic form—
+
+(*a*) that is redeemable only for the purposes of the purchase, at a discounted price, of specified goods or specified services, from a specified trader or traders—
+
+(i) on a specified date, or
+
+(ii) for a specified period of a limited duration not exceeding 3 months,
+
+(*b*) that is supplied under a customer loyalty scheme,
+
+(*c*) that is supplied in connection with a promotional scheme that is connected to the purchase of specified goods or specified services,
+
+(*d*) that is supplied by way of a refund for goods returned to a trader,
+
+(*e*) that is redeemable only in exchange for goods or services relating to telephone services, internet services, fuel, electricity, heating or any other utility,
+
+(*f*) that is a cheque, bank draft or postal money order,
+
+(*g*) that constitutes electronic money, within the meaning of the European Communities (Electronic Money) Regulations 2011 (S.I. No. 183 of 2011), or
+
+(*h*) that is not supplied, marketed, provided or otherwise made available to be given as a gift.
+
+(3) This Part applies to a gift voucher contract that is entered into on or after the date on which this subsection comes into operation.
+
+(4) Any reference in this Part to a term of a gift voucher contract includes a reference to a term which, although not contained in the contract, is incorporated in the contract by another term of the contract or by any other means.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F82: Inserted (2.12.2019) by *Consumer Protection (Gift Vouchers) Act 2019* (38/2019), s. 2, S.I. No. 595 of 2019.
+
+### 66B. Terms of gift voucher contracts
+
+F83[**66B.**— (1) (*a*) Subject to *subsection (5)*, a gift voucher contract shall contain a term that the gift voucher is—
+
+(i) subject to an expiry date that is at least 5 years from the date on which the contract was entered into, or
+
+(ii) not subject to an expiry date.
+
+(*b*) Where a gift voucher contract does not include a term satisfying *paragraph (a)*, the contract shall be deemed to include a term that the gift voucher is subject to an expiry date that is 5 years from the date on which the contract was entered into.
+
+(*c*) Where a gift voucher contract is deemed to contain a term in accordance with *paragraph (b)*, and that term conflicts with an express term in the contract, the term under *paragraph (b)* shall override the express term.
+
+(*d*) A relevant trader who enters into a gift voucher contract that is contrary to *paragraph (a)* commits an offence and is liable on conviction on indictment or on summary conviction, as the case may be, to the fines and penalties provided in *Chapter 4* of *Part 5*.
+
+(2) (*a*) A relevant trader who enters into a gift voucher contract shall specify, whether on the gift voucher itself or otherwise on a durable medium supplied with the gift voucher—
+
+(i) the expiry date of the gift voucher,
+
+(ii) the date on which the gift voucher contract was entered into and the period during which the gift voucher to which it relates is redeemable, or
+
+(iii) that the gift voucher is not subject to an expiry date.
+
+(*b*) A relevant trader who fails to comply with *paragraph (a)* commits an offence and is liable on summary conviction to the fines and penalties provided in *Chapter 4* of *Part 5*.
+
+(3) (*a*) A gift voucher contract shall not contain a term requiring the full value of a gift voucher to be redeemed in a single transaction.
+
+(*b*) A relevant trader who enters into a gift voucher contract that is contrary to *paragraph (a)* commits an offence and is liable on conviction on indictment or on summary conviction, as the case may be, to the fines and penalties provided in *Chapter 4* of *Part 5*.
+
+(4) (*a*) Where—
+
+(i) a person redeems part of the value of a gift voucher in a transaction, such that the remaining balance of the gift voucher is €1 or more, and
+
+(ii) the gift voucher contract contains a term preventing the remaining balance of the gift voucher from being redeemed in another transaction,
+
+the gift voucher contract shall be deemed to include a term requiring the relevant trader to reimburse the remaining balance of the gift voucher to the person, in cash, by electronic transfer or by way of a gift voucher, in accordance with *subsection (5)*.
+
+(*b*) Where a gift voucher contract is deemed to contain a term in accordance with *paragraph (a)*, and that term conflicts with an express term in the contract, the term under *paragraph (a)* shall override the express term.
+
+(*c*) A relevant trader who enters into a gift voucher contract that contains an express term that is contrary to *paragraph (a)* commits an offence and is liable on conviction on indictment or on summary conviction, as the case may be, to the fines and penalties provided in *Chapter 4* of *Part 5*.
+
+(5) Where the remaining balance referred to in *subsection (4)(a)* is reimbursed by way of a gift voucher, the gift voucher concerned shall have—
+
+(*a*) an expiry date not earlier than the expiry date of the gift voucher referred to in the said *subsection (4)(a)*, and
+
+(*b*) a value equal to that of the remaining balance of the gift voucher referred to in the said *subsection (4)(a)*.
+
+(6) (*a*) In this subsection, ‘gift voucher contract to which this subsection applies’ means a gift voucher contract that contains a term requiring a gift voucher to be redeemed by a named person.
+
+(*b*) A gift voucher contract to which this subsection applies shall contain a term providing that—
+
+(i) the named person may redeem the gift voucher notwithstanding a difference between that person’s name as it appears on, or in connection with, the gift voucher, and as it appears on that person’s passport, driving licence, or any other form of personal identification, and
+
+(ii) the named person’s name as it appears on, or in connection with, the gift voucher may be amended or changed without a fee being charged.
+
+(*c*) Where a gift voucher contract to which this subsection applies does not contain a term satisfying *paragraph (b)*, the contract shall be deemed to include a term giving effect to that paragraph.
+
+(*d*) Where a gift voucher contract to which this section applies is deemed to contain a term in accordance with *paragraph (c)*, and that term conflicts with an express term in the contract, the term under *paragraph (c)* shall override the express term.
+
+(*e*) A relevant trader who enters into a gift voucher contract to which this subsection applies that is contrary to *paragraph (b)* commits an offence and is liable on conviction on indictment or on summary conviction, as the case may be, to the fines and penalties provided in *Chapter 4* of *Part 5*.
+
+(7) (*a*) A gift voucher contract shall not contain a term that places a limit on the number of gift vouchers that a person is permitted to redeem in a single transaction.
+
+(*b*) A relevant trader who enters into a gift voucher contract that is contrary to *paragraph (a)* commits an offence and is liable on conviction on indictment or on summary conviction, as the case may be, to the fines and penalties provided in *Chapter 4* of *Part 5*.
+
+(8) (*a*) Where a gift voucher contract contains a term relating to the replacement by a relevant trader of a gift voucher that has been lost or stolen, that term shall provide that the replacement gift voucher shall not be subject to an expiry date that is earlier than the expiry date of the gift voucher that it replaces.
+
+(*b*) Where a gift voucher contract contains a term relating to the replacement by a relevant trader of a gift voucher that has been lost or stolen, and which does not satisfy *paragraph (a)*, the contract shall be deemed to include a term giving effect to that paragraph.
+
+(*c*) Where a gift voucher contract is deemed to contain a term in accordance with *paragraph (b)*, and that term conflicts with an express term in the contract, the term under *paragraph (b)* shall override the express term.
+
+(*d*) A relevant trader who enters into a gift voucher contract that is contrary to *paragraph (a)* commits an offence and is liable on conviction on indictment or on summary conviction, as the case may be, to the fines and penalties provided in *Chapter 4* of *Part 5*.
+
+(9) Where a gift voucher contract contains a term that is contrary to the requirements of this section—
+
+(*a*) the term shall not be binding on—
+
+(i) a party to the gift voucher contract who is not a relevant trader, or
+
+(ii) a person who has rights under the gift voucher contract under *subsection (10)*,
+
+and
+
+(*b*) the gift voucher contract shall continue to bind the parties to it, or a person who has rights under the gift voucher contract under *subsection (10)*, if it is capable of continuing in existence without the term that is contrary to the requirements of this section.
+
+(10) Where a person (other than a relevant trader) who is party to a gift voucher contract gives, sells or otherwise transfers the gift voucher to which the contract relates to a third person, the third person shall be entitled to exercise all rights under the gift voucher contract on the same terms as the original party to the gift voucher contract.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F83: Inserted (2.12.2019) by *Consumer Protection (Gift Vouchers) Act 2019* (38/2019), s. 2, S.I. No. 595 of 2019.
+
+## PART 5 Proceedings, Remedies and Penalties — PART 5 — Proceedings, Remedies and Penalties
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E70: Part designated a relevant enactment (30.04.2024) by *Representative Actions for the Protection of the Collective Interests of Consumers Act 2023* (22/2023), s. 2 and sch. part 2 item 4, S.I. No. 181 of 2024.
+
+### Chapter 1 Interpretation and General Matters related to Proceedings — Chapter 1 — Interpretation and General Matters related to Proceedings
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E71: Competition and Consumer Protection Commission prohibited from delegating function of initiating enforcement proceedings under Part 5 (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 10(7)(c), S.I. No. 366 of 2014.
+
+#### 67. Definition (Part 5).
+
+**67**.— In this Part “prohibited act or practice” means any of the following:
+
+(*a*) any unfair, misleading or aggressive commercial practice under *Part 3* ;
+
+(*b*) any contravention of *section 48(3)* or *49(1)*;
+
+(*c*) any contravention of *section 55(1)* or *(3)*, *59(2)* or *60(1)*;
+
+F84[(*d*) any contravention of *section 65(1)* or *section 66B*,];
+
+(*e*) any contravention of a regulation under *section 50* or *57* or an order referred to in *section 92*;
+
+F85[(*f*) any contravention of an order under *section 62 (1)*;
+
+(*g*) F86[...]]
+
+F87[(*h*) any contravention of the European Union (Alternative Dispute Resolution for Consumer Disputes) Regulations 2015 (S.I. No. 343 of 2015),]
+
+F88[(*i*) any contravention of the European Union (Online Dispute Resolution for Consumer Disputes) Regulations 2015 (S.I. No. 500 of 2015),]
+
+F89[(*j*) any contravention of Article 9(1) of Regulation (EU) No. 260/2012 of the European Parliament and of the Council of 14 March 2012 where the payee is a consumer and the payer is a trader or any contravention of Article 9(2) of that Regulation where the payer is a consumer and the payee is a trader,]
+
+F90[(*k*) any contravention of the second sentence of Article 8(6) or of Article 10(4) of Regulation (EU) No. 751/2015 of the European Parliament and of the Council of 29 April 2015<sup>1</sup> by a payee where the payee is a trader and the payer is a consumer,]
+
+F91[(*l*) any contravention of the European Union (Unjustified Geo-blocking of Consumers) Regulations 2018 (S.I. No. 513 of 2018),]
+
+F92[(*m*) any contravention of Regulation 86(6) of the European Union (Payment Services) Regulations 2018 where—
+
+(i) the payee (within the meaning of those Regulations) is a trader that is not a regulated financial service provider (within the meaning of the Central Bank Act 1942), and
+
+(ii) the payer (within the meaning of those Regulations) is a consumer,]
+
+F93[(*n*) any contravention of the European Union (Promoting Fairness and Transparency for Business Users of Online Intermediation Services) Regulations 2020 (S.I. No. 256 of 2020),]
+
+F94[(*o*) any contravention of section 7 of the Act of 2022;
+
+(*p*) a failure or refusal by a trader to provide a remedy to which a consumer has a right under section 23 (1)(b), 26 (2)(a), 29 (1), 61 (1), 62 (2)(a), 85 (1) or section 86 (2)(a) of the Act of 2022;
+
+(*q*) where a consumer is entitled to reimbursement under section 31, 68 or 90 of the Act of 2022, a failure or refusal by a trader to reimburse the consumer;
+
+(*r*) any contravention of section 39 (1), 44 (1) or (2), 71 (1) or 94 (1) of the Act of 2022;
+
+(*s*) any contravention of Part 5 of the Act of 2022;
+
+(*t*) the use by a trader in a consumer contract (within the meaning of the Act of 2022) of a term that is unfair under section 132 of that Act;
+
+(*u*) the use by a trader in a consumer contract (within the meaning of the Act of 2022) of a term that is presumed to be unfair under section 133 of that Act;
+
+(*v*) the use by a trader in a consumer contract (within the meaning of the Act of 2022) of a term that is not transparent in contravention of section 134 (1) of that Act;
+
+(*w*) any contravention of section 140 of the Act of 2022,]
+
+but subject to the exclusion of one or more of the foregoing provisions provided for in *section 71*, *73*, *74* or *75*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F84: Substituted (2.12.2019) by *Consumer Protection (Gift Vouchers) Act 2019* (38/2019), s. 3(a), S.I. No. 595 of 2019.
+>
+> F85: Substituted and inserted (13.06.2014) by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2013), reg. 33(b), in effect as per reg. 1(2).
+>
+> F86: Deleted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 158(a), S.I. No. 596 of 2022.
+>
+> F87: Inserted (31.07.2015) by *European Union (Alternative Dispute Resolution for Consumer Disputes) Regulations 2015* (S.I. No. 343 of 2015), reg. 19(a).
+>
+> F88: Inserted (9.01.2016) by *European Union (Online Dispute Resolution for Consumer Disputes) Regulations 2015* (S.I. No. 500 of 2015), reg. 5(a), in effect as per reg. 1(2).
+>
+> F89: Inserted (26.04.2016) by *European Union (Requirements for Credit Transfers and Direct Debits in Euro) (Amendment) Regulations 2016* (S.I. No. 204 of 2016), reg. 9.
+>
+> F90: Inserted (9.06.2016) by *European Union (Interchange Fees for Card-based Payment Transactions) (Amendment) Regulations 2016* (S.I. No. 292 of 2016), reg. 6, in effect as per reg. 1(2).
+>
+> F91: Inserted (3.12.2018) by *European Union (Unjustified Geoblocking of Consumers) Regulations 2018* (S.I. No. 513 of 2018), reg. 6(a), in effect as per reg. 1(2), (3).
+>
+> F92: Inserted (7.06.2019) by *European Union (Payment Services) (Amendment) Regulations 2019* (S.I. No. 255 of 2019), reg. 3(b).
+>
+> F93: Inserted (12.07.2020) by *European Union (Promoting Fairness and Transparency for Business Users of Online Intermediation Services) Regulations 2020* (S.I. No. 256 of 2020), reg. 6(a), in effect as per reg. 1(2).
+>
+> F94: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 158(b), S.I. No. 596 of 2022.
+>
+> **Modifications (not altering text):**
+>
+> C5: Certain functions of National Consumer Agency under section extended to Commission for Communications Regulation (13.06.2014) by *Communications Regulation Act 2002* (20/2002), s. 10(1A)-(1E), as inserted by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2013), reg. 34(1)(c), in effect as per reg. 1(2).
+>
+> **Functions of Commission.**
+>
+> **10.**— ...
+>
+> **[**(1A) The functions of the Agency specified in subsection (1B) are (insofar as they relate to the provision of electronic communications networks, electronic communications services, associated facilities and premium rate services) also functions of the Commission, and subsections (1B) to (1E) have effect for the purposes of this subsection.
+>
+> (1B) The functions of the Agency referred to in subsection (1A) are the functions of the Agency under section 67, section 71, section 73, sections 75 to 77, section 80, sections 83 to 87 and section 90 of the Consumer Protection Act 2007 in relation to the European Communities (Consumer Information, Cancellation and Other Rights) Regulations 2013 (S.I. No. 484 of 2013).—
+>
+> (1C) Subsection (1A) operates to vest in the Commission, concurrently with the vesting in the Agency of those functions by the Consumer Protection Act 2007, the functions specified in subsection (1B).
+>
+> (1D) Accordingly—
+>
+> (*a*) functions so specified are, subject to any relevant co-operation agreement entered into under section 21 of the Consumer Protection Act 2007, capable of being performed by either the Agency or the Commission, and
+>
+> (*b*) subject to subsection (1E), references to the Agency in the provisions of the Act specified in subsection (1B) are to be read as including references to the Commission and those provisions otherwise apply.
+>
+> (1E) Where any section of the Consumer Protection Act 2007 specified in subsection (1B) provides for anything to be done in relation to the Agency (whether the giving of notice to it, the submitting of a thing to it or the doing of any other thing) then, if a co-operation agreement entered into under section 21 of that Act so specifies, it is sufficient compliance with the section concerned if the thing is done in relation to the Agency or the Commission as is specified in that agreement.**]**
+
+#### 68. Presumption respecting representations.
+
+**68**.— If, in any proceedings under this Act, the truth of a factual claim in a representation is an issue and the trader who made the representation, or on whose behalf the representation was made, does not establish on the balance of probabilities that it is true, then the representation shall be presumed to be untrue.
+
+#### 69. Advertisers.
+
+**69**.— (1) In this section:
+
+“advertiser” means a person who publishes advertisements;
+
+“contravening advertisement” means—
+
+(*a*) an unfair, misleading or aggressive commercial practice in the form of an advertisement, or
+
+(*b*) an advertisement that is—
+
+(i) a prohibited commercial practice under *section 55(1)* or *(3)*,
+
+(ii) in contravention of *section 49(1)*, or
+
+(iii) in contravention of a regulation under *section 50(2)*.
+
+(2) An advertiser who publishes a contravening advertisement on behalf of a trader does not commit an offence under *section 47*, *49(3)*, *51(2)* or *56* and is not liable under *section 74* (respecting consumer’s right of action for damages) if the advertiser proves that the advertiser did not know and had no reason to suspect that its publication would be in contravention of *section 41(1)*, *42*, *49(1)*, *50(2)*, *51(2)*, *52*, *54*, *55(1)* or *(3)* or *56*.
+
+(3) An advertiser who accepts or agrees to publish an advertisement for a trader shall—
+
+(*a*) make a record of the name and address of that trader, and
+
+(*b*) keep that record for not less than 2 years from the last day on which the advertisement is published.
+
+(4) An advertiser who contravenes *subsection (3)* commits an offence and is liable on summary conviction to the fines and penalties provided in *Chapter 4*.
+
+#### 70. Offence of trader due to act or default of another person.
+
+**70**.— (1) If, in relation to a commercial practice of a trader, the trader commits an offence under this Act and its commission is due to the act or default of another person, that other person shall also be guilty of an offence and may be charged with and convicted of it whether or not proceedings for an offence are brought against the trader.
+
+(2) A person guilty of an offence under *subsection (1)* is liable on conviction to the same range of fines and penalties provided in *Chapter 4* that the trader referred to in *subsection (1)* is or would be liable in respect of that offence.
+
+### Chapter 2 Civil Proceedings — Chapter 2 — Civil Proceedings
+
+#### 71. Civil relief by way of prohibition orders.
+
+**71**.— F95[(1) In this section, "prohibited act or practice" does not include:
+
+(*a*) a contravention of *section 59(2)* (respecting weighing facilities in grocery retail);
+
+(*b*) a contravention of *section 60(1)* (respecting preventing the reading of prices);
+
+(*c*) in relation to a financial service (within the meaning of the Central Bank Act 1942) provided by a trader who is a regulated financial service provider (within the meaning of that Act), a failure or refusal by the trader to provide—
+
+(i) a remedy to which a consumer is entitled under section 85 (1) or 86 (2)(a) of the Act of 2022, or
+
+(ii) a reimbursement to which a consumer is entitled under section 90 of the Act of 2022;
+
+(*d*) the use by a trader in a consumer contract (within the meaning of the Act of 2022) of a term that is unfair under section 132 of that Act;
+
+(*e*) the use by a trader in a consumer contract (within the meaning of the Act of 2022) of a term that is presumed to be unfair under section 133 of that Act;
+
+(*f*) the use by a trader in a consumer contract (within the meaning of the Act of 2022) of a term that is not transparent in contravention of section 134 (1) of that Act.]
+
+(2) Any person, including the Agency or any other public body that is prescribed for the purposes of this subsection, may apply to the Circuit Court or High Court for an order prohibiting a trader or person from committing or engaging in a prohibited act or practice.
+
+F96[(2A) An application may be made under *subsection (2)* for—
+
+(*a*) an interim order,
+
+(*b*) an interlocutory order, or
+
+(*c*) an order for an indefinite period or for a period specified in the application.]
+
+(3) An application under *subsection (2)* shall be on notice to—
+
+(*a*) the trader or person against whom the order is sought, and
+
+(*b*) the Agency, if the applicant is not the Agency.
+
+(4) In determining an application under this section, the court shall consider all interests involved and, in particular, the public interest.
+
+(5) If the applicant for an order under this section is not the Agency, the court may not make the order unless the Agency has been afforded an opportunity to be heard and adduce evidence.
+
+(6) If the court considers it necessary or appropriate in the circumstances, taking into account all interests involved and, in particular, the public interest, the court may make an order under this section without proof of any actual loss or damage or of any intention or negligence on the part of the trader.
+
+F96[(6A) Where an application under this section relates to a particular prohibited act or practice which relates to any of Parts 2 to 5 of the Act of 2022, an order may be made in relation to any similar prohibited act or practice (or prohibited act or practice having like effect) committed or engaged in by a trader.]
+
+(7) In making an order under this section, the court may impose terms or conditions in the order that the court considers appropriate, including a requirement that the trader or person publish a corrective statement, at the trader’s or person’s own expense and in any manner the court considers appropriate, in respect of the matters the subject of the order.
+
+(8) An application under this section to the Circuit Court shall be made to the judge of the Circuit Court for the circuit in which the prohibited act or practice concerned is being committed or engaged in.
+
+(9) The Circuit Court shall have jurisdiction to hear and determine an application under this section which it is satisfied it is appropriate for it to deal with as a court of local and limited jurisdiction and, for the purpose of the court’s satisfying itself of that matter, the matters to which it shall have regard include—
+
+(*a*) the nature and extent of the prohibited act or practice concerned, and
+
+(*b*) the estimated cost of complying with the order to which the application relates.
+
+(10) If, in relation to an application under this section to the Circuit Court, that court becomes of the opinion, during the hearing of the application, that it is not appropriate for the Circuit Court to deal with the application, it may, if it so thinks fit, transfer the application to the High Court.
+
+(11) *Subsection (10)* is without prejudice to the jurisdiction of the Circuit Court to determine an application under this section which, at the time of the making of the application, it was satisfied it had jurisdiction to deal with.
+
+(12) Where an application is transferred under *subsection (10)* to the High Court, the High Court shall be deemed to have made any order of a procedural nature that was made by the court from which it is so transferred in the proceedings in relation to the application.
+
+(13) A trader commits an offence who, without reasonable excuse, fails to comply with an order under this section and is liable on conviction on indictment or on summary conviction, as the case may be, to the fines and penalties provided in *Chapter 4* .
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F95: Substituted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 159(a), S.I. No. 596 of 2022.
+>
+> F96: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 159(b), (c), S.I. No. 596 of 2022.
+>
+> **Modifications (not altering text):**
+>
+> C6: Certain functions of National Consumer Agency under section extended to Commission for Communications Regulation (13.06.2014) by *Communications Regulation Act 2002* (20/2002), s. 10(1A)-(1E), as inserted by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2013), reg. 34(1)(c), in effect as per reg. 1(2).
+>
+> **Functions of Commission.**
+>
+> **10.**— ...
+>
+> **[**(1A) The functions of the Agency specified in subsection (1B) are (insofar as they relate to the provision of electronic communications networks, electronic communications services, associated facilities and premium rate services) also functions of the Commission, and subsections (1B) to (1E) have effect for the purposes of this subsection.
+>
+> (1B) The functions of the Agency referred to in subsection (1A) are the functions of the Agency under section 67, section 71, section 73, sections 75 to 77, section 80, sections 83 to 87 and section 90 of the Consumer Protection Act 2007 in relation to the European Communities (Consumer Information, Cancellation and Other Rights) Regulations 2013 (S.I. No. 484 of 2013).—
+>
+> (1C) Subsection (1A) operates to vest in the Commission, concurrently with the vesting in the Agency of those functions by the Consumer Protection Act 2007, the functions specified in subsection (1B).
+>
+> (1D) Accordingly—
+>
+> (*a*) functions so specified are, subject to any relevant co-operation agreement entered into under section 21 of the Consumer Protection Act 2007, capable of being performed by either the Agency or the Commission, and
+>
+> (*b*) subject to subsection (1E), references to the Agency in the provisions of the Act specified in subsection (1B) are to be read as including references to the Commission and those provisions otherwise apply.
+>
+> (1E) Where any section of the Consumer Protection Act 2007 specified in subsection (1B) provides for anything to be done in relation to the Agency (whether the giving of notice to it, the submitting of a thing to it or the doing of any other thing) then, if a co-operation agreement entered into under section 21 of that Act so specifies, it is sufficient compliance with the section concerned if the thing is done in relation to the Agency or the Commission as is specified in that agreement.**]**
+>
+> **Editorial Notes:**
+>
+> E72: Dental Council prescribed as public body for purposes of subs. (2) (28.03.2019) by *Consumer Protection Act 2007 (Section 71(2)) (Dental Council) Regulations 2019* (S.I. No. 126 of 2019).
+
+#### 72. Prohibition orders against code owners.
+
+**72**.— (1) In this section, “code owner” means, in relation to a code of practice, any person responsible for formulating or revising the code or for monitoring compliance by those traders who agree, commit or undertake to abide or be bound by it.
+
+(2) If a code of practice or its code owner promotes any prohibited act or practice, the Agency may apply to the Circuit Court or High Court for an order prohibiting the code owner from such promotion or requiring the code owner to withdraw the code or amend it as the court considers necessary to prevent such promotion.
+
+(3) An application under *subsection (2)* shall be on notice to the code owner.
+
+(4) In determining an application under this section, the court shall consider all interests involved and, in particular, the public interest.
+
+(5) In making an order under *subsection (2)*, the court may impose terms or conditions in the order that the court considers appropriate.
+
+(6) *Subsections (8)* to *(12)* of *section 71* apply to an application under this section as they apply to an application under that section with the following modifications—
+
+(*a*) the substitution in *subsection (8)* of “in which the code owner is promoting the prohibited act or practice concerned or in which the code owner resides or carries on any business or profession” for “in which the prohibited act or practice concerned is being committed or engaged in”, and
+
+(*b*) the substitution in *subsection (9)* of the following paragraph for *paragraph (a)*:
+
+“(*a*) the nature and extent of the prohibited act or practice being promoted by the code of practice concerned or its code owner,”.
+
+(7) A code owner commits an offence who, without reasonable excuse, fails to comply with an order under this section and is liable on conviction on indictment or on summary conviction, as the case may be, to the fines and penalties provided in *Chapter 4*.
+
+#### 73. Undertakings with the Agency.
+
+**73**.— F97[(1) In this section, "prohibited act or practice" does not include:
+
+(*a*) a contravention of *section 59(2)* (respecting weighing facilities in grocery retail);
+
+(*b*) a contravention of *section 60(1)* (respecting preventing the reading of prices);
+
+(*c*) in relation to a financial service (within the meaning of the Central Bank Act 1942) provided by a trader who is a regulated financial service provider (within the meaning of that Act), a failure or refusal by the trader to provide—
+
+(i) a remedy to which a consumer is entitled under section 85 (1) or 86 (2)(a) of the Act of 2022, or
+
+(ii) a reimbursement to which a consumer is entitled under section 90 of the Act of 2022.]
+
+(2) If the Agency has reason to believe that a trader—
+
+(*a*) is committing or engaging in a prohibited act or practice,
+
+(*b*) is about to commit or engage in a prohibited act or practice, or
+
+(*c*) has committed or engaged in a prohibited act or practice,
+
+the Agency may accept from the trader a written undertaking that is signed by the trader in the form and which contains the terms and conditions the Agency determines are appropriate in the circumstances.
+
+(3) If the Agency accepts an undertaking from a trader under this section, the Agency shall publish the undertaking, or cause it to be published, in any form or manner the Agency considers appropriate.
+
+(4) Without limiting *subsection (2)*, the undertaking may include one or more of the following terms and conditions:
+
+(*a*) an undertaking to comply with the provision or provisions concerned of this Act or regulations under this Act;
+
+(*b*) an undertaking to refrain from committing or engaging in any act or practice;
+
+(*c*) an undertaking to compensate consumers or a class of consumers, including reimbursing any money or returning any other property or thing received from consumers in connection with a consumer transaction;
+
+(*d*) an undertaking to publish or cause to be published, at the trader’s expense, an advertisement containing a corrective statement relating to the prohibited act or practice.
+
+(5) If the trader under *subsection (2)* is a body corporate, the undertaking shall be signed by a director, manager, secretary or other officer of the trader.
+
+(6) The Agency may terminate proceeding against a trader under *section 71* (respecting civil relief by way of prohibition orders) on the acceptance of an undertaking from the trader.
+
+F97[(7) Despite *subsection (6)*, the Commission may—
+
+(*a*) apply for an order against a trader under *section 71*, or
+
+(*b*) serve a compliance notice on a trader under *section 75*,
+
+if the trader fails to comply with the terms and conditions of an undertaking under this section.]
+
+(8) *Subsections (2)* to *(5)* shall, with the following modifications and any other necessary modifications, apply in respect of any trader the Agency has reason to believe is contravening, is about to contravene or has contravened an enactment specified in *Schedule 4,* namely, the modifications that—
+
+(*a*) references in those subsections to a prohibited act or practice shall be read as references to a contravention of an enactment specified in that Schedule, and
+
+(*b*) the reference in *subsection (4)(a)* to the provision or provisions concerned of this Act or regulations under this Act shall be read as a reference to the provision or provisions concerned of that enactment.
+
+(9) If compensation is paid to a consumer pursuant to an undertaking referred to in *subsection (4)(c)* and the consumer subsequently commences an action under *section 74* and is awarded damages by the court in respect of the same prohibited act or practice, the compensation paid under the undertaking is deemed to be in satisfaction of so much of the awarded damages as is equal to the amount paid to the consumer under that undertaking.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F97: Substituted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 160(a), (b), S.I. No. 596 of 2022.
+>
+> **Modifications (not altering text):**
+>
+> C7: Certain functions of National Consumer Agency under section extended to Commission for Communications Regulation (13.06.2014) by *Communications Regulation Act 2002* (20/2002), s. 10(1A)-(1E), as inserted by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2013), reg. 34(1)(c), in effect as per reg. 1(2).
+>
+> **Functions of Commission.**
+>
+> **10.**— ...
+>
+> **[**(1A) The functions of the Agency specified in subsection (1B) are (insofar as they relate to the provision of electronic communications networks, electronic communications services, associated facilities and premium rate services) also functions of the Commission, and subsections (1B) to (1E) have effect for the purposes of this subsection.
+>
+> (1B) The functions of the Agency referred to in subsection (1A) are the functions of the Agency under section 67, section 71, section 73, sections 75 to 77, section 80, sections 83 to 87 and section 90 of the Consumer Protection Act 2007 in relation to the European Communities (Consumer Information, Cancellation and Other Rights) Regulations 2013 (S.I. No. 484 of 2013).—
+>
+> (1C) Subsection (1A) operates to vest in the Commission, concurrently with the vesting in the Agency of those functions by the Consumer Protection Act 2007, the functions specified in subsection (1B).
+>
+> (1D) Accordingly—
+>
+> (*a*) functions so specified are, subject to any relevant co-operation agreement entered into under section 21 of the Consumer Protection Act 2007, capable of being performed by either the Agency or the Commission, and
+>
+> (*b*) subject to subsection (1E), references to the Agency in the provisions of the Act specified in subsection (1B) are to be read as including references to the Commission and those provisions otherwise apply.
+>
+> (1E) Where any section of the Consumer Protection Act 2007 specified in subsection (1B) provides for anything to be done in relation to the Agency (whether the giving of notice to it, the submitting of a thing to it or the doing of any other thing) then, if a co-operation agreement entered into under section 21 of that Act so specifies, it is sufficient compliance with the section concerned if the thing is done in relation to the Agency or the Commission as is specified in that agreement.**]**
+
+#### 74. Consumer's right of action for damages.
+
+**74**.— (1) F98[...]
+
+(2) A consumer who is aggrieved by a prohibited act or practice shall have a right of action for relief by way of damages, including exemplary damages, against the following:
+
+(*a*) any trader who commits or engages in the prohibited act or practice;
+
+(*b*) if such trader is a body corporate, any director, manager, secretary or other officer of the trader, or a person who purported to act in any such capacity, who authorised or consented to the doing of the act or the engaging in of the practice.
+
+(3) Subject to *subsection (4)*, an action under this section may be brought in the District Court, the Circuit Court or the High Court and such a court may, in that action, award such damages as the court considers appropriate, including exemplary damages.
+
+(4) If the action is brought in the District Court or the Circuit Court, any relief by way of damages, including exemplary damages, shall not, except by consent of the necessary parties in such form as may be provided for by rules of court, be in excess of the limit of jurisdiction of the District Court or the Circuit Court, as the case may be, in an action founded on tort.
+
+(5) Where in an action under this section it is proved that the act or practice complained of was done or engaged in by a body corporate it shall be presumed, until the contrary is proved, that each (if any) director of the body and person employed by it whose duties included making decisions that, to a significant extent, could have affected the management of the body, and any other person who purported to act in any such capacity at the material time, consented to the doing of that act or the engaging in of that practice.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F98: Repealed (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 8(1) and sch. 1 part 1 ref. 6, S.I. No. 596 of 2022.
+>
+> F99: Inserted by *Consumer Rights Act 2022* (37/2022), s. 161, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+
+#### 74A. Consumer’s right to price reduction and termination of contract.
+
+F99[**74A.**— ...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F99: Inserted by *Consumer Rights Act 2022* (37/2022), s. 161, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C8: Prospective affecting provision: section inserted by *Consumer Rights Act 2022* (37/2022), s. 161, not commenced as of date of revision.
+>
+> F99[**74A.**— (1) A consumer who is aggrieved by a prohibited act or practice shall have the following remedies—
+>
+> (*a*) a right to a reduction in the price payable under the contract, and
+>
+> (*b*) a right to terminate the contract.
+>
+> (2) The conditions under which the consumer shall have the right to those remedies, and the obligations of the trader and the consumer in respect of the remedies, shall be prescribed for the purposes of this section.]
+>
+> **Editorial Notes:**
+>
+> E73: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### Chapter 3 Compliance Notices — Chapter 3 — Compliance Notices
+
+#### 75. Compliance notices.
+
+**75**.— F100[(1) In this section, "prohibited act or practice" does not include—
+
+(*a*) a contravention of a regulation under *section 57* (respecting price display regulations),
+
+(*b*) in relation to a financial service (within the meaning of the Central Bank Act 1942) provided by a trader who is a regulated financial service provider (within the meaning of that Act), a failure or refusal by the trader to provide—
+
+(i) a remedy to which a consumer is entitled under section 85 (1) or 86 (2)(a) of the Act of 2022, or
+
+(ii) a reimbursement to which a consumer is entitled under section 90 of the Act of 2022.]
+
+(2) An authorised officer who is of the opinion that a person is committing or engaging in, or has committed or engaged in, a prohibited act or practice or is contravening or has contravened an enactment specified in *Schedule 5* may serve, personally or by post, a written notice on that person (a “compliance notice”).
+
+(3) A compliance notice shall be signed and dated by the authorised officer and shall—
+
+(*a*) contain a statement of the alleged contravention (identifying the relevant enactment), the opinion referred to in *subsection (2)* and the reasons for that opinion,
+
+(*b*) direct the person to remedy the contravention or the matters occasioning that notice, including any other requirement that the authorised officer considers appropriate in order to remedy the contravention or matter (the “compliance direction and requirements”),
+
+(*c*) specify the date by which the person is to comply with the compliance direction and requirements,
+
+(*d*) contain a statement that the person may appeal the notice to the F100[relevant court specified in the notice] within 14 days after service of the notice, including information specifying—
+
+(i) the form and manner of such an appeal, and
+
+(ii) the service address of the Agency for purposes of notifying the Agency under *subsection (6)*,
+
+and
+
+(*e*) contain a statement that, if an appeal is not made in accordance with this section and within the time specified in *paragraph (d)*, then—
+
+(i) the notice will be treated as not disputed,
+
+(ii) the person will be deemed to have accepted the notice and have agreed to comply with the compliance direction and requirements, and
+
+(iii) any failure or refusal to so comply is an offence and, on summary conviction, the person will be liable to the fine and penalties set out in *Chapter 4*.
+
+F101[(3A) Where the person on whom the compliance notice is served is a trader, an authorised officer may include a requirement under *subsection (3)(b)* that the trader refund any payments made by the consumer in any transaction relating to the contravention to which the notice relates;]
+
+(4) The date specified under *subsection (3)(c)* shall not be earlier than the end of the period within which an appeal may be made under *subsection (5)*.
+
+(5) If the person on whom the compliance notice is served wishes to dispute the notice, the person may, no later than 14 days after the notice is served and in accordance with this section and in the form and manner specified in the notice, appeal the notice to a judge of the F100[relevant court specified in the notice].
+
+(6) A person who appeals under *subsection (5)* shall at the same time notify the Agency of the appeal and the grounds for the appeal and the Agency shall be entitled to appear, be heard and adduce evidence on the hearing of the appeal.
+
+(7) In determining an appeal under this section, the judge may confirm, vary or cancel the compliance notice, if satisfied that it is reasonable to do so.
+
+(8) If on appeal the compliance notice is not cancelled, the notice takes effect on the later of the following:
+
+(*a*) the day after the day on which the notice is confirmed or varied on appeal;
+
+(*b*) if the appeal is withdrawn by the appellant, the day after the day it is withdrawn;
+
+(*c*) the day specified in the notice.
+
+(9) If there is no appeal under *subsection (5)*, the compliance notice takes effect on the later of the following:
+
+(*a*) 14 days after the notice is served on the person;
+
+(*b*) the day specified in the notice.
+
+(10) An authorised officer may—
+
+(*a*) withdraw a compliance notice at any time, or
+
+(*b*) if no appeal is made or pending under *subsection (5)*, extend the date specified in the notice under *subsection (3)(c)*.
+
+(11) A person commits an offence who, without reasonable excuse, fails to comply with a compliance direction or requirement specified in a compliance notice and, on summary conviction, is liable to the fines and penalties provided in *Chapter 4*.
+
+(12) Withdrawal of a compliance notice under *subsection (10)* does not prevent the service of another compliance notice, whether in respect of the same matter or a different matter.
+
+(13) If a compliance notice takes effect in accordance with this section, the Agency shall publish the compliance notice, or cause it to be published, in any form or manner the Agency considers appropriate.
+
+(14) Nothing in this section prevents the commencement of proceedings for an offence.
+
+F101[(15) In this section, "relevant court" means—
+
+(*a*) the District Court,
+
+(*b*) the Circuit Court, or
+
+(*c*) the High Court.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F100: Substituted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 162(a), (b), (d), S.I. No. 596 of 2022.
+>
+> F101: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 162(c), (e), S.I. No. 596 of 2022.
+>
+> **Modifications (not altering text):**
+>
+> C9: Section applied with modifications and references construed (12.07.2020) by *European Union (Promoting Fairness and Transparency for Business Users of Online Intermediation Services) Regulations 2020* (S.I. No. 256 of 2020), reg. 7(a), in effect as per reg. 1(2).
+>
+> *Construction of References*
+>
+> 7\. (1) Section 75 of the Act of 2007 shall apply for the purposes of these Regulations subject to the modification that references to a prohibited act or practice shall be construed as a reference to a contravention of these Regulations.
+>
+> ...
+>
+> C10: Section applied with modifications and references construed (3.12.2018) by *European Union (Unjustified Geoblocking of Consumers) Regulations 2018* (S.I. No. 513 of 2018), reg. 9(1), in effect as per reg. 1(2), (3).
+>
+> *Construction of References*
+>
+> 9\. (1) Section 75 of the Act of 2007 shall apply for the purposes of these Regulations subject to the modification that references to a prohibited act or practice shall be construed as a reference to a contravention of these Regulations.
+>
+> ...
+>
+> C11: Section applied with modifications and references construed (9.01.2016) by *European Union (Online Dispute Resolution for Consumer Disputes) Regulations 2015* (S.I. No. 500 of 2015), reg. 8(1), in effect as per reg. 1(2).
+>
+> *Construction of References*
+>
+> 8\. (1) Section 75 of the Act of 2007 shall apply for the purposes of these Regulations subject to the modification that references to a prohibited act or practice shall be construed as a reference to a contravention of these Regulations.
+>
+> ...
+>
+> C12: Section applied with modifications and references construed (31.07.2015) by *European Union (Alternative Dispute Resolution for Consumer Disputes) Regulations 2015* (S.I. No. 343 of 2015), reg. 22(1).
+>
+> *Construction of References*
+>
+> 22\. (1) Section 75 of the Act of 2007 shall apply for the purposes of these Regulations subject to the modification that references to a prohibited act or practice shall be construed as a reference to a contravention of these Regulations.
+>
+> ...
+>
+> C13: Certain functions of National Consumer Agency under section extended to Commission for Communications Regulation (13.04.2014) by *Communications Regulation Act 2002* (20/2002), s. 10(1A)-(1E), as inserted by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2013), reg. 34(1)(c), in effect as per reg. 1(2).
+>
+> **Functions of Commission.**
+>
+> **10.**— ...
+>
+> **[**(1A) The functions of the Agency specified in subsection (1B) are (insofar as they relate to the provision of electronic communications networks, electronic communications services, associated facilities and premium rate services) also functions of the Commission, and subsections (1B) to (1E) have effect for the purposes of this subsection.
+>
+> (1B) The functions of the Agency referred to in subsection (1A) are the functions of the Agency under section 67, section 71, section 73, sections 75 to 77, section 80, sections 83 to 87 and section 90 of the Consumer Protection Act 2007 in relation to the European Communities (Consumer Information, Cancellation and Other Rights) Regulations 2013 (S.I. No. 484 of 2013).—
+>
+> (1C) Subsection (1A) operates to vest in the Commission, concurrently with the vesting in the Agency of those functions by the Consumer Protection Act 2007, the functions specified in subsection (1B).
+>
+> (1D) Accordingly—
+>
+> (*a*) functions so specified are, subject to any relevant co-operation agreement entered into under section 21 of the Consumer Protection Act 2007, capable of being performed by either the Agency or the Commission, and
+>
+> (*b*) subject to subsection (1E), references to the Agency in the provisions of the Act specified in subsection (1B) are to be read as including references to the Commission and those provisions otherwise apply.
+>
+> (1E) Where any section of the Consumer Protection Act 2007 specified in subsection (1B) provides for anything to be done in relation to the Agency (whether the giving of notice to it, the submitting of a thing to it or the doing of any other thing) then, if a co-operation agreement entered into under section 21 of that Act so specifies, it is sufficient compliance with the section concerned if the thing is done in relation to the Agency or the Commission as is specified in that agreement.**]**
+
+### Chapter 4 Criminal Proceedings — Chapter 4 — Criminal Proceedings
+
+#### 76. Time limit for instituting proceedings.
+
+**76**.— F102[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F102: Repealed (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 4(1) and sch. 1 pt.1 item 16, S.I. No. 287 of 2013.
+>
+> **Editorial Notes:**
+>
+> E74: Extension of application of section sought to be effected by *Communications Regulation Act 2002* (20/2002), s. 10(1A)-(1E), as inserted (13.06.2014) by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2013), reg. 34(1)(c), is ineffective in light of repeal of section as per F-note above.
+>
+> E75: Extension of application of section sought to be effected (13.06.2014) by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2013), reg. 38(2), is ineffective in light of repeal of section as per F-note above.
+
+#### 77. Liability for offences by bodies corporate.
+
+**77**.— (1) If an offence under this Act is committed by a body corporate and is proved to have been committed with the consent, connivance or approval of, or to have been attributable to any neglect on the part of any person being a director, manager, secretary or any other officer of the body corporate or a person purporting to act in any such capacity, that person, as well as the body corporate, is guilty of an offence and is liable to be proceeded against and punished as if that person were guilty of the first-mentioned offence.
+
+(2) If, in a prosecution for an offence against the person referred to in *subsection (1)*, it is proved that, at the material time, the person was a director of the body corporate or an employee of it whose duties included making decisions that, to a significant extent, could have affected the management of the body corporate, or a person who purported to act in any such capacity, it shall be presumed, until the contrary is shown, that the person consented to the doing of the acts or defaults that constitute the offence.
+
+(3) *Subsection (2)* shall be read as placing on the person referred to in that subsection an evidential burden only with respect to the matter or matters concerned.
+
+(4) If the affairs of a body corporate are managed by its members, *subsections (1)* and *(2)* apply in relation to the acts or defaults of a member in connection with the member’s functions of management as if that member were a director or manager of the body corporate.
+
+(5) If a body corporate commits an offence under this Act, an employee, officer, director or agent of the body corporate who authorises, permits or acquiesces in the commission of the offence also commits an offence, whether or not the body corporate is prosecuted for the offence.
+
+(6) In a prosecution for an offence under this Act, it is sufficient proof of the offence to establish that it was committed by an employee, officer, director or agent of the defendant, whether or not the employee, officer, director or agent is identified or has been prosecuted for the offence.
+
+(7) *Subsection (6)* does not apply if the defendant establishes that the defendant exercised due diligence to prevent the commission of the offence.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C14: Section applied with modifications and references construed (3.12.2018) by *European Union (Unjustified Geoblocking of Consumers) Regulations 2018* (S.I. No. 513 of 2018), reg. 5(3), in effect as per reg. 1(2), (3).
+>
+> *Offences*
+>
+> 5\. ...
+>
+> (3) Sections 77, 78, 80 and 84 of the Act of 2007 shall apply to an offence under these Regulations as they apply to an offence under that Act and, accordingly, references in those sections to an offence under that Act shall be construed as including references to an offence under these Regulations.
+>
+> C15: Section applied with modifications and references construed (9.01.2016) by *European Union (Online Dispute Resolution for Consumer Disputes) Regulations 2015* (S.I. No. 500 of 2015), reg. 4(3), in effect as per reg. 1(2).
+>
+> *Offences*
+>
+> 4\. ...
+>
+> (3) Sections 77, 78, 80 and 84 of the Act of 2007 shall apply to an offence under these Regulations as they apply to an offence under that Act and, accordingly, references in those sections to an offence under that Act shall be construed as including references to an offence under these Regulations.
+>
+> C16: Section applied with modifications and references construed (31.07.2015) by *European Union (Alternative Dispute Resolution for Consumer Disputes) Regulations 2015* (S.I. No. 343 of 2015), reg. 18(6).
+>
+> *Consumer information by traders*
+>
+> 18\. ...
+>
+> (6) Sections 77, 78, 80 and 84 of the Act of 2007 shall apply to an offence under these Regulations as they apply to an offence under that Act and, accordingly, references in those sections to an offence under that Act shall be construed as including references to an offence under these Regulations.
+>
+> C17: Certain functions of National Consumer Agency under section extended to Commission for Communications Regulation (13.06.2014) by *Communications Regulation Act 2002* (20/2002), s. 10(1A)-(1E), as inserted by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2013), reg. 34(1)(c), in effect as per reg. 1(2).
+>
+> **Functions of Commission.**
+>
+> **10.**— ...
+>
+> **[**(1A) The functions of the Agency specified in subsection (1B) are (insofar as they relate to the provision of electronic communications networks, electronic communications services, associated facilities and premium rate services) also functions of the Commission, and subsections (1B) to (1E) have effect for the purposes of this subsection.
+>
+> (1B) The functions of the Agency referred to in subsection (1A) are the functions of the Agency under section 67, section 71, section 73, sections 75 to 77, section 80, sections 83 to 87 and section 90 of the Consumer Protection Act 2007 in relation to the European Communities (Consumer Information, Cancellation and Other Rights) Regulations 2013 (S.I. No. 484 of 2013).—
+>
+> (1C) Subsection (1A) operates to vest in the Commission, concurrently with the vesting in the Agency of those functions by the Consumer Protection Act 2007, the functions specified in subsection (1B).
+>
+> (1D) Accordingly—
+>
+> (*a*) functions so specified are, subject to any relevant co-operation agreement entered into under section 21 of the Consumer Protection Act 2007, capable of being performed by either the Agency or the Commission, and
+>
+> (*b*) subject to subsection (1E), references to the Agency in the provisions of the Act specified in subsection (1B) are to be read as including references to the Commission and those provisions otherwise apply.
+>
+> (1E) Where any section of the Consumer Protection Act 2007 specified in subsection (1B) provides for anything to be done in relation to the Agency (whether the giving of notice to it, the submitting of a thing to it or the doing of any other thing) then, if a co-operation agreement entered into under section 21 of that Act so specifies, it is sufficient compliance with the section concerned if the thing is done in relation to the Agency or the Commission as is specified in that agreement.**]**
+>
+> C18: Application of section extended (13.06.2014) by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2012), reg. 38(2), in effect as per reg. 1(2).
+>
+> 38\. ...
+>
+> (2) Sections 76 to 78 and sections 80, 83 and 84 of the Act of 2007 shall apply to an offence under these Regulations as they apply to an offence under that Act and, accordingly, references in those sections to an offence under that Act shall be construed as including references to an offence under these Regulations.
+>
+> C19: Application of section extended (8.05.2012) by *European Union (Textile Fibre Names and Related Labelling and Marking of the Fibre Composition of Textile Products) Regulations 2012* (S.I. No. 142 of 2012), reg. 11(5), in effect as per reg. 1(2).
+>
+> 11\. ...
+>
+> (5) Sections 77, 78 and 80 of the Act of 2007 shall apply to an offence under these Regulations as they apply to an offence under that Act and accordingly references in those sections to an offence under that Act shall be construed as including references to an offence under these Regulations.
+>
+> ...
+>
+> C20: Application of section extended (23.02.2011) by *European Union (Protection of Consumers in respect of Timeshare, Long-term Holiday Product, Resale and Exchange Contracts) Regulations 2011* (S.I. No. 73 of 2011), reg. 24(2), in effect as per reg. 1(2).
+>
+> *Offences and penalties*
+>
+> 24\. ...
+>
+> (2) Sections 77, 78 and 80 of the Act of 2007 shall apply to an offence under these Regulations as they apply to an offence under that Act and, accordingly, references in those sections to an offence under that Act shall be construed as including references to an offence under these Regulations.
+>
+> C21: Application of section extended (11.04.2009) by *European Communities (Prepacked Products) Regulations 2008* (S.I. No. 566 of 2008), reg. 10(4), in effect as per reg. 1(2).
+>
+> 10\. ...
+>
+> (4) Sections 77, 78 and 80 of the Act of 2007 shall apply to an offence under these Regulations as they apply to an offence under that Act and, accordingly, references in those sections to an offence under that Act shall be construed as including references to an offence under these Regulations.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E76: Previous affecting provision: application of section extended (27.09.2010) by *European Communities (Names and Labelling of Textile Products) Regulations 2010* (S.I. No. 485 of 2010), reg. 19(5); subsequently revoked (8.05.2012) by *European Union (Textile Fibre Names and Related Labelling and Marking of the Fibre Composition of Textile Products) Regulations 2012* (S.I. No. 142 of 2012), reg. 13(a), in effect as per reg. 1(2).
+
+#### F103[77A. Time limit for instituting summary proceedings.
+
+**77A**.— Notwithstanding section 10 (4) of the Petty Sessions (Ireland) Act 1851, summary proceedings for an offence under this Act may be instituted at any time within three years from the date on which the offence is alleged to have been committed.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F103: Inserted (28.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 163, S.I. No. 596 of 2022, art. 2.
+>
+> **Editorial Notes:**
+>
+> E77: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 78. Defence of due diligence.
+
+**78**.— (1) In proceedings for an offence under this Act, other than an offence under *section 65(2)*, it is a defence for the accused to prove both of the following:
+
+(*a*) commission of the offence was due to a mistake or the reliance on information supplied to the accused or to the act or default of another person, an accident or some other cause beyond the accused’s control;
+
+(*b*) the accused exercised due diligence and took all reasonable precautions to avoid commission of the offence.
+
+(2) If the defence provided by *subsection (1)* involves the allegation that the commission of the offence was due to reliance on information supplied by another person or to the act or default of another person, the accused shall not, without leave of the court, be entitled to rely on that defence unless, not less than 7 working days before the hearing, the accused has served on the prosecutor written notice providing information identifying or assisting in the identification of that other person.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C22: Section applied with modifications and references construed by *Hallmarking Act 1981* (18/1981), s. 6C, as inserted (30.09.2019) by *Hallmarking (Amendment) Act 2019* (2/2019), s. 9, S.I. No. 439 of 2019.
+>
+> **Offence relating to supply of multi-metal articles**
+>
+> **6C.** ...
+>
+> (3) Sections 78, 80 and 84 of the Act of 2007 shall apply to an offence under this section as they apply to an offence under that Act and, for that purpose, references in those sections to an offence under that Act shall be construed as including references to an offence under this section.
+>
+> ...
+>
+> C23: Section applied with modifications and references construed (3.12.2018) by *European Union (Unjustified Geoblocking of Consumers) Regulations 2018* (S.I. No. 513 of 2018), reg. 5(3), in effect as per reg. 1(2), (3).
+>
+> *Offences*
+>
+> 5\. ...
+>
+> (3) Sections 77, 78, 80 and 84 of the Act of 2007 shall apply to an offence under these Regulations as they apply to an offence under that Act and, accordingly, references in those sections to an offence under that Act shall be construed as including references to an offence under these Regulations.
+>
+> C24: Section applied with modifications and references construed (9.01.2016) by *European Union (Online Dispute Resolution for Consumer Disputes) Regulations 2015* (S.I. No. 500 of 2015), reg. 4(3), in effect as per reg. 1(2).
+>
+> *Offences*
+>
+> 4\. ...
+>
+> (3) Sections 77, 78, 80 and 84 of the Act of 2007 shall apply to an offence under these Regulations as they apply to an offence under that Act and, accordingly, references in those sections to an offence under that Act shall be construed as including references to an offence under these Regulations.
+>
+> C25: Section applied with modifications and references construed (31.07.2015) by *European Union (Alternative Dispute Resolution for Consumer Disputes) Regulations 2015* (S.I. No. 343 of 2015), reg. 18(6).
+>
+> *Consumer information by traders*
+>
+> 18\. ...
+>
+> (6) Sections 77, 78, 80 and 84 of the Act of 2007 shall apply to an offence under these Regulations as they apply to an offence under that Act and, accordingly, references in those sections to an offence under that Act shall be construed as including references to an offence under these Regulations.
+>
+> C26: Application of section extended (13.06.2014) by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2012), reg. 38(2), in effect as per reg. 1(2).
+>
+> 38\. ...
+>
+> (2) Sections 76 to 78 and sections 80, 83 and 84 of the Act of 2007 shall apply to an offence under these Regulations as they apply to an offence under that Act and, accordingly, references in those sections to an offence under that Act shall be construed as including references to an offence under these Regulations.
+>
+> C27: Application of section extended (8.05.2012) by *European Union (Textile Fibre Names and Related Labelling and Marking of the Fibre Composition of Textile Products) Regulations 2012* (S.I. No. 142 of 2012), reg. 11(5), in effect as per reg. 1(2).
+>
+> 11\. ...
+>
+> (5) Sections 77, 78 and 80 of the Act of 2007 shall apply to an offence under these Regulations as they apply to an offence under that Act and accordingly references in those sections to an offence under that Act shall be construed as including references to an offence under these Regulations.
+>
+> C28: Application of section extended (23.02.2011) by *European Union (Protection of Consumers in respect of Timeshare, Long-term Holiday Product, Resale and Exchange Contracts) Regulations 2011* (S.I. No. 73 of 2011), reg. 24(2), in effect as per reg. 1(2).
+>
+> *Offences and penalties*
+>
+> 24\. ...
+>
+> (2) Sections 77, 78 and 80 of the Act of 2007 shall apply to an offence under these Regulations as they apply to an offence under that Act and, accordingly, references in those sections to an offence under that Act shall be construed as including references to an offence under these Regulations.
+>
+> C29: Application of section extended (11.04.2009) by *European Communities (Prepacked Products) Regulations 2008* (S.I. No. 566 of 2008), reg. 10(4), in effect as per reg. 1(2).
+>
+> 10\. ...
+>
+> (4) Sections 77, 78 and 80 of the Act of 2007 shall apply to an offence under these Regulations as they apply to an offence under that Act and, accordingly, references in those sections to an offence under that Act shall be construed as including references to an offence under these Regulations.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E78: Previous affecting provision: application of section extended (27.09.2010) by *European Communities (Names and Labelling of Textile Products) Regulations 2010* (S.I. No. 485 of 2010), reg. 19(5); subsequently revoked (8.05.2012) by *European Union (Textile Fibre Names and Related Labelling and Marking of the Fibre Composition of Textile Products) Regulations 2012* (S.I. No. 142 of 2012), reg. 13(a), in effect as per reg. 1(2).
+
+#### 79. Fines and penalties.
+
+**79**.— (1) A person guilty of an offence under this Act (other than an offence under *section 65(2)*) is liable on summary conviction to the following fines and penalties:
+
+(*a*) on a first summary conviction for any such offence, to F104[a class B fine] or imprisonment for a term not exceeding 6 months or both;
+
+(*b*) on any subsequent summary conviction for the same offence or any other offence under this Act (other than an offence under *section 65(2)*), to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months or both.
+
+(2) If, after being convicted of an offence, the person referred to in *subsection (1)* continues to contravene the requirement or prohibition to which the offence relates, the person is guilty of a further offence on each day that the contravention continues and for each such offence is liable on summary conviction to a fine not exceeding €500.
+
+(3) A person guilty of an offence under this Act (other than an offence under any of the excluded sections) is liable on conviction on indictment to the following fines and penalties:
+
+(*a*) on a first conviction on indictment for any such offence, to a fine not exceeding €60,000 or imprisonment for a term not exceeding 18 months or both;
+
+(*b*) on any subsequent conviction on indictment for the same offence or any other offence under this Act (other than an offence under any of the excluded sections), to a fine not exceeding €100,000 or imprisonment for a term not exceeding 24 months or both.
+
+(4) In *subsection (3)* “excluded sections” means *sections 30(11)*, *(12)* and *(15)*, *32(3)*, *48(5)*, *49(3)*, *51(1)* and *(2)*, *58*, *59(3)*, *60(2)*, *65(2)*, *69(4)*, *75(11)* and *101(5)*.
+
+(5) If, after being convicted of an offence, the person referred to in *subsection(3)* continues to contravene the requirement or prohibition to which the offence relates, the person is guilty of a further offence on each day that the contravention continues and for each such offence is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €500, and
+
+(*b*) on conviction on indictment, to a fine not exceeding €10,000.
+
+(6) A person guilty of an offence under *section 65(2)* is liable on conviction on indictment to a fine not exceeding €150,000 or imprisonment for a term not exceeding 5 years or both.
+
+(7) If, after being convicted of an offence under *section 65(2)*, a person continues to contravene *section 65(1)*, the person is guilty of a further offence on each day that the contravention continues and for each such offence is liable on conviction on indictment to a fine not exceeding €10,000.
+
+F105[(7A) Where a court is determining the sentence to impose on a person convicted of an offence under any of *Chapters 1* to *4* of *Part 3* or this section, it shall take account, so far as applicable, of the following indicative and non-exhaustive criteria:
+
+(*a*) the nature, gravity, scale and duration of the infringement;
+
+(*b*) any action taken by the person to mitigate or remedy the damage suffered by consumers;
+
+(*c*) any previous infringements of the provisions of any of those Chapters or of this section by the person;
+
+(*d*) the financial benefits gained or losses avoided by the person due to the infringement, if the relevant data are available;
+
+(*e*) any penalties imposed on the person for the same infringement in other Member States in cross-border cases where information about such penalties is available through the mechanism established by Regulation (EU) 2017/2394 of the European Parliament and of the Council of 12 December 2017[^3] on cooperation between national authorities responsible for the enforcement of consumer protection laws and repealing Regulation (EC) No. 2006/2004;
+
+(*f*) any other aggravating or mitigating factors applicable in the circumstances of the case.]
+
+(8) In considering an appropriate penalty under this section for a trader convicted of an offence under *section 47*, *51(2)* or *56*, the court may take into consideration any advertisement published by or on behalf of the trader containing corrective statements to remedy the prohibited act or practice in respect of which the trader is convicted.
+
+(9) Section 13 of the Criminal Procedure Act 1967 applies in relation to an offence under this Act except that the following range of fines and penalties are to be substituted for those provided in section 13(3)(*a*) of the Criminal Procedure Act 1967:
+
+(*a*) if it is a first conviction for an offence under this Act, the accused is liable to a fine not exceeding €3,000 or imprisonment for a term not exceeding 6 months or both;
+
+(*b*) if it is not a first conviction for an offence under this Act, the accused is liable to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months or both.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F104: Substituted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 164(a), S.I. No. 596 of 2022. A class B fine means a fine not greater than €4,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(1), S.I. No. 662 of 2010.
+>
+> F105: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 164(b), S.I. No. 596 of 2022.
+>
+> **Editorial Notes:**
+>
+> E79: Section included in definition of “national measure” and infringements with international or widespread effects under section prescribed as offences (17.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2020* (S.I. No. 14 of 2020), reg. 7(2), (3)(a), in effect as per reg. 1(2).
+>
+> E80: A fine of €5,000 translates into a class A fine, not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3 and 4(2), table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E81: A fine of €500 translates into a class E fine, not greater than €500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3 and 8(2), table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E82: A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3 and 5(2), table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E83: Previous affecting provision: section included in definition of “national measure” and infringements with international or widespread effects under section prescribed as offences (17.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2019* (S.I. No. 691 of 2019), reg. 7(2), (3)(a), in effect as per reg. 1(2); revoked (17.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2020* (S.I. No. 14 of 2020), reg. 11(f), in effect as per reg. 1(2).
+
+#### 80. Convicted persons liable for costs and expenses of proceedings and investigation.
+
+**80**.— (1) On convicting a person of an offence under this Act, the court shall, unless satisfied that there are special and substantial reasons for not so doing, order the person to pay to the Agency the costs and expenses, measured by the court, incurred by the Agency in relation to the investigation, detection and prosecution of the offence.
+
+(2) An order for costs and expenses under *subsection (1)* is in addition to and not instead of any fine or penalty the court may impose.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C30: Section applied with modifications and references construed by *Hallmarking Act 1981* (18/1981), s. 6C, as inserted (30.09.2019) by *Hallmarking (Amendment) Act 2019* (2/2019), s. 9, S.I. No. 439 of 2019.
+>
+> **Offence relating to supply of multi-metal articles**
+>
+> **6C.** ...
+>
+> (3) Sections 78, 80 and 84 of the Act of 2007 shall apply to an offence under this section as they apply to an offence under that Act and, for that purpose, references in those sections to an offence under that Act shall be construed as including references to an offence under this section.
+>
+> ...
+>
+> C31: Section applied with modifications and references construed (3.12.2018) by *European Union (Unjustified Geoblocking of Consumers) Regulations 2018* (S.I. No. 513 of 2018), reg. 5(3), in effect as per reg. 1(2), (3).
+>
+> *Offences*
+>
+> 5\. ...
+>
+> (3) Sections 77, 78, 80 and 84 of the Act of 2007 shall apply to an offence under these Regulations as they apply to an offence under that Act and, accordingly, references in those sections to an offence under that Act shall be construed as including references to an offence under these Regulations.
+>
+> C32: Section applied with modifications and references construed (9.01.2016) by *European Union (Online Dispute Resolution for Consumer Disputes) Regulations 2015* (S.I. No. 500 of 2015), reg. 4(3), in effect as per reg. 1(2).
+>
+> *Offences*
+>
+> 4\. ...
+>
+> (3) Sections 77, 78, 80 and 84 of the Act of 2007 shall apply to an offence under these Regulations as they apply to an offence under that Act and, accordingly, references in those sections to an offence under that Act shall be construed as including references to an offence under these Regulations.
+>
+> C33: Section applied with modifications and references construed (31.07.2015) by *European Union (Alternative Dispute Resolution for Consumer Disputes) Regulations 2015* (S.I. No. 343 of 2015), reg. 18(6).
+>
+> *Consumer information by traders*
+>
+> 18\. ...
+>
+> (6) Sections 77, 78, 80 and 84 of the Act of 2007 shall apply to an offence under these Regulations as they apply to an offence under that Act and, accordingly, references in those sections to an offence under that Act shall be construed as including references to an offence under these Regulations.
+>
+> C34: Certain functions of National Consumer Agency under section extended to Commission for Communications Regulation (13.06.2014) by *Communications Regulation Act 2002* (20/2002), s. 10(1A)-(1E), as inserted by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2013), reg. 34(1)(c), in effect as per reg. 1(2).
+>
+> **Functions of Commission.**
+>
+> **10.**— ...
+>
+> **[**(1A) The functions of the Agency specified in subsection (1B) are (insofar as they relate to the provision of electronic communications networks, electronic communications services, associated facilities and premium rate services) also functions of the Commission, and subsections (1B) to (1E) have effect for the purposes of this subsection.
+>
+> (1B) The functions of the Agency referred to in subsection (1A) are the functions of the Agency under section 67, section 71, section 73, sections 75 to 77, section 80, sections 83 to 87 and section 90 of the Consumer Protection Act 2007 in relation to the European Communities (Consumer Information, Cancellation and Other Rights) Regulations 2013 (S.I. No. 484 of 2013).—
+>
+> (1C) Subsection (1A) operates to vest in the Commission, concurrently with the vesting in the Agency of those functions by the Consumer Protection Act 2007, the functions specified in subsection (1B).
+>
+> (1D) Accordingly—
+>
+> (*a*) functions so specified are, subject to any relevant co-operation agreement entered into under section 21 of the Consumer Protection Act 2007, capable of being performed by either the Agency or the Commission, and
+>
+> (*b*) subject to subsection (1E), references to the Agency in the provisions of the Act specified in subsection (1B) are to be read as including references to the Commission and those provisions otherwise apply.
+>
+> (1E) Where any section of the Consumer Protection Act 2007 specified in subsection (1B) provides for anything to be done in relation to the Agency (whether the giving of notice to it, the submitting of a thing to it or the doing of any other thing) then, if a co-operation agreement entered into under section 21 of that Act so specifies, it is sufficient compliance with the section concerned if the thing is done in relation to the Agency or the Commission as is specified in that agreement.**]**
+>
+> C35: Application of section extended (13.06.2014) by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2012), reg. 38(2), in effect as per reg. 1(2).
+>
+> 38\. ...
+>
+> (2) Sections 76 to 78 and sections 80, 83 and 84 of the Act of 2007 shall apply to an offence under these Regulations as they apply to an offence under that Act and, accordingly, references in those sections to an offence under that Act shall be construed as including references to an offence under these Regulations.
+>
+> C36: Application of section extended (8.05.2012) by *European Union (Textile Fibre Names and Related Labelling and Marking of the Fibre Composition of Textile Products) Regulations 2012* (S.I. No. 142 of 2012), reg. 11(5), in effect as per reg. 1(2).
+>
+> 11\. ...
+>
+> (5) Sections 77, 78 and 80 of the Act of 2007 shall apply to an offence under these Regulations as they apply to an offence under that Act and accordingly references in those sections to an offence under that Act shall be construed as including references to an offence under these Regulations.
+>
+> C37: Application of section extended (23.02.2011) by *European Union (Protection of Consumers in respect of Timeshare, Long-term Holiday Product, Resale and Exchange Contracts) Regulations 2011* (S.I. No. 73 of 2011), reg. 24(2), in effect as per reg. 1(2).
+>
+> *Offences and penalties*
+>
+> 24\. ...
+>
+> (2) Sections 77, 78 and 80 of the Act of 2007 shall apply to an offence under these Regulations as they apply to an offence under that Act and, accordingly, references in those sections to an offence under that Act shall be construed as including references to an offence under these Regulations.
+>
+> C38: Application of section extended (11.04.2009) by *European Communities (Prepacked Products) Regulations 2008* (S.I. No. 566 of 2008), reg. 10(4), in effect as per reg. 1(2).
+>
+> 10\. ...
+>
+> (4) Sections 77, 78 and 80 of the Act of 2007 shall apply to an offence under these Regulations as they apply to an offence under that Act and, accordingly, references in those sections to an offence under that Act shall be construed as including references to an offence under these Regulations.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E84: Previous affecting provision: application of section extended (27.09.2010) by *European Communities (Names and Labelling of Textile Products) Regulations 2010* (S.I. No. 485 of 2010), reg. 19(5); revoked (8.05.2012) by *European Union (Textile Fibre Names and Related Labelling and Marking of the Fibre Composition of Textile Products) Regulations 2012* (S.I. No. 142 of 2012), reg. 13(a), in effect as per reg. 1(2).
+
+#### 81. Convicted traders liable to compensate consumers for loss or damage.
+
+**81**.— (1) If a trader is convicted of an offence under this Act (other than an offence under *section 65(2)*), the Agency may, on behalf of an aggrieved consumer who consents to the application, apply to the court for an order (a “compensation order”) requiring the trader (the “trader concerned”) to pay an amount of money the court considers appropriate compensation in respect of any loss or damage to that consumer resulting from that offence.
+
+(2) A compensation order may be instead of or in addition to any fine or penalty the court may impose on the trader concerned.
+
+(3) The compensation payable under a compensation order—
+
+(*a*) shall be of such amount as the court considers appropriate (though not exceeding the amount set by law as the limit of the court’s jurisdiction in tort), having regard to any evidence and to any submissions made by or on behalf of the trader concerned, the aggrieved consumer, the Agency or the prosecutor, and
+
+(*b*) shall not exceed the amount of the damages that, in the opinion of the court, the aggrieved consumer would be entitled to recover in an action under *section 74* (respecting a consumer’s right of action for damages) in respect of the same prohibited act or practice.
+
+(4) An application shall not be made under *subsection (1)* if the aggrieved consumer has brought an action under *section 74* against the trader concerned and the action is in respect of the same prohibited act or practice for which the trader concerned is convicted.
+
+(5) If the amount of compensation payable under a compensation order is paid to the aggrieved consumer under this section and the consumer subsequently commences an action under *section 74* and is awarded damages by the court in respect of the same prohibited act or practice, the compensation order is deemed to be in satisfaction of so much of the awarded damages as is equal to the first-mentioned amount.
+
+(6) If the trader concerned does not comply with a compensation order—
+
+(*a*) within the time ordered by the court, or
+
+(*b*) within 30 days after the order is made, if no time is specified in the order,
+
+the aggrieved consumer may enter judgment in the District Court or, as appropriate, the Circuit Court by filing the order with that court in the District Court district or, as appropriate, the circuit where the conviction was entered.
+
+(7) A judgment entered in the District Court or the Circuit Court under *subsection (6)* is enforceable against the trader concerned in the same manner as if it were a judgment rendered in that court in civil proceedings.
+
+#### 82. Court may order convicted person to publish corrective statement.
+
+**82**.— (1) This section applies to a person—
+
+(*a*) convicted of an offence under *section 47* (respecting misleading commercial practices), *56* (respecting prohibited commercial practices) or *65(2)* (respecting pyramid promotional schemes), or
+
+(*b*) convicted of such an offence pursuant to *section 70(1)* (respecting offences of traders due to act or default of another person).
+
+(2) On conviction of the person to whom this section applies and on application of the Agency, the court may, in addition to any fine or penalty imposed, order the person to publish, at the person’s expense and in any manner the court considers appropriate, the facts relating to the commission of the offence and a corrective statement in respect of those facts.
+
+(3) The court may, based on the submissions of the Agency in the application and as the court considers appropriate, specify the form and content of the corrective statement or give any directions in respect of the publication of that statement.
+
+#### 83. Summary trial of persons indicted.
+
+**83**.— (1) F106[If a person is charged with an offence under *section 65(2)* of this Act], the District Court may try the person summarily if—
+
+(*a*) the court is of opinion that the facts proved or alleged constitute a minor offence fit to be tried summarily,
+
+(*b*) the accused, on being informed by the court of his or her right to be tried with a jury, does not object to being tried summarily, and
+
+(*c*) the Director of Public Prosecutions consents to the accused being tried summarily for the offence.
+
+(2) On conviction by the court for an offence under *section 65(2)* that is tried summarily under *subsection (1)*, the following apply:
+
+(*a*) the accused is liable to the following fines and penalties:
+
+(i) if it is a first conviction for an offence under this Act, to a fine not exceeding €3,000 or imprisonment for a term not exceeding 6 months or both;
+
+(ii) if it is not a first conviction for an offence under this Act, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months or both;
+
+(*b*) *section 80* (respecting liability for costs and expenses of proceedings and investigation);
+
+(*c*) *section 82* (publication of a corrective statement).
+
+(3) However, if after conviction referred to in *subsection (2)*, the accused continues to contravene *section 65(1)*, the accused is guilty of a further offence on each day that the contravention continues and for each such offence is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €500, and
+
+(*b*) on conviction on indictment, to a fine not exceeding €10,000.
+
+(4) F107[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F106: Substituted (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 83, S.I. No. 366 of 2014.
+>
+> F107: Deleted (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 83, S.I. No. 366 of 2014.
+>
+> **Modifications (not altering text):**
+>
+> C39: Certain functions of National Consumer Agency under section extended to Commission for Communications Regulation (13.06.2014) by *Communications Regulation Act 2002* (20/2002), s. 10(1A)-(1E), as inserted by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2013), reg. 34(1)(c), in effect as per reg. 1(2).
+>
+> **Functions of Commission.**
+>
+> **10.**— ...
+>
+> **[**(1A) The functions of the Agency specified in subsection (1B) are (insofar as they relate to the provision of electronic communications networks, electronic communications services, associated facilities and premium rate services) also functions of the Commission, and subsections (1B) to (1E) have effect for the purposes of this subsection.
+>
+> (1B) The functions of the Agency referred to in subsection (1A) are the functions of the Agency under section 67, section 71, section 73, sections 75 to 77, section 80, sections 83 to 87 and section 90 of the Consumer Protection Act 2007 in relation to the European Communities (Consumer Information, Cancellation and Other Rights) Regulations 2013 (S.I. No. 484 of 2013).—
+>
+> (1C) Subsection (1A) operates to vest in the Commission, concurrently with the vesting in the Agency of those functions by the Consumer Protection Act 2007, the functions specified in subsection (1B).
+>
+> (1D) Accordingly—
+>
+> (*a*) functions so specified are, subject to any relevant co-operation agreement entered into under section 21 of the Consumer Protection Act 2007, capable of being performed by either the Agency or the Commission, and
+>
+> (*b*) subject to subsection (1E), references to the Agency in the provisions of the Act specified in subsection (1B) are to be read as including references to the Commission and those provisions otherwise apply.
+>
+> (1E) Where any section of the Consumer Protection Act 2007 specified in subsection (1B) provides for anything to be done in relation to the Agency (whether the giving of notice to it, the submitting of a thing to it or the doing of any other thing) then, if a co-operation agreement entered into under section 21 of that Act so specifies, it is sufficient compliance with the section concerned if the thing is done in relation to the Agency or the Commission as is specified in that agreement.**]**
+>
+> C40: Application of section extended (13.06.2014) by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2012), reg. 38(2), in effect as per reg. 1(2).
+>
+> 38\. ...
+>
+> (2) Sections 76 to 78 and sections 80, 83 and 84 of the Act of 2007 shall apply to an offence under these Regulations as they apply to an offence under that Act and, accordingly, references in those sections to an offence under that Act shall be construed as including references to an offence under these Regulations.
+>
+> **Editorial Notes:**
+>
+> E85: A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3 and 5(2), table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E86: A fine of €5,000 translates into a class A fine, not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3 and 4(2), table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E87: A fine of €500 translates into a class E fine, not greater than €500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3 and 8(2), table ref. no. 1, S.I. No. 662 of 2010.
+
+#### 84. Agency may institute summary proceedings for offences.
+
+**84**.— Summary proceedings for an offence under this Act, except an offence under *section 65(2)*, may be brought and prosecuted by the Agency.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C41: Section applied with modifications and references construed by *Hallmarking Act 1981* (18/1981), s. 6C, as inserted (30.09.2019) by *Hallmarking (Amendment) Act 2019* (2/2019), s. 9, S.I. No. 439 of 2019.
+>
+> **Offence relating to supply of multi-metal articles**
+>
+> **6C.** ...
+>
+> (3) Sections 78, 80 and 84 of the Act of 2007 shall apply to an offence under this section as they apply to an offence under that Act and, for that purpose, references in those sections to an offence under that Act shall be construed as including references to an offence under this section.
+>
+> ...
+>
+> C42: Section applied with modifications and references construed (3.12.2018) by *European Union (Unjustified Geoblocking of Consumers) Regulations 2018* (S.I. No. 513 of 2018), reg. 5(3), in effect as per reg. 1(2), (3).
+>
+> *Offences*
+>
+> 5\. ...
+>
+> (3) Sections 77, 78, 80 and 84 of the Act of 2007 shall apply to an offence under these Regulations as they apply to an offence under that Act and, accordingly, references in those sections to an offence under that Act shall be construed as including references to an offence under these Regulations.
+>
+> C43: Section applied with modifications and references construed (9.01.2016) by *European Union (Online Dispute Resolution for Consumer Disputes) Regulations 2015* (S.I. No. 500 of 2015), reg. 4(3), in effect as per reg. 1(2).
+>
+> *Offences*
+>
+> 4\. ...
+>
+> (3) Sections 77, 78, 80 and 84 of the Act of 2007 shall apply to an offence under these Regulations as they apply to an offence under that Act and, accordingly, references in those sections to an offence under that Act shall be construed as including references to an offence under these Regulations.
+>
+> C44: Section applied with modifications and references construed (31.07.2015) by *European Union (Alternative Dispute Resolution for Consumer Disputes) Regulations 2015* (S.I. No. 343 of 2015), reg. 18(6).
+>
+> *Consumer information by traders*
+>
+> 18\. ...
+>
+> (6) Sections 77, 78, 80 and 84 of the Act of 2007 shall apply to an offence under these Regulations as they apply to an offence under that Act and, accordingly, references in those sections to an offence under that Act shall be construed as including references to an offence under these Regulations.
+>
+> C45: Certain functions of National Consumer Agency under section extended to Commission for Communications Regulation (13.06.2014) by *Communications Regulation Act 2002* (20/2002), s. 10(1A)-(1E), as inserted by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2013), reg. 34(1)(c), in effect as per reg. 1(2).
+>
+> **Functions of Commission.**
+>
+> **10.**— ...
+>
+> **[**(1A) The functions of the Agency specified in subsection (1B) are (insofar as they relate to the provision of electronic communications networks, electronic communications services, associated facilities and premium rate services) also functions of the Commission, and subsections (1B) to (1E) have effect for the purposes of this subsection.
+>
+> (1B) The functions of the Agency referred to in subsection (1A) are the functions of the Agency under section 67, section 71, section 73, sections 75 to 77, section 80, sections 83 to 87 and section 90 of the Consumer Protection Act 2007 in relation to the European Communities (Consumer Information, Cancellation and Other Rights) Regulations 2013 (S.I. No. 484 of 2013).—
+>
+> (1C) Subsection (1A) operates to vest in the Commission, concurrently with the vesting in the Agency of those functions by the Consumer Protection Act 2007, the functions specified in subsection (1B).
+>
+> (1D) Accordingly—
+>
+> (*a*) functions so specified are, subject to any relevant co-operation agreement entered into under section 21 of the Consumer Protection Act 2007, capable of being performed by either the Agency or the Commission, and
+>
+> (*b*) subject to subsection (1E), references to the Agency in the provisions of the Act specified in subsection (1B) are to be read as including references to the Commission and those provisions otherwise apply.
+>
+> (1E) Where any section of the Consumer Protection Act 2007 specified in subsection (1B) provides for anything to be done in relation to the Agency (whether the giving of notice to it, the submitting of a thing to it or the doing of any other thing) then, if a co-operation agreement entered into under section 21 of that Act so specifies, it is sufficient compliance with the section concerned if the thing is done in relation to the Agency or the Commission as is specified in that agreement.**]**
+>
+> C46: Application of section extended (13.06.2014) by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2012), reg. 38(2), in effect as per reg. 1(2).
+>
+> 38\. ...
+>
+> (2) Sections 76 to 78 and sections 80, 83 and 84 of the Act of 2007 shall apply to an offence under these Regulations as they apply to an offence under that Act and, accordingly, references in those sections to an offence under that Act shall be construed as including references to an offence under these Regulations.
+
+#### F108[84A. Commission for Communications Regulation may institute summary proceedings for certain offences.
+
+**84A**.— Summary proceedings for an offence under this Act, except an offence under *section 65(2)*, that relates to a function of the Commission for Communications Regulation may be brought and prosecuted by that Commission.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F108: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 165, S.I. No. 596 of 2022.
+>
+> **Editorial Notes:**
+>
+> E88: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### Chapter 5 Fixed Payment Notices — Chapter 5 — Fixed Payment Notices
+
+#### 85. Fixed payment notices for price display and product pricing offences.
+
+**85**.— (1) This section applies in respect of any offence under the following enactments (in this section referred to as a “relevant offence”):
+
+(*a*) *section* F109[*47* (respecting misleading commercial practices) or] *58* (respecting price display regulations);
+
+(*b*) section 22(*a*) or (*b*) of the Prices Act 1958 (respecting price display orders);
+
+F109[(*ba*) Parts 4 to 6 of the Act of 2022;]
+
+F110[(*c*) Regulation 4(3), 5(5), F112[5A(2),] 6(3) or 7(2) of the European Communities (Requirements to Indicate Product Prices) Regulations 2002 (S.I. No. 639 of 2002);
+
+F109[(*ca*) Regulation 7, 8, 13 or 14 of the European Communities (Directive 2000/31/EC) Regulations 2003 ( S.I. No. 68 of 2003 );]
+
+(*d*) F113[...]]
+
+F114[(*e*) *section 66B(2)*.]
+
+(2) An authorised officer who has reasonable grounds for believing that a person is committing, or has committed, a relevant offence may serve, personally or by post, the notice referred to in *subsection (3)* on the person.
+
+(3) The notice (“fixed payment notice”) shall be in the prescribed form and state—
+
+(*a*) that the person on whom it is served is alleged to have committed the relevant offence concerned,
+
+(*b*) when and where it is alleged to have been committed,
+
+(*c*) that a prosecution for it will not be instituted if, during the period of 28 days beginning on the date of the notice, the person pays F115[the prescribed amount specified in the notice] to the Agency (at the address stated in the notice) and submits the original or a copy of the fixed payment notice together with that payment, and
+
+(*d*) that in default of such payment, the person will be prosecuted for the alleged relevant offence.
+
+(4) A payment referred to in *subsection(3)* shall be accompanied by the original or a copy of the fixed payment notice concerned.
+
+(5) If a fixed payment notice is served on a person—
+
+(*a*) the person may make a payment in accordance with *subsection (3)(c)*,
+
+(*b*) the Agency shall receive and retain the payment (subject to *subsection (7)*) and issue a receipt for it,
+
+(*c*) any payment received shall not be recoverable by the person who made it, and
+
+(*d*) a prosecution in respect of the alleged relevant offence to which the notice relates shall not be instituted during the period specified in *subsection (3)(c)* or, if a payment is made in accordance with *subsections (3)(c)* and *(4*, at all.
+
+(6) In proceedings against a person for a relevant offence it shall be presumed, until the contrary is shown, that the person did not make payment in accordance with *subsections (3)(c)* and *(4)*.
+
+F109[(6A) The amount of a fixed payment, being not more than €1,500, may be prescribed and different amounts may be prescribed in relation to the different relevant offences specified in *subsection (1)*.]
+
+(7) Payments received by the Agency under this section shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance directs.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F109: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 166(a)(i)-(iii), (c), S.I. No. 596 of 2022.
+>
+> F110: Substituted and inserted (13.06.2014) by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2013), in effect as per reg. 33(c).
+>
+> F111: Substituted (2.12.2019) by *Consumer Protection (Gift Vouchers) Act 2019* (38/2019), s. 3(b), S.I. No. 595 of 2019.
+>
+> F112: Inserted (28.11.2022) by *European Union (Requirements to Indicate Product Prices) (Amendment) Regulations 2022* (S.I. No. 597 of 2022), reg. 7.
+>
+> F113: Deleted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 166(a)(iv), S.I. No. 596 of 2022.
+>
+> F114: Inserted (2.12.2019) by *Consumer Protection (Gift Vouchers) Act 2019* (38/2019), s. 3(b), S.I. No. 595 of 2019.
+>
+> F115: Substituted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 166(b), S.I. No. 596 of 2022.
+>
+> **Modifications (not altering text):**
+>
+> C47: Certain functions of National Consumer Agency under section extended to Commission for Communications Regulation (13.06.2014) by *Communications Regulation Act 2002* (20/2002), s. 10(1A)-(1E), as inserted by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2013), reg. 34(1)(c), in effect as per reg. 1(2).
+>
+> **Functions of Commission.**
+>
+> **10.**— ...
+>
+> **[**(1A) The functions of the Agency specified in subsection (1B) are (insofar as they relate to the provision of electronic communications networks, electronic communications services, associated facilities and premium rate services) also functions of the Commission, and subsections (1B) to (1E) have effect for the purposes of this subsection.
+>
+> (1B) The functions of the Agency referred to in subsection (1A) are the functions of the Agency under section 67, section 71, section 73, sections 75 to 77, section 80, sections 83 to 87 and section 90 of the Consumer Protection Act 2007 in relation to the European Communities (Consumer Information, Cancellation and Other Rights) Regulations 2013 (S.I. No. 484 of 2013).—
+>
+> (1C) Subsection (1A) operates to vest in the Commission, concurrently with the vesting in the Agency of those functions by the Consumer Protection Act 2007, the functions specified in subsection (1B).
+>
+> (1D) Accordingly—
+>
+> (*a*) functions so specified are, subject to any relevant co-operation agreement entered into under section 21 of the Consumer Protection Act 2007, capable of being performed by either the Agency or the Commission, and
+>
+> (*b*) subject to subsection (1E), references to the Agency in the provisions of the Act specified in subsection (1B) are to be read as including references to the Commission and those provisions otherwise apply.
+>
+> (1E) Where any section of the Consumer Protection Act 2007 specified in subsection (1B) provides for anything to be done in relation to the Agency (whether the giving of notice to it, the submitting of a thing to it or the doing of any other thing) then, if a co-operation agreement entered into under section 21 of that Act so specifies, it is sufficient compliance with the section concerned if the thing is done in relation to the Agency or the Commission as is specified in that agreement.**]**
+>
+> **Editorial Notes:**
+>
+> E89: Previous affecting provision: subs. 1(d) inserted (2.12.2019) by *Consumer Protection (Gift Vouchers) Act 2019* (38/2019), s. 3(b), S.I. No. 595 of 2019; deleted as per F-note above.
+>
+> E90: Form of fixed payment notice for purposes of subs. (3) prescribed (13.10.2007) by *Consumer Protection (Fixed Payment Notice) Regulations 2007* (S.I. No. 689 of 2007), in effect as per reg. 1(2).
+
+### Chapter 6 Publication of Trader Names (Consumer Protection List) — Chapter 6 — Publication of Trader Names (Consumer Protection List)
+
+#### 86. Agency may publish information respecting certain persons.
+
+**86**.— (1) F116[Subject to *section 86A(4)*, the Commission] shall keep and maintain a list (the “consumer protection list”) of names and addresses of the following persons, together with a description of their trade, business or profession and the particulars described in *subsection (2)*:
+
+(*a*) any person on whom a fine or other penalty was imposed by a court under the relevant statutory provisions or who was required, by an order under *section 81*, to pay an amount of money to a consumer;
+
+(*b*) any person against whom an order is made under *section 71* (respecting civil relief by way of prohibition orders);
+
+(*c*) any person who gives an undertaking to the Agency under *section 73*;
+
+(*d*) any person against whom a compliance notice takes effect under *section 75(7)* or *(8)* (respecting compliance notices);
+
+(*e*) any person who makes payment to the Agency pursuant to a fixed payment notice under *section 85*.
+
+(2) The consumer protection list shall specify, in relation to each person named in the list, any particulars the Agency considers appropriate in respect of the following:
+
+(*a*) the matter occasioning any fine or penalty imposed on the person by the court and the amount or nature of that fine or penalty;
+
+(*b*) the matter occasioning any order made by the court against the person and the nature of that order;
+
+(*c*) the matter occasioning any undertaking given to the Agency by the person under this Act;
+
+(*d*) the matter occasioning any compliance notice served on the person under this Act;
+
+(*e*) the matter occasioning any fixed payment notice under this Act.
+
+(3) The Agency may, at any time and in any form or manner the Agency considers appropriate, publish or cause to be published all or any part of the consumer protection list.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F116: Substituted (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 83, S.I. No. 366 of 2014.
+>
+> **Modifications (not altering text):**
+>
+> C48: Certain functions of National Consumer Agency under section extended to Commission for Communications Regulation (13.06.2014) by *Communications Regulation Act 2002* (20/2002), s. 10(1A)-(1E), as inserted by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2013), reg. 34(1)(c), in effect as per reg. 1(2).
+>
+> **Functions of Commission.**
+>
+> **10.**— ...
+>
+> **[**(1A) The functions of the Agency specified in subsection (1B) are (insofar as they relate to the provision of electronic communications networks, electronic communications services, associated facilities and premium rate services) also functions of the Commission, and subsections (1B) to (1E) have effect for the purposes of this subsection.
+>
+> (1B) The functions of the Agency referred to in subsection (1A) are the functions of the Agency under section 67, section 71, section 73, sections 75 to 77, section 80, sections 83 to 87 and section 90 of the Consumer Protection Act 2007 in relation to the European Communities (Consumer Information, Cancellation and Other Rights) Regulations 2013 (S.I. No. 484 of 2013).—
+>
+> (1C) Subsection (1A) operates to vest in the Commission, concurrently with the vesting in the Agency of those functions by the Consumer Protection Act 2007, the functions specified in subsection (1B).
+>
+> (1D) Accordingly—
+>
+> (*a*) functions so specified are, subject to any relevant co-operation agreement entered into under section 21 of the Consumer Protection Act 2007, capable of being performed by either the Agency or the Commission, and
+>
+> (*b*) subject to subsection (1E), references to the Agency in the provisions of the Act specified in subsection (1B) are to be read as including references to the Commission and those provisions otherwise apply.
+>
+> (1E) Where any section of the Consumer Protection Act 2007 specified in subsection (1B) provides for anything to be done in relation to the Agency (whether the giving of notice to it, the submitting of a thing to it or the doing of any other thing) then, if a co-operation agreement entered into under section 21 of that Act so specifies, it is sufficient compliance with the section concerned if the thing is done in relation to the Agency or the Commission as is specified in that agreement.**]**
+
+### Chapter 6APublication of Names (Grocery Goods Undertakings List) — F117[Chapter 6A — Publication of Names (Grocery Goods Undertakings List)] — Annotations Amendments: Chapter 6A (s. 86A) inserted (31.10.2014) by Competition and Consumer Protection Act 2014 (29/2014), s. 85, S.I. No. 366 of 2014.
+
+#### 86A. Commission may publish certain information in respect of grocery goods undertakings
+
+F118[**86A.**— (1) The Commission shall keep and maintain a list (the "grocery goods undertakings list") of names and addresses of the following persons, together with a description of their trade, business or profession and the particulars described in *subsection (2)*:
+
+(*a*) any person on whom a fine or other penalty was imposed by a court by or under *Chapter 5* of *Part 3*;
+
+(*b*) any person against whom a contravention notice takes effect under *section 63D(8)* or *(9)*.
+
+(2) The grocery goods undertakings list shall specify, in relation to each person named in the list, any particulars the Commission considers appropriate in respect of the following:
+
+(*a*) the matter occasioning any fine or penalty imposed on the person by the court and the amount or nature of that fine or penalty;
+
+(*b*) the matter occasioning any order made by the court against the person and the nature of that order;
+
+(*c*) the matter occasioning any contravention notice served on the person under this Act.
+
+(3) The Commission may, at any time and in any form or manner the Commission considers appropriate, publish or cause to be published all or any part of the grocery goods undertakings list.
+
+(4) An entry in the grocery goods undertakings list in relation to a person referred to in *paragraph (a)* or *(b)* of *subsection (1)* shall not be included in the consumer protection list under *section 86*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F118: Chapter 6A (s. 86A) inserted (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 85, S.I. No. 366 of 2014.
+
+## PART 6 Miscellaneous — PART 6 — Miscellaneous
+
+### 87. Protections for persons reporting breaches.
+
+**87**.— (1) A person who, apart from this section, would be so liable shall not be liable in damages in respect of the communication, whether in writing or otherwise, by the person to the Agency of the person’s opinion that—
+
+(*a*) an offence under any of the relevant statutory provisions has been or is being committed, or
+
+(*b*) any of the relevant provisions that prohibits a person from doing a particular thing or things has not been or is not being complied with,
+
+unless it is proved that the person has not acted reasonably F119[...] in forming that opinion and communicating it to the Agency.
+
+(2) The reference in *subsection (1)* to liability in damages shall be construed as including a reference to liability to be the subject of an order providing for any other form of relief.
+
+F120[(2A) *Subsection (1)* does not apply to a communication that is a protected disclosure within the meaning of the Protected Disclosures Act 2014.]
+
+(3) An employer shall not penalise an employee for having formed an opinion of the kind referred to in *subsection (1)* and communicated it, whether in writing or otherwise, to the Agency if the employee has acted reasonably F119[...] in forming that opinion and communicating it to the Agency.
+
+F120[(3A) *Subsection (3)* does not apply to a communication that is a protected disclosure within the meaning of the Protected Disclosures Act 2014.]
+
+(4) *Schedule 6* shall have effect for the purposes of *subsection (3)*.
+
+(5) A person who states to the Agency that a person—
+
+(*a*) has committed or is committing an offence under any of the relevant statutory provisions, or
+
+(*b*) has failed or is failing to comply with any of the relevant statutory provisions,
+
+knowing that statement to be false commits an offence and is liable on conviction on indictment or on summary conviction, as the case may be, to the fines and penalties provided in *Chapter 4* of *Part 5*.
+
+F120[(5A) *Subsection (5)* does not apply to the making of a statement that is a protected disclosure within the meaning of the Protected Disclosures Act 2014.]
+
+(6) *Subsection (1)* is in addition to, and not in substitution for, any privilege or defence available in legal proceedings, by virtue of any enactment or rule of law in force immediately before the commencement of this section, in respect of the communication by a person to another (whether that other person is the Agency or not) of an opinion of the kind referred to in *paragraph (a)* or *(b)* of *subsection (1)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F119: Deleted (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 79(a), (b), S.I. No. 366 of 2014.
+>
+> F120: Inserted (15.07.2014) by *Protected Disclosures Act 2014* (14/2014), s. 24 and sch. 4 part 1 item 8, S.I. No. 327 of 2014.
+>
+> **Modifications (not altering text):**
+>
+> C49: Section applied with modifications and references construed (12.07.2020) by *European Union (Promoting Fairness and Transparency for Business Users of Online Intermediation Services) Regulations 2020* (S.I. No. 256 of 2020), reg. 7(2), in effect as per reg. 1(2).
+>
+> *Construction of References*
+>
+> 7\. ...
+>
+> (2) Section 87 of the Act of 2007 shall apply for the purposes of these Regulations subject to the modification that references to the relevant statutory provisions shall be construed as a reference to these Regulations.
+>
+> ...
+>
+> C50: Section applied with modifications and references construed (17.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2020* (S.I. No. 14 of 2020), reg. 10(2), in effect as per reg. 1(2).
+>
+> *Construction of references*
+>
+> 10\. ...
+>
+> (2) Section 87 of the Act of 2007 shall apply for the purposes of these Regulations subject to the modification that references to the relevant statutory provisions shall be construed as a reference to these Regulations.
+>
+> C51: Section applied with modifications and references construed (3.12.2018) by *European Union (Unjustified Geoblocking of Consumers) Regulations 2018* (S.I. No. 513 of 2018), reg. 9(2), in effect as per reg. 1(2), (3).
+>
+> *Construction of References*
+>
+> 9\. ...
+>
+> (2) Section 87 of the Act of 2007 shall apply for the purposes of these Regulations subject to the modification that references to the relevant statutory provisions shall be construed as a reference to these Regulations.
+>
+> ...
+>
+> C52: Section applied with modifications and references construed (9.01.2016) by *European Union (Online Dispute Resolution for Consumer Disputes) Regulations 2015* (S.I. No. 500 of 2015), reg. 8(2), in effect as per reg. 1(2).
+>
+> *Construction of References*
+>
+> 8\. ...
+>
+> (2) Section 87 of the Act of 2007 shall apply for the purposes of these Regulations subject to the modification that references to the relevant statutory provisions shall be construed as a reference to these Regulations.
+>
+> ...
+>
+> C53: Section applied with modifications and references construed (31.07.2015) by *European Union (Alternative Dispute Resolution for Consumer Disputes) Regulations 2015* (S.I. No. 343 of 2015), reg. 22(1).
+>
+> *Construction of References*
+>
+> 22\. ...
+>
+> (2) Section 87 of the Act of 2007 shall apply for the purposes of these Regulations subject to the modification that references to the relevant statutory provisions shall be construed as a reference to these Regulations.
+>
+> ...
+>
+> C54: Certain functions of National Consumer Agency under section extended to Commission for Communications Regulation (13.06.2014) by *Communications Regulation Act 2002* (20/2002), s. 10(1A)-(1E), as inserted by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2013), reg. 34(1)(c), in effect as per reg. 1(2); and as amended (17.07.2014) by *European Communities (Unfair Terms in Consumer Contracts) (Amendment) Regulations 2014* (S.I. No. 336 of 2014), reg. 3
+>
+> **Functions of Commission.**
+>
+> **10.**— ...
+>
+> **[**(1A) The functions of the Agency specified in subsection (1B) are (insofar as they relate to the provision of electronic communications networks, electronic communications services, associated facilities and premium rate services) also functions of the Commission, and subsections (1B) to (1E) have effect for the purposes of this subsection.
+>
+> **[**(1B) The functions of the Agency referred to in subsection (1A) are the functions of the Agency under:
+>
+> (*a*) section 67, section 71, section 73, sections 75 to 77, section 80, sections 83 to 87 and section 90 of the Consumer Protection Act 2007 in relation to the European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013 (S.I. No. 484 of 2013), and
+>
+> (*b*) sections 73 and 86 of the Consumer Protection Act 2007 in relation to the European Communities (Unfair Terms in Consumer Contracts) Regulations 1995.**]**
+>
+> (1C) Subsection (1A) operates to vest in the Commission, concurrently with the vesting in the Agency of those functions by the Consumer Protection Act 2007, the functions specified in subsection (1B).
+>
+> (1D) Accordingly—
+>
+> (*a*) functions so specified are, subject to any relevant co-operation agreement entered into under section 21 of the Consumer Protection Act 2007, capable of being performed by either the Agency or the Commission, and
+>
+> (*b*) subject to subsection (1E), references to the Agency in the provisions of the Act specified in subsection (1B) are to be read as including references to the Commission and those provisions otherwise apply.
+>
+> (1E) Where any section of the Consumer Protection Act 2007 specified in subsection (1B) provides for anything to be done in relation to the Agency (whether the giving of notice to it, the submitting of a thing to it or the doing of any other thing) then, if a co-operation agreement entered into under section 21 of that Act so specifies, it is sufficient compliance with the section concerned if the thing is done in relation to the Agency or the Commission as is specified in that agreement.**]**
+>
+> C55: Application of section extended (11.04.2009) by *European Communities (Prepacked Products) Regulations 2008* (S.I. No. 566 of 2008), reg. 11, in effect as per reg. 1(2).
+>
+> 11\. Section 87 of the Act of 2007 shall apply for the purposes of these Regulations and, accordingly, references in that section to relevant statutory provisions shall be construed as including references to these Regulations.
+>
+> **Editorial Notes:**
+>
+> E91: Redress and appeal procedures for disputes under subs. (3) provided (1.10.2015) by *Workplace Relations Act 2015* (16/2015), ss. 41, 44 and sch. 5 part 1 item 18, sch. 6 part 1 item 24, sch. 6 part 2 item 24, S.I. No. 410 of 2015.
+>
+> E92: Section included in definitions of “employment enactment” and “relevant enactment” (1.08.2015) by *Workplace Relations Act 2015* (16/2015), s. 2 and sch. 1 part 2 item 9, S.I. No. 338 of 2015, with the following effects:
+>
+> • Authorised officers or inspectors under employment enactments deemed to be appointed under *Workplace Relations Act 2015* (16/2015), s. 26(2) and subject to termination under s. 26(4).
+>
+> • Powers of inspectors for purposes of relevant enactments defined in *Workplace Relations Act 2015* (16/2015), s. 27.
+>
+> • Workplace Relations Commission, an inspector or an adjudication officer authorised to disclose employer’s registered number or employee’s PPSN to enable Labour Court to perform functions under relevant enactments by *Workplace Relations Act 2015* (16/2015) s. 31(5).
+>
+> • Power of Workplace Relations Commission and official body to disclose information to each other concerning the commission of offence under relevant enactment provided by *Workplace Relations Act 2015* (16/2015), s. 32.
+>
+> • Power of Workplace Relations Commission and contracting authority to disclose information to each other concerning the commission of offence under employment enactment/ relevant enactment provided by *Workplace Relations Act 2015* (16/2015), s. 33.
+>
+> • Powers of Minister to prosecute under relevant enactments transferred to Workplace Relations Commission and references construed by *Workplace Relations Act 2015* (16/2015), s. 37.
+>
+> • Functions of EAT to hear claims under employment enactments transferred to Workplace Relations Commission and references to EAT construed by *Workplace Relations Act 2015* (16/2015) s. 66(1), (2), not commenced as of date of revision.
+
+### 88. Voluntary submission of codes for Agency review and approval.
+
+**88**.— (1) Subject to this section, a person representing one or more traders may submit a code of practice to the Agency for its review or approval.
+
+(2) The code of practice shall be submitted in the form and manner specified by the Agency.
+
+(3) The person submitting a code of practice for approval under this section shall provide the Agency with any information the Agency considers necessary or appropriate for the purposes of *subsection (4)*.
+
+(4) If satisfied that the code of practice protects consumer interests and is not inconsistent with this Act or any other enactment, the Agency may approve the code of practice.
+
+(5) A code of practice approved by the Agency may not be amended without approval of the proposed amendments by the Agency and, for this purpose, *subsections (3)* and *(4)* apply with the necessary modifications.
+
+(6) The approval by the Agency of a code of practice or any amendments to such code shall be in writing.
+
+(7) The Agency may withdraw any approval under this section if the Agency is of the opinion that, in the implementation or operation of all or part of an approved code of practice or amendment to it, such code, part or amendment fails to protect consumer interests or is in any manner inconsistent with this Act or any other enactment.
+
+(8) If—
+
+(*a*) it is alleged that a trader who is a signatory to a code of practice with the approval of the Agency under this section has contravened this Act or a complaint is made to the Agency in relation to a commercial practice of that trader, and
+
+(*b*) the approved code of practice referred to in *paragraph (a)* provides for procedures or a means of handling or considering such contraventions or complaints,
+
+then the Agency may defer consideration of the complaint or the court may defer hearing an application for a prohibition order under *section 71* (respecting prohibition orders) or an action for damages under *section 74* (respecting a consumer’s right of action for damages) until the means or procedures referred to in *paragraph (b)* have been exhausted.
+
+### 89. Admissibility of codes of practice in proceedings.
+
+**89**.— In any proceedings before a court, a code of practice (whether approved under *section 88* or not) is admissible in evidence and, if any provision of the code is relevant to a question arising in those proceedings, the provision may be taken into account in determining that question.
+
+### 90. Agency guidelines.
+
+**90**.— (1) Subject to this section, the Agency may prepare, issue and publish guidelines applicable to traders, or persons representing traders, concerning any of the following:
+
+(*a*) a matter of consumer welfare or protection;
+
+(*b*) a matter of practical guidance to traders in relation to commercial practices, whether generally or in a particular trade, business or professional sector;
+
+(*c*) the establishment, form and operation of quality assurance schemes referred to in F121[section 10(3)(i) of the Competition and Consumer Protection Act 2014];
+
+F122[(*d*) the form and manner of submitting codes of practice to the Agency for approval under *section 88*;]
+
+F123[(*e*) the Act of 2022;]
+
+F124[(*f*) the provisions of the European Union (Alternative Dispute Resolution for Consumer Disputes) Regulations 2015 (S.I. No. 343 of F125[2015);]]
+
+F126[(*g*) the provisions of the European Union (Online Dispute Resolution for Consumer Disputes) Regulations 2015 (S.I. No. 500 of 2015).]
+
+F127[(*h*) the provisions of the European Union (Unjustified Geo-blocking of Consumers) Regulations 2018 (S.I. No. 513 of 2018 F128[ … 2018);]]
+
+F129[(*i*) the provisions of *Part 4A*.]
+
+F130[(*i*) any contravention of the European Union (Cooperation between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2020 (S.I. No. 14 of 2020).]
+
+(2) Before issuing and publishing guidelines under this section, the Agency may prepare draft guidelines and consult with any person, as the Agency considers appropriate.
+
+(3) If satisfied that proposed or draft guidelines protect consumer interests, the Agency may issue the guidelines and shall cause them to be published in the manner the Agency considers appropriate for the purpose.
+
+(4) Without limiting the generality of *subsection (3)*, the Agency may publish a copy of guidelines issued by it under this section on the internet.
+
+(5) In any proceedings before a court, guidelines issued and published under this section are admissible in evidence and, if any provision of the guidelines is relevant to a question arising in those proceedings, the provision may be taken into account in determining that question.
+
+(6) A failure on the part of any person to observe any provision of guidelines issued and published under this section shall not, of itself, render that person liable to any proceedings.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F121: Substituted (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 80, S.I. No. 366 of 2014.
+>
+> F122: Substituted and inserted (13.06.2014) by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2013), reg. 33(d), in effect as per reg. 1(2).
+>
+> F123: Substituted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 167, S.I. No. 596 of 2022.
+>
+> F124: Inserted (31.07.2015) by *European Union (Alternative Dispute Resolution for Consumer Disputes) Regulations 2015* (S.I. No. 343 of 2015), reg. 19(b)(ii).
+>
+> F125: Substituted (9.01.2016) by *European Union (Online Dispute Resolution for Consumer Disputes) Regulations 2015* (S.I. No. 500 of 2015), reg. 5(b)(i), in effect as per reg. 1(2).
+>
+> F126: Inserted (9.01.2016) by *European Union (Online Dispute Resolution for Consumer Disputes) Regulations 2015* (S.I. No. 500 of 2015), reg. 5(b)(ii), in effect as per reg. 1(2).
+>
+> F127: Substituted (2.12.2019) by *Consumer Protection (Gift Vouchers) Act 2019* (38/2019), s. 3(c), S.I. No. 595 of 2019.
+>
+> F128: Substituted (17.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2020* (S.I. No. 14 of 2020), reg. 9(a)(i), in effect as per reg. 1(2). The amendment may have been drafted without awareness of the 2019 amendment above.
+>
+> F129: Inserted (2.12.2019) by *Consumer Protection (Gift Vouchers) Act 2019* (38/2019), s. 3(c), S.I. No. 595 of 2019.
+>
+> F130: Inserted (17.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2020* (S.I. No. 14 of 2020), reg. 9(a)(ii), in effect as per reg. 1(2).
+>
+> **Modifications (not altering text):**
+>
+> C56: Certain functions of National Consumer Agency under section extended to Commission for Communications Regulation (13.06.2014) by *Communications Regulation Act 2002* (20/2002), s. 10(1A)-(1E), as inserted by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2013), reg. 34(1)(c), in effect as per reg. 1(2).
+>
+> **Functions of Commission.**
+>
+> **10.**— ...
+>
+> **[**(1A) The functions of the Agency specified in subsection (1B) are (insofar as they relate to the provision of electronic communications networks, electronic communications services, associated facilities and premium rate services) also functions of the Commission, and subsections (1B) to (1E) have effect for the purposes of this subsection.
+>
+> (1B) The functions of the Agency referred to in subsection (1A) are the functions of the Agency under section 67, section 71, section 73, sections 75 to 77, section 80, sections 83 to 87 and section 90 of the Consumer Protection Act 2007 in relation to the European Communities (Consumer Information, Cancellation and Other Rights) Regulations 2013 (S.I. No. 484 of 2013).—
+>
+> (1C) Subsection (1A) operates to vest in the Commission, concurrently with the vesting in the Agency of those functions by the Consumer Protection Act 2007, the functions specified in subsection (1B).
+>
+> (1D) Accordingly—
+>
+> (*a*) functions so specified are, subject to any relevant co-operation agreement entered into under section 21 of the Consumer Protection Act 2007, capable of being performed by either the Agency or the Commission, and
+>
+> (*b*) subject to subsection (1E), references to the Agency in the provisions of the Act specified in subsection (1B) are to be read as including references to the Commission and those provisions otherwise apply.
+>
+> (1E) Where any section of the Consumer Protection Act 2007 specified in subsection (1B) provides for anything to be done in relation to the Agency (whether the giving of notice to it, the submitting of a thing to it or the doing of any other thing) then, if a co-operation agreement entered into under section 21 of that Act so specifies, it is sufficient compliance with the section concerned if the thing is done in relation to the Agency or the Commission as is specified in that agreement.**]**
+>
+> **Editorial Notes:**
+>
+> E93: The duplicate para. (i) in subs. (1) appears to have arisen (17.01.2020) from amendments being prepared concurrently.
+>
+> E94: Previous affecting provision: subs. (1)(e) substituted (31.07.2015) by *European Union (Alternative Dispute Resolution for Consumer Disputes) Regulations 2015* (S.I. No. 343 of 2015), reg. 19(b)(i); further substituted as per F-note above.
+>
+> E95: Previous affecting provision: subs. (1)(h) amended and (i) inserted (17.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2019* (S.I. No. 691 of 2019), reg. 9(a)(i), (ii), in effect as per reg. 1(2); revoked (17.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2020* (S.I. No. 14 of 2020), reg. 11(f), in effect as per reg. 1(2).
+>
+> E96: Previous affecting provision: subs. (1)(h) inserted (3.12.2018) by *European Union (Unjustified Geoblocking of Consumers) Regulations 2018* (S.I. No. 513 of 2018), reg. 6(b), in effect as per reg. 1(2), (3); substituted as per F-note above.
+
+### 91. Saving for certain contracts.
+
+**91**.— Subject to F131[*sections 66(1)* and *74A*], a contract for the supply of F131[any product] shall not be void or unenforceable by reason only of a contravention of any provision of this Act.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F131: Substituted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 168(a), (b), S.I. No. 596 of 2022.
+
+### 92. Saving of current price display orders.
+
+**92**.— (1) Notwithstanding *section 4* but subject to *subsection (2)*, the following enactments made under section 19 of the Prices Act 1958 (before its repeal under this Act) remain in force for the purposes of this Act and any provision (in particular, sections 2, 18, 19 and 22 to 28) of the Prices Act 1958 that is relevant to the enforcement of those orders remain in force:
+
+(*a*) Prices and Charges (Tax-inclusive Statements) Order 1973 (S.I. No. 9 of 1973);
+
+(*b*) Charges (Hairdressing Display) Order 1976 (S.I. No. 156 of 1976);
+
+(*c*) Retail Price (Food in Catering Establishments) Display Order 1984 (S.I. No. 213 of 1984);
+
+(*d*) Retail Price (Diesel and Petrol) Display Order 1997 (S.I. No. 178 of 1997);
+
+(*e*) Retail Price (Beverages in Licensed Premises) Display Order 1999 (S.I. No. 263 of 1999).
+
+(2) The Minister may by regulation amend or revoke any order referred to in *subsection (1)*.
+
+### 93. Transitional.
+
+**93**.— (1) Despite *section 4* , the following enactments made under section 11 of the Consumer Information Act 1978 (before its repeal by this Act) remain in force and are deemed to have been made as regulations by the Minister under *section 50(2)* until any such enactment is revoked, substituted by regulation of the Minister under *section 50(2)* or otherwise ceases to have effect:
+
+(*a*) Consumer Information (Advertisements) (Disclosure of Business Interests) Order 1984 (S.I. No. 168 of 1984);
+
+(*b*) Consumer Information (Advertisements for Concert or Theatre Performances) Order 1997 (S.I. No. 103 of 1997);
+
+(*c*) Consumer Information (Advertisements for Airfares) Order 2000 (S.I. No. 468 of 2000).
+
+(2) *Section 3(2)* does not apply to the enactments referred to in *subsection (1)(a)* to *(c)*.
+
+(3) For certainty, section 26 of the Interpretation Act 2005 applies in respect of the repeal of section 11 of the Consumer Information Act 1978 and its substitution by the provisions of *section 50* and, for this purpose, the enactments specified in *subsection (1)* are conclusively deemed to be consistent with and validly enacted under *section 50*.
+
+(4) For certainty, the references in *sections 51(2)* and *69(1)* (in *paragraph (b)(iii)* of the definition of “contravening advertisement”) to a regulation under *section 50(2)* include any enactment referred to in *subsection (1)(a)* to *(c)*.
+
+### 94. Amendment of Central Bank Act 1942.
+
+**94**.— (1) In this section “Act of 1942” means the Central Bank Act 1942, as amended by, amongst other enactments, the Central Bank and Financial Services Authority of Ireland Act 2003 and the Central Bank and Financial Services Authority of Ireland Act 2004.
+
+(2) Section 2(1) of the Act of 1942 is amended by inserting, before the definition of “Appeals Tribunal”, the following:
+
+“ ‘Agency’ means the National Consumer Agency established by the *Consumer Protection Act 2007*;”.
+
+(3) Section 5A of the Act of 1942 is amended by inserting the following subsections after subsection (3):
+
+“(3A) The functions of the Agency specified in subsection (3B) are, in so far as they relate to a financial service provided by a regulated financial service provider, also functions of the Bank and subsections (3C) to (3F) have effect for the purposes of this subsection.
+
+(3B) The functions of the Agency referred to in subsection (3A) are the following functions of it under the *Consumer Protection Act 2007*, namely, functions under—
+
+(*a*) *section 8(1)*, *(4)*, *(5)* and *(6)* of that Act in relation to—
+
+(i) *sections 41* to *56* (other than *section 50*) of that Act, and
+
+(ii) the European Communities (Unfair Terms in Consumer Contracts) Regulations 1995 and 2000 (S.I. No. 27 of 1995 and S.I. No. 307 of 2000),
+
+and
+
+(*b*) *sections 30*, *71*, *72*, *73*, *75*, *81*, *82*, *84*, *86*, *88* and *90* of that Act.
+
+(3C) Subsection (3A) operates to vest in the Bank, concurrently with the vesting in the Agency of those functions by the *Consumer Protection Act 2007*, the functions specified in subsection (3B).
+
+(3D) Accordingly—
+
+(*a*) the functions so specified are, subject to any relevant co-operation agreement entered into under *section 21* of the *Consumer Protection Act 2007*, capable of being performed by either the Agency or the Bank, and
+
+(*b*) subject to subsection (3F), references to the Agency in the provisions of that Act specified in subsection (3B) are to be read as including references to the Bank and those provisions otherwise apply.
+
+(3E) Subject to subsection (3F), *sections 80*, *85* and *87* of the *Consumer Protection Act 2007* apply to the Bank as they apply to the Agency and, accordingly, references to the Agency in those sections are to be read as including references to the Bank.
+
+(3F) Where any section of the *Consumer Protection Act 2007* specified in subsection (3B) or (3E) provides for anything to be done in relation to the Agency (whether the giving of notice to it, the submitting of a thing to it or the doing of any other thing) then, if a co-operation agreement entered into under *section 21* of that Act so specifies, it is sufficient compliance with the section concerned if the thing is done in relation to the Agency or the Bank as is specified in that agreement.”.
+
+(4) Section 33S(2) of the Act of 1942 is amended by substituting the following paragraph for paragraph (*f*):
+
+“(*f*) the *Consumer Protection Act 2007*;
+
+(*g*) the European Communities (Unfair Terms in Consumer Contracts) Regulations 1995 and 2000 (S.I. No. 27 of 1995 and S.I. No. 307 of 2000);
+
+(*h*) such other enactments and statutory instruments as are specified in the regulations.”.
+
+(5) Section 33AK(3) of the Act of 1942 is amended, in paragraph (*a*), by inserting the following subparagraph after subparagraph (iv):
+
+“(iv*a*) the National Consumer Agency, or”.
+
+(6) Schedule 2 to the Act of 1942 is amended—
+
+(*a*) in Part 1, by inserting the following item after the item relating to the Investment Funds, Companies and Miscellaneous Provisions Act 2006:
+
+“
+
+| No. - of 2007 | Consumer Protection Act 2007 | The whole Act |
+|---|---|---|
+
+”,
+
+and
+
+(*b*) in Part 2—
+
+(i) by inserting the following item after the item relating to the European Communities (Life Assurance) Framework Regulations 1994 (S.I. No. 360 of 1994):
+
+“
+
+| S.I. No. 27 of 1995 | European Communities (Unfair Terms in Consumer Contracts) Regulations 1995 | The whole instrument |
+|---|---|---|
+
+”,
+
+and
+
+(ii) by inserting the following item after the item relating to the European Communities (Supplementary Supervision of Insurance Undertakings in an Insurance Group) Regulations 1999 (S.I. No. 399 of 1999):
+
+“
+
+| S.I. No. 307 of 2000 | European Communities (Unfair Terms in Consumer Contracts) (Amendment) Regulations 2000 | The whole instrument |
+|---|---|---|
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C57: Functions transferred (31.10.2014) and references to “the National Consumer Agency” and “chief executive of the National Consumer Agency” construed (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 39(1), (2) and (3), S.I. No. 366 of 2014 and S.I. No. 367 of 2014 (establishment day).
+>
+> **Transfer of functions to Commission**
+>
+> **39.** — (1) All functions that, immediately before the establishment day, were vested in the dissolved bodies are transferred to the Commission.
+>
+> (2) References in any Act of the Oireachtas passed before the establishment day or in any instrument made before that day under an Act of the Oireachtas to—
+>
+> (*a*) the National Consumer Agency, or
+>
+> (*b*) the Competition Authority,
+>
+> shall, on and after that day, be construed as references to the Commission.
+>
+> (3) A reference in any Act of the Oireachtas passed before the establishment day or in any instrument made before that day under an Act of the Oireachtas to the chief executive of the National Consumer Agency shall, on and after that day, be construed as a reference to the chairperson of the Commission.
+>
+> ...
+
+### 95. Amendment of Sale of Goods and Supply of Services Act 1980.
+
+**95**.— Section 6 of the Sale of Goods and Supply of Services Act 1980 is amended by substituting the following subsections for subsection (2):
+
+“(2) If an offence under this Act is committed by a body corporate and is proved to have been committed with the consent, connivance or approval of, or to have been attributable to any neglect on the part of any person being a director, manager, secretary or any other officer of the body corporate or a person purporting to act in any such capacity, that person, as well as the body corporate, is guilty of an offence and is liable to be proceeded against and punished as if that person were guilty of the first-mentioned offence.
+
+(3) If, in a prosecution for an offence against the person referred to in subsection (2), it is proved that, at the material time, the person was a director of the body corporate or an employee of it whose duties included making decisions that, to a significant extent, could have affected the management of the body corporate, or a person who purported to act in any such capacity, it shall be presumed, until the contrary is shown, that the person consented to the doing of the acts or defaults that constitute the offence.
+
+(4) Subsection (3) shall be read as placing on the person referred to in that subsection an evidential burden only with respect to the matter or matters concerned.
+
+(5) If the affairs of a body corporate are managed by its members, subsections (2) and (3) apply in relation to the acts or defaults of a member in connection with the member’s functions of management as if that member were a director or manager of the body corporate.”.
+
+### 96. Saving for other rights person may have.
+
+**96**.— This Act shall not affect any rights which a person may have under any other enactment or under any rule of law.
+
+### 97. Amendment of Industrial Development Act 1993.
+
+**97**.— The following section is inserted after section 9 of the Industrial Development Act 1993:
+
+“Validation of assignment of powers and functions.
+
+9A.— (1) In this section ‘relevant assignment’ means the assignment by Forfás with the approval of the Minister on 26 May 2006 under section 9(2) to the Industrial Development Agency (Ireland), Enterprise Ireland and Shannon Free Airport Development Company Limited of the power to make employment grants under section 25 of the Industrial Development Act 1986.
+
+(2) The relevant assignment shall be deemed to have come into operation on 25 July 2003.
+
+(3) Nothing in this section shall affect any proceedings commenced in any court concerning the making of an employment grant under section 25 of the Industrial Development Act 1986 where those proceedings were commenced before 1 February 2007.”.
+
+### 98. Amendment of Casual Trading Act 1995.
+
+**98**.— The following section is inserted after section 6 of the Casual Trading Act 1995:
+
+“Guidelines with respect to performance of functions under section 6.
+
+6A.— (1) The Minister may prepare and issue to local authorities guidelines, in writing, regarding the performance by them of their functions under section 6 in relation to bye-laws.
+
+(2) Without prejudice to the generality of subsection (1), guidelines under this section may include guidelines as to the particular provision that a local authority should make by bye-laws under section 6 in relation to each of the matters mentioned in subsection (2) of that section.
+
+(3) Local authorities shall have regard to guidelines for the time being in force under this section in performing their functions under section 6 in relation to bye-laws.
+
+(4) The Minister may amend or revoke, in writing, guidelines issued under this section.
+
+(5) The Minister shall cause a copy of any guidelines issued under this section and of any amendment or revocation of them to be laid before each House of the Oireachtas.”.
+
+### 99. Amendment of Hallmarking Act 1981.
+
+**99**.— The following sections are substituted for sections 5 and 6 of the Hallmarking Act 1981:
+
+“False representations in relation to certain articles.
+
+5.— (1) Subject to section 6 of this Act, a commercial practice that involves a representation that an article which is not of precious metal is made wholly or partly of gold, silver or platinum is a misleading commercial practice under *section 43(1)* and *(2)* of the *Consumer Protection Act 2007*.
+
+(2) A trader who engages in any misleading commercial practice described in subsection (1) is guilty of an offence under *section 47* of the *Consumer Protection Act 2007*.
+
+Permissible representations in relation to certain articles.
+
+6.— (1) Section 5 of this Act does not apply to a representation which is permissible under this Act.
+
+(2) A representation is permissible under this Act if it complies with the following conditions:
+
+(*a*) it is confined either expressly or by implication to the colour of the article;
+
+(*b*) if it consists of or includes the word ‘gold’, that word is qualified by the word ‘plated’ or the word ‘rolled’;
+
+(*c*) if it consists of or includes the word ‘silver’ or the word ‘platinum’, whichever of those words is used is qualified by the word ‘plated’;
+
+(*d*) where the representation is in writing and the word ‘plated’ or ‘rolled’ is used, that word is at least as large as the rest of the representation.
+
+(3) Subsection (2) of this section does not apply if the representation is false or is applied to an article for which the representation is inappropriate.
+
+Construction of certain expressions in sections 5 and 6.
+
+6A.— In sections 5 and 6 of this Act, ‘commercial practice’, ‘representation’ and ‘trader’ have the same meaning as they have in the *Consumer Protection Act 2007*.”.
+
+### 100. Power of officer of customs and excise to detain unsafe goods.
+
+**100**.— For the purpose of facilitating the performance by the Agency of any functions conferred on it by any of the relevant statutory provisions relating to the safety of products, an officer of customs and excise, when authorised to do so by the Revenue Commissioners following a written request in that behalf by the Agency, may detain any goods being imported for such period as is reasonably necessary for the Agency to examine the goods, or arrange to have the goods examined, which period shall not in any case exceed 72 hours from the time when the goods concerned are detained.
+
+### 101. Directions under certain instruments respecting product safety: actions of third parties.
+
+**101**.— (1) In this section “relevant direction” means a direction, for the time being in force, given under any of the statutory instruments specified in *Schedule 7* , being a direction—
+
+(*a*) prohibiting the placing on the market of one or more products or requiring one or more products to be withdrawn from the market, or
+
+(*b*) imposing restrictions on the placing on the market of one or more products.
+
+(2) In this section a reference to a product concerned is a reference to a product to which the relevant direction relates.
+
+(3) If a relevant direction is given to a person, being a direction to which *subsection (1)(a)* applies, any other person who knows of the direction shall not do any of the following things, namely—
+
+(*a*) distribute,
+
+(*b*) sell,
+
+(*c*) offer for sale,
+
+(*d*) supply in the course of providing a service,
+
+a product concerned.
+
+(4) If a relevant direction is given to a person, being a direction to which *subsection (1)(b)* applies, any other person who knows of the direction shall not—
+
+(*a*) in a case where the restriction concerned prohibits the doing of that particular thing in respect of the product — do any particular thing referred to in *subsection (3)* in respect of a product concerned, or
+
+(*b*) in a case where the restriction concerned does not prohibit the doing of that particular thing in respect of the product — do any particular thing referred to in *subsection (3)* in respect of a product concerned otherwise than in accordance with the terms of the restriction.
+
+(5) A person who contravenes *subsection (3)* or *(4)* commits an offence and is liable on summary conviction to the fines and penalties provided in *Chapter 4* of *Part 5* .
+
+(6) This section is in addition to the provision of any statutory instrument specified in *Schedule 7* that creates an offence in respect of a contravention of a direction given under that instrument.
+
+### 102. Admissibility of certain laboratory tests.
+
+**102**.— (1) A certificate in writing purporting to be signed by a person employed in a relevant laboratory and stating the results of one or more tests carried out in that laboratory with respect to a product of a specified type shall, without proof of the signature of that person or that he or she is employed in the relevant laboratory, be admissible as evidence of the results of the test or tests in the following proceedings taken in relation to that type of product.
+
+(2) Those proceedings are proceedings under any of the statutory instruments specified in *Schedule 7* .
+
+(3) In this section "relevant laboratory" means a laboratory the competence of which to carry out tests in relation to products is recognised by an authority performing functions under the laws, regulations or administrative provisions adopted by a Member State for the purposes of F132[any of the Directives or Regulations] specified in *Schedule 8*.
+
+(4) Where a certificate referred to in *subsection (1)* is produced in proceedings referred to in *subsection (2)*, it shall be presumed, until the contrary is shown, that the laboratory referred to in the certificate as a relevant laboratory is such a laboratory.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F132: Substituted (13.12.2024) by *European Union (General Product Safety) Regulations 2024* (S.I. No. 726 of 2024), reg. 25(a), in effect as per reg. 1(2).
+
+## SCHEDULE 1 Existing Enactments — SCHEDULE 1 — Existing Enactments
+
+### PART 1 — Enactments — Acts of the Oireachtas
+
+| Number and Year | Short Title |
+|---|---|
+| (1) | (2) |
+| No. 31 of 1964 | Pawnbrokers Act 1964 |
+| No. 10 of 1970 | Merchandise Marks Act 1970 |
+| No. 35 of 1979 | Occasional Trading Act 1979 |
+| No. 16 of 1980 | Sale of Goods and Supply of Services Act 1980 |
+| No. 23 of 1980 | Trading Stamps Act 1980 |
+| No. 28 of 1991 | Liability for Defective Products Act 1991 |
+| No. 17 of 1995 | Package Holidays and Travel Trade Act 1995 |
+| No. 24 of 1995 | Consumer Credit Act 1995 |
+| No. 28 of 1996 | National Standards Authority of Ireland Act 1996 |
+| No. 29 of 1998 | Food Safety Authority of Ireland Act 1998 |
+
+### PART 2 — Enactments made under the European Communities Act 1972 which are existing Enactments
+
+<table><tr><td>Number and Year</td><td>Citation</td></tr><tr><td>(1)</td><td>(2)</td></tr><tr><td>S.I. No. 134 of 1988</td><td>European Communities (Misleading Advertising) Regulations 1988</td></tr><tr><td>S.I. No. 224 of 1989</td><td>European Communities (Cancellation of Contracts Negotiated away from Business Premises) Regulations 1989</td></tr><tr><td>S.I. No. 32 of 1990<br>S.I. No. 458 of 1994</td><td>European Communities (Safety of Toys) Regulations 1990 and 1994</td></tr><tr><td>S.I. No. 265 of 1991</td><td>European Communities (Food Imitations) (Safety) Order 1991</td></tr><tr><td>S.I. No. 101 of 1992<br>S.I. No. 150 of 1995</td><td>European Communities (Appliances Burning Gaseous Fuels) Regulations 1992 and 1995</td></tr><tr><td>S.I. No. 428 of 1992<br>S.I. No. 307 of 1994</td><td>European Communities (Low Voltage Electrical Equipment) Regulations 1992 and 1994</td></tr><tr><td>S.I. No. 272 of 1993<br>S.I. No. 13 of 1994<br>S.I. No. 457 of 1994<br>S.I. No. 81 of 1997</td><td>European Communities (Personal Protective Equipment) Regulations 1993 to 1997</td></tr><tr><td>S.I. No. 27 of 1995<br>S.I. No. 307 of 2000</td><td>European Communities (Unfair Terms in Consumer Contracts) Regulations 1995 and 2000</td></tr><tr><td>S.I. No. 63 of 1996</td><td>European Communities (Labelling of Footwear) Regulations 1996</td></tr><tr><td>S.I. No. 204 of 1997</td><td>European Communities (Contracts for Time Sharing of Immovable Property – Protection of Purchasers) Regulations 1997</td></tr><tr><td>S.I. No. 144 of 2000</td><td>European Communities (Contracts for Time Sharing of Immovable Property – Protection for Purchasers) (Amendment) Regulations 2000</td></tr><tr><td>S.I. No. 245 of 1998</td><td>European Communities (Names and Labelling of Textile Products) Regulations 1998</td></tr><tr><td>S.I. No. 254 of 1998</td><td>European Communities (Definition, Description and Presentation of Aromatized Wines, Aromatized Wine-Based Drinks and Aromatized Wine-Product Cocktails) Regulations 1998</td></tr><tr><td>S.I. No. 262 of 1998</td><td>European Communities (Use of Standards for the Transmission of Television Signals) Regulations 1998</td></tr><tr><td>S.I. No. 401 of 2000</td><td>European Communities (Liability for Defective Products) Regulations 2000</td></tr><tr><td>S.I. No. 207 of 2001</td><td>European Communities (Protection of Consumers in Respect of Contracts made by Means of Distance Communication) Regulations 2001</td></tr><tr><td>S.I. No. 449 of 2001</td><td>European Communities (Protection of Consumers’ Collective Interests) Regulations 2001</td></tr><tr><td>S.I. No. 483 of 2002<br>S.I. No. 257 of 2003<br>S.I. No. 451 of 2003<br>S.I. No. 528 of 2003<br>S.I. No. 228 of 2005<br>S.I. No. 514 of 2005<br>S.I. No. 647 of 2005</td><td>European Communities (Labelling, Presentation and Advertising of Foodstuffs) Regulations 2002 to 2005</td></tr><tr><td>S.I. No. 639 of 2002</td><td>European Communities (Requirements to Indicate Product Prices) Regulations 2002</td></tr><tr><td>S.I. No. 11 of 2003</td><td>European Communities (Sale of Consumer Goods and Associated Guarantees) Regulations 2003</td></tr><tr><td>S.I. No. 68 of 2003</td><td>European Communities (Directive 2000/31/EC) Regulations 2003</td></tr><tr><td>S.I. No. 490 of 2004</td><td>European Communities (Amendment of S.I. No. 68 of 2003) Regulations 2004</td></tr><tr><td>S.I. No. 236 of 2003</td><td>European Communities (Marketing of Cocoa and Chocolate Products) Regulations 2003</td></tr><tr><td>S.I. No. 240 of 2003</td><td>European Communities (Marketing of Fruit Juices and Certain Similar Products) Regulations 2003</td></tr><tr><td>S.I. No. 289 of 2003</td><td>European Communities (Marketing of Sugar Products) Regulations 2003</td></tr><tr><td>S.I. No. 294 of 2003</td><td>European Communities (Marketing of Fruit Jams, Jellies, Marmalades and Sweetened Chestnut Purée) Regulations 2003</td></tr><tr><td>S.I. No. 298 of 2003</td><td>European Communities (Dehydrated Preserved Milk) Regulations 2003</td></tr><tr><td>S.I. No. 307 of 2003</td><td>European Communities (Electronic Communications, Networks and Services) (Framework) Regulations 2003</td></tr><tr><td>S.I. No. 308 of 2003</td><td>European Communities (Electronic Communications, Networks and Services) (Universal Services and Users’ Rights) Regulations 2003</td></tr><tr><td>S.I. No. 367 of 2003</td><td>European Communities (Marketing of Honey) Regulations 2003</td></tr><tr><td>S.I. No. 199 of 2004</td><td>European Communities (General Product Safety) Regulations 2004</td></tr><tr><td>S.I. No. 397 of 2004</td><td>European Communities (Marketing Standards for Olive Oil) Regulations 2004</td></tr><tr><td>S.I. No. 853 of 2004</td><td>European Communities (Distance Marketing of Consumer Financial Services) Regulations 2004</td></tr><tr><td>F133[...]</td><td>F133[...]</td></tr><tr><td></td></tr></table>
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F133: Deleted (17.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2020* (S.I. No. 14 of 2020), reg. 9(b)(i), (ii), in effect as per reg. 1(2).
+>
+> **Modifications (not altering text):**
+>
+> C58: References to *European Communities (Safety of Toys) Regulations 1990* (S.I. No. 32 of 1990) construed (20.07.2011) by *European Communities (Safety of Toys) Regulations 2011* (S.I. No. 14 of 2011), reg. 2(3), in effect as per reg. 1(2).
+>
+> *Revocation*
+>
+> 2\. (1) The European Communities (Safety of Toys) Regulations 1990 (S.I. No. 32 of 1990 ) (“1990 Regulations”), other than Regulation 4 in so far as that Regulation relates to Article 2(1) and Part 3 of Annex II of Council Directive 88/378/EEC of 3 May 19882 (“Directive 88/378/EEC”), are revoked with effect from 20 July 2011.
+>
+> (2) The said Regulation 4, in so far as it so relates, is revoked with effect from 20 July 2013.
+>
+> (3) References in any other instrument to the Regulations revoked under *paragraphs (1)* and *(2)* shall be construed as references to these Regulations, as appropriate.
+>
+> **Editorial Notes:**
+>
+> E97: *European Communities (General Product Safety) Regulations 2004* (S.I. No. 199 of 2004), listed above, revoked (13.12.2024) by *European Union (General Product Safety) Regulations 2024* (S.I. No. 726 of 2024), reg. 27, in effect as per reg. 1(2).
+>
+> E98: *European Communities (Appliances Burning Gaseous Fuels) Regulations 1992* (S.I. No. 101 of 1992) and *European Communities (Appliances Burning Gaseous Fuels) (Amendment) Regulations 1995* (S.I. No. 150 of 1995), listed above, revoked (21.04.2018) by *European Union (Appliances Burning Gaseous Fuels) Regulations 2018* (S.I. No. 126 of 2018), reg. 31, in effect as per reg. 1(2).
+>
+> E99: Previous affecting provision: S.I. No. 290 of 2006 and *European Communities (Cooperation between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2006* deleted (17.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2019* (S.I. No. 691 of 2019), reg. 9(b)(i), (ii), in effect as per reg. 1(2); S.I. No. 691 of 2019 revoked (17.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2020* (S.I. No. 14 of 2020), reg. 11(f), in effect as per reg. 1(2). The same amendment is made as per F-note above.
+
+## SCHEDULE 2 — Repeals
+
+| Session and Chapter or Number and Year | Short Title | Extent of Repeal |
+|---|---|---|
+| (1) | (2) | (3) |
+| 50 & 51 Vic., c. 28 | Merchandise Marks Act 1887 | The whole Act |
+| 54 & 55 Vic., c. 15 | Merchandise Marks Act 1891 | The whole Act |
+| 1 & 2 Geo. 5., c. 31 | Merchandise Marks Act 1911 | The whole Act |
+| 5 & 6 Geo. 5., c. 1 | Anglo-Portuguese Commercial Treaty Act 1914 | The whole Act |
+| 6 & 7 Geo. 5., c. 39 | Anglo-Portuguese Commercial Treaty Act 1916 | The whole Act |
+| No. 10 of 1930 | Agricultural Produce (Fresh Meat) Act 1930 | Section 27(4) and (5) |
+| No. 35 of 1930 | Portuguese Treaty Act 1930 | The whole Act |
+| No. 26 of 1931 | Agricultural Produce (Potatoes) Act 1931 | Section 19(4) and (5) |
+| No. 48 of 1931 | Merchandise Marks Act 1931 | The whole Act |
+| No. 6 of 1936 | Spanish Trade Agreement Act 1936 | The whole Act |
+| No. 14 of 1955 | Seed Production Act 1955 | Section 22(3) |
+| No. 4 of 1958 | Prices Act 1958 | The whole Act, except to the extent specified in *section 92* |
+| No. 25 of 1968 | Road Traffic Act 1968 | Section 14(1), (2) and (3) |
+| No. 20 of 1972 | Prices (Amendment) Act 1972 | The whole Act |
+| No. 1 of 1978 | Consumer Information Act 1978 | The whole Act |
+| No. 11 of 1980 | Packaged Goods (Quantity Control) Act 1980 | Section 12(1) |
+| No. 27 of 1980 | Pyramid Selling Act 1980 | The whole Act |
+| No. 31 of 1987 | Restrictive Practices (Amendment) Act 1987 | The whole Act |
+| No. 28 of 1996 | National Standards Authority of Ireland Act 1996 | Section 19(3) and 21(7) |
+
+## SCHEDULE 3 References in Certain Acts and Instruments to Director or Office of Director — SCHEDULE 3 — References in Certain Acts and Instruments to Director or Office of Director
+
+### PART 1 — References in Certain Acts to Director of Consumer Affairs or Office of the Director of Consumer Affairs
+
+| Short Title, Number and Year | Provision affected | Amendment |
+|---|---|---|
+| (1) | (2) | (3) |
+| Ombudsman Act 1980 (No. 26 of 1980) | First Schedule | In Part II, delete “the Director of Consumer Affairs”. |
+|  | Second Schedule | Insert “National Consumer Agency”. |
+| National Archives Act 1986 (No. 11 of 1986) | Schedule | Substitute “National Consumer Agency” for “Office of the Director of Consumer Affairs”. |
+| Prompt Payment of Accounts Act 1997 (No. 31 of 1997) | Schedule | Substitute “National Consumer Agency” for “the Office of the Director of Consumer Affairs”. |
+| Taxes Consolidation Act 1997 (No. 39 of 1997) | Schedule 13 | Substitute the following for paragraph 112 (inserted by section 14 of the Finance Act 2001): “112. National Consumer Agency.”. |
+| Electronic Commerce Act 2000 (No. 27 of 2000) | Section 15 | Substitute “role of the National Consumer Agency” for “role of the Director of Consumer Affairs”. |
+| Competition Act 2002 (No. 14 of 2002) | Schedule 1 (as amended by the Competition Act 2002 (Section 34(11)) (Director of Consumer Affairs) Order 2003 (S.I. No. 130 of 2003) | In column (1), substitute “National Consumer Agency” for “Director of Consumer Affairs”. |
+| Ombudsman for Children Act 2002 (No. 22 of 2002) | Schedule 1 | In Part 2, substitute “National Consumer Agency” for “Director of Consumer Affairs”. |
+| Personal Injuries Assessment Board Act 2003 (No. 46 of 2003) | Section 56(6) | Substitute “the chief executive of the National Consumer Agency” for “the Director of Consumer Affairs”. |
+| Official Languages Act 2003 (No. 32 of 2003) | First Schedule | (*a*) in paragraph 1 of the Irish text— (i) in subparagraph (1), delete “Oifig an Stiúrthóra Gnóthaí Tomhaltóirí”, and (ii) in subparagraph (2), insert “An Ghníomhaireacht Náisiúnta Tomhaltóirí”. (*b*) in paragraph 1 of the English text— (i) in subparagraph (1), delete “Office of the Director of Consumer Affairs”, and (ii) in subparagraph (2), insert “National Consumer Agency”. |
+| Veterinary Practice Act 2005 (No. 22 of 2005) | Section 16(1) | Substitute the following for paragraph (*g*): “(*g*) one person who is nominated for such appointment by the National Consumer Agency;”. |
+
+### PART 2 — References in Certain Instruments to Director of Consumer Affairs or Office of the Director of Consumer Affairs
+
+| Citation, Number and Year | Provision affected | Amendment |
+|---|---|---|
+| (1) | (2) | (3) |
+| Air Quality Standards Regulations 2002 (S.I. No. 271 of 2002) | Schedule 14 | Substitute the following for paragraph (6): “(6) National Consumer Agency”. |
+| Genetically Modified Organisms (Deliberate Release) Regulations 2003 (S.I. No. 500 of 2003) | Regulation 62(1) | (*a*) Substitute the following for paragraph (*g*): “(*g*) the National Consumer Agency,”. (*b*) In paragraph (*j*), substitute “the National Consumer Agency” for “the Office of the Director of Consumer Affairs”. |
+| Ozone in Ambient Air Regulations 2004 (S.I. No. 53 of 2004) | Schedule 10 | Substitute the following for paragraph (6): “(6) National Consumer Agency”. |
+| Investor Compensation Act 1998 (Section 18(4)) (Prescription of Bodies and Individuals) Regulations 2004 (S.I. No. 570 of 2004) | Regulation 2 | Substitute the following for paragraph (*b*): “(*b*) the National Consumer Agency;”. |
+| Finance Act 1993 (Section 60) Regulations 2005 (S.I. No. 846 of 2005) | Schedule | Substitute “National Consumer Agency” for “Office of the Director of Consumer Affairs”. |
+
+## SCHEDULE 4 — Enactments for the purpose of section 73 (Undertakings with the Agency)
+
+| Number and Year | Short Title or Citation |
+|---|---|
+| (1) | (2) |
+| F134[...] | F134[...] |
+| No. 17 of 1995 | Package Holidays and Travel Trade Act 1995 |
+| F134[...] | F134[...] |
+| F134[...] | F134[...] |
+| F134[...] | F134[...] |
+| F134[...] | F134[...] |
+| F134[...] | F134[...] |
+| S.I. No. 639 of 2002 | European Communities (Requirements to Indicate Product Prices) Regulations 2002 |
+| F134[...] | F134[...] |
+| S.I. No. 68 of 2003 | European Communities (Directive 2000/31/EC) Regulations 2003 |
+| S.I. No. 490 of 2004 | European Communities (Amendment of S.I. No. 68 of 2003) Regulations 2004 |
+| S.I. No. 73 of 2011 | F135[European Union (Protection of Consumers in respect of Timeshare, Long-term Holiday Product, Resale and Exchange Contracts) Regulations 2011] |
+| F134[...] | F134[...] |
+| F137[S.I. No. 14 of 2020] | F137[European Union (Cooperation between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2020] |
+| F138[No. 37 of 2022] | F138[the Consumer Rights Act 2022] |
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F134: Deleted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 169(a)-(d), S.I. No. 596 of 2022.
+>
+> F135: Inserted (23.02.2011) by *European Union (Protection of Consumers in respect of Timeshare, Long-term Holiday Product, Resale and Exchange Contracts) Regulations 2011* (S.I. No. 73 of 2011), reg. 22(b), in effect as per reg. 1(2).
+>
+> F136: Inserted (13.06.2014) by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2013), reg. 33(e), in effect as per reg. 1(2).
+>
+> F137: Inserted (17.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2020* (S.I. No. 14 of 2020), reg. 9(c)(i), (ii), in effect as per reg. 1(2).
+>
+> F138: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 169(e), S.I. No. 596 of 2022.
+>
+> **Editorial Notes:**
+>
+> E100: Previous affecting provision: *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* S.I. No. 484 of 2013 inserted (13.06.2014) by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2013), reg. 33(e), in effect as per reg. 1(2); deleted as per F-note above.
+>
+> E101: Previous affecting provision: S.I. No. 691 of 2019 and *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2019* inserted (17.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2019* (S.I. No. 691 of 2019), reg. 9(c)(i), (ii), in effect as per reg. 1(2); revoked (17.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2020* (S.I. No. 14 of 2020), reg. 11(f), in effect as per reg. 1(2). The same amendment is made as per F-note above.
+
+## SCHEDULE 5 — Enactments for the purpose of section 75 (Compliance notices)
+
+| Number and Year | Short Title or Citation |
+|---|---|
+| (1) | (2) |
+| F139[...] | F139[...] |
+| No. 17 of 1995 | Package Holidays and Travel Trade Act 1995 |
+| S.I. No. 168 of 1984 | Consumer Information (Advertisements) (Disclosure of Business Interest) Order 1984 |
+| F139[...] | F139[...] |
+| S.I. No. 103 of 1997 | Consumer Information (Advertisements for Concert or Theatre Performances) Order 1997 |
+| F139[...] | F139[...] |
+| F139[...] | F139[...] |
+| S.I. No. 468 of 2000 | Consumer Information (Advertisements for Airfares) Order 2000 |
+| F139[...] | F139[...] |
+| S.I. No. 68 of 2003 | European Communities (Directive 2000/31/EC) Regulations 2003 |
+| S.I. No. 490 of 2004 | European Communities (Amendment of S.I. No. 68 of 2003) Regulations 2003 |
+|  | F140[the European Union (Protection of Consumers in respect of Timeshare, Long-term Holiday Product, Resale and Exchange Contracts) Regulations 2011] |
+| F139[...] | F139[...] |
+| F141[S.I. No. 343 of 2015] | F141[the European Union (Alternative Dispute Resolution for Consumer Disputes) Regulations 2015] |
+| F142[S.I. No. 500 of 2015] | F142[the European Union (Online Dispute Resolution for Consumer Disputes) Regulations 2015] |
+| F143[S.I. No. 513 of 2018] | F143[the European Union (Unjustified Geo-blocking of Consumers) Regulations 2018] |
+| F144[S.I. No. 14 of 2020] | F144[European Union (Cooperation between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2020] |
+| F145[S.I. No. 256 of 2020 ] | F145[ the European Union (Promoting fairness and transparency for business users of online intermediation services) Regulations 2020 ] |
+| F146[No. 37 of 2022] | F146[the Consumer Rights Act 2022] |
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F139: Deleted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 170(a)-(d), S.I. No. 596 of 2022.
+>
+> F140: Inserted (23.02.2011) by *European Union (Protection of Consumers in respect of Timeshare, Long-term Holiday Product, Resale and Exchange Contracts) Regulations 2011* (S.I. No. 73 of 2011), reg. 22(c), in effect as per reg. 1(2).
+>
+> F141: Inserted (31.07.2015) by *European Union (Alternative Dispute Resolution for Consumer Disputes) Regulations 2015* (S.I. No. 343 of 2015), reg. 19(c).
+>
+> F142: Inserted (9.01.2016) by *European Union (Online Dispute Resolution for Consumer Disputes) Regulations 2015* (S.I. No. 500 of 2015), reg. 5(c), in effect as per reg. 1(2).
+>
+> F143: Inserted (3.12.2018) by *European Union (Unjustified Geoblocking of Consumers) Regulations 2018* (S.I. No. 513 of 2018), reg. 6(c), in effect as per reg. 1(2), (3).
+>
+> F144: Inserted (17.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2020* (S.I. No. 14 of 2020), reg. 9(d)(i), (ii), in effect as per reg. 1(2).
+>
+> F145: Inserted (12.07.2020) by *European Union (Promoting Fairness and Transparency for Business Users of Online Intermediation Services) Regulations 2020* (S.I. No. 256 of 2020), reg. 6(b), in effect as per reg. 1(2). The blank SI number is 256 of 2020.
+>
+> F146: Inserted (29.11.2022) by *Consumer Rights Act 2022* (37/2022), s. 170(e), S.I. No. 596 of 2022.
+>
+> **Editorial Notes:**
+>
+> E102: Previous affecting provision:*European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* S.I. No. 484 of 2013 inserted (13.06.2014) by *European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013* (S.I. No. 484 of 2013), reg. 33(f), in effect as per reg. 1(2); deleted as per F-note above.
+>
+> E103: Previous affecting provision: S.I. No. 691 of 2019 and *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2019* inserted (17.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2019* (S.I. No. 691 of 2019), reg. 9(d)(i), (ii), in effect as per reg. 1(2); revoked (17.01.2020) by *European Union (Cooperation Between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2020* (S.I. No. 14 of 2020), reg. 11(f), in effect as per reg. 1(2). The same amendment is made as per F-note above.
+
+## SCHEDULE 6 — Redress for contravention of section 87
+
+1\. In this Schedule—
+
+“Act of 1994” means the Terms of Employment (Information) Act 1994;
+
+“employee” and “employer” have the same meaning as they have in the Act of 1994.
+
+F147[2. A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a complaint of a contravention of section 87(3) shall do one or more of the following, namely—
+
+(*a*) declare that the complaint was or, as the case may be, was not well founded,
+
+(*b*) require the employer to take a specified course of action, or
+
+(*c*) require the employer to pay to the employee compensation of such amount (if any) as the adjudication officer considers just and equitable having regard to all of the circumstances.]
+
+3\. F148[...]
+
+F149[3A. A decision of the Labour Court under section 44 of the Workplace Relations Act 2015 on appeal from a decision of an adjudication officer referred to in paragraph 2 shall affirm, vary or set aside the decision of the adjudication officer.]
+
+4\. (1) In proceedings under F150[Part 4 of the Workplace Relations Act 2015] in relation to a complaint that *section 87(3)* has been contravened, it shall be presumed, until the contrary is proved, that the employee concerned acted reasonably and in good faith in forming the opinion and making the communication concerned.
+
+(2) If a penalisation of an employee, in contravention of *section 87(3)*, constitutes a dismissal of the employee within the meaning of the Unfair Dismissals Acts 1977 to 2005, relief may not be granted to the employee in respect of that penalisation both under F150[Part 4 of the Workplace Relations Act 2015] and under those Acts.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F147: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 item 24(a), S.I. No. 410 of 2015, subject to transitional provision in subs. (3).
+>
+> F148: Repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 part 1 item 23, S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> F149: Inserted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 item 24(b), S.I. No. 410 of 2015, subject to transitional provision in subs. (3).
+>
+> F150: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 item 24(c), S.I. No. 410 of 2015, subject to transitional provision in subs. (3).
+
+## SCHEDULE 7 — Statutory Instruments for the purposes of sections 101 and 102 (Directions respecting product safety and admissibility of laboratory tests)
+
+| Number and Year | Citation |
+|---|---|
+| S.I. No. 32 of 1990 | European Communities (Safety of Toys) Regulations 1990 |
+| S.I. No. 101 of 1992 | European Communities (Appliances Burning Gaseous Fuels) Regulations 1992 |
+| S.I. No. 482 of 1992 | European Communities (Low Voltage Electrical Equipment) Regulations 1992 |
+| S.I. No. 272 of 1993 | European Communities (Personal Protective Equipment) Regulations 1993 |
+| F151[...] | F152[...] |
+| F153[S.I. No. XX of 2024] | F154[European Union (General Product Safety) Regulations 2024] |
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F151, F152: Deleted (13.12.2024) by *European Union (General Product Safety) Regulations 2024* (S.I. No. 726 of 2024), reg. 25(b)(i), in effect as per reg. 1(2).
+>
+> F153, F154: Inserted (13.12.2024) by *European Union (General Product Safety) Regulations 2024* (S.I. No. 726 of 2024), reg. 25(b)(ii), in effect as per reg. 1(2).
+>
+> **Modifications (not altering text):**
+>
+> C59: References to *European Communities (Safety of Toys) Regulations 1990* (S.I. No. 32 of 1990) construed (20.07.2011) by *European Communities (Safety of Toys) Regulations 2011* (S.I. No. 14 of 2011), reg. 2(3), in effect as per reg. 1(2).
+>
+> *Revocation*
+>
+> 2\. (1) The European Communities (Safety of Toys) Regulations 1990 (S.I. No. 32 of 1990 ) (“1990 Regulations”), other than Regulation 4 in so far as that Regulation relates to Article 2(1) and Part 3 of Annex II of Council Directive 88/378/EEC of 3 May 19882 (“Directive 88/378/EEC”), are revoked with effect from 20 July 2011.
+>
+> (2) The said Regulation 4, in so far as it so relates, is revoked with effect from 20 July 2013.
+>
+> (3) References in any other instrument to the Regulations revoked under *paragraphs (1)* and *(2)* shall be construed as references to these Regulations, as appropriate.
+>
+> **Editorial Notes:**
+>
+> E104: *European Communities (Appliances Burning Gaseous Fuels) Regulations 1992* (S.I. No. 101 of 1992) revoked (21.04.2018) by *European Union (Appliances Burning Gaseous Fuels) Regulations 2018* (S.I. No. 126 of 2018), reg. 31(a), in effect as per reg. 1(2).
+
+## SCHEDULE 8 — Directives for the purpose of section 102 (Admissibility of laboratory tests)
+
+Council Directive 73/23/EEC of 19 February 1973 on the harmonization of the laws of Member States relating to electrical equipment designed for use within certain voltage limits
+
+Council Directive 88/378/EEC of 3 May 1988 on the approximation of the laws of the Member States concerning the safety of toys
+
+Council Directive 89/686/EEC of 21 December 1989 on the approximation of the laws of the Member States relating to personal protective equipment
+
+Council Directive 90/396/EEC of 29 June 1990 on the approximation of the laws of the Member States relating to appliances burning gaseous fuels
+
+F155[...]
+
+F156[Regulation (EU) 2023/988 of the European Parliament and of the Council of 10 May 2023 on general product safety, amending Regulation (EU) No 1025/2012 of the European Parliament and of the Council and Directive (EU) 2020/1828 of the European Parliament and the Council, and repealing Directive 2001/95/EC of the European Parliament and of the Council and Council Directive 87/357/EEC]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F155: Deleted (13.12.2024) by *European Union (General Product Safety) Regulations 2024* (S.I. No. 726 of 2024), reg. 25(c)(i), in effect as per reg. 1(2).
+>
+> F156: Inserted (13.12.2024) by *European Union (General Product Safety) Regulations 2024* (S.I. No. 726 of 2024), reg. 25(c)(ii), in effect as per reg. 1(2).
+
+## F157[SCHEDULE 9 — Relevant Statutory Instrument
+
+| Number and Year (1) | Citation (2) |
+|---|---|
+| S.I. No. 63 of 2005 | European Communities (Distance Marketing of Consumer Financial Services) (Amendment) Regulations 2005 |
+| S.I. No. 376 of 2007 | European Communities (Labelling, Presentation and Advertising of Foodstuffs) (Amendment) Regulations 2007 |
+| S.I. No. 587 of 2007 | European Communities (Plastics and other materials) (Contact with food) Regulations 2007 |
+| S.I. No. 774 of 2007 | European Communities (Misleading and Comparative Marketing Communications) Regulations 2007 |
+| S.I. No. 808 of 2007 | European Communities (Labelling, Presentation and Advertising of Foodstuffs) (Amendment) (No. 2) Regulations 2007 |
+| S.I. No. 316 of 2008 | European Communities (Cooperation between National Authorities Responsible for the Enforcement of Consumer Protection Laws) (Amendment) Regulations 2008 |
+| S.I. No. 407 of 2008 | European Communities (Machinery) Regulations 2008 |
+| S.I. No. 424 of 2008 | European Communities (Labelling, Presentation and Advertising of Foodstuffs) (Amendment) Regulations 2008 |
+| S.I. No. 566 of 2008 | European Communities (Prepacked Products) Regulations 2008 |
+| S.I. No. 61 of 2009 | European Communities (Labelling, Presentation and Advertising of Foodstuffs) (Amendment) Regulations 2009 |
+| S.I. No. 88 of 2009 | European Communities (Plastics and other materials) (Contact with food) (Amendment) Regulations 2009 |
+| S.I. No. 383 of 2009 | European Communities (Payment Services) Regulations 2009 |
+| S.I. No. 463 of 2009 | European Communities (Plastics and other materials) (Contact with food) (Amendment) (No. 2) Regulations 2009 |
+| S.I. No. 1 of 2010 | European Communities (Placing on the Market of Pyrotechnic Articles) Regulations 2010 |
+| S.I. No. 281 of 2010 | European Communities (Consumer Credit Agreements) Regulations 2010 |
+| S.I. No. 416 of 2010 | European Communities (Placing on the Market of Pyrotechnic Articles) (Amendment) Regulations 2010 |
+| S.I. No. 555 of 2010 | European Communities (Court Orders for the Protection of Consumer Interests) Regulations 2010 |
+| S.I. No. 105 of 2011 | European Communities (Plastics and other materials) (Contact with Foodstuffs) (Amendment) Regulations 2011 |
+| S.I. No. 310 of 2011 | European Communities (Machinery) (Amendment) Regulations 2011 |
+| S.I. No. 333 of 2011 | European Communities (Electronic Communications Networks and Services) (Framework) Regulations 2011 |
+| S.I. No. 337 of 2011 | European Communities (Electronic Communications Networks and Services) (Universal Service and Users’ Rights) Regulations 2011 |
+| S.I. No. 485 of 2012 | European Communities (Cooperation between National Authorities Responsible for the Enforcement of Consumer Protection Laws) (Amendment) Regulations 2012 |
+| S.I. No. 13 of 2013 | European Communities (Safety of Toys) (Amendment) Regulations 2013 |
+| S.I. No. 122 of 2013 | European Communities (Cooperation between National Authorities Responsible for the Enforcement of Consumer Protection Laws) (Amendment) Regulations 2013 |
+| S.I. No. 160 of 2013 | European Communities (Unfair Terms in Consumer Contracts) (Amendment) Regulations 2013 |
+| S.I. No. 200 of 2013 | European Communities (Cooperation between National Authorities Responsible for the Enforcement of Consumer Protection Laws) (Amendment) (No. 2) Regulations 2013 |
+| S.I. No. 373 of 2013 | European Communities (Placing on the Market of Pyrotechnic Articles) (Amendment) Regulations 2013 |
+| S.I. No. 381 of 2013 | European Communities (Labelling, Presentation and Advertising of Foodstuffs) (Amendment) Regulations 2013 ] |
+| F158[S.I. No. 126 of 2018] | F158[European Union (Appliances Burning Gaseous Fuels) Regulations 2018] |
+| F159[S.I. No. 345 of 2016 | European Union (Low Voltage Electrical Equipment) Regulations 2016] |
+| F159[S.I. No. 136 of 2018 | European Union (Personal Protective Equipment) Regulations 2018] |
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F157: Inserted (31.10.2014) by *Competition and Consumer Protection Act 2014* (29/2014), s. 81, S.I. No. 366 of 2014.
+>
+> F158: Inserted (21.04.2018) by *European Union (Appliances Burning Gaseous Fuels) Regulations 2018* (S.I. No. 126 of 2018), reg. 29, in effect as per reg. 1(2).
+>
+> F159: Inserted (27.09.2023) by *Competition (Amendment) Act 2022* (12/2022), s. 42(a), (b), S.I. No. 448 of 2023.
+
+[^1]: O.J. No. L.149, 11/06/2005, p. 22.
+[^2]: O.J. No. L 193, 18.7.1983, p.1.
+[^3]: OJ No. L345, 27.12.2017, p 1-26

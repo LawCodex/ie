@@ -1,0 +1,257 @@
+---
+title: "Aer Lingus Act 2004"
+identifier: "eli/2004/act/10"
+type: act
+jurisdiction: ie
+language: en
+number: 10
+year: 2004
+date: 2004-04-07
+last_amended: 2020-10-01
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2004/act/10/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2004/act/10/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Aer Lingus Act 2004
+
+AN ACT TO PROVIDE FOR THE HOLDING, TRANSFER, DISPOSAL, EXCHANGE AND SALE OF SHARES IN AER LINGUS GROUP PUBLIC LIMITED COMPANY BY THE MINISTER FOR FINANCE, TO PROVIDE FOR THE ISSUE OF SHARES BY THAT COMPANY, TO PROVIDE FOR MATTERS RELATING TO SUPERANNUATION SCHEMES OF THAT COMPANY AND ITS SUBSIDIARIES, TO PROVIDE FOR MATTERS RELATING TO AERLINTE, TO PROVIDE FOR THE AMENDMENT OF THE AIR COMPANIES ACT 1966, TO PROVIDE FOR THE AMENDMENT OF THE WORKER PARTICIPATION (STATE ENTERPRISES) ACTS 1977 TO 2001, TO PROVIDE FOR THE REPEAL OF CERTAIN ENACTMENTS AND TO PROVIDE FOR RELATED MATTERS.
+
+[7*th April*, 2004]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## 1. Interpretation and construction.
+
+**1.** —(1) In this Act, except where the context otherwise requires—
+
+“Aerlinte” means the company incorporated as Aerlinte Eireann Teoranta on 26 February 1947, which company is now incorporated under the name “Santain Developments Limited”;
+
+“Air Companies Acts” means the Air Companies Acts 1966 to 1993;
+
+“Act of 1969” means the Air Companies (Amendment) Act 1969;
+
+“Act of 1993” means the Air Companies (Amendment) Act 1993;
+
+“Companies Acts” means the Companies Acts 1963 to 2003, and every other enactment which is to be construed as one with those Acts;
+
+“Company” means Aer Lingus Group public limited company;
+
+“Minister” means the Minister for Transport;
+
+“subsidiary” has the same meaning as it has in section 155 of the Companies Act 1963.
+
+(2) In this Act—
+
+(*a*) a reference to a section or Schedule is a reference to a section of, or the Schedule to, this Act unless it is indicated that reference to some other enactment is intended,
+
+(*b*) a reference to a subsection, paragraph or subparagraph is a reference to the subsection, paragraph or subparagraph of the provision in which the reference occurs unless it is indicated that reference to some other provision is intended,
+
+(*c*) a reference to any enactment is a reference to that enactment as amended, extended or adapted by or under any subsequent enactment (including this Act).
+
+## 2. Repeals.
+
+**2.** —Each enactment specified in the *Schedule* is repealed to the extent specified in *column (3)* of that Schedule.
+
+## 3. Power to hold, sell or dispose of shares in Company.
+
+**3.** —(1) The Minister for Finance may hold for so long as he or she thinks fit any shares in the Company subscribed for, taken up or acquired by that Minister under the Air Companies Acts.
+
+(2) Subject to *subsection (4)*, the Minister for Finance may, at such time or times as appear to him or her appropriate, sell, transfer, exchange, surrender, redeem or dispose of all or any of the shares in the Company on such terms and conditions as appear to that Minister to be appropriate.
+
+(3) Any funds received in respect of the sale, transfer, disposal, surrender or redemption of any share to which *subsection (2)* refers shall be paid into or disposed of for the benefit of the Exchequer.
+
+(4) Before exercising any of the powers conferred on him or her by *subsection (2)*, the Minister for Finance shall consult with the Minister.
+
+(5) The Minister for Finance may not dispose of any shares in the Company without the general principles of the disposal being laid before and approved by Dáil Éireann.
+
+(6) *Subsection (5)* shall not apply to the exercise of powers conferred on the Minister for Finance by *section 7* .
+
+## 4. Power to issue shares.
+
+**4.** —Notwithstanding anything contained in the Air Companies Acts, the Company may in accordance with the Companies Acts—
+
+(*a*) issue new shares, and
+
+(*b*) divide and sub-divide shares into one or more than one class and attach thereto respectively any preferential, deferred, qualified or special rights, privileges or conditions in accordance with the Companies Acts.
+
+## 5. Agreements relating to sale or issue of shares in Company.
+
+**5.** —(1) The Minister for Finance, having consulted the Minister, may enter into one or more than one agreement in connection with the sale or issue of shares in the Company or enter into one or more than one agreement in connection with both the sale and issue of shares in the Company, and any such agreement may include—
+
+(*a*) representations, warranties and indemnities and provisions relating thereto,
+
+(*b*) provisions customarily contained in a shareholders' agreement or an underwriting agreement, and
+
+(*c*) such other matters as the Minister for Finance, having consulted the Minister, shall consent to.
+
+(2) The Company may enter into one or more than one agreement in connection with the sale or issue of shares in the Company or in connection with both the sale and issue of shares in the Company.
+
+(3) Without prejudice to the generality of the foregoing an agreement referred to in *subsection (1)* or *(2)* may include provisions relating to—
+
+(*a*) amendments to the memorandum of association or articles of association of the Company,
+
+(*b*) directors,
+
+(*c*) shareholders,
+
+(*d*) voting rights,
+
+(*e*) dividend policy,
+
+(*f*) investments, and
+
+(*g*) restrictions on the alienability of shares.
+
+## 6. Number of directors of Company and of worker directors under Worker Participation (State Enterprises) Acts 1977 to 2001.
+
+**6.** —(1) Section 12 of the Act of 1966 (as amended by section 8 of the Act of 1993) is amended by substituting “such number not exceeding 12” for “such number not exceeding eight”.
+
+(2) Notwithstanding anything contained in the Worker Participation (State Enterprises) Acts 1977 to 2001, or any order or warrant made under those Acts, with effect from the commencement of this subsection those Acts shall cease to apply to the Company, and any person appointed a director of the Company under section 15 of the Worker Participation (State Enterprises) Act 1977 and holding such office immediately prior to such commencement shall thereupon cease to hold such office.
+
+(3) *Subsection (2)* shall come into operation on such day as the Minister may by order appoint.
+
+(4) Notwithstanding anything contained in the Worker Participation (State Enterprises) Acts 1977 to 2001, or any order or warrant made under those Acts, the Minister may by order reduce the number of directors of the Company appointed pursuant to those Acts.
+
+(5) The Minister may by order amend or revoke an order made pursuant to *subsection (4)* including an order made under this subsection.
+
+(6) On the coming into operation of an order pursuant to *subsection (4)* or *(5)* reducing the number of directors appointed to the Company pursuant to the Worker Participation (State Enterprises) Acts 1977 to 2001, one or more (as the provisions of the order necessitate) of the directors so appointed shall retire as director of the Company, which person or persons shall be chosen by lot in the absence of agreement between all of the directors then serving as a director of the Company pursuant to those Acts.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to subs. (3) exercised (27.09.2006) by *Aer Lingus Act 2004 (Commencement of Section 6(2) Order 2006* (S.I. No. 476 of 2006).
+>
+> 2\. The 27th day of September 2006 is appointed as the day on which section 6(2) of the Aer Lingus Act 2004 (No. 10 of 2004) comes into operation.
+>
+> E2: Power pursuant to subs. (4) exercised (25.08.2006) by *Aer Lingus Act 2004 (Section 6(4)) Order 2006* (S.I. No. 456 of 2006).
+
+## 7. Employee shareholding schemes.
+
+**7.** —(1) Notwithstanding anything contained in the Air Companies Acts the Company may issue shares in accordance with the Companies Acts as part of one or more than one employee shareholding scheme.
+
+(2) The Minister for Finance may, as part of one or more than one employee shareholding scheme, sell, transfer, exchange or surrender, redeem or otherwise dispose of shares in the Company held by him or her subject to such terms and conditions as may be specified by that Minister, and may enter agreements regarding any such shares.
+
+(3) Before exercising the powers conferred on him or her by *subsection (2)* the Minister for Finance shall consult with the Minister.
+
+## 7A. Confirmation of certain matters.
+
+F1[**7A.**—(1) Notwithstanding *section 13(2)* and the Aer Lingus Act 2004 (Commencement of Certain Provisions) Order 2005—
+
+(*a*) *section 2* (in so far as it relates to section 5(2) of the Air Companies (Amendment) Act 1993), and
+
+(*b*) *section 7*,
+
+are deemed to have come into operation on 19 August 2004.
+
+(2) Without prejudice to the generality of *subsection (1)*, the issue of shares in Aer Lingus Group public limited company on 20 August 2004 is confirmed and deemed always to have had full effect.
+
+(3) Nothing in this *section* shall affect any proceedings commenced in any court concerning the validity of the issue of shares in the Company under *section 7* where those proceedings were commenced before 8 March 2006.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1, F1: Inserted (4.04.2006) by *Aviation Act 2006* (7/2006), s. 4, commenced on enactment.
+
+## 8. Non-application of section 60 of Companies Act 1963.
+
+**8.** —(1) Section 60 of the Companies Act 1963 shall not apply to—
+
+(*a*) any representation made or warranty or indemnity given by the Company or any subsidiary of the Company in connection with the sale or transfer by the Minister for Finance, or the issue by the Company, of any shares in the Company, or
+
+(*b*) any financial obligations undertaken by the Company or any subsidiary of the Company in connection with the sale or transfer by the Minister for Finance of any shares in the Company, or the issue by the Company, of any shares in the Company,
+
+for the purposes of an agreement entered into by that Minister under *section 5(1)* of this Act.
+
+(2) Notwithstanding subsection (13)(*b*) of section 60 of the Companies Act 1963, section 60 of that Act shall not apply to the provision, whether directly or indirectly, by the Company or any subsidiary thereof of money or a financial arrangement including a loan, guarantee, the provision of security or otherwise in connection with the purchase of, or subscription for, shares in the Company or its holding company by an employee share ownership trust established by the Company, or the transfer thereto of such shares, irrespective of whether or not all or a portion of such shares are pledged as security or otherwise to any third party.
+
+## 9. Superannuation schemes.
+
+**9.** F2[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F2: Repealed (27.07.2014) by *State Airports (Shannon Group) Act 2014* (27/2014), s. 34(2), commenced on enactment.
+
+## 10. Expenses.
+
+**10.** —Moneys required by the Minister for Finance or the Minister to meet amounts payable by either or both of them in respect of the disposal of shares or rights in shares in the Company shall be paid out of moneys provided by the Oireachtas.
+
+## 11. Provision as to certain loans.
+
+**11.** —(1) The sums advanced to Aerlinte by the Minister for Finance pursuant to section 3 of the Act of 1969 shall be deemed to have been advanced to Aer Lingus Limited, and notwithstanding section 3 of the Act of 1969, all sums advanced to Aerlinte pursuant to that section shall be repaid by Aer Lingus Limited to the Minister for Finance on such date as may be designated for that purpose by the Minister.
+
+(2) Subject to this section, until the sums advanced under section 3 of the Act of 1969 are repaid to the Minister for Finance, the terms affecting such sums shall continue to apply and shall be construed as if every reference to Aerlinte in that section and in any associated documentation relating to the sums advanced were a reference to Aer Lingus Limited.
+
+(3) Where the sums advanced pursuant to section 3 of the Act of 1969 (or any part of such sums) have not been repaid to the Minister at any time after the date for repayment designated by the Minister pursuant to *subsection (1)* has passed, such sums together with any interest due may be recovered from the Company by the Minister for Finance as a simple contract debt.
+
+(4) Any funds received by the Minister for Finance in respect of sums of money referred to in this section shall be paid into or disposed of for the benefit of the Exchequer.
+
+## 12. Certain Acts not to apply to Company.
+
+**12.** —(1) With effect from the coming into operation of this subsection, the Ethics in Public Office Acts 1995 and 2001, shall cease to apply to the Company.
+
+(2) With effect from the coming into operation of this subsection, the Prompt Payment of Accounts Act 1997 shall cease to apply to the Company.
+
+(3) With effect from the coming into operation of this subsection, section 521 of the Taxes Consolidation Act 1997 shall cease to apply to the Company.
+
+## 13. Short title and commencement.
+
+**13.** —(1) This Act may be cited as the Aer Lingus Act 2004.
+
+(2) This Act shall come into operation on such day or days as the Minister may by order or orders appoint either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or different provisions and in particular as respects the repeals effected by *section 2* , different days may be appointed as respects—
+
+(*a*) different enactments specified in the *Schedule*,
+
+(*b*) different provisions of those enactments, or
+
+(*c*) different purposes.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E3: Note changes made to commencement dates (4.04.2006) in s. 7A above.
+>
+> E4: Power pursuant to subs. (2) exercised (27.09.2006) by *Aer Lingus Act 2004 (Commencement of Provisions) (No. 2) Order 2006* (S.I. No. 475 of 2006).
+>
+> 2\. The 27th day of September 2006 is appointed as the day on which sections 4 and 12 of the Aer Lingus Act 2004 (No. 10 of 2004) come into operation.
+>
+> 3\. The 27th day of September 2006 is appointed as the day on which the Schedule to and section 2 of the Aer Lingus Act 2004 comes into operation other than as respects-
+>
+> (a) sections 1, 7, 8, 9 and 23(1) of the Air Companies Act 1966, and
+>
+> (b) sections 1, 3 and 8 of the Air Companies (Amendment) Act 1969 .
+>
+> E5: Power pursuant to subs. (2) exercised (11.09.2006) by *Aer Lingus Act 2004 (Commencement of Certain Provisions) Order 2006* (S.I. No. 474 of 2006).
+>
+> 2\. The 11th day of September 2006 is appointed as the day on which sections 1, 5, 8, 10, 11 and 13 of the Aer Lingus Act 2004 (No. 10 of 2004) come into operation.
+>
+> E6: Power pursuant to subs. (2) exercised (24.08.2006) by *Aer Lingus Act 2004 (Commencement of Section 6 Order 2006* (S.I. No. 455 of 2006).
+>
+> 2\. The 24th day of August 2006 is appointed as the day on which section 6 (other than subsection (2)) of the Aer Lingus Act 2004 (No. 10 of 2004) comes into operation.
+>
+> E7: Power pursuant to subs. (2) exercised (30.06.2006) by *Aer Lingus Act 2004 (Commencement of Section 3) Order 2006* (S.I. No. 348 of 2006).
+>
+> 2\. The 30th day of June 2006 is appointed as the day-on which section 3 of the Aer Lingus Act 2004 (No. 10 of 2004) comes into operation.
+>
+> E8: Power pursuant to subs. (2) exercised (28.09.2005) by *Aer Lingus Act 2004 (Commencement of Certain Provisions) Order 2005* (S.I. No. 645 of 2005).
+>
+> 2\. The 28th day of September 2005 is appointed as the day on which—
+>
+> (a) section 2 of the Aer Lingus Act 2004 (No. 10 of 2004), in so far as it relates to section 5(2) of the Air Companies (Amendment) Act 1993 (No. 38 of 1993), and
+>
+> (b) section 7 of the Aer Lingus Act 2004 ,
+>
+> come into operation.
+
+## SCHEDULE — Repeal of Enactments
+
+<table><tr><td>Number and Year</td><td>Short Title</td><td>Extent of Repeal</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>4 of 1966</td><td>Air Companies Act 1966</td><td>The whole Act, in so far as it is unrepealed.</td></tr><tr><td>20 of 1969</td><td>Air Companies (Amendment) Act 1969</td><td>The whole Act, in so far as it is unrepealed.</td></tr><tr><td>36 of 1976</td><td>Air Companies (Amendment) Act 1976</td><td>The whole Act, in so far as it is unrepealed.</td></tr><tr><td>28 of 1978</td><td>Air Companies (Amendment) Act 1978</td><td>The whole Act.</td></tr><tr><td>3 of 1983</td><td>Air Companies (Amendment) Act 1983</td><td>The whole Act.</td></tr><tr><td>38 of 1993</td><td>Air Companies (Amendment) Act 1993</td><td>The whole Act, in so far as it is unrepealed.</td></tr><tr><td colspan="3"></td></tr></table>

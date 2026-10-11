@@ -1,0 +1,2617 @@
+---
+title: "Teaching Council Act, 2001"
+identifier: "eli/2001/act/8"
+type: act
+jurisdiction: ie
+language: en
+number: 8
+year: 2001
+date: 2001-04-17
+last_amended: 2026-02-09
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2001/act/8/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2001/act/8/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Teaching Council Act, 2001
+
+AN ACT TO PROMOTE TEACHING AS A PROFESSION; TO PROMOTE THE PROFESSIONAL DEVELOPMENT OF TEACHERS; TO MAINTAIN AND IMPROVE THE QUALITY OF TEACHING IN THE STATE; TO PROVIDE FOR THE ESTABLISHMENT OF STANDARDS, POLICIES AND PROCEDURES FOR THE EDUCATION AND TRAINING OF TEACHERS AND OTHER MATTERS RELATING TO TEACHERS AND THE TEACHING PROFESSION; TO PROVIDE FOR THE REGISTRATION AND REGULATION OF TEACHERS AND TO ENHANCE PROFESSIONAL STANDARDS AND COMPETENCE; FOR THOSE PURPOSES TO ESTABLISH A COUNCIL TO BE KNOWN AS AN CHOMHAIRLE MHÚINTEOIREACHTA OR, IN THE ENGLISH LANGUAGE, THE TEACHING COUNCIL; TO PROVIDE FOR THE REPEAL OF THE INTERMEDIATE EDUCATION (IRELAND) ACT, 1914, AND TO PROVIDE FOR RELATED MATTERS.
+
+[17*th April*, 2001]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## PART IPreliminary and General — PART I — Preliminary and General
+
+### 1. Short title and commencement.
+
+**1.**—(1) This Act may be cited as the Teaching Council Act, 2001.
+
+(2) This Act shall come into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so fixed for different purposes or provisions.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Application of section affected (with retrospective effect from 10.09.2004) by *Teaching Council (Amendment) Act 2006* (2/2006), s. 2, commenced on enactment.
+>
+> **Principal Act - operation and validity of certain provisions and acts.**
+>
+> **2.**— (1) Notwithstanding section 1(2) of the Principal Act, sections 1, 2, 4, 5, 6 and 8 to 10 of that Act (referred to subsequently in this Act as the “relevant sections”) shall be deemed to have come into operation on the 10th day of September 2004.
+>
+> (2) Accordingly—
+>
+> (*a*) the Teaching Council (First Election of Members) Regulations 2004 (S.I. No. 916 of 2004) shall be deemed to have been validly made and to have come into operation on the date of their purported making, namely the 10th day of September 2004, and
+>
+> (*b*) (i) each of the elections and nominations mentioned in section 8 of the Principal Act purported to have been conducted or made before the passing of this Act, and
+>
+> (ii) any condition precedent to the conducting of any such election or the making of any such nomination purported to have been satisfied before such passing,
+>
+> shall, as respect its conducting, making or satisfaction, as the case may be, have the same validity and effect as it would have had, had an order under section 1(2) of the Principal Act been made appointing the 10th day of September 2004 as the day on which the relevant sections come into operation.
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to subs. (2) exercised (25.07.2016) by *Teaching Council Act 2001 (Commencement) Order 2016* (S.I. No. 407 of 2016).
+>
+> 2\. The 25th day of July 2016 is appointed as the day on which the following provisions of the Teaching Council Act 2001 (No. 8 of 2001) come into operation:
+>
+> (*a*) paragraph (i) of section 7(2);
+>
+> (*b*) Part 5;
+>
+> (*c*) section 60;
+>
+> (*d*) Schedule 3.
+>
+> E2: Power pursuant to subs. (2) exercised (28.01.2014) by *Teaching Council Act 2001 (Commencement) Order 2013* (S.I. No. 419 of 2013).
+>
+> 2\. The 28th day of January 2014 is appointed as the day on which section 30 of the Teaching Council Act 2001 (No. 8 of 2001) comes into operation.
+>
+> E3: Power pursuant to subs. (2) exercised (1.09.2012) by *Teaching Council Act 2001 (Commencement) Order 2012* (S.I. No. 328 of 2012).
+>
+> 2\. The 1st day of September 2012 is appointed as the day on which paragraphs (f) and (g) of section 7 (2) of the Teaching Council Act 2001 come into operation.
+>
+> E4: Power pursuant to section exercised (28.03.2006) by *Teaching Council Act 2001 (Commencement) Order 2006* (S.I. No. 184 of 2006).
+>
+> 2\. The 28th day of March 2006 is appointed as the day on which so much of the Teaching Council Act 2001 (No. 8 of 2001) as is not in operation comes into operation, except-
+>
+> (*a*) paragraphs (f), (g) and (i) of section 7(2),
+>
+> (*b*) sections 30, 39 and 60, and
+>
+> (*c*) Part 5.
+
+### 2. Interpretation.
+
+**2.**—(1) In this Act, except where the context otherwise requires—
+
+F1["Act of 1998" means the Education Act 1998;]
+
+F2["Act of 2012" means the National Vetting Bureau (Children and Vulnerable Persons) Act 2012;]
+
+F3["Act of 2015" means the Teaching Council (Amendment) Act 2015;]
+
+F1["centre for education" has the same meaning as it has in the Act of 1998;]
+
+"chairperson" means the chairperson of the Council elected under *paragraph 6* of *Schedule 1* and includes the deputy chairperson and a member of the Council appointed under *paragraph 11(c)* of that Schedule to preside at a meeting, while so presiding;
+
+F3["child" has the same meaning as it has in the Act of 2012;]
+
+“committee” means a committee established under *section 24*;
+
+F1["complainant" means a person (including the Council) who makes a complaint under *subsection (1)* or *subsection (1D)*, as the case may be, of *section 42*;]
+
+“Council” means the Teaching Council established under *section 5*;
+
+F1["delivery of home tuition" shall be construed in accordance with *subsection (1A)* (inserted by section 2(b) of the Act of 2015);]
+
+“Director” means the chief executive officer of the Council appointed under *section 11*;
+
+“Disciplinary Committee” means the committee established under *section 24(2)(b)(ii)*;
+
+“establishment day” means the day appointed by the Minister under *section 3* to be the establishment day for the purposes of this Act;
+
+“Executive Committee” means the committee established under *section 24(2)(a)*;
+
+“first Director” means a person appointed under *section 12* to be the first Director of the Council;
+
+F4["Garda Central Vetting Unit" has the same meaning as it has in the Act of 2012;
+
+"GCVU disclosure" means vetting information in respect of a person received from the Garda Central Vetting Unit before the commencement of the Act of 2012;]
+
+F1["harm" has the same meaning as it has in the Act of 2012;]
+
+“Investigating Committee” means the committee established under *section 24(2)(b)(i)*;
+
+“Minister” means the Minister for Education and Science;
+
+“national association of parents” has the same meaning as in the Education Act, 1998;
+
+F5["panel" means a panel of the Disciplinary Committee established under section 43(3);]
+
+F1["poor professional performance" means, in relation to a registered teacher, a failure by the registered teacher to meet the standards of competence (whether in knowledge, skill or the application of knowledge and skill or both) that can be reasonably expected of a registered teacher;]
+
+“prescribed” means prescribed by regulations made by the Minister or the Council, as the case may be;
+
+F6[...]
+
+“recognised post-primary school” means a recognised school which provides post-primary education to its students and which may also provide courses in adult, continuing or vocational education or vocational training;
+
+“recognised primary school” means a recognised school which provides primary education to its students and which may also provide early childhood education;
+
+“recognised school” means a school which is recognised by the Minister in accordance with section 10 of the Education Act, 1998;
+
+“recognised school management organisations” has the same meaning as in the Education Act, 1998;
+
+“recognised trade union” means a trade union licensed under the Trade Union Acts, 1871 to 1990, that stands recognised for consultation purposes;
+
+“register” means the register of teachers established under *section 29* and “registration” and “registered” shall be construed accordingly;
+
+“registered teacher” means a teacher whose name is entered in the register in accordance with *Part 3*;
+
+“Registration Council” means the Registration Council constituted under section 1 of the Intermediate Education (Ireland) Act, 1914;
+
+F7["relevant organisation" has the same meaning as it has in the Act of 2012;]
+
+“renewal fee” means a fee charged under *section 23(2)(d)* or *(e)*;
+
+F8["specified information" has the same meaning as it has in the Act of 2012;]
+
+“teacher” means a person who—
+
+(*a*) before the establishment day has achieved the qualifications required by the Minister for employment as a teacher in a recognised school, or
+
+(*b*) in the case of a person to whom *paragraph (a)* does not apply, is eligible for registration under *section 31(5)*.
+
+F9["vetting disclosure" has the same meaning as it has in the Act of 2012;
+
+"vetting procedures" has the same meaning as it has in the Act of 2012;
+
+"vulnerable person" has the same meaning as it has in the Act of 2012.]
+
+F10[(1A) In this Act, a reference to the delivery of home tuition is a reference to any work or activity consisting of the provision of home tuition by a person pursuant to a scheme administered and funded by the Department of Education and Skills and known as the Home Tuition Scheme.]
+
+(2) In this Act—
+
+(*a*) a reference to a Part, section or Schedule is a reference to a Part or section of, or Schedule to, this Act, unless it is indicated that a reference to some other provision is intended,
+
+(*b*) a reference to a subsection, paragraph, subparagraph or clause is a reference to the subsection, paragraph, subparagraph or clause of the provision in which the reference occurs, unless it is indicated that a reference to some other provision is intended,
+
+(*c*) a reference to any enactment shall be construed as a reference to that enactment as amended, adapted or extended, by or under any other enactment, including this Act, and
+
+(*d*) a reference to the performance of functions includes, with respect to powers and duties, a reference to the exercise of powers and the carrying out of duties.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 2(a)(i), S.I. No. 408 of 2016.
+>
+> F2: Inserted (29.04.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 2(a)(i), S.I. No. 222 of 2016.
+>
+> F3: Inserted (29.04.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 2(a)(i), S.I. No. 222 of 2016.
+>
+> F4: Inserted (2.11.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 2(a)(i), S.I. No. 556 of 2016.
+>
+> F5: Substituted (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 2(a)(ii), S.I. No. 408 of 2016.
+>
+> F6: Deleted (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 2(a)(iii), S.I. No. 408 of 2016.
+>
+> F7: Inserted (29.04.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 2(a)(i), S.I. No. 222 of 2016.
+>
+> F8: Inserted (29.04.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 2(a)(i), S.I. No. 222 of 2016.
+>
+> F9: Inserted (29.04.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 2(a)(i), S.I. No. 222 of 2016.
+>
+> F10: Inserted (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 2(b), S.I. No. 408 of 2016.
+
+### 3. Establishment day.
+
+**3.**—The Minister shall by order appoint a day to be the establishment day for the purposes of this Act.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E5: Power pursuant to section exercised (28.03.2006) by *Teaching Council Act 2001 (Establishment Day) Order 2006* (S.I. No. 185 of 2006).
+
+### 4. Regulations and orders.
+
+**4.**—(1) The Minister or, subject to the consent of the Minister, the Council, may make regulations prescribing any matter which is referred to in this Act as prescribed or to be prescribed or in relation to any matter referred to in this Act as the subject of regulations or for the purposes of enabling any provision of this Act to have full effect.
+
+(2) Every regulation or order made by the Minister (other than an order made under *section 1(2), 3, 8(3)* or *(5)* or *16(7)*) and rules made by the Council under *paragraph 2* of *Schedule 3* shall be laid before each House of the Oireachtas as soon as practicable after they are made and, if a resolution annulling the regulation, order or rules is passed by either House within the next subsequent 21 days on which that House has sat after the regulation, order or rules are laid before it, the regulation, order or rules shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+(3) Regulations made under this Act may—
+
+(*a*) include such consequential, incidental, transitional or supplementary provisions as may be considered by the Minister or the Council, as the case may be, to be necessary or appropriate for the purposes of this Act, and
+
+(*b*) apply, either generally or by reference, to a specified class or classes of persons or category or categories of recognised school or to any other matter as may be considered by the Minister or the Council to be appropriate.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E6: Power pursuant to section exercised (16.10.2025) by *Teaching Council (Registration) Regulations 2025* (S.I. No. 482 of 2025), in effect as per reg. 2.
+>
+> E7: Power pursuant to section exercised (23.08.2023) by *Teaching Council (Election of Members) Regulations 2023* (S.I. No. 420 of 2023).
+>
+> E8: Power pursuant to section exercised (11.05.2023) by *Teaching Council (information to Be Furnished by Employer in Case of Dismissal Or Resignation of Registered Teacher) Regulations 2023* (S.I. No. 230 of 2023).
+>
+> E9: Power pursuant to section exercised (25.07.2016) by *Teaching Council (Evidence, Representations and Examination in Case of Alleged Medical Unfitness) Regulations 2016* (S.I. No. 410 of 2016).
+>
+> E10: Power pursuant to section exercised (1.01.2013) by *Teaching Council (Charging, Receipt and Recovery of Fees) Regulations 2012* (S.I. No. 534 of 2012), in effect as per reg. 2.
+>
+> E11: Previous affecting provision: power pursuant to section exercised (26.01.2023) by *Teaching Council (Registration) (Amendment) Regulations 2023* (S.I. No. 12 of 2023); revoked (16.10.2025) by *Teaching Council (Registration) Regulations 2025* (S.I. No. 482 of 2025), reg. 17(f), in effect as per reg. 2.
+>
+> E12: Previous affecting provision: Power pursuant to section exercised (21.12.2021) by *Teaching Council (Registration) (Amendment) (No. 2) Regulations 2021* (S.I. No. 745 of 2021); revoked (16.10.2025) by *Teaching Council (Registration) Regulations 2025* (S.I. No. 482 of 2025), reg. 17(e), in effect as per reg. 2.
+>
+> E13: Previous affecting provision: power pursuant to section exercised (27.05.2021) by *Teaching Council (Registration) (Amendment) Regulations 2021* (S.I. No. 266 of 2021); revoked (16.10.2025) by *Teaching Council (Registration) Regulations 2025* (S.I. No. 482 of 2025), reg. 17(d), in effect as per reg. 2.
+>
+> E14: Previous affecting provision: power pursuant to section exercised (30.07.2020) by *Teaching Council (Registration) (Amendment) Regulations 2020* (S.I. No. 269 of 2020); revoked (16.10.2025) by *Teaching Council (Registration) Regulations 2025* (S.I. No. 482 of 2025), reg. 17(c), in effect as per reg. 2.
+>
+> E15: Previous affecting provision: power pursuant to section exercised (8.11.2016) by *Teaching Council (Registration) (Amendment) Regulations 2016* (S.I. No. 557 of 2016); revoked (16.10.2025) by *Teaching Council (Registration) Regulations 2025* (S.I. No. 482 of 2025), reg. 17(b), in effect as per reg. 2.
+>
+> E16: Previous affecting provision: power pursuant to section exercised (25.07.2016) by *Teaching Council (Registration) Regulations 2016* (S.I. No. 444 of 2016); revoked (16.10.2025) by *Teaching Council (Registration) Regulations 2025* (S.I. No. 482 of 2025), reg. 17(a), in effect as per reg. 2.
+>
+> E17: Previous affecting provision: power pursuant to section exercised (11.09.2019) by *Teaching Council (Election Of Members) Regulations 2019* (S.I. No. 461 of 2019); revoked (23.08.2023) by *Teaching Council (Election of Members) Regulations 2023* (S.I. No. 420 of 2023), reg. 19.
+>
+> E18: Previous affecting provision: power pursuant to section exercised (9.11.2015) by *Teaching Council (Election of Members) Regulations 2015* (S.I. No. 540 of 2015); revoked (11.09.2019) by *Teaching Council (Election Of Members) Regulations 2019* (S.I. No. 461 of 2019), reg. 19.
+>
+> E19: Previous affecting provision: power pursuant to section exercised (22.11.2011) by *Teaching Council (Election of Members) (Amendment) Regulations 2011* (S.I. No. 607 of 2011); revoked (9.11.2015) by *Teaching Council (Election of Members) Regulations 2015* (S.I. No. 540 of 2015), reg. 19.
+>
+> E20: Previous affecting provision: power pursuant to section exercised (24.09.2008) by *Teaching Council (Election of Members) Regulations 2008* (S.I. No. 386 of 2008); revoked (9.11.2015) by *Teaching Council (Election of Members) Regulations 2015* (S.I. No. 540 of 2015), reg. 19.
+>
+> E21: Previous affecting provision: power pursuant to section exercised (26.03.2008) by *Teaching Council (Charging, Receipt and Recovery of Fees) Regulations 2008* (S.I. No. 609 of 2008); revoked (1.01.2013) by *Council (Charging, Receipt and Recovery of Fees) Regulations 2012* (S.I. No. 534 of 2012), reg. 4, in effect as per reg. 2.
+
+## PART 2The Teaching Council — PART 2 — The Teaching Council
+
+### Chapter 1The Council: General Provisions — Chapter 1 — The Council: General Provisions
+
+#### 5. Establishment of Teaching Council.
+
+**5.**—(1) There shall stand established on the establishment day a body to be known as An Chomhairle Mhúinteoireachta or, in the English language, the Teaching Council, which shall perform the functions conferred on it by or under this Act.
+
+(2) The Council shall be a body corporate with perpetual succession and a seal and power to sue and be sued in its corporate name and, with the consent of the Minister (given with the approval of the Minister for Finance), to acquire, hold and dispose of land or an interest in land and to acquire, hold and dispose of any other property.
+
+(3) The Council may, subject to this Act, regulate its own procedure.
+
+(4) *Schedule 1* shall apply to the Council.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C2: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 8 of 2001</td><td>Teaching Council Act 2001</td><td>Sections 5 and 21</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+#### 6. Objects of Council.
+
+**6.**—The objects of the Council shall be—
+
+(*a*) to regulate the teaching profession and the professional conduct of teachers,
+
+(*b*) to establish and promote the maintenance and improvement of standards of—
+
+(i) programmes of teacher education and training,
+
+(ii) teaching, knowledge, skill and competence of teachers in recognised primary and post-primary schools, and
+
+(iii) professional conduct of teachers,
+
+and
+
+(*c*) to promote the continuing education and training and professional development of teachers.
+
+#### 7. Functions of Council.
+
+**7.**—(1) The functions of the Council shall be to do all things necessary or expedient in accordance with this Act to further the objects of the Council.
+
+(2) Without prejudice to the generality of *subsection (1)*, the Council shall perform the following functions:
+
+(*a*) promote teaching as a profession;
+
+(*b*) establish, publish, review and maintain codes of professional conduct for teachers, which shall include standards of teaching, knowledge, skill and competence;
+
+F11[(*ba*) obtain or receive vetting disclosures for the purposes set out in this Act, for the purpose of its role as a relevant organisation or for the purpose of its role as a relevant organisation representing another relevant organisation for the purposes of the vetting procedures under the Act of 2012;]
+
+(*c*) establish and maintain a register of teachers;
+
+(*d*) determine, from time to time, the education and training and qualifications required for a person to be registered;
+
+(*e*) establish procedures and criteria for registration including the issue of certificates and renewal of registration;
+
+(*f*) establish procedures in relation to the induction of teachers into the teaching profession;
+
+(*g*) establish procedures and criteria for probation of teachers including periods of probation;
+
+(*h*) advise the Minister in relation to all or any of the following:
+
+(i) the minimum standards of educational qualifications required for entry into programmes of teacher education and training;
+
+(ii) the professional development of teachers;
+
+(iii) teacher supply;
+
+(iv) any other matter relating to the functions of the Council as the Council considers appropriate or as requested by the Minister;
+
+(*i*) conduct inquiries into and, where appropriate, impose sanctions in relation to, the fitness to teach of any registered teacher;
+
+(*j*) conduct or commission research on matters relevant to the objects of the Council and, as it considers appropriate, to publish in such form and manner as the Council thinks fit the findings arising out of such research;
+
+(*k*) represent the teaching profession on educational issues and establish procedures for the exchange of information with teachers, organisations involved in education and the public;
+
+(*l*) provide the Minister with such information as the Minister may from time to time require;
+
+(*m*) review and accredit programmes of teacher education and training for the purpose of registration;
+
+F12[(*n*) act as a competent authority within the meaning of Regulation 2(1) of the Recognition of Professional Qualifications (Directive 2005/36/EC) Regulations 2008 (S.I. No. 139 of 2008);]
+
+(*o*) act as the competent authority for the recognition of qualifications, obtained in a state other than a Member State of the European Communities, by a person who has applied under this Act to be registered;
+
+(*p*) as the Minister may direct, co-operate with such body as may be established in Northern Ireland, which performs similar functions to the Council, in relation to teacher qualifications and teacher exchanges between the State and Northern Ireland.
+
+(3) The Council in the performance of its functions shall—
+
+(*a*) implement the policies relating to teacher education and training, probation, qualification, professional conduct and standards of teaching as established, from time to time, by the Minister,
+
+(*b*) have regard to the implications of its advice to the Minister under *subsection (2)(h)* for the resources, including financial resources, available and to the practical implementation of any such F12[advice,]
+
+(*c*) as the Minister may direct, co-operate with the body referred to in *subsection (2)(p)* in relation to those matters which are within the respective competence of such body and the Council and which such body and the Council agree are of mutual interest and benefit to the teaching profession in the State and F12[Northern Ireland, and]
+
+F11[(*d*) have regard to the need to protect children and vulnerable persons.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F11: Inserted (29.04.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 3(a)(i), (b)(iii), S.I. No. 222 of 2016.
+>
+> F12: Substituted (29.04.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 3(a)(ii), (b)(i), (ii), S.I. No. 222 of 2016.
+
+#### 8. Membership of Council.
+
+**8.**—(1) The Council shall consist of 37 members.
+
+(2) The members of the Council shall be appointed by the Minister and shall include—
+
+(*a*) 11 registered teachers employed in, or qualified to teach in, recognised primary schools of whom—
+
+(i) 9 shall be elected by registered teachers employed in, or qualified to teach in, recognised primary schools, and
+
+(ii) 2 shall be nominated by recognised trade unions representing such teachers,
+
+(*b*) 11 registered teachers employed in, or qualified to teach in, recognised post-primary schools of whom—
+
+(i) 7 shall be elected by registered teachers employed in, or qualified to teach in, recognised post-primary schools, and
+
+(ii) 4 shall be nominated by recognised trade unions representing such teachers,
+
+(*c*) 2 persons nominated jointly by the following bodies:
+
+(i) St. Patrick's College, Drumcondra, Dublin;
+
+(ii) Church of Ireland College of Education, Rathmines, Dublin;
+
+F13[(iii) Marino Institute of Education;]
+
+F13[(iv) National University of Ireland, Maynooth;]
+
+(v) Mary Immaculate College, University of Limerick,
+
+F14[(vi) Hibernia College, 2 Clare Street, Dublin 2,]
+
+F13[(*d*) 2 persons nominated jointly by the following bodies:
+
+(i) National College of Art and Design;
+
+(ii) National University of Ireland, Cork;
+
+(iii) National University of Ireland, Dublin;
+
+(iv) National University of Ireland, Galway;
+
+(v) National University of Ireland, Maynooth;
+
+(vi) Dublin University;
+
+(vii) University of Limerick;
+
+(viii) Dublin City University;
+
+(ix) St. Angela’s College of Education, Sligo;
+
+(x) such other bodies, providing university or other higher education and training, as the Council may determine,]
+
+(*e*) 4 persons nominated by recognised school management organisations of whom—
+
+(i) 2 shall be nominated by recognised school management organisations representing managers of recognised primary schools, and
+
+(ii) 2 shall be nominated by recognised school management organisations representing managers of recognised post-primary schools,
+
+(*f*) 2 persons nominated by national associations of parents of whom—
+
+(i) one shall be nominated jointly by those national associations of parents representing parents of students attending recognised primary schools, and
+
+(ii) one shall be nominated jointly by those national associations of parents representing parents of students attending recognised post-primary schools,
+
+and
+
+(*g*) 5 persons appointed by the Minister, including persons with experience in business, industry or the professions, of whom—
+
+(i) one shall be nominated to the Minister by the Irish Congress of Trade Unions, and
+
+(ii) one shall be nominated to the Minister by the Irish Business and Employers' Confederation.
+
+(3) The Minister may, by order, as he or she considers appropriate, following consultation with the Council, amend *subsection (2)(c)* or *(d)* by adding an institution to, or by deleting an institution from, those provisions.
+
+(4) Where the Minister proposes to make an order under *subsection (3)* or *(5)*, a draft of the proposed order shall be laid before each House of the Oireachtas and the order shall not be made until a resolution approving of the draft order has been passed by each such House.
+
+(5) The Minister may amend or revoke an order made under this section, including an order made under this subsection.
+
+(6) The Minister shall have regard to the desirability of an appropriate gender balance as he or she may determine, from time to time, when making—
+
+(*a*) appointments to the Council under this section, or
+
+(*b*) regulations under *section 10(1)* for the purpose of the election of members to the Council.
+
+(7) The members of the Council (including the chairperson) may be paid such remuneration and allowances for expenses incurred by them as the Minister, with the consent of the Minister for Finance, may determine.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Substituted (4.02.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 4, S.I. No. 58 of 2016.
+>
+> F14: Inserted (27.02.2012) by *Teaching Council Act 2001 (Amendment of Nominating Bodies) Order 2012* (S.I. No. 73 of 2012), art. 2(a).
+>
+> **Editorial Notes:**
+>
+> E22: Power pursuant to subs. (3) exercised (27.02.2012) by *Teaching Council Act 2001 (Amendment of Nominating Bodies) Order 2012* (S.I. No. 73 of 2012).
+>
+> E23: Power pursuant to subs. (6) exercised (10.09.2004) by *Teaching Council (First Election of Members) Regulations 2004* (S.I. No. 916 of 2004). See also *Teaching Council (Amendment) Act 2006* (2/2006), s. 2.
+>
+> E24: Previous affecting provision: subs. (2)(d) amended (5.11.2012) by *Qualifications and Quality Assurance (Education and Training) Act 2012* (28/2012), s. 86 and sch. 3 item 13, S.I. No. 421 of 2012; substituted as per F-note above.
+>
+> E25: Previous affecting provision: subs. (2)(d)(ix), (x) substituted and (xi) deleted (27.02.2012) by *Teaching Council Act 2001 (Amendment of Nominating Bodies) Order 2012* (S.I. No. 73 of 2012), art. 2(b), (c), (d); para. (d) substituted as per F-note above.
+
+#### 9. Appointment of members of Council.
+
+**9.**—The Minister shall take all steps necessary to secure the appointment of members to the first Council established after the commencement of this Act and the Council shall take all steps necessary to secure the appointment of members to each subsequent Council.
+
+#### 10. Election of members of Council.
+
+**10.**—(1) (*a*) In the case of the first election of members to the Council, the Minister may make regulations for the purposes of the following:
+
+(i) the election of members in accordance with *paragraphs (a)(i)* and *(b)(i)* of *section 8(2)*;
+
+(ii) to ensure, in so far as it is practicable, that the election of members shall be on as equitable a geographical basis as possible and, for that purpose, to make provision for the determination of constituencies and the number of members from each constituency.
+
+(*b*) In the case of each subsequent election, the Council, with the approval of the Minister, may make regulations for the purposes referred to in *paragraph (a)(i)* and *(ii)*.
+
+(2) Without prejudice to the generality of *subsection (1)*, the regulations may specify all or any of the following:
+
+(*a*) the class or classes of persons who shall be entitled to seek nomination for election to the Council;
+
+(*b*) the class or classes of persons who shall be entitled to nominate a candidate for election or to vote in an election;
+
+(*c*) subject to *subsection (3)*, that registered teachers employed in, or qualified to teach in, a particular category of recognised school shall be entitled to vote only for registered teachers employed in, or qualified to teach in, that particular category of recognised school.
+
+(3) In the case of the first election to the Council, a teacher who is employed in a recognised school as a teacher and whose remuneration in respect of that employment is paid out of funds provided by the Oireachtas shall be deemed to be a registered teacher for the purposes of that election.
+
+(4) In the case of the first election to the Council, the returning officer for that election shall be appointed by the Minister, and in the case of each subsequent election, the returning officer for the election shall be appointed by the Council.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E26: Power pursuant to section exercised (23.08.2023) by *Teaching Council (Election of Members) Regulations 2023* (S.I. No. 420 of 2023).
+>
+> E27: Previous affecting provision: power pursuant to section exercised (11.09.2019) by *Teaching Council (Election Of Members) Regulations 2019* (S.I. No. 461 of 2019); revoked (23.08.2023) by *Teaching Council (Election of Members) Regulations 2023* (S.I. No. 420 of 2023), reg. 19.
+>
+> E28: Previous affecting provision: power pursuant to section exercised (9.11.2015) by *Teaching Council (Election of Members) Regulations 2015* (S.I. No. 540 of 2015); revoked (11.09.2019) by *Teaching Council (Election Of Members) Regulations 2019* (S.I. No. 461 of 2019), reg. 19.
+>
+> E29: Previous affecting provision: power pursuant to section exercised (22.11.2011) by *Teaching Council (Election of Members) (Amendment) Regulations 2011* (S.I. No. 607 of 2011); revoked (9.11.2015) by *Teaching Council (Election of Members) Regulations 2015* (S.I. No. 540 of 2015), reg. 19.
+>
+> E30: Previous affecting provision: power pursuant to section exercised (24.09.2008) by *Teaching Council (Election of Members) Regulations 2008* (S.I. No. 386 of 2008); revoked (9.11.2015) by *Teaching Council (Election of Members) Regulations 2015* (S.I. No. 540 of 2015), reg. 19.
+>
+> E31: Power pursuant to section exercised (10.09.2004) by *Teaching Council (First Election of Members) Regulations 2004* (S.I. No. 916 of 2004). See also *Teaching Council (Amendment) Act 2006* (2/2006), s. 2.
+
+#### 11. Director.
+
+**11.**—(1) Subject to *subsections (2)* and *(3)* and *section 12*, the Council shall from time to time appoint a chief executive officer of the Council in a whole-time capacity who shall be known and is referred to in this Act as the “Director”.
+
+(2) The Director shall be appointed within 2 years of the establishment of the Council.
+
+(3) The Director shall be appointed in accordance with procedures determined by the Council subject to the consent of the Minister.
+
+(4) The Director shall carry on and manage, and control generally, the administration and business of the Council and shall perform such other functions as may be determined by the Council.
+
+(5) *Schedule 2* shall apply to the Director.
+
+#### 12. First Director.
+
+**12.**—(1) The Minister may appoint a person to be the first Director.
+
+(2) Subject to *subsection (4)*, the first Director shall hold office for such period (which period shall not exceed 2 years after the establishment of the Council) and on such terms and conditions (including terms and conditions relating to remuneration, fees and allowances for expenses) as may be determined by the Minister with the consent of the Minister for Finance.
+
+(3) Where the first Director ceases to hold office for any reason before the expiration of the period of his or her appointment, the Minister may appoint a person who shall be known as the first Director who shall hold office for such period (which period shall not exceed the remainder of the term of office of the person who occasioned the vacancy he or she is appointed to fill) and on such terms and conditions (including terms and conditions relating to remuneration, fees and allowances for expenses) as may be determined by the Minister with the consent of the Minister for Finance.
+
+(4) When a Director is appointed under *section 11*, the first Director shall cease to hold office.
+
+(5) Until the appointment of a Director under *section 11*, the first Director shall perform all of the functions of a Director under this Act.
+
+(6) References in this Act to the Director shall, unless the context otherwise requires, include the first Director.
+
+#### 13. Employees.
+
+**13.**—(1) Subject to the consent of the Minister and the Minister for Finance, the Council may, from time to time, appoint such and so many persons to be employees of the Council as the Council may determine.
+
+(2) Subject to such conditions as it thinks fit, the Council may delegate to the Director any of the functions of the Council in relation to the appointment of employees and the determination of selection procedures.
+
+(3) Except as otherwise provided by this Act, an employee of the Council shall be employed on such terms and conditions as the Director, with the consent of the Minister and the Minister for Finance, may from time to time determine.
+
+(4) Except as otherwise provided by this Act, the Council shall pay to its employees such remuneration, fees and allowances for expenses as the Council, with the consent of the Minister and the Minister for Finance, may from time to time determine.
+
+#### 14. Superannuation.
+
+**14.**—(1) In this section “the Act of 1980” means the Local Government (Superannuation) Act, 1980.
+
+(2) Subject to *subsection (3)*, the Act of 1980 shall apply to the Council and its employees (including the Director) as if the Council were a local authority and the employees were employees of a local authority.
+
+(3) The functions conferred on the Minister for the Environment and Local Government by the Act of 1980, or any instrument made thereunder, shall, for the purposes of that Act as applied to the Council by *subsection (2)*, be performable by the Minister and not by the Minister for the Environment and Local Government.
+
+(4) Schemes and regulations (including modifications to such schemes and regulations) made, before the establishment day, under the Act of 1980 shall, subject to any modifications which the Minister may, with the consent of the Minister for Finance, specify by order, apply to the employees (including the Director) of the Council.
+
+F15[(5) *Subsection (4)* shall not apply to employees who are members of the Single Public Service Pension Scheme.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F15: Inserted (1.01.2013) by *Public Service Pensions (Single Scheme and Other Provisions) Act 2012* (37/2012), s. 56, S.I. No. 574 of 2012.
+>
+> **Editorial Notes:**
+>
+> E32: Defined benefit scheme under section excluded from provisions of *Pensions Act 1990* (25/1990), Part III by *Occupational Pension Schemes (Preservation of Benefits) Regulations 2002* (S.I. No. 279 of 2002), art. 11 and sch.; as substituted (26.02.2009) by *Occupational Pension Schemes (Preservation of Benefits) (Amendment) Regulations 2009* (S.I. No. 70 of 2009), art. 2.
+>
+> E33: Defined benefit scheme established under section excluded from provisions of *Pensions Act 1990* (25/1990), Part IV by *Occupational Pension Schemes (Funding Standard) Regulations 1993* (S.I. No. 419 of 1993), art. 6 and sch. C; as substituted (1.08.2008) by *Occupational Pension Schemes (Funding Standard) (Amendment) Regulations 2008* (S.I. No. 295 of 2008), art. 4, in effect as per art. 2; as substituted (18.04.2013) by *Occupational Pension Schemes (Funding Standard) (Amendment) Regulations 2013* (S.I. No. 135 of 2013); as substituted (16.06.2014) by *Occupational Pension Schemes (Funding Standard) (Amendment) Regulations 2014* (S.I. No. 268 of 2014); and as substituted (12.02.2019) by *Occupational Pension Schemes (Funding Standard) (Amendment) Regulations 2019* (S.I. No. 39 of 2019).
+
+#### 15. Membership of either House of Oireachtas or European Parliament.
+
+**15.**—(1) Where an employee (including the Director) of the Council is—
+
+(*a*) nominated as a member of Seanad Éireann, or
+
+(*b*) elected as a member of either House of the Oireachtas or to be a representative in the European Parliament, or
+
+(*c*) regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act, 1997, as having been elected to that Parliament,
+
+he or she shall thereupon stand seconded from employment by the Council and shall not be paid by, or be entitled to receive from, the Council any remuneration, fees and allowances for expenses in respect of the period commencing on such nomination or election or when he or she is so regarded as having been elected, as the case may be, and ending when he or she ceases to be a member of either such House or such Parliament.
+
+(2) A period referred to in *subsection (1)* shall not, for the purposes of any superannuation benefit, be reckoned as service with the Council.
+
+(3) A person who is for the time being entitled under the Standing Orders of either House of the Oireachtas to sit therein or who is a member of the European Parliament shall, while he or she is so entitled or is such a member, be disqualified from employment in any capacity by the Council.
+
+#### 16. Inquiry and removal of members of Council from office.
+
+**16.**—(1) Where the Minister is of the opinion that the Council has failed, neglected or refused to perform a function assigned to it under this Act or has failed effectively to perform any such function or otherwise is in breach of this Act, the Minister may, after first advising the Council of his or her opinion and considering any explanation given in response, appoint a person to inquire into any matter giving rise to the Minister's opinion.
+
+(2) A person appointed under *subsection (1)* shall inquire into the matters giving rise to the Minister's opinion and any related matter and shall report to the Minister on the findings of the inquiry.
+
+(3) A person appointed under *subsection (1)* shall, for the purposes of this section, be entitled at all reasonable times to enter the premises of the Council to inquire into the affairs of the Council or to conduct an inspection of the premises, equipment and records where the inspection is, in his or her opinion, relevant to the inquiry.
+
+(4) A person appointed under *subsection (1)* shall be afforded all reasonable co-operation and facility by the Council and its employees, including access to such premises, equipment and records as the person may require, to enable him or her to perform his or her functions under this section.
+
+(5) Where the Minister, after considering the report referred to in *subsection (2)*, remains of the opinion that the Council has failed, neglected or refused to perform a function assigned to it under this Act or has failed effectively to perform any such function or otherwise is in breach of this Act, the Minister shall, by notice in writing, inform the Director, and shall give a copy of the report to the Director.
+
+(6) The Council may make representations to the Minister in respect of the report within 14 days of the date of receipt of the report.
+
+(7) The Minister may, by order, after the expiration of the period referred to in *subsection (6)* and after considering the representations, if any, of the Council in respect of the report, remove the members of the Council and terminate their membership—
+
+(*a*) if the Minister remains of the opinion that the Council has failed, neglected or refused to perform a function assigned to it under this Act or has failed effectively to perform any such function or otherwise is in breach of this Act, and
+
+(*b*) if the Minister is of the opinion that the Council should be removed.
+
+(8) Where the Minister proposes to make an order under *subsection (7)*, a draft of the proposed order shall be laid before each House of the Oireachtas and the order shall not be made until a resolution approving of the draft order has been passed by each such House.
+
+(9) Where the Minister makes an order under *subsection (7)*, he or she shall appoint such person or body of persons as he or she thinks fit to perform the functions of the Council and that person or body shall perform those functions until the commencement of the first meeting of the Council after the appointment of its members under *subsection (11)*.
+
+(10) When performing a function conferred by this Act, a person or body of persons appointed under *subsection (9)* may deviate in matters of procedure and in the form of any notice given under this Act as the person or body considers appropriate for the effective performance of the function concerned.
+
+(11) The Minister shall, as soon as practicable, but in any case not later than 12 months after the removal of the members of the Council, appoint a new Council in accordance with *section 8*.
+
+(12) The remuneration, if any, of a person appointed under *subsection (1)* or of a person or member of a body appointed under *subsection (9)* shall be paid out of moneys provided by the Oireachtas.
+
+#### 17. Indemnification of members of Council.
+
+**17.**—Except as provided by this Act, no action shall lie against a member of the Council in respect of anything done by that member in good faith and in pursuance of this Act or any regulations made by the Minister under this Act.
+
+#### 18. Accounts and audits.
+
+**18.**—(1) The Council shall keep all proper and usual accounts and records of—
+
+(*a*) all moneys received or expended by it and the sources of such income and the subject matter of such expenditure, and
+
+(*b*) all property, assets and liabilities of the Council.
+
+(2) Accounts kept in accordance with *subsection (1)* shall be audited at least once in each year by an auditor appointed for that purpose by the Minister and the auditor's fees and the expenses generally of the audit shall be paid by the Council as soon as practicable after the audit.
+
+(3) As soon as practicable after each audit the Council shall provide a copy of the accounts and the auditor's certificate and report thereon to the Minister and shall cause copies of same to be printed, published and offered for sale, and immediately after publication a copy of the accounts and the auditor's certificate and report thereon shall be laid before each House of the Oireachtas.
+
+#### 19. Gifts.
+
+**19.**—(1) The Council may accept gifts of money, land or other property upon such trusts and conditions, if any, as may be specified by the donor.
+
+(2) The Council shall not accept a gift if the trusts or conditions attached to it by the donor are inconsistent with or prejudice the objects or functions of the Council under this Act.
+
+#### 20. Power to borrow.
+
+**20.**—The Council may, for the purpose of providing for current or capital expenditure, from time to time, borrow money (whether on the security of the assets of the Council or otherwise), including money in a currency other than the currency of the State, subject to the consent of the Minister and the Minister for Finance and to such conditions as they may specify.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C3: Functions transferred from Minister for Finance to Minister for Public Expenditure and Reform (6.07.2011) by *Ministers and Secretaries (Amendment) Act 2011* (10/2011), ss. 9(2), 20(1) and sch. 2 part 1 , S.I. No. 401 of 2011.
+>
+> **Transfer of certain other functions to Minister.**
+>
+> **9.**— ...
+>
+> (2) The functions conferred on the Minister for Finance by or under any of the provisions specified in Part 1 of Schedule 2 are transferred to the Minister.
+>
+> ...
+>
+> **Performance of certain functions transferred to Minister by section 9.**
+>
+> 20.— (1) The Minister shall not perform a function transferred by subsection (2) of section 9 without the consent of the Minister for Finance.
+>
+> ...
+>
+> SCHEDULE 2
+>
+> Functions Transferred To Minister
+>
+> Sections 9 and 20
+>
+> PART 1
+>
+> ...
+>
+> No. 8 of 2001 Teaching Council Act 2001 Section 20
+>
+> ...
+
+#### 21. Advances by Minister to Council.
+
+**21.**—The Minister may, from time to time, for 2 years after the establishment day, with the consent of the Minister for Finance, advance to the Council out of moneys provided by the Oireachtas, such sums as the Minister may determine for the purpose of expenditure by the Council in the performance of its functions.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C4: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 8 of 2001</td><td>Teaching Council Act 2001</td><td>Sections 5 and 21</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+#### 22. Expenses of Council and Minister.
+
+**22.**—(1) All expenses incurred by the Council shall be defrayed by the Council out of funds at its disposal.
+
+(2) The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+#### 23. Fees.
+
+**23.**—(1) The Council may charge, receive and recover such fees as the Council may from time to time prescribe, subject to the consent of the Minister, in relation to the performance by the Council of its functions, the provision by it of services (other than a service consisting of the provision of advice to the Minister or another Minister of the Government) and the carrying on by it of activities.
+
+(2) Without prejudice to the generality of *subsection (1)*, the Council may charge fees in respect of all or any of the following:
+
+(*a*) registration under *section 31*;
+
+(*b*) inspection of or provision of a copy from the register under *section 29(6)*;
+
+(*c*) the issue of a certificate of registration under *section 31* to a registered teacher;
+
+(*d*) renewal of registration under *section 33*;
+
+(*e*) late renewal of registration under *section 34*;
+
+(*f*) removal from the register under *section 35*;
+
+(*g*) correction of the register on the application of a registered teacher under *section 36*;
+
+(*h*) the review and accreditation of programmes of teacher education and training under *section 38*;
+
+(*i*) restoration to the register under *section 46*;
+
+(*j*) any other service which the Council may, from time to time, provide.
+
+(3) The Council may recover as a simple contract debt in any court of competent jurisdiction, from any person by whom it is payable, any amount due and owing to it under *subsection (1)*.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E34: Power pursuant to section exercised (1.01.2013) by *Council (Charging, Receipt and Recovery of Fees) Regulations 2012* (S.I. No. 534 of 2012), in effect as per reg. 2.
+
+### Chapter 2Committees of Council — Chapter 2 — Committees of Council
+
+#### 24. Committees.
+
+**24.**—(1) The Council may establish committees consisting in whole or in part of persons who are members of the Council—
+
+(*a*) to assist and advise the Council on matters relating to any of its functions or on such matters as the Council may from time to time determine, or
+
+(*b*) to perform such functions of the Council as may be delegated to the committee from time to time.
+
+(2) Without prejudice to the generality of *subsection (1)*, the Council shall establish—
+
+(*a*) a committee to be known as the Executive Committee to perform the functions conferred on it by *section 26*, and
+
+(*b*) committees to be known, respectively, as—
+
+(i) the Investigating Committee, and
+
+(ii) the Disciplinary Committee,
+
+to perform the functions conferred on those committees by *Part 5*.
+
+F16[(2A) The Disciplinary Committee shall, for the purpose of carrying out its function under *section 43(1)*, sit in divisions of itself (each division in this Act referred to as a "panel") established under *subsection (3)* of that section.]
+
+(3) The acts of a committee (other than the Investigating Committee or Disciplinary Committee) and the exercise by a committee of functions delegated to it under this section or, in the case of the Executive Committee, under *section 26*, shall be subject to confirmation by the Council, unless the Council otherwise determines.
+
+(4) Members of a committee—
+
+(*a*) shall be appointed subject to such terms and conditions, and
+
+(*b*) may be paid, by the Council, such allowances for expenses incurred by them in the discharge of their functions,
+
+as the Council, subject to the consent of the Minister, may determine.
+
+(5) The Council may, subject to this Act, determine the terms of reference and regulate, by standing orders or otherwise, the procedures and business of a committee, including, subject to *subsection (8)*, the filling of casual vacancies, but, subject to any such regulation, a committee may regulate its own procedures.
+
+(6) A committee F17[(other than the Executive Committee or Investigating Committee)] shall appoint, from time to time, a chairperson from among its members.
+
+(7) A member of a committee may be removed by the Council at any time for stated reasons.
+
+(8) Where, in the case of the Executive Committee, Investigating Committee or Disciplinary Committee, a casual vacancy occurs among its members, the Executive Committee shall appoint a person to fill such a casual vacancy and the person—
+
+(*a*) shall be appointed in the same manner as the member of the committee who occasioned the casual vacancy, and
+
+(*b*) shall hold office for the remainder of the term of office of that member.
+
+(9) (*a*) Subject to *paragraph (b)*, the Council may at any time dissolve a committee established by it under this section.
+
+(*b*) Where the Executive Committee, Investigating Committee or Disciplinary Committee is dissolved under *paragraph (a)*, such committee shall be re-established as soon as practicable.
+
+(10) When establishing a committee the Council shall have regard to the desirability of an appropriate gender balance as may be determined, from time to time, by the Minister.
+
+(11) A committee shall provide the Council with such information as it may from time to time require, in respect of its activities and operation, for the purposes of the performance of the functions of the Council.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F16: Inserted (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 5(a), S.I. No. 408 of 2016.
+>
+> F17: Substituted (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 5(b), S.I. No. 408 of 2016.
+
+#### 25. Membership of Executive Committee.
+
+**25.**—(1) The Executive Committee shall consist of 11 members of whom not less than 6 and not more than 7 shall be members of the Council appointed in accordance with *paragraphs (a)* and *(b)* of *section 8(2)*.
+
+(2) The members of the Executive Committee shall be—
+
+(*a*) the chairperson of the Council,
+
+(*b*) the deputy chairperson of the Council,
+
+(*c*) the chairpersons of such committees (other than the Investigating Committee or the Disciplinary Committee) as the Council considers appropriate,
+
+(*d*) 2 members of the Council appointed under *paragraph (g)* of *section 8(2)*, and
+
+(*e*) such other members of the Council as the Council considers appropriate.
+
+(3) The chairperson of the Council shall be the chairperson of the Executive Committee.
+
+(4) The Director shall act as secretary to the Executive Committee.
+
+#### 26. Functions of Executive Committee.
+
+**26.**—The functions of the Executive Committee shall be—
+
+(*a*) to facilitate and assist the Council in the performance of its functions;
+
+(*b*) to prepare, in consultation with the Director, the agenda for the general meetings of the Council;
+
+(*c*) to co-ordinate the activities of committees (other than the Investigating Committee or the Disciplinary Committee) and the operations of the Council generally;
+
+(*d*) to fill casual vacancies in accordance with *section 24(8)*;
+
+(*e*) when, due to exigencies of time or for any other reason, the Council is unable to meet, to do all or any of the following:
+
+(i) to act on behalf of the Council;
+
+(ii) to make interim orders on behalf of the Council and any such orders shall be subject to confirmation by the Council within the period specified by the Council in its procedures which period shall not exceed 28 days from the making of the order concerned;
+
+(iii) to authorise expenditure, subject to such regulations as may be made from time to time by the Council and to budgetary constraints;
+
+(*f*) to advise the Council as it considers appropriate;
+
+(*g*) to review and make recommendations to the Council in respect of the establishment, membership, terms of reference and continuance of committees;
+
+(*h*) to report, as directed from time to time by the Council, on its activities; and
+
+(*i*) to perform such other functions as the Council may from time to time delegate to it.
+
+#### 27. Membership of Investigating Committee.
+
+**27.**—(1) The Investigating Committee shall consist of 11 members.
+
+(2) Subject to *subsection (4)*, the members of the Investigating Committee shall be—
+
+(*a*) the deputy chairperson of the Council,
+
+(*b*) 6 members of the Council appointed under *paragraphs (a)* and (*b*) of *section 8(2)*,
+
+(*c*) 3 members of the Council appointed under *paragraphs (c)*, *(d), (e)* and *(f)* of *section 8(2)*, and
+
+(*d*) one member of the Council appointed under *paragraph (g)* of *section 8(2)*.
+
+(3) The deputy chairperson of the Council shall be the chairperson of the Investigating Committee.
+
+(4) F18[...]
+
+(5) A member of the Disciplinary Committee shall not be eligible to be a member of the Investigating Committee.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F18: Repealed (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 6, S.I. No. 408 of 2016.
+
+#### 28. Membership of Disciplinary Committee.
+
+**28.**—(1) The Disciplinary Committee shall consist of 13 members.
+
+(2) The members of the Disciplinary Committee shall be—
+
+(*a*) F19[...]
+
+(*b*) F20[8 members] of the Council appointed under *paragraphs (a)* and *(b)* of *section 8(2)*,
+
+(*c*) 3 members of the Council appointed under *paragraphs (c)*, *(d)*, *(e)* and *(f)* of *section 8(2)*, and
+
+(*d*) 2 members of the Council appointed under *paragraph (g)* of *section 8(2)*.
+
+(3) F19[...]
+
+(4) F19[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F19: Repealed (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), ss. 7(a)(i) and (b), S.I. No. 408 of 2016.
+>
+> F20: Substituted (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 7(a)(ii), S.I. No. 408 of 2016.
+
+## PART 3Registration — PART 3 — Registration
+
+### 29. The register.
+
+**29.**—(1) The Council shall, as soon as practicable after the establishment day, establish and maintain in such form and manner as the Council may determine a register which shall be known as the Register of Teachers.
+
+(2) The register may be prepared, established and maintained otherwise than in a legible form subject to its being capable of being converted into a legible form and being used to make a legible copy or reproduction of any entry in the register.
+
+(3) The Council may prescribe the information to be entered in the register and the form and manner in which such information shall be entered and maintained, which information shall include, but not necessarily be limited to, the following:
+
+(*a*) F21[in respect of each person who is registered or is entitled to be registered]:
+
+(i) name and address for correspondence;
+
+(ii) date of birth;
+
+(iii) qualifications;
+
+F22[(iv) whether the registration is subject to conditions under *section 31* (amended by section 10 of the Act of 2015), *section 33* (amended by section 14 of the Act of 2015) or *section 44* (amended by section 25 of the Act of 2015);]
+
+(v) registration number;
+
+(vi) date of registration;
+
+F21[(vii) name and address of employer if known to the Council;]
+
+(viii) current employment details including posts of responsibility held;
+
+(ix) the voting category as prescribed under *section 10*;
+
+F21[(x) the findings of any disciplinary proceedings under *Part 5*, including any measures confirmed by a panel under *section 44(1A)*, and the period for which such information shall remain on the register;]
+
+F23[(xi) the information disclosed by the most recent vetting disclosure in the possession of the Council in respect of the person;]
+
+(*b*) such other information as the Council, from time to time, considers appropriate.
+
+(4) F21[Save as otherwise provided in any enactment or rule of law prohibiting the disclosure of information, the Council shall] publish the register in such form and manner as it considers appropriate.
+
+(5) Every document purporting to be a copy of or extract from an entry in the register and purporting to be certified by the Director to be a true copy of or extract from such entry shall, without proof of the signature of the Director, be received in evidence in any legal proceedings and shall, until the contrary is shown, be deemed to be a true copy of or extract from such entry and shall be evidence of the terms of such entry.
+
+(6) F21[Save as otherwise provided in any enactment or rule of law prohibiting the disclosure of information and subject to the payment of such fee] as may be prescribed under *section 23*—
+
+(*a*) the register shall be made available for inspection by any person, in whole or in part, at such times and in such manner, as may be prescribed by the Council, and
+
+(*b*) where a request is made by any person to the Director for a certified or uncertified copy of, or extract from, an entry in the register, the Director shall provide a copy of the entry or extract to such person.
+
+(7) The First Schedule to the Freedom of Information Act, 1997, is amended by the inclusion in paragraph 1(2) of the following—
+
+“the Teaching Council,”.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F21: Substituted (29.04.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 8(a)(i), (iii), (iv), (b) and (c), S.I. No. 222 of 2016.
+>
+> F22: Substituted (25.07.2016 and 2.11.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 8(a)(ii), S.I. Nos. 408 of 2016 and 556 of 2016.
+>
+> F23: Inserted (29.04.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 8(a)(v), S.I. No. 222 of 2016.
+>
+> **Editorial Notes:**
+>
+> E35: Power pursuant to section exercised (16.10.2025) by *Teaching Council (Registration) Regulations 2025* (S.I. No. 482 of 2025), in effect as per reg. 2.
+>
+> E36: Previous affecting provision: power pursuant to section exercised (25.07.2016) by *Teaching Council (Registration) Regulations 2016* (S.I. No. 444 of 2016); revoked (16.10.2025) by *Teaching Council (Registration) Regulations 2025* (S.I. No. 482 of 2025), reg. 17(a), in effect as per reg. 2.
+
+### 30. Employment of teacher in recognised school
+
+F24[**30.**—Subject to *subsection (8)* of *section 24* (inserted by *section 6 of the Education (Amendment) Act 2012*) of the Act of 1998, *subsection (22)* of *section 33* (amended by section 14 of the Act of 2015), *subsection (6A)* (inserted by *section 25(g)* of the Act of 2015) of *section 44* and *subsection (3A)* (inserted by *section 29* of the Act of 2015) of *section 47*, a person who is employed as a teacher in a recognised school but—
+
+(*a*) is not a registered teacher, or
+
+(*b*) stands removed or suspended from the register under *Part 5*,
+
+shall not be remunerated in respect of his or her employment out of moneys provided by the Oireachtas.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F24: Substituted (25.07.2016 and 2.11.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 9, S.I. Nos. 408 of 2016 and 556 of 2016.
+>
+> **Modifications (not altering text):**
+>
+> C5: Application of section restricted by *Education Act 1998* (51/1998), s. 24(8), (9) as substituted (27.01.2014) by *Education (Amendment) Act 2012* (14/2012), s. 6, S.I. No. 418 of 2013.
+>
+> **[Provisions relating to staff.**
+>
+> **24.**— ...
+>
+> (8) Notwithstanding section 30 of the Act of 2001, the Minister, where he or she is satisfied that it is necessary to facilitate the urgent, temporary or occasional staffing needs of recognised schools, may from time to time prescribe both—
+>
+> (*a*) the circumstances in which a person, who is not a registered teacher for a reason other than that he or she is suspended or removed from the register under Part 5 of the Act of 2001, may be employed in the place of a registered teacher in a recognised school and be remunerated, in respect of such employment, out of monies provided by the Oireachtas, and
+>
+> (*b*) the conditions attaching to the employment of such a person where he or she is, or is to be, remunerated out of monies provided by the Oireachtas.
+>
+> (9) Notwithstanding section 30 of the Act of 2001, the Minister shall consider the following in satisfying himself or herself for the purposes of *subsection (8)*:
+>
+> (*a*) the desirability of ensuring that persons employed in teaching positions in a recognised school are registered teachers;
+>
+> (*b*) the need to facilitate the urgent, temporary or occasional staffing needs of schools;
+>
+> (*c*) the desirability of minimising disruption to the education of students; and
+>
+> (*d*) the qualifications and relevant experience of a person referred to in *paragraphs (a)* and *(b)* of *subsection (8)*.
+>
+> (10) Without prejudice to the generality of *subsection (8)*, regulations made under that subsection may provide for one or more than one of the following:
+>
+> (*a*) a requirement that a person referred to in *paragraphs (a)* and *(b)* of *subsection (8)* be employed in the place of a registered teacher in a recognised school in a position remunerated, or to be remunerated, out of monies provided by the Oireachtas if, and only if, no registered teacher is available to take up the position in question;
+>
+> (*b*) a limit on the length for which such a person may be so employed in place of a registered teacher;
+>
+> (*c*) a requirement that such a person has certain minimum qualifications before he or she can be so employed;
+>
+> (*d*) a requirement that the Minister consent to the employment of such a person;
+>
+> (*e*) a limit on the subjects or purposes, or both, for which such a person may be so employed;
+>
+> (*f*) a requirement that a school retain and furnish to the Minister evidence that it has been unable to employ a registered teacher in the place of a registered teacher in a recognised school; and
+>
+> (*g*) a requirement that such a person is subject to An Garda Síochána vetting and clearance in accordance with standard practice for registered teachers.
+>
+> ...**]**
+>
+> **Editorial Notes:**
+>
+> E37: Information in relation to registered teachers to be provided by Teaching Council specified by *Education Act 1998* (51/1998), s. 24(7), as substituted (6.06.2012) by *Education (Amendment) Act 2012* (14/2012), s. 6, S.I. No. 190 of 2012.
+
+### 31. Registration.
+
+**31.**—(1) Subject to *subsections (2)* and *(3)*, a person may apply to the Council for registration.
+
+(2) A person who before the establishment day—
+
+(*a*) is employed as a teacher in a recognised school and whose remuneration in respect of that employment is paid out of moneys provided by the Oireachtas, or
+
+(*b*) where he or she is not so employed, he or she is eligible to be so employed,
+
+shall be deemed to be registered for a period of 12 months from the establishment day.
+
+(3) (*a*) A person referred to in *subsection (2)* shall apply to the Council for registration within the period specified in that subsection and shall, on the making of an application, be registered.
+
+(*b*) Where a person fails to apply for registration within the specified period, his or her registration shall lapse on the expiration of that period and *section 30* shall apply.
+
+(4) The Council may make regulations for the purposes of registration under *subsection (3)* which shall provide for, but not necessarily be limited to, all or any of the following:
+
+(*a*) the form and manner in which an application for registration shall be made;
+
+(*b*) the documentary and other evidence which shall accompany an application for registration.
+
+(5) The Council may make regulations for the purposes of registration under this section of persons, other than those referred to in *subsection (2)*, which shall provide for, but not necessarily be limited to, all or any of the following:
+
+(*a*) the form and manner in which an application for registration shall be made;
+
+F25[(*b*) the documentary and other evidence which the Council may request for the purposes of determining an application for registration, including the documentary and other evidence to enable the Council to satisfy itself that a person is a fit and proper person to be admitted to the register;]
+
+F25[(*c*) any other requirements to be met for the purposes of registration which may include requirements relating to—
+
+(i) qualifications,
+
+(ii) teaching experience, and
+
+(iii) medical fitness;]
+
+(*d*) removal from the register under *section 34* for failure to apply for renewal of registration;
+
+(*e*) correction of the register under *section 36*.
+
+F26[(5A) The Council may seek a vetting disclosure in respect of a person applying for registration under this section.
+
+(5B) The Council shall not register a person who makes an application under *subsection (1)* unless the Council—
+
+(*a*) receives a vetting disclosure in respect of the person, and
+
+(*b*) is satisfied that the person is a fit and proper person to be admitted to the register, having considered—
+
+(i) subject to *subsection (5C)*, the information contained in the vetting disclosure in respect of that person,
+
+(ii) any submissions made by the person under *subsection (5D)*, and
+
+(iii) any documentary and other evidence submitted by that person to the Council for that purpose in accordance with requirements (if any) prescribed under *subsection (5)(b)*.
+
+(5C) Where a vetting disclosure received by the Council under this section in respect of a person contains specified information and the specified information relates to conduct of the person which occurred prior to the coming into operation of *section 10* of the *Act of 2015*, the Council may not consider that information for the purposes of *subsection (5B)(b)* unless the conduct concerned would have constituted a criminal offence at the time the conduct occurred.
+
+(5D) Where a vetting disclosure received by the Council under this section in respect of a person contains information referred to in *section 14(4)(a)* of the Act of 2012 and the Council considers that information disclosed is of relevance to its consideration as to whether the person making an application under *subsection (1)* is a fit and proper person to be registered as a teacher under this section, the Council shall notify that person accordingly and invite that person to make submissions in writing to the Council in relation to the disclosure within such time period as is specified in the notice.
+
+(5E) The Council may seek evidence from the person making an application under *subsection (1)*, or any other relevant person, to verify any of the information submitted by the person making that application, for the purposes of registration in accordance with this section.]
+
+(6) The Council—
+
+(*a*) may refuse to register a person where—
+
+(i) he or she does not satisfy the requirements for registration prescribed under *subsection (5)*,
+
+F27[(ia) he or she has failed to provide a declaration of consent or any other information required in accordance with section 31A (inserted by section 12 of the Act of 2015),]
+
+F25[(ii) at the time the Council makes its decision, the person—
+
+(I) stands removed from the register under *Part 5* and is not eligible to apply to be restored to the register under this section, or
+
+(II) stands suspended from the register under *Part 5* and the period of suspension has not expired, or]
+
+(iii) before the establishment day, in respect of the person, recognition as a teacher in a primary school or registration as a teacher in a post-primary school was withdrawn by the Minister,
+
+F27[(*aa*) shall refuse to register a person where it is not satisfied that he or she is a fit and proper person to be admitted to the register,]
+
+or
+
+(*b*) may register a person F25[subject to such conditions (if any) as the Council considers appropriate], including conditions as to probation, and such conditions shall be complied with within such period as may be specified by the Council.
+
+(7) Where the Council makes a decision, under *subsection (6)*, to refuse to register a person or to register the person subject to conditions, the Council shall, within 21 days of making the decision, inform the person, by notice in writing, of the decision and the reasons for that decision and of the rights of the person under *subsection (8)*.
+
+(8) A person may, within 21 days of the date of service of a notice under *subsection (7)*, apply to the High Court for annulment of the decision concerned and the Court, on hearing the application, may—
+
+(*a*) confirm the decision of the Council,
+
+(*b*) annul the decision of the Council and as the Court considers appropriate—
+
+(i) direct the Council to register the person with or without conditions, as the case may be, or
+
+(ii) direct the Council to make a further decision,
+
+(*c*) vary the decision of the Council, or
+
+(*d*) give such other directions to the Council as the Court considers appropriate,
+
+and the Court may make such order as to costs as it considers appropriate.
+
+(9) (*a*) When registration has been completed the Council shall issue to the registered teacher a certificate of registration in such form and manner and containing such information as the Council may prescribe.
+
+(*b*) A certificate purporting to be issued by the Council under *paragraph (a)* shall, without proof of the signature of the person purporting to sign the certificate, be evidence, until the contrary is shown, of the matters stated in the certificate.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F25: Substituted (29.04.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 10(a)(i), (ii), (c)(i)(II), (iii), S.I. No. 222 of 2016, subject to transitional provision in s. 11.
+>
+> F26: Inserted (29.04.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 10(b), S.I. No. 222 of 2016, subject to transitional provision in s. 11.
+>
+> F27: Inserted (29.04.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 10(c)(i)(I), (ii), S.I. No. 222 of 2016, subject to transitional provision in s. 11.
+>
+> **Editorial Notes:**
+>
+> E38: Power pursuant to section exercised (16.10.2025) by *Teaching Council (Registration) Regulations 2025* (S.I. No. 482 of 2025), in effect as per reg. 2.
+>
+> E39: Previous affecting provision: power pursuant to section exercised (26.01.2023) by *Teaching Council (Registration) (Amendment) Regulations 2023* (S.I. No. 12 of 2023); revoked (16.10.2025) by *Teaching Council (Registration) Regulations 2025* (S.I. No. 482 of 2025), reg. 17(f), in effect as per reg. 2.
+>
+> E40: Previous affecting provision: power pursuant to section exercised (21.12.2021) by *Teaching Council (Registration) (Amendment) (No. 2) Regulations 2021* (S.I. No. 745 of 2021); revoked (16.10.2025) by *Teaching Council (Registration) Regulations 2025* (S.I. No. 482 of 2025), reg. 17(e), in effect as per reg. 2.
+>
+> E41: Previous affecting provision: power pursuant to section exercised (27.05.2021) by *Teaching Council (Registration) (Amendment) Regulations 2021* (S.I. No. 266 of 2021); revoked (16.10.2025) by *Teaching Council (Registration) Regulations 2025* (S.I. No. 482 of 2025), reg. 17(d), in effect as per reg. 2.
+>
+> E42: Previous affecting provision: power pursuant to section exercised (30.07.2020) by *Teaching Council (Registration) (Amendment) Regulations 2020* (S.I. No. 269 of 2020); revoked (16.10.2025) by *Teaching Council (Registration) Regulations 2025* (S.I. No. 482 of 2025), reg. 17(c), in effect as per reg. 2.
+>
+> E43: Previous affecting provision: power pursuant to section exercised (25.07.2016) by *Teaching Council (Registration) Regulations 2016* (S.I. No. 444 of 2016); revoked (16.10.2025) by *Teaching Council (Registration) Regulations 2025* (S.I. No. 482 of 2025), reg. 17(a), in effect as per reg. 2.
+>
+> E44: Previous affecting provision: power pursuant to section exercised (18.11.2009) by *Teaching Council (Registration) Regulations 2009* (S.I. No. 595 of 2009); revoked (25.07.2016) by *Teaching Council (Registration) Regulations 2016* (S.I. No. 444 of 2016), reg. 16, subject to transitional provision in reg. 17.
+
+### 31A. Information necessary to obtain vetting disclosure
+
+F28[**31A.**—Where a person applies for registration under *section 31* he or she shall provide the Council with a declaration of consent (within the meaning of the Act of 2012) and any other information which is required by the Council to enable it to obtain a vetting disclosure in respect of the person.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F28: Inserted (29.04.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 12, S.I. No. 222 of 2016.
+
+### 32. Registration subject to conditions.
+
+**32.**—(1) (*a*) Where registration is subject to conditions to be complied with within a specified period under *section 31(6)(b)*, the person who made the application for registration may apply in writing to the Council, within the specified period, for an extension of that period.
+
+(*b*) Any extension of the specified period shall be at the discretion of the Council.
+
+(2) Where a person fails to comply with the conditions referred to in *subsection (1)* within the specified period or any extension of that period under that subsection, the conditional registration shall lapse.
+
+F29[(2A) Where a person fails to comply with any condition imposed under *section 31(8)(b)(i)*, he or she shall be removed from the register.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F29: Inserted (29.04.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 13, S.I. No. 222 of 2016.
+
+### 33. Renewal of registration.
+
+F30[**33.**—(1) Subject to *subsection (13)*, registration shall be valid for 12 months from the date of registration.
+
+(2) The Council may make regulations for the purposes of renewal of registration of registered teachers which shall provide for, but not necessarily be limited to, all or any of the following:
+
+(*a*) the form and manner in which an application for renewal shall be made;
+
+(*b*) the documentary and other evidence which the Council may request for the purposes of determining an application for renewal of registration;
+
+(*c*) the documentary and other evidence which the Council may request to enable the Council to satisfy itself, for the purposes of *subsection (8)*, that a registered teacher is a fit and proper person to have his or her registration renewed;
+
+(*d*) any other requirements to be met for renewal of registration which may include requirements relating to—
+
+(i) satisfactory completion of programmes of continuing education and training accredited under *section 39*,
+
+(ii) teaching experience, or
+
+(iii) medical fitness.
+
+(3) A registered teacher may apply for renewal of his or her registration under this section for a further period of 12 months.
+
+(4) (*a*) Subject to *paragraph (b)*, an application for renewal of registration shall be made before the expiration of the period of validity of registration and the application shall be accompanied by the renewal fee.
+
+(*b*) Where, in accordance with *subsection (5)*, the Council notifies a registered teacher that it intends to seek a vetting disclosure in respect of him or her for the purposes of renewing his or her registration, the teacher shall comply with that notice within the period referred to in *paragraph (d)* of that subsection.
+
+(5) (*a*) The Council may seek a vetting disclosure in respect of a registered teacher for the purposes of renewing the registration of the teacher in accordance with this section.
+
+(*b*) The Council shall notify a registered teacher in writing where the Council intends to seek a vetting disclosure in respect of the registered teacher under *paragraph (a)* and the notice shall—
+
+(i) request the registered teacher to provide the Council with a declaration of consent (within the meaning of the Act of 2012) and any other information specified in the notice which is required by the Council to enable it to obtain a vetting disclosure in respect of that teacher,
+
+(ii) specify the time period within which the registered teacher shall comply with a request under *subparagraph (i)* and the form and manner in which the information requested under that subparagraph shall be furnished,
+
+(iii) advise the registered teacher that the Council intends to consider the vetting disclosure for the purpose of determining if he or she is a fit and proper person, in accordance with *subsection (8)*, to have his or her registration renewed upon his or her next renewal under this section,
+
+(iv) advise the registered teacher that the Council may refuse to renew the registration of that teacher under this section if he or she fails to comply with the request under *subparagraph (i)* within the time period specified under *subparagraph (ii)* and the Council has not been in a position to make a determination that he or she is a fit and proper person to have his or her registration renewed, and
+
+(v) advise the registered teacher that the Council may, having regard to the information contained in the vetting disclosure, where it is satisfied that it is in the public interest to do so, apply to the High Court under *section 47* for an order that during the period specified in the order his or her registration shall be suspended.
+
+(*c*) A notice issued under *paragraph (b)* shall be issued—
+
+(i) not earlier than 10 months prior to the date of expiration of the period of validity of registration of that teacher, or
+
+(ii) within such lesser period as the Minister may direct in respect of all notifications made to registered teachers under that paragraph.
+
+(*d*) A notice from the Council under *paragraph (b)* shall specify the period within which the notice shall be complied with, which period shall be the same in respect of all registered teachers to whom a notice is issued in accordance with this subsection.
+
+(6) In considering whether to seek a vetting disclosure under *subsection (5)* in respect of a registered teacher, the Council shall have regard to—
+
+(*a*) whether a GCVU disclosure has previously been received by the Council in respect of that teacher,
+
+(*b*) where a GCVU disclosure has previously been received by the Council in respect of that teacher, the period of time which has elapsed since the last GCVU disclosure was received by the Council in respect of that teacher,
+
+(*c*) whether a vetting disclosure has previously been received by the Council in respect of that teacher,
+
+(*d*) where a vetting disclosure has previously been received by the Council in respect of that teacher, the period of time which has elapsed since the last vetting disclosure was received by the Council in respect of that teacher, and
+
+(*e*) where the Council has previously considered a vetting disclosure in respect of a teacher for the purposes of registration or renewal of registration under this Act, any periods prescribed under section 20 of the Act of 2012.
+
+(7) Where the Council seeks a vetting disclosure under *subsection (5)* in respect of a registered teacher and the disclosure contains specified information which relates to conduct of the teacher which occurred prior to the coming into operation of section 14 of the Act of 2015, the Council may not consider that information for the purposes of *subsection (8)* unless the conduct concerned would have constituted a criminal offence at the time the conduct occurred.
+
+(8) Where the Council receives a vetting disclosure under this section in respect of a registered teacher the Council shall, for the purpose of satisfying itself that the registered teacher is a fit and proper person to have his or her registration renewed, consider—
+
+(*a*) subject to *subsection (7)*, the information contained in the disclosure,
+
+(*b*) any submissions made by the registered teacher under *subsection (9)*, and
+
+(*c*) any documentary and other evidence submitted by that registered teacher to the Council in accordance with requirements (if any) prescribed under *subsection (2)(c)*.
+
+(9) Subject to *subsection (14)(b)*, where a vetting disclosure received by the Council under this section in respect of a registered teacher contains information referred to in section 14(4)(a) of the Act of 2012 and the Council considers the information in that disclosure is of relevance to its consideration as to whether the teacher is a fit and proper person to have his or her registration renewed under this section, the Council shall notify that teacher accordingly and invite him or her to make submissions in writing to it in relation to that disclosure within such period as is specified in the notice.
+
+(10) The Council may seek evidence from the registered teacher, or any other relevant person, to verify any of the information submitted by the registered teacher for the purposes of renewal of registration in accordance with this section.
+
+(11) The term of a renewal of registration shall take effect from the expiration of the previous registration.
+
+(12) On receipt of an application for renewal of registration and the prescribed fee, the Council shall, as soon as practicable, send to the registered teacher a receipt stating that the fee has been received.
+
+(13) Where, in exceptional circumstances, notwithstanding that a registered teacher has complied with a notice under *subsection (5)(b)* within the time specified in the notice, the Council has—
+
+(*a*) not received a vetting disclosure in respect of that teacher before the expiration of the period of validity of that teacher’s registration, or
+
+(*b*) received a vetting disclosure to which subsection (9) applies but does not have sufficient time before the expiration of the period of validity of that teacher’s registration to seek submissions referred to in that subsection,
+
+that teacher’s name shall not be removed from the register until the Council makes a decision under *subsection (16)* in accordance with *subsection (14)*.
+
+(14) (*a*) Where a vetting disclosure referred to in *paragraph (a)* of *subsection (13)* is received and the disclosure does not contain information referred to in *subsection (9)*, the Council shall make a decision under *subsection (16)* within 21 days of receipt of that disclosure.
+
+(*b*) Where—
+
+(i) a vetting disclosure referred to in *paragraph (a)* of *subsection (13)* is received and the disclosure contains information referred to in *subsection (9)*, or
+
+(ii) paragraph (b) of *subsection (13)* applies,
+
+the Council shall within 21 days of receipt of that disclosure, notify the registered teacher in accordance with *subsection (9)* and the period specified in the notice referred to in that subsection shall be 21 days and the Council shall make a decision under *subsection (16)* within 21 days after the expiration of the period for the making of submissions by that teacher.
+
+(15) (*a*) Where a registered teacher fails to comply with a request under *subparagraph (i)* of a notice under *subsection (5)(b)* within the time specified in that notice, the Council shall notify the teacher in writing that the Council may refuse to renew that teacher’s registration in accordance with *subsection (16)(a)(iii)* and that teacher may, within such time period as may be specified in the notice, make submissions in writing to the Council in relation to that failure.
+
+(*b*) The Council shall consider submissions (if any) made by a teacher under paragraph (a) and where the Council is satisfied that there are reasonable grounds for the teacher’s failure to comply with that notice, the Council shall notify the teacher in writing that the Council may refuse to register the teacher in accordance with *section 16(a)(iii)* and that the teacher may make submissions and include with such submissions any information which he or she considers relevant to the Council’s determination under *subsection (16)(a)(iii)*.
+
+(16) The Council—
+
+(*a*) may refuse to renew the registration of a person where—
+
+(i) he or she does not satisfy the requirements for renewal of registration prescribed under *subsection (2)*,
+
+(ii) at the time the Council makes its decision, the person—
+
+(I) stands removed from the register under *Part 5* and is not eligible to apply to be restored to the register under *section 31*, or
+
+(II) stands suspended from the register under *Part 5* and the period of suspension has not expired,
+
+or
+
+(iii) the registered teacher fails to comply with the notice under *subsection (5)(b)* within the time specified in the notice, and having considered the submissions and information (if any) submitted under *subsection (15)(b)*, the Council has not been in a position to determine if that registered teacher is a fit and proper person to have his or her registration renewed,
+
+(*b*) shall refuse to renew the registration of the registered teacher where—
+
+(i) the Council receives a vetting disclosure in respect of a registered teacher under this section and is not satisfied, in accordance with *subsection (8)*, that the registered teacher is a fit and proper person to have his or her registration renewed, or
+
+(ii) the Council is not satisfied that the teacher has provided reasonable grounds for his or her failure to comply with a request under *subparagraph (i)* of a notice under *subsection (5)(b)*,
+
+or
+
+(*c*) may renew the registration of a registered teacher subject to such conditions (if any) as the Council considers appropriate and such conditions shall be complied with within such period as may be specified by the Council.
+
+(17) A receipt issued by the Council under *subsection (12)*, and a certificate issued by it under *subsection (24)*, shall, without proof of the signature of the person purporting to sign the receipt or certificate or that such person was the proper person so to sign, be evidence in any legal proceedings that, as the case may be, the payment was made or the registration was renewed for the period specified in the certificate, unless the contrary is shown.
+
+(18) Where the Council makes a decision under *subsection (16)* —
+
+(*a*) to refuse to renew the registration of a person, or
+
+(*b*) to renew the registration of a person subject to conditions,
+
+the Council shall, within 21 days of making the decision, inform the person, by notice in writing, of the decision, the reason for the decision and the rights of the person under *subsection (19)*.
+
+(19) A person may, within 21 days of the date of service of a notice under *subsection (18)*, apply to the High Court for annulment of the decision concerned and the Court, on hearing the application, may—
+
+(*a*) confirm the decision of the Council,
+
+(*b*) annul the decision of the Council and as the Court considers appropriate—
+
+(i) direct the Council to renew the registration of the person with or without conditions, as the case may be, or
+
+(ii) direct the Council to make a further decision,
+
+(*c*) vary the decision of the Council, or
+
+(*d*) give such other directions to the Council as the Court considers appropriate,
+
+and the Court may make such order as to costs as it considers appropriate.
+
+(20) Subject to any order that may be made by the High Court under *section 47* suspending the registration of a teacher, where a teacher brings an application under *subsection (19)* within the time period specified in that subsection, that teacher shall remain on the register until the High Court makes a decision under that section.
+
+(21) By leave of the High Court or the Court of Appeal, an appeal by the Council or the teacher concerned from a decision of the High Court under *subsection (19)* shall lie to the Court of Appeal on a point of law.
+
+(22) Where—
+
+(*a*) the decision of the High Court under *subsection (19)* results in a registered teacher being removed from the register,
+
+(*b*) the High Court or the Court of Appeal grants leave to a teacher under *subsection (21)* to appeal a decision of the High Court to the Court of Appeal on a point of law,
+
+(*c*) at the date of the grant of leave the teacher is employed as a teacher in a recognised school, and
+
+(*d*) that teacher is remunerated in respect of his or her employment out of moneys provided by the Oireachtas,
+
+the High Court or the Court of Appeal, as the case may be, shall at the same time as it grants such leave to appeal direct whether that teacher shall continue to be remunerated pursuant to his or her contract of employment out of moneys provided by the Oireachtas pending the determination of that appeal.
+
+(23) A direction of the High Court or the Court of Appeal under *subsection (22)* that a teacher shall continue to be remunerated shall be subject to such terms and be for such period as the High Court or the Court of Appeal considers appropriate.
+
+(24) When renewal of registration has been completed the Council shall issue to the registered teacher a certificate of registration in such form and manner and containing such information as the Council may prescribe.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F30: Substituted (2.11.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 14, S.I. No. 556 of 2016, subject to transitional provision in s. 17.
+>
+> **Editorial Notes:**
+>
+> E45: Power pursuant to section exercised (16.10.2025) by *Teaching Council (Registration) Regulations 2025* (S.I. No. 482 of 2025), in effect as per reg. 2.
+>
+> E46: Previous affecting provision: power pursuant to section exercised (8.11.2016) by *Teaching Council (Registration) (Amendment) Regulations 2016* (S.I. No. 557 of 2016); revoked (16.10.2025) by *Teaching Council (Registration) Regulations 2025* (S.I. No. 482 of 2025), reg. 17(b), in effect as per reg. 2.
+>
+> E47: Previous affecting provision: power pursuant to section exercised (25.07.2016) by *Teaching Council (Registration) Regulations 2016* (S.I. No. 444 of 2016); revoked (16.10.2025) by *Teaching Council (Registration) Regulations 2025* (S.I. No. 482 of 2025), reg. 17(a), in effect as per reg. 2.
+
+### 33A. Renewal of registration subject to conditions
+
+F31[**33A.**—(1) (*a*) Where the renewal of registration of a registered teacher is subject to conditions to be complied with within a specified period under *section 33(16) (c)*, the registered teacher may apply in writing to the Council, within the specified period, for an extension of that period.
+
+(*b*) Any extension of the specified period shall be at the discretion of the Council.
+
+(2) Where a registered teacher fails to comply with the conditions referred to in *subsection (1)* within the specified period or any extension of the specified period under that subsection, he or she shall be removed from the register.
+
+(3) Where a registered teacher fails to comply with any condition imposed under *section 33(19)(b)*, he or she shall be removed from the register.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F31: Inserted (2.11.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 15, S.I. No. 556 of 2016.
+
+### 33B. Sharing of information in a vetting disclosure obtained under section 33
+
+F32[**33B.**—(1) Subject to this section, the Council may provide the employer of a registered teacher with information contained in a vetting disclosure received by the Council for the purposes of the renewal of teacher’s registration under *section 33* where—
+
+(*a*) the Council considers that the information in that disclosure is of such a nature as to give rise to a bona fide concern that the teacher may—
+
+(i) harm any child or vulnerable person,
+
+(ii) cause any child or vulnerable person to be harmed,
+
+(iii) put any child or vulnerable person at risk of harm,
+
+(iv) attempt to harm any child or vulnerable person, or
+
+(v) incite another person to harm any child or vulnerable person,
+
+and
+
+(*b*) the identity of the employer of that teacher is known to the Council.
+
+(2) Where the Council proposes to provide the employer of a registered teacher with information contained in a vetting disclosure under *subsection (1)*, it shall notify the teacher in writing accordingly and invite him or her to make submissions in writing to it in relation to that proposal within such period as is specified in the notice.
+
+(3) The Council shall consider submissions (if any) made by a registered teacher under *subsection (2)* before making a decision under *subsection (1)* to provide the employer of that teacher with the information contained in a vetting disclosure referred to in *subsection (1)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F32: Inserted (2.11.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 16, S.I. No. 556 of 2016.
+
+### 34. Removal from register for failure to apply for renewal of registration.
+
+**34.**—(1) F33[Subject to *subsection (1A)*, where a registered teacher] fails to apply for renewal of registration in accordance with *section 33*, the Council shall, upon the expiration of his or her registration, inform him or her, by notice in writing, that he or she shall be removed from the register within one month from the date of such notice unless an application is received for renewal of registration within that period together with such renewal fee for late renewal of registration as may be prescribed under *section 23*.
+
+F34[(1A) Where a registered teacher who fails to apply for renewal of registration in accordance with *section 33* is one to whom *subsection (5)* of that section applies, *subsection (1)* shall only apply where the registered teacher has complied with *subsection (5)* of *section 33*.]
+
+(2) (*a*) Subject to *paragraph (b)*, where a registered teacher fails to apply for renewal of registration in accordance with *subsection (1)*, the Council shall remove the teacher from the register.
+
+F33[(*b*) Where a complaint has been made in relation to a registered teacher under *section 42* (amended by section 20 of the Act of 2015) the Council shall not remove that registered teacher from the register under this section until that complaint has either been refused to be referred or refused to be considered, as the case may be, under *subsection (3)(b), (5)(b), (8)(aa)* or *(9)(b)*, of *section 42* (as so amended) or any inquiry in relation to that complaint has been completed in accordance with *Part 5*.]
+
+(3) A registered teacher who has been removed from the register in accordance with *subsection (2)* may apply to the Council for registration and *section 31* shall apply.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F33: Substituted (2.11.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 18(a), S.I. No. 556 of 2016.
+>
+> F34: Inserted (2.11.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 18(b), S.I. No. 556 of 2016.
+
+### 35. Removal from register on application of registered teacher.
+
+**35.**—(1) Subject to *subsection (2)*, a registered teacher may apply in writing to the Council to be removed from the register.
+
+F35[(2) Where a registered teacher applies to be removed from the register under *subsection (1)* and a complaint has been made under *section 42* (amended by section 20 of the Act of 2015) in relation to the teacher, the Council shall not consider the application under *subsection (1)* until that complaint has either been refused to be referred or refused to be considered, as the case may be, under *subsection (3)(b), (5)(b), (8)(aa)* or *(9)(b)*, of *section 42* (as so amended) or any inquiry in relation to that complaint has been completed in accordance with *Part 5*.]
+
+(3) A teacher who has been removed from the register under this section may apply to the Council for registration and *section 31* shall apply.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F35: Substituted (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 19, S.I. No. 408 of 2016.
+
+### 36. Correction of register.
+
+**36.**—(1) For the purpose of keeping the register correct, the Council shall, from time to time, in accordance with regulations made under *section 31*—
+
+(*a*) correct errors in the register, and
+
+(*b*) enter in the register every change which comes to its knowledge in respect of the information entered in the register in relation to a registered teacher.
+
+(2) Where the Council takes any action under *subsection (1)*, it shall, as soon as practicable, by notice in writing, inform the person concerned, or, in the case where the person concerned is deceased, his or her next of kin, of any action taken and the reasons for such action.
+
+(3) A registered teacher shall, as soon as practicable, inform the Council, by notice in writing, of—
+
+(*a*) any errors in the register of which he or she is aware in relation to his or her registration, and
+
+(*b*) any change in the information entered in the register in relation to him or her.
+
+### 37. Information to be furnished by employer to Council.
+
+**37.**—The Council may, subject to the consent of the Minister, prescribe the information to be furnished by an employer to the Council in respect of a registered teacher who is employed as a teacher where the teacher is dismissed by the employer or where he or she resigns.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E48: Power pursuant to section exercised (11.05.2023) by *Teaching Council (information to Be Furnished by Employer in Case of Dismissal Or Resignation of Registered Teacher) Regulations 2023* (S.I. No. 230 of 2023).
+
+## PART 4Education and Training — PART 4 — Education and Training
+
+### 38. Review of standards required for entry into teaching profession.
+
+**38.**—(1) The Council shall, from time to time—
+
+F36[(*a*) review, and where appropriate accredit, the programmes of teacher education and training provided by institutions of higher education.]
+
+(*b*) review the standards of education and training appropriate to a person entering a programme of teacher education and training, and
+
+(*c*) review the standards of knowledge, skill and competence required for the practice of teaching,
+
+and shall advise the Minister and, as it considers appropriate, the institutions concerned.
+
+(2) The Council shall consult with the Minister and with such institutions of higher education and training in the State as it considers appropriate for the purpose of the performance of its functions under *subsection (1)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F36: Substituted (6.06.2012) by *Education (Amendment) Act 2012* (14/2012), s. 10, S.I. No. 190 of 2012.
+
+### 39. Continuing education and training and professional development of teachers.
+
+**39.**—(1) The Council shall promote the continuing education and training and professional development of teachers.
+
+(2) Without prejudice to the generality of *subsection (1)*, the Council shall—
+
+(*a*) conduct research into the continuing education and training and professional development of teachers, and shall publish the findings arising out of such research in such form and manner as the Council thinks fit,
+
+(*b*) promote awareness among the teaching profession and the public of the benefits of continuing education and training and professional development,
+
+(*c*) review and accredit programmes relating to the continuing education and training of teachers, and
+
+(*d*) perform such other functions in relation to the continuing education and training and professional development of teachers as may be assigned to the Council by the Minister.
+
+### 40. Duty to ensure compliance with minimum standards specified by institutions of European Communities.
+
+**40.**—The Council shall ensure that the requirements relating to teacher education and training for the purposes of qualification as a teacher satisfy the minimum standards specified in any directive, regulation or other act adopted by an institution of the European Communities or in any judgement of the European Court of Justice.
+
+## PART 5Fitness to Teach — PART 5 — Fitness to Teach
+
+### 41. Professional misconduct.
+
+**41.**—F37[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F37: Repealed (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 33, S.I. No. 408 of 2016.
+
+### 42. Inquiry by Investigating Committee.
+
+**42.**—F38[(1) A person (including the Council) may make a complaint to the Investigating Committee in relation to a registered teacher, and the Committee may consider the complaint, where that complaint concerns any of the following matters in relation to the registered teacher:
+
+(*a*) that he or she has failed to comply with, or has contravened, any provision of this Act, the Act of 1998, the Education (Welfare) Act 2000, the Education for Persons with Special Educational Needs Act 2004, the Education and Training Boards Act 2013 or any regulations, rules or orders made under those Acts;
+
+(*b*) that his or her behaviour constitutes professional misconduct;
+
+(*c*) poor professional performance;
+
+(*d*) that he or she has engaged in conduct contrary to a code of professional conduct established by the Council under *section 7(2)(b)*;
+
+(*e*) that his or her registration is erroneous due to a false or fraudulent declaration or misrepresentation;
+
+(*f*) that he or she is medically unfit to teach;
+
+(*g*) that he or she has been convicted in the State of an offence triable on indictment or convicted outside the State of an offence consisting of acts or omissions that, if done or made in the State, would constitute an offence triable on indictment;
+
+(*h*) that he or she has failed to comply with an undertaking or to take any action specified in a consent given in response to a request under *section 43(6)*.]
+
+F39[(1A) A person who makes a complaint under *subsection (1)* shall specify the conduct of the registered teacher giving rise to the person’s complaint.
+
+(1B) The Investigating Committee may consider a complaint relating to the matter specified at *paragraph (b)* of *subsection (1)* notwithstanding that the conduct to which the complaint relates occurred prior to the coming into operation of this *Part* where that conduct—
+
+(*a*) would have constituted a criminal offence at the time that conduct occurred, and
+
+(*b*) is of such a nature as to reasonably give rise to a bona fide concern that the teacher may—
+
+(i) harm any child or vulnerable person,
+
+(ii) cause any child or vulnerable person to be harmed,
+
+(iii) put any child or vulnerable person at risk of harm,
+
+(iv) attempt to harm any child or vulnerable person, or
+
+(v) incite another person to harm any child or vulnerable person.
+
+(1C) The Investigating Committee may consider a complaint concerned with any of the matters specified in *paragraphs (a), (e) or (g)* of *subsection (1)* notwithstanding that the matter to which the complaint relates occurred prior to the coming into operation of this Part.
+
+(1D) The Council may make a complaint to the Investigating Committee in respect of a registered teacher in relation to information, other than in relation to specified information in respect of the registered teacher which relates to conduct of that registered teacher which occurred prior to the coming into operation of this Part where the conduct would not have constituted a criminal offence at the time the conduct occurred, contained in a vetting disclosure received by the Council on behalf of another relevant organisation the Council represents for the purpose of vetting procedures under the Act of 2012 on the grounds that that information is of such a nature as to reasonably give rise to a bona fide concern that the teacher may—
+
+(*a*) harm any child or vulnerable person,
+
+(*b*) cause any child or vulnerable person to be harmed,
+
+(*c*) put any child or vulnerable person at risk of harm,
+
+(*d*) attempt to harm any child or vulnerable person, or
+
+(*e*) incite another person to harm any child or vulnerable person.
+
+(1E) The Council may make a complaint to the Investigating Committee under *subsection (1)(g)* in respect of a registered teacher on the basis of information contained in a vetting disclosure received by the Council on behalf of another relevant organisation the Council represents for the purpose of vetting procedures under the Act of 2012.
+
+(1F) A complaint made under *subsection (1)* or *subsection (1D)* shall, subject to this section, be considered by the Investigating Committee.
+
+(1G) A complaint made under *subsection (1)* may be made in so far as the complaint relates to professional misconduct or poor professional performance notwithstanding that the matter to which the complaint relates occurred outside the State.]
+
+F38[(2) A complaint made under *subsection (1)* or *subsection (1D)* shall be—
+
+(*a*) in writing,
+
+(*b*) signed by the complainant, and
+
+(*c*) accompanied by such documents and information as may be relevant to the complaint, including—
+
+(i) in the case of a complaint made under *subsection (1D)*, a copy of the vetting disclosure referred to in that subsection and confirmation of the information contained in that disclosure which grounds the complaint under that subsection, and
+
+(ii) in the case of a complaint made under *subsection (1)(g)* to which *subsection (1E)* applies, a copy of the vetting disclosure referred to in *subsection (1E)* and confirmation of the information contained in the disclosure which grounds the complaint under *subsection (1)(g)*.]
+
+(3) F38[(*a*) Subject to *paragraph (b)*, the Director shall refer all complaints made under *subsection (1)* or *subsection (1D)* to the Investigating Committee.]
+
+(*b*) The Director F38[may refuse to refer a complaint] where—
+
+(i) F38[the complaint] does not satisfy the requirements of *subsection (2)*, or
+
+(ii) he or she considers that F38[the complaint] is frivolous, vexatious, is made in bad faith or is an abuse of process.
+
+F39[(*c*) For the purposes of considering whether to refuse to refer a complaint under *paragraph (b)*, the Director may—
+
+(i) in the case of a complaint made under *subsection (1D)*, consider the information contained in the vetting disclosure in so far as the information grounds the complaint under, and in accordance with, that subsection, and
+
+(ii) in the case of a complaint made under *subsection (1)(g)* to which *subsection (1E)* applies, consider the information contained in the vetting disclosure in so far as the information grounds the complaint under *subsection (1)(g)*.]
+
+F39[(3A) Where—
+
+(*a*) a complaint under *subsection (1)* is made in relation to a registered teacher—
+
+(i) employed by a recognised school, an education and training board or a centre for education,
+
+(ii) engaged in the delivery of home tuition, or
+
+(iii) employed in teaching children or vulnerable persons,
+
+(*b*) the Investigating Committee considers that the complaint is of such a nature as to reasonably give rise to a bona fide concern that the teacher may—
+
+(i) harm any child or vulnerable person,
+
+(ii) cause any child or vulnerable person to be harmed,
+
+(iii) put any child or vulnerable person at risk of harm,
+
+(iv) attempt to harm any child or vulnerable person, or
+
+(v) incite another person to harm any child or vulnerable person,
+
+and
+
+(*c*) the identity of the employer of that teacher who is the subject of that complaint is known to the Council,
+
+the Investigating Committee shall, as soon as reasonably practicable, inform that employer of that teacher of the complaint and the nature of that concern.
+
+(3B) Where—
+
+(*a*) a complaint under *subsection (1D)* is made in relation to a registered teacher—
+
+(i) employed by a recognised school, an education and training board or a centre for education,
+
+(ii) engaged in the delivery of home tuition, or
+
+(iii) employed in teaching vulnerable persons or children,
+
+and
+
+(*b*) the identity of the employer of that teacher the subject of that complaint is known to the Council,
+
+the Investigating Committee shall, as soon as reasonably practicable, inform that employer of that teacher of the complaint and the nature of that concern.]
+
+(4) Where the Director F38[refuses to refer a complaint] under *subsection (3)(b)*, the Director shall, within 21 days of the decision, inform F38[the complainant], by notice in writing, of the decision and the reasons for the decision and the notice shall state that F38[the complainant] may appeal the decision to the Investigating Committee within 21 days of the date of service of the notice.
+
+F39[(4A) Where an appeal is made by a complainant under *subsection (4)* within the time specified in that subsection, the Investigating Committee shall review the decision of the Director which is the subject of the appeal and either—
+
+(*a*) uphold that decision, or
+
+(*b*) quash that decision and proceed to hold an inquiry in respect of that complaint under *subsection (5)(a)*.]
+
+(5) F38[(*a*) Subject to *paragraph (b)*, the Investigating Committee shall hold an inquiry into the fitness to teach of a registered teacher in respect of each complaint—]
+
+F38[(i) referred to it by the Director under *subsection (3)(a)*, or
+
+(ii) to which *subsection (4A)(b)* applies.]
+
+(*b*) The Investigating Committee shall refuse to consider F38[a complaint] referred to in *paragraph (a)* where—
+
+(i) F38[the complaint] does not relate to the fitness to teach of a registered teacher,
+
+(ii) procedures established under *sections 24* and *28* of the Education Act, 1998, F40[...] have not been exhausted, save where there are good and sufficient reasons for considering F38[the complaint] notwithstanding that fact, or
+
+(iii) F41[...]
+
+F38[(6) Where the Investigating Committee refuses under *paragraph (b)* of *subsection (5)* to consider a complaint referred to in *paragraph (a)* of that subsection, the Investigating Committee shall, within 21 days of such refusal, by notice in writing inform the complainant of its decision to refuse and the reasons for that decision.]
+
+F38[(7) (*a*) Where the Investigating Committee decides to hold an inquiry, the Investigating Committee shall, within 21 days of making the decision, provide the registered teacher with—
+
+(i) a copy of the complaint and any documents and information accompanying the complaint including, in the case of a complaint made under *subsection (1D)* or a complaint made under *subsection (1)(g)* to which *subsection (1E)* applies, a copy of the vetting disclosure referred to in *subsection (1D)* or *(1E)*, as the case may be, and confirmation of the information contained in that disclosure which grounds the complaint under *subsection (1D)* or *subsection (1)(g)*, as the case may be, and
+
+(ii) a notice stating that the registered teacher may make submissions in writing to the Investigating Committee within such time period as is specified in the notice, including submissions in relation to a vetting disclosure (if any) provided in accordance with *subparagraph (i)*.
+
+(*b*) The Investigating Committee shall consider submissions (if any) made by the registered teacher concerned pursuant to *paragraph (a)(ii)*.
+
+(*c*) The Investigating Committee may consider—
+
+(i) in the case of a complaint made under *subsection (1D)*, the information contained in the vetting disclosure in so far as that information grounds the complaint under, and in accordance with, that subsection, and
+
+(ii) in the case of a complaint made under *subsection (1)(g)* to which *subsection (1E)* applies, the information contained in the vetting disclosure in so far as the information grounds the complaint under *subsection (1)(g)*.]
+
+F39[(7A) (*a*) Where the Investigating Committee decides to hold an inquiry in respect of a registered teacher and the Committee considers that the complaint under *subsection (1)* is of such a nature as to reasonably give rise to a bona fide concern that that teacher may—
+
+(i) harm any child or vulnerable person,
+
+(ii) cause any child or vulnerable person to be harmed,
+
+(iii) put any child or vulnerable person at risk of harm,
+
+(iv) attempt to harm any child or vulnerable person, or
+
+(v) incite another person to harm any child or vulnerable person,
+
+the Committee shall request the Council to apply to the National Vetting Bureau for a vetting disclosure in respect of that teacher.
+
+(*b*) Where the Investigating Committee receives a vetting disclosure under *paragraph (a)* it shall provide the registered teacher concerned with a copy of the disclosure and invite the teacher to make submissions in writing to the Committee in relation to the disclosure within such time period as is specified in the notice.
+
+(*c*) The Investigating Committee shall consider submissions (if any) made by the registered teacher concerned under *paragraph (b)*.
+
+(7B) Subject to *subsection (7C)*, the Investigating Committee may consider the information contained in a vetting disclosure obtained under *subsection (7A)* in so far as the information relates to the conduct the subject of the complaint, for the purposes of its inquiry.
+
+(7C) Where a vetting disclosure obtained by the Council under *subsection (7A)* in respect of a teacher contains specified information and that specified information relates to conduct of the teacher which occurred prior to the coming into operation of section 20 of the Act of 2015, the Investigating Committee may not consider that information for the purposes of *subsection (7B)* unless the conduct concerned would have constituted a criminal offence at the time the conduct occurred.]
+
+(8) F38[(*a*) The Investigating Committee may, by notice in writing to the complainant, do one or more of the following:
+
+(i) require the complainant to verify, by affidavit or otherwise, within such reasonable period as is specified in the notice, anything contained in the complaint under this section;
+
+(ii) request the complainant to supply to the Committee, within such reasonable period as is specified in the notice, such additional information as the Committee may reasonably require relating to the matter which is the subject of the complaint;
+
+(iii) require that the information requested under subparagraph (ii) be supplied by the complainant by means of a statutory declaration;
+
+(iv) require the complainant to supply to the Committee, within such reasonable period as is specified in the notice, such documents as the Committee may reasonably require relating to the complaint as are specified in the notice.]
+
+F39[(*aa*) The Investigating Committee may refuse to consider or further consider a complaint under this section if the complainant, without reasonable excuse, does not comply with a notice under *paragraph (a)* within the period of time specified in the notice.
+
+(*ab*) The Investigating Committee may, by notice in writing to the registered teacher who is the subject of a complaint under this section, require the teacher to furnish to the Committee within such reasonable period of time as is specified in the notice, such information or documents relating to the complaint as is specified in the notice.
+
+(*ac*) A registered teacher shall comply with a notice given to him or her under *paragraph (ab)*.
+
+(*ad*) The Investigating Committee may, for the purposes of considering a complaint under this section—
+
+(i) require—
+
+(I) any school where the teacher is or was employed as a teacher, or
+
+(II) any other person the Committee has reason to believe holds information that is material to the complaint under consideration,
+
+to provide such information or documents that may reasonably be required by the Committee within such reasonable period of time as is specified in writing by that Committee to the school or other person concerned, and
+
+(ii) obtain such expert advice or assistance as it considers appropriate.
+
+(*ae*) A school or other person referred to in *paragraph (ad)(i)* shall comply with the requirement within the period of time specified in writing by the Committee.
+
+(*af*) The Investigating Committee may, for the purposes of considering a complaint under this section, by notice in writing invite any school where the teacher is or was employed as a teacher to make submissions in writing to the Committee within 21 days of receipt of the notice by the school.]
+
+(*b*) In the case of alleged medical unfitness, the Council may make regulations which provide for the submission of medical evidence, the making of representations and attendance for medical examination.
+
+F38[(9) Following its inquiry, the Investigating Committee shall—
+
+(*a*) where it is of the opinion that there is a prima facie case to warrant further action being taken in relation to a complaint, make a decision to refer the complaint, in whole or in part, to the Disciplinary Committee, or
+
+(*b*) where it is of the opinion that there is no prima facie case to warrant further action being taken in relation to a complaint, make a decision to refuse to refer the complaint to the Disciplinary Committee.]
+
+(10) F38[The Investigating Committee shall, within 21 days of making a decision under *subsection (9)*], provide a copy of the decision and, in the case of a decision under *paragraph (b)*, the reasons for the decision, to the following persons—
+
+(*a*) F38[the complainant],
+
+(*b*) the registered teacher, and
+
+(*c*) where the registered teacher is employed as a teacher, his or her employer.
+
+F39[(11) In this section, "document" includes—
+
+(*a*) a book, record or other printed material,
+
+(*b*) a photograph,
+
+(*c*) any information stored, maintained or preserved by means of any mechanical or electronic device, whether or not stored, maintained or preserved in legible form, and
+
+(*d*) any audio or video recording.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F38: Substituted (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 20(a), (b), (c)(i), (ii), (g)(i), (ii)(I), (II), (h), (i), (k), (m), (n), S.I. No. 408 of 2016.
+>
+> F39: Inserted (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 20(a), (c)(iii), (d), (f), (j), (l), (o), S.I. No. 408 of 2016.
+>
+> F40: Deleted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72(1) and sch. 6 item 33, S.I. No. 211 of 2013.
+>
+> F41: Deleted (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 20(g)(ii)(III), S.I. No. 408 of 2016.
+>
+> **Editorial Notes:**
+>
+> E49: Power pursuant to subs. (8)(b) exercised (25.07.2016) by *Teaching Council (Evidence, Representations and Examination in Case of Alleged Medical Unfitness) Regulations 2016* (S.I. No. 410 of 2016).
+>
+> E50: Previous affecting provision: subs. (1)(a) amended (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72(1) and sch. 6, item 33; substituted as per F-note above.
+
+### 43. Inquiry by Disciplinary Committee
+
+F42[**43.**—(1) The Disciplinary Committee shall hold an inquiry into the fitness to teach of a registered teacher in respect of a complaint referred to it by the Investigating Committee under *section 42(9)(a)*.
+
+(2) As soon as is practicable after a complaint is referred to it under *section 42(9)(a)*, the Disciplinary Committee shall cause a notice in writing to be given to—
+
+(*a*) the registered teacher the subject of the complaint of the following:
+
+(i) the referral of the complaint to the Disciplinary Committee;
+
+(ii) the nature of the matter that is to be the subject of the inquiry, including the particulars of any evidence in support of the complaint;
+
+(iii) the opportunity for the registered teacher to request that the inquiry be held by examination of documents in accordance with *subsection (4)*;
+
+(iv) if a hearing is being held as part of an inquiry, the opportunity for the registered teacher, or the registered teacher’s representative, to be present and to defend the registered teacher at the hearing;
+
+(v) if a hearing is being held as part of an inquiry, the opportunity for the registered teacher to request that some or all of the hearing be held otherwise than in public if the registered teacher can show reasonable and sufficient cause;
+
+and
+
+(*b*) if a hearing is being held as part of an inquiry, any witnesses who may be required to give evidence at the hearing (including, where appropriate, the complainant) of the opportunity of the witness to request that some or all of the hearing be held otherwise than in public if the witness can show reasonable and sufficient cause.
+
+(3) For the purpose of an inquiry under this section, the chairperson of the Disciplinary Committee shall appoint, from among the members of the Disciplinary Committee, a panel consisting of not less than 3 and not more than 5 persons, of whom a majority shall be registered teachers and *Schedule 3* shall apply.
+
+(4) Subject to such rules as may be made under *Schedule 3*, a panel may, at the request of, or with the consent of, the registered teacher concerned hold an inquiry under this section by an examination of documents and written submissions from the complainant and the registered teacher, including any documents and written submissions considered by the Investigating Committee in relation to the complaint, in place of a hearing.
+
+(5) For the purposes of an inquiry under this section by an examination of documents, the panel shall provide the registered teacher with a notice stating that the registered teacher may make submissions in relation to the inquiry in writing to the panel within such time as may be specified in the notice.
+
+(6) A panel may, at any time after its appointment under *subsection (3)* and having considered the complaint the subject of the inquiry, request the registered teacher who is the subject of the complaint to do one or more of the following:
+
+(*a*) if appropriate, undertake not to repeat the conduct the subject of the complaint;
+
+(*b*) undertake to attend a specified professional development course, or such other course as the panel considers appropriate;
+
+(*c*) undertake to comply with such requirements as may be specified for the purposes of improving his or her competence and performance as a registered teacher;
+
+(*d*) consent to seek the assistance of such services relating to health and welfare as may be specified;
+
+(*e*) consent to being censured.
+
+(7) Where a registered teacher gives an undertaking or consent in relation to all matters which are the subject of a request from a panel under *subsection (6)*, the inquiry into the complaint shall be considered to be completed.
+
+(8) Where a registered teacher refuses to give an undertaking or consent in relation to all matters which are the subject of a request from a panel under *subsection (6)*, the panel shall continue with the inquiry as if the request had not been made.
+
+(9) Where a hearing is being held before a panel as part of an inquiry, the hearing shall be held in public unless—
+
+(*a*) following a notification under *section 43(2)*, the registered teacher or a witness who will be required to give evidence at the inquiry or about whom personal matters may be disclosed at the inquiry requests the panel to hold all or part of the hearing otherwise than in public, and
+
+(*b*) the panel is satisfied that it would be appropriate in the circumstances to hold the hearing or part of the hearing otherwise than in public.
+
+(10) The panel shall give notice in writing to the registered teacher the subject of a complaint referred to the Disciplinary Committee of the date, time and place of any hearing of the complaint in sufficient time for the registered teacher to prepare for the hearing.
+
+(11) At the hearing of a complaint before a panel—
+
+(*a*) the Director, or any other person with leave of the panel, shall present the evidence in support of the complaint,
+
+(*b*) the testimony of witnesses attending the hearing shall be given on oath, and
+
+(*c*) there shall be a full right to cross-examine witnesses and call evidence in defence and reply.
+
+(12) Any member of the panel may administer oaths for the purposes of an inquiry.
+
+(13) Subject to any rules in force under *Schedule 3*, and to the necessity of observing fair procedures, the panel may receive evidence given—
+
+(*a*) orally before the committee,
+
+(*b*) by affidavit, or
+
+(*c*) as otherwise allowed by those rules, including by means of a live video link, a video recording, a sound recording or any other mode of transmission.
+
+(14) A panel shall, for the purpose of an inquiry under this section, have the powers, rights and privileges vested in the High Court or a judge thereof in respect of—
+
+(*a*) the enforcement of the attendance of witnesses and their examination on oath or otherwise, and
+
+(*b*) the compelling of the production of documents,
+
+and a summons signed by the chairperson of the panel or by such other member of the panel as may be authorised by the panel for that purpose may be substituted for and shall be equivalent to any formal procedure capable of being issued in an action for enforcing the attendance of witnesses and compelling the production of documents.
+
+(15) For the purposes of an inquiry under this section, a panel may, in relation to a vetting disclosure, consider the information and submissions referred to in *section 43A*.
+
+(16) A witness before a panel shall be entitled to the same immunities and privileges as if he or she were a witness before the High Court.
+
+(17) Following the completion of an inquiry by a panel, the panel shall—
+
+(*a*) where it makes no finding against the registered teacher in respect of a complaint under any of *paragraphs (a) to (h)* of *subsection (1)* of *section 42*, dismiss the complaint,
+
+(*b*) where an inquiry is completed under *subsection (7)* or where the panel makes a finding or findings against the registered teacher in respect of a complaint under any of *paragraphs (a) to (h)* of *subsection (1)* of *section 42*, make a report of the inquiry and shall specify in the report—
+
+(i) the nature of the complaint,
+
+(ii) the evidence before the panel,
+
+(iii) where an inquiry is completed under *subsection (7)*, the measures included in the undertaking or consent,
+
+(iv) where it makes a finding or findings against the registered teacher in respect of a complaint under any of *paragraphs (a) to (h)* of *subsection (1)* of *section 42*, the panel’s finding or findings,
+
+(v) where any finding in respect of the registered teacher is in the terms of *section 42(1)(g),* its consideration of whether that finding affects the fitness to teach of the registered teacher, and
+
+(vi) any other matter in relation to the registered teacher which the panel considers appropriate,
+
+(*c*) where it is satisfied, in respect of a complaint made under *subsection (1D)* of *section 42*, having regard to the protection of children and vulnerable persons, that there is a risk that the teacher may harm any child or vulnerable person, cause any child or vulnerable person to be harmed, put any child or vulnerable person at risk of harm, attempt to harm any child or vulnerable person, or incite another person to harm any child or vulnerable person, make a report of the inquiry and shall specify in the report—
+
+(i) the nature of the information disclosed in the vetting disclosure giving rise to the complaint under that subsection,
+
+(ii) the evidence laid before the panel,
+
+(iii) its assessment of the risk concerned, and
+
+(iv) its conclusion in respect of that risk,
+
+or
+
+(*d*) where it is not satisfied, in respect of a complaint made under *subsection (1D)* of *section 42*, having regard to the protection of children and vulnerable persons, that there is a risk that the teacher may harm any child or vulnerable person, cause any child or vulnerable person to be harmed, put any child or vulnerable person at risk of harm, attempt to harm any child or vulnerable person, or incite another person to harm any child or vulnerable person, dismiss the complaint.
+
+(18) Where the panel dismisses a complaint under *subsection (17)*, the panel shall, as soon as practicable, by notice in writing, inform—
+
+(*a*) the complainant,
+
+(*b*) the registered teacher concerned and such other persons as the teacher may request, and
+
+(*c*) where the teacher is employed as a teacher, his or her employer,
+
+and shall, at the request of the registered teacher concerned, publish a notice to that effect in such form and manner as may be determined by the Council.
+
+(19) In this section, "document" includes—
+
+(*a*) a book, record or other printed material,
+
+(*b*) a photograph,
+
+(*c*) any information stored, maintained or preserved by means of any mechanical or electronic device, whether or not stored, maintained or preserved in legible form, and
+
+(*d*) any audio or video recording.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F42: Substituted (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 21, S.I. No. 408 of 2016.
+>
+> **Editorial Notes:**
+>
+> E51: Remote hearings under section enabled (9.02.2026) by *Civil Law and Criminal Law (Miscellaneous Provisions) Act 2020 (Section 31) Disciplinary Committee of the Teaching Council of Ireland (Designation) Order 2026* (S.I. No. 30 of 2026), art. 2, in operation as per art. 1(2).
+>
+> E52: Power pursuant to section exercised (25.07.2016) by *Teaching Council (Disciplinary Committee Panel Procedures) Rules 2016* (S.I. No. 411 of 2016).
+
+### 43A. Use of information in vetting disclosures in inquiry under section 43
+
+F43[**43A.**—(1) For the purposes of an inquiry under *section 43*, a panel may consider—
+
+(*a*) the information (in so far as that information relates to the conduct which is the subject of the inquiry) contained in a vetting disclosure obtained by the Investigating Committee under *subsection (7A)* of *section 42* subject to *subsection (7C)* of that section in like manner as *subsection (7C)* applies to the Investigating Committee, and
+
+(*b*) submissions (if any) made by the registered teacher concerned under *subsection (7A)(b)* of *section 42* to the Investigating Committee.
+
+(2) Where the Investigating Committee did not seek a vetting disclosure in respect of a registered teacher under *section 42(7A)* in relation to a complaint and a panel considers that the complaint referred to the Disciplinary Committee by the Investigating Committee under *section 42(9)(a)* is of such a nature as to reasonably give rise to a bona fide concern that that teacher may—
+
+(*a*) harm any child or vulnerable person,
+
+(*b*) cause any child or vulnerable person to be harmed,
+
+(*c*) put any child or vulnerable person at risk of harm,
+
+(*d*) attempt to harm any child or vulnerable person, or
+
+(*e*) incite another person to harm any child or vulnerable person,
+
+the panel may request the Council to apply to the National Vetting Bureau for a vetting disclosure in respect of that registered teacher.
+
+(3) Where a panel receives a vetting disclosure under *subsection (2)* in respect of a registered teacher, it shall provide the registered teacher concerned with a copy of the disclosure and invite that teacher to make submissions in writing to the panel in relation to the disclosure within such time period as is specified in the notice.
+
+(4) A panel shall consider submissions (if any) made by the registered teacher concerned under *subsection (3)*.
+
+(5) Subject to *subsection (6)*, a panel may, for the purpose of its inquiry, consider the information contained in a vetting disclosure obtained under *subsection (2)* in so far as the information relates to the conduct which is the subject of the complaint.
+
+(6) Where a vetting disclosure obtained by the Council under *subsection (2)* in respect of a registered teacher contains specified information and that specified information relates to conduct of the teacher which occurred prior to the coming into operation of section 20 of the Act of 2015, the panel may not consider that information for the purposes of *subsection (5)* unless the conduct concerned would have constituted a criminal offence at the time the conduct occurred.
+
+(7) For the purposes of an inquiry under *section 43* in relation to a complaint made under *subsection (1D)* of *section 42*, a panel may consider—
+
+(*a*) the information contained in a vetting disclosure referred to in that subsection in so far as the information grounds the complaint under, and in accordance with, that subsection, and
+
+(*b*) submissions (if any) made by the registered teacher concerned under *subsection (7)(a)(ii)* of *section 42* in so far as the submissions relate to that vetting disclosure.
+
+(8) For the purposes of an inquiry under *section 43* in relation to a complaint made under *subsection (1)(g)* to which *subsection (1E)* applies, a panel may consider—
+
+(*a*) the information contained in a vetting disclosure referred to in *subsection (1E)* in so far as the information grounds the complaint under *subsection (1)(g)*, and
+
+(*b*) submissions (if any) made by the registered teacher concerned under *subsection (7)(a)(ii)* of *section 42* in so far as the submissions relate to that vetting disclosure.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F43: Inserted (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 22, S.I. No. 408 of 2016.
+
+### 43B. Offences - panel inquiry
+
+F44[**43B.**—(1) A person commits an offence where he or she—
+
+(*a*) on being summoned to attend before a panel for the purpose of an inquiry under *section 43*, fails to attend,
+
+(*b*) in attendance as a witness before a panel under *section 43*, refuses—
+
+(i) to take an oath lawfully required by the panel to be taken,
+
+(ii) to produce any document in his or her power or control lawfully required by the panel to be produced by him or her, or
+
+(iii) to answer any question to which the panel may lawfully require an answer,
+
+or
+
+(*c*) in attendance before a panel, does anything which, if the panel were a court of law having power to commit for contempt, would be contempt of court.
+
+(2) A person who commits an offence under *subsection (1)* shall be liable on summary conviction to a class C fine.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F44: Inserted (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 23, S.I. No. 408 of 2016. A class C fine means a fine not greater than €2,500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(1), S.I. No. 662 of 2010.
+
+### 43C. Withdrawal of complaint
+
+F45[**43C.**—Where a complaint is withdrawn by the complainant—
+
+(*a*) while it is being considered by the Investigating Committee, the Committee may, with the agreement of the Council—
+
+(i) decide that no further action is to be taken in relation to the matter the subject of the complaint, or
+
+(ii) proceed as if the complaint had not been withdrawn,
+
+or
+
+(*b*) while it is being considered by a panel, the panel may, with the agreement of the Council—
+
+(i) decide that no further action is to be taken in relation to the matter the subject of the complaint, or
+
+(ii) proceed as if the complaint had not been withdrawn.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F45: Inserted (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 24, S.I. No. 408 of 2016.
+
+### 44. Removal or suspension from register or retention subject to conditions.
+
+**44.**—F46[(1) Subject to *subsection (1A)*, the panel may, having completed its report under *paragraph (b)* or *paragraph (c)* (as the case may be) of *subsection (17)* of *section 43*, make a decision—
+
+(*a*) that the registered teacher be removed from the register and that he or she is not eligible to apply to be restored to the register under *section 31* before the expiration of such period, beginning with the date of removal, as may be specified by the panel in the decision,
+
+(*b*) that the registered teacher be suspended from the register for the period specified by the panel which period shall not exceed 2 years,
+
+(*c*) that the registered teacher be retained on the register subject to all or any of the following conditions:
+
+(i) that the teacher seek the assistance of such service relating to teacher health and welfare as may be available;
+
+(ii) that the teacher attend a specified professional development course, or such other course as the panel considers appropriate;
+
+(iii) the period within which the teacher shall comply with the conditions of the retention on the register;
+
+(iv) such other conditions as the panel thinks fit,
+
+(*d*) to advise, admonish or censure the registered teacher in writing.]
+
+F47[(1A) If the report referred to in *subsection (1)* contains the measures included in a consent or undertaking in accordance with *section 43(17)(b)(iii)*, then the panel shall make a decision to confirm those measures.]
+
+(2) F46[The Disciplinary Committee shall], by notice in writing, within 21 days of the making of the decision provide a copy of the decision and the reasons for the decision to—
+
+(*a*) F46[the complainant],
+
+(*b*) the registered teacher,
+
+(*c*) where the registered teacher is employed as a teacher, his or her employer, and
+
+(*d*) the Minister.
+
+(3) F46[A registered teacher may, within 21 days of the date of service of a notice under *subsection (2)*, apply to the High Court for annulment of the decision (other than a decision to advise, admonish or censure under *subsection (1)(d)* or a decision under *subsection (1A)*)] and the Court, on hearing the application, may—
+
+(*a*) annul the decision,
+
+(*b*) confirm the decision and as the Court considers appropriate—
+
+(i) direct the Council to remove the registered teacher from the register,
+
+(ii) direct that during a specified period (which period shall commence not earlier than 7 days after the date of the decision of the Court and shall not exceed 2 years) registration shall be suspended, or
+
+(iii) direct the Council to retain the registration subject to such conditions (if any) as the Court considers appropriate,
+
+(*c*) vary the decision F48[...], or
+
+(*d*) give such other directions to the Council as the Court considers appropriate.
+
+and the Court may make such order as to costs as it considers appropriate.
+
+(4) If at any time the Council satisfies the High Court that the registered teacher has delayed unduly in proceeding with an application under *subsection (3)*, the Court shall, unless it sees good reason to the contrary, confirm the decision or may give such other directions to the Council as the Court considers appropriate and may make such order as to costs as it considers appropriate.
+
+(5) F46[Where a registered teacher does not apply to the High Court under *subsection (3)* for annulment of the decision (other than a decision to advise, admonish or censure under *subsection (1)(d)* or a decision under *subsection (1A)*)], the Council shall, within 21 days of the expiry of the period for making an application under that subsection, or such further period as the High Court considers just and equitable in the circumstances, apply ex parte to the High Court for confirmation of the decision and, where the Council so applies, the Court, on the hearing of the application shall, unless it sees good reason to the contrary, confirm the decision or may give such other directions to the Council as the Court considers appropriate and may make such order as to costs as it considers appropriate.
+
+(6) The decision of the High Court on an application under this section shall be final save that, by leave of the High Court or the F46[Court of Appeal], an appeal by the Council or the registered teacher, from that decision, shall lie to the F46[Court of Appeal] on a specified question of law.
+
+F47[(6A) Where—
+
+(*a*) the decision of the High Court on an application under this section results in a registered teacher being removed from the register or the registration of a teacher being suspended,
+
+(*b*) the High Court or the Court of Appeal grants leave to a teacher under *subsection (6)* to appeal a decision of the High Court to the Court of Appeal on a specified question of law,
+
+(*c*) at the date of the grant of leave the teacher is employed as a teacher in a recognised school, and
+
+(*d*) that teacher is remunerated in respect of his or her employment out of moneys provided by the Oireachtas,
+
+the High Court or the Court of Appeal, as the case may be, shall at the same time as it grants such leave to appeal direct whether that teacher shall continue to be remunerated pursuant to his or her contract of employment out of moneys provided by the Oireachtas pending the determination of that appeal.
+
+(6B) A direction of the High Court or the Court of Appeal under *subsection (6A)* that a teacher shall continue to be remunerated shall be subject to such terms and be for such period as the High Court or the Court of Appeal considers appropriate.]
+
+(7) Following a decision under this section by the High Court or the F46[Court of Appeal], as the case may be, the Council shall, as soon as practicable, by notice in writing inform the teacher, F46[the complainant], the Minister and, where the teacher is employed as a teacher, his or her employer, of the decision.
+
+(8) A person who has been removed from the register under this section may apply to the Council to be registered on the expiration of the period, specified under this section, within which he or she shall not be eligible to apply to be restored to the register, and *section 31* shall apply.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F46: Substituted (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 25(a), (c), (d)(i), (e), (f), (h), S.I. No. 408 of 2016.
+>
+> F47: Inserted (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 25(b), (g), S.I. No. 408 of 2016.
+>
+> F48: Deleted (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 25(d)(ii), S.I. No. 408 of 2016.
+
+### 45. Compliance with conditions of retention on register.
+
+**45.**—(1) (*a*) Where a registered teacher is retained on the register subject to conditions in accordance with *section 44(1)(c)*, including a condition as to the period within which those conditions shall be complied with, the teacher may apply in writing to the Disciplinary Committee, within the period specified, for an extension of that period.
+
+(*b*) Any extension of the specified period shall be at the discretion of the Disciplinary Committee.
+
+(2) Where a person fails to comply with the conditions referred to in *subsection (1)* within the specified period or any extension of that period, he or she shall be removed from the register and *section 44* shall apply as if removal under this subsection were removal under *section 44*.
+
+F49[(2A) Where a person fails to comply with any condition imposed on the person under *section 44(3)(b)(iii)*, he or she shall be removed from the register.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F49: Inserted (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 26, S.I. No. 408 of 2016.
+
+### 46. Termination of suspension from register.
+
+**46.**—Where a registered teacher has been suspended from the register under *section 44*, on the expiration of the period of suspension specified under that section, he or she shall be restored to the register subject to the payment of such fee as may be prescribed under *section 23*.
+
+### 46A. Notification to Minister, employer and other body of certain matters relating to sanctions
+
+F50[**46A.**—(1) Where it comes to the Council’s attention that, under the law of a state other than the State, a decision corresponding to a decision referred to in any of *paragraphs (a) to (d)* of *section 44(1)* has been taken in relation to a registered teacher, the Council shall, as soon as practicable, give notice in writing to the Minister and where the registered teacher is employed as a teacher, to his or her employer (if known), of the decision.
+
+(2) Where—
+
+(*a*) a decision takes effect under this Part in relation to a registered teacher to remove the teacher from the register, suspend the teacher from the register, retain the teacher on the register subject to conditions or to advise, censure or admonish the teacher, and
+
+(*b*) the Council has reason to believe that—
+
+(i) the teacher is registered in another jurisdiction, and
+
+(ii) the decision referred to in *paragraph (a)* may not have come to the attention of a body duly authorised to perform functions in that jurisdiction that correspond to the functions of the Council,
+
+the Council shall give notice in writing to the body of the decision referred to in *paragraph (a)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F50: Inserted (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 27, S.I. No. 408 of 2016.
+
+### 46B. Information Council may publish in public interest
+
+F51[**46B.**—The Council, if satisfied that it is in the public interest to do so shall—
+
+(*a*) advise the public when—
+
+(i) a decision takes effect under this Part in relation to a registered teacher to remove the teacher from the register, suspend the teacher from the register, retain the teacher on the register subject to conditions or to advise, censure or admonish the teacher, or
+
+(ii) a decision referred to in *section 46A(1)* comes to the attention of the Council,
+
+and
+
+(*b*) following consultation with the Disciplinary Committee, publish (with or without any information which would enable any party to an inquiry to be identified)—
+
+(i) the findings of a panel under *section 43(17)(b)*, and
+
+(ii) the decision of a panel under *section 44(1)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F51: Inserted (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 28, S.I. No. 408 of 2016.
+
+### 47. Application by Council to High Court for order suspending registration.
+
+**47.**—(1) Where the Council is satisfied that it is in the public interest, the Council may, in relation to a registered teacher, apply to the High Court for an order that during the period specified in the order his or her registration shall be suspended.
+
+(2) An application under this section may be made in a summary manner and shall be heard otherwise than in public.
+
+(3) The High Court may, on an application being made to it under this section, make such interim or interlocutory order (if any) as it considers appropriate.
+
+F52[(3A) Where—
+
+(*a*) the High Court makes an interim or interlocutory order under *subsection (3)* that the registration of a teacher be suspended,
+
+(*b*) at the date of making the order the teacher is employed as a teacher in a recognised school, and
+
+(*c*) that teacher is remunerated in respect of his or her employment out of moneys provided by the Oireachtas,
+
+the High Court shall include in the order a direction as to whether that teacher shall continue to be remunerated pursuant to his or her contract of employment out of moneys provided by the Oireachtas.
+
+(3B) A direction of the High Court under *subsection (3A)* that a teacher continue to be remunerated shall be subject to such terms and be for such period (not exceeding the period specified in the order for which registration is suspended) as the High Court considers appropriate.]
+
+(4) Following a decision under this section by the High Court, the Council shall, as soon as practicable, by notice in writing, inform the teacher, the Minister and, where the teacher is employed as a teacher, his or her employer, of the decision.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F52: Inserted (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 29, S.I. No. 408 of 2016.
+
+## PART 6Dissolution of Registration Council — PART 6 — Dissolution of Registration Council
+
+### 48. Repeal of Intermediate Education (Ireland) Act, 1914.
+
+**48.**—The Intermediate Education (Ireland) Act, 1914, is repealed with effect from the establishment day.
+
+### 49. Dissolution of Registration Council.
+
+**49.**—(1) The Registration Council shall, on the establishment day, become and be dissolved.
+
+(2) References to the Registration Council in an enactment (other than this Act) or in an instrument made thereunder or in the memorandum or articles of association of any company (within the meaning of the Companies Acts, 1963 to 1999) or any other legal document shall be construed, on and after the establishment day, as references to the Council.
+
+### 50. Pending legal proceedings.
+
+**50.**—(1) Where, immediately before the establishment day, any legal proceedings are pending in any court or tribunal and the Registration Council or any trustee or agent acting on its behalf is a party to the proceedings, the name of the Council shall be substituted in the proceedings for that of the Registration Council or, as the case may be, the trustee or agent, or added in those proceedings as may be appropriate, and those proceedings shall not abate by reason of the substitution.
+
+(2) The Minister shall, out of moneys provided by the Oireachtas, indemnify the Council against all costs incurred by it in or in connection with legal proceedings referred to in *subsection (1)*.
+
+### 51. Transfer of assets and liabilities.
+
+**51.**—(1) With effect from the establishment day the following are transferred to the Council—
+
+(*a*) all rights and property and rights relating to such property held or enjoyed immediately before that day by the Registration Council or any trustee or agent acting on its behalf, and
+
+(*b*) all liabilities incurred before that day by the Registration Council or any trustee or agent acting on its behalf that had not been discharged before that day,
+
+and, accordingly, without any further conveyance, transfer or assignment—
+
+(i) the said property, real and personal, shall, on that day, vest in the Council for all the estate, term or interest for which, immediately before that day, it was vested in the Registration Council or any trustee or agent acting on its behalf, but subject to all trusts and equities affecting the property and capable of being performed,
+
+(ii) those rights shall, on and from that day, be enjoyed by the Council, and
+
+(iii) those liabilities shall, on and from that day, be liabilities of the Council.
+
+(2) All moneys, stocks, shares and securities transferred to the Council by this section which, immediately before the establishment day, are standing in the name of the Registration Council or any trustee or agent thereof, shall, upon the request of the Council, be transferred into its name.
+
+(3) Every right and liability transferred to the Council by this section may, on and after the establishment day, be sued on, recovered or enforced by or against the Council in its own name and it shall not be necessary for the Council to give notice of the transfer to the person whose right or liability is transferred by this section.
+
+(4) The Council shall not, without the consent of the Minister, dispose of any part of any land or any interest therein transferred to or vested in the Council under this section.
+
+### 52. Preservation of certain continuing contracts and adaptation of references.
+
+**52.**—Every bond, guarantee or other security of a continuing nature made or given by or on behalf of the Registration Council to any person or given by any person to and accepted by or on behalf of the Registration Council and every contract or agreement made between the Registration Council, or any trustee or agent acting on its behalf, and any other person, and in force but not fully executed and completed immediately before the establishment day shall continue in force on and after that day and shall be construed and have effect as if the name of the Council were substituted therein for that of the Registration Council or, as the case may be, any trustee or agent acting on its behalf, and shall be enforceable by or against the Council.
+
+## PART 7Miscellaneous — PART 7 — Miscellaneous
+
+### 53. Arrangements with persons to assist Council.
+
+**53.**—The Council may make and carry out arrangements with any person or body of persons for the purpose of assisting the Council or any of its committees in the proper discharge of its functions.
+
+### 54. Assignment of additional functions.
+
+**54.**—The Minister may by regulation, from time to time, as he or she considers necessary or appropriate, following consultation with the Council and any other Minister of the Government who in the opinion of the Minister is concerned, confer on the Council such additional functions and, consequentially, modify any existing function of the Council, connected with or relating to—
+
+(*a*) teacher education and training or any other matter relating to the teaching profession and teachers, or
+
+(*b*) the services or activities that the Council is authorised for the time being to provide or carry on,
+
+including functions for the purpose of giving effect to—
+
+(i) any provision of the treaties governing the European Communities,
+
+(ii) any directive, regulation or other act adopted by an institution of the European Communities, or
+
+(iii) a judgement of the European Court of Justice,
+
+relating to teachers or the teaching profession.
+
+### 55. Annual report.
+
+**55.**—(1) Subject to *subsection (2)*, the Council shall prepare and publish, in such form and manner as it considers appropriate, a report of its activities and proceedings under this Act.
+
+(2) A report under *subsection (1)* shall be prepared—
+
+(*a*) in the case of the first such report, at the end of one year after the establishment day, and
+
+(*b*) thereafter, at the end of one year following the preparation of the preceding report.
+
+(3) The Council shall provide the Minister with a copy of the report and the Minister shall cause the report to be laid before each House of the Oireachtas.
+
+### 56. Offences and penalties in relation to register.
+
+**56.**—A person who—
+
+(*a*) falsely represents that he or she is a registered teacher, or
+
+(*b*) fraudulently makes use of a certificate of registration issued under this Act to such person or to any other person, or
+
+(*c*) makes, or causes to be made, any false declaration or representation for the purpose of obtaining registration under this Act or aids or abets any other person in the making of any such false declaration or representation,
+
+shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £1,500 or to imprisonment for a term not exceeding 12 months or, at the discretion of the court, to both such fine and imprisonment.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E53: A fine of £1,500 converted (1.01.1999) to €1,904.60. This translates into a class C fine, not exceeding €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 57. Disclosure of interests.
+
+**57.**—(1) Where a member or employee (including the Director) of the Council or a member of a committee, or a consultant, adviser or other person engaged by the Council, has a pecuniary interest or other beneficial interest in, or material to, any matter which falls to be considered by the Council or a committee, he or she shall comply with the following requirements:
+
+(*a*) he or she shall disclose to the Council or committee, as the case may be, the fact of such interest and the nature of the interest in advance of any consideration of the matter;
+
+(*b*) he or she shall neither influence nor seek to influence a decision in relation to the matter;
+
+(*c*) he or she shall take no part in any consideration of the matter;
+
+(*d*) if he or she is a member or employee of the Council or a member of a committee, he or she shall withdraw from the meeting concerned for so long as the matter is being discussed or considered and shall not vote or otherwise act as such member or employee in relation to the matter;
+
+(*e*) he or she shall not vote on a decision relating to the matter.
+
+(2) For the purposes of this section, but without prejudice to the generality of *subsection (1)*, a person shall be regarded as having a beneficial interest if—
+
+(*a*) the person or any member of his or her household, or any nominee of his or her or of any member of his or her household, is a member of a company or any other body which has a beneficial interest in, or material to, a matter referred to in that subsection,
+
+(*b*) the person or any member of his or her household is in partnership with or is in the employment of a person who has a beneficial interest in, or material to, such a matter,
+
+(*c*) the person or any member of his or her household is a party to any arrangement or agreement (whether or not enforceable) concerning land to which such a matter relates, or
+
+(*d*) any member of his or her household has a beneficial interest in, or material to, such a matter.
+
+(3) For the purposes of this section a person shall not be regarded as having a beneficial interest in, or material to, any matter by reason only of an interest of the person or of any company or of any other body or person mentioned in *subsection (2)* which is so remote or insignificant that it cannot reasonably be regarded as likely to influence a person in considering, discussing or in voting on, any question with respect to the matter, or in performing any function in relation to that matter.
+
+(4) Where at a meeting of the Council a question arises as to whether or not a course of conduct, if pursued by a person, would constitute a failure by the person to comply with the requirements of *subsection (1)*, the question shall be determined by the Council, whose decision shall be final, and particulars of the determination shall be recorded in the minutes of the meeting.
+
+(5) Where a disclosure is made under this section, the disclosure shall be recorded in the minutes of the meeting concerned and, for so long as the matter to which the disclosure relates is being considered or discussed by the meeting, the person by whom the disclosure is made, where he or she is a member of the Council, shall not be counted in the quorum for the meeting unless the Council otherwise determines.
+
+(6) Subject to *paragraph 3(2)* of *Schedule 1*, where a person referred to in this section fails to make a disclosure in accordance with this section, the Council or committee, as the case may be, shall decide the appropriate action to be taken.
+
+### 58. Disclosure of information.
+
+**58.**—(1) Save as otherwise provided by law and subject to *subsection (3)*, a person shall not, without the consent of the Council, disclose confidential information obtained by him or her while carrying out, or as a result of having carried out, duties as—
+
+(*a*) a member of the Council,
+
+(*b*) an employee of the Council (including the Director),
+
+(*c*) a member of a committee, or
+
+(*d*) an adviser or consultant to the Council or a committee or an employee of such person.
+
+(2) A person who contravenes *subsection (1)* shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £1,500.
+
+(3) Nothing in *subsection (1)* shall prohibit the disclosure of information by means of a report made to the Council or, by or on behalf of the Council, to the Minister.
+
+(4) In this section “confidential information” includes information that is expressed by the Council or a committee, as the case may be, to be confidential either as regards particular information or as regards information of a particular class or description.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E54: A fine of £1,500 converted (1.01.1999) to €1,904.60. This translates into a class C fine, not exceeding €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 59. Privilege in respect of certain matters.
+
+**59.**—(1) Utterances made by a person to whom this section applies for the purposes of the performance of the functions of the Council or a committee under this Act, shall be absolutely privileged and such utterances, and documents, or records, in any form prepared by a person to whom this section applies, for the purpose of such performance and reports of the Council or a committee, shall be absolutely privileged wherever and however published.
+
+(2) In this section “a person to whom this section applies” means—
+
+(*a*) a member of the Council,
+
+(*b*) an employee of the Council,
+
+(*c*) a member of a committee, or
+
+(*d*) an adviser or consultant to the Council or a committee or an employee of such person.
+
+### 60. Non- admissibility of certain evidence
+
+F53[**60.**—A statement or admission made by a person to a panel in relation to a complaint brought under *Part 5* shall not be admissible as evidence in proceedings brought against the person for an offence (other than an offence under *section 43B*).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F53: Substituted (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 30, S.I. No. 408 of 2016.
+
+### 61. Prosecution of offences.
+
+**61.**—(1) Proceedings in relation to an offence under this Act may be brought and prosecuted by the Council.
+
+(2) Notwithstanding section 10(4) of the Petty Sessions (Ireland) Act, 1851, summary proceedings for an offence under this Act may be instituted within 12 months from the date of the offence.
+
+### 62. Service of notices.
+
+**62.**—(1) Subject to *subsection (4)*, a notice required to be served or given by or under this Act shall be addressed to the person concerned and served or given in one of the following ways:
+
+(*a*) by addressing it to the person by name and delivering it to him or her;
+
+(*b*) by leaving it at the address at which the person ordinarily resides;
+
+(*c*) by sending it by post in a prepaid registered letter addressed to the person at the address at which he or she ordinarily resides;
+
+(*d*) if an address for the service of notices has been furnished by the person, by leaving it at, or sending it by prepaid registered post addressed to him or her, to that address.
+
+(2) Where the name of the person concerned cannot be ascertained by reasonable inquiry, a notice under this Act may be addressed to “the occupier”, “the owner” or “the person in charge”, as the case may be.
+
+(3) For the purposes of this section, a company registered under the Companies Acts, 1963 to 1999, shall be deemed to be ordinarily resident at its registered office, and every other body corporate and every unincorporated body shall be deemed to be ordinarily resident at its principal office or place of business.
+
+(4) *Subsection (1)* shall not apply to a notice referred to in *Schedule 1*.
+
+## SCHEDULE 1
+
+Membership and Meetings of Council
+
+1\. In this Schedule, except where the context otherwise requires, “member” means a member of the Council, including the chairperson.
+
+2\. (1) The Council shall, as soon as practicable after its establishment, provide itself with and retain in its possession a seal.
+
+(2) The seal of the Council shall be authenticated by the signature of—
+
+(*a*) the chairperson of the Council or other member of the Council authorised by the Council to act in that behalf, and
+
+(*b*) an employee of the Council authorised by the Council to act in that behalf.
+
+(3) Judicial notice shall be taken of the seal of the Council and an instrument purporting to be an instrument made by the Council and to be sealed with its seal (purporting to be authenticated in accordance with *subparagraph (2)*) shall be received in evidence and be deemed to be such instrument without further proof unless the contrary is shown.
+
+3\. (1) The Minister may at any time, for stated reasons, remove from office a member who was appointed to the Council by the Minister under *section 8(2)(g)*.
+
+(2) The Council may at any time, for stated reasons, remove a member from office (including, subject to *paragraph 6(2)(c)*, the chairperson) other than a member appointed to the Council by the Minister under *section 8(2)(g)*.
+
+(3) A member (other than the chairperson) may at any time resign from office as a member by notice in writing to the chairperson and the resignation shall take effect on the date of the meeting of the Council next held after receipt by the Council of the notice.
+
+(4) A registered teacher elected or nominated as a member under *section 8(2)(a)* or *(b)* shall cease to be a member on his or her ceasing to be a registered teacher.
+
+(5) A member (including the chairperson) who is absent from all meetings of the Council for 6 consecutive months, unless the absence was due to illness or was approved of by the Council, shall cease to be a member at the expiration of that period.
+
+4\. (1) Subject to *paragraph 5*, the Minister, when appointing members under *section 8*, shall specify each member's term of office which—
+
+(*a*) in the case of a member of the first Council, shall not exceed 3 years, and
+
+(*b*) in the case of a member of each subsequent Council, shall not exceed 4 years,
+
+unless the member dies, resigns or becomes disqualified.
+
+(2) (*a*) Subject to *clause (b)*, a member shall not serve more than 2 consecutive terms of office.
+
+(*b*) A term of office as a member of the first Council shall not be included for the purposes of *clause (a)*.
+
+(3) The terms of office referred to in *subparagraph (2)* shall include any term of office as chairperson.
+
+5\. (1) Where a casual vacancy occurs among the members (other than the chairperson or those appointed by election) the Council shall, as soon as practicable, notify the Minister who shall, as soon as practicable, following consultation with such body or organisation as he or she considers appropriate, appoint a person to fill such a casual vacancy and a person so appointed shall, subject to this Schedule, hold office for the remainder of the term of office of the member whose death, resignation, removal from office or ceasing for any other reason to hold office occasioned the casual vacancy.
+
+(2) Where a casual vacancy occurs among the members appointed by election, the Council shall co-opt a person who would, under this Act, be eligible to be so appointed and a person so co-opted shall hold office as a member for the remainder of the term of office of the member whose death, resignation, removal from office or ceasing for any other reason to hold office occasioned the casual vacancy.
+
+6\. (1) The Council shall, from time to time, elect from among its members—
+
+(*a*) a chairperson, and
+
+(*b*) a deputy chairperson.
+
+(2) The chairperson and deputy chairperson shall each hold office for such term as may be specified by the Council at the time of his or her appointment, unless—
+
+(*a*) he or she ceases to be, or becomes disqualified from being, a member,
+
+(*b*) he or she resigns the office of chairperson or deputy chairperson, or
+
+(*c*) the Council by a resolution, of which not less than 7 days notice of the intention to propose is given to each member and for which not less than two-thirds of the members vote, removes the chairperson or deputy chairperson as chairperson or deputy chairperson.
+
+(3) The chairperson or deputy chairperson may at any time resign from office by notice in writing to the Council and the resignation shall take effect on the date of the meeting of the Council next held after the receipt by the Council of the notice.
+
+(4) Where, at an election of the chairperson or deputy chairperson, 2 or more persons receive an equal number of votes, it shall be determined by lot which of those persons shall be chairperson or deputy chairperson.
+
+7\. (1) The Minister shall fix the date, time and place of the first meeting of the Council.
+
+(2) The Council shall hold at least 3 meetings in each year and such and so many other meetings and at such times as the chairperson may determine.
+
+8\. (1) Subject to *subparagraph (2)*, the quorum for a meeting of the Council shall be 15.
+
+(2) Where, at a meeting of the Council, the matter of the removal of a registered teacher from the register is on the agenda, the quorum shall be 20.
+
+9\. (1) The Director, or in his or her absence the chairperson, shall convene a meeting of the Council when requested so to do by not less than 10 members.
+
+(2) If the Director, or in his or her absence the chairperson, refuses to convene a meeting of the Council under *subparagraph (1)*, any 5 members may, as soon as practicable, convene a meeting of the Council.
+
+(3) If the Director, or in his or her absence the chairperson, without refusing, does not, within 7 days after a request for that purpose has been made to him or her under *subparagraph (1)*, convene a meeting of the Council, any 5 members may, on the expiration of that period, convene a meeting of the Council.
+
+10\. (1) At least 3 days before a meeting of the Council notice of the time and place of the meeting shall be sent to each member of the Council signed—
+
+(*a*) by the Director or chairperson, or
+
+(*b*) if the meeting is convened by members, by those members.
+
+(2) If the meeting is convened by members, the notice convening the meeting shall specify the business to be transacted at that meeting.
+
+11\. At a meeting of the Council—
+
+(*a*) the chairperson shall, if present, be the chairperson of the meeting, or
+
+(*b*) if and so long as the chairperson is not present, or if the office of chairperson is vacant, the deputy chairperson shall, if present, be the chairperson of the meeting, or
+
+(*c*) if and so long as the chairperson is not present or the office of chairperson is vacant, and the deputy chairperson is not present or the office of deputy chairperson is vacant, the members who are present shall choose one of their number to preside at that meeting.
+
+12\. Minutes of the proceedings of all meetings of the Council shall be drawn up and entered in a book kept for that purpose and such minutes shall be signed by the chairperson of the next subsequent meeting.
+
+13\. The names of all members present at a meeting of the Council shall be recorded in the minutes of the proceedings of the meeting.
+
+14\. Subject to *paragraph 6(4)* and *8*—
+
+(*a*) at a meeting of the Council every act of the Council and every question coming before the Council shall be determined by a majority of the votes of members (including the chairperson) present and voting in relation to the act or question, and
+
+(*b*) in the case of an equal division of votes on any question arising at a meeting of the Council (other than the election of the chairperson or deputy chairperson) the chairperson or other person presiding at that meeting shall have a second or casting vote.
+
+15\. Subject to *paragraph 8*, the Council may act notwithstanding one or more than one vacancy among its members or any deficiency in the appointment of a member which may subsequently be discovered.
+
+16\. Save as is otherwise provided by any enactment, including this Act, the Council may make, from time to time, such standing orders as it thinks fit for the regulation of its proceedings and may amend or revoke such standing orders.
+
+## SCHEDULE 2
+
+The Director
+
+1\. The Director shall perform his or her functions subject to such policies as may be determined from time to time by the Council and shall be answerable to the Council for the efficient and effective management of the Council and for the due performance of his or her functions.
+
+2\. (1) The Director may delegate any of his or her functions to an employee of the Council, unless they are so delegated to the Director subject to the condition that they shall not be sub-delegated, and the employee concerned shall be accountable to the Director for the performance of the functions so delegated.
+
+(2) Notwithstanding any such delegation, the Director shall at all times remain accountable to the Council for the performance of the functions so delegated.
+
+3\. The Director shall not hold any other office or position without the consent of the Council.
+
+4\. The Director shall hold office subject to such terms and conditions (including terms and conditions relating to remuneration, fees and allowances for expenses) as the Council, with the consent of the Minister and the Minister for Finance, may from time to time determine.
+
+5\. The Director shall not be a member of the Council or a committee, but he or she or his or her nominee may, in accordance with procedures established by the Council or the committee, as the case may be, attend meetings of the Council or a committee and shall be entitled to speak at and advise such meetings.
+
+## SCHEDULE 3
+
+F54[Panel
+
+1\. Notwithstanding any vacancies in the membership of the Disciplinary Committee, a panel may be appointed from among the members of that Committee.
+
+2\. The procedures of a panel shall be laid down from time to time in rules made by the Council with the consent of the Minister.
+
+3\. The Disciplinary Committee shall appoint the chairperson of a panel from among the members of the panel.
+
+4\. The Council shall make available to the panel such services, including staff, as the panel may reasonably require.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F54: Substituted (25.07.2016) by *Teaching Council (Amendment) Act 2015* (31/2015), s. 31, S.I. No. 408 of 2016.
+>
+> **Editorial Notes:**
+>
+> E55: Power pursuant to schedule exercised (25.07.2016) by *Teaching Council (Disciplinary Committee Panel Procedures) Rules 2016* (S.I. No. 411 of 2016).

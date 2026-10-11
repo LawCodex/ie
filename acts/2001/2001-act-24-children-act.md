@@ -1,0 +1,6936 @@
+---
+title: "Children Act, 2001"
+identifier: "eli/2001/act/24"
+type: act
+jurisdiction: ie
+language: en
+number: 24
+year: 2001
+date: 2001-07-08
+last_amended: 2026-08-10
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2001/act/24/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2001/act/24/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Children Act, 2001
+
+AN ACT TO MAKE FURTHER PROVISION IN RELATION TO THE CARE, PROTECTION AND CONTROL OF CHILDREN AND, IN PARTICULAR, TO REPLACE THE CHILDREN ACT, 1908, AND OTHER ENACTMENTS RELATING TO JUVENILE OFFENDERS, TO AMEND AND EXTEND THE CHILD CARE ACT, 1991, AND TO PROVIDE FOR RELATED MATTERS. [8*th July*, 2001]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions in relation to Act transferred to Child and Family Agency (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), ss. 6, 82 and sch. 1, S.I. No. 502 of 2013 and S.I. No. 503 of 2013 (establishment day).
+>
+> **Establishment day**
+>
+> **6.** The Minister shall by order appoint a day to be the establishment day for the purposes of this Act.
+>
+> ...
+>
+> **Transfer of certain functions of Health Service Executive**
+>
+> **82.** (1) The administration and business in connection with the performance of any of the functions transferred by subsection (2) are transferred, on the establishment day, to the Agency.
+>
+> (2) The functions vested in the Health Service Executive by or under the enactments specified in Schedule 1 shall, on the establishment day, stand transferred to the Agency.
+>
+> ...
+>
+> SCHEDULE 1
+>
+> Functions of Health Service Executive Transferred to Agency
+>
+> Section 82.
+>
+> ...
+>
+> Children Act 2001
+>
+> ...
+>
+> C2: Functions transferred and terms “Department of Health” and “Minister for Health” construed (1.10.2012) by *Child Care (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 488 of 2011), arts. 2, 3, commenced as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> ...
+>
+> **2.**— The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Children and Youth Affairs.
+>
+> (2) References to the Department of Health contained in any Act or any instrument made thereunder and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Children and Youth Affairs.
+>
+> **3.** —(1) The functions vested in the Minister for Health by or under the Child Care Acts 1991 to 2011 are transferred to the Minister for Children and Youth Affairs.
+>
+> (2) References to the Minister for Health contained in any Act or instrument made thereunder and relating to any functions transferred by this Article shall, from the commencement of this Order, be construed as references to the Minister for Children and Youth Affairs.
+>
+> ...
+>
+> C3: Functions in relation to Act transferred (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3 and sch. 1.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1 Enactments
+>
+> <table><tr><td>...</td><td></td><td></td></tr><tr><td>No. 24 of 2001</td><td>Children Act 2001</td><td>Sections 44(9), 171, 172, 173, 180(2), 181, 183(2), 186A(11), 238(4) and (5), 240 and 241</td></tr><tr><td>...</td><td></td><td></td></tr></table>
+>
+> C4: Application of powers of District Court under Act in criminal proceedings relating to the protection of witnesses against intimidation extended (31.10.2006) by *International Criminal Court Act 2006* (30/2006), s. 52(3)(a)(ii) and (10), commenced on enactment.
+>
+> **Taking of evidence.**
+>
+> **52**.— ...
+>
+> (3) For the purposes of this section the nominated judge—
+>
+> (*a*) shall have the powers of the District Court in criminal proceedings, including its powers— ...
+>
+> (ii) under any enactment or rule of law relating to the protection of witnesses against intimidation,
+>
+> ...
+>
+> (10) In subsection (3)(a)(ii) “enactment” includes the Criminal Law (Rape) Acts 1981 and 1990, Criminal Evidence Act 1992, Criminal Justice Act 1999 and Children Act 2001.
+>
+> C5: Terms “Probation and Welfare Service,” “probation officer,” “welfare officer,” “probation and welfare officer” and “Director of the Probation and Welfare Service” construed (19.05.2006) by *Criminal Justice (Community Service) (Amendment) Act 2011* (24/2011), s. 13, commenced in accordance with s. 13(4).
+>
+> **References to Probation and Welfare Service, etc.**
+>
+> **13.**— (1) The officers of the Minister assigned to perform functions in the part of the Department of State for which the Minister is responsible commonly known as the Probation and Welfare Service before the coming into operation of this section shall, on and after that date, be known as the Probation Service and, references in any enactment to the Probation and Welfare Service of that Department of State shall be construed accordingly.
+>
+> (2) A person appointed by the Minister who was before the coming into operation of this section referred to as—
+>
+> (*a*) a probation officer,
+>
+> (*b*) a welfare officer, or
+>
+> (*c*) a probation and welfare officer, shall, on and after that date, be referred to as a probation officer and, references in any enactment to an officer referred to in paragraph (a), (b) or (c) shall be construed accordingly.
+>
+> (3) A person appointed by the Minister to the post referred to before the coming into operation of this section as the Director of the Probation and Welfare Service shall, on and after that date, be referred to as the Director of the Probation Service and, references in any enactment to the Director of the Probation and Welfare Service shall be construed accordingly.
+>
+> (4) This section shall be deemed to have come into operation on 19 May 2006.
+>
+> C6: Children detention school under the Act specified as a prescribed person for the purposes of the *Civil Liability and Courts Act 2004* (31/2004), s. 40(4) (1.07.2005) by *Civil Liability and Courts Act 2004 (Section 40(4)) Order 2005* (S.I. No. 338 of 2005), reg. 3 and sch. item 4.
+>
+> **3**. The persons specified in the Schedule to this Order are prescribed for the purposes of section 40(4) of the Act of 2004.
+>
+> SCHEDULE
+>
+> Prescribed Persons
+>
+> ...
+>
+> 4\. A children detention school under the Children Act 2001 (No. 24 of 2001).
+>
+> ...
+>
+> C7: Application of collectively cited *Child Care Acts 1991 and 2001* affected (23.12.2004) by *Health Act 2004* (42/2004), s. 2 and sch. 1, S.I. No. 886 of 2004, subject to transitional provisions in s. 74 and sch. 5.
+>
+> **Interpretation**.
+>
+> **2**.—(1) In this Act, unless the context otherwise requires— ...
+>
+> “health and personal social services” means services that immediately before the establishment day were provided under the Acts referred to in Schedule 1 by a specified body as defined in section 56 of this Act, and references in this Act to a health or personal social service are to be read as references to any of those services;
+>
+> ...
+>
+> SCHEDULE 1
+>
+> Acts Referred to in Definition of Health and Personal Social Services
+>
+> ...
+>
+> 11\. Child Care Acts 1991 and 2001
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E1: Functions conferred on Health Information and Quality Authority include setting of standards on safety and quality in relation to services provided in accordance with the Act and collectively cited *Child Care Acts 1991 and 2001* by the Health Service Executive, the Child and Family Agency or other service provider as provided by *Health Act 2007*, s. 8(1)(b), as substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 20 item 2, S.I. No. 502 of 2013.
+>
+> E2: Previous affecting provision: functions in relation to Act transferred to the Health Service Executive (1.01.2005) by *Health Act 2004* (42/2004), ss. 58, 59(1), (2) and (3) and sch. 3, S.I. No. 887 of 2004, subject to transitional provisions in s. 74 and sch. 5; superseded (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), ss. 6, 82 and sch. 1, S.I. No. 502 of 2013 and S.I. No. 503 of 2013 (establishment day).
+
+## PART 1Preliminary — PART 1 — Preliminary
+
+### 1. Short title and collective citation.
+
+**1.**—(1) This Act may be cited as the Children Act, 2001.
+
+(2) *Part 2, section 267* and the Child Care Act, 1991, may be cited together as the Child Care Acts, 1991 and 2001.
+
+### 2. Commencement.
+
+**2.**—(1) This Act shall, subject to *subsection (2)*, come into operation on such day or days as, by order or orders made by the Minister under this section, may be fixed either generally or with reference to any particular purpose or provision, and different days may be so fixed for different purposes and different provisions.
+
+(2) (*a*) *Parts 2* and *3* shall come into operation on such day or days as, by order or orders made by the Minister for Health and Children, may be fixed generally in relation to either or both of these Parts or with reference to any particular purpose or provision thereof, and different days may be so fixed for different purposes and different such provisions.
+
+F1[(*aa*) *Part 5* shall come into operation 3 months after the passing of the Criminal Justice Act 2006.]
+
+(*b*) *Section 77* shall come into operation on such day as the Minister, with the agreement of the Minister for Health and Children, may be order appoint.
+
+(*c*) F2[...]
+
+(*d*) *Part 10* shall come into operation on such day or days as, by order or orders made by the Minister F3[...], may be fixed either generally or with reference to any particular purpose or provision, and different days may be so fixed for different purposes and different provisions.
+
+(*e*) *Part 11* shall come into operation on such day as the Minister for Health and Children, with the agreement of the Minister for Education and Science, may by order appoint.
+
+F4[(*f*) The amendments made to Part 11 in sections 156 and 157 of, and paragraph 30 of Schedule 4 to, the Criminal Justice Act 2006 shall come into operation on such day or days as the Minister for Health and Children, with the agreement of the Minister for Justice, Equality and Law Reform, may by order or orders appoint.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted (16.10.2006) by *Criminal Justice Act 2006* (26/2006), s. 121(a), S.I. No. 529 of 2006.
+>
+> F2: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 121(b), S.I. No. 65 of 2007.
+>
+> F3: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 121(c), S.I. No. 65 of 2007.
+>
+> F4: Inserted (29.11.2006) by *Criminal Justice Act 2006* (26/2006), s. 121(d), S.I. No. 586 of 2006.
+>
+> **Editorial Notes:**
+>
+> E3: Power pursuant to section exercised (23.07.2007) by *Children Act 2001 (Commencement) (No. 3) Order 2007* (S.I. No. 524 of 2007).
+>
+> **2**. The 23rd day of July 2007 is appointed as the day on which the Children Act 2001 (No. 24 of 2001) shall, in so far as it is not already in operation, come into operation.
+>
+> E4: Power pursuant to section exercised (23.07.2007) by *Children Act 2001 (Commencement) (No. 2) Order 2007* (S.I. No. 510 of 2007).
+>
+> **2**. The 23rd day of July 2007 is fixed as the day on which Part 2 (in so far as it is not already in operation) of the Children Act 2001 (No. 24 of 2001) shall come into operation.
+>
+> E5: Power pursuant to section exercised (1.03.2007) by *Children Act 2001 (Commencement) Order 2007* (S.I. No. 64 of 2007).
+>
+> **2**. The 1st day of March 2007 is fixed as the day which the Children Act 2001 (No. 24 of 2001), other than -
+>
+> (*a*) section 7(1)(a),
+>
+> (*b*) section 10(2),
+>
+> (*c*) section 13(2),
+>
+> (*d*) section 16, in so far as it relates to the insertion of section 23D of the Child Care Act 1991 (No. 17 of 1991), and
+>
+> (*e*) section 77,
+>
+> shall, in so far as not already in operation, come into operation.
+>
+> E7: Power pursuant to section exercised (23.09.2004) by *Children Act 2001 (Commencement) (No. 2) Order 2004* (S.I. No. 548 of 2004).
+>
+> **2**. The 23rd day of September 2004 is fixed as the day on which Parts 2 (other than sections 7(1)(a), 10(2) and 13(2)) and 3 (other than section 23D) of the Children Act 2001 (No. 24 of 2001) come into operation.
+>
+> E8: Power pursuant to section exercised (29.07.2004) by *Children Act 2001 (Commencement) Order 2004*, S.I. No. 468 of 2004.
+>
+> **2**. The 29th day of July 2004 is fixed as the day on which the following provisions of the Children Act 2001 (No. 24 of 2001) come into operation:
+>
+> (a) Part 1 (other than section 5), sections 78 to 87, 267(2) and 268, and
+>
+> (b) section 5, and Schedule 2, in so far as they relate to the provisions specified in the third column of the Schedule to this Order.
+>
+> E9: Power pursuant to section exercised (7.11.2003) by *Children Act 2001 ((Section 159)(1)) (Commencement) Order 2003*, S.I. No. 741 of 2003.
+>
+> **3**. The 7th day of November 2003 is fixed as the day on which section 159(1) of the Act of 2001 comes into operation with reference to section 230(3)(a) of the Act of 2001 and to that particular provision only.
+>
+> E10: Power pursuant to section exercised (7.11.2003) by *Children Act 2001 (Part 11) (Commencement) Order 2003* (S.I. No. 527 of 2003).
+>
+> **2**. The 7th day of November 2003 is appointed as the day on which Part 11 of the Children Act 2001 (No. 24 of 2001) comes into operation.
+>
+> E11: Power pursuant to section exercised (1.05.2002) by *Children Act 2001 (Commencement) Order 2002*, S.I. No. 151 of 2002.
+>
+> **2**. The 1st day of May, 2002, is fixed as the day on which the Act shall come into operation with reference to the following provisions and purposes:
+>
+> (*a*) sections 3, 4 and 6, in so far as their commencement is necessary for the purposes of the other provisions which are being brought into operation, either generally or with reference to any particular purpose, by this order,
+>
+> (*b*) Parts 4, 6, (excluding section 59 and section 61(1)(b) in so far as it relates to a representative of a health board) and 7,
+>
+> (*c*) sections 89 to 92 and 94,
+>
+> (*d*) section 93, in so far as it relates to proceedings before the Court against a child or in relation to a child under the provisions of Part 9 of the Act that are being brought into operation by this order,
+>
+> (*e*) the definitions in section 95 of -
+>
+> (i) “compensation order”,
+>
+> (ii) “district”, for the purposes of sections 133 and 136, and
+>
+> (iii) “district of residence” for the purposes of sections 134 and 136,
+>
+> (*f*) section 97 and paragraphs (a), (b), (d) and (f) of section 98,
+>
+> (*g*) section 98(g), in so far as it relates to an order under section 133,
+>
+> (*h*) sections 108, 109 and 110 (except subsection (1)(b)(iii)),
+>
+> (*i*) section 110(1)(b)(iii), in so far as it relates to an order under section 133,
+>
+> (*j*) sections 113 and 114,
+>
+> (*k*) section 115, in so far as it relates to paragraph (i),
+>
+> (*l*) sections 116 (except subsection (1)(a)) and 117, in so far as they relate to an order under section 133,
+>
+> (*m*) sections 133 to 135,
+>
+> (*n*) section 136 (except the words “or another community sanction” in subsection (1)(a)(ii)),
+>
+> (*o*) sections 138 to 140, in so far as they relate to an order under section 133,
+>
+> (*p*) Part 12,
+>
+> (*q*) sections 258, 260 (in so far as it refers to supervision by a juvenile liaison officer), 261 (in so far as it relates to an order under section 133), 264, 266, 267(1) and 269 to 271,
+>
+> (*r*) Schedule 1,
+>
+> (*s*) Schedule 2—
+>
+> (i) in so far as it relates to the following enactments:
+>
+> Vagrancy (Ireland) Act 1847,
+>
+> Offences against the Person Act 1861;
+>
+> Children Act (1908) Amendment Act 1910,
+>
+> Courts of Justice Act 1924,
+>
+> Criminal Law Amendment Act 1935, and
+>
+> (ii) for the purposes of the repeal of the following provisions of other enactments specified in the Schedule:
+>
+> the unrepealed portions of Part II, and sections 94, 96, 98 to 101, 102(1), 102(2), 111, 113 to 115, 121 and 123, of the Children Act 1908,
+>
+> sections 24, 26 and 27 of the Children Act 1941,
+>
+> section 4 of the Children (Amendment) Act 1957.
+
+### 3. Interpretation (general).
+
+**3.**—(1) In this Act, unless the context otherwise requires—
+
+“Act of 1907” means the Probation of Offenders Act, 1907;
+
+“Act of 1951” means the Criminal Justice Act, 1951;
+
+“Act of 1967” means the Criminal Procedure Act, 1967;
+
+“Act of 1984” means the Criminal Justice Act, 1984;
+
+“Act of 1991” means the Child Care Act, 1991;
+
+“action plan”, where it occurs in *Part 4*, has the meaning assigned to it by *section 39* and, where it occurs in *Part 8*, has the meaning assigned to it by *section 80(1)* or *82(2)(a)*, as the case may be;
+
+“adult” means any person of or over the age of 18 years;
+
+F5[“anti-social behaviour” is to be construed in accordance with *section 257A(2)*;]
+
+F6[...]
+
+“child” means a person under the age of 18 years;
+
+“children detention order” has the meaning assigned to it by *section 142*;
+
+“children detention school” means—
+
+(*a*) any certified reformatory school or industrial school that becomes a children detention school by virtue of F7[*section 159*,]
+
+F7[(*b*) a place, school, premises or building designated as a children detention school pursuant to *section 160*, or]
+
+F8[(*c*) an amalgamated school within the meaning of *section 163A* (inserted by section 14 of the Children (Amendment) Act 2015);]
+
+“Commissioner” means the Commissioner of the Garda Síochána;
+
+“community sanction” has the meaning assigned to it by *section 115*;
+
+“Court”, in *Parts 7* and *8*, means the Children Court;
+
+“criminal behaviour”, in relation to a child, means the act or omission constituting an offence alleged to have been committed by the child;
+
+“detention” means detention in a children detention school F9[...];
+
+“family conference” means a conference convened by a probation and welfare officer pursuant to *section 79*;
+
+“family welfare conference” means a conference convened by F10[the F11[Child and Family Agency]] pursuant to *section 7*;
+
+“Gaeltacht area” means an area for the time being determined to be a Gaeltacht area by order under section 2 of the Ministers and Secretaries (Amendment) Act, 1956;
+
+“guardian” means—
+
+(*a*) any legal guardian of a child,
+
+(*b*) any person who, in the opinion of the court having cognisance of any case in relation to a child or in which the child is concerned, has for the time being the charge of or control over the child, or
+
+(*c*) any person who has custody or care of a child by order of a court,
+
+but does not include F10[the F11[Child and Family Agency]];
+
+F9[...]
+
+“juvenile liaison officer” means a member of the Garda Síochána assigned by the Commissioner to perform the duties which he or she considers appropriate for such a member, including duties assigned under *Part 4* or any regulations under that Part;
+
+“legal guardian”, in relation to a child, means any person who is the guardian of a child pursuant to the Guardianship of Infants Act, 1964, or who is appointed to be his or her guardian by deed or will or by order of a court;
+
+“member in charge” means a member of the Garda Síochána who is in charge of a Garda Síochána station at a time when the member in charge of a station is required to do anything or cause anything to be done pursuant to this Act;
+
+F7["Minister" when used without qualification means the Minister for Justice and Equality, other than in subsections (4), (6), (9) and (11) of section 88, section 88A, section 88B and Part 10 where it means the Minister for Children and Youth Affairs;]
+
+“parents”, in relation to a child, means—
+
+(*a*) in case one parent has the sole custody, charge or care of the child, that parent,
+
+(*b*) in case the child has been adopted under the Adoption Acts, 1952 to 1998 (or, if adopted outside the State, his or her adoption is recognised under the law of the State), the adopter or adopters or the surviving adopter, and
+
+(*c*) in any other case, both parents;
+
+F7["prescribed" means prescribed by regulations made by the Minister or the Minister for Children and Youth Affairs, as appropriate;]
+
+“principal probation and welfare officer” means the principal probation and welfare officer of the probation and welfare service;
+
+“probation and welfare officer” means a person appointed by the Minister to be a probation and welfare officer, or to be a welfare officer or probation officer;
+
+“probation and welfare service” means the probation and welfare service of the Department of Justice, Equality and Law Reform;
+
+“relative”, in relation to a child, means a brother, sister, uncle or aunt, or a spouse of the brother, sister, uncle or aunt, or a grandparent or step-parent, of the child;
+
+“remand centre” means a centre designated as such under *section 88*;
+
+F12[...]
+
+“school” means a children detention school;
+
+F13["secondary victimisation" has the same meaning as it has in the Criminal Justice (Victims of Crime) Act 2017;]
+
+F14["special care order" has the meaning assigned to it by Part IVA (as amended by the Child Care (Amendment) Act 2011) of the Act of 1991;]
+
+“summons” has the meaning assigned to it by section 1(1) of the Courts (No. 3) Act, 1986;
+
+“superannuation benefits” means pensions, gratuities and other allowances payable on resignation, retirement or death;
+
+“victim” means a person who through or by means of an offence committed by a child, suffers physical or emotional harm, or loss of or damage to property F5[and, in relation to anti-social behaviour by a child, means a person who suffers physical or emotional harm as a consequence of that behaviour].
+
+(2) Any reference in this Act to a finding of guilt, or cognate words, includes a conviction, where the context so requires.
+
+(3) For the purposes of this Act—
+
+(*a*) a reference to a Part, section or Schedule is to a Part, section or Schedule of this Act unless it is indicated that reference to some other provision is intended,
+
+(*b*) a reference to a subsection, paragraph or subparagraph is to the subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that reference to some other provision is intended,
+
+(*c*) a reference to any other enactment shall, unless the context otherwise requires, be construed as a reference to that enactment as amended or extended by or under any other enactment, including this Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F5: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s.122(a) and (g), S.I. No. 65 of 2007.
+>
+> F6: Deleted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 11 item 1, S.I. No. 887 of 2004.
+>
+> F7: Substituted (1.12.2015) by *Children (Amendment) Act 2015* (30/2015), s. 4(a)(i), (ii), (b) and (c), S.I. No. 539 of 2015.
+>
+> F8: Inserted (1.12.2015) by *Children (Amendment) Act 2015* (30/2015), s. 4(a)(iii), S.I. No. 539 of 2015.
+>
+> F9: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s.122(c), (d) and (f), S.I. No. 65 of 2007.
+>
+> F10: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 11 item 1, S.I. No. 887 of 2004.
+>
+> F11: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 14 item 1, S.I. No. 502 of 2013.
+>
+> F12: Deleted (31.03.2017) by *Children (Amendment) Act 2015* (30/2015), s. 4(d), S.I. No. 111 of 2017.
+>
+> F13: Inserted (27.11.2017) by *Criminal Justice (Victims of Crime) Act 2017* (28/2017), s. 34(1)(a), S.I. No. 530 of 2017.
+>
+> F14: Inserted (31.12.2017) by *Child Care (Amendment) Act 2011* (19/2011), s. 27, S.I. No. 637 of 2017.
+>
+> **Editorial Notes:**
+>
+> E12: Previous affecting provision: definition of “children detention school”, para. (b) amended (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 122(b), S.I. No. 65 of 2007; superseded as per F-note above.
+>
+> E13: Previous affecting provision: definition of “Minister” amended (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 122(e), S.I. No. 65 of 2007; superseded as per F-note above.
+>
+> E14: Previous affecting provision: definition of “prescribed” amended (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s.122(f), S.I. No. 65 of 2007; superseded as per F-note above.
+
+### 4. Laying of regulations before Houses of Oireachtas.
+
+**4.**—Every regulation made by the Minister F15[...] or the Minister for Health and Children under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next 21 days on which the House has sat after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F15: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 1, S.I. No. 65 of 2007.
+
+### 5. Repeals.
+
+**5.**—(1) The enactments specified in *Schedule 2* are repealed to the extent specified in *column (3)* of that Schedule; but the repeal shall not affect any notice or certificate given or any appointment or rules made under any of the repealed enactments and every such notice, certificate, appointment and rules shall have effect as if given or made under this Act.
+
+(2) Every order, regulation and rule made under any provision of an enactment repealed by this Act and in force immediately before such repeal shall continue in force under the corresponding provision, if any, of this Act, subject to such adaptations and modifications as the Minister F16[...] or the Minister for Health and Children may by regulations make for the purpose of bringing any such order, regulation or rule into conformity with this Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F16: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 1, S.I. No. 65 of 2007.
+
+### 6. Expenses.
+
+**6.**—Any expenses incurred by the Minister F17[...] or the Minister for Health and Children in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F17: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 1, S.I. No. 65 of 2007.
+
+## PART 2Family Welfare Conferences — PART 2 — Family Welfare Conferences
+
+### 7. Convening of family welfare conference.
+
+**7.**—(1) Where—
+
+(*a*) F18[the F19[Child and Family Agency]] receives a direction from the Children Court under *section 77* to convene a family welfare conference in respect of a child, or
+
+F21[(*b*) a family welfare conference is to be convened pursuant to section 23F (as amended by the Child Care (Amendment) Act 2011) of the Act of 1991,]
+
+F18[the F19[Child and Family Agency] shall] appoint a person (in this Part referred to as a “coordinator”) to convene on its behalf a family welfare conference in respect of the child.
+
+(2) The coordinator shall act as chairperson of a family welfare conference.
+
+(3) F18[The F19[Child and Family Agency]] may direct that a family welfare conference shall consider such matters in relation to the child as F18[the F19[Child and Family Agency]] considers appropriate.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F18: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 11 item 2, S.I. No. 887 of 2004.
+>
+> F19: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 14 item 1, S.I. No. 502 of 2013.
+>
+> F20: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 11 item 2, S.I. No. 887 of 2004.
+>
+> F21: Substituted (31.12.2017) by *Child Care (Amendment) Act 2011* (19/2011), s. 28, S.I. No. 637 of 2017.
+>
+> **Modifications (not altering text):**
+>
+> C8: Application of section extended by *Child Care Act 1991* (17/1991), s. 23F(5), as substituted (31.12.2017) by *Child Care (Amendment) Act 2011* (19/2011), s. 10, S.I. No. 637 of 2017.
+>
+> **Determination by Health Service Executive that child requires special care**.
+>
+> **23F**.—**[** ...
+>
+> (5) The Health Service Executive shall, subject to *subsection (6)*, convene a family welfare conference in accordance with section 7 (as amended by the Child Care (Amendment) Act 2011) of the Act of 2001 if it is satisfied that there is reasonable cause to believe that the child requires special care, after having carried out the consultations in accordance with *subsection (3)* or not carried them out in accordance with *subsection (4)*.**]**
+>
+> **Editorial Notes:**
+>
+> E15: Previous affecting provision: subs. (1)(b) amended (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 11 item 2, S.I. No. 887 of 2004 and (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 14 item 1, S.I. No. 502 of 2013; substituted as per F-note above.
+
+### 8. Functions of conference.
+
+**8.**—(1) F25[A family welfare conference]—
+
+(*a*) F25[referred to in *section 7(1)(b)*, shall consider whether] a child in respect of whom the conference is being convened F25[requires] special care F25[under Part IVA (as amended by the Child Care (Amendment) Act 2011)] of the Act of 1991,
+
+(*b*) F25[referred to in *section 7(1)(b)*, shall, if it is considered that the child requires special care], recommend to the F22[F23[Child and Family Agency]] that it should apply for F25[a special care order,]
+
+(*c*) F25[referred to in *section 7(1)(a)* shall,] make such recommendations to the F22[F23[Child and Family Agency]] concerned in relation to the care or protection of the child as the conference considers necessary, including, where appropriate, a recommendation that the F22[F23[Child and Family Agency]] should apply for F25[a care order, a supervision order, a special care order or other care] under the Act of 1991 F25[in respect of the child, and]
+
+F26[(*d*) referred to in *section 7(1)(b)* shall, if it is considered that the child does not require special care, make such recommendations to the F23[Child and Family Agency] in relation to the care or protection of the child as the conference considers necessary, including, where appropriate, care, other than special care, under the Act of 1991.]
+
+(2) Any recommendations made by a family welfare conference shall be agreed unanimously by those present at the conference, unless the disagreement of any person present is regarded by the coordinator as unreasonable, in which case the coordinator may dispense with that person’s agreement.
+
+(3) Where any such recommendations are not agreed unanimously (disregarding any disagreement mentioned in *subsection (2)*), the matter shall be referred to the F24[F23[Child and Family Agency]] for determination.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F22: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 11 item 3, S.I. No. 887 of 2004.
+>
+> F23: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 14 item 1, S.I. No. 502 of 2013.
+>
+> F24: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 11 item 3, S.I. No. 887 of 2004.
+>
+> F25: Substituted (31.12.2017) by *Child Care (Amendment) Act 2011* (19/2011), s. 29(a), (b), (c) and (d), S.I. No. 637 of 2017.
+>
+> F26: Inserted (31.12.2017) by *Child Care (Amendment) Act 2011* (19/2011), s. 29(e), S.I. No. 637 of 2017.
+>
+> **Modifications (not altering text):**
+>
+> C9: Application of section extended (4.09.2004) by *Child Care (Special Care) Regulations 2004* (S.I. No. 550 of 2004), regs. 25(2)(n) and 26(9), the latter as amended (23.07.2007) by *Child Care (Amendment) Act 2007* (26/2007), s. 21(2) and sch. part 2 item 3(b), S.I. No. 509 of 2007.
+>
+> **CASE RECORD**
+>
+> 25\. ...
+>
+> (2) A case record of a child kept by a health board in accordance with this regulation shall include, in so far as is reasonably practicable the following information and documents— ...
+>
+> (*n*) a copy of any recommendations made by a family welfare conference, in accordance with section 8 of the Act of 2001, made in respect of the child,
+>
+> ...
+>
+> **CARE PLAN**
+>
+> 26\. ...
+>
+> (9) A plan prepared under this regulation shall, in so far as is reasonably practicable, be consistent with any recommendations made by a family welfare conference in accordance with section 8 of the Act of 2001 and shall have due regard to any views given by the **[**Children Acts Advisory Board**]** in accordance with section 227(1)(e) of the Act of 2001.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E16: Subs. (1)(d) is amended by substitution of “Child and Family Agency” for “Health Service Executive” by *Child Care (Amendment) Act 2015* (45/2015), s. 13 and sch. 1 part 2 item 1, not commenced as of date of revision. This amendment was already made by *Child and Family Agency Act 2013*, see F-note above.
+
+### 9. Persons entitled to attend conference.
+
+**9.**—(1) The following persons shall be entitled to attend a family welfare conference—
+
+(*a*) the child in respect of whom the conference is being convened,
+
+(*b*) the parents or guardian of the child,
+
+(*c*) any guardian *ad litem* appointed for the child,
+
+(*d*) such other relatives of the child as may be determined by the coordinator, after consultation with the child and the child’s parents or guardian,
+
+F27[(*e*) an employee or employees of the F28[Child and Family Agency];]
+
+(*f*) any other person who, in the opinion of the coordinator, after consultation with the child and his or her parents or guardian, would make a positive contribution to the conference because of the person’s knowledge of the child or the child’s family or because of his or her particular expertise.
+
+(2) If, before or during a family welfare conference, the coordinator is of opinion that the presence or continued presence of any person is not in the best interests of the conference or the child, the coordinator may exclude that person from participation or further participation in the conference.
+
+(3) The coordinator shall take all reasonable steps to ensure that notice of the time, date and place of a family welfare conference is given to every person who is entitled to attend.
+
+(4) Failure to notify any person entitled to attend a family welfare conference, or failure of any such person to attend it, shall not invalidate its proceedings.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F27: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 11 item 4, S.I. No. 887 of 2004.
+>
+> F28: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 14 item 1, S.I. No. 502 of 2013.
+
+### 10. Procedure at conference.
+
+**10.**—(1) Subject to the provisions of this Part or any regulations under *section 15*, a family welfare conference may regulate its procedure in such manner as it thinks fit.
+
+(2) Subject to any direction of the Children Court pursuant to *section 77*, a family welfare conference may be adjourned to a time and place to be determined by it.
+
+(3) The coordinator of a family welfare conference shall ensure, as far as practicable, that any information and advice required by the conference to carry out its functions are made available to it.
+
+F29[(4) The procedure referred to in *subsection (1)* shall—
+
+(*a*) be consistent with fairness and natural justice, and
+
+(*b*) include a procedure for consulting with the child and for ascertaining the wishes of the child in respect of whom the conference, referred to in *subsection (1)*, has been convened.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F29: Inserted (31.12.2017) by *Child Care (Amendment) Act 2011* (19/2011), s. 30, S.I. No. 637 of 2017.
+
+### 11. Administrative services.
+
+**11.**—F30[The F31[Child and Family Agency]] shall provide, or arrange for the provision of such administrative services as may be necessary to enable a family welfare conference to discharge its functions.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F30: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 11 item 5, S.I. No. 887 of 2004.
+>
+> F31: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 14 item 1, S.I. No. 502 of 2013.
+
+### 12. Notification of recommendations of conference.
+
+**12.**—The coordinator of a family welfare conference shall notify the following persons or bodies in writing of any recommendations of the conference:
+
+(*a*) the child in respect of whom the conference was convened,
+
+(*b*) the parents or guardian of the child,
+
+(*c*) any guardian *ad litem* appointed for the child,
+
+(*d*) any other persons who attended the conference,
+
+F32[(*e*) the F33[Child and Family Agency];]
+
+(*f*) if the child was referred to the F32[F33[Child and Family Agency]] by another body, that body, and
+
+(*g*) any other body or persons who should, in the coordinator’s opinion, be so notified.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F32: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 11 item 6, S.I. No. 887 of 2004.
+>
+> F33: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 14 item 1, S.I. No. 502 of 2013.
+
+### 13. Action by health board on recommendations.
+
+**13.**—(1) On receipt of the recommendations of a family welfare conference, the F34[F35[Child and Family Agency]] may—
+
+(*a*) F36[...]
+
+(*b*) apply for a care order or a supervision order under that Act, or
+
+(*c*) provide any service or assistance for the child or his or her family as it considers appropriate, having regard to the recommendations of the conference.
+
+(2) Where a family welfare conference has been convened following a direction of the Children Court under *section 77,* the F34[F35[Child and Family Agency]] shall communicate with that Court in accordance with *subsection (2)* of that section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F34: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 pt. 11 item 7, S.I. No. 887 of 2004.
+>
+> F35: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 14 item 1, S.I. No. 502 of 2013.
+>
+> F36: Deleted (31.12.2017) by *Child Care (Amendment) Act 2011* (19/2011), s. 31, S.I. No. 637 of 2017.
+
+### 14. Privilege.
+
+**14.**—(1) No evidence shall be admissible in any court of any information, statement or admission disclosed or made in the course of a family welfare conference.
+
+(2) *Subsection (1)* does not apply to a record of decisions or recommendations of a family welfare conference.
+
+(3) *Section 51* shall apply, with the necessary modifications, in relation to publication of proceedings at a family welfare conference and the protection of the identity of a child in respect of whom such a conference is being held.
+
+### 15. Regulations.
+
+**15.**—The Minister for Health and Children may make regulations prescribing any or all of the following matters:
+
+(*a*) the arrangements for convening a family welfare conference and the appointment and role of the coordinator,
+
+(*b*) subject to *section 9,* the categories of persons who shall be entitled to attend such a conference and the conditions under which a person or category of persons may so attend, and
+
+(*c*) the arrangements for notifying any other body or person of any recommendations of such a conference,
+
+or for the purposes of enabling any provision of this Part to have full effect and for its due administration.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E17: Power pursuant to section exercised (24.09.2004) by *Children (Family Welfare Conference) Regulations 2004* (S.I. No. 549 of 2004).
+
+### 15A. Transitional provisions relating to Health Act 2004.
+
+F37[**15A.**—(1) In this section, a provisions reference to a provision of this Act is to that provision as it was before it was amended by the Health Act 2004.
+
+(2) Where a family welfare conference convened under *section 7* on behalf of a health board has not discharged its functions before the establishment day of the F38[Child and Family Agency], the conference shall be deemed to have been convened on behalf of the Executive.
+
+(3) Where a direction given by a health board under *section 7(3)* to a family welfare conference is not complied with before the establishment day of the F38[Child and Family Agency], the direction shall be deemed to have been given to the Executive.
+
+(4) Where a recommendation has been made or a matter has been referred to a health board by a family welfare conference under *section 8* and all matters relating to or arising from the conference proceedings relating to the child concerned have not been concluded under this Act or the Child Care Act 1991 before the establishment day of the F38[Child and Family Agency], the recommendation shall be deemed for the purposes of this Act and the Child Care Act 1991 to have been made or the matter referred to the Executive.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F37: Inserted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 11 item 8, S.I. No. 887 of 2004.
+>
+> F38: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 14 item 1, S.I. No. 502 of 2013.
+
+### 15B. Transitional provisions relating to the Child and Family Agency Act 2013
+
+F39[**15B.**— (1) In this section, a reference to a provision of this Act is to that provision as it was before it was amended by the Child and Family Agency Act 2013.
+
+(2) Where a family welfare conference convened under *section 7* on behalf of the Health Service Executive has not discharged its functions before the establishment day of the Child and Family Agency, the conference shall be deemed to have been convened by or on behalf of the Agency.
+
+(3) Where a direction given by the Health Service Executive under *section 7(3)* to a family welfare conference is not complied with before the establishment day of the Child and Family Agency, the direction shall be deemed to have been given by the Agency.
+
+(4) Where a recommendation has been made or a matter has been referred to the Health Service Executive by a family welfare conference under *section 8* and all matters relating to or arising from the conference proceedings relating to the child concerned have not been concluded under this Act or the Child Care Act 1991 before the establishment day of the Child and Family Agency, the recommendation shall be deemed for the purposes of this Act and the Child Care Act 1991 to have been made or the matter referred to the Agency.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F39: Inserted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 14 item 2, S.I. No. 502 of 2013.
+
+## PART 3Amendment of Act of 1991 — PART 3 — Amendment of Act of 1991
+
+### 16. Amendment (new Parts IVA and IVB) of Act of 1991.
+
+**16.**—The Act of 1991 is hereby amended by the insertion of the following Parts after section 23:
+
+“PART IVA
+
+Children in need of Special Care or Protection
+
+| Duty of health board where child requires special care or protection. | 23A.—(1) Where it appears to a health board with respect to a child who resides or is found in its area that the child requires special care or protection which he or she is unlikely to receive unless a court makes an order under this Part in respect of the child, being either— (*a*) an order under section 23B (in this Part referred to as a ‘special care order’), or (*b*) an order under section 23C (in this Part referred to as an ‘interim special care order’), it shall, subject to subsection (2), be the duty of the health board to apply for whichever of such orders is appropriate in the particular circumstances. (2) Before applying for an order under this Part the health board shall— (*a*) arrange for the convening of a family welfare conference (within the meaning of the *Children Act, 2001*) in respect of the child, and (*b*) where, on the conclusion of the conference proceedings, it proposes to apply for a special care order in respect of the child, seek the views of the Special Residential Services Board established under *section 226* of that Act on the proposal. (3) Where a parent or guardian of a child requests a health board to apply for an order under this Part in respect of the child and the board decides not to do so, it shall inform the parent in writing of the reasons for its decision. |
+|---|---|
+| Special care order. | 23B.—(1) A court may, on the application of a health board with respect to a child who is in its care or who resides or is found within its area and having taken into account the views of the Special Residential Services Board referred to in section 23A(2)(*b*), make a special care order in respect of the child if it is satisfied that— (*a*) the behaviour of the child is such that it poses a real and substantial risk to his or her health,safety, development or welfare,and (*b*) the child requires special care or protection which he or she is unlikely to receive unless the court makes such an order. (2) A special care order shall commit the child to the care of the health board concerned for so long as the order remains in force and shall authorise it to provide appropriate care, education and treatment for the child and, for that purpose, to place and detain the child in a special care unit provided by or on behalf of the health board pursuant to section 23K. (3) Where a child is detained in a special care unit pursuant to a special care order, the health board may take such steps as are reasonably necessary to prevent the child from— (*a*) causing injury to himself or herself or to other persons in the unit, or (*b*) absconding from the unit. (4) (*a*) Subject to subsections (5) and (6), a special care order shall remain in force for a period to be specified in the order, being a period which is not less than 3 months or more than 6 months. (*b*) The court may, on the application of the health board concerned, extend the period of validity of a special care order if and so often as the court is satisfied that the grounds for making the order continue to exist with respect to the child concerned. (5) If, while a special care order is in force in respect of a child, it appears to the health board concerned that the circumstances which led to the making of the order no longer exist with respect to the child, the board shall, as soon as practicable, apply to the court which made the order to have the order discharged. (6) A special care order shall cease to have effect when the person in respect of whom it was made ceases to be a child. (7) Where a special care order is in force, the health board may— (*a*) as part of its programme for the care, education and treatment of the child, place the child on a temporary basis in such other accommodation as the board is empowered to provide for children in its care under section 36, or (*b*) arrange for the temporary release of the child from the unit on health, education or compassionate grounds, and any such placement or arrangement shall be subject to its control and supervision. (8) Subject to this section, subsections (3), (4), (6), (7) and (8) of section 18 shall apply in relation to a special care order as they apply in relation to a care order, with any necessary modifications. |
+| Interim special care order. | 23C.—(1) Where a judge of the Children Court is satisfied on the application of a health board— (*a*) that the health board is complying with the requirements of section 23A(2) in relation to the making of an application for a special care order in respect of a child, and (*b*) that there is reasonable cause to believe that— (i) the behaviour of the child is such that it poses a real and substantial risk to his or her health, safety, development or welfare, and (ii) it is necessary in the interests of the child, pending determination of the application for a special care order, that he or she be placed and detained in a special care unit provided under section 23K, the judge may make an interim special care order in respect of the child. (2) An interim special care order shall require that the child named in the order be placed and detained in a special care unit— (*a*) for a period not exceeding twenty-eight days, or (*b*) where the health board and the parent having custody of the child or a person acting *in loco parentis* consent, for a period exceeding twenty-eight days, and the judge concerned may be order extend any such period, on the application of any of the persons specified in paragraph (*b*) and, where the period of the extension exceeds twenty-eight days, with the consent of those persons, if he or she is satisfied that the grounds for making the interim special care order continue to exist with respect to the child. (3) An application for an interim special care order or for an extension of a period mentioned in subsection (2) shall be made on notice to a parent having custody of the child or a person acting *in loco parentis* or, where appropriate, to the health board concerned, except where, having regard to the welfare of the child, the judge otherwise directs. (4) Subsections (3) to (7) of section 13 shall apply in relation to an interim special care order as they apply in relation to an emergency care order, with any necessary modifications. |
+| Duty of Garda Síochána where child needs special care or protection. | 23D.— |
+| Notification by health board. | 23E.—(1) Where a child is placed in a special care unit pursuant to an interim special care order, the health board concerned shall as soon as possible inform or cause to be informed a parent having custody of the child or a person acting *in loco parentis* of the placement unless the parent or person is missing and cannot be found. (2) For the purposes of this section, a person shall be deemed to have been informed of the placing of a child in a special care unit if the person is given or shown a copy of the interim special care order or if the person was present at the sitting of the court at which the order was made. |
+| Variation or discharge of special care orders. | 23F.—(1) Without prejudice to section 23B(5), the court may, of its own motion or on the application of any person, vary or discharge a special care order. (2) In discharging a special care order, the court may, of its own motion or on the application of a health board either— (*a*) make a supervision order in respect of the child, or (*b*) if the court is of opinion that— (i) the child requires care and protection which he or she is unlikely to receive unless he or she remains in the care of the health board, or (ii) the delivery or return of the child to a parent or any other person would not be in the best interests of the child, make a care order in respect of the child. |
+| Appeals. | 23G.—Section 21 shall apply to an appeal from an interim special care order or a special care order as it applies to an appeal from an order under Part IV. |
+| Powers of court in case of invalidity of order. | 23H.—Section 23 shall apply to a special care order as it applies to a care order, with the modification that the court may, as an alternative to making a special care order, make a care order in respect of the child. |
+| Application of Part V. | 23I.—Part V shall apply to proceedings relating to an application for an interim special care order or a special care order, with any necessary modifications. |
+| Application of Part VI. | 23J.—Section 37, 42, 45 and 47 shall apply to a child who is committed to the care of a health board pursuant to an interim special care order or a special care order. |
+| Provision of special care units by health boards. | 23K.—(1) A health board may, with the approval of the Minister, for the purposes of section 23B and 23C— (*a*) provide and maintain a special care unit, or (*b*) make arrangements with a voluntary body or any other person for the provision and operation of such a unit by that body or person on behalf of the board. (2) The Minister shall not approve of the provision of a special care unit unless— (*a*) having caused the unit to be inspected by a person authorised in that behalf by the Minister, and (*b*) having considered a report in writing of the inspection, he or she is satisfied that the requirements of regulations under this section will be complied with by the health board, voluntary body or other person, as the case may be, in relation to the unit. (3) The duration of an approval of a special care unit by the Minister shall be 3 years from the date of approval, and thereafter the Minister may renew the approval for a further period, or further periods, of the like duration. (4) The Minister, on approving of a special care unit, shall cause a certificate to that effect to be issued to the health board concerned and the certificate shall without further proof, unless the contrary is shown, be admissible in any proceedings as evidence that the unit has been approved of by the Minister for the purposes of sections 23B and 23C. (5) The Minister may cancel such a certificate if he or she is of opinion that the special care unit concerned is no longer suitable for use as such a unit or is no longer required for that purpose. (6) The Minister shall make regulations with respect to the operation of special care units provided by or on behalf of health boards under this section and for securing the welfare of children detained therein. (7) Without prejudice to the generality of subsection (6), regulations under this section may prescribe requirements as to— (*a*) the maintenance, care and welfare of children while being detained in special care units, (*b*) the staffing of those units, (*c*) the physical standards in those units, including the provision of adequate and suitable accommodation and facilities, (*d*) the periodical review of the cases of children in those units and the matters to be considered in such reviews, (*e*) the records to be kept in those units and the examination and copying of any such records or of extracts therefrom by persons authorised in that behalf by the Minister, and (*f*) the periodical inspection of those units by persons authorised in that behalf by— (i) in case the units were provided under section 23K(1)(*b*) by a voluntary body or other person, the health board concerned, and (ii) in any other case, the Minister n accordance with section 69. (8) Section 10 shall apply in relation to arrangements made under subsection (1)(*b*), with any necessary modifications. (9) Nothing in this section shall empower a health board to delegate to a voluntary body or any other person the power to apply for an order under section 23B or 23C. (10) Where a child is detained in a special care unit provided under subsection (1)(*b*), the provisions of section 23B(3) shall apply in relation to the voluntary body or other person providing or operating the unit. (11) Nothing in this section shall authorise the placing of a child in a special care unit otherwise than in accordance with an interim special care order or a special care order. |
+| Recovery of absconding child. | 23L.—Section 46 shall apply to the recovery of a child who absconds from a special care unit. |
+| Amendment of section 4. | 23M.—References in section 4 to Parts III, IV and VI shall be construed as including references to this Part. |
+| Restriction. | 23N.—A child on being found guilty of an offence may not be ordered to be placed or detained in a special care unit. |
+
+PART IVB
+
+Private Foster Care
+
+| Definitions. | 23O.—In this Part— ‘authorised officer’ means a person appointed by a health board under section 23S; ‘health board’ means the health board for the area in which a child resides before being placed under a private foster care arrangement and also, if the child, on or after being so placed, goes to reside in the area of another health board, that other health board; ‘private foster care arrangement’ means any arrangement or undertaking whereby a child is for more than 14 days in the full-time care, for reward or otherwise, of a person other than his or her parent or guardian, a person cohabiting with a parent or guardian or a relative, except where the child— (*a*) is residing at a boarding school and receiving full-time education, (*b*) is in an institution managed by or on behalf of a Minister of the Government or a health board, (*c*) is in an institution in which the majority of persons being cared for and maintained are being treated for acute illness, (*d*) is in an institution for the care and maintenance of children with a disability, (*e*) is in a mental institution within the meaning of the Mental Treatment Acts, 1945 to 1966, (*f*) is detained in a children detention school or children detention centre within the meaning of the *Children Act, 2001,* (*g*) is placed for adoption under the Adoption Acts, 1952 to 1998, (*h*) is in the care of a health board, (*i*) is on holidays for a continuous period not exceeding 42 days, (*j*) is placed with a person or body for primarily educational purposes, or (*k*) is placed with a friend of the child’s parent or guardian for a period not exceeding 42 days, while the parent or guardian is on holidays; ‘relative’, in relation to a child, means a grandparent, brother, sister, uncle or aunt, whether of the whole blood, half blood or by affinity, and includes the spouse of any such person and any person cohabiting with any such person. |
+|---|---|
+| Notice of private foster care arrangement. | 23P.—(1) A person arranging or undertaking a private foster care arrangement shall give notice to the health board in the manner specified in section 23Q not less than thirty days before the placement. (2) Where a child is placed in a private foster care arrangement owing to an unforeseen emergency, both the person making the arrangement and the person undertaking it shall notify the health board in the manner specified in section 23Q as soon as practicable and not more than 14 days after the placement. (3) Any person arranging or undertaking a private foster care arrangement on the commencement of this Part who has submitted to the health board before such commencement the information it requires in relation to the arrangement or undertaking shall be deemed to have complied with subsection (1). |
+| Information to be submitted to relevant health board. | 23Q.—(1) Any person arranging or undertaking a private foster care arrangement shall submit to the health board in writing— (*a*) the person’s name and address, (*b*) the name, sex, date and place of birth and address of the child concerned, (*c*) the name and address of the parent or guardian of the child, (*d*) if the child’s residence is changed, the child’s new address, (*e*) if the private foster care arrangement terminates, the reasons for its termination, and any other information that the health board may consider necessary in relation to any persons involved in the arrangement. (2) Any person arranging a private foster care arrangement shall submit to the relevant health board, in writing, the name and address of the person undertaking the arrangement and any other information in respect of that person that the health board may consider necessary. |
+| Duty in respect of children in private foster care. | 23R.—Any person arranging or undertaking a private foster care arrangement in respect of a child shall regard the child’s welfare as the first and paramount consideration. (2) Any person undertaking such an arrangement shall take all reasonable measures to safeguard the health, safety and welfare of the child concerned. (3) Any person arranging such an arrangement shall make all reasonable enquiries to ensure that the person undertaking it is in a position to comply with subsection (2). |
+| Authorised officers. | 23S.—(1) A health board shall appoint such and so many of its officers as it thinks fit to be authorised officers for the purposes of this Part. (2) Each authorised officer shall be given a warrant of his or her appointment and, when exercising any power conferred by this Part, shall, on request by any person affected, produce the warrant or a copy thereof, together with a form of personal identification. |
+| Inspection by authorised persons. | 23T.—(1) Where the relevant health board has received a notice in accordance with section 23P in respect of a private foster care arrangement, an authorised officer may at all reasonable times enter any premises (including a private dwelling) in which the child concerned is residing. (2) A judge of the District Court may, if satisfied on the sworn information of an authorised officer that there are reasonable grounds for believing that a private foster care arrangement has been arranged or undertaken and that the health board has not received the requisite notice, issue a warrant authorising an authorised officer, accompanied if necessary by other persons, to enter, if need by reasonable force, and inspect any premises (including a private dwelling) in which the child may be residing. (3) An authorised officer, on entering any such premises, shall investigate the care and attention that the child is receiving and the condition of the premises with a view to ensuring that the person undertaking the arrangement is complying with his or her duty to take all reasonable measures to safeguard the child’s health, safety and welfare. (4) An authorised officer may request a member of the Garda Síochána to accompany him or her when carrying out an inspection. |
+| Institution of proceedings by health board. | 23U.—If a health board believes— (*a*) that a person who is arranging or undertaking a private foster care arrangement has not notified it under section 23P, or (*b*) that such a person is not taking all reasonable measures to safeguard the health, safety and welfare of the child concerned, it may apply to the District Court for one of the following orders: (i) that a supervision order under section 19 be made in respect of the child, (ii) that the child be taken into the care of the health board under section 13, 17 or 18, or (iii) that the arrangement be terminated and the child returned to his or her parents or guardian, and the Court may order accordingly. |
+| Restrictions on private foster care arrangements in certain cases. | 23V.—(1) A person shall not arrange or undertake a private foster care arrangement for the purpose of adopting a child under the Adoption Acts, 1952 to 1998. (2) Any person undertaking a private foster care arrangement in respect of a child shall not apply under those Acts to adopt the child unless— (*a*) the child is eligible for adoption under the Adoption Acts, 1952 to 1998, and (*b*) the relevant health board has consented to the continuance of the arrangement pending the completion of an assessment of that person under those Acts. (3) If a health board believes that a person who is arranging or undertaking a private foster care arrangement is doing so in contravention of subsection (1) or (2), it may apply to the District Court for an order either— (*a*) that the child be taken into its care under section 13, 17 or 18, or (*b*) that the arrangement be terminated and the child returned to his or her parents or guardian, and the Court may order accordingly. |
+| Offences. | 23W.—(1) Any person— (*a*) who while arranging or undertaking a private foster care arrangement does not notify the relevant health board under section 23P, (*b*) who contravenes subsection (2) or (3) of section 23R, (*c*) who refuses to allow an authorised officer to enter any premises in accordance with subsection (1) or (2) of section 23T or obstructs or impedes an authorised officer in the exercise of his or her powers under that section, (*d*) who while arranging or undertaking a private foster care arrangement knowingly or wilfully makes or causes or procures any other person to make a false or misleading statement to the relevant health board, (*e*) who contravenes section 23V(1), or (*f*) who does not comply with an order under paragraph (ii) or (iii) of section 23U or under section 23V(3), is guilty of an offence and liable on summary conviction to a fine not exceeding £1,500. (2) Where a person is convicted of an offence under this section, the District Court may by order prohibit the person from arranging or undertaking a private foster care arrangement for such period as may be specified in the order. |
+| Saver. | 23X.—This Part is without prejudice to any other provision of this Act or any provision of the *Children Act, 2001,* which imposes, in the interests of a child, duties or obligations on a health board or a member of the Garda Síochána.”. |
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F40: Repealed (23.07.2007) by *Child Care (Amendment) Act 2007* (26/2007), s. 15, S.I. No. 509 of 2007.
+>
+> **Editorial Notes:**
+>
+> E18: *Child Care Act 1991* (17/1991), Part IVA, was subsequently amended by *Child Care (Amendment) Act 2011*, s. 10, not commenced as of date of revision, subject to transitional provisions in s. 48.
+>
+> E19: *Child Care Act 1991* (17/1991), ss. 23A(2)(b) and 23B(1), were subsequently amended (23.07.2007) by *Child Care (Amendment) Act 2007*, s. 21 and sch. part 1, S.I. No. 509 of 2007.
+
+## PART 4Diversion Programme — PART 4 — Diversion Programme
+
+*Introductory*
+
+### 17. Interpretation (Part 4).
+
+**17.**—(1) In this Part—
+
+“caution” means either a formal caution or an informal caution, as appropriate;
+
+“conference” has the meaning assigned to it by *section 29*;
+
+“Director” means the member of the Garda Síochána assigned by the Commissioner pursuant to *section 20*;
+
+“facilitator” has the meaning assigned to it by *section 31(4)*;
+
+“formal caution” and “informal caution” have the meanings assigned to them respectively by *section 25(4)*;
+
+“Programme” has the meaning assigned to it by *section 18*.
+
+(2) A reference in this Part to the parents or guardian, or a parent or guardian, of a child shall be construed, unless the context otherwise requires, as including an adult relative of the child with whom the child is for the time being residing or who, in the opinion of the juvenile liaison officer supervising the child, is exercising, or could exercise, a beneficial influence on the child.
+
+### 18. Principle.
+
+F41[**18.**— Unless the interests of society otherwise require and subject to this Part, any child who—
+
+(*a*) has committed an offence, or
+
+(*b*) has behaved anti-socially,
+
+and who accepts responsibility for his or her criminal or anti-social behaviour shall be considered for admission to a diversion programme (in this Part referred to as the Programme) having the objective set out in *section 19*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F41: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 123, S.I. No. 65 of 2007.
+
+### 19. Objective of Programme.
+
+**19.**—F42[(1) The objective of the Programme is to divert any child who accepts responsibility for his or her criminal or anti-social behaviour from committing further offences or engaging in further anti-social behaviour.]
+
+(2) The objective shall be achieved primarily by administering a caution to such a child and, where appropriate, by placing him or her under the supervision of a juvenile liaison officer and by convening a conference to be attended by the child, family members and other concerned persons.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F42: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 124, S.I. No. 65 of 2007.
+
+### 20. Diversion Programme.
+
+**20.**—(1) The Programme shall be carried on and managed, under the general superintendence and control of the Commissioner of the Garda Síochána, by a member of the Garda Síochána not below the rank of superintendent who shall be assigned for that purpose by the Commissioner and is referred to in this Part as the Director.
+
+(2) The Commissioner may assign duties other than those relating to the Programme to the Director during his or her period of assignment as Director.
+
+### 21. Temporary incapacity of Director.
+
+**21.**—(1) Whenever it appears to the Commissioner that the Director is, through absence, ill-health or other sufficient cause, temporarily unable to act, the Commissioner may appoint a member of the Garda Síochána not below the rank of inspector to act as the Director for such period (not exceeding the duration of the incapacity) as the Commissioner thinks proper, and references to the Director in this Part shall include the member so acting.
+
+(2) The Director may, in writing, delegate any of the functions assigned to the Director under this Part to a member of the Garda Síochána not below the rank of inspector and may revoke any such delegation, and references to the Director in this Part shall include any member to whom any such functions are for the time being so delegated.
+
+*Admission to Programme*
+
+### 22. Report on child to Director.
+
+**22.**—Where criminal F43[or anti-social] behaviour by a child comes to the notice of the Garda Síochána, the member of the Garda Síochána dealing with the child for that behaviour may prepare a report in the prescribed form as soon as practicable and submit it to the Director with a statement of any action that has been taken in relation to the child and a recommendation as to any further action, including admission to the Programme, that should, in the member’s opinion, be taken in the matter.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F43: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 2, S.I. No. 65 of 2007.
+
+### 23. Admission to Programme.
+
+**23.**—(1) F44[Subject to *subsection (6)*, a child] may be admitted to the Programme if he or she—
+
+(*a*) accepts responsibility for his or her criminal F45[or anti-social] behaviour, having had a reasonable opportunity to consult with his or her parents or guardian and obtained any legal advice sought by or on behalf of him or her,
+
+(*b*) consents to be cautioned and, where appropriate, to be supervised by a juvenile liaison officer, and
+
+(*c*) F44[is 10 years of age or over that age] and under 18 years of age,
+
+but *paragraph (b)* shall not apply where the Director is satisfied that the failure to agree to being cautioned or supervised is attributable to undue pressure being brought to bear on the child by any person and, in that event, the child shall be deemed to have consented for the purposes of that paragraph.
+
+(2) The Director shall be satisfied that the admission of the child to the Programme would be appropriate, in the best interests of the child and not inconsistent with the interests of society and any victim.
+
+(3) The criminal behaviour for which the child has accepted responsibility shall not be behaviour in respect of which admission to the Programme is excluded under any regulations made pursuant to *section 47,* unless the Director of Public Prosecutions directs otherwise in a notification to the Director.
+
+(4) When the admission of a child to the Programme is being considered any views expressed by any victim in relation to the child’s criminal F45[or anti-social] behaviour shall be given due consideration but the consent of the victim shall not be obligatory for such admission.
+
+(5) For the purposes of *subsection (1)(c)*, the age for admission to the Programme shall be the age of the child on the date on which the criminal F45[or anti-social] behaviour took place.
+
+F46[(6) Notwithstanding *subsection (1)*, a child aged 10 or 11 years shall be admitted to the Programme if—
+
+(*a*) he or she accepts responsibility for his or her criminal behaviour, having had a reasonable opportunity to consult with his or her parents or guardian and obtained any legal advice sought by or on behalf of him or her, and
+
+(*b*) *subsections (2)* to *(5)* apply in relation to the child.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F44: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 125(a) and (c), S.I. No. 65 of 2007.
+>
+> F45: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 125(b), S.I. No. 65 of 2007.
+>
+> F46: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 125(d), S.I. No. 65 of 2007.
+
+### 24. Decision to admit to Programme.
+
+**24.**—(1) It shall be a function of the Director to decide whether to admit a child to the Programme and the category of caution to be administered to any child so admitted.
+
+(2) Where the Director decides that a child should be admitted to the Programme, he or she shall direct a juvenile liaison officer to give notice in writing to the parents or guardian of the child specifying the criminal F47[or anti-social] behaviour in respect of which a caution is to be administered, whether the caution is to be formal or informal and the time and place where it is to be administered and stating that the parents or guardian are obliged to attend its administration.
+
+(3) Every such notice shall be expressed in language designed to be understood by the parents or guardian of the child and shall be available in the Irish language to a child who is from a Gaeltacht area or whose first language is Irish.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F47: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 2, S.I. No. 65 of 2007.
+
+*Administration of cautions*
+
+### 25. Cautions.
+
+**25.**—(1) A caution shall be administered to every child admitted to the Programme.
+
+(2) A formal caution shall be administered in a Garda Síochána station or, in exceptional circumstances, elsewhere by—
+
+(*a*) a member of the Garda Síochána not below the rank of inspector, or
+
+(*b*) a juvenile liaison officer who has been trained in mediation skills,
+
+in the presence of the parents or guardian and, if the caution has been administered by such a member of the Garda Síochána, a juvenile liaison officer.
+
+(3) An informal caution shall be administered by a juvenile liaison officer in a Garda Síochána station, in the child’s normal place of residence or in exceptional circumstances elsewhere, in the presence of the parents of guardian of the child.
+
+(4) In this section—
+
+“formal caution” means a caution to be administered to a child where—
+
+(*a*) no previous caution has been administered, or
+
+(*b*) one or more than one informal or formal caution has been previously administered,
+
+and the Director considers that the child’s criminal F48[or anti-social] behaviour was of such a nature that it could not be adequately dealt with by way of informal caution;
+
+“informal caution” means a caution to be administered to a child where—
+
+(*a*) no previous caution has been administered, or
+
+(*b*) one or more than one informal caution has been previously administered,
+
+and the Director considers that the child’s criminal F48[or anti-social] behaviour was not sufficiently serious to warrant a formal caution.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F48: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 2, S.I. No. 65 of 2007.
+
+### 26. Presence of victim at formal caution.
+
+**26.**—(1) The Director may invite any victim whose views in relation to the child’s criminal F49[or anti-social] behaviour have been considered pursuant to *section 23(4)* to be present at the administration of a formal caution.
+
+F50[(1A) Where the Director invites a victim to be present at the administration of a formal caution pursuant to *subsection (1)*, he or she shall ensure that the victim—
+
+(*a*) is provided with full and unbiased information about the process of administering a formal caution and the potential outcomes of the process under this Act, and
+
+(*b*) is informed that he or she may withdraw at any time his or her consent to being so present.]
+
+(2) Where any victim is so present, there shall be a discussion among those present about the child’s criminal F49[or anti-social] behaviour.
+
+F50[(2A) The member of the Garda Síochána administering the formal caution shall, where a victim is present at the administration of the caution, have regard to the need to safeguard the victim from secondary and repeat victimisation, intimidation or retaliation while the victim is so present.]
+
+(3) The member of the Garda Síochána administering the formal caution may invite the child—
+
+(*a*) to apologise, whether orally or in writing or both, to the victim, and
+
+(*b*) where appropriate, to make financial or other reparation to him or her.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F49: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 2, S.I. No. 65 of 2007.
+>
+> F50: Inserted (27.11.2017) by *Criminal Justice (Victims of Crime) Act 2017* (28/2017), s. 34(1)(b), S.I. No. 530 of 2017.
+
+*Supervision of children admitted to Programme*
+
+### 27. Supervision.
+
+**27.**—(1) (*a*) Subject to *paragraph (d),* where a child has received a formal caution he or she shall be placed by the Director under the supervision of a juvenile liaison officer for a period of 12 months from the date of the administration of the caution.
+
+(*b*) Subject to *paragraph (c)*, where a child has received an informal caution he or she shall not be placed under the supervision of a juvenile liaison officer.
+
+(*c*) Subject to *paragraph (d),* in exceptional circumstances, a child who has received an informal caution may be placed by the Director under the supervision of a juvenile liaison officer for a period of 6 months from the date of the administration of the caution.
+
+(*d*) The periods referred to in *paragraphs (a)* and *(c)* may be varied by the Director in a manner consistent with any regulations under *section 47* or pursuant to any recommendation arising from a conference.
+
+(2) Where a child who is placed under the supervision of a juvenile liaison officer is subsequently found guilty of an offence the period of supervision shall terminate forthwith, if it has not terminated at the time of the finding of guilt.
+
+### 28. Level of supervision.
+
+**28.**—(1) The level of supervision to be applied in the case of any child shall, subject to *section 42(1)*, be determined by the juvenile liaison officer who is supervising the child.
+
+(2) The juvenile liaison officer shall have regard to the following matters when making a determination under *subsection (1)*—
+
+(*a*) the seriousness of the child’s criminal F51[or anti-social] behaviour,
+
+(*b*) the level of support given to, and the level of control of, the child by the child’s parents or guardian,
+
+(*c*) the likelihood, in the opinion of the juvenile liaison officer, of the child’s committing further offences F52[or engaging in further anti-social behaviour], and
+
+(*d*) any directions from the Director on the appropriate level of supervision in any case or in any case of a particular class.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F51: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 2, S.I. No. 65 of 2007.
+>
+> F52: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 3, S.I. No. 65 of 2007.
+
+*Holding of conference in respect of child*
+
+### 29. “Conference”.
+
+**29.**—In this Part “conference”, in relation to a child, means a meeting held pursuant to this Part of persons concerned with the child’s welfare, and such a conference shall have the following functions:
+
+(*a*) to bring together the child in respect of whom the conference is being held, his or her parents or guardian, such other family members, relatives and other persons as appropriate and the facilitator with a view to—
+
+(i) establishing why the child became involved in the behaviour that gave rise to his or her admission to the Programme,
+
+(ii) discussing how the parents or guardian, family members, relatives or any other person could help to prevent the child from becoming involved in further such behaviour, and
+
+(iii) where appropriate, reviewing the child’s behaviour since his or her admission to the Programme;
+
+(*b*) as appropriate and in accordance with this Part, to mediate between the child and the victim;
+
+(*c*) to formulate an action plan for the child; and
+
+(*d*) to uphold the concerns of the victim and have due regard to his or her interests.
+
+### 30. Recommendation that conference be held.
+
+**30.**—(1) Where a child is placed under the supervision of a juvenile liaison officer, that officer may, if he or she so thinks proper, recommend in a written report to the Director that a conference be held in respect of the child.
+
+(2) Without prejudice to any decision of the Director in a particular case, the agreement of a child’s parent or guardian shall be required for, and the views of the child shall be ascertained on, the holding of a conference.
+
+(3) (*a*) The juvenile liaison officer shall ascertain the views of any victim of the child’s criminal F53[or anti-social] behaviour as to the possibility of a conference being held and as to whether the victim would be agreeable to attend any such conference.
+
+(*b*) Where the victim is a child, the juvenile liaison officer shall have regard to his or her best interests and shall also, where practicable, ascertain whether his or her parents or guardian would be agreeable that a conference be held and would attend it.
+
+(4) The juvenile liaison officer shall, when he or she decides to make a recommendation pursuant to *subsection (1),* explain to the child concerned, and to his or her parent or guardian, the procedures and functions of a conference.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F53: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 2 S.I. No. 65 of 2007.
+
+### 31. Decision on holding conference.
+
+**31.**—(1) The Director, on receipt of a report pursuant to *section 30* from a juvenile liaison officer, shall, having regard to *subsection (2)* and *(3)*, decide whether or not a conference should be held.
+
+(2) In deciding whether a conference should be held the Director shall have regard to—
+
+(*a*) the report and recommendation of the juvenile liaison officer supervising the child concerned,
+
+(*b*) whether in the Director’s opinion a conference would be of assistance in preventing the commission by the child of further offences F54[or further criminal or anti-social behaviour by the child],
+
+(*c*) the role and responsibilities of the child’s parents or guardian and relatives,
+
+(*d*) the views, if any, of the victim,
+
+(*e*) whether the victim would attend the conference and, where the victim is a child, whether such attendance would be in his or her best interests,
+
+(*f*) the interests of the community in which the child resides, and
+
+(*g*) any other matter which the Director considers to be relevant.
+
+(3) A conference shall not be held unless the child and the child’s parents or guardian indicate that they will attend it.
+
+(4) (*a*) Where the Director decides that a conference should be held, he or she shall appoint a person (in this Part referred to as a “facilitator”) to convene the conference and a person to be its chairperson.
+
+(*b*) The facilitator shall be either the juvenile liaison officer supervising the child or another member of the Garda Síochána.
+
+(*c*) The chairperson shall be the facilitator, another member of the Garda Síochána or another person, with that other person’s agreement.
+
+(5) In any case where the Director decides that a conference should not be held he or she shall direct the juvenile liaison officer supervising the child to inform the child and the child’s parent or guardian accordingly.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F54: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 4, S.I. No. 65 of 2007.
+
+### 32. Persons entitled to attend conference.
+
+**32.**—(1) The following persons shall be entitled to attend a conference:
+
+(*a*) the child in respect of whom the conference is being held,
+
+(*b*) the parents or guardian of the child and members of the child’s family or relatives of the child, if the facilitator is of opinion that they or any one of them would make a positive contribution to it.
+
+(2) A conference shall not be held unless at least one person invited by virtue of *subsection (1)(b)* is in attendance.
+
+(3) The facilitator shall invite any other persons who in his or her opinion would make a positive contribution to the conference, including one or more representatives from any of the following bodies:
+
+F55[(*a*) the F56[Child and Family Agency];]
+
+(*b*) the probation and welfare service,
+
+(*c*) the school attended by the child,
+
+(*d*) the school attendance service,
+
+(*e*) the Garda Síochána.
+
+(4) The facilitator shall also invite to the conference any victim of the child’s criminal F57[or anti-social] behaviour and any relatives or friends of the victim whom the victim requests to have in attendance, unless the facilitator is of opinion that their attendance would not be in the best interests of the conference.
+
+(5) The facilitator may invite to the conference any other person requested by the child or the child’s family who in the facilitator’s opinion would be of benefit to the conference and, with the agreement of the persons attending the conference and the Director, any person engaged in carrying out research on or evaluation of conferences or their equivalent inside or outside the State.
+
+(6) If, in the course of a conference, the facilitator is of opinion that the continued presence of any person is not in the best interests of the conference or the child, the facilitator may exclude that person from further participation in the conference.
+
+(7) A person shall not disclose confidential information obtained by him or her while participating (or as a result of having participated) as a member of a conference.
+
+(8) A person who contravenes *subsection (7)* shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £1,500.
+
+(9) In this section “confidential” means that which is expressed to be confidential either as regards particular information or information of a particular class or description.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F55: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 11 item 9, S.I. No. 887 of 2004.
+>
+> F56: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 14 item 1, S.I. No. 502 of 2013.
+>
+> F57: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 2, S.I. No. 65 of 2007.
+>
+> **Editorial Notes:**
+>
+> E20: A fine of £1,500 converted (1.01.1999) to €1,904.61. This translates into a Class C fine not greater than €2,500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 32A. Attendance at conference by victim
+
+F58[**32A.** (1) Where the facilitator invites a victim to be present at a conference pursuant to *section 32(4)*, he or she shall ensure that the victim—
+
+(*a*) is provided with full and unbiased information about—
+
+(i) the process relating to a conference,
+
+(ii) the potential outcomes of the process under this Act, and
+
+(iii) the procedures for monitoring the implementation of, and compliance with, an action plan,
+
+and
+
+(*b*) is informed that he or she may withdraw at any time his or her consent to being so present.
+
+(2) The facilitator shall, where a victim is present at a conference, have regard to the need to safeguard the victim from secondary and repeat victimisation, intimidation or retaliation while the victim is so present.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F58: Inserted (27.11.2017) by *Criminal Justice (Victims of Crime) Act 2017* (28/2017), s. 34(1)(c), S.I. No. 530 of 2017.
+
+### 33. Location of conference.
+
+**33.**—The decision on where to hold a conference shall be made by the facilitator after hearing the views in that regard of the persons who are to attend it.
+
+### 34. Time limit for holding conference.
+
+**34.**—(1) A conference shall be held within the period during which the child concerned is under the supervision of a juvenile liaison officer.
+
+(2) A conference may be held on more than one occasion but, subject to *section 39(10)*, not outside the period referred to in *subsection (1)*.
+
+### 35. Notification to participants.
+
+**35.**—(1) The facilitator shall take all reasonable steps to ensure that notice of the time, date and place of the conference is given to every person who is entitled or has been invited to attend and has indicated a willingness to attend or an interest in attending.
+
+(2) Failure to notify any person entitled or invited to attend a conference or failure of any person so invited to attend it shall not of itself affect the validity of its proceedings unless the facilitator is of opinion that any such failure is likely to affect materially the outcome of the conference.
+
+### 36. Views of those unable or unwilling to attend conference.
+
+**36.**—The facilitator shall take all reasonable steps to ascertain the views, if any, of any person who has been invited to attend the conference concerned but has notified the facilitator that he or she is, for any reason, unable or unwilling to do so and shall ensure that any views so ascertained are made known at the conference.
+
+### 37. Procedure at conference.
+
+**37.**—(1) Subject to the provisions of this Part and any regulations under *section 47,* a conference may regulate its procedure in such manner as it thinks fit.
+
+(2) Subject to *sections 33, 34* and *39(10),* a conference may be adjourned to a time and place to be determined by it.
+
+(3) The facilitator shall ensure, as far as practicable, that any information and advice required by the conference to carry out its functions are made available to it.
+
+### 38. Period or level of supervision.
+
+**38.**—A conference shall consider whether the period or level of supervision of the child in respect of whom the conference is being held should be varied in the light of the following matters:
+
+(*a*) the circumstances of the child as respects education, training or employment,
+
+(*b*) the child’s leisure time activities,
+
+(*c*) the child’s relationship with his or her family and the local community,
+
+(*d*) the child’s attitude to his or her being supervised,
+
+(*e*) the child’s progress under the supervision,
+
+(*f*) the child’s attitude to his or her criminal F59[or anti-social] behaviour and, in particular, to the victim of that behaviour, whether or not the victim is present at the conference, and
+
+(*g*) any other matters that may be relevant in the particular case.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F59: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 2, S.I. No. 65 of 2007.
+
+### 39. Action plan.
+
+**39.**—(1) The parents or guardian of a child, when present at a conference in respect of the child (or in their absence a member of the child’s family or a relative of the child), and the child may, with the assistance of the other persons present at the conference, formulate an action plan for the child.
+
+(2) Any such action plan shall be agreed unanimously by those present at the conference, unless the disagreement of any person present is regarded by the facilitator as unreasonable, in which case that person’s agreement to the plan shall not be necessary.
+
+(3) An action plan may include provision for any one or more of the following matters:
+
+(*a*) an apology, whether orally or in writing or both, by the child to any victim,
+
+(*b*) financial or other reparation to any victim,
+
+(*c*) participation by the child in an appropriate sporting or recreational activity,
+
+(*d*) attendance of the child at a school or place of work,
+
+(*e*) participation by the child in an appropriate training or educational course or a programme that does not interfere with any work or school schedule of the child,
+
+(*f*) the child being at home at specified times,
+
+(*g*) the child staying away from specified places or a specified person or both,
+
+(*h*) taking initiatives within the child’s family and community that might help to prevent the commission by the child of further offences F60[or further criminal or anti-social behaviour by the child], and
+
+(*i*) any other matter that in the opinion of those present at the conference would be in the child’s best interests or would make the child more aware of the consequences of his or her criminal F61[or anti-social] behaviour.
+
+(4) When the action plan and its duration have been agreed, the facilitator shall produce a written record of the plan in language that can be understood by the child.
+
+(5) The action plan shall be signed by the child (where possible), the chairperson and one of the other persons present.
+
+(6) The action plan shall come into operation on the date it is signed.
+
+(7) A copy of the action plan shall be given or sent to the child by the chairperson.
+
+(8) Those present at the conference may appoint one or more of their number to implement the action plan and monitor compliance with it.
+
+(9) The chairperson shall, after consulting the other persons present, appoint a date, being a date after the period covered by the action plan has expired, for reconvening the conference to review compliance with the action plan.
+
+(10) The reconvened conference shall be held not more than 6 months from the date on which the action plan was signed and may be held outside the period of the child’s supervision by a juvenile liaison officer.
+
+(11) The chairperson may reconvene the conference at an earlier date than that appointed under *subsection (9)* if it comes to his or her notice that the child is not complying with any of the terms of the action plan.
+
+(12) The persons present at any conference reconvened pursuant to *subsection (11)* shall ascertain why the child is not complying with the action plan and shall encourage the child to comply with the plan or any amended version of it that they may agree upon.
+
+(13) The provisions of *subsections (4)* to *(7)* shall apply to any action plan amended in accordance with *subsection (12)*.
+
+(14) Subject to *subsection (10)*, a conference may be reconvened on any number of occasions to discuss any aspect of an action plan.
+
+(15) Nothing in this section shall prevent any person or persons who implemented, and monitored compliance with, the action plan from continuing, with the agreement of the child, to implement and monitor compliance with the plan after the period covered by it has expired and it has been reviewed at a reconvened conference.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F60: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 4, S.I. No. 65 of 2007.
+>
+> F61: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 2, S.I. No. 65 of 2007.
+
+### 40. Disagreement on action plan.
+
+**40.**—Failure to agree on the terms of an action plan shall not invalidate the proceedings of a conference.
+
+### 41. Report to Director.
+
+**41.**—As soon as practicable after a conference has been held the facilitator shall report to the Director on the following matters:
+
+(*a*) the terms of any action plan,
+
+(*b*) the matters discussed at the conference.
+
+(*c*) the views of those present, and
+
+(*d*) any views ascertained pursuant to *section 36,*
+
+and shall recommend, having had regard to the views referred to in *paragraphs (c)* and *(d)*, whether in his or her opinion the period and level of supervision of the child concerned should be varied and, if so, to what extent.
+
+### 42. Decision by Director on period or level of supervision.
+
+**42.**—(1) On receipt of a report submitted pursuant to *section 41,* the Director shall, where appropriate, decide whether the child’s period or level of supervision should be varied and, if so, to what extent.
+
+(2) Where the Director makes a decision pursuant to *subsection (1)*, he or she shall inform the juvenile liaison officer supervising the child accordingly and that officer shall so inform the child and the child’s parent or guardian as soon as practicable.
+
+### 43. Administrative services.
+
+**43.**—The Director shall provide such administrative services as may be necessary to enable a conference to discharge its functions.
+
+*Committee to monitor effectiveness of Programme*
+
+### 44. Review of effectiveness of Programme.
+
+**44.**—F62[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F62: Repealed (2.04.2025) by *Policing, Security and Community Safety Act 2024* (01/2024), s. 5 and sch. 1 ref. no. 1, S.I. No. 107 of 2025.
+>
+> **Editorial Notes:**
+>
+> E21: Previous affecting provision: a fine of £1,500 converted (1.01.1999) to €1,904.61. This translates into a Class C fine not greater than €2,500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 45. Vacancies in committee.
+
+**45.**F63[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F63: Repealed (2.04.2025) by *Policing, Security and Community Safety Act 2024* (01/2024), s. 5 and sch. 1 ref. no. 1, S.I. No. 107 of 2025.
+
+*Other matters relating to the Programme*
+
+### 46. Supplemental provisions.
+
+**46.**—(1) The Commissioner shall ensure that all members of the Garda Síochána who act as facilitators receive whatever training the Commissioner considers sufficient and appropriate for the proper and efficient discharge of their duties while they are acting in that capacity.
+
+(2) Any powers conferred by this Part or any regulations under it on or in relation to any member of the Garda Síochána are without prejudice to any other powers which the member may have in relation to the commission or suspected commission of an offence.
+
+(3) A failure on the part of any member of the Garda Síochána to observe any provision of this Part or of regulations under it shall not of itself render that member liable to any criminal or civil proceedings or of itself affect the lawfulness of the custody of a detained child or the admissibility in evidence of any statement made by such a child.
+
+(4) A failure on the part of any member of the Garda Síochána to observe any provision of this Part or of regulations under it shall render the member liable to disciplinary proceedings.
+
+### 47. Regulations (Part 4).
+
+**47.**—The Minister may make regulations prescribing—
+
+(*a*) the procedures to be followed when the Director is deciding—
+
+(i) whether or not a child should be admitted to the Programme,
+
+(ii) whether an informal or a formal caution should be administered to a child,
+
+(iii) whether the victim should be invited to the administration of a formal caution,
+
+(iv) whether to convene a conference in respect of any child who has been placed under supervision;
+
+(*b*) the level of supervision appropriate in any case or class of case;
+
+(*c*) any criminal behaviour of a serious nature in respect of which admission to the Programme shall be excluded; or
+
+(*d*) any other matter or thing which is referred to in this Part as prescribed;
+
+or for the purposes of enabling any provision of this Part to have full effect and for its due administration.
+
+### 48. Inadmissibility of certain evidence.
+
+F64[**48.**— (1) Subject to *subsection (2)*, no evidence shall be admissible in any court in respect of—
+
+(*a*) any acceptance by a child of responsibility for criminal or anti-social behaviour in respect of which the child has been admitted to the Programme,
+
+(*b*) that behaviour, or
+
+(*c*) the child’s involvement in the Programme.
+
+(2) Where a court is considering the sentence (if any) to be imposed in respect of an offence committed by a child after the child’s admission to the Programme, the prosecution may inform it of any of the matters referred to in *subsection (1)*.
+
+(3) *Subsection (2)* applies, with the necessary modifications, in relation to a child who has attained the age of 18 years.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F64: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 126, S.I. No. 65 of 2007.
+
+### 49. Bar to proceedings.
+
+F65[**49.**—(1) A child shall not be prosecuted for the criminal behaviour, or any related behaviour, in respect of which he or she has been admitted to the Programme.
+
+(2) A child who has been admitted to the Programme in respect of anti-social behaviour shall not be the subject of an application for an order under *section 257D* in relation to any such behaviour which occurred prior to such admission.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F65: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 127, S.I. No. 65 of 2007.
+
+### 50. Privilege.
+
+**50.**—No evidence shall be admissible in any court of any information, statement or admission disclosed or made only in the course of a conference or of the contents of any report of a conference.
+
+### 51. Protection of identity of children
+
+**51.**—(1) Subject to *subsection (2),* no report shall be published or included in a broadcast—
+
+(*a*) in relation to the admission of a child to the Programme or the proceedings at any conference relating to the child, including the contents of any action plan for the child and of the report of the conference, or
+
+(*b*) which reveals the name, address or school of the child or any other information, including any picture, which is likely to lead to identification of the child.
+
+(2) *Subsection (1)* does not apply to the publication or broadcast of—
+
+(*a*) statistical information relating to the Programme, and
+
+(*b*) the results of any *bona fide* research relating to it.
+
+(3) If any matter is published or broadcast in contravention of *subsection (1),* each of the following persons, namely—
+
+(*a*) in the case of publication of the matter in a newspaper or periodical, any proprietor, any editor and any publisher of the newspaper or periodical,
+
+(*b*) in the case of any other such publication, the person who publishes it, and
+
+(*c*) in the case of any such broadcast, any body corporate which transmits or provides the programme in which the broadcast is made and any person having functions in relation to the programme corresponding to those of an editor of a newspaper,
+
+shall be guilty of an offence and shall be liable—
+
+(i) on summary conviction, to a fine not exceeding £1,500 or imprisonment for a term not exceeding 12 months or both, or
+
+(ii) on conviction on indictment, to a fine not exceeding £10,000 or imprisonment for a term not exceeding 3 years or both.
+
+(4) (*a*) Where an offence under *subsection (3)*—
+
+(i) has been committed by a body corporate, and
+
+(ii) is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity,
+
+he or she as well as the body corporate shall be guilty of the offence and be liable to be proceeded against and punished accordingly.
+
+(*b*) Where the affairs of a body corporate are managed by its members, *paragraph (a)* shall apply in relation to the acts and defaults of a member in connection with his or her functions of management as if he or she were a director of the body corporate.
+
+(5) Where a person is charged with an offence under *subsection (3),* it shall be a defence to prove that at the time of the alleged offence the person was not aware, and neither suspected nor had reason to suspect, that the publication or broadcast in question was of a matter referred to in *subsection (1)*.
+
+(6) In this section—
+
+“broadcast” means the transmission, relaying or distribution by wireless telegraphy of communications, sounds, signs, visual images or signals, intended for direct reception by the general public whether such communications, sounds, signs, visual images or signals are actually received or not;
+
+“publish” means publish to the public or a section of the public, and cognate words shall be construed accordingly.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E22: A fine of £1,500 converted (1.01.1999) to €1,904.61. This translates into a Class C fine not greater than €2,500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> A fine of £10,000 converted (1.01.1999) to €12,697.38.
+
+## PART 5Restriction on Criminal Proceedings Against Certain Children — PART 5 — F66[Restriction on Criminal Proceedings Against Certain Children] — Annotations Amendments: Substituted (16.10.2006) by Criminal Justice Act 2006 (26/2006), s. 128, S.I. No. 529 of 2006.
+
+### 52. Restriction on criminal proceedings against children.
+
+F67[**52.**—(1) Subject to *subsection (2)*, a child under 12 years of age shall not be charged with an offence.
+
+(2) *Subsection (1)* does not apply to a child aged 10 or 11 years who is charged with murder, manslaughter, rape, rape under section 4 of the Criminal Law (Rape) (Amendment) Act 1990 or aggravated sexual assault.
+
+(3) The rebuttable presumption under any rule of law, namely, that a child who is not less than 7 but under 14 years of age is incapable of committing an offence because the child did not have the capacity to know that the act or omission concerned was wrong, is abolished.
+
+(4) Where a child under 14 years of age is charged with an offence, no further proceedings in the matter (other than any remand in custody or on bail) shall be taken except by or with the consent of the Director of Public Prosecutions.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F67: Substituted (16.10.2006) by *Criminal Justice Act 2006* (26/2006), s. 129, S.I. No. 529 of 2006.
+>
+> **Modifications (not altering text):**
+>
+> C10: Application of subs. (4) restricted (10.02.2021) by *Harassment, Harmful Communications and Related Offences Act 2020* (32/2020), s. 8, S.I. No. 53 of 2021.
+>
+> **Consent of Director of Public Prosecutions**
+>
+> 8\. Notwithstanding section 52 (4) of the Children Act 2001, where a child under 17 years of age is charged with an offence under this Act, no further proceedings in the matter (other than any remand in custody or on bail) shall be taken except by or with the consent of the Director of Public Prosecutions.
+>
+> C11: Application of subs. (1) restricted (13.01.2012) by *Criminal Law (Defence and the Dwelling) Act 2011* (35/2011), s. 2(8)(b), S.I. No. 2 of 2012.
+>
+> **Justifiable use of force, etc.**
+>
+> **2.**— ...
+>
+> (8) An act is criminal notwithstanding that the person doing the act— ...
+>
+> (*b*) was a person to whom section 52 (1) of the Children Act 2001 applied.
+>
+> ...
+>
+> C12: Application of subs. (1) restricted by *Non-Fatal Offences against the Person Act 1997* (26/1997), s. 18(3)(b), as substituted (13.01.2012) by *Criminal Law (Defence and the Dwelling) Act 2011* (35/2011), s. 6(a), S.I. No. 2 of 2012.
+>
+> ...
+>
+> **Justifiable use of force; protection of person or property, prevention of crime, etc.**
+>
+> **18.**— [(3) For the purposes of this section an act is ‘criminal’ notwithstanding that the person doing the act— ...
+>
+> (*b*) was a person to whom section 52(1) of the Children Act 2001 applied.]
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E23: Power to take sample from child offender under certain conditions provided (20.11.2015) by *Criminal Justice (Forensic Evidence and DNA Database System) Act 2014* (11/2014), s. 32, S.I. No. 508 of 2015.
+
+### 53. Duty of Garda Síochána in relation to certain under-age children.
+
+**53.**—F68[(1) Subject to *subsections (2)* and *(3)*, where a member of the Garda Síochána has reasonable grounds for believing that a child under 12 years of age has committed an offence (except murder, manslaughter, rape, rape under section 4 of the Criminal Law (Rape) (Amendment) Act 1990 or aggravated sexual assault), the member shall endeavour to take the child to the child’s parent or guardian or arrange for another such member to do so.]
+
+(2) Where the child is taken to his or her parent or guardian and the member of the Garda Síochána so taking the child has reasonable grounds for believing that the child is not receiving adequate care or protection, the member shall inform F69[the F70[Child and Family Agency]] of the name, address and age of the child and the circumstances in which he or she came to the notice of the Garda Síochána.
+
+(3) Where it is not practicable for the child to be taken to his or her parent or guardian, the member of the Garda Síochána concerned may give the child, or arrange for the child to be given, into the custody of F69[the F70[Child and Family Agency]].
+
+(4) Where the child comes to the notice of F69[the F70[Child and Family Agency]] in accordance with *subsection (2),* or is given into its custody in accordance with *subsection (3),* and it appears to F69[the F70[Child and Family Agency]] that the child requires care or protection which he or she is unlikely to receive unless a court makes a care order or a supervision order in respect of the child, it shall be the duty of F69[the F70[Child and Family Agency]] to apply for a care order or a supervision order, as it thinks fit, in accordance with Part IV of the Act of 1991.
+
+(5) Where, in relation to a child to whom *subsection (1)* applies, the member of the Garda Síochána concerned has reasonable grounds for believing—
+
+(*a*) that there is an immediate and serious risk to the health or welfare of the child, and
+
+(*b*) that it would not be sufficient for his or her protection from that risk to await the making of an application for an emergency care order by F69[the F70[Child and Family Agency]] under section 13 of the Act of 1991,
+
+the member may remove the child to safety, and Part III of the Act of 1991 shall then apply as if the removal were a removal under section 12 of that Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F68: Substituted (16.10.2006) by *Criminal Justice Act 2006* (26/2006), s. 130, S.I. No. 529 of 2006.
+>
+> F69: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 11 item 10, S.I. No. 887 of 2004.
+>
+> F70: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 14 item 1, S.I. No. 502 of 2013.
+
+### 54. Aiding, etc., under-age child to commit offence.
+
+**54.**—F71[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F71: Deleted (16.10.2006) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 5, S.I. No. 529 of 2006.
+
+## PART 6Treatment of Child Suspects in Garda Sochna Stations — PART 6 — Treatment of Child Suspects in Garda Síochána Stations
+
+### 55. Treatment of child suspects.
+
+**55.**—In any investigation relating to the commission or possible commission of an offence by children, members of the Garda Síochána shall act with due respect for the personal rights of the children and their dignity as human persons, for their vulnerability owing to their age and level of maturity and for the special needs of any of them who may be under a physical or mental disability, while complying with the obligation to prevent escapes from custody and continuing to act with diligence and determination in the investigation of crime and the protection and vindication of the personal rights of other persons.
+
+### 56. Separation of children from adults in Garda Síochána station.
+
+**56.**—The member in charge of a Garda Síochána station shall, as far as practicable, ensure that any child while detained in the station shall not associate with an adult who is so detained and shall not be kept in a cell unless there is no other secure accommodation available.
+
+### 57. Notification to child.
+
+**57.**—Where a child is arrested and brought to a Garda Síochána station on suspicion of having committed an offence, the member in charge of the station shall without delay inform the child or cause the child to be informed, in a manner and in language that is appropriate to the age and level of understanding of the child—
+
+(*a*) of the offence in respect of which he or she has been arrested,
+
+(*b*) that he or she is entitled to consult a solicitor and how this entitlement can be availed of, and
+
+(*c*) that the child’s parent or guardian is being—
+
+(i) informed that the child is in custody in the station,
+
+(ii) given the information specified in *paragraphs (a)* and *(b),* and
+
+(iii) requested to attend at the station without delay.
+
+### 58. Notification of arrest of child to parent or guardian.
+
+**58.**—(1) When a child is arrested and brought to a Garda Síochána station on suspicion of having committed an offence, the member in charge of the station shall as soon as practicable—
+
+(*a*) inform or cause to be informed a parent or guardian of the child—
+
+(i) that the child is in custody in the station,
+
+(ii) in ordinary language and in the Irish language when dealing with a child from the Gaeltacht or a child whose first language is Irish, of the nature of the offence in respect of which the child has been arrested, and
+
+(iii) that the child is entitled to consult a solicitor and as to how this entitlement can be availed of;
+
+and
+
+(*b*) request the parent or guardian to attend at the station without delay.
+
+(2) (*a*) If the member in charge of the station—
+
+(i) is unable to communicate with a parent or guardian of the child, or
+
+(ii) the parent or guardian indicates that he or she cannot or will not attend at the station within a reasonable time,
+
+the member shall inform the child or cause the child to be informed without delay of that fact and of the child’s entitlement to have an adult relative or other adult reasonably named by him or her given the information specified in *subsection (1)(a)* and requested to attend at the station without delay.
+
+(*b*) *Subsection (1)* shall apply in relation to a person named by a child pursuant to *paragraph (a)* as it applies in relation to a parent or guardian.
+
+(3) Where the child is being transferred to another station or other place, the member in charge of the station from which the child is being transferred shall inform any person who has been informed under this section that the child is in custody, or cause him or her to be informed, of the transfer as soon as practicable.
+
+### 59. Notification to health board.
+
+**59.**—(1) Where the member in charge of a Garda Síochána station has reasonable cause to believe that a child who is in custody in the station on suspicion of having committed an offence may be in need of care or protection, the member shall, as soon as practicable, inform or cause to be informed F72[the F73[Child and Family Agency] accordingly, and it shall] send a representative to the station as soon as practicable.
+
+(2) Where it is not practicable for the representative of the F72[F73[Child and Family Agency]] to attend at the station within a reasonable time, he or she shall at the first available opportunity attend at the station to ascertain why the member in charge had reasonable cause to believe that the child may be in need of care or protection.
+
+(3) The F72[F73[Child and Family Agency]] shall, where appropriate, exercise its powers under the Act of 1991 in relation to the child.
+
+F74[(4) The Minister, with the agreement of the Minister for Health and Children, may issue guidelines in relation to the practical operation of this section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F72: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 11 item 11, S.I. No. 887 of 2004.
+>
+> F73: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 14 item 1, S.I. No. 502 of 2013.
+>
+> F74: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 131, S.I. No. 65 of 2007.
+
+### 60. Notification to solicitor.
+
+**60.**—(1) Where a child who is in custody in a Garda Síochána station has asked for a solicitor, the member in charge of the station shall notify the solicitor or cause him or her to be notified accordingly as soon as practicable.
+
+(2) Where the solicitor cannot be contacted within a reasonable time or is unwilling or unable to attend at the station, the child shall be so informed and given an opportunity to ask for another solicitor, and the member in charge shall notify or cause to be notified that other solicitor accordingly as soon as practicable.
+
+(3) *Subsections (1)* and *(2)* shall also apply in relation to a request for a solicitor for the child by any parent, guardian, adult relative, any adult reasonably named by the child or other adult (not being a member of the Garda Síochána) who is present, in accordance with *section 61(1)(b)*, during the questioning of the child or the taking of a written statement.
+
+(4) Where the child is being transferred to another station, the member in charge of the station from which the child is being transferred shall notify any solicitor who has been notified under this section or cause him or her to be notified of the transfer as soon as practicable.
+
+(5) Where a solicitor (other than a named solicitor) has been requested by or on behalf of a child, the member in charge shall give the person making the request or cause him or her to be given the name of one or more than one solicitor whom the member in charge reasonably believes may be willing to attend at the station within a reasonable time.
+
+### 61. Interviewing children.
+
+**61.**—(1) Subject to *subsections (2)* to *(4)*, a child who has been detained in a Garda Síochána station pursuant to any enactment shall not be questioned, or asked to make a written statement, in relation to an offence in respect of which he or she has been arrested unless in the presence of—
+
+(*a*) a parent or guardian, or
+
+(*b*) in his or her absence, another adult (not being a member of the Garda Síochána) nominated by the member in charge of the station.
+
+(2) Notwithstanding *subsection (1)*, the member in charge of the station may authorise the questioning of the child or the taking of a written statement in the absence of a parent or guardian, where the member has reasonable grounds for believing that to delay the questioning would involve a risk of death or injury to persons, serious loss of or damage to property, destruction of or interference with evidence or escape of accomplices.
+
+(3) The member in charge of the station may authorise the exclusion of a parent or guardian during the questioning of the child or the taking of a written statement where—
+
+(*a*) the parent or guardian is the victim of, or has been arrested in respect of, the offence being investigated,
+
+(*b*) the member has reasonable grounds for suspecting the parent or guardian of complicity in the offence, or
+
+(*c*) the member has reasonable grounds for believing that the parent or guardian would, if present during the questioning or the taking of a written statement, be likely to obstruct the course of justice.
+
+(4) The member in charge of the station may authorise the removal of a parent or guardian during the questioning of the child or the taking of a written statement where the member has reasonable grounds for believing that the conduct of the parent or guardian is such as to amount to an obstruction of the course of justice.
+
+(5) Where the child or his or her parent or guardian asks for a solicitor, he or she shall not be asked to make a statement, either orally or in writing, in relation to an offence until a reasonable time for the attendance of the solicitor has elapsed.
+
+(6) A child who is from a Gaeltacht area or whose first language is Irish shall be entitled to be questioned or to make a written statement in the Irish language, and any other child shall be entitled to make a written or oral statement in that language.
+
+(7) In this section references to a parent or guardian include references to an adult relative of the child, an adult reasonably named by the child pursuant to *section 58(2)(a)* or the adult mentioned in *subsection (1)(b)*.
+
+### 62. Notification of proceedings to parent or guardian.
+
+**62.**—(1) Where a child who is in custody in a Garda Síochána station is charged with an offence and the child’s parent or guardian is present at the station, the member in charge of the station shall ensure that—
+
+(*a*) a copy of the charge sheet containing particulars of the offence is handed to the parent or guardian, and
+
+(*b*) as soon as practicable, a notification in writing is sent to the child’s parents or guardian of—
+
+(i) the time, date and place of the child’s first appearance before the court, and
+
+(ii) the provisions of *section 91* concerning non-attendance, without reasonable excuse, of a parent or guardian at the court proceedings.
+
+(2) Where the child’s parent or guardian is not present at the station and his or her address is known, the member in charge of the station shall ensure that as soon as practicable—
+
+(*a*) a copy of the charge sheet containing particulars of the offence is sent to the parents or guardian, and
+
+(*b*) a notification in writing is sent to the parents or guardian of—
+
+(i) the time, date and place of the child’s first appearance before the court,
+
+(ii) the provisions of *section 91* concerning the non-attendance, without reasonable excuse, of a parent or guardian at the court proceedings,
+
+(iii) whether or not a recognisance was taken from the child,
+
+(iv) the name of any adult who attended at the station at the request of the child, and
+
+(v) if the child consulted a solicitor, the solicitor’s name and address.
+
+### 63. Notification of proceedings to adult relative or other adult.
+
+**63.**—(1) Where a child who is in custody in a Garda Síochána station is charged with an offence and the child’s parent or guardian is not present at the station, the member in charge shall ensure that a copy of the charge sheet containing particulars of the offence is handed to an adult relative of the child who is so present.
+
+(2) The member in charge of the station shall also ensure that as soon as practicable the adult relative is notified of the time, date and place of the child’s first appearance before the court and, if the child has consulted a solicitor, of the solicitor’s name and address.
+
+(3) Where neither the parent or guardian nor any adult relative of the child is present at the station, the member in charge of the station may send a copy of the charge sheet and a notification of the time, date and place of the child’s first appearance before the court to an adult relative.
+
+(4) The duties of the member in charge under this section shall apply only where the member is of opinion that the child’s parent or guardian would not be available to attend court with the child and that the adult relative in question is likely to be of assistance to, and provide support for, the child during the court proceedings.
+
+(5) In this section “adult relative” includes any adult reasonably named by the child pursuant to *section 58(2)(a)*.
+
+### 64. Procedure by summons.
+
+**64.**—(1) Where proceedings in respect of an offence alleged to have been committed by a child are to be commenced by the issue of a summons, the child’s parents or guardian may be named in the summons and, if named, shall be required to appear at the sitting of the court specified in the summons.
+
+(2) Where the summons names the child’s parents or guardian, it shall also specify the provisions of *section 91* concerning non-attendance, without reasonable excuse, of a parent or guardian at the specified sitting of the court.
+
+### 65. Notice to adult relative or other adult where proceeding by summons.
+
+**65.**—(1) Where proceedings in respect of an offence alleged to have been committed by a child are to be commenced by the issue of a summons and the whereabouts of his or her parents or guardian are unknown, a notice under this section may be issued to an adult relative of the child or other adult reasonably named by the child, whether or not the adult relative or other adult attended at the Garda Síochána station pursuant to *section 58(2)*.
+
+(2) A notice under this section shall be issued by the member of the Garda Síochána dealing with the child in respect of the offence for which the summons is being issued.
+
+(3) The notice shall state the time, date and place of the sitting of the court in respect of which the summons was issued and shall contain particulars of the offence which the child is alleged to have committed.
+
+(4) The notice shall issue only with the agreement of the child and where the member is of opinion that the adult concerned is likely to be of assistance to, and provide support for, the child during the court proceedings.
+
+### 66. Provisions common to sections 56 to 63 and 65.
+
+**66.**—(1) In this section “the relevant sections” means *sections 56* to *63* and *65*.
+
+(2) A failure on the part of any member of the Garda Síochána to observe any provision of the relevant sections shall not of itself render that member liable to any criminal or civil proceedings or of itself affect the lawfulness of the custody of a detained child or of the admissibility in evidence of any statement made by the child.
+
+(3) A failure on the part of any member of the Garda Síochána to observe any provision of the relevant sections shall render that member liable to disciplinary proceedings.
+
+(4) The duties imposed by the relevant sections on members of the Garda Síochána in relation to the treatment of any child who is in custody in a Garda Síochána station are without prejudice to any other duties imposed on them in that respect by or under any other enactment.
+
+(5) The provisions of the relevant sections shall not apply if and for so long as the member in charge of the Garda Síochána station in which a person is in custody has reasonable grounds for believing that the person is not below the age of 18 years.
+
+### 67. Amendment of section 5 of the Criminal Justice Act, 1984.
+
+**67.**—Section 5 (which provides for access to a solicitor and notification of detention) of the Act of 1984 is hereby amended by the deletion of subsection (2) of that section and the substitution of “eighteen years” for “seventeen years” where the latter expression occurs in subsections (1) and (3) thereof.
+
+### 68. Release on bail by member of Garda Síochána.
+
+**68.**—(1) When a child is arrested and brought to a Garda Síochána station by a member of the Garda Síochána, the member in charge of the station may, if he or she considers it prudent to do so and no warrant directing the detention of the child is in force, release the child on bail and for that purpose take, or arrange to have taken, from the child a recognisance, with or without sureties, for his or her due appearance—
+
+(*a*) before the Children Court at its next sitting in the district court area in which the child has been arrested or at any subsequent sitting thereof in that district court area during the period of 30 days immediately following such next sitting, or
+
+(*b*) in the case of the Children Court in the Dublin Metropolitan District, before the next sitting of that Court or any subsequent sitting thereof during the period of 30 days immediately following such next sitting.
+
+(2) The recognisance referred to in *subsection (1)* may be taken from the child’s parent or guardian and may be for the due appearance before the Children Court of the parent or guardian as well as of the child concerned.
+
+(3) The recognisance may be estreated in like manner as a recognisance entered into before a judge of the District Court is estreated.
+
+F75[(4) If the recognisance is conditioned for the payment of a sum of money, that sum may be accepted in lieu of a surety or sureties.]
+
+(5) Any recognisance taken under this section, or any sum of money accepted under this section in lieu of a surety or sureties, shall be transmitted, by the person taking the recognisance or receiving the sum of money, to the district court clerk for the district court area in which the sitting of the Children Court before which the child is to appear is being held.
+
+(6) This section does not apply in the case of an arrest of a child under section 251 (which deals with the arrest of suspected deserters and absentees) of the Defence Act, 1954.
+
+(7) Section 31 (which deals with release on bail by members of the Garda Síochána) of the Criminal Procedure Act, 1967, shall cease to have effect in relation to a child.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F75: Substituted (18.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 21, S.I. No. 236 of 2007.
+
+### 69. Application of certain provisions to married child.
+
+**69.**—In the application of this Part in relation to a child who is married—
+
+(*a*) the references in *sections 57, 58, 60(3), 61(7), 62* (except *subsections (1)(b)(ii)* and *(2)(b)(ii)*), *63, 65, 68(2)* and *70(1)(b)* to a parent or guardian of the child shall be construed as references to his or her spouse,
+
+*(b*) the references in *sections 58(2)(a), 60(3), 61(7), 63, 65* and *70(1)(b)* to an adult relative of the child shall be construed as including references to his or her parent or guardian, and
+
+(*c*) *section 64* shall not have effect.
+
+### 70. Regulations (Part 6).
+
+**70.**—(1) Further provision may be made by regulations in relation to—
+
+(*a*) the treatment of children while in custody in Garda Síochána stations,
+
+(*b*) the role of a parent, guardian or adult relative of a child or another adult (including any representative of F76[the F77[Child and Family Agency]]) who is present in a Garda Síochána station pursuant to this Part while the child is in custody, and
+
+(*c*) such other matters (if any) as may be necessary or expedient for the purpose of enabling this Part to have full effect and for its due administration.
+
+(2) Pending the making of any regulations under *subsection (1)(a)*, the references to seventeen years in Regulations 9 and 13 of the Criminal Justice Act, 1984 (Treatment of Persons in Custody in Garda Síochána Stations) Regulations, 1987, shall be construed and have effect as if they were references to eighteen years.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F76: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 11 item 12, S.I. No. 887 of 2004.
+>
+> F77: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 14 item 1, S.I. No. 502 of 2013.
+>
+> **Editorial Notes:**
+>
+> E24: The *Criminal Justice Act 1984 (Treatment of persons in custody in Garda Síochána Stations) Regulations 1987* (S.I. No. 119 of 1987) were amended to reflect the amendments made by this section (14.12.2006) by *Criminal Justice Act 1984 (Treatment of persons in custody in Garda Síochána Stations) (Amendment) Regulations 2006* (S.I. No. 641 of 2006).
+
+## PART 7Children Court — PART 7 — Children Court
+
+### 71. Children Court.
+
+**71.**—(1) (*a*) The District Court, when hearing charges against children or when hearing applications for orders relating to a child at which the attendance of the child is required or when exercising any other jurisdiction conferred on the Children Court by or under this or any other Act or by F78[Part III, IV, V or VA] of the Act of 1991, shall be known as the Children Court and is referred to as “the Court” in this Part and F79[*Parts 8* and *12A*].
+
+(*b*) When exercising any such jurisdiction the Court shall sit in a different building or room from that in which sittings of any other court are held or on different days or at different times from those on or at which sittings of any such other court are held.
+
+(2) So far as practicable sittings of the Court shall be so arranged that persons attending are not brought into contact with persons in attendance at a sitting of any other court.
+
+(3) Where—
+
+(*a*) in the course of any proceedings before the Court it appears to it that the person charged or to whom the proceedings relate is 18 years of age or upwards, or
+
+(*b*) in the course of any proceedings before the District Court sitting otherwise than as the Children Court it appears to the District Court that the person charged or to whom the proceedings relate is under the age of 18 years,
+
+nothing in this section shall be construed as preventing the Court or the District Court, as the case may be, if it thinks it undesirable to adjourn the case, from proceeding to hear and determine it.
+
+(4) The Court shall sit as often as may be necessary for the purpose of exercising any jurisdiction conferred on it by or under this or any other enactment.
+
+(5) Any reference to a juvenile court in any enactment in force immediately before the commencement of this section shall be construed as a reference to the Court.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F78: Substituted (23.06.2026) by *Child Care (Amendment) Act 2022* (21/2022), s. 9, S.I. No. 208 of 2026.
+>
+> F79: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 6, S.I. No. 65 of 2007.
+>
+> **Editorial Notes:**
+>
+> E25: Previous affecting provision: subs. (1)(a) amended (31.12.2017) by *Child Care (Amendment) Act 2011* (19/2011), s. 32, S.I. No. 637 of 2017; substituted (23.06.2026) as per F-note above.
+
+### 72. Requirement for transacting business in Children Court.
+
+**72.**—(1) Subject to *subsection (2)*, a judge of the District Court shall, before transacting business in the Children Court, participate in any relevant course of training or education which may be required by the President of the District Court.
+
+(2) *Subsection (1)* shall apply only in relation to judges of the District Court appointed on or after 15 December, 1995.
+
+### 73. Arrangements for hearing of proceedings in Children Court.
+
+**73.**—(1) As far as practicable, the hearing of proceedings in the Court shall be arranged so that the time that the persons involved have to wait for the proceedings to be heard is kept to a minimum.
+
+(2) The time stated in every summons requiring a person to appear before the Court shall be a time which the person preparing the summons reasonably expects that the proceedings in respect of which the summons is issued will be heard.
+
+### 74. Children charged with summary offences jointly with adults.
+
+**74.**—(1) Where—
+
+(*a*) a child is charged with a summary offence and the charge is made jointly against the child and one or more adults,
+
+(*b*) a child is charged with a summary offence and one or more adults are charged at the same time with aiding, abetting, counselling or procuring the commission of that offence,
+
+(*c*) a child is charged with aiding, abetting, counselling or procuring the commission of a summary offence with which one or more adults are charged at the same time, or
+
+(*d*) a child is charged with a summary offence arising out of circumstances which are the same as or connected with those giving rise to an offence with which one or more adults are charged at the same time,
+
+the charge or charges against the child and the adult or adults shall be heard by the Court unless the Court considers that the charge or charges should be heard by the District Court sitting otherwise than as the Children Court.
+
+(2) Where pursuant to *subsection (1)* the Court is satisfied of the guilt of an adult—
+
+(*a*) any sentence imposed or order made shall be one that could have been imposed or made if that person had been found guilty by the District Court, and
+
+(*b*) that person shall for all purposes be deemed to have been found guilty by the District Court.
+
+### 75. Jurisdiction to deal summarily with indictable offences.
+
+**75.**—(1) Subject to *subsection (3)*, the Court may deal summarily with a child charged with any indictable offence, other than an offence which is required to be tried by the Central Criminal Court or manslaughter, unless the Court is of opinion that the offence does not constitute a minor offence fit to be tried summarily or, where the child wishes to plead guilty, to be dealt with summarily.
+
+(2) In deciding whether to try or deal with a child summarily for an indictable offence, the Court shall also take account of—
+
+(*a*) the age and level of maturity of the child concerned, and
+
+(*b*) any other facts that it considers relevant.
+
+(3) The Court shall not deal summarily with an indictable offence where the child, on being informed by the Court of his or her right to be tried by a jury, does not consent to the case being so dealt with.
+
+(4) In deciding whether or not to consent under *subsection (3)* a child may obtain—
+
+(*a*) the assistance of his or her parent or guardian or, if the child is married to an adult, his or her spouse, or
+
+(*b*) where the parent or guardian or adult spouse of the child does not for any reason attend the relevant proceedings, the assistance of any adult relative of the child or other adult who is accompanying the child at the proceedings.
+
+(5) If at any time the Court ascertains that a child charged with an offence which is required to be tried by the Central Criminal Court or with manslaughter wishes to plead guilty and the Court is satisfied that he or she understands the nature of the offence and the facts alleged, the Court may, if the child signs a plea of guilty, send him or her forward for sentence with that plea to a court to which, but for that plea, the child would have been sent forward for trial.
+
+(6) A child shall not be sent forward for sentence under *subsection (5)* without the consent of the Director of Public Prosecutions or (in relation to offences for which proceedings may not be instituted or continued except by, or on behalf or with the consent of, the Attorney General) the Attorney General’s consent.
+
+(7) (*a*) Where a child is sent forward for sentence under this section, he or she may withdraw the written plea and plead not guilty to the charge.
+
+(*b*) In that event—
+
+(i) the court shall enter a plea of not guilty, which shall have the same effect in all respects as if the child had been sent forward for trial to that court on that charge in accordance with Part 1A (inserted by the Criminal Justice Act, 1999) of the Act of 1967,
+
+(ii) the prosecutor shall cause to be served on the child any documents that under section 4B or 4C (as so inserted) of that Act are required to be served and have not already been served, and
+
+(iii) the period referred to in subsection (1) of the said section 4B shall run from the date on which the not guilty plea is entered.
+
+### 76. Children charged with indictable offences jointly with adults.
+
+**76.**—Where—
+
+(*a*) a child is charged with an indictable offence and the charge is made jointly against the child and one or more adults,
+
+(*b*) a child is charged with an indictable offence and one or more adults are charged at the same time with aiding, abetting, counselling or procuring the commission of that offence,
+
+(*c*) a child is charged with aiding, abetting, counselling or procuring the commission of an indictable offence with which one or more adults are charged at the same time, or
+
+(*d*) a child is charged with an indictable offence arising out of circumstances which are the same as or connected with those giving rise to an offence with which one or more adults are charged at the same time,
+
+the Children Court shall deal with the child in accordance with *section 75* and the adult or adults in accordance with the enactments governing proceedings in the District Court against a person charged with an indictable offence.
+
+## PART 8Proceedings in Court — PART 8 — Proceedings in Court
+
+### 76A. Powers of Court in criminal proceedings against child.
+
+F80[**76A.**— (1) In any criminal proceedings against a child the Court may exercise any of the following powers conferred on it by this Part, namely, power—
+
+(*a*) under *section 76B*, to request the attendance of a representative of the F81[Child and Family Agency],
+
+(*b*) under *section 76C*, to dismiss the case on its merits,
+
+(*c*) under *section 77*, to direct the F81[Child and Family Agency] to convene a family welfare conference in respect of the child F82[...], or
+
+(*d*) under *section 78*, to direct the probation and welfare service to arrange for the convening of a family conference in respect of the child.
+
+(2) *Subsection (1)* is without prejudice to the power of the Court to deal with the case in any other way if it is satisfied that to do so would be in the interests of justice.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F80: Inserted by *Criminal Justice Act 2006* (26/2006), s. 132, commenced (1.03.2007) except in so far as it relates to the insertion of s. 76A(1)(c), S.I. No. 65 of 2007; commenced (10.09.2007) in so far as it relates to the insertion of s. 76A(1)(c), S.I. No. 600 of 2007.
+>
+> F81: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 14 item 1, S.I. No. 502 of 2013.
+>
+> F82: Deleted (23.07.2007) by *Child Care (Amendment) Act 2007* (26/2007), s. 16, S.I. No. 509 of 2007.
+
+### 76B. Assistance to Court by F84[Child and Family Agency].
+
+F83[**76B.**— (1) Where—
+
+(*a*) a child who is charged with an offence is remanded on bail or, subject to *section 88(10)(b)*, in custody, and
+
+(*b*) it appears to the Court that the F84[Child and Family Agency] may be of assistance to it in dealing with the case,
+
+the Court may request the Executive to be represented in the proceedings.
+
+(2) Where the child is remanded on bail, the request shall be made at least one week before the date of the resumption of the proceedings concerned.
+
+(3) If, having heard the F84[Child and Family Agency]’s representative, the Court dismisses the case against the child on its merits, the F84[Child and Family Agency] shall, where appropriate, exercise its powers under the Act of 1991 in relation to the child.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F83: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 133, S.I. No. 65 of 2007.
+>
+> F84: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 14 item 1, S.I. No. 502 of 2013.
+
+### 76C. Dismissal of case against child under 14 in certain circumstances.
+
+F85[**76C.**— Where a child under 14 years of age is charged with an offence, the Court may, of its own motion or the application of any person, dismiss the case on its merits if, having had due regard to the child’s age and level of maturity, it determines that the child did not have a full understanding of what was involved in the commission of the offence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F85: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 134, S.I. No. 65 of 2007.
+
+### 77. Referral of case to health board.
+
+**77.**—(1) Where, in any proceedings in which a child is charged with an offence, it appears to the Court that it may be appropriate for a care order or a supervision order to be made under the Act of 1991 with respect to the child F86[or for the provision to that child of other care under the Act of 1991 (as amended by the Child Care (Amendment) Act 2011) or otherwise], the Court may, of its own motion or on the application of any person—
+
+(*a*) adjourn the proceedings and direct F87[the F88[Child and Family Agency]] to convene a family welfare conference in respect of the child F89[if in the Court’s view it is practicable for the F88[Child and Family Agency] to hold such a conference having regard to the age of the child and his or her family and other F90[circumstances.]]
+
+(*b*) F91[...]
+
+(2) Where a family welfare conference has been held by F87[the F88[Child and Family Agency]] pursuant to a direction under *subsection (1)(a)*—
+
+(*a*) if F87[the F88[Child and Family Agency]] applies under the Act of 1991 for a care order, a supervision order or a special care order with respect to the child, it shall inform the Court of the outcome of its application and of any other matter likely to be of assistance to the Court, or
+
+(*b*) if it decides not to apply for any such order, it shall inform the Court of—
+
+(i) its reasons for so deciding,
+
+(ii) any service or assistance which it has provided, or intends to provide, for the child and his or her family, and
+
+(iii) any other action which it has taken, or intends to take, with respect to the child.
+
+(3) The Court, on being informed by F87[the F88[Child and Family Agency]] of the matters mentioned in *subsection (2)*, may, if satisfied that it is appropriate to do so, dismiss the charge against the child on its merits.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F86: Inserted (31.12.2017) by *Child Care (Amendment) Act 2011* (19/2011), s. 33(a), S.I. No. 637 of 2017.
+>
+> F87: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 11 item 13, S.I. No. 887 of 2004.
+>
+> F88: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 14 item 1, S.I. No. 502 of 2013.
+>
+> F89: Substituted (23.07.2007) by *Child Care (Amendment) Act 2007* (26/2007), s. 17(a), S.I. No. 509 of 2007.
+>
+> F90: Substituted (31.12.2017) by *Child Care (Amendment) Act 2011* (19/2011), s. 33(b), S.I. No. 637 of 2017.
+>
+> F91: Deleted (23.07.2007) by *Child Care (Amendment) Act 2007* (26/2007), s. 17(b), S.I. No. 509 of 2007.
+
+### 78. Family conference.
+
+**78.**—(1) Where, in any proceedings in which a child is charged with an offence—
+
+(*a*) the child accepts responsibility for his or her criminal behaviour, having had a reasonable opportunity to consult with his or her parents or guardian and obtained any legal advice sought by or on behalf of him or her,
+
+(*b*) it appears to the Court that it is desirable that an action plan for the child should be formulated at a family conference, and
+
+(*c*) the child and child’s parent or guardian, or members of the child’s family or relatives of the child who in the opinion of the Court could make a positive contribution at a family conference, agree to attend such a conference and to participate in its proceedings,
+
+the Court may direct the probation and welfare service to arrange for the convening of a family conference in respect of the child and adjourn the proceedings until the conference has been held.
+
+(2) The Court may direct that the conference consider such matters relating to the child as the Court considers appropriate.
+
+### 79. Convening of family conference.
+
+**79.**—A family conference shall be convened by a probation and welfare officer appointed for that purpose by the F92[Director of the Probation and Welfare Service] and shall be held not later than 28 days after the date of the direction of the Court.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F92: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 137, S.I. No. 65 of 2007.
+
+### 80. Action plan.
+
+**80.**—(1) A family conference shall endeavour to formulate an action plan for the child in respect of whom it has been convened.
+
+(2) *Subsections (1)* to *(5)* of *section 39* shall apply and have effect in relation to such a plan, with the substitution in *subsections (2), (4)* and *(5)* of that section of references to a probation and welfare officer for the references to a facilitator or chairperson and with any other necessary modifications.
+
+### 81. Report to Court by probation and welfare officer.
+
+**81.**—The probation and welfare officer who was appointed to convene the family conference shall, as appropriate—
+
+(*a*) submit to the Court the action plan formulated at the conference,
+
+(*b*) inform the Court that the conference did not reach agreement on an action plan,
+
+(*c*) apply to the Court for an extension of the time for holding the conference, or
+
+(*d*) inform the Court that it has not been possible to hold the conference and that there is little likelihood of its being held.
+
+### 82. Action by Court on report of probation and welfare officer.
+
+**82.**—(1) Where an action plan is submitted to the Court pursuant to *section 81(a)*, the Court may—
+
+(*a*) approve of the plan or amend it, and
+
+(*b*) order that the child concerned shall comply with it and be supervised by a probation and welfare officer while it is in operation.
+
+(2) Where the probation and welfare officer reports to the Court pursuant to *section 81(b)* that the family conference did not reach agreement on an action plan, the Court may—
+
+(*a*) where it is of opinion that an action plan would be desirable and have a reasonable chance of success, formulate an action plan and order that the child concerned shall comply with it and be supervised by a probation and welfare officer while it is in operation, or
+
+(*b*) resume the proceedings in respect of the offence with which the child is charged.
+
+(3) Where the probation and welfare officer applies to the Court pursuant to *section 81(c)* for an extension of the time for holding the family conference, or informs the Court pursuant to *section 81(d)* that there is little likelihood of its being held, the Court may—
+
+(*a*) where it is satisfied that there is a likelihood of the conference being held, grant an extension of time, not exceeding 28 days, for holding it, or
+
+(*b*) where it is not so satisfied, resume the proceedings in respect of the offence with which the child is charged.
+
+(4) Where the Court makes an order pursuant to *subsection (1)(b)* or *(2)(a)* in relation to an action plan, it shall appoint a date for the Court to review compliance by the child with the plan, being a date not more than 6 months from the date of the order.
+
+(5) An action plan formulated pursuant to *subsection (1)(b)* or *(2)(a)* shall be written in language that can be understood by the child and be signed by the child (or, where appropriate, a person mentioned in *section 78(1)(c)* on his or her behalf) and the supervising probation and welfare officer.
+
+### 83. Failure to comply with action plan.
+
+**83.**—Where the Court has ordered a child to comply with an action plan and, on application by the probation and welfare officer who convened the relevant family conference, it appears to the Court that the child has, without reasonable cause, failed to comply with the terms of the plan, the Court may resume the proceedings in respect of the offence with which the child is charged.
+
+### 84. Review of compliance with action plan.
+
+**84.**—At a resumed court sitting to review compliance with the action plan, the Court may resume the proceedings in respect of the offence with which the child is charged and, without prejudice to any other way of dealing with the case, may, if it is satisfied that the child has complied with the plan, dismiss the charge against the child on its merits.
+
+### 85. Application of provisions.
+
+**85.**—*Sections 29, 30(3)*, F93[*32, 32A,*] *33, 35, 36, 50* and *51* shall apply and have effect in relation to a family conference convened under this Part with the substitution, where appropriate, in those provisions of references to a probation and welfare officer for the references to a juvenile liaison officer, facilitator or chairperson and with any other necessary modifications.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F93: Substituted (27.11.2017) by *Criminal Justice (Victims of Crime) Act 2017* (28/2017), s. 34(1)(d), S.I. No. 530 of 2017.
+
+### 86. Procedure at family conference.
+
+**86.**—(1) Subject to the provisions of this Part or any direction given by the Court, a family conference may regulate its procedure in such manner as it thinks fit.
+
+(2) A probation and welfare officer who convenes a family conference shall ensure, as far as practicable, that any information and advice required by the conference to carry out its functions are made available to it.
+
+### 87. Administrative services to family conference.
+
+**87.**—The F94[Director of the Probation and Welfare Service] shall provide such administrative services as may be necessary to enable a family conference to discharge its functions.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F94: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 137, S.I. No. 65 of 2007.
+
+### 88. Remand in custody.
+
+F95[**88.**—(1) Where the Court decides to remand in custody a child—
+
+(*a*) who is charged with or found guilty of one or more offences,
+
+(*b*) who is being sent forward for trial, or
+
+(*c*) in respect of whom the court has postponed a decision,
+
+the following provisions of this section shall apply in relation to the child.
+
+(2) The child shall be remanded to a place designated under this section as a remand centre.
+
+(3) The Court shall explain the reasons for its decision in open court in language that is appropriate to the child’s age and level of understanding.
+
+(4) The Minister may by order designate as a remand centre any place, including F96[part or all of a children detention school, which in the Minister’s opinion is suitable for the custody of children who are remanded under this section (referred to in this Act as a remand centre ‘situated in’ a children detention school)].
+
+(5) The designation shall specify the sex and age of children who may be remanded to the remand centre concerned at any time.
+
+(6) The Minister shall cause a copy of any order under this section to be sent to the President of the High Court, the President of the Circuit Court and the President of the District Court.
+
+(7) A place may be designated as a remand centre only with the consent of its owners or, as the case may be, its managers.
+
+(8) Where a remand centre is F96[situated in] a children detention school, children remanded in custody to the centre shall, as far as practicable and where it is in the interests of the child, be kept separate from and not be allowed to associate with children in respect of whom a period of detention has been imposed.
+
+(9) Where a remand centre is not F96[situated in] a children detention school, the Minister shall appoint a board of management appointed to a children detention school under *section 164* to manage the remand centre also in accordance with criteria laid down from time to time by the Minister.
+
+(10) The Court shall not remand a child in custody under this section if the only reason for doing so is that—
+
+(*a*) the child is in need of care or protection, or
+
+(*b*) the Court wishes the F97[Child and Family Agency] to assist it under *section 76B* in dealing with the case.
+
+F98[(10A) Where the Court remands a child to a remand centre under *subsection (2)*, the lawfulness of the remand and the period of the remand shall not be affected should the child attain the age of 18 years during the period of the remand in question, and in such a case this Act shall apply to the person during the remainder of that period of the remand as it applies to a child on remand.]
+
+(11) Such matters as may be necessary or expedient for enabling remand centres to operate and be administered in accordance with this Act may be prescribed by the Minister.
+
+(12) F99[...]
+
+(13) F100[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F95: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 135, S.I. No. 65 of 2007.
+>
+> F96: Substituted (1.12.2015) by *Children (Amendment) Act 2015* (30/2015), s. 5(a), (b), (c), S.I. No. 539 of 2015.
+>
+> F97: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 14 item 1, S.I. No. 502 of 2013.
+>
+> F98: Inserted (1.12.2015) by *Children (Amendment) Act 2015* (30/2015), s. 5(d), S.I. No. 539 of 2015.
+>
+> F99: Repealed (31.03.2017) by *Children (Amendment) Act 2015* (30/2015), s. 3(1)(a), S.I. No. 111 of 2017, subject to stransitional provisions in subss. (3), (4), (5) and (11).
+>
+> F100: Repealed (31.03.2017) by *Children (Amendment) Act 2015* (30/2015), s. 3(1)(b), S.I. No. 11 of 2017.
+>
+> **Modifications (not altering text):**
+>
+> **Editorial Notes:**
+>
+> E26: Power pursuant to subss. (1)-(11) exercised (1.06.2016) by *Children Act 2001 (Designation of Remand Centre) Order 2016* (S.I. No. 274 of 2016), in effect as per art. 3.
+>
+> E27: Previous affecting provision: power pursuant to subss. (1)-(11) exercised (30.03.2015) by *Children Act 2001 (Designation of Remand Centres) (Amendment) Order 2015* (S.I. No. 95 of 2015), in effect as per art. 1(2); revoked (1.06.2016) by *Children Act 2001 (Designation of Remand Centre) Order 2016* (S.I. No. 274 of 2016), art. 6(b).
+>
+> E28: Previous affecting provision: power pursuant to subss. (1)-(11) exercised (1.05.2012) by *Children Act 2001 (Designation of Remand Centres) Order 2012* (S.I. No. 136 of 2012), in effect as per art. 2; revoked (1.06.2016) by *Children Act 2001 (Designation of Remand Centre) Order 2016* (S.I. No. 274 of 2016), art. 6(a).
+
+### 88A. Transfer of children on remand
+
+F101[**88A.** (1) The Minister for Children and Youth Affairs may direct the transfer of a child remanded to a remand centre to another remand centre for the remainder of the child’s period of remand if the remand centre to which the child is to be transferred provides the conditions and facilities suitable for the custody of children who are remanded under *section 88* and—
+
+(*a*) the remand centre to which the child is to be transferred caters in accordance with the provisions of this Part for that class of child, or
+
+(*b*) the Minister for Children and Youth Affairs considers that the transfer is necessary in the interests of good governance of remand centres.
+
+(2) Before giving a direction under this section, the Minister shall consult the Director, or where a remand centre is not situated in a children detention school, the board of management, of the remand centre from which and to which it is desired to transfer the child so as to ascertain whether the transfer would be in the child’s best interests, or if the transfer would not be in the child’s best interests, what other course of action should be adopted in respect of the child.
+
+(3) The Director, or where the remand centre is not situated in a children detention school, the board of management, of the remand centre to which the child was remanded may request the Minister to make a direction under *subsection (1)*.
+
+(4) In this section—
+
+(*a*) a reference to a Director of a remand centre means a reference to the Director, within the meaning of *section 180*, of the children detention school in which the remand centre is situated, and
+
+(*b*) a reference to a board of management of a remand centre means the board of management appointed under *section 88(9)* to manage the remand centre.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F101: Inserted (1.12.2015) by *Children (Amendment) Act 2015* (30/2015), s. 6, S.I. No. 539 of 2015.
+
+### 88B. Discipline of children on remand
+
+F102[**88B.** ...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F102: Inserted by *Children (Amendment) Act 2015* (30/2015), s. 6, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C13: Prospective affecting provision: section inserted by *Children (Amendment) Act 2015* (30/2015), s. 6, not commenced as of date of revision.
+>
+> **88B.** (1) Subject to *subsection (2)*, *sections 201*, *201A* and *201B* (other than subsections *(1)(e)*, *(5)* and *(8)* of *section 201A*) shall apply, with any necessary modifications, to children on remand as they apply to children detained in a children detention school on foot of a children detention order.
+>
+> (2) For the purposes of *subsection (1)* —
+>
+> (*a*) references in *sections 201*, *201A* and *201B* (other than in relation to *subsection (1)(e)* of *section 201A*) to ‘breach of children detention school discipline’ or ‘disciplinary breach’ shall be construed as references to breach of remand centre discipline provided for under this Act or by regulations made under this Act, and
+>
+> (*b*) where a child is remanded to a remand centre—
+>
+> (i) that is situated in a children detention school, references to ‘Director’ in *sections 201*, *201A* and *201B* (other than in relation to *subsection (1)(e)* of, and in *subsection (5)* of, *section 201A*) shall be read as references to the Director, within the meaning of *section 180*, of the children detention school in which the remand centre is situated, or
+>
+> (ii) that is not situated in a children detention school, references to ‘Director’ in *sections 201*, *201A* and *201B* (other than in relation to *subsection (1)(e)* of, and in *subsection (5)* of, *section 201A*) shall be read as references to the board of management appointed under section 88(9) to manage the remand centre.
+
+### 89. Non-application of section 5 of Bail Act, 1997.
+
+**89.**—Section 5 (Payment of moneys into court) of the Bail Act, 1997, is amended by the addition of the following subsection:
+
+“(4) This section shall not apply in relation to a person under the age of 18 years.”.
+
+### 90. Conditions of bail.
+
+**90.**—(1) When releasing a child on bail the Court may, in the interests of the child, make the release subject to one or more than one of the following conditions:
+
+(*a*) that the child resides with his or her parents or guardian or such other specified adult as the Court considers appropriate,
+
+(*b*) that the child receives education or undergoes training, as appropriate,
+
+(*c*) that the child reports to a specified Garda Síochána station at a specified time at such intervals as the Court considers appropriate,
+
+(*d*) that the child does not associate with a specified individual or individuals,
+
+(*e*) that the child stays away from a specified building, place or locality except in such circumstances and at such times as the Court may specify,
+
+(*f*) such other conditions as the Court considers appropriate.
+
+(2) Where a child who is released on bail does not comply with any condition to which the release was subject and is subsequently found guilty of an offence, the Court, in dealing with the child for the offence, may take into account the non-compliance in question and the circumstances in which it occurred.
+
+(3) *Subsection (2)* is without prejudice to any other enactment which empowers a court to deal with offences committed by a person while on bail.
+
+### 91. Attendance at Court of parents or guardian.
+
+**91.**—(1) The parents or guardian of a child shall, subject to *subsection (5),* be required to attend at all stages of any proceedings—
+
+(*a*) against the child for an offence,
+
+(*b*) relating to a family conference in respect of the child, F103[...]
+
+(*c*) relating to any failure by the child to comply with a community sanction or any condition to which the sanction is F104[subject, or]
+
+F105[(*d*) under *section 257D*.]
+
+(2) Where the parents or guardian fail or neglect, without reasonable excuse, to attend any proceedings to which *subsection (1)* applies, the Court may adjourn the proceedings and issue a warrant for the arrest of the parents or guardian, and the warrant shall command the person to whom it is addressed to produce the parents or guardian before the Court at the time appointed for resuming the proceedings.
+
+(3) Failure by the parents or guardian, without reasonable excuse, to attend any such proceedings shall, subject to *subsection (5),* be treated for all purposes as if it were a contempt in the face of the court.
+
+(4) At the hearing of any proceedings in respect of the offence with which the child is charged F105[or under *section 257D*], any parent or guardian who is required to attend the proceedings may be examined in respect of any relevant matters.
+
+(5) The Court may, at any stage of proceedings to which *subsection (1)* applies, excuse the parents or a parent or the guardian of the child concerned from attendance at all or any part of the proceedings in any case where the Court, either of its own motion or at the request of any of the parties to the proceedings, is of opinion that the interests of justice would not be served by such attendance.
+
+(6) If in any such proceedings the whereabouts of the parents or guardian of the child concerned are unknown, or neither a parent nor a guardian attends the proceedings for any reason, the child may be accompanied during the proceedings by an adult relative or other adult.
+
+(7) This section does not apply to the parents of a child who is married.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F103: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 138(a)(i), S.I. No. 65 of 2007.
+>
+> F104: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 138(a)(ii), S.I. No. 65 of 2007.
+>
+> F105: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 138(a)(iii) and (b), S.I. No. 65 of 2007.
+
+### 92. Conveyance to and from Court.
+
+**92.**—Any child while being conveyed to or from the Court or while waiting before or after attendance at the Court shall, as far as practicable, be prevented from associating with an adult, not being a relative or spouse, who is charged with any offence other than an offence with which the child is jointly charged.
+
+### 93. Restrictions on reports of proceedings in which children are concerned.
+
+F106[**93.**—(1) In relation to proceedings before any court concerning a child—
+
+(*a*) no report which reveals the name, address or school of any child concerned in the proceedings or includes any particulars likely to lead to the identification of any such child shall be published or included in a broadcast or any other form of communication, and
+
+(*b*) no still or moving picture of or including any such child or which is likely to lead to his or her identification shall be so published or included.
+
+(2) A court may dispense, in whole or in part, with the requirements of this section in relation to a child if satisfied that to do so is necessary—
+
+(*a*) where the child is charged with an offence—
+
+(i) to avoid injustice to the child,
+
+(ii) where the child is unlawfully at large, for the purpose of apprehending the child, or
+
+(iii) in the public interest,
+
+or
+
+(*b*) where the child is subject to an order under *section 257D*—
+
+(i) to avoid injustice to the child, or
+
+(ii) to ensure that the order is complied with.
+
+(3) Where a court dispenses with any requirements of this section, it shall explain in open court the reasons for its decision.
+
+(4) *Subsections (3)* to *(6)* of *section 51* of this Act shall apply, with the necessary modifications, to matters published or included in a broadcast or other form of communication in contravention of subsection (1).
+
+(5) This section shall apply in relation to proceedings on appeal from a court, including proceedings by way of case stated.
+
+(6) This section shall not affect the provisions of any enactment concerning the anonymity of an accused or the law relating to contempt of court.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F106: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 139, S.I. No. 65 of 2007.
+
+### 94. Persons entitled to be present at hearing.
+
+**94.**—(1) The Court shall exclude from the hearing of any proceedings before it all persons except—
+
+(*a*) officers of the Court,
+
+(*b*) the parents or guardian of the child concerned,
+
+(*c*) an adult relative of the child, or other adult who attends the Court pursuant to *section 91(6),*
+
+(*d*) persons directly concerned in the proceedings,
+
+(*e*) *bona fide* representatives of the Press, and
+
+(*f*) such other persons (if any) as the Court may at its discretion permit to remain.
+
+(2) The order or decision of the Court (if any) in any such proceedings shall be announced in public.
+
+## PART 9Powers of Courts in Relation to Child Offenders — PART 9 — Powers of Courts in Relation to Child Offenders
+
+*General*
+
+### 95. Interpretation (Part 9).
+
+**95.**—In this Part, unless the context otherwise requires—
+
+“Act of 1970” means the Prisons Act, 1970;
+
+“Act of 1983” means the Criminal Justice (Community Service) Act, 1983;
+
+“children court district” has the same meaning as “district court district”;
+
+F107[...]
+
+“compensation order” has the meaning assigned to it by section 6 of the Criminal Justice Act, 1993;
+
+“day centre” and “day centre order” have the meanings assigned to them by *section 118*;
+
+“detention and supervision order” means an order under *section 151*;
+
+“district” means either a children court district or a district court district, as the context requires;
+
+“district of residence” means—
+
+(*a*) in relation to an order under this Part affecting a child, the circuit or, as the case may be, the district in which the child resides or will reside while the order is in force, and
+
+(*b*) in relation to a parental supervision order, the circuit or, as the case may be, the district in which the parents concerned reside or will reside while the order is in force;
+
+“hostel residence” means a residence certified under *section 126*;
+
+“parental supervision order” means an order under *section 111*;
+
+“probation officer’s report” has the meaning assigned to it by *section 99*;
+
+“probation order” has the meaning assigned to it by section 2 of the Act of 1907.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F107: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 7, S.I. No. 65 of 2007.
+
+### 96. Principles relating to exercise of criminal jurisdiction over children.
+
+**96.**—(1) Any court when dealing with children charged with offences shall have regard to—
+
+(*a*) the principle that children have rights and freedom before the law equal to those enjoyed by adults and, in particular, a right to be heard and to participate in any proceedings of the court that can affect them, and
+
+(*b*) the principle that criminal proceedings shall not be used solely to provide any assistance or service needed to care for or protect a child.
+
+(2) Because it is desirable wherever possible—
+
+(*a*) to allow the education, training or employment of children to proceed without interruption,
+
+(*b*) to preserve and strengthen the relationship between children and their parents and other family members,
+
+(*c*) to foster the ability of families to develop their own means of dealing with offending by their children, and
+
+(*d*) to allow children reside in their own homes,
+
+any penalty imposed on a child for an offence should cause as little interference as possible with the child’s legitimate activities and pursuits, should take the form most likely to maintain and promote the development of the child and should take the least restrictive form that is appropriate in the circumstances; in particular, a period of detention should be imposed only as a measure of last resort.
+
+(3) A court may take into consideration as mitigating factors a child’s age and level of maturity in determining the nature of any penalty imposed, unless the penalty is fixed by law.
+
+(4) The penalty imposed on a child for an offence should be no greater than that which would be appropriate in the case of an adult who commits an offence of the same kind and may be less, where so provided for in this Part.
+
+F108[(5) When dealing with a child charged with an offence, a court shall have due regard to the child’s best interests, the interests of the victim of the offence and the protection of society.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F108: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 136, S.I. No. 65 of 2007.
+
+### 97. Construction of certain references.
+
+**97.**—Any reference in an enactment, whether in force before or after the commencement of any relevant provision of this Act, to a person convicted, a conviction or a sentence shall, in the case of a child dealt with summarily by the Children Court, be construed as including a reference to a person found guilty of an offence, a finding of guilt or an order made upon such a finding, as the case may be.
+
+### 98. Orders on finding of guilt.
+
+**98.**—Where a court is satisfied of the guilt of a child charged with an offence it may, without prejudice to its general powers and in accordance with this Part, reprimand the child or deal with the case by making one or more than one of the following orders:
+
+(*a*) a conditional discharge order,
+
+(*b*) an order that the child pay a fine or costs,
+
+(*c*) an order that the parent or guardian be bound over,
+
+(*d*) a compensation order,
+
+(*e*) a parental supervision order,
+
+(*f*) an order that the parent or guardian pay compensation,
+
+(*g*) an order imposing a community sanction,
+
+(*h*) an order (the making of which may be deferred pursuant to *section 144*) that the child be detained in a children detention school F109[...], F110[...]
+
+(*i*) a detention and supervision order.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F109: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 8, S.I. No. 65 of 2007.
+>
+> F110: Deleted (1.12.2015) by *Children (Amendment) Act 2015* (30/2015), s. 7, S.I. No. 539 of 2015.
+
+*Probation Officer’s Reports*
+
+### 99. Probation officer’s report.
+
+**99.**—(1) Subject to *subsections (2)* and *(3),* where a court is satisfied of the guilt of a child, it—
+
+(*a*) may in any case, and
+
+(*b*) shall, where it is of opinion that the appropriate decision would be to impose a community sanction, detention (whether or not deferred under *section 144*) or detention and supervision,
+
+adjourn the proceedings, remand the child and request a probation and welfare officer to prepare a report in writing (a “probation officer’s report”) which—
+
+(i) would assist the court in determining a suitable community sanction (if any) or another way of dealing with the child, and
+
+(ii) would contain information on such matters as may be prescribed, including any information specifically requested by the court.
+
+(2) The probation officer’s report shall, at the request of the court, indicate whether, and if so how, in his or her opinion any lack of care or control by the parents or guardian of the child concerned contributed to the behaviour which resulted in the child being found guilty of an offence.
+
+(3) The court may, in addition, request that a victim impact report be furnished to it in respect of any victim of the child where it considers that such a report would assist it in dealing with the case.
+
+(4) The court may decide not to request a probation officer’s report where—
+
+(*a*) the penalty for the offence of which the child is guilty is fixed by law, or
+
+(*b*) (i) the child was the subject of a probation officer’s report prepared not more than 2 years previously,
+
+(ii) the attitude of the child to, and the circumstances of, the offence or offences to which that report relates are similar to his or her attitude to, and the circumstances of, the offence of which the child has been found guilty, and
+
+(iii) the previous report is available to the court and the court is satisfied that the material in it is sufficient to enable it to deal with the case.
+
+(5) Where a court requests a report under this section, it may at any time summon as a witness any person whose evidence in its opinion would assist it in dealing with the case.
+
+### 100. Remand for preparation of report or other reason.
+
+**100.**—(1) Where the court is satisfied of the guilt of a child, it may defer taking a decision to allow time for the preparation of any report requested pursuant to this Part or for other sufficient reason and for that purpose may remand the child on bail, subject to such conditions as it may think fit, or, pursuant to *section 88,* in custody for, where appropriate, the minimum period necessary for the preparation of any such report but not in any case exceeding 28 days.
+
+(2) Notwithstanding *subsection (1),* where a child in respect of whom any such report is being prepared has been remanded on bail, the court may allow one extension of not more than 14 days for its preparation if satisfied, on application by the person preparing the report, that it is proper to do so.
+
+(3) Any person responsible for making any such report shall make all reasonable endeavours to ensure that the report is lodged with the court at least 4 working days before the end of the period of remand.
+
+### 101. Availability of child for preparation of report.
+
+**101.**—(1) (*a*) Where a court remands a child on bail to enable any report requested pursuant to this Part to be prepared, it may order—
+
+(i) that in the meantime—
+
+(I) the child shall reside at the residence of his or her parents, guardian, an adult relative or other adult who has undertaken to the court to care for the child, or
+
+(II) where the child is already residing in a children’s residential centre to which Part VIII of the Act of 1991 applies or in some other suitable place, the child shall continue to do so,
+
+and
+
+(ii) that the child shall, for the purpose of facilitating the preparation of the report, attend, as the case may be—
+
+(I) at the residence, centre or other suitable place, or
+
+(II) at any day centre or other place specified in the order.
+
+(*b*) The time of the first such attendance at a day centre or other place shall be determined in accordance with *subsection (3)* and be specified in the order.
+
+(*c*) The times of subsequent attendances shall be determined in accordance with that subsection—
+
+(i) in the case of such attendances at a day centre, by the person preparing the report, or
+
+(ii) in the case of such attendances at another place, by the person in charge of that other place.
+
+(2) An order under *subsection (1)(a)(ii)(II)* shall not be made unless the court is satisfied that the day centre or other place in question is reasonably accessible to the child concerned, having regard to the child’s age, the means of access available to him or her and any other relevant circumstances.
+
+(3) The times at which a child is required to attend at a day centre or other place pursuant to this section shall be determined having regard to the child’s circumstances and shall be those—
+
+(*a*) at which the centre or place is available for that purpose, and
+
+(*b*) which are such as to avoid interference, as far as practicable, with any school or work schedules of the child.
+
+### 102. Immunity from liability for reports.
+
+**102.**—Any person who prepares or furnishes any report requested pursuant to this Part or who supplies any information for the purposes of preparing or furnishing it shall not be under any civil or criminal liability in respect of it unless the person has acted in bad faith in preparing or furnishing it or in supplying information for such purposes.
+
+### 103. Access to reports.
+
+**103.**—(1) A copy of any report furnished to a court pursuant to a request under this Part shall, subject to *subsection (2),* be made available, on request, by the clerk or other proper officer of the court to—
+
+(*a*) the parents or guardian of the child concerned or, in their absence, an adult relative of the child or other adult accompanying the child during the proceedings,
+
+(*b*) any counsel or solicitor representing the child,
+
+(*c*) F111[...]
+
+(*d*) every person entitled to appear and be heard at the proceedings to which the report relates and any counsel or solicitor appearing for any such person,
+
+(*e*) where the court imposes a period of detention in a children detention school F112[...], the Director of the school F112[...], and
+
+(*f*) any other person whom the court considers to have a proper interest in receiving a copy of the report.
+
+(2) The court may order that the whole or any part of a report made available to any person pursuant to *subsection (1)* shall not be disclosed to any person specified in the order where it is satisfied that to do so would not be in the interests of the child or any other person to whom the report relates.
+
+(3) Any copy of a report made available pursuant to *subsection (1)* shall, wherever possible, be supplied to the persons concerned in advance of the resumed sitting of the court.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F111: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 9, S.I. No. 65 of 2007.
+>
+> F112: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 10, S.I. No. 65 of 2007.
+
+### 104. Right to tender evidence on report.
+
+**104.**—Any person to whom a copy of a report has been made available pursuant to *section 103* or who has been informed of its contents may tender evidence on any matter referred to in it.
+
+### 105. Oral reports.
+
+**105.**—The court may, unless any party to the proceedings objects, in exceptional circumstances direct that any report requested pursuant to this Part be made orally to the court.
+
+### 106. Power of court on receipt of report.
+
+**106.**—(1) Where the court has considered any report requested pursuant to this Part, it shall deal with the case in accordance with *section 98*.
+
+(2) Before the court reaches a decision on the case, it may hear evidence from any person who prepared the report and from any person required under *section 99(5)* to attend the proceedings.
+
+(3) The court shall also give a parent or guardian of the child concerned (or, if the child is married, his or her spouse), if present in court for the proceedings, or in his or her absence an adult relative or other adult accompanying the child, an opportunity to give evidence.
+
+(4) The court may, on consideration of a probation officer’s report, request such other report or reports in writing, including medical, psychiatric or psychological reports, as would in its opinion assist it in dealing with the case.
+
+(5) The F113[Director of the Probation and Welfare Service] shall arrange for the preparation of any such other report or reports, which shall contain information on such matters as may be prescribed and on any matter that may be specifically requested by the court.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F113: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 137, S.I. No. 65 of 2007.
+
+### 107. Regulations regarding reports.
+
+**107.**—(1) The Minister may prescribe such matters in relation to probation officers’ reports or any other reports made pursuant to this Part as would in his or her opinion be of assistance to courts in dealing with cases under this Part.
+
+(2) Without prejudice to the generality of *subsection (1),* the inclusion in probation officers’ reports of information relating to the following matters, where appropriate, and such other matters (if any) as may be necessary or expedient for the purposes of any enabling provision of this Part to have full effect, may be prescribed—
+
+(*a*) the results of an interview with the child,
+
+(*b*) where it has been practicable for the probation and welfare officer concerned to interview the child’s parent or guardian or any victim, the results of the interview,
+
+(*c*) the age, level of maturity, character, behaviour and attitude of the child and his or her willingness to make amends,
+
+(*d*) the educational circumstances and prospects of the child,
+
+(*e*) the child’s friends and associates, and
+
+(*f*) the apparent motive for the child’s behaviour and the likelihood of the child not committing further offences.
+
+(3) Before prescribing any matter for which the Minister for Education and Science or the Minister for Health and Children has responsibility, the Minister shall obtain the agreement of that Minister.
+
+*Fines, costs and compensation*
+
+### 108. Maximum fines.
+
+**108.**—Where a court is satisfied of the guilt of a child whom it has dealt with summarily for any offence and is of opinion that the appropriate penalty is or includes a fine, the fine shall not exceed half the amount which the District Court could impose on a person of full age and capacity on summary conviction for such an offence.
+
+### 109. Determination of amount of fine and costs.
+
+**109.**—(*a*) Subject to *section 108,* in determining the amount of a fine to be imposed on a child, and
+
+(*b*) in determining whether to award costs against a child and the amount of any such costs,
+
+the court, among other considerations, shall have regard to the child’s present and future means in so far as they appear or are known to the court and for that purpose may require the child to give evidence as to those means and his or her financial commitments.
+
+### 110. Default in payment of fine, costs or compensation.
+
+**110.**—(1) Where a court orders a child to pay a fine, costs or compensation and the child is in default—
+
+(*a*) the court shall not order that the child be detained in any case where, if the child were a person of full age and capacity, he or she would be liable to be committed to prison, and
+
+(*b*) in lieu of such an order, the court may make one or more than one of the following orders:
+
+(i) in the case of a fine, an order reducing its amount,
+
+(ii) an order allowing time, or further time, for payment of the fine, costs or compensation,
+
+(iii) an order imposing a community sanction appropriate to the age of the child.
+
+(2) An order under *subsection (1)(b)* shall be deemed for the purposes of this or any other Act to be an order made on a finding of guilt.
+
+*Orders in relation to parents or guardian*
+
+### 111. Parental supervision order.
+
+**111.**—(1) In any proceedings in which a child is found guilty of an offence, the court may make an order for the supervision of the child’s parents (a “parental supervision order”) where it is satisfied that a wilful failure of the child’s parents to take care of or control the child contributed to the child’s criminal behaviour.
+
+(2) Subject to *subsection (3),* the court may make a parental supervision order in addition to any other order it may make in relation to either the child or the child’s parents.
+
+(3) The court may not make an order under *section 114* at the same time as a parental supervision order.
+
+(4) Before making a parental supervision order, the court shall obtain and consider information about the parents’ family and social circumstances and the likely effect of the order on those circumstances.
+
+(5) A parental supervision order shall not be made without the parents of the child being given an opportunity to be heard.
+
+(6) A parental supervision order may order the parents of the child to do any or all of the following:
+
+(*a*) to undergo treatment for alcohol or other substance abuse, where facilities for such treatment are reasonably available,
+
+(*b*) to participate in any course that is reasonably available for the improvement of parenting skills,
+
+(*c*) adequately and properly to control or supervise the child to the best of their ability, except where the terms of any community sanction imposed on the child make such control or supervision impracticable,
+
+(*d*) to comply with any other instructions of the court that would in its opinion assist in preventing the child from committing further offences.
+
+(7) A parental supervision order shall be made for a period not exceeding 6 months.
+
+(8) The court shall appoint a probation and welfare officer to supervise the parents, to assist them in complying with the order and to monitor compliance with it.
+
+(9) When making a parental supervision order, the court shall have regard to any order it has made or is making in respect of the child concerned and, where any such order involves the supervision of the child by a probation and welfare officer, that officer shall also be appointed to supervise the child’s parents.
+
+(10) A parental supervision order shall specify—
+
+(*a*) where appropriate, the address of any place where the parents may undergo treatment or participate in any course for the improvement of parenting skills,
+
+(*b*) any particular requirements of the court in relation to the control or supervision of the child,
+
+(*c*) any other instructions of the court, and
+
+(*d*) the period during which the order is to be in force,
+
+and the court shall explain to the parents in ordinary language the effects of the order and any requirements or instructions specified in it.
+
+(11) Where for any reason the court considers that a parental supervision order should be made in respect of one parent only, the order may provide accordingly, notwithstanding that both parents have the custody, charge or care of the child.
+
+(12) A parent who is the subject of a parental supervision order may appeal against the order.
+
+### 112. Non-compliance with parental supervision order.
+
+**112.**—(1) Where a parental supervision order is in force and it appears to the court, on application by the probation and welfare officer who is supervising the parents, that the parents have failed, without reasonable excuse (the proof of which shall lie on the parent or parents concerned), to comply with the order, the court may—
+
+(*a*) if the order was made by a court in the district of residence, do one or more of the following:
+
+(i) revoke the order,
+
+(ii) make an order under *section 114*,
+
+(iii) if it has not already done so, make an order under *section 113,* or
+
+(iv) treat the failure to comply with the order for all purposes as if it were a contempt in the face of the court,
+
+or
+
+(*b*) if the order was made by another court, remand the parents on bail to a sitting of that other court to be dealt with, and for that purpose *paragraph (a)* shall apply in relation to that court, with the necessary modifications.
+
+(2) The matters which the court may take into account when making a decision pursuant to *subsection (1)* shall include the extent to which, and any period during which, the parents complied with the parental supervision order.
+
+(3) Where a court proposes to exercise its powers under *subsection (1),* it shall summon the parents to appear before it and, if the parents do not do so, may issue a warrant for their arrest.
+
+(4) The jurisdiction vested in the Circuit Court in respect of proceedings to which *subsection (1)* relates shall be exercised by the judge for the time being assigned to the circuit where the parental supervision order was made.
+
+(5) The jurisdiction vested in the Children Court or the District Court in respect of those proceedings shall be exercised by the judge for the time being assigned to the district of residence or, as the case may be, the district where the parental supervision order was made.
+
+### 113. Compensation by parent or guardian.
+
+**113.**—(1) Where a court is satisfied of the guilt of a child and that the appropriate way of dealing with the case is to make a compensation order (whether in addition to or instead of any other order), it may order that the compensation be paid by the parent or guardian of the child instead of by the child.
+
+(2) The court may not order that the compensation be paid by a parent or guardian unless it is satisfied that a wilful failure of the parent or guardian to take care of or to control the child contributed to the child’s criminal behaviour.
+
+(3) An order may not be made under *subsection (1)* without giving the parent or guardian concerned an opportunity to be heard.
+
+(4) Any sums imposed and ordered to be paid by a parent or guardian under this section may be recovered in like manner as if the order had been made on the conviction of the parent or guardian of the offence of which the child was found guilty.
+
+(5) In determining whether to order a parent or guardian to pay compensation in accordance with *subsection (1)* and in determining the amount of the compensation, the court shall have regard to the present and future means of the parent or guardian in so far as they appear or are known to the court and for that purpose the court may require the parent or guardian to give evidence as to those means and his or her financial commitments.
+
+(6) A parent or guardian who is the subject of a compensation order may appeal against the order.
+
+(7) Notwithstanding anything in section 6 of the Criminal Justice Act, 1993, any sum ordered by a court to be paid under this section in respect of loss of or damage to property shall not be greater than the cost of its replacement or repair, as the case may be, and shall not include any loss or damage of a consequential nature.
+
+(8) This section does not apply in relation to any person who is taking care of a child on behalf of F114[the F115[Child and Family Agency]].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F114: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 11 item 14, S.I. No. 887 of 2004.
+>
+> F115: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 14 item 1, S.I. No. 502 of 2013.
+
+### 114. Binding over of parent or guardian.
+
+**114.**—(1) Where a court is satisfied of the guilt of a child it may—
+
+(*a*) order the parent or guardian, with his or her consent, to enter into a recognisance to exercise proper and adequate control over the child, and
+
+(*b*) if the parent or guardian refuses to consent to such an order and the court considers the refusal unreasonable, treat the refusal for all purposes as if it were a contempt of court.
+
+(2) An order under *subsection (1)(a)* may not require a parent or guardian to enter into a recognisance—
+
+(*a*) for an amount exceeding £250,
+
+(*b*) where the child concerned will attain the age of 18 years within a period which is less than 3 years, for a period exceeding that period, or
+
+(*c*) in any other case, for a period exceeding 3 years.
+
+(3) Any rule of law relating to the forfeiture of recognisances shall apply to an order made under this section in relation to a recognisance entered into in pursuance of such an order as it applies to a recognisance to keep the peace or to be of good behaviour or both.
+
+(4) A recognisance entered into by a parent or guardian in accordance with this section may be forfeited only if—
+
+(*a*) the child concerned is found guilty by a court of another offence committed during the period of the recognisance, and
+
+(*b*) the court is satisfied that the failure of the parent or guardian to exercise proper and adequate control over the child contributed to his or her committing that offence.
+
+(5) In fixing the amount of a recognisance under this section, the court, among other considerations, shall have regard to the present and future means of the parent or guardian concerned in so far as they appear or are known to the court and for that purpose may require the parent or guardian to give evidence as to those means and his or her financial commitments.
+
+(6) The parent or guardian may appeal against an order under this section.
+
+(7) The court may vary or revoke an order made by it under this section if, on the application of the parent or guardian concerned, it appears to the court, having regard to any change in circumstances since the order was made, to be in the interests of justice to do so.
+
+(8) An order under this section shall be in addition to or instead of any other order which the court may make.
+
+(9) No order shall be made under this section without giving the parent or guardian an opportunity of being heard.
+
+(10) When deciding whether to make an order under this section, the court, in addition to and without prejudice to any other consideration, shall have regard to the age and level of maturity of the child.
+
+(11) This section does not apply in relation to any person who is taking care of a child on behalf of F116[the F117[Child and Family Agency]].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F116: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 11 item 15, S.I. No. 887 of 2004.
+>
+> F117: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 14 item 1, S.I. No. 502 of 2013.
+
+*Community sanctions*
+
+### 115. Community sanction.
+
+**115.**—In this Part, “community sanction” means any of the orders referred to in *paragraphs (a)* to *(j)* which may be made by a court on being satisfied that a child is guilty of an offence—
+
+(*a*) in the case of a child of 16 or 17 years of age, a community service order under section 3 of the Act of 1983,
+
+(*b*) an order under *section 118* (a day centre order),
+
+(*c*) an order under section 2 of the Act of 1907 (a probation order),
+
+(*d*) an order under *section 124* (a probation (training or activities) order),
+
+(*e*) an order under *section 125* (a probation (intensive supervision) order),
+
+(*f*) an order under *section 126* (a probation (residential supervision) order),
+
+(*g*) an order under *section 129* (a suitable person (care and supervision) order),
+
+(*h*) an order under *section 131* (a mentor (family support) order),
+
+(*i*) an order under *section 133* (a restriction on movement order), or
+
+(*j*) an order under *section 137* (a dual order).
+
+### 116. Imposition of community sanction.
+
+**116.**—(1) Where a court—
+
+(*a*) has considered a probation officer’s report or any other report made pursuant to this Part,
+
+(*b*) has heard the evidence of any person whose attendance it may have requested, including any person who made such a report, and
+
+(*c*) has given the child’s parent or guardian (or, if the child is married, his or her spouse), if present in court for the proceedings, or, if not so present, an adult relative of the child or other adult accompanying the child, an opportunity to give evidence,
+
+it may make an order imposing on the child a community sanction, if it considers that the imposition of such a sanction would be the most suitable way of dealing with the case.
+
+(2) Where the court intends to impose a community sanction it shall explain to the child in open court and in language appropriate to the level of understanding of the child—
+
+(*a*) why a community sanction is being imposed,
+
+(*b*) the terms of the sanction and any conditions to which it is being made subject,
+
+(*c*) the expectation of the court that the child will be of good conduct while the community sanction is in force and the possible consequences for the child of his or her failure to comply with the sanction and any such conditions, and
+
+(*d*) the expectation of the court that the child’s parents or guardian, where appropriate, will help and encourage the child to comply with the sanction and any such conditions and not commit further offences.
+
+(3) In any case where the court has explained to the child the matters referred to in *subsection (2)* and the child does not express his or her willingness to comply with the proposed community sanction and any conditions to which it is being made subject, the court may, instead of imposing such a sanction, deal with the case in any other manner in which it may be dealt with.
+
+(4) Where a child fails to comply with a community sanction or any conditions to which it is subject or where for any reason a community sanction is revoked by the court, the court shall not make an order imposing a period of detention on the child unless it is satisfied that detention is the only suitable way of dealing with the child.
+
+### 117. Conditions to which community sanction may be made subject.
+
+**117.**—The conditions to which a community sanction imposed on a child may be made subject include conditions—
+
+(*a*) requiring the child to attend school regularly,
+
+(*b*) relating to the child’s employment,
+
+(*c*) aimed at preventing the child from committing further offences,
+
+(*d*) relating to the child’s place of residence,
+
+(*e*) relating to the child undergoing counselling or medical treatment,
+
+(*f*) limiting or prohibiting the child from associating with any specified person or with persons of any specified class,
+
+(*g*) limiting the child’s attendance at specified premises,
+
+(*h*) prohibiting the consumption by the child of intoxicating liquor, and
+
+(*i*) relating to such other matters as the court considers appropriate in relation to the child.
+
+### 118. Day centres.
+
+**118.**—(1) In this section—
+
+“day centre” means a place to which *subsection (2)* applies;
+
+“day centre order” means an order under *subsection (5)*.
+
+(2) For the purposes of this section the Minister shall provide or arrange for the provision of a sufficient number of places for use as day centres which shall be operated either by the probation and welfare service or by any body with the approval and assistance of that service.
+
+(3) Before any place or part thereof may be used as a day centre, the F118[Director of the Probation and Welfare Service] shall inspect it and, if he or she considers that the place is suitable for such use, certify in writing accordingly.
+
+(4) A certificate under *subsection (3)* shall remain in force for not more than one year from the date of its issue, unless it is cancelled by the F118[Director of the Probation and Welfare Service] before then on the ground that the place is no longer suitable for use as a day centre.
+
+(5) (*a*) A court may by order direct that a child shall attend at a specified day centre for the purpose of participating in an occupation or activity, or receiving instruction, which is suitable and beneficial for him or her.
+
+(*b*) The child may participate in any such occupation or activity, or receive any such instruction, under supervision outside the day centre, and references in this section to attendance at a day centre include references to such participation or receiving outside it.
+
+(6) The number of days a child shall be required to attend at a day centre pursuant to a day centre order shall be not more than 90, and attendance need not be on consecutive days.
+
+(7) A child in respect of whom a day centre order has been made shall be under the supervision of a probation and welfare officer and while in attendance at a day centre shall be subject to the control, direction and supervision of the person in charge of the centre.
+
+(8) A day centre order shall specify—
+
+(*a*) the name and address of the day centre which the child shall be required to attend while the order is in force,
+
+(*b*) the number of days that the child shall attend the centre,
+
+(*c*) the period of time during which attendance at the centre is required, being a period not exceeding 6 months, and
+
+(*d*) when and at what time the child is to report to the centre on the first occasion,
+
+and it may specify—
+
+(i) any programme of occupation, activity or instruction to be undertaken by the child,
+
+(ii) such other matters with respect to the child’s attendance at the centre as the court determines, or
+
+(iii) such of the conditions provided for in *section 117* as the court considers necessary for helping to improve the child’s behaviour and to prevent him or her from committing further offences.
+
+(9) When deciding on the number of days that the child shall attend at the day centre the court, in addition to and without prejudice to any other consideration, shall have regard to the child’s age.
+
+(10) A day centre order shall not be made unless the court is satisfied that the day centre to be specified in it is reasonably accessible to the child concerned or that arrangements can be made for the child’s attendance at the centre, having regard to the child’s age and sex, the means of access available to him or her and any other relevant circumstances.
+
+(11) (*a*) The times at which a child is required to attend at a day centre shall, as far as practicable, be such as to avoid interference with any training the child is receiving, any attendance at a school or other educational establishment or any employment.
+
+(*b*) The first of those times shall be a time at which the centre is available for the attendance of the child, and the subsequent days and times shall be fixed by the person in charge of the day centre, having regard to the child’s circumstances and the terms of the day centre order, without prejudice to the power of the court to direct that, as far as practicable, some of those times shall coincide with a specific event which it considers the child, for whatever reason, should refrain from taking part in or being present at.
+
+(12) The person in charge of a day centre may, for good reason, excuse a child from attendance at the centre on a particular occasion or occasions.
+
+(13) A child shall not, subject to *subsection (14),* be required to attend at a day centre on more than one occasion on any day or for more than 8 hours on any one day.
+
+(14) Where the child participates in any occupation or activity, or receives any instruction, under supervision outside the day centre, *subsection (13)* shall not apply, and, where any such occupation, activity or instruction continues over more than one day, each such day shall count towards the number of days that the court has specified that the child shall attend at the centre.
+
+(15) The person in charge of a day centre shall inform in writing the parent or guardian of the child of the days and times which the person in charge has fixed for the attendance of the child at the centre but in any case where a particular occupation, activity or instruction is arranged at short notice he or she may inform the parent or guardian orally.
+
+(16) For the purpose of providing day centres the Minister may make arrangements, in agreement with any other Minister or any body, authority or person concerned, for the use of any premises, facilities or programmes provided by that Minister, body, authority or person.
+
+(17) A day centre provided pursuant to arrangements made under *subsection (16)* may not necessarily—
+
+(*a*) be called a day centre even though it is a day centre for the purposes of this section, or
+
+(*b*) cater exclusively for children who have been found guilty of having committed offences.
+
+(18) The probation and welfare service shall send a list of the day centres for the time being available for the reception of children to the President of the High Court, the President of the Circuit Court and the President of the District Court.
+
+(19) On making a day centre order the court shall cause certified copies of the order to be sent to—
+
+(*a*) in case the order was not made by a judge of a court having jurisdiction in the district of residence, such a judge,
+
+(*b*) the person in charge of the day centre concerned,
+
+(*c*) the probation and welfare officer who is supervising the child, and
+
+(*d*) the parents or guardian of the child (or, if the child is married, his or her spouse) or, as appropriate, another adult in whose residence the child is residing while the order is in force.
+
+(20) The person in charge of the day centre shall give a copy of the day centre order to the child.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F118: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 137, S.I. No. 65 of 2007.
+
+### 119. Power to vary day centre order.
+
+**119.**—(1) Where a day centre order is in force in respect of a child the Children Court, on application by the child or his or her parent or guardian or a probation and welfare officer, may vary the order if it appears to it that it would be in the interests of justice to do so, having regard to circumstances which have arisen since the order was made.
+
+(2) An order varying a day centre order may—
+
+(*a*) vary the day or time specified for the child’s first attendance at the relevant day centre,
+
+(*b*) if the Court is satisfied that the child proposes to change or has changed his or her residence, substitute for the day centre specified in the day centre order a day centre which the Court is satisfied is reasonably accessible to the child or at which arrangements can be made for the child’s attendance, having regard to the child’s age or sex, the means of access available to him or her and any other relevant circumstances, or
+
+(*c*) if the Court is satisfied that another day centre is providing a programme of occupation, activity or instruction more suited to the child’s interests, substitute that day centre for the centre specified in the day centre order if the Court is satisfied that the substituted centre is reasonably accessible to the child or it appears to it that arrangements can be made for the child’s attendance at that centre, having regard to his or her age, sex, the means of access available to the child and any other relevant circumstances.
+
+(3) Where the Court is satisfied that the child proposes to change or has changed his or her residence and that there is no day centre reasonably accessible to the child’s new or proposed new residence, the order varying the day centre order shall not require the child to attend at a day centre but shall require him or her to remain under the supervision of a probation and welfare officer for the duration of the day centre order.
+
+(4) Where a day centre order is varied under this section, the Court shall cause certified copies of the order as so varied to be sent to—
+
+(*a*) the person in charge of the day centre specified in the order and of any day centre substituted for it pursuant to *paragraph (b)* or *(c)* of *subsection (2)*,
+
+(*b*) the probation and welfare officer who is supervising the child, and
+
+(*c*) the parents or guardian of the child (or, if the child is married, his or her spouse) or, as appropriate, another adult in whose residence the child is residing while the day centre order, as so varied, is in force.
+
+(5) The person in charge of the day centre shall give a copy of the day centre order, as so varied, to the child.
+
+(6) The jurisdiction vested in the Court under this section shall be exercised by the judge for the time being assigned to the district of residence.
+
+### 120. Power to revoke day centre order.
+
+**120.**—(1) Where a day centre order is in force in respect of a child and it appears to a court, on application by the child or a probation and welfare officer, that it would be in the interests of justice, having regard to circumstances which have arisen since the order was made, that the order should be revoked or that the child should be dealt with in some other way for the offence in respect of which the order was made, the court may—
+
+(*a*) if the order was made by a court in the district of residence, either—
+
+(i) revoke the order, or
+
+(ii) revoke it and deal with the child in another way,
+
+or
+
+(*b*) if the order was made by another court, remand the child on bail to a sitting of that court to be dealt with, and for that purpose *paragraph (a)* shall apply in relation to that court, with the necessary modifications.
+
+(2) The circumstances in which a day centre order may be revoked under *subsection (1)(a)(i)* shall include the progress the child has made, his or her satisfactory response to supervision and the discharge of any financial penalty.
+
+(3) In dealing with a child under *subsection (1)(a)(ii)* a court shall take into account the extent to which the child has complied with the day centre order and any conditions to which it is subject.
+
+(4) The jurisdiction vested in the court in respect of proceedings to which *subsection (1)* relates shall be exercised by the judge for the time being assigned to the district of residence or, as the case may be, the circuit or district where the day centre order was made.
+
+(5) Where a court proposes to exercise its powers under *subsection (1)* otherwise than on an application by a child, it shall summon the child to appear before it and, if the child does not do so, may issue a warrant for his or her arrest.
+
+### 121. Provisions where more than one day centre order.
+
+**121.**—(1) Where more than one day centre order is in force in respect of a child at any time, the total number of days on which attendance by the child at the day centre is required under the orders shall, notwithstanding *subsections (2)* and *(3)*, not exceed 90 days.
+
+(2) Where a court makes day centre orders in respect of two or more offences of which the child has been found guilty, it may direct that the days of attendance specified in any of those orders shall be concurrent with or additional to those specified in any other of those orders.
+
+(3) Where a court makes a day centre order and at the time of the making of the order there is in force in respect of the child another such order (whether made by the same or a different court), the court making the later order may direct in that order that the days of attendance specified therein shall be concurrent with or additional to those specified in the earlier order.
+
+(4) In this section “attendance”, in relation to a day centre, includes participation under supervision in any occupation, activity or instruction outside the centre.
+
+### 122. Non-compliance with day centre order.
+
+**122.**—(1) Where a day centre order in respect of a child is in force and it appears to a court, on application by the probation and welfare officer who is supervising the child, that the child has failed, without reasonable cause, to comply with the order or any condition to which it is subject, the court may—
+
+(*a*) if the order was made by a court in the district of residence—
+
+(i) direct the child to comply with the order or any such condition in so far as it has not been complied with,
+
+(ii) revoke the order and substitute another day centre order or another community sanction, or
+
+(iii) revoke the order and deal with the case in any other way in which it could have been dealt with before the order was made,
+
+or
+
+(*b*) if the order was made by another court, remand the child on bail to a sitting of that court to be dealt with, and for that purpose *paragraph (a)* shall apply in relation to that court, with the necessary modifications.
+
+(2) The matters to be taken into account by the court in arriving at a decision pursuant to *subsection (1)* shall include the extent to which, and the period during which, the child has complied with the day centre order or any condition to which it is subject.
+
+(3) Where the court proposes to exercise its powers under *subsection (1)*, it shall summon the child to appear before it and, if the child does not do so, may issue a warrant for his or her arrest.
+
+(4) The jurisdiction vested in the court under this section shall be exercised by the judge for the time being assigned to the district of residence or, as the case may be, the circuit or district where the day centre order was made.
+
+### 123. Duties of child under day centre order.
+
+**123.**—(1) A child in respect of whom a day centre order has been made shall be subject to the reasonable control, direction and supervision of the person in charge of a day centre, or a person authorised in that behalf by that person, while the child is—
+
+(*a*) attending at a day centre or participating in any occupation or activity, or receiving any instruction, under supervision outside the centre, or
+
+(*b*) travelling between the centre and a place outside the centre at which the child is directed or permitted to be.
+
+(2) A child shall, while attending at the day centre—
+
+(*a*) participate in such occupation or activities (whether physical or otherwise),
+
+(*b*) attend such classes or groups of persons, or
+
+(*c*) receive such instruction,
+
+whether within or outside the centre, as the person in charge of the day centre, or a person authorised in that behalf by that person, considers to be in the interests of the child, having regard, where appropriate, to any directions of the court.
+
+### 124. Probation (training or activities programme) order.
+
+**124.**—(1) A court may order that a child shall undertake and complete a programme of training or specified activities in accordance with the provisions of this section.
+
+(2) An order under this section shall for all purposes be a probation order, with the addition of such requirements as are imposed by this section.
+
+(3) The order shall require the child concerned, as a condition of his or her recognisance, to undertake and complete a programme recommended to the court by a probation and welfare officer as being suitable for the development of the child and as helping to prevent the child from committing further offences through the attainment of positive social values; and for the duration of the programme the child shall comply with any instructions or directions given by or under the authority of the person or body managing the programme.
+
+(4) The programme may be managed by the probation and welfare service or by any person or body recommended to the court by the F119[ Director of the Probation and Welfare Service], whether or not the person or body is in receipt of any funding from the State, and it need not necessarily cater exclusively for children found guilty of offences.
+
+(5) Where the programme is not managed by the probation and welfare service, the agreement of the person or body managing the programme shall be required for the admission of any child to it.
+
+(6) An order under this section shall specify—
+
+(*a*) the programme to be undertaken and completed by the child,
+
+(*b*) the period during which the order is in force,
+
+(*c*) the first occasion on which the child shall attend the place where the programme is being organised so as to enable the person in charge of the programme to inform the child of the details of the programme, including the length of time it will take to complete, and
+
+(*d*) any other conditions that the child is required to observe while the order is in force, as provided for in section 2 of the Act of 1907 and *section 117*.
+
+(7) Before making an order under this section the court shall be satisfied—
+
+(*a*) that a programme which is suitable for and reasonably accessible to the child is available,
+
+(*b*) that the child would benefit from it, and
+
+(*c*) where the programme is not managed by the probation and welfare service, that the person or body managing it agrees to accept the child.
+
+(8) The court shall cause certified copies of its order to be sent to—
+
+(*a*) the person or body in charge of the programme,
+
+(*b*) the probation and welfare officer who is supervising the child, and
+
+(*c*) the parents or guardian of the child (or, if the child is married, his or her spouse) or, as appropriate, another adult with whom the child is residing while the order is in force.
+
+(9) The person in charge of the programme shall give a copy of the order to the child.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F119: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 137, S.I. No. 65 of 2007.
+
+### 125. Probation (intensive supervision) order.
+
+**125.**—(1) A court may order that a child shall undergo intensive supervision in accordance with the provisions of this section.
+
+(2) An order under this section shall for all purposes be a probation order, with the addition of such requirements as are imposed by this section.
+
+(3) The order shall require the child concerned, as a condition of his or her recognisance—
+
+(*a*) to remain under the intensive supervision of a probation and welfare officer,
+
+(*b*) to reside at a specified residence during the period of intensive supervision, and
+
+(*c*) to undertake and complete an education or training programme, or to undergo a course of treatment, recommended to the court by a probation and welfare officer.
+
+(4) Any such programme may be managed by the probation and welfare service or by any person or body recommended to the court by the F120[Director of the Probation and Welfare Service], whether or not the person or body is in receipt of any funding from the State, and it need not cater exclusively for children found guilty of offences.
+
+(5) Where the programme is not managed by the probation and welfare service, the agreement of the person or body managing the programme shall be required for the admission of any child to it.
+
+(6) Subject to *subsection (7)*, the period of intensive supervision shall—
+
+(*a*) commence on a date to be determined by the probation and welfare officer supervising the child,
+
+(*b*) not exceed 180 days, and
+
+(*c*) where it exceeds 90 days, be subject to review by the court after it has been in operation for 60 days.
+
+(7) On a review of a period of intensive supervision in accordance with *subsection (6)(c)*, the court, having heard the child, his or her parents or guardian and the probation and welfare officer supervising the child, may—
+
+(*a*) reduce the period to 90 days, or
+
+(*b*) affirm it.
+
+(8) During the time the order is in force the child shall comply with any instructions and directions given by the supervising probation and welfare officer.
+
+(9) An order under this section shall specify—
+
+(*a*) the education or training programme to be undertaken and completed, or the course of treatment to be undergone, by the child concerned while the order is in force,
+
+(*b*) the period during which the order is in force,
+
+(*c*) the residence where the child is to reside while the order is in force, being the residence of the child’s parents or guardian or, where that residence is not suitable or is unavailable for any reason, the residence of an adult recommended for that purpose by the probation and welfare service,
+
+(*d*) the name of the probation and welfare officer under whose supervision the child is to be placed and any provisions relating to the intensity of that supervision that the court considers appropriate, and
+
+(*e*) any other conditions that the child may be required to observe while the order is in force, as provided for in section 2 of the Act of 1907 and *section 117*.
+
+(10) Before making an order under this section the court shall be satisfied—
+
+(*a*) that a probation and welfare officer is available for the intensive supervision of the child, and
+
+(*b*) that the child would benefit from that supervision and the programme or course of treatment referred to in *subsection (3)(c)*.
+
+(11) The court shall cause certified copies of its order to be sent to—
+
+(*a*) the person in charge of the programme or course of treatment,
+
+(*b*) the probation and welfare officer who is supervising the child, and
+
+(*c*) the parent or guardian of the child or, as appropriate, another adult with whom the child is residing while the order is in force.
+
+(12) The person in charge of the programme or course of treatment shall give a copy of the order to the child.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F120: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 137, S.I. No. 65 of 2007.
+
+### 126. Probation (residential supervision) order.
+
+**126.**—(1) A court may order that a child shall reside in a hostel residence in accordance with the provisions of this section.
+
+(2) An order under this section shall for all purposes be a probation order, with the addition of such requirements as are imposed by this section.
+
+(3) The order shall require the child concerned, as a condition of his or her recognisance, to reside in any hostel residence provided by the probation and welfare service or recommended to the court by a probation and welfare officer on days to be determined by the probation and welfare officer supervising the child.
+
+(4) A residence shall not be used as a hostel residence unless the F121[Director of the Probation and Welfare Service] has inspected it and a certificate by him or her that it is suitable for such use is in force.
+
+(5) A certificate under *subsection (4)* shall remain in force for not more than one year from the date of its issue, unless it is cancelled by the F121[Director of the Probation and Welfare Service] before then on the ground that the residence is no longer suitable for use as a hostel residence.
+
+(6) Where a hostel residence is not provided by the probation and welfare service, the agreement of the person or body providing it shall be required before an order is made under this section.
+
+(7) An order under this section shall specify—
+
+(*a*) the period, not exceeding one year, during which the order is in force,
+
+(*b*) the name and address of the hostel residence concerned, and
+
+(*c*) any other conditions that the child may be required to observe while the order is in force, as provided for in section 2 of the Act of 1907 and *section 117*.
+
+(8) The child shall, while in the hostel residence, be subject to the control, direction and supervision of the person in charge of the residence.
+
+(9) Subject to *subsection (10)*, an order shall not be made under this section unless the court is satisfied that the hostel residence specified in it is reasonably close to the child’s usual place of residence or to any place where the child is receiving education or training or is employed, and the court, in making such an order, shall have regard to the child’s age, sex, means of access to his or her usual residence or any such place and any other relevant circumstances.
+
+(10) Where the court is of opinion that it would be in the interests of a child to specify in the order a hostel residence that is not reasonably close to the child’s usual place of residence and a suitable such hostel residence is available, it may specify that hostel in the order.
+
+(11) The person in charge of the hostel residence, in consultation with the probation and welfare officer supervising a child, shall decide the times at which the child shall be required to be in the hostel, having regard to the child’s education, training or employment commitments and any other relevant circumstances, and any non-compliance with those times by the child, without good reason, shall be regarded as a breach of the order under this section.
+
+(12) The court shall cause certified copies of its order to be sent to—
+
+(*a*) the person in charge of the hostel residence concerned,
+
+(*b*) the probation and welfare officer who is supervising the child, and
+
+(*c*) the parents or guardian of the child or, as appropriate, another adult with whom the child has been residing.
+
+(13) The person in charge of the hostel residence shall give a copy of the order to the child.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F121: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 137, S.I. No. 65 of 2007.
+
+### 127. Power to vary probation (residential supervision) order.
+
+**127.**—(1) Where an order under *section 126* is in force in respect of a child, the Children Court, on application by the child or his or her parent or guardian or a probation and welfare officer, may vary the order if it appears to it that it would be in the interests of justice to do so, having regard to circumstances which have arisen since the order was made.
+
+(2) An order varying such an order may—
+
+(*a*) if the hostel residence specified in the order no longer complies with the requirements of *section 126(9)*, substitute for that hostel residence another hostel residence which complies with those requirements,
+
+(*b*) in the case of a hostel residence specified in an order under *section 126(10)*, substitute for the hostel residence so specified a hostel residence which complies with the requirements of *section 126(9)*, if it appears to the Court that it would be in the interests of the child to reside in such a hostel residence.
+
+(3) Where an order is varied under this section, the Court shall cause certified copies of the order as so varied to be sent to—
+
+(*a*) the person in charge of each hostel residence referred to in the order,
+
+(*b*) the probation and welfare officer who is supervising the child, and
+
+(*c*) the parents or guardian of the child or, as appropriate, another adult with whom the child was residing immediately before the order under *section 126* was made.
+
+(4) The person in charge of the hostel residence specified in the order under *section 126* shall give a copy of the order, as so varied, to the child.
+
+(5) The jurisdiction vested in the Court under this section shall be exercised by the judge for the time being assigned to the district of residence.
+
+### 128. Failure to observe conditions of probation.
+
+**128.**—(1) If a person who has failed to observe any condition of a recognisance under section 6 of the Act of 1907 is a child, the court may, in addition to its powers under that section—
+
+(*a*) direct the child to comply with the condition in so far as it has not been complied with, or
+
+(*b*) revoke the order and substitute another community sanction.
+
+(2) *Subsection (1)* shall not apply to any recognisance under the Act of 1907 which was entered into before the commencement of this section.
+
+### 129. Suitable person (care and supervision) order.
+
+**129.**—(1) A court may by order assign a child to the care of a person, including a relative of the child concerned (a “suitable person”), in accordance with the provisions of this section.
+
+(2) The court shall not make an order under this section unless the parents or guardian of the child have consented in writing to its being made and a probation and welfare officer has informed the court that a suitable person is available.
+
+(3) An order under this section shall specify that the child shall ordinarily reside in the residence of the suitable person and shall also specify the period, not exceeding 2 years, for which the child shall so reside.
+
+(4) While the order is in force the suitable person shall have the like control over the child as if he or she were the child’s parent or guardian and shall do what is reasonable in all the circumstances of the case to safeguard or promote the child’s health, development and welfare.
+
+(5) The child shall be under the supervision of a probation and welfare officer while the order is in force.
+
+(6) The order may specify such of the conditions provided for in *section 117* as it considers necessary for helping to ensure that while the order is in force the child will be of good behaviour and will not commit any further offences.
+
+(7) The court shall cause certified copies of its order to be sent to—
+
+(*a*) where the order is not made by a judge of the court assigned to the district in which the suitable person resides, that judge,
+
+(*b*) the parents or guardian of the child, and
+
+(*c*) the probation and welfare officer who is supervising the child.
+
+(8) The probation and welfare officer who is supervising the child shall give a copy of the order to the suitable person and the child.
+
+(9) Where—
+
+(*a*) on application by a probation and welfare officer to the court which made the order, the court is satisfied that its continuance in force—
+
+(i) would not be in the interests of the suitable person or the child, or
+
+(ii) is no longer necessary because of the progress made by the child,
+
+(*b*) the parents or guardian of the child notify the court in writing that they are withdrawing their consent to the making of the order, or
+
+(*c*) the suitable person applies to the court to have the order revoked,
+
+the court may, having regard to the period for which the order was in force and any other relevant circumstances—
+
+(i) revoke the order,
+
+(ii) revoke it and substitute another community sanction, or
+
+(iii) revoke it and deal with the case in any other way in which it could have been dealt with before the order was made.
+
+### 130. Non-compliance with suitable person (care and supervision) order.
+
+**130.**—(1) Where an order under *section 129* is in force and it appears to the court which made the order, on application by the probation and welfare officer who is supervising the child concerned, that the child has failed, without reasonable cause, to comply with the order or any condition to which it is subject, the court may—
+
+(*a*) direct the child to comply with the order or any such condition in so far as it has not been complied with,
+
+(*b*) revoke the order and substitute another order under *section 129* or another community sanction, or
+
+(*c*) revoke the order and deal with the case in any other way in which it could have been dealt with before the order was made.
+
+(2) The matters to be taken into account by the court in arriving at a decision pursuant to *subsection (1)* shall include the extent to which, and the period during which, the child has complied with the order in question and any conditions to which it is subject.
+
+(3) Where the court proposes to exercise its powers under *subsection (1)*, it shall summon the child to appear before it and, if the child does not do so, may issue a warrant for his or her arrest.
+
+### 131. Mentor (family support) order.
+
+**131.**—(1) A court may by order assign a child to a person, including a relative of the child concerned (a “mentor”), to help, advise and support the child and the child’s family in its efforts to prevent the child from committing further offences and to monitor the child’s behaviour generally.
+
+(2) An order under this section shall specify the period, not exceeding 2 years, during which the order shall remain in force and also specify that the child shall live with his or her parents or guardian at their normal place of residence during that period.
+
+(3) A child in respect of whom an order under this section has been made shall, while the order is in force, be under the supervision of a probation and welfare officer who, in addition to his or her duty to supervise the child, shall help and advise the mentor in supporting the child and the child’s family in its efforts to prevent the child from committing further offences.
+
+(4) The court shall not make an order under this section unless—
+
+(*a*) a probation and welfare officer has informed the court that a mentor is available, and
+
+(*b*) the child and the child’s parents or guardian consent to the making of the order and agree to cooperate with the mentor in accordance with its terms.
+
+(5) The order may specify such of the conditions provided for in *section 117* as the court considers necessary for helping to ensure that while the order is in force the child will be of good behaviour and will not commit any further offences.
+
+(6) The court shall cause certified copies of its order to be sent to—
+
+(*a*) the parents or guardian of the child, and
+
+(*b*) the probation and welfare officer who is supervising the child.
+
+(7) The probation and welfare officer who is supervising the child shall give a copy of the order to the mentor and to the child.
+
+(8) Where—
+
+(*a*) on application by a probation and welfare officer to the court which made the order, the court is satisfied that its continuance in force—
+
+(i) would not be in the interests of the mentor or the child, or
+
+(ii) is no longer necessary because of the progress made by the child;
+
+(*b*) the parents or guardian of the child notify the court in writing that they are withdrawing their consent to the making of the order; or
+
+(*c*) the mentor applies to the court to have the order revoked,
+
+the court may, having regard to the period for which the order was in force and any other relevant circumstances—
+
+(i) revoke the order,
+
+(ii) revoke it and substitute another community sanction, or
+
+(iii) revoke it and deal with the case in any other way in which it could have been dealt with before the order was made.
+
+### 132. Non-compliance with mentor (family support) order.
+
+**132.**—*Section 130* shall apply, with any necessary modifications, to non-compliance with an order under *section 131*, or with any condition to which it is subject, as if for the references in *section 130* to an order there were substituted references to an order under *section 131*.
+
+### 133. Restriction on movement order.
+
+**133.**—(1) A court may make either or both of the following orders in relation to a child:
+
+(*a*) an order that the child shall be at a specified residence between specified times during the period commencing at 7.00 p.m. on each day and ending at 6.00 a.m. on each following day,
+
+(*b*) an order that the child shall stay away from any specified premises, place or locality during specified days or between specified times,
+
+while the relevant order is in force.
+
+(2) An order under *subsection (1)(a)* shall state—
+
+(*a*) the period, not exceeding 6 months, during which it is in force, and
+
+(*b*) the times between which the child concerned shall be at the specified residence.
+
+(3) An order under *subsection (1)(b)* shall state—
+
+(*a*) the period, not exceeding 12 months, during which it is in force, and
+
+(*b*) the days on which or the times between which the child concerned shall stay away from the specified premises, place or locality.
+
+(4) An order under this section may specify such of the conditions provided for in *section 117* as the court considers necessary for helping to ensure that while the order is in force the child will be of good behaviour and will not commit any further offences.
+
+(5) In determining for the purposes of *subsection (1)(a)* the times between which a child shall be at a specified residence the court shall have regard to the age and level of maturity of the child, the nature of the offence of which the child has been found guilty and any educational course, training or other activity in which the child is participating, and it shall ensure, as far as practicable, that those times do not conflict with the practice by the child of his or her religion.
+
+(6) In determining for the purposes of *subsection (1)(b)* the premises, place or locality, and the days or times, to be specified in an order under that subsection, the court shall have regard to the age and level of maturity of the child, the nature of the offence of which the child has been found guilty, the day or time that the child committed the offence, the place where the offence was committed and the likelihood of the child committing another offence in the same or similar premises, place or locality.
+
+(7) The court shall cause certified copies of its order to be sent to—
+
+(*a*) the child concerned,
+
+(*b*) the child’s parents or guardian or, where the residence specified in the order is not that of the parents or guardian, an adult living in the residence so specified,
+
+(*c*) where the order has not been made by a judge of the court assigned to the district in which the child is to reside, such a judge, and
+
+(*d*) the member in charge of the Garda Síochána station for the area where the child is to reside.
+
+(8) An order under *subsection (1)(b)* may relate to one or more than one premises, place or locality.
+
+### 134. Variation of restriction on movement order.
+
+**134.**—(1) Where an order under *section 133* is in force, the Children Court may, if it so thinks proper, on application by the child concerned or his or her parent or guardian or, where appropriate, an adult living in the residence specified in the order, vary the order by substituting another time or day or another residence for the time, day or residence specified in the order.
+
+(2) The Court shall cause certified copies of the order as so varied to be sent to—
+
+(*a*) the child concerned,
+
+(*b*) the child’s parents or guardian or, where the residence specified in the order is not that of the parents or guardian, an adult living in the residence so specified, and
+
+(*c*) the member in charge of the Garda Síochána for the area where the child is to reside and, where appropriate, the area where the child was residing pursuant to the order under *section 133*.
+
+(3) The jurisdiction vested in the Court under this section shall be exercised by the judge for the time being assigned to the district of residence.
+
+### 135. Provisions regarding more than one restriction on movement order.
+
+**135.**—(1) Where more than one order under *section 133(1)(a)* is in force in respect of a child at any time, the period during which a child is required to be at a specified residence shall, notwithstanding *subsections (2)* and *(3)*, not exceed 6 months.
+
+(2) Where a court makes orders under *section 133(1)(a)* in respect of two or more offences of which the child concerned has been found guilty, it may direct that the period for which the child is required by any of these orders to be at a specified residence shall be concurrent with or additional to that specified in any other of those orders.
+
+(3) Where a court makes an order under *section 133(1)(a)* and at the time of the making of the order there is in force in respect of the child concerned another such order (whether made by the same or a different court), the court making the later order may direct in that order that the period for which the child is required by that order to be at a specified residence shall be concurrent with or additional to that specified in the earlier order.
+
+### 136. Non-compliance with restriction on movement order.
+
+**136.**—F122[ (1) A member of the Garda Síochána who finds a child in breach of an order under *section 133* or of any condition to which it is subject may arrest the child without warrant.
+
+(1A) Where it appears to a court that a child has failed, without reasonable cause, to comply with such an order or any condition to which it is subject, it may—
+
+(*a*) if the order was made by a court in the district of residence—
+
+(i) direct the child to comply with the order or any such condition in so far as it has not been complied with,
+
+(ii) revoke the order and substitute another order under *section 133* or another community sanction, or
+
+(iii) revoke the order and deal with the case in any other way in which it could have been dealt with before the order was made,
+
+or
+
+(*b*) if the order was made by another court, remand the child on bail to a sitting of that court to be dealt with, and for that purpose paragraph (*a*) shall apply in relation to that court, with the necessary modifications.]
+
+(2) The matters to be taken into account by the court in arriving at a decision pursuant to *subsection (1)* shall include the extent to which, and the period during which, the child has complied with the order in question or any condition to which it is subject.
+
+(3) F123[...]
+
+(4) The jurisdiction vested in the court under this section shall be exercised by the judge for the time being assigned to the district of residence or, as the case may be, the circuit or district where the order under *section 133* was made.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F122: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 140(a), S.I. No. 65 of 2007.
+>
+> F123: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 140(b), S.I. No. 65 of 2007.
+
+### 137. Dual order.
+
+**137.**—(1) In this section “dual order” means an order which requires a child either—
+
+(*a*) to be under the supervision of a probation and welfare officer for a specified period, or
+
+(*b*) to attend at a day centre for a specified period not exceeding 90 days,
+
+and which also restricts the child’s movements for a specified period not exceeding 6 months.
+
+(2) The court may make a dual order where it is of opinion that neither supervision by a probation and welfare officer nor attendance at a day centre, including any conditions to which such supervision or attendance would be made subject, would of itself adequately reduce the likelihood of the child committing further offences.
+
+(3) A dual order shall be deemed for all purposes—
+
+(*a*) in so far as it imposes a requirement mentioned in *subsection (1)(a)*, to be a probation order,
+
+(*b*) in so far as it imposes a requirement mentioned in *subsection (1)(b)*, to be a day centre order, and
+
+(*c*) in so far as it restricts a child’s movements, to be an order under *section 133*.
+
+### 138. Expiry of community sanction.
+
+**138.**—Every community sanction, other than an order under section 3 of the Act of 1983, shall, unless it sooner expires or the context otherwise requires, expire 6 months after the child in respect of whom the order was made attains the age of 18 years.
+
+### 139. Commission of offence while community sanction in force.
+
+**139.**—Where the court finds a child guilty of an offence, and the child is at that time subject to an order imposing a community sanction, the court may, in addition to or instead of any other powers available to it and subject to the provisions of this Part—
+
+(*a*) revoke the order and make such other order imposing a community sanction on the child as the court thinks fit, or
+
+(*b*) in addition to the order to which the child is already subject, make such other order as is mentioned in *paragraph (a)*.
+
+### 140. Effect of subsequent period of detention.
+
+**140.**—An order which imposes a community sanction on a child for an offence and which is in force shall cease to be in force on the child commencing a period of detention for another offence.
+
+### 141. Regulations.
+
+**141.**—(1) The following matters may be prescribed:
+
+(*a*) measures to prevent any risk to the health or welfare of any child on whom a community sanction has been imposed,
+
+(*b*) procedures to be followed by a probation and welfare officer or any other person involved in supervising any such child,
+
+(*c*) records to be kept in relation to any such child,
+
+(*d*) such other matters (if any) as may be necessary or expedient for the purpose of enabling community sanctions to have full effect and for their due administration.
+
+(2) The following matters may also be prescribed:
+
+(*a*) the conditions under which children may be placed with suitable persons and under which mentors (within the meaning of *section 131*) may be assigned to support children and their families;
+
+(*b*) the form of contract to be entered into by the F124[Director of the Probation and Welfare Service] with suitable persons and mentors;
+
+(*c*) the supervision by a probation and welfare officer of—
+
+(i) children placed with suitable persons and visits by the children to, and other contacts with, their parents or guardians and other members of their families and relatives,
+
+(ii) children to whom mentors have been assigned under *section 131*;
+
+and
+
+(*d*) such other matters in relation to—
+
+(i) placing children in the care of suitable persons by the court under *section 129*,
+
+(ii) regulating the powers, duties and functions of suitable persons and mentors under *sections 129* and *131* respectively, and
+
+(iii) securing generally the welfare of such children and their future good behaviour,
+
+as may be necessary for the purposes of enabling *sections 129* to *132* to have full effect.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F124: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 137, S.I. No. 65 of 2007.
+
+*Detention*
+
+### 142. Detention orders.
+
+**142.**—A court may, in accordance with this Part, by order (in this Part referred to as a “children detention order”) impose on a child a period of detention in a children detention school F125[...] specified in the order.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F125: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 11, S.I. No. 65 of 2007.
+
+### 143. Restriction on detention orders.
+
+**143.**—(1) The court shall not make an order imposing a period of detention on a child unless it is satisfied that detention is the only suitable way of dealing with the child and F126[...] that a place in a children detention school is available for him or her.
+
+(2) Where an order is made under *subsection (1)*, the court making the order shall give its reasons for doing so in open court.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F126: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 12, S.I. No. 65 of 2007.
+>
+> F127: Inserted by *Children (Amendment) Act 2015* (30/2015), s. 8, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C14: Prospective affecting provision: subs. (2) amended by *Children (Amendment) Act 2015* (30/2015), s. 8, not commenced as of date of revision.
+>
+> (2) Where an order is made under *subsection (1)*, the court making the order shall give its reasons for doing so in open court F127[in language that is appropriate to the age and level of understanding of the child concerned].
+
+### 144. Deferment of detention order.
+
+**144.**—(1) Without prejudice to *section 145*, where a court—
+
+(*a*) has considered a probation officer’s report or any other report made pursuant to this Part,
+
+(*b*) has heard the evidence of any person whose attendance it may have requested, including any person who made such a report,
+
+(*c*) has given the parent or guardian of the child concerned (or, if the child is married, his or her spouse), if present in court for the proceedings, or, if not so present, an adult relative of the child or other adult accompanying the child, an opportunity to give evidence, and
+
+(*d*) is of opinion that the appropriate way of dealing with the child would be to make a children detention order,
+
+it may defer making the order, in accordance with the provisions of this section, if a place is not available for the child in a children detention school or for any other sufficient reason.
+
+(2) The court shall defer the making of a children detention order only if the court is satisfied that, having regard to the nature of the offence and the age, level of understanding, character and circumstances of the child concerned, it would be in the interests of justice to defer the making of the order.
+
+(3) Where the making of a children detention order is deferred, the court shall adjourn the hearing and order that the child concerned be placed under the supervision of a probation and welfare officer.
+
+(4) In case the making of the order has been deferred because a place for the child is not available in a children detention school, the court shall order that the Director of that school shall apply to the court to make the children detention order when such a place becomes available.
+
+(5) In any other case, the court shall state in open court—
+
+(*a*) the period of detention that is being deferred,
+
+(*b*) the date of the resumed court hearing, and
+
+(*c*) that the court will take into account at that hearing the information in the probation and welfare officer’s report concerning the child’s conduct in the meantime and the other matters mentioned in *subsection (7)(b)*.
+
+(6) The court shall also explain to the child in open court in language appropriate to the level of understanding of the child—
+
+(*a*) why the making of the children detention order is being deferred and for what period,
+
+(*b*) any of the conditions referred to in *section 117* which the court suggests should be complied with by the child during that period,
+
+(*c*) the expectation of the court that the child will be of good conduct during that period and the possible consequences for the child of his or her failure to comply with any such conditions, and
+
+(*d*) the expectation of the court that the child’s parents or guardian, where appropriate, will help and encourage the child to comply with any such conditions and not commit further offences.
+
+(7) (*a*) The probation and welfare officer under whose supervision the child has been placed shall prepare a report on the child for consideration by the court at the resumed hearing.
+
+(*b*) The report shall contain information on the child’s conduct after the finding of guilt, including the extent to which the child has complied with any conditions suggested by the court, on any change in the child’s circumstances and on any reparation by the child to the victim, together with any other information which the officer considers to be relevant.
+
+(*c*) The officer shall make all reasonable endeavours to ensure that the report is lodged with the clerk or other proper officer of the court at least 4 working days before the date of the resumed hearing.
+
+(8) The resumed court hearing shall take place not later than one year from the date of the adjourned hearing and may take place notwithstanding that the child has attained the age of 18 years in the meantime.
+
+(9) At the resumed hearing the court shall consider the report prepared by the probation and welfare officer and, if the court thinks it necessary, hear evidence from the officer and shall by order—
+
+(*a*) impose the period of detention which it had deferred or any shorter period,
+
+(*b*) suspend the whole or any portion of a period of detention so imposed, or
+
+(*c*) impose a community sanction appropriate to the age of the child concerned,
+
+and shall explain to the child in open court the reasons for its decision in language that the child understands.
+
+(10) Where—
+
+(*a*) the Director of a children detention school applies to the court pursuant to an order under *subsection (4)*, and
+
+(*b*) the court proposes to make a children detention order,
+
+it may issue a summons requiring the child to appear before it and, if the child does not appear in answer to the summons, may issue a warrant for his or her arrest.
+
+(11) Where the making of a children detention order has been deferred under this section it may not be further so deferred.
+
+### 145. Alternative to detention where no place available in children detention school.
+
+**145.**—Where—
+
+(*a*) a court would impose a period of detention on a child F128[...] if a place were available for the child in a children detention school,
+
+(*b*) such a place is not available, and
+
+(*c*) the court is satisfied that it would not be appropriate in the particular case to defer making a children detention order,
+
+it may make, instead of a children detention order, an order imposing on the child the community sanction it considers most appropriate for the child.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F128: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 13, S.I. No. 65 of 2007.
+
+### 146. Finding of guilt during deferment.
+
+**146.**—A court which has deferred the making of a children detention order in relation to a child pursuant to *section 144*—
+
+(*a*) may make the order before the expiration of the period of deferment if during that period the child is found guilty of any offence, and
+
+(*b*) where it proposes to make such an order, whether on the date originally specified by the court or by virtue of *paragraph (a)* before that date, may issue a summons requiring the child to appear before it and, if the child does not do so, may issue a warrant for his or her arrest.
+
+### 147. Detention in accordance with age of child.
+
+**147.**—
+
+F129[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F129: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 14, S.I. No. 65 of 2007.
+
+### 148. Document to be produced to Director of children detention school.
+
+**148.**—Where a child is ordered to be detained in a children detention school, a certified copy of the order shall be delivered with the child to the Director of the children detention school specified in the order and shall be sufficient authority for the detention of the child in the school for that period.
+
+### 149. Period of detention in children detention school.
+
+F130[**149.**— Where a child is found guilty of an offence in the Children Court, any term of detention in a children detention school imposed for the offence shall not be for a period longer than the term of detention or imprisonment which the court could impose on an adult who commits such an offence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F130: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 141, S.I. No. 65 of 2007.
+>
+> F131: Substituted by *Children (Amendment) Act 2015* (30/2015), s. 9, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C15: Prospective affecting provision: section substituted by *Children (Amendment ) Act 2015* (30/2015), s. 9, not commenced as of date of revision.
+>
+> **Provisions regarding period of detention imposed by court**
+>
+> **149.** (1) Where a child is convicted of an offence and a period of detention is imposed on the child by a court, the period of detention shall not exceed the term of detention or imprisonment that the court could have imposed on a person of full age and capacity who is convicted of such an offence.
+>
+> (2) Where a court imposes a period of detention exceeding 3 years on a child, it shall give its reasons for doing so in open court in language that is appropriate to the age and level of understanding of the child.
+
+### 150. Places of detention.
+
+**150.**—
+
+F132[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F132: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 15, S.I. No. 65 of 2007.
+
+### 151. Detention and supervision.
+
+**151.**—(1) Where a court is satisfied that detention is the only suitable way of dealing with a child F133[...], it may, instead of making a children detention order, make a detention and supervision order.
+
+(2) A detention and supervision order shall provide for detention in a F134[children detention school] followed by supervision in the community.
+
+(3) Subject to *subsection (4)*, half of the period for which a detention and supervision order is in force shall be spent by the child in detention in a F134[children detention school] and half under supervision in the community.
+
+(4) Where the child is released from detention on earning remission of sentence by industry or good conduct or on being given temporary release under section 2 F135[or 3, or conditional release under section 2A,] of the Act of 1960, supervision of the child in the community under the order shall be deemed to commence on the child’s release.
+
+(5) The supervision provided for in this section shall be by a probation and welfare officer.
+
+(6) A detention and supervision order, in so far as it relates to detention, shall be deemed for all purposes to be a children detention order.
+
+(7) A detention and supervision order may specify such of the conditions provided for in *section 117* as the court considers necessary for helping to ensure that the child concerned would be of good behaviour and for reducing the likelihood of the child’s committing any further offences.
+
+(8) *Section 130* shall apply, with any necessary modifications, to non-compliance with a detention and supervision order, or with any condition to which it is subject, as if for the references to an order in that section there were substituted references to a detention and supervision order.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F133: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 16, S.I. No. 65 of 2007.
+>
+> F134: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 17, S.I. No. 65 of 2007.
+>
+> F135: Substituted (3.05.2023) by *Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023* (3/2023), s. 74, S.I. No. 213 of 2023.
+>
+> F136: Inserted by *Children (Amendment) Act 2015* (30/2015), s. 10(a), not commenced as of date of revision.
+>
+> F137: Deleted by *Children (Amendment) Act 2015* (30/2015), s. 10(b), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C16: Prospective affecting provision: subs. (4) amended by *Children (Amendment) Act 2015* (30/2015), s. 10, not commenced as of date of revision.
+>
+> (4) Where the child is released from detention F136[on being granted remission of portion of his or her period of detention in a children detention school pursuant to regulations made under *section 221*,] F137[...] supervision of the child in the community under the order shall be deemed to commence on the child’s release.
+
+### 152. Transfer.
+
+**152.**—
+
+F138[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F138: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 18, S.I. No. 65 of 2007.
+
+### 153. Rules governing places of detention.
+
+**153.**—
+
+F139[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F139: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 19, S.I. No. 65 of 2007.
+
+### 154. Amendment of Criminal Justice (Community Service) Act, 1983.
+
+**154.**—Section 2 of the Act of 1983 is hereby amended by the insertion of the following after “Saint Patrick’s Institution”—
+
+“F140[...] or in a children detention school”.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F140: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 20, S.I. No. 65 of 2007.
+
+### 155. Persons who attain 18 years of age while detained
+
+F141[**155.** (1) Where—
+
+(*a*) a person is detained in a children detention school on foot of a children detention order following conviction for an offence, and
+
+(*b*) the person’s 18th birthday (which in this section shall be known as the ‘relevant date’) will occur before the period of detention specified in the order expires,
+
+that person shall serve any period of detention remaining to be served on the relevant date in a place that shall be determined in accordance with this section.
+
+(2) The Director shall, before the relevant date, request the Minister for Children and Youth Affairs to authorise, under subsection (3), the transfer of a person referred to in *subsection (1)* on the relevant date or not later than 7 days from that date.
+
+(3) On receiving a request under *subsection (2)*, the Minister for Children and Youth Affairs shall, before the relevant date and after consultation with the Minister, authorise the transfer of the person to such—
+
+(*a*) place of detention provided under section 2 of the Act of 1970, or
+
+(*b*) prison,
+
+as the Minister for Children and Youth Affairs, having consulted with the Minister, considers appropriate, to serve the period of detention that remains to be served by that person on the date that he or she is transferred.
+
+(4) On receiving an authorisation under subsection (3), the Director shall transfer the person to the place of detention or prison concerned on the relevant date or not later than 7 days from that date.
+
+(5) Notwithstanding *subsections (2)*, *(3)* and *(4)*, if—
+
+(*a*) a person is engaged in a course of education or training in the children detention school, or
+
+(*b*) the period of detention remaining to be served by a person in the children detention school on the relevant date is 6 months or less,
+
+the Director may, instead of making a request under *subsection (2)*, determine that the person shall continue to be detained in the children detention school for a period not exceeding 6 months from the relevant date.
+
+(6) Where a Director has made a determination under *subsection (5)* that a person shall continue to be detained in a children detention school for a period not exceeding 6 months from the relevant date and—
+
+(*a*) before the period has elapsed, the person—
+
+(i) completes the course of education or training to which paragraph (a) of that subsection refers, or
+
+(ii) ceases to be engaged in the course of education or training concerned,
+
+or
+
+(*b*) the period is about to elapse,
+
+the Director shall, or in the case of a cessation of engagement referred to in *paragraph (a) (ii)*, may, where a period of detention remains to be served by the person, make a request under *subsection (2)* as soon as may be in respect of that person and in such case, reference in *subsections (2)* and *(3)* to "before the relevant date" shall be construed as "as soon as may be" and reference in *subsections (2)* and *(4)* to "on the relevant date" shall be construed as a reference to the day after the date of authorisation by the Minister for Children and Youth Affairs under *subsection (3)*.
+
+(7) Notwithstanding any provision to the contrary contained in any enactment, a child shall not be transferred from a children detention school to a place of detention provided under section 2 of the Act of 1970 or to a prison.
+
+(8) In this section—
+
+"Director" means the Director, within the meaning of *section 180*, of the children detention school in which a person referred to in *subsection (1)* is detained before the relevant date;
+
+"enactment" has the same meaning as it has in the Interpretation Act 2005.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F141: Substituted (1.12.2015) by *Children (Amendment) Act 2015* (30/2015), s. 11(1), S.I. No. 539 of 2015, subject to transitional provision in subs. (2).
+>
+> **Editorial Notes:**
+>
+> E29: Previous affecting provisions: section amended (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 142, S.I. No. 65 of 2007; substituted as per F-note above.
+
+### 156. Restriction on punishment of children.
+
+**156.**—No court shall pass a sentence of imprisonment on a child or commit a child to prison.
+
+### 156A. Transitional provision.
+
+F142[**156A.**—F143[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F142: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 143, S.I. No. 65 of 2007.
+>
+> F143: Repealed (31.03.2017) by *Children (Amendment) Act 2015* (30/2015), s. 3(1)(c), S.I. No. 111 of 2017, subject to transitional provisions in subss. (6)-(10) and 11(b).
+
+### 156B. Application of Prisons Acts, etc. rules to children detention schools.
+
+F144[**156B.**— F145[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F144: Inserted by *Criminal Justice Act 2006* (26/2006), s. 144, not commenced.
+>
+> F145: Provision prospectively inserting section repealed (31.03.2017) by *Children (Amendment) Act 2015* (30/2015), s. 3(2), S.I. No. 111 of 2017.
+
+## PART 10Children Detention Schools — PART 10 — Children Detention Schools
+
+*General*
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C17: Functions transferred and terms “Department of Justice and Equality” and “Minister for Justice and Equality” construed (1.01.2012) by *Remand Centres and Children Detention Schools (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 668 of 2011), arts. 2, 3, commenced as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> **2.**— (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Children and Youth Affairs.
+>
+> (2) References to the Department of Justice and Equality contained in any Act or instrument made under such Act and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be read as references to the Department of Children and Youth Affairs.
+>
+> **3.** —(1) The functions vested in the Minister for Justice and Equality by or under—
+>
+> (a) section 88 (other than subsections (12) and (13)), and
+>
+> (b) Part 10,
+>
+> of the Children Act 2001 (No. 24 of 2001) are transferred to the Minister for Children and Youth Affairs.
+>
+> (2) References to the Minister for Justice and Equality contained in any Act or instrument made under such Act and relating to any functions transferred by this Article shall, from the commencement of this Order, be read as references to the Minister for Children and Youth Affairs.
+>
+> ...
+
+### 157. Interpretation (Part 10).
+
+**157.**—In this Part, unless the context otherwise requires—
+
+“Act of 1908” means the Children Act, 1908;
+
+F146["amalgamation date" has the meaning assigned to it by *section 163A*;
+
+"amalgamation order" has the meaning assigned to it by *section 163A*;
+
+"amalgamated school" is a children detention school that is formed by the amalgamation of 2 or more children detention schools pursuant to an amalgamation order;
+
+"Appeal Tribunal" shall be construed in accordance with *section 201D*;
+
+"approved absence" means the absence of a child from a children detention school under *section 202*, *203*, *204*, *205* or *207*, as the case may be;]
+
+F147[“authorised person” means a person authorised by the Minister under section 185;]
+
+“board of management” has the meaning assigned to it by *section 164*;
+
+F148["child" means—
+
+(*a*) a person under the age of 18 years in relation to whom a children detention order is in force,
+
+(*b*) a person of 18 years or over in relation to whom a children detention order is in force and in relation to whom the Director of a children detention school has made a determination under *section 155(5)* that is in force, or
+
+(*c*) for the purposes of any provision of this Part that applies to a person remanded under *section 88* to a remand centre situated in a children detention school, a person who has been so remanded.]
+
+“Director” means a person appointed under *section 180* as Director of a children detention school or, as the case may be, of more than one such school;
+
+F146["disciplinary breach" has the meaning assigned to it by *section 201*;
+
+"Inspector" has the meaning assigned to it by *section 186A*;
+
+"Minister" means the Minister for Children and Youth Affairs;]
+
+F149[...]
+
+F149[...]
+
+“responsible person”, in relation to a child, means a relative of the child or a person in whose care the child is placed under this Act;
+
+F147[“staff” does not include teaching staff;]
+
+“supervision in the community” has the meaning assigned to it by *section 207*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F146: Inserted (1.12.2015) by *Children (Amendment) Act 2015* (30/2015), s. 12(a), S.I. No. 539 of 2015.
+>
+> F147: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 145(a), S.I. No. 65 of 2007.
+>
+> F148: Substituted (1.12.2015) by *Children (Amendment) Act 2015* (30/2015), s. 12(b), S.I. No. 539 of 2015.
+>
+> F149: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 145(b), S.I. No. 65 of 2007.
+
+### 158. Principal object of children detention schools.
+
+**158.**—It shall be the principal object of children detention schools to provide appropriate F150[appropriate educational, training and other programmes and facilities] for children referred to them by a court and, by—
+
+(*a*) having regard to their health, safety, welfare and interests, including their physical, psychological and emotional wellbeing,
+
+(*b*) providing proper care, guidance and supervision for them,
+
+(*c*) preserving and developing satisfactory relationships between them and their families,
+
+(*d*) exercising proper moral and disciplinary influences on them, and
+
+(*e*) recognising the personal, cultural and linguistic identity of each of them,
+
+to promote their reintegration into society and prepare them to take their place in the community as persons who observe the law and are capable of making a positive and productive contribution to society.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F150: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 21, S.I. No. 65 of 2007.
+
+### 159. Certified schools under Act of 1908.
+
+F151[**159.**—(1) Subject to *subsection (2)*, a certified reformatory school or industrial school under Part IV of the Act of 1908 shall, with the agreement of the Minister and the Minister for Education and Science, become a children detention school on the commencement of this section in relation to it.
+
+(2) A certified industrial school under that Part shall, with the agreement of the Minister for Education and Science and the Minister for Health and Children and on the commencement of this section in relation to it, become premises provided and maintained by the Health Service Executive under section 38(2) of the Act of 1991 for the provision of residential care for children in care.
+
+(3) On the commencement of this section in relation to a certified reformatory school or industrial school the functions relating to which stood vested in the Minister for Education and Science (other than the function of providing education and training and related programmes for children detained in it) immediately before such commencement, such functions shall—
+
+(*a*) if the school becomes a children detention school, be vested in the Minister, or
+
+(*b*) in the case referred to in *subsection (2)*, be vested in the Health Service Executive.
+
+(4) The lawfulness of the detention, and the period of detention, of a child who is detained in a certified reformatory or industrial school is not affected by the commencement of this section in relation to it.
+
+(5) Any reference in any enactment to a reformatory school or an industrial school shall, on the commencement of this section in relation to it, be construed as a reference to a children detention school or, as the case may be, premises provided and maintained by the Health Service Executive under section 38(2) of the Act of 1991.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F151: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 146, S.I. No. 65 of 2007.
+
+### 159A. Education of children in children detention school, residential centres, etc.
+
+F152[**159A.**—(1) In this section—
+
+“Inspector” and “recognised school” have the meanings given to them in section 2 of the Education Act 1998;
+
+“transferred premises” means a certified reformatory or an industrial school under Part IV of the Act of 1908 which, on the commencement of *section 159* in relation to it, becomes a children detention school or premises provided and maintained by the F153[Child and Family Agency] under section 38(2) of the Act of 1991;
+
+F154[...]
+
+(2) Any recognised school forming part of transferred premises is dissolved.
+
+(3) A F155[An education and training board] in whose functional area transferred premises are situated shall provide for the education of children in those premises.
+
+(4) Without prejudice to the generality of subsection (3), each F155[education and training board] shall, in respect of any such premises—
+
+(*a*) plan, coordinate and review the provision of education and services ancillary thereto,
+
+(*b*) ensure that the education provided therein meets the requirements of education policy as determined from time to time by the Minister for Education and Science,
+
+(*c*) ensure that students have access to appropriate guidance to assist them in their educational and career choices,
+
+(*d*) promote the moral, spiritual, social and personal development of the children concerned, and
+
+(*e*) ensure that the needs of personnel involved in management functions and those in relation to staff development generally are identified and provided for.
+
+(5) The functions of an Inspector within the meaning of the Education Act 1998 apply, with any necessary modifications, in relation to education facilities provided in respect of any transferred premises.
+
+(6) A person who, immediately before the dissolution under this section of a recognised school, is a member of its teaching staff shall, on such dissolution, become an employee of the vocational education committee in whose functional area the recognised school is situated; and the rights and entitlements enjoyed by the person as such employee in respect of tenure, remuneration, fees, allowances, expenses and superannuation shall not, by virtue of the operation of this Act, be any less beneficial than the rights and entitlements enjoyed by that person immediately before the dissolution.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F152: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 147, S.I. No. 65 of 2007.
+>
+> F153: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 14 item 1, S.I. No. 502 of 2013.
+>
+> F154: Deleted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72 and sch. 6 item 36, S.I. No. 211 of 2013.
+>
+> F155: Substituted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72 and sch. 6 item 36, S.I. No. 211 of 2013.
+
+### 159B. Transfer of property, rights and liabilities of certified industrial school on commencement of section 159(2).
+
+F156[**159B.**—(1) In this section—
+
+“board of management” in relation to a certified industrial school, includes managers of the school within the meaning of the Act of 1908;
+
+“certified industrial school” means a certified industrial school under Part IV of the Act of 1908 which becomes transferred premises on the transfer day;
+
+“land” includes any rights, liabilities, powers or privileges relating to or connected with the land;
+
+“property” includes any rights or liabilities relating to or connected with the property;
+
+“transfer day” means the day on which a certified industrial school becomes, by virtue of *section 159(2)*, premises provided and maintained by the F157[Child and Family Agency] under section 38(2) of the Act of 1991 for the provision of residential care for children in care;
+
+“transferred premises” means premises which on the transfer day become premises so provided and maintained.
+
+(2) On the transfer day—
+
+(*a*) any land or other property, and any other rights or liabilities, vested in the Minister for Education and Science in relation to the certified industrial school concerned or in its board of management immediately before that day, except any rights or liabilities referred to in paragraph (*b*), is transferred to and vested in the F157[Child and Family Agency] without any conveyance or assignment,
+
+(*b*) any rights or liabilities—
+
+(i) of the Minister for Education and Science in relation to the school or of its board of management, and
+
+(ii) relating to or connected with members of its teaching staff or their teaching functions,
+
+however arising immediately before that day are transferred to and vested without any assignment in the vocational education committee in whose functional area the transferred premises are situated.
+
+(3) Any rights or liabilities transferred under this section may on and after the transfer day be sued on, recovered or enforced by or against the F157[Child and Family Agency] or the vocational education committee concerned in its own name, and it shall not be necessary for the Executive or committee to give notice of the transfer to the person whose rights or liabilities are so transferred.
+
+(4) Subject to *subsection (5)*, where any proceedings to which the certified industrial school concerned or its board of management is a party are pending immediately before the transfer day, the Minister for Education and Science shall be substituted for the school or board as a party to the proceedings on and after that day, and the proceedings shall not abate by reason of the substitution.
+
+(5) Where—
+
+(*a*) the Minister for Education and Science is a party to proceedings pending immediately before the transfer day in relation to a certified industrial school or its board of management, whether by virtue of subsection (4) or otherwise, and
+
+(*b*) the Minister and the F157[Child and Family Agency] or vocational education committee concerned agree that the Executive or committee should be substituted for the Minister as a party to the proceedings,
+
+the Executive or the committee shall notify the other parties to the proceedings accordingly, and the proceedings shall not abate by reason of the substitution.
+
+(6) A person who was an employee of the certified industrial school concerned (other than a member of its teaching staff) immediately before the transfer day shall on that day become an employee of the F157[Child and Family Agency], and the rights and entitlements enjoyed by the person as such employee in respect of his or her terms and conditions of employment, including remuneration, allowances and superannuation, shall not by virtue of the operation of this Act be any less beneficial than the rights and entitlements enjoyed by that person immediately before that day.
+
+(7) The functions, including powers and duties, of the Minister for Health and Children under the Child Care Act 1991, as amended, and the Health Acts 1947 to 2006 in relation to premises provided and maintained under section 38(2) of the Act of 1991 by the F157[Child and Family Agency] for the provision of residential care for children in care apply and have effect in relation to transferred premises.
+
+(8) A child who is found guilty of an offence may not be ordered to be placed or detained in transferred premises.
+
+(9) The Minister for Education and Science shall, before the commencement of *section 159(2)*, direct the transfer of each child convicted of an offence or on remand in respect of an offence from any place which, on such commencement, becomes transferred premises to a certified reformatory or industrial school under Part IV of the Act of 1908 or a children detention school to serve the whole or any part of the unexpired residue of his or her period of detention.
+
+(10) This section is without prejudice to *section 159A*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F156: Inserted (20.02.2007 and 1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 148, commenced in so far as it relates to the insertion of subss. (1) and (9) and otherwise, S.I. No. 65 of 2007.
+>
+> F157: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 14 item 1, S.I. No. 502 of 2013.
+
+### 160. Designation of children detention schools.
+
+**160.**—(1) The Minister may, with the agreement of its owners, provide any place, or any school or premises, for use as a children detention school and by order designate it as such a school.
+
+(2) The Minister may arrange for the construction of any building for use as a children detention school and by order designate it as such a school.
+
+(3) The Minister may direct one of his or her officers—
+
+(*a*) to examine the structure, condition and environs of any place, school, premises or building referred to in *subsections (1)* and *(2)*, and
+
+(*b*) to report to the Minister on its suitability as a children detention school,
+
+and for that purpose the officer so directed may, with the Minister’s approval, employ whatever expert help and advice he or she considers necessary.
+
+(4) No order shall be made by the Minister under this section in relation to any place, school, premises or building unless, having considered a report under *subsection (3),* he or she is satisfied that it is suitable for use as a children detention school.
+
+(5) An order under this section may be revoked by the Minister, including an order under this subsection.
+
+(6) An order under this section shall be laid by the Minister before each House of the Oireachtas.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E30: Power pursuant to section exercised (22.01.2016) by *Children Act 2001 (Section 160 Designation) Order 2016* (S.I. No. 28 of 2016), in effect as per art. 2.
+>
+> E31: Power pursuant to section exercised (18.03.2015 and 29.03.2015) by *Children Act 2001 (Section 160 Designation) Order 2015* (S.I. No. 94 of 2015), art. 2 in effect as per art. 1(2) and art. 3 in effect as per art. 1(3).
+
+### 161. Provision of other places for detention of children.
+
+**161.**—F158[(1) The Minister may enter into arrangements with any person or body for the provision by that person or body on behalf of the Minister of a place (except a prison) where children found guilty of offences can be detained.
+
+(1A) Before entering into any such arrangements, the Minister shall be satisfied that the place provides treatment or other facilities not available in children detention schools.
+
+(1B) The Minister may enter into arrangements under *subsection (1)* with more than one such person or body.
+
+(1C) A child detained in a children detention school may be transferred to a place provided under *subsection (1)* with the agreement of the Minister and the person or body providing the place and, with such agreement, may be transferred back to that school]
+
+(2) The provisions of this Part relating to children detention schools shall, subject to *subsection (3),* apply to a place provided under *subsection (1)*.
+
+(3) Where a place is so provided, provisions as to its management, staffing and operation generally and the terms, conditions and rules under which it operates shall be subject to agreement between the persons managing it and the Minister.
+
+(4) The powers of any court in relation to children detention schools shall apply also to a place provided under this section.
+
+(5) Any such place need not cater exclusively for children found guilty of offences.
+
+(6) The Minister shall cause the President of the High Court, the President of the Circuit Court and the President of the District Court to be notified of any arrangements entered into under *subsection (1)*.
+
+F159[(7) In this section, “place” includes part of a building.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F158: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 149(a), S.I. No. 65 of 2007.
+>
+> F159: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 149(b), S.I. No. 65 of 2007.
+
+### 162. Funding of such places.
+
+**162.**—The Minister shall, on such terms and conditions as he or she thinks fit, make available to the persons managing any place provided for under *section 161* such funds as are necessary for its operation—
+
+(*a*) by a periodic contribution of funds,
+
+(*b*) by a grant, or
+
+(*c*) by a contribution in kind (whether by way of materials or labour or any other service).
+
+### 163. Closure of children detention school or part thereof
+
+F160[**163.** (1) Where the Minister is of opinion that a children detention school or part thereof is no longer suitable for the detention of children, or is no longer required for that purpose, he or she may, by order (in this section referred to as a "closure order")—
+
+(*a*) specify the children detention school or part thereof to which the order relates,
+
+(*b*) direct that the children detention school or part thereof specified under *paragraph (a)* shall cease to be a children detention school or part thereof as the case may be, from the date specified under *paragraph (c)*, and
+
+(*c*) specify the date on which the children detention school or part thereof shall cease to be a children detention school or part thereof, as the case may be.
+
+(2) In forming an opinion for the purposes of *subsection (1)*, the Minister shall have regard to—
+
+(*a*) the number of children detained in the children detention school or part thereof and the maximum number of children that can be accommodated in that children detention school or part thereof,
+
+(*b*) where a remand centre is situated in the children detention school, the number of children remanded to the remand centre and the maximum number of children that can be accommodated in that remand centre,
+
+(*c*) the sex and age of children detained in the children detention school or part thereof and any remand centre situated in that school,
+
+(*d*) the number and classes of staff, including teaching staff, working in the children detention school and any remand centre situated in that school,
+
+(*e*) the educational and training facilities available in the children detention school,
+
+(*f*) any reports or other information submitted to the Minister by the board of management of the children detention school,
+
+(*g*) any reports submitted to the Minister in respect of the children detention school by an authorised person pursuant to *section 186*,
+
+(*h*) any reports submitted to the Minister in respect of the children detention school by an Inspector pursuant to *section 186A*,
+
+(*i*) the best interests of the children who are detained in the children detention school or remanded to a remand centre situated in that children detention school,
+
+(*j*) any reports or other information relating to current and anticipated future demand for places in children detention schools and remand centres,
+
+(*k*) any operational and administrative efficiencies that could be achieved by closing the children detention school concerned or part thereof, and
+
+(*l*) whether, having regard to any of the matters referred to in *paragraphs (a)* to *(k)*, it is in the public interest that the children detention school or part thereof be closed.
+
+(3) Where a board of management of a children detention school informs the Minister that the school is temporarily unsuitable for the detention of children, the Minister may make an order (in this section referred to as a ‘temporary closure order’) declaring that the school shall cease to be such a school from a specified date and for a period specified in the order.
+
+(4) Where the Minister makes a closure order or a temporary closure order, he or she may by the same order direct all or any of the following:
+
+(*a*) that any child on whom a period of detention had been imposed in the relevant children detention school by an order made or warrant issued by a court that was in force immediately before the date of closure but which had not been executed by that date, shall serve the period of detention in such other children detention school as may be specified in the closure order or temporary closure order, as the case may be, for that purpose;
+
+(*b*) that any child who, immediately before the date of closure, was on an approved absence from a relevant children detention school, shall be on an approved absence from such other children detention school as may be specified in the closure order or temporary closure order, as the case may be, for that purpose;
+
+(*c*) that any child remanded to a remand centre situated in a relevant children detention school by an order made or warrant issued by a court that was in force immediately before the date of closure but which had not been executed by that date, shall be remanded to such other remand centre as may be specified in the closure order or temporary closure order, as the case may be, for that purpose.
+
+(5) If a closure order or temporary closure order contains a direction under *paragraph (a)* of *subsection (4)* and another children detention school is specified for that purpose, then, on and after the date of closure—
+
+(*a*) a reference in an order made or warrant issued by a court, that was in force immediately before the date of closure but which had not been executed by that date, to the relevant children detention school shall be construed as a reference to the other children detention school specified in the closure order or temporary closure order, as the case may be, pursuant to that paragraph, and the order made or warrant issued by the court shall have effect accordingly, and
+
+(*b*) the lawfulness of the detention and the period of detention of a child shall not be affected where the child is detained, on foot of an order or warrant referred to in *paragraph (a)*, in the other children detention school specified in the closure order or temporary closure order, as the case may be, pursuant to *paragraph (a)* of *subsection (4)*.
+
+(6) If a closure order or temporary closure order contains a direction under *paragraph (b)* of *subsection (4)* and another children detention school is specified for that purpose, then, on and after the date of closure—
+
+(*a*) a child referred to in that paragraph shall be regarded as being on an approved absence from the other children detention school specified in the closure order or temporary closure order, as the case may be, pursuant to that paragraph, and any order, authorisation or notice given by a Director of the relevant children detention school in respect of the approved absence concerned shall have effect accordingly, and
+
+(*b*) the lawfulness of the detention and the period of detention of a child shall not be affected where the child is, following the expiry of the period of the approved absence concerned, detained in the other children detention school specified in the closure order or temporary closure order, as the case may be, pursuant to that paragraph.
+
+(7) If a closure order or temporary closure order contains a direction under *paragraph (c)* of *subsection (4)* and another remand centre is specified for that purpose, then, on and after the date of closure—
+
+(*a*) a reference in an order made or warrant issued by a court, that was in force immediately before the date of closure but which had not been executed by that date, to the remand centre situated in the relevant children detention school shall be construed as a reference to the other remand centre specified in the closure order or temporary closure order, as the case may be, pursuant to that paragraph, and the order made or warrant issued by the court shall have effect accordingly, and
+
+(*b*) the lawfulness of the remand and the period of remand of a child shall not be affected where the child is remanded, on foot of an order or warrant referred to in *paragraph (a)*, to the other remand centre specified in the closure order or temporary closure order, as the case may be, pursuant to *paragraph (c)* of *subsection (4)*.
+
+(8) Where—
+
+(*a*) a children detention school or a specified part of a children detention school ceases to be a children detention school or part thereof pursuant to a closure order, or
+
+(*b*) a children detention school ceases to be a children detention school pursuant to a temporary closure order,
+
+any children detained in the children detention school may, before the date of closure, be transferred to another children detention school or placed out under supervision in the community in accordance with the provisions of this Part relating to such transfer or supervision in the community.
+
+(9) Where—
+
+(*a*) a children detention school or a specified part of a children detention school ceases to be a children detention school or part thereof pursuant to a closure order, or
+
+(*b*) a children detention school ceases to be a children detention school pursuant to a temporary closure order,
+
+and a remand centre is situated in the children detention school or part thereof, as the case may be, pursuant to *section 88*, any child remanded to the remand centre may, before the date of closure, be transferred to another remand centre in accordance with *section 88A*.
+
+(10) The Minister shall cause a copy of any closure order or temporary closure order made under this section to be sent to the Director and board of management of the relevant children detention school, the Director and board of management of any other children detention school specified in the order, the Director or board of management of any remand centre concerned, the President of the High Court, the President of the Circuit Court and the President of the District Court.
+
+(11) An order under this section shall be laid by the Minister before each House of the Oireachtas as soon as may be after it is made.
+
+(12) In this section—
+
+"date of closure" means the date specified in a closure order under *subsection (1)(c)* or the date specified in a temporary closure order under *subsection (3)*, as the case may be;
+
+"relevant children detention school" means a children detention school to which a closure order or temporary closure order, as the case may be, relates or, where relevant, a part of a children detention school to which a closure order relates.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F160: Substituted (1.12.2015) by *Children (Amendment) Act 2015* (30/2015), s. 13, S.I. No. 539 of 2015.
+>
+> **Editorial Notes:**
+>
+> E32: Power pursuant to section exercised (31.03.2010) by *Finglas Child and Adolescent Centre (Children Detention School) (Section 163(1)) Order 2010* (S.I. No. 46 of 2010).
+
+### 163A. Amalgamation of children detention schools
+
+F161[**163A.** (1) The Minister may by order (in this section referred to as an "amalgamation order") provide for the amalgamation of 2 or more children detention schools as and from such date as shall be specified in the order (in this section referred to as the "amalgamation date") and an amalgamated school shall be a children detention school for the purposes of this Act on and after the amalgamation date.
+
+(2) When making an amalgamation order, the Minister shall have regard to—
+
+(*a*) the number of children detained in each children detention school concerned and the maximum number of children that can be accommodated in each children detention school,
+
+(*b*) where a remand centre is situated in a children detention school concerned, the number of children remanded to the remand centre and the maximum number of children that can be accommodated in that remand centre,
+
+(*c*) the sex and age of children detained in or remanded to each children detention school concerned and any remand centre situated in any such school,
+
+(*d*) the number and classes of staff, including teaching staff, working in each of the children detention schools concerned and any remand centres situated in such schools,
+
+(*e*) the educational and training facilities available in each children detention school concerned,
+
+(*f*) any reports or other information submitted to the Minister by the board of management of one or more of the children detention schools concerned,
+
+(*g*) any reports submitted to the Minister in respect of one or more of the children detention schools concerned by an authorised person pursuant to *section 186*,
+
+(*h*) any reports submitted to the Minister in respect of one or more of the children detention schools concerned by an Inspector pursuant to *section 186A*,
+
+(*i*) the best interests of the children who are detained in the children detention schools concerned or remanded to any remand centre situated in a children detention school concerned,
+
+(*j*) any reports or other information relating to current and anticipated future demand for places in children detention schools and remand centres,
+
+(*k*) any operational and administrative efficiencies that could be achieved by amalgamating the children detention schools concerned, and
+
+(*l*) whether, having regard to any of the matters referred to in *paragraphs (a)* to *(k)*, it is in the public interest that the children detention schools concerned be amalgamated.
+
+(3) Where, before the amalgamation date, a child is detained in a relevant children detention school on foot of a children detention order, the lawfulness of the detention, and the period of detention, of the child on and after the amalgamation date in the amalgamated school shall not be affected by the amalgamation order.
+
+(4) If, before the amalgamation date, a remand centre is situated in a relevant children detention school, the Minister shall, by order under *section 88* which shall take effect on the amalgamation date, designate a remand centre to be situated in the amalgamated school.
+
+(5) Where, before the amalgamation date, a child is remanded to a remand centre situated in a relevant children detention school, the lawfulness of the remand, and the period of remand, of the child on and after the amalgamation date in a remand centre situated in the amalgamated school shall not be affected by the amalgamation order.
+
+(6) Where the Minister makes an amalgamation order, he or she may by the same order direct all or any of the following:
+
+(*a*) that any child on whom a period of detention had been imposed in a relevant children detention school by an order made or warrant issued by a court that was in force immediately before the amalgamation date but which had not been executed by that date, shall serve the period of detention in the amalgamated school;
+
+(*b*) that any child who, immediately before the amalgamation date, was on an approved absence from a relevant children detention school, shall be on an approved absence from the amalgamated school;
+
+(*c*) that any child remanded to a remand centre situated in a relevant children detention school by an order made or warrant issued by a court that was in force immediately before the amalgamation date but which had not been executed by that date, shall be remanded to a remand centre situated in the amalgamated school.
+
+(7) If an amalgamation order contains a direction under *paragraph (a)* of *subsection (6)* then, on and after the amalgamation date—
+
+(*a*) a reference in an order made or warrant issued by a court, that was in force immediately before the amalgamation date but which had not been executed by that date, to a relevant children detention school shall be construed as a reference to the amalgamated school, and the order made or warrant issued by the court shall have effect accordingly, and
+
+(*b*) the lawfulness of the detention and the period of detention of a child shall not be affected where the child is detained, on foot of an order or warrant referred to in *paragraph (a)*, in the amalgamated school pursuant to *paragraph (a)* of *subsection (6)*.
+
+(8) If an amalgamation order contains a direction under *paragraph (b)* of *subsection (6)*, then, on and after the amalgamation date—
+
+(*a*) a child referred to in that paragraph shall be regarded as being on an approved absence from the amalgamated school concerned, and any order, authorisation or notice given by a Director of the relevant children detention school in respect of the approved absence concerned shall have effect accordingly, and
+
+(*b*) the lawfulness of the detention and the period of detention of a child shall not be affected where the child is, following the expiry of the period of the approved absence concerned, detained in the amalgamated school concerned.
+
+(9) If an amalgamation order contains a direction under *paragraph (c)* of *subsection (6)* then, on and after the amalgamation date—
+
+(*a*) a reference in an order made or warrant issued by a court, that was in force immediately before the amalgamation date but which had not been executed by that date, to a remand centre situated in a relevant children detention school shall be construed as a reference to the remand centre situated in the amalgamated school, and the order made or warrant issued by the court shall have effect accordingly, and
+
+(*b*) the lawfulness of the remand and the period of remand of a child shall not be affected where the child is remanded, on foot of an order or warrant referred to in *paragraph (a)*, to the remand centre situated in the amalgamated school.
+
+(10) The board of management or boards of management, as the case may be, of the children detention schools which are the subject of an amalgamation order shall cease to exist on the amalgamation date.
+
+(11) The Minister shall appoint a board of management to the amalgamated school in accordance with this Part and such appointment shall take effect on the amalgamation date.
+
+(12) A person who, before the amalgamation date, is a Director or other member of the staff of a relevant children detention school shall, on the amalgamation date, transfer to and become a member of the staff of the amalgamated school and shall be deemed to have been appointed by the board of management of the amalgamated school pursuant to *section 180* or *section 181*, as the case may be.
+
+(13) A reference in any contract of employment of a Director or other member of staff referred to in *subsection (12)* to—
+
+(*a*) the board of management of a children detention school, or
+
+(*b*) a children detention school,
+
+which is the subject of an amalgamation order shall, on the amalgamation date, be construed as a reference to the board of management of the amalgamated school.
+
+(14) Save in accordance with any enactment or a collective agreement negotiated with any recognised trade union or staff association, a person who becomes a member of staff of an amalgamated school pursuant to *subsection (12)* shall not, on the amalgamation date, be subject to less beneficial terms and conditions of service (including those relating to tenure of office) or remuneration than the terms and conditions of service (including those relating to tenure of office) or remuneration to which he or she was subject immediately before the amalgamation date.
+
+(15) Where a person becomes a member of staff of an amalgamated school pursuant to *subsection (12)*, previous service with a relevant children detention school shall be reckonable for the purposes of, but subject to any exceptions or exclusions in, the Redundancy Payments Acts 1967 to 2014, the Protection of Employees (Part-Time Work) Act 2001, the Organisation of Working Time Act 1997, the Minimum Notice and Terms of Employment Acts 1973 to 2005, the Unfair Dismissals Acts 1977 to 2007, the Protection of Employees (Fixed-Term Work) Act 2003, the Parental Leave Acts 1998 and 2006, the Carer’s Leave Act 2001, the Terms of Employment (Information) Acts 1994 to 2012, the Maternity Protection Acts 1994 and 2004 and the Adoptive Leave Acts 1995 and 2005.
+
+(16) The Minister shall cause a copy of any order made under this section to be sent to the boards of management of the children detention schools concerned, the President of the High Court, the President of the Circuit Court and the President of the District Court.
+
+(17) An order under this section shall be laid by the Minister before each House of the Oireachtas as soon as may be after it is made.
+
+(18) In this section—
+
+"contract of employment" means a contract of service whether express or implied and, if express, whether oral or in writing, but shall not include a contract whereby an individual agrees with another person who is carrying on the business of an employment agency within the meaning of the Employment Agency Act 1971 and is acting in the course of that business, to do or perform personally any work or service for a third person (whether or not the third person is a party to the contract);
+
+"relevant children detention school" in relation to an amalgamation order, means a children detention school to which the amalgamation order relates.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F161: Inserted (1.12.2015) by *Children (Amendment) Act 2015* (30/2015), s. 14, S.I. No. 539 of 2015.
+>
+> **Editorial Notes:**
+>
+> E33: Power pursuant to section exercised (1.06.2016) by *Children Act 2001 (Amalgamation of Children Detention Schools) Order 2016* (S.I. No. 273 of 2016), in effect as per art. 2.
+
+*Boards of Management*
+
+### 164. Boards of management.
+
+**164.**—(1) The Minister shall appoint a board of management to each children detention school or to more than one such school.
+
+(2) The boards of management of certified reformatory schools and industrial schools which became children detention schools at the commencement of *section 159* shall cease to exist on the appointment of boards of management to those schools under this section.
+
+### 165. Functions of boards of management.
+
+**165.**—(1) A board of management shall manage the children detention school or schools to which it has been appointed in accordance with criteria laid down from time to time by the Minister and, without prejudice to the generality of the foregoing, shall—
+
+(*a*) carry out any such policy in relation to children on remand or in detention as may be specified by the Minister,
+
+(*b*) cooperate and liaise with other bodies who are interested or engaged in assisting children who have been charged with offences or are at F162[risk, and]
+
+(*c*) F163[...]
+
+(*d*) perform the other functions assigned to it under this Part.
+
+(2) Boards of management shall have all such powers as are necessary or expedient for the exercise of their functions.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F162: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 150(a), S.I. No. 65 of 2007.
+>
+> F163: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 150(b), S.I. No. 65 of 2007.
+
+### 166. Additional functions.
+
+**166.**—(1) The Minister may by order assign such additional functions to one or more than one of the boards of management as the Minister considers to be incidental to or consequential on the functions assigned to them under other provisions of this Part.
+
+(2) An order under this section may be amended or revoked by the Minister, including an order under this subsection.
+
+### 167. Membership, etc., of boards of management.
+
+**167.**—(1) Each board of management shall consist of a chairperson and 12 other members.
+
+(2) (*a*) The Minister shall from time to time as occasion requires appoint a member of a board of management to be its chairperson.
+
+(*b*) Where the chairperson ceases during his or her term of office to be a member of the board, he or she shall thereupon also cease to be its chairperson.
+
+(*c*) The chairperson shall, unless he or she sooner dies, resigns, becomes disqualified or is removed from office, hold office as such chairperson until his or her term of office as a member of the board expires but, if reappointed as such a member, he or she shall be eligible for reappointment as chairperson.
+
+(3) In appointing persons to be members of a board of management, the Minister shall have regard to the desirability of their having knowledge or experience of matters that come within the competence of such a board in the performance of its functions.
+
+(4) Of the members of each board of management at least—
+
+(*a*) one shall be an officer of the Minister,
+
+(*b*) one shall be F164[an employee of the F165[Child and Family Agency]] nominated by the Minister for Health and Children,
+
+(*c*) one shall be an officer of the F166[Minister for Education and Science] nominated by that Minister,
+
+(*d*) two shall be members of the staff of the children detention school or schools under the board’s management, and
+
+(*e*) two shall be representative of persons living in the area of one or more than one of such schools.
+
+(5) Members of a board of management shall be appointed for a term not exceeding 4 years and shall be eligible for reappointment.
+
+(6) Members of a board of management shall act on a part-time basis.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F164: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 11 item 16, S.I. No. 887 of 2004.
+>
+> F165: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 14 item 1, S.I. No. 502 of 2013.
+>
+> F166: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 22, S.I. No. 65 of 2007.
+
+### 168. Removal and resignation of members.
+
+**168.**—(1) The Minister may remove from office a member of a board of management who, in the opinion of the Minister, has become incapable through ill-health of effectively performing his or her functions or has committed stated misbehaviour or whose removal appears to the Minister to be necessary for the effective performance by the board of its functions.
+
+(2) A member of a board of management may at any time resign by letter addressed to the Minister, and the resignation shall take effect as and from the date on which the Minister receives the letter.
+
+### 169. Casual vacancies.
+
+**169.**—(1) If a member of a board of management dies, resigns, becomes disqualified or is removed from office, the Minister may appoint a person to be a member in his or her stead.
+
+(2) A person so appointed shall hold office for the remainder of the term of office of the member whom he or she replaces and be eligible for reappointment.
+
+### 170. Temporary substitutes.
+
+**170.**—Whenever it appears to the Minister that any member of a board of management is, on account of illness or for other sufficient reason, temporarily unable to act, the Minister may appoint another person to act for that member for such period as the Minister thinks proper.
+
+### 171. Remuneration of members.
+
+**171.**—The chairperson and any other member of a board of management shall be paid, out of funds at the disposal of the board, such remuneration (if any) and such allowances for expenses as the Minister, with the approval of the Minister for Finance, may from time to time determine.
+
+### 172. Funding of Board.
+
+**172.**—For the purposes of expenditure by a board of management in the performance of its functions, the Minister may in each financial year, with the consent of the Minister for Finance, advance to the board out of moneys provided by the Oireachtas such sum or sums as the Minister, after consultation with the board, may determine.
+
+### 173. Accounts and audits.
+
+**173.**—(1) Each board of management shall—
+
+(*a*) keep in such form and in respect of such accounting periods as may be approved of by the Minister, with the consent of the Minister for Finance, all proper and usual accounts (including an income and expenditure account and balance sheet) of the resources of the board and of all moneys received or expended by it,
+
+(*b*) keep such special accounts as the Minister may from time to time direct, and
+
+(*c*) where a board has been appointed to manage more than one children detention school, ensure that separate accounts are kept and presented to the board by each such school.
+
+(2) (*a*) Accounts kept in pursuance of this section shall be submitted by each board of management to the Comptroller and Auditor General not later than 3 months after the end of each accounting year.
+
+(*b*) A copy of the income and expenditure account and of the balance sheet and of such other (if any) of its accounts as the Minister may direct, together with a copy of the report of the Comptroller and Auditor General on the accounts, shall be presented by each board to the Minister as soon as may be.
+
+(*c*) The Minister shall cause copies of each of the documents aforesaid to be laid before each House of the Oireachtas.
+
+### 174. Annual report and information.
+
+**174.**—(1) Each board of management shall submit to the Minister an annual report which shall include information on the performance of its functions during the year to which it relates, information relating to the children detention school or schools under its management and such other information in such form as each board considers appropriate or as the Minister may direct.
+
+(2) A report under *subsection (1)* shall be submitted to the Minister not later than 6 months after the end of the year to which it relates.
+
+(3) Each board of management shall, at the request of the Minister, supply the Minister with such information relating to the performance of its functions as the Minister may from time to time specify.
+
+(4) A copy of each report under *subsection (1)* shall be laid by the Minister before each House of the Oireachtas.
+
+### 174A. Final accounts and report
+
+F167[**174A.** (1) Where a children detention school ceases to be a children detention school pursuant to *section 163(1)*, the Minister shall cause to be prepared final accounts for the accounting period or part thereof ending immediately before the date on which the children detention school ceases to be such a children detention school.
+
+(2) Where a children detention school is amalgamated with another children detention school pursuant to *section 163A*, the board of management of the amalgamated school shall cause to be prepared final accounts for the accounting period or part thereof ending immediately before the amalgamation date in respect of the children detention schools concerned.
+
+(3) Accounts prepared pursuant to *subsection (1)* shall, not later than 3 months from the date on which the children detention school ceases to be such a school, be submitted by the Minister to the Comptroller and Auditor General for audit, and immediately after the audit, a copy of the accounts as audited and a copy of the Comptroller and Auditor General’s report on the accounts so audited shall be presented to the Minister.
+
+(4) Accounts prepared pursuant to *subsection (2)* shall, not later than 3 months from the amalgamation date, be submitted by the board of management of the amalgamated school to the Comptroller and Auditor General for audit, and immediately after the audit, a copy of the accounts as audited and a copy of the Comptroller and Auditor General’s report on the accounts so audited shall be presented to the Minister.
+
+(5) The Minister shall cause copies of any accounts and reports presented to him or her pursuant to *subsections (3)* and *(4)* to be laid before each House of the Oireachtas as soon as may be after his or her receipt of them.
+
+(6) Where a children detention school ceases to be a children detention school pursuant to *section 163(1)*, the Minister shall, not later than 6 months from the date on which the children detention school ceases to be such a school, cause to be prepared a final report on the performance by the board of management of the children detention school concerned of its functions during such period as has not already been the subject of a report to the Minister.
+
+(7) Where a children detention school is amalgamated with another children detention school pursuant to *section 163A*, the board of management of the amalgamated school shall, not later than 6 months from the amalgamation date, prepare and submit to the Minister a final report relating to the performance by the board of management or boards of management, as the case may be, of the children detention schools concerned of their functions during such period as has not already been the subject of a report to the Minister.
+
+(8) The Minister shall cause a copy of any report caused to be prepared by him or her pursuant to *subsection (6)* or submitted to him or her pursuant to *subsection (7)* to be laid before each House of the Oireachtas as soon as may be after his or her receipt of that report.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F167: Inserted (1.12.2015) by *Children (Amendment) Act 2015* (30/2015), s. 15, S.I. No. 539 of 2015.
+
+### 175. Meetings and procedure.
+
+**175.**—(1) Each board of management shall hold such and so many meetings as may be necessary for the performance of its functions.
+
+(2) (*a*) The chairperson of a board of management shall, if present, chair meetings of the board.
+
+(*b*) If and so long as the chairperson is not present or if the office of chairperson is vacant, the members who are present at a meeting of the board shall choose one of their number to chair the meeting concerned.
+
+(*c*) The chairperson and each other member present shall have a vote.
+
+(*d*) Every question shall be determined by a majority of the votes of the members present and voting on the question.
+
+(*e*) In the case of an equal division of votes, the chairperson or, in his or her absence, the member chosen to chair the meeting shall have a second or casting vote.
+
+(*f*) The quorum for a meeting shall be 6 or such greater number as the board may from time to time determine.
+
+(3) A board of management may act notwithstanding one or more than one vacancy among its members and, subject to the provisions of this Part, shall determine its own procedure.
+
+### 176. Directions by Minister.
+
+**176.**—(1) The Minister may give directions to a board of management of a children detention school or the persons managing a place provided under *section 161* in relation to their management of the school or place, and the board or persons shall comply with any such directions.
+
+(2) Directions under *subsection (1)* shall not apply to any individual child detained in any such school or place.
+
+### 177. Membership of either House of Oireachtas or of European Parliament.
+
+**177.**—(1) Where a person who is a member of a board of management is—
+
+(*a*) nominated as a member of Seanad Éireann, or
+
+(*b*) elected as a member of either House of the Oireachtas or to the European Parliament, or
+
+(*c*) regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act, 1997, as having been elected to the European Parliament to fill a vacancy,
+
+the person shall thereupon cease to be a member of the board.
+
+(2) Where a person employed by a board of management is—
+
+(*a*) nominated as a member of Seanad Éireann, or
+
+(*b*) elected as a member of either House of the Oireachtas or to the European Parliament, or
+
+(*c*) regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act, 1997, as having been elected to the European Parliament to fill a vacancy,
+
+the person shall thereupon stand seconded from employment by the board and shall not be paid by, or be entitled to receive from, it any remuneration or allowance in respect of the period commencing on such nomination or election or when that person is so regarded as having been elected (as the case may be) and ending when that person ceases to be a member of either such House or such Parliament.
+
+(3) A person who is for the time being entitled under the Standing Orders of either House of the Oireachtas to sit therein or who is a member of the European Parliament shall, while that person is so entitled or is such a member, be disqualified from becoming a member of a board of management or from employment in any capacity by it.
+
+(4) Without prejudice to the generality of *subsection (2)*, that subsection shall be construed as prohibiting, among other things, the reckoning of a period mentioned in that subsection as service with a board of management for the purposes of any superannuation benefits.
+
+### 178. Non-disclosure of information.
+
+**178.**—(1) Subject to *subsection (2)*, a member of a board of management shall not disclose to any person who is not such a member any information relating to any person which the member has acquired as such member without that person’s consent.
+
+(2) *Subsection (1)* shall not apply in relation to any such disclosure of information to the Minister or his or her officers or to the Comptroller and Auditor General.
+
+### 179. Rules by boards of management.
+
+**179.**—(1) The board of management of a children detention school or schools may at any time F168[with the consent of the Minister], and shall whenever so required by the Minister, make rules—
+
+(*a*) for the management of the school or schools under its management and the maintenance of discipline and good order generally therein, and
+
+(*b*) without prejudice to the generality of the foregoing, setting out the procedures and conditions applicable to—
+
+(i) the grant of mobility trips under *section 204*,
+
+(ii) the grant of temporary leave under *section 205*, and
+
+(iii) placing out under supervision in the community pursuant to *section 207*.
+
+(2) The rules shall be consistent with this Part and any regulations made under it by the Minister or any criteria so laid down or general directions so given by him or her for the management of the school or schools concerned.
+
+(3) A notice containing an abridged version of the rules shall be displayed in a conspicuous place in each children detention school, and a child on admission to such a school shall be given a document which contains information relating to the rules and the daily routine in the school and is written in language appropriate to the age of the children catered for in the school.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F168: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 23, S.I. No. 65 of 2007.
+>
+> F169: Deleted by *Children (Amendment) Act 2015* (30/2015), s. 16, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C18: Prospective affecting provision: subs. (1)(a) amended by *Children (Amendment) Act 2015* (30/2015), s. 16, not commenced as of date of revision.
+>
+> (*a*) for the management of the school or schools under its management and the maintenance of F169[...] good order generally therein, and
+
+*Director and staff of schools*
+
+### 180. The Director.
+
+**180.**—(1) A board of management shall, from time to time as occasion requires, appoint a person to be responsible for the immediate control and supervision of a children detention school, or more than one such school under its management, and each person so appointed shall be known as the Director of the school or schools concerned.
+
+(2) The appointment of a Director shall be on such terms and conditions as may be determined by the board of management concerned with the consent of the Minister and the Minister for Finance.
+
+(3) A board of management shall, within 10 days after appointing a Director, notify the Minister of the Director’s name.
+
+(4) A Director shall not be a member of the board that appointed him or her.
+
+(5) A Director shall perform such functions as may be assigned to him or her by the board of management concerned.
+
+(6) Such functions of a Director as may be specified by him or her from time to time may, with the consent of the board, be performed by such member of the staff of the children detention school concerned as may be authorised in that behalf by the Director.
+
+(7) The functions of a Director may be performed, during his or her absence or when the post of Director is vacant, by such member of the staff of the children detention school concerned as may from time to time be designated for that purpose by its board of management.
+
+(8) Where a child is detained in a children detention school, the Director of the school shall—
+
+(*a*) have the like control over the child as if he or she were the child’s parent or guardian, and
+
+(*b*) do what is reasonable (subject to the provisions of this Part) in all the circumstances of the case for the purpose of safeguarding or promoting the child’s education, health, development or welfare.
+
+### 181. Staff of children detention schools.
+
+**181.**—(1) A board of management shall appoint such and so many persons to be members of the staff of the children detention school or schools under its management as the board, with the consent of the Minister and the Minister for Finance, from time to time thinks proper.
+
+(2) A member of the staff of a children detention school shall be employed on such terms and conditions (including terms and conditions relating to remuneration and superannuation) as the board of management of the school, with the consent of the Minister and the Minister for Finance, may from time to time determine.
+
+(3) (*a*) The class or classes of staff of a children detention school, and the number of staff in each class, and
+
+(*b*) the grades in each such class, and the number of staff in each such grade,
+
+shall be determined by the board of management of the school with the consent of the Minister and the Minister for Finance.
+
+### 182. Transfer of staff.
+
+**182.**—Every person who, immediately before the commencement of *section 159*, was a Director or member of the staff of a certified reformatory school or industrial school which becomes a children detention school on such commencement shall thereupon become and be a member of the staff of that school.
+
+### 183. Terms and conditions of transferred staff.
+
+**183.**—(1) A person who is transferred under the provisions of this Act to a board of management shall not, while in the service of the board, save in accordance with a collective agreement negotiated with any recognised trade union or staff association, receive a lesser scale of pay or be made subject to less beneficial terms and conditions of service than the scale of pay to which that person was entitled and the terms and conditions of service to which he or she was subject immediately before the day on which he or she was so transferred.
+
+(2) Until such time as the scale of pay and the terms and conditions of service of a person transferred under the provisions of this Act to a board of management are varied by the board, with the agreement of the Minister and the Minister for Finance, following consultation with any recognised trade unions or staff associations concerned, the scale of pay to which he or she was entitled and the terms and conditions of service, restrictions, requirements and obligations to which he or she was subject immediately before his or her transfer shall continue to apply to him or her and may be applied or imposed by the board while he or she is a member of its staff, and no such variation shall operate to worsen the scale of pay or the terms or conditions of service aforesaid applicable to such person immediately before the day on which he or she was so transferred, save in accordance with a collective agreement negotiated with any recognised trade union or staff association.
+
+(3) In this section “recognised trade union or staff association” means a trade union or staff association recognised by the board of management concerned for the purposes of negotiations which are concerned with the remuneration, conditions of employment or working conditions of employees.
+
+### 184. Superannuation
+
+F170[**184.** (1) Subject to *subsection (2)*, as soon as may be after its appointment, a board of management shall prepare and submit to the Minister a scheme or schemes for the granting of superannuation benefits to or in respect of such of the staff (including the Director) of the children detention school or schools under its management as it thinks fit.
+
+(2) A scheme prepared and submitted under this section shall not provide for the granting of superannuation benefits to or in respect of any person referred to in *subsection (1)* where the Single Public Service Pension Scheme applies to that person by virtue of Chapter 2 of Part 2 of the Act of 2012.
+
+(3) Every scheme prepared and submitted under this section shall fix the time and conditions of retirement for all persons to whom, or in respect of whom, superannuation benefits are payable under the scheme, and different times and conditions may be fixed in respect of different classes of persons.
+
+(4) A board of management may at any time prepare and submit to the Minister a scheme amending or revoking a scheme previously submitted and approved under this section.
+
+(5) A scheme or amending scheme submitted to the Minister under this section shall, if approved by the Minister with the consent of the Minister for Public Expenditure and Reform, be carried out by the board of management in accordance with its terms.
+
+(6) (*a*) If any dispute arises as to the claim of any person to, or the amount of, any superannuation benefit pursuant to a scheme under this section, such dispute shall be submitted to such person as may be specified in the scheme and shall be determined in such manner as may be specified in that scheme.
+
+(*b*) A scheme under this section shall make provision for an appeal of a determination referred to in *paragraph (a)* to such other person as may be specified in the scheme.
+
+(7) A superannuation benefit shall not be granted by the board of management to or in respect of any persons who are members of a scheme under this section and no other arrangement shall be entered into for the provision of any superannuation benefit to such persons on their ceasing to be staff of a children detention school (including a Director), other than in accordance with such scheme or schemes submitted and approved under this section or an arrangement approved by the Minister and the Minister for Public Expenditure and Reform.
+
+(8) (*a*) Subject to *subsection (11)*, and save in accordance with a collective agreement negotiated with a recognised trade union or staff association and approved by the Minister with the consent of the Minister for Public Expenditure and Reform, a scheme under this section shall, as respects a person referred to in *subsection (1)*, provide for the granting to or in respect of him or her of superannuation benefits upon and subject to such terms and conditions as are not less favourable to him or her than the terms and conditions in relation to the grant of such benefits that applied to him or her immediately before the commencement of this section.
+
+(*b*) Any period of service by a person as a member of staff (including a Director) of a children detention school which was a period of reckonable service for the purposes of a scheme for the granting of superannuation benefits to or in respect of members of staff of the children detention school prior to the commencement of this section shall be regarded as a period of reckonable service for the purposes of any scheme under this section.
+
+(9) Subject to *subsection (11)*, where, in the period beginning on the commencement of this section and ending immediately before the commencement of a scheme under this section, a superannuation benefit falls due for payment to or in respect of a person who is a member of staff of a children detention school (including a Director) to whom the Single Public Service Pension Scheme does not apply by virtue of Chapter 2 of Part 2 of the Act of 2012, the benefit shall be calculated and paid by the board of management in accordance with such schemes, arrangements or enactments in relation to superannuation, as applied to the person immediately before the commencement of this section and, for that purpose, his or her pensionable service with the children detention school shall be aggregated with his or her previous pensionable service.
+
+(10) Subject to *subsection (11)*, every scheme or arrangement in relation to superannuation that relates to any member of staff (including the Director) of a children detention school and that is in force immediately prior to the commencement of this section shall—
+
+(*a*) on and after the commencement of this section, and
+
+(*b*) only in so far as the scheme or arrangement concerned relates to former members of staff (other than those to whom subsection (1) or (2) refers) of the children detention school concerned, including former Directors and those who are deceased,
+
+continue in force.
+
+(11) *Paragraph (a)* of *subsection (8)* and *subsections (9)* and *(10)* shall not apply in relation to a provision of a scheme or an arrangement in relation to superannuation in respect of which the consent or approval of the Minister for Finance, the Minister for Public Expenditure and Reform or any other Minister of the Government was required but not obtained.
+
+(12) The Minister shall cause every scheme submitted and approved under this section to be laid before each House of the Oireachtas as soon as may be after it is approved, and if either such House, within the next 21 days on which that House sits after the scheme is laid before it, passes a resolution annulling the scheme, the scheme shall be annulled accordingly, but without prejudice to anything previously done thereunder.
+
+(13) In this section "Act of 2012" means the Public Service Pensions (Single Scheme and Other Provisions) Act 2012.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F170: Substituted (1.12.2015) by *Children (Amendment) Act 2015* (30/2015), s. 17, S.I. No. 539 of 2015.
+>
+> **Editorial Notes:**
+>
+> E34: Any defined benefit scheme established under section is excluded from *Pensions Act 1990* (25/1990), Part IV by *Occupational Pension Schemes (Funding Standard) Regulations 1993* (S.I. No. 419 of 1993) reg. 6 and sch. C, sch. C as substituted (18.04.2013) by *Occupational Pension Schemes (Funding Standard) (Amendment) Regulations 2013* (S.I. No. 135 of 2013), reg. 2 and further substituted (12.02.2019) by *Occupational Pension Schemes (Funding Standard) (Amendment) Regulations 2019* (S.I. No. 39 of 2019), reg. 2.
+>
+> E35: Any defined benefit scheme established under section is excluded from *Pensions Act 1990* (25/1990), Part III by *Occupational Pension Schemes (Preservation of Benefits) Regulations 2002* (S.I. No. 279 of 2002), reg. 11 and schedule as substituted (26.02.2009) by *Occupational Pension Schemes (Preservation of Benefits) (Amendment) Regulations 2009* (S.I. No. 70 of 2009), reg. 2.
+>
+> E36: Previous affecting provision: any defined benefit scheme established under section is excluded from *Pensions Act 1990* (25/1990), Part IV by *Occupational Pension Schemes (Funding Standard) Regulations 1993* (S.I. No. 419 of 1993) reg. 6 and sch. C, sch. C as substituted (1.08.2008) by *Occupational Pension Schemes (Funding Standard)(Amendment) Regulations 2008* (S.I. No. 295 of 2008), reg. 4.
+
+*Inspection of schools*
+
+### 185. Inspection of children detention schools.
+
+F171[**185.**—(1) The Minister shall cause each children detention school to be inspected.
+
+(2) An inspection shall be conducted by a person authorised in that behalf by the Minister.
+
+(3) The person so authorised shall have expertise and experience in relation to the inspection of children’s residential accommodation.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F171: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 151, S.I. No. 65 of 2007.
+>
+> **Editorial Notes:**
+>
+> E37: The Chief Inspector of Social Services is prescribed as an authorised person for the purposes of section by *Health Act 2007* (23/2007), s. 41(1)(e), not commenced as of date of revision, subject to written agreement between the Minister and the Minister for Justice, Equality and Law Reform.
+
+### 186. Functions of authorised person.
+
+F172[**186.**—(1) A person authorised under *section 185* shall carry out inspections at least once every 12 months of each children detention school.
+
+(2) Without prejudice to the generality of *subsection (1)*, an authorised person shall, in carrying out an inspection of any such school, pay particular attention to—
+
+(*a*) the conditions in which the children are detained and the facilities available to them,
+
+(*b*) their health, safety and well-being,
+
+(*c*) policies and practice concerning the preservation and development of relationships between them and their families,
+
+(*d*) policies and practice concerning their discipline, care and protection, and
+
+(*e*) policies and practice in relation to the normal routine of the school.
+
+(3) The authorised person may hear complaints by children who at any time were or who are detained in a children detention school, and for that and any other purpose—
+
+(*a*) may interview them and any member of the staff in the school concerned, and
+
+(*b*) shall have access to records, whether in legible or non-legible form, relating to the administration of the school and the children detained therein.
+
+(4) Any interviews with children shall be with their consent and may, if they agree, take place in private.
+
+(5) The authorised person—
+
+(*a*) shall not be an employee of any children detention school which the person inspects, and
+
+(*b*) shall be independent in the exercise of his or her functions in carrying out inspections.
+
+(6) The authorised person shall submit a report to the Minister in relation to any inspection carried out under this section and publish the report at the same time as it is so submitted.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F172: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 152, S.I. No. 65 of 2007.
+
+### 186A. Investigation of matters arising in relation to children detention schools, etc.
+
+F173[**186A.**—(1) Where—
+
+(*a*) matters of concern in relation to a children detention school or place provided under *section 161* are raised in a report of a person authorised under *section 186* or otherwise, and
+
+(*b*) the Minister is satisfied that it would be desirable to investigate those matters,
+
+the Minister shall appoint a person (in this section referred to as an “Inspector”) to investigate and report to him or her thereon.
+
+(2) The Inspector shall carry out an investigation into the matters referred to in *subsection (1)* and such other matters relevant to them as he or she considers necessary for the purposes of the investigation.
+
+(3) For those purposes, the Inspector may—
+
+(*a*) enter any children detention school or place provided under *section 161*,
+
+(*b*) examine the records, whether in legible or non-legible form, of the school or place, and
+
+(*c*) interview members of the staff of the school, including the Director, and members of its board of management or, as the case may be, members of the staff and managers of the place.
+
+(4) The Inspector—
+
+(*a*) shall not be an employee of any children detention school which he or she inspects,
+
+(*b*) shall be independent in the exercise of his or her functions in carrying out inspections, and may interview any child who at any time was or who is detained in a children detention school.
+
+(5) Any such interview shall be with the consent of the child concerned and may, if the child agrees, take place in private.
+
+(6) The Inspector shall submit a report to the Minister in relation to the investigation.
+
+(7) Each such report shall, where appropriate, contain recommendations which in the Inspector’s opinion require to be implemented.
+
+(8) A copy of each such report shall be laid by the Minister before each House of the Oireachtas.
+
+(9) Before laying a report before each House of the Oireachtas pursuant to *subsection (3)*, the Minister may omit material from it where the omission is necessary to avoid the identification of any person.
+
+(10) An appointment of an Inspector shall be for a specified investigation, but the Minister may appoint the same person to carry out a further investigation or investigations as the Minister considers appropriate.
+
+(11) The appointment of an Inspector shall be on such terms and conditions as may be determined by the Minister with, in the case of any terms and conditions relating to remuneration, the consent of the Minister for Finance.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F173: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 153, S.I. No. 65 of 2007.
+
+### 187. Powers of Inspector.
+
+**187.**—
+
+F174[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F174: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 24, S.I. No. 65 of 2007.
+
+### 188. Reports of inspections and investigations.
+
+**188.**—
+
+F175[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F175: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 25, S.I. No. 65 of 2007.
+
+### 189. Annual report of Inspector.
+
+**189.**—
+
+F176[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F176: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 26, S.I. No. 65 of 2007.
+
+### 190. Visiting panel.
+
+**190.**—(1) A visiting panel for children detention schools shall be established as soon as may be after the commencement of this section and shall consist of such number of persons, not being more than 8 or less than 6, as the Minister shall think proper.
+
+(2) The members of the visiting panel shall be appointed by the Minister, and every member so appointed shall hold office as such member for such period not exceeding 3 years as the Minister shall think proper and specifies when appointing the member.
+
+(3) In appointing members of the visiting panel, the Minister shall ensure that persons with knowledge or experience of matters relating to the welfare of children including their cultural and linguistic needs are adequately represented on it.
+
+(4) The Minister may establish at any future time or times one or more than one additional visiting panel should the geographical situation of any of the schools justify such a course.
+
+(5) The Minister may make rules setting out the duties and powers of visiting panels and the manner in which they shall perform the duties and exercise the powers imposed or conferred on them by this Part or by the rules.
+
+### 191. Duties and powers of visiting panels.
+
+**191.**—(1) A visiting panel appointed under *section 190* shall observe such of the rules made by the Minister under that section as apply to it, and, subject to those rules, it shall be the duty of a visiting panel—
+
+(*a*) to visit each children detention school from time to time and at frequent intervals and there to hear any complaint which may be made to it by any child residing in the school and, if so requested by the child, to hear any such complaint in private,
+
+(*b*) to report to the Minister any abuses or irregularities observed or found by it in any school,
+
+(*c*) to report to the Minister in relation to any repairs or structural alterations to any school which may appear to it to be needed, and
+
+(*d*) to report to the Minister in relation to any other matter relating to any school either as instructed by the Minister or on its own initiative.
+
+(2) A visiting panel and every member thereof shall be entitled at all times to visit either collectively or individually a children detention school in respect of which it is appointed and shall at all times have free access either collectively or individually to every such school and every part of it.
+
+(3) The Minister may request the board of management of a children detention school to instruct the visiting panel to report to that board on any matter relating to the school.
+
+(4) The board of management of such a school shall forward to the Minister any report made to it under this section, together with its views on the report.
+
+(5) Copies of any such report and of the board of management’s views on it shall be laid by the Minister before each House of the Oireachtas.
+
+(6) Before laying a report before each House of the Oireachtas, the Minister may omit material from it where the omission is necessary to avoid the identification of any person.
+
+### 192. Visits by judges.
+
+**192.**—Any judge may visit any children detention school or any place provided under *section 161* at any time.
+
+*Operation of schools*
+
+### 193. Obligation of Director to accept children.
+
+**193.**—The Director of a children detention school shall accept any child ordered by a court to be detained in the school, unless the children detention order is, on its face, defective.
+
+### 194. Reception of children in schools.
+
+**194.**—(1) Subject to *subsection (2)*, a children detention school shall be open at all times for the reception of children referred to it under this Part.
+
+(2) The Minister may decide that *subsection (1)* shall not apply in respect of any school or any part of a school for a specified time where he or she is satisfied that, apart from those children who are eligible and suitable for placing out on supervision in the community under *section 207*, there are adequate and suitable alternative places available for children during that time in other schools.
+
+(3) Where the Minister makes a decision pursuant to *subsection (2)*, some or all of the children detained in the school the subject of the decision may be transferred to other schools in accordance with the provisions of this Part relating to such transfers or may be placed out on supervision in the community under *section 207*, if eligible and suitable for being so placed out.
+
+### 195. Maximum number of detained children.
+
+**195.**—(1) The Minister shall certify the maximum number of children who may be detained in each children detention school at any time.
+
+(2) The Minister may vary any certificate under *subsection (1)*, or vary any certificate varied under this subsection, where he or she is satisfied that such a variation is justified.
+
+(3) The Minister shall cause a copy of any certificate or variation of any certificate under this section to be sent to the President of the High Court, the President of the Circuit Court, the President of the District Court and the Director of each children detention school.
+
+### 196. Sex and age of detained children.
+
+**196.**—(1) The Minister shall certify the sex and ages of children who may be detained in each children detention school at any time.
+
+(2) The Minister may vary any certificate under *subsection (1)*, or vary any certificate varied under this subsection, where he or she is satisfied that such a variation is justified.
+
+(3) The Minister shall cause a copy of any certificate or variation of any certificate under this section to be sent to the President of the High Court, the President of the Circuit Court, the President of the District Court and the Director of each children detention school.
+
+### 197. Treatment of children.
+
+**197.**—The Minister shall decide which children detention schools shall provide any particular courses of specialised treatment which in his or her opinion should be available for children who may be in need of any such treatment and shall cause the President of the High Court, the President of the Circuit Court, the President of the District Court and the Director of each children detention school to be informed accordingly.
+
+### 198. Transfer between schools.
+
+F177[**198.**—(1) The Minister may direct the transfer of a child detained in a children detention school to another such school to serve the whole or any part of the remainder of the child’s period of detention if—
+
+(*a*) the school to which the child is transferred caters, in accordance with the provisions of this Part, for that class of child, or
+
+(*b*) the Minister considers that the transfer is necessary in the interests of the good governance of children detention schools,
+
+and, in either case, the school to which the child is transferred provides the conditions and facilities necessary for it to achieve its principal object in the case of the child.
+
+(2) Before giving a direction under this section, the Minister shall consult the Directors of the children detention schools from and to which it is desired to transfer the child so as to ascertain whether the transfer would be in the child’s interests or whether another course should be adopted in respect of the child.
+
+(3) A direction under *subsection (1)* may be given at the request of the Director of a children detention school and, if so given, this section shall apply in relation to the direction with the necessary modifications.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F177: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 154, S.I. No. 65 of 2007.
+
+### 199. Provision as to religious observance.
+
+**199.**—The Director of a children detention school shall ensure that each child detained in it shall, as far as practicable, be given the opportunity to receive religious assistance and instruction and the opportunity of practising his or her religion.
+
+### 200. Provision of medical treatment.
+
+**200.**—If it appears to the Director of a children detention school that a child detained in it requires medical attention that cannot properly be given in the school, the Director shall make arrangements for the child to be received into any hospital or other institution where he or she can receive the necessary attention, and that child, while so absent from the school, shall for the purposes of this Act be deemed to be in lawful custody.
+
+### 201. Discipline.
+
+**201.** (1) Any child who breaches the rules of a children detention school may be disciplined on the instructions of the Director of the school in a way that is both reasonable and within the prescribed limits.
+
+(2) Without prejudice to the power of the Minister to prescribe limits for the disciplining of children detained in children detention schools, the following forms of discipline shall be prohibited—
+
+(*a*) corporal punishment or any other form of physical violence,
+
+(*b*) deprivation of food or drink,
+
+(*c*) treatment that could reasonably be expected to be detrimental to physical, psychological or emotional wellbeing, or
+
+(*d*) treatment that is cruel, inhuman or degrading.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F178: Substituted by *Children (Amendment) Act 2015* (30/2015), s. 18(1), not commenced as of date of revision, subject to transitional provision in subs. (2).
+>
+> **Modifications (not altering text):**
+>
+> C19: Prospective affecting provision: section substituted by *Children (Amendment) Act 2015* (30/2015), s. 18(1), not commenced as of date of revision, subject to transitional provision in subs. (2).
+>
+> **Inquiry into alleged disciplinary breach.**
+>
+> **201.** (1) If a breach of children detention school discipline under—
+>
+> (*a*) *section 202(6)*, *203(4)*, *204(8)*, *206(8)* or *215(6)*, or
+>
+> (*b*) regulations made by the Minister under *section 221*,
+>
+> (in this Part referred to as a ‘disciplinary breach’) is alleged to have been committed by a child, the Director of the children detention school concerned may decide to hold an inquiry into the alleged disciplinary breach.
+>
+> (2) Where the Director decides to hold an inquiry under *subsection (1)*, he or she shall inform the child who is alleged to have committed a disciplinary breach of the alleged disciplinary breach and of the date and time of the inquiry.
+>
+> (3) The procedure relating to an inquiry may be prescribed by the Minister.
+>
+> (4) At the conclusion of the inquiry, if the Director—
+>
+> (*a*) finds that the child who is the subject of the inquiry committed a disciplinary breach, *section 201A* shall apply and the Director shall record the finding and any sanction imposed under that section, or
+>
+> (*b*) does not find that the child who is the subject of the inquiry committed a disciplinary breach, he or she shall record a finding that the allegation has not been substantiated.
+
+### 201A. Sanctions for disciplinary breach
+
+F179[**201A.** ...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F179: Inserted by *Children (Amendment) Act 2015* (30/2015), s. 19, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C20: Prospective affecting provision: section inserted by *Children (Amendment) Act 2015* (30/2015), s. 19, not commenced as of date of revision.
+>
+> **201A.** (1) If at the conclusion of an inquiry under *section 201* (amended by section 18 of the Children (Amendment) Act 2015), the Director of the children detention school concerned finds that a child has committed a disciplinary breach, the Director may impose such one or more of the following sanctions as he or she considers appropriate:
+>
+> (*a*) caution;
+>
+> (*b*) reprimand;
+>
+> (*c*) prohibition, for a period not exceeding 60 days, on—
+>
+> (i) engaging in specified recreational activities, or
+>
+> (ii) possessing specified articles or articles of a specified class, the possession of which is permitted as a privilege;
+>
+> (*d*) forfeiture of such sum (or portion of a sum) of pocket money as is provided to the child by the board of management;
+>
+> (*e*) forfeiture of not more than 14 days’ remission of portion of the child’s period of detention on foot of a children detention order,
+>
+> and the Director shall inform the child of the finding and if a sanction has been imposed, the imposition of the sanction, as soon as may be.
+>
+> (2) The Director may suspend, subject to such conditions as he or she may specify, the operation of the whole or any part of a sanction so imposed (other than a sanction of forfeiture of remission) for a period not exceeding 3 months from the date the child is informed under *subsection (1)* of the finding and the imposition of a sanction, if any.
+>
+> (3) If any condition to which a suspension is subject is not complied with during the period of suspension, the Director may direct—
+>
+> (*a*) that the sanction shall take effect either forthwith or from a specified date, or
+>
+> (*b*) that it be abated in a specified manner and, as so abated, so take effect.
+>
+> (4) If any such conditions are complied with during the period of suspension, the sanction ceases to have effect at the end of that period.
+>
+> (5) The Director may restore all or any part of any remission of portion of a period of detention forfeited by a child under this section if—
+>
+> (*a*) he or she considers that its restoration is justified by the child’s good performance over a period of time, or
+>
+> (*b*) the child has, in the opinion of the Director, performed an exceptionally meritorious act.
+>
+> (6) Nothing in this section shall prevent the Director taking immediate provisional or protective measures to maintain order and discipline or the security of the children detention school.
+>
+> (7) When the Director informs a child under *subsection (1)* of a finding that the child has committed a disciplinary breach and whether or not the Director imposes a sanction on the child under that subsection in respect of the disciplinary breach, the Director shall explain in ordinary language to the child the content of *section 201B(1)* and, if any sanction imposed consists of or includes forfeiture of remission of portion of his or her period of detention, of section *201C(1)*.
+>
+> (8) Notwithstanding the imposition on a child of a sanction under *subsection (1)*, the child may be—
+>
+> (*a*) permitted to be on an approved absence,
+>
+> (*b*) ordered to be released under *section 209*, or
+>
+> (*c*) ordered to be discharged under *section 210*.
+
+### 201B. Petition by child against finding of disciplinary breach or sanction or both
+
+F180[**201B.** ...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F180: Inserted by *Children (Amendment) Act 2015* (30/2015), s. 19, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C21: Prospective affecting provision: section inserted by *Children (Amendment) Act 2015* (30/2015), s. 19, not commenced as of date of revision.
+>
+> **201B.** (1) A child who is found by a Director to have committed a disciplinary breach under *section 201* (amended by section 18 of the Children (Amendment) Act 2015) may, not later than 7 days after the date the child was informed of the finding and the imposition of any sanction, send to the Director, for transmission to the Minister, a petition concerning the finding or sanction or both the finding and sanction.
+>
+> (2) On receiving such a petition the Minister may obtain from the Director any additional information that the Minister requires for the purposes of this section and shall, as soon as is reasonably practicable and in any event not later than 14 days from the date the Minister receives the petition—
+>
+> (*a*) where the finding is a subject of the petition, affirm, modify or revoke the finding, and
+>
+> (*b*) where the sanction is a subject of the petition, affirm, modify, suspend (subject to any terms or conditions as he or she may specify), or revoke the sanction,
+>
+> and shall cause the child concerned to be notified accordingly.
+
+### 201C. Appeal against forfeiture of remission
+
+F181[**201C.** ...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F181: Inserted by *Children (Amendment) Act 2015* (30/2015), s. 19, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C22: Prospective affecting provision: section inserted by *Children (Amendment) Act 2015* (30/2015), s. 19, not commenced as of date of revision.
+>
+> **201C.** (1) Without prejudice to *section 201B*, a child—
+>
+> (*a*) who is found by a Director to have committed a disciplinary breach under *section 201* (amended by section 18 of the Children (Amendment) Act 2015), and
+>
+> (*b*) on whom a sanction of forfeiture of remission of portion of his or her period of detention has been imposed,
+>
+> may, not later than 21 days after the date that he or she is notified of the finding and sanction, notify the Director of his or her intention to appeal against the finding or sanction, or both finding and sanction, to an Appeal Tribunal.
+>
+> (2) On receipt of a notification under *subsection (1)*, the Director shall, as soon as practicable and in any event not later than 7 days after the date of such receipt, refer the matter to an Appeal Tribunal.
+>
+> (3) The Appeal Tribunal may invite the child and the Director concerned to make written submissions to it in relation to the appeal.
+>
+> (4) The child concerned shall be notified by the Appeal Tribunal of the date and time of the hearing of the appeal and that he or she—
+>
+> (*a*) may attend the hearing, and
+>
+> (*b*) may, for the purposes of the hearing, avail himself or herself of legal aid, advice or representation or apply for free legal aid under regulations made under *subsection (7)*.
+>
+> (5) If the appeal relates only to the sanction imposed, the Appeal Tribunal may limit the hearing to issues relating to the sanction.
+>
+> (6) The Appeal Tribunal may, as soon as is reasonably practicable and in any event not later than 21 days after the date of the hearing of the appeal—
+>
+> (*a*) affirm or annul the finding that the child has committed the disciplinary breach concerned,
+>
+> (*b*) affirm or annul the sanction imposed by the Director,
+>
+> (*c*) vary the period of remission to be forfeited, subject to the period, as so varied, not exceeding 14 days, or
+>
+> (*d*) where it annuls the sanction imposed by the Director, substitute for it any other sanction provided for in *section 201A*.
+>
+> (7) The Minister for Justice and Equality may, with the consent of the Minister for Public Expenditure and Reform, make regulations providing for the granting of legal aid to children appealing to an Appeal Tribunal under this section.
+>
+> (8) The decision of an Appeal Tribunal shall be notified in writing to—
+>
+> (*a*) the Director concerned,
+>
+> (*b*) the child concerned,
+>
+> (*c*) where the child is under 18, unless *paragraph (d)* applies, to the child’s parents or guardian, and
+>
+> (*d*) where on the date of the decision the child is in the care of the Child and Family Agency under the Act of 1991, to the Child and Family Agency.
+
+### 201D. Appeal Tribunal
+
+F182[**201D.** ...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F182: Inserted by *Children (Amendment) Act 2015* (30/2015), s. 19, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C23: Prospective affecting provision: section inserted by *Children (Amendment) Act 2015* (30/2015), s. 19, not commenced as of date of revision.
+>
+> **201D.** (1) The Minister may, by direction in writing, establish, for a specified period, an Appeal Tribunal or more than one such Tribunal to adjudicate on appeals under *section 201C*.
+>
+> (2) An Appeal Tribunal shall be independent in the performance of its functions.
+>
+> (3) The Minister may appoint—
+>
+> (*a*) a practising barrister, or
+>
+> (*b*) a practising solicitor,
+>
+> of not less than 7 years’ standing to be a member of and constitute an Appeal Tribunal.
+>
+> (4) The appointment shall be subject to such terms and conditions, including terms and conditions relating to remuneration, as the Minister may determine with the consent of the Minister for Public Expenditure and Reform.
+>
+> (5) A person constituting an Appeal Tribunal may at any time resign by a letter sent to the Minister, and the resignation shall take effect on the date on which the Minister receives the letter.
+>
+> (6) A person constituting an Appeal Tribunal may at any time be removed from office by the Minister for stated misbehaviour or if, in the opinion of the Minister, the person has become incapable through ill health or otherwise of effectively performing the functions of an Appeal Tribunal.
+>
+> (7) Subject to any general directions that the Minister may give to one or more Appeal Tribunals for the purpose of securing consistency of procedures in relation to appeals under *section 201C*, an Appeal Tribunal may determine its own procedure.
+
+### 202. Permitted absence.
+
+**202.**—(1) The Director of a children detention school may, by order in writing, permit a child to be absent from the school, whether or not accompanied—
+
+(*a*) for the purpose of attending the funeral of a relative,
+
+(*b*) for the purpose of visiting a relative who is seriously ill, or
+
+(*c*) for any other purpose of exceptional importance that the Director thinks proper, being a purpose which the Director considers to be directly associated with the welfare or rehabilitation of the child concerned.
+
+(2) The order shall specify the period for which the child may be absent from the school and the purpose for which it was made.
+
+(3) A copy of the order shall be given to the child at or before the commencement of the absence.
+
+(4) The order may be subject to any conditions, limitations or restrictions that the Director thinks appropriate to impose.
+
+(5) The child to whom a copy of the order is given shall carry the copy at all times during the permitted absence.
+
+(6) A failure, without reasonable excuse, by a child to return to the school when his or her period of permitted absence has expired shall be treated as a breach of the discipline of the school.
+
+(7) A member of the Garda Síochána who detects any child in breach of *subsection (6),* or of any conditions, limitations or restrictions to which the order permitting the absence is subject, shall so inform the Director of the school concerned and return the child to the school.
+
+(8) The period of a child’s permitted absence from a school shall be deemed to be part of the child’s period of detention in the school but, if a child fails to return to the school when the period of permitted absence has expired, the time that elapses thereafter shall be excluded in calculating the time during which he or she is to be detained.
+
+### 203. Other permitted absences.
+
+**203.**—(1) The Director of a children detention school may, by order in writing, permit a child to be absent from the school unaccompanied on a recurring basis or on one occasion only—
+
+(*a*) for the purpose of seeking employment or engaging in employment or obtaining work experience,
+
+(*b*) for the purpose of receiving additional training or education,
+
+(*c*) for the purpose of participating in sport, recreation or entertainment in the community, or
+
+(*d*) for any other purpose conducive to the reintegration of the child into the community.
+
+(2) The Director may at any time before the end of a period of permitted absences under this section cancel the order permitting the absences.
+
+(3) The Director of each children detention school shall keep the F183[Minister and] board of management of the school informed of the implementation of F184[...] policy in relation to absences permitted under this section and *section 202*.
+
+(4) The provisions of *subsections (2)* to *(8)* of *section 202* shall, with the necessary modifications, apply in relation to an absence under this section as if it were an absence under that section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F183: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 27, S.I. No. 65 of 2007.
+>
+> F184: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 27, S.I. No. 65 of 2007.
+
+### 204. Mobility trips.
+
+**204.**—(1) In this section “mobility trips” means authorised absences from a children detention school of children detained therein for the purpose of—
+
+(*a*) assisting their reintegration into society by promoting their personal and social development, their awareness and appreciation in matters of culture, education and recreation, and
+
+(*b*) where appropriate, the implementation of any necessary treatment or counselling directions.
+
+(2) Each mobility trip shall be authorised by the Director of the children detention school concerned and shall be granted for a specified period.
+
+(3) During a mobility trip the child shall be accompanied at all times by at least one member of the staff of the school.
+
+(4) Before authorising any mobility trip, the Director shall be satisfied, on the basis of an assessment of the child’s suitability for such trips, that the purpose of the mobility trip is appropriate for the child.
+
+(5) The Minister may suspend, for a specified period, mobility trips for a particular child or for any children detention school where he or she is satisfied that they would not be in the best interests of the child or school or of society generally during that period.
+
+(6) Any period specified in *subsection (5)* may be renewed on as many occasions as the Minister considers necessary until the circumstances that gave rise to the suspension of the mobility trips no longer apply.
+
+(7) Any breach by a child of the rules governing the grant of mobility trips shall render that child ineligible for such trips for such period as the Director may determine.
+
+(8) Absconding while on a mobility trip shall be treated as a breach of discipline of the school.
+
+(9) The Director of each children detention school shall keep the F185[Minister and] board of management of the school informed of the implementation of the F186[...] rules in relation to the grant of mobility trips.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F185: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4, am. no. 28, S.I. No. 65 of 2007.
+>
+> F186: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4, am. no. 28, S.I. No. 65 of 2007.
+
+### 205. Temporary leave.
+
+**205.**—(1) The Director of each children detention school shall formulate a temporary leave programme for every child detained in the school for whom temporary leave is appropriate and ensure that every such programme is in accordance with the rules of the school’s board of management in that regard.
+
+(2) No temporary leave programme shall provide for temporary leave in the first one month of any child’s period of detention.
+
+F187[(3) The Minister may suspend, for a specified period—
+
+(*a*) the temporary leave programme of a child, or
+
+(*b*) the temporary leave programmes of the children in a children detention school,
+
+whether or not such programmes have been altered by the Director under *subsection (4)*, where the Minister is satisfied that temporary leave would not be in the best interests of the child, the children detention school or society generally.
+
+(4) The Director may alter the temporary leave programme of a child where he or she is satisfied that to do so would be in the best interests of the child, the children detention school or society generally.]
+
+(5) The one-month period referred to in *subsection (2)* need not necessarily have been served in one children detention school.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F187: Substituted (1.12.2015) by *Children (Amendment) Act 2015* (30/2015), s. 20(1), S.I. No. 539 of 2015, subject to transitional provision in subs. (2).
+
+### 206. Conditions of grant of temporary leave.
+
+**206.**—(1) F188[Subject to *subsection (1A)*, a child] while on temporary leave shall be in the care of his or her parents or guardian, or of a responsible person, who shall undertake to the Director of the children detention school concerned to supervise the child during the period of temporary leave.
+
+F189[(1A) Where a Director is of opinion, when formulating a temporary leave programme under *section 205(1)* or altering a temporary leave programme under *section 205(4)* for a child aged 18 years or over detained in a children detention school pursuant to *section 155*, that it is not appropriate for *subsection (1)* to apply to the child while on temporary leave, and the Director so certifies in writing, then in relation to that child or to the grant of temporary leave to that child—
+
+(*a*) *subsections (1)* and *(2)* shall not apply,
+
+(*b*) *subsection (3)* shall apply with the modification that the child shall reside in accommodation specified or approved by the Director, and *subsection (4)* shall have effect accordingly, and
+
+(*c*) the requirement in *subsection (6)* for a member of the Garda Síochána to inform the person who undertook to supervise the child shall not apply.
+
+(1B) In forming an opinion under *subsection (1A)*, the Director shall take into account—
+
+(*a*) the child’s record of behaviour while in detention,
+
+(*b*) the family circumstances of the child,
+
+(*c*) the child’s physical, emotional and mental health, and
+
+(*d*) any other matters affecting the child’s suitability to be the subject of certification under *subsection (1A)* that the Director in his or her discretion considers relevant.]
+
+(2) In deciding to grant temporary leave in any case, the Director shall be as satisfied as reasonably possible that the person who has undertaken to supervise the child will do so and, where a child has previously been granted temporary leave, the Director shall take into account how the child was supervised during that leave.
+
+(3) Where a period of temporary leave involves a child being absent from the children detention school for one or more than one night, the child shall reside in the living accommodation of the person who has undertaken to supervise the child or in other accommodation with the prior approval of the Director, and, where that person so agrees, it shall be a condition of the leave that the child remain in that accommodation during a specified period between 7.00 p.m. on any day and 6.00 a.m. on the following day.
+
+(4) Subject to *subsection (3)*, where a child is so absent, a condition of the temporary leave may require the child to remain in the living accommodation of the person supervising the child or in such other accommodation, as the case may be, for different periods on different dates.
+
+(5) Before the commencement of a period of temporary leave in respect of any child, the Director shall arrange for the member in charge of the Garda Síochána station for the area in which the child will reside during the period of the leave to be informed of the child’s address, the period of the leave and, where appropriate, the periods during which the child is required to remain at that address.
+
+(6) A member of the Garda Síochána who detects a child in breach of a condition specified in or pursuant to *subsection (3)* or *(4)* shall so inform the Director of the school concerned, return the child to the school in which he or she was detained when granted the temporary leave and inform the person who undertook to supervise the child accordingly as soon as practicable.
+
+(7) A child who contravenes the rules governing temporary leave or, as the case may be, a condition specified in or pursuant to *subsection (3)* or *(4)* shall be ineligible for further temporary leave for such period as may be determined in accordance with the policy in that regard of the children detention school in which he or she was detained when granted the temporary leave.
+
+(8) A failure, without reasonable excuse, by a child to return to the school on the expiry of the period of temporary leave shall be treated as a breach of the discipline of the school and of the rules governing temporary leave.
+
+(9) The period of a child’s absence from a school on temporary leave shall be deemed to be part of the child’s period of detention in the school but, if a child fails to return to the school when the period of temporary leave has expired, the time that elapses thereafter shall be excluded in calculating the period during which he or she is to be detained.
+
+(10) On the grant of temporary leave to a child, the Director shall specify in a notice in writing to the child—
+
+(*a*) the time of commencement and ending of the period of the leave, and
+
+(*b*) where appropriate, any condition specified in or pursuant to *subsection (3)* or *(4)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F188: Substituted (1.12.2015) by *Children (Amendment) Act 2015* (30/2015), s. 21(a), S.I. No. 539 of 2015.
+>
+> F189: Inserted (1.12.2015) by *Children (Amendment) Act 2015* (30/2015), s. 21(b), S.I. No. 539 of 2015.
+
+### 207. Supervision in community.
+
+**207.**—(1) F190[Subject to *subsection (1A)*, where a child] is detained in a children detention school, the Director of the school may at any time, after consultation with the F191[Director of the Probation and Welfare Service], authorise the placing out of the child under supervision in the community to reside with his or her parents or guardian or a responsible person who is willing to receive and take charge of the child.
+
+F192[(1A) In the case of a child aged 18 years or over detained in a children detention school pursuant to *section 155*, the Director of the school may, if he or she is of opinion that it is appropriate to do so, authorise under *subsection (1)* the placing out of the child without a requirement for that child to reside with any specified person, but with a requirement that he or she reside in a place specified or approved by the Director, and if the Director so authorises—
+
+(*a*) *subsection (4)(a)(i)* shall not apply to the authorisation,
+
+(*b*) the provisions of *subsection (5)(a)* relating to the communication of the conditions of the child’s placing out to the person receiving and taking charge of the child shall not apply to the Director, and
+
+(*c*) *subsection (8)* shall not apply to the child.
+
+(1B) In forming an opinion under *subsection (1A)*, the Director shall take into account—
+
+(*a*) the child’s record of behaviour while in detention,
+
+(*b*) the family circumstances of the child,
+
+(*c*) the child’s physical, emotional and mental health, and
+
+(d) any other matters affecting the child’s suitability to be the subject of a placing out referred to in *subsection (1A)* that the Director in his or her discretion considers relevant.]
+
+(2) Before authorising a placing out under *subsection (1)*, the Director shall be satisfied that the child will continue to receive appropriate education or training while he or she is placed out and that the placing out conforms to the rules of the school’s board of management in that regard.
+
+(3) A child placed out under *subsection (1)* shall be under the supervision in the community of a probation and welfare officer.
+
+(4) (*a*) An authorisation under *subsection (1)* shall be in writing and be signed by the Director and shall specify—
+
+(i) the name of the person who is willing to receive and take charge of the child, and
+
+(ii) any conditions imposed by the Director which he or she considers appropriate and which are consistent with any rules made by the board of management of the school under *section 179*.
+
+(*b*) The child shall comply with any conditions so specified.
+
+(5) Where a child is placed out under this section, the Director shall ensure that at the time of the placing out—
+
+(*a*) the conditions of the child’s placing out are communicated in writing to the child, to the person receiving and taking charge of the child and to the probation and welfare officer supervising the child in the community, and
+
+(*b*) the placing out and those conditions are notified to the member in charge of the Garda Síochána station for the area in which the child will be residing.
+
+(6) A placing out under this section shall be in force until revoked or until the period of detention imposed by the court has expired, whichever is the sooner, and while it is in force the child shall be deemed to be under the care of the Director.
+
+(7) The Director may at any time, after consultation with the F191[Director of the Probation and Welfare Service], revoke a placing out where—
+
+(*a*) he or she has reason to believe that it is necessary to do so for the protection or welfare of the child,
+
+F193[(*aa*) the child, without reasonable excuse, fails to comply with a requirement under *subsection (1A)* to reside in a place specified or approved by the Director,]
+
+(*b*) the child, without reasonable excuse, fails to comply with a condition imposed under *subsection (4) (a) (ii)*, or
+
+(*c*) the child is not receiving appropriate education or training,
+
+and order the child to return to the school.
+
+(8) Any child escaping from the person with whom he or she is placed out shall be liable to the same penalty as if he or she had escaped from the school itself.
+
+(9) The period during which a child who is placed out is absent from a school shall be deemed to be part of the child’s period of detention in the school but, if a child fails to return to the school when the placing out is revoked, the time that elapses thereafter shall be excluded in calculating the period during which he or she is to be detained.
+
+(10) Where a member of the Garda Síochána has been notified that a child whose placing out has been revoked refuses or fails, without reasonable cause, to return to the school, the member may arrest the child without warrant and forthwith return the child to the school.
+
+(11) Where a placing out of a child has been revoked and the child has returned or has been returned to the school, the Director of the school shall inform the member in charge of the Garda Síochána station for the area where the child resided accordingly.
+
+(12) Where a child is found guilty of an offence committed while placed out, the placing out shall be deemed to be revoked.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F190: Substituted (1.12.2015) by *Children (Amendment) Act 2015* (30/2015), s. 22(a), S.I. No. 539 of 2015.
+>
+> F191: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 137, S.I. No. 65 of 2007.
+>
+> F192: Inserted (1.12.2015) by *Children (Amendment) Act 2015* (30/2015), s. 22(b), S.I. No. 539 of 2015.
+>
+> F193: Inserted (1.12.2015) by *Children (Amendment) Act 2015* (30/2015), s. 21(c), S.I. No. 539 of 2015.
+
+### 208. Voluntary aftercare.
+
+**208.**—(1) Where a child is released from a children detention school on the completion of his or her period of detention, the child may, with his or her consent, be placed under the supervision of a probation and welfare officer if the Director of the school considers, after consultation with the F194[Director of the Probation and Welfare Service], that to do so would further assist the child’s reintegration into society and help to prevent the child from committing further offences.
+
+(2) Subject to *subsection (4)*, where a child is placed under supervision in accordance with *subsection (1)*, the period of supervision shall continue for as long as the child consents and the probation and welfare officer supervising the child is satisfied that continuance of the supervision is in the child’s interests.
+
+(3) The probation and welfare officer supervising the child shall receive whatever assistance is necessary from the Director of the children detention school concerned to enable the officer to supervise the child effectively.
+
+(4) Where a child is found guilty of an offence committed while under supervision in accordance with this section, the continuance of the supervision shall be reviewed by the F194[Director of the Probation and Welfare Service].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F194: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 137, S.I. No. 65 of 2007.
+
+### 209. Unconditional release.
+
+**209.**—Where a child is serving a period of detention in a children detention school, the Minister may at any time order the child’s release from the school on compassionate grounds if he or she is satisfied on the basis of a report from the Director of the school, after consultation with the F195[Director of the Probation and Welfare Service], that exceptional circumstances exist which justify the release.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F195: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 137, S.I. No. 65 of 2007.
+
+### 210. Early discharge.
+
+**210.**—(1) A child detained in a children detention school may be order of the Director of the school be discharged from detention at any time during the period of 24 hours immediately preceding the time when the children detention order concerned would otherwise terminate.
+
+(2) A child so detained whose detention would, but for this subsection, terminate on a Saturday, Sunday or public holiday may, by order of the Director, be discharged from detention on the last preceding day that is not a Saturday, Sunday or public holiday.
+
+### 211. Order for production of child.
+
+**211.**—(1) Where a child is detained in a children detention school, the Director of the school may, on proof to his or her satisfaction that the presence of the child at any place is required in the interests of justice, or for the purpose of any inquest or inquiry, in writing order that the child be taken to that place.
+
+(2) A child taken from a children detention school under this section shall, while outside the school, be kept in such custody as the Director may determine and while in that custody shall be deemed to be in lawful custody.
+
+### 212. Responsible persons.
+
+**212.**—Where a child is in the care or charge of a responsible person under the provisions of *section 206* or *207*, the responsible person shall—
+
+(*a*) have the like control over the child as if he or she were the child’s parent or guardian, and
+
+(*b*) do what is reasonable (subject to the provisions of this Act) in all the circumstances of the case for the purpose of safeguarding or promoting the child’s education, health, development or welfare.
+
+### 213. Duty to notify changes of address to school.
+
+**213.**—(1) The parents or guardian of a child who is detained in a children detention school shall keep the Director of the school informed of their address.
+
+(2) Where a child is transferred pursuant to *section 198*, the Director of the school or managers of a place from which the child is transferred shall, where practicable, inform the child’s parents or guardian of the transfer, and until the parents or guardian have been so informed their duty under *subsection (1)* shall be deemed to be duly discharged if they keep the Director of that school informed of their address.
+
+### 214. Lawful custody of detained children.
+
+**214.**—(1) Subject to *section 215*, a child in respect of whom a children detention order is in force shall be deemed to be in the lawful custody of the Director of the children detention school concerned while detained in the school and thereafter while being conveyed from or to the school, while placed out under supervision in the community or while on a permitted absence under *section 202* or *203* or a mobility trip under *section 204*.
+
+(2) F196[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F196: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 29, S.I. No. 65 of 2007.
+
+*Offences*
+
+### 215. Escape.
+
+**215.**—(1) A child who has been ordered by a court to be detained in a children detention school and who—
+
+(*a*) escapes while being conveyed to or from the school, or
+
+(*b*) escapes or is otherwise absent without permission from the school or from any hospital or other institution in which the child is receiving medical attention,
+
+shall commit the offence of escape from lawful custody and may at F197[any time, including on or after his or her 18th birthday,] be arrested by a member of the Garda Síochána without warrant and returned to the school or, as the case may be, to the hospital or other institution concerned.
+
+(2) F197[A person guilty of an offence under *subsection (1)* shall be liable, on summary conviction, to detention or imprisonment for a term not exceeding 3 months.]
+
+(3) F198[...]
+
+(4) Where a person who is found guilty of an offence under *subsection (1)* is 18 years of age or more, any period of detention imposed on him or her shall be served in a place of detention provided under section 2 of the Act of 1970 or in a prison.
+
+F199[(4A) Where a person to whom *subsection (1)* applies is arrested and returned by a member of the Garda Síochána pursuant to that subsection or otherwise returns to the children detention school, hospital or other institution concerned and the person had attained the age of 18 years during the period of his or her escape but is below the age of 18 years and 6 months on the date of his or her return—
+
+(*a*) subject to section 11(2) of the Children (Amendment) Act 2015, *section 155* (other than *subsections (1)* and *(7)*) shall, with any necessary modifications, apply to that person,
+
+(*b*) reference in *subsections (2)* and *(3)* of *section 155* to "before the relevant date" shall be construed as "as soon as may be", and
+
+(*c*) reference in *subsections (2)* and *(4)* of *section 155* to "on the relevant date" shall be construed as a reference to the day after the date of authorisation by the Minister for Children and Youth Affairs under *subsection (3)* of *section 155*.
+
+(4B) Where a person to whom *subsection (1)* applies is arrested and returned by a member of the Garda Síochána pursuant to that subsection or otherwise returns to the children detention school, hospital or other institution concerned, and the person before his or her escape had been detained pursuant to *section 155* and is below the age of 18 years and 6 months on the date of his or her return, the Director of the children detention school in which the person had been detained prior to his or her escape may as he or she considers appropriate—
+
+(*a*) request the Minister to authorise a transfer of the person to a prison or a place of detention provided under section 2 of the Act of 1970, and in such a case *paragraphs (b)* and *(c)* of *subsection (4C)* shall apply, or
+
+(*b*) make a new determination under *section 155(5)* in respect of the person and in such case, *subsections (6)* and *(8)* of *section 155* shall apply with any necessary modifications.
+
+(4C) Where a person escapes from lawful custody within the meaning of *subsection (1)* and attains the age of 18 years and 6 months during the period of his or her escape—
+
+(*a*) the Director of the children detention school in which the person had been detained prior to his or her escape shall, as soon as may be, request the Minister to authorise the transfer of the person under *paragraph (b)*,
+
+(*b*) on receiving a request under *paragraph (a)*, the Minister shall, as soon as may be and after consultation with the Minister for Justice and Equality, authorise the transfer of the person to such—
+
+(i) place of detention provided under section 2 of the Act of 1970, or
+
+(ii) prison,
+
+as the Minister, having consulted with the Minister for Justice and Equality, considers appropriate, to serve the period of detention remaining to be served by that person on the date of his or her escape, and
+
+(*c*) on the return of the person to the children detention school, hospital or other institution concerned, whether on foot of an arrest by a member of the Garda Síochána pursuant to *subsection (1)* or otherwise, the Director shall, as soon as may be, transfer the person to the place of detention or prison pursuant to the authorisation under *paragraph (b)*.]
+
+(5) In calculating the period during which a person who, having escaped, is thereafter liable to be F197[detained in a children detention school, or in a prison or place of detention if the person is transferred under this section], the period during which he or she was absent from the children detention school shall not be reckoned as part of the person’s period of detention in the school.
+
+(6) Subject to the foregoing provisions of this section, an escape from a children detention school may be treated as a breach of the discipline of the school.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F197: Substituted (1.12.2015) by *Children (Amendment) Act 2015* (30/2015), s. 23(a), (b) and (d), S.I. No. 539 of 2015.
+>
+> F198: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 155(b), S.I. No. 65 of 2007.
+>
+> F199: Inserted (1.12.2015) by *Children (Amendment) Act 2015* (30/2015), s. 23(c), S.I. No. 539 of 2015.
+>
+> **Editorial Notes:**
+>
+> E38: Previous affecting provision: subs. (2) substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 155(a), S.I. No. 65 of 2007; substituted as per F-note above.
+
+### 216. Helping child to escape.
+
+**216.**—A person who helps a child to escape or attempt to escape from lawful custody or to abscond from any person with whom the child is placed out on supervision in the community shall be guilty of an offence and shall be liable, on summary conviction, to a fine not exceeding £750 or imprisonment for a term not exceeding 6 months or both.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E39: A fine of £750 converted (1.01.1999) to €952.30. This translates into a class D fine not greater than €1,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 7(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 217. Harbouring escaped child.
+
+**217.**—Any person who knowingly harbours, maintains or conceals F200[a child, or a person other than a child who has escaped when a child from lawful custody within the meaning of *section 215(1)*, or otherwise prevents a child or such an escaped person] from returning to a children detention school or to any person with whom he or she has been placed out on supervision in the community shall be guilty of an offence and shall be liable, on summary conviction, to a fine not exceeding £750 or imprisonment for a term not exceeding 6 months or both.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F200: Substituted (1.12.2015) by *Children (Amendment) Act 2015* (30/2015), s. 24, S.I. No. 539 of 2015.
+>
+> **Editorial Notes:**
+>
+> E40: A fine of £750 converted (1.01.1999) to €952.30. This translates into a class D fine not greater than €1,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 7(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 218. Unlawful entry or communication.
+
+**218.**—A person who without lawful authority—
+
+(*a*) enters or attempts to enter any children detention school, or
+
+(*b*) communicates or attempts to communicate with any child detained therein,
+
+shall be guilty of an offence and shall be liable, on summary conviction, to a fine not exceeding £250 or imprisonment for a term not exceeding 2 months or both.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E41: A fine of £250 converted (1.01.1999) to €317.43. This translates into a class E fine not greater than €500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 218A. Unauthorised provision of mobile telecommunications device
+
+F201[**218A.** (1) A person who, without lawful authority, supplies or attempts to supply a mobile telecommunications device to a child who is—
+
+(*a*) detained in a children detention school,
+
+(*b*) remanded to a remand centre, or
+
+(*c*) a child to whom *paragraph (a)* or *(b)* applies but who is for the time being in lawful custody outside the children detention school or the remand centre, as the case may be,
+
+commits an offence and is liable on summary conviction to a class D fine or imprisonment for a term not exceeding 6 months or both.
+
+(2) In this section "mobile telecommunications device" includes a component of such a device.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F201: Inserted (1.12.2015) by *Children (Amendment) Act 2015* (30/2015), s. 25, S.I. No. 539 of 2015. A class D fine means a fine not greater than €1,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 7(1), S.I. No. 662 of 2010.
+
+### 219. Bringing alcohol etc., into schools.
+
+**219.**—A person who without lawful authority—
+
+(*a*) brings or attempts to bring into a children detention school, or
+
+(*b*) delivers or attempts to deliver to a child in any such school,
+
+any alcohol or other prescribed thing, shall be guilty of an offence and shall be liable, on summary conviction, to a fine not exceeding £250 or imprisonment for a term not exceeding 2 months or both.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E42: A fine of £250 converted (1.01.1999) to €317.43. This translates into a class E fine not greater than €500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+*Other matters*
+
+### 220. Delegation of certain functions by Minister.
+
+**220.**—(1) The Minister may, subject to *subsection (4)*, by instrument under his or her hand or seal delegate to a named officer of a specified grade, position or description any function of the Minister under this part specified in the delegation and may revoke the delegation.
+
+(2) A delegation of a function under *subsection (1)* is without prejudice to the right of the Minister to exercise it.
+
+(3) Every delegated function shall be performed by the delegated officer subject to the general superintendence and control of the Minister and to such limitations (if any) as may be specified by the Minister either in the instrument of delegation or at any time thereafter.
+
+(4) *Subsection (1)* does not apply to a function conferred on the Minister by *sections 163* and *221*.
+
+(5) In this section “officer” means an officer of the Minister who is an established civil servant for the purposes of the Civil Service Regulation Act, 1956.
+
+### 221. Regulations.
+
+**221.**—(1) The Minister may make regulations, not inconsistent with this Part and any relevant international instruments to which the State is a party, for or with respect to any matter that is required or permitted by this Part to be prescribed or that is necessary or expedient to be prescribed for giving effect to this Part and, in particular, with respect to—
+
+(*a*) the promotion of the educational and social development of children detained in children detention schools,
+
+(*b*) the maintenance of the physical, psychological and emotional wellbeing of such children,
+
+(*c*) the provision of adequate and suitable accommodation for them,
+
+(*d*) the control and management of such schools and the maintenance of discipline and good order generally in them,
+
+(*e*) the inspection and investigation of such schools by the Inspector,
+
+(*f*) the conduct and functions of the Director and other members of the staff of such schools,
+
+(*g*) visits and other communications between children detained in such schools and their families, relatives and friends.
+
+(2) Any such regulations may apply generally to children detention schools or apply to one or more than one such school or be limited in their application by reference to specified exceptions or factors or apply differently according to different factors of a specified kind.
+
+(3) The Minister shall cause a copy of any such regulations to be sent to each board of management, who shall comply with them.
+
+(4) The Minister may make regulations analogous to *subsections (1)* to *(3)* relating to any place provided under *section 161* and for that purpose those subsections shall apply, with the necessary modifications, in relation to any such place.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F202: Inserted by *Children (Amendment) Act 2015* (30/2015), s. 26, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C24: Prospective affecting provision: subs. (1)(dd), (de) inserted by *Children (Amendment) Act 2015* (30/2015), s. 26, not commenced as of date of revision.
+>
+> (dd) remission of portion of a child’s period of detention in a children detention school on foot of a children detention order,
+>
+> (de) without prejudice to the generality of *paragraph (d)*, the acts (other than those referred to in *section 201(1)(a)*) that constitute disciplinary breaches and in particular the Minister may specify the disciplinary breaches that may result in forfeiture of remission under *section 201A(1)(e)*,
+
+### 222. Pending proceedings.
+
+**222.**—Where, immediately before the commencement of *section 159,* the board of management or trustees of a certified reformatory school or industrial school to which on such commencement *subsection (1)* of that section applies, or any agent thereof acting on behalf of such a school, is a party to any proceedings pending in any court or tribunal, the name of the board of management appointed to the school under *section 164* shall be substituted in those proceedings for the board of management, trustees or agent, as the case may be, and the proceedings shall not abate by reason of the substitution.
+
+### 223. Saving for certain acts.
+
+**223.**—Nothing in this Act shall affect the validity of any act that was done before the commencement of *section 159* by or on behalf of a board of management or trustees of a certified reformatory school or industrial school to which on such commencement *subsection (1)* of that section applies, and every such act shall, if and in so far as it had effect immediately before such commencement, have effect on and after the commencement as if it had been done by or on behalf of the board of management appointed to the school under *section 164*.
+
+### 224. Transitional provisions.
+
+**224.**—(1) A child who is serving a period of detention in an institution which is a certified reformatory school or an industrial school in accordance with Part IV of the Act of 1908 shall not have his or her period of detention varied by reason only of an alteration of title or description of the said institution.
+
+(2) Where a period of time specified in a provision of the Children Acts, 1908 to 1989, had not expired at the commencement of any corresponding provision of this Act, this Act shall have effect as if the corresponding provision had been in force when the period began to run.
+
+## PART 11Special Residential Services Board — PART 11 — Special Residential Services Board
+
+### 225. Interpretation (Part 11).
+
+**225.**—
+
+F203[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F203: Part 11 (ss. 225 to 244) repealed (8.09.2011) by *Child Care (Amendment) Act 2011* (19/2011), s. 47, S.I. No. 453 of 2011.
+>
+> **Editorial Notes:**
+>
+> E43: Previous affecting provision: subs. (1) amended (23.07.2007) by *Child Care (Amendment) Act 2007* (26/2007), s. 18, S.I. No. 509 of 2007.
+>
+> E44: Previous affecting provision: subs. (2) amended (1.12.2006) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 30, S.I. No. 590 of 2006.
+
+### 226. Special Residential Services Board.
+
+**226.**—
+
+F204[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F204: Part 11 (ss. 225 to 244) repealed (8.09.2011) by *Child Care (Amendment) Act 2011* (19/2011), s. 47, S.I. No. 453 of 2011.
+>
+> **Editorial Notes:**
+>
+> E45: The Children Acts Advisory Board (formerly known as the Special Residential Services Board) was dissolved (8.09.2011) by *Child Care (Amendment) Act 2011*, s. 38, S.I. No. 453 of 2011.
+
+### 226A. Change of name of Board.
+
+**226A.**—
+
+F205[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F205: Part 11 (ss. 225 to 244) repealed (8.09.2011) by *Child Care (Amendment) Act 2011* (19/2011), s. 47, S.I. No. 453 of 2011.
+>
+> **Editorial Notes:**
+>
+> E46: Previous affecting provision: section inserted (23.07.2007) by *Child Care (Amendment) Act 2007* (26/2007), s. 19, S.I. No. 509 of 2007.
+
+### 227. Functions of Board.
+
+**227.**—
+
+F206[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F206: Part 11 (ss. 225 to 244) repealed (8.09.2011) by *Child Care (Amendment) Act 2011* (19/2011), s. 47, S.I. No. 453 of 2011.
+>
+> **Editorial Notes:**
+>
+> E47: Previous affecting provision: section substituted (23.07.2007) by *Child Care (Amendment) Act 2007* (26/2007), s. 20, S.I. No. 509 of 2007.
+>
+> E48: Previous affecting provision: section amended (1.12.2006) by *Criminal Justice Act 2006* (26/2006), s. 156, S.I. No. 590 of 2006.
+>
+> E49: Previous affecting provision: section amended (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 11 item 17, S.I. No. 887 of 2004.
+
+### 228. Assignment of other functions.
+
+**228.**—
+
+F207[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F207: Part 11 (ss. 225 to 244) repealed (8.09.2011) by *Child Care (Amendment) Act 2011* (19/2011), s. 47, S.I. No. 453 of 2011.
+
+### 229. Policy directions.
+
+**229.**—
+
+F208[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F208: Part 11 (ss. 225 to 244) repealed (8.09.2011) by *Child Care (Amendment) Act 2011* (19/2011), s. 47, S.I. No. 453 of 2011.
+
+### 230. Membership, etc., of Board.
+
+**230.**—
+
+F209[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F209: Part 11 (ss. 225 to 244) repealed (8.09.2011) by *Child Care (Amendment) Act 2011* (19/2011), s. 47, S.I. No. 453 of 2011.
+>
+> **Editorial Notes:**
+>
+> E50: Previous affecting provision: words in subs. (3)(e) substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 137, S.I. No. 65 of 2007.
+>
+> E51: Previous affecting provision: subs. (1) amended and subs. (3) inserted (1.12.2006) by *Criminal Justice Act 2006* (26/2006), s. 157, S.I. No. 590 of 2006.
+>
+> E52: Previous affecting provision: subs. (3)(b) amended and subs. (7) inserted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 11 item 18, S.I. No. 887 of 2004.
+
+### 231. Removal and resignation of members.
+
+**231.**—
+
+F210[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F210: Part 11 (ss. 225 to 244) repealed (8.09.2011) by *Child Care (Amendment) Act 2011* (19/2011), s. 47, S.I. No. 453 of 2011.
+
+### 232. Temporary substitutes.
+
+**232.**—
+
+F211[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F211: Part 11 (ss. 225 to 244) repealed (8.09.2011) by *Child Care (Amendment) Act 2011* (19/2011), s. 47, S.I. No. 453 of 2011.
+
+### 233. Casual vacancies.
+
+**233.**—
+
+F212[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F212: Part 11 (ss. 225 to 244) repealed (8.09.2011) by *Child Care (Amendment) Act 2011* (19/2011), s. 47, S.I. No. 453 of 2011.
+
+### 234. Remuneration of members.
+
+**234.**—
+
+F213[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F213: Part 11 (ss. 225 to 244) repealed (8.09.2011) by *Child Care (Amendment) Act 2011* (19/2011), s. 47, S.I. No. 453 of 2011.
+
+### 235. Application to Board of sections 175, 177 and 178.
+
+**235.**—
+
+F214[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F214: Part 11 (ss. 225 to 244) repealed (8.09.2011) by *Child Care (Amendment) Act 2011* (19/2011), s. 47, S.I. No. 453 of 2011.
+
+### 236. Seal.
+
+**236.**—
+
+F215[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F215: Part 11 (ss. 225 to 244) repealed (8.09.2011) by *Child Care (Amendment) Act 2011* (19/2011), s. 47, S.I. No. 453 of 2011.
+
+### 237. Chief Executive of Board.
+
+**237.**—
+
+F216[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F216: Part 11 (ss. 225 to 244) repealed (8.09.2011) by *Child Care (Amendment) Act 2011* (19/2011), s. 47, S.I. No. 453 of 2011.
+
+### 238. Staff of Board.
+
+**238.**—
+
+F217[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F217: Part 11 (ss. 225 to 244) repealed (8.09.2011) by *Child Care (Amendment) Act 2011* (19/2011), s. 47, S.I. No. 453 of 2011.
+
+### 239. Superannuation of staff.
+
+**239.**—
+
+F218[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F218: Part 11 (ss. 225 to 244) repealed (8.09.2011) by *Child Care (Amendment) Act 2011* (19/2011), s. 47, S.I. No. 453 of 2011.
+>
+> **Editorial Notes:**
+>
+> E53: Defined benefit schemes established under section excluded from *Pensions Act 1990* (25/1990), Part IV by *Occupational Pension Schemes (Funding Standard) Regulations 1993* (S.I. No. 419 of 1993) reg. 6 and sch. C, as substituted (16.06.2014) by *Occupational Pension Schemes (Funding Standard) (Amendment) Regulations 2014* (S.I. No. 268 of 2014), reg. 2.
+>
+> E54: Power pursuant to section exercised (13.01.2011 with retrospective effect from 7.11.2003) by *Children Acts Advisory Board Employee Superannuation Scheme 2011* (S.I. No. 3 of 2011).
+>
+> E55: Power pursuant to section exercised (13.01.2011 with retrospective effect from 7.11.2003) by *Children Acts Advisory Board Spouses and Children’s Contributory Pension Scheme 2011* (S.I. No. 4 of 2011).
+>
+> E56: Any defined benefit scheme established under section is excluded from *Pensions Act 1990* (25/1990), Part III, by *Occupational Pension Schemes (Preservation of Benefits) Regulations 2002* (S.I. No. 279 of 2002), reg. 11 and sch. as substituted (26.02.2009) by *Occupational Pension Schemes (Preservation of Benefits)(Amendment) Regulations 2009* (S.I. No. 70 of 2009), reg. 2.
+
+### 240. Funding of Board.
+
+**240.**—
+
+F219[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F219: Part 11 (ss. 225 to 244) repealed (8.09.2011) by *Child Care (Amendment) Act 2011* (19/2011), s. 47, S.I. No. 453 of 2011.
+
+### 241. Accounts and audits of Board.
+
+**241.**—
+
+F220[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F220: Part 11 (ss. 225 to 244) repealed (8.09.2011) by *Child Care (Amendment) Act 2011* (19/2011), s. 47, S.I. No. 453 of 2011.
+
+### 242. Annual report and information.
+
+**242.**—
+
+F221[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F221: Part 11 (ss. 225 to 244) repealed (8.09.2011) by *Child Care (Amendment) Act 2011* (19/2011), s. 47, S.I. No. 453 of 2011.
+
+### 243. Delegation of functions.
+
+**243.**—
+
+F222[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F222: Part 11 (ss. 225 to 244) repealed (8.09.2011) by *Child Care (Amendment) Act 2011* (19/2011), s. 47, S.I. No. 453 of 2011.
+
+### 244. Regulations.
+
+**244.**—
+
+F223[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F223: Part 11 (ss. 225 to 244) repealed (8.09.2011) by *Child Care (Amendment) Act 2011* (19/2011), s. 47, S.I. No. 453 of 2011.
+
+## PART 12Protection of Children — PART 12 — Protection of Children
+
+### 245. Interpretation (Part 12).
+
+**245.**—(1) In this Part “registered medical practitioner” means a person registered in the General Register of Medical Practitioners established under the Medical Practitioners Acts, 1978 to 2000.
+
+(2) For the purposes of this Part—
+
+(*a*) any person who is the parent or guardian of a child or who is legally liable to maintain a child shall be presumed to have the custody of the child, and, as between parents, one parent shall not be deemed to have ceased to have the custody of the child by reason only that he or she has deserted or does not reside with, the other parent and child, and
+
+(*b*) any person to whose charge a child is committed by any person who has the custody of the child shall be presumed to have charge of the child, and
+
+(*c*) any person exercising authority over or having actual control of a child shall be presumed to have care of the child.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C25: References to “registered medical practitioner” and “General Register of Medical Practitioners” construed (16.03.2009) by *Medical Practitioners Act 2007* (25/2007), s. 108, S.I. No. 40 of 2009, as amended (21.12.2007) by *Health (Miscellaneous Provisions) Act 2007* (42/2007), s. 20 and sch. 2, commenced on enactment.
+>
+> **Construction of references to registered medical practitioner and Medical Council, etc**.
+>
+> **108.**— (1) Every reference to a registered medical practitioner contained in any enactment or any statutory instrument shall be construed as a reference to a registered medical practitioner within the meaning of section 2.
+>
+> (2) Every reference to the General Register of Medical Practitioners contained in any other enactment or any statutory instrument**[**, on and after the register establishment day,**]** shall be construed as a reference to any division of the register.
+
+### 246. Cruelty to children.
+
+**246.**—(1) It shall be an offence for any person who has the custody, charge or care of a child wilfully to assault, ill-treat, neglect, abandon or expose the child, or cause or procure or allow the child to be assaulted, ill-treated, neglected, abandoned or exposed, in a manner likely to cause unnecessary suffering or injury to the child’s health or seriously to affect his or her wellbeing.
+
+(2) A person found guilty of an offence under this section shall be liable—
+
+(*a*) on summary conviction, to a fine not exceeding £1,500 or imprisonment for a term not exceeding 12 months or both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding £10,000 or imprisonment for a term not exceeding 7 years or both.
+
+(3) A person may be convicted of an offence under this section—
+
+(*a*) notwithstanding the death of the child in respect of whom the offence is committed, or
+
+(*b*) notwithstanding that actual suffering or injury to the health of the child, or the likelihood of such suffering or injury, was obviated by the action of another person.
+
+(4) On the trial of any person for the murder of a child of whom the person has the custody, charge or care, the court or the jury, as the case may be, may, if satisfied that the accused is guilty of an offence under this section in respect of the child, find the accused guilty of that offence.
+
+(5) For the purposes of this section a person shall be deemed to have neglected a child in a manner likely to cause the child unnecessary suffering or injury to his or her health or seriously to affect his or her wellbeing if the person—
+
+(*a*) fails to provide adequate food, clothing, heating, medical aid or accommodation for the child, or
+
+(*b*) being unable to provide such food, clothing, heating, medical aid or accommodation, fails to take steps to have it provided under the enactments relating to health, social welfare or housing.
+
+(6) In *subsection (1)* the reference to a child’s health or wellbeing includes a reference to the child’s physical, mental or emotional health or wellbeing.
+
+(7) For the purposes of this section ill-treatment of a child includes any frightening, bullying or threatening of the child, and “ill-treat” shall be construed accordingly.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E57: Offence under section included in definition of “specified offence” for purposes of *Taxi Regulation Act 2013* (37/2013) (6.04.2014) by *Taxi Regulation Act 2013* (37/2013), ss. 10, 30, 31 and sch. part 2 item 6, S.I. No. 163 of 2014.
+>
+> E58: Offence under section included in sch. 1 (offences against children for purposes of offence under section 2) to *Criminal Justice (Withholding of Information on Offences against Children and Vulnerable Persons) Act 2012* (24/2012) (1.08.2012) by *Criminal Justice (Withholding of Information on Offences against Children and Vulnerable Persons) Act 2012* (24/2012), s. 2 and sch. 1 item 19, S.I. No. 281 of 2012.
+>
+> E59: A fine of £1,500 converted (1.01.1999) to €1,904.61. This translates into a Class C fine not greater than €2,500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> A fine of £10,000 converted (1.01.1999) to €12,697.38.
+
+### 247. Begging.
+
+**247.**—(1) A person is guilty of an offence if he or she causes or procures a child or, having the custody, charge or care of a child, allows the child to be in any street or public place, or to make house to house visits, for the purpose of begging or receiving alms or of inducing the giving of alms (whether or not there is any pretence of singing, playing, performing, offering anything for sale or otherwise).
+
+(2) If a person who has the custody, charge or care of a child is charged with an offence under this section, and it is proved that the child was in any street, public place or house for any purpose referred to in *subsection (1)*, the person shall be presumed to have allowed the child to be in the street, public place or house for that purpose, unless the contrary is proved.
+
+(3) A person found guilty of an offence under this section shall be liable on summary conviction to a fine not exceeding—
+
+(*a*) in the case of a first offence, F224[€750], or
+
+(*b*) in the case of a second or any subsequent offence, F224[€1,500].
+
+(4) In this section—
+
+“house” includes any building occupied for residential or business purposes and any part of a building so occupied;
+
+“public place” means any place to which the public have or are permitted to have access whether as of right or by permission and whether on payment or without payment;
+
+“street” includes any road, bridge, lane, footway, subway, square, alley or passage, whether a thoroughfare or not, which is for the time being open to the public, and any ground or carpark adjoining and open to a street shall be treated as forming part of a street.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F224: Substituted (2.02.2011) by *Criminal Justice (Public Order) Act 2011* (5/2011), s. 7(1), commenced on enactment.
+
+### 248. Allowing child to be in brothel.
+
+**248.**—(1) A person is guilty of an offence if, having the custody, charge or care of a child, he or she allows the child to reside in or to frequent a brothel.
+
+(2) A person found guilty of an offence under this section shall be liable on summary conviction to a fine not exceeding £1,500 or imprisonment for a term not exceeding 12 months or both.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E60: A fine of £1,500 converted (1.01.1999) to €1,904.61. This translates into a Class C fine not greater than €2,500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 249. Causing or encouraging sexual offence upon child.
+
+**249.**—(1) A person is guilty of an offence if, having the custody, charge or care of a child, he or she causes or encourages unlawful sexual intercourse or buggery with the child or causes or encourages the seduction or prostitution of, or a sexual assault on, the child.
+
+(2) A person found guilty of an offence under this section shall be liable on conviction on indictment to a fine not exceeding £25,000 or imprisonment for a term not exceeding 10 years or both.
+
+(3) For the purposes of this section a person shall be deemed to have caused or encouraged—
+
+(*a*) unlawful sexual intercourse or buggery with any child with whom unlawful sexual intercourse or buggery has taken place, or
+
+(*b*) the seduction or prostitution of a child who has been seduced or become a prostitute or a sexual assault on a child who has been sexually assaulted,
+
+if the person has knowingly allowed the child to consort with, or to enter or continue in the employment of, any prostitute or keeper of a brothel.
+
+(4) In this section—
+
+F225[...]
+
+“keeper of a brothel” means a person referred to in section 11 (which relates to brothel keeping) of the Criminal Law (Sexual Offences) Act, 1993;
+
+“sexual assault” has the meaning assigned to it by the Criminal Law (Rape) (Amendment) Act, 1990.
+
+(5) References in this section to sexual intercourse shall be construed as references to carnal knowledge as defined in section 63 of the Offences against the Person Act, 1861.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F225: Deleted (27.03.2017) by *Criminal Law (Sexual Offences) Act 2017* (2/2017), s. 49, S.I. No. 112 of 2017.
+>
+> **Editorial Notes:**
+>
+> E61: Spouse of accused compellable in respect of trials of offences under section in accordance with *Criminal Evidence Act 1992* (12/1992), s. 2(1), as substituted (30.05.2018) by *Criminal Law (Sexual Offences) Act 2017* (2/2017), s. 34 and s. 22(1), S.I. No. 172 of 2018.
+>
+> E62: Rules of evidence in relation to prosecution of offences under section prescribed by *Criminal Evidence Act 1992* (12/1992), ss. 2(1), as substituted (30.05.2017) by *Criminal Law (Sexual Offences) Act 2017* (2/2017), s. 34, and Part III, S.I. No. 172 of 2018.
+>
+> E63: Offence under section included in definition of “sexual offence” for purposes of *Criminal Justice (Spent Convictions and Certain Disclosures) Act 2016* (4/2016), Part 2, (29.04.2016) by *Criminal Justice (Spent Convictions and Certain Disclosures) Act 2016* (4/2016), s. 5 and sch. 1 part 1 and part 2 item 19, S.I. No. 215 of 2016.
+>
+> E64: Offence under section included in definition of "sexual abuse" (11.12.2015) by *Children First Act 2015* (36/2015), s. 2 and sch. 3 item 13, S.I. No. 555 of 2015.
+>
+> E65: Offence under section included in definition of “specified offence” for purposes of *Taxi Regulation Act 2013* (37/2013) (6.04.2014) by *Taxi Regulation Act 2013* (37/2013), ss. 10, 30, 31 and sch. part 2 item 6, S.I. No. 163 of 2014.
+>
+> E66: Offence under section included in “Offences against children for purposes of offence under section 2” (1.08.2012) by *Criminal Justice (Withholding of Information on Offences against Children and Vulnerable Persons) Act 2012* (24/2012), s. 2 and sch. 1 item 16, S.I. No. 281 of 2012.
+>
+> E67: A fine of £25,000 converted (1.01.1999) to €31,743.45.
+
+### 250. Amendment of Criminal Law (Sexual Offences) Act, 1993.
+
+**250.**—The Criminal Law (Sexual Offences) Act, 1993, is hereby amended by the substitution for section 6 of the following:
+
+“6. A person who solicits or importunes another person (whether or not for the purposes of prostitution) for the purposes of the commission of an act which would constitute an offence under section 3, 4 or 5 of this Act or section 1 or 2 of the Criminal Law Amendment Act, 1935, shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £1,500 or to imprisonment for a term not exceeding 12 months or to both.”.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E68: *Criminal Law (Sexual Offences) Act 1993* (20/1993), s. 6, was substituted (7.03.2007) by *Criminal Law (Sexual Offences) (Amendment) Act 2007* (6/2007), s. 2, commenced on enactment.
+
+### 251. Power to proceed in absence of child.
+
+**251.**—In any proceedings for an offence under this Part, or any offence mentioned in *Schedule 1,* it shall not be necessary for the child in respect of whom an offence is alleged to have been committed to be brought before a court or to be present for all or any part of the proceedings unless the court, either of its own motion or at the request of any of the parties to the proceedings, is satisfied that the presence of the child is necessary for the proper disposal of the case.
+
+### 252. Anonymity of child in court proceedings.
+
+**252.**—(1) F226[Subject to this section,] in relation to any proceedings for an offence against a child or where a child is a witness in any such proceedings—
+
+(*a*) no report which reveals the name, address or school of the child or includes any particulars likely to lead to his or her identification, and
+
+(*b*) no picture which purports to be or include a picture of the child or which is likely to lead to his or her identification,
+
+shall be published or included in a broadcast.
+
+F228[(1A) *Subsection (1)* shall not apply to the publication or inclusion in a broadcast of a report or picture referred to in *paragraph (a)* or *(b)* of that subsection relating to a child where—
+
+(*a*) the proceedings concerned relate to the death of the child, and
+
+(*b*) such publication or inclusion in a broadcast would not result in a contravention of—
+
+(i) that subsection in so far as it relates to another child who is alive, or
+
+(ii) *section 93*.]
+
+F229[(1B) *Subsection (1)* shall not apply to the publication or inclusion in a broadcast of a report or picture referred to in *paragraph (a)* or *(b)* of that subsection relating to the person against whom the offence concerned is alleged to have been committed where—
+
+(*a*) the person has attained the age of 18 years on or before the date on which the proceedings commence, and
+
+(*b*) such publication or inclusion in a broadcast of the report or picture would not result in a contravention of—
+
+(i) that subsection in so far as it relates to another person, who is a child and is alive, or
+
+(ii) *section 93*.]
+
+F230[(1C) *Subsection (1B)* is without prejudice to any other enactment or rule of law applicable to proceedings referred to in *subsection (1)* that operates to prohibit the publication or inclusion in a broadcast of a report or picture referred to in *paragraph (a)* or *(b)* of that subsection relating to any person.]
+
+F227[(2) The court—
+
+(*a*) shall, subject to such conditions (if any) as it considers appropriate, dispense with the requirements of *subsection (1)* in relation to a child referred to in that subsection where the proceedings concerned relate to the death of that child unless it is satisfied that to do so would—
+
+(i) not be in the best interests of another child referred to in that subsection who is alive, or
+
+(ii) contravene *section 93*, and
+
+(*b*) may, subject to such conditions (if any) as it considers appropriate, dispense with the requirements of *subsection (1)* in relation to a child referred to in that subsection where the proceedings concerned do not relate to the death of a child and where the court is satisfied that to so do—
+
+(i) is appropriate having regard to the best interests of that child,
+
+(ii) would not be contrary to the best interests of another child referred to in that subsection who is alive, and
+
+(iii) would not contravene *section 93*.]
+
+(3) Where the court dispenses with the requirements of *subsection (1)*, the court shall explain in open court why it is satisfied it should do so.
+
+(4) *Subsections (3)* to *(6)* of *section 51* shall apply, with the necessary modifications, for the purposes of this section.
+
+(5) Nothing in this section shall affect the law as to contempt of court.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F226, F227: Substituted (7.05.2021) by *Children (Amendment) Act 2021* (6/2021), s. 1(a), (c), S.I. No. 199 of 2021, subject to transitional provision in subs. (2).
+>
+> F228, F229, F230: Inserted (7.05.2021) by *Children (Amendment) Act 2021* (6/2021), s. 1(b), S.I. No. 199 of 2021, subject to transitional provision in subs. (2).
+
+### 253. Mode of charging offences.
+
+**253.**—(1) Where a person is charged with committing any offence under this Part, or any offence mentioned in *Schedule 1*, in respect of two or more children, the same information or summons may charge the offence in respect of all or any of them, but the person charged shall not, if he or she is summarily convicted, be liable to a separate penalty in respect of each child except upon separate informations.
+
+(2) The same information or summons may charge such a person—
+
+(*a*) with the offences of assault, ill-treatment, neglect, abandonment or exposure together or separately, or
+
+(*b*) with committing all or any of those offences in a manner likely to cause unnecessary suffering or injury to the child’s health or seriously to affect his or her wellbeing, alternatively or together,
+
+but when those offences are charged together the person charged shall not, if he or she is summarily convicted, be liable to a separate penalty for each.
+
+(3) Where an offence under this Part or any offence mentioned in *Schedule 1* charged against any person is a continuing offence, it shall not be necessary to specify in the information, summons or indictment the date of the acts or omissions constituting the offence.
+
+### 254. Powers of arrest without warrant, etc.
+
+**254.**—(1) Where a member of the Garda Síochána reasonably suspects—
+
+(*a*) that an offence under this Part or any offence mentioned in *Schedule 1* has been committed or attempted, and
+
+*(b)* that a person has committed any such offence or attempted to commit it,
+
+the member may arrest the person without warrant if the member—
+
+(i) reasonably suspects that unless the person is arrested he or she either will abscond for the purposes of evading justice or will obstruct the course of justice,
+
+(ii) having enquired of the person, has reasonable doubts as to the person’s identity or place of abode, or
+
+(iii) has reasonable grounds for believing that there is an immediate and serious risk to the safety, health or wellbeing of the child concerned.
+
+(2) *Subsection (1)* is without prejudice to any other powers exercisable by a member of the Garda Síochána.
+
+(3) *Section 68* (which empowers members of the Garda Síochána to release a child on bail in certain cases) shall apply to a child arrested under this section and section 31 of the Act of 1967 shall apply to an adult so arrested.
+
+(4) Where a member of the Garda Síochána makes an arrest under this section and the member has reasonable grounds for believing that—
+
+(*a*) there is an immediate and serious risk to the safety, health or wellbeing of the child, and
+
+(*b*) it would not be sufficient for the protection of the child from such immediate and serious risk to await the making of an application for an emergency care order by F231[the F232[Child and Family Agency]] under section 13 of the Act of 1991,
+
+the member may remove the child to safety and the provisions of Part III of the Act of 1991 shall then apply as if the removal were a removal under section 12 of that Act.
+
+(5) For the purpose of arresting a person under any power conferred by this section a member of the Garda Síochána, accompanied by such other members of the Garda Síochána or such other persons as may be necessary, may enter (if need be, by force) and search any place where the person is or the member reasonably suspects him or her to be.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F231: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part. 11 item 19, S.I. No. 887 of 2004.
+>
+> F232: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 14 item 1, S.I. No. 502 of 2013.
+
+### 255. Power to take deposition of child.
+
+**255.**—(1) Without prejudice to section 4F of the Act of 1967, where a judge of the District Court is satisfied on the evidence of a registered medical practitioner that the attendance before a court of any child, in respect of whom an offence under this Part, or any offence mentioned in *Schedule 1,* is alleged to have been committed, would involve serious danger to the safety, health or wellbeing of the child, the judge may take the evidence either—
+
+(*a*) by way of sworn deposition, or
+
+(*b*) in case the evidence is to be given through a live television link pursuant to Part III of the Criminal Evidence Act, 1992, or section 39 of the Criminal Justice Act, 1999, through such a link.
+
+(2) The rules mentioned in section 4F(3) of the Act of 1967 shall apply and have effect in relation to the taking of evidence under *subsection (1)*.
+
+(3) A deposition taken under *subsection (1)* or a videorecording of evidence given by a child under *paragraph (b)* of that subsection shall be deemed to have been taken under section 4F of the said Act of 1967, and section 4G (admissibility of deposition or videorecording) shall apply and have effect accordingly.
+
+(4) Notwithstanding the provisions of this section, in any criminal proceedings for an offence under this Part or any offence mentioned in *Schedule 1*, the evidence of a child under 14 years of age may be taken or received otherwise than on oath or affirmation if the court is satisfied that the child is capable of giving an intelligible account of events which are relevant to those proceedings.
+
+(5) If any child whose evidence is taken as aforesaid makes a statement material in the proceedings concerned which he or she knows to be false or does not believe to be true, the child shall be guilty of an offence and on being found guilty shall be liable to be dealt with as if he or she had been guilty of perjury.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C26: Reference to perjury construed (28.07.2021) by *Criminal Justice (Perjury and Related Offences) Act 2021* (13/2021), s. 4 and sch. 2 item 46, S.I. No. 378 of 2021.
+>
+> **References to perjury or subornation of perjury**
+>
+> **4.** ...
+>
+> (2) A reference in an enactment specified in *Schedule 2* to perjury or to subornation of perjury, howsoever described, in relation to an act committed on or after the coming into operation of this subsection, shall be construed as a reference to perjury or to subornation of perjury, as the case may be, within the meaning of this Act.
+>
+> Schedule 2
+>
+> ...
+>
+> 46\. Children Act 2001, section 255(5)
+>
+> ...
+
+### 256. Presumption and determination of age of child victim.
+
+**256.**—(1) Where in a charge or indictment for an offence under this Part or any offence mentioned in *Schedule 1*, except an offence under the Criminal Law Amendment Act, 1885, or the Criminal Law Amendment Act, 1935—
+
+(*a*) it is alleged that the person by or in respect of whom the offence was committed was a child or was under or had attained any specified age, and
+
+(*b*) the person appears to the court to have been at the date of the commission of the alleged offence a child or to have been under or to have attained the specified age, as the case may be,
+
+the person shall for the purposes of this Part be presumed, unless the contrary is proved, at that date to have been a child or to have been under or to have attained that age, as the case may be.
+
+(2) Where a person is charged with an offence to which *subsection (1)* applies in respect of a person apparently under a specified age, it shall be a defence to prove that the person was of or over that age.
+
+### 257. Clearing of court in certain cases.
+
+**257.**—(1) Where in any proceedings for an offence a person who, in the opinion of the court, is a child is called as a witness, the court may exclude from the court during the taking of his or her evidence all persons except officers of the court, persons directly concerned in the proceedings, *bona fide* representatives of the Press and such other persons (if any) as the court may in its discretion permit to remain.
+
+(2) The powers of a court under this section shall be in addition and without prejudice to any other power of the court to hear proceedings *in camera* or to exclude a witness until his or her evidence is required or to Part III (which relates to evidence through a television link in certain proceedings) of the Act of 1992.
+
+(3) The said Part III and section 22 (which relates to compellability of spouses to give evidence at instance of prosecution in certain cases) of the Act of 1992 are hereby amended by the deletion of “17 years” wherever it occurs and the substitution of “18 years”.
+
+(4) In this section “the Act of 1992” means the Criminal Evidence Act, 1992.
+
+## PART 12A Anti-Social Behaviour by Children — PART 12A — Anti-Social Behaviour by Children
+
+### F233[257A. Interpretation (Part 12A).
+
+**257A.**—(1) In this Part—
+
+“behaviour order” means an order under *section 257D*;
+
+“behaviour warning” shall be construed in accordance with *section 257B*;
+
+“child” means a child who is at least 12 years of age and under the age of 18 years;
+
+“good behaviour contract” has the meaning given to it in *section 257C*;
+
+“Programme” means the diversion programme referred to in *section 18*.
+
+(2) For the purposes of this Part, a child behaves in an anti-social manner if the child causes or, in the circumstances, is likely to cause, to one or more persons who are not of the same household as the child—
+
+(*a*) harassment,
+
+(*b*) significant or persistent alarm, distress, fear or intimidation, or
+
+(*c*) significant or persistent impairment of their use or enjoyment of their property.
+
+(3) This Part does not apply—
+
+(*a*) to any behaviour of a child that takes place before this section comes into force, or
+
+(*b*) to any act or omission of a child in respect of which criminal proceedings have been instituted against the child.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F233: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 159, S.I. No. 65 of 2007.
+
+### 257B. F234[Behaviour warning to child.
+
+**257B.**—(1) Subject to *subsection (5)*, a member of the Garda Síochána may issue a behaviour warning to a child who has behaved in an anti-social manner.
+
+(2) The behaviour warning may be issued orally or in writing and, if it is issued orally, shall be recorded in writing as soon as reasonably practicable and a written record of the behaviour warning shall be served on the child and his or her parents or guardian personally or by post.
+
+(3) The behaviour warning or, if it is given orally, the written record of it shall—
+
+(*a*) include a statement that the child has behaved in an anti-social manner and indicate what that behaviour is and when and where it took place,
+
+(*b*) demand that the child cease the behaviour or otherwise address the behaviour in the manner specified in the warning, and
+
+(*c*) include notice that—
+
+(i) failure to comply with a demand under paragraph (*b*), or
+
+(ii) issuance of a subsequent behaviour warning,
+
+may result in an application being made for a behaviour order.
+
+(4) The member of the Garda Síochána referred to in *subsection (1)* may require the child to give his or her name and address to the member for the purposes of the behaviour warning or the written record of it.
+
+(5) A behaviour warning may not be issued more than one month after the time that—
+
+(*a*) the behaviour took place, or
+
+(*b*) in the case of persistent behaviour, the most recent known instance of that behaviour took place.
+
+(6) Subject to *subsection (7)*, a behaviour warning remains in force against the child to whom it is issued for 3 months from the date that it is issued.
+
+(7) If an application is made under *section 257D* in respect of the child, the behaviour warning remains in force against the child until the application is determined by the Children Court.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F234: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 160, S.I. No. 65 of 2007.
+
+### 257C. Meeting to discuss anti-social behaviour by child.
+
+F236[**257C.**—(1) The superintendent in charge of a district, on receipt of a report from a member of the Garda Síochána in that district concerning the behaviour of a child, shall convene a meeting to discuss the child’s behaviour if satisfied that—
+
+(*a*) the child has behaved in an anti-social manner and is likely to continue doing so, and
+
+(*b*) the child has previously behaved in an anti-social manner, but—
+
+(i) has not received a warning in respect of previous anti-social behaviour, or
+
+(ii) holding such a meeting would help to prevent further such behaviour by the child.
+
+(2) A report under *subsection (1)* shall be prepared only after a behaviour warning has been given to the child by a member of the Garda Síochána in relation to the child’s anti-social behaviour.
+
+(3) The report shall include details of the behaviour warning.
+
+(4) The following persons shall be asked to attend a meeting convened under *subsection (1)*:
+
+(*a*) the child;
+
+(*b*) his or her parents or guardian;
+
+(*c*) the member of the Garda Síochána who warned the child in relation to his or her anti-social behaviour;
+
+(*d*) if the child is already participating in the Programme, a juvenile liaison officer.
+
+(5) The superintendent may request the attendance at the meeting of such other person or persons as he or she considers would be of assistance to the child or the parents or guardian, including a member of the F235[area-based neighbourhood community safety forum (within the meaning of Part 3 of the Policing, Security and Community Safety Act 2024)].
+
+(6) The meeting shall discuss the child’s behaviour.
+
+(7) Subject to *subsection (8)*, at the meeting—
+
+(*a*) the superintendent shall explain in simple language to the child and the parents or guardian what the offending behaviour is and the effect it is having on any other person or persons,
+
+(*b*) the child shall be asked to acknowledge that the behaviour has occurred and to undertake to stop it,
+
+(*c*) the parents or guardian shall be asked to acknowledge the child’s behaviour and to undertake to take steps to prevent a recurrence,
+
+(*d*) if the child and the parents or guardian agree to give those undertakings, a document (in this section referred to as a “good behaviour contract”) incorporating the undertakings shall be prepared and, where practicable, be signed by the child and the parents or guardian.
+
+(8) The functions of a superintendent under *subsection (7)* may, at his or her request, be performed by a member of the Garda Síochána not below the rank of inspector, and in that case the member shall provide the superintendent with a written report of the outcome of the meeting.
+
+(9) A good behaviour contract shall expire at the end of a period not exceeding 6 months from the date of the meeting but may be renewed by the child and the parents or guardian for a further period of not more than 3 months.
+
+(10) The superintendent may from time to time review the child’s behaviour in the light of the undertaking given by him or her in the good behaviour contract.
+
+(11) If the child—
+
+(*a*) has behaved, or continues to behave, in breach of the undertaking, or
+
+(*b*) in the opinion of the superintendent or the parent or guardian, is likely to so behave,
+
+the superintendent may reconvene the meeting referred to in *subsection (1)* and renew the contract if the child and the parents so agree.
+
+(12) A renewal of the contract under *subsection (11)* shall be for a period not exceeding—
+
+(*a*) 6 months from the date of the original contract, or
+
+(*b*) 9 months from the date of the original contract,
+
+whichever is the shorter.
+
+(13) Nothing in this section prevents a child being the subject of a further good behaviour contract if the child and the parents or guardian so agree.
+
+(14) This subsection applies—
+
+(*a*) where a superintendent, having considered a report referred to at *subsection (1)*, does not consider that convening a meeting under this section would help to prevent anti-social behaviour by the child concerned, or
+
+(*b*) where such a meeting has been convened and—
+
+(i) a good behaviour contract was not prepared because the child or the parents or guardian refused to give the necessary undertaking, or
+
+(ii) the child is in breach of an undertaking given by him or her in such a contract.
+
+(15) Where *subsection (14)* applies, either—
+
+(*a*) the child shall be admitted to the Programme, in which case *Part 4* shall apply accordingly, with any necessary modifications, in relation to him or her, or
+
+(*b*) the superintendent, if satisfied that the child’s participation in the Programme would not be appropriate in the circumstances, shall apply to the Children Court for a behaviour order in respect of the child.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F235: Substituted (2.04.2025) by *Policing, Security and Community Safety Act 2024* (01/2024), s. 276, S.I. No. 107 of 2025.
+>
+> F236: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 161, S.I. No. 65 of 2007.
+>
+> F237: Substituted by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 4(1) and sch. 1 ref. 21, not commenced as of date of revision, subject to transitional provisions in ss. 13, 26.
+>
+> **Modifications (not altering text):**
+>
+> C27: Prospective affecting provision: subs. (1) amended by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 4(1) and sch. 1 ref. 21, not commenced as of date of revision, subject to transitional provisions in ss. 13, 26.
+>
+> **257C.**—(1) F237[A superintendent in a Garda Síochána division, on receipt of a report from a member of the Garda Síochána in that division] concerning the behaviour of a child, shall convene a meeting to discuss the child’s behaviour if satisfied that—
+
+### 257D. Behaviour order for children over 12.
+
+F238[**257D**.—(1) The Children Court may, on the application of a member of the Garda Síochána not below the rank of F239[inspector], make an order (in this Part referred to as a “behaviour order”) prohibiting a child of or above the age of 12 years from doing anything specified in the order if the court is satisfied that—
+
+(*a*) the child, notwithstanding his or her participation in the procedures provided for in *section 257C*, has continued and is likely to continue to behave in an anti-social manner,
+
+(*b*) the order is necessary to prevent the child from continuing to behave in that manner,
+
+(*c*) having regard to the effect or likely effect of that behaviour on other persons, the order is reasonable and proportionate in the circumstances.
+
+(2) The application shall indicate the extent of the child’s participation in the procedures under *section 257C*.
+
+(3) The Court may impose terms or conditions in the behaviour order that it considers appropriate.
+
+(4) An order under this section may, for the purpose of protecting a person or persons from further anti-social behaviour by a child—
+
+(*a*) prohibit a child from behaving in a specified manner, and, where appropriate, from so behaving at or in the vicinity of a specified place,
+
+(*b*) require the child to comply with specified requirements, including requirements relating to—
+
+(i) school attendance, and
+
+(ii) reporting to a member of the Garda Síochána, a teacher or other person in authority in a school,
+
+and
+
+(*c*) provide for the supervision of the child by a parent or guardian or any other specified person or authority with an interest in the child’s welfare.
+
+(5) The respondent child in an application under this section may not at any time be charged with, prosecuted or punished for an offence if the act or omission that constitutes the offence is the same behaviour that is the subject of the application and is to be determined by the court under *subsection (1)*.
+
+(6) Unless discharged under *subsection (7)*, a behaviour order remains in force for no more than the lesser of the following:
+
+(*a*) 2 years from the date of the order;
+
+(*b*) the period specified in the order.
+
+(7) The Court may vary or discharge a behaviour order on the application of the child concerned or his or her parents or guardian or of a member of the Garda Síochána not below the rank of F240[inspector].
+
+(8) An applicant under *subsection (1)* or *(7)* shall give notice of the application—
+
+(*a*) where the applicant under either subsection is a member of the Garda Síochána, to the child and his or her parents or guardian, or
+
+(*b*) where the applicant under *subsection (7)* is the child, to the applicant under *subsection (1)* and the child’s parents or guardian, and
+
+(*c*) where the applicant under *subsection (7)* is the child’s parent or guardian, to the child and the applicant under *subsection (1)*.
+
+(9) The standard of proof in proceedings under this section is that applicable to civil proceedings.
+
+(10) The jurisdiction conferred on the Court by this section may be exercised as follows:
+
+(*a*) in respect of *subsections (1)*, *(3)* and *(4)*, by a judge of the District Court for the time being assigned to the district court district in which the child resides at the time the application is made;
+
+(*b*) in respect of *subsection (7)*, by a judge of the District Court for the time being assigned to the district court district in which the child subject to the behaviour order resides at the time the application is made.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F238: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 162, S.I. No. 65 of 2007.
+>
+> F239, F240: Substituted (10.08.2026) by *Criminal Law, Civil Law and Defence (Miscellaneous Provisions) Act 2026* (34/2026), s. 116, S.I. No. 383 of 2026, art. 3(e).
+
+### >257E. Appeal against behaviour order.
+
+F241[**257E.**—(1) A child against whom a behaviour order has been made may, within 21 days from the date that the order is made, appeal the making of the order to the Circuit Court.
+
+(2) An appellant under *subsection (1)* shall give notice of the appeal to the superintendent in charge of the Garda Síochána district in which the appellant resides.
+
+(3) Notwithstanding the appeal, the behaviour order shall remain in force unless the court that made the order or the appeal court places a stay on it.
+
+(4) An appeal under this section shall be in the nature of a rehearing of the application under *section 257D* and, for this purpose, *subsections (1)*, *(3)* and *(4)* of that section apply in respect of the matter.
+
+(5) If on appeal under this section, the appeal court makes a behaviour order, the provisions of *section 257D(6)* to *(8)* apply in respect of the matter.
+
+(6) Notwithstanding the appeal period described in *subsection (1)*, the Circuit Court may, on application by the child subject to the behaviour order or the child’s parent or guardian, extend the appeal period if satisfied that exceptional circumstances exist which warrant the extension.
+
+(7) The standard of proof in proceedings by this section is that applicable to civil proceedings.
+
+(8) The jurisdiction conferred on the Circuit Court under this section may be exercised as follows:
+
+(*a*) in respect of *section 257D(1)*, *(3)* and *(4)* as those provisions apply to the Circuit Court under *subsection (4)* of this section, by a judge of the Circuit Court for the time being assigned to the circuit in which the appellant under this section resides at the time the appeal is commenced;
+
+(*b*) in respect of *section 257D(7)* as it applies to the Circuit Court under *subsection (5)* of this section, by a judge of the Circuit Court for the time being assigned to the circuit in which the child subject to the behaviour order resides at the time the application is made;
+
+(*c*) in respect of *subsection (6)* of this section, by a judge of the Circuit Court for the time being assigned to the circuit in which the child subject to the behaviour order resides at the time the application is made.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F241: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 163, S.I. No. 65 of 2007.
+>
+> F242: Substituted by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 4(1) and sch. 1 ref. 21, subject to transitional provisions in ss. 13, 26, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C28: Prospective affecting provision: subs. (2) amended by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 4(1) and sch. 1 ref. 21, not commenced as of date of revision, subject to transitional provisions in ss. 13, 26.
+>
+> (2) An appellant under *subsection (1)* shall give notice of the appeal to F242[a superintendent in the Garda Síochána division] in which the appellant resides.
+
+### 257F. Offences.
+
+F243[**257F.**—(1) A child commits an offence who—
+
+(*a*) fails to give a name and address when required to do so under *section 257B(4)* or gives a name or address that is false or misleading in response to that requirement, or
+
+(*b*) without reasonable excuse, does not comply with a behaviour order to which the child is subject.
+
+(2) A member of the Garda Síochána may arrest a child without warrant if the member has reasonable grounds to believe that the child has committed an offence under *subsection (1)(b)*.
+
+(3) A child who is guilty of an offence under this section is liable on summary conviction—
+
+(*a*) in the case of an offence under *subsection (1)(a)*, to a fine not exceeding €200, and
+
+(*b*) in the case of an offence under *subsection (1)(b)*, to a fine not exceeding €800 or detention in a children detention school for a period not exceeding 3 months or both.
+
+(4) If a child is ordered to pay a fine and costs on conviction of an offence under *subsection (1)(b)*, the aggregate of the fine and costs shall not exceed €1,500.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F243: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 164, S.I. No. 65 of 2007. A fine of €200 translates into a class E fine not greater than €500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(3) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> A fine of €800 translates into a class D fine not greater than €1,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 7(3) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> £1,500 converted (1.01.1999) to €1,904.61.
+
+### 257G. Legal aid.
+
+F244[**257G.**—(1) Subject to *subsection (2)*, a child who is the subject of an application for a behaviour order may be granted a certificate for free legal aid (in this Part referred to as a “legal aid (behaviour order) certificate”) in preparation for and representation at the hearing of—
+
+(*a*) the application,
+
+(*b*) any application by the child or his or her parents or guardian to vary or discharge a behaviour order,
+
+(*c*) any appeal by the child against the making of the behaviour order, or
+
+(*d*) any proceedings in the High Court or Supreme Court arising out of the making of the application, the appeal or any subsequent proceedings.
+
+(2) A legal aid (behaviour order) certificate may not be granted under *subsection (1)* unless it appears to the court hearing the application for the certificate—
+
+(*a*) that the means of the child concerned or of his or her parents or guardian are insufficient to enable him or her to obtain legal aid, and
+
+(*b*) that, by reason of the gravity of the alleged anti-social behaviour or of exceptional circumstances, it is essential in the interests of justice that the child should have legal aid in preparation for and representation at the hearing concerned.
+
+(3) A child who is granted a legal aid (behaviour order) certificate is entitled—
+
+(*a*) to free legal aid in preparation for and representation at the hearing of the application for a behaviour order and any proceedings referred to in *subsection (1)(b)*, *(c)* and *(d)*, and
+
+(*b*) to have, in such manner as may be prescribed—
+
+(i) a solicitor assigned to the child in relation to the application for the behaviour order or any application to vary or discharge it,
+
+(ii) a solicitor assigned to the child in relation to any other such proceedings, and
+
+(iii) if the court granting the certificate considers it appropriate, a counsel assigned to the child in relation to any other proceedings referred to in *subparagraph (ii)*.
+
+(4) Where a legal aid (behaviour order) certificate is granted, any fees, costs or other expenses properly incurred in preparation for and representation at the proceedings concerned shall, subject to regulations under *section 257H*, be paid out of moneys provided by the Oireachtas.
+
+(5) A child applying for a legal aid (behaviour order) certificate may be required by the court granting the certificate to furnish a written statement of his or her means and the means of his or her parents or guardian.
+
+(6) A person who, for the purpose of obtaining free legal aid under this section, whether for himself or herself or for some other person, knowingly makes a false or misleading statement or representation either orally or in writing, or knowingly conceals any material fact, is guilty of an offence and liable on summary conviction to a fine not exceeding €2,500 or imprisonment for a term not exceeding 6 months or both.
+
+(7) On conviction of a person for an offence under this section, the court by which the person is convicted may, if in the circumstances of the case it thinks fit, order the person to pay to the Minister the whole or part of any sum paid under *subsection (4)* in respect of the free legal aid in relation to which the offence was committed, and any sum so paid to the Minister shall be paid into and disposed of for the benefit of the Exchequer in accordance with the directions of the Minister for Finance.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F244: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 165, S.I. No. 65 of 2007. A fine of €2,500 translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> **Modifications (not altering text):**
+>
+> C29: Functions under subs. (7) transferred and terms “Department of Finance” and “Minister for Finance” construed (20.9.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) (No. 2) Order 2011* (S.I. No. 480 of 2011), arts. 2, 3(a), 4 and sch., subject to transitional provisions in arts. 5-9.
+>
+> ...
+>
+> **2.**— (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or any instrument made thereunder and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> **3.**— The functions conferred on the Minister for Finance by or under—
+>
+> (*a*) the provisions of the enactments specified in the Schedule, and
+>
+> ...
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> **4.**— References to the Minister for Finance contained in any Act or instrument made under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> SCHEDULE
+>
+> Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 24 of 2001</td><td>Children Act 2001</td><td>Sections 257G(7) and 257H(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 257H. Regulations (legal aid).
+
+F245[**257H.**—(1) The Minister may make regulations for carrying *section 257G* into effect.
+
+(2) The regulations may, in particular, prescribe—
+
+(*a*) the form of certificates granted under that section,
+
+(*b*) the rates or scales of payment of any fees, costs or other expenses payable out of moneys provided by the Oireachtas pursuant to those certificates, and
+
+(*c*) the manner in which solicitors and counsel are to be assigned pursuant to those certificates.
+
+(3) Regulations in *subsection (2)(b)* shall not be made without the consent of the Minister for Finance.
+
+(4) Pending the making of regulations under this section, the regulations under section 10 of the Criminal Justice (Legal Aid) Act 1962 shall apply and have effect, with the necessary modifications, in relation to certificates for free legal aid granted under *section 257G* of this Act as if they were certificates for free legal aid granted under the Criminal Justice (Legal Aid) Act 1962.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F245: Inserted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 166, S.I. No. 65 of 2007.
+>
+> **Modifications (not altering text):**
+>
+> C30: Functions under subs. (3) transferred and terms “Department of Finance” and “Minister for Finance” construed (20.9.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) (No. 2) Order 2011* (S.I. No. 480 of 2011), arts. 2, 3(a), 4 and sch., subject to transitional provisions in arts. 5-9.
+>
+> ...
+>
+> **2.**— (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or any instrument made thereunder and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> **3.**— The functions conferred on the Minister for Finance by or under—
+>
+> (*a*) the provisions of the enactments specified in the Schedule, and
+>
+> ...
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> **4.**— References to the Minister for Finance contained in any Act or instrument made under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> SCHEDULE
+>
+> Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 24 of 2001</td><td>Children Act 2001</td><td>Sections 257G(7) and 257H(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+## PART 13Miscellaneous — PART 13 — Miscellaneous
+
+### 258. Non-disclosure of certain findings of guilt.
+
+**258.**—(1) Where a person has been found guilty of an offence whether before or after the commencement of this section, and—
+
+(*a*) the offence was committed before the person attained the age of 18 years,
+
+(*b*) the offence is not an offence required to be tried by the Central Criminal Court,
+
+(*c*) a period of not less than 3 years has elapsed since the finding of guilt, and
+
+(*d*) the person has not been dealt with for an offence in that 3-year period,
+
+then, after the end of the 3-year period or, where the period ended before the commencement of this section, after the commencement of this section, the provisions of *subsection (4)* shall apply to the finding of guilt.
+
+(2) This section shall not apply to a person who is found guilty of an offence unless he or she has served a period of detention or otherwise complied with any court order imposed on him or her in respect of the finding of guilt.
+
+(3) *Subsection (2)* shall not prevent the application of this section to a person who—
+
+(*a*) failed to pay a fine or other sum adjudged to be paid by, or imposed on, the person on a finding of guilt or breach of a condition of a recognisance to keep the peace or to be of good behaviour, or
+
+(*b*) breached any condition or requirement applicable in relation to an order of a court which renders a person to whom it applies liable to be dealt with for the offence in respect of which the order was made.
+
+(4) (*a*) A person to whom this section applies shall be treated for all purposes in law as a person who has not committed or been charged with or prosecuted for or found guilty of or dealt with for the offence or offences which were the subject of the finding of guilt; and, notwithstanding any other statutory provision or rule of law to the contrary but, subject as aforesaid—
+
+(i) no evidence shall be admissible in any proceedings before a judicial authority to prove that any such person has committed or been charged with or prosecuted for or found guilty of or dealt with for any offence which was the subject of that finding, and
+
+(ii) a person shall not, in any such proceedings, be asked, and, if asked, shall not be required to answer, any question relating to his or her past which cannot be answered without acknowledging or referring to a finding or findings to which this section refers or any circumstances ancillary thereto.
+
+(*b*) Subject to any order made under *paragraph (d)*, where a question seeking information with respect to a person’s previous finding of guilt, offences, conduct or circumstances is put to him or her or to any other person otherwise than in proceedings before a judicial authority—
+
+(i) the question shall be treated as not relating to findings to which this section applies or to any circumstances ancillary to such findings, and the answer thereto may be framed accordingly, and
+
+(ii) the person questioned shall not be subjected to any liability or otherwise prejudiced in law by reason of any failure to acknowledge or disclose any such findings or any circumstances ancillary to the findings in his or her answer to the question.
+
+(*c*) Subject to any order made under *paragraph (d)*—
+
+(i) any obligation imposed on any person by any rule of law or by any agreement or arrangement to disclose any matters to any other person shall not extend to requiring him or her to disclose a finding to which this section applies or any circumstances ancillary to the finding (whether the finding is his her own or another’s), and
+
+(ii) a finding to which this section applies, or any circumstances ancillary thereto or any failure to acknowledge or disclose a finding to which this section applies or any such circumstances, shall not be a proper ground for dismissing or excluding a person from any office, profession, occupation or employment, or for prejudicing him or her in any way in any occupation or employment.
+
+(*d*) The Minister may by order make such provision as in his or her opinion is appropriate—
+
+(i) for excluding or modifying the application of either or both of *subparagraphs (i)* and *(ii)* of *paragraph (b)* in relation to questions put in such circumstances as may be specified in the order, or
+
+(ii) for exceptions from the provisions of *paragraph (c)* in relation to such cases, and findings of such a description, as may be so specified.
+
+(5) An order under *subsection (4)(d)* may be amended or revoked by the Minister, including an order under this subsection.
+
+(6) A draft of any order proposed to be made under this section shall be laid before each House of the Oireachtas and the order shall not be made until a resolution approving of the draft has been passed by each such House.
+
+(7) For the purposes of this section any of the following circumstances are circumstances ancillary to a finding, that is to say:
+
+(*a*) the offence or offences which were the subject of the finding,
+
+(*b*) the conduct constituting that offence or those offences,
+
+(*c*) any process or proceedings preliminary to the finding,
+
+(*d*) any penalty imposed in respect of it,
+
+(*e*) any proceedings (whether by way of appeal or otherwise) for reviewing any such finding or penalty,
+
+(*f*) anything done in pursuance of or undergone in compliance with any such penalty.
+
+(8) For the purposes of this section “proceedings before a judicial authority” includes, in addition to proceedings before a court, proceedings before any tribunal, body or person having power—
+
+(*a*) by virtue of any statutory provision, law, custom or practice,
+
+(*b*) under the rules governing any association, institution, profession, occupation or employment, or
+
+(*c*) under any provision of an agreement providing for arbitration with respect to questions arising thereunder,
+
+to determine any question affecting the rights, privileges, obligations or liabilities of any person, or to receive evidence affecting the determination of any such question.
+
+### 259. Duties of probation officers.
+
+**259.**—While a child remains under the supervision of a probation and welfare officer pursuant to this Act, whether in accordance with an order of a court or otherwise, the officer shall, subject to the directions of the court, where appropriate, and in addition to the terms of and any conditions attaching to any particular placement—
+
+(*a*) visit, assist, advise and befriend the child and, where feasible, the child’s parents or guardian or other adult in whose residence the child may be residing,
+
+(*b*) see that the child observes the terms and any conditions attaching to the supervision, and
+
+(*c*) when necessary and appropriate, endeavour to find the child suitable employment and accommodation.
+
+### 260. Interference with supervisor.
+
+**260.**—Where a child is under the supervision of a probation and welfare officer or a juvenile liaison officer pursuant to this Act, it shall not be lawful for the child’s parents or guardian to exercise, as respects the child, their rights and powers as parents or guardian in such a manner as to interfere with the supervision of the child by the probation and welfare officer or the juvenile liaison officer, as the case may be.
+
+### 261. Powers of Garda Síochána.
+
+**261.**—(1) Where, pursuant to this Act, a child is required to remain in a specified residence for specified periods, any member of the
+
+Garda Síochána may call to the residence, at any reasonable time within a period during which the child is required to remain there, for the purpose of establishing that the child is present in the residence at that time.
+
+(2) The member may request any adult at the residence to produce the child to the member, and failure to do so shall give rise to an inference that the child is not at that time present in the residence.
+
+(3) In any proceedings against a child for failure to comply with any term or condition of a court order that required the child to remain in a specified residence, a failure under *subsection (2)* to produce the child may be accepted by a court as evidence of non-compliance with the order.
+
+(4) Such a failure to produce a child may also render the child, if detained in a children detention school, ineligible for temporary leave from the school in accordance with the rules of the school in that respect.
+
+### 262. Delegation by F246[Director of the Probation and Welfare Service].
+
+**262.**—(1) The F246[Director of the Probation and Welfare Service] may, in writing, delegate to a named officer of the probation and welfare service of a specified grade, position or description any specified function of the F246[Director of the Probation and Welfare Service] under this Act and may revoke the delegation.
+
+(2) The delegation of a function under this section is without prejudice to the right of the F246[Director of the Probation and Welfare Service] to continue to exercise the function.
+
+(3) The performance of any function delegated under this section shall be subject to the general superintendence and control of the F246[Director of the Probation and Welfare Service] and to such limitations (if any) as may be specified in the instrument of delegation or at any time thereafter.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F246: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 137, S.I. No. 65 of 2007.
+
+### 263. Temporary accommodation of children.
+
+**263.**—(1) A child may be detained temporarily, but in no case for a period exceeding 24 hours, in a Garda Síochána station or in any other place, being a place designated for the purpose by the Minister, with the agreement of its owner—
+
+F247[(*a*) while in transit to a court from a remand centre or children detention school,]
+
+(*b*) while a case in which the child is involved is at hearing, or
+
+F248[(*c*) while awaiting removal pursuant to this Act to a remand centre or children detention school.]
+
+(2) The provisions of *section 56* (separation of children from adults in Garda Síochána stations) shall apply to a child detained in a Garda Síochána station under *subsection (1)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F247: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 31, S.I. No. 65 of 2007.
+>
+> F248: Substituted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 31, S.I. No. 65 of 2007.
+
+### 264. Research.
+
+**264.**—The Minister may conduct or assist other persons in conducting research into any matter connected with children who are considered at risk of committing offences, who have admitted committing offences or who appear before the courts charged with offences.
+
+### 265. Right of appeal.
+
+**265.**—An appeal shall lie to the Circuit Court from an order of the Children Court or the District Court committing a child to a children detention school F249[...].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F249: Deleted (1.03.2007) by *Criminal Justice Act 2006* (26/2006), s. 158 and sch. 4 am. no. 32, S.I. No. 65 of 2007.
+
+### 266. Amendment of section 5 of Criminal Law (Rape) Act, 1981.
+
+**266.**—Section 5 of the Criminal Law (Rape) Act, 1981, is hereby amended by the substitution of “*section 75* (which provides for the summary trial in certain cases of persons under the age of 18 years who are charged with indictable offences) of the *Children Act, 2001*” for “the Summary Jurisdiction over Children (Ireland) Act, 1884, as amended by section 133(6) of the Children Act, 1908, and section 28 of the Children Act, 1941 (which provides for the summary trial in certain cases of persons under the age of 17 who are charged with indictable offences)”.
+
+### 267. Amendment of sections 17(2) and 59 of Act of 1991.
+
+**267.**—(1) The Act of 1991 is hereby amended—
+
+(*a*) in paragraphs (*a*) and (*b*) of section 17(2) (period in care of health board under interim care order), by the substitution of “twenty-eight days” for “eight days”, and
+
+(*b*) in section 59 (definitions for purposes of Part VIII), by the deletion of paragraph (*c*) from the definition of “children’s residential centre”.
+
+(2) References in Part V (Jurisdiction and Procedure) of the Act of 1991 to Part IV of that Act shall be construed as including references to Part IVB (inserted by *section 16*) thereof.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F250: Substituted (31.12.2017) by *Child Care (Amendment) Act 2011* (19/2011), s. 34, S.I. No. 637 of 2017.
+
+### 268. Children in care of health board.
+
+**268.**—While a child is in the care of F251[the F252[Child and Family Agency]] pursuant to any provision of this Act, F251[the F252[Child and Family Agency]] shall—
+
+(*a*) have the like control over the child as if it were his or her parent, and
+
+(*b*) do what is reasonable (subject to the provisions of this Act) in all the circumstances of the case for the purpose of safeguarding or promoting the child’s health, development or welfare.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F251: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 7 part 11 item 20, S.I. No. 887 of 2004.
+>
+> F252: Substituted (1.01.2014) by *Child and Family Agency Act 2013* (40/2013), s. 97 and sch. 2 part 14 item 1, S.I. No. 502 of 2013.
+
+### 269. Presumption and determination of age.
+
+**269.**—Where a person who is charged with an offence is brought before a court and it appears to the court that the person is a child the court shall make due inquiry as to the age of the person, and for that purpose shall take such evidence on oath as may be forthcoming at the hearing of the case, but an order or judgment of the court shall not be invalidated by any subsequent proof that the age of the person has not been correctly stated to the court, and the age presumed or declared by the court to be the age of the person so brought before it shall, for the purposes of this Act, be deemed to be the true age of that person.
+
+### 270. Safety of children at entertainments.
+
+**270.**—(1) Where—
+
+(*a*) an entertainment for children or any entertainment at which the majority of the persons attending are children is provided,
+
+(*b*) the number of children who attend the entertainment exceeds one hundred, and
+
+(*c*) access to any part of the building in which children are accommodated is by stairs, escalator, lift or other mechanical means,
+
+it shall be the duty of the person who provides the entertainment—
+
+(i) to station and keep stationed wherever necessary a sufficient number of adult attendants, properly instructed as to their duties, so as to prevent more children or other persons being admitted to any such part of the building than that part can properly accommodate,
+
+(ii) to control the movement of the children and other persons admitted to any such part while entering and leaving, and
+
+(iii) to take all other reasonable precautions for the safety of the children.
+
+(2) Where the occupier of a building permits, for hire or reward, the building to be used for the purpose of an entertainment, he or she shall take all reasonable steps to ensure that the provisions of this section are complied with.
+
+(3) If any person on whom any obligation is imposed by this section fails to fulfil it, he or she shall be liable, on summary conviction, in the case of a first offence, to a fine not exceeding £500 or imprisonment for a term not exceeding 6 months or both and, in the case of a second or subsequent offence, to a fine not exceeding £1,500 or imprisonment for a term not exceeding 12 months or both.
+
+(4) A member of the Garda Síochána may enter any building in which he or she has reason to believe that such an entertainment as aforesaid is being, or is about to be, provided with a view to seeing whether the provisions of this section are complied with.
+
+(5) This section shall not apply to any entertainment given in a private residence.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E69: A fine of £500 converted (1.01.1999) to €634.87. This translates into a class D fine not greater than €1,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> A fine of £1,500 converted (1.01.1999) to €1,904.61. This translates into a Class C fine not greater than €2,500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 271. Exclusion of members of Defence Forces.
+
+**271.**—For the purposes of this Act, persons under 18 years of age who are enlisted members of the Defence Forces shall not be regarded as children in any case where they are subject to military law as governed by the Defence Acts, 1954 to 1998.
+
+## SCHEDULE 1 — Offences Against Children
+
+1\. The murder or manslaughter of a child.
+
+2\. Any offence under the Criminal Law Amendment Act, 1885, in respect of a child.
+
+3\. Any offence under the Punishment of Incest Act, 1908, in respect of a child.
+
+F253[4. Any offence under the Criminal Law (Sexual Offences) Act 2006.]
+
+5\. Any offence under the Criminal Law (Rape) Act, 1981, in respect of a child.
+
+6\. Any offence under the Criminal Law (Rape) (Amendment) Act, 1990, in respect of a child.
+
+7\. Any offence under the Criminal Law (Sexual Offences) Act, 1993, in respect of a child.
+
+8\. Any offence under the Non-Fatal Offences against the Person Act, 1997, in respect of a child.
+
+9\. Any offence under the Child Trafficking and Pornography Act, 1998, in respect of a child.
+
+F254[9A. An offence under section 2, 3 or 4 of the Criminal Justice (Female Genital Mutilation) Act 2012.]
+
+10\. Any offence under the Dangerous Performances Acts, 1879 and 1897.
+
+11\. Any other offence involving bodily injury to a child.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F253: Substituted (2.06.2006) by *Criminal Law (Sexual Offences) Act 2006* (15/2006), s. 7(6), commenced on enactment.
+>
+> F254: Inserted (20.09.2012) by *Criminal Justice (Female Genital Mutilation) Act 2012* (11/2012), s. 15, S.I. No. 353 of 2012.
+
+## SCHEDULE 2 — Enactments Repealed
+
+| Session and Chapter or Number and Year | Short Title | Extent of Repeal |
+|---|---|---|
+| (1) | (2) | (3) |
+| 10 & 11 Vict., c. 84 | Vagrancy (Ireland) Act, 1847 | Section 3, the words “or causing or procuring or encouraging any child or children to do so”. |
+| 24 & 25 Vict., c. 100 | Offences against the Person Act, 1861 | Section 27 |
+| 31 & 32 Vict., c. 59 | Irish Reformatory Schools Act, 1868 | Section 25 |
+| 47 & 48 Vict., c. 19 | Summary Jurisdiction over Children (Ireland) Act, 1884 | The whole Act |
+| 8 Edw. 7, c. 59 | Prevention of Crime Act, 1908 | Section 2 |
+| 8 Edw. 7, c. 67 | Children Act, 1908 | The whole Act |
+| 10 Edw. 7, c. 25 | Children Act (1908) Amendment Act, 1910 | The whole Act |
+| No. 10 of 1924 | Courts of Justice Act, 1924 | Section 80 |
+| No. 6 of 1935 | Criminal Law Amendment Act, 1935 | Section 11 |
+| No. 12 of 1941 | Children Act, 1941 | The whole Act |
+| No. 6 of 1949 | Children (Amendment) Act, 1949 | The whole Act |
+| No. 2 of 1951 | Criminal Justice Act, 1951 | Section 24 |
+| No. 28 of 1957 | Children (Amendment) Act, 1957 | The whole Act |

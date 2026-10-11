@@ -1,0 +1,1995 @@
+---
+title: "Gas (Interim) (Regulation) Act, 2002"
+identifier: "eli/2002/act/10"
+type: act
+jurisdiction: ie
+language: en
+number: 10
+year: 2002
+date: 2002-04-10
+last_amended: 2024-06-01
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2002/act/10/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2002/act/10/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Gas (Interim) (Regulation) Act, 2002
+
+AN ACT TO PROVIDE FOR THE REGULATION OF THE GAS SECTOR IN THE STATE BY THE COMMISSION FOR ENERGY REGULATION AND FOR THAT PURPOSE TO TRANSFER TO IT CERTAIN FUNCTIONS OF THE MINISTER FOR PUBLIC ENTERPRISE, TO PROVIDE FOR THE CHANGE OF NAME OF THE COMMISSION FOR ELECTRICITY REGULATION, TO AMEND AND EXTEND THE GAS ACTS, 1976 TO 2000, THE ELECTRICITY REGULATION ACTS, 1999 AND 2000, AND TO GIVE EFFECT TO DIRECTIVE 98/30/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL OF 22 JUNE 1998 AND TO PROVIDE FOR RELATED MATTERS. [10*th April*, 2002]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C1: Application of Act restricted (29.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), reg. 42(22) and sch. 2, in effect as per reg. 1(3).
+>
+> *Screening for Appropriate Assessment and Appropriate Assessment of implications for European Sites*
+>
+> 42\. ...
+>
+> (22) Notwithstanding any provision of any statute listed in the *Second Schedule* that provides for the consent for a plan or project to which this Regulation applies to be obtained by default on the failure of the public authority to provide a response within a specified timescale or otherwise, that provision shall not have effect in respect of any plan or project to which this Regulation applies.
+>
+> ...
+>
+> SECOND SCHEDULE
+>
+> <table><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>10</td><td>2002</td><td>Gas (Interim) (Regulation) Act 2002</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> C2: An authorisation, application etc. issued under Act continued in force (20.07.2004) by *European Communities (Internal Market in Natural Gas) (No. 2) Regulations 2004* (S.I. No. 452 of 2004), reg. 3.
+>
+> *Saver*
+>
+> 3\. An authorisation, application, licence, designation, decision, determination, direction, consent, notice, notification, order or regulation made, granted or issued under the Gas Act 1976, the Act of 1999 or the Act of 2002 in force immediately before the making of these Regulations continues in force after such making as if made, granted or issued under the Act concerned as amended by these Regulations.
+
+## 1. Short title, collective citation and construction.
+
+**1.** —(1) This Act may be cited as the Gas (Interim) (Regulation) Act, 2002.
+
+(2) The Electricity Regulation Acts, 1999 and 2000, and this Act (other than *sections 11* and *15* and *subsections (1)* and *(2)* of *section 23* ) may be cited together as the Electricity and Gas Regulation Acts, 1999 to 2002, and shall be construed together as one.
+
+(3) The Gas Acts, 1976 to 2000, and *sections 11* and *15* and *subsections (1)* and *(2)* of *section 23* may be cited together as the Gas Acts, 1976 to 2002, and shall be construed together as one.
+
+## 2. Interpretation.
+
+**2.** —(1) In this Act—
+
+“Act of 1993” means Gas (Amendment) Act, 1993;
+
+“Act of 1995” means Energy (Miscellaneous Provisions) Act, 1995;
+
+“Act of 1999” means Electricity Regulation Act, 1999:
+
+“Act of 2000” means Gas (Amendment) Act, 2000;
+
+“appointed day” means the day appointed by the Minister for the purposes of this Act;
+
+“Board” means Board Gáis Éireann;
+
+“Commission” means Commission for Energy Regulation;
+
+“customer” in relation to natural gas, means wholesale or final customers of natural gas and natural gas undertakings which purchase natural gas;
+
+F1[“Directive” means Directive 2009/73/EC of the European Parliament and of the Council of 13 July 2009[^1] as amended by Directive (EU) 2019/692 of the European Parliament and of the Council of 17 April 2019[^2];]
+
+“distribution” in relation to natural gas, means the transport of natural gas through local or regional pipelines with a view to its delivery to customers;
+
+“distribution pipeline” means a pipeline used or intended to be used for the distribution of natural gas in accordance with such criteria as may be specified by the Commission, from time to time, and includes part of such a pipeline, and includes any apparatus, equipment or other thing which is ancillary to such a pipeline;
+
+F2[“distribution system”, in relation to natural gas, means a system for the transport of natural gas through local or regional pipelines with a view to its delivery to customers;]
+
+“final customer” in relation to natural gas, means a consumer purchasing natural gas for his or her own use;
+
+“functions” includes powers and duties;
+
+F5[...]
+
+F6[“LNG” means liquefied natural gas;]
+
+F3[ “LNG facility ”has the meaning assigned to it in point 11 of Article 2 of the Natural Gas Directive;]
+
+“Minister” means Minister for Public Enterprise;
+
+F7[“National Gas Emergency Manager” means the person appointed under *section 19B(5)*;]
+
+F7[“Natural Gas Emergency Plan” means the plan referred to in *section 19B(1)* as amended from time to time;]
+
+“natural gas licence” means a licence granted under *section 16* ;
+
+F8[“Natural Gas Regulation” means Regulation 715/2009 of the European Parliament and of the Council of 13 July 2009[^3];]
+
+“natural gas system” means the system of pipelines and liquefied natural gas and storage facilities, excluding upstream pipelines, used for the transmission, distribution, storage and supply of natural gas to, from or within the State;
+
+F9[“natural gas undertaking” has the same meaning as in the Directive;]
+
+“pipeline” has the same meaning as in section 2 (as amended by *section 23* ) of the Gas Act, 1976;
+
+“shipping” in relation to natural gas, means the introduction into, the conveyance by means of, or take off from the natural gas system of natural gas by persons other than the operator of the relevant pipeline or facility being used for the purpose of introducing, conveying or taking off the natural gas;
+
+“storage” in relation to natural gas, means the stocking of natural gas by a natural gas undertaking but does not include any natural gas in a pipeline under the control of that undertaking;
+
+“supply” in relation to natural gas, means the delivery or sale of natural gas, including liquefied natural gas, to customers and includes shipping;
+
+F10[“transmission” in relation to natural gas, means the transport of natural gas through a high pressure pipeline, other than an upstream pipeline with a view to delivering the gas to customers;]
+
+“transmission pipeline” means a pipeline used or intended to be used for the transmission of natural gas in accordance with such criteria as may be specified by the Commission, from time to time, and includes part of such a pipeline, and includes any apparatus, equipment or other thing which is ancillary to such a pipeline;
+
+F4[“transmission system”, in relation to natural gas, means a system for the transport of natural gas through a high pressure pipeline, other than an upstream pipeline, with a view to delivering natural gas to customers;]
+
+“upstream pipeline” means any pipeline operated or constructed as part of a gas production project, or used to convey natural gas from one or more such projects to a processing plant or terminal or final coastal landing terminal.
+
+(2) In this Act—
+
+(*a*) a reference to a section is a reference to a section of this Act, unless it is indicated that reference to some other enactment is intended,
+
+(*b*) a reference to a subsection, paragraph or subparagraph is a reference to the subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that reference to some other provision is intended, and
+
+(*c*) a reference to any enactment shall be construed as a reference to that enactment as amended, adapted or extended by or under any subsequent enactment, including this Act.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1: Substituted (13.03.2020) by *European Union (Internal Market in Natural Gas) Regulations 2020* (S.I. No. 83 of 2020), reg. 10.
+>
+> F2, F3, F4: Inserted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 27(a)(ii), (iii), (iv).
+>
+> F5: Deleted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 27(a)(i).
+>
+> F6: Inserted (20.07.2004) by *European Communities (Internal Market in Natural Gas) (No. 2) Regulations 2004* (S.I. No. 452 of 2004), reg. 4(2)(a).
+>
+> F7: Inserted (17.10.2007) by *European Communities (Security of Natural Gas Supply) Regulations 2007* (S.I. No. 697 of 2007), reg. 2.
+>
+> F8: Inserted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 41(a)(ii).
+>
+> F9, F10: Substituted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 41(a)(iv), (v).
+>
+> **Editorial Notes:**
+>
+> E1: Previous affecting provision: definition of "directive" substituted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 41(a)(iii); substituted (13.03.2020) as per F-note above.
+>
+> E2: Previous affecting provision: definition of "ITO" inserted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 41(a)(i); deleted (19.01.2015) as per F-note above.
+>
+> E3: Previous affecting provision: definition of "directive" substituted (20.07.2004) by *European Communities (Internal Market in Natural Gas) (No. 2) Regulations 2004* (S.I. No. 452 of 2004), reg. 4(2)(b); substituted (1.12.2011) as per E-note above.
+
+## 3. Appointed day.
+
+**3.** —The Minister shall by order appoint a day to be the appointed day for the purposes of this Act.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E4: Power pursuant to section exercised (30.04.2002) by *Gas (Interim) (Regulation) Act 2002 (Appointed Day) Order 2002* (S.I. No. 146 of 2002).
+>
+> 2\. The 30th day of April 2002 is appointed as the appointed day for the purposes of the Gas (Interim) (Regulation) Act 2002 (No. 10 of 2002).
+
+## 4. Laying of regulations and orders.
+
+**4.** —Every order (other than an order made under *section 3*) or regulation made under this Act shall be laid by the Minister, in the case of orders or regulations made by the Minister, or by the Commission, in the case of orders or regulations made by the Commission, before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order or regulation is passed by either such House within the next 21 days on which that House has sat after the order or regulation is laid before it, the order or regulation shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
+
+## 5. Commission for Energy Regulation.
+
+**5.** —The Commission for Electricity Regulation (established by section 8 of the Act of 1999) shall, on the appointed day, be known as the Commission for Energy Regulation or in the Irish language as An Coimisiún um Rialáil Fuinnimh and references in that Act, any other Act of the Oireachtas, any instrument made under any Act of the Oireachtas, any legal proceedings and any document to the Commission for Electricity Regulation shall from that day be construed as references to the Commission for Energy Regulation.
+
+## 6. Functions of Commission.
+
+**6.** —Section 9 of the Act of 1999 is amended on the appointed day—
+
+(*a*) in subsection (1), by the substitution for paragraph (*e*) of the following paragraph:
+
+“(*e*) to advise the Minister on the development of the electricity and gas industries, as appropriate, and on the exercise of the functions of the Minister under this Act.”,
+
+(*b*) by the substitution for subsection (3) of the following subsection:
+
+“(3) It shall be the duty of the Minister and the Commission to carry out their functions and exercise the powers conferred on them under this Act in a manner which—
+
+(*a*) in relation to electricity, does not discriminate unfairly between holders of licences, authorisations and the Board or between applicants for authorisations or licences,
+
+(*b*) in relation to gas, does not discriminate unfairly between holders of licences, consents and Bord Gáis Éireann or between applicants for consents or licences, and
+
+(*c*) the Minister or the Commission, as the case may be, considers protects the interests of final customers of electricity or gas or both, as the case may be.”,
+
+and
+
+(*c*) in subsection (4)—
+
+(i) by the substitution for paragraph (*a*) of the following paragraph:
+
+“(*a*) to promote competition in the generation and supply of electricity and in the supply of natural gas in accordance with this Act;”,
+
+and
+
+(ii) by the substitution for paragraphs (*d*) to (*f*) of the following paragraphs:
+
+“(*d*) to promote safety and efficiency on the part of electricity and natural gas undertakings;
+
+(*e*) to promote the continuity, security and quality of supplies of electricity;
+
+(*f*) to promote the use of renewable, sustainable or alternative forms of energy;
+
+(*g*) to secure that there is sufficient capacity in the natural gas system to enable reasonable expectations of demand to be met; and
+
+(*h*) to secure the continuity, security and quality of supplies of natural gas.”.
+
+## 7. Transfer of functions from Minister to Commission.
+
+**7.** —(1) The administration and business in connection with the exercise, performance or execution of any of the functions transferred by *subsection (2)* are transferred on the appointed day to the Commission.
+
+(2) The functions vested in the Minister by or under each of the provisions mentioned in *column (3)* of the *Schedule* to this Act of the enactments mentioned in *column (2)* opposite the mention of that provision are transferred to the Commission on the appointed day.
+
+(3) Anything commenced before the appointed day by or under the authority of the Minister may, in so far as it relates to functions transferred by this Act, be carried on or completed on or after that day by or under the authority of the Commission.
+
+(4) Where, immediately before the appointed day, any legal proceedings are pending to which the Minister is the plaintiff or the prosecutor and the proceedings have reference to functions transferred by this Act to the Commission, the name of the Commission shall, in so far as the proceedings relate to any functions transferred by this Act, be substituted in those proceedings for that of the Minister, or added in those proceedings as may be appropriate, and those proceedings shall not abate by reason of such substitution.
+
+(5) Where, immediately before the appointed day, any legal proceedings are pending to which the Minister is a defendant and the proceedings have reference to any functions transferred to the Commission by this Act, the Commission shall not be substituted for the Minister in those proceedings notwithstanding the transfer of functions under this Act.
+
+(6) Every document (including any licence or consent) made, granted or given in the exercise of a function transferred by this Act shall, if and in so far as it was operative immediately before the appointed day, have effect on and after that day as if it had been made, granted or given by the Commission.
+
+(7) References to the Minister in an Act or an instrument (including a licence granted or consent given thereunder) relating to any functions transferred by this Act to the Commission shall be construed, on and after the appointed day, as references to the Commission.
+
+## 8. Code of conduct.
+
+**8.** —(1) The Commission shall, following consultation with the Minister, draw up a code of conduct in respect of controls on the interests and ethical behaviour to apply to each member of the Commission and member of the staff of the Commission.
+
+(2) The Commission shall publish any code of conduct drawn up under *subsection (1)*.
+
+## 9. Declaration of interests.
+
+**9.** —(1) On his or her offer of appointment, each member of the Commission shall make a declaration in writing of his or her interests to the Minister, in such form as the Minister, following consultation with the Minister for Finance, may specify.
+
+(2) On his or her offer of appointment, each consultant and adviser and each member of the staff of the Commission at a grade or level specified before the appointment by the Commission, following consultation with the Minister, shall declare his or her interests in writing to the Commission and, within one month of such declaration, the Commission shall, on request, provide the details of all such declarations to the Minister.
+
+(3) A person to whom *subsection (1)* or *(2)* applies shall, throughout the tenure of his or her appointment, amend and update his or her declarations of interests in respect of any changes in the interests held by the person.
+
+(4) (*a*) A statement of the interests declared under *subsection (1)* shall be included in the next report prepared in accordance with paragraph 25(*c*) of the Schedule to the Act of 1999 following the making of the declaration and any subsequent change in a declaration shall also be included in a statement in the next available report.
+
+(*b*) The form and content of the statement to be included in such report shall be agreed between the Commission, the Minister and the Minister for Finance.
+
+(*c*) Notwithstanding *paragraph (b)*, it shall not be necessary to specify in a statement in such report the amount of monetary value of any interest, or the remuneration of any trade, profession or employment included in the statement.
+
+(5) Where a person to whom *subsection (1)* applies, fails to make a declaration in accordance with that subsection, the Minister shall decide the appropriate action (including removal from office) to be taken.
+
+(6) Where a person to whom *subsection (2)* applies, fails to make a declaration in accordance with that subsection, the Commission shall decide the appropriate action (including removal from office or termination of contract) to be taken.
+
+(7) In this section—
+
+“employment” includes—
+
+(*a*) full-time employment,
+
+(*b*) part-time paid employment, where such employment is ongoing in the year of appointment or which arises in subsequent years,
+
+(*c*) temporary paid employment, being for a period of 16 weeks or more in the year of appointment or in subsequent years, or
+
+(*d*) being retained under contract, directly or indirectly, in any capacity as an adviser, consultant or lobbyist, or for the provision of services;
+
+“interests” includes—
+
+(*a*) shares in, bonds or debentures of, or other like investments in any undertaking related to the gas or electricity industries, where the aggregate of such holdings exceeds €12,500,
+
+(*b*) a directorship or shadow directorship (within the meaning of the Companies Acts, 1963 to 2001), in such an undertaking, held currently or during the previous two years, or
+
+(*c*) gifts of travel, holidays, transport, money (in excess of €650) or other benefits, including benefits from any beneficial interest in or connected with such an undertaking, during the previous two years which were received by the person being appointed or by his or her spouse F11[or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010].
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F11: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 97 and sch. part 1 item 32, S.I. No. 648 of 2010.
+>
+> **Modifications (not altering text):**
+>
+> C3: Functions under section transferred and references to "Department of Finance" and "Minister for Finance" construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactment
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 10 of 2002</td><td>Gas (Interim) (Regulation) Act 2002</td><td>Section 9</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+## 10. Disclosure of interests.
+
+**10.** —(1) Where a member of the Commission, a member of the staff of the Commission, or a consultant, adviser or other person engaged by the Commission, has a pecuniary interest or other beneficial interest in, or material to, any matter which falls to be considered by the Commission, he or she shall—
+
+(*a*) disclose to the Commission, or where there is only one member of the Commission, that member shall disclose to the Minister, the nature of his or her interest in advance of any considerations of the matter,
+
+(*b*) neither influence nor seek to influence a decision in relation to the matter,
+
+(*c*) take no part in any consideration of the matter,
+
+(*d*) if he or she is a member of the Commission or a member of the staff of the Commission, withdraw from the meeting for so long as the matter is being discussed or considered by the Commission, and shall not vote or otherwise act as such member in relation to the matter.
+
+(2) For the purposes of this section, but without prejudice to the generality of *subsection (1)*, a person shall be regarded as having a beneficial interest if—
+
+(*a*) he or she or any member of his or her household, or any nominee of his or her's or any member of his or her household, is a member of a company or any other body which has a beneficial interest in, or material to, a matter referred to in that subsection, or
+
+(*b*) he or she or any member of his or her household is in partnership with or is in the employment of a person who has a beneficial interest in, or material to, such a matter, or
+
+(*c*) he or she or any member of his or her household is in the process of acquiring land or property to which such a matter relates.
+
+(3) For the purposes of this section, a person shall not be regarded as having a beneficial interest in, or material to, any matter, by reason only of an interest of his or her's or of any company or of any other body or person mentioned in *subsection (2)* which is so remote or insignificant that it cannot reasonably be regarded as likely to influence a person in considering, discussing or in voting on, any question with respect to the matter, or in performing any function in relation to that matter.
+
+(4) Where a question arises as to whether or not a course of conduct, if pursued by a person, would be a failure by him or her to comply with the requirements of *subsection (1)*, the question shall be determined by the Commission, or, where there is only one member of the Commission, in the case of that member, by the Minister.
+
+(5) Where a disclosure is made to the Commission, particulars of the disclosure shall be recorded in the minutes of any meeting concerned.
+
+(6) Where a person, other than a member of the Commission, referred to in this section fails to make a disclosure in accordance with this section, the Commission shall decide the appropriate action (including removal from office or termination of contract) to be taken.
+
+(7) Where a member of the Commission fails to make a disclosure in accordance with this section, the Minister shall decide the appropriate action (including removal from office) to be taken.
+
+## 11. Functions of Bord Gáis Éireann.
+
+**11.** —The Gas Act, 1976, is amended, on the appointed day, by the substitution for section 8 of the following section:
+
+“8.—(1) (*a*) The Board shall, in relation to customers other than persons of the type mentioned in paragraphs (*a*), (*b*), (*c*) or (*d*) of subsection (1) of section 10A of this Act, develop and maintain a system for the supply of natural gas to such customers being a system which is both economical and efficient and which appears to the Board to be requisite for the time being.
+
+(*b*) Nothing in paragraph (*a*) of this subsection shall be construed as imposing on the Board, either directly or indirectly, any form of duty or liability enforceable by proceedings before any court to which it would not otherwise be subject.
+
+(2) In discharging the duties imposed on it under this Act, the Board shall have regard to the sources of supply of natural gas which are available for the time being to the Board and such safety requirements as, in the opinion of the Board, are necessary in relation to the transmission and distribution of such gas.
+
+(3) Without prejudice to the generality of subsection (1) of this section or to any provision of this Act apart from this section within or outside the State, and subject to any requirements of law the Board may—
+
+(*a*) transmit and distribute natural gas and sell and supply natural gas acquired by it (whether or not such gas has been prepared, processed or treated),
+
+(*b*) purchase or otherwise acquire natural gas from any source,
+
+(*c*) liquify or otherwise prepare, process or treat natural gas,
+
+(*d*) fix, make and recover charges for any gas sold or any gas supply or service or facility provided or thing undertaken pursuant to this section by the Board, or fix and accept subscriptions for any service or facility so provided,
+
+(*e*) attach such other terms and conditions as the Board shall think fit, to any sale of gas or as regards any gas supply or service or facility, provided by it,
+
+(*f*) provide, operate or maintain, or provide, operate and maintain, whether for use by the Board or by a person other than, the Board, such pipelines, terminals, pressure-reducing stations, off-take stations, vessels, vehicles, works, services, facilities or other things as are necessary or expedient in relation to, or ancillary to, the provision, development or maintenance of a system of gas supply,
+
+(*g*) for or on behalf of the owner of a pipeline used or intended to be used to supply gas to the Board, provide, operate or maintain, or provide, operate and maintain, anything which is a thing mentioned in paragraph (*f*) of this subsection,
+
+(*h*) provide for any other person any or all of the following services and facilities relating to the development or supply of gas, namely, advice or assistance, research services or research or training facilities,
+
+(*i*) subject to subsection (4) of this section, subscribe or guarantee money for charitable or benevolent objects or to or for any institution or for any public, general or useful object,
+
+(*j*) draw, make, accept, endorse, discount, negotiate or issue bills of exchange, promissory notes or other negotiable or transferable instruments,
+
+(*k*) subject to subsection (5) of this section, accept a gift of money, land or other property upon such trusts and conditions (if any) as may be specified by the person making the gift,
+
+(*l*) carry on any activity which appears to the Board to be requisite, advantageous or incidental to, or which appears to the Board to facilitate, the performance by the Board of any function under this Act.
+
+(4) In case the Board pursuant to subsection (3)(*i*) of this section—
+
+(*a*) gives a subscription exceeding €2,000, or
+
+(*b*) in any particular year gives for or to a particular object or institution two or more subscriptions the aggregate of which exceeds €2,000,
+
+the subscription or subscriptions, as may be appropriate, together with the object or institution to which it or they relate shall be specified in the accounts kept by the Board pursuant to this Act.
+
+(5) The Board shall not accept any gift pursuant to subsection (3)(*k*) of this section if the trusts and conditions attached by the donor to its acceptance are inconsistent with the functions of the Board.
+
+(6) Where the Board proposes to transfer to another person an interest in a pipeline or a part thereof that has been constructed by it pursuant to and in accordance with a consent given by the Minister or the Commission under this Act, the Board shall obtain the prior consent of the Minister given with the approval of the Minister for Finance for such a transfer and the Minister may attach such conditions as he or she deems appropriate to such a prior consent.
+
+(7) In subsection (6) of this section—
+
+‘interest’ means any estate, right, title or other interest, legal or equitable and includes a licence;
+
+‘transfer’ includes grant, demise and assign or, as appropriate, a grant, demise and an assignment.”.
+
+## 12. Construction of pipelines.
+
+**12.** —(1) The Gas Act, 1976, is amended, on the appointed day, by—
+
+(*a*) the insertion after section 39 of the following section:
+
+“39A.—(1) Subject to *section 12(2)* of the *Gas (Interim) (Regulation) Act, 2002*, a person, including the Board, shall not, without the consent of the Commission, construct a pipeline, other than an upstream pipeline, on, over or under the surface of land or of any sea bed that is situate in the territorial seas of the State or a designated area.
+
+(2) The Commission may revoke a consent given by it under subsection (1) of this section but such revocation shall not prejudice the validity of anything done previously pursuant to and in accordance with the consent.
+
+(3) Subject to subsection (5) of this section, any guidelines published by the Minister before the day appointed to be the appointed day under *section 3* of the *Gas (Interim) (Regulation) Act, 2002*, are the procedures to be followed in giving consents under subsection (1) of this section.
+
+(4) Where the Commission gives its consent under subsection (1) of this section, it shall attach to the consent such conditions, with respect to the construction of the relevant pipeline as it considers appropriate, including conditions analogous to all or any of the requirements of subsection (6) of this section.
+
+(5) Without prejudice to the generality of subsection (4) of this section, the Commission may—
+
+(*a*) attach to a consent given under subsection (1) of this section for the construction by a person of a pipeline, a condition requiring to be observed, as regards the pipeline, specific codes and standards of safety and efficiency regarding the construction of pipelines, and
+
+(*b*) by regulations, set out the procedures in relation to the giving of a consent under subsection (1) of this section.
+
+(6) In case the holder of a consent given under subsection (1) of this section constructs a pipeline the holder shall take all reasonable measures to protect the natural environment and to avoid injuring the amenities of the area and, in particular, and without prejudice to the generality of the foregoing, the holder shall while constructing the pipeline take all reasonable steps to prevent injury to any building, site, flora, fauna, feature or other thing which is of particular architectural, historic, archaeological, geological or natural interest, and when selecting the route for the pipeline the holder shall have regard to any representations made to the holder as regards the route of such pipeline by any local authority within whose functional area a proposed route, or any part of such a route would, if the pipeline were constructed, be situate, or any of the following on, in or over whose land such route or part would in such circumstances be situate, namely—
+
+(*a*) a harbour authority (within the meaning of the Harbours Act, 1946),
+
+(*b*) a company (within the meaning of the Harbours Act, 1996),
+
+(*c*) the Electricity Supply Board or any other electricity undertaker,
+
+(*d*) Córas Iompair Éireann or any other railway undertaker, or
+
+(*e*) a natural gas undertaking (other than the holder).
+
+(7) Where the Commission attaches, under subsection (4) of this section, conditions to a consent given under subsection (1) of this section, the person constructing the relevant pipeline shall comply with those conditions.”,
+
+(*b*) the substitution for section 40 (inserted by section 19 of the Act of 2000) of the following section—
+
+“40.—(1) A person, including the Board, shall not, without the consent of the Minister for the Marine and Natural Resources, construct or operate an upstream pipeline on, over or under the surface of land or of any sea bed that is situate in the territorial seas of the State or a designated area.
+
+(2) The Minister for the Marine and Natural Resources may revoke a consent given by him or her under subsection (1) of this section but such revocation shall not prejudice the validity of anything done previously pursuant to and in accordance with the consent.
+
+(3) Where the Minister for the Marine and Natural Resources gives his or her consent under subsection (1) of this section, he or she shall attach to the consent such conditions, with respect to the construction or operation of the relevant pipeline as he or she considers appropriate, including conditions analogous to all or any of the requirements of subsection (4) of this section.
+
+(4) In case the holder of a consent given under subsection (1) of this section constructs an upstream pipeline the holder shall take all reasonable measures to protect the natural environment and to avoid injuring the amenities of the area and, in particular, and without prejudice to the generality of the foregoing, the holder shall while constructing the upstream pipeline take all reasonable steps to prevent injury to any building, site, flora, fauna, feature or other thing which is of particular architectural, historic, archaeological, geological or natural interest, and when selecting the route for the upstream pipeline the holder shall have regard to any representations made to the holder as regards the route of such upstream pipeline by any local authority within whose functional area a proposed route, or any part of such a route would, if the upstream pipeline were constructed, be situate, or any of the following on, in or over whose land such route or part would in such circumstances be situate, namely—
+
+(*a*) a harbour authority (within the meaning of the Harbours Act, 1946),
+
+(*b*) a company (within the meaning of the Harbours Act, 1996),
+
+(*c*) the Electricity Supply Board or any other electricity undertaker,
+
+(*d*) Córas Iompair Éireann or any other railway undertaker, or
+
+(*e*) a natural gas undertaking (other than the holder).
+
+(5) Where the Minister for the Marine and Natural Resources attaches, under subsection (3) of this section, conditions to a consent given under subsection (1) of this section, the person constructing or operating the relevant pipeline shall comply with those conditions.”,
+
+and
+
+(*c*) in section 40A (inserted by Article 20 of the European Communities (Environmental Impact Assessment) Regulations, 1989 (S.I. No. 349 of 1989))—
+
+(i) in subsection (1), by the substitution for paragraph (*a*) (inserted by section 19(2) of the Act of 2000) by the following paragraph:
+
+“(*a*) A statement of the likely effects on the environment (hereafter in this section referred to as an ‘environmental impact statement’) of a proposed pipeline of a class for the time being specified under Article 24 of the European Communities (Environmental Impact Assessment) Regulations, 1989 (S.I. No. 349 of 1989), or under any provision amending or replacing the said Article 24 shall be submitted with, or within a reasonable time after the making of, an application to—
+
+(i) the Commission by a person, including the Board, for its consent under section 39A(1) of this Act, in relation to the proposed construction of a pipeline other than an upstream pipeline, or
+
+(ii) the Minister for the Marine and Natural Resources by a person, including the Board, for his or her consent under section 40(1), in relation to the proposed construction of an upstream pipeline.”,
+
+and
+
+(ii) other than in subsection (1)(*a*) (inserted by this paragraph), by the substitution for “the Minister” of “the Commission or the Minister for the Marine and Natural Resources, as the case may be,” in each place where it occurs,
+
+(iii) by the substitution for subsection (7) of the following subsection:
+
+“(7) (*a*) Where the Minister considers that a proposed pipeline, which is the subject of an environmental impact statement in accordance with a requirement of or under subsection (1) of this section, would be likely to have significant effects on the environment in another Member State of the European Communities or a state which is party to the Transboundary Convention or where the other state concerned considers that the said pipeline would be likely to have the said effects and so requests, he or she shall, as soon as possible, send to that state—
+
+(i) a description of the proposed pipeline and any available information on its possible effects on the environment in that state, and
+
+(ii) information on the nature of the decision which may be taken,
+
+and shall give that state a reasonable time to indicate whether it wishes to furnish views on the said effects.
+
+(*b*) Where a Member State of the European Communities or a state which is party to the Transboundary Convention which has received information pursuant to paragraph (*a*) of this subsection indicates that it wishes to furnish views on the likely effects on the environment of the proposed pipeline, the Minister shall, if he or she has not already done so, send to that state—
+
+(i) a copy of the environmental impact statement, and
+
+(ii) relevant information about the procedure for making a decision on the application or notice concerned.
+
+(*c*) The Minister shall enter into consultations with a Member State of the European Communities or a state which is party to the Transboundary Convention to which information was sent pursuant to paragraph (*b*) of this subsection regarding the potential effects of the proposed pipeline on the environment in that state and the measures envisaged to reduce or eliminate such effects.
+
+(*d*) The Minister shall notify a Member State of the European Communities or a state which is party to the Transboundary Convention to which information was sent pursuant to paragraph (*b*) of this subsection of his or her decision on the application or notice concerned.
+
+(*e*) In this section ‘Transboundary Convention’ means the United Nations Economic Commission for Europe Convention on Environmental Impact Assessment in a Transboundary Context done at Espoo, Finland on 25 February, 1991.”,
+
+and
+
+(iv) in subsection (9), by the substitution for “section 8(9) of this Act” of “section 39A(6) or 40(4) of this Act”.
+
+(2) F12[Subject to section 39B(2) of the Gas Act 1976, the Commission may], from the appointed day, specify by regulations—
+
+(*a*) the pipelines or classes of pipelines to which section 39A(1) (inserted by this section) of the Gas Act, 1976, shall not apply in relation to the construction of pipelines or those classes of pipelines, and
+
+(*b*) such conditions as the Commission deems desirable in relation to the construction of the pipelines or classes of pipelines to which the regulations relate.
+
+(3) F13[(*a*)The Minister—
+
+(i) shall specify by regulations the criteria in accordance with which an application for a consent given under section 39A(1) of the Gas Act 1976, may be determined by the Commission; and
+
+(ii) shall publish the criteria with which an application for a consent given under section 40 (1) of the Gas Act 1976 may be determined.]
+
+(*b*) The criteria specified by the Minister under *subsection (3)(a)* may relate to, any or all of the following:
+
+(i) security of supply,
+
+(ii) the safety and security of the natural gas system,
+
+(iii) the qualifications of an applicant, including the technical and financial qualifications of the applicant, and
+
+(iv) any other criteria specified under *subsection (3)(a)*.
+
+(4) Where, from the appointed day, the Commission determines that the capacity of existing or proposed distribution or transmission pipelines in a particular geographical area, as specified by the Commission, represents adequate provision for reasonable expectation of demand, it may refuse to give its consent under section 39A(1) of the Gas Act, 1976, to the construction of any new distribution or transmission pipeline in that particular area.
+
+(5) (*a*) Without prejudice to the procedures for the giving of consents for the construction of pipelines set out in regulations made under section 39A(5) (inserted by this section) of the Gas Act, 1976, the Commission shall, where it considers it appropriate, or at the request of the Minister, conduct a competitive process for the purpose of selecting an applicant from whom an application for consent shall be considered for the construction of a pipeline in a particular area or for a particular purpose.
+
+(*b*) The Commission may make regulations relating to the conduct of such a competitive process, and such regulations may include—
+
+(i) the period of time allowed for the submission of expressions of interest by prospective applicants,
+
+(ii) the criteria for the pre-qualification of applicants,
+
+(iii) the period of time allowed for the submission of applications,
+
+(iv) the criteria by which applications will be adjudicated,
+
+(v) the terms and conditions that may be applied in relation to the successful applicant,
+
+(vi) the lodging of a bond (if any) by the successful applicant, and
+
+(vii) any other matter which the Commission considers appropriate and necessary for the holding of a competitive process under *paragraph (a)*.
+
+(*c*) Before holding a competitive process under *paragraph (a)*, the Commission shall undertake such preliminary examinations, as it considers appropriate or the Minister requests, including the carrying out of economic and technical feasibility studies of a proposed pipeline or pipeline routes.
+
+(*d*) Where a competitive process is conducted under this subsection, the Commission shall not be obliged to select an applicant where it considers that no applicant is suitable.
+
+(6) In this section “proposed distribution or transmission” in relation to a pipeline, means a pipeline, whether under construction or not, for which an application for consent has been made to the Commission under section 39A(1) of the Gas Act, 1976, and where the applicant has been certified by the Commission as being a *bona fide* applicant in accordance with the procedures for the giving of consents for the construction of pipelines set out in regulations made under section 39A(5) (inserted by this section) of the Gas Act, 1976.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F12: Substituted (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 12.
+>
+> F13: Substituted (20.07.2004) by *European Communities (Internal Market in Natural Gas) (No. 2) Regulations 2004* (S.I. No. 452 of 2004), reg. 7(2).
+>
+> **Modifications (not altering text):**
+>
+> C4: Application of regulations made under subs. (2) restricted by *Gas Act 1976* (30/1976), s. 39B(2)(a) as inserted (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 6.
+>
+> **[Non-Application of certain declarations, Regulations in respect of pipelines where environmental impact assessment, appropriate assessment required**
+>
+> **39B.**— ...
+>
+> (2) (*a*) Regulations made under section 12(2) of the Gas (Interim) (Regulation) Act 2002 (No. 10 of 2002) in respect of a pipeline shall not apply in respect of a pipeline where an environmental impact assessment or an appropriate assessment is required in respect of that pipeline.
+>
+> (*b*) Regulations made under section 12(2) of the Gas (Interim) (Regulation) Act 2002 in respect of a class of pipelines shall not apply in respect of a pipeline in that class where an environmental impact assessment or an appropriate assessment is required in respect of the pipeline concerned.**]**
+>
+> **Editorial Notes:**
+>
+> E5: Power pursuant to subs. (3)(a) exercised (4.06.2002) by *Gas (Interim) (Regulation) Act 2002 (Criteria For Determination of Consents) Regulations 2002* (S.I. No. 264 of 2002).
+
+## 13. Code of operations.
+
+**13.** —(1) Subject to *subsection (3)* and to *section 16(4)*, within such time and following such consultation as the Commission may direct, the holder of a natural gas licence F14[of a type mentioned in F17[*section 16(1)(c)* and *(d)*]] shall publish, including publication by electronic means, subject to the approval of the Commission, a code (“code of operations”) in respect of all technical design, operational and other requirements F15[, including technical safety criteria,] relating to connection to and operation of the facilities in respect of which the holder has been granted the licence.
+
+(2) A code of operations shall be objective and non-discriminatory and shall, as far as technically possible, ensure the interoperability of systems.
+
+(3) The Commission may from time to time give directions to the holder of a natural gas licence in respect of—
+
+(*a*) the matters to be specified in its code of operations, and
+
+(*b*) the review and revision by the holder from time to time of its code of operations.
+
+(4) The holder of a natural gas licence shall comply with directions given to it by the Commission under *subsection (3)*.
+
+F16[(5) F18[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F14, F15, F16: Inserted (20.07.2004) by *European Communities (Internal Market in Natural Gas) (No. 2) Regulations 2004* (S.I. No. 452 of 2004), reg. 9(a), (b).
+>
+> F17: Substituted (28.04.2017) by *Energy Act 2016* (12/2016), s. 21, S.I. No. 171 of 2017.
+>
+> F18: Repealed (28.04.2017) by *Energy Act 2016* (12/2016), s. 3(c), S.I. No. 171 of 2017.
+
+## 14. Transmission of natural gas by pipeline operators on behalf of other persons.
+
+**14.** —(1) The following sections are substituted, on the appointed day, for section 10A (inserted by section 2(1) of the Act of 1995) of the Gas Act, 1976:
+
+“10A.—(1) Subject to subsection (6) of this section, where an application is made to a pipeline operator by—
+
+(*a*) the holder of a natural gas licence under *section 16* of the *Gas (Interim) (Regulation) Act, 2002*, for the purpose of carrying out any activity for which the holder is licensed,
+
+(*b*) the holder of a petroleum lease under section 13 of the Petroleum and Other Minerals Development Act, 1960, for the purpose of carrying out any activity connected with the lease,
+
+(*c*) a person, including the Board, in respect of whom an order has been made under section 2(1) of the Gas (Amendment) Act, 1987, for the purpose of carrying out the functions conferred on the person by the order,
+
+(*d*) a person who operates a gas-fired generating station, irrespective of its annual consumption level, for the purpose of providing energy for the generation of electricity at that station, or
+
+(*e*) a final customer (within the meaning of *section 2* of the *Gas (Interim) (Regulation) Act, 2002*), with an annual rate of consumption of not less than 2,000,000 standard cubic metres per annum (or such other rate as may stand prescribed for the time being) at a single meter installation for the purpose of delivery to that installation,
+
+to transport on his or her behalf through pipelines under the control of the pipeline operator natural gas, the pipeline operator shall offer to enter into an agreement for the transportation of the natural gas on behalf of that person, subject to terms and conditions specified in regulations made by the Commission under subsection (3) of this section.
+
+(2) Notwithstanding the generality of subsection (1) of this section, an offer made under that subsection:
+
+(*a*) may include an offer to transport natural gas at a rate that is greater or less than the rate to which the request relates (but, except in the case of an application made by a person mentioned in subsection (1)(*c*) or (*d*), not less than the annual rate mentioned in subsection (1)(*e*) of this section), and
+
+(*b*) where connection is required to the pipeline of the pipeline operator by the applicant—
+
+(i) shall include the terms for such a connection, including any charges for connection, and details of all technical aspects relating to the connection that might be reasonably required by that person, and
+
+(ii) on request of the applicant, may be on the basis that the applicant constructs, or that either or both the applicant and the pipeline operator arranges to have constructed, the connection to the pipeline, and the ownership of any such connection constructed or arranged to be constructed by the applicant shall, subject to subsection (8) of this section, be a matter for agreement between the parties.
+
+(3) The Commission may by regulations provide for—
+
+(*a*) the matters to be specified in an agreement for transportation of the natural gas through the pipeline of the pipeline operator, including terms and conditions relating to price;
+
+(*b*) the matters to be specified in an agreement for connection to the pipeline of the pipeline operator;
+
+(*c*) the terms and conditions, including terms and conditions relating to price of the connection, upon which an offer for connection to the pipeline of the pipeline operator is made;
+
+(*d*) the methods for determining the proportion of the costs to be borne by the person making the application for connection to the pipeline of the pipeline operator and to be borne by the pipeline operator being costs which are directly or indirectly incurred in carrying out works under an agreement or making a connection or modifying an existing connection;
+
+(*e*) the terms and conditions upon which applications for an agreement are to be made and the period of time within which an offer or refusal pursuant to an application is to be made by the pipeline operator; and
+
+(*f*) any other matters which the Commission considers necessary or expedient for the purpose of making an offer for the transportation of natural gas through a pipeline or connection to a pipeline.
+
+(4) A pipeline operator shall comply with any regulations made by the Commission under subsection (3) of this section within such time period as may be specified by the Commission in the regulations.
+
+(5) A pipeline operator shall not make an offer under subsection (1) of this section other than to a person of the type mentioned in paragraph (*a*), (*b*), (*c*), (*d*) or (*e*) of that subsection.
+
+(6) A pipeline operator may refuse a request made under subsection (1)—
+
+(*a*) on the basis of a lack of capacity in its pipeline, save where it is economical for the operator to make the necessary enhancements to the capacity of the pipeline,
+
+(*b*) on the basis of a lack of connection to that pipeline, save where the person making the request is willing to pay for such a connection in accordance with such conditions as may be specified by the Commission in regulations made under subsection (3) of this section,
+
+(*c*) where, to enter into an agreement under this section would be likely to involve the pipeline operator in a contravention or a breach of—
+
+(i) this Act, the Electricity Regulation Act, 1999, the Gas (Amendment) Act, 2000, or the *Gas (Interim) (Regulation) Act, 2002*;
+
+(ii) regulations made under any of the aforesaid Acts;
+
+(iii) the conditions of any licence granted or consent given to the pipeline operator under this Act or the *Gas (Interim) (Regulation) Act, 2002*;
+
+(iv) the code of operations (within the meaning of *section 13* of the *Gas (Interim) (Regulation) Act, 2002*) of the pipeline operator; or
+
+(v) a public service obligation imposed on the pipeline operator by an order made under *section 21(1)* of the *Gas (Interim) (Regulation) Act, 2002*,
+
+or
+
+(*d*) the person making the application does not undertake to be bound by the terms of the aforesaid code of operations of the pipeline operator in so far as those terms are applicable to that person.
+
+(7) Where a pipeline operator refuses to offer to enter into an agreement under this section, the operator shall serve notice on the applicant of the reasons for such a refusal.
+
+(8) Any dispute between a pipeline operator and any person who is, or claims to be, a person to whom the operator is obliged to make an offer for the transportation of natural gas through or, where appropriate, connection to the pipeline of the pipeline operator (and whether as to the making of an offer, the terms offered, the proposed charges or otherwise) where an offer is made or refused by the operator, may, upon the application of that person, be determined by the Commission and the operator shall comply with and be bound by any such determination.
+
+(9) Where an application is made under subsection (8) of this section to the Commission in relation to a dispute concerning a distribution or transmission pipeline, part of which is situated in the territory of another state, on the seabed under the territorial seas of another state or on the continental shelf belonging to another state, the Commission shall consult the relevant authorities in that other state with respect to the application.
+
+(10) In order to ensure compliance with a determination made under this section the Commission may apply in a summary manner on notice to the High Court for an order requiring a pipeline operator to comply with the determination.
+
+(11) Where providing for the transportation of natural gas or where offering terms for the carrying out of works for the purpose of connection to the pipeline of a pipeline operator, the pipeline operator shall not discriminate unfairly as between any persons or classes of persons.
+
+(12) A pipeline operator shall not, in the context of sales or purchases of natural gas by that operator or related undertakings, abuse commercially sensitive information obtained from third parties in the context of providing or negotiating access to a pipeline under the control of the pipeline operator.
+
+(13) In this section ‘pipeline operator’ has the same meaning as in *section 14* of the *Gas (Interim) (Regulation) Act, 2002*.
+
+10B.—(1) Subject to subsection (6) of this section, where an application is made to an upstream pipeline operator by—
+
+(*a*) the holder of a natural gas licence under *section 16* of the *Gas (Interim) (Regulation) Act, 2002*, for the purpose of carrying out any activity for which the holder is licensed,
+
+(*b*) the holder of a petroleum lease under section 13 of the Petroleum and Other Minerals Development Act, 1960, for the purpose of carrying out any activity connected with the lease,
+
+(*c*) a person, including the Board, in respect of whom an order has been made under section 2(1) of the Gas (Amendment) Act, 1987, for the purpose of carrying out the functions conferred on the person by the order,
+
+(*d*) a person who operates a gas-fired generating station, irrespective of its annual consumption level, for the purpose of providing energy for the generation of electricity at that station, or
+
+(*e*) a final customer (within the meaning of *section 2* of the *Gas (Interim) (Regulation) Act, 2002*) with an annual rate of consumption of not less than 2,000,000 standard cubic metres per annum (or such other rate as may stand prescribed for the time being) at a single meter installation for the purpose of delivery to that installation,
+
+to transport on his or her behalf through pipelines under the control of the upstream pipeline operator natural gas, the upstream pipeline operator shall offer to enter into an agreement for the transportation of the natural gas on behalf of that person, subject to terms and conditions specified in regulations made by the Minister for the Marine and Natural Resources under subsection (3) of this section.
+
+(2) Notwithstanding the generality of subsection (1) of this section, an offer made under that subsection:
+
+(*a*) may include an offer to transport natural gas at a rate that is greater or less than the rate to which the request relates (but, except in the case of an application made by a person mentioned in subsection (1)(*c*) or (*d*), not less than the annual rate mentioned in subsection (1)(*e*) of this section), and
+
+(*b*) where connection is required to the pipeline of the upstream pipeline operator by the applicant—
+
+(i) shall include the terms for such a connection, including any charges for connection, and details of all technical aspects relating to the connection that might be reasonably required by that person, and
+
+(ii) on request of the applicant, may be on the basis that the applicant constructs, or that either or both the applicant and the upstream pipeline operator arranges to have constructed, the connection to the pipeline, and the ownership of any such connection constructed or arranged to be constructed by the applicant shall, subject to subsection (8) of this section, be a matter for agreement between the parties.
+
+(3) The Minister for the Marine and Natural Resources may, following consultation with the Commission, by regulations provide for—
+
+(*a*) the matters to be specified in an agreement for transportation of the natural gas through the pipeline of the upstream pipeline operator, including terms and conditions relating to price,
+
+(*b*) the matters to be specified in an agreement for connection to the pipeline of the pipeline operator,
+
+(*c*) the terms and conditions, including terms and conditions relating to price of the connection, upon which an offer for connection to the pipeline of the pipeline operator is made,
+
+(*d*) the methods for determining the proportion of the costs to be borne by the person making the application for connection to the pipeline of the pipeline operator and to be borne by the pipeline operator being costs which are directly or indirectly incurred in carrying out works under an agreement or making a connection or modifying an existing connection,
+
+(*e*) the terms and conditions upon which applications for an agreement are to be made and the period of time within which an offer or refusal pursuant to an application is to be made by the upstream pipeline operator, and
+
+(*f*) any other matters which the Minister for the Marine and Natural Resources considers necessary or expedient for the purpose of making an offer for the transportation of natural gas through a pipeline or connection to a pipeline.
+
+(4) An upstream pipeline operator shall comply with any regulations made by the Minister for the Marine and Natural Resources under subsection (3) of this section within such time period as may be specified by the Minister for the Marine and Natural Resources in the regulations.
+
+(5) An upstream pipeline operator shall not make an offer under subsection (1) of this section other than to a person of the type mentioned in paragraph (*a*), (*b*), (*c*), (*d*) or (*e*) of that subsection.
+
+(6) An upstream pipeline operator may refuse a request made under subsection (1) of this section—
+
+(*a*) on the basis of a lack of capacity in its pipeline, save where it is economical for the operator to make the necessary enhancements to the capacity of the pipeline,
+
+(*b*) on the basis of a lack of connection to that pipeline, save where the person making the request is willing to pay for such a connection in accordance with such conditions as may be specified by the Minister for the Marine and Natural Resources in regulations made under subsection (3) of this section,
+
+(*c*) where, to enter into an agreement under this section would be likely to involve the upstream pipeline operator in a contravention or a breach of—
+
+(i) the Gas Acts, 1976 to 2002, the Electricity Regulation Act, 1999, the Gas (Amendment) Act, 2000, or the *Gas (Interim) (Regulation) Act, 2002*,
+
+(ii) regulations made under any of the aforesaid Acts,
+
+(iii) the conditions of any licence granted or consent given to the upstream pipeline operator under this Act or under the *Gas (Interim) (Regulation) Act, 2002*,
+
+(iv) the conditions of any licence, lease or permit granted to the upstream pipeline operator under the Petroleum and Other Minerals Development Act, 1960, or
+
+(v) the upstream pipeline operator's code of operations, being a code, approved by the Minister for the Marine and Natural Resources, in respect of all technical design, operational and other requirements relating to operation of the upstream pipeline in respect of which the holder has been granted a consent by that Minister under section 40(1),
+
+or
+
+(*d*) the person making the application does not undertake to be bound by the terms of the aforesaid code of operations of the upstream pipeline operator in so far as those terms are applicable to that person.
+
+(7) Where an upstream pipeline operator refuses to offer to enter into an agreement under this section, the operator shall serve notice on the applicant of the reasons for such a refusal.
+
+(8) The Minister for the Marine and Natural Resources, or any person nominated in that behalf by the Minister, for the purposes of Article 21 of the Directive, shall be the competent authority (in this section referred to as the ‘competent authority’) in the State to settle expeditiously disputes concerning refusal of access to upstream pipelines within the scope of the Directive.
+
+(9) Any dispute between an upstream pipeline operator and any person who is, or claims to be, a person to whom the operator is obliged to make an offer for the transportation of natural gas through a pipeline under the control of that operator (and whether as to the making of an offer, the terms offered, the proposed charges or otherwise) where an offer is made or is refused by the operator, may, upon the application of that person, be determined by the competent authority and the operator shall comply with and be bound by any such determination.
+
+(10) Where an application is made under subsection (9) of this section to the competent authority in relation to a dispute concerning an upstream pipeline, part of which is situated in the territory of another state, on the seabed under the territorial seas of another state or on the continental shelf belonging to another state the competent authority shall, prior to considering the application, consult the relevant authorities in that other state with respect to the application.
+
+(11) The parties to a dispute referred to in subsection (8) of this section shall provide all documents, records, accounts, estimates and other information, whether oral or written, requested from time to time, by the competent authority in the form and at the times specified by that authority, for the purpose of making a determination under subsection (9) of this section.
+
+(12) (*a*) In making a determination under subsection (9) of this section, the competent authority shall apply the objectives of—
+
+(i) fair and open access,
+
+(ii) achieving a competitive market in natural gas, and
+
+(iii) avoiding any abuse of a dominant position.
+
+(*b*) In applying the objectives under paragraph (*a*) of this subsection, the competent authority shall take account of—
+
+(i) security and regularity of supplies,
+
+(ii) capacity which is or can reasonably be made available,
+
+(iii) environmental protection, and
+
+(iv) the number of parties which may be involved in negotiating access to upstream pipelines.
+
+(13) Without prejudice to the generality of subsection (12) of this section, in making a determination under subsection (9) of this section, the competent authority may take into account the need—
+
+(*a*) to refuse access where there is an incompatibility which cannot be reasonably overcome between the technical specifications being proposed by the applicant and those applying to the pipeline of the upstream pipeline operator,
+
+(*b*) to avoid difficulties which cannot be reasonably overcome and could prejudice the efficient, current and planned future production of natural gas or other hydrocarbons, including that from fields of marginal economic value, and
+
+(*c*) to respect the duly substantiated reasonable needs of the upstream pipeline operator for the transport and processing of gas and the interests of all other users of the relevant upstream pipeline or processing or handling facilities who may be affected.
+
+(14) In order to ensure compliance with a determination made under subsection (9) of this section the competent authority may apply in a summary manner on notice to the High Court for an order requiring an upstream pipeline operator to comply with the determination.
+
+(15) Where providing for the transportation of natural gas or where offering terms for the carrying out of works for the purpose of connection to a pipeline under the control of an upstream pipeline operator, the upstream pipeline operator shall not discriminate unfairly as between any persons or classes of persons.
+
+(16) An upstream pipeline operator shall not, in the context of sales or purchases of natural gas by that operator or related undertakings, abuse commercially sensitive information obtained from third parties in the context of providing or negotiating access to a pipeline under the control of the upstream pipeline operator.
+
+(17) (*a*) Subject to paragraph (*b*) of this subsection, an upstream pipeline operator shall, within such time as the Minister for the Marine and Natural Resources may direct, prepare a statement for the approval of the Minister setting out the basis upon which charges are imposed—
+
+(i) for the transportation of natural gas through a pipeline under the control of the upstream pipeline operator, and
+
+(ii) for connection to a pipeline under the control of that upstream pipeline operator.
+
+(*b*) The Minister for the Marine and Natural Resources may—
+
+(i) give directions to an upstream pipeline operator from time to time in respect of the basis for charges for the transportation of natural gas through, or connection to, a pipeline under the control of the upstream pipeline operator, and
+
+(ii) specify by regulations the classes of upstream pipeline operator to whom paragraph (*a*) of this subsection does not apply.
+
+(*c*) Notwithstanding the generality of paragraph (*b*) of this subsection, directions given by the Minister for the Marine and Natural Resources under this subsection may provide for—
+
+(i) the methods of charging to be included in the statement to be prepared by an upstream pipeline operator,
+
+(ii) the form and the extent of the information to be provided by an upstream pipeline operator to applicants,
+
+(iii) the form of charges and information about those charges to be included in the statement to be prepared by an upstream pipeline operator,
+
+(iv) the procedure to be adopted in the submission by an upstream pipeline operator of a statement of charges and the approval by the Minister for the Marine and Natural Resources of such statement, and
+
+(v) the nature of information to be provided to applicants seeking the transportation of natural gas through, or connection to, a pipeline under the control of the upstream pipeline operator and its presentation and transparency.
+
+(*d*) An upstream pipeline operator shall comply with directions given to it by the Minister for the Marine and Natural Resources under this subsection.
+
+(*e*) A charge for the transportation of natural gas through, or connection to, a pipeline under the control of the upstream pipeline operator shall be calculated in accordance with directions given by the Minister for the Marine and Natural Resources under this section so as to enable the upstream pipeline operator to recover—
+
+(i) the appropriate proportion of the costs directly or indirectly incurred in carrying out any necessary works, and
+
+(ii) a reasonable rate of return on the capital represented by such costs.
+
+(*f*) The Minister for the Marine and Natural Resources, solely, shall determine that which constitutes an ‘appropriate proportion’ referred to in paragraph (*e*)(i) of this subsection and a ‘reasonable rate of return’ referred to in paragraph (*e*)(ii) of this subsection.
+
+(18) (*a*) An upstream pipeline operator shall send each statement prepared in accordance with subsection (17) of this section to the Minister for the Marine and Natural Resources for its approval (in this section referred to as the ‘statement’) and the statement, and in particular any charges referred to therein, shall not apply until such time as it has been approved of by the Minister for the Marine and Natural Resources, subject to such modifications, if any, as that Minister considers appropriate.
+
+(*b*) The Minister for the Marine and Natural Resources shall consult with an upstream pipeline operator and have regard to any submission made by the upstream pipeline operator to the Minister for the Marine and Natural Resources prior to making a decision as to whether to approve of or not, as the case may be, a statement submitted by the upstream pipeline operator to the Minister for the Marine and Natural Resources for approval.
+
+(*c*) Any charges imposed by an upstream pipeline operator on or before the coming into operation of this section shall, subject to the approval of the Minister for the Marine and Natural Resources, continue in force until a statement has been approved of by that Minister under this section and thereafter all charges shall be in accordance with a statement approved of by that Minister.
+
+(19) In this section—
+
+‘Directive’ means Directive 98/30/EC of the European Parliament and of the Council of 22 June 1998 concerning the internal market in natural gas;
+
+‘pipeline’ means an upstream pipeline and includes facilities supplying technical services incidental to acquiring access to such pipelines;
+
+‘upstream pipeline operator’ means a person operating an upstream pipeline in accordance with a consent given by the Minister for the Marine and Natural Resources under section 40 (1).”.
+
+(2) F19[...]
+
+(3) F20[...]
+
+(4) F21[...]
+
+(5) F22[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F19, F20, F21, F22: Repealed (30.06.2005) by *European Communities (Internal Market in Natural Gas) Regulations 2005* (S.I. No. 320 of 2005), reg. 4.
+
+## 15. Directives as to profits and financial objectives of Bord Gáis Éireann.
+
+**15.** —The following section is substituted, on the appointed day, for section 11 (as amended by section 2(2) of the Act of 1995) of the Gas Act, 1976.
+
+“11.—(1) (*a*) The Minister may, from time to time, with the consent of the Minister for Finance, give the Board such general directives concerning the financial objectives of the Board, as he or she considers appropriate.
+
+(*b*) The Minister may, from time to time, with the consent of the Minister for Finance, direct that the profits of the Board in a year specified in the direction shall be applied in such manner (including application for the benefit of the Exchequer) as is specified in the direction.
+
+(2) In performing its functions the Board shall—
+
+(*a*) comply with any direction under this section, and
+
+(*b*) have regard to any directive under this section concerning its financial objectives.”.
+
+## 16. Natural gas licences.
+
+**16.** — F23[(1) The Commission may grant or refuse to grant to a person a licence to undertake in the State all or any of the following activities:
+
+(*a*) the supply of natural gas;
+
+(*b*) the shipping of natural gas;
+
+(*c*) the ownership and operation of a transmission system;
+
+(*d*) the ownership and operation of a distribution system;
+
+(*e*) the operation of a natural gas storage facility;
+
+(*f*) the operation of an LNG facility.]
+
+F24[(1A) A licence granted under *subsection (1)* is subject to such conditions as are specified in the licence.
+
+(1B) Subject to security of supply requirements, it shall be a duty of the Commission to ensure that all customers are entitled to be supplied with gas by a supplier, subject to the supplier’s agreement, regardless of the Member State in which the supplier is registered, on condition that the supplier follows the applicable trading and balancing rules.
+
+(1C) For the purposes of the Directive—
+
+(*a*) the holder of a licence for the ownership and operation of a transmission system is F25[approved, certified and designated] as a transmission system operator,
+
+(*b*) the holder of a licence for the operation of a natural gas storage facility is designated as a storage facility operator, and
+
+(*c*) the holder of a licence for operation of a LNG facility is designated as a LNG facility operator.]
+
+F26[(1D) For the purposes of Article 24 of the Directive, the holder of a licence for the operation of a distribution system is designated as a distribution system operator.]
+
+F27[(1E) Without prejudice to its balancing obligations, a transmission system operator shall be prohibited from applying for a licence in respect of the activities mentioned in *subsection (1)(a)* or *(b)*.
+
+(1F) The holder of a licence under *subsection (1)(a)* shall keep for not less than 5 years and make available on a request being made by the Commission, the Competition and Consumer Protection Commission or the European Commission all relevant data relating to all transactions in gas supply contracts and gas derivatives with wholesale customers and transmission system operators as well as storage and LNG operators.
+
+(1G) The data referred to in *subsection (1F)* shall include details of relevant transactions such as duration, delivery and settlement rules, the quantity, the dates and times of execution and the transaction prices and means of identifying the wholesale customer concerned, as well as specified details of all unsettled gas supply contracts and gas derivatives.
+
+(1H) The Commission may decide to make available to market participants elements of this information provided that commercially sensitive information on individual market players or individual transactions is not released. This paragraph shall not apply to information about financial instruments which fall within the scope of Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004[^4].
+
+(1I) The obligations on undertakings under *subsection (1F)* with respect to transactions by them in gas derivatives with wholesale customers and transmission system operators as well as storage and LNG operators shall not apply until such time as the European Commission has adopted Guidelines, referred to in Article 44 of the Natural Gas Market Directive, defining the methods and arrangements for record keeping as well as the form and content of the data to be kept by undertakings.
+
+(1J) In the event that the authorities referred to in *subsection (1F)* require access to data kept by entities falling within the scope of Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004, the authorities responsible under that Directive shall provide them with the required data.]
+
+(2) Subject to F28[the regulations (if any) in force under] *subsection (4)*, a person who undertakes any of the activities mentioned in *subsection (1)* without a natural gas licence in respect of the activity is guilty of an offence and shall be liable on summary conviction to a fine not exceeding €3,000 or to imprisonment for a term not exceeding 3 months, or to both.
+
+(3) Summary proceedings for an offence under this section may be brought and prosecuted by the Commission.
+
+(4) The Commission may specify by regulations—
+
+(*a*) the classes of activities mentioned in *subsection (1)* to which *subsection (2)* F29[...] shall not apply, and
+
+(*b*) the classes of licence holder to which the requirements of *section 13* shall not apply.
+
+F30[(4A) (*a*) The Commission may, in carrying out its function under section 9(1F) of the Act of 1999, in a licence under *subsection (1)(a)*, *(c)* or *(d)*, specify such standards of performance and quality in connection with the supply of natural gas to final customers as the Commission determines ought to be achieved.
+
+(*b*) The holder of a licence referred to in *paragraph (a)* shall comply with such standards of performance as may be specified by the Commission in the licence concerned.]
+
+(5) An application for a natural gas licence shall be—
+
+(*a*) in writing and be in such form and contain such information as the Commission may request, and
+
+(*b*) accompanied by such a fee, if any, as the Commission may determine to be appropriate, having regard to the application being made.
+
+(6) The Commission shall make information on such fees payable under *subsection (5)(b)* available on the request of an applicant for a natural gas licence.
+
+(7) The Commission shall monitor the activities of a holder of a natural gas licence to ensure that the holder complies with all the terms and conditions of the licence.
+
+(8) The Minister shall specify by regulations the criteria in accordance with which an application for a natural gas licence of any category referred to in F31[...] *subsection (1)* may be determined by the Commission.
+
+(9) The criteria specified by the Minister under *subsection (8)* may relate to, any or all of the following:
+
+(*a*) security of supply,
+
+(*b*) the safety and security of the natural gas system,
+
+(*c*) the qualifications of an applicant, including the technical and financial qualifications of the applicant, and
+
+(*d*) any other criteria specified under *subsection (8)*.
+
+(10) F32[...]
+
+(11) F32[...]
+
+F33[(12) Where—
+
+(*a*) the Commission refuses to grant a natural gas licence or to give a consent under section 39A(1) of the Gas Act 1976, or
+
+(*b*) the Minister refuses to give a consent under section 40 (1) of the Gas Act 1976,
+
+section 14(7) of the Act of 1999 shall apply to the refusal.]
+
+F34[(13) A holder of a natural gas licence shall—
+
+F35[(*a*) in the case of a holder of a licence under *paragraph (1)(c)*, *(1)(e)* or *(1)(f)*, operate, maintain and develop under economic conditions a secure, reliable, economic and efficient transmission, storage or LNG facilities (as the case may be having regard to the activity for which it is licensed) to secure an open market, with due regard to the environment and public safety and ensure adequate means to meet service obligations,]
+
+F36[(*aa*) in the case of a holder of a licence under *paragraph (1)(d)*, ensure the long-term ability of the system to meet reasonable demands for the distribution of natural gas, and for operating, maintaining and developing under economic conditions a secure, reliable and efficient system in its area, with due regard for the environment and energy efficiency;]
+
+F37[(*ab*) in the case of a holder of a licence under *subsection (1)(a)* or *(1)(b)*, operate, maintain and develop under economic conditions such facilities or systems as required for the purpose of carrying out the activity for which it is licensed with due regard to the environment and public safety,]
+
+(*b*) not discriminate between system users or classes of system users particularly in favour of related undertakings,
+
+(*c*) provide any natural gas undertaking with sufficient information to ensure that transport or storage of natural gas may take place in a manner compatible with the safe secure and efficient operation of the natural gas system,
+
+(*d*) without prejudice to any legal obligation to disclose information, preserve the confidentiality of commercially sensitive information obtained in the course of carrying out its business,
+
+F38[(*e*) in the case of the holder of a licence under *subsection (1)(c)* take steps to prevent the disclosure in a discriminatory manner of commercially advantageous information about its own activities and shall not, if applicable, disclose any commercially sensitive information to the remaining parts of the undertaking of which it is part, unless this is necessary for carrying out a business transaction,]
+
+F40[(*ea*) in the case of the holder of a licence under *paragraph (1)(c)*, without prejudice to its obligations to protect commercially sensitive information, make public all information necessary for effective competition and the efficient functioning of the market,]
+
+F39[(*f*) in the case of a holder of a licence under *subsection (1)(c)*, *(d)*, *(e)* or *(f)* provide users of the system or facility with the information they need for efficient access to, including use of, the system,]
+
+F41[(*fa*) F42[...]]
+
+F43[(*g*) in the case of the holder of a licence for the operation of a transmission system, obtain the energy that is uses for carrying out its functions according to transparent, non-discriminating and market-based procedures,
+
+(*h*) if, in the case of the holder of a licence for the operation of a transmission system or a distribution system, the holder is responsible for balancing that system—
+
+(i) adopt rules for operating the system that are objective transparent and non-discriminatory (including rules for charging users of the system for energy imbalance subject to approval by the Commission), and
+
+(ii) ensure that terms and conditions (including rules and tariffs for providing balancing services) are established in a non-discriminatory and cost reflective way according to a methodology compatible with F44[Article 41(6)] of the Directive, and
+
+(iii) publish those rules, terms and conditions in a publication that is F45[generally available to those users]]
+
+(*i*) provide all documents, records, accounts, estimates and other information, whether oral or written, requested from time to time by the Commission, in the form and at the times specified by the Commission, for the purpose of verifying that the holder of the licence is complying with the conditions of the licence, or as may be required by the Commission in the performance of its duties or functions imposed F45[under this Act, and]]
+
+F46[(*j*) in the case of a holder of a licence for the supply of natural gas or for the shipping of natural gas, ensure that procedures are put in place by every such licence holder to ensure that, in the event of a national gas emergency, final customers are informed of any interruption or possible interruption to the supply of natural gas to those customers as a consequence of the implementation of the Natural Gas Emergency Plan or a direction of the National Gas Emergency Manager.]
+
+F47[(*k*) in the case of the holder of a licence under *subsection (1)(c)*—
+
+(i) build sufficient cross-border capacity to integrate European transmission infrastructure accommodating all economically reasonable and technically feasible demands for capacity and taking into account security of natural gas supply, and
+
+(ii) establish and publish transparent and efficient procedures and tariffs for non-discriminatory connection of storage facilities, LNG regasification facilities and industrial customers to the transmission system. Those procedures shall be subject to approval by the F49[Commission.]]
+
+F48[(*l*) F50[...]]
+
+(14) (*a*) Where the Commission is satisfied that all or any of the circumstances set out in *paragraph (b)* have arisen or are likely to arise it may direct the holder of a natural gas licence, the holder of a consent given by the Minister, before the appointed day, under F51[section 8(6)] or 40(1) of the Gas Act, 1976, the holder of a consent given by the Commission under section 39A(1) of the Gas Act, 1976, a person in respect of whom an order has been made under section 2(1) of the Gas (Amendment) Act, 1987, a person undertaking an activity mentioned in regulations made by the Commission under subsection (4), or the Board, to discontinue or to refrain from specified practices.
+
+(*b*) The circumstances referred to in *paragraph (a)* are where the Commission is of the opinion that:
+
+(i) immediate action is necessary to protect—
+
+(I) public health or safety or the environment,
+
+(II) the continuity of supplies of natural gas, or
+
+(III) the interests of other holders of natural gas licences or consents given under the Gas Act, 1976, or of other persons in respect of whom an order has been made under section 2(1) of the Gas (Amendment) Act, 1987, or undertaking an activity mentioned in regulations made by the Commission under subsection (4),
+
+(ii) the holder of a natural gas licence or a consent aforesaid, or a person in respect of whom an order has been made under section 2(1) of the Gas (Amendment) Act, 1987, is contravening or is likely to contravene a term, condition or requirement and immediate action is necessary to cease or prevent F55[such contravention,]
+
+(iii) immediate action is necessary to prevent dissipation of the assets of the holder of a natural gas licence or a consent aforesaid, or of a person in respect of whom an order has been made under section 2(1) of F56[the Gas (Amendment) Act 1987, or]
+
+F57[(iv) in the case of the holder of a licence granted under *subsection (1)* to operate a transmission system that the action is necessary to ensure compliance by such licence holder with F58[Regulation (EC) No 715/2009 of the European Parliament and of the Council of 13 July 2009[^5]].]
+
+(*c*) Nothing in this subsection shall authorise the Commission to give directions relating to industrial disputes.
+
+(15) Where the Commission is of the opinion that the holder of a natural gas licence or a consent given by the Minister, before the appointed day, under F52[section 8(6)] or 40(1) of the Gas Act, 1976, or a consent given by the Commission under section 39A(1) of the Gas Act, 1976, or a person in respect of whom an order has been made under section 2(1) of the Gas (Amendment) Act, 1987, is contravening or is likely to contravene a term, condition or requirement, sections 24 to 26 of the Act of 1999 shall apply to any actions it may take.
+
+(16) (*a*) In this subsection and in *subsections (14)* and *(15)* “term, condition or requirement” means—
+
+(i) any term or condition of a natural gas licence,
+
+(ii) any requirement imposed by or under this Act,
+
+(iii) any conditions or requirements imposed by the Minister under subsection (8) or (9) of section 8, or section 40(3) of the Gas Act, 1976, or by the Commission under section 39A(4) (inserted by *section 12* ) of the Gas Act, 1976, or
+
+(iv) any duties or obligations conferred on a person by an order made under section 2(1) of the Gas (Amendment) Act, 1987.
+
+(*b*) Where—
+
+(i) the holder of a natural gas licence, a consent given by the Minister, before the appointed day, under F53[section 8(6)] or 40(1) of the Gas Act, 1976, a consent given by the Commission under section 39A(1) of the Gas Act, 1976, or a person in respect of whom an order has been made under section 2(1) of the Gas (Amendment) Act, 1987, requests the Commission to modify the terms, conditions or requirements of the licence, consent or order, or
+
+(ii) the Commission is of the opinion that:
+
+(I) a natural gas licence or consent aforesaid should be amended,
+
+(II) a modification of a term, condition or requirement of a natural gas licence, consent or order aforesaid is a modification of a class required by an order of the Minister made under *section 21* ,
+
+the Commission may modify the terms, conditions or requirements of the licence, consent or order concerned in accordance with sections 20 to 22 of the Act of 1999, and those sections shall, accordingly, be construed as including references to a natural gas licence, consent or order as aforesaid, where appropriate.
+
+(17) Any reference—
+
+(*a*) in sections 14(7), 29, 30 and 32 of the Act of 1999 to a licence shall be construed as including a reference to a natural gas licence and an order made under section 2(1) of the Gas (Amendment) Act, 1987,
+
+(*b*) in sections 17(4), 29, 30 and 32 of the Act of 1999 to an authorisation shall be construed as including a reference to a consent of a type mentioned in F54[section 8(6)], 39A(1) or 40(1) of the Gas Act, 1976, other than a consent in regard to an upstream pipeline.
+
+F59[(18) A natural gas undertaking shall comply with any directions made by the Commission under this Act or the Gas Act 1976 within such time period as may be specified by the Commission in the direction.]
+
+F60[(19) In this section, "contravene" includes failure to comply.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F23: Substituted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 27(b)(i).
+>
+> F24: Substituted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 41(b).
+>
+> F25: Substituted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 27(b)(ii).
+>
+> F26: Inserted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 41(b).
+>
+> F27: Inserted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 27(b)(iii).
+>
+> F28: Inserted (4.07.2008) by *European Communities (Internal Market in Natural Gas) (BGE) Regulations 2005* (S.I. No. 760 of 2005), reg. 24(1)(b), in effect as per reg. 1(3) by notice in Iris Oifigiúil, Issue No. 54 of 2008, published 4 July 2008.
+>
+> F29: Deleted (4.07.2008) by *European Communities (Internal Market in Natural Gas) (BGE) Regulations 2005* (S.I. No. 760 of 2005), reg. 24(1)(c), as amended by S.I. No. 377 of 2007, reg. 9(b), in effect as per reg. 1(3) by notice in Iris Oifigiúil, Issue No. 54 of 2008, published 4 July 2008.
+>
+> F30: Inserted (28.04.2017) by *Energy Act 2016* (12/2016), s. 22, S.I. No. 171 of 2017.
+>
+> F31: Deleted (20.07.2004) by *European Communities (Internal Market in Natural Gas) (No. 2) Regulations 2004* (S.I. No. 452 of 2004), reg. 10(b).
+>
+> F32: Repealed (4.07.2008) by *European Communities (Internal Market in Natural Gas) (BGE) Regulations 2005* (S.I. No. 760 of 2005), reg. 24(1)(d), in effect as per reg. 1(3) by notice in Iris Oifigiúil, Issue No. 54 of 2008, published 4 July 2008.
+>
+> F33: Substituted (20.07.2004) by *European Communities (Internal Market in Natural Gas) (No. 2) Regulations 2004* (S.I. No. 452 of 2004), reg. 7(1).
+>
+> F34: Substituted (20.07.2004) by *European Communities (Internal Market in Natural Gas) (No. 2) Regulations 2004* (S.I. No. 452 of 2004), reg. 10(c).
+>
+> F35: Substituted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 41(c)(i).
+>
+> F36: Inserted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 41(c)(i).
+>
+> F37: Substituted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 27(b)(iv)(I).
+>
+> F38, F39: Substituted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 27(b)(iv)(II), (III).
+>
+> F40, F41: Inserted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 41(c)(ii), (iii).
+>
+> F42: Deleted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 27(b)(iv)(III).
+>
+> F43: Substituted (4.07.2008) by *European Communities (Internal Market in Natural Gas) (BGE) Regulations 2005* (S.I. No. 760 of 2005), reg. 24(1)(e), as amended (4.07.2008) by S.I. No. 377 of 2007, reg. 9(c), in effect as per reg. 1(3) by notice in Iris Oifigiúil, Issue No. 54 of 2008, published 4 July 2008.
+>
+> F44: Substituted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 41(c)(iv).
+>
+> F45: Substituted (17.10.2007) by *European Communities (Security of Natural Gas Supply) Regulations 2007* (S.I. No. 697 of 2007), reg. 3(a), (b).
+>
+> F46: Inserted (17.10.2007) by *European Communities (Security of Natural Gas Supply) Regulations 2007* (S.I. No. 697 of 2007), reg. 3(c).
+>
+> F47, F48: Inserted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 41(c)(v).
+>
+> F49: Substituted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 27(b)(iv)(IV).
+>
+> F50: Deleted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 27(b)(iv)(V).
+>
+> F51, F52, F53, F54: Substituted (23.11.2015) by *Gas Regulation Act 2013* (39/2013), s. 45, S.I. No. 520 of 2015.
+>
+> F55, F56: Substituted (8.10.2007) by *European Communities (Conditions for Access to the Natural Gas Transmission Networks) Regulations 2007* (S.I. No. 691 of 2007), reg. 5(a), (b).
+>
+> F57: Inserted (8.10.2007) by *European Communities (Conditions for Access to the Natural Gas Transmission Networks) Regulations 2007* (S.I. No. 691 of 2007), reg. 5(c).
+>
+> F58: Substituted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 27(b)(v).
+>
+> F59: Inserted (20.07.2004) by *European Communities (Internal Market in Natural Gas) (No. 2) Regulations 2004* (S.I. No. 452 of 2004), reg. 10(d).
+>
+> F60: Inserted (4.07.2008) by *European Communities (Internal Market in Natural Gas) (BGE) Regulations 2005* (S.I. No. 760 of 2005), reg. 24(1)(f), in effect as per reg. 1(3) by notice in Iris Oifigiúil, Issue No. 54 of 2008, published 4 July 2008.
+>
+> **Modifications (not altering text):**
+>
+> C5: Application of subs. (2) restricted (4.07.2008) by *European Communities (Internal Market in Natural Gas) (BGE) Regulations 2005* (S.I. No. 760 of 2005), reg. 24(4), in effect as per reg. 1(3) by notice in Iris Oifigiúil, Issue No. 54 of 2008, published 4 July 2008.
+>
+> *Amendment of Gas (Interim)(Regulation) Act 2002*
+>
+> 24.— ...
+>
+> (4) Section 16(2) of the Gas (Interim) (Regulation) Act 2002 does not apply in respect of the ownership of a transmission system or distribution system until the end of 6 months after the transfer date.
+>
+> C6: Application of subs. (2) restricted (17.09.2003) by *Gas (Interim) (Regulation) Act 2002 (Section 16) Regulations 2003* (S.I. No. 428 of 2003), reg. 3.
+>
+> *Disapplication*
+>
+> 3\. Beach supply is hereby specified as a class of activity to which subsections (2) and (10) of Section 16 of the Act shall not apply.
+>
+> C7: Licences continued in force (4.07.2008, transfer date) by *European Communities (Internal Market in Natural Gas) (BGE) Regulations 2005* (S.I. No. 760 of 2005), reg. 24(3), in effect as per reg. 1(3) by notice in Iris Oifigiúil, Issue No. 54 of 2008 published 4 July 2008.
+>
+> *Amendment of Gas (Interim)(Regulation) Act 2002*
+>
+> 24.— ...
+>
+> (3) A licence in force under *section 16* of the Gas (Interim) (Regulation) Act 2002 immediately before the commencement of this Regulation continues in operation as if it has been granted under that section as in force after that commencement.
+>
+> **Editorial Notes:**
+>
+> E6: A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E7: Power pursuant to subs. (4) exercised (17.09.2003) by *Gas (Interim) (Regulation) Act 2002 (Section 16) Regulations 2003* (S.I. No. 428 of 2003).
+>
+> E8: Power pursuant to subs. (8) exercised (4.06.2002) by *Gas (Interim)(Regulation) Act 2002 (Criteria For Determination of Applications For Natural Gas Licences) Regulations 2002* (S.I. No. 265 of 2002).
+>
+> E9: Previous affecting provision: subs. 13(e), (f) substituted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 41(c)(ii), (iii); substituted (19.01.2015) as per F-note above.
+>
+> E10: Previous affecting provision: subs. 13(e), (f) substituted (4.07.2008) by *European Communities (Internal Market in Natural Gas) (BGE) Regulations 2005* (S.I. No. 760 of 2005), reg. 24(1)(e), as amended (4.07.2008) by S.I. No. 377 of 2007, reg. 9(c), in effect as per reg. 1(3) by notice in Iris Oifigiúil, Issue No. 54 of 2008, published 4 July 2008; substituted (1.12.2011) as per F-note above.
+>
+> E11: Previous affecting provision: subs. (13)(ab) inserted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 41(c)(i); substituted (19.01.2015) as per F-note above.
+>
+> E12: Previous affecting provision: subs. (1) substituted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 41(b); substituted (19.01.2015) as per F-note above.
+>
+> E13: Previous affecting provision: subss. (1A), (1B), (1C) inserted (4.07.2008) by *European Communities (Internal Market in Natural Gas) (BGE) Regulations 2005* (S.I. No. 760 of 2005), reg. 24(1)(a), as amended by S.I. No. 377 of 2007, reg. 9(a), in effect as per reg. 1(3) by notice in Iris Oifigiúil, Issue No. 54 of 2008, published 4 July 2008; substituted (1.12.2011) as per F-note above.
+>
+> E14: Previous affecting provision: subs. (1) substituted (4.07.2008) by *European Communities (Internal Market in Natural Gas) (BGE) Regulations 2005* (S.I. No. 760 of 2005), reg. 24(1)(a), in effect as per reg. 1(3) by notice in Iris Oifigiúil, Issue No. 54 of 2008, published 4 July 2008; substituted (1.12.2011) as per E-note above.
+>
+> E15: Previous affecting provision: subs. (1) substituted (20.07.2004) by *European Communities (Internal Market in Natural Gas) (No. 2) Regulations 2004* (S.I. No. 452 of 2004), reg. 10(a); substituted (4.07.2008) as per E-note above.
+>
+> E16: Previous affecting provision: application of subs. (10) restricted (17.09.2003) by *Gas (Interim) (Regulation) Act 2002 (Section 16) Regulations 2003* (S.I. No. 428 of 2003), reg. 3; subsection repealed (4.07.2008) as per F-note above.
+
+## 17. Unbundling of accounts of natural gas undertakings.
+
+F61[**17.**—(1) (*a*) Every natural gas undertaking, except for an undertaking engaged in the production of natural gas and no other natural gas activity, whatever its system of ownership or legal form, shall—
+
+(i) where the Companies Acts 1963 to 2003, applies to it, draw up, submit to audit and file its annual accounts in accordance with the requirements of those Acts, or
+
+(ii) where it is not required to conduct an audit or file annual accounts under the Companies Acts 1963 to 2003, it shall cause its annual accounts to be audited as if it were a company to which *paragraph (a)* applied and make available for inspection at its head or principal office in the State by any member of the public a copy of the accounts it would be obliged to file if it were a company to which *paragraph (a)* applied.
+
+(*b*) The audit of accounts referred to in *paragraph (a)* shall, in particular, verify that the obligation to avoid discrimination and cross-subsidies referred to in *subhead (2)* is respected and the auditor shall include a certificate in the report accompanying the audited accounts in relation to such matters.
+
+(*c*) *Paragraph (b)* shall apply with effect from the first accounting period commencing after 1 July 2004.
+
+(2) (*a*) For the purpose of avoiding discrimination, cross-subsidisation and distortion of competition, natural gas undertakings shall, in their internal accounting—
+
+(i) keep separate accounts for their transmission, distribution, LNG, storage, shipping and supply activities;
+
+(ii) keep accounts, which may be consolidated, for other natural gas activities not related to transmission, distribution, LNG, storage, shipping and supply;
+
+(iii) where appropriate, consolidated accounts for other, non-natural gas activities, as they would be required to do if the activities in question were carried out by separate companies; and
+
+(iv) specify the revenue from ownership of transmission and distribution pipelines.
+
+(*b*) In preparing the accounts referred to in *paragraph (a)*, natural gas undertakings shall include a balance sheet and a profit and loss account for each activity to which that paragraph relates.
+
+(*c*) Natural gas undertakings shall specify in notes to the annual accounts the rules for the allocation of assets and liabilities and expenditure and income, as well as for depreciation, which they follow in drawing up the separate accounts referred to in *paragraphs (a)* and *(b)*.
+
+(*d*) The rules mentioned in *paragraph (c)* may be amended only with the approval of the Commission and any amendment to which this paragraph relates shall be mentioned and duly substantiated in the notes to the annual accounts.
+
+(*e*) The annual accounts of natural gas undertakings shall indicate in notes to their annual accounts any transaction of a certain size (being a size, which, in the opinion of the Commission, would have a significant commercial impact) conducted with related undertakings, within the meaning of Article 2.22 of the Directive.
+
+(3) (*a*) Without prejudice to the generality of *subsection (2)(a)(i)*, natural gas undertakings shall keep separate accounts in relation to the supply of natural gas to eligible customers and customers that are not eligible customers.
+
+(*b*) In *paragraph (a)*, "eligible customers" means persons who have a right to be made an offer by a facility or pipeline operator to enter into an agreement for third party access.
+
+(4) (*a*) The Commission, for the purpose of Article 16 of the Directive, shall—
+
+(i) have the right to require the preparation of and to have access to the accounts kept in accordance with this section of natural gas undertakings in whatever form may be required to discharge its functions under this Act, and
+
+(ii) preserve the confidentiality of commercially sensitive information.
+
+(*b*) The Commission shall determine that which constitutes commercially sensitive material and may provide for the disclosure of such information where this is necessary in order for it to carry out its functions.
+
+(5) Without prejudice to the generality of *subsection (4)* natural gas undertakings shall provide all documents, records, accounts, estimates or other information, whether oral or written, in relation to such activities requested, from time to time, by the Commission, for the purpose for verifying that the undertaking (or a subsidiary of the undertaking) is complying with the conditions of any licence granted or any direction given to it by the Commission, or as may be required by the Commission in the performance of its functions under this Act.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F61: Substituted (20.07.2004) by *European Communities (Internal Market in Natural Gas) (No. 2) Regulations 2004* (S.I. No. 452 of 2004), reg. 11.
+
+## 18. Authorised officers.
+
+**18.** —The Act of 1999 is amended—
+
+(*a*) in section 11(1), by the insertion after “authorisation” of “or a natural gas licence granted under *section 16* of the *Gas (Interim) (Regulation) Act, 2002*, or a consent given under the Gas Act, 1976 ”.
+
+(*b*) in section 11(4), by the substitution for paragraph (*b*) of the following paragraphs:
+
+“(*b*) require a person to whom this section applies or any member, officer or employee of the person to whom this section applies to produce to the authorised officer any books, documents or records (and in the case of such information in a non-legible form to reproduce it in permanent legible form) which are in his or her power or control or to give him or her such information, whether oral or written, as the officer may reasonably require in relation to any entries in such records,
+
+(*bb*) require any such person to give to the officer any other information, whether oral or written, which the officer may reasonably require to determine whether this Act or the *Gas (Interim) (Regulation) Act, 2002*, are being complied with,”,
+
+(*c*) in section 12, by the insertion after “authorisation” of “or a natural gas licence granted under *section 16* of the *Gas (Interim) (Regulation) Act, 2002*, or a consent given by the Minister prior to the appointed day under section 8(7) or 40(1) of the Gas Act, 1976, or given by the Commission under section 39A(1) of the Gas Act, 1976 ”.
+
+## 19. Gas capacity statement.
+
+**19.** — F62[(1) (*a*) It shall be the duty of the Commission to monitor security of supply of natural gas.
+
+(*b*) The monitoring referred to in *paragraph (a)* shall include the monitoring of—
+
+(i) the balance between supply and demand on the natural gas system,
+
+(ii) the natural gas flows on each part of the natural gas system,
+
+(iii) customer demand on each part of the natural gas system,
+
+(iv) the capacity of the natural gas system,
+
+(v) the level of expected future demand over the following 7 years,
+
+(vi) the envisaged additional capacity being planned or under construction,
+
+(vii) the quality and level of maintenance of the natural gas system,
+
+(viii) the measures to cover peak demand,
+
+(ix) the measures to deal with a shortfall of capacity by one or more suppliers,
+
+(x) the competitive impact of measures taken by the Commission to protect security of natural gas supply,
+
+(xi) the levels of storage capacity,
+
+(xii) the extent of long-term gas supply contracts concluded by licensed shippers and suppliers, and in particular their remaining duration, based on information provided by the shippers and suppliers concerned, but excluding commercially sensitive information,
+
+(xiii) the degree of liquidity of the gas market,
+
+(xiv) the regulatory frameworks to provide adequate incentives for new investment in exploration and production, storage, LNG and transport of gas, taking into account Article 22 of Directive 2003/55/EC.[^6]
+
+(1A) The Commission shall prepare and publish, not later than 31 July in each year, a statement (in this section referred to as a "gas capacity statement") outlining the findings resulting from the monitoring specified in *subsection (1)*, together with the measures taken or envisaged to address any issues identified.]
+
+F63[(1B) The Commission shall send a copy of the gas capacity statement to the Commission of the European Communities.]
+
+(2) A gas capacity statement shall be based on information supplied on request to the Commission by natural gas undertakings and it shall be a duty of a natural gas undertaking to supply any information, whether oral or written, that the Commission might reasonably require for the preparation of a gas capacity statement to the extent and within the timescale requested by the Commission.
+
+(3) The Commission may revise from time to time the information set out in and alter the form of each gas capacity statement.
+
+(4) The Commission may omit from a published gas capacity statement the details of any confidential information of the type mentioned in section 13 of the Act of 1999.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F62: Substituted (17.10.2007) by *European Communities (Security of Natural Gas Supply) Regulations 2007* (S.I. No. 697 of 2007), reg. 4.
+>
+> F63: Inserted (20.07.2004) by *European Communities (Internal Market in Natural Gas) (No. 2) Regulations 2004* (S.I. No. 452 of 2004), reg. 8 and (17.10.2007) by *European Communities (Security of Natural Gas Supply) Regulations 2007* (S.I. No. 697 of 2007), reg. 4.
+>
+> **Modifications (not altering text):**
+>
+> C8: Person holding record under section excluded from requirement to refuse an FOI request (14.10.2014) by *Freedom of Information Act 2014* (30/2014), s. 41(1)(a) and sch. 3 part 1, commenced on enactment.
+>
+> **Enactments relating to non-disclosure of records.**
+>
+> **41.**—(1) A head shall refuse to grant an FOI request if—
+>
+> (*a*) the disclosure of the record concerned is prohibited by law of the European Union or any enactment (other than a provision specified in column (3) of *Part 1* or *2* of *Schedule 3* of an enactment specified in that Schedule), or
+>
+> ...
+>
+> SCHEDULE 3
+>
+> Enactments Excluded from Application of *Section 41*
+>
+> Part 1
+>
+> Statutes
+>
+> <table><tr><td>...</td><td></td><td></td></tr><tr><td>No. 10 of 2002</td><td>Gas (Interim) (Regulation) Act 2002</td><td>Section 19.</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E17: Previous affecting provision: subs. (1A) inserted (20.07.2004) by *European Communities (Internal Market in Natural Gas) (No. 2) Regulations 2004* (S.I. No. 452 of 2004), reg. 8; substituted (17.10.2007) as per F-note above.
+>
+> E18: Previous affecting provision: subs. (1) substituted (20.07.2004) by *European Communities (Internal Market in Natural Gas) (No. 2) Regulations 2004* (S.I. No. 452 of 2004), reg. 8; substituted (17.10.2007) as per F-note above.
+
+## 19A. Security of supply
+
+F64[**19A.** (1) It shall be a function of the Commission:
+
+(*a*) to protect the security of supply of natural gas, including measures to protect the security of the national electricity supply,
+
+(*b*) to establish policies to ensure adequate levels of security of supply, and
+
+(*c*) to ensure that the supply of natural gas to household customers, small and medium sized enterprises, and other customers that cannot switch their gas consumption to other energy sources is protected, at least in the event of—
+
+(i) a partial disruption of national gas supplies during such period as may be specified from time to time by the Commission;
+
+(ii) extremely cold temperatures during a peak period (which period may be specified from time to time by the Commission);
+
+(iii) periods of exceptionally high gas demand during the coldest weather periods statistically occurring every 20 years.
+
+(2) In carrying out its duties under *subsection (1)* the Commission may—
+
+(*a*) take such measures as it considers necessary in relation to security of supply and may specify minimum security of supply standards which standards shall be complied with by a person referred to in *subparagraphs (i)* and *(ii)* of *paragraph (b)*; and
+
+(*b*) give a direction which relates to security of supply to a person who is—
+
+(i) an energy undertaking, or
+
+(ii) the holder of a petroleum lease under section 13 of the Petroleum and Other Minerals Development Act 1960,
+
+which direction may relate to the making of financial arrangements by such person and which direction shall be complied with by the person to whom it is directed.
+
+(3) The Commission shall inform the Minister of any measures which it takes pursuant to this section.
+
+(4) Where security of supply standards have been specified by the Commission under *subsection (2)(a)* such standards shall be published by the Commission.
+
+(5) The Commission shall ensure that any measure taken under *subsection (2)*:
+
+(*a*) does not place an unreasonable and disproportionate burden on persons referred to in *subsection (2)(b)*, and
+
+(*b*) is compatible with the requirements of a competitive internal gas market.
+
+(6) In determining the measures to be taken in connection with the provisions of *subsection (2)*, the Commission shall have regard to the list of instruments to enhance security of supply set out in the Annex to the Directive.
+
+(7) Without prejudice to the generality of *subsection (2)*, the Commission may, by means of licence conditions, impose such requirements as it considers necessary upon a natural gas undertaking for the purpose of ensuring that the security of supply is protected.
+
+(8) *Section 16(16)* does not apply to a licence condition imposed pursuant to *subsection (7)* relating to the protection of security of supply.
+
+(9) (*a*) The Commission shall advise the Minister of any likely and substantial risk to security of supply which the Commission, believes, having consulted such persons as it considers appropriate, cannot adequately be managed through national measures.
+
+(*b*) The Minister may, having considered the advice of the Commission—
+
+(i) in accordance with Article 8(3) of the Directive, inform the Chair of the Gas Coordination Group established under Article 7 of the Directive of any likely and substantial risk to security of supply identified by the Commission, and
+
+(ii) request that a meeting of that Group be commenced in accordance with the provisions of Article 9 of the Directive.
+
+(10) (*a*) In order to ensure compliance with a direction given under *subsection (2)*, the Commission may apply to the High Court in a summary manner *ex parte* or on notice for an order requiring:
+
+(i) an energy undertaking, or
+
+(ii) the holder of a petroleum lease under section 13 of the Petroleum and Other Minerals Development Act 1960,
+
+to comply with such direction.
+
+(*b*) The High Court may confirm, revoke or vary a direction given by the Commission and may make such other ancillary order as it thinks fit.
+
+(11) In this section—
+
+"Directive" means Council Directive 2004/67/EC[^7] of 26 April 2004 concerning measures to safeguard security of natural gas supply;
+
+"energy undertaking" has the same meaning as it has in the Electricity Regulation Act 1999;
+
+"security of supply" means security of supply of natural gas, including the security of the national electricity supply;
+
+"security of supply standards" means the criteria referred to in *paragraphs (i)* to *(iii)* of *subsection (1)(c)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F64: Inserted (17.10.2007) by *European Communities (Security of Natural Gas Supply) Regulations 2007* (S.I. No. 697 of 2007), reg. 5.
+
+## 19B. National security measures for natural gas
+
+F65[**19B.** (1) Subject to *subsection (3)*, the Commission may direct the holder of a natural gas licence for the operation of a transmission system to develop, subject to the approval of the Commission, a Natural Gas Emergency Plan as respects natural gas, which plan shall be developed—
+
+(*a*) within such period of time as the Commission shall direct, and
+
+(*b*) following such consultation as the Commission may direct.
+
+(2) Notwithstanding the generality of *section 13(3)*, the Commission may from time to time give directions to the holder of a natural gas licence for the operation of a transmission system with respect to the protection of security of supply and actions to be taken in the event of a natural gas emergency and which directions relate to—
+
+(*a*) the matters to be specified in its code of operations, and
+
+(*b*) the review and revision by such licence holder from time to time of its code of operations.
+
+(3) Notwithstanding the generality of *subsection (1)*, the Natural Gas Emergency Plan as respects natural gas shall include:
+
+(*a*) procedures for the holder of a natural gas licence for the operation of a transmission system to declare a natural gas emergency,
+
+(*b*) provision for the appointment of a National Gas Emergency Manager by the Commission,
+
+F66[(*c*) measures to ensure that supplies for household customers and any such categories of customers, as may be determined by the Commission from time to time, are protected in the event of a natural gas emergency,]
+
+(*d*) measures to protect the security of the national electricity system in so far as that system is dependent on natural gas,
+
+(*e*) the role and responsibilities of the Commission and the person appointed to be the National Gas Emergency Manager in the event of a natural gas emergency,
+
+(*f*) the roles and responsibilities of each class of energy undertaking and certain classes of final customers in the event of a natural gas emergency,
+
+(*g*) the roles and responsibilities of a holder of a petroleum lease under section 13 of the Petroleum and Other Minerals Development Act 1960 in the event of a natural gas emergency,
+
+(*h*) provision to ensure, where appropriate, that energy undertakings are given sufficient opportunity to provide an initial response to a natural gas emergency,
+
+(*i*) provision to ensure that customers are protected where the licence of one or more persons who are the holders of a licence to supply natural gas is revoked or in the event that the holder of a licence to supply natural gas decides to discontinue such licensed activity in the State,
+
+(*j*) measures to minimise the impact on electricity generation and on the safe, secure, reliable, economical and efficient operation of the electricity system, which measures shall be reviewed regularly,
+
+(*k*) a requirement that the National Gas Emergency Manager shall co-ordinate the activities of energy undertakings in order to ensure security of electricity supplies.
+
+(4) Measures taken to protect supplies of natural gas for household customers shall have as an objective the avoidance of discrimination—
+
+(*a*) between persons holding a licence to supply natural gas, or
+
+(*b*) between persons holding a licence for the shipping of natural gas.
+
+(5) The Commission shall appoint a person to be the National Gas Emergency Manager for natural gas and the duties of that manager shall include:
+
+(*a*) the co-ordination of the implementation of the Natural Gas Emergency Plan for natural gas,
+
+(*b*) the co-ordination of activities and planning with such other emergency bodies as may be necessary from time to time,
+
+(*c*) the publication, including publication by electronic means, in a format to be approved by the Commission, of the measures to be taken in the event of a natural gas emergency as specified in the Natural Gas Emergency Plan, and
+
+(*d*) the carrying out of such other tasks relating to natural gas emergencies as the Commission may specify from time to time.
+
+(6) In carrying out its duties under *paragraph (a)* of *subsection (5)*, the National Gas Emergency Manager may give directions to persons referred to in *paragraphs (f)* and *(g)* of *subsection (3)* as to the production, use, supply, shipping, storage, transmission or distribution of natural gas, and such persons shall comply with those directions.
+
+(7) (*a*) In order to ensure compliance with a direction given under *subsection (6)*, the Commission may apply to the High Court in a summary manner *ex parte* or on notice for an order requiring a person to whom the direction is addressed to comply with such direction.
+
+(*b*) The High Court may confirm, revoke or vary a direction given by the National Gas Emergency Manager and may make such other ancillary order as it thinks fit.
+
+(8) The Commission may, following consultation with the National Gas Emergency Manager, the holder of a natural gas licence for the operation of a transmission system, and any other person it considers it is necessary to consult—
+
+(i) review the operation of the Natural Gas Emergency Plan from time to time with a view to its being amended, and
+
+(ii) may direct the holder of a natural gas licence for the operation of a transmission system to make such changes to the Natural Gas Emergency Plan as the Commission considers necessary following the review carried out under *subparagraph (i)*.
+
+(9) (*a*) The Commission may revoke the appointment of a person as National Gas Emergency Manager made under *subsection (5)* and shall inform that person of its decision no later than 7 days after such revocation.
+
+(*b*) A revocation under *paragraph (a)* shall not have effect until the Commission has appointed another person to be the National Gas Emergency Manager and such appointment takes effect.
+
+(10) In this section—
+
+"energy undertaking" has the same meaning as it has in the Electricity Regulation Act 1999;
+
+"natural gas emergency" means any event or circumstance or combination of events or circumstances which have occurred or may occur on the gas network or on any interconnected system, including the supply, shipping, production and storage of natural gas, which adversely affects or may adversely affect, the safety or operational integrity of the onshore gas network or any localised part thereof or which results or may result in a risk to the safety of life, property or the environment.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F65: Inserted (17.10.2007) by *European Communities (Security of Natural Gas Supply) Regulations 2007* (S.I. No. 697 of 2007), reg. 5.
+>
+> F66: Substituted (28.08.2013) by *European Union (Security of Natural Gas Supply) Regulations 2013* (S.I. No. 336 of 2013), reg. 8.
+>
+> **Modifications (not altering text):**
+>
+> C9: Enforcement measures to ensure compliance with a direction under subs. (6) provided (28.08.2013) by *European Union (Security of Natural Gas Supply) Regulations 2013* (S.I. No. 336 of 2013), regs. 5(1)(a), 6. A class A fine means a fine not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+>
+> *Functions of CER with regard to national gas supply emergency.*
+>
+> 5\. (1) The CER—
+>
+> (*a*) shall appoint persons to be authorised officers for the purposes of taking any action necessary to ensure compliance with a direction given by the National Gas Emergency Manager, under section 19B(6) of the Act of 2002, for the implementation of the National Gas Emergency Plan, and such appointment may be specified to be for a fixed period, and
+>
+> ...
+>
+> *Powers of authorised officers.*
+>
+> 6\. (1) In the event of non-compliance with a direction referred to in Regulation 5(1)(*a*), an authorised officer appointed under Regulation 5 may take any or all of the following actions to ensure compliance of natural gas undertakings and customers:
+>
+> (*a*) at any time, enter land or a premises in order to take any action necessary to ensure compliance with that direction;
+>
+> (*b*) require any person on the land or premises to do all such things as are in his or her opinion necessary or expedient for the purpose of ensuring compliance with the direction;
+>
+> (*c*) require the person in charge of the land or premises to give the authorised officer such assistance and facilities within the person’s power or control as are reasonably necessary to enable the authorised officer to exercise any of his or her powers under this Regulation;
+>
+> (*d*) require the person in charge of the land or premises to give the authorised officer such information as the authorised officer may reasonably require for the purposes of his or her powers under this Regulation;
+>
+> (*e*) require a person on the land or premises to follow any procedure for the purposes of any action necessary to ensure compliance with that direction.
+>
+> (2) An authorised officer performing any of their powers under paragraph (1) may be accompanied, and assisted in the exercise of that power, by one or more members of the Garda Síochána.
+>
+> (3) Any person who—
+>
+> (*a*) obstructs, impedes or interferes with an authorised officer in the exercise of a power conferred on him or her by these Regulations,
+>
+> (*b*) without reasonable excuse, refuses or fails to comply with a requirement made of him or her under paragraph (1), or
+>
+> (*c*) makes a statement, or furnishes information pursuant to a requirement made of him or her under paragraph (1), which is false or misleading in a material respect, knowing it to be so false or misleading or being reckless as to whether it is so false or misleading,
+>
+> commits an offence.
+>
+> (4) A person who commits an offence under this Regulation is liable—
+>
+> (*a*) on summary conviction, to a class A fine or to imprisonment for a term not exceeding 6 months, or to both, or
+>
+> (*b*) on conviction on indictment, to a fine not exceeding €100,000 or to imprisonment for a term not exceeding 3 years, or to both.
+>
+> ...
+
+## 20. Provision of information.
+
+**20.** —(1) The Minister may, from time to time, issue guidelines to be followed by the Commission in relation to the provision of information by the Commission to such classes of person as the Minister considers appropriate, including final customers of electricity and gas, concerning the rights of such classes of person, and any other information the Minister considers would be of benefit to such classes of person.
+
+(2) Without prejudice to the generality of *subsection (1)*, the guidelines may provide for the manner in which such information should be provided, including, where the Minister considers it appropriate, publication by electronic means.
+
+(3) In *subsection (1)*, “final customer” in relation to electricity, has the meaning assigned to it in section 2(1) of the Act of 1999.
+
+## 21. Public service obligations.
+
+**21.** —F67[(1) The Minister, following consultation with the Commission and such interested parties as may be determined by the Minister, may by order direct the Commission to impose on such classes of natural gas undertakings as may be specified in the order in the general economic interest, public service obligations which may include security, including security of supply and technical or public safety, regularity, quality and price of supplies, and to environmental protection including energy efficiency and climate protection. Any obligations imposed shall be clearly defined, transparent, non-discriminatory and verifiable.]
+
+(2) Without prejudice to the generality of *subsection (1)*, an order made under that subsection may provide for the charging of a levy (“levy”) by natural gas undertakings to customers in relation to—
+
+(*a*) the costs of delivery of natural gas, and
+
+(*b*) any other costs as may be deemed appropriate from time to time by the Minister, including a reasonable rate of return on the capital represented by such costs, where appropriate, incurred by natural gas undertakings in complying with an order under *subsection (1)* including costs incurred after the variation or revocation of such an order.
+
+(3) Notwithstanding the generality of *subsection (2)*, an order made under this section may provide for:
+
+(*a*) the method of calculation of levy and the manner in which it shall be apportioned to customers,
+
+(*b*) the collection of levy from final customers by natural gas undertakings,
+
+(*c*) the establishment and the administration by the Commission of a fund to be used for—
+
+(i) the collection of payments made by natural gas undertakings, and
+
+(ii) the disbursement of payments as provided under *paragraph (e)*,
+
+(*d*) the transfer, at such times specified in the order, of collected payments referred to in *paragraph (b)* by natural gas undertakings to the fund, and
+
+(*e*) the making, out of the fund, by the Commission of payments to natural gas undertakings for the achievement of the purpose of the fund.
+
+(4) An order made under this section may—
+
+(*a*) impose requirements (whether as to the furnishing of records or other information or the affording of facilities for the examination and testing of meters or otherwise) on natural gas undertakings,
+
+(*b*) provide for the times at which payments are to be made (whether payments by way of levy or payments to natural gas undertakings), and
+
+(*c*) require the amount of any overpayment or underpayment which is made by or to any person to be set off against or added to any subsequent liability or entitlement of that person.
+
+(5) The Minister shall exercise the powers conferred by this section so as to ensure that any sums realised by levy are sufficient (after the payment of the administrative expenses of natural gas undertakings incurred in the collection of levy, or of the Commission in the administration of the fund) to pay to natural gas undertakings the payment required to be made by the order.
+
+(6) The Minister may by order amend or revoke an order made under this section (including an order made under this subsection).
+
+(7) For the avoidance of doubt, a public service obligation may not be imposed for the purpose of extending the natural gas system to new areas of supply on a non-commercial basis.
+
+(8) The reference in section 29(1)(*b*)(i) of the Act of 1999 to an order made under section 39 shall, in the case of a proposed modification of a natural gas licence or a consent given by the Minister prior to the appointed day under section 8(7) or 40(1) of the Gas Act, 1976, or a consent given by the Commission under section 39A(1) (inserted by *section 12* ) of the Gas Act, 1976, be taken to mean an order made under *subsection (1)*.
+
+(9) In this section “public service obligation” means an obligation placed on natural gas undertakings which takes account of general social, economic and environmental factors.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F67: Substituted (20.07.2004) by *European Communities (Internal Market in Natural Gas) (No. 2) Regulations 2004* (S.I. No. 452 of 2004), reg. 5.
+
+## 21A. Supplier of last resort
+
+F68[**21A.**—(1) (*a*) The Commission may invite expressions of interest from persons who are licensed suppliers to act as a supplier of last resort, that is, to supply gas in accordance with this section.
+
+(*b*) Following public consultation and subject to *paragraph (c)*, the Commission shall designate a licensed supplier to act as a supplier of last resort.
+
+(*c*) The Commission may reconfirm, amend or revoke a designation made under this subsection as it sees fit.
+
+(2) A supplier of last resort shall supply gas to final customers of another licensed supplier where—
+
+(*a*) a licensed supplier with whom final customers have a supply contract ceases or fails to supply gas to those final customers in accordance with its contractual obligations, or
+
+(*b*) following representations to the Commission from a licensed supplier, the Commission is of the opinion that circumstances exist which warrant a direction to that supplier of last resort to supply gas to a final customer.
+
+(3) The Commission shall include in a designation under *subsection (1)* any terms, conditions or requirements considered necessary by the Commission in respect of the functions of that supplier of last resort.
+
+(4) The Commission shall specify in a designation—
+
+(*a*) the terms and conditions under which that supplier of last resort shall supply gas to a final customer, including those in relation to—
+
+(i) duration of supply,
+
+(ii) termination of supply, and
+
+(iii) price,
+
+(*b*) the method for calculating the charges for the supply of gas to a final customer,
+
+(*c*) any other matters which the Commission considers necessary for the purpose of the supply of gas to a final customer by that supplier of last resort,
+
+and that supplier of last resort shall comply with the matters so specified.
+
+(5) Where a final customer is supplied with gas by a supplier of last resort, a contract for the supply of gas shall be deemed to exist between the final customer and the supplier of last resort concerned from the date upon which the supply of gas to the final customer by such supplier of last resort commences and such contract shall be subject to terms and conditions specified by the Commission in designating that supplier of last resort.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F68: Inserted (1.07.2007) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 19, S.I. No. 292 of 2007.
+
+## 21B. Shipper of last resort.
+
+F69[**21B.**—(1) (*a*) The Commission may invite expressions of interest from licensed shippers to act as a shipper of last resort, that is, to ship gas in accordance with this section.
+
+(*b*) Following public consultation and subject to *paragraph (c)*, the Commission may designate a licensed shipper to act as a shipper of last resort.
+
+(*c*) F70[...]
+
+(*d*) The Commission may reconfirm, amend or revoke a designation made under *paragraph (b)* as it sees fit.
+
+(2) A shipper of last resort shall ship gas to customers of another licensed shipper where—
+
+(*a*) a licensed shipper with whom customers have a shipping contract ceases or fails to ship gas to those customers in accordance with its contractual obligations, or
+
+(*b*) following representations to the Commission from a licensed shipper, the Commission is of the opinion that circumstances exist which warrant a direction to that shipper of last resort to ship gas to a customer of a licensed shipper.
+
+(3) The Commission shall include in a designation under *subsection (1)* any terms, conditions or requirements considered necessary by the Commission in respect of the functions of that shipper of last resort.
+
+(4) The Commission shall specify in a designation—
+
+(*a*) the terms and conditions under which that shipper of last resort shall ship gas to a customer of a licensed shipper, including those in relation to—
+
+(i) the duration of the obligation,
+
+(ii) the termination of obligation, and
+
+(iii) charges,
+
+(*b*) the method for calculating the charges for the shipping of gas arising from the designation,
+
+(*c*) any other matters which the Commission considers necessary,
+
+and that shipper of last resort shall comply with the matters so specified.
+
+(5) Where a shipper of last resort ships gas to or on behalf of a customer of a licensed shipper in accordance with this section, a contract for the shipping of that gas shall be deemed to exist between that customer and the shipper of last resort concerned from the date upon which the shipping of gas to the customer by such shipper of last resort commences, and such contract shall be subject to terms and conditions specified by the Commission in designating the shipper of last resort.
+
+(6) The Commission may designate a person who is both a licensed shipper and a licensed supplier to be a shipper of last resort under this section and a supplier of last resort under *section 21A*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F69: Inserted (1.07.2007) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 19, S.I. No. 292 of 2007.
+>
+> F70: Repealed (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 3(3), S.I. No. 208 of 2024.
+>
+> **Modifications (not altering text):**
+>
+> C10: Functions transferred and references to "Ervia" construed as references to "Gas Networks Ireland" (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 11, S.I. No. 208 of 2024.
+>
+> **Dissolution of Ervia, Transfer of Functions, Assets, Liabilities, Records and Staff, etc. Transfer day**
+>
+> **6.** (1) The Minister shall by order appoint a day to be the transfer day for the purposes of this Act.
+>
+> (2) On and from the transfer day Ervia (in this Act referred to as the “dissolved body”) shall stand dissolved.
+>
+> ...
+>
+> **Transfer of functions**
+>
+> **11.** (1) On the transfer day, all functions that, immediately before the transfer day, were vested in the dissolved body shall stand vested in Gas Networks Ireland.
+>
+> (2) References in any enactment (other than this Act) or other document to the dissolved body, to the extent that such references relate to functions, assets, rights or liabilities that are vested in, or transferred to, Gas Networks Ireland by this Act shall, on and from the transfer day, be construed as references to Gas Networks Ireland.
+>
+> (3) The administration and business in connection with the performance of the functions vested in Gas Networks Ireland by virtue of *subsection (1)* are on the transfer day transferred to Gas Networks Ireland.
+>
+> (4) References in any enactment (other than this Act) to the dissolved body, to the extent that such references relate to the administration and business transferred by *subsection (3)* shall, on and from the transfer day, be construed as references to Gas Networks Ireland.
+>
+> **Editorial Notes:**
+>
+> E19: Previous affecting provision: references to "Bord Gáis Éireann" construed as references to "Ervia" (19.06.2014) by *ESB (Electronic Communications Networks) Act 2014* (5/2014), s. 8(2), S.I. No. 286 of 2014; superseded (1.06.2024) as per C-note above.
+
+## 21C. Consumer Protection
+
+F71[F72[**21C.**]]—F73[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F71: Inserted (20.07.2004) by *European Communities (Internal Market in Natural Gas) (No. 2) Regulations 2004* (S.I. No. 452 of 2004), reg. 6.
+>
+> F72: S. 21A which relates to consumer protection, inserted as per F-note above, renumbered as s. 21C (17.10.2007) by *European Communities (Security of Natural Gas Supply) Regulations 2007* (S.I. No. 697 of 2007), reg. 6(a).
+>
+> F73: Repealed (9.09.2011) by *European Communities (Internal Market in Electricity and Gas) (Consumer Protection) Regulations of 2011* (S.I. No. 463 of 2011), reg. 13(1).
+
+## 21D. Resolution of Disputes
+
+F74[F75[**21D.**]—F76[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F74: Inserted (20.07.2004) by *European Communities (Internal Market in Natural Gas) (No. 2) Regulations 2004* (S.I. No. 452 of 2004), reg. 6.
+>
+> F75: S. 21B which relates to resolution of disputes, inserted as per F-note above, renumbered as s. 21D (17.10.2007) by *European Communities (Security of Natural Gas Supply) Regulations 2007* (S.I. No. 697 of 2007), reg. 6(b).
+>
+> F76: Repealed (9.09.2011) by *European Communities (Internal Market in Electricity and Gas) (Consumer Protection) Regulations of 2011* (S.I. No. 463 of 2011), reg. 13(1).
+
+## 22. Funding of Commission.
+
+**22.** —(1) The Act of 1999 is amended—
+
+(*a*) in section 2(1)—
+
+(i) by the substitution for the definition of “Commission” of the following definition:
+
+“ ‘Commission’ means the Commission for Energy Regulation;”,
+
+(ii) by the insertion—
+
+(I) after the definition of “electricity undertaking” of the following definition:
+
+“ ‘energy undertaking’ means an electricity undertaking or a natural gas undertaking.”, and
+
+(II) after the definition of “Minister” of the following definition:
+
+“ ‘natural gas undertaking’ means a person engaged in the transmission, distribution, supply or storage of natural gas, including any holder of a licence or a consent under this Act, or any person who has been granted a licence or given a consent under the *Gas Acts, 1976 to 2002*,”,
+
+(*b*) in paragraphs 16 and 17 of the Schedule by the substitution for “electricity undertakings” of “energy undertakings” in each place where it occurs,
+
+(*c*) in paragraph 16 of the Schedule after “in the order.” to insert the following sentence:
+
+“Separate orders may be made under this paragraph in respect of electricity undertakings and natural gas undertakings.”,
+
+(*d*) in paragraph 20 of the Schedule after “to meet its expenses” by the insertion of “in the following year and the levy for that year shall take into account such excess”, and
+
+(*e*) in paragraph 25 of the Schedule by the substitution for subparagraph (*a*) of the following subparagraphs:
+
+“(*a*) keep in such form as may be approved by the Minister, with the concurrence of the Minister for Finance, all proper and usual accounts of all moneys received or expended by it including an income and expenditure account and balance sheet,
+
+(*aa*) shall ensure, as far as is reasonably practicable, that such accounts identify separately in regard to the gas and electricity sectors all elements of cost and revenue, with the basis of their calculation and the detailed attribution methods used, related to the discharge of the Commission's functions under this Act,”.
+
+(2) For the purpose of recouping to the Minister the sums expended by him or her before or after the appointed day in taking steps to facilitate the Commission in the performance of its functions conferred on it by this Act, the Commission may make an order imposing a levy to be paid each year on such classes of energy undertaking as may be specified by the Commission in the order.
+
+## 23. Miscellaneous amendments.
+
+**23.** —(1) The Gas Act, 1976, is amended, on the appointed day—
+
+(*a*) in section 2—
+
+(i) by the substitution for the definition of “Commission” of the following definition:
+
+“ ‘the Commission’ means the Commission for Energy Regulation;”,
+
+(ii) by the insertion after the definition of “the Company” of the following definition:
+
+“ ‘customer’ means a wholesale or final customer of natural gas and natural gas undertakings who purchases natural gas;”,
+
+(iii) by the insertion before the definition of “deviation limits” of the following definition:
+
+“ ‘designated area’ has the meaning assigned to it by the Continental Shelf Act, 1968;”,
+
+(iv) in the definition of “pipeline” by the substitution for “transmission” of “transportation”, and
+
+(v) by the insertion after the definition of “seashore” of the following definition:
+
+“ ‘upstream pipeline’ has the meaning assigned to it by *section 2* of the *Gas (Interim) (Regulation) Act, 2002*;”,
+
+(*b*) in section 20(2), by the substitution for “ £100” of “ €600”,
+
+(*c*) in section 21, by the insertion after subsection (2) of the following subsections:
+
+“(3) Notwithstanding the generality of subsection (1) and for the avoidance of doubt, the Board shall not, without the prior approval of the Minister given with the consent of the Minister for Finance, construct a pipeline.
+
+(4) The Minister may, with the consent of the Minister for Finance, by notice in writing delivered to the Board declare that subsection (3) shall not apply to the construction of pipelines or specified pipelines or classes of pipelines in a specified area and, whenever a notice under this paragraph is in force, subsection (3) shall not apply in relation to the construction of pipelines, or those pipelines or classes of pipelines specified in the notice, in the area specified in the notice.”,
+
+(*d*) in section 26—
+
+(i) in subsection (1)(*c*), by the substitution for “section 8(7) or 40(1) of this Act or, as the case may be, the giving of previous or reasonable notice under the said section 40(1),” of “section 39A(1) of this Act”, and
+
+(ii) by the insertion after subsection (1) (as amended by section 20 of the Act of 2000) of the following subsection:
+
+“(1A) Notwithstanding the generality of subsection (1), an authorised person may only enter land under this section for the purposes mentioned in paragraphs (*c*) and (*d*) of that subsection where—
+
+(*a*) in the case of a pipeline other than an upstream pipeline, the Board has notified the Commission in writing of its intention to make an application for the Commission's consent under section 39A(1) in relation to the construction of a pipeline and in respect of which notification the Commission provides a certificate to the Board, after having made such inquiries, if any, as the Commission thinks appropriate, stating that the notification demonstrates a *bona fide* intention on the part of the Board to make such an application, or
+
+(*b*) in the case of an upstream pipeline, the Board has notified the Minister for the Marine and Natural Resources in writing of its intention to make an application for that Minister's consent under section 40(1) in relation to the construction of a pipeline and in respect of which notification, that Minister provides a certificate to the Board, after having made such inquiries, if any, as that Minister thinks appropriate, stating that the notification demonstrates a *bona fide* intention on the part of the Board to make such an application.”,
+
+(*e*) in section 27—
+
+(i) in subsection (1), by the substitution for “subsections (7), (8) and (9) of section 8 of this Act, or, as the case may be, section 40(2) of this Act,” of “section 39A(4) of this Act”,
+
+(ii) in subsection (2)—
+
+(I) by the substitution for “section 8(9) of this Act” of “section 39A(6) of this Act”, and
+
+(II) by the deletion of “the Commission,” in each place where it occurs, and
+
+(iii) in subsection (4)(*c*), by the deletion of subparagraph (i),
+
+(*f*) in section 30(5), by the substitution for “ £50” of “ €600”,
+
+(*g*) in section 32—
+
+(i) by the substitution for subsection (1A) (inserted by section 20 of the Act of 2000) of the following:
+
+“(1A) (*a*) A person may apply to the appropriate Minister of the Government for an order under this section (which order is in this Act also referred to as an ‘acquisition order’) to acquire compulsorily any land or right over land which is required by such person in connection with the construction or operation of a pipeline for which such person applies or has applied for a consent under section 39A or 40 of this Act, as the case may be, and, subject to the following provisions of this section, the appropriate Minister of the Government may make an acquisition order in relation to the land or right over the land.
+
+(*b*) In this subsection ‘appropriate Minister of the Government’ means—
+
+(i) in the case of an upstream pipeline, the Minister for the Marine and Natural Resources, and
+
+(ii) in any other case, the Minister.”,
+
+and
+
+(ii) in subsection (3), by the substitution for “Minister for Lands and the Commission” of “Minister for Agriculture, Food and Rural Development”,
+
+(*h*) in section 38(2), by the substitution for “ £200” of “ €2,000”,
+
+(*i*) in section 39—
+
+(i) by the substitution in subsection (1) for “The Board” of “A person, including the Board, who has been given a consent under this Act”, and
+
+(ii) by the insertion in subsection (2) of “or any other person under this Act” after “the Board”,
+
+(*j*) in section 42(2), the substitution for paragraph (*b*) of the following paragraph:
+
+“(*b*) is a pipeline as regards which a condition has been attached—
+
+(i) by the Commission under section 39A(4) to a consent in respect of the pipeline, not being an upstream pipeline, or
+
+(ii) by the Minister for the Marine and Natural Resources under section 40(3) to a consent in respect of the pipeline, being an upstream pipeline.”,
+
+and
+
+(*k*) in the Second Schedule—
+
+(i) in Article 3(1)(*d*), by the deletion of “the Commission,”,
+
+(ii) by the substitution for paragraph (1) of Article 5 of the following:
+
+“(1) There shall be paid to the Minister for the Marine and Natural Resources on every application for an acquisition order in relation to the provision of an upstream pipeline such fee (if any) as the Minister for the Marine and Natural Resources, with the consent of the Minister for Finance, may fix.”,
+
+(iii) in Article 11, by the substitution for paragraph (*d*) of the following paragraph:
+
+“(*d*) where the Board acts in contravention (whether by commission or omission) of the order the Board shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding €2,000,”,
+
+(iv) in Article 11(*g*), by the substitution for “Commission” of “Minister for Agriculture, Food and Rural Development” in each place where it occurs, and
+
+(v) in Article 11(*h*)—
+
+(I) by the substitution for “and provide that any person” of “and any person”, and
+
+(II) by the substitution for “ £25” of “ €500”.
+
+(2) The Gas (Amendment) Act, 1987, is amended, on the appointed day—
+
+(*a*) in section 1 by the insertion before the definition of “the Company” of the following definition:
+
+“ ‘Commission’ means the Commission for Energy Regulation”, and
+
+(*b*) in section 2—
+
+(i) in subsection (1), by the substitution for “may by order confer on the Board” of “may by order confer, or may refuse to confer, on one or more persons, including the Board, concurrently”,
+
+(ii) in subsection (2), (4), (5) and (6), by the insertion after “the Board” of “or the relevant person”, in each place where it occurs,
+
+(iii) by the deletion of subsection (3),
+
+(iv) by the insertion after subsection (5) of the following subsection:
+
+“(5A) Without prejudice to the generality of subsection (1) of this section, the Commission—
+
+(*a*) may refuse to make an order under that subsection conferring functions in relation to the provision of pipelines in a particular area where it determines that the capacity of existing or proposed distribution or transmission pipelines in that area provided or proposed to be provided by any person, including the Board, who is subject to an existing order under that subsection in relation to that area, represents adequate provision for reasonable expectation of demand,
+
+(*b*) shall refuse to make an order under that subsection conferring functions on a person, including the Board, in relation to the sale and supply of gas in a particular area in addition to an existing order conferring such functions on any other person, including the Board, in regard to that area until such time as the annual rate prescribed in section 10A(1)(*d*) of the Principal Act stands at zero standard cubic metres per annum, and
+
+(*c*) shall, solely, determine what constitutes a ‘proposed distribution or transmission pipeline’ and ‘reasonable expectation of demand’ in paragraph (*a*) of this subsection.”,
+
+(v) in subsections (6)(*a*) and (*b*), by the substitution for “section 8(7)” of “section 39A(1)”, in each place where it occurs,
+
+(vi) in subsections 6(*b*), (*c*) and (*d*), by the deletion of “,with the consent of the Minister for Finance,”, in each place where it occurs, and
+
+(vii) by the insertion after subsection (6) of the following subsection:
+
+“(6A) (*a*) The Commission may, from time to time, examine charges, and the costs underlying such charges, or any proposals to alter such charges, for natural gas supplied to customers by a person, including the Board, in accordance with functions conferred on that person or the Board, as the case may be, by an order under subsection (1) of this section.
+
+(*b*) Where it considers it necessary following an examination under paragraph (*a*) of this subsection, the Commission shall issue a direction to the person or the Board in relation to either or both the nature and the amount of any charge or proposed charge referred to in that paragraph and the person or the Board, as the case may be, shall comply with such a direction.”,
+
+and
+
+(*c*) by the insertion after section 2 of the following section:
+
+“2A.—(1) Where the Commission considers it appropriate, it may conduct a competitive process for the purpose of selecting an applicant in respect of whom an order under subsection (1) of section 2 of this Act may be made.
+
+(2) The Commission may make regulations relating to the conduct of such a competitive process, and such regulations may include—
+
+(*a*) the period of time allowed for the submission of expressions of interest by prospective applicants,
+
+(*b*) the criteria for the pre-qualification of applicants,
+
+(*c*) the period of time allowed for the submission of applications,
+
+(*d*) the criteria by which applications will be adjudicated,
+
+(*e*) the terms and conditions that may be applied in relation to the successful applicant,
+
+(*f*) the lodging of a bond (if any) by the successful applicant, and
+
+(*g*) any other matter which the Commission considers appropriate and necessary for the holding of a competitive process under subsection (1) of this section.
+
+(3) Where a competitive process is conducted under this section, the Commission shall not be obliged to select an applicant where it considers that no applicant is suitable.”.
+
+(3) Section 26(1) of the Act of 1999 is amended by the insertion after “a direction given under” of “section 23(2) or”.
+
+(4) Section 13 of the Act of 1999 is amended, on the appointed day, by the substitution for subsection (1A) (inserted by section 14 of the Act of 2000) of the following subsection:
+
+“(1A) In subsection (1) ‘duties’ means duties falling to be performed in the course of the performance by the Commission of its functions under this Act, the Gas (Amendment) Act, 2000, or the *Gas (Interim) (Regulation) Act, 2002*.”.
+
+(5) The Freedom of Information Act, 1997, is amended in the Third Schedule thereto by the addition to Part I at the end thereof—
+
+(*a*) in column (2), of “ *Gas (Interim) (Regulation) Act, 2002*.”, and
+
+(*b*) in column (3), of “ *Section 19* .”.
+
+(6) The Act of 2000 is amended, on the appointed day—
+
+(*a*) in section 1(1), by the substitution for the definition of “Commission” of the following definition:
+
+“Commission” means Commission for Energy Regulation;”
+
+and
+
+(*b*) in section 20—
+
+(i) the substitution for paragraph (*a*) of the following paragraph:
+
+“(*a*) save to the extent that this section has application to section 26 of the Principal Act, a person—
+
+(i) in respect of whom the Minister has, prior to the appointed day (within the meaning of *section 2* of the *Gas (Interim) (Regulation) Act, 2002)*, imposed a requirement under section 40(2) of the Principal Act,
+
+(ii) who, prior to the aforementioned day, has obtained the consent of the Minister under section 40(1) of the Principal Act,
+
+(iii) who, from the aforementioned day, has obtained the consent of the Commission under section 39A(1) of the Principal Act, or
+
+(iv) who, from the aforementioned day, has obtained the consent of the Minister for the Marine and Natural Resources under section 40(1) of the Principal Act,
+
+in relation to the construction, or construction and operation of a pipeline, as the case may be,”,
+
+(ii) the substitution for paragraph (*b*) of the following paragraph:
+
+“(*b*) to the extent that this section has application to the said section 26, a person—
+
+(i) who, prior to the aforementioned day, has notified the Minister in writing of his or her intention to give a notice or make an application for the Minister's consent under section 40(1) of the Principal Act in relation to the construction of a pipeline and in respect of which notification the Minister provides a certificate to the person, after having made such enquiries, if any, as the Minister thinks appropriate, stating that the notification demonstrates a *bona fide* intention on the part of that person to give such a notice or make such an application,
+
+(ii) who, from the aforementioned day, has notified the Commission in writing of his or her intention to make an application for the Commission's consent under section 39A(1) of the Principal Act in relation to the construction of a pipeline and in respect of which notification the Commission provides a certificate to the person, after having made such enquiries, if any, as the Commission thinks appropriate, stating that the notification demonstrates a *bona fide* intention on the part of that person to give such a notice or make such an application, or
+
+(iii) who, from the aforementioned day, has notified the Minister for the Marine and Natural Resources in writing of his or her intention to make an application for the consent of the Minister for the Marine and Natural Resources under section 40(1) of the Principal Act in relation to the construction of a pipeline and in respect of which notification the Minister for the Marine and Natural Resources provides a certificate to the person, after having made such enquiries, if any, as the Minister for the Marine and Natural Resources thinks appropriate, stating that the notification demonstrates a *bona fide* intention on the part of that person to give such a notice or make such an application.”,
+
+and
+
+(iii) in subsection (2), by the insertion after “by a relevant person and those provisions” of “, other than section 26(1A),”.
+
+## 24. Revocation.
+
+**24.** —The European Communities (Internal Market in Natural Gas) (Compulsory Acquisition) Regulations 2001 (S.I. No. 517 of 2001) are revoked.
+
+## SCHEDULE
+
+Functions under Acts transferred from Minister to Commission
+
+| Number and Year | Short Title | Section |
+|---|---|---|
+| (1) | (2) | (3) |
+| No. 30 of 1976 | Gas Act, 1976 | Section 27 (insofar as the functions relate to the provision of distribution and transmission pipelines) |
+|  |  | Section 31 (insofar as the functions relate to the provision of distribution or transmission pipelines) |
+|  |  | Section 32 (insofar as the functions relate to the provision of distribution or transmission pipelines) |
+|  |  | Section 39 (insofar as the functions relate to the provision of distribution or transmission pipelines) |
+|  |  | Second Schedule (insofar as the functions relate to the provision of distribution or transmission pipelines) |
+| No. 9 of 1987 | Gas (Amendment) Act, 1987 | Section 2(1), (4), (6) and (7) |
+
+[^1]: OJ No. L211, 14.8.2009, p.94.
+[^2]: OJ No. L117, 3.5.2019, p.1.
+[^3]: OJ No. L 211, 14.08.2009, p. 36.
+[^4]: OJ No. L145, 30.04.2004, p.1
+[^5]: OJ No. L 211, 14.08.2009, p. 36
+[^6]: OJ No. L176, 15.07.2003, p. 57
+[^7]: OJ No. L127, 29.02.2004, p.92

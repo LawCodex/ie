@@ -1,0 +1,645 @@
+---
+title: "Transfer of Execution of Sentences Act 2005"
+identifier: "eli/2005/act/28"
+type: act
+jurisdiction: ie
+language: en
+number: 28
+year: 2005
+date: 2005-12-13
+last_amended: 2023-05-03
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2005/act/28/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2005/act/28/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Transfer of Execution of Sentences Act 2005
+
+AN ACT TO GIVE EFFECT TO ARTICLE 2 OF THE ADDITIONAL PROTOCOL TO THE CONVENTION ON THE TRANSFER OF SENTENCED PERSONS DONE AT STRASBOURG ON 18 DECEMBER 1997 AND CHAPTER 5 OF TITLE III OF THE CONVENTION IMPLEMENTING THE SCHENGEN AGREEMENT OF 14 JUNE 1985 BETWEEN THE GOVERNMENTS OF THE STATES OF THE BENELUX ECONOMIC UNION, THE FEDERAL REPUBLIC OF GERMANY AND THE FRENCH REPUBLIC ON THE GRADUAL ABOLITION OF CHECKS AT THEIR COMMON BORDERS DONE AT SCHENGEN ON 19 JUNE 1990.
+
+[13*th December*, 2005]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C1: Application of Act restricted (3.05.2023) by *Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023* (3/2023), s. 86, S.I. No. 213 of 2023.
+>
+> **Transitional provision**
+>
+> **86.** Where, before the date on which Parts 1 to 3 come into operation—
+>
+> (*a*) a request was made by the Minister, a sentencing state (within the meaning of the Act of 1995) or a sentencing country (within the meaning of the Act of 2005),
+>
+> (*b*) an application was granted by the Minister,
+>
+> (*c*) a warrant was issued, or
+>
+> (*d*) any other order or step was taken,
+>
+> under the Act of 1995 or the Act of 2005 in respect of a sentence to which this Act applies, the request, application, warrant, other order or step shall be deemed to have been made under this Act and this Act shall apply accordingly.
+
+## 1. Interpretation.
+
+**1.**—(1) In this Act, except where the context otherwise requires—
+
+F1["Act of 2006" means the Criminal Law (Insanity) Act 2006;]
+
+“Additional Protocol” means the Additional Protocol to the Convention on the Transfer of Sentenced Persons done at Strasbourg on 18 December 1997;
+
+F2["children detention school" has the same meaning as it has in section 3(1) of the Children Act 2001;]
+
+F3["committal order" has the meaning assigned to it by *section 10(1)*;]
+
+F4["deductible period", in relation to a sentenced person, means—
+
+(*a*) the period spent by the person in custody in the State on foot of a warrant issued under *section 8* or *9* awaiting the making of a committal order, and
+
+(*b*) the period (if any) of the sentence indicated by a sentencing country to be deducted from the total length of the sentence—
+
+(i) in respect of an amnesty, pardon, clemency or other such decision granted by the sentencing country in relation to the sentence, and
+
+(ii) in respect of any other reduction (including a period of remission of sentence) in relation to the part of the sentence which has been served by the person in that country;]
+
+F5["designated centre" has the same meaning as it has in section 1 of the Act of 2006;]
+
+“designated country” has the meaning assigned to it by *section 5*;
+
+“Minister” means the Minister for Justice, Equality and Law Reform;
+
+F8[...]
+
+F6["place of detention" means—
+
+(*a*) a prison,
+
+(*b*) a designated centre, or
+
+(*c*) a children detention school;]
+
+F7["prison" means a place of custody (other than a Garda Síochána station) administered by or on behalf of the Minister and includes a place—
+
+(*a*) provided under section 2 of the Prisons Act 1970, and
+
+(*b*) specified under section 3 of the Prisons Act 1972;]
+
+“Schengen Convention” means the Convention implementing the Schengen Agreement of 14 June 1985 between the Governments of the States of the Benelux Economic Union, the Federal Republic of Germany and the French Republic on the gradual abolition of checks at their common borders done at Schengen on 19 June 1990;
+
+F9["sentence" means a punishment or measure involving deprivation of liberty ordered by a court or tribunal for a limited or unlimited period of time on account of a criminal offence and includes a punishment or measure that includes a limited or unlimited period of time that is served otherwise than in custody;]
+
+“sentenced person” means a person on whom a sentence has been imposed in the territory of a designated country;
+
+“sentencing country” means, in relation to a person on whom a sentence has been imposed, the designated country in which that sentence was imposed.
+
+(2) In this Act—
+
+(*a*) a reference to a section, is a reference to a section of this Act, unless it is indicated that a reference to some other enactment is intended,
+
+(*b*) a reference to a subsection, paragraph or subparagraph is a reference to a subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that a reference to some other provision is intended, and
+
+(*c*) a reference to any enactment is a reference to that enactment as amended, extended or adapted, whether before or after the passing of this Act, by or under any subsequent enactment.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1, F2, F3, F4, F5, F6, F7: Inserted (3.05.2023) by *Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023* (3/2023), s. 64(b), S.I. No. 213 of 2023.
+>
+> F8: Deleted (7.04.2017) by *Prisons Act 2015* (57/2015), s. 16(a), S.I. No. 134 of 2017.
+>
+> F9: Substituted (3.05.2023) by *Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023* (3/2023), s. 64(a), S.I. No. 213 of 2023.
+
+## 2. Amendment of section 11 of Transfer of Sentenced Persons Act 1995 (Annual report to Houses of Oireachtas).
+
+**2.**—Section 11 of the Transfer of Sentenced Persons Act 1995 is amended by the deletion of “including information in relation to each application made under this Act” and the substitution therefor of “and the Transfer of Execution of Sentences Act 2005, including information in relation to each application made under this Act or that Act”.
+
+## 3. Application of Act.
+
+**3.**—This Act applies in relation to sentences, whether imposed before or after its passing.
+
+## 4. Corresponding offences.
+
+**4.**—For the purposes of this Act—
+
+(*a*) an offence under the law of the sentencing country corresponds to an offence under the law of the State where the act or omission constituting the offence under the law of the sentencing country would, if committed in the State, constitute an offence under the law of the State, and
+
+(*b*) an offence under the law of the State corresponds to an offence under the law of the sentencing country where the act or omission constituting the offence under the law of the State would, if committed in the sentencing country, constitute an offence under the law of the sentencing country.
+
+## 5. Designated countries.
+
+**5.**—(1) The Minister for Foreign Affairs may by order designate for the purposes of this Act—
+
+(*a*) a country that has ratified, accepted, approved or acceded to the Additional Protocol (including a country that has ratified, accepted, approved or acceded to the Additional Protocol (other than Article 3)),
+
+(*b*) a country that has ratified or acceded to the Schengen Convention, or
+
+(*c*) a country other than a country to which *paragraph (a)* or *(b)* applies that has given effect under its laws to the provisions of Chapter 5 of Title III of the Schengen Convention or Article 2 of the Additional Protocol,
+
+and a country that for the time being stands so designated is hereafter in this Act referred to as “a designated country”.
+
+(2) The Minister for Foreign Affairs may, by order, amend or revoke an order under this section, including an order under this subsection.
+
+(3) An order under this section shall, as soon as may be after it is made, be laid before each House of the Oireachtas.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to section exercised (27.09.2007) by *Transfer of Execution of Sentences Act 2005 (Designated Countries) Order 2007* (S.I. No. 659 of 2007).
+
+## 6. Request for execution of sentence in designated country.
+
+**6.**—(1) Subject to *subsection (2)*, where a person in respect of whom a sentence has been imposed in the State flees from the State before he or she has—
+
+(*a*) commenced serving that sentence, or
+
+(*b*) completed serving that sentence,
+
+and who is, for the time being, in a designated country, the Minister may request the person in the designated country concerned who performs functions the same as or similar to those performed by the Minister under this Act to consent to and arrange for the first-mentioned person's serving the sentence or remainder of the sentence, as the case may be, in that country.
+
+(2) The Minister shall not make a request under *subsection (1)* unless—
+
+(*a*) under the law of the designated country the person is, or is deemed to be, a national of the designated country,
+
+(*b*) the order imposing the sentence is final, and
+
+(*c*) subject to *subsection (3)*, the term of the sentence concerned is not less than 6 months, or where the person has already served part of the sentence concerned, at the time of his or her fleeing the State there was not less than 6 months of the sentence remaining to be served.
+
+(3) The Minister may, in relation to a person—
+
+(*a*) sentenced to less than 6 months imprisonment, or
+
+(*b*) who has less than 6 months remaining to serve of a sentence,
+
+make a request under *subsection (1)*, if he or she considers that exceptional circumstances exist which warrant the person serving the sentence or remainder of the sentence, as the case may be, in the designated country concerned.
+
+## 7. Request for execution of sentence in State.
+
+**7.**—(1) Subject to *subsection (2)*, the Minister may, upon receipt of a request in writing from a sentencing country to consent to the execution in the State of a sentence imposed in the sentencing country, or part of a sentence so imposed, on a person who fled to the State before he or she—
+
+(*a*) commenced serving that sentence, or
+
+(*b*) completed serving that sentence,
+
+give such consent.
+
+(2) The Minister shall not give his or her consent under *subsection (1)* unless—
+
+(*a*) the person is an Irish citizen or, where the person is not an Irish citizen, the person has, in the opinion of the Minister, close ties with the State,
+
+(*b*) the order imposing the sentence in the sentencing country is final,
+
+(*c*) subject to *subsection (3)*, the term of the sentence concerned is not less than 6 months, or where the person has already served part of the sentence concerned, at the time of his or her fleeing to the State there was not less than 6 months of the sentence remaining to be served,
+
+(*d*) under the law of the sentencing country, the offence in respect of which the sentence was imposed corresponds to an offence under the law of the State, and
+
+(*e*) the Minister is of the opinion that, having regard to all the circumstances, it would be appropriate for him or her to give such consent.
+
+F10[(2A) For the purposes of *subsection (2)(d)* and *section 8(2)(b)(iv)*, where the sentence imposed in a sentencing country is in relation to more than one offence, the requirement set out in those provisions shall be deemed to be satisfied where any one or more of the offences for which the sentence was imposed corresponds to an offence under the law of the State.]
+
+(3) The Minister may, in relation to a person—
+
+(*a*) sentenced to less than 6 months imprisonment, in the sentencing country, or
+
+(*b*) who has less than 6 months remaining to serve of a sentence imposed in the sentencing country,
+
+give his or her consent under *subsection (1)*, if he or she considers that exceptional circumstances exist that warrant the person serving the sentence or remainder of the sentence, as the case may be, in the State.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F10: Inserted (3.05.2023) by *Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023* (3/2023), s. 65, S.I. No. 213 of 2023.
+
+## 8. Consent to request under section 7.
+
+**8.**—(1) The Minister, or a person authorised under section 15 of the Ministers and Secretaries Act 1924 to authenticate the seal of the Minister, shall, upon the giving by the Minister of his or her consent under *section 7*, certify in writing that, in relation to a sentenced person—
+
+(*a*) a request has been received under that section, and
+
+(*b*) the Minister has given his or her consent to that request,
+
+and the Minister shall, as soon as practicable thereafter, apply, or cause an application to be made, to the High Court for F11[the continued enforcement of the sentence (in its legal nature and duration) and] a warrant authorising the arrest of the sentenced person concerned.
+
+(2) Upon an application under *subsection (1)*, the High Court shall issue a warrant authorising the arrest of the sentenced person concerned F12[for the purpose of the enforcement of the sentence] if—
+
+(*a*) a certificate to which this section applies is produced to the court, and
+
+(*b*) it is satisfied that—
+
+(i) the person is an Irish citizen or, where the person is not an Irish citizen, the person has, in the opinion of the Minister, close ties with the State,
+
+(ii) the order imposing the sentence in the sentencing country is final,
+
+(iii) subject to *section 7(3)*, the term of the sentence concerned is not less than 6 months, or where the person has already served part of the sentence concerned, at the time of his or her fleeing to the State there was not less than 6 months of the sentence remaining to be served, and
+
+(iv) the offence under the law of the sentencing country in respect of which the sentence was imposed corresponds to an offence under the law of the State.
+
+F13[(2A) Where the High Court issues a warrant under *subsection (2)*, the court shall take all such measures as are necessary to enforce the sentence and, in particular, may make an order under *section 10B(3)* or *(5)* or both adapting the sentence.]
+
+(3) A certificate to which this section applies shall include a statement of—
+
+(*a*) the name of the sentenced person in relation to whom a request under *section 7* has been made,
+
+(*b*) the sentence imposed in relation to him or her in the sentencing country,
+
+(*c*) the period of the sentence so imposed remaining to be served, where the person has already served part of the sentence, and
+
+(*d*) the address of the place in the State at which the person is for the time being residing (if that is known).
+
+(4) A certificate to which this section applies shall, unless the contrary is proved, be evidence of the matters specified in the certificate.
+
+(5) A warrant issued under this section may be executed by any member of the Garda Síochána in any part of the State and may be so executed notwithstanding that it is not in the possession of the member when he or she executes the warrant, and the warrant shall be shown to and a copy thereof given to the person arrested at the time of his or her arrest or, if the warrant is not then in the possession of the member, not later than 24 hours after his or her arrest.
+
+(6) The Minister may at any time apply to the High Court for an order varying the terms of, or revoking, a warrant issued under this section.
+
+(7) The High Court may, upon an application under *subsection (6)*, revoke or vary a warrant issued under this section if it is satisfied that the revocation or variation is necessary in order to ensure compliance with the provisions of this Act.
+
+(8) A person arrested under a warrant issued under this section shall, as soon as may be after his or her arrest, be brought before the High Court.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F11, F12, F13: Inserted (3.05.2023) by *Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023* (3/2023), s. 65(a), (b), (c), S.I. No. 213 of 2023.
+
+## 9. Provisional arrest.
+
+**9.**—(1) The High Court may, upon the sworn information of a member of the Garda Síochána not below the rank of inspector given with the consent of the Minister, issue a warrant for the arrest of any person if it is satisfied that—
+
+(*a*) a request for the provisional arrest of that person has been made on behalf of a sentencing country, and
+
+(*b*) in relation to the request, there has been compliance with this section.
+
+(2) A request for the provisional arrest of a person made on behalf of a sentencing country shall state—
+
+(*a*) the name, and date and place of birth, of the person concerned,
+
+(*b*) the address of the place in the State at which the person is for the time being residing (if that is known),
+
+(*c*) the nature of the offence, the circumstances in which the offence was committed and the time at which and place where the offence was committed,
+
+(*d*) the nature, duration and date of commencement of the sentence (or, where the sentenced person fled from the sentencing country before he or she began serving the sentence, the date on which the sentence should have commenced), and
+
+(*e*) where the person fled the sentencing country after having served part of the sentence but before he or she had completed serving the sentence, the period of the sentence that he or she served.
+
+(3) A warrant issued under this section may be executed by any member of the Garda Síochána in any part of the State and may be so executed notwithstanding that it is not in the possession of the member when he or she executes the warrant, and the warrant shall be shown to and a copy thereof given to the person arrested at the time of his or her arrest or, if the warrant is not then in the possession of the member, not later than 24 hours after his or her arrest.
+
+(4) A person arrested under a warrant issued under this section shall, as soon as may be after his or her arrest, be brought before the High Court and the High Court shall, unless the certificate to which *section 8* applies is produced to the court, remand the person in custody or on bail pending the production to it of that certificate, and for that purpose the High Court shall have the same powers of remand as it would have if the person were brought before it charged with an indictable offence.
+
+(5) If a certificate to which *section 8* applies is not produced in accordance with *subsection (4)* before the expiration of the period of 18 days from the date on which the person is arrested under a warrant issued under this section, the person concerned shall be released from custody forthwith.
+
+(6) If, in relation to a person who has been released in accordance with *subsection (5)*, a request to which *section 7* applies is received by the Minister, an application may be made under and in accordance with *section 8(1)* for a warrant authorising the arrest of that person.
+
+(7) Where a warrant authorising the arrest of a person is issued under this section, then in any subsequent proceedings it shall be presumed unless the contrary is proved that a request for the provisional arrest of that person has been made by the sentencing country concerned.
+
+## 9A. Identification procedures for purpose under Act
+
+F14[**9A.**— (1) Where a member of the Garda Síochána arrests a person under any power conferred by this Act, the member of the Garda Síochána may, in order to assist in verifying or ascertaining the identity of the person for any purpose under this Act—
+
+(*a*) take, or cause to be taken, his or her fingerprint,
+
+(*b*) take, or cause to be taken, his or her palm print, and
+
+(*c*) photograph him or her or cause him or her to be photographed.
+
+(2) Where a fingerprint, palm print or photograph taken pursuant to *subsection (1)* is lost or damaged, or is otherwise unsuitable for use for the purpose referred to in that subsection, it may be taken on a second or any further occasion.
+
+(3) The powers conferred by *subsection (1)* shall not be exercised except on the authority of a member of the Garda Síochána not below the rank of inspector.
+
+(4) A member of the Garda Síochána may, where a person fails or refuses to allow his or her fingerprint, palm print or photograph to be taken pursuant to *subsection (1)*, use such force as he or she reasonably considers necessary to take the fingerprint, palm print or photograph or to cause the photograph to be taken.
+
+(5) The powers conferred by *subsection (4)* shall not be exercised except where authorised by a member of the Garda Síochána not below the rank of superintendent.
+
+(6) An authorisation pursuant to *subsection (5)* may be given orally or in writing and if given orally shall be confirmed in writing as soon as practicable.
+
+(7) Where a member of the Garda Síochána intends to exercise a power conferred by *subsection (4)*, he or she shall inform the person who fails or refuses to allow his or her fingerprint, palm print or photograph to be taken pursuant to *subsection (1)*—
+
+(*a*) of that intention, and
+
+(*b*) that an authorisation to do so has been given pursuant to *subsection (5)*.
+
+(8) A fingerprint, palm print or photograph taken pursuant to *subsection (4)* shall be taken in the presence of a member of the Garda Síochána not below the rank of inspector.
+
+(9) The taking of a fingerprint, palm print or photograph pursuant to *subsection (4)* shall be recorded by electronic or similar means.
+
+(10) A fingerprint, palm print or photograph of a person taken in pursuance of a power conferred by this section and every copy and record thereof shall be destroyed on the later of—
+
+(*a*) the expiration of the period of 12 months from the date of the taking of the fingerprint, palm print or photograph, as the case may be, or
+
+(*b*) the expiry of the sentence of imprisonment imposed on the person to which a request under *section 6* or *7* relates.
+
+(11) A person who obstructs a member of the Garda Síochána in exercise of the powers under this section shall be guilty of an offence and shall, on summary conviction, be liable to a class A fine or to imprisonment for a term not exceeding 12 months or both.
+
+(12) Where a fingerprint, palm print or photograph of a person in respect of whom a request under *section 7* has been received is transmitted by or on behalf of a sentencing country, such fingerprint, palm print or photograph shall, unless the contrary is proved, be received in evidence without further proof.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F14: Inserted (3.05.2023) by *Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023* (3/2023), s. 67, S.I. No. 213 of 2023.
+>
+> **Editorial Notes:**
+>
+> E2: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+## 10. Execution of sentence imposed in sentencing country.
+
+**10.**—(1) Subject to *subsections (2)* and *(3)*, the High Court may, where a person is—
+
+(*a*) brought before it under *subsection (8)* of *section 8*,
+
+(*b*) brought before it under *subsection (4)* of *section 9* at the same time as the certificate is produced in accordance with the said *subsection (4)*, or
+
+(*c*) before the High Court, by reason of having been remanded under the said *subsection (4)*, at the same time as, or at any time after, the certificate is produced in accordance with the said *subsection (4)*,
+
+make an F15[order (in this Act referred to as a "committal order") for the purpose of enforcement of the sentence, committing the person to a place of detention] F23[...] for F16[a period, subject to *subsection (3)*, equal] to—
+
+(i) in the case of a person who fled from the sentencing country before he or she began serving the sentence concerned, the period of the sentence less the deductible period, or
+
+(ii) in the case of a person who served part of the sentence concerned but fled from the sentencing country before he or she completed serving that sentence, the period of the sentence that remains unserved less the deductible period.
+
+(2) The High Court shall not make F17[a committal order] unless—
+
+(*a*) the Minister has given his or her consent under *subsection (1)* of *section 7* in relation to the person concerned,
+
+(*b*) the person is an Irish citizen or, where the person is not an Irish citizen, the Minister is of the opinion that the person has close ties with the State,
+
+(*c*) the order imposing the sentence in the sentencing country is final,
+
+(*d*) subject to *subsection (3)* of *section 7*, the term of the sentence concerned is not less than 6 months or, where the person has already served part of the sentence concerned at the time of his or her fleeing to the State, there was not less than 6 months of the sentence remaining to be served,
+
+(*e*) the offence under the law of the sentencing country in respect of which the sentence was imposed corresponds to an offence under the law of the State,
+
+(*f*) circumstances exist whereby—
+
+(i) had the person's surrender been sought pursuant to a F24[relevant arrest warrant], the surrender of the person would not be prohibited under Part 3 (other than section 38(1)) of the European Arrest Warrant Act 2003, or
+
+(ii) had the person's extradition been sought, his or her extradition would not be prohibited under the Extradition Acts 1965 to 2001 (other than section 10(1) or 10(1A) (inserted by section 11(*a*) of the Extradition (European Union Conventions) Act 2001) of the Extradition Act 1965).
+
+F18[(3) In determining the period for which a sentenced person may be committed to a place of detention in a committal order—
+
+(*a*) the High Court shall not have regard to the provisions of law of the sentencing country under which the sentenced person is entitled to early or conditional release, and
+
+(*b*) where by operation of law of the sentencing country the sentenced person would be entitled, other than in accordance with *paragraph (a)*, to be released from custody, whether under licence or otherwise, at a specified time having served a specified portion of the sentence—
+
+(i) the High Court shall treat such release as a measure relating to the administration of the sentence, and
+
+(ii) the sentence shall be treated as a sentence to be spent in custody or other detention for the full period.]
+
+F19[(4) Where a committal order is made in respect of a sentenced person who has been sentenced to a term of imprisonment for life in a sentencing country, the order shall specify that the person is to be committed for imprisonment for life irrespective of whether his or her eligibility for early or conditional release (including parole) in the sentencing country was—
+
+(*a*) restricted for the whole term of the sentence, or
+
+(*b*) conditional on his or her having served a specified term of imprisonment as a result of—
+
+(i) a decision or order by the court or tribunal that imposed the sentence,
+
+(ii) the operation of law of the sentencing country, or
+
+(iii) a decision of a body in the sentencing country, other than a body referred to in *subparagraph (i)*, on whom a power to make such a decision has been conferred by law.]
+
+F20[(5) Notwithstanding *subsection (1)*, the period for which a sentenced person may be committed to a place of detention in a committal order may exceed the period for which he or she could lawfully have been detained or otherwise had his or her personal liberty restricted in custody in the sentencing country.]
+
+(6) (*a*) Subject to *paragraph (b)*, where the State is notified by the sentencing country that a person to whom F21[committal order] applies would, under the law of the sentencing country, be entitled to be released from detention forthwith or on and from such date as may be specified in the notification concerned, the person shall be released from F22[the place of detention] F23[...] either forthwith or on and from that date, as may be appropriate.
+
+(*b*) *Paragraph (a)* shall not apply if—
+
+(i) (I) the person has been sentenced to a term of imprisonment for an offence of which he or she was convicted in the State,
+
+(II) on the date on which he or she would, but for this subparagraph, be entitled to be released under *paragraph (a)*, all or part of the term of imprisonment remains unexpired, and
+
+(III) the person is required to serve all or part of the remainder of that term of imprisonment,
+
+or
+
+(ii) (I) the person has been charged with, or convicted of, an offence in the State, and
+
+(II) on the date on which he or she would, but for this subparagraph, be entitled to be released under *paragraph (a)*, he or she is required to be in custody, by virtue of having been remanded in custody pending his or her being tried, or the imposition of sentence, as the case may be, in respect of that offence.
+
+(7) F25[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F15, F16, F17, F18, F19, F20, F21, F22: Substituted (3.05.2023) by *Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023* (3/2023), s. 68(a)(i), (ii), (b), (c), (d), (e), (f)(i), (ii), S.I. No. 213 of 2023.
+>
+> F23: Deleted (7.04.2017) by *Prisons Act 2015* (57/2015), s. 16(b)(i), (iii), S.I. No. 134 of 2017.
+>
+> F24: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 44, in effect as per reg. 1(2).
+>
+> F25: Repealed (3.05.2023) by *Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023* (3/2023), s. 68(g), S.I. No. 213 of 2023.
+>
+> **Editorial Notes:**
+>
+> E3: Previous affecting provision: subs. (4) amended (7.04.2017) by *Prisons Act 2015* (57/2015), s. 16(b)(ii), S.I. No. 134 of 2017; subsection substituted (3.05.2023) as per F-note above.
+
+## 10A. Effect of committal order
+
+F26[**10A.**— (1) Subject to *subsections (3)* and *(4)* and *section 10B*, the effect of a committal order shall be to authorise the continued enforcement by the State of a sentence (in its legal nature and duration) imposed in a sentencing country and such an order shall—
+
+(*a*) where a sentenced person is to be committed to a prison, have the same force and effect as an order imposing a sentence of imprisonment following conviction by the court,
+
+(*b*) where a sentenced person is to be committed to a designated centre, have the same force and effect as an order by the court under section 5(2) of the Act of 2006 committing a person to such a centre, and
+
+(*c*) where a sentenced person is to be committed to a children detention school, have the same force and effect as an order imposing a sentence of detention in a children detention school following conviction by the court.
+
+(2) Without prejudice to the generality of *subsection (1)*, the following shall apply in relation to a sentence which is to be enforced in the State—
+
+(*a*) section 17(3) of the Criminal Justice Administration Act 1914 in respect of a sentenced person committed to a prison,
+
+(*b*) the power to commute or remit a punishment under section 23 of the Criminal Justice Act 1951,
+
+(*c*) the power of the Minister to give a direction that a sentenced person be released from prison for a temporary period under section 2 of the Criminal Justice Act 1960 or be released for such period as may be specified by the Minister under section 2A of that Act,
+
+(*d*) the power of the Parole Board to make a parole order under section 27 of the Parole Act 2019 in respect of a sentenced person, and
+
+(*e*) in so far as the period served by a sentenced person in a place of detention on foot of a warrant issued under *section 8* or *9* and a committal order is concerned, the rules or practice whereby sentenced persons generally may earn remission of sentences by industry or good conduct.
+
+(3) A person in respect of whom a warrant is issued under *section 8* or *9* or a committal order is made shall not be entitled to bring any appeal in the State against the conviction or the sentence imposed in the sentencing country.
+
+(4) The Criminal Procedure Act 1993 shall not apply to a person in respect of whom a warrant is issued under *section 8* or *9* or a committal order is made in so far as the conviction or sentence imposed in the sentencing country is concerned.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F26: Inserted (3.05.2023) by *Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023* (3/2023), s. 69, S.I. No. 213 of 2023.
+
+## 10B. Adaptation
+
+F27[**10B.**— (1) The High Court may, on the application by or on behalf of the Minister (whether as part of an application under *section 8(1)* or at any other time) or of its own motion, make an order under *subsection (3)* or *(5)* or both adapting a sentence.
+
+(2) An application under *subsection (1)* shall be made on notice to the sentenced person.
+
+(3) Where the sentence imposed in the sentencing country is by its legal nature incompatible with the law of the State, the High Court may make an order adapting the legal nature of the sentence to that of a sentence prescribed by the law of the State for an offence similar to the offence for which the sentence was imposed.
+
+(4) The legal nature of a sentence adapted under *subsection (3)* shall, as far as practicable, correspond to the legal nature of the sentence concerned imposed in the sentencing country and shall not, in any event, either—
+
+(*a*) aggravate it, or
+
+(*b*) exceed the maximum penalty prescribed by the law of the State for a similar offence.
+
+(5) Where the sentence imposed in the sentencing country is by its duration incompatible with the law of the State, the High Court may make an order adapting the duration of the sentence to that of a sentence prescribed by the law of the State for an offence similar to the offence for which the sentence was imposed.
+
+(6) The duration of a sentence adapted under *subsection (5)* shall, as far as practicable, correspond to the duration of the sentence imposed in the sentencing state and shall not, in any event, either—
+
+(*a*) aggravate it, or
+
+(*b*) exceed the maximum penalty prescribed by the law of the State for a similar offence.
+
+(7) The enforcement of a sentence that is, by its legal nature or duration, incompatible with the law of the State shall not be deemed to be unlawful by reason only of the sentence not having been adapted by way of an order under *subsection (3)* or *(5)* or both.
+
+(8) A sentenced person may continue to be detained or otherwise restricted in his or her personal liberty pursuant to a warrant issued under *section 8* or *9* or a committal order notwithstanding that an application is made under *subsection (1)* for an order under *subsection (3)* or *(5)* or both adapting his or her sentence.
+
+(9) A sentence shall not be taken by its legal nature to be incompatible with the law of the State by reason only of—
+
+(*a*) the duration of the sentence imposed in a sentencing country,
+
+(*b*) any provisions of law of the sentencing country in respect of early or conditional release which applied to the sentence prior to the transfer of its enforcement to the State,
+
+(*c*) any provisions of law of the sentencing country, other than the provisions referred to in *paragraph (b)*, under which the sentenced person would be entitled to be released from custody, whether under licence or otherwise, at a specified time having served a portion of the sentence,
+
+(*d*) in the case of a sentence of imprisonment for life—
+
+(i) any restriction for the whole term of the sentence regarding the eligibility of the sentenced person to early or conditional release (including parole), or
+
+(ii) any condition that means that the eligibility of the sentenced person to early or conditional release (including parole) was conditional on his or her having served a specified term of imprisonment as a result of—
+
+(I) a decision or order by the court or tribunal that imposed the sentence,
+
+(II) the operation of law of the sentencing country, or
+
+(III) a decision of a body in the sentencing country, other than a body referred to in *clause (I)*, on whom a power to make such a decision has been conferred by law,
+
+or
+
+(*e*) its imposition in the sentencing country in respect of more than one offence.
+
+(10) In this section, "incompatible with the law of the State" means—
+
+(*a*) in so far as it applies to the legal nature of a sentence imposed in a sentencing country, a sentence that, subject to *subsection (9)*, consists of a punishment or measure that is different in nature from the punishment or measure which could be imposed on the sentenced person if he or she were—
+
+(i) convicted in the State of an offence corresponding to the offence of which he or she was convicted in the sentencing country, or
+
+(ii) the subject of a special verdict under section 5 of the Act of 2006,
+
+and
+
+(*b*) in so far as it applies to the duration of a sentence imposed in a sentencing country, a sentence that is greater than the maximum term of imprisonment or other detention to which the sentenced person would be liable if he or she were convicted in the State of an offence corresponding to the offence of which he or she was convicted in the sentencing country.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F27: Inserted (3.05.2023) by *Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023* (3/2023), s. 69, S.I. No. 213 of 2023.
+
+## 10C. Transfer to State of enforcement of sentence
+
+F28[**10C.**— (1) Subject to *subsection (2)*, the enforcement of a sentence shall, where the sentenced person is in the State and he or she is a person to whom *section 10(1)* applies, be governed by the law of the State, from the date of the making of an order under that section.
+
+(2) Where a sentenced person escapes from custody or other detention and has not been retaken, the enforcement of the sentence shall revert to the sentencing country upon receipt by the sentencing country of notification by the Minister of the escape.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F28: Inserted (3.05.2023) by *Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023* (3/2023), s. 69, S.I. No. 213 of 2023.
+
+## 10D. Termination of enforcement
+
+F29[**10D.**— (1) The enforcement of a sentence in the State shall cease where the Minister is notified by the sentencing country of any decision or measure, other than a decision or measure in respect of remission, as a result of which the sentence ceased to be enforceable in that country immediately or from such date as is contained in the notification.
+
+(2) The Minister shall, on receipt of a notification under *subsection (1)*, immediately inform the following persons of the decision or measure referred to in the notification:
+
+(*a*) where the sentenced person is in a prison, the governor of the prison;
+
+(*b*) where the sentenced person is in a designated centre, the clinical director of the designated centre;
+
+(*c*) where the sentenced person is in a children detention school, the Director of the children detention school.
+
+(3) Subject to *subsection (4)*, a sentenced person to whom a notification referred to in *subsection (1)* relates shall, upon the governor of the prison, the clinical director of the designated centre or the Director of the children detention school (as the case may be) being informed under *subsection (2)* that the notification has been received, be released from custody or other detention forthwith or on such later date as may be specified in the notification.
+
+(4) *Subsection (3)* shall not apply where—
+
+(*a*) (i) the person has been sentenced to a term of imprisonment for an offence of which he or she was convicted in the State,
+
+(ii) on the date on which he or she would, but for this paragraph, be entitled to be released under *subsection (3)*, all or part of the term of imprisonment remains unexpired, and
+
+(iii) the person is required to serve all or part of the remainder of that term of imprisonment,
+
+or
+
+(*b*) (i) the person has been charged with, or convicted of, an offence in the State, and
+
+(ii) on the date on which he or she would, but for this paragraph, be entitled to be released under *subsection (3)*, he or she is required to be in custody, by virtue of having been remanded in custody pending his or her being tried, or the imposition of sentence, as the case may be, in respect of that offence.
+
+(5) In this section, "governor", in respect of a prison, means—
+
+(*a*) the governor of the prison, or
+
+(*b*) a person who is for the time being performing the functions of governor of the prison.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F29: Inserted (3.05.2023) by *Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023* (3/2023), s. 69, S.I. No. 213 of 2023.
+
+## 10E. Revocation and variation of warrants and orders
+
+F30[**10E.**— (1) The Minister may at any time (including as part of an application under *section 10B*) apply to the High Court for an order revoking, or varying the terms of a warrant under *section 8* or *9* or a committal order.
+
+(2) A sentenced person may in writing request the Minister to bring an application under *subsection (1)* and the Minister shall bring the application unless, having regard to all the circumstances, he or she is satisfied that it is not necessary.
+
+(3) The High Court may, upon an application under *subsection (1)*, make an order revoking or varying the terms of a warrant or order referred to in that subsection if the court is satisfied that the revocation or variation is necessary for the purposes of this Act and the Convention on the Transfer of Sentenced Persons done at Strasbourg on 18 December 1997.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F30: Inserted (3.05.2023) by *Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023* (3/2023), s. 69, S.I. No. 213 of 2023.
+
+## 11. Criminal Procedure Act 1993 disapplied.
+
+**11.**—F31[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F31: Repealed (3.05.2023) by *Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023* (3/2023), s. 70, S.I. No. 213 of 2023.
+
+## 12. Prohibition on certain proceedings.
+
+**12.**—Proceedings for an offence under section 3 of the Criminal Law (Jurisdiction) Act 1976 shall not be brought against a person to whom F32[a committal order] applies.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F32: Substituted (3.05.2023) by *Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023* (3/2023), s. 71, S.I. No. 213 of 2022.
+
+## 13. Expenses.
+
+**13.**—The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## 14. Short title and commencement.
+
+**14.**—(1) This Act may be cited as the Transfer of Execution of Sentences Act 2005.
+
+(2) This Act shall come into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or provisions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E4: Power pursuant to subs. (2) exercised (1.02.2007) by *Transfer of Execution of Sentences Act 2005 (Commencement) Order 2006* (S.I. No. 647 of 2006).
+>
+> 2\. The 1st day of February 2007 is appointed as the day on which the Transfer of Execution of Sentences Act 2005 (No. 28 of 2005) shall come into operation.

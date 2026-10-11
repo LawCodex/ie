@@ -1,0 +1,2113 @@
+---
+title: "Equal Status Act, 2000"
+identifier: "eli/2000/act/8"
+type: act
+jurisdiction: ie
+language: en
+number: 8
+year: 2000
+date: 2000-04-26
+last_amended: 2021-07-29
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2000/act/8/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2000/act/8/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Equal Status Act, 2000
+
+AN ACT TO PROMOTE EQUALITY AND PROHIBIT TYPES OF DISCRIMINATION, HARASSMENT AND RELATED BEHAVIOUR IN CONNECTION WITH THE PROVISION OF SERVICES, PROPERTY AND OTHER OPPORTUNITIES TO WHICH THE PUBLIC GENERALLY OR A SECTION OF THE PUBLIC HAS ACCESS, TO PROVIDE FOR INVESTIGATING AND REMEDYING CERTAIN DISCRIMINATION AND OTHER UNLAWFUL ACTIVITIES, TO PROVIDE FOR THE ADMINISTRATION BY THE EQUALITY AUTHORITY OF VARIOUS MATTERS PERTAINING TO THIS ACT, TO AMEND THE EMPLOYMENT EQUALITY ACT, 1998, IN RELATION THERETO AND IN CERTAIN OTHER RESPECTS AND TO PROVIDE FOR RELATED MATTERS. [26*th April*, 2000]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred and references construed (14.10.2020) by *Disability, Equality, Human Rights, Integration and Reception (Transfer of Departmental Administration and Ministerial Functions) Order 2020* (S.I. No. 436 of 2020), arts. 2, 3(1)(a), (3) and sch., in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> Note change of name of Department and title of Minister to Department of and Minister for Children, Equality, Disability, Integration and Youth made (15.10.2020) by *Children and Youth Affairs (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 437 of 2020), in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Children and Youth Affairs.
+>
+> (2) References to the Department of Justice and Equality contained in any Act or instrument made under such Act and relating to any administration and business transferred by paragraph (1) of this Article shall, on and after the commencement of this Order, be construed as references to the Department of Children and Youth Affairs.
+>
+> 3\. (1) The functions vested in the Minister for Justice and Equality -
+>
+> (a) by or under the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Children and Youth Affairs.
+>
+> ...
+>
+> (3) References to the Minister for Justice and Equality contained in any Act or instrument made under such Act, and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for Children and Youth Affairs.
+>
+> SCHEDULE 1
+>
+> Article 3(1)(a)
+>
+> Enactments, functions by or under which are transferred from the Minister for Justice and Equality to the Minister for Children and Youth Affairs
+>
+> ...
+>
+> Equal Status Acts 2000 to 2018, other than section 14(1)(aa)(ii) (inserted by Part 3 of the Equality Act 2004 (No. 24 of 2004)) of the Equal Status Act 2000 (No. 8 of 2000)
+>
+> ...
+>
+> C2: Application of Act restricted (29.09.2003) by *Intoxicating Liquor Act 2003* (31/2003), s. 19(11), S.I. No. 362 of 2003, reg. 3.
+>
+> **Jurisdiction of District Court in cases of prohibited conduct on licensed premises.**
+>
+> **19.**— ...
+>
+> (11) (a) The Act of 2000 shall cease to apply in relation to prohibited conduct occurring on, or at the point of entry to, licensed premises on or after the commencement of this section.
+>
+> (b) Claims relating to prohibited conduct so occurring before such commencement shall be dealt with as if this Act had not been passed.
+>
+> C3: Application of Act potentially restricted by *Employment Equality Act 1998* (21/1998), s. 82(8) as inserted (18.07.2004) by *Equality Act 2004* (24/2004), s. 36, commenced on enactment.
+>
+> **Redress which may be ordered.**
+>
+> **36.**— ...
+>
+> (8) Where an act constitutes victimisation under both this Act and the Equal Status Act 2000, redress may be provided under only one of them.
+>
+> C4: Application of Act potentially restricted by *Pensions Act 1990* (25/1990), s. 81H(7) as inserted (5.04.2004) by *Social Welfare (Miscellaneous Provisions) Act 2004* (9/2004), s. 22, S.I. No. 141 of 2004.
+>
+> **Redress which may be ordered.**
+>
+> **81H.**— ...
+>
+> (7) Where an act constitutes victimisation both under this Part and the Employment Equality Act 1998 or the Equal Status Act 2000, redress may be provided under only one of them.
+>
+> **Editorial Notes:**
+>
+> E1: Act included in definition of “relevant enactment” (1.08.2015) by *Workplace Relations Act 2015* (16/2015), s. 2, S.I. No. 338 of 2015, with the following effects:
+>
+> • Powers of inspectors for purposes relevant enactments defined in *Workplace Relations Act 2015* (16/2015), s. 27.
+>
+> • Workplace Relations Commission, an inspector or an adjudication officer authorised to disclose employer’s registered number or employee’s PPSN to enable Labour Court to perform functions under relevant enactments by *Workplace Relations Act 2015* (16/2015) s. 31(5).
+>
+> • Power of Workplace Relations Commission and official body to disclose information to each other concerning the commission of offence under relevant enactment provided by *Workplace Relations Act 2015* (16/2015), s. 32.
+>
+> • Power of Workplace Relations Commission and contracting authority to disclose information to each other concerning the commission of offence under employment enactment/ relevant enactment provided by *Workplace Relations Act 2015* (16/2015), s. 33.
+>
+> • Powers of Minister to prosecute under relevant enactments transferred to Workplace Relations Commission and references construed by *Workplace Relations Act 2015* (16/2015), s. 37.
+>
+> E2: Power granted to Irish Human Rights and Equality Commission to prepare draft codes of practice regarding the promotion of equality of opportunity in relation to those matters to which the Act applies (1.11.2014) by *Irish Human Rights and Equality Commission Act 2014* (25/2014), s. 31(1)(d), S.I. No. 449 of 2014.
+>
+> E3: Obligation imposed on Irish Human Rights and Equality Commission to provide information to the public and keep under review the effectiveness of the working of the collectively cited *Equal Status Acts 2000 to 2012* (1.11.2014) by *Irish Human Rights and Equality Commission Act 2014* (25/2014), s. 30(1)(b)(ii), S.I. No. 449 of 2014.
+>
+> E4: Codes of Practice in respect of promotion of equality of opportunity in relation to matters to which Act applies provided for (1.11.2014) by *Irish Human Rights and Equality Commission Act 2014* (25/2014), s. 21(1)(d), S.I. No. 449 of 2014.
+>
+> E5: Previous affecting provision: departmental administrative and ministerial functions under Act other than under ss. 6(7)(a) and 14(aa)(ii) transferred from Department of and Minister for Community, Equality and Gaeltacht Affairs to Department of and Minister for Justice and Law Reform (1.04.2011) by *Equality, Integration, Disability and Human Rights (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 139 of 2011); superseded as per C-note above.
+>
+> E6: Previous affecting provision: departmental administrative and ministerial functions under Act other than under ss. 6(7)(a) and 14(aa)(ii) transferred from Department of and Minister for Justice, Equality and Law Reform to Department and Minister for Community, Rural and Gaeltacht Affairs (1.06.2010) by *Equality, Integration, Disability and Human Rights (Transfer of Departmental Administration and Ministerial Functions) Order 2010* (S.I. No. 217 of 2010); superseded as per E-note above.
+
+## PART IPreliminary — PART I — Preliminary
+
+### 1. Short title.
+
+**1.**— This Act may be cited as the Equal Status Act, 2000.
+
+### 2. Interpretation.
+
+**2.**—(1) In this Act, unless the context otherwise requires—
+
+F1[‘Act of 2015’ means the Workplace Relations Act 2015;
+
+‘adjudication officer’ has the same meaning as it has in the Act of 2015;]
+
+“Authority” means the Equality Authority;
+
+F2[‘civil status’ means being single, married, separated, divorced, widowed, in a civil partnership within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 or being a former civil partner in a civil partnership that has ended by death or been dissolved;]
+
+F3[...]
+
+“disability” means—
+
+(*a*) the total or partial absence of a person’s bodily or mental functions, including the absence of a part of a person’s body,
+
+(*b*) the presence in the body of organisms causing, or likely to cause, chronic disease or illness,
+
+(*c*) the malfunction, malformation or disfigurement of a part of a person’s body,
+
+(*d*) a condition or malfunction which results in a person learning differently from a person without the condition or malfunction, or
+
+(*e*) a condition, disease or illness which affects a person’s thought processes, perception of reality, emotions or judgement or which results in disturbed behaviour;
+
+“discriminate” means to discriminate within the meaning of *section 3(1)* or *4(1)*;
+
+F4[‘discriminatory grounds’ has the meaning given by *subsections (2)* and *(3B)* of *section 3*;]
+
+“family status” means being pregnant or having responsibility—
+
+(*a*) as a parent or as a person in *loco parentis* in relation to a person who has not attained the age of 18 years, or
+
+(*b*) as a parent or the resident primary carer in relation to a person of or over that age with a disability which is of such a nature as to give rise to the need for care or support on a continuing, regular or frequent basis,
+
+and, for the purposes of *paragraph (b)*, a primary carer is a resident primary carer in relation to a person with a disability if the primary carer resides with the person with the disability;
+
+F5[‘Gender Goods and Services Directive’ means Council Directive 2004/113/EC of 13 December 2004[^1] implementing the principle of equal treatment between men and women in the access to and supply of goods and services]
+
+“goods” means any articles of movable property;
+
+F1[‘Labour Court’ means the body established by the Industrial Relations Act 1946;]
+
+F6[...]
+
+F1[‘mediation officer’ has the same meaning as it has in the Act of 2015;]
+
+“the Minister” means the Minister for Justice, Equality and Law Reform;
+
+“near relative” means a spouse F2[or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010], lineal descendant, ancestor, brother or sister;
+
+“person”, as that term is used in or in relation to any provision of this Act that prohibits that person from discriminating or from committing any other act or that requires a person to comply with a provision of this Act or regulations made under it, includes an organisation, public body or other entity;
+
+“premises” includes any immovable property;
+
+F7[‘proceedings’ means—
+
+(*a*) proceedings before the person, body or court dealing with a request or reference under this Act by or on behalf of a person, and
+
+(*b*) any subsequent proceedings, including proceedings on appeal, arising from the request or reference,
+
+but does not include proceedings for an offence under this Act;]
+
+“prohibited conduct” means discrimination against, or sexual harassment or harassment of, or permitting the sexual harassment or harassment of, a person in contravention of this Act;
+
+F8[‘provision’ means a term in a contract or a requirement, criterion, practice, regime, policy or condition affecting a person;]
+
+“refusal” includes a deliberate omission;
+
+“religious belief” includes religious background or outlook;
+
+“service” means a service or facility of any nature which is available to the public generally or a section of the public, and without prejudice to the generality of the foregoing, includes—
+
+(*a*) access to and the use of any place,
+
+(*b*) facilities for—
+
+(i) banking, insurance, grants, loans, credit or financing,
+
+(ii) entertainment, recreation or refreshment,
+
+(iii) cultural activities, or
+
+(iv) transport or travel,
+
+(*c*) a service or facility provided by a club (whether or not it is a club holding a certificate of registration under the Registration of Clubs Acts, 1904 to 1999) which is available to the public generally or a section of the public, whether on payment or without payment, and
+
+(*d*) a professional or trade service,
+
+but does not include pension rights (within the meaning of the Employment Equality Act, 1998) or a service or facility in relation to which that Act applies;
+
+“sexual orientation” means heterosexual, homosexual or bisexual orientation;
+
+“Traveller community” means the community of people who are commonly called Travellers and who are identified (both by themselves and others) as people with a shared history, culture and traditions including, historically, a nomadic way of life on the island of Ireland.
+
+(2) In this Act, unless the contrary intention appears—
+
+(*a*) a reference to a section or Part is to a section or Part of this Act,
+
+(*b*) a reference to a subsection, paragraph or other subdivision is to the subsection, paragraph or subdivision of the provision in which the reference occurs, and
+
+(*c*) a reference to an enactment is to that enactment as amended by or under any other enactment, including this Act.
+
+F8[(3) In any proceedings a respondent is presumed, unless the contrary is shown, to fail to do something when—
+
+(*a*) the respondent does an act inconsistent with doing it, or
+
+(*b*) the period expires during which the respondent might reasonably have been expected to do it.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(a)(i), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> F2: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 103(2)(a) and (c), S.I. No. 648 of 2010.
+>
+> F3: Deleted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(a)(ii), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> F4: Substituted (1.01.2016) by *Equality (Miscellaneous Provisions) Act 2015* (43/2015), s. 12, S.I. No. 610 of 2015.
+>
+> F5: Inserted (20.07.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 76(a), S.I. No. 274 of 2008.
+>
+> F6: Deleted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 103(2)(b), S.I. No. 648 of 2010.
+>
+> F7: Substituted (18.07.2004) by *Equality Act 2004* (24/2004), s. 47(a)(i), commenced on enactment.
+>
+> F8: Inserted (18.07.2004) by *Equality Act 2004* (24/2004), s. 47(a)(ii) and (b), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C5: Functions transferred and references construed (14.10.2020) by *Disability, Equality, Human Rights, Integration and Reception (Transfer of Departmental Administration and Ministerial Functions) Order 2020* (S.I. No. 436 of 2020), arts. 2, 3(1)(a), (3) and sch., in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> Note change of name of Department and title of Minister to Department of and Minister for Children, Equality, Disability, Integration and Youth made (15.10.2020) by *Children and Youth Affairs (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 437 of 2020), in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Children and Youth Affairs.
+>
+> (2) References to the Department of Justice and Equality contained in any Act or instrument made under such Act and relating to any administration and business transferred by paragraph (1) of this Article shall, on and after the commencement of this Order, be construed as references to the Department of Children and Youth Affairs.
+>
+> 3\. (1) The functions vested in the Minister for Justice and Equality -
+>
+> (a) by or under the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Children and Youth Affairs.
+>
+> ...
+>
+> (3) References to the Minister for Justice and Equality contained in any Act or instrument made under such Act, and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for Children and Youth Affairs.
+>
+> SCHEDULE 1
+>
+> Article 3(1)(a)
+>
+> Enactments, functions by or under which are transferred from the Minister for Justice and Equality to the Minister for Children and Youth Affairs
+>
+> ...
+>
+> Equal Status Acts 2000 to 2018, other than section 14(1)(aa)(ii) (inserted by Part 3 of the Equality Act 2004 (No. 24 of 2004)) of the Equal Status Act 2000 (No. 8 of 2000)
+>
+> ...
+>
+> C6: References to “Equality Authority” construed (1.11.2014) by *Irish Human Rights and Equality Commission Act 2014* (25/2014), s. 44(2), S.I. No. 449 of 2014.
+>
+> **Transfer of functions to Commission**
+>
+> **44.**— ...
+>
+> (2) References in any enactment or instrument under an enactment to the Human Rights Commission or the Equality Authority, as the case may be (howsoever described) shall be construed as references to the Commission save where other provision is made as respects the construction of the first-mentioned references by any enactment passed before the passing of this Act.
+>
+> ...
+
+### 3. Discrimination (general).
+
+**3.**—F9[(1) For the purposes of this Act discrimination shall be taken to occur—
+
+(*a*) where a person is treated less favourably than another person is, has been or would be treated in a comparable situation F10[on any of the grounds specified in *subsection (2)* or, if appropriate, *subsection (3B)*,] (in this Act referred to as the ‘discriminatory grounds’) which—
+
+(i) exists,
+
+(ii) existed but no longer exists,
+
+(iii) may exist in the future, or
+
+(iv) is imputed to the person concerned,
+
+(*b*) where a person who is associated with another person—
+
+(i) is treated, by virtue of that association, less favourably than a person who is not so associated is, has been or would be treated in a comparable situation, and
+
+(ii) similar treatment of that other person on any of the discriminatory grounds would, by virtue of paragraph (*a*), constitute discrimination,
+
+or
+
+(*c*) where an apparently neutral provision F10[would put a person] referred to in any paragraph of *section 3(2)* at a particular disadvantage compared with other persons, unless the provision is objectively justified by a legitimate aim and the means of achieving that aim are appropriate and necessary.]
+
+(2) As between any two persons, the discriminatory grounds (and the descriptions of those grounds for the purposes of this Act) are:
+
+(*a*) that one is male and the other is female (the “gender ground”),
+
+(*b*) that they are of different F11[civil status] (the “F11[civil status] ground”),
+
+(*c*) that one has family status and the other does not or that one has a different family status from the other (the “family status ground”),
+
+(*d*) that they are of different sexual orientation (the “sexual orientation ground”),
+
+(*e*) that one has a different religious belief from the other, or that one has a religious belief and the other has not (the “religion ground”),
+
+(*f*) subject to *subsection (3)*, that they are of different ages (the “age ground”),
+
+(*g*) that one is a person with a disability and the other either is not or is a person with a different disability (the “disability ground”),
+
+(*h*) that they are of different race, colour, nationality or ethnic or national origins (the “ground of race”),
+
+(*i*) that one is a member of the Traveller community and the other is not (the “Traveller community ground”),
+
+(*j*) that one—
+
+(i) has in good faith applied for any determination or redress provided for in *Part II* or *III*,
+
+(ii) has attended as a witness before the Authority, the F12[adjudication officer] or a court in connection with any inquiry or proceedings under this Act,
+
+(iii) has given evidence in any criminal proceedings under this Act,
+
+(iv) has opposed by lawful means an act which is unlawful under this Act, or
+
+(v) has given notice of an intention to take any of the actions specified in *subparagraphs (i)* to *(iv)*,
+
+and the other has not (the “victimisation ground”).
+
+F9[(3) (*a*) Treating a person who has not attained the age of 18 years less favourably or more favourably than another, whatever that person’s age shall not be regarded as discrimination on the age ground.
+
+(*b*) *Paragraph (a)* does not apply in relation to the provision of motor vehicle insurance to licensed drivers under that age.
+
+(3A) In any proceedings statistics are admissible for the purpose of determining whether discrimination has occurred by virtue of *subsection (1)(c)*.]
+
+F13[(3B) For the purposes of *section 6(1)(c)*, the discriminatory grounds shall (in addition to the grounds specified in *subsection (2)*) include the ground that as between any two persons, that one is in receipt of rent supplement (within the meaning of *section 6(8)*), housing assistance (construed in accordance with Part 4 of the Housing (Miscellaneous Provisions) Act 2014) or any payment under the Social Welfare Acts and the other is not (the “housing assistance ground”).]
+
+(4) The Minister shall, not later than two years after the commencement of this section, review the operation of this Act to assess whether there is a need to add to the discriminatory grounds specified in *subsection (2)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F9: Substituted and inserted (18.07.2004) by *Equality Act 2004* (24/2004), s. 48(a) and (b), commenced on enactment.
+>
+> F10: Substituted (1.01.2016) by *Equality (Miscellaneous Provisions) Act 2015* (43/2015), s. 13(a)(i) and (ii), S.I. No. 610 of 2015.
+>
+> F11: Substituted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 103(3), S.I. No. 648 of 2010.
+>
+> F12: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(c), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> F13: Inserted (1.01.2016) by *Equality (Miscellaneous Provisions) Act 2015* (43/2015), s. 13(b), S.I. 610 of 2015.
+
+### 4. Discrimination on ground of disability.
+
+**4.**—(1) For the purposes of this Act discrimination includes a refusal or failure by the provider of a service to do all that is reasonable to accommodate the needs of a person with a disability by providing special treatment or facilities, if without such special treatment or facilities it would be impossible or unduly difficult for the person to avail himself or herself of the service.
+
+(2) A refusal or failure to provide the special treatment or facilities to which *subsection (1)* refers shall not be deemed reasonable unless such provision would give rise to a cost, other than a nominal cost, to the provider of the service in question.
+
+(3) A refusal or failure to provide the special treatment or facilities to which *subsection (1)* refers does not constitute discrimination if, by virtue of another provision of this Act, a refusal or failure to provide the service in question to that person would not constitute discrimination.
+
+(4) Where a person has a disability that, in the circumstances, could cause harm to the person or to others, treating the person differently to the extent reasonably necessary to prevent such harm does not constitute discrimination.
+
+(5) This section is without prejudice to the provisions of sections 7(2)(*a*), 9(*a*) and 15(2)(*g*) of the Education Act, 1998, in so far as they relate to functions of the Minister for Education and Science, recognised schools and boards of management in regard to students with a disability.
+
+(6) In this section—
+
+“provider of a service” means—
+
+(*a*) the person disposing of goods in respect of which *section 5(1)* applies,
+
+(*b*) the person responsible for providing a service in respect of which *section 5(1)* applies,
+
+(*c*) the person disposing of any estate or interest in premises in respect of which *section 6(1)(a)* applies,
+
+(*d*) the person responsible for the provision of accommodation or any related services or amenities in respect of which *section 6(1)(c)* applies,
+
+(*e*) an educational establishment within the meaning of *subsection (1)* of *section 7* in relation to any of the matters referred to in *subsection (2)* of that section, or
+
+(*f*) a club within the meaning of *section 8(1)* in respect of admission to membership or a service offered to its members,
+
+as the case may be, and “service” shall be construed accordingly;
+
+“providing”, in relation to the special treatment or facilities to which *subsection (1)* refers, includes making provision for or allowing such treatment or facilities, and cognate words shall be construed accordingly.
+
+## PART IIDiscrimination And Related Activities — PART II — Discrimination And Related Activities
+
+### 5. Disposal of goods and provision of services.
+
+**5.**—(1) A person shall not discriminate in disposing of goods to the public generally or a section of the public or in providing a service, whether the disposal or provision is for consideration or otherwise and whether the service provided can be availed of only by a section of the public.
+
+(2) F14[Subject to *subsections (4) and (4A)*, *subsection (1)* shall not apply in respect of—]
+
+(*a*) an activity referred to in *section 7(2)*,
+
+(*b*) a service related to a matter provided for under *section 6*, or a service offered to its members by a club in respect of which *section 8* applies,
+
+(*c*) differences in the treatment of persons on the gender ground in relation to services of an aesthetic, cosmetic or similar nature, where the services require physical contact between the service provider and the recipient,
+
+(*d*) differences in the treatment of persons in relation to annuities, pensions, insurance policies or any other matters related to the assessment of risk F15[(other than on the gender ground or in any other circumstances to which the Gender Goods and Services Directive is relevant)] where the treatment—
+
+(i) is effected by reference to—
+
+(I) actuarial or statistical data obtained from a source on which it is reasonable to rely, or
+
+(II) other relevant underwriting or commercial factors,
+
+and
+
+(ii) is reasonable having regard to the data or other relevant factors,
+
+F15[F14[(*da*) differences in the treatment of persons on the gender ground, or in any other circumstances to which the Gender Goods and Services Directive is relevant, related to the assessment of risk in respect of classes of insurance to which this paragraph applies pursuant to subsection (3) where the treatment—
+
+(i) is effected by reference to—
+
+(I) actuarial or statistical data obtained from a source on which it is reasonable to rely, or
+
+(II) other relevant underwriting or commercial factors,
+
+and
+
+(ii) is reasonable having regard to the data or other relevant factors, and
+
+(iii) is effected, in the case of a class of insurance specified in *paragraph (a)* or *(b)* of *subsection (3)*, pursuant to a contract which is concluded before 21 December 2012,]]
+
+(*e*) differences in the treatment of person on the religion ground in relation to goods or services provided for a religious purpose,
+
+(*f*) differences in the treatment of persons on the gender, age or disability ground or on the basis of nationality or national origin in relation to the provision or organisation of a sporting facility or sporting event to the extent that the differences are reasonably necessary having regard to the nature of the facility or event and are relevant to the purpose of the facility or event,
+
+(*g*) differences in the treatment of persons on the gender ground where embarrassment or infringement of privacy can reasonably be expected to result from the presence of a person of another gender,
+
+(*h*) differences in the treatment of persons in a category of persons in respect of services that are provided for the principal purpose of promoting, for a *bona fide* purpose and in a *bona fide* manner, the special interests of persons in that category to the extent that the differences in treatment are reasonably necessary to promote those special interests,
+
+(*i*) differences in the treatment of persons on the gender, age or disability ground or on the ground of race, reasonably required for reasons of authenticity, aesthetics, tradition or custom in connection with a dramatic performance or other entertainment,
+
+(*j*) an age requirement for a person to be an adoptive or foster parent, where the requirement is reasonable having regard to the needs of the child or children concerned,
+
+(*k*) a disposal of goods by will or gift, or
+
+(*l*) differences, not otherwise specifically provided for in this section, in the treatment of persons in respect of the disposal of goods, or the provision of a service, which can reasonably be regarded as goods or a service suitable only to the needs of certain persons.
+
+F15[(3) The classes of insurance to which *paragraph (da)* of *subsection (2)* applies are—
+
+(*a*) those classes of insurance named ‘Motor Insurance’ in Part B of Annex I to the European Communities (Non-Life Insurance) Framework Regulations 1994 (S.I. No. 359 of 1994),
+
+(*b*) those classes of insurance, being life assurance, specified as Class I, III or IV in Part A of Annex I to the European Communities (Life Assurance) Framework Regulations 1994 (S.I. No. 360 of 1994), and
+
+(*c*) those classes of insurance which are contracts of insurance, or other insurance arrangements, which fall within *paragraph (d)* of the definition of ‘health insurance contract’ in the Health Insurance Act 1994 if, but only if, the differences in treatment referred to in *paragraph (da)* of *subsection (2)*, in so far as they relate to such contracts or arrangements, as the case may be, are permitted by the law of the place where such contracts or arrangements, as the case may be, are marketed.
+
+(4) With effect on and after 21 December 2009, nothing in *subsection (2)* shall be construed to permit differences in the treatment of persons in relation to premiums and benefits payable under insurance policies based, whether in whole or in part, on costs incurred by insurers in relation to pregnancy and maternity.
+
+F16[(4A) (*a*) With effect on and after 21 December 2012, nothing in *subsection (2)* shall be construed to permit differences in the treatment of persons on the gender ground, or in any other circumstances to which the Gender Goods and Services Directive is relevant, related to the assessment of risk in respect of contracts of insurance of the classes of insurance specified in paragraph *(a)* or *(b)* of *subsection (3)* where such contracts are concluded on or after that date.
+
+(*b*) For the avoidance of doubt, nothing in *paragraph (a)* shall be construed as applying to a contract of a class of insurance specified in *subsection (3)(a)* where the contract concerned is concluded before 21 December 2012 and expires before 21 December 2013, irrespective of whether any adjustment to the insurance cover provided under that contract or any related adjustment to premium is made to the contract concerned during its term and, accordingly, *subsection (2)(da)* shall continue to apply to that contract during its term.]
+
+(5) Subject to *section 41(2A)*, the Central Bank and Financial Services Authority of Ireland (within the meaning of the Central Bank Act 1942 as amended by the Central Bank and Financial Services Authority of Ireland Act 2003) shall compile, publish and maintain data relevant to the use of gender as a determining actuarial factor in the assessment of risk in relation to the classes of insurance to which *paragraph (da)* of *subsection (2)* applies pursuant to *subsection (3)*.]
+
+F16[(6) The obligations imposed on the Central Bank of Ireland (within the meaning of the Central Bank Act 1942 (as amended by the Central Bank Reform Act 2010)) by virtue of *subsection (5)*, in so far as those obligations relate to the compilation of data referred to in that subsection, shall cease to have effect on and after 21 December 2012.
+
+(7) Nothing in *subsection (6)* shall be construed to affect the obligations imposed on the Central Bank of Ireland by virtue of *subsection (5)*, to continue to maintain and publish data referred to in that subsection compiled before 21 December 2012.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F14: Substituted (20.12.2012) by *Equal Status (Amendment) Act 2012* (41/2012), s. 2(a), commenced on enactment.
+>
+> F15: Inserted (20.07.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 76(b)(i)(II), (III) and (ii), S.I. No. 274 of 2008.
+>
+> F16: Inserted (20.12.2012) by *Equal Status (Amendment) Act 2012* (41/2012), s. 2(b), (c), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E7: Previous affecting provision: subs. (2) amended (20.07.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 76(b)(i)(I), S.I. No. 274 of 2008; substituted as per F-note above.
+
+### 6. Disposal of premises and provision of accommodation.
+
+**6.**—(1) A person shall not discriminate in—
+
+(*a*) disposing of any estate or interest in premises,
+
+(*b*) terminating any tenancy or other interest in premises, or
+
+(*c*) F17[subject to *subsection (1A)*, providing accommodation] or any services or amenities related to accommodation or ceasing to provide accommodation or any such services or amenities.
+
+F18[(1A) *Subsection (1)(c)* is without prejudice to—
+
+(*a*) any enactment or rule of law regulating the provision of accommodation, or
+
+(*b*) the right of a person providing accommodation to make it a condition of the provision of that accommodation that rent supplement is paid directly to that person.]
+
+(2) *Subsection (1)* does not apply in respect of—
+
+(*a*) the disposal of any estate or interest in premises by will or gift,
+
+(*b*) F19[...]
+
+(*c*) any disposal of such an estate or interest, or any provision of accommodation or of any services or amenities relating to accommodation, which is not available to the public generally or a section of the public,
+
+F20[(*d*) the provision of accommodation by a person in a part (other than a separate and self-contained part) of the person’s home, or where the provision of the accommodation affects the person’s private or family life or that of any other person residing in the home, or]
+
+or
+
+(*e*) the provision of accommodation to persons of one gender where embarrassment or infringement of privacy can reasonably be expected to result from the presence of a person of another gender.
+
+(3) References in *subsection (2)* to the disposal of an estate or interest in premises or the provision of accommodation or of any services or amenities relating to accommodation include references to the termination of any tenancy or other interest in those premises or ceasing to provide such accommodation, services or amenities.
+
+(4) F19[...]
+
+(5) Where any premises or accommodation are reserved for the use of persons in a particular category of persons for a religious purpose or as a refuge, nursing home, retirement home, home for persons with a disability or hostel for homeless persons or for a similar purpose, a refusal to dispose of the premises or provide the accommodation to a person who is not in that category does not, for that reason alone, constitute discrimination.
+
+(6) Nothing in *subsection (1)* shall be construed as prohibiting—
+
+(*a*) a housing authority, pursuant to its functions under the Housing Acts, 1966 to 1998, or
+
+(*b*) a body approved under section 6 of the Housing (Miscellaneous Provisions) Act, 1992,
+
+from providing, in relation to housing accommodation, different treatment to persons based on family size, family status, F21[civil status], disability, age or membership of the Traveller community.
+
+F22[(7) (*a*) Nothing in *subsection (1)* shall be construed as prohibiting, in relation to housing accommodation provided by or on behalf of the Minister, different treatment to persons on the basis of nationality, gender, family size, family status, F21[civil status], disability, age or membership of the Traveller community.
+
+(*b*) Nothing in *paragraph (a)* shall derogate from any of the obligations of the State under the treaties governing the European Communities within the meaning of the European Communities Acts 1972 to 2003 or any Act adopted by an institution of those Communities.]
+
+F18[(8) In this section, ‘rent supplement’ means a payment made under section 198(3) of the Social Welfare Consolidation Act 2005 towards the amount of rent payable by a person in respect of his or her residence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F17: Substituted (1.01.2016) by *Equality (Miscellaneous Provisions) Act 2015* (43/2015), s. 14(a), S.I. No. 610 of 2015.
+>
+> F18: Inserted (1.01.2015) by *Equality (Miscellaneous Provisions) Act 2015* (43/2015), s. 14(b) and (c), S.I. No. 610 of 2015.
+>
+> F19: Deleted (18.07.2004) by *Equality Act 2004* (24/2004), s. 49(a), commenced on enactment.
+>
+> F20: Substituted (18.07.2004) by *Equality Act 2004* (24/2004), s. 49(b), commenced on enactment.
+>
+> F21: Substituted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 103(3), S.I. No. 648 of 2010.
+>
+> F22: Inserted (18.07.2004) by *Equality Act 2004* (24/2004), s. 49(c), commenced on enactment.
+
+### 7. Educational establishments.
+
+**7.**—(1) In this section “educational establishment” means a preschool service within the meaning of Part VII of the Child Care Act, 1991, a primary or post-primary school, an institution providing adult, continuing or further education, or a university or any other third-level or higher-level institution, whether or not supported by public funds.
+
+(2) An educational establishment shall not discriminate in relation to—
+
+(*a*) the admission or the terms or conditions of admission of a person as a student to the establishment,
+
+(*b*) the access of a student to any course, facility or benefit provided by the establishment,
+
+(*c*) any other term or condition of participation in the establishment by a student, or
+
+(*d*) the expulsion of a student from the establishment or any other sanction against the student.
+
+(3) An educational establishment does not discriminate under *subsection (2)* by reason only that—
+
+(*a*) where the establishment is not a third-level institution and admits students of one gender only, it refuses to admit as a student a person who is not of that gender,
+
+(*b*) where the establishment is an institution established for the purpose of providing training to ministers of religion and admits students of only one gender or religious belief, it refuses to admit as a student a person who is not of that gender or religious belief,
+
+F23[(*c*) where the establishment is a school (other than a recognised primary school) providing primary or post-primary education to students and the objective of the school is to provide education in an environment which promotes certain religious values, it admits persons of a particular religious denomination in preference to others,]
+
+F24[(*ca*) where the establishment is a school providing primary or post-primary education to students and the objective of the school is to provide education in an environment which promotes certain religious values, it refuses to admit as a student a person who is not of a particular religious denomination and it is proved that the refusal is essential to maintain the ethos of the school,
+
+(*cb*) where the establishment is a recognised primary school and it admits as a student a person in accordance with *section 7A* (inserted by section 11(b) of the Education (Admission to Schools) Act 2018).]
+
+(*d*) without prejudice to section 3 of the Refugee Act, 1996, where the establishment is an institution providing adult, continuing or further education or a university or other third-level institution—
+
+(i) it provides different treatment in relation to—
+
+F25[(I) the fees for admission or attendance by persons who are citizens of Ireland, nationals of another Member State, nationals of the Swiss Confederation or nationals of a member state of the European Economic Area and persons who are not, or]
+
+(II) the allocation of places at the establishment to those nationals and other nationals,
+
+or
+
+(ii) it offers assistance to particular categories of persons—
+
+(I) by way of sponsorships, scholarships, bursaries or other awards, being assistance which is justifiable, having regard to traditional and historical considerations, or
+
+(II) in relation to the allocation of places at the establishment, where the allocation is made pursuant to an agreement concerning the exchange of students made between the establishment and an educational institution or authority in a jurisdiction other than the State,
+
+or
+
+(*e*) where the establishment is a university or other third-level institution, it provides different treatment in the allocation of places at the establishment to mature students (within the meaning of the Local Authorities (Higher Education Grants) Acts, 1968 to 1992).
+
+(4) *Subsection (2)* does not apply—
+
+(*a*) in respect of differences in the treatment of students on the gender, age or disability ground in relation to the provision or organisation of sporting facilities or sporting events, to the extent that the differences are reasonably necessary having regard to the nature of the facilities or events, or
+
+(*b*) to the extent that compliance with any of its provisions in relation to a student with a disability would, by virtue of the disability, make impossible, or have a seriously detrimental effect on, the provision by an educational establishment of its services to other students.
+
+F26[(5) (*a*) In this subsection ‘grants’ means grants to assist persons to attend or continue to attend—
+
+(i) an institution providing adult, continuing or further education,
+
+(ii) a university, or
+
+(iii) any other third-level or higher-level institution,
+
+whether or not supported by public funds.
+
+(*b*) The Minister for Education and Science does not discriminate where he or she—
+
+(i) requires grants to be restricted to persons who are F25[citizens of Ireland, nationals of a Member State, nationals of the Swiss Confederation or nationals of a member state of the European Economic Area], or
+
+(ii) requires F25[such citizens or nationals] and other persons to be treated differently in relation to the making of grants.]
+
+F27[(6) In this section—
+
+‘member state of the European Economic Area’ means a state that is a contracting party to the Agreement on the European Economic Area signed at Oporto on 2 May 1992, as adjusted by all subsequent amendments to that Agreement;
+
+‘recognised primary school’ means a primary school—
+
+(*a*) designated by the Minister for Education and Skills under subsection (1) of section 10 of the Education Act 1998 to be a school recognised for the purposes of that Act, or
+
+(*b*) deemed to be a school recognised in accordance with the said section 10.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F23: Substituted (3.10.2018) by Education (Admission to Schools) Act 2018 (14/2018), s. 11(a)(i), (iii), S.I. No. 396 of 2018.
+>
+> F24: Inserted (3.10.2018) by *Education (Admission to Schools) Act 2018* (14/2018), s. 11(a)(ii), S.I. No. 396 of 2018.
+>
+> F25: Substituted (1.01.2016) by *Equality (Miscellaneous Provisions) Act 2015* (43/2015), s. 15(a), (b), S.I. No. 610 of 2015.
+>
+> F26: Inserted (18.07.2004) by *Equality Act 2004* (24/2004), s. 50, commenced on enactment.
+>
+> F27: Substituted (3.10.2018) by *Education (Admission to Schools) Act 2018* (14/2018), s. 11(a)(i), (iii), S.I. No. 396 of 2018.
+>
+> **Editorial Notes:**
+>
+> E8: Previous affecting provision: subs. (6) inserted (1.01.2016) by *Equality (Miscellaneous Provisions) Act 2015* (43/2015), s. 15(c), S.I. No. 610 of 2015; substituted as per F-note above.
+
+### 7A. Recognised primary schools
+
+F28[**7A.** (1) When making an application for admission to a recognised primary school, an applicant may provide—
+
+(*a*) a statement confirming that the student in respect of whom the application relates is a member of a minority religion and that the applicant wishes the student to be educated in a school that provides a programme of religious instruction or religious education which is of the same religious ethos as, or a similar religious ethos to, the religious ethos of the minority religion of the student concerned, and
+
+(*b*) any evidence that the applicant wishes to include to support the statement that the student in respect of whom the application relates is a member of a minority religion.
+
+(2) A recognised primary school may, following an application in accordance with *subsection (1)* and in accordance with this section, give priority to the admission of a student where the school is satisfied that—
+
+(*a*) the student concerned is a member of a minority religion, and
+
+(*b*) the school provides a programme of religious instruction or religious education which is of the same religious ethos as, or a similar religious ethos to, the religious ethos of the minority religion of the student concerned.
+
+(3) In satisfying itself in accordance with *subsection (2)(a)* a recognised primary school shall take into account only—
+
+(*a*) the statement that the applicant has provided in accordance with *subsection (1)(a)*, and
+
+(*b*) any evidence that the applicant has provided in accordance with *subsection (1)(b)*.
+
+(4) (*a*) Subject to *paragraph (b)*, a recognised primary school may not for the purpose of admission to the school concerned rank, in order of preference, by virtue of the particular religious denomination of a student who has satisfied the school in accordance with *subsection (2)* as against students of other religious denominations who have satisfied the school concerned in accordance with that subsection.
+
+(*b*) Nothing in *paragraph (a)* shall preclude a recognised primary school from applying the selection criteria set out in the school’s admission policy to students who have satisfied the school in accordance with *subsection (2)*, where the number of such students is greater than the number of places available.
+
+(5) The Minister for Education and Skills shall—
+
+(*a*) not later than 5 years after section 11 of the Education (Admission to Schools) Act 2018 comes into operation, commence a review of the operation of this section, and
+
+(*b*) not later than 12 months after the expiration of the said 5 years, make a report to each House of the Oireachtas of his or her findings and conclusions resulting from that review.
+
+(6) In this section—
+
+‘Act of 1998’ means the Education Act 1998;]
+
+F29[‘admission policy’ has the same meaning as it has in section 2 (amended by section 2 of the Education (Admission to Schools) Act 2018) of the Act of 1998;]
+
+F28[‘applicant’ has the same meaning as it has in Part X (inserted by section 9 of the Education (Admission to Schools) Act 2018) of the Act of 1998;
+
+‘minority religion’ means a religion other than a religion whose membership comprises in excess of 10 per cent of the total population of the State based on the population as ascertained by the Central Statistics Office in the most recent census report published by that office setting out the final result of a census of population of the State (whether or not that is the most recent such census of population);
+
+‘recognised primary school’ has the same meaning as it has in *section 7*;
+
+‘student’ has the same meaning as it has in Part X of the Act of 1998.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F28: Inserted (3.10.2018) by *Education (Admission to Schools) Act 2018* (14/2018), s. 11(b), S.I. No. 396 of 2018.
+>
+> F29: Inserted (1.02.2020) by *Education (Admission to Schools) Act 2018* (14/2018), s. 11(b), S.I. No. 6 of 2020.
+
+### 8. Discriminating clubs.
+
+**8.**—(1) In this section—
+
+“certificate of registration”, in relation to a club, means the certificate of registration of the club under the Registration of Clubs Acts, 1904 to 1999;
+
+“club” means a club that has applied for or holds a certificate of registration.
+
+(2) For the purposes of this section—
+
+(*a*) a club shall be considered to be a discriminating club if—
+
+(i) it has any rule, policy or practice which discriminates against a member or an applicant for membership, or
+
+(ii) a person involved in its management discriminates against a member or an applicant for membership in relation to the affairs of the club,
+
+(*b*) without prejudice to the generality of *paragraph (a)*, any of the following acts, if done by a club or a person involved in its management on any of the discriminatory grounds, is evidence that the club is a discriminating club:
+
+(i) refusing to admit a person to membership;
+
+(ii) providing different terms and conditions of membership for members or applicants for membership;
+
+(iii) terminating the membership of a person or subjecting a member to any other sanction; or
+
+(iv) refusing or failing, in contravention of *section 4(1)*, to do all that is reasonable to accommodate the needs of a member, or an applicant for membership, with a disability.
+
+(3) Any person, including the Authority (in this section referred to as “the applicant”), may, on application to the District Court (in this section referred to as “the Court”), request that the Court make a determination as to whether a club is a discriminating club.
+
+(4) An application may be dismissed by the Court if it is found to have been brought in bad faith or to be frivolous or vexatious or to relate to a trivial matter.
+
+(5) A copy of the application shall be served by the applicant, by personal service or by post, on the club and on such members, officers and employees of the club (if any) and such other persons (if any) as the Court may by order direct and the application shall be considered by the Court, providing to the applicant, the club and to any such members, officers, employees and other persons a reasonable opportunity to make representations.
+
+(6) After considering the representations, the Court shall—
+
+(*a*) make an order in writing setting out its determination as to whether or not the club is a discriminating club, and
+
+(*b*) cause a copy of the order to be transmitted to the Minister.
+
+(7) (*a*) Where—
+
+(i) the Court makes an order under *subsection (6)(a)* setting out its determination that a club is a discriminating club, and
+
+(ii) the order is the first such order in relation to the club,
+
+the Court shall include in the order a provision suspending the certificate of registration of the club for a period not exceeding 30 days.
+
+(*b*) Where the Court makes any subsequent such order, *section 10* shall apply and have effect in relation to it.
+
+(8) (*a*) The applicant, the club or any other person on whom a copy of the application under *subsection (3)* was served may, within 42 days after the order, appeal to the Circuit Court against the order or a provision of the order suspending the certificate of registration.
+
+(*b*) On an appeal against the order the Circuit Court may by order—
+
+(i) in case the District Court has determined that the club is not a discriminating club, either—
+
+(I) affirm the order, or
+
+(II) allow the appeal, make a determination that theclub is a discriminating club and, if the determination is the first such determination in relation to the club, suspend the certificate of registration of the club for a period not exceeding 30 days,
+
+(ii) in any other case—
+
+(I) affirm the order,
+
+(II) where the order includes a provision suspending the certificate of registration, affirm the determination of the District Court but vary the period of suspension, or
+
+(III) allow the appeal.
+
+(*c*) On an appeal which is only against a provision of the order suspending the certificate of registration, the Circuit Court may by order vary the period of suspension.
+
+(*d*) The Circuit Court shall cause a copy of its order to be sent to the Minister.
+
+(9) A period of suspension of a certificate of registration provided for in an order under *subsection (6)(a)* shall commence—
+
+(*a*) if no appeal is made against the order or the period of suspension, on the 50th day after the order is made, or
+
+(*b*) if such an appeal is made and the order is affirmed, or the period of suspension is affirmed or varied, on the 50th day after the order is made on the appeal,
+
+and shall end—
+
+(i) if no appeal is made against the order or the period of suspension, on the expiration of the period of suspension provided for in the order,
+
+(ii) if such an appeal is made and the order or period of suspension is affirmed, on the expiration of the period of suspension so provided for, or
+
+(iii) if on appeal the period of suspension is varied, on the expiration of the period as so varied.
+
+(10) Where an appeal against an order under *subsection (6)(a)* (other than an order referred to in *subsection (7)(a)*) is not brought, the order shall come into effect on the 50th day after it is made.
+
+(11) An order under this section suspending the certificate of registration of a club shall, while it is in force, have effect for the purposes of the Registration of Clubs Acts, 1904 to 1999, as if no certificate under those Acts had been granted in respect of the club for the period of suspension.
+
+(12) No employee who is working in a club during any period of suspension of the club’s certificate of registration shall be disadvantaged by reason of the suspension in his or her employment during that period.
+
+(13) For the purpose of *subsection (12)* “employee” means any person who works under a contract of employment with an employer or is a regular part-time employee as defined in section 1 of the Worker Protection (Regular Part-Time Employees) Act, 1991.
+
+(14) The Minister shall cause particulars of an order under *subsection (6)(a)* and of any order made by the Circuit Court on appeal to be published or made available in such form and manner as the Minister considers appropriate in the circumstances—
+
+(*a*) after the expiration of 50 days from the making of the order under *subsection (6)(a)*, or
+
+(*b*) if the order has been appealed against, after the appeal has been finally determined.
+
+(15) A club that is determined by the District Court under this section to be a discriminating club may at any time, on application to that Court, request that it make a determination as to whether the club continues to be a discriminating club and, where an application is made, the provisions of this section shall apply in the same manner and to the same extent as if the application were made under *subsection (3)*, except that a copy of the application shall, unless the Court otherwise directs, be served by the club, by personal service or by post, on the person who was the original applicant, if possible, and on such other persons as the Court may by order direct.
+
+### 9. Non-discriminating clubs.
+
+**9.**—(1) For the purposes of *section 8*, a club shall not be considered to be a discriminating club by reason only that—
+
+(*a*) if its principal purpose is to cater only for the needs of—
+
+(i) persons of a particular gender, F30[civil status], family status, sexual orientation, religious belief, age, disability, nationality or ethnic or national origin,
+
+(ii) persons who are members of the Traveller community, or
+
+(iii) persons who have no religious belief,
+
+it refuses membership to other persons,
+
+(*b*) it confines access to a membership benefit or privilege to members within the category of a particular gender or age, where—
+
+(i) it is not practicable for members outside the category to enjoy the benefit or privilege at the same time as members within the category, and
+
+(ii) arrangements have been made by the club which offer the same or a reasonably equivalent benefit or privilege both to members within the category and to members outside the category,
+
+(*c*) it has different types of membership, access to which is not based on any discriminatory ground,
+
+(*d*) for the purpose of reducing or eliminating the effect of any rule or practice of the club (whether adopted before or after the commencement of this section) restricting access to particular types of membership to persons of a particular gender it offers concessionary rates, fees or membership arrangements to persons who were or are disadvantaged by any such rule or practice, or
+
+(*e*) it provides different treatment to members in the category of a particular gender, age, disability, nationality or national origin in relation to sporting facilities or events and the different treatment is relevant to the purpose of the facilities or events and is reasonably necessary.
+
+(2) For the purposes of *section 8*, a club shall not be considered to be a discriminating club by reason only that it—
+
+(*a*) has, for the principal purpose of promoting equality, a reserved place or places on its board or committee of management for persons who are members of a particular category, or
+
+(*b*) takes other measures for the principal purpose of obtaining a more equal involvement in club matters of persons who are members of a particular category.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F30: Substituted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 103(3), S.I. No. 648 of 2010.
+
+### 10. Further provision in relation to discriminating clubs.
+
+**10.**—(1) Notwithstanding anything in the Registration of Clubs Acts, 1904 to 1999—
+
+(*a*) subject to *paragraph (b)*, while an order under *section 8* determining that a club is a discriminating club remains in effect, no certificate of registration under those Acts shall be granted to or renewed for the benefit of the club, or
+
+(*b*) where an order under *section 8* has been made determining that a club is a discriminating club and an application under *subsection (15)* of that section in respect of the club is pending, the certificate of registration of the club under those Acts may be renewed in accordance with those Acts but shall cease to be in force—
+
+(i) on the expiration of one year after the date of the renewal, if no determination under *section 8* has been made within that period in respect of the club, or
+
+(ii) on the date of a determination under *section 8* that the club has not ceased to be a discriminating club,
+
+whichever first occurs.
+
+(2) In this section “order under *section 8*” does not include an order under that section providing for the suspension of the certificate of registration of the club concerned under the Registration of Clubs Acts, 1904 to 1999
+
+### 11. Sexual and other harassment.
+
+**11.**—(1) A person shall not sexually harass or harass (within the meaning of *subsection (4)* or *(5)*) another person (“the victim”) where the victim—
+
+(*a*) avails or seeks to avail himself or herself of any service provided by the person or purchases or seeks to purchase any goods being disposed of by the person,
+
+(*b*) is the proposed or actual recipient from the person of any premises or of any accommodation or services or amenities related to accommodation, or
+
+(*c*) is a student at, has applied for admission to or avails or seeks to avail himself or herself of any service offered by, any educational establishment (within the meaning of *section 7*) at which the person is in a position of authority.
+
+(2) A person (“the responsible person”) who is responsible for the operation of any place that is an educational establishment or at which goods, services or accommodation facilities are offered to the public shall not permit another person who has a right to be present in or to avail himself or herself of any facilities, goods or services provided at that place, to suffer sexual harassment or harassment at that place.
+
+(3) It shall be a defence for the responsible person to prove that he or she took such steps as are reasonably practicable to prevent the sexual harassment or harassment, as the case may be, of the other person referred to in *subsection (2)* or of a category of persons of which that other person is a member.
+
+F31[(4) A person’s rejection of, or submission to, sexual or other harassment may not be used by any other person as a basis for a decision affecting that person.
+
+(5) (*a*) In this section—
+
+(i) references to harassment are to any form of unwanted conduct related to any of the discriminatory grounds, and
+
+(ii) references to sexual harassment are to any form of unwanted verbal, non-verbal or physical conduct of a sexual nature,
+
+being conduct which in either case has the purpose or effect of violating a person’s dignity and creating an intimidating, hostile, degrading, humiliating or offensive environment for the person.
+
+(*b*) Without prejudice to the generality of *paragraph (a)*, such unwanted conduct may consist of acts, requests, spoken words, gestures or the production, display or circulation of written words, pictures or other material.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F31: Substituted (18.07.2004) by *Equality Act 2004* (24/2004), s. 51, commenced on enactment.
+
+### 12. Prohibited advertising.
+
+**12.**—(1) A person shall not publish or display or cause to be published or displayed an advertisement which indicates an intention to engage in prohibited conduct or might reasonably be understood as indicating such an intention.
+
+(2) A person who makes a statement which the person knows to be false with a view to securing a publication or display in contravention of *subsection (1)* shall, upon the publication or display being made, be guilty of an offence.
+
+(3) In *subsection (1)*, “advertisement” includes every form of advertisement, whether to the public or not and whether in a newspaper or other publication, on television or radio or by display of a notice or by any other means, and references to the publishing or display of advertisements shall be construed accordingly.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E9: Power granted to Irish Human Rights and Equality Commission to serve equality and human rights compliance notice on any person who has contravened subs. (1) (1.11.2014) by *Irish Human Rights and Equality Commission Act 2014* (25/2014), s. 36(1)(b), S.I. No. 449 of 2014.
+
+### 13. Procurement of Prohibited conduct.
+
+**13.**—(1) A person shall not procure or attempt to procure another person to engage in prohibited conduct.
+
+(2) A person who contravenes *subsection (1)* shall be guilty of an offence.
+
+### 14. Certain measures or activities not prohibited.
+
+**14.**—(1) Nothing in this Act shall be construed as prohibiting—
+
+(*a*) the taking of any action that is required by or under—
+
+(i) any enactment or order of a court,
+
+(ii) any act done or measure adopted by the European Union, by the European Communities or institutions thereof or by bodies competent under the Treaties establishing the European Communities, or
+
+(iii) any convention or other instrument imposing an international obligation on the State,
+
+F32[(*aa*) on the basis of nationality—
+
+(i) any action taken by a public authority in relation to a non-national—
+
+(I) who, when the action was taken, was either outside the State or, for the purposes of the Immigration Act 2004, unlawfully present in it, or
+
+(II) in accordance with any provision or condition made by or under any enactment and arising from his or her entry to or residence in the State,
+
+or
+
+(ii) any action taken by the Minister in relation to a non-national F33[where the action arises from an action referred to in *subparagraph (i)*,]]
+
+or
+
+(*b*) preferential treatment or the taking of positive measures which are *bona fide* intended to—
+
+(i) promote equality of opportunity for persons who are, in relation to other persons, disadvantaged or who have been or are likely to be unable to avail themselves of the same opportunities as those other persons, or
+
+(ii) cater for the special needs of persons, or a category of persons, who, because of their circumstances, may require facilities, arrangements, services or assistance not required by persons F34[who do not have those special needs, or]
+
+F35[(*c*) the use of gender status or the collection, storage or use of gender-related information by insurance providers that is *bona fide* intended for any or all of the following purposes:
+
+(i) reserving and internal pricing;
+
+(ii) reinsurance pricing;
+
+(iii) marketing and advertising;
+
+(iv) life and health underwriting.]
+
+F32[(2) In *subsection (1)(aa)*—
+
+‘non-national’ has the meaning given to it by the Immigration Act 1999 and includes a category of nonnationals;
+
+‘public authority’ means—
+
+(*a*) a Minister of the Government,
+
+(*b*) an immigration officer appointed or deemed to have been appointed under section 3 of the Immigration Act 2004,
+
+(*c*) the Commissioners of Public Works in Ireland,
+
+(*d*) a local authority within the meaning of the Local Government Act 2001,
+
+(*e*) the Eastern Regional Health Authority,
+
+(*f*) an area health board within the meaning of the Health (Eastern Regional Health Authority) Act 1999,
+
+(*g*) a health board,
+
+(*h*) a harbour authority within the meaning of the Harbours Act 1946,
+
+(*i*) a board or other body (not being a company) established by or under statute,
+
+(*j*) a company in which all the shares are held by, or on behalf of, or by directors appointed by, a Minister of the Government, or
+
+(*k*) a company in which all the shares are held by a board or other body referred to in *paragraph (i)*, or by a company referred to in *paragraph (j)*.
+
+(3) Nothing in *subsection (1)(aa)* shall derogate from any of the obligations of the State under the treaties governing the European Communities within the meaning of the European Communities Acts 1972 to 2003 or any act adopted by an institution of those Communities.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F32: Inserted (18.07.2004) by *Equality Act 2004* (24/2004), s. 52(a), (b), commenced on enactment.
+>
+> F33: Substituted (20.12.2012) by *Equal Status (Amendment) Act 2000* (41/2012), s. 3(a), (b), commenced on enactment.
+>
+> F34: Substituted (20.12.2012) by *Equal Status (Amendment) Act 2000* (41/2012), s. 3(a), (b), commenced on enactment.
+>
+> F35: Inserted (20.12.2012) by *Equal Status (Amendment) Act 2012* (41/2012), s. 3(c), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E10: Subs. (1) is not numbered as such in the original.
+
+### 15. Certain activities not discrimination.
+
+**15.**—(1) For greater certainty, nothing in this Act prohibiting discrimination shall be construed as requiring a person to dispose of goods or premises, or to provide services or accommodation or services and amenities related to accommodation, to another person (“the customer”) in circumstances which would lead a reasonable individual having the responsibility, knowledge and experience of the person to the belief, on grounds other than discriminatory grounds, that the disposal of the goods or premises or the provision of the services or accommodation or the services and amenities related to accommodation, as the case may be, to the customer would produce a substantial risk of criminal or disorderly conduct or behaviour or damage to property at or in the vicinity of the place in which the goods or services are sought or the premises or accommodation are located.
+
+(2) Action taken in good faith by or on behalf of the holder of a licence or other authorisation which permits the sale of intoxicating liquor, for the sole purpose of ensuring compliance with the provisions of the Licensing Acts, 1833 to 1999, shall not constitute discrimination.
+
+F36[(3) (*a*) This subsection applies to the option given under subsection (2), (3) or (4) of section 34 of the Intoxicating Liquor Act 1988 to the holder of a licence of any licensed premises to allow a person under 18 to be in the bar of those premises at the times, or in the circumstances, specified in those subsections.
+
+(*b*) The non-exercise of the option to which this subsection applies shall not of itself constitute discrimination.
+
+(*c*) The reference in paragraph (*a*) to section 34 is to that section as substituted by section 14 of the Intoxicating Liquor Act 2003.
+
+(4) If—
+
+(*a*) the holder of a licence or other authorisation which permits the sale of intoxicating liquor adopts a policy of refusing to supply intoxicating liquor to any person below a specified age which exceeds 18 years,
+
+(*b*) a notice setting out the policy is displayed in a conspicuous place in or on the exterior of the premises, and
+
+(*c*) the policy is implemented in good faith,
+
+a refusal to serve intoxicating liquor to such a person shall not constitute discrimination on the age ground.
+
+(5) *Subsections (3)* and *(4)* are without prejudice to *subsections (1)* and *(2)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F36: Inserted (18.08.2003 and 29.09.2003) by *Intoxicating Liquor Act 2003* (31/2003), s. 25, S.I. No. 362 of 2003.
+
+### 16. Other non-discriminatory activities.
+
+**16.**—(1) Imposing or maintaining a reasonable preferential fee, charge or rate in respect of anything offered or provided to or in respect of persons together with their children, married couples, persons in a specific age group or persons with a disability does not constitute—
+
+(*a*) discrimination for the purposes of *section 5* or *6*, or
+
+(*b*) a discriminatory rule, policy or practice for the purposes of *section 8(2)(a)*.
+
+(2) Treating a person differently does not constitute discrimination where the person—
+
+(*a*) is so treated solely in the exercise of a clinical judgment in connection with the diagnosis of illness or his or her medical treatment, or
+
+(*b*) is incapable of entering into an enforceable contract or of giving an informed consent and for that reason the treatment is reasonable in the particular case.
+
+### 17. Regulations relating to vehicle equipment.
+
+**17.**— F37[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F37: Repealed (29.07.2005) by *Disability Act 2005* (14/2005), s. 57, S.I. No. 474 of 2005, art. 3(c).
+
+### 18. Regulations relating to station equipment.
+
+**18.**— F38[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F38: Repealed (29.07.2005) by *Disability Act 2005* (14/2005), s. 57, S.I. No. 474 of 2005, art. 3(c).
+
+### 19. Provision of kerb ramps, etc.
+
+**19.**— Where a road authority, within the meaning of section 2 of the Roads Act, 1993, constructs or alters, or consents to the construction or alteration of, any public footway or other public pavement, it shall, for the purpose of facilitating the mobility of persons with a disability, provide, or require the provision of, ramps, dished kerbs or other sloped areas at appropriate places at or in the vicinity of any pedestrian crossing or intersection used by pedestrians in that part of the footway or pavement so constructed or altered.
+
+## PART IIIEnforcement — PART III — Enforcement
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C7: Functions transferred and terms “Minister for” and “Department of Justice and Equality” construed (1.01.2013) by *Equality Tribunal (Transfer of Departmental Administration and Ministerial Functions) Order 2012* (S.I. No. 531 of 2012), arts. 2, 3, subject to transitional provisions in arts. 4-8.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Jobs, Enterprise and Innovation.
+>
+> (2) References to the Department of Justice and Equality contained in any Act or any instrument made under such Act and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Jobs, Enterprise and Innovation.
+>
+> 3\. (1) The functions vested in the Minister for Justice and Equality by or under—
+>
+> ...
+>
+> (b) Part III and section 41 (2) of the Equal Status Act 2000 (No. 8 of 2000),
+>
+> (c) subsections (1) and (4) of section 41 of the Equal Status Act 2000 in so far as they relate to the provisions referred to in paragraph (b), and
+>
+> (d) section 44 (1) of the Equal Status Act 2000, in so far as it relates to summary proceedings for an offence under sections 36(4) or 37(1) of that Act,
+>
+> are transferred to the Minister for Jobs, Enterprise and Innovation.
+>
+> (2) References to the Minister for Justice and Equality contained in any Act or instrument made under such Act and relating to any functions transferred by this Article shall, from the commencement of this Order, be construed as references to the Minister for Jobs, Enterprise and Innovation.
+>
+> **Editorial Notes:**
+>
+> E11: Power granted to Irish Human Rights and Equality Commission to provide legal and other assistance in relation to the making of a reference or application under Part (1.11.2014) by *Irish Human Rights and Equality Commission Act 2014* (25/2014), s. 40(1)(c)(ii), S.I. No. 449 of 2014.
+
+### 20. Definitions.
+
+**20.**— In this Part, unless the context otherwise requires—
+
+F39[‘complainant’ means—
+
+(*a*) a person referred to in *section 21(1)*, or
+
+(*b*) where such a person is unable, by reason of an intellectual or psychological disability, to pursue effectively a claim for redress under this Part, his or her parent, guardian or other person acting in place of a parent;]
+
+F40[...]
+
+F41[‘Minister’ means the Minister for Jobs, Enterprise and Innovation;]
+
+“respondent” means a person who is alleged by a complainant in a case under *section 21(1)* to have engaged in prohibited conduct.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F39: Substituted (18.07.2004) by *Equality Act 2004* (24/2004), s. 53, commenced on enactment.
+>
+> F40: Deleted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(d)(i), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> F41: Inserted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(d)(ii), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+### 21. Redress in respect of prohibited conduct.
+
+**21.**—(1) A person who claims that prohibited conduct has been directed against him or her may, subject to this section, seek redress by referring the case to the F42[Director of the Workplace Relations Commission].
+
+F43[(1A) If the grounds for such a claim as is referred to in *subsection (1)* arise—
+
+(*a*) on the gender ground, or
+
+(*b*) in any other circumstances (including circumstances amounting to victimisation) to which the Gender Goods and Services Directive is relevant,
+
+then, subject to *subsections (2)* to *(7)* and *(8)* to *(11)*, the person making the claim may seek redress by referring the case to the Circuit Court instead of referring the case to the F42[Director of the Workplace Relations Commission] under *subsection (1)* (and, if the case is referred to the Circuit Court, no further appeal lies, other than an appeal to the High Court on a point of law).]
+
+(2) Before seeking redress under this section the complainant—
+
+(*a*) shall, within 2 months after the prohibited conducted is alleged to have occurred, or, where more than one incident of prohibited conduct is alleged to have occurred, within 2 months after the last such occurrence, notify the respondent in writing of—
+
+(i) the nature of the allegation,
+
+(ii) the complainant’s intention, if not satisfied with the respondent’s response to the allegation, F44[to seek redress under this Act],
+
+and
+
+(*b*) may in that notification, with a view to assisting the complainant in deciding whether to refer the case to the F42[Director of the Workplace Relations Commission] F43[or, as the case may be, the Circuit Court], question the respondent in writing so as to obtain material information and the respondent may, if the respondent so wishes, reply to any such questions.
+
+F45[(2A) For the purposes of *subsection (2)* the date of notification is the date on which the notification is sent, unless it is shown that the notification was not received by the respondent.]
+
+F44[(3) (*a*) On application by a complainant the F42[Director of the Workplace Relations Commission] F43[or, as the case may be, the Circuit Court] may—
+
+(i) for reasonable cause, direct that in relation to the complainant *subsection (2)* shall have effect as if for the reference to 2 months there were substituted a reference to such period not exceeding 4 months as is specified in the direction, or
+
+(ii) exceptionally, where satisfied that it is fair and reasonable in the particular circumstance of the case to do so direct that *subsection (2)* shall not apply in relation to the complainant to the extent specified in the direction,
+
+and, where such a direction is given, this Part shall have effect accordingly.
+
+(*b*) In deciding whether to give a direction under *paragraph (a)(ii)* the F42[Director of the Workplace Relations Commission] F43[or, as the case may be, the Circuit Court] shall have regard to all the relevant circumstances, including—
+
+(i) the extent to which the respondent is, or is likely to be, aware of the circumstances in which the prohibited conduct occurred, and
+
+(ii) the extent of any risk of prejudice to the respondent’s ability to deal adequately with the complaint.]
+
+(4) The F42[Director of the Workplace Relations Commission] F46[or, as the case may be, the Circuit Court shall not investigate a case unless the F42[Director of the Workplace Relations Commission] or the Circuit Court, as the case may be,] is satisfied either that the respondent has replied to the notification or that at least one month has elapsed after it was sent to the respondent.
+
+(5) The Minister may by regulations prescribe the form to be used by a complainant and respondent for the purposes of *subsection (2)*.
+
+F44[(6) (*a*) Subject to *subsections (3)(a)(ii)* and *(7)*, a claim for redress in respect of prohibited conduct may not be referred under this section after the end of the period of 6 months from the date of the occurrence of the prohibited conduct to which the case relates or, as the case may be, the date of its most recent occurrence.
+
+(*b*) On application by a complainant the F42[Director of the Workplace Relations Commission] F43[or, as the case may be, the Circuit Court] may, for reasonable cause, direct that in relation to the complainant *paragraph (a)* shall have effect as if for the reference to a period of 6 months there were substituted a reference to such period not exceeding 12 months as is specified in the direction; and, where such a direction is given, this Part shall have effect accordingly.
+
+(7) Where a delay by a complainant in referring a case under this Act is due to any misrepresentation by the respondent, *subsection (6)(a)* shall apply as if the references to the date of occurrence of prohibited conduct were references to the date on which the misrepresentation came to the complainant’s notice.]
+
+F45[(7A) F47[(*a*) Not later than 42 days from the date of a decision of the F42[Director of the Workplace Relations Commission] on an application by a complainant for an extension of time under *subsection (3)* or *(6)*, the complainant or respondent may appeal against the decision to the Circuit Court on notice to the F42[Director of the Workplace Relations Commission] specifying the grounds of the appeal.]
+
+(*b*) On the appeal the Court may affirm, quash or vary the decision.
+
+(*c*) No further appeal lies, other than an appeal to the High Court on a point of law.
+
+(*d*) Unless otherwise agreed by the complainant and respondent, effect shall not be given to a decision of the F42[Director of the Workplace Relations Commission] on such an application until—
+
+(i) the period of 42 days mentioned in paragraph (*a*) has expired, or
+
+(ii) any appeal against it has been determined,
+
+whichever first occurs.]
+
+(8) Information is material information for the purposes of this section if it is—
+
+(*a*) information as to the respondent’s reasons for doing or omitting to do any relevant act and as to any practices or procedures material to any such act,
+
+(*b*) information, other than confidential information, about the treatment of other persons who stand in relation to the respondent in the same or a similar position as the complainant, or
+
+(*c*) other information which is not confidential information and which, in the circumstances of the case in question, it is reasonable for the complainant to require.
+
+(9) In *subsection (8)* “confidential information” means any information which relates to a particular individual, which can be identified as so relating and to the disclosure of which that individual does not agree.
+
+(10) This section is without prejudice to the other provisions of this Act relating to the obtaining of information.
+
+F45[(11) For the purposes of this section prohibited conduct occurs—
+
+(*a*) if the act constituting it extends over a period, at the end of the period,
+
+(*b*) if it arises by virtue of a provision which operates over a period, throughout the period.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F42: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(b), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> F43: Inserted (20.07.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 76(c)(i), (ii) and (iv), S.I. No. 274 of 2008.
+>
+> F44: Substituted (18.07.2004) by *Equality Act 2004* (24/2004), s. 54(a), (c) and (d), commenced on enactment.
+>
+> F45: Inserted (18.07.2004) by *Equality Act 2004* (24/2004), s. 54(b), (e) and (f), commenced on enactment.
+>
+> F46: Substituted (20.07.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 76(c)(iii), S.I. No. 274 of 2008.
+>
+> F47: Substituted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 27, commenced on enactment.
+
+### 21A. Date of claim for redress, etc.
+
+F48[**21A.**—(*a*) A claim for redress under *section 21*,
+
+(*b*) an appeal to the Circuit Court under *section 28*, or
+
+(*c*) an application to that Court under *section 31*,
+
+is deemed to have been made on the date on which the claim, notice of appeal or application is received, and those sections shall be construed accordingly.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F48: Inserted (18.07.2004) by *Equality Act 2004* (24/2004), s. 55, commenced on enactment.
+
+### 22. Dismissal of claims.
+
+F49[**22.**—(1) The F50[Director of the Workplace Relations Commission] may dismiss a claim at any stage if of opinion that it has been made in bad faith or is frivolous, vexatious or misconceived or relates to a trivial matter.
+
+(2) Not later than 42 days after the F50[Director of the Workplace Relations Commission] dismisses a claim under this section, the complainant may appeal against the decision to the Circuit Court on notice to the F50[Director of the Workplace Relations Commission] specifying the grounds of the appeal.
+
+(3) On appeal the Court may affirm or quash the decision.
+
+(4) No further appeal lies, other than an appeal to the High Court on a point of law.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F49: Substituted (18.07.2004) by *Equality Act 2004* (24/2004), s. 56, commenced on enactment.
+>
+> F50: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(b), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+### 23. References of certain matters to F51[Director of the Workplace Relations Commission].
+
+**23.**—(1) Where it appears to the Authority that—
+
+(*a*) prohibited conduct—
+
+(i) is being generally directed against persons, or
+
+(ii) has been directed against a person who has not made a claim under *section 21(1)* in respect of the prohibited conduct and it is not reasonable to expect that the person will do so,
+
+or
+
+(*b*) a person has contravened or is contravening *section 12(1)* or *19* or regulations made under *section 17* or *18*,
+
+the matter may be referred by the Authority to the F51[Director of the Workplace Relations Commission].
+
+(2) Where a matter is referred to the F51[Director of the Workplace Relations Commission] under *subsection (1)* it shall be dealt with in the same manner and to the same extent as if—
+
+(*a*) it were a claim referred to the F51[Director of the Workplace Relations Commission] under *section 21(1)*,
+
+(*b*) the Authority were the complainant and the person alleged to have engaged in the prohibited conduct or to have committed the contravention referred to in *subsection (1)(b)*, as the case may be, were the respondent, and
+
+(*c*) where the matter involved a contravention referred to in *subsection (1)(b)*, the contravention were prohibited conduct.
+
+(3) Where, on application to the High Court or the Circuit Court, the Authority satisfies the Court that the F51[Director of the Workplace Relations Commission], pursuant to *section 25(4)*, has decided that a person has—
+
+(*a*) engaged in prohibited conduct, or
+
+(*b*) contravened *section 12(1)* or *19* or regulations made under *section 17* or *18*,
+
+and that there is a likelihood of a further occurrence of the prohibited conduct or a further contravention by the person, the Court may grant an injunction or such other relief as the Court deems necessary to prevent the further occurrence or contravention.
+
+F52[(4) The relationship between a solicitor employed by the Authority or any barrister retained by him or her and a person referred to in *subsection (1)(a)* shall be the same as the relationship between a solicitor or barrister and a client who is not such a person.
+
+(5) *Subsection (4)* is without prejudice to the rights and responsibilities of the Authority and the obligations arising out of the relationship between the Authority and the solicitors employed by it.
+
+(6) For the avoidance of doubt, it is declared that sections 59 (prohibition of solicitor acting as agent for unqualified person) and 64 (bodies corporate) of the Solicitors Act 1954 do not apply in regard to the relationship between a solicitor employed by the Authority and a person referred to in the said *subsection (1)(a)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F51: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(b), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> F52: Inserted (18.07.2004) by *Equality Act 2004* (24/2004), s. 57, commenced on enactment.
+
+### 24. Mediation.
+
+**24.**—(1) Subject to *subsection (2)*, if at any time after a case has been referred to the F53[Director of the Workplace Relations Commission] under *section 21* it appears to the F53[Director of the Workplace Relations Commission] that the case is one which could be resolved by mediation, the F53[Director of the Workplace Relations Commission] shall refer the case for mediation to an F54[mediation officer].
+
+(2) If the complainant or the respondent objects to a case being dealt with by way of mediation, the F53[Director of the Workplace Relations Commission] shall not exercise his or her powers under this section but shall deal with the case under *section 25*.
+
+(3) Mediation shall be conducted in private.
+
+(4) Where a case referred under *section 21* is resolved by mediation—
+
+(*a*) the F54[mediation officer] concerned shall prepare a written record of the terms of the settlement,
+
+(*b*) the written record of the terms of the settlement shall be signed by the complainant and the respondent,
+
+(*c*) the F54[mediation officer] shall send a copy of the written record, as so signed, to the complainant and the respondent, and
+
+(*d*) a copy of the written record shall be retained by the F53[Director of the Workplace Relations Commission].
+
+(5) If, after a case has been referred to an F54[mediation officer], it appears to the F54[mediation officer] that the case cannot be resolved by mediation, the officer shall issue a notice to that effect to the complainant and the respondent.
+
+(6) Where—
+
+(*a*) a notice has been issued under *subsection (5)* with respect to a F55[case, and]
+
+(*b*) within F56[42 days] from the issue of that notice the complainant makes an application F57[in writing] to the F53[Director of the Workplace Relations Commission] for the resumption of the hearing of the F55[case,]
+
+(*c*) F58[...]
+
+the F53[Director of the Workplace Relations Commission] shall deal with the case in accordance with *section 25*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F53: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(b), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> F54: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(e)(ii), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> F55: Substituted (18.07.2004) by *Equality Act 2004* (24/2004), s. 58(a) and (b), commenced on enactment.
+>
+> F56: Substituted (20.12.2012) by *Equal Status (Amendment) Act 2012* (41/2012), s. 4, commenced on enactment.
+>
+> F57: Inserted (18.07.2004) by *Equality Act 2004* (24/2004), s. 58(b), commenced on enactment.
+>
+> F58: Deleted (18.07.2004) by *Equality Act 2004* (24/2004), s. 58(c), commenced on enactment.
+
+### 25. Investigation by F59[Director of the Workplace Relations Commission].
+
+**25.**—F60[(1) Where a case which has been referred to the F59[Director of the Workplace Relations Commission] under *section 21*—
+
+(*a*) does not fall to be dealt with by way of mediation under *section 24*, or
+
+(*b*) falls to be dealt with under this section by virtue of *section 24(6)*,
+
+the F59[Director of the Workplace Relations Commission] shall investigate the case and may, as part of that investigation and if the F59[Director of the Workplace Relations Commission] considers it appropriate, hear persons appearing to the F59[Director of the Workplace Relations Commission] to be interested.]
+
+F61[(1A) (*a*) Claims to have been discriminated against on more than one of the discriminatory grounds (other than the victimisation ground) shall be investigated as a single case, and
+
+(*b*) claims to have been discriminated against on discriminatory grounds which include the victimisation ground may, in an appropriate case, be so investigated,
+
+but a decision shall be made on each of the claims.]
+
+F62[(2) An investigation under this section shall be held in public unless the Director General of the Workplace Relations Commission, of his or her own motion or upon the application by or on behalf of any party, determines that, due to the existence of special circumstances, the investigation (or part thereof) should be held otherwise than in public.]
+
+F63[(2A) (*a*) Where the F59[Director of the Workplace Relations Commission] considers that the case may be dealt with on the basis of written submissions only, the F59[Director of the Workplace Relations Commission] shall notify the parties in writing of his or her proposal to do so.
+
+(*b*) A notification under *paragraph (a)* shall inform the parties of the right to make representations to the F59[Director of the Workplace Relations Commission] in accordance with paragraph (*c*).
+
+(*c*) A person who receives a notification under *paragraph (a)* may, within 28 days from the issue of the notification, make representations to the F59[Director of the Workplace Relations Commission] as to why the case should not be dealt with on the basis of written submissions only.
+
+(*d*) Where, in representations made pursuant to *paragraph (c)*, objection is made to the F59[Director of the Workplace Relations Commission] dealing with the matter on the basis of written submissions only, the F59[Director of the Workplace Relations Commission] shall not determine the matter in that manner.]
+
+F64[(2B) (*a*) The Director General of the Workplace Relations Commission may require a person giving evidence in an investigation under this section to give such evidence on oath or affirmation and, for that purpose, cause to be administered an oath or affirmation to such person.
+
+(*b*) A person who, in or for the purpose of an investigation under this section, gives a statement material in the investigation while lawfully sworn as a witness that is false and that he or she knows to be false shall be guilty of an offence and shall be liable—
+
+(i) on summary conviction, to a class B fine or to imprisonment for a term not exceeding 12 months, or both, or
+
+(ii) on conviction on indictment, to a fine not exceeding €100,000 or imprisonment for a term not exceeding 10 years, or both.]
+
+(3) The Minister may by regulations specify—
+
+(*a*) procedures to be followed by the F59[Director of the Workplace Relations Commission] in carrying out investigations (or any description of investigation) under this section, and
+
+(*b*) time limits applicable to such investigations, including procedures for extending those limits in certain circumstances,
+
+but before making any such regulations the Minister shall consult the F59[Director of the Workplace Relations Commission] and the Authority.
+
+(4) At the conclusion of an investigation under this section the F59[Director of the Workplace Relations Commission] shall make a decision on the case, and the decision, if it is in favour of the complainant, shall provide for redress in accordance with *section 27*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F59: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(b), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> F60: Substituted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 28(a), commenced on enactment.
+>
+> F61: Inserted (18.07.2004) by *Equality Act 2004* (24/2004), s. 59, commenced on enactment.
+>
+> F62: Substituted (29.07.2021) by *Workplace Relations (Miscellaneous Provisions) Act 2021* (29/2021), s 12(a), S.I. No. 397 of 2021.
+>
+> F63: Inserted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 28(b), commenced on enactment.
+>
+> F64: Inserted (29.07.2021) by *Workplace Relations (Miscellaneous Provisions) Act 2021* (29/2021), s 12(b), S.I. No. 397 of 2021.
+>
+> **Editorial Notes:**
+>
+> E12: The Minister is required to review the operation of subs. (2) (29.07.2021) by *Workplace Relations (Miscellaneous Provisions) Act 2021* (29/2021), s. 13, S.I. No. 397 of 2021.
+>
+> E13: A class B fine means a fine not exceeding €4,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(1), S.I. No. 662 of 2010.
+
+### 25A. Representation in proceedings under section 24 or 25.
+
+F65[**25A.**—A party (whether complainant or respondent) to proceedings under *section 24* or *25* may be represented by any individual or body authorised by the party in that behalf.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F65: Inserted (18.07.2004) by *Equality Act 2004* (24/2004), s. 60, commenced on enactment.
+
+### 26. Inferences from failure to supply information, etc.
+
+**26.**—If, in the course of an investigation under *section 25*, it appears to the F66[Director of the Workplace Relations Commission]—
+
+(*a*) that the respondent did not reply to a notification under *section 21(2)(a)* or to any question asked by the complainant under *section 21(2)(b)*,
+
+(*b*) that the information supplied by the respondent in response to the notification or any such question was false or misleading, or
+
+(*c*) that the information supplied in response to any such question was not such as would assist the complainant in deciding whether to refer the case to the F66[Director of the Workplace Relations Commission],
+
+the F66[Director of the Workplace Relations Commission] may draw such inferences, if any, as seem appropriate from the failure to reply or, as the case may be, the supply of information as mentioned in *paragraph (b)* or *(c)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F66: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(b), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+### 27. Redress which may be ordered.
+
+**27.**—(1) Subject to this section, the types of redress for which a decision of the F67[Director of the Workplace Relations Commission] under *section 25* may provide are either or both of the following as may be appropriate in the circumstances:
+
+(*a*) an order for compensation for the effects of F68[the prohibited conduct concerned]; or
+
+(*b*) an order that a person or persons specified in the order take a course of action which is so specified.
+
+(2) The maximum amount which may be ordered by the F67[Director of the Workplace Relations Commission] by way of compensation under *subsection (1)(a)* shall be the maximum amount that could be awarded by the District Court in civil cases in contract.
+
+F69[(3) The maximum amount specified in *subsection (2)* applies notwithstanding that conduct the subject of the investigation constituted—
+
+(*a*) discrimination on more than one of the discriminatory grounds (other than the victimisation ground), or
+
+(*b*) both discrimination on one or more than one of those grounds (other than the victimisation ground) and harassment or sexual harassment.
+
+(4) An order for compensation under this section may not be made in favour of the Authority in a case referred by it to the F67[Director of the Workplace Relations Commission] under *section 23(1)*.]
+
+F70[(5) The types of redress for which the Circuit Court may provide on a reference under *section 21(1A)* are either or both of the following as may be appropriate in the circumstances of the particular case:
+
+(*a*) an order for compensation for the effects of the prohibited conduct concerned (including compensation for loss and damage suffered by the person injured as a result of the prohibited conduct in a way which is dissuasive and proportionate to the loss and damage suffered);
+
+(*b*) an order that a person or persons specified in the order take a course of action which is so specified,
+
+and no enactment relating to the jurisdiction of the Circuit Court shall be taken to limit the amount of compensation which may be ordered by the Circuit Court by virtue of this subsection.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F67: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(b), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> F68: Substituted (18.07.2004) by *Equality Act 2004* (24/2004), s. 61(a), commenced on enactment.
+>
+> F69: Inserted (18.07.2004) by *Equality Act 2004* (24/2004), s. 61(b), commenced on enactment.
+>
+> F70: Inserted (20.07.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 76(d), S.I. No. 274 of 2008.
+
+### 28. Appeal against decision of F71[Director of the Workplace Relations Commission].
+
+**28.**—(1) Not later than 42 days from the date of a decision of the F71[Director of the Workplace Relations Commission] under *section 25*, the complainant or respondent involved in the claim may appeal against the decision to the Circuit Court by notice in writing specifying the grounds of the appeal.
+
+(2) In its determination of the appeal, the Circuit Court may provide for any redress for which provision could have been made by the decision appealed against (substituting the discretion of the Circuit Court for the discretion of the F71[Director of the Workplace Relations Commission]).
+
+(3) No further appeal lies, other than an appeal to the High Court on a point of law.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F71: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(b), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+### 29. Form and contents of decision.
+
+**29.**—(1) Every decision of the F72[Director of the Workplace Relations Commission] under this Part shall be in writing and—
+
+(*a*) if the F72[Director of the Workplace Relations Commission] thinks fit, or
+
+(*b*) if any of the parties so requests,
+
+shall include a statement of the reasons why the F72[Director of the Workplace Relations Commission] reached the decision.
+
+(2) By notice in writing to the complainant and the respondent the F72[Director of the Workplace Relations Commission] may correct any mistake (including an omission) of a verbal or formal nature in a decision under this Part.
+
+(3) If any person who participated in an investigation is not correctly identified in the resulting decision, the correction of that error shall be regarded as falling within *subsection (2)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F72: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(b), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+### 30. Supply and publication of decision.
+
+**30.**—(1) A copy of every decision of the F73[Director of the Workplace Relations Commission] under this Part shall be given to the complainant and the respondent and every such decision shall be published F74[on the internet in such form and manner as the Director General of the Workplace Relations Commission considers appropriate] and a copy thereof made available for inspection at the office of the F73[Director of the Workplace Relations Commission].
+
+(2) Any reference in this section to a decision includes a reference to any statement of reasons included in the decision as mentioned in *section 29(1)*.
+
+(3) The contents of any document published or made available by virtue of this section shall be protected by absolute privilege.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F73: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(b), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> F74: Inserted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(f), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+### 31. Enforcement of decisions and mediated settlements.
+
+F75[**31.** Section 43 of the Act of 2015 shall apply to a decision under *section 25* as it applies to a decision of an adjudication officer under section 41 of that Act, subject to—
+
+(a) the modification that the following paragraph is substituted for paragraph (b) of subsection (1):
+
+‘(b) on application to it in that behalf, with the consent of the complainant, by the Irish Human Rights and Equality Commission,’,
+
+and
+
+(b) the following modifications:
+
+(i) references to a complaint or dispute shall be construed as references to a case so referred;
+
+(ii) the reference to section 41 shall be construed as a reference to *section 25* of this Act;
+
+(iii) in subsection (1), the words ‘decision of the Director General of the Workplace Relations Commission under *section 25* of this Act’ shall be substituted for the words ‘decision of an adjudication officer under that section’;
+
+(iv) the deletion of subsection (2);
+
+(v) the words ‘decision of the Director General of the Workplace Relations Commission under *section 25* of this Act’ shall be substituted for the words ‘decision of an adjudication officer’ in each place that they occur; and
+
+(vi) references to employee and employer shall be construed as references to complainant and respondent respectively.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F75: Substituted (1.10.2015) by *National Minimum Wage (Low Pay Commission) Act 2015* (22/2015), s. 18, commenced by S.I. No. 410 of 2015 as per subs. (2).
+>
+> **Editorial Notes:**
+>
+> E14: Previous affecting provision: section substituted by *Workplace Relations Act 2015* (16/2015), s. 84(1)(g), not commenced; deleted (1.10.2015) by *National Minimum Wage (Low Pay Commission) Act 2015* (22/2015), s. 20(1)(o)(i), S.I. No. 411 of 2015.
+>
+> E15: Previous affecting provision: section amended (18.07.2004) by *Equality Act 2004* (24/2004), s. 62(a)-(e), commenced on enactment; substituted as per F-note above.
+
+### 32. Additional powers of Circuit Court on enforcement.
+
+**32.**—F76[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F76: Deleted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(h), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+### 33. Powers to enter premises, obtain information, etc.
+
+**33.**—(1) In this section—
+
+“designated officer” means the F77[Director of the Workplace Relations Commission], an F78[adjudication officer] or a person authorised in that behalf by the F77[Director of the Workplace Relations Commission];
+
+“material information” means information which a designated officer has reasonable grounds for believing to be relevant for the purpose set out in *subsection (2)*.
+
+(2) For the purpose of enabling information to be obtained which the F77[Director of the Workplace Relations Commission] may require to enable him or her to exercise his or her functions under this Part, a designated officer may do any one or more of the following:
+
+(*a*) at all reasonable times, peaceably enter premises;
+
+(*b*) require a person to produce to the designated officer any records, books, documents or other things which are in that person’s power or control and which the designated officer has reasonable grounds for believing to contain material information, and to give the designated officer such information and access as the designated officer may reasonably require in relation to the contents of any such records, books, documents and other things;
+
+(*c*) inspect and copy or take extracts from any such records, books, documents or other things;
+
+(*d*) inspect any work in progress at any premises.
+
+(3) The powers conferred by *subsection (2)* shall not be exercised in respect of a dwelling or any person, record, book, document or other thing in a dwelling unless the Minister (or an officer of the Minister authorised by the Minister in that behalf) certifies in writing that there are reasonable grounds for believing that there is in the dwelling information which is material to the investigation of a case, or the consideration of an appeal, under this Part.
+
+(4) If a judge of the District Court is satisfied by information on oath of a designated officer that there is reasonable cause for suspecting that any records, books, documents or other things containing material information are to be found at any premises, the judge may issue a search warrant under this section.
+
+(5) A search warrant issued under this section shall be expressed and operate to authorise a named designated officer, accompanied by such other persons as the named designated officer thinks necessary, at any time or times within one month from the date of issue of the warrant, on production if so requested of the warrant—
+
+(*a*) to enter the premises named in the warrant, if necessary by force,
+
+(*b*) to search those premises, and
+
+(*c*) to exercise any such power as is described in *subsection (2)(b)* or *(c)* in relation to persons and records, books, documents or other things found at the premises.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F77: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(b), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> F78: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(e)(i), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+### 34. Requirement to provide information.
+
+**34.**—(1) For the purpose of enabling the F79[Director of the Workplace Relations Commission] to exercise his or her functions under this Part, the F79[Director of the Workplace Relations Commission]—
+
+(*a*) may require a person who, in the opinion of the F79[Director of the Workplace Relations Commission] is in possession of, or has in his or her power or control, any information relevant to the exercise of those functions, to furnish that information to the F79[Director of the Workplace Relations Commission], and
+
+(*b*) where appropriate, may require such person to attend before the F79[Director of the Workplace Relations Commission] for that purpose,
+
+and the person shall comply with the requirement accordingly.
+
+(2) A requirement under *subsection (1)* may specify a time and place at which information is to be furnished or a person is to attend, and if no such time or place is specified in the requirement, the person to whom the requirement is addressed shall comply with it as soon as is reasonably practicable.
+
+(3) A person required to attend before the F79[Director of the Workplace Relations Commission] under *subsection (1)(b)*—
+
+(*a*) shall answer fully and truthfully any question put to him or her by the F79[Director of the Workplace Relations Commission] (other than a question the answer to which might incriminate the person), and
+
+(*b*) if so requested by the F79[Director of the Workplace Relations Commission], shall sign a declaration of the truth of his or her answers to any such question.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F79: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(b), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+### 35. Failure to supply documents, information, etc.
+
+**35.**—(1) If it appears to the F80[Director of the Workplace Relations Commission] or an F80[adjudication officer] that a person has failed to comply with—
+
+(*a*) a requirement under *section 33(2)(b)*, or
+
+(*b*) a requirement under *section 34(1)*,
+
+then, according as the case may require, the F80[Director of the Workplace Relations Commission] or the F80[adjudication officer] may apply to the Circuit Court for an order under this section.
+
+(2) Subject to *subsection (3)* if, on an application under this section, the Circuit Court is satisfied as to the failure of the person concerned to comply with the requirement in question, the Circuit Court may make an order requiring that person to comply with the requirement.
+
+(3) If, on an application under this section, the Circuit Court is of the opinion that the requirement in question purports to require the person concerned—
+
+(*a*) to produce any record, book, document or other thing, or
+
+(*b*) to furnish any information,
+
+for which that person is entitled to claim legal professional privilege, the Circuit Court shall set aside the requirement.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F80: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(b), (e)(i), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+### 36. Supplementary provisions as to information.
+
+**36.**—(1) Where, in the course or for the purposes of any investigation, mediation or hearing under this Part, or of any inquiry under Part V of the Employment Equality Act, 1998, any person discloses information to the Authority, the F81[Director of the Workplace Relations Commission] or any other person entitled to obtain it, the disclosure shall not give rise to any liability (in contract, tort or otherwise) on the part of the person making it.
+
+(2) No information furnished to or otherwise acquired by the Authority, the F81[Director of the Workplace Relations Commission] or any other person by virtue of *sections 33* to *35*, or otherwise in the course or for the purposes of any investigation, mediation, hearing or inquiry aforesaid, shall be published or otherwise disclosed except—
+
+(*a*) for the purposes of such an investigation, mediation, hearing or inquiry,
+
+(*b*) on the order of the High Court or the Circuit Court,
+
+(*c*) with the consent of the person furnishing the information and of any other person to whom the information may relate,
+
+(*d*) in a decision of the F81[Director of the Workplace Relations Commission] published or made available under *section 30* and to which the disclosure of the information is relevant, or
+
+(*e*) for the purposes of an application under *section 35*.
+
+(3) In this section “information” includes any record, book, document or other thing in which the information is contained.
+
+(4) A person who discloses information in contravention of *subsection (2)* shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F81: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(b), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+### 37. Obstruction of F82[Director of the Workplace Relations Commission], etc.
+
+**37.**—(1) A person who—
+
+(*a*) obstructs or impedes the F82[Director of the Workplace Relations Commission] or an F82[adjudication officer] in the exercise of powers under this Part, or
+
+(*b*) fails to comply with a requirement of the F82[Director of the Workplace Relations Commission] or an F82[adjudication officer] given under this Part,
+
+shall be guilty of an offence.
+
+(2) A reference in *subsection (1)* to an F82[adjudication officer] includes a reference to a person authorised as described in the definition of “designated officer” in *section 33(1)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F82: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(b), (e)(i), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+### 37A. Award of expenses.
+
+F83[**37A.**—(1) Without prejudice to *section 37*, the F84[Director of the Workplace Relations Commission] may, if of opinion that a person is obstructing or impeding an investigation, order that the person pay to another person a specified amount in respect of the travelling or other expenses incurred by that other person in connection with the investigation.
+
+(2) Notwithstanding *subsection (1)*, expenses shall not be payable in respect of the attendance at the investigation of any person representing a complainant or respondent.
+
+(3) The amount of any expenses ordered to be paid under this section may be recovered as a simple contract debt.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F83: Inserted (18.07.2004) by *Equality Act 2004* (24/2004), s. 63, commenced on enactment.
+>
+> F84: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(b), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+### 38. Dismissal of cases not pursued.
+
+**38.**—(1) Where a case is referred to the F85[Director of the Workplace Relations Commission] and, at any time after the expiry of one year from the date of the reference, it appears to the F85[Director of the Workplace Relations Commission] that the complainant has not pursued, or has ceased to pursue, the reference, the F85[Director of the Workplace Relations Commission] may dismiss the reference.
+
+(2) As soon as practicable after dismissing a reference, the F85[Director of the Workplace Relations Commission] shall give notice in writing of that fact to the complainant and the respondent.
+
+(3) Where a reference is dismissed under this section, no further proceedings may be taken in relation to that reference, but nothing in this section prevents a person from making a further reference in relation to the same matter (subject to any applicable time limit).
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F85: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(b), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+### 38A. Burden of proof.
+
+F86[**38A.**—(1) Where in any proceedings facts are established by or on behalf of a person from which it may be presumed that prohibited conduct has occurred in relation to him or her, it is for the respondent to prove the contrary.
+
+(2) This section is without prejudice to any other enactment or rule of law in relation to the burden of proof in any proceedings which may be more favourable to the person.
+
+(3) Where, in any proceedings arising from a reference of a matter by the Authority to the F87[Director of the Workplace Relations Commission] under *section 23(1)*, facts are established by or on behalf of the Authority from which it may be presumed that prohibited conduct or a contravention mentioned in that provision has occurred, it is for the respondent to prove the contrary.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F86: Inserted (18.07.2004) by *Equality Act 2004* (24/2004), s. 64, commenced on enactment.
+>
+> F87: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(b), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+
+## PART IVEquality Authority — PART IV — Equality Authority
+
+### 39. Additional functions of Authority.
+
+**39.**—F88[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F88: Repealed (1.11.2014) by *Irish Human Rights and Equality Commission Act 2014* (25/2014), s. 7 and sch. 1, S.I. No. 449 of 2014.
+>
+> **Editorial Notes:**
+>
+> E16: Approved code of practice declared (31.05.2012) by *Employment Equality Act 1998 (Code of Practice) (Harassment) Order 2012* (S.I. No. 208 of 2012).
+>
+> E17: Previous affecting provision: para. (b) substituted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 29, commenced on enactment; repealed as per F-note above.
+
+## PART VGeneral — PART V — General
+
+### 40. Expenses.
+
+**40.**—Any expenses incurred in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+### 41. Regulations.
+
+**41.**—(1) The F89[Minister for Jobs, Enterprise and Innovation] may make regulations for the purpose of giving effect to this Act including regulations prescribing forms and the information to be contained in any notice to be used for any purpose under this Act.
+
+(2) The F89[Minister for Jobs, Enterprise and Innovation] may by regulations specify, in cases where provision is not otherwise made in that behalf by regulations under this Act or the Employment Equality Act, 1998—
+
+(*a*) procedures to be followed by the F90[Director of the Workplace Relations Commission] or, as the case may be, the Labour Court, in carrying out functions under this Act or the Employment Equality Act, 1998, and
+
+(*b*) time limits applicable to the carrying out of such functions, including procedures for extending those limits in certain circumstances.
+
+but before making any such regulations the F89[Minister for Jobs, Enterprise and Innovation] F91[shall consult with the Authority and the F90[Director of the Workplace Relations Commission]].
+
+F92[(2A) F93[...]]
+
+(3) Every regulation made under this Act shall be laid before each House of the Oireachtas as soon as practicable after it is made and, if a resolution annulling the regulation is passed by either House within the next 21 days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done under it.
+
+(4) Any regulation made under this Act may contain such consequential, supplementary and ancillary provisions as the F89[Minister for Jobs, Enterprise and Innovation] considers necessary or expedient.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F89: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(i), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> F90: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(b), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> F91: Substituted (18.07.2004) by *Equality Act 2004* (24/2004), s. 64, commenced on enactment.
+>
+> F92: Inserted (20.07.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 76(e), S.I. No. 274 of 2008.
+>
+> F93: Deleted (20.12.2012) by *Equal Status (Amendment) Act 2012* (41/2012), s. 5, commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C8: Functions transferred and terms “Minister for” and “Department of Justice and Equality” construed (1.01.2013) by *Equality Tribunal (Transfer of Departmental Administration and Ministerial Functions) Order 2012* (S.I. No. 531 of 2012), arts. 2, 3, subject to transitional provisions in arts. 4-8.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Jobs, Enterprise and Innovation.
+>
+> (2) References to the Department of Justice and Equality contained in any Act or any instrument made under such Act and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Jobs, Enterprise and Innovation.
+>
+> 3\. (1) The functions vested in the Minister for Justice and Equality by or under—
+>
+> ...
+>
+> (b) Part III and section 41 (2) of the Equal Status Act 2000 (No. 8 of 2000),
+>
+> (c) subsections (1) and (4) of section 41 of the Equal Status Act 2000 in so far as they relate to the provisions referred to in paragraph (b), and
+>
+> (d) section 44 (1) of the Equal Status Act 2000, in so far as it relates to summary proceedings for an offence under sections 36(4) or 37(1) of that Act,
+>
+> are transferred to the Minister for Jobs, Enterprise and Innovation.
+>
+> (2) References to the Minister for Justice and Equality contained in any Act or instrument made under such Act and relating to any functions transferred by this Article shall, from the commencement of this Order, be construed as references to the Minister for Jobs, Enterprise and Innovation.
+
+### 42. Vicarious liability.
+
+**42.**—(1) Anything done by a person in the course of his or her employment shall, in any proceedings brought under this Act, be treated for the purposes of this Act as done also by that person’s employer, whether or not it was done with the employe’s knowledge or approval.
+
+(2) Anything done by a person as agent for another person, with the authority (whether express or implied and whether precedent or subsequent) of that other person shall, in any proceedings brought under this Act, be treated for the purposes of this Act as done also by that other person.
+
+(3) In proceedings brought under this Act against an employer in respect of an act alleged to have been done by an employee of the employer, it shall be a defence for the employer to prove that the employer took such steps as were reasonably practicable to prevent the employee—
+
+(*a*) from doing that act, or
+
+(*b*) from doing in the course of his or her employment acts of that description.
+
+### 43. Offences generally.
+
+**43.**—(1) A person guilty of an offence under any provision of this Act shall be liable—
+
+(*a*) on summary conviction, to a fine not exceeding £1,500 or imprisonment for a term not exceeding one year or both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding £25,000 or imprisonment for a term not exceeding 2 years or both.
+
+(2) If the contravention in respect of which a person is convicted of an offence under any provision of this Act is continued after the conviction, the person shall be guilty of a further offence on every day on which the contravention continues and for each such offence shall be liable on summary conviction to a fine not exceeding £250 or, on conviction on indictment, to a fine not exceeding £1,500.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E18: A fine of £1,500 converted (1.01.1999) to €1,904.60. This translates into a class C fine, not exceeding €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E19: A fine of £250 converted (1.01.1999) to €317.43. This translates into a class E fine, not exceeding €500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 44. Offence-related provisions.
+
+**44.**—F94[(1) Summary proceedings for an offence under this Act may be brought and prosecuted by the Workplace Relations Commission or the Irish Human Rights and Equality Commission.]
+
+F94[(2) Where an offence under this Act is committed by a body corporate and is proved to have been so committed with the consent or connivance of any person, being a director, manager, secretary or other officer of the body corporate, or a person who was purporting to act in any such capacity, that person shall, as well as the body corporate, be guilty of an offence and shall be liable to be proceeded against and punished as if he or she were guilty of the first-mentioned offence.]
+
+(3) F95[...]
+
+(4) Notwithstanding section 10(4) of the Petty Sessions (Ireland) Act, 1851, summary proceedings for an offence under any provision of this Act may be instituted within 12 months from the date of the offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F94: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(j)(i), (ii), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> F95: Deleted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 84(1)(j)(iii), S.I. No. 410 of 2015, subject to transitional provisions in subs. (2).
+>
+> **Modifications (not altering text):**
+>
+> C9: Functions transferred and terms “Minister for” and “Department of Justice and Equality” construed (1.01.2013) by *Equality Tribunal (Transfer of Departmental Administration and Ministerial Functions) Order 2012* (S.I. No. 531 of 2012), arts. 2, 3, subject to transitional provisions in arts. 4-8.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Jobs, Enterprise and Innovation.
+>
+> (2) References to the Department of Justice and Equality contained in any Act or any instrument made under such Act and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Jobs, Enterprise and Innovation.
+>
+> 3\. (1) The functions vested in the Minister for Justice and Equality by or under—
+>
+> ...
+>
+> (b) Part III and section 41 (2) of the Equal Status Act 2000 (No. 8 of 2000),
+>
+> (c) subsections (1) and (4) of section 41 of the Equal Status Act 2000 in so far as they relate to the provisions referred to in paragraph (b), and
+>
+> (d) section 44 (1) of the Equal Status Act 2000, in so far as it relates to summary proceedings for an offence under sections 36(4) or 37(1) of that Act,
+>
+> are transferred to the Minister for Jobs, Enterprise and Innovation.
+>
+> (2) References to the Minister for Justice and Equality contained in any Act or instrument made under such Act and relating to any functions transferred by this Article shall, from the commencement of this Order, be construed as references to the Minister for Jobs, Enterprise and Innovation.
+
+### 45. Court jurisdiction.
+
+**45.**— The jurisdiction conferred on the Circuit Court or District Court in proceedings under this Act shall be exercised by a judge of that Court for the time being assigned to the circuit or, as the case may be, the district in which the defendant ordinarily resides or carries on any profession, business or occupation.
+
+### 46. Application of Act.
+
+**46.**—(1) The provisions of this Act shall extend to and apply in respect of any ship or aircraft registered in the State that is operated by a person who has a principal place of business or ordinary place of residence in the State, whether or not the ship or aircraft is outside the State.
+
+(2) An act which—
+
+(*a*) is done on or in respect of such a ship or aircraft while subject to the jurisdiction of a country outside the State, and
+
+(*b*) is required to be done to comply with the law of that country,
+
+shall not constitute discrimination for the purposes of this Act.
+
+### 47. Amendment of Employment Equality Act, 1998.
+
+**47.**—The Employment Equality Act, 1998, is hereby amended by the insertion of the following section after section 105:
+
+| “Transitional provision. | 106.—(1) This section applies to a claim for redress under a repealed enactment— |
+|---|---|
+|  | (*a*) which is made on or after the commencement of Part VII (the ‘commencement date’), and |
+|  | (*b*) which relates— |
+|  | (i) only to conduct before the commencement date, or |
+|  | (ii) to conduct both before and after that date. |
+|  | (2) In this section— |
+|  | ‘commencement date’ means the 18th day of October, 1999; |
+|  | ‘conduct’ means conduct alleged to have occurred; |
+|  | ‘repealed enactment’ means the Anti-Discrimination (Pay) Act, 1974, or the Employment Equality Act, 1977. |
+|  | (3) A claim for redress to which this section applies shall— |
+|  | (*a*) as regards the substance of the claim— |
+|  | (i) if or in so far as the claim relates to conduct before the commencement date, be dealt with as if the enactment concerned had not been repealed, and |
+|  | (ii) in so far as it may relate to conduct after that date, be dealt with under this Act, |
+|  | and |
+|  | (*b*) in all other respects, be dealt with as if it were a claim under section 77. |
+|  | (4) For the purposes of subsection (3)— |
+|  | (*a*) the claim concerned shall be referred or brought to the Director, the Labour Court or the Circuit Court, as appropriate, and |
+|  | (*b*) Part VII shall apply in relation to it, with the modification that sections 76 and 82 shall not apply in relation to a case referred to in paragraph (*a*)(i) of that subsection and with any other necessary modifications. |
+|  | (5) A claim for redress under a repealed enactment which is pending on the commencement date shall, if the conduct to which it relates also occurs after that date, be treated as if it were a claim for redress to which this section applies, and accordingly subsections (3) and (4) shall apply in relation to it. |
+|  | (6) A decision or determination on a claim for redress referred to in this section may, and at the request of the claimant shall, where appropriate, specify separate findings in relation to conduct before and after the commencement date. |
+|  | (7) The Director or a person appointed under section 75(4)(*a*) to be an equality officer may exercise the powers of an equality officer under a repealed enactment. |
+|  | (8) This section shall be deemed to have come into operation on the commencement date.”. |
+
+### 48. Commencement.
+
+**48.**—This Act shall come into operation on such day as may be fixed by order made by the Minister, and different days may be so fixed for different provisions and for different purposes.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E20: Power pursuant to section exercised (25.10.2000) by *Equal Status Act, 2000 (Commencement) Order 2000* (S.I. No. 351 of 2000).
+>
+> 2\. The 25th day of October, 2000, is fixed as the day on which the Equal Status Act, 2000, shall come into operation.
+>
+> E21: Power pursuant to section exercised (14.06.2000) by *Equal Status Act, 2000 (Section 47) (Commencement) Order 2000* (S.I. No. 168 of 2000).
+>
+> 2\. The 14th day of June, 2000, is fixed as the day on which section 47 of the Equal Status Act, 2000, shall come into operation.
+
+## SCHEDULE
+
+Amendment Of Employment Equality Act, 1998
+
+The Employment Equality Act, 1998, is hereby amended—
+
+(*a*) in section 2(1) (interpretation), by the insertion—
+
+(i) after the definition of “disability”, of:
+
+“‘discrimination’, in Parts V and VI, includes prohibited conduct within the meaning of the *Equal Status Act, 2000*, and cognate words shall be construed accordingly;”, and
+
+(ii) after the definition of “trade union”, of:
+
+“‘Traveller community’ means the community of people commonly so called who are identified (both by themselves and others) as people with a shared history, culture and traditions including, historically, a nomadic way of life on the island of Ireland;”,
+
+(*b*) in section 6 (discrimination), by the substitution in subsection (2)(i) of “Traveller” for “traveller” on both occasions where it occurs,
+
+(*c*) in section 12 (vocational training)—
+
+(i) by the substitution, in the opening words of subsection (7), of “Without prejudice to section 3 of the Refugee Act, 1996, nothing in subsection (1)” for “Nothing in subsection (1)” and “an educational” for “a vocational”,
+
+(ii) by the substitution, in subsection (7)(*b*), of “considerations, or” for “considerations.”, and
+
+(iii) by the insertion of the following paragraph:
+
+“(*c*) in the case of a university or other third-level institution, it provides different treatment in the allocation of places on any such course to mature students (within the meaning of the Local Authorities (Higher Education Grants) Acts, 1968 to 1992).”,
+
+(*d*) in section 28 (comparators), by the substitution in subsection (1)(*h*) of “Traveller” for “traveller” on both occasions where it occurs,
+
+(*e*) in section 33 (positive action permitted), by the substitution in subsection (1)(*c*) of “Traveller” for “traveller”,
+
+(*f*) in section 44 (ordinary members of Authority), by the substitution in subsection (1)(*c*) of “Traveller” for “traveller”,
+
+(*g*) in section 56 (codes of practice)—
+
+(i) by the substitution of the following paragraphs for paragraphs (*a*) and (*b*) of subsection (1):
+
+“(*a*) the elimination of discrimination; and
+
+(*b*) the promotion of equality of opportunity in employment and in relation to the matters to which the *Equal Status Act, 2000*, applies.”, and
+
+(ii) by the insertion in subsection (4), after “Part VII”, of “or under *Part III* of the *Equal Status Act, 2000*”,
+
+(*h*) in section 59 (obtaining information etc. for purposes of inquiry), by the substitution of the following paragraph for paragraph (*b*) of subsection (3):
+
+“(*b*) the Authority believes that a person named in the terms of reference of the inquiry to which the notice relates—
+
+(i) has discriminated or is discriminating,
+
+(ii) has contravened or is contravening section 8(4) or 10(1),
+
+(iii) has failed or is failing to comply with an equality clause or an equal remuneration term, or
+
+(iv) has contravened *section 12(1)* (prohibited advertising) of the *Equal Status Act, 2000.*”,
+
+(*i*) in section 61 (recommendations arising out of and reports of inquiries), by the substitution of the following subsection for subsection (1):
+
+“(1) After it has conducted an inquiry under section 58, or in the course of such an inquiry, the Authority may make to any person, including the Minister, recommendations arising out of the inquiry for the purpose of promoting either or both of the general functions of the Authority specified in paragraphs (*a*) and (*b*) of section 39 or, as appropriate, in *paragraphs (a)* and *(b)* of *section 39* of the *Equal Status Act, 2000*.”,
+
+(*j*) in section 62 (non-discrimination notices), by the substitution of the following paragraph for paragraph (*b*) of subsection (1):
+
+“(*b*) has contravened or is contravening section 8(4) or 10(1) or *section 12(1)* of the *Equal Status Act, 2000*, or”,
+
+(*k*) in section 63 (appeal against non-discrimination notice)—
+
+(i) by the substitution of the following subsection for subsection (1):
+
+“(1) Subject to subsection (6), a person on whom a non-discrimination notice has been served may appeal to the Labour Court within 42 days of the date of service against the notice or any requirement of the notice.”,
+
+and
+
+(ii) by the addition of the following subsections:
+
+“(6) Where a non-discrimination notice relates to prohibited conduct within the meaning of the *Equal Status Act, 2000*, or to a contravention of *section 12(1)* of that Act, the person on whom the notice has been served may appeal to the District Court, and for that purpose references in this section to the Labour Court shall be construed as references to the District Court.
+
+(7) The jurisdiction of the District Court under this section shall be exercised by a judge of that Court for the time being assigned to the district court district in which the person on whom the non-discrimination notice has been served ordinarily resides or carries on any profession, business or occupation.”,
+
+(*l*) in section 67 (assistance by Authority in connection with certain references), by the substitution of the following subsection for subsection (1):
+
+“(1) A person who considers—
+
+(*a*) that discrimination has been directed against the person by another person,
+
+(*b*) that he or she has been adversely affected by the failure or refusal by another person—
+
+(i) to comply with an equality clause or an equal remuneration term,
+
+(ii) to implement a decision, order or determination under this Part or under *Part III* of the *Equal Status Act, 2000*, or
+
+(iii) to implement a mediated settlement under section 78 or under *section 24* of that Act,
+
+or
+
+(*c*) that a club referred to in *section 8* of that Act is a discriminating club within the meaning of that section,
+
+may make a request to the Authority for assistance in taking proceedings in respect of which redress is provided for under this Act or that Act or, as the case may be, in making an application to the District Court under *section 8(3)* of that Act.”,
+
+(*m*) in section 68 (definition (Part VI)), by the deletion of “under section 71(3)” and the substitution of “, or the District Court, under section 71”,
+
+(*n*) in section 69 (equality reviews and action plans) by—
+
+(i) the deletion in subsection (1)(*a*) of “in employment”,
+
+(ii) the substitution in subsection (1)(*b*) of “to that business or those businesses” for “to that employment” and “therein” for “in that employment”,
+
+(iii) the deletion in subsection (2) of “in employment” and the substitution of “therein” for “in that employment”,
+
+(iv) the insertion of the following subsection after subsection (2):
+
+“(2A) An equality review or an equality action plan which relates to matters governed both by this Act and by the *Equal Status Act, 2000*, shall deal separately with those matters, and the separate portions of the review or plan shall be treated, for the purposes of this Part, as an equality review or an equality action plan.”,
+
+(v) the deletion in subsection (6) of “in an employment”, and
+
+(vi) the substitution of the following subsection for subsection (7):
+
+“(7) For the purposes of this section:
+
+(*a*) ‘business’ includes—
+
+(i) an activity giving rise to employment, whether or not in the industrial or commercial field and whether or not with a view to profit, and
+
+(ii) subject to clause (II) of this subparagraph, the provision of services by the provider of a service (within the meaning of *section 4(6)* of the *Equal Status Act, 2000*), and accordingly this section shall apply in relation to the provision of such services with the modifications that—
+
+(I) the reference in subsection (1)(*a*) to a particular business shall be construed as including a reference to the provision of particular services, and
+
+(II) the references in subsections (4) and (5) to a business shall be construed as including references to a provider of a service (within the meaning of the said *section 4(6)*, other than *paragraph (f)* thereof),
+
+and any other necessary modifications;
+
+(*b*) a ‘group of businesses’ may be defined by reference to geographical location instead of (or as well as) by reference to control or any other factor.”,
+
+(*o*) in section 70(1)(*a*) (enforcement powers in respect of equality reviews and action plans) by the insertion of “is” before “required”, and
+
+(*p*) in section 71 (appeal against substantive notice) by—
+
+(i) the substitution of the following subsection for subsection (1):
+
+“(1) Subject to subsection (6), a person on whom a substantive notice has been served may appeal to the Labour Court within 42 days of the date of service against the notice or any requirement of the notice.”,
+
+and
+
+(ii) the insertion of the following subsections after subsection (5):
+
+“(6) Where a substantive notice concerns an equality review or equality action plan, or a proposed such review or plan, which relates to matters governed by the *Equal Status Act, 2000*, the person on whom the notice has been served may appeal to the District Court against the notice, and for that purpose references in this section to the Labour Court shall be construed as references to the District Court.
+
+(7) The jurisdiction of the District Court under this section shall be exercised by a judge of that Court for the time being assigned to the district court district in which the person on whom the substantive notice was served ordinarily resides or carries on any profession, business or occupation.”.
+
+[^1]: OJ L373, 21.12.2004, p. 37

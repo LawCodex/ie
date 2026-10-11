@@ -1,0 +1,4697 @@
+---
+title: "Nursing Homes Support Scheme Act 2009"
+identifier: "eli/2009/act/15"
+type: act
+jurisdiction: ie
+language: en
+number: 15
+year: 2009
+date: 2009-07-01
+last_amended: 2026-03-13
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2009/act/15/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2009/act/15/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Nursing Homes Support Scheme Act 2009
+
+AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF A SCHEME TO BE KNOWN AS THE NURSING HOMES SUPPORT SCHEME UNDER WHICH FINANCIAL SUPPORT MAY BE MADE AVAILABLE TO PERSONS IN RESPECT OF LONG-TERM RESIDENTIAL CARE SERVICES OUT OF RESOURCES ALLOCATED TO THE HEALTH SERVICE EXECUTIVE FOR THE PURPOSES OF THE SCHEME, TO PROVIDE FOR THE AMENDMENT OF THE HEALTH ACT 1970, TO PROVIDE FOR THE AMENDMENT OF THE HEALTH (NURSING HOMES) ACT 1990, TO PROVIDE FOR THE AMENDMENT OF THE COURTS AND COURT OFFICERS ACT 1995, TO PROVIDE FOR THE AMENDMENT OF THE NATIONAL TREATMENT PURCHASE FUND BOARD (ESTABLISHMENT) ORDER 2004 AND TO PROVIDE FOR RELATED MATTERS.
+
+[1*st July*, 2009]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>...<br>No. 15 of 2009<br>...</td><td>...<br>Nursing Homes Support Scheme Act 2009<br>...</td><td>...<br>Sections 5(4), 36 and 46<br>...</td></tr></table>
+
+## PART 1 Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title.
+
+**1**.— This Act may be cited as the Nursing Homes Support Scheme Act 2009.
+
+### 2. Commencement.
+
+**2**.— This Act shall come into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision, and different days may be so appointed for different purposes and different provisions.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to section exercised (27.10.2009) by *Nursing Homes Support Scheme Act 2009 (Commencement) (Remaining Provisions) Order 2009* (S.I. No. 423 of 2009).
+>
+> 3\. The 27th day of October 2009 is appointed as the day on which the provisions of the Act of 2009, in so far as not already in operation, come into operation.
+>
+> E2: Power pursuant to section exercised (5.10.2009) by *Nursing Homes Support Scheme Act 2009 (Commencement) (Care Representatives and Regulations) Order 2009* (S.I. No. 381 of 2009).
+>
+> 3\. The 5th day of October 2009 is appointed as the day on which the following provisions of the Act of 2009 come into operation:
+>
+> (a) section 3, in so far as not already in operation;
+>
+> (b) sections 21 and 22, and
+>
+> (c) section 36.
+>
+> E3: Power pursuant to section exercised (28.09.2009) by *Nursing Homes Support Scheme Act 2009 (Commencement) (Specified Forms) Order 2009* (S.I. No. 394 of 2009).
+>
+> 3\. The 28th day of September 2009 is appointed as the day on which section 44 of the Act of 2009 comes into operation.
+>
+> E4: Power pursuant to section exercised (3.07.2009) by *Nursing Homes Support Scheme Act 2009 (Commencement) (Certain Provisions) Order 2009* (S.I. No. 256 of 2009).
+>
+> 3\. The 3 day of July 2009 is appointed as the day on which the following provisions of the Act of 2009 come into operation:
+>
+> (a) the definitions of “approved nursing home” and “long-term residential care services” in section 3 in so far as those definitions relate to—
+>
+> (i) section 40 of the Act of 2009, and
+>
+> (ii) the National Treatment Purchase Fund Board (Establishment) Order 2004 (S.I. No. 179 of 2004) (as amended by section 41 of the Act of 2009), and
+>
+> (b) sections 40 and 41.
+
+### 3. Interpretation.
+
+**3**.— (1) In this Act, unless the context otherwise requires—
+
+F1["Act of 2021" means the Nursing Homes Support Scheme (Amendment) Act 2021;]
+
+F2["Act of 2022" means the Regulation of Providers of Building Works and Miscellaneous Provisions Act 2022;]
+
+“ancillary State support” has the meaning assigned to it by *section 15*;
+
+“application for State support” means an application for State support under *section 9 (1)*;
+
+“approved nursing home”—
+
+(*a*) means, before the date on which section 104 of the Health Act 2007 is commenced in so far as that section relates to the repeal of those sections of the Health (Nursing Homes) Act 1990 referred to in Part 1 of Schedule 1 to the Health Act 2007, a nursing home—
+
+(i) which is registered under the Health (Nursing Homes) Act 1990,
+
+(ii) in respect of which there is in force an agreement in writing, between the proprietor of the nursing home and a designated person, as to the maximum amount that will be charged for the provision in the nursing home of such care services as are specified in the agreement which fall within *paragraph (a)(ii)* of the definition of “long-term residential care services” (or classes of such care services) to those persons who are maintained in the nursing home and who have made an application for State support, and
+
+(iii) in respect of the registered proprietor of which a certificate under section 1095 (as substituted by section 127(*b*) of the Finance Act 2002) of the Taxes Consolidation Act 1997 is in force,
+
+(*b*) means, on and after the date referred to in *paragraph (a)*, a nursing home—
+
+(i) which is registered under the Health Act 2007 as a designated centre within the meaning of that Act or in respect of which a person is carrying on the business of the nursing home pursuant to section 69(2), (3) and (4) of that Act,
+
+(ii) in respect of which there is in force an agreement in writing, between the proprietor of the nursing home and a designated person, as to the maximum amount that will be charged for the provision in the nursing home of such care services as are specified in the agreement which fall within *paragraph (a)(ii)* of the definition of “long-term residential care services” (or classes of such care services) to those persons who are maintained in the nursing home and who have made an application for State support, and
+
+(iii) in respect of the registered provider of which a certificate under section 1095 (as substituted by section 127(*b*) of the Finance Act 2002) of the Taxes Consolidation Act 1997 is in force;
+
+“approved nursing home agreement”, in relation to care services provided by an approved nursing home, means the agreement referred to in *paragraph (a)(ii)* or *(b)(ii)* of the definition of “approved nursing home” which is in force in respect of that nursing home;
+
+“assessed weekly means” has the same meaning as it has in *Schedule 1*;
+
+“authorised person” has the same meaning as it has in *section 17*;
+
+“care needs assessment”, in relation to a person, means an assessment of the care needs of the person carried out under *section 7*;
+
+“care needs assessment report”, in relation to a person, means the report under *section 7 (4)* in respect of the care needs assessment of the person;
+
+“care representative” means a person appointed to be a care representative pursuant to *section 21*;
+
+“care services” means long-term residential care services;
+
+“charge” includes a mortgage;
+
+F1["chargeable land" has the meaning assigned to it by *section 14B*;]
+
+“child” includes a step-child;
+
+“cost”—
+
+(*a*) in relation to care services provided by the Executive, means the cost, determined by the Executive in accordance with *section 33(3)* and *(4)*, of such care services,
+
+(*b*) in relation to care services provided on behalf of the Executive, means the cost of such care services as referred to in *section 33 (5)*,
+
+(*c*) in relation to care services provided by an approved nursing home, means the amount charged by the proprietor of that nursing home as respects the provision of care services, being an amount not greater than the maximum amount specified in relation to the provision of care services specified in the approved nursing home agreement entered into by the proprietor of that nursing home;
+
+“couple” has the meaning assigned to it by *section 4*;
+
+“deferred relevant event” has the meaning assigned to it by *section 20*;
+
+“designated person” means the person designated under *section 40*;
+
+F2["eligible rental income" has the meaning assigned to it by *Schedule 1*;]
+
+“estimated market value” has the meaning assigned to it by *Schedule 1*;
+
+“Executive” means the Health Service Executive;
+
+F1["family successor" has the meaning assigned to it by *Schedule 1*;]
+
+F1["farm" has the meaning assigned to it by *Schedule 1*;]
+
+F1["farming" has the meaning assigned to it by *Schedule 1*;]
+
+“financial assessment” means an assessment carried out under *section 10*;
+
+“ financial assessment report” means the report prepared in accordance with *section 10*;
+
+“financial support” means—
+
+(*a*) State support,
+
+(*b*) ancillary State support, or
+
+(*c*) where applicable, both State support and ancillary State support;
+
+“information” includes—
+
+(*a*) documents,
+
+(*b*) without prejudice to the generality of *paragraph (a)*, instruments, certificates and statutory declarations, and
+
+(*c*) duplicates of any form;
+
+“long-term residential care services”—
+
+(*a*) subject to *paragraph (b)*, means—
+
+(i) maintenance, health or personal care services, or any combination thereof, provided by or on behalf of the Executive to a person—
+
+(I) whilst the person resides in and is maintained in a facility—
+
+(A) that is publicly designated in writing by the Executive as a facility predominantly for the care of older people, which designation shall, subject to *section 33(2)*, specify the health or personal care services to be provided at that facility, and
+
+(B) in which nursing care is provided on the basis that at no time should there be less than one registered nurse present in the facility who is available to provide nursing care for the persons maintained in the facility, and
+
+(II) subject to *subsection (2)*, for—
+
+(A) a period of not less than 30 consecutive days, or
+
+(B) periods in the aggregate amounting to not less than 30 days within a period of 12 consecutive months, or
+
+(ii) maintenance, health or personal care services, or any combination thereof, provided to a person whilst the person resides in and is maintained in an approved nursing home—
+
+(I) in which nursing care is provided on the basis that at no time should there be less than one registered nurse present in the approved nursing home who is available to provide nursing care for the persons maintained in the approved nursing home, and
+
+(II) subject to *subsection (2)*, for—
+
+(A) a period of not less than 30 consecutive days, or
+
+(B) periods in the aggregate amounting to not less than 30 days within a period of 12 consecutive months,
+
+(*b*) does not include—
+
+(i) medically acute care and treatment in an acute hospital,
+
+(ii) respite care,
+
+(iii) rehabilitative care for—
+
+(I) a period of less than 12 consecutive months, or
+
+(II) periods in the aggregate amounting to less than 12 months within a period of 24 consecutive months, or
+
+(iv) out-patient services made available pursuant to section 56 of the Health Act 1970;
+
+“Minister” means the Minister for Health and Children;
+
+“mortgage” includes a charge;
+
+“nursing home” has the meaning assigned to it by section 2 of the Health (Nursing Homes) Act 1990 and includes an institution referred to in section 2(1)(*h*) of that Act;
+
+F1["particular family asset", in relation to a family successor, means the asset or assets in relation to which the family successor was appointed under *section 14A*, *14F*, *14G*, *14H*, *14K* or *14L*;]
+
+“partner”, in relation to a person who is a member of a couple, means the person who is the other member of the couple;
+
+“principal residence” has the meaning assigned to it by *Schedule 1* ;
+
+“proprietor”—
+
+(*a*) in relation to a facility referred to in *paragraph (a)(i)* of the definition of “long-term residential care services”, means the person who has agreed in writing with the Executive to be the proprietor of the facility for the purposes of the performance of the functions imposed under this Act on the proprietor of such a facility,
+
+F3[(*b*) in relation to an approved nursing home, means the registered provider, within the meaning of section 2 of the Health Act 2007, of the nursing home or the person who is carrying on the business of the nursing home pursuant to section 69 of that Act;]
+
+“registered medical practitioner” means a registered medical practitioner within the meaning of the Medical Practitioners Act 2007;
+
+“registered nurse” means a person whose name is entered in the register of nurses maintained under section 27 of the Nurses Act 1985;
+
+“relative”, in relation to a person, means a parent, step-parent, child, grandchild, brother, step-brother, sister, step-sister, uncle, aunt, nephew or niece of the person;
+
+“relevant assets” has the meaning assigned to it by *Schedule 1*;
+
+F1["relevant business" has the meaning assigned to it by *Schedule 1*;]
+
+“relevant event” has the meaning assigned to it by *section 19*;
+
+“relevant facility” means a facility which falls within *paragraph (a)(i)(I)* of the definition of “long-term residential care services ”;
+
+“relevant subvention” has the meaning assigned to it by section 7 (inserted by section 3 of the Health (Nursing Homes) (Amendment) Act 2007) of the Health (Nursing Homes) Act 1990;
+
+F1["repayment event" has the meaning assigned to it by *section 14I*;]
+
+F1["revoked", in relation to a determination of the Executive under *section 14C(2) (a)*, means revoked under *section 14G(12)* or *14I(3)*;]
+
+F1["running the family asset", in relation to a specified asset or a particular family asset, means—
+
+(*a*) where the specified asset or the particular family asset is a farm, farming the farm, and
+
+(*b*) where the specified asset or the particular family asset is a relevant business, carrying on the relevant business;]
+
+“Scheme” means the Nursing Homes Support Scheme established under *section 5*;
+
+“social insurance contribution” means any contribution which falls within section 6(1)(*a*), (*b*), (*c*) or (*d*) of the Social Welfare Consolidation Act 2005;
+
+“specified”, in relation to a form, means a form specified under *section 44*;
+
+F1["specified asset" has the meaning assigned to it by *section 14A*;]
+
+“State support” means a payment made by the Executive in accordance with the Scheme following an application for such support to assist a person in meeting the cost of care services;
+
+“suitable”, in relation to a person (who may be an employee of the Executive) and a function to be performed under this Act, means that, in the opinion of the Executive, the person has the necessary qualifications, training or experience, or combination thereof, to perform that function;
+
+“transfer”, in relation to an asset or income, means the transfer by sale or gift of that asset or income and references to “ transferred” shall be construed accordingly;
+
+“transferred asset” has the meaning assigned to it by *Schedule 1*;
+
+“transferred income” has the meaning assigned to it by *Schedule 1*.
+
+(2) Where the Executive is satisfied that a person who is or is to be provided with care services is unlikely to ever cease to require care services during the person’s lifetime, then *paragraph (a)(i)(II)* or *(a)(ii)(II)*, as the case may be, of the definition of “long-term residential care services” shall not apply in the case of that person.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 2, commenced as per s. 33(2).
+>
+> F2: Inserted (1.11.2022) by *Regulation of Providers of Building Works and Miscellaneous Provisions Act 2022* (15/2022), s. 80, S.I. No. 537 of 2022.
+>
+> F3: Substituted (9.07.2010) by *Health (Miscellaneous Provisions) Act 2010* (18/2010), s. 17(a), commenced on enactment.
+
+### 4. Couples.
+
+**4**.— (1) In this Act, “couple” means—
+
+(*a*) two persons married to each other,
+
+(*b*) a man and woman who are not married to each other but are cohabiting as husband and wife, or
+
+(*c*) two persons of the same sex who are cohabiting in domestic circumstances comparable to that of a man and woman who are not married to each other but are cohabiting as husband and wife,
+
+who are habitually living together at the date of the making of an application for State support by either or both of them or at the date of the commencement of the provision of care services to either or both of them.
+
+(2) For the purposes of this section—
+
+(*a*) a couple referred to in *paragraph (b)* of *subsection (1)* shall not be considered as habitually living together unless they have been cohabiting in the manner referred to in that paragraph,
+
+(*b*) a couple referred to in *paragraph (c)* of *subsection (1)* shall not be considered as habitually living together unless they have been cohabiting in the manner referred to in that paragraph,
+
+for a period of not less than 3 years immediately preceding the date of the making of an application for State support by either or both of them or at the date of the commencement of the provision of care services to either or both of them.
+
+(3) Notwithstanding *subsection (2)*, a person shall be considered as habitually living together with the other member of the couple where—
+
+(*a*) either of them resides in or enters a relevant facility or approved nursing home for the purposes of being provided with care services,
+
+(*b*) both of them reside in or enter a relevant facility or approved nursing home for the purposes of being provided with care services,
+
+(*c*) either of them resides in or enters an institution (of whatever kind) for purposes related to—
+
+(i) a physical or mental condition of the person concerned, or
+
+(ii) the imprisonment, or the taking into lawful custody, of the person concerned, or
+
+(*d*) both of them reside in or enter an institution (of whatever kind) for purposes related to—
+
+(i) a physical or mental condition of the person concerned, or
+
+(ii) the imprisonment, or the taking into lawful custody, of the person concerned.
+
+## PART 2 Establishment of Scheme and Application for State Support — PART 2 — Establishment of Scheme and Application for State Support
+
+### 5. Establishment of Scheme.
+
+**5**.— (1) On the coming into operation of this section there is established a scheme to be known as the Nursing Homes Support Scheme to be operated under and in accordance with this Act.
+
+(2) The Scheme is established for the purpose of giving financial support under this Act in respect of care services in accordance with this Act out of the resources allocated to the Scheme in each year in accordance with *subsection (4)* and shall consist of the provision of financial support in respect of care services for the purposes of and in accordance with the provisions of this Act and any guidelines issued under *section 35*.
+
+(3) It shall be a function of the Executive to operate and administer the Scheme.
+
+(4) In the financial year 2009 and in each subsequent financial year the Executive shall, out of such monies as are available to it for that financial year from monies provided by the Oireachtas, allocate such amount as the Minister determines, with the consent of the Minister for Finance, for the provision of financial support under this Scheme in that financial year.
+
+(5) The Scheme established by this Act shall be operated subject to the principles that—
+
+(*a*) applicants who are determined by the Executive to need care services in accordance with *section 7(8)* shall be informed of the names and addresses of all relevant facilities and approved nursing homes, and
+
+(*b*) subject to *section 12(2)* and subject to the availability of a long-term residential care bed, the applicant may select the relevant facility or approved nursing home in which to receive care services.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F4: Amended by *Health (Amendment) Act 2013* (31/2013), s. 4, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C2: Prospective affecting provision: subs. (3) amended by *Health (Amendment) Act 2013* (31/2013), s. 4, not commenced as of date of revision.
+>
+> (3) (*a*) It shall be a function of the Executive to operate and administer the Scheme.
+>
+> (*b*) The Executive may enter into an arrangement with a person under which that person may perform any part of the Executive’s function arising under paragraph (*a*) on behalf of the Executive.
+
+### 6. Persons who may apply for State support under Scheme.
+
+**6**.— (1) This section applies to a person ordinarily resident in the State—
+
+(*a*) in respect of whom an application for a care needs assessment has been made,
+
+(*b*) in respect of whom the Executive has determined under *section 7(8)(a)* that the person needs care services,
+
+(*c*) who, on the coming into operation of this paragraph, is being provided with care services by the Executive or on behalf of the Executive, or
+
+(*d*) who, on the coming into operation of this paragraph, is being provided with care services by an approved nursing home.
+
+(2) A person may not make an application for, or receive, State support unless the person is a person to whom this section applies.
+
+### 7. Care needs assessment.
+
+**7****.—** (1) (*a*) A person ordinarily resident in the State, other than a person referred to in *paragraph (c)* or *(d)* of *subsection (1)* of *section 6*, who wishes to make an application for State support shall apply for a care needs assessment.
+
+(*b*) A person ordinarily resident in the State, who is a person referred to in *paragraph (c)* or *(d)* of *subsection (1)* of *section 6*, who wishes to make an application for State support may apply for a care needs assessment.
+
+(2) Where it appears to a specified person that—
+
+(*a*) a person ordinarily resident in the State may need care services, and
+
+(*b*) that person, by reason of ill-health, a physical disability or a mental condition, is unable to make an application for a care needs assessment,
+
+the specified person may apply to the Executive for a care needs assessment on behalf of that person.
+
+(3) An application for a care needs assessment shall be made to the Executive in the specified form.
+
+(4) Upon receipt of an application for a care needs assessment, the Executive shall, as soon as reasonably possible, make arrangements for a care needs assessment to be carried out and a report on that assessment to be provided to the Executive.
+
+(5) The assessment referred to in *subsection (4)* shall be carried out by persons (who may be employees of the Executive) who, in the opinion of the Executive, are suitably qualified to make that assessment and prepare a report in relation to the assessment.
+
+(6) A care needs assessment of a person shall comprise an evaluation of—
+
+(*a*) the person’s ability to carry out the activities of daily living, including—
+
+(i) the cognitive ability,
+
+(ii) the extent of orientation,
+
+(iii) the degree of mobility,
+
+(iv) the ability to dress unaided,
+
+(v) the ability to feed unaided,
+
+(vi) the ability to communicate,
+
+(vii) the ability to bathe unaided, and
+
+(viii) the degree of continence,
+
+of the person,
+
+(*b*) the family and community support that is available to the person,
+
+(*c*) the medical, health and personal social services being provided to or available to the person both at the time of the carrying out of the assessment and generally,
+
+(*d*) any other matter that affects the person’s ability to care for himself or herself, and
+
+(*e*) the likelihood of a material alteration in the circumstances referred to in *paragraphs (a)* to *(d)* during the lifetime of the person.
+
+(7) A care needs assessment may include an examination of the person concerned by, as appropriate, a registered medical practitioner, a registered nurse, an occupational therapist or a chartered physiotherapist, or any combination thereof.
+
+(8) Where the Executive receives a care needs assessment report in respect of a person, it shall, after considering the report as soon as practicable after its receipt, make a determination—
+
+(*a*) that the person needs care services, or
+
+(*b*) that the person does not need care services,
+
+as it thinks appropriate in the circumstances of the case, and where the Executive determines that the person needs care services, the Executive may also make a determination that it is unlikely that the person will ever cease to require care services during the person’s lifetime.
+
+(9) The Executive shall, not later than 10 working days after making a determination under *subsection (8)*, give notice in writing of the decision—
+
+(*a*) to the person, and
+
+(*b*) in the case of an application made under *subsection (2),* to the specified person.
+
+(10) The notification shall be accompanied by—
+
+(*a*) a copy of the care needs assessment report in respect of the determination, and
+
+(*b*) the reasons for the determination.
+
+(11) Where a care needs assessment is carried out, this shall not be construed as meaning that the Executive will provide or will arrange for the provision of any service identified in the assessment as being appropriate to meet the needs of the person or that the Executive has an obligation to provide or arrange for the provision of any such service.
+
+(12) Subject to *subsection (11)*, the content of a care needs assessment report may be used by the Executive for the purposes of considering what other health services or personal social services may be appropriate for the person.
+
+(13) The content of a care needs assessment report may be provided to a relevant facility or approved nursing home with the prior consent of the person who is the subject of the report.
+
+(14) In this section “specified person” has the same meaning as it has in *section 47*.
+
+(15) In respect of any application for a care needs assessment by a specified person, the Executive may refuse to deal with the specified person if the Executive is not satisfied that such specified person is acting in the best interests of the person.
+
+### 8. Review of care needs assessment.
+
+**8**.— Where the determination of the Executive under *section 7(8)* is that a person does not need care services, that person or a specified person may—
+
+(*a*) subject to *paragraph (b)*, not earlier than 6 months after the date on which that determination was made, make a further application under that section for a care needs assessment,
+
+(*b*) before the expiration of 6 months after the date on which that determination was made, make a further application under that section for a care needs assessment if—
+
+(i) the person satisfies the Executive that, since the person’s last care needs assessment, there has been a material change in the person’s health or circumstances which warrants the application being made, or
+
+(ii) the application is accompanied by a certificate in the specified form—
+
+(I) issued by a registered medical practitioner who has—
+
+(A) seen the person’s most recent care needs assessment report, and
+
+(B) examined the person since the person’s most recent care needs assessment,
+
+(II) stating—
+
+(A) the date of the examination, and
+
+(B) that, in the opinion of the practitioner, there has been a material change in the person’s health or circumstances which warrants the application being made, and
+
+(III) signed by the practitioner.
+
+### 9. Application for State support.
+
+**9**.— (1) A person to whom *section 6* applies may make an application to the Executive in the specified form for State support under the Scheme.
+
+(2) It shall be a condition of every application for State support that the applicant, and in the case where the applicant is a member of a couple, the applicant and his or her partner, shall furnish all information which the Executive may request in connection with the consideration of the application.
+
+(3) The Executive may refuse to consider or further consider an application for State support if—
+
+(*a*) the application does not comply with *subsection (1)*, or
+
+(*b*) the applicant or his or her partner fails to provide the Executive with such information as may be requested by the application form or such additional information as the Executive may reasonably require to enable it to determine the application.
+
+(4) Where the Executive refuses under *subsection (3)* to consider or further consider an application for State support, it shall, not later than 10 working days after the refusal, give the applicant notice in writing of the decision and the reasons for the decision.
+
+(5) Any person who knowingly, or recklessly, gives the Executive information which is false or misleading in a material particular in, with, or in connection with, an application for State support is guilty of an offence and is liable on summary conviction to a fine not exceeding €5,000 or imprisonment for a term not exceeding 3 months or both.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E5: A fine of €5,000 translates into a class A fine, not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 10. Financial assessment of means.
+
+**10**.— (1) Where the Executive receives an application for State support, the Executive shall make arrangements for a financial assessment of the person to be made by a suitable person who shall prepare and furnish a report on such assessment to the Executive.
+
+F5[(2) The financial assessment shall be carried out—
+
+(*a*) in the case of a person who is not a member of a couple, in accordance with the provisions of *Part 1* or *Part 1A*, as appropriate, and *Part 3* of *Schedule 1*, and
+
+(*b*) in the case of a person who is a member of a couple, in accordance with the provisions of *Part 2* or *Part 2A*, as appropriate, and *Part 3* of *Schedule 1*.]
+
+(3) (*a*) The arrangements referred to in *subsection (1)* may include requests for information from, and interviews with, the person concerned, the person’s partner or any representative (whether appointed under *section 21* or otherwise) of the person.
+
+(*b*) The Executive and the suitable person concerned may request, receive and consider records and information relating to the person to whom the application relates and his or her partner whether received pursuant to *section 45* or otherwise.
+
+(4) Where the Executive wishes to establish the estimated market value of any item, it may ascertain such value in such manner and by such means as it thinks appropriate and may authorise a suitable person to, if appropriate, inspect the item and report to it the value of the item for the purposes of this Act.
+
+(5) Where the Executive authorises a valuation under *subsection (4),* the costs of the valuation shall be defrayed by the Executive.
+
+(6) The Executive is not bound by any valuation accompanying an application for State support.
+
+(7) Where information requested under *subsection (3)* is not furnished by or on behalf of the person or the person concerned within 40 working days from the date of the request, or such longer period as the Executive permits in any particular case, the suitable person concerned may report such fact to the Executive which may refuse to consider or further consider the application.
+
+(8) Where the Executive refuses under *subsection (7)* to consider or further consider an application, it shall, not later than 10 working days after the refusal, give the person notice in writing of the decision and the reasons for the decision.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F5: Substituted (24.07.2013) by *Health (Amendment) Act 2013* (31/2013), s. 5, commenced on enactment.
+
+### 11. Determination of application for State support.
+
+**11**.— (1) Subject to sections 7, 31 and 38 of the Health Act 2004 and *section 5*, the Executive shall, having considered the financial assessment report, determine an application for State support in accordance with the method of calculation of State support set out in *section 14*.
+
+(2) Where the Executive makes a determination that State support be paid in respect of a person, the determination may include a direction that, subject to *sections 12* to *14*, such support be payable on and from—
+
+(*a*) a date specified by the Executive, or
+
+(*b*) from the date of the occurrence of an event specified by the Executive.
+
+(3) Where the Executive makes a determination under *subsection (1)*, it shall, not later than 10 working days after the determination, give notice in writing to the person of the decision and the reasons for the decision.
+
+(4) (*a*) Subject to *paragraph (b)* the Executive shall not make a determination that State support be paid in respect of a person referred to in *section 6(1)(a)*, unless the Executive has determined under *section 7(8)(a)* that the person needs care services.
+
+(*b*) *Paragraph (a)* does not apply to a person referred to in *section 6(1)(c)* or *(d)*.
+
+(5) Where the Executive has—
+
+(*a*) made a determination under *section 7 (8)(a)* that a person needs care services (other than such a determination made in respect of a person to whom *paragraph (c)* or *(d)* of *subsection (1)* of *section 6* applies), and
+
+(*b*) made a determination that State support be paid in respect of such person,
+
+the determination referred to in *paragraph (b)* shall not have effect prior to the determination referred to in *paragraph (a)*.
+
+### 12. Provision of State support and ancillary State support.
+
+**12**.— (1) State support shall be provided to a person—
+
+(*a*) in the case of care services falling within *paragraph (a)(i)* of the definition of “long-term residential care services”, by the transfer by the Executive of the appropriate amount of State support to the relevant facility,
+
+(*b*) in the case of care services falling within *paragraph (a)(ii)* of the definition of “long-term residential care services”, by the payment by the Executive of the appropriate amount of State support to the proprietor of the approved nursing home in which the person resides and is being maintained.
+
+(2) A person applying for State support or making a request for payment of ancillary State support shall not be entitled to receive such support and the Executive shall not be obliged to pay or continue to pay such support unless the care services in relation to which the person is seeking payment have been identified by the care needs assessment as being appropriate to the person receiving care services.
+
+(3) *Subsection (2)* does not apply to a person referred to in *section 6(1)(c)* or *(d)*.
+
+### 13. Provision of State support (transitional care services).
+
+**13**.— (1) This section applies where a person was being provided with transitional care services or care services by an approved nursing home immediately prior to the coming into operation of *section 6(1)(d)*, and the person concerned has made an application for State support which application has been determined.
+
+(2) Subject to *subsections (3)* to *(5)*, nothing in this section shall of itself operate to require the Executive to provide State support to a person in respect of any period for which the person was provided with transitional care services or care services before the determination of the application for State support in respect of that person.
+
+(3) Subject to *subsections* F6[*(3A)*,] *(4)* and *(5)*, the Executive shall provide State support to the person in a case to which *subsection (1)* refers with effect from the date of the commencement of *section 6(1)(d)*.
+
+F7[(3A) *Subsection (3)* shall cease to have effect as respects a person who makes an application for State support after the coming into operation of section 6 of the Health (Amendment) Act 2013.]
+
+(4) The amount of State support payable by reason of *subsection (3)* shall be reduced by the amount of any relevant subvention paid.
+
+(5) *Subsection (3)* shall not operate to prejudice any obligation of a person to pay the proprietor of an approved nursing home such portion of the total weekly cost of transitional care services or care services otherwise due by that person as is not discharged by the payment of State support pursuant to this section.
+
+(6) In this section, “transitional care services” means care services referred to in *paragraph (a)(ii)* of the definition of “long-term residential care services” provided by a nursing home, before the commencement referred to in *paragraph (d)* of *section 6(1)*, as if *paragraphs (a)(ii)* and *(b)(ii)* of the definition of “approved nursing home” were deleted.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F6: Inserted (24.07.2013) by *Health (Amendment) Act 2013* (31/2013), s. 6(a), commenced on enactment.
+>
+> F7: Inserted (24.07.2013) by *Health (Amendment) Act 2013* (31/2013), s. 6(b), commenced on enactment.
+
+### 14. Calculation of amount of State support.
+
+**14**.— (1) The amount of State support payable in respect of a person under the Scheme shall be expressed as a weekly amount and shall be determined on the basis of the assessed weekly means determined in accordance with *sections 10* and *11* and by applying the equation:
+
+S = T - M
+
+where—
+
+S is the weekly amount of State support,
+
+T is the total weekly cost of the care services provided to the person concerned, and
+
+M is the assessed weekly means of the person.
+
+(2) Where, in the application of the equation specified in *subsection (1)*, M is an amount equal to or greater than T, then S shall be taken to be a nil amount.
+
+### 14A. Application for appointment of family successor: farm or relevant business
+
+F8[**14A**.— (1) This section applies where—
+
+(*a*) the Executive has made a determination under *section 7(8)(a)* that a person (in this section referred to as the "relevant person") needs care services,
+
+(*b*) the Executive has made a determination under *section 11(1)* in relation to the relevant person,
+
+(*c*) the relevant person is receiving care services, and
+
+(*d*) the relevant person or his or her partner falls into one or more of the following categories—
+
+(i) he or she has an interest in a farm,
+
+(ii) he or she has an interest in a relevant business,
+
+(iii) he or she had an interest in a farm which is a transferred asset, or
+
+(iv) he or she had an interest in a relevant business which is a transferred asset.
+
+(2) On the application of the relevant person, the Executive shall—
+
+(*a*) if satisfied that the conditions in *subsection (3)* are met, appoint the person specified in the application as the family successor in respect of the relevant person in relation to the interest that the relevant person has or had or, in the case of a relevant person who is a member of a couple, the interest that each member of the couple has or had in the specified asset, or
+
+(*b*) if not so satisfied, refuse the application.
+
+(3) The conditions referred to in *subsection (2)(a)* are—
+
+(*a*) that the person specified in the application has attained the age of 18 years and is—
+
+(i) the partner of the relevant person,
+
+(ii) a relative of the relevant person or of the relevant person’s partner, or
+
+(iii) F9[a son-in-law, daughter-in-law, great-grandchild, great-nephew, great-niece or first cousin, or a child, grandchild or great-grandchild of a first cousin,] of the relevant person or of the relevant person’s partner,
+
+(*b*) that the relevant person declares by way of statutory declaration that, in relation to the specified asset, for a period of 3 years (which period need not be continuous) during the period of 5 years ending with the day on which the relevant person began to receive care services, a substantial part of the working time of—
+
+(i) the relevant person,
+
+(ii) the person specified in the application,
+
+(iii) a person appointed as a family successor in respect of the relevant person,
+
+(iv) a person who meets the condition under *subsection (3)(a)* and is specified in any other application made by the relevant person under this section which has not been refused under *subsection (2)(b)*, or
+
+(v) the relevant person’s partner, was regularly and consistently applied to running the family asset,
+
+(*c*) that if all or part of the specified asset is a transferred asset—
+
+(i) it became a transferred asset on its transfer by the relevant person or by the relevant person’s partner to the person specified in the application,
+
+(ii) it continues to be held as a transferred asset by the person specified in the application, and
+
+(iii) the person specified in the application undertakes by way of statutory declaration to repay any sums for which he or she may become liable by virtue of *section 14J(11)*,
+
+(*d*) that the person specified in the application undertakes by way of statutory declaration that, if appointed as a family successor in respect of the relevant person under *subsection (2)*, a substantial part of that person’s normal working time will regularly and consistently be applied to running the family asset for the period of 6 years beginning on the date of the appointment,
+
+(*e*) that, except where the application relates to a relevant business which does not include an interest in land situated within the State—
+
+(i) in a case where the specified asset is not a transferred asset, the relevant person, the relevant person’s partner and any other owner of the specified asset, or
+
+(ii) in a case where the specified asset is a transferred asset, the person specified in the application and any other owner of the transferred asset,
+
+each consent to the creation by virtue of *section 14B(1)* of a charge in favour of the Executive against the interest in the chargeable land in respect of the specified asset,
+
+(*f*) that, where the specified asset is a transferred asset, each owner of the transferred asset consents to the making of the application, and
+
+(*g*) that, where the relevant person is a member of a couple—
+
+(i) except for any application under this section in relation to which a repayment event has occurred or in such other circumstances as may be prescribed, the relevant person’s partner has not made an application under this section, and
+
+(ii) the relevant person’s partner consents to the making of the application by the relevant person.
+
+(4) The reference to "care services" in *subsection (3)(b)* shall be construed as a reference to the type of services referred to in *paragraph (a)* or *(b)* that the relevant person first received if before receiving care services the relevant person received—
+
+(*a*) transitional care services within the meaning of *section 13*, or
+
+(*b*) services in a nursing home which services would, if they had been provided after the coming into operation of the definition of "approved nursing home", have come within the meaning of the definition of "long-term residential care services".
+
+(5) For the purposes of *subsection (3)(c)* it is immaterial whether the transfer was made—
+
+(*a*) to the person specified in the application solely, or
+
+(*b*) jointly to the person specified in the application and any other person or persons.
+
+(6) Subject to *subsection (7)*, the Executive may appoint more than one person as a family successor in respect of the relevant person in accordance with this section where it is satisfied that the conditions in *subsection (3)* have been met in respect of each person specified in an application made under this section.
+
+(7) The Executive may not—
+
+(*a*) appoint more than one person as the family successor in respect of the relevant person in relation to the interest which the relevant person and his or her partner had in a specified asset which is a transferred asset, or
+
+(*b*) appoint 2 or more persons jointly as the family successors in respect of the relevant person in relation to the interest which the relevant person and his or her partner have in a specified asset.
+
+(8) An application under this section shall be made in the specified form.
+
+(9) In deciding an application under this section—
+
+(*a*) the Executive may request information from, and interviews with, the relevant person, the relevant person’s partner, the person specified in the application and any representative (whether appointed under *section 21* or otherwise) of the relevant person, and
+
+(*b*) the Executive may request, receive and consider records and information relating to the relevant person, the relevant person’s partner and the person specified in the application whether received pursuant to *section 45* or otherwise.
+
+(10) The persons referred to in *subsection (9)* shall furnish all information and attend any interviews which the Executive may request in accordance with this section.
+
+(11) The Executive may refuse to consider or further consider an application under this section if a person referred to in *subsection (9)* fails to provide the Executive with such information as may be requested by the application form or under that subsection within 40 working days from the date of the request.
+
+(12) Where the Executive refuses under *subsection (11)* to consider or further consider an application under this section, it shall, not later than 10 working days after the refusal, give the relevant person, the relevant person’s partner and the person specified in the application notice in writing of the decision and the reasons for the decision.
+
+(13) The Executive shall, not later than 10 working days after granting or refusing an application under this section, give notice in writing to the relevant person, the relevant person’s partner and the person specified in the application of the decision and the reasons for the decision.
+
+(14) In this section, "specified asset", in relation to an application under this section, means—
+
+(*a*) any farm or farms specified in the application,
+
+(*b*) any relevant business or businesses specified in the application,
+
+(*c*) any farm which is a transferred asset, or any farms which are transferred assets, and which is (or are) specified in the application, and
+
+(*d*) any relevant business which is a transferred asset, or any relevant businesses which are transferred assets, and which is (or are) specified in the application.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F8: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 3, commenced as per s. 33(2).
+>
+> F9: Substituted (23.09.2024) by *Health (Miscellaneous Provisions) (No. 2) Act 2024* (29/2024), s. 21, S.I. No. 461 of 2024.
+>
+> **Editorial Notes:**
+>
+> E6: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 14B. Charge against interest in chargeable land
+
+F10[**14B**.— (1) Where—
+
+(*a*) *paragraphs (a)* and *(b)* of *section 14C(1)* apply in relation to a person (in this section referred to as the "relevant person"),
+
+(*b*) the Executive is satisfied that the conditions in *paragraphs (a)* to *(f)* of *section 14C(4)* have been met in respect of the relevant person in relation to a particular family asset, and
+
+(*c*) the relevant person or the partner of the relevant person or, in the case of a transferred asset, the family successor has an interest in the particular family asset,
+
+the Executive shall make an order in accordance with this section charging the interest in the chargeable land in respect of the particular family asset with the secured amount.
+
+(2) The Board of the Executive may appoint a person or persons who is or are employees of the Executive to make orders under *subsection (1)* and each such order shall be deemed to have been executed by the Executive under the seal of the Executive in compliance with paragraph 1 of Schedule 2 to the Health Act 2004.
+
+(3) An order made under *subsection (1)* shall be deemed to be a legal mortgage under Part 10 of the Land and Conveyancing Law Reform Act 2009 in favour of the Executive for a charge of the secured amount and to have been executed at the time of the making of the order.
+
+(4) The Executive shall from the date of the making of the order under *subsection (1)*—
+
+(*a*) be deemed to be a mortgagee of the property for the purposes of Part 10 of the Land and Conveyancing Law Reform Act 2009 , and
+
+(*b*) have, in relation to the charge referred to in *subsection (1)*, all the powers conferred by that Act on mortgagees under mortgages made by deed.
+
+(5) Where the Executive makes an order under *subsection (1)*, it shall, as soon as practicable thereafter, cause the order to be registered in the Registry of Deeds or the Land Registry, as appropriate.
+
+(6) An order made under *subsection (1)* affecting an interest in land which is registered land within the meaning of the Registration of Title Act 1964 shall be registrable as a burden affecting such land whether the person named in such order as the owner of the land is or is not registered under that Act as the owner of such land, and the Property Registration Authority shall, on application being made to it, register such order affecting the land concerned.
+
+(7) Any amount paid by way of increase in State support by virtue of a determination under *section 14C(2)(a)* in respect of a relevant person and calculated in accordance with *section 14D(3)*, whether or not it is the subject of a mortgage arising by reason of this section, may, without prejudice to any other power in that behalf, be recovered by the Executive as a simple contract debt in any court of competent jurisdiction.
+
+(8) For the avoidance of doubt, neither an order made under *subsection (1)* nor a mortgage that arises under it shall be regarded as a conveyance for the purposes of section 3 of the Family Home Protection Act 1976 or section 28 of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 .
+
+(9) Subject to *subsection (10)*, notwithstanding any rule of law or statutory provision, where a mortgage is created by reason of an order under *subsection (1)* and registered in the Registry of Deeds or the Land Registry as appropriate and a subsequent mortgage is created in favour of a party other than the Executive, the Executive is entitled to priority over any subsequent mortgage in respect of amounts paid by the Executive by way of increase in State support by virtue of a determination under *section 14C(2) (a)* in respect of a relevant person after the date of the subsequent mortgage whether the Executive did or did not have notice of such subsequent mortgage.
+
+(10) *Subsection (9)* does not apply as respects a subsequent mortgage where the Executive has consented in writing to such subsequent mortgage subject to any conditions specified in that consent.
+
+(11) The relevant person, his or her partner, the family successor and any other person who has an interest in the chargeable land shall have an obligation to give all reasonable assistance to the Executive as the Executive may request to facilitate the registration of an order under *subsection (1)* in the Land Registry or Registry of Deeds.
+
+(12) Where a relevant asset of the relevant person or of the relevant person’s partner ceases to be chargeable land for a reason not related to *paragraph (b)* of the definition of "chargeable land" in *subsection (18)*—
+
+(*a*) (i) in the case of a relevant asset which is not a transferred asset, the relevant person (or the relevant person’s care representative, if any) or, if applicable, the relevant person’s partner (or the partner’s care representative, if any), or
+
+(ii) in the case of a relevant asset which is a transferred asset, the family successor,
+
+shall, as soon as is practicable after the occurrence of such cesser but, in any case, not later than 10 working days after the occurrence of such cesser, give notice in writing to the Executive of the cesser and the date on which it occurred, and
+
+(*b*) the Executive shall cease to make payments of such amount of increase in State support payable by virtue of a determination under *section 14C(2)(a)* in respect of the relevant person which relates to the former chargeable land as calculated in accordance with *section 14D(3)*.
+
+(13) Where the relevant person or, as the case may be, the relevant person’s partner or the family successor transfers any part of an interest in the chargeable land that person shall give notice of such transfer to the Executive within 10 working days of the date of the transfer.
+
+(14) Amounts paid by way of increase in State support by virtue of a determination under *section 14C(2)(a)* in respect of a relevant person shall be deemed to have been paid to and for the benefit of the relevant person or, in the case of a person who is a member of a couple, to and for the benefit of both members of the couple or, in the case of a transferred asset, to and for the benefit of the family successor and any other person who has an interest in the transferred asset.
+
+(15) Where amounts are paid by way of increase in State support by virtue of a determination under *section 14C(2)(a)* which by reason of *subsection (14)* are deemed to have been advanced to both members of a couple, the liability of the members of the couple in relation to such advances shall be joint and several.
+
+(16) (*a*) An order made under *subsection (1)* shall be in the form prescribed by regulations made under *section 36*, and may be made—
+
+(i) by an appointed person, and
+
+(ii) in electronic form.
+
+(*b*) Where an order under *subsection (1)* is made in electronic form, an appointed person may transmit the order by electronic means to the Property Registration Authority for registration in the Land Registry, and the Property Registration Authority may effect registration of the order if—
+
+(i) it is lodged by electronic means in a manner approved by, and
+
+(ii) it complies with the requirements specified by,
+
+the Property Registration Authority.
+
+(17) Where an order under *subsection (1)* made in electronic form purports to have been made by an appointed person it shall be presumed by the Property Registration Authority that such electronic document was made and transmitted by the person by whom it purports to have been made and transmitted.
+
+(18) In this section—
+
+"appointed person" means a person appointed by the Board of the Executive for the purposes of—
+
+(*a*) making orders under *subsection (1)*,
+
+(*b*) transmitting orders by electronic means to the Property Registration Authority in accordance with *subsection (16)*, and
+
+(*c*) making an application to the Property Registration Authority for the cancellation of an entry of a charge on the register of the property charged where such charge relates to an order created under this section;
+
+"chargeable land" means an asset which is a relevant asset of the relevant person or of the partner of the relevant person, or of both of them, and which—
+
+(*a*) comprises or forms part of a particular family asset,
+
+(*b*) is an asset which is included in the computation of the assessed weekly means of a person, and
+
+(*c*) comprises an interest in land, which land is situated within the State;
+
+"interest in the chargeable land" means—
+
+(*a*) the interest of the relevant person,
+
+(*b*) in the case of a relevant person who is a member of a couple, the interest of each member of the couple, or
+
+(*c*) in the case of a transferred asset, the interest that the relevant person had or, in the case of a relevant person who is a member of a couple, the interest that each member of the couple had,
+
+in the chargeable land;
+
+"secured amount", in relation to chargeable land, means the aggregate of all amounts payable by way of increase in State support by virtue of a determination under *section 14C(2)(a)* in respect of a relevant person by the Executive (whether before or after the making of an order under *subsection (1)*) and calculated in accordance with *section 14D(3)* together with interest thereon calculated in accordance with *section 14J(5)* and which amounts relate to the interest in the chargeable land.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F10: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 4, commenced as per s. 33(2).
+>
+> **Editorial Notes:**
+>
+> E7: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### Duty of Executive to determine whether paragraph 6B of Part 3 of Schedule 1 applies
+
+F11[**14C**.— (1) This section applies where—
+
+(*a*) a person is receiving care services (in this section referred to as the "relevant person"),
+
+(*b*) one or more family successors have been appointed in respect of the relevant person in relation to a particular family asset, and
+
+(*c*) the relevant person has received any combination of relevant services for a period of 3 years (which period need not be continuous).
+
+(2) The Executive shall—
+
+(*a*) if satisfied that the conditions in *subsection (4)* are met, make a determination that, with effect from the date specified in the determination, *paragraph 6B* of *Part 3* of *Schedule 1* applies in respect of the relevant person in relation to the particular family asset, or
+
+(*b*) if not so satisfied, make a determination that *paragraph 6B* of *Part 3* of *Schedule 1* does not apply in respect of the relevant person in relation to the particular family asset.
+
+(3) Where the Executive makes a determination under *subsection (2)(a)*, the date specified in the determination shall not be earlier than the later of the following dates—
+
+(*a*) the date by which the relevant person has received any combination of relevant services for a period of 3 years (which period need not be continuous), or
+
+(*b*) the date on which a family successor was appointed under F12[*section 14A*, *14K* or *14L*] in respect of the relevant person in relation to the particular family asset.
+
+(4) The conditions referred to in *subsection (2)(a)* are—
+
+(*a*) that, where a family successor was appointed in respect of the relevant person under *section 14A*—
+
+(i) the family successor has complied with the undertaking given by him or her under *subsection (3)(d)* of that section since the appointment, and
+
+(ii) where the family successor was appointed in respect of a transferred asset, it continues to be held as a transferred asset by the family successor (whether it is held solely by the family successor or jointly with another person or persons),
+
+(*b*) that, where a family successor was appointed under *section 14G*, the family successor has complied with the undertaking given by him or her under *subsection (4)(b)* of that section since the appointment,
+
+(*c*) that, where a family successor was appointed under *section 14H*, the family successor has complied with the undertaking given by him or her under *subsection (5)(b)* of that section since the appointment,
+
+(*d*) that, where a family successor was appointed under *section 14K*, the family successor has complied with the undertaking given by him or her under *subsection (3)(e)* of that section since the appointment,
+
+(*e*) that, where a family successor was appointed under *section 14L*, the family successor has complied with the undertaking given by him or her under *subsection (3)(f)* of that section since the appointment,
+
+F13[(*f*) that, in the opinion of the Executive, had a determination under *subsection (2)(a)* been made (and, accordingly, had *section 14I* applied), a repayment event would not otherwise have occurred in respect of that person in relation to the particular family asset, and]
+
+(*g*) that, where the condition in *section 14A(3)(e)*, *14G(4)(d)*, *14H(5)(d)*, *14K(3)(f)* or *14L(3)(g)* applies, an order has been made under *section 14B(1)* in relation to the chargeable land.
+
+(5) For the purposes of making a determination under this section—
+
+(*a*) the Executive may request information from, and interviews with, the relevant person, the relevant person’s partner, the family successor or family successors and any representative (whether appointed under *section 21* or otherwise) of the relevant person, and
+
+(*b*) the Executive may request, receive and consider records and information relating to the relevant person, the relevant person’s partner and the family successor or family successors whether received pursuant to *section 45* or otherwise.
+
+(6) The persons referred to in *subsection (5)* shall furnish all information and attend any interviews which the Executive may request in accordance with this section.
+
+(7) The Executive may refuse to make a determination under this section if a person referred to in *subsection (5)* fails to provide the Executive with such information as may be requested in accordance with this section within 40 working days from the date of the request.
+
+(8) Where the Executive refuses under *subsection (7)* to make a determination under this section, it shall, not later than 10 working days after the refusal, give the relevant person, the relevant person’s partner and the family successor or family successors notice in writing of the decision and the reasons for the decision.
+
+(9) The Executive shall, not later than 10 working days after making a determination under this section, give notice in writing to the relevant person, the relevant person’s partner and the family successor or family successors of the determination and the reasons for the determination.
+
+(10) In this section, "relevant services" means—
+
+(*a*) care services (including any care services received before the coming into operation of section 5 of the Act of 2021),
+
+(*b*) transitional care services within the meaning of *section 13*,
+
+(*c*) services in a nursing home which services would, if they had been provided after the coming into operation of the definition of "approved nursing home" in *section 3*, have come within the meaning of the definition of "long-term residential care services" in *section 3*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F11: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 5, commenced as per s. 33(2).
+>
+> F12, F13: Substituted (23.09.2024) by *Health (Miscellaneous Provisions) (No. 2) Act 2024* (29/2024), s. 22(a), (b), S.I. No. 461 of 2024.
+>
+> **Editorial Notes:**
+>
+> E8: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 14D. Duties of Executive on determination under section 14C(2)(a)
+
+F14[**14D**.— (1) This section applies where the Executive makes a determination under *section 14C(2)(a)* F15[or *14M(3)*] in respect of a person (in this section referred to as the "relevant person").
+
+(2) Where the determination that has been made under *section 11(1)* in respect of the relevant person does not take account of the determination under *section 14C(2)(a)* F16[or *14M(3)*], the Executive shall—
+
+(*a*) determine the revised amount of State support payable in respect of the relevant person in accordance with the method of calculation of State support set out in *section 14*, and
+
+(*b*) not later than 10 working days after the determination under *paragraph (a)*, give notice in writing to the relevant person, the relevant person’s partner and, in the case of a transferred asset, the family successor (or family successors) of the revised amount and the date from which it is payable.
+
+(3) During the period where the determination under *section 14C(2)(a)* F17[or *14M(3)*] has effect in respect of the relevant person, the Executive shall also calculate, in accordance with the method set out in *subsection (4)*, the amount of the increase in State support payable in respect of the relevant person by virtue of that determination.
+
+(4) The method referred to in *subsection (3)* is that the Executive shall calculate the difference between—
+
+(*a*) the amount that the assessed weekly value of relevant assets would be if the interest in the particular family asset were a relevant asset, and
+
+(*b*) the amount that is the assessed weekly value of relevant assets.
+
+(5) The Executive shall keep records of—
+
+(*a*) amounts calculated under *subsection (3)* and calculations relating to them,
+
+(*b*) each particular family asset to which these amounts relate, and
+
+(*c*) such other matters as may be prescribed.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F14: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 6, commenced as per s. 33(2).
+>
+> F15, F16, F17: Inserted (23.09.2024) by *Health (Miscellaneous Provisions) (No. 2) Act 2024* (29/2024), s. 23, S.I. No. 461 of 2024.
+>
+> **Editorial Notes:**
+>
+> E9: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 14E. Review of compliance with conditions
+
+F18[**14E**.— (1) This section applies where the Executive has made a determination under *section 14C(2)(a)* in respect of a person in relation to a particular family asset, that determination has not been revoked so far as relating to that particular family asset and—
+
+(*a*) the person is receiving care services, or
+
+(*b*) the person has died since the making of the determination and *section 14F(2)*, *(3)*, *(6)* or *(9)* applies in relation to the particular family asset.
+
+(2) A person referred to in *paragraph (a)* or *(b)* of *subsection (1)* is referred to in this section as the "relevant person".
+
+(3) On at least one occasion during the relevant period, the Executive shall arrange for a review to be carried out for the purpose of ascertaining whether a repayment event has occurred in respect of the relevant person.
+
+(4) The Executive may at any other time during the relevant period arrange for a review to be carried out for the purpose referred to in *subsection (3)*.
+
+(5) In carrying out a review under this section—
+
+(*a*) the Executive may request information from, and interviews with, the family successor or family successors, the relevant person, the relevant person’s partner and any representative (whether appointed under *section 21* or otherwise) of the relevant person, and
+
+(*b*) the Executive may request, receive and consider records and information relating to the family successor or family successors, the relevant person and the relevant person’s partner whether received pursuant to *section 45* or otherwise.
+
+(6) The persons referred to in *subsection (5)* shall furnish all information which the Executive may request in accordance with this section within 40 working days from the date of the request.
+
+(7) If a person referred to in *subsection (5)* fails to provide the Executive with such information as may be requested in accordance with this section within 40 working days from the date of the request, the Executive shall make a decision under *section 14I(2)(a)*.
+
+(8) Having carried out a review under this section—
+
+(*a*) where the Executive is satisfied that a repayment event has not occurred in respect of the relevant person in relation to the particular family asset, the Executive shall make a decision that a repayment event has not so occurred, or
+
+(*b*) where the Executive does not make a decision in accordance with *paragraph (a)*, the Executive shall make a decision under *section 14I(2)(a)*.
+
+(9) The Executive shall, not later than 10 working days after making a decision under *subsection (8) (a)*, give notice in writing to the relevant person, the relevant person’s partner, the relevant person’s care representative (if any) and the family successor of the decision and the reasons for the decision.
+
+(10) In this section, "relevant period", means the period beginning on the date specified in the determination under *section 14C(2)(a)* and ending on the date of the expiry of the period referred to in—
+
+(*a*) where the relevant person’s family successor was appointed under *section 14A*, *subsection (3)(d)* of that section,
+
+(*b*) where the relevant person’s family successor was appointed under *section 14F*, *subsection (8)(b)* of that section,
+
+(*c*) where the relevant person’s family successor was appointed under *section 14G*, *subsection (4)(b)* of that section,
+
+(*d*) where the relevant person’s family successor was appointed under *section 14H*, *subsection (5)(b)* of that section,
+
+(*e*) where the relevant person’s family successor was appointed under *section 14K*, the first period referred to in *subsection (3)(e)* of that section, or
+
+(*f*) where the relevant person’s family successor was appointed under *section 14L*, the first period referred to in *subsection (3)(f)* of that section.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F18: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 7, commenced as per s. 33(2).
+>
+> **Editorial Notes:**
+>
+> E10: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 14F. Death of person receiving care services following determination under section 14C(2)(a)
+
+F19[**14F**.— (1) This section applies where—
+
+(*a*) a determination is made under *section 14C(2)(a)* in respect of a person (in this section referred to as the "relevant person") in relation to a particular family asset,
+
+(*b*) the relevant person dies,
+
+(*c*) the relevant person has or, in the case of a transferred asset, had an interest in the particular family asset, and
+
+(*d*) immediately before the death—
+
+(i) the period to which the undertaking given by the family successor in relation to the particular family asset (in this section referred to as the "current family successor") under *section 14A(3)(d)*, *14G(4)(b)* or *14H(5)(b)* relates has not expired, and
+
+(ii) the determination under *section 14C(2)(a)* has not been revoked in respect of the relevant person so far as relating to the particular family asset.
+
+(2) Subject to *sections 14E and 14I*, any amounts paid by way of increase in State support by virtue of the determination under *section 14C(2)(a)* in respect of the relevant person in so far as it relates to a particular family asset for the period ending with the death of the relevant person shall not be repayable to the Executive if—
+
+(*a*) the particular family asset is not a transferred asset,
+
+(*b*) the current family successor is the person who is, or one of the persons who are, entitled to succeed on the death of the relevant person to the interest that the relevant person had in the particular family asset (in this section referred to as the "lawful successor"), and
+
+(*c*) that current family successor notifies the Executive in writing in accordance with *subsection (10)* that, with the agreement of—
+
+(i) any other lawful successor or (where there is more than one other lawful successor) lawful successors, and
+
+(ii) where the relevant person was a member of a couple, the partner of the relevant person,
+
+he or she intends to comply with the undertaking given by him or her under *section 14A(3)(d)*, *14G(4)(b)* or *14H(5)(b)* in respect of the relevant person in relation to that particular family asset until the expiry of the period referred to in the section concerned.
+
+(3) In the case of a transferred asset, subject to *sections 14E* and *14I*, any amounts paid by way of increase in State support by virtue of the determination under *section 14C(2)(a)* in respect of the relevant person in so far as it relates to that transferred asset for the period ending with the death of the relevant person shall not be repayable to the Executive if the current family successor notifies the Executive in writing in accordance with *subsection (10)* that, with the agreement of—
+
+(*a*) where the relevant person was a member of a couple, the partner of the relevant person, and
+
+(*b*) any other owner of the transferred asset,
+
+he or she intends to comply with the undertaking given by him or her under *section 14A(3)(d)*, *14G(4)(b)* or *14H(5)(b)* in respect of the relevant person in relation to that transferred asset until the expiry of the period referred to in the section concerned.
+
+(4) *Subsections (6)* and *(7)* apply if—
+
+(*a*) the particular family asset is not a transferred asset,
+
+(*b*) the current family successor is not the lawful successor or (where there is more than one lawful successor) a lawful successor, and
+
+(*c*) the lawful successor or (where there is more than one lawful successor) at least one of the lawful successors falls within *subsection (5)*.
+
+(5) A lawful successor falls within this subsection if the lawful successor has attained the age of 18 years and is—
+
+(*a*) the partner of the relevant person,
+
+(*b*) a relative of the relevant person or of the relevant person’s partner, or
+
+(*c*) F20[a son-in-law, daughter-in-law, great-grandchild, great-nephew, great-niece or first cousin, or a child, grandchild or great-grandchild of a first cousin,] of the relevant person or of the relevant person’s partner.
+
+(6) Subject to *sections 14E* and *14I*, any amounts paid by way of increase in State support by virtue of the determination under *section 14C(2)(a)* in respect of the relevant person in so far as it relates to the particular family asset for the period ending with the death of the relevant person shall not be repayable to the Executive if—
+
+(*a*) the current family successor and the lawful successor (or lawful successors) agree that the current family successor should continue to comply with the undertaking given by him or her under *section 14A(3)(d)*, *14G(4)(b)* or *14H(5)(b)* until the expiry of the period referred to in the section concerned, and
+
+(*b*) they jointly give notice to the Executive of that fact in accordance with *subsection (10)*.
+
+(7) On the application, in accordance with *subsection (10)*, of the lawful successor or, where there is more than one lawful successor, on the joint application of both or all of the lawful successors, the Executive shall—
+
+(*a*) if satisfied that the conditions in *subsection (8)* are met, make a determination—
+
+(i) revoking the appointment of the current family successor in respect of the relevant person in relation to the particular family asset, and
+
+(ii) appointing the person specified in the application as the family successor in respect of the relevant person in relation to that particular family asset,
+
+or
+
+(*b*) if not so satisfied, make a decision under *section 14I(2) (a)*.
+
+(8) The conditions referred to in *subsection (7)(a)* are—
+
+(*a*) that the person specified in the application—
+
+(i) is a lawful successor who falls within *subsection (5)*, or
+
+(ii) is not a lawful successor but has attained the age of 18 years and falls within any of *paragraphs (a)* to *(c)* of *subsection (5)*,
+
+(*b*) that the person specified in the application undertakes by way of statutory declaration that, if appointed as the family successor under this section, a substantial part of that person’s normal working time will regularly and consistently be applied to running the family asset during the period beginning on the date of his or her appointment under this section and ending on the date of the expiry of the period to which the undertaking given by the current family successor under *section 14A(3)(d)*, *14G(4)(b)* or *14H(5)(b)* in relation to that particular family asset relates,
+
+(*c*) that, where the relevant person was a member of a couple, the relevant person’s partner consents to the making of the application, and
+
+(*d*) that, in the opinion of the Executive, a repayment event has not occurred in relation to the particular family asset.
+
+(9) Subject to *sections 14E* and *14I*, where the Executive makes a determination under *subsection (7)(a)*, any amounts paid by way of increase in State support by virtue of the determination under *section 14C(2)(a)* to the relevant person in so far as it relates to the particular family asset for the period ending with the death of the relevant person shall not be repayable to the Executive.
+
+(10) Notice under *subsection (2)(c)*, *(3)* or *(6)(b)* shall be given, or an application under *subsection (7)* shall be made, before the expiry of the period of 6 months beginning on the date of death of the relevant person.
+
+(11) In reckoning the period referred to in *subsection (8)(b)* or *section 14A(3)(d)*, *14G(4)(b)* or *14H(5)(b)*, the period beginning on the date of death of the relevant person and ending on the date of the making of an appointment under *subsection (7)(a)* shall be disregarded.
+
+(12) In deciding an application under this section—
+
+(*a*) the Executive may request information from, and interviews with, the relevant person’s partner, the person specified in the application, the current family successor, the lawful successor (or, where there is more than one, either or any of them) and any representative (whether appointed under *section 21* or otherwise) of the relevant person, and
+
+(*b*) the Executive may request, receive and consider records and information relating to the relevant person, the relevant person’s partner, the person specified in the application, the current family successor and the lawful successor (or, where there is more than one, either or any of them) whether received pursuant to *section 45* or otherwise.
+
+(13) The persons referred to in *subsection (12)* shall furnish all information and attend any interviews which the Executive may request in accordance with this section.
+
+(14) If a person referred to in *subsection (12)* fails to provide the Executive with such information as may be requested in accordance with this section within 40 working days from the date of the request, the Executive shall make a decision under *section 14I(2)(a)*.
+
+(15) The Executive shall, not later than 10 working days after making a determination under this section, give notice in writing to the relevant person’s partner, the person specified in the application, the lawful successor (or the lawful successors) and the current family successor of the determination and the reasons for the determination.
+
+(16) An application under this section shall be made in the specified form.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F19: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 8, commenced as per s. 33(2).
+>
+> F20: Substituted (23.09.2024) by *Health (Miscellaneous Provisions) (No. 2) Act 2024* (29/2024), s. 24, S.I. No. 461 of 2024.
+>
+> **Editorial Notes:**
+>
+> E11: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 14G. Death or change in circumstances of family successor
+
+F21[**14G**.— (1) This section applies where—
+
+(*a*) a person is or has been receiving care services (in this section referred to as the "relevant person"),
+
+(*b*) a family successor has been appointed (in this section referred to as the "current family successor") in respect of the relevant person in relation to a particular family asset,
+
+(*c*) the current family successor dies or is no longer able to comply with the undertaking given by him or her under *subsection (4)(b)*, *section 14A(3)(d)*, F22[*14F(8)(b), 14H(5)(b), 14K(3)(e)* or *14L(3)(f)*],
+
+(*d*) the period to which the undertaking referred to in *paragraph (c)* relates has not expired, and
+
+(*e*) where a determination was made under *section 14C(2) (a)* in respect of the relevant person in relation to the particular family asset, that determination has not been revoked so far as relating to that particular family asset.
+
+(2) On the application of the relevant person, the Executive may—
+
+(*a*) if satisfied that the conditions in *subsection (4)* are met, make a determination—
+
+(i) revoking the appointment of the current family successor in respect of the relevant person in relation to the particular family asset, and
+
+(ii) appointing the person specified in the application as the family successor in respect of the relevant person in relation to that particular family asset,
+
+or
+
+F23[(*b*) if not so satisfied—
+
+(i) where a determination was made under *section 14C(2)(a)* in respect of the relevant person in relation to the particular family asset, make a decision under *section 14I(2)(a)*, or
+
+(ii) in any other case, refuse the application.]
+
+(3) Where the relevant person has died, the application under *subsection (2)* shall be made by the person who holds, or the persons who hold, the interest that the relevant person had in the particular family asset or such other person as may be prescribed.
+
+(4) The conditions referred to in *subsection (2) (a)* are—
+
+(*a*) that the person specified in the application has attained the age of 18 years and is an appropriate person,
+
+(*b*) that the person specified in the application undertakes by way of statutory declaration that, if appointed as the family successor under this section, a substantial part of that person’s normal working time will regularly and consistently be applied to running the family asset during the period beginning on the date of his or her appointment under this section and ending on the date of the expiry of the period to which the undertaking given by the current family successor under this paragraph or *section 14A(3)(d)*, F24[*14F(8)(b)*, *14H(5)(b)*, *14K(3)(e)* or *14L(3)(f)*] in relation to that particular family asset relates,
+
+(*c*) that if all or part of the particular family asset is a transferred asset, the person specified in the application undertakes by way of statutory declaration to repay any sums for which he or she may become liable by virtue of *section 14J(11)*,
+
+(*d*) that, except where the application relates to a relevant business which does not include an interest in land situated within the State or a charge has already been created in respect of the particular family asset by virtue of *section 14B(1)*—
+
+(i) in a case where the particular family asset is not a transferred asset, the relevant person, the relevant person’s partner and any other owner of the particular family asset, or
+
+(ii) in a case where the particular family asset is a transferred asset, the person specified in the application and any other owner of the transferred asset,
+
+each consent to the creation by virtue of *section 14B(1)* of a charge in favour of the Executive against the interest in the chargeable land in respect of the particular family asset,
+
+(*e*) that, where the particular family asset is a transferred asset, each owner of the transferred asset consents to the making of the application,
+
+(*f*) that, where the relevant person is or was a member of a couple, the relevant person’s partner consents to the making of the application, and
+
+F25[(*g*) that, in the opinion of the Executive—
+
+(i) where a determination has been made in respect of the relevant person under *section 14C(2)(a)*, a repayment event has not occurred in respect of the relevant person in relation to the particular family asset, or
+
+(ii) where a determination under *section 14C(2)(a)* has not been made but, had such a determination been made (and, accordingly, had *section 14I* applied), a repayment event would not have occurred in respect of that person in relation to the particular family asset.]
+
+(5) An application under *subsection (2)* shall be made before the expiry of the period of 6 months beginning on—
+
+(*a*) in a case where the current family successor has died, the date of death of the family successor, or
+
+(*b*) in a case where the current family successor is no longer able to comply with the undertaking given under *subsection (4)(b)* or *section 14A(3)(d)*, F26[*14F(8)(b)*, *14H(5)(b)*, *14K(3)(e)* or *14L(3)(f)*], the date on which it first comes to the Executive’s attention that the family successor is no longer able to comply with that undertaking.
+
+(6) In reckoning the period referred to in *subsection (4)(b)* or *section 14A(3)(d)*, F27[*14F(8)(b)*, *14H(5)(b)*, *14K(3)(e)* or *14L(3)(f)*]—
+
+(*a*) where *subsection (5) (a)* applies, the period beginning on the date of death of the family successor, or
+
+(*b*) where *subsection (5)(b)* applies, the period beginning on the date on which it first comes to the Executive’s attention that the family successor is no longer able to comply with the undertaking given under *subsection (4)(b)* or *section 14A(3)(d)*, F28[*14F(8)(b)*, *14H(5)(b)*, *14K(3)(e)* or *14L(3)(f)*],
+
+and ending on the date of the making of an appointment under *subsection (2) (a)* shall be disregarded.
+
+(7) In determining an application under this section—
+
+(*a*) the Executive may request information from, and interviews with, the relevant person, the relevant person’s partner, any representative (whether appointed under *section 21* or otherwise) of the relevant person and, where appropriate, the current family successor, the person specified in the application and the lawful successor, and
+
+(*b*) the Executive may request, receive and consider records and information relating to the relevant person, the relevant person’s partner and, where appropriate, the current family successor, the person specified in the application and the lawful successor whether received pursuant to *section 45* or otherwise.
+
+(8) The persons referred to in *subsection (7)* shall furnish all information and attend any interviews which the Executive may request in accordance with this section.
+
+F29[(9) If a person referred to in *subsection (7)* fails to provide the Executive with such information as may be requested in accordance with this section within 40 working days from the date of the request, the Executive shall—
+
+(*a*) where a determination was made under *section 14C(2)(a)* in respect of the relevant person in relation to the particular family asset, make a decision under *section 14I(2)(a)*, or
+
+(*b*) in any other case, refuse to consider or further consider an application under this section.]
+
+F30[(10) The Executive shall, not later than 10 working days after making a determination or refusing an application under this section, give notice in writing to the relevant person, the relevant person’s partner and, where appropriate, the current family successor, the lawful successor and the person specified in the application of the determination or decision and the reasons for the determination or decision.]
+
+F34[(10A) Where the Executive refuses under *subsection (9)(b)* to consider or further consider an application under this section, it shall, not later than 10 working days after the refusal, give notice in writing to the relevant person, the relevant person’s partner and, where appropriate, the current family successor, the lawful successor and the person specified in the application of the decision and the reasons for the decision.]
+
+(11) *Subsections (12)* and *(13)* apply where—
+
+(*a*) the current family successor has died,
+
+(*b*) the particular family asset is a transferred asset,
+
+(*c*) the lawful successor is not an appropriate person,
+
+(*d*) the lawful successor notifies the Executive before the expiry of the period of 6 months beginning on the date of death of the current family successor that no application is to be made under this section, and
+
+(*e*) before the death of the current family successor a determination was made under *section 14C(2) (a)* in relation to the particular family asset which had not been revoked.
+
+(12) The determination under *section 14C(2)(a)* is revoked with effect from the date of death of the current family successor in relation to the particular family asset.
+
+(13) Any amounts paid or payable by way of increase in State support by virtue of the determination under *section 14C(2)(a)* in respect of the relevant person in so far as it relates to the particular family asset for the period ending with the death of the current family successor shall not be repayable to the Executive by reason only of that determination having been revoked.
+
+(14) An application under this section shall be made in the specified form.
+
+(15) In this section, "appropriate person" means—
+
+(*a*) where the particular family asset is not a transferred asset—
+
+(i) the partner of the relevant person,
+
+(ii) a relative of the relevant person or of the relevant person’s partner, or
+
+(iii) F31[a son-in-law, daughter-in-law, great-grandchild, great-nephew, great-niece or first cousin, or a child, grandchild or great-grandchild of a first cousin,] of the relevant person or of the relevant person’s partner,
+
+(*b*) where—
+
+(i) the particular family asset is a transferred asset,
+
+(ii) the current family successor has died, and
+
+F32[(iii) the person or one of the persons entitled to succeed to the current family successor’s estate on the death (in this section referred to as the "lawful successor") is—
+
+(I) the partner of the relevant person,
+
+(II) a relative of the relevant person or of the relevant person’s partner,
+
+(III) a son-in-law, daughter-in-law, great-grandchild, great-nephew, great-niece or first cousin, or a child, grandchild or great-grandchild of a first cousin, of the relevant person or of the relevant person’s partner, or
+
+(IV) the partner of the current family successor,]
+
+that person, or
+
+(*c*) where—
+
+(i) the particular family asset is a transferred asset, and
+
+(ii) the current family successor is no longer able to comply with the undertaking given under *subsection (4)(b)* or *section 14A(3)(d)*, F33[*14F(8)(b)*, *14H(5)(b)*, *14K(3)(e)* or *14L(3)(f)*],
+
+the current family successor’s partner.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F21: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 9, commenced as per s. 33(2).
+>
+> F22, F23, F24, F25, F26, F27, F28, F29, F30, F31, F32, F33: Substituted (23.09.2024) by *Health (Miscellaneous Provisions) (No. 2) Act 2024* (29/2024), s. 25(a)-(e), (g)(i), (ii), S.I. No. 461 of 2024.
+>
+> F34: Inserted (23.09.2024) by *Health (Miscellaneous Provisions) (No. 2) Act 2024* (29/2024), s. 25(f), S.I. No. 461 of 2024.
+>
+> **Editorial Notes:**
+>
+> E12: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 14H. Change of family successor following transfer of particular family asset
+
+F35[**14H**.— (1) This section applies where—
+
+(*a*) a person is or has been receiving care services (in this section referred to as the "relevant person"),
+
+(*b*) a family successor has been appointed (in this section referred to as the "current family successor") in respect of the relevant person in relation to a particular family asset,
+
+(*c*) the period to which the undertaking under *subsection (5)(b)* or *section 14A(3)(d)*, F36[*14F(8)(b), 14G(4)(b), 14K(3)(e)* or *14L(3)(f)*] relates has not expired, and
+
+(*d*) where a determination was made under *section 14C(2)(a)* in respect of the relevant person in relation to the particular family asset, that determination has not been revoked so far as relating to that particular family asset.
+
+(2) An application may be made under *subsection (3)* where a particular family asset has been transferred to—
+
+(*a*) the partner of the relevant person,
+
+(*b*) a relative of the relevant person or of the relevant person’s partner,
+
+(*c*) F37[a son-in-law, daughter-in-law, great-grandchild, great-nephew, great-niece or first cousin, or a child, grandchild or great-grandchild of a first cousin,] of the relevant person or of the relevant person’s partner, or
+
+(*d*) the partner of the current family successor,
+
+by the relevant person or the relevant person’s partner or, in the case of an existing transferred asset, by the current family successor.
+
+(3) On the application of the relevant person, the Executive may—
+
+(*a*) if satisfied that the conditions in *subsection (5)* are met, make a determination—
+
+(i) revoking the appointment of the current family successor in respect of the relevant person in relation to the particular family asset, and
+
+(ii) appointing the person specified in the application as the family successor in respect of the relevant person in relation to that particular family asset,
+
+or
+
+F38[(*b*) if not so satisfied—
+
+(i) where a determination was made under *section 14C(2)(a)* in respect of the relevant person in relation to the particular family asset, make a decision under *section 14I(2)(a)*, or
+
+(ii) in any other case, refuse the application.]
+
+(4) Where the relevant person has died, the application under *subsection (3)* shall be made by the person who holds, or the persons who hold, the interest that the relevant person had in the particular family asset or such other person as may be prescribed.
+
+(5) The conditions referred to in *subsection (3)(a)* are—
+
+(*a*) that the person specified in the application has attained the age of 18 years and is a person referred to in *paragraph (a)*, *(b)*, *(c)* or *(d)* of *subsection (2)* to whom a particular family asset has been transferred by the relevant person or the relevant person’s partner or, in the case of an existing transferred asset, by the current family successor,
+
+(*b*) that the person specified in the application undertakes by way of statutory declaration that, if appointed as the family successor under this section, a substantial part of that person’s normal working time will regularly and consistently be applied to running the family asset during the period beginning on the date of his or her appointment under this section and ending on the date of the expiry of the period to which the undertaking given by the current family successor under this paragraph or *section 14A(3)(d)*, F39[*14F(8)(b), 14G(4)(b), 14K(3)(e)* or *14L(3)(f)*] in relation to that particular family asset relates,
+
+(*c*) that the person specified in the application undertakes by way of statutory declaration to repay any sums for which he or she may become liable by virtue of *section 14J(11)*,
+
+(*d*) that, except where the application relates to a relevant business which does not include an interest in land situated within the State or a charge has already been created in respect of the particular family asset by virtue of section 14B(1), the person specified in the application and any other owner of the particular family asset each consent to the creation by virtue of *section 14B(1)* of a charge in favour of the Executive against the interest in the chargeable land in respect of that particular family asset,
+
+(*e*) that, where the transfer referred to in *subsection (2)* was made jointly to the person specified in the application and any other person or persons, such other person or persons each consent to the making of the application,
+
+(*f*) that, where the relevant person is or was a member of a couple, the relevant person’s partner consents to the making of the application, and
+
+F40[(*g*) that, immediately before the transfer referred to in *subsection (2)*, in the opinion of the Executive—
+
+(i) where a determination has been made in respect of the relevant person under *section 14C(2)(a)*, a repayment event has not occurred in respect of the relevant person in relation to the particular family asset, or
+
+(ii) where a determination under *section 14C(2)(*a) has not been made but, had such a determination been made (and, accordingly, had *section 14I* applied), a repayment event would not have occurred in respect of that person in relation to the particular family asset.]
+
+(6) An application under *subsection (3)* shall be made before the expiry of the period of 3 months beginning on the date of the transfer referred to in *subsection (2)*.
+
+(7) For the purposes of *subsection (5) (a)* it is immaterial whether the transfer was made—
+
+(*a*) to the person specified in the application solely, or
+
+(*b*) jointly to the person specified in the application and any other person or persons.
+
+(8) In reckoning the period referred to in *subsection (5)(b)* or *section 14A(3)(d)*, F41[*14F(8)(b), 14G(4)(b), 14K(3)(e)* or *14L(3)(f)*], the period beginning on the date of the transfer of the particular family asset to the person specified in the application and ending on the date of the making of an appointment under *subsection (3) (a)* shall be disregarded.
+
+(9) In determining an application under this section—
+
+(*a*) the Executive may request information from, and interviews with, the relevant person, the relevant person’s partner, any representative (whether appointed under *section 21* or otherwise) of the relevant person, the current family successor and the person specified in the application, and
+
+(*b*) the Executive may request, receive and consider records and information relating to the relevant person, the relevant person’s partner, the current family successor and the person specified in the application whether received pursuant to *section 45* or otherwise.
+
+(10) The persons referred to in *subsection (9)* shall furnish all information and attend any interviews which the Executive may request in accordance with this section.
+
+F42[(11) If a person referred to in *subsection (9)* fails to provide the Executive with such information as may be requested in accordance with this section within 40 working days from the date of the request, the Executive shall—
+
+(*a*) where a determination was made under *section 14C(2)(a)* in respect of the relevant person in relation to the particular family asset, make a decision under *section 14I(2)(a)*, or
+
+(*b*) in any other case, refuse to consider or further consider an application under this section.]
+
+F43[(12) The Executive shall, not later than 10 working days after making a determination or refusing an application under this section, give notice in writing to the relevant person, the relevant person’s partner and, where appropriate, the current family successor and the person specified in the application of the determination or decision and the reasons for the determination or decision.]
+
+F44[(12A) Where the Executive refuses under *subsection (11)(b)* to consider or further consider an application under this section, it shall, not later than 10 working days after the refusal, give notice in writing to the relevant person, the relevant person’s partner and, where appropriate, the current family successor and the person specified in the application, of the determination or decision and the reasons for the determination or decision.]
+
+(13) An application under this section shall be made in the specified form.
+
+(14) In this section, "existing transferred asset" means a transferred asset which was a transferred asset immediately before the transfer referred to in *subsection (2)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F35: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 10, commenced as per s. 33(2).
+>
+> F36, F37, F38, F39, F40, F41, F42, F43: Substituted (23.09.2024) by *Health (Miscellaneous Provisions) (No. 2) Act 2024* (29/2024), s. 26(a)-(f), S.I. No. 461 of 2024.
+>
+> F44: Inserted (23.09.2024) by *Health (Miscellaneous Provisions) (No. 2) Act 2024* (29/2024), s. 26(g), S.I. No. 461 of 2024.
+>
+> **Editorial Notes:**
+>
+> E13: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 14I. Repayment of increase in State support
+
+F45[**14I**.— (1) This section applies where—
+
+(*a*) a determination has been made under *section 14C(2)(a)* in respect of a person (in this section referred to as the "relevant person"),
+
+(*b*) the period to which the undertaking in relation to a particular family asset given by the family successor under the relevant provision has not yet expired in relation to that particular family asset,
+
+(*c*) the relevant person has died or the determination under *section 14C(2)(a)* has not been revoked so far as relating to that particular family asset, and
+
+(*d*) either—
+
+(i) *section 14E(7)*, *14E(8)(b)*, *14F(7)(b)*, *14F(14)*, F46[*14G(2)(b)(i)*, *14G(9)(a)*, *14H(3)(b)(i)* or *14H(11)(a)*] applies, or
+
+(ii) it otherwise appears to the Executive that a repayment event may have occurred in respect of the relevant person in relation to the particular family asset.
+
+(2) (*a*) Having given the relevant person, the family successor, the relevant person’s partner and the person or persons who, in the event of the occurrence of a repayment event, would be primarily accountable for repayment of the repayable amount under *section 14J(11)* the opportunity to make representations, the Executive shall—
+
+(i) decide that a repayment event has occurred in respect of the relevant person in relation to the particular family asset, or
+
+(ii) decide that a repayment event has not occurred in respect of the relevant person in relation to the particular family asset.
+
+(*b*) Representations referred to in *paragraph (a)* shall, unless the Executive permits otherwise, be made in writing.
+
+(3) Where the Executive has made a decision under *subsection (2)(a)(i)* and the relevant person has not died, the determination made under *section 14C(2)(a)*, in so far as it relates to the particular family asset, shall be revoked.
+
+(4) Where the Executive has made a decision under *subsection (2)(a)(i)*, the amount of the increase in State support advanced or in the course of being advanced in respect of the relevant person by virtue of the determination made under *section 14C(2)(a)*, in so far as it relates to the particular family asset, shall become due and payable.
+
+(5) The Executive shall, not later than 10 working days after the date of its decision under *subsection (2)(a)*, notify the relevant person, the relevant person’s partner and the person or persons who, in the event of the occurrence of a repayment event, would be primarily accountable for repayment of the repayable amount under *section 14J(11)* in writing of the decision and the reasons for the decision.
+
+(6) Where *subsection (3)* applies, the Executive shall—
+
+(*a*) determine the revised amount of State support payable in respect of the relevant person in accordance with the method of calculation of State support set out in *section 14*, and
+
+(*b*) not later than 10 working days after the date of its decision under *subsection (2) (a)*, give notice in writing to the relevant person of the revised amount and the date from which it is payable.
+
+(7) In this section—
+
+"relevant provision" means—
+
+(*a*) where the family successor was appointed under *section 14A*, *subsection (3)(d)* of that section,
+
+(*b*) where the family successor was appointed under *section 14F*, *subsection (8)(b)* of that section,
+
+(*c*) where the family successor was appointed under *section 14G*, *subsection (4)(b)* of that section,
+
+(*d*) where the family successor was appointed under *section 14H*, *subsection (5)(b)* of F47[that section,]
+
+F48[(*e*) where the family successor was appointed under *section 14K*, *subsection (3)(e)* of that section, or
+
+(*f*) where the family successor was appointed under *section 14L*, *subsection (3)(f)* of that section;]
+
+"repayment event", in relation to a relevant person, means—
+
+(*a*) except in a case where *section 14G* applies and the period referred to in *section 14G(5)* has not yet expired, the failure of a family successor to comply with a relevant provision in relation to a particular family asset (or, where that failure continued for more than one day or is continuing, the first day on which it occurred),
+
+(*b*) except in the cases referred to in *subsections (2)*, *(3)* and *(6)* of *section 14F*, in a case where *section 14F* applies and no appointment is made under *section 14F(7)(a)* in relation to a particular family asset, the expiry of the period referred to in *section 14F(10)*,
+
+(*c*) except in the case referred to in *section 14G(13)*, in a case where *section 14G* applies and no appointment is made under *section 14G(2)(a)* in relation to a particular family asset, the expiry of the period referred to in *section 14G(5)*, or
+
+(*d*) except in a specified case—
+
+(i) where all or part of a particular family asset to which the determination under *section 14C(2)(a)* relates is transferred to a person other than the family successor, or
+
+(ii) in the case of a transferred asset, where all or part of the particular family asset to which the determination under *section 14C(2)(a)* relates is transferred to another person,
+
+the expiry of the period of 3 months beginning on the date on which that transfer occurred;
+
+"specified case" means—
+
+(*a*) a case referred to in *section 14F(2)*, *14F(6)*, *14F(9)* or *14G(13)*,
+
+(*b*) a case where an appropriate person within the meaning of *section 14G(15)(b)* is appointed as a family successor under *section 14G(2)(a)*, or
+
+(*c*) a case where an appointment is made under *section 14H(3)(a)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F45: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 11, commenced as per s. 33(2).
+>
+> F46, F47: Substituted (23.09.2024) by *Health (Miscellaneous Provisions) (No. 2) Act 2024* (29/2024), s. 27(a), (b)(i), S.I. No. 461 of 2024.
+>
+> F48: Inserted (23.09.2024) by *Health (Miscellaneous Provisions) (No. 2) Act 2024* (29/2024), s. 27(b)(ii), S.I. No. 461 of 2024.
+>
+> **Editorial Notes:**
+>
+> E14: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 14J. Recovery of sums due under section 14I
+
+F49[**14J**.— (1) Where the Executive has, by virtue of a determination under *section 14C(2) (a)* in relation to a particular family asset, advanced monies by way of an increase in State support and *section 14I(4)* applies in respect of a person in relation to that particular family asset, the Executive shall in accordance with *section 14D* calculate the amount due (in this section referred to as the "repayable amount") and give notice of that amount and particulars of how it is calculated to the relevant accountable person.
+
+(2) (*a*) The repayable amount together with any interest thereon shall be a debt due and payable to the Executive.
+
+(*b*) The Revenue Commissioners shall act as agent for the Executive in respect of the collection of monies due to the Executive under *paragraph (a)*.
+
+(3) The Executive shall within the relevant period referred to in *subsection (4)* notify the Revenue Commissioners of—
+
+(*a*) the repayable amount,
+
+(*b*) particulars of how that amount is calculated,
+
+(*c*) where a charge has been created in respect of the particular family asset by virtue of *section 14B(1)*, particulars of the interest in the chargeable land against which the repayable amount is secured,
+
+(*d*) the repayment event and the date of that event,
+
+(*e*) the name, Personal Public Service Number and address of—
+
+(i) the person in respect of whom State support was paid (in this section referred to as the "relevant person"),
+
+(ii) where the relevant person is a member of a couple, the partner of that person, and
+
+(iii) the relevant accountable person (if known to the Executive),
+
+and
+
+(*f*) such other information as the Revenue Commissioners may reasonably require for the purposes of this section.
+
+(4) The relevant period referred to in *subsection (3)* means—
+
+(*a*) where no appeal against the decision is brought under *section 32*, 10 working days after the expiration of the period specified in that section for bringing an appeal under that section, or
+
+(*b*) in the case where an appeal is brought under *section 32*, 10 working days after the date on which the decision is confirmed on appeal or the appeal is withdrawn, abandoned or otherwise not proceeded with, as the case may be.
+
+(5) Until the repayable amount is discharged to the Revenue Commissioners interest shall continue to accrue, in accordance with regulations made under *section 36*, on the repayable amount.
+
+(6) The Revenue Commissioners may furnish to the Executive such information as relates to the collection of the repayable amount and any interest accruing on that amount pursuant to regulations made under *section 36*.
+
+(7) (*a*) The Revenue Commissioners may take all steps which they consider appropriate to recover the repayable amount and interest accrued thereon, including the bringing of legal proceedings in their own name.
+
+(*b*) In every case where legal proceedings are brought by the Revenue Commissioners pursuant to *paragraph (a)* the proceedings shall indicate clearly that they are brought pursuant to the Nursing Homes Support Scheme Act 2009.
+
+(8) Where, by virtue of a determination under *section 14C(2)(a)* in relation to a particular family asset, monies are advanced by the Executive by way of an increase in State support no action shall be commenced by the Revenue Commissioners—
+
+(*a*) to recover the repayable amount or interest thereon, or
+
+(*b*) seeking the sale of the particular family asset,
+
+after the expiration of 12 years from the occurrence of the repayment event concerned.
+
+(9) The collection and recovery of a repayable amount shall be under the care and management of the Revenue Commissioners and the Commissioners may do all such acts as may be deemed necessary and expedient for collecting, receiving and accounting for a repayable amount in the like and in as full and ample a manner as they are authorised to do in relation to income tax under their care and management.
+
+(10) Monies received by the Revenue Commissioners under this section shall be paid by the Revenue Commissioners into the Central Fund.
+
+(11) The person primarily accountable for payment of the repayable amount to the Revenue Commissioners shall be—
+
+(*a*) in the case of a particular family asset which is not a transferred asset:
+
+(i) the relevant person;
+
+(ii) where the relevant person is a member of a couple, the partner of that person;
+
+(iii) where the relevant person is deceased, the personal representative of that person,
+
+or
+
+(*b*) in the case of a particular family asset which is a transferred asset:
+
+(i) the family successor appointed in relation to the particular family asset;
+
+(ii) any other person who is an owner of the transferred asset;
+
+(iii) where the family successor is deceased, the personal representative of that person.
+
+(12) A person who becomes entitled to an interest in the asset against which the repayable amount is secured shall also be accountable for payment of the repayable amount to the Revenue Commissioners.
+
+(13) (*a*) The liability of a person referred to in *subsection (11)(a)(iii)* or *(11)(b)(iii)* shall not exceed the gross value of the estate of the deceased person concerned less the amount of the funeral and testamentary expenses.
+
+(*b*) The liability of a person referred to in *subsection (12)* shall not exceed the amount of the value of the interest in the asset to which the person becomes entitled.
+
+(14) In this section, "relevant accountable person" means—
+
+(*a*) a person who as respects a particular repayment event is primarily accountable, and
+
+(*b*) a person who is accountable by reason of *subsection (12)*,
+
+for the payment of the repayable amount to the Revenue Commissioners.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F49: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 12, commenced as per s. 33(2).
+>
+> **Editorial Notes:**
+>
+> E15: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 14K. Application by partner for appointment of family successor
+
+F50[**14K**.— (1) This section applies where—
+
+(*a*) a family successor has been appointed in respect of a person (in this section referred to as the "relevant person") in relation to a particular family asset,
+
+(*b*) the period to which the undertaking given by that family successor in relation to the particular family asset under *section 14A(3)(d)*, *14F(8)(b)*, *14G(4)(b)* or *14H(5)(b)* relates has not expired,
+
+(*c*) the Executive has made a determination under *section 7(8)(a)* that the relevant person’s partner (in this section referred to as "the partner") needs care services,
+
+(*d*) the Executive has made a determination under *section 11(1)* in relation to the partner, and
+
+(*e*) the partner is receiving care services.
+
+(2) On the application of the partner, the Executive shall—
+
+(*a*) if satisfied that the conditions in *subsection (3)* are met, appoint the person specified in the application as the family successor in respect of the partner in relation to the interest that the partner and the relevant person has or had in the particular family asset, or
+
+(*b*) if not so satisfied, refuse the application.
+
+(3) The conditions referred to in *subsection (2)(a)* are—
+
+F51[(*a*) that, in the opinion of the Executive—
+
+(i) where a determination has been made in respect of the relevant person under *section 14C(2)(a)*, a repayment event has not occurred in respect of the relevant person in relation to the particular family asset, or
+
+(ii) where a determination under *section 14C(2)(a)* has not been made but, had such a determination been made (and, accordingly, had *section 14I* applied), a repayment event would not have occurred in respect of that person in relation to the particular family asset,]
+
+(*b*) that any determination made under *section 14C(2)(a)* has not been revoked,
+
+(*c*) that the person specified in the application is the family successor appointed in respect of the relevant person,
+
+(*d*) that the partner declares by way of statutory declaration that, in relation to the particular family asset, for a period of 3 years (which period need not be continuous) during the period of 5 years ending on the date on which the partner began to receive care services, a substantial part of the working time of—
+
+(i) the partner,
+
+(ii) the person specified in the application,
+
+(iii) any other person appointed as a family successor in respect of the relevant person, or
+
+(iv) the relevant person,
+
+was regularly and consistently applied to running the family asset,
+
+(*e*) that the person specified in the application undertakes by way of statutory declaration that, if appointed as a family successor in respect of the partner under *subsection (2)*, a substantial part of that person’s normal working time will regularly and consistently be applied to running the family asset during the period beginning on the date of his or her appointment under *subsection (2) (a)* and ending on the expiry of the period to which the undertaking given by the family successor in respect of the relevant person under *section 14A(3)(d)*, *14F(8)(b)*, *14G(4)(b)* or *14H(5)(b)* in relation to that particular family asset relates,
+
+(*f*) that, except where the application relates to a relevant business which does not include an interest in land situated within the State—
+
+(i) in a case where the particular family asset is not a transferred asset, the partner, the relevant person and any other owner of the particular family asset, or
+
+(ii) in a case where the particular family asset is a transferred asset, the person specified in the application and any other owner of the transferred asset,
+
+each consent to the creation by virtue of *section 14B(1)* of a further charge in favour of the Executive against the interest in the chargeable land in respect of the particular family asset,
+
+(*g*) that, where the particular family asset is a transferred asset, each owner of the transferred asset consents to the making of the application, and
+
+(*h*) that the relevant person consents to the making of the application.
+
+(4) The Executive may appoint more than one person as a family successor in respect of the partner in accordance with this section where more than one family successor has been appointed in respect of the relevant person.
+
+(5) An application under this section shall be made in the specified form.
+
+(6) In deciding an application under this section—
+
+(*a*) the Executive may request information from, and interviews with, the partner, the relevant person, the person specified in the application and any representative (whether appointed under *section 21* or otherwise) of the partner or the relevant person, and
+
+(*b*) the Executive may request, receive and consider records and information relating to the partner, the relevant person and the person specified in the application whether received pursuant to *section 45* or otherwise.
+
+(7) The persons referred to in *subsection (6)* shall furnish all information and attend any interviews which the Executive may request in accordance with this section.
+
+(8) The Executive may refuse to consider or further consider an application under this section if a person referred to in *subsection (6)* fails to provide the Executive with such information as may be requested by the application form or under that subsection within 40 working days from the date of the request.
+
+(9) Where the Executive refuses under *subsection (8)* to consider or further consider an application under this section, it shall, not later than 10 working days after the refusal, give the partner, the relevant person and the person specified in the application notice in writing of the decision and the reasons for the decision.
+
+(10) The Executive shall, not later than 10 working days after granting or refusing an application under this section, give notice in writing to the partner, the relevant person and the person specified in the application of the decision and the reasons for the decision.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F50: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 13, commenced as per s. 33(2).
+>
+> F51: Substituted (23.09.2024) by *Health (Miscellaneous Provisions) (No. 2) Act 2024* (29/2024), s. 28, S.I. No. 461 of 2024.
+>
+> **Editorial Notes:**
+>
+> E16: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 14L. Application by partner of deceased person for appointment of family successor
+
+F52[**14L**.— (1) This section applies where—
+
+(*a*) a family successor has been appointed in respect of a person (in this section referred to as the "relevant person") in relation to a particular family asset,
+
+(*b*) the relevant person dies,
+
+(*c*) immediately before the death, the period to which the undertaking given by that family successor in relation to the particular family asset under *section 14A(3)(d)*, *14F(8)(b)*, *14G(4)(b)* or *14H(5)(b)* relates has not expired,
+
+(*d*) the Executive has made a determination under *section 7(8)(a)* that the relevant person’s partner (in this section referred to as "the partner") needs care services,
+
+(*e*) the Executive has made a determination under *section 11(1)* in relation to the partner,
+
+(*f*) the partner is receiving care services, and
+
+(*g*) the partner falls into one or more of the following categories—
+
+(i) he or she has an interest in a farm,
+
+(ii) he or she has an interest in a relevant business,
+
+(iii) he or she had an interest in a farm which is a transferred asset, or
+
+(iv) he or she had an interest in a relevant business which is a transferred asset.
+
+(2) On the application of the partner, the Executive shall—
+
+(*a*) if satisfied that the conditions in *subsection (3)* are met, appoint the person specified in the application as the family successor in respect of the partner in relation to the interest that the partner has or (in the case of a transferred asset) had in the particular family asset, or
+
+(*b*) if not so satisfied, refuse the application.
+
+(3) The conditions referred to in *subsection (2)(a)* are—
+
+F53[(*a*) that, in the opinion of the Executive—
+
+(i) where a determination has been made in respect of the relevant person under *section 14C(2)(a)*, a repayment event has not occurred in respect of the relevant person in relation to the particular family asset, or
+
+(ii) where a determination under *section 14C(2)(a)* has not been made but, had such a determination been made (and, accordingly, had *section 14I* applied), a repayment event would not have occurred in respect of that person in relation to the particular family asset,]
+
+(*b*) that any determination made under *section 14C(2)(a)* has not been revoked,
+
+(*c*) that, where a determination was made under *section 14C(2)(a)* in respect of the relevant person, the person specified in the application is the family successor appointed in respect of the relevant person,
+
+(*d*) that, where no determination was made under *section 14C(2)(a)* in respect of the relevant person, the person specified in the application is—
+
+(i) the family successor appointed in respect of the relevant person,
+
+(ii) a relative of the relevant person or of the partner, or
+
+(iii) F54[a son-in-law, daughter-in-law, great-grandchild, great-nephew, great-niece or first cousin, or a child, grandchild or great-grandchild of a first cousin,] of the relevant person or of the partner,
+
+(*e*) that the partner declares by way of statutory declaration that, in relation to the particular family asset, for a period of 3 years (which period need not be continuous) during the period of 5 years ending on the date on which the partner began to receive care services, a substantial part of the working time of—
+
+(i) the partner,
+
+(ii) the person specified in the application,
+
+(iii) any other person appointed as a family successor in respect of the relevant person, or
+
+(iv) the relevant person,
+
+was regularly and consistently applied to running the family asset,
+
+(*f*) that the person specified in the application undertakes by way of statutory declaration that, if appointed as a family successor in respect of the partner under *subsection (2)*, a substantial part of that person’s normal working time will regularly and consistently be applied to running the family asset during the period beginning on the date of his or her appointment under *subsection (2)(a)* and ending on the expiry of the period to which the undertaking given by the family successor in respect of the relevant person under *section 14A(3)(d)*, *14F(8)(b)*, *14G(4)(b)* or *14H(5)(b)* in relation to that particular family asset relates,
+
+(*g*) that, except where the application relates to a relevant business which does not include an interest in land situated within the State—
+
+(i) in a case where the particular family asset is not a transferred asset, the partner and any other owner of the particular family asset, or
+
+(ii) in a case where the particular family asset is a transferred asset, the person specified in the application and any other owner of the transferred asset,
+
+each consent to the creation by virtue of *section 14B(1)* of a further charge in favour of the Executive against the interest in the chargeable land in respect of the particular family asset, and
+
+(*h*) that, where the particular family asset is a transferred asset, each owner of the transferred asset consents to the making of the application.
+
+(4) Where no determination under *section 14C(2)(a)* was made in respect of the relevant person, the period beginning with the appointment of a family successor in respect of the relevant person and ending with the death of the relevant person shall be taken into account in reckoning the period mentioned in *subsection (3)(f)*.
+
+(5) The Executive may appoint more than one person as a family successor in respect of the partner in accordance with this section.
+
+(6) An application under this section shall be made in the specified form.
+
+(7) In deciding an application under this section—
+
+(*a*) the Executive may request information from, and interviews with, the partner, the person specified in the application and any representative (whether appointed under *section 21* or otherwise) of the partner, and
+
+(*b*) the Executive may request, receive and consider records and information relating to the partner and the person specified in the application whether received pursuant to *section 45* or otherwise.
+
+(8) The persons referred to in *subsection (7)* shall furnish all information and attend any interviews which the Executive may request in accordance with this section.
+
+(9) The Executive may refuse to consider or further consider an application under this section if a person referred to in *subsection (7)* fails to provide the Executive with such information as may be requested by the application form or under that subsection within 40 working days from the date of the request.
+
+(10) Where the Executive refuses under *subsection (9)* to consider or further consider an application under this section, it shall, not later than 10 working days after the refusal, give the partner and the person specified in the application notice in writing of the decision and the reasons for the decision.
+
+(11) The Executive shall, not later than 10 working days after granting or refusing an application under this section, give notice in writing to the partner and the person specified in the application of the decision and the reasons for the decision.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F52: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 14, commenced as per s. 33(2).
+>
+> F53, F54: Substituted (23.09.2024) by *Health (Miscellaneous Provisions) (No. 2) Act 2024* (29/2024), s. 29(a), (b), S.I. No. 461 of 2024.
+>
+> **Editorial Notes:**
+>
+> E17: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 14M. Determination as to farm or business relief where family successor fulfils undertaking
+
+F55[**14M**.— (1) This section applies where—
+
+(*a*) a determination has been made under *section 14C(2)(a)* in respect of a person (in this section referred to as the "relevant person") in relation to a particular family asset,
+
+(*b*) the period to which the undertaking given by the family successor in relation to the particular family asset under *section 14A(3)(d)*, *14F(8)(b)*, *14G(4)(b)* or *14H(5)(b)* relates expires,
+
+(*c*) if the relevant person has died, the relevant person’s partner (in this section referred to as "the partner") has an interest in the particular family asset, and
+
+(*d*) after the expiry of the period mentioned in *paragraph (b)*—
+
+(i) the Executive has made a determination under *section 7(8)(a)* that the partner needs care services, F56[and]
+
+(ii) the Executive has made a determination under *section 11(1)* in relation to the F57[the partner.]
+
+(iii) F58[...]
+
+(2) The partner need not make an application under this Act for the appointment of a family successor in relation to the particular family asset.
+
+(3) The Executive shall make a determination that, with effect from the date specified in the determination, *paragraph 6B* of *Part 3* of *Schedule 1* applies in respect of the partner in relation to the particular family asset.
+
+(4) Where the Executive makes a determination under *subsection (3)*, the date specified in the determination shall not be earlier than the date by which the partner has received any combination of relevant services for a period of 3 years (which period need not be continuous).
+
+(5) In this section, "relevant services" has the same meaning as in *section 14C*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F55: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 15, commenced as per s. 33(2).
+>
+> F56: Inserted (23.09.2024) by *Health (Miscellaneous Provisions) (No. 2) Act 2024* (29/2024), s. 30(a), S.I. No. 461 of 2024.
+>
+> F57: Substituted (23.09.2024) by *Health (Miscellaneous Provisions) (No. 2) Act 2024* (29/2024), s. 30(b), S.I. No. 461 of 2024.
+>
+> F58: Deleted (23.09.2024) by *Health (Miscellaneous Provisions) (No. 2) Act 2024* (29/2024), s. 30(c), S.I. No. 461 of 2024.
+>
+> **Editorial Notes:**
+>
+> E18: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### Offence of giving false or misleading information to Executive under certain provisions
+
+F59[**14N**.— Any person who knowingly, or recklessly, gives the Executive information which is false or misleading in a material particular in, with, or in connection with—
+
+(*a*) an application under *section 14A*, *14F*, *14G*, *14H*, *14K* or *14L*,
+
+(*b*) a notification under *section 14F* or *14G*,
+
+(*c*) a determination under *section 14C* or *14M*,
+
+(*d*) a review under *section 14E*, or
+
+(*e*) a decision under *section 14I*,
+
+is guilty of an offence and is liable on summary conviction to a class A fine or imprisonment for a term not exceeding 3 months or both.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F59: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 16, commenced as per s. 33(2). A class A fine means a fine not exceeding €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E19: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+## PART 3 Ancillary State Support — PART 3 — Ancillary State Support
+
+### 15. Interpretation (Part 3).
+
+**15**.— In this Part—
+
+“chargeable asset” means an asset other than a transferred asset which is a relevant asset of the person who receives care services or of the partner of such a person, or of both of them, and which—
+
+(*a*) is an asset which is included in the computation of the weekly assessed means of a person, and
+
+(*b*) comprises an interest in land, which land is situated within the State;
+
+“ancillary State support” means monies advanced by the Executive by way of loan in accordance with this Part.
+
+### 16. Ancillary State support.
+
+**16**.— (1) Ancillary State support may, in accordance with this section, be paid to or in respect of a person—
+
+(*a*) who has made an application for State support,
+
+(*b*) in respect of whom a financial assessment has been carried out, and
+
+(*c*) unless the Executive otherwise determines, with effect on and from, but not prior to, a determination by the Executive that ancillary State support be paid in respect of such person.
+
+(2) Ancillary State support may be paid to or in respect of a person referred to in *subsection (1)* notwithstanding the fact that State support is not being paid to or in respect of that person.
+
+(3) (*a*) Ancillary State support shall not be paid to or in respect of a person unless that person (or a care representative of such person) requests that such ancillary State support be paid.
+
+(*b*) Where the person in respect of whom a request for payment of ancillary State support is made is a member of a couple, the request for payment of such ancillary State support shall be made by both members of the couple (or a care representative of such person).
+
+(4) The request for payment of ancillary State support shall be made in the specified form which form shall incorporate an acknowledgement that payment of ancillary State support results in the creation of a charge in favour of the Executive (which by virtue of this Act is deemed to be a mortgage made by deed) against the interest of the person to whom the payment relates and of the partner of that person in such land as is specified in the request for payment of ancillary State support.
+
+(5) (*a*) The Executive may make payment of ancillary State support to or in respect of a person by reference to the assessed weekly value of relevant assets which are chargeable assets.
+
+(*b*) The Executive may not make payment of ancillary State support in relation to an asset which is not a chargeable asset comprised in the assessed weekly value of relevant assets of the person concerned.
+
+(6) The amount of ancillary State support which may be advanced by the Executive to a person shall be computed in accordance with *subsections (5)*, *(7)* and *(12)*.
+
+(7) (*a*) The monies advanced by the Executive by way of ancillary State support shall be advanced on the basis of weekly instalments.
+
+(*b*) The amount of such weekly instalment in relation to a person shall not exceed that part of the annual assessed relevant assets amount relating to the chargeable assets of that person divided by 52.
+
+(*c*) Notwithstanding *paragraphs (a)* and *(b)*, the weekly instalment of ancillary State support may be advanced on such periodic basis (not exceeding 2 months) as is specified in writing by the Minister.
+
+(8) Monies advanced by the Executive by way of ancillary State support in respect of care services for the person to whom the application for State support relates and which are advanced in accordance with *section 18* shall be deemed to have been paid to and for the benefit of the person who or on whose behalf the request for such ancillary State support was made or, in the case of a person who is a member of a couple, to and for the benefit of both members of the couple.
+
+(9) Where monies are advanced by way of ancillary State support which by reason of *subsection (8)* are deemed to have been advanced to both members of the couple, the liability of the members of the couple in relation to such advances shall be joint and several.
+
+(10) (*a*) Subject to *section 42*, it shall be a condition of the payment of ancillary State support that the monies advanced by the Executive in respect of such support shall not become repayable prior to the occurrence of a relevant event or a deferred relevant event.
+
+(*b*) Nothing in *paragraph (a)* shall prevent the voluntary repayment of monies advanced by the Executive by way of ancillary State support prior to the occurrence of a relevant event or a deferred relevant event.
+
+(11) The amount repayable in respect of ancillary State support shall be the aggregate of monies advanced by the Executive by way of ancillary State support adjusted in accordance with *Schedule 2* together with interest, if any, computed in accordance with *subsection (15)*.
+
+(12) The amount of a weekly instalment advanced in respect of ancillary State support or, in a case where a request has been made that ancillary State support be paid in relation to the same person in respect of more than one chargeable asset, the aggregate of weekly instalments of ancillary State support advanced in relation to the same person, shall not exceed the amount produced by the application of the following formula:
+
+T - (A+B+R+S)
+
+where—
+
+T is the total weekly cost of care services applicable to the person concerned,
+
+A is the assessed weekly income of the person concerned,
+
+B is the assessed weekly cash assets of the person concerned,
+
+R is the assessed weekly value of the relevant assets of the person concerned and which are not chargeable assets, and
+
+S is the amount of State support payable in respect of the person concerned.
+
+(13) Where a relevant asset of a person who receives care services or of the partner of such a person, or of both of them, ceases to be a chargeable asset for a reason not related to *paragraph (a)* of the definition of “chargeable asset” in *section 15*—
+
+(*a*) the person (or the person’s care representative, if any) or, if applicable, the partner of such person (or the partner’s care representative, if any) shall, as soon as is practicable after the occurrence of such cesser but, in any case, not later than 10 working days after the occurrence of such cesser, give notice in writing to the Executive of the cesser and the date on which it occurred, and
+
+(*b*) the Executive shall cease to make payments of such part of ancillary State support which relates to the former chargeable asset.
+
+(14) The Executive may, following a review of a financial assessment under *section 30*, alter the amount of ancillary State support paid in respect of a person under this section.
+
+(15) Where the Executive makes payments to or on behalf of a person by way of ancillary State support and, as the case may be, a relevant event or a deferred relevant event occurs, interest shall accrue on the amount which is the aggregate of the amounts advanced by way of ancillary State support adjusted in accordance with *Schedule 2*, which interest shall be calculated in accordance with regulations made under *section 36* for the purposes of this subsection.
+
+(16) The Executive shall, not later than 10 working days after making a determination under this section that an application for payment of ancillary State support be refused or a determination of the amount of ancillary State support to be advanced, give notice in writing of the decision and the reasons for the decision to each person who made the application.
+
+(17) (*a*) The Minister may make regulations for the purpose of this section prescribing circumstances in which a person who is a member of a couple is not required to make a request for payment of ancillary State support.
+
+(*b*) Regulations made under this subsection may provide for—
+
+(i) the making of applications to the Minister for a decision by the Minister dispensing with the requirement in that case for the request for ancillary State support to be made by both members of a couple, and
+
+(ii) the matters to be taken into consideration by the Minister in considering such applications.
+
+(18) The Minister shall not make a decision pursuant to regulations made under *subsection (17)* dispensing with the requirement for a request for payment of ancillary State support by one member of a couple unless he or she is satisfied that the person who would otherwise be required to make such request for ancillary State support has no interest in the asset to which the application relates.
+
+(19) The Minister shall not make a decision dispensing with the requirement for a request for ancillary State support to be made by a person in respect of more than one member of a couple.
+
+### 17. Ancillary State support to be charge against land.
+
+**17**.— (1) In this section—
+
+“authorised person” means a person authorised by the Board of the Executive for the purposes of—
+
+(*a*) making orders under *subsection (2)*,
+
+(*b*) transmitting orders by electronic means to the Property Registration Authority in accordance with *subsection (13)*,
+
+(*c*) making an application to the Property Registration Authority for the cancellation of an entry of a charge on the register of the property charged where such charge relates to an order created under this section, and
+
+(*d*) performing functions which under this Act may be performed by authorised persons;
+
+“interest in the relevant chargeable asset” means—
+
+(*a*) the interest of the person in respect of whom ancillary State support is paid, and
+
+(*b*) in the case of such a person who is a member of a couple, the interest of each member of the couple,
+
+in the chargeable asset concerned;
+
+“secured amount”, in relation to a chargeable asset, means the aggregate of all amounts advanced by the Executive (whether before or after the making of an order under *subsection (2)*) in respect of a person by way of ancillary State support adjusted in accordance with *Schedule 2* together with interest thereon calculated in accordance with *section 16(15)* and which amounts relate to the interest of that person or of that person’s partner, or of both of them, in that chargeable asset.
+
+(2) (*a*) Where the Executive has received a request for payment of ancillary State support and the Executive is satisfied that it is appropriate that payment of such support be made, the Executive shall make an order in accordance with this section.
+
+(*b*) The Executive shall not make a payment in respect of ancillary State support prior to the making of an order by the Executive charging the interest in the relevant chargeable asset with the secured amount.
+
+(3) The Board of the Executive may appoint a person or persons who are employees of the Executive to make orders under *subsection (2)* and each such order shall be deemed to have been executed by the Executive under the seal of the Executive in compliance with paragraph 1 of Schedule 2 of the Health Act 2004.
+
+(4) An order made under *subsection (2)* shall be deemed to be a mortgage made by deed within the meaning of the Conveyancing Acts 1881 to 1911 in favour of the Executive for a charge of the secured amount and to have been executed at the time of the making of the order.
+
+(5) The Executive shall from the date of the making of the order under *subsection (2)*—
+
+(*a*) be deemed to be a mortgagee of the property for the purposes of the Conveyancing Acts 1881 to 1911, and
+
+(*b*) have, in relation to the charge referred to in *subsection (2)*, all the powers conferred by those Acts on mortgages made by deed.
+
+(6) Where the Executive makes an order under *subsection (2),* it shall, as soon as practicable thereafter, cause the order to be registered in the Registry of Deeds or the Land Registry, as appropriate.
+
+(7) An order made under *subsection (2)* affecting an interest in land which is registered land within the meaning of the Registration of Title Act 1964 shall be registrable as a burden affecting such land whether the person named in such order as the owner of the land is or is not registered under that Act as the owner of such land, and the Property Registration Authority shall on application being made to it register such order affecting the land concerned.
+
+(8) Any amount paid by way of ancillary State support, whether or not it is the subject of a mortgage arising by reason of this section, may, without prejudice to any other power in that behalf, be recovered by the Executive as a simple contract debt in any court of competent jurisdiction.
+
+(9) For the avoidance of doubt, neither an order made under *subsection (2)* nor a mortgage that arises under it shall be regarded as a conveyance for the purposes of section 3 of the Family Home Protection Act 1976.
+
+(10) Subject to *subsection (11)*, notwithstanding any rule of law or statutory provision, where a mortgage is created by reason of an order under *subsection (2)* and registered in the Registry of Deeds or the Land Registry as appropriate and a subsequent mortgage is created in favour of a party other than the Executive, the Executive is entitled to priority over any subsequent mortgage in respect of advances made by the Executive after the date of the subsequent mortgage whether the Executive did or did not have notice of such subsequent mortgage.
+
+(11) *Subsection (10)* does not apply as respects a subsequent mortgage where the Executive has consented in writing to such subsequent mortgage subject to any conditions specified in that consent.
+
+(12) A person who makes a request for payment of ancillary State support shall have an obligation to give all reasonable assistance to the Executive as the Executive may request to facilitate the registration of an order under *subsection (2)* in the Land Registry or Registry of Deeds, and the Executive shall not be required to make a payment of ancillary State support where such assistance has not been given.
+
+(13) (*a*) An order made under *subsection (2)* shall be in the form prescribed by regulations made under *section 36*, and may be made—
+
+(i) by an authorised person, and
+
+(ii) in electronic form.
+
+(*b*) Where an order is made in electronic form under this section, an authorised person may transmit the order by electronic means to the Property Registration Authority for registration in the Land Registry, and the Property Registration Authority may effect registration of the order if—
+
+(i) it is lodged by electronic means in a manner approved by, and
+
+(ii) it complies with the requirements specified by,
+
+the Property Registration Authority.
+
+(14) Where an order under this section made in electronic form purports to have been made by an authorised person it shall be presumed by the Property Registration Authority that such electronic document was made and transmitted by the person by whom it purports to have been made and transmitted.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E20: Fee chargeable in respect of application to Land Registry for registration of order made under subs. (2) prescribed (1.12.2012) by *Land Registration (Fees) Order 2012* (S.I. No. 380 of 2012), art. 2(c), in effect as per art. 1(2).
+>
+> E21: Terms “grantor” and “grantee” construed in respect of registration of charging order under section (25.11.2009) by *Registration of Deeds (No. 2) Rules 2009* (S.I. No. 457 of 2009), rl. 4.
+>
+> E22: Form of charging orders in connection with applications for ancillary State support, and of applications and receipts for the release or discharge of such charging orders prescribed (30.10.2009) by *Nursing Homes Support Scheme (Making and Discharge of Orders) Regulations 2009* (S.I. No. 437 of 2009).
+>
+> E23: Previous affecting provision: fee chargeable in respect of application to Land Registry for registration of order made under subs. (2) prescribed (27.10.2009) by *Land Registration (Fees) Order 2009* (S.I. No. 425 of 2009), in effect as per art. 1(2), subsequently revoked (1.12.2012) by *Land Registration (Fees) Order 2012* (S.I. No. 380 of 2012), art. 2(c), in effect as per art. 1(2).
+
+### 18. Payment of ancillary State support.
+
+**18**.— (1) Where a person and, in the case of a couple, a person and his or her partner, request payment of ancillary State support, the Executive may make such payment of ancillary State support in respect of the person concerned—
+
+(*a*) in the case of care services falling within *paragraph (a) (i)* of the definition of “long-term residential care services”, by the transfer by the Executive of the appropriate amount of ancillary State support to the relevant facility,
+
+(*b*) in the case of care services falling within *paragraph (a)(ii)* of the definition of “long-term residential care services”, by the payment by the Executive of the appropriate amount of ancillary State support to the proprietor of the approved nursing home in which the person resides and is being maintained.
+
+(2) The Executive shall keep records and accounts relating to payments made under this section.
+
+(3) Where ancillary State support is paid to or on behalf of a person in relation to different chargeable assets, it shall be recorded by the Executive in a manner which identifies separately the amount of ancillary State support advanced in respect of each chargeable asset.
+
+### 19. Repayment of monies advanced by way of ancillary State support.
+
+**19**.— (1) Subject to *subsection (5)*, in this section—
+
+“relevant event”, in relation to ancillary State support paid to or in respect of a particular person, means—
+
+(*a*) the death of the person concerned who is receiving care services,
+
+(*b*) the transfer of any part of the interest in a charged asset of any person who has requested the payment of ancillary State Support,
+
+(*c*) the adjudication as a bankrupt of—
+
+(i) the person in respect of whom the payment of ancillary State support was made, or
+
+(ii) the person who as partner of the person referred to in *subparagraph (i)* also requested payment of ancillary State support,
+
+(*d*) a determination by the Executive that information given to it by or on behalf of a person who has requested payment of the ancillary State support concerned is false or misleading in a material particular the effect of which is, in the opinion of the Executive, to jeopardise the enforceability of the charge referred to in *section 17.*
+
+(2) (*a*) The Executive shall not make a determination referred to in *paragraph (d)* of the definition of “relevant event” in *subsection (1)* unless it has given reasonable notice to each person who requested payment of ancillary State support and given such persons a reasonable opportunity to make representations in relation to the matter.
+
+(*b*) Representations referred to in *paragraph (a)* shall, unless the Executive permits otherwise, be made in writing.
+
+(3) Where a person who has requested payment of ancillary State support as respects a parcel of land transfers any part of an interest in such land that person shall give notice of such transfer to the Executive within 10 working days of the date of the transfer.
+
+(4) On the date of the occurrence of a relevant event, the amount of ancillary State support advanced or in the course of being advanced by reference to the asset concerned, adjusted in accordance with *Schedule 2* shall, subject to *subsection (5)*, become due and payable.
+
+(5) The occurrence of an event referred to in *paragraph (a)* of the definition of “relevant event” in *subsection (1)* shall not be considered to be a relevant event in a case where *section 20* applies.
+
+### 20. Repayment of monies advanced by way of ancillary State support where deferral of occurrence of relevant event applies.
+
+**20**.— (1) This section applies where—
+
+(*a*) payment of ancillary State support has been made in respect of a person receiving care services and the asset concerned is the principal residence of that person,
+
+(*b*) the death occurs of the person who has been in receipt of care services and in respect of whom the ancillary State support was paid, and
+
+(*c*) the conditions specified in *subsection (2)* are met.
+
+(2) The conditions referred to in *subsection (1) (c)* are:
+
+(*a*) that—
+
+(i) the asset concerned is the principal residence of the surviving partner of the person who has died; and
+
+(ii) such partner (or the partner’s representative) has made a request in the specified form to the Executive for the application of this section in his or her case and such request is made not later than 3 months after the death concerned (or such longer period, not exceeding 6 months after that death, as the Executive thinks appropriate); or
+
+(*b*) the Executive is satisfied that—
+
+(i) the asset concerned is the residence of a connected person and that such person does not have any other residence;
+
+(ii) the connected person has ordinarily resided in the asset concerned for a period of not less than 3 years immediately preceding the date of the making of the request for payment of ancillary State Support;
+
+(iii) the connected person does not have an interest in any other residential property; and
+
+(iv) the connected person (or the connected person’s representative) has made a request in the specified form to the Executive for the application of this section in his or her case and such request is made not later than 3 months after the death concerned (or such longer period, not exceeding 6 months after that death, as the Executive thinks appropriate),
+
+(*c*) and in each case that every person appearing to the Executive to have an interest in the asset concerned consents, subject to *subsection (9)*, to the monies advanced by way of ancillary State support not becoming repayable until the occurrence of a deferred relevant event.
+
+(3) Where the Executive makes a determination that the conditions specified in *subsection (2)* have been met, the Executive shall, not later than 10 working days after making that determination, give notice in writing of the decision and the reasons for the decision to each person who made the application.
+
+(4) In this section, “connected person” means a person who is—
+
+(*a*) a child of the person in respect of whom payment of ancillary State support was made, or of the partner of such person, and—
+
+(i) such child is under 21 years of age, or
+
+(ii) where such child has attained the age of 21 years, that the aggregate of his or her cash assets and relevant assets is not greater than the general assets deductible amount,
+
+(*b*) a sibling of the person in respect of whom payment of ancillary State support was made, and the aggregate of whose cash assets and relevant assets is not greater than the general assets deductible amount,
+
+(*c*) a relative of the person in respect of whom payment of ancillary State support was made and—
+
+(i) who is in receipt of a disability or similar allowance,
+
+(ii) who is in receipt of blind person’s pension,
+
+(iii) who is in receipt of State pension (non-contributory),
+
+(iv) who is in receipt, from a place outside the State, of any equivalent to an allowance or pension referred to in *subparagraph (i)*, *(ii)* or *(iii)*, or
+
+(v) whose total income is not more than the maximum rate of State pension (contributory),
+
+(*d*) a person who, by reason of caring for the person in respect of whom ancillary State support was paid, was in receipt of payment of Carer's Allowance, Carer's Benefit or the Respite Care Grant at any time during the period of 12 months prior to such person entering into long-term residential care, and that such care was provided for a continuous period of not less than 6 months, or
+
+(*e*) a relative of the person who is the owner of a building to which the principal residence is attached.
+
+(5) Where this section applies, the monies advanced by way of ancillary State support shall not become repayable until the occurrence of a deferred relevant event.
+
+(6) In this section “deferred relevant event” means—
+
+(*a*) where this section applies by reason of the death of a person referred to in *subsection (1)(b)*, the death of the partner of that person,
+
+(*b*) that the conditions specified in *subsection (2)* cease to apply,
+
+(*c*) the death of a person who was a connected person or that person ceasing to come within the definition of “connected person”, or
+
+(*d*) the transfer of an interest in the asset concerned,
+
+whichever first occurs.
+
+(7) In this section, “cash assets”, “general assets deductible amount” and “relevant assets” have the same meaning as they have in *Schedule 1*.
+
+(8) The monies advanced by way of ancillary State support, adjusted in accordance with *Schedule 2*, shall, subject to the provisions of this section, become due and payable on the day on which a deferred relevant event occurs.
+
+(9) Nothing in this section shall operate to defer or prevent the operation of *paragraph (c)* or *(d)* of the definition of “relevant event” in *section 19(1)* or the obligation to pay monies arising by reason of the occurrence of a relevant event referred to in either of those paragraphs.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C3: Reference in subs. (4)(d) to respite care grant construed (1.01.2016) by *Social Welfare and Pensions Act 2015* (47/2015), s. 5(2), commenced as per subs. (3).
+>
+> **Renaming of respite care grant**
+>
+> **5.** ...
+>
+> (2) Every reference in any Act, or in any instrument made under any Act, passed or made before the commencement of this section, to respite care grant shall be construed as a reference to carer’s support grant.
+>
+> (3) This section comes into operation on 1 January 2016.
+
+## PART 4 Care Representative — PART 4 — Care Representative
+
+### 21. Appointment of care representative in case of person not having full capacity.
+
+**21**.— (1) This section applies to the following matters:
+
+(*a*) the making of an application for ancillary State support,
+
+(*b*) consenting to the creation of a charge in relation to an interest in land situated within the State,
+
+(*c*) taking necessary actions in connection with the application for ancillary State support, the making of an order under *section 17(2)* or the registration of such order in the Land Registry or the Registry of Deeds (including the perfection of the title of the person to whom F60[the application relates),]
+
+F61[(*d*) the appointment of a family successor or family successors, including selecting an appropriate person or persons to act as family successor, the making of an application under *section 14A*, *14G*, *14H*, *14K* or *14L* for the appointment of a family successor and taking necessary actions in connection with such application or applications,
+
+(*e*) taking necessary actions in connection with the making of an order under *section 14B(1)* or the registration of such order in the Land Registry or the Registry of Deeds (including the perfection of the title of the person to whom the application relates),
+
+(*f*) such other matters as may be prescribed.]
+
+(2) It shall be presumed, until the contrary is established, that a person has full mental capacity.
+
+(3) This section does not apply to a person—
+
+(*a*) who is a ward of court,
+
+(*b*) who has appointed a person to be his or her attorney under an enduring power of attorney and—
+
+(i) the attorney is not prohibited or restricted by the terms of the power from performing any matter to which this section applies, and
+
+(ii) the enduring power of attorney has been registered and the registration has not been cancelled,
+
+or
+
+(*c*) in respect of whom another person is permitted by law to act on behalf of that person in relation to a matter to which this section applies notwithstanding that the person concerned does not have the capacity to make a decision in relation to such a matter.
+
+(4) (*a*) Where a person (a “relevant person”) does not, for the time being, have the capacity to make a decision in relation to a matter to which this section applies, a person belonging to a class of persons referred to in *subsection (12)* may apply to the court for an order appointing that person to be a care representative in relation to a matter which is a matter to which this section applies and which is specified in the order.
+
+(*b*) Nothing in *paragraph (a)* shall be construed as requiring the making of an application in relation to a relevant person unless *section 16(3)(b)* applies.
+
+(5) If the court is satisfied that the relevant person concerned is incapable, for the time being, of making a decision to which this section applies, and the court determines that it is in the best interests of the relevant person concerned, having regard to—
+
+(*a*) the expressed wishes (if known) of the relevant person concerned, and
+
+(*b*) the circumstances of the relevant person concerned,
+
+the court may appoint a person to be a care representative in accordance with this section.
+
+(6) The court may appoint more than one person to be a care representative of a relevant person and unless the court otherwise orders the care representatives shall act jointly.
+
+(7) An order under this section appointing a care representative shall not permit the care representative to make any decision or take any action on behalf of the relevant person unless that decision is one to which this section applies and is specified in the order.
+
+(8) An order under this section shall not be construed as making a determination as respects the capacity of the relevant person concerned otherwise than in relation to a matter to which this section applies and which is specified in the order.
+
+(9) An order made under this section shall not otherwise affect the power of the relevant person concerned to deal with his or her property and affairs.
+
+(10) Notice of every application under this section shall be given to the person to whom the application relates, unless the court determines that such notice need not be given.
+
+(11) A person applying to be appointed under this section shall furnish such information to the court as the court may require in connection with the application.
+
+(12) Subject to *subsections (13)* to *(15)*, a person belonging to one of the following classes of persons may apply to be appointed as a care representative:
+
+(*a*) where the person is a member of a couple, the other member of the couple;
+
+(*b*) a parent of the relevant person;
+
+(*c*) a child of the relevant person;
+
+(*d*) a brother or sister (whether of the whole or half blood) of the relevant person;
+
+(*e*) a niece or nephew of the relevant person;
+
+(*f*) a grandchild of the relevant person;
+
+(*g*) a grandparent of the relevant person;
+
+(*h*) an aunt or uncle of the relevant person;
+
+(*i*) a person, other than a person who is—
+
+(i) the proprietor of a nursing home in which the relevant person resides or is likely to reside, or
+
+(ii) one of the registered medical practitioners who examined the relevant person and prepared a report referred to in *subsection (18)* in respect of such person,
+
+and who appears to the court to have a good and sufficient interest in the welfare of the relevant person.
+
+(13) The right of a person referred to in *subsection (12)* to apply to be a care representative shall operate in descending priority, but a person with a greater priority may consent in writing to an application by and appointment of a person with a lesser priority.
+
+(14) An application may be made by a person referred to in *subsection (12)* even where there is a person with equal or greater priority and consent under *subsection (13)* has not been given, and notice of such application shall, subject to *subsection (17)*, be given to each such person having an equal or greater priority.
+
+(15) The court shall not be bound by the giving of a consent referred to in *subsection (13).*
+
+(16) Where there is more than one person within a class of persons referred to in *subsection (12)*, an application may be made by one such person, but the court shall be satisfied that all other persons within that class or a class which has greater priority have received proper notice of the application.
+
+(17) The court may give directions relating to the manner of giving notice to a person under this section and may deem any notice given to be sufficient or may, on sufficient cause being shown, dispense with the giving of notice of the application.
+
+(18) (*a*) The court shall not appoint a person to be a care representative unless it has before it a report from at least two registered medical practitioners who have examined the relevant person concerned and such reports confirm that the person does not have the capacity to make the decisions to which this section applies and setting out the basis for that conclusion.
+
+(*b*) A report referred to in *paragraph (a)* shall be in the form prescribed, under regulations made under *section 36*, for the purposes of this paragraph.
+
+(19) The court may hear such other evidence relating to—
+
+(*a*) the health or circumstances of the person concerned, and
+
+(*b*) the circumstances of the partner of the person concerned,
+
+as it considers necessary to determine whether it should make an order under this section.
+
+(20) On being satisfied that it is appropriate to do so, the court may, in accordance with this section, appoint a person—
+
+(*a*) who is of full age and full capacity, and
+
+(*b*) who is, in the view of the court, a fit and proper person,
+
+to be a representative (in this section referred to as a “care representative”) of the person in respect of whom the application is made.
+
+(21) The court shall not appoint a person to be a care representative if that person is—
+
+(*a*) a person who has been adjudicated a bankrupt unless the bankruptcy has been discharged or the adjudication annulled,
+
+(*b*) a person who has been convicted of an offence involving fraud or dishonesty, or
+
+(*c*) a person who has been convicted of an offence against the person or property of the person concerned.
+
+(22) An order appointing a care representative shall be subject to such conditions restricting the care representative’s powers to act in relation to the matters to which this section applies as the court considers appropriate and as are specified in the order.
+
+(23) Nothing in this section shall prevent the Court appointing a person to be a care representative of both members of a couple where—
+
+(*a*) the provisions of this section have been complied with in relation to both members of the couple, and
+
+(*b*) the Court considers that it is in the best interests of both members of the couple to do so.
+
+(24) The Executive shall be entitled to deal with a care representative as if that care representative were the person in respect of whom he or she has been appointed and that such person had full legal capacity.
+
+(25) Where an event specified in *subsection (21)* occurs as respects a care representative which would have prevented that person‘s appointment by reason of that subsection, the person concerned shall cease to be a care representative, and that person shall notify the Executive and the Court by which the appointment was made within 10 working days of such cesser.
+
+(26) Where an order appointing a care representative ceases to have effect (for whatever reason), such cesser shall not prejudice the validity of anything previously done by the care representative under and in accordance with the appointment.
+
+(27) Any transaction between a care representative and another person shall, in favour of that other person, be as valid as if it had been entered into by the person to whom the order relates and that other person.
+
+(28) Where a person is appointed to be a care representative, he or she shall have a duty to act in the best interests of the person in respect of whom he or she has been appointed and to keep records relating to his or her actions, and have a duty to give all reasonable assistance to the Executive in relation to the registration of an order under *section 17 (2).*
+
+(29) Where the court has appointed more than one care representative under *subsection (6)* an application may, on notice to any other care representative, be made to the court for directions*.*
+
+(30) On application being made to the court by any person appearing to the court to have a good and sufficient interest in the welfare of the person to whom the application relates, the court may in accordance with this section appoint a person to be a care representative in place of a care representative previously appointed where—
+
+(*a*) the care representative appointed previously has died or is no longer of full capacity,
+
+(*b*) the care representative has indicated to the court that he or she wishes to resign, or
+
+(*c*) the appointment of the care representative has been revoked by the court.
+
+(31) On application being made to it by any person appearing to the court to have a good and sufficient interest in the welfare of the person to whom the order relates, the court may at any time direct a person appointed to be a care representative to do any of the following:
+
+(*a*) prepare and file with the court a report of his or her actions as a care representative;
+
+(*b*) attend before the court with such records and documents as may be specified.
+
+(32) The court on the hearing of the application under *subsection (30)* or *(31)* may, if it considers it in the best interests of the person, revoke the appointment of a person appointed to be a care representative and appoint another person to be a care representative.
+
+(33) Where more than one person stands appointed to act as a care representative of a person, the court in hearing the application under *subsections (30)* or *(31)* may revoke the appointment as respects one of the care representatives but not as respects the other or others and may appoint another person to be a care representative in place of the person whose appointment has been revoked.
+
+(34) Where the court revokes the appointment of a care representative such revocation shall be without prejudice to the validity of anything previously done by the representative under and in accordance with the appointment.
+
+(35) Where—
+
+(*a*) an order under this section; or
+
+(*b*) any decision or action taken by a care representative on foot of an order under this section,
+
+is set aside or declared to be invalid by any court, such setting aside or declaration of invalidity shall not affect the obligation or liability of—
+
+(i) the person on behalf of whom ancillary State support was paid, or
+
+(ii) the person who, or on behalf of whom the request that ancillary State support be paid was made,
+
+to repay such monies as if the order, decision or action had not been so set aside or declared to be invalid.
+
+(36) Applications or proceedings—
+
+(*a*) under this section, and
+
+(*b*) to which subparagraph (xxxvi) (inserted by *section 22*) of paragraph 1 of the Second Schedule to the Courts and Court Officers Act 1995 refers,
+
+shall be heard otherwise than in public.
+
+(37) Unless the Court otherwise directs the requirements relating to the giving of notice which apply to an application seeking the appointment of a care representative shall also apply to applications under *subsections (30)* and *(31)*.
+
+(38) Any application or proceedings under this section (including the making of an order under this section) in respect of a relevant person, and whether or not subparagraph (xxxvi) (inserted by *section 22*) of the Courts and Court Officers Act 1995 applies in any particular case—
+
+(*a*) shall not prejudice the generality of the operation of any rule of law or statutory provision which applies or may apply in respect of any other application or proceedings relating, whether in whole or in part, to the capacity of the relevant person,
+
+(*b*) shall be disregarded, in respect of any other application or proceedings referred to in *paragraph (a)*, in so far as such other application or proceedings relates or relate, as the case may be, to the capacity of the relevant person, and
+
+(*c*) shall have no effect otherwise than in connection with matters related to this Act.
+
+(39) A reference in this section, other than in *subsection (35)*, to “court” is a reference to the Circuit Court and the exercise of the powers of that court conferred by this section shall be within the jurisdiction of the circuit of the Circuit Court in which—
+
+(*a*) the person to whom the application relates is residing at the time of the making of the application, or
+
+(*b*) the person to whom the application relates has resided at any time during the period of 3 years immediately prior to the making of the application.
+
+(40) An application to the Circuit Court under this section may be made in any county of the circuit concerned to which by reason of *subsection (39)* an application may be made under this section and may be transferred within such circuit from one county to another county.
+
+(41) In this section—
+
+“relevant person” means a person—
+
+(*a*) who is receiving care services,
+
+(*b*) whom it is anticipated may request care services, or
+
+(*c*) who is the partner of a person referred to in *paragraph (a)* or *(b)*.
+
+(42) In this section a reference to “circumstances of the person” includes in relation to a person who is a member of a couple, the circumstances of the other member of the couple.
+
+(43) For the purposes of this section a person shall be considered not to have the capacity to make a decision relating to a matter to which this section applies if he or she is unable—
+
+(*a*) to understand the information relevant to the decision,
+
+(*b*) to retain that information,
+
+(*c*) to use or weigh that information as part of the process of making the decision, or
+
+(*d*) to communicate his or her decision (whether by talking, using sign language or any other means) or, if the decision requires the act of a third party to be implemented, to communicate by any means with that third party.
+
+F62[(44) *Section 46A* shall apply to and in relation to care representatives and relevant persons referred to in this section as it applies to specified persons and "other persons" referred to in that section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F60: Substituted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 17(a), commenced as per s. 33(2).
+>
+> F61: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 17(b), commenced as per s. 33(2).
+>
+> F62: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2022), s. 102(a), S.I. No. 194 of 2023.
+>
+> **Modifications (not altering text):**
+>
+> C4: Proceedings under section made subject to transitional provision (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2023), s. 98(3), S.I. No. 194 of 2023.
+>
+> **Provisions regarding Courts and Court Officers Act 1995**
+>
+> **98.** ...
+>
+> (2) Subject to *subsection (3)*, paragraph 1 of the Second Schedule to the Courts and Court Officers Act 1995 is amended by the deletion of subparagraphs (xxxvi) and (xxxix).
+>
+> (3) *Subsection (2)* shall not have effect in relation to proceedings under section 21 of the Nursing Homes Support Scheme Act 2009 that are in being at the date of the coming into operation of this section.
+>
+> **Editorial Notes:**
+>
+> E24: Power granted to County Registrar to make certain orders under section by *Courts and Court Officers Act 1995* (31/1995), s. 34 and sch. 2 par. 1(xxxix), as inserted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 65, commenced on enactment.
+>
+> E25: Form of report referred to in subs. (18)(a) prescribed (5.10.2009) by *Nursing Homes Support Scheme (Assessment of Capacity Report) Regulations 2009* (S.I. No. 409 of 2009), reg. 3 and sch. 1, in effect as per reg. 2.
+>
+> E26: Power granted to Minister for Social and Family Affairs to appoint care representative under section to exercise rights and powers on behalf of certain claimants and beneficiaries by *Social Welfare (Consolidated Claims, Payments and Control) Regulations 2007* (S.I. No. 142 of 2007), reg. 202(3)(k), as amended (17.09.2009) by *Social Welfare (Consolidated Claims, Payments and Control) (Amendment) (No. 6) (Nominated Persons) Regulations 2009* (S.I. No. 378 of 2009), reg. 2(b).
+
+### 21A. Transitional provisions regarding care representatives
+
+F63[**21A.**— (1) On and after the date of the coming into operation of section 102 of the Assisted Decision-Making (Capacity) (Amendment) Act 2022 (in this section referred to as the "relevant date"), a person may not apply to the court under *section 21(4)(a)* for an order appointing him or her to be a care representative.
+
+(2) Where—
+
+(*a*) a care representative was appointed in respect of a person, and
+
+(*b*) on or after the relevant date a decision-making representative is appointed under the Assisted Decision-Making (Capacity) Act 2015 (in this section referred to as the "Act of 2015") in respect of the person and in respect of a matter to which section 21 applies that is also specified in the order appointing the care representative,
+
+then—
+
+(i) the decision-making representative shall, as soon as may be after his or her appointment, give notice to the care representative and the Executive of his or her appointment and provide him, her or it, as the case may be, with a copy of the decision-making representation order, and
+
+(ii) for as long as the decision-making representation order is in force, and unless otherwise provided for in the decision-making representation order, the care representative shall not act as such, and the order appointing the care representative shall not apply, in respect of the matter.
+
+(3) Where—
+
+(*a*) a care representative was appointed in respect of a person, and
+
+(*b*) on or after the relevant date the Director of the Decision Support Service has, under section 71C of the Act of 2015, accepted a notification in relation to an enduring power of attorney where the attorney is not prohibited or restricted by the terms of the power from performing any matter to which *section 21* applies and which matter is also specified in the order appointing the care representative,
+
+then—
+
+(i) the attorney shall, as soon as may be after the acceptance by the Director of the notification, give notice to the care representative and the Executive of that acceptance and provide him, her or it, as the case may be, with a copy of the enduring power of attorney, and
+
+(ii) for as long as the enduring power of attorney is in force, the care representative shall not act as such, and the order appointing the care representative shall not apply, in respect of the matter.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F63: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2023), s. 102(b), S.I. No. 194 of 2023.
+
+### 22. Amendment of Second Schedule to Courts and Court Officers Act 1995.
+
+**22**.— The Second Schedule to the Courts and Court Officers Act 1995 is amended by the addition of the following paragraph:
+
+“(xxxvi) An order for the appointment of a care representative under *section 21* of the *Nursing Homes Support Scheme Act 2009* if no objection is made to the Court relating to that appointment by any notice party to the application.”.
+
+## PART 5 Notification of specified matters — PART 5 — Notification of specified matters
+
+### 23. Notification of death or discharge of person provided with financial support under Scheme.
+
+**23**.— (1) Where a person provided with financial support—
+
+(*a*) dies in an approved nursing home,
+
+(*b*) is discharged from an approved nursing home, or
+
+(*c*) is otherwise no longer normally residing in an approved nursing home,
+
+the proprietor of the nursing home shall, not later than 3 working days after the date of the person’s death, discharge, or other departure, as the case may be, give notice in writing to the Executive of—
+
+(i) the name of the person,
+
+(ii) the name and address of—
+
+(I) the person’s nominated contact, or
+
+(II) the person’s next of kin, if known,
+
+and
+
+(iii) the date of the person’s death, discharge, or other departure, as the case may be.
+
+(2) Where the proprietor of an approved nursing home proposes to discharge from the nursing home a person provided with financial support, the proprietor shall, at least 10 working days before the proposed date of discharge, give notice in writing to the Executive of—
+
+(*a*) the name of the person,
+
+(*b*) the proposed date of discharge, and
+
+(*c*) the reasons for the discharge.
+
+(3) The proprietor of a nursing home who, without reasonable excuse, contravenes *subsection (1)* or *(2)* is guilty of an offence and is liable on summary conviction to a fine not exceeding €1,000.
+
+(4) Where a person maintained in an approved nursing home—
+
+(*a*) starts to be provided with financial support,
+
+(*b*) starts to be provided with an altered level of financial support, or
+
+(*c*) ceases to be provided with financial support,
+
+the Executive shall, not later than 10 working days after that start or cessation, as the case may be, give notice in writing to the proprietor of the nursing home of that start or cessation, as the case may be.
+
+(5) This section shall, with all necessary modifications, apply to and in relation to a facility referred to in *paragraph (a)(i)* of the definition of “long-term residential care services” and the proprietor of such a facility as it applies to and in relation to an approved nursing home and the proprietor of an approved nursing home.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E27: A fine of €1,000 translates into a class D fine, not greater than €1,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 7(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 24. Notification of material change in circumstances of person provided with financial support.
+
+**24**.— (1) A person (or the person’s care representative, if any) who is the subject of an application for State support or who is provided with financial support F64[or a person who is a family successor] shall give notice in writing to the Executive of any material change in circumstances not later than 10 working days after the material change in circumstances comes to the knowledge of the person.
+
+(2) A person who, without reasonable excuse, contravenes *subsection (1)* is guilty of an offence and is liable on summary conviction to a fine not exceeding €1,000.
+
+(3) Any person who in compliance or purported compliance with this section knowingly, or recklessly, gives the Executive information which is false or misleading in a material particular is guilty of an offence and is liable on summary conviction to a fine not exceeding €5,000 or imprisonment for a term not exceeding 3 months or both.
+
+(4) In this section, “material change in circumstances”, in relation to a person, means any change in the circumstances of—
+
+(*a*) the person or a child of the person of less than 21 years of age, or
+
+(*b*) if the person is a member of a couple, the partner of the person or, if different from a child who falls within *paragraph (a)*, a child of that partner of less than 21 years of age,
+
+which may result in—
+
+(i) financial support not being provided to the person,
+
+(ii) the amount of financial support provided to the person being reduced, or
+
+(iii) financial support which is being provided to the person ceasing to be provided.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F64: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 18, commenced as per s. 33(2).
+>
+> **Editorial Notes:**
+>
+> E28: A fine of €1,000 translates into a class D fine, not greater than €1,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 7(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> A fine of €5,000 translates into a class A fine, not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 24A. Notification of material change in circumstances of family successor
+
+F65[**24A**.— (1) A person (or the person’s care representative, if any) who is the subject of an application for State support or who is provided with financial support or a person who is a family successor shall give notice in writing to the Executive of any material change in circumstances not later than 20 working days after the material change in circumstances comes to the knowledge of the person.
+
+(2) A person who, without reasonable excuse, contravenes *subsection (1)* is guilty of an offence and is liable on summary conviction to a class D fine.
+
+(3) A person who in compliance or purported compliance with this section knowingly, or recklessly, gives the Executive information which is false or misleading in a material particular is guilty of an offence and is liable on summary conviction to a class A fine or imprisonment for a term not exceeding 3 months or both.
+
+(4) In this section, "material change in circumstances" means, in relation to a family successor—
+
+F66[(*a*) any change in the circumstances of the family successor—
+
+(i) where a determination has been made in respect of the relevant person under *section 14C(2)(a)*, which may result in the occurrence of a repayment event, or
+
+(ii) where a determination under *section 14C(2)(a)* has not been made, which may result in the occurrence of a repayment event had such a determination been made (and, accordingly, had *section 14I* applied),]
+
+F67[(*b*) any change affecting the particular family asset in relation to which the family successor was appointed—
+
+(i) where a determination has been made in respect of the relevant person under *section 14C(2)(a)*, which may result in the occurrence of a repayment event, or
+
+(ii) where a determination under section *14C(2)(a)* has not been made, which may result in the occurrence of a repayment event had such a determination been made (and, accordingly, had *section 14I* applied),
+
+or]
+
+(*c*) any change affecting the family successor’s ability to comply with the undertaking given by him or her under *section 14A(3)(d)*, *14F(8)(b)*, F68[*14G(4)(b)*, *14H(5)(b)*, *14K(3)(e)* or *14L(3)(f)*].]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F65: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 19, commenced as per s. 33(2). A class D fine means a fine not exceeding €1,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 7(1), S.I. No. 662 of 2010. A class A fine means a fine not exceeding €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+>
+> F66, F67, F68: Substituted (23.09.2024) by *Health (Miscellaneous Provisions) (No. 2) Act 2024* (29/2024), s. 31(a), (b), (c), S.I. No. 461 of 2024.
+>
+> **Editorial Notes:**
+>
+> E29: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 25. Notification of change in circumstances of connected persons, etc.
+
+**25**.— (1) Where *section 20* applies by reason of *paragraph (a)* of *subsection (2)* of that section, and that paragraph ceases to apply, the surviving partner concerned or his or her representative shall notify the Executive of that fact within 20 working days of *section 20(2)(a)* ceasing to apply.
+
+(2) Where *section 20* applies by reason of *paragraph (b)* of *subsection (2)* of that section, and the circumstances of the connected person have altered in a manner which would mean that either *subparagraph (i)* or *(iii)* of that paragraph cease to apply, the connected person concerned or his or her representative shall notify the Executive of that fact within 20 working days of the subparagraph concerned ceasing to apply.
+
+(3) Where *section 20* applies by reason of *paragraph (b) of subsection (2)* of that section and a connected person ceases to be a connected person, that person shall notify the Executive of that fact within 20 working days of such cesser.
+
+(4) Where a person who is a partner of a person in respect of whom ancillary State support was paid or a connected person dies and the repayment of ancillary State support has been deferred under *section 20* the personal representative of the deceased person shall notify the Executive of the death as soon as practicable after the death, but in any event no later than 20 working days after the issue of a grant of representation in respect of the estate of the deceased person concerned.
+
+(5) A person who, without reasonable excuse, contravenes *subsection (1), (2)* or *(3)* is guilty of an offence and is liable on summary conviction to a fine not exceeding €1,000.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E30: A fine of €1,000 translates into a class D fine, not greater than €1,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 7(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 26. Collection of monies advanced by way of ancillary State support.
+
+**26**.— (1) Where the Executive has advanced monies by way of ancillary State support and a relevant event or a deferred relevant event occurs, the Executive shall in accordance with *section 19* or *20* and *Schedule 2* calculate the amount due in relation to such support (in this section referred to as the “repayable amount”) and give notice of that amount and particulars of how it is calculated to the relevant accountable person.
+
+(2) (*a*) The repayable amount together with any interest thereon shall be a debt due and payable to the Executive.
+
+(*b*) The Revenue Commissioners shall act as agent for the Executive in respect of the collection of monies due to the Executive under this Act in relation to ancillary State support.
+
+(3) The Executive shall within the relevant period referred to in *subsection (4)* notify the Revenue Commissioners of—
+
+(*a*) the repayable amount,
+
+(*b*) particulars of how that amount is calculated,
+
+(*c*) particulars of the asset or assets against which the repayable amount is secured,
+
+(*d*) the relevant event or deferred relevant event, as the case may be, and the date of that event,
+
+(*e*) the name, PPS Number and address of—
+
+(i) the person in respect of whom ancillary State support was paid,
+
+(ii) where the person referred to in *subparagraph (i)* is a member of a couple, the partner of that person, and
+
+(iii) the relevant accountable person (if known to the Executive),
+
+and
+
+(*f*) such other information as the Revenue Commissioners may reasonably require for the purposes of this section.
+
+(4) The relevant period referred to in *subsection (3)* means—
+
+(*a*) in the case of a relevant event which is the death of a person and where the asset concerned, or one of the assets concerned, is the principal residence of the person, the period of 3 months after the Executive (having become aware of the occurrence of the relevant event) is satisfied that *section 20* does not apply, and
+
+(*b*) in any other case, the period of 3 months after it comes to the knowledge of the Executive that a relevant event or a deferred relevant event has occurred.
+
+(5) Where an amount becomes a repayable amount by reason of the death of a person in respect of whom ancillary State support was advanced or the partner of such person, the repayable amount (together with interest accrued in accordance with *subsection (6)*) shall be a debt due and payable out of the estate of the deceased person.
+
+(6) Until the repayable amount is discharged to the Revenue Commissioners interest shall continue to accrue, in accordance with regulations made under *section 36*, on that part of the repayable amount which is comprised of the aggregate of amounts of ancillary State support adjusted in accordance with *Schedule 2* .
+
+(7) The Revenue Commissioners may furnish to the Executive such information as relates to the collection of the repayable amount and any interest accruing on that amount pursuant to regulations made under *section 36*.
+
+(8) (*a*) The Revenue Commissioners may take all steps which they consider appropriate to recover the repayable amount and interest accrued thereon, including the bringing of legal proceedings in their own name.
+
+(*b*) In every case where legal proceedings are brought by the Revenue Commissioners pursuant to *paragraph (a)* the proceedings shall indicate clearly that they are brought pursuant to the *Nursing Homes Support Scheme Act 2009*.
+
+(9) Where monies are advanced by the Executive by way of ancillary State support no action shall be commenced by the Revenue Commissioners—
+
+(*a*) to recover the repayable amount or interest on any part of the repayable amount, or
+
+(*b*) seeking the sale of the relevant asset,
+
+after the expiration of 12 years from the occurrence of the relevant event or deferred relevant event concerned.
+
+(10) The collection and recovery of a repayable amount shall be under the care and management of the Revenue Commissioners and the Commissioners may do all such acts as may be deemed necessary and expedient for collecting, receiving and accounting for a repayable amount in the like and in as full and ample a manner as they are authorised to do in relation to income tax under their care and management.
+
+(11) Monies received by the Revenue Commissioners under this section shall be paid by the Revenue Commissioners into the Central Fund.
+
+(12) F69[...]
+
+(13) The person primarily accountable for payment of the repayable amount to the Revenue Commissioners shall be—
+
+(*a*) the person in respect of whom ancillary State support was paid;
+
+(*b*) where the person referred to in *paragraph (a)* is a member of a couple, the partner of that person;
+
+(*c*) where the person referred to in *paragraph (a)* is deceased, the personal representative of that person;
+
+(*d*) in a case where *section 20* applies, each person having an interest in the asset;
+
+(*e*) where a person referred to in *paragraph (d)* is deceased, the personal representative of that person.
+
+(14) A person who becomes entitled to an interest in the asset against which the repayable amount is secured shall also be accountable for payment of the repayable amount to the Revenue Commissioners.
+
+(15) (*a*) The liability of a person referred to in *subsection (13)(c)* or *(e)* shall not exceed the gross value of the estate of the deceased person concerned less the amount of the funeral and testamentary expenses.
+
+(*b*) The liability of a person referred to in *subsection (14)* shall not exceed the amount of the value of the interest in the asset to which the person becomes entitled.
+
+(16) In this section “relevant accountable person” means—
+
+(*a*) a person who as respects a particular relevant event or deferred relevant event is primarily accountable, and
+
+(*b*) a person who is accountable by reason of *subsection (14)*,
+
+for the payment of the repayable amount to the Revenue Commissioners.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F69: Deleted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 210(a), S.I. No. 174 of 2018.
+>
+> **Editorial Notes:**
+>
+> E31: Power pursuant to subs. (6) exercised (2.11.2009) by *Nursing Homes Support Scheme (Collection and Recovery of Repayable Amounts) Regulations 2009* (S.I. No. 436 of 2009), in effect as per reg. 1(2).
+
+### 27. Submission of schedule of assets to Executive where deceased person received financial support under Scheme.
+
+**27**.— (1) This section applies to a deceased person—
+
+(*a*) in respect of whom financial support was provided at any time, or
+
+(*b*) in respect of whose partner financial support was provided at any time.
+
+(2) The personal representative of a deceased person in relation to whom this section applies—
+
+(*a*) shall, as soon as is practicable but, in any case, not less than 3 months before any distribution of the assets of the estate of the person, give the Executive—
+
+(i) notice in writing of the representative’s intention to distribute the assets, and
+
+(ii) a schedule of the assets by reference to the statement referred to in section 48(2) of the Capital Acquisitions Tax Consolidation Act 2003 that is applicable in the case of that estate,
+
+and
+
+(*b*) if requested in writing by the Executive to do so before the expiration of the period referred to in *paragraph (a)*, ensure that assets of the estate are retained which are sufficient to repay any amount which may be due and payable—
+
+(i) in respect of the amount due in relation to advances of ancillary State support paid in respect of a person or at the request of a person,
+
+F70[(ia) pursuant to *section 14J(11)* in respect of the deceased person,]
+
+(ii) pursuant to *section 42* in respect of the deceased person.
+
+(3) For the purposes of determining an amount referred to in *subsection (2)(b)*, and notwithstanding any other provision of this Act, the means of the deceased person concerned, for the period during which the person was provided with financial support, shall, in the absence of evidence to the contrary, be calculated on the basis that the person’s assets at the time of the death of the person belonged to the person for that entire period.
+
+(4) Without prejudice to any other obligation or liability the personal representative of a deceased person who contravenes *subsection (2)* and distributes the assets of the estate of the person without payment of any amount referred to in *subsection (2) (b)* in relation to the estate shall be personally liable for that amount but such liability shall not exceed the gross value of the estate less the funeral and testamentary expenses of the deceased.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F70: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 20, commenced as per s. 33(2).
+
+### 27A. Discharge of orders made under section 14B
+
+F71[**27A**.— (1) Where *subsection (2)* applies, the Executive shall issue a receipt and the receipt shall act as a discharge or release of the order made under *section 14B(1)* to which it refers and may be registered in the Land Registry or the Registry of Deeds as appropriate.
+
+(2) This subsection applies where—
+
+(*a*) following the occurrence of a repayment event and consultation with the Revenue Commissioners, the secured amount has been repaid,
+
+(*b*) a determination was made under *section 14C(2)(a)* in relation to the particular family asset to which the chargeable land relates and the family successor has complied with the undertaking given by him or her under *section 14A(3)(d)*, *14F(8)(b)*, F72[*14G(4)(b)*, *14H(5)(b)*, *14K(3)(e)* or *14L(3)(f)*] during the relevant period,
+
+(*c*) no determination under *section 14C(2)(a)* has been made in relation to the particular family asset to which the chargeable land relates and the relevant person has died, or
+
+(*d*) where the Executive, in consultation with the Revenue Commissioners, is otherwise satisfied that the secured amount has been repaid or is not repayable to the Executive.
+
+(3) A receipt under *subsection (1)* may be issued by an appointed person.
+
+(4) An application to the Property Registration Authority for the cancellation in the Land Registry of an entry of a charge on the register of the property charged, where such charge relates to an order created under *section 14B*, may be made by an appointed person and such application may be made by electronic means if—
+
+(*a*) it is lodged by electronic means in a manner approved by, and
+
+(*b*) it complies with the requirements specified by,
+
+the Property Registration Authority.
+
+(5) A receipt under *subsection (1)* and an application under *subsection (4)* shall be in the form prescribed by regulations made under *section 36*.
+
+(6) Where an application under *subsection (4)* made in electronic form purports to have been made by an appointed person it shall be presumed by the Property Registration Authority that such electronic document was made and transmitted by the person by whom it purports to have been made and transmitted.
+
+(7) In this section—
+
+"appointed person" has the meaning assigned to it by *section 14B*;
+
+"relevant period" means—
+
+(*a*) in the case of a family successor appointed under *section 14A*, the period referred to in *subsection (3)(d)* of that section,
+
+(*b*) in the case of a family successor appointed under *section 14F*, the period referred to in *subsection (8)(b)* of that section,
+
+(*c*) in the case of a family successor appointed under *section 14G*, the period referred to in *subsection (4)(b)* of that section, F74[...]
+
+(*d*) in the case of a family successor appointed under *section 14H*, the period referred to in *subsection (5)(b)* of that F73[section,]
+
+F75[(*e*) in the case of a family successor appointed under *section 14K*, the period referred to in *subsection (3)(e)* of that section, or
+
+(*f*) in the case of a family successor appointed under *section 14L*, the period referred to in *subsection (3)(f)* of that section;]
+
+"secured amount" has the meaning assigned to it by *section 14B*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F71: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 21, commenced as per s. 33(2).
+>
+> F72, F73: Substituted (23.09.2024) by *Health (Miscellaneous Provisions) (No. 2) Act 2024* (29/2024), s. 32(a), (b)(ii), S.I. No. 461 of 2024.
+>
+> F74: Deleted (23.09.2024) by *Health (Miscellaneous Provisions) (No. 2) Act 2024* (29/2024), s. 32(b)(i), S.I. No. 461 of 2024.
+>
+> F75: Inserted (23.09.2024) by *Health (Miscellaneous Provisions) (No. 2) Act 2024* (29/2024), s. 32(b)(iii), S.I. No. 461 of 2024.
+>
+> **Editorial Notes:**
+>
+> E32: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 28. Discharge of orders made under section 17.
+
+**28**.— (1) Where the monies advanced by way of ancillary State support adjusted in accordance with this Act (together with any interest payable) have been discharged the Executive shall issue a receipt and the receipt shall act as a discharge or release of the order to which it refers and may be registered in the Land Registry or the Registry of Deeds as appropriate.
+
+(2) A receipt under *subsection (1)* may be issued by an authorised person.
+
+(3) An application to the Property Registration Authority for the cancellation in the Land Registry of an entry of a charge on the register of the property charged, where such charge relates to an order created under *section 17*, may be made by an authorised person and such application may be made by electronic means if—
+
+(*a*) it is lodged by electronic means in a manner approved by, and
+
+(*b*) it complies with the requirements specified by,
+
+the Property Registration Authority.
+
+(4) A receipt under *subsection (1)* and an application under *subsection (3)* shall be in the form prescribed by regulations made under *section 36.*
+
+(5) Where an application under *subsection (3)* is made to the Property Registration Authority in electronic form which purports to have been made by an authorised person it shall be presumed by the Property Registration Authority that such electronic document was made and transmitted by the person by whom it purports to have been made and transmitted.
+
+## PART 6 Joint ownership — PART 6 — Joint ownership
+
+### 29. Joint ownership.
+
+**29**.— (1) Subject to *subsections (2)* and *(3)*, where the Executive makes an order under F76[*section 14B(1)* or *section 17(2)*] which relates to an interest in land the subject of a joint tenancy, notwithstanding any rule of law or statutory provision—
+
+(*a*) the mortgage created thereby shall not, by reason of the absence of the prior consent in writing of the other joint tenant or, where there are more than one other, all the other joint tenants, cause the severance of the joint tenancy in the interest in the land the subject of the mortgage,
+
+(*b*) the mortgage created thereby shall not, by reason of the absence of the prior consent in writing of the other joint tenant or, where there are more than one other, all the other joint tenants, be void, and
+
+(*c*) the severance of the joint tenancy, or the determination or extinguishment of the interest of the joint tenant who has created such mortgage, shall not cause the charge concerned to be determined, extinguished or otherwise cease to have effect as respects such land.
+
+(2) Subject to *subsection (3)*, the amount secured by an order made under F76[*section 14B(1)* or *section 17(2)*] and to which *subsection (1)* refers shall not exceed the amount which represents the value of such share or proportion of the interest in the land concerned to which F77[, in the case of an order made under *section 14B(1)*, the interested person or interested persons, or, in the case of an order made under *section 17(2)*,] the person or persons requesting payment of ancillary State support would have been entitled had the joint tenancy been severed on—
+
+(*a*) the date on which the mortgage is deemed to have been executed by reason of F76[*section 14B(3)* or *section 17(4)*] or
+
+(*b*) an order for partition of the land had been made on that date.
+
+F76[(3) *Subsection (2)* shall not apply—
+
+(*a*) in the case of an order made under *section 14B(1)*, where all the joint tenants in the joint tenancy concerned are interested persons, or
+
+(*b*) in the case of an order made under *section 17(2)*, where all the joint tenants in the joint tenancy concerned have made a request to the Executive that the ancillary State support be paid in relation to the interest in the land concerned.]
+
+F77[(4) In this section—
+
+"interested person", in relation to an order made under *section 14B(1)*, means—
+
+(*a*) where the chargeable land is not a transferred asset—
+
+(i) each member of the couple, where the relevant person is a member of a couple, or
+
+(ii) the relevant person, where the relevant person is not a member of a couple, or
+
+(*b*) where the chargeable land is a transferred asset, the person or persons who hold the interest that—
+
+(i) each member of the couple had in the chargeable land, where the relevant person is a member of a couple,
+
+or
+
+(ii) the relevant person had in the chargeable land, where the relevant person is not a member of a couple;
+
+"relevant person" means a person receiving care services.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F76: Substituted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 22(a), (b)(i), (iii), (c), commenced as per s. 33(2).
+>
+> F77: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 22(b)(ii), (d), commenced as per s. 33(2).
+
+## PART 7 Reviews and Appeals — PART 7 — Reviews and Appeals
+
+### 30. Reviews.
+
+**30**.— (1) Subject to *subsections (5)*, *(6)* and *(7)*, the Executive may, in respect of a person who is being provided with care services or whose application for State support has been determined, and whether of its own initiative or at the request of the person, at any time arrange for a review to be carried out of all or any of the following, as may be appropriate:
+
+(*a*) the care needs of the person on the same basis as is specified in *section 7 (6)*;
+
+(*b*) the financial assessment relating to the person carried out under *section 10*;
+
+(*c*) the weekly amount of payments made by way of ancillary State support in respect of the person.
+
+(2) The Executive shall cause a review under this section to be carried out by a suitable person.
+
+(3) The suitable person who carries out a review under this section shall prepare a report thereon and provide it to the Executive.
+
+(4) Where the Executive, having regard to a review under this section and the report provided to it under *subsection (3)*, is satisfied that the determination or matter the subject of the review should be altered, it may determine that the determination or matter under review be altered accordingly.
+
+(5) An alteration referred to in *subsection (4)* shall, subject to *subsection (6)* and unless the Executive otherwise determines (in particular in any case where there has been a contravention of any requirement of this Act relevant to the determination or matter the subject of the review), have effect from the date the determination is made under *subsection (4)*.
+
+(6) Where a determination under *subsection (4)—*
+
+(*a*) results in the assessed weekly means of a person being increased, or
+
+(*b*) results in the amount of weekly payments of ancillary State support being reduced,
+
+the Executive shall not implement that determination before the expiration of 40 working days after the date on which it has given notice of the determination under *subsection (8)*.
+
+(7) A person other than the Executive may not request a review of a determination relating to a financial assessment unless—
+
+(*a*) 12 months have elapsed since the date of the initial financial assessment or the most recent review of that assessment under this section (whichever is the later), or
+
+(*b*) there has, to the satisfaction of the Executive, been a material change in the financial circumstances of the person since the financial assessment or most recent review of that assessment under this section (whichever is the later).
+
+(8) Where the Executive makes a decision under *subsection (4)* in respect of a person, it shall, not later than 10 working days after the date of the decision, give notice in writing to the person of that determination stating the reasons for the decision and accompanied by a copy of the report concerned provided to the Executive under *subsection (3)*.
+
+### 31. Appeals regarding hardship in certain cases.
+
+**31**.— (1) Where, in connection with the financial assessment of a person, a transferred item is taken into account by the Executive in determining the means of the person and the transfer of the transferred item was effected prior to 9 October 2008, the person may make an application to the Executive to recalculate the means of the person by excluding one or more than one of the transferred items on the ground that it is necessary to do so in order to avoid undue financial hardship arising by including that item in the financial assessment in relation to an applicable person.
+
+(2) The Executive may refuse to consider or further consider an application under *subsection (1)* by a person if—
+
+(*a*) the application does not comply with that subsection, or
+
+(*b*) an applicable person fails to provide the Executive with such information in addition to the information provided by or with the application as the Executive may reasonably require to enable it to determine the application under *subsection (5)*.
+
+(3) Where the Executive refuses under *subsection (2)* to consider or further consider an application under *subsection (1)* by a person, it shall, not later than 10 working days after the refusal, give the person notice in writing of the decision and the reasons for the decision.
+
+(4) Any person who knowingly, or recklessly, gives the Executive information which is false or misleading in a material particular in, with, or in connection with, an application under *subsection (1)* is guilty of an offence and is liable on summary conviction to a fine not exceeding €5,000 or imprisonment for a term not exceeding 3 months or both.
+
+(5) The Executive shall determine an application under *subsection (1)*—
+
+(*a*) if the Executive is satisfied that a recalculation (excluding one or more transferred items) of the means of the person is necessary in order to avoid undue financial hardship in relation to an applicable person, by carrying out the recalculation and adjusting the amount of weekly assessed means of the person accordingly,
+
+(*b*) if the Executive is not so satisfied, by refusing the application.
+
+(6) Where the Executive determines under *subsection (1)* an application under *subsection (1)* by a person, it shall, not later than 10 working days after the determination, give notice in writing to the person of the decision and the reasons for the decision.
+
+(7) In this section—
+
+“applicable person”, in relation to an application under *subsection (1)*, means—
+
+(*a*) the person to whom the financial assessment relates,
+
+(*b*) where the person to whom the financial assessment relates is a member of a couple, the partner of that person, or
+
+(*c*) a child of a person referred to in *paragraph (a)* or *(b)* where that child is less than 21 years of age;
+
+“transferred item” means transferred income or a transferred asset.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E33: A fine of €5,000 translates into a class A fine, not greater than €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 32. Appeals against certain decisions of Executive.
+
+**32**.— (1) Subject to *subsection (2)*, a person (“the appellant”) aggrieved by a decision of the Executive referred to in *section 7(8)*, *9(3)*, *10(7)*, *11(1)*, F78[*14A(2)*, *14A(11)*, *14C(2)(b)*, *14C(7)*, *14D(2)(a)*, F79[*14G(2)(b)(ii)*, *14G(9)(b)*, *14H(3)(b)(ii)*, *14H(11)(b)*,] *14I(2)(a)(i)*, *14I(6)(a)*, *14J(1)*, *14K(2)*, *14K(8)*, *14L(2)*, *14L(9)*,] *16*, *30(4)*, *31(2)* or *31(5)* may appeal against the decision by giving the Executive a notice—
+
+(*a*) in the specified form stating the reasons for the appeal, and
+
+(*b*) not later than 40 working days after notice of the decision was given to the appellant under *section 7(9)*, *9(4)*, *10(8)*, *11(3)*, F78[*14A(12)*, *14A(13)*, *14C(8)*, *14C(9)*, *14D(2)(b)*, F80[*14G(10)*, *14G(10A)*, *14H(12)*, *14H(12A)*,] *14I(5)*, *14I(6)(b)*, *14J(1)*, *14K(9)*, *14K(10)*, *14L(10)*, *14L(11)*,] *16(16)*, *30(8)*, *31(3)* or *31(6)* respectively.
+
+(2) (*a*) The Executive, with the consent of the Minister, shall appoint a panel of suitable persons to consider appeals received under *subsection (1).*
+
+(*b*) Where the Executive receives an appeal under *subsection (1)*, it shall appoint a suitable person from the panel referred to in *paragraph (a)* to consider the appeal.
+
+(3) The person appointed pursuant to *subsection (2)* to consider an appeal under *subsection (1)* shall—
+
+(*a*) be independent in the performance of the person’s functions under this Act as a person so appointed,
+
+(*b*) not be confined to the grounds on which the decision of the Executive was based, but may decide the matter which is the subject of the appeal as if it were being decided for the first time,
+
+(*c*) subject to *paragraph (a)*, comply with guidelines issued by the Executive under *section 35* in respect of the procedure to be followed with respect to the consideration of any appeal,
+
+(*d*) consider any written or oral objections made by the appellant in support of the appeal,
+
+(*e*) make a decision (“relevant decision”) in writing determining the appeal, which may be a decision to—
+
+(i) confirm the decision the subject of the appeal,
+
+(ii) revoke that decision and replace it with such other decision as the person thinks appropriate, or
+
+(iii) refer the matter concerned back to the Executive for reconsideration in accordance with such directions as the person thinks appropriate,
+
+(*f*) send a copy of the relevant decision to the appellant and the Executive together with the person’s reasons for the relevant decision, and
+
+(*g*) give the Executive such directions as the person thinks appropriate.
+
+(4) A person (including the Executive) aggrieved by the relevant decision may appeal to the High Court against the decision on a point of law.
+
+(5) An appeal under *subsection (4)* shall, where the appellant so requests, be heard otherwise than in public.
+
+(6) The Executive shall, on complying with any direction given under *subsection (3)(e)(iii)* or *(g)*, give notice in writing to the appellant concerned of the Executive’s compliance with the direction.
+
+(7) A reference in this section to a decision made by the Executive includes a determination and refusal made by the Executive.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F78: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 23(a), (b), commenced as per s. 33(2).
+>
+> F79, F80: Inserted (23.09.2024) by *Health (Miscellaneous Provisions) (No. 2) Act 2024* (29/2024), s. 33(a), (b), S.I. No. 461 of 2024.
+
+## PART 8 Charges in Respect of Care Services — PART 8 — Charges in Respect of Care Services
+
+### 33. Charges in respect of care services.
+
+**33**.— (1) Notwithstanding any other statutory provision, charges may be made by the Executive in respect of the provision of care services within the meaning of *paragraph (a)(i)* of the definition of “long-term residential care services”.
+
+(2) Following consultation with the Executive, the Minister shall lay before the Houses of the Oireachtas details of the goods and services which constitute care services within the meaning of *paragraph (a)(i)* of the definition of “long-term residential care services”.
+
+(3) Charges in respect of care services within the meaning of *paragraph (a)(i)* of the definition of “long-term residential care services” which are provided by the Executive shall not exceed the cost of providing such services, which cost shall be determined by the Executive in accordance with *subsection (2)*.
+
+(4) In determining the cost of care services in accordance with *subsections (2)* and *(3)*, the Executive—
+
+(*a*) subject to *paragraph (b)*, shall include only the costs incurred by the Executive in relation to the provision of such care services, and
+
+(*b*) shall not include costs which are not directly attributable to the provision of such care services except such costs which are prescribed, under regulations made under *section 36*, for the purposes of this paragraph.
+
+(5) Charges in respect of care services within the meaning of *paragraph (a)(i)* of the definition of “long-term residential care services” in *section 3* which are provided on behalf of the Executive shall not exceed the cost incurred by the Executive in relation to the provision of such care services.
+
+(6) Different charges may be made by reference to the class of care services provided and the cost of that class of care services as determined in accordance with *subsections (3)* to *(5).*
+
+(7) Charges under this section shall not be payable in respect of care services provided by the Executive or on behalf of the Executive to—
+
+(*a*) a person under 18 years of age,
+
+(*b*) a woman in respect of motherhood,
+
+F81[(*ba*) a woman in respect of a termination of pregnancy in accordance with section 9, 10, 11 or 12 of the Health (Regulation of Termination of Pregnancy) Act 2018,]
+
+(*c*) a person detained involuntarily under the Mental Health Acts 1945 to 2001,
+
+(*d*) a person who pursuant to section 2 of the Health (Amendment) Act 1996, in the opinion of the Executive, has contracted Hepatitis C directly or indirectly from the use of Human Immunoglobulin Anti-D or the receipt within the State of another blood product or a blood transfusion, or
+
+(*e*) a person in respect of the treatment of diseases prescribed under Part IV of the Health Act 1947.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F81: Inserted (1.01.2019) by *Health (Regulation of Termination of Pregnancy) Act 2018* (31/2018), s. 27, S.I. No. 594 of 2018.
+
+### 34. Amendment of Health Act 1970.
+
+**34**.— (1) Section 52 of the Health Act 1970 is amended by inserting the following after subsection (1):
+
+“(1A) The Health Service Executive may make available long-term residential care services within the meaning of the *Nursing Homes Support Scheme Act 2009*.”.
+
+(2) Section 53 (as amended by section 4 of the Health (Amendment) Act 2005) of the Health Act 1970 is amended—
+
+(*a*) by substituting the following for subsection (1):
+
+“(1) Subject to subsection (1A), charges shall not be made for in-patient services made available under section 52 except as provided for in subsection (2).”,
+
+(*b*) by inserting the following after subsection (1):
+
+“(1A) Charges shall be made for long-term residential care services in accordance with the *Nursing Homes Support Scheme Act 2009*.
+
+(1B) A reference in subsection (1A) to long-term residential care services shall be construed as a reference to long-term residential care services within the meaning of the *Nursing Homes Support Scheme Act 2009* as respects such services provided to a person who first begins to receive those services after the coming into operation of *section 6 (2) (c)* of the *Nursing Homes Support Scheme Act 2009*.
+
+(1C) A person in respect of whom charges are being made under subsection (2) shall not be required to pay charges under subsection (1A).”.
+
+(3) The Health Act 1970 is amended by inserting the following section after section 53:
+
+“Charges for in-patient services in certain cases.
+
+53A.— (1) This section applies where in-patient services (not being long-term residential care services within the meaning of the *Nursing Homes Support Scheme Act 2009*) are provided to a person in a hospital for the care and treatment of patients with acute ailments (including any psychiatric ailment) and a medical practitioner designated by the Health Service Executive has certified in writing that the person in receipt of such services does not require medically acute care and treatment in respect of any such ailment.
+
+(2) Where this section applies, notwithstanding section 53, charges may be made in respect of in-patient services on the basis specified in subsection (3) as if those services were long-term residential care services within the meaning of the *Nursing Homes Support Scheme Act 2009* provided by the Health Service Executive, and whether or not the person concerned has made an application for State support under *section 9* of that Act.
+
+(3) The charges referred to in *subsection (2)* shall be determined by the average cost of long-term residential care services as determined by the Health Service Executive in facilities operated by the Health Service Executive and publicly designated in writing as facilities predominantly for the care of older people.
+
+(4) Subject to *subsection (5),* this section shall not apply where a person has applied for a care needs assessment under *section 7* of the *Nursing Homes Support Scheme Act 2009* and is awaiting a determination by the Executive under *section 7* of that Act.
+
+(5) *Subsection (4)* shall not apply where a person withdraws an application under *section 7* of the *Nursing Homes Support Scheme Act 2009* and makes a subsequent application.”.
+
+## PART 9 Miscellaneous — PART 9 — Miscellaneous
+
+### 35. Guidelines.
+
+**35**.— (1) The Executive may, with the consent of the Minister, issue guidelines consistent with this Act, whether relating to the performance of a function of the Executive or otherwise, for the purpose of providing practical guidance in respect of any provision of this Act or regulations made under it.
+
+(2) The Executive shall arrange for guidelines issued under this section to be published in such manner as the Executive considers appropriate.
+
+### 36. Regulations.
+
+**36**.— (1) Subject to *subsections* F82[*(1A)*] to *(11)*, the Minister may, for the purposes of enabling any provision of this Act to have full effect, make regulations prescribing any matter or thing which is referred to in this Act as prescribed or to be prescribed.
+
+F83[(1A) The Minister may by regulations provide for the arrangements that shall apply in relation to persons who are or were members of a couple where one member of the couple has made an application under *section 14A*.
+
+(1B) Without prejudice to the generality of *subsection (1A)*, regulations under that subsection may provide for all or any of the following:
+
+(*a*) arrangements that shall apply in relation to a charge under *section 14B*;
+
+(*b*) arrangements that shall apply in relation to a determination under *section 14C*, including the conditions that shall apply in respect of a determination under that section of the revised amount of State support payable in respect of a person;
+
+(*c*) arrangements that shall apply in relation to a review under *section 14E* for the purpose of ascertaining whether a repayment event has occurred;
+
+(*d*) arrangements that shall apply in relation to the death of a person where a determination under *section 14C* was made before the death, including any notification or application for appointment of a family successor to be made under *section 14F* and any conditions that shall apply to such notification or application;
+
+(*e*) arrangements that shall apply in relation to the death or change in circumstances of a family successor, including any application for appointment of a new family successor to be made under *section 14G* and any conditions that shall apply to such application;
+
+(*f*) arrangements that shall apply in relation to the change in family successor following the transfer of a particular family asset, including any application for appointment of a new family successor to be made under *section 14H* and any conditions that shall apply to such application;
+
+(*g*) arrangements that shall apply in relation to repayment events;
+
+(*h*) arrangements that shall apply in relation to an application under *section 14K* or *14L*;
+
+(*i*) arrangements that shall apply in relation to a determination under *section 14M*, including any conditions that may apply in respect of a determination under that section;
+
+(*j*) arrangements that shall apply in relation to *Schedule 1*.
+
+(1C) When making regulations under *subsection (1A)*, the Minister shall have regard to the following:
+
+(*a*) the policies and objectives of the Government to protect the future viability of farms and relevant businesses that are owned and operated by families;
+
+(*b*) the fair and equitable treatment of couples under the Scheme;
+
+(*c*) the proper and efficient administration of the Scheme.
+
+(1D) In regulations under *subsection (1A)*, the Minister may make provision for different circumstances or cases, including where—
+
+(*a*) the period referred to in an undertaking given by a family successor under any provision of this Act has or has not expired,
+
+(*b*) one or both members of a couple is or are receiving care services, or
+
+(*c*) one or both members of a couple has or have died.]
+
+(2) The Minister may, following prior consultation with the Executive and with the consent of the Minister for Finance, make regulations for the purposes of *paragraph (b)* of *subsection (4)* of *section 33* by prescribing, by reference to a class of care services, a class of costs which, although not directly attributable to the provision of such class of care services, the Minister is satisfied is connected with, the provision of such class of care services.
+
+(3) The Minister may make regulations for the purposes of *paragraph (a)* of the definition of “allowable deduction” in *paragraph 1* of *Part 3* of *Schedule 1* by prescribing a class or classes of expenditure which relate to the reasonable living expenses of a person to whom the financial assessment relates and his or her partner or who is a member of a class of dependant relatives prescribed by those regulations.
+
+(4) (*a*) The Minister may make regulations for the purposes of prescribing an amount for the purposes of *subparagraph (ii)* of *paragraph (a)* of the definition of “general assets deductible amount” in *paragraph 1* of *Part 3* of *Schedule 1* which amount—
+
+(i) shall not be less than the amount referred to in *subparagraph (i)* of *paragraph (a)* of that definition,
+
+(ii) shall not be less than the amount prescribed on the most recent exercise of this power, and
+
+(iii) shall be adjusted in line with changes in the consumer price index calculated from mid-May 2008 where the amount specified in *subparagraph (i)* of *paragraph (a)* of that definition is the base figure.
+
+(*b*) The Minister may make regulations for the purposes of prescribing an amount for the purposes of *subparagraph (ii)* of *paragraph (b)* of the definition of “general assets deductible amount” in *paragraph 1* of *Part 3* of *Schedule 1* which amount—
+
+(i) shall not be less than the amount referred to in *subparagraph (i)* of *paragraph (b)* of that definition,
+
+(ii) shall not be less than the amount prescribed on the most recent exercise of this power, and
+
+(iii) shall be adjusted in line with changes in the consumer price index calculated from mid-May 2008 where the amount specified in *subparagraph (i)* of *paragraph (b)* of that definition is the base figure.
+
+(5) The Minister may make regulations for the purposes of *paragraph (j)* of the definition of “income” in *paragraph 1* of *Part 3* of *Schedule 1* by prescribing a class or classes of benefit not coming within *paragraphs (a)* to *(i)* of that definition but which the Minister considers to be a form of income, and for the purposes of this subsection benefit shall include capital gains.
+
+F84[(5A) The Minister may make regulations for the purposes of *paragraph (f)* of the definition of "relevant payment" (amended by section 8 of the Health (Miscellaneous Provisions) Act 2017) in *paragraph 1* of *Part 3* of *Schedule 1* by prescribing a class or classes of *ex-gratia* payment or payments, not coming within *paragraphs (a)* to *(e)* of that definition, if—
+
+(*a*) the class or classes of *ex-gratia* payment or payments is, or are, payment or payments made under a scheme or schemes (howsoever described) approved by the Government, and
+
+(*b*) the Minister is satisfied, after having regard to the nature of the payment or payments referred to in *paragraphs (a)* to *(e)* of that definition and the purposes for which such payment or payments is, or are, made, that—
+
+(i) the nature of the class or classes of *ex-gratia* payment or payments is substantially similar to the nature of one or more of those made under those paragraphs, and
+
+(ii) the purpose for which the payment or payments concerned is made is substantially similar to one or more of those purposes.]
+
+(6) Without prejudice to the generality of F82[*sections 14J(7)* and *section 26 (8),*] the Minister may, following prior consultation with the Revenue Commissioners and with the consent of the Minister for Finance, make regulations providing for the conferral of powers on the Revenue Commissioners with respect to the collection and recovery of repayable amounts F82[within the meaning of *sections 14J(1)* and *section 26(1)*] and interest thereon (and, for this purpose, the regulations may adapt, with or without modifications, the provisions of any enactment relating to the collection or recovery of, or the inspection of records or the furnishing of information in relation to, any tax charged or imposed by that enactment).
+
+(7) Without prejudice to the generality of *subsection (6)*, regulations made under that subsection may, in respect of amounts referred to in that subsection, provide for—
+
+(*a*) the form in which payment shall be made,
+
+(*b*) the charging of interest and the appropriate percentage rate of interest to be charged,
+
+(*c*) circumstances where interest shall not be charged,
+
+(*d*) the period of time following the occurrence of the event which caused the amounts to become repayable in respect of which interest shall not be charged,
+
+(*e*) the order of application of any payment towards interest or capital comprised in such amounts,
+
+(*f*) any matters consequential on, or incidental to, the foregoing.
+
+(8) The Minister may, in respect of any difficulty which arises during the period of 3 years from the commencement of *section 5* in bringing this Act into operation, by regulations do anything which appears to be necessary or expedient for bringing this Act into operation and regulations under this subsection may, in so far only as may appear necessary for carrying the regulations into effect, modify a provision of this Act if the modification is in conformity with the purposes, principles and spirit of this Act.
+
+F83[(8A) The Minister may, in respect of any difficulty which arises during the period of 3 years from the commencement of section 24 of the Act of 2021 in bringing the amendments effected to this Act by the Act of 2021 into operation, by regulations do anything which appears to be necessary or expedient for bringing the said amendments into operation and regulations under this subsection may, in so far only as may appear necessary for carrying the regulations into effect, modify a provision of this Act if the modification is in conformity with the purposes, principles and spirit of this Act and the amendments effected to this Act by the Act of 2021.]
+
+(9) Regulations under this section may contain such incidental, supplementary and consequential provisions as appear to the Minister to be necessary or expedient for the purposes of the regulations.
+
+(10) Where the Minister proposes to make regulations under *subsection (8)* F83[or *(8A)*]—
+
+(*a*) he or she shall, before doing so, consult with such other (if any) Minister of the Government as the Minister considers appropriate having regard to the functions of that other Minister of the Government in relation to the proposed regulations, and
+
+(*b*) he or she shall cause a draft of the regulations to be laid before each House of the Oireachtas and the regulations shall not be made until a resolution approving of the draft has been passed by each such House.
+
+(11) Every regulation made under this section (other than a regulation referred to in *subsection (10)*) shall be laid by the Minister before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next 21 days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F82: Substituted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 24(a), (c)(i), (ii), commenced as per s. 33(2).
+>
+> F83: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 24(b), (d), (e), commenced as per s. 33(2).
+>
+> F84: Inserted (16.02.2017) by *Health (Miscellaneous Provisions) Act 2017* (1/2017), s. 7, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E34: Power pursuant to section exercised (9.08.2024, deemed) by *Nursing Homes Support Scheme Act 2009 (Relevant Payments) Regulations 2025* (S.I. No. 91 of 2024), in effect as per reg. 2.
+>
+> E35: Power pursuant to section exercised (1.01.2023, deemed) by *Nursing Homes Support Scheme Act 2009 (Relevant Payments) Regulations 2024* (S.I. No. 576 of 2024), in effect as per reg. 2.
+>
+> E36: Power pursuant to subs. (6) exercised (1.01.2022) by *Nursing Homes Support Scheme (Collection and Recovery of Repayable Amounts) Regulations 2021* (S.I. No. 695 of 2021), in effect as per reg. 1(2).
+>
+> E37: Power pursuant to section exercised (8.11.2021) by *Nursing Homes Support Scheme (Making and Discharge of Orders on Particular Family Assets) Regulations 2021* (S.I. No. 581 of 2021).
+>
+> E38: Power pursuant to section exercised (1.09.2014) by *Nursing Homes Support Scheme (Allowable Deductions) Regulations 2014* (S.I. No. 311 of 2014).
+>
+> E39: Power pursuant to subs. (6) exercised (2.11.2009) by *Nursing Homes Support Scheme (Collection and Recovery of Repayable Amounts) Regulations 2009* (S.I. No. 436 of 2009), in effect as per reg. 1(2).
+>
+> E40: Power pursuant to section exercised (1.01.2011) by *Nursing Homes Support Scheme (Allowable Deductions) Regulations 2010* (S.I. No. 631 of 2010), in effect as per reg. 6.
+>
+> E41: Power pursuant to section exercised (30.10.2009) by *Nursing Homes Support Scheme (Making and Discharge of Orders) Regulations 2009* (S.I. No. 437 of 2009).
+>
+> E42: Power pursuant to section exercised (5.10.2009) by *Nursing Homes Support Scheme (Assessment of Capacity Report) Regulations 2009* (S.I. No. 409 of 2009), in effect as per reg. 2.
+
+### 37. Amendment of Consumer Credit Act 1995.
+
+**37**.— Section 3 of the Consumer Credit Act 1995 is amended in subsection (2) by the insertion after paragraph (*e*) of the following paragraph:
+
+“(*ea*) payments of ancillary State support advanced by the Health Service Executive under the *Nursing Homes Support Scheme Act 2009*,”.
+
+### 38. Amendment of section 7A of Health (Nursing Homes) Act 1990.
+
+**38**.— Section 7A (inserted by section 3 of the Health (Nursing Homes) (Amendment) Act 2007) of the Health (Nursing Homes) Act 1990 is amended by inserting the following subsection after subsection (4):
+
+“(4A) The Executive shall refuse to consider an application made on or after the commencement of *section 6(1)(d)* of the *Nursing Homes Support Scheme Act 2009*.”.
+
+### 39. Transitional provisions.
+
+**39**.— (1) A person in receipt of a relevant subvention immediately before the commencement of this subsection shall continue to be paid the relevant subvention until—
+
+(*a*) such payment ceases in accordance with the provisions of the Health (Nursing Homes) Act 1990 (as amended by the Health (Nursing Homes) (Amendment) Act 2007), or
+
+(*b*) the date from which by reason of the determination of the Executive under *section 11 (1)* State support is to be paid in respect of the person,
+
+whichever first occurs.
+
+(2) *Subsection (1)* shall not prejudice the operation of section 7D (inserted by section 3 of the Health (Nursing Homes) (Amendment) Act 2007) of the Health (Nursing Homes) Act 1990 in so far as that section 7D provides for the payment of a relevant subvention to a person referred to in that subsection which is different from the relevant subvention which is paid to that person immediately before the commencement of that subsection.
+
+### 40. Designation by Minister of suitable person to negotiate agreements.
+
+**40**.— The Minister shall, as soon as is practicable, by notice in writing designate a person to negotiate with persons carrying on the business of a nursing home for the purposes of reaching an agreement referred to in *paragraph (a)(ii)* or *(b)(ii)* of the definition of “approved nursing home”.
+
+### 41. Amendment of National Treatment Purchase Fund Board (Establishment) Order 2004.
+
+**41**.— (1) The National Treatment Purchase Fund Board (Establishment) Order 2004 (S.I. No. 179 of 2004) is amended—
+
+(*a*) in Article 2, by inserting the following definitions:
+
+“ ‘approved nursing home has the same meaning as in the *Nursing Homes Support Scheme Act 2009*;
+
+‘long-term residential care services’ means long-term residential care services within the meaning of *paragraph (a)(ii)* of the definition of ‘long-term residential care services’ in *section 3(1)* of the *Nursing Homes Support Scheme Act 2009*;
+
+‘nursing home’ has the meaning assigned to it by section 2 of the Health (Nursing Homes) Act 1990 and includes an institution referred to in section 2(1)(*h*) of that Act;”,
+
+and
+
+(*b*) in Article 4—
+
+(i) by the inserting after paragraph (1)(*b*) the following subparagraph:
+
+“(*ba*) to make arrangements with a person it considers to be appropriate, being a proprietor of a nursing home, relating to the price at which long-term residential care services will be provided by such person to persons requiring such services and who are in receipt of financial support under the *Nursing Homes Support Scheme Act 2009*;”,
+
+(ii) by the inserting after paragraph (1) the following paragraphs:
+
+“(1A) Arrangements referred to in paragraph (1)(*ba*) shall be subject to a condition that the nursing home is an approved nursing home or that the arrangements will not apply unless the nursing home becomes an approved nursing home.
+
+(1B) Arrangements referred to in paragraph (1)(*ba*) shall be notified to the Health Service Executive who may publish such information relating to those arrangements as it considers appropriate.”,
+
+and
+
+(iii) by inserting after paragraph (2) the following paragraph:
+
+“(3) In performing its functions under paragraph (1)(*ba*) the Board may examine the records and accounts of an approved nursing home or of a nursing home the proprietor of which proposes to enter into arrangements under paragraph (1)(*ba*).”.
+
+### 42. Non-disclosure and misstatement relating to financial assessments.
+
+**42**.— (1) Where, in connection with a financial assessment, or a review of a financial assessment under *section 30*, a person does not disclose, or makes a misstatement as respects the amount or value of income, transferred income, cash assets, relevant assets or transferred assets, and receives a greater amount of State support than would have been the case if there had not been such non-disclosure or misstatement, as the case may be, the amount, as determined by the Executive, of the excess of State support over the amount which the person would have received had such non-disclosure or misstatement, as the case may be, not occurred shall be payable by the person to the Executive on demand and may be recovered by the Executive as a simple contract debt in any court of competent jurisdiction from the person or the estate of that person.
+
+(2) Where an excess amount of State support has been paid in respect of a person and such excess arises by reason of information supplied by the person’s partner, such excess shall, to the extent that it arises by reason of the non-disclosure or misstatement by that partner, be payable by the partner to the Executive on demand and may be recovered from the partner of the person in respect of whom the State support has been paid or the estate of such partner as a simple contract debt in any court of competent jurisdiction.
+
+(3) Without prejudice to the rights of the Executive under *subsections (1)* and *(2)*, the Executive may reduce the amount of State support which would be payable in respect of the person until the total of excess payments has been recovered by the Executive.
+
+### 43. Contracts for necessaries.
+
+**43**.— (1) It is declared that the supply of care services to a person, which the Executive pursuant to *section 7* has determined are appropriate for the needs of that person, shall be conclusively presumed as being for the benefit of and necessary for the health and welfare of that person and to have been supplied at his or her request, notwithstanding any legal incapacity of that person and any contact entered into with that person or on his or her behalf in relation to such care services shall be valid and enforceable notwithstanding any rule of law or statutory provision.
+
+(2) *Subsection (1)* shall apply with all necessary modifications to the provision of ancillary State support.
+
+(3) The liability of any member of a relevant couple in respect of any monies due under this Act in respect of care services or ancillary State support shall not be affected by any lack of capacity on the part of—
+
+(*a*) the person to whom the services were supplied or in respect of whom ancillary State support is paid, or
+
+(*b*) the partner of such person.
+
+(4) The invalidity of any charge created pursuant to this Act shall not affect the underlying liability in respect of the repayment of any monies to the Executive.
+
+### 44. Power of Executive to specify forms.
+
+**44**.— (1) The Executive may specify the form of any document required by this Act to be in the specified form and the form of such other documents required for the purposes of this Act as the Executive thinks appropriate.
+
+(2) A form specified under this section shall be—
+
+(*a*) completed in accordance with such directions and instructions as are specified in the form,
+
+(*b*) accompanied by such documents (including instruments, certificates, duplicates of the form and statutory declarations) as are specified in the form, and
+
+(*c*) if the completed form is required to be provided to the Executive or any other person, so provided in the manner, if any, specified in the form.
+
+(3) The Executive’s power under *subsection (1)*—
+
+(*a*) may be exercised in such a way as to require the person completing the form to make a statutory declaration as to whether the particulars contained in the form are true and correct to the best of that person’s knowledge and belief,
+
+(*b*) may be exercised in such a way as to specify two or more forms of any document referred to in that subsection whether as alternatives, or to provide for particular circumstances or particular cases, as the Executive thinks appropriate.
+
+(4) The form specified under this section of an application for State support in respect of a person may require the application to be accompanied by—
+
+(*a*) valuations of assets the person has or had any interests in and valuations of those interests,
+
+(*b*) if the person is a member of a couple, valuations of assets the other member of the couple has or had any interests in and valuations of those interests, and
+
+(*c*) such other information as the Minister may prescribe.
+
+### 45. Records.
+
+**45**.— (1) F85[Subject to the Data Protection Regulation and the Data Protection Act 2018], the Executive may, in accordance with this section, access and process any relevant records for the purposes of this Act.
+
+(2) Subject to *subsection (3)*, the Executive shall, as soon as is practicable after the commencement of this section, prepare and cause to be published a code of practice to be complied with by a person accessing and processing any relevant records pursuant to *subsection (1)*, or a person referred to in *subsection (4)* having any relevant information in the person’s possession, custody or control, in so far as the relevant records or relevant information, as the case may be, consist of personal data.
+
+F86[(2A) Subject to *subsection (3A)*, the Executive shall, as soon as practicable after the coming into operation of section 25 of the Act of 2021, and from time to time thereafter where it considers it appropriate to do so, prepare and publish a revised code of practice for the purposes referred to in *subsection (2)*.]
+
+(3) The Executive shall not perform the function under *subsection (2)* except after consultation with the Data Protection Commissioner within the meaning of the Data Protection Acts 1988 and 2003.
+
+F86[(3A) The Executive shall not perform the function under *subsection (2A)* except after consultation with the Data Protection Commission.]
+
+(4) Subject to *subsection (5)*, a person shall not disclose relevant information except for the purpose of the performance of a function by the person under this Act.
+
+(5) A person may disclose relevant information to a member of the Garda Síochána if the person reasonably believes that the disclosure is necessary in order to prevent the continuance of an act constituting an offence.
+
+(6) Documents that are prepared for the purpose of performing a function under this Act shall not constitute Departmental records within the meaning of section 2(2) of the National Archives Act 1986.
+
+(7) The Executive shall determine the storage, retention or disposal of—
+
+F87[(*a*) applications for State support, applications under *section 14A*, *14F*, *14G*, *14H*, *14K* or *14L* and notifications under *section 14F* or *14G* (including any documents accompanying such applications or notifications),]
+
+(*b*) documents referred to in *subsection (6)*, and
+
+(*c*) relevant records which are in the possession of, or under the control of, the Executive.
+
+(8) The Executive may request in writing a person to provide the Executive with access to, or copies of, relevant records which—
+
+(*a*) are in the possession of, or under the control of, the person, and
+
+(*b*) will or may assist the Executive to perform its functions under this Act.
+
+(9) A person the subject of a request under *subsection (8)* shall comply with the request as soon as is practicable after the person receives the request.
+
+(10) A person who, without reasonable excuse, contravenes *subsection (4)* or *(9)* is guilty of an offence and is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €3,000 or imprisonment for a term not exceeding 6 months or both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €25,000 or imprisonment for a term not exceeding 2 years or both.
+
+(11) In this section—
+
+“relevant information”, in relation to a person referred to in *subsection (4)*, means information that is provided under this Act to the Executive, a suitable person, or a person appointed under *section 32(2)* and obtained by the first-mentioned person in the course of the performance of a function of the person under this Act;
+
+F87["relevant record" means—
+
+(*a*) any record which will or may assist the Executive to determine an application for State support, an application under *section 14A*, *14F*, *14G*, *14H*, *14K* or *14L* or a request for refundable State support,
+
+(*b*) any record pertaining to a notification under *section 14F* or *14G*, or
+
+(*c*) any documents accompanying—
+
+(i) an application referred to in *paragraph (a)*, or
+
+(ii) a notification referred to in *paragraph (b)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F85: Substituted (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 210(b), S.I. No. 174 of 2018.
+>
+> F86: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 25(a), (b), commenced as per s. 33(2).
+>
+> F87: Substituted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 25(c), (d), commenced as per s. 33(2).
+>
+> **Modifications (not altering text):**
+>
+> C5: Reference to Data Protection Commissioner in subs. (3) construed (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 14(2), commenced as per subs. (4) and S.I. No. 175 of 2018.
+>
+> **Transfer of functions of Data Protection Commissioner to Commission**
+>
+> **14.** (1) All functions that, immediately before the establishment day, were vested in the Data Protection Commissioner are transferred to the Commission.
+>
+> (2) A reference in any enactment or instrument under an enactment to the Data Protection Commissioner or to the Office of the Data Protection Commissioner shall be construed as a reference to the Commission.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E43: A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 45A. Annual report concerning relief in relation to farm or relevant business
+
+F88[**45A**.— (1) The Executive shall prepare in respect of each year (or such longer period as the Minister may, following receipt of the third report under this section, prescribe by regulations) a report containing information in relation to—
+
+(*a*) the effects on the Scheme of applications and appointments made under *sections 14A*, *14F*, *14G*, *14H*, *14K* and *14L*, determinations under *sections 14C(2)* and *14M(3)*, reviews under *section 14E*, decisions on repayment events under *section 14I(2)* and repayments under *section 14J*,
+
+(*b*) an assessment of likely trends arising from the effects on the Scheme of those applications, appointments, determinations, reviews and repayments, and
+
+(*c*) such other matters as may be specified by the Minister.
+
+(2) The Executive shall send a copy of each report prepared under this section to the Minister—
+
+(*a*) before the end of June in the year following that to which the report relates, or
+
+(*b*) where the Minister has made regulations under *subsection (1)*, before the end of June in the year following the last year to which the report relates.
+
+(3) For the purposes of preparing a report under *subsection (1)* and, subject to *section 45(7)*, the Executive shall keep records of information in relation to—
+
+(*a*) applications and appointments made under *sections 14A*, *14F*, *14G*, *14H*, *14K* and *14L*,
+
+(*b*) farms and relevant businesses to which such applications and appointments relate,
+
+(*c*) determinations under *sections 14C(2)* and *14M(3)*,
+
+(*d*) reviews under *section 14E*,
+
+(*e*) decisions on repayment events under *section 14I(2)*,
+
+(*f*) repayments under *section 14J*, and
+
+(*g*) such other matters as may be specified by the Minister.
+
+(4) The first report under this section shall be prepared by the Executive not later than 2 years after section 26 of the Act of 2021 comes into operation.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F88: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 26, commenced as per s. 33(2).
+>
+> **Editorial Notes:**
+>
+> E44: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 45AA. Annual report relating to eligible rental income
+
+F89[**45AA.**— (1) The Executive shall prepare in respect of each year (or such longer period as the Minister may, following receipt of the third report under this section, prescribe by regulations) a report containing information in relation to—
+
+(*a*) the proportion of financial assessments in respect of which eligible rental income is taken into account,
+
+(*b*) the number of principal residences from which eligible rental income derives,
+
+(*c*) an assessment of likely trends arising from the effects on the Scheme of the treatment of eligible rental income,
+
+(*d*) the impact of the changes effected by Part 9 of the Act of 2022 on outcomes for persons participating in the Scheme, including the timing of participation in the Scheme and risks relating to the safeguarding of vulnerable persons, and
+
+(*e*) such other matters as may be specified by the Minister.
+
+(2) The Executive shall send a copy of each report prepared under this section to the Minister—
+
+(*a*) before the end of June in the year following that to which the report relates, or
+
+(*b*) where the Minister has made regulations under *subsection (1)*, before the end of June in the year following the last year to which the report relates.
+
+(3) For the purposes of preparing a report under *subsection (1*) and, subject to *section 45(7)*, the Executive shall keep records of information in relation to—
+
+(*a*) financial assessments under *section 10*,
+
+(*b*) notifications under *section 24* relating to eligible rental income, and
+
+(*c*) such other matters as may be specified by the Minister.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F89: Inserted (1.11.2022) by *Regulation of Providers of Building Works and Miscellaneous Provisions Act 2022* (15/2022), s. 81, S.I. No. 537 of 2022.
+>
+> **Editorial Notes:**
+>
+> E45: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 45B. Review of operation of amendments effected by Act of 2021
+
+F90[**45B.**— (1) The Minister shall, not later than 5 years after the coming into operation of section 27 of the Act of 2021, in consultation with the Minister for Public Expenditure and Reform, carry out a review of the operation of the amendments to this Act effected by the Act of 2021.
+
+(2) Having completed the review under *subsection (1)*, the Minister shall, in consultation with the Minister for Public Expenditure and Reform, prepare a report setting out the findings and conclusions consequent on such review.
+
+(3) The Minister shall cause a copy of the report prepared under *subsection (2)* to be laid before each House of the Oireachtas as soon as practicable after it has been prepared.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F90: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 27, commenced as per s. 33(2).
+>
+> **Editorial Notes:**
+>
+> E46: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 45C. Review of operation of amendments effected by Part 9 of Act of 2022
+
+F91[**45C.**—(1) The Minister shall, 6 months after the coming into operation of section 82 of the Act of 2022, carry out a review of the operation of the amendments to this Act effected by Part 9 of the Act of 2022.
+
+(2) Without prejudice to the generality of *section 45AA*, the Minister shall, in consultation with the Minister for Public Expenditure and Reform and the Minister for Housing, Local Government and Heritage, prepare not later than 3 months after the commencement of the review under *subsection (1)* a report setting out the findings and conclusions consequent on such review.
+
+(3) The Minister shall cause a copy of the report prepared under *subsection (2)* to be laid before each House of the Oireachtas as soon as practicable after it has been prepared.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F91: Inserted (1.11.2022) by *Regulation of Providers of Building Works and Miscellaneous Provisions Act 2022* (15/2022), s. 82, S.I. No. 537 of 2022.
+>
+> **Editorial Notes:**
+>
+> E47: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 45D. Government order to modify assessment of eligible rental income
+
+F92[**45D.**—(1) Subject to *subsection (3)*, where a report has been prepared under *section 45C(2)*, the Government may, at the request of the Minister and the Minister for Housing, Local Government and Heritage, make an order—
+
+(*a*) providing that, with effect from such date as may be specified in the order—
+
+(i) *step I* of *paragraph 2A* of *Part 1A* of *Schedule 1* and *step K* of *paragraph 2A* of *Part 2A* of that Schedule shall have effect as if such lower percentages as may be specified in the order were substituted for the percentages for the time being specified in those steps of those paragraphs, or
+
+(ii) *Parts 1A* and *2A* of *Schedule 1* shall have effect as if they had not been amended by section 84 (1) and (2) of the Act of 2022,
+
+or
+
+(*b*) requiring the Minister, in consultation with the Minister for Public Expenditure and Reform and the Minister for Housing, Local Government and Heritage to prepare a further report setting out the findings and conclusions of the Minister in relation to the operation of the amendments to this Act effected by Part 9 of the Act of 2022 in respect of such period as may be specified in the order by such date as may be so specified.
+
+(2) Subject to *subsection (3)*, where a further report has been prepared by virtue of an order under *subsection (1)(b)*, the Government may, at the request of the Minister and the Minister for Housing, Local Government and Heritage, make an order under *subsection (1)(a)*.
+
+(3) Before making an order under *subsection (1)* the Government shall consider whether it would be appropriate to do so having regard to—
+
+(*a*) the request referred to in that subsection or, as the case may be, *subsection (2)*, and
+
+(*b*) where the order is to be made following—
+
+(i) a report prepared under *section 45C(2)*, that report, and
+
+(ii) a further report prepared by virtue of an order under *subsection (1)(b)*, that further report.
+
+(4) An order under *subsection (1)(a)(i)* may provide that—
+
+(*a*) *step K* of *paragraph 2A* of *Part 1A* of *Schedule 1* (so far as relating to the amount produced by *step F*), and
+
+(*b*) *step M* of *paragraph 2A* of *Part 2A* of that Schedule (so far as relating to the amount produced by *step H*),
+
+shall have effect as if such percentages as may be specified in the order were substituted for the percentages for the time being specified in those steps of those paragraphs.
+
+(5) An order under *subsection (1)(a)(ii)* may provide that *section 24* shall have effect as if the following subsection were substituted for *subsection (1)* of that section:
+
+"(1) A person (or the person’s care representative, if any) who is the subject of an application for State support or who is provided with financial support or a person who is a family successor shall give notice in writing to the Executive of—
+
+(*a*) any material change in circumstances,
+
+(*b*) any change in circumstances that results in eligible rental income becoming, or ceasing to be, payable, or
+
+(*c*) where eligible rental income is payable, any change in the amount of eligible rental income, not later than 10 working days after the material change or other change concerned comes to the knowledge of the person.".
+
+(6) An order under this section may make such incidental, supplementary, consequential or transitional provision (including provision modifying the effect of this Act) as the Government consider necessary or expedient for the purposes of the order.
+
+(7) The Minister shall cause a copy of any further report prepared in pursuance of an order under *subsection (1)(b)* to be laid before each House of the Oireachtas as soon as practicable after it has been prepared.
+
+(8) An order under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which that House sits after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done under it.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F92: Inserted (1.11.2022) by *Regulation of Providers of Building Works and Miscellaneous Provisions Act 2022* (15/2022), s. 83, S.I. No. 537 of 2022.
+>
+> **Editorial Notes:**
+>
+> E48: Power pursuant to subs. (1) exercised (1.02.2024) by *Nursing Homes Support Scheme Act 2009 (Modification of Assessment of Eligible Rental Income) Order 2023* (S.I. No. 618 of 2023), in effect as per reg. 3.
+>
+> E49: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 46. Relief of undue hardship.
+
+**46**.— (1) The Minister, with the consent of the Minister for Finance, may, for the purpose of the relief of undue hardship, make regulations in relation to the carrying out of financial assessments consistent with this Act.
+
+(2) The power to make regulations under this section includes the power to provide that the income or assets (or a specified part of such income or assets) of one member of a couple be disregarded in the carrying out of a financial assessment in connection with an application for State support by the other member of the couple where exceptional circumstances specified in the regulations are shown to exist to the satisfaction of the Executive or the person requested pursuant to *section 10* to carry out the financial assessment.
+
+(3) Every regulation made under this section shall be laid by the Minister before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next 21 days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+### 46A. Principles with regard to specified persons
+
+F93[**46A.**— (1) *Subsections (2)* to *(7)* shall be taken into account by a specified person when acting as such.
+
+(2) A specified person shall not act as such unless it is necessary to do so having regard to the individual circumstances of the person on whose behalf he or she is acting (in this section referred to as the "other person").
+
+(3) An action by a specified person in respect of the other person shall—
+
+(*a*) be made in a manner that minimises—
+
+(i) the restriction of the other person’s rights, and
+
+(ii) the restriction of the other person’s freedom of action,
+
+(*b*) have due regard to the need to respect the right of the other person to dignity, bodily integrity, privacy, autonomy and control over his or her financial affairs and property,
+
+(*c*) be proportionate to the significance and urgency of the matter the subject of the action, and
+
+(*d*) be as limited in duration in so far as is practicable after taking into account the particular circumstances of the matter the subject of the action.
+
+(4) A specified person, when acting as such, shall—
+
+(*a*) permit, encourage and facilitate, in so far as is practicable, the other person on whose behalf he or she is acting to participate, or to improve his or her ability to participate, as fully as possible, in the action,
+
+(*b*) give effect, in so far as is practicable, to the past and present will and preferences of the other person, in so far as that will and those preferences are reasonably ascertainable,
+
+(*c*) take into account—
+
+(i) the beliefs and values of the other person (in particular those expressed in writing), in so far as those beliefs and values are reasonably ascertainable, and
+
+(ii) any other factors that the other person would be likely to consider if he or she were able to do so, in so far as those other factors are reasonably ascertainable,
+
+(*d*) unless the specified person reasonably considers that it is not appropriate or practicable to do so, consider the views of any person named by the other person as a person to be consulted on the matter concerned or any similar matter,
+
+(*e*) act at all times in good faith and for the benefit of the other person, and
+
+(*f*) consider all other circumstances of which he or she is aware and which it would be reasonable to regard as relevant.
+
+(5) The specified person, when acting as such, shall have regard to—
+
+(*a*) the likelihood of the recovery of the other person’s capacity in respect of the matter concerned, and
+
+(*b*) the urgency of so acting prior to such recovery.
+
+(6) The specified person, when acting as such—
+
+(*a*) shall not attempt to obtain personal records relating to the other person or other information to which that person is entitled that is not reasonably required for so acting,
+
+(*b*) shall not use such records or information for a purpose other than in relation to so acting, and
+
+(*c*) shall take reasonable steps to ensure that such records or information—
+
+(i) is kept secure from unauthorised access, use or disclosure, and
+
+(ii) is safely disposed of when he or she believes it is no longer required.
+
+(7) In this section, "specified person" has the same meaning as it has in *section 47*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F93: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2023), s. 102(c), S.I. No. 194 of 2023.
+
+### 47. Authority of person to act on behalf of another person
+
+**47**.— F94[(1) Subject to *subsections (1A)*, *(2)* and *(4)*, a specified person may act on behalf of another person in relation to the following matters under this Act:
+
+(*a*) an application for a care needs assessment under *section 7* and the giving of consent under *section 7(13)*;
+
+(*b*) a further application for a care needs assessment as referred to in *section 8*;
+
+(*c*) an application under *section 9* for State support;
+
+(*d*) the giving of a notice to the Executive under *section 24*;
+
+(*e*) a request under *section 30* for a review;
+
+(*f*) an appeal under *section 32* against a decision of the Executive;
+
+(*g*) the provision of any information that the Executive may request, and communication with the Executive, in relation to any of the matters referred to in *paragraphs (a)* to *(f)*,
+
+where that other person lacks capacity in relation to one or more of the matters referred to in *paragraphs (a)* to *(g)*.]
+
+F95[(1A) A specified person shall not act on behalf of another person in relation to any matter referred to in *subsection (1)* where that other person—
+
+(*a*) is a ward of court and has a committee duly authorised to act with regard to that matter,
+
+(*b*) has appointed a person to be his or her attorney under an enduring power of attorney, and—
+
+(i) the attorney is not prohibited or restricted by the terms of the power from performing that matter, and
+
+(ii) either—
+
+(I) the enduring power of attorney has been registered under the Powers of Attorney Act 1996 and the registration has not been cancelled, or
+
+(II) the Director of the Decision Support Service has accepted a notification of the enduring power of attorney under section 71C of the Assisted Decision-Making (Capacity) Act 2015 (in this section referred to as the "Act of 2015") and this acceptance is in force,
+
+or
+
+(*c*) the court has made a decision-making order under section 38(2) of the Act of 2015 which relates to that matter, or has made a decision-making representation order under that section conferring functions with regard to that matter on a decision-making representative.]
+
+(2) The Executive may refuse to deal with a person purporting to be a specified person acting on behalf of a person to whom an application for State support relates (the relevant person) unless the first-mentioned person satisfies the Executive that the first-mentioned person is in fact a specified person acting on behalf of the relevant person.
+
+(3) When the Executive refuses under *subsection (2)* to deal with a person purporting to be a specified person, it shall, not later than 10 working days after the refusal, give both the specified person and the relevant person notice in writing of the decision and the reasons for the decision.
+
+(4) The Executive may refuse to deal with a specified person in respect of a relevant matter if the Executive is not satisfied that the specified person is acting in the best interests of the relevant person in respect of that matter.
+
+(5) When the Executive refuses under *subsection (4)* to deal with a specified person in respect of a relevant matter, it shall, not later than 10 working days after the refusal, give the specified person and the relevant person notice in writing of the decision and the reasons for the decision.
+
+(6) Subject to *subsections (2)* and *(4)*, no provision of this Act shall operate to prevent the Executive from dealing with a specified person, and anything done by the specified person shall be binding upon the person on whose behalf the action was taken.
+
+(7) In this section, “specified person”, in relation to a person, means—
+
+(*a*) F96[...]
+
+(*b*) F96[...]
+
+(*c*) a care representative appointed pursuant to an application under *section 21*,
+
+(*d*) where the person is a member of a couple, the other member of the couple,
+
+(*e*) a F98[child] of the person who is not less than 18 years of age,
+
+(*f*) F97[...]
+
+(*g*) F97[...]
+
+(*h*) a registered medical practitioner, a registered nurse or registered social worker.
+
+F99[(7A) A person—
+
+(*a*) who is acting as a specified person within the meaning of *paragraphs (e)* to *(g)* of *subsection (7)* immediately before the date of the coming into operation of section 102 of the Assisted Decision-Making (Capacity) (Amendment) Act 2022, and
+
+(*b*) who, on or after that date, and but for this subsection, would no longer be able to act in light of the amendments to those paragraphs made by the said section 102 of the Assisted Decision-Making (Capacity) (Amendment) Act 2022,
+
+may, notwithstanding the amendments effected to those paragraphs by the said section 102 of the Assisted Decision-Making (Capacity) (Amendment) Act 2022, continue to act as a specified person unless and until the person on whose behalf the specified person is acting becomes a person to whom *subsection (1A)* applies.]
+
+(8) The F100[category of person who] may act as a specified person referred to in F100[*paragraph (c)*] of *subsection (7)* shall have priority over the categories of person referred to in *paragraphs (d)* to *(h)* of *subsection (7)* but a person referred to in F100[*paragraph (c)*] of such subsection may consent in writing to a person with lesser priority acting as a specified person.
+
+(9) *Subsection (1)* shall not operate to permit a person—
+
+(*a*) to act as a care representative unless that person is appointed as a care representative under *section 21*, F101[...]
+
+F102[(*aa*) F103[...]]
+
+(*b*) F103[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F94: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2023), s. 102(d)(i), S.I. No. 194 of 2023.
+>
+> F95: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2023), s. 102(d)(ii), S.I. No. 194 of 2023.
+>
+> F96, F97: Deleted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2023), s. 102(d)(iii)(I), (III), S.I. No. 194 of 2023.
+>
+> F98: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2023), s. 102(d)(iii)(II), S.I. No. 194 of 2023.
+>
+> F99: Inserted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2023), s. 102(d)(iv), S.I. No. 194 of 2023.
+>
+> F100: Substituted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2023), s. 102(d)(v), S.I. No. 194 of 2023.
+>
+> F101: Deleted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 28(a), commenced as per s. 33(2).
+>
+> F102: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 28(b), commenced as per s. 33(2).
+>
+> F103: Deleted (26.04.2023) by *Assisted Decision-Making (Capacity) (Amendment) Act 2022* (46/2023), s. 102(d)(vi), S.I. No. 194 of 2023.
+
+### 47A. Right to bring another person to interview arranged by the Executive
+
+F104[**47A**.— Where the Executive is authorised or required under any provision of this Act to interview a person—
+
+(*a*) the person may be accompanied during the interview by a person of his or her choice who has attained the age of 18 years, and
+
+(*b*) the Executive shall inform the person of his or her right to be accompanied when the Executive is making arrangements with the person for the interview.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F104: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 29, commenced as per s. 33(2).
+>
+> **Editorial Notes:**
+>
+> E50: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 48. Amendment of Taxes Consolidation Act 1997.
+
+**48**.— The Taxes Consolidation Act 1997 is amended by the insertion of the following section after section 192B:
+
+“Exemption in respect of payments of State support.
+
+192C.— (1) Notwithstanding any other provision of the Income Tax Acts, a person in receipt of care services shall be exempt from income tax in respect of any State support provided to the person under *section 12(2)* of the *Nursing Homes Support Scheme Act 2009* and the payment shall not be reckoned in computing the person’s income for the purposes of the Income Tax Acts.
+
+(2) Notwithstanding any provision of the Income Tax Acts, any payment referred to in subsection (1) shall be paid without deduction of income tax.
+
+(3) In this section ‘care services’ and ‘State support’ have the same meaning as in the *Nursing Homes Support Scheme Act 2009*.”.
+
+### 49. Transitional arrangements in relation to, and amendment of, certain paragraphs of Part 3 of Schedule 1
+
+F105[**49**.— (1) Where, immediately before the commencement day—
+
+(*a*) a person is receiving care services,
+
+(*b*) the person is receiving State support, and
+
+(*c*) *paragraph 7* of *Part 3* of *Schedule 1* applies in relation to the person,
+
+*paragraphs 7* to *9* of *Part 3* of that Schedule shall, notwithstanding their deletion by section 31(d) of the Act of 2021, continue to have effect in relation to the person on and after the commencement day.
+
+(2) Subject to *subsection (3)*, where, immediately before the commencement day—
+
+(*a*) a person is receiving care services,
+
+(*b*) the Executive has made a determination under *section 7(8) (a)* that the person needs care services,
+
+(*c*) the Executive has made a determination under *section 11(1)* in relation to the person, and
+
+(*d*) *paragraph 8(a)* and *(b)* (but not *paragraph 7*) of *Part 3* of *Schedule 1* applies in relation to the person,
+
+the person may elect that, having regard to the possibility that *paragraph 7* of *Part 3* of that *Schedule* may apply in relation to the person on or after the commencement day, *paragraphs 7* to *9* of *Part 3* of that Schedule shall, notwithstanding their deletion by section 31(d) of the Act of 2021, have effect in relation to the person on and after the commencement day.
+
+(3) An election under *subsection (2)* is effective only if it is made in the specified form and submitted to the Executive before the expiry of the period of 6 months beginning on the commencement day.
+
+(4) Where an election is made by a person in accordance with *subsection (2)*, *paragraphs 7* to *9* of *Part 3* of *Schedule 1* shall, notwithstanding their deletion by section 31(d) of the Act of 2021, have effect in relation to that person on and after the commencement day.
+
+(5) (*a*) Where—
+
+(i) a person is or was a member of a couple, and
+
+(ii) *paragraphs 7* to *9* of *Part 3* of *Schedule 1* apply or applied in relation to the partner of that person (whether before or after the commencement day),
+
+*paragraphs 7* to *9* of *Part 3* of *Schedule 1* shall, notwithstanding their deletion by section 31(d) of the Act of 2021, have effect in relation to that person on and after the commencement day.
+
+(*b*) Where *paragraphs 7* to *9* of *Part 3* of *Schedule 1* have effect in relation to a person by virtue of *paragraph (a)*, it is not necessary for the conditions in *paragraph 8(a)* and *(b)* of *Part 3* of *Schedule 1* to be met in respect of that person provided that these conditions have or had been met in respect of that person’s partner.
+
+(*c*) Where—
+
+(i) a person is a member of a couple,
+
+(ii) *paragraphs 7* to *9* of *Part 3* of *Schedule 1* have effect in relation to that person by virtue of *paragraph (a)*, and
+
+(iii) *paragraph 7* of *Part 3* of *Schedule 1* applies in respect of that person’s partner,
+
+the certification to be provided under *paragraph 8(c)* of *Part 3* of *Schedule 1* shall be provided by the same family successor who provided the certification in respect of that person’s partner.
+
+(6) For so long as *paragraph 7* of *Part 3* of *Schedule 1* applies in relation to a person by virtue of *subsection (1)*, *(4)* or *(5)(a)*, the person may not make an application under *section 14A*.
+
+(7) (*a*) *Paragraph 7* of *Part 3* of *Schedule 1* shall be deemed always to have had effect and shall, for the purposes of *subsections (1)*, *(4)* and *(5)(a)*, continue to have effect as if—
+
+(i) the following subparagraph were substituted for *subparagraph (d)*:
+
+"(*d*) any combination of the services referred to in *subparagraphs (a)* to *(c)*,",
+
+and
+
+(ii) the following provision applied to each of *subparagraphs (a)*, *(b)*, *(c)* and *(d)*:
+
+"for a period of 3 years (which period need not be continuous).",
+
+and
+
+(*b*) *Part 3* of *Schedule 1* shall be deemed always to have had effect and shall, for the purposes of *subsections (1)*, *(4)* and *(5)(a)*, continue to have effect as if the following paragraph were substituted for *paragraph 9*:
+
+"9. (*a*) *Paragraph 7* shall apply to a relevant asset which is a transferred asset and which is a farm or relevant business.
+
+(*b*) Where *paragraph 7* applies in relation to a person who is a member of a couple, the reference in that paragraph to the interest of the person shall be construed as a reference to the interest of the person and the interest (if any) of the other member of the couple.
+
+(*c*) Where the partner of a person who has or (in the case of a transferred asset) had an interest in a farm or relevant business does not have an interest in the farm or relevant business concerned he or she shall, for the purposes of paragraph 7, be deemed to have or (in the case of a transferred asset) be deemed to have had an interest in that farm or relevant business.
+
+(*d*) *Subparagraph (e)* applies only in a case where the person (in this paragraph referred to as the "relevant person") was a member of a couple and—
+
+(i) *paragraph 7* applies to the relevant person, and
+
+(ii) *paragraph 7* applied to the other member of the couple (in this paragraph referred to as the "other member"),
+
+in relation to the same farm or relevant business.
+
+(*e*) The total of the amounts of the assessed weekly means under this Act which relate to the farm or relevant business, arising pursuant to the financial assessment relating to the other member and the financial assessment relating to the relevant person, when aggregated, shall not exceed the amount which is 22.5 per cent of the estimated market value of that farm or relevant business at the date of valuation of the farm or relevant business in connection with the first financial assessment of the relevant person less allowable deductions applicable to that asset, and on that threshold being reached, notwithstanding any provision of this Schedule, the farm or relevant business shall cease to be a relevant asset."
+
+(8) In this section—
+
+"commencement day" means the day on which section 31(d) of the Act of 2021 comes into operation;
+
+"family successor" has the same meaning as it had before section 31(a)(i) of the Act of 2021 came into operation.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F105: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 32, commenced as per s. 33(2).
+
+## SCHEDULE 1 Assessment of Means — SCHEDULE 1 — Assessment of Means
+
+### PART 1
+
+F106[**Assessment of means of a person who is not a member** **of a couple where the application for State support is made** **prior to the relevant day**
+
+1\. (*a*) The means of a person who is not a member of a couple shall, subject to Part 3, be assessed on the basis of the rules in this Part.
+
+(*b*) This Part applies to applications for State support made prior to the relevant day.]
+
+**Assessment of income**
+
+2\. Assess the weekly income following the directions at steps A to E:
+
+A. Establish the annual income of the person using the definition of “income”.
+
+B. Deduct allowable deductions.
+
+C. Divide amount produced by step B by 52 to establish net weekly income.
+
+D. Take 80 per cent of amount produced by step C (net weekly income) which amount, unless step E applies, is the weekly assessed income.
+
+E. Where applying the rule in step C produces a result whereby 20 per cent of net weekly income is less than the minimum retained income threshold, the weekly assessed income is the amount established by step C less the minimum retained income threshold.
+
+**Assessment of cash assets**
+
+3\. Assess the weekly value of the cash assets by following the directions at steps A to F:
+
+A. Establish all the cash assets of the person being assessed using the definition of “cash assets” and value each cash asset on the basis of the estimated market value.
+
+B. Deduct from the estimated market value of each cash asset the amount of allowable deductions relating to that cash asset to produce the net value of each cash asset.
+
+C. Aggregate all net values of cash assets established under step B.
+
+D. Deduct general assets deductible amount from the amount produced by step C to produce annual assessed cash assets.
+
+E. Take 5 per cent of the amount produced by step D to establish the amount of the annual assessed cash assets.
+
+F. Divide amount produced by step E by 52 to produce weekly assessed cash assets.
+
+**Assessment of relevant assets**
+
+4\. Assess the weekly value of the relevant assets by following the directions at steps A to F:
+
+A. Establish all assets which are relevant assets using the definition of “relevant assets” of the person being assessed and value each relevant asset on the basis of the estimated market value.
+
+B. Deduct from the estimated market value of each relevant asset the amount of allowable deductions relating to that relevant asset to produce the net value of each relevant asset.
+
+C. Aggregate all net values of relevant assets to produce total net value of relevant assets.
+
+D. If the general assets deductible amount has not been fully used in connection with the cash assets assessment apply unused balance by deducting the unused amount from total net value of relevant assets produced by step C.
+
+E. Take 5 per cent of the amount produced by step D or, if step D does not apply, by Step C to produce the annual assessed relevant assets amount.
+
+F. To establish assessed weekly value of relevant assets divide result of step E by 52.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F106: Substituted (24.07.2013) by *Health (Amendment) Act 2013* (31/2013), s. 7(a), commenced on enactment.
+
+### PART 1A
+
+F107[**Assessment of means of a person who is not a member of a couple where the application for State support is made on or after the relevant day**
+
+1\. (*a*) The means of a person who is not a member of a couple shall, subject to *Part 3*, be assessed on the basis of the rules in this Part.
+
+(*b*) This Part applies to applications for State support made on or after the relevant day.
+
+F108[**Assessment of income where no eligible rental income applicable**
+
+2\. Where there is no eligible rental income, assess the weekly income by following the directions at steps A to E:
+
+A. Establish the annual income of the person using the definition of "income".
+
+B. Deduct allowable deductions.
+
+C. Divide amount produced by step B by 52 to establish net weekly income.
+
+D. Take 80 per cent of amount produced by step C (net weekly income) which amount, unless step E applies, is the weekly assessed income.
+
+E. Where applying the rule in step D produces a result whereby 20 per cent of net weekly income is less than the minimum retained income threshold, the weekly assessed income is the amount established by step C less the minimum retained income threshold.]
+
+F109[**Assessment of income where eligible rental income applicable**
+
+2A. Where there is eligible rental income, assess the weekly income by following the directions at steps A to K:
+
+A. Establish the annual income of the person using the definition of "income".
+
+B. Deduct allowable deductions.
+
+C. Divide amount produced by step B by 52.
+
+D. Establish the annual eligible rental income of the person.
+
+E. Deduct income tax required by law to be deducted or paid in respect of eligible rental income and in respect of which the applicant or any other person is not entitled to claim an exemption, relief or allowance or the repayment of tax already paid.
+
+F. Divide amount produced by step E by 52.
+
+G. Add amount produced by step C to amount produced by step F to establish net weekly income.
+
+H. Take 80 per cent of amount produced by step C.
+
+I. Take F110[0 per cent] of amount produced by step F.
+
+J. Add amount produced by step H to amount produced by step I which amount, unless step K applies, is the weekly assessed income.
+
+K. Where applying the rule in step J produces a result whereby the sum of 20 per cent of the amount produced by step C and F111[100 per cent] of the amount produced by step F is less than the minimum retained income threshold, the weekly assessed income is the amount established by step G less the minimum retained income threshold.]
+
+**Assessment of cash assets**
+
+3\. Assess the weekly value of the cash assets by following the directions at steps A to F:
+
+A. Establish all the cash assets of the person being assessed using the definition of "cash assets" and value each cash asset on the basis of the estimated market value.
+
+B. Deduct from the estimated market value of each cash asset the amount of allowable deductions relating to that cash asset to produce the net value of each cash asset.
+
+C. Aggregate all net values of cash assets established under step B.
+
+F112[CA. Where the person is entitled to the proceeds of sale deductible amount, deduct proceeds of sale deductible amount from the amount produced by step C.]
+
+F113[D. Deduct general assets deductible amount from the amount produced by step C or, if step CA applies, from the amount produced by step CA, to produce annual assessed cash assets.]
+
+E. Take 7.5 per cent of the amount produced by step D to establish the amount of the annual assessed cash assets.
+
+F. Divide amount produced by step E by 52 to produce weekly assessed cash assets.
+
+**Assessment of relevant assets**
+
+4\. Assess the weekly value of the relevant assets by following the directions at steps A to F:
+
+A. Establish all assets which are relevant assets using the definition of "relevant assets" of the person being assessed and value each relevant asset on the basis of the estimated market value.
+
+B. Deduct from the estimated market value of each relevant asset the amount of allowable deductions relating to that relevant asset to produce the net value of each relevant asset.
+
+C. Aggregate all net values of relevant assets to produce total net value of relevant assets.
+
+F112[CA. Where the person is entitled to the proceeds of sale deductible amount and the proceeds of sale deductible amount has not been fully used in connection with the cash assets assessment then apply the unused balance by deducting the unused amount from the total net value of relevant assets produced by step C.]
+
+F113[D. If the general assets deductible amount has not been fully used in connection with the cash assets assessment then apply the unused balance by deducting the unused amount from total net value of relevant assets produced by step C or, if step CA applies, from the amount produced by step CA.]
+
+E. Take 7.5 per cent of the amount produced by step D or, if step D does not apply, by step C to produce the annual assessed relevant assets amount.
+
+F. To establish assessed weekly value of relevant assets divide result of step E by 52.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F107: Inserted (24.07.2013) by *Health (Amendment) Act 2013* (31/2013), s. 7(b), commenced on enactment.
+>
+> F108: Substituted (1.11.2022) by *Regulation of Providers of Building Works and Miscellaneous Provisions Act 2022* (15/2022), s. 84(1)(a), S.I. No. 537 of 2022.
+>
+> F109: Inserted (1.11.2022) by *Regulation of Providers of Building Works and Miscellaneous Provisions Act 2022* (15/2022), s. 84(1)(b), S.I. No. 537 of 2022.
+>
+> F110, F111: Substituted (1.02.2024) by *Nursing Homes Support Scheme Act 2009 (Modification of Assessment of Eligible Rental Income) Order 2023* (S.I. No. 618 of 2023), reg. 3(a)(i), (ii), in effect as per reg. 3.
+>
+> F112: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 30(a)(i), (b)(i), commenced as per s. 33(2).
+>
+> F113: Substituted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 30(a)(ii), (b)(ii), commenced as per s. 33(2).
+
+### PART 2
+
+F114[**Assessment of means of a person who is a member of a** **couple where the application for State support is made** **prior to the relevant day**
+
+1.(*a*) The means of a person who is a member of a couple shall, subject to Part 3, be assessed on the basis of the rules in this Part.
+
+(*b*) This Part applies to applications for State support made prior to the relevant day.]
+
+**Assessment of income**
+
+2\. Assess the weekly income by following the directions at steps A to F:
+
+A. Establish the annual income of the person and his or her partner using the definition of “income”.
+
+B. From the annual income of each of those persons deduct allowable deductions applicable to that person’s income to establish net annual income of each member of the couple.
+
+C. Aggregate the two net annual incomes established under step B.
+
+D. Divide amount produced by step C by 52 to establish net weekly income.
+
+E. Take 40 per cent of amount produced by step D and the amount established following that calculation is, unless step F applies, the weekly assessed income.
+
+F. Where applying the rule in step E produces a result whereby 60 per cent of net weekly income is less than the minimum retained income threshold, the weekly assessed income is the amount established by step D less the amount which is the minimum retained income threshold.
+
+**Assessment of cash assets**
+
+3\. Assess the weekly value of the cash assets by following the directions at steps A to G:
+
+A. Establish all the cash assets of the person to whom the assessment relates and his or her partner using the definition of “cash assets” and value each cash asset on the basis of the estimated market value.
+
+B. Deduct from the estimated market value of each cash asset the amount of allowable deductions relating to that cash asset to produce net value of each cash asset.
+
+C. Aggregate all net values of cash assets established under step B.
+
+D. Deduct general assets deductible amount from the amount produced by step C to establish total assessed cash assets.
+
+E. Take 5 per cent of the amount produced by step D to establish the amount of the annual assessed cash assets of the couple.
+
+F. Divide amount established by step E by 2 to establish the amount of the annual assessed cash assets of the person in respect of whom the financial assessment is being carried out.
+
+G. Divide amount established by step F by 52 to produce the assessed weekly cash assets of the person in respect of whom the financial assessment is being carried out.
+
+**Assessment of relevant assets**
+
+4\. Assess the weekly value of the relevant assets by following the directions at steps A to G:
+
+A. Establish all assets which are relevant assets of the person in respect of whom the financial assessment is being carried out and his or her partner using the definition of “relevant assets” and value each relevant asset on the basis of estimated market value.
+
+B. Deduct from the estimated market value of each relevant asset the amount of allowable deductions relating to that relevant asset to produce the net value of each relevant asset.
+
+C. Aggregate all net values of relevant assets established under step B.
+
+D. If the general assets deductible amount has not been fully used in connection with the cash assets assessment then apply the unused balance by deducting the unused amount from the amount established by step C.
+
+E. Take 5 per cent of the amount established by step D or, if step D does not apply, by Step C to establish the annual assessed relevant assets amount.
+
+F. Divide amount established by step E by 2 to establish the amount of the annual assessed relevant assets of the person in respect of whom the financial assessment is being carried out.
+
+G. Divide the amount established by step F by 52 to produce the assessed weekly value of relevant assets of the person in respect of whom the financial assessment is being carried out.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F114: Substituted (24.07.2013) by *Health (Amendment) Act 2013* (31/2013), s. 7(c), commenced on enactment.
+
+### PART 2A
+
+F115[**Assessment of means of a person who is a member of a** **couple where the application for State support is made on** **or after the relevant day**
+
+1\. (*a*) The means of a person who is a member of a couple shall, subject to *Part 3*, be assessed on the basis of the rules in this Part.
+
+(*b*) This Part applies to applications for State support made on or after the relevant day.
+
+F116[**Assessment of income where no eligible rental income applicable**
+
+2\. Where there is no eligible rental income, assess the weekly income by following the directions at steps A to F:
+
+A. Establish the annual income of the person and his or her partner using the definition of "income".
+
+B. From the annual income of each of those persons deduct allowable deductions applicable to that person’s income to establish net annual income of each member of the couple.
+
+C. Aggregate the two net annual incomes established under step B.
+
+D. Divide amount produced by step C by 52 to establish net weekly income.
+
+E. Take 40 per cent of amount produced by step D and the amount established following that calculation is, unless step F applies, the weekly assessed income.
+
+F. Where applying the rule in step E produces a result whereby 60 per cent of net weekly income is less than the minimum retained income threshold, the weekly assessed income is the amount established by step D less the amount which is the minimum retained income threshold.]
+
+F117[**Assessment of income where eligible rental income applicable**
+
+2A. Where there is eligible rental income, assess the weekly income by following the directions at steps A to M:
+
+A. Establish the annual income of the person and his or her partner using the definition of "income".
+
+B. From the annual income of each of those persons deduct allowable deductions applicable to that person’s income.
+
+C. Aggregate the two amounts produced by step B.
+
+D. Divide amount produced by step C by 52.
+
+E. Establish the amount of annual eligible rental income of the person and his or her partner.
+
+F. From the annual eligible rental income of each of those persons deduct income tax required by law to be deducted or paid in respect of eligible rental income and in respect of which the applicant or any other person is not entitled to claim an exemption, relief or allowance or the repayment of tax already paid.
+
+G. Aggregate the two amounts produced by step F.
+
+H. Divide amount produced by step G by 52.
+
+I. Add amount produced by step D to amount produced by step H to establish net weekly income.
+
+J. Take 40 per cent of amount produced by step D.
+
+K. Take F118[0 per cent] of amount produced by step H.
+
+L. Add amount produced by step J to amount produced by step K which amount, unless step M applies, is the weekly assessed income.
+
+M. Where applying the rule in step L produces a result whereby the sum of 60 per cent of the amount produced by step D and F118[100 per cent] of the amount produced by step H is less than the minimum retained income threshold, the weekly assessed income is the amount established by step I less the minimum retained income threshold.]
+
+**Assessment of cash assets**
+
+3\. Assess the weekly value of the cash assets by following the directions at steps A to G:
+
+A. Establish all the cash assets of the person to whom the assessment relates and his or her partner using the definition of "cash assets" and value each cash asset on the basis of the estimated market value.
+
+B. Deduct from the estimated market value of each cash asset the amount of allowable deductions relating to that cash asset to produce net value of each cash asset.
+
+C. Aggregate all net values of cash assets established under step B.
+
+F119[CA. Where the person is entitled to the proceeds of sale deductible amount, deduct proceeds of sale deductible amount from the amount produced by step C.]
+
+F120[D. Deduct general assets deductible amount from the amount produced by step C or, if step CA applies, from the amount produced by step CA, to establish total assessed cash assets.]
+
+E. Take 7.5 per cent of the amount produced by step D to establish the amount of the annual assessed cash assets of the couple.
+
+F. Divide amount established by step E by 2 to establish the amount of the annual assessed cash assets of the person in respect of whom the financial assessment is being carried out.
+
+G. Divide amount established by step F by 52 to produce the assessed weekly cash assets of the person in respect of whom the financial assessment is being carried out.
+
+**Assessment of relevant assets**
+
+4\. Assess the weekly value of the relevant assets by following the directions at steps A to G:
+
+A. Establish all assets which are relevant assets of the person in respect of whom the financial assessment is being carried out and his or her partner using the definition of "relevant assets" and value each relevant asset on the basis of estimated market value.
+
+B. Deduct from the estimated market value of each relevant asset the amount of allowable deductions relating to that relevant asset to produce the net value of each relevant asset.
+
+C. Aggregate all net values of relevant assets established under step B.
+
+F119[CA. Where the person is entitled to the proceeds of sale deductible amount and the proceeds of sale deductible amount has not been fully used in connection with the cash assets assessment then apply the unused balance by deducting the unused amount from the amount produced by step C.]
+
+F120[D. If the general assets deductible amount has not been fully used in connection with the cash assets assessment then apply the unused balance by deducting the unused amount from the amount established by step C or, if step CA applies, from the amount established by step CA.]
+
+E. Take 7.5 per cent of the amount established by step D or, if step D does not apply, by step C to establish the annual assessed relevant assets amount.
+
+F. Divide amount established by step E by 2 to establish the amount of the annual assessed relevant assets of the person in respect of whom the financial assessment is being carried out.
+
+G. Divide the amount established by step F by 52 to produce the assessed weekly value of relevant assets of the person in respect of whom the financial assessment is being carried out.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F115: Inserted (24.07.2013) by *Health (Amendment) Act 2013* (31/2013), s. 7(d), commenced on enactment.
+>
+> F116: Substituted (1.11.2022) by *Regulation of Providers of Building Works and Miscellaneous Provisions Act 2022* (15/2022), s. 84(2)(a), S.I. No. 537 of 2022.
+>
+> F117: Inserted (1.11.2022) by *Regulation of Providers of Building Works and Miscellaneous Provisions Act 2022* (15/2022), s. 84(2)(b), S.I. No. 537 of 2022.
+>
+> F118: Substituted (1.02.2024) by *Nursing Homes Support Scheme Act 2009 (Modification of Assessment of Eligible Rental Income) Order 2023* (S.I. No. 618 of 2023), reg. 3(b), (c), in effect as per reg. 3.
+>
+> F119: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 30(c)(i), (d)(i), commenced as per s. 33(2).
+>
+> F120: Substituted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 30(c)(ii), (d)(ii), commenced as per s. 33(2).
+
+### PART 3 — INTERPRETATION AND MISCELLANEOUS
+
+1\. In this Schedule—
+
+“allowable deduction”—
+
+(*a*) subject to *paragraph 2* , in relation to income, means—
+
+(i) income tax required by law to be deducted or paid from the income and in respect of which (other than as respects payments or expenses to which *clauses (iv)*, *(v)* or *(vi)* refer) the applicant or any other person is not entitled to claim an exemption, relief or allowance or the repayment of tax already paid,
+
+(ii) social insurance contributions,
+
+(iii) levies required by law to be paid,
+
+(iv) payments which—
+
+(I) are paid in respect of interest on monies borrowed for the purchase, repair or improvement of the principal residence of the person, or
+
+(II) are paid in respect of rent on the principal residence of the person concerned under an agreement entered into at arm’s length if, and only for so long as, there resides therein the person’s partner or a child under the age of 21 years of the person or the person’s partner,
+
+less the amount of any relief from income tax which may be claimed in respect of such payments,
+
+(v) health expenses to which section 469 of the Taxes Consolidation Act 1997 applies, less the amount of any relief from income tax which may be claimed by the applicant, the spouse of the applicant or a relative, F121[but for the purposes of this subparagraph any payments made by a person or his or her partner in respect of care services shall not be included],
+
+(vi) payments made in respect of the maintenance of a child, a spouse or a former spouse under a separation agreement or pursuant to an order of a court of competent jurisdiction, less the amount of any relief from income tax which may be claimed in respect of such payments,
+
+(vii) such other deduction as may be prescribed, under regulations made under *section 36*, for the purposes of this paragraph;
+
+(*b*) subject to *paragraphs 3* and *4*, in relation to cash assets, means borrowings incurred specifically for the purchase of the asset concerned to the extent that such amount has not been repaid and in respect of which borrowings the Executive is satisfied that the purpose of incurring the borrowings was for the purpose of acquiring the asset concerned, and
+
+(*c*) subject to *paragraphs 3* and *4*, in relation to relevant assets, means borrowings incurred specifically for the purchase, repair or improvement of the relevant asset concerned to the extent that such amount has not been repaid, and in respect of which borrowings the Executive is satisfied that the purpose of incurring the borrowings was for the purpose of the purchase, repair or improvement of the relevant asset concerned;
+
+“assessed weekly means” means the aggregate of—
+
+(*a*) weekly assessed income,
+
+(*b*) weekly assessed cash assets, and
+
+(*c*) assessed weekly value of relevant assets,
+
+computed in accordance with, as appropriate, F122[*Part 1*, *1A*, *2* or *2A* of this Schedule]
+
+“business” means a business carried on in the exercise of a trade, profession or vocation, but does not include a business carried on otherwise than for gain;
+
+“cash assets” means—
+
+(*a*) monies, whether held as currency or in an account with a financial institution,
+
+(*b*) monies lent to another person which are repayable,
+
+(*c*) shares, stocks, bonds, securities, and other financial instruments, and
+
+(*d*) a transferred asset which is a cash asset,
+
+in which in the case of an asset referred to in *paragraphs (a)* to *(c)* the person concerned has a beneficial interest and in the case of an asset referred to in *paragraph (d)* the person concerned had a beneficial interest;
+
+F123[“eligible rental income“ means—
+
+(*a*) any payments made to a person who is receiving care services or his or her partner in respect of rent under—
+
+(*i*) a tenancy of the principal residence of the person who is receiving care services that is registered under Part 7 of the Residential Tenancies Act 2004, or
+
+(*ii*) a tenancy of the principal residence of the person who is receiving care services where the principal residence is situated within the State and is a dwelling of a type described in any of paragraphs (b) to (e) or (g) to (i) of section 3(2) of that Act, in respect of a period beginning on or after the day on which section 84(3)(a) of the Act of 2022 comes into operation, and
+
+(*b*) any payments made in respect of rent under a tenancy such as is mentioned in *subparagraph (i)* or *(ii)* of *paragraph (a)* in respect of a period beginning on or after the day on which section 84(3)(a) of the Act of 2022 comes into operation which the person whose means are being assessed would have been entitled to receive in the assessable period, but which by reason of a particular action having been taken by or on behalf of that person, a person other than the person whose means are being assessed has received, is receiving or will receive an amount of money or monies worth (whether by way of a single payment or a series of payments) and which action by the person whose means are being assessed occurred within 5 years of the date of first application for State support but does not include any such payments earned by a family successor in the course of running a family asset;]
+
+“estimated market value” means—
+
+(*a*) subject to *paragraphs (b)* and *(c)*, the price the asset concerned would fetch on the open market on the date on which the application for State support is made subject to such conditions as might reasonably be calculated to obtain for the vendor of the asset the best price of the asset,
+
+(*b*) in the case of a cash asset which comprises monies, the amount of such monies, converted to the currency of the State in the case where such monies are not held in the currency of the State, at the official conversion rate specified by the Central Bank of Ireland on the date the application for State support is made, and
+
+(*c*) in the case of an asset not situated in a place the currency of which place is the currency of the State, by converting the value of such asset in the currency of the place where the asset is situated into the currency of the State at the official conversion rate specified by the Central Bank of Ireland on the date the application for State support is made;
+
+F124[“family successor" means a person appointed under *section 14A*, *14F*, *14G*, *14H*, *14K* or *14L*;]
+
+“farm” means agricultural land, pasture and woodland, crops, trees and underwood growing thereon, farm buildings appropriate to the property and farm machinery, livestock and bloodstock thereon but excluding all residential property F125[, and a reference to a farm includes a reference to part of a farm];
+
+“farming” includes dairy farming, livestock production, and the cultivation of grass, tillage, and other crops, including horticultural crops whether under protected cropping conditions or in the open;
+
+“general assets deductible amount”—
+
+(*a*) in the case of a person who is not a member of a couple, means—
+
+(i) €36,000, or
+
+(ii) the amount prescribed, under regulations made under *section 36*, for the purposes of this subparagraph,
+
+whichever is the greater, and
+
+(*b*) in the case of a couple, means—
+
+(i) €72,000, or
+
+(ii) the amount prescribed, under regulations made under *section 36*, for the purposes of this subparagraph,
+
+whichever is the greater;
+
+“income F123[(other than eligible rental income)]” means—
+
+(*a*) income from an employment, trade, profession or vocation,
+
+(*b*) rental income whether arising in the State or otherwise,
+
+(*c*) income from holding of an office or directorship,
+
+(*d*) income from a pension (whether under the social welfare code or otherwise),
+
+(*e*) income whether in the nature of a benefit or allowance arising from social welfare, social insurance or other sources of a similar character,
+
+(*f*) income from fees, commissions, dividends, interest, or income of a similar character,
+
+(*g*) payments under a settlement, covenant, estate or a payment in respect of maintenance,
+
+(*h*) income from royalties and annuities,
+
+(*i*) transferred income of a character described in *paragraphs (a)* to *(h)*, and
+
+(*j*) such other forms of benefit as may be prescribed, under regulations made under *section 36*, for the purposes of this paragraph,
+
+whether in money or monies worth and arising within the State or otherwise;
+
+“minimum retained income threshold” means—
+
+(*a*) for the purposes of the assessment of a person who is not a member of a couple, 20 per cent of the maximum weekly amount of State pension (Non-Contributory) at the date of the application for State support,
+
+F121[(*b*) for the purposes of the assessment of a person who is a member of a couple—
+
+(i) in a case where the partner of the person—
+
+(I) is receiving financial support, the weekly assessed income of the partner, or
+
+F126[(II) is habitually resident in a relevant facility or a nursing home, the amount of any contribution required to be paid by the partner pursuant to section 67C(1) of the Health Act 1970,]
+
+together with 40 per cent of the maximum weekly amount of State pension (Non-Contributory) at the date of the application for State support,
+
+(ii) in any other case, the maximum weekly amount of State pension (Non-Contributory) together with 20 per cent of the maximum weekly amount of State pension (Non-Contributory) at the date of the application for State support;]
+
+“principal residence” means the principal private residence of a person and includes land which the person has for his or her own occupation and enjoyment with that residence as its garden or grounds up to an area (exclusive of the dwelling house) not exceeding one acre;
+
+F125["proceeds of sale" has the meaning assigned to it by *paragraph 10D(d)*;]
+
+F125["proceeds of sale deductible amount" means, subject to *paragraphs 10A* to *10D*—
+
+(*a*) in the case where, following the sale of the person’s interest in a principal residence—
+
+(i) the person or his or her partner purchases an interest in a principal residence, and
+
+(ii) the purchase price of the principal residence is less than the proceeds of sale,
+
+an amount equal to the difference between the purchase price and the proceeds of sale,
+
+(*b*) in the case where, following the sale of the person’s interest in a principal residence—
+
+(i) the person or his or her partner acquires an interest in a principal residence for no consideration, or a relevant asset of the relevant person or his or her partner becomes the principal residence, and
+
+(ii) the estimated market value of the principal residence (less any borrowings referred to in *paragraph (c)* of the definition of "allowable deduction" which relate to the principal residence) is less than the proceeds of sale,
+
+an amount equal to the difference between the estimated market value of the principal residence (less any borrowings referred to in *paragraph (c)* of the definition of "allowable deduction" which relate to the principal residence) and the proceeds of sale, or
+
+(*c*) in any other case, an amount equal to the proceeds of sale;]
+
+F125["purchase price" has the meaning assigned to it by *paragraph 10D(d)*;]
+
+“relevant assets” means all forms of property whether situated in the State or not other than cash assets, including, options and incorporeal property generally in which the relevant person has a beneficial interest including transferred assets which would have been relevant assets if not transferred;
+
+F124[“relevant business" means—
+
+(*a*) the business or an interest in a business carried on by a sole trader or by a partnership, including any land, building, machinery or plant used wholly or mainly for the purpose of the business, or
+
+(*b*) where a business is carried on by a company, the unquoted shares in or securities of the company,
+
+and a reference to a relevant business includes a reference to part of a relevant business.]
+
+F127["relevant day" means the day following the enactment of the Health (Amendment) Act 2013;]
+
+F128["relevant payment" means, in relation to a person—
+
+F129[(*a*) an *ex-gratia* payment or payments made to the person under the Scheme (within the meaning of section 1 (amended by section 2 of the Redress for Women Resident in Certain Institutions (Amendment) Act 2019) of the Redress for Women Resident in Certain Institutions Act 2015), and includes any benefit provided under that Scheme,]
+
+(*b*) an *ex-gratia* payment or payments made to the person under the terms of the Scheme referred to as the Lourdes Hospital Redress Scheme 2007,
+
+(*c*) an *ex-gratia* payment or payments made to the person under the terms of the Scheme established by the Minister and referred to as the Lourdes Hospital Payment Scheme,
+
+(*d*) a payment or payments made to the person under the terms of the Surgical Symphysiotomy *ex-gratia* Scheme established by the Minister and otherwise referred to as the Symphysiotomy Payment Scheme,
+
+(*e*) an *ex-gratia* payment or payments made to the person by the Minister or the *Conterganstiftung für behinderte Menschen* in respect of a disability caused to that person by F130[Thalidomide,]
+
+F131[(*ea*) a general payment or a work-related payment made to the person, under the Mother and Baby Institutions Payment Scheme Act F132[2023,]]
+
+F133[(*eb*) a payment or payments made to the person arising from an award under the Residential Institutions Redress Scheme, or from a court award or settlement referred to in section 7 (2) of the Residential Institutions Redress Act 2002, or]
+
+(*f*) such other *ex-gratia* payment or payments as may be prescribed under *section 36(5A)* (inserted by section 7 of the Health (Miscellaneous Provisions) Act 2017) for the purposes of this paragraph;]
+
+“transferred asset” means an interest of the person in an asset (whether a cash asset or a relevant asset) which has been transferred at any time in the period of 5 years prior to F134[, or at any time on or subsequent to,] the date on which an application for State support is first made by or on behalf of that person which transfer is made—
+
+(*a*) for no consideration,
+
+(*b*) for nominal consideration, or
+
+(*c*) for consideration which is less than 75 per cent of the estimated market value of the interest of the person in the asset at the time of the transfer but does not include the transfer of an asset made in respect of the settlement of any claim made in respect of the maintenance of a child or other matrimonial proceedings, and that the Executive is satisfied that such transfer was made for that purpose,
+
+and the estimated market value of a transferred asset shall be determined on the basis of the value of the asset at the time of the transfer, and where the asset comprises monies not being in the currency of the State, or other assets held in a place outside the State, the currency of which is not the currency of the State, converted into the currency of the State at the date of the transfer of the asset concerned;
+
+“transferred asset value”, in relation to a transferred asset, means the amount calculated by the application of the following formula:
+
+MV - CR
+
+where—
+
+MV is the estimated market value of the asset concerned at the time of the transfer,
+
+CR is the amount of the consideration received by the person or the estimated market amount of the consideration received by the person (whichever is the higher);
+
+“transferred income” means any income which the person whose means is being assessed would have been entitled to receive in the assessable period, but which by reason of a particular action having been taken by or on behalf of that person, a person other than the person whose means are being assessed has received, is receiving or will receive an amount of money or monies worth (whether by way of a single payment or a series of payments) and which action by the person whose means are being assessed occurred within 5 years of the date of first application for State support but does not include F125[income earned by a family successor in the course of running a family asset or] payments made in respect of the maintenance of a child, a spouse or a former spouse under a maintenance agreement, a separation agreement or pursuant to an order of a court of competent jurisdiction;
+
+“unquoted” in relation to any shares or securities, means not quoted on a recognised stock exchange.
+
+2\. In relation to the definition of “allowable deduction”, as respects income, a deduction shall be allowed in respect of either *paragraph (a)(iv)(I)* or *paragraph (a)(iv)(II)* of that definition, but not both.
+
+F123[2A. For the purposes of the definition of "eligible rental income", the definition of "principal residence" applies notwithstanding that a person is not residing in his or her principal residence because the person is receiving care services.]
+
+3\. Where in relation to a cash asset or a relevant asset a deduction is claimed as an allowable deduction by reason of borrowings relating to such asset as permitted by *paragraphs 3* and *4* of F135[*Part 1*, *1A*, *2* or *2A*,] an allowance in respect of such borrowings may not be given where to do so would permit a deduction in relation to the same indebtedness more than once.
+
+4\. Where in relation to a cash asset or a relevant asset a deduction is claimed as an allowable deduction by reason of borrowings relating to such asset as permitted by *paragraphs 3* and *4* of F136[*Part 1*, *1A*, *2* or *2A*,] and such indebtedness applies to more than one person whether jointly or severally, the amount of such indebtedness which may be allowed as an allowable deduction shall be proportionate to the proportion of the value of the interest of the person in respect of whom the financial assessment is being carried out bears to the estimated market value of the entire asset concerned.
+
+5\. It shall be presumed, unless the Executive is satisfied that it is not the case, that where there is more than one person with an interest in an asset that each owner has an equal interest in the asset concerned.
+
+6\. F137[Subject to *paragraph 6A*, the] interest of a person in a principal residence, or in a transferred asset which qualifies as a principal residence, shall not be or shall cease to be a relevant asset where the person concerned is receiving or has received—
+
+(*a*) care services,
+
+(*b*) transitional care services within the meaning of *section 13*,
+
+(*c*) services in a nursing home which services would, if they had been provided after the coming into operation of the definition of “approved nursing home”, have come within the meaning of the definition of “long-term residential care services”, or
+
+(*d*) any combination of the services referred to in *paragraphs (a)* to *(c)*,
+
+for a period of 3 years (which period need not be continuous).
+
+F138[6A. (*a*) Where *paragraph 6* applies in relation to a person who is a member of a couple, the reference in that paragraph to the interest of the person shall be construed as a reference to the interest of the person and the interest (if any) of the other member of the couple.
+
+(*b*) Where the partner of a person who has or (in the case of a transferred asset) had an interest in a principal residence does not have an interest in the principal residence concerned he or she shall, for the purposes of *paragraph 6*, be deemed to have or (in the case of a transferred asset) be deemed to have had an interest in that principal residence.
+
+6B. (*a*) Subject to *subparagraphs (b)* and *(c)*, where a determination is made under *section 14C(2)(a)* or *14M(3)* in respect of a person who has or (in the case of a transferred asset) had an interest in a particular family asset and that determination has not been revoked in so far as relating to that particular family asset, the interest of the person in the particular family asset shall not be, or shall cease to be, a relevant asset with effect from the date specified in the determination.
+
+(*b*) Where *subparagraph (a)* applies in relation to a person who is a member of a couple, the second reference in that subparagraph to the interest of the person shall be construed as a reference to the interest of the person and the interest (if any) of the other member of the couple.
+
+(*c*) Where the partner of a person who has or (in the case of a transferred asset) had an interest in a particular family asset does not have an interest in the particular family asset concerned he or she shall, for the purposes of *subparagraph (a)*, be deemed to have or (in the case of a transferred asset) be deemed to have had an interest in that particular family asset.
+
+6C. (*a*) Subject to *subparagraphs (b)* and *(c)*, *subparagraph (d)* applies only in a case where a person (in this paragraph referred to as the "relevant person") was a member of a couple, and—
+
+(i) *paragraph 6B* applies to the relevant person in relation to a particular family asset,
+
+(ii) a family successor was appointed in respect of the other member of the couple (in this paragraph referred to as the "other member") in relation to the same particular family asset, and
+
+(iii) a repayment event has not occurred in respect of either the relevant person or the other member in relation to that particular family asset.
+
+(*b*) Subject to *subparagraph (c)*, and other than in a case where both members of a couple are receiving care services on the coming into operation of section 31 (b) of the Act of 2021, *subparagraph (d)* shall only apply where a family successor was appointed in relation to the particular family asset in respect of the second member of the couple to receive care services before the date by which that member of the couple received any combination of relevant services for a period of one year (which period need not be continuous).
+
+(*c*) Where—
+
+(i) the relevant person received relevant services before the coming into operation of section 31(b) of the Act of 2021, and
+
+(ii) a family successor was not appointed in respect of the relevant person in relation to the particular family asset by the date of death of the other member, *subparagraph (d)* shall apply only if the relevant person made an application for the appointment of a family successor in relation to the particular family asset within the first three months following the death of the other member.
+
+(*d*) The total of the amounts of the assessed weekly means under this Act which relate to the particular family asset, arising pursuant to the financial assessment relating to the other member and the financial assessment relating to the relevant person, when aggregated, shall not exceed the relevant amount determined under *subparagraph (e)*, and on that threshold being reached, notwithstanding any other provision of this Schedule, the particular family asset shall cease to be a relevant asset.
+
+(*e*) The relevant amount referred to in *subparagraph (d)* shall be the amount referred to in *subparagraph (f)(i)* or, where any of *clauses (ii)*, *(iii)* or *(iv)* of *subparagraph (f)* apply, the relevant amount referred to in *subparagraph (d)* shall be the aggregate of the amount referred to in *subparagraph (f)(i)* and the additional amount referred to in such other clauses of *subparagraph (f)* as apply.
+
+(*f*) (i) The amount is 22.5 per cent of the relevant value in respect of the relevant person.
+
+(ii) Where the date specified in the determination under *section 14C(2)(a)* in respect of the relevant person in relation to the particular family asset is later than the date by which the relevant person received any combination of relevant services for a period of 3 years (which period need not be continuous), the additional amount is 3.75 per cent of the relevant value in respect of the relevant person per annum, prorated for the relevant period.
+
+(iii) Where a determination was made under *section 14C(2)(a)* in respect of the other member in relation to the particular family asset and the date specified in that determination is later than the date by which the other member received any combination of relevant services for a period of 3 years (which period need not be continuous), the additional amount is 3.75 per cent of the relevant value in respect of the other member per annum, prorated for the relevant period.
+
+(iv) Where a determination was not made under *section 14C(2)(a)* in respect of the other member in relation to the particular family asset, and the other member received any combination of relevant services for a period of at least 3 years (which period need not be continuous), the additional amount is 3.75 per cent of the relevant value in respect of the other member per annum, prorated for the relevant period.
+
+(*g*) In this paragraph—
+
+"relevant period" means—
+
+(*a*) where *subparagraph (f)(ii)* applies, the period between the date by which the relevant person received any combination of relevant services for a period of 3 years (which period need not be continuous) and the date specified in the determination under *section 14C(2)(a)* in respect of the relevant person in relation to the particular family asset;
+
+(*b*) where *subparagraph (f)(iii)* applies, the period between the date by which the other member received any combination of relevant services for a period of 3 years (which period need not be continuous) and the date specified in the determination under *section 14C(2)(a)* in respect of the other member in relation to the particular family asset;
+
+(*c*) where *subparagraph (f)(iv)* applies, the period between the date by which the other member received any combination of relevant services for a period of 3 years (which period need not be continuous) and the date of death of the other member;
+
+"relevant services" means—
+
+(*a*) care services (including any care services received before the coming into operation of section 5 of the Act of 2021),
+
+(*b*) transitional care services within the meaning of *section 13*,
+
+(*c*) services in a nursing home which services would, if they had been provided after the coming into operation of the definition of "approved nursing home" in *section 3*, have come within the meaning of the definition of "long-term residential care services" in *section 3*;
+
+"relevant value" means the estimated market value of the particular family asset at the date of valuation of the particular family asset in connection with the first financial assessment of the relevant person or the other member, as the case may be, less allowable deductions applicable to that asset.]
+
+7\. F139[...]
+
+8\. F139[...]
+
+9\. F139[...]
+
+10\. (*a*) *Subparagraph (b*) applies only in a case where the person (“relevant person”) was a member of a couple, and—
+
+(i) the other member of the couple (“other member”) received both services of any kind referred to in *paragraph 6* and financial support, and
+
+(ii) the principal residence concerned is the same principal residence as the principal residence assessed under the financial assessment of the other member.
+
+(*b*) The total of the amounts of the weekly assessed means under this Act which relate to the principal residence, arising pursuant to the financial assessment relating to the other member and the financial assessment relating to the relevant person, when aggregated, F140[subject to *subparagraph (c)*, shall not exceed the amount which is 22.5 per cent of the estimated market value] of that residence at the date of valuation of the asset in connection with the first financial assessment of the relevant person less allowable deductions applicable to that asset, and on that threshold being reached, notwithstanding any other provision of this Schedule the asset shall cease to be a relevant asset.
+
+F141[(*c*) Where—
+
+(i) the other member and the relevant person both applied for State support on or after 27 October 2009 and prior to the relevant day, the reference to 22.5 per cent in *subparagraph (b)* shall be read as a reference to 15 per cent, and
+
+(ii) the other member applied for State support on or after 27 October 2009 and prior to the relevant day and the relevant person applied for State support on or after the relevant day, the reference to 22.5 per cent in *subparagraph (b)* shall be read as a reference to 18.75 per cent.]
+
+F138[10A. (*a*) Subject to *paragraphs 10B* to *10D*, a person (in this paragraph and *paragraphs 10B* to *10D* referred to as the "relevant person") shall be entitled to the proceeds of sale deductible amount where the relevant person or his or her partner sells (whether before or after the commencement day) the interest of the relevant person in a principal residence and the relevant person is receiving or has received (whether before or after the commencement day)—
+
+(i) care services,
+
+(ii) transitional care services within the meaning of *section 13*,
+
+(iii) services in a nursing home which services would, if they had been provided after the coming into operation of the definition of "approved nursing home" have come within the meaning of the definition of "long-term residential care services", or
+
+(iv) any combination of the services referred to in *clauses (i)* to *(iii)*, for a period of 3 years (which period need not be continuous).
+
+(*b*) Where, but for this subparagraph, the relevant person would be entitled to the proceeds of sale deductible amount in respect of a period occurring before the commencement day, the relevant person shall not be so entitled and shall instead, by virtue of this subparagraph, be entitled to the proceeds of sale deductible amount with effect from the commencement day.
+
+(*c*) In this paragraph, "commencement day" means the day on which section 31(d) of the Act of 2021 comes into operation.
+
+10B. (*a*) Where *paragraph 10A* applies in relation to a relevant person who is a member of a couple, a reference in that paragraph to the interest of the relevant person shall be construed as a reference to the interest of the person and the interest (if any) of the other member of the couple.
+
+(*b*) Where the partner of a person who has or (in the case of a transferred asset) had an interest in a principal residence does not have an interest in the principal residence concerned he or she shall, for the purposes of *paragraph 10A*, be deemed to have or (in the case of a transferred asset) be deemed to have had an interest in that principal residence.
+
+10C. *Paragraph 10A* shall apply only where—
+
+(*a*) the principal residence is situated within the State, and
+
+(*b*) the sale of the interest in the principal residence is completed after the relevant person begins receiving any of the services referred to in *clauses (i)* to *(iii)* of *paragraph 10A(a)*.
+
+10D. (*a*) Where a relevant person is entitled to the proceeds of sale deductible amount under *paragraph 10A* and the relevant person or his or her partner purchases an interest in a principal residence—
+
+(i) if the purchase price is less than the proceeds of sale, *paragraph 6* shall apply in relation to the interest in the principal residence and the relevant person shall be entitled to the proceeds of sale deductible amount under *paragraph (a)* of the definition of "proceeds of sale deductible amount", and
+
+(ii) if the purchase price is equal to or greater than the proceeds of sale, *paragraph 6* shall apply in relation to the interest in the principal residence and the relevant person shall no longer be entitled to the proceeds of sale deductible amount under *paragraph 10A*.
+
+(*b*) Where a relevant person is entitled to the proceeds of sale deductible amount under *paragraph 10A* and the relevant person or his or her partner acquires an interest in a principal residence for no consideration—
+
+(i) if the estimated market value of the principal residence (less any borrowings referred to in *paragraph (c)* of the definition of "allowable deduction" which relate to the principal residence) is less than the proceeds of sale, *paragraph 6* shall apply in relation to the interest in the principal residence and the relevant person shall be entitled to the proceeds of sale deductible amount under *paragraph (b)* of the definition of "proceeds of sale deductible amount", and
+
+(ii) if the estimated market value of the principal residence (less any borrowings referred to in *paragraph (c)* of the definition of "allowable deduction" which relate to the principal residence) is equal to or greater than the proceeds of sale, *paragraph 6* shall apply in relation to the interest in the principal residence and the relevant person shall no longer be entitled to the proceeds of sale deductible amount under *paragraph 10A*.
+
+(*c*) Where a relevant person is entitled to the proceeds of sale deductible amount under *paragraph 10A* and a relevant asset of the relevant person or his or her partner becomes a principal residence—
+
+(i) if the estimated market value of the principal residence (less any borrowings referred to in *paragraph (c)* of the definition of "allowable deduction" which relate to the principal residence) is less than the proceeds of sale, *paragraph 6* shall apply in relation to the interest in the principal residence and the relevant person shall be entitled to the proceeds of sale deductible amount under *paragraph (b)* of the definition of "proceeds of sale deductible amount", and
+
+(ii) if the estimated market value of the principal residence (less any borrowings referred to in *paragraph (c)* of the definition of "allowable deduction" which relate to the principal residence) is equal to or greater than the proceeds of sale, *paragraph 6* shall apply in relation to the interest in the principal residence and the relevant person shall no longer be entitled to the proceeds of sale deductible amount under *paragraph 10A*.
+
+(*d*) In this paragraph—
+
+"proceeds of sale" means an amount equal to the consideration received by the relevant person or his or her partner on the sale of the interest in a principal residence after the discharge of all mortgages and other liabilities relating to the sale;
+
+"purchase price" means an amount equal to the consideration paid by the relevant person or his or her partner on the purchase of an interest in a principal residence (including the cost of any liabilities relating to the purchase) less any borrowings referred to in *paragraph (c)* of the definition of "allowable deduction" which relate to the principal residence.]
+
+11\. Where in relation to a person an asset is a transferred asset such asset shall not cease to be a transferred asset where—
+
+(*a*) the person makes a subsequent application for State support, or
+
+(*b*) a review is carried out under this Act of the means of the person or his or her partner,
+
+by reason of the date of such subsequent application or review being more than 5 years after the transfer of the asset occurred.
+
+F142[12\. For the purposes of carrying out a financial assessment under *Part 1* or *1A* of a person who is not a member of a couple, any relevant payment made to the person shall be disregarded.
+
+13\. For the purposes of carrying out a financial assessment under *Part 2* or *2A* of a person who is a member of a couple, any relevant payment made to such person or the other member of the couple, shall be disregarded.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F121: Substituted (1.10.2012) by *Health (Miscellaneous Provisions) Act 2010* (18/2010), s. 17(b), S.I. 359 of 2012.
+>
+> F122: Substituted (24.07.2013) by *Health (Amendment) Act 2013* (31/2013), s. 7(e)(i), commenced on enactment.
+>
+> F123: Inserted (1.11.2022) by *Regulation of Providers of Building Works and Miscellaneous Provisions Act 2022* (15/2022), s. 84(3)(a)(i), (ii), (b), S.I. No. 537 of 2022.
+>
+> F124: Substituted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 31(a)(i), (iii), commenced as per s. 33(2).
+>
+> F125: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 30(a)(ii), (iv), (v), commenced as per s. 33(2).
+>
+> F126: Substituted (1.01.2017) by *Health (Amendment) Act 2013* (31/2014), s. 7(e)(ii), S.I. No. 466 of 2016.
+>
+> F127: Substituted (24.07.2013) by *Health (Amendment) Act 2013* (31/2013), s. 7(e)(iii), commenced on enactment.
+>
+> F128: Substituted (16.02.2017) by *Health (Miscellaneous Provisions) Act 2017* (1/2017), s. 8, commenced on enactment.
+>
+> F129: Substituted (31.07.2019) by *Redress for Women Resident in Certain Institutions (Amendment) Act 2019* (26/2019), s. 4, S.I. No. 398 of 2019.
+>
+> F130: Substituted (20.03.2024) by *Mother and Baby Institutions Payment Scheme Act 2023* (20/2023), s. 46(a), S.I. No. 67 of 2024.
+>
+> F131: Inserted (20.03.2024) by *Mother and Baby Institutions Payment Scheme Act 2023* (20/2023), s. 46(b), S.I. No. 67 of 2024.
+>
+> F132: Substituted (13.03.2026) by *Supports for Survivors of Residential Institutional Abuse Act 2025* (7/2025), s. 20(a), S.I. No. 93 of 2026.
+>
+> F133: Inserted (13.03.2026) by *Supports for Survivors of Residential Institutional Abuse Act 2025* (7/2025), s. 20(b), S.I. No. 93 of 2026.
+>
+> F134: Inserted (5.08.2014) by *Health (General Practitioner Service) Act 2014* (28/2014), s. 7, S.I. No. 370 of 2014.
+>
+> F135: Substituted (24.07.2013) by *Health (Amendment) Act 2013* (31/2013), s. 7(f), commenced on enactment.
+>
+> F136: Substituted (24.07.2013) by *Health (Amendment) Act 2013* (31/2013), s. 7(g), commenced on enactment.
+>
+> F137: Substituted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 30(b), commenced as per s. 33(2).
+>
+> F138: Inserted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 30(c), (e), commenced as per s. 33(2).
+>
+> F139: Deleted (20.10.2021) by *Nursing Homes Support Scheme (Amendment) Act 2021* (27/2021), s. 30(d), commenced as per s. 33(2).
+>
+> F140: Substituted (24.07.2013) by *Health (Amendment) Act 2013* (31/2013), s. 7(h)(i), commenced on enactment.
+>
+> F141: Inserted (24.07.2013) by *Health (Amendment) Act 2013* (31/2013), s. 7(h)(ii), commenced on enactment.
+>
+> F142: Inserted (1.07.2015) by *Redress for Women Resident in Certain Institutions Act 2015* (8/2015), s. 4(b), S.I. No. 235 of 2015.
+>
+> **Editorial Notes:**
+>
+> E51: Definition of “allowable deduction” expanded to include payments made in respect of maintenance of a dependant child (1.09.2014) by *Nursing Homes Support Scheme (Allowable Deductions) Regulations 2014* (S.I. No. 311 of 2014).
+>
+> E52: Certain classes of expenditure prescribed as deductions within the meaning of para. (a)(vii) of definition of “allowable deduction” in sch. 1 part 3 para. 1 (1.01.2011) by *Nursing Homes Support Scheme (Allowable Deductions) Regulations 2010* (S.I. No. 631 of 2010), in effect as per reg. 6.
+>
+> E53: Previous affecting provision: definition of “relevant payment” inserted (1.07.2015) by *Redress for Women Resident in Certain Institutions Act 2015* (8/2015), s. 4(a), S.I. No. 235 of 2015; substituted as per F-note above.
+
+## SCHEDULE 2 — Adjustment and Manner of Calculation of Amounts Repayable in Respect of Ancillary State Support
+
+1\. Monies advanced by the Executive pursuant to ancillary State support in a year shall be aggregated and the consumer price index number which relates to mid-December in that year shall be taken to be the base figure in respect of those payments.
+
+2\. The procedure set out in *paragraph 1* shall be followed in respect of each subsequent year in which payments pursuant to ancillary State support are made.
+
+3\. The amount established under *paragraphs 1* and *2* shall be adjusted to take account of changes in the consumer price index number.
+
+4\. On the happening of a relevant event or a deferred relevant event, as the case requires, the Executive shall calculate the aggregate of the amounts due in respect of each year, having adjusted the amounts advanced in accordance with *paragraphs 1* to *3* taking account of changes in the consumer price index number up to and including the month immediately preceding the month in which the relevant event or deferred relevant event occurred.
+
+5\. In this Schedule, “consumer price index number” means the All Items Consumer Price Index Number compiled by the Central Statistics Office.

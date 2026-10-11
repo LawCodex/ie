@@ -1,0 +1,500 @@
+---
+title: "Investment Funds, Companies and Miscellaneous Provisions Act 2006"
+identifier: "eli/2006/act/41"
+type: act
+jurisdiction: ie
+language: en
+number: 41
+year: 2006
+date: 2006-12-24
+last_amended: 2019-01-01
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2006/act/41/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2006/act/41/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Investment Funds, Companies and Miscellaneous Provisions Act 2006
+
+AN ACT TO AMEND AND EXTEND THE COMPANIES ACTS, THE IRISH TAKEOVER PANEL ACT 1997, THE CENTRAL BANK ACT 1942, THE CONSUMER INFORMATION ACT 1978 AND THE NETTING OF FINANCIAL CONTRACTS ACT 1995, TO PROVIDE FOR THE IMPLEMENTATION OF DIRECTIVE 2004/109/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL OF 15 DECEMBER 2004 AND TO PROVIDE FOR RELATED MATTERS.
+
+[24*th December*, 2006]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## PART 1 Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title, collective citation and construction.
+
+**1**.— (1) This Act may be cited as the Investment Funds, Companies and Miscellaneous Provisions Act 2006.
+
+(2) The Companies Acts and *Parts 2* and *3* shall be read together as one.
+
+### 2. Commencement.
+
+**2**.— (1) Subject to *subsections* *(2)* and *(3)* , this Act shall come into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or different provisions.
+
+(2) *Section* *1* , this section and *sections* *3* to *6* and *9* , *10* , *13* , *14* , *15* and *35* shall come into operation on the passing of this Act.
+
+(3) Sections *7* and *8* shall be deemed to have come into operation on 1 July 2005.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to section exercised (29.01.2007) by *Investment Funds, Companies and Miscellaneous Provisions Act 2006 (Commencement) Order 2007* (S.I. No. 23 of 2007).
+>
+> 3\. The 29th day of January 2007 is appointed as the day on which the following provisions of the Act come into operation, namely sections 11, 12, 16 to 22 and 24 to 34.
+
+### 3. Definitions.
+
+**3**.— In this Act—
+
+“Act of 1990” means the Companies Act 1990;
+
+“Act of 1997” means the Irish Takeover Panel Act 1997;
+
+“Act of 2005” means the Investment Funds, Companies and Miscellaneous Provisions Act 2005;
+
+“Minister” means the Minister for Enterprise, Trade and Employment;
+
+“Regulations of 2006” means the European Communities (Takeover Bids (Directive 2004/25/EC)) Regulations 2006 (S.I. No. 255 of 2006).
+
+### 4. Orders and regulations.
+
+**4**.— Every order or regulation made under this Act (other than an order made under s*ection* *2* or *24* ) shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order or regulation is passed by either such House within the next 21 days on which that House has sat after the order or regulation is laid before it, the order or regulation shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
+
+### 5. Expenses.
+
+**5**.— The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## PART 2 Amendments of Companies Acts — PART 2 — Amendments of Companies Acts
+
+### 6. Statutory declarations for purposes of Companies Acts.
+
+**6.**— F1[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Repealed (1.06.2015) by *Companies Act 2014* (38/2014), s. 4(1) and sch. 2 part 1, S.I. No. 169 of 2015.
+
+### 7. Amendment of section 33 of Companies Act 1963.
+
+**7.**—F2[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F2: Repealed (1.06.2015) by *Companies Act 2014* (38/2014), s. 4(1) and sch. 2 part 1, S.I. No. 169 of 2015.
+
+### 8. Amendment of section 21 of Companies (Amendment) Act 1983.
+
+**8.**— F3[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F3: Repealed (1.06.2015) by *Companies Act 2014* (38/2014), s. 4(1) and sch. 2 part 1, S.I. No. 169 of 2015.
+
+### 9. Exemption from audit requirement.
+
+**9.**—F4[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F4: Repealed (1.06.2015) by *Companies Act 2014* (38/2014), s. 4(1) and sch. 2 part 1, S.I. No. 169 of 2015.
+
+### 10. Application of section 9 and transitional provisions.
+
+**10.**— F5[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F5: Repealed (1.06.2015) by *Companies Act 2014* (38/2014), s. 4(1) and sch. 2 part 1, S.I. No. 169 of 2015.
+
+### 11. Restrictions on, and disqualifications of, persons from acting as directors, etc.
+
+**11.—**F6[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F6: Repealed (1.06.2015) by *Companies Act 2014* (38/2014), s. 4(1) and sch. 2 part 1, S.I. No. 169 of 2015.
+
+### 12. Dematerialisation.
+
+**12.**— F7[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F7: Repealed (1.06.2015) by *Companies Act 2014* (38/2014), s. 4(1) and sch. 2 part 1, S.I. No. 169 of 2015.
+
+### 13. Amendment of section 43 of Act of 2005.
+
+**13.**— F8[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F8: Repealed (1.06.2015) by *Companies Act 2014* (38/2014), s. 4(1) and sch. 2 part 1, S.I. No. 169 of 2015.
+
+### 14. Amendment of section 45 of Act of 2005.
+
+**14.**— F9[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F9: Repealed (1.06.2015) by *Companies Act 2014* (38/2014), s. 4(1) and sch. 2 part 1, S.I. No. 169 of 2015.
+
+### 15. Amendments of Act of 2005 consequential on amendment made by section 14 .
+
+**15.**— F10[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F10: Repealed (1.06.2015) by *Companies Act 2014* (38/2014), s. 4(1) and sch. 2 pt. 1, S.I. No. 169 of 2015.
+
+### 16. Amendment of section 9 of Companies (Auditing and Accounting) Act 2003.
+
+**16.**— F11[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F11: Repealed (1.06.2015) by *Companies Act 2014* (38/2014), s. 4(1) and sch. 2 pt. 1, S.I. No. 169 of 2015.
+
+### 17. Amendment of section 10 of Companies (Auditing and Accounting) Act 2003.
+
+**17.**— F12[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F12: Repealed (1.06.2015) by *Companies Act 2014* (38/2014), s. 4(1) and sch. 2 pt. 1, S.I. No. 169 of 2015.
+
+### 18. Amendment of section 29 of Companies (Auditing and Accounting) Act 2003.
+
+**18.**— F13[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Repealed (1.06.2015) by *Companies Act 2014* (38/2014), s. 4(1) and sch. 2 pt. 1, S.I. No. 169 of 2015.
+
+## PART 3 Transparency Requirements Regarding Issuers of Securities Admitted to Trading on Certain Markets — PART 3 — Transparency Requirements Regarding Issuers of Securities Admitted to Trading on Certain Markets
+
+### 19. Interpretation( Part 3 ).
+
+**19.**— F14[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F14: Repealed (1.06.2015) by *Companies Act 2014* (38/2014), s. 4(1) and sch. 2 pt. 1, S.I. No. 169 of 2015.
+
+### 20. Power to make certain regulations.
+
+**20.**—F15[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F15: Repealed (1.06.2015) by *Companies Act 2014* (38/2014), s. 4(1) and sch. 2 pt. 1, S.I. No. 169 of 2015.
+>
+> **Editorial Notes:**
+>
+> E2: Provision for regulations made under section to continue in force under *Companies Act 2014*, s. 1380 made (1.06.2015) by *Companies Act 2014* (38/2014), s. 1381(1), S.I. No. 169 of 2015.
+>
+> E3: Power pursuant to section exercised (10.08.2012) by *Transparency (Directive 2004/109/EC) (Amendment) (No. 2) Regulations 2012* (S.I. No. 316 of 2012).
+>
+> E4: Power pursuant to section exercised (1.07.2012) by *Transparency (Directive 2004/109/EC) (Amendment) Regulations 2012* (S.I. No. 238 of 2012).
+>
+> E5: Power pursuant to section exercised (10.03.2010) by *Transparency (Directive 2004/109/EC) (Amendment) Regulations 2010* (S.I. No. 102 of 2010).
+>
+> E6: Power pursuant to section exercised (13.06.2007) by *Transparency (Directive 2004/109/EC) Regulations 2007* (S.I. No. 277 of 2007), in effect as per reg. 1(2).
+
+### 21. Conviction on indictment of offences under transparency (regulated markets) law.
+
+**21.**— F16[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F16: Repealed (1.06.2015) by *Companies Act 2014* (38/2014), s. 4(1) and sch. 2 pt. 1, S.I. No. 169 of 2015.
+>
+> **Editorial Notes:**
+>
+> E7: Reference to section construed for purposes of *Transparency (Directive 2004/109/EC) Regulations 2007* (S.I. No. 277 of 2007), reg. 76(6), (1.06.2015) by *Companies Act 2014* (38/2014), s. 1381(2), (3), S.I. No. 169 of 2015. It provides that the reference to this section shall, after the repeal of this section, be read as a reference to *Companies Act 2014*, s. 1382, subject to transitional provisions in subs. (3).
+>
+> E8: Previous affecting provision: application of section extended (13.06.2007) by *Transparency (Directive 2004/109/EC) Regulations 2007* (S.I. No. 277 of 2007), reg. 76(6), in effect as per reg. 1(2); repealed as per F-note above.
+
+### 22. Supplementary rules, etc., by competent authority.
+
+**22**.— F17[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F17: Repealed (1.06.2015) by *Companies Act 2014* (38/2014), s. 4(1) and sch. 2 part 1, S.I. No. 169 of 2015.
+>
+> **Editorial Notes:**
+>
+> E9: Provision for Transparency Rules made under section to continue in force under *Companies Act 2014*, s. 1383 made (1.06.2015) by *Companies Act 2014* (38/2014), s. 1383(8), S.I. No. 169 of 2015.
+>
+> E10: Application of Transparency Rules made under section restricted (21.01.2009) by *Anglo Irish Bank Corporation Act 2009* (1/2009), s. 16(5)(b), commenced on enactment.
+>
+> **Disapplication of certain requirements in relation to notice of acquisition of shares.**
+>
+> (5) The following do not apply to the acquisition by the Minister, or the transfer by the Minister to the Minister's nominee, of shares in Anglo Irish Bank under this Act:
+>
+> (a) Part 5 of the Transparency (Directive 2004/109/EC) Regulations 2007 (S.I. No. 277 of 2007);
+>
+> (b) Part 7 of the Transparency Rules made in June 2007 by the Irish Financial Services Regulatory Authority under section 22 of the Investment Funds, Companies and Miscellaneous Provisions Act 2006 .
+
+### 23. Amendment of section 33AK of Central Bank Act 1942.
+
+**23.**— F18[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F18: Repealed (1.06.2015) by *Companies Act 2014* (38/2014), s. 4(1) and sch. 2 part 1, S.I. No. 169 of 2015.
+
+### 24. Application of transparency (regulated markets) law to certain markets.
+
+**24.**— F19[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F19: Repealed (1.06.2015) by *Companies Act 2014* (38/2014), s. 4(1) and sch. 2 part 1, S.I. No. 169 of 2015.
+
+## PART 4 Miscellaneous — PART 4 — Miscellaneous
+
+### 25. Amendment of section 1 of Act of 1997.
+
+**25**.— Section 1 of the Act of 1997 is amended—
+
+(*a*) by inserting after “relevant transaction” in the definition of “ acting in concert” , in subsection (1), “(other than a bid referred to in that subsection)”, and
+
+(*b*) by substituting the following subsection for subsection (3):
+
+“(3) (*a*) For the purposes of this Act, two or more persons shall be deemed to be acting in concert as respects a takeover or other relevant transaction (in neither case being a bid to which the Regulations of 2006 apply) if they co-operate on the basis of an agreement, either express or tacit, either oral or written, aimed at:
+
+(i) either—
+
+(I) the acquisition by any one or more of them of securities in the relevant company concerned, or
+
+(II) the doing, or the procuring of the doing, of any act that will or may result in an increase in the proportion of securities in the relevant company concerned held by any one or more of them;
+
+or
+
+(ii) either—
+
+(I) acquiring control of the relevant company concerned, or
+
+(II) frustrating the successful outcome of an offer made for the purpose of the acquisition of control of the relevant company concerned;
+
+and ‘acting in concert’ shall be construed accordingly.
+
+(*b*) For the purposes of this subsection and without prejudice to any rules under section 8, persons controlled by another person within the meaning of Article 87 of Directive 2001/34/EC of the European Parliament and of the Council of 28 May 2001 shall be deemed to be persons acting in concert, as respects the matters mentioned in paragraph (*a*), with that other person and with each other.
+
+(*c*) In this subsection—
+
+‘bid to which the Regulations of 2006 apply’ means a takeover bid, within the meaning of the Regulations of 2006, which the Panel has, by virtue of Regulation 6 of those Regulations, jurisdiction to supervise;
+
+‘Regulations of 2006’ means the European Communities (Takeover Bids (Directive 2004/25/EC)) Regulations 2006 (S.I. No. 255 of 2006).”.
+
+### 26. Amendment of section 2 of Act of 1997.
+
+**26**.— Section 2 (as amended by the Act of 2005) of the Act of 1997 is amended by substituting the following paragraphs for paragraph (*c*):
+
+“(*c*) a public limited company—
+
+(i) one or more of the securities of which are, for the time being, authorised to be traded on any of the following markets, namely:
+
+(I) one or more of the markets operated by the London Stock Exchange or any successor of that Exchange (whether created by the merger of 2 or more exchanges or otherwise);
+
+(II) the New York Stock Exchange;
+
+(III) the market known as Nasdaq operated by Nasdaq Stock Market, Incorporated,
+
+or
+
+(ii) falling within any other class of public limited company which, in order to secure more fully the protection of shareholders, the Minister, after consultation with the Panel, prescribes for the purposes of this paragraph,
+
+other than a public limited company (in section 2B referred to as an ‘excepted company’) the only securities of which, for the time being, are authorised to be traded on a market referred to in any of the preceding clauses are those specified in section 2B,
+
+(*d*) a public limited company one or more of the securities of which are not, for the time being, authorised to be traded on a market referred to in clause (I), (II) or (III) of paragraph (*c*)(i) but were authorised to be traded on a market referred to in any of those clauses within the period of 5 years prior to the date on which the relevant proposal in relation to the takeover or other relevant transaction was made other than a public limited company (in section 2B also referred to as an ‘excepted company’) the only securities of which were authorised to be traded, within the foregoing period, on a market referred to in any of those clauses are those specified in section 2B,”.
+
+### 27. Further amendment of section 2 of Act of 1997.
+
+**27**.— Section 2 (as amended by the Act of 2005) of the Act of 1997 is further amended by substituting the following subparagraph for subparagraph (II) of paragraph (iii):
+
+“(II) which is not a company referred to in paragraph (*c*)(i) or (ii) or firstly referred to in paragraph (*d*).”.
+
+### 28. Amendment of Act of 1997 — insertion of new section 2B.
+
+**28**.— The following section is inserted after section 2A (inserted by the Act of 2005) of the Act of 1997:
+
+“Securities for the purposes of section 2(*c*) and (*d*) and application of those provisions.
+
+2B.— (1) The securities referred to in paragraphs (*c*) and (*d*) of section 2 in relation to an excepted company are debentures or bonds or other securities in the nature of debentures or bonds, by whatever name called, that do not confer voting rights in the company or in any other body corporate.
+
+(2) The cases to which the qualifications contained in paragraphs (*c*) and (*d*) of section 2 concerning an excepted company apply include the case where the authorisation for the trading of the securities concerned was given before the commencement of *section* *28* of the *Investment Funds, Companies and Miscellaneous Provisions Act 2006*.”.
+
+### 29. Amendment of section 8 of Act of 1997.
+
+**29**.— Section 8 of the Act of 1997 is amended—
+
+(*a*) in subsection (1), by substituting “subsections (2), (3), (4) and (7A) to (7D)” for “subsections (2), (3) and (4)”, and
+
+(*b*) by inserting after subsection (7) the following subsections:
+
+“(7A) The power to make rules under this section includes the power to make provision in such rules to give effect to—
+
+(*a*) a provision of the treaties of the European Communities, or
+
+(*b*) an act adopted by an institution of those Communities.
+
+(7B) Nothing in the European Communities (Takeover Bids (Directive 2004/25/EC)) Regulations 2006 (S.I. No. 255 of 2006) (referred to subsequently in this section as the ‘Regulations’)—
+
+(*a*) prejudices the future exercise of the power of the Panel to make rules under this section for the purpose of giving effect to Directive 2004/25/EC [^1] of the European Parliament and of the Council of 21 April 2004 on takeover bids (or any other act adopted by an institution of the European Communities),
+
+(*b*) prevents the Panel from making like provision in rules under this section to that which was made by Regulation 11 of, and the Schedule to, the Regulations.
+
+(7C) The Panel may, by rules under this section, revoke—
+
+(*a*) Regulation 11 of, and the Schedule to, the Regulations, and
+
+(*b*) the words ‘(being those rules as they stand amended by Regulation 11)’ where they occur in Regulations 16(3), 18(4) and 18(6) of the Regulations.
+
+(7D) (*a*) Rules under any of the preceding subsections may contain such supplementary, incidental or consequential provisions as appear to the Panel to be necessary or desirable in respect of the matters mentioned in the particular subsection to which the rules concerned relate.
+
+(*b*) Different rules may be made under this section in relation to any thing referred to in this section respecting a company by reference to whether the company is or is not a company a bid in respect of which the Panel has, by virtue of Regulation 6 of the Regulations, jurisdiction to supervise (which bid is referred to in paragraph (*c*) as a ‘Directive bid’).
+
+(*c*) Paragraph (*b*) is without prejudice to the Panel’s power to make uniform provision in rules under this section in relation to every company—
+
+(i) a Directive bid, or
+
+(ii) a takeover or other relevant transaction,
+
+in respect of which the Panel has jurisdiction to supervise.”.
+
+### 30. Amendment of Schedule to Act of 1997.
+
+**30**.— The following Schedule is substituted for the Schedule to the Act of 1997:
+
+“SCHEDULE
+
+Principles Applicable To The Conduct Of Takeovers, Etc.
+
+1\. All holders of the securities of an offeree of the same class must be afforded equivalent treatment; moreover, if a person acquires control of a company, the other holders of securities must be protected.
+
+2\. The holders of the securities of an offeree must have sufficient time and information to enable them to reach a properly informed decision on the offer; where it advises the holders of securities, the board of the offeree must give its views on the effects of implementation of the offer on employment, conditions of employment and the locations of the offeree’s places of business.
+
+3\. The board of an offeree must act in the interests of the company as a whole and must not deny the holders of securities the opportunity to decide on the merits of the offer.
+
+4\. False markets must not be created in the securities of the offeree, of the offeror or of any other company concerned by the offer in such a way that the rise or fall of the prices of the securities becomes artificial and the normal functioning of the markets is distorted.
+
+5\. An offeror must announce an offer only after ensuring that he or she can fulfil in full any cash consideration, if such is offered, and after taking all reasonable measures to secure the implementation of any other type of consideration.
+
+6\. An offeree must not be hindered in the conduct of its affairs for longer than is reasonable by an offer for its securities.
+
+7\. A substantial acquisition of securities (whether such acquisition is to be effected by one transaction or a series of transactions) shall take place only at an acceptable speed and shall be subject to adequate and timely disclosure.”.
+
+### 31. Revocation of S.I. No. 87 of 2001.
+
+**31**.— The Irish Takeover Panel Act 1997 (Relevant Company) Regulations 2001 (S.I. No. 87 of 2001) are revoked.
+
+### 32. Amendment of European Communities (Takeover Bids (Directive 2004/25/EC)) Regulations 2006.
+
+**32**.— (1) The following Regulation is substituted for Regulation 7 of the Regulations of 2006:
+
+“7.— The Panel shall ensure compliance with the principles set out in the Schedule to the Act of 1997 when performing its functions in accordance with these Regulations.”.
+
+(2) The following paragraphs are substituted for paragraph (1) of Regulation 8 of the Regulations of 2006:
+
+“(1) In paragraph (1A) the reference to subsection (3) of section 1 of the Act of 1997 (as it stands amended otherwise than by these Regulations) is a reference to the subsection (3) inserted in that section by the *Investment Funds, Companies and Miscellaneous Provisions Act 2006*.
+
+(1A) Without prejudice to the continued application of subsection (3) of section 1 of the Act of 1997 (as it stands amended otherwise than by these Regulations) to companies referred to in Regulation 4(2), paragraph (2) has effect in relation to the application of the Act of 1997 by virtue of Regulation 4(1).”.
+
+### 33. Amendment of Consumer Information Act 1978.
+
+**33**.— Section 9(11)(*b*) of the Consumer Information Act 1978 (as amended by the Company Law Enforcement Act 2001) is repealed.
+
+### 34. Amendment of sections 33C and 33AN of, and Schedule 2 to, Central Bank Act 1942.
+
+**34**.— (1) Section 33C(1) of the Central Bank Act 1942 (inserted by the Central Bank and Financial Services Authority of Ireland Act 2003) is amended by inserting the following paragraph after paragraph (*a*):
+
+“(*ab*) to perform the functions the Bank has under regulations for the time being in force under *section* *20* of the *Investment Funds, Companies and Miscellaneous Provisions Act 2006*;”.
+
+(2) Section 33AN of the Central Bank Act 1942 (inserted by the Central Bank and Financial Services Authority of Ireland Act 2004) is amended—
+
+(*a*) by substituting the following definition for the definition of “designated enactment” (inserted by the Act of 2005):
+
+“ ‘designated enactment’ does not include Part 4 or 5 of the Investment Funds, Companies and Miscellaneous Provisions Act 2005 or *Part 3* of the *Investment Funds, Companies and Miscellaneous Provisions Act 2006*;”,
+
+and
+
+(*b*) by substituting the following definition for the definition of “designated statutory instrument” (inserted by the Act of 2005):
+
+“ ‘designated statutory instrument’ does not include the Market Abuse (Directive 2003/6/EC) Regulations 2005 (S.I. No. 342 of 2005), the Prospectus (Directive 2003/71/EC) Regulations 2005 (S.I. No. 324 of 2005) or regulations for the time being in force under *section* *20* of the *Investment Funds, Companies and Miscellaneous Provisions Act 2006*;”.
+
+(3) Schedule 2 to the Central Bank Act 1942 (inserted by the Central Bank and Financial Services Authority of Ireland Act 2003) is amended by inserting in Part 1 the following item after the item relating to the Investment Funds, Companies and Miscellaneous Provisions Act 2005 (inserted by the Act of 2005):
+
+“
+
+| No. - of 2006 | *Investment* *Funds, Companies and* *Miscellaneous Provisions Act 2006* | The whole Act |
+|---|---|---|
+
+”.
+
+### 35. Amendment of Netting of Financial Contracts Act 1995.
+
+**35**.— Section 1 of the Netting of Financial Contracts Act 1995 is amended by substituting the following definition for the definition of “party”:
+
+“ ‘party’ means a person constituting one of the parties to an agreement and includes, and shall be deemed always to have included—
+
+(*a*) any number of persons who share a single, identical interest in the agreement referred to subsequently in this definition if there is no differentiation in the rights and obligations of each of them in that agreement,
+
+(*b*) the partners in a partnership or limited partnership, including any limited partnership established under the Investment Limited Partnerships Act 1994 or the Limited Partnerships Act 1907, and
+
+(*c*) the participants in—
+
+(i) a common contractual fund authorised pursuant to the Investment Funds, Companies and Miscellaneous Provisions Act 2005, the European Communities (Undertakings for Collective Investment in Transferable Securities) Regulations 2003 (S.I. No. 211 of 2003) or the laws of a Member State (other than the State) adopted to implement Council Directive No. 86/611/EEC of 20 December 1985, as amended, or
+
+(ii) a sub-fund of a common contractual fund referred to in subparagraph (i),
+
+(whether or not the fund is acting through a manager or a delegate of a manager),
+
+in circumstances where any of such persons or such partners (acting in their capacity as such) or such fund or sub-fund enters into an agreement.”.
+
+[^1]: OJ L142, 30.04.2004, p.12

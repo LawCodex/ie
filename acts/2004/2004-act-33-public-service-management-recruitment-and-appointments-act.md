@@ -1,0 +1,2219 @@
+---
+title: "Public Service Management (Recruitment and Appointments) Act 2004"
+identifier: "eli/2004/act/33"
+type: act
+jurisdiction: ie
+language: en
+number: 33
+year: 2004
+date: 2004-10-06
+last_amended: 2023-09-04
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2004/act/33/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2004/act/33/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Public Service Management (Recruitment and Appointments) Act 2004
+
+AN ACT TO REFORM THE RECRUITMENT AND APPOINTMENT PROCESSES OF THE CIVIL SERVICE AND CERTAIN OTHER BODIES IN THE PUBLIC SERVICE AND FOR THAT PURPOSE, TO PROVIDE FOR NEW MANAGEMENT STRUCTURES TO REPLACE THE CIVIL SERVICE COMMISSIONERS AND LOCAL APPOINTMENTS COMMISSIONERS, TO ESTABLISH THE COMMISSION FOR PUBLIC SERVICE APPOINTMENTS TO OVERSEE THE IMPLEMENTATION AND DEVELOPMENT OF THOSE STRUCTURES IN THE CONTEXT OF THE PUBLIC INTEREST AND THE NEED TO UPHOLD THE PROBITY OF THE RECRUITMENT AND APPOINTMENT PROCESS, TO PROVIDE FOR AN OFFICE CONNECTED TO THAT COMMISSION, TO PROVIDE FOR THE ESTABLISHMENT OF THE PUBLIC APPOINTMENTS SERVICE AS THE RECRUITMENT AND SELECTION BODY FOR THE CIVIL SERVICE AND OTHER BODIES IN THE PUBLIC SERVICE, TO INTRODUCE FLEXIBILITY INTO THE RECRUITMENT PROCESS BY ENABLING THE LICENSING BY THAT COMMISSION, IN ADDITION TO THE LICENSING OF THE PUBLIC APPOINTMENTS SERVICE, OF ANY PART OF THOSE SERVICES TO UNDERTAKE THEIR OWN RECRUITMENT IN RESPECT OF ONE OR MORE CLASSES OF EMPLOYEES AND, GENERALLY, TO ENABLE LICENCE HOLDERS TO DELEGATE SOME OF THEIR RECRUITMENT PROCESSES TO PERSONS OR BODIES SPECIFIED BY THAT COMMISSION FROM TIME TO TIME, TO ENABLE THOSE SERVICES TO RESPOND TO CHANGES IN THEIR RECRUITMENT NEEDS AND IN THE LABOUR MARKET, TO PROVIDE FOR BOTH PERMANENT AND TEMPORARY APPOINTMENTS AND TO PROVIDE FOR PROMOTION PROCESSES, AND FOR THOSE PURPOSES TAKE ACCOUNT OF THE NEED TO MAINTAIN, IN THE PUBLIC INTEREST, THE INTEGRITY AND PROBITY OF BOTH THE RECRUITMENT AND SELECTION PROCESSES FOR THOSE SERVICES AND TO PROVIDE FOR CONNECTED MATTERS.
+
+[6*th October*, 2004)
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Application of Act restricted by *Personal Injuries Assessment Board Act 2003* (46/2003), s. 18D(7), as inserted by *Personal Injuries Resolution Board Act 2022* (42/2022), s. 9, not commenced as of date of revision.
+>
+> **Appointment of mediators**
+>
+> **18D.** ...
+>
+> (7) Neither the *Public Service Management (Recruitment and Appointments) Act 2004* nor the Civil Service Regulation Acts 1956 to 2005 shall apply to a person appointed under this section.
+>
+> C2: Application of Act restricted (10.09.2019) by *Judicial Council Act 2019 (33/2019)*, s. 32(5), S.I. No. 457 of 2019.
+>
+> **Secretary to Council**
+>
+> **32.** — ...
+>
+> (5) The *Public Service Management (Recruitment and Appointments) Act 2004* shall not apply to the appointment of a person as the Secretary.
+>
+> C3: Term “personal data” construed (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 165, S.I. No. 174 of 2018.
+>
+> **Reference to personal data in enactment**
+>
+> **165.** Subject to this Act, a reference in any enactment to personal data within the meaning of the Act of 1988 shall be construed as including a reference to personal data within the meaning of—
+>
+> (*a*) the Data Protection Regulation, and
+>
+> (*b*) Part 5.
+>
+> C4: Application of Act restricted by *Road Traffic Act 2010* (25/2010), s. 42(1)(c), as amended (1.07.2017) by *Road Traffic Act 2016* (21/2016), s. 36(d), S.I. No. 242 of 2017.
+>
+> **Traffic wardens.**
+>
+> **42.** — ...
+>
+> (*c*) Neither the **[**Public Service Management (Recruitment and Appointments) Act 2004**]** nor the Civil Service Regulation Act 1956 apply to the position of traffic warden.
+>
+> C5: Application of Act extended (5.05.2016) by *Public Service Management (Recruitment and Appointments) Act 2004 (Extension of application to the Policing Authority) Order 2016* (S.I. No. 230 of 2016), in effect as per art. 1(2).
+>
+> *Application*
+>
+> 2\. To the extent that the recruitment and appointment provisions of the Public Service Management (Recruitment and Appointments) Act 2004 (No. 33 of 2004) do not apply in respect of the Policing Authority, that Act applies in respect of positions or class of positions within that Authority.
+>
+> C6: Application of Act restricted (31.10.2014) by *Competition and Consumer Protection Act 2014 (29/2014)*, s. 12(6, (7), (17), S.I. No. 366 of 2014.
+>
+> **Membership of Commission**
+>
+> **12.** ...
+>
+> (6) Subject to *subsection (7)*, the members of the Commission shall be recruited in accordance with the Public Service Management (Recruitment and Appointments) Act 2004 and appointed by the Minister.
+>
+> (7) *Subsection (6)* does not apply to—
+>
+> (*a*) a person to whom *subsection (1)* or *(2)* applies,
+>
+> (*b*) an appointment under *paragraph (b)* or *(c)* of *subsection (3)* or the reappointment under that subsection of a person as a member of the Commission, or
+>
+> (*c*) an appointment under *subsection (5)* of a person as a member of the Commission.
+>
+> ...
+>
+> (17) Subject to *subsection (6)*, the Public Service Management (Recruitment and Appointments) Act 2004 shall not apply to the office of a member.
+>
+> ...
+>
+> C7: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 33 of 2004</td><td>Public Service Management (Recruitment and Appointments) Act 2004</td><td>The whole Act</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> C8: Application of Act restricted (1.07.2010) by *Inland Fisheries Act 2010* (10/2010), s. 82(3), commenced as per s. 5(2) and S.I. No. 262 of 2010.
+>
+> **Powers of Minister in operating a fishery.**
+>
+> **82.**— ...
+>
+> (3) The Public Service Management (Recruitment and Appointments) Act 2004 and the Civil Service Regulation Acts 1956 and 1958 do not apply to any person employed or appointed by the Minister under this section.
+>
+> C9: Application of Act extended (15.08.2007) by *Public Service Management (Recruitment and Appointments) Act 2004 (Extension of Application to Health Information and Quality Authority) Order 2007* (S.I. No. 551 of 2007), art. 2, in effect as per art. 1(2).
+>
+> 2\. To the extent that the recruitment and appointment provisions of the Public Service Management (Recruitment and Appointments) Act 2004 (No. 33 of 2004) do not apply in respect of the Health Information and Quality Authority, that Act applies in respect of positions within that Authority.
+
+## PART 1Preliminary and General — PART 1 — Preliminary and General
+
+### 1. Short title.
+
+**1.—**This Act may be cited as the Public Service Management (Recruitment and Appointments) Act 2004.
+
+### 2. Interpretation.
+
+**2.—**(1) In this Act, except where the context otherwise requires—
+
+“appointment” means the appointment of a person to a position within the Civil Service, a local authority, a health board, F1[an education and training board], the Garda Síochána, or such other body as may be prescribed by order under *section 6* F2[but does not include redeployment pursuant to *Part 6A*];
+
+“Board” means the Board of the Public Appointments Service established by *section 36*;
+
+“Chief Executive of the Service” has the meaning given in *section 39(1);*
+
+“civil servant” has the meaning it has in the Civil Service Regulation Act 1956;
+
+“Civil Service” means the Civil Service of the Government and the Civil Service of the State;
+
+“code of practice” means the instructions and guidelines issued by the Commission under *section 23*;
+
+“Commission” means the Commission for Public Service Appointments established by *section 11*;
+
+“commissioners” means the members of the Commission as referred to in *section 12*;
+
+“Director” means the Director of the Office of the Commission for Public Service Appointments;
+
+“employment agency” means a person who, whether for profit or otherwise, provides services related to either or both of the following:
+
+(*a*) finding employment for prospective employees,
+
+(*b*) identifying potential employees for employers;
+
+“established position” means a position in which there is rendered established service;
+
+“established service” means service in a capacity in respect of which a superannuation allowance may be granted under the Superannuation Acts 1834 to 1963 and the Superannuation and Pensions Act 1976;
+
+“establishment day” means the day appointed by order under *section 3*—
+
+(*a*) in relation to the Commission or the Office of the Commission, to be the establishment day for the Commission for the purposes of *section 11*, and
+
+(*b*) in relation to the Public Appointments Service, to be the establishment day of the Public Appointments Service for the purposes of *section 33*;
+
+“functions” includes powers and duties, and references to the performance of functions include, as respects powers and duties, references to the exercise of the powers and the carrying out of the duties;
+
+“health board” means—
+
+(*a*) a health board established under the Health Act 1970,
+
+(*b*) the Eastern Regional Health Authority, or
+
+(*c*) an Area Health Board established under the Health (Eastern Regional Health Authority) Act 1999;
+
+“licence holder” means a person to whom a recruitment licence has been granted under *section 43* and includes a person to whom *section 45(2)* relates;
+
+“listed recruitment agency” means a recruitment agency included in the list of recruitment agencies under *section 25*;
+
+“local authority” means a local authority for the purposes of the Local Government Act 2001;
+
+“Minister” means the Minister for Finance;
+
+“Office of the Commission” means the Office of the Commission for Public Service Appointments;
+
+“office holder”, in relation to a person who can hold a recruitment licence, means a person to whom *section 44* relates;
+
+“officer of the Houses of the Oireachtas” means—
+
+(*a*) the Clerk or Clerk-Assistant of Dáil Éireann,
+
+(*b*) the Clerk or Clerk-Assistant of Seanad Éireann,
+
+(*c*) the Superintendent, Houses of the Oireachtas, or
+
+(*d*) the Captain of the Guard, Houses of the Oireachtas;
+
+F2["pre-existing public service pension scheme" has the meaning it has in section 5 of the Public Service Pensions (Single Scheme and Other Provisions) Act 2012;]
+
+F3["public service body" means, other than for the purposes of *Parts 6A* and *7A*—
+
+(*a*) the Civil Service,
+
+(*b*) the Garda Síochána,
+
+(*c*) a local authority within the meaning of the Local Government Act 2001,
+
+(*d*) the Health Service Executive,
+
+(*e*) an education and training board, and
+
+(*f*) such other body or bodies as may be prescribed by the Minister by order under *section 6* in accordance with that section,
+
+and reference to "public service" shall be read accordingly;]
+
+“recruitment licence” has the meaning given in *section 44*;
+
+“relevant Minister” means—
+
+(*a*) in relation to the exercise by a Minister of the Government of any powers, functions or duties vested in him or her by virtue of any enactment, that Minister, and
+
+(*b*) in relation to the administration and business of the public service by virtue of any enactment by a Minister of the Government or a Department of State in respect of a public service body, the Minister of the Government concerned or the Minister having charge of the Department concerned;
+
+“scheduled occupation” has the meaning given in *section 7(3)(a);*
+
+F2["Single Public Service Pension Scheme" means the scheme established by Chapter 2 of Part 2 of the Public Service Pensions (Single Scheme and Other Provisions) Act 2012;
+
+"superannuation benefit" has the meaning it has in section 1 of the Public Service Superannuation (Miscellaneous Provisions) Act 2004;]
+
+“unestablished position” means a position that is not an established position, and includes a position that is held on a temporary basis or for a definite limited period;
+
+F4[...]
+
+(2) In this Act—
+
+(*a*) a reference to a section is a reference to a section of this Act,
+
+(*b*) a reference to a schedule is a reference to a schedule to this Act, and
+
+(*c*) a reference to a subsection, paragraph or subparagraph is a reference to the subsection, paragraph or subparagraph of the provision in which the reference occurs,
+
+unless it is indicated that a reference to some other provision is intended.
+
+(3) A reference to another enactment is to that enactment as amended or modified at any time by any enactment.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Substituted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72 and sch. 6 item 47, S.I. No. 211 of 2013.
+>
+> F2: Inserted (24.12.2013) by *Public Service Management (Recruitment and Appointments) (Amendment) Act 2013* (47/2013), s. 2(a), (c), (d), commenced on enactment.
+>
+> F3: Substituted (24.12.2013) by *Public Service Management (Recruitment and Appointments) (Amendment) Act 2013* (47/2013), s. 2(b), commenced on enactment.
+>
+> F4: Deleted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72 and sch. 6 item 47, S.I. No. 211 of 2013.
+>
+> **Modifications (not altering text):**
+>
+> C10: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 33 of 2004</td><td>Public Service Management (Recruitment and Appointments) Act 2004</td><td>The whole Act</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E1: Previous affecting provision: definition of “public service body” amended (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72 and sch. 6 item 47, S.I. No. 211 of 2013; substituted as per F-note above.
+
+### 3. Establishment day order.
+
+**3.—**The Minister shall by order appoint a day to be the establishment day for the Commission and for the Public Appointments Service. The same day shall be appointed for both the Commission and the Service.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E2: Power pursuant to section exercised (19.10.2004) by *Public Service Management (Recruitment and Appointments) Act 2004 (Establishment Day) Order 2004* (S.I. No. 915 of 2004).
+
+### 4. Dissolution of Civil Service Commissioners and Local Appointments Commissioners.
+
+**4.—**The Civil Service Commissioners and the Local Appointments Commissioners are dissolved with effect from the establishment day.
+
+### 5. Application.
+
+**5.—**Subject to *section 7* and, in respect of an application for a recruitment licence, *section 44(3),* this Act applies to—
+
+(*a*) appointments to positions in the Civil Service, including, except where otherwise provided, unestablished positions,
+
+(*b*) appointments to positions in the Garda Síochána,
+
+(*c*) appointments to positions to which the Local Authorities (Officers and Employees) Act 1926 applies,
+
+(*d*) appointments to such positions, or class of position, in the local authorities, the health boards and the F5[education and training boards], or any of them, as are designated by order of the Minister under *section 6*,
+
+(*e*) appointments to positions in any other public service body as may be prescribed by order of the Minister under *section 6*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F5: Substituted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72 and sch. 6 item 47, S.I. No. 211 of 2013.
+
+### 6. Extension of application by order.
+
+**6.—**(1) Subject to *section 7*, where this Act does not apply to a body or any position or class of positions within that body, the Minister may—
+
+(*a*) in respect of any body to which *section 5(d)* relates—
+
+(i) after considering a report under *section 17* from the Commission on that body or any position or class of positions within that body, and
+
+(ii) after consulting with—
+
+(I) the Minister for the Environment, Heritage and Local Government, where that body is a local authority,
+
+(II) the Minister for Health and Children, where that body is a health board, or
+
+F6[(III) the Minister for Education and Skills, where that body is an education and training board]
+
+(*b*) in any other case, after consulting with—
+
+(i) the Commission, and
+
+(ii) such Minister or Ministers of the Government (if any) who, in the opinion of the Minister, is or are the relevant Minister or relevant Ministers in respect of that body,
+
+make an order providing for the application to the body concerned of the recruitment and appointment provisions of this Act in respect of any position or class of positions concerned.
+
+(2) The Minister may by order amend or revoke an order under this section.
+
+(3) Every order made by the Minister under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which that House has sat after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done under that order.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F6: Substituted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72 and sch. 6 item 47, S.I. No. 211 of 2013.
+>
+> **Editorial Notes:**
+>
+> E3: Power pursuant to subs. (1) exercised (17.10.2016) by *Public Service Management (Recruitment and Appointments) Act 2004 (Extension of Application to the Position of Director of the Decision Support Service within the Mental Health Commission) Order 2016* (S.I. No. 535 of 2016).
+>
+> E4: Power pursuant to subs. (1) exercised (5.05.2016) by *Public Service Management (Recruitment and Appointments) Act 2004 (Extension of application to the Policing Authority) Order 2016* (S.I. No. 230 of 2016).
+>
+> E5: Power pursuant to subs. (1) exercised (15.08.2007) by *Public Service Management (Recruitment and Appointments) Act 2004 (Extension of Application to Health Information and Quality Authority) Order 2007* (S.I. No. 551 of 2007), in effect as per art. 1(2).
+
+### 7. Excluded positions generally.
+
+**7.—**(1) Subject to *subsection (4),* this Act does not apply to, and no order shall be made under *section 6* in respect of, a position where the appointment concerned—
+
+(*a*) is to a position of an office holder—
+
+(i) under the Constitution, or
+
+(ii) otherwise within the meaning given to office holder by section 2 of the Ethics in Public Office Act 1995 for the purposes of that Act,
+
+(*b*) is to be made by the President,
+
+(*c*) is to be made by the Government,
+
+(*d*) is to the position of an officer of the Houses of the Oireachtas,
+
+(*e*) is to a position of special adviser within the meaning of section 19 of the Ethics in Public Office Act 1995, or
+
+(*f*) is of a person to a particular unestablished position where—
+
+(i) the appropriate authority (within the meaning of section 2 of the Civil Service Regulation Act 1956) with the consent of the Minister (where the Minister is not the appropriate authority) recommends the appointment of the person to that position, and
+
+(ii) the Government, having considered such recommendation, decides that such appointment would be in the public interest.
+
+(2) Subject to *subsection (4),* unless an order is made under *section 6*, either generally or in respect of any position or class of position, this Act does not apply to a position where the appointment concerned—
+
+(*a*) F7[...]
+
+(*b*) is to a scheduled occupation to which *subsection (3)* relates,
+
+(*c*) is of a superannuated person to an established position consequential on his or her being duly called upon, under section 11 of the Superannuation Act 1859, to serve again in the Civil Service, whether or not he or she is required to serve on trial under section 12 of the Civil Service Regulation Act 1956,
+
+(*d*) is to a position in which such person is required to serve on trial under section 11 of the Civil Service Regulation Act 1956,
+
+(*e*) is to a position under section 7 or 15 of the Civil Service Regulation Act 1956,
+
+(*f*) is to the position of an Appeal Commissioner under section 850 of the Taxes Consolidation Act 1997,
+
+(*g*) is by way of employment of civilians by the Minister for Defence under section 30 of the Defence Act 1954,
+
+(*h*) is to the position of a person designated by the Minister under section 23(3) of the Industrial Relations Act 1990 for the purposes of section 23(1) of that Act.
+
+(3) (*a*) Each of the occupations specified in *Schedule 1* is, except where *paragraph (b)* applies, a scheduled occupation for the purposes of this Act.
+
+(*b*) *Paragraph (a)* does not apply where the service to be rendered by the person to be appointed is to be established service.
+
+(*c*) If any question arises as to whether a particular occupation is or is not a scheduled occupation, the question shall be decided by the Minister after consultation with the Commission.
+
+(*d*) If any question arises as to whether an appointment to a scheduled occupation is or is not or was or was not an appointment to a position in the Civil Service, the question shall be decided by the Minister.
+
+F8[(4) Nothing in this section shall be read as affecting—
+
+(*a*) the application of *section 34(1)(i)* to appointments to which this section applies, or
+
+(*b*) the operation of *Part 7A*.]
+
+(5) Nothing in this Act shall be read as affecting section 13 of the British statute passed in the year 1854 and entitled “An Act to provide for the Establishment of a National Gallery of Paintings, Sculpture, and the Fine Arts, for the Care of a Public Library, and the Erection of a Public Museum, in Dublin”.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F7: Deleted (24.12.2013) by *Public Service Management (Recruitment and Appointments) (Amendment) Act 2013* (47/2013), s. 3(a), commenced on enactment.
+>
+> F8: Substituted (24.12.2013) by *Public Service Management (Recruitment and Appointments) (Amendment) Act 2013* (47/2013), s. 3(b), commenced on enactment.
+
+### 8. Excluded unestablished positions.
+
+**8.—**(1) This section applies to unestablished positions (not being a position which is in a scheduled occupation) within the Civil Service.
+
+(2) Subject to *subsection (3),* the Commission may by order declare that a specified unestablished position (not being a position which is in a scheduled occupation) shall be an excluded position F9[for the purposes of any provisions of this Act other than *Parts 6A* and *7A*,] and the Commission may provide in the order that the order is to remain in force for such period only as the Commission determines and specifies in the order.
+
+(3) The Commission shall not make an order under this section except—
+
+(*a*) at the request of the authority duly authorised to appoint a person to the unestablished position concerned, and
+
+(*b*) if that authority is not the Minister, with the consent of the Minister.
+
+(4) Where an order has been made or deemed to have been made under section 5 of the Civil Service Commissioners Act 1956 that is in force on the establishment day, then that order shall be deemed to have been made under this section and shall remain in force—
+
+(*a*) where the order was a limited period order within the meaning of subsection (1)(*c*) of the said section 5—
+
+(i) for the remainder of the period concerned, or
+
+(ii) where an order under *subsection (5)* applies, in accordance with that order, or
+
+(iii) if the order is revoked with effect from before the end of the period concerned, until the revocation has effect,
+
+and
+
+(*b*) in every other case, until the order is revoked under this section.
+
+(5) Where a limited period order referred to in *subsection (4)* is in force, the Commission may, from time to time, by order extend the period for which the limited period order is to remain in force.
+
+(6) An order made or deemed to have been made under this section may, subject to *subsection (3)(a),* be amended or revoked.
+
+(7) Where an order is made under this section—
+
+(*a*) it shall, for the purposes of the Statutory Instruments Acts 1947 and 1955, be deemed not to be a statutory instrument to which those Acts primarily apply,
+
+(*b*) notice of the making of it shall be published in *Iris Oifigiúil* as soon as may be after it is made, but failure to so publish shall not affect the order concerned.
+
+(8) Any position to which an order made or deemed to have been made under this section applies shall, so long as the order remains in force, be, F9[for the purposes of any provisions of this Act other than *Parts 6A* and *7A*], an excluded position, and the expression “excluded position” shall be read accordingly.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F9: Substituted (24.12.2013) by *Public Service Management (Recruitment and Appointments) (Amendment) Act 2013*, (47/2013), s. 4(a), (b), commenced on enactment.
+
+### 9. Expenses.
+
+**9.—**The expenses of the Commission and of the Public Appointments Service shall, to such extent as may be sanctioned by the Minister, be paid out of monies provided by the Oireachtas.
+
+### 10. Fees.
+
+**10.—**(1) The Commission and the Public Appointments Service may each charge fees, if any, to public service bodies in respect of any service carried out under this Act by the Commission or the Service, respectively.
+
+(2) A licence holder may charge fees, if any, to candidates for a competition to which this Act applies.
+
+(3) Any fees collected and taken under this section—
+
+(*a*) by the Commission or the Public Appointments Service shall be paid into or disposed of for the benefit of the Exchequer in accordance with the directions of the Minister, and
+
+(*b*) by any other licence holder shall be paid into or disposed of for the benefit of the Exchequer in accordance with the directions of the relevant Minister, issued with the consent of the Minister.
+
+(4) The Public Offices Fees Act 1879 does not apply to any fees charged under this Act.
+
+## PART 2Commission For Public Service Appointments — PART 2 — Commission For Public Service Appointments
+
+### Chapter 1The Commission — Chapter 1 — The Commission
+
+#### 11. Establishment of Commission.
+
+**11.—**(1) There is established with effect from the establishment day a body to be known in the Irish language as An Coimisiún um Cheapacháin Seirbhíse Poiblí and in the English language as the Commission for Public Service Appointments, in this Act referred to as the “Commission”.
+
+(2) The Commission is a body corporate with perpetual succession and a seal and with power to sue and be sued in its corporate name.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E6: Establishment day appointed (19.10.2004) by *Public Service Management (Recruitment and Appointments) Act 2004 (Establishment Day) Order 2004* (S.I. No. 915 of 2004).
+
+#### 12. Number of commissioners.
+
+**12.—**The Commission consists of—
+
+(*a*) the Chairman of Dáil Éireann (An Ceann Comhairle),
+
+(*b*) the Secretary General to the Government,
+
+F10[(*c*) the Secretary General of the Department of Public Expenditure and Reform,]
+
+(*d*) the chairperson of the Standards in Public Office Commission, and
+
+(*e*) the Ombudsman,
+
+who in this Act are referred to as “commissioners”.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F10: Substituted (6.07.2011) by *Ministers and Secretaries (Amendment) Act 2011*, (10/2011), s. 95, S.I. No. 401 of 2011.
+
+#### 13. Functions of Commission.
+
+**13.—**(1) The functions of the Commission are as follows:
+
+(*a*) to establish standards of probity, merit, equity and fairness, and other principles as they consider appropriate, to be followed, in the public interest, in the recruitment and selection of persons for positions in the Civil Service and other public service bodies;
+
+(*b*) to publish as codes of practice—
+
+(i) standards referred to in *paragraph (a)* in accordance with *section 23*;
+
+(ii) standards on the selection procedures for promotion under *Part 6*;
+
+(iii) procedures to which *section 23(3)* relates;
+
+and any such code may include all or any of the matters referred to in *subparagraphs (i), (ii)* and *(iii)* and may, from time to time, be amended or replaced;
+
+(*c*) to meet on a regular basis, agree and establish procedures which it deems appropriate and which permit it to decide and carry out its functions effectively, including systems to monitor, audit and evaluate the recruitment and selection process;
+
+(*d*) to grant licences under *section 43*, to amend such licences under *section 51* and, where the Commission considers it appropriate in the circumstances, to revoke such licences under *section 52*;
+
+(*e*) to issue instructions under *section 48*;
+
+(*f*) to issue advices under *section 49*;
+
+(*g*) to establish and set down appropriate appeal procedures to allow it to consider and decide issues in relation to licences, codes of practice and related matters put forward by the Public Appointments Service and other licence holders and to make those procedures available to the Public Appointments Service and other licence holders;
+
+(*h*) to report to the Oireachtas annually in accordance with *section 19*;
+
+(*i*) to report to Government at any time as the Commission see fit;
+
+(*j*) to provide such information to the Minister or other relevant Minister as that Minister may request from time to time on the operation of the recruitment and selection process;
+
+(*k*) to perform any additional functions assigned to it under *subsection (3);*
+
+(*l*) otherwise, to carry out its powers and duties under this Act.
+
+(2) (*a*) Subject to this Act, the Commission is independent in the exercise of its functions.
+
+(*b*) In exercising its functions under this Act, the Commission shall be guided by the principles of good recruitment practice.
+
+(3) The Minister may by order—
+
+(*a*) confer on the Commission such additional functions relating to either or both—
+
+(i) the recruitment and selection process, and
+
+(ii) the selection and promotion procedures,
+
+that are connected with the functions conferred on the Commission by *subsection (1)* or an order made under this subsection, as the Minister considers appropriate,
+
+(*b*) make such provision as he or she considers necessary or expedient in relation to matters ancillary to or arising out of the conferral on the Commission of functions so conferred.
+
+(4) The Minister may by order amend or revoke an order under this section, including an order under this subsection.
+
+(5) Every order made by the Minister under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which the House has sat after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done under it.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E7: Power pursuant to subs. (3) exercised (3.12.2006) by *Commission for Public Service Appointments (Additional Function) (No. 3) Order 2006* (S.I. No. 601 of 2006).
+>
+> E8: Power pursuant to subs. (3) exercised (3.12.2006) by *Commission for Public Service Appointments (Additional Function) (No. 2) Order 2006* (S.I. No. 600 of 2006).
+>
+> E9: Power pursuant to subs. (3) exercised (3.12.2006) by *Commission for Public Service Appointments (Additional Function) Order 2006* (S.I. No. 599 of 2006).
+
+#### 14. Duty to inform Commission of certain matters.
+
+**14.—**(1) Where an office holder or a listed recruitment agency believes that any person has, deliberately or recklessly, interfered improperly with the recruitment process, or has attempted to so interfere, the office holder or recruitment agency shall forthwith inform the Commission and, where the office holder is not the licence holder concerned, the licence holder accordingly.
+
+(2) Where the Commission is of the opinion that there may have been interference with the recruitment process, it may investigate or cause to be investigated the matter on its behalf by a person appointed under *section 15*.
+
+#### 15. Investigations on behalf of Commission.
+
+**15.—**(1) The Commission may, in writing, authorise—
+
+(*a*) one or more of the commissioners,
+
+(*b*) one or more than one person who, in the opinion of the Commission, has the qualifications and experience necessary to exercise the functions conferred by this section, or
+
+(*c*) any combination of persons to whom *paragraphs (a)* and *(b)* relate,
+
+to investigate the exercise of functions under this Act by a licence holder or a recruitment agency on the list of recruitment agencies.
+
+(2) The Commission shall provide each person authorised under *subsection (1)* with a warrant of appointment and such person shall when exercising a power under this section produce the warrant to any person affected, if requested to produce it by that person.
+
+(3) A person authorised under *subsection (1)* may, at all reasonable times on production of the person's authorisation, enter premises at which the office holder or listed recruitment agency carries on business.
+
+(4) A person authorised under *subsection (1)* who has entered premises in accordance with *subsection (3)* may exercise all or any of the following powers:
+
+(*a*) inspect the premises;
+
+(*b*) request any person on the premises who apparently has control of, or access to, records relating to the exercise of functions under this Act (including any record required to be held by virtue of any term, condition, direction or requirement of the Commission) to produce the records for inspection;
+
+(*c*) inspect any records produced in accordance with the request, or found on the premises in the course of inspecting the premises;
+
+(*d*) take copies of those records or of any part of them;
+
+(*e*) request any person who the authorised person reasonably believes has information relating to those records, or to the business of the office holder or the listed recruitment agency (as the case may be), to answer questions with respect to the records or that business.
+
+(5) A person to whom a request is made in accordance with *subsection (4)* shall—
+
+(*a*) comply with the request so far as is possible to do so, and
+
+(*b*) give such other assistance and information to the authorised person with respect to the business of the licence holder as is reasonable in the circumstances.
+
+(6) The powers conferred by *subsection (4)* may also be exercised in relation to any other person who, in the opinion of the Commission, is in possession of information that is materially relevant to the exercise of functions under this Act by an office holder or a listed recruitment agency.
+
+(7) The production of a record in compliance with a request made under this section does not prejudice any lien that a person may have over the record.
+
+(8) Nothing in this section requires a legal practitioner to produce a record that contains a privileged communication made by or to the practitioner or to divulge any information that relates to the communication.
+
+(9) (*a*) Subject to *paragraph (b),* information obtained by an authorised person under *subsection (1)* by virtue of the performance by him or her of any functions under this section shall not be disclosed, by any person except in accordance with law.
+
+(*b*) *Paragraph (a)* does not apply to the disclosure of information where such disclosure is duly made—
+
+(i) in the course of, or for the purposes of, an investigation under this Act,
+
+(ii) for the purposes of any report or notification under this Act, or
+
+(iii) to any of the following:
+
+(I) the Commission;
+
+(II) the Minister;
+
+(III) the Garda Síochána;
+
+(IV) the Director of Public Prosecutions.
+
+(10) A person commits an offence if such person—
+
+(*a*) obstructs a person authorised under *subsection (1)* in the exercise of a power conferred by this section,
+
+(*b*) without reasonable excuse, fails to comply with a request made under this section, or
+
+(*c*) in purported compliance with such a request, gives information to a person authorised under *subsection (1),* that the person knows to be false or misleading.
+
+(11) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding €3,000, or to imprisonment for a term not exceeding F11[6 months], or to both.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F11: Substituted (4.07.2006) by *Civil Service Regulation (Amendment) Act 2005* (18/2005), s. 32, S.I. No. 363 of 2006.
+
+#### 16. Report to Government.
+
+**16.—**Where the Commission is satisfied that there has been a material infringement of the terms and conditions of a recruitment licence, or of any direction given to a licence holder, the Commission shall—
+
+(*a*) report that matter to the Government,
+
+(*b*) publish that report or any part of it, as it sees fit, and
+
+(*c*) include information relating to the infringement in its Annual Report.
+
+#### 17. Report to Minister.
+
+**17.—**(1) The Commission may carry out such assessment as it considers appropriate into recruitment practices of—
+
+(*a*) any public service body, or
+
+(*b*) any class of public service bodies,
+
+to which *section 5(d)* relates, either generally or with regard to specific positions or a class of positions, and may make a report on the matter to the Minister.
+
+(2) The Commission may make such recommendations as it considers appropriate in a report under this section, including any recommendation that an order be made under *section 6(1)* in respect of a specific position or a class of positions.
+
+(3) Where—
+
+(*a*) a report made to the Minister under this section contains a recommendation that an order be made under *section 6(1)* in respect of a specific position or a class of positions, and
+
+(*b*) no such order has been made within 2 years of the Minister receiving the report,
+
+then the Minister shall lay a report on the matter before each House of the Oireachtas within the next 10 days on which the House concerned has sat after the end of that period of 2 years.
+
+(4) *Subsection (3)* shall not apply if, before the expiration of the period of 2 years, the Minister lays a copy of the report before each House of the Oireachtas together with a statement that he or she does not intend to make an order as recommended by the Commission.
+
+#### 18. Statement of strategy of Commission.
+
+**18.—**Within 6 months after the establishment day, the Commission shall prepare and submit to the Minister a statement of strategy for the purposes of paragraph (*b*) of section 4(1) of the Public Service Management Act 1997 and, for that purpose, subparagraph (i) of that paragraph shall be read as if it referred to a period ending within 6 months of the establishment of the Commission.
+
+#### 19. Annual report of Commission.
+
+**19.—**(1) In each year after the establishment day for the Commission, it shall prepare a report in relation to its activities under this Act in the preceding year and cause copies of the report to be laid before each House of the Oireachtas.
+
+(2) Notwithstanding *subsection (1),* if, but for this subsection, the first report under that subsection would relate to a period of less than 6 months, the report shall relate to that period and to the year immediately following that period and shall be prepared as soon as may be after the end of that year.
+
+#### 20. Seal of Commission, etc.
+
+**20.—**(1) The Commission shall, as soon as may be after establishment day, provide itself with a seal.
+
+(2) The seal shall be authenticated by the signatures of—
+
+(*a*) a commissioner, and
+
+(*b*) either—
+
+(i) another commissioner, or
+
+(ii) the Director or, where authorised by the Commission to authenticate the seal, another member of the staff of the Commission.
+
+(3) Judicial notice shall be taken of the seal of the Commission and every document purporting to be an instrument made by and to be sealed with the seal of the Commission (purporting to be authenticated in accordance with this section) shall be received in evidence and be deemed to be such instrument without proof unless the contrary is shown.
+
+(4) When the Commission has provided itself with a seal, then thereafter each of the following shall only be made, published or otherwise issued under the seal of the Commission:
+
+(*a*) instructions to licence holders under *section 48*;
+
+(*b*) a warrant of appointment as an authorised officer under *section 15*;
+
+(*c*) a report to the Government under *section 16*;
+
+(*d*) a report to the Minister under *section 17*;
+
+(*e*) a statement of strategy under *section 18*;
+
+(*f*) a report of activities of the Commission under *section 19*;
+
+(*g*) a code of practice published by the Commission under *section 23* and any instrument consolidating, revoking or amending any such code.
+
+(5) Subject to *subsection (4),* any contract or instrument which, if entered into or executed by a person not being a body corporate, would not require to be made under seal may be entered into or executed on behalf of the Commission by any person generally or specially authorised by the Commission for that purpose.
+
+#### 21. Declaration of interests by commissioners.
+
+**21.—**(1) Each commissioner shall, on his or her appointment as such, make a declaration in writing of his or her interests to the Minister, in such form as the Minister may specify.
+
+(2) Each commissioner shall, throughout the tenure of his or her appointment, amend and update his or her declarations of interests as required by the Minister by reference to any change in the interest held by the commissioner.
+
+#### 22. Disclosure of interests by commissioners.
+
+**22.—**(1) Where a commissioner has a pecuniary interest or other beneficial interest in, or material to, any matter which falls to be considered by the Commission, he or she shall—
+
+(*a*) disclose to the Commission the nature of his or her interest in advance of any consideration of the matter,
+
+(*b*) neither influence nor seek to influence a decision in relation to the matter,
+
+(*c*) take no part in any consideration of the matter, and
+
+(*d*) withdraw from any meeting for so long as the matter is being discussed or considered and not vote or otherwise act in relation to the matter.
+
+(2) For the purpose of this section, but without prejudice to the generality of *subsection (1),* a commissioner shall be regarded as having a beneficial interest if—
+
+(*a*) he or she or any member of his or her household, or any nominee of his or her household, is a member of a company or any other body which has a beneficial interest in, or material to, a matter referred to in that subsection,
+
+(*b*) he or she or any member of his or her household is in partnership with or is in the employment of a person who has a beneficial interest in, or material to, such a matter,
+
+(*c*) he or she or any member of his or her household is a party to any arrangement or agreement (whether or not enforceable) concerning land to which such a matter relates, or
+
+(*d*) any member of his or her household has a beneficial interest in, or material to, such a matter.
+
+(3) For the purposes of this section a commissioner shall not be regarded as having a beneficial interest in, or material to, any matter by reason only of an interest of his or hers or of any company or of any other body or person mentioned in *subsection (2)* which is so remote or insignificant that it cannot reasonably be regarded as likely to influence a person in considering, discussing or in voting on, any question with respect to the matter, or in performing any function in relation to that matter.
+
+(4) Where a question arises as to whether or not a course of conduct, if pursued by a commissioner, would be a failure by him or her to comply with the requirements of *subsection (1),* the question shall be determined by the Commission and for that purpose the commissioner concerned—
+
+(*a*) shall disclose the proposed course of conduct to the Commission,
+
+(*b*) shall neither influence nor seek to influence a decision in relation to the matter,
+
+(*c*) shall take no part in any consideration of the matter, and
+
+(*d*) shall not vote or otherwise act in relation to the matter.
+
+(5) Where a disclosure is made to the Commission under *subsection (1)* or *(4),* particulars of the disclosure and of any determination under *subsection (4)* shall be recorded in the minutes of the meeting concerned.
+
+### Chapter 2Codes of practice, listed recruitment agencies, etc. — Chapter 2 — Codes of practice, listed recruitment agencies, etc.
+
+#### 23. Codes of practice.
+
+**23.—**(1) The Commission shall prepare such codes of practice as it considers necessary or appropriate for the purpose of carrying out its functions under *section 13* and shall cause such codes of practice to be made publicly available.
+
+(2) Codes of practice to be published by the Commission and to which *subparagraphs (i)* and *(ii)* of *section 13(1)(b)* relate shall set out—
+
+(*a*) the principles to be put in place, in respect of recruitment and selection procedures and of selecting persons for promotion, in relation to—
+
+(i) the probity, equity and fairness of the process concerned,
+
+(ii) the need to ensure that candidates are selected on the basis of merit,
+
+(iii) the protection of the public interest,
+
+(iv) the implementation of best practice and good governance,
+
+(v) the general procedures (including review procedures) to be adopted in respect of grievances and complaints brought forward by candidates, and
+
+(vi) such other matters the Commission deems to be appropriate,
+
+and
+
+(*b*) any requirements or other matters to which *section 24(4)* relates.
+
+(3) Codes of practice to be published by the Commission and to which *subparagraph (iii)* of *section 13(1)(b)* relates shall establish and set down—
+
+(*a*) procedures, including appeal procedures, for dealing with any alleged failure, by any person applying for a position within the Civil Service or other public service body and to which this Act or the Local Authorities (Officers and Employees) Act 1926 applies, to comply with any provision of those Acts or any code of practice to which *sub-paragraph (i)* or *(ii)* of *section 13(1)(b)* relates,
+
+(*b*) where a failure to so comply is proved, the consequences of such failure, including disqualification, where appropriate.
+
+(4) (*a*) The Commission may consolidate, revoke or amend any code of practice as it sees fit, including—
+
+(i) any regulations under section 16 or rules under section 30 of the Civil Service Commissioners Act 1956, and
+
+(ii) any regulations under section 8 of the Local Authorities (Officers and Employees) Act 1926,
+
+which are deemed to be codes of practice by virtue of *section 62*
+
+(*b*) The amendment of a code of practice shall not take effect until notice of the amendment is published by the Commission.
+
+(*c*) The revocation of a code of practice shall not take effect until a replacement code of practice is published by the Commission in respect of the matters concerned.
+
+(5) (*a*) Recruitment licences shall not be granted by the Commission, either generally or in respect of any particular post or class of posts, unless there has been duly published a code of practice in respect of the recruitment process to the post or posts to which the licence would relate.
+
+(*b*) *Paragraph (a)* does not apply in respect of a licence granted to the Public Appointments Service.
+
+#### 24. Codes of practice and requirements for appointment, etc.
+
+**24.—**(1) Without prejudice to *subsection (2),* every code of practice to which this section relates shall include requirements relating to—
+
+(*a*) knowledge and ability to enter on the discharge of the duties of the post concerned,
+
+(*b*) suitability on the grounds of character,
+
+(*c*) suitability in all other relevant respects for appointment to the post concerned.
+
+(2) In respect of—
+
+(*a*) one or more local authorities, the Minister for the Environment, Heritage and Local Government,
+
+(*b*) one or more health boards, the Minister for Health and Children,
+
+F12[(*c*) one or more education and training boards, the Minister for Education and Skills, or]
+
+(*d*) one or more public service bodies to which *paragraph (a), (b)* or *(c)* do not relate, the Minister,
+
+may, from time to time, specify requirements he or she considers necessary for applicants to comply with in respect of any particular post or class of posts specified by that Minister.
+
+(3) Without prejudice to the generality of *subsection (2),* specified requirements in respect of the post concerned may include—
+
+(*a*) the minimum amount of practical experience, or type or types of practical experience, required of candidates for the post concerned,
+
+(*b*) the academic or professional qualifications required to be possessed by candidates,
+
+(*c*) subject to the Employment Equality Act 1998, the health and age of candidates.
+
+(4) Where—
+
+(*a*) requirements have been specified under *subsection (2)* in respect of a post or class of posts, and
+
+(*b*) the Commission has obtained the written consent of the Minister concerned in respect of the recruitment process for such post or for some or all of such class of posts,
+
+then the Commission shall, in respect of the post or class of posts to which the written consent relates, do either or both of the following, as it considers appropriate, to take account of those requirements:
+
+(i) prepare one or more codes of practice;
+
+(ii) amend one or more existing codes of practice.
+
+(5) (*a*) Where a Minister of the Government referred to in *subsection (2)* specifies, or has specified, requirements for the purposes of that subsection, then such Minister may also specify optional matters to be provided for in respect of the post or class of posts concerned.
+
+(*b*) Where *paragraph (a)* applies, then *subsection (4)* shall also apply to such optional matters as if it were referred to in that subsection.
+
+(6) (*a*) Where a code of practice relates to the recruitment process for an unestablished position within the Civil Service it may provide that a person appointed to such position may, in circumstances specified in the code, be subsequently appointed to a specified established position within the Civil Service.
+
+(*b*) This subsection shall cease to have effect on such day as the Minister by order appoints.
+
+(7) In preparing or amending a code of practice to which this section relates, the Commission—
+
+(*a*) shall consult with the Chief Executive of the Service in a case to which *paragraph (a), (b)* or *(c)* of *subsection (2)* relates, and
+
+(*b*) may seek the assistance of the Public Appointments Service or any other licence holder.
+
+(8) If in respect of a code of practice a question arises as to whether a candidate is or is not qualified for appointment to a post to which that code relates, it shall be decided upon by the licence holder responsible for the competition concerned.
+
+(9) Only candidates who have successfully completed the recruitment or promotion process under this Act, including compliance with the code of practice concerned, shall be eligible for appointment.
+
+(10) Subject to *subsection (11),* a person shall be selected for appointment to a post in the order of merit as determined by the recruitment process.
+
+(11) A candidate shall not be appointed to a post unless—
+
+(*a*) he or she agrees to undertake the duties attached to the post concerned and to accept the conditions under which those duties are, or may be required to be, performed, and
+
+(*b*) he or she is fully competent and available to undertake, and fully capable of undertaking, the duties attached to that position, having regard to the conditions under which those duties are, or may be required to be, performed.
+
+(12) Nothing in this section shall be read as affecting the application of the Employment Equality Act 1998 in circumstances where that Act applies.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F12: Substituted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72 and sch. 6 item 47, S.I. No. 211 of 2013.
+
+#### 25. Listed recruitment agencies.
+
+**25.—**(1) At least once every year the Commission shall cause to be published and made publicly available in the State a notice requesting applications from recruitment agencies to be included in a list for the purposes of this section (in this Act referred to as the “listed recruitment agencies”).
+
+(2) (*a*) The Commission shall prepare, publish and make publicly available in the State the conditions under which recruitment agencies are to be considered for inclusion in a list of recruitment agencies for the purposes of this Act.
+
+(*b*) The Commission may, from time to time, amend the conditions.
+
+(*c*) Where the Commission amends the conditions, it shall—
+
+(i) cause a copy to be sent to all recruitment agencies standing specified in the list of recruitment agencies and to every holder of a recruitment licence, and
+
+(ii) cause it to be published by making it publicly available within the State.
+
+(*d*) Without prejudice to the generality of *paragraph (a),* the conditions the Commission sets shall include—
+
+(i) that the recruitment agency possesses, at the date of its assessment by the Commission, a tax clearance certificate as referred to in *section 26*,
+
+(ii) that the candidate recruitment agency complies with any licensing or other requirements necessary to act as an employment or recruitment agency within the State, and
+
+(iii) such other conditions that the Commission considers appropriate to specify.
+
+(3) A recruitment agency seeking to be included on the list shall only be included if it appears to the Commission upon assessment that the agency satisfies the conditions prepared, published and made publicly available by the Commission under *subsection (2).*
+
+(4) Where for the purposes of *subsection (3)* the Commission is satisfied, it shall—
+
+(*a*) include that agency on the list, and
+
+(*b*) publish the list and make it publicly available in the State or cause it to be so published and made available.
+
+(5) (*a*) Subject to *paragraph (b)* and to any terms and conditions in the recruitment licence concerned, a licence holder may seek the assistance of a listed recruitment agency in respect of some of the tasks connected with the selection of persons by virtue of that licence.
+
+(*b*) Notwithstanding *paragraph (a),* the licence holder concerned shall have sole responsibility for the final selection of candidates for appointment or for placing candidates on a panel for appointment.
+
+(*c*) It is the duty of a licence holder to ensure that the terms and conditions of the recruitment licence are complied with by any listed recruitment agency he or she seeks the assistance of in respect of the task of selection, and nothing in this section shall be read so as to relieve the licence holder of his or her obligations under this Act.
+
+(6) (*a*) A listed recruitment agency shall remain on the list—
+
+(i) until the operative date in a request to the Commission from the recruitment agency for it to cease to be included in the list or the date of receipt by the Commission of such a request, whichever is the later, or
+
+(ii) subject to *subsection (8),* where the Commission forms the opinion that the recruitment agency fails to meet the conditions for the time being standing for inclusion on the list, until such date as the Commission considers appropriate, taking into account such recruitment (if any) being undertaken by virtue of this Act when the Commission reached that opinion.
+
+(*b*) For the purposes of *paragraph (a)* where recruitment is being assisted by a listed recruitment agency—
+
+(i) when the request is made under *subparagraph (i)* of that paragraph, or
+
+(ii) when the Commission forms an opinion for the purposes of *subparagraph (ii)* of that paragraph,
+
+then different dates may be specified in respect of different classes or categories of recruitment.
+
+(7) The Commission shall, from time to time as it considers appropriate, examine and evaluate, or cause to be examined and evaluated, every listed recruitment agency for the purpose of finding out whether or not each of them has complied with the conditions referred to in *subsection (2).*
+
+(8) Where the Commission is of the opinion that a listed recruitment agency has failed to a material extent to meet any of the conditions specified for the purposes of *subsection (2),* then—
+
+(*a*) where the Commission believes that, because of the nature of the failure, it is in the public interest to remove the name of the agency from the list forthwith, the Commission shall so remove that name,
+
+(*b*) in any other case, the Commission shall give such notice to the agency concerned, as the Commission considers appropriate in the circumstances, of its intention to remove the name of the agency from the list subject to any representations that the agency may wish to make to the Commission on or before a specified date.
+
+#### 26. Tax clearance certificates.
+
+**26.—**For the purposes of *section 25* where the conditions referred to in *subsection (2)* of that section require the possession of a tax clearance certificate by a recruitment agency applying for inclusion in the list of recruitment agencies, then the agency shall not be included in the list unless it produces to the Commission a tax clearance certificate issued under section 1095 (inserted by section 127 of the Finance Act 2002) of the Taxes Consolidation Act 1997.
+
+### Chapter 3Office of the Commission — Chapter 3 — Office of the Commission
+
+#### 27. Office of the Commission.
+
+**27.—**The Commission shall be assisted in carrying out its functions by an office, to be known as the Office of the Commission for Public Service Appointments and in this Act referred to as the “Office of the Commission”.
+
+#### 28. Director.
+
+**28.—**F13[(1) Subject to *subsection (2)*, the person who is designated by the Ombudsman as the chief executive officer (by whatever name called) of the Office of the Ombudsman shall be the Director of the Office of the Commission who shall be known and is referred to in this Act as the "Director".]
+
+(2) For the purposes of the Public Service Management Act 1997, the Director is the principal officer of the Office of the Commission.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Substituted (31.10.2012) by *Ombudsman (Amendment) Act 2012* (38/2012), s. 18, in effect as per s. 1(3).
+
+#### 29. Director to be accounting officer.
+
+F14[**29.**— (1) For the purposes of the Exchequer and Audit Departments Acts 1866 and 1921 and the Comptroller and Auditor General (Amendment) Act 1993, the person who stands as the duly appointed accounting officer for the appropriation accounts of the Office of the Ombudsman shall also be the accounting officer for the appropriation accounts of the Office of the Commission.
+
+(2) Nothing in *subsection (1)* shall be read so as to prevent the amalgamation of the appropriation accounts and vote of the Office of the Commission and the Office of the Ombudsman into one appropriation account and one vote.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F14: Substituted (31.10.2013) by *Ombudsman (Amendment) Act 2012* s. 19, commenced as per s. 1(3).
+
+#### 30. Functions of Director.
+
+**30.—**(1) The Director shall manage and control generally the staff, administration and business of the Office of the Commission and shall perform such other functions as may be conferred on him or her by or under this Act or by the Commission.
+
+(2) The Director shall be responsible to the Commission for the performance of his or her functions and the implementation of the Commission's policies.
+
+(3) The Director shall provide the Commission with such information (including financial information) in relation to the performance of his or her functions as the Commission may from time to time require.
+
+(4) Such of the functions of the Director as may from time to time be specified by him or her may, with the consent of the Commission, be performed by such member of the staff of the Office as may be authorised by the Director.
+
+(5) The functions of the Director may be performed during his or her absence or when the position of Director is vacant by such member of the staff of the Office as may from time to time be designated by the Commission.
+
+#### 31. Attendance of Director before Oireachtas Committee.
+
+**31.—**(1) Subject to *subsection (2),* the Director shall at the request in writing of an Oireachtas Committee attend before it to give account for the general administration of the Office of the Commission, including the 3 year strategic plans duly laid before the Houses of the Oireachtas.
+
+(2) In this section “Oireachtas Committee” means a Committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas (other than the Committee on Members' Interests of Dáil Éireann or the Committee on Members' Interests of Seanad Éireann) or a subcommittee of a Committee as appointed.
+
+#### 32. Staff of Office of Commission.
+
+F15[**32.**— (1) With effect from the commencement of the Ombudsman (Amendment) Act 2012, in so far as it relates to the Office of the Commission:
+
+(*a*) the members of the staff of the Office of the Commission upon such commencement shall become members of the staff of the Office of the Ombudsman,
+
+(*b*) subject to *paragraph (c)*, such and so many officers and staff of the Ombudsman as may be designated from time to time by the Director for the purposes of staffing the Office of the Commission and any such designation may be revoked at any time,
+
+(*c*) the person who immediately before such commencement had been the Director shall cease to be the Director upon such commencement and—
+
+(i) shall be deemed to be an officer of the Office of the Ombudsman designated to the Office of the Commission, and
+
+(ii) such deemed designation shall not be revoked without his or her consent.]
+
+(2) The grades of the staff of the Office of the Commission and the members of staff in each grade shall be determined by the Minister.
+
+(3) The members of the staff of the Office of the Commission, including the Director, are civil servants of the State.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F15: Substituted (31.10.2012) by *Ombudsman (Amendment) Act 2012*, s. 20, commenced as per s. 1(3).
+
+## PART 3Public Appointments Service — PART 3 — Public Appointments Service
+
+### 33. Establishment of Public Appointments Service.
+
+**33.—**There is established with effect from the establishment day a body to be known in the Irish language as An tSeirbhís um Cheapacháin Phoiblí and in the English language as the Public Appointments Service.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E10: Establishment day appointed (19.10.2004) by *Public Service Management (Recruitment and Appointments) Act 2004 (Establishment Day) Order 2004* (S.I. No. 915 of 2004).
+
+### 34. Functions of Public Appointments Service.
+
+**34.—**(1) The functions of the Public Appointments Service are as follows:
+
+(*a*) to act as the centralised recruitment, assessment and selection body for the Civil Service and to provide a similar service, where requested, to the local authorities and health boards, the Garda Síochána and any other public service body;
+
+(*b*) to ensure that standards of probity, merit, equity and fairness, consistent with the codes of practice set down by the Commission are followed in the public interest in the recruitment, assessment and selection of persons for appointments in the Civil Service and other public service bodies;
+
+(*c*) to carry out all the procedures necessary to undertake the recruitment, assessment and selection of suitable candidates for appointment;
+
+(*d*) to undertake such other selection competitions, including promotion competitions under *section 57*—
+
+(i) in respect of the Civil Service, at the request of the Minister for Finance, or any other office holder concerned,
+
+(ii) in respect of local authorities, at the request of the Minister for the Environment, Heritage and Local Government or the office holder concerned,
+
+(iii) in respect of Health Boards, at the request of the Minister for Health and Children or the office holder concerned,
+
+F16[(iv) in respect of education and training boards, at the request of the Minister for Education and Skills or the office holder concerned,]
+
+(v) in respect of the Garda Síochána, at the request of the Minister for Justice, Equality and Law Reform or of the office holder concerned, and
+
+(vi) in respect of any other public service body, at the request of the Minister or the office holder concerned;
+
+(*e*) to determine having due regard to relevant criteria, such as the requirements of the position concerned—
+
+(i) the criteria for selection, and
+
+(ii) the form of selection process to be adopted,
+
+subject to the codes of practice issued by the Commission and to matters relating to formulation of policy for recruitment and promotion—
+
+(I) by the Minister under *section 58(1),*
+
+(II) by the Minister for the Environment, Heritage and Local Government under *section 58(2),*
+
+(III) by the Minister for Health and Children under *section 58(3),*
+
+(IV) by the Minister for Education and Science under *section 58(4),* or
+
+(V) by the Minister for Justice, Equality and Law Reform under *section 58(5);*
+
+(*f*) to provide advice and expert services, including research and development, to the Civil Service and other public service bodies on recruitment, assessment and selection and related matters;
+
+(*g*) without prejudice to the granting of a licence under *section 43(1)(b)* to any office holder, to exercise the functions which, immediately before the commencement of this provision, were exercisable by the Local Appointments Commissioners in respect of any recruitment and selection;
+
+(*h*) except where *section 7(1)* applies, to undertake such other competitions, examinations, interviews and tests, which are not otherwise provided for by *paragraphs (a)* to *(g),* as the Government may from time to time direct;
+
+(*i*) to inform itself of best practice in relation to all recruitment, assessment and selection matters, and, on the basis of this information, to provide advice to the Civil Service and public service bodies;
+
+(*j*) subject to the public interest, to make its expertise in recruitment and selection services otherwise available on such terms and conditions as it deems appropriate.
+
+(2) Subject to this Act, the Public Appointments Service is independent in the exercise of its functions.
+
+(3) The Minister may, after consulting the Commission, by order—
+
+(*a*) confer on the Public Appointments Service such additional functions relating to recruitment, assessment and selection and connected with the functions conferred on the Service by *subsection (1)* or an order made under this subsection, as the Minister considers appropriate,
+
+(*b*) make such provision as he or she considers necessary or expedient in relation to matters ancillary to or arising out of the conferral on the Public Appointments Service of functions so conferred.
+
+(4) The Minister may by order amend or revoke an order under this section, including an order under this subsection.
+
+(5) Every order made by the Minister under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which the House has sat after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F16: Substituted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72 and sch. 6 item 47, S.I. No. 211 of 2013.
+>
+> **Modifications (not altering text):**
+>
+> C11: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 33 of 2004</td><td>Public Service Management (Recruitment and Appointments) Act 2004</td><td>The whole Act</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E11: Power pursuant to subs. (3) exercised (3.12.2006) by *Public Service Management (Recruitment and Appointment) Act 2004 (Additional Function for Licence Holders) Order 2006* (S.I. No. 602 of 2006).
+
+### 34A. Additional functions of Public Appointments Service.
+
+F17[**34A.**— In addition to the functions set out in *section 34*, the Public Appointments Service shall have the functions set out in *Part 6A*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F17: Inserted (24.12.2013) by *Public Service Management (Recruitment and Appointments) (Amendment) Act 2013* (47/2013), s. 5, commenced on enactment.
+
+### 35. Statement of strategy of Public Appointments Service.
+
+**35.—**Within 6 months after the establishment day, the Chief Executive of the Service shall prepare and submit to the Minister a statement of strategy for the purposes of paragraph (*b*) of section 4(1) of the Public Service Management Act 1997 and, for that purpose, subparagraph (i) of that paragraph shall be read as if it referred to a period ending within 6 months after the establishment of the Public Appointments Service.
+
+### 36. Board of Public Appointments Service.
+
+**36.—**(1) There is established a board of the Public Appointments Service, in this Act referred to as the “Board” which consists of—
+
+(*a*) a chairperson,
+
+(*b*) the Chief Executive of the Service, and
+
+(*c*) 7 ordinary members.
+
+(2) The chairperson and the ordinary members of the Board shall be appointed by the Minister in consultation with the Minister for the Environment, Heritage and Local Government, the Minister for Health and Children and the Minister for Justice, Equality and Law Reform.
+
+(3) The Board has the following functions:
+
+(*a*) to represent the interests of the public service and ensure that all appropriate service standards are being achieved;
+
+(*b*) to consider and approve plans and strategic objectives put forward by the Chief Executive of the Service;
+
+(*c*) to monitor and advise the Public Appointments Service in the performance of its functions;
+
+(*d*) to ensure that appropriate review procedures are developed and implemented by the Public Appointments Service in relation to recruitment and promotion competitions, having regard to any relevant codes of practice issued by the Commission;
+
+(*e*) to publish the annual report of the Public Appointments Service;
+
+(*f*) where relevant, to give effect to the exercise of a ministerial function to which *section 58* relates or to which that section refers;
+
+(*g*) to give directions to the Chief Executive of the Service in respect of functions of the Public Appointments Service which it regards as necessary.
+
+(4) Subject to this Act, the Board shall determine its own procedures.
+
+### 37. Appointment and terms of office of members of Board.
+
+**37.—**(1) This section applies to a Board member other than the Chief Executive of the Service.
+
+(2) In appointing persons as members of the Board, the Minister—
+
+(*a*) shall ensure that—
+
+(i) at least 2 of them have either or both civil service and other public service experience and knowledge which the Minister considers relevant, and
+
+(ii) at least 2 of them have expertise in human resource management, customer service and recruitment outside the public service which the Minister considers relevant,
+
+(*b*) otherwise shall have regard to such experience and knowledge of the person that the Minister, after consultation with the other Ministers referred to in *section 58* considers necessary or appropriate to enable the Board to carry out its functions,
+
+(*c*) shall have regard to the desirability of an appropriate gender balance as the Minister may determine from time to time.
+
+(3) A person appointed a Board member shall be appointed for a period of not more than 3 years.
+
+(4) Each Board member shall be paid such remuneration (if any) and allowances for expenses incurred by him or her (if any) as the Minister may determine.
+
+(5) A person appointed a Board member may be re-appointed to a second or subsequent term as a Board member.
+
+(6) A Board member may resign by letter addressed to the Minister and the resignation shall take effect from the date specified in the letter or upon receipt of it by the Minister, whichever is the later.
+
+(7) A Board member may at any time be removed by the Minister if, in the Minister's opinion, the member has become incapable of performing his or her functions, or has committed stated misbehaviour, or his or her removal appears to the Minister to be necessary for the effective performance by the Board of its functions.
+
+(8) A Board member shall be disqualified from holding office and shall cease to be a member of the Board if he or she is adjudged bankrupt or makes a composition or arrangement with creditors or is sentenced by a court of competent jurisdiction to a term of imprisonment or penal servitude.
+
+(9) Notice of every appointment of a person to be a Board member or as a Board member and every resignation or removal from office as a Board member shall be published as soon as practicable in *Iris Oifigiúil*. However, failure to so publish shall not affect any appointment.
+
+### 38. Board members and involvement in political matters, etc.
+
+**38.—**(1) Where a member of the Board—
+
+(*a*) is nominated as a member of Seanad Éireann,
+
+(*b*) is nominated to stand as a candidate for election as a member of either House of the Oireachtas or to the European Parliament,
+
+(*c*) is regarded, pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act 1997, as having been elected to the European Parliament to fill a vacancy, or
+
+(*d*) is or becomes a member of a local authority,
+
+he or she shall thereupon cease to be a member of the Board.
+
+(2) A person who is, for the time being, entitled under the Standing Orders of either House of the Oireachtas to sit therein or who is a member of the European Parliament shall, while he or she is so entitled or is such a member, be disqualified from becoming a member of the Board or a member of the staff of the Public Appointments Service.
+
+(3) A member of the Board shall be subject to the same restrictions as apply generally to established civil servants above the grade of clerical officer, or its equivalent, in respect of not identifying himself or herself actively or publicly with political matters.
+
+### 39. Chief Executive of Service.
+
+**39.—**(1) There shall be a chief executive officer of the Public Appointments Service who shall be known and is referred to in this Act as the “Chief Executive of the Service”.
+
+(2) The Chief Executive of the Service shall be appointed by the Minister.
+
+(3) The Chief Executive of the Service shall hold office upon and subject to such terms and conditions (including terms and conditions relating to remuneration and allowances for expenses) as determined by the Minister.
+
+(4) The person who, immediately before the establishment day for the Public Appointments Service, was the chief executive officer in the offices of the Civil Service Commissioners and the Local Appointments Commissioners shall, if willing, be appointed as the first Chief Executive of the Service.
+
+### 40. Functions of Chief Executive of Service.
+
+**40.—**(1) The Chief Executive of the Service shall—
+
+(*a*) manage and control generally the staff, administration and business of the Public Appointments Service, and
+
+(*b*) perform such other functions that are conferred on him or her by or under this Act or as may be determined by the Board.
+
+(2) Without prejudice to the generality of *subsection (1),* the Chief Executive of the Service shall—
+
+(*a*) be the recruitment licence holder for the Public Appointments Service,
+
+(*b*) be responsible to the Board for the performance of his or her functions and the implementation of the Public Appointments Service's policies,
+
+(*c*) draw up the strategic plan for the Public Appointments Service for consideration and approval by the Board before submitting it to the Minister,
+
+(*d*) be the accounting officer for the appropriation accounts of the Public Appointments Service for the purposes of the Exchequer and Audit Departments Acts 1866 and 1921 and the Comptroller and Auditor General (Amendment) Act 1993,
+
+(*e*) provide the Board with such information (including financial information) in relation to the performance of his or her functions as the Board may from time to time require,
+
+(*f*) report periodically to the Board and, from time to time, advise the board on relevant issues,
+
+(*g*) carry out his or her functions as the Head of the Scheduled Office under the Public Service Management Act 1997 (as amended by *Part 1* of *Schedule 2*),
+
+(*h*) undertake such other functions of the Public Appointments Service as may be determined by the Board,
+
+(*i*) in respect of arrangements for competitions for the following posts being organised by the Public Appointments Service, to consult with the Secretary General of the Department of the State as indicated:
+
+F18[(i) chief executive of a local authority, the Secretary General of the Department of the Environment, Community and Local Government,]
+
+(ii) chief executive officer of a health board — the Secretary General of the Department of Health and Children, and
+
+F19[(iii) the chief executive of an education and training board — the Secretary General of the Department of Education and Skills.]
+
+(3) Such of the functions of the Chief Executive of the Service as may from time to time be specified by him or her may, with the consent of the Board, be performed by such member of the staff of the Public Appointments Service as may be authorised by the Chief Executive.
+
+(4) The functions of the Chief Executive of the Service may be performed during his or her absence or when the position of Chief Executive is vacant by such member of the staff of the Public Appointments Service as may from time to time be designated for that purpose by the Board.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F18: Substituted (1.06.2014) by *Local Government Reform Act 2014* (1/2014), s. 5(3) and sch. 2 part 6, S.I. No. 214 of 2014.
+>
+> F19: Substituted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72 and sch. 6 item 47, S.I. No. 211 of 2013.
+
+### 41. Attendance of Chief Executive of Service before Oireachtas Committee.
+
+**41.—**(1) Subject to *subsection (2)*, the Chief Executive of the Ser vice shall at the request in writing of an Oireachtas Committee attend before it to give account for the general administration of the Public Appointments Service, as may be required by such Committee.
+
+(2) In this section “Oireachtas Committee” means a Committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas (other than the Committee on Members' Interests of Dáil Éireann or the Committee on Members' Interests of Seanad Éireann) or a subcommittee of a Committee as appointed.
+
+### 42. Staff of Public Appointments Service.
+
+**42.—**(1) The Minister shall appoint such and so many persons to be members of the staff of the Public Appointments Service as the Minister from time to time thinks proper.
+
+(2) The grades of the staff of the Public Appointments Service and the members of staff in each grade shall be determined by the Board with the consent of the Minister.
+
+(3) The members of the staff of the Public Appointments Service, including the Chief Executive of the Service, are civil servants of the State.
+
+## PART 4Recruitment Licences and Office Holders — PART 4 — Recruitment Licences and Office Holders
+
+### 43. Recruitment licence.
+
+**43.—**(1) (*a*) The Commission shall grant a recruitment licence to the Chief Executive of the Service with effect from the establishment day.
+
+(*b*) Where an application under *section 44* has been duly made by a person to hold a recruitment licence then, subject to this section, the Commission may grant a licence to the applicant in respect of some or all of the classes of employees or positions to which the application relates.
+
+(2) The Commission shall only grant a recruitment licence to an applicant if it is satisfied that—
+
+(*a*) the applicant is an office holder (including a person to whom *section 45(1)* relates) for the purposes of *section 44*, and
+
+(*b*) in the context of the public service body concerned, that the applicant can and will observe the appropriate standards and codes of practice.
+
+(3) (*a*) A recruitment licence granted by the Commission shall—
+
+(i) be capable of identifying the class or classes of employees or the position or positions to which it relates,
+
+(ii) include the terms and conditions set out in *paragraph (b),* and
+
+(iii) include such other terms and conditions, including any restrictions, as they consider appropriate in the circumstances.
+
+(*b*) The terms and conditions to be included in a recruitment licence are that the office holder to whom the licence is granted (including any person who, for the time being, is exercising the functions of that office) shall—
+
+(i) in so far as they relate to the licence granted, comply fully with the principles and codes of practice published by the Commission,
+
+(ii) supply any information required from time to time by the Commission and any other body or bodies specified by it,
+
+(iii) co-operate with and comply with any direction which may be duly issued from time to time by the Commission, and
+
+(iv) inform the Commission and any other body or bodies specified by it of the details of proposed recruitment in such manner as the Commission may prescribe.
+
+(4) A licence holder is responsible to the Commission for ensuring that the terms and conditions of the licence and the relevant codes of practice are fully complied with.
+
+(5) The Commission shall, from time to time as it considers appropriate, examine and evaluate, or cause to be examined and evaluated, every licence holder for the purpose of finding out whether or not each of them has complied with the conditions of this section.
+
+### 44. Application for recruitment licences by office holders.
+
+**44.—**(1) Subject to *subsection (3),* each of the following office holders may apply to the Commission to hold a licence (in this Act referred to as a “recruitment licence”) for the purposes of this Act:
+
+(*a*) the Secretary General of a Department of State or, where more than one person holds the rank of Secretary General in a Department of State, the Secretary General who is the principal officer of the Department;
+
+(*b*) the chief executive officer of a health board;
+
+F20[(*c*) the chief executive of a local authority for the purposes of the Local Government Act 2001;]
+
+F21[(*d*) the chief executive of an education and training board,]
+
+(*e*) the Commissioner of the Garda Síochána;
+
+(*f*) in the case of any other public service body, including any part of the Civil Service to which *paragraph (a)* does not relate, the person who is the chief executive officer, by whatever name known, of the body concerned.
+
+(2) A recruitment licence may be applied for either generally or in respect of one or more classes of employees or positions.
+
+(3) An application under this section shall not be made in respect of an office declared by a subsisting order under section 2 of the Local Authorities (Officers and Employees) Act 1926 to be an office to which that Act applies.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F20: Substituted (1.06.2014) by *Local Government Reform Act 2014* (1/2014), s. 5(3) and sch. 2 part 6, S.I. No. 214 of 2014.
+>
+> F21: Substituted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72 and sch. 6 item 47, S.I. No. 211 of 2013.
+
+### 45. Supplemental provisions on office holders.
+
+**45.—**(1) In this Part a reference to an application for a recruitment licence by an office holder includes an application for a recruitment licence by a person who, for the time being, is duly entitled to exercise the functions of the office concerned.
+
+(2) A licence granted to an office holder shall be deemed to be granted to the person who, for the time being, is duly entitled to exercise the functions of the office holder.
+
+(3) A person to whom a licence is deemed to be granted by virtue of *subsection (2)* shall, as soon as practicable, advise the Commission in writing of that fact and whether or not he or she is in a temporary or acting capacity. A failure to comply with this subsection does not invalidate any act done by the person concerned for the purposes of this Act.
+
+### 46. Delegation to Public Appointments Service.
+
+**46.—**(1) An office holder to whom a licence has been granted may delegate the task of recruitment, or any part of it, which is to be carried out under the licence, to the Public Appointments Service and may so delegate generally or in respect of a particular class or category of post or a particular competition for a post.
+
+(2) Where a delegation in accordance with *subsection (1)* has been made to carry out selection, the Chief Executive of the Service shall be responsible and not the licence holder concerned for adhering to the terms of the licence, to the extent of the delegation, as if he or she were the office holder concerned in the normal manner.
+
+### 47. Recruitment under Act and other competitions, etc.
+
+**47.—**(1) Recruitment in respect of posts to which this Act applies may only be undertaken—
+
+(*a*) by the Public Appointments Service or other licence holder concerned,
+
+(*b*) with the duly given authority of the office holder concerned, and
+
+(*c*) within the terms and conditions of the recruitment licence concerned.
+
+(2) The Service or other licence holder concerned, as the case may be, shall hold all competitions, examinations, interviews and tests which are for the time being duly required by law to be held by the Service or licence holder concerned.
+
+### 48. Instructions to licence holders.
+
+**48.—**(1) Where the Commission is of the opinion that an aspect of the recruitment process has been or is likely to be compromised, then the Commission may—
+
+(*a*) issue instructions to the licence holder concerned, and
+
+(*b*) issue a copy of those instructions to any other person it considers appropriate to issue a copy to.
+
+(2) Nothing in *subsection (1)* shall be read as permitting an instruction to be issued which has the result of affecting any particular appointment or purported appointment or the recruitment process relating to that appointment or purported appointment.
+
+(3) In issuing instructions to a licence holder under this section, the Commission shall at all times endeavour to ensure that it does not do so in a manner which materially inhibits the carrying out of functions by that licence holder.
+
+### 49. Advices to licence holders.
+
+**49.—**(1) Where the Commission considers it appropriate in any circumstance, it may, from time to time, issue advices to licence holders in respect of the exercise of functions by office holders under this Act. Advices under this section may be issued to one or more licence holders.
+
+(2) Where the Commission issues an advice to a licence holder, the holder shall have regard to it.
+
+(3) Without prejudice to the generality of *subsection (1)* or to *section 13(1)(b),* the Commission may—
+
+(*a*) issue advices for the purpose of ensuring that the number of licence holders entering the market place for recruitment of persons to the public service at any time, or in close proximity to each other, do not have the effect of negatively distorting the market for such recruitment, and
+
+(*b*) issue advices to licence holders in circumstances where it believes there is a danger that a disorderly market may emerge.
+
+### 50. Licence holders to advise Commission of certain recruitment.
+
+**50.—**Where a licence holder—
+
+(*a*) proposes to hold a recruitment competition in respect of a particular grade or grades, and
+
+(*b*) is of the opinion that—
+
+(i) at or around the same time one or more other licence holders proposes to recruit to one or more of those grades as well, and
+
+(ii) the effect of all such recruitment for one or more of those grades would be to negatively distort the market for such recruitment,
+
+then, the licence holder shall advise the Commission accordingly.
+
+### 51. Amendment of recruitment licences.
+
+**51.—**(1) The Commission may amend a recruitment licence—
+
+(*a*) at the request of the licence holder,
+
+(*b*) in accordance with any terms and conditions of the licence,
+
+(*c*) following an investigation on behalf of the Commission under *section 15* in respect of the licence holder concerned,
+
+(*d*) in respect of the subject matter of any report by the Commission to the Government under *section 16* or to the Minister under *section 17*,
+
+(*e*) where, otherwise than provided for by *paragraphs (a)* to *(d),* it is of the opinion that there are serious and urgent reasons necessitating the amendment of the licence.
+
+(2) Where a recruitment process has been commenced by virtue of a recruitment licence and is being undertaken by the office holder or a listed recruitment agency on behalf of the holder, then the Commission may, in relation to the amendment of the licence concerned, make any transitional arrangements that it considers appropriate in the circumstances, including providing that the amended licence shall have effect on different dates in respect of different classes or categories of recruitment.
+
+### 52. Revocation of recruitment licences.
+
+**52.—**(1) Where the Commission forms the opinion that—
+
+(*a*) a licence holder has failed or is failing to meet the terms and conditions of the recruitment licence concerned granted by them,
+
+(*b*) since the grant of the recruitment licence, the circumstances relevant to the grant have changed and are such that, if an application for a recruitment licence were made in the changed circumstances, it would be refused,
+
+(*c*) the licence be revoked following—
+
+(i) an investigation on behalf of the Commission under *section 15* in respect of the licence holder concerned, or
+
+(ii) any report by the Commission to the Government under *section 16*,
+
+or
+
+(*d*) otherwise than provided for by *paragraphs (a)* to *(c),* there are serious and urgent reasons necessitating the revocation of the licence,
+
+then, the Commission may revoke the recruitment licence.
+
+(2) (*a*) A recruitment licence remains in force—
+
+(i) until the operative date in a request to the Commission from the officer holder concerned for it to revoke the recruitment licence or the date of receipt of such a request, whichever is the later, or
+
+(ii) where the Commission decides to revoke a licence in circumstances to which *paragraph (b)* relates, until the operative date of the revocation.
+
+(*b*) For the purposes of *paragraph (a),* where a recruitment process has been commenced by virtue of a recruitment licence and is being undertaken by the office holder or a listed recruitment agency on behalf of the holder, then the Commission may, in relation to the revocation of a licence, make any transitional arrangements that it considers appropriate in the circumstances, including providing that the licence shall be revoked on different dates in respect of different classes or categories of recruitment.
+
+## PART 5Obligations Of Candidates in respect of Recruitment and Selection Procedures — PART 5 — Obligations Of Candidates in respect of Recruitment and Selection Procedures
+
+### 53. Application (Part 5).
+
+**53.—**This Part applies to—
+
+(*a*) the carrying out under this Act of any recruitment and selection of persons for positions within the public service, and
+
+(*b*) the selection for promotion of civil servants or the staff of any other public service body.
+
+### 54. Obligations.
+
+**54.—**In respect of a competition for a position within the public service, a person shall not—
+
+(*a*) knowingly or recklessly make an application that is false or misleading in a material respect for the position,
+
+(*b*) in purported compliance with a requirement for the position, knowingly or recklessly provide any information or documentation that is false or misleading in a material respect,
+
+(*c*) canvass any person, with or without inducements, on his or her own behalf or on behalf of a candidate for the position,
+
+(*d*) personate a candidate at any stage of the recruitment and selection process concerned,
+
+(*e*) knowingly or maliciously obstruct a person engaged in the conduct of the competition or otherwise interfere with the general conduct of that competition,
+
+(*f*) knowingly and without lawful authority take any action that could result in the compromising of any test material or of any evaluation of it,
+
+(*g*) interfere improperly with the competition process or competition records so as to confer an advantage or a disadvantage on any candidate.
+
+### 55. Offences.
+
+**55.—**(1) In respect of *paragraphs (a)* to *(g)* of *section 54*, a person who contravenes any of those paragraphs is guilty of an offence.
+
+(2) A person who knowingly aids, abets, counsels or procures another person to commit any offence under *subsection (1)* or conspires with another person for the commission of any such offence is guilty of an offence.
+
+(3) A person who is guilty of an offence under this section is liable—
+
+(*a*) on summary conviction to a fine not exceeding €3,000 or to imprisonment for a term not exceeding 6 months, or to both, or
+
+(*b*) on conviction on indictment to a fine not exceeding €10,000 or to imprisonment for a term not exceeding 2 years, or to both.
+
+### 56. Supplemental provision to section 55.
+
+**56.—**(1) Where in respect of a competition a person has been found guilty of an offence under *section 55* and was or is a candidate at the competition then—
+
+(*a*) where he or she has not been appointed to a position as a result of that competition, he or she shall stand disqualified as a candidate,
+
+(*b*) where he or she has been appointed to a position as a result of that competition, he or she shall forfeit that appointment.
+
+(2) Notification of forfeiture under *subsection (1)(b)* shall be given in writing to the person concerned by the office holder concerned.
+
+(3) Nothing in this section shall be read as restricting the imposition of any appropriate sanction including, as a consequence of the application of the procedures referred to in *section 13(1)(g),* disqualification or forfeiture.
+
+## PART 6Selection and Promotion — PART 6 — Selection and Promotion
+
+### 57. Selection for promotion.
+
+**57.—**(1) For the purposes of selecting persons for promotion and without prejudice to the generality of functions set out in this Act, the Public Appointments Service shall, at the request of the Minister and after consulting with such other Minister of the Government (if any) as the Minister considers appropriate in the circumstances, hold one or more than one competition from among either or both of the following or any class of either or both—
+
+(*a*) civil servants, and
+
+(*b*) the staff of one or more than one other public services body.
+
+(2) In undertaking the conducting of selection procedures for promotion, the Public Appointments Service shall do so in accordance with the codes of practice published by the Commission.
+
+(3) (*a*) Nothing in *subsection (1)* shall be read as restricting the due holding, otherwise than under that subsection, of any competition for the purpose of selecting persons for promotion within the public service.
+
+(*b*) A competition to which *paragraph (a)* relates shall be subject to so much of any code of practice under *section 23* which relates to the selection for promotion to the post concerned.
+
+(4) If requested by one or more public service bodies, the Public Appointments Service may—
+
+(*a*) assist the body or bodies (as the case may be) in the operation of any selection procedures for promotion, and
+
+(*b*) undertake any part or all of the promotion competition concerned.
+
+(5) On completion of the selection process the successful candidate or candidates may, subject to *subsection (6),* be duly appointed to the post or posts concerned.
+
+(6) Subject to *subsection (7),* a person shall be selected for appointment to a post in the order of merit as determined by the selection process.
+
+(7) A candidate shall not be appointed to a post unless—
+
+(*a*) he or she agrees to undertake the duties attached to the post concerned and to accept the conditions under which those duties are, or may be required to be, performed, and
+
+(*b*) he or she is fully competent and available to undertake, and fully capable of undertaking, the duties attached to that position, having regard to the conditions under which those duties are, or may be required to be, performed.
+
+(8) Without prejudice to *subsections (1)* to *(4)* the Commission may, after consulting the Chief Executive of the Service and other licence holders concerned, appoint any such other licence holder to carry out selection procedures for the purposes of promotion on such terms and conditions as it sees fit.
+
+(9) Nothing in this section shall be read as affecting the application of the Employment Equality Act 1998 in circumstances where that Act applies.
+
+## PART 6A Redeployment — PART 6A — Redeployment] — Annotations Amendments: Inserted (24.12.2013) by Public Service Management (Recruitment and Appointments) (Amendment) Act 2013 (47/2013), s. 6, commenced on enactment.
+
+### F22[57A. Interpretation of Part and operation of designations under it.
+
+F23[**57A.**—(1) In this Part**—**
+
+(*a*) "basic pay" means, in relation to the person the subject of the designation concerned, the amount of the person’s pay or salary, by virtue of the position held in the public service body, by the person immediately before the redeployment day, other than amounts in respect of—
+
+(i) specific work or a specific duty undertaken,
+
+(ii) unsocial or atypical hours worked,
+
+(iii) shift work,
+
+(iv) piece work, or
+
+(v) overtime;
+
+(*b*) "employee" includes an officer and the holder of a position;
+
+(*c*) "public service body" means—
+
+(i) the Civil Service,
+
+(ii) that category of persons referred to in section 30(*g*) of the Defence Act 1954, namely civilians employed thereunder by the Minister for Defence,
+
+(iii) a local authority within the meaning of the Local Government Act 2001,
+
+(iv) the Health Service Executive,
+
+(v) an education and training board,
+
+(vi) any other body (other than a body referred to in Schedule 3 (inserted by the Public Service Management (Recruitment and Appointments) (Amendment) Act 2013)) established—
+
+(I) by or under an enactment (other than the Companies Acts), or
+
+(II) under the Companies Acts in pursuance of powers conferred by or under another enactment, and financed wholly or partly by means of money provided, or loans made or guaranteed, by a Minister of the Government or the issue of shares held by or on behalf of a Minister of the Government,
+
+in respect of which a pre-existing public service pension scheme exists or applies or may be made, or in respect of which the Single Public Service Pension Scheme is applicable,
+
+(vii) any other body (other than a body referred to in Schedule 3) that is wholly or partly funded directly or indirectly out of monies provided by the Oireachtas or from the Central Fund or the growing produce of that Fund and in respect of which a pre-existing public service pension scheme exists or applies or may be made, or in respect of which the Single Public Service Pension Scheme is applicable,
+
+(viii) any subsidiary of, or company controlled (within the meaning given by section 10 of the Taxes Consolidation Act 1997) by, a body to which *subparagraph (iii)*, *(iv)*, or *(vi)* relates and in respect of which a pre-existing public service pension scheme exists or applies or may be made, or in respect of which the Single Public Service Pension Scheme is applicable,
+
+and reference to "public service" shall be read accordingly;
+
+(*d*) "recognised trade union or staff association" means a trade union or staff association recognised by the Minister for the purposes of negotiations which are concerned with the remuneration or conditions of employment, or the working conditions of employees of public service bodies;
+
+(*e*) "redeployment day" shall be read in accordance with *subsection (2)*; and
+
+(*f*) a reference to a person’s being redeployed to a position is a reference to the appointment of the person to the position as provided for by *subsection (2)*.
+
+(2) The designation, pursuant to this Part, of an employee for his or her redeployment to a position in another public service body operates, from the date that is specified in the designation in that behalf (in this Act referred to as the ‘redeployment day’), to effect the appointment of the person (subject to and as provided for in this Part) to that position; and such an appointment shall be deemed to have been made by that public service body.
+
+(3) The functions conferred on the Public Appointments Service by this Part are performable notwithstanding the provisions of any other enactment and, in particular, the fact that the person, the subject of a designation under *section 57B*, is an employee of a public service body by virtue of the exercise of powers conferred by any other enactment.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F23: Inserted (24.12.2013) by *Public Service Management (Recruitment and Appointments) (Amendment) Act 2013* (47/2013), s. 6, commenced on enactment.
+
+### 57B. Power to designate certain staff for redeployment.
+
+F24[**57B**.—(1) The Public Appointments Service may designate an employee of a public service body for redeployment to a position in another public service body, being a position that is, in the opinion of the Public Appointments Service, comparable to the position held by the employee before the redeployment day.
+
+(2) Where a person who is designated under *subsection (1)* holds a position by virtue of a contract that is one for a definite period, he or she shall, on the redeployment day, be redeployed to such position in the specified public service body for the period which remains unexpired under the contract.
+
+(3) A designation under *subsection (1)* shall be in writing and shall specify a day to be the redeployment day.
+
+(4) A designation under *subsection (1)* shall be to a position that has been approved by the Minister for the purpose before the making of the designation.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F24: Inserted (24.12.2013) by *Public Service Management (Recruitment and Appointments) (Amendment) Act 2013* (47/2013), s. 6, commenced on enactment.
+
+### 57C. Terms and conditions of redeployment.
+
+F25[**57C**.—(1) Save—
+
+(*a*) in accordance with a collective agreement negotiated with any recognised trade union or staff association concerned or an agreement negotiated with the person concerned, or
+
+(*b*) as provided for by law,
+
+the pay of a person, the subject of a designation under *section 57B*, shall not be less than the basic pay to which he or she was entitled immediately before the redeployment day.
+
+(2) The previous service with a public service body of a person designated for redeployment under *section 57B* shall be reckonable for the purposes of, but subject to, any exceptions or exclusions in:
+
+(*a*) the Redundancy Payments Acts 1967 to 2012;
+
+(*b*) the Protection of Employees (Part-Time Work) Act 2001;
+
+(*c*) the Protection of Employees (Fixed-Term Work) Act 2003;
+
+(*d*) the Organisation of Working Time Act 1997;
+
+(*e*) the Terms of Employment (Information) Acts 1994 to 2012;
+
+(*f*) the Minimum Notice and Terms of Employment Acts 1973 to 2005;
+
+(*g*) the Unfair Dismissals Acts 1977 to 2007;
+
+(*h*) the Maternity Protection Acts 1994 and 2004;
+
+(*i*) the Parental Leave Acts 1998 and 2006;
+
+(*j*) the Adoptive Leave Acts 1995 and 2005; and
+
+(*k*) the Carer’s Leave Act 2001.
+
+(3) The provisions of a superannuation scheme or arrangement that immediately before the redeployment day govern the conditions applicable to or in respect of a person designated for redeployment under *section 57B* shall—
+
+(*a*) save in accordance with a collective agreement negotiated with any recognised trade union or staff association concerned, and
+
+(*b*) subject to *subsections (4)* and *(5)*,
+
+continue to apply to or in respect of that person.
+
+(4) Notwithstanding *subsection (3*), a provision of a superannuation scheme or arrangement or collective agreement referred to in *subsection (3)* shall only have effect for the purpose of that subsection if it has been approved either—
+
+(*a*) by the Minister, or
+
+(*b*) by another Minister of the Government with the consent or concurrence of the Minister.
+
+(5) Notwithstanding *subsection (3)*—
+
+(*a*) the age at which superannuation benefits are payable, and
+
+(*b*) the rate to be applied in respect of the accrual of service,
+
+in relation to service that occurs after the redeployment day shall be those applicable in respect of the position to which the person is designated for redeployment. Service that occurs before the redeployment day shall be reckonable in accordance with the terms of the policy for the time being of the Minister with regard to transfer of service arrangements.
+
+(6) Where the provisions of a superannuation scheme or arrangement referred to in *subsection (3)* confer a power to exercise a discretion that power shall, on and after the redeployment day, be exercisable by the public service body to which the person concerned is redeployed, by the trustees of the superannuation scheme of that body, or by the Minister, as appropriate.
+
+(7) Unless the Minister consents in writing to other arrangements, the pension payments and other superannuation liabilities in respect of a person redeployed following a designation under *section 57B* shall become, on the redeployment day, the liabilities of the superannuation scheme or arrangement of the public service body to which he or she is redeployed, and such a person shall become a member of the relevant superannuation scheme or arrangement of that body (which scheme or arrangement shall, in relation to that person, be deemed to stand amended in such respects as are necessary to take account of any conditions that apply to or in respect of that person by virtue of *subsection (3)*).
+
+(8) If such is not the case immediately before the redeployment day, a person redeployed under *section 57B* to a position in the civil service shall, from that day, be subject to and employed in accordance with the Civil Service Regulation Acts 1956 to 2005 and the Ethics in Public Office Acts 1995 and 2001.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F25: Inserted (24.12.2013) by *Public Service Management (Recruitment and Appointments) (Amendment) Act 2013* (47/2013), s. 6, commenced on enactment.
+
+### 57D. Matters to be considered.
+
+F26[**57D**.—When making a designation under *section 57B*, the Public Appointments Service shall have regard to the following:
+
+(*a*) the competencies and qualifications of the public service employee concerned, or of the general class of employee to which he or she belongs, as well as those competencies and qualifications required for the position, or general class of position, in respect of which the designation is to be made;
+
+(*b*) the basic pay of the public service employee immediately before the redeployment day and the pay applicable to the position in respect of which a designation is to be made;
+
+(*c*) the terms of any policy for the time being of the Minister, and, in so far as not inconsistent with that policy, any collective agreement negotiated with any recognised trade union or staff association concerned, relating to mobility or redeployment of public service employees; and
+
+(*d*) such other matters relating to the recruitment, assessment, selection and employment policies, procedures and practices of any relevant public service employer concerned as it considers necessary.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F26: Inserted (24.12.2013) by *Public Service Management (Recruitment and Appointments) (Amendment) Act 2013* (47/2013), s. 6, commenced on enactment.
+
+### 57E. Exclusions.
+
+F27[**57E**.—(1) Without prejudice to *subsection (2)*, this Part does not apply to the following:
+
+(*a*) the President;
+
+(*b*) a member of either House of the Oireachtas;
+
+(*c*) a member of the European Parliament for a constituency in the State, being a member who is in receipt of the salary specified in section 2(2) of the European Parliament (Irish Constituency Members) Act 2009;
+
+(*d*) the holder of a qualifying office, within the meaning of section 13 (amended by section 11 of the Ministerial, Parliamentary and Judicial Offices and Oireachtas Members (Miscellaneous Provisions) Act 2001) of the Ministerial and Parliamentary Offices Act 1938;
+
+(*e*) to the extent not otherwise provided by this subsection, an office holder within the meaning given to "office holder" by section 2 of the Ethics in Public Office Act 1995 for the purposes of that Act;
+
+(*f*) the position of special adviser within the meaning of section 19 of the Ethics in Public Office Act 1995;
+
+(*g*) the position of an officer of the Houses of the Oireachtas;
+
+(*h*) a position the appointment to which is made by the President;
+
+(*i*) to the extent not otherwise provided by this subsection, an office holder under the Constitution;
+
+(*j*) to the extent not otherwise provided by this subsection, a member of the Permanent Defence Force;
+
+(*k*) to the extent not otherwise provided by this subsection, a member of the Garda Síochána;
+
+(*l*) a position the appointment to which is made by the Government;
+
+(*m*) to the extent not otherwise provided by this subsection, a position where—
+
+(i) the appropriate authority (within the meaning of section 2 of the Civil Service Regulation Act 1956) with the consent of the Minister (where the Minister is not the appropriate authority) recommends the appointment of the person to that position, and
+
+(ii) the Government, having considered such recommendation, decides that such appointment would be in the public interest;
+
+(*n*) staff of the Central Bank of Ireland;
+
+(*o*) staff of the National Treasury Management Agency;
+
+(*p*) an Appeal Commissioner under section 850 of the Taxes Consolidation Act 1997.
+
+(2) The Minister may, having regard to the policy for the time being of the Government on the allocation of human and financial resources to different sectors of the public service, by order declare that this Part shall not apply to one or more public service bodies specified in the order and this Part shall accordingly not apply to the public service body or bodies specified in such an order that is in force.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F27: Inserted (24.12.2013) by *Public Service Management (Recruitment and Appointments) (Amendment) Act 2013* (47/2013), s. 6, commenced on enactment.
+
+### 57F. Records.
+
+F28[**57F**.—(1) The public service body from which the person concerned is, or is proposed, to be redeployed shall, on being requested to do so by the Public Appointments Service, process personal data in relation to that person, and disclose them to the Public Appointments Service, where such processing and disclosure is reasonably necessary for the purpose of the exercise by the latter of its powers under this Part in relation to that person.
+
+(2) The public service body from which the person concerned has been redeployed shall, on being requested to do so by the public service body to which that person has been redeployed, process personal data in relation to that person, and disclose them to the latter body, where such processing and disclosure is reasonably necessary for the purpose of—
+
+(*a*) the exercise by the latter, as employer of him or her, of its powers in relation to that person, or
+
+(*b*) the carrying out by the latter, as employer of him or her, of its duties in relation to that person.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F28: Inserted (24.12.2013) by *Public Service Management (Recruitment and Appointments) (Amendment) Act 2013* (47/2013), s. 6, commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C12: Term “personal data” construed (25.05.2018) by *Data Protection Act 2018* (7/2018), s. 165, S.I. No. 174 of 2018.
+>
+> **Reference to personal data in enactment**
+>
+> **165.** Subject to this Act, a reference in any enactment to personal data within the meaning of the Act of 1988 shall be construed as including a reference to personal data within the meaning of—
+>
+> (*a*) the Data Protection Regulation, and
+>
+> (*b*) Part 5.
+
+## PART 7Ministerial Functions — PART 7 — Ministerial Functions
+
+### 58. Matters relating to recruitment, etc.
+
+**58.—**(1) (*a*) The Minister is responsible for all matters relating to recruitment in the Civil Service, including—
+
+(i) eligibility criteria, staff numbers, grading, pay and all other working conditions of civil servants or any class of them,
+
+(ii) the use or knowledge of the Irish language in the Civil Service or any part of it.
+
+(*b*) Except where provided for, nothing in this Act shall be read as affecting the functions, under any other Act, of the Minister or any other Minister of the Government in relation to recruitment in any other public service body (or part of it) other than the Civil Service, including—
+
+(i) eligibility criteria, staff numbers, grading, the pay and all other working conditions of staff in the public body concerned, or any class of such staff,
+
+(ii) the use or knowledge of the Irish language in the public body concerned or any class or part of it.
+
+(2) The Minister for the Environment, Heritage and Local Government is, subject to *subsections (1)* and *(7),* responsible for all matters relating to recruitment to local authorities and all the conditions of service within local authorities.
+
+(3) The Minister for Health and Children is, subject to *subsections (1)* and *(7),* responsible for all matters relating to recruitment to health boards and all other conditions of service within health boards.
+
+(4) The Minister for Education and Science is, subject to *subsections (1)* and *(7),* responsible for all matters relating to recruitment to F29[education and training boards] and conditions of service within F29[education and training boards].
+
+(5) The Minister for Justice, Equality and Law Reform is, subject to *subsections (1)* and *(7),* responsible for all matters relating to recruitment to the Garda Síochána.
+
+(6) Where in the Minister's opinion the exercise of functions under *subsection (1)* would materially relate to the functions of any of the following, then the Minister shall consult with such of the following, as appropriate:
+
+(*a*) the relevant Minister or Ministers;
+
+(*b*) the Commission;
+
+(*c*) the Board;
+
+(*d*) the Chief Executive of the Service.
+
+(7) Nothing in this section shall be read as affecting any function that the Minister otherwise has in respect of conditions of service relating to pay and all other matters in the public service.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F29: Substituted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72 and sch. 6 item 47, S.I. No. 211 of 2013.
+
+## PART 7A Sick Leave Remuneration — PART 7A — Sick Leave Remuneration] — Annotations Amendments: Inserted (24.12.2013) by Public Service Management (Recruitment and Appointments) (Amendment) Act 2013 (47/2013), s. 7, commenced on enactment.
+
+### F30[58A. Interpretation of Part.
+
+F31[**58A**.— (1) In this Part—
+
+"condition" includes, if the Minister so determines and makes (whether in respect of the whole of a period claimed to be sick leave or portion of such a period) provision in that behalf in the regulations concerned, a condition that a medical practitioner of a class specified in the regulations certify in writing that the public servant concerned is unable to attend to his or her duties due to illness or injury;
+
+"public service body" means—
+
+(*a*) the Civil Service,
+
+(*b*) that category of persons referred to in section 30(*g*) of the Defence Act 1954, namely civilians employed thereunder by the Minister for Defence,
+
+(*c*) the Garda Síochána,
+
+(*d*) a local authority within the meaning of the Local Government Act 2001,
+
+(*e*) the Health Service Executive,
+
+(*f*) an education and training board,
+
+(*g*) to the extent not otherwise provided by this definition, any other body (other than a body referred to in Schedule 3 (inserted by the Public Service Management (Recruitment and Appointments) (Amendment) Act 2013)) established—
+
+(i) by or under an enactment (other than the Companies Acts), or
+
+(ii) under the Companies Acts in pursuance of powers conferred by or under another enactment, and financed wholly or partly by means of money provided, or loans made or guaranteed, by a Minister of the Government or the issue of shares held by or on behalf of a Minister of the Government,
+
+in respect of which a pre-existing public service pension scheme exists or applies or may be made, or in respect of which the Single Public Service Pension Scheme is applicable,
+
+(*h*) any other body (other than a body referred to in Schedule 3) that is wholly or partly funded directly or indirectly out of monies provided by the Oireachtas or from the Central Fund or the growing produce of that Fund and in respect of which a pre-existing public service pension scheme exists or applies or may be made, or in respect of which the Single Public Service Pension Scheme is applicable,
+
+(*i*) any subsidiary of, or company controlled (within the meaning given by section 10 of the Taxes Consolidation Act 1997) by, a body to which paragraph (*d*), (*e*) or (*g*) relates and in respect of which a pre-existing public service pension scheme exists or applies or may be made;
+
+"public servant" means—
+
+(*a*) an employee or officer of, or the holder of a position in, a public service body,
+
+(*b*) to the extent not otherwise provided by this definition, a person holding a position the appointment to which is made by the Government,
+
+(*c*) an officer of the Houses of the Oireachtas,
+
+(*d*) the Ombudsman, or
+
+(*e*) the Comptroller and Auditor General;
+
+"relevant person" means a public servant falling within a class of public servants specified in the regulations concerned;
+
+"sick leave" means a case in which a public servant is unable to attend to his or her duties due to illness or injury.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F31: Inserted (24.12.2013) by *Public Service Management (Recruitment and Appointments) (Amendment) Act 2013* (47/2013), s. 7, commenced on enactment.
+
+### 58B. Regulations concerning payment of remuneration during sick leave.
+
+F32[**58B**.—(1) Without prejudice to *subsection (5)* and subject to *subsections (2)* and *(7)*, the Minister may make regulations providing for the payment of remuneration, in circumstances specified in the regulations and subject to such conditions as are specified therein, to a relevant person during a period of sick leave on his or her part, and that remuneration shall be (as the Minister determines and specifies in the regulations)—
+
+(*a*) the whole amount of the remuneration that would otherwise accrue to the person,
+
+(*b*) a percentage specified in the regulations of the whole amount referred to in *paragraph (a)*, or
+
+(*c*) in respect of an initial number of hours, days or weeks of sick leave on the part of that person occurring, in a given period, the whole amount referred to in *paragraph (a)* and then, in respect of a number of hours, days or weeks of sick leave on that person’s part (whether they are a continuation of the initial occurrence of sick leave in that period or are a separate occurrence of such leave in that period) a percentage specified in the regulations of that whole amount.
+
+(2) Regulations under *subsection (1)* shall contain a provision that no remuneration shall be paid in respect of any part of a number of hours, days or weeks of sick leave (on the relevant person’s part) that exceeds a number, specified in the regulations, of hours, days or weeks of sick leave (on that person’s part) that may occur in a given period.
+
+(3) Each of the references in *subsection (1)(c)* to a number of hours, days or weeks, and each reference in *subsections (1)* and *(2)* to a given period, is a reference to a number of hours, days or weeks or, as the case may be, a period that the Minister determines and specifies in the regulations for the purpose of the particular provision concerned.
+
+(4) In making regulations under *subsection (1)*, the Minister shall have regard to—
+
+(*a*) the need to limit the circumstances in which the public service bodies can undertake the commitment of financial resources in making payments in cases in which they are unable to receive the benefit of the services of their public servants,
+
+(*b*) the resources available, for the time being, to the Exchequer to pay the remuneration of public servants,
+
+(*c*) without prejudice to *paragraph (b)*, the obligations of the State under the Treaty on Stability, Coordination and Governance in the Economic and Monetary Union done at Brussels on 2 March 2012,
+
+(*d*) with respect to the specification of conditions for an entitlement to be paid remuneration during a period of sick leave, the desirability of having in place a satisfactory means of verifying that the public servant concerned is unable to attend to his or her duties due to illness or injury, and
+
+(*e*) the need to protect the health of public servants,
+
+whilst taking account of the desirability of there being a measure of provision, as appears to the Minister to be appropriate and just, for making payments to public servants who are unable to attend to their duties due to illness or injury.
+
+(5) Regulations under *subsection (1)* may provide in exceptional cases (that is to say cases defined in the regulations by reference to the serious nature of an illness or injury that has occasioned a relevant person’s being on sick leave (which may extend, if the Minister considers appropriate, to the circumstances involving a period of the person’s rehabilitation following an illness or injury of that nature)) and notwithstanding the provision otherwise made by the regulations, for all or any of the following:
+
+(*a*) that there may be paid to the person remuneration, in respect of the time of his or her sick leave, for a period longer than would otherwise be the case under the regulations;
+
+(*b*) that there may be paid to the person remuneration, in respect of a particular period of the time of his or her sick leave, of an amount that is greater than the percentage (of the whole amount referred to in *subsection (1)(a)*) specified in the regulations under *subsection (1)(b)* or *(c)*;
+
+(*c*) that the provisions of the regulations shall operate subject to such other modifications as the Minister determines and specifies in the regulations, which may include provision—
+
+(i) limiting the total period in respect of which, in a foregoing case, remuneration may be paid to a relevant person, or
+
+(ii) conferring a power on a person specified in the regulations to determine, in a foregoing case, that after the lapse of a particular period of the time of a relevant person’s sick leave, no further remuneration shall be paid in respect thereof.
+
+(6) Regulations under this section—
+
+(*a*) may contain such incidental, supplementary or consequential provisions as the Minister considers appropriate, including provisions delegating to the public service body concerned the determination of any matter in respect of which the regulations provide that a determination shall be made, in particular a determination—
+
+(i) as to whether an illness or injury is of a serious nature,
+
+(ii) as to what is an appropriate period of rehabilitation in the circumstances concerned, and
+
+(iii) as to what is satisfactory certification, in writing, by a medical practitioner of any relevant matter; and
+
+(*b*) may—
+
+(i) if the regulations apply in respect of more than one class of public servant, make different provision for the different classes of public servant to which the regulations apply, and
+
+(ii) otherwise make different provision for different classes of case.
+
+(7) Where, before the commencement of section 7 of the Public Service Management (Recruitment and Appointments) (Amendment) Act 2013, a period of sick leave, on a relevant person’s part, has begun and continues after the commencement of that section, the arrangements that were in existence before the commencement of that section in respect of the payment of remuneration to that person during his or her sick leave shall continue to apply in respect of so much of that period of sick leave as falls after that commencement and regulations under this section shall not apply to that person until such time as he or she is able again to attend to his or her duties.
+
+(8) For the avoidance of doubt, nothing in this section prejudices the operation of the Social Welfare Acts or instruments made thereunder.
+
+(9) Every regulation under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next 21 days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F32: Inserted (24.12.2013) by *Public Service Management (Recruitment and Appointments) (Amendment) Act 2013* (47/2013), s. 7, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E12: Power pursuant to section exercised (4.09.2023) by *Public Service Management (Sick Leave) (Amendment) Regulations 2023* (S.I. No. 407 of 2023), in effect as per reg. 1(2).
+>
+> E13: Power pursuant to section exercised (31.03.2014, 01.09.2014) by *Public Service Management (Sick Leave) Regulations 2015* (S.I. No. 384 of 2015), in effect as per reg. 1(2).
+>
+> E14: Power pursuant to section exercised (31.03.2014, 01.09.2014) by *Public Service Management (Sick Leave) Regulations 2014* (S.I. No. 124 of 2014), in effect as per reg. 1(2), (3).
+
+### 58C. Application of Part.
+
+F33[**58C**.—This Part has effect notwithstanding—
+
+(*a*) any provision made by or under—
+
+(i) any other Act,
+
+(ii) any statute or other document to like effect of a university or other third level institution,
+
+(iii) any circular or instrument or other document,
+
+(iv) any written agreement or contractual arrangement,
+
+or
+
+(*b*) any verbal agreement, arrangement or understanding or any expectation.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F33: Inserted (24.12.2013) by *Public Service Management (Recruitment and Appointments) (Amendment) Act 2013* (47/2013), s. 7, commenced on enactment.
+
+## PART 8Transitional, Repeals and Consequential Amendments — PART 8 — Transitional, Repeals and Consequential Amendments
+
+### 59. Definition (Part 8).
+
+**59.—**In this Part “dissolved bodies” means the Civil Service Commissioners and the Local Appointments Commissioners.
+
+### 60. Transfer of rights and liabilities and continuance or completion of matters.
+
+**60.—**(1) On the establishment day and subject to the other provisions of this Part, all rights and liabilities of the dissolved bodies shall—
+
+(*a*) in so far as they relate only to the conduct of competitions, stand transferred to the Public Appointments Service, and
+
+(*b*) in every other case, stand transferred to the Commission.
+
+(2) Every right and liability transferred by *subsection (1)* to—
+
+(*a*) the Public Appointments Service, or
+
+(*b*) the Commission,
+
+may be sued on, recovered or enforced by or against the Service or the Commission, as the case may be, in the name of the Service or the Commission, respectively, and it shall not be necessary for the Service or the Commission to give notice to the person whose right or liability is transferred by this section of such transfer.
+
+(3) All legal proceedings pending immediately before the establishment day to which either or both of the dissolved bodies were a party shall continue with the substitution for the dissolved body concerned of the Commission or the Public Appointments Service, as appropriate having regard to *subsection (1).*
+
+(4) On the establishment day all property including choses-in-action, which immediately before that day was the property of either or both of the dissolved bodies shall stand vested, without any assignment, in—
+
+(*a*) the Public Appointments Service, in so far as it relates only to the conduct of competitions, and
+
+(*b*) the Commission in every other case.
+
+(5) Every chose-in-action transferred by *subsection (4)* to the Commission or the Public Appointments Service may, after the establishment day, be sued on, recovered or enforced by it in the name of the Commission or the Service, respectively, and it shall not be necessary for the Commission or the Service to give notice to the person bound by the chose-in-action of the transfer effected by that subsection.
+
+(6) Anything commenced but not completed before the establishment day by either or both of the dissolved bodies may be carried on and completed on or after that day—
+
+(*a*) in so far as it relates only to the conduct of competitions, by the Public Appointments Service, and
+
+(*b*) in every other case, by the Commission.
+
+### 61. Repeals, revocations and amendments.
+
+**61.—**(1) The Acts referred to in the first and second columns of *Part 1* of *Schedule 2* are amended or repealed to the extent specified in the third column of that Part opposite the references to the Act concerned.
+
+(2) (*a*) The statutory instruments set out in the first column of *Part 2* of *Schedule 2* are amended or revoked to the extent specified in the second column of that Part opposite the reference to the instrument concerned.
+
+(*b*) The amendment of a statutory instrument by this Act shall not be read as restricting any further amendment of the instrument (including the amendment by this Act) or its revocation in a manner otherwise duly provided for.
+
+### 62. Saver for certain regulations and rules.
+
+**62.—**(1) Where immediately before the establishment day there are in force any regulations made under section 16 or 29 of the Civil Service Commissioners Act 1956 or section 8 of the Local Authorities (Officers and Employees) Act 1926, then the following shall apply in respect of those regulations—
+
+(*a*) where the regulations relate to one or more particular competitions for appointment or to one or more particular examinations, then references (express or implied) to either of the dissolved bodies shall, for the purposes of *section 60(6)(a),* be construed as references to the Public Appointments Service, and
+
+(*b*) in every other case—
+
+(i) references (express or implied) to either of the dissolved bodies shall be construed as references to the Commission, and
+
+(ii) the regulations shall be deemed to be codes of practice to which *section 23* relates.
+
+(2) Where immediately before the establishment day there are in force any rules made under section 30 of the Civil Service Commissioners Act 1956 then the following shall apply in respect of those rules—
+
+(*a*) references (express or implied) to the Civil Service Commissioners shall be construed as references to the Commission, and
+
+(*b*) the rules shall be deemed to be codes of practice to which *section 23* relates.
+
+(3) Where immediately before the establishment day there is in force any order under section 2 of the Local Authorities (Officers and Employees) Act 1926 declaring an office to be an office to which that Act applies, then every such order—
+
+(*a*) shall continue and be deemed to comply with the requirements of that section as amended by this Act, and
+
+(*b*) may be amended or revoked under that section as so amended.
+
+### 63. References to dissolved bodies in enactments.
+
+**63.—**(1) Where in any enactment there is a reference, however expressed, to either or both of the dissolved bodies, then the reference shall, where appropriate and subject to the other provisions of this Act, be read—
+
+(*a*) in so far as it relates only to the conduct of competitions, as a reference to the Public Appointments Service, and
+
+(*b*) in every other case, as a reference to the Commission.
+
+(2) Nothing in this section shall be read as restricting any power duly exercisable to amend or otherwise affect an enactment made under any Act.
+
+### 64. Final accounts of dissolved bodies.
+
+**64.—**(1) Final accounts of the dissolved bodies shall be drawn up by the Chief Executive of the Service as soon as may be after the establishment day in such form as may be approved of by the Minister, and in respect of such period or periods as may be specified by the Minister.
+
+(2) Accounts prepared pursuant to this section shall be submitted as soon as may be by the Chief Executive of the Service to the Comptroller and Auditor General for audit, and, immediately after the audit, a copy of the income and expenditure account and of the balance sheet and of such other (if any) of the accounts as the Minister may direct and a copy of the Comptroller and Auditor General's report on the accounts shall be presented to the Minister who shall cause copies thereof to be laid before each House of the Oireachtas.
+
+## SCHEDULE 1 — Scheduled Occupations
+
+1\. Employment in the Civil Service as a services officer, services attendant, night-watchman, cleaner or analogous employment in the Civil Service.
+
+2\. Employment outside the State in a clerical or ancillary capacity in offices of the Department of Foreign Affairs.
+
+## SCHEDULE 2Repeals, Revocations and Amendments Relating to Civil Service Commissioners and Local Appointments Commissioners — SCHEDULE 2 — Repeals, Revocations and Amendments Relating to Civil Service Commissioners and Local Appointments Commissioners
+
+### PART 1 — Repeals and Amendments to Acts
+
+<table><tr><td>Number and Year</td><td>Short Title</td><td colspan="3">Amendment</td></tr><tr><td>No. 12 of 2004</td><td>Private Security Services Act 2004</td><td colspan="3">Section 10:<br>In subsection (2), to delete “Civil Service Commissioners” and substitute “Chief Executive of the Public Appointments Service”.<br>In subsection (3)(<i>a</i>), to delete “Civil Service Commissioners Act 1956” and substitute“ <i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.</td></tr><tr><td>No. 25 of 2003</td><td>Taxi Regulation Act 2003</td><td colspan="3">Section 14:<br>In subsection (2) to delete “Civil Service and Local Appointments Commissioners” and substitute “Chief Executive of the Public Appointments Service”.</td></tr><tr><td>No. 28 of 2003</td><td>Houses of the Oireachtas Commission Act 2003</td><td colspan="3">Section 16:<br>In subsection (1)(<i>g</i>), to delete “Civil Service Commissioners Act 1956” and substitute “<i>Public Service Management (Recruitment and Appointments) Act 2004”</i>.</td></tr><tr><td>No. 32 of 2003</td><td>Official Languages Act 2003</td><td colspan="3">Section 2:<br>In subsection (1) of the Irish text:<br>(<i>a</i>) to delete paragraph (<i>c</i>) of the definition of“ ceann comhlachta phoiblí” and substitute the following:<br>“(<i>c</i>) i ndáil le hOifig an Choimisiúin um Cheapacháin Seirbhíse Poiblí, Stiúrthóir Oifig an Choimisiúin um Cheapacháin Seirbhíse Poiblí”,<br>(<i>b</i>) to delete paragraph (<i>h</i>)of the definition of “ceann comhlachta phoiblí” and substitute the following:<br>“(<i>h</i>) i ndáil leis an tSeirbhís um Cheapacháin Phoiblí, Príomh-Fheidhmeannach na Seirbhíse um Cheapacháin Phoiblí,”.<br>In subsection (1) of the English text:<br>(<i>a</i>) to delete paragraph (<i>c</i>) of the definition of “head of public body” and substitute the following:<br>“(<i>c</i>) in relation to the Office of the Commission for Public Service Appointments, the Director of the Office of the Commission for Public Service Appointments,”,<br>(<i>b</i>) to delete paragraph (<i>h</i>) of the definition of “head of public body” and substitute the following:<br>“(<i>h</i>) in relation to the Public Appointments Service, the Chief Executive of the Public Appointments Service,”.<br>First Schedule:<br>In paragraph 1(1) of the Irish text, to delete “Oifig Choimisinéirí na Státseirbhíse agus na gCoimisinéirí um Cheapacháin Áitiúla” and substitute the following:<br>“Oifig an Choimisiúin um Cheapacháin Seirbhíse Poiblí<br>An tSeirbhís um Cheapacháin Phoiblí”.<br>In paragraph 1(1) of the English text, to delete “Office of the Civil Service and Local Appointments Commissioners” and substitute the following:<br>“Office of the Commission for Public Service Appointments<br>Public Appointments Service”.</td></tr><tr><td>No. 1 of 2001</td><td>Aviation Regulation Act 2001</td><td colspan="3">F34[Section 11:]<br>In subsection (4) to delete “unless the Civil Service Commissioners” and substitute “unless the Public Appointments Service or other licence holder concerned under the <i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.</td></tr><tr><td>No. 13 of 2001</td><td>Valuation Act 2001</td><td colspan="3">Section 10:<br>In subsection (1), to delete “Civil Service Commissioners Act, 1956” and insert “<i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.</td></tr><tr><td>No. 28 of 2001</td><td>Company Law Enforcement Act 2001</td><td colspan="3">Section 7:<br>To delete subsection (3) and substitute the following:<br>“(3) The Minister shall not appoint a person to be the Director unless the person has been duly selected following a competition under the <i>Public Service Management (Recruitment and Appointments) Act 2004</i> for that position and the Minister has been advised accordingly.”.</td></tr><tr><td>No. 29 of 2001</td><td>Agriculture Appeals Act 2001</td><td colspan="3">Section 2:<br>To delete “following selection at competitions held by the Civil Service and Local Appointments Commissioners,” and substitute “following selection at competitions held under the <i>Public Service Management (Recruitment and Appointments) Act 2004</i>,”.<br>Section 3:<br>To delete “the Civil Service and Local Appointments Commissioners” and substitute “held under the <i>Public Service Management (Recruitment and Appointments) Act 2004</i>,”.</td></tr><tr><td>No. 37 of 2001</td><td>Local Government Act 2001</td><td colspan="3">Section 145:<br>In subsection (1)(<i>a</i>) to delete “Local Appointments Commissioners” and substitute “Chief Executive of the Public Appointments Service”.<br>Section 147:<br>In subsection (3)(<i>b</i>) to delete “Local Appointments Commissioners” and substitute “Chief Executive of the Public Appointments Service”.<br>In subsection (5)(<i>b</i>) to delete “Local Appointments Commissioners” and substitute “Public Appointments Service”.<br>Section 155:<br>To delete the definition of “Local Appointments Commissioners”.<br>Section 160:<br>In subsection (1)(<i>b</i>) to delete “the Local Appointments Commissioners” and substitute “Commission for Public Service Appointments”.<br>In subsection (1)(<i>d</i>) to delete “has been recommended by the Local Appointments Commissioners for appointment” and substitute “has been recommended for appointment by the Chief Executive of the Public Appointments Service”.</td></tr><tr><td>No. 9 of 2000</td><td>Human Rights Commission Act 2000</td><td colspan="3">Section 12:<br>In subsection (4) to delete “Civil Service Commissioners Act, 1956,” and substitute “<i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.<br>Section 17:<br>In subsection (4) to delete “Civil Service Commissioners Act, 1956,” and substitute “<i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.</td></tr><tr><td>No. 39 of 2000</td><td>National Treasury Management Agency (Amendment) Act 2000</td><td colspan="3">Schedule:<br>To delete “Civil Service Commissioners” and substitute “Commission for Public Service Appointments”.<br>To delete “Local Appointments Commissioners”.<br>To insert “Public Appointments Service” after “Ombudsman”.</td></tr><tr><td>No. 13 of 1999</td><td>Health (Eastern Regional Health Authority) Act 1999</td><td colspan="3">Section 12:<br>In subsection (1) to delete “the Local Appointments Commissioners” and substitute “Chief Executive of the Public Appointments Service”.<br>Section 17:<br>In subsection (1) to delete “Local Appointments Commissioners” and substitute “Chief Executive of the Public Appointments Service”.</td></tr><tr><td>No. 8 of 1998</td><td>Courts Service Act 1998</td><td colspan="3">Section 18:<br>To delete “Civil Service Commissioners Act, 1956,” and substitute ”<i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.<br>Section 23:<br>In subsection (4), to delete “the Civil Service Commissioners Act, 1956, and”.</td></tr><tr><td>No. 21 of 1998</td><td>Employment Equality Act 1998</td><td colspan="3">Section 51:<br>In subsection (3), to delete “Civil Service Commissioners Act, 1956,” and substitute ”<i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.<br>Section 75:<br>In subsection (2), to delete “Civil Service Commissioners Act, 1956,” and substitute ”<i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.<br>Section 76:<br>In subsection (5) to delete paragraphs (<i>a</i>) and (<i>b</i>) and substitute the following:<br>“(<i>a</i>) the holder of a recruitment licence under the <i>Public Service Management (Recruitment and Appointments) Act 2004</i> in the course of a recruitment or selection process, other than one designed to recruit or select only from and for the holder's own staff,”.<br>Section 77:<br>To delete subsection (7) and substitute the following:<br>“(7) Where the complainant's claim for redress is in respect of discrimination—<br>(<i>a</i>) by the holder of a recruitment licence under the <i>Public Service Management (Recruitment and Appointments) Act 2004</i> in the course of such a recruitment or selection process as is referred to in section 76(5)(<i>a</i>),<br>(<i>b</i>) by the Minister for Defence in the course of a recruitment process for the Defence Forces, or<br>(<i>c</i>) by the Commissioner of the Garda Síochána in the course of a recruitment process for the Garda Síochána,<br>the complainant shall in the first instance refer the claim for redress to the holder of the recruitment licence concerned or, as the case may be, to the Minister for Defence or the Commissioner of the Garda Síochána.”.<br>In subsection (8), to delete “the Commissioners concerned” and substitute “the holder of the recruitment licence concerned”.</td></tr><tr><td>No. 51 of 1998</td><td>Education Act 1998</td><td colspan="3">Section 13:<br>In subsection (11), to delete “Civil Service Commissioners Act, 1956,” and substitute ”<i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.<br>Section 44:<br>In subsection (4), to delete “Civil Service Commissioners Act, 1956,” and substitute ”<i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.</td></tr><tr><td>No. 13 of 1997</td><td>Freedom of Information Act 1997</td><td colspan="3">Section 2:<br>In the definition of “head of a public body”, to delete paragraphs (<i>h</i>) and (<i>i</i>).<br>Section 18:<br>In subsection (3)(<i>a</i>), to delete “the Civil Service Commissioners pursuant to subparagraph (<i>d</i>)or (<i>e</i>)of section 17(1) of the Civil Service Commissioners Act, 1956,” and substitute ”the Public Appointments Service or other licence holder concerned under the <i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.<br>In subsection (3)(<i>b</i>), to delete “the Local Appointments Commissioners made by virtue of section 7(3) of the Local Authorities (Officers and Employees) Act, 1926,” and substitute “the Chief Executive of the Public Appointments Service made by virtue of section 7 of the Local Authorities (Officers and Employees) Act 1926”.<br>First Schedule:<br>In paragraph 1(2) to delete“the Civil Service Commissioners,” and “the Local Appointments Commissioners,”.<br>In paragraph 1(2) to insert “the Commission for Public Service Appointments,” and “the Public Appointments Service,”.<br>Second Schedule:<br>In paragraph 7, to delete “Civil Service Commissioners Act, 1956,” and substitute “<i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.</td></tr><tr><td>No. 27 of 1997</td><td>Public Service Management Act 1997</td><td colspan="3">Section 4:<br>In subsection (1)(<i>h</i>), to delete “Civil Service Commissioners Act, 1956” and substitute “<i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.<br>Schedule:<br>In Part II at reference number 3, to delete “The Office of the Civil Service Commissioners”.<br>In Part II at reference number 4, to delete “The Office of the Local Appointments Commissioners”.<br>In Part II, to insert the following after reference number 10:</td></tr><tr><td></td><td></td><td></td><td colspan="2">“</td></tr><tr><td></td><td></td><td></td><td>11.</td><td>The Commission for Public Service Appointments</td></tr><tr><td></td><td></td><td></td><td>12.</td><td>The Public Appointments Service</td></tr><tr><td></td><td></td><td></td><td colspan="2">”.</td></tr><tr><td>No. 31 of 1997</td><td>Prompt Payments of Accounts Act 1997</td><td colspan="3">Schedule (as amended by the Prompt Payment of Accounts Act 1997 (Amendment of Schedule) Order 2000 (S.I. No. 383 of 2000)):<br>(<i>a</i>) to delete “Civil Service Commission”,<br>(<i>b</i>) after “Commission for Electronic Regulation” to insert “Commission for Public Service Appointments”, and<br>(<i>c</i>) after “Postgraduate Medical and Dental Board” to insert “Public Appointments Service”.</td></tr><tr><td>No. 17 of 1996</td><td>Refugee Act 1996</td><td colspan="3">First Schedule (inserted by the Immigration Act 1999):<br>To delete paragraph 1 and substitute the following:<br>“1. The position of Commissioner shall be a position in the Civil Service (within the meaning of the <i>Public Service Management (Recruitment and Appointments) Act 2004</i>) and a person shall not be appointed to be the Commissioner unless the person has been duly selected following a competition under that Act for the position.”.<br>In paragraph 7, to delete “Civil Service Commissioners Act, 1956” and insert “<i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.<br>Second Schedule (inserted by the Immigration Act 1999):<br>In paragraph 2 (inserted by the Illegal Immigrants (Trafficking) Act 2000), to delete subparagraph (<i>b</i>) and substitute the following:<br>“(<i>b</i>) A person shall not be appointed to be the chairperson unless the person has been duly selected following a competition under the <i>Public Service Management (Recruitment and Appointments) Act 2004</i> for the position.”.</td></tr><tr><td>No. 32 of 1996</td><td>Health (Amendment) (No. 3) Act 1996</td><td colspan="3">Section 14:<br>In subsection (5), to delete “the Local Appointments Commissioners” and substitute “Chief Executive of the Public Appointments Service”.</td></tr><tr><td>No. 34 of 1996</td><td>Telecommunications (Miscellaneous Provisions) Act 1996</td><td colspan="3">First Schedule:<br>In paragraph 11, to delete “the Civil Service Commissioners Act, 1956,” and substitute “<i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.</td></tr><tr><td>No. 22 of 1995</td><td>Ethics in Public Office Act 1995</td><td colspan="3">Section 19:<br>In subsection (1)(<i>a</i>), to delete “an excluded position (within the meaning of the Civil Service Commissioners Act, 1956)” and substitute “a position to which section 7(1)(<i>e</i>) of the <i>Public Service Management (Recruitment and Appointments) Act 2004</i> relates”.<br>To delete subsection (5).</td></tr><tr><td>No. 32 of 1995</td><td>Civil Legal Aid Act 1995</td><td colspan="3">Section 10:<br>In subsection (5), to delete “on the recommendation of the Civil Service Commissioners” and substitute “on the recommendation of the Chief Executive of the Public Appointments Service”.<br>Section 11:<br>In subsection (6)—<br>(<i>a</i>) to delete in paragraph (<i>a</i>) “the Civil Service Commissioners Act, 1956, and”, and<br>(<i>b</i>) to delete in paragraph (<i>b</i>) “under section 5 of the Civil Service Commissioners Act, 1956,” and substitute “under <i>section 8</i> of the <i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.</td></tr><tr><td>No. 21 of 1993</td><td>Statistics Act 1993</td><td colspan="3">Section 9:<br>To delete subsection (3) and substitute the following:<br>“(3) In relation to members of the staff of the Office, the Taoiseach shall be the appropriate authority for the purpose of the Civil Service Regulation Acts 1956 to 1996.”.<br>Section 12:<br>To delete subsection (5) and substitute the following:<br>“(5) In relation to the staff of the Director General, the Taoiseach shall be the appropriate authority for the purpose of the Civil Service Regulation Acts 1956 to 1996.”.<br>Section 17:<br>To delete “Civil Service Commissioners Act, 1956” and substitute “<i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.</td></tr><tr><td>No. 1 of 1992</td><td>Patents Act 1992</td><td colspan="3">Section 9:<br>In subsection (3), to delete “and notwithstanding that the Controller is appointed without a certificate from the Civil Service Commissioners”.</td></tr><tr><td>No. 24 of 1991</td><td>Competition Act 1991</td><td colspan="3">Schedule:<br>In paragraph 2(5), to delete “Civil Service Commissioners Act, 1956” and substitute “<i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.</td></tr><tr><td>No. 19 of 1990</td><td>Industrial Relations Act 1990</td><td colspan="3">Section 32:<br>In subsection (2), to delete “Civil Service Commissioners Act, 1956,” and substitute “<i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.</td></tr><tr><td>No. 25 of 1988</td><td>Data Protection Act 1988</td><td colspan="3">Second Schedule:<br>In paragraph 8(4), to delete “the Civil Service Commissioners Act, 1956,” and substitute “<i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.</td></tr><tr><td>No. 3 of 1986</td><td>Canals Act 1986</td><td colspan="3">Section 3:<br>In subsection (3)(<i>b</i>), to delete “the Civil Service Commissioners Act, 1956” and substitute “the <i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.</td></tr><tr><td>No. 11 of 1986</td><td>National Archives Act 1986</td><td colspan="3">Section 6:<br>In subsection (3), to delete “Civil Service Commissioners Act, 1956,” and substitute “<i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.<br>Schedule:<br>To delete “Civil Service Commissioners” and “Local Appointments Commissioners” and substitute “Commission for Public Service Appointments” and “Public Appointments Service”.</td></tr><tr><td>No. 29 of 1986</td><td>Garda Síochána (Complaints) Act 1986</td><td colspan="3">First Schedule:<br>In paragraph 4(3)—<br>(<i>a</i>) in clause (<i>b</i>), to delete “within the meaning of the Civil Service Commissioners Act, 1956, and the Civil Service Regulation Acts, 1956 and 1958” and substitute “within the meaning of <i>section 7</i> of the <i>Public Service Management (Recruitment and Appointments) Act 2004</i>, and the Civil Service Regulation Acts 1956 to 1996”,<br>(<i>b</i>) in clause (<i>c</i>):<br>(i) to delete “section 5 of the Civil Service Commissioners Act, 1956, and the Civil Service Regulation Acts, 1956 and 1958,” and substitute “<i>section 7</i> of the <i>Public Service Management (Recruitment and Appointments) Act 2004</i> and the Civil Service Regulation Acts 1956 to 1996”, and<br>(ii) in subclause (ii), to delete “be, for the purposes of the said section 5 and the said Acts, the appropriate authority” and substitute “be, for the purposes of the said Acts and the said <i>section 7</i>, the appropriate authority”.</td></tr><tr><td>No. 1 of 1983</td><td>Local Authorities (Officers and Employees) Act 1983</td><td colspan="3">Section 2 repealed.</td></tr><tr><td>No. 1 of 1980</td><td>Fisheries Act 1980</td><td colspan="3">Section 27:<br>In subsection (1)(<i>d</i>) to delete “Commissioners” and substitute “Chief Executive of the Public Appointments Service”.<br>In subsection (3)(<i>b</i>) to delete “Commissioners” and substitute “Commission for Public Service Appointments”.<br>In subsection (4)—<br>(<i>a</i>) to delete “Commissioners” where it first occurs and substitute “Chief Executive of the Public Appointments Service”, and<br>(<i>b</i>) to delete “Commissioners” where it otherwise occurs and substitute “Chief Executive”.<br>In subsection (5)—<br>(<i>a</i>) to delete “Commissioners” where it first occurs and substitute “Chief Executive of the Public Appointments Service”, and<br>(<i>b</i>) to delete “Commissioners” in both places where it otherwise occurs and substitute “Chief Executive”.<br>To delete subsections (6) and (7).<br>Section 60:<br>In subsection (3), to delete “Civil Service Commissioners Act, 1956,” and substitute “<i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.</td></tr><tr><td>No. 26 of 1980</td><td>Ombudsman Act 1980</td><td colspan="3">Section 10:<br>In subsection (4), to delete “the Civil Service Commissioners Act, 1956, and the Civil Service Regulation Acts, 1956 and 1958, as the appropriate authority,” and substitute “the Civil Service Regulation Acts 1956 to 1996 and <i>section 7</i> of the <i>Public Service Management (Recruitment and Appointments) Act 2004</i> as the appointing authority,”.<br>First Schedule:<br>In Part 1, to delete “Civil Service Commissioners” and “Local Appointments Commissioners” and substitute “Commission for Public Service Appointments” and “Public Appointments Service”.</td></tr><tr><td>No. 1 of 1978</td><td>Consumer Information Act 1978</td><td colspan="3">Section 9:<br>To delete subsection (2) and substitute the following:<br>“(2) The office of Director shall be a position in the Civil Service and no person shall be appointed to the office unless the person has been duly selected following a competition under the <i>Public Service Management (Recruitment and Appointments) Act 2004</i> for appointment to the office.”.</td></tr><tr><td>No. 16 of 1977</td><td>Employment Equality Act 1977</td><td colspan="3">Section 12:<br>In subsection (3) to delete “by the Local Appointments Commissioners or the Civil Service Commissioners” and substitute “by the holder of a recruitment licence under the <i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.<br>Section 17B (inserted by the European Communities (Employment Equality) Regulations 1985 (S.I. No. 331 of 1985)):<br>In subsection (1) to delete “arrangements or schemes” and insert “arrangements, schemes or codes of practice”.<br>In subsection (2), to delete paragraph (<i>b</i>) and substitute the following:<br>“(<i>b</i>) codes of practice for the purposes of the <i>Public Service Management (Recruitment and Appointments) Act 2004</i>, so far as they relate to employment in the prison service,”.<br>Section 39:<br>In subsection (4) to delete “by the Local Appointments Commissioners or the Civil Service Commissioners” and substitute “by the holder of a recruitment licence under the <i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.</td></tr><tr><td>No. 3 of 1975</td><td>Law Reform Commission Act 1975</td><td colspan="3">Section 10:<br>To delete subsection (6)(<i>a</i>) and substitute the following:<br>“(<i>a</i>) The <i>Public Service Management (Recruitment and Appointments) Act 2004</i> shall apply to members of the clerical staff of the Commission.”.</td></tr><tr><td>No. 33 of 1973</td><td>Arts Act 1973</td><td colspan="3">Section 8:<br>In subsection (2), to delete “Civil Service Commissioners Act, 1956,” and substitute “<i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.</td></tr><tr><td>No. 6 of 1971</td><td>Local Government Services (Corporate Bodies) Act 1971</td><td colspan="3">Section 4:<br>In subsection (2)(<i>a</i>) to delete “including, if the Minister thinks fit, provisions for the application, with the consent of the Local Appointments Commissioners, of the Local Authorities (Officers and Employees) Acts, 1926 and 1940,” and substitute “including, if the Minister thinks fit, provisions for the application, with the consent of the Chief Executive of the Public Appointments Service, of the Local Authorities (Officers and Employees) Acts 1926 to 1983”.</td></tr><tr><td>No. 27 of 1971</td><td>Employment Agency 1971 Act</td><td colspan="3">Section 6:<br>In subsection (1), to delete paragraphs (<i>b</i>) and (<i>c</i>) and substitute the following:<br>“(<i>b</i>) the holder of a recruitment licence under the <i>Public Service Management (Recruitment and Appointments) Act 2004</i>.”.</td></tr><tr><td>No. 1 of 1970</td><td>Health Act 1970</td><td colspan="3">Section 13:<br>In subsection (8), to delete “Local Appointments Commissioners” and substitute “Chief Executive of the Public Appointments Service”.<br>Section 15:<br>In subsection (1):<br>(<i>a</i>) to delete “Local Appointments Commissioners” and substitute “Commission for Public Service Appointments and the Chief Executive of the Public Appointments Service”,<br>(<i>b</i>) to delete “Commissioners” where it last occurs and substitute “Commission and the Chief Executive”.<br>Section 18:<br>To delete “Local Appointments Commissioners, after consultation with the Commissioners” and substitute “the Chief Executive of the Public Appointments Service, after consultation with the Commission for Public Service Appointments”.</td></tr><tr><td>No. 14 of 1969</td><td>Industrial Relations 1969 Act</td><td colspan="3">Section 4:<br>In subsection (7), to delete “Civil Service Commissioners Act, 1956,” and substitute “<i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.<br>Section 13:<br>In subsection (5)(<i>b</i>), to delete “Civil Service Commissioners Act, 1956,” and substitute “<i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.</td></tr><tr><td>No. 16 of 1964</td><td>Registration of Title 1964 Act</td><td colspan="3">Section 9:<br>In subsection (5), to delete “appointed to an established position in the Civil Service with a certificate of qualification from the Civil Service Commissioners” and substitute “duly appointed to an established position in the Civil Service”.</td></tr><tr><td>No. 9 of 1962</td><td>Coroners Act 1962</td><td colspan="3">Section 8:<br>In subsection (3) to delete paragraphs (<i>c</i>) to (<i>e</i>).</td></tr><tr><td>No. 24 of 1961</td><td>Road Traffic Act 1961</td><td colspan="3">Section 103 (inserted by the Road Traffic Act 2002):<br>In subsection (19)(<i>d</i>) to delete “Civil Service Commissioners Act, 1956,” and substitute “<i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.</td></tr><tr><td>No. 27 of 1961</td><td>Health (Corporate Bodies) Act 1961</td><td colspan="3">Section 4:<br>In subsection (2) to delete “the application, with the consent of the Local Appointments Commissioners, of the Local Authorities (Officers and Employees) Acts, 1926 and 1940 to appointments” and substitute “the application, with the consent of the Chief Executive of the Public Appointments Service, of the Local Authorities (Officers and Employees) Acts 1926 to 1983 to appointments”.</td></tr><tr><td>No. 38 of 1959</td><td>Staff of the Houses of the Oireachtas Act 1959</td><td colspan="3">Section 8:<br>In subsection (2), to delete “the Commissioners Act, as applied and amended by Part III of this Act” and substitute “the <i>Public Service Management (Recruitment and Appointments) Act 2004“</i>.<br>Section 9:<br>To delete “Commissioners Act” and substitute “<i>Public Service Management (Recruitment and Appointments) Act 2004”</i>.<br>Part III (sections 11 to 15):<br>To delete Part III and substitute the following:</td></tr><tr><td></td><td></td><td colspan="3">“PART III<br>APPLICATION OF <i>PUBLIC SERVICE MANAGEMENT (RECRUITMENT AND APPOINTMENTS) ACT 2004</i> TO MEMBERS OF THE JOINT STAFF OF THE HOUSES OF THE OIREACHTAS</td></tr><tr><td></td><td></td><td colspan="2">Application of <i>Public Service Management (Recruitment and Appointments) Act 2004.</i></td><td>11.—The provisions of the <i>Public Service Management (Recruitment and Appointments) Act 2004</i> shall apply to members of the joint staff of the Houses of the Oireachtas.”.</td></tr><tr><td>No. 45 of 1956</td><td>Civil Service Commissioners Act 1956</td><td colspan="3">The whole Act repealed.</td></tr><tr><td>No. 9 of 1955</td><td>Local Government Act 1955</td><td colspan="3">Section 30:<br>In subsection (1) to delete “Local Appointments Commissioners” and substitute “Chief Executive of the Public Appointments Service”.<br>In subsection (2) to delete “Local Appointments Commissioners, if they so think fit” and substitute “Chief Executive of the Public Appointments Service, if the Chief Executive so thinks fit”.<br>In subsection (3):<br>(<i>a</i>) to delete “Local Appointments Commissioners are” and substitute “Chief Executive of the Public Appointments Service is”, and<br>(<i>b</i>) to delete “Local Appointments Commissioners, if they so think fit,” and substitute “Chief Executive, if the Chief Executive so thinks fit”.<br>In subsection (4):<br>(<i>a</i>) to delete “Local Appointments Commissioners may, with the consent of the appropriate Minister,” and substitute “Chief Executive of the Public Appointments Service may, with the consent of the Commission for Public Service Appointments and the relevant Minister (within the meaning given by <i>section 2</i> of the <i>Public Service Management (Recruitment and Appointments) Act 2004</i>)”,<br>(<i>b</i>) to delete the last sentence relating to “the appropriate Minister”, and<br>(<i>c</i>) to insert the following subsection after subsection (4):<br>“(5) Rules made under subsection (4) of this section shall, for the purposes of the Statutory Instruments Acts 1947 and 1955, be deemed not to be statutory instruments to which those Acts primarily apply.”.</td></tr><tr><td>No. 26 of 1953</td><td>Health Act 1953</td><td colspan="3">Section 62: In subsection (1)(<i>b</i>)(ii) to delete “Local Appointments Commissioners” and substitute “Chief Executive of the Public Appointments Service”.</td></tr><tr><td>No. 7 of 1952</td><td>Sea Fisheries Act 1952</td><td colspan="3">First Schedule:<br>In paragraph 7—<br>(<i>a</i>) in subparagraph (5) to delete “Local Appointments Commissioners” and substitute “Chief Executive of the Public Appointments Service” and to delete “Commissioners” and substitute “Chief Executive” in every other place where it occurs,<br>(<i>b</i>) in subparagraph (6) to delete “Local Appointments Commissioners” and substitute “Chief Executive of the Public Appointments Service” and to delete “Commissioners” and substitute “Chief Executive” in both places where it otherwise occurs, and<br>(<i>c</i>) in subparagraph (7) to delete “Local Appointments Commissioners” and substitute “Chief Executive of the Public Appointments Service” and to delete “Commissioners” and substitute “Chief Executive” where it last occurs.</td></tr><tr><td>No. 9 of 1946</td><td>Harbours Act 1946</td><td colspan="3">Section 42, to delete subsections (3), (8) and (9).</td></tr><tr><td>No. 10 of 1946</td><td>Turf Development Act 1946</td><td colspan="3">Section 15:<br>In subsection (4), to delete “Local Appointments Commissioners” and substitute “Chief Executive of the Public Appointments Service” and to delete “Commissioners” and substitute “Chief Executive” in both places where it otherwise occurs.<br>In subsection (5), to delete “Local Appointments Commissioners” and substitute “Chief Executive of the Public Appointments Service” and to delete “Commissioners” and substitute “Chief Executive” in both places where it otherwise occurs.</td></tr><tr><td>No. 24 of 1942</td><td>Superannuation Act 1942</td><td colspan="3">Section 7:<br>In subsection (2), to delete “Local Appointments Commissioners” and substitute “Commission for Public Service Appointments”.</td></tr><tr><td>No. 27 of 1927</td><td>Electricity (Supply) Act 1927</td><td colspan="3">Section 8:<br>To delete subsections (3) and (4).</td></tr><tr><td>No. 39 of 1926</td><td>Local Authorities (Officers and Employees) Act 1926</td><td colspan="3">Section 2:<br>In subsection (1) (inserted by the Local Government Act 1998):<br>(<i>a</i>) in paragraph (<i>a</i>) and (<i>b</i>) to delete “Commissioners” in each place where it occurs and substitute “Commission for Public Service Appointments and the Chief Executive of the Public Appointments Service”, and<br>(<i>b</i>) to delete paragraph (<i>c</i>) and substitute the following:<br>“(<i>c</i>) (i) Every order under this subsection, other than an order to which subparagraph (ii) of this paragraph relates, shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which that House has sat after the order has been laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.<br>(ii) Where any proposed order includes a provision that would have the effect of any office ceasing to be an office to which this Act applies, then such an order shall not be made under this subsection unless a draft of it has been laid before and approved of by both Houses of the Oireachtas.”.<br>To delete subsection (4) and substitute the following:<br>“(2) Every question or dispute as to whether any particular office or employment is or is not an office to which this Act applies shall be decided in the following manner:<br>(<i>a</i>) where the Minister of the Government concerned, the Commission for Public Service Appointments and Chief Executive of the Public Appointments Service are in agreement on the decision to be reached by them, by their decision so reached,<br>(<i>b</i>) in any other case, by the decision of the Minister for Finance after consulting with the Minister of the Government concerned, the Commission for Public Service Appointments and Chief Executive of the Public Appointments Service,<br>and the decision under paragraph (<i>a</i>) or (<i>b</i>) of this subsection shall be final and conclusive.”.<br>Sections 3 and 4:<br>To delete both sections.<br>Section 5:<br>In subsections (1) and (2) to delete “Commissioners” in both places where it occurs and substitute “Chief Executive of the Public Appointments Service”.<br>Section 6:<br>In subsection (1) to delete “Commissioners” in each place where it occurs and substitute “Chief Executive of the Public Appointments Service”.<br>In subsection (2) to delete “Commissioners” where it first occurs and substitute “Chief Executive of the Public Appointments Service” and to delete “Commissioners” where it last occurs and insert “Chief Executive”.<br>In subsection (3) to delete “Commissioners” and substitute “Chief Executive of the Public Appointments Service” and to delete “they” and substitute “the Chief Executive”.<br>To delete subsection (4) and substitute the following:<br>“(4) On receiving a recommendation under this section from the Chief Executive of the Public Appointments Service, the local authority shall appoint to the said office the person recommended or, where more than one person is so recommended, such one of the persons so recommended as the Chief Executive shall think proper.”.<br>In subsection (5) (inserted by the Local Government Act 2001) to delete “is recommended by the Commissioners” and substitute “is duly recommended”.<br>In subsection (6) (inserted by the Local Government Act 1955):<br>(<i>a</i>) in paragraph (<i>a</i>) to delete “Commissioners” and substitute “Chief Executive of the Public Appointments Service”, and<br>(<i>b</i>) in paragraph (<i>b</i>) to delete “Commissioners” where it first occurs and substitute “Chief Executive of the Public Appointments Service” and to delete “Commissioners” where it last occurs and insert “Chief Executive”.<br>Section 7:<br>To delete section 7 and substitute the following:</td></tr><tr><td></td><td></td><td colspan="2">“Qualifications for appointments.</td><td>7.—Where for the purpose of recommending a person for appointment to an office to which this Act applies a local authority or the Minister requests the Chief Executive of the Public Appointments Service to make such a recommendation, then the relevant provisions of any code of practice under the <i>Public Service Management (Recruitment and Appointments) Act 2004</i> relating to requirements for appointment to such office shall apply.”.</td></tr><tr><td></td><td></td><td colspan="3">Section 8:<br>To delete section 8 and substitute the following:</td></tr><tr><td></td><td></td><td colspan="2">“Selection by competitive examination.</td><td>8.—(1) The Chief Executive of the Public Appointments Service shall, in selecting any person to be recommended under this Act, have regard to a competition conducted by the Chief Executive in accordance with the relevant codes of practice of the Commissioners for Public Service Appointments under the <i>Public Service Management (Recruitment and Appointments) Act 2004</i>.<br>(2) Subject to section 4(<i>b</i>) of the Local Authorities (Officers and Employees) Act 1983, competitions conducted pursuant to this section shall be open to all persons desiring to enter the competition who—<br>(<i>a</i>) possess or claim to possess the prescribed qualifications for the office to which the competition relates, and<br>(<i>b</i>) pay the fee (if any) provided for under <i>section 10</i> of the <i>Public Service Management (Recruitment and Appointments) Act 2004</i> in respect of such competition.<br>(3) Nothing in this section shall be construed as affecting section 5 of this Act.”.</td></tr><tr><td></td><td></td><td colspan="3">Section 10:<br>To delete the section.<br>Section 12:<br>To delete the section.</td></tr></table>
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F34: Substituted (24.12.2013) by *Public Service Management (Recruitment and Appointments) (Amendment) Act 2013* (47/2013), s. 8, commenced on enactment.
+
+### PART 2 — Revocations and Amendments to Statutory Instruments
+
+<table><tr><td>Citation and number and year</td><td colspan="2">Amendment, etc.</td></tr><tr><td>Local Government Act 1991 (Regional Authorities) (Establishment) Order 1999 (S.I. No. 226 of 1999).</td><td colspan="2">Article 33:<br>To delete references to “Local Appointments Commissioners” and substitute “Commission for Public Service Appointments”.</td></tr><tr><td>National Archives Act 1986 (Prescription of Classes of Records) Order 1997 (S.I. No. 281 of 1997).</td><td colspan="2">Second Schedule:<br>To delete the following:</td></tr><tr><td></td><td colspan="2">“</td></tr><tr><td></td><td>Civil Service Commissioners</td><td>Files relating to competitons held by the Commissioners.</td></tr><tr><td></td><td>Local Appointments Commissioners</td><td>Files relating to competitions held by the Commissioners.</td></tr><tr><td></td><td colspan="2">”</td></tr><tr><td></td><td colspan="2">and substitute the following:</td></tr><tr><td></td><td colspan="2">“</td></tr><tr><td></td><td>Public Appointments Service</td><td>Files held by the Public Appointments Service relating to competitions held by it or by the former Civil Service Commissioners or Local Appointments Commissioners.</td></tr><tr><td></td><td>Commission for Public Service Appointments</td><td>Files held by the Com mission for Public Service Appointments relating to competitions held by the former Civil Service Commissioners or Local Appointments Commissioners.</td></tr><tr><td></td><td colspan="2">”.</td></tr><tr><td>Garda Síochána (Admissions and Appointments) Regulations 1988 (S.I. No. 164 of 1988).</td><td colspan="2">Regulation 5:<br>In paragraph (1)(<i>e</i>) to delete “Civil Service Commissioners” where it first occurs and substitute “Chief Executive of the Public Appointments Service or other licence holder under the <i>Public Service Management (Recruitment and Appointments) Act 2004,</i> as the case may be” and to delete “Civil Service Commissioners” where it last occurs and substitute “Chief Executive or other licence holder”.</td></tr><tr><td>Garda Síochána (Promotion) Regulations 1987 (S.I. No. 39 of 1987).</td><td colspan="2">Regulation 6 (inserted by the Garda Síochána (Promotion) (Amendments) Regulations 2001 (S.I. No. 392 of 2001)):<br>To delete paragraph (<i>d</i>) and substitute the following:<br>“(<i>d</i>) a person nominated by the Commission for Public Service Appointments.”.<br>Regulation 10:<br>In paragraph (1) to delete “Civil Service Commissioners” and substitute “Commission for Public Service Appointments”.</td></tr><tr><td>Health Officers (Regulations) 1953 (S.I. No. 158 of 1953).</td><td colspan="2">Regulation 3:<br>In paragraph (<i>a</i>), to delete “Local Appointments Commissioners” and substitute “Public Appointments Service”.<br>Regulation 8:<br>To delete “Local Appointments Commissioners” and substitute “Public Appointments Service”.</td></tr><tr><td colspan="3"></td></tr></table>
+
+## SCHEDULE 3 — Bodies to which the Definition of "Public Service Body" (as it relates to Parts 6A and 7A) does not apply
+
+F35[1\. Any body corporate established by Act of Parliament before 6 December 1922 that, upon its establishment, was of a commercial character.
+
+2\. Bord Gáis Éireann.
+
+3\. Bord na gCon.
+
+4\. Bord na Móna.
+
+5\. Córas Iompair Éireann.
+
+6\. Coillte Teoranta.
+
+7\. Cork Airport Authority, public limited company.
+
+8\. Dublin Airport Authority, public limited company.
+
+9\. Electricity Supply Board.
+
+10\. EirGrid.
+
+11\. A harbour authority within the meaning of the Harbours Act 1946 or company to which section 7 of the Harbours Act 1996 relates.
+
+12\. Horse Racing Ireland.
+
+13\. Irish Bank Resolution Corporation Limited.
+
+14\. Irish Aviation Authority.
+
+15\. Irish National Stud Company Limited.
+
+16\. An Post.
+
+17\. An Post National Lottery Company.
+
+18\. Raidió Teilifís Éireann.
+
+19\. Shannon Airport Authority, public limited company.
+
+20\. Teilifís na Gaeilge.
+
+F36[20A. Uisce Éireann.]
+
+21\. Railway Procurement Agency.
+
+22\. Voluntary Health Insurance Board.
+
+23\. A subsidiary of a body to which this Schedule relates.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F35: Inserted (24.12.2013) by *Public Service Management (Recruitment and Appointments) (Amendment) Act 2013* (47/2013), s. 9 and sch., commenced on enactment.
+>
+> F36: Inserted (1.01.2023) by *Water Services (Amendment) Act 2022* (39/2022), s. 31 and sch. ref. no. 5, S.I. No. 678 of 2022.

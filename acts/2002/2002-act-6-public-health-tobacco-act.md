@@ -1,0 +1,1948 @@
+---
+title: "Public Health (Tobacco) Act, 2002"
+identifier: "eli/2002/act/6"
+type: act
+jurisdiction: ie
+language: en
+number: 6
+year: 2002
+date: 2002-03-27
+last_amended: 2026-07-20
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2002/act/6/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2002/act/6/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Public Health (Tobacco) Act, 2002
+
+AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF A BODY TO BE KNOWN AS THE OFFICE OF TOBACCO CONTROL, TO PROVIDE FOR THE REGISTRATION OF PERSONS ENGAGED IN THE BUSINESS OF SELLING TOBACCO PRODUCTS BY RETAIL, TO PROVIDE FOR A PROHIBITION ON THE ADVERTISING OF TOBACCO PRODUCTS. A PROHIBITION ON SPONSORSHIP BY MANUFACTURERS AND IMPORTERS OF TOBACCO PRODUCTS AND PROHIBITIONS ON CERTAIN MARKETING PRACTICES IN RELATION TO TOBACCO PRODUCTS, TO PROVIDE FOR THE PROHIBITION OR RESTRICTION OF TOBACCO SMOKING IN CERTAIN PLACES, TO REPEAL THE TOBACCO PRODUCTS (CONTROL OF ADVERTISING, SPONSORSHIP AND SALES PROMOTION) ACT 1978, AND THE TOBACCO (HEALTH PROMOTION AND PROTECTION) ACT 1988, AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH. [27*th March*, 2002]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions under collectively cited *Public Health (Tobacco) Acts 2002 and 2004* transferred and specified bodies dissolved (1.01.2005) by *Health Act 2004* (42/2004), ss. 58, 59 and sch. 3 item 2, S.I. No. 885 of 2004, subject to transitional provisions in s. 74 and sch. 5 item 2(a)(viii).
+>
+> **Dissolution of health boards and other specified bodies.**
+>
+> **58.**—The specified bodies are, by this Act, dissolved on the establishment day.
+>
+> **Transfer of functions of specified bodies to Executive.**
+>
+> **59.**—(1) The functions that, immediately before the establishment day, were the functions of a specified body under or in connection with the enactments referred to in Schedule 3 are, by this Act, transferred to the Executive on that day.
+>
+> (2) If a provision of an enactment referred to in Schedule 3, or a provision of an instrument made under such enactment, does not come into effect until on or after the establishment day, a function that on the passing of that enactment or the making of that instrument was assigned under or in connection with that provision to a specified body is, by this Act, transferred to the Executive on the commencement of that provision.
+>
+> (3) The functions transferred by this Act to the Executive include the functions specified in any enactment referred to in Schedule 3 as a function of the following:
+>
+> (*a*) the chief executive officer of a health board;
+>
+> (*b*) the Regional Chief Executive of the Eastern Regional Health Authority;
+>
+> (*c*) the area chief executive of an Area Health Board.
+>
+> ...
+>
+> SCHEDULE THREE
+>
+> Transfer of Functions and References to Functional Areas
+>
+> Section 59 and 67.
+>
+> ...
+>
+> 2\. Public Health (Tobacco) Acts 2002 and 2004
+>
+> ...
+
+## PART 1 — Preliminary and General
+
+### 1. Short title and commencement.
+
+**1.**—(1) This Act may be cited as the Public Health (Tobacco) Act 2002.
+
+(2) This Act shall come into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or provisions and for the repeal of different enactments effected by *subsection (1)* of *section 8* and the revocation of different (or different provisions of) regulations effected by *subsection (3)* of that section.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to section exercised (1.07.2009) by *Public Health (Tobacco) Act 2002 (Commencement) Order 2009* (S.I. No. 242 of 2009).
+>
+> 2\. The 1st day of July 2009 is appointed as the day upon which section 33A (inserted by section 5 of the Public Health (Tobacco) (Amendment) Act 2004 (No. 6 of 2004)) of the Public Health (Tobacco) Act 2002 (No. 6 of 2002) shall come into operation.
+>
+> E2: Power pursuant to section exercised (1.07.2009) by *Public Health (Tobacco) Act 2002 (Commencement) Order 2008* (S.I. No. 404 of 2008).
+>
+> 3\. The 1st day of July 2009 is appointed as the day on which the following provisions of the Public Health (Tobacco) Act 2002 (No. 6 of 2002) come into operation—
+>
+> (*a*) section 33 (inserted by section 5 of the Act of 2004),
+>
+> (*b*) section 35 (inserted by section 6 of the Act of 2004),
+>
+> (*c*) section 36 (inserted by section 7 of the Act of 2004),
+>
+> (*d*) section 37 (inserted by section 8 of the Act of 2004),
+>
+> (*e*) subsections (2), (4), (6), (7), (8), (9), (10) and (11) of section 38 (inserted by section 9 of the Act of 2004),
+>
+> (*f*) section 39 (as amended by section 10 of the Act of 2004),
+>
+> (*g*) section 42 (inserted by section 13 of the Act of 2004),
+>
+> (*h*) section 43 (inserted by section 14 of the Act of 2004), and
+>
+> (*i*) section 44.
+>
+> E3: Power pursuant to section exercised (2.04.2007, 31.05.2007) by *Public Health (tobacco) Act 2002 (Commencement) Order 2007* (S.I. No. 149 of 2007).
+>
+> 3\. (1) Section 45 of the Act of 2002 shall come into operation on the date of the making of this Order.
+>
+> (2) The 31st day of May 2007 is appointed as the day on which subsections (1) and (3) of section 38 (inserted by section 9 of the Public Health (Tobacco) (Amendment) Act 2004 (No. 6 of 2004)) of the Act of 2002 shall come into operation.
+>
+> E4: Power pursuant to section exercised (29.03.2004) by *Public Health (Tobacco) Act 2002 (Commencement) Order 2004* (S.I. No. 110 of 2004).
+>
+> 3\. The 29th day of March 2004 is hereby appointed as the day on which the following provisions of the Public Health (Tobacco) Act 2002 (No. 6 of 2002) shall come into operation:
+>
+> (*a*) section 5 (amended by section 3 of the Act of 2004) insofar as it is not already in operation,
+>
+> (*b*) section 46 (inserted by section 15 of the Act of 2004),
+>
+> (*c*) section 48 (amended by section 17 of the Act of 2004),
+>
+> (*d*) section 49,
+>
+> (*e*) section 50 (inserted by section 18 of the Act of 2004),
+>
+> (*f*) section 51,
+>
+> (*g*) section 52, and
+>
+> (*h*) section 53.
+>
+> E5: Power pursuant to section exercised (15.10.2003) by *Public Health (Tobacco) Act 2002 (Commencement) Order 2003* (S.I. No. 480 of 2003).
+>
+> 2\. The 15th day of October 2003 is hereby appointed as the day on which sections 2, 3, 4, 5(1), 5(2) (in so far as it applies to section 47), 5(5), 5(6), 6, 7 and 47 of the Public Health (Tobacco) Act 2002 (No. 6 of 2002) shall come into operation.
+>
+> E6: Power pursuant to section exercised (31.05.2002) by *Public Health (Tobacco) Act 2002 (Commencement) Order 2002* (S.I. No. 251 of 2002).
+>
+> 2\. The 31st day of May 2002 is hereby appointed as the day on which Part 2 of the Public Health (Tobacco) Act 2002 shall come into operation.
+
+### 2. Interpretation.
+
+**2.**—(1) In this Act, except where the context otherwise requires—
+
+“Act of 1970” means the Health Act 1970;
+
+“Act of 1978” means the Tobacco Products (Control of Advertising, Sponsorship and Sales Promotion) Act 1978;
+
+“Act of 1988” means the Tobacco (Health Promotion and Protection) Act 1988;
+
+F1["Act of 2015" means the Public Health (Standardised Packaging of Tobacco) Act 2015;]
+
+F2["Act of 2023" means the Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023;]
+
+F9[...]
+
+F10["advertising" has the same meaning as it has in the Directive of 2003, and cognate words shall be construed accordingly;]
+
+“authorised officer” means a person appointed under *section 48*;
+
+“chief executive” has the meaning assigned to it by *section 28*;
+
+F13["cigarettes" has the same meaning as it has in Chapter 3 of Part 2 of the Finance Act 2005; ]
+
+“designated analyst” has the meaning assigned to it by *section 51*;
+
+“designated laboratory” has the meaning assigned to it by *section 51*;
+
+F11["Directive of 2001" means Directive No. 2001/37/EC of the European Parliament and of the Council of 5 June 2001 on the approximation of the laws, regulations and administrative provisions of the Member States concerning the manufacture, presentation and sale of tobacco products;]
+
+F12["Directive of 2003" means Directive No. 2003/33/EC of the European Parliament and of the Council of 26 May 2003 on the approximation of the laws, regulations and administrative provisions of the Member States relating to the advertising and sponsorship of tobacco products, the text of which is set out in the Schedule to the Public Health (Tobacco) (Amendment) Act 2004;]
+
+F3["electronic cigarette" has the same meaning as it has in Directive 2014/40/EU of the European Parliament and of the Council of 3 April 2014[^1] on the approximation of the laws, regulations and administrative provisions of the Member States concerning the manufacture, presentation and sale of tobacco and related products and repealing Directive 2001/37/EC;]
+
+F4["Executive" means the Health Service Executive;]
+
+“functions” includes powers and duties and references to the performance of functions include, as respects powers and duties, references to the exercise of the powers and the performance of the duties;
+
+F14[...]
+
+“licensed premises” has the same meaning as it has in the Intoxicating Liquor Act 1988;
+
+F5["licensee" means a licensee within the meaning of section 2 of the Act of 2023;]
+
+“Minister” means the Minister for Health and Children;
+
+F6["nicotine inhaling product" means—
+
+(*a*) an electronic cigarette, or
+
+(*b*) any other product consisting of—
+
+(i) a device (other than tobacco, cigarette paper or a device which is intended to enable the consumption of lit tobacco) which is intended to enable a relevant substance to be inhaled through a mouth piece (irrespective of whether the device would also enable any other substance to be so inhaled),
+
+(ii) a cartridge which—
+
+(I) may contain a relevant substance, and
+
+(II) is intended to form part of a device that falls within *subparagraph (i)*,
+
+or
+
+(iii) a relevant substance which is intended to be used in a device that falls within *subparagraph (i)*;]
+
+“Office” means the Office of Tobacco Control established under *section 9*;
+
+F15["public service vehicle" means a mechanically propelled vehicle used for the carriage of persons for reward and having seating accomodation for more than 8 persons exclusive of the driver;]
+
+“register” has the meaning assigned to it by *section 37*;
+
+“registered club” has the same meaning as it has in the Registration of Clubs Acts; 1904 to 2000;
+
+“registration number” has the meaning assigned to it by *section 37*;
+
+F7["relevant substance" means a substance which is not tobacco but which consists of, or contains, nicotine;]
+
+F8["sale by retail" includes sale by retail online;]
+
+“smoke” in relation to a tobacco product, includes sniffing, chewing or sucking of such a product;
+
+“specified place” has the meaning assigned to it by *section 47*;
+
+“superannuation benefit” means a pension, gratuity or other allowance payable on resignation, retirement or death;
+
+F16["tobacco product" means a product (other than a medicinal product (within the meaning of the Irish Medicines Board Act 1995))—
+
+(*a*) that can be consumed and consists, even partly, of tobacco, whether genetically modified or not and includes a cigarette paper, tube or filter manufactured for use in the smoking of tobacco, and
+
+(*b*) that is intended for sale by retail in the State;]
+
+(2) In this Act—
+
+(*a*) a reference to a Part or section is a reference to a Part or section of this Act, unless it is indicated that a reference to some other enactment is intended,
+
+(*b*) a reference to a subsection, paragraph or subparagraph is a reference to the subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that a reference to some other provision is intended, and
+
+(*c*) a reference to any enactment or regulations shall be construed as a reference to that enactment or those regulations, as the case may be, as amended, adapted or extended whether before or after the commencement of this subsection, by or under any subsequent enactment.
+
+(3) For the purposes of this Act, a company within the meaning of the Companies Acts 1963 to 2001, shall be deemed to be ordinarily resident at its registered office, and every other body corporate and every unincorporated body of persons shall be deemed to be ordinarily resident at its principal office or place of business in the State.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1: Inserted (20.05.2016) by *Public Health (Standardised Packaging of Tobacco) Act 2015* (4/2015), s. 20, S.I. No. 270 of 2016.
+>
+> F2, F3, F4, F5, F6, F7, F8: Inserted (12.12.2023) by *Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023* (35/2023), s. 42(b), S.I. No. 669 of 2023.
+>
+> F9: Deleted (29.03.2004) by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 2(a), S.I. No. 111 of 2004.
+>
+> F10, F11, F12: Inserted (29.03.2004) by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 2(b), S.I. No. 111 of 2004.
+>
+> F13: Inserted (16.07.2009) by *Public Health (Tobacco) (Amendment) Act 2009* (23/2009), s. 2, commenced on enactment.
+>
+> F14: Deleted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 6 part 22 item 1.
+>
+> F15: Substituted (29.03.2004) by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 2(c), S.I. No. 111 of 2004.
+>
+> F16: Substituted (22.12.2023) by *Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023* (35/2023), s. 42(a), S.I. No. 669 of 2023.
+>
+> **Editorial Notes:**
+>
+> E7: Previous affecting provision: definition of "tobacco product" substituted (29.03.2004) by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 2(d), S.I. No. 111 of 2004; definition substituted (22.12.2023) as per F-note above.
+
+### 3. Orders and regulations.
+
+**3.**—Every order (other than an order under *section 1(2)*) and regulation under this Act shall be laid by the Minister before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order or regulation is passed by either such House within the next 21 days on which that House sits after the order or regulation is laid before it, the order or regulation shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
+
+### 4. Expenses.
+
+**4.**—The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+### 5. Offences and penalties.
+
+**5.**—(1) A person guilty of an offence under *section 20* shall be liable on summary conviction to a fine not exceeding F17[€3,000], or to imprisonment for a term not exceeding 6 months, or to both.
+
+(2) A person guilty of an offence under F21[*section 37(13)*, *43(3)*, *43(4)*, *45*, *46*, *48* or *54(9)*] shall be liable on summary conviction to a fine not exceeding F18[€3,000], or to imprisonment for a term not exceeding 3 months, or to both.
+
+F22[(2A) A person guilty of an offence under *section 47* shall be liable on summary conviction to a fine not exceeding €3,000.]
+
+(3) A person guilty of an offence under *section 33*, F23[*33A*,] *36, 37(14), 38, 39, 40, 42* or *53* shall be liable—
+
+(*a*) on summary conviction to a fine not exceeding F19[€3,000], or to imprisonment for a term not exceeding 3 months, or to both, or
+
+(*b*) on conviction on indictment to a fine not exceeding €125,000, or to imprisonment for a term not exceeding 2 years, or to both.
+
+(4) Section 13 of the Criminal Procedure Act 1967, shall apply in relation to an offence under this Act as if, in lieu of the penalties specified in subsection (3)(*a*) of that section, there were specified therein the penalties provided for in *subsection (3)(a)*, and the reference in subsection (2)(*a*) of the said section 13 to the penalties provided for by subsection (3) shall be construed and have effect accordingly.
+
+(5) Where an offence under this Act is committed by a body corporate and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other officer of such body corporate or a person who was purporting to act in any such capacity, that officer or person shall be guilty of an offence and shall be liable to be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
+
+(6) On conviction for an offence under this Act the court may, in addition to any other penalty, order any tobacco product or any apparatus, equipment or thing to which the offence relates to be forfeited.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F17, F18, F19: Substituted (29.03.2004) by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 3(d), S.I. No. 111 of 2004. A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(3) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> F20: Deleted (29.03.2004) by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 3(a), S.I. No. 111 of 2004.
+>
+> F21: Substituted (22.12.2023) by *Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023* (35/2023), s. 43, S.I. No. 669 of 2023.
+>
+> F22, F23: Inserted (29.03.2004) by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 3(b), (c), S.I. No. 111 of 2004. A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(3) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E8: Previous affecting provision: subs. (2) amended (29.03.2004) by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 3(a), S.I. No. 111 of 2004; subs. (2) amended (22.12.2023) as per F-note above.
+
+### 5A. Order of court consequent upon conviction of an offence.
+
+F24[**5A.**— F25[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F24: Inserted (16.07.2009) by *Public Health (Tobacco) (Amendment) Act 2009* (23/2009), s. 3, commenced on enactment.
+>
+> F25: Repealed (2.02.2026) by *Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023* (35/2023), s. 9(1)(a), S.I. No. 737 of 2024.
+>
+> **Editorial Notes:**
+>
+> E9: The section heading is taken from the amending section in the absence of one included in the amendment.
+>
+> E10: Previous affecting provision: section amended (20.05.2016) by *Public Health (Standardised Packaging of Tobacco) Act 2015* (4/2015), s. 21(a)-(c), S.I. No. 270 of 2016; repealed (2.02.2026) as per F-note above.
+
+### 6. Proceedings.
+
+**6.**—(1) Summary proceedings for an offence under this Act may be brought and prosecuted by the Office.
+
+F26[(2) Summary proceedings for an offence under this Act may be brought and prosecuted by the Health Service Executive.]
+
+(3) Notwithstanding section 10(4) of the Petty Sessions (Ireland) Act 1851, summary proceedings for an offence under this Act may be instituted not later than 12 months from the date on which the Office or F27[the Health Service Executive,] as may be appropriate, forms the opinion that there exists sufficient evidence to justify instituting proceedings for the offence concerned, but in no case shall such proceedings be brought after 5 years from the date of the alleged commission of the offence.
+
+(4) References in section 382 of the Companies Act 1963, to a company shall, for the purposes of this Act, be construed as including references to a body corporate (whether or not a company within the meaning of that section) charged on indictment with an offence under this Act.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F26, F27: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 6 part 22 item 2(a), (b), S.I. No. 887 of 2004.
+
+### 7. Service of documents.
+
+**7.**—A notice or other document under this Act shall be addressed to the person concerned by name, and may be served on or given to the person in one of the following ways:
+
+(*a*) by delivering it to the person.
+
+(*b*) by leaving it at the address at which the person ordinarily resides or, in a case in which an address for service has been furnished, at that address,
+
+(*c*) by sending it by post in a prepaid registered letter to the address at which the person ordinarily resides or, in a case in which an address for service has been furnished, to that F28[address,]
+
+F29[(*d*) by electronic means, in a case in which the person has given notice in writing to the person serving or giving the notice or document concerned of his or her consent to the notice or document (or notices or documents of a class to which the notice or document belongs) being served on, or given to, him or her in that manner.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F28: Substituted (22.12.2023) by *Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023* (35/2023), s. 44(a), S.I. No. 669 of 2023.
+>
+> F29: Inserted (22.12.2023) by *Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023* (35/2023), s. 44(b), S.I. No. 669 of 2023.
+
+### 8. Repeals, saver and revocations.
+
+**8.**—(1) The following enactments are hereby repealed, namely—
+
+(*a*) the Act of 1978; and
+
+(*b*) the Act of 1988.
+
+(2) Notwithstanding *subsection (1)*, regulations made under the Act of 1978 or the Act of 1988 that are in force immediately before the commencement of that subsection shall, subject to *subsection (3)*, continue in force after such commencement.
+
+(3) The following regulations are hereby revoked, namely—
+
+(*a*) the Tobacco Products (Control of Advertising, Sponsorship and Sales Promotion) Regulations, 1991 (S.I. No. 326 of 1991); and
+
+(*b*) the Tobacco (Health Promotion and Protection) Regulations, 1995 (S.I. No. 359 of 1995).
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F30: Substituted by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 4, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C2: Prospective affecting provision: section substituted by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 4, not commenced as of date of revision.
+>
+> F30[**8.**—(1) The following enactments are repealed, namely—
+>
+> (*a*) the Act of 1978, and
+>
+> (*b*) the Act of 1988.
+>
+> (2) Notwithstanding *subsection (1)*, regulations made under the Act of 1978 or the Act of 1988 that are in force immediately before the commencement of that subsection shall, subject to—
+>
+> (*a*) *subsection (3)*, and
+>
+> (*b*) *subsection (5)* of *section 47* (inserted by section 16 of the Public Health (Tobacco) (Amendment) Act 2004),
+>
+> continue in force after such commencement.
+>
+> (3) The Tobacco Products (Control of Advertising, Sponsorship and Sales Promotion) Regulations 1991 ( S.I. No. 326 of 1991 ) are revoked.
+
+## PART 2 — Office of Tobacco Control
+
+### 9. Establishment of Office of Tobacco Control.
+
+**9.**—F31[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F31: Repealed (1.01.2011) by *Public Health (Tobacco) (Amendment) Act 2010* (39/2010), s. 13, in operation as per s. 15(2).
+>
+> **Modifications (not altering text):**
+>
+> C3: Office of Tobacco Control dissolved, functions transferred and references to "Office of Tobacco Control" construed as "Health Service Executive" (1.01.2011) by *Public Health (Tobacco) (Amendment) Act 2010* (39/2010), ss. 2, 3, 4(1), in operation as per s. 15(2), subject to transitional provisions in ss. 4(2), (3), 5-12.
+>
+> **Dissolution of Office.**
+>
+> **2.**— The Office is dissolved.
+>
+> **Transfer of functions of Office.**
+>
+> **3.**— (1) The administration and business in connection with the performance of any of the functions transferred by subsection (2) are transferred, on the commencement of this Act, to the Executive.
+>
+> (2) The functions vested in the Office by or under:
+>
+> (*a*) the Act of 2002, other than—
+>
+> (i) section 10(1)(h) (amended by section 75 of the Health Act 2004 ), and
+>
+> (ii) section 22,
+>
+> and
+>
+> (*b*) the European Communities (Manufacture, Presentation and Sale of Tobacco Products) Regulations 2003 ( S.I. No. 425 of 2003) (amended by the European Communities (Manufacture, Presentation and Sale of Tobacco Products) (Amendment) Regulations 2008) (S.I. No. 255 of 2008)),
+>
+> shall, on the commencement of this Act, stand transferred to the Executive.
+>
+> **Transitional provisions consequent upon transfer of functions of Office.**
+>
+> **4.**— (1) References (however expressed) to the Office in any enactment shall, unless the context otherwise requires, be construed as references to the Executive.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E11: Previous affecting provision: functions purported to be transferred under subs. (2) and references to "Department of Finance" and "Minister for Finance" construed as "Department of Public Expenditure and Reform" and "Minister for Public Expenditure and Reform" (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3(a), 5 and sch. 1 part 2, in operation as per art. 1(2), subject to transitional provisions in arts. 6, 7, 8; section previously repealed (1.01.2011) as per F-note above.
+
+### 10. Functions of Office.
+
+**10.**—F32[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F32: Repealed (1.01.2011) by *Public Health (Tobacco) (Amendment) Act 2010* (39/2010), s. 13, in operation as per s. 15(2).
+>
+> **Editorial Notes:**
+>
+> E12: Previous affecting provision: subs. (1)(h) amended (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 6 part 22 item 3, S.I. No. 887 of 2004; section repealed (1.01.2011) as per F-note above.
+
+### 11. Conferral of additional functions on Office.
+
+**11.**—F33[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F33: Repealed (1.01.2011) by *Public Health (Tobacco) (Amendment) Act 2010* (39/2010), s. 13, in operation as per s. 15(2).
+>
+> **Modifications (not altering text):**
+>
+> **Editorial Notes:**
+>
+> E13: Previous affecting provision: functions purported to be transferred and references to "Department of Finance" and "Minister for Finance" construed as "Department of Public Expenditure and Reform" and "Minister for Public Expenditure and Reform" (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3(a), 5 and sch. 1 part 2, in operation as per art. 1(2), subject to transitional provisions in arts. 6, 7, 8; section prevously repealed (1.01.2011) as per F-note above.
+
+### 12. Membership of Office.
+
+**12.**—F34[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F34: Repealed (1.01.2011) by *Public Health (Tobacco) (Amendment) Act 2010* (39/2010), s. 13, in operation as per s. 15(2).
+
+### 13. Conditions of office of members of Office.
+
+**13.**—F35[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F35: Repealed (1.01.2011) by *Public Health (Tobacco) (Amendment) Act 2010* (39/2010), s. 13, in operation as per s. 15(2).
+
+### 14. Casual vacancies among members of Office.
+
+**14.**—F36[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F36: Repealed (1.01.2011) by *Public Health (Tobacco) (Amendment) Act 2010* (39/2010), s. 13, in operation as per s. 15(2).
+
+### 15. Remuneration of members of Office.
+
+**15.**—F37[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F37: Repealed (1.01.2011) by *Public Health (Tobacco) (Amendment) Act 2010* (39/2010), s. 13, in operation as per s. 15(2).
+
+### 16. Meetings and procedure.
+
+**16.**—F38[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F38: Repealed (1.01.2011) by *Public Health (Tobacco) (Amendment) Act 2010* (39/2010), s. 13, in operation as per s. 15(2).
+
+### 17. Membership of either House of Oireachtas or European Parliament.
+
+**17.**—F39[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F39: Repealed (1.01.2011) by *Public Health (Tobacco) (Amendment) Act 2010* (39/2010), s. 13, in operation as per s. 15(2).
+
+### 18. Disclosure by members of Office of certain interests.
+
+**18.**—F40[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F40: Repealed (1.01.2011) by *Public Health (Tobacco) (Amendment) Act 2010* (39/2010), s. 13, in operation as per s. 15(2).
+
+### 19. Disclosure by members of staff of certain interests.
+
+**19.**—F41[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F41: Repealed (1.01.2011) by *Public Health (Tobacco) (Amendment) Act 2010* (39/2010), s. 13, in operation as per s. 15(2).
+
+### 20. Prohibition of unauthorised disclosure of confidential information.
+
+**20.**—F42[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F42: Repealed (1.01.2011) by *Public Health (Tobacco) (Amendment) Act 2010* (39/2010), s. 13, in operation as per s. 15(2).
+
+### 21. Committees of Office.
+
+**21.**—F43[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F43: Repealed (1.01.2011) by *Public Health (Tobacco) (Amendment) Act 2010* (39/2010), s. 13, in operation as per s. 15(2).
+>
+> **Editorial Notes:**
+>
+> E14: Previous affecting provision: functions under subs. (6) purported to be transferred and references to "Department of Finance" and "Minister for Finance" construed as "Department of Public Expenditure and Reform" and "Minister for Public Expenditure and Reform" (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3(a), 5 and sch. 1 part 2, in operation as per art. 1(2), subject to transitional provisions in arts. 6, 7, 8; section previously repealed (1.01.2011) as per F-note above.
+
+### 22. Tobacco Free Council.
+
+**22.**—F44[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F44: Repealed (1.01.2011) by *Public Health (Tobacco) (Amendment) Act 2010* (39/2010), s. 13, in operation as per s. 15(2).
+>
+> **Editorial Notes:**
+>
+> E15: Previous affecting provision: functions under subs. (6) purported to be transferred and references to "Department of Finance" and "Minister for Finance" construed as "Department of Public Expenditure and Reform" and "Minister for Public Expenditure and Reform" (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3(a), 5 and sch. 1 part 2, in operation as per art. 1(2), subject to transitional provisions in arts. 6, 7, 8; section previously repealed (1.01.2011) as per F-note above.
+
+### 23. Grants to Office.
+
+**23.**—F45[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F45: Repealed (1.01.2011) by *Public Health (Tobacco) (Amendment) Act 2010* (39/2010), s. 13, in operation as per s. 15(2).
+>
+> **Editorial Notes:**
+>
+> E16: Previous affecting provision: functions purported to be transferred and references to "Department of Finance" and "Minister for Finance" construed as "Department of Public Expenditure and Reform" and "Minister for Public Expenditure and Reform" (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3(a), 5 and sch. 1 part 2, in operation as per art. 1(2), subject to transitional provisions in arts. 6, 7, 8; section previously repealed (1.01.2011) as per F-note above.
+
+### 24. Accounts and audits.
+
+**24.**—F46[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F46: Repealed (1.01.2011) by *Public Health (Tobacco) (Amendment) Act 2010* (39/2010), s. 13, in operation as per s. 15(2).
+>
+> **Editorial Notes:**
+>
+> E17: Previous affecting provision: functions purported to be transferred and references to "Department of Finance" and "Minister for Finance" construed as "Department of Public Expenditure and Reform" and "Minister for Public Expenditure and Reform" (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3(a), 5 and sch. 1 part 2, in operation as per art. 1(2), subject to transitional provisions in arts. 6, 7, 8; section previously repealed (1.01.2011) as per F-note above.
+
+### 25. Annual report.
+
+**25.**—F47[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F47: Repealed (1.01.2011) by *Public Health (Tobacco) (Amendment) Act 2010* (39/2010), s. 13, in operation as per s. 15(2).
+
+### 26. Power to borrow.
+
+**26.**—F48[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F48: Repealed (1.01.2011) by *Public Health (Tobacco) (Amendment) Act 2010* (39/2010), s. 13, in operation as per s. 15(2).
+>
+> **Editorial Notes:**
+>
+> E18: Previous affecting provision: functions transferred under subs. (1) and references to "Department of Finance" and "Minister for Finance" construed as references to "Department of Public Expenditure and Reform" and "Minister for Public Expenditure and Reform" (20.09.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) (No. 2) Order 2011* (S.I. No. 480 of 2011), arts. 2, 3(a), 4, and sch., in operation as per art. 1(2), subject to transitional provisions in arts. 5, 6, 7, 9; section repealed (1.01.2011) as per F-note above.
+
+### 27. Gifts.
+
+**27.**—F49[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F49: Repealed (1.01.2011) by *Public Health (Tobacco) (Amendment) Act 2010* (39/2010), s. 13, in operation as per s. 15(2).
+
+### 28. Chief executive.
+
+**28.**—F50[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F50: Repealed (1.01.2011) by *Public Health (Tobacco) (Amendment) Act 2010* (39/2010), s. 13, in operation as per s. 15(2).
+
+### 29. Staff.
+
+**29.**—F51[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F51: Repealed (1.01.2011) by *Public Health (Tobacco) (Amendment) Act 2010* (39/2010), s. 13, in operation as per s. 15(2).
+
+### 30. Remuneration of staff.
+
+**30.**—F52[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F52: Repealed (1.01.2011) by *Public Health (Tobacco) (Amendment) Act 2010* (39/2010), s. 13, in operation as per s. 15(2).
+
+### 31. Transfer of staff to Office.
+
+**31.**—F53[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F53: Repealed (1.01.2011) by *Public Health (Tobacco) (Amendment) Act 2010* (39/2010), s. 13, in operation as per s. 15(2).
+
+### 32. Superannuation.
+
+**32.**—F54[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F54: Repealed (1.01.2011) by *Public Health (Tobacco) (Amendment) Act 2010* (39/2010), s. 13, in operation as per s. 15(2).
+
+## PART 3 — Regulation and Control of Sale, Marketing and Smoking of Tobacco Products
+
+### 33. Prohibition of advertising of tobacco products.
+
+F55[**33.**—Subject to *section 35*, a person who advertises, or causes the advertisement of, a tobacco product in contravention of the Directive of 2003 shall be guilty of an offence.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F55: Substituted (1.07.2009) by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 5, S.I. No. 405 of 2008.
+
+### 33A. Prohibition of advertising of tobacco products on retail premises.
+
+F56[**33A.**—(1) The advertisement of tobacco products in premises in which the business of selling tobacco products by retail is carried on in whole or in part is prohibited.
+
+(2) A person who contravenes *subsection (1)* shall be guilty of an offence.
+
+(3) Where in relation to a premises to which *subsection (1)* applies there is a contravention of that subsection, the occupier, manager and any other person for the time being in charge of the premises shall each be guilty of an offence.
+
+(4) In this section, "advertisement" includes, in relation to a tobacco product, every form of recommendation of the product to the public and, in particular—
+
+(*a*) (i) a statement of the name of a manufacturer or importer of a tobacco product, or the name of any brand of tobacco product, or
+
+(ii) a statement of any trade description or designation, or a display or other publication of a trademark, emblem, marketing image or logo, by reference to which the product is marketed or sold,
+
+in circumstances where such statement, display or publication may reasonably be regarded as a recommendation of the product to the public, and
+
+(*b*) a statement of the properties of the product on a label, container, wrapper or package used for the product or in a leaflet, circular, pamphlet or brochure issued to the public or given to a purchaser of the product,
+
+and cognate words shall be construed accordingly.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F56: Inserted (1.07.2009) by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 5, S.I. No. 405 of 2008.
+>
+> **Editorial Notes:**
+>
+> E19: The section heading is taken from the content of the section in the absence of one included in the amendment.
+
+### 34. Advertisements in foreign publications.
+
+**34.**—F57[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F57: Repealed (29.03.2004) by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 19, S.I. No. 111 of 2004.
+
+### 35. Advertisements directed at persons engaged in the sale etc. of tobacco products.
+
+F58[**35.**—(1) The advertising of a tobacco product in a publication that is—
+
+(*a*) printed and published, and primarily intended for sale or distribution, in a state other than a Member State of the European Communities, or
+
+(*b*) directed solely at persons who carry on, in whole or in part, the business of selling or distributing tobacco products,
+
+is not prohibited.
+
+(2) *Section 33A* (inserted by section 6 of the Public Health (Tobacco) (Amendment) Act 2004 ) shall not apply to the advertising of a tobacco product in premises specified in a certificate under *subsection (2)* of *section 44*.
+
+(3) (*a*) *Section 33A* shall not apply to the display in duty free premises situated in an airport of a pictorial list consisting of visual images of packets of the tobacco products on sale at those premises, provided that—
+
+(i) each such image is not greater in size than the size of the packet concerned,
+
+(ii) the list does not contain more than one image of the same product, and
+
+(iii) the list or each such image contains a warning in such form and of such a type as is specified in column 2 of Part 1 of Schedule 1 to the European Communities (Manufacture, Presentation and Sale of Tobacco Products) Regulations 2003 (S.I. No. 425 of 2003).
+
+(*b*) In this subsection "duty free premises" means a tax warehouse within the meaning of Chapter 1 of Part 2 of the Finance Act 2001 in which tobacco products are sold by retail.
+
+(4) Regulation 8 of the Tobacco Products (Control of Advertising, Sponsorship and Sales Promotion) Regulations 1991 (S.I. No. 326 of 1991) is amended by the deletion of subparagraph (c) of paragraph (2).]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F58: Substituted (16.07.2009) by *Public Health (Tobacco) (Amendment) Act 2009* (23/2009), s. 4, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E20: Previous affecting provision: section substituted (1.07.2009) by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 6, S.I. No. 405 of 2008; section substituted (16.07.2009) as per F-note above.
+
+### 36. Prohibition of sponsorship.
+
+F59[**36.**—(1) A person who engages in sponsorship in contravention of the Directive of 2003 shall be guilty of an offence.
+
+(2) It shall be an offence for a person to give financial or other assistance, or cause financial or other assistance to be given, to or for the benefit of a person, or for or in relation to an event or activity, in consideration of the—
+
+(*a*) use, display or advertising by the person, or at the event or activity concerned,
+
+(*b*) association with the person, event or activity, or
+
+(*c*) promotion,
+
+of a tobacco product, the name of a tobacco manufacturer or importer, the name of a brand of tobacco product or a trademark, emblem, marketing image or logo used in the marketing of a tobacco product.
+
+(3) It shall be an offence for a person to receive financial or other assistance to which *subsection (2)* applies.
+
+(4) In this section "sponsorship" has the same meaning as it has in the Directive of 2003.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F59: Substituted (1.07.2009) by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 7, S.I. No. 405 of 2008.
+
+### 37. Register of retailers of tobacco products.
+
+**37.**—F60[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F60: Repealed (2.02.2026) by *Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023* (35/2023), s. 9(1)(b), S.I. No. 737 of 2024.
+>
+> **Editorial Notes:**
+>
+> E21: Previous affecting provision: section amended (20.05.2016) by *Public Health (Standardised Packaging of Tobacco) Act 2015* (4/2015), s. 22, S.I. No. 270 of 2016; repealed (2.02.2026) as per F-note above.
+>
+> E22: Previous affecting provision: section amended (16.07.2009) by *Public Health (Tobacco) (Amendment) Act 2009* (23/2009), s. 5(b), (d), commenced on enactment; repealed (2.02.2026) as per F-note above.
+>
+> E23: Previous affecting provision: section amended (16.07.2009) by *Public Health (Tobacco) (Amendment) Act 2009* (23/2009), s. 5(a), commenced on enactment; repealed (2.02.2026) as per F-note above.
+>
+> E24: Previous affecting provision: section amended (16.07.2009) by *Public Health (Tobacco) (Amendment) Act 2009* (23/2009), s. 5(c), commenced on enactment; repealed (2.02.2026) as per F-note above.
+>
+> E25: Previous affecting provision: section amended (1.07.2009) by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 8, S.I. No. 405 of 2008; repealed (2.02.2026) as per F-note above.
+>
+> E26: Previous affecting provision: power pursuant to subs. (5)(d) exercised (1.07.2009) by *Public Health (Tobacco) (Registration) Regulations 2009* (S.I. No. 41 of 2009), in operation as per reg. 2; revoked (2.02.2026) by *Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023* (35/2023), s. 9(2)(a), S.I. No. 737 of 2024.
+
+### 38. Prohibition of certain marketing practices.
+
+F61[**38.**—(1) It shall be an offence for a person to sell cigarettes by retail other than in a packet containing not less than 20 cigarettes.]
+
+F63[(2) It shall be an offence for a person to manufacture, import, supply, sell or invite an offer to purchase an oral smokeless tobacco product.]
+
+F62[(3) It shall be an offence for a person to sell confectioneries normally intended for sale to children, that have been manufactured in such a way as to resemble in appearance a type of tobacco product.]
+
+F64[(4) It shall be an offence for a person to—
+
+(*a*) import,
+
+(*b*) sell (by retail or otherwise), or
+
+(*c*) otherwise supply to, or invite an offer to purchase by, any person,
+
+a tobacco product, the packaging of which does not bear a warning in such form and of such a type as may be prescribed by regulations made by the Minister, that is intended to inform the public that the consumption of the product is injurious to health, and a statement containing such other information as may be so prescribed in such form as may be so prescribed.]
+
+(5) It shall be an offence for a person to—
+
+(*a*) import,
+
+(*b*) sell (by retail or otherwise), or
+
+(*c*) otherwise supply to, or invite an offer to purchase by, any person,
+
+a tobacco product, the packaging of which does not bear a number in such form as may be prescribed by regulations made by the Minister, that enables the lot or batch from which the product originated and the date and place of its manufacture to be ascertained.
+
+F65[F66[(6) Regulations under *subsection (4)* or *(5)* may be made for the purpose of—
+
+(*a*) F67[“giving effect or further effect] to Article 5 of the Directive of 2001,
+
+F68[(*b*) giving effect or further effect to—
+
+(i) Commission Decision No. 2003/641/EC of 5 September 2003[^2] on the use of colour photographs or other illustrations as health warnings on tobacco packages,
+
+(ii) Commission Decision C(2005) 1452 final of 26/V/2005 on the library of selected source documents containing colour photographs or other illustrations for each of the additional warnings listed in Annex 1 to Directive 2001/37/EC of the European Parliament and of the Council, or
+
+(iii) Commission Decision C(2006) 1502 final of 12/IV/2006 amending Commission Decision C(2005) 1452 final of 26 May 2005 on the library of selected source documents containing colour photographs or other illustrations for each of the additional warnings listed in Annex 1 to Directive 2001/37/EC of the European Parliament and of the Council,]
+
+(*c*) giving effect or further effect to any act adopted by an institution of the European Communities amending the said Article 5 F69[or any or all of the Commission Decisions referred to in *sub-paragraphs (i)*, *(ii)* and *(iii)* of *paragraph (b)*.]]
+
+(7) It shall be an offence for a person to supply free of charge to a member of the public any tobacco product for the purpose of promoting the consumption of that product.
+
+(8) It shall be an offence for a person to supply or sell to a member of the public any voucher, coupon or other document or thing (intended to be used as a substitute for money) for the purpose of its being—
+
+(*a*) used as payment or payment in part, or
+
+(*b*) otherwise exchanged,
+
+for a tobacco product.
+
+(9) It shall be an offence for a person to sell a tobacco product by retail, or supply a tobacco product to, or invite an offer to purchase by, a member of the public of a tobacco product where part of the consideration to be given to the purchaser is a gift, token, trading stamp, coupon or other document or thing that may be exchanged for or used as payment or payment in part for certain goods.
+
+F70[(10) The Minister may make regulations in relation to the control and regulation of activities which are intended or are likely to promote the sale of tobacco products.]
+
+F72[(10A) Without prejudice to the generality of *subsection (10)*, regulations under *subsection (10)* may make provision for all or any of the following:
+
+(*a*) the prohibition of the sale (by whatever means) of any tobacco product at a reduced price to a person on the purchase by that person of any other—
+
+(i) tobacco product, or
+
+(ii) product or service;
+
+(*b*) the prohibition of the making available (by whatever means) of any tobacco product to a person free of charge on the purchase by that person of any other—
+
+(i) tobacco product, or
+
+(ii) product or service;
+
+(*c*) the prohibition of the promotion (by whatever means) of any tobacco product to a person at a reduced price or free of charge on the purchase by that person of any other—
+
+(i) tobacco product, or
+
+(ii) product or service;
+
+(*d*) the prohibition of the—
+
+(i) sale (by whatever means),
+
+(ii) making available (by whatever means), or
+
+(iii) promotion (by whatever means),
+
+of any tobacco product to a person at a reduced price or free of charge for a limited period of time on any day.]
+
+F71[(11) A person who contravenes a provision of regulations made under *subsection (10)* shall be guilty of an offence.]]
+
+F73[(12) In this section "European Communities" has the same meaning as it has in the European Communities Act 1972.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F61, F62: Substituted (31.05.2007) by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 9, S.I. No. 150 of 2007.
+>
+> F63, F64, F65: Substituted (1.07.2009) by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 9, S.I. No. 405 of 2008.
+>
+> F66: Substituted (16.07.2009) by *Public Health (Tobacco) (Amendment) Act 2009* (23/2009), s. 6(a), commenced on enactment.
+>
+> F67, F68, F69: Substituted (25.07.2011) by *Public Health (Tobacco) (Amendment) Act 2011* (15/2011), s. 1(a), (b), (c), commenced on enactment.
+>
+> F70, F71: Substituted (23.12.2013) by *Public Health (Tobacco) (Amendment) Act 2013* (17/2013), s. 1, S.I. No. 529 of 2013.
+>
+> F72: Inserted (23.12.2013) by *Public Health (Tobacco) (Amendment) Act 2013* (17/2013), S.I. No. 529 of 2013.
+>
+> F73: Inserted (16.07.2009) by *Public Health (Tobacco) (Amendment) Act 2009* (23/2009), s. 6(b), commenced on enactment.
+>
+> F74: Substituted by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 9, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C4: Prospective affecting provision: section repealed (2.02.2026) by *Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023* (35/2023), s. 9(1)(b), S.I. No. 737 of 2024.
+>
+> **37.**—F60[...]
+>
+> C5: Prospective affecting provision: subs. (5) substituted by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 9, not commenced as of date of revision.
+>
+> F74[(5) It shall be an offence for a person to—
+>
+> (*a*) import,
+>
+> (*b*) sell (by retail or otherwise), or
+>
+> (*c*) otherwise supply to, or invite an offer to purchase by, any person,
+>
+> a tobacco product, the packaging of which does not bear a number in such form as may be prescribed by regulations made by the Minister, that enables the lot or batch from which the product orginated and the date and place of its manufacture to be ascertained.
+>
+> **Editorial Notes:**
+>
+> E27: Power pursuant to subs. (10) exercised (23.12.2013) by *Public Health (Tobacco) (Control of Sales Promotion) Regulations 2013* (S.I. No. 530 of 2013), in operation as per reg. 2.
+>
+> E28: Previous affecting provision: power pursuant to subss. (4) and (6) exercised (16.11.2011) by *Public Health (Tobacco) (General and Combined Warnings) Regulations 2011* (S.I. No. 656 of 2011); revoked (20.05.2016) by *European Union (Manufacture, Presentation and Sale of Tobacco and Related Products) Regulations 2016* (S.I. No. 271 of 2016), reg. 48(1)(d), subject to transitional provisions in reg. 48(2)(b).
+
+### 39. Specifications in relation to tobacco products.
+
+**39.**—(1) Such tobacco products and such classes of tobacco products as may be prescribed by regulations made by the Minister shall comply with such standards and requirements relating to their manufacture, importation, distribution and sale as may be so prescribed.
+
+F75[(1A) Regulations under this section may be made for the purpose of giving effect to Article 3 of the Directive of 2001.]
+
+(2) A person who manufactures or imports, or who sells (whether by retail or otherwise) or invites an offer to purchase, a tobacco product in relation to which there is a contravention of regulations under this section shall be guilty of an offence.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F75: Inserted (1.07.2009) by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 10, S.I. No. 405 of 2008.
+
+### 40. Requirement to provide information on and test tobacco products.
+
+**40.**—(1) A manufacturer or importer of tobacco products shall provide the Office with such information (within such period as it may, from time to time by notice in writing, require) relating to—
+
+(*a*) the tobacco products concerned,
+
+(*b*) tobacco products of such a class as the Office may specify, or
+
+(*c*) tobacco products that are sold under such brand name as may be so specified,
+
+including information relating to their composition or properties, and to their sale or marketing.
+
+(2) The Office may by notice in writing require the manufacturer or importer of a tobacco product to carry out such tests as are specified in the notice on such tobacco products manufactured by him or her as are so specified.
+
+(3) The manufacturer or importer of a tobacco product shall, when carrying out a test pursuant to a requirement under *subsection (2)*, permit such person as may be specified in a notice under that subsection to attend at the place or places where such test is carried out and observe its being carried out.
+
+(4) A manufacturer or importer who carries out a test pursuant to a notice under *subsection (2)* shall, not later than 14 days from its obtaining the results of the test, furnish the Office with a statement of those results which shall contain such information and be in such form as the Office may specify.
+
+(5) A person who contravenes this section or a requirement under this section shall be guilty of an offence.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F76: Substituted by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 11, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C6: Prospective affecting provision: section substituted by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 11, not commenced as of date of revision.
+>
+> F76[**40.**—(1) A manufacturer or importer of tobacco products shall provide the Office with such information (within such period as it may, from time to time by notice in writing, require) relating to—
+>
+> (*a*) the tobacco products concerned,
+>
+> (*b*) tobacco products of such a class as the Office may specify, or
+>
+> (*c*) tobacco products that are sold under such brand name as may be so specified,
+>
+> including information relating to—
+>
+> (i) the composition or properties of tobacco products, and
+>
+> (ii) their sale or marketing.
+>
+> (2) The Office may, by notice in writing, require the manufacturer or importer of a tobacco product to carry out such tests as are specified in the notice on such tobacco products manufactured by him or her as are so specified.
+>
+> (3) The manufacturer or importer of a tobacco product shall, when carrying out a test pursuant to a requirement under *subsection (2)*, permit such person as may be specified in a notice under that subsection to attend at the place or places where such test is carried out and observe its being carried out.
+>
+> (4) A manufacturer or importer who carries out a test pursuant to a notice under *subsection (2)* shall, not later than 14 days from his or her obtaining the results of the test, furnish the Office with a statement of those results which shall contain such information and be in such form as the Office may specify.
+>
+> (5) A person who contravenes this section or a requirement under this section shall be guilty of an offence.
+
+### 41. Publication of certain information etc.
+
+**41.**—(1) The Office may publish such information and such results of tests received under *section 40* in such manner as it considers appropriate.
+
+(2) Where the Office proposes to publish information or results of tests under *subsection (1)* it shall, not later than 21 days before so doing, notify the manufacturer or importer concerned, in writing, that it so proposes.
+
+(3) The High Court may, if of the opinion that the publication of information or the results of tests in accordance with *subsection (1)* would result in the disclosure of a secret manufacturing process, direct the Office not to publish such information or results, upon application being made to the High Court in that behalf by the manufacturer or importer concerned.
+
+(4) An application referred to in *subsection (3)* may be brought not later than 7 days from the receipt of the notification under *subsection (2)*.
+
+(5) The Office shall comply with a direction under *subsection (3)*.
+
+(6) Proceedings under *subsection (3)* shall be held *in camera*.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F77: Substituted by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 12, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C7: Prospective affecting provision: section substituted by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 12, not commenced as of date of revision.
+>
+> F77[**41.**—(1) The Office may publish such information and such results of tests received under *section 40* in such manner as it considers appropriate.
+>
+> (2) Where the Office proposes to publish information or results of tests under *subsection (1)* it shall, not later than 21 days before so doing, notify the manufacturer or importer concerned, in writing, that it so proposes.
+>
+> (3) The High Court may, if of the opinion that the publication of information or the results of tests in accordance with *subsection (1)* would result in the disclosure of a secret manufacturing process, direct the Office not to publish such information or results, upon application being made to the High Court in that behalf by the manufacturer or importer concerned.
+>
+> (4) An application referred to in *subsection (3)* may be brought not later than 21 days from the receipt of the notification under *subsection (2)*.
+>
+> (5) The Office shall comply with a direction under *subsection (3)*.
+>
+> (6) Proceedings under *subsection (3)* shall be held in camera.
+
+### 42. Prohibition on certain assertions in relation to tobacco products.
+
+F78[**42.**—(1) Where the packaging of a tobacco product or any printed material attached to or accompanying a tobacco product or such packaging bears an assertion that—
+
+(*a*) smoking does not cause life threatening diseases,
+
+(*b*) the smoking or consumption of one brand or class of tobacco product is less harmful than the smoking or consumption of others,
+
+(*c*) the smoking of tobacco products is not addictive,
+
+(*d*) filters attached to, or additives to or other ingredients of, a tobacco product render it less harmful than tobacco products that do not have filters attached, or do not contain such additives or ingredients,
+
+the manufacturer, importer and distributor of the tobacco product concerned shall each be guilty of an offence.
+
+(2) It shall be an offence for a person to sell by retail a tobacco product where the package containing the product bears an assertion referred to in *subsection (1)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F78: Substituted (1.07.2009) by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 13, S.I. No. 405 of 2008.
+
+### 43. Offences relating to sale by retail of tobacco products.
+
+F79[**43.**—(1) F80[It shall] be an offence for a person to sell a tobacco product by retail, or cause a tobacco product to be sold by retail, by means of self service.
+
+(2) F81[...]
+
+F82[(3) A licensee shall ensure that tobacco products sold by him or her are kept in a closed container or dispenser that is not visible or accessible to any person other than the licensee, or a person employed by him or her in connection with the business of selling goods by retail while so employed.]
+
+(4) A person registered under *section 37* shall ensure that—
+
+(*a*) the registration number in respect of him or her is affixed to the container, dispenser or vending machine, as the case may be,
+
+(*b*) subject to *paragraph (c)* and the European Communities (Requirements to Indicate Product Prices) Regulations 2002 (S.I. No. 639 of 2002)—
+
+(i) no notice, sign or display shall be displayed, and
+
+(ii) no leaflet, circular, pamphlet or brochure shall be issued to the public or given to a purchaser of a product,
+
+at any place, indicating that tobacco products may be purchased at the premises concerned,
+
+(*c*) a sign is displayed at the premises concerned—
+
+(i) in such a manner and form as may be prescribed by regulations made by the Minister,
+
+(ii) informing the public that tobacco products may be sold at those premises to persons who have attained the age of 18 years, and
+
+(iii) providing such other information as may be so prescribed.
+
+(5) (*a*) F83[A licensee] may provide such information relating to a tobacco product sold by him or her to a member of the public intending to purchase a tobacco product as may be prescribed by regulations made by the Minister.
+
+(*b*) Regulations under *paragraph (a)* may provide that F84[the licensee] may—
+
+(i) notwithstanding *subsection (3)*, show the member of the public concerned one packet only of each tobacco product sold by him or her, or a reproduction thereof, or
+
+(ii) show the member of the public concerned a pictorial list consisting of visual images of packets of the tobacco products sold by him or her, provided that—
+
+(I) each such image is not greater in size than the size of the packet concerned,
+
+(II) the list does not contain more than one image of the same product, and
+
+(III) the list or each such image contains a warning in such form and of such a type as may be prescribed by those regulations.
+
+(6) A person who contravenes *subsection (3)* or *(4)*, or regulations under *subsection (5)*, shall be guilty of an offence.
+
+(7) For the purposes of *subsection (1)*, a tobacco product shall be deemed to have been sold by means of self service where the purchaser was permitted to supply himself or herself, either upon or before payment, with the tobacco product concerned whether by means of the depositing of money or a token (intended to be used as a substitute for money) in a machine containing the tobacco product or otherwise.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F79: Substituted (1.07.2009) by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 14, S.I. No. 405 of 2008.
+>
+> F80: Substituted (29.09.2025) by *Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023* (35/2023), s. 45(a), S.I. No. 269 of 2004.
+>
+> F81: Deleted (29.09.2025) by *Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023* (35/2023), s. 45(b), S.I. No. 269 of 2004.
+>
+> F82, F83, F84: Substituted (2.02.2026) by *Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023* (35/2023), s. 45(c), (e)(i), (ii), S.I. No. 737 of 2024.
+>
+> F85: Substituted by *Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023* (35/2023), s. 45(d), not commenced as of date of revision.
+>
+> F86: Inserted by *Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023* (35/2023), s. 45(d), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C8: Prospective affecting provision: subs. (4) substituted, subs. (4A) inserted by *Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023* (35/2023), s. 45(d), not commenced as of date of revision.
+>
+> F79[**43.**— …
+>
+> F85[(4) Subject to *subsection (4A)* and the European Communities (Requirements To Indicate Product Prices) Regulations 2002 (S.I. No. 639 of 2002), a licensee shall ensure that—
+>
+> (*a*) no notice, sign or display shall be displayed, and
+>
+> (*b*) no leaflet, circular, pamphlet or brochure shall be issued to the public or given to a purchaser of a product,
+>
+> at any place, indicating that tobacco products may be purchased at the premises concerned.
+>
+> F86[(4A) Notwithstanding *subsection (4)*, a sign may be displayed indicating that tobacco products may be purchased at the premises—
+>
+> (*a*) in such a manner and form as may be prescribed by regulations made by the Minister,
+>
+> (*b*) informing the public that tobacco products may be sold at those premises to persons who have attained the age of 18 years, and
+>
+> (*c*) providing such other information as may be so prescribed.]
+>
+> ...]
+>
+> **Editorial Notes:**
+>
+> E29: Power pursuant to subs. (4A) exercised (2.02.2026) by *Public Health (Tobacco) (Retail Sign) Regulations 2026* (S.I. No. 29 of 2026), in operation as per reg. 1(2).
+>
+> E30: Power pursuant to subs. (5) exercised (1.07.2009) by *Public Health (Tobacco) (Product Information) Regulations 2009* (S.I. No. 123 of 2009), in operation as per reg. 2.
+>
+> E31: Power pursuant to subs. (4)(c) exercised (1.07.2009) by *Public Health (Tobacco) (Retail Sign) Regulations 2009* (S.I. No. 57 of 2009), in operation as per art. 2; revoked (2.02.2026) by *Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023* (35/2023), s. 9(2)(c), S.I. No. 737 of 2024.
+>
+> E32: Power pursuant to subs. (2) exercised (1.07.2009) by *Public Health (Tobacco) (Self Service Vending Machines) Regulations 2009* (S.I. No. 42 of 2009), in operaton as per reg. 2; revoked (2.02.2026) by *Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023* (35/2023), s. 9(2)(b), S.I. No. 737 of 2024.
+
+### 44. Exemption from section 43.
+
+**44.**—F87[(1) This section shall apply to a person who—
+
+(*a*) carries on, in whole, the business of selling by retail—
+
+(i) tobacco products, or
+
+(ii) products used for the purposes of or in connection with smoking tobacco products,
+
+unless he or she is a subsidiary of a company that does not carry on in whole such business, or
+
+(*b*) carries on, in part, the business of selling tobacco products by retail and does not carry on any business that consists, in whole or in part, of selling cigarettes.]
+
+(2) The Minister may issue a certificate to a person to whom this section applies, upon application being made in that behalf by that person, stating that *section 43* shall not apply to him or her in respect of such premises as are specified in the certificate, and accordingly, where the Minister issues such a certificate, *section 43* shall not apply to the person in relation to those premises while such certificate remains in force.
+
+(3) The Minister shall not issue a certificate where—
+
+(*a*) the person making the application concerned is in contravention of regulations under this section, or
+
+(*b*) there is a contravention of such regulations in respect of the premises to which the application concerned relates.
+
+(4) The Minister may make regulations for the purposes of this section, and, without prejudice to the generality of the foregoing, such regulations may provide—
+
+(*a*) for the minimum size of premises to which a certificate under this section shall apply,
+
+(*b*) that such premises shall not form part of another premises in which products other than those referred to in *subsection (1)* are sold,
+
+(*c*) for the proportion of tobacco products that may be sold in the form of cigarettes on those premises,
+
+(*d*) for the form of an application under this section and the information and documentation that shall accompany such application,
+
+(*e*) for the payment of fees by a person who makes an application under this section, for the purposes of defraying expenses incurred in considering such application or issuing a certificate under this section, or
+
+(*f*) the period in respect of which a certificate under this section shall continue in force.
+
+(5) The Minister may revoke a certificate under this section if—
+
+(*a*) the person to whom the certificate is issued—
+
+(i) contravenes regulations under this section, or
+
+(ii) ceases to be a person to whom this section applies,
+
+or
+
+(*b*) there is a contravention of such regulations in relation to the premises concerned.
+
+(6) In this section “subsidiary” has the same meaning as it has in section 155 of the Companies Act 1963.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F87: Substituted (16.07.2009) by *Public Health (Tobacco) (Amendment) Act 2009* (23/2009), s. 7, commenced on enactment.
+
+### 45. Prohibition on sale of tobacco products to persons under 18 years of age.
+
+**45.**—F88[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F88: Deleted (22.12.2023) by *Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023* (35/2023), s. 9(1)(c), S.I. No. 669 of 2023.
+
+### 46. Display of signs.
+
+F89[**46.**—(1) There shall be displayed at all times at all premises (in part of which the smoking of tobacco products is prohibited) to which members of the public have access, either as of right or with the permission of the occupier of those premises, a sign indicating clearly those parts of the premises in which smoking is permitted and those parts of the premises in which smoking is prohibited, and each such sign shall display the name of the occupier or other person in charge of the premises concerned and the name of the person to whom a complaint may be made by a member of the public for the time being present on the premises who observes another person smoking a tobacco product in a part of the premises in which smoking is prohibited.
+
+(2) There shall be displayed at all times at all premises (in which the smoking of tobacco products is prohibited) to which members of the public have access, either as of right or with the permission of the occupier of those premises, a sign indicating clearly that smoking is prohibited on those premises, and each such sign shall display the name of the occupier or other person in charge of the premises concerned and the name of the person to whom a complaint may be made by a member of the public for the time being present on the premises who observes another person smoking a tobacco product on those premises.
+
+(3) There shall be displayed at all times in a public service vehicle a sign stating that smoking is not permitted in that vehicle.
+
+(4) Where there is a contravention of *subsection (1)* or *(2)*, the occupier and person in charge of the premises concerned shall each be guilty of an offence.
+
+(5) Where there is a contravention of *subsection (3)*, the owner and person in charge of the public service vehicle concerned shall each be guilty of an offence.
+
+(6) In this section "owner", when used in relation to a mechanically propelled vehicle that is the subject of a hire-purchase agreement, means the person entitled to be in possession of the vehicle under the agreement.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F89: Substituted (29.03.2004) by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 15, S.I. No. 111 of 2004.
+
+### 47. Prohibition or restriction on smoking of tobacco products.
+
+F90[**47.**—(1) Subject to *subsection (7)*, the smoking of a tobacco product in a specified place is prohibited.
+
+(2) A person who contravenes *subsection (1)* shall be guilty of an offence.
+
+(3) Where in relation to a specified place there is a contravention of *subsection (1)*, the occupier, manager and any other person for the time being in charge of the specified place concerned shall each be guilty of an offence.
+
+(4) In proceedings for an offence under this section, it shall be a defence for a person against whom such proceedings are brought to show that he or she made all reasonable efforts to ensure compliance with this section.
+
+(5) The Tobacco (Health Promotion and Protection) Regulations 1995 (S.I. No. 359 of 1995) are revoked.
+
+(6) This section has been enacted for the purposes of reducing the risk to and protecting the health of persons.
+
+(7) This section shall not apply to—
+
+(*a*) a dwelling,
+
+(*b*) a prison,
+
+(*c*) subject to *paragraph (d)*, a place or premises, or a part of a place or premises, that is wholly uncovered by any roof, whether fixed or movable,
+
+(*d*) an outdoor part of a place or premises covered by a fixed or movable roof, provided that not more than 50 per cent of the perimeter of that part is surrounded by one or more walls or similar structures (inclusive of windows, doors, gates or other means of access to or egress from that part),
+
+(*e*) a bedroom in—
+
+(i) a premises registered under Part III of the Tourist Traffic Act 1939 in a register established and maintained under that Part,
+
+(ii) a premises for the time being specified in a list published, or caused to be published, under section 9 of the Tourist Traffic Act 1957, or
+
+(iii) any other premises in which a person carries on business, being a business that consists of or includes the provision, in those premises, of sleeping accommodation to members of the public,
+
+(*f*) a room that, in furtherance of charitable objects, is used solely for the provision of living accommodation,
+
+(*g*) in premises owned or occupied by a person whose main objects are the provision of education, a room that, in furtherance of those objects (other than objects relating to the provision of primary or secondary education), is used solely for the provision of living accommodation,
+
+(*h*) a nursing home,
+
+(*i*) a hospice,
+
+(*j*) a psychiatric hospital, or
+
+(*k*) the Central Mental Hospital.
+
+(8) In this section—
+
+"college" means a university, institute of technology or other establishment at which third level eduction is provided;
+
+F91["health premises" means any hospital, sanatorium, home, laboratory, clinic, health care centre or similar premises required for the provision of services under the Health Acts 1947 to 2004, provided and maintained by the Health Service Executive;]
+
+"hospice" means an institution—
+
+(*a*) for the maintenance of, and
+
+(*b*) in which palliative care is provided to,
+
+persons (a majority of whom are over 18 years of age) who suffer from illnesses or diseases which are active, progressive and advanced in nature and which are no longer curable by means of the administration of existing or available medical treatments, but does not include—
+
+(i) an institution in which a majority of the persons being maintained are being treated for acute illnesses, or
+
+(ii) a maternity home within the meaning of the Registration of Maternity Homes Act 1934;
+
+"nursing home" has the same meaning as it has in the Health (Nursing Homes) Act 1990, except that it includes—
+
+(*a*) an institution to which paragraph (a), (e) or (g) of section 2(1) of that Act applies, and
+
+(*b*) a premises in which a majority of the persons being maintained are members of a religious order, or priests or clergy of any religion;
+
+"place of work" has the same meaning as it has in the Safety, Health and Welfare at Work Act 1989;
+
+"prison" means a place of custody administered by the Minister for Justice, Equality and Law Reform, and includes—
+
+(*a*) F92[...]
+
+(*b*) a place provided under section 2 of the Prisons Act 1970,
+
+(*c*) a place specified under section 3 of the Prisons Act 1972, and
+
+(*d*) any part of a Garda Síochána station used for the detention of persons;
+
+"psychiatric hospital" means—
+
+(*a*) a mental institution within the meaning of the Mental Treatment Acts 1945 to 1966, or
+
+(*b*) an approved centre under the Mental Health Act 2001 ;
+
+F93[...]
+
+"school" has the same meaning as it has in the Education Act 1998;
+
+"specified place" means—
+
+(*a*) a place of work,
+
+(*b*) an aircraft, train, ship or other vessel, public service vehicle, or a vehicle used for the carriage of members of the public for reward other than a public service vehicle, insofar as it is a place of work,
+
+(*c*) a health premises, insofar as it is a place of work,
+
+(*d*) a hospital that is not a health premises, insofar as it is a place of work,
+
+(*e*) a school or college, insofar as it is a place of work,
+
+(*f*) a building to which the public has access, either as of right or with the permission of the owner or occupier of the building, and which belongs to, or is in the occupation of—
+
+(i) the State,
+
+(ii) a Minister of the Government,
+
+(iii) the Commissioners of Public Works in Ireland, or
+
+(iv) a body established by or under an Act of the Oireachtas,
+
+insofar as it is a place of work,
+
+(*g*) a cinema, theatre, concert hall or other place normally used for indoor public entertainment, insofar as it is a place of work,
+
+(*h*) a licensed premises, insofar as it is a place of work, or
+
+(*i*) a registered club, insofar as it is a place of work.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F90: Substituted (29.03.2004) by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 16, S.I. No. 111 of 2004.
+>
+> F91: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 6 part 22 item 4, S.I. No. 887 of 2004.
+>
+> F92, F93: Deleted (7.04.2017) by *Prisons Act 2015* (57/2015), s. 15(a), (b), S.I. No. 134 of 2017.
+>
+> F94: Substituted by *Mental Health Act 2026* (11/2026), s. 240(a), not commenced as of date of revision.
+>
+> F95: Deleted by *Mental Health Act 2026* (11/2026), s. 240(b), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C9: Prospective affecting provision: subs. (7)(j) substituted and definition of "psychiatric hospital" in subs. (8) deleted by *Mental Health Act 2026* (11/2026), s. 240(a), (b), not commenced as of date of revision.
+>
+> (7) ...
+>
+> F94[(*j*) a registered acute mental health centre (within the meaning of section 2 of the Mental Health Act 2026), or]
+>
+> (8) ...
+>
+> "prison" means a place of custody administered by the Minister for Justice, Equality and Law Reform, and includes—
+>
+> …
+>
+> F95[...]
+>
+> F93[...]
+>
+> "school" has the same meaning as it has in the Education Act 1998;
+>
+> **Editorial Notes:**
+>
+> E33: Power pursuant to section exercised (23.01.2004) by *Tobacco Smoking (Prohibition) (Revocation) Regulations 2004* (S.I. No. 31 of 2004).
+>
+> E34: Previous affecting provision: power pursuant to section exercised (26.01.2004) by *Tobacco Smoking (Prohibition) Regulations 2003* (S.I. No. 481 of 2003), in operation as per reg. 1(2); revoked before commencement (23.01.2004) by *Tobacco Smoking (Prohibition) (Revocation) Regulations 2004* (S.I. No. 31 of 2004), reg. 2.
+
+### 48. Authorised officer.
+
+F96[**48.** (1) The Health Service Executive shall appoint such one or more persons, as it considers appropriate, to be an authorised officer or authorised officers for the purposes of F97[this Act, the Act of 2015 and the Act of 2023].
+
+(2) A person appointed to be an authorised officer under this section shall, on his or her appointment, be furnished by the Health Service Executive with a warrant of his or her appointment, and when exercising a power conferred by this Act shall, if requested by any person thereby affected, produce such warrant to that person for inspection.
+
+(3) An appointment under this section as an authorised officer shall cease—
+
+(*a*) if the Health Service Executive revokes the appointment,
+
+(*b*) if the appointment is for a fixed period, on expiry of that period, or
+
+(*c*) in the case of a person who is a member of staff of the Health Service Executive, if he or she ceases to be a member of staff.
+
+F98[(4) For the purposes of this Act, the Act of 2015 and the Act of 2023, an authorised officer may—
+
+(*a*) subject to *subsection (6)*, enter (if necessary by the use of reasonable force), at all reasonable times, any premises at which he or she has reasonable grounds for believing that—
+
+(i) any trade, business or activity connected with the manufacture, processing, disposal, export, import, distribution, sale, storage, packaging, labelling or retail packaging of a tobacco product or a nicotine inhaling product is or has been carried on, or
+
+(ii) books, records or other documents (including documents stored in non-legible form) relating to such trade, business or activity are kept,
+
+(*b*) at all reasonable times enter (if necessary by the use of reasonable force) any specified place,
+
+(*c*) at such premises inspect and take copies of, any labels, retail packaging of tobacco products or nicotine inhaling products, books, records, other documents (including documents stored in non legible form) or extracts therefrom, which he or she finds in the course of his or her inspection,
+
+(*d*) remove any such labels, retail packaging, books, records or documents from such premises and detain them for such period as he or she reasonably considers to be necessary for the purposes of his or her functions under this Act, the Act of 2015 or the Act of 2023,
+
+(*e*) carry out, or have carried out, such examinations, tests, inspections and checks of—
+
+(i) the premises,
+
+(ii) any tobacco product or nicotine inhaling product, retail packaging of tobacco products or nicotine inhaling products or any article or substance used in the manufacture, processing, labelling, retail packaging or storage of tobacco products or nicotine inhaling products, at the premises, or
+
+(iii) any equipment, machinery or plant at the premises,
+
+as he or she reasonably considers to be necessary for the purposes of his or her functions under this Act, the Act of 2015 or the Act of 2023,
+
+(*f*) require any person at the premises or the owner or person in charge of the premises and any person employed there to give to him or her such assistance and information and to produce to him or her such labels, retail packaging of tobacco products, retail packaging of nicotine inhaling products, tobacco products, nicotine inhaling products, books, documents or other records (and in the case of documents or records stored in non-legible form, produce to him or her a legible reproduction thereof) that are in that person’s power or procurement, as he or she may reasonably require for the purposes of his or her functions under this Act, the Act of 2015 or the Act of 2023,
+
+(*g*) take samples of any tobacco product, nicotine inhaling product, retail packaging of tobacco products or retail packaging of nicotine inhaling products or any article or substance used in the manufacture, processing, labelling, retail packaging or storage of tobacco products or nicotine inhaling products found at the premises for the purposes of analysis and examination,
+
+(*h*) direct that such tobacco products, nicotine inhaling products or retail packaging of tobacco products or nicotine inhaling products found at the premises as he or she, upon reasonable grounds, believes contravene a provision of this Act, the Act of 2015 or the Act of 2023 not be sold or distributed or moved from the premises, without his or her consent,
+
+(*i*) secure for later inspection any premises or part of any premises in which a tobacco product, nicotine inhaling product, retail packaging of tobacco products or nicotine inhaling products, substance or article used in the manufacture, processing, labelling, retail packaging or storage of tobacco products or nicotine inhaling products is found or ordinarily kept, or records, labels, retail packaging of tobacco products or nicotine inhaling products, tobacco products, nicotine inhaling products, books or documents are found or ordinarily kept, for such period as may reasonably be necessary for the purposes of his or her functions under this Act, the Act of 2015 or the Act of 2023, or
+
+(*j*) take possession of and remove from the premises for examination and analysis any tobacco product, nicotine inhaling products, retail packaging of tobacco products or nicotine inhaling products or any substance or article used in the manufacture, processing, labelling, retail packaging or storage of tobacco products or nicotine inhaling products found there, and detain them for such period as he or she considers reasonably necessary for the purposes of his or her functions under this Act, the Act of 2015 or the Act of 2023.]
+
+F105[(4A) An authorised officer may, for the purposes of obtaining any information which may be required in relation to a matter under investigation under this Act, the Act or 2015 or the Act of 2023, at all reasonable times—
+
+(*a*) pay or make tender of payment for a tobacco product or nicotine inhaling product, as the case may be, or
+
+(*b*) confirm any other information in relation to a tobacco product or nicotine inhaling product, as the case may be, for the purposes of the investigation.]
+
+(5) When performing a function under F99[this Act, the Act of 2015 or the Act of 2023], an authorised officer may, subject to any warrant under *subsection (7)*, be accompanied by such number of authorised officers, members of the Garda Síochána or officers of the Revenue Commissioners as he or she considers appropriate.
+
+(6) An authorised officer shall not enter a dwelling, other than—
+
+(*a*) with the consent of the occupier, or
+
+(*b*) in accordance with a warrant issued under *subsection (7)*.
+
+(7) Upon the application of an authorised officer, a judge of the District Court may, if satisfied that there are reasonable grounds for believing that—
+
+F100[(*a*) a tobacco product, nicotine inhaling product, retail packaging of tobacco products or nicotine inhaling products or any substance or article used in the manufacture, processing, labelling, retail packaging or storage of a tobacco product or nicotine inhaling product is to be found in any dwelling or premises, or is being or has been subjected to any process or stored in any dwelling or premises,]
+
+(*b*) labels, books, records or other documents (including documents stored in non-legible form) referred to in *subsection (4)(a)(ii)* are being stored or kept in any dwelling or premises, or
+
+(*c*) a dwelling is occupied in whole or in part by an undertaking engaged in any trade, business or activity referred to in *subsection (4)(a)(i)*,
+
+issue a warrant authorising a named authorised officer accompanied by such other authorised officers, members of the Garda Síochána or officers of the Revenue Commissioners as may be necessary, at any time or times, within one month of the date of issue of the warrant, to enter the dwelling or premises (as the case may be) and perform the functions of an authorised officer under *paragraphs (c)*, *(d)*, *(e)*, *(f)*, *(g)*, *(h)*, *(i)* and *(j)* of *subsection (4)*.
+
+(8) Any person who obstructs or interferes with an authorised officer, a member of the Garda Síochána or officers of the Revenue Commissioners in the course of exercising a power conferred on him or her by this Act or a warrant under *subsection (7)* or impedes the exercise by the officer or member, as the case may be, of such power or fails or refuses to comply with a request or requirement of, or to answer a question asked by, the officer or member pursuant to this section, or in purported compliance with such request or requirement or in answer to such question gives information to the officer or member that he or she knows to be false or misleading in any material respect, shall be guilty of an offence.
+
+(9) Where an authorised officer, upon reasonable grounds, believes that a person has committed an offence under F101[this Act, the Act of 2015 or the Act of 2023], he or she may require that person to provide him or her with his or her name and the address at which he or she ordinarily resides and, if the authorised officer thinks it necessary, to produce corroborative evidence of his or her name and address.
+
+F102[(10) Where an authorised officer has—
+
+(*a*) directed pursuant to *subsection (4)(h)* that tobacco products or nicotine inhaling products or retail packaging of tobacco products not be sold, distributed or moved, or
+
+(*b*) taken possession of and removed pursuant to *subsection (4)(j)* any tobacco product or nicotine inhaling products or retail packaging of tobacco products,
+
+he or she may apply to the District Court for an order that any such tobacco product or nicotine inhaling product or retail packaging be destroyed, and the judge of the District Court may grant such an order if he or she is satisfied that such product or retail packaging contravenes a provision of this Act, the Act of 2015 or the Act of 2023.]
+
+(11) A statement or admission made by a person pursuant to a requirement under *subsection (4)(f)* shall not be admissible as evidence in proceedings brought against that person for an offence (other than an offence under *subsection (8)*).
+
+(12) A person who falsely represents himself or herself to be an authorised officer shall be guilty of an offence.
+
+(13) The costs (including ancillary costs) of any possession, detention or destruction carried out by the Health Service Executive under *subsections (4)* and *(10)* shall be recoverable as a simple contract debt in any court of competent jurisdiction from a person convicted of an offence under F103[this Act, the Act of 2015 or the Act of 2023].
+
+(14) In this section—
+
+F104["premises" means any place, ship or other vessel, aircraft, railway wagon or other vehicle, and includes a container used to transport tobacco products or nicotine inhaling products or retail packaging of tobacco products or any article or substance used in the manufacture, processing or storage of tobacco products or nicotine inhaling products or retail packaging of tobacco products;]
+
+“record” includes, in addition to a record in writing—
+
+(*a*) a disc, tape, sound-track or other device in which information, sounds or signals are embodied so as to be capable (with or without the aid of some other instrument) of being reproduced in legible or audible form,
+
+(*b*) a film, tape or other device in which visual images are embodied so as to be capable (with or without the aid of some other instrument) of being reproduced in visual form, and
+
+(*c*) a photograph,
+
+and any reference to a copy of a record includes—
+
+(i) in the case of a record to which *paragraph (a)* applies, a transcript of the sounds or signals embodied therein,
+
+(ii) in the case of a record to which *paragraph (b)* applies, a still reproduction of the images embodied therein, and
+
+(iii) in the case of a record to which *paragraphs (a)* and *(b)* apply, such a transcript together with such a still reproduction;
+
+“retail packaging” has the same meaning as it has in section 2 of the Act of 2015;
+
+“tobacco product” includes a tobacco product within the meaning of section 2 of the Act of 2015.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F96: Substituted (20.05.2016) by *Public Health (Standardised Packaging of Tobacco) Act 2015* (4/2015), s. 23, S.I. No. 270 of 2016.
+>
+> F97, F98, F99, F100, F101, F102, F103, F104: Substituted (22.12.2023) by *Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023* (35/2023), s. 46(a), (b), (d)-(i), S.I. No. 669 of 2023.
+>
+> F105: Inserted (22.12.2023) by *Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023* (35/2023), s. 46(c), S.I. No. 669 of 2023.
+>
+> **Modifications (not altering text):**
+>
+> C10: Section applied with modifications (20.05.2016) by *European Union (Manufacture, Presentation and Sale of Tobacco and Related Products) Regulations 2016* (S.I. No. 271 of 2016), reg. 38, in operation as per reg. 1(2).
+>
+> *Construction of references (authorised officers)*
+>
+> **38.** Section 48 of the Public Health (Tobacco) Act 2002 (No. 6 of 2002) (amended by section 23 of the Public Health (Standardised Packaging of Tobacco) Act 2015 (No. 4 of 2015)) shall apply for the purposes of these Regulations subject to the following modifications:
+>
+> (*a*) references to “this Act” shall be construed as references to “these Regulations”;
+>
+> (*b*) references to “this Act and the Act of 2015” shall be construed as references to “these Regulations”;
+>
+> (*c*) references to “this Act or the Act of 2015” shall be construed as references “these Regulations”;
+>
+> (*d*) the reference to “this Act or under the Act of 2015” shall be construed as a reference “these Regulations”;(e) references to “tobacco products” shall be construed as references to “relevant products”;
+>
+> (*f*) references to “retail packaging” shall be construed as references to “packaging”;
+>
+> (*g*) subsection (4)(a)(i) shall be construed as including a reference to “commercial communication, promotion” after “labelling,”;
+>
+> (*h*) it shall include the following additional subsection:
+>
+> “(4A) An authorised officer may, for the purposes of obtaining any information which may be required in relation to a matter under investigation under these Regulations, at all reasonable times—
+>
+> (*a*) pay or make tender of payment for a relevant product, or
+>
+> (*b*) confirm any other information in relation to a relevant product for the purposes of the investigation.”;
+>
+> (*i*) any other necessary modifications.
+>
+> **Editorial Notes:**
+>
+> E35: Previous affecting provision: subs. (2) substituted and subs. (3)(b) amended (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 6 part 22 item 5, S.I. No. 887 of 2004; section substituted (20.05.2016) as per F-note above.
+>
+> E36: Previous affecting provision: subss. (4), (5), (6), (7), (8), (9) substituted (29.03.2004) by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 17, S.I. No. 111 of 2004; section substituted (20.05.2016) as per F-note above.
+
+### 49. Indemnification of authorised officers.
+
+**49.**—(1) Where the Office is satisfied that an authorised officer appointed by it, or any other member of the staff of the Office has discharged his or her duties in relation to the enforcement of the provisions of this Act in a *bona fide* manner, the Office shall indemnify the authorised officer, or such member of the staff of the Office against all actions or claims howsoever arising in respect of the discharge by him or her of his or her duties.
+
+(2) Where F106[the Health Service Executive] is satisfied that an authorised officer appointed by it has discharged his or her duties in relation to the enforcement of the provisions of this Act in a *bona fide* manner, F107[the Health Service Executive] shall indemnify the authorised officer against all actions or claims howsoever arising in respect of the discharge by him or her of his or her duties.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F106, F107: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 6 part 22 item 6, S.I. No. 887 of 2004.
+
+### 50. Taking of samples by authorised officers.
+
+F108[**50.**—(1) Where an authorised officer takes a sample of a tobacco product or F109[a sample of a tobacco product or a nicotine inhaling product or a sample of any substance or article used in the manufacturing, processing or storage of tobacco products or nicotine inhaling products], he or she shall divide the sample into 3 approximately equal parts, and place each part into separate containers which he or she shall forthwith seal and mark in such a manner as to identify it as part of the sample taken by that authorised officer.
+
+(2) Where an authorised officer has complied with *subsection (1)* he or she shall—
+
+(*a*) offer one of the sealed containers to the owner or person for the time being in charge or possession of the F110[tobacco product or nicotine inhaling product], substance or article from which the sample concerned was taken,
+
+(*b*) retain one of the sealed containers, and
+
+(*c*) forward, or cause to be forwarded, one of the sealed containers to a designated laboratory for the purposes of analysis.
+
+F111[(3) Where a tobacco product or a nicotine inhaling product, or any substance or article used in the manufacturing, processing or storage of a tobacco product or a nicotine inhaling product is contained in a container and its division into parts is (for whatever reason) not practicable, an authorised officer, who wishes to take samples of such tobacco product or nicotine inhaling product, substance or article for the purposes of analysis, shall take possession of 3 such containers belonging to the same batch, and each such container shall be deemed to be part of a sample for the purposes of *subsection (1)*, and the provisions of *subsections (1)* and *(2)* shall apply thereto accordingly.]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F108: Substituted (29.03.2004) by *Public Health (Tobacco) (Amendment) Act 2004* (6/2004), s. 18, S.I. No. 111 of 2004.
+>
+> F109, F110, F111: Substituted (22.12.2023) by *Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023* (35/2023), s. 47(a), (b), (c), S.I. No. 669 of 2023.
+
+### 51. Laboratories.
+
+**51.**—(1) The Minister may, for the purposes of this Act designate, by notice in writing published in *Iris Oifigiúil*—
+
+(*a*) a laboratory as a laboratory at which samples taken under this Act may be analysed (in this Act referred to as a “designated laboratory”), and
+
+(*b*) a person as being a person who, or a class of persons the members of which, may, at a designated laboratory, analyse samples taken under this Act, and each such person or member is in this Act referred to as a “designated analyst”.
+
+(2) As soon as practicable after a sample taken by an authorised officer under this Act has been received at a designated laboratory it shall be analysed and the composition, the amount and concentration of its ingredients and any other properties of the sample shall be determined by a designated analyst at that laboratory.
+
+(3) As soon as practicable after compliance with *subsection (2)* a designated analyst engaged in the analysis of samples at the designated laboratory concerned shall forward the results of the analysis carried out on the sample concerned—
+
+(*a*) in the case of a sample forwarded or caused to be forwarded under *section 50* by an authorised officer appointed by the Office, to the Office, or
+
+(*b*) in the case of a sample forwarded or caused to be forwarded under that section by an authorised officer appointed by F112[the Health Service Executive], to F113[the Health Service Executive].
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F112, F113: Substituted (1.01.2005) by *Health Act 2004* (42/2004), s. 75 and sch. 6 part 22 item 7, S.I. No. 887 of 2004.
+
+### 52. Evidence in proceedings for an offence.
+
+**52.**—(1) In proceedings for an offence consisting of a contravention of this Act, a certificate purporting to be signed by a person employed or engaged at a designated laboratory stating the capacity in which that person is so employed or engaged and stating any one or more of the following, namely—
+
+(*a*) that the person received a sample submitted to the designated laboratory,
+
+(*b*) that, for such period as is specified in the certificate, the person had in his or her custody a sample so submitted, or
+
+(*c*) that the person gave to such other person as is specified in the certificate a sample so submitted,
+
+shall unless the contrary is proved be evidence of the matters stated in the certificate.
+
+(2) In proceedings for an offence consisting of a contravention of this Act, a certificate purporting to be signed by a designated analyst stating any one or more of the following, namely—
+
+(*a*) that he or she carried out any procedure for the purpose of detecting the presence of any substance in the sample so submitted, or
+
+(*b*) that the sample concerned contained such substance or such amount thereof as is specified in the certificate,
+
+shall unless the contrary is proved be evidence of the matters stated in the certificate.
+
+(3) In proceedings for an offence under this Act the court may, if it considers that the interests of justice so require, direct that oral evidence of the matters stated in a certificate under this section be given and the court may, for the purpose of receiving oral evidence, adjourn the proceedings to a later date.
+
+(4) A certificate under this section shall be in such form as may be prescribed by regulations made by the Minister.
+
+(5) In proceedings for an offence under this Act, a tobacco product, or a package containing a tobacco product, that purports to bear the name of the manufacturer or importer of that product, shall unless the contrary is proved be evidence that the tobacco product was manufactured or imported, as the case may be, by the person concerned.
+
+(6) In proceedings for an offence under this Act a tobacco product, or a package containing a tobacco product, that bears a trademark shall unless the contrary is proved be evidence that the product was manufactured by the person who at the time of the alleged commission of the offence owned that trademark.
+
+(7) In this section “trademark” has the same meaning as it has in the Trade Marks Act 1996.
+
+### 53. Forgery of documents.
+
+**53.**—(1) It shall be an offence for a person to forge or utter knowing it to be forged—
+
+(*a*) the register, an entry in the register or a document purporting to be an extract from the register (in this section referred to as “a forged register”), or
+
+(*b*) a notice, certificate or other document purporting to be issued, granted or given under F114[this Act, the Act of 2015 or the Act of 2023] (in this section referred to as “a forged document”).
+
+(2) It shall be an offence for a person to alter with intent to defraud or deceive, or to utter knowing it to be so altered—
+
+(*a*) the register, an entry in the register or an extract from the register (in this section referred to as “an altered register”), or
+
+(*b*) a notice, certificate or other document issued, granted or given under F115[this Act, the Act of 2015 or the Act of 2023] (in this section referred to as “an altered document”).
+
+(3) It shall be an offence for a person to have, without lawful authority, in his or her possession a forged register, forged document, altered register or altered document.
+
+(4) It shall be an offence for a person to aid or abet the commission of an offence under this section.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F114, F115: Substituted (22.12.2023) by *Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023* (35/2023), s. 48(a), (b), S.I. No. 669 of 2023.
+
+### 54. Compliance notice
+
+F116[**54.**—(1) Where an authorised officer is satisfied that a person has contravened a provision to which this section applies, the authorised officer may serve a notice (in this Act referred to as a "compliance notice") on the person.
+
+(2) A compliance notice shall—
+
+(*a*) state the grounds for the authorised officer being satisfied that there has been a contravention referred to in *subsection (1)*,
+
+(*b*) for the purpose of ensuring compliance by the person concerned with a provision to which this section applies, require the person to do or refrain from doing such act or acts as is or are specified in the notice by such date as is so specified, and
+
+(*c*) contain information regarding the bringing of an appeal under *subsection (5)* against the notice, including the manner in which an appeal shall be brought.
+
+(3) A compliance notice shall not specify a date in accordance with *subsection (2)(b)* that falls on or before the date by which an appeal under *subsection (5)* may be brought.
+
+(4) An authorised officer may—
+
+(*a*) withdraw a compliance notice at any time, as he or she consider appropriate, or
+
+(*b*) where no appeal is brought under *subsection (5)*, specify a date extending the period specified in the notice for the purposes of *subsection (2)(b)*, and notify the person in writing accordingly.
+
+(5) A person may appeal a compliance notice served on him or her to the District Court not later than 14 days after the service of the compliance notice concerned.
+
+(6) Where a person makes an appeal under *subsection (5)*, that person shall at the same time notify the Executive of the appeal and the grounds for the appeal and the authorised officer and the appellant concerned shall be entitled to be heard and to adduce evidence at the hearing of an appeal.
+
+(7) The District Court shall, upon an appeal under *subsection (5)*, do one of the following:
+
+(*a*) affirm the compliance notice concerned;
+
+(*b*) direct the authorised officer to withdraw the compliance notice concerned.
+
+(8) An authorised officer shall comply with a direction under *subsection (7)(b)*.
+
+(9) A person who fails to comply with a compliance notice by the specified date shall be guilty of an offence.
+
+(10) This section shall not operate to prevent or restrict—
+
+(*a*) the entitlement of any person to bring proceedings for the purpose of securing compliance with this Act by a person, or
+
+(*b*) the bringing or prosecuting of any proceedings for an offence under this Act.
+
+(11) In this section, "specified date" means, in relation to a compliance notice—
+
+(*a*) the date specified in the notice in accordance with paragraph (b) of subsection (2), where no appeal against the notice is brought under *subsection (5)*, or
+
+(*b*) the day falling immediately after the expiration of the period of 7 days from the date on which the District Court so affirms the notice, where an appeal against the notice is brought under *subsection (5)* and the District Court affirms the notice in accordance with *paragraph (a)* of *subsection (7)*.
+
+(12) This section applies to the following provisions:
+
+(*a*) sections 33, 33A, 36 and 46;]
+
+(*b*) sections 7, 8, 9, 10, 11, 12, 13 and 14 of the Act of 2015;
+
+(*c*) sections 22, 27, 28, 30, 31 and 32 of the Act of 2023.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F116: Inserted (22.12.2023) by *Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023* (35/2023), s. 49, S.I. No. 669 of 2023.
+>
+> F117: Substituted (1.02.2028) by *Public Health (Tobacco) (Amendment) Act 2024* (47/2024), s. 2, commenced as per s. 11(3).
+>
+> **Modifications (not altering text):**
+>
+> C11: Prospective affecting provision: subs. (12)(c) amended (1.02.2028) by *Public Health (Tobacco) (Amendment) Act 2024* (47/2024), s. 2, commenced as per s. 11(3).
+>
+> (*c*) sections 22, 27, F117[28, 28A,] 30, 31 and 32 of the Act of 2023.
+
+### 55. Prohibition notice
+
+F118[**55.**—(1) Where an authorised officer is of the opinion that a person has contravened a provision to which this section applies, the authorised officer may, with the approval of the chief executive officer of the Executive, or another officer of the Executive designated for that purpose, serve, or arrange to have served, on the person concerned, an order (in this section referred to as a "prohibition notice") in accordance with *subsection (2)*.
+
+(2) A prohibition notice shall—
+
+(*a*) be signed by the authorised officer issuing it,
+
+(*b*) state that the authorised officer is of the opinion that there has been a contravention referred to in *subsection (1)*,
+
+(*c*) specify the provision or provisions of this Act or the Act of 2023 to which the suspected contravention referred to in *subsection (1)* relates, and
+
+(*d*) direct the person on whom the prohibition notice is served to ensure that—
+
+(i) the contravention of a provision referred to in *paragraph (c)*, should cease immediately on the service of the prohibition notice,
+
+(ii) the tobacco product or nicotine inhaling product, is not placed or made available on the market until such time as all appropriate measures, including corrective measures, have been taken to bring the product into compliance with the provision of this Act or the Act of 2023 to which the contravention relates,
+
+(iii) the tobacco product or nicotine inhaling product to which the contravention relates, is not placed or made available on the market until such time as all appropriate measures have been taken to ensure compliance with the provision of this Act or the Act of 2023 to which the contravention relates,
+
+(iv) the tobacco product or nicotine inhaling product to which the contravention relates, is withdrawn or recalled from the market within a specified period of time, or
+
+(v) the tobacco product or nicotine inhaling product is destroyed within a specified period of time and in a manner specified in the notice by the authorised officer or is detained for the purposes of destruction by the authorised officer.
+
+(3) The approval referred to in *subsection (1)* may be given orally or in writing and if given orally, shall be recorded in writing as soon as practicable.
+
+(4) A prohibition notice shall take effect—
+
+(*a*) where, the prohibition notice so declares, immediately the notice is received by the person on whom it is served, or
+
+(*b*) in any other case—
+
+(i) where no appeal is taken against the prohibition notice, on the expiration of the period during which such an appeal may be taken or the day specified in the prohibition notice as the day on which it is to come into effect, whichever is the later, or
+
+(ii) where an appeal is taken, on the day next following the day on which the prohibition notice is confirmed on appeal or the appeal is withdrawn or the day specified in the prohibition notice as the day on which it is to come into effect, whichever is the later.
+
+(5) The bringing of an appeal against a prohibition notice which is to take effect in accordance with *subsection (4)(a)* shall not have the effect of suspending the operation of the prohibition notice, but the appellant may apply to the District Court to have the operation of the prohibition notice suspended until the appeal is disposed of and, on such application, the District Court may, if it thinks it proper to do so, direct that the operation of the prohibition notice be suspended until the appeal is disposed of.
+
+(6) In the event of non-compliance or delay by the person on whom the prohibition notice has been served, an authorised officer shall, with the approval of the chief executive officer or other officer designated in that behalf by the Executive, take whatever steps are considered necessary to ensure compliance with the direction given under *subsection (2)(d)* and this may include the withdrawal, recall, seizure and destruction of the products in question or the making of any arrangements for such withdrawal, recall, seizure or destruction, or both.
+
+(7) A person who is aggrieved by a prohibition notice may, within the period of 7 days beginning on the day on which the prohibition notice is served on him or her, appeal in the prescribed manner against the notice to a judge of the District Court in the District Court district in which the prohibition notice was served and in determining the appeal the judge may—
+
+(*a*) if he or she is satisfied that in the circumstances of the case it is reasonable to do so, confirm the prohibition notice, with or without modification, or
+
+(*b*) cancel the prohibition notice.
+
+(8) Where on the hearing of an appeal under *subsection (7)*, a prohibition notice is confirmed, notwithstanding *subsection (6)*, the judge of the District Court by whom the appeal is heard may, on the application of the appellant, suspend the operation of the prohibition notice for such period as in the circumstances of the case the judge considers appropriate.
+
+(9) A person who appeals against a prohibition notice or who applies for a direction suspending the application of the prohibition notice under *subsection (5)* shall at the same time notify the Executive of the appeal or the application and the grounds for the appeal or the application and the Executive shall be entitled to appear, be heard and adduce evidence on the hearing of the appeal or the application.
+
+(10) The chief executive officer of the Executive, or another officer of the Executive designated for that purpose may, for stated reasons, revoke or vary a prohibition notice made in accordance with this section and the Executive shall be notified at the next available meeting of the Executive of any such revocation or variation and the reasons therefore.
+
+(11) Where a prohibition notice has been served and activities are carried on in contravention of the prohibition notice, the High Court may, on the application of the Executive, by order prohibit the continuance of the activities.
+
+(12) An application to the High Court for an order under *subsection (11)* shall be by motion on notice to the person and the Court, when considering the matter, may make such interim or interlocutory order (if any) as it considers appropriate and the order by which an application under *subsection (11)* is determined may contain such terms and conditions (if any) as to the payment of costs as the Court considers appropriate.
+
+(13) This section applies to—
+
+(*a*) *sections 38(1)*, *38(2)*, *38(7)*, *38(8)*, *38(9)* and *43(1)*, and
+
+(*b*) sections 25, 26, 28 and 29 of the Act of 2023.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F118: Inserted (22.12.2023) by *Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023* (35/2023), s. 49, S.I. No. 669 of 2023.
+>
+> F119: Substituted (1.02.2028) by *Public Health (Tobacco) (Amendment) Act 2024* (47/2024), s. 2, commenced as per s. 11(3).
+>
+> **Modifications (not altering text):**
+>
+> C12: Prospective affecting provision: subs. (13)(b) amended (1.02.2028) by *Public Health (Tobacco) (Amendment) Act 2024* (47/2024), s. 2, commenced as per s. 11(3).
+>
+> (*b*) sections 25, 26, F119[28, 28A] and 29 of the Act of 2023.
+
+### 56. Fixed payment notice
+
+F120[**56.**—(1) Where an authorised officer has reasonable grounds for believing that a person is committing, or has committed, a relevant offence, the authorised officer may serve a notice in writing (in this Act referred to as a "fixed payment notice") in the prescribed form stating—
+
+(*a*) that the person is alleged to have committed the relevant offence concerned,
+
+(*b*) where and when the person is alleged to have committed the relevant offence concerned,
+
+(*c*) that the person may, during the period of 28 days beginning on the date of the fixed payment notice, make to the Executive at the address specified in the notice a payment of such amount or amounts as may be prescribed, being an amount of not more than €2,000 accompanied by the notice or copy thereof,
+
+(*d*) that the person is not obliged to make the payment specified in the notice,
+
+(*e*) that a prosecution of the person in respect of the alleged relevant offence will not be instituted during the period of 28 days beginning on the date of the notice and, if the payment specified in the notice is made during that period, no prosecution in respect of the alleged relevant offence will be instituted, and
+
+(*f*) that in default of such payment, the person shall be prosecuted for the alleged relevant offence.
+
+(2) Where a fixed payment notice is served under *subsection (1)*—
+
+(*a*) the person to whom it applies may make a payment in accordance with *subsection (1)(c)*,
+
+(*b*) the Executive shall, subject to *subsection (5)*, receive and retain the payment and issue a receipt for the payment,
+
+(*c*) any payment received by the Executive shall not be recoverable by the person who made it, and
+
+(*d*) a prosecution in respect of the alleged relevant offence to which the notice relates shall not be instituted during the period specified in *subsection (1)(c)* and, if payment so specified is made during that period, no prosecution in respect of the alleged relevant offence will be instituted.
+
+(3) In proceedings for a relevant offence, it shall be a defence for the defendant to prove that he or she has made a payment in accordance with this section, pursuant to a fixed payment notice served in respect of the offence.
+
+(4) The Minister may prescribe the amount of a fixed payment and may prescribe different amounts for different offences.
+
+(5) Payments received by the Executive under this section shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Public Expenditure, National Development Plan Delivery and Reform may direct.
+
+(6) In this section, "relevant offence" means—
+
+(*a*) an offence under *section 43*, or
+
+(*b*) an offence under section 22, 26, or 29 of the Act of 2023.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F120: Inserted (22.12.2023) by *Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023* (35/2023), s. 49, S.I. No. 669 of 2023.
+>
+> **Editorial Notes:**
+>
+> E37: Power pursuant to section exercised (20.07.2026) by *Public Health (Tobacco) Act 2002 (Fixed Payment Notice) Regulations 2026* (S.I. No. 325 of 2026), in operation as per reg. 1(2).
+>
+> E38: Power pursuant to section exercised (23.09.2024) by *Public Health (Tobacco) Act 2002 (Fixed Payment Notice) Regulations 2024* (S.I. No. 474 of 2024), in operation as per reg. 1(2).
+
+### 57. Legal privilege
+
+F121[**57.**—(1) Subject to *subsection (2)*, nothing in this Act, the Act of 2015, the Act of 2023 or the Regulations of 2016 shall compel the disclosure by any person of privileged legal material or authorise the taking of privileged legal material.
+
+(2) The disclosure of information may be compelled, or possession of it taken, pursuant to this Act, the Act of 2015, the Act of 2023 or the Regulations of 2016, notwithstanding that it is apprehended that the information is privileged legal material provided that the compelling of its disclosure or the taking of its possession is done by means whereby the confidentiality of the information can be maintained (as against the person compelling such disclosure or taking such possession) pending the determination by the High Court of the issue as to whether the information is privileged legal material.
+
+(3) Without prejudice to *subsection (4)*, where, in the circumstances referred to in *subsection (2)*, information has been disclosed or taken possession of pursuant to this Act, the Act of 2015, the Act of 2023 or the Regulations of 2016, the person—
+
+(*a*) to whom such information has been so disclosed, or
+
+(*b*) who has taken possession of it,
+
+shall (unless the person has, within the period subsequently mentioned in this subsection, been served with notice of an application under *subsection (4)* in relation to the matter concerned) apply to the High Court for a determination as to whether the information is privileged legal material and an application under this section shall be made within 30 days after the disclosure or the taking of possession.
+
+(4) A person who, in the circumstances referred to in *subsection (2)*, is compelled to disclose information, or from whose possession information is taken, may apply to the High Court for a determination as to whether the information is privileged legal material.
+
+(5) Pending the making of a final determination of an application under *subsection (3)* or *(4)*, the High Court may give such interim or interlocutory directions as the court considers appropriate including, without prejudice to the generality of the foregoing, directions as to—
+
+(*a*) the preservation of the information, in whole or in part, in a safe and secure place in any manner specified by the court, or
+
+(*b*) the appointment of a person with suitable legal qualifications possessing the level of experience, and the independence from any interest falling to be determined between the parties concerned, that the court considers to be appropriate for the purpose of—
+
+(i) examining the information, and
+
+(ii) preparing a report for the court with a view to assisting or facilitating the court in the making by the court of its determination as to whether the information is privileged legal material.
+
+(6) An application under *subsection (3)*, *(4)* or *(5)* shall be by motion and may, if the High Court directs, be heard otherwise than in public.
+
+(7) In this section—
+
+"computer" includes a personal organiser or any other electronic means of information storage or retrieval;
+
+"information" means information contained in a book, document or record, a computer or otherwise;
+
+"privileged legal material" means information which, in the opinion of the High Court, a person is entitled to refuse to produce on the grounds of legal professional privilege.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F121: Inserted (22.12.2023) by *Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023* (35/2023), s. 49, S.I. No. 669 of 2023.
+
+[^1]: OJ No. L127, 29.4.2014, p. 1
+[^2]: OJ No. L226 of 10.09.2003, p. 24

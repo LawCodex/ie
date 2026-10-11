@@ -1,0 +1,5136 @@
+---
+title: "Criminal Justice (Terrorist Offences) Act 2005"
+identifier: "eli/2005/act/2"
+type: act
+jurisdiction: ie
+language: en
+number: 2
+year: 2005
+date: 2005-03-08
+last_amended: 2026-07-08
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2005/act/2/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2005/act/2/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Criminal Justice (Terrorist Offences) Act 2005
+
+AN ACT TO ENABLE THE STATE TO MEET COMMITMENTS UNDERTAKEN AS PART OF THE INTERNATIONAL COMMUNITY, TO AMEND THE OFFENCES AGAINST THE STATE ACTS 1939 TO 1998 AND THE EUROPEAN ARREST WARRANT ACT 2003, AND TO MAKE PROVISION FOR RELATED MATTERS, INCLUDING THE RETENTION OF COMMUNICATIONS DATA.
+
+[8*th March*, 2005]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E1: Records held or created by Garda Síochána in relation to Act excluded from application of *Freedom of Information Act 2014* (14.10.2015) by *Freedom of Information Act 2014* (30/2014), s. 42(2)(viii), S.I. No. 103 of 2015.
+
+## PART 1Preliminary Matters — PART 1 — Preliminary Matters
+
+### 1. Short title.
+
+**1.**—This Act may be cited as the Criminal Justice (Terrorist Offences) Act 2005.
+
+### 2. Commencement.
+
+**2.**—*Section 32* comes into operation 4 months after the passing of this Act.
+
+### 3. Interpretation.
+
+**3.**—(1) In this Act, except where the context otherwise requires—
+
+“act” includes omission and a reference to the commission or doing of an act includes a reference to the making of an omission;
+
+“Act of 1939” means the Offences against the State Act 1939;
+
+“Act of 1965” means the Extradition Act 1965;
+
+“Act of 1985” means the Offences against the State (Amendment) Act 1985;
+
+“Act of 1994” means the Criminal Justice Act 1994;
+
+“Act of 1996” means the Proceeds of Crime Act 1996;
+
+“Act of 1998” means the Offences against the State (Amendment) Act 1998;
+
+“Act of 2003” means the European Arrest Warrant Act 2003;
+
+“Irish ship” has the same meaning as in section 9 of the Mercantile Marine Act 1955;
+
+“Minister” means Minister for Justice, Equality and Law Reform;
+
+“ship” includes any vessel used in navigation.
+
+(2) In this Act a reference to a state includes a reference to the sub-sovereign entities of the state.
+
+(3) A person who has his or her principal residence in the State for the 12 months immediately preceding the commission of an act referred to in *section 6(2), 9(3), 10(4)* or *13(6)* is, for the purposes of this Act, considered—
+
+(*a*) if he or she is a stateless person, to be habitually resident in the State on the date of the commission of that act, and
+
+(*b*) in any other case, to be resident in the State on that date.
+
+(4) In this Act—
+
+(*a*) a reference to a section, Part or Schedule is to a section or Part of, or a Schedule to, this Act, unless it is indicated that a reference to some other enactment is intended,
+
+(*b*) a reference to a subsection, paragraph or subparagraph is to the subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that reference to some other provision is intended, and
+
+(*c*) a reference to any other enactment is to that enactment as amended by or under any other enactment, including this Act, unless the context otherwise requires.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Substituted by *Merchant Shipping (Registration of Ships) Act 2014* (43/2014), s. 68 and sch. 4, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C1: Prospective affecting provision: definition of “Irish ship” substituted by *Merchant Shipping (Registration of Ships) Act 2014* (43/2014), s. 68 and sch. 4, not commenced as of date of revision.
+>
+> "Irish ship" means an Irish ship within the meaning of section 33 of the Merchant Shipping (Registration of Ships) Act 2014;
+
+### 3A. Regulations
+
+F2[**3A.** (1) The Minister may by regulations provide for any matter referred to in this Act as prescribed or to be prescribed.
+
+(2) Regulations under this Act may contain such incidental, supplementary and consequential provisions as appear to the Minister to be necessary or expedient for the purposes of the regulations.
+
+(3) Every regulation under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next 21 days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F2: Inserted (8.06.2015) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2015* (17/2015), s. 2, commenced as per s. 12(3).
+>
+> **Editorial Notes:**
+>
+> E2: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+## PART 2Suppression of Terrorist Groups and Terrorist Offences — PART 2 — Suppression of Terrorist Groups and Terrorist Offences
+
+### 4. Definitions for Part 2.
+
+**4.**—F3[(1)] In this Part—
+
+F4[“Directive” means Directive (EU) 2017/541 of the European Parliament and of the Council of 15 March 2017[^1] on combating terrorism and replacing Council Framework Decision 2002/475/JHA and amending Council Decision 2005/671/JHA (the text of which is, for convenience of reference, set out in *Schedule 1*);]
+
+F9[...]
+
+F5[“organising or facilitating travel for the purpose of terrorism” shall be construed in accordance with *section 4E*;]
+
+F3[“Prevention of Terrorism Convention” means the Council of Europe Convention on the Prevention of Terrorism, done at Warsaw on 16 May 2005, the English language text of which is set out for convenience of reference in *Schedule 1B*;]
+
+F6[“providing training for terrorism” shall be construed in accordance with *subsection (1)* of *section 4C*;]
+
+F3[“public provocation to commit a terrorist offence” shall be construed in accordance with *section 4A*;]
+
+F7[“receiving training for terrorism” shall be construed in accordance with *subsection (2)* of *section 4C*;]
+
+F3[“recruitment for terrorism” shall be construed in accordance with *section 4B*;]
+
+F11[“terrorist activity” means—
+
+(*a*) an offence specified in *Part 1* of *Schedule 2* committed with the intention of—
+
+(i) seriously intimidating a population,
+
+(ii) unduly compelling a government or an international organisation to perform or abstain from performing an act, or
+
+(iii) seriously destabilising or destroying the fundamental political, constitutional, economic or social structures of a state or an international organisation,
+
+(*b*) an act committed outside the State that, if committed in the State, would constitute an offence specified in *Part 1* of *Schedule 2*, done with the intention of—
+
+(i) seriously intimidating a population,
+
+(ii) unduly compelling a government or an international organisation to perform or abstain from performing an act, or
+
+(iii) seriously destabilising or destroying the fundamental political, constitutional, economic or social structures of a state or an international organisation,
+
+or
+
+(*c*) a threat to commit such an offence, or such an act, made with such an intention;]
+
+“terrorist group” has the same meaning as in the F12[Directive];
+
+F13[“terrorist-linked activity” means—
+
+(*a*) an offence specified in *Part 2* of *Schedule 2* committed with a view to engaging in a terrorist activity,
+
+(*b*) an act committed—
+
+(i) outside the State that, if committed in the State, would constitute an offence specified in *Part 2* of *Schedule 2*, and
+
+(ii) with a view to engaging in a terrorist activity,
+
+(*c*) an offence specified in *Part 3* of *Schedule 2* committed with a view to—
+
+(i) engaging in a terrorist activity (other than a threat to which *paragraph (c)* of the definition of “terrorist activity” applies),
+
+(ii) committing an offence under section 21 or 21A of the Act of 1939 or committing an act outside the State that, if committed in the State, would constitute an offence under either such section, or
+
+(iii) travelling for the purpose of terrorism,
+
+(*d*) an act committed—
+
+(i) outside the State that if committed in the State, would constitute an offence specified in *Part 3* of *Schedule 2*, and
+
+(ii) with a view to—
+
+(I) engaging in a terrorist activity (other than a threat to which *paragraph (c)* of the definition of “terrorist activity” applies),
+
+(II) committing an offence under section 21 or 21A of the Act of 1939 or committing an act outside the State that, if committed in the State, would constitute an offence under either such section, or
+
+(III) travelling for the purpose of terrorism,
+
+(*e*) public provocation to commit a terrorist offence,
+
+(*f*) recruitment for terrorism,
+
+(*g*) providing training for terrorism or receiving training for terrorism,
+
+(*h*) travelling for the purpose of terrorism, or
+
+(*i*) organising or facilitating travel for the purpose of terrorism;]
+
+F10[...]
+
+F8[“travelling for the purpose of terrorism” shall be construed in accordance with *section 4D*.]
+
+F3[(2) A terrorist-linked activity may be committed wholly or partially by electronic means.
+
+(3) In determining whether an act is a terrorist-linked activity, it shall not be necessary for an offence under *section 6(1)(a)* insofar as that provision relates to a terrorist activity, to have actually been committed.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F3: Inserted (8.06.2015) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2015* (17/2015), s. 3(c)-(e), commenced as per s. 12(3).
+>
+> F4, F5, F6, F7, F8: Inserted (8.07.2026) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2026* (19/2026), s. 2(a), commenced as per s. 13(3).
+>
+> F9, F10: Deleted (8.07.2026) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2026* (19/2026), s. 2(b), (e), commenced as per s. 13(3).
+>
+> F11, F12, F13: Substituted (8.07.2026) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2026* (19/2026), s. 2(c), (d), commenced as per s. 13(3).
+>
+> **Editorial Notes:**
+>
+> E3: Previous affecting provision: definition of "Framework Decision" substituted (8.06.2015) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2015* (17/2015), s. 3(a), commenced as per s. 12(3); deleted (8.07.2026) as per F-note above.
+>
+> E4: Previous affecting provision: definition of "terrorist-linked activity" substituted (8.06.2015) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2015* (17/2015), s. 3(b), commenced as per s. 12(3); substituted (8.07.2026) as per F-note above.
+>
+> E5: Previous affecting provision: definition of "training for terrorism" inserted (8.06.2015) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2015* (17/2015), s. 3(c), commenced as per s. 12(3); deleted (8.07.2026) as per F-note above.
+
+### 4A. Public provocation to commit terrorist offence
+
+F14[F15[**4A.** For the purposes of this Part, a person publicly provokes the commission of a terrorist offence if—
+
+(*a*) he or she, with the intention of inciting persons to commit a terrorist activity, distributes or publishes, or causes to be distributed or published, by any means (including via the internet) to the public or a section of the public a message—
+
+(i) inciting, or that could reasonably be construed as inciting, persons to commit a terrorist activity, or
+
+(ii) that glorifies (including by praise or celebration) a terrorist activity,
+
+and
+
+(*b*) such distribution or publication gives rise to the reasonable apprehension that the commission of a terrorist activity could thereby result.]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F14: Inserted (8.06.2015) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2015* (17/2015), s. 4, commenced as per s. 12(3).
+>
+> F15: Substituted (8.07.2026) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2026* (19/2026), s. 3, commenced as per s. 13(3).
+>
+> **Editorial Notes:**
+>
+> E6: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 4B. Recruitment for terrorism
+
+F16[**4B.** For the purposes of this Part, recruitment for terrorism means—
+
+(*a*) the intentional recruitment of another person—
+
+(i) to commit, or participate in the commission of, a terrorist activity,
+
+(ii) to commit an act in or outside the State that, if committed in the State, would constitute an offence under section 6 of the Act of 1998, or
+
+(iii) to commit an act in or outside the State that, if committed in the State, would constitute an offence under section 21 or 21A of the Act of 1939,
+
+or
+
+(*b*) the intentional commission of an act in or outside the State that, if committed in the State, would constitute an offence under section 3 of the Criminal Law Act 1976.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F16: Inserted (8.06.2015) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2015* (17/2015), s. 5, commenced as per s. 12(3).
+>
+> **Editorial Notes:**
+>
+> E7: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 4C. Training for terrorism
+
+F17[F18[**4C.** (1) For the purposes of this Part, a person provides training for terrorism if he or she provides instruction or training (in this section referred to as “relevant instruction or training”)—
+
+(*a*) in the making or use of—
+
+(i) firearms or explosives,
+
+(ii) nuclear material,
+
+(iii) biological weapons, chemical weapons or prohibited weapons, or
+
+(iv) weapons, or noxious or hazardous substances, that belong to a class prescribed under *paragraph (a)* of *subsection (3)*,
+
+or
+
+(*b*) in techniques, methods, skills or technical knowledge belonging to a class prescribed under *paragraph (b)* of *subsection (3)*,
+
+to any person, knowing that the purpose of the relevant instruction or training is to enable the second-mentioned person to commit, or aid, abet, counsel or procure the commission of, a terrorist activity.
+
+(2) For the purposes of this Part, a person receives training for terrorism if he or she receives relevant instruction or training knowing that the relevant instruction or training is for the purpose of enabling him or her to commit, or aid, abet, counsel or procure the commission of, a terrorist activity.
+
+(3) (*a*) The Minister may prescribe—
+
+(i) a class of weapon, or noxious or hazardous substance, or
+
+(ii) classes of weapons, or noxious or hazardous substances,
+
+for the purposes of *subsections (1)* and *(2)*.
+
+(*b*) The Minister may prescribe—
+
+(i) a class of technique, method, skill or technical knowledge, or
+
+(ii) classes of techniques, methods, skills or technical knowledge,
+
+for the purposes of subsections (1) and (2).
+
+(4) (*a*) The Minister shall, before making regulations under *subsection (3)*, consult with the Commissioner of An Garda Síochána and the Minister for Defence.
+
+(*b*) The Minister may, before making regulations under *subsection (3)*, consult with such other Minister of the Government as the Minister considers appropriate.
+
+(5) The Minister shall, when prescribing a class of weapon, or noxious or hazardous substance, under *paragraph (a)* of *subsection (3)*, have regard to the capacity of a weapon, or noxious or hazardous substance, of that class to cause or contribute to—
+
+(*a*) the death of, or serious injury to, a person, or
+
+(*b*) substantial material damage to property.
+
+(6) The Minister shall, when prescribing a class of technique, method, skill or technical knowledge under *paragraph (b)* of *subsection (3)*, have regard to the potential for the application or deployment of techniques, methods, skills or technical knowledge of that class in the commission of a terrorist activity.
+
+(7) In this section—
+
+“Act of 2011” means the Biological Weapons Act 2011;
+
+“biological weapon” means a microbial or other biological agent or toxin within the meaning of the Act of 2011;
+
+“chemical weapons” has the meaning assigned to it by the Chemical Weapons Act 1997;
+
+“explosive” means—
+
+(*a*) an explosive within the meaning of the Explosives Act 1875, or
+
+(*b*) an explosive substance within the meaning of the Explosive Substances Act 1883;
+
+“firearm” has the meaning assigned to it by the Firearms Act 1925;
+
+“nuclear material” has the meaning assigned to it by Article 1 of the Convention on the Physical Protection of Nuclear Material done at Vienna on 26 October 1979, the text of which is set out in the Fourth Schedule to the Radiological Protection Act 1991;
+
+“prohibited weapon” has the meaning assigned to it by the Act of 2011.]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F17: Inserted (8.06.2015) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2015* (17/2015), s. 6, commenced as per s. 12(3).
+>
+> F18: Substituted (8.06.2026) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2026* (19/2026), s. 4, commenced as per s. 13(3).
+>
+> **Editorial Notes:**
+>
+> E8: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### Travel for purpose of terrorism.
+
+F19[**4D.** For the purposes of this Part, a person travels for the purpose of terrorism—
+
+(*a*) if he or she travels to the State from a place other than the State for the purpose of—
+
+(i) the commission by the person, or the aiding, abetting, counselling or procuring by the person of the commission by any person, of—
+
+(I) a terrorist activity, or
+
+(II) an offence under section 21 or 21A of the Act of 1939,
+
+(ii) providing training for terrorism, or
+
+(iii) receiving training for terrorism,
+
+or
+
+(*b*) if he or she travels from the State to a place other than the State for the purpose of—
+
+(i) the commission by the person, or the aiding, abetting, counselling or procuring by the person of the commission by any person, of—
+
+(I) a terrorist activity, or
+
+(II) an offence under *subparagraph (i)* of *paragraph (b)* of *subsection (1)* of *section 6*,
+
+(ii) providing training for terrorism, or
+
+(iii) receiving training for terrorism.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F19: Inserted (8.07.2026) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2026* (19/2026), s. 5, commenced as per s. 13(3).
+
+### Organising or facilitating travel for purpose of terrorism.
+
+F20[**4E.** For the purposes of this Part, a person organises or facilitates travel for the purpose of terrorism—
+
+(*a*) if he or she—
+
+(i) does any act—
+
+(I) consisting of the making of an arrangement for the travel by any person to the State from a place other than the State, or
+
+(II) that would facilitate the travel by any person to the State from a place other than the State,
+
+or
+
+(ii) causes any person to do such an act,
+
+knowing that such travel is for a purpose referred to in *paragraph (a)* of *section 4D*, or
+
+(*b*) if he or she—
+
+(i) does any act—
+
+(I) consisting of the making of an arrangement for the travel by any person from the State to a place other than the State, or
+
+(II) that would facilitate the travel by any person from the State to a place other than the State,
+
+or
+
+(ii) causes any person to do such an act,
+
+knowing that such travel is for a purpose referred to in *paragraph (b)* of *section 4D*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F20: Inserted (8.07.2026) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2026* (19/2026), s. 5, commenced as per s. 13(3).
+
+### 5. Terrorist groups.
+
+**5.**—(1) A terrorist group that engages in, promotes, encourages or advocates the commission, in or outside the State, of a terrorist activity is an unlawful organisation within the meaning and for the purposes of the Offences against the State Acts 1939 to 1998 and section 3 of the Criminal Law Act 1976.
+
+(2) For the purposes of this Act, the Offences against the State Acts 1939 to 1998 and section 3 of the Criminal Law Act 1976 apply with any necessary modifications and have effect in relation to a terrorist group referred to in *subsection (1)* as if that group were an organisation referred to in section 18 of the Act of 1939.
+
+F21[(2A) A body corporate that directs the activities of a terrorist group (at any level of its organisational structure) shall be guilty of an offence and shall be liable on conviction on indictment to a fine.]
+
+(3) *Subsections (1)* and *(2)* are not to be taken to be limited by any other provision of this Act that refers to provisions of the Offences against the State Acts 1939 to 1998 or that makes provisions of those Acts applicable in relation to offences under this Act.
+
+(4) F22[Subsections *(1)*, *(2)* and *(2A)*] apply whether the terrorist group is based in or outside the State.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F21: Inserted (8.07.2026) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2026* (19/2026), s. 6(a), commenced as per s. 13(3).
+>
+> F22: Substituted (8.07.2026) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2026* (19/2026), s. 6(b), commenced as per s. 13(3).
+
+### 6. Terrorist offences.
+
+**6.**—(1) Subject to *subsections (2)* to *(4)*, a person is guilty of an offence if the person—
+
+(*a*) in or outside the State—
+
+(i) engages in a terrorist activity or a terrorist-linked activity,
+
+F23[(ii) attempts to engage in a terrorist activity, other than a terrorist activity consisting of—
+
+(I) a threat referred to in *paragraph (c)* of the definition of “terrorist activity”,
+
+(II) an act that is an offence under section 3 of the Explosive Substances Act 1883 consisting of the unlawful or malicious possession or control of an explosive substance with the intent referred to in paragraph (b) of that section,
+
+(III) an act that is an offence under—
+
+(A) subsection (1) of section 4 of the Explosive Substances Act 1883 consisting of the possession or control of an explosive substance other than for a lawful object,
+
+(B) section 15 of the Firearms Act 1925,
+
+(C) section 26 or 27A of the Firearms Act 1964, or
+
+(D) section 4 of the Chemical Weapons Act 1997,
+
+or
+
+(IV) an act committed outside the State that, if committed in the State, would constitute a terrorist activity to which *clause (I)*, *(II)* or *(III)* applies,
+
+or
+
+(iia) attempts to engage in a terrorist-linked activity other than—
+
+(I) public provocation to commit a terrorist offence,
+
+(II) receiving training for terrorism, or
+
+(III) organising or facilitating travel for the purpose of terrorism, or]
+
+(iii) F25[...]
+
+or
+
+(*b*) commits outside the State an act that, if committed in the State, would constitute—
+
+(i) an offence under section 21 or 21A of the Act of 1939, or
+
+(ii) an offence under section 6 of the Act of 1998.
+
+(2) *Subsection (1)* applies to an act committed outside the State if the act—
+
+(*a*) is committed on board an Irish ship,
+
+(*b*) is committed on an aircraft registered in the State,
+
+(*c*) is committed by a person who is a citizen of Ireland or is resident in the State,
+
+(*d*) is committed for the benefit of a legal person established in the State,
+
+(*e*) is directed against the State or an Irish citizen, or
+
+(*f*) is directed against—
+
+(i) an institution of the European Union that is based in the State, or
+
+(ii) a body that is based in the State and is set up in accordance with the Treaty establishing the European Community or the Treaty on European Union.
+
+(3) *Subsection (1)* applies also to an act committed outside the State in circumstances other than those referred to in *subsection (2)*, but in that case the Director of Public Prosecutions may not take, or consent to the taking of, proceedings referred to in *section 43(2)* for an offence in respect of that act except as authorised by *section 43(3)*.
+
+(4) *Subsection (1)* does not apply in respect of—
+
+(*a*) the activities of armed forces during an armed conflict insofar as those activities are governed by international humanitarian law, or
+
+(*b*) the activities of the armed forces of a state in the exercise of their official duties insofar as those activities are governed by other rules of international law.
+
+F24[(5) For the purposes of this Act, the engagement by a person in any protest, advocacy or dissent, or in any strike, lockout or other industrial action, shall not of itself constitute grounds for inferring that the person is doing an act with the intention of—
+
+(*a*) seriously intimidating a population,
+
+(*b*) unduly compelling a government or an international organisation to perform or abstain from performing an act, or
+
+(*c*) seriously destabilising or destroying the fundamental political, constitutional, economic or social structures of a state or an international organisation.]
+
+(6) Where a person is charged with an offence under *subsection (1)*, which in the opinion of the Attorney General was committed in or outside the State with the intention of—
+
+(*a*) unduly compelling the government of a state (other than a member state of the European Union) to perform or abstain from performing an act, or
+
+(*b*) seriously destabilising or destroying the fundamental political, constitutional, economic or social structures of such a state,
+
+then, notwithstanding anything in this Act, no further proceedings in the matter (other than any remand in custody or on bail) may be taken except with the consent of the Attorney General.
+
+(7) Where in proceedings for the offence of engaging in or attempting to engage in a terrorist activity—
+
+(*a*) it is proved that the accused person committed or attempted to commit an act—
+
+(i) that constitutes an offence specified in *Part 1* of *Schedule 2*, or
+
+(ii) that, if committed in the State, would constitute an offence referred to in *subparagraph (i)*,
+
+and
+
+(*b*) the court is satisfied, having regard to all the circumstances including those specified in *subsection (8)*, that it is reasonable to assume that the act was committed, or the attempt was made, with the intention of—
+
+(i) seriously intimidating a population,
+
+(ii) unduly compelling a government or an international organisation to perform or abstain from performing an act, or
+
+(iii) seriously destabilising or destroying the fundamental political, constitutional, economic or social structures of a state or an international organisation,
+
+the accused person shall be presumed, unless the court is satisfied to the contrary, to have committed or attempted to commit the act with that intention.
+
+(8) The circumstances referred to in *subsection (7)*, include—
+
+(*a*) whether the act or attempt referred to in *subsection (7)(a)—*
+
+(i) created or was likely to create a collective danger to the lives or physical integrity of persons,
+
+(ii) caused or was likely to cause serious damage to a state or international organisation, or
+
+(iii) caused or was likely to result in major economic loss,
+
+and
+
+(*b*) any other matters that the court considers relevant.
+
+(9) Where the Director of Public Prosecutions considers that another Member State of the European Communities has jurisdiction to try a person for any act constituting an offence under this section, the Director—
+
+(*a*) shall co-operate with the appropriate authority in that other Member State, and
+
+(*b*) may have recourse to any body or mechanism established within the European Communities in order to facilitate co-operation between judicial authorities,
+
+with a view to centralising the prosecution of the person in a single Member State where possible.
+
+F26[(10) The Director of Public Prosecutions shall, when considering in which Member State it would be most appropriate for criminal proceedings to be brought against a person to whom *subsection (9)* applies, take account of the following:
+
+(*a*) the Member State where the offence was committed,
+
+(*b*) the nationality or Member State of residence of the person,
+
+(*c*) the country of origin of the victim of the offence, and
+
+(*d*) the Member State in which the person was first arrested for the offence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F23, F24: Substituted (8.07.2026) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2026* (19/2026), s. 7(a)(i), (b), commenced as per s. 13(3).
+>
+> F25: Deleted (8.07.2026) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2026* (19/2026), s. 7(a)(ii), commenced as per s. 13(3).
+>
+> F26: Inserted (8.07.2026) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2026* (19/2026), s. 7(c), commenced as per s. 13(3).
+>
+> **Editorial Notes:**
+>
+> E9: Previous affecting provision: subs. (1)(a)(ii) amended (8.06.2015) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2015* (17/2015), s. 7, commenced as per s. 12(3); substituted (8.07.2026) as per F-note above.
+
+### 7. Penalties for terrorist offences.
+
+**7.**—(1) F27[Subject to *subsections (2C)*, *(2D)*, *(2E)*, *(2F)* and *(2G)*, a person guilty] of an offence under *section 6(1)(a)* is liable on conviction to be punished according to the gravity of the offence as follows:
+
+(*a*) to the sentence of imprisonment fixed by law, if the corresponding offence specified in *Schedule 2* is one for which the sentence is fixed by law;
+
+(*b*) to imprisonment for life, if the corresponding offence specified in *Schedule 2* is one for which the maximum sentence is imprisonment for life;
+
+(*c*) to imprisonment for a term not exceeding 2 years more than the maximum term of imprisonment for the corresponding offence specified in *Schedule 2*, if that corresponding offence is one for which a person of full capacity and not previously convicted may be sentenced to a maximum term of 10 or more years of imprisonment;
+
+(*d*) F28[subject to *paragraph (f)*, to imprisonment] for a term not exceeding 1 year more than the maximum term of imprisonment for the corresponding offence specified in *Schedule 2*, if that corresponding offence is one for which a person of full capacity and not previously convicted may be sentenced to F33[a maximum term of less than 10 years of imprisonment,]
+
+F34[(*e*) in the case of an offence that is a terrorist-linked activity referred to—
+
+(i) in F29[*paragraph (e)*] of the definition in *section 4* of "terrorist-linked activity"—
+
+(I) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months or both, or
+
+(II) on conviction on indictment, to a fine or imprisonment for a term not exceeding 10 years or both,
+
+(ii) in F30[*paragraph (f)*] of that definition, on conviction on indictment to a fine or imprisonment for a term not exceeding 10 years or both, and
+
+(iii) in F31[*paragraph (g)*] of that definition, on conviction on indictment to a fine or imprisonment for a term not exceeding 10 years or both.
+
+F35[(iv) in *paragraph (h)* or *(i)* of that definition, on conviction on indictment to a fine or imprisonment for a term not exceeding 10 years or both.]]
+
+F36[(*f*) in the case of an offence consisting of an act referred to in *paragraph (c)* of the definition of “terrorist activity” committed by a person who—
+
+(i) when committing that offence, was also committing an offence under section 6 of the Offences Against the State (Amendment) Act 1998, and
+
+(ii) by virtue of the said *paragraph (d)* would, but for this paragraph, be liable to a maximum term of imprisonment of less than 8 years,
+
+to imprisonment for a term not exceeding 8 years.]
+
+(2) A person guilty of an offence under *section 6(1)(b)* is liable on conviction to the penalty to which he or she would have been liable had the act that constitutes the offence been done in the State.
+
+F37[(2A) Where a person is convicted of an offence under *paragraph (a)* of *subsection (1)* of *section 6* consisting of recruitment for terrorism of a person who, at the time of the commission of the offence, was under the age of 18 years, the court may, when imposing sentence for the offence, treat as an aggravating factor the fact that the second-mentioned person was under that age when the first-mentioned person committed the offence.
+
+(2B) Where a person is convicted of an offence under *paragraph (a)* of *subsection (1)* of *section 6* consisting of providing training for terrorism to a person who, at the time of the commission of the offence, was under the age of 18 years, the court may, when imposing sentence for the offence, treat as an aggravating factor the fact that the second-mentioned person was under that age when the first-mentioned person committed the offence.]
+
+F38[(2C) A body corporate guilty of an offence under *section 6* shall be liable on conviction on indictment to a fine of such amount as, having regard to the gravity of the offence, the court considers appropriate.
+
+(2D) A person guilty of an offence under *subparagraph (ii)* of *paragraph (a)* of *subsection (1)* of *section 6* of attempting to commit the offence under *subparagraph (i)* of the said *paragraph (a)* of engaging in a terrorist activity shall be liable on conviction to the penalty to which he or she would be liable if he or she were convicted of the second mentioned offence.
+
+(2E) A person guilty of an offence under *subparagraph (iia)* of *paragraph (a)* of *subsection (1)* of *section 6* of attempting to commit the offence under *subparagraph (i)* of the said *paragraph (a)* of engaging in a terrorist-linked activity shall be liable on conviction to the penalty to which he or she would be liable if he or she were convicted of the second-mentioned offence.
+
+(2F) A person guilty of an offence—
+
+(*a*) under *subparagraph (i)* of *paragraph (a)* of *subsection (1)* of *section 6*, and
+
+(*b*) that consists of a threat to commit an offence (in this subsection referred to as the “threatened offence”) referred to in *paragraph (c)* of the definition of “terrorist activity” with the intention referred to in that paragraph,
+
+shall be liable on conviction to the penalty to which he or she would be liable if he or she were convicted under the said *subparagraph (i)* of the threatened offence.
+
+(2G) A person guilty of an offence—
+
+(*a*) under *subparagraph (i)* of *paragraph (a)* of *subsection (1)* of *section 6*, and
+
+(*b*) that consists of a threat to commit an act (in this subsection referred to as the “threatened act”) referred to in *paragraph (c)* of the definition of “terrorist activity” with the intention referred to in that paragraph,
+
+shall be liable on conviction to the penalty to which he or she would be liable if he or she were convicted under the said *subparagraph (i)* of the offence consisting of the threatened act.]
+
+F32[(3) In this section “corresponding offence” means—
+
+(*a*) in relation to an offence (in this paragraph referred to as the “first mentioned offence”) under *subparagraph (i)* of *paragraph (a)* of *subsection (1)* of *section 6* consisting of engaging in a terrorist activity, the offence (in this paragraph referred to as the “second-mentioned offence”) specified in *Part 1* of *Schedule 2* that consists of the act of which the first-mentioned offence consists, notwithstanding that it is not a component element of the second-mentioned offence that that act be done with the intention specified in the definition of “terrorist activity”, and
+
+(*b*) in relation to an offence (in this paragraph referred to as the “first-mentioned offence”) under *subparagraph (i)* of *paragraph (a)* of *subsection (1)* of *section 6* consisting of engaging in a terrorist-linked activity, the offence (in this paragraph referred to as the “second-mentioned offence”) specified in *Part 2* or *3* of *Schedule 2* that consists of the act of which the first-mentioned offence consists, notwithstanding that it is not a component element of the second-mentioned offence that that act be done with a view to engaging in a terrorist activity or committing any other offence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F27, F28, F29, F30, F31, F32: Substituted (8.07.2026) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2026* (19/2026), s. 8(a)(i)-(iii), (d), commenced as per s. 13(3).
+>
+> F33: Substituted (8.06.2015) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2015* (17/2015), s. 8(a), commenced as per s. 12(3).
+>
+> F34: Inserted (8.06.2015) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2015* (17/2015), s. 8(b), commenced as per s. 12(3). A class A fine means a fine not exceeding €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+>
+> F35, F36, F37, F38: Inserted (8.07.2026) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2026* (19/2026), s. 8(a)(iv), (a)(v), (b), (c), commenced as per s. 13(3).
+
+## PART 3Suppression of Hostage-Taking, Terrorist Bombing and Crimes Against Internationally Protected Persons — PART 3 — Suppression of Hostage-Taking, Terrorist Bombing and Crimes Against Internationally Protected Persons
+
+### 8. Definitions for Part 3.
+
+**8.**—In this Part—
+
+“Hostage Convention” means the International Convention against the Taking of Hostages adopted by resolution 34/146 of the General Assembly of the United Nations on 17 December 1979, the English language text of which is set out for convenience of reference in *Schedule 3*;
+
+“Internationally Protected Persons Convention” means the Convention on the Prevention and Punishment of Crimes against Internationally Protected Persons, including Diplomatic Agents, adopted by resolution 3166 of the General Assembly of the United Nations on 14 December 1973, the English language text of which is set out for convenience of reference in *Schedule 4*;
+
+“Terrorist Bombing Convention” means the International Convention for the Suppression of Terrorist Bombings adopted by resolution 52/164 of the General Assembly of the United Nations on 15 December 1997, the English language text of which is set out for convenience of reference in *Schedule 5*.
+
+### 9. Offence of hostage-taking.
+
+**9.**—(1) Subject to *subsections (3)* to *(5)*, a person is guilty of the offence of hostage-taking if he or she, in or outside the State—
+
+(*a*) seizes or detains another person (“the hostage”), and
+
+(*b*) threatens to kill, injure or continue to detain the hostage,
+
+in order to compel a state, an international intergovernmental organisation, a person or a group of persons to do, or abstain from doing, any act.
+
+(2) Subject to *subsections (3)* to *(5)*, a person who attempts to commit an offence under *subsection (1)* is guilty of an offence.
+
+(3) *Subsections (1)* and *(2)* apply to an act committed outside the State if—
+
+(*a*) the act is committed on board an Irish ship,
+
+(*b*) the act is committed on an aircraft registered in the State,
+
+(*c*) the act is committed by a citizen of Ireland or by a stateless person habitually resident in the State,
+
+(*d*) the act is committed in order to compel the State to do or abstain from doing an act, or
+
+(*e*) the hostage is a citizen of Ireland.
+
+(4) *Subsections (1)* and *(2)* apply also to an act committed outside the State in circumstances other than those referred to in *subsection (3)*, but in that case the Director of Public Prosecutions may not take, or consent to the taking of, proceedings referred to in *section 43(2)* for an offence in respect of that act except as authorised by *section 43(3)*.
+
+(5) *Subsections (1)* and *(2)* do not apply in respect of any act of hostage-taking that constitutes an offence under section 3 of the Geneva Conventions Act 1962.
+
+(6) A person guilty of an offence under this section is liable on conviction on indictment to imprisonment for life.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E10: Offences under subss. (1) and (2) designated as relevant offences for purposes of retrial and double jeopardy procedure (1.09.2010) by *Criminal Procedure Act 2010* (27/2010), ss. 7-18 and sch., S.I. No. 414 of 2010.
+
+### 10. Offence of terrorist bombing.
+
+**10.**—(1) Subject to *subsections (4)* to *(6)*, a person is guilty of an offence if he or she, in or outside the State, unlawfully and intentionally delivers, places, discharges or detonates an explosive or other lethal device in, into or against—
+
+(*a*) a place of public use,
+
+(*b*) a state or government facility,
+
+(*c*) a public transportation system, or
+
+(*d*) an infrastructure facility,
+
+with intent to cause death or serious bodily injury.
+
+(2) Subject to *subsections (4)* to *(6)*, a person is guilty of an offence if—
+
+(*a*) he or she, in or outside the State, unlawfully and intentionally delivers, places, discharges or detonates an explosive or other lethal device in, into or against a place, facility or system referred to in any paragraph of *subsection (1)* with intent to cause extensive destruction to that place, facility or system, and
+
+(*b*) the destruction results in or is likely to result in major economic loss.
+
+(3) Subject to *subsections (4)* to *(6)*, a person who attempts to commit an offence under *subsection (1)* or *(2)* is guilty of an offence.
+
+(4) *Subsections (1)* to *(3)* apply to an act committed outside the State if the act is committed—
+
+(*a*) on board an Irish ship,
+
+(*b*) on an aircraft registered in or operated by the State,
+
+(*c*) by a citizen of Ireland or by a stateless person habitually resident in the State,
+
+(*d*) against a citizen of Ireland,
+
+(*e*) against a state or government facility of the State abroad, including an embassy or other diplomatic or consular premises of the State, or
+
+(*f*) in order to compel the State to do or abstain from doing an act.
+
+(5) *Subsections (1)* to *(3)* apply also in respect of an act committed outside the State in circumstances other than those referred to in *subsection (4)*, but in that case the Director of Public Prosecutions may not take, or consent to the taking of, proceedings referred to in *section 43(2)* for an offence in respect of that act except as authorised by *section 43(3)*.
+
+(6) *Subsections (1)* to *(3)* do not apply in respect of—
+
+(*a*) the activities of armed forces during an armed conflict insofar as those activities are governed by international humanitarian law, or
+
+(*b*) the activities of military forces of a state in the exercise of their official duties insofar as those activities are governed by other rules of international law.
+
+(7) A person guilty of an offence under this section is liable on conviction on indictment to imprisonment for life.
+
+(8) Subject to *subsection (9)*, a word or expression that is used in this section has the same meaning as it has in the Terrorist Bombing Convention.
+
+(9) In this section “explosive or other lethal device” means any of the following:
+
+(*a*) an explosive weapon or device that is designed, or has the capability, to cause death, serious bodily injury or substantial material damage;
+
+(*b*) an incendiary weapon or device that is designed, or has the capability, to cause death, serious bodily injury or substantial material damage;
+
+(*c*) a weapon or device that is designed, or has the capability, to cause death, serious bodily injury or substantial material damage through the release, dissemination or impact of any of the following:
+
+(i) a toxic chemical as defined in the Chemical Weapons Act 1997;
+
+(ii) a microbial or other biological agent;
+
+(iii) a toxin, whatever its origin or method of production;
+
+(iv) a substance having an effect similar to the effect of anything referred to in any of *subparagraphs (i)* to *(iii)*;
+
+(v) ionising radiation or a radioactive substance, as defined in the Radiological Protection Act 1991.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E11: Offences under subss. (1)-(3) designated as relevant offences for purposes of retrial and double jeopardy procedure (1.09.2010) by *Criminal Procedure Act 2010* (27/2010), ss. 7-18 and sch., S.I. No. 414 of 2010.
+
+### 11. Offences against internationally protected persons.
+
+**11.**—(1) Subject to *subsections (3)* and *(4)*, a person is guilty of an offence if he or she does outside the State—
+
+(*a*) an act to, or in relation to, an internationally protected person that, if done in the State, would constitute an offence specified in *Part 1* of *Schedule 6*, or
+
+(*b*) an act in connection with an attack on the official premises, the private accommodation or any means of transportation of an internationally protected person that, if done in the State, would constitute an offence specified in *Part 2* of *Schedule 6*.
+
+(2) Subject to *subsections (3)* and *(4)*, a person is guilty of an offence if he or she—
+
+(*a*) attempts to commit an act that is an offence under *subsection (1)*, or
+
+(*b*) makes a threat to commit an act that is an offence under *subsection (1)* and intends the person to whom the threat is made to fear that it will be carried out.
+
+(3) *Subsections (1)* and *(2)* apply to an act committed outside the State if the act is committed—
+
+(*a*) on board an Irish ship,
+
+(*b*) on an aircraft registered in the State,
+
+(*c*) by a citizen of Ireland, or
+
+(*d*) against a person who enjoys the status of an internationally protected person by virtue of functions exercised on behalf of the State.
+
+(4) *Subsections (1)* and *(2)* apply also to an act committed outside the State in circumstances other than those referred to in *subsection (3)*, but in that case the Director of Public Prosecutions may not take, or consent to the taking of, proceedings referred to in *section 43(2)* for an offence in respect of that act except as authorised by *section 43(3)*.
+
+(5) A person guilty of an offence under this section is liable on conviction to—
+
+(*a*) in the case of an offence under *subsection (1)* or *(2) (a)*, the penalty to which he or she would have been liable had the act that constitutes the offence been committed in the State, or
+
+(*b*) in the case of an offence under *subsection (2)(b)*, imprisonment for a term not exceeding 10 years.
+
+(6) Subject to *subsection (7)*, a word or expression that is used in this section has the same meaning as in the Internationally Protected Persons Convention.
+
+(7) In this section “internationally protected person” means, in relation to an offence under *subsection (1)* or *(2)*—
+
+(*a*) a person who, at the time of the commission of the offence—
+
+(i) is a Head of State, a member of a body that performs the functions of a Head of State under the constitution of a state, a Head of Government or a Minister for Foreign Affairs, and
+
+(ii) is outside the territory of the state in which he or she holds office,
+
+(*b*) a person who does not fall within *paragraph (a)* and who, at the time of the commission of the offence—
+
+(i) is a representative or official of a state or an official or agent of an international organisation of an intergovernmental character, and
+
+(ii) is entitled under international law to protection from attack on his or her person, freedom or dignity,
+
+or
+
+(*c*) a person who, at the time of the commission of the offence—
+
+(i) is a member of the family of a person mentioned in *paragraph (a)* and is accompanying him or her, or
+
+(ii) is a member of the family and of the household of a person mentioned in *paragraph (b)*.
+
+## PART 4Suppression of Financing of Terrorism — PART 4 — Suppression of Financing of Terrorism
+
+### 12. Interpretation of Part 4.
+
+**12.**—(1) In this Part, except where the context otherwise requires—
+
+“disposal order” means an order under *section 16*;
+
+“funds” means—
+
+(*a*) assets of every kind, whether tangible or intangible, movable or immovable, however acquired, and
+
+(*b*) any legal document or instrument in any form, including electronic or digital, evidencing title to, or any interest in, any asset, including, but not limited to, a bank credit, traveller's cheque, bank cheque, money order, share, security, bond, draft and letter of credit;
+
+“interim order” means an order under *section 14*;
+
+“interlocutory order” means an order under *section 15*;
+
+“member of the Garda Síochána” means a member of the Garda Síochána not below the rank of Chief Superintendent;
+
+“respondent” means—
+
+(*a*) a person in respect of whom an application for an interim order or an interlocutory order has been made, or
+
+(*b*) a person in respect of whom an interim order or an interlocutory order has been made,
+
+and includes a person who, but for this Act, would become entitled on the death of a person referred to in *paragraph (a)* or *(b)* to any funds to which such an order relates (being an order that is in force and is in respect of that person);
+
+“Terrorist Financing Convention” means the International Convention for the Suppression of the Financing of Terrorism adopted by resolution 54/109 of the General Assembly of the United Nations on 9 December 1999, the English language text of which is set out for convenience of reference in *Schedule 7*.
+
+(2) For the purposes of *sections 14* to *20*, a person is considered to be in possession or control of funds notwithstanding that all or part of them—
+
+(*a*) are lawfully in the possession or control of a member of the Garda Síochána of any rank or any other person, having been lawfully seized or otherwise taken by any such member or person, or
+
+(*b*) are subject to an interim order, an interlocutory order or any other order of a court that does either of the following or is to the like effect:
+
+(i) prohibits any person from disposing of or otherwise dealing with the funds or diminishing their value;
+
+(ii) contains any conditions or restrictions in that regard,
+
+or
+
+(*c*) are subject to a letting agreement, the subject of a trust or otherwise occupied by another person or are inaccessible.
+
+(3) *Subsection (2)* is not to be construed to limit the generality of sections 11(2) and 13(2) of the Act of 1996 as made applicable by *section 20* of this Act.
+
+### 13. Offence of financing terrorism.
+
+**13.**—(1) Subject to *subsections (6)* and *(7)*, a person is guilty of an offence if, in or outside the State, the person by any means, directly or indirectly, unlawfully and wilfully provides, collects or receives funds intending that they be used or knowing that they will be used, in whole or in part in order to carry out—
+
+(*a*) an act that constitutes an offence under the law of the State and within the scope of, and as defined in, any treaty that is listed in the annex to the Terrorist Financing Convention, or
+
+(*b*) an act (other than one referred to in *paragraph (a)*)—
+
+(i) that is intended to cause death or serious bodily injury to a civilian or to any other person not taking an active part in the hostilities in a situation of armed conflict, and
+
+(ii) the purpose of which is, by its nature or context, to intimidate a population or to compel a government or an international organisation to do or abstain from doing any act.
+
+(2) Subject to *subsections (6)* and *(7)*, a person who attempts to commit an offence under *subsection (1)* is guilty of an offence.
+
+(3) A person is guilty of an offence if the person by any means, directly or indirectly, unlawfully and wilfully provides, collects or receives funds intending that they be used or knowing that they will be used, in whole or in part—
+
+(*a*) for the benefit or purposes of a terrorist group as defined in *section 4*, or
+
+(*b*) in order to carry out an act (other than one referred to in *paragraph (a)* or *(b)* of *subsection (1)*) that is an offence under *section 6*.
+
+(4) A person who attempts to commit an offence under *subsection (3)* is guilty of an offence.
+
+F39[(5) (*a*) In proceedings for an offence under *subsection (1)*, it shall not be necessary to prove that—
+
+(i) the funds concerned were wholly or partly used for the purpose of carrying out an act referred to in that *subsection (1)*, or
+
+(ii) the accused was aware of the specific act for which the funds concerned were, or were to be, wholly or partly used.
+
+(*b*) In proceedings for an offence under *subsection (3)* to which *paragraph (a)* of that subsection applies, it shall not be necessary to prove that the funds concerned were wholly or partly used for the benefit or purposes of a terrorist group within the meaning of *Part 2*.
+
+(*c*) In proceedings for an offence under *subsection (3)* to which *paragraph (b)* of that subsection applies, it shall not be necessary to prove that—
+
+(i) the funds concerned were wholly or partly used for the purpose of carrying out an act referred to in the said *paragraph (b)*, or
+
+(ii) the accused was aware of the specific act for which the funds concerned were, or were to be, wholly or partly used.]
+
+(6) F40[*Subsections (1)*, *(2)*, *(3)* and *(4)*] apply to an act committed outside the State if the act—
+
+(*a*) is committed on board an Irish ship,
+
+(*b*) is committed on an aircraft registered in or operated by the State,
+
+(*c*) is committed by a citizen of Ireland or by a stateless person habitually resident in the State,
+
+(*d*) is directed towards or results in the carrying out of an act referred to in *subsection (1)* in the State or against a citizen of Ireland,
+
+(*e*) is directed towards or results in the carrying out of an act referred to in *subsection (1)* against a State or Government facility of the State abroad, including an embassy or other diplomatic or consular premises of the State, or
+
+(*f*) is directed towards or results in the carrying out of an act referred to in *subsection (1)* in an attempt to compel the State to do or abstain from doing any act.
+
+(7) F41[*Subsections (1)*, *(2)*, *(3)* and *(4)*] apply also to an act committed outside the State in circumstances other than those referred to in *subsection (6)*, but in that case the Director of Public Prosecutions may not take, or consent to the taking of, proceedings referred to in *section 43(2)* for an offence in respect of that act except as authorised by *section 43(3)*.
+
+(8) A person guilty of an offence under this section is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both, or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 20 years or both.
+
+F42[(9) *Subsections (9)* and *(10)* of *section 6* shall apply for the purposes of this section as they apply for the purposes of that section subject to the modification that the reference in the said *subsection (9)* to an offence under that section shall be construed as a reference to an offence under this section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F39, F40, F41: Substituted (8.07.2026) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2026* (19/2026), s. 9(a)-(c), commenced as per s. 13(3).
+>
+> F42: Inserted (8.07.2026) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2026* (19/2026), s. 9(d), commenced as per s. 13(3).
+>
+> **Editorial Notes:**
+>
+> E12: Terrorist financing under section designated as a relevant offence (9.08.2011) for the purpose of provisions relating to orders directing the production of documents or the provision of information under *Criminal Justice Act 2011* (22/2011), s. 3 and Part 3, S.I. No. 411 of 2011.
+>
+> E13: A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E14: Procedures in relation to terrorist financing under section for investigations and requirements in relation to financial and professional service providers provided (15.07.2010) by *Criminal Justice (Money Laundering and Terrorist Financing) Act 2010* (6/2010), Parts 3 and 4, S.I. No. 342 of 2010.
+
+### 14. Interim order freezing certain funds.
+
+**14.**—(1) If satisfied on application *ex parte* by a member of the Garda Síochána that a person is in possession or control of funds that are being used or may be intended for use in committing, or facilitating the commission of, an offence under *section 6* or *13*, the High Court may make an order prohibiting the person, any other specified person or any other person having notice of the order from—
+
+(*a*) disposing of or otherwise dealing with all or, where appropriate, a specified part of the funds during such period, not exceeding 40 days, as may be specified by the Court, or
+
+(*b*) diminishing the value of the funds during that period.
+
+(2) An interim order—
+
+(*a*) may contain such provisions, conditions and restrictions as the Court considers necessary or expedient, and
+
+(*b*) shall provide for notice of the order to be given to the respondent and any other person who appears to be or is affected by it unless the Court is satisfied that it is not reasonably possible to ascertain their whereabouts.
+
+(3) On application by the respondent or any other person claiming ownership of the funds specified in an interim order that is in force, the Court may discharge or, as may be appropriate, vary the order if satisfied that those funds or a part of them are not funds that are being used or may be intended for use in committing or facilitating the commission of an offence under *section 6* or *13*.
+
+(4) On application by a member of the Garda Síochána or any other person, the Court may vary an interim order to such extent as may be necessary to permit—
+
+(*a*) the enforcement of any order of a court for the payment by the respondent of any sum, including any sum in respect of costs,
+
+(*b*) the recovery by a county registrar or sheriff of income tax due by the respondent pursuant to a certificate issued by the Collector-General under section 962 of the Taxes Consolidation Act 1997, together with the fees and expenses provided for in that section, or
+
+(*c*) the institution of proceedings for, or relating to, the recovery of any other sum owed by the respondent.
+
+(5) *Subsection (4)* is not to be construed to limit the generality of section 6 of the Act of 1996 as made applicable by *section 20* of this Act.
+
+(6) On application at any time by a member of the Garda Síochána, the Court shall discharge an interim order.
+
+(7) Subject to *subsections (3), (6)* and *(11)*, an interim order continues in force until the end of the period specified by the Court and then lapses unless an application for an interlocutory order in respect of any of the funds concerned is brought during that period.
+
+(8) If an application for an interlocutory order is brought within the period allowed under *subsection (7)*, the interim order lapses on—
+
+(*a*) the determination of the application,
+
+(*b*) the expiry of the ordinary time for bringing an appeal against the determination, or
+
+(*c*) if such appeal is brought, the determination or abandonment of the appeal or any further appeal or the expiry of the ordinary time for bringing any further appeal,
+
+whichever is the latest.
+
+(9) Notice of an application under *subsection (3)* for the discharge or variation of an interim order shall be given by the respondent or other person making the application to—
+
+(*a*) the member of the Garda Síochána who applied for the interim order, and
+
+(*b*) such other (if any) persons as the Court may direct.
+
+(10) Notice of an application under *subsection (4)* for the variation, or under *subsection (6)* for the discharge, of an interim order shall be given by the applicant to—
+
+(*a*) the respondent unless the Court is satisfied that it is not reasonably possible to ascertain the respondent's whereabouts, and
+
+(*b*) such other (if any) persons as the Court may direct.
+
+(11) Where a forfeiture order, or a confiscation order, under the Act of 1994 relates to any funds that are the subject of an interim order that is in force—
+
+(*a*) the interim order is discharged, if it relates only to the funds that are the subject of the forfeiture order or the confiscation order, as the case may be, and
+
+(*b*) the interim order is varied by the exclusion from it of the other funds, if it relates to other funds in addition to the funds that are the subject of the forfeiture order or the confiscation order, as the case may be.
+
+### 15. Interlocutory order.
+
+**15.**—(1) If, on application by a member of the Garda Síochána, it appears to the High Court on evidence tendered by the applicant that a person is in possession or control of funds that were being used or may be intended for use in committing or facilitating the commission of an offence under *section 6* or *13*, the Court shall, subject to *subsection (2)* of this section, make an order prohibiting the respondent, any other specified person or any other person having notice of the order from—
+
+(*a*) disposing of or otherwise dealing with all or, where appropriate, a specified part of the funds, or
+
+(*b*) diminishing the value of the funds,
+
+unless the Court is satisfied, on evidence tendered by the respondent or any other person, that the funds are not being used or intended for use in committing or facilitating the commission of an offence under *section 6* or *13*.
+
+(2) The Court shall not make an interlocutory order if it is satisfied that there would be a serious risk of injustice.
+
+(3) Evidence tendered by the applicant for an interlocutory order may consist of or include evidence admissible by virtue of *section 18*.
+
+(4) An interlocutory order—
+
+(*a*) may contain such provisions, conditions and restrictions as the Court considers necessary or expedient, and
+
+(*b*) shall provide for notice of the order to be given to the respondent and any other person who appears to be or is affected by it unless the Court is satisfied that it is not reasonably possible to ascertain their whereabouts.
+
+(5) On application by the respondent or any other person claiming ownership of the funds concerned, the Court may discharge or, as may be appropriate, vary an order that is in force if satisfied that—
+
+(*a*) the funds concerned, or a part of them, are not funds that are being used or may be intended for use in committing or facilitating the commission of an offence under *section 6* or *13*, or
+
+(*b*) the order causes any other injustice.
+
+(6) On application by a member of the Garda Síochána or any other person, the Court may vary an interlocutory order to such extent as may be necessary to permit—
+
+(*a*) the enforcement of any order of a court for the payment by the respondent of any sum, including any sum in respect of costs,
+
+(*b*) the recovery by a county registrar or sheriff of income tax due by the respondent pursuant to a certificate issued by the Collector-General under section 962 of the Taxes Consolidation Act 1997, together with the fees and expenses provided for in that section, or
+
+(*c*) the institution of proceedings for, or relating to, the recovery of any other sum owed by the respondent.
+
+(7) *Subsection (6)* is not to be construed to limit the generality of section 6 of the Act of 1996 as made applicable by *section 20* of this Act.
+
+(8) On application at any time by a member of the Garda Síochána, the Court shall discharge an interlocutory order.
+
+(9) Subject to *subsections (5)*, *(6)* and *(12)*, an interlocutory order continues in force until—
+
+(*a*) the determination of an application for a disposal order in relation to the funds concerned,
+
+(*b*) the expiry of the ordinary time for bringing an appeal from that determination, or
+
+(*c*) if such an appeal is brought, the determination or abandonment of the appeal or any further appeal or the expiry of the ordinary time for bringing any further appeal,
+
+whichever is the latest.
+
+(10) Notice of an application under *subsection (1)* for an interlocutory order or of an application under *subsection (6)* for the variation, or under *subsection (8)* for the discharge, of an interlocutory order shall be given by the applicant to—
+
+(*a*) the respondent unless the Court is satisfied that it is not reasonably possible to ascertain the respondent's whereabouts, and
+
+(*b*) any other person to whom the Court directs that notice be given.
+
+(11) Notice of an application under *subsection (5)* to discharge or vary an interlocutory order shall be given by the respondent or other person making the application to—
+
+(*a*) the member of the Garda Síochána who applied for the interlocutory order, and
+
+(*b*) such other (if any) persons as the Court may direct.
+
+(12) Where a forfeiture order, or a confiscation order, under the Act of 1994 relates to any funds that are the subject of an interlocutory order that is in force—
+
+(*a*) the interlocutory order is discharged, if it relates only to the funds that are the subject of the forfeiture order or the confiscation order, as the case may be, and
+
+(*b*) the interlocutory order is varied by the exclusion from it of the other funds, if it relates to other funds in addition to the funds that are the subject of the forfeiture order or the confiscation order, as the case may be.
+
+### 16. Disposal order.
+
+**16.**—(1) Subject to *subsection (2)*, where an interlocutory order has been in force for not less than 7 years in relation to funds, the High Court may, on application by a member of the Garda Síochána, make an order directing that all or, if appropriate, a specified part of the funds be transferred, subject to such terms and conditions as the Court may specify, to the Minister for Finance or such other person as the Court may determine.
+
+(2) Subject to *subsections (6)* and *(8)*, the Court shall make a disposal order in relation to any funds that are the subject of an application under *subsection (1)* unless it is satisfied that the funds are not funds that had been used or were intended for use in committing or facilitating the commission of an offence under *section 6* or *13*.
+
+(3) The applicant shall give notice of an application under this section to—
+
+(*a*) the respondent unless the Court is satisfied that it is not reasonably possible to ascertain the respondent's whereabouts, and
+
+(*b*) such other (if any) persons as the Court may direct.
+
+(4) A disposal order operates to deprive the respondent of any rights to the funds to which the order relates and on the making of the order the funds are transferred to the Minister for Finance or other person determined by the Court.
+
+(5) The Minister for Finance may dispose of any funds transferred to him or her under this section and any proceeds of the disposition and any money transferred to that Minister under this section shall be paid into and disposed of by him or her for the benefit of the Exchequer.
+
+(6) In proceedings under *subsection (1)*, before deciding whether to make a disposal order, the Court shall give any person claiming ownership of the funds an opportunity to be heard by the Court and to show cause why the order should not be made.
+
+(7) On application by the respondent or, if the respondent's whereabouts cannot be ascertained, on the Court's own initiative, the Court may, if it considers it appropriate to do so in the interests of justice, adjourn the hearing of an application under *subsection (1)* for such period not exceeding 2 years as it considers reasonable.
+
+(8) The Court shall not make a disposal order if it is satisfied that there would be a serious risk of injustice.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C2: Functions transferred and references to “Department of Public Expenditure and Reform” and “Minister for Public Expenditure and Reform” construed (28.10.2015) by *Public Expenditure and Reform (Transfer of Departmental Administration and Ministerial Functions) Order 2015* (S.I. No. 517 of 2015), subject to transitional provisions in arts. 4-6.
+>
+> 2\. The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Finance.
+>
+> 3\. The functions conferred on the Minister for Public Expenditure and Reform by or under sections 16, 19 and 42 of the Criminal Justice (Terrorist Offences) Act 2005 (No. 2 of 2005) are transferred to the Minister for Finance.
+>
+> **Editorial Notes:**
+>
+> E15: Previous affecting provision: functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9; superseded as per C-note above.
+
+### 17. Ancillary orders and provision in relation to certain profits or gains, etc.
+
+**17.**—(1) At any time while an interim or interlocutory order is in force, the High Court may, on application by a member of the Garda Síochána, make such orders as it considers necessary or expedient to enable the interim order or interlocutory order to have full effect.
+
+(2) The applicant shall give notice of an application under this section to—
+
+(*a*) the respondent unless the Court is satisfied that it is not reasonably possible to ascertain the respondent's whereabouts, and
+
+(*b*) such other (if any) persons as the Court may direct.
+
+(3) An interim order, an interlocutory order or a disposal order may be expressed to apply to—
+
+(*a*) any profit, gain or interest,
+
+(*b*) any dividend or other payment, or
+
+(*c*) any other funds,
+
+payable or arising, after the making of the order, in connection with any other funds to which the order relates.
+
+### 18. Evidence and proceedings relating to interim and other orders.
+
+**18.**—(1) A statement made by a member of the Garda Síochána—
+
+(*a*) in proceedings under *section 14*, on affidavit or, if the High Court so directs, in oral evidence, or
+
+(*b*) in proceedings under *section 15*, in oral evidence,
+
+that he or she believes that the respondent is in possession or control of funds that are being used, or may be intended for use, in committing or facilitating the commission of an offence under *section 6* or *13* is evidence of the matter if the Court is satisfied that there are reasonable grounds for that belief.
+
+(2) The standard of proof applicable in civil proceedings is the standard required to determine any question arising under *section 14, 15, 16, 17, 19* or *20*.
+
+(3) Proceedings under *section 14* in relation to an interim order shall be heard otherwise than in public and any proceedings under *section 15, 16, 17* or *19* may, if the respondent or any other party to the proceedings (other than the applicant) so requests and the Court considers it proper, be heard otherwise than in public.
+
+(4) The Court may, if it considers it appropriate to do so, prohibit the publication of such information as it may determine in relation to proceedings under *section 14, 15, 16, 17* or *19*, including information relating to—
+
+(*a*) applications for, the making or refusal of and the contents of orders under any of those sections, and
+
+(*b*) the persons to whom those orders relate.
+
+### 19. Compensation.
+
+**19.**—(1) An application to the High Court for an order under this section may be made where—
+
+(*a*) an interim order is discharged or lapses and an interlocutory order in relation to the matter is not made or, if made, is discharged (otherwise than pursuant to *section 14(11)*),
+
+(*b*) an interlocutory order is discharged (otherwise than pursuant to *section 15(12)*) or lapses and a disposal order in relation to the matter is not made or, if made, is discharged, or
+
+(*c*) an interim order or an interlocutory order is varied (otherwise than pursuant to *section 14(11)* or *15(12)*) or a disposal order is varied on appeal.
+
+(2) On application under *subsection (1)* by a person who satisfies the Court that—
+
+(*a*) the person is the owner of funds to which—
+
+(i) an interim order referred to in *subsection (1)(a)* related,
+
+(ii) an interlocutory order referred to in *subsection (1)(b)* related,
+
+(iii) an order referred to in *subsection (1)(c)* had related, but by reason of it being varied by a court, has ceased to relate,
+
+and
+
+(*b*) the funds are not being used or intended for use in committing or facilitating the commission of an offence under *section 6* or *13*,
+
+the Court may award to the person such (if any) compensation payable by the Minister for Finance as it considers just in the circumstances in respect of any loss incurred by the person by reason of the order concerned.
+
+(3) The Minister for Finance shall be given notice of, and be entitled to be heard in, any proceedings under this section.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C3: Functions transferred and references to “Department of Public Expenditure and Reform” and “Minister for Public Expenditure and Reform” construed (28.10.2015) by *Public Expenditure and Reform (Transfer of Departmental Administration and Ministerial Functions) Order 2015* (S.I. No. 517 of 2015), subject to transitional provisions in arts. 4-6.
+>
+> 2\. The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Finance.
+>
+> 3\. The functions conferred on the Minister for Public Expenditure and Reform by or under sections 16, 19 and 42 of the Criminal Justice (Terrorist Offences) Act 2005 (No. 2 of 2005) are transferred to the Minister for Finance.
+>
+> **Editorial Notes:**
+>
+> E16: Previous affecting provision: functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9; superseded as per C-note above.
+
+### 20. Application of certain provisions of Act of 1996.
+
+**20.**—For the purposes of this Part, sections 6, 7 and 9 to 15 of the Act of 1996 apply with the following modifications and any other necessary modifications as if an interim order, an interlocutory or a disposal order made under this Part, or an application for such an order, had been made under the Act of 1996:
+
+(*a*) a reference in any of the applicable provisions of the Act of 1996 to applicant shall be construed as referring to the member of the Garda Síochána who applied to the High Court for the interim order, interlocutory order or disposal order;
+
+(*b*) a reference in any of the applicable provisions of the Act of 1996 to respondent shall be construed as defined in *section 12* of this Act;
+
+(*c*) a reference in any of the applicable provisions of the Act of 1996 to property shall be construed as referring to funds.
+
+### 21. Amendment of section 3 of Act of 1994.
+
+**21.**—Section 3 of the Act of 1994 is amended as follows:
+
+(*a*) in subsection (1) by inserting the following:
+
+“ ‘Act of 2005’ means the *Criminal Justice (Terrorist Offences) Act 2005*;”;
+
+(*b*) in subsection (1) by substituting the following for the definition of “confiscation order”;
+
+“ ‘confiscation order’ means an order made under section 4(4), 8A(5) or 9(1) of this Act;”;
+
+(*c*) in subsection (1) by substituting the following for the definition of “defendant”:
+
+“ ‘defendant’ means, for the purposes of any provision of this Act relating to confiscation, and subject to section 23(2)(*a*) of this Act, a person against whom proceedings for the relevant drug trafficking offence, offence of financing terrorism or other offence have been instituted;”;
+
+(*d*) in subsection (1) by inserting the following definitions:
+
+“ ‘funds’ has the meaning given by *section 12* of the *Act of 2005*;”;
+
+“ ‘funds subject to confiscation’ has the meaning given by section 8A(2) of this Act;”;
+
+“ ‘offence of financing terrorism’ means an offence under *section 13* of the *Act of 2005*;”;
+
+“ ‘proceeds’, in relation to an offence of financing terrorism, means any funds derived from or obtained, directly or indirectly, through the commission of that offence, including payments and rewards;”;
+
+(*e*) in subsection (1) by substituting the following for the definition of “property”:
+
+“ ‘property’ includes money and all other property, real or personal, heritable or moveable, including choses-in-action and other intangible or incorporeal property and, in relation to an offence of financing terrorism, includes funds;”;
+
+(*f*) in subsection (1) by inserting the following definition:
+
+“ ‘value of funds subject to confiscation’ has the meaning given by section 8B(1) of this Act;”;
+
+(*g*) by inserting the following after subsection (9):
+
+“(9A) For the purposes of the provisions of this Act relating to an offence of financing terrorism, a gift (including a gift made before the commencement of section 8A of this Act) is caught by this Act if—
+
+(*a*) it was made by the defendant at any time since the beginning of a period of 6 years ending when proceedings in respect of that offence were instituted against the defendant, or
+
+(*b*) it was made by the defendant at any time and was a gift of property—
+
+(i) which was received by the defendant in connection with an offence of financing terrorism committed by the defendant or another person, or
+
+(ii) which in whole or in part directly or indirectly represented in the defendant's hands funds received by the defendant in connection with an offence of financing terrorism.”;
+
+(*h*) in subsection (16)(*g*) by substituting “an application under section 7, 8D or 13 of this Act” for “an application under section 7 or 13 of this Act”;
+
+(*i*) in subsection (16)(*h*) by substituting “an application under section 8, 8E or 18 of this Act” for “an application under section 8 or 18 of this Act”.
+
+### 22. Amendment of Part II of Act of 1994 — new sections 8A to 8E.
+
+**22.**—Part II of the Act of 1994 is amended by inserting the following after section 8:
+
+| “Confiscation orders relating to offence of financing terrorism. | 8A.—(1) Where a person has been sentenced or otherwise dealt with by a court in respect of one or more offences of financing terrorism of which that person has been convicted, the Director of Public Prosecutions may make, or cause to be made, an application to the court to determine whether the convicted person holds funds subject to confiscation. (2) For the purposes of this Act, funds subject to confiscation are— (*a*) funds used or allocated for use in connection with an offence of financing terrorism, or (*b*) funds that are the proceeds of such an offence. (3) An application under subsection (1) of this section may be made at the conclusion of the proceedings at which the person is sentenced or otherwise dealt with or at a later stage in the proceedings. (4) An application under subsection (1) of this section shall not be made unless it appears to the Director of Public Prosecutions that the person in question holds funds subject to confiscation. (5) If the court determines that the person in question holds funds subject to confiscation, the court shall— (*a*) determine in accordance with section 8C of this Act the amount to be recovered in that person's case by virtue of this section, and (*b*) make a confiscation order under this section requiring the person to pay that amount. (6) The standard of proof applicable in civil proceedings is the standard required to determine a question arising under this Act as to— (*a*) whether a person holds funds subject to confiscation, and (*b*) the amount to be recovered in that person's case by virtue of this section. |
+|---|---|
+| Assessing the value of funds subject to confiscation. | 8B.—(1) For the purposes of this Act, the value of the funds that are subject to confiscation is the aggregate of the values of those funds held by the defendant. (2) For the purpose of assessing the value of funds subject to confiscation, the court shall, subject to subsection (3) of this section, make the following assumptions: (*a*) that any funds appearing to the court— (i) to have been held by the defendant at any time since the conviction, or (ii) to have been transferred to the defendant at any time since the beginning of the period of six years ending when the proceedings were instituted against the defendant, were received or collected by the defendant, at the earliest time at which the defendant appears to the court to have held them, for use (whether or not used) in connection with the offence of financing terrorism or as the proceeds of such offence; (*b*) that any expenditure of the defendant since the beginning of that period was met out of funds subject to confiscation; (*c*) that the funds subject to confiscation are held by the defendant free of any other interests in them. (3) The court shall not make an assumption set out in subsection (2) of this section if— (*a*) that assumption is shown to be incorrect in the case of the defendant, or (*b*) the court is satisfied that there would be a serious risk of injustice in that case were the assumption made. (4) Where the court does not apply one or more of the assumptions set out in subsection (2) of this section, it shall state its reasons. (5) For the purpose of assessing the value of funds subject to confiscation in a case where a confiscation order has previously been made against the defendant, the court shall not take into account any of that defendant's funds subject to confiscation that are shown to the court to have been taken into account in determining the amount to be recovered under the confiscation order. |
+| Amount to be recovered under a confiscation order made under section 8A. | 8C.—(1) Subject to subsection (2) of this section, where a confiscation order has been made under section 8A of this Act, the amount to be recovered under the order shall be equal to the amount assessed by the court to be the value of the defendant's funds subject to confiscation. (2) If the court is satisfied that the amount that might be realised at the time the confiscation order is made is less than the amount the court assesses to be the value of the funds subject to confiscation, the amount to be recovered in the defendant's case under the confiscation order shall be the amount appearing to the court to be the amount that might be so realised. |
+| Re-assessment of whether defendant holds funds subject to confiscation. | 8D.—(1) This section applies where an application has previously been made to the court under section 8A of this Act and the court has determined that the defendant did not hold funds subject to confiscation. (2) The Director of Public Prosecutions may make, or cause to be made, an application to the court for it to consider evidence— (*a*) which was not considered by the court in making the determination referred to in subsection (1) of this section, and (*b*) which, had it been considered, the Director of Public Prosecutions believes would have led the court to determine that the defendant held funds subject to confiscation. (3) If, having considered the evidence, the court is satisfied that, had that evidence been available to it, it would have determined that the defendant held funds subject to confiscation, the court— (*a*) shall— (i) make a fresh determination of whether the defendant holds funds subject to confiscation, and (ii) make a determination under section 8A(5) of this Act of the amount to be recovered by virtue of that section, and (*b*) may make a confiscation order under section 8A(5) of this Act. (4) In considering an application under this section, the court may take into account any funds held by the defendant on or after the date of the determination referred to in subsection (1) of this section, but only if the Director of Public Prosecutions shows that the funds relate to an offence of financing terrorism committed on or before that date by the defendant or another person. (5) In considering any evidence under this section relating to any funds to which subsection (4) applies, the court shall not make the assumptions which would otherwise be required under section 8B of this Act. (6) No application shall be entertained by the court under this section if it is made after the end of the period of six years beginning with the date on which the defendant was convicted. |
+| Revised assessment of funds subject to confiscation. | 8E.—(1) This section applies where a court has made a determination (referred to in this section as ‘the current determination’) under section 8A(5) of this Act of the amount to be recovered in a particular case by virtue of that section. (2) Where the Director of Public Prosecutions is of the opinion that the real value of the defendant's funds subject to confiscation was greater than their assessed value, the Director of Public Prosecutions may make, or cause to be made, an application to the court for the evidence on which that opinion was formed to be considered by the court. (3) In subsections (2) and (4) of this section— ‘assessed value’ means the value of the defendant's funds subject to confiscation as assessed by the court under section 8C(1) of this Act; ‘real value’ means the value of the defendant's funds subject to confiscation which relate to an offence of financing terrorism committed either in the period by reference to which the current determination was made or in any earlier period. (4) If, having considered the evidence, the court is satisfied that the real value of the defendant's funds subject to confiscation is greater than their assessed value (whether because their real value was higher at the time of the current determination than was thought or because the value of the funds subject to confiscation has subsequently increased), the court shall make a fresh determination under section 8A(5) of this Act of the amount to be recovered by virtue of that section. (5) Any determination under section 8A(5) of this Act by virtue of this section shall be by reference to the amount that might be realised at the time the determination is made. (6) For any determination under section 8A(5) of this Act by virtue of this section, section 8B(5) of this Act shall not apply in relation to any of the defendant's funds subject to confiscation that were taken into account in respect of the current determination. (7) In relation to a determination under section 8A(5) of this Act by virtue of this section— (*a*) section 3(2) of this Act shall have effect as if for ‘a confiscation order is made against the defendant’ there were substituted ‘of the determination’, (*b*) sections 3(8), 10(5)(*a*) and 12(4) of this Act shall have effect as if for ‘confiscation order’ there were substituted ‘determination’, and (*c*) section 8C(2) of this Act shall have effect as if for ‘confiscation order is made’ there were substituted ‘determination is made’. (8) The court may take into account any funds held by the defendant on or after the date of the current determination, but only if the Director of Public Prosecutions shows that the funds relate to an offence of financing terrorism committed before that date by the defendant or another person. (9) In considering any evidence relating to any funds to which subsection (8) applies, the court shall not make the assumptions which would otherwise be required by section 8B of this Act. (10) If, as a result of making the fresh determination required by subsection (4) of this section, the amount to be recovered exceeds the amount set by the current determination, the court may substitute for the amount to be recovered under the confiscation order which was made by reference to the current determination such greater amount as it thinks just in all the circumstances of the case. (11) No application shall be entertained by the court under this section if it is made after the end of the period of six years beginning with the date on which the defendant was convicted.”. |
+
+### 23. Amendment of section 9 of Act of 1994.
+
+**23.**—Section 9 of the Act of 1994 is amended as follows:
+
+(*a*) in subsection (1) by substituting “, other than a drug trafficking offence or an offence of financing terrorism,” for “, other than a drug trafficking offence,”,
+
+(*b*) in subsection (2) by substituting “(not being a drug trafficking offence or an offence of financing terrorism)” for “(not being a drug trafficking offence)”, and
+
+(*c*) in subsection (4) by substituting “, other than a drug trafficking offence or an offence of financing terrorism,” for “other than a drug trafficking offence”.
+
+### 24. Amendment of section 10 of Act of 1994.
+
+**24.**—Section 10 of the Act of 1994 is amended as follows:
+
+(*a*) by substituting the following for subsection (1) (amended by section 27 of the Criminal Justice Act 1999):
+
+“(1) Where a defendant accepts to any extent an allegation in a statement that—
+
+(*a*) is tendered by or on behalf of the Director of Public Prosecutions to a court that is engaged in a determination under section 4 of this Act as to whether a person has benefited from drug trafficking or as to any amount to be recovered by virtue of that section or to a court that is considering an application under section 7, 8, 8A, 8D, 8E or 9 of this Act, and
+
+(*b*) concerns any matter relevant—
+
+(i) to the determination of whether the defendant—
+
+(I) in the case of a conviction for a drug trafficking offence, has benefited from drug trafficking,
+
+(II) in the case of a conviction for an offence of financing terrorism, holds funds subject to confiscation, or
+
+(III) in the case of a conviction for an offence other than a drug trafficking offence or an offence of financing terrorism, has benefited as mentioned in section 9(4) of this Act,
+
+or
+
+(ii) to the assessment of the value of the defendant's proceeds of drug trafficking, the value of the funds subject to confiscation or the value of the defendant's benefits as mentioned in section 9(4) of this Act, as the case may be,
+
+the court may, for the purposes of that determination or assessment, treat the defendant's acceptance as conclusive of the matters to which it relates.”;
+
+(*b*) by substituting the following for subsection (4):
+
+“(4) A defendant who fails in any respect to comply with a requirement under subsection (3) of this section may be treated for the purposes of this section as accepting every allegation in the statement other than—
+
+(*a*) any allegation in respect of which the defendant has complied with the requirement, and
+
+(*b*) any allegation that—
+
+(i) in the case of a conviction for one or more drug trafficking offences, the defendant has benefited from drug trafficking or that any payment or reward was received by the defendant in connection with drug trafficking carried on by the defendant or another person,
+
+(ii) in the case of a conviction for one or more offences of financing terrorism, the defendant holds funds subject to confiscation, or
+
+(iii) in the case of a conviction for one or more offences, other than a drug trafficking offence or an offence of financing terrorism, the defendant benefited from the offence or property was obtained from the defendant as a result of or in connection with the commission of an offence.”;
+
+(*c*) by substituting the following for subsection (8):
+
+“(8) No acceptance by the defendant under this section of an allegation that—
+
+(*a*) any payment or other reward was received by the defendant in connection with drug trafficking carried on by the defendant or another person,
+
+(*b*) the defendant holds funds subject to confiscation, or
+
+(*c*) the defendant has benefited from an offence other than a drug trafficking offence or an offence of financing terrorism,
+
+shall be admissible in evidence in any proceedings for an offence.”.
+
+### 25. Amendment of section 11 of Act of 1994.
+
+**25.**—Section 11(1) of the Act of 1994 (inserted by section 28 of the Criminal Justice Act 1999) is amended by substituting the following for paragraph (*b*):
+
+“(*b*) an application has been made to a court under section 7, 8, 8A, 8D, 8E or 9 of this Act.”.
+
+### 26. Amendment of section 12 of Act of 1994.
+
+**26.**—Section 12 of the Act of 1994 is amended as follows:
+
+(*a*) in subsection (1) by substituting “(but not when considering whether to make such an order under section 4 or 8A of this Act)” for “(but not when considering whether to make an order under section 4 of this Act)”;
+
+(*b*) in subsection (4) by substituting the following paragraphs for paragraph (*b*):
+
+“(*b*) (in the case of a conviction for one or more offences of financing terrorism) the value of the defendant's funds subject to confiscation, or
+
+(*c*) (in the case of a conviction for an offence or offences other than a drug trafficking offence or an offence of financing terrorism) the value of the defendant's benefit from the offence or offences in respect of which the order may be made.”.
+
+### 27. Amendment of section 13 of Act of 1994.
+
+**27.**—Section 13 of the Act of 1994 is amended as follows:
+
+(*a*) by substituting the following for subsection (2):
+
+“(2) The High Court may exercise the powers of a court under section 4, 8A or 9 of this Act to make a confiscation order against the defendant in the case of a conviction for a drug trafficking offence, an offence of financing terrorism or an offence other than a drug trafficking offence or an offence of financing terrorism if—
+
+(*a*) the Director of Public Prosecutions asks the High Court to proceed under this section, and
+
+(*b*) the High Court is satisfied that the defendant has died or absconded.”;
+
+(*b*) by substituting the following for subsection (4):
+
+“(4) The High Court may exercise the powers of a court under section 4, 8A or 9 of this Act to make a confiscation order against the defendant if—
+
+(*a*) the relevant proceedings have been instituted in respect of a drug trafficking offence, an offence of financing terrorism or an offence other than a drug trafficking offence or an offence of financing terrorism,
+
+(*b*) the Director of Public Prosecutions asks the High Court to proceed under this section, and
+
+(*c*) the High Court is satisfied that the defendant has absconded.”;
+
+(*c*) in subsection (6) by substituting the following for paragraph (*a*):
+
+“(*a*) sections 5(2), 8B(2), 10(3) and 10(4) of this Act shall not apply,”.
+
+### 28. Amendment of section 17 of Act of 1994.
+
+**28.**—Section 17 of the Act of 1994 is amended as follows:
+
+(*a*) in subsection (2) by substituting the following for paragraph (*a*):
+
+“(*a*) the value of the defendant's—
+
+(i) proceeds of drug trafficking,
+
+(ii) funds subject to confiscation, or
+
+(iii) benefit as mentioned in section 9(4) of this Act,
+
+as the case may be, in the period by reference to which the determination in question was made (‘the original value’), or”;
+
+(*b*) in subsection (2) by substituting the following for subparagraph (i):
+
+“(i) may make a fresh determination of the value of the defendant's—
+
+(I) proceeds under section 4 of this Act, in the case of a drug trafficking offence,
+
+(II) funds subject to confiscation under section 8A of this Act, in the case of an offence of financing terrorism, and
+
+(III) benefit under section 9 of this Act, in the case of an offence other than a drug trafficking offence or an offence of financing terrorism, and”;
+
+(*c*) by inserting the following after subsection (3):
+
+“(3A) For any determination under section 8A of this Act by virtue of this section, section 8B(5) shall not apply in relation to any of the defendant's funds subject to confiscation that were taken into account in determining the original value.”.
+
+### 29. Amendment of section 18 of Act of 1994.
+
+**29.**—Section 18 of the Act of 1994 is amended by substituting the following for subsection (1):
+
+“(1) This section shall have effect where the amount which a person is ordered to pay by a confiscation order is less than the amount assessed to be the value of the person's—
+
+(*a*) proceeds of drug trafficking, in the case of a drug trafficking offence,
+
+(*b*) funds subject to confiscation, in the case of an offence of financing terrorism, or
+
+(*c*) benefit obtained from an offence other than a drug trafficking offence or an offence of financing terrorism.”.
+
+### 30. Amendment of section 23 of Act of 1994.
+
+**30.**—Section 23 of the Act of 1994 is amended as follows:
+
+(*a*) by substituting the following for subsection (1):
+
+“(1) The powers conferred on the High Court by section 24 of this Act shall be exercisable—
+
+(*a*) where—
+
+(i) proceedings have been instituted in the State against the defendant for a drug trafficking offence, an offence of financing terrorism or an indictable offence (other than a drug trafficking offence or an offence of financing terrorism) or an application has been made in respect of the defendant under section 7, 8, 8D, 8E, 13 or 18 of this Act,
+
+(ii) the proceedings or application have not been concluded, and
+
+(iii) either a confiscation order has been made or it appears to the Court that there are reasonable grounds for thinking that a confiscation order may be made in the proceedings or that, in the case of an application under section 7, 8, 8D, 8E, 13 or 18 of this Act, the Court will be satisfied as mentioned in section 7(3), 8(4), 8D(3), 8E(4), 13(2), 13(4) or 18(2) of this Act,
+
+or
+
+(*b*) where—
+
+(i) the Court is satisfied that proceedings are to be instituted against a person for a drug trafficking offence, an offence of financing terrorism or an offence in respect of which a confiscation order might be made under section 9 of this Act or that an application of a kind mentioned in paragraph (*a*)(i) of this subsection is to be made in respect of a person, and
+
+(ii) it appears to the Court that a confiscation order may be made in connection with the offence or that a court will be satisfied as mentioned in paragraph (*a*)(iii) of this subsection.”;
+
+(*b*) in subsection (2) by substituting the following for paragraph (*b*):
+
+“(*b*) references in this Act to realisable property shall be construed as if, immediately before that time, proceedings had been instituted against the person referred to in subsection (1)(*b*)(i) of this section for a drug trafficking offence, an offence of financing terrorism or an offence in respect of which a confiscation order might be made under section 9 of this Act.”.
+
+### 31. Amendment of section 28 of Act of 1994.
+
+**31.**—Section 28(3)(*a*) of the Act of 1994 is amended by substituting the following for subparagraph (ii):
+
+“(ii) an application has been made in respect of the defendant under section 7, 8, 8D, 8E, 13 or 18 of this Act and has not been concluded, or”.
+
+### 32. Amendment of section 32 of Act of 1994.
+
+**32.**—Section 32 of the Act of 1994 is amended as follows:
+
+(*a*) by substituting the following for subsection (9A) (inserted by section 14 of the Criminal Justice (Miscellaneous Provisions) Act 1997):
+
+“(9A) A designated body shall, in relation to the carrying on of its business, adopt measures to prevent and detect the commission of the following offences:
+
+(*a*) an offence under section 31 of this Act;
+
+(*b*) an offence of financing terrorism.”;
+
+(*b*) in subsection (9B) (inserted by section 14 of the Criminal Justice (Miscellaneous Provisions) Act 1997) by substituting the following for paragraph (*c*):
+
+“(*c*) the training of directors, other officers and employees for the purpose of enabling them to identify transactions which may relate to the commission of an offence under section 31 of this Act or an offence of financing terrorism, and the giving of instructions to them on how a director, other officer or employee should proceed once he or she has identified such a transaction.”.
+
+### 33. Amendment of section 46 of Act of 1994.
+
+**33.**—Section 46 of the Act of 1994 is amended—
+
+(*a*) in subsection (1) by inserting the following after paragraph (*a*):
+
+“(*aa*) of recovering funds corresponding to funds subject to confiscation under this Act, or”,
+
+and
+
+(*b*) in subsection (5) by substituting “section 4, 8A or 9 of this Act” for “section 4 or 9 of this Act”.
+
+### 34. Amendment of section 47 of Act of 1994.
+
+**34.**—Section 47(5) of the Act of 1994 is amended by inserting the following after paragraph (*b*):
+
+“(*bb*) an offence of financing terrorism, or”.
+
+### 35. Amendment of section 55 of Act of 1994.
+
+**35.**—Section 55 of the Act of 1994 is amended by substituting the following for subsection (2):
+
+“(2) Section 63 of this Act shall have effect as if—
+
+(*a*) references in that section to drug trafficking included any conduct which is an offence under the law of a country or territory outside the State and would constitute drug trafficking had the conduct occurred in the State,
+
+(*b*) references in that section to an offence of financing terrorism included any conduct which is an offence under the law of a country or territory outside the State and would constitute an offence of financing terrorism had the conduct occurred in the State or in the circumstances referred to in *section 13(6)* of the *Act of 2005*, and
+
+(*c*) references in that section to an offence in respect of which a confiscation order might be made under section 9 of this Act included any conduct which is an offence under the law of a country or territory outside the State and would constitute an offence in respect of which a confiscation order might be made under section 9 of this Act had the conduct occurred in the State.”.
+
+### 36. Amendment of section 57 of Act of 1994.
+
+**36.**—Section 57 of the Act of 1994 is amended as follows:
+
+(*a*) by substituting the following for subsection (1):
+
+“(1) Any person or body to whom section 32 of this Act applies (including a director, officer or employee of that person or body) and who suspects that—
+
+(*a*) an offence of financing terrorism, or
+
+(*b*) an offence under section 31 or 32 of this Act,
+
+in relation to the business of that person or body has been or is being committed shall report that suspicion to the Garda Síochána and to the Revenue Commissioners.”;
+
+(*b*) by substituting the following for subsection (2):
+
+“(2) A person who—
+
+(*a*) is charged by law with the supervision of a person or body to whom section 32 of this Act applies, and
+
+(*b*) suspects that an offence of financing terrorism or an offence under section 31 or 32 of this Act has been or is being committed by that person or body,
+
+shall report that suspicion to the Garda Síochána and to the Revenue Commissioners.”;
+
+(*c*) in subsection (7)(*b*) by substituting “in the investigation or prosecution of a drug trafficking offence, an offence of financing terrorism or an offence in respect of which a confiscation order might be made under section 9 of this Act” for “in the investigation or prosecution of a drug trafficking offence or an offence in respect of which a confiscation order might be made under section 9 of this Act”.
+
+### 37. Amendment of section 58 of Act of 1994.
+
+**37.**—Section 58 of the Act of 1994 is amended as follows:
+
+(*a*) in subsection (1) by substituting “an investigation into drug trafficking, into whether a person holds funds subject to confiscation or into whether a person has benefited from an offence in respect of which a confiscation order might be made” for “an investigation into drug trafficking or into whether a person has benefited from an offence in respect of which a confiscation order might be made”, and
+
+(*b*) in subsection (2) by substituting “makes any disclosure which is likely to prejudice an investigation arising from a report into whether an offence of financing terrorism or an offence under section 31 or 32 of this Act has been committed shall be guilty of an offence” for “makes any disclosure which is likely to prejudice an investigation arising from a report into whether an offence under section 31 or 32 of this Act has been committed shall be guilty of an offence”.
+
+### 38. Amendment of section 61 of Act of 1994.
+
+**38.**—Section 61(1A) of the Act of 1994 (inserted by section 17 of the Offences against the State (Amendment) Act 1998) is amended in paragraph (*a*) by substituting “, section 27A of the Firearms Act 1964 or *section 6* of the *Act of 2005*” for “or section 27A of the Firearms Act, 1964”.
+
+### 39. Amendment of section 63 of Act of 1994.
+
+**39.**—Section 63 of the Act of 1994 is amended as follows:
+
+(*a*) by substituting the following for subsection (1):
+
+“(1) A member of the Garda Síochána may apply to a judge of the District Court for an order under subsection (2) of this section in relation to any particular material, or material of a particular description, for the purpose of an investigation into any of the following matters:
+
+(*a*) drug trafficking;
+
+(*b*) the commission of an offence of financing terrorism;
+
+(*c*) the commission of an offence under section 31 of this Act;
+
+(*d*) whether a person has benefited from drug trafficking;
+
+(*e*) whether a person holds funds subject to confiscation;
+
+(*f*) whether a person has benefited from an offence in respect of which a confiscation order might be made under section 9 of this Act.”;
+
+(*b*) in subsection (4) by substituting the following for paragraph (*a*):
+
+“(*a*) that there are reasonable grounds for suspecting that a specified person—
+
+(i) has carried on drug trafficking,
+
+(ii) has committed an offence of financing terrorism,
+
+(iii) has committed an offence under section 31 of this Act,
+
+(iv) has benefited from drug trafficking,
+
+(v) holds funds subject to confiscation, or
+
+(vi) has benefited from an offence in respect of which a confiscation order might be made under section 9 of this Act,”.
+
+### 40. Amendment of section 64 of Act of 1994.
+
+**40.**—Section 64 of the Act of 1994 is amended as follows:
+
+(*a*) by substituting the following for subsection (1):
+
+“(1) A member of the Garda Síochána may apply to a judge of the District Court for a warrant under this section in relation to specified premises for the purposes of an investigation into any of the following matters:
+
+(*a*) drug trafficking;
+
+(*b*) the commission of an offence of financing terrorism;
+
+(*c*) the commission of an offence under section 31 of this Act;
+
+(*d*) whether a person has benefited from drug trafficking;
+
+(*e*) whether a person holds funds subject to confiscation;
+
+(*f*) whether a person has benefited from an offence in respect of which a confiscation order might be made under section 9 of this Act.”;
+
+(*b*) in subsection (3) by substituting the following for paragraph (*a*):
+
+“(*a*) that there are reasonable grounds for suspecting that a specified person—
+
+(i) has carried on drug trafficking,
+
+(ii) has committed an offence of financing terrorism,
+
+(iii) has committed an offence under section 31 of this Act,
+
+(iv) has benefited from drug trafficking,
+
+(v) holds funds subject to confiscation, or
+
+(vi) has benefited from an offence in respect of which a confiscation order might be made under section 9 of this Act, and”;
+
+(*c*) in subsection (4) by substituting the following for paragraphs (*a*) and (*b*):
+
+“(*a*) that there are reasonable grounds for suspecting that a specified person—
+
+(i) has carried on drug trafficking,
+
+(ii) has committed an offence of financing terrorism,
+
+(iii) has committed an offence under section 31 of this Act,
+
+(iv) has benefited from drug trafficking,
+
+(v) holds funds subject to confiscation, or
+
+(vi) has benefited from an offence in respect of which a confiscation order might be made under section 9 of this Act, and
+
+(*b*) that there are reasonable grounds for suspecting that there is on the premises material that—
+
+(i) relates to the specified person or to—
+
+(I) drug trafficking,
+
+(II) an offence of financing terrorism,
+
+(III) an offence under section 31 of this Act, or
+
+(IV) an offence in respect of which a confiscation order might be made under section 9 of this Act,
+
+and
+
+(ii) is likely to be of substantial value (whether by itself or together with other material) to the investigation for the purpose of which the application is made, and
+
+(iii) cannot be particularised at the time of the application, and”.
+
+### 41. Amendment of section 65 of Act of 1994.
+
+**41.**—Section 65(1) of the Act of 1994 is amended by substituting “If proceedings are instituted against a person for a drug trafficking offence, an offence of financing terrorism, an offence in respect of which a compensation order might be made under section 9 of this Act, or for more than one of any of those offences,” for “If proceedings are instituted against a person for a drug trafficking offence or offences or for an offence or offences in respect of which a confiscation order might be made under section 9 of this Act”.
+
+### 42. Power to make regulations.
+
+**42**.—(1) This section applies to acts—
+
+(*a*) that are adopted by the institutions of the European Communities before or after the commencement of this section in accordance with the treaties of those Communities, and
+
+(*b*) that, in the opinion of the Minister for Finance, are for the purpose of, or will contribute to, combating terrorism through the adoption of specific restrictive measures, directed at persons, groups or entities, for the identification, detection, freezing or seizure of their assets of any kind.
+
+(2) The Minister for Finance may make regulations for enabling provisions of acts to which this section applies to have full effect, including regulations—
+
+(*a*) requiring the disclosure or reporting of information for the identification or detection of assets referred to in *subsection (1)(b)*, and
+
+(*b*) respecting the freezing or seizure of such assets or the imposition of other restrictive measures referred to in *subsection (1)(b)*.
+
+(3) A person who contravenes a requirement of a regulation made under *subsection (2)* is guilty of an offence.
+
+(4) A person guilty of an offence under *subsection (3)* is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both, or
+
+(*b*) on conviction on indictment, to—
+
+(i) a fine not exceeding the greater of €10,000,000 or twice the value of the assets in respect of which the offence was committed,
+
+(ii) imprisonment for a term not exceeding 20 years, or
+
+(iii) both such fine and such imprisonment.
+
+(5) Where after being convicted of an offence under *subsection (3)* a person continues to contravene the requirement to which the offence relates, the person is guilty of a further offence on every day on which the contravention continues and for each such offence is liable to whichever of the following penalties is applicable:
+
+(*a*) on summary conviction to a fine not exceeding €1,000, if the person was convicted of the offence under *subsection (3)* on summary conviction;
+
+(*b*) on conviction on indictment to a fine not exceeding €100,000, if the person was convicted of the offence under *subsection (3)* on indictment.
+
+(6) The Minister for Finance may make regulations providing for such incidental, supplementary and consequential provisions as appear to that Minister to be necessary for giving effect to regulations under *subsection (2)*.
+
+(7) A person who contravenes a requirement of a regulation made under subsection (6) is guilty of an offence and is liable on summary conviction to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both.
+
+(8) Where after being convicted of an offence under *subsection (7)* a person continues to contravene the requirement to which the offence relates, the person is guilty of a further offence on every day on which the contravention continues and for each such offence is liable on summary conviction to a fine not exceeding €1,000.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> **Modifications (not altering text):**
+>
+> C4: Functions transferred and references to “Department of Public Expenditure and Reform” and “Minister for Public Expenditure and Reform” construed (28.10.2015) by *Public Expenditure and Reform (Transfer of Departmental Administration and Ministerial Functions) Order 2015* (S.I. No. 517 of 2015), subject to transitional provisions in arts. 4-6.
+>
+> 2\. The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Finance.
+>
+> 3\. The functions conferred on the Minister for Public Expenditure and Reform by or under sections 16, 19 and 42 of the Criminal Justice (Terrorist Offences) Act 2005 (No. 2 of 2005) are transferred to the Minister for Finance.
+>
+> **Editorial Notes:**
+>
+> E17: A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> A fine of €1,000 translates into a class D fine, not greater than €1,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 7(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E18: Power pursuant to subss. (2), (6) exercised (9.04.2026) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 3) Regulations 2026* (S.I. No. 149 of 2026).
+>
+> E19: Power pursuant to subss. (2), (6) exercised (5.03.2026) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) (No. 2) Regulations 2026* (S.I. No. 78 of 2026).
+>
+> E20: Previous affecting provision: power pursuant to subss. (2), (6) exercised (3.04.2026) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 2) Regulations 2026* (S.I. No. 131 of 2026); revoked (9.04.2026) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 3) Regulations 2026* (S.I. No. 149 of 2026), reg. 5.
+>
+> E21: Previous affecting provision: power pursuant to subss. (2), (6) exercised (12.03.2026) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Daesh) and Al-Qaida Organisations) Regulations 2026* (S.I. No. 95 of 2026); revoked (3.04.2026) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 2) Regulations 2026* (S.I. No. 131 of 2026), reg. 5.
+>
+> E22: Previous affecting provision: power pursuant to subss. (2), (6) exercised (24.02.2026) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons And Entities With A View To Combating Terrorism) Regulations 2026* (S.I. No. 56 of 2026); revoked (5.03.2026) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) (No. 2) Regulations 2026* (S.I. No. 78 of 2026), reg. 5.
+>
+> E23: Previous affecting provision: power pursuant to subss. (2), (6) exercised (17.11.2025) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 8) Regulations 2025* (S.I. No. 544 of 2025); revoked (12.03.2026) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Daesh) and Al-Qaida Organisations) Regulations 2026* (S.I. No. 95 of 2026), reg. 5.
+>
+> E24: Previous affecting provision: power pursuant to subss. (2), (6) exercised (4.11.2025) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 7) Regulations 2025* (S.I. No. 524 of 2025); revoked (17.11.2025) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 8) Regulations 2025* (S.I. No. 544 of 2025), reg. 5.
+>
+> E25: Previous affecting provision: power pursuant to subss. (2), (6) exercised (17.09.2025) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated With the Isil (Da'esh) and Al-qaida Organisations) (No. 6) Regulations 2025* (S.I. No. 490 of 2025); revoked (4.11.2025) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 7) Regulations 2025* (S.I. No. 524 of 2025), reg. 5.
+>
+> E26: Previous affecting provision: power pursuant to subss. (2), (6) exercised (17.09.2025) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated With the Isil (Da'esh) and Al-qaida Organisations) (No. 5) Regulations 2025* (S.I. No. 431 of 2025); revoked (17.09.2025) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated With the Isil (Da'esh) and Al-qaida Organisations) (No. 6) Regulations 2025* (S.I. No. 490 of 2025), reg. 5.
+>
+> E27: Previous affecting provision: power pursuant to subss. (2), (6) exercised (30.07.2025) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) (No. 2) Regulations 2025* (S.I. No. 386 of 2025); revoked (24.02.2026) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons And Entities With A View To Combating Terrorism) Regulations 2026* (S.I. No. 56 of 2026), reg. 5.
+>
+> E28: Previous affecting provision: power pursuant to subss. (2), (6) exercised (27.06.2025) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 4) Regulations 2025* (S.I. No. 278 of 2025); revoked (17.09.2025) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated With the Isil (Da'esh) and Al-qaida Organisations) (No. 5) Regulations 2025* (S.I. No. 431 of 2025), reg. 5.
+>
+> E29: Previous affecting provision: power pursuant to subss. (2), (6) exercised (24.06.2025) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 3) Regulations 2025* (S.I. No. 271 of 2025); revoked (27.06.2025) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 4) Regulations 2025* (S.I. No. 278 of 2025), reg. 5.
+>
+> E30: Previous affecting provision: power pursuant to subss. (2), (6) exercised (1.05.2025) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated With the ISIL (Da’esh) and Al-Qaida Organisations) (No. 2) Regulations 2025* (S.I. No. 160 of 2025); revoked (24.06.2025) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 3) Regulations 2025* (S.I. No. 271 of 2025), reg. 5.
+>
+> E31: Previous affecting provision: power pursuant to subss. (2), (6) exercised (4.03.2025) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) Regulations 2025* (S.I. No. 59 of 2025); revoked (1.05.2025) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated With the ISIL (Da’esh) and Al - Qaida Organisations) (No. 2) Regulations 2025* (S.I. No. 160 of 2025), reg. 5.
+>
+> E32: Previous affecting provision: power pursuant to subss. (2), (6) exercised (6.02.2025) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) Regulations 2025* (S.I. No. 19 of 2025); revoked (30.07.2025) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) (No. 2) Regulations 2025* (S.I. No. 386 of 2025), reg. 5.
+>
+> E33: Previous affecting provision: power pursuant to subss. (2), (6) exercised (17.12.2024) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 5) Regulations 2024* (S.I. No. 716 of 2024); revoked (4.03.2025) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) Regulations 2025* (S.I. No. 59 of 2025), reg. 5.
+>
+> E34: Previous affecting provision: power pursuant to subss. (2), (6) exercised (4.10.2024) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) (No. 4) Regulations 2024* (S.I. No. 514 of 2024); revoked (6.02.2025) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) Regulations 2025* (S.I. No. 19 of 2025), reg. 5.
+>
+> E35: Previous affecting provision: power pursuant to subss. (2), (6) exercised (4.10.2024) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 4) Regulations 2024* (S.I. No. 510 of 2024); revoked (17.12.2024) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 5) Regulations 2024* (S.I. No. 716 of 2024), reg. 5.
+>
+> E36: Previous affecting provision: power pursuant to subss. (2), (6) exercised (13.09.2024) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 3) Regulations 2024* (S.I. No. 465 of 2024); revoked (4.10.2024) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 4) Regulations 2024* (S.I. No. 510 of 2024), reg. 5.
+>
+> E37: Previous affecting provision: power pursuant to subss. (2), (6) exercised (30.07.2024) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) (No. 3) Regulations 2024* (S.I. No. 388 of 2024); revoed (4.10.2024) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 4) Regulations 2024* (S.I. No. 514 of 2024), reg. 5.
+>
+> E38: Previous affecting provision: power pursuant to subss. (2), (6) exercised (15.05.2024) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 2) Regulations 2024* (S.I. No. 211 of 2024); revoked (13.09.2024) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 3) Regulations 2024* (S.I. No. 465 of 2024), reg. 5.
+>
+> E39: Previous affecting provision: power pursuant to subss. (2), (6) exercised (29.02.2024) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) (No. 2) Regulations 2024* (S.I. No. 75 of 2024); revoked (30.07.2024) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) (No. 3) Regulations 2024* (S.I. No. 388 of 2024), reg. 5.
+>
+> E40: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (23.01.2024) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) Regulations 2024* (S.I. No. 19 of 2023); revoked (15.05.2024) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 2) Regulations 2024* (S.I. No. 211 of 2024), reg. 5.
+>
+> E41: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (23.01.2024) by *Criminal Justice (Terrorist Offences) act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities With a View to Combating Terrorism) Regulations 2024* (S.I. No. 22 of 2024); revoked ()29.02.2024) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) (No. 2) Regulations 2024* (S.I. No. 75 of 2024), reg. 5.
+>
+> E42: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (20.12.2023) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities with a View to Combating Terrorism) (No. 3) Regulations 2023* (S.I. No. 659 of 2023), reg. 5; revoked (23.01.2024) by *Criminal Justice (Terrorist Offences) act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities With a View to Combating Terrorism) Regulations 2024* (S.I. No. 22 of 2024), reg. 5.
+>
+> E43: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (5.12.2023) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated With the Isil - Qaida Organisations) (No. 8) Regulations 2023* (S.I. No. 621 of 2023); revoked (23.01.2024) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated With the Isil - Qaida Organisations) Regulations 2024* (S.I. No. 19 of 2023), reg. 5.
+>
+> E44: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (18.08.2023) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated With the Isil - Qaida Organisations) (No. 7) Regulations 2023* (S.I. No. 411 of 2023); revoked (5.12.2023) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated With the Isil - Qaida Organisations) (No. 8) Regulations 2023* (S.I. No. 621 of 2023), reg. 5.
+>
+> E45: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (25.07.2023) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities With a View to Combating Terrorism) Regulations (No. 2) 2023* (S.I. No. 386 of 2023); revoked (20.12.2023) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities with a View to Combating Terrorism) (No. 3) Regulations 2023* (S.I. No. 659 of 2023), reg. 5.
+>
+> E46: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (13.06.2023) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated With the Isil Al - Qaida Organisations) (No. 6) Regulations 2023* (S.I. No. 310 of 2023); revoked (18.08.2023) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated With the Isil - Qaida Organisations) (No. 7) Regulations 2023* (S.I. No. 411 of 2023), reg. 5.
+>
+> E47: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (11.05.2023) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 5) Regulations 2023* (S.I. No. 228 of 2023); revoked (13.06.2023) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated With the Isil Al - Qaida Organisations) (No. 6) Regulations 2023* (S.I. No. 310 of 2023), reg. 5.
+>
+> E48: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (5.04.2023) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated With the Isil - Qaida Organisations) (No. 4) Regulations 2023* (S.I. No. 174 of 2023); revoked (11.05.2023) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 5) Regulations 2023* (S.I. No. 228 of 2023), reg. 5.
+>
+> E49: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (28.02.2023) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities With a View to Combating Terrorism) Regulations 2023* (S.I. No. 83 of 2023); revoked (25.07.2023) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities With a View to Combating Terrorism) Regulations (No. 2) 2023* (S.I. No. 386 of 2023), reg. 5.
+>
+> E50: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (14.02.2023) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated With the Isil - Qaida Organisations) (No.3) Regulations 2023* (S.I. No. 60 of 2023); revoked (5.04.2023) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated With the Isil - Qaida Organisations) (No. 4) Regulations 2023* (S.I. No. 174 of 2023), reg. 5.
+>
+> E51: Power pursuant to subss. (2) and (6) exercised (8.02.2023) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated With the Isil - Qaida Organisations) (No. 2) Regulations 2023* (S.I. No. 36 of 2023; revoked (14.02.2023) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated With the Isil - Qaida Organisations) (No. 3) Regulations 2023* (S.I. No. 60 of 2023), reg. 5.
+>
+> E52: Power pursuant to subss. (2) and (6) exercised (21.07.2022) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities With a View to Combating Terrorism) (No. 2) Regulations 2022* (S.I. No. 372 of 2022); revoked (28.02.2023) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities With a View to Combating Terrorism) Regulations 2023* (S.I. No. 83 of 2023), reg. 5.
+>
+> E53: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (24.01.2023) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons And Entities Associated With The Isil (Da’esh) And Al-Qaida Organisations) Regulations 2023* (S.I. No. 7 of 2023); revoked (8.02.2023) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated With the Isil - Qaida Organisations) (No. 2) Regulations 2023* (S.I. No. 36 of 2023), reg. 5.
+>
+> E54: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (8.06.2022) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated With the Isil -Qaida Organisations) (No. 6) Regulations 2022* (S.I. No. 275 of 2022); revoked (24.01.2023) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons And Entities Associated With The Isil (Da’esh) And Al-Qaida Organisations) Regulations 2023* (S.I. No. 7 of 2023), reg. 5.
+>
+> E55: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (21.02.2022) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 5) Regulations 2022* (S.I. No. 172 of 2022); revoked (8.06.2022) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated With the Isil -Qaida Organisations) (No. 6) Regulations 2022* (S.I. No. 275 of 2022), reg. 5.
+>
+> E56: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (16.02.2022) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) Regulations 2022* (S.I. No. 72 of 2022); revoked (21.07.2022) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities With a View to Combating Terrorism) (No.2) Regulations 2022* (S.I. No. 372 of 2022), reg. 5.
+>
+> E57: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (16.02.2022) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 4) Regulations 2022* (S.I. No. 69 of 2022); revoked (21.02.2022) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 5) Regulations 2022* (S.I. No. 172 of 2022), reg. 5.
+>
+> E58: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (27.01.2022) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 3) Regulations 2022* (S.I. No. 39 of 2022); revoked (16.02.2022) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 4) Regulations 2022* (S.I. No. 69 of 2022), reg. 5.
+>
+> E59: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (22.01.2022) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated With the Isil -Qaida Organisations) (No. 2) Regulations 2022* (S.I. No. 29 of 2022); revoked (27.01.2022) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 3) Regulations 2022* (S.I. No. 39 of 2022), reg. 5.
+>
+> E60: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (13.01.2022) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) Regulations 2022* (S.I. No. 17 of 2022); revoked (22.01.2022) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated With the Isil -Qaida Organisations) (No. 2) Regulations 2022* (S.I. No. 29 of 2022), reg. 5.
+>
+> E61: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (8.12.2021) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 4) Regulations 2021* (S.I. No. 687 of 2021); revoked (13.01.2022) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) Regulations 2022* (S.I. No. 17 of 2022), reg. 5.
+>
+> E62: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (27.09.2021) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da'esh) and Al-Qaida Organisations) (No. 3) Regulations 2021* (S.I. No. 494 of 2021); revoked (8.12.2021) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 4) Regulations 2021* (S.I. No. 687 of 2021), reg. 5.
+>
+> E63: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (26.07.2021) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities With a View to Combating Terrorism) (No. 2) Regulations 2021* (S.I. No. 394 of 2021); revoked (16.02.2022) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) Regulations 2022* (S.I. No. 72 of 2022), reg. 5.
+>
+> E64: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (9.07.2021) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 2) Regulations 2021* (S.I. No. 338 of 2021); revoked (27.09.2021) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da'esh) and Al-Qaida Organisations) (No. 3) Regulations 2021* (S.I. No. 494 of 2021), reg. 5.
+>
+> E65: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (28.04.2021) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) Regulations 2021* (S.I. No. 205 of 2021); revoked (9.07.2021) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 2) Regulations 2021* (S.I. No. 338 of 2021), reg. 5.
+>
+> E66: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (23.02.2021) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) Regulations 2021* (S.I. No. 91 of 2021); revoked (26.07.2021) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities With a View to Combating Terrorism) (No. 2) Regulations 2021* (S.I. No. 394 of 2021), reg. 5.
+>
+> E67: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (30.10.2020) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 5) Regulations 2020* (S.I. No. 493 of 2020); revoked (28.04.2021) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) Regulations 2021* (S.I. No. 205 of 2021), reg. 5.
+>
+> E68: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (23.02.2021) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) Regulations 2021* (S.I. No. 91 of 2021); revoked (26.07.2021) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities With a View to Combating Terrorism) ( No. 2 ) Regulations 2021* (S.I. No. 394 of 2021), reg. 5.
+>
+> E69: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (22.09.2020) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) (No. 2) Regulations 2020* (S.I. No. 362 of 2020); revoked (23.02.2021) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) Regulations 2021* (S.I. No. 91 of 2021), reg. 5.
+>
+> E70: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (3.08.2020) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated with the Isil (Da’esh) and Al-Qaida Organisations) (No. 4) Regulations 2020* (S.I. No. 286 of 2020); revoked (30.10.2020) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 5) Regulations 2020* (S.I. No. 493 of 2020), reg. 5.
+>
+> E71: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (15.06.2020) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated with the Isil (Da’esh) and Al-Qaida Organisations) (No. 3) Regulations 2020* (S.I. No. 211 of 2020); revoked (3.08.2020) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated with the Isil (Da’esh) and Al-Qaida Organisations) (No. 4) Regulations 2020* (S.I. No. 286 of 2020), reg. 5.
+>
+> E72: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (7.05.2020) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated with the Isil (Da’esh) and Al-Qaida Organisations) (No. 2) Regulations 2020* (S.I. No. 168 of 2020); revoked (15.06.2020) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 3) Regulations 2020* (S.I. No. 211 of 2020), reg. 5.
+>
+> E73: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (30.03.2020) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities With a View to Combating Terrorism) Regulations 2020* (S.I. No. 105 of 2020); revoked (22.09.2020) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) (No. 2) Regulations 2020* (S.I. No. 362 of 2020), reg. 5.
+>
+> E74: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (30.03.2020) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated with the Isil (Da’esh) and Al-Qaida Organisations) Regulations 2020* (S.I. No. 108 of 2020); revoked (7.05.2020) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated with the Isil (Da’esh) and Al-Qaida Organisations) (No. 2) Regulations 2020* (S.I. No. 168 of 2020), reg. 5.
+>
+> E75: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (20.12.2019) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 6) Regulations 2019* (S.I. No. 695 of 2019); revoked (30.03.2020) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated with the Isil (Da’esh) and Al-Qaida Organisations) Regulations 2020* (S.I. No. 108 of 2020), reg. 5.
+>
+> E76: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (7.11.2019) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 5) Regulations 2019* (S.I. No. 575 of 2019); revoked (20.12.2019) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 6) Regulations 2019* (S.I. No. 695 of 2019), reg. 5.
+>
+> E77: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (28.09.2019) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities with a View to Combating Terrorism) Regulations (No. 2) 2019* (S.I. No. 492 of 2019); revoked (30.03.2020) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities With a View to Combating Terrorism) Regulations 2020* (S.I. No. 105 of 2020), reg. 5.
+>
+> E78: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (28.09.2019) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated with the Isil (Da’esh) and Al-Qaida Organisations) Regulations (No. 4) 2019* (S.I. No. 491 of 2019); revoked (7.11.2019) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 5) Regulations 2019* (S.I. No. 575 of 2019), reg. 5.
+>
+> E79: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (20.06.2019) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons And Entities Associated With The Isil (Da’esh) And Al-Qaida Organisations) Regulations (No. 3) 2019* (S.I. No. 267 of 2019); revoked (28.09.2019) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities Associated with the Isil (Da’esh) and Al-Qaida Organisations) Regulations (No. 4) 2019* (S.I. No. 491 of 2019), reg. 5.
+>
+> E80: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (18.04.2019) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons And Entities Associated With The Isil (Da’esh) And Al-Qaida Organisations) Regulations (No. 2) 2019* (S.I. No. 185 of 2019); revoked (20.06.2019) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons And Entities Associated With The Isil (Da’esh) And Al-Qaida Organisations) Regulations (No. 3) 2019* (S.I. No. 267 of 2019), reg. 5.
+>
+> E81: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (8.03.2019) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons And Entities With A View To Combating Terrorism) Regulations 2019* (S.I. No. 85 of 2019); revoked (28.09.2019) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons and Entities with a View to Combating Terrorism) Regulations (No. 2) 2019* (S.I. No. 492 of 2019), reg. 5.
+>
+> E82: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (8.03.2019) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons And Entities Associated With The Isil (Da’esh) And Al-Qaida Organisations) Regulations 2019* (S.I. No. 88 of 2019); revoked (18.04.2019) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons And Entities Associated With The Isil (Da’esh) And Al-Qaida Organisations) Regulations (No. 2) 2019* (S.I. No. 185 of 2019), reg. 5.
+>
+> E83: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (20.12.2018) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 7) Regulations 2018* (S.I. No. 605 of 2018); revoked (8.03.2019) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons And Entities Associated With The Isil (Da’esh) And Al-Qaida Organisations) Regulations 2019* (S.I. No. 88 of 2019), reg. 5.
+>
+> E84: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (14.11.2018) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 6) Regulations 2018* (S.I. No. 464 of 2018); revoked (20.12.2018) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 7) Regulations 2018* (S.I. No. 605 of 2018), reg. 5.
+>
+> E85: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (30.08.2018) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) Regulations (No. 2) 2018* (S.I. No. 342 of 2018); revoked (8.03.2019) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures Concerning Certain Persons And Entities With A View To Combating Terrorism) Regulations 2019* (S.I. No. 85 of 2019), reg. 5.
+>
+> E86: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (30.08.2018) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 5) Regulations 2018* (S.I. No. 339 of 2018); revoked (14.11.2018) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 6) Regulations 2018* (S.I. No. 464 of 2018), reg. 5.
+>
+> E87: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (16.07.2018) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al Qaida Organisations) (No. 4) Regulations 2018* (S.I. No. 278 of 2018); revoked (30.08.2018) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 5) Regulations 2018* (S.I. No. 339 of 2018), reg. 5.
+>
+> E88: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (1.05.2018) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) Regulations 2018* (S.I. No. 146 of 2018); revoked (30.08.2018) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) Regulations (No. 2) 2018* (S.I. No. 342 of 2018).
+>
+> E89: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (14.06.2018) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al Qaida Organisations) (No. 3) Regulations 2018* (S.I. No. 203 of 2018); revoked (16.07.2018) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al Qaida Organisations) (No. 4) Regulations 2018*, reg. 5 (S.I. No. 278 of 2018).
+>
+> E90: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (1.05.2018) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 2) Regulations 2018* (S.I. No. 142 of 2018); revoked (14.06.2018) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al Qaida Organisations) (No. 3) Regulations 2018* (S.I. No. 146 of 2018), reg. 5.
+>
+> E91: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (27.02.2018) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da'esh) and Al-Qaida Organisations) Regulations 2018* (S.I. No. 51 of 2018); revoked (1.05.2018) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 2) Regulations 2018* (S.I. No. 142 of 2018), reg. 5.
+>
+> E92: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (5.12.2017) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) (No. 4) Regulations 2017* (S.I. No. 565 of 2017); revoked (1.05.2018) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) Regulations 2018* (S.I. No. 146 of 2018), reg. 5.
+>
+> E93: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (5.12.2017) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the I S I L (Da'esh) and Al-Qaida Organisations) (No. 6) Regulations 2017* (S.I. No. 563 of 2017); revoked (27.02.2018) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42)(Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da'esh) and Al-Qaida Organisations) Regulations 2018* (S.I. No. 51 of 2018), reg. 5.
+>
+> E94: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (19.10.2017) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) (No. 3) Regulations 2017* (S.I. No. 468 of 2017); revoked (5.12.2017) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) (No. 4) Regulations 2017* (S.I. No. 565 of 2017), reg. 5.
+>
+> E95: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (19.10.2017) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 5) Regulations 2017* (S.I. No. 467 of 2017); revoked (5.12.2017) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the I S I L (Da'esh) and Al-Qaida Organisations) (No. 6) Regulations 2017* (S.I. No. 563 of 2017), reg. 5.
+>
+> E96: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (16.08.2017) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) (No. 2) Regulations 2017* (S.I. No. 383 of 2017); revoked (19.10.2017) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) (No. 3) Regulations 2017* (S.I. No. 468 of 2017), reg. 5.
+>
+> E97: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (16.08.2017) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 4) Regulations 2017* (S.I. No. 382 of 2017); revoked (19.10.2017) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 5) Regulations 2017* (S.I. No. 467 of 2017), reg. 5.
+>
+> E98: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (31.01.2017) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) Regulations 2017* (S.I. No. 36 of 2017); revoked (16.08.2017) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) (No. 2) Regulations 2017* (S.I. No. 383 of 2017), reg. 5.
+>
+> E99: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (18.05.2017) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No.3) Regulations 2017* (S.I. No. 209 of 2017); revoked (16.08.2017) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42)(Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da'esh) and Al-Qaida Organisations) (No. 4) Regulations 2017* (S.I. No. 382 of 2017), reg. 5.
+>
+> E100: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (24.04.2017) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 2) Regulations 2017* (S.I. No. 170 of 2017); revoked (18.05.2017) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No.3) Regulations 2017* (S.I. No. 209 of 2017), reg. 5.
+>
+> E101: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (29.03.2017) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) Regulations 2017* (S.I. No. 123 of 2017); revoked (24.04.2017) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 2) Regulations 2017* (S.I. No. 170 of 2017), reg. 5.
+>
+> E102: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (11.11.2016) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 6) Regulations 2016* (S.I. No. 563 of 2016); revoked (29.03.2017) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) Regulations 2017* (S.I. No. 123 of 2017), reg. 5.
+>
+> E103: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (25.10.2016) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (No. 2) Regulations 2016* (S.I. No. 543 of 2016); revoked (31.01.2017) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities with a view to Combating Terrorism) Regulations 2017* (S.I. No. 36 of 2017), reg. 5.
+>
+> E104: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (25.10.2016) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 5) Regulations 2016* (S.I. No. 546 of 2016); revoked (11.11.2016) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da'esh) and Al-Qaida Organisations) (No. 6) Regulations 2016* (S.I. No. 563 of 2016), reg. 5.
+>
+> E105: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (7.10.2016) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 4) Regulations 2016* (S.I. No. 514 of 2016); revoked (25.10.2016) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 5) Regulations 2016* (S.I. No. 546 of 2016), reg. 5.
+>
+> E106: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (8.09.2016) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 3) Regulations 2016* (S.I. No. 472 of 2016); revoked (7.10.2016) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 4) Regulations 2016* (S.I. No. 514 of 2016), reg. 5.
+>
+> E107: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (30.08.2016) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 2) Regulations 2016* (S.I. No. 463 of 2016); revoked (8.09.2016) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 3) Regulations 2016* (S.I. No. 472 of 2016), reg. 5.
+>
+> E108: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (27.07.2016) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) Regulations 2016* (S.I. No. 414 of 2016); revoked (25.10.2016) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (No. 2) Regulations 2016* (S.I. No. 543 of 2016), reg. 5.
+>
+> E109: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (27.07.2016) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) Regulations 2016* (S.I. No. 413 of 2015); revoked (30.08.2016) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da’esh) and Al-Qaida Organisations) (No. 2) Regulations 2016* (S.I. No. 463 of 2016), reg. 5.
+>
+> E110: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (17.12.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 3) Regulations 2015* (S.I. No. 590 of 2015); revoked (27.07.2016) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) (Restrictive Measures concerning Certain Persons and Entities Associated with the ISIL (Da'esh) and Al-Qaida Organisations) Regulations 2016* (S.I. No. 413 of 2015), reg. 5.
+>
+> E111: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015); revoked (27.07.2016) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42) Regulations 2016* (S.I. No. 414 of 2016), reg. 5.
+>
+> E112: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015); revoked (17.12.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 3) Regulations 2015* (S.I. No. 590 of 2015), reg. 6.
+>
+> E113: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (7.07.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures Concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) Regulations 2015* (S.I. No. 286 of 2015); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 1.
+>
+> E114: Previous affecting provision: power pursuant to subss. (2) and (6) exercised (7.07.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) Regulations 2015* (S.I. No. 285 of 2015); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 1.
+>
+> E115: Previous affecting provision: power pursuant to subs. (6) exercised (18.12.2013) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Counter Terrorism) (Financial Sanctions) Regulations 2013* (S.I. No. 561 of 2013);revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 2.
+>
+> E116: Previous affecting provision: power pursuant to subs. (6) exercised (18.12.2013) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Usama Bin Laden, the Al-Qaida Network and the Taliban) (Financial Sanctions) Regulations 2013* (S.I. No. 536 of 2013); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 2.
+>
+> E117: Previous affecting provision: power pursuant to subs. (2) exercised (18.12.2013) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Usama Bin Laden, the Al-Qaida Network and the Taliban) (Financial Sanctions) Regulations 2013* (S.I. No. 535 of 2013); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 3.
+>
+> E118: Previous affecting provision: power pursuant to subs. (2) exercised (18.12.2013) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Counter Terrorism) (Financial Sanctions) Regulations 2013* (S.I. No. 526 of 2013); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 3.
+>
+> E119: Previous affecting provision: power pursuant to subs. (6) exercised (13.02.2013) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Counter Terrorism) (Financial Sanctions) Regulations 2013* (S.I. No. 50 of 2013); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 4.
+>
+> E120: Previous affecting provision: power pursuant to subs. (2) exercised (13.02.2013) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Counter Terrorism) (Financial Sanctions) Regulations 2013* (S.I. No. 49 of 2013); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 5.
+>
+> E121: Previous affecting provision: power pursuant to subs. (6) exercised (2.11.2012) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2012* (S.I. No. 428 of 2012); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 6.
+>
+> E122: Previous affecting provision: power pursuant to subs. (2) exercised (2.11.2012) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2012* (S.I. No. 427 of 2012); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 7.
+>
+> E123: Previous affecting provision: power pursuant to subs. (6) exercised (17.01.2012) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Counter Terrorism) (Financial Sanctions) Regulations 2012* (S.I. No. 19 of 2012); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 8.
+>
+> E124: Previous affecting provision: power pursuant to subs. (2) exercised (17.01.2012) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Counter Terrorism) (Financial Sanctions) Regulations 2012* (S.I. No. 18 of 2012); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 9.
+>
+> E125: Previous affecting provision: power pursuant to subs. (6) exercised (30.08.2011) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2011* (S.I. No. 444 of 2011); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 10.
+>
+> E126: Previous affecting provision: power pursuant to subs. (2) exercised (30.08.2011) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2011* (S.I. No. 443 of 2011); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 11.
+>
+> E127: Previous affecting provision: functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9; superseded as per C-note above.
+>
+> E128: Previous affecting provision: power pursuant to subs. (6) exercised (12.07.2011) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) (No. 3) Regulations 2011* (S.I. No. 369 of 2011); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 4.
+>
+> E129: Previous affecting provision: power pursuant to subs. (2) exercised (12.07.2011) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) (No. 3) Regulations 2011* (S.I. No. 368 of 2011); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 5.
+>
+> E130: Previous affecting provision: power pursuant to subs. (6) exercised (19.04.2011) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) (No. 2) Regulations 2011* (S.I. No. 185 of 2011); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 6.
+>
+> E131: Previous affecting provision: power pursuant to subs. (2) exercised (19.04.2011) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) (No. 2) Regulations 2011* (S.I. No. 184 of 2011); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 7.
+>
+> E132: Previous affecting provision: power pursuant to subs. (6) exercised (5.04.2011) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Counter Terrorism) (Financial Sanctions) Regulations 2011* (S.I. No. 170 of 2011); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 12.
+>
+> E133: Previous affecting provision: power pursuant to subs. (2) exercised (5.04.2011) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Counter Terrorism) (Financial Sanctions) Regulations 2011* (S.I. No. 169 of 2011); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 13.
+>
+> E134: Previous affecting provision: power pursuant to subs. (6) exercised (23.02.2011) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) Regulations 2011* (S.I. No. 76 of 2011); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 8.
+>
+> E135: Previous affecting provision: power pursuant to subs. (2) exercised (23.02.2011) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) Regulations 2011* (S.I. No. 75 of 2011); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 9.
+>
+> E136: Previous affecting provision: power pursuant to subs. (6) exercised (17.12.2010) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) (No. 3) Regulations 2010* (S.I. No. 622 of 2010); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 10.
+>
+> E137: Previous affecting provision: power pursuant to subs. (2) exercised (17.12.2010) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) (No. 3) Regulations 2010* (S.I. No. 621 of 2010); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 11.
+>
+> E138: Previous affecting provision: power pursuant to subs. (6) exercised (14.10.2010) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) Regulations (No. 2) 2010* (S.I. No. 500 of 2010); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 12.
+>
+> E139: Previous affecting provision: power pursuant to subs. (2) exercised (14.10.2010) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) Regulations (No. 2) 2010* (S.I. No. 499 of 2010); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 13.
+>
+> E140: Previous affecting provision: power pursuant to subs. (6) exercised (29.07.2010) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Counter Terrorism) (Financial Sanctions) Regulations (No. 2) 2010* (S.I. No. 381 of 2010); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 14.
+>
+> E141: Previous affecting provision: power pursuant to subs. (2) exercised (29.07.2010) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Counter Terrorism) (Financial Sanctions) Regulations (No. 2) 2010* (S.I. No. 380 of 2010); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 15.
+>
+> E142: Previous affecting provision: power pursuant to subs. (6) exercised (8.06.2010) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) Regulations 2010* (S.I. No. 267 of 2010); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 14.
+>
+> E143: Previous affecting provision: power pursuant to subs. (2) exercised (8.06.2010) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) Regulations 2010* (S.I. No. 266 of 2010); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 15.
+>
+> E144: Previous affecting provision: power pursuant to subs. (6) exercised (20.04.2010) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Counter Terrorism) (Financial Sanctions) Regulations 2010* (S.I. No. 159 of 2010); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 16.
+>
+> E145: Previous affecting provision: power pursuant to subs. (2) exercised (20.04.2010) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Counter Terrorism) (Financial Sanctions) Regulations 2010* (S.I. No. 158 of 2010); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 17.
+>
+> E146: Previous affecting provision: power pursuant to subs. (6) exercised (27.10.2009) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) Regulations (No. 3) 2009* (S.I. No. 427 of 2009); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 16.
+>
+> E147: Previous affecting provision: power pursuant to subs. (2) exercised (27.10.2009) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) Regulations (No. 3) 2009* (S.I. No. 426 of 2009); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 17.
+>
+> E148: Previous affecting provision: power pursuant to subs. (2) exercised (3.04.2009) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Counter Terrorism) (Financial Sanctions) Regulations 2009* (S.I. No. 129 of 2009); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 18.
+>
+> E149: Previous affecting provision: power pursuant to subs. (6) exercised (3.04.2009) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Counter Terrorism) (Financial Sanctions) Regulations 2009* (S.I. No. 128 of 2009); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 19.
+>
+> E150: Previous affecting provision: power pursuant to subs. (2) exercised (2.04.2009) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) Regulations (No. 2) 2009* (S.I. No. 120 of 2009); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 18.
+>
+> E151: Previous affecting provision: power pursuant to subs. (6) exercised (2.04.2009) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) Regulations (No. 2) 2009* (S.I. No. 119 of 2009); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 19.
+>
+> E152: Previous affecting provision: power pursuant to subs. (6) exercised (5.02.2009) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) Regulations 2009* (S.I. No. 37 of 2009); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 20.
+>
+> E153: Previous affecting provision: power pursuant to subs. (2) exercised (5.02.2009) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) Regulations 2009* (S.I. No. 36 of 2009); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 21.
+>
+> E154: Previous affecting provision: power pursuant to subs. (2) exercised (1.11.2008) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) Regulations (No. 5) 2008* (S.I. No. 458 of 2008); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 22.
+>
+> E155: Previous affecting provision: power pursuant to subs. (6) exercised (1.11.2008) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) Regulations (No. 5) 2008* (S.I. No. 457 of 2008); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 23.
+>
+> E156: Previous affecting provision: power pursuant to subs. (2) exercised (17.09.2008) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) Regulations (No. 4) 2008* (S.I. No. 380 of 2008); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 24.
+>
+> E157: Previous affecting provision: power pursuant to subs. (6) exercised (17.09.2008) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) Regulations (No. 4) 2008* (S.I. No. 379 of 2008); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 25.
+>
+> E158: Previous affecting provision: power pursuant to subs. (2) exercised (17.09.2008) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Counter Terrorism) (Financial Sanctions) Regulations (No. 3) 2008* (S.I. No. 378 of 2008); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 20.
+>
+> E159: Previous affecting provision: power pursuant to subs. (6) exercised (17.09.2008) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Counter Terrorism) (Financial Sanctions) Regulations (No. 3) 2008* (S.I. No. 377 of 2008); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 21.
+>
+> E160: Previous affecting provision: power pursuant to subs. (6) exercised (2.07.2008) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Counter Terrorism) (Financial Sanctions) Regulations (No. 2) 2008* (S.I. No. 237 of 2008); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 22.
+>
+> E161: Previous affecting provision: power pursuant to subs. (2) exercised (2.07.2008) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Counter Terrorism) (Financial Sanctions) Regulations (No. 2) 2008* (S.I. No. 236 of 2008); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 23.
+>
+> E162: Previous affecting provision: power pursuant to subs. (6) exercised (26.06.2008) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) Regulations (No. 3) 2008* (S.I. No. 216 of 2008); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 26.
+>
+> E163: Previous affecting provision: power pursuant to subs. (2) exercised (26.06.2008) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) Regulations (No. 3) 2008* (S.I. No. 215 of 2008); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 27.
+>
+> E164: Previous affecting provision: power pursuant to subs. (6) exercised (17.04.2008) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) Regulations (No. 2) 2008* (S.I. No. 110 of 2008); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 28.
+>
+> E165: Previous affecting provision: power pursuant to subs. (2) exercised (17.04.2008) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) Regulations (No. 2) 2008* (S.I. No. 109 of 2008); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 29.
+>
+> E166: Previous affecting provision: power pursuant to subs. (6) exercised (22.02.2008) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) Regulations 2008* (S.I. No. 39 of 2008); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 30.
+>
+> E167: Previous affecting provision: power pursuant to subs. (2) exercised (22.02.2008) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) Regulations 2008* (S.I. No. 38 of 2008); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 31.
+>
+> E168: Previous affecting provision: power pursuant to subs. (6) exercised (23.01.2008) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Counter Terrorism) (Financial Sanctions) Regulations 2008* (S.I. No. 10 of 2008); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 24.
+>
+> E169: Previous affecting provision: power pursuant to subs. (2) exercised (23.01.2008) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Counter Terrorism) (Financial Sanctions) Regulations 2008* (S.I. No. 9 of 2008); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 25.
+>
+> E170: Previous affecting provision: power pursuant to subs. (6) exercised (14.11.2007) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) Regulations (No. 4) 2007* (S.I. No. 760 of 2007); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 32.
+>
+> E171: Previous affecting provision: power pursuant to subs. (2) exercised (14.11.2007) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) Regulations (No. 4) 2007* (S.I. No. 759 of 2007); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 33.
+>
+> E172: Previous affecting provision: power pursuant to subs. (6) exercised (15.10.2007) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) Regulations (No. 3) 2007* (S.I. No. 696 of 2007); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 34.
+>
+> E173: Previous affecting provision: power pursuant to subs. (2) exercised (15.10.2007) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Usama bin Laden, the Al-Qaida network and the Taliban) (Financial Sanctions) Regulations (No. 3) 2007* (S.I. No. 695 of 2007); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 35.
+>
+> E174: Previous affecting provision: power pursuant to subs. (6) exercised (24.07.2007) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Counter Terrorism) (Financial Sanctions) Regulations (No. 2) 2007* (S.I. No. 548 of 2007); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 26.
+>
+> E175: Previous affecting provision: power pursuant to subs. (2) exercised (24.07.2007) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Counter Terrorism) (Financial Sanctions) Regulations (No. 2) 2007* (S.I. No. 547 of 2007); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 27.
+>
+> E176: Previous affecting provision: power pursuant to subs. (6) exercised (20.07.2007) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Usama bin Laden, Al-Qaida and Taliban of Afghanistan) (Financial Sanctions) Regulations (No. 2) 2007* (S.I. No. 535 of 2007); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 36.
+>
+> E177: Previous affecting provision: power pursuant to subs. (2) exercised (20.07.2007) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Usama bin Laden, Al-Qaida and Taliban of Afghanistan) (Financial Sanctions) Regulations (No. 2) 2007* (S.I. No. 534 of 2007); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 37.
+>
+> E178: Previous affecting provision: power pursuant to subs. (6) exercised (4.07.2007) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Counter Terrorism) (Financial Sanctions) Regulations 2007* (S.I. No. 411 of 2007); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 28.
+>
+> E179: Previous affecting provision: power pursuant to subs. (2) exercised (4.07.2007) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Counter Terrorism) (Financial Sanctions) Regulations 2007* (S.I. No. 410 of 2007); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 29.
+>
+> E180: Previous affecting provision: power pursuant to subs. (6) exercised (2.05.2007) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Usama Bin Laden, Al-Qaida and Taliban of Afghanistan) (Financial Sanctions) Regulations 2007* (S.I. No. 206 of 2007); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 38.
+>
+> E181: Previous affecting provision: power pursuant to subs. (2) exercised (2.05.2007) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Usama Bin Laden, Al-Qaida and Taliban of Afghanistan) (Financial Sanctions) Regulations 2007* (S.I. No. 205 of 2007); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 39.
+>
+> E182: Previous affecting provision: power pursuant to subs. (6) exercised (1.08.2006) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Counter Terrorism) (Financial Sanctions) Regulations (No. 2) 2006* (S.I. No. 434 of 2006); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 30.
+>
+> E183: Previous affecting provision: power pursuant to subs. (2) exercised (1.08.2006) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Counter Terrorism) (Financial Sanctions) Regulations (No. 2) 2006* (S.I. No. 433 of 2006); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Counter Terrorism) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 466 of 2015), reg. 6 and sch. 2 para. 31.
+>
+> E184: Previous affecting provision: power pursuant to subs. (6) exercised (1.08.2006) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Usama bin Laden, Al-Qaida and Taliban of Afghanistan) (Financial Sanctions) Regulations (No. 2) 2006* (S.I. No. 432 of 2006); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 40.
+>
+> E185: Previous affecting provision: power pursuant to subs. (2) exercised (1.08.2006) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Usama bin Laden, Al-Qaida and Taliban of Afghanistan) (Financial Sanctions) Regulations (No. 2) 2006* (S.I. No. 431 of 2006); revoked (28.10.2015) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2) and (6)) (Restrictive Measures concerning Certain Persons and Entities Associated with the Al-Qaida Network) (Financial Sanctions) (No. 2) Regulations 2015* (S.I. No. 467 of 2015), reg. 6 and sch. 2 para. 41.
+>
+> E186: Previous affecting provision: power pursuant to subs. (6) exercised (25.04.2006) by *Criminal Justice (Terrorist Offences Act 2005 (Section 42(6)) (Usama bin Laden, Al-Qaida and Taliban of Afghanistan) (Financial Sanctions) Regulations 2006* (S.I. No. 224 of 2006); revoked (1.08.2006) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Usama bin Laden, Al-Qaida and Taliban of Afghanistan) (Financial Sanctions) Regulations (No. 2) 2006* (S.I. No. 432 of 2006), reg. 5.
+>
+> E187: Previous affecting provision: power pursuant to subs. (2) exercised (25.04.2006) by *Criminal Justice (Terrorist Offences Act 2005 (Section 42(2)) (Usama bin Laden, Al-Qaida and Taliban of Afghanistan) (Financial Sanctions) Regulations 2006* (S.I. No. 222 of 2006); revoked (1.08.2006) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Usama bin Laden, Al-Qaida and Taliban of Afghanistan) (Financial Sanctions) Regulations (No. 2) 2006* (S.I. No. 431 of 2006), reg. 5.
+>
+> E188: Previous affecting provision: power pursuant to subs. (6) exercised (25.04.2006) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Counter Terrorism) (Financial Sanctions) Regulations 2006* (S.I. No. 221 of 2006); revoked (1.08.2006) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Counter Terrorism) (Financial Sanctions) Regulations (No. 2) 2006* (S.I. No. 434 of 2006), reg. 5.
+>
+> E189: Previous affecting provision: power pursuant to subs. (2) exercised (25.04.2006) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Counter Terrorism) (Financial Sanctions) Regulations 2006* (S.I. No. 220 of 2006); revoked (1.08.2006) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Counter Terrorism) (Financial Sanctions) Regulations (No.2) 2006* (S.I. No. 433 of 2006), reg. 5.
+>
+> E190: Previous affecting provision: power pursuant to subs. (6) exercised (14.12.2005) by *Criminal Justice (Terrorist Offences Act 2005 (Section 42(6)) (Usama bin Laden, Al-Qaida and Taliban of Afghanistan) (Financial Sanctions) Regulations (No. 2) 2005* (S.I. No. 823 of 2005); revoked (25.04.2006) by *Criminal Justice (Terrorist Offences Act 2005 (Section 42(6)) (Usama bin Laden, Al-Qaida and Taliban of Afghanistan) (Financial Sanctions) Regulations 2006* (S.I. No. 224 of 2006), reg. 5.
+>
+> E191: Previous affecting provision: power pursuant to subs. (2) exercised (14.12.2005) by *Criminal Justice (Terrorist Offences Act 2005 (Section 42(2)) (Usama bin Laden, Al-Qaida and Taliban of Afghanistan) (Financial Sanctions) Regulations (No. 2) 2005* (S.I. No. 822 of 2005); revoked (25.04.2006) by *Criminal Justice (Terrorist Offences Act 2005 (Section 42(2)) (Usama bin Laden, Al-Qaida and Taliban of Afghanistan) (Financial Sanctions) Regulations 2006* (S.I. No. 222 of 2006), reg. 5.
+>
+> E192: Previous affecting provision: power pursuant to subs. (6) exercised (14.12.2005) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Counter Terrorism) (Financial Sanctions) Regulations (No. 2) 2005* (S.I. No. 821 of 2005); revoked (25.04.2006) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Counter Terrorism) (Financial Sanctions) Regulations 2006* (S.I. No. 221 of 2006), reg. 5.
+>
+> E193: Previous affecting provision: power pursuant to subs. (2) exercised (14.12.2005) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Counter Terrorism) (Financial Sanctions) Regulations (No. 2) 2005* (S.I. No. 820 of 2005); revoked (25.04.2006) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Counter Terrorism) (Financial Sanctions) Regulations 2006* (S.I. No. 220 of 2006), reg. 5.
+>
+> E194: Previous affecting provision: power pursuant to subs. (6) exercised (25.07.2005) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Counter Terrorism) (Financial Sanctions) Regulations 2005* (S.I. No. 421 of 2005); revoked (14.12.2005) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Counter Terrorism) (Financial Sanctions) Regulations (No.2) 2005* (S.I. No. 821 of 2005), reg. 5.
+>
+> E195: Previous affecting provision: power pursuant to subs. (2) exercised (25.07.2005) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Counter Terrorism) (Financial Sanctions) Regulations 2005* (S.I. No. 420 of 2005); revoked (14.12.2005) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Counter Terrorism) (Financial Sanctions) Regulations (No.2) 2005* (S.I. No. 820 of 2005), reg. 5.
+>
+> E196: Previous affecting provision: power pursuant to subs. (6) exercised (25.07.2005) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(6)) (Usama Bin Laden, Al-Qaida and Taliban of Afghanistan) (Financial Sanctions) Regulations 2005* (S.I. No. 417 of 2005); revoked (14.12.2005) by *Criminal Justice (Terrorist Offences Act 2005 (Section 42(6)) (Usama bin Laden, Al-Qaida and Taliban of Afghanistan) (Financial Sanctions) Regulations 2006* (S.I. No. 823 of 2005), reg. 5.
+>
+> E197: Previous affecting provision: power pursuant to subs. (2) exercised (25.07.2005) by *Criminal Justice (Terrorist Offences) Act 2005 (Section 42(2)) (Usama Bin Laden, Al-Qaida and Taliban of Afghanistan) (Financial Sanctions) Regulations 2005* (S.I. No. 416 of 2005); revoked (14.12.2005) by *Criminal Justice (Terrorist Offences Act 2005 (Section 42(2)) (Usama bin Laden, Al-Qaida and Taliban of Afghanistan) (Financial Sanctions) Regulations (No. 2) 2005* (S.I. No. 822 of 2005), reg. 5.
+
+## PART 5Miscellaneous Matters — PART 5 — Miscellaneous Matters
+
+### 43. Proceedings relating to offences committed outside the State.
+
+**43.**—(1) Proceedings for an offence under *section 6, 9, 10, 11* or F43[*subsection (1)*, *(2)*, *(3)* or *(4)* of *section 13*] in relation to an act committed outside the State may be taken in any place in the State and the offence may for all incidental purposes be treated as having been committed in that place.
+
+(2) Where a person is charged with an offence referred to in *subsection (1)*, no further proceedings in the matter (other than any remand in custody or on bail) may be taken except by or with the consent of the Director of Public Prosecutions.
+
+(3) The Director of Public Prosecutions may take, or consent to the taking of, further proceedings against a person for an offence in respect of an act to which *section 6(1), 9(1)* or *(2), 10(1), (2)* or *(3)*, *11(1)* or *(2)* or F44[*subsection (1)*, *(2)*, *(3)* or *(4)* of *section 13*] applies and that is committed outside the State in the circumstances referred to in *section 6(3), 9(4), 10(5), 11(4)* or *13(7)* respectively if satisfied—
+
+(*a*) that—
+
+(i) a request for that person's surrender for the purpose of trying him or her for an offence in respect of that act has been made under Part II of the Extradition Act 1965 by—
+
+(I) in the case of an offence in respect of an act to which *section 6(1)* F45[or *subsection (3)* or *(4)* of *section 13*] applies, any state, and
+
+(II) in the case of an offence in respect of an act to which *section 9(1)* or *(2), 10(1), (2)* or *(3), 11(1)* or *(2)* or *13(1)* or *(2)* applies, a state party to the applicable instrument and exercising jurisdiction in accordance with its relevant provision,
+
+and
+
+(ii) the request has been finally refused (whether as a result of a decision of the court or otherwise),
+
+or
+
+(*b*) that—
+
+(i) a F47[relevant arrest warrant] has been received from an issuing state for the purpose of bringing proceedings against the person for an offence in respect of that act,
+
+(ii) except in the case of an act to which *section 6(1)* F46[or *subsection (3)* or *(4)* of *section 13*] applies, jurisdiction is being exercised in accordance with the relevant provision of the applicable instrument, and
+
+(iii) a final determination has been made that the F48[relevant arrest warrant] should not be endorsed for execution in the State under the European Arrest Warrant Act 2003 or that the person should not be surrendered to the issuing state concerned,
+
+or
+
+(*c*) that, because of special circumstances (including, but not limited to, the likelihood of a refusal referred to in *paragraph (a)(ii)* or a determination referred to in *paragraph (b)(iii)*), it is expedient that proceedings be taken against the person for an offence under the law of the State in respect of the act.
+
+(4) In *subsection (3)*—
+
+“applicable instrument” means—
+
+(*a*) in relation to an act to which *section 9(1)* or *(2)* applies, the Hostage Convention as defined in *section 8,*
+
+(*b*) in relation to an act to which *section 10(1), (2)* or *(3)* applies, the Terrorist Bombing Convention as defined in *section 8,*
+
+(*c*) in relation to an act to which *section 11(1)* or *(2)* applies, the Internationally Protected Persons Convention as defined in *section 8*, and
+
+(*d*) in relation to an act to which *section 13(1)* or *(2)* applies, the Terrorist Financing Convention as defined in *section 12*;
+
+“F49[relevant arrest warrant]” and “issuing state” have the meanings given by section 2 of the European Arrest Warrant Act 2003;
+
+“relevant provision” means—
+
+(*a*) in relation to the Hostage Convention, Article 5(1),
+
+(*b*) in relation to the Terrorist Bombing Convention, Article 6(1) or (2),
+
+(*c*) in relation to the Internationally Protected Persons Convention, Article 3(1), and
+
+(*d*) in relation to the Terrorist Financing Convention, Article 7(1) or (2).
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F43, F44: Substituted (8.07.2026) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2026* (19/2026), s. 10(a), (b)(i), commenced as per s. 13(3).
+>
+> F45, F46: Inserted (8.07.2026) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2026* (19/2026), s. 10(b)(i), (ii), commenced as per s. 13(3).
+>
+> F47, F48, F49: Substituted (30.03.2021) by *European Union (European Arrest Warrant Act 2003) (Amendment) Regulations 2021* (S.I. No. 150 of 2021), reg. 43(a), (b), in effect as per reg. 1(2).
+
+### 44. Evidence in proceedings under the Act.
+
+**44.**—(1) Where in any proceedings relating to an offence under this Act a question arises as to whether—
+
+(*a*) a person is an internationally protected person,
+
+(*b*) a facility is a State or Government facility of the State abroad, or
+
+(*c*) an organisation is an international organisation or an international organisation of an intergovernmental character,
+
+a certificate that is signed by the Minister for Foreign Affairs, or by a person authorised by that Minister, and that states any fact relating to that question is evidence of the fact unless the contrary is shown.
+
+(2) In any proceedings relating to an offence under this Act—
+
+F50[(*a*) in relation to an act committed outside the State—
+
+(i) a certificate that is signed by an officer of the Minister for Foreign Affairs and Trade and states that a passport was issued by that Minister of the Government to a person on a specified date, and
+
+(ii) a certificate that is signed by an officer of the Minister and states that, to the best of the officer’s knowledge and belief, the person has not ceased to be an Irish citizen,
+
+is evidence that the person was an Irish citizen on the date on which the offence concerned is alleged to have been committed, unless the contrary is shown,]
+
+(*b*) a certificate that is signed by the Attorney General, or by a person authorised by him or her, as to his or her opinion in relation to a matter mentioned in *section 6(6)* is evidence of that opinion, unless the contrary is shown, and
+
+(*c*) a certificate that is signed by the Director of Public Prosecutions or by a person authorised by that Director and that states any of the matters specified in *paragraph (a), (b)* or *(c)* of *section 43(3)* is evidence of the facts stated in the certificate, unless the contrary is shown.
+
+(3) A document purporting to be a certificate under *subsection (1)* or *(2)* is deemed, unless the contrary is shown—
+
+(*a*) to be such a certificate,
+
+(*b*) to have been signed by the person purporting to have signed it, and
+
+(*c*) in the case of certificate signed with the authority of the Minister for Foreign Affairs, the Attorney General or the Director of Public Prosecutions, to have been signed in accordance with the authorisation.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F50: Substituted (8.06.2015) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2015* (17/2015), s. 9, commenced as per s. 12(3).
+
+### 45. Liability for offences by bodies corporate.
+
+**45.**—(1) Where a body corporate commits an offence under this Act and the offence is proved to have been committed with the consent or connivance of, or to be attributable to, any neglect on the part of a person who, when the offence was committed—
+
+(*a*) was a director, manager, secretary or other officer of that body, or
+
+(*b*) purported to act in any such capacity,
+
+that person, as well as the body corporate, is guilty of an offence and is liable to be proceeded against and punished accordingly.
+
+(2) A person may be proceeded against for an offence referred to in *subsection (1)* whether or not the body corporate has been proceeded against or convicted of the offence committed by that body.
+
+(3) Where the affairs of a body corporate are managed by its members, *subsections (1)* and *(2)* apply in relation to the acts and defaults of a member in connection with the member's management functions as if the member were a director or manager of the body corporate.
+
+### 46. Double jeopardy.
+
+**46.**—A person who has been acquitted or convicted of an offence outside the State shall not be proceeded against for an offence under this Act consisting of the acts that constituted the offence of which that person was so acquitted or convicted.
+
+### 47. Expenses.
+
+**47.**—The expenses incurred in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of money provided by the Oireachtas.
+
+## PART 6Amendment of Other Acts — PART 6 — Amendment of Other Acts
+
+### 48. Amendment of section 21 of Act of 1939.
+
+**48.**—Section 21(2) of the Act of 1939 is amended—
+
+(*a*) in paragraph (*a*) by substituting—
+
+(i) “€3,000” for “fifty pounds”, and
+
+(ii) “12 months” for “three months”,
+
+and
+
+(*b*) in paragraph (*b*) by substituting “a fine or imprisonment for a term not exceeding 8 years or both” for “imprisonment for a term not exceeding 7 years”.
+
+### 49. Amendment of Act of 1939 — new section 21A.
+
+**49.**—The Act of 1939 is amended by inserting the following after section 21:
+
+| “Offence of providing assistance to an unlawful organisation. | 21A.—(1) A person who knowingly renders assistance (including financial assistance) to an unlawful organisation, whether directly or indirectly, in the performance or furtherance of an unlawful object is guilty of an offence. (2) A person guilty of an offence under this section is liable— (*a*) on summary conviction, to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both, or (*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 8 years or both.”. |
+|---|---|
+
+### 50. Amendment of section 22 of Act of 1939.
+
+**50.**—Section 22(*a*) of the Act of 1939 is amended by substituting “all the property (including money and all other property, real or personal, heritable or moveable, including choses in action and other intangible or incorporeal property, including funds as defined in *section 12* of the *Criminal Justice (Terrorist Offences) Act 2005* of such organisation” for “all the property (whether real, chattel real, or personal and whether in possession or in action) of such organisation”.
+
+### 51. Amendment of Act of 1939 — new sections 22A to 22I.
+
+**51.**—The Act of 1939 is amended by inserting the following after section 22:
+
+| “Definitions for, and operation of, sections 22B to 22I. | 22A.—(1) For the purposes of sections 22B to 22I— ‘disposal order’ means an order under section 22C; ‘interim order’ means an order made under section 22B; ‘Minister’ means Minister for Justice, Equality and Law Reform; ‘property’ does not include moneys held in a bank; ‘respondent’ means— (*a*) a person in respect of whom an application for an interim order has been made, or (*b*) a person in respect of whom an interim order has been made, and includes a person who, but for this Act, would become entitled on the death of a person referred to in paragraph (*a*) or (*b*) to any property to which such an order relates (being an order that is in force and is in respect of that person). (2) Sections 22B to 22I shall not be construed to limit the generality of section 22. |
+|---|---|
+
+| Interim order respecting specified property. | 22B.—(1) The Minister may apply *ex parte* to the High Court for an interim order under subsection (2) in respect of specified property where the Minister is of the opinion that it— (*a*) is the property of an unlawful organisation, whether or not the property is in the possession or control of that organisation, and (*b*) is forfeited to and vested in the Minister by virtue of section 22. (2) On application under subsection (1), the Court may issue an interim order prohibiting any of the following from disposing of or otherwise dealing with the property specified in the order or from diminishing its value: (*a*) any person in possession or control of the property; (*b*) any person having notice of the order; (*c*) any other person specified in the order. (3) An interim order— (*a*) may contain such provisions, conditions and restrictions as the Court considers necessary or expedient, and (*b*) shall provide for notice of the order to be given to— (i) any person named in the order, and (ii) any other person who is or appears to be affected by it, unless the Court is satisfied that it is not reasonably possible to ascertain the person's whereabouts. (4) On application by the respondent or any other person claiming ownership of any property specified in an interim order that is in force under this section, the Court may discharge or vary the order, as it considers appropriate, if it is shown to the Court's satisfaction that the property is not the property of an unlawful organisation. (5) On application at any time by the Minister, the Court shall discharge an interim order. (6) Subject to subsections (4) and (5), an interim order continues in force until the expiry of 12 months from the date of its making and then lapses, unless an application for a disposal order in respect of any property specified in the interim order is brought during that period. (7) If an application for a disposal order is brought within the period allowed under subsection (6), the interim order lapses on— (*a*) the determination of the application, (*b*) the expiry of the ordinary time for bringing an appeal against the determination, or (*c*) if such appeal is brought, the determination or abandonment of the appeal or any further appeal or the expiry of the time for bringing any further appeal, whichever is the latest. (8) Notice of an application under subsection (4) shall be given by the respondent or other person making the application to— (*a*) the Minister, and (*b*) any person to whom the Court directs that notice of the application be given. (9) Notice of an application under subsection (5) shall be given by the Minister to— (*a*) the respondent, unless the Court is satisfied that it is not reasonably possible to ascertain the respondent's whereabouts, and (*b*) any person to whom the Court directs that notice of the application be given. |
+|---|---|
+
+| Disposal order respecting specified property. | 22C.—(1) Subject to subsection (2), where an interim order has been in force for not less than 12 months in relation to specified property, the High Court may, on application by the Minister, make an order authorising the Minister to dispose of the property as he sees fit. (2) Subject to subsection (4), the Court shall make a disposal order in relation to any property that is the subject of an application under subsection (1) unless it is satisfied that the property is not the property of an unlawful organisation. (3) The Minister shall give notice of an application under this section to— (*a*) the respondent unless the Court is satisfied that it is not reasonably possible to ascertain the respondent's whereabouts, and (*b*) such other (if any) persons as the Court may direct. (4) Before deciding whether to make a disposal order under subsection (1), the Court shall give any person claiming ownership of the specified property an opportunity to be heard by the Court and to show cause why the order should not be made. (5) On application by the respondent or, if the respondent's whereabouts cannot be ascertained, on the Court's own initiative, the Court may, if it considers it appropriate to do so in the interests of justice, adjourn the hearing of an application under subsection (1) for such period not exceeding 2 years as it considers reasonable. |
+|---|---|
+
+| Ancillary orders and provision in relation to certain profits or gains, etc. | 22D.—(1) At any time while an interim order is in force, the High Court may, on application by the Minister, make such orders as it considers necessary or expedient to enable the interim order to have full effect. (2) The Minister shall give notice of an application under this section to— (*a*) the respondent unless the Court is satisfied that it is not reasonably possible to ascertain the respondent's whereabouts, and (*b*) such other (if any) persons as the Court may direct. (3) An interim order or disposal order may be expressed to apply to— (*a*) any profit, gain or interest, (*b*) any dividend or other payment, or (*c*) any other property, payable or arising, after the making of the order, in connection with any other property to which the order relates. |
+|---|---|
+
+| Evidence. | 22E.—(1) Production in court in any proceedings of a document signed by the Minister and stating that the property specified in the document would, but for the operation of section 22, have been the property of an unlawful organisation is evidence that the specified property would, but for the operation of that section, have been the property of an unlawful organisation, unless the contrary is shown. (2) A document purporting to be a document of the Minister under subsection (1) and to be signed by the Minister shall be deemed for the purposes of this section to be such a document and to have been so signed, unless the contrary is shown. |
+|---|---|
+
+| Seizure of certain property. | 22F.—(1) Where an interim order or a disposal order is in force, a member of the Garda Síochána or an officer of customs and excise may seize any property that is the subject of the order for the purpose of preventing the property being removed from the State. (2) Property seized under this section shall be dealt with in accordance with the directions of the High Court. |
+|---|---|
+
+| Compensation. | 22G.—(1) An application to the High Court for an order under this section may be made where— (*a*) an interim order is discharged or lapses and a disposal order in relation to the matter is not made or, if made, is discharged, or (*b*) an interim order or a disposal order is varied on appeal. (2) On application under subsection (1) by a person who satisfies the Court that the person is the owner of any property to which— (*a*) an interim order referred to in subsection (1)(*a*) related, (*b*) an order referred to in subsection (1)(*b*) had related, but, by reason of its being varied by a court, has ceased to relate, the Court may award the person such (if any) compensation payable by the Minister as it considers just in the circumstances in respect of any loss incurred by the person by reason of the order concerned. (3) The Minister shall be given notice of, and be entitled to be heard in, any proceedings under this section. |
+|---|---|
+
+| Application of certain provisions of Act of 1996. | 22H.—For the purposes of this Part, sections 6, 7 and 9 to 13 of the Act of 1996 apply with the following modifications and any other necessary modifications as if an interim order or a disposal order made under this Part, or an application for such order, had been made under the Act of 1996: (*a*) a reference in any of the applicable provisions of the Act of 1996 to applicant or Minister shall be construed as referring to the Minister for Justice, Equality and Law Reform; (*b*) a reference in any of the applicable provisions of the Act of 1996 to respondent shall be construed as defined in section 22A of this Act. |
+|---|---|
+
+| Immunity from proceedings. | 22I.—No action or proceeding of any kind lies against a person in any court in respect of any act done or omission made in compliance with an order under any of sections 22B to 22D and 22H.”. |
+|---|---|
+
+### 52. Amendment of section 38 of Act of 1939.
+
+**52.**—Section 38 of the Act of 1939 is amended by adding the following subsection:
+
+“(4) For the purposes of this Act, a Special Criminal Court is in existence if it has been established under this section and has at the relevant time not fewer than 3 members appointed under section 39.”.
+
+### 53. Amendment of section 49 of Act of 1939.
+
+**53.**—Section 49 of the Act of 1939 is amended by renumbering it as section 49(1) and adding the following subsections:
+
+“(2) A trial that is to be heard before a Special Criminal Court may be transferred by the Court, on its own motion or on the application of a triable person or the Director of Public Prosecutions, to another Special Criminal Court, but only if the first Court decides that it would be in the interests of justice to do so.
+
+(3) In deciding whether it is in the interests of justice to transfer a trial, the Special Criminal Court may consider any factors it thinks relevant, including—
+
+(*a*) whether the transfer would be in the interests of the expeditious administration of justice, and
+
+(*b*) whether the transfer would prejudice the triable person or persons or the prosecution.
+
+(4) A trial may be transferred under this section notwithstanding that an order has been made under subsection (1)(*e*) in relation to the triable person or persons.
+
+(5) Where 2 or more triable persons are to be tried jointly, the decision of the Special Criminal Court to transfer the trial applies in relation to all of them.
+
+(6) Subsection (5) does not affect the right of a triable person to apply for a separate trial and, if the application is granted, then to apply for a transfer of that trial.
+
+(7) The decision of a Special Criminal Court to transfer a trial is final and unappealable.
+
+(8) In this section ‘triable person’ means a person sent or sent forward for trial to, or charged before or transferred under this Act to, a Special Criminal Court.”.
+
+### 54. Amendment and commencement of section 2 of Act of 1985.
+
+**54.**—(1) Section 2(1) of the Act of 1985 is amended by repealing paragraph (*c*).
+
+(2) Section 2 of the Act of 1985 comes into operation on the pasing of this Act.
+
+### 55. Amendment of section 8 of Act of 1985.
+
+**55.**—Section 8(2) of the Act of 1985 is amended by inserting “or any other form of property” after “Moneys”.
+
+### 56. Amendment of Defence Act 1954.
+
+**56.**—The Defence Act 1954 is amended as follows:
+
+(*a*) in section 169 (as amended by section 7 of the Criminal Justice Act 1990) by substituting the following for subsection (3):
+
+“(3) Where a person charged under this section is convicted by a court-martial of an offence other than treason or murder, he shall be liable to be punished as follows:
+
+(*a*) if he is convicted of manslaughter, be liable to imprisonment for life or any lesser punishment awardable by a court-martial;
+
+(*b*) if he is convicted of rape, rape under section 4 (within the meaning of the Criminal Law (Rape) (Amendment) Act 1990) or aggravated sexual assault (within the meaning of the Criminal Law (Rape) (Amendment) Act 1990), be liable to imprisonment for life or any lesser punishment awardable by a court-martial;
+
+(*c*) if he is convicted of an act of genocide which would be punishable under the Genocide Act 1973 be liable—
+
+(i) in case the offence consists of the killing of any person, to imprisonment for life, or
+
+(ii) in any other case, to imprisonment for a term not exceeding fourteen years;
+
+(*d*) if he is convicted of an offence under the Criminal Justice (United Nations Convention against Torture) Act 2000 be liable to imprisonment for life;
+
+(*e*) if he is convicted of an offence under the Criminal Justice (Safety of United Nations Workers) Act 2000 be liable either to suffer any punishment assigned for such offence by that Act or any lesser punishment awardable by a court-martial;
+
+(*f*) if he is convicted of an offence under the *Criminal Justice (Terrorist Offences) Act 2005*, be liable to suffer any punishment assigned for such offence by that Act;
+
+(*g*) if he is convicted of any offence not before in this section particularly specified which when committed in the State is punishable by the ordinary criminal law of the State, be liable, whether the offence is committed in the State or elsewhere, either to suffer any punishment assigned for such offence by law of the State or to suffer—
+
+(i) if he is subject to military law as an officer, dismissal with ignominy from the Defence Forces or any lesser punishment awardable by a court-martial, or
+
+(ii) if he is subject to military law as a man, imprisonment for any term not exceeding two years or any lesser punishment awardable by a court-martial.”;
+
+(*b*) in section 192(2)(*c*) by inserting “or an offence under the *Criminal Justice (Terrorist Offences) Act 2005*” after “an offence under the Criminal Justice (Safety of United Nations Workers) Act, 2000” (inserted by section 6 of the Criminal Justice (Safety of United Nations Workers) Act 2000);
+
+(*c*) in section 192(3) by inserting “or an offence under the *Criminal Justice (Terrorist Offences) Act 2005*” after “an offence under the Criminal Justice (Safety of United Nations Workers) Act, 2000” (inserted by section 6 of the Criminal Justice (Safety of United Nations Workers) Act 2000).
+
+### 57. Amendment of Extradition Act 1965.
+
+**57.**—(1) Section 3(1) of the Act of 1965 is amended by substituting the following for the definition of “political offence”:
+
+“ ‘political offence’ does not include any of the following:
+
+(*a*) the taking or attempted taking of the life of a Head of State or a member of his family;
+
+(*b*) an offence within the scope of the United Nations Convention against Illicit Traffic in Narcotic Drugs and Psychotropic Substances done at Vienna on the 20th of December, 1988;
+
+(*c*) an offence within the scope of the International Convention for the Suppression of Terrorist Bombings adopted by resolution 52/164 of the General Assembly of the United Nations on 15 December 1997;
+
+(*d*) an offence within the scope of the International Convention for the Suppression of the Financing of Terrorism adopted by resolution 54/109 of the General Assembly of the United Nations on 9 December 1999;”.
+
+(2) Section 3 of the Act of 1965 is amended by the substitution, in subsection (1), of the following definition for the definition of “country” (inserted by section 47(*a*) of the Act of 2003):
+
+“ ‘country’ includes—
+
+(*a*) a place or territory for whose external relations a country, other than that place or territory, is (in whole or in part) responsible, and
+
+(*b*) a place or territory for whose external relations the government of a country, other than the government of that place or territory, is (in whole or in part) responsible.”.
+
+(3) Section 8 (amended by section 49 of the Act of 2003) of the Act of 1965 is amended by the substitution of the following subsections for subsections (1) and (1A):
+
+“(1) Where by any international agreement or convention to which the State is a party an arrangement (in this Act referred to as an extradition agreement) is made with another country for the surrender by each country to the other of persons wanted for prosecution or punishment or where the Minister is satisfied that reciprocal facilities to that effect will be afforded by another country, the Minister for Foreign Affairs may, after consultation with the Minister, by order apply this Part—
+
+(*a*) in relation to that country, or
+
+(*b*) in relation to a place or territory for whose external relations that country is (in whole or in part) responsible.
+
+(1A) Where at any time after the making of an order under subsection (1), a country becomes a party to an extradition agreement to which that order applies, the Minister for Foreign Affairs may, after consultation with the Minister, by order so declare, and this Part shall, upon the making of the second-mentioned order, apply—
+
+(*a*) to that country, or
+
+(*b*) if that country became a party to the extradition agreement concerned for the purpose only of its applying in relation to a place or territory for whose external relations that country is (in whole or in part) responsible, to that place or territory.”.
+
+### 58. Amendment of Extradition (Amendment) Act 1994.
+
+**58.**—The First Schedule to the Extradition (Amendment) Act 1994 is amended by inserting the following after paragraph 6B:
+
+“6C. An offence under *section 6(1)(a), 9* or *11* of the *Criminal Justice (Terrorist Offences) Act 2005*.”.
+
+### 59. Amendment of Criminal Procedure Act 1967.
+
+**59.**—The Criminal Procedure Act 1967 is amended as follows:
+
+(*a*) in section 13(1) by inserting “or the offence of murder under *section 6* or *11* of the *Criminal Justice (Terrorist Offences) Act 2005* or an attempt to commit such offence” after “the offence of killing or attempted killing under paragraph (*h*) or (*j*) of section 2(1) of the Maritime Security Act 2004” (inserted by section 10 of the Maritime Security Act 2004);
+
+(*b*) in section 29(1) by inserting the following after paragraph (*j*) (inserted by section 10 of the Maritime Security Act 2004):
+
+“(*k*) the offence of murder under *section 6* or *11* of the *Criminal Justice (Terrorist Offences) Act 2005* or an attempt to commit such offence.”.
+
+### 60. Amendment of Bail Act 1997.
+
+**60.**—The Schedule to the Bail Act 1997 is amended by inserting the following after paragraph 32:
+
+“Suppression of Terrorism.
+
+33.—Any offence under the *Criminal Justice (Terrorist Offences) Act 2005*.”.
+
+## PART 7Communications Data — PART 7 — Communications Data
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E198: Retention period for data subject to a data retention request under this Part prescribed (26.01.2011) by *Communications (Retention of Data) Act 2011* (3/2011), s. 3(1), (2), commenced on enactment.
+
+### 61. Interpretation of this Part.
+
+**61.**—F51[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F51: Repealed (26.01.2011) by *Communications (Retention of Data) Act 2011* (3/2011), s. 13(1), commenced on enactment, subject to transitional provision in subs. (2).
+
+### 62. Application of this Part.
+
+**62.**—F52[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F52: Repealed (26.01.2011) by *Communications (Retention of Data) Act 2011* (3/2011), s. 13(1), commenced on enactment, subject to transitional provision in subs. (2).
+
+### 63. Retention of traffic and location data relating to communications by phone.
+
+**63.**—F53[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F53: Repealed (26.01.2011) by *Communications (Retention of Data) Act 2011* (3/2011), s. 13(1), commenced on enactment, subject to transitional provision in subs. (2).
+
+### 64. Access to data retained for law enforcement and security purposes.
+
+**64.**—F54[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F54: Repealed (26.01.2011) by *Communications (Retention of Data) Act 2011* (3/2011), s. 13(1), commenced on enactment, subject to transitional provision in subs. (2).
+
+### 65. Complaints procedure.
+
+**65.**—F55[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F55: Repealed (26.01.2011) by *Communications (Retention of Data) Act 2011* (3/2011), s. 13(1), commenced on enactment, subject to transitional provision in subs. (2).
+
+### 66. Amendment of section 8 of Act of 1993.
+
+**66.**—F56[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F56: Repealed (26.01.2011) by *Communications (Retention of Data) Act 2011* (3/2011), s. 13(1), commenced on enactment, subject to transitional provision in subs. (2).
+
+### 67. Duties of designated judge in relation to this Part.
+
+**67.**—F57[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F57: Repealed (26.01.2011) by *Communications (Retention of Data) Act 2011* (3/2011), s. 13(1), commenced on enactment, subject to transitional provision in subs. (2).
+
+## PART 8European Arrest Warrant — PART 8 — European Arrest Warrant
+
+### 68. Application of this Part.
+
+**68.**—The amendments effected by this Part (other than *section 83*) shall apply to European arrest warrants, and facsimile and true copies thereof, that are endorsed under section 13, or produced under section 14(7), of the Act of 2003 after the passing of this Act.
+
+### 69. Issuing state presumed to comply with Framework Decision.
+
+**69.**—The Act of 2003 is amended by the insertion of the following section:
+
+“4A.—It shall be presumed that an issuing state will comply with the requirements of the Framework Decision, unless the contrary is shown.”.
+
+### 70. Corresponding offences.
+
+**70.**—The Act of 2003 is amended by the substitution of the following section for section 5:
+
+“5.—For the purposes of this Act, an offence specified in a European arrest warrant corresponds to an offence under the law of the State, where the act or omission that constitutes the offence so specified would, if committed in the State on the date on which the European arrest warrant is issued, constitute an offence under the law of the State.”.
+
+### 71. Obligation to surrender.
+
+**71.**—The Act of 2003 is amended by the substitution of the following section for section 10:
+
+“10.—Where a judicial authority in an issuing state duly issues a European arrest warrant in respect of a person—
+
+(*a*) against whom that state intends to bring proceedings for an offence to which the European arrest warrant relates,
+
+(*b*) who is the subject of proceedings in that state for an offence to which the European arrest warrant relates,
+
+(*c*) who has been convicted of, but not yet sentenced in respect of, an offence to which the European arrest warrant relates, or
+
+(*d*) on whom a sentence of imprisonment or detention has been imposed in respect of an offence to which the European arrest warrant relates, and who fled from the issuing state before he or she—
+
+(i) commenced serving that sentence, or
+
+(ii) completed serving that sentence,
+
+that person shall, subject to and in accordance with the provisions of this Act and the Framework Decision, be arrested and surrendered to the issuing state.”.
+
+### 72. European arrest warrant.
+
+**72.**—Section 11 of the Act of 2003 is amended by—
+
+(*a*) the substitution of the following subsections for subsection (1):
+
+“(1) A European arrest warrant shall, in so far as is practicable, be in the form set out in the Annex to the Framework Decision.
+
+(1A) Subject to subsection (2A), a European arrest warrant shall specify—
+
+(*a*) the name and the nationality of the person in respect of whom it is issued,
+
+(*b*) the name of the judicial authority that issued the European arrest warrant, and the address of its principal office,
+
+(*c*) the telephone number, fax number and email address (if any) of that judicial authority,
+
+(*d*) the offence to which the European arrest warrant relates, including the nature and classification under the law of the issuing state of the offence concerned,
+
+(*e*) that a conviction, sentence or detention order is immediately enforceable against the person, or that a warrant for his or her arrest, or other order of a judicial authority in the issuing state having the same effect, has been issued in respect of the offence,
+
+(*f*) the circumstances in which the offence was committed or is alleged to have been committed, including the time and place of its commission or alleged commission, and the degree of involvement or alleged degree of involvement of the person in the commission of the offence, and
+
+(*g*) (i) the penalties to which that person would, if convicted of the offence specified in the European arrest warrant, be liable,
+
+(ii) where that person has been convicted of the offence specified in the European arrest warrant but has not yet been sentenced, the penalties to which he or she is liable in respect of the offence, or
+
+(iii) where that person has been convicted of the offence specified in the European arrest warrant and a sentence has been imposed in respect thereof, the penalties of which that sentence consists.”,
+
+(*b*) the insertion of the following subsection:
+
+“(2A) If it is not practicable for any of the information to which subsection (1A) (inserted by *section 72(a)* of the *Criminal Justice (Terrorist Offences) Act 2005*) applies to be specified in the European arrest warrant, it may be specified in a separate document.”,
+
+and
+
+(*c*) the deletion of subsection (3).
+
+### 73. Amendment of section 12 of Act of 2003.
+
+**73.**—Section 12 of the Act of 2003 is amended by—
+
+(*a*) the substitution, in subsection (2), of “issuing judicial authority or the issuing state, as may be appropriate,” for “issuing judicial authority”,
+
+(*b*) the insertion of the following subsection:
+
+“(3A) An undertaking required under this Act may be set out in the European arrest warrant or in a separate document.”,
+
+(*c*) the substitution of the following subsection for subsection (4):
+
+“(4) Notwithstanding subsection (3), the issuing judicial authority shall be deemed to have complied with subsection (1)—
+
+(*a*) if facsimile copies of—
+
+(i) the European arrest warrant, and
+
+(ii) where appropriate, a translation thereof,
+
+are transmitted by or on behalf of the issuing judicial authority to the Central Authority in the State, and
+
+(*b*) where the Minister makes regulations under subsection (10), there is, in relation to those facsimile copies, compliance with the regulations.”,
+
+(*d*) the substitution of the following subsection for subsection (5):
+
+“(5) Notwithstanding subsection (3), the issuing judicial authority or the issuing state, as may be appropriate, shall be deemed to have complied with subsection (2)—
+
+(*a*) if facsimile copies of—
+
+(i) such undertakings as are required under this Act, and
+
+(ii) where appropriate, translations thereof,
+
+are transmitted by it or on its behalf to the Central Authority in the State, and
+
+(*b*) where the Minister makes regulations under subsection (10) there is, in relation to those facsimile copies, compliance with the regulations.”,
+
+(*e*) the substitution, in subsection (6), of “issuing judicial authority or the issuing state, as may be appropriate,” for “issuing judicial authority” in each place that it occurs,
+
+(*f*) the substitution, in paragraph (*b*) of subsection (8), of “an issuing judicial authority or the issuing state, as may be appropriate,” for “a judicial authority in the issuing state”,
+
+(*g*) the insertion, in subsection (8), of the following new paragraph:
+
+“(*c*) a document referred to in section 11(2A) (inserted by *section 72(b)* of the *Criminal Justice (Terrorist Offences) Act 2005*),”,
+
+and
+
+(*h*) the substitution of the following subsection for subsection (11):
+
+“(11) In this section ‘European arrest warrant’ includes a document referred to in section 11(2A) (inserted by *section 72(b)* of the *Criminal Justice (Terrorist Offences) Act 2005*).”.
+
+### 74. Amendment of section 14 of Act of 2003.
+
+**74.**—Section 14 of the Act of 2003 is amended by—
+
+(*a*) the substitution of the following subsection for subsection (6):
+
+“(6) Notwithstanding subsection (5), the High Court may order the release from custody of a person remanded in custody under this section if, at any time after the person has been so remanded, it appears to the High Court that a European arrest warrant has not been issued in respect of the person.”,
+
+and
+
+(*b*) the substitution of the following subsection for subsection (7):
+
+“(7) Where, in relation to a person who has been remanded in custody under subsection (3), a European arrest warrant is transmitted to the Central Authority in the State in accordance with section 12—
+
+(*a*) that person shall be brought before the High Court as soon as may be, and
+
+(*b*) the European arrest warrant, or a facsimile or true copy thereof, shall be produced to the High Court,
+
+and the High Court shall, if satisfied that the person is the person in respect of whom the European arrest warrant was issued—
+
+(i) remand the person in custody or on bail (and for that purpose the High Court shall have the same powers in relation to remand as it would have if the person were brought before it charged with an indictable offence), and
+
+(ii) fix a date for the purposes of section 16 (being a date that falls not later than 21 days after the date of the person's arrest).”,
+
+(*c*) the substitution, in subsection (10), of the following definition for the definition of “Schengen alert”:
+
+“ ‘Schengen alert’ means a document that—
+
+(*a*) indicates that a European arrest warrant has been issued by a judicial authority in a Member State in respect of the person named in the document on such date as is specified in the document,
+
+(*b*) has been transmitted by electronic means by or on behalf of the judicial authority concerned or the issuing state concerned, as may be appropriate, to the Garda Síochána, using equipment designed, or intended for use, for the purposes of the Schengen Information System, and
+
+(*c*) is capable of being viewed by the Garda Síochána by means of equipment designed, or intended for use, for those purposes;”.
+
+### 75. Amendment of section 15 of Act of 2003.
+
+**75.**—Section 15 of the Act of 2003 is amended by—
+
+(*a*) the substitution of the following subsections for subsections (1) and (2):
+
+“(1) Where a person is brought before the High Court under section 13, he or she may consent to his or her being surrendered to the issuing state and, if he or she so consents, the High Court shall—
+
+(*a*) if the European arrest warrant, or a facsimile or true copy thereof, has been endorsed in accordance with section 13 for execution of the warrant,
+
+(*b*) if it is satisfied that—
+
+(i) the person voluntarily consents to his or her being surrendered to the issuing state concerned and is aware of the consequences of his or her so consenting, and
+
+(ii) the person has obtained, or has been afforded the opportunity of obtaining or being provided with professional legal advice before consenting to his or her surrender,
+
+(*c*) if it is not required, under section 21A, 22, 23 or 24 (inserted by *sections 79, 80, 81* and *82* of the *Criminal Justice (Terrorist Offences) Act 2005*), to refuse to surrender the person under this Act, and
+
+(*d*) if the surrender of the person is not prohibited by Part 3 or the Framework Decision (including the recitals thereto),
+
+make an order directing that the person be surrendered to such other person as is duly authorised by the issuing state to receive him or her.
+
+(2) Where a person is brought before the High Court under section 14, he or she may consent to his or her being surrendered to the issuing state and, if he or she so consents, the High Court shall—
+
+(*a*) upon production to the High Court of the European arrest warrant or facsimile or true copies thereof,
+
+(*b*) if it is satisfied that—
+
+(i) the person voluntarily consents to his or her being surrendered to the issuing state concerned and is aware of the consequences of his or her so consenting, and
+
+(ii) the person has obtained, or has been afforded the opportunity of obtaining or being provided with, professional legal advice and representation before consenting to his or her surrender,
+
+(*c*) if it is not required, under section 21A, 22, 23 or 24 (inserted by *sections 79, 80, 81* and *82* of the *Criminal Justice (Terrorist Offences) Act 2005*), to refuse to surrender the person under this Act, and
+
+(*d*) if the surrender of the person is not prohibited by Part 3 or the Framework Decision (including the recitals thereto),
+
+make an order directing that the person be surrendered to such other person as is duly authorised by the issuing state to receive him or her.”,
+
+(*b*) the substitution of the following subsection for subsection (3):
+
+“(3) An order under this section shall take effect upon the expiration of 10 days beginning on the date of the making of the order or such earlier date as the High Court, upon the request of the person to whom the order applies, directs.”,
+
+(*c*) the substitution, in subsection (5), of the following paragraph for paragraph (*a*):
+
+“(*a*) the order takes effect in accordance with subsection (3) (inserted by *section 75(b)* of the *Criminal Justice (Terrorist Offences) Act 2005*), or”,
+
+and
+
+(*d*) the substitution of the following subsection for subsection (7):
+
+“(7) A person (to whom an order for the time being in force under this section applies) who is not surrendered to the issuing state in accordance with subsection (5) shall be released from custody immediately upon the expiration of the 10 days referred to in that subsection unless, upon such expiration, proceedings referred to in subsection (6) are pending.”.
+
+### 76. Date of hearing in relation to European arrest warrant.
+
+**76.**—Section 16 of the Act of 2003 is amended by—
+
+(*a*) the substitution of the following subsection for subsection (1):
+
+“(1) Where a person does not consent to his or her surrender to the issuing state or has withdrawn his or her consent under section 15(9) the High Court may, upon such date as is fixed under section 13 or such later date as it considers appropriate, make an order directing that the person be surrendered to such other person as is duly authorised by the issuing state to receive him or her, provided that—
+
+(*a*) the High Court is satisfied that the person before it is the person in respect of whom the European arrest warrant was issued,
+
+(*b*) the European arrest warrant, or a facsimile or true copy thereof, has been endorsed in accordance with section 13 for execution of the warrant,
+
+(*c*) where appropriate, an undertaking under section 45 or a facsimile or true copy thereof is provided to the court,
+
+(*d*) the High Court is not required, under section 21A, 22, 23 or 24 (inserted by *sections 79, 80, 81* and *82* of the *Criminal Justice (Terrorist Offences) Act 2005*), to refuse to surrender the person under this Act, and
+
+(*e*) the surrender of the person is not prohibited by Part 3 or the Framework Decision (including the recitals thereto).”,
+
+(*b*) the substitution of the following subsection for subsection (2):
+
+“(2) Where a person does not consent to his or her surrender to the issuing state or has withdrawn his or her consent under section 15(9), the High Court may, upon such date as is fixed under section 14 or such later date as it considers appropriate, make an order directing that the person be surrendered to such other person as is duly authorised by the issuing state to receive him or her, provided that—
+
+(*a*) the European arrest warrant and, where appropriate, an undertaking under section 45, or facsimile or true copies thereof are provided to the court,
+
+(*b*) the High Court is satisfied that the person before it is the person in respect of whom the European arrest warrant was issued,
+
+(*c*) the High Court is not required, under section 21A, 22, 23 or 24 (inserted by *sections 79, 80, 81* and *82* of the *Criminal Justice (Terrorist Offences) Act 2005*), to refuse to surrender the person under this Act, and
+
+(*d*) the surrender of the person is not prohibited by Part 3 or the Framework Decision (including the recitals thereto).”,
+
+(*c*) the insertion of the following subsection:
+
+“(2A) Where the High Court does not—
+
+(*a*) make an order under subsection (1) on the date fixed under section 13, or
+
+(*b*) make an order under subsection (2) on the date fixed under section 14,
+
+it may remand the person before it in custody or on bail and, for those purposes, the High Court shall have the same powers in relation to remand as it would have if the person were brought before it charged with an indictable offence.”,
+
+(*d*) the substitution of the following subsection for subsection (3):
+
+“(3) An order under this section shall take effect upon the expiration of 15 days beginning on the date of the making of the order or such earlier date as the High Court, upon the request of the person to whom the order applies, directs.”,
+
+(*e*) the substitution, in subsection (5), of the following paragraph for paragraph (*a*):
+
+“(*a*) the order takes effect in accordance with subsection (3) (inserted by *section 76(d)* of the *Criminal Justice (Terrorist Offences) Act 2005*), or”,
+
+(*f*) the substitution of the following subsection for subsection (7):
+
+“(7) A person (to whom an order for the time being in force under this section applies) who is not surrendered to the issuing state in accordance with subsection (5) shall be released from custody immediately upon the expiration of the 10 days referred to in that subsection unless, upon such expiration, proceedings referred to in subsection (6) are pending.”,
+
+and
+
+(*g*) the substitution—
+
+(i) in subsection (9), of “Subsections (7) and (8) shall not apply if” for “Subsection (8) shall not apply if”,
+
+(ii) in paragraph (*a*)(ii) of that subsection, of “subsection (7) or (8)” for “subsection (8)”, and
+
+(iii) in paragraph (*b*)(ii) of that subsection, of “subsection (7) or (8)” for “subsection (8)”,
+
+and the said subsection (9) as so amended is set out in the Table to this paragraph.
+
+TABLE
+
+<table><tr><td>(9) Subsections (7) and (8) shall not apply if—<br>(<i>a</i>) (i) the person has been sentenced to a term of imprisonment for an offence of which he or she was convicted in the State,<br>(ii) on the date on which he or she would, but for this subsection, be entitled to be released under subsection (7) or (8), all or part of the term of imprisonment remains unexpired, and<br>(iii) the person is required to serve all or part of the remainder of that term of imprisonment, or<br>(<i>b</i>) (i) the person has been charged with or convicted of an offence in the State, and<br>(ii) on the date on which he or she would, but for this paragraph, be entitled to be released from custody under subsection (7) or (8), he or she is required to be in custody by virtue of having been remanded in custody pending his or her being tried, or the imposition of sentence, in respect of that offence.</td></tr></table>
+
+### 77. Amendment of section 18 of Act of 2003.
+
+**77.**—Section 18 of the Act of 2003 is amended by the insertion of the following subsection:
+
+“(2A) Where the High Court decides to postpone a person's surrender under this section, it may remand the person in custody or on bail and, for that purpose, the High Court shall have the same powers in relation to remand as it would have if the person were brought before it charged with an indictable offence.”.
+
+### 78. Amendment of section 20 of Act of 2003.
+
+**78.**—Section 20 of the Act of 2003 is amended—
+
+(*a*) in subsection (1), by the substitution of “issuing judicial authority or the issuing state, as may be appropriate,” for “issuing judicial authority”, and
+
+(*b*) in subsection (2), by the substitution of “issuing judicial authority or the issuing state, as may be appropriate,” for “issuing judicial authority”.
+
+### 79. Refusal of surrender where no decision to prosecute.
+
+**79.**—The Act of 2003 is amended by the insertion of the following section:
+
+“21A.—(1) Where a European arrest warrant is issued in the issuing state in respect of a person who has not been convicted of an offence specified therein, the High Court shall refuse to surrender the person if it is satisfied that a decision has not been made to charge the person with, and try him or her for, that offence in the issuing state.
+
+(2) Where a European arrest warrant is issued in respect of a person who has not been convicted of an offence specified therein, it shall be presumed that a decision has been made to charge the person with, and try him or her for, that offence in the issuing state, unless the contrary is proved.”.
+
+### 80. Rule of specialty.
+
+**80.**—The Act of 2003 is amended by the substitution of the following section for section 22:
+
+“22.—(1) In this section, except where the context otherwise requires, ‘offence’ means, in relation to a person to whom a European arrest warrant applies, an offence (other than an offence specified in the European arrest warrant in respect of which the person's surrender is ordered under this Act) under the law of the issuing state committed before the person's surrender, but shall not include an offence consisting, in whole, of acts or omissions of which the offence specified in the European arrest warrant consists in whole or in part.
+
+(2) Subject to this section, the High Court shall refuse to surrender a person under this Act if it is satisfied that—
+
+(*a*) the law of the issuing state does not provide that a person who is surrendered to it pursuant to a European arrest warrant shall not be proceeded against, sentenced or detained for the purposes of executing a sentence or detention order, or otherwise restricted in his or her personal liberty, in respect of an offence, and
+
+(*b*) the person will be proceeded against, sentenced, or detained for the purposes of executing a sentence or detention order, or otherwise restricted in his or her personal liberty, in respect of an offence.
+
+(3) It shall be presumed that, in relation to a person to whom a European arrest warrant applies, the issuing state does not intend to—
+
+(*a*) proceed against him or her,
+
+(*b*) sentence or detain him or her for a purpose referred to in subsection (2)(*a*), or
+
+(*c*) otherwise restrict him or her in his or her personal liberty,
+
+in respect of an offence, unless the contrary is proved.
+
+(4) The surrender of a person under this Act shall not be refused under subsection (2) if—
+
+(*a*) upon conviction in respect of the offence concerned he or she is not liable to a term of imprisonment or detention, or
+
+(*b*) the High Court is satisfied that, where upon such conviction he or she is liable to a term of imprisonment or detention and such other penalty as does not involve a restriction of his or her personal liberty, the said other penalty only will be imposed if he or she is convicted of the offence.
+
+(5) The surrender of a person under this Act shall not be refused under subsection (2) if it is intended to impose in the issuing state a penalty (other than a penalty consisting of a restriction of the person's liberty) including a financial penalty in respect of an offence of which the person claimed has been convicted, notwithstanding that where such person fails or refuses to pay the penalty concerned (or, in the case of a penalty that is not a financial penalty, fails or refuses to submit to any measure or comply with any requirements of which the penalty consists) he or she may, under the law of the issuing state be detained or otherwise deprived of his or her personal liberty.
+
+(6) The surrender of a person under this Act shall not be refused under subsection (2) if the High Court—
+
+(*a*) is satisfied that—
+
+(i) proceedings will not be brought against the person in respect of an offence,
+
+(ii) a penalty will not be imposed on the person in respect of an offence, and
+
+(iii) the person will not be detained or otherwise restricted in his or her personal liberty for the purposes of an offence,
+
+without the issuing judicial authority first obtaining the consent thereto of the High Court,
+
+(*b*) is satisfied that—
+
+(i) the person consents to being surrendered under section 15,
+
+(ii) at the time of so consenting he or she consented to being so proceeded against, to such a penalty being imposed, or being so detained or restricted in his or her personal liberty, and was aware of the consquences of his or her so consenting, and
+
+(iii) the person obtained or was afforded the opportunity of obtaining, or being provided with, professional legal advice in relation to the matters to which this section relates,
+
+(*c*) is satisfied that—
+
+(i) such proceedings will not be brought, such penalty will not be imposed and the person will not be so detained or otherwise restricted in his or her personal liberty before the expiration of a period of 45 days from the date of the person's final discharge in respect of the offence for which he or she is surrendered, and
+
+(ii) during that period he or she will be free to leave the issuing state,
+
+except where having been so discharged he or she leaves the issuing state and later returns thereto (whether during that period or later), or
+
+(*d*) is satisfied that such proceedings will not be brought, such penalty will not be imposed and the person will not be so detained or restricted in his or her personal liberty unless—
+
+(i) the person voluntarily gives his or her consent to being so proceeded against, such a penalty being imposed, or being so detained or restricted in his or her personal liberty, and is fully aware of the consequences of so doing,
+
+(ii) that consent is given before the competent judicial authority in the issuing state, and
+
+(iii) the person obtains or is afforded the opportunity of obtaining, or being provided with, professional legal advice in the issuing state in relation to the matters to which this section relates before he or she gives that consent.
+
+(7) The High Court may, in relation to a person who has been surrendered to an issuing state under this Act, consent to—
+
+(*a*) proceedings being brought against the person in the issuing state for an offence,
+
+(*b*) the imposition in the issuing state of a penalty, including a penalty consisting of a restriction of the person's liberty, in respect of an offence, or
+
+(*c*) proceedings being brought against, or the detention of, the person in the issuing state for the purpose of executing a sentence or order of detention in respect of an offence,
+
+upon receiving a request in writing from the issuing state in that behalf.
+
+(8) The High Court shall not give its consent under subsection (7) if the offence concerned is an offence for which a person could not by virtue of Part 3 or the Framework Decision (including the recitals thereto) be surrendered under this Act.”.
+
+### 81. Surrender of person by issuing state to other Member State.
+
+**81.**—The Act of 2003 is amended by the substitution of the following section for section 23:
+
+“23.—(1) In this section, except where the context otherwise requires—
+
+‘offence’ means, in relation to a person to whom a European arrest warrant applies, an offence under the law of a Member State (other than the issuing state) committed before the person's surrender to the issuing state under this Act; and
+
+‘Member State’ means a Member State other than the issuing state.
+
+(2) Subject to this section, the High Court shall refuse to surrender a person under this Act if it is satisfied that—
+
+(*a*) the law of the issuing state does not provide that a person who is surrendered to it pursuant to a European arrest warrant shall not be surrendered to a Member State pursuant to a European arrest warrant issued by a judicial authority in that Member State in respect of an offence, and
+
+(*b*) the person will be surrendered to a Member State pursuant to a European arrest warrant issued by a judicial authority in that Member State in respect of an offence.
+
+(3) It shall be presumed that, in relation to a person to whom a European arrest warrant applies, the issuing state does not intend to surrender him or her to a Member State pursuant to a European arrest warrant issued by a judicial authority in that Member State in respect of an offence, unless the contrary is proved.
+
+(4) The surrender of a person under this Act shall not be refused under subsection (2) if the High Court—
+
+(*a*) is satisfied that the issuing judicial authority will not surrender the person to a Member State pursuant to a European arrest warrant issued by a judicial authority in that Member State, without first obtaining the consent thereto of the High Court,
+
+(*b*) is satisfied that—
+
+(i) the person consents to being surrendered under section 15,
+
+(ii) at the time of so consenting he or she consented to being surrendered by the issuing state to a Member State pursuant to a European arrest warrant issued by a judicial authority in that Member State, and was aware of the consquences of his or her so consenting, and
+
+(iii) the person obtained or was afforded the opportunity of obtaining, or being provided with, professional legal advice in relation to the matters to which this section relates,
+
+(*c*) is satisfied that—
+
+(i) the person will not be surrendered by the issuing state to a Member State pursuant to a European arrest warrant issued by a judicial authority in that Member State, before the expiration of a period of 45 days from the date of the person's final discharge in respect of the offence for which he or she is surrendered under this Act, and
+
+(ii) during that period he or she will be free to leave the issuing state,
+
+except where having been so discharged he or she leaves the issuing state and later returns thereto (whether during that period or later), or
+
+(*d*) is satisfied that the person will not be surrendered to a Member State pursuant to a European arrest warrant issued by a judicial authority in that Member State unless—
+
+(i) the person voluntarily gives his or her consent to being so surrendered and is fully aware of the consequences of his or her so doing,
+
+(ii) that consent is given before the competent judicial authority in the issuing state, and
+
+(iii) the person obtains or is afforded the opportunity of obtaining, or being provided with, professional legal advice in the issuing state in relation to the matters to which this section relates before he or she gives that consent.
+
+(5) The High Court may, in relation to a person who has been surrendered to an issuing state under this Act, consent to the person being surrendered by the issuing state to a Member State pursuant to a European arrest warrant issued by a judicial authority in that Member State, upon receiving a request in writing from the issuing state in that behalf.
+
+(6) The High Court shall not give its consent under subsection (5) if the offence concerned is an offence for which a person could not by virtue of Part 3 or the Framework Decision (including the recitals thereto) be surrendered under this Act.”.
+
+### 82. Extradition of person by issuing state to third state.
+
+**82.**—The Act of 2003 is amended by the substitution of the following section for section 24:
+
+“24.—(1) The High Court shall refuse to surrender a person under this Act if it is satisfied that—
+
+(*a*) the law of the issuing state does not provide that a person who is surrendered to it pursuant to a European arrest warrant shall not be extradited to a third country without the consent of the High Court and the Minister first being obtained, and
+
+(*b*) the person will be extradited to a third country without such consent first being obtained.
+
+(2) It shall be presumed that, in relation to a person to whom a European arrest warrant applies, the issuing state does not intend to extradite him or her to a third country, unless the contrary is proved.
+
+(3) The issuing state may request, in writing, the High Court to consent to the extradition to a third country by the issuing state of a person surrendered to the issuing state under this Act.
+
+(4) The High Court shall give its consent to a request under subsection (3) if it is satisfied that—
+
+(*a*) were the person concerned in the State, and
+
+(*b*) were a request for his or her extradition received in the State from the third country concerned,
+
+his or her extradition pursuant to such a request would not be prohibited under the Extradition Acts 1965 to 2001.”.
+
+### 83. Proceedings in the State.
+
+**83.**—The Act of 2003 is amended by the substitution of the following section for section 42:
+
+“42.—A person shall not be surrendered under this Act if—
+
+(*a*) the Director of Public Prosecutions or the Attorney General is considering, but has not yet decided, whether to bring proceedings against the person for an offence, or
+
+(*b*) proceedings have been brought in the State against the person for an offence consisting of an act or omission of which the offence specified in the European arrest warrant issued in respect of him or her consists in whole or in part.”.
+
+## SCHEDULE 1 — F58[SCHEDULE 1 — DIRECTIVE (EU) 2017/541 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL — of 15 March 2017 — on combating terrorism and replacing Council Framework Decision 2002/475/JHA and amending Council Decision 2005/671/JHA
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 83(1) thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national parliaments,
+
+Having regard to the opinion of the European Economic and Social Committee[^2],
+
+Acting in accordance with the ordinary legislative procedure[^3],
+
+Whereas:
+
+(1) The Union is founded on the universal values of human dignity, freedom, equality and solidarity, and respect for human rights and fundamental freedoms. It is based on the principles of democracy and the rule of law, which are common to the Member States.
+
+(2) Acts of terrorism constitute one of the most serious violations of the universal values of human dignity, freedom, equality and solidarity, and enjoyment of human rights and fundamental freedoms on which the Union is founded. They also represent one of the most serious attacks on democracy and the rule of law, principles which are common to the Member States and on which the Union is based.
+
+(3) Council Framework Decision 2002/475/JHA[^4] is the cornerstone of the Member States’ criminal justice response to counter terrorism. A legal framework common to all Member States, and in particular, a harmonised definition of terrorist offences, serves as a benchmark for information exchange and cooperation between the competent national authorities under Council Framework Decision 2006/960/JHA[^5], Council Decisions 2008/615/JHA[^6] and 2005/671/JHA[^7], Regulation (EU) No 603/2013 of the European Parliament and of the Council[^8], and Council Framework Decisions 2002/584/JHA[^9] and 2002/465/JHA[^10].
+
+(4) The terrorist threat has grown and rapidly evolved in recent years. Individuals referred to as “foreign terrorist fighters” travel abroad for the purpose of terrorism. Returning foreign terrorist fighters pose a heightened security threat to all Member States. Foreign terrorist fighters have been linked to recent attacks and plots in several Member States. In addition, the Union and its Member States face increased threats from individuals who are inspired or instructed by terrorist groups abroad but who remain within Europe.
+
+(5) In its Resolution 2178 (2014), the UN Security Council expressed its concern over the growing threat posed by foreign terrorist fighters and required all Member States of the UN to ensure that offences related to this phenomenon are punishable under national law. The Council of Europe has, in this respect, adopted in 2015 the Additional Protocol to the Council of Europe Convention on the Prevention of Terrorism.
+
+(6) Taking account of the evolution of terrorist threats to and legal obligations on the Union and Member States under international law, the definition of terrorist offences, of offences related to a terrorist group and of offences related to terrorist activities should be further approximated in all Member States, so that it covers conduct related to, in particular, foreign terrorist fighters and terrorist financing more comprehensively. These forms of conduct should also be punishable if committed through the internet, including social media.
+
+(7) Furthermore, the cross-border nature of terrorism requires a strong coordinated response and cooperation within and between the Member States, as well as with and among the competent Union agencies and bodies to counter terrorism, including Eurojust and Europol. To that end, efficient use of the available tools and resources for cooperation should be made, such as joint investigation teams and coordination meetings facilitated by Eurojust. The global character of terrorism necessitates an international answer, requiring the Union and its Member States to strengthen cooperation with relevant third countries. A strong coordinated response and cooperation is also necessary with a view to securing and obtaining electronic evidence.
+
+(8) This Directive exhaustively lists a number of serious crimes, such as attacks against a person’s life, as intentional acts that can qualify as terrorist offences when and insofar as committed with a specific terrorist aim, namely to seriously intimidate a population, to unduly compel a government or an international organisation to perform or abstain from performing any act, or to seriously destabilise or destroy the fundamental political, constitutional, economic or social structures of a country or an international organisation. The threat to commit such intentional acts should also be considered to be a terrorist offence when it is established, on the basis of objective circumstances, that such threat was made with any such terrorist aim. By contrast, acts aiming, for example, to compel a government to perform or abstain from performing any act, without however being included in the exhaustive list of serious crimes, are not considered to be terrorist offences in accordance with this Directive.
+
+(9) The offences related to terrorist activities are of a very serious nature as they have the potential to lead to the commission of terrorist offences and enable terrorists and terrorist groups to maintain and further develop their criminal activities, justifying the criminalisation of such conduct.
+
+(10) The offence of public provocation to commit a terrorist offence act comprises, inter alia, the glorification and justification of terrorism or the dissemination of messages or images online and offline, including those related to the victims of terrorism as a way to gather support for terrorist causes or to seriously intimidate the population. Such conduct should be punishable when it causes a danger that terrorist acts may be committed. In each concrete case, when considering whether such a danger is caused, the specific circumstances of the case should be taken into account, such as the author and the addressee of the message, as well as the context in which the act is committed. The significance and the credible nature of the danger should be also considered when applying the provision on public provocation in accordance with national law.
+
+(11) Criminalisation of receiving training for terrorism complements the existing offence of providing training and specifically addresses the threats resulting from those actively preparing for the commission of terrorist offences, including those ultimately acting alone. Receiving training for terrorism includes obtaining knowledge, documentation or practical skills. Self-study, including through the internet or consulting other teaching material, should also be considered to be receiving training for terrorism when resulting from active conduct and done with the intent to commit or contribute to the commission of a terrorist offence. In the context of all of the specific circumstances of the case, this intention can for instance be inferred from the type of materials and the frequency of reference. Thus, downloading a manual to make explosives for the purpose of committing a terrorist offence could be considered to be receiving training for terrorism. By contrast, merely visiting websites or collecting materials for legitimate purposes, such as academic or research purposes, is not considered to be receiving training for terrorism under this Directive.
+
+(12) Considering the seriousness of the threat and the need, in particular, to stem the flow of foreign terrorist fighters, it is necessary to criminalise outbound travelling for the purpose of terrorism, namely not only the commission of terrorist offences and providing or receiving training but also the participation in the activities of a terrorist group. It is not indispensable to criminalise the act of travelling as such. Furthermore, travel to the territory of the Union for the purpose of terrorism presents a growing security threat. Member States may also decide to address terrorist threats arising from travel for the purpose of terrorism to the Member State concerned by criminalising preparatory acts, which may include planning or conspiracy, with a view to committing or contributing to a terrorist offence. Any act of facilitation of such travel should also be criminalised.
+
+(13) Illicit trade in firearms, oil, drugs, cigarettes, counterfeit goods and cultural objects, as well as trafficking in human beings, racketeering and extortion have become lucrative ways for terrorist groups to obtain funding. In this context, the increasing links between organised crime and terrorist groups constitute a growing security threat to the Union and should therefore be taken into account by the authorities of the Member States involved in criminal proceedings.
+
+(14) Directive (EU) 2015/849 of the European Parliament and of the Council[^11] establishes common rules on the prevention of the use of the Union’s financial system for the purposes of money laundering or terrorist financing. In addition to this preventive approach, terrorist financing should be punishable in the Member States. Criminalisation should cover not only the financing of terrorist acts, but also the financing of a terrorist group, as well as other offences related to terrorist activities, such as the recruitment and training, or travel for the purpose of terrorism, with a view to disrupting the support structures facilitating the commission of terrorist offences.
+
+(15) The provision of material support for terrorism through persons engaging in or acting as intermediaries in the supply or movement of services, assets and goods, including trade transactions involving the entry into or exit from the Union, such as the sale, acquisition or exchange of a cultural object of archaeological, artistic, historical or scientific interest illegally removed from an area controlled by a terrorist group at the time of the removal, should be punishable, in the Member States, as aiding and abetting terrorism or as terrorist financing if performed with the knowledge that these operations or the proceeds thereof are intended to be used, in full or in part, for the purpose of terrorism or will benefit terrorist groups. Further measures may be necessary with a view to effectively combating the illicit trade in cultural objects as a source of income for terrorist groups.
+
+(16) The attempt to travel for the purpose of terrorism, to provide training for terrorism and to recruit for terrorism should be punishable.
+
+(17) With regard to the criminal offences provided for in this Directive, the notion of intention must apply to all the elements constituting those offences. The intentional nature of an act or omission may be inferred from objective, factual circumstances.
+
+(18) Penalties and sanctions should be provided for natural and legal persons being liable for such offences, which reflect the seriousness of such offences.
+
+(19) When recruitment and training for terrorism are directed towards a child, Member States should ensure that judges can take this circumstance into account when sentencing offenders, although there is no obligation on judges to increase the sentence. It remains within the discretion of the judge to assess that circumstance together with the other facts of the particular case.
+
+(20) Jurisdictional rules should be established to ensure that the offences laid down in this Directive may be effectively prosecuted. In particular, it appears appropriate to establish jurisdiction for the offences committed by the providers of training for terrorism, whatever their nationality, in view of the possible effects of such conducts on the territory of the Union and of the close material connection between the offences of providing and receiving training for terrorism.
+
+(21) To ensure the success of investigations and the prosecution of terrorist offences, offences related to a terrorist group or offences related to terrorist activities, those responsible for investigating or prosecuting such offences should have the possibility to make use of effective investigative tools such as those which are used in combating organised crime or other serious crimes. The use of such tools, in accordance with national law, should be targeted and take into account the principle of proportionality and the nature and seriousness of the offences under investigation and should respect the right to the protection of personal data. Such tools should, where appropriate, include, for example, the search of any personal property, the interception of communications, covert surveillance including electronic surveillance, the taking and the keeping of audio recordings, in private or public vehicles and places, and of visual images of persons in public vehicles and places, and financial investigations.
+
+(22) An effective means of combating terrorism on the internet is to remove online content constituting a public provocation to commit a terrorist offence at its source. Member States should use their best endeavours to cooperate with third countries in seeking to secure the removal of online content constituting a public provocation to commit a terrorist offence from servers within their territory. However, when removal of such content at its source is not feasible, mechanisms may also be put in place to block access from Union territory to such content. The measures undertaken by Member States in accordance with this Directive in order to remove online content constituting a public provocation to commit a terrorist offence or, where this is not feasible, block access to such content could be based on public action, such as legislative, non-legislative or judicial action. In that context, this Directive is without prejudice to voluntary action taken by the internet industry to prevent the misuse of its services or to any support for such action by Member States, such as detecting and flagging terrorist content. Whichever basis for action or method is chosen, Member States should ensure that it provides an adequate level of legal certainty and predictability for users and service providers and the possibility of judicial redress in accordance with national law. Any such measures must take account of the rights of the end users and comply with existing legal and judicial procedures and the Charter of Fundamental Rights of the European Union (the Charter).
+
+(23) The removal of online content constituting a public provocation to commit a terrorist offence or, where it is not feasible, the blocking of access to such content, in accordance with this Directive, should be without prejudice to the rules laid down in Directive 2000/31/EC of the European Parliament and of the Council[^12]. In particular, no general obligation should be imposed on service providers to monitor the information which they transmit or store, nor to actively seek out facts or circumstances indicating illegal activity. Furthermore, hosting service providers should not be held liable as long as they do not have actual knowledge of illegal activity or information and are not aware of the facts or circumstances from which the illegal activity or information is apparent.
+
+(24) To combat terrorism effectively, efficient exchange of information considered to be relevant by the competent authorities for the prevention, detection, investigation or prosecution of terrorist offences between competent authorities and Union agencies, is crucial. Member States should ensure that information is exchanged in an effective and timely manner in accordance with national law and the existing Union legal framework, such as Decision 2005/671/JHA, Council Decision 2007/533/JHA[^13] and Directive (EU) 2016/681 of the European Parliament and of the Council[^14]. When considering whether to exchange relevant information, national competent authorities should take into account the serious threat posed by terrorist offences.
+
+(25) To strengthen the existing framework on information exchange in combating terrorism, as set out in Decision 2005/671/JHA, Member States should ensure that relevant information gathered by their competent authorities in the framework of criminal proceedings, for example, law enforcement authorities, prosecutors or investigative judges, is made accessible to the respective competent authorities of another Member State to which they consider this information could be relevant. As a minimum, such relevant information should include, as appropriate, the information that is transmitted to Europol or Eurojust in accordance with Decision 2005/671/JHA. This is subject to Union rules on data protection, as laid down in Directive (EU) 2016/680 of the European Parliament and of the Council[^15] and without prejudice to Union rules on cooperation between competent national authorities in the framework of criminal proceedings, such as those laid down in Directive 2014/41/EU of the European Parliament and of the Council[^16] or Framework Decision 2006/960/JHA.
+
+(26) Relevant information gathered by competent authorities of the Member States in the framework of criminal proceedings in connection with terrorist offences should be exchanged. The term “criminal proceedings” is understood to cover all stages of the proceedings, from the moment a person is suspected or accused of having committed a criminal offence until the decision on the final determination of whether that person committed the criminal offence concerned has become definitive.
+
+(27) Member States should adopt measures of protection, support and assistance responding to the specific needs of victims of terrorism, in accordance with Directive 2012/29/EU of the European Parliament and the Council[^17] and as further qualified by this Directive. A victim of terrorism is that defined in Article 2 of Directive 2012/29/EU, namely a natural person who has suffered harm, including physical, mental or emotional harm or economic loss, insofar as that was directly caused by a terrorist offence, or a family member of a person whose death was directly caused by a terrorist offence and who has suffered harm as a result of that person’s death. Family members of surviving victims of terrorism, as defined in that Article, have access to victim support services and protection measures in accordance with that Directive.
+
+(28) The assistance with victims’ compensation claims is without prejudice and in addition to the assistance which victims of terrorism receive from assisting authorities in accordance with Council Directive 2004/80/EC[^18]. This is without prejudice to the national rules on legal representation for claiming compensation, including through legal aid arrangements, and any other relevant national rules on compensation.
+
+(29) Member States should ensure that a comprehensive response to the specific needs of victims of terrorism immediately after a terrorist attack and for as long as necessary is provided within the national emergency-response infrastructure. To that end, Member States may set up a single and updated website with all relevant information and an emergency support centre for victims and their family members providing for psychological first aid and emotional support. Initiatives of Member States in this respect should be supported by making full use of available common assistance mechanisms and resources at Union level. Support services should take into account that specific needs of victims of terrorism may evolve over time. In that regard, the Member States should ensure that support services address in the first place at least the emotional and psychological needs of the most vulnerable victims of terrorism, and inform all victims of terrorism about the availability of further emotional and psychological support including trauma support and counselling.
+
+(30) Member States should ensure that all victims of terrorism have access to information about victims’ rights, available support services and compensation schemes in the Member State where the terrorist offence was committed. Member States concerned should take appropriate action to facilitate cooperation with each other in order to ensure that victims of terrorism who are residents of a Member State other than that where the terrorist offence was committed, have effective access to such information. Moreover the Member States should ensure that victims of terrorism have access to long-term support services in the Member State of their residence, even if the terrorist offence took place in another Member State.
+
+(31) As reflected in the revised EU Strategy for Combating Radicalisation and Recruitment to Terrorism of 2014 and in the Conclusions of the Council of the European Union and of the Member States meeting within the Council on enhancing the criminal justice response to radicalisation leading to terrorism and violent extremism of 2015, prevention of radicalisation and recruitment to terrorism, including radicalisation online, requires a long-term, proactive and comprehensive approach. Such approach should combine measures in the area of criminal justice with policies in the fields of education, social inclusion and integration, as well as the provision of effective deradicalisation or disengagement and exit or rehabilitation programmes, including in the prison and probation context. Member States should share good practices on effective measures and projects in this field, in particular as regards foreign terrorist fighters as well as returnees, where appropriate in cooperation with the Commission and the relevant Union agencies and bodies.
+
+(32) Member States should pursue their efforts to prevent and counter radicalisation leading to terrorism by coordinating, by sharing information and experience on national prevention policies, and by implementing or, as the case may be, updating national prevention policies taking into account their own needs, objectives and capabilities building on their own experiences. The Commission should, where appropriate, provide support to national, regional and local authorities in developing prevention policies.
+
+(33) Member States should, depending on the relevant needs and particular circumstances in each Member State, provide support to professionals, including civil society partners likely to come in contact with persons vulnerable to radicalisation. Such support measures may include, in particular, training and awareness-raising measures aimed at enabling them to identify and address signs of radicalisation. Such measures should, where appropriate, be taken in cooperation with private companies, relevant civil society organisations, local communities and other stake holders.
+
+(34) Since the objectives of this Directive cannot be sufficiently achieved by the Member States but can rather, by reason of the need for Union-wide harmonised rules, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity, as set out in Article 5 of the Treaty on European Union (TEU). In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary in order to achieve those objectives.
+
+(35) This Directive respects the principles recognised by Article 2 TEU, respects fundamental rights and freedoms and observes the principles recognised, in particular, by the Charter, including those set out in Titles II, III, V and VI thereof which encompass, inter alia, the right to liberty and security, freedom of expression and information, freedom of association and freedom of thought, conscience and religion, the general prohibition of discrimination, in particular on grounds of race, colour, ethnic or social origin, genetic features, language, religion or belief, political or any other opinion, the right to respect for private and family life and the right to protection of personal data, the principles of legality and proportionality of criminal offences and penalties, covering also the requirement of precision, clarity and foreseeability in criminal law, the presumption of innocence as well as freedom of movement as set out in Article 21(1) of the Treaty on the Functioning of the European Union (TFEU) and in Directive 2004/38/EC of the European Parliament and of the Council[^19]. This Directive has to be implemented in accordance with those rights and principles taking also into account the European Convention for the Protection of Human Rights and Fundamental Freedoms, the International Covenant on Civil and Political Rights, and other human rights obligations under international law.
+
+(36) This Directive is without prejudice to the Member States’ obligations under Union law with regard to the procedural rights of suspects or accused persons in criminal proceedings.
+
+(37) This Directive should not have the effect of altering the rights, obligations and responsibilities of the Member States under international law, including under international humanitarian law. This Directive does not govern the activities of armed forces during periods of armed conflict, which are governed by international humanitarian law within the meaning of those terms under that law, and, inasmuch as they are governed by other rules of international law, activities of the military forces of a State in the exercise of their official duties.
+
+(38) The provision of humanitarian activities by impartial humanitarian organisations recognised by international law, including international humanitarian law, do not fall within the scope of this Directive, while taking into account the case-law of the Court of Justice of the European Union.
+
+(39) The implementation of criminal law measures adopted under this Directive should be proportional to the nature and circumstances of the offence, with respect to the legitimate aims pursued and to their necessity in a democratic society, and should exclude any form of arbitrariness, racism or discrimination.
+
+(40) Nothing in this Directive should be interpreted as being intended to reduce or restrict the dissemination of information for scientific, academic or reporting purposes. The expression of radical, polemic or controversial views in the public debate on sensitive political questions, falls outside the scope of this Directive and, in particular, of the definition of public provocation to commit terrorist offences.
+
+(41) In accordance with Articles 1 and 2 of Protocol No 21 on the position of the United Kingdom and Ireland in respect of the area of freedom, security and justice, annexed to the TEU and to the TFEU, and without prejudice to Article 4 of that Protocol, those Member States are not taking part in the adoption of this Directive and are not bound by it or subject to its application.
+
+(42) In accordance with Articles 1 and 2 of Protocol No 22 on the position of Denmark annexed to the TEU and to the TFEU, Denmark is not taking part in the adoption of this Directive and is not bound by it or subject to its application.
+
+(43) This Directive should therefore replace Framework Decision 2002/475/JHA with regard to the Member States bound by this Directive and amend Decision 2005/671/JHA,
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+TITLE I
+
+**SUBJECT MATTER AND DEFINITIONS**
+
+*Article 1*
+
+**Subject matter**
+
+This Directive establishes minimum rules concerning the definition of criminal offences and sanctions in the area of terrorist offences, offences related to a terrorist group and offences related to terrorist activities, as well as measures of protection of, and support and assistance to, victims of terrorism.
+
+*Article 2*
+
+**Definitions**
+
+For the purposes of this Directive, the following definitions apply:
+
+(1) “funds” means assets of every kind, whether tangible or intangible, movable or immovable, however acquired, and legal documents or instruments in any form, including electronic or digital, evidencing title to, or interest in, such assets, including, but not limited to, bank credits, travellers cheques, bank cheques, money orders, shares, securities, bonds, drafts, letters of credit,
+
+(2) “legal person” means any entity having legal personality under the applicable law, except for States or public bodies in the exercise of State authority and for public international organisations,
+
+(3) “terrorist group” means a structured group of more than two persons, established for a period of time and acting in concert to commit terrorist offences; “structured group” means a group that is not randomly formed for the immediate commission of an offence and that does not need to have formally defined roles for its members, continuity of its membership or a developed structure.
+
+TITLE II
+
+**TERRORIST OFFENCES AND OFFENCES RELATED TO A TERRORIST GROUP**
+
+*Article 3*
+
+**Terrorist offences**
+
+1\. Member States shall take the necessary measures to ensure that the following intentional acts, as defined as offences under national law, which, given their nature or context, may seriously damage a country or an international organisation, are defined as terrorist offences where committed with one of the aims listed in paragraph 2:
+
+(a) attacks upon a person’s life which may cause death;
+
+(b) attacks upon the physical integrity of a person;
+
+(c) kidnapping or hostage-taking;
+
+(d) causing extensive destruction to a government or public facility, a transport system, an infrastructure facility, including an information system, a fixed platform located on the continental shelf, a public place or private property likely to endanger human life or result in major economic loss;
+
+(e) seizure of aircraft, ships or other means of public or goods transport;
+
+(f) manufacture, possession, acquisition, transport, supply or use of explosives or weapons, including chemical, biological, radiological or nuclear weapons, as well as research into, and development of, chemical, biological, radiological or nuclear weapons;
+
+(g) release of dangerous substances, or causing fires, floods or explosions, the effect of which is to endanger human life;
+
+(h) interfering with or disrupting the supply of water, power or any other fundamental natural resource, the effect of which is to endanger human life;
+
+(i) illegal system interference, as referred to in Article 4 of Directive 2013/40/EU of the European Parliament and of the Council[^20] in cases where Article 9(3) or point (b) or (c) of Article 9(4) of that Directive applies, and illegal data interference, as referred to in Article 5 of that Directive in cases where point (c) of Article 9(4) of that Directive applies;
+
+(j) threatening to commit any of the acts listed in points (a) to (i).
+
+2\. The aims referred to in paragraph 1 are:
+
+(a) seriously intimidating a population;
+
+(b) unduly compelling a government or an international organisation to perform or abstain from performing any act;
+
+(c) seriously destabilising or destroying the fundamental political, constitutional, economic or social structures of a country or an international organisation.
+
+*Article 4*
+
+**Offences relating to a terrorist group**
+
+Member States shall take the necessary measures to ensure that the following acts, when committed intentionally, are punishable as a criminal offence:
+
+(a) directing a terrorist group;
+
+(b) participating in the activities of a terrorist group, including by supplying information or material resources, or by funding its activities in any way, with knowledge of the fact that such participation will contribute to the criminal activities of the terrorist group.
+
+TITLE III
+
+**OFFENCES RELATED TO TERRORIST ACTIVITIES**
+
+*Article 5*
+
+**Public provocation to commit a terrorist offence**
+
+Member States shall take the necessary measures to ensure that the distribution, or otherwise making available by any means, whether online or offline, of a message to the public, with the intent to incite the commission of one of the offences listed in points (a) to (i) of Article 3(1), where such conduct, directly or indirectly, such as by the glorification of terrorist acts, advocates the commission of terrorist offences, thereby causing a danger that one or more such offences may be committed, is punishable as a criminal offence when committed intentionally.
+
+*Article 6*
+
+**Recruitment for terrorism**
+
+Member States shall take the necessary measures to ensure that soliciting another person to commit or contribute to the commission of one of the offences listed in points (a) to (i) of Article 3(1), or in Article 4 is punishable as a criminal offence when committed intentionally.
+
+*Article 7*
+
+**Providing training for terrorism**
+
+Member States shall take the necessary measures to ensure that providing instruction on the making or use of explosives, firearms or other weapons or noxious or hazardous substances, or on other specific methods or techniques, for the purpose of committing, or contributing to the commission of, one of the offences listed in points (a) to (i) of Article 3(1), knowing that the skills provided are intended to be used for this purpose, is punishable as a criminal offence when committed intentionally.
+
+*Article 8*
+
+**Receiving training for terrorism**
+
+Member States shall take the necessary measures to ensure that receiving instruction on the making or use of explosives, firearms or other weapons or noxious or hazardous substances, or on other specific methods or techniques, for the purpose of committing, or contributing to the commission of, one of the offences listed in points (a) to (i) of Article 3(1) is punishable as a criminal offence when committed intentionally.
+
+*Article 9*
+
+**Travelling for the purpose of terrorism**
+
+1\. Each Member State shall take the necessary measures to ensure that travelling to a country other than that Member State for the purpose of committing, or contributing to the commission of, a terrorist offence as referred to in Article 3, for the purpose of the participation in the activities of a terrorist group with knowledge of the fact that such participation will contribute to the criminal activities of such a group as referred to in Article 4, or for the purpose of the providing or receiving of training for terrorism as referred to in Articles 7 and 8 is punishable as a criminal offence when committed intentionally.
+
+2\. Each Member State shall take the necessary measures to ensure that one of the following conducts is punishable as a criminal offence when committed intentionally:
+
+(a) travelling to that Member State for the purpose of committing, or contributing to the commission of, a terrorist offence as referred to in Article 3, for the purpose of the participation in the activities of a terrorist group with knowledge of the fact that such participation will contribute to the criminal activities of such a group as referred to in Article 4, or for the purpose of the providing or receiving of training for terrorism as referred to in Articles 7 and 8; or
+
+(b) preparatory acts undertaken by a person entering that Member State with the intention to commit, or contribute to the commission of, a terrorist offence as referred to in Article 3.
+
+*Article 10*
+
+**Organising or otherwise facilitating travelling for the purpose of terrorism**
+
+Member States shall take the necessary measures to ensure that any act of organisation or facilitation that assists any person in travelling for the purpose of terrorism, as referred to in Article 9(1) and point (a) of Article 9(2), knowing that the assistance thus rendered is for that purpose, is punishable as a criminal offence when committed intentionally.
+
+*Article 11*
+
+**Terrorist financing**
+
+1\. Member States shall take the necessary measures to ensure that providing or collecting funds, by any means, directly or indirectly, with the intention that they be used, or in the knowledge that they are to be used, in full or in part, to commit, or to contribute to the commission of, any of the offences referred to in Articles 3 to 10 is punishable as a criminal offence when committed intentionally.
+
+2\. Where the terrorist financing referred to in paragraph 1 of this Article concerns any of the offences laid down in Articles 3, 4 and 9, it shall not be necessary that the funds be in fact used, in full or in part, to commit, or to contribute to the commission of, any of those offences, nor shall it be required that the offender knows for which specific offence or offences the funds are to be used.
+
+*Article 12*
+
+**Other offences related to terrorist activities**
+
+Member States shall take the necessary measures to ensure that offences related to terrorist activities include the following intentional acts:
+
+(a) aggravated theft with a view to committing one of the offences listed in Article 3;
+
+(b) extortion with a view to committing one of the offences listed in Article 3;
+
+(c) drawing up or using false administrative documents with a view to committing one of the offences listed in points (a) to (i) of Article 3(1), point (b) of Article 4, and Article 9.
+
+TITLE IV
+
+**GENERAL PROVISIONS RELATING TO TERRORIST OFFENCES, OFFENCES RELATED TO A TERRORIST GROUP AND OFFENCES RELATED TO TERRORIST ACTIVITIES**
+
+*Article 13*
+
+**Relationship to terrorist offences**
+
+For an offence referred to in Article 4 or Title III to be punishable, it shall not be necessary that a terrorist offence be actually committed, nor shall it be necessary, insofar as the offences referred to in Articles 5 to 10 and 12 are concerned, to establish a link to another specific offence laid down in this Directive.
+
+*Article 14*
+
+**Aiding and abetting, inciting and attempting**
+
+1\. Member States shall take the necessary measures to ensure that aiding and abetting an offence referred to in Articles 3 to 8, 11 and 12 is punishable.
+
+2\. Member States shall take the necessary measures to ensure that inciting an offence referred to in Articles 3 to 12 is punishable.
+
+3\. Member States shall take the necessary measures to ensure that attempting to commit an offence referred to in Articles 3, 6, 7, Article 9(1), point (a) of Article 9(2), and Articles 11 and 12, with the exception of possession as provided for in point (f) of Article 3(1) and the offence referred to in point (j) of Article 3(1), is punishable.
+
+*Article 15*
+
+**Penalties for natural persons**
+
+1\. Member States shall take the necessary measures to ensure that the offences referred to in Articles 3 to 12 and 14 are punishable by effective, proportionate and dissuasive criminal penalties, which may entail surrender or extradition.
+
+2\. Member States shall take the necessary measures to ensure that the terrorist offences referred to in Article 3 and offences referred to in Article 14, insofar as they relate to terrorist offences, are punishable by custodial sentences heavier than those imposable under national law for such offences in the absence of the special intent required pursuant to Article 3, except where the sentences imposable are already the maximum possible sentences under national law.
+
+3\. Member States shall take the necessary measures to ensure that offences listed in Article 4 are punishable by custodial sentences, with a maximum sentence of not less than 15 years for the offence referred to in point (a) of Article 4, and for the offences listed in point (b) of Article 4 a maximum sentence of not less than 8 years. Where the terrorist offence referred to in point (j) of Article 3(1) is committed by a person directing a terrorist group as referred to in point (a) of Article 4, the maximum sentence shall not be less than 8 years.
+
+4\. Member States shall take the necessary measures to ensure that when a criminal offence referred to in Article 6 or 7 is directed towards a child, this may, in accordance with national law, be taken into account when sentencing.
+
+*Article 16*
+
+**Mitigating circumstances**
+
+Member States may take the necessary measures to ensure that the penalties referred to in Article 15 may be reduced if the offender:
+
+(a) renounces terrorist activity; and
+
+(b) provides the administrative or judicial authorities with information which they would not otherwise have been able to obtain, helping them to:
+
+(i) prevent or mitigate the effects of the offence;
+
+(ii) identify or bring to justice the other offenders;
+
+(iii) find evidence; or
+
+(iv) prevent further offences referred to in Articles 3 to 12 and 14.
+
+*Article 17*
+
+**Liability of legal persons**
+
+1\. Member States shall take the necessary measures to ensure that legal persons can be held liable for any of the offences referred to in Articles 3 to 12 and 14 committed for their benefit by any person, acting either individually or as part of an organ of the legal person, and having a leading position within the legal person, based on one of the following:
+
+(a) a power of representation of the legal person;
+
+(b) an authority to take decisions on behalf of the legal person;
+
+(c) an authority to exercise control within the legal person.
+
+2\. Member States shall also take the necessary measures to ensure that legal persons can be held liable where the lack of supervision or control by a person referred to in paragraph 1 of this Article has made possible the commission of any of the offences referred to in Articles 3 to 12 and 14 for the benefit of that legal person by a person under its authority.
+
+3\. Liability of legal persons under paragraphs 1 and 2 of this Article shall not exclude criminal proceedings against natural persons who are perpetrators, inciters or accessories in any of the offences referred to in Articles 3 to 12 and 14.
+
+*Article 18*
+
+**Sanctions for legal persons**
+
+Member States shall take the necessary measures to ensure that a legal person held liable pursuant to Article 17 is punishable by effective, proportionate and dissuasive sanctions, which shall include criminal or non-criminal fines and may include other sanctions, such as:
+
+(a) exclusion from entitlement to public benefits or aid;
+
+(b) temporary or permanent disqualification from the practice of commercial activities;
+
+(c) placing under judicial supervision;
+
+(d) a judicial winding-up order;
+
+(e) temporary or permanent closure of establishments which have been used for committing the offence.
+
+*Article 19*
+
+**Jurisdiction and prosecution**
+
+1\. Each Member State shall take the necessary measures to establish its jurisdiction over the offences referred to in Articles 3 to 12 and 14 where:
+
+(a) the offence is committed in whole or in part in its territory;
+
+(b) the offence is committed on board a vessel flying its flag or an aircraft registered there;
+
+(c) the offender is one of its nationals or residents;
+
+(d) the offence is committed for the benefit of a legal person established in its territory;
+
+(e) the offence is committed against the institutions or people of the Member State in question or against an institution, body, office or agency of the Union based in that Member State.
+
+Each Member State may extend its jurisdiction if the offence is committed in the territory of another Member State.
+
+2\. Each Member State may extend its jurisdiction over providing training for terrorism as referred to in Article 7, where the offender provides training to its nationals or residents, in cases where paragraph 1 of this Article is not applicable. The Member State shall inform the Commission thereof.
+
+3\. When an offence falls within the jurisdiction of more than one Member State and when any of the Member States concerned can validly prosecute on the basis of the same facts, the Member States concerned shall cooperate in order to decide which of them will prosecute the offenders with the aim, if possible, of centralising proceedings in a single Member State. To this end, the Member States may have recourse to Eurojust in order to facilitate cooperation between their judicial authorities and the coordination of their action.
+
+Account shall be taken of the following factors:
+
+(a) the Member State shall be that in the territory of which the offence was committed;
+
+(b) the Member State shall be that of which the offender is a national or resident;
+
+(c) the Member State shall be the country of origin of the victims;
+
+(d) the Member State shall be that in the territory of which the offender was found.
+
+4\. Each Member State shall take the necessary measures also to establish its jurisdiction over the offences referred to in Articles 3 to 12 and 14 in cases where it refuses to surrender or extradite a person suspected or convicted of such an offence to another Member State or to a third country.
+
+5\. Each Member State shall ensure that its jurisdiction covers cases in which any of the offences referred to in Articles 4 and 14 has been committed in whole or in part within its territory, regardless of where the terrorist group is based or pursues its criminal activities.
+
+6\. This Article shall not exclude the exercise of jurisdiction in criminal matters as laid down by a Member State in accordance with its national law.
+
+*Article 20*
+
+**Investigative tools and confiscation**
+
+1\. Member States shall take the necessary measures to ensure that effective investigative tools, such as those which are used in organised crime or other serious crime cases, are available to persons, units or services responsible for investigating or prosecuting the offences referred to in Articles 3 to 12.
+
+2\. Member States shall take the necessary measures to ensure that their competent authorities freeze or confiscate, as appropriate, in accordance with Directive 2014/42/EU of the European Parliament and of the Council[^21], the proceeds derived from and instrumentalities used or intended to be used in the commission or contribution to the commission of any of the offences referred to in this Directive.
+
+*Article 21*
+
+**Measures against public provocation content online**
+
+1\. Member States shall take the necessary measures to ensure the prompt removal of online content constituting a public provocation to commit a terrorist offence, as referred to in Article 5, that is hosted in their territory. They shall also endeavour to obtain the removal of such content hosted outside their territory.
+
+2\. Member States may, when removal of the content referred to in paragraph 1 at its source is not feasible, take measures to block access to such content towards the internet users within their territory.
+
+3\. Measures of removal and blocking must be set following transparent procedures and provide adequate safeguards, in particular to ensure that those measures are limited to what is necessary and proportionate and that users are informed of the reason for those measures. Safeguards relating to removal or blocking shall also include the possibility of judicial redress.
+
+*Article 22*
+
+**Amendments to Decision 2005/671/JHA**
+
+Decision 2005/671/JHA is amended as follows:
+
+(1) in Article 1, point (a) is replaced by the following:
+
+“(a) 'terrorist offences': the offences referred to in Directive (EU) 2017/541 of the European Parliament and of the Council (*)
+
+--------
+
+(*) Directive (EU) 2017/541 of the European Parliament and of the Council of 15 March 2017 on combating terrorism and replacing Council Framework Decision 2002/475/JHA and amending Council Decision 2005/671/JHA (OJ L 88, 31.3.2017, p. 6).”;
+
+(2) Article 2 is amended as follows:
+
+(a) paragraph 6 is replaced by the following:
+
+“6. Each Member State shall take the necessary measures to ensure that relevant information gathered by its competent authorities in the framework of criminal proceedings in connection with terrorist offences is made accessible as soon as possible to the competent authorities of another Member State where the information could be used in the prevention, detection, investigation or prosecution of terrorist offences as referred to in Directive (EU) 2017/541, in that Member State, either upon request or spontaneously, and in accordance with national law and relevant international legal instruments.”;
+
+(b) the following paragraphs are added:
+
+“7. Paragraph 6 is not applicable where the sharing of information would jeopardise current investigations or the safety of an individual, nor when it would be contrary to essential interests of the security of the Member State concerned.
+
+8\. Member States shall take the necessary measures to ensure that their competent authorities take, upon receiving the information referred to in paragraph 6, timely measures in accordance with national law, as appropriate.”.
+
+*Article 23*
+
+**Fundamental rights and freedoms**
+
+1\. This Directive shall not have the effect of modifying the obligations to respect fundamental rights and fundamental legal principles, as enshrined in Article 6 TEU.
+
+2\. Member States may establish conditions required by, and in accordance with, fundamental principles relating to freedom of the press and other media, governing the rights and responsibilities of, and the procedural guarantees for, the press or other media where such conditions relate to the determination or limitation of liability.
+
+TITLE V
+
+**PROVISIONS ON PROTECTION OF, SUPPORT TO, AND RIGHTS OF VICTIMS OF TERRORISM**
+
+*Article 24*
+
+**Assistance and support to victims of terrorism**
+
+1\. Member States shall ensure that investigations into, or prosecution of, offences covered by this Directive are not dependent on a report or accusation made by a victim of terrorism or other person subjected to the offence, at least if the acts were committed on the territory of the Member State.
+
+2\. Member States shall ensure that support services addressing the specific needs of victims of terrorism are in place in accordance with Directive 2012/29/EU and that they are available for victims of terrorism immediately after a terrorist attack and for as long as necessary. Such services shall be provided in addition to, or as an integrated part of, general victim support services, which may call on existing entities providing specialist support.
+
+3\. The support services shall have the ability to provide assistance and support to victims of terrorism in accordance with their specific needs. The services shall be confidential, free of charge and easily accessible to all victims of terrorism. They shall include in particular:
+
+(a) emotional and psychological support, such as trauma support and counselling;
+
+(b) provision of advice and information on any relevant legal, practical or financial matters, including facilitating the exercise of the right to information of victims of terrorism, as laid down in Article 26;
+
+(c) assistance with claims regarding compensation for victims of terrorism available under the national law of the Member State concerned.
+
+4\. Member States shall ensure that mechanisms or protocols are in place allowing for activation of support services for victims of terrorism within the framework of their national emergency-response infrastructures. Such mechanisms or protocols shall envisage the coordination of relevant authorities, agencies and bodies to be able to provide a comprehensive response to the needs of victims and their family members immediately after a terrorist attack and for as long as necessary, including adequate means facilitating the identification of and communication to victims and their families.
+
+5\. Member States shall ensure that adequate medical treatment is provided to victims of terrorism immediately after a terrorist attack and for as long as necessary. Member States shall retain the right to organise the provision of medical treatment to victims of terrorism in accordance with their national healthcare systems.
+
+6\. Member States shall ensure that victims of terrorism have access to legal aid in accordance with Article 13 of Directive 2012/29/EU, where they have the status of parties to criminal proceedings. Member States shall ensure that the severity and the circumstances of the criminal offence are duly reflected in the conditions and procedural rules under which victims of terrorism have access to legal aid in accordance with national law.
+
+7\. This Directive shall apply in addition, and without prejudice, to measures laid down in Directive 2012/29/EU.
+
+*Article 25*
+
+**Protection of victims of terrorism**
+
+Member States shall ensure that measures are available to protect victims of terrorism and their family members, in accordance with Directive 2012/29/EU. When determining whether and to what extent they should benefit from protection measures in the course of criminal proceedings, particular attention shall be paid to the risk of intimidation and retaliation and to the need to protect the dignity and physical integrity of victims of terrorism, including during questioning and when testifying.
+
+*Article 26*
+
+**Rights of victims of terrorism resident in another Member State**
+
+1\. Member States shall ensure that victims of terrorism who are residents of a Member State other than that where the terrorist offence was committed have access to information regarding their rights, the available support services and compensation schemes in the Member State where the terrorist offence was committed. In this respect, Member States concerned shall take appropriate action to facilitate cooperation between their competent authorities or entities providing specialist support to ensure the effective access of victims of terrorism to such information.
+
+2\. Member States shall ensure that all victims of terrorism have access to the assistance and support services as laid down in points (a) and (b) of Article 24(3) on the territory of the Member State of their residence, even if the terrorist offence was committed in another Member State.
+
+TITLE VI
+
+**FINAL PROVISIONS**
+
+*Article 27*
+
+**Replacement of Framework Decision 2002/475/JHA**
+
+Framework Decision 2002/475/JHA is replaced with regard to the Member States bound by this Directive, without prejudice to the obligations of those Member States with regard to the date for transposition of that Framework Decision into national law.
+
+With regard to the Member States bound by this Directive, references to Framework Decision 2002/475/JHA shall be construed as references to this Directive.
+
+*Article 28*
+
+**Transposition**
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 8 September 2018. They shall immediately inform the Commission thereof.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+2\. Member States shall communicate to the Commission the text of the main measures of national law which they adopt in the field covered by this Directive.
+
+*Article 29*
+
+**Reporting**
+
+1\. The Commission shall, by 8 March 2020, submit a report to the European Parliament and to the Council, assessing the extent to which the Member States have taken the necessary measures to comply with this Directive.
+
+2\. The Commission shall, by 8 September 2021, submit a report to the European Parliament and to the Council, assessing the added value of this Directive with regard to combating terrorism. The report shall also cover the impact of this Directive on fundamental rights and freedoms, including on non-discrimination, on the rule of law, and on the level of protection and assistance provided to victims of terrorism. The Commission shall take into account the information provided by Member States under Decision 2005/671/JHA and any other relevant information regarding the exercise of powers under counter-terrorism laws related to the transposition and implementation of this Directive. On the basis of this evaluation, the Commission shall, if necessary, decide on appropriate follow-up actions.
+
+*Article 30*
+
+**Entry into force**
+
+This Directive shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
+
+*Article 31*
+
+**Addressees**
+
+This Directive is addressed to the Member States in accordance with the Treaties.
+
+Done at Strasbourg, 15 March 2017.
+
+*For the European Parliament* *For the Council*
+
+*The President* *The President*
+
+*A. TAJANI* *I. BORG.*]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F58: Inserted (8.07.2026) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2026* (19/2026), s. 11(a) and sch., commenced as per s. 13(3).
+
+## F59[SCHEDULE 1A — Council Framework Decision 2008/919/JHA of 28 November 2008 amending Framework Decision 2002/475/JHA on Combating Terrorism
+
+F60[...] ]> **Annotations**
+>
+> **Amendments:**
+>
+> F59: Inserted (8.06.2015) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2015* (17/2015), s. 10(a) and sch. 1, commenced as per s. 12(3).
+>
+> F60: Deleted (8.07.2026) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2026* (19/2026), s. 11(b), commenced as per s. 13(3).
+
+## F61[SCHEDULE 1B — Convention on the Prevention of Terrorism
+
+The member States of the Council of Europe and the other Signatories hereto,
+
+Considering that the aim of the Council of Europe is to achieve greater unity between its members;
+
+Recognising the value of reinforcing co-operation with the other Parties to this Convention;
+
+Wishing to take effective measures to prevent terrorism and to counter, in particular, public provocation to commit terrorist offences and recruitment and training for terrorism;
+
+Aware of the grave concern caused by the increase in terrorist offences and the growing terrorist threat;
+
+Aware of the precarious situation faced by those who suffer from terrorism, and in this connection reaffirming their profound solidarity with the victims of terrorism and their families;
+
+Recognising that terrorist offences and the offences set forth in this Convention, by whoever perpetrated, are under no circumstances justifiable by considerations of a political, philosophical, ideological, racial, ethnic, religious or other similar nature, and recalling the obligation of all Parties to prevent such offences and, if not prevented, to prosecute and ensure that they are punishable by penalties which take into account their grave nature;
+
+Recalling the need to strengthen the fight against terrorism and reaffirming that all measures taken to prevent or suppress terrorist offences have to respect the rule of law and democratic values, human rights and fundamental freedoms as well as other provisions of international law, including, where applicable, international humanitarian law;
+
+Recognising that this Convention is not intended to affect established principles relating to freedom of expression and freedom of association;
+
+Recalling that acts of terrorism have the purpose by their nature or context to seriously intimidate a population or unduly compel a government or an international organisation to perform or abstain from performing any act or seriously destabilise or destroy the fundamental political, constitutional, economic or social structures of a country or an international organisation;
+
+Have agreed as follows:
+
+**Article 1 - Terminology**
+
+1 For the purposes of this Convention, ‘terrorist offence’ means any of the offences within the scope of and as defined in one of the treaties listed in the Appendix.
+
+2 On depositing its instrument of ratification, acceptance, approval or accession, a State or the European Community which is not a party to a treaty listed in the Appendix may declare that, in the application of this Convention to the Party concerned, that treaty shall be deemed not to be included in the Appendix. This declaration shall cease to have effect as soon as the treaty enters into force for the Party having made such a declaration, which shall notify the Secretary General of the Council of Europe of this entry into force.
+
+**Article 2 - Purpose**
+
+The purpose of the present Convention is to enhance the efforts of Parties in preventing terrorism and its negative effects on the full enjoyment of human rights, in particular the right to life, both by measures to be taken at national level and through international co-operation, with due regard to the existing applicable multilateral or bilateral treaties or agreements between the Parties.
+
+**Article 3 - National prevention policies**
+
+1 Each Party shall take appropriate measures, particularly in the field of training of law enforcement authorities and other bodies, and in the fields of education, culture, information, media and public awareness raising, with a view to preventing terrorist offences and their negative effects while respecting human rights obligations as set forth in, where applicable to that Party, the Convention for the Protection of Human Rights and Fundamental Freedoms, the International Covenant on Civil and Political Rights, and other obligations under international law.
+
+2 Each Party shall take such measures as may be necessary to improve and develop the co-operation among national authorities with a view to preventing terrorist offences and their negative effects by, inter alia:
+
+a exchanging information;
+
+b improving the physical protection of persons and facilities;
+
+c enhancing training and coordination plans for civil emergencies.
+
+3 Each Party shall promote tolerance by encouraging inter-religious and cross-cultural dialogue involving, where appropriate, non-governmental organisations and other elements of civil society with a view to preventing tensions that might contribute to the commission of terrorist offences.
+
+4 Each Party shall endeavour to promote public awareness regarding the existence, causes and gravity of and the threat posed by terrorist offences and the offences set forth in this Convention and consider encouraging the public to provide factual, specific help to its competent authorities that may contribute to preventing terrorist offences and offences set forth in this Convention.
+
+**Article 4 - International co-operation on prevention**
+
+Parties shall, as appropriate and with due regard to their capabilities, assist and support each other with a view to enhancing their capacity to prevent the commission of terrorist offences, including through exchange of information and best practices, as well as through training and other joint efforts of a preventive character.
+
+**Article 5 - Public provocation to commit a terrorist offence**
+
+1 For the purposes of this Convention, “public provocation to commit a terrorist offence” means the distribution, or otherwise making available, of a message to the public, with the intent to incite the commission of a terrorist offence, where such conduct, whether or not directly advocating terrorist offences, causes a danger that one or more such offences may be committed.
+
+2 Each Party shall adopt such measures as may be necessary to establish public provocation to commit a terrorist offence, as defined in paragraph 1, when committed unlawfully and intentionally, as a criminal offence under its domestic law.
+
+**Article 6 - Recruitment for terrorism**
+
+1 For the purposes of this Convention, “recruitment for terrorism” means to solicit another person to commit or participate in the commission of a terrorist offence, or to join an association or group, for the purpose of contributing to the commission of one or more terrorist offences by the association or the group.
+
+2 Each Party shall adopt such measures as may be necessary to establish recruitment for terrorism, as defined in paragraph 1, when committed unlawfully and intentionally, as a criminal offence under its domestic law.
+
+**Article 7 - Training for terrorism**
+
+1 For the purposes of this Convention, “training for terrorism” means to provide instruction in the making or use of explosives, firearms or other weapons or noxious or hazardous substances, or in other specific methods or techniques, for the purpose of carrying out or contributing to the commission of a terrorist offence, knowing that the skills provided are intended to be used for this purpose.
+
+2 Each Party shall adopt such measures as may be necessary to establish training for terrorism, as defined in paragraph 1, when committed unlawfully and intentionally, as a criminal offence under its domestic law.
+
+**Article 8 - Irrelevance of the commission of a terrorist offence**
+
+For an act to constitute an offence as set forth in Articles 5 to 7 of this Convention, it shall not be necessary that a terrorist offence be actually committed.
+
+**Article 9 - Ancillary offences**
+
+1 Each Party shall adopt such measures as may be necessary to establish as a criminal offence under its domestic law:
+
+a Participating as an accomplice in an offence as set forth in Articles 5 to 7 of this Convention;
+
+b Organising or directing others to commit an offence as set forth in Articles 5 to 7 of this Convention;
+
+c Contributing to the commission of one or more offences as set forth in Articles 5 to 7 of this Convention by a group of persons acting with a common purpose. Such contribution shall be intentional and shall either:
+
+i be made with the aim of furthering the criminal activity or criminal purpose of the group, where such activity or purpose involves the commission of an offence as set forth in Articles 5 to 7 of this Convention; or
+
+ii be made in the knowledge of the intention of the group to commit an offence as set forth in Articles 5 to 7 of this Convention.
+
+2 Each Party shall also adopt such measures as may be necessary to establish as a criminal offence under, and in accordance with, its domestic law the attempt to commit an offence as set forth in Articles 6 and 7 of this Convention.
+
+**Article 10 - Liability of legal entities**
+
+1 Each Party shall adopt such measures as may be necessary, in accordance with its legal principles, to establish the liability of legal entities for participation in the offences set forth in Articles 5 to 7 and 9 of this Convention.
+
+2 Subject to the legal principles of the Party, the liability of legal entities may be criminal, civil or administrative.
+
+3 Such liability shall be without prejudice to the criminal liability of the natural persons who have committed the offences.
+
+**Article 11 - Sanctions and measures**
+
+1 Each Party shall adopt such measures as may be necessary to make the offences set forth in Articles 5 to 7 and 9 of this Convention punishable by effective, proportionate and dissuasive penalties.
+
+2 Previous final convictions pronounced in foreign States for offences set forth in the present Convention may, to the extent permitted by domestic law, be taken into account for the purpose of determining the sentence in accordance with domestic law.
+
+3 Each Party shall ensure that legal entities held liable in accordance with Article 10 are subject to effective, proportionate and dissuasive criminal or non-criminal sanctions, including monetary sanctions.
+
+**Article 12 - Conditions and safeguards**
+
+1 Each Party shall ensure that the establishment, implementation and application of the criminalisation under Articles 5 to 7 and 9 of this Convention are carried out while respecting human rights obligations, in particular the right to freedom of expression, freedom of association and freedom of religion, as set forth in, where applicable to that Party, the Convention for the Protection of Human Rights and Fundamental Freedoms, the International Covenant on Civil and Political Rights, and other obligations under international law.
+
+2 The establishment, implementation and application of the criminalisation under Articles 5 to 7 and 9 of this Convention should furthermore be subject to the principle of proportionality, with respect to the legitimate aims pursued and to their necessity in a democratic society, and should exclude any form of arbitrariness or discriminatory or racist treatment.
+
+**Article 13 - Protection, compensation and support for victims of terrorism**
+
+Each Party shall adopt such measures as may be necessary to protect and support the victims of terrorism that has been committed within its own territory. These measures may include, through the appropriate national schemes and subject to domestic legislation, inter alia, financial assistance and compensation for victims of terrorism and their close family members.
+
+**Article 14 - Jurisdiction**
+
+1 Each Party shall take such measures as may be necessary to establish its jurisdiction over the offences set forth in this Convention:
+
+a when the offence is committed in the territory of that Party;
+
+b when the offence is committed on board a ship flying the flag of that Party, or on board an aircraft registered under the laws of that Party;
+
+c when the offence is committed by a national of that Party.
+
+2 Each Party may also establish its jurisdiction over the offences set forth in this Convention:
+
+a when the offence was directed towards or resulted in the carrying out of an offence referred to in Article 1 of this Convention, in the territory of or against a national of that Party;
+
+b when the offence was directed towards or resulted in the carrying out of an offence referred to in Article 1 of this Convention, against a State or government facility of that Party abroad, including diplomatic or consular premises of that Party;
+
+c when the offence was directed towards or resulted in an offence referred to in Article 1 of this Convention, committed in an attempt to compel that Party to do or abstain from doing any act;
+
+d when the offence is committed by a stateless person who has his or her habitual residence in the territory of that Party;
+
+e when the offence is committed on board an aircraft which is operated by the Government of that Party.
+
+3 Each Party shall take such measures as may be necessary to establish its jurisdiction over the offences set forth in this Convention in the case where the alleged offender is present in its territory and it does not extradite him or her to a Party whose jurisdiction is based on a rule of jurisdiction existing equally in the law of the requested Party.
+
+4 This Convention does not exclude any criminal jurisdiction exercised in accordance with national law.
+
+5 When more than one Party claims jurisdiction over an alleged offence set forth in this Convention, the Parties involved shall, where appropriate, consult with a view to determining the most appropriate jurisdiction for prosecution.
+
+**Article 15 - Duty to investigate**
+
+1 Upon receiving information that a person who has committed or who is alleged to have committed an offence set forth in this Convention may be present in its territory, the Party concerned shall take such measures as may be necessary under its domestic law to investigate the facts contained in the information.
+
+2 Upon being satisfied that the circumstances so warrant, the Party in whose territory the offender or alleged offender is present shall take the appropriate measures under its domestic law so as to ensure that person’s presence for the purpose of prosecution or extradition.
+
+3 Any person in respect of whom the measures referred to in paragraph 2 are being taken shall be entitled to:
+
+a communicate without delay with the nearest appropriate representative of the State of which that person is a national or which is otherwise entitled to protect that person’s rights or, if that person is a stateless person, the State in the territory of which that person habitually resides;
+
+b be visited by a representative of that State;
+
+c be informed of that person’s rights under subparagraphs a. and b.
+
+4 The rights referred to in paragraph 3 shall be exercised in conformity with the laws and regulations of the Party in the territory of which the offender or alleged offender is present, subject to the provision that the said laws and regulations must enable full effect to be given to the purposes for which the rights accorded under paragraph 3 are intended.
+
+5 The provisions of paragraphs 3 and 4 shall be without prejudice to the right of any Party having a claim of jurisdiction in accordance with Article 14, paragraphs 1.c and 2.d to invite the International Committee of the Red Cross to communicate with and visit the alleged offender.
+
+**Article 16 - Non application of the Convention**
+
+This Convention shall not apply where any of the offences established in accordance with Articles 5 to 7 and 9 is committed within a single State, the alleged offender is a national of that State and is present in the territory of that State, and no other State has a basis under Article 14, paragraph 1 or 2 of this Convention, to exercise jurisdiction, it being understood that the provisions of Articles 17 and 20 to 22 of this Convention shall, as appropriate, apply in those cases.
+
+**Article 17 - International co-operation in criminal matters**
+
+1 Parties shall afford one another the greatest measure of assistance in connection with criminal investigations or criminal or extradition proceedings in respect of the offences set forth in Articles 5 to 7 and 9 of this Convention, including assistance in obtaining evidence in their possession necessary for the proceedings.
+
+2 Parties shall carry out their obligations under paragraph 1 in conformity with any treaties or other agreements on mutual legal assistance that may exist between them. In the absence of such treaties or agreements, Parties shall afford one another assistance in accordance with their domestic law.
+
+3 Parties shall co-operate with each other to the fullest extent possible under relevant law, treaties, agreements and arrangements of the requested Party with respect to criminal investigations or proceedings in relation to the offences for which a legal entity may be held liable in accordance with Article 10 of this Convention in the requesting Party.
+
+4 Each Party may give consideration to establishing additional mechanisms to share with other Parties information or evidence needed to establish criminal, civil or administrative liability pursuant to Article 10.
+
+**Article 18 - Extradite or prosecute**
+
+1 The Party in the territory of which the alleged offender is present shall, when it has jurisdiction in accordance with Article 14, if it does not extradite that person, be obliged, without exception whatsoever and whether or not the offence was committed in its territory, to submit the case without undue delay to its competent authorities for the purpose of prosecution, through proceedings in accordance with the laws of that Party. Those authorities shall take their decision in the same manner as in the case of any other offence of a serious nature under the law of that Party.
+
+2 Whenever a Party is permitted under its domestic law to extradite or otherwise surrender one of its nationals only upon the condition that the person will be returned to that Party to serve the sentence imposed as a result of the trial or proceeding for which the extradition or surrender of the person was sought, and this Party and the Party seeking the extradition of the person agree with this option and other terms they may deem appropriate, such a conditional extradition or surrender shall be sufficient to discharge the obligation set forth in paragraph 1.
+
+**Article 19 - Extradition**
+
+1 The offences set forth in Articles 5 to 7 and 9 of this Convention shall be deemed to be included as extraditable offences in any extradition treaty existing between any of the Parties before the entry into force of this Convention. Parties undertake to include such offences as extraditable offences in every extradition treaty to be subsequently concluded between them.
+
+2 When a Party which makes extradition conditional on the existence of a treaty receives a request for extradition from another Party with which it has no extradition treaty, the requested Party may, if it so decides, consider this Convention as a legal basis for extradition in respect of the offences set forth in Articles 5 to 7 and 9 of this Convention. Extradition shall be subject to the other conditions provided by the law of the requested Party.
+
+3 Parties which do not make extradition conditional on the existence of a treaty shall recognise the offences set forth in Articles 5 to 7 and 9 of this Convention as extraditable offences between themselves, subject to the conditions provided by the law of the requested Party.
+
+4 Where necessary, the offences set forth in Articles 5 to 7 and 9 of this Convention shall be treated, for the purposes of extradition between Parties, as if they had been committed not only in the place in which they occurred but also in the territory of the Parties that have established jurisdiction in accordance with Article 14.
+
+5 The provisions of all extradition treaties and agreements concluded between Parties in respect of offences set forth in Articles 5 to 7 and 9 of this Convention shall be deemed to be modified as between Parties to the extent that they are incompatible with this Convention.
+
+**Article 20 - Exclusion of the political exception clause**
+
+1 None of the offences referred to in Articles 5 to 7 and 9 of this Convention, shall be regarded, for the purposes of extradition or mutual legal assistance, as a political offence, an offence connected with a political offence, or as an offence inspired by political motives. Accordingly, a request for extradition or for mutual legal assistance based on such an offence may not be refused on the sole ground that it concerns a political offence or an offence connected with a political offence or an offence inspired by political motives.
+
+2 Without prejudice to the application of Articles 19 to 23 of the Vienna Convention on the Law of Treaties of 23 May 1969 to the other Articles of this Convention, any State or the European Community may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession of the Convention, declare that it reserves the right to not apply paragraph 1 of this Article as far as extradition in respect of an offence set forth in this Convention is concerned. The Party undertakes to apply this reservation on a case-by-case basis, through a duly reasoned decision.
+
+3 Any Party may wholly or partly withdraw a reservation it has made in accordance with paragraph 2 by means of a declaration addressed to the Secretary General of the Council of Europe which shall become effective as from the date of its receipt.
+
+4 A Party which has made a reservation in accordance with paragraph 2 of this Article may not claim the application of paragraph 1 of this Article by any other Party; it may, however, if its reservation is partial or conditional, claim the application of this article in so far as it has itself accepted it.
+
+5 The reservation shall be valid for a period of three years from the day of the entry into force of this Convention in respect of the Party concerned. However, such reservation may be renewed for periods of the same duration.
+
+6 Twelve months before the date of expiry of the reservation, the Secretary General of the Council of Europe shall give notice of that expiry to the Party concerned. No later than three months before expiry, the Party shall notify the Secretary General of the Council of Europe that it is upholding, amending or withdrawing its reservation. Where a Party notifies the Secretary General of the Council of Europe that it is upholding its reservation, it shall provide an explanation of the grounds justifying its continuance. In the absence of notification by the Party concerned, the Secretary General of the Council of Europe shall inform that Party that its reservation is considered to have been extended automatically for a period of six months. Failure by the Party concerned to notify its intention to uphold or modify its reservation before the expiry of that period shall cause the reservation to lapse.
+
+7 Where a Party does not extradite a person in application of this reservation, after receiving an extradition request from another Party, it shall submit the case, without exception whatsoever and without undue delay, to its competent authorities for the purpose of prosecution, unless the requesting Party and the requested Party agree otherwise. The competent authorities, for the purpose of prosecution in the requested Party, shall take their decision in the same manner as in the case of any offence of a grave nature under the law of that Party. The requested Party shall communicate, without undue delay, the final outcome of the proceedings to the requesting Party and to the Secretary General of the Council of Europe, who shall forward it to the Consultation of the Parties provided for in Article 30.
+
+8 The decision to refuse the extradition request on the basis of this reservation shall be forwarded promptly to the requesting Party. If within a reasonable time no judicial decision on the merits has been taken in the requested Party according to paragraph 7, the requesting Party may communicate this fact to the Secretary General of the Council of Europe, who shall submit the matter to the Consultation of the Parties provided for in Article 30. This Consultation shall consider the matter and issue an opinion on the conformity of the refusal with the Convention and shall submit it to the Committee of Ministers for the purpose of issuing a declaration thereon. When performing its functions under this paragraph, the Committee of Ministers shall meet in its composition restricted to the States Parties.
+
+**Article 21 - Discrimination clause**
+
+1 Nothing in this Convention shall be interpreted as imposing an obligation to extradite or to afford mutual legal assistance, if the requested Party has substantial grounds for believing that the request for extradition for offences set forth in Articles 5 to 7 and 9 or for mutual legal assistance with respect to such offences has been made for the purpose of prosecuting or punishing a person on account of that person’s race, religion, nationality, ethnic origin or political opinion or that compliance with the request would cause prejudice to that person’s position for any of these reasons.
+
+2 Nothing in this Convention shall be interpreted as imposing an obligation to extradite if the person who is the subject of the extradition request risks being exposed to torture or to inhuman or degrading treatment or punishment.
+
+3 Nothing in this Convention shall be interpreted either as imposing an obligation to extradite if the person who is the subject of the extradition request risks being exposed to the death penalty or, where the law of the requested Party does not allow for life imprisonment, to life imprisonment without the possibility of parole, unless under applicable extradition treaties the requested Party is under the obligation to extradite if the requesting Party gives such assurance as the requested Party considers sufficient that the death penalty will not be imposed or, where imposed, will not be carried out, or that the person concerned will not be subject to life imprisonment without the possibility of parole.
+
+**Article 22 - Spontaneous information**
+
+1 Without prejudice to their own investigations or proceedings, the competent authorities of a Party may, without prior request, forward to the competent authorities of another Party information obtained within the framework of their own investigations, when they consider that the disclosure of such information might assist the Party receiving the information in initiating or carrying out investigations or proceedings, or might lead to a request by that Party under this Convention.
+
+2 The Party providing the information may, pursuant to its national law, impose conditions on the use of such information by the Party receiving the information.
+
+3 The Party receiving the information shall be bound by those conditions.
+
+4 However, any Party may, at any time, by means of a declaration addressed to the Secretary General of the Council of Europe, declare that it reserves the right not to be bound by the conditions imposed by the Party providing the information under paragraph 2 above, unless it receives prior notice of the nature of the information to be provided and agrees to its transmission.
+
+**Article 23 - Signature and entry into force**
+
+1 This Convention shall be open for signature by the member States of the Council of Europe, the European Community and by non-member States which have participated in its elaboration.
+
+2 This Convention is subject to ratification, acceptance or approval. Instruments of ratification, acceptance or approval shall be deposited with the Secretary General of the Council of Europe.
+
+3 This Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date on which six Signatories, including at least four member States of the Council of Europe, have expressed their consent to be bound by the Convention in accordance with the provisions of paragraph 2.
+
+4 In respect of any Signatory which subsequently expresses its consent to be bound by it, the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of the expression of its consent to be bound by the Convention in accordance with the provisions of paragraph 2.
+
+**Article 24 - Accession to the Convention**
+
+1 After the entry into force of this Convention, the Committee of Ministers of the Council of Europe, after consulting with and obtaining the unanimous consent of the Parties to the Convention, may invite any State which is not a member of the Council of Europe and which has not participated in its elaboration to accede to this convention. The decision shall be taken by the majority provided for in Article 20.d of the Statute of the Council of Europe and by the unanimous vote of the representatives of the Parties entitled to sit on the Committee of Ministers.
+
+2 In respect of any State acceding to the convention under paragraph 1 above, the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of deposit of the instrument of accession with the Secretary General of the Council of Europe.
+
+**Article 25 - Territorial application**
+
+1 Any State or the European Community may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, specify the territory or territories to which this Convention shall apply.
+
+2 Any Party may, at any later date, by a declaration addressed to the Secretary General of the Council of Europe, extend the application of this Convention to any other territory specified in the declaration. In respect of such territory the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of receipt of the declaration by the Secretary General.
+
+3 Any declaration made under the two preceding paragraphs may, in respect of any territory specified in such declaration, be withdrawn by a notification addressed to the Secretary General of the Council of Europe. The withdrawal shall become effective on the first day of the month following the expiration of a period of three months after the date of receipt of such notification by the Secretary General.
+
+**Article 26 - Effects of the Convention**
+
+1 The present Convention supplements applicable multilateral or bilateral treaties or agreements between the Parties, including the provisions of the following Council of Europe treaties:
+
+-European Convention on Extradition, opened for signature, in Paris, on 13 December 1957 (ETS No. 24);
+
+-European Convention on Mutual Assistance in Criminal Matters, opened for signature, in Strasbourg, on 20 April 1959 (ETS No. 30);
+
+-European Convention on the Suppression of Terrorism, opened for signature, in Strasbourg, on 27 January 1977 (ETS No. 90);
+
+-Additional Protocol to the European Convention on Mutual Assistance in Criminal Matters, opened for signature in Strasbourg on 17 March 1978 (ETS No. 99);
+
+-Second Additional Protocol to the European Convention on Mutual Assistance in Criminal Matters, opened for signature in Strasbourg on 8 November 2001 (ETS No. 182);
+
+-Protocol amending the European Convention on the Suppression of Terrorism, opened for signature in Strasbourg on 15 May 2003 (ETS No. 190).
+
+2 If two or more Parties have already concluded an agreement or treaty on the matters dealt with in this Convention or have otherwise established their relations on such matters, or should they in future do so, they shall also be entitled to apply that agreement or treaty or to regulate those relations accordingly. However, where Parties establish their relations in respect of the matters dealt with in the present Convention other than as regulated therein, they shall do so in a manner that is not inconsistent with the Convention’s objectives and principles.
+
+3 Parties which are members of the European Union shall, in their mutual relations, apply Community and European Union rules in so far as there are Community or European Union rules governing the particular subject concerned and applicable to the specific case, without prejudice to the object and purpose of the present Convention and without prejudice to its full application with other Parties.
+
+4 Nothing in this Convention shall affect other rights, obligations and responsibilities of a Party and individuals under international law, including international humanitarian law.
+
+5 The activities of armed forces during an armed conflict, as those terms are understood under international humanitarian law, which are governed by that law, are not governed by this Convention, and the activities undertaken by military forces of a Party in the exercise of their official duties, inasmuch as they are governed by other rules of international law, are not governed by this Convention.
+
+**Article 27 - Amendments to the Convention**
+
+1 Amendments to this Convention may be proposed by any Party, the Committee of Ministers of the Council of Europe or the Consultation of the Parties.
+
+2 Any proposal for amendment shall be communicated by the Secretary General of the Council of Europe to the Parties.
+
+3 Moreover, any amendment proposed by a Party or the Committee of Ministers shall be communicated to the Consultation of the Parties, which shall submit to the Committee of Ministers its opinion on the proposed amendment.
+
+4 The Committee of Ministers shall consider the proposed amendment and any opinion submitted by the Consultation of the Parties and may approve the amendment.
+
+5 The text of any amendment approved by the Committee of Ministers in accordance with paragraph 4 shall be forwarded to the Parties for acceptance.
+
+6 Any amendment approved in accordance with paragraph 4 shall come into force on the thirtieth day after all Parties have informed the Secretary General of their acceptance thereof.
+
+**Article 28 - Revision of the Appendix**
+
+1 In order to update the list of treaties in the Appendix, amendments may be proposed by any Party or by the Committee of Ministers. These proposals for amendment shall only concern universal treaties concluded within the United Nations system dealing specifically with international terrorism and having entered into force. They shall be communicated by the Secretary General of the Council of Europe to the Parties.
+
+2 After having consulted the non-member Parties, the Committee of Ministers may adopt a proposed amendment by the majority provided for in Article 20.d of the Statute of the Council of Europe. The amendment shall enter into force following the expiry of a period of one year after the date on which it has been forwarded to the Parties. During this period, any Party may notify the Secretary General of the Council of Europe of any objection to the entry into force of the amendment in respect of that Party.
+
+3 If one third of the Parties notifies the Secretary General of the Council of Europe of an objection to the entry into force of the amendment, the amendment shall not enter into force.
+
+4 If less than one third of the Parties notifies an objection, the amendment shall enter into force for those Parties which have not notified an objection.
+
+5 Once an amendment has entered into force in accordance with paragraph 2 and a Party has notified an objection to it, this amendment shall come into force in respect of the Party concerned on the first day of the month following the date on which it notifies the Secretary General of the Council of Europe of its acceptance.
+
+**Article 29 - Settlement of disputes**
+
+In the event of a dispute between Parties as to the interpretation or application of this Convention, they shall seek a settlement of the dispute through negotiation or any other peaceful means of their choice, including submission of the dispute to an arbitral tribunal whose decisions shall be binding upon the Parties to the dispute, or to the International Court of Justice, as agreed upon by the Parties concerned.
+
+**Article 30 - Consultation of the Parties**
+
+1 The Parties shall consult periodically with a view to:
+
+a making proposals to facilitate or improve the effective use and implementation of this Convention, including the identification of any problems and the effects of any declaration made under this Convention;
+
+b formulating its opinion on the conformity of a refusal to extradite which is referred to them in accordance with Article 20, paragraph 8;
+
+c making proposals for the amendment of this Convention in accordance with Article 27;
+
+d formulating their opinion on any proposal for the amendment of this Convention which is referred to them in accordance with Article 27, paragraph 3;
+
+e expressing an opinion on any question concerning the application of this Convention and facilitating the exchange of information on significant legal, policy or technological developments.
+
+2 The Consultation of the Parties shall be convened by the Secretary General of the Council of Europe whenever he finds it necessary and in any case when a majority of the Parties or the Committee of Ministers request its convocation.
+
+3 The Parties shall be assisted by the Secretariat of the Council of Europe in carrying out their functions pursuant to this article.
+
+**Article 31 - Denunciation**
+
+1 Any Party may, at any time, denounce this Convention by means of a notification addressed to the Secretary General of the Council of Europe.
+
+2 Such denunciation shall become effective on the first day of the month following the expiration of a period of three months after the date of receipt of the notification by the Secretary General.
+
+**Article 32 - Notification**
+
+The Secretary General of the Council of Europe shall notify the member States of the Council of Europe, the European Community, the non-member States which have participated in the elaboration of this Convention as well as any State which has acceded to, or has been invited to accede to, this Convention of:
+
+a any signature;
+
+b the deposit of any instrument of ratification, acceptance, approval or accession;
+
+c any date of entry into force of this Convention in accordance with Article 23;
+
+d any declaration made under Article 1, paragraph 2, 22, paragraph 4, and 25;
+
+e any other act, notification or communication relating to this Convention.
+
+In witness whereof the undersigned, being duly authorised thereto, have signed this Convention.
+
+Done at Warsaw, this 16 th day of May 2005, in English and in French, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to each member State of the Council of Europe, to the European Community, to the non-member States which have participated in the elaboration of this Convention, and to any State invited to accede to it.
+
+Appendix
+
+1 Convention for the Suppression of Unlawful Seizure of Aircraft, signed at The Hague on 16 December 1970;
+
+2 Convention for the Suppression of Unlawful Acts Against the Safety of Civil Aviation, concluded at Montreal on 23 September 1971;
+
+3 Convention on the Prevention and Punishment of Crimes Against Internationally Protected Persons, Including Diplomatic Agents, adopted in New York on 14 December 1973;
+
+4 International Convention Against the Taking of Hostages, adopted in New York on 17 December 1979;
+
+5 Convention on the Physical Protection of Nuclear Material, adopted in Vienna on 3 March 1980;
+
+6 Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation, done at Montreal on 24 February 1988;
+
+7 Convention for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation, done at Rome on 10 March 1988;
+
+8 Protocol for the Suppression of Unlawful Acts Against the Safety of Fixed Platforms Located on the Continental Shelf, done at Rome on 10 March 1988;
+
+9 International Convention for the Suppression of Terrorist Bombings, adopted in New York on 15 December 1997;
+
+10 International Convention for the Suppression of the Financing of Terrorism, adopted in New York on 9 December 1999;
+
+11 International Convention for the Suppression of Acts of Nuclear Terrorism, adopted in New York on 13 April 2005.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F61: Inserted (8.06.2015) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2015* (17/2015), s. 10(b) and sch. 2, commenced as per s. 12(3).
+
+## SCHEDULE 2Offences for purposes of Definitions of Terrorist Activity and Terrorist-Linked Activity — SCHEDULE 2 — Offences for purposes of Definitions of “Terrorist Activity” and “Terrorist-Linked Activity”
+
+### PART 1
+
+(*Paragraph (a) of definition of “terrorist activity”*)
+
+*Common law offences*
+
+1\. The following common law offences:
+
+(a) murder;
+
+(b) manslaughter;
+
+(c) rape.
+
+*Non-fatal offences against the person*
+
+2\. An offence under any of the following provisions of the Non-Fatal Offences against the Person Act 1997:
+
+(a) section 3 (assault causing harm);
+
+F62[(aa) section 3A (non-fatal strangulation or non-fatal suffocation);]
+
+F63[(ab) section 3B (assault causing harm aggravated by hatred);]
+
+(b) section 4 (assault causing serious harm);
+
+F62[(ba) section 4A (non-fatal strangulation or non-fatal suffocation causing serious harm);]
+
+F64[(bb) section 4B (causing serious harm aggravated by hatred);]
+
+(c) section 6 (syringe and other attacks);
+
+(d) section 12 (poisoning);
+
+(e) section 13 (endangerment);
+
+F65[(ea) section 13A (endangerment aggravated by hatred);]
+
+(f) section 14 (endangering traffic);
+
+(g) section 15 (false imprisonment).
+
+*Offence of torture*
+
+3\. Any offence under section 2 of the Criminal Justice (United Nations Convention Against Torture) Act 2000.
+
+*Sexual offences*
+
+4\. An offence under any of the following provisions of the Criminal Law (Rape) (Amendment) Act 1990:
+
+(a) section 2 (sexual assault);
+
+(b) section 3 (aggravated sexual assault);
+
+(c) section 4 (rape under section 4).
+
+*Criminal damage*
+
+F66[5. Any offence under any of the following provisions of the Criminal Damage Act 1991:
+
+(a) section 2 (damaging property);
+
+(b) section 2A (damaging property aggravated by hatred).]
+
+*Malicious damage*
+
+6\. An offence under any of the following provisions of the Malicious Damage Act 1861:
+
+(a) section 35 (maliciously obstructing railways);
+
+(b) section 36 (obstructing engines or carriages on railways);
+
+(c) section 37 (damaging telegraphs);
+
+(d) section 48 (removing or concealing buoys, etc.).
+
+F67[*Unlawful interference with information systems or data*
+
+6A. An offence under section 3 or 4 of the Criminal Justice (Offences Relating to Information Systems) Act 2017.]
+
+*Offences relating to aircraft and vehicles*
+
+7\. An offence under any of the following provisions:
+
+(a) section 11 of the Air Navigation and Transport Act 1973 (unlawful seizure of aircraft);
+
+(b) section 3 of the Air Navigation and Transport Act 1975 (unlawful acts against the safety of aviation);
+
+(c) section 10 of the Criminal Law (Jurisdiction) Act 1976 (unlawful seizure of vehicles, etc.).
+
+F68[*Offences relating to maritime navigation and fixed platforms located on the continental shelf*
+
+7A. Any offence under section 2 of the Maritime Security Act 2004.]
+
+*Offences relating to explosives*
+
+8\. An offence under any of the following provisions of the Explosive Substances Act 1883:
+
+(a) section 2 (causing explosion likely to endanger life or damage property);
+
+(b) section 3 (making or possessing, etc., explosives with intent to endanger life or property);
+
+(c) section 4(1) (making or possessing explosives in suspicious circumstances).
+
+*Offences relating to firearms and other weapons*
+
+9\. An offence under any of the following provisions:
+
+(a) section 2 of the Firearms Act 1925 (restrictions on possession, use and carriage of firearms);
+
+(b) section 10 of the Firearms Act 1925 (restrictions on manufacture and sale of firearms);
+
+(c) section 15 of the Firearms Act 1925 (possessing firearms or ammunition with intent to endanger life or cause serious injury to property);
+
+(d) section 26 of the Firearms Act 1964 (possessing firearms while taking vehicle without authority);
+
+(e) section 27 of the Firearms Act 1964 (using firearms to resist arrest or aid escape);
+
+(f) section 27A of the Firearms Act 1964 (possessing firearms or ammunition in suspicious circumstances);
+
+(g) section 27B of the Firearms Act 1964 (carrying firearms with criminal intent).
+
+*Offences relating to chemical weapons, nuclear material and other dangerous substances*
+
+10\. An offence under any of the following provisions:
+
+(a) section 3 of the Chemical Weapons Act 1997 (chemical weapons);
+
+(b) section 4 of the Chemical Weapons Act 1997 (possession of listed toxic chemicals and precursors);
+
+(c) section 38 of the Radiological Protection Act 1991 (offences relating to nuclear material);
+
+(d) F69[...]
+
+F70[(e) section 55 of the Communications Regulation (Postal Services) Act 2011 (prohibition on sending certain articles by post);]
+
+F71[(f) section 2 of the Biological Weapons Act 2011 (development, etc. of biological weapons).]
+
+*Offences under this Act*
+
+11\. An offence under any of the following provisions of this Act:
+
+(a) section 9 (offence of hostage-taking);
+
+(b) section 10 (offence of terrorist bombing);
+
+(c) section 11 F72[(offences against internationally protected persons);]
+
+F73[(d) section 13 (offence of financing terrorism).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F62: Inserted (1.11.2023) by *Criminal Justice (Miscellaneous Provisions) Act 2023* (24/2023), s. 70(a)(i), (ii), S.I. No. 525 of 2003.
+>
+> F63, F64, F65: Inserted (31.12.2024) by *Criminal Justice (Hate Offences) Act 2024* (41/2024), s. 14(a)(i), S.I. No. 730 of 2024.
+>
+> F66: Substituted (31.12.2024) by *Criminal Justice (Hate Offences) Act 2024* (41/2024), s. 14(a)(ii), S.I. No. 730 of 2024.
+>
+> F67: Inserted (8.07.2026) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2026* (19/2026), s. 12, commenced as per s. 13(3).
+>
+> F68: Inserted (8.06.2015) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2015* (17/2015), s. 11(a), commenced as per s. 12(3).
+>
+> F69: Deleted (2.08.2011) by *Communications Regulation (Postal Services) Act 2011* (21/2011), s. 5 and sch. 2 item 7(a), commenced on enactment.
+>
+> F70: Substituted (2.08.2011) by *Communications Regulation (Postal Services) Act 2011* (21/2011), s. 5 and sch. 2 item 7(b), commenced on enactment.
+>
+> F71: Inserted (8.06.2015) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2015* (17/2015), s. 11(b), commenced as per s. 12(3).
+>
+> F72: Substituted (8.06.2015) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2015* (17/2015), s. 11(c)(i), commenced as per s. 12(3).
+>
+> F73: Inserted (8.06.2015) by *Criminal Justice (Terrorist Offences) (Amendment) Act 2015* (17/2015), s. 11(c)(ii), commenced as per s. 12(3).
+
+### PART 2
+
+(*Paragraph (a)(i) of definition of “terrorist-linked activity”*)
+
+*Aggravated burglary and robbery*
+
+12\. An offence under any of the following provisions of the Criminal Justice (Theft and Fraud Offences) Act 2001:
+
+(a) section 13 (aggravated burglary);
+
+(b) section 14 (robbery).
+
+*Blackmail, extortion, etc.*
+
+13\. Any offence under section 17 (blackmail, extortion and demanding money with menaces) of the Criminal Justice (Public Order) Act 1994.
+
+### PART 3
+
+(*Paragraph (b)(i) of definition of “terrorist-linked activity”*)
+
+*Forgery Offences*
+
+14\. An offence under any of the following provisions of the Criminal Justice (Theft and Fraud Offences) Act 2001 in so far as that offence relates to an instrument within the meaning of paragraph (*a*), (*e*), (*f*), (*j*), (*k*), (*l*), (*m*), (*n*), (*o*) or (*p*) of the definition of “instrument” in section 24 of that Act:
+
+(a) section 25 (forgery);
+
+(b) section 26 (using a false instrument);
+
+(c) section 27 (copying false instrument);
+
+(d) section 28 (using copy of false instrument);
+
+(e) section 29 (custody or control of certain false instruments, etc.).
+
+## SCHEDULE 3 — International Convention Against the Taking of Hostages
+
+The States Parties to this Convention,
+
+HAVING IN MIND the purposes and principles of the Charter of the United Nations concerning the maintenance of international peace and security and the promotion of friendly relations and co-operation among States,
+
+RECOGNIZING in particular that everyone has the right to life, liberty and security of person, as set out in the Universal Declaration of Human Rights and the International Covenant on Civil and Political Rights,
+
+REAFFIRMING the principle of equal rights and self-determination of peoples as enshrined in the Charter of the United Nations and the Declaration on Principles of International Law concerning Friendly Relations and Co-operation among States in accordance with the Charter of the United Nations, as well as in other relevant resolutions of the General Assembly,
+
+CONSIDERING that the taking of hostages is an offence of grave concern to the international community and that, in accordance with the provisions of this Convention, any person committing an act of hostage taking shall either be prosecuted or extradited,
+
+BEING CONVINCED that it is urgently necessary to develop international co-operation between States in devising and adopting effective measures for the prevention, prosecution and punishment of all acts of taking of hostages as manifestations of international terrorism,
+
+Have agreed as follows:
+
+*Article 1*
+
+1\. Any person who seizes or detains and threatens to kill, to injure or to continue to detain another person (hereinafter referred to as the “hostage”) in order to compel a third party, namely, a State, an international intergovernmental organization, a natural or juridical person, or a group of persons, to do or abstain from doing any act as an explicit or implicit condition for the release of the hostage commits the offence of taking of hostages (“hostage-taking”) within the meaning of this Convention.
+
+2\. Any person who:
+
+(a) Attempts to commit an act of hostage-taking, or
+
+(b) Participates as an accomplice of anyone who commits or attempts to commit an act of hostage-taking
+
+likewise commits an offence for the purposes of this Convention.
+
+*Article 2*
+
+Each State Party shall make the offences set forth in article 1 punishable by appropriate penalties which take into account the grave nature of those offences.
+
+*Article 3*
+
+1\. The State Party in the territory of which the hostage is held by the offender shall take all measures it considers appropriate to ease the situation of the hostage, in particular, to secure his release and, after his release, to facilitate, when relevant, his departure.
+
+2\. If any object which the offender has obtained as a result of the taking of hostages comes into the custody of a State Party, that State Party shall return it as soon as possible to the hostage or the third party referred to in article 1, as the case may be, or to the appropriate authorities thereof.
+
+*Article 4*
+
+States Parties shall co-operate in the prevention of the offences set forth in article 1, particularly by:
+
+(a) Taking all practicable measures to prevent preparations in their respective territories for the commission of those offences within or outside their territories, including measures to prohibit in their territories illegal activities of persons, groups and organizations that encourage, instigate, organize or engage in the perpetration of acts of taking of hostages;
+
+(b) Exchanging information and co-ordinating the taking of administrative and other measures as appropriate to prevent the commission of those offences.
+
+*Article 5*
+
+1\. Each State Party shall take such measures as may be necessary to establish its jurisdiction over any of the offences set forth in article 1 which are committed:
+
+(a) In its territory or on board a ship or aircraft registered in that State;
+
+(b) By any of its nationals or, if that State considers it appropriate, by those stateless persons who have their habitual residence in its territory;
+
+(c) In order to compel that State to do or abstain from doing any act; or
+
+(d) With respect to a hostage who is a national of that State, if that State considers it appropriate.
+
+2\. Each State Party shall likewise take such measures as may be necessary to establish its jurisdiction over the offences set forth in article 1 in cases where the alleged offender is present in its territory and it does not extradite him to any of the States mentioned in paragraph 1 of this article.
+
+3\. This Convention does not exclude any criminal jurisdiction exercised in accordance with internal law.
+
+*Article 6*
+
+1\. Upon being satisfied that the circumstances so warrant, any State Party in the territory of which the alleged offender is present shall, in accordance with its laws, take him into custody or take other measures to ensure his presence for such time as is necessary to enable any criminal or extradition proceedings to be instituted. That State Party shall immediately make a preliminary inquiry into the facts.
+
+2\. The custody or other measures referred to in paragraph 1 of this article shall be notified without delay directly or through the Secretary-General of the United Nations to:
+
+(a) The State where the offence was committed;
+
+(b) The State against which compulsion has been directed or attempted;
+
+(c) The State of which the natural or juridical person against whom compulsion has been directed or attempted is a national;
+
+(d) The State of which the hostage is a national or in the territory of which he has his habitual residence;
+
+(e) The State of which the alleged offender is a national or, if he is a stateless person, in the territory of which he has his habitual residence;
+
+(f) The international intergovernmental organization against which compulsion has been directed or attempted;
+
+(g) All other States concerned.
+
+3\. Any person regarding whom the measures referred to in paragraph 1 of this article are being taken shall be entitled:
+
+(a) To communicate without delay with the nearest appropriate representative of the State of which he is a national or which is otherwise entitled to establish such communication or, if he is a stateless person, the State in the territory of which he has his habitual residence;
+
+(b) To be visited by a representative of that State.
+
+4\. The rights referred to in paragraph 3 of this article shall be exercised in conformity with the laws and regulations of the State in the territory of which the alleged offender is present subject to the proviso, however, that the said laws and regulations must enable full effect to be given to the purposes for which the rights accorded under paragraph 3 of this article are intended.
+
+5\. The provisions of paragraphs 3 and 4 of this article shall be without prejudice to the right of any State Party having a claim to jurisdiction in accordance with paragraph 1(b) of article 5 to invite the International Committee of the Red Cross to communicate with and visit the alleged offender.
+
+6\. The State which makes the preliminary inquiry contemplated in paragraph 1 of this article shall promptly report its findings to the States or organization referred to in paragraph 2 of this article and indicate whether it intends to exercise jurisdiction.
+
+*Article 7*
+
+The State Party where the alleged offender is prosecuted shall in accordance with its laws communicate the final outcome of the proceedings to the Secretary-General of the United Nations, who shall transmit the information to the other States concerned and the international intergovernmental organizations concerned.
+
+*Article 8*
+
+1\. The State Party in the territory of which the alleged offender is found shall, if it does not extradite him, be obliged, without exception whatsoever and whether or not the offence was committed in its territory, to submit the case to its competent authorities for the purpose of prosecution, through proceedings in accordance with the laws of that State. Those authorities shall take their decision in the same manner as in the case of any ordinary offence of a grave nature under the law of that State.
+
+2\. Any person regarding whom proceedings are being carried out in connexion with any of the offences set forth in article 1 shall be guaranteed fair treatment at all stages of the proceedings, including enjoyment of all the rights and guarantees provided by the law of the State in the territory of which he is present.
+
+*Article 9*
+
+1\. A request for the extradition of an alleged offender, pursuant to this Convention, shall not be granted if the requested State Party has substantial grounds for believing:
+
+(a) That the request for extradition for an offence set forth in article 1 has been made for the purpose of prosecuting or punishing a person on account of his race, religion, nationality, ethnic origin or political opinion; or
+
+(b) That the person’s position may be prejudiced:
+
+(i) for any of the reasons mentioned in subparagraph (*a*) of this paragraph, or
+
+(ii) for the reason that communication with him by the appropriate authorities of the State entitled to exercise rights of protection cannot be effected.
+
+2\. With respect to the offences as defined in this Convention, the provisions of all extradition treaties and arrangements applicable between States Parties are modified as between States Parties to the extent that they are incompatible with this Convention.
+
+*Article 10*
+
+1\. The offences set forth in article 1 shall be deemed to be included as extraditable offences in any extradition treaty existing between States Parties. States Parties undertake to include such offences as extraditable offences in every extradition treaty to be concluded between them.
+
+2\. If a State Party which makes extradition conditional on the existence of a treaty receives a request for extradition from another State Party with which it has no extradition treaty, the requested State may at its option consider this Convention as the legal basis for extradition in respect of the offences set forth in article 1. Extradition shall be subject to the other conditions provided by the law of the requested State.
+
+3\. States Parties which do not make extradition conditional on the existence of a treaty shall recognize the offences set forth in article 1 as extraditable offences between themselves subject to the conditions provided by the law of the requested State.
+
+4\. The offences set forth in article 1 shall be treated, for the purpose of extradition between States Parties, as if they had been committed not only in the place in which they occurred but also in the territories of the States required to establish their jurisdiction in accordance with paragraph 1 of article 5.
+
+*Article 11*
+
+1\. States Parties shall afford one another the greatest measure of assistance in connexion with criminal proceedings brought in respect of the offences set forth in article 1, including the supply of all evidence at their disposal necessary for the proceedings.
+
+2\. The provisions of paragraph 1 of this article shall not affect obligations concerning mutual judicial assistance embodied in any other treaty.
+
+*Article 12*
+
+In so far as the Geneva Conventions of 1949 for the protection of war victims[^22] or the Protocols Additional to those Conventions[^23] are applicable to a particular act of hostage-taking, and in so far as States Parties to this Convention are bound under those conventions to prosecute or hand over the hostage-taker, the present Convention shall not apply to an act of hostage-taking committed in the course of armed conflicts as defined in the Geneva Conventions of 1949 and the Protocols thereto, including armed conflicts mentioned in article 1, paragraph 4, of Additional Protocol I of 1977, in which peoples are fighting against colonial domination and alien occupation and against racist régimes in the exercise of their right of self-determination, as enshrined in the Charter of the United Nations and the Declaration on Principles of International Law concerning Friendly Relations and Co-operation among States in accordance with the Charter of the United Nations.
+
+*Article 13*
+
+This Convention shall not apply where the offence is committed within a single State, the hostage and the alleged offender are nationals of that State and the alleged offender is found in the territory of that State.
+
+*Article 14*
+
+Nothing in this Convention shall be construed as justifying the violation of the territorial integrity or political independence of a State in contravention of the Charter of the United Nations.
+
+*Article 15*
+
+The provisions of this Convention shall not affect the application of the Treaties on Asylum, in force at the date of the adoption of this Convention, as between the States which are parties to those Treaties; but a State Party to this Convention may not invoke those Treaties with respect to another State Party to this Convention which is not a party to those treaties.
+
+*Article 16*
+
+1\. Any dispute between two or more States Parties concerning the interpretation or application of this Convention which is not settled by negotiation shall, at the request of one of them, be submitted to arbitration. If within six months from the date of the request for arbitration the parties are unable to agree on the organization of the arbitration, any one of those parties may refer the dispute to the International Court of Justice by request in conformity with the Statute of the Court.
+
+2\. Each State may at the time of signature or ratification of this Convention or accession thereto declare that it does not consider itself bound by paragraph 1 of this article. The other States Parties shall not be bound by paragraph 1 of this article with respect to any State Party which has made such a reservation.
+
+3\. Any State Party which has made a reservation in accordance with paragraph 2 of this article may at any time withdraw that reservation by notification to the Secretary-General of the United Nations.
+
+*Article 17*
+
+1\. This Convention is open for signature by all States until 31 December 1980 at United Nations Headquarters in New York.
+
+2\. This Convention is subject to ratification. The instruments of ratification shall be deposited with the Secretary-General of the United Nations.
+
+3\. This Convention is open for accession by any State. The instruments of accession shall be deposited with the Secretary-General of the United Nations.
+
+*Article 18*
+
+1\. This Convention shall enter into force on the thirtieth day following the date of deposit of the twenty-second instrument of ratification or accession with the Secretary-General of the United Nations.
+
+2\. For each State ratifying or acceding to the Convention after the deposit of the twenty-second instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after deposit by such State of its instrument of ratification or accession.
+
+*Article 19*
+
+1\. Any State Party may denounce this Convention by written notification to the Secretary-General of the United Nations.
+
+2\. Denunciation shall take effect one year following the date on which notification is received by the Secretary-General of the United Nations.
+
+*Article 20*
+
+The original of this Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations, who shall send certified copies thereof to all States.
+
+IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Convention, opened for signature at New York on 18 December 1979.
+
+## SCHEDULE 4 — Convention on the Prevention and Punishment of Crimes Against Internationally Protected Persons, Including Diplomatic Agents
+
+The States Parties to this Convention,
+
+Having in mind the purposes and principles of the Charter of the United Nations concerning the maintenance of international peace and the promotion of friendly relations and co-operation among States,
+
+Considering that crimes against diplomatic agents and other internationally protected persons jeopardizing the safety of these persons create a serious threat to the maintenance of normal international relations which are necessary for co-operation among States,
+
+Believing that the commission of such crimes is a matter of grave concern to the international community,
+
+Convinced that there is an urgent need to adopt appropriate and effective measures for the prevention and punishment of such crimes,
+
+Have agreed as follows:
+
+*Article 1*
+
+For the purposes of this Convention:
+
+1\. “Internationally protected person” means:
+
+(a) a Head of State, including any member of a collegial body performing the functions of a Head of State under the constitution of the State concerned, a Head of Government or a Minister for Foreign Affairs, whenever any such person is in a foreign State, as well as members of his family who accompany him;
+
+(b) any representative or official of a State or any official or other agent of an international organization of an intergovernmental character who, at the time when and in the place where a crime against him, his official premises, his private accommodation or his means of transport is committed, is entitled pursuant to international law to special protection from any attack on his person, freedom or dignity, as well as members of his family forming part of his household;
+
+2\. “Alleged offender” means a person as to whom there is sufficient evidence to determine *prima facie* that he has committed or participated in one or more of the crimes set forth in article 2.
+
+*Article 2*
+
+1\. The intentional commission of:
+
+(a) a murder, kidnapping or other attack upon the person or liberty of an internationally protected person;
+
+(b) a violent attack upon the official premises, the private accommodation or the means of transport of an internationally protected person likely to endanger his person or liberty;
+
+(c) a threat to commit any such attack;
+
+(d) an attempt to commit any such attack; and
+
+(e) an act constituting participation as an accomplice in any such attack;
+
+shall be made by each State Party a crime under its internal law.
+
+2\. Each State Party shall make these crimes punishable by appropriate penalties which take into account their grave nature.
+
+3\. Paragraphs 1 and 2 of this article in no way derogate from the obligations of States Parties under international law to take all appropriate measures to prevent other attacks on the person, freedom or dignity of an internationally protected person.
+
+*Article 3*
+
+1\. Each State Party shall take such measures as may be necessary to establish its jurisdiction over the crimes set forth in article 2 in the following cases:
+
+(a) when the crime is committed in the territory of that State or on board a ship or aircraft registered in that State;
+
+(b) when the alleged offender is a national of that State;
+
+(c) when the crime is committed against an internationally protected person as defined in article 1 who enjoys his status as such by virtue of functions which he exercises on behalf of that State.
+
+2\. Each State Party shall likewise take such measures as may be necessary to establish its jurisdiction over these crimes in cases where the alleged offender is present in its territory and it does not extradite him pursuant to article 8 to any of the States mentioned in paragraph 1 of this article.
+
+3\. This Convention does not exclude any criminal jurisdiction exercised in accordance with internal law.
+
+*Article 4*
+
+States Parties shall co-operate in the prevention of the crimes set forth in article 2, particularly by:
+
+(a) taking all practicable measures to prevent preparations in their respective territories for the commission of those crimes within or outside their territories;
+
+(b) exchanging information and co-ordinating the taking of administrative and other measures as appropriate to prevent the commission of those crimes.
+
+*Article 5*
+
+1\. The State Party in which any of the crimes set forth in article 2 has been committed shall, if it has reason to believe that an alleged offender has fled from its territory, communicate to all other States concerned, directly or through the Secretary-General of the United Nations, all the pertinent facts regarding the crime committed and all available information regarding the identity of the alleged offender.
+
+2\. Whenever any of the crimes set forth in article 2 has been committed against an internationally protected person, any State Party which has information concerning the victim and the circumstances of the crime shall endeavour to transmit it, under the conditions provided for in its internal law, fully and promptly to the State Party on whose behalf he was exercising his functions.
+
+*Article 6*
+
+1\. Upon being satisfied that the circumstances so warrant, the State Party in whose territory the alleged offender is present shall take the appropriate measures under its internal law so as to ensure his presence for the purpose of prosecution or extradition. Such measures shall be notified without delay directly or through the Secretary-General of the United Nations to:
+
+(a) the State where the crime was committed;
+
+(b) the State or States of which the alleged offender is a national or, if he is a stateless person, in whose territory he permanently resides;
+
+(c) the State or States of which the internationally protected person concerned is a national or on whose behalf he was exercising his functions;
+
+(d) all other States concerned; and
+
+(e) the international organization of which the internationally protected person concerned is an official or an agent.
+
+2\. Any person regarding whom the measures referred to in paragraph 1 of this article are being taken shall be entitled:
+
+(a) to communicate without delay with the nearest appropriate representative of the State of which he is a national or which is otherwise entitled to protect his rights or, if he is a stateless person, which he requests and which is willing to protect his rights; and
+
+(b) to be visited by a representative of that State.
+
+*Article 7*
+
+The State Party in whose territory the alleged offender is present shall, if it does not extradite him, submit, without exception whatsoever and without undue delay, the case to its competent authorities for the purpose of prosecution, through proceedings in accordance with the laws of that State.
+
+*Article 8*
+
+1\. To the extent that the crimes set forth in article 2 are not listed as extraditable offences in any extradition treaty existing between States Parties, they shall be deemed to be included as such therein. States Parties undertake to include those crimes as extraditable offences in every future extradition treaty to be concluded between them.
+
+2\. If a State Party which makes extradition conditional on the existence of a treaty receives a request for extradition from another State Party with which it has no extradition treaty, it may, if it decides to extradite, consider this Convention as the legal basis for extradition in respect of those crimes. Extradition shall be subject to the procedural provisions and the other conditions of the law of the requested State.
+
+3\. States Parties which do not make extradition conditional on the existence of a treaty shall recognize those crimes as extraditable offences between themselves subject to the procedural provisions and the other conditions of the law of the requested State.
+
+4\. Each of the crimes shall be treated, for the purpose of extradition between States Parties, as if it had been committed not only in the place in which it occurred but also in the territories of the States required to establish their jurisdiction in accordance with paragraph 1 of article 3.
+
+*Article 9*
+
+Any person regarding whom proceedings are being carried out in connexion with any of the crimes set forth in article 2 shall be guaranteed fair treatment at all stages of the proceedings.
+
+*Article 10*
+
+1\. States Parties shall afford one another the greatest measure of assistance in connexion with criminal proceedings brought in respect of the crimes set forth in article 2, including the supply of all evidence at their disposal necessary for the proceedings.
+
+2\. The provisions of paragraph 1 of this article shall not affect obligations concerning mutual judicial assistance embodied in any other treaty.
+
+*Article 11*
+
+The State Party where an alleged offender is prosecuted shall communicate the final outcome of the proceedings to the Secretary-General of the United Nations, who shall transmit the information to the other States Parties.
+
+*Article 12*
+
+The provisions of this Convention shall not affect the application of the Treaties on Asylum, in force at the date of the adoption of this Convention, as between the States which are parties to those Treaties; but a State Party to this Convention may not invoke those Treaties with respect to another State Party to this Convention which is not a party to those Treaties.
+
+*Article 13*
+
+1\. Any dispute between two or more States Parties concerning the interpretation or application of this Convention which is not settled by negotiation shall, at the request of one of them, be submitted to arbitration. If within six months from the date of the request for arbitration the Parties are unable to agree on the organization of the arbitration, any one of those Parties may refer the dispute to the International Court of Justice by request in conformity with the Statute of the Court.
+
+2\. Each State Party may at the time of signature or ratification of this Convention or accession thereto declare that it does not consider itself bound by paragraph 1 of this article. The other States Parties shall not be bound by paragraph 1 of this article with respect to any State Party which has made such a reservation.
+
+3\. Any State Party which has made a reservation in accordance with paragraph 2 of this article may at any time withdraw that reservation by notification to the Secretary-General of the United Nations.
+
+*Article 14*
+
+This Convention shall be opened for signature by all States, until 31 December 1974 at United Nations Headquarters in New York.
+
+*Article 15*
+
+This Convention is subject to ratification. The instruments of ratification shall be deposited with the Secretary-General of the United Nations.
+
+*Article 16*
+
+This Convention shall remain open for accession by any State. The instruments of accession shall be deposited with the Secretary-General of the United Nations.
+
+*Article 17*
+
+1\. This Convention shall enter into force on the thirtieth day following the date of deposit of the twenty-second instrument of ratification or accession with the Secretary-General of the United Nations.
+
+2\. For each State ratifying or acceding to the Convention after the deposit of the twenty-second instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after deposit by such State of its instrument of ratification or accession.
+
+*Article 18*
+
+1\. Any State Party may denounce this Convention by written notification to the Secretary-General of the United Nations.
+
+2\. Denunciation shall take effect six months following the date on which notification is received by the Secretary-General of the United Nations.
+
+*Article 19*
+
+The Secretary-General of the United Nations shall inform all States, *inter alia*:
+
+(a) of signatures to this Convention, of the deposit of instruments of ratification or accession in accordance with articles 14, 15 and 16 and of notifications made under article 18;
+
+(b) of the date on which this Convention will enter into force in accordance with article 17.
+
+*Article 20*
+
+The original of this Convention, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations, who shall send certified copies thereof to all States.
+
+In witness whereof the undersigned, being duly authorized thereto by their respective Governments, have signed this Convention, opened for signature at New York on 14 December 1973.
+
+## SCHEDULE 5 — International Convention for the Suppression of Terrorist Bombings
+
+The States Parties to this Convention,
+
+*Having in mind* the purposes and principles of the Charter of the United Nations concerning the maintenance of international peace and security and the promotion of good-neighbourliness and friendly relations and cooperation among States,
+
+*Deeply concerned* about the worldwide escalation of acts of terrorism in all its forms and manifestations,
+
+*Recalling* the Declaration on the Occasion of the Fiftieth Anniversary of the United Nations of 24 October 1995,
+
+*Recalling also* the Declaration on Measures to Eliminate International Terrorism, annexed to General Assembly resolution 49/60 of 9 December 1994, in which, *inter alia*, “the States Members of the United Nations solemnly reaffirm their unequivocal condemnation of all acts, methods and practices of terrorism as criminal and unjustifiable, wherever and by whomever committed, including those which jeopardize the friendly relations among States and peoples and threaten the territorial integrity and security of States”,
+
+*Noting* that the Declaration also encouraged States “to review urgently the scope of the existing international legal provisions on the prevention, repression and elimination of terrorism in all its forms and manifestations, with the aim of ensuring that there is a comprehensive legal framework covering all aspects of the matter”,
+
+*Recalling further* General Assembly resolution 51/210 of 17 December 1996 and the Declaration to Supplement the 1994 Declaration on Measures to Eliminate International Terrorism, annexed thereto,
+
+*Noting also* that terrorist attacks by means of explosives or other lethal devices have become increasingly widespread,
+
+*Noting further* that existing multilateral legal provisions do not adequately address these attacks,
+
+*Being convinced* of the urgent need to enhance international cooperation between States in devising and adopting effective and practical measures for the prevention of such acts of terrorism and for the prosecution and punishment of their perpetrators,
+
+*Considering* that the occurrence of such acts is a matter of grave concern to the international community as a whole,
+
+*Noting* that the activities of military forces of States are governed by rules of international law outside the framework of this Convention and that the exclusion of certain actions from the coverage of this Convention does not condone or make lawful otherwise unlawful acts, or preclude prosecution under other laws,
+
+*Have agreed* as follows:
+
+**Article 1**
+
+For the purposes of this Convention:
+
+1\. “State or government facility” includes any permanent or temporary facility or conveyance that is used or occupied by representatives of a State, members of Government, the legislature or the judiciary or by officials or employees of a State or any other public authority or entity or by employees or officials of an intergovernmental organization in connection with their official duties.
+
+2\. “Infrastructure facility” means any publicly or privately owned facility providing or distributing services for the benefit of the public, such as water, sewage, energy, fuel or communications.
+
+3\. “Explosive or other lethal device” means:
+
+(a) An explosive or incendiary weapon or device that is designed, or has the capability, to cause death, serious bodily injury or substantial material damage; or
+
+(b) A weapon or device that is designed, or has the capability, to cause death, serious bodily injury or substantial material damage through the release, dissemination or impact of toxic chemicals, biological agents or toxins or similar substances or radiation or radioactive material.
+
+4\. “Military forces of a State” means the armed forces of a State which are organized, trained and equipped under its internal law for the primary purpose of national defence or security, and persons acting in support of those armed forces who are under their formal command, control and responsibility.
+
+5\. “Place of public use” means those parts of any building, land, street, waterway or other location that are accessible or open to members of the public, whether continuously, periodically or occasionally, and encompasses any commercial, business, cultural, historical, educational, religious, governmental, entertainment, recreational or similar place that is so accessible or open to the public.
+
+6\. “Public transportation system” means all facilities, conveyances and instrumentalities, whether publicly or privately owned, that are used in or for publicly available services for the transportation of persons or cargo.
+
+**Article 2**
+
+1\. Any person commits an offence within the meaning of this Convention if that person unlawfully and intentionally delivers, places, discharges or detonates an explosive or other lethal device in, into or against a place of public use, a State or government facility, a public transportation system or an infrastructure facility:
+
+(a) With the intent to cause death or serious bodily injury; or
+
+(b) With the intent to cause extensive destruction of such a place, facility or system, where such destruction results in or is likely to result in major economic loss.
+
+2\. Any person also commits an offence if that person attempts to commit an offence as set forth in paragraph 1.
+
+3\. Any person also commits an offence if that person:
+
+(a) Participates as an accomplice in an offence as set forth in paragraph 1 or 2; or
+
+(b) Organizes or directs others to commit an offence as set forth in paragraph 1 or 2; or
+
+(c) In any other way contributes to the commission of one or more offences as set forth in paragraph 1 or 2 by a group of persons acting with a common purpose; such contribution shall be intentional and either be made with the aim of furthering the general criminal activity or purpose of the group or be made in the knowledge of the intention of the group to commit the offence or offences concerned.
+
+**Article 3**
+
+This Convention shall not apply where the offence is committed within a single State, the alleged offender and the victims are nationals of that State, the alleged offender is found in the territory of that State and no other State has a basis under article 6, paragraph 1 or article 6, paragraph 2, of this Convention to exercise jurisdiction, except that the provisions of articles 10 to 15 shall, as appropriate, apply in those cases.
+
+**Article 4**
+
+Each State Party shall adopt such measures as may be necessary:
+
+(a) To establish as criminal offences under its domestic law the offences set forth in article 2 of this Convention;
+
+(b) To make those offences punishable by appropriate penalties which take into account the grave nature of those offences.
+
+**Article 5**
+
+Each State Party shall adopt such measures as may be necessary, including, where appropriate, domestic legislation, to ensure that criminal acts within the scope of this Convention, in particular where they are intended or calculated to provoke a state of terror in the general public or in a group of persons or particular persons, are under no circumstances justifiable by considerations of a political, philosophical, ideological, racial, ethnic, religious or other similar nature and are punished by penalties consistent with their grave nature.
+
+**Article 6**
+
+1\. Each State Party shall take such measures as may be necessary to establish its jurisdiction over the offences set forth in article 2 when:
+
+(a) The offence is committed in the territory of that State; or
+
+(b) The offence is committed on board a vessel flying the flag of that State or an aircraft which is registered under the laws of that State at the time the offence is committed; or
+
+(c) The offence is committed by a national of that State.
+
+2\. A State Party may also establish its jurisdiction over any such offence when:
+
+(a) The offence is committed against a national of that State; or
+
+(b) The offence is committed against a State or government facility of that State abroad, including an embassy or other diplomatic or consular premises of that State; or
+
+(c) The offence is committed by a stateless person who has his or her habitual residence in the territory of that State; or
+
+(d) The offence is committed in an attempt to compel that State to do or abstain from doing any act; or
+
+(e) The offence is committed on board an aircraft which is operated by the Government of that State.
+
+3\. Upon ratifying, accepting, approving or acceding to this Convention, each State Party shall notify the Secretary-General of the United Nations of the jurisdiction it has established in accordance with paragraph 2 under its domestic law. Should any change take place, the State Party concerned shall immediately notify the Secretary-General.
+
+4\. Each State Party shall likewise take such measures as may be necessary to establish its jurisdiction over the offences set forth in article 2 in cases where the alleged offender is present in its territory and it does not extradite that person to any of the States Parties which have established their jurisdiction in accordance with paragraph 1 or 2.
+
+5\. This Convention does not exclude the exercise of any criminal jurisdiction established by a State Party in accordance with its domestic law.
+
+**Article 7**
+
+1\. Upon receiving information that a person who has committed or who is alleged to have committed an offence as set forth in article 2 may be present in its territory, the State Party concerned shall take such measures as may be necessary under its domestic law to investigate the facts contained in the information.
+
+2\. Upon being satisfied that the circumstances so warrant, the State Party in whose territory the offender or alleged offender is present shall take the appropriate measures under its domestic law so as to ensure that person's presence for the purpose of prosecution or extradition.
+
+3\. Any person regarding whom the measures referred to in paragraph 2 are being taken shall be entitled to:
+
+(a) Communicate without delay with the nearest appropriate representative of the State of which that person is a national or which is otherwise entitled to protect that person’s rights or, if that person is a stateless person, the State in the territory of which that person habitually resides;
+
+(b) Be visited by a representative of that State;
+
+(c) Be informed of that person's rights under subparagraphs (a) and (b).
+
+4\. The rights referred to in paragraph 3 shall be exercised in conformity with the laws and regulations of the State in the territory of which the offender or alleged offender is present, subject to the provision that the said laws and regulations must enable full effect to be given to the purposes for which the rights accorded under paragraph 3 are intended.
+
+5\. The provisions of paragraphs 3 and 4 shall be without prejudice to the right of any State Party having a claim to jurisdiction in accordance with article 6, subparagraph 1(c) or 2(c), to invite the International Committee of the Red Cross to communicate with and visit the alleged offender.
+
+6\. When a State Party, pursuant to this article, has taken a person into custody, it shall immediately notify, directly or through the Secretary-General of the United Nations, the States Parties which have established jurisdiction in accordance with article 6, paragraphs 1 and 2, and, if it considers it advisable, any other interested States Parties, of the fact that such person is in custody and of the circumstances which warrant that person's detention. The State which makes the investigation contemplated in paragraph 1 shall promptly inform the said States Parties of its findings and shall indicate whether it intends to exercise jurisdiction.
+
+**Article 8**
+
+1\. The State Party in the territory of which the alleged offender is present shall, in cases to which article 6 applies, if it does not extradite that person, be obliged, without exception whatsoever and whether or not the offence was committed in its territory, to submit the case without undue delay to its competent authorities for the purpose of prosecution, through proceedings in accordance with the laws of that State. Those authorities shall take their decision in the same manner as in the case of any other offence of a grave nature under the law of that State.
+
+2\. Whenever a State Party is permitted under its domestic law to extradite or otherwise surrender one of its nationals only upon the condition that the person will be returned to that State to serve the sentence imposed as a result of the trial or proceeding for which the extradition or surrender of the person was sought, and this State and the State seeking the extradition of the person agree with this option and other terms they may deem appropriate, such a conditional extradition or surrender shall be sufficient to discharge the obligation set forth in paragraph 1.
+
+**Article 9**
+
+1\. The offences set forth in article 2 shall be deemed to be included as extraditable offences in any extradition treaty existing between any of the States Parties before the entry into force of this Convention. States Parties undertake to include such offences as extraditable offences in every extradition treaty to be subsequently concluded between them.
+
+2\. When a State Party which makes extradition conditional on the existence of a treaty receives a request for extradition from another State Party with which it has no extradition treaty, the requested State Party may, at its option, consider this Convention as a legal basis for extradition in respect of the offences set forth in article 2. Extradition shall be subject to the other conditions provided by the law of the requested State.
+
+3\. States Parties which do not make extradition conditional on the existence of a treaty shall recognize the offences set forth in article 2 as extraditable offences between themselves, subject to the conditions provided by the law of the requested State.
+
+4\. If necessary, the offences set forth in article 2 shall be treated, for the purposes of extradition between States Parties, as if they had been committed not only in the place in which they occurred but also in the territory of the States that have established jurisdiction in accordance with article 6, paragraphs 1 and 2.
+
+5\. The provisions of all extradition treaties and arrangements between States Parties with regard to offences set forth in article 2 shall be deemed to be modified as between State Parties to the extent that they are incompatible with this Convention.
+
+**Article 10**
+
+1\. States Parties shall afford one another the greatest measure of assistance in connection with investigations or criminal or extradition proceedings brought in respect of the offences set forth in article 2, including assistance in obtaining evidence at their disposal necessary for the proceedings.
+
+2\. States Parties shall carry out their obligations under paragraph 1 in conformity with any treaties or other arrangements on mutual legal assistance that may exist between them. In the absence of such treaties or arrangements, States Parties shall afford one another assistance in accordance with their domestic law.
+
+**Article 11**
+
+None of the offences set forth in article 2 shall be regarded, for the purposes of extradition or mutual legal assistance, as a political offence or as an offence connected with a political offence or as an offence inspired by political motives. Accordingly, a request for extradition or for mutual legal assistance based on such an offence may not be refused on the sole ground that it concerns a political offence or an offence connected with a political offence or an offence inspired by political motives.
+
+**Article 12**
+
+Nothing in this Convention shall be interpreted as imposing an obligation to extradite or to afford mutual legal assistance, if the requested State Party has substantial grounds for believing that the request for extradition for offences set forth in article 2 or for mutual legal assistance with respect to such offences has been made for the purpose of prosecuting or punishing a person on account of that person's race, religion, nationality, ethnic origin or political opinion or that compliance with the request would cause prejudice to that person's position for any of these reasons.
+
+**Article 13**
+
+1\. A person who is being detained or is serving a sentence in the territory of one State Party whose presence in another State Party is requested for purposes of testimony, identification or otherwise providing assistance in obtaining evidence for the investigation or prosecution of offences under this Convention may be transferred if the following conditions are met:
+
+(a) The person freely gives his or her informed consent; and
+
+(b) The competent authorities of both States agree, subject to such conditions as those States may deem appropriate.
+
+2\. For the purposes of this article:
+
+(a) The State to which the person is transferred shall have the authority and obligation to keep the person transferred in custody, unless otherwise requested or authorized by the State from which the person was transferred;
+
+(b) The State to which the person is transferred shall without delay implement its obligation to return the person to the custody of the State from which the person was transferred as agreed beforehand, or as otherwise agreed, by the competent authorities of both States;
+
+(c) The State to which the person is transferred shall not require the State from which the person was transferred to initiate extradition proceedings for the return of the person;
+
+(d) The person transferred shall receive credit for service of the sentence being served in the State from which he was transferred for time spent in the custody of the State to which he was transferred.
+
+3\. Unless the State Party from which a person is to be transferred in accordance with this article so agrees, that person, whatever his or her nationality, shall not be prosecuted or detained or subjected to any other restriction of his or her personal liberty in the territory of the State to which that person is transferred in respect of acts or convictions anterior to his or her departure from the territory of the State from which such person was transferred.
+
+**Article 14**
+
+Any person who is taken into custody or regarding whom any other measures are taken or proceedings are carried out pursuant to this Convention shall be guaranteed fair treatment, including enjoyment of all rights and guarantees in conformity with the law of the State in the territory of which that person is present and applicable provisions of international law, including international law of human rights.
+
+**Article 15**
+
+States Parties shall cooperate in the prevention of the offences set forth in article 2, particularly:
+
+(a) By taking all practicable measures, including, if necessary, adapting their domestic legislation, to prevent and counter preparations in their respective territories for the commission of those offences within or outside their territories, including measures to prohibit in their territories illegal activities of persons, groups and organizations that encourage, instigate, organize, knowingly finance or engage in the perpetration of offences as set forth in article 2;
+
+(b) By exchanging accurate and verified information in accordance with their national law, and coordinating administrative and other measures taken as appropriate to prevent the commission of offences as set forth in article 2;
+
+(c) Where appropriate, through research and development regarding methods of detection of explosives and other harmful substances that can cause death or bodily injury, consultations on the development of standards for marking explosives in order to identify their origin in post-blast investigations, exchange of information on preventive measures, cooperation and transfer of technology, equipment and related materials.
+
+**Article 16**
+
+The State Party where the alleged offender is prosecuted shall, in accordance with its domestic law or applicable procedures, communicate the final outcome of the proceedings to the Secretary-General of the United Nations, who shall transmit the information to the other States Parties.
+
+**Article 17**
+
+The States Parties shall carry out their obligations under this Convention in a manner consistent with the principles of sovereign equality and territorial integrity of States and that of non-intervention in the domestic affairs of other States.
+
+**Article 18**
+
+Nothing in this Convention entitles a State Party to undertake in the territory of another State Party the exercise of jurisdiction and performance of functions which are exclusively reserved for the authorities of that other State Party by its domestic law.
+
+**Article 19**
+
+1\. Nothing in this Convention shall affect other rights, obligations and responsibilities of States and individuals under international law, in particular the purposes and principles of the Charter of the United Nations and international humanitarian law.
+
+2\. The activities of armed forces during an armed conflict, as those terms are understood under international humanitarian law, which are governed by that law, are not governed by this Convention, and the activities undertaken by military forces of a State in the exercise of their official duties, inasmuch as they are governed by other rules of international law, are not governed by this Convention.
+
+**Article 20**
+
+1\. Any dispute between two or more States Parties concerning the interpretation or application of this Convention which cannot be settled through negotiation within a reasonable time shall, at the request of one of them, be submitted to arbitration. If, within six months from the date of the request for arbitration, the parties are unable to agree on the organization of the arbitration, any one of those parties may refer the dispute to the International Court of Justice, by application, in conformity with the Statute of the Court.
+
+2\. Each State may at the time of signature, ratification, acceptance or approval of this Convention or accession thereto declare that it does not consider itself bound by paragraph 1. The other States Parties shall not be bound by paragraph 1 with respect to any State Party which has made such a reservation.
+
+3\. Any State which has made a reservation in accordance with paragraph 2 may at any time withdraw that reservation by notification to the Secretary-General of the United Nations.
+
+**Article 21**
+
+1\. This Convention shall be open for signature by all States from 12 January 1998 until 31 December 1999 at United Nations Headquarters in New York.
+
+2\. This Convention is subject to ratification, acceptance or approval. The instruments of ratification, acceptance or approval shall be deposited with the Secretary-General of the United Nations.
+
+3\. This Convention shall be open to accession by any State. The instruments of accession shall be deposited with the Secretary-General of the United Nations.
+
+**Article 22**
+
+1\. This Convention shall enter into force on the thirtieth day following the date of the deposit of the twenty-second instrument of ratification, acceptance, approval or accession with the Secretary-General of the United Nations.
+
+2\. For each State ratifying, accepting, approving or acceding to the Convention after the deposit of the twenty-second instrument of ratification, acceptance, approval or accession, the Convention shall enter into force on the thirtieth day after deposit by such State of its instrument of ratification, acceptance, approval or accession.
+
+**Article 23**
+
+1\. Any State Party may denounce this Convention by written notification to the Secretary-General of the United Nations.
+
+2\. Denunciation shall take effect one year following the date on which notification is received by the Secretary-General of the United Nations.
+
+**Article 24**
+
+The original of this Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations, who shall send certified copies thereof to all States.
+
+IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Convention, opened for signature at New York on 12 January 1998.
+
+## SCHEDULE 6Offences Against internationally protected persons — SCHEDULE 6 — Offences Against internationally protected persons
+
+### PART 1
+
+(*specified offences referred to in section 11(1)(a)*)
+
+*Common law offences.*
+
+1\. The following common law offences:
+
+(a) murder;
+
+(b) manslaughter;
+
+(c) rape.
+
+*Non-fatal offences against the person.*
+
+2\. An offence under any of the following provisions of the Non-Fatal Offences against the Person Act 1997:
+
+(a) section 2 (assault);
+
+F74[(aa) section 2A (assault aggravated by hatred);]
+
+(b) section 3 (assault causing harm);
+
+F78[(ba) section 3A (non-fatal strangulation or non-fatal suffocation);]
+
+F75[(bb) section 3B (assault causing harm aggravated by hatred);]
+
+(c) section 4 (assault causing serious harm);
+
+F79[(ca) section 4A (non-fatal strangulation or non-fatal suffocation causing serious harm);]
+
+F76[(cb) section 4B (causing serious harm aggravated by hatred);]
+
+(d) section 6 (syringe and other attack);
+
+(e) section 12 (poisoning);
+
+(f) section 13 (endangerment);
+
+F77[(fa) section 13A (endangerment aggravated by hatred);]
+
+(g) section 15 (false imprisonment).
+
+*Sexual offences.*
+
+3\. An offence under any of the following provisions of the Criminal Law (Rape) (Amendment) Act 1990:
+
+(a) section 2 (sexual assault);
+
+(b) section 3 (aggravated sexual assault);
+
+(c) section 4 (rape under section 4).
+
+*Offences relating to explosives.*
+
+4\. An offence under section 2 (causing explosion likely to endanger life or damage property) of the Explosive Substances Act 1883.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F74, F75, F76, F77: Inserted (31.12.2024) by *Criminal Justice (Hate Offences) Act 2024* (41/2024), s. 14(b)(i), S.I. No. 730 of 2024.
+>
+> F78, F79: Inserted (1.11.2023) by *Criminal Justice (Miscellaneous Provisions) Act 2023* (24/2023), s. 70(b)(i), (ii), S.I. No. 525 of 2023.
+
+### PART 2
+
+(*specified offences referred to in section 11(1)(b)*)
+
+*Offences relating to explosives.*
+
+5\. An offence under section 2 (causing explosion likely to endanger life or damage property) of the Explosive Substances Act 1883.
+
+*Criminal damage and other offences.*
+
+6\. An offence under any of the following provisions:
+
+(a) section 2 of the Criminal Damage Act 1991 (damaging property);
+
+F80[(aa) section 2A of the Criminal Damage Act 1991 (damaging property aggravated by hatred);]
+
+(b) section 10 of the Criminal Law (Jurisdiction) Act 1976 (unlawful seizure of vehicles, etc.);
+
+F81[(c) section 55 of the Communications Regulation (Postal Services) Act 2011 (prohibition on sending certain articles by post).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F80: Inserted (31.12.2024) by *Criminal Justice (Hate Offences) Act 2024* (41/2024), s. 14(b)(ii), S.I. No. 730 of 2024.
+>
+> F81: Substituted (2.08.2011) by *Communications Regulation (Postal Services) Act 2011* (21/2011), s. 5 and sch. 2, commenced on enactment.
+
+## SCHEDULE 7 — International Convention for the Suppression of the Financing of Terrorism
+
+**Preamble**
+
+*The States Parties to this Convention,*
+
+*Bearing in mind* the purposes and principles of the Charter of the United Nations concerning the maintenance of international peace and security and the promotion of good-neighbourliness and friendly relations and cooperation among States,
+
+*Deeply concerned* about the worldwide escalation of acts of terrorism in all its forms and manifestations,
+
+*Recalling* the Declaration on the Occasion of the Fiftieth Anniversary of the United Nations, contained in General Assembly resolution 50/6 of 24 October 1995,
+
+*Recalling also* all the relevant General Assembly resolutions on the matter, including resolution 49/60 of 9 December 1994 and its annex thereto on the Declaration on Measures to Eliminate International Terrorism, in which the States Members of the United Nations solemnly reaffirmed their unequivocal condemnation of all acts, methods and practices of terrorism as criminal and unjustifiable, wherever and by whomever committed, including those which jeopardize the friendly relations among States and peoples and threaten the territorial integrity and security of States,
+
+*Noting* that the Declaration on Measures to Eliminate International Terrorism also encouraged States to review urgently the scope of the existing international legal provisions on the prevention, repression and elimination of terrorism in all its forms and manifestations, with the aim of ensuring that there is a comprehensive legal framework covering all aspects of the matter,
+
+*Recalling* General Assembly resolution 51/210 of 17 December 1996, paragraph 3, subparagraph (f), in which the Assembly called upon all States to take steps to prevent and counteract, through appropriate domestic measures, the financing of terrorists and terrorist organizations, whether such financing is direct or indirect through organizations which also have or claim to have charitable, social or cultural goals or which are also engaged in unlawful activities such as illicit arms trafficking, drug dealing and racketeering, including the exploitation of persons for purposes of funding terrorist activities, and in particular to consider, where appropriate, adopting regulatory measures to prevent and counteract movements of funds suspected to be intended for terrorist purposes without impeding in any way the freedom of legitimate capital movements and to intensify the exchange of information concerning international movements of such funds,
+
+*Recalling also* General Assembly resolution 52/165 of 15 December 1997, in which the Assembly called upon States to consider, in particular, the implementation of the measures set out in paragraphs 3(a) to (f) of its resolution 51/210 of 17 December 1996,
+
+*Recalling further* General Assembly resolution 53/108 of 8 December 1998, in which the Assembly decided that the Ad Hoc Committee established by General Assembly resolution 51/210 of 17 December 1996 should elaborate a draft international convention for the suppression of terrorist financing to supplement related existing international instruments,
+
+*Considering* that the financing of terrorism is a matter of grave concern to the international community as a whole,
+
+*Noting* that the number and seriousness of acts of international terrorism depend on the financing that terrorists may obtain,
+
+*Noting also* that existing multilateral legal instruments do not expressly address such financing,
+
+*Being convinced* of the urgent need to enhance international cooperation among States in devising and adopting effective measures for the prevention of the financing of terrorism, as well as for its suppression through the prosecution and punishment of its perpetrators,
+
+*Have agreed as follows:*
+
+**Article 1**
+
+For the purposes of this Convention:
+
+1\. “Funds” means assets of every kind, whether tangible or intangible, movable or immovable, however acquired, and legal documents or instruments in any form, including electronic or digital, evidencing title to, or interest in, such assets, including, but not limited to, bank credits, travellers cheques, bank cheques, money orders, shares, securities, bonds, drafts, and letters of credit.
+
+2\. “State or government facility” means any permanent or temporary facility or conveyance that is used or occupied by representatives of a State, members of Government, the legislature or the judiciary or by officials or employees of a State or any other public authority or entity or by employees or officials of an intergovernmental organization in connection with their official duties.
+
+3\. “Proceeds” means any funds derived from or obtained, directly or indirectly, through the commission of an offence set forth in article 2.
+
+**Article 2**
+
+1\. Any person commits an offence within the meaning of this Convention if that person by any means, directly or indirectly, unlawfully and wilfully, provides or collects funds with the intention that they should be used or in the knowledge that they are to be used, in full or in part, in order to carry out:
+
+(a) An act which constitutes an offence within the scope of and as defined in one of the treaties listed in the annex; or
+
+(b) Any other act intended to cause death or serious bodily injury to a civilian, or to any other person not taking an active part in the hostilities in a situation of armed conflict, when the purpose of such act, by its nature or context, is to intimidate a population, or to compel a Government or an international organization to do or to abstain from doing any act.
+
+2\. (a) On depositing its instrument of ratification, acceptance, approval or accession, a State Party which is not a party to a treaty listed in the annex may declare that, in the application of this Convention to the State Party, the treaty shall be deemed not to be included in the annex referred to in paragraph 1, subparagraph (a). The declaration shall cease to have effect as soon as the treaty enters into force for the State Party, which shall notify the depositary of this fact;
+
+(b) When a State Party ceases to be a party to a treaty listed in the annex, it may make a declaration as provided for in this article, with respect to that treaty.
+
+3\. For an act to constitute an offence set forth in paragraph 1, it shall not be necessary that the funds were actually used to carry out an offence referred to in paragraph 1, subparagraph (a) or (b).
+
+4\. Any person also commits an offence if that person attempts to commit an offence as set forth in paragraph 1 of this article.
+
+5\. Any person also commits an offence if that person:
+
+(a) Participates as an accomplice in an offence as set forth in paragraph 1 or 4 of this article;
+
+(b) Organizes or directs others to commit an offence as set forth in paragraph 1 or 4 of this article;
+
+(c) Contributes to the commission of one or more offences as set forth in paragraphs 1 or 4 of this article by a group of persons acting with a common purpose. Such contribution shall be intentional and shall either:
+
+(i) Be made with the aim of furthering the criminal activity or criminal purpose of the group, where such activity or purpose involves the commission of an offence as set forth in paragraph 1 of this article; or
+
+(ii) Be made in the knowledge of the intention of the group to commit an offence as set forth in paragraph 1 of this article.
+
+**Article 3**
+
+This Convention shall not apply where the offence is committed within a single State, the alleged offender is a national of that State and is present in the territory of that State and no other State has a basis under article 7, paragraph 1, or article 7, paragraph 2, to exercise jurisdiction, except that the provisions of articles 12 to 18 shall, as appropriate, apply in those cases.
+
+**Article 4**
+
+Each State Party shall adopt such measures as may be necessary:
+
+(a) To establish as criminal offences under its domestic law the offences set forth in article 2;
+
+(b) To make those offences punishable by appropriate penalties which take into account the grave nature of the offences.
+
+**Article 5**
+
+1\. Each State Party, in accordance with its domestic legal principles, shall take the necessary measures to enable a legal entity located in its territory or organized under its laws to be held liable when a person responsible for the management or control of that legal entity has, in that capacity, committed an offence set forth in article 2. Such liability may be criminal, civil or administrative.
+
+2\. Such liability is incurred without prejudice to the criminal liability of individuals who have committed the offences.
+
+3\. Each State Party shall ensure, in particular, that legal entities liable in accordance with paragraph 1 above are subject to effective, proportionate and dissuasive criminal, civil or administrative sanctions. Such sanctions may include monetary sanctions.
+
+**Article 6**
+
+Each State Party shall adopt such measures as may be necessary, including, where appropriate, domestic legislation, to ensure that criminal acts within the scope of this Convention are under no circumstances justifiable by considerations of a political, philosophical, ideological, racial, ethnic, religious or other similar nature.
+
+**Article 7**
+
+1\. Each State Party shall take such measures as may be necessary to establish its jurisdiction over the offences set forth in article 2 when:
+
+(a) The offence is committed in the territory of that State;
+
+(b) The offence is committed on board a vessel flying the flag of that State or an aircraft registered under the laws of that State at the time the offence is committed;
+
+(c) The offence is committed by a national of that State.
+
+2\. A State Party may also establish its jurisdiction over any such offence when:
+
+(a) The offence was directed towards or resulted in the carrying out of an offence referred to in article 2, paragraph 1, subparagraph (a) or (b), in the territory of or against a national of that State;
+
+(b) The offence was directed towards or resulted in the carrying out of an offence referred to in article 2, paragraph 1, subparagraph (a) or (b), against a State or government facility of that State abroad, including diplomatic or consular premises of that State;
+
+(c) The offence was directed towards or resulted in an offence referred to in article 2, paragraph 1, subparagraph (a) or (b), committed in an attempt to compel that State to do or abstain from doing any act;
+
+(d) The offence is committed by a stateless person who has his or her habitual residence in the territory of that State;
+
+(e) The offence is committed on board an aircraft which is operated by the Government of that State.
+
+3\. Upon ratifying, accepting, approving or acceding to this Convention, each State Party shall notify the Secretary-General of the United Nations of the jurisdiction it has established in accordance with paragraph 2. Should any change take place, the State Party concerned shall immediately notify the Secretary-General.
+
+4\. Each State Party shall likewise take such measures as may be necessary to establish its jurisdiction over the offences set forth in article 2 in cases where the alleged offender is present in its territory and it does not extradite that person to any of the States Parties that have established their jurisdiction in accordance with paragraphs 1 or 2.
+
+5\. When more than one State Party claims jurisdiction over the offences set forth in article 2, the relevant States Parties shall strive to coordinate their actions appropriately, in particular concerning the conditions for prosecution and the modalities for mutual legal assistance.
+
+6\. Without prejudice to the norms of general international law, this Convention does not exclude the exercise of any criminal jurisdiction established by a State Party in accordance with its domestic law.
+
+**Article 8**
+
+1\. Each State Party shall take appropriate measures, in accordance with its domestic legal principles, for the identification, detection and freezing or seizure of any funds used or allocated for the purpose of committing the offences set forth in article 2 as well as the proceeds derived from such offences, for purposes of possible forfeiture.
+
+2\. Each State Party shall take appropriate measures, in accordance with its domestic legal principles, for the forfeiture of funds used or allocated for the purpose of committing the offences set forth in article 2 and the proceeds derived from such offences.
+
+3\. Each State Party concerned may give consideration to concluding agreements on the sharing with other States Parties, on a regular or case-by-case basis, of the funds derived from the forfeitures referred to in this article.
+
+4\. Each State Party shall consider establishing mechanisms whereby the funds derived from the forfeitures referred to in this article are utilized to compensate the victims of offences referred to in article 2, paragraph 1, subparagraph (a) or (b), or their families.
+
+5\. The provisions of this article shall be implemented without prejudice to the rights of third parties acting in good faith.
+
+**Article 9**
+
+1\. Upon receiving information that a person who has committed or who is alleged to have committed an offence set forth in article 2 may be present in its territory, the State Party concerned shall take such measures as may be necessary under its domestic law to investigate the facts contained in the information.
+
+2\. Upon being satisfied that the circumstances so warrant, the State Party in whose territory the offender or alleged offender is present shall take the appropriate measures under its domestic law so as to ensure that person's presence for the purpose of prosecution or extradition.
+
+3\. Any person regarding whom the measures referred to in paragraph 2 are being taken shall be entitled to:
+
+(a) Communicate without delay with the nearest appropriate representative of the State of which that person is a national or which is otherwise entitled to protect that person’s rights or, if that person is a stateless person, the State in the territory of which that person habitually resides;
+
+(b) Be visited by a representative of that State;
+
+(c) Be informed of that person's rights under subparagraphs (a) and (b).
+
+4\. The rights referred to in paragraph 3 shall be exercised in conformity with the laws and regulations of the State in the territory of which the offender or alleged offender is present, subject to the provision that the said laws and regulations must enable full effect to be given to the purposes for which the rights accorded under paragraph 3 are intended.
+
+5\. The provisions of paragraphs 3 and 4 shall be without prejudice to the right of any State Party having a claim to jurisdiction in accordance with article 7, paragraph 1, subparagraph (b), or paragraph 2, subparagraph (b), to invite the International Committee of the Red Cross to communicate with and visit the alleged offender.
+
+6\. When a State Party, pursuant to the present article, has taken a person into custody, it shall immediately notify, directly or through the Secretary-General of the United Nations, the States Parties which have established jurisdiction in accordance with article 7, paragraph 1 or 2, and, if it considers it advisable, any other interested States Parties, of the fact that such person is in custody and of the circumstances which warrant that person's detention. The State which makes the investigation contemplated in paragraph 1 shall promptly inform the said States Parties of its findings and shall indicate whether it intends to exercise jurisdiction.
+
+**Article 10**
+
+1\. The State Party in the territory of which the alleged offender is present shall, in cases to which article 7 applies, if it does not extradite that person, be obliged, without exception whatsoever and whether or not the offence was committed in its territory, to submit the case without undue delay to its competent authorities for the purpose of prosecution, through proceedings in accordance with the laws of that State. Those authorities shall take their decision in the same manner as in the case of any other offence of a grave nature under the law of that State.
+
+2\. Whenever a State Party is permitted under its domestic law to extradite or otherwise surrender one of its nationals only upon the condition that the person will be returned to that State to serve the sentence imposed as a result of the trial or proceeding for which the extradition or surrender of the person was sought, and this State and the State seeking the extradition of the person agree with this option and other terms they may deem appropriate, such a conditional extradition or surrender shall be sufficient to discharge the obligation set forth in paragraph 1.
+
+**Article 11**
+
+1\. The offences set forth in article 2 shall be deemed to be included as extraditable offences in any extradition treaty existing between any of the States Parties before the entry into force of this Convention. States Parties undertake to include such offences as extraditable offences in every extradition treaty to be subsequently concluded between them.
+
+2\. When a State Party which makes extradition conditional on the existence of a treaty receives a request for extradition from another State Party with which it has no extradition treaty, the requested State Party may, at its option, consider this Convention as a legal basis for extradition in respect of the offences set forth in article 2. Extradition shall be subject to the other conditions provided by the law of the requested State.
+
+3\. States Parties which do not make extradition conditional on the existence of a treaty shall recognize the offences set forth in article 2 as extraditable offences between themselves, subject to the conditions provided by the law of the requested State.
+
+4\. If necessary, the offences set forth in article 2 shall be treated, for the purposes of extradition between States Parties, as if they had been committed not only in the place in which they occurred but also in the territory of the States that have established jurisdiction in accordance with article 7, paragraphs 1 and 2.
+
+5\. The provisions of all extradition treaties and arrangements between States Parties with regard to offences set forth in article 2 shall be deemed to be modified as between States Parties to the extent that they are incompatible with this Convention.
+
+**Article 12**
+
+1\. States Parties shall afford one another the greatest measure of assistance in connection with criminal investigations or criminal or extradition proceedings in respect of the offences set forth in article 2, including assistance in obtaining evidence in their possession necessary for the proceedings.
+
+2\. States Parties may not refuse a request for mutual legal assistance on the ground of bank secrecy.
+
+3\. The requesting Party shall not transmit or use information or evidence furnished by the requested Party for investigations, prosecutions or proceedings other than those stated in the request without the prior consent of the requested Party.
+
+4\. Each State Party may give consideration to establishing mechanisms to share with other States Parties information or evidence needed to establish criminal, civil or administrative liability pursuant to article 5.
+
+5\. States Parties shall carry out their obligations under paragraphs 1 and 2 in conformity with any treaties or other arrangements on mutual legal assistance or information exchange that may exist between them. In the absence of such treaties or arrangements, States Parties shall afford one another assistance in accordance with their domestic law.
+
+**Article 13**
+
+None of the offences set forth in article 2 shall be regarded, for the purposes of extradition or mutual legal assistance, as a fiscal offence. Accordingly, States Parties may not refuse a request for extradition or for mutual legal assistance on the sole ground that it concerns a fiscal offence.
+
+**Article 14**
+
+None of the offences set forth in article 2 shall be regarded for the purposes of extradition or mutual legal assistance as a political offence or as an offence connected with a political offence or as an offence inspired by political motives. Accordingly, a request for extradition or for mutual legal assistance based on such an offence may not be refused on the sole ground that it concerns a political offence or an offence connected with a political offence or an offence inspired by political motives.
+
+**Article 15**
+
+Nothing in this Convention shall be interpreted as imposing an obligation to extradite or to afford mutual legal assistance, if the requested State Party has substantial grounds for believing that the request for extradition for offences set forth in article 2 or for mutual legal assistance with respect to such offences has been made for the purpose of prosecuting or punishing a person on account of that person's race, religion, nationality, ethnic origin or political opinion or that compliance with the request would cause prejudice to that person's position for any of these reasons.
+
+**Article 16**
+
+1\. A person who is being detained or is serving a sentence in the territory of one State Party whose presence in another State Party is requested for purposes of identification, testimony or otherwise providing assistance in obtaining evidence for the investigation or prosecution of offences set forth in article 2 may be transferred if the following conditions are met:
+
+(a) The person freely gives his or her informed consent;
+
+(b) The competent authorities of both States agree, subject to such conditions as those States may deem appropriate.
+
+2\. For the purposes of the present article:
+
+(a) The State to which the person is transferred shall have the authority and obligation to keep the person transferred in custody, unless otherwise requested or authorized by the State from which the person was transferred;
+
+(b) The State to which the person is transferred shall without delay implement its obligation to return the person to the custody of the State from which the person was transferred as agreed beforehand, or as otherwise agreed, by the competent authorities of both States;
+
+(c) The State to which the person is transferred shall not require the State from which the person was transferred to initiate extradition proceedings for the return of the person;
+
+(d) The person transferred shall receive credit for service of the sentence being served in the State from which he or she was transferred for time spent in the custody of the State to which he or she was transferred.
+
+3\. Unless the State Party from which a person is to be transferred in accordance with the present article so agrees, that person, whatever his or her nationality, shall not be prosecuted or detained or subjected to any other restriction of his or her personal liberty in the territory of the State to which that person is transferred in respect of acts or convictions anterior to his or her departure from the territory of the State from which such person was transferred.
+
+**Article 17**
+
+Any person who is taken into custody or regarding whom any other measures are taken or proceedings are carried out pursuant to this Convention shall be guaranteed fair treatment, including enjoyment of all rights and guarantees in conformity with the law of the State in the territory of which that person is present and applicable provisions of international law, including international human rights law.
+
+**Article 18**
+
+1\. States Parties shall cooperate in the prevention of the offences set forth in article 2 by taking all practicable measures, *inter alia*, by adapting their domestic legislation, if necessary, to prevent and counter preparations in their respective territories for the commission of those offences within or outside their territories, including:
+
+(a) Measures to prohibit in their territories illegal activities of persons and organizations that knowingly encourage, instigate, organize or engage in the commission of offences set forth in article 2;
+
+(b) Measures requiring financial institutions and other professions involved in financial transactions to utilize the most efficient measures available for the identification of their usual or occasional customers, as well as customers in whose interest accounts are opened, and to pay special attention to unusual or suspicious transactions and report transactions suspected of stemming from a criminal activity. For this purpose, States Parties shall consider:
+
+(i) Adopting regulations prohibiting the opening of accounts the holders or beneficiaries of which are unidentified or unidentifiable, and measures to ensure that such institutions verify the identity of the real owners of such transactions;
+
+(ii) With respect to the identification of legal entities, requiring financial institutions, when necessary, to take measures to verify the legal existence and the structure of the customer by obtaining, either from a public register or from the customer or both, proof of incorporation, including information concerning the customer's name, legal form, address, directors and provisions regulating the power to bind the entity;
+
+(iii) Adopting regulations imposing on financial institutions the obligation to report promptly to the competent authorities all complex, unusual large transactions and unusual patterns of transactions, which have no apparent economic or obviously lawful purpose, without fear of assuming criminal or civil liability for breach of any restriction on disclosure of information if they report their suspicions in good faith;
+
+(iv) Requiring financial institutions to maintain, for at least five years, all necessary records on transactions, both domestic or international.
+
+2\. States Parties shall further cooperate in the prevention of offences set forth in article 2 by considering:
+
+(a) Measures for the supervision, including, for example, the licensing, of all money-transmission agencies;
+
+(b) Feasible measures to detect or monitor the physical cross-border transportation of cash and bearer negotiable instruments, subject to strict safeguards to ensure proper use of information and without impeding in any way the freedom of capital movements.
+
+3\. States Parties shall further cooperate in the prevention of the offences set forth in article 2 by exchanging accurate and verified information in accordance with their domestic law and coordinating administrative and other measures taken, as appropriate, to prevent the commission of offences set forth in article 2, in particular by:
+
+(a) Establishing and maintaining channels of communication between their competent agencies and services to facilitate the secure and rapid exchange of information concerning all aspects of offences set forth in article 2;
+
+(b) Cooperating with one another in conducting inquiries, with respect to the offences set forth in article 2, concerning:
+
+(i) The identity, whereabouts and activities of persons in respect of whom reasonable suspicion exists that they are involved in such offences;
+
+(ii) The movement of funds relating to the commission of such offences.
+
+4\. States Parties may exchange information through the International Criminal Police Organization (Interpol).
+
+**Article 19**
+
+The State Party where the alleged offender is prosecuted shall, in accordance with its domestic law or applicable procedures, communicate the final outcome of the proceedings to the Secretary-General of the United Nations, who shall transmit the information to the other States Parties.
+
+**Article 20**
+
+The States Parties shall carry out their obligations under this Convention in a manner consistent with the principles of sovereign equality and territorial integrity of States and that of non-intervention in the domestic affairs of other States.
+
+**Article 21**
+
+Nothing in this Convention shall affect other rights, obligations and responsibilities of States and individuals under international law, in particular the purposes of the Charter of the United Nations, international humanitarian law and other relevant conventions.
+
+**Article 22**
+
+Nothing in this Convention entitles a State Party to undertake in the territory of another State Party the exercise of jurisdiction or performance of functions which are exclusively reserved for the authorities of that other State Party by its domestic law.
+
+**Article 23**
+
+1\. The annex may be amended by the addition of relevant treaties that:
+
+(a) Are open to the participation of all States;
+
+(b) Have entered into force;
+
+(c) Have been ratified, accepted, approved or acceded to by at least twenty-two States Parties to the present Convention.
+
+2\. After the entry into force of this Convention, any State Party may propose such an amendment. Any proposal for an amendment shall be communicated to the depositary in written form. The depositary shall notify proposals that meet the requirements of paragraph 1 to all States Parties and seek their views on whether the proposed amendment should be adopted.
+
+3\. The proposed amendment shall be deemed adopted unless one third of the States Parties object to it by a written notification not later than 180 days after its circulation.
+
+4\. The adopted amendment to the annex shall enter into force 30 days after the deposit of the twenty-second instrument of ratification, acceptance or approval of such amendment for all those States Parties that have deposited such an instrument. For each State Party ratifying, accepting or approving the amendment after the deposit of the twenty-second instrument, the amendment shall enter into force on the thirtieth day after deposit by such State Party of its instrument of ratification, acceptance or approval.
+
+**Article 24**
+
+1\. Any dispute between two or more States Parties concerning the interpretation or application of this Convention which cannot be settled through negotiation within a reasonable time shall, at the request of one of them, be submitted to arbitration. If, within six months from the date of the request for arbitration, the parties are unable to agree on the organization of the arbitration, any one of those parties may refer the dispute to the International Court of Justice, by application, in conformity with the Statute of the Court.
+
+2\. Each State may at the time of signature, ratification, acceptance or approval of this Convention or accession thereto declare that it does not consider itself bound by paragraph 1. The other States Parties shall not be bound by paragraph 1 with respect to any State Party which has made such a reservation.
+
+3\. Any State which has made a reservation in accordance with paragraph 2 may at any time withdraw that reservation by notification to the Secretary-General of the United Nations.
+
+**Article 25**
+
+1\. This Convention shall be open for signature by all States from 10 January 2000 to 31 December 2001 at United Nations Headquarters in New York.
+
+2\. This Convention is subject to ratification, acceptance or approval. The instruments of ratification, acceptance or approval shall be deposited with the Secretary-General of the United Nations.
+
+3\. This Convention shall be open to accession by any State. The instruments of accession shall be deposited with the Secretary-General of the United Nations.
+
+**Article 26**
+
+1\. This Convention shall enter into force on the thirtieth day following the date of the deposit of the twenty-second instrument of ratification, acceptance, approval or accession with the Secretary-General of the United Nations.
+
+2\. For each State ratifying, accepting, approving or acceding to the Convention after the deposit of the twenty-second instrument of ratification, acceptance, approval or accession, the Convention shall enter into force on the thirtieth day after deposit by such State of its instrument of ratification, acceptance, approval or accession.
+
+**Article 27**
+
+1\. Any State Party may denounce this Convention by written notification to the Secretary-General of the United Nations.
+
+2\. Denunciation shall take effect one year following the date on which notification is received by the Secretary-General of the United Nations.
+
+**Article 28**
+
+The original of this Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations who shall send certified copies thereof to all States.
+
+IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Convention, opened for signature at United Nations Headquarters in New York on 10 January 2000.
+
+**ANNEX**
+
+1\. Convention for the Suppression of Unlawful Seizure of Aircraft, done at The Hague on 16 December 1970.
+
+2\. Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation, done at Montreal on 23 September 1971.
+
+3\. Convention on the Prevention and Punishment of Crimes against Internationally Protected Persons, including Diplomatic Agents, adopted by the General Assembly of the United Nations on 14 December 1973.
+
+4\. International Convention against the Taking of Hostages, adopted by the General Assembly of the United Nations on 17 December 1979.
+
+5\. Convention on the Physical Protection of Nuclear Material, adopted at Vienna on 3 March 1980.
+
+6\. Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation, supplementary to the Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation, done at Montreal on 24 February 1988.
+
+7\. Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation, done at Rome on 10 March 1988.
+
+8\. Protocol for the Suppression of Unlawful Acts against the Safety of Fixed Platforms located on the Continental Shelf, done at Rome on 10 March 1988.
+
+9\. International Convention for the Suppression of Terrorist Bombings, adopted by the General Assembly of the United Nations on 15 December 1997.
+
+[^1]: OJ No. L88, 31.3.2017, p. 6
+[^2]: OJ C 177, 18.5.2016, p. 51.
+[^3]: Position of the European Parliament of 16 February 2017 (not yet published in the Official Journal) and decision of the Council of 7 March 2017.
+[^4]: OJ L 164, 22.6.2002, p. 3.
+[^5]: OJ L 386, 29.12.2006, p. 89.
+[^6]: OJ L 210, 6.8.2008, p. 1.
+[^7]: OJ L 253, 29.9.2005, p. 22.
+[^8]: OJ L 180, 29.6.2013, p. 1.
+[^9]: OJ L 190, 18.7.2002, p. 1.
+[^10]: OJ L 162, 20.6.2002, p. 1.
+[^11]: OJ L 141, 5.6.2015, p. 73.
+[^12]: OJ L 178, 17.7.2000, p. 1.
+[^13]: OJ L 205, 7.8.2007, p. 63.
+[^14]: OJ L 119, 4.5.2016, p. 132.
+[^15]: OJ L 119, 4.5.2016, p. 89.
+[^16]: OJ L 130, 1.5.2014, p. 1.
+[^17]: OJ L 315, 14.11.2012, p. 57.
+[^18]: OJ L 261, 6.8.2004, p. 15.
+[^19]: OJ L 158, 30.4.2004, p. 77.
+[^20]: OJ L 218, 14.8.2013, p. 8.
+[^21]: OJ L 127, 29.4.2014, p. 39.
+[^22]: United Nations, *Treaty Series*, vol. 75, p. 31, 85, 135 and 287.
+[^23]: *Ibid*., vol. 1125, pp. 3 and 609.

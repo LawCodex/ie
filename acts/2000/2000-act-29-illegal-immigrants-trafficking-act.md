@@ -1,0 +1,393 @@
+---
+title: "Illegal Immigrants (Trafficking) Act, 2000"
+identifier: "eli/2000/act/29"
+type: act
+jurisdiction: ie
+language: en
+number: 29
+year: 2000
+date: 2000-08-28
+last_amended: 2026-06-12
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2000/act/29/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2000/act/29/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Illegal Immigrants (Trafficking) Act, 2000
+
+AN ACT TO PROHIBIT TRAFFICKING IN ILLEGAL IMMIGRANTS AND TO AMEND THE REFUGEE ACT, 1996, AND THE IMMIGRATION ACT, 1999, AND TO PROVIDE FOR RELATED MATTERS. [28*th August*, 2000]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E1: Provision for collection, transmission, retention and deletion of passenger data in respect of offence under Act made (1.11.2011) by *European Communities (Communication of Passenger Data) Regulations 2011* (S.I. No. 597 of 2011), in effect as per reg. 1(2).
+
+## 1. Interpretation.
+
+**1.**—(1) In this Act, except where the context otherwise requires—
+
+“illegal immigrant” means a non-national who enters or seeks to enter or has entered the State unlawfully;
+
+“Minister” means the Minister for Justice, Equality and Law Reform;
+
+“vehicle” includes any ship, boat, aircraft or mechanically propelled vehicle within the meaning of the Road Traffic Act, 1961.
+
+(2) In this Act—
+
+(*a*) a reference to a section is a reference to a section of this Act, unless it is indicated that reference to some other provision is intended,
+
+(*b*) a reference to a paragraph or subparagraph is a reference to a paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that reference to some other provision is intended, and
+
+(*c*) a reference to any enactment shall be construed as a reference to that enactment as amended, adapted or extended by or under any subsequent enactment.
+
+## 2. Trafficking in illegal immigrants.
+
+**2.**—F1[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1: Repealed (31.12.2021) by *Criminal Justice (Smuggling of Persons) Act 2021* (42/2021), s. 3, S.I. No. 722 of 2021, subject to transitional provision in s. 30.
+
+## 3. Power to detain certain vehicles.
+
+**3.**—F2[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F2: Repealed (31.12.2021) by *Criminal Justice (Smuggling of Persons) Act 2021* (42/2021), s. 3, S.I. No. 722 of 2021, subject to transitional provision in s. 30.
+
+## 4. Forfeiture of ship, aircraft or other vehicle.
+
+**4.**—F3[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F3: Repealed (31.12.2021) by *Criminal Justice (Smuggling of Persons) Act 2021* (42/2021), s. 3, S.I. No. 722 of 2021, subject to transitional provision in s. 30.
+
+## 5. F4[Judicial review
+
+**5.**—(1) A person shall not question the validity of—
+
+(*a*) a notification under section 3(3)(*a*) of the Immigration Act 1999,
+
+(*b*) a notification under section 3(3)(*b*)(ii) of the Immigration Act 1999,
+
+(*c*) a deportation order under section 3(1) of the Immigration Act 1999,
+
+(*d*) a refusal under Article 5 of the Aliens Order 1946 (S.R. and O. No. 395 of 1946),
+
+(*e*) a refusal under section 4 of the Immigration Act 2004,
+
+(*f*) an exclusion order under section 4 of the Immigration Act 1999,
+
+(*g*) a recommendation of the Refugee Applications Commissioner under section 13 (as amended by section 7 (h) of the Immigration Act 2003) of the Refugee Act 1996,
+
+(*h*) a decision of the Refugee Appeals Tribunal under section 16 (as amended by section 7 (i) of the Immigration Act 2003) of the Refugee Act 1996,
+
+(*i*) a refusal under section 17 (as amended by Regulation 34 of the European Union (Subsidiary Protection) Regulations 2013 (S.I. No. 426 of 2013)) of the Refugee Act 1996,
+
+(*j*) a decision under section 21 (as amended by section 11 (1)(o) of the Immigration Act 1999) of the Refugee Act 1996,
+
+(*k*) a removal order under Regulation 20(1) of the European Communities (Free Movement of Persons) (No. 2) Regulations 2006 (S.I. No. 656 of 2006),
+
+(*l*) an exclusion order under Regulation 23(1) of the European Communities (Free Movement of Persons) (No. 2) Regulations 2006 (S.I. No. 656 of 2006),
+
+(*m*) an order under section 3(11) of the Immigration Act 1999,
+
+(*n*) a recommendation of the Refugee Applications Commissioner referred to in Regulation 6(2)(b) of the European Union (Subsidiary Protection) Regulations 2013 (S.I. No. 426 of 2013),
+
+(*o*) a decision of the Refugee Appeals Tribunal referred to in Regulation 8(22)(a) of the European Union (Subsidiary Protection) Regulations 2013 F5[(S.I. No. 426 of 2013),]
+
+F7[(*oa*) a recommendation of an international protection officer under section 21 (3) of the International Protection Act 2015,
+
+(*ob*) a decision of the International Protection Appeals Tribunal under section 21 (9)(a) of the International Protection Act 2015,
+
+(*oc*) a determination of the Minister under section 21 (11) of the International Protection Act 2015,
+
+(*od*) a recommendation of an international protection officer under section 22 (5) of the International Protection Act 2015,
+
+(*oe*) a decision of the International Protection Appeals Tribunal under section 22 (11)(a) of the International Protection Act 2015,
+
+(*of*) a refusal by the Minister under section 22 (15) of the International Protection Act 2015,
+
+(*og*) a recommendation of an international protection officer under paragraph (b) or (c) of section 39 (3) of the International Protection Act 2015,
+
+(*oh*) a decision of the International Protection Appeals Tribunal under subsection (2) or (3) of section 46 of the International Protection Act 2015,
+
+(*oi*) a decision of the Minister under section 49 (4)(b) of the International Protection Act 2015,
+
+(*oj*) a deportation order under section 51 of F9[the International Protection Act 2015,]]
+
+F10[(*ok*) a return order under section 51A of the F11[International Protection Act 2015,]]
+
+F13[(*ol*) a declaration by the Determining Authority under section 71(2) of the International Protection Act 2026 that an application has been implicitly withdrawn,
+
+(*om*) a transfer decision of the Minister under section 138 of the International Protection Act 2026,
+
+(*on*) a decision of the Tribunal for Asylum and Returns Appeals under section 140(9) or 141(3) of the International Protection Act 2026,
+
+(*oo*) a decision of the Determining Authority under section 156 of the International Protection Act 2026 to reject an application as inadmissible,
+
+(*op*) a decision of the Determining Authority under section 156 of the International Protection Act 2026 to reject an application as unfounded or manifestly unfounded where the applicant is eligible for subsidiary protection but does not qualify as a refugee,
+
+(*oq*) a decision of the Determining Authority under section 156 of the International Protection Act 2026 to reject an application as unfounded or manifestly unfounded where the applicant does not qualify as a refugee and is not eligible for subsidiary protection,
+
+(*or*) a decision of the Determining Authority under section 163(1) of the International Protection Act 2026 not to grant refugee status, (os) a decision of the Tribunal for Asylum and Returns Appeals under section 189(5) or 195 of the International Protection Act 2026,
+
+(*ot*) a decision of the Minister under section 214(1) of the International Protection Act 2026 to withdraw refugee status or under section 214(2) of that Act to withdraw subsidiary protection status,
+
+(*ou*) a return decision under Part 11 or an entry ban notice under section 217 of the International Protection Act 2026, or]
+
+(*p*) such other F12[decision, declaration, determination, recommendation, refusal or order] as may be prescribed by the Minister under *subsection (9)*,
+
+made on or after the date on which section 34 of the Employment Permits (Amendment) Act 2014 comes into operation, otherwise than by way of an application for judicial review under Order 84 of Rules of the Superior Courts (S.I. No. 15 of 1986) (hereafter in this section referred to as "the Order").
+
+(2) An application for leave to apply for judicial review under the Order in respect of any of the matters referred to in *subsection (1)* (hereafter in this section referred to as an "application") shall be made within the period of 28 days commencing on the date on which the person was notified of the F15[decision, declaration, determination, recommendation, refusal] or making of the order concerned unless the High Court considers that there is good and sufficient reason for extending the period within which the application shall be made, and such leave shall not be granted unless the High Court is satisfied that there are substantial grounds for contending that the F16[decision, declaration, determination, recommendation, refusal] is invalid or ought to be quashed.
+
+(3) Notwithstanding the period referred to in *subsection (2)*, rules of court may require an applicant to lodge or file with the High Court, such number of days (which shall not exceed 4 days) as may be specified in the rules before the date on which the application is to be heard, all pleadings and written submissions relating to the application.
+
+(4) Where the High Court considers that an application involves a point of law of exceptional public importance or that, having regard to the likely impact of the proceedings on the respondent or another party, the issues arising or any other matter, it is in the interests of justice to do so, it may —
+
+(*a*) direct that the application should be heard on notice,
+
+(*b*) adjourn the application for such period (which shall not be less than 28 days) and on such terms as it may direct,
+
+(*c*) give such directions as it thinks fit as to the service on the intended respondent and on any other person of notice of the application and copies of any documents lodged under rules of court referred to in subsection (3), and the mode of, and the time allowed for, such service, and
+
+(*d*) give such other direction or make such order as it considers appropriate.
+
+(5) The High Court, having considered an application—
+
+(*a*) shall pronounce its determination of the application in public, and
+
+(*b*) where it grants an application for leave to apply for judicial review in respect of a matter referred to in *subsection (1)*, shall state, in respect of that matter, the relief granted and the grounds upon which that relief is granted.
+
+(6)(*a*) The determination of the High Court of an application for leave to apply for judicial review to which this section applies, or of an application for such judicial review, shall be final and no appeal shall lie from the decision of the High Court to the Supreme Court in either case except with the leave of the High Court which leave shall only be granted where the High Court certifies that its decision involves a point of law of exceptional public importance and that it is desirable in the public interest that an appeal should be taken to the Supreme Court.
+
+(*b*) This subsection shall not apply to a determination of the High Court in so far as it involves a question as to the validity of any law having regard to the provisions of the Constitution.
+
+(7) The High Court shall give such priority as it reasonably can, having regard to all the circumstances, to the disposal of proceedings in that Court under this section.
+
+(8) The Superior Court Rules Committee may make rules to facilitate the giving of effect to *subsection (7)*.
+
+(9) (*a*) The Minister may prescribe any F17[decision, declaration, determination, recommendation, refusal or order]—
+
+(*i*) made under a relevant enactment or, as the case may be, an instrument made under a relevant enactment, and
+
+(*ii*) concerning the entry into, presence in, removal from or exclusion from the State of a person, the conditions under which a person may be present in the State or the entitlement of a person to international protection in the State,
+
+to be a F18[decision, declaration, determination, recommendation, refusal or order] to which *subsection (1)* applies.
+
+(*b*) In exercising his or her power under *paragraph (a)*, the Minister shall have regard to the need for the fair and efficient administration of the relevant enactment concerned and the interests of justice.
+
+(*c*) In this subsection—
+
+F19["international protection" has the meaning it has in section 2 of the International Protection Act 2026;]
+
+"relevant enactment" means—
+
+(*i*) the Aliens Act 1935,
+
+(*ii*) the Refugee Act 1996,
+
+(*iii*) the Immigration Act 1999,
+
+(*iv*) the Immigration Act 2003,
+
+(*v*) the Immigration Act 2004,
+
+F8[(*va*) the International Protection Act 2015,]
+
+F14[(*vb*) the International Protection Act 2026,
+
+(*vc*) the European Communities (Free Movement of Persons) Regulations 2015 (S.I. No. 548 of 2015),]
+
+(*vi*) the European Communities (Free Movement of Persons) Regulations 2006 and 2008,
+
+(*vii*) the European Union (Subsidiary Protection) Regulations 2013 ( S.I. No. 426 of 2013 ), and
+
+(*viii*) any Act, or instrument made under an Act, giving effect to Regulation (EU) No. 604/2013 of the European Parliament and of the Council of 26 June 2013[^1].]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F4: Substituted (3.10.2014) by *Employment Permits (Amendment) Act 2014* (26/2014), s. 34(1), S.I. No. 435 of 2014, subject to transitional provision in subs. (2).
+>
+> F5, F6: Substituted (31.12.2016) by *International Protection Act 2015* (66/2015), s. 79(a)(i), S.I. No. 663 of 2016.
+>
+> F7, F8: Inserted (31.12.2016) by *International Protection Act 2015* (66/2015), s. 79(a)(ii), (b)(ii), S.I. No. 663 of 2016.
+>
+> F9: Substituted (31.12.2020 at 11.00 p.m.) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2020* (23/2020), s. 123(a), S.I. No. 676 of 2020.
+>
+> F10: Inserted (31.12.2020 at 11.00 p.m.) by *Withdrawal of the United Kingdom from the European Union (Consequential Provisions) 0Act 2020* (23/2020), s. 123(b), S.I. No. 676 of 2020.
+>
+> F11, F12: Substituted (12.06.2026) by *International Protection Act 2026* (9/2026), s. 301(a)(i), (iii), S.I. No. 244 of 2026.
+>
+> F13, F14: Inserted (12.06.2026) by *International Protection Act 2026* (9/2026), s. 301(a)(ii), (c)(ii)(II), S.I. No. 244 of 2026.
+>
+> F15, F16, F17, F18, F19: Substituted (12.06.2026) by *International Protection Act 2026* (9/2026), s. 301(b), (c)(i), (ii)(I), S.I. No. 244 of 2026.
+>
+> **Editorial Notes:**
+>
+> E2: Previous affecting provision: definition of "international protection" substituted (31.12.2016) by *International Protection Act 2015* (66/2015), s. 79(b)(i), S.I. No. 663 of 2016; substituted (12.06.2026) as per F-note above.
+>
+> E3: Previous affecting provision: subs. (1)(dd) inserted (13.02.2004) by *Immigration Act 2004* (1/2004), s. 16(6), commenced on enactment; section substituted (3.10.2014) as per F-note above.
+>
+> E4: Previous affecting provision: subs. (1)(d) substituted (19.09.2003) by *Immigration Act 2003* (26/2003), s. 10, S.I. No. 414 of 2003; section substituted (3.10.2014) as per F-note above.
+
+## 6. Amendment of section 8 of Criminal Law Act, 1976.
+
+**6.**—Section 8 of the Criminal Law Act, 1976, is hereby amended in subsection (1) by the substitution of the following paragraphs for paragraphs *(i)* to *(k)*:
+
+"(*i*) an offence under this Act,
+
+(*j*) an offence under section 12(1) of the Firearms and Offensive Weapons Act, 1990,
+
+(*k*) an offence under section 112(2) of the Road Traffic Act, 1961 (substituted by section 3(7) of the Road Traffic (Amendment) Act, 1984),
+
+(*l*) an offence under *section 2* of the *Illegal Immigrants (Trafficking) Act, 2000*.".
+
+## 7. Entry, search and seizure.
+
+**7.**—F20[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F20: Repealed (31.12.2021) by *Criminal Justice (Smuggling of Persons) Act 2021* (42/2021), s. 3, S.I. No. 722 of 2021, subject to transitional provision in s. 30.
+
+## 8. Amendment of Schedule to Bail Act, 1997.
+
+**8.**—The Schedule to the Bail Act, 1997, is hereby amended by the insertion of the following paragraph after paragraph 27:
+
+“27A. Any offence under *section 2* of the *Illegal Immigrants (Trafficking) Act, 2000*.”.
+
+## 9. Amendment of Refugee Act, 1996.
+
+**9.**—The Refugee Act, 1996, is hereby amended—
+
+(*a*) in section 9, by the insertion of the following subsection after subsection (4):
+
+“(4A) An applicant shall inform the Commissioner of his or her address and shall inform the Commissioner as soon as possible of any change of address.”,
+
+(*b*) in section 13(3)*(c)* (inserted by the Immigration Act, 1999), by the substitution of “15 working days” for “21 days”,
+
+(*c*) in section 16(3), by the substitution of “13(3)*(b)*” for “13(2)*(b)*”,
+
+(*d*) in the Second Schedule (inserted by the Immigration Act, 1999), by—
+
+(i) the substitution in paragraph 1 of “5 years'” for “10 years'”,
+
+(ii) the substitution of the following paragraph for paragraph 2—
+
+“2. (*a*) The members of the Tribunal shall be appointed by the Minister.
+
+(*b*) A person shall not be appointed to be the chairperson unless the Civil Service Commissioners, within the meaning of the Civil Service Commissioners Act, 1956, after holding a competition under section 29 of that Act, have selected him or her for appointment to the position.”,
+
+and
+
+(iii) the substitution of the following paragraph for paragraph 5:
+
+“5. (*a*) The chairperson shall hold office under a contract of service in writing, containing such terms and conditions (including terms and conditions relating to remuneration, allowances and expenses and superannuation), as the Minister, with the consent of the Minister for Finance, may from time to time determine.
+
+(*b*) Each ordinary member shall be paid such remuneration and allowances and expenses as the Minister, with the consent of the Minister for Finance, may from time to time determine.”.
+
+## 10. Amendment of Immigration Act, 1999.
+
+**10.**—The Immigration Act, 1999, is hereby amended—
+
+(*a*) in section 3—
+
+(i) by the insertion of the following subsection after subsection (1):
+
+“(1A) A person the subject of a deportation order under this section may be detained in accordance with the provisions of this Act for the purpose of ensuring his or her deportation from the State.”,
+
+and
+
+(ii) in subsection (9), by the substitution of the following paragraph for paragraph (*a*):
+
+“(*a*) (i) Subject to paragraph (*b*), where the Minister has made a deportation order under this section, the notice under subsection (3)(*b*)(ii) may require the person the subject of the deportation order to do any one or more of the following for the purpose of ensuring his or her deportation from the State:
+
+(I) present himself or herself to such member of the Garda Síochána or immigration officer at such date, time and place as may be specified in the notice;
+
+(II) produce any travel document, passport, travel ticket or other document in his or her possession required for the purpose of such deportation to such member of the Garda Síochána or immigration officer at such date, time and place as may be specified in the notice;
+
+(III) co-operate in any way necessary to enable a member of the Garda Síochána or immigration officer to obtain a travel document, passport, travel ticket or other document required for the purpose of such deportation;
+
+(IV) reside or remain in a particular district or place in the State pending removal from the State;
+
+(V) report to a specified Garda Síochána station or immigration officer at specified intervals pending removal from the State;
+
+(VI) notify such member of the Garda Síochána or immigration officer as may be specified in the notice as soon as possible of any change of address.
+
+(ii) Where the notice under subsection (3)(*b*)(ii) contains a requirement to do an act specified in subparagraph (i), a member of the Garda Síochána or immigration officer may, if he or she considers it necessary for the purpose of ensuring the deportation of the person concerned from the State, require the person in writing to do any one or more of the acts specified in subparagraph (i), and any such further requirement shall have effect as if it were a requirement in a notice under subsection (3)(*b*)(ii).
+
+(iii) A further requirement under subparagraph (ii) shall, where necessary and possible, be given to the person concerned in a language that he or she understands.”,
+
+(*b*) in section 5, by the substitution of the following subsection for subsection (1):
+
+“(1) Where an immigration officer or a member of the Garda Síochána, with reasonable cause suspects that a person against whom a deportation order is in force—
+
+(*a*) has failed to comply with any provision of the order or with a requirement in a notice under section 3(3)(*b*)(ii),
+
+(*b*) intends to leave the State and enter another state without lawful authority,
+
+(*c*) has destroyed his or her identity documents or is in possession of forged identity documents, or
+
+(*d*) intends to avoid removal from the State,
+
+he or she may arrest him or her without warrant and detain him or her in a prescribed place.”,
+
+and
+
+(*c*) in section 6—
+
+(i) by the substitution in paragraph (*b*) for “to the Minister” of “to the Registration Officer pursuant to Article 11 of the Aliens Order, 1946 (S.R. & O., No. 395 of 1946), or to the Refugee Applications Commissioner pursuant to section 9(4A) of the Refugee Act, 1996, as the case may be”, and
+
+(ii) by the insertion of the following subsection:
+
+“(2) Where a notice under this Act has been sent to a person in accordance with paragraph (*b*) of the foregoing subsection, the notice shall be deemed to have been duly served on or given to the person on the third day after the day on which it was so sent.”.
+
+## 11. Offences by bodies corporate.
+
+**11.**—F21[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F21: Repealed (31.12.2021) by *Criminal Justice (Smuggling of Persons) Act 2021* (42/2021), s. 3, S.I. No. 722 of 2021, subject to transitional provision in s. 30.
+
+## 12. Expenses.
+
+**12.**—The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## 13. Short title and commencement.
+
+**13.**—(1) This Act may be cited as the Illegal Immigrants (Trafficking) Act, 2000.
+
+(2) This Act shall come into operation on such day or days as, by order or orders made by the Minister, may be fixed therefor either generally or with reference to any particular purpose or provision and different days may be so fixed for different purposes and different provisions.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E5: Power pursuant to section exercised (5.09.2000) by *Illegal Immigrants (Trafficking) Act 2000 (Commencement) Order 2000* (S.I. No. 266 of 2000).
+>
+> 2\. The 5th day of September, 2000 is hereby fixed as the day on which the Illegal Immigrants (Trafficking) Act, 2000 (No. 29 of 2000), shall come into operation.
+
+[^1]: OJ L180 31, 29.6.2013, p. 31

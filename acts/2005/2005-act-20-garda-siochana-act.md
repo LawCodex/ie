@@ -1,0 +1,5872 @@
+---
+title: "Garda Síochána Act 2005"
+identifier: "eli/2005/act/20"
+type: act
+jurisdiction: ie
+language: en
+number: 20
+year: 2005
+date: 2005-07-10
+last_amended: 2024-09-03
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2005/act/20/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2005/act/20/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Garda Síochána Act 2005
+
+AN ACT TO MAKE FURTHER AND BETTER PROVISION IN RELATION TO THE GARDA SÍOCHÁNA AND, IN PARTICULAR, TO CONSOLIDATE WITH AMENDMENTS CERTAIN ENACTMENTS RELATING TO THE GARDA SÍOCHÁNA, TO PROVIDE FOR THE ESTABLISHMENT OF A BODY TO BE KNOWN AS COIMISIÚN OMBUDSMAN AN GHARDA SÍOCHÁNA OR, IN ENGLISH, THE GARDA SÍOCHÁNA OMBUDSMAN COMMISSION FOR THE PURPOSES OF ENSURING OPENNESS, TRANSPARENCY AND ACCOUNTABILITY IN THE PROCESS BY WHICH COMPLAINTS AGAINST THE GARDA SÍOCHÁNA ARE INVESTIGATED AND ALSO FOR THE ESTABLISHMENT OF A BODY TO BE KNOWN AS CIGIREACHT AN GHARDA SÍOCHÁNA OR, IN ENGLISH, THE GARDA SÍOCHÁNA INSPECTORATE FOR THE PURPOSE OF ACHIEVING AND MAINTAINING THE HIGHEST LEVELS OF EFFICIENCY AND EFFECTIVENESS IN THE OPERATION AND ADMINISTRATION OF THE GARDA SÍOCHÁNA, AND TO PROVIDE FOR RELATED MATTERS.
+
+[10*th July*, 2005]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Prospective affecting provision: Act repealed by *Policing, Security and Community Safety Act 2024* (1/2024), s. 5 and sch. 1 ref. no. 2, not commenced as of date of revision, subject to transitional provisions in ss. 33(4), 90(1), 94(6), 95(4), 101(6) and 228.
+>
+> **Repeals**
+>
+> **5.** The enactments specified in column (3) of Schedule 1 are repealed to the extent specified in column (4) of that Schedule.
+>
+> ...
+>
+> Schedule 1
+>
+> Repeals
+>
+> ...
+>
+> No. 20 of 2005 Garda Síochána Act 2005 All provisions
+>
+> ...
+>
+> C2: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 20 of 2005</td><td>Garda Síochána Act 2005</td><td>Sections 17(3)(b), 29, 44(5), 71, 76, 77, 119 and 127(2)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E1: Garda Síochána excluded from definition of public bodies in *Freedom of Information Act 2014* (30/2014) in so far as it relates to administrative records relating to human resources, or finance or procurement matters (14.10.2014) by *Freedom of Information Act 2014* (30/2014), s. 6 and sch. 1 part 1(n), commenced as per s. 1(2).
+
+## PART 1 Preliminary Matters — PART 1 — Preliminary Matters
+
+### 1. Short title.
+
+**1**.—This Act may be cited as the Garda Síochána Act 2005.
+
+### 2. Commencement.
+
+**2**.— (1) This Act comes into operation on the day that the Minister may, by order, appoint.
+
+(2) Different days may be appointed under this section, by one or more than one order, for different purposes or different provisions of this Act and, in relation to the repeals effected by *section 4*, for the repeal of different provisions of the enactments referred to in *Schedule 1* or for the repeal for different purposes of those enactments.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E2: Power pursuant to section exercised (30.06.2015) by *Garda Síochána Act 2005 (Commencement) Order 2015* (S.I. No. 271 of 2015).
+>
+> 3\. The 30th day of June 2015 is appointed as the day on which section 4 of the Act of 2005 and Schedule 1 to the Act of 2005, insofar as those provisions are not already in operation, come into operation.
+>
+> E3: Power pursuant to section exercised (9.05.2007) by *Garda Síochána Act 2005 (Commencement) (No. 3) Order 2007* (S.I. No. 217 of 2007).
+>
+> 2\. The 9th day of May 2007 is appointed as the day on which the following provisions of the Garda Síochána Act 2005 come into operation:
+>
+> (a) section 4 and Schedule 1, in so far as they relate to the provisions specified in the third column of the Schedule to this order;
+>
+> (b) Chapter 8 of Part 2;
+>
+> (c) sections 67(1), 67(2), 73, 74(3) and 81;
+>
+> (d) Part 4;
+>
+> (e) sections 125 and 126,
+>
+> (f) Schedules 3 and 5.
+>
+> SCHEDULE
+>
+> <table><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>Number and Year</td><td>Short Title of Act</td><td>Extent of Repeal</td></tr><tr><td>No. 31 of 1924</td><td>Dublin Police Act 1924</td><td>Section 12</td></tr><tr><td>No. 1 of 1989</td><td>Garda Síochána Act 1989</td><td>All provisions</td></tr><tr><td>No. 19 of 2003</td><td>Garda Síochána (Police Co-operation) Act 2003</td><td>All provisions</td></tr></table>
+>
+> E4: Power pursuant to section exercised (2.05.2007) by *Garda Síochána Act 2005 (Section123) (Commencement) (No. 2) Order 2007* (S.I. No. 216 of 2007).
+>
+> 2\. The 2nd day of May 2007 is appointed as the day on which section 123 of the Garda Síochána Act 2005 comes into operation.
+>
+> E5: Power pursuant to section exercised (1.02.2007) by *Garda Síochána Act 2005 (Section 8) (Commencement) Order 2007* (S.I. No. 16 of 2007).
+>
+> 2\. The 1 day of February 2007 is appointed as the day on which section 8 of the Garda Síochána Act 2005 comes into operation.
+>
+> E6: Power pursuant to section exercised (14.07.2006) by *Garda Síochána Act 2005 (Commencement) (No.2) Order 2006* (S.I. No. 377 of 2006).
+>
+> 2\. The 14th day of July 2006 is appointed as the day on which sections 29, 43 to 45 and 132 of the Garda Síochána Act 2005 (No. 20 of 2005) come into operation.
+>
+> E7: Power pursuant to section exercised (31.03.2006) by *Garda Síochána Act 2005 (Commencement) Order 2006* (S.I. No. 129 of 2006).
+>
+> 2\. The 31st day of March 2006 is appointed as the day on which the following provisions of the Garda Síochána Act 2005 (No. 20 of 2005) come into operation:
+>
+> (a) section 4 and Schedule 1, in so far as they relate to the provisions specified in the third column of the Schedule to this Order;
+>
+> (b) sections 6, 9 to 23, 25 to 28, 30 (other than subsection (3) of section 30), and 31 to 38;
+>
+> (c) sections 42, 46, 59 and 61;
+>
+> (d) sections 74 (other than subsection (3) of section 74) and 75;
+>
+> (e) Part 5;
+>
+> (f) sections 121(2)(c), 122 (other than subsection (1)(o) of section 122) and 127 to 129;
+>
+> (g) Schedule 2 (in so far as it relates to a person transferred under section 19).
+>
+> SCHEDULE
+>
+> <table><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>Number and Year</td><td>Short Title of Act</td><td>Extent of Repeal</td></tr><tr><td>No. 25 of 1924</td><td>Garda Síochána Act 1924</td><td>Sections 2, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 (1), 18, 19, 20 and 21 and the First and Fourth Schedules</td></tr><tr><td>No. 7 of 1925</td><td>Police Forces Amalgamation Act 1925</td><td>Sections 2, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 (1), 18, 19, 20 and 21 and the First and Fourth Schedules</td></tr><tr><td>No. 32 of 1933</td><td>Garda Síochána (Pensions)Act 1933</td><td>All provisions</td></tr><tr><td>No. 2 of 1975</td><td>Garda Síochána Act 1972</td><td>All provisions</td></tr><tr><td>No. 7 of 1925</td><td>Garda Síochána Act 1977</td><td>All provisions</td></tr></table>
+>
+> E8: Power pursuant to section exercised (9.12.2005) by *Garda Síochána Act 2005 (Commencement) (No. 2) Order 2005* (S.I. No. 801 of 2005).
+>
+> 3\. The 9th day of December 2005 is appointed as the day on which the following provisions of the Act come into operation:
+>
+> (a) sections 24, 63 to 66, 67(3), 67(4), 67(5), 68 to 72, 76 to 80 and 121(2)(b),
+>
+> (b) Schedule 2 (in so far as it relates to a person transferred under section 72 of the Act to the Commission), and
+>
+> (c) Schedule 4.
+>
+> E9: Power pursuant to section exercised (1.08.2005) by *Garda Síochána Act 2005 (Commencement) Order 2005* (S.I. No. 370 of 2005).
+>
+> 2\. The 1st day of August 2005 is appointed as the day on which—
+>
+> *(a)* Part 1 (other than section 4), and
+>
+> *(b)* sections 7, 39, 40, 41, 47, 48, 49, 60, 62, 121 (other than subsection (2)(b) and (c)), 124, 130 and 131,
+>
+> of the Garda Síochána Act 2005 (No. 20 of 2005) shall come into operation.
+
+### 3. Interpretation.
+
+**3**.— (1) In this Act, unless the context otherwise requires—
+
+F1[“Authority” means the Policing Authority established by *section 62B*;
+
+“Chief Executive” means the chief executive officer of the Authority appointed under *section 62P*;
+
+“committee” means a committee of the Authority established under *section 62K*;]
+
+“Committee of Public Accounts” means the committee of Dáil Éireann established under the Standing Orders of Dáil Éireann to examine and report to Dáil Éireann on the appropriation accounts and reports of the Comptroller and Auditor General;
+
+“complaint” means a complaint made under *Part 4*;
+
+“Disciplinary Regulations” means—
+
+(*a*) the 1989 Regulations, as amended under *section 128*, for as long as they continue to be in force under that section, or
+
+(*b*) any regulations in force under *section 123*;
+
+“document” means any book, record or other written or printed material in any form, including information stored, maintained or preserved by means of any mechanical or electronic device, whether or not stored, maintained or preserved in legible form;
+
+“establishment day” means the day appointed under *section 63*;
+
+F1[“establishment day of the Authority” means the day appointed under *section 62A*;]
+
+“Garda Commissioner” means the Commissioner of the Garda Síochána;
+
+“functions” includes powers and duties and references to the performance of functions include, with respect to powers and duties, references to the exercise of the powers and the carrying out of the duties;
+
+“joint policing committee” means a committee established under *section 36*;
+
+F1[“local authority” has the meaning it has in the Local Government Act 2001;]
+
+“member”, in relation to the Garda Síochána, means—
+
+(*a*) a member of any rank (including the Garda Commissioner) appointed under *Part 2* or under an enactment repealed by this Act, and
+
+(*b*) a reserve member,
+
+but does not include a member of the civilian staff of the Garda Síochána;
+
+“Minister” means the Minister for Justice, Equality and Law Reform;
+
+“Ombudsman Commission” means the Garda Síochána Ombudsman Commission established under *section 64*;
+
+F1[“policing principles” shall be read in accordance with *section 3B*;
+
+“policing services” means the functions of the Garda Síochána referred to in *section 7* other than the provision of security services;]
+
+“prescribed” means prescribed by regulation;
+
+“regulations” means regulations continued in force under this Act or made by the Minister under this Act;
+
+“1989 Regulations” means the Garda Síochána (Discipline) Regulations 1989 (S.I. No. 94 of 1989);
+
+“reserve member” means a person appointed under *section 15* as a reserve member of the Garda Síochána.
+
+F1[“security services” shall be read in accordance with *section 3A*;
+
+“Service” means the Public Appointments Service.]
+
+(2) In this Act—
+
+(*a*) a reference to a section, Chapter, Part or Schedule is to a section, Chapter or Part of, or a Schedule to, this Act, unless it is indicated that reference to some other enactment is intended,
+
+(*b*) a reference to a subsection, paragraph or subparagraph is to the subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that reference to some other provision is intended, and
+
+(*c*) a reference to any other enactment is to that enactment as amended by or under any other enactment, including this Act, unless the context otherwise requires.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 3, S.I. No. 612 of 2015.
+>
+> F2, F3, F4: Inserted by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 27, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C3: Prospective affecting provision: definitions inserted in subs. (1) by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 27, not commenced as of date of revision.
+>
+> F2["controlled drug" has the same meaning as it has in section 2 of the Misuse of Drugs Act 1977;]
+>
+> F3["psychoactive substance" means a psychoactive substance within the meaning of section 1 of the Criminal Justice (Psychoactive Substances) Act 2010 to which that Act applies;]
+>
+> F4["sample" means a sample of any of the following taken, or to be taken, from a person:
+>
+> (*a*) urine;
+>
+> (*b*) hair, other than pubic hair;
+>
+> (*c*) oral fluid, including saliva;
+>
+> (*d*) blood;
+
+### 3A. Security services
+
+F5[**3A.** (1) In this Act "security services", subject to *subsection (2)*, means the functions of the Garda Síochána referred to in *section 7* that are concerned with—
+
+(*a*) protecting the security of the State including, but not limited to, the following:
+
+(i) preventing, detecting and investigating offences under the Offences against the State Acts 1939 to 1998, the Criminal Law Act 1976, the Criminal Justice (Terrorist Offences) Act 2005 and the Criminal Justice (Money Laundering and Terrorist Financing) Act 2010;
+
+(ii) protecting the State from—
+
+(I) espionage,
+
+(II) sabotage,
+
+(III) unlawful acts that subvert or undermine, or are intended to subvert or undermine, parliamentary democracy or the institutions of the State, and
+
+(IV) acts of foreign interference that are, or are intended to be, detrimental to the interests of the State and are clandestine or deceptive or involve a threat to any person,
+
+whether directed from, or committed or intended to be committed within, the State or not,
+
+(*b*) identifying foreign capabilities, intentions or activities within or relating to the State that impact on the international well-being or economic well-being of the State, and
+
+(*c*) co-operating with authorities in other states and international organisations aimed at preserving international peace, public order and security.
+
+(2) The reference in *subsection (1)* to the functions of the Garda Síochána referred to in *section 7* that are concerned with protecting the security of the State does not include lawful advocacy, protest or dissent by any person.
+
+(3) Where a question or dispute arises as to whether a particular matter relates to policing services or security services, the question or dispute shall be submitted to the Minister for determination.
+
+(4) The determination by the Minister of the question or dispute referred to him or her under *subsection (3)* shall be final.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F5: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 4, S.I. No. 612 of 2015.
+>
+> **Editorial Notes:**
+>
+> E10: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 3B. Policing principles
+
+F6[**3B.** In this Act "policing principles" means—
+
+(*a*) the principle that policing services are to be provided—
+
+(i) independently and impartially,
+
+(ii) in a manner that respects human rights, and
+
+(iii) in a manner that supports the proper and effective administration of justice,
+
+and
+
+(*b*) the principle that effective and efficient policing is dependent on securing the confidence, support and co-operation of local communities and engaging with those communities.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F6: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 5, S.I. No. 612 of 2015.
+>
+> **Editorial Notes:**
+>
+> E11: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 4. Repeals.
+
+**4**.— Each enactment specified in *Schedule 1* is repealed to the extent specified in *column (3)* of that Schedule.
+
+### 5. Expenses.
+
+**5**.— The expenses incurred in respect of the Garda Síochána F7[and the Authority] under this Act and any other expenses incurred in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of money provided by the Oireachtas.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F7: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 6, S.I. No. 612 of 2015.
+
+## PART 2 Garda Sochna — PART 2 — Garda Síochána
+
+### Chapter 1 General — Chapter 1 — General
+
+#### 6. Continuation of Garda Síochána.
+
+**6**.— (1) The police force called the Garda Síochána continues in being under this Act as a police service.
+
+(2) The Government may continue to maintain, equip and pay the Garda Síochána.
+
+#### 7. Function of Garda Síochána.
+
+**7**.— (1) The function of the Garda Síochána is to provide F8[policing and security, including vetting, services for the State] with the objective of—
+
+(*a*) preserving peace and public order,
+
+(*b*) protecting life and property,
+
+(*c*) vindicating the human rights of each individual,
+
+(*d*) protecting the security of the State,
+
+(*e*) preventing crime,
+
+(*f*) bringing criminals to justice, including by detecting and investigating crime, and
+
+(*g*) regulating and controlling road traffic and improving road safety.
+
+(2) For the purpose of achieving the objective referred to in *subsection (1)*, the Garda Síochána shall co-operate, as appropriate, with other Departments of State, agencies and bodies having, by law, responsibility for any matter relating to any aspect of that objective.
+
+(3) In addition to its function under *subsection (1)*, the Garda Síochána and its members have such functions as are conferred on them by law including those relating to immigration.
+
+(4) This section does not affect any powers, immunities, privileges or duties that members of the Garda Síochána have by virtue of any other enactment or at common law.
+
+(5) This section is not to be taken to confer on any person a right in law that he or she would not otherwise have to—
+
+(*a*) require the Garda Síochána to perform a function or provide a service referred to in this section or to desist from any action, or
+
+(*b*) seek damages for a member of the Garda Síochána’s performance of, or failure to perform, such function or for his or her provision of, or failure to provide, such service.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F8: Substituted (29.04.2016) by *National Vetting Bureau (Children and Vulnerable Persons) Act 2012* (47/2012), s. 25, S.I. No. 214 of 2016.
+
+#### 8. Prosecution of offences by members of Garda Síochána.
+
+**8**.— (1) No member of the Garda Síochána in the course of his or her official duties may institute a prosecution except as provided under this section.
+
+(2) Subject to *subsection (3)*, any member of the Garda Síochána may F9[institute or conduct] prosecutions in a court of summary jurisdiction, but only in the name of the Director of Public Prosecutions.
+
+F10[(2A) Where a prosecution is instituted by a member of the Garda Síochána pursuant to *subsection (2)*, the prosecution may be conducted by that member or any other such member.]
+
+(3) In deciding whether to institute and in instituting or conducting a prosecution, a member of the Garda Síochána shall comply with any applicable direction (whether of a general or specific nature) given by the Director of Public Prosecutions under *subsection (4)*.
+
+(4) The Director of Public Prosecutions may give, vary or rescind directions concerning the institution and conduct of prosecutions by members of the Garda Síochána.
+
+(5) Directions under *subsection (4)* may be of a general or specific nature and may, among other things, prohibit members of the Garda Síochána from—
+
+(*a*) instituting or conducting prosecutions of specified types of offences or in specified circumstances, or
+
+(*b*) conducting prosecutions beyond a specified stage of the proceedings.
+
+(6) If a prosecution is instituted or conducted by a member of the Garda Síochána in the name of the Director of Public Prosecutions—
+
+(*a*) the member is presumed, unless the contrary is proved, to have complied with this section and any applicable direction given by the Director under this section, and
+
+(*b*) nothing done by the member in instituting or conducting the prosecution is invalid by reason only of the member’s failure to comply with this section or that direction.
+
+(7) Nothing in this section—
+
+(*a*) precludes the Director of Public Prosecutions from, at any stage of the proceedings, assuming the conduct of a prosecution instituted by a member of the Garda Síochána, or
+
+(*b*) authorises a member of the Garda Síochána to institute a proceeding without the consent of the Director of Public Prosecutions if an enactment prohibits the institution of that proceeding except by or with the Director’s consent.
+
+(8) For the purpose of this section—
+
+(*a*) a direction is of a general nature if it relates to a class of prosecutions, and
+
+(*b*) a direction is of a specific nature if it relates to the prosecution of a person for a specific offence.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F9: Substituted (17.06.2022) by *Garda Síochána (Amendment) Act 2022* (10/2022), s. 2(1)(a), commenced on enactment, subject to transitional provisions in s. 2(2).
+>
+> F10: Inserted (17.06.2022) by *Garda Síochána (Amendment) Act 2022* (10/2022), s. 2(1)(b), commenced on enactment, subject to transitional provisions in s. 2(2).
+
+### Chapter 2 Personnel and Organisation — Chapter 2 — Personnel and Organisation
+
+#### 9. Appointment of Garda Commissioner.
+
+F11[**9.** (1) Subject to this section, the appointment of a person to be the Commissioner of the Garda Síochána shall, upon the nomination of the Authority, be made by the Government.
+
+(2) The Authority shall not nominate a person under *subsection (1)* unless it has, with the prior approval in writing of the Government, invited the Service to undertake a selection competition for that purpose and the Service has undertaken such a competition.
+
+(3) The Authority shall, with the approval of the Minister, agree with the Service the requirements relating to knowledge, ability and suitability for appointment as the Garda Commissioner for the purposes of a selection competition under this section.
+
+(4) A person shall not be nominated by the Authority under *subsection (1)* unless it is satisfied that the person is suitable for appointment as the Garda Commissioner by reason of his or her possessing such relevant experience, qualifications, training or expertise as is appropriate having regard, in particular, to the functions assigned to the Garda Commissioner by or under this Act.
+
+(5) The Service shall provide the Authority with particulars of the experience, qualifications, training and expertise of a person whom it recommends for nomination by the Authority under *subsection (1)* for appointment as the Garda Commissioner.
+
+(6) Subject to *subsection (7)*, where the Authority nominates a person for appointment as the Garda Commissioner under *subsection (1)*, the Government shall accept the nomination.
+
+(7) (*a*) In exceptional circumstances, where the Government, for substantial and stated reasons, are unable to accept the nomination by the Authority of a particular person for appointment as the Garda Commissioner, they shall inform the Authority of that fact and the reasons for it and request the Authority to nominate another person for appointment.
+
+(*b*) The Authority shall—
+
+(i) consider the Government’s reasons provided in accordance with *paragraph (a)*, and
+
+(ii) unless the Authority disagrees with those reasons and wishes to make representations to the Government in that behalf,
+
+nominate another person for appointment.
+
+(8) A person who holds the office of Garda Commissioner may resign from office by notice in writing addressed to the Minister and the resignation shall take effect on the date the Minister receives the notice or, if a date is specified in the notice and the Minister agrees to that date, on that date.
+
+(9) The Government shall, as soon as may be, inform the Authority of the resignation of a person under *subsection (8)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F11: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 8(1), S.I. No. 612 of 2015, subject to transitional provision in subs. (2).
+
+#### 10. Appointment of Deputy and Assistant Garda Commissioners.
+
+F12[**10.** (1) The Government may determine the number of persons who may be appointed to the rank of Deputy Garda Commissioner and, subject to this section, the appointment of a person to that rank shall, upon the nomination of the Authority, be made by the Government.
+
+(2) The Authority shall not nominate a person under *subsection (1)* unless it has, with the prior approval in writing of the Government, invited the Service to undertake a selection competition for that purpose and the Service has undertaken such a competition.
+
+(3) The Authority shall, with the approval of the Minister, agree with the Service the requirements relating to knowledge, ability and suitability for appointment to the rank of Deputy Garda Commissioner for the purposes of a selection competition under this section.
+
+(4) A person shall not be nominated by the Authority under *subsection (1)* unless it is satisfied that the person is suitable for appointment to the rank of Deputy Garda Commissioner by reason of his or her possessing such relevant experience, qualifications, training or expertise as is appropriate having regard, in particular, to the functions that may be assigned to a member of that rank.
+
+(5) The Service shall provide the Authority with particulars of the experience, qualifications, training and expertise of a person whom it recommends for nomination by the Authority under *subsection (1)* for appointment to the rank of Deputy Garda Commissioner.
+
+(6) Subject to *subsection (7)*, where the Authority nominates a person for appointment to the rank of Deputy Garda Commissioner under *subsection (1)*, the Government shall accept the nomination.
+
+(7) (*a*) In exceptional circumstances, where the Government, for substantial and stated reasons, are unable to accept the nomination by the Authority of a particular person for appointment to the rank of Deputy Garda Commissioner, they shall inform the Authority of that fact and the reasons for it and request the Authority to nominate another person for appointment.
+
+(*b*) The Authority shall—
+
+(i) consider the Government’s reasons provided in accordance with *paragraph (a)*, and
+
+(ii) unless the Authority disagrees with those reasons and wishes to make representations to the Government in that behalf,
+
+nominate another person for appointment.
+
+(8) A person who holds the office of Deputy Garda Commissioner may resign from office by notice in writing addressed to the Minister and the resignation shall take effect on the date the Minister receives the notice or, if a date is specified in the notice and the Minister agrees to that date, on that date.
+
+(9) The Government shall, as soon as may be, inform the Authority of the resignation of a person under *subsection (8)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F12: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 9(1), S.I. No. 612 of 2015, subject to transitional provision in subs. (2).
+
+#### 11. Removal of Garda Commissioner, Deputy Garda Commissioner or Assistant Garda Commissioner from office.
+
+F13[**11.** (1) Subject to *section 12*, a person who holds the office of Garda Commissioner or Deputy Garda Commissioner may be removed from office by the Government, but only for stated reasons, including because—
+
+(*a*) the person has failed to perform the functions of the office with due diligence and effectiveness or, in the case of the Garda Commissioner, has failed to have regard to any of the matters specified in *section 26(2)*,
+
+(*b*) the person has engaged in conduct that brings discredit on the office or that may prejudice the proper performance of the functions of the office, or
+
+(c) the removal of the person from office would, in the opinion of the Government, be in the best interests of the Garda Síochána.
+
+(2) The Authority may, for the purposes of *subsection (1)*, recommend to the Government the removal from office of a person who holds the office of Garda Commissioner or Deputy Garda Commissioner if the reasons for removal relate to policing services, and the Government shall consider any such recommendation.
+
+(3) Subject to *section 13A*, a person who holds the office of Assistant Garda Commissioner, chief superintendent or superintendent may be removed from office by the Authority, but only for stated reasons related solely to policing services, including because—
+
+(*a*) the person has failed to perform the functions of the office relating to policing services with due diligence and effectiveness,
+
+(*b*) the person has engaged in conduct that brings discredit on the office or that may prejudice the proper performance of the functions of the office relating to policing services, or
+
+(*c*) the removal of the person from office would, in the opinion of the Authority, be in the best interests of the Garda Síochána.
+
+(4) Subject to *section 12*, a person who holds the office of Assistant Garda Commissioner, chief superintendent or superintendent may be removed from office by the Government in circumstances other than those to which *subsection (3)* relates, but only for stated reasons, including because—
+
+(*a*) the person has failed to perform the functions of the office with due diligence and effectiveness,
+
+(*b*) the person has engaged in conduct that brings discredit on the office or that may prejudice the proper performance of the functions of the office, or
+
+(*c*) the removal of the person from office would, in the opinion of the Government, be in the best interests of the Garda Síochána.
+
+(5) On notifying under *section 12(1)(a)* or *13A(1)(a)*, as may be appropriate, a person who holds the office of Garda Commissioner, Deputy Garda Commissioner, Assistant Garda Commissioner, chief superintendent or superintendent that the Government or the Authority, as the case may be, intends to consider removing him or her from office, the Government or the Authority, as the case may be, may immediately suspend the person from duty.
+
+(6) A suspension from duty under *subsection (5)* continues until the Government or the Authority, as the case may be, makes a decision in relation to the matter under consideration, but only if there is no undue delay in taking steps under *section 12* or *13A*, as may be appropriate, in making that decision.
+
+(7) Subject to *subsection (8)*, the Government shall, as soon as may be, inform the Authority of a proposal to remove a person from office under *subsection (1)* or *(4)* and any related suspension from duty under *subsection (5)*.
+
+(8) The Government shall consult with the Authority before the removal of a person from office under—
+
+(*a*) *subsection (1)*, if the reasons for removal relate to policing services, or
+
+(*b*) *subsection (4)*, if the reasons for removal include reasons relating to policing services.
+
+(9) The Authority shall, as soon as may be, inform the Government of a proposal to remove a person from office under *subsection (3)* and any related suspension from duty under *subsection (5)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Substituted (1.01.2017) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 10, S.I. No. 633 of 2016, subject to transitional provisions in subss. (2) and (3).
+>
+> **Editorial Notes:**
+>
+> E12: Previous affecting provision: subs. (2) amended (18.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 43(a), S.I. No. 236 of 2007; substituted as per F-note above.
+
+#### 12. Steps to be taken before removal of office holder.
+
+**12**.— F14[(1) Before considering the removal of a person from office under *subsection (1)* or *(4)* of *section 11*, the Government shall—
+
+(*a*) notify the person that the Government intends to consider the matter and include in the notification a statement of their reasons for doing so, and
+
+(*b*) give the person an opportunity to make representations as to why he or she ought not to be removed from office.
+
+(1A) The Government shall inform the Authority of a notification to a person under *subsection (1)(a)* if the reasons for the removal from office of the person—
+
+(*a*) in the case of a removal under *section 11(1)*, relate either solely or partially to policing services, or
+
+(*b*) in the case of a removal under *section 11(4)*, relate partially to policing services.]
+
+(2) The Government may, if they consider it necessary or appropriate to do so, appoint a person to—
+
+(*a*) hold an inquiry into any matter giving rise to a notification under *subsection (1)*, and
+
+(*b*) report to the Government on the findings of the inquiry.
+
+(3) A person appointed under this section to hold an inquiry may do one or more of the following:
+
+(*a*) direct a person, by notice delivered to him or her, to provide any information that is specified in the notice and is required for the purposes of the inquiry;
+
+(*b*) direct any person, by notice delivered to him or her, to produce at the time and place specified in the notice a document specified in the notice that is relevant to the inquiry and is in the person’s power or control;
+
+(*c*) summon witnesses to attend the inquiry;
+
+(*d*) direct a witness to answer a question put to him or her at the inquiry;
+
+(*e*) give any other direction that appears to the person appointed under this section to be necessary, just and reasonable for the purposes of the inquiry;
+
+(*f*) administer oaths and affirmations to witnesses and examine witnesses attending the inquiry.
+
+(4) If a person fails or refuses to comply with or disobeys a direction or summons under *subsection (3)*, the High Court may, on application by the person appointed under this section—
+
+(*a*) order the person in relation to whom the application was made to comply with the direction or, in the case of a summons, to attend the inquiry, and
+
+(*b*) make such other (if any) order as it considers necessary and just to enable the direction to have full effect or, in the case of a summons, to ensure the attendance at the inquiry.
+
+(5) A person who—
+
+(*a*) is notified under *subsection (3)* and who, without lawful excuse, refuses or fails to comply with a direction under *subsection (3)(a)* or *(b)*,
+
+(*b*) fails, without lawful excuse, to attend an inquiry in response to a summons under *subsection (3)(c)*,
+
+(*c*) refuses to answer a question that the person conducting the inquiry may legally direct him or her to answer, or
+
+(*d*) does or omits to do in relation to the inquiry any other thing the doing or omission of which would, if the inquiry had been a proceeding in the High Court, have been contempt of that Court,
+
+is guilty of an offence and is liable on summary conviction to a fine not exceeding €2,500 or to imprisonment for a term not exceeding 6 months or both.
+
+F15[(5A) A statement or admission made by a person pursuant to a direction under *subsection (3)* shall not be admissible as evidence in proceedings brought against that person for an offence (other than an offence under *subsection (5)*).]
+
+(6) If an inquiry is held, the Government shall—
+
+(*a*) consider the report on the findings of the inquiry,
+
+F16[*(aa)* in a case where the reasons for the proposed removal from office of the person concerned relate either solely or partially to policing services, inform the Authority of the findings of the inquiry in so far as they relate to policing services,]
+
+(*b*) make a copy of the report available to the person whose removal from office is the subject of the report, and
+
+(*c*) give that person an opportunity to make representations relating to the report.
+
+(7) As soon as practicable after a person is F17[removed from office under *subsection (1)* or *(4)* of *section 11*], the Minister shall cause a statement of the reasons for the removal to be laid before each House of the Oireachtas.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F14: Substituted and inserted (1.01.2017) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 11(a), S.I. No. 633 of 2016, subject to transitional provisions in s. 10(2) and (3).
+>
+> F15: Inserted (1.01.2017) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 11(b), S.I. No. 633 of 2016, subject to transitional provisions in s. 10(2) and (3).
+>
+> F16: Inserted (1.01.2017) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 11(c), S.I. No. 633 of 2016, subject to transitional provisions in s. 10(2) and (3).
+>
+> F17: Substituted (1.01.2017) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 11(d), S.I. No. 633 of 2016, subject to transitional provisions in s. 10(2) and (3).
+>
+> **Editorial Notes:**
+>
+> E13: A fine of €2,500 translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+#### 13. Appointment of members to other ranks.
+
+F18[**13.** (1) The Minister may, with the consent of the Minister for Public Expenditure and Reform, determine the number of persons who may be appointed to the ranks of Assistant Garda Commissioner, chief superintendent and superintendent in the Garda Síochána and the Authority may, in accordance with the regulations and having undertaken a selection competition for that purpose, appoint a person to any of those ranks.
+
+(2) A person who holds the office of Assistant Garda Commissioner, chief superintendent or superintendent may resign from office by notice in writing addressed to the Authority and the resignation shall take effect on the date the Authority receives the notice or, if a date is specified in the notice and the Authority agrees to that date, on that date.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F18: Substituted (1.01.2017) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 12(1), S.I. No. 633 of 2016, subject to transitional provisions in subs. (3) and s. 10(2) and (3).
+
+#### 13A. F19[Steps to be taken before removal from office by Authority of members of certain ranks
+
+**13A.** (1) Before considering the removal of a person from office under *section 11(3)*, the Authority shall—
+
+(*a*) notify the person that the Authority intends to consider the matter and include in the notification a statement of the reasons for doing so, and
+
+(*b*) give the person an opportunity to make representations as to why he or she ought not to be removed from office.
+
+(2) The Authority shall inform the Government of a notification to a person under *subsection (1)(a)*.
+
+(3) The Authority may, if it considers it necessary or appropriate to do so, appoint a person to—
+
+(*a*) hold an inquiry into any matter giving rise to a notification under *subsection (1)*, and
+
+(*b*) report to the Authority on the findings of the inquiry.
+
+(4) A person appointed under this section to hold an inquiry may do one or more of the following:
+
+(*a*) direct any person, by notice delivered to him or her, to provide any information that is specified in the notice and is required for the purposes of the inquiry;
+
+(*b*) direct any person, by notice delivered to him or her, to produce at the time and place specified in the notice a document specified in the notice that is relevant to the inquiry and is in the person’s power or control;
+
+(*c*) summon witnesses to attend the inquiry;
+
+(*d*) direct a witness to answer a question put to him or her at the inquiry;
+
+(*e*) give any other direction that appears to the person appointed under this section to be necessary, just and reasonable for the purposes of the inquiry;
+
+(*f*) administer oaths and affirmations to witnesses and examine witnesses attending the inquiry.
+
+(5) If a person fails or refuses to comply with or disobeys a direction or summons under *subsection (4)*, the High Court may, on application by the person appointed under this section—
+
+(*a*) order the person in relation to whom the application was made to comply with the direction or, in the case of a summons, to attend the inquiry, and
+
+(*b*) make such other order (if any) as it considers necessary and just to enable the direction to have full effect or, in the case of a summons, to ensure the attendance at the inquiry.
+
+(6) A person—
+
+(*a*) to whom a notice is delivered under *subsection (4)* and who, without lawful excuse, refuses or fails to comply with a direction under *paragraph (a)* or *(b)* of that subsection,
+
+(*b*) who fails, without lawful excuse, to attend an inquiry in response to a summons under *subsection (4)(c)*,
+
+(*c*) who refuses to answer a question that the person conducting the inquiry may lawfully direct him or her to answer, or
+
+(*d*) who does or omits to do in relation to the inquiry any other thing the doing or omission of which would, if the inquiry had been a proceeding in the High Court, have been contempt of that Court,
+
+is guilty of an offence and is liable on summary conviction to a class C fine or to imprisonment for a term not exceeding 6 months or both.
+
+(7) A statement or admission made by a person pursuant to a direction under *subsection (4)* shall not be admissible as evidence in proceedings brought against that person for an offence (other than an offence under *subsection (6)*).
+
+(8) If an inquiry is held, the Authority shall—
+
+(*a*) consider the report on the findings of the inquiry,
+
+(*b*) make a copy of the report available to the person whose removal from office is the subject of the report, and
+
+(*c*) give that person an opportunity to make representations relating to the report.
+
+(9) As soon as practicable after a person is removed from office under *section 11(3)*, the Authority shall inform the Minister of the removal of the person from office and the reasons for it and the Minister shall cause a statement of the reasons for the removal to be laid before each House of the Oireachtas.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F19: Inserted (1.01.2017) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 13, S.I. No. 633 of 2016, subject to transitional provisions in s. 10(2) and (3). A class C fine means a fine not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(1), S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E14: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 14. Appointment of members to other ranks and summary dismissal of such members.
+
+**14**.— (1) The Garda Commissioner may appoint, subject to and in accordance with the regulations, such numbers of persons as he or she sees fit to the ranks of garda, sergeant and inspector in the Garda Síochána.
+
+(2) Notwithstanding anything in this Act or the regulations, the Garda Commissioner may dismiss from the Garda Síochána a member not above the rank of inspector if—
+
+(*a*) the Commissioner is of the opinion that—
+
+(i) by reason of the member’s conduct (which includes any act or omission), his or her continued membership would undermine public confidence in the Garda Síochána, and
+
+(ii) the dismissal of the member is necessary to maintain that confidence,
+
+(*b*) the member has been informed of the basis for the Commissioner’s opinion and has been given an opportunity to respond to the stated basis for that opinion and to advance reasons against the member’s dismissal,
+
+(*c*) the Commissioner has considered any response by the member and any reasons advanced by the member, but the Commissioner remains of his or her opinion, and
+
+(*d*) F20[the Authority] consents to the member’s dismissal.
+
+(3) *Subsection (2)* is not to be taken to limit the power to make or amend Disciplinary Regulations.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F20: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 14, S.I. No. 612 of 2015.
+
+#### 15. Reserve members.
+
+**15**.— (1) The Garda Commissioner may, subject to *subsection (4)* and the regulations, appoint persons as reserve members of the Garda Síochána to assist it in performing its functions.
+
+(2) A person is not eligible to be appointed as a reserve member unless he or she has completed the prescribed training.
+
+(3) Subject to *subsection (5)*, a reserve member has, while on duty, the same powers, immunities, privileges and duties as a person appointed under *section 14* to the rank of garda.
+
+(4) The power to appoint persons under *subsection (1)* may be exercised only if—
+
+(*a*) the Garda Commissioner has submitted proposals to F21[the Authority] for the training of persons to be so appointed, and
+
+(*b*) regulations have been made concerning their recruitment and training and prescribing the terms and conditions of their position.
+
+(5) The Garda Commissioner F22[, following consultation with the Authority,] may determine the range of powers to be exercised and duties to be carried out by reserve members.
+
+F23[(6) A reserve member is a volunteer and does not perform his or her functions as such a member under a contract of employment.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F21: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 15(a), S.I. No. 612 of 2015.
+>
+> F22: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 15(b), S.I. No. 612 of 2015.
+>
+> F23: Inserted (18.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 43(b), S.I. No. 236 of 2007.
+>
+> **Editorial Notes:**
+>
+> E15: Power pursuant to subs. (2) exercised (20.02.2024) by *Garda Síochána (Reserve Members) Regulations 2024* (S.I. No. 64 of 2024).
+
+#### 16. Solemn declaration.
+
+**16**.— (1) On being appointed, each member of the Garda Síochána shall make before a Peace Commissioner a declaration in the following form:
+
+“I hereby solemnly and sincerely declare before God that—
+
+• I will faithfully discharge the duties of a member of the Garda Síochána with fairness, integrity, regard for human rights, diligence and impartiality, upholding the Constitution and the laws and according equal respect to all people,
+
+• while I continue to be a member, I will to the best of my skill and knowledge discharge all my duties according to law, and
+
+• I do not belong to, and will not while I remain a member form, belong to or subscribe to, any political party or secret society whatsoever.”.
+
+(2) The words “before God” may be omitted from the declaration at the request of the declarant.
+
+#### 17. Code of ethics.
+
+F24[**17.** (1) The Authority shall, within 12 months of the establishment day of the Authority, establish a code of ethics that includes—
+
+(*a*) standards of conduct and practice for members, and
+
+(*b*) provisions to encourage and facilitate the reporting by members of wrongdoing in the Garda Síochána.
+
+(2) The Authority shall, before establishing a code of ethics under this section, consult with the following about the content of the code:
+
+(*a*) the Minister;
+
+(*b*) the Minister for Public Expenditure and Reform;
+
+(*c*) the Garda Commissioner;
+
+(*d*) the representative associations established under *section 18* of this Act or section 13 of the Garda Síochána Act 1924;
+
+(*e*) any recognised trade union or staff association representing members of the civilian staff of the Garda Síochána;
+
+(*f*) the Irish Human Rights and Equality Commission;
+
+(*g*) the Standards in Public Office Commission;
+
+(*h*) the Ombudsman Commission;
+
+(*i*) any other person or body appearing to the Authority to have an interest in the matter.
+
+(3) In preparing a code of ethics under this section, the Authority shall have regard to—
+
+(*a*) the policing principles,
+
+(*b*) the standards, practices and procedures applicable to the conduct of police officers in other Member States of the European Union, and
+
+(*c*) any relevant recommendations of the Council of Europe.
+
+(4) A code of ethics, or specified provisions of such a code, established under this section may apply with such modifications as may be specified therein to members of the civilian staff of the Garda Síochána.
+
+(5) The Authority may, in like manner to the establishment of a code of ethics under this section, amend or revoke such a code.
+
+(6) Whenever the Authority establishes, amends or revokes a code of ethics under this section, the Authority shall provide the Minister with a copy of the code as so established, amended or revoked and the Minister shall cause a copy of it to be laid before each House of the Oireachtas as soon as practicable after he or she receives it.
+
+(7) The Authority shall publish a code of ethics established under this section in such manner as it considers appropriate.
+
+(8) The Garda Commissioner shall take such steps as are necessary to ensure that all members have read and understood a code of ethics established under this section and that a record is kept of the steps so taken in relation to each member.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F24: Substituted (31.05.2016) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 16, S.I. No. 612 of 2015.
+>
+> **Editorial Notes:**
+>
+> E16: Previous affecting provision: references to “Human Rights Commission” construed (1.11.2014) by *Irish Human Rights and Equality Commission Act 2014* (25/2014), s. 44(2), S.I. No. 449 of 2014; substituted as per F-note above.
+
+#### 18. Representative associations.
+
+**18**.— (1) For the purpose of representing members of the Garda Síochána in all matters affecting their welfare and efficiency (including pay, pensions and conditions of service), there may be established, in accordance with the regulations, one or more than one association for all or any one or more of the ranks of the Garda Síochána below the rank of Assistant Garda Commissioner.
+
+(2) An association established under *subsection (1)* must be independent of and not associated with any body or person outside the Garda Síochána, but it may employ persons who are not members of the Garda Síochána.
+
+(3) A member of the Garda Síochána shall not be or become a member of any trade union or association (other than an association established under this section or section 13 of the Garda Síochána Act 1924) any object of which is to control or influence the pay, pensions or conditions of service of the Garda Síochána.
+
+(4) If any question arises whether any body or association is a trade union or association referred to in *subsection (3)*, the question shall be determined by the Minister whose determination shall be final.
+
+(5) The Minister—
+
+(*a*) may, notwithstanding *subsection (2)*, authorise an association established under this section to be associated with a person or body outside the Garda Síochána in such cases and in such manner and subject to such conditions or restrictions as he or she may specify, and
+
+(*b*) may vary or withdraw any such authorisation.
+
+(6) An association established under this section for the purpose of representing members of the Garda Síochána holding the rank of Garda may include persons admitted, in accordance with the regulations, to training for membership in the Garda Síochána.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E17: Power pursuant to section exercised (16.11.2021) by *Garda Síochána (Associations) (Amendment) (No. 2) Regulations 2021* (S.I. No. 603 of 2021).
+>
+> E18: Power pursuant to section exercised (15.09.2021) by *Garda Síochána (Associations) (Superintendents and Chief Superintendents) (Amendment) Regulations 2021* (S.I. No. 483 of 2021).
+>
+> E19: Power pursuant to section exercised (11.05.2021) by *Garda Síochána (Associations) (Amendment) Regulations 2021* (S.I. No. 275 of 2021).
+>
+> E20: Power pursuant to section exercised (8.12.2020) by *Garda Síochána (Associations) (Amendment) Regulations 2020* (S.I. No. 605 of 2020).
+>
+> E21: Power pursuant to section exercised (12.12.2018) by *Garda Síochána (Associations) (Amendment) Regulations 2018* (S.I. No. 657 of 2018).
+>
+> E22: Power pursuant to section exercised (22.11.2011) by *Garda Síochána (Associations) (Amendment) Regulations 2011* (S.I. No. 619 of 2011).
+
+#### 19. Civilian staff.
+
+**19**.— (1) F25[Subject to *subsection (2A)*, the Garda Commissioner may appoint] such numbers of persons as civilian staff of the Garda Síochána F25[as may be approved by the Authority with the consent of the Minister and] the Minister for Finance.
+
+(2) The Garda Commissioner shall determine the grades of civilian staff and the numbers in each grade in the categories of professional, administrative and specialist staff, F25[as may be approved by the Authority with the consent of the Minister and] the Minister for Finance.
+
+F26[(2A) The civilian staff of the Garda Síochána of grades that are equivalent to or above that of chief superintendent in the Garda Síochána shall be appointed by the Authority.]
+
+(3) A member of civilian staff of the Garda Síochána is a civil servant of the Government.
+
+(4) F27[...]
+
+(5) Every member of the staff of the Department of Justice, Equality and Law Reform designated by order of the Minister for the purposes of this section shall, on being so designated, be transferred to and become a member of the civilian staff of the Garda Síochána.
+
+(6) Before making an order for the purpose of *subsection (5)*, the Minister shall—
+
+(*a*) notify in writing any recognised trade union or staff association concerned of the Minister’s intention to do so, and
+
+(*b*) consider, within such time as may be specified in the notification, any representations made by that trade union or staff association in relation to the matter.
+
+(7) *Schedule 2* has effect in relation to staff transferred under this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F25: Substituted (31.05.2016) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 17(a),(b), S.I. No. 285 of 2015.
+>
+> F26: Inserted (31.05.2016) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 17(c), S.I. No. 285 of 2015
+>
+> F27: Repealed (20.07.2008) by *Civil Law (Miscellaneous Provisions) Act 2008* (14/2008), s. 3(1) and sch. 1 part 1, S.I. No. 274 of 2008.
+>
+> **Editorial Notes:**
+>
+> E23: Power pursuant to subs. (5) exercised (16.10.2006) by *Garda Síochána Act 2005 (Section 19(5)) Order 2006* (S.I. No. 620 of 2006).
+
+### Chapter 3 Roles of Minister and Garda Commissioner — Chapter 3 — Roles of Minister and Garda Commissioner
+
+#### 20. F28[Setting of priorities by Authority for policing services]
+
+F28[**20.** (1) The Authority shall, in accordance with this section and with the approval of the Minister—
+
+(*a*) determine, and from time to time revise, priorities for the Garda Síochána in performing its functions relating to policing services, and
+
+(*b*) establish, and from time to time revise, levels of performance ("performance targets") to be aimed at in seeking to achieve the objective of each priority referred to in *paragraph (a)*.
+
+(2) The Authority shall consult with the Garda Commissioner before determining or revising priorities or establishing or revising performance targets under this section.
+
+(3) Where the Minister approves the determination or revision of priorities or the establishment or revision of performance targets, as the case may be, he or she shall convey that approval in writing.
+
+(4) As soon as practicable after the determination or revision of priorities and the establishment or revision of performance targets, the Authority shall supply the Minister and the Garda Commissioner with a copy of the determined priorities, the established performance targets and any revisions to those priorities or performance targets.
+
+(5) As soon as practicable after the Minister receives a copy of the determined priorities, the established performance targets or any revisions to those priorities or performance targets under *subsection (4)*, the Minister shall cause a copy of them to be laid before each House of the Oireachtas.
+
+(6) The Garda Commissioner shall—
+
+(*a*) inform the Authority of the measures taken to achieve the objectives of the priorities determined and performance targets established under this section and of the outcome of those measures, and
+
+(*b*) supply that information within the time specified by the Authority or, if no such time is specified, in the annual report submitted to the Authority under *section 46*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F28: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 18, S.I. No. 612 of 2015.
+
+#### 20A. Setting of priorities by Minister for security services
+
+F29[**20A.** (1) The Minister may—
+
+(*a*) determine, and from time to time revise, priorities for the Garda Síochána in performing its functions relating to security services, and
+
+(*b*) establish, and from time to time revise, levels of performance ("performance targets") to be aimed at in seeking to achieve the objective of each priority referred to in *paragraph (a)*.
+
+(2) The Minister shall—
+
+(*a*) consult with the Garda Commissioner before determining or revising priorities or establishing or revising performance targets, and
+
+(*b*) supply the Garda Commissioner with a copy of the determined priorities, the established performance targets and any revisions to those priorities or performance targets.
+
+(3) Subject to *subsection (4)*, as soon as practicable after the determination or revision of priorities and the establishment or revision of performance targets, the Minister shall cause a copy of the priorities or performance targets or revisions thereto, as the case may be, to be laid before each House of the Oireachtas.
+
+(4) The Minister may exclude from the copy of the priorities or performance targets or revisions thereto, as the case may be, to be laid before each House of the Oireachtas any matter that, in his or her opinion—
+
+(*a*) would be prejudicial to the interests of national security, or
+
+(*b*) might facilitate the commission of an offence, prejudice a criminal investigation or jeopardise the safety of any person.
+
+(5) The Garda Commissioner shall—
+
+(*a*) inform the Minister of the measures taken to achieve the objectives of the priorities determined and performance targets established under this section and of the outcome of those measures, and
+
+(*b*) supply that information within the time specified by the Minister.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F29: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 18, S.I. No. 612 of 2015.
+
+#### 21. Strategy statement.
+
+**21**. F30[(1) Subject to *subsection (6)* —
+
+(*a*) not later than 6 months after the establishment day of the Authority, and
+
+(*b*) not later than 3 months before the expiry of the period to which the previous strategy statement relates,
+
+the Garda Commissioner shall submit to the Authority for its approval (with the consent of the Minister) a strategy statement for the Garda Síochána and for policing services for the following 3 years.]
+
+(2) The strategy statement F31[...] must include the following:
+
+(*a*) a mission statement;
+
+(*b*) medium term objectives, the strategies to achieve those objectives and the expected outputs and outcomes;
+
+(*c*) an identification of issues of concern to Departments of State and agencies in the State and a plan for managing those issues.
+
+(3) In preparing the strategy statement, the Garda Commissioner shall have regard to the following matters:
+
+(*a*) relevant Government policy;
+
+F32[(b) the priorities determined by the Authority under *section 20* relating to policing services and any priorities that may be determined by the Minister under *section 20A* relating to security services;]
+
+(*c*) the resources expected to be available to the Garda Síochána for the period to which the statement F32[relates;]
+
+(*d*) the need to ensure the most beneficial, effective and F32[efficient use of those resources;]
+
+F33[(e) the policing principles]
+
+(4) F34[The Authority shall, with the consent of the Minister, approve] the strategy statement—
+
+(*a*) in the form of the draft submitted, or
+
+F34[(b) with such amendments as the Authority with the consent of the Minister, after consulting with the Garda Commissioner, may determine.]
+
+F34[(5) As soon as practicable after the approval of the strategy statement under *subsection (4)*, the Authority shall send a copy of the approved strategy statement to the Minister and the Minister shall cause a copy of it to be laid before each House of the Oireachtas as soon as practicable after he or she receives it.]
+
+(6) F34[The Authority] may direct that the strategy statement be submitted at shorter intervals than every 3 years and cover a shorter period than 3 years.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F30: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 19(a), S.I. No. 612 of 2015.
+>
+> F31: Deleted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 19(b), S.I. No. 612 of 2015.
+>
+> F32: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 19(c)(i)-(iii), S.I. No. 612 of 2015.
+>
+> F33: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 19(c)(iv), S.I. No. 612 of 2015.
+>
+> F34: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 19(d)-(f), S.I. No. 612 of 2015.
+
+#### 22. Annual policing plan.
+
+**22**.—F35[(1) The Garda Commissioner shall each year prepare a policing plan setting out the proposed arrangements for policing services for the following year.]
+
+(2) In preparing a policing plan, the Garda Commissioner shall have regard to the following:
+
+(*a*) the priorities determined and performance targets established under *section 20*;
+
+(*b*) the strategy statement in operation under *section 21* during the year to which the plan relates;
+
+(*c*) relevant directives issued under *section 25*;
+
+(*d*) the resources expected to be available to the Garda Síochána for that year and the proposed allocation of those resources;
+
+(*e*) relevant F35[Government policy;]
+
+F36[(f) the policing principles.]
+
+(3) In preparing the policing plan, the Garda Commissioner may have regard to the most recent report of each joint policing committee.
+
+(4) Before the month of November in each year, the Garda Commissioner shall submit to F37[the Authority] for approval a draft of the policing plan for the following year.
+
+(5) F37[The Authority shall, with the consent of the Minister, approve] the policing plan—
+
+(*a*) in the form of the draft submitted, or
+
+F37[(*b*) with such amendments as the Authority with the consent of the Minister, after consulting with the Garda Commissioner, may determine.]
+
+F37[(6) As soon as practicable after the approval of the policing plan under *subsection (5)*, the Authority shall send a copy of the approved policing plan to the Minister and the Minister shall cause a copy of it to be laid before each House of the Oireachtas as soon as practicable after he or she receives it.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F35: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 20(a), (b)(i), S.I. No. 612 of 2015.
+>
+> F36: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 20(b)(ii), S.I. No. 612 of 2015.
+>
+> F37: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 20(c)-(e), S.I. No. 612 of 2015.
+
+#### 23. Three year review report.
+
+**23**.— (1) At the end of each 3 year period, the Garda Commissioner shall submit to F38[the Authority] a report, prepared by the Commissioner, containing a review of the efficiency and effectiveness of the management and deployment of resources available to the Garda Síochána F39[for policing services] during that 3 year period.
+
+(2) The first 3 year period begins on the day this section comes into operation and each subsequent 3 year period begins on the day after the end of the period for which the previous report was submitted.
+
+(3) The report may contain recommendations that the Garda Commissioner considers necessary for improving the management and deployment of resources.
+
+(4) As soon as practicable F40[after receiving the report, the Authority shall send a copy of the report to the Minister and the Minister shall], subject to *subsection (5)*, cause a copy of it to be laid before each House of the Oireachtas.
+
+(5) The Minister may exclude from the copies of reports that are to be laid before the Houses of the Oireachtas any matter that, in his or her opinion—
+
+(*a*) would be prejudicial to the interests of national security, or
+
+(*b*) might facilitate the commission of an offence, prejudice a criminal investigation or jeopardise the safety of any person.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F38: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 21(a), S.I. No. 612 of 2015.
+>
+> F39: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 21(a), S.I. No. 612 of 2015.
+>
+> F40: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 21(b), S.I. No. 612 of 2015.
+
+#### 24. Professional Standards Unit.
+
+**24**.— (1) As soon as practicable after the commencement of this section, the Garda Commissioner shall establish a Professional Standards Unit, to be headed by an officer not below the rank of chief superintendent, to—
+
+(*a*) examine and review, as directed by the Commissioner, the operational, administrative and management performance of the Garda Síochána at all levels,
+
+(*b*) propose measures to the Commissioner to improve that performance, and
+
+(*c*) promote the highest standards of practice, as measured by reference to the best standards of comparable police services, in operational, administrative and management matters relating to the Garda Síochána.
+
+(2) Not later than 31 March in each year, the Garda Commissioner shall submit a report to F41[the Authority] on the activities of the Professional Standards Unit in the preceding year.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F41: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 22, S.I. No. 612 of 2015.
+
+#### 25. Directives.
+
+**25**.— (1) Following the approval of the Government, the Minister may issue to the Garda Commissioner written directives concerning any matter relating to the Garda Síochána.
+
+F42[(1A) The Authority may recommend to the Minister that a directive concerning a specified matter relating to policing services be issued under *subsection (1)*.
+
+(1B) Following the approval of the Government, the Minister may issue to the Authority written directives concerning any matter relating to policing services insofar as the matter concerned relates to the functions of the Authority under this Act.]
+
+F43[(2) The Garda Commissioner and the Authority shall, in performing their respective functions under this Act, comply with any directive issued to the Commissioner or the Authority, as the case may be, under this section.]
+
+(3) As soon as practicable after issuing a directive under this section, the Minister shall cause a copy of the directive to be laid before each House of the Oireachtas, but if compliance with this requirement might prejudice the security of the State or might impede the prevention, investigation or prosecution of an offence, it is sufficient if a written statement indicating that a directive has been issued is laid before each House.
+
+(4) The Minister’s power under *subsection (1)* may not be exercised to limit the independence of a member of the Garda Síochána in performing functions relating to the investigation of a specific offence or the prosecution of an offence as authorised by *section 8*.
+
+(5) The Garda Commissioner shall inform the Minister of the measures taken by the Commissioner to comply with a directive issued under this section and supply the information within the time specified by the Minister.
+
+F44[(6) The Authority shall inform the Minister of the measures taken by the Authority to comply with a directive issued to it under this section and supply the information within the time specified by the Minister.
+
+(7) The Minister shall supply the Authority with the information supplied to him or her by the Garda Commissioner under *subsection (5)* regarding the measures taken by the Garda Síochána to comply with a directive issued to the Commissioner under this section if and insofar as the directive and that information relate to policing services.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F42: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 23(a), S.I. No. 612 of 2015.
+>
+> F43: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 23(b), S.I. No. 612 of 2015.
+>
+> F44: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 23(c), S.I. No. 612 of 2015.
+
+#### 26. Functions of Garda Commissioner.
+
+**26**.— (1) Subject to this Act and the regulations, the Garda Commissioner has the following functions:
+
+(*a*) to direct and control the Garda Síochána;
+
+(*b*) to carry on and manage and control generally the administration and business of the Garda Síochána, including by arranging for the recruitment, training and appointment of its members and civilian staff;
+
+(*c*) to advise the Minister on policing and security matters;
+
+F45[(*ca*) to assist and co-operate with the Authority in order to facilitate the performance by the Authority of its functions under this Act;]
+
+(*d*) to perform any other functions that are assigned to him or her by this Act or that may, by regulation, be assigned to him or her.
+
+(2) In performing his or her functions, the Garda Commissioner shall have regard to the following matters:
+
+(*a*) the objective of promoting effectiveness, efficiency and economy in the Garda Síochána;
+
+(*b*) the priorities and performance targets in operation F46[under *sections 20* and *20A*] at the relevant time;
+
+(*c*) any relevant policies of the Minister or the Government;
+
+(*d*) the strategy statement in operation under *section 21* at that time;
+
+(*e*) the annual policing plan prepared under *section 22*;
+
+F46[(*f*) any directive issued to him or her under *section 25*;
+
+(*g*) the policing principles.]
+
+(3) The Garda Commissioner is accountable to the Minister for the performance of the Commissioner’s functions and those of the Garda Síochána.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F45: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 24(a), S.I. No. 612 of 2015.
+>
+> F46: Substituted and para. (g) inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 24(b), S.I. No. 612 of 2015.
+>
+> F47: Inserted by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 28, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C4: Prospective affecting provision: subs. (1)(aa) inserted by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 28, not commenced as of date of revision.
+>
+> F47[(*aa*) to perform the functions assigned to him or her by regulations made under *section 122(1)(kk)* and any associated functions;]
+
+#### 27. Arrangements for obtaining views of public.
+
+**27**.— (1) The Garda Commissioner F48[and the Authority, having regard to the respective functions of the Commissioner and the Authority under this Act,] shall make arrangements for obtaining the views of the public about F49[matters concerning policing services].
+
+(2) Before making any arrangements under this section, the Garda Commissioner shall consult with F50[the Authority] about the proposed arrangements and F50[the Authority] may approve the arrangements—
+
+(*a*) as proposed, or
+
+(*b*) with such revisions as F50[the Authority], after consulting with the Commissioner, may determine.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F48: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 25(a)(i), S.I. No. 612 of 2015.
+>
+> F49: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 25(a)(ii), S.I. No. 612 of 2015.
+>
+> F50: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 25(b), S.I. No. 612 of 2015.
+
+#### 28. Power to enter into agreements with other law enforcement agencies.
+
+**28**.— (1) With the prior consent of the Government, the Garda Commissioner may, on behalf of the Garda Síochána, enter into an agreement with a police service or other law enforcement agency outside the State.
+
+(2) The agreement may provide for the co-operation of the parties or the exchange of information or such other matters as the Garda Commissioner thinks fit.
+
+#### 28A. Power to enter into agreements with relevant persons or bodies outside the State
+
+F51[**28A.** (1) The Garda Commissioner may, with the prior consent of the Government, enter into an agreement on behalf of the Garda Síochána with a relevant person or body for the purpose of facilitating the performance by each party to the agreement of their respective functions, which agreement may, for that purpose, provide for—
+
+(*a*) the co-operation of the parties,
+
+(*b*) the exchange of information between the parties, or
+
+(*c*) such other matters as the Garda Commissioner thinks fit.
+
+(2) Subject to the General Data Protection Regulation and the Data Protection Acts 1988 to 2018, the Garda Commissioner may, pursuant to and in accordance with the terms of an agreement under this section, provide information to, and receive information from, the other party to the agreement.
+
+(3) In this section—
+
+"General Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 [^1]on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC;
+
+"relevant person or body" means a person or body outside the State in whom or in which functions are vested under the law of a place other than the State that are equivalent, or similar, to the functions of—
+
+(*a*) the Ombudsman Commission under this or any other enactment,
+
+(*b*) the Garda Síochána Inspectorate under this or any other enactment,
+
+(*c*) the Authority under this or any other enactment,
+
+(*d*) a coroner under the Coroners Act 1962,
+
+(*e*) a commission of investigation under the Commissions of Investigation Act 2004,
+
+(*f*) a tribunal of inquiry under the Tribunals of Inquiry (Evidence) Acts 1921 to 2011, or
+
+(*g*) the Criminal Assets Bureau.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F51: Inserted (4.09.2019) by *Criminal Justice (International Co-Operation) Act 2019* (27/2019), s. 5, S.I. No. 443 of 2019.
+>
+> **Editorial Notes:**
+>
+> E24: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 29. Powers relating to contracts, bank accounts, etc.
+
+**29**.— (1) Subject to this Act and the regulations, the Garda Commissioner may, for the purposes of performing his or her functions under this Act in relation to the administration and business of the Garda Síochána—
+
+(*a*) enter on behalf of the Garda Síochána into a contract with any person or body concerning any matter arising in relation to those functions,
+
+(*b*) with the prior consent of the Minister and the Minister for Finance, operate in the State or elsewhere bank accounts of any description, and
+
+(*c*) do any other thing necessary for enabling the Commissioner to perform those functions.
+
+(2) Subject to the consent of the Minister and the Minister for Finance, the power conferred by *subsection (1)(a)* includes the power to engage consultants or advisers to assist the Garda Commissioner in performing functions under this Act.
+
+(3) The power conferred by *subsection (1)(a)* does not include the power to enter into a contract relating to land or an interest in land.
+
+(4) The Garda Commissioner may sue and be sued in the name of his or her office.
+
+(5) A contract entered into under this section by a person holding the office of Garda Commissioner is binding on and enforceable by that person and his or her successors in office, but neither that person nor any successor in office is personally liable on the contract.
+
+(6) *Subsection (5)* applies whether or not the contract was entered into pursuant to a power delegated under *section 31*.
+
+(7) Notwithstanding *subsection (1)(b)*, the Garda Commissioner does not have power to borrow money by means of a bank overdraft or otherwise.
+
+#### 30. Provision of police services for certain events, etc.
+
+**30**.— (1) At the request of a person, the Garda Commissioner may provide and charge for police services for events on private property or in areas open to the public or, subject to the regulations, for police services of a kind described in *subsection (3)*, if—
+
+(*a*) it is in the public interest and consistent with the functions of the Garda Síochána to provide the services, and
+
+(*b*) the Commissioner is satisfied that the person has paid or will pay to the Commissioner the charges for the services.
+
+(2) The following are examples of the types of events for which police services may be provided under this section:
+
+(*a*) sports fixtures;
+
+(*b*) concerts;
+
+(*c*) festivals and exhibitions;
+
+(*d*) meetings and conferences;
+
+(*e*) the making of films, videos, television programmes and advertisements;
+
+(*f*) appearances by individuals or groups of individuals likely to attract large numbers of people.
+
+(3) Police services relating to the protection, whether by means of police escorts or otherwise, of persons or property at risk of harm while in transit within the State may be provided under this section, but only in the circumstances and to the extent authorised by regulation under *section 122(1)(o)*.
+
+(4) Subject to any regulation under *section 122(1)(p)*, the Garda Commissioner may set charges for police services provided under this section that are sufficient to cover the costs of providing those services.
+
+(5) The Public Offices Fees Act 1879 does not apply to any charges payable under this section.
+
+(6) The Garda Commissioner may recover as a simple contract debt in any court of competent jurisdiction, from the person by whom it is payable, any amount due under this section.
+
+#### 31. Delegation of Garda Commissioner’s functions.
+
+**31**.— (1) Subject to the regulations, the Garda Commissioner may, in writing, delegate any of his or her functions under this Act to—
+
+(*a*) members of the Garda Síochána specified by rank or name, or
+
+(*b*) members of the Garda Síochána’s civilian staff specified by grade, position, name or otherwise.
+
+(2) A delegation under this section may—
+
+(*a*) relate to the performance of a function either generally or in a particular case or class of case or in respect of a particular matter,
+
+(*b*) be made subject to conditions or restrictions, and
+
+(*c*) be revoked or varied by the Garda Commissioner at any time.
+
+(3) The delegation of a function does not preclude the Garda Commissioner from performing the function.
+
+(4) Where the Garda Commissioner’s functions under a provision of this Act are delegated to a person, any references in that provision to the Commissioner are to be read as references to that person.
+
+(5) An act or thing done by a person pursuant to a delegation under this section has the same force and effect as if done by the Garda Commissioner.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C5: Application of section restricted (13.11.2023) by *Sex Offenders Act 2001* (18/2001), s. 14H, as inserted by *Sex Offenders (Amendment) Act 2023* (9/2023), s. 13, S.I. No. 539 of 2023, in effect as per art. 2(a).
+>
+> **Power of Commissioner to conduct research and publish information**
+>
+> **14H.** (1) The Commissioner may undertake, commission or assist in research projects related to any matter relevant to his or her functions in protecting the public, or members of the public, from the risk of harm posed by relevant offenders.
+>
+> ...
+>
+> (3) Section 31 of the Act of 2005 shall apply to the function of the Commissioner under subsection (1) as it applies to his or her functions under that Act, subject to the modification that the reference in subsection (4) thereof to a provision of that Act shall be read as a reference to subsection (1).
+>
+> C6: References construed (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 34(1), (3), S.I. No. 163 of 2023.
+>
+> **Application of section 31 of Act of 2005**
+>
+> **34.** (1) Subject to subsection (3), section 31 of the Act of 2005 shall apply to the functions of the Garda Commissioner under this Act and a reference in that section to a function under the Act of 2005 or under a provision of the Act of 2005 shall be construed as including a reference to a function of the Garda Commissioner under this Act.
+>
+> ...
+>
+> (3) In this section, a reference to “this Act” includes a reference to the Act of 2003 as applied by section 19.
+>
+> C7: References construed and functions of Commissioner extended by *Criminal Justice (Mutual Assistance) Act 2008* (7/2008), s. 95A(3) as inserted (12.12.2019) by *European Union (Eurojust) Regulations 2019* (S.I. No. 637 of 2019), reg. 6(c), in effect as per reg. 1(2).
+>
+> **[Eurojust national member**
+>
+> **95A.**
+>
+> ...
+>
+> **[**(2) The following persons or bodies shall, upon the request of the Eurojust national member, grant the member access to, or provide the member with the information contained in, the register or registers specified in paragraphs (a) to (k) in respect of the person or body concerned, in accordance with Article 9 of the 2018 Regulation, where such access or information is necessary for the performance by the member of the member’s functions:
+>
+> (a) the Commissioner of the Garda Síochána, in respect of registers held by the Garda Síochána relating to investigations, arrested persons and criminal records, including the Criminal Records Database and the database commonly known as PULSE;
+>
+> (b) Forensic Science Ireland of the Department of Justice and Equality, in respect of the DNA Database System;
+>
+> (c) the Director of Public Prosecutions, in respect of the case management system of the Office of the Director of Public Prosecutions;
+>
+> (d) the Courts Service, in respect of court records;
+>
+> (e) the Revenue Commissioners, in respect of the case management system of the Commissioners;
+>
+> (f) the Criminal Assets Bureau, in respect of the case management system of the Bureau;
+>
+> (g) the Central Authority, in respect of the case management system of the Authority;
+>
+> (h) the Central Authority in the State (within the meaning of section 3(1C) of the Extradition Act 1965), in respect of the case management system of the Authority;
+>
+> (i) the Garda Síochána Ombudsman Commission, in respect of the case management system of the Commission;
+>
+> (j) the Director of Corporate Enforcement, in respect of the case management system of the Office of the Director of Corporate Enforcement;
+>
+> (k) any other public authority, in respect of a register held by the authority.
+>
+> (3) Section 31 of the Garda Síochána Act 2005 shall apply to the function of the Commissioner of the Garda Síochána under subsection (2)(a) and a reference in that section to a function under that Act or under a provision of that Act shall be construed as including a reference to the function of the Commissioner under subsection (2)(a).**]**
+>
+> ...**]**
+>
+> C8: Application of section restricted (1.06.2007) by *Garda Síochána (Discipline) Regulations 2007* (S.I. No. 214 of 2007), reg. 6(1), in effect as per reg. 2, as amended (3.11.2015) by *Garda Síochána (Discipline) (Amendment) Regulations 2015* (S.I. No. 503 of 2015, reg. 2(b).
+>
+> *Restriction on delegation by Commissioner of functions under these regulations*
+>
+> 6\. (1) A delegation in writing by the Commissioner in accordance with section 31 of any functions to which this regulation applies may be made only to a member, or members of a specified rank, not below the rank of chief superintendent **[**or to the Chief Administrative Officer or to the Executive Director, Human Resources and People Development**]**.
+>
+> (2) Such a delegation may be made subject to any such terms, conditions or restrictions as may be determined by the Commissioner.
+>
+> (3) This regulation applies to any of the Commissioner’s functions under these regulations except those relating to dismissal, a requirement to retire or resign as an alternative to dismissal or a reduction in rank.
+
+#### 32. Exercise of functions in Garda Commissioner’s absence.
+
+**32**.— (1) The Minister may authorise a Deputy Garda Commissioner to perform the functions of the Garda Commissioner—
+
+(*a*) during any absence, incapacity or suspension from duty of the Garda Commissioner, or
+
+(*b*) during any vacancy in the office of Garda Commissioner.
+
+F52[(2) During any absence of the Garda Commissioner or other circumstance referred to in *paragraph (a)* or *(b)* of *subsection (1)*, the Minister may authorise an Assistant Garda Commissioner to perform the functions of the Garda Commissioner—
+
+(a) where the offices at the rank of Deputy Garda Commissioner are vacant, or
+
+(b) during any absence, incapacity or suspension from duty of all officers at the rank of Deputy Garda Commissioner.]
+
+F53[(3) The Minister shall notify the Authority of an authorisation given by him or her under *subsection (1)* or *(2)*.
+
+(4) Where a Deputy Garda Commissioner or an Assistant Garda Commissioner is authorised under this section to perform the functions of the Garda Commissioner, the provisions of *section 11* relating to the removal from office of the Garda Commissioner (and not those relating to a Deputy Garda Commissioner or an Assistant Garda Commissioner, as the case may be) shall apply to such a Deputy Garda Commissioner or Assistant Garda Commissioner if the reasons for his or her removal from office relate to the performance of those functions during the period of his or her authorisation under this section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F52: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 26(a), S.I. No. 612 of 2015.
+>
+> F53: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 26(b), S.I. No. 612 of 2015.
+
+#### 33. Distribution of Garda Síochána.
+
+**33**.— (1) Subject to *section 22*, the Garda Commissioner shall determine the manner in which the Garda Síochána are to be distributed and stationed throughout the State.
+
+(2) The Garda Commissioner shall, to the extent practicable, ensure that members of the Garda Síochána stationed in a district that includes a Gaeltacht area are sufficiently competent in the Irish language to enable them to use it with facility in carrying out their duties.
+
+(3) In this section “Gaeltacht area” means an area for the time being determined to be a Gaeltacht area by order made under section 2 of the Ministers and Secretaries (Amendment) Act 1956 F54[and continued to be such an area by section 7(1) of the Gaeltacht Act 2012].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F54: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 27, S.I. No. 612 of 2015.
+>
+> F55: Substituted by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 4(1) and sch. 1 ref. no. 23, not commenced as of date of revision, subject to transitional provisions in ss. 13, 26.
+>
+> **Modifications (not altering text):**
+>
+> C9: Prospective affecting provision: subs. (2) amended by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 4(1) and sch. 1 ref. no. 23, not commenced as of date of revision, subject to transitional provisions in ss. 13, 26.
+>
+> **33.** ...
+>
+> (2) The Garda Commissioner shall, to the extent practicable, ensure that members of the Garda Síochána stationed in F55[an area] that includes a Gaeltacht area are sufficiently competent in the Irish language to enable them to use it with facility in carrying out their duties.
+>
+> ...
+
+### Chapter 3AAmendment of Garda Sochna Act 2005 — Chapter 3A — Amendment of Garda Síochána Act 2005
+
+#### 33A. Establishment day.
+
+F56[**33A.**— F57[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F56: Inserted by *Criminal Justice Act 2007* (29/2007), s. 41, not commenced.
+>
+> F57: Repealed (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 7 and sch., S.I. No. 612 of 2015.
+
+#### 33B. Establishment of Garda Síochána Executive Management Board.
+
+F58[**33B.**— F59[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F58: Inserted by *Criminal Justice Act 2007* (29/2007), s. 41, not commenced.
+>
+> F59: Repealed (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 7 and sch., S.I. No. 612 of 2015.
+
+#### 33C. Membership of Board.
+
+F60[**33C.**— F61[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F60: Inserted by *Criminal Justice Act 2007* (29/2007), s. 41, not commenced.
+>
+> F61: Repealed (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 7 and sch., S.I. No. 612 of 2015.
+
+#### 33D. Appointment, etc., of non-executive members.
+
+F62[**33D.**— F63[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F62: Inserted by *Criminal Justice Act 2007* (29/2007), s. 41, not commenced.
+>
+> F63: Repealed (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 7 and sch., S.I. No. 612 of 2015.
+
+#### 33E. Function of Board.
+
+F64[**33E.**—F65[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F64: Inserted by *Criminal Justice Act 2007* (29/2007), s. 41, not commenced.
+>
+> F65: Repealed (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 7 and sch., S.I. No. 612 of 2015.
+
+#### 33F. Provision of information to non-executive members by Garda Commissioner.
+
+F66[33F.— F67[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F66: Inserted by *Criminal Justice Act 2007* (29/2007), s. 41, not commenced.
+>
+> F67: Repealed (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 7 and sch., S.I. No. 612 of 2015.
+
+#### 33G. Reports to Minister.
+
+F68[**33G**.— F69[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F68: Inserted by *Criminal Justice Act 2007* (29/2007), s. 41, not commenced.
+>
+> F69: Repealed (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 7 and sch., S.I. No. 612 of 2015.
+
+#### 33H. Saving.
+
+F70[**33H.**— F71[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F70: Inserted by *Criminal Justice Act 2007* (29/2007), s. 41, not commenced.
+>
+> F71: Repealed (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 7 and sch., S.I. No. 612 of 2015.
+
+### Chapter 4 Co-operation with Local Authorities and Security in Public Places — Chapter 4 — Co-operation with Local Authorities and Security in Public Places
+
+#### 34. Definitions (Chapter 4).
+
+**34**.— In this Chapter, unless the context otherwise requires, “administrative area” F72[...] and “public authority” have the meanings given by section 2 of the Local Government Act 2001.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F72: Deleted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 28, S.I. No. 612 of 2015.
+
+#### 35. Guidelines concerning joint policing committees.
+
+**35**.— F73[(1) The Authority shall, after consulting with the Minister and the Minister for the Environment, Community and Local Government, issue to local authorities and the Garda Commissioner guidelines concerning the establishment and maintenance of joint policing committees by local authorities and the Garda Commissioner.]
+
+(2) Guidelines issued under this section concerning a joint policing committee may include provision for—
+
+(*a*) the establishment of the committee,
+
+(*b*) the membership of the committee, including the appointment to it of—
+
+(i) members of the local authority concerned nominated by it for such appointment,
+
+(ii) members of the Garda Síochána nominated by the Garda Commissioner in accordance with *subsection (3)*,
+
+(iii) F73[members of the Houses of the Oireachtas],
+
+(iv) persons nominated by other public authorities, and
+
+(v) such other persons (including persons representing local community interests) as may be provided for in the guidelines,
+
+(*c*) the appointment as chairperson of the committee of a member of the local authority concerned who has been nominated in accordance with *paragraph (b)(i)*,
+
+(*d*) the term of office of the chairperson and other members of the committee,
+
+(*e*) matters arising in connection with the attendance at committee meetings of members who are also F73[members of the Houses of the Oireachtas],
+
+(*f*) the circumstances in which committee meetings may be held otherwise than in public,
+
+(*g*) the establishment, membership, terms of reference and procedures of subcommittees,
+
+(*h*) the preparation of reports by the committee, their ratification by the local authority concerned and their distribution,
+
+(*i*) the co-operation of the committee with other joint policing committees,
+
+(*j*) the joint action of the committee and other joint policing committees,
+
+(*k*) the funding of the committee and F73[any subcommittees,]
+
+F73[(*l*) the establishment and operation by the committee as it considers necessary of local policing fora within neighbourhoods of the administrative area of the local authority concerned to discuss and make recommendations to the committee concerning matters that the committee is to keep under review under *section 36(2)(a)* or on which the committee is to advise under section *36(2) (b)*, insofar as those matters affect their neighbourhoods,
+
+(*m*) the co-operation of, and consultation by, the committee with such other public authorities, bodies or persons, including local policing fora referred to in *paragraph (l)*, as may be required by the committee in the performance of its functions, and
+
+(*n*) such other matters as the Authority considers appropriate.]
+
+(3) In nominating members of the Garda Síochána for appointment to a joint policing committee, the Garda Commissioner shall have regard to the need to ensure that such members are of appropriate rank and seniority.
+
+F73[(4) The Authority may, after consulting with the Minister and the Minister for the Environment, Community and Local Government—
+
+(*a*) revise any guidelines issued under this section, or
+
+(*b*) withdraw those guidelines and issue new guidelines.
+
+(5) The Authority shall supply a copy of guidelines issued under this section, and of any revisions to them, to the Minister as soon as practicable after the guidelines are issued or revised and the Minister shall cause a copy of such guidelines, and of any revisions to them, to be laid before each House of the Oireachtas as soon as practicable after he or she receives them.]
+
+F74[(6) The Authority may convene meetings of the chairpersons, and such other members as the Authority considers appropriate, of joint policing committees for the purpose of coordinating, or otherwise facilitating, the performance by such committees of the functions assigned to them.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F73: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015 (49/2015)*, s. 29(1)(a)-(c), S.I. No. 612 of 2015, subject to transitional provisions in subs. (2).
+>
+> F74: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 29(1)(d), S.I. No. 612 of 2015.
+
+#### 36. Establishment and functions of joint policing committees.
+
+**36**.— (1) A local authority and the Garda Commissioner shall arrange for the establishment of a joint policing committee in accordance with guidelines issued under *section 35*.
+
+(2) The joint policing committee’s function is to serve as a forum for consultations, discussions and recommendations on matters affecting the policing of the local authority’s administrative area, and in particular to—
+
+(*a*) keep under review—
+
+(i) the levels and patterns of crime, disorder and antisocial behaviour in that area (including the patterns and levels of misuse of alcohol and drugs), and
+
+(ii) the factors underlying and contributing to the levels of crime, disorder and anti-social behaviour in the area,
+
+(*b*) advise the local authority concerned and the Garda Síochána on how they might best perform their functions having regard to the need to do everything feasible to improve the safety and quality of life and to prevent crime, disorder and anti-social behaviour within the area,
+
+(*c*) arrange and host public meetings concerning matters affecting the policing of the local authority’s administrative area,
+
+(*d*) F75[...]
+
+(*e*) co-ordinate the activities of F76[local policing fora established in accordance with guidelines issued under *section 35*].
+
+(3) F77[...]
+
+(4) Neither the joint policing committee nor any of its subcommittees may consider matters relating to a specific criminal investigation or prosecution or matters relating to the security of the State.
+
+(5) Not later than 3 months after the end of each year, the joint policing committee shall—
+
+(*a*) submit to the local authority a report on the performance of its functions during the preceding year, and
+
+(*b*) supply a copy of the report to F78[the Authority,] the Minister, the Garda Commissioner and such other persons as may be specified in the guidelines issued under *section 35*.
+
+(6) A statement that, in the course of a discussion at a meeting of a joint policing committee or of any of its subcommittees, is made in any form and without malice by a member of the committee or subcommittee or by a person attending the meeting at the request of the committee or subcommittee is privileged for purposes of the law of defamation and so is any subsequent publication of the statement made without malice.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F75: Deleted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 30(1)(a)(i), S.I. No. 612 of 2015.
+>
+> F76: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 30(1)(a)(ii), S.I. No. 612 of 2015.
+>
+> F77: Deleted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 30(1)(b), S.I. No. 612 of 2015.
+>
+> F78: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 30(1)(c), S.I. No. 612 of 2015.
+>
+> **Editorial Notes:**
+>
+> E25: Existing policing for a authorised to continue in operation in accordance with guidelines under s. 35 (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 30(2), S.I. No. 612 of 2015.
+
+#### 37. Duty of local authorities.
+
+**37**.— (1) A local authority shall, in performing its functions, have regard to the importance of taking steps to prevent crime, disorder and anti-social behaviour within its area of responsibility.
+
+(2) *Subsection (1)* is not to be taken to confer on any person a right in law that the person would not otherwise have to require a local authority to take any steps referred to in that subsection or to seek damages for a local authority’s failure to take such steps.
+
+#### 38. Security in public places.
+
+**38**.— (1) The Garda Commissioner may authorise the installation and operation of CCTV for the sole or primary purpose of securing public order and safety in public places by facilitating the deterrence, prevention, detection and prosecution of offences.
+
+(2) The Garda Commissioner shall specify the areas within which, based on the information available to him or her, the installation and operation of CCTV is warranted for the purpose specified in *subsection (1)*.
+
+(3) Authorisation may be given to any or all of the following:
+
+(*a*) members of the Garda Síochána;
+
+(*b*) persons who meet the established criteria and who are retained under a contract with the Garda Commissioner;
+
+(*c*) persons who meet the established criteria and whose application for authorisation in respect of a specified area within the administrative area of a local authority has been approved by the local authority after consulting with the joint policing committee for that administrative area.
+
+(4) The Garda Commissioner shall establish criteria for the purposes of *subsection (3)(b)*.
+
+(5) F79[The Authority shall, by order, made with the approval of the Government], establish criteria for the purposes of *subsection (3)(c)* and may establish different criteria for different classes of applicants for authorisation.
+
+(6) An authorisation may contain such terms and conditions as the Garda Commissioner considers necessary—
+
+(*a*) generally for the purpose of this section, and
+
+(*b*) in relation only to an authorisation given under *subsection (3)(c)*, for the purposes of controlling and supervising the operation of the CCTV to which the authorisation relates.
+
+(7) A person given an authorisation under *subsection (3)(c)* shall ensure that members of the Garda Síochána have access at all times to the CCTV to which that authorisation relates for the purpose of—
+
+(*a*) supervising and controlling the operation of the CCTV on behalf of the Garda Commisioner, or
+
+(*b*) retrieving information or data recorded by the CCTV.
+
+(8) The Garda Commissioner may—
+
+(*a*) issue directions to authorised persons in relation to the installation and operation of CCTV, and
+
+(*b*) with F79[the consent of the Authority], revoke, for failure to comply with the terms and conditions of the authorisation or with a direction issued by the Commissioner, an authorisation given under *subsection (3)(c)*.
+
+(9) On being notified by the Garda Commissioner of the revocation of an authorisation under *subsection (8)*, the person to whom the authorisation was given shall terminate the operation of the CCTV to which the revoked authorisation relates.
+
+(10) A person who contravenes *subsection (9)* is guilty of an offence and is liable on summary conviction to a fine not exceeding €2,500 or imprisonment for a term not exceeding 6 months or both.
+
+(11) F79[The Authority, with the consent of the Minister]—
+
+(*a*) shall issue guidelines to the Garda Commissioner concerning the supervision and control by the Commissioner of the monitoring of CCTV by authorised persons, and
+
+(*b*) may revise those guidelines or may withdraw them and issue new guidelines.
+
+F79[(12) The Authority shall supply a copy of any guidelines issued under this section, and of any revisions to them, to the Minister as soon as practicable after the guidelines are issued or revised and the Minister shall cause a copy of any such guidelines, and of any revisions to them, to be laid before each House of the Oireachtas as soon as practicable after he or she receives them.]
+
+(13) This section does not apply to the installation or operation of CCTV on any premises by the owner or occupier of the premises for the purpose of safeguarding persons or property on the premises or in its environs.
+
+(14) In this section—
+
+“authorisation” means an authorisation given by the Garda Commissioner under this section;
+
+“authorised person” means a person referred to in *subsection (3)(b)* or *(c)* who holds an authorisation;
+
+“CCTV” means any fixed and permanent system employing optical devices for recording visual images of events occurring in public places;
+
+“operation”, in relation to CCTV, includes the maintainance and monitoring of CCTV;
+
+“public place” means a place to which the public have or are permitted access, whether as of right or by express or implied permission;
+
+“specified area” means an area specified under *subsection (2)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F79: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 31(a)-(d), S.I. No. 612 of 2015.
+>
+> F80: Inserted by *Policing, Security and Community Safety Act 2024* (1/2024), not commenced as of date of revision.
+>
+> F81: Repealed by *Garda Síochána (Recording Devices) Act 2023* (32/2023), s. 6(1), not commenced as of date of revision, subject to transitional provision in s. 7.
+>
+> **Modifications (not altering text):**
+>
+> C10: Prospective affecting provision: subss. (15)-(20) inserted by *Policing, Security and Community Safety Act 2024* (1/2024), not commenced as of date of revision.
+>
+> F80[(15) On and from the establishment day of the Authority (within the meaning of Part 4 of the Policing, Security and Community Safety Act 2024), a reference in this section to the Authority shall be construed as a reference to the Authority (within the meaning of the Policing, Security and Community Safety Act 2024).
+>
+> (16) On and from the repeal of *section 3(1)* by section 5 of the Policing, Security and Community Safety Act 2024, the definitions of "Garda Commissioner", "local authority", "member" in relation to the Garda Síochána and "Minister" in that *section 3(1)* shall, for the purposes of this section, continue to apply as if that *section 3(1)* had not been repealed.
+>
+> (17) On and from the repeal of *section 34* by section 5 of the Policing, Security and Community Safety Act 2024, the definition of "administrative area" in that *section 34* shall, for the purposes of this section, continue to apply as if that *section 34* had not been repealed.
+>
+> (18) On and from the repeal of *section 36* by section 5 of the Policing, Security and Community Safety Act 2024, a reference in this section to a joint policing committee shall be construed as a reference to a safety partnership (within the meaning of Part 3 of the Policing, Security and Community Safety Act 2024).
+>
+> (19) Where, after the repeal of *section 36* by section 5 of the Policing, Security and Community Safety Act 2024, a joint policing committee has not been dissolved pursuant to regulations made under section 114(1) of that Act of 2024, a reference in this section in respect of an administrative area shall, for so long as the joint policing committee has not been dissolved, be construed as including a reference to that joint policing committee in respect of the administrative area concerned.
+>
+> (20) Where, immediately before the repeal of *section 36* by section 5 of the Policing, Security and Community Safety Act 2024, a consultation by a local authority in accordance with *subsection (3)(c)* is ongoing and one or more steps in the consultation was taken in accordance with that subsection before that repeal, other steps in the consultation may be taken on or after that repeal in accordance with this section as amended by section 279 of the Policing, Security and Community Safety Act 2024.]
+>
+> C11: Prospective affecting provision: section repealed by *Garda Síochána (Recording Devices) Act 2023* (32/2023), s. 6(1), not commenced as of date of revision, subject to transitional provision in s. 7.
+>
+> **38**.—F81[...]
+>
+> **Editorial Notes:**
+>
+> E26: Power pursuant to subs. (5) exercised (30.05.2006) by *Garda Síochána (CCTV) Order 2006* (S.I. No. 289 of 2006), in effect as per reg. 3; continued in effect until revocation by Authority with approval of the Government or replaced (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 59(3); prospectively revoked by *Garda Síochána (Recording Devices) Act 2023* (32/2023), s. 6(2), not commenced as of date of revision, subject to transitional provision in s. 7.
+>
+> E27: A fine of €2,500 translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### Chapter 5 Accountability of Members for discharge of official duties and duty of Garda Commissioner to account to the Government, etc. — Chapter 5 — Accountability of Members for discharge of official duties and duty of Garda Commissioner to account to the Government, etc.
+
+#### 39. Duty of members of Garda Síochána to account.
+
+**39**.— (1) A member of the Garda Síochána shall, when directed to do so by a member of a higher rank F82[or a designated officer of the Ombudsman Commission], account for any act done or omission made by the member while on duty.
+
+(2) A failure to comply with a direction under *subsection (1)* shall be the subject of disciplinary action in accordance with the Disciplinary Regulations.
+
+(3) The member concerned shall be informed by the member of higher rank F82[or designated officer] that such failure may lead to dismissal from the Garda Síochána.
+
+(4) Any information provided by a member of the Garda Síochána in accordance with a direction under *subsection (1)* is not admissible in any criminal proceedings against the member and this shall be explained to the member in ordinary language by the member of higher rank F82[or designated officer].
+
+(5) For the purpose of *subsection (4)* “criminal proceedings” does not include disciplinary proceedings.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F82: Inserted (18.05.2007) by *Criminal Justice Act 2007 (29/2007)*, s. 43(c)(i)-(ii), S.I. No. 236 of 2007.
+
+#### 40. Duty of Garda Commissioner to account to Government and provide material to Attorney General.
+
+**40**.— (1) The Garda Commissioner shall account fully to the Government and the Minister through the Secretary General of the Department of Justice, Equality and Law Reform for any aspect of his or her functions.
+
+F83[(1A) Notwithstanding *subsection (1)*, the Garda Commissioner shall report to the Authority with regard to policing services in order to facilitate the performance by the Authority of its functions under this Act.]
+
+(2) The Garda Commissioner’s duty under *subsection (1)* includes the duty to provide, on request by the Secretary General, any document in the power or control of the Garda Síochána, including material in the form of Garda records, statements made by members F84[...] and by other persons and reports.
+
+F85[(2A) The Garda Commissioner’s duty under *subsection (1A)* includes the duty to provide, on request by the Authority, any document relating to policing services in the power or control of the Garda Síochána.]
+
+(3) The Garda Commissioner shall provide the Attorney General with all of the material specified in *subsection (2)* that is required by the Attorney General in connection with the conduct of legal proceedings on behalf of the State.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F83: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 32(a), S.I. No. 612 of 2015.
+>
+> F84: Deleted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 32(b), S.I. No. 612 of 2015.
+>
+> F85: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 32(c), S.I. No. 612 of 2015.
+
+#### 41. Duty of Garda Commissioner to provide information to Minister.
+
+**41**.— (1) The Garda Commissioner shall keep the Minister and the Secretary General of the Department of Justice, Equality and Law Reform fully informed of the following:
+
+(*a*) matters relating to significant developments concerning—
+
+(i) the preservation of peace and public order in the State,
+
+(ii) the protection of life and property in the State, and
+
+(iii) the protection of the security of the State;
+
+(*b*) significant developments that might reasonably be expected to affect adversely public confidence in the Garda Síochána;
+
+(*c*) matters relevant to the accountability of the Government to the Houses of the Oireachtas;
+
+(*d*) any other matters that, in the Commissioner’s opinion, should be brought to the Minister’s attention.
+
+(2) Whenever required by the Minister, the Garda Commissioner shall submit to the Minister a report on any matters connected with the policing or security of the State or the performance of the Commissioner’s other functions that may be specified in the requirement.
+
+(3) A report under *subsection (2)* must—
+
+(*a*) address matters of general or specific concern that are specified in the Minister’s requirement, and
+
+(*b*) be made in the form and within the period specified in the requirement.
+
+F86[(3A) If and insofar as a report under *subsection (2)* relates to matters concerning policing services, the Minister shall inform the Authority of those matters.]
+
+(4) The Minister may publish all or part of a report submitted under this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F86: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), ss. 33, S.I. No. 612 of 2015.
+
+#### 41A. Duty of Garda Commissioner to provide information to Authority
+
+F87[**41A.** (1) The Garda Commissioner shall keep the Authority fully informed of the following:
+
+(*a*) matters relevant to the functions of the Authority under this Act;
+
+(*b*) any other matters that, in the opinion of the Commissioner, should be brought to the attention of the Authority having regard to its functions under this Act.
+
+(2) Whenever required by the Authority, the Garda Commissioner shall submit to the Authority a report on any matters connected with policing services or the performance of the functions of the Commissioner relating to such services that may be specified in the requirement.
+
+(3) A report under *subsection (2)* shall—
+
+(*a*) address the matters of general or specific concern that are specified in the Authority’s requirement, and
+
+(*b*) be made in the form and within the period specified in that requirement.
+
+(4) The Authority may publish all or a part of a report submitted under this section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F87: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), ss. 34, S.I. No. 612 of 2015.
+>
+> **Editorial Notes:**
+>
+> E28: The section heading is taken from the amending provision in the absence of one included in the amendment.
+
+#### 42. Special inquiries relating to Garda Síochána.
+
+F88[**42.**—F89[ (1) The Minister may, with respect to any matter considered by him or her to be of public concern, on his or her own initiative or, in the case of a matter relating to policing services, either—
+
+(*a*) having consulted with the Authority, or
+
+(*b*) on the request of the Authority, where the Authority is satisfied that an inquiry should be ordered,
+
+by order appoint a person to—
+
+(i) inquire into any aspect of the administration, operation, practice or procedure of the Garda Síochána, or the conduct of its members, and
+
+(ii) make a report to the Minister on the conclusion of the inquiry.
+
+(1A) If, following a request under *paragraph (b)* of *subsection (1)* from the Authority to do so, the Minister does not make an order under that subsection, the Minister shall inform the Authority of his or her reasons for not doing so.]
+
+(2) A person who, in the Minister’s opinion, has the experience, qualifications, training or expertise appropriate for the inquiry may be appointed to conduct the inquiry.
+
+F90[(3) The Minister shall, subject to *subsection (3A)*, specify the terms of reference of the inquiry in the order under *subsection (1)* and may, by order, made at any time before the submission of the final report, amend those terms of reference for the purpose of clarifying, limiting or extending the scope of the inquiry.
+
+(3A) Where the matter the subject of the inquiry relates to policing services, the Minister shall consult with the Authority before specifying or amending, as the case may be, the terms of reference of the inquiry.]
+
+(4) For the purpose of the inquiry, the appointed person—
+
+(*a*) may require a member of the Garda Síochána, F91[a member of the Authority nominated for that purpose by the Authority,] or any other person, who possesses information or possesses or controls a document or thing that is relevant to the inquiry to provide the information, document or thing to the appointed person, and
+
+(*b*) where appropriate, may require the member F91[, member of the Authority] or other person to attend before the appointed person for that purpose.
+
+(5) The member F91[, the member of the Authority] or other person shall co-operate with the inquiry and answer fully and truthfully any question put to him or her by the appointed person.
+
+F92[(6) Where the member, member of the Authority or other person fails to comply with a requirement under *subsection (4)*, the High Court may, on application by the appointed person and on notice to the member, member of the Authority or other person, as may be appropriate—
+
+(*a*) order the member, member of the Authority or person to comply with the requirement, and
+
+(*b*) include in the order any other provision it considers necessary to enable the order to have full effect.]
+
+(7) If the member F91[, member of the Authority] or other person fails to comply with such an order, the Court may treat the failure for all purposes as if it were a contempt of the Court.
+
+(8) A failure by the member to comply with a requirement under *subsection (4)* may be the subject of disciplinary action in accordance with the Disciplinary Regulations.
+
+(9) Any information, document or thing provided by a person in accordance with a requirement under *subsection (4)* is not admissible in any criminal proceedings against the person, and this shall be explained to the person in ordinary language by the appointed person.
+
+(10) The Minister may publish all or part of any report received under this section.
+
+(11) This section applies even if the matter considered by the Minister to be of public concern arose before the passing of this Act.
+
+(12) The power to order an inquiry under this Act is additional to any power conferred by this or another Act relating to inquiries or investigations.
+
+(13) In this section—
+
+"appointed person" means a person appointed under this section to conduct an inquiry;
+
+"criminal proceedings" does not include disciplinary proceedings.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F88: Substituted (18.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 42, S.I. No. 236 of 2007.
+>
+> F89: Substituted and inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015). s. 35(a), S.I. No. 612 of 2015.
+>
+> F90: Substituted and inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 35(b), S.I. No. 612 of 2015.
+>
+> F91: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 35(d), (f), S.I. No. 612 of 2015.
+>
+> F92: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 35(e), S.I. No. 612 of 2015.
+>
+> **Editorial Notes:**
+>
+> E29: Power pursuant to section exercised (11.01.2022) by *Garda Síochána Act 2005 (Section 42) (Special Inquiry relating to the Garda Síochána) (No. 2) (Amendment) Order 2022* (S.I. No. 11 of 2022).
+>
+> E30: Power pursuant to section exercised (15.05.2017) by *Garda Síochána Act 2005 (Section 42) (Special Inquiry relating to the Garda Síochána) (No. 5) Order 2017* (S.I. No. 200 of 2017), in effect as per reg. 1(2).
+>
+> E31: Power pursuant to section exercised (15.05.2017) by *Garda Síochána Act 2005 (Section 42) (Special Inquiry relating to the Garda Síochána) (No. 4) Order 2017* (S.I. No. 199 of 2017), in effect as per reg. 1(2).
+>
+> E32: Power pursuant to section exercised (15.05.2017) by *Garda Síochána Act 2005 (Section 42) (Special Inquiry relating to the Garda Síochána) (No. 3) Order 2017* (S.I. No. 198 of 2017), in effect as per reg. 1(2).
+>
+> E33: Power pursuant to section exercised (15.05.2017) by *Garda Síochána Act 2005 (Section 42) (Special Inquiry relating to the Garda Síochána) (No. 2) Order 2017* (S.I. No. 197 of 2017), in effect as per reg. 1(2).
+>
+> E34: Power pursuant to section exercised (15.05.2017) by *Garda Síochána Act 2005 (Section 42) (Special Inquiry relating to the Garda Síochána) Order 2017* (S.I. No. 196 of 2017), in effect as per reg. 1(2).
+>
+> E35: Power pursuant to section exercised (9.12.2013) by *Garda Síochána Act 2005 (Section 42) (Special Inquiries relating to Garda Síochána) Order 2013* (S.I. No. 481 of 2013).
+
+### Chapter 6 Accountability — Chapter 6 — Accountability
+
+#### 43. Accountability for accounts of Garda Síochána.
+
+**43**.— (1) The Garda Commissioner is the accounting officer in relation to the appropriation accounts of the Garda Síochána for the purposes of the Comptroller and Auditor General Acts 1866 to 1998.
+
+(2) Whenever required to do so by the Committee of Public Accounts, the Garda Commissioner shall give evidence to it on the following matters:
+
+(*a*) the regularity and propriety of the transactions recorded or required to be recorded in any book or record of account subject to audit by the Comptroller and Auditor General;
+
+(*b*) the economy and the efficiency of the Garda Síochána in using its resources;
+
+(*c*) the systems, procedures and practices employed by the Garda Síochána for evaluating the effectiveness of its operations;
+
+(*d*) any matter affecting the Garda Síochána that is referred to in—
+
+(i) a special report of the Comptroller and Auditor General under section 11(2) of the Comptroller and Auditor General (Amendment) Act 1993, or
+
+(ii) any other report of the Comptroller and Auditor General that is laid before Dáil Éireann in so far as the report relates to a matter specified in any of *paragraphs (a)* to *(c)*.
+
+(3) In carrying out duties under *subsection (2)*, the Garda Commissioner shall not—
+
+(*a*) question or express an opinion on the merits of any policy of the Government or a Minister of the Government or on the merits of the objectives of such policy,
+
+(*b*) discuss matters relating to the security of the State,
+
+(*c*) provide information, other than financial information, relating to specific criminal investigations or prosecutions except an investigation or prosecution relating to money or assets for which he or she is the accounting officer, or
+
+(*d*) provide information that might facilitate the commission of an offence, prejudice a criminal investigation or prosecution or jeopardise the safety of a person.
+
+#### 44. Audit committee: appointment of members, etc.
+
+**44**.— (1) As soon as practicable after the commencement of this section, the Garda Commissioner shall establish an audit committee to perform the functions specified in *section 45*.
+
+(2) The audit committee is to consist of the following persons, all of whom are to be appointed by F93[the Authority]:
+
+(*a*) a Deputy Garda Commissioner F94[or a member of the civilian staff of the Garda Commissioner of a grade equivalent to that of Deputy Garda Commissioner];
+
+(*b*) not fewer than 4 other persons who have relevant skills and experience and none of whom is, or has ever been, a member of the Garda Síochána.
+
+(3) F93[The Authority] shall designate as the chairperson of the audit committee one of the persons appointed under *subsection (2)(b)*.
+
+F93[(4) The members of the audit committee hold office for the period that may be determined by the Authority, but a member—
+
+(*a*) may resign from the committee by letter addressed to the Authority, or
+
+(*b*) may at any time be removed from office by the Authority for stated reasons.]
+
+(5) The members appointed under *subsection (2)(b)* hold office on such terms and conditions as may be F93[determined by the Authority with the consent of the Minister] and the Minister for Finance.
+
+(6) The Garda Commissioner shall ensure that the audit committee is provided with the necessary secretarial and other resources to enable it to perform its functions.
+
+F94[(7) The audit committee may act notwithstanding one or more than one vacancy in its membership, including a vacancy that results in *subsection (2)* not being complied with.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F93: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 36(1)(a)-(d), S.I. No. 612 of 2015, subject to transitional provisions in subs. (2).
+>
+> F94: Inserted (18.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 43(d), S.I. No. 236 of 2007.
+
+#### 45. Functions of audit committee.
+
+**45**.— (1) The audit committee shall—
+
+(*a*) advise the Garda Commissioner on F95[governance and financial matters] relating to his or her functions,
+
+(*b*) report in writing at least once a year to the Commissioner on those matters and on its activities in the previous year, and
+
+(*c*) provide F95[the Authority and the Minister] with a copy of each report.
+
+(2) The audit committee’s duties under *subsection (1)(a)* include advising on the following matters:
+
+(*a*) the proper implementation of F95[Government guidelines on governance and financial issues];
+
+(*b*) compliance with section 22 of the Exchequer and Audit Departments Act 1866, section 19 of the Comptroller and Auditor General (Amendment) Act 1993 and any other obligations imposed by law relating to financial matters;
+
+(*c*) the appropriateness, efficiency and effectiveness of the Garda Síochána’s procedures relating to—
+
+(i) public procurement,
+
+(ii) seeking sanction for expenditure and complying with that sanction,
+
+(iii) acquiring, keeping custody of and disposing of assets,
+
+(iv) risk management,
+
+(v) financial reporting, and
+
+(vi) internal audits.
+
+(3) The audit committee shall meet at least 4 times in each year and may invite a person who has responsibility within the Garda Síochána for internal audits or for any financial matters or any other person it considers appropriate to attend specific meetings.
+
+(4) The Garda Commissioner shall—
+
+(*a*) ensure that the audit committee is provided with all of the Garda Síochána’s audit reports, audit plans and monthly reports on expenditures, and
+
+(*b*) if he or she has reason to suspect that any material misappropriation of the money for which he or she is the accounting officer, or any fraudulent conversion or misapplication of the Garda Síochána’s property, may have taken place, report the matter to the committee as soon as practicable.
+
+(5) In addition, the Garda Commissioner shall, subject to *subsection (6)*, ensure that the audit committee is provided at its request with details of any financial matter or procedure necessary for performing its functions, including details relating to—
+
+(*a*) any contract that the Commissioner proposes to enter into and that involves the expenditure of more than an amount specified by the committee, and
+
+(*b*) any legal action against the Commissioner that gives rise to a potential financial liability.
+
+(6) Details shall not be provided under *subsection (5)* in response to a request if the Garda Commissioner—
+
+(*a*) considers that the provision of the details requested could prejudice the security of the State or endanger life, and
+
+(*b*) so certifies in a statement to the audit committee.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F95: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 37(a)-(b), S.I. No. 612 of 2015.
+
+#### 46. Annual report.
+
+**46**.— (1) Not later than 4 months after the end of each year, the Garda Commissioner shall submit to F96[the Authority] a report, in such form as F96[the Authority] may direct, on F96[policing services] during that year.
+
+(2) The report must include an account of the following F97[relating to policing services]:
+
+(*a*) the implementation of the policing plan for the year to which the report relates;
+
+(*b*) the performance of the Garda Síochána’s functions during that year;
+
+(*c*) the achievement of the performance targets established under *section 20* for the year;
+
+(*d*) the implementation of any directives under *section 25* laid before the Houses of the Oireachtas during the year;
+
+(*e*) any other matter that the Garda Commissioner thinks fit.
+
+F97[(2A) As soon as practicable and not later than 30 days after receiving the report, the Authority shall supply a copy of it to the Minister.]
+
+(3) As soon as practicable and not later than 30 days after receiving the report, the Minister shall cause a copy of it to be laid before each House of the Oireachtas.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F96: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 38(a), S.I. No. 612 of 2015.
+>
+> F97: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 38(b)-(c), S.I. No. 612 of 2015.
+
+#### 47. Statistical information.
+
+**47**.— (1) The Garda Commissioner shall ensure that, in respect of each specified period, statistical information concerning offences, criminal proceedings and the state of crime in the State is compiled and stored.
+
+(2) The Garda Commissioner shall make information compiled in accordance with *subsection (1)* available to the Minister and the Central Statistics Office at the times and in the manner that the Minister may require.
+
+(3) In this section “specified period” means—
+
+F98[(*a*) the period beginning on 1 July 2007 and ending 3 months after that date, and]
+
+(*b*) each subsequent period of 3 months beginning on the day after the end of the previous period.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F98: Substituted (18.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 43(e), S.I. No. 236 of 2007.
+
+### Chapter 7 Liability — Chapter 7 — Liability
+
+#### 48. Liability for certain acts of members of Garda Síochána.
+
+**48**.— (1) Where a member of the Garda Síochána commits an actionable wrong in the course of performing the member’s functions under this Act—
+
+(*a*) the State is liable to an action for damages in respect of damage resulting from the wrong as if the State were the employer of the member, and
+
+(*b*) the member is, for the purposes of such liability, deemed to be the servant of the State in so far as the member was acting in the course of performing his or her functions under this Act.
+
+(2) In proceedings brought against the State by virtue of this section, the plaintiff need not name as a defendant the member or members of the Garda Síochána alleged to have committed the actionable wrong.
+
+(3) Nothing in this section affects any right of the State to—
+
+(*a*) join an individual member of the Garda Síochána as a defendant to proceedings in respect of an actionable wrong to which this section applies, or
+
+(*b*) recover contribution or seek indemnity from an individual member of the Garda Síochána who is, or who, if sued at the time of the commission of that wrong, would have been, liable in respect of the same damage.
+
+(4) This section applies to proceedings initiated after the commencement of this section.
+
+(5) This section does not apply to a wrong committed by the use of a mechanically propelled vehicle belonging to the State.
+
+(6) In this section—
+
+“actionable wrong” means a tort or breach of a constitutional right, whether or not the wrong is also a crime and whether or not the wrong is intentional;
+
+“damage” includes loss of property, loss of life and personal injury;
+
+“damages” includes exemplary damages and aggravated damages;
+
+“personal injury” includes any disease and any impairment of a person’s physical or mental condition.
+
+#### 49. Legal aid for members charged with certain offences.
+
+**49**.— (1) The Minister may contribute to the legal costs of a member of the Garda Síochána who is charged with a criminal offence if—
+
+(*a*) any of the acts that are alleged to constitute the offence was directly related to the performance of the member’s functions,
+
+(*b*) the Minister is of the opinion that the member’s financial circumstances are such that those costs would result in undue hardship, and
+
+(*c*) the contribution does not exceed the sum that would be payable if a legal aid certificate were granted in respect of the applicable court proceedings.
+
+(2) In this section—
+
+“legal aid certificate” has the meaning given by section 9(2) of the Criminal Justice (Legal Aid) Act 1962;
+
+“legal costs” means any fees, costs or other expenses properly incurred by a member referred to in *subsection (1)* in preparing and conducting—
+
+(*a*) the member’s defence to the offence charged, and
+
+(*b*) if applicable, the member’s appeal or stated case in relation to that offence.
+
+### Chapter 8 International Service and Co-operation with other Police Services — Chapter 8 — International Service and Co-operation with other Police Services
+
+#### 50. Interpretation (Chapter 8).
+
+**50**.— (1) In this Chapter, unless the context otherwise requires—
+
+“An tArd-Chláraitheoir” has the meaning given by section 1(1) of the Civil Registration Act 2004;
+
+“Chief Constable” means the Chief Constable of the Police Service of Northern Ireland;
+
+“disciplinary action” means—
+
+(*a*) dismissal,
+
+(*b*) requirement to retire or resign as an alternative to dismissal,
+
+(*c*) reduction in rank,
+
+(*d*) reduction in pay not exceeding 4 weeks’ pay,
+
+(*e*) reprimand,
+
+(*f*) warning,
+
+(*g*) caution, or
+
+(*h*) advice;
+
+“eligible member” means a member who has offered in writing to be available during a specified period for international service and whose offer has been accepted by the Garda Commissioner;
+
+“international organisation” includes—
+
+(*a*) the United Nations,
+
+(*b*) the Organisation for Security and Co-operation in Europe,
+
+(*c*) the European Union or any institution or body of the European Union, and
+
+(*d*) any force or mission organised by, or operating with the mandate of, an international organisation as defined in any of *paragraphs (a)* to *(c)*;
+
+“international service” means service outside the State under *section 51(1)* or *(2)*.
+
+(2) The text of the Agreement between the Government of Ireland and the Government of the United Kingdom of Great Britain and Northern Ireland on Police Co-operation, done at Belfast on 29 April 2002 is set out in *Schedule 3* for convenience of reference.
+
+#### 51. International service.
+
+**51**.—F99[(1) Subject to *subsection (3)*, the Garda Commissioner shall assign eligible members of the Garda Síochána in such numbers and of such rank, as the Government may determine for service outside the State—
+
+(*a*) to carry out duties of a police character with an international organisation,
+
+(*b*) to advise others on, or to monitor their performance of, such duties, or
+
+(*c*) to participate in a special intervention unit, within the meaning of Part 7A (inserted by section 31 of the Criminal Justice (Mutual Assistance) (Amendment) Act 2015) of the Criminal Justice (Mutual Assistance) Act 2008, for the control of a crisis situation occurring in the territory of a member state.]
+
+F99[(2) Subject to *subsection (3)*, the Garda Commissioner may assign eligible members of the Garda Síochána for service outside the State—
+
+(*a*) to carry out liaison duties with Europol or, subject to the agreement of the Government, with a law enforcement agency of a state other than the State,
+
+(*b*) as members of a joint investigation team within the meaning of the Criminal Justice (Joint Investigation Teams) Act 2004, as amended by section 96 of the Criminal Justice (Mutual Assistance) Act 2008,
+
+(*c*) in connection with the making of a controlled delivery outside the State pursuant to a request under section 89 of the Criminal Justice (Mutual Assistance) Act 2008, or
+
+(*d*) on secondment to an international organisation with the consent of the Minister.]
+
+(3) An eligible member may be assigned under this section only for the period specified by the member in his or her offer to be available for international service.
+
+(4) This Act, the regulations, and the F100[the Garda Síochána (Compensation) Act 2022] continue to apply to members while on international service.
+
+(5) Nothing in this section prevents members of the Garda Síochána stationed in the State from travelling outside the State in the course of carrying out their duties.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F99: Substituted (4.09.2019) by *Criminal Justice (International Co-Operation) Act 2019* (27/2019), s. 6(a), (b), S.I. No. 443 of 2019.
+>
+> F100: Substituted (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 33(a), S.I. No. 163 of 2023.
+>
+> **Editorial Notes:**
+>
+> E36: Previous affecting provision: subs. (1) amended (1.02.2016) by *Criminal Justice (Mutual Assistance) (Amendment) Act 2015* (40/2015), s. 35(a), (b), S.I. No. 11 of 2016; subsection substituted as per F-note above.
+>
+> E37: Previous affecting provision: subs. (2) amended (1.09.2008) by *Criminal Justice (Mutual Assistance) Act 2008* (7/2008), s. 91(a), (b), S.I. No. 338 of 2008; subsection substituted as per F-note above.
+>
+> E38: The amendment by *Criminal Justice (Mutual Assistance) Act 2008* (7/2008), s. 91(b) refers to substitution of the existing subs. (2)(b) and (c). Para. (c) was not present in the original text and so could not be substituted.
+
+#### 52. Appointment of members of Police Service of Northern Ireland to certain ranks in Garda Síochána.
+
+**52**.— (1) F101[The Authority, with the approval of the Government] may appoint members of the Police Service of Northern Ireland to such ranks in the Garda Síochána F102[not above Assistant Garda Commissioner and] not below superintendent as may be prescribed.
+
+(2) The number or proportion of vacancies in each rank to which such members may be appointed may also be prescribed.
+
+(3) In determining the eligibility of a member of the Police Service of Northern Ireland to apply for appointment to a rank of the Garda Síochána under this section, appropriate recognition shall be given to the rank, experience and qualifications that would be required for appointment to an equivalent rank in the Police Service of Northern Ireland.
+
+(4) Such a member shall compete in a merit-based selection procedure with other applicants for appointment to the rank in the Garda Síochána concerned.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F101: Substituted (1.01.2017) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 39, S.I. No. 633 of 2016.
+>
+> F102: Inserted (1.01.2017) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 39, S.I. No. 633 of 2016.
+>
+> **Editorial Notes:**
+>
+> E39: Power pursuant to section exercised (1.01.2017) by *Garda Síochána Act 2005 (Section 52) Regulations 2016*(S.I. No. 640 of 2016), in effect as per reg. 1(2).
+>
+> E40: Previous affecting provision: power pursuant to section exercised (13.03.2012) by *Garda Síochána Act 2005 (Section 52) Regulations 2012* (S.I. No. 128 of 2012), in effect as per reg. 2; revoked (1.01.2017) by *Garda Síochána Act 2005 (Section 52) Regulations 2016* (S.I. No. 640 of 2016), reg. 2, in effect as per reg. 1(2).
+
+#### 53. Secondment from Police Service of Northern Ireland to certain ranks in Garda Síochána.
+
+**53**.— (1) Subject to *subsection (3)*, the Garda Commissioner may, at the request of the Chief Constable—
+
+(*a*) appoint a member of the Police Service of Northern Ireland to a rank in the Garda Síochána not above that of inspector for a period not exceeding 3 years, or
+
+(*b*) request F103[the Authority] to appoint such a member to a rank in the Garda Síochána F104[ not above that of Assistant Garda Commissioner and] not below that of superintendent for such period.
+
+F105[(2) Subject to *subsection (3)*, the Authority may comply with a request under *subsection (1)(b)* but may do so only with the approval of the Government.]
+
+(3) The ranks in the Garda Síochána to which such members may be appointed under this section and the number of such members to be so appointed may be prescribed.
+
+(4) A person appointed under this section shall, during the appointment—
+
+(*a*) be under the direction and control of the Garda Commissioner, and
+
+(*b*) subject to *subsection (5)*, have the powers, immunities, privileges and duties of a member of the Garda Síochána of the rank to which he or she was appointed.
+
+(5) The F106[Garda Síochána (Compensation) Act 2022 does] not apply in relation to a person appointed under this section.
+
+(6) The Garda Commissioner or F107[the Authority, with the approval of the Government,], as the case may be, may terminate an appointment under this section.
+
+F108[(7) The Government may terminate an appointment approved by them under *subsection (2)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F103: Substituted (1.01.2017) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 40(a), S.I. No. 633 of 2016.
+>
+> F104: Inserted (1.01.2017) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 40(a), S.I. No. 633 of 2016.
+>
+> F105: Substituted (1.01.2017) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 40(b), S.I. No. 633 of 2016.
+>
+> F106: Substituted (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 33(b), S.I. No. 163 of 2023.
+>
+> F107: Substituted (1.01.2017) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 40(c), S.I. No. 633 of 2016.
+>
+> F108: Inserted (1.01.2017) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 40(d), S.I. No. 633 of 2016.
+
+#### 54. Secondment from Garda Síochána to Police Service of Northern Ireland.
+
+**54**.— (1) The Garda Commissioner may, on application by a member of the Garda Síochána, arrange with the Chief Constable, for the member’s secondment to the Police Service of Northern Ireland for a period not exceeding 3 years.
+
+(2) The Garda Commissioner may terminate a secondment to the Police Service of Northern Ireland.
+
+(3) During the period of secondment—
+
+(*a*) the member shall continue to be paid as a member of the Garda Síochána, but shall not be subject to the direction or control of the Garda Commissioner or be entitled to exercise in the State any of such a member’s powers,
+
+(*b*) the member’s service shall be regarded as service with the Garda Síochána for pension, promotion and seniority purposes, and
+
+(*c*) the member is entitled to claim compensation under F109[the Garda Síochána (Compensation) Act 2022 for injuries inflicted as a result of a malicious incident within the meaning of that Act] in the course of or in relation to the carrying out of his or her duties with the Police Service of Northern Ireland as if he or she had not been seconded and the injuries had been received in the course of or in relation to the carrying out of his or her duties as a member of the Garda Síochána.
+
+(4) The number and rank of members of the Garda Síochána who may be seconded under this section may be prescribed.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F109: Substituted (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 33(c), S.I. No. 163 of 2023.
+
+#### 55. Breach of discipline by seconded member of Garda Síochána.
+
+**55**.— (1) A member of the Garda Síochána who, while on secondment to the Police Service of Northern Ireland, does or omits to do any act the doing or omission of which by a member of that service would constitute a breach of discipline is liable on the expiry or termination of the period of secondment to disciplinary action by the F110[the Garda Commissioner, the Authority or the Government, as may be appropriate], in respect of the breach.
+
+(2) Disciplinary action under *subsection (1)* may be based on—
+
+(*a*) a finding, under the law and procedure for the time being applicable in relation to the investigation of breaches of discipline by members of the Police Service of Northern Ireland, that the member of the Garda Síochána concerned is in breach of discipline,
+
+(*b*) a decision on any appeal against or review of the finding,
+
+(*c*) any relevant court proceedings, and
+
+(*d*) any related documents.
+
+(3) Before taking any disciplinary action under *subsection (1)*, the F111[the Garda Commissioner, the Authority or the Government], as the case may be, shall—
+
+(*a*) send a copy of the findings to the member of the Garda Síochána concerned, and
+
+(*b*) give that member an opportunity, within a specified period, to show cause why the action should not be taken against him or her.
+
+(4) The Disciplinary Regulations may make provision for the procedures to be followed after the receipt by the member concerned of the copy of the findings referred to in *subsection (3)*.
+
+(5) In any proceedings—
+
+(*a*) a document purporting to be a finding or decision mentioned in *subsection (2)* is evidence, unless the contrary is proved, of the finding or decision, and
+
+(*b*) a document purporting to be a report of court proceedings or a related document mentioned in that subsection is evidence, unless the contrary is proved, of the matters referred to in the report or related document.
+
+(6) In this section “breach of discipline” means an act or omission that if done or made by a member of the Police Service of Northern Ireland could be the subject of disciplinary action by the authorities in Northern Ireland.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F110: Substituted (1.01.2017) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 41(1)(a), S.I. No. 633 of 2016, subject to transitional provisions in subss. (2) and (3).
+>
+> F111: Substituted (1.01.2017) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 41(1)(b), S.I. No. 633 of 2016, subject to transitional provisions in subss. (2) and (3).
+
+#### 56. Breach of discipline by seconded member of Police Service of Northern Ireland.
+
+**56**.— (1) Subject to *subsections (2)* to *(4)*, *Part 4* and the Disciplinary Regulations apply to a person appointed to a rank in the Garda Síochána under *section 53* who does or omits to do any act the doing or omission of which would, if he or she were appointed otherwise than under that section, give rise to the taking of disciplinary action.
+
+(2) For as long as a person referred to in *subsection (1)* is a member of the Police Service of Northern Ireland, an investigation under *Part 4* and any investigation or proceeding under the Disciplinary Regulations in relation to that person may proceed to its conclusion even though his or her period of secondment has expired or been terminated.
+
+(3) No disciplinary action may be taken against a person referred to in *subsection (1)*, but the Garda Commissioner shall transmit to the Chief Constable the prescribed material relating to the person.
+
+(4) The Garda Commissioner shall inform F112[the Authority and the Minister] of any transmission of documents under *subsection (3)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F112: Substituted (1.01.2017) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 42, S.I. No. 633 of 2016.
+
+#### 57. Records relating to members serving outside the State.
+
+**57**.— (1) The Minister may, by regulations made with the consent of the Minister for Health and Children, provide for the keeping of a record of any of the following events occurring outside the State while a member of the Garda Síochána is on international service or is on secondment to the Police Service of Northern Ireland:
+
+(*a*) the member’s death;
+
+(*b*) the death, in such circumstances as may be specified in the regulations, of the member’s spouse or of such other relatives as may be specified in the regulations;
+
+(*c*) the birth, in such circumstances as may be specified in the regulations, of a child of the member.
+
+(2) Records kept pursuant to regulations made under this section must be—
+
+(*a*) authenticated in such manner and by such person as may be specified for the purpose in those regulations, and
+
+(*b*) transmitted to an tArd-Chláraitheoir in such manner as may be specified in the regulations.
+
+(3) Every regulation under this section shall be laid before each House of the Oireachtas as soon as practicable after it is made.
+
+(4) Either House of the Oireachtas may, by a resolution passed within 21 sitting days after the day on which a regulation is laid before it under *subsection (3)*, annul the regulation.
+
+#### 58. Duties of Ard-Chláraitheoir in relation to records transmitted under this Act.
+
+**58**.— (1) An tArd-Chláraitheoir shall maintain a register to be known as the Garda Síochána Deaths Register Book (in this section referred to as the Deaths Book) and shall cause an entry to be made in the Deaths Book of each record of a death transmitted in accordance with *section 57(2)(b)*.
+
+(2) An tArd-Chláraitheoir shall maintain a register to be known as the Garda Síochána Births Register Book (in this section referred to as the Births Book) and shall cause an entry to be made in the Births Book of each record of a birth transmitted in accordance with *section 57(2)(b)*.
+
+(3) An entry made under *subsection (1)* or *(2)* must be in such form as may be specified in the regulations under *section 57* and must contain such particulars as may be specified in those regulations.
+
+(4) For the purposes of the Civil Registration Act 2004, the Deaths Book and the Births Book are deemed to be register books within the meaning of those Acts, but section 27(3) of the Births and Deaths Registration Act (Ireland) 1880 has, in its application to the Deaths Book and the Births Book, effect as if—
+
+(*a*) “upon payment of the appointed fee, and” were deleted, and
+
+(*b*) the reference to a statutory declaration made by one or more persons required by that Act to give information concerning the birth or death referred to in that paragraph were a reference to a statement in writing made by a person specified under *section 57(2)(a)*.
+
+(5) An tArd-Chláraitheoir shall keep at his or her office an index to the Deaths Book and an index to the Births Book.
+
+(6) Any person is entitled to search the index to the Deaths Book and the index to the Births Book and to have a certified copy of an entry in either book or of items contained in the entry on the same terms and conditions in all respects as to fees and otherwise that are applicable under the Civil Registration Act 2004 or any other enactment in respect of the registers of births and deaths.
+
+(7) Fees payable under *subsection (6)* are to be collected and disposed of in the same manner as fees payable under the Civil Registration Act 2004.
+
+### Chapter 9 Offences and Disclosure of Information — Chapter 9 — Offences and Disclosure of Information
+
+#### 59. Causing disaffection.
+
+**59**.— (1) A person is guilty of an offence if he or she induces, or does any act calculated to induce, any member of the Garda Síochána to withhold his or her services or to commit a breach of discipline.
+
+(2) A person guilty of an offence under *subsection (1)* is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €50,000 or imprisonment for a term not exceeding 5 years or both.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E41: A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+#### 60. Offence of impersonating member of Garda Síochána.
+
+**60**.— (1) A person is guilty of an offence if he or she—
+
+(*a*) impersonates a member of the Garda Síochána, or
+
+(*b*) makes any statement or does any act calculated falsely to suggest that he or she is such a member.
+
+(2) A person guilty of an offence under *subsection (1)* is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €50,000 or imprisonment for a term not exceeding 5 years or both.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E42: A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+#### 61. Other offences relating to impersonation.
+
+**61**.— (1) A person is guilty of an offence if he or she, not being a member of the Garda Síochána—
+
+(*a*) has in his or her possession any article of Garda uniform or any equipment supplied to a member of the Garda Síochána and is not able satisfactorily to account for possessing it,
+
+(*b*) puts on or wears—
+
+(i) without the Garda Commissioner’s permission, any article of Garda uniform of any rank or member of the Garda Síochána, or
+
+(ii) without reasonable excuse, any imitation of such article or uniform,
+
+or
+
+(*c*) for the purpose of doing or procuring to be done any act that he or she would not by law be entitled to do or procure to be done of his or her own authority, assumes the name, designation or description of any rank of or any member of the Garda Síochána.
+
+(2) A person is guilty of an offence if he or she, without lawful authority, has in his or her possession or uses in connection with any trade, business, calling or profession or for any other purpose any article, equipment or vehicle containing or having on it any distinctive badge or crest so closely resembling the badge or crest of the Garda Síochána as to be likely to deceive.
+
+(3) A person guilty of an offence under this section is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €50,000 or imprisonment for a term not exceeding 5 years or both.
+
+(4) Nothing in this section prevents the wearing of any uniform or dress in—
+
+(*a*) a performance in a theatre, on film or on television or other media, or
+
+(*b*) with the prior approval of the Garda Commissioner, a public place in the course of making a film, television or other media production.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E43: A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+#### 62. Confidentiality of certain information.
+
+**62**.— (1) A person who is or was a member of the Garda Síochána or of its civilian staff or who is or was engaged under contract or other arrangement to work with or for the Garda Síochána shall not disclose, in or outside the State, any information obtained in the course of carrying out duties of that person’s office, employment, contract or other arrangement if the person knows the disclosure of that information is likely to have a harmful effect.
+
+(2) For the purpose of this section, the disclosure of information referred to in *subsection (1)* does not have a harmful effect unless it—
+
+(*a*) facilitates the commission of an offence,
+
+(*b*) prejudices the safekeeping of a person in legal custody,
+
+(*c*) impedes the prevention, detection or investigation of an offence,
+
+(*d*) impedes the apprehension or prosecution of a suspected offender,
+
+(*e*) prejudices the security of any system of communication of the Garda Síochána,
+
+(*f*) results in the identification of a person—
+
+(i) who is a witness in a criminal proceeding or who has given information in confidence to a member of the Garda Síochána, and
+
+(ii) whose identity is not at the time of the disclosure a matter of public knowledge,
+
+(*g*) results in the publication of information that—
+
+(i) relates to a person who is a witness to or a victim of an offence, and
+
+(ii) is of such a nature that its publication would be likely to discourage the person to whom the information relates or any other person from giving evidence or reporting an offence,
+
+(*h*) results in the publication of personal information and constitutes an unwarranted and serious infringement of a person’s right to privacy,
+
+(*i*) reveals information provided in confidence by another state, an international organisation, another police service or an intelligence service, or
+
+(*j*) affects adversely the international relations or interests abroad of the State, including those with Northern Ireland.
+
+(3) For the purpose of this section, a person is presumed, unless the contrary is proved, to know that disclosure of information referred to in *subsection (1)* is likely to have a harmful effect if a reasonable person would, in all the circumstances, be aware that its disclosure could have that effect.
+
+(4) *Subsection (1)* does not prohibit a person from disclosing information referred to in that subsection if the disclosure—
+
+(*a*) is made to—
+
+(i) the Minister,
+
+(ii) the Attorney General,
+
+(iii) the Director of Public Prosecutions,
+
+(iv) the Chief State Solicitor,
+
+(v) the Criminal Assets Bureau,
+
+(vi) the Comptroller and Auditor General,
+
+(vii) the Ombudsman Commission or an officer of the Commission,
+
+(viii) the Garda Síochána Inspectorate or an officer of the Inspectorate,
+
+(ix) the Revenue Commissioners, or
+
+(x) a member of either of the Houses of the Oireachtas where relevant to the proper discharge of the member’s functions,
+
+(*b*) is made to a court,
+
+F113[(*c*) is made to a tribunal appointed under the Tribunals of Inquiry (Evidence) Acts 1921 to 2011, a commission of investigation established under the Commissions of Investigation Act 2004 or a committee within the meaning of section 2 of the Houses of the Oireachtas (Inquiries, Privileges and Procedures) Act 2013 for the purposes of a Part 2 inquiry, within the meaning of that section, under that Act,]
+
+(*d*) is made in the course of, and in accordance with, the duties of that person’s office or employment or his or her duties under a contract or other arrangement to work with or for the Garda Síochána,
+
+(*e*) is authorised by the Garda Commissioner, or
+
+(*f*) is otherwise authorised by law.
+
+(5) A person who contravenes *subsection (1)* is guilty of an offence and is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €3,000 or imprisonment for a term not exeeding 12 months or both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €50,000 or imprisonment for a term not exceeding 5 years or both.
+
+(6) A person who contravenes *subsection (1)* and who receives any gift, consideration or advantage as an inducement to disclose the information to which the contravention relates or as a reward for, or otherwise on account of, the disclosure of that information is guilty of an offence and is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €3,000 or imprisonment for a term not exeeding 12 months or both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €75,000 or imprisonment for a term not exceeding 7 years or both.
+
+(7) The provisions of this section are in addition to, and not in substitution for, the provisions of the Official Secrets Act 1963.
+
+(8) In this section “personal information” has the meaning given to it by F113[section 2(1) of the Freedom of Information Act 2014] and includes personal information relating to a deceased individual.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F113: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 43(a)-(b), S.I. No. 612 of 2015.
+>
+> **Editorial Notes:**
+>
+> E44: A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+## PART 2A Establishment and Functions of Policing Authority — F114[PART 2A — Establishment and Functions of Policing Authority] — Annotations Amendments: Inserted (23.12.2015) by Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015 (49/2015), s. 44, S.I. No. 612 of 2015.
+
+### 62A. Establishment day of Authority
+
+F115[**62A.** The Minister shall, by order, appoint a day to be the establishment day of the Authority.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F115: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 44, S.I. No. 612 of 2015.
+>
+> **Editorial Notes:**
+>
+> E45: Power pursuant to section exercised (1.01.2016) *Policing Authority (Establishment Day) Order 2015* (S.I. No. 611 of 2015).
+
+### 62B. Establishment of Authority
+
+F116[**62B.** (1) On the establishment day of the Authority, a body to be known as an tÚdarás Póilíneachta or, in the English language, the Policing Authority stands established to perform the functions assigned to it by this Act.
+
+(2) The Authority shall be a body corporate with perpetual succession and an official seal and may sue, or may be sued, in its corporate name.
+
+(3) The Authority may, with the consent of the Minister and the Minister for Public Expenditure and Reform, acquire, hold and dispose of property other than land or an interest in land.
+
+(4) The official seal of the Authority shall be authenticated by the signature of—
+
+(*a*) a member of the Authority, and
+
+(*b*) the Chief Executive or other member of the staff of the Authority authorised by the Authority to act in that behalf.
+
+(5) Judicial notice shall be taken of the seal of the Authority and every document purporting—
+
+(*a*) to be an instrument made by the Authority, and
+
+(*b*) to be sealed with the seal of the Authority authenticated in accordance with *subsection (4)*,
+
+shall be received in evidence and be deemed to be such instrument without proof, unless the contrary is shown.
+
+(6) Any contract or instrument which, if entered into or executed by an individual, would not require to be under seal, may be entered into or executed on behalf of the Authority by any person generally or specially authorised by the Authority to act in that behalf.
+
+(7) Subject to this Act, the Authority shall be independent in the performance of its functions.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F116: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 44, S.I. No. 612 of 2015.
+
+### 62C. Membership of Authority
+
+F117[**62C.** (1) Subject to this section, the Authority shall comprise 9 members who are to be appointed by the Government:
+
+(*a*) a chairperson;
+
+(*b*) 8 ordinary members.
+
+(2) In appointing the members of the Authority, the Government shall have regard to the objective of there being no fewer than 4 members who are women and no fewer than 4 members who are men.
+
+(3) The Government may, before the establishment day of the Authority, designate a person to be appointed as the first chairperson of the Authority.
+
+(4) If, immediately before the establishment day of the Authority, a person stands designated under *subsection (3)*, the person shall, on that day, stand appointed as the first chairperson of the Authority.
+
+(5) The Government may, before the establishment day of the Authority, designate persons to be appointed as the first ordinary members of the Authority.
+
+(6) If, immediately before the establishment day of the Authority, a person stands designated under *subsection (5)*, the person shall, on that day, stand appointed as an ordinary member of the Authority.
+
+(7) Except for the first appointed members of the Authority and subject to *section 62E(5)*, a person shall not be appointed as a member of the Authority unless a resolution has been passed by each House of the Oireachtas recommending his or her appointment.
+
+(8) Except for the first appointed ordinary members of the Authority and subject to *section 62E(5)*, the Government shall appoint the ordinary members of the Authority from among such persons as are recommended by the Service in accordance with *section 62D* for appointment as such ordinary members.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F117: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 44, S.I. No. 612 of 2015.
+
+### 62D. Recommen-dations for appointment of ordinary members of Authority
+
+F118[**62D.** (1) The Government shall invite the Service to undertake a selection competition for the purpose of identifying and recommending to the Government persons who are suitable for appointment as ordinary members of the Authority.
+
+(2) Subject to *subsection (3)*, the Minister shall agree with the Service the selection criteria and process that are to apply to the selection competition.
+
+(3) In making recommendations of persons who are suitable for appointment as ordinary members of the Authority under this section, the Service shall have regard to the desirability of the members of the Authority possessing knowledge of, and experience in, matters connected with the following:
+
+(*a*) policing matters;
+
+(*b*) human rights and equality matters;
+
+(*c*) public sector administration;
+
+(*d*) board management and corporate governance;
+
+(*e*) work undertaken by voluntary or other groups or bodies with local communities, in particular, for the purpose of promoting safety in the community, the prevention of crime or promoting awareness of other issues that are relevant to policing services.
+
+(4) Subject to *subsection (3)*, a person shall not be recommended by the Service under this section unless the Service is satisfied that the person is suitable for appointment as an ordinary member of the Authority by reason of his or her possessing such relevant experience, qualifications, training or expertise as is appropriate having regard, in particular, to the functions of the Authority under this Act.
+
+(5) The Service shall provide the Government with particulars of the experience, qualifications, training and expertise of each person whom it recommends under this section as suitable for appointment as an ordinary member of the Authority.
+
+(6) This section shall, with any necessary modifications, apply in relation to the filling of any vacancy that arises in the ordinary membership of the Authority.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F118: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 44, S.I. No. 612 of 2015.
+
+### 62E. Terms and conditions of appointment of members of Authority
+
+F119[**62E.** (1) Subject to *subsection (2)*, a member of the Authority shall hold office, unless the member sooner dies, resigns, becomes disqualified or is removed from office, for such period, not exceeding 4 years from the date of his or her appointment, as the Government shall determine.
+
+(2) Such four of the ordinary members of the Authority that is first constituted under this Act as are determined by the Government shall hold office for a period of 3 years from the date of their respective appointments as such ordinary members.
+
+(3) A member of the Authority holds office on such terms and conditions as may be determined by the Government at the time of appointment or reappointment.
+
+(4) Subject to *subsection (6)*, a member of the Authority whose term of office expires by the effluxion of time shall be eligible for reappointment as a member of the Authority.
+
+(5) Where it is proposed to reappoint a person as a member of the Authority, it shall not be necessary for the person—
+
+(*a*) to participate in a selection competition undertaken by the Service under *section 62D* or to be recommended for reappointment by the Service, or
+
+(*b*) to be recommended for reappointment following the passing of a resolution of each House of the Oireachtas.
+
+(6) A person who is reappointed as a member of the Authority in accordance with *subsection (4)* shall not hold office for periods the aggregate of which exceeds 8 years.
+
+(7) A member of the Authority may resign from office by notice in writing addressed to the Minister and the resignation takes effect on the date the Minister receives the notice or, if a date is specified in the notice and the Government agrees to that date, on that date.
+
+(8) Subject to *section 62J(5)*, the Authority may act notwithstanding one or more vacancies in its membership.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F119: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 44, S.I. No. 612 of 2015.
+
+### 62F. Ineligibility for appointment, disqualification for office of member of Authority or committee, cessation of membership, etc.
+
+F120[**62F.** (1) A person is not eligible to be recommended for or appointed as a member of the Authority or a committee if he or she is—
+
+(*a*) a member of either House of the Oireachtas,
+
+(*b*) entitled under the rules of procedure of the European Parliament to sit in that Parliament,
+
+(*c*) a member of a local authority,
+
+(*d*) a member of the Garda Síochána or a member of the civilian staff of the Garda Síochána,
+
+(*e*) a member of the Ombudsman Commission, or
+
+(*f*) a member of the Garda Síochána Inspectorate.
+
+(2) A person shall be disqualified for holding and shall cease to hold office as a member of the Authority or a committee if he or she—
+
+(*a*) is adjudicated bankrupt,
+
+(*b*) makes a composition or arrangement with his or her creditors,
+
+(*c*) is convicted on indictment of an offence,
+
+(*d*) is convicted of an offence involving fraud or dishonesty,
+
+(*e*) has a declaration under section 819 of the Companies Act 2014 made against him or her or is deemed to be subject to such a declaration by virtue of Chapter 5 of Part 14 of that Act, or
+
+(*f*) is subject or is deemed to be subject to a disqualification order, within the meaning of Chapter 4 of Part 14 of the Companies Act 2014, whether by virtue of that Chapter or any other provision of that Act.
+
+(3) Where a member of the Authority or a committee is—
+
+(*a*) nominated as a member of Seanad Éireann,
+
+(*b*) elected as a member of either House of the Oireachtas or to be a member of the European Parliament,
+
+(*c*) regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act 1997 as having been elected to be a member of the European Parliament, or
+
+(*d*) elected or co-opted as a member of a local authority,
+
+he or she shall thereupon cease to be a member of the Authority or the committee, as the case may be.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F120: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 44, S.I. No. 612 of 2015.
+
+### 62G. Removal of member of Authority
+
+F121[**62G.** (1) The Government may only remove a member of the Authority from office where—
+
+(*a*) one or more of the grounds referred to in *subsection (2)* apply,
+
+(*b*) *subsections (3)* to *(6)* have been complied with, and
+
+(*c*) a resolution is passed by both Houses of the Oireachtas calling for the removal of the member from office.
+
+(2) The grounds referred to in *subsection (1)* are that, in the opinion of the Government, the member of the Authority—
+
+(*a*) has, without reasonable excuse, failed to discharge the functions of the office,
+
+(*b*) has become incapable through ill health of effectively performing those functions,
+
+(*c*) has committed stated misbehaviour,
+
+(*d*) has a conflict of interest of such significance that he or she should cease to hold the office, or
+
+(*e*) is otherwise unfit to hold the office or unable to discharge its functions.
+
+(3) Where the Government propose to remove a member of the Authority pursuant to *subsection (1)*, the Government shall notify, or cause to be notified, the member concerned in writing of the proposal.
+
+(4) A notification under *subsection (3)* shall include—
+
+(*a*) a statement of the reasons for the proposal,
+
+(*b*) a statement that the member of the Authority concerned may, within 30 working days of the sending of the notification or such longer period as the Government may specify, make representations in the manner specified in the notification to the Government as to why the member should not be removed from office, and
+
+(*c*) a statement that, where no representations are received within the period specified under *paragraph (b)*, the Government will, without further notice, proceed with the removal of the member of the Authority from office in accordance with this section.
+
+(5) In considering whether to remove a member of the Authority from office in accordance with this section, the Government shall take into account—
+
+(*a*) any representations made pursuant to *subsection (4)(b)*, and
+
+(*b*) any other matter that the Government consider relevant for the purposes of the decision.
+
+(6) Where, having taken into account the matters referred to in *subsection (5)*, the Government decide to remove the member of the Authority from office, they shall notify that member in writing of the decision, of the reasons for it and of the intention of the Government to seek a resolution of both Houses of the Oireachtas calling for the removal of that member.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F121: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 44, S.I. No. 612 of 2015.
+
+### 62H. Functions of Authority
+
+F122[**62H.** (1) Subject to this Act, the Authority shall—
+
+(*a*) oversee the performance by the Garda Síochána of its functions relating to policing services,
+
+(*b*) be responsible for—
+
+(i) nominating persons for appointment to the office of Garda Commissioner under *section 9(1)* or to the rank of Deputy Garda Commissioner under *section 10(1)*,
+
+(ii) appointing persons, in accordance with *section 13*, to the ranks of Assistant Garda Commissioner, chief superintendent and superintendent in the Garda Síochána, and
+
+(iii) removing or recommending the removal, as the case may be, in accordance with *section 11* of members of the Garda Síochána at the ranks referred to in *subparagraphs (i)* and *(ii)*,
+
+(*c*) establish, amend or revoke a code of ethics in accordance with *section 17*,
+
+(*d*) approve, in accordance with *section 21*, a strategy statement submitted by the Garda Commissioner,
+
+(*e*) approve, in accordance with *section 22*, an annual policing plan submitted by the Garda Commissioner,
+
+(*f*) perform the functions conferred on it by *sections 35* and *36* concerning the establishment and maintenance of joint policing committees,
+
+(*g*) perform the functions conferred on it by *section 117A* with regard to monitoring, assessing and reporting to the Minister on the measures taken by the Garda Síochána in relation to recommendations made in a report of the Garda Síochána Inspectorate,
+
+(*h*) inform the Minister of matters relevant to the accountability of the Government to the Houses of the Oireachtas,
+
+(*i*) provide information and advice to the Minister with regard to matters relating to policing services,
+
+(*j*) promote and support the continuous improvement of policing in the State, and
+
+(*k*) perform any other functions conferred on it by this Act or the regulations.
+
+(2) Without prejudice to the generality of *subsection (1)*, the Authority shall—
+
+(*a*) keep under review the performance by the Garda Síochána of its functions and the arrangements and strategies in place to support and enhance the performance of those functions and, in particular, shall keep under review the adequacy of—
+
+(i) the corporate governance arrangements and structures within the Garda Síochána,
+
+(ii) the arrangements for the recruitment, training and development of the members and members of the civilian staff of the Garda Síochána,
+
+(iii) the mechanisms in place within the Garda Síochána for the measurement of performance and accountability of such members and staff, and
+
+(iv) the arrangements for managing and deploying the resources available to the Garda Síochána so as to ensure the most beneficial, effective and efficient use of those resources,
+
+(*b*) provide advice to the Minister before each financial year with regard to the resources that are likely to be required by the Garda Síochána to perform its functions in that financial year,
+
+(*c*) promote the policing principles,
+
+(*d*) promote public awareness of matters relating to policing services,
+
+(*e*) keep the Minister informed of developments in respect of matters relating to policing services and make recommendations to assist the Minister in co-ordinating and developing policy in that regard,
+
+(*f*) keep itself generally informed as to—
+
+(i) complaints made against members of the Garda Síochána and the application of the Disciplinary Regulations, and
+
+(ii) trends and patterns in crimes committed,
+
+(*g*) undertake, commission or assist in research projects (including by way of public consultation) and other activities in respect of matters relating to policing services, which in the opinion of the Authority, may—
+
+(i) promote an improvement in standards for those matters and public awareness of them, or
+
+(ii) contribute to a reduction in the number of complaints against members of the Garda Síochána in relation to those matters,
+
+and make recommendations to the Minister arising from those projects or activities, and
+
+(*h*) provide advice to the Minister with regard to best policing practice.
+
+(3) Subject to this Act, the Authority may do anything which it considers necessary or expedient to enable it to perform its functions, including liaising and co-operating with bodies (whether statutory or otherwise) that are relevant to those functions.
+
+(4) Any function of the Authority, other than nominating a person for appointment to, or recommending the removal of a person from, the office of Garda Commissioner or Deputy Garda Commissioner, may be performed through or by the Chief Executive or other member of its staff duly authorised in that behalf by the Authority.
+
+(5) The Chief Executive or other member of the staff of the Authority who, pursuant to *subsection (4)*, performs any of its functions is presumed in any proceedings to have been authorised by it to do so on its behalf, unless the contrary is shown.
+
+(6) The Authority may provide for the performance by a committee, under the general direction of the Authority, of one or more of its functions, other than nominating a person for appointment to, or recommending the removal of a person from, the office of Garda Commissioner or Deputy Garda Commissioner.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F122: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 44, S.I. No. 612 of 2015.
+
+### 62I. Authority to have regard to security services
+
+F123[**62I.** The Authority shall, in performing its functions under this Act and in addition to all other matters to which the Authority may properly have regard, have regard to the importance of the functions of the Garda Síochána concerning security services.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F123: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 44, S.I. No. 612 of 2015.
+
+### 62J. Meetings and business
+
+F124[**62J.**(1) The Authority shall hold such and so many meetings as may be necessary for the due performance of its functions, including meetings with the Garda Commissioner.
+
+(2) Subject to *subsections (3)* and *(4)*, the Authority may, where it considers it appropriate to do so, permit—
+
+(*a*) members of the public to attend, and
+
+(*b*) the media to record and broadcast,
+
+any meeting or a part of a meeting of the Authority.
+
+(3) Members of the public may attend, and the media shall be permitted to record and broadcast, not less than four meetings of the Authority with the Garda Commissioner in each year.
+
+(4) The Authority may publish all or any of the following:
+
+(*a*) agendas for its meetings and those of its committees;
+
+(*b*) the papers relating to those meetings;
+
+(*c*) such reports of those meetings as it considers appropriate.
+
+(5) The quorum for a meeting of the Authority shall be 5 or such other number, not being less than 5, as the Authority shall determine.
+
+(6) The chairperson of the Authority shall fix the date, time and place of the first meeting of the Authority.
+
+(7) At a meeting of the Authority—
+
+(*a*) if the chairperson thereof is present, he or she shall be the chairperson of the meeting, or
+
+(*b*) if and for so long as the chairperson is not present or if the office of chairperson is vacant, the ordinary members of the Authority who are present shall choose one of their number to act as the chairperson of the meeting.
+
+(8) Each member of the Authority present at a meeting of the Authority shall have a vote.
+
+(9) At a meeting of the Authority, a question on which a vote is required shall be determined by a majority of the votes of the members of the Authority present and voting on the question and, in the case of an equal division of votes, the chairperson of the meeting shall have a second or casting vote.
+
+(10) In addition to a meeting with all participants physically present, the Authority may hold or continue a meeting by the use of any means of communication by which all the participants can hear and be heard at the same time.
+
+(11) Subject to this Act, the Authority may determine its own procedures.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F124: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 44, S.I. No. 612 of 2015.
+
+### 62K. Committees of Authority
+
+F125[**62K.** (1) The Authority may establish committees to—
+
+(*a*) assist and advise it in relation to the performance of all or any of its functions, and
+
+(*b*) perform such functions of the Authority as may stand delegated to them.
+
+(2) In appointing the members of a committee, the Authority shall—
+
+(*a*) have regard to the range of qualifications and experience necessary for the proper and effective performance of the functions of the committee, and
+
+(*b*) have regard to the desirability of there being such balance between men and women on the committee as is appropriate.
+
+(3) A committee—
+
+(*a*) shall consist of such number of members as the Authority may determine, and
+
+(*b*) may include persons who are not members of the Authority or its staff.
+
+(4) The Authority may—
+
+(*a*) appoint a person to be the chairperson of a committee, and
+
+(*b*) at any time dissolve a committee.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F125: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 44, S.I. No. 612 of 2015.
+
+### 62L. Power to appoint consultants and advisers and to enter into contracts
+
+F126[**62L.** (1) The Authority may, with the consent of the Minister and the Minister for Public Expenditure and Reform, as it considers necessary to assist it in the performance of its functions—
+
+(*a*) enter into contracts with persons, or
+
+(*b*) appoint consultants or advisers,
+
+or both.
+
+(2) There may be paid by the Authority, out of the resources at its disposal, to persons, consultants or advisers referred to in *subsection (1)*, such fees (if any) or allowances for expenses (if any) incurred by them as the Authority, with the consent of the Minister and the Minister for Public Expenditure and Reform, may determine.
+
+(3) The appointment of a person as a consultant or adviser shall be for such period and on such terms and conditions as the Authority considers appropriate.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F126: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 44, S.I. No. 612 of 2015.
+
+### 62M. Confidentiality of certain information
+
+F127[**62M.** (1) A person who is or was a member of the Authority or a committee or the Chief Executive or other member of the staff of the Authority or who is or was engaged under contract or other arrangement by the Authority shall not disclose, in or outside the State, any information obtained in the course of carrying out the duties of that person’s office, employment, contract or other arrangement if the person knows the disclosure of that information is likely to have a harmful effect.
+
+(2) For the purpose of this section, the disclosure of information referred to in *subsection (1)* does not have a harmful effect unless it—
+
+(*a*) facilitates the commission of an offence,
+
+(*b*) prejudices the safekeeping of a person in legal custody,
+
+(*c*) impedes the prevention, detection or investigation of an offence,
+
+(*d*) impedes the apprehension or prosecution of a suspected offender,
+
+(*e*) prejudices the security of any system of communication of the Garda Síochána,
+
+(*f*) results in the identification of a person—
+
+(i) who is a witness in a criminal proceeding or who has given information in confidence to a member of the Garda Síochána, and
+
+(ii) whose identity is not at the time of the disclosure a matter of public knowledge,
+
+(*g*) results in the publication of information that—
+
+(i) relates to a person who is a witness to or a victim of an offence, and
+
+(ii) is of such a nature that its publication would be likely to discourage the person to whom the information relates or any other person from giving evidence or reporting an offence,
+
+or
+
+(*h*) results in the publication of personal information (within the meaning of section 2(1) of the Freedom of Information Act 2014) and constitutes an unwarranted and serious infringement of a person’s right to privacy.
+
+(3) For the purpose of this section, a person is presumed, unless the contrary is proved, to know that disclosure of information referred to in *subsection (1)* is likely to have a harmful effect if a reasonable person would, in all the circumstances, be aware that its disclosure could have that effect.
+
+(4) *Subsection (1)* does not prohibit a person from disclosing information referred to in that subsection if the disclosure—
+
+(*a*) is made to—
+
+(i) the Garda Commissioner,
+
+(ii) the Minister,
+
+(iii) the Attorney General,
+
+(iv) the Director of Public Prosecutions,
+
+(v) the Chief State Solicitor,
+
+(vi) the Criminal Assets Bureau,
+
+(vii) the Comptroller and Auditor General,
+
+(viii) the Ombudsman Commission or an officer of the Commission,
+
+(ix) the Garda Síochána Inspectorate or an officer of the Inspectorate,
+
+(x) the Revenue Commissioners, or
+
+(xi) a member of either of the Houses of the Oireachtas where relevant to the proper discharge of the member’s functions,
+
+(*b*) is made to a court,
+
+(*c*) is made to a tribunal appointed under the Tribunals of Inquiry (Evidence) Acts 1921 to 2011, a commission of investigation established under the Commissions of Investigation Act 2004 or a committee within the meaning of section 2 of the Houses of the Oireachtas (Inquiries, Privileges and Procedures) Act 2013 for the purposes of a Part 2 inquiry, within the meaning of that section, under that Act,
+
+(*d*) is made in the course of, and in accordance with, the duties of that person’s office or employment or his or her duties under a contract or other arrangement with the Authority,
+
+(*e*) is authorised by the chairperson of the Authority, or
+
+(*f*) is otherwise authorised by law.
+
+(5) A person who contravenes *subsection (1)* is guilty of an offence and is liable—
+
+(*a*) on summary conviction, to a class B fine or imprisonment for a term not exceeding 12 months or both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €50,000 or imprisonment for a term not exceeding 5 years or both.
+
+(6) A person who contravenes *subsection (1)* and who receives any gift, consideration or advantage as an inducement to disclose the information to which the contravention relates or as a reward for, or otherwise on account of, the disclosure of that information is guilty of an offence and is liable—
+
+(*a*) on summary conviction, to a class B fine or imprisonment for a term not exceeding 12 months or both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €75,000 or imprisonment for a term not exceeding 7 years or both.
+
+(7) The provisions of this section are in addition to, and not in substitution for, the provisions of the Official Secrets Act 1963.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F127: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 44, S.I. No. 612 of 2015. A class B fine means a fine not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(1), S.I. No. 662 of 2010.
+
+### 62N. Strategy statement of Authority
+
+F128[**62N.** (1) Subject to *subsection (2)*, every 3 years the Authority shall prepare and submit to the Minister a strategy statement for the following 3 years.
+
+(2) The first strategy statement shall be prepared by the Authority and submitted to the Minister as soon as practicable after the establishment day of the Authority and shall relate to the period from its submission to the Minister until the day immediately before the third anniversary of the establishment day of the Authority.
+
+(3) A second or subsequent strategy statement shall be prepared by the Authority and submitted to the Minister within the period of 6 months before the expiry of the period to which the previous strategy statement relates and the second or subsequent strategy statement shall relate to the period of 3 years from the anniversary of the establishment day of the Authority concerned.
+
+(4) The Authority shall, in a strategy statement prepared under this section—
+
+(*a*) set out the key objectives, outputs and related strategies of the Authority, including the use of its resources, and
+
+(*b*) have regard to the need to ensure the most beneficial and efficient use of the resources of the Authority.
+
+(5) Before submitting a strategy statement to the Minister in accordance with this section, the Authority—
+
+(*a*) may publish in such manner as the Authority considers appropriate a draft of the strategy statement and, where it publishes the draft, it shall allow persons 30 days from the date of that publication within which to make representations in writing to the Authority with regard to the draft strategy statement, and
+
+(*b*) following consultation under *paragraph (a)* and, where appropriate, having considered the representations (if any) made, shall submit the strategy statement to the Minister with or without modifications to take account of such representations.
+
+(6) The Minister shall cause a copy of a strategy statement prepared and submitted to him or her pursuant to this section to be laid before each House of the Oireachtas as soon as practicable after the strategy statement has been received by him or her.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F128: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 44, S.I. No. 612 of 2015.
+
+### 62O. Reports to Minister
+
+F129[**62O.** (1) Not later than 3 months after the end of each year, the Authority shall submit to the Minister a report on its activities in the immediately preceding year.
+
+(2) The Authority shall, within 2 years from the establishment day of the Authority, submit to the Minister a report on—
+
+(*a*) the effectiveness of the Authority, and
+
+(*b*) the adequacy of the functions assigned to it by this Act.
+
+(3) The report submitted under *subsection (2)* may contain recommendations for improving the effectiveness of the Authority.
+
+(4) At the end of each 5 year period commencing with the establishment day of the Authority, the Authority shall submit to the Minister a report reviewing the general performance of its functions in the preceding 5 years.
+
+(5) The Authority may make any other reports that it considers appropriate for drawing to the attention of the Minister matters that have come to its notice and that, in its opinion, should, because of their gravity or other exceptional circumstances, be the subject of a special report to the Minister.
+
+(6) The Minister may request the Authority to prepare and submit to him or her a report in respect of any matter relating to policing services, and the Authority shall comply with the request as soon as practicable after receiving it.
+
+(7) The Minister shall cause a copy of a report under this section to be laid before each House of the Oireachtas as soon as practicable after he or she receives the report.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F129: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 44, S.I. No. 612 of 2015.
+
+### 62P. Chief Executive
+
+F130[**62P.** (1) There shall be a chief executive officer of the Authority who, subject to *subsections (2)* and *(3)*, shall be appointed by the Authority, with the consent of the Minister and the Minister for Public Expenditure and Reform, and who is referred to in this Act as the ‘Chief Executive’.
+
+(2) The Minister may, before the establishment day of the Authority, designate a person to be the first chief executive officer of the Authority.
+
+(3) If, immediately before the establishment day of the Authority, a person stands designated by the Minister under *subsection (2)*, the Authority shall appoint that person to be the first Chief Executive.
+
+(4) The Chief Executive shall—
+
+(*a*) hold office under a contract of service in writing (which contract may be renewed) for such period as is specified in the contract and subject to such terms and conditions (including terms and conditions relating to remuneration) as are determined by the Authority with the consent of the Minister and the Minister for Public Expenditure and Reform, and
+
+(*b*) be paid out of moneys at the disposal of the Authority.
+
+(5) The Chief Executive shall—
+
+(*a*) have the appropriate experience, qualifications, training and expertise for the appointment, and
+
+(*b*) be appointed by the Authority following a selection competition.
+
+(6) The Chief Executive shall—
+
+(*a*) implement the policies and decisions of the Authority,
+
+(*b*) manage and control generally the staff, administration and business of the Authority, and
+
+(*c*) perform such other functions (if any) as may be required by the Authority or as may be authorised under this Act.
+
+(7) The Chief Executive may be removed or suspended from office by the Authority, with the consent of the Minister, for stated reasons.
+
+(8) The Chief Executive shall not be a member of the Authority or a committee, but he or she may, in accordance with procedures established by the Authority or such a committee, as the case may be, attend meetings of the Authority or a committee and shall be entitled to speak at and give advice at such meetings.
+
+(9) The Chief Executive shall provide the Authority with such information, including financial information, in respect of the performance of his or her functions as the Authority may require.
+
+(10) The Chief Executive shall not hold any other office or occupy any position in respect of which remuneration is payable, or carry on any business, trade or profession, without the consent of the Authority.
+
+(11) If the Chief Executive—
+
+(*a*) dies, resigns or is removed from office, or
+
+(*b*) is for any reason temporarily unable to continue to perform his or her functions,
+
+the Authority may designate such member or members of the staff of the Authority as it considers appropriate to perform the functions of the Chief Executive until—
+
+(i) in the circumstances mentioned in *paragraph (a)*, a new Chief Executive is appointed in accordance with this section, or
+
+(ii) in the circumstances mentioned in *paragraph (b)*, the Chief Executive is able to resume the performance of his or her functions.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F130: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 44, S.I. No. 612 of 2015.
+
+### 62Q. Staff of Authority
+
+F131[**62Q.** (1) The Authority may, with the consent of the Minister and the Minister for Public Expenditure and Reform, appoint such and so many persons to be members of the staff of the Authority as it may determine.
+
+(2) The terms and conditions of service of a member of the staff of the Authority, and the grade at which he or she serves, shall be such as may be determined by the Authority with the consent of the Minister and the Minister for Public Expenditure and Reform.
+
+(3) Members of staff of the Authority are civil servants in the Civil Service of the State.
+
+(4) The Authority is the appropriate authority (within the meaning of the Public Service Management (Recruitment and Appointments) Act 2004 and the Civil Service Regulation Acts 1956 to 2005) in relation to the members of its staff.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F131: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 44, S.I. No. 612 of 2015.
+
+### 62R. Accountability for accounts of Authority
+
+F132[**62R.** The Chief Executive is the accounting officer in relation to the appropriation accounts of the Authority for the purposes of the Comptroller and Auditor General Acts 1866 to 1998.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F132: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 44, S.I. No. 612 of 2015.
+
+### 62S. Accountability of Authority to other Oireachtas Committees
+
+F133[**62S.** (1) Subject to *subsection (2)*, the Chief Executive shall, at the request in writing of a committee, attend before it to give account for the general administration of the Authority.
+
+(2) The Chief Executive shall not be required to give account before a committee for any matter that is, or is likely to be, the subject of proceedings before a court or tribunal in the State, including a tribunal of inquiry established under the Tribunals of Inquiry (Evidence) Acts 1921 to 2011 and a commission of investigation established under the Commissions of Investigation Act 2004.
+
+(3) The Chief Executive shall, if of opinion that *subsection (2)* applies to a matter about which he or she is requested to give account before a committee, inform the committee of that opinion and the reasons for the opinion.
+
+(4) The information required under *subsection (3)* shall be given to the committee in writing unless it is given when the Chief Executive is before the committee.
+
+(5) If, on being informed of the opinion of the Chief Executive about the matter, the committee decides not to withdraw its request relating to the matter, the High Court may, on application under *subsection (6)*, determine whether *subsection (2)* applies to the matter.
+
+(6) Either the Authority or the committee may apply in a summary manner to the High Court for a determination under *subsection (5)*, but only if the application is made within 21 days after the date on which the Chief Executive is informed of the decision of the committee not to withdraw its request.
+
+(7) Pending the determination of an application under *subsection (6)*, the Chief Executive shall not attend before the committee to give account for the matter that is the subject of the application.
+
+(8) If the High Court determines that *subsection (2)* applies to the matter, the committee shall withdraw its request insofar as it relates to the matter, but if the Court determines that *subsection (2)* does not apply, the Chief Executive shall attend before the committee to give account for the matter.
+
+(9) In carrying out duties under this section, the Chief Executive shall not question or express an opinion on the merits of any policy of the Government or a Minister of the Government or on the merits of the objectives of such a policy.
+
+(10) In this section "committee" means—
+
+(*a*) a committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas (other than the Committee of Public Accounts, the Committee on Members’ Interests of Dáil Éireann or the Committee on Members’ Interests of Seanad Éireann), or
+
+(*b*) a sub-committee of a committee falling under *paragraph (a)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F133: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 44, S.I. No. 612 of 2015.
+
+## PART 3 Establishment and Functions of Garda Sochna Ombudsman Commission — PART 3 — Establishment and Functions of Garda Síochána Ombudsman Commission
+
+### 63. Establishment day.
+
+**63**.— The Minister shall, by order, appoint a day to be the establishment day for the purposes of this Part.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E46: Power pursuant to section exercised (12.12.2005) by *Garda Síochána Ombudsman Commission (Establishment Day) Order 2005* (S.I. No. 802 of 2005).
+
+### 64. Establishment of Ombudsman Commission.
+
+**64**.— (1) On the establishment day, a body corporate to be known as Coimisiún Ombudsman an Gharda Síochána or, in the English language, the Garda Síochána Ombudsman Commission stands established to perform the functions assigned to it by this Act.
+
+(2) The Ombudsman Commission has, under its corporate name, perpetual succession and an official seal and may—
+
+(*a*) sue and be sued in its corporate name,
+
+(*b*) acquire, hold and dispose of land or an interest in land, and
+
+(*c*) acquire, hold and dispose of any other property.
+
+### 65. Membership of Ombudsman Commission.
+
+**65**.— (1) The Ombudsman Commission is to consist of 3 members, all of whom are to be appointed by the President on—
+
+(*a*) the nomination of the Government, and
+
+(*b*) the passage of resolutions by Dáil Éireann and Seanad Éireann recommending their appointment.
+
+(2) One of the members shall be appointed as chairperson.
+
+(3) At least one of the 3 members shall be a woman and at least one of them shall be a man.
+
+(4) In considering the nomination of a person to be a member of the Ombudsman Commission, the Government shall satisfy themselves that the person has the appropriate experience, qualifications, training or expertise for appointment to a body having the functions of the Commission.
+
+(5) A person who holds judicial office in a superior court may, without relinquishing that office, be appointed, with his or her consent, as the chairperson of the Ombudsman Commission, but, unless otherwise provided by the terms of the appointment, he or she shall not, while a member, be required to carry out duties under statute as the holder of that judicial office.
+
+(6) *Schedule 4* has effect if a person who holds judicial office in a superior court is appointed as the chairperson of the Ombudsman Commission.
+
+(7) A person is not eligible to be nominated or appointed under this section if he or she—
+
+(*a*) is a member of either House of the Oireachtas,
+
+(*b*) is entitled under the rules of procedure of the European Parliament to sit in that Parliament,
+
+(*c*) is a member of a local authority, or
+
+(*d*) is or has been a member of the Garda Síochána.
+
+(8) The first appointments to the Ombudsman Commission become effective on the establishment day.
+
+(9) If the chairperson is temporarily unable to carry out the duties of office, the other 2 members shall determine which of them is to act, for all or part of the period of inability, in the chairperson’s place.
+
+(10) For as long as a member is acting in place of the chairperson under *subsection (9)* references in this Act to the chairperson of the Ombudsman Commission are to be read as references to that member.
+
+### 66. Terms and conditions of office.
+
+**66**.— (1) Subject to *section 68*, a member of the Ombudsman Commission holds office for the period, exceeding 3 years but not exceeding 6 years, that the Government may determine at the time of appointment.
+
+(2) A member is eligible for reappointment for a second term.
+
+(3) A member holds office on the terms and conditions relating to remuneration (including allowances for expenses, benefits in kind and superannuation) or other matters that may be determined by the Government at the time of appointment or reappointment.
+
+(4) The Ombudsman Commission may act notwithstanding one or more than one vacancy among its members, including a vacancy that results in *section 65(3)* not being complied with.
+
+(5) Whenever a vacancy occurs in the membership of the Ombudsman Commission caused by the resignation, removal from office or the death of a member, the vacancy is to be filled by appointment in the manner specified in *section 65*.
+
+(6) A member who is appointed to fill a vacancy caused by the resignation, removal from office or the death of a member holds office for the remainder of the term of office of the replaced member.
+
+### 67. Objectives, functions and powers.
+
+**67**.— (1) The objectives of the Ombudsman Commission are—
+
+(*a*) to ensure that its functions are performed in an efficient and effective manner and with full fairness to all persons involved in complaints and investigations under *Part 4* concerning the conduct of F134[members of the Garda Síochána,]
+
+F134[(*b*) to promote and encourage the use of mediation and other informal means of resolving complaints that are suitable for resolution by such means, and
+
+(*c*) to promote public confidence in the process for resolving complaints referred to in *paragraph (a)*.]
+
+(2) The functions of the Ombudsman Commission are—
+
+(*a*) to receive complaints made by members of the public concerning the conduct of members of the Garda Síochána,
+
+(*b*) to carry out the duties and exercise the powers assigned to it under *Part 4* in relation to those complaints,
+
+(*c*) to issue guidelines for the informal resolution under *section 90* of certain categories of complaints and to make procedural rules for investigations under *section 95*,
+
+(*d*) to report the results of its investigations under *Part 4* to the Garda Commissioner and, in appropriate cases, to the Director of Public Prosecutions and, if it reports to the Director, to send him or her a copy of each investigation file,
+
+(*e*) to conduct, in accordance with *section 102* F135[or *102B*] , other investigations of matters concerning the conduct of members of the Garda Síochána,
+
+(*f*) to examine practices, policies and procedures of the Garda Síochána in accordance with *section 106*,
+
+(*g*) to draw up with the Garda Commissioner protocols in accordance with *section 108*, and
+
+(*h*) to carry out any other duties and exercise any other powers assigned to it under this Act.
+
+(3) The Ombudsman Commission has all powers that are necessary for, or incidental to, the performance of its functions under this Act.
+
+(4) Subject to this Act, the Ombudsman Commission shall be independent in the performance of its functions.
+
+(5) The chairperson of the Ombudsman Commission shall manage and control generally the officers, administration and business of the Commission.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F134: Substituted and para. (c) inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 45(a)-(b), S.I. No. 612 of 2015.
+>
+> F135: Inserted (27.04.2015) by *Garda Síochána (Amendment) Act 2015* (3/2015) s. 2, S.I. No. 150 of 2015.
+
+### 68. Resignation or removal of members in certain cases.
+
+**68**.— (1) A member of the Ombudsman Commission may resign from office at any time by letter addressed to the President and copied to the Minister, and the resignation takes effect on the date the President receives the letter.
+
+(2) The President may remove a member of the Ombudsman Commission from office, but only for stated misbehaviour or for incapacity and then only on resolutions passed by Dáil Éireann and Seanad Éireann calling for the member’s removal.
+
+(3) A person ceases to be a member of the Ombudsman Commission as soon as he or she—
+
+(*a*) is nominated as a member of Seanad Éireann,
+
+(*b*) is elected as a member of either House of the Oireachtas or of the European Parliament,
+
+(*c*) is regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act 1997 as having been elected to the European Parliament to fill a vacancy, or
+
+(*d*) becomes a member of a local authority.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E47: Oireachtas committee may conduct enquiry into removal or proposed removal of an office holder under subs. (2) as provided (25.09.2013) by *Houses of the Oireachtas (Inquiries, Privileges and Procedures) Act 2013* (33/2013), s. 9, S.I. No. 362 of 2013.
+
+### 69. Seal of Ombudsman Commission.
+
+**69**.— (1) The Ombudsman Commission shall, as soon as practicable after its establishment, provide itself with a seal.
+
+(2) The seal of the Ombudsman Commission must be authenticated by the signature of—
+
+(*a*) a member of the Commission, and
+
+(*b*) an officer of the Commission authorised by it to act in that behalf.
+
+(3) Judicial notice is to be taken of the seal of the Ombudsman Commission and every document purporting to be an instrument made by the Commission and to be sealed with its seal (purporting to be authenticated in accordance with this section) is to be received in evidence and is deemed to be such instrument without proof unless the contrary is shown.
+
+### 70. Meetings and business of Ombudsman Commission.
+
+**70**.— (1) The quorum for a meeting of the Ombudsman Commission is 2 members.
+
+(2) Each question at a meeting of the Ombudsman Commission shall be determined by a majority of the votes of the members present and voting on the question.
+
+(3) In the case of an equal division of votes, the chairperson or other member presiding at the meeting has a second or casting vote.
+
+(4) Subject to this Act, the Ombudsman Commission may regulate its own procedures.
+
+### 71. Officers of Ombudsman Commission.
+
+**71**.— (1) The Ombudsman Commission may appoint such numbers of persons as its officers as may be approved by the Minister with the consent of the Minister for Finance.
+
+(2) The Ombudsman Commission shall determine the grades of its officers and the numbers of officers in each grade, as may be approved by the Minister with the consent of the Minister for Finance.
+
+(3) Officers of the Ombudsman Commission are civil servants in the Civil Service of the State.
+
+(4) The Ombudsman Commission is the appropriate authority (within the meaning of the Civil Service Commissioners Act 1956 and the Civil Service Regulation Acts 1956 to 1996) in relation to its officers.
+
+### 72. Transfer of staff to Ombudsman Commission.
+
+**72**.— (1) Any member of the staff of the Department of Justice, Equality and Law Reform who on the establishment day is engaged in duties in the Garda Síochána Complaints Board may be designated by order of the Minister and shall, on being so designated, be transferred to and become an officer of the Ombudsman Commission.
+
+(2) Before making an order for the purpose of *subsection (1)*, the Minister shall—
+
+(*a*) notify in writing any recognised trade union or staff association concerned of the Minister’s intention to do so, and
+
+(*b*) consider, within the time that may be specified in the notification, any representations made by that trade union or staff association in relation to the matter.
+
+(3) *Schedule 2* has effect in relation to staff transferred under this section.
+
+### 73. Designation of officers and others for purpose of investigations under Part 4 .
+
+**73**.— (1) A person who is appointed as or becomes an officer of the Ombudsman Commission under *section 71* or *72* or who is engaged by it under *section 74* may be designated in writing by the Commission for the purpose of performing functions under any provisions of *Part 4* specified in the instrument of designation.
+
+(2) The Ombudsman Commission shall provide each person designated under this section with a warrant card identifying the person and specifying the provisions of *Part 4* in relation to which the person is authorised to perform functions.
+
+(3) A person provided with a warrant card shall carry it at all times while performing functions under *Part 4* and, if requested, shall produce the card for inspection.
+
+### 74. Special assistance.
+
+**74**.— (1) The Ombudsman Commission may, for the purposes of performing its functions under this Act, enter into arrangements as follows:
+
+(*a*) with the Garda Commissioner for the engagement of members of the Garda Síochána below the rank of Garda Commissioner who have applied to the Commissioner to be considered for service under such arrangement;
+
+(*b*) with any police service outside the State for the engagement of police officers from that service;
+
+(*c*) with any other body for the engagement of other persons.
+
+(2) Arrangements under *subsection (1)* may provide for the persons concerned to be engaged (on contract or otherwise) for a period of temporary service with the Ombudsman Commission.
+
+(3) If designated by the Ombudsman Commission for the purpose of conducting an investigation under *section 98* or under that section as applied by *section 102* F136[or *102B*], a person who is a member of the Garda Síochána or another police service and who is engaged under this section for a period of temporary service with the Commission, has, in relation to that investigation, only the powers, immunities and privileges conferred and the duties imposed under *sections 98* and *99*.
+
+(4) During a period of temporary service with the Ombudsman Commission, a member of the Garda Síochána is not subject to the direction or control of the Garda Commissioner, but—
+
+(*a*) the member is entitled to continue to be paid as a member of the Garda Síochána,
+
+(*b*) the member’s service with the Commission is considered to be service with the Garda Síochána for pension, seniority and promotion purposes, and
+
+(*c*) the member is entitled to claim compensation under F137[the Garda Síochána (Compensation) Act 2022 for injuries inflicted as a result of a malicious incident within the meaning of that Act] in the course of, or in relation to, the carrying out of duties with the Commission.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F136: Inserted (27.04.2015) by *Garda Síochána (Amendment) Act 2015* (3/2015), s. 3, S.I. No. 150 of 2015.
+>
+> F137: Substituted (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), s. 33(d), S.I. No. 163 of 2023.
+
+### 75. Delegation of Ombudsman Commission’s functions.
+
+**75**.— (1) Subject to *subsection (2)*, the chairperson of the Ombudsman Commission may, in writing, delegate any of the Commission’s functions under this Act, including its functions under *Part 4*, to one, or more than one, of—
+
+(*a*) its members or officers, or
+
+(*b*) the persons engaged under *section 74*.
+
+(2) Functions under *sections 99* and *108* may not be delegated to anyone other than a member of the Ombudsman Commission.
+
+(3) A delegation under this section may—
+
+(*a*) relate to the performance of a function either generally or in a particular case or class of case or in respect of a particular matter,
+
+(*b*) be made subject to conditions or restrictions, and
+
+(*c*) be revoked or varied by the F138[chairperson of the] Ombudsman Commission at any time.
+
+(4) The delegation of a function does not preclude the Ombudsman Commission from performing the function.
+
+(5) Where the Ombudsman Commission’s functions under a provision of this Act are delegated to a person, any references in that provision to the Commission are to be read as references to that person.
+
+(6) An act or thing done by a person pursuant to a delegation under this section has the same force and effect as if done by the Ombudsman Commission.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F138: Inserted (18.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 43(f), S.I. No. 236 of 2007.
+
+### 76. Grants to Ombudsman Commission.
+
+**76**.— The Minister may, in each financial year, pay to the Ombudsman Commission, out of money provided by the Oireachtas, a grant of such amount as he or she, with the consent of the Minister for Finance, determines towards the expenses of the Commission in performing its functions.
+
+### 77. Accounts and audit.
+
+**77**.— (1) The Ombudsman Commission shall keep, in such form and in respect of such accounting periods as may be approved by the Minister with the consent of the Minister for Finance, all proper and usual accounts of money received or expended by it, including an income and expenditure account and a balance sheet.
+
+(2) Not later than 3 months after the end of the accounting period to which the accounts relate, the Ombudsman Commission shall submit accounts kept under this section to the Comptroller and Auditor General for audit.
+
+(3) Immediately after the audit, the Ombudsman Commission shall present to the Minister copies of—
+
+(*a*) the audited accounts, including the income and expenditure account, the balance sheet and such other (if any) accounts kept under this section as the Minister, after consulting with the Minister for Finance, may direct, and
+
+(*b*) the Comptroller and Auditor General’s report on the accounts.
+
+(4) As soon as practicable after presentation of the audited accounts and the Comptroller and Auditor General’s report, the Minister shall cause copies of them to be laid before each House of the Oireachtas.
+
+### 78. Accountability of Ombudsman Commission to Committee of Public Accounts.
+
+**78**.— (1) A member of the Ombudsman Commission nominated by it for the purpose shall, whenever required to do so by the Committee of Public Accounts, give evidence to that Committee on—
+
+(*a*) the regularity and propriety of the transactions recorded, or required to be recorded, in any book or other record of account subject to audit by the Comptroller and Auditor General that the Commission is required by this Act to prepare,
+
+(*b*) the economy and efficiency of the Commission in the use of its resources,
+
+(*c*) the systems, procedures and practices employed by the Commission for the purpose of evaluating the effectiveness of its operations, and
+
+(*d*) any matter affecting the Commission referred to in—
+
+(i) a special report of the Comptroller and Auditor General under section 11(2) of the Comptroller and Auditor General (Amendment) Act 1993, or
+
+(ii) any other report of the Comptroller and Auditor General that is laid before Dáil Éireann in so far as the report relates to a matter specified in any of *paragraphs (a)* to *(c)*.
+
+(2) A member of the Ombudsman Commission who gives evidence under this section shall not—
+
+(*a*) question or express an opinion on the merits of any policy of the Government or a Minister of the Government or on the merits of the objectives of such policy, or
+
+(*b*) provide information that might facilitate the commission of an offence, prejudice a criminal investigation or prosecution or jeopardise the safety of a person.
+
+### 79. Accountability to other Oireachtas committees.
+
+**79**.— (1) In this section “committee” means—
+
+(*a*) a committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas (other than the Committee of Public Accounts, the Committee on Members’ Interests of Dáil Éireann or the Committee on Members’ Interests of Seanad Éireann), or
+
+(*b*) a sub-committee of a committee as defined in *paragraph (a)*.
+
+(2) Subject to *subsection (3)*, a member of the Ombudsman Commission nominated by it for the purpose shall, at the written request of a committee, attend before it to give account for the general administration of the Commission.
+
+(3) The member of the Ombudsman Commission shall not be required to give account before a committee for any matter that is or is likely to be, the subject of proceedings before a court or tribunal in the State.
+
+(4) The member of the Ombudsman Commission shall, if of the opinion that *subsection (3)* applies to a matter about which he or she is requested to give an account before a committee, inform the committee of that opinion and the reasons for the opinion.
+
+(5) The information required under *subsection (4)* must be given to the committee in writing unless it is given when the member of the Ombudsman Commission is before the committee.
+
+(6) If, on being informed of the member of the Ombudsman Commission’s opinion about the matter, the committee decides not to withdraw its request relating to the matter, the High Court may, on application under *subsection (7)*, determine whether *subsection (3)* applies to the matter.
+
+(7) Either the Ombudsman Commission or the committee may apply in a summary manner to the High Court for a determination under *subsection (6)*, but only if the application is made within 21 days after the date on which the member of the Commission is informed of the committee’s decision not to withdraw its request.
+
+(8) Pending the determination of an application under *subsection (7)*, the member of the Ombudsman Commission shall not attend before the committee to give account for the matter that is the subject of the application.
+
+(9) If the High Court determines that *subsection (3)* applies to the matter, the committee shall withdraw its request in so far as it relates to the matter, but if the Court determines that *subsection (3)* does not apply, the member of the Ombudsman Commission shall attend before the committee to give account for the matter.
+
+(10) In carrying out duties under this section, a member of the Ombudsman F139[Commission] Commission shall not—
+
+(*a*) question or express an opinion on the merits of any policy of the Government or a Minister of the Government or on the merits of the objectives of such policy, or
+
+(*b*) provide information that might facilitate the commission of an offence, prejudice a criminal investigation or prosecution or jeopardise the safety of a person.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F139: Inserted (18.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 43(g), S.I. No. 236 of 2007.
+
+### 80. Various reports by Ombudsman Commission.
+
+**80**.— (1) Not later than March 31 in each year, the Ombudsman Commission shall submit to the Minister a report on its activities in the immediately preceding year.
+
+(2) The Ombudsman Commission shall, within 2 years from the date of its establishment, submit to the Minister a report on—
+
+(*a*) the effectiveness of the Commission, and
+
+(*b*) the adequacy of the functions assigned to it by this Act.
+
+(3) The report submitted under *subsection (2)* may contain recommendations for improving the effectiveness of the Ombudsman Commission.
+
+(4) At the end of each 5 year period commencing with the date of its establishment, the Ombudsman Commission shall submit to the Minister a report reviewing the general performance of its functions in the preceding 5 years.
+
+(5) The Ombudsman Commission may make any other reports that it considers appropriate for drawing to the Minister’s attention matters that have come to its notice and that, in its opinion, should, because of their gravity or other exceptional circumstances, be the subject of a special report to the Minister.
+
+(6) As soon as practicable after receiving a report under this section, the Minister shall cause a copy of the report to be laid before each House of the Oireachtas.
+
+### 81. Confidentiality of information obtained by Ombudsman Commission.
+
+**81**.— (1) A person who is or was a member or officer of the Ombudsman Commission or who is or was engaged under contract or other arrangement by the Commission shall not disclose, in or outside the State, information obtained in carrying out the duties of that person’s office or of his or her contract or other arrangement with the Commission if the disclosure is likely to have a harmful effect.
+
+(2) For the purpose of this section, the disclosure of information referred to in *subsection (1)* does not have a harmful effect unless it—
+
+(*a*) impedes an investigation under *Part 4* or otherwise prejudices the effective performance of the Ombudsman Commission’s functions,
+
+(*b*) results in the identification of a person—
+
+(i) who is a complainant or the subject of a complaint, and
+
+(ii) whose identity is not at the time of the disclosure a matter of public knowledge,
+
+(*c*) results in the publication of information that—
+
+(i) relates to a person who is a complainant or the subject of a complaint or who has given evidence to the Ombudsman Commission, and
+
+(ii) is of such a nature that its publication would be likely to discourage the person to whom the information relates or any other person from reporting a complaint or giving evidence to the Ombudsman Commission,
+
+or
+
+(*d*) results in the publication of F140[personal information (within the meaning of section 2(1) of the Freedom of Information Act 2014)] obtained in the course of an investigation and constitutes an unwarranted and serious infringement of a person’s right to privacy.
+
+(3) For the purpose of this section, a person is presumed, unless the contrary is proved, to know that disclosure of information referred to in *subsection (1)* is likely to have a harmful effect if a reasonable person would, in all the circumstances, be aware that its disclosure could have that effect.
+
+(4) *Subsection (1)* does not prohibit a person referred to in that subsection from disclosing information if the disclosure—
+
+(*a*) is made to—
+
+(i) the Garda Commissioner,
+
+(ii) the Minister,
+
+(iii) the Attorney General,
+
+(iv) the Director of Public Prosecutions,
+
+(v) the Chief State Solicitor,
+
+(vi) the Criminal Assets Bureau,
+
+(vii) the Comptroller and Auditor General,
+
+(viii) the Garda Síochána Inspectorate or an officer of the Inspectorate,
+
+(ix) the Revenue Commissioners, or
+
+(x) a member of either of the Houses of the Oireachtas where relevant to the proper discharge of that member’s functions,
+
+(*b*) is made under *Part 4* to a person in relation to—
+
+(i) a complaint made by the person, or
+
+(ii) an investigation concerning the person,
+
+(*c*) is made to a court,
+
+F140[(*d*) is made to a tribunal appointed under the Tribunals of Inquiry (Evidence) Acts 1921 to 2011, a commission of investigation established under the Commissions of Investigation Act 2004 or a committee within the meaning of section 2 of the Houses of the Oireachtas (Inquiries, Privileges and Procedures) Act 2013 for the purposes of a Part 2 inquiry, within the meaning of that section, under that Act,]
+
+(*e*) is made in the course of, and in accordance with, the duties of that person’s office or employment or of his or her duties under a contract or other arrangement to work with or for the Ombudsman Commission,
+
+(*f*) is authorised by the Ombudsman Commission, or
+
+(*g*) is otherwise authorised by law.
+
+(5) A person who contravenes *subsection (1)* is guilty of an offence and is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €50,000 or imprisonment for a term not exceeding 5 years or both.
+
+(6) A person who contravenes *subsection (1)* and who receives any gift, consideration or advantage as an inducement to disclose the information to which the contravention relates or as a reward for, or otherwise on account of, the disclosure of that information is guilty of an offence and is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €3,000 or imprisonment for a term not exeeding 12 months or both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €75,000 or imprisonment for a term not exceeding 7 years or both.
+
+(7) The provisions of this section are in addition to, and not in substitution for, the provisions of the Official Secrets Act 1963.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F140: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 46(a)-(b), S.I. No. 612 of 2015.
+>
+> **Editorial Notes:**
+>
+> E48: A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 81A. Power of Ombudsman Commission to enter into agreements with law enforcement agencies or other relevant persons or bodies outside the State
+
+F141[**81A.** (1) The Ombudsman Commission may, with the prior consent of the Government, enter into an agreement with a relevant person or body for the purpose of facilitating the performance by each party to the agreement of their respective functions, which agreement may, for that purpose, provide for—
+
+(*a*) the co-operation of the parties,
+
+(*b*) the exchange of information between the parties, or
+
+(*c*) such other matters as the Ombudsman Commission thinks fit.
+
+(2) Subject to the General Data Protection Regulation and the Data Protection Acts 1988 to 2018, the Ombudsman Commission may, pursuant to and in accordance with the terms of an agreement under this section, provide information to, and receive information from, the other party to the agreement.
+
+(3) In this section—
+
+"General Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 [^2]on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC;
+
+"relevant person or body" means—
+
+(*a*) a police service or other law enforcement agency outside the State, or
+
+(*b*) a person or body outside the State in whom or in which functions are vested under the law of a place other than the State that are equivalent, or similar, to the functions of the Ombudsman Commission under this or any other enactment.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F141: Inserted (4.09.2019) by *Criminal Justice (International Co-Operation) Act 2019* (27/2019), s. 7, S.I. No. 443 of 2019.
+>
+> **Editorial Notes:**
+>
+> E49: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+## PART 4 Complaints, Investigations and other Procedures — PART 4 — Complaints, Investigations and other Procedures
+
+### 82. Definitions (Part 4).
+
+**82**.— (1) In this Part, unless the context otherwise requires—
+
+“admissible complaint” means a complaint determined by the Ombudsman Commission under *section 87* to be admissible;
+
+“breach of discipline” means conduct specified in *Schedule 5*;
+
+“complainant” means—
+
+(*a*) a person who makes a complaint,
+
+(*b*) a person on whose behalf a complaint is made, and
+
+(*c*) where a complaint is made on behalf of another by a person authorised to do so under *section 83*, the authorised person.
+
+“conduct” includes any act or omission and a reference to the occurrence of any conduct includes the doing of an act or the making of an omission;
+
+“disciplinary proceeding” means a proceeding conducted in accordance with the Disciplinary Regulations;
+
+“Garda Commissioner” includes a Deputy Garda Commissioner or an Assistant Garda Commissioner acting in place of the Garda Commissioner under *section 32*;
+
+“member of the Garda Síochána” does not include the Garda Commissioner;
+
+“member of the public” means a person other than a member of the Garda Síochána or the Garda Commissioner;
+
+“misbehaviour” means conduct that constitutes an offence or a breach of discipline;
+
+“serious harm” means injury that—
+
+(*a*) creates a substantial risk of death,
+
+(*b*) causes serious disfigurement, or
+
+(*c*) causes substantial loss or impairment of mobility of the body as a whole or of the function of any particular bodily member or organ.
+
+(2) A reference in any provision of this Part to a designated officer of the Ombudsman Commission is to a person designated under *section 73* for the purpose of performing functions F142[under the provisions] of this Part.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F142: Substituted (18.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 43(h), S.I. No. 236 of 2007.
+
+### 83. How complaints are made by members of the public.
+
+**83**.— (1) Subject to *section 84*, a complaint concerning any conduct of a member of the Garda Síochána that is alleged to constitute misbehaviour may be made to the Ombudsman Commission—
+
+(*a*) by a member of the public who is directly affected by, or who witnesses, the conduct, or
+
+(*b*) on behalf of that member of the public, by any other person if the member of the public on whose behalf the complaint is being made consents in writing or orally to its being made or is, because of age or a mental or physical condition, incapable of giving consent.
+
+(2) The complaint may be made directly to the Ombudsman Commission or by stating, giving or sending it—
+
+(*a*) to the Garda Commissioner,
+
+(*b*) to any member of the Garda Síochána at a Garda Síochána station, or
+
+(*c*) to a member at or above the rank of chief superintendent at a place other than a Garda Síochána station,
+
+for forwarding under *section 85* to the Ombudsman Commission.
+
+(3) A complaint may be made directly to the Ombudsman Commission by stating it to an officer of the Commission or by giving or sending it to an officer or member of the Commission.
+
+### 84. Time limits for making complaints.
+
+**84**.— (1) A complaint must be made F143[within the period of 12 months] beginning on the date of the conduct giving rise to the complaint or within any extension of that period allowed under *subsection (2)*.
+
+(2) The Ombudsman Commission may extend the time limit for making a complaint if it considers that there are good reasons for doing so.
+
+(3) A complaint is considered to be made as soon as it is received by—
+
+(*a*) the Ombudsman Commission, if made directly to it, or
+
+(*b*) the Garda Commissioner or a member of the Garda Síochána, if made by stating, giving or sending it as described in *section 83(2)* for forwarding to the Commission.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F143: Substituted (27.04.2015) by *Garda Síochána (Amendment) Act 2015* (3/2015), s. 4, S.I. No. 150 of 2015.
+
+### 85. If complaint is made to Garda Síochána.
+
+**85**.— (1) When the Garda Commissioner or a member of the Garda Síochána receives a complaint under *section 83(2)*, he or she shall immediately—
+
+(*a*) record the complaint and the date and time of its receipt,
+
+(*b*) provide the complainant with a written acknowledgement of its receipt, and
+
+(*c*) forward to the Ombudsman Commission a copy of the complaint or, if the complaint was not made in writing, a copy of the record of the complaint.
+
+(2) If the complaint is made to a member of the Garda Síochána at a Garda Síochána station, the member in charge of the station at the time the complaint is received shall ensure that the Garda Commissioner—
+
+(*a*) is notified of the complaint, and
+
+(*b*) is sent a copy of the complaint or, if the complaint was not made in writing, a copy of the record of the complaint.
+
+(3) If the complaint is made to a member at or above the rank of chief superintendent at a place other than a Garda Síochána station, that member shall ensure that the Garda Commissioner—
+
+(*a*) is notified of the complaint, and
+
+(*b*) is sent a copy of the complaint or, if the complaint was not made in writing, a copy of the record of the complaint.
+
+### 86. If complaint is made directly to Ombudsman Commission.
+
+**86**.— (1) When the Ombudsman Commission receives a complaint directly from a person under *section 83(2)*, an officer of the Commission shall immediately—
+
+(*a*) record the complaint and the date and time of its receipt,
+
+(*b*) provide the complainant with a written acknowledgement of its receipt, and
+
+(*c*) notify the Garda Commissioner of the complaint.
+
+(2) However, if it appears to the officer that the Garda Commissioner will be notified under *section 88* in relation to the complaint within 24 hours after it was received by the Ombudsman Commission, the officer need not comply with *subsection (1)(c)* of this section.
+
+### 87. Determination of whether complaint is admissible.
+
+**87**.— (1) On receiving a complaint directly from a complainant or receiving a copy or record of a complaint from the Garda Commissioner or a member of the Garda Síochána, the Ombudsman Commission shall determine whether the complaint is admissible or inadmissible.
+
+(2) Subject to *subsection (3)*, a complaint concerning the conduct of a member of the Garda Síochána is admissible if—
+
+(*a*) the complaint is made by or on behalf of a member of the public authorised under *section 83* to make the complaint,
+
+(*b*) the conduct alleged would, if substantiated, constitute misbehaviour by the member of the Garda Síochána,
+
+(*c*) the complaint is made within the time allowed under *section 84*, and
+
+(*d*) the complaint is not frivolous or vexatious.
+
+(3) The following matters are not admissible complaints:
+
+(*a*) a complaint in so far as it relates to the general direction and control of the Garda Síochána by the Garda Commissioner;
+
+(*b*) a complaint about the conduct of a member of the Garda Síochána while the member was not on duty, unless the conduct alleged would, if proved, be likely to bring discredit on the Garda Síochána.
+
+(4) A complaint concerning a person who, at the time of the conduct that is the subject matter of the complaint, was a member of the Garda Síochána is not inadmissible by reason only that the person—
+
+(*a*) is, at the time the complaint is made, no longer a member, or
+
+(*b*) retires or resigns from the Garda Síochána at any time after the making of the complaint.
+
+(5) Nothing in this section is to be taken to limit the application of *section 93*.
+
+### 88. Notification following determination of whether complaint is admissible.
+
+**88**.— (1) On determining under *section 87* that a complaint is inadmissible, the Ombudsman Commission shall—
+
+(*a*) notify, in writing, the complainant, the member of the Garda Síochána whose conduct is the subject of the complaint and the Garda Commissioner of its determination,
+
+(*b*) include in the notification the reason for the determination, and
+
+(*c*) take no further action in relation to the complaint.
+
+(2) On determining under *section 87* that a complaint is admissible, the Ombudsman Commission shall as soon as practicable—
+
+(*a*) notify, in writing, the complainant and the Garda Commissioner of its determination, and
+
+(*b*) where the complaint was made directly to the Commission, send the Garda Commissioner a copy of the complaint or, if the complaint was not made in writing, a copy of the record of the complaint.
+
+(3) On being notified of an admissible complaint concerning the conduct of a member of the Garda Síochána, the Garda Commissioner shall, subject to *section 89(1)(b)*, notify the member that a complaint has been made and specify the nature of the complaint and the name of the complainant.
+
+### 89. Duty to preserve evidence relating to complaint.
+
+**89**.— (1) The Garda Commissioner—
+
+(*a*) shall ensure that members of the Garda Síochána, on becoming aware of a complaint, take any lawful measures that appear to them to be necessary or expedient for the purpose of obtaining and preserving evidence relating to the conduct that is the subject matter of the complaint, and
+
+(*b*) may postpone notifying a member of the Garda Síochána whose conduct is the subject matter of the complaint until those measures are taken.
+
+(2) *Subsection (1)* applies whether or not a determination has been made under *section 87* about the admissibility of the complaint.
+
+### 90. Resolution of complaint by mediation or other informal means.
+
+**90**.— (1) The F144[Ombudsman Commission shall, following consultation with the Garda Commissioner, issue guidelines] providing for the resolution, by mediation or other informal means, of admissible complaints other than—
+
+(*a*) complaints to which *section 91* applies,
+
+(*b*) complaints about conduct that appears to constitute an offence, and
+
+(*c*) complaints determined in accordance with the guidelines not to be suitable for resolution by mediation or other informal means.
+
+(2) The guidelines may include provision for—
+
+(*a*) a determination to be made by the Ombudsman Commission about whether a complaint is or is not suitable for resolution by mediation or other informal means,
+
+(*b*) the persons who may attempt to mediate or otherwise resolve the complaint,
+
+(*c*) the recording of the manner in which the complaint was resolved and the complainant’s agreement to the resolution, and
+
+(*d*) any other matters that the Ombudsman Commission considers necessary or appropriate for facilitating the resolution of a complaint by mediation or other informal means.
+
+(3) No attempt may be made to resolve a complaint by mediation or other informal means without the consent of the complainant and the member of the Garda Síochána whose conduct is the subject matter of the complaint.
+
+(4) A consent given by a member of the Garda Síochána for the purpose of this section is not to be taken as an admission of any allegation made in a complaint against the member.
+
+(5) No answer or statement made, in the course of attempting to resolve a complaint pursuant to the guidelines, by the complainant or by the member of the Garda Síochána whose conduct is the subject matter of the complaint may—
+
+(*a*) be communicated to the Garda Commissioner or any other person (except the persons participating in the attempt to resolve the complaint), or
+
+(*b*) be used in any civil or criminal proceedings.
+
+(6) If a complaint is resolved pursuant to the guidelines—
+
+(*a*) the Ombudsman Commission shall notify the Garda Commissioner of the resolution of the complaint,
+
+(*b*) any record of the complaint held by the Garda Síochána shall be expunged, and
+
+(*c*) the member whose conduct was the subject matter of the complaint shall not be discriminated against by way of dismissal, reduction in rank, denial of an opportunity for promotion or otherwise by reason only of the complaint.
+
+(7) The F144[Ombudsman Commission may, following consultation with the Garda Commissioner, revise any guidelines issued under this section or withdraw those guidelines] and issue new guidelines.
+
+(8) For the purpose of *subsection (5)*, “civil or criminal proceedings” includes disciplinary proceedings.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F144: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 47(1)(a), (b), S.I. No. 612 of 2015, subject to transitional provision in subs. (2).
+
+### 91. Investigation of complaints concerning death of, or serious harm to, a person.
+
+**91**.— (1) If a complaint concerns the death of, or serious harm to, a person as a result of Garda operations or while in the custody or care of the Garda Síochána, the Ombudsman Commission shall immediately direct a designated officer to—
+
+(*a*) examine the complaint for the purpose of recommending whether the complaint should be investigated under *section 95* or *98*, and
+
+(*b*) report his or her recommendation to the Commission as soon as practicable.
+
+(2) On receiving the designated officer’s recommendation, the Ombudsman Commission shall either—
+
+(*a*) conduct an investigation under *section 95*, or
+
+(*b*) direct a designated officer of the Commission to investigate the complaint under *section 98*.
+
+### 92. If other complaints are not resolved informally or if they warrant investigation.
+
+**92**.— If an admissible complaint is not resolved pursuant to the guidelines under *section 90* or is a complaint referred to in *paragraphs (a)* to *(c)* of *section 90(1)*, the Ombudsman Commission may, as it considers appropriate—
+
+(*a*) refer the complaint to the Garda Commissioner to be dealt with in accordance with *section 94*,
+
+(*b*) conduct an investigation under *section 95*, but, subject to *section 95(2)*, only if the conduct alleged in the complaint does not appear to constitute an offence, or
+
+(*c*) direct a designated officer of the Commission to investigate the complaint under *section 98*.
+
+### 93. Power to discontinue investigation.
+
+**93**.— (1) Notwithstanding any other provision of this Act, the Ombudsman Commission may direct that the investigation of a complaint be discontinued if—
+
+(*a*) as a result of information obtained after the complaint was determined to be admissible, the Commission considers that the complaint is frivolous or vexatious,
+
+(*b*) the Commission considers that the complaint was made in the knowledge that it was false or misleading, or
+
+(*c*) having regard to all the circumstances, the Commission considers that further investigation is not necessary or reasonably practicable.
+
+(2) Where a direction is made under *subsection (1)* in relation to a complaint, the Ombudsman Commission shall notify in writing the following of its decision and the reason:
+
+(*a*) the complainant;
+
+(*b*) the member of the Garda Síochána whose conduct was the subject matter of the complaint;
+
+(*c*) the Garda Commissioner.
+
+### 94. If complaint is referred to Garda Commissioner.
+
+**94**.— (1) On referral of a complaint under *section 92(a)*, the Garda Commissioner shall—
+
+(*a*) appoint a member of the Garda Síochána to investigate the complaint under the Disciplinary Regulations, and
+
+(*b*) ensure that the appointed member has not been involved in any capacity in relation to an earlier aspect of the case.
+
+(2) The Ombudsman Commission may require that no appointment be made under this section without its prior approval of the member whom the Garda Commissioner proposes to appoint.
+
+(3) The Ombudsman Commission may decide, either on referring the complaint under *section 92(a)* or at any time during the investigation, to supervise the investigation of a complaint if it considers it desirable in the public interest to do so.
+
+(4) The Ombudsman Commission shall notify the Garda Commissioner of its intention to supervise the investigation of a complaint.
+
+(5) If the investigation is supervised, the Ombudsman Commission may do one or more of the following:
+
+(*a*) require the appointed member to keep it informed of the progress of the investigation;
+
+(*b*) require the appointed member to submit to it such interim reports at such times and in relation to such matters as the Commission may direct;
+
+(*c*) arrange for a designated officer of the Commission to be present during any interview conducted by the appointed member in the course of the investigation;
+
+(*d*) direct the appointed member to investigate further any aspect of the complaint.
+
+(6) If the investigation is supervised, the appointed member shall submit a report on the results of the investigation to the Ombudsman Commission as soon as practicable after completing the investigation and within the time limit that the Commission may specify for submission of the report.
+
+(7) If the Ombudsman Commission, after considering the report submitted under *subsection (6)*, is of the opinion that a breach of the Disciplinary Regulations F145[may have been committed] by the member of the Garda Síochána whose conduct was under investigation, it shall make a report in accordance with *section 97* to the Garda Commissioner.
+
+(8) If the Ombudsman Commission, after considering the report submitted under *subsection (6)*, is of the opinion that the conduct under investigation may constitute an offence by the member of the Garda Síochána concerned, the Commission shall—
+
+(*a*) direct a designated officer to investigate the complaint under *section 98*, or
+
+(*b*) comply with *section 101(2)* as though the report had been made by a designated officer under *section 101(1)*.
+
+(9) If the investigation is not supervised, the Garda Commissioner shall inform the Ombudsman Commission, the complainant and the member of the Garda Síochána whose conduct was under investigation of—
+
+(*a*) the results of any disciplinary proceedings instituted following the investigation or, if no such proceedings are instituted, of the results of the investigation, and
+
+(*b*) if appropriate, any action that the Garda Commissioner proposes to take in relation to that member.
+
+(10) If dissatisfied with the results of an unsupervised investigation or with any disciplinary proceedings instituted as a result of that investigation, the complainant may request the Ombudsman Commission to review the matter.
+
+(11) Following a review of the matter, the Ombudsman Commission may—
+
+(*a*) request the Garda Commissioner to review the investigation of the complaint and to report back to it concerning any further action that he or she proposes to take in the matter, or
+
+(*b*) if it considers it necessary to do so, either investigate the complaint under *section 95* or direct a designated officer of the Commission to investigate the complaint under *section 98*.
+
+(12) Nothing in this section prevents the Ombudsman Commission from deciding at any time to take over the investigation of a complaint referred by it to the Garda Commissioner.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F145: Substituted (18.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 43(i), S.I. No. 236 of 2007.
+
+### 95. Investigation by Ombudsman Commission of complaints that do not appear to involve offences.
+
+**95**.— (1) If the Ombudsman Commission decides to investigate a complaint about conduct that does not appear to constitute an offence, it shall give the complainant and the member of the Garda Síochána concerned an opportunity—
+
+(*a*) to be heard, in person or by a legal representative, and
+
+(*b*) to present evidence and make submissions to the Commission.
+
+(2) *Subsection (1)* applies also in relation to a complaint about conduct that appears to constitute an offence, but that is determined on investigation under *section 98* not to constitute an offence.
+
+(3) Subject to this section, the Ombudsman Commission may make rules governing the procedure to be followed in investigations under this section.
+
+(4) As soon as practicable after the conclusion of an investigation under this section, the Ombudsman Commission shall make a report in accordance with *section 97* to the Garda Commissioner.
+
+(5) An investigation of a matter under this section does not preclude the subsequent investigation of the matter under *section 98*.
+
+### 96. Powers relating to investigation under section 95 .
+
+**96**.— (1) For the purpose of an investigation under *section 95*, the Ombudsman Commission—
+
+(*a*) may require a person who, in its opinion, possesses information or has a document or thing in his or her power or control that is relevant to the investigation, to provide that information, document or thing to the Commission, and
+
+(*b*) where appropriate, may require that person to attend before the Commission for that purpose,
+
+and the person shall, subject to *subsection (4)*, comply with the requirement.
+
+(2) A requirement under *subsection (1)* shall specify—
+
+(*a*) a period within which the person is to comply with the requirement, and
+
+(*b*) as appropriate—
+
+(i) the place at which the person shall attend to give the information concerned or to which the person shall deliver the document or thing concerned, or
+
+(ii) the place to which the person shall send the information, document or thing concerned.
+
+(3) A person required to attend before the Ombudsman Commission under *subsection (1)*—
+
+(*a*) shall answer fully and truthfully any question put to him or her by the Commission, and
+
+(*b*) if so requested by the Commission, shall sign a declaration of the truth of his or her answer to the question.
+
+(4) A person may not be required under *subsection (1)(a)* or *(3)(a)* to provide any information, document or thing that is designated, or is of a class designated, under *section 126* as relating to the security of the State, except in accordance with a direction of the Minister.
+
+(5) If a person required under *subsection (1)(a)* or *(3)(a)* to provide any information, document or thing claims that *subsection (4)* applies in relation to the matter, the Ombudsman Commission shall refer the matter to the Minister.
+
+(6) If the Minister determines that the disclosure of all or part of the information, document or thing specified in the requirement would not be prejudicial to the security of the State or that its disclosure is necessary for the proper investigation of a matter concerning the death of, or serious harm to, a person as a result of Garda operations or while in the care or custody of the Garda Síochána, the Minister may issue a direction—
+
+(*a*) specifying that all or part, as the case may be, of the document, information or thing be disclosed, and
+
+(*b*) imposing any conditions or restrictions relating to the security of the State that the Minister considers appropriate.
+
+(7) If it appears to the Ombudsman Commission that a person has failed to comply with a requirement under *subsection (1)(a)* or *(3)(a)* for any reason other than one relating to the security of the State, the Commission may apply to the Circuit Court for an order under *subsection (8)*.
+
+(8) If satisfied after hearing the application about the person’s failure to comply with the requirement in question, the Circuit Court may, subject to *subsection (9)*, make an order requiring that person to comply with the requirement.
+
+(9) If the Circuit Court is of opinion that the requirement in question purports to require the person concerned to provide any information, document or thing—
+
+(*a*) in respect of which he or she is entitled to claim legal professional privilege, or
+
+(*b*) the disclosure of which would—
+
+(i) jeopardise a person’s safety, or
+
+(ii) for any other reason not be in the public interest,
+
+the Court shall, to that extent, set aside, vary or attach conditions to the requirement.
+
+(10) Any information, document or thing provided by a person in accordance with a requirement under *subsection (1)(a)* or *(3)(a)* or with a direction under *subsection (6)* is not admissible against that person in criminal proceedings and this shall be explained to the person in ordinary language by the Ombudsman Commission.
+
+(11) A person who fails to comply with a direction under *subsection (6)* or an order under *subsection (8)* is guilty of an offence and is liable on summary conviction to a fine not exceeding €2,500 or imprisonment for a term not exceeding 6 months or both.
+
+(12) An application under *subsection (7)* to the Circuit Court shall be made to a judge of the Circuit Court for—
+
+(*a*) the circuit in which the respondent resides or ordinarily carries on any profession, business or occupation, or
+
+(*b*) if the respondent is a member of the Garda Síochána, the circuit in which that member is stationed.
+
+(13) For the purpose of *subsection (10)*, “criminal proceedings” does not include disciplinary proceedings.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E50: A fine of €2,500 translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 97. Report following investigation under section 94 or 95.
+
+**97**.— (1) The Ombudsman Commission shall include in its report under *section 94(7)* or 95*(4)* to the Garda Commissioner—
+
+(*a*) a statement of the facts established by the investigation under *section 94* or *95* into the conduct of the member of the Garda Síochána who is the subject of the report,
+
+(*b*) a recommendation about whether or not disciplinary proceedings should be instituted under the Disciplinary Regulations against that member,
+
+(*c*) a statement of the reasons for the recommendation, and
+
+(*d*) if the Commission recommends that those proceedings should be instituted, the particulars relating to the proceedings that the Commission considers appropriate.
+
+(2) In any disciplinary proceedings instituted in accordance with a recommendation in a report referred to in *subsection (1)*, a document that purports to be that report—
+
+(*a*) is evidence of the facts stated in the document unless the contrary is proved, and
+
+(*b*) is deemed to be such document unless the contrary is proved.
+
+(3) The Ombudsman Commission is entitled to be notified of a decision made under the Disciplinary Regulations concerning the member of the Garda Síochána who is the subject of the report.
+
+### 98. Powers of designated officers of Ombudsman Commission for purpose of investigating complaints that appear to involve offences.
+
+**98**.— (1) If directed by the Ombudsman Commission under *section 91(2)(b)*, *92(c)*, *94(8)(a)* or *94(11)(b*) to investigate a complaint under this section, a designated officer has F146[...] for the purposes of the investigation all the powers, immunities and privileges conferred and all the duties imposed on any member of the Garda Síochána by or under any enactment or the common law, including those relating to the following matters:
+
+(*a*) the entry and search of any place (other than a Garda Síochána station) pursuant to a warrant issued in accordance with law and the seizure of things authorised by the warrant;
+
+(*b*) the arrest, with or without a warrant, of a person;
+
+(*c*) the bringing of a charge against a person;
+
+(*d*) the issue of a summons to a person;
+
+(*e*) the search of a person and the taking of his or her photograph, fingerprints and palmprints;
+
+(*f*) the detention and questioning of a person;
+
+(*g*) the taking of bodily samples or other things from a person for the purpose of forensic testing.
+
+(2) For the purpose of *subsection (1)*, an enactment conferring a power, immunity or privilege or imposing a duty on a member of the Garda Síochána in relation to any of the matters specified in that subsection applies with the following modifications and any other necessary modifications:
+
+(*a*) subject to *paragraph (c)*, a reference in the enactment to a member of the Garda Síochána is to be read as a reference to a designated officer of the Ombudsman Commission;
+
+(*b*) a reference in section 4 of the Criminal Justice Act 1984 or in the Criminal Justice Act 1984 (Treatment of Persons in Custody in Garda Síochána Stations) Regulations 1987 (S.I. No. 119 of 1987) to a member in charge of a Garda Síochána station is to be read as a reference to a designated officer of the Ombudsman Commission;
+
+(*c*) a reference in the enactment to a member of the Garda Síochána not below the rank of inspector is to be read as a reference to a member of the Ombudsman Commission.
+
+(3) Any person who delays, obstructs or interferes with a designated officer in the exercise of the powers conferred or the carrying out of the duties imposed under this section is guilty of an offence and is liable on summary conviction to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both.
+
+(4) An investigation of a matter under this section does not preclude the subsequent investigation of the matter under *section 95*.
+
+(5) For the purposes of this section—
+
+F147[“enactment” means a statute or statutory instrument, whether passed or made before or after the passing of this Act or any portion of such a statute or statutory instrument, but does not include any provision of the Offences against the State Acts 1939 to 1998;]
+
+“place” includes a dwelling.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F146: Deleted (18.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 43(j), S.I. No. 236 of 2007.
+>
+> F147: Substituted (27.04.2015) by *Garda Síochána (Amendment) Act 2015* (3/2015), s. 5, S.I. No. 150 of 2015.
+>
+> **Editorial Notes:**
+>
+> E51: A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E52: Previous affecting provision: definition of “enactment” amended (12.07.2009) by *Criminal Justice (Surveillance) Act 2009* (19/2009), s. 17, commenced on enactment; substituted as per F-note above.
+
+### 99. Search of Garda Síochána station.
+
+**99**.— (1) Subject to this section, a designated officer directed by the Ombudsman Commission to investigate a complaint under *section 98* may carry out a search of a Garda Síochána station in accordance with an authorisation issued F148[...] by the Commission.
+
+(2) Subject to *subsection (3)*, the Ombudsman Commission may issue to a designated officer an authorisation to search a Garda Síochána station, if the Commission is satisfied that the officer—
+
+(*a*) with reasonable cause, suspects the member under investigation to be guilty of an offence, and
+
+(*b*) has reasonable grounds for suspecting that evidence of, or relating to, the commission of the offence is to be found in the station or in the possession of any person to be found there.
+
+(3) Before issuing an authorisation to search a Garda Síochána station designated by regulation under *section 126* as one that, for reasons relating to the security of the State, may not be searched except to the extent specified in a direction of the Minister, the Ombudsman Commission shall notify the Garda Commissioner and the Minister of its intention to issue the authorisation.
+
+(4) If, on being informed of the intention to issue the authorisation, the Garda Commissioner informs the Ombudsman Commission that he or she objects to the search of the designated Garda Síochána station on grounds relating to the security of the State, the Garda Commissioner shall immediately request the Minister to consider the objection.
+
+(5) If satisfied, after considering the objection and any submission made by the Ombudsman Commission concerning the objection, that the search of a document storage facility in the designated Garda Síochána station or of a part of that station would not be prejudicial to the security of the State or that such search is necessary for the proper investigation of a matter concerning the death of, or serious harm to, a person as a result of Garda operations or while in the care or custody of the Garda Síochána, the Minister shall issue directions specifying the part of the document storage facility or the part of the station that may be searched.
+
+(6) A direction under *subsection (5)* may contain any conditions or restrictions relating to the search that the Minister considers necessary in the interests of the security of the State.
+
+(7) Subject to any directions under *subsection (5)*, an authorisation issued under this section permits a designated officer, accompanied by any other designated officer, to—
+
+(*a*) enter, within one week after the date specified on the authorisation, the Garda Síochána station specified on the authorisation,
+
+(*b*) search that station and any persons found there, and
+
+(*c*) seize anything found in that station, or found in the possession of a person present in the station at the time of the search, that the designated officer reasonably believes to be evidence of, or relating to, the commission of the offence in question.
+
+(8) A designated officer acting under an authorisation issued under this section may—
+
+(*a*) require any person present at the Garda Síochána station where the search is carried out to give to the officer his or her name and address, and
+
+(*b*) arrest without warrant any person who—
+
+(i) obstructs or attempts to obstruct the officer, or any other designated officer accompanying the officer, in carrying out his or her duties,
+
+(ii) fails to comply with a requirement under *paragraph (a)*, or
+
+(iii) gives a name or address that the officer has reasonable cause for believing is false or misleading.
+
+(9) A person who—
+
+(*a*) obstructs or attempts to obstruct a designated officer acting under an authorisation issued under this section,
+
+(*b*) fails to comply with a requirement under *subsection (8)(a)*, or
+
+(*c*) gives a false name or address to that officer,
+
+is guilty of an offence and is liable on summary conviction to a fine not exceeding €2,500 or imprisonment for a period not exceeding 6 months or both.
+
+(10) In this section—
+
+“commission”, in relation to an offence, includes an attempt to commit the offence;
+
+“document storage facility” means any place or thing or part of a place in which documents are held or stored manually, mechanically or electronically;
+
+“Garda Síochána station” means any premises where a member of the Garda Síochána is stationed.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F148: Deleted (18.05.2007) by *Criminal Justice Act 200*7 (29/2007), s. 43(k), S.I. No. 236 of 2007.
+>
+> **Editorial Notes:**
+>
+> E53: A fine of €2,500 translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 100. Designated judge to oversee operation of certain provisions.
+
+**100**.— (1) After consulting with the Minister, the President of the High Court shall invite a judge of the Court to undertake (while serving as a judge) the functions specified in *subsection (3)*, and, if the invitation is accepted, the Government shall designate the judge for the purpose of performing those functions.
+
+(2) The designated judge holds office in accordance with the terms of his or her designation.
+
+(3) The functions of the designated judge are—
+
+(*a*) to keep under review the operation of *sections 96(4)* to *(6)* and *99(3)* to *(5)* of this Act and of any regulations under *section 126*, and
+
+(*b*) to report to the Taoiseach from time to time concerning any matters relating to the operation of those sections or regulations that the judge considers should be reported.
+
+(4) For the purpose of performing his or her functions, the designated judge—
+
+(*a*) may investigate any case in which a direction is issued by the Minister under *section 96* or *99*,
+
+(*b*) is entitled to access to and may inspect any documents relating to that direction and any notification by the Garda Commissioner requesting the direction, and
+
+(*c*) is entitled to access to any Garda Síochána station designated by regulation under *section 126*, as a place in which documents relating to the security of the State are stored and may inspect any document storage facility or documents in the station.
+
+(5) Any person who was concerned in, or has information relevant to—
+
+(*a*) a matter referred to the Minister under *section 96(5)*,
+
+(*b*) an objection under *section 99(4)* to the search of a Garda Síochána station on grounds relating to the security of the State,
+
+(*c*) a direction of the Minister concerning a matter referred to in *paragraph (a)* or an objection referred to in *paragraph (b)*,
+
+shall, at the request of the designated judge, give him or her any information that the person has relating to that matter, objection or direction.
+
+(6) The Taoiseach shall ensure that a copy of a report under *subsection (3)* is laid before each House of the Oireachtas together with a statement of whether any matter has been excluded under *subsection (7)* from the report.
+
+(7) If the Taoiseach considers, after consulting with the designated judge, that the publication of any matter in a report copies of which are to be laid before the Houses of the Oireachtas under *subsection (6)* would be prejudicial to the security of the State, the Taoiseach may exclude the matter from those copies.
+
+### 101. Report following investigation under section 98 .
+
+**101**.— (1) On completing an investigation under *section 98*, the designated officer concerned shall report in writing to the Ombudsman Commission the results of the investigation.
+
+(2) If the Ombudsman Commission, after considering the designated officer’s report, is of the opinion that the conduct under investigation may constitute an offence by the member of the Garda Síochána concerned, it shall—
+
+(*a*) send a copy of the report and of the investigation file to the Director of Public Prosecutions together with any recommendations that appear to the Commission to be appropriate, and
+
+(*b*) at the Director’s request, provide him or her with any other information relating to the investigation that appears to the Director to be necessary for performing his or her functions under the Prosecution of Offences Act 1974.
+
+(3) The Director of Public Prosecutions shall inform the Ombudsman Commission of—
+
+(*a*) a decision of the Director about whether or not to institute a prosecution in relation to the conduct that is the subject of a report received from the Commission under *subsection (2)*, and
+
+(*b*) if a prosecution is instituted, the progress of the prosecution and whether it results in the conviction or acquittal of the member of the Garda Síochána whose conduct was the subject of the report.
+
+(4) *Subsection (2)* is not to be taken to limit the power of the Ombudsman Commission to forward to the Director of Public Prosecutions at any time a report on a complaint that, in its opinion, discloses the commission of an offence.
+
+(5) If a member of the Garda Síochána is convicted of an offence in respect of a matter reported to the Director of Public Prosecutions under this section or if the Director decides not to institute a prosecution in relation to that matter, the Ombudsman Commission is not precluded from conducting or continuing an investigation into the matter under *section 95* by reason only that the conduct under investigation is in substance the same as the conduct constituting the offence of which the member is convicted or in respect of which no prosecution is instituted.
+
+(6) If, after considering the designated officer’s report, the Ombudsman Commission is not of the opinion referred to in *subsection (2)* but it considers that the complaint warrants investigation under *section 94* or *95*, it may proceed in accordance with either of those sections as appropriate.
+
+(7) If, after considering the designated officer’s report, the Ombudsman Commission is of the opinion that it discloses no misbehaviour by the member of the Garda Síochána concerned, the Commission shall take no further action in relation to the complaint.
+
+### 101A. Performance of functions by designated officers of Ombudsman Commission under Coroners Act 1962
+
+F149[**101A.** (1) The Ombudsman Commission may, in connection with the investigation of a complaint or matter under this Part that concerns the death of a person, direct a designated officer of the Commission—
+
+(*a*) to perform the functions conferred on such an officer by the Coroners Act 1962 in relation to the inquiry by a coroner into the death of the person under that Act, and
+
+(*b*) to provide to the coroner, at his or her request, such assistance with regard to the holding of an inquest in relation to the death of that person as would be provided by a member of the Garda Síochána in the case of any other inquest under that Act,
+
+and a designated officer so directed shall perform those functions and provide such assistance whether or not the investigation under this Part is completed.
+
+(2) A designated officer of the Ombudsman Commission has, for the purposes of performing the functions of such an officer referred to in *paragraph (a)* of *subsection (1)* and of providing the assistance referred to in *paragraph (b)* of that subsection, all the powers, immunities and privileges conferred and all the duties imposed on a member of the Garda Síochána by or under any enactment or the common law.
+
+(3) In this section ‘enactment’ has the meaning it has in *section 98*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F149: Inserted (16.09.2019) by *Coroners (Amendment) Act 2019* (29/2019), s. 37, S.I. No. 448 of 2019.
+>
+> **Editorial Notes:**
+>
+> E54: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 102. Other investigations by Ombudsman Commission.
+
+**102**.—(1) The Garda Commissioner shall refer to the Ombudsman Commission any matter that appears to the Garda Commissioner to indicate that the conduct of a member of the Garda Síochána may have resulted in the death of, or serious harm to, a person.
+
+(2) The Ombudsman Commission shall ensure that the following matters are investigated:
+
+(*a*) any matter referred to the Commission under *subsection (1)*;
+
+(*b*) any matter that appears to the Commission to indicate that the conduct of a member of the Garda Síochána may have resulted in the death of, or serious harm to, a person.
+
+(3) The provisions of this Part relating to investigations and reports apply with the necessary modifications in relation to a matter referred to in *subsection (2)* of this section as if the matter were the subject of a complaint referred to in *section 91*.
+
+(4) The Ombudsman Commission may, if it appears to it desirable in the public interest to do so and without receiving a complaint, investigate any matter that appears to it to indicate that a member of the Garda Síochána may have—
+
+(*a*)committed an offence, or
+
+(*b*) behaved in a manner that would justify disciplinary proceedings.
+
+F150[(4A) The Authority may, if it appears to it desirable in the public interest to do so, request the Ombudsman Commission to investigate any matter relating to policing services that gives rise to a concern that a member of the Garda Síochána may have done anything referred to in *subsection (4)*, and the Commission shall investigate that matter.]
+
+(5) The Minister may, if he or she considers it desirable in the public interest to do so, request the Ombudsman Commission to investigate F151[any matter that gives rise to a concern] that a member of the Garda Síochána may have done anything referred to in *subsection (4)*, and the Commission shall investigate the matter.
+
+F152[(5A) The Ombudsman Commission may investigate a matter under F153[*subsection (4)*, *(4A)* or *(5)*] even if—
+
+(*a*) the identity of the member of the Garda Síochána concerned may not be known when the investigation is undertaken, or
+
+(*b*) the offence or behaviour concerned may also involve or have involved a person who is not a member of the Garda Síochána.]
+
+(6) The provisions of this Part relating to investigations and reports apply with the necessary modifications in relation to a matter referred to in F153[*subsection (4)*, *(4A)* or *(5)*] of this section as though that matter were the subject of a complaint other than one referred to in *section 91*.
+
+F154[(7) Notwithstanding *subsections (4A)* and *(5)* —
+
+(*a*) the Authority may refer to the Ombudsman Commission any matter relating to policing services, and
+
+(*b*) the Minister may refer to the Ombudsman Commission any matter,
+
+that gives rise to a cause for concern that a member of the Garda Síochána may have done anything referred to in *subsection (4)* for the Commission to consider whether the matter is one that it should investigate under that subsection.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F150: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 49(a), S.I. No. 612 of 2015.
+>
+> F151: Substituted (27.04.2015) by *Garda Síochána (Amendment) Act 2015* (3/2015), s. 6(a), S.I. No. 150 of 2015.
+>
+> F152: Inserted (27.04.2015) by *Garda Síochána (Amendment) Act 2015* (3/2015), s. 6(b), S.I. No. 150 of 2015.
+>
+> F153: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 48(b)-(c), S.I. No. 612 of 2015.
+>
+> F154: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 48(d), S.I. No. 612 of 2015.
+
+### 102A. Protected disclosures relating to the Garda Síochána
+
+F155[**102A.**—(1) Where a disclosure relating to the Garda Síochána is disclosed to the Ombudsman Commission as a prescribed person under section 7 of the Protected Disclosures Act 2014 in respect of disclosures so relating, it may, if it appears to it desirable in the public interest to do so, investigate the disclosure, even if the worker (within the meaning of that Act) making the disclosure is a member of the Garda Síochána.
+
+(2) The provisions of this Part relating to investigations and reports apply with the necessary modifications in relation to a relevant wrongdoing to which a disclosure referred to in *subsection (1)* relates as though it were the subject of a complaint referred to in *section 91*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F155: Inserted (15.07.2014) by *Protected Disclosures Act 2014* (14/2014), s. 19(1)(a), S.I. No. 327 of 2014.
+
+### 102B. Investigation of matters relating to Garda Commissioner by Ombudsman Commission
+
+F156[**102B.** (1) The Ombudsman Commission may, if it appears to it desirable in the public interest to do so and subject to the consent of the Minister given with the approval of the Government, investigate any matter that gives rise to a concern that the Garda Commissioner may have—
+
+(*a*) committed an offence, or
+
+(*b*) behaved in a manner that would constitute serious misconduct.
+
+F157[(1A) The Authority may, if it appears to it desirable in the public interest to do so and subject to the consent of the Minister, request the Ombudsman Commission to investigate any matter that gives rise to a concern that the Garda Commissioner may, in the performance of his or her functions relating to policing services, have done anything referred to in *subsection (1)*, and the Commission shall investigate that matter.]
+
+(2) The Minister may, with the approval of the Government and if he or she considers it desirable in the public interest to do so, request the Ombudsman Commission to investigate any matter that gives rise to a concern that the Garda Commissioner may have done anything referred to in *subsection (1)*, and the Commission shall investigate that matter.
+
+(3) The Minister may, with the approval of the Government, for stated reasons refuse to consent to an investigation by the Ombudsman Commission of F158[any matter under *subsection (1)*].
+
+F157[(3A) If the Minister refuses to consent to the Authority making a request for an investigation by the Ombudsman Commission under *subsection (1A)*, he or she shall inform the Authority of his or her reasons for the refusal.]
+
+F157[(3B) The Minister shall issue a directive to a Deputy Garda Commissioner or an Assistant Garda Commissioner requiring him or her to take any lawful measures that appear to him or her to be necessary or expedient for the purposes of—
+
+(i) preserving evidence relating to the conduct of the Garda Commissioner that is the subject of an investigation of a matter under *subsection (1)*, *(1A)* or *(2)*, and
+
+(ii) facilitating the Ombudsman Commission to obtain that evidence.
+
+(3C) A Deputy Garda Commissioner or an Assistant Garda Commissioner to whom a directive is issued under *subsection (3B)* shall comply with the directive.]
+
+(4) The Ombudsman Commission may, for the purposes of an investigation of F158[a matter under *subsection (1)*, *(1A)* or *(2)*], direct a designated officer of the Commission to investigate the matter under *section 98* and, for that purpose, the reference in *section 98(1)* to *section 91(2)(b)*, *92(c)*, *94(8)(a)* or *94(11)(b)* to investigate a complaint shall be read as a reference to this subsection to investigate F158[a matter under *subsection (1)*, *(1A)* or *(2)*], as the case may be.
+
+(5) *Sections 95*, *96*, *99* and *101* shall apply to F158[an investigation under *subsection (1)*, *(1A)* or *(2)*] by the Ombudsman Commission of a matter relating to the conduct of the Garda Commissioner as they apply to a matter that is the subject of a complaint concerning the conduct of a member of the Garda Síochána (other than the Garda Commissioner) with the following and any other necessary modifications:
+
+(*a*) in *section 95*, the substitution of the following subsection for *subsection (4)*:
+
+“(4) As soon as practicable after the conclusion of an investigation under this section, the Ombudsman Commission shall report to the Minister on the investigation.”;
+
+(*b*) in *section 101(6)*, the substitution of “investigation under *section 95*, it may proceed in accordance with that section” for “investigation under section 94 or 95, it may proceed in accordance with either of those sections as appropriate”.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F156: Inserted (27.04.2015) by *Garda Síochána (Amendment) Act 2015* (3/2015), s. 7, S.I. No. 150 of 2015.
+>
+> F157: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 49(a), (c), (d), S.I. No. 612 of 2015.
+>
+> F158: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 49(b), (e), (f), S.I. No. 612 of 2015.
+>
+> **Editorial Notes:**
+>
+> E55: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 103. Duty to keep certain persons informed.
+
+**103**.— (1) The Ombudsman Commission shall provide the following persons with sufficient information to keep them informed of the progress and results of an investigation under this Part:
+
+(*a*) if the investigation resulted from a complaint—
+
+(i) the complainant,
+
+(ii) the member of the Garda Síochána whose conduct is the subject matter of the complaint,
+
+(iii) the Garda Commissioner, and
+
+(iv) any other person that the Commission considers has a sufficient interest in the matter;
+
+(*b*) if the investigation is one to which *section 102* applies—
+
+(i) the member of the Garda Síochána whose conduct is the subject matter of the investigation F159[if his or her identity is known],
+
+(ii) the Garda Commissioner,
+
+(iii) the Minister, and
+
+(iv) any other person that the Commission considers has F160[a sufficient interest in the matter;]
+
+F161[(*c*) if the investigation is one to which *section 102B* applies—
+
+(i) the Garda Commissioner,
+
+(ii) the Authority,
+
+(iii) the Minister, and
+
+(iv) any other person that the Commission considers has a sufficient interest in the matter.]
+
+(2) The duties imposed by *subsection (1)* do not extend to requiring the Ombudsman Commission to provide information the disclosure of which would, in its opinion—
+
+(*a*) prejudice a criminal investigation or prosecution,
+
+(*b*) jeopardise a person’s safety, or
+
+(*c*) for any other reason not be in the public interest.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F159: Inserted (27.04.2015) by *Garda Síochána (Amendment) Act 2015* (3/2015), s. 8(a)(i), S.I. No. 150 of 2015.
+>
+> F160: Substituted (27.04.2015) by *Garda Síochána (Amendment) Act 2015* (3/2015), s. 8(a)(ii), S.I. No. 150 of 2015.
+>
+> F161: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 50, S.I. No. 612 of 2015.
+>
+> **Editorial Notes:**
+>
+> E56: Previous affecting provisions: subs. (1)(c) inserted (27.04.2015) by *Garda Síochána (Amendment) Act 2015* (3/2015), s. 8(b), S.I. No. 150 of 2015; substituted as per F-note above
+
+### 103A. Provision of information to Ombudsman Commission
+
+F162[**103A.** The Garda Commissioner shall ensure that information to be provided by the Garda Síochána to the Ombudsman Commission for the purposes of an investigation by the Commission of a complaint, or an investigation by the Commission of any matter under *section 102* or *102B*, is so provided as soon as practicable.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F162: Inserted (27.04.2015) by *Garda Síochána (Amendment) Act 2015* (3/2015), s. 9, S.I. No. 150 of 2015.
+>
+> **Editorial Notes:**
+>
+> E57: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 104. Extension of time limit for instituting summary proceedings for offences.
+
+**104**.— Notwithstanding section 10(4) of the Petty Sessions (Ireland) Act 1851, summary proceedings in respect of a matter relating to an offence reported to the Director of Public Prosecutions under this Act may be instituted F163[within 18 months from the date of the offence].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F163: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 51, S.I. No. 612 of 2015.
+
+### 105. Same conduct may form basis for complaint or charge.
+
+**105**.— (1) Nothing in this Act precludes a member of the Garda Síochána from charging another member with an offence, even though the conduct to which the offence relates could be the subject matter of a complaint or investigation under this Part.
+
+(2) However, if a complaint has been made concerning the conduct of a member of the Garda Síochána, the member may not be charged with an offence relating to that conduct except by or with the consent of the Director of Public Prosecutions.
+
+### 106. Examination of certain practices, policies and procedures of Garda Síochána.
+
+F164[**106.** (1) For the purpose of preventing complaints arising in relation to a practice, policy or procedure of the Garda Síochána or of reducing the incidence of such complaints, the Ombudsman Commission—
+
+(*a*) may, if it considers it appropriate to do so, or
+
+(*b*) shall, if so requested by—
+
+(i) the Minister within such period as he or she may specify in the request, or
+
+(ii) the Authority, in respect of any matter relating to policing services, within such period as it may specify in the request,
+
+examine the practice, policy or procedure.
+
+(2) The Minister shall notify the Authority of a request made by him or her under *subsection (1)(b)*.
+
+(3) The Authority shall notify the Minister of a request made by it under *subsection (1)(b)*.
+
+(4) The Ombudsman Commission shall, before commencing an examination of a practice, policy or procedure under *subsection (1)*, inform the Garda Commissioner in writing of—
+
+(*a*) if appropriate, the nature of a request from the Minister under *subsection (1)(b)(i)* or the Authority under *subsection (1)(b)(ii)*, as the case may be,
+
+(*b*) the specific practice, policy or procedure to be examined under *subsection (1)*, and
+
+(*c*) the reasons for the examination.
+
+(5) The Ombudsman Commission shall—
+
+(*a*) report to—
+
+(i) the Minister as soon as practicable or, if appropriate, within such period as the Minister specifies in his or her request under s*ubsection (1)(b) (i)*, or
+
+(ii) the Authority as soon as practicable or, if appropriate, within such period as the Authority specifies in its request under *subsection (1)(b) (ii)*,
+
+as the case may be, on the results of the examination,
+
+(*b*) include in the report any recommendations of the Commission for achieving the purpose referred to in *subsection (1)* in relation to the practice, policy or procedure examined, and
+
+(*c*) provide the Garda Commissioner with a copy of the report.
+
+(6) The Authority shall, as soon as practicable, provide the Minister with a copy of any report received by it under *subsection (5)(a)*.
+
+(7) The Minister may, if he or she considers it appropriate to do so having regard to the functions of the Authority under this Act, provide the Authority with a copy of any report received by him or her under *subsection (5)(a)*.
+
+(8) Subject to *subsection (9)*, the Minister shall cause copies of any reports received by him or her under *subsection (5)* or *(6)* to be laid before the Houses of the Oireachtas.
+
+(9) The Minister may exclude from the copies of reports which are to be laid before the Houses of the Oireachtas under *subsection (8)* any matter which, in his or her opinion—
+
+(*a*) would be prejudicial to the interests of national security, or
+
+(*b*) might facilitate the commission of an offence, prejudice a criminal investigation or jeopardise the safety of any person.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F164: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 52, S.I. No. 612 of 2015.
+>
+> **Editorial Notes:**
+>
+> E58: Previous affecting provision: section substituted (27.04.2015) by *Garda Síochána (Amendment) Act 2015* (3/2015), s. 10, S.I. No. 150 of 2015; substituted as per F-note above.
+
+### 107. Duties and powers relating to examination of practices, policies and procedures.
+
+**107**.— (1) The Garda Commissioner shall supply the Ombudsman Commission with such information and documents as the Commission may require for the purpose of, or in connection with, an examination under *section 106*.
+
+(2) The duty to supply information and documents under *subsection (1)* does not apply to any information or document, or a class of information or document, in respect of which the Garda Commissioner determines with the Minister’s consent that its disclosure would—
+
+(*a*) prejudice a criminal investigation or prosecution,
+
+(*b*) prejudice the security of the State, or
+
+(*c*) jeopardise the safety of a person.
+
+### 108. Protocols.
+
+**108**.— As soon as practicable after the commencement of this section, the Ombudsman Commission and the Garda Commissioner shall, by written protocols, make arrangements concerning the following matters:
+
+(*a*) the use of detention facilities at Garda Síochána stations by designated officers of the Ombudsman Commission for the purpose of exercising their powers and carrying out their duties under *section 98*;
+
+(*b*) the application of the Criminal Justice Act 1984 (Treatment of Persons in Custody in Garda Stations) Regulations 1987 (S.I. No. 119 of 1987) when those detention facilities are used by designated officers for the purpose referred to in *paragraph (a)*;
+
+(*c*) the handling of any investigations by the Ombudsman Commission under this Act that coincide with investigations by the Garda Síochána into the same matters;
+
+(*d*) the sharing with each other of information (including evidence of offences) obtained by either the Ombudsman Commission or the Garda Commissioner.
+
+### 109. Judicial inquiry into conduct of designated officers of Ombudsman Commission.
+
+**109**.— (1) After consulting with the Ombudsman Commission, the Minister may request the Chief Justice to invite a judge to inquire (while serving as a judge) into the conduct of a designated officer in performing functions under *section 98* or *99* in relation to any investigation under this Part.
+
+F165[(2) The Chief Justice may invite—
+
+(*a*) a judge of the Supreme Court,
+
+(*b*) with the consent of the President of the Court of Appeal, a judge of the Court of Appeal, or
+
+(*c*) with the consent of the President of the High Court, a judge of the High Court,
+
+to conduct the inquiry and, if the invitation is accepted, the Chief Justice shall appoint that judge to conduct the inquiry.]
+
+(3) The appointed judge’s terms of reference shall be specified in the request and may relate to the designated officer’s conduct either on a particular occasion or in general in performing functions under *section 98* or *99*.
+
+(4) The appointed judge may conduct the inquiry in the manner he or she thinks proper, whether by examining witnesses or otherwise, and may, in particular, conduct any proceedings relating to the inquiry otherwise than in public.
+
+(5) For the purpose of the inquiry, the appointed judge has the powers, rights and privileges vested in a judge of the High Court on the hearing of an action, including the power to—
+
+(*a*) enforce the attendance of witnesses, and
+
+(*b*) compel the production of records.
+
+(6) On completing the inquiry, the appointed judge shall report its results to the Minister who shall forward a copy of the report to the Ombudsman Commission for such action as it considers appropriate in the circumstances.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F165: Substituted (28.10.2014) by *Court of Appeal Act 2014* (18/2014), s. 64(a), S.I. No. 479 of 2014.
+
+### 110. Offence of providing false or misleading information.
+
+**110**.— (1) A person who, in relation to a complaint or investigation under this Part, provides to the Ombudsman Commission information that the person knows to be false or misleading is guilty of an offence and is liable on summary conviction to a fine not exceeding €2,500 or imprisonment for a term not exceeding 6 months or both.
+
+(2) A prosecution for an offence under this section shall not be instituted except by or with the consent of the Director of Public Prosecutions on the referral of the matter to the Director by the Ombudsman Commission.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E59: A fine of €2,500 translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 111. Transitional provision relating to complaints under Garda Síochána (Complaints) Act 1986.
+
+**111**.— (1) In this section “former Act” means the Garda Síochána (Complaints) Act 1986.
+
+(2) Where an investigation under section 6 of the former Act of a complaint made under that Act has not commenced before the repeal of that section pursuant to this Act, the complaint is deemed to have been made under this Act.
+
+(3) Where an investigation under section 6 of the former Act into a complaint made under that Act has commenced before the repeal of that section pursuant to this Act but all matters relating to the complaint have not been completed before the repeal, the former Act continues to apply in relation to the complaint as though no provision of that Act had been repealed.
+
+(4) For the purpose of this section, an investigation under section 6 of the former Act commences when a member of the Garda Síochána is appointed under that section to investigate a complaint made under that Act.
+
+### 112. Qualified privilege for certain statements and publications.
+
+**112**.— (1) A statement made in any form and without malice at a meeting or hearing of the Ombudsman Commission by any of its members or officers is privileged for the purposes of the law of defamation, and so is any subsequent publication of the statement made without malice.
+
+(2) Where the statements in a document of, or in a report by, the Ombudsman Commission or any of its members or officers are made without malice, the subsequent publication of the document or report is privileged for purposes of the law of defamation.
+
+(3) For the purposes of this section, a statement made by, or a document or report of, a person to whom a function is delegated under *section 75* is deemed to be—
+
+(*a*) a statement made by a member of the Ombudsman Commission, or
+
+(*b*) a document of, or a report made by, the Commission,
+
+if the statement, document or report, as the case may be, is connected with the performance of the delegated function.
+
+## PART 5 Establishment and Functions of Garda Sochna Inspectorate — PART 5 — Establishment and Functions of Garda Síochána Inspectorate
+
+### 113. Establishment day.
+
+**113**.— (1) The Minister shall, by order, appoint a day to be the establishment day for the purposes of this Part.
+
+(2) An order under this section shall be laid before each House of the Oireachtas.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E60: Power pursuant to section exercised (28.07.2006) by *Garda Síochána Inspectorate (Establishment Day) Order 2006* (S.I. No. 401 of 2006).
+
+### 114. Establishment of Garda Síochána Inspectorate.
+
+**114**.— On the establishment day, a body to be known as Cigireacht an Garda Síochána or, in the English language, the Garda Síochána Inspectorate stands established to perform the functions assigned to it by this Act.
+
+### 115. Membership of Inspectorate.
+
+**115**.— (1) The Garda Síochána Inspectorate shall consist of 3 members, to be appointed by the Government.
+
+(2) One of the members shall be appointed as Chief Inspector.
+
+(3) At least one of the members shall be a woman and at least one of them shall be a man.
+
+(4) A person shall not be appointed as a member unless it appears to the Government that the person is suitable for the appointment by reason of—
+
+(*a*) his or her service as a senior officer or retired such officer in the police service of another state, or
+
+(*b*) having otherwise obtained such relevant experience, qualifications, training or expertise as, in the opinion of the Government, is or are appropriate having regard, in particular, to the functions of the Inspectorate.
+
+(5) A person is not eligible to be appointed under this section if he or she is or has been a member of the Garda Síochána.
+
+(6) The first appointment of persons to be members of the Inspectorate becomes effective on the establishment day.
+
+### 116. Terms and conditions of office.
+
+**116**.— (1) A member of the Garda Síochána Inspectorate holds office for the period determined by the Government at the time of appointment.
+
+(2) A member is eligible for reappointment.
+
+(3) A member holds office on the terms and conditions relating to remuneration (including allowances for expenses, benefits in kind and superannuation) or other matters that may be determined by the Minister, with the consent of the Minister for Finance, at the time of appointment or reappointment.
+
+(4) A member may at any time resign his or her office by letter addressed to the Minister, and the resignation takes effect on the date of receipt of the letter.
+
+(5) A member may be removed from office by the Government for stated misbehaviour or if, in its opinion, the member has become incapable through ill-health of effectively performing the duties of the office.
+
+(6) Whenever a vacancy occurs in the membership of the Inspectorate caused by the resignation, removal from office or death of a member, the vacancy is to be filled by appointment in accordance with *section 115*.
+
+(7) A member who is appointed to fill any such vacancy holds office for the remainder of the term of office of the replaced member.
+
+(8) The Inspectorate may act notwithstanding any such vacancy or any resulting non-compliance with *section 115(3)*.
+
+### 117. Objective and functions.
+
+**117**.— (1) The objective of the Garda Síochána Inspectorate is to ensure that the resources available to the Garda Síochána are used so as to achieve and maintain the highest levels of efficiency and effectiveness in its operation and administration, as measured by reference to the best standards of comparable police services.
+
+F166[(2) The functions of the Inspectorate are—
+
+(*a*) in furtherance of its objective to carry out, if it considers it appropriate to do so or at the request of—
+
+(i) the Authority in respect of a matter relating to policing services, or
+
+(ii) the Minister,
+
+inspections or inquiries in relation to any particular aspects of the operation and administration of the Garda Síochána,
+
+(*b*) to submit to the Authority or the Minister, as the case may be—
+
+(i) a report on those inspections or inquiries, and
+
+(ii) if required by—
+
+(I) the Authority in relation to policing services, or
+
+(II) the Minister,
+
+as the case may be, a report on the operation and administration of the Garda Síochána during a specified period and on any significant developments in that regard during that period,
+
+and
+
+(*c*) to provide advice to the Authority and the Minister with regard to best policing practice.]
+
+(3) Any report prepared under *subsection (2)(b)* shall, where appropriate, contain recommendations for any action that the Inspectorate considers necessary.
+
+F167[(3A) The Authority shall notify the Minister of a request made by it under *subsection (2)(a)* and shall, as soon as practicable, provide the Minister with a copy of any report received by it under *subsection (2)(b)*.
+
+(3B) The Minister shall notify the Authority of a request made by him or her under *subsection (2)(a)* and may, if he or she considers it appropriate having regard to the functions of the Authority under this Act, provide the Authority with a copy of any report received by him or her under *subsection (2)(b)*.]
+
+(4) Subject to *subsection (5)*, the Minister shall cause copies of any reports received by him or her under F168[*subsection (2)(b)* or *(3A)*] to be laid before the Houses of the Oireachtas.
+
+(5) The Minister may exclude from the copies of reports which are to be laid before the Houses of the Oireachtas any matter which, in his or her opinion—
+
+(*a*) would be prejudicial to the interests of national security, or
+
+(*b*) might facilitate the commission of an offence, prejudice a criminal investigation or jeopardise the safety of any person.
+
+(6) The Inspectorate, with the approval of the Minister, may arrange—
+
+(*a*) F169[with such police service or] police service outside the State for the engagement of police officers from that service, or
+
+(*b*) with any other body for the engagement of other persons, for the provision of consultancy or advisory services in connection with the performance of its functions.
+
+(7) Subject to this Act, the Inspectorate shall be independent in the performance of its functions.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F166: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 53(a), S.I. No. 612 of 2015.
+>
+> F167: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 53(b), S.I. No. 612 of 2015.
+>
+> F168: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 53(c), S.I. No. 612 of 2015.
+>
+> F169: Substituted (18.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 43(l), S.I. No. 236 of 2007.
+>
+> **Editorial Notes:**
+>
+> E61: Garda Síochána Inspectorate excluded from definition of public bodies in *Freedom of Information Act 2014* (30/2014) in so far as it relates to records concerning an inspection or inquiry carried out by that Inspectorate under subs. (2) (14.10.2014) by *Freedom of Information Act 2014* (30/2014), s. 6 and sch. 1 part 1(o), commenced as per s. 1(2).
+>
+> E62: Previous affecting provision: subs. (2)(a) substituted (27.04.2015) by *Garda Síochána (Amendment) Act 2015* (3/2015), s. 11, S.I. No. 150 of 2015.
+
+### 117A. Recommen-dations in Inspectorate report
+
+F170[**117A.**(1) The Minister or the Authority, as may be appropriate, may monitor and assess the measures taken by the Garda Síochána in relation to the recommendations contained in a report prepared by the Garda Síochána Inspectorate and submitted to the Minister or the Authority under *section 117(2)(b)*.
+
+(2) Without prejudice to *subsection (1)*, the Minister may request the Authority to monitor and assess the measures taken by the Garda Síochána in relation to such of the recommendations contained in a report prepared by the Garda Síochána Inspectorate, and submitted to the Minister or the Authority under *section 117(2)(b)*, as the Minister may specify in the request.
+
+(3) The Garda Commissioner shall supply the Minister and the Authority with such information and documents as the Minister or the Authority, as the case may be, may require for the purposes of this section.
+
+(4) The Authority shall, as soon as practicable after a request to it under *subsection (2)*, submit to the Minister a report on the matter the subject of the request and may include in the report any other matter connected with the subject matter of the request that it considers should be brought to the attention of the Minister.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F170: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 54, S.I. No. 612 of 2015.
+>
+> **Editorial Notes:**
+>
+> E63: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 118. Co-operation with Inspectorate.
+
+**118**.— (1) As soon as practicable after the commencement of this section the Inspectorate and the Garda Commissioner shall by written protocols, make arrangements to ensure that the Inspectorate receives any information requested by it which is in the possession of the Garda Síochána and which, in the opinion of the Inspectorate, is necessary for the performance of its functions.
+
+(2) Nothing in any other enactment prohibits disclosure of relevant factual information either to or by the Inspectorate.
+
+(3) The Inspectorate, members of its staff, or any persons providing consultancy or other services to it shall not disclose, in or outside the State, other than in accordance with this Act, any information obtained by it or by such members or persons.
+
+(4) A person who contravenes *subsection (3*) is guilty of an offence and is liable—
+
+(*a*) on summary conviction, to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €50,000 or imprisonment for a term not exceeding 5 years or both.
+
+(5) *Subsection (3)* is in addition to, and not in substitution for, the relevant provisions of the Official Secrets Act 1963.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E64: A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by Fines Act 2010 (8/2010), ss. 3, 5(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 119. Provision of services to Inspectorate.
+
+**119**.— (1) Such funds, premises, facilities, services and staff as may be necessary for the proper functioning of the Garda Síochána Inspectorate shall be provided to it by the Minister with the consent of the Minister for Finance.
+
+(2) The Minister may appoint such and so many persons to be members of the staff of the Inspectorate as he or she considers necessary to assist the Inspectorate in the performance of its functions.
+
+(3) Such persons shall be appointed on such terms and subject to such conditions and shall receive such remuneration as the Minister may, with the consent of the Minister for Finance, determine.
+
+### 120. Accountability to Oireachtas committees.
+
+**120**.— (1) The Chief Inspector shall, at the written request of a committee of either or both of the Houses of the Oireachtas (other than the Committee of Public Accounts) in connection with the subject matter of any report of which copies were laid before those Houses under *section 117(4)*, attend before it in relation to any aspect of that matter.
+
+(2) In carrying out his or her duties under this section, the Chief Inspector shall not—
+
+(*a*) question or express an opinion on the merits of any policy of the Government or a Minister of the Government or on the merits or objectives of such policy, or
+
+(*b*) provide information that might facilitate the commission of an offence, prejudice a criminal investigation or jeopardise the safety of any person.
+
+## PART 6 Regulations and Miscellaneous Provisions — PART 6 — Regulations and Miscellaneous Provisions
+
+### 121. General power to make regulations.
+
+**121**.— (1) The Minister may, with the approval of the Government—
+
+(*a*) by regulation provide for any matter referred to in this Act as prescribed or to be prescribed, and
+
+(*b*) in addition to any other power conferred on him or her to make regulations, make regulations generally for the purposes of and for the purposes of giving full effect to this Act.
+
+(2) Before making regulations under this section, the Minister shall consult with any or all of the following as the Minister considers appropriate:
+
+(*a*) the Garda Commissioner;
+
+F171[(*aa*) the Authority;]
+
+(*b*) the Ombudsman Commission;
+
+(*c*) the Garda Síochána Inspectorate.
+
+(3) Regulations under this Act may contain such incidental, supplementary and consequential provisions as appear to the Minister to be necessary or expedient for the purposes of the regulations.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F171: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 55, S.I. No. 612 of 2015.
+>
+> **Editorial Notes:**
+>
+> E65: Power pursuant to section exercised (20.02.2024) by *Garda Síochána (Reserve Members) Regulations 2024* (S.I. No. 64 of 2024).
+>
+> E66: Power pursuant to section exercised (1.01.2017) by *Garda Síochána Act 2005 (Section 52) Regulations 2016* (S.I. No. 640 of 2016), in effect as per reg. 1(2).
+>
+> E67: Power pursuant to section exercised (22.07.2015) by *Garda Síochána (Promotion Amendment) Regulations 2015* (S.I. No. 334 of 2015), in effect as per reg. 3.
+>
+> E68: Power pursuant to section exercised (23.07.2014) by *Garda Síochána (Promotion) (Amendment) Regulations 2014* (S.I. No. 331 of 2014), in effect as per reg. 3.
+>
+> E69: Power pursuant to section exercised (3.12.2013) by *Garda Síochána (Admissions and Appointments) Regulations 2013* (S.I. No. 470 of 2013), in effect as per reg. 2.
+>
+> E70: Power pursuant to section exercised (22.11.2011) by *Garda Síochána (Associations) (Amendment) Regulations 2011* (S.I. No. 619 of 2011).
+>
+> E71: Previous affecting provision: power pursuant to section exercised (13.03.2012) by *Garda Síochána Act 2005 (Section 52) Regulations 2012* (S.I. No. 128 of 2012), in effect as per reg. 2; revoked (1.01.2017) by *Garda Síochána Act 2005 (Section 52) Regulations 2016* (S.I. No. 640 of 2016), reg. 2, in effect as per reg. 1(2).
+
+### 122. Regulations relating to management of Garda Síochána.
+
+**122**.— (1) The Minister may, after consulting with the Garda Commissioner F172[and the Authority] and with the approval of the Government, make regulations for the management of the Garda Síochána, including regulations relating to any or all of the following matters:
+
+(*a*) the different ranks into which the members of the Garda Síochána are to be divided;
+
+(*b*) the minimum and maximum number of members in each rank;
+
+(*c*) the duties of the different ranks in the Garda Síochána;
+
+(*d*) the admission, appointment and enrolment of members, including members who have served with other police services and members with different ethnic or national origins or different religious beliefs or backgrounds;
+
+(*e*) the appointment to the Garda Síochána of members on secondment from any other police service;
+
+(*f*) the training of members;
+
+(*g*) the pay and allowances of members, including the conditions under which they are payable;
+
+(*h*) the retirement of members F173[, including the retirement ages of reserve members and other ranks in the Garda Síochána];
+
+(*i*) the payment of pensions, allowances and gratuities to members and their spouses F174[or civil partners within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010], children and dependents, including—
+
+(i) the conditions under which those pensions, allowances and gratuities are payable,
+
+(ii) the rates and scales of payment, and
+
+(iii) the penalties for fraudulent conduct in relation to an application for a pension, allowance or gratuity;
+
+(*j*) the promotion of members;
+
+(*k*) requirements relating to the resignation of members;
+
+(*l*) the use of facilities, equipment, arms or services by the Garda Síochána;
+
+(*m*) the formation of associations referred to in *section 18* and matters relating to the role, status and carrying out of business within the Garda Síochána of those associations;
+
+(*n*) the limitations, restrictions or conditions applicable to the exercise of the Garda Commissioner’s powers under *section 29*;
+
+(*o*) the circumstances in which and the extent to which police services referred to in *section 30(3)* may be provided by the Garda Síochána;
+
+(*p*) the costs to be taken into account under *section 30(4)* in relation to the provision of police services;
+
+(*q*) the limitations, restrictions or conditions applicable to the delegation of the Garda Commissioner’s functions under *section 31*;
+
+(*r*) any other matter relating to the organisation, training, carrying out of duties, efficiency, management or administration of the Garda Síochána.
+
+(2) F175[...]
+
+(3) F175[...]
+
+(4) In making regulations, the Minister shall consider the objective of promoting effectiveness, efficiency and economy in the Garda Síochána.
+
+(5) A regulation under this section may—
+
+(*a*) apply generally to all ranks and grades in the Garda Síochána and to reserve members,
+
+(*b*) apply only to—
+
+(i) specified ranks and grades in the Garda Síochána,
+
+(ii) members on secondment to an international organisation under F176[*section 51(2)(d)*]
+
+(iii) members appointed to the Garda Síochána under *section 53* on secondment from the Police Service of Northern Ireland,
+
+(iv) members on secondment to the Police Service of Northern Ireland under *section 54*,
+
+(v) members appointed to the Garda Síochána on secondment from any other police service, or
+
+(vi) reserve members,
+
+(*c*) make different provision for different ranks or grades in the Garda Síochána or for differerent categories of members mentioned in *paragraph (b)(ii)* to *(v)*, and
+
+(*d*) authorise any matter or thing to be determined or applied by a specified person or body.
+
+(6) Before making regulations under *subsection (1)(g)* or *(i)*, the Minister shall—
+
+(*a*) submit a draft of the regulations to the associations referred to in *section 18* representing the ranks and grades in the Garda Síochána who would be affected by the regulations, and
+
+(*b*) consider any representations made to him or her in respect of the draft regulations by any of those associations.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F172: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 56(a), S.I. No. 612 of 2015.
+>
+> F173: Inserted (18.05.2007) by *Criminal Justice Act 2007* (29/2007), s. 43(m), S.I. No. 236 of 2007.
+>
+> F174: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 99(2) and sch. part 2 item 23, S.I. No. 648 of 2010.
+>
+> F175: Deleted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 56(b), S.I. No. 612 of 2015.
+>
+> F176: Substituted (1.08.2023) by *Criminal Justice (Miscellaneous Provisions) Act 2023* (24/2023), s. 71, S.I. No. 391 of 2023, art. 3(d).
+>
+> F177, F178: Inserted by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 29(a), (b), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C12: Prospective affecting provision: subss. (1)(kk) and (5A) inserted by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 29(a), (b), not commenced as of date of revision.
+>
+> (1) ...
+>
+> F177[(*kk*) the establishment, maintenance and operation of a regime of testing for controlled drugs and psychoactive substances, which may provide for—
+>
+> (i) subject to *subparagraph (ii)*, a prohibition on the presence of controlled drugs or psychoactive substances above a specified concentration in a sample,
+>
+> (ii) the procedures to be followed where a person is exposed to a controlled drug or psychoactive substance in the course of and as a result of his or her functions or employment,
+>
+> (iii) the taking of samples,
+>
+> (iv) a prohibition on tampering with a sample,
+>
+> (v) the persons from whom a sample may be taken for testing,
+>
+> (vi) the persons who may be permitted to take a sample,
+>
+> (vii) the information to be provided to a person required to provide a sample,
+>
+> (viii) matters with regard to the testing and analysis of samples,
+>
+> (ix) the reasons for testing, which may include—
+>
+> (I) pre-employment testing,
+>
+> (II) testing of Garda trainees,
+>
+> (III) random testing,
+>
+> (IV) targeted drug testing,
+>
+> (V) with-cause testing, or
+>
+> (VI) post-incident testing,
+>
+> (x) the concentration of a controlled drug or psychoactive substance required to be present to yield a positive result in a sample,
+>
+> (xi) how samples are to be stored,
+>
+> (xii) the period during which samples may be stored,
+>
+> (xiii) the reviewing of test results, and
+>
+> (xiv) such ancillary and incidental provisions as he or she considers necessary or expedient for the purposes of establishing, maintaining and operating the regime of testing for controlled drugs and psychoactive substances;
+>
+> ...
+>
+> F178[(5A) A regulation under *section 122(1)(kk)* may apply to any or all of the following:
+>
+> (*a*) applicants seeking appointment to the position of member of the Garda Síochána;
+>
+> (*b*) Garda trainees;
+>
+> (*c*) members (including members on probation);
+>
+> (*d*) the persons referred to in *subparagraphs (ii)* to *(v)* of *section 122(5)(b)*;
+>
+> (*e*) members of the civilian staff of the Garda Síochána;
+>
+> and make different provision for the different persons, or categories, grades or ranks of persons, falling within *paragraphs (a)* to *(e)* above.
+>
+> **Editorial Notes:**
+>
+> E72: Power pursuant to subs. (1)(h) exercised (3.09.2024) by *Garda Síochána Act 2005 (Retirement) (Amendment) Regulations 2024* (S.I. No. 438 of 2024), in effect as per reg. 2.
+>
+> E73: Power pursuant to subs. (1)(h) exercised (3.09.2024) by *Garda Síochána (Retirement) Regulations 2024* (S.I. No. 437 of 2024), in effect as per reg. 2.
+>
+> E74: Power pursuant to section exercised (20.02.2024) by *Garda Síochána (Reserve Members) Regulations 2024* (S.I. No. 64 of 2024).
+>
+> E75: Power pursuant to subs. (1)(d) exercised (5.12.2023) by *Garda Síochána (Admissions and Appointments) (Amendment) Regulations 2023* (S.I. No. 611 of 2023).
+>
+> E76: Power pursuant to subs. (1)(h) exercised (2.09.2023) by *Garda Síochána (Retirement) Regulations 2023* (S.I. No. 397 of 2023), in effect as per reg. 1(2).
+>
+> E77: Power pursuant to subs. (1)(d) exercised (21.12.2021) by *Garda Síochána (Admissions and Appointments) (Amendment) Regulations 2021* (S.I. No. 757 of 2021).
+>
+> E78: Power pursuant to subs. (1)(m) exercised (16.11.2021) by *Garda Síochána (Associations) (Amendment) (No. 2) Regulations 2021* (S.I. No. 603 of 2021).
+>
+> E79: Power pursuant to subsection (1)(m) exercised (15.09.2021) by *Garda Síochána (Associations) (Superintendents and Chief Superintendents) (Amendment) Regulations 2021* (S.I. No. 483 of 2021).
+>
+> E80: Power pursuant to subsection (1)(j) exercised (13.07.2021) by *Garda Síochána (Appointment to the Ranks of Inspector and Sergeant) Regulations 2021* (S.I. No. 370 of 2021).
+>
+> E81: Power pursuant to subsection (1)(m) exercised (11.05.2021) by *Garda Síochána (Associations) (Amendment) Regulations 2021* (S.I. No. 275 of 2021).
+>
+> E82: Power pursuant to subs. (1)(m) exercised (8.12.2020) by *Garda Síochána (Associations) (Amendment) Regulations 2020* (S.I. No. 605 of 2020).
+>
+> E83: Power pursuant to subs. (1)(d) exercised (1.12.2020) by *Garda Síochána (Admissions and Appointments) (Amendment) Regulations 2020* (S.I. No. 602 of 2020).
+>
+> E84: Power pursuant to subs. (1)(a), (b) exercised (27.07.2020) by *Garda Síochána (Ranks) Regulations 2020* (S.I. No. 287 of 2020).
+>
+> E85: Power pursuant to subs. (1) exercised (17.12.2019) by *Garda Síochána (Specified Ranks) (Severance Programme) Regulations 2019* (S.I. No. 668 of 2019).
+>
+> E86: Power pursuant to subs. (1)(m) exercised (12.12.2018) by *Garda Síochána (Associations) (Amendment) Regulations 2018* (S.I. No. 657 of 2018).
+>
+> E87: Power pursuant to subs. (1)(h) exercised (6.02.2018) by *Garda Síochána (Retirement) Regulations 2018* (S.I. No. 28 of 2018).
+>
+> E88: Power pursuant to section exercised (1.01.2017) by *Garda Síochána (Promotion) (Amendment) Regulations 2016* (S.I. No. 642 of 2016), in effect as per reg. 2.
+>
+> E89: Power pursuant to section exercised (1.01.2017) by *Garda Síochána Act 2005 (Appointments to the Ranks of Assistant Garda Commissioner, Chief Superintendent and Superintendent) Regulations 2016* (S.I. No. 641 of 2016), in effect as per reg. 1(2).
+>
+> E90: Power pursuant to section exercised (22.07.2015) by *Garda Síochána (Promotion Amendment) Regulations 2015* (S.I. No. 334 of 2015), in effect as per reg. 3.
+>
+> E91: Power pursuant to section exercised (23.07.2014) by *Garda Síochána (Promotion) (Amendment) Regulations 2014* (S.I. No. 331 of 2014), in effect as per reg. 3.
+>
+> E92: Power pursuant to section exercised (3.12.2013) by *Garda Síochána (Admissions and Appointments) Regulations 2013* (S.I. No. 470 of 2013), in effect as per reg. 2.
+>
+> E93: Power pursuant to section exercised (9.07.2013) by *Garda Síochána (Retirement) Regulations 2013* (S.I. No. 260 of 2013).
+>
+> E94: Power pursuant to subs. (1)(m) exercised (22.11.2011) by *Garda Síochána (Associations) (Amendment) Regulations 2011* (S.I. No. 619 of 2011).
+>
+> E95: Power pursuant to section exercised (26.05.2009) by *Garda Síochána (Retirement) Regulations 2009* (S.I. No. 205 of 2009).
+>
+> E96: Power pursuant to section exercised (11.06.2008) by *Garda Síochána (Ranks) Regulations 2008* (S.I. No. 192 of 2008).
+>
+> E97: Power pursuant to section exercised (20.11.2007) by *Garda Síochána (Retirement) Regulations 2007* (S.I. No. 771 of 2007).
+>
+> E98: Power pursuant to section exercised (19.12.2006) by *Garda Síochána (Retirement) Regulations 2006* (S.I. No. 680 of 2006).
+>
+> E99: Power pursuant to section exercised (22.09.2006) by *Garda Síochána (Promotion) Regulations 2006* (S.I. No. 485 of 2006),in effect as per reg. 2.
+>
+> E100: Previous affecting provision: power pursuant to subs. (1)(d) exercised (1.12.2020) by *Garda Síochána (Reserve Members) (Amendment) Regulations 2020* (S.I. No. 603 of 2020); revoked (20.02.2024) by *Garda Síochána (Reserve Members) Regulations 2024* (S.I. No. 64 of 2024), reg. 17(1)(b).
+>
+> E101: Previous affecting provision: power pursuant to section exercised (1.08.2006) by *Garda Síochána (Reserve Members) Regulations 2006* (S.I. No. 413 of 2006), in effect as per reg. 2; revoked (20.02.2024) by *Garda Síochána (Reserve Members) Regulations 2024* (S.I. No. 64 of 2024), reg. 17(1)(a).
+>
+> E102: Previous affecting provision: power pursuant to subs. (1)(d) exercised (13.03.2012) by *Garda Síochána Act 2005 (Police Service of Northern Ireland Appointments) Regulations 2012* (S.I. No. 127 of 2012); revoked (1.01.2017) by *Garda Síochána Act 2005 (Appointments to the Ranks of Assistant Garda Commissioner, Chief Superintendent and Superintendent) Regulations 2016* (S.I. No. 641 of 2016), reg. 2, in effect as per reg. 1(2).
+>
+> E103: Previous affecting provision: power pursuant to section exercised (9.09.2009) by *Garda Síochána (Ranks) (No. 2) Regulations 2009* (S.I. No. 390 of 2009); revoked (27.07.2020) by *Garda Síochána (Ranks) Regulations 2020* (S.I. No. 287 of 2020), reg. 3.
+>
+> E104: Previous affecting provision: power pursuant to section exercised (22.01.2009) by *Garda Síochána (Ranks) Regulations 2009* (S.I. No. 53 of 2009); revoked (9.09.2009) by *Garda Síochána (Ranks) (No. 2) Regulations 2009* (S.I. No. 390 of 2009), reg. 3.
+>
+> E105: Previous affecting provision: power pursuant to section exercised (23.01.2007) by *Garda Síochána (Ranks) Regulations 2007* (S.I. No. 28 of 2007); revoked (11.06.2008) by *Garda Síochána (Ranks) Regulations 2008* (S.I. No. 192 of 2008), reg. 3.
+>
+> E106: Previous affecting provision: power pursuant to section exercised (31.05.2006) by *Garda Síochána (Ranks) Regulations 2006* (S.I. No. 286 of 2006); revoked (23.01.2007) by *Garda Síochána (Ranks) Regulations 2007* (S.I. No. 28 of 2007), reg. 3; revoked (11.06.2008) by *Garda Síochána (Ranks) Regulations 2008* (S.I. No. 192 of 2008), reg. 3.
+
+### 123. Disciplinary regulations.
+
+**123**.— (1) The Minister may, after consulting with the Garda Commissioner F179[and the Authority] and with the approval of the Government, make regulations concerning the maintenance of discipline in the Garda Síochána, including, but not limited to, regulations relating to the matters provided for in *subsections (2)* to *(5)*.
+
+(2) The regulations may specify the acts or omissions that may be the subject of disciplinary action under the regulations, including—
+
+(*a*) the matters specified in *Schedule 5*,
+
+(*b*) F180[...]
+
+(*c*) failure to co-operate with an investigation under the law and procedures referred to in *section 55(2)(a)*,
+
+(*d*) any matter constituting a breach of discipline as defined in *section 55(6)*,
+
+(*e*) failure to co-operate with an investigation conducted under this Act or the regulations or with a board established under the regulations to make determinations in relation to discipline,
+
+(*f*) any abuse of procedure by a member of the Garda Síochána with respect to a search under *section 99* of a document storage facility in a designated Garda Síochána station, and
+
+(*g*) matters relating to work performance.
+
+(3) The regulations may also provide for the procedures to be followed if—
+
+(*a*) it appears or is alleged that an act has been done or omission made that may be the subject of disciplinary action,
+
+(*b*) a complaint is referred to the Garda Commissioner under *section 92(a)*, or
+
+(*c*) the Ombudsman Commission, in a report under *section 94(7*) or *95(4)*, makes a recommendation referred to in *section 97(1)(b)*.
+
+(4) Regulations relating to the procedures to be followed in the circumstances referred to in *subsection (3)* may include provision for—
+
+(*a*) an investigation, the manner in which the investigation is to be conducted and the appointment of a member of the Garda Síochána to conduct the investigation,
+
+(*b*) the making of recommendations or reports following an investigation, the persons to whom the recommendations or reports are to be made and the action to be taken as a result of the reports,
+
+(*c*) hearings by a board to determine whether or not the act or omission referred to in *subsection (3)(a)* was done or made,
+
+(*d*) the taking of disciplinary action and the circumstances in which a decision concerning that action may be taken by F181[a board, the Garda Commissioner, the Authority or the Government], and
+
+(*e*) an appeal from a determination referred to in *paragraph (c)* or from a decision of F181[a board, the Garda Commissioner or the Authority] relating to disciplinary action and for the time limits and other restrictions or conditions subject to which the right of appeal may be exercised.
+
+(5) The regulations may also—
+
+(*a*) provide for the establishment of a board referred to in *subsection (4)(c)*, for the appointment of its members and for the conduct of its business,
+
+(*b*) specify the powers of a board,
+
+(*c*) specify the persons who are entitled to attend hearings before a board,
+
+(*d*) empower a board to require persons to attend before it,
+
+(*e*) empower a board to require persons to give evidence or produce documents to it,
+
+(*f*) enable a board to administer oaths or take affirmations,
+
+(*g*) provide for the admissibility of evidence,
+
+(*h*) specify any matters that a board is to have regard to in making a determination, including in appropriate cases, a report by the Ombudsman Commission under *section 94(7)* or *95(4)*,
+
+(*i*) empower a board to make a determination or decision in relation to a member of the Garda Síochána notwithstanding his or her absence from a hearing, if, after being notified of it, the member fails without proper cause to attend the hearing,
+
+(*j*) provide for the establishment of a body to hear appeals referred to in *subsection (4)(e)* and for the appointment of its members,
+
+(*k*) specify the powers of the appeal body, and
+
+(*l*) provide for privilege under the law of defamation in relation to reports published by or statements made by a board or the appeal body under the regulations.
+
+(6) The regulations may—
+
+(*a*) make different provision under *subsection (3)* or *(4)* for different categories of acts or omissions referred to in *subsection (2)* based on whether the acts or omissions were the subject of a report by the Ombudsman Commission or based on any other factor, and
+
+(*b*) provide for the taking of different forms of disciplinary action against members of the Garda Síochána based on their rank or on any other factor.
+
+(7) A person who—
+
+(*a*) without reasonable excuse, does not comply with a requirement imposed under the regulations by a board to attend before it or to give evidence or produce documents to it, or
+
+(*b*) gives to a board evidence that he or she knows to be false or misleading,
+
+is guilty of an offence and is liable on summary conviction to a fine not exceeding €2,500 or to imprisonment for a term not exceeding 6 months or both.
+
+(8) In this section—
+
+“board” means a board established by regulation under *subsection (5)(a)*;
+
+“disciplinary action” means—
+
+(*a*) dismissal,
+
+(*b*) requirement to retire or resign as an alternative to dismissal,
+
+(*c*) reduction in rank,
+
+(*d*) reduction in pay not exceeding 4 weeks’ pay,
+
+(*e*) reprimand,
+
+(*f*) warning,
+
+(*g*) caution, or
+
+(*h*) advice.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F179: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 57(a), S.I. No. 612 of 2015.
+>
+> F180: Deleted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 57(b), S.I. No. 612 of 2015.
+>
+> F181: Substituted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 57(c)(i) and (ii) , S.I. No. 612 of 2015.
+>
+> F182: Inserted by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 30(c), not commenced as of date of revision.
+>
+> F183, F184: Substituted by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 30(a), (b), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C13: Prospective affecting provision: subss. (2)(f) and (2)(g) substituted and subs. (2)(h) inserted by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 30(a)-(c), not commenced as of date of revision.
+>
+> (*f*) any abuse of procedure by a member of the Garda Síochána with respect to a search under *section 99* of a document storage facility in a designated Garda Síochána F183[station,]
+>
+> (*g*) matters relating to work F184[performance, and]
+>
+> F182[(*h*) failure to comply with regulations made under *section 122(1)(kk)*.]
+>
+> **Editorial Notes:**
+>
+> E107: Power pursuant to section exercised (1.01.2017) by *Garda Síochána (Discipline) (Amendment) Regulations 2016* (S.I. No. 639 of 2016), in effect as per reg. 1(2).
+>
+> E108: Power pursuant to section exercised (3.11.2015) by *Garda Síochána (Discipline) (Amendment) Regulations 2015* (S.I. No. 503 of 2015).
+>
+> E109: Power pursuant to section exercised (3.12.2013) by *Garda Síochána (Admissions and Appointments) Regulations 2013* (S.I. No. 470 of 2013), in effect as per reg. 2.
+>
+> E110: Power pursuant to section exercised (22.11.2011) by *Garda Síochána (Discipline) (Amendment) Regulations 2011* (S.I. No. 620 of 2011).
+>
+> E111: A fine of €2,500 translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by Fines Act 2010 (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E112: Power pursuant to section exercised ( 1.06.2007) by *Garda Síochána (Discipline) Regulations 2007* (S.I. No. 214 of 2007), in effect as per reg. 2.
+
+### 124. Regulations relating to reporting corruption and malpractice in the Garda Síochána.
+
+**124**.— F185[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F185: Repealed (15.07.2014) by *Protected Disclosures Act 2014* (14/2014), s. 19(1)(b), S.I. No. 327 of 2014.
+>
+> **Editorial Notes:**
+>
+> E113: Previous affecting provision: power pursuant to section exercised (30.04.2007) by *Garda Síochána (Confidential Reporting of Corruption or Malpractice) Regulations 2007* (S.I. No. 168 of 2007), in effect as per reg. 2; revoked (15.07.2014) by *Protected Disclosures Act 2014* (14/2014), s. 19(2), S.I. No. 327 of 2014.
+
+### 125. Regulations relating to police co-operation under sections 52 to 56.
+
+**125**.— (1) The Minister may, after consulting with the Garda Commissioner F186[and the Authority] and with the approval of the Government, make regulations—
+
+(*a*) specifying the ranks that members of the Police Service of Northern Ireland must hold to be eligible for appointment under *section 52* or *53* to specified ranks in the Garda Síochána and any experience that may be necessary or desirable for that appointment,
+
+(*b*) providing for procedural matters relating to—
+
+(i) appointments under *sections 52* and *53* to ranks in the Garda Síochána, including, in relation to appointments under *section 52*, the conduct of competitions for vacancies in the ranks concerned, or
+
+(ii) secondments to the Police Service of Northern Ireland under *section 54*.
+
+(2) The Minister shall ensure that every regulation made under this section is laid before each House of the Oireachtas as soon as practicable after it is made.
+
+(3) Either House of the Oireachtas may, by a resolution passed within 21 sitting days after the day on which the regulation is laid before it, annul the regulation.
+
+(4) The annulment of a regulation under *subsection (3)* takes effect immediately on the passing of the resolution concerned, but does not affect the validity of anything done under the regulation before the passing of the resolution.
+
+(5) The power to make regulations under this section is additional to the power to make regulations under *sections 122* and *123* and is not to be taken to limit the power to make regulations under those sections in relation to members referred to in *section 122(5)(b)(iii)*or *(iv)*.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F186: Inserted (23.12.2015) by *Garda Síochána (Policing Authority and Miscellaneous Provisions) Act 2015* (49/2015), s. 58, S.I. No. 612 of 2015.
+>
+> **Editorial Notes:**
+>
+> E114: Power pursuant to section exercised (1.01.2017) by *Garda Síochána Act 2005 (Appointments to the Ranks of Assistant Garda Commissioner, Chief Superintendent and Superintendent) Regulations 2016* (S.I. No. 641 of 2016), in effect as per reg. 1(2).
+>
+> E115: Previous affecting provision: power pursuant to section exercised (13.03.12) by *Garda Síochána Act 2005 (Police Service of Northern Ireland Appointments) Regulations 2012* (S.I. No. 127 of 2012), in effect as per reg. 2; revoked (1.01.2017) by *Garda Síochána Act 2005 (Appointments to the Ranks of Assistant Garda Commissioner, Chief Superintendent and Superintendent) Regulations 2016* (S.I. No. 641 of 2016), reg. 2, in effect as per reg. 1(2).
+
+### 126. Regulations relating to matters concerning security of State.
+
+**126**.— (1) The Minister may, after consulting with the Garda Commissioner and with the approval of the Government, make regulations—
+
+(*a*) designating, for the purpose of *section 96*, information, documents or things or classes of information, documents or things that—
+
+(i) relate to the security of the State, and
+
+(ii) are not subject to disclosure under that section except in accordance with a direction of the Minister,
+
+and
+
+(*b*) designating, for the purpose of *section 99*, Garda Síochána stations—
+
+(i) in which information, documents or things, or classes of information, documents or things, relating to the security of the State are held, and
+
+(ii) that are not subject to search under that section except to the extent specified in a direction of the Minister.
+
+(2) On making a regulation under this section or amending or revoking the regulation, the Minister shall provide the Ombudsman Commission and the judge designated under *section 100* with a copy of the regulation, the amendment or the instrument revoking the regulation.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E116: Minister for Justice and Equality may give direction for application of *Freedom of Information Act 2014* to items and premises otherwise excluded (14.10.2014) by *Freedom of Information Act 2014* (30/2014), s. 45(2), (10), commenced on enactment subject to s. 1(3).
+
+### 127. Reward Fund and related regulations.
+
+**127**.— (1) The Garda Síochána Reward Fund established under section 18 of the Garda Síochána Act 1924 for the reward and benefit of members continues in being under this Act.
+
+(2) The Minister may, with the concurrence of the Minister for Finance, make regulations prescribing—
+
+(*a*) the manner in which the Garda Síochána Reward Fund is to be administered, and
+
+(*b*) the sums that are to be paid into that Fund.
+
+### 127A. Regulations relating to fees for provision of vetting services
+
+F187[**127A.** The Minister may—
+
+(*a*) after consultation with the Garda Commissioner, and
+
+(*b*) with the consent of the Minister for Public Expenditure and Reform,
+
+make regulations prescribing fees in relation to the provision of vetting services in accordance with *section 7(l)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F187: Inserted (29.04.2016) by *Criminal Justice (Spent Convictions and Certain Disclosures) Act 2016* (4/2016), s. 26, S.I. No. 215 of 2016.
+
+### 128. Continuation of certain regulations and orders.
+
+**128**.— (1) The regulations and orders made or continued under an enactment repealed by *section 4* continue in force until they are revoked by the Minister under this section or others are made in their place under this Part.
+
+(2) The Minister may, with the approval of the Government, amend or revoke an order or regulation continued in force under this section.
+
+(3) Any proceedings relating to a member of the Garda Síochána that were commenced but are not concluded under the 1989 Regulations before their revocation pursuant to *subsection (2)* may be continued under those Regulations as though no provision of them had been revoked.
+
+(4) If in relation to proceedings that by virtue of this section are continued under the 1989 Regulations a decision is made by an inquiry held under Regulation 14 or by the Garda Commissioner under Regulation 23(1), the member concerned is entitled to apply in accordance with Regulation 26 to have the decision reviewed by an Appeal Board appointed under Regulation 25 and in that case the provisions of the 1989 Regulations relating to the hearing and determination by an Appeal Board of the application apply.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E117: Power pursuant to subs. (2) exercised (3.09.2024) by *Garda Síochána (Retirement) (Amendment) (No. 2) Regulations 2024* (S.I. No. 440 of 2024), in effect as per reg. 2.
+>
+> E118: Power pursuant to subs. (2) exercised (3.09.2024) by *Garda Síochána (Retirement) (Amendment) Regulations 2024* (S.I. No. 439 of 2024), in effect as per reg. 2.
+>
+> E119: Power pursuant to subs. (2) exercised (21.12.2021) by *Garda Síochána (Admissions and Appointments) (Amendment) Regulations 2021* (S.I. No. 757 of 2021).
+>
+> E120: Power pursuant to subs. (2) exercised (16.11.2021) by *Garda Síochána (Associations) (Amendment) (No. 2) Regulations 2021* (S.I. No. 603 of 2021).
+>
+> E121: Power pursuant to subs. (2) exercised (15.09.2021) by *Garda Síochána (Associations) (Superintendents and Chief Superintendents) (Amendment) Regulations 2021* (S.I. No. 483 of 2021).
+>
+> E122: Power pursuant to subs. (2) exercised (11.05.2021) by *Garda Síochána (Associations) (Superintendents and Chief Superintendents) (Amendment) Regulations 2021* (S.I. No. 275 of 2021).
+>
+> E123: Power pursuant to subs. (2) exercised (8.12.2020) by *Garda Síochána (Associations) (Amendment) Regulations 2020* (S.I. No. 605 of 2020).
+>
+> E124: Power pursuant to subs. (2) exercised (12.12.2018) by *Garda Síochána (Associations) (Amendment) Regulations 2018* (S.I. No. 657 of 2018).
+>
+> E125: Power pursuant to subs. (2) exercised (3.12.2013) by *Garda Síochána (Admissions and Appointments) Regulations 2013* (S.I. No. 470 of 2013), in effect as per reg. 2.
+>
+> E126: Power pursuant to subs. (2) exercised (22.12.2006) by *Garda Síochána (Retirement) (No. 2) Regulations 2006* (S.I. No. 686 of 2006).
+>
+> E127: Previous affecting provision: power pursuant to subs. (2) exercised (9.10.2006) by *Garda Síochána (Admissions and Appointments) (Amendment) Regulations 2006* (S.I. No. 509 of 2006) in effect as per reg. 2; revoked (3.12.13) by *Garda Síochána (Admissions and Appointments) Regulations 2013* (S.I. No. 470 of 2013), reg. 13(1)(g), in effect as per reg. 2, subject to transitional provision in reg. 13(2).
+>
+> E128: Previous affecting provision: power pursuant to section exercised (31.05.2006) by *Garda Síochána (Ranks) Regulations 2006* (S.I. No. 286 of 2006); revoked (23.01.2007) by *Garda Síochána (Ranks) Regulations 2007* (S.I. No. 28 of 2007), reg. 3; revoked (11.06.2008) by *Garda Síochána (Ranks) Regulations 2008* (S.I. No. 192 of 2008), reg. 3.
+
+### 129. Certificate evidence.
+
+**129**.— (1) In any legal proceedings, a certificate signed by a member of the Ombudsman Commission and stating that the person named in the certificate was a designated officer of the Commission for a specified purpose during a specified period is, in the absence of evidence to the contrary, proof of the matters stated in the certificate.
+
+(2) In any legal proceedings, a certificate signed by a member of the Ombudsman Commission and stating that a specified function of the Commission was on a specified date delegated by it in accordance with *section 75* to a specified person and specifying the restrictions or conditions, if any, imposed on the delegation is, in the absence of evidence to the contrary, proof of the matters stated in the certificate.
+
+(3) A certificate referred to in *subsection (1)* or *(2)* that purports to be signed by a member of the Ombudsman Commission is admissible in evidence in any legal proceedings without proof of the member’s signature.
+
+### 130. Proof of membership or rank in Garda Síochána.
+
+**130**.— In legal proceedings, a person purporting to be a member of the Garda Síochána of any rank is, in the absence of evidence to the contrary, presumed to be a member of that rank.
+
+### 131. Exercise of special powers by security officers.
+
+**131**.— (1) The Minister may, by order, designate as an authorised body for the purposes of this section any of the following:
+
+(*a*) the Courts Service;
+
+(*b*) a Department of State;
+
+(*c*) the Office of the Attorney General;
+
+(*d*) the Houses of the Oireachtas Commission;
+
+(*e*) the National Gallery of Ireland;
+
+(*f*) the Board of the National Museum of Ireland.
+
+(2) For the purposes of this section, the head of an authorised body may, in writing—
+
+(*a*) specify any premises in which any activity relating to the functions of that body is carried out, and
+
+(*b*) designate a person as a security officer in relation to those premises if satisfied that—
+
+(i) the person is a suitable person to exercise the powers of a security officer under this section in relation to specified premises,
+
+(ii) the person has received adequate training for that purpose, and
+
+(iii) where the person is an employee of a person with whom the authorised body or its head has entered into a contract for the provision of security services (“the contractor”), the contractor is a fit and proper person to supervise the person’s exercise of those powers.
+
+(3) A security officer may, in carrying out his or her duties in relation to specified premises, exercise any of the powers set out in *subsection (4)* or, if applicable, *subsection (5)*, but only if—
+
+(*a*) the security officer is identifiable as such by means of a badge or uniform, and
+
+(*b*) the powers are exercised in accordance with any general or special instruction of the person by whom the security officer is designated.
+
+(4) Subject to *subsection (7)*, a security officer has the following powers:
+
+(*a*) to search any person who is in or seeks entry to the specified premises in relation to which the officer is designated;
+
+(*b*) to examine any article that is in or is being delivered to or brought into those premises;
+
+(*c*) to exclude or remove from the premises any person who, without good cause—
+
+(i) refuses to be searched, or
+
+(ii) refuses to allow an article in his or her possession to be examined;
+
+(*d*) to exclude or remove any person from the premises if it is necessary to do so—
+
+(i) to protect a person or any property, or
+
+(ii) to allow the business of the authorised body to proceed without interference or delay;
+
+(*e*) to require any person who is in or seeks entry to the premises to identify himself or herself;
+
+(*f*) to seize, in exercising powers under this section, any weapon other than one in the possession of a person with lawful authority;
+
+(*g*) to seize any article that the officer has reason to believe is being unlawfully removed from the premises;
+
+(*h*) to use reasonable force where necessary in exercising a power conferred under *paragraph (c)*, *(d)*, *(f)* or *(g)*.
+
+(5) In addition, a security officer designated under *subsection (2)* by the Chief Executive of the Courts Service may, in carrying out the officer’s duties in relation to specified premises all or part of which is a court, at the oral direction of a judge—
+
+(*a*) remove from the court any person who commits contempt of court, or
+
+(*b*) take into custody any person who commits contempt of court and deliver that person into the custody of a member of the Garda Síochána as soon as practicable.
+
+(6) Unless the court has ordered by warrant or otherwise that a person taken into custody under *subsection (5)(b)* be committed to prison or be released, that person shall, before the court rises, be brought by—
+
+(*a*) the security officer concerned, if still in his or her custody, or
+
+(*b*) a member of the Garda Síochána, if already delivered into the custody of the Garda Síochána,
+
+before the court for it to deal with the matter.
+
+(7) A security officer may use reasonable force where necessary in complying with a direction under *subsection (5)* or carrying out a duty under *subsection (6)*.
+
+(8) The powers conferred on security officers under this section do not authorise a security officer to—
+
+(*a*) require a person to remove clothing other than outer garments, such as coats, hats, jackets and shoes, or
+
+(*b*) read any document that would be exempt from production in any proceedings in a court on the ground of legal professional privilege.
+
+(9) Nothing in this section affects any power of arrest conferred by law, including the power conferred under section 4 of the Criminal Law Act 1997.
+
+(10) In this section—
+
+“authorised body” means a body that for the time being is designated by the Minister under *subsection (1)*;
+
+“head of an authorised body” means—
+
+(*a*) in relation to a Department of State, the Minister of the Government having charge of the Department,
+
+(*b*) in relation to the Office of the Attorney General, the Attorney General, and
+
+(*c*) in relation to any other authorised body, the person who holds or performs the functions of the chief executive officer (by whatever name called) of that body;
+
+“premises” includes—
+
+(*a*) any building or part of a building, and
+
+(*b*) any land ancillary to a building;
+
+“security officer” means a person who for the time being is designated by the head of an authorised body under *subsection (2)* as a security officer for the purpose of guarding, patrolling or providing any other protective services in relation to specified premises and persons on those premises;
+
+“specified premises” means premises specified in accordance with *subsection (2)* by the head of an authorised body.
+
+### 132. Amendment of Comptroller and Auditor General (Amendment) Act 1993.
+
+**132**.— The Comptroller and Auditor General (Amendment) Act 1993 is amended by inserting the following section after section 18:
+
+“Application of this Act to Garda Síochána.
+
+18A.— This Act applies to the Garda Síochána as though it were a Department.”.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E129: This amendment is partially superseded (1.01.2017) by *Policing Authority and Miscellaneous Provisions Act 2015* (49/2015), s. 60, S.I. No. 633 of 2016.
+
+## SCHEDULE 1 — Repeals
+
+| (1) Number and Year | (2) Short Title of Act | (3) Extent of Repeal |
+|---|---|---|
+| No. 25 of 1924 | Garda Síochána Act 1924 | Sections 6, 10, 11, 12, 13, 14, 15, 18 and 23 |
+| No. 31 of 1924 | Dublin Police Act 1924 | Section 12 |
+| No. 7 of 1925 | Police Forces Amalgamation Act 1925 | Sections 2, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15(1), 18, 19, 20 and 21 and the First and Fourth Schedules |
+| No. 32 of 1933 | Garda Síochána (Pensions) Act 1933 | All provisions |
+| No. 2 of 1972 | Garda Síochána Act 1972 | All provisions |
+| No. 24 of 1977 | Garda Síochána Act 1977 | All provisions |
+| No. 29 of 1986 | Garda Síochána (Complaints) Act 1986 | All provisions |
+| No. 1 of 1989 | Garda Síochána Act 1989 | All provisions |
+| No. 19 of 2003 | Garda Síochána (Police Co-operation) Act 2003 | All provisions |
+
+## SCHEDULE 2 — Terms and Conditions of Transferred Staff
+
+1\. Except in accordance with a collective agreement negotiated with any recognised trade union or staff association concerned, a person who is transferred under *section 19(7)* to the staff of the Garda Síochána or under *section 72(3)* to become an officer of the Ombudsman Commission shall not, while in the service of the Garda Síochána or the Ombudsman Commission, as the case may be, receive a lesser scale of pay or be made subject to less beneficial terms and conditions of service than the scale of pay to which he or she was entitled and the terms and conditions of service to which he or she was subject immediately before the transfer of that person.
+
+2\. Until such time as the scale of pay and the terms and conditions of service of a person transferred under *section 19(7)* or *72(3)* are varied by the Garda Commissioner or the Ombudsman Commission, as the case may be, with the agreement of the Minister and the Minister for Finance, following consultation with any recognised trade union or staff association concerned, the scale of pay to which he or she was entitled and the terms and conditions of service, restrictions, requirements and obligations to which he or she was subject immediately before the transfer of that person shall continue to apply to him or her and may be applied or imposed by the Garda Commissioner or the Ombudsman Commission, as the case may be, while he or she is a member of the staff of the Garda Commissioner or an officer of the Ombudsman Commission, as the case may be, and no such variation shall operate to worsen that scale of pay or those terms or conditions of service applicable to such person immediately before the transfer of that person, except in accordance with a collective agreement negotiated with any recognised trade union or staff association concerned.
+
+## SCHEDULE 3 — Agreement between the Government of Ireland and the Government of the United Kingdom of Great Britain and Northern Ireland on Police Co-Operation, done at Belfast on 29 April 2002
+
+The Government of Ireland and the Government of the United Kingdom of Great Britain and Northern Ireland:
+
+Having regard to the Agreement between the Government of Ireland and the Government of the United Kingdom of Great Britain and Northern Ireland done at Belfast on 10 April 1998 (“the British-Irish Agreement”) and to the Multi-Party Agreement reached at Belfast on 10 April 1998 annexed to the aforesaid Agreement;
+
+Having regard also to the Agreement between the Government of Ireland and the Government of the United Kingdom of Great Britain and Northern Ireland done at Dublin on 8 March 1999 establishing a British-Irish Intergovernmental Conference;
+
+Considering the report of the Independent Commission on Policing for Northern Ireland published in September 1999 (“the Patten Report”);
+
+Taking into account the progress made within the European Union on improving police co-operation pursuant to the provisions of Title VI of the Treaty on European Union;
+
+Recalling the discussions that took place between the two Governments at Weston Park in July 2001, the measures announced on 1 August 2001 and the Updated Implementation Plan for the Patten Report published in August 2001;
+
+Noting the establishment of the new Policing Board for Northern Ireland;
+
+Have agreed as follows:
+
+*Article 1*
+
+Eligibility to apply for posts
+
+(1) (*a*) The Government of the United Kingdom of Great Britain and Northern Ireland shall introduce the necessary administrative and legislative measures to enable members of the Garda Síochána to apply for posts at ranks of above Inspector level in the Police Service of Northern Ireland.
+
+(*b*) When determining the eligibility of a member of the Garda Síochána to apply for such posts in the Police Service of Northern Ireland, appropriate recognition will be given to the rank, experience and qualifications that would be required for an equivalent rank in the Garda Síochána. An eligible applicant will be required to compete in a merit-based selection procedure with all other applicants.
+
+(2) (*a*) The Government of Ireland shall introduce the necessary administrative and legislative measures to enable members of the Police Service of Northern Ireland to apply for posts at ranks of above Inspector level in the Garda Síochána.
+
+(*b*) When determining the eligibility of a member of the Police Service of Northern Ireland to apply for a post in the Garda Síochána, appropriate recognition will be given to the rank, experience and qualifications that would be required for an equivalent rank in the Police Service of Northern Ireland. An eligible applicant will be required to compete in a merit-based selection procedure with all other applicants.
+
+*Article 2*
+
+Secondment with Policing Powers
+
+(1) (*a*) The Government of the United Kingdom of Great Britain and Northern Ireland shall introduce the necessary administrative and legislative measures to enable members of the Garda Síochána to be seconded to the Police Service of Northern Ireland for periods not exceeding three years.
+
+(*b*) For the duration of such secondments, the member in question shall have the same powers, duties, rights and obligations, including as appropriate the wearing of the uniform, as an attested member of the Police Service of Northern Ireland. For the duration of the secondment, the member shall not be subject to the direction and control of the Garda Commissioner and shall not exercise police powers within the jurisdiction of the Government of Ireland.
+
+(2) (*a*) The Government of Ireland shall introduce the necessary administrative and legislative measures to enable members of the Police Service of Northern Ireland to be seconded to the Garda Síochána for periods not exceeding three years.
+
+(*b*) For the duration of such secondments, the member in question shall have the same powers, duties, rights and obligations, including as appropriate the wearing of the uniform, as an attested member of the Garda Síochána. For the duration of the secondment, the member shall not be subject to the direction and control of the Chief Constable of the Police Service of Northern Ireland and shall not exercise police powers within Northern Ireland.
+
+*Article 3*
+
+Police Protocols
+
+(1) The Police Service of Northern Ireland and the Garda Síochána shall, as appropriate, draw up written Protocols between them addressing detailed aspects of co-operation between them, including in particular the issues referred to in Articles 2, 3, 5, 6, 7, 8, 9 and 10 of this Agreement.
+
+(2) Such Protocols shall be signed by the Commissioner of the Garda Síochána and the Chief Constable of the Police Service of Northern Ireland or persons authorised to do so on their behalf. Copies of all such Protocols shall be forwarded to the Minister for Justice, Equality and Law Reform, the Secretary of State for Northern Ireland and the Northern Ireland Policing Board.
+
+(3) Such Protocols shall not constitute international agreements and shall not have binding effect on either Government.
+
+*Article 4*
+
+Annual Conference
+
+An annual conference shall be convened between the Police Service of Northern Ireland and the Garda Síochána. It shall be hosted by each service on an alternating basis and the conference topics shall be decided by mutual arrangement between the two services. The costs of the conference shall be met by the host service and each service shall meet their own travel costs in attending the conference.
+
+*Article 5*
+
+Personnel Exchanges
+
+(1) A programme shall be introduced to facilitate members of the Police Service of Northern Ireland being placed in the Garda Síochána, and members of the Garda Síochána being placed in the Police Service of Northern Ireland for periods not exceeding one year.
+
+(2) The purpose of these placements will be to further enhance links and to transfer experience and expertise, including in the area of training.
+
+(3) Members of the Garda Síochána will, for the duration of their placement, report to and work with the Police Service of Northern Ireland. However the member placed will remain a full member of the Garda Síochána subject to the overall direction and control of the Garda Commissioner and shall not exercise any police powers in Northern Ireland.
+
+(4) Members of the Police Service of Northern Ireland will, for the duration of their placement, report to and work with the Garda Síochána. However the member placed will remain a full member of the Police Service of Northern Ireland subject to the overall direction and control of the Chief Constable and shall not exercise any police powers in the jurisdiction of the Government of Ireland.
+
+*Article 6*
+
+Liaison
+
+(1) Officers in both services shall be designated as liaison officers as considered appropriate to enhance co-operation between the Garda Síochána and the Police Service of Northern Ireland.
+
+(2) The Commissioner of the Garda Síochána and the Chief Constable of the Police Service of Northern Ireland shall, in consultation with the respective Governments, explore other methods of enhancing liaison including the possible exchange of liaison officers.
+
+*Article 7*
+
+Training
+
+The Police Service of Northern Ireland and the Garda Síochána shall enhance structures for co-operation in the area of training.
+
+*Article 8*
+
+Disaster Planning
+
+The Police Service of Northern Ireland and the Garda Síochána shall, in consultation with other authorities responsible for the emergency services in both jurisdictions, work together in promoting improved joint planning.
+
+*Article 9*
+
+Joint Investigations
+
+(1) The Police Service of Northern Ireland and the Garda Síochána shall, as appropriate, make full use of existing arrangements for facilitating joint investigations and additional arrangements that are put in place in the context of European Union developments.
+
+(2) An expert group shall be established by both Governments to review the existing arrangements and to make recommendations on legal and administrative measures that could be taken to facilitate further the operation of joint Police Service of Northern Ireland and Garda Síochána investigations.
+
+*Article 10*
+
+Communications
+
+(1) The Police Service of Northern Ireland and the Garda Síochána shall review communication links on an ongoing basis with a view to establishing and enhancing fast, effective and reliable communications.
+
+(2) The Police Service of Northern Ireland and the Garda Síochána shall, as appropriate, consult with one another in the context of the procurement and development of their communications and information technology systems, and shall take into account the desirability of achieving greater compatibility between their systems.
+
+*Article 11*
+
+Relationship with other international agreements
+
+This Agreement shall not affect the rights and obligations of the Parties under other international agreements.
+
+*Article 12*
+
+Entry into force
+
+Each Government shall notify the other in writing of the completion, so far as it is concerned, of the requirements for entry into force of the Agreement. This Agreement shall enter into force on the date of the receipt of the later of the two notifications.
+
+In witness whereof the undersigned, being duly authorised thereto by the respective Governments, have signed this Agreement.
+
+Done in two originals at Belfast on the Twenty-ninth day of April 2002.
+
+| For the Government of Ireland: |  | For the Government of the United Kingdom of Great Britain and Northern Ireland: |
+|---|---|---|
+| JOHN O’DONOGHUE |  | JOHN REID |
+
+## SCHEDULE 4 — Appointment to Ombudsman Commission of Person Holding Judicial Office
+
+**If Supreme Court judge or former Supreme Court judge is appointed member of Ombudsman Commission.**
+
+1\. (1) If a person appointed as the chairperson of the Ombudsman Commission is, when so appointed, an ordinary judge of the Supreme Court, then, for so long as he or she continues to hold that judicial office, the number of ordinary judges of the Supreme Court otherwise provided for under any enactment for the time being in force may be exceeded by one.
+
+(2) If the person so appointed is a former Chief Justice of the Supreme Court, the proviso to paragraph (*a*) (inserted by the Courts (No. 2) Act 1997) of section 14(1) of the Law Reform Commission Act 1975 applies to him or her in respect of his or her appointment as a member of the Ombudsman Commission to the like extent as it applies to a former Chief Justice who is appointed to be the President of the Law Reform Commission.
+
+F188[**If Court of Appeal judge or former President of the Court of Appeal is appointed member of Ombudsman Commission**
+
+1A. (1) If a person appointed as the chairperson of the Ombudsman Commission is, when so appointed, the President of the Court of Appeal or an ordinary judge of the Court of Appeal, then, for so long as he or she continues to hold the judicial office held by him or her on being so appointed, the number of ordinary judges of the Court of Appeal otherwise provided for under any enactment for the time being in force may be exceeded by one.
+
+(2) If the person so appointed is a former President of the Court of Appeal, the proviso to paragraph (aa) of section 14(1) of the Law Reform Commission Act 1975 applies to him or her in respect of his or her appointment as a member of the Ombudsman Commission to the like extent as it applies to a former President of the Court of Appeal who is appointed to be a member of the Law Reform Commission.
+
+(3) If the person so appointed is the President of the Court of Appeal, he or she may, for so long as he or she continues to be a member of the Ombudsman Commission, from time to time appoint an ordinary judge of the Court of Appeal to exercise on his or her behalf (and which judge is hereby empowered to exercise) all jurisdiction exercisable by the President of the Court of Appeal under section 7D (inserted by section 19of the Court Of Appeal Act 2014) of the Courts (Supplemental Provisions) Act 1961.]
+
+**If High Court judge or President or former President of High Court is appointed member of Ombudsman Commission.**
+
+2\. (1) If a person appointed as the chairperson of the Ombudsman Commission is the President of the High Court or an ordinary judge of the High Court, then, for so long as he or she continues to hold the judicial office held by him or her on being so appointed, the number of ordinary judges of the High Court otherwise provided for under any enactment for the time being in force may be exceeded by one.
+
+(2) If the person so appointed is a former President of the High Court, the proviso to paragraph (*b*) (inserted by the Courts (No. 2) Act 1997) of section 14(1) of the Law Reform Commission Act 1975 applies to him or her in respect of his or her appointment as a member of the Ombudsman Commission to the like extent as it applies to a former President of the High Court who is appointed to be a member of the Law Reform Commission.
+
+(3) If the person so appointed is the President of the High Court, he or she may, for so long as he or she continues to be a member of the Ombudsman Commission, from time to time appoint an ordinary judge of the High Court to exercise on his or her behalf (and which judge is hereby empowered to exercise) all jurisdiction exercisable by the President of the High Court under section 10(5) of the Courts (Supplemental Provisions) Act 1961.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F188: Inserted (28.10.2014) by *Court of Appeal Act 2014* (18/2014), s. 64(b), S.I. No. 479 of 2014.
+
+## SCHEDULE 5 — Breach of Discipline
+
+1\. Discourtesy, that is to say, failing to behave with due courtesy towards a member of the public.
+
+2\. Neglect of duty, that is to say, without good and sufficient cause—
+
+(*a*) failing or neglecting—
+
+(i) properly to account for any money or property received by the member of the Garda Síochána in his or her capacity as a member, or
+
+(ii) promptly to do any thing that it is his or her duty as a member of the Garda Síochána to do,
+
+or
+
+(*b*) doing anything mentioned in *subparagraph (a)(ii)* in a negligent manner.
+
+3\. Falsehood or prevarication, that is to say, in the capacity of a member of the Garda Síochána—
+
+(*a*) making or procuring the making of—
+
+(i) any oral or written statement, or
+
+(ii) any entry in an official document or record,
+
+that, to the member’s knowledge, is false or misleading,
+
+or
+
+(*b*) doing any of the following with a view to deceiving any person:
+
+(i) destroying or mutilating any official document or record;
+
+(ii) altering or erasing or adding to any entry in an official document or record.
+
+4\. Abuse of authority, that is to say, oppressive conduct towards a member of the public, including—
+
+(*a*) without good and sufficient cause, making an arrest, or
+
+(*b*) using unnecessary violence towards any person with whom the member of the Garda Síochána is brought into contact in the execution, or purported execution, of his or her duty.
+
+5\. Corrupt or improper practice, that is to say—
+
+(*a*) soliciting or receiving as a member of the Garda Síochána and without the consent of the Garda Commissioner any gratuity, present, subscription or testimonial (other than customary collections for such purposes as presentations to members on the occasion of transfer, marriage or retirement),
+
+(*b*) placing himself or herself as a member of the Garda Síochána under a pecuniary obligation to any person in a manner that might affect the member’s ability to discharge the duty of a member,
+
+(*c*) improperly using (or attempting to use) his or her position as a member of the Garda Síochána for his or her private advantage, or
+
+(*d*) failing wilfully and without good and sufficient cause to pay any lawful debt in such circumstances as to be liable to affect his or her ability to discharge the duty of a member or as to be liable to compromise other members.
+
+6\. Misuse of money or property in the custody of the Garda Síochána belonging to a member of the public, that is to say, misappropriating, or wilfully or carelessly misusing, losing or damaging, any such money or property.
+
+7\. Intoxication, that is to say, owing to the effects of intoxicating liquor or drugs or a combination of liquor and drugs, being unfit for duty either while on duty or while not on duty but wearing a uniform in a public place.
+
+8\. Discreditable conduct, that is to say, conducting himself or herself in a manner that the member knows, or ought to know, would be reasonably likely to bring discredit on the Garda Síochána.
+
+9\. Accessory to conduct specified in this Schedule, that is to say, conniving at or knowingly being an accessory to such conduct.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F189: Substituted by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 31, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C14: Prospective affecting provision: para. 7 amended by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 31, not commenced as of date of revision.
+>
+> 7\. Intoxication, that is to say, owing to the effects of intoxicating F189[liquor, controlled drugs or psychoactive substances or a combination of liquor, controlled drugs or psychoactive substances], being unfit for duty either while on duty or while not on duty but wearing a uniform in a public place.
+
+[^1]: O.J. No. L119, 4.5.2016, p.1
+[^2]: O.J. No. L119, 4.5.2016, p.1
