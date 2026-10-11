@@ -1,0 +1,74 @@
+---
+title: "Dublin Hospitals Act, 1937"
+identifier: "eli/1937/act/24"
+type: act
+jurisdiction: ie
+language: en
+number: 24
+year: 1937
+date: 1937-06-14
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1937/act/24/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Dublin Hospitals Act, 1937
+
+AN ACT TO DISSOLVE THE BOARD OF SUPERINTENDENCE APPOINTED UNDER SECTION 11 OF THE DUBLIN HOSPITALS REGULATION ACT, 1856, TO ABOLISH THE OFFICE OF SECRETARY TO THE SAID BOARD, AND TO MAKE PROVISION FOR OTHER MATTERS CONNECTED WITH THE MATTERS AFORESAID. [14*th June,* 1937.]
+
+BE IT ENACTED BY THE OIREACHTAS OF SAORSTÁT EIREANN AS FOLLOWS:—
+
+## 1. Definitions.
+
+**1.**—In this Act—
+
+the expression “the Minister” means the Minister for Local Government and Public Health;
+
+the expression “the Principal Act” means the Dublin Hospitals Regulation Act, 1856;
+
+the expression “the Board” means the Board of Superintendence appointed under section 11 of the Principal Act.
+
+## 2. The appointed day.
+
+**2.**—(1) The Minister may by order appoint a day to be the appointed day for the purposes of this Act.
+
+(2) In this Act the expression “the appointed day” means the day appointed under this section to be the appointed day for the purposes of this Act.
+
+## 3. Dissolution of the Board and abolition of office of Secretary to the Board.
+
+**3.**—Upon the appointed day the following provisions shall have effect by virtue of this section, that is to say:—
+
+(*a*) the Board shall become and be dissolved;
+
+(*b*) the office of secretary, created by section 14 of the Principal Act, to the Board shall become and be abolished;
+
+(*c*) the holder, immediately before the appointed day, of the said office of secretary shall cease to hold that office.
+
+## 4. Transfer of property of the Board.
+
+**4.**—(1) All property, whether real or personal (including choses-in-action), which immediately before the appointed day is vested in or belongs to or is held in trust for the Board and all rights, powers and privileges relating to or connected with any such property shall, on the appointed day and without any conveyance or assignment but subject, where necessary, to transfer in the books of any bank, corporation or company, become and be vested in or the property of or held in trust for (as the case may require) the Hospitals Commission for all the estate, term, or interest for which the same immediately before the appointed day was vested in or belonged to or was held in trust for the Board.
+
+(2) All property transferred by this section which, immediately before the appointed day, is standing in the books of any bank or is registered in the books of any bank, corporation or company in the name of the Board shall, upon the request of the Hospitals Commission made on or at any time after the appointed day, be transferred in such books by such bank, corporation, or company into the name of the Hospitals Commission.
+
+(3) On and after the appointed day, every chose-in-action transferred by this section from the Board to the Hospitals Commission may be sued upon, recovered, or enforced by the Hospitals Commission in their own name and it shall not be necessary for the Hospitals Commission to give notice to the person bound by such chose-in-action of the transfer effected by this section.
+
+## 5. Transfer of liabilities of the Board.
+
+**5.**—Every debt and other liability (including unliquidated liabilities arising from torts or breaches of contract) which immediately before the appointed day is owing and unpaid or has been incurred and is undischarged by the Board shall, on the appointed day, become and be the debt or liability of the Hospitals Commission and shall be paid or discharged by and may be recovered from or enforced against the Hospitals Commission accordingly.
+
+## 6. Application for compensation by Secretary of the Board.
+
+**6.**—In the event of an application being made after the appointed day to the Minister by the person who, immediately before the appointed day is the holder of the office, created by section 14 of the Principal Act, of secretary to the Board for compensation in respect of the abolition by virtue of this Act of his said office, the Minister may direct the Hospitals Commission to pay to such person person such sum (not exceeding one hundred and fifty pounds) as the Minister in his absolute discretion shall think proper and thereupon such sum shall be paid by the Hospitals Commission to such person and, in default of payment, may be recovered as a simple contract debt in any Court of competent jurisdiction.
+
+## 7. Expenses.
+
+**7.**—The Hospitals Commission shall defray their expenses in executing their functions under this Act out of such sums as shall be paid to them under sub-section (1) of section 16 of the Public Hospitals Act, 1933 (No. 18 of 1933), in like manner as if the said expenses were expenses incurred by them in the execution of their functions under the said Act.
+
+## 8. Repeal.
+
+**8.**—Sections 11 to 18 of the Principal Act are hereby repealed as on and from the appointed day.
+
+## 9. Short title.
+
+**9.**—This Act may be cited as the Dublin Hospitals Act, 1937.

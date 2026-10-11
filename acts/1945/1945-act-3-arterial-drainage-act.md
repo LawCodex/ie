@@ -1,0 +1,2702 @@
+---
+title: "Arterial Drainage Act, 1945"
+identifier: "eli/1945/act/3"
+type: act
+jurisdiction: ie
+language: en
+number: 3
+year: 1945
+date: 1945-03-01
+last_amended: 2026-05-20
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1945/act/3/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1945/act/3/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Arterial Drainage Act, 1945
+
+AN ACT TO MAKE PROVISION FOR THE DRAINAGE AND IMPROVEMENT OF LAND BY THE EXECUTION OF WORKS OF ARTERIAL DRAINAGE, TO PROVIDE FOR THE MAINTENANCE OF THOSE WORKS AND MAKE FURTHER AND BETTER PROVISION FOR THE MAINTENANCE OF EXISTING DRAINAGE WORKS, AND TO PROVIDE FOR MATTERS INCIDENTAL TO OR CONNECTED WITH THE MATTERS AFORESAID OR RELATING GENERALLY TO THE DRAINAGE OF LAND. [1*st March*, 1945.]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:—
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C1: Application of collectively cited *Arterial Drainage Acts 1945 and 1995* affected (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), regs. 42(22), 46(3), 63(2) and sch. 2, in operation as per reg. 1(3).
+>
+> *Screening for Appropriate Assessment and Appropriate Assessment of implications for European Sites*
+>
+> 42\. ...
+>
+> (22) Notwithstanding any provision of any statute listed in the Second Schedule that provides for the consent for a plan or project to which this Regulation applies to be obtained by default on the failure of the public authority to provide a response within a specified timescale or otherwise, that provision shall not have effect in respect of any plan or project to which this Regulation applies
+>
+> ...
+>
+> *Review of existing plans*
+>
+> 46\. ...
+>
+> (3) For the purposes of this Regulation, a decision, including a decision to adopt or undertake, or give approval for a plan, may include those adopted, undertaken or approved pursuant to any of the enactments set out in the Second Schedule to these Regulations.
+>
+> ...
+>
+> *General provisions regarding licences etc*
+>
+> 63\. ...
+>
+> (2) A licence, consent, permission, permit, derogation or other authorisation given under these Regulations or under any of the enactments referred to in the Second Schedule may include conditions requiring compliance with any guideline or code of practice issued under Regulation 71 or such provisions thereof as may be specified in the conditions.
+>
+> ...
+>
+> SECOND SCHEDULE
+>
+> <table><tr><td>Number</td><td>Year</td><td>Short Title/Citation</td></tr><tr><td>...<br>...</td><td>...<br>...</td><td>...<br>Arterial Drainage Acts 1945 and 1995<br>...</td></tr></table>
+>
+> C2: Application of collectively cited *Arterial Drainage Acts* restricted (15.03.2010) by *European Communities (Assessment and Management of Flood Risks) Regulations 2010* (S.I. No. 122 of 2010), reg. 24(2).
+>
+> *General responsibility of the Commissioners for flood risk management.*
+>
+> 24\. ...
+>
+> (2) Notwithstanding anything in the Arterial Drainage Acts 1945 to 1995 or in any other Act or Regulation, the Commissioners shall not be required to do anything that is contrary to or inconsistent with the aims, provisions or requirements of the Directive.
+>
+> C3: Power to prepare multiple schemes confirmed (17.07.1995) by *Arterial Drainage (Amendment) Act 1995* (14/1995), s. 8, commenced on enactment.
+>
+> **More than one drainage scheme may be prepared in relation to a catchment area or watercourse.**
+>
+> **8**.—Nothing in the Principal Act shall be construed as preventing the Commissioners from preparing a second or further drainage scheme in relation to a catchment area, watercourse or part of a watercourse that has been the subject of such a scheme.
+>
+> C4: Application of Act extended (18.07.1990) by *Shannon Navigation Act 1990* (20/1990), s. 6(1), commenced on enactment.
+>
+> **Application of Arterial Drainage Act, 1945, to Ballinamore and Ballyconnell drainage district.**
+>
+> **6**.—(1) The Act shall apply in relation to the Ballinamore and Ballyconnell drainage district as if that district were an existing drainage district and subject to the modification that the appointed day shall be deemed to be the day immediately preceding the vesting day and any other necessary modifications.
+>
+> ...
+>
+> C5: Application of Act restricted (18.12.1985) by *Local Government (Reorganisation) Act, 1985, (County Borough of Galway) Order 1985* (S.I. No. 426 of 1985), art. 10 and sch. paras, 4, 5.
+>
+> *Application of Schedule.*
+>
+> 10\. The provisions contained in the Schedule to this Order shall apply and have effect in relation to the establishment of the County Borough.
+>
+> SCHEDULE.
+>
+> ...
+>
+> 4\. Notwithstanding the provisions of the Arterial Drainage Act, 1945 (No. 3 of 1945), the following arrangements shall apply in relation to liability for the payment of the demand issued to the County Council pursuant to section 37 of that Act in respect of the local financial year 1986:
+>
+> (a) The Corporation shall be deemed to have been served with a demand and the amount of the demand shall be that proportion of the first mentioned demand as is equivalent to the proportion of the demand served on the County Council in respect of the year 1985 for which the Borough Corporation was liable and,
+>
+> (b) the said first mentioned demand shall be reduced by the amount referred to in subparagraph (a) of this paragraph.
+>
+> 5\. Notwithstanding the provisions of the Arterial Drainage Act, 1945 the following arrangements shall apply in relation to the calculation and liability for the payment of such portion of the demands served on the County Council and Corporation in respect of the local financial year 1987 and subsequent years as relates to works carried out prior to the appointed day:
+>
+> (a) An amount shall be calculated which would represent the liability of the County Council for such portion as if section 5 of the Act of 1985 had not been enacted.
+>
+> (b) The Corporation shall be liable for the payment of a proportion of the amount referred to in subparagraph (a) of this paragraph and that proportion shall be the same proportion as the proportion for the relevant financial year pursuant to the provisions of article 5(2) of this Order.
+>
+> (c) The County Council shall be liable for the payment of the balance of the amount referred to in subparagraph (a) of this paragraph and an amount equivalent to such balance shall be included in the demand served on the County Council.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E1: Minister granted power to order abandonment of embankments, transfer powers of Commissioners for purposes of assessment and management of flood risk and giving further effect to the provisions and requirements of the Regulations and Directive 2007/60/EC, and amend or repeal any provision of Act for purposes of improving the assessment and management of flood risk or where the matters are also dealt with in the Regulations (15.03.2010) by *European Communities (Assessment and Management of Flood Risks) Regulations 2010* (S.I. No. 122 of 2010), regs. 57 and sch. 3, reg. 58(1)(g), (h).
+>
+> E2: Primary responsibility for collectively cited *Arterial Drainage Acts* assigned to a Minister other than the Minister for Housing, Local Government and Heritage (14.11.2002) by *Local Government Act 2001* (37/2002), s. 63 and sch. 12 part 2, S.I. No. 507 of 2002, as substituted (31.12.2007) by *Water Services Act 2007* (30/2007), s. 115, S.I. No. 846 of 2007.
+
+## PART I. — Preliminary.
+
+### 1. Short title.
+
+**1.**—This Act may be cited as the Arterial Drainage Act 1945.
+
+### 2. Definitions.
+
+**2.**—In this Act—
+
+the expression “the Minister” means the Minister for Finance;
+
+the expression “the Commissioners” means the Commissioners of Public Works in Ireland;
+
+the expression “the Reference Committee” means the Reference Committee constituted by paragraph (*c*) of sub-section (5) of section 1 of the Acquisition of Land (Assessment of Compensation) Act, 1919, as amended by the Acquisition of Land (Reference Committee) Act, 1925 (No. 22 of 1925);
+
+the expression “benefited lands” means either (as the context requires) lands stated in a drainage scheme under this Act to be lands which will be drained or otherwise improved by the execution of the drainage works specified in such scheme or stated in an Award under this Act or any previous Act, to be lands which have been drained or otherwise improved by the execution of the drainage works mentioned in such Award;
+
+the expression “existing drainage district” means a drainage district constituted under any of the Acts specified in the First Schedule to this Act and wholly situate within the State;
+
+the expression “existing drainage works” means the drainage works in an existing drainage district;
+
+the word “embankment” means an artificial watercourse, drain, embankment, or other work constructed for the protection of land from flooding and includes all sluices, sluice-gates, pumps, weirs, watercourses, and other works forming part of or essential to the effective operation of any such embankment or work;
+
+the expression “existing embankment” means an embankment constructed (whether before or after the passing of this Act) for the protection from flooding of land purchased under the Land Purchase Acts or the subject of proceedings under those Acts, whether such embankment was constructed before or after such purchase or the institution of proceedings therefor and whether such embankment was constructed by a former landlord or other person or by trustees or by or under the supervision of the Irish Land Commission;
+
+the word “county” includes a county borough and, in relation to a county borough, the word “council” shall be construed as meaning the corporation of such county borough and the expression “poor rate” shall be construed as meaning the municipal rate;
+
+the expression “reserved function” means—
+
+(*a*) in the case of the corporation of a county borough, a reserved function for the purposes of the enactments relating to the management of that county borough,
+
+(*b*) in any other case, a reserved function for the purposes of the County Management Acts, 1940 and 1942;
+
+the word “weir” includes a dam and also includes all sluices, sluice-gates, flood-gates, locks, and other things forming part of a weir or a dam;
+
+the word “watercourse” includes rivers, streams, and other natural watercourses, and also canals, drains, and other artificial watercourses;
+
+a reference to a private bridge does not include a reference to any kesh, footstick or other similar structure.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C6: Functions transferred and references to “Minister for Finance” construed as "Minister for Public Expenditure and Reform" (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 3, 5 and sch. 1 part 2, in operation as per art. 1(2).
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 3 of 1945</td><td>Arterial Drainage Act 1945</td><td>The whole Act</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> The history of the Ministers concerned with Finance aspects of Act can be traced as follows:
+>
+> • Functions (other than under s. 3) transferred and title of Minister for **Finance** construed as **Agriculture** (23.12.1986) by *Arterial Drainage (Transfer of Ministerial Functions) Order 1986* (S.I. No. 448 of 1986), in operation as per art. 1(2).
+>
+> • Title of Minister for **Agricuture** changed to **Agriculture and Food** (31.03.1987) by *Agriculture (Alteration of Name of Department and Title of Minister) Order 1987* (S.I. No. 97 of 1987), in operation as per art. 1(2).
+>
+> • Functions (other than under s. 3) transferred and title of Minister for **Agriculture and Food** construed as **Finance** (5.05.1987) by *Arterial Drainage (Transfer of Ministerial Functions) Order 1987* (S.I. No. 128 of 1997), in operation as per art. 1(2).
+>
+> • Functions transferred and title of Minister for **Finance** construed as **Public Expenditure and Reform** (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), in operation as per art. 1(2);
+>
+> • Title of Minister for **Public Expenditure and Reform** changed to **Public Expenditure, National Development Plan Delivery and Reform** (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in operation as per art. 1(2);
+>
+> • Title of Minister for **Public Expenditure, National Development Plan Delivery and Reform** changed to **Public Expenditure, Infrastructure, Public Service Reform and Digitalisation** (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025).
+
+### 3. Expenses.
+
+**3.**—The expenses incurred by the Minister or the Commissioners in the administration of this Act shall (to such extent as may be sanctioned by the Minister and so far as they are not otherwise provided for by this Act) be paid out of moneys provided by the Oireachtas.
+
+## PART II. — Drainage Schemes.
+
+### F1[3A. Interpretation
+
+**3A.**—(1) In this Part—
+
+the expression "Act of 1999" means the Electricity Regulation Act 1999;
+
+the expression "consultation body" means—
+
+(*a*) such Ministers of the Government as the Minister considers appropriate having regard to their specific environmental responsibilities or local and regional competencies,
+
+(*b*) the Environmental Protection Agency,
+
+(*c*) Inland Fisheries Ireland,
+
+(*d*) a local authority in whose functional area arterial drainage works are proposed to be carried out,
+
+(*e*) a regional assembly established in respect of a region in which arterial drainage works are proposed to be carried out,
+
+(*f*) National Roads Authority,
+
+(*g*) Irish Water,
+
+(*h*) the holder of the licence granted under section 14(1)(e) of the Act of 1999,
+
+(*i*) the holder of the licence granted under section 14(1)(f) of the Act of 1999,
+
+(*j*) the holder of the licence granted under section 14(1)(g) of the Act of 1999,
+
+(*k*) the holder of the licence granted under section 14(1)(k) of the Act of 1999,
+
+(*l*) the holder of the licence granted under section 16(1)(c) of the Gas (Interim) (Regulation) Act 2002,
+
+(*m*) the holder of the licence granted under section 16(1)(d) of the Gas (Interim) (Regulation) Act 2002,
+
+(*n*) Iarnród Éireann-Irish Rail,
+
+(*o*) Waterways Ireland,
+
+(*p*) An Taisce — The National Trust for Ireland, or
+
+(*q*) any other person having a statutory function or a specialist skill or expertise in, or knowledge of, a particular relevance that the Minister considers appropriate having regard to the matters referred to in a drainage scheme submitted to the Minister under *section 7B*;
+
+the expression "directive" means Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011[^1] as amended by Directive 2014/52/EU of the European Parliament and of the Council of 16 April 2014[^2]
+
+the expression "EEA Agreement" means the Agreement on the European Economic Area signed at Oporto on 2 May 1992, as adjusted by the Protocol signed at Brussels on 17 March 1993;
+
+the expression "EIA drainage scheme" means a drainage scheme in pursuance of which arterial drainage works, in respect of which an environmental impact assessment is required to be carried out under *section 4C*, are to be executed;
+
+the expression "EIA portal" means the website referred to in section 172A of the Planning and Development Act 2000;
+
+the expression "environmental impact assessment" shall be construed in accordance with *section 4A*;
+
+the expression "environmental impact assessment report" shall be construed in accordance with *section 4E*;
+
+the expression "local authority" has the same meaning as it has in the Local Government Act 2001;
+
+the expression "Member State" means a state, other than the State, which is a Member State of the European Union, or not being such a Member State, a state which is a contracting party to the EEA Agreement;
+
+the expression "proposed arterial drainage works" means the drainage works proposed to be executed in pursuance of a drainage scheme;
+
+the expression "sub-threshold drainage works" means proposed arterial drainage works which would be of a class for the time being specified under Article 24 of the European Communities (Environmental Impact Assessment) Regulations 1989 (S.I. No. 349 of 1989), or a provision amending or replacing that Article, but for not exceeding a quantity, area or other limit.
+
+(2) A word or expression which is used in this Part and is also used in the directive has, unless the context otherwise requires, the same meaning in this Part as it has in the directive.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1: Inserted (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(a), subject to transitional provisions in reg. 4.
+>
+> F2: Substituted by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 4, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C7: Prospective affecting provision: definition of EIA portal substituted by *Planning and Development Act 2024* (34/2024), s. 631 and sch. 7 ref. no. 4, not commenced as of date of revision.
+>
+> F2[the expression "EIA portal" means the environmental impact assessment portal operated and maintained in accordance with section 241 of the Planning and Development Act 2024]
+
+### 4. Preparation of drainage schemes.
+
+**4.**—F3[(1) Whenever the Commissioners are of opinion that the execution of arterial drainage works is expedient in respect of—
+
+(*a*) any catchment area for the purpose of preventing or substantially reducing the periodical flooding of lands in that area or of improving by drainage lands in that area, or
+
+(*b*) any watercourse or any part of a watercourse for the purpose of preventing or substantially reducing the periodical flooding of lands in the area of that watercourse or such a part or of improving by drainage lands in that area,
+
+it shall be lawful for the Commissioners to prepare a scheme (in this Act referred to as a drainage scheme) for the execution of such works and for that purpose to make such engineering, environmental, valuation and other surveys of the said area as shall appear to them to be necessary or expedient.]
+
+F4[(1A) F5[...]]
+
+(2) Every drainage scheme prepared by the Commissioners in pursuance of this section shall show, either in the body of the scheme or by means of appropriate maps, drawings, plans, sections, and schedules annexed thereto, the following matters, that is to say:—
+
+(*a*) the waters and watercourses proposed to be dealt with,
+
+(*b*) the lands which will be drained or otherwise improved by the carrying out of the scheme,
+
+(*c*) the drainage works proposed to be executed in pursuance of the scheme,
+
+(*d*) where the benefited lands are all situate in one county, the aggregate annual value (at the time of the preparation of the scheme) of those lands and the total increase in the annual value thereof which will probably arise in consequence of the execution of the scheme or, where the benefited lands are situate in two or more counties, the respective aggregate annual values (at the time aforesaid) of the portions of those lands situate in each such county and the several total increases in the annual values of those portions respectively which will probably arise in consequence of the execution of the scheme,
+
+(*e*) the lands proposed to be compulsorily acquired or substantially interfered with, the easements, fisheries, water-rights, navigation-rights, and other rights proposed to be compulsorily acquired, restricted, terminated, or otherwise interfered with, and the roads and bridges (whether public or private) proposed to be diverted, removed, or otherwise interfered with,
+
+(*f*) the reputed proprietors, owners, and rated or other occupiers of the several lands proposed to be compulsorily acquired or substantially interfered with and of the several easements, fisheries, water-rights, navigation-rights, and other rights, and private roads and bridges proposed to be compulsorily acquired, restricted, terminated or otherwise interfered with,
+
+(*g*) the area proposed to be constituted a separate drainage district on the completion of the carrying out of the scheme.
+
+F6[(2A) F8[...]]
+
+F7[(2B) F8[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F3: Substituted (17.07.1995) by *Arterial Drainage (Amendment) Act 1995* (14/1995), s. 3, commenced on enactment.
+>
+> F4: Inserted (25.10.2012) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2012* (S.I. No 469 of 2012), reg. 2
+>
+> F5: Deleted (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(b), subject to transitional provisions in reg. 4.
+>
+> F6, F7: Inserted (1.02.1990) by *European Communities (Environmental Impact Assessment) Regulations 1989* (S.I. No. 349 of 1989), reg. 16(b), in operation as per reg. 2(1).
+>
+> F8: Deleted (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(b), subject to transitional provisions in reg. 4.
+>
+> **Modifications (not altering text):**
+>
+> C8: Certain matters to be considered when preparing drainage scheme under section as provided (17.07.1995) by *Arterial Drainage (Amendment) Act 1995* (14/1995), s. 4, commenced on enactment.
+>
+> **Matters to which regard is to be had in preparation of a drainage scheme.**
+>
+> **4.**—The Commissioners shall, in deciding the nature and extent of the drainage works to be included in a drainage scheme that is being prepared by them under section 4 of the Principal Act in respect of a watercourse or part of a watercourse, have regard to the effects that any such works would, if executed in pursuance of the scheme, have throughout the catchment area of which the watercourse or part thereof is a part.
+>
+> **Editorial Notes:**
+>
+> E3: Previous affecting provision: subs. (2B)(b) substituted (23.09.2009) by *European Communities (Arterial Drainage) Regulations 2009* (S.I. No. 388 of 2009), reg. 4; subsection deleted (21.09.2019) as per F-note above.
+>
+> E4: Previous affecting provision: subs. (2A)(b)(iii), (d), (e) inserted, subs. (2B)(a) substituted, (d) inserted (1.05.1999) by *European Communities (Environmental Impact Assessment) (Amendment) Regulations 1999* (S.I. No. 93 of 1999), s. 10(a)-(d), in operation as per reg. 2(1); subsections deleted (21.09.2019) as per F-note above.
+>
+> E5: Previous affecting provision: subs. (2B)(b), (c) substituted (18.09.1998) by *European Communities (Environmental Impact Assessment) (Amendment) Regulations 1998* (S.I. No. 351 of 1998), s. 10(a); subsection deleted (21.09.2019) as per F-note above.
+>
+> E6: Previous affecting provision: subs. (1) amended (1.02.1990) by *European Communities (Environmental Impact Assessment) Regulations 1989* (S.I. No. 349 of 1989), by s. 16(a), in operation as per reg. 2(1); substituted (17.07.1995) as per F-note above.
+
+### 4A. F9[Environmental impact assessment
+
+**4A.**—(1) An environmental impact assessment in respect of proposed arterial drainage works is a process consisting of—
+
+(*a*) the preparation of an environmental impact assessment report by the Commissioners,
+
+(*b*) the carrying out of consultations, as referred to in *sections 5* and *7C* and, where relevant, *sections 5A* and *7D*,
+
+(*c*) the examination by the Minister of—
+
+(i) the information presented in the environmental impact assessment report,
+
+(ii) any supplementary information provided by the Commissioners in accordance with *section 7B (4)*, and
+
+(iii) any relevant information received through consultations under *sections 5* and *7C* and, where relevant, *sections 5A* and *7D*,
+
+(*d*) the reasoned conclusion by the Minister on the significant effects of the proposed arterial drainage works on the environment, taking into account the results of the examination referred to in paragraph (*c*) and, where appropriate, his or her own supplementary examination, and
+
+(*e*) the integration of the Minister’s reasoned conclusion into any of the decisions referred to in *section 7E(1)*.
+
+(2) An environmental impact assessment in respect of proposed arterial drainage works shall identify, describe and assess in an appropriate manner, in the light of each individual case, the direct and indirect significant effects of those works on the following factors:
+
+(*a*) population and human health;
+
+(*b*) biodiversity, with particular attention to species and habitats protected under Council Directive 92/43/EEC of 21 May 1992[^3] and Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009[^4];
+
+(*c*) land, soil, water, air and climate;
+
+(*d*) material assets, cultural heritage and the landscape;
+
+(*e*) the interaction between the factors referred to in paragraphs (*a*) to (*d*).
+
+(3) The effects referred to in*subsection (2)* on the factors set out therein shall include the expected effects deriving from the vulnerability of the proposed arterial drainage works to risks of major accidents or disasters that are relevant to those works.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F9: Inserted (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(c), subject to transitional provisions in reg. 4.
+
+### 4B. Sub-threshold drainage works
+
+F10[**4B.**—(1) Where proposed arterial drainage works are sub-threshold drainage works, the Commissioners—
+
+(*a*) shall provide the information specified in Annex IIA to the directive to the Minister, taking into account, where relevant, the available results of other relevant assessments of the effects on the environment carried out pursuant to the law of the European Union (or the law of a Member State giving effect to that law), other than the directive, and
+
+(*b*) may provide a description of any features of the drainage works, or measures, envisaged to avoid or prevent what might otherwise have been significant adverse effects on the environment.
+
+(2) Where the Minister receives information from the Commissioners under *subsection (1)* he or she shall make a determination as to whether the sub-threshold drainage works concerned are likely to have a significant effect on the environment on the basis of such information, taking into account—
+
+(*a*) the relevant selection criteria specified in Annex III to the directive, and
+
+(*b*) where relevant, the results of preliminary verifications or assessments of the effects on the environment carried out pursuant to the law of the European Union (or the law of a Member State giving effect to that law), other than the directive.
+
+(3) A determination made under *subsection (2)* shall—
+
+(*a*) where the determination is that the sub-threshold drainage works concerned are likely to have a significant effect on the environment, specify the main reasons for that determination, by reference to the relevant criteria specified in Annex III to the directive, and
+
+(*b*) where the determination is that the sub-threshold drainage works concerned are not likely to have a significant effect on the environment—
+
+(i) specify the main reasons for that determination, by reference to the relevant criteria specified in Annex III to the directive, and
+
+(ii) in a case in which such a description has been provided under *subsection (1)(b)*, include a description of any features of the drainage works, or measures, envisaged to avoid or prevent what might otherwise have been significant adverse effects on the environment.
+
+(4) Subject to *subsection (5)*, a determination under *subsection (2)* shall be made as soon as possible and in any event, subject to *subsection (5)*, not later than 90 days from the date on which the Commissioners have provided all of the information required to be provided to the Minister under *subsection (1)*.
+
+(5) The Minister may, in exceptional cases, including where it is justified by the nature, complexity, location or size of the sub-threshold drainage works, extend the 90 day period referred to in *subsection (4)* in order to make his or her determination and in such cases he or she shall inform the Commissioners in writing of the reasons justifying the extension and of the date when his or her determination is expected.
+
+(6) The Minister shall make an electronic version of any determination made under *subsection (2)* available to the public on a website maintained by him or her.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F10: Inserted (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(c), subject to transitional provisions in reg. 4.
+
+### 4C. Obligation to carry out environmental impact assessment
+
+F11[**4C.**—(1) The Minister shall, before making a decision under *section 7E (1)*, carry out an environmental impact assessment in respect of proposed arterial drainage works of a class for the time being specified under Article 24 of the European Communities (Environmental Impact Assessment) Regulations 1989 (S.I. No. 349 of 1989), or a provision amending or replacing that Article.
+
+(2) The Minister shall, before making a decision under *section 7E(1)*, carry out an environmental impact assessment in respect of proposed arterial drainage works which are sub-threshold drainage works where he or she determines under *section 4B(2)* that those works are likely to have a significant effect on the environment.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F11: Inserted (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(c), subject to transitional provisions in reg. 4.
+
+### 4D. Exemption from obligation to carry out environmental impact assessment
+
+F12[**4D.**—(1) Subject to *subsections (2)* and *(3)*, the Minister may, following consultation with the Minister for the Housing, Planning and Local Government, by order, exempt proposed arterial drainage works from the obligation under *section 4C* to carry out an environmental impact assessment.
+
+(2) The Minister may make an order under *subsection (1)* only where he or she is satisfied that—
+
+(*a*) exceptional circumstances apply, justifying the making of the order,
+
+(*b*) the carrying out of an environmental impact assessment would adversely affect the purpose of the proposed arterial drainage works concerned, and
+
+(*c*) the objectives of the directive will be met, notwithstanding that an environmental impact assessment is not carried out.
+
+(3) Where the Minister makes an order under *subsection (1)*, he or she shall—
+
+(*a*) make available to the public, on a website maintained by him or her or in such other manner as he or she thinks fit—
+
+(i) a brief description of the proposed arterial drainage works,
+
+(ii) the information which the Minister considered for the purposes of satisfying himself or herself of the matters referred to in *subsection (2)*,
+
+(iii) the reasons underlying the decision to make the order, and
+
+(iv) a brief description of the effect of the making of the order,
+
+(*b*) consider whether another form of assessment of the environmental effects of the proposed arterial drainage works would be appropriate,
+
+(*c*) where he or she considers that another form of assessment would be appropriate, make available to the public, on a website maintained by him or her or in such other manner as he or she thinks fit, the information obtained by the Minister as a result of that other form of assessment being carried out,
+
+(*d*) inform the Commission of the European Union before making a decision under *section 7* in respect of the proposed arterial drainage works of the reasons underlying the decision to make the order, and
+
+(*e*) provide the Commission of the European Union with a copy of—
+
+(i) the information made available to the public in accordance with paragraph *(a)*, and
+
+(ii) the information, if any, made available to the public in accordance with paragraph *(c)*.
+
+(4) The Minister shall not make an order under *subsection (1)* where he or she is aware that the proposed arterial drainage works concerned would be likely to have significant effects on the environment of another Member State.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F12: Inserted (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(c), subject to transitional provisions in reg. 4.
+
+### 4E. Environmental impact assessment report
+
+F13[**4E.**—(1) The Commissioners shall prepare a report (in this Part referred to as an "environmental impact assessment report") on proposed arterial drainage works in respect of which an environmental impact assessment is required to be carried out pursuant to *section 4C*.
+
+(2) An environmental impact assessment report shall include, at a minimum, the following information:
+
+(*a*) a description of the proposed arterial drainage works concerned, comprising information on the site, design, size and other relevant features of those works;
+
+(*b*) a description of the likely significant effects of the proposed arterial drainage works on the environment;
+
+(*c*) a description of—
+
+(i) the features of the proposed arterial drainage works, if any, and
+
+(ii) the measures, if any,
+
+envisaged in order to avoid, prevent or reduce and, if possible, offset likely significant adverse effects on the environment;
+
+(*d*) a description of the reasonable alternatives studied by the Commissioners, which are relevant to the proposed arterial drainage works and its specific characteristics, and an indication of the main reasons for the option chosen, taking into account the effects of the works on the environment;
+
+(*e*) a non-technical summary of the information referred to in *paragraphs (a)* to (*d)*;
+
+(*f*) any additional information specified in Annex IV to the directive relevant to the specific characteristics of the proposed arterial drainage works and to the environmental features likely to be affected.
+
+(3) Where the Minister issues an opinion under *section 4F*, the environmental impact assessment report for the drainage works concerned shall be based on that opinion, and include the information that may reasonably be required for reaching a reasoned conclusion on the significant effects of the project on the environment, taking into account current knowledge and methods of assessment.
+
+(4) The Commissioners shall, in preparing the environmental impact assessment report, take into account the available results of other relevant assessments under the law of the State, the European Union or Member States with a view to avoiding duplication of assessments.
+
+(5) The Commissioners shall ensure that an environmental impact assessment report is prepared on their behalf by competent experts.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F13: Inserted (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(c), subject to transitional provisions in reg. 4.
+
+### 4F. Scope of environmental impact assessment report
+
+F14[**4F.**—(1) The Commissioners may request the Minister to issue an opinion to them on—
+
+(*a*) the scope, and
+
+(*b*) the level of detail,
+
+of the information to be included in an environmental impact assessment report being prepared by the Commissioners under *section 4E.*
+
+(2) The Commissioners shall, when submitting a request under *subsection (1)*, provide information to the Minister on—
+
+(*a*) the specific characteristics of the proposed arterial drainage works concerned, including their location and technical capacity, and
+
+(*b*) the likely impact of those works on the environment.
+
+(3) The Minister shall, where requested under *subsection (1)*, provide the opinion referred to in that subsection.
+
+(4) In issuing an opinion in response to a request under *subsection (1)*, the Minister shall take into account the information provided under *subsection (2)*.
+
+(5) The Minister shall consult with the consultation bodies in relation to the scope and level of detail to be included in the environmental impact assessment report referred to in *subsection (1)* before issuing an opinion in response to a request under that subsection.
+
+(6) The issuing of an opinion under this section shall not prejudice the exercise by the Minister of his or her powers pursuant to *section 7B(4)* to require the Commissioners to provide supplementary information in relation to the likely effects on the environment of the proposed arterial drainage works concerned.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F14: Inserted (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(c), subject to transitional provisions in reg. 4.
+
+### 5. Pre-submission consultation
+
+F15[**5.**—(1) When the Commissioners have prepared a drainage scheme in respect of proposed arterial drainage works they shall—
+
+(*a*) send a copy of such scheme to the council of every county in which the area or any part of the area proposed by such scheme to be constituted a separate drainage district is situate,
+
+(*b*) publish in Iris Oifigiúil and such one or more newspapers circulating in each area, referred to in *paragraph (a)*, as they shall consider appropriate, a notice stating—
+
+(i) that such scheme has been prepared by them,
+
+(ii) the electoral divisions to which or to a part of which the scheme relates,
+
+(iii) that the Minister is the competent authority for the taking of a decision in relation to the scheme and the nature of the possible decisions,
+
+(iv) where applicable, that the proposed arterial drainage works concerned are subject to an environmental impact assessment,
+
+(v) where the proposed arterial drainage works concerned are subject to an environmental impact assessment, that an environmental impact assessment report in respect of those works has been prepared,
+
+(vi) where applicable, that *subsection (6)* applies,
+
+(vii) the place or places at which and the period, not being less than 30 days, during which a copy of the scheme (and the environmental impact assessment report, where applicable) will be available for inspection in accordance with *subsection (2)*,
+
+(viii) where the proposed arterial drainage works concerned are subject to an environmental impact assessment, the website on which a copy of the environmental impact assessment report is available, and
+
+(ix) where the proposed arterial drainage works concerned are subject to an environmental impact assessment, that submissions may be made in writing to the Commissioners by members of the public in relation to the likely effects on the environment of the works during the period referred to in *subparagraph (vii)*,
+
+(*c*) where the scheme is an EIA drainage scheme, send a notice to the consultation bodies, including copy of the scheme and the environmental impact assessment report with the notice, indicating that submissions may be made in writing by the consultation body concerned to the Commissioners in relation to the likely effects on the environment of the scheme within such period as may be specified in the notice, not being less than 30 days after the date of the notice, and
+
+(*d*) where the scheme is an EIA drainage scheme, provide the following information in electronic form to the EIA portal:
+
+(i) that the applicants for development consent in respect of the EIA drainage scheme are the Commissioners;
+
+(ii) the name, e-mail address and phone number of the person to whom correspondence in relation to the EIA drainage scheme should be sent;
+
+(iii) the location of the EIA drainage scheme;
+
+(iv) a description of the EIA drainage scheme;
+
+(v) that the application for development consent will be made to the Minister;
+
+(vi) a location map of sufficient size and containing details of features in the vicinity such as to permit the identification of the site to which the EIA drainage scheme relates;
+
+(vii) an electronic copy of the notice published in accordance with *paragraph (b)*.
+
+(2) A member of the public may make a submission in writing to the Commissioners in relation to the likely effects on the environment of a drainage scheme in respect of which a notice has been published under *paragraph (b)* of *subsection (1)* within the period referred to in *subparagraph (vii)* of that paragraph.
+
+(3) A consultation body to which a notice is sent under *paragraph (c)* of *subsection (1)* may make a submission in writing to the Commissioners in relation to the likely effects on the environment of the drainage scheme concerned within the period specified in that notice.
+
+(4) Every council of a county to which a copy of a drainage scheme is sent by the Commissioners in pursuance of this section—
+
+(*a*) shall cause such copy to be exhibited in their principal offices or other convenient place during the period specified in that behalf in the notice relating to such scheme published under *subsection (1)(b)* and shall permit such copy to be inspected during office hours by any person claiming to be interested therein,
+
+(*b*) shall examine and consider the drainage scheme of which such copy is a copy, and
+
+(*c*) may, at any time within 3 months after the date of the publication in the Iris Oifigiúil of the notice relating to such scheme under *subsection (1)*, send to the Commissioners all such observations in regard to such scheme as such council shall think proper.
+
+(5) The duty imposed on the council of a county by *paragraph (b)* of *subsection (4)* and the power conferred on the council of a county by *paragraph (c)* of that subsection shall each be a reserved function.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F15: Substituted (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(d), subject to transitional provisions in reg. 4.
+>
+> **Editorial Notes:**
+>
+> E7: Consideration of and observations in regard to a drainage scheme prepared by the Commissioners of Public Works in Ireland under section is a reserved function that may be performed under *Local Government Act 2001*, s. 131A(1)(b) in respect of a Municipal District by Municipal District Members or the Local Authority, as provided by *Local Government Act 2001*, s. 131A and sch. 14A part 2 ref. no. 23, as inserted (1.06.2014) by *Local Government Reform Act 2014* (1/2014), s. 21(4) and sch. 3, S.I. No. 214 of 2014. This is subject to restrictions on delegation imposed (1.06.2014) by *Local Government (Performance of Reserved Functions in Respect of Municipal District Members) Regulations 2014* (S.I. No. 231 of 2014, regs. 6-10, in operation as per reg. 2.
+>
+> E8: Examining and considering a drainage scheme sent to a county council by the Commissioners of Public Works and providing observations to the Commissioners in regard to such scheme under section is a reserved function to be performed by the local authority, as provided by *Local Government Act 2001* (37/2001), ss. 131, 131A and sch. 14A part 3 ref. no. 79, as insertd (1.06.2014) by *Local Government Reform Act 2014* (1/2014), s. 21(4) and sch. 3, S.I.No. 214 of 2014.
+>
+> E9: Previous affecting provision: subss. (1)(c), (1B), (2B) inserted (23.09.2009) by *European Communities (Arterial Drainage) Regulations 2009* (S.I. No. 388 of 2009), reg. 5(1), (2), in operation as per reg. 2(2); section substituted (21.09.2019) as per F-note above.
+>
+> E10: Previous affecting provision: subss. (1)(b), (2)(c) applied with modifications (17.07.1995) by *Arterial Drainage (Amendment) Act 1995* (14/1995), s. 5, commenced on enactment; section substituted (21.09.2019) as per F-note above.
+>
+> E11: Previous affecting provision: power pursuant to section exercised (15.11.1990) by *Arterial Drainage Acts, 1945 and 1955 (Environmental Impact Assessment) Regulations 1990* (S.I. No. 323 of 1990), reg. 1; revoked (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 5.
+>
+> E12: Previous affecting provision: subss. (1)(aa), (1A), (5)(aa) inserted (16.12.1989) by *European Communities (Environmental Impact Assessment) Regulations 1989* (S.I. No. 349 of 1989), by s. 16(c), (d), (e), in operation as per reg. 2(1); section substituted (21.09.2019) as per F-note above.
+
+### 5A. Pre-submission consultation on transboundary effects
+
+F16[**5A.**—(1) Where the Commissioners consider that proposed drainage works comprised in an EIA drainage scheme would be likely to have significant effects on the environment in a Member State, or where a Member State considers that the said drainage works would be likely to have the said effects and so requests, they shall, no later than the date of the publication of a notice in respect of the scheme under *section 5(1)(b)*, send to that Member State—
+
+(*a*) a description of the proposed drainage works and any available information on their possible effects on the environment in that Member State, and
+
+(*b*) information on the nature of the decision which may be taken in relation to the scheme,
+
+and shall give to that Member State a reasonable time to indicate whether it wishes to send observations on the said effects.
+
+(2) Where a Member State, which has received information pursuant to *subsection (1)*, indicates that it wishes to send observations on the likely effects on the environment of the proposed drainage works, the Commissioners shall, if they have not already done so, send to that Member State—
+
+(*a*) a copy of the environmental impact assessment report,
+
+(*b*) information published in accordance with *subsection (6)(b)*, and
+
+(*c*) relevant information about the procedure for making a decision on the drainage scheme concerned.
+
+(3) Where the Commissioners provide information to a Member State in accordance with *subsection (2)*, they shall as soon as may be—
+
+(*a*) place a notice in a newspaper circulating in the area within the Member State concerned identified in the environmental impact assessment report concerned as likely to be affected by the drainage works concerned, indicating that the information has been provided, how it may be accessed by the public in that Member State, how submissions may be made to the Commissioners and the time within which such submissions must be made, which shall not be less than 30 days from the date of the publication of the notice, and
+
+(*b*) notify the authorities in that Member State likely to be concerned by the project by reason of their specific environmental responsibilities or local and regional competences indicating that the information has been provided, how it may be accessed by the authorities, how submissions may be made to the Commissioners and the time within which such submissions must be made, which shall not be less than 30 days from the date of the notification.
+
+(4) The Commissioners shall enter into consultations with a Member State to which information was sent pursuant to *subsection (2)* regarding the potential effects of the proposed drainage works on the environment in that Member State and the measures envisaged to reduce or eliminate such effects.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F16, F17: Inserted (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(e), subject to transitional provisions in reg. 4.
+
+### 6. Notices to reputed proprietors, occupiers, etc.
+
+**6.**—(1) Simultaneously with or as soon as may be after sending a copy of a drainage scheme to councils of counties in pursuance of the next preceding section, the Commissioners shall—
+
+(*a*) serve on every person named in such drainage scheme as a reputed proprietor, owner, or rated or other occupier of any land proposed to be compulsorily acquired or substantially interfered with or of any easement, fishery, water-right, navigation-right, or other right or of any private road or bridge proposed to be compulsorily acquired, restricted, terminated or otherwise interfered with a notice stating that such scheme has been prepared, specifying the place or places at which and the period during which a copy of such scheme will be available for inspection in pursuance of this Act and informing him that such scheme proposes the compulsory acquisition of or interference with some land, right, or other property (which land, right, or property and the proposed interference (if any) shall be fully described in the notice) reputed to be owned or occupied by him, and
+
+(*b*) serve on every person who is the local authority (not being a council to which a copy of such scheme has been sent in pursuance of the next preceding section) charged with the maintenance of any public road or bridge proposed in such scheme to be diverted, removed, or otherwise interfered with a notice informing such local authority of the preparation of such scheme and of the diversion, removal, or interference proposed in such scheme to be made in respect of such road or bridge.
+
+(2) Every notice served on any person in pursuance of the foregoing sub-section of this section shall contain a statement informing such person that he may, within one month after the service of such notice on him, send to the Commissioners all such observations (if any) as he shall think proper in regard to (as the case may be) the acquisition, restriction, termination, or interference or the diversion, removal, or interference mentioned in such notice.
+
+(3) Every person on whom a notice is served in pursuance of this section may, at any time within one month after the service of such notice on him, send to the Commissioners all such (if any) observations in regard to the acquisition, restriction, termination, or interference or the diversion, removal, or interference (as the case may be) mentioned therein as he shall think proper.
+
+(4) A notice required by this section to be served on any person may be served by post and, where the address of such person is not known, the letter containing such notice may be addressed to him at the lands or the place of situation of the right or property to which the notice relates.
+
+### 7. Confirmation of drainage scheme (no EIA required)
+
+F18[**7.**—(1) This section applies to a drainage scheme that is not an EIA drainage scheme.
+
+(2) When, in respect of a drainage scheme to which this section applies—
+
+(*a*) the times limited by *section 5(4)(c)* for the sending to the Commissioners of observations by councils of counties, and
+
+(*b*) the times limited by *section 6(3)* for the sending to the Commissioners of observations by persons on whom a notice has been served pursuant to *section 6*,
+
+have expired, the Commissioners shall—
+
+(i) consider every such observation sent to them within the time appropriate thereto,
+
+(ii) after consultation with the Minister for Transport, Tourism and Sport, the Minister for Culture, Heritage and the Gaeltacht, the Minister for Communications, Climate Action and Environment, the Minister for Agriculture, Food and the Marine, the Minister for Housing, Planning and Local Government, and such other (if any) Minister of the Government as they shall think proper, make such, if any, alterations (whether by addition, omission, or variation) in the drainage scheme as they shall think proper, and
+
+(iii) submit the drainage scheme as so altered (if at all) to the Minister.
+
+(2) When a drainage scheme to which this section applies has been submitted to the Minister under this section, the Minister shall do whichever of the following things shall appear to him to be proper:
+
+(*a*) make an order confirming the scheme,
+
+(*b*) refuse to confirm the scheme, or
+
+(*c*) refer the scheme back to the Commissioners for revision in specified respects.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F18: Substituted (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(f), subject to transitional provisions in reg. 4.
+>
+> **Editorial Notes:**
+>
+> E13: Previous affecting provision: subss. (6)-(10) inserted (23.07.2014) by *European Union (Access to Review of Decisions for Certain Bodies or Organisations promoting Environmental Protection) Regulations 2014* (S.I. No. 352 of 2014), reg. 2; section substituted (21.09.2019) as per F-note above.
+>
+> E14: Previous affecting provision: subs. (3)(a)(iii), (iv) inserted (13.07.2010) by *European Communities (Public Participation) Regulations 2010* (S.I. No. 352 of 2010), reg. 3, in operation as per reg. 2; section substituted (21.09.2019) as per F-note above.
+>
+> E15: Previous affecting provision: subs. (3)(a)(ii), (b) substituted, subss. (4)(bb), (4A) inserted (23.09.2009) by *European Communities (Arterial Drainage) Regulations 2009* (S.I. No. 388 of 2009), reg. 6(1)-(4), in operation as per reg. 2(2); section substituted (21.09.2019) as per F-note above.
+>
+> E16: Previous affecting provision: subss. (3), (4) substituted (1.05.1999) by *European Communities (Environmental Impact Assessment) (Amendment) Regulations 1999* (S.I. No. 93 of 1999), reg. 10(e), (f), in operation as per reg. 2(1), (3); section substituted (21.09.2019) as per F-note above.
+>
+> E17: Previous affecting provision: subs. (5) inserted (18.09.1998) by *European Communities (Environmental Impact Assessment) (Amendment) Regulations 1998* (S.I. No. 351 of 1998), reg. 10(b); section substituted (21.09.2019) as per F-note above.
+>
+> E18: Previous affecting provision: subs. (1) amended, subss. (1)(d), (3), (4) inserted (1.02.1990) by *European Communities (Environmental Impact Assessment) Regulations 1989* (S.I. No. 349 of 1989), reg. 16(f), (g), (h), in operation as per reg. 2(1); section substituted (21.09.2019) as per F-note above.
+>
+> E19: Previous affecting provision: functions under subs. (1)(b) transferred from Minister for Communications to Minister for the Marine (31.03.1987) by *Communications (Transfer of Departmental Administration and Ministerial Functions) Order 1987* (S.I. No. 91 of 1987), art. 4(1)(c) and sch. part IV ref. no. 5; section substituted (21.09.2019) as per E-note above.
+>
+> E20: Previous affecting provision: functions under subs. (1)(b) transferred from Minister for Industry and Commerce to Minister for Transport and Power (27.07.1959) by *Transport, Fuel and Power (Transfer of Departmental Administration and Ministerial Functions) Order 1959* (S.I. No. 125 of 1959), art. 4(2) and sch. 2 ref. no. 2; functions transferred (31.03.1987) as per E-note above.
+
+### 7A. Revision of scheme (no EIA required)
+
+F19[**7A.**—(1) Where, having been referred back for revision in accordance with *section 7(2)(c)*, a drainage scheme is revised (in this section referred to as a "revised drainage scheme"), *section 4B* shall apply to the arterial drainage works to be executed in pursuance of the scheme (as so revised) as if those works were sub-threshold drainage works.
+
+(2) Where the Minister determines under *section 4B* (as applied in accordance with *subsection (1)*) that arterial drainage works to be executed in pursuance of a revised drainage scheme are likely to have a significant effect on the environment, *sections 4A, 4C(2), 4D, 4E, 4F, 7B, 7C, 7D, 7E, 7F, 7G, 7H* and *7I* shall, subject to the modifications specified in *subsection (3)*, apply—
+
+(*a*) to the revised drainage scheme as if it were an EIA drainage scheme, and
+
+(*b*) to those works as if those works were sub-threshold drainage works in respect of which he or she had made a determination under *section 4B (2)* that the works were likely to have a significant effect on the environment.
+
+(3) The modifications referred to in *subsection (2)* are as follows:
+
+(*a*) in *section 4A(1)*—
+
+(i) in *paragraph (b)*, the substitution of "consultations, as referred to in *section 7C* and, where relevant, *section 7D*" for "consultations, as referred to in *sections 5* and *7C* and, where relevant, *sections 5A* and *7D*", and
+
+(ii) in *paragraph (c)(iii)*, the substitution of "consultations under *section 7C* and, where relevant, *section 7D*" for "consultations under *sections 5* and *7C* and, where relevant, *sections 5A* and *7D*";
+
+(*b*) in *section 7B*—
+
+(i) the deletion of *subsections (1)* and *(2)*, and
+
+(ii) the substitution of the following subsection for *subsection (3)*:
+
+"(3) When the Commissioners have prepared an EIA drainage scheme and the environmental impact assessment report relating to that scheme, they shall submit that scheme and report to the Minister.";
+
+(*c*) in *section 7C(1)*, the substitution of "*section 7B(3)*" for "*section 7B(3)(b)*";
+
+(*d*) in *section 7E*, the substitution of "*section 7B(3)*" for "*section 7B(3)(b)*" in each place where it occurs.
+
+(4) Where the Minister determines under *section 4B* (as applied in accordance with *subsection (1)*) that arterial drainage works to be executed in pursuance of a revised drainage scheme are not likely to have a significant effect on the environment, *section 7* shall, subject to the modification specified in *subsection (5)*, apply—
+
+(*a*) to the revised drainage scheme as if it were a drainage scheme that is not an EIA drainage scheme, and
+
+(*b*) to those works as if those works were sub-threshold drainage works in respect of which he or she had made a determination under *section 4B(2)* that the works were not likely to have a significant effect on the environment.
+
+(5) The modification referred to in *subsection (4)* is the substitution of the following subsection for *section 7(2)*:
+
+"(2) The Commissioners shall—
+
+(*a*) after consultation with the Minister for Transport, Tourism and Sport, the Minister for Culture, Heritage and the Gaeltacht, the Minister for Communications, Climate Action and Environment, the Minister for Agriculture, Food and the Marine, the Minister for Housing, Planning and Local Government, and such other (if any) Minister of the Government as they shall think proper, make such, if any, alterations (whether by addition, omission, or variation) in the drainage scheme as they shall think proper, and
+
+(*b*) submit the drainage scheme as so altered (if at all) to the Minister.".]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F19: Inserted (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(g), subject to transitional provisions in reg. 4.
+
+### 7B. Submission of EIA drainage scheme
+
+F20[**7B.**—(1) Subject to *subsection (2)*, the Commissioners shall, in respect of an EIA drainage scheme, consider each observation and submission sent or made, as the case may be, pursuant to *section 5, 5A, 6* or *7*.
+
+(2) The Commissioners shall not be required to consider an observation or submission which was sent or made, as the case may be, after the expiry of the period within which the observation or submission was required to be sent or made, as the case may be, under *section 5, 5A, 6* or *7*.
+
+(3) The Commissioners, following consideration of the observations and submissions required to be considered in accordance with *subsections (1)* and *(2)* —
+
+(*a*) may make such, if any, alterations (whether by addition, omission, or variation) in the EIA drainage scheme concerned and the environmental impact assessment report relating to that scheme, as they shall think proper, and
+
+(*b*) shall submit the EIA drainage scheme and the environmental impact assessment report relating to that scheme as so altered (if at all) to the Minister, together with those observations.
+
+(4) Where the Commissioners have submitted an environmental impact assessment report to the Minister under this section, the Minister shall, where necessary, request the Commissioners to provide supplementary information, specified in Annex IV to the directive, which is directly relevant to reaching a reasoned conclusion on the significant effects of the drainage works concerned on the environment and the Commissioners shall comply with such a request.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F20: Inserted (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(g), subject to transitional provisions in reg. 4.
+
+### 7C. Consultation on EIA drainage scheme
+
+F21[**7C.**—(1) The Minister shall, following receipt of an EIA drainage scheme and the environmental impact assessment report relating to that scheme under *section 7B(3)(b)*—
+
+(*a*) publish—
+
+(i) on a website maintained by him or her, and
+
+(ii) either—
+
+(I) in one or more newspapers circulating in the county in which the area or any part of the area proposed by the EIA drainage scheme to be constituted a separate drainage district is situate, or
+
+(II) in such other manner as he or she thinks fit,
+
+a notice stating—
+
+(A) that the scheme has been submitted for confirmation to the Minister,
+
+(B) that the scheme is subject to environmental impact assessment,
+
+(C) where applicable, that *section 7D* applies,
+
+(D) how further information can be obtained in relation to the scheme,
+
+(E) the nature of the possible decisions by the Minister in relation to the scheme,
+
+(F) the place or places at which and the period, not being less than 30 days, during which a copy of the scheme and the environmental impact assessment report relating to the scheme will be available for inspection,
+
+(G) the address of the website on which the scheme and the environmental impact assessment report relating to the scheme are available,
+
+(H) the reference number of the scheme,
+
+(I) each location, townland and county to which the scheme relates,
+
+(J) the nature and extent of the scheme,
+
+(K) that submissions may be made in writing (including by means of electronic communication) to the Minister by members of the public in relation to the likely effects on the environment of the scheme during the period referred to in *subparagraph (F)*,
+
+(L) how submissions on the scheme can be made,
+
+(M) the time limit for making submissions on the scheme, and
+
+(N) any other information that the Minister considers relevant,
+
+(*b*) send a notice to the consultation bodies, including a copy of the scheme and the environmental impact assessment report relating to the scheme with the notice, indicating that submissions may be made in writing by the consultation body concerned to the Minister in relation to the likely effects on the environment of the scheme within such period as may be specified for that purpose in the notice, not being less than 30 days after the date of the notice, and
+
+(*c*) provide the following information in electronic form to the EIA portal:
+
+(i) that the applicants for development consent in respect of the EIA drainage scheme are the Commissioners;
+
+(ii) the name, e-mail address and phone number of the person to whom correspondence in relation to the EIA drainage scheme should be sent;
+
+(iii) the location of the EIA drainage scheme;
+
+(iv) a description of the EIA drainage scheme;
+
+(v) that the application for development consent will be made to the Minister;
+
+(vi) a location map of sufficient size and containing details of features in the vicinity such as to permit the identification of the site to which the EIA drainage scheme relates;
+
+(vii) an electronic copy of the notice published in accordance with *paragraph (a)*;
+
+(viii) the reference number of the scheme;
+
+(ix) the address of the website referred to in *paragraph (a)(I)*.
+
+(2) The Minister shall, where information has been provided in relation to the EIA drainage scheme under *section 5(1)(d)*, when providing information under *subsection (1)(c)* in relation to the scheme, inform the Minister for Housing, Planning and Local Government that the information under *section 5(1)(d)* has been so provided.
+
+(3) The Minister shall, where he or she considers that supplementary information furnished in accordance with a request made pursuant to *section 7B(4)* contains significant additional information in relation to the effects on the environment of the EIA drainage scheme—
+
+(*a*) publish on a website maintained by him or her and in such other manner as he or she thinks fit, a notice stating—
+
+(i) that significant additional information in relation to the said effects has been furnished to the Minister,
+
+(ii) the arrangements for viewing the significant additional information during a specified period (which shall be not less than 30 days), and
+
+(iii) that submissions in relation to the significant additional information may be made in writing to the Minister before the expiry of that period, and
+
+(*b*) send a notice to the consultation bodies stating—
+
+(i) that significant additional information in relation to the said effects has been furnished to the Minister,
+
+(ii) the arrangements for viewing the significant additional information during a specified period (which shall be not less than 30 days), and
+
+(iii) that submissions in relation to the significant additional information may be made in writing to the Minister before the expiry of that period.
+
+(4) The Minister shall, at the same time as he or she publishes a notice under *subsection (1)* or *(3)*, send a copy of the notice to the Minister for Housing, Planning and Local Government.
+
+(5) A member of the public may make a submission in writing (including by means of electronic communication) to the Minister in relation to the likely effects on the environment of an EIA drainage scheme, not later than the expiry of the period referred to in *subsection (1)(a)(F)* or, where supplementary information that is significant additional information is received by the Minister pursuant to a request under *section 7B(4)*, not later than the expiry of the period specified for the purpose of subsection *(3)(a)(ii)*.
+
+(6) A consultation body to which a copy of an EIA drainage scheme is sent under *paragraph (b)* of *subsection (1)* may make a submission in writing to the Minister in relation to the likely effects on the environment of the scheme, not later than the expiry of the period specified for that purpose in accordance with that paragraph or, where supplementary information is received by the Minister pursuant to a request under *section 7B(4)*, not later than the date specified in the notice relating to such information sent in accordance with *subsection (3)(b)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F21: Inserted (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(g), subject to transitional provisions in reg. 4.
+
+### 7D. Consultation on transboundary effects
+
+F22[**7D.**—(1) Where the Minister considers that proposed drainage works comprised in an EIA drainage scheme would be likely to have significant effects on the environment in a Member State, or where a Member State considers that the said drainage works would be likely to have the said effects and so requests, he or she shall, no later than the date of the publication of a notice in respect of the scheme under *section 7C(1)*, send to that Member State—
+
+(*a*) a description of the proposed drainage works and any available information on their possible effects on the environment in that Member State, and
+
+(*b*) information on the nature of the decision which may be taken in relation to the scheme, and shall give to that Member State a reasonable time to indicate whether it wishes to send observations on the said effects.
+
+(2) Where a Member State, which has received information pursuant to *subsection (1)*, indicates that it wishes to send observations on the likely effects on the environment of the proposed drainage works, the Minister shall, if he or she has not already done so, send to that Member State—
+
+(*a*) a copy of the environmental impact assessment report,
+
+(*b*) information published in accordance with *section 7C(1)(a)*, and
+
+(*c*) relevant information about the procedure for making a decision on the drainage scheme concerned.
+
+(3) Where the Minister provides information to a Member State in accordance with *subsection (2)*, he or she shall as soon as may be—
+
+(*a*) place a notice in a newspaper circulating in the area within the Member State concerned identified in the environmental impact assessment report concerned as likely to be affected by the drainage works concerned, indicating that the information has been provided, how it may be accessed by the public in that Member State, how submissions may be made to the Minister and the time within which such submissions must be made, which shall not be less than 30 days from the date of the publication of the notice, and
+
+(*b*) notify the authorities in that Member State likely to be concerned by the project by reason of their specific environmental responsibilities or local and regional competences indicating that the information has been provided, how it may be accessed by the authorities, how submissions may be made to the Minister and the time within which such submissions must be made, which shall not be less than 30 days from the date of the notification.
+
+(4) The Minister shall enter into consultations with a Member State to which information was sent pursuant to *subsection (2)* regarding the potential effects of the proposed drainage works on the environment in that Member State and the measures envisaged to reduce or eliminate such effects.
+
+(5) The Minister shall notify a Member State which was sent information pursuant to *subsection (2)* of his or her decision on the drainage scheme concerned.
+
+(6) Where the Minister or the Commissioners or any other Minister of the Government has been notified by a Member State of a decision in respect of drainage works in such Member State in respect of which, the Minister, the Commissioners or other Minister has sent observations to the said Member State, the Minister, the Commissioners or other Minister, as the case may be, shall as soon as may be publish, in a newspaper circulating in the area within the State identified in the environmental impact assessment report supplied by the Member State as likely to be affected by the said drainage works, a notice indicating that such notification has been received and the time and place at which the notification may be viewed and the period within which it will be available.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F22: Inserted (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(g), subject to transitional provisions in reg. 4.
+
+### 7E. Decision on EIA drainage scheme
+
+F23[**7E.**—(1) Where an EIA drainage scheme has been submitted to the Minister in accordance with *section 7B(3)(b)*, the Minister shall, following the expiry of the periods provided under *sections 7C* and *7D* for the making of submissions and sending of observations, do whichever of the following things shall appear to him to be proper:
+
+(*a*) make an order confirming the scheme,
+
+(*b*) refuse to confirm the scheme, or
+
+(*c*) refer the scheme back to the Commissioners for revision in specified respects.
+
+(2) An order made under *subsection (1)(a)* confirming an EIA drainage scheme may be made subject to such conditions, including conditions regarding the monitoring of significant adverse effects on the environment imposed pursuant to *section 7H(1)*, as the Minister considers appropriate.
+
+(3) The Minister shall, when making his or her decision under *subsection (1)* in respect of an EIA drainage scheme—
+
+(*a*) take into account—
+
+(i) the information submitted under *section 7B(3)(b)* in relation to the scheme,
+
+(ii) the supplementary information submitted in response to a request, if any, under *section 7B(4)*,
+
+(iii) the submissions made to the Minister under *section 7C(5)* and *(6)* in relation to the effects on the environment of the proposed drainage works concerned,
+
+(iv) the observations sent and submissions made, if any, pursuant to *section 7D*, and
+
+(v) the reports, if any, prepared by his or her officials or by consultants, experts or other advisors in relation to the scheme, and
+
+(*b*) reach a reasoned conclusion on the significant effects of the scheme on the environment.
+
+(4) The Minister shall ensure that he or she has, or has access to, sufficient expertise to examine an environmental impact assessment report.
+
+(5) Where the Minister is required to carry out an assessment under the European Communities (Birds and Natural Habitats) Regulations 2011 (S.I. No. 477 of 2011) in respect of an EIA drainage scheme, the Minister shall, where appropriate, co-ordinate the carrying out of that assessment with the carrying out of an environmental impact assessment in respect of that scheme.
+
+(6) A decision under *subsection (1)* shall be made within a reasonable period of time following the expiry of the periods referred to in *subsection (1)*.
+
+(7) The Minister shall be satisfied, at the time of the making of a decision under *subsection (1)*, that his or her reasoned conclusion on the significant effects of the scheme on the environment, reached under *subsection (3)*, does not require amendment.
+
+(8) The Minister shall notify the Commissioners in writing of his or her decision under *subsection (1)*.
+
+(9) Where the Minister makes an order under *subsection (1)* confirming a drainage scheme, the order shall include—
+
+(*a*) his or her reasoned conclusion on the significant effects of the scheme on the environment,
+
+(*b*) the conditions, including the conditions, if any, regarding the monitoring of significant adverse effects on the environment imposed pursuant to *section 7H(1)*, to which the confirmation of the drainage scheme is subject, and
+
+(*c*) a description of the features of the drainage scheme, or measures envisaged, if any, to avoid, prevent, reduce and, where possible, offset the significant adverse effects (if any) of the drainage scheme on the environment.
+
+(10) Where the Minister refuses to confirm a drainage scheme under *subsection (1)(b)*, the notification under *subsection (8)* shall state the main reasons for the refusal.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F23, F24: Inserted (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(g), subject to transitional provisions in reg. 4.
+
+### 7F. Publication of decision on EIA drainage scheme
+
+F25[**7F.**—(1) Where the Minister has made his or her decision under *section 7E(1)* in relation to an EIA drainage scheme, he or she shall—
+
+(*a*) publish on a website maintained by him or her, and
+
+(*b*) send to the consultation bodies,
+
+the information referred to in *subsection (2)*.
+
+(2) The information to be published and sent under *subsection (1)* shall be the following:
+
+(*a*) the decision of the Minister in relation to the EIA drainage scheme concerned;
+
+(b) where the decision is to confirm the EIA drainage scheme, the conditions, if any, included in the order made under *section 7E(1)*;
+
+(*c*) the main reasons and considerations on which the decision was based, including information about the public participation process.
+
+(3) The information referred to in *subsection (2)(c)* shall include a summary of the following in relation to the EIA drainage scheme concerned:
+
+(*a*) the results of the consultations carried out in accordance with *sections 7C* and *7D*;
+
+(*b*) the environmental impact assessment report;
+
+(*c*) the submissions if any, made by members of the public and consultation bodies under *section 7C(5)* and *(6)*;
+
+(*d*) the observations sent and submissions made, if any, pursuant to *section 7D*;
+
+(*e*) how the submissions and observations (and in particular the observations, if any, sent by an affected Member State under *section 7D*) referred to in *paragraphs (c)* and *(d)* have been incorporated or otherwise addressed.
+
+(4) The Minister shall send to a Member State consulted in accordance with *section 7D* a copy of the information published in accordance with *subsection (1)(a)*.
+
+(5) Where the Minister receives information from a Member State pursuant to the law of that Member State giving effect to Article 9(2) of the directive, the Minister shall publish that information on a website maintained by him or her.
+
+(6) A notice published in accordance with *subsection (1)(a)* shall—
+
+(*a*) inform the public that a person may question the validity of the decision concerned by way of an application for judicial review, under Order 84 of the Rules of the Superior Courts (S.I. No. 15 of 1986), and
+
+(*b*) identify where practical information on the judicial review mechanism may be found.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F25: Inserted (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(g), subject to transitional provisions in reg. 4.
+
+### 7G. Review
+
+F26[**7G.**—(1) A person shall not question the validity of a decision made or other act done by the Minister in the performance or purported performance of a function under *section 7E(1)* otherwise than by way of an application for judicial review under Order 84 of the Rules of the Superior Courts (S.I. No. 15 of 1986).
+
+(2) The High Court shall not grant leave for judicial review under this section unless it is satisfied that—
+
+(*a*) the applicant has a sufficient interest in the matter which is the subject of the application, or
+
+(*b)* the applicant—
+
+(i) is a body or organisation (other than a State authority) the aims or objectives of which relate to the promotion of environmental protection, and
+
+(ii) has, during the period of 12 months preceding the date of the application, pursued those aims or objectives.
+
+(3) A sufficient interest for the purposes of *subsection (2)(a)* is not limited to an interest in land or other financial interest.
+
+(4) The High Court, in determining either an application for leave for judicial review under this section, or an application for judicial review on foot of such leave under this section, shall act as expeditiously as possible consistent with the administration of justice.
+
+(5) In this section "State authority" means—
+
+(*a*) a Minister of the Government,
+
+(*b*) the Commissioners of Public Works in Ireland,
+
+(*c*) Drogheda Port Company,
+
+(*d*) Dublin Port Company,
+
+(*e*) Galway Harbour Company,
+
+(*f*) New Ross Port Company,
+
+(*g*) Port of Cork Company,
+
+(*h*) Port of Waterford Company,
+
+(*i*) Shannon Foynes Port Company,
+
+(*j*) a local authority within the meaning of the Local Government Act 2001 (No. 37 of 2001),
+
+(*k*) the Health Service Executive,
+
+(*l*) a person established—
+
+(i) by or under any enactment (other than the Companies Act 2014 or a former enactment relating to companies within the meaning of section 5 of that Act),
+
+(ii) by any scheme administered by the Government, or
+
+(iii) under the Companies Act 2014, or a former enactment relating to companies within the meaning of section 5 of that Act, in pursuance of powers conferred by or under another enactment, and financed wholly or partly by means of moneys provided, or loans made or guaranteed, by a Minister of the Government or the issue of shares held by or on behalf of a Minister of the Government, or
+
+(*m*) a company formed and registered under the Companies Act 2014 or an existing company within the meaning of that Act, a majority of the shares in which are held by or on behalf of a Minister of the Government.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F26: Inserted (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(g), subject to transitional provisions in reg. 4.
+
+### 7H. Monitoring of effects on environment
+
+F27[**7H.**—(1) The Minister may, where he or she considers it appropriate, attach conditions in relation to the monitoring of significant adverse effects on the environment, to an order made under *section 7E(1)(a)*.
+
+(2) Where conditions referred to in *subsection (1)* are attached to an order made under *section 7E(1)(a)*—
+
+(*a*) the type of parameters to be monitored in those conditions, and
+
+(*b*) the duration of the monitoring,
+
+shall be proportionate to the nature, location and size of the drainage scheme concerned and the significance of its effects on the environment.
+
+(3) The Minister shall, in determining whether it is appropriate to attach conditions referred to in *subsection (1)* to an order made under *section 7E(1)(a)*, consider whether those conditions would duplicate monitoring arrangements under the law of the European Union or the law of the State (other than the law of the State giving effect or further effect to the directive).
+
+(4) The Minister may consider matters other than that referred to in *subsection (3)* in determining whether it is appropriate to attach conditions referred to in *subsection (1)* to an order made under *section 7E(1)(a)*.
+
+(5) For the purposes of ensuring—
+
+(*a*) implementation of the features of an EIA drainage scheme (if any), or measures envisaged (if any), to avoid, prevent, reduce and, where possible, offset the significant adverse effects (if any) of the drainage scheme on the environment, and
+
+(*b*) compliance with conditions attached to an order made under *section 7E(1)(a)*,
+
+the Minister may request the Commissioners to furnish to him or her, within a specified period, information in relation to its implementation of features or measures referred to in *paragraph (a)* or compliance with conditions referred to in *paragraph (b)*.
+
+(6) In particular the Minister may request the Commissioners, under *subsection (5)*, to provide information within a specified period on—
+
+(*a*) the number and location of places within an area at which monitoring is being carried out and the frequency of such monitoring,
+
+(*b*) the manner in which samples and measurements are taken and analyses are carried out,
+
+(*c*) the equipment being used for the purposes of taking such samples and measurements, or of carrying out such analyses, or
+
+(*d*) the results of such monitoring.
+
+(7) The Minister may, having notified the Commissioners of his or her intention to do so, carry out an assessment of the Commissioners’ implementation of features or measures referred to in *subsection (5)(a)* or compliance with condition referred to in *subsection (5)(b)* and for that purpose the Minister may, during the course of such assessment, request the Commissioners—
+
+(*a*) to furnish to the Minister information, records or reports or the results of any monitoring by the Commissioners, or
+
+(*b*) to afford to the Minister access to any premises occupied by the Commissioners.
+
+(8) The Commissioners shall comply with a request under this section.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F27: Inserted (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(g), subject to transitional provisions in reg. 4.
+
+### 7I. Enforcement
+
+F28[**7I.**—(1) Where the Minister makes an order under *section 7E(1)(a)* confirming a drainage scheme, the Commissioners shall—
+
+(*a*) comply with the conditions, if any, imposed under *section 7E(1A)*, and
+
+(*b*) implement the features of the EIA drainage scheme (if any), or measures envisaged (if any), to avoid, prevent, reduce and, where possible, offset the significant adverse effects (if any) of the drainage scheme on the environment.
+
+(2) It shall be an offence for the Commissioners to fail to comply with—
+
+(*a*) *subsection (1)(a)*,
+
+(*b*) *subsection (1)(b)*, or
+
+(*c*) *section 7H(8)*.
+
+(3) Where the Commissioners commit an offence under *subsection (2)*, they shall be liable—
+
+(*a*) on summary conviction, to a class A fine, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €500,000.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F28: Inserted (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(g), subject to transitional provisions in reg. 4.
+
+### 7J. Revision of scheme (EIA required)
+
+F29[**7J.**—(1) Where a drainage scheme is revised in accordance with *section 7E(1)(c)* (in this section referred to as a "revised drainage scheme"), *sections 4A, 4C(2), 4D, 4E, 4F, 7B, 7C, 7D, 7E, 7F, 7G, 7H* and *7I* shall, subject to the modifications specified in *subsection (3)*, apply—
+
+(*a*) to the revised drainage scheme as if it were an EIA drainage scheme, and
+
+(*b*) to the works proposed to be executed in pursuance of that scheme as if those works were sub-threshold drainage works in respect of which he or she had made a determination under *section 4B(2)* that the works were likely to have a significant effect on the environment.
+
+(2) The modifications referred to in *subsection (1)* are as follows:
+
+(*a*) in *section 4A(1)*—
+
+(i) in *paragraph (b)*, the substitution of "consultations, as referred to in *section 7C* and, where relevant, *section 7D*" for "consultations, as referred to in *sections 5* and *7C* and, where relevant, *sections 5A* and *7D*", and
+
+(ii) in *paragraph (c)(iii)*, the substitution of "consultations under *section 7C* and, where relevant, *section 7D*" for "consultations under *sections 5* and *7C* and, where relevant, *sections 5A* and *7D*";
+
+(*b*) in *section 7B*—
+
+(i) the deletion of *subsections (1)* and *(2)*, and
+
+(ii) the substitution of the following subsection for *subsection (3)*:
+
+"(3) When the Commissioners have prepared an EIA drainage scheme and the environmental impact assessment report relating to that scheme, they shall submit that scheme and report to the Minister.";
+
+(*c*) in *section 7C(1)*, the substitution of "*section 7B(3)*" for "*section 7B(3)(b)*";
+
+(*d*) in *section 7E*, the substitution of "*section 7B(3)*" for "*section 7B(3)(b)*" in each place where it occurs.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F29: Inserted (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(g), subject to transitional provisions in reg. 4.
+
+### 8. Inclusion of existing drainage works in a drainage scheme.
+
+**8.**—(1) A drainage scheme may provide for the inclusion of the whole or a specified part of existing drainage works in the works proposed by such scheme to be executed and may provide for such inclusion either with or without the reconstruction or repair of such existing works.
+
+(2) Where a drainage scheme as confirmed by the Minister provides for the inclusion of the whole or a specified part of existing drainage works in the works thereby proposed to be executed, the following provisions shall have effect, that is to say:—
+
+(*a*) as soon as the Commissioners have entered on the said existing drainage works for the purpose of carrying out the said drainage scheme, the Commissioners shall make an order declaring the date on which they first so entered on the said existing drainage works and thereupon such order shall become and be conclusive evidence for all purposes of the date on which the Commissioners first so entered on the said existing drainage works;
+
+(*b*) as on and from the date on which the Commissioners first enter on the said existing drainage works for the purpose of carrying out the said drainage scheme, the drainage district containing the said existing drainage works shall cease to exist;
+
+(*c*) nothing in this section shall operate to relieve the council of a county from liability (if any) for any payments to the Commissioners in repayment of any advance made under any Act by the Commissioners for the said existing drainage works.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C9: Application of subs. (2)(b) restricted (17.07.1995) by *Arterial Drainage (Amendment) Act 1995* (14/1995), s. 7(2)(a), commenced on enactment.
+>
+> **Entry by Commissioners on certain existing drainage works.**
+>
+> **7.** ...
+>
+> (2) Where the Commissioners enter on existing drainage works (being works that have been included in the works proposed to be executed by a certified drainage scheme) for the purpose of carrying out the said drainage scheme, the following provisions shall have effect, that is to say—
+>
+> (*a*) the drainage district which, immediately before the date referred to in paragraph (b), contained the said existing drainage works shall, notwithstanding section 8 (2) (b) of the Principal Act, continue in existence,
+>
+> ...
+
+### 9. The carrying out of a drainage scheme.
+
+**9.**—When the Minister has made an order confirming a drainage scheme, the Commissioners shall proceed to carry out the scheme, and for that purpose the said order shall operate to confer on the Commissioners power—
+
+(*a*) F30[subject to *section 12A*, to construct], execute, and complete the drainage works specified in the scheme with such additions, omissions, variations, and deviations as shall be found necessary in the course of the work, and
+
+(*b*) F31[subject to *section 12A*, to enter] on any land and there do all such acts and things as shall be necessary for or incidental to the construction, execution, or completion of the said drainage works with such additions, omissions, variations, and deviations as aforesaid, and
+
+(*c*) to acquire compulsorily the several lands, easements, fisheries, water-rights, navigation-rights, and other rights proposed in the scheme to be so acquired, and, if the Commissioners think fit so to do, to enter on any such lands or exercise any of such easements, fisheries, water-rights, navigation-rights, and other rights before the conveyance or ascertainment of price of such lands, easements, fisheries, or rights, and
+
+(*d*) to interfere substantially with any land proposed in the scheme to be so interfered with and, if the Commissioners so think fit, to enter on and so interfere with such land before any ascertainment of compensation in respect thereof, and
+
+(*e*) to restrict, terminate, or otherwise interfere with any easements, fisheries, water-rights, navigation-rights, or other rights proposed in the scheme to be compulsorily restricted, terminated, or interfered with, and to divert, remove, or otherwise interfere with any roads or bridges proposed in the scheme to be diverted, removed, or interfered with, and, if the Commissioners so think fit, to do any of the things aforesaid before any ascertainment of compensation in respect thereof, and
+
+(*f*) for the purpose of the due carrying out of the scheme to do all or any of the following things, that is to say:—
+
+(i) take from any land all sods and other material required for the said purpose,
+
+(ii) deposit on any land all spoil or other material produced in the course of such carrying out,
+
+(iii) utilise for the said purpose all or any spoil, gravel, stone, rock, or other matter removed in the course of such carrying out, and
+
+(*g*) to do all such other acts and things as shall, in the opinion of the Commissioners, be necessary or proper for or incidental to the due carrying out of the scheme and are not specifically provided for by this Act.
+
+F32[(*h*) F33[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F30, F31: Substituted (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(h)(i), (ii), subject to transitional provisions in reg. 4.
+>
+> F32: Inserted (23.09.2009) by *European Communities (Arterial Drainage) Regulations 2009* (S.I. No. 388 of 2009), reg. 7, in operation as per reg. 2(2).
+>
+> F33: Deleted (21.09.2019) by by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(h)(iii), subject to transitional provisions in reg. 4.
+
+### 10. Protection of fisheries.
+
+**10.**—(1) It shall not be obligatory on the Commissioners, when constructing drainage works in pursuance of a drainage scheme, to comply with the Fisheries Acts, 1842 to 1944.
+
+(2) Notwithstanding the exemption conferred by the foregoing sub-section of this section, the Commissioners shall, when constructing drainage works in pursuance of a drainage scheme, take such precautions and make such provisions as the Minister for Agriculture may consider adequate for the protection of and avoidance of injury to fisheries during or in consequence of the construction of such drainage works, provided that the said Minister shall, in consultation with the Commissioners, satisfy himself that taking such precautions and making such provisions will not cause substantial detriment to such drainage works or substantial hindrance to their construction.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C10: Application of section restricted (1.05.1977) by *Local Government (Water Pollution) Act 1977* (1/1977), s. 3(6), S.I. No. 177 of 1977.
+>
+> **General prohibition on entry of polluting matter to waters.**
+>
+> **3**.—1) Subject to *subsection (5)*, a person shall not cause or permit any polluting matter to enter waters.
+>
+> ...
+>
+> (6) For the purpose of continuing, notwithstanding the repeal effected by section 34 (c), the exemption conferred by each enactment mentioned in the Table to this section, a reference in any such enactment to the Fisheries (Ireland) Acts, 1842 to 1909, the Fisheries Acts, 1842 to 1935, or the Fisheries Acts, 1842 to 1944, shall be construed as including a reference to *subsection (1)*.
+>
+> TABLE
+>
+> ...
+>
+> Section 10 of the Arterial Drainage Act, 1945.
+>
+> ...
+>
+> C11: Functions transferred and title of Minister for **Agriculture and Fisheries** construed as **Lands** (8.02.1977) by *Fisheries (Transfer of Departmental Administration and Ministerial Functions) Order 1977* (S.I. No. 30 of 1977), arts. 3, 4(1)(e), subject to transitional provisions in arts. 5-8.
+>
+> 3\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 4 of this Order are hereby transferred to the Department of Lands.
+>
+> (2) References to the Department of Agriculture and Fisheries contained in any Act or instrument made thereunder and relating to any administration and business transferred by paragraph (1) of this Article shall, on and after the commencement of this Order, be construed as references to the Department of Lands.
+>
+> 4\. (1) The functions vested in the Minister for Agriculture and Fisheries by or under the following Acts are hereby transferred to the Minister for Lands:
+>
+> ...
+>
+> (*e*) the Arterial Drainage Acts, 1945 and 1955,
+>
+> ...
+>
+> The history of the Ministers concerned with Agriculture aspects of Act can be traced as follows:
+>
+> • Functions transferred and title of Minister for **Agriculture** construed as **Lands** (9.04.1957) by *Fisheries (Transfer of Departmental Administration and Ministerial Functions) Order 1957* (S.I. No. 67 of 1957), in operation as per art. 1(2);
+>
+> • Functions transferred and title of Minister for **Lands** construed as **Agriculture** (3.05.1965) by *Fisheries (Transfer of Departmental Administration and Ministerial Functions) Order 1965* (S.I. No. 83 of 1965), in operation as per art. 1(2);
+>
+> • Title of Minister for **Agriculture** changed to **Agriculture and Fisheries** (6.07.1965) by *Agriculture (Alteration of Name of Department and Title of Minister) Order 1965* (S.I. No. 146 of 1965).
+>
+> • Functions transferred and title of Minister for **Agriculture and Fisheries** construed as **Lands** (8.02.1977) by *Fisheries (Transfer of Departmental Administration and Ministerial Functions) Order 1977* (S.I. No. 30 of 1997);
+>
+> • Title of Minister for **Lands** changed to **Fisheries** (9.02.1977) by *Lands (Alteration of Name of Department and Title of Minister) Order 1977* (S.I. No. 29 of 1977), in operation as per art. 1(2);
+>
+> • Title of Minister for **Fisheries** changed to **Fisheries and Forestry** (15.07.1978) by *Fisheries (Alteration of Name of Department and Title of Minister) Order 1978* (S.I. No. 195 of 1077), in operation as per art. 1(2);
+>
+> • Title of Minister for **Fisheries and Forestry** to **Tourism, Fisheries and Forestry** (19.02.1986) by *Fisheries and Forestry (Alteration of Name of Department and Title of Minister) Order 1986* (S.I. No. 40 of 1986), in operation as per art. 1(2);
+>
+> • Title of Minister for **Tourism, Fisheries and Forestry** changed to **Marine** (19.03.1987) by *Tourism, Fisheries and Forestry (Alteration of Name of Department and Title of Minister) Order 1987* (S.I. No. 82 of 1987), in operation as per art. 1(2);
+>
+> • Title of Minister for **Marine** changed to **Marine and Natural Resources** (12.07.1997) by *Marine (Alteration of Name of Department and Title of Minister) Order 1997* (S.I. No. 301 of 1997), in operation as per art. 1(2);
+>
+> • Title of Minister for **Marine and Natural Resources** changed to **Communications, Marine and Natural Resources** (19.06.2002) by *Marine and Natural Resources (Alteration of Name of Department and Title of Minister) Order 2002* (S.I. No. 307 of 2002), in operation as per art. 1(2);
+>
+> • Title of Minister for **Communications, Marine and Natural Resources** changed to **Communications, Energy and Natural Resources** (20.10.2007) by *Communications, Marine and Natural Resources (Alteration of Name of Department and Title of Minister) Order 2007* (S.I. No. 706 of 2007), in operation as per art. 1(2);
+>
+> • Title of Minister for **Communications, Energy and Natural Resources** changed to **Communications, Climate Action and Environment** (23.07.2016) by *Communications, Energy and Natural Resources (Alteration of Name of Department and Title of Minister) Order 2016* (S.I. No. 421 of 2016), in operation as per art. 1(2);
+>
+> • Title of Minister for **Communications, Climate Action and Environment** changed to **Environment, Climate and Communication** (24.09.2020) by *Communications, Climate Action and Environment (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 373 of 2020), in operation as per art. 1(2);
+>
+> • Title of Minister for **Environment, Climate and Communication** changed to **Climate, Energy and the Environment** (2.06.2025) by *Environment, Climate and Communications (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 235 of 2025), in operation as per art. 1(2).
+
+### 11. Duties of the Commissioners in regard to public roads and bridges.
+
+**11.**—(1) Where a drainage scheme provides for the diversion, removal, or other interference of or with a public road or bridge the following provisions shall have effect, that is to say:—
+
+(*a*) where the carrying out of the scheme involves the closing of such road or bridge to traffic, the Commissioners shall either, as they shall think proper, construct and (while such road or bridge is so closed to traffic) maintain a temporary road or bridge sufficient to carry traffic of such quantity and character as normally uses such road or bridge, or by order made with the consent of the Minister for Local Government and Public Health prescribe an alternative route to be used while such road or bridge is so closed to traffic;
+
+(*b*) the Commissioners shall, before the completion of the carrying out of the scheme, do whichever of the following things they shall think proper, that is to say:—
+
+(i) restore the said road or bridge to its former condition, or
+
+(ii) after consultation with the Minister for Local Government and Public Health, construct a new permanent road or bridge sufficient to carry the like amount (in quantity and character) of traffic as the said original road or bridge was able to carry and not substantially less convenient in gradient and curve than such original road or bridge, or
+
+(iii) with the consent of the Minister for Local Government and Public Health, so improve (by reconstruction, strengthening, widening, or otherwise) an existing alternative road or bridge that it will be sufficient to carry the traffic which will be likely to use it and will not be substantially less convenient than the said original road or bridge;
+
+(*c*) where the Commissioners construct a permanent new road or bridge or improve an existing alternative road or bridge and such road or bridge confers substantially greater advantages on the public of any county or urban district than the original road or bridge, whether by affording an improved means of communication or otherwise, the Commissioners shall certify the cost of such new road or bridge or of such improvement (as the case may be) and the Minister for Local Government and Public Health shall certify what part of such cost in his opinion ought reasonably to be borne by the council of such county or urban district, and thereupon a sum equal to the part so certified of such cost shall be raised by such council as part of the expenses of the maintenance by such council of county or urban roads (as the case may be) and shall be paid by such council to the Commissioners;
+
+(*d*) if any doubt, dispute, or question shall arise as to whether the Commissioners, in the construction or maintenance of any temporary road or bridge or the restoration of an existing road or bridge or the improvement of an existing alternative road or bridge (as the case may be) pursuant to this section, have complied with the relevant provisions of this section, or as to whether a permanent new road or bridge constructed by the Commissioners or an existing alternative road or bridge improved by the Commissioners (as the the case may be) confers substantially greater advantages on the public of any county or urban district than the original road or bridge, such doubt, dispute, or question shall be decided by the Minister for Local Government and Public Health whose decision shall be final and conclusive.
+
+(2) The Commissioners may agree with the appropriate local authority for the doing by such local authority of anything which the Commissioners are required or authorised by the next preceding sub-section of this section to do and may further agree to make to such local authority payment for or towards the cost of the doing of such thing by such local authority.
+
+(3) Nothing in this section shall operate to impose on the Commissioners any duty or responsibility in respect of the maintenance of any new permanent road or bridge constructed by them in pursuance of this section or any road or bridge similarly restored or improved by them.
+
+### 12. Amendment of drainage schemes.
+
+**12.**—F34[Subject to *section 12A*, whenever] in the course of the carrying out of a drainage scheme it becomes necessary, in the opinion of the Commissioners, to acquire compulsorily or interfere substantially with any lands not mentioned in that behalf in the drainage scheme or to acquire, restrict, terminate, or otherwise interfere with compulsorily any easement, fishery, water-right, navigation-right, or other right similarly not mentioned or to divert, remove or otherwise interfere with any road or bridge (whether public or private) similarly not mentioned, the following provisions shall apply and have effect, that is to say:—
+
+(*a*) it shall be lawful for the Commissioners, with the sanction of the Minister, so to amend provisionally the said drainage scheme as to include therein the compulsory acquisition, restriction, termination, diversion, removal, or interference so found necessary;
+
+(*b*) the provisions of this Act in relation to sending copies of a drainage scheme to councils of counties, serving notice on reputed proprietors, owners, occupiers and local authorities, enabling such councils, proprietors, owners, occupiers, and local authorities to send observations to the Commissioners, and requiring the Commissioners to consider such observations shall apply and have effect in relation to every such provisional amendment of the said drainage scheme in like manner as they applied to the scheme itself, subject to the modification that the time within which observations may be sent to the Commissioners shall in every case be twenty-one days;
+
+(*c*) the Commissioners shall consider every such observation sent to them within the time appropriate thereto and shall, when all such times have expired, confirm such amendment either (as they shall think proper) without alteration or with such alterations as they shall think proper;
+
+(*d*) when such amendment has been so confirmed, the said drainage scheme shall have effect and be deemed always to have had effect with and subject to such amendment, and accordingly references in this Act to a drainage scheme shall, in relation to the said drainage scheme, be construed and have effect (wherever the context so permits) as referring to the said drainage scheme as so amended;
+
+(*e*) while any such amendment is a provisional amendment it shall be lawful for the Commissioners to act on such amendment as if it had been confirmed, subject to the Commissioners making such restitution or restoration (if any) or paying such compensation (if any) as may be just and equitable in consequence of such amendment being confirmed with alterations;
+
+(*f*) every dispute as to the need for any such restitution, restoration, or compensation or as to the nature, extent, or amount thereof shall be decided by an arbitrator nominated by the Reference Committee from the Panel of Drainage Arbitrators whose decision thereon shall be final and conclusive.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F34: Substituted (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(i), subject to transitional provisions in reg. 4.
+>
+> **Modifications (not altering text):**
+>
+> C12: Arbitrators under section designated (21.12.1960) by *Property Values (Arbitrations and Appeals) Act 1960* (45/1960), s. 5, commenced on enactment. Section deleted by *Minerals Development Act 2017* (23/2017), s. 238(3)(a), not commenced as of date of revision.
+>
+> **Arbitrators for the purposes of Act of 1945.**
+>
+> **5**.—The arbitrator for any purpose for which an arbitrator is required under the Act of 1945 shall be a property arbitrator who shall be nominated for that purpose by the Reference Committee and, accordingly, references in the Act of 1945 to an arbitrator nominated or appointed by the Reference Committee from the Panel of Drainage Arbitrators shall be construed as references to a property arbitrator nominated by the Reference Committee under this section.
+>
+> **Editorial Notes:**
+>
+> E21: Prospective affecting provision: arbitrators under section designated (21.12.1960) by *Property Values (Arbitrations and Appeals) Act 1960* (45/1960), s. 5, commenced on enactment; deleted by *Minerals Development Act 2017* (23/2017), s. 238(3)(a), not commenced as of date of revision.
+
+### 12A. Scheme variations
+
+F35[**12A.**—(1) Where the Commissioners form the opinion that a scheme variation proposed in respect of a drainage scheme confirmed by the Minister may have significant effects on the environment—
+
+(*a*) *section 4B* shall apply to the arterial drainage works to be executed in pursuance of the proposed scheme variation as if those works were sub-threshold drainage works, and
+
+(*b*) *section 9(a)* and *(b)* and *section 12* shall not apply in respect of the scheme variation unless an order is made under *section 7* or *7E* (as applied and modified in accordance with this section) confirming the scheme variation.
+
+(2) Where the Minister determines under *section 4B* (as applied in accordance with *subsection (1)*) that arterial drainage works to be executed in pursuance of a proposed scheme variation are likely to have a significant effect on the environment, sections *4A, 4C(2), 4D, 4E, 4F, 7B, 7C, 7D, 7E, 7F, 7G, 7H* and *7I* shall, subject to the modifications specified in *subsection (3)*, apply—
+
+(*a*) to the proposed scheme variation as if it were an EIA drainage scheme, and
+
+(*b*) to those works as if those works were sub-threshold drainage works in respect of which he or she had made a determination under *section 4B(2)* that the works were likely to have a significant effect on the environment.
+
+(3) The modifications referred to in *subsection (2)* are as follows:
+
+(*a*) in *section 4A(1)*—
+
+(i) in *paragraph (a)*, the substitution of "consultations, as referred to in *sections 7C* and, where relevant, *section 7D*" for "consultations, as referred to in *sections 5* and *7C* and, where relevant, *sections 5A* and *7D*", and
+
+(ii) in *paragraph (c)(iii)*, the substitution of "consultations under *section 7C* and, where relevant, *section 7D*" for "consultations under *sections 5* and *7C* and, where relevant, *sections 5A* and *7D*";
+
+(*b*) in *section 7B*—
+
+(i) the deletion of *subsections (1)* and *(2)*, and
+
+(ii) the substitution of the following subsection for *subsection (3)*:
+
+"(3) When the Commissioners have prepared an EIA drainage scheme and the environmental impact assessment report relating to that scheme, they shall submit that scheme and report to the Minister.";
+
+(*c*) in *section 7C(1)*, the substitution of "*section 7B(3)*" for "*section 7B(3)(b)*";
+
+(*d*) in *section 7E*, the substitution of "*section 7B(3)*" for "*section 7B(3)(b)*" in each place where it occurs.
+
+(4) Where the Minister determines under *section 4B* (as applied in accordance with *subsection (1)*) that arterial drainage works to be executed in pursuance of a scheme variation are not likely to have a significant effect on the environment, *section 7* shall, subject to the modification specified in *subsection (5)*, apply to the scheme variation and those works as if those works were sub-threshold drainage works in respect of which he or she had made a determination under *section 4B(2)* that the works were not likely to have a significant effect on the environment.
+
+(5) The modification referred to in *subsection (4)* is the substitution of the following subsection for *section 7(2)*:
+
+"(2) The Commissioners shall—
+
+(*a*) after consultation with the Minister for Transport, Tourism and Sport, the Minister for Culture, Heritage and the Gaeltacht, the Minister for Communications, Climate Action and Environment, the Minister for Agriculture, Food and the Marine, the Minister for Housing, Planning and Local Government, and such other (if any) Minister of the Government as they shall think proper, make such, if any, alterations (whether by addition, omission, or variation) in the drainage scheme as they shall think proper, and
+
+(*b*) submit the drainage scheme as so altered (if at all) to the Minister.".
+
+(6) In this section "scheme variation" means—
+
+(*a*) an addition, omission, variation or deviation in respect of a drainage scheme confirmed by the Minister,
+
+(*b*) a substantial interference with lands not mentioned in a drainage scheme confirmed by the Minister, or
+
+(*c*) a diversion, removal or other interference of a road or bridge (whether public or private) not mentioned in a drainage scheme confirmed by the Minister.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F35: Inserted (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(j), subject to transitional provisions in reg. 4.
+
+### 13. Certificate of total or partial completion.
+
+**13.**—(1) When the Minister is satisfied on the representation of the Commissioners that a portion of the drainage works specified in a drainage scheme has been completed in accordance with that scheme (with such additions, omissions, variations, and deviations as may have been found necessary in the course of the work) and that the said portion of the said drainage works can conveniently be regarded as a separate work for the purposes of so much of this Act as relates to matters subsequent to the completion of a drainage scheme, the Minister shall, subject to the subsequent provisions of this section, cause to be issued a certificate (in this Act referred to as a certificate of partial completion) sealed with his official seal certifying that the said portion of the said drainage works has been completed as aforesaid.
+
+(2) When the Minister is satisfied on the representations of the Commissioners that the whole of the drainage works specified in a drainage scheme have been completed in accordance with that scheme (with such additions, omissions, variations, and deviations as may have been found necessary in the course of the work), the Minister shall, subject to the subsequent provisions of this section, cause to be issued a certificate (in this Act referred to as a certificate of total completion) sealed with his official seal certifying that the whole of the said drainage works have been completed as aforesaid.
+
+(3) In this Act the expression “certificate of completion” includes both a certificate of total completion and a certificate of partial completion.
+
+(4) The following provisions shall apply and have effect in relation to the issue under this section of a certificate of completion, that is to say:—
+
+(*a*) the Minister shall cause to be published in the *Iris Oifigiúil* and in such one or more newspapers circulating in the area to which the drainage scheme relates as he shall think proper a notice stating that the Minister proposes to issue the said certificate and that any person may, within two months after the date of the publication of such notice in the *Iris Oifigiúil*, send to the Minister an objection to the issue of the said certificate;
+
+(*b*) simultaneously with or as soon as may be after the publication of the said notice in the *Iris Oifigiúil*, the Minister shall send to the council of every county in which the area or part of the area to which such scheme relates is situate a copy of the said notice;
+
+(*c*) the council of a county to whom a copy of the said notice has been so sent or any other person may, within two months after the date of the publication of the said notice in the *Iris Oifigiúil*, send to the Minister an objection in writing stating that such council or such person objects to the issue of the said certificate and the grounds of such objection;
+
+(*d*) the Minister shall consider every (if any) objection sent to him under the next preceding paragraph of this section and shall take such steps in regard thereto as he shall think proper;
+
+(*e*) the said certificate shall not be issued less than two months after the date of the publication of the said notice in the *Iris Oifigiúil*.
+
+(5) The power conferred on the council of a county by paragraph (*c*) of sub-section (4) of this section shall be a reserved function.
+
+(6) A certificate of partial completion shall be conclusive evidence that the portion specified in such certificate of the drainage works specified in the drainage scheme to which such certificate relates has been completed in accordance with that scheme.
+
+(7) A certificate of total completion shall be conclusive evidence that the whole of the drainage works specified in the drainage scheme to which such certificate relates have been completed in accordance with that scheme.
+
+(8) Where a certificate of partial completion or two or more such certificates have been issued in relation to any drainage works, the certificate of total completion in relation to those drainage works shall include and apply to the portions of those drainage works covered by such certificate or certificates of partial completion and thereupon such certificate or certificates of partial completion shall cease to have effect.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> E22: Objection to the issue of a certificate of completion of drainage works under section is a reserved function that may be performed under *Local Government Act 2001*, s. 131A(1)(b) in respect of a Municipal District by Municipal District Members or the Local Authority, as provided by *Local Government Act 2001*, s. 131A and sch. 14A part 2 ref. no. 24, as inserted (1.06.2014) by *Local Government Reform Act 2014* (1/2014), s. 21(4) and sch. 3, S.I. No. 214 of 2014. This is subject to restrictions on delegation imposed (1.06.2014) by *Local Government (Performance of Reserved Functions in Respect of Municipal District Members) Regulations 2014* (S.I. No. 231 of 2014, regs. 6-10, in operation as per reg. 2.
+
+### 13A. Conflicts of interest
+
+F36[**13A.**—The Minister shall, for the purposes of compliance by the State with Article 9a of the directive, carry out his or her obligations under *sections 4* to *13* in a manner which is objective and avoids him or her being subject to a conflict of interest.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F36: Inserted (21.09.2019) by *European Union (Environmental Impact Assessment) (Arterial Drainage) Regulations 2019* (S.I. No. 472 of 2019), reg. 3(k), subject to transitional provisions in reg. 4.
+
+### 14. Acquisition of and compensation for lands, rights, etc.
+
+**14.**—(1) As soon as may be after the date of the order of the Minister confirming a drainage scheme, the Commissioners shall proceed to acquire the several lands, easements, fisheries, water-rights, navigation-rights, and other rights proposed in such drainage scheme to be compulsorily acquired save that it shall not be obligatory on the Commissioners to acquire compulsorily any land, easement, fishery, water-right, navigation-right, or other right proposed in such drainage scheme to be so acquired in respect of which it appears to the Commissioners, in the course of carrying out such drainage scheme, that the acquisition of such land, easement, fishery, water-right, navigation-right, or other right is not necessary for the purpose of such carrying out.
+
+(2) F37[...]
+
+(3) It shall not be obligatory on the Commissioners to make any interference with any land, easement, fishery, water-right, navigation-right, or other right or any road or bridge proposed in a drainage scheme to be compulsorily made in respect of which it appears to the Commissioners, in the course of carrying out such drainage scheme, that such interference is not necessary for the purpose of such carrying out.
+
+(4) F38[...]
+
+(5) F39[...]
+
+(6) No action shall lie at law or in equity against the Minister or the Commissioners or any officer, agent, or servant of the Minister or the Commissioners in respect of any act, matter, or thing in respect of which compensation is payable by virtue of this section or either of the two next following sections.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F37, F38, F39: Repealed (17.07.1995) by *Arterial Drainage (Amendment) Act 1995* (14/1995), s. 15(a), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C13: Previous affecting provision: subss. (2), (4) amended (21.12.1960) by *Property Values (Arbitrations and Appeals) Act 1960* (45/1960), s. 7 and sch.; subsections repealed (17.07.1995) as per F-note above.
+
+### 15. Compensation for certain interferences with land, etc.
+
+**15.**—(1) Any person who suffers any loss or damage by reason of any interference (other than a compulsory acquisition or interference under this Act) by the Commissioners during the construction of any drainage works under this Act with any land owned or occupied by him or any easement, fishery, water-right, navigation-right, or other right belonging to him shall, subject to the provisions of this Act, be entitled to be paid by the Commissioners compensation in respect of such loss or damage.
+
+(2) Every claim for compensation under this section—
+
+(*a*) shall be made in writing to the Commissioners within one year after the interference to which the claim relates is begun, and
+
+(*b*) F40[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F40: Repealed (17.07.1995) by *Arterial Drainage (Amendment) Act 1995* (14/1995), s. 15(a), commenced on enactment.
+
+### 16. Compensation for injury to canals, fisheries, etc.
+
+**16.**—(1) Any person who, after the issue of a certificate of completion, suffers any loss or damage by reason of an injury (other than a compulsory acquisition, restriction, termination, or interference under this Act) to any canal or other navigable waterway or to any water-power or other water right or to any fishery or fishing right shall, subject to the provisions of this Act, be entitled to be paid by the Commissioners compensation for such injury where, but only where, such injury is caused by the operation generally of the drainage works to which such certificate of completion relates or by any particular mode or course of operation of such works.
+
+(2) Every claim for compensation under this section shall be made in writing to the Commissioners and shall be made, in the case of an injury to a fishery or fishing right, within ten years or, in any other case, within three years after the date of the certificate of completion of the drainage works in relation to which the claim arises.
+
+(3) F41[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F41: Repealed (17.07.1995) by *Arterial Drainage (Amendment) Act 1995* (14/1995), s. 15(a), commenced on enactment.
+
+### 17. Matters to be regarded in assessment of compensation.
+
+**17.**—When assessing compensation in pursuance of any of the three next preceding sections, the arbitrator shall in every case have regard to any benefit to any property (whether such property is or is not the property in respect of which such compensation is claimed) of the person claiming such compensation which is occasioned by or may reasonably be expected to arise from the carrying out of the drainage scheme in relation to which the compensation is claimed and, in particular, the arbitrator—
+
+(*a*) shall, in the case of a claim in respect of a canal or other navigable waterway, have regard to any permanent benefit to the navigation of such waterway occasioned by or which may reasonably be expected to arise from the execution of the said drainage scheme, and
+
+(*b*) shall, in the case of a claim in respect of water-rights, have regard to any alternative water supply provided by the Commissioners, and
+
+(*c*) shall, in the case of a claim in respect of interference with water or a watercourse providing power for a mill or other industrial concern, have regard to the extent to which the power so provided was used for an industrial purpose during the ten years next preceding the date of the confirmation of the said drainage scheme by the Minister, and shall also have regard to any alternative source of power provided by the Commissioners.
+
+### 18. Amendment of valuation of benefited lands.
+
+**18.**—(1) It shall be lawful for the Commissioners, at the time and in the circumstances mentioned in the next following sub-section of this section, to amend in such manner as they think proper the statement in a drainage scheme of the aggregate annual value or the total increase in the annual value of the benefited lands or of the portion of the benefited lands (as the case may be) situate in a particular county.
+
+(2) An amendment under the next preceding sub-section of this section may be made by the Commissioners—
+
+(*a*) where the amendment is made in consequence of an objection made by the council of the county in which the lands affected are situate to the issue of a certificate of completion—at or immediately after the issue of such certificate, or
+
+(*b*) where the amendment is made in consequence of an application in that behalf by the council of the county in which the lands are situate—at any time after the making of such application, or
+
+(*c*) where the amendment is made by the Commissioners on their own motion for any reason which appears to them to be sufficient—at any time which appears to the Commissioners to be suitable.
+
+(3) Whenever the Commissioners amend under this section the statement contained in a drainage scheme of the aggregate annual value or the total increase in the annual value of lands, the Commissioners shall inform in writing the council of the county in which such lands are situate of the making of such amendment.
+
+(4) Any officer, agent or servant of the Commissioners shall be entitled to enter, with such assistants as he shall think necessary, any land at all reasonable times and there do all such things as he shall consider necessary for the purpose of making such valuation of such land as the Commissioners may consider to be requisite for the purpose of considering and (if thought fit) making an amendment under this section of a statement of aggregate annual value or of total increase in annual value.
+
+### 19. The Award.
+
+**19.**—F42[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F42: Repealed (15.03.2010) by *European Communities (Assessment and Management of Flood Risks) Regulations 2010* (S.I. No. 122 of 2010), reg. 40(9), with retrospective relief for Commissioners in relation to existing obligations under section.
+
+### 20. Disposal of surplus lands etc.
+
+**20.**—(1) As soon as conveniently may be after the issue of a certificate of completion the Commissioners shall inquire and determine whether any, and if so what lands, easements, fisheries, water-rights, navigation-rights, and other rights acquired by them under this Act for the purposes of the relevant drainage scheme are unnecessary and not required for the proper working and maintenance of the drainage works to which such certificate relates.
+
+(2) All (if any) lands, easements, fisheries, water-rights, navigation-rights, and other rights determined by the Commissioners in pursuance of the foregoing sub-section of this section to be unnecessary and not required as mentioned in that sub-section shall be sold or otherwise disposed of by the Commissioners for the benefit of the Exchequer in such manner as the Minister shall direct.
+
+## PART III. — Existing Drainage Districts.
+
+### 21. The appointed day for this Part of this Act.
+
+**21.**—(1) The Minister shall by order appoint a day to be the appointed day for the purposes of this Part of this Act.
+
+(2) In this Part of this Act the expression “the appointed day” means the day appointed under this section to be the appointed day for the purposes of this Part of this Act.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E23: Power pursuant to section exercised (21.03.1945) by *Order Fixing Appointed Day Pursuant To Section 21 of Arterial Drainage Act 1945* (S.I. No. 49 of 1945).
+
+### 22. Abolition of drainage rates.
+
+**22.**—(1) As on and from the appointed day no drainage rate (save as is otherwise provided by this Part of this Act in respect of arrears) shall be levied in any existing drainage district and in lieu thereof all moneys theretofore raisable (whether for capital charges or for maintenance expenses) in an existing drainage district or a part of any such district by the council of a county or by a drainage board or trustees by means of a drainage rate shall—
+
+(*a*) in the case of moneys so raisable by the council of a county, be raised by such council by means of the poor rate as a county-at-large charge, and
+
+(*b*) in the case of moneys so raisable by a drainage board or trustees, be raised by the appropriate council of a county or councils of counties by means of the poor rate as a county-at-large charge.
+
+(2) Nothing contained in sub-section (1) of this section or the River Owenmore Drainage Act, 1926 (No. 3 of 1926), shall be deemed to limit the amount of any moneys to be raised by virtue of the said sub-section (1) in respect of the River Owenmore Drainage District by means of the poor rate.
+
+(3) Nothing contained in sub-section (1) of this section or the Barrow Drainage Acts, 1927 and 1933, shall be deemed to limit the amount of any moneys to be raised by virtue of the said sub-section (1) in respect of the Barrow Drainage District by means of the poor rate.
+
+### 23. Maintenance of existing drainage works.
+
+**23.**—(1) All existing drainage works which are, immediately before the appointed day, maintainable by the council of a county or by two or more such councils shall, on and after the appointed day and until otherwise provided by or under this Act, continue to be maintainable by such council or councils (whether by themselves or by a committee or joint committee) as theretofore save that the expenses of such maintenance shall be raisable by such council or each of such councils by means of the poor rate as a county-at-large charge.
+
+(2) In the case of every existing drainage district in which the drainage works are, immediately before the appointed day, maintainable by trustees or a drainage board, the following provisions shall apply and have effect, that is to say—
+
+(*a*) the control and management of such existing drainage district and the maintenance of the existing drainage works therein shall be transferred, as on and from the appointed day, to and become the responsibility of the council of the county or the councils jointly of the counties in which such district is situate;
+
+(*b*) such existing drainage works shall, as on and from the appointed day, be maintained (as the case may be) by such council or by such councils jointly;
+
+(*c*) in the case of a transfer by this sub-section to two or more councils jointly, the expenses of the maintenance of the existing drainage works affected by such transfer shall be borne by such councils in proportion to the increase in the annual value of the lands drained or improved applicable to each county as shown in the relevant Award or final award, and for the purpose of ascertaining such proportions the Commissioners shall have power to make such apportionments as may be necessary;
+
+(*d*) the expenses or the proportion of the expenses of the maintenance of existing drainage works in pursuance of this sub-section defrayable by any council of a county shall be raised by such council by means of the poor rate as a county-at-large charge;
+
+(*e*) no council or councils jointly shall be obliged by this sub-section to maintain any existing drainage works in a condition or state of repair better than the condition and state of repair in which such works were at the time of the last inspection by the Commissioners under this sub-section prior (but not more than twelve months prior) to the appointed day;
+
+(*f*) in any proceedings against the council of a county or the councils of two or more counties to whom the control and management of an existing drainage district is transferred by this sub-section for damages or for relief in the nature of mandamus on account of the alleged inadequate maintenance of the existing drainage works in such district, a certificate sealed with the seal of the Commissioners and stating that the Commissioners caused the said drainage works to be inspected on a specified occasion and are satisfied that those drainage works were, at the time of such inspection, in a condition and state of repair at least as good as they were in on the occasion of the last inspection thereof by the Commissioners prior to the appointed day shall be conclusive and irrebuttable evidence of the facts so stated in such certificate;
+
+(*g*) it shall be lawful for an officer, agent or servant of the Commissioners at any time (whether before or after the appointed day) to enter on the drainage works in any existing drainage district to which this sub-section applies and there make such inspection, inquiries, and investigation in respect of the condition and state of repair of the existing drainage works in such district as he shall think proper.
+
+(3) Where the control and management of an existing drainage district and the responsibility for the maintenance of the existing drainage works therein is transferred by this section to two or more councils of counties jointly, such control, management, and maintenance shall be performed by a joint committee of such councils appointed by such councils in accordance with regulations made by the Minister for Local Government and Public Health under this section.
+
+(4) Regulations made by the Minister for Local Government and Public Health under this section may prescribe all such matters as the said Minister shall think proper in relation to the membership of such joint committees as are referred to in the next preceding sub-section of this section, the election and term of office of the members of such joint committees, the procedure of such joint committees, and the audit of their accounts.
+
+(5) Nothing in this section shall authorise a joint committee appointed under this section to raise any moneys which are required by this Act to be raised by the council of a county.
+
+(6) Sub-section (4) of section 23 of the Arterial Drainage Act, 1925 (No. 33 of 1925), shall cease to have effect as respects appointments to committees and joint committees made under that section after the appointed day.
+
+(7) The words “and one at least of the last mentioned two members shall be a drainage ratepayer in the county of that council” in paragraph 2 of the Schedule to the Barrow Drainage Act, 1927 (No. 26 of 1927), shall cease to have effect as respects appointments to the Barrow Drainage Board made after the appointed day.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C14: Application of section extended (17.07.1995) by *Arterial Drainage (Amendment) Act 1995* (14/1995), s. 9(3)(a)(ii), (b), commenced on enactment.
+>
+> **Modification or relocation of watercourse, embankment or other works.**
+>
+> **9**.— ...
+>
+> (3) (*a*) If relevant works are modified, relocated or altered in any other manner by a person with, or without, the consent of the Commissioners, the Commissioners may, as they consider appropriate in the circumstances—
+>
+> (i) re-instate those works to their condition before such modification, relocation or alteration was carried out, or
+>
+> (ii) maintain those works as so modified, relocated or altered.
+>
+> (*b*) The provisions of the Principal Act conferring powers on the Commissioners for the purposes of the maintenance by them of any relevant works shall apply and have effect for the purposes of the maintenance by them of relevant works under *paragraph (a) (ii)*.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E24: Power pursuant to subss. (3), (4) exercised (16.01.1996) by *Arterial Drainage (Ballinamore/ Ballyconnell Joint Committee) Regulations 1996* (S.I. No. 11 of 1996).
+>
+> E25: Power pursuant to subss. (3), (4) exercised (27.09.1945) by *Arterial Drainage (Membership and Procedure of Joint Committees) (Regulations) Order 1945* (S.I. No. 257 of 1945).
+
+### 24. Maintenance transfer orders.
+
+**24.**—(1) At any time after the appointed day the Minister may, by order (in this Act referred to as a maintenance transfer order) made on the application of the Commissioners, transfer to the Commissioners as on and from a specified date the control and management of any existing drainage district the control and management of which is, immediately before the making of such order, vested in the council of a county or in the councils of two or more counties.
+
+(2) Whenever the Minister makes a maintenance transfer order, the following provisions shall apply and have effect, that is to say:—
+
+(*a*) the control and management of the existing drainage district to which such order relates and the responsibility for the maintenance of the existing drainage works therein shall become and be vested in the Commissioners as on and from the date specified in that behalf in such order;
+
+(*b*) as on and from the date of such transfer and unless or until the said existing drainage works are included in the works proposed in a drainage scheme to be executed in pursuance thereof and the Commissioners have entered on the said existing drainage works for the purpose of carrying out such drainage scheme, the costs and expenses of the Commissioners in the maintenance of the said existing drainage works shall be paid to the Commissioners in the manner provided by Part V of this Act by the council or councils from whom such existing drainage district was transferred by such order.
+
+### 25. Dissolution of drainage trustees and drainage boards.
+
+**25.**—(1) Every body of trustees and every drainage board in which the control and management of an existing drainage district is vested immediately before the appointed day shall, on that day, become and be dissolved by virtue of this section.
+
+(2) Such of the provisions set forth in the Second Schedule to this Act as are applicable shall, on the appointed day, apply and have effect in relation to every body of trustees and every drainage board which on that day becomes dissolved by virtue of this section.
+
+### 26. Defrayal of the cost of existing drainage works.
+
+**26.**—As on and from the appointed day the moneys payable to the Commissioners by the council of a county in repayment of the expenses incurred in the execution of the drainage works in an existing drainage district (other than the Barrow Drainage District) or in the repair, under the Drainage Maintenance Act, 1924 (No. 46 of 1924), of any such drainage works shall (so far as such expenses have not been repaid before the appointed day) be raised by such council by means of the poor rate as a county-at-large charge and no part of such moneys shall be raised by such council by means of a drainage rate.
+
+### 27. Provisions in respect of the Barrow Drainage District.
+
+**27.**—(1) Section 19 of the Barrow Drainage Act, 1927 (No. 26 of 1927), as amended by section 3 of the Barrow Drainage Act, 1933 (No. 30 of 1933), shall cease to have effect in relation to any local financial year beginning after the appointed day.
+
+(2) Section 20 of the Barrow Drainage Act, 1927 (No. 26 of 1927), shall not have effect in any local financial year beginning after the appointed day and in lieu thereof the following provisions shall have effect, that is to say:—
+
+(*a*) in every such local financial year until the expiration of the thirty-five local financial years mentioned in the said section 20, the respective councils of the counties of Kildare, Laoighis, and Offaly shall pay to the Commissioners the sum of seven thousand, one hundred and fifty-four pounds and the said councils shall so pay that sum in the proportions and on the conditions in and on which they are now liable to contribute to the annual sum payable by them under the said section 20;
+
+(*b*) the moneys payable to the Commissioners by the council of a county under the foregoing paragraph of this sub-section shall be raised by such council by means of the poor rate as a county-at-large charge and no part of such moneys shall be raised by such council by means of the drainage rate under the said Act;
+
+(*c*) so much of the annual sum payable to the Commissioners under the said section 20 as is not defrayed by means of the payments under the foregoing paragraphs of this sub-section shall be paid out of moneys provided by the Oireachtas.
+
+(3) Any moneys in the possession of the Barrow Drainage Board on the appointed day or received by them after the appointed day in respect of any period ending before or on the appointed day shall be applied so as to reduce the moneys to be raised for the maintenance expenses in respect of the Barrow Drainage District in any local financial year beginning after the appointed day.
+
+### 28. Certain provisions in respect of existing drainage districts managed by councils.
+
+**28.**—(1) In this section the expression “responsible council” means, in relation to an existing drainage district the control and management of which is, immediately before the appointed day, vested in the council of a county or two or more of such councils jointly, the council or one of the councils in which such control and management is so vested.
+
+(2) The following provisions shall apply and have effect in relation to every existing drainage district the control and management of which is, immediately before the appointed day, vested in the council of a county or in two or more such councils jointly, that is to say:—
+
+(*a*) the responsible council or the responsible councils of any such existing drainage district may, in their discretion, make such concession as they shall think proper in regard to the mode or time of payment of any arrears of drainage rate or drainage charge owing to such council or councils on the appointed day;
+
+(*b*) where the responsible council or one or more of the responsible councils in respect of any such existing drainage district has or have, before the appointed day (whether before or after the passing of this Act), applied moneys out of their county fund or respective county funds for the purposes of such existing drainage district and the Minister for Local Government and Public Health declares, by order made before or after the appointed day, such application of moneys to have been reasonable and proper, such application of moneys by such council or councils shall be and be deemed always to have been lawful and valid and incapable of being questioned;.
+
+(*c*) where there are two or more responsible councils in respect of any such existing drainage district and one of those councils has, before the appointed day (whether before or after the passing of this Act), applied moneys out of their county fund for the purposes of such existing drainage district without obtaining from the other or others of such responsible councils such contribution (if any) to such moneys as should properly have been made by such other or others of such councils, it shall be lawful for any one of such responsible councils to prepare a scheme for the adjustment and apportionment as between such responsible councils of all moneys so applied by any of them without such contribution, and such scheme, if and when it is approved of by the Minister for Local Government and Public Health, shall have the force of law and shall be given effect to accordingly.
+
+### 29. Failure of council to maintain existing drainage works.
+
+**29.**—(1) Whenever, after the appointed day, the Commissioners are of opinion that any existing drainage works which are for the time being maintainable by the council of a county or the councils of two or more counties are not being properly maintained and that maintenance or repair work is immediately necessary in respect of the said existing drainage works, it shall be lawful for the Commissioners to serve by post on such council or each of such councils a notice (in this section referred to as a notice of disrepair) stating that in the opinion of the Commissioners the maintenance or repair work specified in that behalf in such notice is immediately necessary in respect of the said existing drainage works and requiring such council or councils to execute the said maintenance or repair work within a time specified in that behalf in such notice.
+
+(2) Whenever a notice of disrepair is served under the foregoing sub-section of this section, the following provisions shall apply and have effect, that is to say:—
+
+(*a*) the council or councils on which such notice of disrepair is so served shall forthwith execute to the satisfaction of the Commissioners the maintenance or repair work specified in such notice and shall defray the cost of the execution of such work in the like manner and, in the case of two or more councils, in the like proportions as such council is or such councils are for the time being required by this Act or otherwise by law to defray the cost of the maintenance of the existing drainage works to which such notice relates;
+
+(*b*) if such council or councils fails or fail to execute the said maintenance or repair work to the satisfaction of the Commissioners within the time specified in that behalf in such notice of disrepair, it shall be lawful for the Commissioners to enter on the said existing drainage works and there execute or complete (as the case may be) the said maintenance or repair work;
+
+(*c*) if the Commissioners enter on the said existing drainage works and there execute or complete maintenance or repair work under the next preceding paragraph of this sub-section, the Commissioners shall serve on the council or each of the councils concerned a notice stating the amount of the costs and expenses incurred by the Commissioners in the execution or completion (as the case may be) of the said work and thereupon the amount so stated shall be payable to the Commissioners by such council or councils and, in default of such payment, shall be recoverable by the Commissioners in any court of competent jurisdiction as a simple contract debt;
+
+(*d*) the amount payable to the Commissioners by a council or by two or more councils under the next preceding paragraph of this sub-section shall be defrayed by such council or councils in the like manner as such council is or such councils are for the time being required by this Act or otherwise by law to defray the cost of the maintenance of the said existing drainage works and, where such amount is so payable by two or more councils, it shall be paid and defrayed by and be recoverable from them in the like proportions as the said cost of maintenance is defrayable as aforesaid by them.
+
+### 30. Duty of councils to furnish reports.
+
+**30.**—(1) Every council of a county which is, after the appointed day, responsible under this Part of this Act for the maintenance of the drainage works in an existing drainage district and the joint committee of any two or more councils of counties which are jointly so responsible shall furnish to the Commissioners in every year a report in respect of such existing drainage district and the drainage works therein F43[, and shall publish in at least one newspaper circulating in the said district a notice stating that such a report is available for inspection at the principal office of such council or, as the case may be, of each such council during office hours (and such a report shall be made available for such inspection accordingly)].
+
+(2) Every report furnished in pursuance of the foregoing sub-section of this section shall be in such form and contain such particulars as shall be prescribed in that behalf by the Commissioners.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F43: Inserted (17.07.1995) by *Arterial Drainage (Amendment) Act 1995* (14/1995), s. 13, commenced on enactment.
+
+## PART IV. — Existing Embankments.
+
+### 31. Transfer of control and management of existing embankments to the Commissioners.
+
+**31.**—(1) The Minister may by order (in this Part of this Act referred to as a transfer order), whenever he thinks proper so to do on the application of the Commissioners, transfer to the Commissioners the control and management of any existing embankment and, where such existing embankment is, immediately before the date of such order, vested in trustees, also transfer such existing embankment to the Commissioners and vest the same in them for the like estate as it was so vested in such trustees.
+
+(2) A transfer order shall operate and have effect in accordance with the terms thereof and, if the existing embankment to which such order relates is included in the drainage works proposed in a drainage scheme to be executed, such transfer order shall operate to incorporate such existing embankment in such drainage works, and in any other case such transfer order shall operate to impose on the Commissioners the duties (in this Part of this Act referred to as duties of repair and maintenance) of putting the existing embankment to which such order relates into proper repair and effective condition and of maintaining it in such proper repair and effective condition.
+
+(3) The Commissioners shall, for the purpose of performing the duties of repair and maintenance imposed on them in relation to an existing embankment by virtue of a transfer order, have power—
+
+(*a*) to enter on any land and there do all such things as shall, in their opinion, be necessary for the said purpose and, in particular, to take soil and other materials from such land, and
+
+(*b*) to determine all questions which shall arise in relation to such existing embankment and the repair or maintenance thereof and to define or prescribe the rights, obligations, and liabilities in relation thereto of all parties.
+
+(4) A transfer order may relate to a part only of an existing embankment, and accordingly in this Part of this Act (including the foregoing sub-sections of this section) the expression “existing embankment” shall, where the context so admits, be construed as including a part of an existing embankment as well as the whole of an existing embankment.
+
+### 32. Power to construct a substitute embankment.
+
+**32.**—(1) Whenever the Commissioners are satisfied, in regard to an existing embankment in respect of which duties of repair and maintenance are imposed on them by virtue of a transfer order, that the construction of a new embankment on another site is necessary (in addition to or in substitution for such existing embankment) for the proper protection of the land or part of the land served by such existing embankment, it shall be lawful for the Commissioners to construct such new embankment on such site and according to such plans as they shall, after consultation with the Minister for Agriculture, consider suitable.
+
+(2) For the purpose of the construction of a new embankment under the foregoing sub-section of this section, the Commissioners shall have power—
+
+(*a*) to enter on the proposed site of such new embankment and there construct such new embankment and do all such things as shall, in their opinion, be necessary for or incidental to such construction, and
+
+(*b*) to enter on any other land and there do such things as shall, in their opinion, be necessary for the purposes of the construction of such new embankment and, in particular, to take soil and other materials from such land, and
+
+(*c*) to pay compensation for damage, whether permanent or temporary, to land occasioned by the exercise by the Commissioners of any of the powers conferred on them by the foregoing provisions of this sub-section.
+
+F44[(3) In determining, under the Lands Clauses Acts, the right to or the amount of such compensation as is mentioned in *subsection (2)* of this section, the property arbitrator shall have regard to the benefit (if any) conferred on the claimant for such compensation or on his land by the construction of such new embankment.]
+
+(4) F45[...]
+
+(5) Where a new embankment is constructed by the Commissioners under this section in addition to or in substitution for an existing embankment, the powers and duties conferred or imposed on the Commissioners by or under this Part of this Act in relation to the maintenance of such existing embankment shall apply and extend to such new embankment.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F44: Substituted (17.07.1995) by *Arterial Drainage (Amendment) Act 1995* (14/1995), s. 11(4), commenced on enactment.
+>
+> F45: Repealed (17.07.1995) by *Arterial Drainage (Amendment) Act 1995* (14/1995), s. 15(a), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C15: Functions transferred and title of Minister for **Agriculture and Fisheries** construed as **Lands** (8.02.1977) by *Fisheries (Transfer of Departmental Administration and Ministerial Functions) Order 1977* (S.I. No. 30 of 1977), arts. 3, 4(1)(e), subject to transitional provisions in arts. 5-8.
+>
+> 3\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 4 of this Order are hereby transferred to the Department of Lands.
+>
+> (2) References to the Department of Agriculture and Fisheries contained in any Act or instrument made thereunder and relating to any administration and business transferred by paragraph (1) of this Article shall, on and after the commencement of this Order, be construed as references to the Department of Lands.
+>
+> 4\. (1) The functions vested in the Minister for Agriculture and Fisheries by or under the following Acts are hereby transferred to the Minister for Lands:
+>
+> ...
+>
+> (*e*) the Arterial Drainage Acts, 1945 and 1955,
+>
+> ...
+>
+> The history of the Ministers concerned with Agriculture aspects of Act can be traced as follows:
+>
+> • Functions transferred and title of Minister for **Agriculture** construed as **Lands** (9.04.1957) by *Fisheries (Transfer of Departmental Administration and Ministerial Functions) Order 1957* (S.I. No. 67 of 1957), in operation as per art. 1(2);
+>
+> • Functions transferred and title of Minister for **Lands** construed as **Agriculture** (3.05.1965) by *Fisheries (Transfer of Departmental Administration and Ministerial Functions) Order 1965* (S.I. No. 83 of 1965), in operation as per art. 1(2);
+>
+> • Title of Minister for **Agriculture** changed to **Agriculture and Fisheries** (6.07.1965) by *Agriculture (Alteration of Name of Department and Title of Minister) Order 1965* (S.I. No. 146 of 1965).
+>
+> • Functions transferred and title of Minister for **Agriculture and Fisheries** construed as **Lands** (8.02.1977) by *Fisheries (Transfer of Departmental Administration and Ministerial Functions) Order 1977* (S.I. No. 30 of 1997);
+>
+> • Title of Minister for **Lands** changed to **Fisheries** (9.02.1977) by *Lands (Alteration of Name of Department and Title of Minister) Order 1977* (S.I. No. 29 of 1977), in operation as per art. 1(2);
+>
+> • Title of Minister for **Fisheries** changed to **Fisheries and Forestry** (15.07.1978) by *Fisheries (Alteration of Name of Department and Title of Minister) Order 1978* (S.I. No. 195 of 1077), in operation as per art. 1(2);
+>
+> • Title of Minister for **Fisheries and Forestry** to **Tourism, Fisheries and Forestry** (19.02.1986) by *Fisheries and Forestry (Alteration of Name of Department and Title of Minister) Order 1986* (S.I. No. 40 of 1986), in operation as per art. 1(2);
+>
+> • Title of Minister for **Tourism, Fisheries and Forestry** changed to **Marine** (19.03.1987) by *Tourism, Fisheries and Forestry (Alteration of Name of Department and Title of Minister) Order 1987* (S.I. No. 82 of 1987), in operation as per art. 1(2);
+>
+> • Title of Minister for **Marine** changed to **Marine and Natural Resources** (12.07.1997) by *Marine (Alteration of Name of Department and Title of Minister) Order 1997* (S.I. No. 301 of 1997), in operation as per art. 1(2);
+>
+> • Title of Minister for **Marine and Natural Resources** changed to **Communications, Marine and Natural Resources** (19.06.2002) by *Marine and Natural Resources (Alteration of Name of Department and Title of Minister) Order 2002* (S.I. No. 307 of 2002), in operation as per art. 1(2);
+>
+> • Title of Minister for **Communications, Marine and Natural Resources** changed to **Communications, Energy and Natural Resources** (20.10.2007) by *Communications, Marine and Natural Resources (Alteration of Name of Department and Title of Minister) Order 2007* (S.I. No. 706 of 2007), in operation as per art. 1(2);
+>
+> • Title of Minister for **Communications, Energy and Natural Resources** changed to **Communications, Climate Action and Environment** (23.07.2016) by *Communications, Energy and Natural Resources (Alteration of Name of Department and Title of Minister) Order 2016* (S.I. No. 421 of 2016), in operation as per art. 1(2);
+>
+> • Title of Minister for **Communications, Climate Action and Environment** changed to **Environment, Climate and Communication** (24.09.2020) by *Communications, Climate Action and Environment (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 373 of 2020), in operation as per art. 1(2);
+>
+> • Title of Minister for **Environment, Climate and Communication** changed to **Climate, Energy and the Environment** (2.06.2025) by *Environment, Climate and Communications (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 235 of 2025), in operation as per art. 1(2).
+
+### 33. Defrayal of cost of maintenance of an existing embankment.
+
+**33.**—(1) When the Commissioners have completed the work of putting into proper repair and effective condition (including, where a new embankment is constructed under the next preceding section, the construction of such new embankment) an existing embankment in relation to which duties of repair and maintenance are imposed on them by virtue of a transfer order, the Commissioners shall certify—
+
+(*a*) the date (in this section and in Part V of this Act referred to as the date of completion) on which the said work of putting into proper repair and effective condition was completed, and
+
+(*b*) the council of a county or the several councils of counties by whom the expenses of the maintenance of such existing embankment after the date of completion are to be borne under this section, and
+
+(*c*) where such expenses are so certified to be borne by two or more such councils, the proportions in which such councils are so to bear such expenses.
+
+(2) When the Commissioners have certified in accordance with the foregoing sub-section of this section in respect of an existing embankment, all expenses incurred by the Commissioners in the maintenance of such existing embankment after the date of completion shall be borne and paid to the Commissioners by the council or councils named in that behalf in the said certificate under the foregoing sub-section in accordance with the relevant provisions of Part V of this Act.
+
+### 34. Abandonment of an existing embankment.
+
+**34.**—(1) The Minister may by order (in this Part of this Act referred to as an abandonment order) whenever he thinks proper so to do on the application of the Commissioners, authorise the abandonment of the whole or any specified part of an existing embankment in relation to which duties of repair and maintenance are imposed on the Commissioners by virtue of a transfer order.
+
+(2) An abandonment order shall operate to authorise the Commissioners to abandon the existing embankment or the part of an existing embankment to which such order relates and to relieve and discharge the Commissioners, as from the date of such order, of and from the duties of repair and maintenance imposed on them by virtue of the relevant transfer order.
+
+(3) Every person who suffers loss or damage by reason of the flooding of land owned or occupied by him shall, where such flooding is due directly to the abandonment of an existing embankment in pursuance of an abandonment order, be entitled to be paid by the Commissioners compensation in respect of such loss or damage.
+
+(4) Every claim for compensation under this section—
+
+(*a*) shall be made in writing to the Commissioners within one year after the loss or damage to which the claim relates is first suffered, and
+
+(*b*) F46[...]
+
+(5) Compensation payable under this section in respect of the flooding of land (in this sub-section referred to as flooded land) which is subject, either alone or in conjunction with other land, to a Land Purchase Annuity or other annual payment (not being merely rent under a contract of tenancy) payable to the Irish Land Commission or to the Commissioners shall be applied by the Commissioners in or towards the redemption of so much (whether the whole or a part) of such annuity or annual payment as is charged on or apportioned to the flooded land exclusively, and only the surplus (if any) of such compensation remaining after such redemption shall be paid to the owner or occupier of the flooded land.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F46: Repealed (17.07.1995) by *Arterial Drainage (Amendment) Act 1995* (14/1995), s. 15(a), commenced on enactment.
+
+### 35. Trust funds in respect of existing embankments.
+
+**35.**—Where, at the date of a transfer order, a trust fund, whether vested in the Public Trustee, or the Irish Land Commission, or trustees, exists for the maintenance (whether permanently or during a specified period or otherwise) of the existing embankment (either alone or in conjunction with other works) to which or to a part of which such transfer order relates, such of the following provisions as are applicable shall apply and have effect, that is to say:—
+
+(*a*) if such transfer order relates to the whole of such existing embankment and such trust fund relates to such existing embankment alone, such trust fund shall, as soon as may be after the making of such transfer order, be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister shall direct;
+
+(*b*) if such transfer order relates to a part only of such existing embankment and such trust fund relates to such existing embankment alone, the Judicial Commissioner of the Irish Land Commission shall, on the application of the Commissioners and on notice to all parties concerned and having given such parties an opportunity of being heard, apportion such trust fund as between the part of such existing embankment to which such transfer order relates and the residue of such existing embankment, and thereupon the portion of such trust fund which is so apportioned to the part of such existing embankment to which such transfer order relates shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister shall direct;
+
+(*c*) if such transfer order relates to the whole of such existing embankment and such trust fund relates to such existing embankment and also to other works, the said Judicial Commissioner shall, on the application of the Commissioners and on notice to all parties concerned and having given such parties an opportunity of being heard, apportion such trust fund as between such existing embankment and such other works, and thereupon the portion of such trust fund which is so apportioned to such existing embankment shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister shall direct;
+
+(*d*) if such transfer order relates to a part only of such embankment and such trust fund relates to such existing embankment and also to other works, the said Judicial Commissioner shall, on the application of the Commissioners and on notice to all parties concerned and having given such parties an opportunity of being heard, apportion such trust fund as between, on the one hand, the part of such existing embankment to which such transfer order relates and, on the other hand, the residue of such existing embankment and the said other works, and thereupon the portion of such trust fund which is so apportioned to the part of such existing embankment to which such transfer order relates shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister shall direct;
+
+(*e*) wherever a trust fund or part of a trust fund is required by any of the foregoing provisions of this section to be paid into or disposed of for the benefit of the Exchequer, it shall be lawful for the Public Trustee, the Irish Land Commission, or the trustees (as the case may be) to sell, for the purpose of making such payment or disposition, the whole or so much as may be necessary of the investments (if any) then representing such trust fund;
+
+(*f*) where under any of the foregoing provisions of this section the whole of such trust fund is required to be paid into or disposed of for the benefit of the Exchequer, whichever of them, the Public Trustee, the Irish Land Commission, or the trustees, such trust fund was vested in immediately before such payment or disposal shall, immediately upon such payment or disposal, be discharged by virtue of this Act from the trusts and duties upon which they so held such trust fund (whether by virtue of a Deed of Trust, a Scheme, or otherwise) and any other persons who were, immediately before such payment or disposal, in a fiduciary capacity in relation to such trust fund shall similarly be discharged from the trusts and duties imposed on them by virtue of such fiduciary capacity;
+
+(*g*) where under any of the foregoing provisions of this section a portion only of such trust fund is required to be paid into or disposed of for the benefit of the Exchequer, the next preceding paragraph of this section shall apply and have effect in relation to the said portion of such trust fund as if that portion were the whole of such trust fund, but nothing in this Act shall operate to relieve or discharge in respect of the residue of such trust fund the Public Trustee, the Irish Land Commission, or the trustees (as the case may be) or any other person from any trust or duty for the time being imposed on them or him (whether by Deed of Trust, Scheme, or otherwise) in respect of such trust fund so far as such trust or duty relates to the residue of the existing embankment.
+
+### 36. Provisions in respect of certain existing embankments.
+
+**36.**—(1) Whenever the Judicial Commissioner of the Irish Land Commission, in exercise of the powers conferred on him by section 44 of the Land Act, 1923 (No. 42 of 1923), or section 45 of the Land Act, 1931 (No. 11 of 1931), directs, in relation to an existing embankment in respect of which duties of repair and maintenance are imposed on the Commissioners under this Act whether by virtue of a transfer order or otherwise, that land bonds be paid or repaid to the Public Trustee, whichever of the following provisions is applicable shall apply and have effect, that is to say:—
+
+(*a*) if such duties of repair and maintenance relate to the whole of such existing embankment, the land bonds paid or repaid (as the case may be) to the Public Trustee in pursuance of such direction shall, notwithstanding anything contained in the said section 44 or the said section 45, be disposed of by the Public Trustee for the benefit of the Exchequer in such manner as the Minister shall direct;
+
+(*b*) if such duties of repair and maintenance relate to part only of such existing embankment, the said Judicial Commissioner, when directing as aforesaid land bonds to be paid or repaid to the Public Trustee, shall apportion such land bonds between the part of such existing embankment to which such duties of repair and maintenance relate and the residue of such existing embankment, and the Public Trustee, when such land bonds are paid or repaid (as the case may be) to him in pursuance of such direction, shall, notwithstanding anything contained in the said section 44 or the said section 45, dispose of for the benefit of the Exchequer in such manner as the Minister shall direct so much of such land bonds as is so apportioned to the part of such existing embankment in respect of which such duties of repair and maintenance are imposed on the Commissioners.
+
+(2) The following provisions shall, where applicable, apply and have effect in relation to transfer orders, that is to say:—
+
+(a) the powers conferred on the Irish Land Commission by section 44 of the Land Act, 1923 (No. 42 of 1923), or section 45 of the Land Act, 1931 (No. 11 of 1931), of making an application to the Judicial Commissioner under such section shall not be prejudiced or affected by the fact (where it exists) that the relevant transfer order is made before the relevant appointed day within the meaning of the Land Purchase Acts;
+
+(*b*) sub-section (2) of the said section 44 or sub-section (2) of the said section 45 (as the case may be) shall not apply or have effect in relation to an existing embankment in respect of which a transfer order has been made;
+
+(*c*) where, after a transfer order has been made in respect of an existing embankment, the Commissioners incur expenses in executing works of cleansing, repair, or restoration in respect of such existing embankment which, but for such transfer order, would have been required to be executed by the Irish Land Commission, it shall be lawful for the Judicial Commissioner, on the application of the Irish Land Commission, to make an order either (as the case may be) under section 20 of the Land Act, 1927 (No. 19 of 1927), or under section 46 of the Land Act, 1931 (No. 11 of 1931), for the transfer to the Irish Land Commission of land bonds to meet the expenses so incurred by the Commissioners;
+
+(*d*) land bonds transferred to the Irish Land Commission under any such order as is mentioned in the next preceding paragraph of this sub-section shall be disposed of for the benefit of the Exchequer in such manner as the Minister shall direct.
+
+## PART V. — Maintenance of Drainage Works.
+
+### 37. Maintenance of drainage works by the Commissioners.
+
+**37.**—(1) Whenever a certificate of completion has been issued and also whenever a maintenance transfer order has been made, the following provisions shall apply and have effect in relation to the maintenance of (as the case may be) the drainage works stated in such certificate to have been completed or the existing drainage works to which such order relates (but in the latter case so long only as such existing drainage works are maintainable by the Commissioners by virtue of such order), that is to say:—
+
+(*a*) the Commissioners shall maintain the said drainage works or existing drainage works (as the case may be) in proper repair and effective condition but, in the case of any such existing drainage works, it shall not be obligatory on the Commissioners to maintain such works in a better condition or state of repair than they were in on the date of the maintenance transfer order;
+
+(*b*) in any proceedings against the Commissioners for damages or for relief in the nature of mandamus on account of the alleged inadequate maintenance by the Commissioners of any such existing drainage works, a certificate sealed with the seal of the Commissioners and stating that the Commissioners have caused the said existing drainage works to be inspected and are satisfied that the said existing drainage works were, at the date of such inspection, in a condition and state of repair at least as good as on the date of the relevant maintenance transfer order shall be conclusive and irrebuttable evidence that the said existing drainage works were in a condition and state of repair at the date of such inspection at least as good as on the date of the said order;
+
+(*c*) F47[...]
+
+(*d*) F48[...]
+
+(*e*) F49[...]
+
+(*f*) F50[...]
+
+(*g*) F51[...]
+
+(*h*) F52[...]
+
+(2) F53[...]
+
+(3) F54[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F47, F48, F49, F50, F51, F52, F53, F54: Repealed (17.07.1995) by *Arterial Drainage (Amendment) Act 1995* (14/1995), s. 15(a), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E26: Provision made for recovery of costs of maintenance from county councils during transitional period (19.07.1974) by *Exchequer and Local Financial Years Act (Adaptation of Enactments and Statutory Instruments) Order 1974* (S.I. No. 214 of 1974), art. 3 and sch. 1 para. 16.
+>
+> E27: Previous affecting provision: subs. (1)(c)-(g) amended (1.09.1974) by *Exchequer and Local Financial Years Act (Adaptation of Enactments and Statutory Instruments) Order 1974* (S.I. No. 215 of 1974), art. 4(1) and sch. 2 part 1, in operation as per sch.; subs. (1)(c)-(g) repealed (17.07.1995) by *Arterial Drainage (Amendment) Act 1995* (14/1995), s. 15(a), commenced on enactment.
+>
+> E28: Previous affecting provision: subs. (3)(a1), (a2) inserted (1.03.1945, deemed) by *Arterial Drainage (Amendment) Act 1955* (23/1955), s. 2(1), commenced as per subs. (2); subs. (3) repealed (17.07.1995) as per F-note above.
+
+### 38. Powers of the Commissioners in relation to maintenance.
+
+**38.**—(1) For the purpose of the maintenance by the Commissioners of any drainage works (including existing drainage works) in pursuance of this Part of this Act, it shall be lawful for the Commissioners to do all or any of the following things, that is to say:—
+
+(*a*) enter on any land and there do all such things as shall be necessary for or incidental to such maintenance;
+
+(*b*) take from any land all sods and other material required for the purpose of such maintenance;
+
+(*c*) deposit on any land all spoil and other material produced in the course of such maintenance;
+
+(*d*) utilise for the purpose of such maintenance all or any spoil, gravel, stone, rock, or other material removed in the course of such maintenance;
+
+(*e*) do all such other acts and things as shall, in the opinion of the Commissioners, be necessary or proper for the efficient carrying out of such maintenance.
+
+(2) In addition and without prejudice to the general powers conferred on the Commissioners by the foregoing sub-section of this section, it shall be lawful, for the purpose of the maintenance by them of any drainage works (including existing drainage works) in pursuance of this Part of this Act, to execute such improvements to such drainage works or existing drainage works as appear to them to be minor matters properly capable of being regarded as maintenance.
+
+(3) Any minor improvements effected by the Commissioners under the next preceding sub-section of this section shall be regarded for the purposes of this Act as maintenance and the cost thereof shall be defrayed accordingly.
+
+> **Annotations:**
+>
+> C16: Application of section extended (17.07.1995) by *Arterial Drainage (Amendment) Act 1995* (14/1995), s. 9(3)(a)(ii), (b), commenced on enactment.
+>
+> **Modification or relocation of watercourse, embankment or other works.**
+>
+> **9**.— ...
+>
+> (3) (*a*) If relevant works are modified, relocated or altered in any other manner by a person with, or without, the consent of the Commissioners, the Commissioners may, as they consider appropriate in the circumstances—
+>
+> (i) re-instate those works to their condition before such modification, relocation or alteration was carried out, or
+>
+> (ii) maintain those works as so modified, relocated or altered.
+>
+> (*b*) The provisions of the Principal Act conferring powers on the Commissioners for the purposes of the maintenance by them of any relevant works shall apply and have effect for the purposes of the maintenance by them of relevant works under *paragraph (a) (ii)*.
+>
+> ...
+
+## PART VI. — Amendment of Awards.
+
+### 39. Execution of additional works.
+
+**39.**—(1) At any time after an Award has been made by the Commissioners under this Act, it shall be lawful for the Minister, by order made on the application of the Commissioners, to empower the Commissioners to do all or any of the following things, that is to say:—
+
+(*a*) to execute such further drainage works (by way of addition to or improvement of the drainage works mentioned in such Award) as may appear to the Commissioners to be necessary for the efficient working of the said drainage works mentioned in the said Award;
+
+(*b*) compulsorily to acquire any specified lands;
+
+(*c*) compulsorily to acquire, abolish or interfere with any weirs, sluices, easements, fisheries, water-rights, navigation-rights, or other rights.
+
+(2) An order made by the Minister under this section may incorporate and apply such of the provisions of this Act as shall appear to him to be necessary or appropriate and, in particular, shall authorise and require the Commissioners to make such supplemental Award as shall be requisite.
+
+### 40. Amendment of Awards.
+
+**40.**—F55[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F55: Repealed (15.03.2010) by *European Communities (Assessment and Management of Flood Risks) Regulations 2010* (S.I. No. 122 of 2010), reg. 40(9), with retrospective relief for Commissioners in relation to existing obligations under section.
+
+### 41. Application of certain provisions to supplemental Awards.
+
+**41.**—F56[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F56: Repealed (15.03.2010) by *European Communities (Assessment and Management of Flood Risks) Regulations 2010* (S.I. No. 122 of 2010), reg. 40(9), with retrospective relief for Commissioners in relation to existing obligations under section.
+
+## PART VII. — The Panel of Drainage Arbitrators.
+
+### 42. The Panel of Drainage Arbitrators.
+
+**42.**—F57[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F57: Repealed (21.12.1960) by *Property Values (Arbitrations and Appeals) Act 1960* (45/1960), s. 7 and sch., commenced on enactment.
+
+## PART VIII. — Miscellaneous and General.
+
+### 43. General power to the Commissioners to employ contractors.
+
+**43.**—(1) Whenever the Commissioners are authorised by or under this Act to execute any drainage or other engineering or building works, they may, in lieu of executing such works themselves by their own officers and servants, contract (with the sanction of the Minister) with any person for the execution of the whole or part of such works by such person and may for that purpose enter (with the sanction aforesaid) into such contracts and agreements as may be requisite.
+
+(2) Whenever the Commissioners contract under this section with any person for the execution by him of any works, they may, by any contract or agreement with such person, delegate to him such of the powers and duties conferred or imposed on the Commissioners by or under this Act as shall be specified in such contract or agreement, and thereupon such person shall have (concurrently with the Commissioners) the right to exercise the powers and the obligation to perform the duties so specified so far as and no further than is necessary for the execution of the said works by him.
+
+### 44. Additional powers for recovery of moneys payable by county councils.
+
+**44.**—(1) Whenever any money is payable under this Act to the Commissioners by the council of a county and such council fails so to pay such money or some part thereof at the time at which the same is payable under this Act, such money or such part thereof (as the case may be) may, without prejudice to any other mode of recovery provided by this Act, be deducted from any money payable to such council by any Minister of State for any purpose whatsoever.
+
+(2) The amount of any deduction made under this section from money payable out of the Local Taxation (Ireland) Account shall be made subject and without prejudice to the claims of the guarantee fund under the Land Purchase Acts.
+
+(3) The amount of every deduction made under this section shall be paid to the Commissioners and shall be applied by them in discharge of the money because of the non-payment of which such deduction was made.
+
+### 45. Payment of certain debts out of compensation.
+
+**45.**—Where compensation is payable under this Act by the Commissioners to a person and any money is due and owing by such person to a Minister of State, the Revenue Commissioners, the Irish Land Commission, or the Commissioners, it shall be lawful for the Commissioners to pay and discharge out of such compensation the money so due and owing by such person and to pay to him only the balance (if any) of such compensation remaining after such payment and discharge.
+
+### 46. Control and management of weirs.
+
+**46.**—(1) The Minister may by order, whenever, on the application of the Commissioners, he thinks proper so to do in the interests of drainage, declare that this section shall apply to any particular weir or weirs specified in the order or to all the weirs in any particular area similarly specified.
+
+(2) Whenever this section is declared by an order under the foregoing sub-section of this section to apply to a weir, the following provisions shall have effect in respect of such weir, that is to say:—
+
+(*a*) the person owning or having control of such weir shall comply with all directions and instructions given to him from time to time by the Commissioners in relation to the management and working of the sluices and other movable parts of such weir;
+
+(*b*) if bye-laws are made under this Act by the Commissioners which are applicable to such weir, the person owning or having control of such weir shall in all respects observe and comply with those bye-laws;
+
+(*c*) if the person owning or having control of such weir fails or refuses to comply with or observe any direction, instruction, or bye-law which he is required by either of the foregoing paragraphs of this sub-section to comply with or observe, the following provisions shall apply and have effect, that is to say:—
+
+(i) such person shall be guilty of an offence under this sub-section and shall be liable on summary conviction thereof to a fine not exceeding F58[£1,500] together with, in the case of a continuing offence, a further fine not exceeding F59[£200] for every day during which the offence is continued, and
+
+(ii) it shall be lawful for the Commissioners to appoint a sluice-keeper or other person to regulate and control the movable portions of such weir and, where any such person is so appointed, it shall be lawful for the Commissioners to recover by civil action from the owner or person having control of such weir as a simple contract debt the remuneration paid by them to the sluice-keeper or other person so appointed.
+
+(3) The Commissioners shall not give any such instructions or directions as are mentioned in the next preceding sub-section of this section save, in the case of a weir affecting a fishery or fishing rights, after consultation with the Minister for Agriculture or, in the case of a weir affecting an industry, canal, or inland waterway, after consultation with the Minister for Industry and Commerce.
+
+(4) Every person who suffers loss or damage in respect of any water-power or other water-right or any fishery or fishing right by reason of an order made by the Minister under this section or of any such bye-laws as are referred to in *sub-section (2)* of this section shall, unless such loss or damage is due to his own act or default, be entitled (subject to the provisions of the next following sub-section of this section) to be paid by the Minister compensation in respect of such loss or damage.
+
+(5) Every claim for compensation under the next preceding sub-section of this section—
+
+(*a*) shall be made in writing to the Minister within one year after such loss or damage is suffered or, in the case of continuing loss or damage, is first suffered, and
+
+(*b*) F60[...]
+
+(6) No order made by the Minister under this section shall apply or have effect in relation to any weir which is for the time being owned or controlled by the Electricity Supply Board or any weir acquired by the Minister for Agriculture under the Fisheries Act 1939 (No. 17 of 1939).
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F58, F59: Substituted (17.07.1995) by *Arterial Drainage (Amendment) Act 1995* (14/1995), s. 14(1), (2) and table, commenced on enactment..
+>
+> F60: Repealed (17.07.1995) by *Arterial Drainage (Amendment) Act 1995* (14/1995), s. 15(a), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C17: Functions transferred and title of Minister for **Agriculture and Fisheries** construed as **Lands** (8.02.1977) by *Fisheries (Transfer of Departmental Administration and Ministerial Functions) Order 1977* (S.I. No. 30 of 1977), arts. 3, 4(1)(e), subject to transitional provisions in arts. 5-8.
+>
+> 3\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 4 of this Order are hereby transferred to the Department of Lands.
+>
+> (2) References to the Department of Agriculture and Fisheries contained in any Act or instrument made thereunder and relating to any administration and business transferred by paragraph (1) of this Article shall, on and after the commencement of this Order, be construed as references to the Department of Lands.
+>
+> 4\. (1) The functions vested in the Minister for Agriculture and Fisheries by or under the following Acts are hereby transferred to the Minister for Lands:
+>
+> ...
+>
+> (*e*) the Arterial Drainage Acts, 1945 and 1955,
+>
+> ...
+>
+> The history of the Ministers concerned with Agriculture aspects of Act can be traced as follows:
+>
+> • Functions transferred and title of Minister for **Agriculture** construed as **Lands** (9.04.1957) by *Fisheries (Transfer of Departmental Administration and Ministerial Functions) Order 1957* (S.I. No. 67 of 1957), in operation as per art. 1(2);
+>
+> • Functions transferred and title of Minister for **Lands** construed as **Agriculture** (3.05.1965) by *Fisheries (Transfer of Departmental Administration and Ministerial Functions) Order 1965* (S.I. No. 83 of 1965), in operation as per art. 1(2);
+>
+> • Title of Minister for **Agriculture** changed to **Agriculture and Fisheries** (6.07.1965) by *Agriculture (Alteration of Name of Department and Title of Minister) Order 1965* (S.I. No. 146 of 1965).
+>
+> • Functions transferred and title of Minister for **Agriculture and Fisheries** construed as **Lands** (8.02.1977) by *Fisheries (Transfer of Departmental Administration and Ministerial Functions) Order 1977* (S.I. No. 30 of 1997);
+>
+> • Title of Minister for **Lands** changed to **Fisheries** (9.02.1977) by *Lands (Alteration of Name of Department and Title of Minister) Order 1977* (S.I. No. 29 of 1977), in operation as per art. 1(2);
+>
+> • Title of Minister for **Fisheries** changed to **Fisheries and Forestry** (15.07.1978) by *Fisheries (Alteration of Name of Department and Title of Minister) Order 1978* (S.I. No. 195 of 1077), in operation as per art. 1(2);
+>
+> • Title of Minister for **Fisheries and Forestry** changed to **Tourism, Fisheries and Forestry** (19.02.1986) by *Fisheries and Forestry (Alteration of Name of Department and Title of Minister) Order 1986* (S.I. No. 40 of 1986), in operation as per art. 1(2);
+>
+> • Title of Minister for **Tourism, Fisheries and Forestry** changed to **Marine** (19.03.1987) by *Tourism, Fisheries and Forestry (Alteration of Name of Department and Title of Minister) Order 1987* (S.I. No. 82 of 1987), in operation as per art. 1(2);
+>
+> • Title of Minister for **Marine** changed to **Marine and Natural Resources** (12.07.1997) by *Marine (Alteration of Name of Department and Title of Minister) Order 1997* (S.I. No. 301 of 1997), in operation as per art. 1(2);
+>
+> • Title of Minister for **Marine and Natural Resources** changed to **Communications, Marine and Natural Resources** (19.06.2002) by *Marine and Natural Resources (Alteration of Name of Department and Title of Minister) Order 2002* (S.I. No. 307 of 2002), in operation as per art. 1(2);
+>
+> • Title of Minister for **Communications, Marine and Natural Resources** changed to **Communications, Energy and Natural Resources** (20.10.2007) by *Communications, Marine and Natural Resources (Alteration of Name of Department and Title of Minister) Order 2007* (S.I. No. 706 of 2007), in operation as per art. 1(2);
+>
+> • Title of Minister for **Communications, Energy and Natural Resources** changed to **Communications, Climate Action and Environment** (23.07.2016) by *Communications, Energy and Natural Resources (Alteration of Name of Department and Title of Minister) Order 2016* (S.I. No. 421 of 2016), in operation as per art. 1(2);
+>
+> • Title of Minister for **Communications, Climate Action and Environment** changed to **Environment, Climate and Communication** (24.09.2020) by *Communications, Climate Action and Environment (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 373 of 2020), in operation as per art. 1(2);
+>
+> • Title of Minister for **Environment, Climate and Communication** changed to **Climate, Energy and the Environment** (2.06.2025) by *Environment, Climate and Communications (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 235 of 2025), in operation as per art. 1(2).
+>
+> C18: The history of the Ministers concerned with Industry and Commerce aspects of section can be traced as follows:
+>
+> • Title of Minister for **Industry and Commerce** changed to **Industry, Commerce and Energy** (23.09.1977) by *Industry and Commerce (Alteration of Name of Department and Title of Minister) Order, 1977* (S.I. No. 306 of 1977), in operation as per art. 1(2);
+>
+> • Title of Minister for **Industry, Commerce and Energy** changed to **Industry, Commerce and Tourism** (23.01.1980) by *Industry, Commerce and Energy (Alteration of Name of Department and Title of Minister) Order 1980* (S.I. No. 10 of 1980), in operation as per art. 1(2);
+>
+> • Title of Minister for **Industry, Commerce and Tourism** changed to **Trade, Commerce and Tourism** (21.08.1981) by *Industry, Commerce and Tourism (Alteration of Name of Department and Title of Minister) Order 1981* (S.I. No. 290 of 1981), in operation as per art. 1(2);
+>
+> • Title of Minister for **Trade, Commerce and Tourism** changed to **Industry, Trade, Commerce and Tourism** (17.12.1983) by *Trade, Commerce and Tourism (Alteration of Name of Department and Title of Minister) Order 1983* (S.I. No. 384 of 1983), in operation as per art. 1(2);
+>
+> • Title of Minister for **Industry, Trade, Commerce and Tourism** changed to **Industry and Commerce** (19.02.1986) by *Industry, Trade, Commerce and Tourism (Alteration of Name of Department and Title of Minister) Order 1986* (S.I. No. 41 of 1986), in operation as per art. 1(2);
+>
+> • Title of Minister for **Industry and Commerce** changed to **Enterprise and Employment** (20.01.1993) by *Industry and Commerce (Alteration of Name of Department and Title of Minister) Order 1993* (S.I. No. 19 of 1993), in operation as per art. 1(2);
+>
+> • Title of Minister for **Enterprise and Employment** changed to **Enterprise, Trade and Employment** 912.07.1997) by *Enterprise and Employment (Alteration of Name of Department and Title of Minister) Order 1997* (s.I. No. 305 of 1997), in operation as per art. 1(2);
+>
+> • Title of Minister for **Enterprise, Trade and Employment** changed to **Enterprise, Trade and Innovation** (2.05.2010) by *Enterprise, Trade and Employment (Alteration of Name of Department and Title of Minister) Order 2010* (S.I. No. 185 of 2010), in operation as per art. 1(2);
+>
+> • Title of Minister for **Enterprise, Trade and Innovation** changed to **Jobs, Enterprise and Innovation** (2.06.2011) by *Enterprise, Trade and Innovation (Alteration of Name of Department and Title of Minister) Order 2011* (S.I. No. 245 of 2011), in operation as per art. 1(2);
+>
+> • Title of Minister for **Jobs, Enterprise and Innovation** changed to **Business, Enterprise and Innovation** (2.09.2017) by *Jobs, Enterprise and Innovation (Alteration of Name of Department and Title of Minister) Order 2017* (S.I. No. 364 of 2017), in operation as per art. 1(2);
+>
+> • Title of Minister for **Business, Enterprise and Innovation** changed to **Enterprise, Trade and Employment** (10.11.2020) by *Business, Enterprise and Innovation (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 519 of 2020), in operation as per art. 1(2);
+>
+> • Title of Minister for **Enterprise, Trade and Employment** changed to **Enterprise, Tourism and Employment** (2.06.2025) by *Enterprise, Trade and Employment (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 172 of 2025), in operation as per art. 1(2).
+>
+> **Editorial Notes:**
+>
+> E29: A fine of £1,500 mentioned in subs. (2)(c)(i) converted (1.01.1999) to €1,904.61. This translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(3) and table ref. no. 2, S.I. No. 662 of 2010.
+>
+> A fine of £200 mentioned in subs. (2)(c)(i) converted (1.01.1999) to €253.95. This translates into a Class E fine, not greater than €500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(3) and table ref. no. 2, S.I. No. 662 of 2010.
+
+### 47. Restrictions on the erection, alteration, etc., of weirs.
+
+**47.**—(1) It shall not be lawful for any person (other than the Electricity Supply Board), without or otherwise than in accordance with the consent of the Commissioners to erect, enlarge or alter any weir or other like construction in a watercourse where such erection, enlargement or alteration might cause flooding of any land unless—
+
+(*a*) such erection, enlargement or alteration is made in compliance with an order made or a notice served by the Minister for Agriculture under the Fisheries Act, 1939 (No. 17 of 1939), or
+
+(*b*) such land is in the occupation of such person, or
+
+(*c*) such land is in the occupation of other persons who have assented to such erection, enlargement or alteration.
+
+(2) When the Commissioners consent to the erection, enlargement, or alteration of a weir or other like construction, they may attach to such consent such conditions and restrictions as they think proper, and such conditions and restrictions shall be deemed to be part of such consent.
+
+(3) The following provisions shall apply and have effect in relation to consents by the Commissioners under the foregoing provisions of this section, that is to say:—
+
+(*a*) no such consent shall be given and no condition or restriction shall be attached to any such consent save after consultation with the Minister for Agriculture;
+
+(*b*) no such consent, condition, or restriction shall be contrary to or inconsistent with an order made or notice served under the Fisheries Act, 1939 (No. 17 of 1939), and for the time being in force;
+
+(*c*) no such consent shall operate to relieve the grantee thereof from compliance with the Fisheries Acts, 1842 to 1944.
+
+(4) If any person erects, enlarges, or alters a weir in contravention of this section, he shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding F61[£1,500] together with a further fine not exceeding F62[£200] for every day during which such erection, enlargement, or alteration or any part thereof is maintained.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F61, F62: Substituted (17.07.1995) by *Arterial Drainage (Amendment) Act 1995* (14/1995), s. 14(1), (2) and table, commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C19: Functions transferred and title of Minister for **Agriculture and Fisheries** construed as **Lands** (8.02.1977) by *Fisheries (Transfer of Departmental Administration and Ministerial Functions) Order 1977* (S.I. No. 30 of 1977), arts. 3, 4(1)(e), subject to transitional provisions in arts. 5-8.
+>
+> 3\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 4 of this Order are hereby transferred to the Department of Lands.
+>
+> (2) References to the Department of Agriculture and Fisheries contained in any Act or instrument made thereunder and relating to any administration and business transferred by paragraph (1) of this Article shall, on and after the commencement of this Order, be construed as references to the Department of Lands.
+>
+> 4\. (1) The functions vested in the Minister for Agriculture and Fisheries by or under the following Acts are hereby transferred to the Minister for Lands:
+>
+> ...
+>
+> (*e*) the Arterial Drainage Acts, 1945 and 1955,
+>
+> ...
+>
+> The history of the Ministers concerned with Agriculture aspects of Act can be traced as follows:
+>
+> • Functions transferred and title of Minister for **Agriculture** construed as **Lands** (9.04.1957) by *Fisheries (Transfer of Departmental Administration and Ministerial Functions) Order 1957* (S.I. No. 67 of 1957), in operation as per art. 1(2);
+>
+> • Functions transferred and title of Minister for **Lands** construed as **Agriculture** (3.05.1965) by *Fisheries (Transfer of Departmental Administration and Ministerial Functions) Order 1965* (S.I. No. 83 of 1965), in operation as per art. 1(2);
+>
+> • Title of Minister for **Agriculture** changed to **Agriculture and Fisheries** (6.07.1965) by *Agriculture (Alteration of Name of Department and Title of Minister) Order 1965* (S.I. No. 146 of 1965).
+>
+> • Functions transferred and title of Minister for **Agriculture and Fisheries** construed as **Lands** (8.02.1977) by *Fisheries (Transfer of Departmental Administration and Ministerial Functions) Order 1977* (S.I. No. 30 of 1997);
+>
+> • Title of Minister for **Lands** changed to **Fisheries** (9.02.1977) by *Lands (Alteration of Name of Department and Title of Minister) Order 1977* (S.I. No. 29 of 1977), in operation as per art. 1(2);
+>
+> • Title of Minister for **Fisheries** changed to **Fisheries and Forestry** (15.07.1978) by *Fisheries (Alteration of Name of Department and Title of Minister) Order 1978* (S.I. No. 195 of 1077), in operation as per art. 1(2);
+>
+> • Title of Minister for **Fisheries and Forestry** changed to **Tourism, Fisheries and Forestry** (19.02.1986) by *Fisheries and Forestry (Alteration of Name of Department and Title of Minister) Order 1986* (S.I. No. 40 of 1986), in operation as per art. 1(2);
+>
+> • Title of Minister for **Tourism, Fisheries and Forestry** changed to **Marine** (19.03.1987) by *Tourism, Fisheries and Forestry (Alteration of Name of Department and Title of Minister) Order 1987* (S.I. No. 82 of 1987), in operation as per art. 1(2);
+>
+> • Title of Minister for **Marine** changed to **Marine and Natural Resources** (12.07.1997) by *Marine (Alteration of Name of Department and Title of Minister) Order 1997* (S.I. No. 301 of 1997), in operation as per art. 1(2);
+>
+> • Title of Minister for **Marine and Natural Resources** changed to **Communications, Marine and Natural Resources** (19.06.2002) by *Marine and Natural Resources (Alteration of Name of Department and Title of Minister) Order 2002* (S.I. No. 307 of 2002), in operation as per art. 1(2);
+>
+> • Title of Minister for **Communications, Marine and Natural Resources** changed to **Communications, Energy and Natural Resources** (20.10.2007) by *Communications, Marine and Natural Resources (Alteration of Name of Department and Title of Minister) Order 2007* (S.I. No. 706 of 2007), in operation as per art. 1(2);
+>
+> • Title of Minister for **Communications, Energy and Natural Resources** changed to **Communications, Climate Action and Environment** (23.07.2016) by *Communications, Energy and Natural Resources (Alteration of Name of Department and Title of Minister) Order 2016* (S.I. No. 421 of 2016), in operation as per art. 1(2);
+>
+> • Title of Minister for **Communications, Climate Action and Environment** changed to **Environment, Climate and Communication** (24.09.2020) by *Communications, Climate Action and Environment (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 373 of 2020), in operation as per art. 1(2);
+>
+> • Title of Minister for **Environment, Climate and Communication** changed to **Climate, Energy and the Environment** (2.06.2025) by *Environment, Climate and Communications (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 235 of 2025), in operation as per art. 1(2).
+>
+> **Editorial Notes:**
+>
+> E30: A fine of £1,500 mentioned in subs. (4) converted (1.01.1999) to €1,904.61. This translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(3) and table ref. no. 2, S.I. No. 662 of 2010.
+>
+> A fine of £200 mentioned in subs. (4) converted (1.01.1999) to €253.95. This translates into a Class E fine, not greater than €500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(3) and table ref. no. 2, S.I. No. 662 of 2010.
+
+### 48. Power of the Commissioners to compel repair of watercourses.
+
+**48.**—(1) It shall be lawful for the Commissioners, by notice in writing served personally or by post on an occupier of land (whether such land is within an existing drainage district or a drainage district constituted under this Act or is not within any such district), to require such occupier, within such time (not being less than three months from the service of such notice) as shall be specified in such notice, to restore, open up, and generally put into proper repair and effective condition such watercourse or watercourses on the said lands as is or are specified in such notice and is or are not included in any existing drainage works or any drainage works constructed under this Act, but which discharges or discharge into an existing drainage district or a drainage district constituted under this Act and is or are, in the opinion of the Commissioners, incapable, by reason of neglect of or inadequate maintenance, of efficiently discharging the water passing into or through it or them from adjoining land.
+
+(2) Whenever a notice under the foregoing sub-section of this section has been served on a person, the following provisions shall apply and have effect, that is to say:—
+
+(*a*) such person (in this sub-section referred to as the objector) may, within one month after the service of such notice on him, send to the Commissioners an objection in writing to such notice;
+
+(*b*) every such objection shall contain a full statement of the grounds on which the objection is based;
+
+(*c*) the Commissioners shall consider every such objection duly sent to them in accordance with the foregoing paragraphs of this sub-section and shall do, in respect of each such objection, whichever of the following things shall appear to them to be proper having regard to all the circumstances of the case and in particular whether compliance with the notice to which such objection relates would or would not cause undue hardship or expense to the objector, that is to say:—
+
+(i) withdraw the said notice unconditionally, or
+
+(ii) if the objector is willing to give to the Commissioners a written undertaking (in a form approved of by the Commissioners) that he will at all reasonable times permit any occupier from whose land water passes into the watercourse or any of the watercourses specified in the said notice to enter upon the objector's land and there do, at such occupier's own expense, all such things as may be necessary for compliance with the said notice, withdraw the said notice upon such undertaking being duly given by the objector, or
+
+(iii) disallow such objection;
+
+(*d*) whenever the Commissioners disallow an objection, they shall amend the notice to which such objection relates by extending for such period as they think proper, the period specified in such notice for compliance therewith;
+
+(*e*) the Commissioners shall as soon as may be inform the objector of their decision on his objection;
+
+(*f*) whenever the Commissioners disallow an objection, the objector may, within fourteen days after being informed by the Commissioners of their decision on such objection, require in writing the Commissioners to refer his objection to an arbitrator appointed by the Reference Committee from the Panel of Drainage Arbitrators, and thereupon the Commissioners shall so refer such objection;
+
+(*g*) the arbitrator to whom an objection is referred under the next preceding paragraph of this sub-section shall have the like powers in regard to such objection as are conferred by this sub-section on the Commissioners, and the decision of such arbitrator shall be final and conclusive.
+
+(3) Where a notice has been served under this section on an occupier of land and has not been withdrawn by the Commissioners or by the arbitrator and such occupier has failed to comply with such notice, it shall be lawful for the Commissioners to enter on the said land and there do all such things as such occupier was required by such notice to do and, where the Commissioners have exercised that power, they shall be entitled to recover from such occupier in any court of competent jurisdiction as a simple contract debt such sum as the Commissioners shall certify to be the expense incurred by them in the exercise of the said power.
+
+(4) Where a notice has been served under this section on an occupier of land and such notice has been complied with (whether by such occupier or by the Commissioners under the next preceding sub-section of this section) such occupier shall thereafter keep the watercourse or watercourses to which such notice related clean and open and maintain it or them in proper repair and efficient condition.
+
+(5) If any person on whom a notice has been served under this section fails to comply with such notice or fails to keep and maintain any watercourse to which such notice related as he is required by this section to do, he shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding F63[£1,500] together with a further fine not exceeding F64[£200] for every day during which the offence continues.
+
+(6) Expenses recoverable under this section by the Commissioners from an occupier of land shall be so recoverable whether such occupier has or has not been prosecuted for such (if any) offence under this section as he may have committed.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F63, F64: Substituted (17.07.1995) by *Arterial Drainage (Amendment) Act 1995* (14/1995), s. 14(1),(2), table.
+>
+> **Editorial Notes:**
+>
+> E31: A fine of £1,500 mentioned in subs. (5) converted (1.01.1999) to €1,904.61. This translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(3) and table ref. no. 2, S.I. No. 662 of 2010.
+>
+> A fine of £200 mentioned in subs. (5) converted (1.01.1999) to €253.95. This translates into a Class E fine, not greater than €500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(3) and table ref. no. 2, S.I. No. 662 of 2010.
+
+### 49. Compulsory drainage orders.
+
+**49.**—(1) Any Minister of State or any council of a county may at any time make to the Commissioners a representation (in this section referred to as an originating representation) in writing claiming—
+
+(*a*) that it is essential for the improvement by drainage of specified land, situate, in the case of a representation by a Minister of State, anywhere in the State or, in the case of a representation by the council of a county, anywhere in that county, either that a specified existing watercourse delineated on a map attached to the representation and not included in any existing drainage works or any drainage works executed or proposed to be executed under this Act be restored, opened up, or generally put into proper repair and effective condition or that a new watercourse be constructed in a position delineated on a map attached to the representation, and
+
+(*b*) that the money required to meet the cost of the work of restoring, opening up, or generally putting into proper repair and effective condition the existing watercourse mentioned in the representation or of constructing the new watercourse similarly mentioned (as the case may be) has been provided, and
+
+(*c*) that the execution of the said work is being impeded or prevented solely by reason of the unreasonable withholding by any owner or occupier of land traversed by the existing watercourse or the proposed new watercourse (as the case may be) mentioned in the representation of his consent to the execution of the said work.
+
+(2) Every originating representation shall set out fully the names and postal addresses of all owners or occupiers of land (in this section referred to as the objecting parties) who are stated therein to be unreasonably withholding their consent to the work mentioned in such representation.
+
+(3) As soon as may be after the receipt by the Commissioners of an originating representation, the Commissioners shall serve personally or by post on every objecting party named in such representation a notice in writing setting out the claims made in such representation and stating that such objecting party may, within one month after the service of such notice on him, send to the Commissioners all (if any) such observations as he may think proper to make in regard to the said claims.
+
+(4) The Commissioners shall consider every observation sent to them by an objecting party within the time limited in that behalf by the next preceding sub-section of this section and may, if they so think proper in respect of any particular observation, cause an inspection to be made by one of their officers of the land owned or occupied by the objecting party who sent such observation and of the land specified in the originating representation to which such observation relates and of the existing watercourse or the site of the proposed new watercourse (as the case may be) mentioned in such representation.
+
+(5) If none of the objecting parties named in an originating representation sends to the Commissioners, within the time limited in that behalf by such representation, any observation in regard to the claims made by such representation or if the Commissioners, after considering all such observations sent to them within the said time and considering the report of their officer making such (if any) inspection as aforesaid in respect of such observations or any of them are satisfied that the work mentioned in such representation (with such additions, omissions, and variations (if any) as the Commissioners may deem necessary or expedient) are essential for the improvement by drainage of the land specified in such representation, and that the money required to meet the cost of such work (with such additions, omissions, and variations as aforesaid) has been provided, and that no substantial injury or damage will be caused to any objecting party by the execution of such work (with such additions, omissions, and variations as aforesaid), it shall be lawful for the Commissioners to make an order (in this section referred to as a compulsory drainage order) authorising the execution of the work mentioned in such representation by or on behalf of the Minister or the council (as the case may be) by whom such representation was made.
+
+(6) As soon as may be after making a compulsory drainage order the Commissioners shall—
+
+(*a*) notify the Minister or the council (as the case may be) who made the originating representation pursuant to which such order was made of the making of such order, and
+
+(*b*) serve personally or by post on every objecting party named in such originating representation a copy of such order sealed with the seal of the Commissioners.
+
+(7) A compulsory drainage order shall operate to empower the Minister or the council (as the case may be) who made the originating representation pursuant to which such order was made to enter by himself or themselves or his or their officers, servants, or agents upon the land specified in such representation (including land owned or occupied by objecting parties named in such representation) and there do by himself or themselves or his or their officers, servants, or agents all such things as may be necessary for the execution of the work mentioned in such order.
+
+(8) No action or other proceeding for damages, compensation, or otherwise shall lie against a Minister of State or the council of a county or any of his or their officers, servants, or agents for or in respect of anything done by him or them or any of them in the execution of work authorised by or the exercise of a power conferred by a compulsory drainage order save only if and so far as it may be shown that such work was not executed or such power was not exercised in a reasonable and workmanlike manner.
+
+(9) Every person who—
+
+(*a*) wilfully obstructs a Minister of State or the council of a county or any of his or their officers, servants, or agents in the execution of work authorised by or the exercise of a power conferred by a compulsory drainage order, or
+
+(*b*) pulls down, removes, or injures any work or any part of any work executed or in course of execution under a compulsory drainage order, or
+
+(*c*) obstructs in any way the flow of water to, through, or from any work executed under a compulsory drainage order,
+
+shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding F65[£1,500] or, at the discretion of the courts to imprisonment for a term not exceeding six months, or to both such fine and such imprisonment, and shall also be liable, in the case of a continuing offence, to a fine not exceeding F66[£200] for every day during which the offence is continued.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F65, F66: Substituted (17.07.1995) by *Arterial Drainage (Amendment) Act 1995* (14/1995), s. 14(1), (2) and table, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E32: A fine of £1,500 mentioned in subs. (9) converted (1.01.1999) to €1,904.61. This translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(3) and table ref. no. 2, S.I. No. 662 of 2010.
+>
+> A fine of £200 mentioned in subs. (9) converted (1.01.1999) to €253.95. This translates into a Class E fine, not greater than €500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(3) and table ref. no. 2, S.I. No. 662 of 2010.
+
+### 50. Restrictions on the construction or alteration of bridges.
+
+**50.**—(1) No local authority, no railway company, canal company, or other similar body, and no industrial concern shall construct any new bridge or alter, reconstruct, or restore any existing bridge over any watercourse without the consent of the Commissioners or otherwise than in accordance with plans previously approved of by the Commissioners.
+
+(2) If any person shall construct or begin to construct or partially construct a new bridge in contravention of this section, the Commissioners may serve by post on such person a notice requiring him—
+
+(*a*) if such bridge has not been completely constructed, to desist forthwith from the construction thereof,
+
+(*b*) in any case, to remove, within a time specified in that behalf in such notice, such bridge or so much thereof as shall have been constructed.
+
+(3) If any person shall alter, reconstruct, or restore an existing bridge in contravention of this section or shall begin so to do or shall partially so do, the Commissioners may serve by post on such person a notice requiring him—
+
+(*a*) if such alteration, reconstruction, or restoration has not been completed, to desist forthwith therefrom, or
+
+(*b*) in any case, to remove, within a time specified in that behalf in such notice, all work done on such bridge, or
+
+(*c*) in any case, within a time specified in that behalf in such notice, to restore such bridge to its original condition.
+
+(4) If any person on whom a notice has been served by the Commissioners under the foregoing provisions of this section fails to comply with such notice, the following provisions shall apply and have effect, that is to say:—
+
+(*a*) such person shall be guilty of an offence under this section and shall be liable, on summary conviction thereof, to a fine not exceeding F67[£1,500] together with a further fine not exceeding F68[£200] for every day during which such failure is continued;
+
+(*b*) it shall be lawful for the Commissioners (whether such person has or has not been prosecuted under the foregoing paragraph of this sub-section) to enter upon and remove all work done in contravention of this section and to recover from such person in any court of competent jurisdiction as a simple contract debt the expenses (as certified by the Commissioners) incurred by the Commissioners in effecting such removal.
+
+(5) Any person who claims that the Commissioners have unreasonably refused their approval of plans submitted by him for the construction of a new bridge or the alteration, reconstruction, or restoration of an existing bridge may, by notice in writing to the Commissioners, require such claim to be referred under this sub-section and thereupon—
+
+(*a*) if such person is a local authority, such claim shall be referred to the Minister for Local Government and Public Health, whose decision thereon shall be final, or
+
+(*b*) in any other case, such claim shall be referred to an arbitrator appointed by the Reference Committee from the Panel of Drainage Arbitrators whose decision thereon shall be final and conclusive.
+
+(6) In this section, the word “bridge” includes a culvert or other like structure.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F67, F68: Substituted (17.07.1995) by *Arterial Drainage (Amendment) Act 1995* (14/1995), s. 14(1), (2) and table, commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C20: Functions transferred and references Minister for the Environment, Heritage and Local Governement construed as Transport (1.01.2008) by *Roads and Road Vehicles (Transfer of Departmental Administration and Ministerial Functions) Order 2007* (S.I. No. 815 of 2007), arts. 2, 3(1)(a) and sch. part 1, in operation as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Transport.
+>
+> (2) References to the Department of the Environment, Heritage and Local Government contained in any Act or instrument made under such Act and relating to any administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Transport.
+>
+> 3\. (1) The functions vested in the Minister for the Environment, Heritage and Local Government by or under—
+>
+> (a) an Act set out in the first column of Part 1 of the Schedule, and
+>
+> ...
+>
+> are transferred to the Minister for Transport to the extent specified in the second column of the Part concerned opposite the mention of Act or statutory instrument (as the case may be) so set out.
+>
+> SCHEDULE
+>
+> Acts, certain functions under which are transferred from the Minister for the Environment, Heritage and Local Government to the Minister for Transport
+>
+> Part 1
+>
+> <table><tr><td>Short Title of Act and number</td><td>Extent of transfer of functions to the Minister for Transport</td></tr><tr><td>Arterial Drainage Act 1945 (No. 3 of 1945)</td><td>Section 50</td></tr><tr><td>...</td><td>...</td></tr></table>
+>
+> The history of the Minister for Transport since 2008 can be traced as follows:
+>
+> • Title of Minister for **Transport** changed to **Transport, Tourism and Sport** (2.04.2011) by *Transport (Alteration of Name of Department and Title of Minister) Order 2011* (S.I. No. 141 of 2011), in operation as per art. 1(2);
+>
+> • Title of Minister for **Transport, Tourism and Sport** changed to **Transport** (17.09.2020) by *Transport, Tourism and Sport (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 351 of 2020), in operation as per art. 1(2).
+>
+> **Editorial Notes:**
+>
+> E33: A fine of £1,500 mentioned in subs. (4)(a) converted (1.01.1999) to €1,904.61. This translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(3) and table ref. no. 2, S.I. No. 662 of 2010.
+>
+> A fine of £200 mentioned in subs. (4)(a) converted (1.01.1999) to €253.95. This translates into a Class E fine, not greater than €500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(3) and table ref. no. 2, S.I. No. 662 of 2010.
+
+### 51. Protection of the Commissioners from certain liabilities.
+
+**51.**—(1) Nothing contained in this Act nor anything done by the Commissioners thereunder nor any direction or instruction given by the Commissioners under this Act nor anything done under any such instruction or direction shall operate to relieve the owner of a weir, sluice, dam, or other work connected with a mill or factory from any responsibility, however imposed or arising, for the maintenance of or otherwise relating to such work or operate to transfer any such responsibility from such owner to the Commissioners.
+
+(2) Nothing contained in this Act nor anything done by the Commissioners thereunder shall operate to render the Commissioners liable (save where it is proved that their officers, servants, or agents have been guilty of carelessness or neglect) for any damage which may happen to any land or other property through or by the overflowing of any river, stream, or watercourse or through or by the sudden breaking of any bank, dam, weir, sluice, or other work constructed by the Commissioners under this Act or for the maintenance of which they are responsible under this Act.
+
+### 52. Offences and penalties.
+
+**52.**—(1) Every person who shall do any of the following things shall be guilty of an offence under this section, that is to say:—
+
+(*a*) wilfully obstruct the Commissioners or any of their officers, agents, or servants in the exercise of any of the powers or the performance of any of the duties conferred or imposed on the Commissioners or any of their officers, agents, or servants by or under this Act, or
+
+(*b*) pull down, remove, or injure any works constructed or in course of construction by the Commissioners under this Act or transferred to the Commissioners by or under this Act, or
+
+(*c*) remove, injure, or deface any poles, pegs, marks, or other similar things erected, placed, or made by the Commissioners or any of their officers, agents, or servants for the purpose or in the course of the exercise of any of the powers or the performance of any of the duties conferred or imposed on the Commissioners or any of their officers, agents, or servants by or under this Act, or
+
+(*d*) throw or put any weeds or any stones, soil or other solid matter or cause or permit any weeds or any such solid matter to fall or pass into any watercourse in respect of which any works have been constructed by or transferred to the Commissioners or are about to be or are being constructed under this Act so as to cause obstruction, hindrance, or delay in the construction or operation of such works, or
+
+(*e*) without the consent of the Commissioners, place or erect any dam, weir, or other obstruction in any watercourse in respect of which any works have been constructed by or transferred to the Commissioners or are about to be or are being constructed under this Act, or
+
+(*f*) obstruct the flow of water to, through, or from any drainage works constructed by or transferred to the Commissioners by or under this Act so as to prevent or hinder the efficient operation of such works or to cause flooding of such works or of any land drained thereby.
+
+(2) Every person guilty of an offence under this section shall, on summary conviction thereof, be liable to a fine not exceeding F69[£1,500] or, in the discretion of the Court, to imprisonment for a term not exceeding six months or to both such fine and such imprisonment and shall also be liable, in the case of a continuing offence, to a fine not exceeding F70[£200] for every day during which the offence is continued.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F69, F70: Substituted (17.07.1995) by *Arterial Drainage (Amendment) Act 1995* (14/1995), s. 14(1),(2), table.
+>
+> **Editorial Notes:**
+>
+> E34: A fine of £1,500 mentioned in subs. (2) converted (1.01.1999) to €1,904.61. This translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(3) and table ref. no. 2, S.I. No. 662 of 2010.
+>
+> A fine of £200 mentioned in subs. (2) converted (1.01.1999) to €253.95. This translates into a Class E fine, not greater than €500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(3) and table ref. no. 2, S.I. No. 662 of 2010.
+
+### 53. Bye-Laws.
+
+**53.**—(1) In this section the expression “drainage works” shall be construed and have effect as including an existing embankment the control and management of which is for the time being vested in the Commissioners by virtue of a transfer order under Part IV of this Act.
+
+(2) The Commissioners may make such bye-laws as they shall consider necessary or expedient for securing the protection and efficient functioning of drainage works constructed or in course of construction by them under this Act or the control and management of which is transferred to them by or under this Act and, in particular and without prejudice to the generality of the foregoing power, the Commissioners may make bye-laws for all or any of the following purposes, that is to say:—
+
+(*a*) regulating generally the management and operation of the drainage works to which the bye-laws apply;
+
+(*b*) regulating and controlling the use and preventing the improper use of or damage to watercourses, banks, and other works comprised in or forming part of such drainage works;
+
+(*c*) regulating the opening, closing, and working of sluices, hatches, flood gates, pumps, and other machinery comprised in or forming part of such drainage works;
+
+(*d*) prohibiting any such obstruction or pollution of or any such putting of solid matter into a watercourse flowing to, through, or from such drainage works as prevents or hinders or is likely to prevent or hinder the efficient operation of such drainage works or causes or is likely to cause flooding of land drained or protected by such drainage works;
+
+(*e*) prohibiting the doing of any injury or damage to such drainage works;
+
+(*f*) prohibiting any interference with such drainage works by unauthorised persons;
+
+(*g*) compelling persons liable to maintain a watercourse to keep such watercourse cleaned and scoured.
+
+(3) Bye-laws made under this section may relate and be made applicable to all drainage works for the time being constructed or in the course of construction by the Commissioners under this Act or the control and management of which is transferred to the Commissioners by or under this Act or may relate and be made applicable only to one or more particular such drainage works.
+
+(4) No bye-law made under this section shall be of any force or effect unless or until it has been confirmed by the Minister.
+
+(5) Where the Minister confirms a bye-law made under this section, notice of such confirmation shall be published in the *Iris Oifigiúil* and in one or more newspapers circulating in the district in which the drainage works to which the bye-law relates are situate.
+
+(6) The Minister may by order, whenever he so thinks proper, amend or revoke any bye-law made by the Commissioners under this section notwithstanding that such bye-law has been confirmed by him.
+
+(7) A document purporting to be a copy of a bye-law made under this section and having endorsed on it a certificate purporting to be sealed with the seal of the Commissioners declaring it to be a true copy of such bye-law shall be received in evidence in any proceedings (whether civil or criminal) in any Court as conclusive evidence of the contents of such bye-law and that it was duly made and approved of in accordance with this section and is in force.
+
+(8) Every person who shall, by act or omission, contravene a bye-law made under this section and in force shall· be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding F71[£1,500], together with, in the case of a continuing offence, a further fine not exceeding F72[£200] for every day during which the offence is continued.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F71, F72: Substituted (17.07.1995) by *Arterial Drainage (Amendment) Act 1995* (14/1995), s. 14(1),(2), table.
+>
+> **Editorial Notes:**
+>
+> E35: A fine of £1,500 mentioned in subs. (8) converted (1.01.1999) to €1,904.61. This translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(3) and table ref. no. 2, S.I. No. 662 of 2010.
+>
+> A fine of £200 mentioned in subs. (8) converted (1.01.1999) to €253.95. This translates into a Class E fine, not greater than €500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(3) and table ref. no. 2, S.I. No. 662 of 2010.
+
+### 54. Apportionment of land purchase annuities, etc.
+
+**54.**—Whenever land acquired by the Commissioners under this Act is subject, in conjunction with other land, to a land purchase annuity or other annual payment payable to the Irish Land Commission or to the Commissioners, the Irish Land Commission or the Commissioners (as the case may be) may apportion such annuity or annual payment in such manner as they consider proper between the land so acquired and such other land or may charge the whole of such annuity or annual payment on any part of the land subject thereto in exoneration of the residue of such land.
+
+### 55. Provisions in respect of the District of Fergus.
+
+**55.**—(1) In this section the expression “the Fergus Act” means the District of Fergus Drainage Act, 1943 (No. 13 of 1943).
+
+(2) Nothing in this Act shall operate to prevent or prejudice the execution by the Commissioners in pursuance of section 5 of the Fergus Act of the works mentioned in that section.
+
+(3) If the automatic tidal sluice or sluices at Clarecastle Bridge or the alternative safeguard in lieu thereof included in the works specified in Clause (D) of paragraph 2 of the Scheduled Consent has not or have not been provided at the date upon which the remaining works specified in that Clause and in Clause (F) of the said paragraph 2 have been completed—
+
+(*a*) sub-section (2) of section 5 of the Fergus Act shall have effect as if it enabled a separate certificate of completion to be given in accordance with that sub-section in respect of the works specified in the said Clauses (D) and (F) other than the provision of the said sluice, sluices or alternative safeguard and a separate certificate of completion to be given (whether by the same or a different engineer) in accordance with that sub-section at a subsequent date in respect of the provision of the said sluice, sluices or alternative safeguard,
+
+(*b*) each certificate given by virtue of paragraph (*a*) of this sub-section shall be conclusive evidence for all purposes of the completion of the works specified therein in accordance with the Scheduled Consent,
+
+(*c*) sub-section (2) of section 6 of the Fergus Act shall have effect as if it enabled the order to be made by the Commissioners amending Schedule B to the Final Award dated the 30th day of October, 1860, to be made on the completion of the new works other than the provision of the said sluice, sluices or alternative safeguard and a separate order to be made by the Commissioners at a subsequent date further amending the said Schedule B by the addition thereto of the said sluice, sluices or alternative safeguard,
+
+(*d*) sub-section (1) of section 6 of the Fergus Act shall have effect from the making of the first order referred to in paragraph (*c*) of this sub-section until the making of the second order therein referred to as if the reference in that sub-section to the works specified in Clauses (D) and (F) of paragraph 2 of the Scheduled Consent were a reference to those works other than the said sluice, sluices or alternative safeguard.
+
+(4) Sub-section (2) of section 7 of the Fergus Act is hereby repealed and in lieu thereof it is hereby enacted that the following provisions shall apply and have effect in relation to the charging order to be made by the Commissioners in pursuance of sub-section (1) of that section, that is to say:—
+
+(*a*) the Commissioners shall apportion the charged sums (as defined in sub-section (1) of the said section 7) between the Clare Council and the Galway Council and shall state such apportionment in the said charging order;
+
+(*b*) in making the said apportionment of the charged sums, the Commissioners shall have due regard to the proportions in which the several lots or parcels of land comprised in the lands drained or improved specified in Schedule A to the Final Award dated the 30th day of October, 1860, (other than and excepting the lands described in the Second Schedule to the Fergus Act) are situate in the County of Clare and in the County of Galway respectively, and shall also have due regard to the fact that the said lands described in the said Second Schedule are excluded;
+
+(*c*) in making the said apportionment the Commissioners may have regard to the copies in their possession of the maps, valuers' books, and other documents prepared in connection with the formation of the Fergus District;
+
+(*d*) the said charging order shall be expressed and shall operate to charge the county fund of the Clare Council with the payment, at the times and in the manner stated in the said charging order, to the Commissioners of the portion of the charged sums apportioned as aforesaid to the Clare Council and the interest on that portion of the charged sums;
+
+(*e*) the said charging order shall also be expressed and shall operate to charge the county fund of the Galway Council with the payment, at the times and in the manner stated in the said charging order, to the Commissioners of the portion of the charged sums apportioned as aforesaid to the Galway Council and the interest on that portion of the charged sums.
+
+(5) The portion of sub-section (6) of section 7 of the Fergus Act beginning with the words “shall be so paid” and ending with the words “the deficiency” is hereby repealed.
+
+(6) Section 8 of the Fergus Act is hereby repealed and in lieu thereof it is hereby enacted that as on and from the date of the charging order under that Act the costs and expenses incurred by the Councils in the maintenance of the drainage works of the Fergus District shall be defrayed by the Councils in the proportions in which the charged sums are charged on their respective county funds by the said order and shall be raised by the Councils respectively by means of the poor rate as a county-at-large charge.
+
+(7) This section shall be read and construed with the Fergus Act as one enactment and accordingly every word and expression used in this section to which a particular meaning is assigned by the Fergus Act for the purposes of that Act shall have in this section the meaning so assigned to it.
+
+### 56. Provisions in respect of the drainage schemes in the Third Schedule.
+
+**56.**—The following provisions shall apply and have effect in relation to the several drainage schemes specified in the Third Schedule to this Act (being drainage schemes prepared under the Arterial Drainage Act, 1925 (No. 33 of 1925), but not fully completed before the passing of this Act), that is to say:—
+
+(*a*) the said drainage schemes shall not be completed and no further steps shall be taken in regard thereto;
+
+(*b*) notwithstanding anything contained in sub-section (4) of section 6 of the said Arterial Drainage Act, 1925, the expenses mentioned in that sub-section incurred by the Commissioners in relation to the said drainage schemes respectively shall be defrayed wholly out of moneys provided by the Oireachtas, and accordingly the several county councils concerned shall be and are hereby relieved from the obligation imposed on them respectively by the said sub-section to defray one-third of the said expenses.
+
+### 57. Drainage districts partly outside the State.
+
+**57.**—(1) This section applies as on and from the day appointed under section 21 of this Act to every drainage district which would be an existing drainage district for the purposes of this Act but for the fact that it is situate partly within and partly outside the State.
+
+(2) Every person rated in respect of land situate in the State to drainage rate in a drainage district to which this section applies who pays in any year the drainage rate to which he is so rated for that year in respect of that land shall be entitled, on presenting to the council of the county in which such land is situate the receipt for the drainage rate so paid by him, to whichever of the following reliefs is applicable, that is to say:—
+
+(*a*) if he is rated to the poor rate payable in that year in respect of the said land and has already paid such poor rate or if he is not rated to such poor rate in respect of the said land, to be repaid by such council the amount of the drainage rate shown by such receipt to have been so paid, or
+
+(*b*) if he is rated to the said poor rate payable in that year in respect of the said land and has not paid to such council the said poor rate, to receive from such council a note (in this section referred to as a credit note) entitling him to credit as against such poor rate for the amount of the drainage rate shown by such receipt to have been so paid.
+
+(3) Where a person who is the occupier of land (situate in the State) which is rated to drainage rate in a drainage district to which this section applies but is not himself rated to such drainage rate in respect of such land pays in any year the said drainage rate in respect of the said land, the following provisions shall apply and have effect, that is to say:—
+
+(*a*) such occupier shall be entitled to relief under the next preceding sub-section of this section as if he had been rated to the said drainage rate in that year in respect of the said land;
+
+(*b*) the person actually rated to the said drainage rate in that year in respect of the said land shall not be entitled to relief under the said sub-section;
+
+(*c*) such occupier shall not be entitled to recover the said drainage rate so paid by him or any part thereof from the said person so actually rated thereto.
+
+(4) A credit note issued under this section shall, when tendered by the person to whom it was issued to the council by whom it was issued, be received by such council in payment of such amount of the poor rate to which it relates as is equal to the amount of drainage rate for which it was so issued.
+
+(5) The moneys required by the council of a county for giving to any person any relief to which he is entitled under this section shall be raised by such council by means of the poor rate as a county-at-large charge.
+
+(6) The Commissioners may, with the consent of the Minister, enter into an agreement with the council (in this section referred to as the external council) of the county in which is situate so much of a drainage district to which this section applies as is outside the State providing for the control and management of such drainage district and the maintenance of the drainage works therein by the Commissioners and the external council jointly.
+
+(7) When the Minister is satisfied that an agreement made under the next preceding sub-section of this section in respect of a drainage district to which this section applies has the force of law in the area in which is situate the portion of such drainage district outside the State, the Minister shall by order confirm such agreement and thereupon such agreement shall have the force of law within the State.
+
+(8) The Minister may, by the order confirming an agreement under this section, make such provisions (including modifications of the provisions of this Act) as appear to him to be necessary in connection with or in consequence of such agreement.
+
+### 58. Provision in respect of certain drainage schemes under the Arterial Drainage Acts, 1925 and 1929.
+
+**58.**—(1) In this section—
+
+the expression “the Act of 1925” means the Arterial Drainage Act, 1925 (No. 33 of 1925), and the expression “the Act of 1929” means the Arterial Drainage (Amendment) Act, 1929 (No. 18 of 1929).
+
+(2) Notwithstanding anything to the contrary contained in the Act of 1925, the following provisions shall apply and have effect in relation to the Mulkear and Cappamore Drainage Scheme (in this sub-section referred to as the Scheme) prepared by the Commissioners under the said Act and confirmed by the Minister for Finance on the 20th day of October, 1933, that is to say:—
+
+(*a*) section 14 and sub-sections (1) to (4) of section 15 of the Act of 1925 shall not apply or have effect in relation to the Scheme;
+
+(*b*) as soon as may be after the passing of this Act, the Commissioners shall prepare a final award in respect of the Scheme;
+
+(*c*) the Commissioners shall, in and by the said final award, declare—
+
+(i) that the total amount of the costs and expenses incurred by the Commissioners in the execution of works in pursuance of the Scheme and generally in carrying out the Scheme is the sum of thirty-six thousand, nine hundred, and fifty-one pounds, and four pence, and
+
+(ii) that the Minister for Finance has paid, out of moneys provided by the Oireachtas, the sum of eighteen thousand, four hundred, and seventy-five pounds, ten shillings and two pence towards the said costs and expenses, and
+
+(iii) that the council of the county of Limerick has paid to the Commissioners the sum of thirteen thousand, four hundred, and twenty-five pounds, ten shillings, and nine pence towards the said costs and expenses, and
+
+(iv) that the balance of the said costs and expenses over and above the said sums paid by the said Minister and the said council respectively amounts to the sum of five thousand and forty-nine pounds, nineteen shillings, and five pence and was advanced by the Commissioners, and
+
+(v) the amount of the terminable annuity by which the sum advanced by the Commissioners is to be repaid in accordance with section 16 of the Act of 1925;
+
+(*d*) the drainage district constituted by the said final award shall be an existing drainage district for the purposes of this Act and the provisions of this Act in relation to existing drainage districts shall apply thereto accordingly, and the said final award shall be in such form and shall contain such provisions as shall appear to the Commissioners to be requisite in consequence of the said application of the said provisions of this Act;
+
+(*e*) subject and without prejudice to the foregoing provisions of this sub-section and so far as is not inconsistent therewith, the said final award shall contain all such provisions as are required by the Act of 1925 to be contained in a final award under that Act, and shall be deemed to be the final award made in pursuance of the said Act in respect of the Scheme, and sub-sections (5) and (6) of section 15 of the said Act shall apply and have effect in relation to the said final award accordingly.
+
+(3) Immediately upon the passing of this Act the council of the county of Limerick shall pay to the Commissioners such sum as with the sums heretofore paid by the said council to the Commissioners on foot of the advances made by the Commissioners in respect of the said council's contribution towards the costs and expenses of the Mulkear and Cappamore Drainage Scheme and the interest on those advances will make up the following sums, that is to say:—
+
+(*a*) the sum of thirteen thousand, four hundred, and twenty-five pounds, ten shillings and nine pence (being the total amount of the said advances), and
+
+(*b*) interest on each of the sums making up the said advances from the respective dates on which such sums were made available by the Commissioners up to the date of repayment thereof, such interest being calculated, in respect of each such sum, at the rate at which interest was charged on loans from the Local Loans Fund at the time when such sum was made available as aforesaid.
+
+(4) Money payable by the council of the county of Limerick to the Commissioners under the next preceding sub-section of this section may be paid by such council out of their county fund or by borrowing, and section 22 of the Act of 1925 shall apply and have effect in respect of the said money as if such money were directed by that Act to be paid out of the said county fund or by borrowing.
+
+(5) Every final award made or purported to have been made by the Commissioners under the Act of 1925 or under that Act as amended by the Act of 1929 or under any other Act before the passing of this Act (other than the final award purported to have been made by the Commissioners on the 29th day of July, 1942, in respect of the Mulkear and Cappamore Drainage Scheme) is hereby confirmed and declared to be and always to have been valid and incapable of being questioned on any ground notwithstanding the invalidity (if any) of the relevant draft award or any discrepancy between such final award and such draft award and notwithstanding, in the case of the final award made by the Commissioners on the 9th day of July, 1941, in respect of the Maigue and Loobagh Drainage Scheme, any order of the High Court made after the 18th day of October, 1944, and before the passing of this Act.
+
+### 59. Prohibition of drainage schemes under Acts in First Schedule.
+
+**59.**—From and after the passing of this Act no drainage scheme shall be prepared or carried into execution under any of the Acts specified in Part I of the First Schedule to this Act.
+
+## FIRST SCHEDULE. — PART I.
+
+The Drainage and Navigation (Ireland) Acts, 1842 to 1857.
+
+The Drainage and Improvement of Lands (Ireland) Acts, 1863 to 1892.
+
+The Arterial Drainage Acts, 1925 and 1929.
+
+PART II.
+
+The River Owenmore Drainage Act, 1926 (No. 3 of 1926).
+
+The Barrow Drainage Acts, 1927 and 1933.
+
+The Arterial Drainage (Minor Schemes) Act, 1928 (No. 23 of 1928).
+
+## SECOND SCHEDULE. — Disposal of Assets and Discharge of Liabilities of Dissolved Drainage Bodies.
+
+1\. In this Schedule—
+
+the expression “the principal section” means the section of this Act by virtue of which such of the provisions of this Schedule as are applicable have effect in relation to a dissolved body,
+
+the expression “dissolved body” means a body of trustees or a drainage board which on the appointed day becomes dissolved by virtue of the principal section,
+
+the expression “the appointed day” has the same meaning as it has in the principal section,
+
+the word “council” means the council of a county,
+
+the expression “transferee council or councils” means the council or councils to which the control and management of an existing drainage district is transferred by Part III of this Act,
+
+the word “assets” includes, in relation to a dissolved body, all property whatsoever whether real or personal and whether in possession or in action, but does not include the existing drainage works in the drainage district of such dissolved body,
+
+the word “liability” includes, in relation to a dissolved body, all debts and liabilities whatsoever whether liquidated or unliquidated and whether present, contingent, or future.
+
+2\. Every person who, immediately before the appointed day, holds any office under or is employed by a dissolved body shall, on that day, cease to hold such office or to be so employed, but such cesser shall not prevent any such person from being temporarily employed after the appointed day by the transferee council or councils in relation to the winding-up of the affairs of such dissolved body.
+
+3\. The transferee council or councils of a dissolved body may, in their discretion but subject to the consent of the Minister for Local Government and Public Health, award to any person who, immediately before the appointed day, held any office under such dissolved body an *ex gratia* payment which shall be regarded as a liability of such dissolved body and the amount of which—
+
+(*a*) shall not exceed whichever of the following sums is the less:
+
+(i) one-fourth of the annual remuneration (exclusive of any allowance for expenses) payable immediately before the appointed day to such person by such dissolved body multiplied by the number of his completed years of service with such dissolved body,
+
+(ii) twice the annual remuneration (exclusive of any allowance for expenses) payable immediately before the appointed day to such person by such dissolved body, and
+
+(*b*) shall, subject to the foregoing limitation, be determined with due regard to the following matters:
+
+(i) the terms and conditions of the employment of such person by such dissolved body,
+
+(ii) the nature and duration of such employment and the manner in which such person discharged the duties thereof,
+
+(iii) the probability (if any) that such person would have been continued in such employment for a longer period if this Act had not been passed,
+
+(iv) any other circumstances affecting the case.
+
+4\. As soon as may be after the appointed day, the transferee council or councils of a dissolved body shall ascertain and determine the assets and liabilities of such dissolved body and, for that purpose, such dissolved body and its officers and servants shall produce and hand over to such transferee council or councils all books, accounts, and other documents in their possession or procurement belonging to such dissolved body or relating to its transactions or affairs.
+
+5\. (*a*) As soon as may be after the appointed day, the transferee council or councils of a dissolved body shall, cause to be published in such manner as they think most suitable a notice requiring all persons having claims against such dissolved body to lodge their claims with such transferee council or councils within a specified period (not being less than one month from the first publication of such notice) and stating that no claim which is not so lodged will be entertained or discharged.
+
+(*b*) Where such notice has been published it shall not be obligatory on the transferee council or councils to entertain or discharge any claim which is not lodged in accordance with such notice within the period therein specified.
+
+6\. On the appointed day—
+
+(*a*) all the assets of a dissolved body shall be transferred to and become the property of the transferee council or councils and shall, if and in so far as they consist of debts or other choses-in-action, be recoverable by such council or councils accordingly, and
+
+(*b*) all the liabilities of a dissolved body shall become and be a liability of the transferee council or councils and shall be paid or discharged by such council or councils accordingly.
+
+7\. No suit or action which is pending in any Court on the appointed day and to which a dissolved body is a party shall abate by reason of the dissolution of such dissolved body, but in lieu thereof the transferee council or councils of such dissolved body shall become and be parties to such suit or action in the place of such dissolved body and such suit or action shall continue accordingly.
+
+8.(*a*) All assets of a dissolved body which become, by virtue of this Schedule, the property of the transferee council of such dissolved body shall be paid into or disposed of for the benefit of the county fund of such council.
+
+(*b*) All liabilities of a dissolved body which become, by virtue of this Schedule, dischargeable by the transferee council of such dissolved body shall be paid and discharged out of the county fund of such council.
+
+9\. (*a*) All assets of a dissolved body which become, by virtue of this Schedule, the property of two or more transferee councils of such dissolved body shall become the property of such councils and shall be paid into or disposed of for the benefit of their respective county funds in the proportions hereinafter specified.
+
+(*b*) All liabilities of a dissolved body which become, by virtue of this Schedule, dischargeable by two or more transferee councils of such dissolved body shall be paid and discharged by such councils out of their respective county funds in the proportions hereinafter specified.
+
+(*c*) The proportions in which assets or liabilities of a dissolved body become under this Schedule the property of or dischargeable by two or more transferee councils shall be such proportions as may be agreed upon by such councils having regard to the provisions of the Award or final award in respect of the drainage district of such dissolved body or, in default of such agreement, shall be determined by the Minister for Local Government and Public Health (having regard as aforesaid) on the application of any one or more of such councils.
+
+10\. (*a*) The moneys required by a council for the discharge, in pursuance of this Schedule, of the liabilities or a proportion of the liabilities of a dissolved body shall (in so far as such moneys cannot be provided out of the assets or the portion of the assets of such dissolved body received by such council) be raised by such council by means of the poor rate as a county-at-large charge F73[...].
+
+(*b*) F74[...]
+
+11\. In relation to the collection by the transferee council or councils of the debts (including arrears of drainage rate or drainage charge) due to a dissolved body and transferred to such council or councils by virtue of this Schedule, such council or councils may in their discretion remit wholly or in part any such debt or make such concession as they shall think proper in regard to the mode or time of payment of the whole or any part of any such debt.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F73, F74: Repealed (2.12.1964) by *Local Government (Repeal of Enactments) Act 1964* (33/1964), s. 1 and sch., commenced on enactment.
+
+## THIRD SCHEDULE. — Drainage Schemes to be Abandoned.
+
+The several drainage schemes relating respectively to—
+
+1\. The River Blackwater in the Counties of Meath and Cavan.
+
+2\. The Island River in the County of Galway.
+
+3\. The Clogher River in the County of Roscommon.
+
+4\. The Kilfahavon River in the County of Monaghan.
+
+5\. The Rampart River in the County of Louth.
+
+6\. The Cross River in the County of Roscommon.
+
+[^1]: OJ No. L 26, 28.1.2012, p. 1.
+[^2]: OJ No. L 124, 25.4.2014, p. 1.
+[^3]: OJ No. L 206, 22.07.1992, p. 7.
+[^4]: OJ No. L 20, 26.01.2010, p. 7.

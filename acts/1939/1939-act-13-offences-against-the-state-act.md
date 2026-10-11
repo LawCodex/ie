@@ -1,0 +1,1745 @@
+---
+title: "Offences Against the State Act, 1939"
+identifier: "eli/1939/act/13"
+type: act
+jurisdiction: ie
+language: en
+number: 13
+year: 1939
+date: 1939-06-14
+last_amended: 2025-10-01
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1939/act/13/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1939/act/13/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Offences Against the State Act, 1939
+
+AN ACT TO MAKE PROVISION IN RELATION TO ACTIONS AND CONDUCT CALCULATED TO UNDERMINE PUBLIC ORDER AND THE AUTHORITY OF THE STATE, AND FOR THAT PURPOSE TO PROVIDE FOR THE PUNISHMENT OF PERSONS GUILTY OF OFFENCES AGAINST THE STATE, TO REGULATE AND CONTROL IN THE PUBLIC INTEREST THE FORMATION OF ASSOCIATIONS, TO ESTABLISH SPECIAL CRIMINAL COURTS IN ACCORDANCE WITH ARTICLE 38 OF THE CONSTITUTION AND PROVIDE FOR THE CONSTITUTION, POWERS, JURISDICTION, AND PROCEDURE OF SUCH COURTS, TO REPEAL CERTAIN ENACTMENTS AND TO MAKE PROVISION GENERALLY IN RELATION TO MATTERS CONNECTED WITH THE MATTERS AFORESAID. [14*th June*, 1939].
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:—
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C1: Offences under Act defined as serious offences for purposes of bail (4.09.1998) by *Bail Act 1997* (16/1997), s. 1 and sch. para. 25, S.I. No. 315 of 1998.
+>
+> “serious offence“ means an offence specified in the Schedule for which a person of full capacity and not previously convicted may be punished by a term of imprisonment for a term of 5 years or by a more severe penalty.
+>
+> Schedule
+>
+> ...
+>
+> **25.** Any offence under the provisions of the Offences against the State Act 1939.
+>
+> ...
+>
+> C2: Act applied with necessary modifications and definition of “unlawful organisation“ amended (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 5.
+>
+> **Terrorist groups.**
+>
+> **5.**—(1) A terrorist group that engages in, promotes, encourages or advocates the commission, in or outside the State, of a terrorist activity is an unlawful organisation within the meaning and for the purposes of the Offences against the State Acts 1939 to 1998 and section 3 of the Criminal Law Act 1976.
+>
+> (2) For the purposes of this Act, the Offences against the State Acts 1939 to 1998 and section 3 of the Criminal Law Act 1976 apply with any necessary modifications and have effect in relation to a terrorist group referred to in *subsection (1)* as if that group were an organisation referred to in section 18 of the Act of 1939.
+>
+> (3) *Subsections (1)* and *(2)* are not to be taken to be limited by any other provision of this Act that refers to provisions of the Offences against the State Acts 1939 to 1998 or that makes provisions of those Acts applicable in relation to offences under this Act.
+>
+> (4) *Subsections (1)* and *(2)* apply whether the terrorist group is based in or outside the State.
+>
+> **Editorial Notes:**
+>
+> E1: Records held by the Defence Forces in relation to collectively cited *Offences Against the State Acts 1939-1998* excluded from application of *Freedom of Information Act 2014* (14.10.2014) by *Freedom of Information Act 2014* (30/2014), s. 42(c)(ii)(I), commenced on enactment.
+>
+> E2: Inferences may be drawn from failure of accused to mention particular facts in proceedings relating to scheduled offence under Act as provided (3.09.1998) by *Offences Against the State (Amendment) Act 1998* (39/1998), s. 5, commenced on enactment.
+>
+> E3: In connection with a scheduled offence under Act, additional powers to search and stop a vehicle granted to An Garda Síochána (24.09.1976) by *Criminal Law Act 1976* (32/1976), s. 8, commenced on enactment.
+
+## PART I. — Preliminary and General.
+
+### 1. Short title.
+
+**1.**—This Act may be cited as the Offences against the State Act, 1939.
+
+### 2. Definitions.
+
+**2.**—In this Act—
+
+the word “organisation” includes associations, societies, and other organisations or combinations of persons of whatsoever nature or kind, whether known or not known by a distinctive name;
+
+the word “document” includes a book and also a newspaper, magazine, or other periodical publication, and also a pamphlet leaflet, circular, or advertisement F1[and also—
+
+(*a*) any map, plan, graph or drawing,
+
+(*b*) any photograph,
+
+(*c*) any disc, tape, sound track or other device in which sounds or other data (not being visual images) are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced therefrom, and
+
+(*d*) any film, microfilm, negative, tape or other device in which one or more visual images are embodied (whether with or without sounds or other data) so as to be capable (as aforesaid) of being reproduced therefrom and a reproduction or still reproduction of the image or images embodied therein whether enlarged or not and whether with or without sounds or other data];
+
+the expression “incriminating document” means a document of whatsoever date, or bearing no date, issued by or emanating from an unlawful organisation or appearing to be so issued or so to emanate or purporting or appearing to aid or abet any such organisation or calculated to promote the formation of an unlawful organisation;
+
+the expression “treasonable document” includes a document which relates directly or indirectly to the commission of treason; the expression “seditious document” includes—
+
+(*a*) a document consisting of or containing matter calculated or tending to undermine the public order or the authority of the State, and
+
+(*b*) a document which alleges, implies, or suggests or is calculated to suggest that the government functioning under the Constitution is not the lawful government of the State or that there is in existence in the State any body or organisation not functioning under the Constitution which is entitled to be recognised as being the government of the country, and
+
+(*c*) a document which alleges, implies, or suggests or is calculated to suggest that the military forces maintained under the Constitution are not the lawful military forces of the State, or that there is in existence in the State a body or organisation not established and maintained by virtue of the Constitution which is entitled to be recognised as a military force, and
+
+(*d*) a document in which words, abbreviations, or symbols referable to a military body are used in referring to an unlawful organisation;
+
+the word “offence” includes treason, felonies, misdemeanours, and statutory and other offences;
+
+references to printing include every mode of representing or reproducing words in a visible form, and the word “print” and all cognate words shall be construed accordingly.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1: Inserted (3.12.1972) by *Offences Against the State (Amendment) Act 1972* (26/1972), s. 5, commenced on enactment.
+
+### 3. Exercise of powers by superintendents of the Gárda Síochána.
+
+**3.**—Any power conferred by this Act on an officer of the Gárda Síochána not below the rank of chief superintendent may be exercised by any superintendent of the Gárda Síochána who is authorised (in respect of any particular power or any particular case) in that behalf in writing by the Commissioner of the Gárda Síochána.
+
+### 4. Expenses.
+
+**4.**—The expenses incurred by any Minister of State in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+### 5. Repeals.
+
+**5.**—The Treasonable Offences Act, 1925 (No. 18 of 1925), and the Public Safety (Emergency Powers) Act, 1926 (No. 42 of 1926), are hereby repealed.
+
+## PART II. — Offences Against the State.
+
+### 6. Usurpation of functions of government.
+
+**6.**—(1) Every person who usurps or unlawfully exercises any function of government, whether by setting up, maintaining, or taking part in any way in a body of persons purporting to be a government or a legislature but not authorised in that behalf by or under the Constitution, or by setting up, maintaining, or taking part in any way in a purported court or other tribunal not lawfully established, or by forming, maintaining, or being a member of an armed force or a purported police force not so authorised, or by any other action or conduct whatsoever, shall be guilty of felony and shall be liable on conviction thereof F2[to imprisonment for a term not exceeding 20 years].
+
+(2) Every person who shall attempt to do any thing the doing of which is a felony under the foregoing sub-section of this section or who aids or abets or conspires with another person to do or attempt to do any such thing or advocates or encourages the doing of any such thing shall be guilty of a misdemeanour and shall be liable on conviction thereof to F3[imprisonment for a term not exceeding 20 years].
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F2, F3: Substituted (24.09.1976) by *Criminal Law Act 1976* (32/1976), s. 2(1), (2), commenced on enactment, subject to transitional provisions in s. 16(2).
+
+### 7. Obstruction of government.
+
+**7.**—(1) Every person who F4[(whether in or outside the State)] prevents or obstructs, or attempts or is concerned in an attempt to prevent or obstruct, by force of arms or other violent means or by any form of intimidation the carrying on of the government of the State or any branch (whether legislative, judicial, or executive) of the government of the State or the exercise or performance by any member of the legislature, the judiciary, or the executive or by any officer or employee (whether civil (including police) or military) of the State of any of his functions, powers, or duties shall be guilty of felony and shall be liable on conviction thereof F7[to imprisonment for a term not exceeding 20 years].
+
+(2) Every person who F5[(whether in or outside the State)] aids or abets or conspires with another person to do any thing the doing of which is a felony under the foregoing sub-section of this section or advocates or encourages the doing of any such thing shall be guilty of a misdemeanour and shall be liable on conviction thereof to F8[imprisonment for a term not exceeding 20 years].
+
+F6[(3) A person shall be guilty of an offence under this section for conduct that the person engages in outside the State only if—
+
+(*a*) the conduct takes place on board an Irish ship (within the meaning of section 9 of the Mercantile Marine Act 1955),
+
+(*b*) the conduct takes place on an aircraft registered in the State,
+
+(*c*) the person is an Irish citizen, or
+
+(*d*) the person is ordinarily resident in the State.
+
+(4) A person who has his principal residence in the State for the 12 months immediately preceding the commission of an offence under subsection (1) or (2) of this section is, for the purposes of subsection (3)(d) of this section, ordinarily resident in the State on the date of the commission of the offence.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F4, F5, F6: Inserted (23.07.2009) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 18(1)(a), (b), (2), commenced on enactment.
+>
+> F7, F8: Substituted (24.09.1976) by *Criminal Law Act 1976* (32/1976), s. 2(3), (4), commenced on enactment, subject to transitional provisions in s. 16(2).
+>
+> F9: Substituted by *Merchant Shipping (Registration of Ships) Act 2014* (43/2014), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C3: Prospective affecting provision: subs. (3)(a) amended by *Merchant Shipping (Registration of Ships) Act 2014* (43/2014), s. 68 and sch. 4, not commenced as of date of revision.
+>
+> (*a*) the conduct takes place on board an Irish ship F9[(within the meaning of section 33 of the Merchant Shipping (Registration of Ships) Act 2014)],
+
+### 8. Obstruction of the President.
+
+**8.**—(1) Every person who prevents or obstructs, or attempts or is concerned in an attempt to prevent or obstruct, by force of arms or other violent means or by any form of intimidation the exercise or performance by the President of any of his functions, powers, or duties shall be guilty of felony and shall be liable on conviction thereof to suffer penal servitude for a term not exceeding seven years or to imprisonment for a term not exceeding two years.
+
+(2) Every person who aids or abets or conspires with another person to do any thing the doing of which is a felony under the foregoing sub-section of this section or advocates or encourages the doing of any such thing shall be guilty of a misdemeanour and shall be liable on conviction thereof to imprisonment for a term not exceeding two years.
+
+### 9. Interference with military or other employees of the State.
+
+**9.**—(1) Every person who shall with intent to undermine public order or the authority of the State commit any act of violence against or of interference with a member of a lawfully established military or police force (whether such member is or is not on duty) or shall take away, injure, or otherwise interfere with the arms or equipment, or any part of the arms or equipment, of any such member shall be guilty of a misdemeanour and shall be liable on conviction thereof to imprisonment for a term not exceeding two years.
+
+(2) Every person who shall incite or encourage any person employed in any capacity by the State to refuse, neglect, or omit (in a manner or to an extent calculated to dislocate the public service or a branch thereof) to perform his duty or shall incite or encourage any person so employed to be negligent or insubordinate (in such manner or to such extent as aforesaid) in the performance of his duty shall be guilty of a misdemeanour and shall be liable on conviction thereof to imprisonment for a term not exceeding two years.
+
+(3) Every person who attempts to do any thing the doing of which is a misdemeanour under either of the foregoing sub-sections of this section or who aids or abets or conspires with another person to do or attempt to do any such thing or advocates or encourages the doing of any such thing shall be guilty of a misdemeanour and shall be liable on conviction thereof to imprisonment for a term not exceeding twelve months.
+
+### 10. Prohibition of printing, etc., certain documents.
+
+**10.**—(1) It shall not be lawful to set up in type, print, publish, send through the post, distribute, sell, or offer for sale any document—
+
+(*a*) which is or contains or includes an incriminating document, or
+
+(*b*) which is or contains or includes a treasonable document, or
+
+(*c*) which is or contains or includes a seditious document.
+
+(2) In particular and without prejudice to the generality of the foregoing sub-section of this section, it shall not be lawful for any person to send or contribute to any newspaper or other periodical publication or for the proprietor of any newspaper or other periodical publication to publish in such newspaper or publication any letter, article, or communication which is sent or contributed or purports to be sent or contributed by or on behalf of an unlawful organisation or which is of Such nature or character that the printing of it would be a contravention of the foregoing sub-section of this section.
+
+(3) Every person who shall contravene either of the foregoing sub-sections of this section shall be guilty of an offence under this sub-section and shall be liable on summary conviction thereof to a fine not exceeding one hundred pounds, or, at the discretion of the Court, to imprisonment for a term not exceeding six months or to both such fine and such imprisonment and also (in any case), if the Court so directs, to forfeit every copy in his possession of the document, newspaper, or publication in relation to which the offence was committed and also (where the act constituting the offence was the setting up in type or the printing of a document) to forfeit, if the Court so directs, so much of the printing machinery in his possession as is specified in that behalf by the Court,
+
+(4) Every person who unlawfully has in his possession a document which was printed or published in contravention of this section or a newspaper or other periodical publication containing a letter, article, or other communication published therein in contravention of this section shall, when so requested by a member of the Gárda Síochána, deliver up to such member every copy in his possession of such document or of such newspaper or publication (as the case may be), and if he fails or refuses so to do he shall be guilty of an offence under this sub-section and shall be liable on-summary conviction thereof to imprisonment for a term not exceeding three months and also, if the Court so directs, to forfeit every copy in his possession of the document, newspaper or publication in relation to which the offence was committed.
+
+(5) Nothing in this section shall render unlawful the setting up in type, printing, publishing, sending through the post, distributing, selling, offering for sale, or having possession of a document or a copy of a document which is published at the request or by permission of the Government or is published in the course or as part of a fair report of the proceedings in either House of the Oireachtas or in a court of justice or before any other court or tribunal lawfully exercising jurisdiction.
+
+### 11. Foreign newspapers, etc., containing seditious or unlawful matter.
+
+**11.**—(1) Whenever the Minister for Justice is of opinion, in respect of a newspaper or other periodical publication ordinarily printed outside the State, that a particular issue of such publication either is seditious or contains any matter the publication of which is a contravention of this Act, the said Minister may by order, if he considers that it is in the public interest so to do, do either or both of the following things, that is to say:—
+
+(*a*) authorise members of the Gárda Síochána to seize and destroy all copies of the said issue of such publication wherever they may be found;
+
+(*b*) prohibit the importation of any copy of any issue of such publication published within a specified period (not exceeding three months) after the publication of the said issue of such publication.
+
+(2) The Minister for Justice may by order, whenever he thinks proper so to do, revoke or amend any order made by him under the foregoing sub-section of this section or any order (made by him under this sub-section) amending any such order.
+
+(3) It shall not be lawful for any person to import any copy of an issue of a periodical publication the importation of which is prohibited by an order under this section F10[...].
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F10: Repealed (24.04.1945) by *Customs (Temporary Provisions) Act 1945* (14/1945), s. 13 and sch., commenced on enactment.
+
+### 12. Possession of treasonable, seditious, or incriminating documents.
+
+**12.**—(1) It shall not be lawful for any person to have any treasonable document, seditious document, or incriminating document in his possession or on any lands or premises owned or occupied by him or under his control.
+
+(2) Every person who has a treasonable document, seditious document, or incriminating document in his possession or on any lands or premises owned or occupied by him or under his control shall be guilty of an offence under this sub-section and shall be liable on summary conviction thereof to a fine not exceeding fifty pounds or, at the discretion of the Court, to imprisonment for a term not exceeding three months or to both such fine and such imprisonment.
+
+(3) Where a person is charged with an offence under this section, it shall be a good defence to such charge for such person to prove—
+
+(*a*) that he is an officer of the State and had possession or custody of the document in respect of which the offence is alleged to have been committed in the course of his duties as such officer, or
+
+(*b*) that he did not know that the said document was in his possession or on any lands or premises owned or occupied by him or under his control, or
+
+(*c*) that he did not know the nature or contents of the said document.
+
+(4) Every person who has in his possession a treasonable document, seditious document, or incriminating document shall, when so requested by a member of the Gárda Síochána, deliver up to such member the said document and every copy thereof in his possession, and if he fails or refuses so to do he shall be guilty of an offence under this sub-section and shall be liable on summary conviction thereof to imprisonment for a term not exceeding three months.
+
+(5) Where the proprietor or the editor or other chief officer of a newspaper or other periodical publication receives a document which appears to him to be a treasonable document, a seditious document, or an incriminating document and such document is not published in such newspaper or periodical publication, the following provisions shall have effect, that is to say:—
+
+(*a*) if such proprietor, editor, or chief officer is requested by a member of the Gárda Síochána to deliver up such document to such member, such proprietor, editor, or chief officer may, in lieu of so delivering up such document, destroy such document and every (if any) copy thereof in his possession in the presence and to the satisfaction of such member;
+
+(*b*) if such proprietor, editor, or chief officer destroys under the next preceding paragraph of this sub-section such document and every (if any) copy thereof in his possession or of his own motion destroys such document within twenty-four hours after receiving it and without having made any copy of it or permitted any such copy to be made, such destruction shall be a good defence to any charge against such proprietor, editor, or chief officer of an offence under any sub-section of this section in respect of such document and no civil or criminal action or other proceeding shall lie against such proprietor, editor, or chief officer on account of such destruction.
+
+### 13. Provisions in respect of documents printed for reward.
+
+**13.**—(1) Every person who shall print for reward any document shall do every of the following things, that is to say:—
+
+(*a*) at the time of or within twenty-four hours after printing such document, print or write on at least one copy of such document the name and address of the person for whom or on whose instructions such document was printed;
+
+(*b*) retain, for six months from the date on which such document was printed, a copy of such document on which the said name and address is printed or written as aforesaid;
+
+(*c*) on the request of a member of the Gárda Síochána at any time during the said period of six months, produce for the inspection of such member the said copy of such document so retained as aforesaid.
+
+(2) Every person who shall print for reward any document and shall fail to comply in any respect with the foregoing sub-section of this section shall be guilty of an offence under this section and shall be liable on summary conviction thereof, in the case of a first such offence, to a fine not exceeding twenty-five pounds and, in the case of a second or any subsequent such offence, to a fine not exceeding fifty pounds.
+
+(3) This section does not apply to any newspaper, magazine or other periodical publication which is printed by the proprietor thereof on his own premises.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C4: Meaning of “document“ construed (24.09.1976) by *Criminal Law Act 1976* (32/1976), s. 14.
+>
+> **14.**—In sections 13 and 14 of the Act of 1939, “document” does not include any of the things specified in the amendment of the definition of “document” made by section 5 of the Offences against the State (Amendment) Act, 1972.
+
+### 14. Obligation to print printer's name and address on documents.
+
+**14.**—(1) Every person who shall print for reward any document (other than a document to which this section does not apply) which he knows or has reason to believe is intended to fee sold or distributed (whether to the public generally or to a restricted class or number of persons) or to be publicly or privately displayed shall, if such document consists only of one page or sheet printed on one side only, print his name and the address of his place of business on the front of such document and shall, in every other case, print the said name and address on the first or the last page of such document.
+
+(2) Every person who shall contravene by act or omission the foregoing sub-section of this section shall be guilty of an offence under this section and shall be liable on summary conviction thereof, in the case of a first such offence, to a fine not exceeding twenty-five pounds and, in the case of a second or any subsequent such offence, to a fine not exceeding fifty pounds.
+
+(3) This section does not apply to any of the following documents, that is to say:—
+
+(*a*) currency notes, bank notes, bills of exchange, promissory notes, cheques, receipts and other financial or commercial documents,
+
+(*b*) writs, orders, summonses, warrants, affidavits, and other documents for the purposes of or for use in any lawful court or tribunal,
+
+(*c*) any document printed by order of the Government, either House of the Oireachtas, a Minister of State, or any officer of the State in the execution of his duties as such officer,
+
+(*d*) any document which the Minister for Justice shall by order declare to be a document to which this section does not apply.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C5: Restriction of meaning of “document“ (24.09.1976) by *Criminal Law Act 1976* (32/1976), s. 14.
+>
+> **14.**—In sections 13 and 14 of the Act of 1939, “document” does not include any of the things specified in the amendment of the definition of “document” made by section 5 of the Offences against the State (Amendment) Act, 1972.
+
+### 15. Unauthorised military exercises prohibited.
+
+**15.**—(1) Save as authorised by a Minister of State under this section, and subject to the exceptions hereinafter mentioned, it shall not be lawful for any assembly of persons to practise or to train or drill themselves in or be trained or drilled in the use of arms or the performance of military exercises, evolutions, or manoeuvres nor for any persons to meet together or assemble for the purpose of so practising or training or drilling or being trained or drilled.
+
+(2) A Minister of State may at his discretion by order, subject to such limitations, qualifications and conditions as he shall think fit to impose and shall express in the order, authorise the members of any organisation to meet together and do such one or more of the following things as shall be specified in such order, that is to say, to practise or train or drill themselves in or be trained or drilled in the use of arms or the performance of military exercises, evolutions, or manoeuvres.
+
+(3) If any person is present at or takes part in or gives instruction to or trains or drills an assembly of persons who without or otherwise than in accordance with an authorisation granted by a Minister of State under this section practise, or train or drill themselves in, or are trained or drilled in the use of arms or the performance of any military exercise, -evolution, or manoeuvre or who without or otherwise than in accordance with such authorisation have assembled or met together for the purpose of so practising, or training or drilling or being trained or drilled, such person shall be guilty of a misdemeanour and shall be liable on conviction thereof to imprisonment for a term not exceeding F11[15 years].
+
+(4) This section shall not apply to any assembly of members of any military or police force lawfully maintained by the Government.
+
+(5) In any prosecution under this section the burden of proof that any act was authorised under this section shall lie on the person prosecuted.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F11: Substituted (24.09.1976) by *Criminal Law Act 1976* (32/1976), s. 2(5), commenced on enactment, subject to transitional provisions in s. 16(2).
+>
+> **Modifications (not altering text):**
+>
+> C6: Assembly under subs. (4) excluded (3.09.1998) by *Offences Against the State (Amendment) Act 1998* (39/1998), s. 12(4), commenced on enactment; continued in force annually, most recently for one year to 29 June 2026 as per s. 18(1) (25.06.2025) by *Resolution of Dáil Éireann*: Debates Volume 1069 No. 5, 25 June 2025, Offences against the State (Amendment) Act 1998 and Criminal Justice (Amendment) Act 2009: Motions, and (24.06.2025) by *Resolution of Seanad Éireann*: Debates Volume 306 No. 14, 24 June 2025, Offences against the State (Amendment) Act 1998 and Criminal Justice (Amendment) Act 2009: Motions.
+
+### 16. Secret societies in army or police.
+
+**16.**—(1) Every person who shall—
+
+(*a*) form, organise, promote, or maintain any secret society amongst or consisting of or including members of any military or police force lawfully maintained by the Government, or
+
+(*b*) attempt to form, organise, promote, or maintain any such secret society, or
+
+(*c*) take part, assist, or be concerned in any way in the formation, organisation, promotion, management, or maintenance of any such society, or
+
+(*d*) induce, solicit, or assist any member of a military or police force lawfully maintained by the Government to join any secret society whatsoever,
+
+shall be guilty of a misdemeanour and shall be liable on conviction thereof to suffer penal servitude for any term not exceeding five years or imprisonment for any term not exceeding two years.
+
+(2) In this section the expression “secret society” means an association, society, or other body the members of which are required by the regulations thereof to take or enter into, or do in fact take or enter into, an oath, affirmation, declaration or agreement not to disclose the proceedings or some part of the proceedings of the association, society, or body.
+
+### 17. Administering unlawful oaths.
+
+**17.**—(1) Every person who shall administer or cause to be administered or take part in, be present at, or consent to the administering or taking in any form or manner of any oath, declaration, or engagement purporting or intended to bind the person taking the same to do all or any of the following things, that is to say:—
+
+(*a*) to commit or to plan, contrive, promote, assist, or conceal the commission of any crime or any breach of the peace, or
+
+(*b*) to join or become a member of or associated with any organisation having for its object or one of its objects the commission of any crime, or breach of the peace, or
+
+(*c*) to abstain from disclosing or giving information of the existence or formation or proposed or intended formation of any such organisation, association, or other body as aforesaid or from informing or giving evidence against any member of or person concerned in the formation of any such organisation, association, or other body, or
+
+(*d*) to abstain from disclosing or giving information of the commission or intended or proposed commission of any crime, breach of the peace, or from informing or giving evidence against the person who committed such an act,
+
+shall be guilty of a misdemeanour and shall be liable on conviction thereof to suffer imprisonment for any term not exceeding two years,
+
+(2) Every person who shall take any such oath, declaration, or engagement as is mentioned in the foregoing sub-section shall be guilty of a misdemeanour and be liable on conviction thereof to suffer imprisonment for any term not exceeding two years unless he shall show—
+
+(*a*) that he was compelled by force or duress to take such oath, declaration, or engagement (as the case may be), and
+
+(*b*) that within four days after the taking of such oath, declaration, or engagement, if not prevented by actual force or incapacitated by illness or other sufficient cause, or where so prevented or incapacitated then within four days after the cessor of the hindrance caused by such force, illness or other cause, he declared to an officer of the Gárda Síochána the fact of his having taken such oath, declaration, or engagement, and all the circumstances connected therewith and the names and descriptions of all persons concerned in the administering thereof so far as such circumstances, names, and descriptions were known to him.
+
+## PART III. — Unlawful Organisations.
+
+### 18. Unlawful organisations.
+
+**18.**—In order to regulate and control in the public interest the exercise of the constitutional right of citizens to form associations, it is hereby declared that any organisation which—
+
+(*a*) engages in, promotes, encourages, or advocates the commission of treason or any activity of a treasonable nature, or
+
+(*b*) advocates, encourages, or attempts the procuring by force, violence, or other unconstitutional means of an alteration of the Constitution, or
+
+(*c*) raises or maintains or attempts to raise or maintain a military or armed force in contravention of the Constitution or without constitutional authority, or
+
+(*d*) engages in, promotes, encourages, or advocates the commission of any criminal offence or the obstruction of or interference with the administration of justice or the enforcement of the law, or
+
+(*e*) engages in, promotes, encourages, or advocates the attainment of any particular object, lawful or unlawful, by violent, criminal, or other unlawful means, or
+
+(*f*) promotes, encourages, or advocates the non-payment of moneys payable to the Central Fund or any other public fund or the non-payment of local taxation,
+
+shall be an unlawful organisation within the meaning and for the purposes of this Act, and this Act shall apply and have effect in relation to such organisation accordingly.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C7: Definition of unlawful organisation extended (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 5, commenced on enactment.
+>
+> **Terrorist groups.**
+>
+> 5.—(1) A terrorist group that engages in, promotes, encourages or advocates the commission, in or outside the State, of a terrorist activity is an unlawful organisation within the meaning and for the purposes of the Offences against the State Acts 1939 to 1998 and section 3 of the Criminal Law Act 1976.
+>
+> (2) For the purposes of this Act, the Offences against the State Acts 1939 to 1998 and section 3 of the Criminal Law Act 1976 apply with any necessary modifications and have effect in relation to a terrorist group referred to in *subsection (1)* as if that group were an organisation referred to in section 18 of the Act of 1939.
+>
+> (3) *Subsections (1)* and *(2)* are not to be taken to be limited by any other provision of this Act that refers to provisions of the Offences against the State Acts 1939 to 1998 or that makes provisions of those Acts applicable in relation to offences under this Act.
+>
+> (4) *Subsections (1)* and *(2)* apply whether the terrorist group is based in or outside the State.
+
+### 19. Suppression orders.
+
+**19.**—(1) If and whenever the Government are of opinion that any particular organisation is an unlawful organisation, it shall be lawful for the Government by order (in this Act referred to as a suppression order) to declare that such organisation is an unlawful organisation and ought, in the public interest, to be suppressed.
+
+(2) The Government may by order, whenever they so think proper, amend or revoke a suppression order.
+
+(3) Every suppression order shall be published in the *Iris Oifigiúil* as soon as conveniently may be after the making thereof.
+
+(4) A suppression order shall be conclusive evidence for all purposes other than an application for a declaration of legality that the organisation to which it relates is an unlawful organisation within the meaning of this Act.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E4: Power pursuant to subs. (1) exercised (5.01.1983) by *Unlawful Organisation (Suppression) Order 1939* (S.I. No. 7 of 1983).
+>
+> E5: Power pursuant to subs. (1) exercised (23.06.1939) by *Unlawful Organisation (Suppression) Order 1939* (S.I. No. 162 of 1939).
+
+### 20. Declarations of legality.
+
+**20.**—(1) Any person (in this section referred to as the applicant) who claims to be a member of an organisation in respect of which a suppression order has been made may, at any time within thirty days after the publication of such order in the *Iris Oifigiúil*, apply to the High Court in a summary manner on notice to the Attorney-General for a declaration (in this Act referred to as a declaration of legality) that such organisation is not an unlawful organisation.
+
+(2) Where, on an application under the foregoing sub-section of this section, the High Court, after hearing such evidence as may be adduced by the applicant or by the Attorney-General, is satisfied that the organisation to which such application relates is not an unlawful organisation, it shall be lawful for the High Court to make a declaration of legality in respect of such organisation.
+
+(3) The High Court shall not make a declaration of legality unless the applicant for such declaration either—
+
+(*a*) gives evidence in support of the application and submits himself to cross-examination by counsel for the Attorney-General, or
+
+(*b*) satisfies the High Court that he is unable by reason of illness or other sufficient cause to give such evidence and adduces in support of the application the evidence of at least one person who submits himself to cross-examination by counsel for the Attorney-General.
+
+(4) Whenever, on an application under this section, the High Court, or the Supreme Court on appeal from the High Court, makes a declaration of legality in respect of an organisation, the suppression order relating to such organisation shall forthwith become null and void, but without prejudice to the validity of anything previously done thereunder.
+
+(5) Where the High Court makes a declaration of legality, it shall be lawful for that court, on the application of the Attorney-General, to suspend the operation of the next preceding sub-section of this section in respect of such declaration until the final determination of an appeal by the Attorney-General to the Supreme Court against such declaration, and if the High Court so suspends the said sub-section, the said sub-section shall only come into operation in respect of such declaration if and when the Supreme Court affirms the order of the High Court making such· declaration.
+
+(6) Whenever an application for a declaration of legality is made under this section and is refused by the High Court, or by the Supreme Court on appeal from the High Court, it shall not be lawful, in any prosecution of the applicant for the offence of being a member of the organisation to which such application relates, to give in evidence against the applicant any of the following matters, that is to say:—
+
+(*a*) the fact that he made the said application, or
+
+(*b*) any admission made by him or on his behalf for the purposes of or during the hearing of the said application, or
+
+(*c*) any statement made in the oral evidence given by him or on his behalf (whether on examination in chief, cross-examination, or re-examination) at the hearing of the said application, or
+
+(*d*) any affidavit made by him or on his behalf for the purposes of the said application.
+
+### 21. Prohibition of membership of an unlawful organisation.
+
+**21.**—(1) It shall not be lawful for any person to be a member of an unlawful organisation.
+
+(2) Every person who is a member of an unlawful organisation in contravention of this section shall be guilty of an offence under this section and shall—
+
+(*a*) on summary conviction thereof, be liable to a fine not exceeding F12[€3,000] or, at the discretion of the court, to imprisonment for a term not exceeding F13[12 months] or to both such fine and such imprisonment, or
+
+(*b*) on conviction thereof on indictment, be liable to F14[a fine or imprisonment for a term not exceeding 8 years or both].
+
+(3) It shall be a good defence for a person charged with the offence under this section of being a member of an unlawful organisation, to show—
+
+(*a*) that he did not know that such organisation was an unlawful organisation, or
+
+(*b*) that, as soon as reasonably possible after he became aware of the real nature of such organisation or after the making of a suppression order in relation to such organisation, he ceased to be a member thereof and dissociated himself therefrom.
+
+(4) Where an application has been made to the High Court for a declaration of legality in respect of an organisation no person who is, before the final determination of such application, charged with an offence under this section in relation to that organisation shall be brought to trial on such charge before such final determination, but a postponement of the said trial in pursuance of this sub-section shall not prevent the detention of such person in custody during the period of such postponement.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F12, F13, F14: Substituted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 48, commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C8: Application of section extended (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 6(1)(b)(i), commenced on enactment.
+>
+> **Terrorist offences.**
+>
+> **6.**—(1) Subject to *subsections (2)* to *(4),* a person is guilty of an offence if the person— ...
+>
+> (*b*) commits outside the State an act that, if committed in the State, would constitute—
+>
+> (i) an offence under section 21 or 21A of the Act of 1939, or
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E6: Previous affecting provision: subs. (2) amended (24.09.1976) by *Criminal Law Act 1976* (32/1976), s. 2(6), commenced on enactment, subject to transitional provisions in s. 16(2); substituted as per F-note above.
+
+### 21A. F15[Offence of providing assistance to an unlawful organisation.
+
+**21A.**—(1) A person who knowingly renders assistance (including financial assistance) to an unlawful organisation, whether directly or indirectly, in the performance or furtherance of an unlawful object is guilty of an offence.
+
+(2) —A person guilty of an offence under this section is liable
+
+(*a*) on summary conviction, to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both, or
+
+(*b*) on conviction on indictment, to a fine or imprisonment for a term not exceeding 8 years or both.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F15: Inserted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 49, commenced on enactment. A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(3) table ref. no. 1, S.I. No. 662 of 2010.
+>
+> **Modifications (not altering text):**
+>
+> C9: Application of section extended (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 6(1)(b)(i), commenced on enactment.
+>
+> **Terrorist offences.**
+>
+> **6.**—(1) Subject to *subsections (2)* to *(4),* a person is guilty of an offence if the person— ...
+>
+> (*b*) commits outside the State an act that, if committed in the State, would constitute—
+>
+> (i) an offence under section 21 or 21A of the Act of 1939, or
+>
+> ...
+
+### 22. Provisions consequent upon the making of a suppression order.
+
+**22.**—Immediately upon the making of a suppression order, the following provisions shall have effect in respect of the organisation to which such order relates, that is to say:—
+
+(*a*) F16[all the property (including money and all other property, real or personal, heritable or moveable, including choses in action and other intangible or incorporeal property, including funds as defined in section 12 of the Criminal Justice (Terrorist Offences) Act 2005 of such organisation] shall become and be forfeited to and vested in the Minister for Justice;
+
+(*b*) the said Minister shall take possession of all lands and premises which become forfeited to him under this section and the said Minister may cause all such things to be done by members of the Gárda Síochána as appear to him to be necessary or expedient for the purpose of such taking possession;
+
+(*c*) subject to the subsequent provisions of this section, it shall be lawful for the said Minister to sell or let, on such terms as he shall, with the sanction of the Minister for Finance, think proper, any lands or premises which become forfeited to him under this section or to use any such lands or premises for such government purposes as he shall, with the sanction aforesaid, think proper;
+
+(*d*) the Minister for Justice shall take possession of, recover, and get in all personal property which becomes forfeited to him under this section and may take such legal proceedings and other steps as shall appear to him to be necessary or expedient for that purpose;
+
+(*e*) subject to the subsequent provisions of this section, it shall be lawful for the said Minister to sell or otherwise realise, in such manner and upon such terms as he shall, with the sanction of the Minister for Finance, think proper, all personal property which becomes forfeited to him under this section;
+
+(*f*) the Minister for Justice shall pay into or dispose of for the benefit of the Exchequer, in accordance with the directions of the Minister for Finance, all money which becomes forfeited to him under this section and the net proceeds of every sale, letting, realisation, or other disposal of any other property which becomes so forfeited;
+
+(*g*) no property which becomes forfeited to the Minister for Justice under this section shall be sold, let, realised, or otherwise disposed of by him until the happening of whichever of the following events is applicable, that is to say:—
+
+(i) if no application is made under this Act for a declaration of legality in respect of the said organisation within the time limited by this Act for the making of such application, the expiration of the time so limited,
+
+(ii) if any such application is so made, the final determination of such application.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F16: Substituted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 50, commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C10: Functions transferred and references to Minister for and Department of **Finance** construed as Minister for and Department of **Public Expenditure and Reform** (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), art. 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 13 of 1939</td><td>Offences against the State Act 1939</td><td>Section 22</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> The history of the Minister for Finance under this section can be traced as follows:
+>
+> • Functions transferred and references to Minister for **Finance** construed as **Public Expenditure and Reform** (29.07.2011) by by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), in effect as per art. 1(2);
+>
+> • Title of Minister for **Public Expenditure and Reform** changed to **Public Expenditure, National Development Plan Delivery and Reform** (1.02.2023) by *Public Expenditure and Reform (Alteration of Name of Department and Title of Minister) Order 2023* (S.I. No. 19 of 2023), in effect as per art. 1(2);
+>
+> • Title of Minister for **Public Expenditure, National Development Plan Delivery and Reform** changed to **Public Expenditure, Infrastructure, Public Service Reform and Digitalisation** (5.06.2025) by *Public Expenditure, National Development Plan Delivery and Reform (Alteration of Name of Department and Title of Minister) Order 2025* (S.I. No. 243 of 2025), in effect as per art. 1(2).
+>
+> C11: References to “property of unlawful organisation“ construed (19.02.1985) by *Offences Against the State (Amendment) Act 1985* (3/1985), s. 8, commenced on enactment.
+>
+> **Meaning of “property of unlawful organisation” in this Act and sections 22 and 23 of Principal Act.**
+>
+> **8.**—(1) For the removal of doubt, it is hereby declared that section 22 of the Principal Act applies and always applied to property of an unlawful organisation acquired by it at any time while a suppression order under section 19 of that Act in respect of it is or was in force as well as to the property of the organisation immediately upon the making of the suppression order.
+>
+> (2) Moneys held by any person for the use or benefit of, or for use for the purposes of, an unlawful organisation in respect of which a suppression order under section 19 of the Principal Act, is in force shall be deemed, for the purposes of this Act and sections 22 and 23 of the Principal Act, to be the property of the organisation, and this Act and those sections shall apply and have effect accordingly.
+
+### 22A. Definitions for, and operation of, sections 22B to 22I.
+
+F17[**22A.**—(1) For the purposes of sections 22B to 22I—
+
+"disposal order" means an order under section 22C;
+
+"interim order" means an order made under section 22B;
+
+"Minister" means Minister for Justice, Equality and Law Reform;
+
+"property" does not include moneys held in a bank;
+
+"respondent" means—
+
+(*a*) a person in respect of whom an application for an interim order has been made, or
+
+(*b*) a person in respect of whom an interim order has been made,
+
+and includes a person who, but for this Act, would become entitled on the death of a person referred to in paragraph (a) or (b) to any property to which such an order relates (being an order that is in force and is in respect of that person).
+
+(2) Sections 22B to 22I shall not be construed to limit the generality of section 22.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F17: Inserted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 51, commenced on enactment.
+
+### 22B. Interim order respecting specified property.
+
+F18[**22B.**—(1) The Minister may apply *ex parte* to the High Court for an interim order under *subsection (2)* in respect of specified property where the Minister is of the opinion that it—
+
+(*a*) is the property of an unlawful organisation, whether or not the property is in the possession or control of that organisation, and
+
+(*b*) is forfeited to and vested in the Minister by virtue of *section 22*.
+
+(2) On application under subsection (1), the Court may issue an interim order prohibiting any of the following from disposing of or otherwise dealing with the property specified in the order or from diminishing its value:
+
+(*a*) any person in possession or control of the property;
+
+(*b*) any person having notice of the order;
+
+(*c*) any other person specified in the order.
+
+(3) An interim order—
+
+(*a*) may contain such provisions, conditions and restrictions as the Court considers necessary or expedient, and
+
+(*b*) shall provide for notice of the order to be given to—
+
+(i) any person named in the order, and
+
+(ii) any other person who is or appears to be affected by it, unless the Court is satisfied that it is not reasonably possible to ascertain the person's whereabouts.
+
+(4) On application by the respondent or any other person claiming ownership of any property specified in an interim order that is in force under this section, the Court may discharge or vary the order, as it considers appropriate, if it is shown to the Court's satisfaction that the property is not the property of an unlawful organisation.
+
+(5) On application at any time by the Minister, the Court shall discharge an interim order.
+
+(6) Subject to subsections (4) and (5), an interim order continues in force until the expiry of 12 months from the date of its making and then lapses, unless an application for a disposal order in respect of any property specified in the interim order is brought during that period.
+
+(7) If an application for a disposal order is brought within the period allowed under subsection (6), the interim order lapses on—
+
+(*a*) the determination of the application,
+
+(*b*) the expiry of the ordinary time for bringing an appeal against the determination, or
+
+(*c*) if such appeal is brought, the determination or abandonment of the appeal or any further appeal or the expiry of the time for bringing any further appeal,
+
+whichever is the latest.
+
+(8) Notice of an application under subsection (4) shall be given by the respondent or other person making the application to—
+
+(*a*) the Minister, and
+
+(*b*) any person to whom the Court directs that notice of the application be given.
+
+(9) Notice of an application under subsection (5) shall be given by the Minister to—
+
+(*a*) the respondent, unless the Court is satisfied that it is not reasonably possible to ascertain the respondent's whereabouts, and
+
+(*b*) any person to whom the Court directs that notice of the application be given.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F18: Inserted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 51, commenced on enactment.
+
+### 22C. Disposal order respecting specified property.
+
+F19[**22C.**—(1) Subject to subsection (2), where an interim order has been in force for not less than 12 months in relation to specified property, the High Court may, on application by the Minister, make an order authorising the Minister to dispose of the property as he sees fit.
+
+(2) Subject to subsection (4), the Court shall make a disposal order in relation to any property that is the subject of an application under subsection (1) unless it is satisfied that the property is not the property of an unlawful organisation.
+
+(3) The Minister shall give notice of an application under this section to—
+
+(*a*) the respondent unless the Court is satisfied that it is not reasonably possible to ascertain the respondent's whereabouts, and
+
+(*b*) such other (if any) persons as the Court may direct.
+
+(4) Before deciding whether to make a disposal order under subsection (1), the Court shall give any person claiming ownership of the specified property an opportunity to be heard by the Court and to show cause why the order should not be made.
+
+(5) On application by the respondent or, if the respondent's whereabouts cannot be ascertained, on the Court's own initiative, the Court may, if it considers it appropriate to do so in the interests of justice, adjourn the hearing of an application under subsection (1) for such period not exceeding 2 years as it considers reasonable.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F19: Inserted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 51, commenced on enactment.
+
+### 22D. Ancillary orders and provision in relation to certain profits or gains, etc.
+
+F20[**22D.**—(1) At any time while an interim order is in force, the High Court may, on application by the Minister, make such orders as it considers necessary or expedient to enable the interim order to have full effect.
+
+(2) The Minister shall give notice of an application under this section to—
+
+(*a*) the respondent unless the Court is satisfied that it is not reasonably possible to ascertain the respondent's whereabouts, and
+
+(*b*) such other (if any) persons as the Court may direct.
+
+(3) An interim order or disposal order may be expressed to apply to—
+
+(*a*) any profit, gain or interest,
+
+(*b*) any dividend or other payment, or
+
+(*c*) any other property,
+
+payable or arising, after the making of the order, in connection with any other property to which the order relates.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F20: Inserted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 51, commenced on enactment.
+
+### 22E. Evidence.
+
+F21[**22E.**—(1) Production in court in any proceedings of a document signed by the Minister and stating that the property specified in the document would, but for the operation of section 22, have been the property of an unlawful organisation is evidence that the specified property would, but for the operation of that section, have been the property of an unlawful organisation, unless the contrary is shown.
+
+(2) A document purporting to be a document of the Minister under subsection (1) and to be signed by the Minister shall be deemed for the purposes of this section to be such a document and to have been so signed, unless the contrary is shown.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F21: Inserted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 51, commenced on enactment.
+
+### 22F. Seizure of certain property.
+
+F22[**22F.**—(1) Where an interim order or a disposal order is in force, a member of the Garda Síochána or an officer of customs and excise may seize any property that is the subject of the order for the purpose of preventing the property being removed from the State.
+
+(2) Property seized under this section shall be dealt with in accordance with the directions of the High Court.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F22: Inserted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 51, commenced on enactment.
+
+### 22G. Compensation.
+
+F23[**22G.**—(1) An application to the High Court for an order under this section may be made where—
+
+(*a*) an interim order is discharged or lapses and a disposal order in relation to the matter is not made or, if made, is discharged, or
+
+(*b*) an interim order or a disposal order is varied on appeal.
+
+(2) On application under subsection (1) by a person who satisfies the Court that the person is the owner of any property to which—
+
+(*a*) an interim order referred to in subsection (1)(a) related,
+
+(*b*) an order referred to in subsection (1)(b) had related, but, by reason of its being varied by a court, has ceased to relate,
+
+the Court may award the person such (if any) compensation payable by the Minister as it considers just in the circumstances in respect of any loss incurred by the person by reason of the order concerned.
+
+(3) The Minister shall be given notice of, and be entitled to be heard in, any proceedings under this section.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F23: Inserted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 51, commenced on enactment.
+
+### 22H. Application of certain provisions of Act of 1996.
+
+F24[**22H.**—For the purposes of this Part, sections 6, 7 and 9 to 13 of the Act of 1996 apply with the following modifications and any other necessary modifications as if an interim order or a disposal order made under this Part, or an application for such order, had been made under the Act of 1996:
+
+(*a*) a reference in any of the applicable provisions of the Act of 1996 to applicant or Minister shall be construed as referring to the Minister for Justice, Equality and Law Reform;
+
+(*b*) a reference in any of the applicable provisions of the Act of 1996 to respondent shall be construed as defined in section 22A of this Act.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F24: Inserted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 51, commenced on enactment.
+
+### 22I. Immunity from proceedings.
+
+F25[**22I.**—No action or proceeding of any kind lies against a person in any court in respect of any act done or omission made in compliance with an order under any of sections 22B to 22D and 22H.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F25: Inserted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 51, commenced on enactment.
+
+### 23. Provisions consequent upon the making of a declaration of legality.
+
+**23.**—(1) Whenever a declaration of legality is made, the following provisions shall have effect, that is to say:—
+
+(*a*) every person who is detained in custody charged with the offence of being a member of the organisation to which such declaration of legality relates shall forthwith be released from such custody;
+
+(*b*) all the property of the said organisation which became forfeited to the Minister for Justice by virtue of this Act on the making of the suppression order in respect of the said organisation shall become and be the property of the said organisation and shall be delivered to the said organisation by the said Minister on demand.
+
+(2) Where the High Court makes a declaration of legality, it shall be lawful for that court, on the application of the Attorney-General, to suspend the operation of the foregoing sub-section of this section in respect of such declaration until the final determination of an appeal by the Attorney-General to the Supreme Court against such declaration, and if the High Court so suspends the said sub-section, the said sub-section shall only come into operation in respect of such declaration if and when the Supreme Court affirms the order of the High Court making such declaration.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C12: References to “property of unlawful organisation“ construed (19.02.1985) by *Offences Against the State (Amendment) Act 1985* (3/1985), s. 8, commenced on enactment.
+>
+> **8.**—(1) For the removal of doubt, it is hereby declared that section 22 of the Principal Act applies and always applied to property of an unlawful organisation acquired by it at any time while a suppression order under section 19 of that Act in respect of it is or was in force as well as to the property of the organisation immediately upon the making of the suppression order.
+>
+> (2) Moneys held by any person for the use or benefit of, or for use for the purposes of, an unlawful organisation in respect of which a suppression order under section 19 of the Principal Act, is in force shall be deemed, for the purposes of this Act and sections 22 and 23 of the Principal Act, to be the property of the organisation, and this Act and those sections shall apply and have effect accordingly.
+
+### 24. Proof of membership of an unlawful organisation by possession of incriminating document.
+
+**24.**—On the trial of a person charged with the offence of being a member of an unlawful organisation, proof to the satisfaction of the court that an incriminating document relating to the said organisation was found on such person or in his possession or on lands or in premises owned or occupied by him or under his control shall, without more, be evidence until the contrary is proved that such person was a member of the said organisation at the time alleged in the said charge.
+
+### 25. Closing of buildings.
+
+**25.**—(1) Whenever an officer of the Gárda Síochána not below the rank of chief superintendent is satisfied that a building is being used or has been used in any way for the purposes, direct or indirect, of an unlawful organisation, such officer may make an order (in this section referred to as a closing order) that such building be closed for the period of F26[12 months] from the date of such order.
+
+(2) Whenever a closing order has been made an officer of the Gárda Síochána not below the rank of chief superintendent may—
+
+(*a*) extend the operation of such closing order for a further period not exceeding F27[12 months] from the expiration of the period mentioned in such closing order;
+
+(*b*) terminate the operation of such closing order.
+
+(3) Whenever a closing order has been made or has been extended, any person having an estate or interest in the building to which such closing order relates may apply to the High Court, in a summary manner on notice to the Attorney-General, for such order as is hereinafter mentioned, and on such application the High Court, if it is satisfied that, having regard to all the circumstances of the case, the making or the extension (as the case may be) of such closing order was not reasonable, may make an order quashing such closing order or the said extension thereof, as the case may be.
+
+(4) Whenever and so long as a closing order is in operation, the following provisions shall have effect, that is to say:—
+
+(*a*) it shall not be lawful for any person to use or occupy the building to which such closing order relates or any part of such building;
+
+(*b*) any member of the Gárda Síochána not below the rank of inspector may take all such steps as he shall consider necessary or expedient to prevent such building or any part thereof being used or occupied in contravention of this sub-section;
+
+(*c*) every person who uses or occupies such building or any part of such building in contravention of this sub-section shall be guilty of an offence under this section and shall be liable on summary conviction thereof to imprisonment for a term not exceeding three months.
+
+(5) In this section the word “building” includes a part of a building and also all outhouses, yards, and gardens within the curtilage of the building.
+
+F28[(6) Whenever a closing order has been extended, a member of the Garda Síochána not below the rank of chief superintendent may extend the operation of such closing order for a further period or periods each of which shall not exceed 12 months, but a closing order shall not be in operation for more than three years.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F26, F27: Substituted (24.09.1976) by *Criminal Law Act 1976* (32/1976), s. 4(a), commenced on enactment.
+>
+> F28: Inserted (24.09.1976) by *Criminal Law Act 1976* (32/1976), s. 4(b), commenced on enactment.
+
+## PART IV. — Miscellaneous.
+
+### 26. Evidence of publication of treasonable, seditious or incriminating document.
+
+**26.**—Where in any criminal proceedings the question whether a particular treasonable document, seditious document, or incriminating document was or was not published by the accused (whether by himself or in concert with other persons or by arrangement between himself and other persons) is in issue and an officer of the Gárda Síochána not below the rank of chief superintendent states on oath that he believes that such document was published (as the case may be) by the accused or by the accused in concert with other persons or by arrangement between the accused and other persons, such statement shall be evidence (until the accused denies on oath that he published such document either himself or in concert or by arrangement as aforesaid) that the accused published such document as alleged in the said statement on oath of such officer.
+
+### 27. Prohibition of certain public meetings.
+
+**27.**—(1) It shall not be lawful to hold a public meeting which is held or purports to be held by or on behalf of or by arrangement or in concert with an unlawful organisation or which is held or purports to be held for the purpose of supporting, aiding, abetting, or encouraging an unlawful organisation or of advocating the support of an unlawful organisation.
+
+(2) Whenever an officer of the Gárda Síochána not below the rank of chief superintendent is of opinion that the holding of a particular public meeting about to be or proposed to be held would be a contravention of the next preceding sub-section of this section, it shall be lawful for such officer by notice given to a person concerned in the holding or organisation of such meeting or published in a manner reasonably calculated to come to the knowledge of the persons so concerned, to prohibit the holding of such meeting, and thereupon the holding of such meeting shall become and be unlawful.
+
+(3) Whenever an officer of the Gárda Síochána gives any such notice as is mentioned in the next preceding sub-section of this section, any person claiming to be aggrieved by such notice may apply to the High Court in a summary manner on notice to the Attorney-General for such order as is hereinafter mentioned and, upon the hearing of such application, the High Court if it so thinks proper, may make an order annulling such notice.
+
+(4) Every person who organises or holds or attempts to organise or hold a public meeting the holding of which is a contravention of this section or who takes part or is concerned in the organising or the holding of any such meeting shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding F29[£500] or, at the discretion of the court, to imprisonment for a term not exceeding F30[12 months] or to both such fine and such imprisonment.
+
+(5) In this section the expression “public meeting” includes a procession and also includes (in addition to a meeting held in a public place or on unenclosed land) a meeting held in a building or on enclosed land to which the public are admitted, whether with or without payment.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F29, F30: Substituted (24.09.1976) by *Criminal Law Act 1976* (32/1976), s. 2(7), commenced on enactment, subject to transitional provisions in s. 16(2). A fine of £500 converted (1.01.1999) to €634.87. This translates into a class B fine, not exceeding €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(3) and table ref. no. 4, S.I. No. 662 of 2010.
+
+### 28. Prohibition of meetings in the vicinity of the Oireachtas.
+
+**28.**—(1) It shall not be lawful for any public meeting to be held in, or any procession to pass along or through, any public street or unenclosed place which or any part of which is situate within one-half of a mile from any building in which both Houses or either House of the Oireachtas are or is sitting or about to sit if either—
+
+(*a*) an officer of the Gárda Síochána not below the rank of chief superintendent has, by notice given to a person concerned in the holding or organisation of such meeting or procession or published in a manner reasonably calculated to come to the knowledge of the persons so concerned, prohibited the holding of such meeting in or the passing of such procession along or through any such public street or unenclosed place as aforesaid, or
+
+(*b*) a member of the Gárda Síochána calls on the persons taking part in such meeting or procession to disperse.
+
+(2) Every person who—
+
+(*a*) shall organise, hold, or take part in or attempt to organise, hold, or take part in a public meeting or a procession in any such public street or unenclosed place as is mentioned in the foregoing sub-section of this section after such meeting or procession has been prohibited by a notice under paragraph (*a*) of the said sub-section,
+
+(*b*) shall hold or take part in or attempt to-hold or take part in a public meeting or a procession in any such public street or unenclosed place as aforesaid after a member of the Gárda Síochána has, under paragraph (*b*) of the said sub-section, called upon the persons taking part in such meeting or procession to disperse, or
+
+(*c*) shall remain in or enter into any such public street or unenclosed space after being called upon to disperse as aforesaid,
+
+shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding fifty pounds or, at the discretion of the court, to imprisonment for a term not exceeding three months or to both such fine and such imprisonment.
+
+### 29. Search warrants in relation to the commission of offences under this Act etc.
+
+F31[**29.**—(1) In this section "an offence to which this section applies" means—
+
+(*a*) an offence under this Act,
+
+(*b*) an offence under the Criminal Law Act 1976,
+
+(*c*) an offence which is for the time being a scheduled offence for the purposes of Part V of this Act,
+
+(*d*) treason, or
+
+(*e*) an offence of attempting or conspiring to commit, or inciting the commission of, an offence referred to in paragraph (a), (b) or (d).
+
+(2) If a judge of the District Court is satisfied by information on oath of a member of the Garda Síochána not below the rank of sergeant that there are reasonable grounds for suspecting that evidence of, or relating to, the commission of an offence to which this section applies is to be found in any place, the judge may issue a warrant for the search of that place and any persons found at that place.
+
+(3) Subject to subsections (4) and (5), if a member of the Garda Síochána not below the rank of superintendent is satisfied that there are reasonable grounds for suspecting that evidence of, or relating to, the commission of an offence to which this section applies is to be found in any place, the member may issue to a member of the Garda Síochána not below the rank of sergeant a warrant for the search of that place and any persons found at that place.
+
+(4) A member of the Garda Síochána not below the rank of superintendant shall not issue a search warrant under this section unless he or she is satisfied—
+
+(*a*) that the search warrant is necessary for the proper investigation of an offence to which this section applies, and
+
+(*b*) that circumstances of urgency giving rise to the need for the immediate issue of the search warrant would render it impracticable to apply to a judge of the District Court under this section for the issue of the warrant.
+
+(5) A member of the Garda Síochána not below the rank of superintendent may issue a search warrant under this section only if he or she is independent of the investigation of the offence in relation to which the search warrant is being sought.
+
+(6) A search warrant under this section shall be expressed, and shall operate, to authorise the member of the Garda Síochána named in the warrant, accompanied by such members of the Garda Síochána or of the Defence Forces as the member considers necessary—
+
+(*a*) to enter, at any time or times within one week of the date of issue of the warrant, on production if so requested of the warrant or a copy of it, and if necessary by the use of reasonable force, the place named in the warrant,
+
+(*b*) to search it and any persons found at that place, and
+
+(*c*) to seize anything found at that place, or anything found in the possession of a person present at that place at the time of the search, that that member reasonably believes to be evidence of, or relating to, the commission of an offence to which this section applies.
+
+(7) Notwithstanding subsection (6), a search warrant issued by a member of the Garda Síochána not below the rank of superintendent under this section shall cease to have effect after a period of 48 hours has elapsed from the time of the issue of the warrant.
+
+(8) A member of the Garda Síochána or of the Defence Forces acting under the authority of a search warrant under this section may—
+
+(*a*) require any person present at the place where the search is being carried out to give to the member his or her name and address, and
+
+(*b*) arrest without warrant any person who—
+
+(i) obstructs or attempts to obstruct the member in the carrying out of his or her duties,
+
+(ii) fails to comply with a requirement under paragraph (a), or
+
+(iii) gives a name or address which the member has reasonable cause for believing is false or misleading.
+
+(9) A person who obstructs or attempts to obstruct a member of the Garda Síochána or of the Defence Forces acting under the authority of a search warrant under this section, who fails to comply with a requirement under subsection (8)(a) or who gives a false or misleading name or address to the member shall be guilty of an offence and shall be liable on summary conviction to a class A fine or imprisonment for a term not exceeding 12 months or both.
+
+(10) The power to issue a search warrant under this section is without prejudice to any other power conferred by statute to issue a warrant for the search of any place or person.
+
+(11) A member of the Garda Síochána not below the rank of superintendent who issues a search warrant under this section shall, either at the time the warrant is issued or as soon as reasonably practicable thereafter, record in writing the grounds on which the warrant was issued, including how he or she was satisfied as to the matters referred to in subsection (4).
+
+(12) In this section—
+
+"independent of", in relation to the investigation of an offence, means not being in charge of, or involved in, that investigation;
+
+"place" includes—
+
+(*a*) a dwelling or a part thereof,
+
+(*b*) a building or a part thereof,
+
+(*c*) a vehicle, whether mechanically propelled or not,
+
+(*d*) a vessel, whether sea-going or not,
+
+(*e*) an aircraft, whether capable of operation or not, and
+
+(*f*) a hovercraft.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F31: Substituted (25.07.2012) by *Criminal Justice (Search Warrants) Act 2012* (33/2012), s. 1, commenced as per s. 4(2).
+>
+> **Editorial Notes:**
+>
+> E7: Previous affecting provision: secton substituted (24.09.1976) by *Criminal Law Act 1976* (32/1976), s. 5, commenced on enactment; substituted (25.07.2012) as per F-note above.
+
+### 30. Arrest and detention of suspected persons.
+
+**30.**—(1) A member of the Gárda Síochána (if he is not in uniform on production of his identification card if demanded) may without warrant stop, search, interrogate, and arrest any person, or do any one or more of those things in respect of any person, whom he suspects of having committed or being about to commit or being or having been concerned in the commission of an offence under any section or sub-section of this Act or an offence which is for the time being a scheduled offence for the purposes of Part V of this Act or whom he suspects of carrying a document relating to the commission or intended commission of any such offence as aforesaid or whom he suspects of being in possession of information relating to the commission or intended commission of any such offence as aforesaid.
+
+(2) Any member of the Gárda Síochána (if he is not in uniform on production of his identification card if demanded) may, for the purpose of the exercise of any of the powers conferred by the next preceding sub-section of this section, stop and search (if necessary by force) any vehicle or any ship, boat, or other vessel which he suspects to contain a person whom he is empowered by the said sub-section to arrest without warrant.
+
+(3) Whenever a person is arrested under this section, he may be removed to and detained in custody in a Gárda Síochána station, a prison, or some other convenient place for a period of twenty-four hours from, the time of his arrest and may, if an officer of the Gárda Síochána not below the rank of Chief Superintendent so directs, be so detained for a further period of twenty-four hours.
+
+F32[(3A) If at any time during the detention of a person pursuant to this section a member of the Garda Síochána, with reasonable cause, suspects that person of having committed an offence (the "other offence") referred to in subsection (1) of this section, being an offence other than the offence to which the detention relates, and—
+
+(a) the member of the Garda Síochána then in charge of the Garda Síochána station, or
+
+(b) in case the person is being detained in a place of detention, other than a Garda Síochána station, an officer of the Garda Síochána not below the rank of inspector who is not investigating the offence to which the detention relates or the other offence,
+
+has reasonable grounds for believing that the continued detention of the person is necessary for the proper investigation of the other offence, the person may continue to be detained in relation to the other offence as if that offence was the offence for which the person was originally detained, but nothing in this subsection authorises the detention of the person for a period that is longer than the period which is authorised by or under the other provisions of this section.]
+
+F34[(4) An officer of the Garda Síochána not below the rank of superintendent may apply to a judge of the District Court for a warrant authorising the detention of a person detained pursuant to a direction under subsection (3) of this section for a further period not exceeding 24 hours if he has reasonable grounds for believing that such further detention is necessary for the proper investigation of the offence concerned.
+
+(4A) On an application under subsection (4) of this section the judge concerned shall issue a warrant authorising the detention of the person to whom the application relates for a further period not exceeding 24 hours if, but only if, the judge is satisfied that such further detention is necessary for the proper investigation of the offence concerned and that the investigation is being conducted diligently and expeditiously.
+
+(4B) On an application under subsection (4) of this section the person to whom the application relates shall be produced before the judge concerned and the judge shall hear any submissions made and consider any evidence adduced by or on behalf of the person and the officer of the Garda Síochána making the application.]
+
+F33[(4BA) (*a*) Without prejudice to paragraph (b) of this subsection, where a judge hearing an application under subsection (4) of this section is satisfied, in order to avoid a risk of prejudice to the investigation concerned, that it is desirable to do so, he may—
+
+(i) direct that the application be heard otherwise than in public, or
+
+(ii) exclude from the Court during the hearing all persons except officers of the Court, persons directly concerned in the proceedings, bona fide representatives of the Press and such other persons as the Court may permit to remain.
+
+(*b*) On the hearing of an application under subsection (4) of this section, the judge may, of his own motion or on application by the officer of the Garda Síochána making the application under that subsection (4), where it appears that—
+
+(i) particular evidence to be given by any member of the Garda Síochána during the hearing (including evidence by way of answer to a question asked of the member in cross-examination) concerns steps that have been, or may be, taken in the course of any inquiry or investigation being conducted by the Garda Síochána with respect to the suspected involvement of the person to whom the application relates, or any other person, in the commission of the offence to which the detention relates or any other offence, and
+
+(ii) the nature of those steps is such that the giving of that evidence concerning them could prejudice, in a material respect, the proper conducting of any foregoing inquiry or investigation,
+
+direct that, in the public interest, the particular evidence shall be given in the absence of every person, including the person to whom the application relates and any legal representative (whether of that person or the applicant), other than—
+
+(I) the member or members whose attendance is necessary for the purpose of giving the evidence to the judge; and
+
+(II) if the judge deems it appropriate, such one or more of the clerks of the Court as the judge determines.
+
+(*c*) If, having heard such evidence given in that manner, the judge considers the disclosure of the matters to which that evidence relates would not have the effect referred to in paragraph (b)(ii) of this subsection, the judge shall direct the evidence to be re-given in the presence of all the other persons (or, as the case may be, those of them not otherwise excluded from the Court under paragraph (a) of this subsection).
+
+(*d*) No person shall publish or broadcast or cause to be published or broadcast any information about an application under subsection (4) of this section other than a statement of—
+
+(i) the fact that the application has been made by the Garda Síochána in relation to a particular investigation, and
+
+(ii) any decision resulting from the application.
+
+(*e*) If any matter is published or broadcast in contravention of paragraph (d) of this subsection, the following persons, namely—
+
+(i) in the case of a publication in a newspaper or periodical, any proprietor, any editor and any publisher of the newspaper or periodical,
+
+(ii) in the case of any other publication, the person who publishes it, and
+
+(iii) in the case of a broadcast, any person who transmits or provides the programme in which the broadcast is made and any person having functions in relation to the programme corresponding to those of the editor of a newspaper, shall be guilty of an offence and shall be liable—
+
+(I) on summary conviction to a fine not exceeding €5,000 or to imprisonment for a term not exceeding 12 months or to both, or
+
+(II) on conviction on indictment, to a fine not exceeding €50,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(*f*) In this subsection—
+
+"broadcast" means the transmission, relaying or distribution by wireless telegraphy, cable or the internet of communications, sounds, signs, visual images or signals, intended for direct reception by the general public whether such communications, sounds, signs, visual images or signals are actually received or not;
+
+"publish" means publish, other than by way of broadcast, to the public or a portion of the public.
+
+(4BB) Save where any rule of law requires such an issue to be determined by the Court, in an application under subsection (4) of this section no issue as to the lawfulness of the arrest or detention of the person to whom the application relates may be raised.
+
+(4BC) (*a*) In an application under subsection (4) of this section it shall not be necessary for a member of the Garda Síochána, other than the officer making the application, to give oral evidence for the purposes of the application and the latter officer may testify in relation to any matter within the knowledge of another member of the Garda Síochána that is relevant to the application notwithstanding that it is not within the personal knowledge of the officer.
+
+(*b*) However, the Court hearing such an application may, if it considers it to be in the interests of justice to do so, direct that another member of the Garda Síochána give oral evidence and the Court may adjourn the hearing of the application for the purpose of receiving such evidence.]
+
+F34[(4C) A person detained under this section may, at any time during such detention, be charged before the District Court or a Special Criminal Court with an offence or be released by direction of an officer of the Garda Síochána and shall, if not so charged or released, be released at the expiration of the period of detention authorised by or under subsection (3) of this section or, as the case may be, that subsection and subsection (4A) of this section.]
+
+F35[(4D) If—
+
+(*a*) an application is to be made, or is made, under subsection (4) of this section for a warrant authorising the detention for a further period of a person detained pursuant to a direction under subsection (3) of this section, and
+
+(*b*) the period of detention under subsection (3) of this section has not expired at the time of the arrival of the person concerned at the court house for the purposes of the hearing of the application but would, but for this subsection, expire before, or during the hearing (including, if such should occur, any adjournment of the hearing),
+
+it shall be deemed not to expire until the final determination of the application; and, for purposes of this subsection—
+
+(i) a certificate signed by the court clerk in attendance at the court house concerned stating the time of the arrival of the person concerned at that court house shall be evidence, until the contrary is shown, of the time of that person’s arrival there;
+
+(ii) "court house" includes any venue at which the hearing of the application takes place.]
+
+(5) A member of the Gárda Síochána may do all or any of the following things in respect of a person detained under this section, that is to say:—
+
+(*a*) demand of such person his name and address;
+
+(*b*) search such person or cause him to be searched;
+
+(*c*) photograph such person or cause him to be photographed;
+
+(*d*) take, or cause to be taken, the fingerprints of such person.
+
+(6) Every person who shall obstruct or impede the exercise in respect of him by a member of the Gárda Síochána of any of the powers conferred by the next preceding sub-section of this section or shall fail or refuse to give his name and address or shall give, in response to any such demand, a name or an address which is false or misleading shall be guilty of an offence under this section and shall be liable on summary conviction thereof to imprisonment for a term not exceeding six months.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F32, F33: Inserted (23.07.2009) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 21(1)(a), (b), commenced on enactment.
+>
+> F34: Substituted (3.09.1998) by *Offences Against the State (Amendment) Act 1998* (39/1998), s. 10, commenced on enactment; continued in force annually, most recently for one year to 29 June 2026 as per s. 18(1) (25.06.2025) by *Resolution of Dáil Éireann: Debates Volume 1069 No. 5, 25 June 2025, Offences against the State (Amendment) Act 1998 and Criminal Justice (Amendment) Act 2009: Motions*, and (24.06.2025) by *Resolution of Seanad Éireann: Debates Volume 306 No. 14, 24 June 2025, Offences against the State (Amendment) Act 1998 and Criminal Justice (Amendment) Act 2009: Motions*.
+>
+> F35: Substituted (23.07.2009) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 21(1)(c), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C13: Power to take samples and palm and finger prints from person in custody of Garda Síochána under section provided (20.11.2015) by *Criminal Justice (Forensic Evidence and DNA Database System) Act 2014* (11/2014), ss. 9(1)(a), 100, S.I. No. 508 of 2015.
+>
+> **Power to take samples from persons in custody of Garda Síochána**
+>
+> **9**. (1) Where a person is detained under any of the following provisions, a sample under section 11, an intimate sample or a non-intimate sample or more than one sample may be taken from the person:
+>
+> (*a*) section 30 of the Act of 1939;
+>
+> ...
+>
+> **Power of Garda Síochána to take fingerprints and palm prints of persons arrested for purpose of charge**
+>
+> **100**. (1) Where a person is arrested for the purpose of being charged with a relevant offence, a member of the Garda Síochána may take, or cause to be taken, the fingerprints and palm prints of the person in a Garda Síochána station before he or she is charged with the relevant offence concerned.
+>
+> ...
+>
+> C14: Application of certain provisions of *Criminal Justice Act 1984* extended (1.07.1987) by *Criminal Justice Act 1984* (22/1984), s. 9, S.I. No. 150 of 1987, as amended, and s. 9(2) as inserted (20.11.2015) by *Criminal Justice (Forensic Evidence and DNA Database System) Act 2014* (11/2014), s. 104, S.I. No. 508 of 2015.
+>
+> **Application to persons in custody under section 30 of Offences against the State Act, 1939.**
+>
+> **9.**— **[**(1)**]** **[**Sections 5, 6A, 18, 19 and 19A, subsections (8), (8A) and (8B) of section 4 and subsections (1A), (2) and (3) of section 6**]** shall apply, with the necessary modifications, in relation to persons in custody under section 30 of the Act of 1939 and to the powers conferred by section 7 of the Criminal Law Act, 1976, as they apply to persons detained pursuant to section 4 of this Act.
+>
+> (2) Sections 8 to 8I shall, with the following and any other necessary modifications, apply to fingerprints, palm prints and photographs, as may be appropriate, taken from or of a person pursuant to section 30 of the Act of 1939 or section 7 of the Criminal Law Act 1976 as they apply to fingerprints, palm prints and photographs taken from or of a person pursuant to section 6 or 6A:
+>
+> (*a*) references to an offence to which section 4 applies shall be construed as references to an offence to which section 4 applies or an offence in connection with which a person may be arrested and detained under section 30 of the Act of 1939;
+>
+> (*b*) references to section 6 or 6A shall be construed as references to section 30 of the Act of 1939 and section 7 of the Criminal Law Act 1976; and
+>
+> (*c*) references to the detention of the person under section 4 shall be construed as references to the detention of the person under section 30 of the Act of 1939.
+>
+> C15: Certain records required on direction of extension of detention under section (16.05.1987) by *Criminal Justice Act 1984 (Treatment of Persons in Custody in Garda Síochána Stations) Regulations 1987* (S.I. No. 119 of 1987), reg. 7(4).
+>
+> (4) Where a direction has been given under section 30 of the Offences against the State Act, 1939 (No. 13 of 1939), that a person be detained for a further period not exceeding twenty-four hours, the fact that the direction was given, the date and time when it was given and the name and rank of the officer who gave it shall be recorded.
+>
+> **Editorial Notes:**
+>
+> E8: Provision made for recording of interviews in police stations with persons detained under section (1.03.1997) by *Criminal Justice Act 1984 (Electronic Recording of Interviews) Regulations 1997* (S.I. No. 74 of 1997), reg. 3(2)(b), in effect as per reg. 1(2), as amended.
+>
+> E9: Garda powers in relation to person in custody under section provided (24.09.1976) by *Criminal Law Act 1976* (32/1976), s. 7, commened on enactment, subject to transitional provision in s. 16(2), as amended.
+>
+> E10: Previous affecting provision: subs. (4D) inserted (1.08.2006) by *Criminal Justice Act 2006* (26/2006), s. 187, S.I. No. 390 of 2006; substituted (23.07.2009) as per F-note above.
+>
+> E11: Previous affecting provision: application of section restricted (16.10.1976) by *Emergency Powers Act 1976* (33/1976), s. 2(5), commenced on enactment; expired (7.02.1995, 16.02.1995) as per s. 1 and *Resolution of Dáil Éireann: Debates Volume 448 No. 6, 7 February 1995, Cessation of State of Emergency: Motion*, *Resolution of Seanad Éireann: Debates Volume 141 No. 18, 16 February 1995, Lifting of State of Emergency: Motion*.
+
+### F36[Rearrest under section 30 of Act of 1939.
+
+**30A.**—F37[(1) Where a person arrested on suspicion of having committed an offence is detained pursuant to section 30 of this Act and is released without any charge having been made against him, he shall not—
+
+(*a*) be arrested again in connection with the offence to which the detention related, or
+
+(*b*) be arrested for any other offence of which, at the time of the first arrest, the member of the Garda Síochána by whom he was arrested, suspected, or ought reasonably to have suspected, him of having committed,
+
+except under the authority of a warrant issued by a judge of the District Court who is satisfied on information supplied on oath by a member of the Garda Síochána not below the rank of superintendent that either of the following cases apply, namely—
+
+(i) further information has come to the knowledge of the Garda Síochána since the person’s release as to his suspected participation in the offence for which his arrest is sought,
+
+(ii) notwithstanding that the Garda Síochána had knowledge, prior to the person’s release, of the person’s suspected participation in the offence for which his arrest is sought, the questioning of the person in relation to that offence, prior to his release, would not have been in the interests of the proper investigation of the offence.]
+
+F38[(1A) An application for a warrant under this section shall be heard otherwise than in public.]
+
+(2) Section 30 of this Act, and, in particular, any powers conferred thereby, shall apply to or in respect of a person arrested in connection with an offence to which that section relates under a warrant issued pursuant to subsection (1) of this section as it applies to or in respect of a person to whom that section applies, with the following and any other necessary modifications:
+
+(*a*) the substitution of the following subsection for subsection (3):
+
+"(3) Whenever a person is arrested under a warrant issued pursuant to section 30A(1) of this Act, he may be removed to and detained in custody in a Garda Síochána station, a prison or some other convenient place for a period of 24 hours from the time of his arrest.",
+
+(*b*) the deletion of F39[subsections (4), (4A), F37[(4B), (4BA), (4BB), (4BC)] and (4D)], and
+
+(*c*) the addition of the following at the end of subsection (4C):
+
+"or, in case the detention follows an arrest under a warrant issued pursuant to section 30A of this Act, by subsection (3) of this section as substituted by the said section 30A.".
+
+(3) Notwithstanding subsection (1) of this section, a person to whom that subsection relates may be arrested for any offence F39[for the purpose of charging him or her with that offence forthwith or bringing him or her before a Special Criminal Court as soon as practicable so that he or she may be charged with that offence before that Court].]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F36: Inserted (3.09.1998) by *Offences Against the State (Amendment) Act 1998* (39/1998), s. 11, commenced on enactment; continued in force annually, most recently for one year to 29 June 2026 as per s. 18(1) (25.06.2025) by *Resolution of Dáil Éireann: Debates Volume 1069 No. 5, 25 June 2025, Offences against the State (Amendment) Act 1998 and Criminal Justice (Amendment) Act 2009: Motions*, and (24.06.2025) by *Resolution of Seanad Éireann: Debates Volume 306 No. 14, 24 June 2025, Offences against the State (Amendment) Act 1998 and Criminal Justice (Amendment) Act 2009: Motions*.
+>
+> F37: Substituted (23.07.2009) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 21(2), (3), commenced on enactment.
+>
+> F38: Inserted (23.07.2009) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 21(2), commenced on enactment.
+>
+> F39: Substituted (1.08.2006) by *Criminal Justice Act 2006* (26/2006), s. 187(b)(i), (ii) S.I. No. 390 of 2006.
+>
+> **Modifications (not altering text):**
+>
+> C16: References to "a member of the Garda Síochána not below the rank of superintendent" construed (20.11.2015) by *Criminal Justice (Forensic Evidence and DNA Database System) Act 2014* (11/2014), s. 166, S.I. No. 508 of 2015.
+>
+> **166.** The reference to a member of the Garda Síochána not below the rank of superintendent in each of the provisions specified in column (3) of the Table to this section of the enactments specified in column (2) of that Table shall be construed as a reference to a member of the Garda Síochána not below the rank of inspector if the reason or one of the reasons for seeking the arrest of the person concerned for—
+>
+> (*a*) the offence in relation to which he or she was detained under section 30 of the Act of 1939, section 4 of the Act of 1984, section 2 of the Act of 1996 or section 50 of the Act of 2007, as the case may be, or
+>
+> (*b*) any other offence of which, at the time of the first arrest, the member of the Garda Síochána by whom he or she was arrested suspected, or ought reasonably to have suspected, him or her of having committed,
+>
+> is that the Garda Síochána have, since the person’s release, obtained the results of the forensic testing of a sample taken under the Criminal Justice (Forensic Evidence) Act 1990 or otherwise or under Part 2 from the person while he or she was detained under section 30 of the Act of 1939, section 4 of the Act of 1984, section 2 of the Act of 1996 or section 50 of the Act of 2007, as the case may be, and those results indicate a match of the person’s DNA profile with a DNA profile generated from a sample taken from the crime scene in respect of the offence for which the arrest of the person is sought.
+
+### 31. Offences by bodies corporate.
+
+**31.**—Where an offence under any section or sub-section of this Act is committed by a body corporate and is proved to have been so committed with the consent or approval of, or to have been facilitated by any neglect on the part of, any director, manager, secretary, or other officer of such body corporate, such director, manager, secretary, or other officer shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly, whether such body corporate has or has not been proceeded against in respect of the said offence.
+
+### 32. Re-capture of escaped prisoners.
+
+**32.**—(1) Whenever any person detained under this Act shall have escaped from such detention, such person may be arrested without warrant by any member of the Gárda Síochána shall thereupon be returned in custody to the place from which he so escaped.
+
+(2) Every person who shall aid or abet a person detained under this Act to escape from such detention or to avoid recapture after having so escaped shall be guilty of an offence under this section and shall be liable on summary conviction thereof to imprisonment for a term not exceeding three months.
+
+### 33. Remission, etc., in respect of convictions by a Special Criminal Court.
+
+**33.**—(1) Except in capital cases, the Government may, at their absolute discretion, at any time remit in whole or in part or modify (by way of mitigation only) or defer any punishment imposed by a Special Criminal Court.
+
+(2) Whenever the Government remits in whole or in part or defers a punishment imposed by a Special Criminal Court, the Government may attach to such remittal or deferment such conditions (if any) as they may think proper.
+
+(3) Whenever the Government defers under the next preceding sub-section of this section the whole or any part of a sentence of imprisonment, the person on whom such sentence was imposed shall be bound to serve such deferred sentence, or part of a sentence, of imprisonment when the same comes into operation and may for that purpose be arrested without warrant.
+
+### 34. Forfeitures and disqualifications on certain convictions by a Special Criminal Court.
+
+**34.**—(1) Whenever a person who is convicted by a Special Criminal Court of an offence which is, at the time of such conviction, a scheduled offence for the purposes of Part V of this Act, holds at the time of such conviction an office or employment remunerated out of the Central Fund or moneys provided by the Oireachtas or moneys raised by local taxation, or in or under or as a paid member of a board or body established by or under statutory authority, such person shall immediately on such conviction forfeit such office, employment, place, or emolument and the same shall forthwith become and be vacant.
+
+(2) Whenever a person who is convicted by a Special Criminal Court of an offence which is, at the time of such conviction, a scheduled offence for the purposes of Part V of this Act, is at the time of such conviction in receipt of a pension or superannuation allowance payable out of the Central Fund or moneys provided by the Oireachtas or moneys raised by local taxation, or the funds of a board or body established by or under statutory authority, such person, shall immediately upon such conviction forfeit such pension or superannuation allowance and such pension or superannuation allowance shall forthwith cease to be payable.
+
+(3) Every person who is convicted by a Special Criminal Court of an offence which is, at the time of such conviction, a scheduled offence for the purposes of Part V of this Act, shall be disqualified—
+
+(*a*) for holding, within seven years after the date of such conviction, any office or employment remunerated out of the Central Fund or moneys provided by the Oireachtas or moneys raised by local taxation or in or under or as a paid member of a board or body established by or under statutory authority, and
+
+(*b*) for being granted out of the Central Fund or any such moneys or the funds of any such board or body, at any time after the date of such conviction, any pension, superannuation allowance, or gratuity in respect wholly or partly of any service rendered or thing done by him before the date of such conviction, and
+
+(*c*) for receiving at any time after such conviction any such pension, superannuation allowance, or gratuity as is mentioned in the next preceding paragraph of this section which was granted but not paid on or before the date of such conviction.
+
+(4) Whenever a conviction which occasions by virtue of this section any forfeiture or disqualification is quashed or annulled or the convicted person is granted a free pardon such forfeiture or disqualification shall be annulled, in the case of a quashing or annulment, as from the date of the conviction and, in the case of a free pardon, as from the date of such pardon.
+
+(5) The Government may, at their absolute discretion, remit, in whole or in part, any forfeiture or disqualification incurred under this section and restore or revive, in whole or in part, the subject of such forfeiture as from the date of such remission.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C17: Section declared unconstitutional (1.01.1992) by *Cox v Ireland* [1992] 2 IR 503.
+>
+> From the headnote of the case report, High Court, Barr J.:
+>
+> 4\. The penalties imposed by s. 34 upon those within its compass were patently unfair and capricious in nature. The provisions of the section amounted to an unreasonable and unjustified interference with the plaintiff's personal rights guaranteed under Article 40, s. 2 of the constitution, and constituted a denial of equality for the the law contrary to Article 40, s. 1 of the Constitution. Consequently, s. 34 of the act of 1939 was invalid in its entirety having regard to the provisions of the Constitution.
+>
+> Supreme Court (Finlay C.J., Hederman, McCarthy, O'Flaherty and Egan JJ.), dismissed the appeal.
+
+## PART V. — Special Criminal Courts.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C18: Certain offences under *Criminal Justice Act 2006* deemed scheduled offences (23.07.2009) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 8(2), commenced on enactment; continued in force annually, most recently for one year to 29 June 2026 as per subs. (4) (25.06.2025) by *Resolution of Dáil Éireann: Debates Volume 1069 No. 5, 25 June 2025, Offences against the State (Amendment) Act 1998 and Criminal Justice (Amendment) Act 2009: Motions*, and (24.06.2025) by *Resolution of Seanad Éireann: Debates Volume 306 No. 14, 24 June 2025, Offences against the State (Amendment) Act 1998 and Criminal Justice (Amendment) Act 2009: Motions*.
+>
+> **Certain offences under Part 7 of Act of 2006 to be scheduled offences.**
+>
+> **8**.— (1) It is hereby declared that the ordinary courts are inadequate to secure the effective administration of justice and the preservation of public peace and order in relation to an offence under each of the following provisions of Part 7 of the Act of 2006, namely, sections 71A, 72, 73 and 76.
+>
+> (2) An offence specified in *subsection (1)* shall be deemed to be a scheduled offence for the purposes of Part V of the Act of 1939 as if an order had been made under section 36 of the Act of 1939 in relation to it and subsection (3) of that section and section 37 of the Act of 1939 shall apply to such an offence accordingly.
+>
+> ...
+>
+> C19: Certain offences deemed scheduled offences (3.09.1998) by *Offences Against the State (Amendment) Act 1998* (39/1998), s. 14(2), commenced on enactment.
+>
+> **Offences under Act to be scheduled offences.**
+>
+> **14.**—(1) It is hereby declared that the ordinary courts are inadequate to secure the effective administration of justice and the preservation of public peace and order in relation to each offence under sections 6 to 9 and 12.
+>
+> (2) Each offence under sections 6 to 9 and 12 shall be deemed to be a scheduled offence for the purposes of Part V of the Act of 1939 as if an order had been made under section 36 of that Act in relation to it and subsection (3) of that section and section 37 of that Act shall apply to such an offence accordingly.
+>
+> ...
+
+### 35. Commencement and cesser of this Part of this Act.
+
+**35.**—(1) This Part of this Act shall not come into or be in force save as and when and for so long as is provided by the subsequent sub-sections of this section.
+
+(2) If and whenever and so often as the Government is satisfied that the ordinary courts are inadequate to secure the effective administration of justice and the preservation of public peace and order and that it is therefore necessary that this Part of this Act should come into force, the Government may make and publish a proclamation declaring that the Government is satisfied as aforesaid and ordering that this Part of this Act shall come into force.
+
+(3) Whenever the Government makes and publishes, under the next preceding sub-section of this section, such proclamation as is mentioned in that sub-section, this Part of this Act shall come into force forthwith.
+
+(4) If at any time while this Part of this Act is in force the Government is satisfied that the ordinary courts are adequate to secure the effective administration of justice and the preservation of public peace and order, the Government shall make and publish a proclamation declaring that this Part of this Act shall cease to be in force, and thereupon this Part of this Act shall forthwith cease to be in force.
+
+(5) It shall be lawful for Dáil Eireann, at any time while this Part of this Act is in force, to pass a resolution annulling the proclamation by virtue of which this Part of this Act is then in force, and thereupon such proclamation shall be annulled and this Part of this Act shall cease to be in force, but without prejudice to the validity of anything done under this Part of this Act after the making of such proclamation and before the passing of such resolution.
+
+(6) A proclamation made by the Government under this section shall be published by publishing a copy thereof in the *Iris Oifigiúil* and may also be published in any other manner which the Government shall think proper.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E12: Proclamation made and published (22.08.1939) in Iris Oigiúil.
+>
+> PROCLAMATION
+>
+> The Government, in exercise of the powers conferred on them by sub-section (2) of Section 35 of the Offences Against the State Act, 1939, hereby declare that they are satisfied that the ordinary Courts are inadequate to secure the effective administration of justice and the preservation of public peace and order and that it is therefore necessary that Part V of the said Offences Against the State Act, 1939, should come into force, and hereby order that the said Part V of the said Act shall come into force.
+
+### 36. Scheduled offences.
+
+**36.**—(1) Whenever while this Part of this Act is in force the Government is satisfied that the ordinary courts are inadequate to secure the effective administration of justice and the preservation of public peace and order in relation to offences of any particular class or kind or under any particular enactment, the Government may by order declare that offences of that particular class or kind or under that particular enactment shall be scheduled offences for the purposes of this Part of this Act.
+
+(2) Whenever the Government has made under the foregoing sub-section of this section any such declaration as is authorised by that sub-section, every offence of the particular class or kind or under the particular enactment to which such declaration relates shall, until otherwise provided by an order under the next following sub-section of this section, be a scheduled offence for the purposes of this Part of this Act.
+
+(3) Whenever the Government is satisfied that the effective administration of justice and the preservation of public peace and order in relation to offences of any particular class or kind or under any particular enactment which are for the time being scheduled offences for the purposes of this Part of this Act can be secured through the medium of the ordinary courts, the Government may by order declare that offences of that particular class or kindor under that particular enactment shall, upon the making of such order, cease to be scheduled offences for the purposes of this Part of this Act.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C20: Certain offences under *Criminal Justice Act 2006* deemed scheduled offences (23.07.2009) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 8(2), commenced on enactment; continued in force annually, most recently for one year to 29 June 2026 as per subs. (4) (25.06.2025) by *Resolution of Dáil Éireann: Debates Volume 1069 No. 5, 25 June 2025, Offences against the State (Amendment) Act 1998 and Criminal Justice (Amendment) Act 2009: Motions*, and (24.06.2025) by *Resolution of Seanad Éireann: Debates Volume 306 No. 14, 24 June 2025, Offences against the State (Amendment) Act 1998 and Criminal Justice (Amendment) Act 2009: Motions*.
+>
+> **Certain offences under Part 7 of Act of 2006 to be scheduled offences.**
+>
+> **8**.— (1) It is hereby declared that the ordinary courts are inadequate to secure the effective administration of justice and the preservation of public peace and order in relation to an offence under each of the following provisions of Part 7 of the Act of 2006, namely, sections 71A, 72, 73 and 76.
+>
+> (2) An offence specified in *subsection (1)* shall be deemed to be a scheduled offence for the purposes of Part V of the Act of 1939 as if an order had been made under section 36 of the Act of 1939 in relation to it and subsection (3) of that section and section 37 of the Act of 1939 shall apply to such an offence accordingly.
+>
+> ...
+>
+> C21: Certain offences deemed scheduled offences (3.09.1998) by *Offences Against the State (Amendment) Act 1998* (39/1998), s. 14(2), commenced on enactment.
+>
+> **Offences under Act to be scheduled offences.**
+>
+> **14.**—(1) It is hereby declared that the ordinary courts are inadequate to secure the effective administration of justice and the preservation of public peace and order in relation to each offence under sections 6 to 9 and 12.
+>
+> (2) Each offence under sections 6 to 9 and 12 shall be deemed to be a scheduled offence for the purposes of Part V of the Act of 1939 as if an order had been made under section 36 of that Act in relation to it and subsection (3) of that section and section 37 of that Act shall apply to such an offence accordingly.
+>
+> ...
+>
+> C22: Power of member of Garda Síochána in relation to suspected scheduled offence provided (3.12.1972) by *Offences Against the State (Amendment) Act 1972* (26/1972), s. 2, commenced on enactment. A fine of £200 converted (1.01.1999) to €253.95. This translates into a class C fine, not exceeding €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 5, S.I. No. 662 of 2010.
+>
+> **2.**—Where a member of the Garda Síochána—
+>
+> (*a*) has reasonable grounds for believing that an offence which is for the time being a scheduled offence for the purposes of Part V of the Act of 1939 is being or was committed at any place,
+>
+> (*b*) has reasonable grounds for believing that any person whom he finds at or near the place at the time of the commission of the offence or soon afterwards knows, or knew at that time, of its commission, and
+>
+> (c) informs the person of his belief as aforesaid,
+>
+> the member may demand of the person his name and address and an account of his recent movements and, if the person fails or refuses to give the information or gives information that is false or misleading, he shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £200 or, at the discretion of the court, to imprisonment for a term not exceeding twelve months or to both such fine and such imprisonment.
+>
+> **Editorial Notes:**
+>
+> E13: Power pursuant to subs. (1) exercised (17.11.1972) by *Offences Against The State (Scheduled Offences) (No. 2) Order 1972* (S.I. No. 282 of 1972).
+>
+> E14: Power pursuant to subs. (1) exercised (30.05.1972) by *Offences Against The State (Scheduled Offences) Order 1972* (S.I. No. 142 of 1972).
+>
+> E15: Power pursuant to subs. (3) exercised (28.05.1948) by *Offences Against The State (Scheduled Offences) (Cessation) Order 1948* (S.I. No. 192 of 1948).
+>
+> E16: Power pursuant to subs. (1) exercised (26.11.1940) by *Offences Against The State (Scheduled Offences) (No. 3) Order 1940* (S.I. No. 334 of 1940).
+>
+> E17: Power pursuant to subs. (1) exercised (24.11.1939) by *Offences Against The State (Scheduled Offences) (No. 2) Order 1939* (S.I. No. 343 of 1939).
+>
+> E18: Power pursuant to subs. (1) exercised (17.11.1939) by *Offences Against The State (Scheduled Offences) Order 1939* (S.I. No. 339 of 1939).
+>
+> E19: Previous affecting provision: power pursuant to subs. (1) exercised (30.09.1947) by *Offences Against The State (Scheduled Offences) (No. 7) Order 1947* (S.I. No. 362 of 1947); offences prescribed ceased as scheduled offences (28.05.1948) by *Offences Against The State (Scheduled Offences) (Cessation) Order 1948* (S.I. No. 192 of 1948), art. 2 and appendix.
+>
+> E20: Previous affecting provision: power pursuant to subs. (1) exercised (19.08.1947) by *Offences Against The State (Scheduled Offences) (No. 6) Order 1947* (S.I. No. 282 of 1947); prescribed offences ceased as scheduled offences (28.05.1948) by *Offences Against The State (Scheduled Offences) (Cessation) Order 1948* (S.I. No. 192 of 1948), art. 2 and appendix.
+>
+> E21: Previous affecting provision: power pursuant to subs. (1) exercised (3.06.1947) by *Offences Against The State (Scheduled Offences) (No. 5) Order 1947* (S.I. No. 212 of 1947); prescribed offences ceased as scheduled offences (28.05.1948) by *Offences Against The State (Scheduled Offences) (Cessation) Order 1948* (S.I. No. 192 of 1948), art. 2 and appendix.
+>
+> E22: Previous affecting provision: power pursuant to subs. (1) exercised (25.04.1947) by *Offences Against The State (Scheduled Offences) (No. 4) Order 1947* (S.I. No. 205 of 1947); prescribed offences ceased as scheduled offences (28.05.1948) by *Offences Against The State (Scheduled Offences) (Cessation) Order 1948* (S.I. No. 192 of 1948), art. 2 and appendix.
+
+### 37. Attempting, etc., to commit a scheduled offence.
+
+**37.**—In addition to the offences which are, by virtue of an order made under the next preceding section, for the time being scheduled offences for the purposes of this Part of this Act, each of the following acts, that is to say, attempting or conspiring or inciting to commit, or aiding or abetting the commission of, any such scheduled offence shall itself be a scheduled offence for the said purposes.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C23: Application extended to certain offences under *Criminal Justice Act 2006* (23.07.2009) by *Criminal Justice (Amendment) Act 2009* (32/2009), s. 8(2).
+>
+> **8.**— (1) It is hereby declared that the ordinary courts are inadequate to secure the effective administration of justice and the preservation of public peace and order in relation to an offence under each of the following provisions of Part 7 of the Act of 2006, namely, sections 71A, 72, 73 and 76.
+>
+> (2) An offence specified in subsection (1) shall be deemed to be a scheduled offence for the purposes of Part V of the Act of 1939 as if an order had been made under section 36 of the Act of 1939 in relation to it and subsection (3) of that section and section 37 of the Act of 1939 shall apply to such an offence accordingly.
+>
+> C24: Certain offences deemed scheduled offences (3.09.1998) by *Offences Against the State (Amendment) Act 1998* (39/1998), s. 14(2), commenced on enactment.
+>
+> **Offences under Act to be scheduled offences.**
+>
+> **14.**—(1) It is hereby declared that the ordinary courts are inadequate to secure the effective administration of justice and the preservation of public peace and order in relation to each offence under sections 6 to 9 and 12.
+>
+> (2) Each offence under sections 6 to 9 and 12 shall be deemed to be a scheduled offence for the purposes of Part V of the Act of 1939 as if an order had been made under section 36 of that Act in relation to it and subsection (3) of that section and section 37 of that Act shall apply to such an offence accordingly.
+>
+> ...
+
+### 38. Establishment of Special Criminal Courts.
+
+**38.**—(1) As soon as may be after the coming into force of this Part of this Act, there shall be established for the purposes of this Part of this Act, a court which shall be styled and known and is in this Act referred to as a Special Criminal Court.
+
+(2) The Government may, whenever they consider it necessary or desirable so to do, establish such additional number of courts for the purposes of this Part of this Act as they think fit, and each court so established shall also be styled and known and is in this Act referred to as a Special Criminal Court.
+
+(3) Whenever two or more Special Criminal Courts are in existence under this Act, the Government may, if and so often as they so think fit, reduce the number of such Courts and for that purpose abolish such of those existing Courts as appear to the Government to be redundant.
+
+F40[(4) For the purposes of this Act, a Special Criminal Court is in existence if it has been established under this section and has at the relevant time not fewer than 3 members appointed under section 39.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F40: Inserted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 52.
+
+### 39. Constitution of Special Criminal Courts.
+
+**39.**—(1) Every Special Criminal Court established under this Part of this Act shall consist of such uneven number (not being less than three) of members as the Government shall from time to time determine, and different numbers of members may be so fixed in respect of different Special Criminal Courts.
+
+(2) Each member of a Special Criminal Court shall be appointed, and be removable at will, by the Government.
+
+(3) No person shall be appointed to be a member of a Special Criminal Court unless he is a judge of the High Court or the Circuit Court, or a justice of the District Court, or a barrister of not less than seven years standing, or a solicitor of not less than seven years standing, or an officer of the Defence Forces not below the rank of commandant.
+
+(4) The Minister for Finance may pay to every member of a Special Criminal Court such (if any) remuneration and allowancesas the said Minister may think proper, and different rates of remuneration and allowances may be so paid to different members of any such Court, or to the members of different such Courts.
+
+F41[(5) The Courts Service may appoint from among the staff of the Courts Service such registrars for the purposes of any Special Criminal Court as it thinks proper, and every such registrar shall hold his or her office on such terms and conditions (including terms and conditions relating to remuneration) as are determined by the Minister for Public Expenditure, National Development Plan Delivery and Reform.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F41: Substituted (31.07.2023) by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 109, S.I. No. 389 of 2023.
+>
+> **Modifications (not altering text):**
+>
+> C25: Registrar appointed under this section deemed to be constituent court office (4.12.2009) by *Courts and Court Officers Act 2009* (36/2009), s. 17(2), S.I. No. 477 of 2009.
+>
+> **Special Criminal Court.**
+>
+> **17**.— (1) Notwithstanding any other enactment, the Government may, by order, provide that specified business of a Special Criminal Court, other than business that is required to be transacted by or before a judge or judges of such a Court, shall be transacted in a combined court office.
+>
+> (2) A registrar appointed for the purposes of a Special Criminal Court under section 39 of the Act of 1939, or any person acting under the direction of such a registrar, in the transaction of the business that is the subject of an order under subsection (1), is deemed to be a constituent court office for the purposes of this Part.
+>
+> **Editorial Notes:**
+>
+> E23: Previous affecting provision: reference to *Courts of Justice Act 1924*, s. 30 construed (29.09.1961) by *Courts (Supplemental Provisions) Act 1961* (39/1961), s. 12(3), S.I. No. 217 of 1961; s. 12 repealed (31.08.2014) by *Court of Appeal Act 2014* (18/2014), s. 73 and sch. 1 item 5, S.I. No. 259 of 2018.
+
+### 40. Verdicts of Special Criminal Courts.
+
+**40.**—(1) The determination of every question before a Special Criminal Court shall be according to the opinion of the majority of the members of such Special Criminal Court present at and taking part in such determination, but no member or officer of such Court shall disclose whether any such determination was or was not unanimous or, where such determination was not unanimous, the opinion of any individual member of such Court.
+
+(2) Every decision of a Special Criminal Court shall be pronounced by such one member of the Court as the Court shall determine, and no other member of the Court shall pronounce or indicate his concurrence in or dissent from such decision.
+
+### 41. Procedure of Special Criminal Courts.
+
+**41.**—(1) Every Special Criminal Court shall have power, in its absolute discretion, to appoint the times and places of its sittings, and shall have control of its own procedure in all respects and, shall for that purpose make, with the concurrence of the Minister for Justice, rules regulating its practice and procedure and may in particular provide by such rules for the issuing of summonses, the procedure for bringing (in custody or on bail) persons before it for trial, the admission or exclusion of the public to or from its sittings, the enforcing of the attendance of witnesses, and the production of documents.
+
+(2) A Special Criminal Court sitting for the purpose of the trial of a person, the making of any order, or the exercise of any other jurisdiction or function shall consist of an uneven number (not less than three) of members of such Court present at and taking part in such sitting.
+
+(3) Subject and without prejudice to the provisions of the next preceding sub-section of this section, a Special Criminal Court may exercise any power, jurisdiction, or function notwithstanding one or more vacancies in the membership of such court.
+
+(4) Subject to the provisions of this Act, the practice and procedure applicable to the trial of a person on indictment in the Central Criminal Court shall, so far as practicable, apply to the trial of a person by a Special Criminal Court, and the rules of evidence applicable upon such trial in the Central Criminal Court shall apply to every trial by a Special Criminal Court.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E24: Power pursuant to subs. (1) exercised (25.04.2016) by *Offences Against the State Acts 1939 to 1998 Special Criminal Court No. 2 Rules 2016* (S.I. No. 183 of 2016), in effect as per rule 1(1).
+>
+> E25: Power pursuant to subs. (1) exercised (25.04.2016) by *Offences Against the State Acts 1939 to 1998 Special Criminal Court No. 1 Rules 2016* (S.I. No. 182 of 2016), in effect as per rule 1(1).
+>
+> E26: Power pursuant to subs. (1) exercised (12.06.1972) by *Special Criminal Court Rules 1972* (S.I. No. 147 of 1972), in effect as per rule 1(1).
+>
+> E27: Power pursuant to subs. (1) exercised (20.10.1942) by *Additional Rules of Special Criminal Court Established on the 24th Day of August 1939* (S.I. No. 441 of 1942).
+>
+> E28: Power pursuant to subs. (1) exercised (28.11.1939) by *Additional Rules of Special Criminal Court Established on the 24th Day of August 1939* (S.I. No. 346 of 1939).
+>
+> E29: Power pursuant to subs. (1) exercised (3.10.1939) by *Rules of Special Criminal Court 1939* (S.I. No. 266 of 1939).
+>
+> E30: Previous affecting provision: power pursuant to subs. (1) exercised (30.11.2001) by *Offences Against The State Acts 1939 To 1998 (Special Criminal Court Rules) 2001* (S.I. No. 536 of 2001); annulled (25.04.2016) by *Offences Against the State Acts 1939 to 1998 Special Criminal Court No. 1 Rules 2016* (S.I. No. 182 of 2016), rule 1(3), in effect as per rule 1(1).
+>
+> E31: Previous affecting provision: power pursuant to subs. (1) exercised (3.10.1975) by *Offences Against The State Acts, 1939 To 1972 Special Criminal Court Rules 1975* (S.I. No. 234 of 1975); annulled (25.04.2016) by *Offences Against the State Acts 1939 to 1998 Special Criminal Court No. 1 Rules 2016* (S.I. No. 182 of 2016), rule 1(3), in effect as per rule 1(1).
+
+### 42. Authentication of orders of Special Criminal Courts.
+
+**42.**—(1) Every order or other act of a Special Criminal Court shall be authenticated by the signature of a registrar of that Court.
+
+(2) Every document which purports to be an order or other act of a Special Criminal Court and to be authenticated by the signature of a registrar of that Court shall be received in evidence in all Courts and be deemed to be an order or other act (as the case may require) of such Special Criminal Court without proof of the signature by which such order or act purports to be authenticated or that the person whose signature such signature purports to be was a registrar of the said Special Criminal Court.
+
+### 43. Jurisdiction of Special Criminal Courts.
+
+**43.**—(1) A Special Criminal Court shall have jurisdiction to try and to convict or acquit any person lawfully brought before that Court for trial under this Act, and shall also have the following ancillary jurisdictions, that is to say:—
+
+(*a*) jurisdiction to sentence every person convicted by that Court of any offence to suffer the punishment provided by law in respect of such offence;
+
+(*b*) jurisdiction, in lieu of or in addition to making any other order in respect of a person, to require such person to enter into a recognisance before such Special Criminal Court or before a justice of the District Court, in such amount and with or without sureties as such Special Criminal Court shall direct, to keep the peace and be of good behaviour for such period as that Court shall specify;
+
+(*c*) jurisdiction to order the detention of and to detain in civil or military custody, or to admit to bail in such amount and with or without sureties as that Court shall direct, pending trial by that Court and during and after such trial until conviction or acquittal, any person sent, sent forward, transferred, or otherwise brought for trial by that Court;
+
+(*d*) power to administer oaths to witnesses;
+
+(*e*) jurisdiction and power to punish, in the same manner and in the like cases as the High Court, all persons whom such Special Criminal Court finds guilty of contempt of that Court or any member thereof, whether such contempt is or is not committed in the presence of that Court;
+
+(*f*) power, in relation to recognisances and bail bonds entered into before such Special Criminal Court, to estreat such recognisances and bail bonds in the like manner and in the like cases as the District Court estreats recognisances and bail bonds entered into before it.
+
+(2) The provisions of this Part of this Act in relation to the carrying out of sentences of imprisonment pronounced by Special Criminal Courts and the regulations made under those provisions shall apply and have effect in relation to the carrying out of orders made by Special Criminal Courts under the foregoing sub-section of this section for the detention of persons in custody, whether civil or military.
+
+### 44. Appeal to Court of Criminal Appeal.
+
+**44.**—F42[(1) A person convicted by a Special Criminal Court of any offence or sentenced by a Special Criminal Court to suffer any punishment may appeal to the Court of Criminal Appeal from such conviction or sentence.]
+
+(2) Sections 28 to 30 and sections 32 to 35 of the Courts of Justice Act, 1924 (No. 10 of 1924), and sections 5, 6, and 7 of the Courts of Justice Act, 1928 (No. 15 of 1928), shall apply and have effect in relation to appeals under this section in like manner as they apply and have effect in relation to appeals under section 31 of the Courts of Justice Act, 1924.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F42: Substituted (1.09.2010) by *Criminal Procedure Act 2010* (27/2010), s. 32, S.I. No. 414 of 2010.
+>
+> **Modifications (not altering text):**
+>
+> C26: Application of subs. (2) continued (15.12.1995) by *Courts and Court Officers Act 1995* (31/1995), s. 3(3), commenced on enactment.
+>
+> **Repeals**
+>
+> 3.—(1) The enactments mentioned in column (2) of Part I of the First Schedule to this Act are hereby repealed to the extent mentioned in column (3) of that Schedule.
+>
+> (2) Subject to subsection (3) of this section the enactments mentioned in column (2) of Part II of the First Schedule to this Act are hereby repealed to the extent mentioned in column (3) of that Schedule.
+>
+> (3) Section 44 (2) of the Offences Against the State Act, 1939, shall apply and have effect for the purposes of that subsection notwithstanding the repeal of sections 28 and 29 of the Courts of Justice Act, 1924 and section 12 of the Act of 1961.
+>
+> C27: Application of subs. (2) continued (15.12.1995) by *Courts and Court Officers Act 1995* (31/1995), s. 3(3).
+>
+> **Repeals**
+>
+> **3**.— ...
+>
+> (3) Section 44(2) of the Offences Against the State Act, 1939, shall apply and have effect for the purposes of that subsection notwithstanding the repeal of sections 28 and 29 of the Courts of Justice Act, 1924 and section 12 of the Act of 1961.
+>
+> C28: References to legislation in subs. (2) construed (29.12.1993) by *Criminal Procedure Act 1993* (40/1993), s. 3(8), commenced on enactment.
+>
+> **Jurisdiction of Court of Criminal Appeal in relation to appeals.**
+>
+> **3**.— ...
+>
+> (8) The references in section 44(2) of the Offences Against the State Act, 1939, to section 34 of the Criminal Justice Act, 1924, and section 5 of the Criminal Justice Act, 1928, shall be construed as references to this section.
+>
+> **Editorial Notes:**
+>
+> E32: Previous affecting provision: reference to legislation in subs. (2) construed (29.09.1961) by *Courts (Supplemental Provisions) Act 1961* (39/1961), s. 12(3), S.I. No. 217 of 1961; s. 12 repealed (31.08.2014) by *Court of Appeal Act 2014* (18/2014), s. 73 and sch. 1 item 5, S.I. No. 259 of 2018.
+
+### 45. Proceedings in the District Court in relation to scheduled offences.
+
+**45.**—(1) Whenever a person is brought before a justice of the District Court charged with a scheduled offence which such justice has jurisdiction to dispose of summarily, such justice shall, if the Attorney-General so requests, send such person (in custody or on bail) for trial by a Special Criminal Court on such charge.
+
+(2) Whenever a person is brought before a justice of the District Court charged with a scheduled offence which is an indictable offence and such justice F43[...]sends such person forward for trial on such charge, such justice shall (unless the Attorney-General otherwise directs) send such person forward in custody or, with the consent of the Attorney-General, at liberty on bail for trial by a Special Criminal Court on such charge.
+
+(3) Where under this section a person is sent or sent forward in custody for trial by a Special Criminal Court, it shall be lawful for the High Court, on the application of such person, to allow him to be at liberty on such bail (with or without sureties) as the High Court shall fix for his due attendance before the proper Special Criminal Court for trial on the charge on which he was so sent forward.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F43: Deleted (1.10.2001) by *Criminal Justice Act 1999* (10/1999), s. 11, S.I. No. 193 of 2001.
+
+### 46. Proceedings in the District Court in relation to non-scheduled offences.
+
+**46.**—(1) Whenever a person is brought before a justice of the District Court charged with an offence which is not a scheduled offence and which such justice has jurisdiction to dispose of summarily, such justice shall, if the Attorney-General so requests and certifies in writing that the ordinary courts are in his opinion inadequate to secure the effective administration of justice and the preservation of public peace and order in relation to the trial of such person on such charge, send such person (in custody or on bail) for trial by a Special Criminal Court on such charge.
+
+(2) Whenever a person is brought before a justice of the District Court charged with an indictable offence which is not a scheduled offence and such justice F44[...]sends such person forward for trial on such charge, such justice shall, if an application in this behalf is made to him by or on behalf of the Attorney-General grounded on the certificate of the Attorney-General that the ordinary Courts are, in his opinion, inadequate to secure the effective administration of justice and the preservation of public peace and order in relation to the trial of such person on such charge, send such person forward in custody or, with the consent of the Attorney-General, at liberty on bail for trial by a Special Criminal Court on such charge.
+
+(3) Where under this section a person is sent or sent forward in custody for trial by a Special Criminal Court, it shall be lawful for the High Court, on the application of such person, to allow him to be at liberty on such bail (with or without sureties) as the High Court shall fix for his due attendance before the proper Special Criminal Court for trial on the charge on which he was so sent forward.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F44: Deleted (1.10.2001) by *Criminal Justice Act 1999* (10/1999), s. 11, S.I. No. 193 of 2001.
+
+### 47. Charge before Special Criminal Court in lieu of District Court.
+
+**47.**—(1) Whenever it is intended to charge a person with a scheduled offence, the Attorney-General may, if he so thinks proper, direct that such person shall, in lieu of being charged with such offence before a justice of the District Court, be brought before a Special Criminal Court and there charged with such offence and, upon such direction being so given, such person shall be brought before a Special Criminal Court and shall be charged before that Court with such offence and shall be tried by such Court on such charge.
+
+(2) Whenever it is intended to charge a person with an offence which is not a scheduled offence and the Attorney-General certifies that the ordinary Courts are, in his opinion, inadequate to secure the effective administration of justice and the preservation of public peace and order in relation to the trial of such person on such charge, the foregoing sub-section of this section shall apply and have effect as if the offence with which such person is so intended to be charged were a scheduled offence.
+
+(3) Whenever a person is required by this section to be brought before a Special Criminal Court and charged before that Court with such offence, it shall be lawful for such Special Criminal Court to issue a warrant for the arrest of such person and the bringing of him before such Court and, upon the issue of such warrant, it shall be lawful for such person to be arrested thereunder and brought in custody before such Court.
+
+### 48. Transfer of trials from ordinary Courts to a Special Criminal Court.
+
+**48.**—Whenever a person charged with an offence has been sent forward by a justice of the District Court for trial by the Central Criminal Court or the Circuit Court on such charge, then and in every such case the following provisions shall have effect, that is to say:—
+
+(*a*) if the Attorney-General certifies that the ordinary Courts are, in his opinion, inadequate to secure the effective administration of justice and the preservation of public peace and order in relation to the trial of such person on such charge, the Attorney-General shall cause an application, grounded on his said certificate, to be made on his behalf to the High Court for the transfer of the trial of such person on such charge to a Special Criminal Court, and on the hearing of such application the High Court shall make the order applied for, and thereupon such person shall be deemed to have been sent forward to a Special Criminal Court for trial on such charge;
+
+(*b*) whenever the High Court has made, under the next preceding paragraph of this sub-section, such order as is mentioned in that paragraph, the following provisions shall have effect, that is to say:—
+
+(i) a copy of such order shall be served on such person by a member of the Gárda Síochána,
+
+(ii) a copy of such order shall be sent to the appropriate county registrar,
+
+(iii) such person shall be brought before a Special Criminal Court for trial at such time and place as that Court shall direct,
+
+(iv) if such person is in custody when such order is made, he may be detained in custody until brought before such Special Criminal Court for trial,
+
+(v) if such person is at liberty on bail when such order is made, such bail shall be deemed to be for his attendance before a Special Criminal Court for trial at such time and place as that Court shall direct and, if he fails so to attend before the said Court, he shall be deemed to have broken his bail and his bail bond shall be estreated accordingly.
+
+### 49. Selection of the Special Criminal Court by which a person is to be tried.
+
+**49.**—F45[(1)] Where a person is (in the case of an offence triable summarily) sent or (in the case of an indictable offence) sent forward by a justice of the District Court to a Special Criminal Court for trial or the trial of a person is transferred under this Act to a Special Criminal Court or a person is to be charged before and tried by a Special Criminal Court, such of the following provisions as are applicable shall have effect, that is to say:—
+
+(*a*) where a person is so sent or sent forward, the justice shall not specify the particular Special Criminal Court to which he sends or sends forward such person for trial;
+
+(*b*) where the trial of a person is so transferred, the order effecting such transfer shall not specify the particular Special Criminal Court to which such trial is transferred;
+
+(*c*) if only one Special Criminal Court is in existence under this Act at the time of such sending or sending forward or such transfer (as the case may be), such sending, sending forward, or transfer shall be deemed to be to such one Special Criminal Court;
+
+(*d*) if only one Special Criminal Court is in existence under this Act when such person is to be so charged and tried, such person shall be charged before and tried by that Special Criminal Court;
+
+(*e*) if two or more Special Criminal Courts are in existence under this Act at the time of such sending or sending forward or such transfer or such charging (as the case may be), it shall be lawful for the Attorney-General to cause an application to be made on his behalf to such Special Criminal Court as he shall think proper for an order that such person be tried by or charged before and tried by that Court and thereupon the said Court shall make the order so applied for;
+
+(*f*) upon the making of the order mentioned in the next preceding paragraph of this section, whichever of the following provisions is applicable shall have effect, that is to say:—
+
+(i) such person shall be deemed to have been sent or sent forward for trial by the Special Criminal Court which made the said order and all persons concerned shall act accordingly, or
+
+(ii) the trial of such person shall be deemed to have been transferred to the said Special Criminal Court and all persons concerned shall act accordingly, or
+
+(iii) such person shall be charged before and tried by the said Special Criminal Court and all persons concerned shall act accordingly.
+
+F46[(2) A trial that is to be heard before a Special Criminal Court may be transferred by the Court, on its own motion or on the application of a triable person or the Director of Public Prosecutions, to another Special Criminal Court, but only if the first Court decides that it would be in the interests of justice to do so.
+
+(3) In deciding whether it is in the interests of justice to transfer a trial, the Special Criminal Court may consider any factors it thinks relevant, including—
+
+(*a*) whether the transfer would be in the interests of the expeditious administration of justice, and
+
+(*b*) whether the transfer would prejudice the triable person or persons or the prosecution.
+
+(4) A trial may be transferred under this section notwithstanding that an order has been made under subsection (1)(e) in relation to the triable person or persons.
+
+(5) Where 2 or more triable persons are to be tried jointly, the decision of the Special Criminal Court to transfer the trial applies in relation to all of them.
+
+(6) Subsection (5) does not affect the right of a triable person to apply for a separate trial and, if the application is granted, then to apply for a transfer of that trial.
+
+(7) The decision of a Special Criminal Court to transfer a trial is final and unappealable.
+
+(8) In this section "triable person" means a person sent or sent forward for trial to, or charged before or transferred under this Act to, a Special Criminal Court.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F45, F46: Inserted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 53, commenced on enactment.
+
+### 50. Orders and sentences of Special Criminal Courts.
+
+**50.**—(1) Save as shall be otherwise provided by regulations made under this section, every order made or sentence pronounced by a Special Criminal Court shall be carried out by the authorities and officers by whom, and in the like manner as, a like order made or sentence pronounced by the Central Criminal Court is required by law to be carried out.
+
+(2) Every order, conviction, and sentence made or pronounced by a Special Criminal Court shall have the like consequences in law as a like order, conviction, or sentence made or pronounced by the Central Criminal Court would have and, in particular, every order made and every sentence pronounced by a Special Criminal Court shall confer on the persons carrying out the same the like protections and immunities as are conferred by law on such persons when carrying out a like order made or a like sentence pronounced by the Central Criminal Court.
+
+(3) The Minister for Justice may make regulations in relation to the carrying out of sentences of penal servitude or of imprisonment pronounced by Special Criminal Courts and the prisons and other places in which persons so sentenced shall be imprisoned and the maintenance and management of such places, and the said Minister may also, if he so thinks proper, make by writing under his hand such special provision as he shall think fit in relation to the carrying out of any such sentence in respect of any particular individual, including transferring to military custody any particular individual so sentenced.
+
+(4) The Minister for Defence may make regulations in relation to the places and the manner generally in which persons transferred to military custody under the next preceding sub-section of this section shall be kept in such custody, and the said Minister may also, if he so thinks proper, make by writing under his hand such special provision as he shall think fit in respect of the custody of any particular such person.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E33: Power pursuant to subs. (4) exercised (30.08.1946) by *Offences Against The State Act 1939 (Military Custody) (Amendment) (No. 6) Regulations 1946* (S.I. No. 279 of 1946).
+>
+> E34: Power pursuant to subs. (4) exercised (5.05.1942) by *Offences Against The State Act 1939 (Military Custody) (Amendment) (No. 4) Regulations 1942* (S.I. No. 182 of 1942).
+>
+> E35: Power pursuant to subs. (4) exercised (29.06.1940) by *Offences, Against The State Act, 1939 (Military Custody) (Amendment) (No. 2) Regulations 1940* (S.I. No. 178 of 1940).
+>
+> E36: Power pursuant to subs. (4) exercised (19.04.1940) by *Offences Against The State Act, 1939 (Military Custody) (Amendment) Regulations 1940* (S.I. No. 106 of 1940).
+>
+> E37: Power pursuant to subs. (4) exercised (16.10.1939) by *Offences Against The State Act, 1939 (Military Custody) Regulations 1939* (S.I. No. 288 of 1939).
+>
+> E38: Previous affecting provision: power pursuant to subs. (4) exercised (13.08.1942) by *Offences Against The State Act 1939 (Military Custody) (Amendment) (No. 5) Regulations 1942* (S.I. No. 338 of 1942); revoked (30.08.1946) by *Offences Against The State Act 1939 (Military Custody) (Amendment) (No. 6) Regulations 1946* (S.I. No. 279 of 1946), reg. 5.
+>
+> E39: Previous affecting provision: power pursuant to subs. (4) exercised (10.10.1940) by *Offences Against The State Act 1939 (Military Custody) (Amendment) (No. 3) Regulations 1940* (S.I. No. 297 of 1940); revoked (13.08.1942) by *Offences Against The State Act 1939 (Military Custody) (Amendment) (No. 5) Regulations 1942* (S.I. No. 338 of 1942, reg. 5.
+
+### 51. Standing mute of malice and refusal to plead, etc.
+
+**51.**—(1) Whenever a person brought before a Special Criminal Court for trial stands mute when called upon to plead to the charge made against him, that Court shall hear such evidence (if any) relevant to the issue as to whether such person stands mute of malice or by the visitation of God as may then and there be adduced before it, and
+
+(*a*) if that Court is satisfied on such evidence that such person is mute by the visitation of God, all such consequences shall ensue as would have ensued if such person had been found to be so mute by a Judge sitting in the Central Criminal Court, and
+
+(*b*) if that Court is not so satisfied or if no such evidence is adduced, that Court shall direct a plea of “not guilty” to be entered for that person.
+
+(2) Whenever a person brought before a Special Criminal Court for trial fails or refuses in any way, other than standing mute, to plead to the charge made against him when called upon to do so, that Court shall (without prejudice to its powers under the next following sub-section of this section) direct a plea of “not guilty” to be entered for such person.
+
+(3) Whenever a person at any stage of his trial before a Special Criminal Court by any act or omission refuses to recognise the authority or jurisdiction of that Court, or does any act (other than lawfully objecting in due form of law to the jurisdiction of that Court to try him) which, in the opinion of that Court, is equivalent to a refusal to recognise that Court, or the authority or jurisdiction thereof, such person shall be guilty of contempt of that Court and may be punished by that Court accordingly.
+
+### 52. Examination of detained persons.
+
+**52.**—(1) Whenever a person is detained in custody under the provisions in that behalf contained in Part IV of this Act, any member of the Gárda Síochána may demand of such person, at any time while he is so detained, a full account of such person's movements and actions during any specified period and all information in his possession in relation to the commission or intended commission by another person of any offence under any section or sub-section of this Act or any scheduled offence.
+
+(2) If any person, of whom any such account or information as is mentioned in the foregoing sub-section of this section is demanded under that sub-section by a member of the Gárda Síoehána, fails or refuses to give to such member such account or any such information or gives to such member any account or information which is false or misleading, he shall be guilty of an offence under this section and shall be liable on summary conviction thereof to imprisonment for a term not exceeding six months.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C29: Application of section restricted (3.09.1998) by *Offences Against the State (Amendment) Act 1998* (39/1998), s. 13.
+>
+> **13.**—Section 52 of the Act of 1939 shall not have effect in relation to a person referred to in subsection (1) thereof unless, immediately before a demand is made of him or her under that subsection, he or she is informed in ordinary language by a member of the Garda Síochána of—
+>
+> (*a*) the fact that the demand is being made under the said section 52, and
+>
+> (*b*) the consequences provided by that section for a failure or refusal to comply with such a demand or for the giving of any account or information in purported compliance with such a demand which is false or misleading.
+
+### 53. Immunities of members, etc., of Special Criminal Courts.
+
+**53.**—(1) No action, prosecution, or other proceeding, civil or criminal, shall lie against any member of a Special Criminal Court in respect of any order made, conviction or sentence pronounced, or other thing done by that Court or in respect of anything done by such member in the course of the performance of his duties or the exercise of his powers as a member of that Court or otherwise in his capacity as a member of that Court, whether such thing was or was not necessary to the performance of such duties or the exercise of such powers.
+
+(2) No action or other proceeding for defamation shall lie against any person in respect of anything written or said by him in giving evidence, whether written or oral, before a Special Criminal Court or for use in proceedings before a Special Criminal Court.
+
+(3) No action, prosecution, or other proceeding, civil or criminal, shall lie against any registrar, clerk, or servant of a Special Criminal Court in respect of anything done by him in the performance of his duties as such registrar, clerk, or servant, whether such thing was or was not necessary to the performance of such duties.
+
+## PART VI. — Powers of Internment.
+
+### 54. Commencement and cesser of this Part of this Act.
+
+**54.**—F47[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F47: Repealed (9.02.1940) by *Offences Against the State (Amendment) Act 1940* (2/1940), s. 2, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E40: Previous affecting provision: proclamation made pursuant to subs. (2) and published (22.08.1939) in Iris Oifigiúil; section repealed (9.02.1940) as per F-note above.
+
+### 55. Special powers of arrest and detention.
+
+**55.**—F48[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F48: Repealed (9.02.1940) by *Offences Against the State (Amendment) Act 1940* (2/1940), s. 2, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E41: Previous affecting provision: section declared unconstitutional (15.12.1939) by *State (Burke) v Lennon* [1940] IR 136; section repealed (9.02.1940) as per F-note above.
+
+### 56. Powers of search, etc., of detained persons.
+
+**56.**—F49[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F49: Repealed (9.02.1940) by *Offences Against the State (Amendment) Act 1940* (2/1940), s. 2, commenced on enactment.
+
+### 57. Release of detained persons.
+
+**57.**—F50[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F50: Repealed (9.02.1940) by *Offences Against the State (Amendment) Act 1940* (2/1940), s. 2, commenced on enactment.
+
+### 58. Regulations in relation to places of detention.
+
+**58.**—F51[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F51: Repealed (9.02.1940) by *Offences Against the State (Amendment) Act 1940* (2/1940), s. 2, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E42: Previous affecting provision: power pursuant to section exercised (15.09.1939) by *Offences Against The State Act 1939 (Part VI) (Detention) Regulations 1939* (S.I. No. 249 of 1939); section repealed (9.02.1940) as per F-note above.
+
+### 59. Commission for inquiring into detentions.
+
+**59.**—F52[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F52: Repealed (9.02.1940) by *Offences Against the State (Amendment) Act 1940* (2/1940), s. 2, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E43: Previous affecting provision: power pursuant to section exercised (16.09.1939) by *Offences Against The State (Internment Commission) Order 1939* (S.I. No. 344 of 1939); section repealed (9.02.1940) as per F-note above.

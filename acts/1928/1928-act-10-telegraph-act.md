@@ -1,0 +1,34 @@
+---
+title: "Telegraph Act, 1928"
+identifier: "eli/1928/act/10"
+type: act
+jurisdiction: ie
+language: en
+number: 10
+year: 1928
+date: 1928-07-13
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1928/act/10/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Telegraph Act, 1928
+
+AN ACT TO INCREASE THE STATUTORY LIMITS ON TELEGRAPH RATES. [13*th July*, 1928.]
+
+BE IT ENACTED BY THE OIREACHTAS OF SAORSTAT EIREANN AS FOLLOWS:—
+
+## 1. Increase of statutory limits for inland telegraph rates.
+
+**1.—**(1) The charges to be fixed under section 2 of the Telegraph Act, 1885, for the transmission of ordinary written telegrams throughout Saorstát Eireann shall uniformly and without regard to distance be at a rate not exceeding one shilling and sixpence for the first twelve words of each ordinary written telegram or for each ordinary written telegram of less than twelve words (counting as part of such twelve words the names and addresses of the sender and addressee of the telegram) and not exceeding one penny for each additional word over twelve words, but the Minister for Posts and Telegraphs may, with the consent of the Minister for Finance, direct that an additional sum of sixpence shall be charged in respect of telegrams handed in for transmission on Christmas Day, Good Friday, or Sunday.
+
+(2) In this section the expression “written telegram” includes a telegram received at a post office by telephone in order that it may be delivered as a written telegram.
+
+(3) Paragraph (1) of the proviso to section 2 of the Telegraph Act, 1885, and sub-section (1) of section 2 of the Post Office and Telegraph Act, 1920, are hereby repealed.
+
+## 2. Short title, construction and citation.
+
+**2.—**(1) This Act may be cited as the Telegraph Act, 1928.
+
+(2) This Act shall be construed as one with the Telegraph Acts, 1863 to 1920, and those Acts and this Act may be cited together as the Telegraph Acts, 1863 to 1928.

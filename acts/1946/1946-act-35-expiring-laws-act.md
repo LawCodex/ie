@@ -1,0 +1,54 @@
+---
+title: "Expiring Laws Act, 1946"
+identifier: "eli/1946/act/35"
+type: act
+jurisdiction: ie
+language: en
+number: 35
+year: 1946
+date: 1946-12-19
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1946/act/35/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Expiring Laws Act, 1946
+
+AN ACT TO CONTINUE FOR A LIMITED PERIOD CERTAIN EXPIRING ENACTMENTS. [19*th December*, 1946.]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:—
+
+## 1. Acts in Schedule to be continued.
+
+**1.**—(1) The Acts mentioned in the Schedule to this Act shall, to the extent specified in the third column of the said Schedule, be continued until the 31st day of December, 1947, and shall then expire unless further continued.
+
+(2) Any unrepealed enactments amending or affecting the enactments continued by this section shall, in so far as they are temporary in their duration, be continued in like manner whether they are mentioned in the Schedule to this Act or not.
+
+## 2. Short title.
+
+**2.**—This Act may be cited as the Expiring Laws Act, 1946.
+
+## AN SCEEDEAL.—CUED I. — Schedule.—Part I. — Na hAchtachain a Coimeadtar Beo — Enactments Continued.
+
+| Session and Chapter | Short Title | How far Continued | Amending Acts |
+|---|---|---|---|
+| 31 & 32 Vict. c. 125, | The Parliamentary Elections Act, 1868. | So much as is continued by the Corrupt and Illegal Practices Prevention Act, 1883. | 35 & 36 Vict. c. 33; 42 & 43 Vict., c. 75; 46 & 47 Vict., c. 51. |
+| 32 & 33 Vict., c. 21. | The Corrupt Practices Comission Expenses Act, 1869. | The whole Act, | 34 & 35 Vict., c. 61, |
+| 46 & 47 Vict., c. 60. | The Labourers (Ireland) Act, 1883. | The whole Act, | 48 & 49 Vict., c. 72; 48 & 49 Vict., c. 77 ; 49 & 50 Vict., c. 59; 54 & 55 Vict., c. 48; 54 & 55 Vict., c. 71 ; 55 & 56 Vict., c. 7 ; 59 & 60 Vict., c. 53; 61 & 62 Vict., c. 37 ; 3 Edw. VII, c. 37 ; 6 Edw. VII, c. 37 ; 8 & 9 Geo. V, c. 20 ; 9 & 10 Geo. V., c. 55; No. 19 of 1927 ; No. 25 of 1930 ; No. 50 of 1931 ; No. 19 of 1932 ; No. 24 of 1936 ; No. 42 of 1937 ; No. 18 of 1941 ; No. 15 of 1942. |
+| 8 & 9 Geo. V, c. 34. | The Statutory Undertakings (Temporary Increase of Charges) Act, 1918. | The whole Act, except so far as it relates to tramways. |  |
+
+AN SCEIDEAL.—Cuid II.
+
+Schedule.—Part II.
+
+Na hAchtachain a Coimeadtar Beo
+
+Enactments Continued.
+
+| Uimhir agus Bliain Number and Year | Gearr-Theideal Short Title | An Méid a Coimeátar beo How far Continued | Achta leasaíos é Amending Acts |
+|---|---|---|---|
+| Uimh. 20 de 1925. | Acht na nUdarás nAitiúil (Có-Cheannach), 1925. | An tAcht iomlán |  |
+| No. 20 of 1925 | The Local Authorities (Combined Purchasing) Act, 1925. | The whole Act. |  |
+| Uimh. 23 de 1941. | Acht Rialtais Aitiúil, 1941. | Alt 65. |  |
+| No. 23 of 1941. | Local Government Act, 1941. | Section 65. |  |

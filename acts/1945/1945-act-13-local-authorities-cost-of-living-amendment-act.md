@@ -1,0 +1,40 @@
+---
+title: "Local Authorities (Cost of Living) (Amendment) Act, 1945"
+identifier: "eli/1945/act/13"
+type: act
+jurisdiction: ie
+language: en
+number: 13
+year: 1945
+date: 1945-04-24
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1945/act/13/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Local Authorities (Cost of Living) (Amendment) Act, 1945
+
+AN ACT TO AMEND THE LOCAL AUTHORITIES (COST OF LIVING) ACT, 1940. [24*th April*, 1945.]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:—
+
+## 1. Interpretation.
+
+**1.**—(1) In this Act, the expression “the Principal Act” means the Local Authorities (Cost of Living) Act, 1940 (No. 22 of 1940).
+
+(2) This Act shall be construed as one with the Principal Act.
+
+## 2. Amendment of section 2 of the Principal Act.
+
+**2.**—(1) Subsection (1) of section 2 of the Principal Act shall, as respects the bonus payable, in respect of any period beginning on or after the 1st day of January, 1945, to an officer or servant of a local authority to whom that subsection applies, have effect as if the words “the figure which exceeds by twenty-five” were inserted after the words “greater than”.
+
+(2) Subsection (2) of section 2 of the Principal Act shall, as respects the bonus payable, in respect of any period beginning on or after the 1st day of January, 1945, to an officer or servant of a local authority to whom that subsection applies, have effect as if the words “the figure which exceeds by twenty-five” were inserted after the words “greater figure than”.
+
+(3) The references, in subsection (3) of section 2 of the Principal Act, to subsections (1) and (2) of the said section 2 shall be construed as a reference to the said subsections (1) and (2) as respectively amended by the preceding subsections of this section.
+
+(4) The references, in subsection (4) of section 2 of the Principal Act, to subsections (1), (2) and (3) of the said section 2 shall be construed as references to the said subsections (1), (2) and (3) as amended by the preceding subsections of this section.
+
+## 3. Short title and collective citation.
+
+**3.**—This Act may be cited as the Local Authorities (Cost of Living) (Amendment) Act, 1945, and the Principal Act and this Act may be cited together as the Local Authorities (Cost of Living) Acts, 1940 and 1945.

@@ -1,0 +1,38 @@
+---
+title: "Medical Act, 1927"
+identifier: "eli/1927/act/2"
+type: act
+jurisdiction: ie
+language: en
+number: 2
+year: 1927
+date: 1927-02-11
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1927/act/2/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Medical Act, 1927
+
+AN ACT TO ENABLE THE MEDICAL ACT, 1925, IF IN FORCE ON THE 21st DAY OF FEBRUARY, 1927, TO BE CONTINUED IN FORCE FOR A LIMITED PERIOD AFTER THAT DATE. [11*th February*, 1927.]
+
+BE IT ENACTED BY THE OIREACHTAS OF SAORSTÁT EIREANN AS FOLLOWS:—
+
+## 1. The Principal Act.
+
+**1.**—In this Act the expression “the Principal Act” means the Medical Act, 1925 (No. 2 of 1925).
+
+## 2. Further continuance of Principal Act by Executive Council.
+
+**2.**—(1) If the Principal Act is continued in force until the 21st day of February, 1927, by the Executive Council under the powers in that behalf conferred on them by section 3 of the Medical Act, 1926 (No. 4 of 1926) then, subject to the provisions of this section, the Executive Council, if they so think fit, may by order made before the 21st day of February, 1927, continue the Principal Act in force for one month from the said 21st day of February, 1927, and may thereafter from time to time by order made before the expiration of the Principal Act under the last previous order made under this section continue the Principal Act in force for one month after the date on which the Principal Act would have expired under such last previous order.
+
+(2) If an order is made by the Executive Council under this section the Principal Act shall continue in force until the end of the month for which it is continued by such order or, if more than one such order is made, the last of such orders and shall then expire.
+
+(3) The Principal Act shall not be continued in force after the 21st day of June, 1927, by orders made under this section and accordingly not more than four orders may be made by the Executive Council under this section.
+
+## 3. Short title and citation.
+
+**3.**—(1) This Act may be cited as the Medical Act, 1927.
+
+(2) This Act shall be construed as one with the Medical Acts, 1925 and 1926, and those Acts and this Act may be cited together as the Medical Acts, 1925 to 1927.

@@ -1,0 +1,40 @@
+---
+title: "Accidental Fires Act, 1943"
+identifier: "eli/1943/act/8"
+type: act
+jurisdiction: ie
+language: en
+number: 8
+year: 1943
+date: 1943-04-20
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1943/act/8/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Accidental Fires Act, 1943
+
+AN ACT TO RESTRICT THE TAKING OR CONTINUING OF LEGAL PROCEEDINGS IN RESPECT OF DAMAGE CAUSED BY ACCIDENTAL FIRE. [20*th April*, 1943.]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:—
+
+## 1. Restriction on legal proceedings in respect of accidental fires.
+
+**1.**—(1) Where any person (in this section referred to as the injured person) has suffered damage by reason of fire accidentally occurring (whether before or after the passing of this Act) in or on the building or land of another person, then, notwithstanding any rule of law, the following provisions shall have effect, that is to say:—
+
+(*a*) no legal proceedings shall, after the passing of this Act, be instituted in any court by the injured person or any person claiming through or under him or as his insurer against such other person on account of such damage;
+
+(*b*) if, in case the fire occurred before the passing of this Act, any such legal proceedings were instituted after the 16th day of November, 1942, and before the passing of this Act, and are pending at such passing, such legal proceedings shall be discharged and made void, subject to such order as to costs as the court in which such legal proceedings are pending or a judge thereof thinks fit to make.
+
+(2) Nothing contained in sub-section (1) of this section shall be construed as affecting legal proceedings for the enforcement of any covenant or agreement contained in any lease or letting of a building or land.
+
+(3) In this section the word “building” includes any structure of whatsoever material or for whatever purpose used.
+
+## 2. Repeal.
+
+**2.**—The pre-Union Irish statute passed in the year 1715 and entitled “An Act for preventing Mischief that may happen by fire” (2 Geo. 1, c. 5) is hereby repealed.
+
+## 3. Short title.
+
+**3.**—This Act may be cited as the Accidental Fires Act, 1943.

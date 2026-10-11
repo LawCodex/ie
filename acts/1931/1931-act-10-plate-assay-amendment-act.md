@@ -1,0 +1,42 @@
+---
+title: "Plate Assay (Amendment) Act, 1931"
+identifier: "eli/1931/act/10"
+type: act
+jurisdiction: ie
+language: en
+number: 10
+year: 1931
+date: 1931-04-21
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1931/act/10/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Plate Assay (Amendment) Act, 1931
+
+AN ACT TO AMEND THE PLATE ASSAY (IRELAND) ACT, 1807, IN RESPECT OF THE PUNISHMENTS FOR CERTAIN OFFENCES UNDER THAT ACT. [21*st April*, 1931.]
+
+BE IT ENACTED BY THE OIREACHTAS OF SAORSTÁT EIREANN AS FOLLOWS:—
+
+## 1. The Principal Act.
+
+**1.**—In this Act the expression “the Principal Act” means the Plate Assay (Ireland) Act, 1807.
+
+## 2. Punishment for offences under section 16 of the Principal Act.
+
+**2.**—Notwithstanding anything contained in the Principal Act or in any other enactment, the punishment which may be inflicted on a person adjudged guilty of felony under section 16 of the Principal Act or of any offence (other than felony) under that section shall be penal servitude for any term not exceeding five years or imprisonment for any term not exceeding two years.
+
+## 3. Jurisdiction of the District Court.
+
+**3.**—(1) The District Court shall have and may exercise jurisdiction in the case of a felony or any other offence under section 16 of the Principal Act as if such felony or other offence were included amongst the cases specifically mentioned in sub-section B of section 77 of the Courts of Justice Act, 1924 (No. 10 of 1924).
+
+(2) Where the District Court, in exercise of the jurisdiction conferred by this section, disposes of a case summarily the punishment which may be inflicted shall, notwithstanding anything contained in the said sub-section B of the said section 77, be imprisonment for any term not exceeding six months or, at the discretion of the Court, a fine not exceeding fifty pounds.
+
+(3) Section 17 of the Principal Act shall not apply to any fine imposed by the District Court in exercise of the jurisdiction conferred by this section.
+
+## 4. Short title.
+
+**4.**—(1) This Act may be cited as the Plate Assay (Amendment) Act, 1931.
+
+(2) The Principal Act and this Act may be cited together as the Plate Assay Acts, 1807 and 1931.

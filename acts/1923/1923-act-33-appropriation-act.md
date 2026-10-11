@@ -1,0 +1,92 @@
+---
+title: "Appropriation Act, 1923"
+identifier: "eli/1923/act/33"
+type: act
+jurisdiction: ie
+language: en
+number: 33
+year: 1923
+date: 1923-08-08
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1923/act/33/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Appropriation Act, 1923
+
+AN ACT TO APPLY A SUM OUT OF THE CENTRAL FUND TO THE SERVICE OF THE YEAR ENDING ON THE THIRTY-FIRST DAY OF MARCH, ONE THOUSAND NINE HUNDRED AND TWENTY-FOUR, AND TO APPROPRIATE THE FURTHER SUPPLIES GRANTED IN THIS SESSION OF THE OIREACHTAS. [8*th August,* 1923.]
+
+BE IT ENACTED BY THE OIREACHTAS OF SAORSTAT EIREANN AS FOLLOWS:—
+
+Grants out of Central Fund.
+
+## 1. Issue of £31,312 811 out of the Central Fund.
+
+**1.**—The Minister for Finance may issue out of the Central Fund and apply towards making good the supply granted for the service of the year ending on the thirty-first day of March one thousand nine hundred and twenty-four, the sum of thirty-one million three hundred and twelve thousand eight hundred and eleven pounds.
+
+## 2. Power for the Minister for Finance to borrow.
+
+**2.**—(1) The Minister for Finance may borrow from any person and the Bank of Ireland may advance to the Minister for Finance on the credit of the said sum any sum or sums not exceeding in the whole thirty-one million three hundred and twelve thousand eight hundred and eleven pounds and for the purpose of such borrowing the Minister for Finance may create and issue any securities bearing such rate of interest and subject to such conditions as to repayment, redemption or otherwise as he thinks fit.
+
+(2) The principal and interest of any securities issued under this Act and the expenses incurred in connection with the issue of such securities shall be charged on the Central Fund or the growing produce thereof.
+
+(3) Any moneys raised by securities issued under this Act shall be placed to the credit of the account of the Exchequer and shall form part of the Central Fund and be available in any manner in which such Fund is available.
+
+Appropriation of Grants.
+
+## 3. Appropriation of sums voted for supply services.
+
+**3.**—All sums granted by this Act and the other Act mentioned in Schedule (A) annexed to this Act out of the said Central Fund towards making good the supply granted, amounting, as appears by the said Schedule, in the aggregate, to the sum of forty-six million one hundred and four thousand eight hundred and ninety-nine pounds are appropriated, and shall be deemed to have been appropriated as from the date of the passing of the Act mentioned in the said Schedule (A), for the services and purposes expressed in Schedule (B) annexed hereto.
+
+The abstract of schedules and schedules annexed hereto, with the notes (if any) to such schedules, shall be deemed to be part of this Act in the same manner as if they had been contained in the body thereof.
+
+In addition to the sums hereby granted out of the Central Fund, there may be applied out of any money directed under Section two of the Public Accounts and Charges Act, 1891, to be applied as appropriations in aid of the grants for the services and purposes specified in Schedule (B) annexed hereto the sums respectively set forth in the last column of the said schedule.
+
+## 4. Declaration required in certain cases before receipt of sums appropriated.
+
+**4.**—A person shall not receive any part of a grant which may be made in pursuance of this Act for non-effective services until he has subscribed such declaration as may from time to time be prescribed by a warrant of the Minister for Finance before one of the persons prescribed by such warrant.
+
+Provided that, whenever any such payment is made at more frequent intervals than once in a quarter, the Minister for Finance may dispense with the production of more than one declaration in respect of each quarter.
+
+Any person who makes a declaration for the purpose of this section, knowing the same to be untrue in any material particular, shall be guilty of a misdemeanour.
+
+## 5. Short Title.
+
+**5.**—This Act may be cited for all purposes as the Appropriation Act, 1923.
+
+## ABSTRACT OF SCHEDULES (A) AND (B) TO WHICH THIS ACT REFERS. — SCHEDULE (A).
+
+| Grants out of the Central Fund | £46,104,899. |
+|---|---|
+
+SCHEDULE (B).
+
+Appropriation of grants.
+
+<table><tr><td></td><td colspan="2">Sums not exceeding</td></tr><tr><td></td><td>Supply Grants</td><td>Appropriations in Aid.</td></tr><tr><td>1922—1923 (Supplementary)</td><td>£692,914</td><td></td></tr><tr><td>1923—1924</td><td>£45,411,985</td><td>£470,280</td></tr></table>
+
+SCHEDULE (A).
+
+Grant out of the Central Fund.
+
+| For the service of the year ended on the 31st March, 1923:— |  |
+|---|---|
+|  | £ |
+| Under Act No. 7 of 1923 (Central Fund (No. 1) Act) | 692,914 |
+| For the service of the year ending on the 31st March, 1924:— |  |
+| Under Act No. 7 of 1923 (Central Fund (No. 1) Act) | 14,099,174 |
+| Under this Act | 31,312,811 |
+| Total | £46,104,899 |
+
+## SCHEDULE (B).—Part I.
+
+Schedule of Supplementary Sums granted to defray the charges for the Services herein particularly mentioned for the year ended on the 31st day of March, 1923, viz.:—
+
+<table><tr><td></td><td></td><td colspan="2">Sums not exceeding</td></tr><tr><td></td><td>______</td><td>Supply Grants.</td><td>Appropriations in Aid.</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td></tr><tr><td>No.</td><td></td><td>£</td><td>£</td></tr><tr><td>13</td><td>For expenditure in respect of Public Buildings; for the maintenance of certain parks and public works, for maintenance of drainage works on the river Shannon, and sundry Grants in Aid</td><td>149,378</td><td>—</td></tr><tr><td>14</td><td>For payments under the Tramways and Public Companies (Ireland) Act, 1883, etc., and for other purposes connected with Irish Railways</td><td>24,378</td><td>—</td></tr><tr><td>19</td><td>For the expenses of the Department of National Education, including grants in aid of the Teachers' Pension Fund</td><td>79,400</td><td>—</td></tr><tr><td>32</td><td>For the salaries and expenses of the Ministry of Industry and Commerce, including Umpire and Court of Referees, contributions to the Unemployment Insurance Fund and to Special Schemes, and to the Unemployed Workers' Dependants' Fund, and payment to Associations under the Unemployment Insurance Acts</td><td>58,225</td><td>—</td></tr><tr><td>39</td><td>For the cost of the Army</td><td>267,000</td><td>—</td></tr><tr><td>55</td><td>For the salaries and expenses of the Post Office, including Telegraphs and Telephones</td><td>103,500</td><td>—</td></tr><tr><td>65</td><td>For the salaries and expenses of Seanad Eireann</td><td>11,033</td><td>—</td></tr><tr><td></td><td>Total</td><td>£692,914</td><td></td></tr></table>
+
+SCHEDULE (B).—Part II.
+
+Schedule of Sums granted and of sums which may be applied as Appropriations in Aid in addition thereto to defray the Charges of the several Public Services herein particularly mentioned, which will come in course of payment during the year ending 31st day of March, 1924, viz.:—
+
+<table><tr><td></td><td></td><td colspan="2">Sums not exceeding</td></tr><tr><td></td><td>_____</td><td>Supply Grants.</td><td>Appropriations in Aid.</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td></tr><tr><td>No</td><td></td><td>£</td><td>£</td></tr><tr><td>1</td><td>For such of the salaries and expenses of the Governor-General's Establishment as are not charged on the Central Fund</td><td>11,423</td><td>—</td></tr><tr><td>2</td><td>For the salaries and expenses of the Oireachtas</td><td>95,060</td><td>—</td></tr><tr><td>3</td><td>For the salaries and expenses of the President and Office of the Executive Council</td><td>7,399</td><td>—</td></tr><tr><td>4</td><td>For such of the salaries and expenses of the Department of the Comptroller and Auditor-General as are not charged on the Central Fund</td><td>16,000</td><td>200</td></tr><tr><td>5</td><td>For the salaries and expenses of the Ministry of Finance and Branch Departments</td><td>50,496</td><td>—</td></tr><tr><td>6</td><td>For the salaries and expenses of the Revenue Department</td><td>634,250</td><td>1,800</td></tr><tr><td>7</td><td>For Old Age Pensions under the Old Age Pensions Acts, 1908 to 1919, for certain Administrative Expenses connected therewith, and for Pensions under the Blind Persons Act, 1920</td><td>3,277,000</td><td>700</td></tr><tr><td>8</td><td>For the provision of Capital for the Local Loans Fund and to make repayment to the British Government in respect of local loans outstanding on 1st April, 1922</td><td>705,000</td><td>—</td></tr><tr><td>9</td><td>For the salaries and other expenses of Temporary Commissions, Committees and Special Inquiries</td><td>14,755</td><td>—</td></tr><tr><td>10</td><td>For the salaries and expenses of the Office of Public Works</td><td>70,678</td><td>16,918</td></tr><tr><td>11</td><td>For expenditure in respect of Public Buildings; for the maintenance of certain parks and public works; for the maintenance of drainage works on the river Shannon, and Sundry Grants in Aid</td><td>1,165,700</td><td>14,060</td></tr><tr><td>12</td><td>For expenditure in respect of Payments under the Tramways and Public Companies (Ireland) Act, 1883, etc., and for other purposes connected with Irish Railways</td><td>54,708</td><td>—</td></tr><tr><td>13</td><td>For payments by way of Loans for Purposes of Reconstruction</td><td>100,000</td><td>—</td></tr><tr><td>14</td><td>For expenditure in respect of destruction of, or injuries to, property on or after the 21st January, 1919</td><td>10,385,000</td><td>—</td></tr><tr><td>15</td><td>For certain payments of compensation in respect of Personal Injuries or Death</td><td>500,550</td><td>—</td></tr><tr><td>16</td><td>For expenditure in respect of Superannuation, Compensation, Compassionate and Additional Allowances and Gratuities under sundry Statutes; Compensation under Article 10 of the Treaty of the 6th December, 1921; Compassionate Allowances, Gratuities and Supplementary Pensions awarded by the Minister for Finance; the salary of the Medical Referee; and sundry payments in respect of Pensions at present paid by the British Government</td><td>1,640,055</td><td></td></tr><tr><td>17</td><td>For expenditure in respect of Rates and Contributions in lieu of Rates, etc., in respect of Government Property</td><td>120,000</td><td>—</td></tr><tr><td>18</td><td>For Secret Services</td><td>50,000</td><td>—</td></tr><tr><td>19</td><td>For a Grant in Aid for a Contingency Fund</td><td>20,000</td><td>—</td></tr><tr><td>20</td><td>For the Ireland Development Grant (Grant in Aid)</td><td>159,500</td><td>—</td></tr><tr><td>21</td><td>For a Grant in Aid of the Development Fund</td><td>41,000</td><td>—</td></tr><tr><td>22</td><td>For expenses under the Representation of the People Act, 1918</td><td>54,000</td><td>—</td></tr><tr><td>23</td><td>For the salaries and expenses of the National Gallery</td><td>4,644</td><td>—</td></tr><tr><td>24</td><td>For certain Miscellaneous Expenses, including certain Grants in Aid</td><td>6,715</td><td>50</td></tr><tr><td>25</td><td>For Stationery, Printing, Paper, Binding and Printed Books for the Public Service; for the salaries and expenses of the Stationery Office; and for Sundry Miscellaneous services, including Reports of Oireachtas Debates</td><td>205,000</td><td>25,975</td></tr><tr><td>26</td><td>For the salaries and expenses of the General Valuation and Boundary Survey, including Estate Duty Valuation under the Finance (1909-10) Act, 1910</td><td>37,192</td><td>7,920</td></tr><tr><td>27</td><td>For the salaries and expenses of the office of the Commissioners of Charitable Donations and Bequests</td><td>2,915</td><td>48</td></tr><tr><td>28</td><td>For the salaries and expenses of the Insurance Commission and for sundry Contributions and Grants in respect of the cost of Benefits and Expenses of Administration under the National Health Insurance Acts, 1911 to 1921 (including certain Grants in Aid)</td><td>348,663</td><td>1,000</td></tr><tr><td>29</td><td>For the salaries, allowances and expenses of various County Court officers, Bonus to Chairmen of Quarter Sessions and Recorders, and to Clerks of the Crown and Peace, and for the expenses of Revision</td><td>75,203</td><td>4,570</td></tr><tr><td>30</td><td>For the expenses of Criminal Prosecutions and other Law Charges, including a Grant in relief of certain expenses payable by Statute out of Local Rates</td><td>54,154</td><td>200</td></tr><tr><td>31</td><td>For expenditure in connection with Haulbowline Dockyard</td><td>85,000</td><td>—</td></tr><tr><td>32</td><td>For the salaries and expenses of the Ministry of Home Affairs</td><td>29,546</td><td>—</td></tr><tr><td>33</td><td>For the salaries and expenses of the Civic Guard</td><td>1,147,939</td><td>7,000</td></tr><tr><td>34</td><td>For the salaries and expenses of the Criminal Investigation Department</td><td>47,554</td><td>—</td></tr><tr><td>35</td><td>For the salaries and expenses of the Commissioner of Police, the Police Courts, and the Metropolitan Police Establishment of Dublin</td><td>327,537</td><td>61,119</td></tr><tr><td>36</td><td>For expenditure in respect of the General Prisons Board, and of the Establishments under their control, the Registration of Habitual Criminals, and the Maintenance of Criminal Lunatics confined in District Mental Hospitals</td><td>225,631</td><td>1,500</td></tr><tr><td>37</td><td>For the salaries and expenses of District Justices</td><td>42,00</td><td>—</td></tr><tr><td>38</td><td>For such of the salaries and expenses of the Supreme Court of Judicature as are not charged on the Central Fund</td><td>152,300</td><td>5,370</td></tr><tr><td>39</td><td>For the expenses of the maintenance of Criminal Lunatics in Dundrum Asylum</td><td>15,715</td><td>5,104</td></tr><tr><td>40</td><td>For the salaries and expenses of the Public Record Office, and of the Keeper of State Papers, Dublin</td><td>10,635</td><td>—</td></tr><tr><td>41</td><td>For the salaries and expenses of the Ministry of Local Government, including Grants and other expenses in connection with Housing, Grants to Local Authorities, and sundry Grants in Aid, and the expenses of the office of the Inspector of Lunatic Asylums</td><td>955,202</td><td>8,244</td></tr><tr><td>42</td><td>For the salaries and expenses of the Department of the Registrar-General of Births, etc.</td><td>20,740</td><td>1,000</td></tr><tr><td>43</td><td>For expenditure in respect of Hospitals and Infirmaries, and certain miscellaneous Charitable and other Allowances, including sundry Grants in Aid</td><td>16,738</td><td>—</td></tr><tr><td>44</td><td>For expenditure in respect of Reformatory and Industrial Schools, including Places of Detention</td><td>108,288</td><td>1,700</td></tr><tr><td>45</td><td>For the salaries and expenses of the Ministry of Agriculture, and of certain Services administered by that Ministry, including sundry Grants in Aid</td><td>400,982</td><td>48,392</td></tr><tr><td>46</td><td>For the salaries and expenses of the Institutions of Science and Art in Dublin, and of the Geological Survey of Ireland, and Annual Grants to Schools and Classes of Science and Art and Technical Instruction, including sundry Grants in Aid, administered by the Ministry of Agriculture</td><td>197,216</td><td>3,190</td></tr><tr><td>47</td><td>For the salaries and expenses of the Ordnance Survey, and of Minor Services connected therewith</td><td>45,350</td><td>1,500</td></tr><tr><td>48</td><td>For a Grant in Aid of the Forestry Fund</td><td>18,825</td><td>—</td></tr><tr><td>49</td><td>For the salaries and expenses of the Office of the Irish Land Commission, and the salaries and expenses of the Land Settlement Department</td><td>242,149</td><td>16,000</td></tr><tr><td>50</td><td>For Grants administered by the Congested Districts Board, including Grants in Aid</td><td>169,750</td><td>—</td></tr><tr><td>51</td><td>For the expenses of the Department of National Education, including Grants in Aid of the Teachers' Pension Fund</td><td>3,954,469</td><td>750</td></tr><tr><td>52</td><td>For expenditure in respect of Intermediate Education, including the Teachers' Salaries Grant</td><td>132,750</td><td>370</td></tr><tr><td>53</td><td>For a Grant in Aid of the expenses of University Institutions, including Grants under the Irish Universities Act, 1908</td><td>110,800</td><td></td></tr><tr><td>54</td><td>For the salary of the Secretary, including Bonus, and the expenses of the Office of the Commissioners for managing certain School Endowments in Ireland</td><td>938</td><td>100</td></tr><tr><td>55</td><td>For the salaries and expenses of the Ministry of Industry and Commerce, including Umpire and Courts of Referees; for Contributions to the Unemployment Fund and to Special Schemes; for Payments to Associations under the Unemployment Insurance Acts; for advances to workpeople under the Labour Exchanges Act, 1909; for fees and expenses of Medical Referees under the Workmen's Compensation Act, 1906; for fees to certifying Surgeons under the Factory and Workshops Act, 1901; for fees and expenses under the Trade Board Acts, 1909 and 1918; for fees and expenses under the Electricity (Supply) Act, 1919, and the Gas Regulation Act, 1920; and for Contributions towards the expenses of an Irish Stall at the <i>Daily Mirror</i> Fashion Fair</td><td>295,445</td><td>100,550</td></tr><tr><td>56</td><td>For the salaries and expenses of the Transport Department of the Ministry of Industry and Commerce, including certain payments in connection with Railways</td><td>16,778</td><td>2,000</td></tr><tr><td>57</td><td>For the salaries and expenses of the Marine Service</td><td>15,580</td><td>1,800</td></tr><tr><td>58</td><td>For expenditure in respect of the Army</td><td>10,664,500</td><td>15,000</td></tr><tr><td>59</td><td>For the salaries and expenses of the Post Office, including Telegraphs and Telephones</td><td>2,831,864</td><td>113,150</td></tr><tr><td>60</td><td>For the salaries and expenses of the Ministry of External Affairs</td><td>60,552</td><td>—</td></tr><tr><td>61</td><td>For the salaries and expenses of the Ministry of Fisheries</td><td>28,575</td><td>3,000</td></tr><tr><td>62</td><td>For making repayment to the British Government in respect of Annuities under the Land Purchase Acts, 1881 to 1909.</td><td>3,133,577</td><td>—</td></tr><tr><td></td><td>Total</td><td>£45,411,985</td><td>£470,280</td></tr></table>

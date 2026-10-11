@@ -1,0 +1,56 @@
+---
+title: "Deputy Registrar in Bankruptcy (Cork) Act, 1926"
+identifier: "eli/1926/act/23"
+type: act
+jurisdiction: ie
+language: en
+number: 23
+year: 1926
+date: 1926-06-24
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1926/act/23/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Deputy Registrar in Bankruptcy (Cork) Act, 1926
+
+AN ACT TO VALIDATE THE EXERCISE OF CERTAIN POWERS, AUTHORITIES, AND JURISDICTIONS BY THE DEPUTY REGISTRAR AND CLERK OF THE CORK LOCAL BANKRUPTCY COURT ESTABLISHED BY THE LOCAL BANKRUPTCY (IRELAND) ACT, 1888, AND TO MAKE PROVISION FOR THE EXERCISE DURING A LIMITED PERIOD OF THOSE POWERS, AUTHORITIES, AND JURISDICTIONS BY THE SAID DEPUTY REGISTRAR AND CLERK. [24*th June*, 1926.]
+
+BE IT ENACTED BY THE OIREACHTAS OF SAORSTÁT EIRE ANN AS FOLLOWS:—
+
+## 1. Definitions.
+
+**1.**—In this Act—
+
+the expression “the Principal Act” means the Local Bankruptcy (Ireland) Act, 1888;
+
+the expression “the Court” means the Cork Local Bankruptcy Court established by the Principal Act;
+
+the expression “the Judge” means the Judge exercising the jurisdictions vested in the Court and the Judge thereof respectively under the Principal Act;
+
+the expression “the Registrar” means the registrar of the Court; and
+
+the expression “the Deputy Registrar” means the deputy registrar and clerk of the Court.
+
+## 2. Validation of certain acts and orders of the Deputy Registrar.
+
+**2.**—(1) Subject to the provisions of this section, every act done and every order made before the passing of this Act by the Deputy Registrar in purported exercise of a power which the Judge had purported to delegate to him under an Order in Council made under section 11 of the Principal Act and which the Judge could have lawfully delegated to the Registrar under such Order shall be and be deemed always to have been as valid and effectual as such act or order would have been if the same had been done or made by the Registrar in exercise of a power lawfully delegated to him by the Judge under such Order in Council.
+
+(2) Subject to the provisions of this section, every act done and every order made before the passing of this Act by the Deputy Registrar in purported exercise of a power conferred on the Registrar by an Order in Council made under section 11 of the Principal Act shall be and be deemed always to have been as valid and effectual as such act or order would have been if the same had been done or made by the Registrar in exercise of such power.
+
+(3) This section shall not prejudice or affect the operation of any order heretofore made or hereafter to be made by the Judge reversing or varying any such order as aforesaid made by the Deputy Registrar.
+
+(4) This section shall not apply to any order made by the Deputy Registrar which was quashed by the High Court before the passing of this Act.
+
+## 3. Vesting and delegation of powers, etc., in and to the Deputy Registrar.
+
+**3.**—(1) All powers, authorities, and jurisdictions which, immediately before the passing of this Act, are by virtue of the Principal Act or any Order in Council made thereunder vested in or capable of being exercised by the Registrar shall, until the coming into operation of an Act (whether passed before or after this Act) abolishing the office of Clerk of the Crown and Peace, be exercisable by the Deputy Registrar as well as by the Registrar.
+
+(2) Every power, authority, and jurisdiction which, immediately before the passing of this Act, is by virtue of the Principal Act or any Order in Council made thereunder capable of being delegated by the Judge to the Registrar shall, until the coming into operation of an Act (whether passed before or after this Act) abolishing the office of Clerk of the Crown and Peace, be capable of being delegated by the Judge to the Deputy Registrar either in addition to or in lieu of the Registrar and, if and while so delegated, shall until the coming into operation of such Act as aforesaid be exercisable by the Deputy Registrar.
+
+(3) Every exercise by the Deputy Registrar of any power, authority, or jurisdiction under or by virtue of this section shall be subject to the like appeal as an exercise of such power, authority, or jurisdiction by the Registrar would be subject to.
+
+## 4. Short title.
+
+**4.**—This Act may be cited as the Deputy Registrar in Bankruptcy (Cork) Act, 1926.

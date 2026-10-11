@@ -1,0 +1,30 @@
+---
+title: "Imposition of Duties (Confirmation of Orders) (No. 2) Act, 1934"
+identifier: "eli/1934/act/47"
+type: act
+jurisdiction: ie
+language: en
+number: 47
+year: 1934
+date: 1934-12-21
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1934/act/47/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Imposition of Duties (Confirmation of Orders) (No. 2) Act, 1934
+
+AN ACT TO CONFIRM CERTAIN ORDERS MADE BY THE EXECUTIVE COUNCIL UNDER THE EMERGENCY IMPOSITION OF DUTIES ACT, 1932. [21*st December*, 1934.]
+
+BE IT ENACTED BY THE OIREACHTAS OF SAORSTÁT EIREANN AS FOLLOWS:—
+
+## 1. Confirmation of Orders.
+
+**1.**—The several orders named in the Schedule to this Act and made by the Executive Council under the Emergency Imposition of Duties Act, 1932 (No. 16 of 1932), are hereby confirmed.
+
+## 2. Short title.
+
+**2.**—This Act may be cited as the Imposition of Duties (Confirmation of Orders) (No. 2) Act, 1934.
+
+## SCHEDULE. — 1. The Emergency Imposition of Duties (No. 32) Order, 1934. — 2. The Emergency Imposition of Duties (No. 33) Order, 1934. — 3. The Emergency Imposition of Duties (No. 34) Order, 1934. — 4. The Emergency Imposition of Duties (No. 35) Order, 1934. — 5. The Emergency Imposition of Duties (No. 36) Order, 1934. — 6. The Emergency Imposition of Duties (No. 37) Order, 1934. — 7. The Emergency Imposition of Duties (No. 38) Order, 1934. — 8. The Emergency Imposition of Duties (No. 39) Order, 1934. — 9. The Emergency Imposition of Duties (No. 40) Order, 1934. — 10. The Emergency Imposition of Duties (No. 41) Order, 1934. — 11. The Emergency Imposition of Duties (No. 42) Order, 1934. — 12. The Emergency Imposition of Duties (No. 43) Order, 1934. — 13. The Emergency Imposition of Duties (No. 44) Order, 1934. — 14. The Emergency Imposition of Duties (No. 45) Order, 1934. — 15. The Emergency Imposition of Duties (No. 46) Order, 1934. — 16. The Emergency Imposition of Duties (No. 47) Order, 1934. — 17. The Emergency Imposition of Duties (No. 48) Order, 1934. — 18. The Emergency Imposition of Duties (No. 49) Order, 1934. — 19. The Emergency Imposition of Duties (No. 50) Order, 1934. — 20. The Emergency Imposition of Duties (No. 51) Order, 1934. — 21. The Emergency Imposition of Duties (No. 52) Order, 1934.

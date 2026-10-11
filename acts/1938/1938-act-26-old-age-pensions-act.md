@@ -1,0 +1,34 @@
+---
+title: "Old Age Pensions Act, 1938"
+identifier: "eli/1938/act/26"
+type: act
+jurisdiction: ie
+language: en
+number: 26
+year: 1938
+date: 1938-07-29
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1938/act/26/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Old Age Pensions Act, 1938
+
+AN ACT TO AMEND THE OLD AGE PENSIONS ACTS, 1908 TO 1932. [29*th July*, 1938.]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:—
+
+## 1. Definition.
+
+**1.**—In this Act the expression “blind person” means a person who is a blind person within the meaning of the Blind Persons Act, 1920, as amended by the Old Age Pensions Act, 1932 (No. 18 of 1932).
+
+## 2. Certain allowances under Blind Persons Act, 1920, not to be taken into account when calculating means of blind person.
+
+**2.**—In calculating for the purposes of the Old Age Pensions Acts, 1908 to 1932, the means of a blind person who is being paid an allowance in pursuance of a scheme for promoting the welfare of the blind prepared under section 2 of the Blind Persons Act, 1920, no account shall be taken of such portion (if any) of such allowance as is paid to such person expressly in respect of any child who is dependent on him.
+
+## 3. Short title, construction and citation.
+
+**3.**—(1) This Act may be cited as the Old Age Pensions Act, 1938.
+
+(2) This Act shall be construed as one with the Old Age Pensions Acts, 1908 to 1932, and those Acts and this Act may be cited together as the Old Age Pensions Acts, 1908 to 1938.

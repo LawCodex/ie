@@ -1,0 +1,34 @@
+---
+title: "Industrial and Commercial Property (Protection) (Amendment) Act, 1949"
+identifier: "eli/1949/act/32"
+type: act
+jurisdiction: ie
+language: en
+number: 32
+year: 1949
+date: 1949-12-21
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1949/act/32/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Industrial and Commercial Property (Protection) (Amendment) Act, 1949
+
+AN ACT TO REPEAL CERTAIN PROVISIONS OF THE INDUSTRIAL AND COMMERCIAL PROPERTY (PROTECTION) ACT, 1927. [21*st December*, 1949.]
+
+BE IT ENACTED BY THE OIREACHRTAS AS FOLLOWS:—
+
+## 1. Repeal of certain provisions of the Industrial and Commercial Property (Protection) Act, 1927.
+
+**1.**—The following provisions of the Industrial and Commercial Property (Protection) Act, 1927 (No. 16 of 1927), are hereby repealed—
+
+(*a*) in subsection (1) of section 9, from the words “so however” to the end of the subsection, and
+
+(*b*) the Second Schedule.
+
+## 2. Short title and collective citation.
+
+**2.**—(1) This Act may be cited as the Industrial and Commercial Property (Protection) (Amendment) Act, 1949.
+
+(2) The Industrial and Commercial Property (Protection) Acts, 1927 to 1947, and this Act may be cited together as the Industrial and Commercial Property (Protection) Acts, 1927 to 1949.

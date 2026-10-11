@@ -1,0 +1,68 @@
+---
+title: "Comptroller and Auditor-General Act, 1923"
+identifier: "eli/1923/act/1"
+type: act
+jurisdiction: ie
+language: en
+number: 1
+year: 1923
+date: 1923-01-12
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1923/act/1/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Comptroller and Auditor-General Act, 1923
+
+AN ACT TO PROVIDE FOR THE OFFICE OF COMPTROLLER AND AUDITOR-GENERAL, AND FOR OTHER MATTERS CONNECTED THEREWITH. [12*th January,* 1923.]
+
+WHEREAS it is provided by Article 62 of the Constitution of Saorstát Eireann that Dáil Eireann shall appoint a Comptroller and Auditor-General to act on behalf of Saorstát Eireann and that such Comptroller and Auditor-General shall control all disbursements and shall audit all accounts of moneys administered by or under the authority of the Oireachtas and shall report to Dáil Eireann at stated periods to be determined by law:
+
+AND WHEREAS it is provided by Article 63 of the Constitution aforesaid that the Comptroller and Auditor-General shall not be removed except for stated misbehaviour or incapacity on resolutions passed by Dáil Eireann and Seanad Eireann and that subject to that provision the terms and conditions of the tenure of office of the Comptroller and Auditor-General shall be fixed by law and that he shall not be a member of the Oireachtas and shall not hold any other office or position of emolument:
+
+BE IT THEREFORE ENACTED BY THE OIREACHTAS OF SAORSTÁT EIREANN AS FOLLOWS:—
+
+## 1. Appointment of Comptroller and Auditor-General.
+
+**1.**—From and after the passing of this Act, it shall be lawful for Dáil Eireann from time to time by resolution carried by a majority of the members present and voting, to appoint a Comptroller-General of the Receipt and Issue of the Exchequer of Saorstát Eireann and Auditor-General of Public Accounts who shall be styled and known as the Comptroller and Auditor-General (Árd-Scrúdóir) and who shall act on behalf of Saorstát Eireann.
+
+## 2. Salary and Pension of Comptroller and Auditor-General.
+
+**2.**—(1) There shall be paid to the Comptroller and Auditor-General a salary of One Thousand Five Hundred Pounds per annum, and such salary shall be charged upon and paid out of the Central Fund of Saorstát Eireann or the growing produce thereof.
+
+(2) Subject to the provisions of this section there shall be paid to any person who shall have executed the office of Comptroller and Auditor-General on his ceasing to hold such office a pension equal to one-half of the salary of his office to which he shall have been entitled immediately before he ceased to hold such office, if he shall have held the said office for a period of not less than fifteen years and equal to two-thirds of his said salary, if he shall have held the said office for a period of not less than twenty years.
+
+(3) No such pension as is mentioned in the preceding sub-section shall be paid to the Comptroller and Auditor-General, unless he be sixty years of age at the least, or be afflicted with some permanent infirmity disabling him from the due execution of his office, such infirmity to be certified by such persons and in such manner as the Minister for Finance shall require.
+
+(4) Nothing in this section shall prevent the Comptroller and Auditor-General from receiving, if he shall so elect, in lieu of the pension which would be payable to him under this section, the amount of superannuation allowance to which he would have been entitled by law apart from this Act, in respect of the full period during which he shall have served in the permanent Civil Service of the State, for which purpose service as Comptroller and Auditor-General shall be deemed to be service in the permanent Civil Service of the State.
+
+## 3. Tenure of Office of Comptroller and Auditor-General.
+
+**3.**—(1) The Comptroller and Auditor-General shall retire from office upon his attaining the age of seventy years, and shall not be removed from his office before he shall have attained that age except by the Oireachtas upon identical resolutions passed by Dáil Eireann and Seanad Eireann respectively, and then only for misbehaviour or incapacity to be expressly stated in such resolutions.
+
+(2) The Comptroller and Auditor-General shall not, while holding his office, be capable of holding any other office or position of emolument, or of being elected to or of being a member of either House of the Oireachtas.
+
+## 4. Staff of Department.
+
+**4.**—The Minister for Finance shall from time to time appoint the officers, clerks, and other persons in the Department of the Comptroller and Auditor-General and regulate the numbers, salaries and conditions of employment of the respective grades or classes into which such officers, clerks, and other persons shall be divided.
+
+## 5. Principal Officer may act for Comptroller and Auditor-General in certain cases.
+
+**5.**—Anything which is by the law for the time being in force directed to be done by the Comptroller and Auditor-General, other than the certifying and reporting on accounts for Dáil Eireann, may be done by a principal officer of the Department authorised for that purpose by the Comptroller and Auditor-General.
+
+## 6. The Comptroller and Auditor-General to regulate the business of his Department.
+
+**6.**—The Comptroller and Auditor-General shall have full power to make from time to time orders and rules for the conduct of the internal business of his Department and to promote, suspend, or remove any of the officers, clerks, and other persons employed therein, and also, subject to the approval of the Minister for Finance, to make regulations and prescribe forms for the guidance of departments and persons in making up and rendering their accounts to him for examination.
+
+## 7. Duties of Comptroller and Auditor-General.
+
+**7.**—(1) It shall be the duty of the Comptroller and Auditor-General to control all disbursements and to audit all accounts of moneys administered by or under the authority of the Oireachtas at such times and in such manner as shall from time to time be prescribed by law.
+
+(2) It shall also be the duty of the Comptroller and Auditor-General to report to Dáil Eireann on such matters and at such periods and times as shall from time to time be prescribed by law or required by resolution of Dáil Eireann.
+
+(3) Unless and until it shall be otherwise provided by the Oireachtas, the Comptroller and Auditor-General shall have and exercise all such powers and perform all such duties as are prescribed by this Act or are conferred or imposed on him by any Act of the Parliament of the late United Kingdom having the force of law in Saorstát Eireann and adapted to the circumstances of Saorstát Eireann by or under the Adaptation of Enactments Act, 1922 (Number 2 of 1922), and particularly by the Exchequer and Audit Departments Acts, 1866 and 1921 (29 and 30 Vict., c. 39, and 11 and 12 Geo. V., c. 52).
+
+## 8. Short Title.
+
+**8.**—This Act may be cited as the Comptroller and Auditor-General Act, 1923.
