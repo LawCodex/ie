@@ -2,7 +2,7 @@
 """Download sources listed in RAW/index.json into the RAW cache (re-runs skip cached files).
 
 - 1922+ Acts: eISB as-enacted XML  /eli/<y>/act|prv/<n>/enacted/<lang>/xml
-- pre-1922 Acts: eISB HTML         /eli/<y>/act/<n>/enacted/en/html  (no XML is published)
+- pre-1922 Acts: eISB print HTML   /eli/<y>/act/<n>/enacted/en/print  (no XML is published)
 - LRC Revised Acts: revised XML    /eli/<y>/act|bps/<n>/revised/en/xml
 - Constitution: eISB HTML          /eli/cons/<lang>/html
 """
@@ -25,9 +25,9 @@ def jobs():
             yield f"{LRC}/eli/{y}/{kind}/{n}/revised/en/xml", f"revised/{y}/{kind}-{n}.xml"
     for a in idx["acts"]:
         y, n, lang = a["year"], a["number"], a["lang"]
-        seg = "act" if a["kind"] == "pub" else "prv"
+        seg = {"pub": "act", "prv": "prv", "cam": "ca"}[a["kind"]]
         if y < 1922:
-            yield f"{ISB}/eli/{y}/act/{n}/enacted/en/html", f"enacted/{y}/pre-{n}.html"
+            yield f"{ISB}/eli/{y}/act/{n}/enacted/en/print", f"enacted/{y}/pre-{n}.html"
         else:
             yield f"{ISB}/eli/{y}/{seg}/{n}/enacted/{lang}/xml", f"enacted/{y}/{seg}-{n}-{lang}.xml"
 

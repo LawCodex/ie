@@ -1,0 +1,38 @@
+---
+title: "Archbishop's Palace Dublin Act, 1804"
+identifier: "eli/1804/act/63"
+type: act
+jurisdiction: ie
+language: en
+number: 63
+chapter: 63
+year: 1804
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1804/act/63/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Archbishop's Palace Dublin Act, 1804
+
+## C A P. LXIII.
+
+An Act for vesting the capital Messuage, with the Appurtenances, situate in *Kevin Street*, in the City of *Dublin*, called *The Palace of the Archbishop of Dublin at Saint Sepulchre’s*, in his Majesty, his Heirs and Successors; and for applying the Purchase Money, together with another Sum therein mentioned, in Manner and for the Purposes therein mentioned. [29th *June* 1804.]
+
+Recital that Archbishop of Dublin in Right of his See is feifed of the Palace thereof.
+
+Amount of Dilapidations thereto.
+
+Agreement with Representatives of late Archbishop as to the Dilapidations.
+
+The Sale of the present Palace and Offices applicable for publick Purposes.
+
+Agreement with the Treasury of *Ireland* for the Purchase of the old Palace and Offices.
+
+‘Whereas the Right Honourable and most Reverend Father in God *Charles* Viscount *Somerton* Lord Archbishop of *Dublin*, is feifed in Right of his See of *Dublin*, of a capital Mansion House, with the Offices, Gardens, and Appurtenances, situate in *Kevin Street*, in the Liberty of *Saint Sepulchre’s*, adjacent to the City of *Dublin*, called or known by the Name of *The Palace of the Archbishop of Dublin, at Saint Sepulchre’s*: And whereas since the Death of the most Reverend *Robert* late Archbishop of *Dublin*, his Grace’s immediate Predecessor, an Account hath been adjusted between the Representatives of the said *Robert* and the said *Charles* now Lord Archbishop of *Dublin*, of the Dilapidations incurred on the said Mansion House, Offices, and the Premises thereunto belonging, and the fame hath been ascertained to amount to the Sum of nine hundred and twenty-three Pounds twelve Shillings and seven-pence, *Irish* Currency, and no more: And whereas the said Mansion House hath of late Years been suffered to go into very great Decay, and cannot be rendered fit for the Habitation of an Archbishop of *Dublin*, without considerable Expence: And whereas the said *Charles* Lord Archbishop of *Dublin* having come to an Agreement with the Representatives of the most Reverend *Robert* late Archbishop of *Dublin*, has accepted the Sum of nine hundred and twenty-three Pounds twelve Shillings and seven-pence, to be paid by such Representatives for Dilapidations of such Mansion House and Offices, notwithstanding such Representatives have demanded of the said *Charles* Lord Archbishop of *Dublin* the Sum of eight hundred and eighty-five Pounds seven Shillings and ten-pence, as three-fourths of one thousand one hundred and eighty Pounds ten Shillings and five-pence Farthing, for which the said Representatives allege that Certificates were obtained under two Acts of Parliament passed in the tenth Year of King *William* the Third, and the twelfth Year of the Reign of King *George* the First, notwithstanding the said House and Offices have been left in a very ruinous and neglected Condition, and which Sum of nine hundred and twenty-three Pounds twelve Shillings and sevenpence is entirely inadequate to the Expence necessary to put the said House and Offices in complete Repair, and render the fame fit for the Residence of an Archbishop of *Dublin*: And whereas the Piece of Ground whereon the said Mansion House and Offices now stand is of considerable Extent, and the fame, with the Buildings now standing thereon, have been estimated to be of the Value of seven thousand Pounds, *Irish* Currency, and the said *Charles* Lord Archbishop of *Dublin* not having hitherto resided therein, and being desirous of obtaining some other House for the Residence of himself and his Successors, and the said Piece of Ground being capable of being applied advantageously for the publick Service, it has been proposed, on Behalf of his Majesty, that the fame should be Purchased for the publick Service at the Price of seven thousand Pounds: And whereas in pursuance of such Proposal an Agreement has been made between the Lords Commissioners of his Majesty’s Treasury, in that Part of the United Kingdom called *Ireland*, on Behalf of his Majesty, and the said *Charles* Lord Archbishop of *Dublin*, and reduced into Writing, and signed by three Lords of the said Treasury and the said Lord Archbishop, and bearing Date the fourteenth Day of *February* One thousand eight hundred and four, for the Purchase and Sale of the said Mansion House, Offices, and Ground, in cafe they should be enabled so to do by the Authority of Parliament; and reciting, that upon proper Surveys taken and Calculations made thereon, it hath appeared and been agreed on between them, that a clear Sum of seven thousand Pounds, *Irish* Currency, would be a full Price and adequate Consideration for said Mansion House, Offices, and Grounds, and other Purposes herein-mentioned: But inasmuch as this Purchase and Sale cannot be effected without the Aid and Authority of Parliament, it was also agreed, That one Moiety of the Expences of obtaining an Act of Parliament, authorizing such Sale, and directing the Application of the said Purchase Money, should be paid out of the said seven thousand Pounds, and that the other Moiety should be paid by his Majesty’s Treasury on Behalf of his Majesty, in addition to the said seven thousand Pounds: May it therefore please your Majesty that it may be enacted.’
+
+“The Premises of the old Palace, on Payment of its estimated Value, vested in his Majesty, free from Incumbrances, § 1.—Monies received under this Act, shall be paid into the Bank of *Ireland*, and be applied under the Direction of the Court of Chancery there, in purchasing Ground for erecting a suitable Residence for the Archbishop of *Dublin*, and a Court House for the Seneschal of the Liberty of *Saint Sepulchre’s*, § 2.— Leasehold Interest in Premises, the Reversion whereof shall be in the Archbishop, may be Purchased and the Fee Simple thereof vested in him, § 3.—The new Buildings shall be the See House of the See of *Dublin*, and Court House of the Manor of *Saint Sepulchre*, and so be described in all Writings, &c. §4.— Court of Chancery may order of Payment of Expences in passing and executing the Act, §5.—Monies paid into the Bank shall be placed out at Interest, §6.—The Court Chancery may dispose of Surplus Monies for Use of Archbishop of *Dublin*, §7.—In cafe the Sum paid into the Bank is not sufficient for the Purposes of the Act, Court of Chancery may order how the fame shall be made up, §8.—Succeeding Archbishops’ Proportions of Expence in cafe of an Insufficiency as raised under the Act, §9.—Cashiers’ Receipts sufficient Discharges, § 10, 11.”
+
+### General Saving.
+
+XII. Saving always to all and every Person and Persons, Bodies Politick and Corporate, their Heirs and Successors, (other than and except the King’s most Excellent Majesty, his Heirs and Successors, and the said *Charles* Lord Archbishop of *Dublin* and his Successors in the said See of *Dublin*, and all Persons claiming or to claim by, from, or under them or any of them) all such Estate, Right, Title, Interest, Claim, and Demand, of, in, to, or out of the said Mansion House and Premises so authorized to be fold as aforesaid, or any Part of Parts thereof, as they, either, or any of them respectively, had before the passing of this present Act, or might have had or enjoyed in cafe this Act had not been made.—“Publick Act, § 13.”

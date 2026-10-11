@@ -1,0 +1,184 @@
+---
+title: "Plate Assay Act, 1783"
+identifier: "eli/1783/act/23"
+type: act
+jurisdiction: ie
+language: en
+number: 23
+chapter: 23
+year: 1783
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1783/act/23/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Plate Assay Act, 1783
+
+CHAPTER XXIII.
+
+An Act to regulate the Assay of Gold, and promote the Manufacture of Gold and Silver Wares in this Kingdom.
+
+WHEREAS various manufactures of gold require gold of different degrees of hardness and purity, and it is expedient that the different standards of gold should be ascertained, and the manufactures made thereof be particularly distinguished.
+
+## 
+
+### And gold manufacture of 22 carats marked (22) and initials of makers name, stamped at assay-office in Dublin or New Geneva.
+
+III. And be it enacted, That no person shall sell, exchange, or export, or cause to be sold, exchanged or exported, any gold vessel, gold plate, or other manufacture of gold being of the aforesaid standard of twenty two carats fine, unless it be marked with the mark of the maker, which mark shall be the number (22,) and the first letter of the christian and sirname of the maker, nor unless it be likewise stamped at the assay-office in Dublin, with a harp crowned, or at the assay-office in New Geneva in the county of Waterford, with a like harp and a bar across its strings, under the like penalty as aforesaid.
+
+### If of 20 carats, maker's mark (20) & initials of his name, and stamped in Dublin 3, in New Geneva 2 feathers.
+
+IV. And be it further enacted, That no person shall sell, exchange, or export, or cause to be sold, exchanged or exported, any gold vessel, gold plate, or other manufacture of gold, being of the aforesaid standard of twenty carats fine, unless it be marked with the mark of the maker, which mark shall be the number (20,) and the first letter of the christian and sirname of the maker, nor unless it be likewise stamped at the assay-office in Dublin, with a plume of three feathers, or at the assay-office in New Geneva aforesaid, with a plume of two feathers only, under the like penalties as aforesaid.
+
+### If of 18 carats, marked (18) and initials, stamped in Dublin with Unicorn's head, in New Geneva with a collar round it.
+
+V. And be it further enacted, That no person shall sell, exchange, export, or cause to be sold, exchanged or exported any gold vessel, gold plate, or other manufacture of gold being of the aforesaid standard of eighteen carats fine, unless it be marked with the mark of the maker, which mark shall be the number (18,) and the first letter of the christian and sirname of the maker, nor unless it be likewise stamped at the assay-office in Dublin, with an Unicorn's head, or at the assay-office in New Geneva aforesaid, with an Unicorn's head and collar round the neck, under the like penalty as aforesaid.
+
+### Gold wares herein not subject to said mark or stamp, rings, &c. or articles not weighing 6 penny wt. of gold each.
+
+VI. Provided always, and it is hereby declared and enacted, That nothing in this act contained, shall oblige any of the following wares made of gold, (of any one of the three standards aforesaid) to be marked by the maker, or stamped at either of the assay offices aforesaid, namely, rings, collets for rings, ear-rings, necklace beads, lockets, ferril necks of bottles, pocket-book clasps, any jointed stock clasps, rims of snuff-boxes, whereof the tops or bottoms are made of shell, tortoiseshell, ivory, wood, crystal, or stone, any filligrane work, any sorts of tippings or swages on shell, tortoiseshell, ivory, wood, crystal or stone cases, any mounts, screws or stoppers to stone, crystal or glass bottles or phials, or any small or slight ornaments put to amber or other eggs, or urns, or any manufacture of gold so covered on all sides with amel or enamel, as not to admit of any assay to be taken thereof, and the marks and stamps aforesaid, to be struck thereon, or such other things as by reason of their smallness or thinness are not capable of receiving the marks aforesaid, or such other manufactures as do not weigh six penny weights of gold each.
+
+### Pieces joined by links, &c. considered as separate pieces.
+
+VII. Provided always, and be it further enacted, That if any manufacture of gold be composed of different pieces joined together by links, screws, pins, pivots, joints, or hinges, each such piece shall be considered as a separate and distinct gold ware within the intent and meaning of this act.
+
+### If pieces of different standards, joined in a more close way, marked with lowest stamp.
+
+VIII. Provided also, and be it further enacted, That if any manufacture of gold be composed of different pieces, such pieces being of different standards as aforesaid, (and being capable of receiving the marks aforesaid) shall be marked with the mark denoting as aforesaid the lowest standard of the gold contained in such manufacture: provided always, that the said pieces be joined together in some more intimate and close way than by means of links, screws, pins, pivots, joints or hinges as aforesaid.
+
+### If unnecessary solder, or stuffing for feited.
+
+IX. And be it further enacted, That no person shall make or procure to be made, any manufacture of gold containing any solder or other stuffing more than is necessary, upon pain for every such offence of forfeiting such gold manufacture or the value thereof.
+
+### Every mark or punch constructed so as to indent the image, the relieved image thin, sharp, &c.
+
+X. And be it further enacted, That every mark or punch to be used after the said first day of June, one thousand seven hundred and eighty four, by any goldsmith in pursuance of this act, shall be so constructed as (instead of causing the image made by the impression of such mark or punch to be raised) to cause the image made by such mark or punch to be indented in the gold marked therewith, to prevent the said image being defaced or injured in the finishing of the work, and that the relieved image upon every mark or punch so to be used by any goldsmith as aforesaid, shall be made thin, sharp, and shallow, with a flat stop or shoulder to the said mark or punch to prevent the injuring of any gold manufacture marked therewith.
+
+### Impression, with makers name and abode registered in assay-office paying 5s. and assayer to impress on pewter or copper said impression, &c. no person entitled to have manufacture assayed or stamped ‘till said requisites performed, nor if marked with any other mark or punch, nor unless with the mark of standard.
+
+XI. And be it further enacted, That it shall and may be lawful on or after the first day of June, one thousand seven hundred and eighty four aforesaid, for every person making (or causing to be made) any gold manufacture or gold manufactures, to enter an impression of his or her new mark or punch, marks or punches made as aforesaid, together with his or her respective name and respective place of abode in either of the said assay-offices, upon paying the sum of five shillings to the assayer or wardens of such office, who shall, and are hereby required to make on a plate or sheet of pewter, or of copper, an impression or impressions of such mark or punch, marks or punches; and also to make an entry of such mark or punch, marks or punches, with the name and place of abode of the owner or owners thereof in a book or books carefully to be kept for that purpose, if such owner or owners be resident in Dublin or New Geneva; and that no person shall be entitled to have any gold manufacture made or caused to be made by him or her, assayed or stamped at either of the said assay-offices until and after the same shall have been stamped as aforesaid by the maker, and until and after such impression and entry shall have been made at such office of the mark or punch of the said person, which denotes as aforesaid the particular standard of such gold manufacture; and that no gold manufacture shall be assayed or stamped at either of the said assay-offices, if the said gold manufacture be marked with any other mark or punch, but such as is duly entered as aforesaid; and that no gold manufacture shall be assayed or stamped at either of the said assay-offices, unless such manufacture of gold be marked with the mark or punch, which denotes as aforesaid the true standard of the said gold manufacture.
+
+### If of different standards not assayed unless sent in different parcels accordingly.
+
+XII. And be it further enacted, That no gold manufacture made by the same maker, and brought to either of the said assay-offices, and composed of gold of different standards as aforesaid, shall be received at such assay-office to be assayed, unless the said manufactures be sent in different parcels according to the standards thereof, except as is herein excepted.
+
+### If found on assay, under the standard marked, assayed 2d time same day, if found under, a 3d trial, if required, if in Dublin on next hall day, if then found under, broken, and returned on payment of assay.
+
+XIII. And be it further enacted, That if any gold manufacture or parcel of gold manufactures brought to either of the said assay-offices shall be found by being assayed to be composed of gold less in fineness than gold of the particular standard, which the number in the mark of the maker marked on the said gold manufacture, or said parcel of gold manufactures, in the manner aforesaid, denotes it to be of, then the said gold manufacture or parcel of gold manufactures, shall be assayed a second time on the same day; and if the said gold manufacture, or parcel of gold manufactures shall on second trial be found to be composed of gold less in fineness than gold of the particular standard aforesaid, the said gold manufacture or parcel of gold manufactures (if required by the person who shall have brought the same to be assayed) shall be assayed a third time, which third trial shall be made if in Dublin on the hall day next following the second trial, and if the said gold manufacture or parcel of gold manufactures shall on such third trial, or on such second trial, if a third trial be not required as aforesaid, be found to be composed of gold less in fineness than gold of the particular standard aforesaid, the said gold manufacture, or parcel of gold manufactures, shall be defaced and broken, and shall be returned to the maker thereof, who shall pay for the assaying, and also for the additional assaying of the said gold manufacture, or parcel of gold manufactures, according to the same rate and price herein contained for the assaying, but nothing by the ounce for stamping.
+
+### Whether more solder than necessary determined at assay-office, and whether sufficiently forward in workmanship, if otherwise, not stamped.
+
+XIV. And be it further enacted, That it shall and may be lawful for any warden, deputy warden, or assayer of the company of goldsmiths in Dublin, or the assayer at New Geneva, (having been a working goldsmith or silversmith) to determine whether there be or be not more solder than is necessary in every gold ware brought to the assay-office respectively to be stamped, and also whether any such gold ware are sufficiently forward in the workmanship to be stamped with propriety; and that if the said warden, deputy warden, or assayer, shall adjudge any piece of gold ware to be too much charged with solder, or not to be forward enough in the workmanship, he shall and is hereby required to refuse to permit the same to be stamped.
+
+### If on weighing, other metal suspected to be inside, or not of same fineness may be cut, and if so found, defaced and broken, forfeited to company in Dublin, or corporation of New Geneva towards expences, but company may remit, if no intention of fraud.
+
+XV. And be it further enacted, That if on view of any gold manufacture brought to either of the said offices to be assayed, and after weighing the same in water, the warden, deputy warden or assayer of such office shall have suspicion that there be any other metal than gold contained in the inside of the said gold manufacture, or that the said gold manufacture be not of the same fineness in the inside as on the outside, it shall and may be lawful for the said warden, deputy warden, or assayer to cut the same, or to cause the same in his or their presence to be cut; and that if upon cutting thereof there shall be found therein any other metal than gold, or any gold less in fineness than gold of the particular standard which the number (in the mark of the maker) marked on the said gold ware shall in the manner aforesaid denote it to be of, then the said gold ware shall be broken and defaced, and the said warden, deputy warden and assayer, are hereby respectively authorized and directed to deface and break the same, or cause the same to be defaced and broken; and that the said gold ware shall be forfeited to the company of goldsmiths in Dublin, or to the corporation of New Geneva, according as the same shall be brought to either of the assay-offices respectively, and the produce thereof shall be by them applied towards defraying the expences of such assay-office: Provided always, That it shall and may be lawful for the said company of goldsmiths in Dublin, to remit the whole or any part of such forfeiture to the said company, if upon examination they shall find there was no fraudulent intention in the maker.
+
+### If on cutting, no fraud discovered, full recompence to owner, charged to the office.
+
+XVI. Provided always nevertheless, and be it enacted, That if on cutting such gold ware as aforesaid, no fraud shall be discovered, then and in such case the said warden, deputy warden, or assayer shall forthwith make a recompence and satisfaction in money to the owner or owners of such gold ware to the full amount of the damage done the same, and shall charge the same to the account of the expences of the said assay-office.
+
+### The company or corporation on complaint of injury at the office, shall make full recompence.
+
+XVII. And be it further enacted, That if any gold ware be injured at either of the said assay-offices, and complaint be made thereof by the maker or owner of such gold ware, it shall and may be lawful for the wardens of the company of goldsmiths in Dublin, or such persons as shall be appointed for the purpose by the corporation of New Geneva respectively, and they are hereby required to judge of the said complaint, and to make full recompence in money to the person or persons whose work shall have been injured by the marking of the same for such injury, and the said wardens or other persons respectively shall, as they shall judge right, either charge the same to the account of the expences of the said assay-office, or shall deduct the same from the wages or salary of the person in the said assay-office, who shall by stamping have injured the gold ware aforesaid.
+
+### Prices at assay-office, for assaying any pieces of same standard, brought at same time 1s. stamping 3d. per ounce.
+
+XVIII. And be it further enacted, That from and after the said first day of June, one thousand seven hundred and eighty four, it shall and may be lawful for the company of goldsmiths in Dublin, to ask, demand, take, and receive of and from all and every person and persons, who shall from time to time bring or send to the assay office in Dublin, any piece or parcel of wrought gold to be assayed, or assayed and stamped, such prices or sums of money as the said company of goldsmiths shall from time to time appoint, so as such prices or sums of money do not exceed the several and respective prices or sums of money following, that is to say, for assaying any piece or pieces, or parcel of gold marked of any one of the said standards, and brought at the same time, the sum of one shilling, and for stamping the same, the further sum of three pence per ounce for every ounce which shall be assayed and stamped, and for all gold which shall be assayed at the assay-office in New Geneva, there shall be demanded and paid the said prices respectively, and no more.
+
+### No single parcel above 6 ounces, except a single piece.
+
+XIX. Provided also, and be it further enacted, That no single parcel whatsoever of wrought gold (brought to either assay-office to be assayed as aforesaid,) shall contain more than six ounces in weight of gold wares, save only and except such parcel contains a single piece of work made of gold.
+
+### Assay and stamp refused till payment.
+
+XX. Provided also, and be it further enacted, That if any person or persons shall refuse or neglect to pay such respective prices or sums of money aforesaid, it shall and may be lawful for any warden, deputy warden, or assayer, to refuse to assay and stamp the gold wares of such person or persons, until such prices or sums of money as aforesaid shall be actually paid.
+
+### Overplus of necessary expences, applied to prosecute offenders; if any remaining, then to the company or decayed brethren.
+
+XXI. Provided also, and be it further enacted, That in case the said sums of money hereby allowed to be taken by the company of goldsmiths in Dublin, for the assaying, or the assaying and stamping of gold manufactures, shall be more than sufficient to defray the necessary expences of the assay-office of the said company, then the overplus money shall be applied by such company to the prosecution of offenders against this act; and that if such prosecutions shall not require the whole of such overplus, then the overplus money may be applied to the use of such company, or the support of the decayed brethren thereof.
+
+### Six indented trial pieces made, 2 of 22 carats, 2 of 20, 2 of 18, assayed publickly on 6 days notice, and if found of the respective standards, one of each deposited with assayers.
+
+XXII. And be it further enacted, That the warden and assayer of the said company shall, from time to time, as occasion shall require, make or cause to be made six indented trial pieces, whereof the two first shall be of the aforesaid standard of twenty two carats of fine gold in every pound weight Troy, whereof the two second shall be of the aforesaid standard of twenty carats of fine gold, every pound weight Troy, and whereof the two third shall be of the standard of eighteen carats of fine gold in every pound weight Troy; and that after the said six trial pieces shall have been made as aforesaid, they shall be publickly assayed at the hall of the said company, on some day to be advertised for the purpose by publick notice, at least six days previous thereto, and that when the same shall have been so assayed and found to be of the respective standards aforesaid, one of each of the said trial pieces shall be delivered to the assayer, and shall be deposited by him in his office as guides for trying such plate as shall be brought to his office to be assayed, and the other said trial piece shall be given to the assayer of New Geneva, (if there shall be an assayer there) to be deposited by him in like manner, and for like purpose.
+
+### Office open 2 hours 3 days in each week, by advertisement of the company.
+
+XXIII. And be it further enacted, That the assay-office of the company of goldsmiths in Dublin, shall be kept open during such hours, not less than two in the day, and during so many days, not less than three days in each week, as the said company shall from time to time appoint by publick advertisement, for the purpose of receiving and taking in manufactures of gold or silver to be assayed, or assayed and stamped in said office.
+
+### Books kept by wardens or assayer, access to members,
+
+XXIV. And be it further enacted, That after the first day of June, one thousand seven hundred and eighty four aforesaid, the warden or wardens, or the assayer of said company of goldsmiths, shall keep, or cause to be kept, books wherein shall be entered (under the three heads of the respective standards aforesaid) the name or names of every owner or owners of gold wares assayed in the assay-office of said company, with a corresponding number, the day on which the same is assayed, the weight of such gold wares respectively, and the assortment thereof, and an account of the quantity, and also of the deficiency in the fineness (if any) of the gold wares that are defaced and broken, and likewise an account of the monies received in said office for the assaying, or the assaying and stamping of gold wares, and also an account of the officers and servants salaries and wages, and of all other incidental expences attending the same; and that every member of the company shall have free access to the said books, and to the inspection thereof.
+
+### No pattern or design discovered or permitted to be seen.
+
+XXV. And be it further enacted by the authority aforesaid, That no assayer in either of the assay-offices, shall discover, by description in words or otherwise, to any person or persons whomsoever, any pattern, design, or invention of any piece of gold plate, or other ware brought or to be brought to the said assay-office to be assayed, or permit the same to be viewed or seen by any person whomsoever, but the wardens and other persons necessarily employed, or to be employed in the said offices, under the penalty as is herein after mentioned.
+
+### Punches locked in a box with 2 locks, one key kept by a warden, the other by an assayer; never taken out, but in the presence of a warden and an assayer; wares stamped in presence of 2 witnesses and 1 assayer locked up immediately; not permitted to be seen by improper persons, under penalty of 200l.
+
+XXVI. And be it further enacted, That the punches or stamping instruments belonging to each of the said assay-offices, shall be locked up in a box, with two different locks, and the respective keys thereof shall be respectively kept, one key by one of the wardens or deputy-wardens, or touch-warden, and the other key by one assayer of the said company; and in like manner at New Geneva, one key to be kept by the assayer, and the other key by one other person to be appointed by the corporation at New Geneva; and the said punches or stamping instruments, shall never be taken out of the boxes but in the presence of one of the said wardens or deputy wardens, and one assayer of the said company, or of the assayer, and the person so appointed respectively for the purpose of stamping the gold wares which shall have been assayed, and reported standard, and which gold wares shall be stamped in the presence of two or more of the said wardens or deputy-wardens, and one assayer, and the punches or stamping instruments immediately after shall be locked up in manner aforesaid; and that if by connivance of the said wardens or deputy-wardens, any assayer shall stamp, or suffer to be stamped, any plate with the company's stamp, or the stamp of the assay-office at New Geneva, any otherwise than as aforesaid, or if he shall stamp any plate that has not been duly assayed and found standard, or if he shall discover by description in words or otherwise to any person or persons whomsoever, any pattern, design, or invention of any piece of gold plate brought to the office to be assayed as aforesaid, or wittingly or willingly permit or suffer the same to be viewed or seen by any person whomsoever, but the wardens and other persons necessarily employed in the said office, he shall forfeit and pay the sum of two hundred pounds, to be disposed of towards defraying the expences of his respective office, and shall be turned out of his office, and be ever after incapable of exercising the office of an assayer.
+
+### Appeal to the company or corporation, their determination final.
+
+XXVII. And be it further enacted, That it shall and may be lawful for every person who shall think himself aggrieved by any act or determination of any warden, deputy warden, or assayer of the said company of goldsmiths, or by any assayer or other person to be appointed by the said corporation at New Geneva, to appeal to the said company of goldsmiths, or to the council, or other assembly of the said corporation respectively, who are hereby authorized, empowered, and directed to hear such appeal or complaint, and to determine the same; and that the determinations of the said company and council, or assembly of the said corporation respectively shall be final and decisive.
+
+### To counterfeit instrument or punch, or have in possession, knowing same to be counterfeited, or imitate impression, or transpose or remove or possess, or exchange or export such manufacture, knowing it, transportation 7 years, or fined or imprisoned.
+
+XXVIII. And be it further enacted, That if any person from and after the said first day of June, one thousand seven hundred and eighty four, shall counterfeit, or cause to be counterfeited, any stamping instrument or punch, used or to be used in pursuance of this act, by any maker or makers of any gold wares, or by any warden or wardens, or deputy warden or deputy wardens, or assayer or assayers of either of the said assay-offices respectively, or shall have in his or her possession such counterfeit stamping instrument or punch, knowing the same to be counterfeited, or shall on any piece or pieces of gold, or of any kind of metal, or of any mixed metals, or of any composition containing any metal or metals of any kinds whatever, counterfeit or imitate, or cause to be counterfeited or imitated, in any way whatever, any mark, stamp, or punch, or any impression of any mark, stamp, or punch made, or to be made in pursuance of this act, by any maker or makers of any gold wares, or by the warden or wardens, or deputy warden or deputy wardens, or assayer or assayers of either of the said assay-offices respectively, or shall transpose or remove, or cause to be transposed or removed from one piece of gold manufacture to another, or from any piece of gold manufacture to any manufacture or manufactures made of any kind of metal, or of any mixed metals, or of any composition containing any metal or metals of any kind whatever, any mark, or stamp, or any impression of any mark, stamp, or punch, made, or to be made on any manufacture of gold in pursuance of this act, by any maker or makers of gold wares, or by the warden or wardens, or deputy warden or deputy wardens, or assayer or assayers of either of the said assay-offices respectively, or shall have in his or her possession, shall sell, or expose to sale, shall exchange or expose to be exchanged, shall export, or shall put or cause to be put on board any ship or vessel, with intent to export out of this kingdom, any manufacture made of gold, or of any kind of metal, or of any mixed metals, or of any composition containing any metal or metals of any kind whatever, upon which such counterfeited or imitated mark, stamp, or impression shall have been made as aforesaid, or to which such real mark, stamp, or impression shall have been transposed or removed as aforesaid, knowing such mark, stamp, or impression to have been counterfeited or imitated as aforesaid, or such real mark, stamp, or impression to have been transposed or removed as aforesaid, every such person being lawfully convicted of such offence or offences respectively, shall be transported to some of his Majesty's colonies, plantations, or settlements in Asia, Africa, or America, for seven years, or fined in such sum, and confined for such time as shall seem meet to the judge before whom such person shall be convicted.
+
+### No gold, &c. except fine without alloy, or less by 1 grain only.
+
+XXIX. And be it further enacted, That no finer, refiner, or parter of gold, shall sell, or expose to sale, shall exchange, or expose to be exchanged, any gold, other than and except fine gold, and without any mixture of alloy, or gold less than fine by one grain in the ounce only, upon pain of forfeiting such gold, or the value thereof.
+
+### Company and corporation may make bye-laws, &c. not contrary to law.
+
+XXX. And be it further enacted, That it shall and may be lawful to and for the said company of goldsmiths in Dublin, and the said corporation at New Geneva, and they are hereby authorized and empowered, from time to time, to make bye-laws, rules, and orders for the well government and management of their respective officers, and for fixing the time and manner for receiving in and delivering out plate brought to be assayed, and for every other purpose relative to the conduct or management of such office, so as such bye-laws, rules, and orders do not in any respect contradict this act, or the laws of this realm.
+
+## 
+
+### A touch-warden or assistant assayer, appointed annually, and on vacaney, 70l. salary out of duties on wrought silver.
+
+XXXII. And whereas the attendance of a touch-warden, or an assistant assay-master, is necessary at the assay-office in Dublin, as well for the purposes of this act as for the assaying and levying the duties on silver ware: be it enacted, That it shall and may be lawful for the said company of goldsmiths to appoint annually, and from time to time, as often as there shall be a vacancy, a proper person who shall have been bred to and worked in the trade of a goldsmith or silversmith, to be touch-warden or assistant assayer; and that it shall and may be lawful for the officer appointed to stamp or mark plate by virtue of the said recited act,([<sup>a</sup>] ) to detain out of the duties on wrought silver plate, the yearly sum of seventy pounds, to be paid to such person for his salary in the execution of his office.
+
+### On vacancy of inspector, the touch-warden, or officer by commissioners shall act.
+
+XXXIII. And be it further enacted, That so soon as the office of inspector of the duties on wrought plate shall become vacant by the death, removal, or resignation of the present possessor thereof, the salary annexed to said office shall cease and be no longer payable, and the duty of the said office shall be executed by the touch-warden, or by such officer of the commissioners of tillage and inland navigation, as the said commissioners shall appoint.
+
+## 
+
+### Change of abode registered in 14 days.
+
+XXXV. Provided always, That if any such person so registered [<sup>b</sup>] shall change his place of abode, he shall be deemed not to be registered within the meaning of this act, unless such change, and the new place of abode be registered within fourteen days after such change.
+
+### Gold wares, &c. neither to be bought or sold, &c. by hawkers, &c. penalty 50l.
+
+XXXVI. And be it enacted, That no hawker, pedlar, or other trading person going from town to town, nor any person licensed as such, shall buy, sell, or expose to sale, exchange or barter any wares of gold or silver, or any jewels or precious stones, set or unset, under penalty of forfeiting the sum of fifty pounds for every such offence to the person who shall sue for the same.
+
+### Gold assayed and marked at London office, and silver at any office in Gr. Britain, exempt from this act.
+
+XXXVII. And be it further enacted, That nothing in this or any other act contained, shall extend or be construed to extend to prohibit or subject any person registered as aforesaid, to any penalty or forfeiture for selling, exchanging, or exposing to sale, or exporting any gold vessel, gold plate, or other manufacture of gold of any of the three standards aforesaid, nor to require it to be assayed, stamped, or marked pursuant to this act, if it shall have been assayed, stamped, and marked at the assay-office in London; and if in the mark of the maker thereof the number denoting the standard be marked or impressed, nor to prohibit or subject to any penalty or forfeiture any person registered as aforesaid for selling, exchanging, exposing to sale, or exporting any silver ware, or to require any silver ware to be assayed which shall have been assayed and marked at any assay-office in Great Britain.
+
+## 
+
+### Forfeitures recovered in a court of record, to prosecutor, full costs.
+
+XLI. And be it further enacted by the authority aforesaid, That all forfeitures by this act inflicted, shall and may be recovered by action of debt, bill, suit, or information in any court of record in this kingdom, wherein no essoign, protection, wager of law, or more than one imparlance shall be allowed, and shall be to the use of the person suing for the same; [Rep., Stat. Law Rev. (I.) Act, 1879.] and in every such action or suit, the party against whom a verdict or judgment shall be given (whether plaintiff or defendant) shall pay the full costs of suit.
+
+### Action in 3 years for offence as to silver ware.
+
+XLII. Provided always, and it is hereby enacted, That every such action, and every action to be brought for any forfeiture for or on account of any offence against any law regulating the assay standard, marking, sale, or export of silver ware, shall be brought and prosecuted within the term of three years after the offence be committed, and not afterwards.
+
+### Suits against the company, or corporation, or officers, before the end of the term next after offence, laid where office kept, general issue and special matter in evidence; treble costs to defendant on verdiet, nonsuit, &c.
+
+XLIII. And be it further enacted, That if any action or suit shall be brought against the said company of goldsmiths, or against the said corporation at New Geneva, or against any warden or wardens, deputy-warden or deputy-wardens, or assayer or assayers, or any other officer or officers thereof for any thing done in pursuance of this act, the same shall be commenced before the end of the next term after the fact committed, and not afterwards, and shall be laid and brought in the city or place where the assay-office is or shall be kept, whose officer or officers shall be complained of, and not elsewhere; and the defendant or defendants in such action or actions, suit or suits, to be brought or commenced as aforesaid, may plead the general issue, and may give this act, and the special matter in evidence at any trial to be had thereupon, and that the same was done in pursuance, and by the authority of this act; [Rep. as to Superior Courts, 16 & 17 Vict. c. 113. s. 69.] and that if it shall appear so to be done, or if any such action or suit shall be brought after the time before limited for bringing the same, or shall be brought in any other city or place than as aforesaid, then, and in such case the jury shall find for the defendant or defendants, and upon such verdict, or if the plaintiff or plaintiffs shall become nonsuited, or shall discontinue his, her, or their action or actions, or if a verdict shall pass against the plaintiff or plaintiffs, or if upon demurrer, judgment shall be given against the plaintiff or plaintiffs, then the defendant or defendants shall and may recover treble costs, and have the like remedy for the same, as any defendant or defendants hath or have for costs of suit in other cases by law. [Rep., 5 & 6 Vict. c. 97. s. 2.]
+
+### No assayer, &c. in Dublin, a gold or silversmith, under forfeiture of office and 100l.
+
+XLIV. And be it enacted, That no assay-master or touch-warden in the city of Dublin, or weigher or drawer of gold in the assay-office of said city, shall exercise the trade or occupation of a goldsmith or silversmith, during his continuance in his said office, under pain of forfeiting his said office, and likewise the sum of one hundred pounds.
+
+## 
+
+[<sup>a</sup>3 Geo. 2. c. 3. (Ir.)]
+
+[<sup>b</sup>The registering was required by s. 34. which is rep. by Stat. Law Rev. (Ir.) Act, 1879.]

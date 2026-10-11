@@ -1,0 +1,80 @@
+---
+title: "County of Dublin (Boundaries of Baronies) Act 1842"
+identifier: "eli/1842/act/96"
+type: act
+jurisdiction: ie
+language: en
+number: 96
+chapter: 96
+year: 1842
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1842/act/96/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# County of Dublin (Boundaries of Baronies) Act 1842
+
+## CAP. XCVI.
+
+An Act to alter the Number and define the Boundaries of the several Baronies of the County of *Dublin.* 10th *August* 1842.]
+
+3 & 4 Vict. c. 108.
+
+3 & 4 Vict. c. 109.
+
+County of Dublin to be divided into Nine Baronies for all Purposes of the Ordnance Survey and Valuation consequent thereupon.
+
+6 & 7 W. 4. c. 84
+
+‘WHEREAS under and by virtue of the Provisions of an Act passed in the Session of Parliament holden in the Third and Fourth Years of the Reign of Her present Majesty, intituled *An Act for the Regulation of Municipal Corporations in* Ireland, and of another Act passed in the same Session, intituled *An Act to annex certain Parts of certain Counties of Cities to adjoining Counties; to make further Provision for Compensation of Officers in Boroughs; to limit the Borough Rate; and to continue for a limited Time an Act to restrain the Alienation of Corporate Property in* Ireland, Three several Portions or Parcels of the County of the City of *Dublin* have been separated therefrom, and annexed to the County of *Dublin :* And whereas it is expedient, for the Purposes herein after mentioned, to fix and declare the Number of Baronies in and for the said County of *Dublin,* and to define the Contents, Extent, and Limits of the same:’ Be it therefore enacted by the Queen’s most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That for all the Purposes of the Survey now in progress throughout *Ireland,* under the Direction of the Officers appointed by the Master General and Board of Ordnance, and also for all the Purposes of the Valuation consequent upon such Survey under the Provisions of an Act passed in the Session of Parliament holden in the Sixth and Seventh Years of His late Majesty’s Reign, intituled *An Act to consolidate and amend the several Acts for the uniform Valuation of Lands and Tenements in* Ireland ; *and to incorporate certain detached Portions of Counties and Baronies with those Counties and Baronies respectively whereto the same may adjoin or wherein the same are locally situate,* the said County of *Dublin,* as now enlarged under the Provisions of the said Two herein-before first-recited Acts, shall be deemed and taken to be divided into Nine Baronies, which shall be denominated as follows; (that is to say,) *Balrothery East, Balrothery West, Nethercross, Castleknock, Coolock, Dublin, Newcastle, Rathdown, and Uppercross ;* and that each of the said several Baronies shall be deemed and taken to consist of and comprise all and singular the Parishes, Parts of Parishes, Townlands, Parts of Townlands, Denominations or Parts of Denominations, Pieces or Portions of Lands, Houses, and Tenements respectively in that Behalf mentioned in the Schedule to this Act annexed in conjunction with each such Barony respectively.
+
+### This Act not to alter the existing Boundaries for any other Purpose.
+
+II. Provided always, and be it enacted, That nothing in this Act contained shall extend or be construed to extend to alter or affect the Number, Contents, or Boundaries of the several Baronies of the said County of *Dublin,* as now existing, for any Purpose whatsoever other than the Purposes of the said Survey and Valuation.
+
+## SCHEDULE to which this Act refers;
+
+## CONTAINING
+
+The Baronies into which the County of Dublin is divided; showing the Parishes, Parts of Parishes, Townlands, Parts of Townlands, Denominations, Parts of Denominations, Pieces or Portions of Land, Houses, and Tenements, and Contents of each Barony.
+
+## I.—BARONY OF BALROTHERY EAST.
+
+<table><tr><td>Parishes:</td><td>A.</td><td>R.</td><td>P.</td></tr><tr><td>Balscaddan</td><td>3,948</td><td>0</td><td>38</td></tr><tr><td>Balrothery</td><td>6,884</td><td>1</td><td>38</td></tr><tr><td>Baldongan</td><td>857</td><td>3</td><td>11</td></tr><tr><td>Holmpatrick</td><td>2,131</td><td>0</td><td>36</td></tr><tr><td>Lusk</td><td>16,183</td><td>2</td><td>28</td></tr><tr><td></td><td>30,005</td><td>1</td><td>31</td></tr></table>
+
+## II.—BARONY OF BALROTHERY WEST.
+
+<table><tr><td>Parishes:</td><td>A.</td><td>R.</td><td>P.</td></tr><tr><td>Ballymadun</td><td>3,438</td><td>2</td><td>20</td></tr><tr><td>Ballybroghill</td><td>2,789</td><td>1</td><td>0</td></tr><tr><td>Clonmethan</td><td>3,027</td><td>3</td><td>19</td></tr><tr><td>Garristown</td><td>5,345</td><td>1</td><td>19</td></tr><tr><td>Grallagh</td><td>791</td><td>3</td><td>31</td></tr><tr><td>Hollywood</td><td>3,997</td><td>3</td><td>11</td></tr><tr><td>Naul</td><td>2,627</td><td>2</td><td>21</td></tr><tr><td>Palmerstown, North</td><td>1,580</td><td>2</td><td>34</td></tr><tr><td>Westpalstown</td><td>1,595</td><td>3</td><td>36</td></tr><tr><td></td><td>25,195</td><td>0</td><td>34</td></tr></table>
+
+III.—BARONY OF NETHERCROSS.
+
+<table><tr><td>Parishes:</td><td colspan="3"></td><td>A.</td><td>R.</td><td>P.</td></tr><tr><td>Donabite</td><td colspan="3"></td><td>2,714</td><td>2</td><td>16</td></tr><tr><td colspan="4">Finglas (Part of), containing the following Townlands; namely—</td><td></td><td></td><td></td></tr><tr><td></td><td>A.</td><td>R.</td><td>P.</td><td></td><td></td><td></td></tr><tr><td>Ballystraban</td><td>152</td><td>2</td><td>31</td><td rowspan="6">979</td><td rowspan="6">2</td><td rowspan="6">10</td></tr><tr><td>Kilreesh</td><td>262</td><td>3</td><td>5</td></tr><tr><td>Laurestown</td><td>207</td><td>0</td><td>6</td></tr><tr><td>Skephubble</td><td>135</td><td>3</td><td>20</td></tr><tr><td>Toberburr</td><td>220</td><td>1</td><td>23</td></tr><tr><td>Weslereave</td><td>0</td><td>3</td><td>5</td></tr><tr><td>Killossery</td><td colspan="3"></td><td>2,731</td><td>0</td><td>29</td></tr><tr><td>Kilsallaghan</td><td colspan="3"></td><td>2,730</td><td>3</td><td>38</td></tr><tr><td>Killeek</td><td colspan="3"></td><td>807</td><td>2</td><td>6</td></tr><tr><td colspan="4">Portrane (including Lambay Island, containing 595A. 3R. 0P.)</td><td>2,185</td><td>2</td><td>19</td></tr><tr><td colspan="4">Swords (with the Exception of Swords Globe, insulated in and henceforth to form Part of the Barony of Coolock)</td><td>9,668</td><td>3</td><td>31</td></tr><tr><td colspan="4"></td><td>21,818</td><td>1</td><td>29</td></tr></table>
+
+## IV.—BARONY OF CASTLEKNOCK.
+
+<table><tr><td>Parishes;</td><td>A.</td><td>R.</td><td>P.</td></tr><tr><td>Cloghran, West</td><td>778</td><td>0</td><td>30</td></tr><tr><td>Castleknock</td><td>7,123</td><td>2</td><td>29</td></tr><tr><td>Clonsilla</td><td>3,256</td><td>1</td><td>7</td></tr><tr><td>Chapelized</td><td>532</td><td>2</td><td>35</td></tr><tr><td>Finglas (with the Exception of that Part of it herein-before specified to be in the Barony of Nethercross)</td><td>3,717</td><td>0</td><td>14</td></tr><tr><td>Mulhuddart</td><td>4,067</td><td>0</td><td>34</td></tr><tr><td>That Part of St. James’s, North of the River Liffey, situated without the Municipal Boundaries of the City of Dublin Boundaries, and including 3A. 0R. 10P., at the Great Eastern Entrance to the Phoenix Park, lately transferred from the County of the City of Dublin to the County of Dublin</td><td>547</td><td>1</td><td>35</td></tr><tr><td>Ward</td><td>1,349</td><td>1</td><td>8</td></tr><tr><td></td><td>21,371</td><td>3</td><td>32</td></tr></table>
+
+## V.—BARONY OF COOLOCK.
+
+<table><tr><td>Parishes:</td><td>A.</td><td>R.</td><td>P.</td></tr><tr><td>Artaine</td><td>953</td><td>2</td><td>7</td></tr><tr><td>Balgriffin</td><td>1,052</td><td>2</td><td>2</td></tr><tr><td>Baldoyle</td><td>1,235</td><td>3</td><td>39</td></tr><tr><td>Cloghran, East</td><td>1,557</td><td>2</td><td>31</td></tr><tr><td>Coolock</td><td>1,734</td><td>1</td><td>26</td></tr><tr><td>Clontarf</td><td>1,189</td><td>3</td><td>0</td></tr><tr><td>Clonturk</td><td>1,244</td><td>10</td><td>0</td></tr><tr><td>That Part of Glasnevin situated without the Municipal Boundaries of the City of Dublin</td><td>995</td><td>1</td><td>31</td></tr><tr><td>That Part of Grange Gorman, Part situated without the Municipal Boundaries of the City of Dublin</td><td>552</td><td>0</td><td>25</td></tr><tr><td>Howth</td><td>2,669</td><td>2</td><td>3</td></tr><tr><td>Kinsaly</td><td>2,129</td><td>3</td><td>27</td></tr><tr><td>Kilbarrack</td><td>740</td><td>0</td><td>14</td></tr><tr><td>Killister</td><td>279</td><td>1</td><td>16</td></tr><tr><td>Malahide</td><td>1,125</td><td>3</td><td>2</td></tr><tr><td>Portmarnock</td><td>2,084</td><td>1</td><td>2</td></tr><tr><td>Raheny</td><td>920</td><td>1</td><td>19</td></tr><tr><td>Santry</td><td>4,726</td><td>0</td><td>1</td></tr><tr><td>St. Margaret’s</td><td>2,400</td><td>3</td><td>7</td></tr><tr><td>That Part of St. George’s situated without the Municipal Boundaries of the City of Dublin</td><td>311</td><td>0</td><td>9</td></tr><tr><td>Swords (Part of), comprising Globe insulated in Cloghran Parish</td><td>5</td><td>3</td><td>29</td></tr><tr><td></td><td>27,908</td><td>2</td><td>20</td></tr></table>
+
+## VI.—BARONY OF DUBLIN.
+
+<table><tr><td>Parishes:</td><td></td><td>A.</td><td>R.</td><td>P.</td></tr><tr><td>Booterstown (Part of), comprising the Townland of Intake</td><td rowspan="6">Being the Portions or Parcels of Land lately transferred from the County of the City of Dublin to the County of Dublin</td><td>70</td><td>0</td><td>35</td></tr><tr><td>Donnybrook (Part of)</td><td>1,313</td><td>2</td><td>9</td></tr><tr><td>Monkstown (Part of), comprising the Townlnnd of New Town Blackrock</td><td>3</td><td>1</td><td>1</td></tr><tr><td>St. Mark’s (Part of)</td><td>30</td><td>1</td><td>14</td></tr><tr><td>St. Peter’s (Part of)</td><td>226</td><td>0</td><td>18</td></tr><tr><td>That Part of Taney comprising the Townland of Roebuck</td><td>6</td><td>0</td><td>17</td></tr><tr><td></td><td></td><td>1,649</td><td>2</td><td>14</td></tr></table>
+
+## VII.—BARONY OF NEWCASTLE.
+
+<table><tr><td>Parishes:</td><td>A.</td><td>R.</td><td>P.</td></tr><tr><td>Arderrig</td><td>759</td><td>0</td><td>33</td></tr><tr><td>That Part of Clondalkin comprising the Townland of Blundelstown</td><td>157</td><td>1</td><td>13</td></tr><tr><td>Esker (with the Exception of the Townland of Coldart and Esker, included in Uppercross Barony)</td><td>2,366</td><td>3</td><td>24</td></tr><tr><td>Kilmactalway</td><td>2,492</td><td>2</td><td>20</td></tr><tr><td>Kilbride</td><td>846</td><td>0</td><td>24</td></tr><tr><td>Kilmahuddrick</td><td>181</td><td>1</td><td>1</td></tr><tr><td>Leixlip</td><td>1,506</td><td>1</td><td>26</td></tr><tr><td>Lucan</td><td>1,125</td><td>2</td><td>16</td></tr><tr><td>Newcastle</td><td>4,282</td><td>1</td><td>32</td></tr><tr><td>Rathcoole</td><td>4,705</td><td>1</td><td>30</td></tr><tr><td>Saggart</td><td>4,453</td><td>0</td><td>12</td></tr><tr><td></td><td>22,876</td><td>1</td><td>31</td></tr></table>
+
+## VIII.—BARONY OF RATHDOWN.
+
+<table><tr><td colspan="4">Parishes:</td><td>A.</td><td>R.</td><td>P.</td></tr><tr><td colspan="4">That Part of Booterstown (exclusive of the Townland of Intake, included in the Barony of Dublin)</td><td>471</td><td>0</td><td>13</td></tr><tr><td colspan="4">Dalkey including Dalkey Island, 21A. 2R. 27P.</td><td>467</td><td>0</td><td>10</td></tr><tr><td colspan="4">That Part of Donnybrook containing the following Townlands, viz. :</td><td colspan="3"></td></tr><tr><td>Annefield</td><td>4</td><td>3</td><td>21</td><td rowspan="3">363</td><td rowspan="3">3</td><td rowspan="3">26</td></tr><tr><td>Simmonscourt</td><td>81</td><td>0</td><td>9</td></tr><tr><td>Priesthouse</td><td>277</td><td>3</td><td>36</td></tr><tr><td colspan="4">Kilmacud</td><td>286</td><td>1</td><td>15</td></tr><tr><td colspan="4">Kilgobbin</td><td>3,257</td><td>2</td><td>28</td></tr><tr><td colspan="4">Kilteirnan</td><td>3,165</td><td>2</td><td>26</td></tr><tr><td colspan="4">Kill</td><td>2,702</td><td>2</td><td>28</td></tr><tr><td colspan="4">Killiney</td><td>1,334</td><td>2</td><td>7</td></tr><tr><td colspan="4">That Part of Monkstown (exclusive of the Townland of New Town Blackrock, included in the Barony of Dublin</td><td>2,048</td><td>1</td><td>0</td></tr><tr><td colspan="4">Old Connaught</td><td>1,978</td><td>0</td><td>6</td></tr><tr><td colspan="4">Rathmichael</td><td>2,808</td><td>0</td><td>9</td></tr><tr><td colspan="4">Stillorgan</td><td>689</td><td>3</td><td>23</td></tr><tr><td colspan="4">Taney (exclusive of the Townland of Rocbuck in the Barony of Dublin)</td><td>4,556</td><td>3</td><td>19</td></tr><tr><td colspan="4">Tully</td><td>3,285</td><td>3</td><td>31</td></tr><tr><td colspan="4">Whitechurch</td><td>2,873</td><td>1</td><td>27</td></tr><tr><td colspan="4">Rathfarnham, with the Exception of the Townland of Scholarstown, included in the Barony of Uppercross</td><td>2,581</td><td>0</td><td>36</td></tr><tr><td colspan="4"></td><td>32,870</td><td>2</td><td>24</td></tr></table>
+
+## IX.—BARONY OF UPPERCROSS.
+
+<table><tr><td colspan="4">Parishes:</td><td>A.</td><td>R.</td><td>P.</td></tr><tr><td colspan="4">Ballyfermot</td><td>1,183</td><td>1</td><td>16</td></tr><tr><td colspan="4">Clondalkin (with the Exception of the Townland of Blundelstown, included in Newcastle Barony)</td><td>4,776</td><td>2</td><td>22</td></tr><tr><td colspan="4">Crumlin</td><td>1,817</td><td>0</td><td>38</td></tr><tr><td colspan="4">Cruagh</td><td>4,460</td><td>1</td><td>9</td></tr><tr><td colspan="4">That Part of Donnybrook containing the following Townlands; viz.</td><td colspan="3"></td></tr><tr><td>Sallymount</td><td>10</td><td>0</td><td>32</td><td colspan="3"></td></tr><tr><td>Clonskeagh</td><td>0</td><td>1</td><td>8</td><td colspan="3"></td></tr><tr><td colspan="4"></td><td>10</td><td>2</td><td>0</td></tr><tr><td colspan="4">Drimna</td><td>732</td><td>0</td><td>18</td></tr><tr><td colspan="4">St. Catherine’s</td><td>194</td><td>3</td><td>2</td></tr><tr><td colspan="4">That Part of Esker containing the following Townlands, namely,</td><td colspan="3"></td></tr><tr><td>Coldcut</td><td>38</td><td>2</td><td>38</td><td colspan="3"></td></tr><tr><td>Rowlagh</td><td>102</td><td>3</td><td>37</td><td colspan="3"></td></tr><tr><td colspan="4"></td><td>141</td><td>2</td><td>35</td></tr><tr><td colspan="4">Palmerstown, South</td><td>1,517</td><td>3</td><td>7</td></tr><tr><td colspan="4">That Part of Rathfarnham comprising the Townland of Scholarstown</td><td>200</td><td>2</td><td>39</td></tr><tr><td colspan="4">That Part of Saint James’s, South of the River Liffey, situate without the Municipal Boundaries of the City of Dublin, and including 29P. transferred from the County of the City of Dublin to the County of Dublin</td><td>903</td><td>3</td><td>36</td></tr><tr><td colspan="4">That Part of Saint Peter’s heretofore forming Part of the Barony of Uppercross</td><td>1,206</td><td>2</td><td>3</td></tr><tr><td colspan="4">That Part of Saint Nicholas Without, situate without the Municipal Boundaries of the City of Dublin</td><td>5</td><td>0</td><td>19</td></tr><tr><td colspan="4">Tallaght</td><td>21,868</td><td>1</td><td>3</td></tr><tr><td colspan="4"></td><td>39,019</td><td>0</td><td>7</td></tr></table>
+
+[SUMMARY OF THE BARONIES.
+
+<table><tr><td></td><td>A</td><td>R.</td><td>P.</td></tr><tr><td>Balrothery East</td><td>30,005</td><td>1</td><td>31</td></tr><tr><td>Balrothery West</td><td>21,818</td><td>1</td><td>29</td></tr><tr><td>Castleknock</td><td>21,371</td><td>3</td><td>32</td></tr><tr><td>Coolock</td><td>27,908</td><td>2</td><td>20</td></tr><tr><td>Dublin</td><td>1,649</td><td>2</td><td>14</td></tr><tr><td>Newcastle</td><td>22,876</td><td>1</td><td>31</td></tr><tr><td>Rathdown</td><td>32,870</td><td>2</td><td>24</td></tr><tr><td>Uppercross</td><td>39,019</td><td>0</td><td>7</td></tr><tr><td>TOTAL</td><td>222,715</td><td>1</td><td>22</td></tr></table>

@@ -1,0 +1,36 @@
+---
+title: "Bank of Ireland Act, 1797"
+identifier: "eli/1797/act/50"
+type: act
+jurisdiction: ie
+language: en
+number: 50
+chapter: 50
+year: 1797
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1797/act/50/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Bank of Ireland Act, 1797
+
+CHAPTER L.
+
+An Act for further extending the Provisions of an Act, passed in the Twenty-first and Twenty-second Years of His Majesty's Reign, entitled, An Act for establishing a Bank, by the Name of the Governor and Company of the Bank of Ireland.
+
+### Subscribers of 600,000l. under 21 & 22 G. 3. c. 16. were incorporated. By 31 G. 3. the governor and company were authorized to encrease the stock to one million: the capital stock of the bank may be increased to 1,500,000l. provided the subscriptions are paid before 17 Feb. 1798, viz. 5 per cent. on 17 May, 1797; 10 per cent. on 17 June; 15 per cent. on 17 July; 10 per cent. on 17 Aug. 18 Sept. 17 Oct. 17 Nov. 18 Dec. 17 Jan. 1798, and 17 Feb. 1798. Subscribers shall be members of corporation. Additional stock shall be transferable.
+
+WHEREAS in pursuance of an act of Parliament passed in the twenty-first and twenty-second years of his Majesty's reign, entitled, An Act for establishing a bank, by the name of the governor and company of the bank of Ireland, the sum of six hundred thousand pounds was subscribed and paid by debentures, issued from his Majesty's treasury, and the persons who subscribed and paid the same, were by letters patent under the great seal of this kingdom, incorporated by the name of the governor and company of the bank of Ireland: and whereas by another act passed in the thirty-first year of his Majesty's reign, entitled, An Act to extend the provisions of an act passed in the twenty-first and twenty-second years of His Majesty's reign, entitled, An Act for establishing a bank by the name of the governor and company of the bank of Ireland, it is enacted, That the said governor and company might receive subscriptions for enlarging their aforesaid capital stock, or fund, of six hundred thousand pounds, in any sum not exceeding the further sum of four hundred thousand pounds, so as to make their whole capital stock the sum of one million of pounds: and whereas the said further sum of four hundred thousand pounds was accordingly subscribed and paid; and whereas it will further promote the extension of public credit, if the capital stock of the said bank were encreased by the addition of a further sum, not exceeding five hundred thousand pounds; be it enacted by the King's most excellent Majesty, by and with the advice and consent of the lords spiritual and temporal, and commons in this present Parliament assembled, and by the authority of the same, That it shall and may be lawful for the said governor and company, and they are hereby authorized and empowered so soon as they shall think proper, to receive subscriptions from any person or persons, natives or foreigners, bodies politics or corporate, for enlarging their capital stock, or fund, of one million of pounds, in any sum not exceeding the further sum of five hundred thousand pounds capital stock, so as to make the whole capital stock the sum of one million five hundred thousand pounds, provided the whole thereof shall be subscribed and paid, on or before the seventeenth day of February, One thousand seven hundred and ninety-eight, by such instalments as are herein after mentioned, that is to say, five pounds per centum, on or before the seventeenth day of May, one thousand seven hundred and ninety-seven; ten pounds per centum, on the seventeenth day of June, following; fifteen pounds per centum, on the seventeenth day of July, following; ten pounds per centum, on the seventeenth day of August, following; a like payment on the eighteenth day of September, following; a like payment on the seventeenth day of October, following; a like payment on the seventeenth day of November, following; a like payment on the eighteenth day of December, following; a like payment on the seventeenth day of January, following; and a like payment on the seventeenth day of February, following; [Rep., Stat. Law. Rev. (I.) Act, 1879.] and the capital stock subscribed and paid for, shall, from and after the time of such payment, be deemed and taken as and for a part of the capital stock of the said corporation; and the subscribers thereto, from and after the time of making full payment for such additional stock, and their respective executors, administrators and assigns, shall at all times be members of the said corporation, and incorporated therein, and shall be entitled unto, and have, hold, and enjoy, all benefits, privileges and advantages, and immunities, and be subject and liable to all regulations, rules and orders, to which the present stock-holders and members of the said corporation, in respect of the stock held by, and belonging to them, are respectively entitled, subject and liable unto by the said act of Parliament and charter, or by any bye-law of the said corporation, or otherwise howsoever; and the said additional stock shall be transferable and assignable in like manner, and the proprietors and holders thereof, shall hold their respective shares of the said additional stock, in like manner as the respective stock-holders of the said corporation now do, and hereafter shall hold and enjoy the respective sums belonging to them in the present capital stock of the said corporation, and the same shall in all respects be consolidated and united as one joint stock.
+
+### Dividends to be paid to proprietors of additional stock, as to holders of present stock; 1st dividend to commence from time specified in proposals.
+
+II. And be it further enacted, That the said corporation shall and may, from time to time, make and pay the like dividends to the proprietors of the said additional stock, as they shall make and pay to the proprietors and holders of the present stock of the said corporation; the first of which dividends shall commence from such time as shall be specified in the proposals, or terms to be offered for such subscription by the said court of directors.
+
+##         
+
+### When the 500,000l. is paid in, corporation may borrow money, so that they shall not owe more than 1,500,000l.
+
+V. And be it enacted, That from the time the said sum of five hundred thousand pounds shall be subscribed and paid in, the said corporation may borrow, or give security for any sum or sums, so that they shall not owe at any one time, more than a sum equal to the said sum of one million five hundred thousand pounds, any thing in the said act contained to the contrary notwithstanding.
+
+##

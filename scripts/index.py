@@ -13,7 +13,7 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import ISB, LRC, RAW, cached  # noqa: E402
 
-ROW = re.compile(r'<a href="(en|ga)/act/(pub|prv)/(\d+)/index\.html">(.*?)</a>', re.S)
+ROW = re.compile(r'<a href="(en|ga)/act/(pub|prv|cam)/(\d+)/index\.html">(.*?)</a>', re.S)
 
 
 def year_acts(year, refresh=False):
