@@ -1,0 +1,131 @@
+---
+title: "An tAcht um an Naoú Leasú Déag ar an mBunreacht, 1998"
+identifier: "eli/1998/ca/19"
+type: constitutional_amendment_act
+jurisdiction: ie
+language: ga
+number: 19
+year: 1998
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1998/ca/19/enacted/ga/html"
+retrieved: 2026-10-11
+---
+
+# An tAcht um an Naoú Leasú Déag ar an mBunreacht, 1998
+
+ACHT CHUN AN BUNREACHT A LEASÚ [3 *Meitheamh*, 1998].
+
+DE BHRÍ gur cead, de bhua Airteagal 46 den Bhunreacht, foráil ar bith den Bhunreacht a leasú ar an modh a shocraítear leis an Airteagal sin:
+
+AGUS DE BHRÍ go bhfuil beartaithe Airteagal 29 den Bhunreacht a leasú:
+
+ACHTAÍTEAR AG AN OIREACHTAS AR AN ÁBHAR SIN MAR A LEANAS:
+
+### 1. Airteagal 29 den Bhunreacht a leasú.
+
+**1.**—Leasaítear leis seo mar a leanas Airteagal 29 den Bhunreacht:
+
+(*a*) cuirfear an t-alt a bhfuil an téacs de leagtha amach i *gCuid I* den *Sceideal* a ghabhann leis an Acht seo isteach i ndiaidh alt 6 den téacs Gaeilge,
+
+(*b*) cuirfear an t-alt a bhfuil an téacs de leagtha amach i *gCuid II* den *Sceideal* a ghabhann leis an Acht seo isteach i ndiaidh alt 6 den téacs Sacs-Bhéarla.
+
+### 2. Lua.
+
+**2.**—(1) An Naoú Leasú Déag ar an mBunreacht a thabharfar ar an leasú a dhéantar ar an mBunreacht leis an Acht seo.
+
+(2) Féadfar an tAcht um an Naoú Leasú Déag ar an mBunreacht, 1998, a ghairm den Acht seo.
+
+## AN SCEIDEAL
+
+## Cuid I
+
+7\. 1° Tig leis an Stát a thoiliú a bheith faoi cheangal ag Comhaontú na Breataine-na hÉireann, arna dhéanamh i mBéal Feirste an 10ú lá d'Aibreán, 1998, ar a dtugtar an Comhaontú sa Bhunreacht seo feasta.
+
+2° Tig le haon institiúid a bhunófar leis an gComhaontú nó faoin gComhaontú na cumhachtaí agus na feidhmeanna a fheidhmiú a thugtar di dá chionn sin i leith oileán na hÉireann ar fad nó i leith aon chuid de d'ainneoin aon fhorála eile den Bhunreacht seo lena dtugtar cumhacht nó feidhm dá samhail d'aon duine nó d'aon organ Stáit arna cheapadh faoin mBunreacht seo nó arna chruthú nó arna bhunú leis an mBunreacht seo nó faoin mBunreacht seo. Féadfaidh aon chumhacht nó aon fheidhm a thabharfar d'institiúid den sórt sin i ndáil le hachrainn nó conspóidí a réiteach nó a shocrú a bheith i dteannta nó in ionad aon chumhachta nó aon fheidhme dá samhail a thugtar leis an mBunreacht seo d'aon duine den sórt sin nó d'aon organ Stáit den sórt sin mar a dúradh.
+
+3° Má dhearbhaíonn an Rialtas go bhfuil an Stát tagtha chun bheith faoi oibleagáid, de bhun an Chomhaontaithe, éifeacht a thabhairt don leasú ar an mBunreacht seo dá dtagraítear sa Chomhaontú sin, ansin, d'ainneoin Airteagal 46 den Bhunreacht seo, déanfar an Bunreacht seo a leasú mar a leanas:
+
+i. déanfar na hAirteagail seo a leanas a chur in ionad Airteagail 2 agus 3 den téacs Gaeilge:
+
+**“Airteagal 2.**
+
+Tá gach duine a shaolaítear in oileán na hÉireann, ar a n-áirítear a oileáin agus a fharraigí, i dteideal, agus tá de cheart oidhreachta aige nó aici, a bheith páirteach i náisiún na hÉireann. Tá an teideal sin freisin ag na daoine go léir atá cáilithe ar shlí eile de réir dlí chun bheith ina saoránaigh d'Éirinn. Ina theannta sin, is mór ag náisiún na hÉireann a choibhneas speisialta le daoine de bhunadh na hÉireann atá ina gcónaí ar an gcoigríoch agus arb ionann féiniúlacht agus oidhreacht chultúir dóibh agus do náisiún na hÉireann.
+
+**Airteagal 3.**
+
+1\. Is í toil dhiongbháilte náisiún na hÉireann, go sítheach cairdiúil, na daoine go léir a chomhroinneann críoch oileán na hÉireann i bpáirt lena chéile, in éagsúlacht uile a bhféiniúlachtaí agus a dtraidisiún, a aontú, á aithint gur trí mhodhanna síochánta amháin le toiliú thromlach nandaoine, á chur in iúl go daonlathach, sa dá dhlínse san oileán, a dhéanfar Éire aontaithe a thabhairt i gcrích. Go dtí sin, bainfidh na dlíthe a achtófar ag an bParlaimint a bhunaítear leis an mBunreacht seo leis an limistéar feidhme céanna, agus beidh an raon feidhme céanna acu, lenar bhain na dlíthe, agus a bhí ag na dlíthe, a d'achtaigh an Pharlaimint a bhí ar marthain díreach roimh theacht i ngníomh don Bhunreacht seo.
+
+2\. Féadfaidh údaráis fhreagracha faoi seach na ndlínsí sin institiúidí ag a mbeidh cumhachtaí agus feidhmeanna feidhmiúcháin a chomhroinntear idir na dlínsí sin a bhunú chun críoch sonraithe agus féadfaidh na hinstitiúidí sin cumhachtaí agus feidhmeanna a fheidhmiú i leith an oileáin ar fad nó i leith aon chuid de.”,
+
+ii. déanfar na hAirteagail seo a leanas a chur in ionad Airteagail 2 agus 3 den téacs Sacs-Bhéarla:
+
+**“Article 2.**
+
+It is the entitlement and birthright of every person born in the island of Ireland, which includes its islands and seas, to be part of the Irish nation. That is also the entitlement of all persons otherwise qualified in accordance with law to be citizens of Ireland. Furthermore, the Irish nation cherishes its special affinity with people of Irish ancestry living abroad who share its cultural identity and heritage.
+
+**Article 3.**
+
+1\. It is the firm will of the Irish nation, in harmony and friendship, to unite all the people who share the territory of the island of Ireland, in all the diversity of their identities and traditions, recognising that a united Ireland shall be brought about only by peaceful means with the consent of a majority of the people, democratically expressed, in both jurisdictions in the island. Until then, the laws enacted by the Parliament established by this Constitution shall have the like area and extent of application as the laws enacted by the Parliament that existed immediately before the coming into operation of this Constitution.
+
+2\. Institutions with executive powers and functions that are shared between those jurisdictions may be established by their respective responsible authorities for stated purposes and may exercise powers and functions in respect of all or any part of the island.”,
+
+iii. déanfar an t-alt seo a leanas a chur leis an téacs Gaeilge den Airteagal seo:
+
+“8. Tig leis an Stát dlínse a fheidhmiú taobh amuigh dá chríoch de réir bhunrialacha gnáth-admhaithe an dlí idirnáisiúnta.”,
+
+agus
+
+iv. déanfar an t-alt seo a leanas a chur leis an téacs SacsBhéarla den Airteagal seo:
+
+“8. The State may exercise extra-territorial jurisdiction in accordance with the generally recognised principles of international law.”.
+
+4° Má dhéantar dearbhú faoin alt seo, déanfar an fo-alt seo agus fo-alt 3°, seachas an leasú ar an mBunreacht seo a dhéantar leis an bhfo-alt sin 3°, agus fo-alt 5°, den alt seo a fhágáil ar lár as gach téacs oifigiúil den Bhunreacht seo a fhoilseofar dá éis sin, ach d'ainneoin iad a fhágáil ar lár amhlaidh leanfaidh an t-alt seo d'fheidhm dlí a bheith aige.
+
+5° Mura ndéanfar dearbhú den sórt sin laistigh de dhá mhí dhéag ón tráth a chuirfear an t-alt seo leis an mBunreacht seo nó cibé tréimhse is faide ná sin a shocrófar le dlí, scoirfidh an t-alt seo d'éifeacht a bheith leis agus fágfar ar lár é as gach téacs oifigiúil den Bhunreacht seo a fhoilseofar dá éis sin.
+
+## Part II
+
+7\. 1° The State may consent to be bound by the British-Irish Agreement done at Belfast on the 10th day of April, 1998, hereinafter called the Agreement.
+
+2° Any institution established by or under the Agreement may exercise the powers and functions thereby conferred on it in respect of all or any part of the island of Ireland notwithstanding any other provision of this Constitution conferring a like power or function on any person or any organ of State appointed under or created or established by or under this Constitution. Any power or function conferred on such an institution in relation to the settlement or resolution of disputes or controversies may be in addition to or in substitution for any like power or function conferred by this Constitution on any such person or organ of State as aforesaid.
+
+3° If the Government declare that the State has become obliged, pursuant to the Agreement, to give effect to the amendment of this Constitution referred to therein, then, notwithstanding Article 46 hereof, this Constitution shall be amended as follows:
+
+i. the following Articles shall be substituted for Articles 2 and 3 of the Irish text:
+
+**“Airteagal 2.**
+
+Tá gach duine a shaolaítear in oileán na hÉireann, ar a n-áirítear a oileáin agus a fharraigí, i dteideal, agus tá de cheart oidhreachta aige nó aici, a bheith páirteach i náisiún na hÉireann. Tá an teideal sin freisin ag na daoine go léir atá cáilithe ar shlí eile de réir dlí chun bheith ina saoránaigh d'Éirinn. Ina theannta sin, is mór ag náisiún na hÉireann a choibhneas speisialta le daoine de bhunadh na hÉireann atá ina gcónaí ar an gcoigríoch agus arb ionann féiniúlacht agus oidhreacht chultúir dóibh agus do náisiún na hÉireann.
+
+**Airteagal 3.**
+
+1\. Is í toil dhiongbháilte náisiún na hÉireann, go sítheach cairdiúil, na daoine go léir a chomhroinneann críoch oileán na hÉireann i bpáirt lena chéile, in éagsúlacht uile a bhféiniúlachtaí agus a dtraidisiún, a aontú, á aithint gur trí mhodhanna síochánta amháin le toiliú thromlach na ndaoine, á chur in iúl go daonlathach, sa dá dhlínse san oileán, a dhéanfar Éire aontaithe a thabhairt i gcrích. Go dtí sin, bainfidh na dlíthe a achtófar ag an bParlaimint a bhunaítear leis an mBunreacht seo leis an limistéar feidhme céanna, agus beidh an raon feidhme céanna acu, lenar bhain na dlíthe, agus a bhí ag na dlíthe, a d'achtaigh an Pharlaimint a bhí ar marthain díreach roimh theacht i ngníomh don Bhunreacht seo.
+
+2\. Féadfaidh údaráis fhreagracha faoi seach na ndlínsí sin institiúidí ag a mbeidh cumhachtaí agus feidhmeanna feidhmiúcháin a chomhroinntear idir na dlínsí sin a bhunú chun críoch sonraithe agus féadfaidh na hinstitiúidí sin cumhachtaí agus feidhmeanna a fheidhmiú i leith an oileáin ar fad nó i leith aon chuid de.”,
+
+ii. the following Articles shall be substituted for Articles 2 and 3 of the English text:
+
+**“Article 2.**
+
+It is the entitlement and birthright of every person born in the island of Ireland, which includes its islands and seas, to be part of the Irish nation. That is also the entitlement of all persons otherwise qualified in accordance with law to be citizens of Ireland. Furthermore, the Irish nation cherishes its special affinity with people of Irish ancestry living abroad who share its cultural identity and heritage.
+
+**Article 3.**
+
+1\. It is the firm will of the Irish nation, in harmony and friendship, to unite all the people who share the territory of the island of Ireland, in all the diversity of their identities and traditions, recognising that a united Ireland shall be brought about only by peaceful means with the consent of a majority of the people, democratically expressed, in both jurisdictions in the island. Until then, the laws enacted by the Parliament established by this Constitution shall have the like area and extent of application as the laws enacted by the Parliament that existed immediately before the coming into operation of this Constitution.
+
+2\. Institutions with executive powers and functions that are shared between those jurisdictions may be established by their respective responsible authorities for stated purposes and may exercise powers and functions in respect of all or any part of the island.”,
+
+iii. the following section shall be added to the Irish text of this Article:
+
+“8. Tig leis an Stát dlínse a fheidhmiú taobh amuigh dá chríoch de réir bhunrialacha gnáth-admhaithe an dlí idirnáisiúnta.”,
+
+and
+
+iv. the following section shall be added to the English text of this Article:
+
+“8. The State may exercise extra-territorial jurisdiction in accordance with the generally recognised principles of international law.”.
+
+4° If a declaration under this section is made, this subsection and subsection 3°, other than the amendment of this Constitution effected thereby, and subsection 5°, of this section shall be omitted from every official text of this Constitution published thereafter, but notwithstanding such omission this section shall continue to have the force of law.
+
+5° If such a declaration is not made within twelve months of this section being added to this Constitution or such longer period as may be provided for by law, this section shall cease to have effect and shall be omitted from every official text of this Constitution published thereafter.

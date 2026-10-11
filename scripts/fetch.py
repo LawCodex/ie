@@ -28,12 +28,26 @@ def jobs():
         seg = {"pub": "act", "prv": "prv", "cam": "ca"}[a["kind"]]
         if y < 1922:
             yield f"{ISB}/eli/{y}/act/{n}/enacted/en/print", f"enacted/{y}/pre-{n}.html"
+        elif seg == "ca" and lang == "ga":
+            # the XML endpoint returns the English text for /ga/xml of constitutional amendment Acts
+            yield f"{ISB}/eli/{y}/{seg}/{n}/enacted/ga/print", f"enacted/{y}/print-{seg}-{n}-ga.html"
         else:
             yield f"{ISB}/eli/{y}/{seg}/{n}/enacted/{lang}/xml", f"enacted/{y}/{seg}-{n}-{lang}.xml"
 
 
+def fallback_jobs():
+    """Acts listed on 1922+ year pages without XML (e.g. the UK Finance Act 1922): use the print HTML."""
+    idx = json.load(open(os.path.join(RAW, "index.json")))
+    for a in idx["acts"]:
+        y, n, lang = a["year"], a["number"], a["lang"]
+        seg = {"pub": "act", "prv": "prv", "cam": "ca"}[a["kind"]]
+        if y >= 1922 and os.path.exists(os.path.join(RAW, f"enacted/{y}/{seg}-{n}-{lang}.xml.404")):
+            yield f"{ISB}/eli/{y}/{seg}/{n}/enacted/{lang}/print", f"enacted/{y}/print-{seg}-{n}-{lang}.html"
+
+
 def main():
     todo = list(jobs())
+    todo += [j for j in fallback_jobs() if j not in todo]
     missing = []
     done = 0
     with cf.ThreadPoolExecutor(4) as ex:

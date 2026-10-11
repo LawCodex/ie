@@ -1,12 +1,12 @@
 ---
 title: "Bunreacht na hÉireann"
 identifier: "eli/cons/ga"
-type: "constitution"
-jurisdiction: "ie"
-language: "ga"
+type: constitution
+jurisdiction: ie
+language: ga
 date: 1937-07-01
-status: "in_force"
-version: "consolidated"
+status: in_force
+version: consolidated
 source: "https://www.irishstatutebook.ie/eli/cons/ga/html"
 retrieved: 2026-10-11
 ---

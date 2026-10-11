@@ -19,8 +19,6 @@ retrieved: 2026-10-11
 
 # Public Bodies Corrupt Practices Act, 1889
 
-**PUBLIC BODIES CORRUPT PRACTICES ACT 1889** *(Repealed)*
-
 An Act for the more effectual Prevention and Punishment of Bribery and Corruption of and by Members, Officers, or Servants of Corporations, Councils, Boards, Commissions, or other Public Bodies.[^1] [30th August 1889.]
 
 [*Preamble*.]

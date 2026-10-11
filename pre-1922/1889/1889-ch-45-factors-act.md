@@ -40,7 +40,7 @@ An Act to amend and consolidate the Factors Acts.[<sup>1</sup>] [26th August 188
 
 ## Dispositions by Mercantile Agents.
 
-### 2.—. Powers of mercantile agent with respect to disposition of goods.
+### 2. Powers of mercantile agent with respect to disposition of goods.
 
 **2.—**(1) Where a mercantile agent is, with the consent of the owner, in possession of goods or of the documents of title to goods, any sale, pledge, or other disposition of the goods, made by him when acting in the ordinary course of business of a mercantile agent, shall, subject to the provisions of this Act, be as valid as if he were expressly authorised by the owner of the goods to make the same; provided that the person taking under the disposition acts in good faith, and has not at the time of the disposition notice that the person making the disposition has not authority to make the same.
 
@@ -66,7 +66,7 @@ An Act to amend and consolidate the Factors Acts.[<sup>1</sup>] [26th August 188
 
 **6.** For the purposes of this Act an agreement made with a mercantile agent through a clerk or other person authorised in the ordinary course of business to make contracts of sale or pledge on his behalf shall be deemed to be an agreement with the agent.
 
-### 7.—. Provisions as to consignors and consignees.
+### 7. Provisions as to consignors and consignees.
 
 **7.—**(1) Where the owner of goods has given possession of the goods to another person for the purpose of consignment or sale, or has shipped the goods in the name of another person, and the consignee of the goods has not had notice that such person is not the owner of the goods, the consignee shall, in respect of advances made to or for the use of such person, have the same lien on the goods as if such person were the owner of the goods, and may transfer any such lien to another person.
 
@@ -92,7 +92,7 @@ An Act to amend and consolidate the Factors Acts.[<sup>1</sup>] [26th August 188
 
 **11.** For the purposes of this Act, the transfer of a document may be by endorsement, or, where the document is by custom or by its express terms transferable by delivery, or makes the goods deliverable to the bearer, then by delivery.
 
-### 12.—. Saving for rights of true owner.
+### 12. Saving for rights of true owner.
 
 **12.—**(1) Nothing in this Act shall authorise an agent to exceed or depart from his authority as between himself and his principal, or exempt him from any liability, civil or criminal, for so doing.
 

@@ -1,13 +1,13 @@
 ---
 title: "Constitution of Ireland"
 identifier: "eli/cons/en"
-type: "constitution"
-jurisdiction: "ie"
-language: "en"
+type: constitution
+jurisdiction: ie
+language: en
 date: 1937-07-01
 last_amended: 2019-06-11
-status: "in_force"
-version: "consolidated"
+status: in_force
+version: consolidated
 source: "https://www.irishstatutebook.ie/eli/cons/en/html"
 retrieved: 2026-10-11
 ---

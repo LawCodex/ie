@@ -66,7 +66,7 @@ be guilty of an offence against this Act.
 
 (6) Any offence for which a person is under this Act liable to punishment on summary conviction may be prosecuted, and any articles liable to be forfeited under this Act by a court of summary jurisdiction may be forfeited, in manner provided by the Summary Jurisdiction Acts: Provided that a person charged with an offence under this section before a court of summary jurisdiction shall, on appealing before the court, and before the charge is gone into, be informed of his right to be tried on indictment, and if he requires be so tried accordingly.
 
-### 3.—. Definitions. 46 & 47 Vict. c. 57.
+### 3. Definitions. 46 & 47 Vict. c. 57.
 
 **3.—**(1) For the purposes of this Act—
 
@@ -116,7 +116,7 @@ and any trade mark or mark so made or falsified is in this Act referred to as a 
 
 Provided that in any prosecution for forging a trade mark the burden of proving the assent of the proprietor shall lie on the defendant.
 
-### 5.—. Applying marks and descriptions.
+### 5. Applying marks and descriptions.
 
 **5.—**(1) A person shall be deemed to apply a trade mark or mark or trade description to goods who—
 
@@ -152,7 +152,7 @@ he shall be discharged from the prosecution, but shall be liable to pay the cost
 
 **7.** Where a watch case has thereon any words or marks which constitute, or are by common repute considered as constituting, a description of the country in which the watch was made, and the watch bears no description of the country where it was made, those works or marks shall primâ facie be deemed to be a description of that country within the meaning of this Act, and the provisions of this Act with respect to goods to which a false trade description has been applied, and with respect to selling or exposing for or having in possession for sale, or any purpose of trade or manufacture, goods with a false trade description, shall apply accordingly, and for the purposes of this section the expression “watch” means all that portion of a watch which is not the watch case.
 
-### 8.—. Mark on watch case.
+### 8. Mark on watch case.
 
 **8.—**(1) Every person who after the date fixed by Order in Council sends or brings a watch case, whether imported or not, to any assay office in the United Kingdom for the purpose of being assayed, stamped, or marked, shall make a declaration declaring in what country or place the case was made. If it appears by such declaration that the watch case was made in some country or place out of the United Kingdom, the assay office shall place on the case such a mark (differing from the mark placed by the office on a watch case made in the United Kingdom), and in such a mode as may be from time to time directed by Order in Council.
 
@@ -176,7 +176,7 @@ he shall be discharged from the prosecution, but shall be liable to pay the cost
 
 **11.** Any person who, being within the United Kingdom, procures, counsels, aids, abets, or is accessory to the commission, without the United Kingdom, of any act, which, if committed in the United Kingdom, would under this Act be a misdemeanour, shall be guilty of that misdemeanour as a principal, and be liable to be indicted, proceeded against, tried, and convicted in any county or place in the United Kingdom in which he may be, as if the misdemeanour had been there committed.
 
-### 12.—. Search warrant.
+### 12. Search warrant.
 
 **12.—**(1) Where, upon information of an offence against this Act, a justice has issued either a summons requiring the defendant charged by such information to appear to answer to the same, or a warrant for the arrest of such defendant, and either the said justice on or after issuing the summons or warrant, or any other justice, is satisfied by information on oath that there is reasonable cause to suspect that any goods or things by means of or in relation to which such offence has been committed are in any house or premises of the defendant, or otherwise in his possession or under his control in any place, such justice may issue a warrant under his hand by virtue of which it shall be lawful for any constable named or referred to in the warrant, to enter such house, premises, or place at any reasonable time by day, and to search there for and seize and take away those goods or things; and any goods or things seized under any such warrant shall be brought before a court of summary jurisdiction for the purpose of its being determined whether the same are or are not liable to forfeiture under this Act.
 
@@ -228,7 +228,7 @@ he shall be discharged from the prosecution, but shall be liable to pay the cost
 
 **18.** Where, at the passing of this Act, a trade description is lawfully and generally applied to goods of a particular class, or manufactured by a particular method, to indicate the particular class or method of manufacture of such goods, the provisions of this Act with respect to false trade descriptions shall not apply to such trade description when so applied: Provided that where such trade description includes the name of a place or country, and is calculated to mislead as to the place or country where the goods to which it is applied were actually made or produced, and the goods are not actually made or produced in that place or country, this section shall not apply unless there is added to the trade description, immediately before or after the name of that place or country, in an equally conspicuous manner, with that name, the name of the place or country in which the goods were actually made or produced, with a statement that they were made or produced there.
 
-### 19.—. Savings.
+### 19. Savings.
 
 **19.—**(1) This Act shall not exempt any person from any action, suit, or other proceeding which might, but for the provisions of this Act, be brought against him.
 

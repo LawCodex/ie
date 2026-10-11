@@ -19,10 +19,6 @@ retrieved: 2026-10-11
 
 # Probation of Offenders Act, 1907
 
-*1907 (7 Ed. 7) c. 17*
-
-*1907 (7 Ed. 7) c. 17*
-
 An Act to permit the Release on Probation of Offenders in certain cases, and for other matters incidental thereto. [21st August 1907.]
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:

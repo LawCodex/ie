@@ -43,7 +43,7 @@ def main():
     pre = cached(f"{ISB}/eli/pre-acts.html", "pre-acts.html").decode("utf-8", "replace")
     pre_years = sorted({int(y) for y in re.findall(r'<option value="(\d{4})"', pre)})
     acts = []
-    for y in pre_years + list(range(1922, this_year + 1)):
+    for y in sorted(set(pre_years) | set(range(1922, this_year + 1))):
         got = year_acts(y, refresh=refresh or y >= this_year - 1)
         print(y, len(got), file=sys.stderr)
         acts.extend(got)

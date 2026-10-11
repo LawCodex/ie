@@ -22,7 +22,7 @@ An Act to facilitate the Abandonment of Railways, and the Dissolution of Railway
 
 [*Preamble*.]
 
-### [1.]. Application by railway company to Commissioners to be allowed to abandon their undertaking.
+### Application by railway company to Commissioners to be allowed to abandon their undertaking.
 
 **[1.]** If any company authorized by Act of Parliament heretofore passed to make a railway desire that the making and carrying on of such railway or some part thereof, whether commenced or not, be abandoned, such company may, by the authority and with the consent of the holders of three-fifths of the shares or stock of such company represented in manner herein-after mentioned at a general meeting of shareholders to be convened in manner herein-after mentioned, make application in writing to the Commissioners of Railways, setting forth the particulars of the railway or portion of the railway desired to be abandoned by them, and the grounds upon which such application is made.
 

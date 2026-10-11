@@ -19,12 +19,6 @@ retrieved: 2026-10-11
 
 # Merchant Shipping Act, 1894
 
-1894 (57 & 58 Vict.) c. 60
-
-1894 (57 & 58 Vict.) c. 60
-
-CHAPTER LX.
-
 An Act to consolidate Enactments relating to Merchant Shipping. [25th August 1894.]
 
 > **Annotations:**
@@ -255,7 +249,7 @@ An Act to consolidate Enactments relating to Merchant Shipping. [25th August 189
 >
 > E25: Functions under collectively cited *Merchant Shipping Acts 1894 to 1900* made subject to control of Board of Trade (1.06.1907) by *Merchant Shipping Act 1906* (6 Edw. 7 c. 48), s. 74(1), commenced as per s. 86(2). Note: functions of Board of Trade transferred to Department of Industry and Commerce (2.06.1924) by *Ministers and Secretaries Act 1924* (16/1924), s. 1(vii) and sch. sixth part, S.R.& O. No. 4 of 1924. Name of Department of Industry and Commerce most recently changed to Department of Enterprise, Trade and Employment (10.11.2020) by *Business, Enterprise and Innovation (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 519 of 2020), in effect as per reg. 1(2).
 
-## Part I. — Registry. — *Qualification for owning British Ships*.
+## Part I. — Registry. — Qualification for owning British Ships.
 
 > **Annotations:**
 >
@@ -2879,7 +2873,7 @@ allow the complainant to go ashore or send him ashore in proper custody, or, in 
 
 **212.**—Subject to the provisions of this Act an assignment or sale of salvage payable to a seaman or apprentice to the sea service made prior to the accruing thereof shall not bind the person making the same; and a power of attorney or authority for the receipt of any such salvage shall not be irrevocable.
 
-### 213. No debt exceeding 5*s*. recoverable till end of voyage.
+### 213. No debt exceeding 5s. recoverable till end of voyage.
 
 **213.**—A debt exceeding in amount five shillings incurred by any seaman after he is engaged to serve shall not be recoverable until the service agreed for is concluded.
 
@@ -3689,7 +3683,7 @@ shall not, F131[...], apply to any fishing boats whether or not exclusively empl
 >
 > (3) The provisions of this Part of this Act shall, for the purpose of sections two hundred and sixty to two hundred and sixty-six of the Principal Act (which relate to the application of Part II of that Act), be construed as if they were contained in Part II of that Act.
 
-## Part III. — PASSENGER AND EMIGRANT SHIPS. — 1.—Definitions. — *Definition of Passenger Steamer and Passenger*.
+## Part III. — PASSENGER AND EMIGRANT SHIPS. — 1.—Definitions. — Definition of Passenger Steamer and Passenger.
 
 > **Annotations:**
 >
@@ -5839,7 +5833,7 @@ and the provisions of any such Act while in force shall have effect without as w
 
 (3) Provided that any such Act shall be of no effect under this section, unless it be reserved for the signification of Her Majesty’s pleasure thereon, or contain a suspending clause providing that the Act shall not come into operation until Her Majesty’s pleasure thereon has been publicly signified in British India.
 
-## Part IV. — Fishing Boats. — *Application of Part IV*., *&c*.
+## Part IV. — Fishing Boats. — Application of Part IV., &c.
 
 > **Annotations:**
 >
@@ -6601,7 +6595,7 @@ that person shall for each offence be liable to a fine not exceeding twenty poun
 >
 > E209: A fine of £10 translates into a Class D fine, not exceeding €1,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3 and 7, table ref. no. 8, S.I. No. 662 of 2010.
 
-## Part V. — Safety. — *Prevention of Collisions*.
+## Part V. — Safety. — Prevention of Collisions.
 
 > **Annotations:**
 >
@@ -7701,7 +7695,7 @@ F192[(5) In this section, the expression ‘free-board’ means, in the case of 
 >
 > E317: Previous affecting provision: fees prescribed (14.12.1998) by *Merchant Shipping (Fees) Order 1998* (S.I. No. 475 of 1998), s. 3 and sch. 1 part 6, in effect as per reg. 1(1); revoked (15.12.2010) by *Merchant Shipping (Fees) Order 2010* (S.I. No. 594 of 2010), reg. 12, in effect as per reg. 1(2).
 
-## Part VI. — Special Shipping Inquiries and Courts. — *Inquiries and Investigations as to Shipping Casualties*.
+## Part VI. — Special Shipping Inquiries and Courts. — Inquiries and Investigations as to Shipping Casualties.
 
 ### 464. Shipping casualties.
 
@@ -8117,7 +8111,7 @@ may remove the master of any ship within the jurisdiction of that court, if that
 
 **491.**—There may be paid out of money provided by Parliament to any wreck commissioner, judge of a court of survey, assessor in any court of survey or investigation under this Part of this Act, registrar of a court of survey, scientific referee, or any other officer or person appointed for the purpose of any court of survey or investigation under this Part of this Act, such salary or remuneration (if any) as the Treasury may direct.
 
-## Part VII. — Delivery of Goods. — *Delivery of Goods and Lien for Freight*.
+## Part VII. — Delivery of Goods. — Delivery of Goods and Lien for Freight.
 
 ### 492. Definitions under Part VII.
 
@@ -8367,7 +8361,7 @@ and the surplus, if any, shall be paid to the owner of the goods.
 >
 > F229: Repealed (6.02.1997) by *Merchant Shipping (Liability of Shipowners and Others) Act 1996* (35/1996), s. 3 and sch. 4, S.I. No. 215 of 1997.
 
-## Part IX. — Wreck and Salvage. — *Vessels in Distress*.
+## Part IX. — Wreck and Salvage. — Vessels in Distress.
 
 > **Annotations:**
 >
@@ -9009,7 +9003,7 @@ and the surplus, if any, shall be paid to the owner of the goods.
 >
 > F274: Repealed (1.03.1994) by *Merchant Shipping (Salvage and Wreck) Act 1993* (34/1993), s. 5(1) and sch. 1, S.I. No. 32 of 1994.
 
-### 555. Apportionment of salvage under 200*l*. by receiver.
+### 555. Apportionment of salvage under 200l. by receiver.
 
 **555.**—F275[...]
 
@@ -9203,7 +9197,7 @@ and the surplus, if any, shall be paid to the owner of the goods.
 >
 > F291: Repealed (1.03.1994) by *Merchant Shipping (Salvage and Wreck) Act 1993* (34/1993), s. 5(1) and sch. 1, S.I. No. 32 of 1994.
 
-## Part X. — Pilotage. — *Preliminary*.
+## Part X. — Pilotage. — Preliminary.
 
 ### 572. Application of Part X.
 
@@ -9871,7 +9865,7 @@ and the surplus, if any, shall be paid to the owner of the goods.
 >
 > F353: Repealed (1.01.1918) by *Pilotage Act 1913* (2 & 3 Geo. 5) c. 31, s. 15(3), commenced as per subs. (2).
 
-## Part XI. — Lighthouses. — *General Management*.
+## Part XI. — Lighthouses. — General Management.
 
 ### 634. Management of lighthouses, buoys, and beacons.
 
@@ -10591,7 +10585,7 @@ and those dues may be recovered in the same manner as fines of a like amount und
 >
 > ...
 
-## Part XIII. — Legal Proceedings. — *Prosecution of Offences*.
+## Part XIII. — Legal Proceedings. — Prosecution of Offences.
 
 ### 680. Prosecution of offences.
 
@@ -10983,7 +10977,7 @@ on payment of one shilling for each copy.
 
 **712.**—This Part of this Act shall, except where otherwise provided, apply to the whole of Her Majesty’s dominions.
 
-## Part XIV. — Supplemental. — *General Control of Board of Trade*.
+## Part XIV. — Supplemental. — General Control of Board of Trade.
 
 ### 713. Superintendence of merchant shipping by Board of Trade.
 
@@ -12084,7 +12078,7 @@ Life Saving Appliances.
 
 (6) Two persons selected conjointly by the Committee of Lloyd’s, the Committee of Lloyd’s Register Society, and the Committee of the Institute of London Underwriters.
 
-## EIGHTEENTH SCHEDULE. — *Precautions as to Grain Cargo*.
+## EIGHTEENTH SCHEDULE. — Precautions as to Grain Cargo.
 
 (1) There shall not be carried between the decks, or, if the ship has more than two decks, between the main and upper decks, any grain in bulk, except such as may be necessary for feeding the cargo in the hold, and is carried in properly constructed feeders.
 

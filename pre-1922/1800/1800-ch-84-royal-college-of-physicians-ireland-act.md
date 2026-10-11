@@ -157,8 +157,6 @@ XXXIV. And be it enacted by the authority aforesaid, That the several students i
 
 XXXV. And be it enacted by the authority aforesaid, That until an hospital can be provided for giving the said clinical lectures, the president, or in his absence, the vice-president and fellows of the said college of physicians, are hereby authorized to appoint the said clinical lectures to be given in such hospital or hospitals in the city of Dublin, whose governors will allow such lectures to be given therein without expence to the estate of Sir Patrick Dunn, as shall be found most convenient for that purpose.
 
-### 
-
 *********
 
 ### Not to defeat the powers of guardians named in said act.

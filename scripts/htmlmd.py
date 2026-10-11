@@ -92,14 +92,16 @@ def pre1922(raw):
                 (a.get("name") or "").startswith("sec") for a in tds[1].iter("a")):
             margin = text(tds[1])
         if margin is not None:
-            first = content.find(".//p")
             num = ""
-            if first is not None:
-                b = first.find(".//b")
-                if b is not None:
-                    num = norm_space(b.text_content()).rstrip(".")
+            for b in content.iter("b"):
+                bt = re.sub(r"[.\s\u2014\u2013-]+$", "", norm_space(b.text_content()))
+                if re.fullmatch(r"\d+[A-Z]{0,3}", bt):
+                    num = bt
+                    break
             label = f"{num}. {margin}" if num else margin
-            blocks.append("### " + label.replace("*", "").strip())
+            label = label.replace("*", "").strip()
+            if label:
+                blocks.append("### " + label)
         for el in content:
             if not isinstance(el.tag, str):
                 continue
@@ -108,8 +110,11 @@ def pre1922(raw):
                 if not t:
                     continue
                 if is_centered(el):
+                    if meta.get("heading") and t == meta["heading"]:
+                        blocks = []  # title repeated after a table of contents: restart
+                        continue
                     was_first, first_center = first_center, False
-                    if was_first and not re.match(r"^CHAPTER\b", t) and not re.search(r"[a-z]", t.replace("*", "")):
+                    if was_first and not re.match(r"^CHAPTER\b", t) and (t.startswith("**") or not re.search(r"[a-z]", t.replace("*", ""))):
                         meta["heading"] = t
                         continue
                     if margin is None and not t.startswith("[") and len(t) < 160 and not re.match(r"^CHAPTER\b", t):

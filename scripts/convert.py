@@ -171,7 +171,16 @@ def do_acts(idx, manifest, cats):
                                f"eli/{y}/act/{n}", {"revised_by": "Law Reform Commission", "as_enacted": enacted_url})
                 manifest.append({"cat": cat, "lang": lang, "path": path, "version": "revised", "year": y, "size": size})
                 continue
-        raw = read(f"enacted/{y}/{seg}-{n}-{lang}.xml")
+        raw = None if (seg == "ca" and lang == "ga") else read(f"enacted/{y}/{seg}-{n}-{lang}.xml")
+        if raw is None and read(f"enacted/{y}/print-{seg}-{n}-{lang}.html") is not None:
+            if y == 1922 and kind == "pub" and n > 5:
+                # UK statute of 1922 listed on the 1922 page (e.g. Finance Act 1922, 12 & 13 Geo. 5 c. 17)
+                if "pre-1922" in cats:
+                    do_pre1922(a, slug, revised, manifest, f"enacted/{y}/print-{seg}-{n}-{lang}.html")
+                continue
+            do_html_act(a, path, ktype, cat, enacted_url, f"eli/{y}/{seg}/{n}",
+                        read(f"enacted/{y}/print-{seg}-{n}-{lang}.html"), manifest)
+            continue
         if raw is None:
             manifest.append({"cat": cat, "lang": lang, "path": None, "missing": enacted_url, "year": y})
             continue
@@ -179,7 +188,17 @@ def do_acts(idx, manifest, cats):
         manifest.append({"cat": cat, "lang": lang, "path": path, "version": "as_enacted", "year": y, "size": size})
 
 
-def do_pre1922(a, slug, revised, manifest):
+def do_html_act(a, path, ktype, cat, url, ident, raw, manifest):
+    meta, body = htmlmd.pre1922(raw)
+    title = clean_title(a["title"])
+    fm = {"title": title, "identifier": ident, "type": ktype, "jurisdiction": "ie", "language": a["lang"],
+          "number": a["number"], "year": a["year"], "status": "unknown", "version": "as_enacted",
+          "source": url, "retrieved": TODAY}
+    size = write(path, fm, title, body)
+    manifest.append({"cat": cat, "lang": a["lang"], "path": path, "version": "as_enacted", "year": a["year"], "size": size})
+
+
+def do_pre1922(a, slug, revised, manifest, rawpath=None):
     y, n = a["year"], a["number"]
     path = f"pre-1922/{y}/{y}-ch-{n}-{slug}.md"
     enacted_url = f"{ISB}/eli/{y}/act/{n}/enacted/en/html"
@@ -191,7 +210,7 @@ def do_pre1922(a, slug, revised, manifest):
                            f"eli/{y}/act/{n}", {"chapter": n, "revised_by": "Law Reform Commission", "as_enacted": enacted_url})
             manifest.append({"cat": "pre-1922", "lang": "en", "path": path, "version": "revised", "year": y, "size": size})
             return
-    raw = read(f"enacted/{y}/pre-{n}.html")
+    raw = read(rawpath or f"enacted/{y}/pre-{n}.html")
     if raw is None:
         manifest.append({"cat": "pre-1922", "lang": "en", "path": None, "missing": enacted_url, "year": y})
         return

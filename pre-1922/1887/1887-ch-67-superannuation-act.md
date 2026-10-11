@@ -62,7 +62,7 @@ the Treasury may, if they think fit, grant to him a compassionate gratuity not e
 
 **5.** A person shall not be entitled to reckon the same period of time both for the purpose of a superannuation allowance under the Superannuation Acts, 1834 and 1859, and this Act, and also for the purpose of naval or military non-effective pay.
 
-### 6.—. Regulations as to officers receiving half-pay or retired pay
+### 6. Regulations as to officers receiving half-pay or retired pay
 
 **6.—**(1) The Treasury may, within one month after the passing of this Act, frame rules as to the conditions on which any civil employment of profit under any public department as defined by this Act, or any employment of profit under the Government of any British possession, or any employment under the Government of any Foreign State may be accepted or held by any person who is in receipt of or has received any sum granted by Parliament for the pay, half-pay, or retired pay of officers of Her Majesty’s naval or land forces, or otherwise for payment for past service in either of such forces, or who has commuted the right to receive the same, and as to the effect of such acceptance or holding on the said pay or sum, and the Treasury may in such rules provide for the enforcement thereof by the forfeiture, suspension, or reduction of any such pay or sum as aforesaid, or of any commutation money or remuneration for such employment.
 

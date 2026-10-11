@@ -110,7 +110,7 @@ And in cases where creditors of a debtor obtain any control over his property or
 
 **14.** Every affidavit required by or for the purposes of this Act may be sworn before a Master of the Supreme Court in England or Ireland, or before any person empowered to take affidavits in the Supreme Courts of England or Ireland.
 
-### 15.—. Fees. 38 & 39 Vict. c. 57. 40 & 41 Vict. c. 57.
+### 15. Fees. 38 & 39 Vict. c. 57. 40 & 41 Vict. c. 57.
 
 **15.—**(1)[<sup>2</sup>] There shall be taken, in respect of the registration of Deeds of Arrangement, and in respect of any office copies or extracts, or official searches made by the registrar, such fees as may be from time to time prescribed; and nothing in this Act contained shall make it obligatory on the registrar to do, or permit to be done, any act in respect of which any fee is specified or prescribed, except on payment of such fee.
 

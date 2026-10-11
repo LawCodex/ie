@@ -19,10 +19,6 @@ retrieved: 2026-10-11
 
 # Sale of Goods Act, 1893
 
-*56 & 57 Vict. c. 71*
-
-*56 & 57 Vict. c. 71*
-
 An Act for codifying the Law relating to the Sale of Goods [^1]. [20th February 1894.]
 
 > **Annotations**

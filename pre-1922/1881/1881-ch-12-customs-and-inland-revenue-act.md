@@ -156,7 +156,7 @@ And so in proportion for any less quantity.
 
 (3.) As respects the duties imposed on affidavits in substitution for the duties on probates or letters of administration, the several provisions now in force in relation to the last-mentioned duties shall, so far as the same are consistent with the provisions of this Act, be deemed to be applicable to the said duties hereby imposed, and in the application thereof a probate or letters of administration having thereon such a certificate as is herein-after mentioned shall for all purposes be deemed to have been duly stamped in respect of the value stated in the certificate.
 
-### 27. . . . Grant of duties in respect of probate and letters of administration and on inventories.
+### 27. Grant of duties in respect of probate and letters of administration and on inventories.
 
 **27. . . .** there shall, save as is herein-after expressly provided, be charged and paid on the affidavit to be required and received from the person applying for the probate or letters of administration in England or Ireland, or on the inventory to be exhibited and recorded in Scotland, the stamp duties herein-after specified; (that is to say,)
 

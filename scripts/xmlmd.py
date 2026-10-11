@@ -16,13 +16,13 @@ CHARS = {
     "ddagger": "‡", "dagger": "†", "afada": "á", "efada": "é", "ifada": "í",
     "ofada": "ó", "ufada": "ú", "Afada": "Á", "Efada": "É", "Ifada": "Í",
     "Ofada": "Ó", "Ufada": "Ú", "eolhyphen": "", "ill": "", "page": "", "graphic": "",
-    "hr1": "", "hr": "", "sect-symbol": "§", "para": "¶", "times": "×",
+    "hr1": "", "hr": "", "br": " ", "sect-symbol": "§", "para": "¶", "times": "×",
     "mdash": "—", "ndash": "–", "copy": "©", "half": "½", "quarter": "¼",
 }
 INLINE_WRAP = {"i": ("*", "*"), "b": ("**", "**"), "u": ("<u>", "</u>"), "su": ("<sup>", "</sup>"),
                "sb": ("<sub>", "</sub>"), "sup": ("<sup>", "</sup>"), "sub": ("<sub>", "</sub>")}
 TRANSPARENT = {"font", "span", "xref", "dfn", "smallcaps", "pc", "a", "q", "cite"}
-STRUCT = {"part", "chapter", "sect", "schedule", "l1", "l2", "l3", "l4", "division", "subpart", "group"}
+STRUCT = {"sh2", "sh3", "preamble", "part", "chapter", "sect", "schedule", "l1", "l2", "l3", "l4", "division", "subpart", "group"}
 SKIP_FRONT = {"acttoc", "actsreferredto", "coverpage", "actnumber", "metadata", "sectionreference"}
 
 unknown_tags = Counter()
@@ -311,7 +311,7 @@ def title_text(el, ctx):
             s += p
         else:
             s += " — " + p
-    return s.replace("**", "").strip()
+    return s.replace("*", "").strip()
 
 
 def heading(level, text):
@@ -346,7 +346,7 @@ def render_node(c, ctx, out, depth, in_annot=False):
     if n == "table":
         out.add("table", table_md(c, ctx))
         return
-    if n == "title":
+    if n in ("title", "shtitle"):
         return  # handled by parent
     if n == "number":
         return
@@ -385,6 +385,8 @@ def render_node(c, ctx, out, depth, in_annot=False):
 def render_struct(el, ctx, out, depth):
     n = lname(el)
     t = el.find("title")
+    if t is None:
+        t = el.find("shtitle")
     ttl = title_text(t, ctx)
     level = 2 + depth
     if n == "sect":
@@ -396,6 +398,13 @@ def render_struct(el, ctx, out, depth):
             out.add("p", "**" + ttl + "**" if "**" not in ttl else ttl)
         render_children(el, ctx, out, depth)
         return
+    elif n in ("sh2", "sh3"):
+        num = ""
+        fp = el.find("p")
+        if fp is not None and fp.find("b") is not None:
+            num = norm_space("".join(fp.find("b").itertext())).rstrip(".")
+        label = f"{num}. {ttl}" if num and ttl else (ttl or num or "Section")
+        out.add("h", heading(level, label))
     else:
         if not ttl:
             ttl = {"schedule": "SCHEDULE", "part": "PART", "chapter": "CHAPTER"}.get(n, n.upper())
@@ -477,7 +486,7 @@ def render_front(fm, ctx, out, title_upper):
             if n in ("p", "pc"):
                 t = para_text(c, ctx)
                 plain = re.sub(r"[*\s.,]", "", t).upper()
-                if not t or plain == title_upper or re.match(r"^\*?Number\*?\s+\d+\s+\*?of\*?\s+\d{4}\.?$", t):
+                if not t or plain == title_upper or re.match(r"^\*?(Number|Uimhir)\*?\s+\d+\s*(\*?(of|de)\*?\s+\d{4})?\.?$", t):
                     continue
                 if plain in ("REVISED", "ACHTANNAATHBHREITHNITHE", "ARRANGEMENTOFSECTIONS", "CONTENTS", "ACHOIMRE", "CLÁR") or t.replace("*", "").startswith("Updated to"):
                     continue
@@ -538,6 +547,13 @@ def convert(raw):
         el = root.find(part)
         if el is not None:
             render_children(el, ctx, out, 0)
+    # drop stray number/title/contents lines that precede the long title
+    for i, (kind, txt) in enumerate(out.blocks):
+        if kind == "h":
+            break
+        if kind == "p" and re.match(r"^\W*(AN ACT|ACHT)\b", txt.replace("*", ""), re.I):
+            out.blocks[:i] = [b for b in out.blocks[:i] if b[0] == "annot"]
+            break
     if out.pending.strip():
         out.add("p", out.pending.strip())
     text = "\n\n".join(b[1] for b in out.blocks if b[1])
