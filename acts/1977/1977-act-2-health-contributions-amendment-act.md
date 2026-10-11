@@ -1,0 +1,38 @@
+---
+title: "Health Contributions (Amendment) Act, 1977"
+identifier: "eli/1977/act/2"
+type: act
+jurisdiction: ie
+language: en
+number: 2
+year: 1977
+date: 1977-03-21
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1977/act/2/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Health Contributions (Amendment) Act, 1977
+
+AN ACT TO AMEND THE HEALTH CONTRIBUTIONS ACT, 1971. [21*st March*, 1977]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## 1. Amendment of section 3 of Health Contributions Act, 1971.
+
+**1.**—Section 3 of the Health Contributions Act, 1971, is hereby amended by the substitution of the following subsection for subsection (1) (inserted by section 1 of the Health Contributions (Amendment) Act, 1976):
+
+“(1) In the period beginning on the 1st day of April, 1977, and ending on the date specified by order for the purposes of subsection (2) of this section, health contributions shall be—
+
+(*a*) in the case of a person insured under the Act of 1952 to whom section 4 or 5 of this Act applies, at the weekly rate of thirty-nine new pence, and
+
+(*b*) in the case of any other person, at the annual rate of £18, and shall be collected at such intervals as may be prescribed.”.
+
+## 2. Short title, collective citation and commencement.
+
+**2.**—(1) This Act may be cited as the Health Contributions (Amendment) Act, 1977.
+
+(2) The Health Contributions Acts, 1971 to 1976, and this Act may be cited together as the Health Contributions Acts, 1971 to 1977.
+
+(3) This Act shall come into force on the 1st day of April, 1977.

@@ -1,0 +1,44 @@
+---
+title: "Central Fund Act, 1961"
+identifier: "eli/1961/act/9"
+type: act
+jurisdiction: ie
+language: en
+number: 9
+year: 1961
+date: 1961-03-30
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1961/act/9/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Central Fund Act, 1961
+
+AN ACT TO APPLY CERTAIN SUMS OUT OF THE CENTRAL FUND TO THE SERVICE OF THE YEAR ENDED ON THE THIRTY-FIRST DAY OF MARCH ONE THOUSAND NINE HUNDRED AND SIXTY AND THE YEARS ENDING ON THE THIRTY-FIRST DAY OF MARCH ONE THOUSAND NINE HUNDRED AND SIXTY-ONE AND ONE THOUSAND NINE HUNDRED AND SIXTY-TWO. [30*th March*, 1961.]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:—
+
+## 1. Issue of £6,937 out of the Central Fund for the service of the year ended 31st March, 1960.
+
+**1.**—The Minister for Finance may issue out of the Central Fund and apply towards making good the supply granted for the service of the year ended on the thirty-first day of March one thousand nine hundred and sixty, the sum of Six Thousand Nine Hundred and Thirty-seven Pounds.
+
+## 2. Issue of £5,845,885 out of the Central Fund for the service of the year ending 31st March, 1961.
+
+**2.**—The Minister for Finance may issue out of the Central Fund and apply towards making good the supply granted for the service of the year ending on the thirty-first day of March one thousand nine hundred and sixty-one, the sum of Five Million Eight Hundred and Forty-five Thousand Eight Hundred and Eighty-five Pounds.
+
+## 3. Issue of £43,532,880 out of the Central Fund for the service of the year ending 31st March, 1962.
+
+**3.**—The Minister for Finance may issue out of the Central Fund and apply towards making good the supply granted for the service of the year ending on the thirty-first day of March one thousand nine hundred and sixty-two, the sum of Forty-three Million Five Hundred and Thirty-two Thousand Eight Hundred and Eighty Pounds.
+
+## 4. Power of Minister for Finance to borrow up to £49,385,702.
+
+**4.**—(1) The Minister for Finance may borrow from any person and the Bank of Ireland may advance to the Minister for Finance any sum or sums not exceeding in the whole Forty-nine Million Three Hundred and Eighty-five Thousand Seven Hundred and Two Pounds and for the purpose of such borrowing the Minister for Finance may create and issue any securities bearing such rate of interest and subject to such conditions as to repayment, redemption or otherwise as he thinks fit.
+
+(2) The principal and interest of any securities issued under this Act and the expenses incurred in connection with the issue of such securities shall be charged on the Central Fund or the growing produce thereof.
+
+(3) Any money raised by securities issued under this Act shall be placed to the credit of the account of the Exchequer and shall form part of the Central Fund and be available in any manner in which such Fund is available.
+
+## 5. Short Title.
+
+**5.**—This Act may be cited as the Central Fund Act, 1961.

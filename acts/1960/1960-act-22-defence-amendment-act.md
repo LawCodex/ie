@@ -1,0 +1,58 @@
+---
+title: "Defence (Amendment) Act, 1960"
+identifier: "eli/1960/act/22"
+type: act
+jurisdiction: ie
+language: en
+number: 22
+year: 1960
+date: 1960-07-26
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1960/act/22/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Defence (Amendment) Act, 1960
+
+AN ACT TO AUTHORISE THE DESPATCH OF CONTINGENTS OF THE PERMANENT DEFENCE FORCE FOR SERVICE OUTSIDE THE STATE WITH INTERNATIONAL FORCES ESTABLISHED BY THE SECURITY COUNCIL OR THE GENERAL ASSEMBLY OF THE UNITED NATIONS FOR THE PERFORMANCE OF DUTIES OF A POLICE CHARACTER, TO EXTEND THE AREA OF SERVICE OF CERTAIN MEMBERS OF THE PERMANENT DEFENCE FORCE, AND FOR THOSE PURPOSES TO AMEND THE DEFENCE ACT, 1954, IN CERTAIN RESPECTS AND TO PROVIDE FOR OTHER RELATED MATTERS. [26*th July,* 1960.]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:—
+
+## 1. Interpretation.
+
+**1.**—(1) In this Act—
+
+the expression “the Principal Act” means the Defence Act, 1954;
+
+the expression “United Nations Emergency Force” means an international force established by the Security Council or the General Assembly of the United Nations for the performance of duties of a police character.
+
+(2) This Act shall be construed as one with the Principal Act.
+
+## 2. Despatch of contingents of the Permanent Defence Force for service outside the State with United Nations Emergency Forces.
+
+**2.**—A contingent of the Permanent Defence Force may be despatched for service outside the State as part of a United Nations Emergency Force.
+
+## 3. Liability of certain members of the Permanent Defence Force for service with United Nations Emergency Forces.
+
+**3.**—(1) (*a*) This section applies at all times to—
+
+(i) an officer of the Permanent Defence Force appointed on or after the date of the passing of this Act,
+
+(ii) a man of the Permanent Defence Force enlisted on or after the date of the passing of this Act.
+
+(*b*) Where a member of the Permanent Defence Force (not being a member of the Permanent Defence Force specified in paragraph (*a*) of this subsection) has offered in writing to render himself liable for external service during a specified period and the Minister or an officer authorised in that behalf by the Minister has accepted the offer, this section shall also apply to that member during that period.
+
+(2) Notwithstanding anything contained in Chapter III of Part IV of the Principal Act, every member of the Permanent Defence Force to whom this section for the time being applies shall be liable to serve outside the State with a contingent of the Permanent Defence Force which, in pursuance of section 2 of this Act, is despatched or proposed to be despatched for service with a United Nations Emergency Force.
+
+## 4. Amendment of the Principal Act.
+
+**4.**—A member of the Permanent Defence Force who is serving outside the State with a United Nations Emergency Force shall, for the purposes of the Principal Act, be deemed, while so serving, to be on active service.
+
+## 5. Short title, collective citation and duration.
+
+**5.**—(1) This Act may be cited as the Defence (Amendment) Act, 1960.
+
+(2) The Principal Act and this Act may be cited together as the Defence Acts, 1954 and 1960.
+
+(3) This Act shall continue in force until the expiration of six months from the date of the passing thereof and shall then expire.

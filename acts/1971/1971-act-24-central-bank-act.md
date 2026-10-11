@@ -1,0 +1,4015 @@
+---
+title: "Central Bank Act, 1971"
+identifier: "eli/1971/act/24"
+type: act
+jurisdiction: ie
+language: en
+number: 24
+year: 1971
+date: 1971-07-28
+last_amended: 2026-07-10
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1971/act/24/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1971/act/24/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Central Bank Act, 1971
+
+AN ACT TO MAKE FURTHER PROVISION IN RELATION TO BANKS AND BANKING, INCLUDING PROVISION FOR THE LICENSING AND SUPERVISION OF BANKS BY THE CENTRAL BANK OF IRELAND, TO AMEND AND EXTEND THE CURRENCY AND CENTRAL BANK ACTS, 1927 TO 1964, AND TO PROVIDE FOR OTHER MATTERS CONNECTED WITH THE MATTERS AFORESAID. [28*th July*, 1971]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C1: Sanctions for breaches under Act prescribed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 54(1), (2)(a), (b).
+>
+> **Administrative penalties and other administrative measures for breaches of authorisation requirements and requirements for acquisitions of qualifying holdings**
+>
+> **54.**—(1) Notwithstanding Part IIIC of the Act of 1942 and the sanctions set out in section 33AQ of the Act of 1942, sanctions may be imposed by the Bank following an inquiry under section 33AO of the Act of 1942 for the contraventions listed in *paragraph (2)* and may include any or all of the following:
+>
+> (*a*) a public statement that identifies the natural person, institution, financial holding company or mixed-financial holding company responsible, and the nature of the breach concerned;
+>
+> (*b*) an order requiring a natural or legal person responsible for the contravention to cease, and desist from, the conduct concerned;
+>
+> (*c*) in the case of a body corporate or unincorporated body, administrative pecuniary penalties of up to 10 per cent of the total annual net turnover including the gross income consisting of—
+>
+> (i) interest receivable and similar income,
+>
+> (ii) income from shares and other variable or fixed-yield securities, and
+>
+> (iii) commissions or fees receivable
+>
+> in accordance with Article 316 of the Capital Requirements Regulation, of the undertaking in the preceding business year;
+>
+> (*d*) in the case of a natural person, administrative pecuniary penalties of up to €5,000,000;
+>
+> (*e*) administrative pecuniary penalties of up to twice the amount of the benefit derived from the contravention where that benefit can be determined;
+>
+> (*f*) suspension of the voting rights of the shareholder or shareholders held responsible for the contraventions referred to in *paragraph (2)*.
+>
+> (2) The contraventions referred to in *paragraph (1)* are the following:
+>
+> (*a*) carrying out the business of taking deposits or other repayable funds from the public without being an authorised or licensed credit institution, as appropriate, in breach of the Act of 1971,
+>
+> (*b*) commencing activities as a credit institution without obtaining a licence or authorisation, as appropriate, in breach of the Act of 1971,
+>
+> …
+
+## PART I. — Preliminary and General
+
+### 1. Short title, collective citation, construction and commencement.
+
+**1.**—(1) This Act may be cited as the Central Bank Act, 1971.
+
+(2) The Currency and Central Bank Acts, 1927 to 1964, and this Act shall be construed together as one Act and may be cited together as the Currency and Central Bank Acts, 1927 to 1971.
+
+(3) Save as otherwise specifically provided thereby, this Act shall come into operation on such day as the Minister appoints by order under this section.
+
+### 2. Definitions.
+
+**2.**—In this Act—
+
+“the Act of 1927” means the Currency Act, 1927;
+
+“the Act of 1942” means the Central Bank Act, 1942;
+
+F1[“Amsterdam Treaty” means the treaty signed in Amsterdam on 2 October 1997 amending the Treaty on European Union;
+
+“associated company”, in relation to the holder of a licence, means a company in respect of which—
+
+(*a*) not less than 20 per cent of the nominal value of the company's equity share capital is held by the company, or
+
+(*b*) not less than 20 per cent of shares carrying voting rights (other than voting rights that arise only in particular circumstances) are so held;]
+
+F5[ “the Bank” means the Central Bank F6[...] of Ireland;]
+
+“banker's licence” means a licence issued under section 47 of the Act of 1942, and a reference in any statute or instrument under statute to a banker's licence shall be construed as including a reference to a licence;
+
+F7[ “banking business” in relation to a person, means any business that consists of or includes—
+
+(*a*) receiving money on the person’s own account from members of the public either on deposit or as repayable funds, and
+
+(*b*) the granting of credits on own account,
+
+but does not include such a business in so far as the business consists of or includes—
+
+*(i)* receiving money on deposit by a trader either from employees of the trader in relation to the trader’s business, or from customers of the trader in the normal course of the trader’s business,
+
+*(ii)* receiving money in respect of leasing or selling goods under a hire-purchase agreement, a leasing agreement or credit-sale agreement,
+
+*(iii)* receiving money as security or collateral or as a bond for the repayment of a debt or the performance of a contract related to goods or services,
+
+*(iv)* receiving money accepted by way of advance or part payment under a contract for the sale, hire or other provision of goods or services, and repayable only in the event that the goods or services are not in fact sold, hired or otherwise provided,
+
+*(v)* receiving money solely as a premium in respect of the issue or renewal of a life assurance policy issued by a holder of an authorisation under the European Communities (Life Assurance) Regulations 1984 (S.I. No. 57 of 1984),
+
+*(vi)* receiving money accepted as a contribution within the meaning of the Pensions Acts,
+
+*(vii)* receiving money where it can be shown that—
+
+(I) no part of the business activities of the person receiving the money or of any other person is financed wholly or substantially out of those funds, and
+
+(II) those funds are, in the normal course of business, accepted only on a casual or incidental basis,
+
+or
+
+*(viii)* receiving money under financial contracts (within the meaning of the Netting of Financial Contracts Act 1995 (No. 25 of 1995)) (which may include the acceptance of collateral);]
+
+F8[“Capital Requirements Directive” means Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013[^1] on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC as amended by—
+
+(*a*) Directive 2014/17/EU of the European Parliament and of the Council of 4 February 2014[^2] on credit agreements for consumers relating to residential immovable property and amending Directives 2008/48/EC and 2013/36/EU and Regulation (EU) No 1093/2010,
+
+(*b*) Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014[^3] establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council,
+
+(*c*) Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015[^4] on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC,
+
+(*d*) Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018[^5] amending Directive (EU) 2015/849 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, and amending Directives 2009/138/EC and 2013/36/EU,
+
+(*e*) Directive (EU) 2019/878 of the European Parliament and of the Council of 20 May 2019[^6] amending Directive 2013/36/EU as regards exempted entities, financial holding companies, mixed financial holding companies, remuneration, supervisory measures and powers and capital conservation F9[measures,]
+
+(*f*) Directive (EU) 2019/2034 of the European Parliament and Council of 27 November 2019[^7] on the prudential supervision of investment firms and amending Directives 2002/87/EC, 2009/65/EC, 2011/61/EU, 2013/36/EU, 2014/59/EU and F9[2014/65/EU,]]
+
+F10[(*g*) Directive (EU) 2021/338 of the European Parliament and of the Council of 16 February 2021[^8] amending Directive 2014/65/EU as regards information requirements, product governance and position limits, and Directives 2013/36/EU and (EU) 2019/878 as regards their application to investment firms, to help the recovery from the COVID-19 crisis;]
+
+F11[“Capital Requirements Regulation” means Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 [^9] on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012, as amended by—
+
+(*a*) Commission Delegated Regulation (EU) 2015/62 of 10 October 2014[^10] amending Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to the leverage ratio,
+
+(*b*) Regulation (EU) 2016/1014 of the European Parliament and of the Council of 8 June 2016[^11] amending Regulation (EU) No 575/2013 as regards exemptions for commodity dealers,
+
+(*c*) Commission Delegated Regulation (EU) 2017/2188 of 11 August 2017[^12] amending Regulation (EU) No 575/2013 of the European Parliament and of the Council as regards the waiver on own funds requirements for certain covered bonds,
+
+(*d*) Regulation (EU) 2017/2395 of the European Parliament and of the Council of 12 December 2017[^13] amending Regulation (EU) No 575/2013 as regards transitional arrangements for mitigating the impact of the introduction of IFRS 9 on own funds and for the large exposures treatment of certain public sector exposures denominated in the domestic currency of any Member State,
+
+(*e*) Regulation (EU) 2017/2401 of the European Parliament and of the Council of 12 December 2017[^14] amending Regulation (EU) No 575/2013 on prudential requirements for credit institutions and investment firms,
+
+(*f*) Commission Delegated Regulation (EU) 2018/405 of 21 November 2017[^15] correcting certain language versions of Regulation (EU) No 575/2013 of the European Parliament and of the Council on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012,
+
+(*g*) Regulation (EU) 2019/630 of the European Parliament and of the Council of 17 April 2019[^16] amending Regulation (EU) No 575/2013 as regards minimum loss coverage for non-performing exposures,
+
+(*h*) Regulation (EU) 2019/876 of the European Parliament and of the Council of 20 May 2019[^17] amending Regulation (EU) No 575/2013 as regards the leverage ratio, the net stable funding ratio, requirements for own funds and eligible liabilities, counterparty credit risk, market risk, exposures to central counterparties, exposures to collective investment undertakings, large exposures, reporting and disclosure requirements, and Regulation (EU) No 648/2012,
+
+(*i*) Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019[^18] on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014,
+
+(*j*) Regulation (EU) 2020/873 of the European Parliament and of the Council of 24 June 2020[^19] amending Regulations (EU) No 575/2013 and (EU) 2019/876 as regards certain adjustments in response to the COVID-19 pandemic,
+
+(*k*) Commission Delegated Regulation (EU) 2021/424 of 17 December 2019[^20] amending Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to the alternative standardised approach for market risk,
+
+(*l*) Regulation (EU) 2021/558 of the European Parliament and of the Council of 31 March 2021[^21] amending Regulation (EU) No 575/2013 as regards adjustments to the securitisation framework to support the economic recovery in response to the COVID-19 crisis,
+
+(*m*) Commission Implementing Regulation (EU) 2021/1043 of 24 June 2021[^22] on the extension of the transitional provisions related to own funds requirements for exposures to central counterparties set out in Regulation (EU) No 575/2013 of the European Parliament and of the Council,
+
+(*n*) Regulation (EU) 2022/2036 of the European Parliament and of the Council of 19 October 2022[^23] amending Regulation (EU) No. 575/2013 and Directive 2014/59/EU as regards the prudential treatment of global systemically important institutions with a multiple-point-of entry resolution strategy and methods for the indirect subscription of instruments eligible for meeting the minimum requirement for own funds and eligible liabilities,
+
+(*o*) Regulation (EU) 2023/2869 of the European Parliament and of the Council of 13 December 2023[^24] amending certain Regulations as regards the establishment and functioning of the European single access point,
+
+(*p*) Regulation (EU) 2024/1623 of the European Parliament and of the Council of 31 May 2024[^25] amending Regulation (EU) No 575/2013 as regards requirements for credit risk, credit valuation adjustment risk, operational risk, market risk and the output floor, and
+
+(*q*) Commission Delegated Regulation (EU) 2024/2795 of 24 July 2024[^26] amending Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to the date of application of the own funds requirements for market risk;]
+
+F12["Central Bank Acts" means the Central Bank Acts 1942 to 2001, and any enactment amending those Acts;]
+
+“company” means a company incorporated in or outside the State and includes the Bank of Ireland;
+
+F13[“the Court” means, except where the context otherwise requires, the High Court;]
+
+F14[“credit institution” means an undertaking (including an electronic money institution (within the meaning of the European Communities (Electronic Money) Regulations 2002 (S.I. No. 221 of 2002)), but not a credit union or friendly society) whose business consists of, or includes—
+
+(*a*) receiving deposits or other repayable funds from the public, and
+
+(*b*) granting credit on its own account;]
+
+F15[“ECB” means the European Central Bank;]
+
+F16[“European Banking Authority” means the authority established pursuant to Regulation (EU) No. 1093/2010 [^27];]
+
+F17[“European Banking Committee” means the committee established pursuant to Commission Decision 2004/10/EC[^28];]
+
+F1[“ESCB Statute” means the Statute of the European System of Central Banks and of the European Central Bank as set out in Protocol (No. 3) (annexed by the Treaty on European Union done at Maastricht on 7 February 1992) to the Rome Treaty;
+
+“functions”, in relation to the Bank, means the functions and duties imposed on the Bank by or under an enactment;]
+
+F18[“general fund” means the fund to which section 63 of the Currency Act, 1927, related and which continues to be kept by the Bank by virtue of section 23 of the Central Bank Act, 1989;
+
+“gold bullion” includes any gold coins other than gold coins which are for the time being legal tender in the State;
+
+“issue”, when used in relation to legal tender notes, includes the re-issue of any such note which has ceased to be outstanding;
+
+“legal tender note” means a legal tender note provided and issued under and in accordance with the Central Bank Acts, 1942 to 1989, and any other enactment amending or extending those Acts or under any Act repealed by the Central Bank Act, 1989;]
+
+“holder”, in relation to a licence, means the person to whom a licence is granted;
+
+F1[“holding company” has the meaning given by section 2 of the Central Bank Act 1942;]
+
+“investment trust company” means a company whose main business consists of the investment of its funds in securities;
+
+F1[“legal practitioner” means a barrister or solicitor;]
+
+F19[ “licence” means—
+
+(*a*) an authorisation granted under the SSM Regulation on the application therefor under *section 9*, or
+
+(*b*) a licence granted under *section 9* before the commencement of the European Union (Single Supervisory Mechanism) Regulations 2014 that is deemed, in accordance with the SSM Regulation, to be an authorisation granted by the ECB under that Regulation,
+
+for the time being in force.]
+
+F1[“Maastricht Treaty” means the Treaty on European Union done at Maastricht on 7 February 1992;]
+
+F20[“Markets in Financial Instruments Directive” means Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014[^29], as amended by—
+
+(*a*) Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014[^30] ,
+
+(*b*) Directive (EU) 2016/97 of the European Parliament and of the Council of 20 January 2016[^31],
+
+(*c*) Directive (EU) 2016/1034 of the European Parliament and of the Council of 23 June 2016[^32],
+
+(*d*) Directive (EU) 2019/2034 of the European Parliament and of the Council of 27 November 2019[^33],
+
+(*e*) Regulation (EU) 2019/2115 of the European Parliament and of the Council of 27 November 2019[^34],
+
+(*f*) Directive (EU) 2019/2177 of the European Parliament and of the Council of 18 December 2019[^35],
+
+(*g*) Directive (EU) 2020/1504 of the European Parliament and of the Council of 7 October 2020[^36], and
+
+(*h*) Directive (EU) 2021/338 of the European Parliament and of the Council of 16 February 2021[^37];
+
+(*i*) Regulation (EU) 2022/858 of the European Parliament and of the Council of 30 May 2022[^38];
+
+(*j*) Directive (EU) 2022/2556 of the European Parliament and of the Council of 14 December 2022[^39];
+
+(*k*) Directive (EU) 2023/2864 of the European Parliament and of the Council of 13 December 2023[^40];
+
+(*l*) Directive (EU) 2024/790 of the European Parliament and of the Council of 28 February 2024[^41];]
+
+“the Minister” means the Minister for Finance;
+
+F1[“Pensions Acts” means the Pensions Act 1990 as amended from time to time, and includes all Acts that are to be construed together with that Act as one Act;]
+
+F3[“record” means any record of information, however compiled, recorded or stored, and includes—
+
+(*a*) any book, a register and any other document containing information, and
+
+(*b*) any disc, tape or other article from which information is capable of being produced in any form capable of being reproduced visually or aurally;]
+
+F21[“Regulations of 2017” means the European Union (Markets in Financial Instruments) Regulations 2017 (S.I. No. 375 of 2017 );]
+
+F22[...]
+
+F4[“related body”, in relation to the holder of a licence, means—
+
+(*a*) a subsidiary company of that holder, or
+
+(*b*) if that holder is itself a subsidiary—
+
+(i) its holding company, or
+
+(ii) any other subsidiary of its holding company, or
+
+(*c*) an associated company of that holder, or
+
+(*d*) a partnership in which that holder has an interest, and whose business is or, at any relevant time, was in the Bank's opinion materially relevant to an inspection being carried out, or proposed to be carried out, under F23[Part 3 of the Central Bank (Supervision and Enforcement) Act 2013];]
+
+F24[...]
+
+F1[“Rome Treaty” means the Treaty establishing the European Community done at Rome on 25 March 1957, as amended by the Maastricht Treaty, the Amsterdam Treaty and any other later Treaty on European Union;]
+
+“securities” means—
+
+(*a*) shares in the share capital of any body corporate or stock of any body corporate or debentures, debenture stock or bonds of any body corporate, whether constituting a charge on the assets of the body or not, or rights or interests (described whether as units or otherwise) in any such shares, stock, debentures, debenture stock or bonds,
+
+(*b*) securities of the Government or the government of any country or territory outside the State, or
+
+(*c*) rights (whether actual or contingent) in respect of money lent to, or deposited with, any industrial and provident society, friendly society or building society,
+
+and includes rights or interests (described whether as units or otherwise) which may be acquired under any unit trust scheme under which all property for the time being subject to any trust or other arrangement created or made in pursuance of the scheme consists of such securities as are mentioned in paragraph (*a*), (*b*) or (*c*) of this definition;
+
+F15[“SSM Regulation” means Council Regulation (EU) No. 1024/2013 of 15 October 2013[^42] conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions;]
+
+F2[“subsidiary company” has the meaning given by section 2 of the Central Bank Act 1942;]
+
+F25[“third-country branch authorisation” means an authorisation to establish a third-country branch under Regulation 9P(1) of the European Union (Capital Requirements) Regulations 2014 (S.I. No. 158 of 2014);]
+
+“unit trust scheme” means any arrangements made for the purpose, or having the effect, of providing facilities for the participation by the public, as beneficiaries under a trust or otherwise, in profits or income arising from the acquisition, holding, management or disposal of securities or any other property whatsoever and a reference in this Act to a manager under a unit trust scheme shall be construed as a reference to the person in whom is vested the powers of management relating to property for the time being subject to any trust or other arrangement created or made in pursuance of the scheme.
+
+F26[(1A) F27[In this Act, “competent authority”, “financial holding company”, “group”, “insurance undertaking”, “investment firm”, “management body”, “mixed financial holding company”, “own funds”, “parent undertaking”, and “qualifying holding” each has the meaning assigned to it by Regulation 3 of the European Union (Capital Requirements) Regulations 2014.]]
+
+F28[(2) F29[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1, F2, F3, F4: Inserted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 4 para. 1 (a), (c)-(h), S.I. No. 455 of 2004.
+>
+> F5: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 6 item 1(a), S.I. No. 160 of 2003.
+>
+> F6: Deleted (1.10.2010) by *Central Bank Reform Act 2010* (23/2010), s. 14(4) and sch. 1 part 3 item 1, S.I. No. 469 of 2010.
+>
+> F7: Substituted (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 154(1)(a)(i).
+>
+> F8: Substituted (21.09.2021) by *European Union (Investment Firms) Regulations 2021* (S.I. No. 355 of 2021), reg. 53(a).
+>
+> F9: Substituted (28.02.2022) by *European Union (Markets in Financial Instruments) (Amendment) Regulations 2022* (S.I. No. 6 of 2022), regs. 14(a), (b) in operation as per reg. 1(2).
+>
+> F10: Inserted (28.02.2022) by *European Union (Markets in Financial Instruments) (Amendment) Regulations 2022* (S.I. No. 6 of 2022), reg. 14(c), in operation as per reg. 1(2).
+>
+> F11: Substituted (1.01.2025) by *European Union (Capital Requirements) (No. 2) (Amendment) Regulations 2024* (S.I. No. 682 of 2024), reg. 5, in operation as per reg. 1(2).
+>
+> F12: Inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 6 item 1(b), S.I. No. 160 of 2003.
+>
+> F13: Substituted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 29(a), S.I. No. 176 of 1989.
+>
+> F14: Inserted (19.12.2009) by *European Communities (Directive 2006/48/EC) (Central Bank Acts) (Amendment) Regulations 2009* (S.I. No. 512 of 2009), reg. 2(a).
+>
+> F15: Inserted (4.11.2014) by *European Union (Single Supervisory Mechanism) Regulations 2014* (S.I. No. 495 of 2014), reg. 10(b), in operation as per reg. 1(2).
+>
+> F16: Inserted (26.11.2011) by *European Union (Credit Institutions) (European Supervisory Authorities) Regulations 2011* (S.I. No. 637 of 2011), reg. 2(1) and sch. 1 item 1.
+>
+> F17: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 5(1) and sch. 2 part 2 item 1(b), S.I. No. 287 of 2013.
+>
+> F18: Substituted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 29(b), S.I. No. 176 of 1989.
+>
+> F19: Substituted (4.11.2014) by *European Union (Single Supervisory Mechanism) Regulations 2014* (S.I. No. 495 of 2014), reg. 10(a), in operation as per reg. 1(2).
+>
+> F20: Substituted (29.09.2025) by *European Union (Markets in Financial Instruments) (Amendment) Regulations 2025* (S.I. No. 436 of 2025), reg. 15, in operation as per reg. 1(2).
+>
+> F21: Inserted (27.06.2022) by *European Union (Investment Firms) (Amendment) Regulations 2022* (S.I. No. 302 of 2022), reg. 3.
+>
+> F22: Deleted (1.10.2010) by *Central Bank Reform Act 2010* (23/2010), s. 14(4) and sch. 1 part 3 item 2, S.I. No. 469 of 2010.
+>
+> F23: Substituted (1.07.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 5(1) and sch. 2 part 2 item 1(a), S.I. No. 287 of 2013.
+>
+> F24: Deleted (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 154(1)(a)(iii).
+>
+> F25: Inserted (10.07.2026) by *European Union (Capital Requirements) (Amendment) Regulations 2026* (S.I. No. 326 of 2026), reg. 60(a).
+>
+> F26: Inserted (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 154(1)(b).
+>
+> F27: Substituted (29.12.2020) by *European Union (Capital Requirements) (Amendment) Regulations 2020* (S.I. No. 710 of 2020), reg. 58(a)(ii), in operation as per reg. 1(2).
+>
+> F28: Inserted (9.04.1997) by *Central Bank Act 1997* (8/1997), s. 70(c), S.I. No. 150 of 1997.
+>
+> F29: Deleted (4.11.2014) by *European Union (Single Supervisory Mechanism) Regulations 2014* (S.I. No. 495 of 2014), reg. 10(c), in operation as per reg 1(2).
+>
+> **Editorial Notes:**
+>
+> E1: Previous affecting provision: definition of “Markets in Financial Instruments Directive” inserted (27.06.2022) by *European Union (Investment Firms) (Amendment) Regulations 2022* (S.I. No. 302 of 2022), reg. 3; substituted (29.09.2025) as per F-note above.
+>
+> E2: Previous affecting provision: definition of “Capital Requirements Directive” substituted (21.09.2021) by *European Union (Investment Firms) Regulations 2021* (S.I. No. 355 of 2021), reg. 53(a); substituted (1.01.2025) as per F-note above.
+>
+> E3: Previous affecting provision: definition of “Capital Requirements Directive” substituted (29.12.2020) by *European Union (Capital Requirements) (Amendment) Regulations 2020* (S.I. No. 710 of 2020), reg. 58(a)(i); substituted (21.09.2021) as per E-note above.
+>
+> E4: Previous affecting provision: definition of “Capital Requirements Regulation” substituted (28.12.2020) by *European Union (Capital Requirements) (No. 2) (Amendment) Regulations 2020* (S.I. No. 711 of 2020), in operation as per reg. 1(2); substituted (29.12.2020) as per E-note above.
+>
+> E5: Previous affecting provision: definition of “Capital Requirements Directive” inserted (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 154(1)(a)(ii); substituted (29.12.2020) as per E-note above.
+>
+> E6: Previous affecting provision: definition of “Capital Requirements Regulation” inserted (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 154(1)(a)(ii); substituted (28.12.2020) as per E-note above.
+>
+> E7: Previous affecting provision: definition of “related body” amended (1.07.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 5(1) and sch. 2 part 2 item 1(a), S.I. No. 287 of 2013.
+>
+> E8: Previous affecting provision: definition of “related body” amended (15.12.2012) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 70(3) and sch. 3 part 1 item 1; substituted (1.07.2013) as per E-note above.
+>
+> E9: Previous affecting provision: definition of "Recast Credit Institutions Directive" inserted (15.12.2009) by *European Communities (Directive 2006/48/EC) (Central Bank Acts) (Amendment) Regulations 2009* (S.I. No. 512 of 2009), reg. 2(b); deleted (31.03.2014) as per F-note above.
+>
+> E10: Previous affecting provision: subs. (2) substituted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 4 para. 1(i); deleted (4.11.2014) as per F-note above.
+>
+> E11: Previous affecting provision: definition of “banking business” substituted by (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 4 para. 1(b), S.I. No. 455 of 2004; substituted (31.03.2014) as per F-note above.
+>
+> E12: Previous affecting provision: definition of “Regulatory Authority” inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 6 item 1(c), S.I. No. 160 of 2003; deleted (1.10.2010) as per F-note above.
+>
+> E13: Previous affecting provision: definition of “banking business” substituted (9.04.1997) by *Central Bank Act 1997* (8/1997), s. 70(b), S.I. No. 150 of 1997; substituted by (1.08.2004) as per E-note above.
+>
+> E14: Previous affecting provision: definition of “banking business” substituted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 29, S.I. No. 176 of 1989; substituted (9.04.1997) as per E-note above.
+
+### 3. Expenses.
+
+**3.**—The expenses incurred by the Minister in the administration of this Act shall be paid out of moneys provided by the Oireachtas.
+
+### 4. Laying of orders and regulations before Houses of the Oireachtas.
+
+**4.**—Every order and regulation made by the Minister or the Bank under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order or regulation is passed by either such House within the next twenty-one days on which that House has sat after the order or regulation is laid before it, the order or regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+### 5. Repeals.
+
+**5.**—The enactments mentioned in the second column of the Schedule to this Act are hereby repealed to the extent specified in the third column of that Schedule.
+
+### 6. Transitional provision.
+
+**6.**—A banker's licence in force immediately before the commencement of this section shall continue in force during the period from such commencement
+
+(*a*) to the date of the grant of a licence to the holder of the banker's licence,
+
+(*b*) to the 31st day of December immediately following such commencement, or
+
+(*c*) if the banker's licence is revoked, to the date of the revocation,
+
+whichever shall first occur, and the provisions of this Act shall apply during the period aforesaid in relation to the holder and the banker's licence as if the holder were the holder of a licence and the banker's licence were a licence.
+
+## PART II — Licensing and Supervision of Banks
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C2: Application of Part (ss. 7-31) extended for transitional period and references construed (20.04.2001) by *Trustee Savings Banks Act 1989 (Section 57) (TSB Bank) Order 2001* (S.I. No. 175 of 2001), art. 3(9)(b)(i).
+>
+> **AUTHORISATION OF REORGANISATION OF TSB BANK INTO THE TRANSFEREE**
+>
+> 3\. …
+>
+> (9) With effect from the reorganisation of TSB Bank into the transferee under paragraph (1) and until the reorganisation of the transferee into the holding company under Article 4(1)—
+>
+> (*a*) section 7(1) of the Central Bank Act, 1971, shall not apply in relation to the transferee; and
+>
+> (*b*) all of the supervisory provisions of—
+>
+> (i) Part II of the Central Bank Act, 1971 (No. 24 of 1971), and
+>
+> (ii) Chapters I to VI of Part II of the Central Bank Act, 1989 (No. 17 of 1989),
+>
+> shall apply to the transferee as if it were the holder of a licence granted under section 9 of the Central Bank Act, 1971, and, accordingly, any reference in the said provisions to a “holder” in relation to a licence so granted shall be construed as including a reference to the transferee.
+>
+> C3: Application of Part (ss.7-31) extended and references construed (1.01.1993) by *ACC Bank Act 1992 (Section 4) Regulations 1992* (S.I. No. 373 of 1992), reg. 2(a), in operation as per reg. 1(2).
+>
+> 2\. All of the supervisory provisions of—
+>
+> (a) Part II of the Central Bank Act, 1971 (No. 24 of 1971), and
+>
+> (b) Chapters I to VI of Part II of the Central Bank Act, 1989 (No. 17 of 1989),
+>
+> shall apply to ACC Bank public limited company as if it were the holder of a licence granted under section 9 of the Central Bank Act, 1971, and, accordingly, any reference in the said provisions to a “holder” in relation to a licence so granted shall be construed as including a reference to ACC Bank public limited company.
+>
+> C4: Application of Part (ss.7-31) extended subject to necessary modifications (24.04.1992) by *ACC Bank Act 1992* (6/1992), s. 4(1), S.I. No. 97 of 1992.
+>
+> **Supervision of Corporation by Central Bank.**
+>
+> **4.**—(1) Notwithstanding section 7(4) (inserted by section 30 of the Central Bank Act, 1989) of the Central Bank Act, 1971, the Minister, after consultation with the Central Bank, for the purpose of enabling the Central Bank to exercise supervision of the Corporation under the Central Bank Acts, 1942 to 1989, may by regulations apply to the Corporation all or any of the supervisory provisions of Part II of the Central Bank Act, 1971, or Chapters I to VI of Part II of the Central Bank Act, 1989, with such modifications or adaptations as he considers necessary.
+>
+> ...
+>
+> C5: Application of Part (ss.7-31) extended subject to necessary modifications (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 26, S.I. No. 176 of 1989.
+>
+> **Extension of application of licensing and supervisory provisions.**
+>
+> **26.**—Where, after consulting with the Bank and with such Ministers of the Government (if any) as he considers it appropriate to consult with in the circumstances, the Minister is of the opinion that, in respect of any class of financial business which is not supervised by the Bank under the Central Bank Acts, 1942 to 1989, it is necessary for—
+>
+> (a) the protection of the public or any class thereof from financial loss, or
+>
+> (b) the orderly and proper regulation of financial markets,
+>
+> that such class of financial business ought to be either or both licensed and supervised by the Bank, he may by regulations apply to the said class all or any of the licensing and supervisory provisions (including those provisions which relate to auditors and liquidators) of Part II of the Act of 1971 or of this Chapter or Chapters I, II and IV with such modifications or adaptations as he considers appropriate.
+>
+> **Editorial Notes:**
+>
+> E15: Previous affecting provision: application of Part (ss.7-31) extended and references construed (1.02.1993) by *ICC Bank Act 1992 (Section 3) Regulations, 1993* (S.I. No. 24 of 1993), reg. 2(a), in operation as per reg. 1(2); ICC Bank PLC was acquired by Bank of Scotland (Ireland) in 2001 and Bank of Scotland (Ireland) ceased operations in the State in 2010.
+
+### 7. Restriction on carrying on of banking business.
+
+**7.**—F30[(1) Subject to the provisions of this Act, a person, other than the Bank, shall not, in or outside the State, carry on banking business or hold himself out or represent himself as a banker or as carrying on banking business or F31[...] accept deposits or other repayable funds from the public, unless he is the holder of a licence F32[or F33[third-country branch authorisation]].]
+
+(2) For the purposes of this Act a person shall (save as is otherwise provided by this Act) be deemed to hold himself out as a banker
+
+(*a*) if, being a body corporate carrying on any business, the name of the body includes any of the words “bank”, “banker” or “banking” or any word which is a variant, derivative or translation of or is analogous to any of those words, or
+
+(*b*) if, being an individual, he carries on any business under a name or title (other than his own name without any addition thereto) which includes any of the words “bank”, “banker” or “banking” or any word which is a variant, derivative or translation of or is analogous to any of those words, or
+
+(*c*) if, being an unincorporated body of persons carrying on any business, the name under which the body carries on that business (not being in the case of a partnership the name or names of one or more of the partners without any addition thereto) includes any of the words. “bank”, “banker” or “banking” or any word which is a variant, derivative or translation of or is analogous to any of those words, or
+
+(*d*) in any case, if by the use, in an advertisement, circular, business card or other document, of any of the words “bank”, “banker” or “banking” or any word which is a variant, derivative or translation of any of those words or any word or phrase analogous thereto, he holds himself out or represents himself as conducting or being willing to conduct banking business.
+
+(3) *Subsection (1)* of this section shall not apply during such period as may be determined by the Bank to a person who holds himself out as a banker but is not carrying on banking business and who held a banker's licence in force immediately before the commencement of this section or a licence which has been revoked.
+
+F35[(4) *Subsection (1)* does not apply in relation to—
+
+(*a*) the central bank of another member state of the European Communities that is a member of the European Central Bank, or
+
+(*b*) the Post Office Savings Bank, or
+
+(*c*) a trustee savings bank F36[licensed under section 10 of the Trustee Savings Banks Act 1989], or
+
+(*d*) a building society F36[authorised under section 17 of the Building Societies Act 1989] or a F38[credit union.]
+
+(*e*) F39[...]
+
+(*f*) F39[...]]
+
+F40[(4A) *Subsection (1)* shall not apply where—
+
+(*a*) the person accepting deposits or other repayable funds from the public is not a credit institution,
+
+(*b*) the person is—
+
+(i) a manager, trustee or custodian of a unit trust or a collective investment undertaking or an entity that provides services to such an undertaking,
+
+(ii) another member state of the European Union, a regional or local authority of such a state, or a public international organisation of which one or more member states of the European Union are members, or
+
+(iii) a case covered expressly by European Union law, and
+
+(*c*) the acceptance of deposits or other repayable funds from the public by the person is subject to regulation and controls intended to protect depositors and investors.]
+
+F41[(5) F42[...]]
+
+F41[(6) *Subsection (1)* does not apply to a person who acts on behalf of—
+
+(*a*) the Bank, or
+
+(*b*) the holder of a licence F32[or F34[third-country branch authorisation]], or
+
+(*c*) a body or person referred to in *subsection (4)*, or
+
+(*d*) a credit institution or financial institution that is permitted by the F37[European Union (Capital Requirements) Regulations 2014 (S.I. No. 158 of 2014)] to carry on business within the State, but only so long as the institution complies with all conditions imposed on such an institution by those Regulations and by or under an Act.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F30: Substituted (9.04.1997) by *Central Bank Act 1997* (8/1997), s. 70(a), S.I. No. 150 of 1997.
+>
+> F31: Deleted (1.07.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 5(1) and sch. 2 part 2 item 2, S.I. No. 287 of 2013.
+>
+> F32: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 73(a)(i), (ii), S.I. No. 287 of 2013.
+>
+> F33, F34: Substituted (10.07.2026) by *European Union (Capital Requirements) (Amendment) Regulations 2026* (S.I. No. 326 of 2026), reg. 60(b).
+>
+> F35: Substituted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3, part 4, para. 2(a), S.I. No. 455 of 2004.
+>
+> F36, F37: Substituted (4.04.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 154(1)(c)(i), (ii), (v).
+>
+> F38: Substituted (29.12.2020) by *European Union (Capital Requirements) (Amendment) Regulations 2020* (S.I. No. 710 of 2020), reg. 58(b)(i)(I), in operation as per reg. 1(2).
+>
+> F39: Deleted (29.12.2020) by *European Union (Capital Requirements) (Amendment) Regulations 2020* (S.I. No. 710 of 2020), reg. 58(b)(i)(II), in operation as per reg. 1(2).
+>
+> F40: Inserted (29.12.2020) by *European Union (Capital Requirements) (Amendment) Regulations 2020* (S.I. No. 710 of 2020), reg. 58(b)(ii), in operation as per reg. 1(2).
+>
+> F41: Inserted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 4 para. 2(a), (b) S.I. No. 455 of 2004.
+>
+> F42: Deleted (4.11.2014) by *European Union (Single Supervisory Mechanism) Regulations 2014* (S.I. No. 495 of 2014), reg. 11, in operation as per reg. 1(2).
+>
+> **Modifications (not altering text):**
+>
+> C6: Application of subs. (1) restricted (28.07.2014) by *Strategic Banking Corporation of Ireland Act 2014* (22/2014), s. 5(6), S.I. No. 359 of 2014.
+>
+> **Formation of Strategic Banking Corporation of Ireland**
+>
+> **5.** …
+>
+> (6) Sections 7(1), 8 and 15 of the Central Bank Act 1971 do not apply to the SBCI or a person who acts on behalf of the SBCI.
+>
+> C7: Certain financial institutions not specified (1.11.2007) by *Data Protection Act 1988 (Section 16(1)) Regulations 2007* (S.I. No. 657 of 2007), reg. 4(a), see also reg. 4(h) in relation to data processor, in operation as per reg. 1(2).
+>
+> **Data controllers and data processors to whom Regulation 3 does not apply.**
+>
+> **4.** The following categories of data controller and data processor are not specified for the purposes of section 16(1) (inserted by section 16 of the Act of 2003) of the Principal Act even if such a data controller or data processor falls under any one or more of paragraphs (a) to (k) of Regulation 3(1):
+>
+> (a) a data controller, being a financial institution, other than an institution referred to in paragraphs (a) and (f) of section 7(4) (inserted by section 33 of, and Part 4 of Schedule 3 to, the Central Bank and Financial Services Authority Act 2004 (No. 21 of 2004)) of the Central Bank Act 1971 (No. 24 of 1971);
+>
+> ...
+>
+> C8: Application of subs. (4) restricted (1.11.2007) by *European Communities (Markets in Financial Instruments) Regulations 2007* (S.I. No. 60 of 2007), reg. 169(3)(b), in operation as per reg. 1(2).
+>
+> **Powers of inspection**
+>
+> **169.** …
+>
+> (3) If an inspector has reasonable grounds for believing that a director or past director or employee or past employee or agent or past agent or shareholder or past shareholder of the investment firm or regulated market or of any other person mentioned in paragraph (1) of this Regulation whose affairs the inspector is investigating, maintains or has maintained, either at that time or at any time in the past, an account of any description in a credit institution or an account with any other financial institution, including holdings of investment instruments, whether alone or jointly with another person and whether in the State or elsewhere, into or out of which there has been paid—
+>
+> (a) any money which has resulted from or been used in the financing of any transaction, arrangement or agreement relating to the business of the investment firm or market operator or relating to client money or investment instruments, or
+>
+> (b) any money which has been in any way connected with any act or omission, or series of acts or omissions, which on the part of that director or employee or agent constituted misconduct (whether fraudulent or not) towards the investment firm or market operator or the firm's or market operator's shareholders or any client or creditor of the firm or market operator,
+>
+> the inspector may require the director or past director or officer or past officer or employee or past employee or agent or past agent or shareholder or past shareholder or other person mentioned in paragraph (1) of this Regulation to produce to the inspector all documents in the director's employee's or agent's possession, or under the director's, employee's or agent's control, relating to that account and in this paragraph “credit institution account” includes an account with any person exempt by virtue of section 7(4) of the Central Bank Act, 1971, from the requirement of holding a licence granted under section 9 of that Act.
+>
+> C9: Application of subs. (1) restricted (20.04.2001) by *Trustee Savings Banks Act 1989 (Section 57) (TSB Bank) Order 2001* (S.I. No. 175 of 2001), art. 3(9)(a).
+>
+> **AUTHORISATION OF REORGANISATION OF TSB BANK INTO THE TRANSFEREE**
+>
+> 3\. …
+>
+> (9) With effect from the reorganisation of TSB Bank into the transferee under paragraph (1) and until the reorganisation of the transferee into the holding company under Article 4(1)—
+>
+> (a) section 7(1) of the Central Bank Act, 1971, shall not apply in relation to the transferee; and
+>
+> (b) all of the supervisory provisions of—
+>
+> (i) Part II of the Central Bank Act, 1971 (No. 24 of 1971), and
+>
+> (ii) Chapters I to VI of Part II of the Central Bank Act, 1989 (No. 17 of 1989),
+>
+> shall apply to the transferee as if it were the holder of a licence granted under section 9 of the Central Bank Act, 1971, and, accordingly, any reference in the said provisions to a “holder” in relation to a licence so granted shall be construed as including a reference to the transferee.
+>
+> C10: Application of section to certain companies provided for by *Trustee Savings Bank Act 1989* (21/1989), s. 57(8)(b), (c), S.I. No. 21 of 1990, as substituted (28.03.2001) by *Trustee Savings Banks (Amendment) Act 2001* (6/2001), s. 1, commenced on enactment.
+>
+> **[57.**— …
+>
+> (3) (*a*) An order may authorise the reorganisation of—
+>
+> (i) one or more banks into a company referred to in *subparagraph (i)* or *(ii)* of *paragraph (c)* and an order so doing may provide for the transfer or other disposal to the company of all or part of the undertaking, property and rights of the bank or banks concerned and of all or part of the liabilities or obligations thereof, including deposits in the bank or banks and the liabilities referable thereto, to the company; and
+>
+> (ii) a relevant company into a banking company, provided that the Minister has consulted with the Central Bank in advance of the making of an order, and an order so doing may provide for the transfer or other disposal to the banking company of all or part of the undertaking, property and rights of the relevant company and of all or part of the liabilities or obligations thereof, including deposits formerly in the bank or banks to which the relevant company succeeded and the liabilities referable thereto, to the banking company.
+>
+> *...*
+>
+> (*c*) In this subsection “company” means—
+>
+> (i) a company the composition of the board of directors of which is controlled by the Minister or as respects which more than half in nominal value of its equity share capital and more than half in nominal value of its shares carrying voting rights are held by the Minister, or
+>
+> (ii) a company the composition of the board of directors of which is controlled by a person or persons other than the Minister and as respects which more than half in nominal value of its equity share capital or more than half in nominal value of shares carrying voting rights are held by a person or persons other than the Minister,
+>
+> and for the purposes of *subparagraph (i)*, the composition of the board of directors of a company shall be deemed to be controlled by a person or persons including the Minister in a case where, if the person or persons were a company, the composition of that board would be deemed, by virtue of section 155(2) of the Act of 1963, to be controlled by the latter company.
+>
+> …
+>
+> (8) (*a*) If and for so long as the relevant company is a company to which *subsection (3)(c)(i)* applies, this Act shall apply in relation to the relevant company subject to any modifications or adaptations (including the adaptation of references to trustees and rules of trustee savings banks) that the Minister considers necessary or expedient and specifies in an order and any other necessary modifications and adaptations.
+>
+> (b) If the relevant company is a company to which *subsection (3)(c)(ii)* applies, this Act (other than this section) shall not apply in relation to the relevant company and, if the relevant company has been reorganised into a banking company, to the banking company concerned and the rights, liabilities and obligations referable to a deposit in the bank (being as respects a deposit, liabilities to return the deposit to the depositor and to pay interest on it (if it was payable) at the rate prevailing immediately before the reorganisation) shall become instead rights, liabilities and obligations incident to the relationship of customer and banker and shall be variable, and, subject to paragraph (c), section 7 of the Central Bank Act, 1971, shall apply in relation to the relevant company, and the banking company concerned, accordingly.
+>
+> (*c*) If the relevant company is a company to which *subsection (3)(c)(ii)* applies, the Minister may, after consultation with the Central Bank, make provision in an order for and in connection with the transition from regulation and supervision of the bank concerned by and under this Act to regulation and supervision of the relevant company by and under the Companies Acts and the Central Bank Acts, including provision that section 7(1) of the Central Bank Act, 1971, shall not apply in relation to the relevant company, on such conditions and for such period as the Minister considers necessary and specifies in an order.
+>
+> ...**]**
+>
+> C11: Application of subs. (1) restricted (2.03.2000) by *National Treasury Management Agency (Amendment) Act 2000* (39/2000), s. 24, commenced on enactment.
+>
+> **Non-application of section 7(1) of Central Bank Act, 1971**
+>
+> **24.**—Subsection (1) (inserted by section 70(a) of the Central Bank Act, 1997) of section 7of the Central Bank Act, 1971, shall not apply to—
+>
+> (a) the Minister, or
+>
+> (b) the Agency, if the function conferred on the Minister by section 20(1)stands delegated to the Agency by virtue of an order under section 23,
+>
+> in respect of the provision of central treasury services.
+>
+> C12: Application of section restricted (9.04.1997) by *Central Bank Act 1997* (8/1997), s. 84(1), S.I. No. 150 of 1997.
+>
+> **84.**—(1) Subject to such terms and conditions as may be specified by the Bank, nothing in section 7 of the Act of 1971 shall prohibit the establishment of a representative office in the State of a credit institution that is authorised in any state other than a Member State of the European Economic Area.
+>
+> ...
+>
+> C13: Application of subs. (4) restricted (23.07.1992) by *ICC Bank Act 1992* (21/1992), s. 3(1).
+>
+> **Supervision of Company by Central Bank.**
+>
+> 3.—(1) Notwithstanding section 7(4) (inserted by section 30 of the Central Bank Act, 1989) of the Central Bank Act, 1971, the Minister, after consultation with the Central Bank, for the purpose of enabling the Central Bank to exercise supervision of the Company under the Central Bank Acts, 1942 to 1989, may by regulations apply to the Company all or any of the supervisory provisions of Part II of the Central Bank Act, 1971, or Chapters I to VI of Part II of the Central Bank Act, 1989, with such modifications or adaptations as he considers necessary.
+>
+> C14: Application of subs. (4) restricted (24.04.1992) by *ACC Bank Act 1992* (6/1992), s. 4(1), S.I. No. 97 of 1992.
+>
+> **Supervision of Corporation by Central Bank.**
+>
+> **4.**—(1) Notwithstanding section 7(4) (inserted by section 30 of the Central Bank Act, 1989) of the Central Bank Act, 1971, the Minister, after consultation with the Central Bank, for the purpose of enabling the Central Bank to exercise supervision of the Corporation under the Central Bank Acts, 1942 to 1989, may by regulations apply to the Corporation all or any of the supervisory provisions of Part II of the Central Bank Act, 1971, or Chapters I to VI of Part II of the Central Bank Act, 1989, with such modifications or adaptations as he considers necessary.
+>
+> ...
+>
+> C15: Application of subs. (4)(a)(ii) restricted and references construed (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 16(2)(i), S.I. No. 176 of 1989.
+>
+> **Disclosure of information.**
+>
+> **16**.—(1) A person, who at the commencement of this section is, or at any time thereafter is appointed, Governor or a Director, officer or servant of the Bank or who is employed by the Bank in any other capacity, shall not disclose, during his term of office or employment or at any time thereafter, any information concerning—
+>
+> (a) the business of any person or body (whether corporate or unincorporate) which came to his knowledge by virtue of his office or employment, or
+>
+> (b) the Bank's activities in respect of the protection of the integrity of the currency or the control of credit,
+>
+> unless such disclosure is to enable the Bank to carry out its functions under the Central Bank Acts, 1942 to 1989, or under any enactment amending those Acts.
+>
+> (2) The provisions as to non-disclosure contained in subsection (1) shall not apply to any disclosure—
+>
+> ...
+>
+> and the provisions as to non-disclosure contained in paragraphs (a) and (b) of subsection (1) shall not apply to any disclosure—
+>
+> (i) in the case of the said paragraph (a), which, in the opinion of the Bank, is necessary for the protection of depositors of money with any person carrying on the business of banking or any business to which section 7(4)(a)(ii) of the Act of 1971 (as amended by this Act) or regulations under section 26 relate or to safeguard the interests of the Bank,
+>
+> ...
+>
+> C16: Application of subs. (4) restricted and references construed (1.11.1989) by *Central Bank Act 1989* (16/1989), s. 73(2) No. 176 of 1989.
+>
+> **Extension of application of Chapter V.**
+>
+> **73.** ...
+>
+> (2) Notwithstanding section 7(4) of the Act of 1971 (as amended by this Act) and without prejudice to subsection (1) where, after consulting with the Bank and with such Ministers of the Government (if any) as he considers it appropriate to consult with in the circumstances, the Minister is of the opinion that it is in the public interest so to do, he may by regulation require any institution to which section 7(4)(a)(ii) of the Act of 1971 relates to maintain a deposit in the deposit protection account established under section 54 and for that purpose the provisions of section 53, subsections (2) to (7) of section 55 and sections 56 to 72 shall apply with such modifications as are necessary to give effect to the regulation.
+>
+> C17: Deposit amount specified, application of subs. (5) restricted and references construed (1.11.1989) by *Central Bank Act 1989* (16/1989), s. 55(2), S.I. No. 176 of 1989.
+>
+> **Deposits by holders of licences.**
+>
+> **55.**— …
+>
+> (2) The amount of a deposit maintained by a holder of a licence in the Bank pursuant to section 7 of the Act of 1971 (in this section referred to as the deposit) shall, subject to *subsection (5)*, be 0.2 per cent., or such other proportion as may be specified by regulations under *section 72(2)*, of the total—
+>
+> (a) Irish pound deposits (including deposits on current accounts but, subject to paragraph (b), excluding interbank deposits and deposits represented by negotiable certificates of deposit), and
+>
+> (b) such other deposits as may be specified by regulations under *section 72(2)* in respect of all or any class or category of holders of licences,
+>
+> at offices in the State of the holder, but shall not be less than £20,000 and, accordingly, the reference in the said section 7 to section 13 of the Act of 1971 shall be construed as a reference to this section.
+>
+> **Editorial Notes:**
+>
+> E16: Previous affecting provision: subs. (4)(e) amended (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 154(1)(c)(iii); deleted (29.12.2020) as per F-note above.
+>
+> E17: Previous affecting provision: subs. (5)(a) amended (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 154(1)(c)(iv); deleted (4.11.2014) as per F-note above.
+>
+> E18: Previous affecting provision: subs. (4) amended (28.02.2002) by *ACC Bank Act 2001* (12/2001), s. 12(1) and sch. part 1; subsection substituted (1.08.2004) as per F-note above.
+>
+> E19: Previous affecting provision: subs. (4) amended (12.02.2001) by *ICC Bank Act 2000* (32/2000), s. 7(1) and schedule; subsection substituted (1.08.2004) as per F-note above.
+>
+> E20: Previous affecting provision: subs. (1)(b) deleted (1.07.1995) by *European Communities (Deposit Guarantee Schemes) Regulations 1995* (S.I. No. 168 of 1995), reg. 2(3), in operation as per reg. 1(2); subsection substituted (9.04.1997) as per F-note above.
+>
+> E21: Previous affecting provision: subs. (4) amended (10.11.1992) by *Central Bank Act 1971 (Section 7 (4)) Order 1992* (S.I. No. 328 of 1992), art. 2; subsection substituted (1.08.2004) as per F-note above.
+>
+> E22: Previous affecting provision: power pursuant to subs. (4) exercised (10.11.1992) by *Central Bank Act 1971 (Section 7 (4)) Order 1992* (S.I. No. 328 of 1992); revoked (7.12.2000) by *ICC Bank Act 2000* (32/2000), ss. 7(2) and sch part 2, in operation as per s. 8(2).
+>
+> E23: Previous affecting provision: subs. (4) substituted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 30; subsection substituted (1.08.2004) as per F-note above.
+>
+> E24: Previous affecting provision: subs. (4) amended (21.12.1979) by *European Communities (Licensing and Supervision of Banks) Regulations 1979* (S.I. No. 414 of 1979), reg. 3; subsection substituted (12.07.1989) as per E-note above.
+
+### 8. Exemption of persons from section 7.
+
+**8.**— F43[(1) (*a*) Where, by reason only of a person's use in a name or title of any of the words “bank”, “banker” or “banking” or any word which is a variant, derivative or translation of or is analogous to any of those words, the person would be deemed to be holding himself out as a banker, the Bank may exempt the person from the provisions of section 7 of this Act if, in the opinion of the Bank, the person does not in fact carry on or propose to carry on banking business and does not otherwise hold himself out or represent himself as a banker or as carrying on banking business.
+
+(*b*) The Bank may at any time revoke an exemption under this subsection where it is of the opinion that at any time after being exempted the person concerned has carried on banking business or otherwise has held himself out or represented himself as a banker or as carrying on a banking business and, upon the exemption being so revoked, that person shall forthwith take all necessary measures to cease using the name or title concerned containing the word to which the revoked exemption related.
+
+F44[(2) The Bank may exempt a specified person, or the members of a specified class of persons, from being required to hold a licence where the requirement would arise only from the creation of securities or other obligations to which the definition of “banking business” relates, but only if the Bank is satisfied that the granting of the exemption would be consistent with the proper and orderly regulation of banking.
+
+(2A) An exemption granted under this section is subject to such conditions as the Bank thinks fit to impose.
+
+(2B) The Bank shall revoke an exemption granted under this section if satisfied—
+
+(a) that the circumstances relevant to the exemption have changed and are now such that the exemption would no longer be granted, or
+
+(b) that a condition of the exemption is not being, or has not been, substantially complied with.
+
+(2C) The Bank shall publish in Iris Oifigiúil a notice of every exemption and revocation under this section.]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F43: Substituted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 31, S.I. No. 176 of 1989.
+>
+> F44: Substituted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33, sch. 3 part 4 para. 3, S.I. No. 455 of 2004.
+>
+> **Modifications (not altering text):**
+>
+> C18: Application of subs. (1) restricted (28.07.2014) by *Strategic Banking Corporation of Ireland Act 2014* (22/2014), s. 5(6), S.I. No. 359 of 2014.
+>
+> **Formation of Strategic Banking Corporation of Ireland**
+>
+> **5.** (5) Sections 7 (1), 8 and 15 of the Central Bank Act 1971 do not apply to the SBCI or a person who acts on behalf of the SBCI.
+>
+> **Editorial Notes:**
+>
+> E25: Previous affecting provision: subs. (2)(a) substituted by *Central Bank Act 1997* (8/1997), s. 70(d); subsection substituted (1.08.2004) as per F-note above.
+
+### 9. Grant of licences.
+
+**9.**—F45[(1) Subject to *sections 9H* to *9J*, the Bank shall, either—
+
+(*a*) if it is satisfied that the conditions referred to in sections 9D to 9G have been complied with, take a draft decision to propose to the ECB to grant a licence to a person applying to it for the grant thereof authorising the holder to carry on banking business, or
+
+(*b*) if it is not so satisfied, reject the application.]
+
+F46[(1A) F47[...]]
+
+(2) F47[...]
+
+(3) F47[...]
+
+(4) An application for a licence shall be in such form and contain such particulars as the Bank may from time to time determine.
+
+(5) The grant of a licence to a person shall not constitute a warranty as to the solvency of the person to whom it is granted and the Bank shall not be liable in respect of any losses incurred through the insolvency or default of a person to whom a licence is granted.
+
+F48[(6) F49[...]]
+
+F50[(7) References (howsoever expressed) in any enactment (including this Act) to a licence granted under this section shall on and after 4 November 2014 be construed as references to a licence granted or deemed to be granted by the ECB under the SSM Regulation on the application therefor under this section.
+
+(8) In this section “enactment” has the same meaning as it has in the Interpretation Act 2005.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F45: Substituted (4.11.2014) by *European Union (Single Supervisory Mechanism) Regulations 2014* (S.I. No. 495 of 2014), reg. 12(a), in operation as per reg. 1(2).
+>
+> F46: Inserted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 32(1)(a), S.I. No. 176 of 1989.
+>
+> F47: Deleted (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 154(1)(d)(ii), in operation as per reg. 1(2).
+>
+> F48: Inserted (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 154(1)(d)(iii), in operation as per reg. 1(2).
+>
+> F49: Deleted (4.11.2014) by *European Union (Single Supervisory Mechanism) Regulations 2014* (S.I. No. 495 of 2014), reg. 12(b), in operation as per reg. 1(2).
+>
+> F50: Inserted (4.11.2014) by *European Union (Single Supervisory Mechanism) Regulations 2014* (S.I. No. 495 of 2014), reg. 12(c), in operation as per reg. 1(2).
+>
+> **Modifications (not altering text):**
+>
+> C19: Application of section restricted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 110(3), S.I. No. 176 of 1989.
+>
+> **Authorisation to carry on moneybroking business.**
+>
+> **110**. …
+>
+> (2) Subject to the provisions of this section, the Bank may grant or refuse to grant to any person applying to it an authorisation to carry on moneybroking business.
+>
+> (3) Notwithstanding *subsection (2)*, a person shall not, at the same time, be the holder of a licence under section 9 of the Act of 1971 and a person to whom a subsisting authorisation under this section relates.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E26: Previous affecting provision: subs. (1) amended (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 154(1)(d)(i); subsection substituted (4.11.2014) as per F-note above.
+>
+> E27: Previous affecting provision: subs. (1A) substituted by *European Communities (Directive 2006/48/EC) (Central Bank Acts) (Amendment) Regulations 2009* (S.I. No. 512 of 2009), reg. 2(c); subsection deleted (31.03.2014) as per F-note above.
+>
+> E28: Previous affecting provision: subs. (3) substituted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 32(1)(b); subsection deleted (31.03.2014) as per F-note above.
+>
+> E29: Previous affecting provision: subs. (3) amended by *European Communities (Licensing and Supervision of Banks) Regulations, 1979* (S.I. No. 414 of 1979), regs. 3-5; subsection substituted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 32(1)(b).
+
+### 9A. Authorisation of third country branches.
+
+F51[**9A.**— F52[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F51: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 73(b), S.I. No. 287 of 2013.
+>
+> F52: Deleted (10.07.2026) by *European Union (Capital Requirements) (Amendment) Regulations 2026* (S.I. No. 326 of 2026), reg. 60(c)(i).
+>
+> **Editorial Notes:**
+>
+> E30: Previous affecting provision: subs. (1) amended and subs. (5) substituted (29.12.2020) by *European Union (Capital Requirements) (Amendment) Regulations 2020* (S.I. No. 710 of 2020), reg. 58(c)(i), (ii), in operation as per reg. 1(2); section deleted (10.07.2026) as per F-note above.
+
+### 9B. Refusal to grant an authorisation under section 9A.
+
+F53[**9B.**— F54[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F53: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 73(b), S.I. No. 287 of 2013.
+>
+> F54: Deleted (10.07.2026) by *European Union (Capital Requirements) (Amendment) Regulations 2026* (S.I. No. 326 of 2026), reg. 60(c)(ii).
+
+### 9C. Revocation of authorisations granted under section 9A.
+
+F55[**9C.**— F56[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F55: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 73(b), S.I. No. 287 of 2013.
+>
+> F56: Deleted (10.07.2026) by *European Union (Capital Requirements) (Amendment) Regulations 2026* (S.I. No. 326 of 2026), reg. 60(c)(iii).
+
+### 9CA. Third country branch reporting.
+
+F57[**9CA.**— F58[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F57: Inserted (29.12.2020) by *European Union (Capital Requirements) (Amendment) Regulations 2020* (S.I. No. 710 of 2020), reg. 58(d), in operation as per reg. 1(2).
+>
+> F58: Deleted (10.07.2026) by *European Union (Capital Requirements) (Amendment) Regulations 2026* (S.I. No. 326 of 2026), reg. 60(c)(iv).
+
+### 9CB. Cooperation with competent authorities.
+
+F59[**9CB**.— F60[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F59: Inserted (29.12.2020) by *European Union (Capital Requirements) (Amendment) Regulations 2020* (S.I. No. 710 of 2020), reg. 58(d), in operation as per reg. 1(2).
+>
+> F60: Deleted (10.07.2026) by *European Union (Capital Requirements) (Amendment) Regulations 2026* (S.I. No. 326 of 2026), reg. 60(c)(v).
+
+### 9D. Programme of operations and structural organisation.
+
+F61[F62[**9D**.—(1) An application for a licence shall be accompanied by—
+
+(*a*) a programme of operations, and
+
+(*b*) a description of the arrangements, processes and mechanisms referred to in Regulation 61(1) of the European Union (Capital Requirements) Regulations 2014 proposed to be implemented.
+
+(2) A programme of operations referred to in *subsection (1)(a)* shall—
+
+(*a*) set out the types of business envisaged by the applicant,
+
+(*b*) set out the structural organisation of the credit institution in respect of which the application is being made, and
+
+(*c*) where the credit institution is part of a group, specify—
+
+(i) the parent undertakings,
+
+(ii) the financial holding companies, if any, and
+
+(iii) the mixed financial holding companies, if any,
+
+within the group.
+
+(3) The Bank shall not take a draft decision to propose to the ECB to grant a licence unless it is satisfied that the arrangements, processes and mechanisms referred to in Regulation 61 of the European Union (Capital Requirements) Regulations 2014 proposed to be implemented would, if implemented, enable sound and effective risk management by that institution.]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F61: Inserted (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 154(1)(e), in operation as per reg. 1(2).
+>
+> F62: Substituted (29.12.2020) by *European Union (Capital Requirements) (Amendment) Regulations 2020* (S.I. No. 710 of 2020), reg. 58(e), in operation as per reg. 1(2).
+>
+> **Editorial Notes:**
+>
+> E31: Previous affecting provision: section amended (4.11.2014) by *European Union (Single Supervisory Mechanism) Regulations 2014* (S.I. No. 495 of 2014), reg. 13, in operation as per reg. 1(2); section substituted (29.12.2020) as per F-note above.
+
+### 9E. Initial capital.
+
+F63[**9E**.—(1) Subject to *subsection (3)*, the Bank shall not F64[take a draft decision to propose to the ECB to grant a licence] unless the applicant holds separate own funds, or has an initial capital, of at least €5,000,000.
+
+(2) Initial capital shall comprise only one or more of the items referred to in Article 26(1)(a) to (e) of the Capital Requirements Regulation.
+
+(3) The Bank may F64[take a draft decision to propose to the ECB to grant a licence] to particular categories of credit institutions the initial capital of which is less than €5,000,000, subject to the following conditions:
+
+(a) the applicant has an initial capital of at least €1,000,000;
+
+(b) F65[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F63: Inserted (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 154(1)(e), in operation as per reg. 1(2).
+>
+> F64: Substituted (4.11.2014) by *European Union (Single Supervisory Mechanism) Regulations 2014* (S.I. No. 495 of 2014), reg. 14(a), in operation as per reg. 1(2).
+>
+> F65: Deleted (4.11.2014) by *European Union (Single Supervisory Mechanism) Regulations 2014* (S.I. No. 495 of 2014), reg. 14(b), in operation as per reg. 1(2).
+
+### 9F. Effective direction of business and place of head office.
+
+F66[**9F**.—The Bank shall not F67[take a draft decision to propose to the ECB to grant a licence] unless the applicant satisfies the Bank that—
+
+(*a*) it is a body corporate,
+
+(*b*) its registered office and its head office are both located in the State,
+
+(*c*) at least 2 persons effectively direct its business, and
+
+(*d*) the members of its management body meet the requirements of Regulation 79 of the European Union (Capital Requirements) Regulations 2014 (S.I. No. 158 of 2014).]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F66: Inserted (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 154(1)(e), in operation as per reg. 1(2).
+>
+> F67: Substituted (4.11.2014) by *European Union (Single Supervisory Mechanism) Regulations 2014* (S.I. No. 495 of 2014), reg. 15, in operation as per reg. 1(2).
+
+### 9FA. Precondition for draft decision to propose licence.
+
+F68[**9FA.**(1) Where an applicant intends to provide investment services or perform investment activities, the Bank shall not take a draft decision to propose to the ECB to grant a licence unless it is satisfied that the applicant will comply with the relevant provisions.
+
+(2) In this section—
+
+“investment activities” has the same meaning as it has in the Markets in Financial Instruments Directive;
+
+“investment services” has the same meaning as it has in the Markets in Financial Instruments Directive;
+
+“relevant provisions” means the provisions of the Regulations of 2017 which apply under Regulation 2(2) of those Regulations.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F68: Inserted (27.06.2022) by *European Union (Markets in Financial Instruments) (Amendment) (No. 2) Regulations 2022* (S.I. No. 304 of 2022), reg. 3.
+>
+> **Editorial Notes:**
+>
+> E32: The section heading is taken from the contents of the section in the absence of one included in the amendment.
+
+### 9G. Shareholders and members.
+
+F69[**9G**.—(1) The Bank shall not F70[take a draft decision to propose to the ECB to grant a licence] unless the application for the licence includes the names of—
+
+(*a*) the applicant’s shareholders or members that have qualifying holdings and of the amounts of those holdings, or
+
+(*b*) where there are no qualifying holdings, the 20 largest shareholders or members.
+
+(2) In determining whether the criteria for a qualifying holding are fulfilled, the voting rights referred to in Articles 9 and 10 of Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004[^43] in relation to information about issuers whose securities are admitted to trading on a regulated market and the conditions regarding aggregation thereof set out in Article 12(4) and (5) of that Directive shall be taken into account.
+
+(3) Voting rights or shares which institutions hold as a result of providing the underwriting of financial instruments or placing of financial instruments on a firm commitment basis included under point 6 of Section A of Annex I to Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004[^44] shall not be taken into account provided that those rights are not exercised or otherwise used to intervene in the management of the issuer and are disposed of within one year of acquisition.
+
+F71[(4) The Bank shall not take a draft decision to propose to the ECB to grant a licence if, taking into account the need to ensure the sound and prudent management of a credit institution, it is not satisfied, having regard to the criteria specified in *section 9GA(1)*, as to the suitability of the shareholders or members.]
+
+(5) Where close links exist between the credit institution and other natural or legal persons, the Bank shall F70[take a draft decision to propose to the ECB to grant a licence] only where those links do not prevent the effective exercise of its supervisory functions.
+
+(6) The Bank shall not F70[take a draft decision to propose to the ECB to grant a licence] where the laws, regulations or administrative provisions of a third country governing one or more natural or legal persons with which the credit institution has close links, or difficulties involved in the enforcement of those laws, regulations or administrative provisions, prevent the effective exercise of its supervisory functions.
+
+(7) The Bank shall require credit institutions to provide it with the information they require to monitor compliance with the conditions referred to in *subsections (5)* and *(6)* on an ongoing basis.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F69: Inserted (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 154(1)(e), in operation as per reg. 1(2).
+>
+> F70: Substituted (4.11.2014) by *European Union (Single Supervisory Mechanism) Regulations 2014* (S.I. No. 495 of 2014), reg. 16, in operation as per reg. 1(2).
+>
+> F71: Substituted (29.12.2020) by *European Union (Capital Requirements) (Amendment) Regulations 2020* (S.I. No. 710 of 2020), reg. 58(f), in operation as per reg. 1(2).
+
+### 9GA. Assessment of suitability of shareholders or members.
+
+F72[**9GA**.—(1) The criteria referred to in *section 9G(4)* are as follows:
+
+(*a*) the reputation of the shareholders or members of the credit institution;
+
+(*b*) the reputation, knowledge, skills and experience, as specified in Regulation 79 of the European Union (Capital Requirements) Regulations 2014, of any member of the management body who will direct the business of the shareholders or members of the credit institution;
+
+(*c*) the financial soundness of the credit institution, in particular in relation to the type of business pursued and envisaged in the credit institution;
+
+(*d*) whether the credit institution will be able to comply and continue to comply with the prudential requirements of the European Union (Capital Requirements) Regulations 2014 and the Capital Requirements Regulation, and where applicable, other European Union law, in particular Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002[^45] and Directive 2009/110/EC of the European Parliament and of the Council of 16 September 2009,[^46] including, where applicable, whether the group of which it is a part has a structure that makes it possible to exercise effective supervision, effectively exchange information among the competent authorities of relevant Member States and determine the allocation of responsibilities among the competent authorities of relevant Member States;
+
+(*e*) whether there are reasonable grounds to suspect that, in connection with the proposed authorisation, money laundering or terrorist financing within the meaning of Article 1 of Directive 2005/60/EC of the European Parliament and of the Council of 26 October 2005[^47] on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing is being or has been committed or attempted, or that the proposed authorisation could increase the risk thereof.
+
+(2) In carrying out its assessment of the suitability of the shareholders or members, the Bank shall consult with the competent authorities of other relevant Member States if one or more of the shareholders or members is—
+
+(*a*) a credit institution, insurance undertaking, reinsurance undertaking, investment firm, or a management company within the meaning of Article 2(1)(b) of Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009[^48] (in this subsection referred to as a “UCITS management company”) authorised in another Member State,
+
+(*b*) the parent undertaking of a credit institution, insurance undertaking, reinsurance undertaking, investment firm or UCITS management company authorised in another Member State, or
+
+(*c*) a natural or legal person controlling a credit institution, insurance undertaking, reinsurance undertaking, investment firm or UCITS management company authorised in another Member State.
+
+(3) The Bank shall, without undue delay, provide competent authorities in other Member States with any information that is essential or relevant for the assessment of the shareholders or members.
+
+(4) The Bank shall, for the purposes of *subsection (3)*, communicate all relevant information upon request and all essential information on its own initiative.
+
+(5) A draft decision taken by the Bank to propose to the ECB to grant a licence shall indicate any views or reservations expressed by the competent authorities responsible for the shareholder or member concerned.
+
+(6) In this section, “reinsurance undertaking” has the meaning assigned to it in point (6) of Article 4(1) of the Capital Requirements Regulation.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F72: Inserted (29.12.2020) by *European Union (Capital Requirements) (Amendment) Regulations 2020* (S.I. No. 710 of 2020), reg. 58(g), in operation as per reg. 1(2).
+
+### 9H. Waiver for credit institutions permanently affiliated to central body.
+
+F73[**9H**.—(1) The Bank may waive the requirements set out in *sections 9D*, *9E* and *9F(c)* and *(d)* with regard to a credit institution referred to in Article 10 of the Capital Requirements Regulation in accordance with the conditions set out therein.
+
+(2) Where the Bank exercises a waiver referred to in *paragraph (1)*—
+
+(*a*) Regulation 7,
+
+(*b*) Regulations 32 and 33,
+
+(*c*) Regulation 35(1) to (3),
+
+(*d*) Regulations 38 to 44,
+
+(*e*) Regulations 61 to 84, and
+
+(*f*) Regulations 115 to 130,
+
+of the European Union (Capital Requirements) Regulations 2014 (S.I. No. 158 of 2014) shall apply to the whole as constituted by the central body together with its affiliated institutions.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F73: Inserted (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 154(1)(e), in operation as per reg. 1(2).
+
+### 9I. Refusal of authorisation.
+
+F74[**9I**.—(1) Where the Bank F75[rejects an application], it shall notify the applicant of the decision and the reasons therefor within 6 months of receipt of the application or, where the application is incomplete, within 6 months of receipt of the complete information required for the decision.
+
+(2) The Bank shall, in any event, F75[take a draft decision to propose to the ECB to grant a licence or reject the application] within 12 months of the receipt of the application.]
+
+F77[(3) A decision under this section to F76[reject an application] is an appealable decision for the purposes of Part VIIA of the Act of 1942.]
+
+F78[(4) A failure by the Bank to notify an applicant within 6 months of receipt of an application or, where an application is incomplete, within 6 months of receipt of the complete information required, in accordance with *subsection (1)*, is an appealable decision for the purposes of Part VIIA of the Act of 1942.]
+
+F79[(5) The Bank may reject an application only if—
+
+(*a*) there are reasonable grounds for doing so on the basis of the criteria specified in section 9GA(1), or
+
+(*b*) the information provided by the applicant is incomplete.
+
+(6) The Bank shall not assess an application in terms of the economic needs of the market.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F74: Inserted (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 154(1)(e), in operation as per reg. 1(2).
+>
+> F75, F76: Substituted (4.11.2014) by *European Union (Single Supervisory Mechanism) Regulations 2014* (S.I. No. 495 of 2014), reg. 17(a)-(c), in operation as per reg. 1(2).
+>
+> F77: Inserted (18.09.2014) by *European Union (Insurance and Reinsurance Groups and Financial Conglomerates) (Amendment) Regulations 2014* (S.I. No. 416 of 2014), reg. 2(4) and sch. 4 item 1.
+>
+> F78: Inserted (1.05.2018) by *European Union (Capital Requirements) (Amendment) Regulations 2018* (S.I. No. 150 of 2018), reg. 3.
+>
+> F79: Inserted (29.12.2020) by *European Union (Capital Requirements) (Amendment) Regulations 2020* (S.I. No. 710 of 2020), reg. 58(h), in operation as per reg. 1(2).
+
+### 9J. Prior consultation of competent authorities
+
+F80[**9J**.—(1) The Bank shall consult the competent authorities of another Member State before F81[taking a draft decision to propose to the ECB to grant a licence] where the credit institution is—
+
+(*a*) a subsidiary of a credit institution authorised in that other Member State,
+
+(*b*) a subsidiary of the parent undertaking of a credit institution authorised in that other Member State, or
+
+(*c*) controlled by the same natural or legal persons as those who control a credit institution authorised in that other Member State.
+
+(2) The Bank shall, before F81[taking a draft decision to propose to the ECB to grant a licence], consult the competent authority that is responsible for the supervision of insurance undertakings or investment firms in the Member State concerned where the credit institution is—
+
+(*a*) a subsidiary of an insurance undertaking or investment firm authorised in the European Union,
+
+(*b*) a subsidiary of the parent undertaking of an insurance undertaking or investment firm authorised in the European Union, or
+
+(*c*) controlled by the same natural or legal persons as those who control an insurance undertaking or investment firm authorised in the European Union.
+
+(3) The Bank shall in particular—
+
+(*a*) consult, in accordance with *paragraphs (1)* and *(2)*, when assessing the suitability of the shareholders and the reputation and experience of members of the management body involved in the management of another entity of the same group, and
+
+(*b*) exchange with the competent authorities of other Member States any information regarding the suitability of shareholders and the reputation and experience of members of the management body which is of relevance for the granting of an authorisation and for the ongoing assessment of compliance with operating conditions.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F80: Inserted (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 154(1)(e), in operation as per reg. 1(2).
+>
+> F81: Substituted (4.11.2014) by *European Union (Single Supervisory Mechanism) Regulations 2014* (S.I. No. 495 of 2014), reg. 18, in operation as per reg. 1(2).
+
+### 10. Conditions of licences.
+
+F82[**10.**—(1) Subject to *subsections (2)* and *(2A)* of this section, a licence F83[...] shall be subject to such conditions, if any, as—
+
+(*a*) in the case of a licence, the ECB may impose and specify at the time of the grant thereof following a proposal by the Bank, being conditions which in the opinion of the Bank are calculated to promote the orderly and proper regulation of banking,
+
+(*b*) in the case of an authorisation under *section 9A(2)*, the Bank may impose and specify at the time of the grant thereof, being conditions which in the opinion of the Bank are calculated to promote the orderly and proper regulation of banking.
+
+(2) The Bank may, in the case of a licence, propose to the ECB that the conditions of a licence be amended, revoked or added to and it may propose to the ECB that conditions be imposed by the ECB in relation to a licence from time to time if in the opinion of the Bank the amendment, revocation, addition or imposition is calculated to promote the orderly and proper regulation of banking.
+
+(2A) F84[...]
+
+(3) Whenever the Bank proposes that a condition be imposed in relation to a licence F85[...] or that the conditions of a licence be added to or amended-
+
+(*a*) it shall notify in writing the person who holds the licence F86[...] or to whom the licence is intended to be granted that it proposes to impose a condition in relation to the licence F87[...] or to amend or add to the conditions of the licence F88[...], as the case may be, and of its reasons for so proposing and that the person may, within twenty-one days after the date of the giving of the notification, make representations in writing to the Bank in relation to the proposed imposition, amendment or addition, as the case may be, and shall specify in the notification, the condition or the amendment or addition, as the case may be,
+
+(*b*) the person may make such representations to the Bank within the time aforesaid, and
+
+F89[(*c*) the Bank shall in the case of a licence, before deciding to propose to the ECB to impose the condition or amend or add to the conditions of the licence, as the case may be, consider any representations duly made to it under this subsection in relation to the proposed imposition, amendment or addition, as the case may be, and where, after so considering, the Bank decides to propose an imposition, amendment or addition, as the case may be, that differs from that specified in the notification concerned, it shall not be necessary to give a new notification under this subsection if the difference results in the condition concerned being no more onerous than would be the case had the Bank decided to propose to the ECB to impose the condition or amend or add to the conditions of the licence, as the case may be, in accordance with the notification concerned.]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F82: Substituted (4.11.2014) by *European Union (Single Supervisory Mechanism) Regulations 2014* (S.I. No. 495 of 2014), reg. 19, in operation as per reg. 1(2).
+>
+> F83, F84, F85, F86, F87, F88: Deleted (10.07.2026) by *European Union (Capital Requirements) (Amendment) Regulations 2026* (S.I. No. 326 of 2026), reg. 60(d)(i), (ii), (iii)(I), (iii)(II).
+>
+> F89: Substituted (10.07.2026) by *European Union (Capital Requirements) (Amendment) Regulations 2026* (S.I. No. 326 of 2026), reg. 60(d)(iii)(III).
+>
+> **Editorial Notes:**
+>
+> E33: Previous affecting provision: subs. (3A) inserted (18.09.2014) by *European Union (Insurance and Reinsurance Groups and Financial Conglomerates) (Amendment) Regulations 2014* (S.I. No. 416 of 2014), reg. 2(4) and sch. 4 item 2; section substituted (4.11.2014) as per F-note above.
+>
+> E34: Previous affecting provision: section amended (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 5(1) and sch. 2 part 2 item 3; section substituted (4.11.2014) as per F-note above.
+>
+> E35: Previous affecting provision: subs. (3)(c) substituted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 33, S.I. No. 176 of 1989; section substituted (4.11.2014) as per F-note above.
+>
+> E36: Previous affecting provision: power pursuant to subs. (4) exercised (4.10.1971) by *Central Bank Act 1971 (Condition of Licences) Order 1971* (S.I. No. 283 of 1971); enabling provision substituted (4.11.2014) as per F-note above.
+
+### 11. Revocation of licences.
+
+F90[**11.—**(1) The Bank may—
+
+(*a*) F91[submit a proposal to the ECB to withdraw a licence] if the holder of the licence so requests,
+
+(*b*) F91[submit a proposal to the ECB to withdraw a licence] if the holder of the licence—
+
+(i) (I) has not commenced to carry on banking business within twelve months of the date on which the licence was granted, or
+
+(II) has ceased to carry on banking business and has not carried it on during a period of more than six months immediately following the cesser,
+
+(ii) being a company, is being wound up,
+
+(iii) is a credit institution to which F101[*section 9F(b)* of this Act] relates, which is being duly wound up or otherwise dissolved,
+
+(iv) has obtained the licence through false statements or any other irregular means,
+
+(v) becomes unable to meet his obligations to his creditors or suspends payments lawfully due by him or no longer possesses sufficient own funds (being own funds to which Council Directive 77/780/EEC of 12 December, 1977, relates) or can no longer be relied upon to fulfil his obligations towards his creditors, and in particular no longer provides security for the assets entrusted to him,
+
+(vi) fails to maintain a deposit in the Bank of an amount determined in accordance with section 55 of the Central Bank Act, 1989,
+
+(vii) is convicted on indictment of an offence under any provision of this Act or an offence involving fraud, dishonesty or breach of trust,
+
+(viii) has his head office in another state that is a member of the European Communities and the authority in that state that exercises in that state functions corresponding to those of the Bank under this Chapter has withdrawn authorisation from the institution of which the holder is a branch,
+
+F102[(ix) no longer fulfils the conditions under which the licence was granted,
+
+(x) no longer meets the prudential requirements—
+
+F104[(I) set out in Part Three (other than Articles 92a and 92b), Four or Six of the Capital Requirements Regulation, or]
+
+(II) imposed under F105[Article 92(2)(a) or 93 of the Capital Requirements Regulation], or can no longer be relied on to fulfil its obligations towards its creditors, and, in particular, no longer provides security for the assets entrusted to it F107[by its depositors,]
+
+(xi) commits one of the breaches referred to in Regulation 55 of the European Union (Capital Requirements) Regulations 2014 F106[(S.I. No. 158 of 2014),]]
+
+F108[(xii) uses its licence exclusively to engage in the activities referred to in point (1)(b) of Article 4(1) of the Capital Requirements Regulation and has, for a period of five consecutive years, average total assets below the thresholds set out in that Article.]
+
+F109[(xiii) meets all of the following conditions:
+
+(I) it has been determined to be failing or likely to fail in accordance with Article 32(1), point (a), of Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014[^49]or in accordance with Article 18(1), point (a), of Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014[^50];
+
+(II) the resolution authority considers that the condition set out in Article 32(1), point (b), of Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014[^51] or in Article 18(1), point (b), of Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014[^52] is met with respect to that credit institution;
+
+(III) the resolution authority considers that the condition set out in Article 32(1), point (c), of Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014[^53] or in Article 18(1), point (c), of Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014[^54] is not met with respect to that credit institution.]
+
+F110[(*bb*) F91[submit a proposal to the ECB to withdraw a licence] if the business of, or the corporate structure of, the holder of the licence has been so organised or the holder of the licence has come under the control of any other undertaking not supervised by the Bank such that the holder is no longer capable of being supervised to the satisfaction of the Bank.]
+
+(*c*) F91[submit a proposal to the ECB to withdraw a licence] if, since the grant of the licence, the circumstances relevant to the grant have changed and are such that, if an application for a licence were made in the changed circumstances, it would be refused.
+
+(2) Whenever the Bank proposes to F92[submit a proposal to the ECB to withdraw a licence] (other than in circumstances to which *paragraph (a)* or *(b)**(viii)* of *subsection (1)* of this section relate)—
+
+(*a*) it shall notify the holder in writing F111[...] of the F94[reasons for the withdrawal] and that the holder may, within twenty-one days after the date of the giving of the notification, make representations in writing to the F93[Bank] in relation to the F95[proposed withdrawal],
+
+(*b*) the holder may make such representations in writing to the F96[Bank] within the time aforesaid, and
+
+(*c*) the F96[Bank] shall F112[...] consider any representations duly made to F97[it] under this subsection in relation to the F97[proposed withdrawal].
+
+F103[(2A) F113[...]]
+
+(3) Where a F98[licence is withdrawn by the ECB] and the person who was the holder of the licence is not a company which is being wound up—
+
+(*a*) that person shall continue to be subject to the duties and obligations imposed on him by or under the Central Bank Acts, 1942 to 1989, until all liabilities of that person in respect of deposits (including deposits on current accounts) or other repayable funds accepted by him from persons (in this subsection referred to as depositors) have been discharged to the satisfaction of the Bank,
+
+(*b*) that person shall, as soon as possible after the F98[licence is withdrawn by the ECB]—
+
+(i) notify the Bank and
+
+(ii) as far as is reasonably practicable, notify every depositor concerned,
+
+of the measures he is taking or proposes to take to discharge in full and without undue delay his liabilities in respect of those deposits,
+
+(*c*) in the case where—
+
+(i) that person has notified the Bank in accordance with *paragraph (b)* of this subsection and the Bank is of the opinion that the measures being taken or proposed to be taken for the purposes of that paragraph are not satisfactory, or
+
+(ii) that person has not so notified the Bank and the Bank is of the opinion that he has failed to so notify as soon as possible after the F98[licence is withdrawn by the ECB], or
+
+(iii) the Bank is of the opinion that that person has not taken all reasonable steps to so notify every depositor concerned,
+
+then the Bank may give a direction in writing to that person for such period, not exceeding six months, as may be specified therein, prohibiting him from—
+
+(I) dealing with or disposing of any of his assets or specified assets in any manner, or
+
+(II) engaging in any transaction or class of transaction or specified transaction, or
+
+(III) making payments,
+
+without the prior authorisation of the Bank, and the Bank may require that person to prepare and submit to it for its approval within two months of the direction, a scheme for the orderly discharge in full of his liabilities to the depositors concerned,
+
+(*d*) where a direction to which this subsection relates is given the provisions of section 21 of this Act shall apply with any necessary modifications.
+
+(4) (*a*) Where a F99[a licence is withdrawn by the ECB] and the holder of the licence is a company which is being wound up, the liquidator of the company shall, in addition to his duties and obligations in respect of the winding up, be subject to the duties and obligations to which the company would be subject were it a company to which *subsection (3)* of this section relates and that subsection shall, for the purposes of this subsection, be construed accordingly.
+
+(*b*) Notwithstanding *paragraph (a)* of this subsection, the Bank may, F99[where the ECB withdraws a licence and the Bank] considers it appropriate in the circumstances, remove in writing the duty and obligation imposed on the liquidator concerned to comply with *paragraph (b)* (as construed by this subsection) of *subsection (3)* of this section and may impose in writing on that liquidator such further or other duty and obligation which corresponds to that set out in the said *paragraph (b)*.
+
+(5) If the holder of a licence—
+
+(*a*) has his head office in another state that is a member of the European Communities, or
+
+(*b*) carries on banking business through a branch established in another such state,
+
+the Bank shall, before deciding to F100[submit a proposal to the ECB to withdraw a licence], consult with the authority in that state that exercises in that state functions corresponding to those of the Bank under this Part:
+
+Provided however that if immediate action by the Bank is called for it shall not be necessary for the Bank to consult as aforesaid but in such a case the Bank shall notify the authority concerned of the F100[withdrawal of the licence].]
+
+F115[(6) In this section—
+
+(*a*) an undertaking shall be treated as a fellow subsidiary of another undertaking if both are subsidiaries of the same undertaking but neither is a subsidiary of the other undertaking,
+
+(*b*) “subsidiary undertaking” shall be construed in accordance with Regulation 4 of the European Communities (Companies: Group Accounts) Regulations 1992 (S.I. No. 201 of 1992 ) and, in relation to an undertaking incorporated in, or formed under the law of another, Member State, means any undertaking which is a subsidiary undertaking within the meaning of any rule or law in force in that State for the purposes of giving effect to Council Directive No. 83/349/EEC of 13 June 1983[^55],
+
+(*c*) “control” has the meaning it has in the European Union (Capital Requirements) Regulations 2014 (S.I. No. 158 of 2014), and
+
+(*d*) “associated undertaking” has the meaning it has in the European Communities (Companies: Group Accounts) Regulations, 1992 (S.I. No. 201 of 1992).]
+
+F116[(7) F114[...]]
+
+F117[(8) F114[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F90: Substituted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 34, S.I. No. 176 of 1989.
+>
+> F91, F92, F93, F94, F95, F96, F97, F98, F99, F100: Substituted (4.11.2014) by *European Union (Single Supervisory Mechanism) Regulations 2014* (S.I. No. 495 of 2014), reg. 20(a), (b)(i), (ii)(II), (III), (IV), (iii), (iv)(II), (III), (d), (e)(i), (e)(ii), (f)(i), (f)(ii) in operation as per reg. 1(2).
+>
+> F101: Substituted (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 154(1)(f)(i), in operation as per reg. 1(2).
+>
+> F102, F103: Inserted (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 154(1)(f)(ii), (iii), in operation as per reg. 1(2).
+>
+> F104: Substituted (29.12.2020) by *European Union (Capital Requirements) (Amendment) Regulations 2020* (S.I. No. 710 of 2020), reg. 58(i), in operation as per reg. 1(2).
+>
+> F105, F106: Substituted (10.07.2026) by *European Union (Capital Requirements) (Amendment) Regulations 2026* (S.I. No. 326 of 2026), reg. 60(e)(i), (ii).
+>
+> F107: Substituted (21.09.2021) by *European Union (Investment Firms) Regulations 2021* (S.I. No. 355 of 2021), reg. 53(b)(i).
+>
+> F108: Inserted (21.09.2021) by *European Union (Investment Firms) Regulations 2021* (S.I. No. 355 of 2021), reg. 53(b)(iii).
+>
+> F109: Inserted (10.07.2026) by *European Union (Capital Requirements) (Amendment) Regulations 2026* (S.I. No. 326 of 2026), reg. 60(e)(iii).
+>
+> F110: Inserted (9.04.1997) by *Central Bank Act 1997* (8/1997), s. 71(a), S.I. No. 150 of 1997.
+>
+> F111, F112, F113, F114: Deleted (4.11.2014) by *European Union (Single Supervisory Mechanism) Regulations 2014* (S.I. No. 495 of 2014), reg. 20(b)(ii)(I), (iv)(I), (c), (g) in operation as per reg. 1(2).
+>
+> F115: Inserted (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 154(1)(f)(iv), in operation as per reg. 1(2).
+>
+> F116: Inserted (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 154(1)(f)(v).
+>
+> F117: Inserted (18.09.2014) by *European Union (Insurance and Reinsurance Groups and Financial Conglomerates) (Amendment) Regulations 2014* (S.I. No. 416 of 2014), reg. 2(4) and sch. 4 item 3.
+>
+> **Editorial Notes:**
+>
+> E37: Previous affecting provision: subs. (1)(b)(xi) amended (21.09.2021) by *European Union (Investment Firms) Regulations 2021* (S.I. No. 355 of 2021), reg. 53(b)(ii); substituted (10.07.2026) as per F-note above.
+>
+> E38: Previous affecting provision: subs. (6) inserted (9.04.1997) by *Central Bank Act 1997* (8/1997), s. 71(b), S.I. No. 150 of 1997; substituted (31.03.2014) as per F-note above.
+>
+> E39: Previous affecting provision: section amended (21.12.1979) by *European Communities (Licensing and Supervision of Banks) Regulations 1979* (S.I. No. 414 of 1979), regs. 5(a), (b); section substituted (12.07.1989) as per F-note above.
+
+### 12. Publication of names of holders of licences and notices of revocation of licences.
+
+**12.**— (1) The Bank shall publish from time to time, but not less frequently than once a year, in such manner as it thinks fit the names of the holders of licences F118[and F119[of the holders of third-country branch authorisations]].
+
+F122[(2) The Bank shall as soon as may be after the revocation of a licence F118[or F120[third-country branch authorisation]], publish notice of the revocation in such manner as it thinks fit. It shall notify any such revocation to the European Commission, F118[European Banking Committee] and to the European Banking Authority.
+
+(3) The Bank shall keep each of the following informed of the names of the holders of licences F118[and F121[of the holders of third-country branch authorisations]], that is to say:
+
+(*a*) the Registrar of the Supreme Court;
+
+(*b*) the officer for the time being managing the Central Office of the High Court;
+
+(*c*) every County Registrar;
+
+(*d*) every District Court Clerk;
+
+F118[(*dd*) the European Banking Committee;]
+
+(*e*) the European Banking Authority.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F118: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 5(1) and sch. 2 part 2 item 4(a)-(c), S.I. No. 287 of 2013.
+>
+> F119, F120, F121: Substituted (10.07.2026) by *European Union (Capital Requirements) (Amendment) Regulations 2026* (S.I. No. 326 of 2026), reg. 60(f).
+>
+> F122: Substituted (26.11.2011) by *European Union (Credit Institutions) (European Supervisory Authorities) Regulations 2011* (S.I. No. 637 of 2011), reg. 2(1) and sch. 1.
+>
+> **Editorial Notes:**
+>
+> E40: Previous affecting provision: subs. (3) substituted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 35, S.I. No. 176 of 1989; substituted (26.11.2011) as per F-note above.
+>
+> E41: Previous affecting provision: subs. (3) amended (21.12.1977) by *European Communities (Licensing and Supervision of Banks) Regulations 1979* (S.I. No. 414 of 1979), reg. 6; substituted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 35.
+
+### 13. Deposits at Bank for purposes of licences.
+
+**13.**— (1) The amount of a deposit maintained by a holder of a licence in the Bank pursuant to section 7 of this Act (in this section referred to as the deposit) shall be five per cent of the total deposits (including deposits on current accounts) at offices in the State of the holder but shall not be less than £20,000 nor more than £500,000.
+
+(2) The amount of the deposit shall be calculated by the Bank as soon as may be after the commencement of this section or at the time of the application for the licence as may be appropriate and shall be re-calculated twice yearly (at intervals which, in so far as is practicable, are of equal length) by reference to returns made by the holder of the licence to the Bank under *section 18* of this Act.
+
+(3) The amount of the deposit shall, where necessary, be increased to the appropriate amount re-calculated under *subsection (2)* of this section by the holder of the licence concerned not later than seven days after the date of the receipt by him of notification from the Bank of the amount required to effect the increase.
+
+(4) The Bank may settle the amount of the deposit at the nearest round figure in hundreds of pounds.
+
+(5) The deposit shall carry interest at such a rate (not being less than the Bank's minimum rediscount rate for the time being for exchequer bills fixed and published by it under section 7(1)(*g*) of the Act of 1942) and payable in such manner and at such times as may be determined by the Bank from time to time.
+
+(6) Any charge purported to be created on the deposit shall be void.
+
+(7) Notwithstanding anything contained in this Act, where the nominal value of the issued capital in stock or shares of a business
+
+(*a*) to which a licence relates or in relation to which it is proposed to grant a licence, and
+
+(*b*) in relation to which a banker's licence was in force immediately before the commencement of this section,
+
+does not exceed fifteen thousand pounds, the deposit under section 7 of this Act may, subject to the consent of the Bank and to such conditions as the Bank may impose, be made wholly or partly by depositing with the Bank securities which are equal in value to the amount of the deposit under the said section 7 or (as the case may be) to the amount of the part thereof which is not in money.
+
+(8) The deposit shall not be subject to any form of execution in satisfaction of any claim of, or any judgment, order or decree of any court in the State in favour of, any creditor, otherwise than under and in accordance with the provisions of this Act.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C20: Application of section ceased (1.11.1989) by *Central Bank Act 1989* (16/1989), s. 55(1), S.I. No. 176 of 1989.
+>
+> **Deposits by holders of licences.**
+>
+> **55**.—(1) Upon the establishment of the deposit protection account, the deposit standing maintained with the Bank immediately before the coming into operation of this section by each holder of a licence and calculated in accordance with section 13 of the Act of 1971 shall be transferred to that account in respect of that holder and, accordingly, that section shall cease to have effect upon such coming into operation.
+>
+> (2) The amount of a deposit maintained by a holder of a licence in the Bank pursuant to section 7 of the Act of 1971 (in this section referred to as the deposit) shall, subject to *subsection (5)*, be 0.2 per cent., or such other proportion as may be specified by regulations under section 72(2), of the total—
+>
+> (*a*) Irish pound deposits (including deposits on current accounts but, subject to *paragraph (b)*, excluding interbank deposits and deposits represented by negotiable certificates of deposit), and
+>
+> (*b*) such other deposits as may be specified by regulations under *section 72(2)* in respect of all or any class or category of holders of licences,
+>
+> at offices in the State of the holder, but shall not be less than £20,000 and, accordingly, the reference in the said section 7 to section 13 of the Act of 1971 shall be construed as a reference to this section.
+
+### 14. Restriction on use of certain words.
+
+**14.**—(1) (*a*) This subsection applies to a building society, an industrial and provident society, a friendly society, a credit union and an investment trust company.
+
+(*b*) A person to whom this subsection applies shall not use in his or its name or description any of the words “bank”, “banker” or “banking” or any word which is a variant, derivative or translation of or is analogous to any of those words.
+
+(2) There shall not be used in the name or description of a unit trust scheme any of the words “bank”, “banker” or “banking” or any word which is a variant, derivative or translation of or is analogous to any of those words.
+
+### 15. Provisions in relation to incorporation of banking companies.
+
+**15.**—(1) Before the incorporation of a company under the Companies Act, 1963, which, if incorporated, would, in the opinion of the registrar of companies, within the meaning of that Act, be holding itself out as a banker or have as one of its objects in its memorandum of association the carrying on of banking business, the registrar shall notify the Bank of the delivery to him of the memorandum and articles, within the meaning of that Act, of the company and shall not give a certificate of incorporation under that Act in respect of the company unless and until the Bank indicates to the registrar its willingness to grant a licence to the company or to exempt it under section 8 of this Act.
+
+F123[(2) If, on delivery of documents under section 352 of the Companies Act 1963, or under regulation 4 or 7 of the European Communities (Branch Disclosures) Regulations 1993 (S.I. No. 395 of 1993), it appears to the registrar of companies that the company to which those documents relate—
+
+(*a*) would be holding itself out as carrying on business as a banker in the State, or
+
+(*b*) would have as one of its objects in its memorandum of association the carrying on of banking business in the State,
+
+the registrar shall give the Bank written notice of the matter.]
+
+(3) Whenever the registrar of companies is given notice of an alteration in any instrument constituting or defining the constitution of any company, he shall inform the Bank as soon as may be of the alteration if, in the opinion of the registrar, the company would, by virtue of the alteration, be holding itself out as a banker or have as one of its objects the carrying on of banking business.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F123: Substituted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 4 para. 4, S.I. No. 455 of 2004.
+>
+> **Modifications (not altering text):**
+>
+> C21: Application restricted (28.07.2014) by *Strategic Banking Corporation of Ireland Act 2014* (22/2014), s. 5(6), S.I. No. 359 of 2014.
+>
+> **Formation of Strategic Banking Corporation of Ireland**
+>
+> **5**. …
+>
+> (6) Sections 7 (1), 8 and 15 of the Central Bank Act 1971 do not apply to the SBCI or a person who acts on behalf of the SBCI.
+>
+> C22: Certain exemptions relating to “TSB” and “TSB Bank” provided for by *Trustee Savings Bank Act 1989* (21/1989), s. 57(11), S.I. No. 21 of 1990, as substituted (28.03.2001) by *Trustee Savings Banks (Amendment) Act 2001*, s. 1, commenced on enactment.
+>
+> **[57.**— …
+>
+> (11) An order may authorise the relevant company, a banking company and any subsidiary thereof to include within its name, or use in connection with its business, “TSB” or “TSB Bank” on such conditions as may, after consultation with the Central Bank, be specified in the order, and section 14 of this Act and sections 15 and 16 of the Central Bank Act, 1971, shall not apply in relation to the use of “TSB” or “TSB Bank” by the relevant company, the banking company or any such subsidiary if an order grants such authorisation.
+>
+> ...**]**
+
+### 16. Provisions in relation to registration or change of business name.
+
+**16.**—(1)The registrar for the purposes of the Registration of Business Names Act, 1963, shall notify the Bank of any proposal to register a name or a change in a name under that Act if, in the opinion of the registrar, there would, by virtue of the proposal, be in relation to the business to which the proposal relates, a holding out as a banker or as carrying on banking business and the said registrar shall not register the name or change of name unless and until the Bank indicates to him its willingness to grant a licence in respect of the business concerned or to exempt it under section 8 of this Act F124[or the Bank indicates to the registrar that the company is one to which the F125[European Union (Capital Requirements) Regulations 2014 (S.I. No. 158 of 2014)], relate].
+
+(2) The Minister for Industry and Commerce shall consult the Bank in relation to any proposal to change the name of a company (within the meaning of the Companies Act, 1963) if, in the opinion of that Minister, the company would, by virtue of the change, be holding itself out as a banker or appear to be carrying on banking business.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F124: Inserted (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations 1992* (S.I. No. 395 of 1992), reg. 39(a), in operation as per reg. 1(2).
+>
+> F125: Substituted (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 154(1)(g), in operation as per reg. 1(2).
+>
+> **Modifications (not altering text):**
+>
+> C23: Certain exemptions relating to “TSB” and “TSB Bank” provided for by *Trustee Savings Bank Act 1989* (21/1989), s. 57(11), S.I. No. 21 of 1990, as substituted (28.03.2001) by *Trustee Savings Banks (Amendment) Act 2001*, s. 1, commenced on enactment.
+>
+> **[57.**— …
+>
+> (11) An order may authorise the relevant company, a banking company and any subsidiary thereof to include within its name, or use in connection with its business, “TSB” or “TSB Bank” on such conditions as may, after consultation with the Central Bank, be specified in the order, and section 14 of this Act and sections 15 and 16 of the Central Bank Act, 1971, shall not apply in relation to the use of “TSB” or “TSB Bank” by the relevant company, the banking company or any such subsidiary if an order grants such authorisation.
+>
+> ...**]**
+
+### 17. Holders of licences etc. to keep certain records.
+
+F126[F127[**17.** —(1) The holder of a licence or third-country branch authorisation and each related body shall—
+
+(*a*) keep at an office or offices within the State such records as may be specified from time to time by the Bank, in the due discharge by the Bank of its functions, and
+
+(*b*) notify the Bank in writing of the address of the office or offices where those records are kept.
+
+(2) Different kinds of records may be specified under this subsection for different licence holders or holders of third country branch authorisations and related bodies.
+
+(3) The requirement imposed by *subsection (1)* is additional to any other requirement imposed by law with respect to the keeping of records by the holder of a licence or third-country branch authorisation and by related bodies.
+
+(4) The holder of a licence or third-country branch authorisation and each related body shall keep the records referred to in *subsection (1)* for such period as the Bank notifies in writing to that holder.
+
+(5) The holder of a licence or third-country branch authorisation may keep its documents wholly or partly in a non-legible form so long as they are capable of being reproduced in a legible form.]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F126: Substituted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), ss. 35(1), 36 and sch. 1 part 6 item 2, S.I. No. 176 of 1989, subject to transitional provision in sch. 3 para. 13.
+>
+> F127: Substituted (10.07.2026) by *European Union (Capital Requirements) (Amendment) Regulations 2026* (S.I. No. 326 of 2026), reg. 60(g).
+>
+> **Modifications (not altering text):**
+>
+> C24: Application of section extended (9.04.1997) by *Central Bank Act 1997* (8/1997), s. 11, S.I. No. 150 of 1997.
+>
+> **Application of section 17 of Act of 1971**
+>
+> **11.**—Without prejudice to the provisions of *section 9*, section 17 (which relates to books and records of holders of licences) (as amended by section 36 of the Act of 1989) of the Act of 1971 shall apply as if—
+>
+> (*a*) every payment system to which this Part applies, and
+>
+> (*b*) every member of that system,
+>
+> who is not at the time of the commencement of this section the holder of a licence for the purpose of the Central Bank Acts, 1942 to 1989, and this Act, were the holder of such a licence.
+>
+> C25: Application of section extended (9.04.1997) by *Central Bank Act 1997* (8/1997), s. 31, S.I. No. 150 of 1997.
+>
+> **Application of section 17 of Act of 1971 to *bureaux de change*.**
+>
+> **31.**—Without prejudice to section 30 of this Act, section 17 of the Act of 1971 shall apply as if every person authorised by the Bank to carry on bureau de change business were the holder of a licence for the purposes of the Central Bank Acts, 1942 to 1997.
+>
+> C26: Application of section extended (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 93, commenced on enactment.
+>
+> **Application of sections 17 and 18 of Act of 1971**
+>
+> **93.**—Without prejudice to the provisions of section 92, the provisions of section 17 (which relates to books and records of holders of licences) and section 18 (which relates to furnishing of information to the Bank) of the Act of 1971 (as amended by this Part) shall apply to every financial institution to which this Chapter relates and to every associated enterprise (within the meaning of those sections) of such an institution as if each such institution were the holder of a licence for the purposes of the Central Bank Acts, 1942 to 1989.
+>
+> C27: Application of section extended (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 103, commenced on enactment.
+>
+> **Application of section 17 of Act of 1971**
+>
+> **103.**—Without prejudice to the provisions of *section 101* the provisions of section 17 (which relate to books and records of holders of licences) of the Act of 1971 (as amended by this Part) shall apply as if every exchange to which this Chapter applies and every member of that exchange were the holder of a licence for the purpose of the Central Bank Acts, 1942 to 1989.
+>
+> C28: Application of section extended (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 112, commenced on enactment.
+>
+> **Application of section 17 of Act of 1971**
+>
+> **112.**—Without prejudice to the provisions of *section 111*, the provisions of section 17 (which relates to books and records of holders of licences) of the Act of 1971 (as amended by this Part) shall apply as if every person authorised by the Bank to carry on moneybroking business were the holder of a licence for the purposes of the Central Bank Acts, 1942 to 1989.
+>
+> **Editorial Notes:**
+>
+> E42: Previous affecting provision: subs. (1) amended (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 5(1) and sch. 2 part 2 item 5(a), (b), S.I. No. 287 of 2013; section substituted (10.07.2026) as per F-note above.
+>
+> E43: Previous affecting provision: subs. (5) deleted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 4 para. 5, S.I. No. 455 of 2004; section substituted (10.07.2026) as per F-note above.
+>
+> E44: Previous affecting provision: application extended and references construed (9.04.1997) by *Central Bank Act 1997* (8/1997), ss. 11, 31; section substituted (1.05.2003) as per F-note above.
+>
+> E45: Previous affecting provision: subs. (7) substituted (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations 1992* (S.I. No. 395 of 1992), reg. 39(b); section substituted (1.05.2003) as per F-note above.
+>
+> E46: Previous affecting provision: application extended and references construed (1.01.1993) by *European Communities (Consolidated Supervision of Credit Institutions) Regulations 1992* (S.I. No. 396 of 1992), reg. 4(1); section substituted (1.05.2003) as per F-note above.
+>
+> E47: Previous affecting provision: application extended and references construed (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations, 1992* (S.I. No. 395 of 1992), reg. 18(3); section substituted (1.05.2003) as per F-note above.
+>
+> E48: Previous affecting provision: section substituted (12.07.1989) by *Central Bank Act 1989* (16/1989), ss. 36; substituted (1.05.2003) as per F-note above.
+>
+> E49: Previous affecting provision: application extended (9.09.1985) by *European Communities (Consolidated Supervision of Banks) Regulations 1985* (S.I. No. 302 of 1985), regs. 3-5; section substituted (12.07.1989) as per E-note above.
+
+### 17A. Powers of authorised persons with respect to holders of licences.
+
+F128[**17A.**— F129[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F128: Inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 6 item 2, S.I. No. 160 of 2003.
+>
+> F129: Repealed (19.12.2012) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 70(1) and sch. 2 part 1 item 1, subject to transitional provisions in s. 70(5)-(8).
+>
+> **Editorial Notes:**
+>
+> E50: Previous affecting provision: subs. (8) amended (1.11.2010) by *Central Bank Reform Act 2010* (23/2010), ss. 14(4) and sch. 1 part 3 item 3; section repealed (19.12.2012) as per F-note above.
+>
+> E51: Previous affecting provision: application extended and references construed (18.12.2009) by *European Communities (Credit Institutions) (Consolidated Supervision) Regulations 2009* (S.I. No. 475 of 2009), regs. 20(1), (4); section repealed (19.12.2012) as per F-note above.
+>
+> E52: Previous affecting provision: subs. (8) amended (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 4 para. 6; section repealed (19.12.2012) as per F-note above.
+
+### 18. Holders of licences and others to provide Bank with required information and returns.
+
+F130[**18.**—(1) This section applies to the following persons:
+
+(*a*) a person who is the holder of a licence F131[or F132[third-country branch authorisation]];
+
+(*b*) any person who carries on—
+
+F133[(i) a business of an associated company or related body of the holder of a licence or third-country branch authorisation, or
+
+(ii) a business in respect of which the person is, because of *section 7(4)(b)*, exempt from being required to hold a licence or third-country branch authorisation, or]
+
+(iii) a business as an investment trust company, or
+
+(iv) a business as a moneybroker, or
+
+(v) a business as a financial intermediary, or
+
+(vi) a business of issuing, holding or otherwise participating in any market in financial instruments, including those to which Chapter VIII of Part II of the Central Bank Act 1989 applies.
+
+(2) A person to whom this section applies shall provide the Bank, at such times, or within such periods, as the Bank specifies from time to time, with such information and returns concerning the relevant business carried on by the person as the Bank specifies from time to time.
+
+(3) A person to whom this section applies shall, at such time or within such period as the Bank specifies, provide the Bank with such information or return (not being information or a return specified under *subsection (2)*) as it requests in writing concerning the relevant business carried on by the person.
+
+(4) A reporting agent designated by the European Central Bank shall provide the Bank or the European Central Bank, at such times or within such periods as the Bank or the European Central Bank specifies from time to time, with such information and returns concerning the activities of the agent as the Bank or the European Central Bank specifies from time to time.
+
+(5) A reporting agent designated by the European Central Bank shall, at such time or within such period as the Bank or European Central Bank specifies, provide the Bank or European Central Bank with such information or return (not being information or a return specified under *subsection (4)*) as the Bank or European Central Bank requests in writing concerning the activities of the agent.
+
+(6) The Bank may specify information or a return for the purposes of this section only if it considers it necessary to have that information or return for the proper performance of the functions imposed, or the proper exercise of the powers conferred, on it by law.
+
+(7) The European Central Bank may specify information or a return for the purposes of *subsection (4)* or *(5)* only if that Bank considers it necessary to have that information or return for the proper performance by that Bank of tasks and duties imposed, or the proper exercise of the powers conferred, on that Bank by or under the Rome Treaty or the ESCB Statute.
+
+(8) A person shall not provide for the purpose of this section information or a return that the person knows to be false or misleading in a material respect.
+
+(9) This section applies to the business of an associated company or a related body only in so far as the information and returns sought by the Bank are, in its opinion, materially relevant to the proper appraisal of the business of the holder of the licence F131[or F134[third-country branch authorisation]] concerned.
+
+(10) In this section—
+
+“information and returns” and “information or return” include audited accounts and audited group accounts, and any other documents that are equivalent or correspond to audited accounts or audited group accounts;
+
+“money broker” has the same meaning as it has in section 108 of the Central Bank Act 1989, for the purposes of Chapter IX of that Act;
+
+“relevant business”, in relation to a person to whom this section applies, means—
+
+(*a*) in the case of a person who is the holder of a licence F131[or F135[third-country branch authorisation]], the banking business to which the licence relates, or
+
+(*b*) in the case of a person referred to in *subsection (1)(b)*, the business carried on by the person.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F130: Substituted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 4 para. 7, S.I. No. 455 of 2004.
+>
+> F131: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 5(1) and sch. 2 part 2 item 6, S.I. No. 287 of 2013.
+>
+> F132, F133, F134, F135: Substituted (10.07.2026) by *European Union (Capital Requirements) (Amendment) Regulations 2026* (S.I. No. 326 of 2026), reg. 60(h).
+>
+> **Modifications (not altering text):**
+>
+> C29: Application of section extended and references construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), regs. 143(1); in operation as per reg. 1(2).
+>
+> **Application of certain enactments**
+>
+> **143**. (1) Section 18 of the Act of 1971 applies to and in relation to a credit institution that is subject to consolidated supervision by the Bank as if—
+>
+> (*a*) references in that section to a holder of a licence under that Act were references to the credit institution, and
+>
+> (*b*) references in that section to a related body of a holder of such a licence were references to an associated enterprise of the credit institution.
+>
+> ...
+>
+> C30: Application of section extended and references construed (19.12.2009) by *European Communities (Credit Institutions) (Consolidated Supervision) Regulations 2009* (S.I. No. 475 of 2009), regs. 20(1), (4), in operation as per reg. 2.
+>
+> **20.** (1) Sections 17A (as amended by item 2 of Part 6 of Schedule 1 to the Central Bank and Financial Services Authority of Ireland Act 2003 (No. 12 of 2003)) and 18 (as amended by section 37 of the Central Bank Act 1989 (No. 16 of 1989)) of the Central Bank Act 1971 (No. 24 of 1971) apply to and in relation to a credit institution that is subject to consolidated supervision by the Bank as if—
+>
+> (*a*) references in either of those sections to a holder of a licence under that Act were references to the credit institution, and
+>
+> (*b*) references in either of those sections to a related body of a holder of such a licence were references to an associated enterprise of the credit institution.
+>
+> ...
+>
+> (4) The powers of an authorised person under section 17A of the Central Bank Act 1971, section 41 of the Building Societies Act 1989 or section 24A of the Trustee Savings Bank Act 1989 are exercisable, in relation to a proposed inspection of a credit institution, in relation to a partnership in which the institution has an interest, and whose business is or at the relevant time was, in the opinion of the Bank, materially relevant to the inspection of the institution.
+>
+> **Editorial Notes:**
+>
+> E53: Previous affecting provision: subs. (1) substituted (23.05.1998) by *Central Bank Act 1998* (2/1998), s. 8; section substituted (1.08.2004) as per F-note above.
+>
+> E54: Previous affecting provision: references construed (1.01.1993) by *European Communities (Consolidated Supervision of Credit Institutions) Regulations 1992* (S.I. No. 396 of 1992), reg. 4(1); section substituted (1.08.2004) as per F-note above.
+>
+> E55: Previous affecting provision: application extended and references construed (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations 1992* (S.I. No. 395 of 1992), reg. 18(3); section substituted (1.08.2004) as per F-note above.
+>
+> E56: Previous affecting provision: section substituted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 37; section substituted (1.08.2004) as per F-note above.
+>
+> E57: Previous affecting provision: application extended (12.07.1989) by *Central Bank Act 1989* (16/1989), ss. 93, 106(3)(a); section substituted (1.08.2004) as per F-note above.
+>
+> E58: Previous affecting provision: application extended and references construed (9.09.1985) by *European Communities (Consolidated Supervision of Banks) Regulations 1985* (S.I. No. 302 of 1985), regs. 3, 6; section substituted (12.07.1989) as per E-note above.
+
+### 19. Publication of business statements by holders of licences.
+
+**19.**—(1) A holder of a licence F136[or F137[third-country branch authorisation]] shall publish statements in respect of the business to which the licence F136[or F138[third-country branch authorisation]] relates in such form and manner and at such times as may be specified by the Bank from time to time for the purpose of the performance of its statutory functions.
+
+(2) Different forms may be specified by the Bank for the purposes of this section in relation to different holders of licences.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F136: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 5(1) and sch. 2 part 2 item 7, S.I. No. 287 of 2013.
+>
+> F137, F138: Substituted (10.07.2026) by *European Union (Capital Requirements) (Amendment) Regulations 2026* (S.I. No. 362 of 2026), reg. 60(i)(i).
+>
+> **Modifications (not altering text):**
+>
+> C31: References construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 152(a), in operation as per reg. 1(2).
+>
+> **152**. Notwithstanding Regulation 7(1), the references, however expressed, to the holder of a licence under section 9 of the Act of 1971, in—
+>
+> (a) sections 19 to 26, section 28, sections 31 to 42 or section 58 of the Act of 1971,
+>
+> …
+>
+> shall be construed so as to include any person who, but for the application of Regulation 7(1), was or would have been required to hold a licence under section 9 of the Act of 1971.
+>
+> **Editorial Notes:**
+>
+> E59: Previous affecting provision: references construed (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations 1992* (S.I. No. 395 of 1992), reg. 38(1)(a)(i), in operation as per reg. 1(2); revoked (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 161, in operation as per reg. 1, subject to transitional provisions.
+
+### 20. Displaying of financial statements by holders of licences.
+
+**20.**—(1) A holder of a licence F139[orF140[third-country branch authorisation]]—
+
+(*a*) shall display and at all times keep displayed in a conspicuous place in every office, branch or other place in which he carries on banking business and also, if the holder is a limited company incorporated in the State, in the registered office of the company, a statement (in the form required by this section) in relation to the banking business carried on by him, and
+
+(*b*) shall furnish on demand to each of his creditors and, if the holder is a limited company incorporated in or outside the State, to each member of the company, a copy of the latest such statement.
+
+(2) The statement required by this section to be displayed by a holder of a licence F139[or F141[third-country branch authorisation]] shall, in the case of an Associated Bank, be in the form of a copy of its latest balance sheet and, in every other case, be in such form as may be prescribed by the Bank.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F139: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 5(1) and sch. 2 part 2 item 8, S.I. No. 287 of 2013.
+>
+> F140, F141: Substituted (10.07.2026) by *European Union (Capital Requirements) (Amendment) Regulations 2026* (S.I. No. 362 of 2026), reg. 60(j).
+>
+> **Modifications (not altering text):**
+>
+> C32: References construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 152(a), in operation as per reg. 1(2).
+>
+> **152**. Notwithstanding Regulation 7(1), the references, however expressed, to the holder of a licence under section 9 of the Act of 1971, in—
+>
+> (a) sections 19 to 26, section 28, sections 31 to 42 or section 58 of the Act of 1971,
+>
+> …
+>
+> shall be construed so as to include any person who, but for the application of Regulation 7(1), was or would have been required to hold a licence under section 9 of the Act of 1971.
+>
+> **Editorial Notes:**
+>
+> E60: Previous affecting provision: references construed (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations 1992* (S.I. No. 395 of 1992), reg. 38(1)(a)(i), in operation as per reg. 1(2); revoked (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 161, in operation as per reg. 1, subject to transitional provisions.
+
+### 21. Directions by Bank to holders of licences.
+
+F142[**21.**—(1) In this section—
+
+“banking activity” means—
+
+(*a*) carrying on banking business, or
+
+(*b*) making payments other than those that are specifically connected with carrying on banking business, or
+
+(*c*) acquiring or disposing of assets or liabilities;
+
+F143["prescribed circumstance", in relation to the holder of a licence or third-country branch authorisation, means any of the following:
+
+(a) the holder has become or is likely to become unable to meet its obligations to its creditors;
+
+(b) the holder is not maintaining or is unlikely to be in a position to maintain adequate capital resources having regard to the volume and nature of the holder’s business;
+
+(c) the holder is failing or has failed to comply with a condition imposed in relation to the licence in accordance with section 10 or the third-country branch authorisation and the circumstances are such that the Bank considers that the stability and soundness of the holder are or will be affected by the failure;
+
+(d) the holder is conducting business in such a manner as to jeopardise and prejudice the security of deposits taken by it or the rights and interests of persons who made those deposits;
+
+(e) the holder and one or more than one other entities are under common control (whether or not any such other entity holds a licence or third-country branch authorisation) and the Bank is of the opinion that the common control is not in the interest of persons who keep deposits with the holder;]
+
+“specified”, in relation to a direction given under this section, means specified in the direction.
+
+(2) On becoming satisfied that it would be in the public interest to do so, or that a prescribed circumstance exists in relation to the holder of a licence F152[or F144[third-country branch authorisation]], the Bank may, by direction given in writing, require the holder to suspend, for a specified period not exceeding 6 months, any specified banking activity except as authorised by the Bank.
+
+(3) A direction given under *subsection (2)* ceases to have effect—
+
+(*a*) at the end of the period specified in the direction, or
+
+(*c*) on the making of a winding-up order in respect of the holder of the licence F152[or F145[third-country branch authorisation]] concerned,
+
+whichever first occurs.
+
+(4) While a direction under *subsection (2)* has effect—
+
+(*a*) winding-up or bankruptcy proceedings may be commenced in relation to the holder of the licence F152[or F146[third-country branch authorisation]] concerned, and
+
+(*b*) a receiver over the property of that holder may be appointed, and
+
+(*c*) the property of that holder may be attached, sequestered or otherwise distrained,
+
+only with the prior approval of the Court.
+
+(5) If the Bank is satisfied that, despite the fact that the holder of the licence F152[or F147[third-country branch authorisation]] concerned appears to it to be able to meet the obligations that the holder owes to its creditors, the circumstances that gave rise to the direction are unlikely to be rectified, it may, by further direction, require the holder—
+
+(*a*) to prepare, in consultation with the Bank, a scheme for the orderly termination of his banking business and the discharge of the holder's liabilities to persons who have deposits maintained with the holder under the supervision of the Bank, and
+
+(*b*) to submit the scheme to the Bank for its approval within 2 months after the giving of the further direction.
+
+(6) The Bank may approve or refuse to approve a scheme submitted to it under *subsection (5)*. In approving such a scheme, the Bank may impose such conditions as it considers appropriate.
+
+(7) If the holder of the licence F152[or F148[third-country branch authorisation]] to whom a direction has been given under this section—
+
+(*a*) fails to comply with the direction, or
+
+(*b*) fails to comply with the terms of a scheme approved by the Bank under subsection (6),
+
+the Court may, on the application of the Bank, make such order as the Court considers appropriate, including an order of committal or a winding-up order on the ground that it is just and equitable that the holder should be wound up.
+
+(8) If a winding-up order is made in proceedings brought under this section against the holder of a licence F152[orF149[third-country branch authorisation]] to whom a direction has been given under this section, the Companies Acts apply to the holder in the same way as if the order had been made on a winding-up petition under those Acts and as if for any reference in that law to the presentation of the winding-up petition there were substituted a reference to the making of the winding-up order under this section.
+
+(9) The Bank may, by notice in writing given to the holder of the licence F152[or F150[third-country branch authorisation]] concerned, vary or revoke a direction given under this section. However, the Bank may not vary a direction given under subsection (2) by extending the operation of the direction for a period exceeding 12 months from the date on which the direction first took effect.
+
+(10) A direction given by the Bank under this section, and any variation of the direction under *subsection (9)*, are appealable decisions for the purposes of Part VIIA of the Central Bank Act 1942.
+
+(11) For the purpose of *paragraph (e)* of the definition of “prescribed circumstance” in *subsection (1)*, the holder of a licence F152[or F151[third-country branch authorisation]] and one or more than one other entities are taken to be under common control if the decision as to how or by whom each are managed can be made by the same person or by the same group of persons acting in concert.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F142: Substituted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 1 item 1, S.I. No. 455 of 2004.
+>
+> F143, F144, F145, F146, F147, F148, F149, F150, F151: Substituted (10.07.2026) by *European Union (Capital Requirements) (Amendment) Regulations 2026* (S.I. No. 326 of 2026), reg. 60(k).
+>
+> F152: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 5(1) and sch. 2 part 2 item 9, S.I. No. 287 of 2013.
+>
+> F153: Substituted by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 1 item 1, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C33: Prospective affecting provision: subs. (3)(b) substituted by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1 part 1 item 1 not commenced as of date of revision.
+>
+> **21.**—(1) In this section—
+>
+> (3) A direction given under *subsection (2)* ceases to have effect—
+>
+> (*a*) at the end of the period specified in the direction, or
+>
+> (*b*) F153[if, on the hearing of an appeal to the Irish Financial Services Appeals Tribunal under Part VIIA of the Central Bank Act 1942, that Tribunal has extended the period of operation of the direction, at the end of that extended period, or]
+>
+> (*c*) on the making of a winding-up order in respect of the holder of the licence F152[or authorisation under *section 9A*] concerned,
+>
+> whichever first occurs.
+>
+> C34: References construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 152(a), in operation as per reg. 1(2).
+>
+> **152**. Notwithstanding Regulation 7(1), the references, however expressed, to the holder of a licence under section 9 of the Act of 1971, in—
+>
+> (a) sections 19 to 26, section 28, sections 31 to 42 or section 58 of the Act of 1971,
+>
+> …
+>
+> shall be construed so as to include any person who, but for the application of Regulation 7(1), was or would have been required to hold a licence under section 9 of the Act of 1971.
+>
+> **Editorial Notes:**
+>
+> E61: Previous affecting provision: references construed (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations 1992* (S.I. No. 395 of 1992), reg. 38(1)(a)(i), in operation as per reg. 1(2); revoked (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 161, in operation as per reg. 1, subject to transitional provisions.
+>
+> E62: Previous affecting provision: section substituted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 38, S.I. No. 176 of 1989; section substituted (1.08.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 10(2) and sch. 1, part 1, item 1, S.I. No. 455 of 2004.
+
+### 22. Directions by Bank in relation to advertisements of holders of licences.
+
+**22.**—(1) The Bank may give a direction in writing to a holder of a licence F154[or F155[third-country branch authorisation]] in relation to the information which the holder shall include in any advertisement to be published by him or on his behalf or in any statement to the public to be made by him or on his behalf.
+
+(2) F158[The Bank may give a direction to a holder of a licence F154[or F156[third-country branch authorisation]] to refrain from—
+
+(*a*) publishing or continuing to publish, or
+
+(*b*) causing to be published or to be continued to be published, during such period as shall be specified in the direction an advertisement inviting deposits from the public.]
+
+F159[(2A) The Bank may give a direction to a holder of a licence F154[or F157[third-country branch authorisation]] to refrain from—
+
+(*a*) publishing or continuing to publish, or
+
+(*b*) causing to be published or to be continued to be published,
+
+an advertisement containing information in respect of any service provided or to be provided to the public or any charge, term or condition upon which a service is so provided (or to be so provided) which, in the opinion of the Bank is false, misleading or calculated to deceive.]
+
+(3) The Bank shall not give a direction under this section unless it is satisfied that it is desirable to do so in the interest of the orderly and proper regulation of banking.
+
+F159[(4) In this section:
+
+“advertisement” includes every form of recommendation of any matter to which this section relates including, in particular, the display or publication of any such matter by way of notice, leaflet, circular, pamphlet, brochure, photograph, film, video, sound broadcasting, television, electronic communication or personal canvassing;
+
+“deposits” includes any funds taken from the public and payable on demand or on notice or at a fixed or determinable future date.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F154: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 5(1) and sch. 2 part 2 item 10, S.I. No. 287 of 2013.
+>
+> F155, F156, F157: Substituted (10.07.2026) by *European Union (Capital Requirements) (Amendment) Regulations 2026* (S.I. No. 326 of 2026), reg. 60(l).
+>
+> F158: Substituted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 39(a), S.I. No. 176 of 1989.
+>
+> F159: Inserted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 39(a), (b), S.I. No. 176 of 1989.
+>
+> **Modifications (not altering text):**
+>
+> C35: References construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 152(a), in operation as per reg. 1(2).
+>
+> **152**. Notwithstanding Regulation 7(1), the references, however expressed, to the holder of a licence under section 9 of the Act of 1971, in—
+>
+> (a) sections 19 to 26, section 28, sections 31 to 42 or section 58 of the Act of 1971,
+>
+> …
+>
+> shall be construed so as to include any person who, but for the application of Regulation 7(1), was or would have been required to hold a licence under section 9 of the Act of 1971.
+>
+> **Editorial Notes:**
+>
+> E63: Previous affecting provision: references construed (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations 1992* (S.I. No. 395 of 1992), reg. 38(1)(a)(i), in operation as per reg. 1(2); revoked (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 161, in operation as per reg. 1, subject to transitional provisions.
+
+### 23. Regulation of ratios between assets and liabilities of holders of licences.
+
+**23.**—(1) The Bank may from time to time require a holder of a licence to maintain
+
+(*a*) a specified ratio,
+
+(*b*) a ratio which does not exceed a specified ratio, or
+
+(*c*) a ratio which is not less than a specified ratio,
+
+between his assets and his liabilities and the specified ratio may be expressed as a percentage of the assets or liabilities concerned.
+
+(2) A requisition under this section may be expressed to apply
+
+(*a*) in relation to all holders of licences or to holders of a specified category or specified categories,
+
+(*b*) in relation to the total assets or total liabilities of the holders of licences concerned or to specified assets or assets of a specified kind or specified liabilities or liabilities of a specified kind of those holders,
+
+(*c*) in relation to a specified time or times or during a specified period or periods,
+
+and shall have effect in accordance with its terms.
+
+(3) A requisition under this section which is in force may be revoked by the Bank or may be amended by a subsequent requisition under this section.
+
+F160[(4) In this section—
+
+“liabilities” include such contingent liabilities as may be specified by the Bank from time to time for the purposes of this section;
+
+“specified” means specified by the Bank in a requisition under this section.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F160: Substituted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 40, S.I. No. 176 of 1989.
+>
+> **Modifications (not altering text):**
+>
+> C36: Application of section extended (23.05.1998) by *Central Bank Act 1998* (2/1998), s. 9, S.I. No. 338 of 2002.
+>
+> **Minimum reserves.**
+>
+> **9**.—Section 23 (as amended by section 40 of the Act of 1989) of the Act of 1971 may be applied by the Bank to persons or classes of persons in the State specified under Article 19.1 of the Statute in pursuance of a requirement of the European Central Bank.
+>
+> C37: References construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 152(a), in operation as per reg. 1(2).
+>
+> **152**. Notwithstanding Regulation 7(1), the references, however expressed, to the holder of a licence under section 9 of the Act of 1971, in—
+>
+> (a) sections 19 to 26, section 28, sections 31 to 42 or section 58 of the Act of 1971,
+>
+> …
+>
+> shall be construed so as to include any person who, but for the application of Regulation 7(1), was or would have been required to hold a licence under section 9 of the Act of 1971.
+>
+> **Editorial Notes:**
+>
+> E64: Previous affecting provision: references construed (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations 1992* (S.I. No. 395 of 1992), reg. 38(1)(a)(i), in operation as per reg. 1(2); revoked (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 161, in operation as per reg. 1, subject to transitional provisions.
+
+### F161[23A. Composition of assets and liabilities.
+
+**23A.**—The Bank may, from time to time, specify as respects a holder of a licence requirements as to the composition of its assets and requirements as to the composition of its liabilities.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F161: Inserted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 41, S.I. No. 176 of 1989.
+
+### 24. Power of Bank to require deposits by holders of licences in certain circumstances.
+
+**24.**—(1) If at any time it should appear to the Bank that it is expedient so to do, the Bank may, with the consent of the Minister, make regulations requiring every holder of a licence to make with the Bank, in addition to the deposit under section 7 of this Act, a deposit (not bearing interest) of an amount specified in the regulations or calculated in a manner specified in the regulations if and whenever after a date specified in the regulations the assets of the holder within the State fall below such proportion in relation to his liabilities within the State as is specified in the regulations, and to maintain such deposit so long as such assets are below the said specified proportion.
+
+(2) Regulations made under this section may prescribe different requirements in respect of different holders of licences.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C38: References construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 152(a), in operation as per reg. 1(2).
+>
+> **152**. Notwithstanding Regulation 7(1), the references, however expressed, to the holder of a licence under section 9 of the Act of 1971, in—
+>
+> (a) sections 19 to 26, section 28, sections 31 to 42 or section 58 of the Act of 1971,
+>
+> …
+>
+> shall be construed so as to include any person who, but for the application of Regulation 7(1), was or would have been required to hold a licence under section 9 of the Act of 1971.
+>
+> **Editorial Notes:**
+>
+> E65: Previous affecting provision: references construed (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations 1992* (S.I. No. 395 of 1992), reg. 38(1)(a)(i), in operation as per reg. 1(2); revoked (31.03.2014) with transitional provisions by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 161, in operation as per reg. 1.
+
+### 25. Power of Bank in respect of clearances of holders of licences.
+
+**25.**—(1) If at any time it should appear to the Bank that it is expedient so to do, the Bank may, with the consent of the Minister, make regulations requiring every holder of a licence F162[or F163[third-country branch authorisation]] to settle all or such particular class or particular classes of his clearances as may be specified in the regulations by cheques drawn either (as shall be specified in the regulations) on the Bank or on an agent appointed for the purpose by the Bank and requiring every such holder, for the purpose of so settling such clearances, to create and maintain with the Bank such balances as may be necessary for the purpose.
+
+(2) If at any time it should appear to the Bank that it is expedient so to do, the Bank may, with the consent of the Minister, make regulations requiring every holder of a licence F162[or F164[third-country branch authorisation]] to lodge with the Bank for clearance all such instruments payable outside the State and lodged for clearance at an office in the State of the holder as may be specified in the regulations.
+
+(3) Regulations under section 51 of the Act of 1942 in force immediately before the commencement of this Act shall continue in force and shall have effect as if made under this section and may be amended or revoked by regulations under this section.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F162: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 5(1) and sch. 2 part 2 item 11, S.I. No. 287 of 2013.
+>
+> F163, F164: Substituted (10.07.2026) by *European Union (Capital Requirements) (Amendment) Regulations 2026* (S.I. No. 326 of 2026), reg. 60(m).
+>
+> **Modifications (not altering text):**
+>
+> C39: References construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 152(a), in operation as per reg. 1(2).
+>
+> **152**. Notwithstanding Regulation 7(1), the references, however expressed, to the holder of a licence under section 9 of the Act of 1971, in—
+>
+> (a) sections 19 to 26, section 28, sections 31 to 42 or section 58 of the Act of 1971,
+>
+> …
+>
+> shall be construed so as to include any person who, but for the application of Regulation 7(1), was or would have been required to hold a licence under section 9 of the Act of 1971.
+>
+> **Editorial Notes:**
+>
+> E66: Previous affecting provision: references construed (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations 1992* (S.I. No. 395 of 1992), reg. 38(1)(a)(i), in operation as per reg. 1(2); revoked (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 161, in operation as per reg. 1, subject to transitional provisions.
+
+### 26. Collection of cheques, etc., drawn on holders of licences.
+
+**26.**—(1) Where an instrument to which this section applies is tendered by or on behalf of any person for collection to the holder of a licence F165[or F166[third-country branch authorisation]] with whom the person maintains an account (not being the holder on whom the instrument is drawn), the holder shall accept the instrument for collection and shall credit any proceeds of collection to the account aforesaid.
+
+(2) Any charge imposed by the holder of a licence F165[or aF167[third-country branch authorisation]] on another holder or a trustee savings bank certified under the Trustee Savings Banks Acts, 1863 to 1965 F173[or a building society authorised under the Building Societies Act, 1989], in relation to the collection of an instrument to which this section applies and the crediting of any proceeds of collection pursuant to *subsection (1)* of this section shall be subject to the approval of the Bank.
+
+(3) Any terms or conditions upon or subject to which a holder of a licence F165[or F168[third-country branch authorisation]] acts as banker for another holder of a licence F165[or authorisation under *section 9A*] or a trustee savings bank certified under the Trustee Savings Banks Acts, 1863 to 1965 F173[or a building society authorised under the Building Societies Act, 1989], shall be subject to the approval of the Bank.
+
+(4) In considering whether to grant or withhold an approval under *subsection (2)* or *(3)* of this section, the Bank shall have regard to the desirability of ensuring fair competition between holders of licences F165[or F169[third-country branch authorisation]].
+
+(5) Nothing in this section shall be construed as conferring any title to an instrument to which this section applies on a person by or on whose behalf the instrument is tendered pursuant to *subsection (1)* of this section.
+
+(6) This section applies to the following instruments, namely—
+
+(*a*) bills of exchange (which expression has the same meaning in this subsection as in the Bills of Exchange Act, 1882) drawn on a holder of a licence F165[ or F170[third-country branch authorisation]] payable on demand;
+
+(*b*) any document issued by a person who maintains an account with a holder of a licence F165[or F171[third-country branch authorisation]] or the Bank which, though not a bill of exchange, is intended to enable a person to obtain payment from that holder or the Bank of the sum mentioned in the document;
+
+(*c*) any draft payable on demand drawn by a holder of a licence F165[or F172[third-country branch authorisation]] upon himself, whether payable at the head office or some other office of his bank;
+
+(*d*) any document issued by a public officer which is intended to enable a person to obtain payment from a Minister of State of the sum mentioned in the document;
+
+(*e*) any document issued by a person who maintains an account with a trustee savings bank certified under the Trustee Savings Banks Acts, 1863 to 1965, which is intended to enable a person to obtain payment from the bank of the sum mentioned in the document.
+
+F174[(*f*) any document issued by a person who maintains an account with a building society, authorised under the Building Societies Act, 1989, which is intended to enable a person to obtain payment from the building society of the sum mentioned in the document.]
+
+F175[(7) The Minister may, after consultation with the Bank and where he or she is of the opinion that the proper and orderly regulation of financial markets so requires, by order—
+
+(*a*) in the case of either or both *subsections (2)* and *(3)* of this section, apply those subsections or restrict their application to any class of persons, and
+
+(*b*) in the case of *subsection (6)* of this section, amend that subsection by the addition thereto or deletion therefrom, of any instrument specified in that subsection,
+
+and, in the case of each subsection, whether or not previously affected by virtue of this subsection.]
+
+F176[(8) In this section “holder of a licence” shall be deemed to include a credit institution within the meaning of Regulation 2 of the F177[European Union (Capital Requirements) Regulations 2014 (S.I. No. 158 of 2014)].
+
+(9) Where the Minister is of the opinion, after consulting the Bank and such other Ministers (if any) as he considers it appropriate to consult with, that there are adequate supervisory and inspection provisions contained in any enactment relating to a financial institution or a class or type of institution to which the provisions of this Chapter would apply, then the Minister may by order specify the enactment concerned and, where necessary in the context of that enactment, the institution or class or type of institution to which the order relates and, accordingly, those provisions shall not apply to an institution to which the order relates.
+
+(10) The Minister may, after consulting the Bank and such other Ministers (if any) as he considers it appropriate to consult with, by order, revoke an order, under *subsection (9)*.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F165: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 5(1) and sch. 2 part 2 item 12(a), (b), S.I. No. 287 of 2013.
+>
+> F166, F167, F168, F169, F170, F171, F172: Substituted (10.07.2026) by *European Union (Capital Requirements) (Amendment) Regulations 2026* (S.I. No. 326 of 2026), reg. 60(n).
+>
+> F173: Inserted (1.09.1989) by *Building Societies Act 1989* (17/1989), s. 29(5)(a), S.I. No. 182 of 1989.
+>
+> F174: Inserted (1.09.1989) by *Building Societies Act 1989* (17/1989), s. 29(5)(b), S.I. No. 182 of 1989.
+>
+> F175: Substituted (9.04.1997) by *Central Bank Act 1997* (8/1997), s. 16, S.I. No. 150 of 1997.
+>
+> F176: Inserted (9.04.1997) by *Central Bank Act 1997* (8/1997), s. 16, S.I. No. 150 of 1997.
+>
+> F177: Substituted (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 154(1)(h).
+>
+> **Modifications (not altering text):**
+>
+> C40: References construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 152(a), in operation as per reg. 1(2).
+>
+> **152**. Notwithstanding Regulation 7(1), the references, however expressed, to the holder of a licence under section 9 of the Act of 1971, in—
+>
+> (a) sections 19 to 26, section 28, sections 31 to 42 or section 58 of the Act of 1971,
+>
+> …
+>
+> shall be construed so as to include any person who, but for the application of Regulation 7(1), was or would have been required to hold a licence under section 9 of the Act of 1971.
+>
+> **Editorial Notes:**
+>
+> E67: Previous affecting provision: references construed (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations 1992* (S.I. No. 395 of 1992), reg. 38(1)(a)(i), in operation as per reg. 1(2); revoked (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 161, in operation as per reg. 1, subject to transitional provisions .
+>
+> E68: Previous affecting provision: subs. (7) inserted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 42, S.I. No. 176 of 1989; substituted (9.04.1997) as per F-note above.
+
+### 27. Restriction on advertising for deposits.
+
+**27.**— F178[(1) Subject to *subsection (2)* of this section, a person shall not advertise for or otherwise solicit deposits or other repayable funds from the public on his own behalf or on behalf of any other person.
+
+(2) F179[*Subsection (1)* of this section does not apply to advertising for or otherwise soliciting deposits or other repayable funds from the public
+
+(*a*) by the holder of a licence F180[or F181[third-country branch authorisation]], the Bank, or a person to whom, because of *subsection (4)* of section 7 of this Act, subsection (1) of that section does not apply, or
+
+(*b*) by a person to whom, because of *section 8(2)* of this Act, *section 7(1)* of this Act does not apply, or
+
+(*c*) by a person authorised to carry on business in the State by the F182[European Union (Capital Requirements) Regulations 2014 (S.I. No. 158 of 2014)], or
+
+(*d*) by a person on behalf of a person referred to in *paragraph* *(a)*, *(b)* or *(c)* of this subsection.]
+
+(3) If an advertisement or other solicitation for deposits or other repayable funds from the public is published and it does not include the name and address of the person who arranged with the publisher for the advertisement or solicitation, then the Bank may, at any time within the period of twelve months after any publication of the advertisement, request the publisher to supply the name and address of that person to the Bank and the publisher shall forthwith comply with that request.
+
+(4) In this section “deposits or other repayable funds from the public” does not include the acceptance of a sum or sums of money excluded from the definition of banking business under section 2 of the Act of 1971.
+
+(5) Reference in this section or section 58(3) of this Act (as amended by section 9 of the Act of 1989) to the solicitation of deposits F183[or other repayable funds], however expressed, includes every form of solicitation for deposits F183[or other repayable funds]including, in particular, the display or publication of any such matter by way of notice, leaflet, circular, pamphlet, brochure, photograph, film, video, sound broadcasting, television, electronic communication or personal canvassing.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F178: Substituted (9.04.1997) by *Central Bank Act 1997* (8/1997), s. 70(e), S.I. No. 150 of 1997.
+>
+> F179: Substituted (1.07.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 4 para. 8(a), S.I. No. 455 of 2004.
+>
+> F180: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 5(1) and sch. 2 part 2 item 13, S.I. No. 287 of 2013.
+>
+> F181: Substituted (10.07.2026) by *European Union (Capital Requirements) (Amendment) Regulations 2026* (S.I. No. 326 of 2026), reg. 60(o).
+>
+> F182: Substituted (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 154(1)(i).
+>
+> F183: Inserted (1.07.2004) by *Central Bank and Financial Services Authority of Ireland Act 2004* (21/2004), s. 33 and sch. 3 part 4 para. 8(b), S.I. No. 455 of 2004.
+>
+> **Editorial Notes:**
+>
+> E69: Previous affecting provision: subs. (2)(aa) inserted and subs. (2)(b) amended (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations 1992* (S.I. No. 395 of 1992), reg. 39(c), in operation as per reg. 1(2); section substituted (9.04.1997) as per F-note above.
+>
+> E70: Previous affecting provision: subs. (2A) inserted and subs. (3) substituted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 43; section substituted (9.04.1997) as per F-note above.
+
+### 28. Provisions in relation to judgments against holders of licences.
+
+**28.**—(1) Whenever a person (in this section referred to as a judgment creditor) obtains in any court in the State a judgment, order or decree against the holder of a licence F184[or F185[third-country branch authorisation]] (in this section referred to as a judgment debtor) for the payment of a sum of money due to the judgment creditor by the judgment debtor in his capacity as a banker
+
+(*a*) the registrar or clerk of the court concerned shall notify the Bank as soon as may be of the judgment, order or decree and of its terms and of any appeal against the judgment, order or decree and of the result thereof,
+
+(*b*) subject to *paragraph (*c*)* of this subsection, if within the period of twenty-one days beginning on the date of the judgment, order or decree, the judgment debtor does not pay all moneys due (or, in the case of costs, at the option of the judgment debtor, give security therefor in lieu of payment), or satisfy all claims, under the judgment, order or decree, the provisions of *paragraph (*e*)* of this subsection shall apply upon the expiration of such period,
+
+(*c*) if an appeal is instituted in any court against the judgment, order or decree, that court or the court by which the judgment, order or decree was made may by order postpone the application of *paragraph (*e*)* of this subsection for such period and, subject to *paragraph (*d*)* of this subsection, on such terms as the court concerned may fix and specify in the order,
+
+(*d*) if a court makes an order under *paragraph (*c*)* of this subsection, it may require the judgment debtor to whom the order relates either, as the court thinks fit, to lodge in court an amount equal to the amount of all moneys due under the judgment, order or decree (or such lesser amount as the court may direct) or give such security as the court may determine for the payment to the judgment creditor of all such moneys, together with, in either case, such further sum or security for the costs of the appeal as the court shall consider just,
+
+(*e*) the judgment debtor shall be deemed to be unable to meet his obligations to creditors, and
+
+(i) if the judgment debtor is a company, the judgment debtor shall be deemed, for the purpose of the law relating to companies, to be unable to pay its debts,
+
+(ii) if the judgment debtor is an individual, he shall be deemed, for the purpose of the law relating to bankruptcy, to have committed an act of bankruptcy,
+
+(iii) if the judgment debtor is a partnership, each of the partners shall be deemed, for the purpose of the law relating to bankruptcy, to have committed an act of bankruptcy,
+
+(*f*) an order under *paragraph (*c*)* of this subsection may be revoked or varied by the court that made it or before which an appeal in relation to it is brought.
+
+(2) F186[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F184: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 5(1) and sch. 2 part 2 item 14, S.I. No. 287 of 2013.
+>
+> F185: Substituted (10.07.2026) by *European Union (Capital Requirements) (Amendment) Regulations 2026* (S.I. No. 326 of 2026), reg. 60(p).
+>
+> F186: Repealed (1.01.1989) by *Bankruptcy Act 1988* (27/1988), s. 6 and sch. 2, S.I. No. 348 of 1988.
+>
+> **Modifications (not altering text):**
+>
+> C41: References construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 152(a), in operation as per reg. 1(2).
+>
+> **152**. Notwithstanding Regulation 7(1), the references, however expressed, to the holder of a licence under section 9 of the Act of 1971, in—
+>
+> (a) sections 19 to 26, section 28, sections 31 to 42 or section 58 of the Act of 1971,
+>
+> …
+>
+> shall be construed so as to include any person who, but for the application of Regulation 7(1), was or would have been required to hold a licence under section 9 of the Act of 1971.
+>
+> C42: Application restricted (21.01.2009) by *Anglo Irish Bank Corporation Act 2009* (1/2009), s. 13(7), commenced on enactment.
+>
+> **Disapplication, etc., of certain provisions of Central Bank Acts.**
+>
+> **13.**— …
+>
+> (7) Paragraphs (*b*) to (*f*) of section 28(1) of the Central Bank Act 1971 do not apply in relation to Anglo Irish Bank or any of its subsidiaries or subsidiary undertakings while the Minister or the Minister’s nominee is a member of it.
+>
+> **Editorial Notes:**
+>
+> E71: Previous affecting provision: references construed (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations 1992* (S.I. No. 395 of 1992), reg. 38(1)(a)(i), in operation as per reg. 1(2); revoked (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 161, in operation as per reg. 1, subject to transitional provisions.
+
+### 28A. Power of Court to prohibit certain contraventions of, or failure to comply with, Act of 1971.
+
+F187[**28A.**—(1) Where, on an application made in a summary manner by the Bank, the Court is of the opinion that there has occurred or is occurring—
+
+(*a*) a contravention of *section 17* or *18* of this Act, or
+
+(*b*) a failure to comply with a condition imposed in relation to a licence by virtue of *section 10*, or with a direction under *section 22*, of this Act,the Court may, by order, prohibit the continuance of the contravention or failure by the person or persons concerned.
+
+(2) The Court when considering the matter may make such interim or interlocutory order as it considers appropriate.
+
+(3) Where the Court is satisfied, because of the nature or the circumstances of the case or otherwise in the interests of justice, that it is desirable, the whole or any part of proceedings under this section may be heard otherwise than in public.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F187: Inserted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 44, S.I. No. 176 of 1989.
+
+### 29. Proceedings in relation to deposits under section 7.
+
+**29.**—F188[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F188: Repealed (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 4 and sch., commenced on enactment.
+
+### 30. Provisions in relation to bankruptcy and winding up.
+
+**30.**— F189[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F189: Repealed (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 4 and sch., commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E72: Previous affecting provision: application restricted (1.01.1989) by *Bankruptcy Act 1988* (27/1988), s. 44, S.I. No. 348 of 1988; section repealed (12.07.1989) as per F-note above.
+
+### 31. Duties of holder of licence on termination of banking business.
+
+**31.**—F190[(1) Where a holder of a licence F191[or F192[third-country branch authorisation]]ceases to carry on banking business in circumstances to which section 57 of the Central Bank Act, 1989, applies, he shall, as soon as may be, notify all persons having deposits (including deposits on current accounts) with him of such cesser and he shall, if any such person so demands, pay to that person forthwith the amount of his deposit together with the amount of any interest accrued thereon.]
+
+(2) Where a holder of a licence F191[or F193[third-country branch authorisation]] proposes to cease carrying on banking business, he shall notify the Bank in writing of the proposal not less than three months before the date of the cesser.
+
+(3) This section does not apply in relation to a cesser occasioned by the transfer of the business to which a licence F191[or F194[third-country branch authorisation]] relates to another holder of a licence.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F190: Substituted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 45, S.I. No. 176 of 1989.
+>
+> F191: Inserted (1.08.2013) by *Central Bank (Supervision and Enforcement) Act 2013* (26/2013), s. 5(1) and sch. 2 part 2 item 15, S.I. No. 287 of 2013.
+>
+> F192, F193, F194: Substituted (10.07.2026) by *European Union (Capital Requirements) (Amendment) Regulations 2026* (S.I. No. 326 of 2026), reg. 60(q).
+>
+> **Modifications (not altering text):**
+>
+> C43: References construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 152(a), in operation as per reg. 1(2).
+>
+> **152**. Notwithstanding Regulation 7(1), the references, however expressed, to the holder of a licence under section 9 of the Act of 1971, in—
+>
+> (a) sections 19 to 26, section 28, sections 31 to 42 or section 58 of the Act of 1971,
+>
+> …
+>
+> shall be construed so as to include any person who, but for the application of Regulation 7(1), was or would have been required to hold a licence under section 9 of the Act of 1971.
+>
+> **Editorial Notes:**
+>
+> E73: Previous affecting provision: references construed (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations 1992* (S.I. No. 395 of 1992), reg. 38(1)(a)(i), in operation as per reg. 1(2); revoked (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 161, in operation as per reg. 1, subject to transitional provisions.
+
+## PART IIA — Authorisation and Supervision of Class 1 Firms]
+
+F195[> **Annotations:**
+>
+> **Amendments:**
+>
+> F195: Inserted (27.06.2022) by *European Union (Investment Firms) (Amendment) Regulations 2022* (S.I. No. 302 of 2022), reg. 4.
+
+### 31A. Interpretations /Definitions (Class 1 firms).
+
+F196[**31A.**—In this Part—
+
+“ancillary services” has the same meaning as it has in the Markets in Financial Instruments Directive;
+
+“associated company”, in relation to the holder of a Class 1 authorisation, means a company in respect of which—
+
+(*a*) not less than 20 per cent of the nominal value of the company’s equity share capital is held by the company, or
+
+(*b*) not less than 20 per cent of shares carrying voting rights (other than voting rights that arise only in particular circumstances) are so held;
+
+“Class 1 authorisation” means an authorisation granted under the SSM Regulation on the application therefor under section 31C;
+
+“Class 1 business” means business consisting of carrying out an activity referred to in paragraph 3 or 6 of Part 1 of Schedule 1 to the Regulations of 2017;
+
+“Class 1 firm” means an undertaking (other than a commodity and emission allowance dealer, a collective investment undertaking or an insurance undertaking) which satisfies point (b)(i), (ii) or (iii) of the definition of “credit institution” in Article 4(1) of the Capital Requirements Regulation;
+
+“collective investment undertaking” has the same meaning as it has in the Capital Requirements Regulation;
+
+“client” means a person to whom a Class 1 firm, whose Class 1 authorisation has been withdrawn, provided all or any of the following prior to such withdrawal:
+
+(*a*) investment services and activities;
+
+(*b*) ancillary services;
+
+(*c*) Class 1 business;“commodity and emission allowance dealer” has the same meaning as it has in the Capital Requirements Regulation;
+
+“credit institution” has the same meaning as it has in the Capital Requirements Regulation;
+
+“investment services and activities” has the same meaning as it has in the Markets in Financial Instruments Directive;
+
+“insurance undertaking” has the same meaning as it has in the Capital Requirements Regulation;
+
+“related body”, in relation to the holder of a Class 1 authorisation, means—
+
+(*a*) a subsidiary company of that holder,
+
+(*b*) if that holder is itself a subsidiary—
+
+(i) its holding company, or
+
+(ii) any other subsidiary of its holding company,
+
+(*c*) an associated company of that holder, or
+
+(*d*) a partnership in which that holder has an interest, and whose business is or, at any relevant time, was in the Bank’s opinion materially relevant to an inspection being carried out, or proposed to be carried out, under Part 3 of the Central Bank (Supervision and Enforcement) Act 2013.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F196: Inserted (27.06.2022) by *European Union (Investment Firms) (Amendment) Regulations 2022* (S.I. No. 302 of 2022), reg. 4.
+
+### Exemption of third-country branches
+
+F197[**31AA.**—(1) This Part shall not apply to authorised third-country branches.
+
+(2) In *subsection (1)*, "authorised third-country branch" means a third-country branch authorised under Regulation 9P(1) of the European Union (Capital Requirements) Regulations 2014 (S.I. No. 158 of 2014).]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F197: Inserted (10.07.2026) by *European Union (Capital Requirements) (Amendment) Regulations 2026* (S.I. No. 326 of 2026), reg. 60(r).
+
+### 31B. Requirement for a Class 1 authorisation (Class 1 firms).
+
+F198[**31B.**—(1) Subject to—
+
+(*a*) *subsections (3)* and *(4)* of *section 31R*, and
+
+(*b*) Regulation 32 of the European Union (Capital Requirements) Regulations 2014,
+
+a Class 1 firm shall not carry out Class 1 business in the State, unless it is the holder of a Class 1 authorisation or a licence.
+
+(2) *Subsection (1)* shall not apply to a person who acts on behalf of—
+
+(*a*) the Bank, or
+
+(*b*) the holder of a Class 1 authorisation or a licence.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F198: Inserted (27.06.2022) by *European Union (Investment Firms) (Amendment) Regulations 2022* (S.I. No. 302 of 2022), reg. 4.
+
+### 31C. Application for authorisation (Class 1 firms).
+
+F199[**31C.**—(1) An application for a Class 1 authorisation shall be in such form and contain such particulars as the Bank may from time to time determine.
+
+(2) Subject to *sections 31I*, *31J* and *31K*, the Bank shall—
+
+(*a*) where it is satisfied that the conditions referred to in *sections 31D* to *31G* have been complied with, take a draft decision to propose to the ECB to grant to the applicant an authorisation to carry on Class 1 business, or
+
+(*b*) where it is not so satisfied, reject the application.
+
+(3) The grant of a Class 1 authorisation to a person shall not constitute a warranty as to the solvency of the person to whom it is granted and the Bank shall not be liable in respect of any losses incurred through the insolvency or default of a person to whom a Class 1 authorisation is granted.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F199: Inserted (27.06.2022) by *European Union (Investment Firms) (Amendment) Regulations 2022* (S.I. No. 302 of 2022), reg. 4.
+
+### 31D. Programme of operations and structural organisation (Class 1 firms).
+
+F200[**31D.**—(1) An application for a Class 1 authorisation shall be accompanied by—
+
+(*a*) a programme of operations, and
+
+(*b*) a description of the arrangements, processes and mechanisms referred to in Regulation 61(1) of the European Union (Capital Requirements) Regulations 2014 proposed to be implemented.
+
+(2) A programme of operations referred to in *subsection (1)(a)* shall—
+
+(*a*) set out the types of business envisaged by the applicant,
+
+(*b*) set out the structural organisation of the applicant, and
+
+(*c*) where the applicant is part of a group, specify—
+
+(i) the parent undertakings,
+
+(ii) the financial holding companies, if any, and
+
+(iii) the mixed financial holding companies, if any,
+
+within the group.
+
+(3) The Bank shall not take a draft decision to propose to the ECB to grant a Class 1 authorisation to an applicant unless it is satisfied that the arrangements, processes and mechanisms referred to in Regulation 61 of the European Union (Capital Requirements) Regulations 2014 proposed to be implemented by the applicant would, if implemented, enable sound and effective risk management by the applicant.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F200: Inserted (27.06.2022) by *European Union (Investment Firms) (Amendment) Regulations 2022* (S.I. No. 302 of 2022), reg. 4.
+
+### 31E. Initial Capital (Class 1 firms).
+
+F201[**31E.—**(1) Subject to *subsection (3)*, the Bank shall not take a draft decision to propose to the ECB to grant a Class 1 authorisation unless the applicant holds separate own funds, or has an initial capital, of at least €5,000,000.
+
+(2) Initial capital shall comprise only one or more of the items referred to in Article 26(1)(a) to (e) of the Capital Requirements Regulation.
+
+(3) The Bank may take a draft decision to propose to the ECB to grant a Class 1 authorisation to particular categories of Class 1 firms the initial capital of which is less than €5,000,000, subject to the applicant having an initial capital of at least €1,000,000.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F201: Inserted (27.06.2022) by *European Union (Investment Firms) (Amendment) Regulations 2022* (S.I. No. 302 of 2022), reg. 4.
+
+### 31F. Effective direction of business and place of head office (Class 1 firms).
+
+F202[**31F.**—The Bank shall not take a draft decision to propose to the ECB to grant a Class 1 authorisation unless the applicant satisfies the Bank that—
+
+(*a*) it is a body corporate,
+
+(*b*) its registered office and its head office are both located in the State,
+
+(*c*) at least 2 persons effectively direct its business, and
+
+(*d*) the members of its management body meet the requirements of Regulation 79 of the European Union (Capital Requirements) Regulations 2014.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F202: Inserted (27.06.2022) by *European Union (Investment Firms) (Amendment) Regulations 2022* (S.I. No. 302 of 2022), reg. 4.
+
+### 31FA. F203[Precondition for draft decision to propose Class 1 authorisation
+
+**31FA.**—(1) Where an applicant intends to provide investment services or perform investment activities, the Bank shall not take a draft decision to propose to the ECB to grant a Class 1 authorisation unless it is satisfied that the applicant will comply with the relevant provisions.
+
+(2) In this section—
+
+“investment activities” has the same meaning as it has in the Markets in Financial Instruments Directive;
+
+“investment services” has the same meaning as it has in the Markets in Financial Instruments Directive;
+
+“relevant provisions” means the provisions of the Regulations of 2017 which apply under Regulation 2(2) of those Regulations.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F203: Inserted (27.06.2022) by *European Union (Markets in Financial Instruments) (Amendment) (No. 2) Regulations 2022* (S.I. No. 304 of 2022), reg. 3.
+>
+> **Editorial Notes:**
+>
+> E74: The section heading is taken from the contents of the section in the absence of one included in the amendment.
+
+### 31G. Shareholders and members (Class 1 firms).
+
+F204[**31G.**—(1) The Bank shall not take a draft decision to propose to the ECB to grant a Class 1 authorisation unless the application for the authorisation includes the names of—
+
+(*a*) the applicant’s shareholders or members that have qualifying holdings and of the amounts of those holdings, or
+
+(*b*) where there are no qualifying holdings, the 20 largest shareholders or members.
+
+(2) In determining whether the criteria for a qualifying holding are fulfilled, the voting rights referred to in Articles 9 and 10 of Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004[^56] in relation to information about issuers whose securities are admitted to trading on a regulated market and the conditions regarding aggregation thereof set out in Article 12(4) and (5) of that Directive shall be taken into account.
+
+(3) Voting rights or shares which institutions hold as a result of providing the underwriting of financial instruments or placing of financial instruments on a firm commitment basis included under point 6 of Section A of Annex I to Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014[^57] shall not be taken into account, provided that those rights are not exercised or otherwise used to intervene in the management of the issuer and are disposed of within one year of acquisition.
+
+(4) The Bank shall not take a draft decision to propose to the ECB to grant a Class 1 authorisation if, taking into account the need to ensure the sound and prudent management of a Class 1 firm, it is not satisfied, having regard to the criteria specified in *section 31H(1)*, as to the suitability of the shareholders or members.
+
+(5) Where close links exist between the applicant and other natural or legal persons, the Bank shall take a draft decision to propose to the ECB to grant a Class 1 authorisation only where those links do not prevent the effective exercise of its supervisory functions.
+
+(6) The Bank shall not take a draft decision to propose to the ECB to grant a Class 1 authorisation where the laws, regulations or administrative provisions of a third country governing one or more natural or legal persons with which the applicant has close links, or difficulties involved in the enforcement of those laws, regulations or administrative provisions, prevent the effective exercise of its supervisory functions.
+
+(7) The Bank shall require holders of a Class 1 authorisation to provide it with the information they require to monitor compliance with the conditions referred to in *subsections (5)* and *(6)* on an ongoing basis.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F204: Inserted (27.06.2022) by *European Union (Investment Firms) (Amendment) Regulations 2022* (S.I. No. 302 of 2022), reg. 4.
+
+### 31H. Waiver for credit institutions permanently affiliated to central body (Class 1 firms).
+
+F205[**31H.**—(1) The criteria referred to in *section 31G(4)* are as follows:
+
+(*a*) the reputation of the shareholders or members of the applicant;
+
+(*b*) the reputation, knowledge, skills and experience, as specified in Regulation 79 of the European Union (Capital Requirements) Regulations 2014, of any member of the management body who will direct the business of the shareholders or members of the applicant;
+
+(*c*) the financial soundness of the applicant, in particular in relation to the type of business pursued and envisaged by the credit institution;
+
+(*d*) whether the applicant will be able to comply and continue to comply with the prudential requirements of the European Union (Capital Requirements) Regulations 2014 and the Capital Requirements Regulation, and where applicable, other European Union law, in particular Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002[^58] and Directive 2009/110/EC of the European Parliament and of the Council of 16 September 2009,[^59] including, where applicable, whether the group of which it is a part has a structure that makes it possible to exercise effective supervision, effectively exchange information among the competent authorities of relevant Member States and determine the allocation of responsibilities among the competent authorities of relevant Member States;
+
+(*e*) whether there are reasonable grounds to suspect that, in connection with the proposed authorisation, money laundering or terrorist financing within the meaning of Article 1 of Directive 2005/60/EC of the European Parliament and of the Council of 26 October 200515 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing is being or has been committed or attempted, or that the proposed authorisation could increase the risk thereof.
+
+(2) In carrying out its assessment of the suitability of the shareholders or members, the Bank shall consult with the competent authorities of other relevant Member States if one or more of the shareholders or members is—
+
+(*a*) a credit institution, insurance undertaking, reinsurance undertaking, investment firm, or a management company within the meaning of Article 2(1)(b) of Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009[^60] (in this subsection referred to as a “UCITS management company”) authorised in another Member State,
+
+(*b*) the parent undertaking of a credit institution, insurance undertaking, reinsurance undertaking, investment firm or UCITS management company authorised in another Member State, or
+
+(*c*) a natural or legal person controlling a credit institution, insurance undertaking, reinsurance undertaking, investment firm or UCITS management company authorised in another Member State.
+
+(3) The Bank shall, without undue delay, provide competent authorities in other Member States with any information that is essential or relevant for the assessment of the shareholders or members.
+
+(4) The Bank shall, for the purposes of *subsection (3)*, communicate all relevant information upon request and all essential information on its own initiative.
+
+(5) A draft decision taken by the Bank to propose to the ECB to grant a Class 1 authorisation shall indicate any views or reservations expressed by the competent authorities responsible for the shareholder or member concerned.
+
+(6) In this section, “reinsurance undertaking” has the meaning assigned to it in point (6) of Article 4(1) of the Capital Requirements Regulation.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F205: Inserted (27.06.2022) by *European Union (Investment Firms) (Amendment) Regulations 2022* (S.I. No. 302 of 2022), reg. 4.
+
+### 31I. Waiver for credit institutions permanently affiliated to central body (Class 1 firms).
+
+F206[**31I**.—(1) The Bank may waive the requirements set out in *sections 31D*, *31E* and *31F(c)* and *(d)* with regard to a credit institution referred to in Article 10 of the Capital Requirements Regulation in accordance with the conditions set out therein.
+
+(2) Where the Bank exercises a waiver referred to in *paragraph (1)*—
+
+(*a*) Regulation 7,
+
+(*b*) Regulations 32 and 33,
+
+(*c*) Regulation 35(1) to (3),
+
+(*d*) Regulations 38 to 44,
+
+(*e*) Regulations 61 to 84, and
+
+(*f*) Regulations 115 to 130,
+
+of the European Union (Capital Requirements) Regulations 2014 shall apply to the whole as constituted by the central body together with its affiliated institutions.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F206: Inserted (27.06.2022) by *European Union (Investment Firms) (Amendment) Regulations 2022* (S.I. No. 302 of 2022), reg. 4.
+
+### 31J. Refusal of authorisation (Class 1 firms)
+
+F207[**31J**.—(1) Where the Bank rejects an application, it shall notify the applicant of the decision and the reasons therefor within 6 months of receipt of the application or, where the application is incomplete, within 6 months of receipt of the complete information required for the decision.
+
+(2) The Bank shall, in any event, take a draft decision to propose to the ECB to grant a Class 1 authorisation or reject the application within 12 months of the receipt of the application.
+
+(3) A decision under this section to reject an application is an appealable decision for the purposes of Part VIIA of the Act of 1942.
+
+(4) A failure by the Bank to notify an applicant within 6 months of receipt of an application or, where an application is incomplete, within 6 months of receipt of the complete information required, in accordance with subsection (1), is an appealable decision for the purposes of Part VIIA of the Act of 1942.
+
+(5) The Bank may reject an application only if—
+
+(*a*) there are reasonable grounds for doing so on the basis of the criteria specified in *section 31H(1)*, or
+
+(*b*) the information provided by the applicant is incomplete.
+
+(6) The Bank shall not assess an application in terms of the economic needs of the market.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F207: Inserted (27.06.2022) by *European Union (Investment Firms) (Amendment) Regulations 2022* (S.I. No. 302 of 2022), reg. 4.
+
+### 31K. Prior consultation of competent authorities (Class 1 firms)
+
+F208[**31K**.—(1) The Bank shall consult the competent authorities of another Member State before taking a draft decision to propose to the ECB to grant a Class 1 authorisation where the applicant is—
+
+(*a*) a subsidiary of a credit institution authorised in that other Member State,
+
+(*b*) a subsidiary of the parent undertaking of a credit institution authorised in that other Member State, or
+
+(*c*) controlled by the same natural or legal persons as those who control a credit institution authorised in that other Member State.
+
+(2) The Bank shall, before taking a draft decision to propose to the ECB to grant a Class 1 authorisation, consult the competent authority that is responsible for the supervision of insurance undertakings or investment firms in the Member State concerned where the credit institution is—
+
+(*a*) a subsidiary of an insurance undertaking or investment firm authorised in the European Union,
+
+(*b*) a subsidiary of the parent undertaking of an insurance undertaking or investment firm authorised in the European Union, or
+
+(*c*) controlled by the same natural or legal persons as those who control an insurance undertaking or investment firm authorised in the European Union.
+
+(3) The Bank shall in particular—
+
+(*a*) consult, in accordance with *subsections (1)* and *(2)*, when assessing the suitability of the shareholders and the reputation and experience of members of the management body involved in the management of another entity of the same group, and
+
+(*b*) exchange with the competent authorities of other Member States any information regarding the suitability of shareholders and the reputation and experience of members of the management body which is of relevance for the granting of an authorisation and for the ongoing assessment of compliance with operating conditions.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F208: Inserted (27.06.2022) by *European Union (Investment Firms) (Amendment) Regulations 2022* (S.I. No. 302 of 2022), reg. 4.
+
+### 31L. Conditions of authorisation (Class 1 firms)
+
+F209[**31L**.—(1) The Bank may propose to the ECB that the conditions of a Class 1 authorisation be amended, revoked or added to and it may propose to the ECB that conditions be imposed by the ECB in relation to a Class 1 authorisation from time to time if in the opinion of the Bank the amendment, revocation, addition or imposition is calculated to promote the orderly and proper regulation of credit institutions.
+
+(2) Whenever the Bank proposes that the conditions of a Class 1 authorisation be added to or amended—
+
+(*a*) it shall notify in writing the person who holds the Class 1 authorisation or to whom the Class 1 authorisation is intended to be granted that it proposes to amend or add to the conditions of the Class 1 authorisation, and of its reasons for so proposing and that the person may, within twenty-one days after the date of the giving of the notification, make representations in writing to the Bank in relation to the proposed amendment or addition, as the case may be, and shall specify in the notification, the amendment or addition, as the case may be,
+
+(*b*) the person may make such representations to the Bank within the time aforesaid, and
+
+(*c*) the Bank shall, before deciding to propose to the ECB to amend or add to the conditions of the Class 1 authorisation, as the case may be, consider any representations duly made to it under this subsection in relation to the proposed amendment or addition, as the case may be, and where, after so considering, the Bank decides to propose an amendment or addition, as the case may be, that differs from that specified in the notification concerned, it shall not be necessary to give a new notification under this subsection if the difference results in the condition concerned being no more onerous than would be the case had the Bank decided to propose to the ECB to amend or add to the conditions of the Class 1 authorisation, as the case may be, in accordance with the notification concerned.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F209: Inserted (27.06.2022) by *European Union (Investment Firms) (Amendment) Regulations 2022* (S.I. No. 302 of 2022), reg. 4.
+
+### 31M. Revocation of authorisation (Class 1 firms)
+
+F210[**31M**.—(1) The Bank may—
+
+(*a*) submit a proposal to the ECB to withdraw a Class 1 authorisation if the holder of the Class 1 authorisation so requests,
+
+(*b*) submit a proposal to the ECB to withdraw a Class 1 authorisation if the holder of the authorisation—
+
+(i) (I) has not commenced activities within twelve months of the date on which the authorisation was granted, or
+
+(II) has ceased activities and has not resumed activities during a period of more than six months immediately following the cesser,
+
+(ii) being a company, is being wound up,
+
+(iii) is an undertaking having its registered office and its head office both located in the State, which is being duly wound up or otherwise dissolved,
+
+(iv) has obtained the authorisation through false statements or any other irregular means,
+
+(v) becomes unable to meet its obligations to its creditors or suspends payments lawfully due by it or no longer possesses sufficient own funds (being own funds to which the Capital Requirements Directive relates) or can no longer be relied upon to fulfil their obligations towards their creditors, and in particular no longer provides security for the assets entrusted to them,
+
+(vi) is convicted on indictment of an offence under any provision of this Act or an offence involving fraud, dishonesty or breach of trust,
+
+(vii) no longer fulfils the conditions under which the Class 1 authorisation was granted,
+
+(viii) no longer meets the prudential requirements—
+
+(I) set out in Parts Three (other than Articles 92a and 92b), Four or Six of the Capital Requirements Regulation, or
+
+(II) imposed under Regulation 92(2)(a) or 93 of the European Union (Capital Requirements) Regulations 2014,
+
+or can no longer be relied on to fulfil its obligations towards its creditors, and, in particular, no longer provides security for the assets entrusted to it by its depositors,
+
+(ix) commits one of the breaches referred to in Regulation 55 of the European Union (Capital Requirements) Regulations 2014, or
+
+(x) uses its licence exclusively to engage in the activities referred to in point (1)(b) of Article 4(1) of the Capital Requirements Regulation and has, for a period of five consecutive years, average total assets below the thresholds set out in that Article,
+
+(*c*) submit a proposal to the ECB to withdraw a Class 1 authorisation if the business of, or the corporate structure of, the holder of the authorisation has been so organised or the holder of the authorisation has come under the control of any other undertaking not supervised by the Bank, such that the holder is no longer capable of being supervised to the satisfaction of the Bank, or
+
+(*d*) submit a proposal to the ECB to withdraw a Class 1 authorisation if, since the grant of the authorisation, the circumstances relevant to the grant have changed and are such that, if an application for the authorisation were made in the changed circumstances, it would be refused.
+
+(2) Whenever the Bank proposes to submit a proposal to the ECB to withdraw a Class 1 authorisation (other than in circumstances to which paragraph (a) of subsection (1) relates)—
+
+(*a*) it shall notify the holder in writing of the reasons for the withdrawal and that the holder may, within twenty-one days after the date of the giving of the notification, make representations in writing to the Bank in relation to the proposed withdrawal,
+
+(*b*) the holder may make such representations in writing to the Bank within the time aforesaid, and
+
+(*c*) the Bank shall consider any representations duly made to it under this subsection in relation to the proposed withdrawal.
+
+(3) Where a Class 1 authorisation is withdrawn by the ECB and the person who was the holder of the authorisation is not a company which is being wound up—
+
+(*a*) that person shall, as soon as possible after the authorisation is withdrawn by the ECB—
+
+(i) notify the Bank, and
+
+(ii) as far as is reasonably practicable, notify every client concerned,
+
+of the measures he is taking or proposes to take to discharge in full and without undue delay his liabilities in respect of those clients, and
+
+(*b*) in the case where—
+
+(i) that person has notified the Bank in accordance with *paragraph (a)* of this subsection and the Bank is of the opinion that the measures being taken or proposed to be taken for the purposes of that paragraph are not satisfactory,
+
+(ii) that person has not so notified the Bank and the Bank is of the opinion that he has failed to so notify as soon as possible after the authorisation is withdrawn by the ECB, or
+
+(iii) the Bank is of the opinion that that person has not taken all reasonable steps to so notify every client concerned,
+
+then the Bank may give a direction in writing to that person for such period, not exceeding six months, as may be specified therein, prohibiting him from—
+
+(I) dealing with or disposing of any of his assets or specified assets in any manner,
+
+(II) engaging in any transaction or class of transaction or specified transaction, or
+
+(III) making payments,
+
+without the prior authorisation of the Bank, and the Bank may require that person to prepare and submit to it for its approval within two months of the direction, a scheme for the orderly discharge in full of his liabilities to the clients concerned.
+
+(4) (*a*) Where a Class 1 authorisation is withdrawn by the ECB and the holder of the authorisation is a company which is being wound up, the liquidator of the company shall, in addition to his duties and obligations in respect of the winding up, be subject to the duties and obligations to which the company would be subject were it a company to which subsection (3) relates and that subsection shall, for the purposes of this subsection, be construed accordingly.
+
+(*b*) Notwithstanding paragraph (a) of this subsection, the Bank may, where the ECB withdraws a Class 1 authorisation and the Bank considers it appropriate in the circumstances, remove in writing the duty and obligation imposed on the liquidator concerned to comply with paragraph (b) (as construed by this subsection) of subsection (3) and may impose in writing on that liquidator such further or other duty and obligation which corresponds to that set out in the said paragraph (b).
+
+(5) Where the holder of a Class 1 authorisation—
+
+(*a*) has its head office in another Member State, or
+
+(*b*) carries on Class 1 business through a branch established in another such state,
+
+the Bank shall, before deciding to submit a proposal to the ECB to withdraw a Class 1 authorisation, consult with the authority in that state that exercises in that state functions corresponding to those of the Bank under this Part, provided however that if immediate action by the Bank is called for it shall not be necessary for the Bank to consult as aforesaid but in such a case the Bank shall notify the authority concerned of the withdrawal of the Class 1 authorisation.
+
+(6) In this section—
+
+(*a*) an undertaking shall be treated as a fellow subsidiary of another undertaking if both are subsidiaries of the same undertaking but neither is a subsidiary of the other undertaking,
+
+(*b*) “subsidiary undertaking”—
+
+(i) in relation to an undertaking incorporated in, or formed under the law of the State has the same meaning as it has in Part 6 of the Companies Act 2014 (No. 38 of 2014), and
+
+(ii) in relation to an undertaking incorporated in, or formed under the law of another, Member State, means any undertaking which is a subsidiary undertaking within the meaning of any rule or law in force in that State for the purposes of giving effect to Directive 2013/34/EU of the European Parliament and of the Council of 26 June 201317 ,
+
+(*c*) “control” has the same meaning as it has in the European Union (Capital Requirements) Regulations 2014, and
+
+(*d*) “associated undertaking” has the same meaning it has in paragraph 22 of Schedule 4 or Schedule 4A of the Companies Act 2014, as applicable.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F210: Inserted (27.06.2022) by *European Union (Investment Firms) (Amendment) Regulations 2022* (S.I. No. 302 of 2022), reg. 4.
+
+### 31N. Publication of names of holders of authorisations and notices of revocation of authorisations (Class 1 firms)
+
+F211[**31N**.—(1) The Bank shall publish from time to time, but not less frequently than once a year, in such manner as it thinks fit, the names of the holders of Class 1 authorisations.
+
+(2) The Bank shall as soon as may be after the revocation of a Class 1 authorisation, publish notice of the revocation in such manner as it thinks fit.
+
+(3) The Bank shall notify the revocation of a Class 1 authorisation to the European Commission, European Banking Committee and to the European Banking Authority.
+
+(4) The Bank shall keep each of the following informed of the names of the holders of Class 1 authorisation:
+
+(*a*) the Registrar of the Supreme Court;
+
+(*b*) the officer for the time being managing the Central Office of the High Court;
+
+(*c*) every County Registrar;
+
+(*d*) every District Court Clerk;
+
+(*e*) the European Banking Committee;
+
+(*f*) the European Banking Authority;
+
+(*g*) the European Markets and Securities Authority;
+
+(*h*) the Minister.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F211: Inserted (27.06.2022) by *European Union (Investment Firms) (Amendment) Regulations 2022* (S.I. No. 302 of 2022), reg. 4.
+
+### 31O. Holders of Class 1 authorisations to keep certain records
+
+F212[**31O**.—(1) The holder of a Class 1 authorisation and each related body shall—
+
+(*a*) keep at an office or offices within the State such records as may be specified by the Bank under *subsection (2)*, and
+
+(*b*) notify the Bank in writing of the address of the office or offices where those records are kepart
+
+(2) The Bank may specify records or classes of records for the purposes of *subsection (1)*.
+
+(3) The requirement imposed by *subsection (1)* is additional to any other requirement imposed by law with respect to the keeping of records by the holder of a Class 1 authorisation and by related bodies.
+
+(4) The holder of a Class 1 authorisation and each related body shall keep the records referred to in *subsection (1)* for such period as the Bank notifies in writing to that holder.
+
+(5) The holder of a Class 1 authorisation may keep its documents wholly or partly in a non-legible form so long as they are capable of being reproduced in a legible form.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F212: Inserted (27.06.2022) by *European Union (Investment Firms) (Amendment) Regulations 2022* (S.I. No. 302 of 2022), reg. 4.
+
+### F213[31P. Holders of Class 1 authorisations and others to provide Bank with required information and returns
+
+**31P**.—(1) The holder of a Class 1 authorisation shall provide the Bank, at such times, or within such periods, as the Bank specifies from time to time, with such information and returns concerning the relevant business carried on by the holder as the Bank specifies from time to time.
+
+(2) The holder of a Class 1 authorisation shall, at such time or within such period as the Bank specifies, provide the Bank with such information or return (not being information or a return specified under *subsection (3)*) as it requests in writing concerning the relevant business carried on by the holder.
+
+(3) The Bank may specify information or a return for the purposes of this section only if it considers it necessary to have that information or return for the proper performance of the functions imposed, or the proper exercise of the powers conferred, on it by law.
+
+(4) A person shall not provide for the purpose of this section information or a return that the person knows to be false or misleading in a material respect.
+
+(5) This section applies to the business of an associated company or a related body only in so far as the information and returns sought by the Bank are, in its opinion, materially relevant to the proper appraisal of the business of the holder of the Class 1 authorisation concerned.
+
+(6) In this section—
+
+“information and returns” and “information or return” include audited accounts and audited group accounts, and any other documents that are equivalent or correspond to audited accounts or audited group accounts;
+
+“relevant business” means the business to which the Class 1 authorisation concerned relates.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F213: Inserted (27.06.2022) by *European Union (Investment Firms) (Amendment) Regulations 2022* (S.I. No. 302 of 2022), reg. 4.
+
+### 31Q. Publication of business statements by holders of Class 1 authorisations
+
+F214[**31Q**.—A holder of a Class 1 authorisation shall publish statements in respect of the business to which the authorisation relates in such form and manner and at such times as may be specified by the Bank from time to time for the purpose of the performance of its statutory functions.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F214: Inserted (27.06.2022) by *European Union (Investment Firms) (Amendment) Regulations 2022* (S.I. No. 302 of 2022), reg. 4.
+
+### 31R. Requirement for holders of MiFID authorisation to re-authorise
+
+F215[**31R.**—(1) Subject to *subsection (2)*, an undertaking referred to in point (1)(b) of Article 4(1) of the Capital Requirements Regulation which has been authorised under Part 2 of the Regulations of 2017 shall apply for a Class 1 authorisation or a licence, at the latest on the day when the undertaking satisfies either of the following conditions:
+
+(*a*) the average of monthly total assets of the undertaking, calculated over a period of 12 consecutive months, is equal to or exceeds €30,000,000,000;
+
+(*b*) the average of monthly total assets of the undertaking, calculated over a period of 12 consecutive months, is less than €30,000,000,000, and the undertaking is part of a group in which the total value of the consolidated assets of all undertakings in the group F216[established in the Union, including any of their branches and subsidiaries established in a third-country,] that individually have total assets of less than €30,000,000,000 and that carry out any of the activities referred to in paragraphs 3 and 6 of Part 1 of Schedule 1 to the Regulations of 2017 is equal to or exceeds €30,000,000,000, both calculated as an average over a period of 12 consecutive months.
+
+(2) An undertaking referred to in point (1)(b) of Article 4(1) of the Capital Requirements Regulation that, on 24 December 2019, carried out activities as an investment firm authorised under the Regulations of 2017 shall apply for a Class 1 authorisation or a licence on or before the date that is 180 days from the later of—
+
+(*a*) the date on which the European Union (Investment Firms) (No. 2) (Amendment) Regulations 2022 are made, and
+
+(*b*) the date on which the regulatory technical standards referred to in Article 8a(6) of the Capital Requirements Directive are adopted by the Commission of the European Union.
+
+(3) Subject to *subsection (4)*, an undertaking referred to in *subsection (1)* or *(2)* may continue to carry on the activities referred to in point (1)(b) of Article 4(1) of the Capital Requirements Regulation notwithstanding that neither a Class 1 authorisation nor a licence has been granted to the undertaking.
+
+(4) *Subsection (3)* shall cease to apply to an undertaking as follows:
+
+(*a*) where the undertaking concerned has failed to apply for a Class 1 authorisation or a licence in accordance with subsection (1) or (2), as applicable, on and from the date by which an application was required to be made under the subsection concerned;
+
+(*b*) where—
+
+(i) either—
+
+(I) the application by the undertaking for a licence has been rejected under section 9(1)(b), or
+
+(II) the application by the undertaking for a Class 1 authorisation has been rejected under section 31C(2)(b),
+
+and
+
+(ii) the undertaking has failed to make an appeal before the time limit for the making of an appeal under Part VIIA of the Act of 1942 has expired,
+
+subject to *paragraph (f)*, on the date on which that time limit expires;
+
+(*c*) where—
+
+(i) the application by the undertaking for a licence has been rejected under *section 9(1)(b)*,
+
+(ii) the undertaking has made an appeal under Part VIIA of the Act of 1942, and
+
+(iii) the decision on the final determination of the appeal is to uphold the decision of the Bank under *section 9(1)*,
+
+subject to *paragraph (f)*, on the date of the final determination of the appeal;
+
+(*d*) where—
+
+(i) the application by the undertaking for a Class 1 authorisation has been rejected under *section 31C(2)(b)*,
+
+(ii) the undertaking has made an appeal under Part VIIA of the Act of 1942, and
+
+(iii) the decision on the final determination of the appeal is to uphold the decision of the Bank under *section 31C(2)*,
+
+subject to *paragraph (f)*, on the date of the final determination of the appeal;
+
+(*e*) where the ECB has objected to a draft decision to propose to it to grant a Class 1 authorisation or a licence to the undertaking, subject to *paragraph (f)*, on the date on which the undertaking is notified of that objection;
+
+(*f*) where the Bank determines that the application of *paragraph (b)*, *(c)*, *(d)* or *(e)* would result in a detriment to—
+
+(i) investors, or
+
+(ii) the proper and orderly regulation and supervision of investment firms,
+
+on the date, notified in writing to the undertaking concerned, which the Bank considers appropriate in order to allow the undertaking sufficient time to cease to carry on the activities referred to in point (1)(b) of Article 4(1) of the Capital Requirements Regulation in such a manner as to avoid any such detriment arising.
+
+(5) Where the Bank, after receiving information in accordance with Article 95a of the Markets in Financial Instruments Directive, determines that an undertaking is required to apply for a Class 1 authorisation or a licence in accordance with subsection (1) or (2), it shall notify the undertaking and shall, where the Bank is not the competent authority for the purposes of that Directive, take over the authorisation procedure from the date of that notification.
+
+(6) Where a holder of an authorisation granted under the Regulations of 2017 applies to the Bank for a Class 1 authorisation, the Bank shall, in determining whether the conditions referred to in *sections 31D* to *31G* have been complied with, take into account information received by the Bank in relation to the application by the holder for authorisation under the Regulations of 2017 insofar as such information is relevant to the application for a Class 1 authorisation.
+
+(7) Where a holder of an authorisation granted under the Regulations of 2017 applies to the Bank for a licence, the Bank shall, in determining whether the conditions referred to in *sections 9D* to *9G* have been complied with, take into account information received by the Bank in relation to the application by the holder for authorisation under the Regulations of 2017 insofar as such information is relevant to the application for a licence.
+
+F217[(7A) By way of derogation from *subsection (1)*, based on the application received in accordance with *subsection (1)* and the information received in accordance with Article 95a of the Markets in Financial Instruments Directive, the Bank may waive the requirement to obtain a licence.
+
+(7B) Upon receiving a waiver request, the Bank shall notify the EBA thereof and the EBA shall issue an opinion on that waiver request within one month of receiving the notification.
+
+(7C) The Bank shall take a decision on the waiver request, taking into account the EBA opinion and at least the following elements:
+
+(*a*) where the undertaking is part of a group, the organisational structure of the group, the booking practices prevailing within the group and the allocation of assets across the group entities;
+
+(*b*) the nature, size and complexity of the activities carried out by the undertaking in the State and in the Union as a whole;
+
+(*c*) the importance of, and systemic risk posed by, the activities carried out by the undertaking in the State and in the Union as a whole.
+
+(7D) Where a decision of the Bank under *subsection (7A)* deviates from the opinion provided by the EBA, the Bank shall state the reasons for the deviation in its decision.
+
+(7E) The Bank shall notify its decision to the undertaking concerned and to the EBA and the EBA shall publish that decision, together with the opinion of the EBA, on the EBA website.
+
+(7F) The Bank shall reassess decisions made under *subsection (7A)* every three years.]
+
+(8) Where a holder of an authorisation granted under the Regulations of 2017 applies for a credit institution authorisation under the SSM Regulation in another Member State, the Bank shall, upon request, disclose to the competent authority in that Member State and the ECB information received by the Bank in relation to the application by the holder for authorisation under the Regulations of 2017.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F215: Inserted (27.06.2022) by *European Union (Investment Firms) (No. 2) (Amendment) Regulations 2022* (S.I. No. 303 of 2022), reg. 4.
+>
+> F216, F217: Inserted (10.07.2026) by *European Union (Capital Requirements) (Amendment) Regulations 2026* (S.I. No. 326 of 2026), reg. 60(s).
+
+## PART III — Transfers of Banks
+
+### 32. Interpretation (Part III).
+
+**32.**—In this Part
+
+F218[“building society” means a building society to which an authorisation has been granted or deemed to be granted under the Building Societies Act 1989;]
+
+“security” includes a mortgage (whether legal or equitable), charge, debenture, bill of exchange, promissory note, guarantee, lien, pledge or other means of securing the payment of a debt whether present or future, or the discharge of an obligation or liability whether actual or contingent;
+
+“the transferor”, “the transferee” and “the transfer date” have the meanings assigned to them by section 33 of this Act.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F218: Inserted (4.06.2014) by *Central Bank Act 2014* (9/2014), s. 1(a), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C44: References construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 152(a), in operation as per reg. 1(2).
+>
+> **152**. Notwithstanding Regulation 7(1), the references, however expressed, to the holder of a licence under section 9 of the Act of 1971, in—
+>
+> (a) sections 19 to 26, section 28, sections 31 to 42 or section 58 of the Act of 1971,
+>
+> …
+>
+> shall be construed so as to include any person who, but for the application of Regulation 7(1), was or would have been required to hold a licence under section 9 of the Act of 1971.
+>
+> **Editorial Notes:**
+>
+> E75: Previous affecting provision: references construed (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations 1992* (S.I. No. 395 of 1992), reg. 38(1)(a)(i), in operation as per reg. 1(2); revoked (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 161, in operation as per reg. 1, subject to transitional provisions.
+
+### 33. Approval by Minister of transfer of bank.
+
+**33.**—(1) Whenever the holder of a licence F219[or a building society acting through its board of directors] (in this Part referred to as the transferor) agrees to transfer, in whole or in part, to another holder of a licence (in this Part referred to as the transferee) the business to which the licence relates F219[, or where the transferor is a building society the business to which its authorisation,] F220[and all or any of the other assets and liabilities of the transferor].
+
+(*a*) the transferor and transferee may, F222[...] before the date on which the transfer is intended to take effect (in this Part referred to as the transfer date), submit to the Minister for his approval a scheme for the transfer,
+
+(*b*) the transferor and transferee shall, not less than one month before the transfer date, publish notice of the transfer in at least one daily newspaper published in the State,
+
+(*c*) the Minister, after consultation with the Bank, may, not less than two months before the transfer date, either approve of or decline to approve of the scheme by order F220[(in this section called a “transfer order”)],
+
+(*d*) F223[if the Minister approves of the scheme—
+
+(i) the assets and liabilities of the transferor described in the scheme shall be transferred under the transfer order, and
+
+(ii) if the scheme so provides, *sections 34* to *39* and *42* have effect in relation to the transfer, but only to the extent that the scheme so provides,
+
+(*e*) the Minister, if the transferor and transferee so request—
+
+(i) may include in the transfer order such incidental, consequential and supplemental provisions as he or she thinks appropriate for facilitating and implementing the transfer and securing that it is fully and effectively carried out, including provisions for substituting the name of the transferee for the transferor or otherwise adapting references to the transferor in any instrument, and
+
+(ii) may provide in the transfer order for such transitional matters, including the sharing of assets and other contracts, as the Minister considers appropriate,]
+
+F221[ (*f*) a transfer order takes effect notwithstanding:
+
+(i) any duty or obligation to any person;
+
+(ii) any provision of any enactment, rule of law, code of practice or agreement providing or requiring—
+
+(I) notice to any person, or
+
+(II) the consent, approval or concurrence of any person.]
+
+(2) An order under *subsection (1)* of this section or under this subsection may, after consultation with the Bank and with the consent of the transferor and the transferee to whom it relates, be amended by the Minister by order.
+
+F224[(3) Notwithstanding the periods specified in *subsection (1)* of this section, the Minister may, in any particular case, following consultation with the Governor, reduce one or more of those periods where, and to the extent, the Minister considers it necessary for the purpose of financial stability.]
+
+F221[(4) Where the Minister approves of a scheme under *subsection (1)(c)* involving a transfer which, in the Minister’s opinion, is intended to preserve or restore the financial position of the transferor or transferee, but which could affect the rights of third parties existing before the transfer—
+
+(*a*) the relevant order under *subsection (1)* shall be expressed as having been made with the intention of preserving or restoring the financial position of the transferor or transferee (with the possibility of affecting third parties’ pre-existing rights) and being intended to have effect outside as well as inside the State,
+
+(*b*) *sections 33A* and *33B* have effect in relation to the transfer, and
+
+(*c*) the Minister may dispense with the requirement in *subsection (1)(b)* to publish prior notice of the transfer, and may substitute for that requirement a requirement to publish a contemporaneous or retrospective notice in such places as the Minister may direct.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F219: Inserted (4.06.2014) by *Central Bank Act 2014* (9/2014), s. 1(b)(i), (ii), commenced on enactment.
+>
+> F220, F221: Inserted (21.12.2010) by *Credit Institutions (Stabilisation) Act 2010* (36/2010), s. 73 and sch. 1 part 3 items 1-4, S.I. No. 623 of 2010.
+>
+> F222: Deleted (4.06.2014) by *Central Bank Act 2014* (9/2014), s. 1(b)(iii), commenced on enactment.
+>
+> F223: Substituted (21.12.2010) by *Credit Institutions (Stabilisation) Act 2010* (36/2010), s. 73 and sch 1 part 3 item 3, S.I. No. 623 of 2010.
+>
+> F224: Inserted (1.10.2010) by *Central Bank Reform Act 2010* (23/2010), s. 14(4) and sch. 1 part 3 item 4, S.I. No. 623 of 2010.
+>
+> **Modifications (not altering text):**
+>
+> C45: Application of section restricted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 88(2), S.I. No. 176 of 1989.
+>
+> **Application of certain other enactments**
+>
+> **88.—**(1) Nothing in any other enactment shall be construed as relieving a holder of a licence or other person of any obligation of his to comply with section 82.
+>
+> (2) An order under section 201 or 203 of the Companies Act, 1963, in respect of a proposed amalgamation or under section 33 of the Act of 1971 in respect of a proposed transfer of business of a holder of a licence (being in each case an acquiring transaction) shall not be made until the Bank has given its approval to the acquiring transaction or the relevant period referred to in section 83 has elapsed without the Bank having given or refused to give such approval.
+>
+> C46: References construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 152(a), in operation as per reg. 1(2).
+>
+> **152**. Notwithstanding Regulation 7(1), the references, however expressed, to the holder of a licence under section 9 of the Act of 1971, in—
+>
+> (a) sections 19 to 26, section 28, sections 31 to 42 or section 58 of the Act of 1971,
+>
+> …
+>
+> shall be construed so as to include any person who, but for the application of Regulation 7(1), was or would have been required to hold a licence under section 9 of the Act of 1971.
+>
+> **Editorial Notes:**
+>
+> E76: Power pursuant to section exercised (1.12.2023) by *Central Bank Act 1971 (Approval of Scheme of Transfer Between KBC Bank Ireland Public Limited Company and KBC Bank N.V.) Order 2023* (S.I. No. 447 of 2023), in operation as per art. 4(1).
+>
+> E77: Power pursuant to section exercised (3.11.2023) by *Central Bank Act 1971 (Approval of Scheme of Transfer Between KBC Bank Ireland Public Limited Company and the Governor and Company of the Bank of Ireland) (Residual Balance Assets and Residual Balance Liabilities) Order 2022* (S.I. No. 621 of 2022), in operation as per art. 4(1).
+>
+> E78: Power pursuant to section exercised (3.02.2023) by *Central Bank Act 1971 (Approval of Scheme of Transfer Between KBC Bank Ireland Public Limited Company and the Governor and Company of the Bank of Ireland) Order 2022* (S.I. No. 620 of 2022), in operation as per art. 4(1).
+>
+> E79: Power pursuant to section exercised (1.02.2019) by *Central Bank Act 1971 (Approval of Scheme of Transfer between HSBC Bank plc and HSBC France) Order 2018* (S.I. No. 508 of 2018), in operation as per art. 4(2).
+>
+> E80: Power pursuant to section exercised (3.12.2018) by *Central Bank Act 1971 (Approval of Scheme of Transfer between J.P. Morgan Bank (Ireland) plc and J.P. Morgan Bank Luxembourg S.A., Dublin Branch) Order 2018* (S.I. No. 386 of 2018), in operation as per art. 4(1). .
+>
+> E81: Power pursuant to section exercised (31.10.2016) by *Central Bank Act 1971 (Approval of Scheme of Transfer between LGT Bank (Ireland) Limited and LGT Bank Ltd.) Order 2016* (S.I. No. 456 of 2016), in operation as per art. 4(2).
+>
+> E82: Power pursuant to section exercised (1.09.2014) by *Central Bank Act 1971 (Approval of Scheme of Transfer between ICS Building Society and The Governor and Company of the Bank of Ireland) Order, 2014* (S.I. No. 257 of 2014), in operation as per art. 6(1).
+>
+> E83: Power pursuant to section exercised (9.07.2012) by *Central Bank Act 1971 (Approval of Scheme of The Royal Bank of Scotland N.V. and The Royal Bank of Scotland plc) Order 2012* (S.I. No. 137 of 2012), in operation as per art. 4(1).
+>
+> E84: Power pursuant to section exercised (31.12.2011) by *Central Bank Act 1971 (Approval of Scheme of Transfer between Northern Rock plc and Irish Life and Permanent plc (trading as permanent tsb)) Order 2011* (S.I. No. 547 of 2011), in operation as per art. 4(1).
+>
+> E85: Power pursuant to section exercised (15.02.2010) by *Central Bank Act 1971 (Approval of Scheme of First Active Plc and Ulster Bank Ireland Limited) Order 2009* (S.I. No. 481 of 2009), in operation as per art. 4(1).
+>
+> E86: Power pursuant to section exercised (26.06.2009) by *Central Bank Act 1971 (Approval of Scheme of Kbc Mortgage Bank and Kbc Bank Ireland Plc) Order 2009* (S.I. No. 125 of 2009), in operation as per art. 5(1).
+>
+> E87: Power pursuant to section exercised (31.03.2008) by *Central Bank Act 1971 (Approval of Scheme of Hypo Public Finance Bank and Depfa Bank Plc) Order 2008* (S.I. No. 8 of 2008), in operation as per art. 5(1).
+>
+> E88: Power pursuant to section exercised (1.04.2007) by *Central Bank Act 1971 (Approval of Scheme of National Irish Bank Limited and Danske Bank A/S) Order 2007* (S.I. No. 29 of 2007), in operation as per art. 5(1).
+>
+> E89: Power pursuant to section exercised (1.01.2007) by *Central Bank Act 1971 (Approval of Scheme of AIB Finance Limited and Allied Irish Banks, p.l.c.) Order 2006* (S.I. No. 557 of 2006), in operation as per art. 5(1).
+>
+> E90: Power pursuant to section exercised (1.12.2005) by *Central Bank Act 1971 (Approval of Scheme of AIB Capital Markets p.l.c. and Allied Irish Banks, p.l.c.) Order 2005* (S.I. No. 612 of 2005), in operation as per art. 5(1).
+>
+> E91: Power pursuant to section exercised (1.07.2005) by *Central Bank Act 1971 (Approval of Scheme of Transfer Between Barclays Bank Plc and Barclays Bank Ireland Plc) Order 2005* (S.I. No. 227 of 2005), in operation as per art. 7(1).
+>
+> E92: Power pursuant to section exercised (30.09.2004) by *Central Bank Act 1971 (Approval of Scheme of Transfer Between Citibank International Plc and Citibank Ireland Financial Services Plc) Order 2004* (S.I. No. 470 of 2004), in operation as per art. 5(1).
+>
+> E93: Power pursuant to section exercised (12.04.2004) by *Central Bank Act 1971 (Approval of Scheme of the Investment Bank of Ireland Limited and The Governor and Company of the Bank of Ireland) Order 2004* (S.I. No. 38 of 2004), in operation as per art. 5(1).
+>
+> E94: Power pursuant to subs. (2) exercised (6.06.2003) by *Central Bank Act 1971 (Approval of Scheme of Rheinhyp Bank Europe Plc and Europaische Hypothekenbank S.A.) (No. 2) Order 2003* (S.I. No. 343 of 2003), in operation as per art. 3.
+>
+> E95: Power pursuant to section exercised (7.08.2003) by *Central Bank Act 1971 (Approval of Scheme of Rheinhyp Bank Europe Plc and Europaische Hypothekenbank S.A.) Order 2003* (S.I. No. 239 of 2003), in operation as per art. 5(1).
+>
+> E96: Power pursuant to subs. (2) exercised (6.07.2003) by *Central Bank Act 1971 (Approval of Scheme of Rheinhyp Bank Europe Plc and Europaische Hypothekenbank S.A.) (No. 2) Order 2003* (S.I. No. 343 of 2003).
+>
+> E97: Power pursuant to section exercised (30.04.2003) by *Central Bank Act 1971 (Approval of Scheme of Abn Amro Bank, N.V. and Allied Irish Banks, P.L.C.) Order 2003* (S.I. No. 64 of 2003), in operation as per art. 5(1).
+>
+> E98: Power pursuant to section exercised (2.12.2002) by *Central Bank Act 1971 (Approval of Scheme of Depfa Bank-Europe Plc and Depfa Bank Plc) Order 2002* (S.I. No. 470 of 2002), in operation as per art. 5(1).
+>
+> E99: Power pursuant to section exercised (23.03.2002) by *Central Bank Act 1971 (Approval of Scheme of Bank of Scotland (Ireland) Limited and ICC Bank Plc) Order 2002* (S.I. No. 27 of 2002), in operation as per art. 5(1).
+>
+> E100: Power pursuant to section exercised (23.03.2002) by *Central Bank Act 1971 (Approval of Scheme of ICC Investment Bank Limited and ICC Bank Plc) Order 2002* (S.I. No. 26 of 2002), in operation as per art. 5(1).
+>
+> E101: Power pursuant to section exercised (1.10.2001) by *Central Bank Act 1971 (Approval of Scheme of Transfer Between Ulster Bank Limited and Ulster Bank Markets Limited) Order 2001* (S.I. No. 365 of 2001), in operation as per art. 5(1).
+>
+> E102: Power pursuant to section exercised (1.10.2001) by *Central Bank Act 1971 (Approval of Scheme of Transfer Between Citibank, N.A. and Citibank International Plc, Ireland Branch) Order 2001* (S.I. No. 325 of 2001), in operation as per art. 6(1).
+>
+> E103: Power pursuant to section exercised (1.07.2001) by *Central Bank Act 1971 (Approval of Scheme of Lombard and Ulster Banking Limited and Ulster Bank Markets Limited) Order 2001* (S.I. No. 187 of 2001), in operation as per art. 5(1).
+>
+> E104: Power pursuant to section exercised (30.11.2000) by *Central Bank Act 1971 (Approval of Scheme of Ansbacher Bankers Limited and Anglo Irish Bank Corporation Public Limited Company) Order 2000* (S.I. No. 298 of 2000), in operation as per art. 5(1).
+>
+> E105: Power pursuant to section exercised (1.09.2000) by *Central Bank Act 1971 (Approval of Scheme of Bank of Ireland Finance Limited and The Governor and Company of the Bank of Ireland) Order 2000* (S.I. No. 204 of 2000), in operation as per art. 5(1).
+>
+> E106: Power pursuant to section exercised (30.04.2000) by *Central Bank Act 1971 (Approval of Scheme of Anglo Irish Corporate Bank Limited and Anglo Irish Bank Corporation Plc) Order 2000* (S.I. No. 53 of 2000), in operation as per art. 5(1).
+>
+> E107: Power pursuant to section exercised (24.04.2000) by *Central Bank Act 1971 (Approval of Scheme of Eurohypo European Mortgage Bank Plc and Europäische Hypothekenbank S.A.) Order, 2000* (S.I. No. 52 of 2000), in operation as per art. 5(1).
+>
+> E108: Power pursuant to section exercised (31.03.2000) by *Central Bank Act 1971 (Approval of Scheme of Ge Capital Woodchester Bank Limited and Investec Bank (Uk) Limited) Order 2000* (S.I. No. 28 of 2000), in operation as per art. 5(1).
+>
+> E109: Power pursuant to section exercised (30.11.1998) by *Central Bank Act 1971 (Approval of Scheme of Hypo-Bank Ireland and Vereinsbank Ireland) Order, 1998* (S.I. No. 361 of 1998), in operation as per art. 5(1).
+>
+> E110: Power pursuant to section exercised (1.09.1997) by *Central Bank Act 1971 (Approval of Scheme of Irish Bank of Commerce Limited and Anglo Irish Bank Corporation Public Limited Company) Order 1997* (S.I. No. 282 of 1997), in operation as per art. 5(1).
+>
+> E111: Power pursuant to section exercised (1.01.1997) by *Central Bank Act 1971 (Approval of Scheme of National Irish Investment Bank Limited and National Irish Vank Limited) Order 1996* (S.I. No. 320 of 1996), in operation as per art. 5(1).
+>
+> E112: Power pursuant to section exercised (31.10.1996) by *Central Bank Act 1971 (Approval of Scheme of the Bank of Nova Scotia and Scotiabank (Ireland) Limited) Order 1996* (S.I. No. 258 of 1996), in operation as per art. 5(1).
+>
+> E113: Power pursuant to section exercised (1.07.1996) by *Central Bank Act 1971 (Approval of Scheme of Westdeutsche Landesbank (Ireland) Limited and Westdeutsche Landesbank (Ireland) P.L.C.) Order 1996* (S.I. No. 119 of 1996), in operation as per art. 5(1).
+>
+> E114: Power pursuant to section exercised (28.06.1995) by *Central Bank Act 1971 (Approval of Scheme of Irish Business Bank, The Dublin Branch of Tsb Bank Plc, and Anglo Irish Bank Corporation Plc) Order 1995* (S.I. No. 121 of 1995), in operation as per art. 5(1).
+>
+> E115: Power pursuant to section exercised (30.09.1994) by *Central Bank Act 1971 (Approval of Scheme of Hill Samuel Bank Limited and Tsb Bank Plc.) Order 1994* (S.I. No. 263 of 1994), in operation as per art. 5(1).
+>
+> E116: Power pursuant to section exercised (1.09.1993) by *Central Bank Act 1971 (Approval of Scheme of Abn Amro Bank (Ireland) Limited and Abn Amro Bank N.V.) Order 1993* (S.I. No. 185 of 1993), in operation as per art. 5(1).
+>
+> E117: Power pursuant to section exercised (28.02.1993) by *Central Bank Act 1971 (Approval of Scheme of Woodchester Credit Lyonnais Bank Limited and Woodchester Investment Bank Limited) Order 1992* (S.I. No. 383 of 1992), in operation as per art. 5(1).
+>
+> E118: Previous affecting provision: references construed (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations 1992* (S.I. No. 395 of 1992), reg. 38(1)(a)(i), in operation as per reg. 1(2); revoked (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 161, in operation as per reg. 1, subject to transitional provisions.
+>
+> E119: Power pursuant to section exercised (31.12.1992) by *Central Bank Act 1971 (Approval of Scheme of Woodchester Credit Lyonnais Bank Limited and Woodchester First Southern Bank Limited) Order 1992* (S.I. No. 303 of 1992), in operation as per art. 5.
+>
+> E120: Power pursuant to section exercised (31.12.1992) by *Central Bank Act 1971 (Approval of Scheme of Woodchester Credit Lyonnais Bank Limited and First Southern Bank Limited) Order 1992* (S.I. No. 302 of 1992), in operation as per art. 5.
+>
+> E121: Power pursuant to section exercised (1.11.1992) by *Central Bank Act 1971 (Approval of Scheme of Banque Nationale de Paris (Ireland) Limited and Banque Nationale de Paris S.A.) Order 1992* (S.I. No. 241 of 1992), in operation as per art. 5.
+>
+> E122: Power pursuant to section exercised (30.10.1992) by *Central Bank Act 1971 (Approval of Scheme of Hill Samuel Bank (Ireland) Limited and Hill Samuel Bank Limited) Order 1992* (S.I. No. 242 of 1992), in operation as per art. 5.
+>
+> E123: Power pursuant to section exercised (1.10.1992) by *Central Bank Act 1971 (Approval of Scheme of National Irish Investment Bank Limited and National Irish Bank Limited) Order 1992* (S.I. No. 210 of 1992), in operation as per art. 5.
+>
+> E124: Power pursuant to section exercised (1.02.1992) by *Central Bank Act 1971 (Approval of Scheme of Abn Amro Bank (Ireland) Limited and Abn Amro Bank Nv) Order, 1991* (S.I. No. 283 of 1991), in operation as per art. 5.
+>
+> E125: Power pursuant to section exercised (11.10.1989) by *Central Bank Act (Approval of Scheme of Credit Finance Bank Plc and Allied Irish Finance Company Limited) Order, 1989* (S.I. No. 205 of 1989), in operation as per art. 9.
+>
+> E126: Power pursuant to section exercised (1.01.1989) by *Central Bank Act (Approval of Scheme of Hongkong and Shanghai Banking Corporation and Midland Bank Public Limited Company) Order 1988* (S.I. No. 274 of 1988), in operation as per art. 12.
+>
+> E127: Power pursuant to section exercised (31.10.1988) by *Central Bank Act (Approval of Scheme of Barclays Bank Ireland Limited and Barclays Bank Public Limited Company) Order, 1988* (S.I. No. 214 of 1988), in operation as per art. 10.
+>
+> E128: Power pursuant to section exercised (1.02.1987) by *Central Bank Act (Approval of Scheme of Anglo Irish Bank Limited and City of Dublin Bank Plc) Order, 1986* (S.I. No. 385 of 1986), in operation as per art. 9.
+>
+> E129: Power pursuant to section exercised (1.07.1986) by *Central Bank Act (Approval of Scheme of Northern Bank Limited and Northern Bank (Ireland) Limited) Order 1986* (S.I. No. 99 of 1986), in operation as per art. 7.
+>
+> E130: Power pursuant to section exercised (1.07.1986) by *Central Bank Act (Approval of Scheme of Forward Trust (Ireland) Limited and Northern Bank Finance Corporation Limited) Order 1986* (S.I. No. 98 of 1986), in operation as per art. 7.
+>
+> E131: Power pursuant to section exercised (1.04.1972) by *Central Bank Act (Approval of Scheme of Lombard and Ulster Banking (I) Limited and Lombard and Ulster Banking Ireland Limited) Order 1972* (S.I. No. 25 of 1972), in operation as per art. 6.
+>
+> E132: Power pursuant to section exercised (1.04.1972) by *Central Bank Act (Approval of Scheme of the Royal Bank of Ireland Limited and Allied Irish Banks Limited) Order 1972* (S.I. No. 24 of 1972), in operation as per art. 9.
+>
+> E133: Power pursuant to section exercised (1.04.1972) by *Central Bank Act (Approval of Scheme of Provincial Bank of Ireland Limited and Allied Irish Banks Limited) Order 1972* (S.I. No. 23 of 1972), in operation as per art. 9.
+>
+> E134: Power pursuant to section exercised (1.04.1972) by *Central Bank Act (Approval of Scheme of the Munster and Leinster Bank Limited and Allied Irish Banks Limited) Order 1972* (S.I. No. 22 of 1972), in operation as per art. 9.
+>
+> E135: Power pursuant to section exercised (31.03.1972) by *Central Bank Act (Approval of Scheme of the Hibernian Bank Limited and The Governor and Company of the Bank of Ireland) Order 1972* (S.I. No. 21 of 1972), in operation as per art. 9.
+>
+> E136: Power pursuant to section exercised (31.03.1972) by *Central Bank Act (Approval of Scheme of the National Bank of Ireland Limited and The Governor and Company of the Bank of Ireland) Order 1972* (S.I. No. 20 of 1972), in operation as per art. 9.
+
+### 33A. Effect of order under section 33(1) on certain other rights.
+
+F225[**33A**.—(1) This section and *section 33B* apply only where an order under *section 33(1)* provides that they shall have effect.
+
+(2) In this section “relevant agreement” means an agreement, arrangement, undertaking, scheme, licence, security, obligation or other instrument, or an oral contract, that a transferor or transferee (or any of the transferor or transferee’s subsidiaries, holding companies and any subsidiaries of their holding companies (with the respective meanings given by section 155 of the Companies Act 1963 )) is a party to, is bound by or has an interest in (regardless of whether governed by the law of the State or that of any other place).
+
+F226[(2A) Where the transferor is ICS Building Society, the definition of “relevant agreement” in *subsection (2)* has effect as if the references to transferor also include the Governor and Company of the Bank of Ireland.]
+
+(3) Any provision in a relevant agreement that would (apart from this subsection) cause any of the consequences specified in *subsection (4)* to follow by virtue of—
+
+(*a*) the amendment of this Act by the Credit Institutions (Stabilisation) Act 2010,
+
+(*b*) the publication of the Bill for that Act,
+
+(*c*) the making of an order under *section 33(1)* or any step taken in preparation for the making of such an order,
+
+(*d*) an act done or omitted to be done in compliance with such an order,
+
+(*e*) any consequences of such an act or omission,
+
+(*f*) any consequence of a transfer expressed as set out in *section 33(4)*,
+
+(*g*) any other thing done or authorised to be done under, under or resulting from any provision of this Act,
+
+is of no effect, and—
+
+(*i*) no interest or right of any third party arises or becomes exercisable, and
+
+(*ii*) no liability or obligation arises or is incurred by any third party,
+
+without the express consent of the Minister, except to any extent to which the Minister provides otherwise by order under *section 33B*.
+
+(4) The consequences referred to in *subsection (3)* are the following:
+
+(*a*) the creation of an obligation or liability;
+
+(*b*) the suspension or extinction (however described, and whether in whole or in part) of a right or an obligation or the becoming subject to a right or an obligation;
+
+(*c*) the termination or extinguishment of the relevant agreement concerned or a right or obligation under it;
+
+(*d*) a right becoming exercisable to terminate or modify the relevant agreement or a right or obligation under it;
+
+(*e*) an amount becoming due and payable or capable of being declared due and payable or ceasing to be payable;
+
+(*f*) any other change in the amount or timing of any payment falling to be made or due to be received by any person;
+
+(*g*) a right becoming exercisable to withhold, net or set off any payment under or in connection with the relevant agreement;
+
+(*h*) the occurrence of an event giving rise to a default or breach of a right or obligation;
+
+(*i*) a right becoming exercisable not to advance any amount;
+
+(*j*) an obligation arising to provide or transfer a deposit or collateral;
+
+(*k*) a right of transfer or assignment of an asset or liability;
+
+(*l*) any right to enforce a guarantee, indemnity or security interest (however described);
+
+(*m*) the triggering of any mandatory prepayment event (howsoever described);
+
+(*n*) any obligation to return collateral or its equivalent;
+
+(*o*) the cancellation of any obligation to advance any amount or to provide credit or a contingent instrument;
+
+(*p*) legal proceedings becoming maintainable to enforce the relevant agreement;
+
+(*q*) the termination or modification of an obligation to provide a service or product;
+
+(*r*) the accrual of any right to give or withhold any consent or approval;
+
+(*s*) any event of default or breach of any right arising;
+
+(*t*) any right or obligation not arising;
+
+(*u*) the imposition of any condition on the relevant agreement;
+
+(*v*) the imposition of any condition on any right or obligation under the relevant agreement;
+
+(*w*) the creation of any constructive or resulting trust or other equitable interest or equity;
+
+(*x*) the accrual of any right to trace any property or to claim an equitable interest in or equity in respect of any property or to claim any breach of trust;
+
+(*y*) any other right or remedy (whether or not similar in kind to those referred to in *paragraphs (a)* to *(x)*) arising or becoming exercisable.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F225: Inserted (21.12.2010) by *Credit Institutions (Stabilisation) Act 2010* (36/2010), s. 73 and sch 1 part 3 item 5, S.I. No. 623 of 2010.
+>
+> F226: Inserted (4.06.2014) by *Central Bank Act 2014* (9/2014), s. 1(c), commenced on enactment.
+
+### 33B. Minister’s power to modify application of section 33A.
+
+F227[**33B**.—(1) In this section “relevant agreement” has the same meaning as in *section 33A*.
+
+(2) If the Minister is of the opinion that in a particular case or cases the effect of *section 33A* is in all the circumstances unduly onerous, or causes unfairness or undue hardship, and that it is appropriate in all the circumstances to do so, he or she may by order provide that, notwithstanding anything in that section, a provision in a relevant agreement that provides for a consequence mentioned or referred to in *section 33A(4)* has effect to the extent specified in the order.
+
+(3) An order under *subsection (2)*—
+
+(*a*) may make provision in relation to the effect of a provision in—
+
+(i) a particular relevant agreement,
+
+(ii) relevant agreements of a particular kind, or
+
+(iii) rights held under a relevant agreement, or relevant agreements of a particular kind, by a particular person or a particular class of persons,
+
+(*b*) in the case of an order that makes provision in relation to relevant agreements of a particular kind, may specify the kind by reference to any common characteristic of the instruments concerned,
+
+(*c*) in the case of an order that makes provision in relation to rights held by a particular class of persons, may specify the class by reference to any common characteristic of the persons concerned, and
+
+(*d*) may be expressed to have retrospective effect to a date falling after 13 December 2010.
+
+(4) If the Minister considers that an order under *subsection (2)* contains matter that is commercially sensitive, he or she may direct—
+
+(*a*) that the obligations in relation to the order under section 3(1) of the Statutory Instruments Act 1947 are to be taken to be satisfied by the printing, sending to the institutions mentioned in section 3(1)(a) of that Act, publication and sale of a version of the order from which the commercially sensitive matter is omitted, or
+
+(*b*) if the preparation of such a version would be impracticable, or would result in the version being seriously misleading, that the order is exempt from the operation of section 3(1) of that Act.
+
+(5) A version of an order prepared in accordance with a direction given by the Minister under *subsection (4)(a)* shall indicate that matter has been omitted from the version of the order and the general nature of that matter.
+
+(6) A direction given by the Minister under *subsection (4)* shall be published in Iris Oifigiúil as soon as practicable.
+
+(7) Evidence of a direction given by the Minister under *subsection (4)* may be given by the production of a copy of Iris Oifigiúil purporting to contain the direction.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F227: Inserted (21.12.2010) by *Credit Institutions (Stabilisation) Act 2010* (36/2010), s. 73 and sch. 1 part 3 item 5, S.I. No. 623 of 2010.
+
+### 34. Transfer of accounts.
+
+**34.**—Any account which is included in the business agreed to be transferred and is between the transferor and any person at any office or branch of the transferor in the State F228[(or, where the relevant transfer order under *section 33(1)* so provides, inside and outside the State)] shall be transferred or deemed to be transferred to the transferee on the transfer date and become as and from that date an account between the transferee and that person with the same rights and subject to the same obligations and incidents (including rights of set-off) as would have been applicable thereto if such account between the transferor and the person had continued and any order, instruction, direction, mandate or authority given, whether before or after that date, by that person in relation to such account or any obligation entered into by the transferor in relation to any person and subsisting at that date shall apply and have effect after the transfer of the account to the transferee as aforesaid, and any moneys owing on such account by that person to the transferor at that date shall become due and payable by that person to the transferee instead of to the transferor, and any moneys owing on such account by the transferor to that person at that date shall become due and payable by the transferee to that person instead of by the transferor.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F228: Inserted (21.12.2010) by *Credit Institutions (Stabilisation) Act 2010* (36/2010), s. 73 and sch. 1 part 3 item 6, S.I. No. 623 of 2010.
+>
+> **Modifications (not altering text):**
+>
+> C47: References construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 152(a), in operation as per reg. 1(2).
+>
+> **152**. Notwithstanding Regulation 7(1), the references, however expressed, to the holder of a licence under section 9 of the Act of 1971, in—
+>
+> (a) sections 19 to 26, section 28, sections 31 to 42 or section 58 of the Act of 1971,
+>
+> …
+>
+> shall be construed so as to include any person who, but for the application of Regulation 7(1), was or would have been required to hold a licence under section 9 of the Act of 1971.
+>
+> **Editorial Notes:**
+>
+> E137: Previous affecting provision: references construed (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations 1992* (S.I. No. 395 of 1992), reg. 38(1)(a)(i), in operation as per reg. 1(2); revoked (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 161, in operation as per reg. 1, subject to transitional provisions.
+
+### 34A. Transfer of property.
+
+F229[**34A.**—All contracts, agreements, conveyances, mortgages, deeds, leases, licences, undertakings, notices and other instruments, (whether or not in writing) entered into by, made with, given to or by, or addressed to the transferor (whether alone or with another person) relating to assets comprising real property or personal property (including choses in action) transferred are, to the extent that they were previously binding on and enforceable by, against or in favour of the transferor, binding on and enforceable by, against, or in favour of the transferee as fully and effectually in every respect as if the transferee had been the person by whom they were entered into, with whom they were made, or to or by whom they were given or addressed (as the case may be).]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F229: Inserted (21.12.2010) by *Credit Institutions (Stabilisation) Act 2010* (36/2010), s. 73 and sch. 1 part 3 item 7, S.I. No. 623 of 2010.
+
+### 35. Transfer of securities.
+
+**35.**—Any security held by the transferor in connection with the business agreed to be transferred as security for the payment of the debts or liabilities (whether present or future, actual or contingent) of any person at any office or branch of the transferor F230[(whether inside or outside the State)] shall be transferred or deemed to be transferred on the transfer date and be held by and be available to the transferee as security for the payment of such debts and liabilities to the transferee; and where the moneys secured by such a security include future advances to or liabilities of any person, the said security shall as from that date be held by and be available to the transferee as security for future advances to that person by and future liabilities of that person to the transferee to the same extent to which future advances by or liabilities to the transferor were secured thereby immediately before that date.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F230: Inserted (21.12.2010) by *Credit Institutions (Stabilisation) Act 2010* (36/2010), s. 73 and sch. 1 part 3 item 8, S.I. No. 623 of 2010.
+>
+> **Modifications (not altering text):**
+>
+> C48: References construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 152(a), in operation as per reg. 1(2).
+>
+> **152**. Notwithstanding Regulation 7(1), the references, however expressed, to the holder of a licence under section 9 of the Act of 1971, in—
+>
+> (a) sections 19 to 26, section 28, sections 31 to 42 or section 58 of the Act of 1971,
+>
+> …
+>
+> shall be construed so as to include any person who, but for the application of Regulation 7(1), was or would have been required to hold a licence under section 9 of the Act of 1971.
+>
+> **Editorial Notes:**
+>
+> E138: Previous affecting provision: references construed (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations 1992* (S.I. No. 395 of 1992), reg. 38(1)(a)(i), in operation as per reg. 1(2); revoked (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 161, in operation as per reg. 1, subjec to transitional provisions.
+
+### 36. Rights and obligations in relation to transferred securities.
+
+**36.**—The transferee shall, in relation to F231[any property transferred in accordance with or by virtue of the provisions of *section 34A* or] any security transferred or deemed to have been transferred to the transferee in accordance with or by virtue of the provisions of *section 35* of this Act and the moneys thereby secured in accordance with those provisions, be entitled to the same rights and priorities and subject to the same obligations and incidents as the transferor would have been entitled and subject to if the same had continued to be held by the transferor, and in relation thereto the following provisions shall have effect:
+
+(*a*) the transfer of any such security effected or deemed to be effected by *section 35* of this Act shall not require registration under or in pursuance of the Registration of Deeds Act, 1707, the pre-Union Irish statute 33 Geo. 2, c. 14 (Ir.), the Registration of Title Act, 1964, or section 99 of the Companies Act, 1963, but shall operate for the purposes of those Acts as if it were made by deed duly registered on the transfer date under or in pursuance of whichever of those Acts may be applicable thereto;
+
+(*b*) where *section 35* of this Act effects an extension of or in relation to any such security so as to include future advances by or future liabilities to the transferee, such extension shall not require registration under or in pursuance of the Registration of Deeds Act, 1707, the Bills of sale (Ireland) Acts, 1879 and 1883, the Registration of Title Act, 1964, or section 99 of the Companies Act, 1963, but shall operate for the purposes of those Acts as if it were made by deed duly registered on the transfer date under or in pursuance of whichever of those Acts may be applicable thereto.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F231: Inserted (21.12.2010) by *Credit Institutions (Stabilisation) Act 2010* (36/2010), s. 73 and sch. 1 part 3 item 9, S.I. No. 623 of 2010.
+>
+> **Modifications (not altering text):**
+>
+> C49: References construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 152(a), in operation as per reg. 1(2).
+>
+> **152**. Notwithstanding Regulation 7(1), the references, however expressed, to the holder of a licence under section 9 of the Act of 1971, in—
+>
+> (a) sections 19 to 26, section 28, sections 31 to 42 or section 58 of the Act of 1971,
+>
+> …
+>
+> shall be construed so as to include any person who, but for the application of Regulation 7(1), was or would have been required to hold a licence under section 9 of the Act of 1971.
+>
+> **Editorial Notes:**
+>
+> E139: Previous affecting provision: references construed (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations 1992* (S.I. No. 395 of 1992), reg. 38(1)(a)(i), in operation as per reg. 1(2); revoked (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 161, in operation as per reg. 1, subjec to transitional provisions.
+
+### 37. Transfer in the case of property held on bailment.
+
+**37.**—The custody of any document, goods or other property held by the transferor in connection with the business agreed to be transferred as bailee for any other person at any office or branch of the transferor in the State F232[(or, where the relevant transfer order under *section 33(1)* so provides, inside and outside the State)] shall be transferred or deemed to be transferred to the transferee on the transfer date and the rights and obligations of the transferor under any contract of bailment relating to the document, goods or property shall be transferred or deemed to be transferred on that date to the transferee.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F232: Inserted (21.12.2010) by *Credit Institutions (Stabilisation) Act 2010* (36/2010), s. 73 and sch. 1 part 3 item 10, S.I. No. 623 of 2010.
+>
+> **Modifications (not altering text):**
+>
+> C50: References construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 152(a), in operation as per reg. 1(2).
+>
+> **152**. Notwithstanding Regulation 7(1), the references, however expressed, to the holder of a licence under section 9 of the Act of 1971, in—
+>
+> (a) sections 19 to 26, section 28, sections 31 to 42 or section 58 of the Act of 1971,
+>
+> …
+>
+> shall be construed so as to include any person who, but for the application of Regulation 7(1), was or would have been required to hold a licence under section 9 of the Act of 1971.
+>
+> **Editorial Notes:**
+>
+> E140: Previous affecting provision: references construed (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations 1992* (S.I. No. 395 of 1992), reg. 38(1)(a)(i), in operation as per reg. 1(2); revoked (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 161, in operation as per reg. 1, subject to transitional provisions.
+
+### 38. Transfer of officers, clerks and servants.
+
+**38.**— (1)F233[Subject to *subsection (5A)*, any officer] (other than a director or auditor), clerk or servant in the service or employment of the transferor and agreed by the transferor and transferee to be transferred under this section in connection with the business to be transferred shall on the transfer date be transferred from the service or employment of the transferor to and become an officer, clerk or servant (as the case may be) of the transferee with the same rights and subject to the same obligations and incidents in respect of such service or employment as he would have had or been subject to as an officer, clerk or servant of the transferor.
+
+(2) F233[Subject to *subsection (5A)*, every such officer], clerk or servant as aforesaid who is a member of or entitled to benefit under a pension or superannuation scheme of the transferor and every officer, clerk or servant who was formerly employed by the transferor in connection with the business agreed to be transferred and is a member of or entitled to benefit under any such scheme shall with effect from the transfer date become a member of and entitled to the corresponding benefit under a corresponding pension or superannuation scheme of the transferee on terms not less favourable than those under the first mentioned scheme and any person who is, by reason of the membership of or entitlement to benefit under the first mentioned scheme of any officer, clerk or servant employed or formerly employed in connection with the business agreed to be transferred, entitled to benefit thereunder, shall be entitled with effect from the transfer date to the corresponding benefit under the said corresponding scheme on terms not less favourable than those under the first mentioned scheme.
+
+(3) F233[Subject to *subsection (5A)*, any benefit] payable under a pension or superannuation scheme of the transferor to the personal representative (in his capacity as personal representative) of any deceased officer, clerk or servant formerly employed in the business agreed to be transferred and remaining unpaid on the transfer date shall become and be payable on that date by the transferee or under a corresponding pension or superannuation scheme of the transferee.
+
+(4) F233[Subject to *subsection (5A)*, service or employment] with the transferor shall, for the purpose of ascertaining and calculating the right to benefit under any such corresponding scheme, be taken into account as if it were service or employment with the transferee but the transfer of service or employment from the transferor to the transferee shall not, of itself, give rise to any claim to benefit under any such scheme.
+
+(5) The Minister may, at the request of the transferor and transferee, include in F233[an order under *section 33* (other than an order referred to in *subsection (4)* of that section)] such provisions as he thinks appropriate for transferring the whole or any part of the property and assets of any pension or superannuation scheme of the transferor to a corresponding pension or superannuation scheme of the transferee and vesting it in the trustees or other persons charged with the administration of such corresponding scheme and for winding-up, dissolving, terminating or modifying any such scheme of the transferor and the scheme shall have effect in accordance with any such provisions, any such scheme of the transferor being wound up, dissolved, terminated or modified, as the case may be.
+
+F234[(5A) This section does not apply in relation to a transfer of the undertaking of a bank under an order under *section 33(1)* that is expressed as set out in *section 33(4)*.]
+
+(6) In this section—
+
+“benefit” means any pension, annuity, lump sum, gratuity or other like payment given on retirement or payable after retirement in respect of past service or on or in connection with death during service or after retirement;
+
+“pension or superannuation scheme of the transferor” means a scheme, arrangement or fund established in connection with the business of the transferor for the provision of benefit for the officers, clerks or servants (as the case may be) of the transferor or their dependants on their retirement or death;
+
+“pension or superannuation scheme of the transferee” means a scheme, arrangement or fund established in connection with the business of the transferee for the provision of benefit for the officers, clerks or servants (as the case may be) of the transferee or their dependants on their retirement or death.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F233: Substituted (21.12.2010) by *Credit Institutions (Stabilisation) Act 2010* (36/2010), s. 73 and sch. 1 part 3 item 11-15, S.I. No. 623 of 2010.
+>
+> F234: Inserted (21.12.2010) by *Credit Institutions (Stabilisation) Act 2010* (36/2010), s. 73 and sch. 1 part 3 item 16, S.I. No. 623 of 2010.
+>
+> **Modifications (not altering text):**
+>
+> C51: References construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 152(a), in operation as per reg. 1(2).
+>
+> **152**. Notwithstanding Regulation 7(1), the references, however expressed, to the holder of a licence under section 9 of the Act of 1971, in—
+>
+> (a) sections 19 to 26, section 28, sections 31 to 42 or section 58 of the Act of 1971,
+>
+> …
+>
+> shall be construed so as to include any person who, but for the application of Regulation 7(1), was or would have been required to hold a licence under section 9 of the Act of 1971.
+>
+> **Editorial Notes:**
+>
+> E141: Previous affecting provision: references construed (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations 1992* (S.I. No. 395 of 1992), reg. 38(1)(a)(i), in operation as per reg. 1(2); revoked (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 161, in operation as per reg. 1, subject to transitional provisions.
+
+### 39. Application of certain instruments.
+
+**39.**—Where
+
+(*a*) the business agreed to be transferred consists of or includes the business of acting as trustee, executor, guardian or in any other fiduciary capacity, and
+
+(*b*) the transferor was or is granted probate or administration or appointed trustee, executor, guardian or in any other fiduciary capacity by an instrument consisting of
+
+(i) an order of a court,
+
+(ii) a trust deed, settlement, covenant or agreement, or
+
+(iii) a will, codicil or other testamentary instrument,
+
+or
+
+by any testamentary act other than those aforesaid (whether the instrument or act was made, executed or done before or after the transfer date),
+
+the instrument or act shall as from the transfer date be read and construed and have effect as if for any reference therein to the transferor there were substituted a reference to the transferee.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C52: References construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 152(a), in operation as per reg. 1(2).
+>
+> **152**. Notwithstanding Regulation 7(1), the references, however expressed, to the holder of a licence under section 9 of the Act of 1971, in—
+>
+> (a) sections 19 to 26, section 28, sections 31 to 42 or section 58 of the Act of 1971,
+>
+> …
+>
+> shall be construed so as to include any person who, but for the application of Regulation 7(1), was or would have been required to hold a licence under section 9 of the Act of 1971.
+>
+> **Editorial Notes:**
+>
+> E142: Previous affecting provision: references construed (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations 1992* (S.I. No. 395 of 1992), reg. 38(1)(a)(i), in operation as per reg. 1(2); revoked (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 161, in operation as per reg. 1, subject to transitional provisions.
+
+### 40. Application of Bankers' Books Evidence Act, 1879.
+
+**40.**—(1) The Bankers’ Books Evidence Act, 1879, shall continue to apply with respect to any books of the transferor transferred to the transferee in connection with the business agreed to be transferred and to entries made in those books before the transfer date.
+
+(2) In this section “books” includes ledgers, day books, cash books, account books and all other books and records used in the ordinary business of the transferor before the appointed day.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C53: References construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 152(a), in operation as per reg. 1(2).
+>
+> **152**. Notwithstanding Regulation 7(1), the references, however expressed, to the holder of a licence under section 9 of the Act of 1971, in—
+>
+> (a) sections 19 to 26, section 28, sections 31 to 42 or section 58 of the Act of 1971,
+>
+> …
+>
+> shall be construed so as to include any person who, but for the application of Regulation 7(1), was or would have been required to hold a licence under section 9 of the Act of 1971.
+>
+> **Editorial Notes:**
+>
+> E143: Previous affecting provision: references construed (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations 1992* (S.I. No. 395 of 1992), reg. 38(1)(a)(i), in operation as per reg. 1(2); revoked (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 161, in operation as per reg. 1, subjec to transitional provisions.
+
+### 41. Continuance of pending legal proceedings.
+
+**41.**—Where, immediately before the transfer date, any legal proceedings are pending to which the transferor is a party and the proceedings have reference to the business agreed to be transferred, the name of the transferee shall on the transfer date be substituted for that of the transferor and the proceedings shall not abate by reason of such substitution.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C54: References construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 152(a), in operation as per reg. 1(2).
+>
+> **152**. Notwithstanding Regulation 7(1), the references, however expressed, to the holder of a licence under section 9 of the Act of 1971, in—
+>
+> (a) sections 19 to 26, section 28, sections 31 to 42 or section 58 of the Act of 1971,
+>
+> …
+>
+> shall be construed so as to include any person who, but for the application of Regulation 7(1), was or would have been required to hold a licence under section 9 of the Act of 1971.
+>
+> **Editorial Notes:**
+>
+> E144: Previous affecting provision: references construed (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations 1992* (S.I. No. 395 of 1992), reg. 38(1)(a)(i), in operation as per reg. 1(2); revoked (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 161, in operation as per reg. 1, subject to transitional provisions.
+
+### 42. Exemptions from stamp duty.
+
+**42.**—(1) Section 12 of the Finance Act, 1895, shall not apply to the vesting in the transferee of any property of the transferor by virtue of this Act.
+
+(2) Stamp duty shall not be charged on any agreement made between the transferor and the transferee for the transfer, in whole or in part, to the transferee of the business to which the licence F235[or authorisation] held by the transferor relates.
+
+(3) Stamp duty shall not be charged on any instrument executed in order to supplement the transfers effected or deemed to be effected by sections 34 and 35 of this Act.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F235: Inserted (4.06.2014) by *Central Bank Act 2014* (9/2014), s. 1(d), commenced on enactment.
+>
+> F236: Deleted by *Finance Act 1999* (2/1999), s. 197 and sch. 6, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C55: References construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), regs. 152(a); in operation as per reg. 1(2).
+>
+> **152**. Notwithstanding Regulation 7(1), the references, however expressed, to the holder of a licence under section 9 of the Act of 1971, in—
+>
+> (a) sections 19 to 26, section 28, sections 31 to 42 or section 58 of the Act of 1971,
+>
+> ...
+>
+> shall be construed so as to include any person who, but for the application of Regulation 7(1), was or would have been required to hold a licence under section 9 of the Act of 1971.
+>
+> **Editorial Notes:**
+>
+> E145: Previous affecting provision: subs. (1) deleted (25.03.1999) by *Finance Act 1999* (2/1999), s. 197 and sch. 6, commenced on enactment; repealed (15.12.1999) by *Stamp Duties Consolidation Act 1999* (31/1999), ss. 160, 163, sch. 3, commenced on enactment.
+>
+> E146: Previous affecting provision: references construed (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations 1992* (S.I. No. 395 of 1992), reg. 38(1)(a)(i), in operation as per reg. 1(2); revoked (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 161, in operation as per reg. 1 subject to transitional provisions.
+
+## PART IV — Currency
+
+### 43. Standard of value.
+
+**43.**—F237[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F237: Repealed (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 4 and sch., commenced on enactment.
+
+### 44. Issue of legal tender notes by Bank.
+
+**44.**—F238[It shall be lawful for the Bank, with the authority of the European Central Bank, to issue legal tender notes.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F238: Substituted (1.01.1999) by *Central Bank Act 1998* (2/1998), s. 15, S.I. No. 526 of 1998.
+>
+> **Editorial Notes:**
+>
+> E147: Previous affecting provision: substituted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 120(1); substituted (1.01.1999) as per F-note above.
+
+### 45. Amendment of section 49 of Act of 1927.
+
+**45.**—Section 49 of the Act of 1927 is hereby amended by
+
+(*a*) the substitution for subsections (1) and (2) of the following subsections:
+
+“(1) The holder of a legal tender note of any denomination shall be entitled, on demand made by him during office hours at the office of the Bank in Dublin, to receive in exchange for the note a legal tender note or legal tender notes to the same total value.
+
+(2) Every legal tender note shall be exchangeable on presentation at the London Agency for money in any form which is for the time being legal tender in Great Britain for unlimited amounts.
+
+(2A) The Bank may, if and whenever and to such extent as it thinks fit, exchange any legal tender notes presented to it for exchange at the office of the Bank in Dublin for money in any form which is for the time being legal tender in Great Britain for unlimited amounts, or for a draft on London or, subject to and in accordance with the Exchange Control Acts, 1954 to 1970, for other foreign currencies.”,
+
+and
+
+(*b*) the substitution of “exchange” for“redeem” in subsection (3) and “exchanged” for“redeemed” in subsections (3) and (4).
+
+### 46. Amendment of section 50 of Act of 1927 and of section 5 of the Currency (Amendment) Act, 1930.
+
+**46.**—(1) Section 50 of the Act of 1927 is hereby amended by the substitution of “exchange” for“redemption” in each place where it occurs in subsections (1) and (2).
+
+(2) Section 5 (3) of the Currency (Amendment) Act, 1930, is hereby amended by the substitution of “exchange” for“redeem” in each place where it occurs.
+
+## PART V — Miscellaneous
+
+### 47. Additional powers and functions of Bank.
+
+**47.**—F239[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F239: Repealed (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 6, S.I. No. 160 of 2003.
+>
+> **Modifications (not altering text):**
+>
+> **Editorial Notes:**
+>
+> E148: Previous affecting provision: application of section extended (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 12; section repealed (1.05.2003) as per F-note above.
+
+### 48. Central Bank Reserve Bonds.
+
+**48.**—(1) The Bank may issue through the general fund securities (which shall be known as Central Bank Reserve Bonds and are in this section referred to as bonds) in its own name in exchange for such currency or currencies as the Bank may specify.
+
+(2) The issue, holding and sale of any bonds shall be on and subject to such terms and conditions as the Bank may determine at the time of the issue of those bonds, including terms and conditions fixing the issue price of the bonds, the rate of interest to be paid thereon, the dates of payment of the interest thereon and the date of maturity of the bonds.
+
+F240[(3) The Bank shall not issue bonds to bodies other than credit institutions.]
+
+(4) Bonds shall be registered in the Bank.
+
+(5) A holder of bonds may transfer them to any other holder of a licence but shall not transfer them to any other person.
+
+(6) The Bank may purchase bonds from a holder thereof and shall cancel any bonds it purchases.
+
+(7) Stamp duty shall not be chargeable on the issue, assignment, negotiation or redemption of bonds.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F240: Substituted (9.04.1997) by *Central Bank Act 1997* (8/1997), s. 72, S.I. No. 150 of 1997.
+>
+> **Modifications (not altering text):**
+>
+> **Editorial Notes:**
+>
+> E149: Previous affecting provision: application of section extended (2.05.1977) by *Building Societies Act 1976* (38/1976), s. 38(4), S.I. No. 118 of 1977; 1976 Act repealed with savers (1.09.1989) by *Building Societies Act 1989* (17/1989), s. 6 and sch., S.I. No. 182 of 1989.
+
+### 49. Transfer of Exchequer Account to Bank.
+
+**49.**—(1) The Exchequer Account in the Bank of Ireland shall be transferred to the Bank and, accordingly, references in sections 10, 11, 13 and 15 of the Exchequer and Audit Departments Act, 1866, to the Bank of Ireland shall be construed as references to the Bank.
+
+(2) This section shall come into operation on such day as the Minister appoints by order under this section.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C56: Application of section restricted (26.11.1984) by *State Financial Transactions (Special Provisions) Act 1984* (23/1984), s. 2(2)(a), S.I. No. 350 of 1984.
+>
+> **Temporary arrangements for carrying out certain State financial transactions**
+>
+> **2.**— …
+>
+> (2) (*a*) Notwithstanding anything in the Exchequer and Audit Departments Act, 1866, and section 49 of the Central Bank Act, 1971, the procedures provided under those, or any other, statutes for bringing to account revenue of the State and other public moneys and making issues of moneys on behalf of the State that, but for this subsection, would involve operations on the Exchequer Account or a State account shall be carried out under and in accordance with such arrangements (including the transfer of the Exchequer Account or any State account to a commercial bank or any other institution) as may be made in that behalf by the Minister after consultation with the Comptroller and Auditor General.
+
+### 50. Transfer of land bond registers to Bank.
+
+**50.**—(1) Notwithstanding anything in the Land Purchase Acts or in any order under those Acts the registers of land bonds kept by the Bank of Ireland shall be transferred to the Bank.
+
+(2) This section shall come into operation on such day as the Minister appoints by order under this section.
+
+### 51. Provisions relating to Bank of Ireland.
+
+**51.**—(1) Nothing in the Chapter, the Bank's Acts or the Act of 1929 shall operate
+
+(*a*) to prevent a general court from time to time by resolution—
+
+F241[(i) altering the objects and powers of the Bank of Ireland by abandoning, restricting or amending any existing object or power or by adopting a new object or power, or]
+
+(ii) making such provision as it thinks fit in relation to the management of the affairs of or the conduct of the business of the Bank of Ireland (including, in particular, but without prejudice to the generality of the foregoing, provision relating to the Directors (including the Governor and Deputy Governor of the Bank of Ireland) of the Bank of Ireland or general courts or proceedings or voting thereat), or
+
+(*b*) to prevent the Bank of Ireland from engaging in and carrying on any business specified in any such resolution and from doing anything incidental or ancillary to any such business.
+
+(2) If any application is made to the Court in accordance with this section for the annulment of a resolution under *subsection (1)* of this section (in the subsequent provisions of this section referred to as a resolution), it shall not have effect except in so far as it is confirmed by the Court.
+
+(3) Subject to *subsection (4)* of this section, an application under this section may be made by the holders of not less in the aggregate than 15 per cent in nominal value of the issued capital stock and any issued share capital of the Bank of Ireland.
+
+(4) An application in relation to a resolution shall not be made under this section by any person who has consented to or voted in favour of the resolution.
+
+(5) An application under this section shall be made within 21 days after the date on which the resolution was passed and may be made on behalf of the persons entitled to make the application by such one or more of their number as they may appoint in writing for the purpose.
+
+(6) On an application under this section, the Court may make an order annulling the resolution or confirming the resolution either wholly or in part and on such terms and conditions as it thinks fit, and may, if it thinks fit, adjourn the proceedings in order that an arrangement may be made to the satisfaction of the Court for the purchase of the interests of dissentient members of the Bank of Ireland, and may give such directions and make such orders as it may think expedient for facilitating or carrying into effect any such arrangement so, however, that no part of the capital of the Bank of Ireland shall be expended in any such purchase.
+
+(7) Where a resolution is passed
+
+(*a*) if no application is made with respect thereto under this section, the Bank of Ireland shall, within 15 days from the end of the period for making such an application, deliver to the registrar of companies, within the meaning of the Companies Act, 1963, a printed copy of the resolution; and
+
+(*b*) if such an application is made, the Bank of Ireland shall
+
+(i) forthwith give notice of that fact to the registrar; and
+
+(ii) within 15 days from the date of any order annulling or confirming the resolution, deliver to the registrar an office copy of the order and, in the case of an order confirming the resolution, a printed copy of the resolution.
+
+The Court may by order at any time extend the time for delivery of documents to the registrar under paragraph (*b*) of this subsection for such period as the Court may think proper.
+
+(8) If the Bank of Ireland makes default in giving notice or delivering any document to the registrar as required by *subsection (7)* of this section, the Bank of Ireland and every officer of the Bank of Ireland who is in default shall be liable to a fine not exceeding one hundred pounds.
+
+(9) In this section
+
+“the Act of 1929” means the Bank of Ireland Act, 1929,
+
+“the Bank's Acts”, “the Charter”, and “general court” have the same meanings, respectively, as in the Act of 1929.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F241: Substituted (1.09.1971, deemed) by *Central Bank Act 1997* (8/1997), s. 73(1), in operation as per s. 73(2).
+>
+> F242: Repealed by *Companies Act 2014* (38/2014), s. 1325(1) and sch. 15 part 1, not commenced as of date of revision.
+>
+> **Editorial Notes:**
+>
+> E150: Prospective affecting provision: section repealed by *Companies Act 2014* (38/2014), s. 1325(1) and sch. 15 part 1.
+>
+> **51.**—F242[...]
+
+### 52. Amendment of Moneylenders Acts, 1900 and 1933.
+
+**52.**—(1) The Moneylenders Acts, 1900 and 1933, shall not apply in relation to the holder of a licence or a trustee savings bank certified under the Trustee Savings Banks Acts, 1863 to 1965.
+
+(2) F243[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F243: Repealed (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 4 and sch., commenced on enactment.
+
+### 53. Directors of Bank.
+
+**53.**— F244[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F244: Repealed with saver (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 14(2), (3), S.I. No. 176 of 1989. Note: saver expired on 12.10.1989.
+
+### 54. Superannuation.
+
+**54.**—(1) Notwithstanding anything in section 3 of the Central Bank Act, 1961, an amendment under that Act of the scheme made pursuant to section 33 (1) (c) of the Act of 1942 may provide that an award may be made under that scheme to or in relation to a person who is less than sixty years of age when he ceases to hold office as Governor for reasons other than death, infirmity of mind or body or abolition of office, if he has completed one term of office as Governor.
+
+(2) The Bank may from time to time, with the approval of the Minister, make a scheme amending a scheme under section 31(4) of the Act of 1927 F245[(as continued in force by virtue of section 15(6) of the Central Bank Act, 1989)] or section 33(1)(c) of the Act of 1942 or a scheme under this subsection and a scheme under this subsection may, without prejudice to the generality of the foregoing, provide for the granting of superannuation benefits (including pensions, allowances and gratuities) to widows and children of persons to whom those schemes apply and for the payment of contributions in respect of such benefits by the persons to whom those schemes apply.
+
+(3) Every scheme under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and if either House, within the next twenty-one days on which that House has sat after the scheme is laid before it, passes a resolution annulling the scheme, the scheme shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F245: Inserted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 15(7), S.I. No. 176 of 1989.
+>
+> F246: Repealed by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 6 item 4, not commenced as of date of revision.
+>
+> **Editorial Notes:**
+>
+> E151: Prospective affecting provision: section repealed by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 6 item 4.
+>
+> **54.**— F246[...]
+
+### 55. Return of deposits under Act of 1942.
+
+**55.**—Upon the repeal of section 42 of the Act of 1942, the Accountant of the Courts of Justice shall return, as soon as may be, to any person who kept a deposit in the Court pursuant to that section immediately before such repeal the deposit and any accrued interest or income due thereon.
+
+### 56. Amendment of Bankers' Books Evidence Act, 1879.
+
+**56.**—Section 9 (inserted by the Bankers’ Books Evidence (Amendment) Act, 1959) of the Bankers’ Books Evidence Act, 1879, is hereby amended by the insertion after subsection (3) of the following subsection:
+
+“(4) A certificate which
+
+(*a*) purports to be signed by an officer of the Bank, and
+
+(*b*) certifies that a licence was granted under section 9 of the Central Bank Act, 1971, to a specified person,
+
+shall be *prima facie* evidence of the licence for the purposes of this Act, and it shall not be necessary to prove the signature of the officer or that he was in fact an officer of the Bank."
+
+### 57. Amendment of section 14 of Decimal Currency Act, 1970.
+
+**57.**—Section 14 of the Decimal Currency Act, 1970, is hereby amended by the substitution of the following subsection for subsection (1):
+
+“(1) Without prejudice to section 2 of this Act, section 10 of the Currency Act, 1927, shall be construed as continuing to permit contracts, sales, payments, bills, notes, instruments, and securities for money, and every transaction, dealing, matter, and thing whatever relating to money or involving the payment or the liability to pay any money to be made, executed, entered into, done or had according to the old currency, the new currency or the currency of some state or country other than the State, subject to the proviso that section 13 of this Act shall apply in relation to any amount in the old currency which is not a whole number of pounds and which is or becomes due for payment on or after the appointed day."
+
+### 58. Offences and punishments.
+
+F247[**58.**—(1) Any person who contravenes *section 7*, *14*, *17*, F248[F249[...]] *18* or *27* of this Act and a holder of a licence who—
+
+(*a*) has obtained a licence through false statements or any other irregular means,
+
+(*b*) contravenes section *19*, *20*, *26*, *31* or *33* of this Act,
+
+(*c*) commits by act or omission a breach of a condition duly imposed and which relates to a licence,
+
+(*d*) fails to comply with a direction under *section 11(3)(c)* (inserted by section 34 of the Central Bank Act, 1989), *21* or *22* of this Act, or a requisition under section *23* of this Act, or
+
+(*e*) contravenes regulations under *section 24* or *25* of this Act,
+
+shall be guilty of an offence and shall be liable—
+
+(*i*) on summary conviction, to a fine not exceeding £1,000 or, at the discretion of the court, to imprisonment for a term not exceeding 12 months, or to both, or
+
+(*ii*) on conviction on indictment, to a fine not exceeding £50,000 or, at the discretion of the court, to imprisonment for a term not exceeding 5 years, or to both,
+
+and, if the contravention, breach or failure in respect of which he was convicted is continued after conviction, he shall be guilty of an offence on every day on which the contravention, breach or failure continues after conviction in respect of the original contravention, breach or failure and for each such offence he shall be liable on summary conviction to a fine not exceeding £100 or on conviction on indictment to a fine not exceeding £5,000.
+
+(2) Where there is a contravention in relation to a unit trust scheme of *section 14(2)* of this Act, the manager under the scheme shall be deemed to have contravened *section 14* of this Act.
+
+(3) In any proceedings for an offence under this section which relates to *section 27* of this Act, it shall be a good defence for the accused to prove that he was, at the relevant time, a person whose business it was to publish or arrange for the publication on behalf of some other person of advertisements or other solicitations and that the relevant advertisement or other solicitation was received for publication in the ordinary course of that business and that he did not know and had no reason to suspect that to use it to advertise or otherwise solicit could be an offence.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F247: Substituted (12.07.1989) by *Central Bank Act 1989* (16/1989), s. 9, S.I. No. 176 of 1989.
+>
+> F248: Inserted (1.05.2003) by *Central Bank and Financial Services Authority of Ireland Act 2003* (12/2003), s. 35(1) and sch. 1 part 6 item 5, S.I. No. 160 of 2003.
+>
+> F249: Deleted (19.12.2012) by *Credit Union and Co-operation with Overseas Regulators Act 2012* (40/2012), s. 70(3) and sch. 3 part 1 item 2, S.I. No. 557 of 2012.
+>
+> **Modifications (not altering text):**
+>
+> C57: Application of section extended (9.08.2011) by *Criminal Justice Act 2011* (22/2011), s. 3 and sch., S.I. No. 411 of 2011.
+>
+> **Relevant offences for purposes of this Act**
+>
+> **3.**—(1) In this Act a relevant offence means—
+>
+> (*a*) an arrestable offence under a provision of an enactment, or at common law, specified in *Schedule 1*,
+>
+> (*b*) an arrestable offence under a provision of an enactment, or at common law, specified in an order made under *subsection (2)*,
+>
+> (*c*) an offence consisting of aiding, abetting, counselling or procuring the commission of an offence specified in *Schedule 1* or in an order made under *subsection (2)*, or
+>
+> (*d*) an offence consisting of conspiring to commit, or inciting the commission of, an offence specified in *Schedule 1* or in an order made under *subsection (2)*.
+>
+> …
+>
+> SCHEDULE 1
+>
+> "RELEVANT OFFENCES" FOR THE PURPOSES OF THIS ACT
+>
+> *Offences relating to banking, investment of funds and other financial activities*
+>
+> 1\. An offence under section 58 of the Central Bank Act 1971 insofar as it relates to a contravention of section 17, 18, 23, 24 or 25 of that Act.
+>
+> C58: References construed (31.03.2014) by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 152(a), in operation as per reg. 1(2).
+>
+> **152**. Notwithstanding Regulation 7(1), the references, however expressed, to the holder of a licence under section 9 of the Act of 1971, in—
+>
+> (a) sections 19 to 26, section 28, sections 31 to 42 or section 58 of the Act of 1971,
+>
+> …
+>
+> shall be construed so as to include any person who, but for the application of Regulation 7(1), was or would have been required to hold a licence under section 9 of the Act of 1971.
+>
+> **Editorial Notes:**
+>
+> E152: A fine of £1,000 mentioned in subs. (1)(i) converted (1.01.1999) to €1,269.73. This translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E153: A fine of £50,000 mentioned in subs. (1)(ii) converted (1.01.1999) to €63,486.50. This is multiplied by 10 to €634,865 as provided (4.01.2011) by *Fines Act 2010* (8/2010), s. 9 and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E154: A fine of £100 mentioned in subs. (1) converted (1.01.1999) to €126.97. This translates into a class E fine, not greater than €500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E155: A fine of £5,000 mentioned in subs. (1) converted (1.01.1999) to €6,348.65. This is multiplied by 10 to €63,486.50 as provided (4.01.2011) by *Fines Act 2010* (8/2010), s. 9 and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> E156: Previous affecting provision: references construed (1.01.1993) by *European Communities (Licensing and Supervision of Credit Institutions) Regulations 1992* (S.I. No. 395 of 1992), reg. 38(1)(a)(i), in operation as per reg. 1(2); revoked (31.03.2014) with transitional provisions by *European Union (Capital Requirements) Regulations 2014* (S.I. No. 158 of 2014), reg. 161, in operation as per reg. 1.
+
+### 59. Prosecution of offences by Bank.
+
+**59.**—An offence under this Act which is being tried summarily may be prosecuted by the Bank.
+
+### 60. Offences in relation to certain bodies.
+
+**60.**—Where an offence under this Act is committed by a body corporate or by a person purporting to act on behalf of a body corporate or an unincorporated body of persons and is proved to have been so committed with the consent or approval of, or to have been facilitated by any wilful neglect on the part of, any director, manager, secretary, member of any committee of management or other controlling authority of such body or official of such body, such person shall also be guilty of the offence.
+
+## SCHEDULE — Enactments Repealed
+
+| Session and Chapter or Number and Year | Short Title | Extent of Repeal |
+|---|---|---|
+| 6 Geo. 4, c. 42 | Bankers (Ireland) Act, 1825. | The whole Act. |
+| 11 Geo. 4 and 1 Will. 4, c. 32 | Banks (Ireland) Act, 1830. | The whole Act. |
+| 1 and 2 Vict., c. 96 | Joint Stock Banks Act, 1838. | The whole Act. |
+| 8 and 9 Vict., c. 37 | Bankers (Ireland) Act, 1845. | Section 22. |
+| No. 32 of 1927 | Currency Act, 1927. | Sections 4 to 9; sections 11 to 13, and sections 37 and 42; the words “in the same manner and to the same extent and as fully as gold coins to be issued under Part II of this Act will when so issued be current in section 45 (1); section 47; the words “at their face value in gold coins which are for the time being legal tender under this Act in SaorstátÉireann for unlimited amounts or in money in any form which is for the time being legal tender in Great Britain for unlimited amounts or and “or, if the person presenting such notes so agrees, by a draft on London in section 48; section 50 (4). |
+| No. 22 of 1942 | Central Bank Act, 1942. | Section 23 (2); the words “having regard to the prevailing standards of the Associated Banks in fixing the remuneration, allowances and conditions of service of their directors in section 23 (4); sections 26 and 27; Parts V and VI. |
+
+[^1]: OJ No. L. 176, 27.6.2013, p. 338.
+[^2]: OJ No. L. 60, 28.2.2014, p. 34.
+[^3]: OJ No. L. 173, 12.6.2014, p. 190.
+[^4]: OJ No. L. 337, 23.12.2015, p. 35.
+[^5]: OJ No. L. 156, 19.6.2018, p. 43.
+[^6]: OJ No. L. 150, 7.6.2019, p. 253.
+[^7]: OJ No. L. 314, 5.12.2019, p. 64.
+[^8]: OJ No. L 68, 26.02.2021, p. 14.
+[^9]: OJ No. L. 176, 27.6. 2013, p. 1.
+[^10]: OJ No. L. 11, 17.1.2015, p. 37.
+[^11]: OJ No. L. 171, 29.6.2016, p. 153.
+[^12]: OJ No. L. 310, 25.11.2017, p. 1.
+[^13]: OJ No. L. 345, 27.12.2017, p. 27.
+[^14]: OJ No. L. 347, 28.12.2017, p. 1.
+[^15]: OJ No. L. 74, 16.3.2018, p. 3.
+[^16]: OJ No. L. 111, 25.4.2019, p. 4.
+[^17]: OJ No. L. 150, 7.6.2019, p. 1.
+[^18]: OJ No. L. 314, 5.12.2019, p. 1.
+[^19]: OJ. No. L. 204, 26.6.2020, p. 4.
+[^20]: OJ No. L. 84, 11.3.2021, p. 1.
+[^21]: OJ No. L. 116, 6.4.2021, p. 25.
+[^22]: OJ No. L. 225, 25.6.2021, p. 52.
+[^23]: OJ No. L. 275, 25.10.2022, p.1.
+[^24]: OJ L, 2023/2869, 20.12.2023.
+[^25]: OJ L, 2024/1623, 19.6.2024.
+[^26]: OJ L, 2024/2795, 31.10.2024.
+[^27]: OJ No. L331, 15.12.2010, p. 12
+[^28]: OJ No. L3, 7.1.2004, p.36
+[^29]: OJ No. L. 173, 12.6.2014, p. 349.
+[^30]: OJ No. L. 257, 28.8.2014, p. 1.
+[^31]: OJ No. L. 26, 2.2.2016, p. 19.
+[^32]: OJ No. L. 175, 30.6.2016, p. 8.
+[^33]: OJ No. L. 314, 5.12.2019, p. 64.
+[^34]: OJ No. L. 320, 11.12.2019, p. 1.
+[^35]: OJ No. L. 347, 20.10.2020, p. 50.
+[^36]: OJ No. L. 347, 20.10.2020, p. 50.
+[^37]: OJ No. L. 68, 26.2.2021, p. 14.
+[^38]: OJ No. L 151, 02.06.2022, p. 1.
+[^39]: OJ No. L 333, 27.12.2022, p. 153.
+[^40]: OJ L, 2023/2864, 20.12.2023.
+[^41]: OJ L, 2024/790, 08.03.2024.
+[^42]: OJ No. L287, 29.10.2013, p.63
+[^43]: OJ No. L 390, 31.12.2004, p. 38
+[^44]: OJ No. L 145, 30.04.2004, p. 1
+[^45]: O.J. No. L 35, 11.2.2003, p. 1.
+[^46]: O.J. No. L 267, 10.10.2009, p. 7.
+[^47]: O.J. No. L 309, 25.11.2005, p. 15.
+[^48]: O.J. No. L 302, 17.11.2009, p. 32.
+[^49]: OJ L 173, 12.6.2014, p. 190
+[^50]: OJ L 225, 30.7.2014, p. 1
+[^51]: OJ L 173, 12.6.2014, p. 190
+[^52]: OJ L 225, 30.7.2014, p. 1
+[^53]: OJ L 173, 12.6.2014, p. 190
+[^54]: OJ L 225, 30.7.2014, p. 1
+[^55]: OJ No. L 193, 18.07.1983, p. 1
+[^56]: OJ No. L. 390, 31.12.2004, p. 38.
+[^57]: OJ No. L. 173, 12.6.2014, p. 349.
+[^58]: OJ No. L. 35, 11.2.2003, p. 1.
+[^59]: OJ No. L. 267, 10.10.2009, p.7.
+[^60]: OJ No. L. 302, 17.11.2009, p. 32.

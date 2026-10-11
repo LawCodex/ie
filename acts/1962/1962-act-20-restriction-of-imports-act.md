@@ -1,0 +1,64 @@
+---
+title: "Restriction of Imports Act, 1962"
+identifier: "eli/1962/act/20"
+type: act
+jurisdiction: ie
+language: en
+number: 20
+year: 1962
+date: 1962-08-01
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1962/act/20/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Restriction of Imports Act, 1962
+
+AN ACT TO AUTHORISE RESTRICTION OF IMPORTS. [1*st August*, 1962.]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:—
+
+## 1. Interpretation.
+
+**1.**—In this Act “importation” does not include importation for the purposes only of transit and consequent exportation.
+
+## 2. Restriction of Imports.
+
+**2.**—(1) Notwithstanding anything contained in any other Act, the Government may by order prohibit, save under and in accordance with a licence issued by a specified Minister of State, the importation of—
+
+(*a*) any goods manufactured or produced in or consigned from a specified country or territory, or
+
+(*b*) goods of a specified description manufactured or produced in or consigned from a specified country or territory.
+
+(2) An order under this section relating to goods manufactured or produced in a specified country or territory may, if the Government so think proper,—
+
+(*a*) contain provisions in accordance with which it shall be determined for the purposes of the order whether goods were manufactured or produced in that country or territory, or
+
+(*b*) authorise the Minister of State specified in the order to prescribe, if he so thinks proper, such provisions by regulations.
+
+(3) The Government may by order revoke or amend any order made under this section (including this subsection).
+
+(4) Every order made under this section or regulation made under any such order shall be laid before each House of the Oireachtas as soon as may be after it is made, and, if a resolution annulling the order or regulation is passed by either such House within the next twenty-one days on which that House has sat after the order or regulation is laid before it, the order or regulation shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
+
+## 3. Licences.
+
+**3.**—(1) The Minister may, at his discretion, issue licences for the importation of goods in respect of which an order under section 2 of this Act is in force.
+
+(2) Where the Minister issues a licence under this section, he may attach to it any conditions which he considers proper.
+
+(3) The Minister may revoke any licence issued under this section.
+
+(4) Any person who, for the purpose of obtaining for himself or any other person a licence under this section, makes any statement or representation which is to his knowledge false or misleading in any material respect shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding one hundred pounds.
+
+(5) An offence under this section may be prosecuted by the Minister.
+
+(6) In this section “the Minister” means the Minister of State specified in the relevant order under section 2 of this Act.
+
+## 4. Expenses.
+
+**4.**—The expenses incurred by any Minister of State in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be defrayed out of moneys provided by the Oireachtas.
+
+## 5. Short title.
+
+**5.**—This Act may be cited as the Restriction of Imports Act, 1962.

@@ -1,0 +1,44 @@
+---
+title: "Local Government (Reduction of Valuation)Act, 1966"
+identifier: "eli/1966/act/15"
+type: act
+jurisdiction: ie
+language: en
+number: 15
+year: 1966
+date: 1966-07-05
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1966/act/15/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Local Government (Reduction of Valuation)Act, 1966
+
+AN ACT TO AMEND AND EXTEND THE LOCAL GOVERNMENT (TEMPORARY REDUCTION OF VALUATION) ACTS, 1954 TO 1963, AND TO AMEND SECTION 14 OF THE VALUATION (IRELAND) ACT, 1852. [5*th July*, 1966.]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:—
+
+## 1. Amendment of section 3 of Local Government (Temporary Reduction of Valuation) Act, 1954.
+
+**1.**—Section 3 of the Local Government (Temporary Reduction of Valuation) Act, 1954, is hereby amended by the substitution of “the 31st day of March, 1969” for “the 31st day of March, 1966” in the definition of “the prescribed period” contained in subsection (1).
+
+## 2. Amendment of section 14 of Valuation (Ireland) Act, 1852.
+
+**2.**—In a case in which—
+
+(*a*) section 14 of the Valuation (Ireland) Act, 1852, falls to be applied consequent upon any such erection of farm, outhouse, or office buildings as is referred to in that section, and
+
+(*b*) the work of erection was completed on or after the 1st day of March, 1959,
+
+that section shall have effect subject to the deletion of “within seven years next”.
+
+## 3. Repeal.
+
+**3.**—Section 2 of the Local Government (Temporary Reduction of Valuation) Act, 1960, is hereby repealed.
+
+## 4. Short title and collective citation.
+
+**4.**—(1) This Act may be cited as the Local Government (Reduction of Valuation) Act, 1966.
+
+(2) The Local Government (Temporary Reduction of Valuation) Acts, 1954 to 1963, and sections 1 and 3 may be cited together as the Local Government (Temporary Reduction of Valuation) Acts, 1954 to 1966.

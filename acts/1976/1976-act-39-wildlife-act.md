@@ -1,0 +1,4669 @@
+---
+title: "Wildlife Act, 1976"
+identifier: "eli/1976/act/39"
+type: act
+jurisdiction: ie
+language: en
+number: 39
+year: 1976
+date: 1976-12-22
+last_amended: 2024-05-16
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1976/act/39/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1976/act/39/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Wildlife Act, 1976
+
+AN ACT FOR THE CONSERVATION OF WILDLIFE (INCLUDING GAME) AND FOR THAT PURPOSE TO PROTECT CERTAIN WILD CREATURES AND FLORA, TO ENABLE A BODY TO BE KNOWN IN THE IRISH LANGUAGE AS AN CHOMHAIRLE UM FHIADHULRA AND IN THE ENGLISH LANGUAGE AS THE WILDLIFE ADVISORY COUNCIL TO BE ESTABLISHED AND TO DEFINE ITS FUNCTIONS, TO ENABLE CERTAIN OTHER BODIES TO BE ESTABLISHED TO PROVIDE OR ADMINISTER CERTAIN SERVICES, TO ENABLE RESERVES AND REFUGES FOR WILDLIFE TO BE ESTABLISHED AND MAINTAINED, TO ENABLE DEALING IN AND MOVEMENT OF WILDLIFE TO BE REGULATED AND CONTROLLED, TO MAKE CERTAIN PROVISIONS RELATING TO LAND, INLAND WATERS AND THE TERRITORIAL SEAS OF THE STATE, TO AMEND CERTAIN ENACTMENTS AND TO MAKE OTHER PROVISIONS CONNECTED WITH THE FOREGOING. [22*nd December*, 1976]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred and references construed (16.05.2024) by *Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024* (7/2024), ss. 10(2), (4), 26 and sch. 1 part 2, S.I. No. 207 of 2024.
+>
+> **Functions of Mayor**
+>
+> **10.** (1) All functions (other than functions conferred by or under an enactment specified in Part 1 of Schedule 1) that, immediately before the vesting day, vested in the Cathaoirleach of Limerick City and County Council shall, on and after that day, vest in the Mayor.
+>
+> (2) All functions (other than functions conferred by or under an enactment specified in Part 2 of Schedule 1) that, immediately before the vesting day, vested in the chief executive of Limerick City and County Council shall, on and after that day, vest in the Mayor.
+>
+> (3) From the vesting day, a reference in any enactment (other than an enactment specified in Part 1 of Schedule 1) to Cathaoirleach shall, in so far as the reference applies to the Cathaoirleach of Limerick City and County Council, be construed as a reference to the Mayor, or as including a reference to the Mayor, as the context requires.
+>
+> (4) From the vesting day, a reference in any enactment (other than an enactment specified in Part 2 of Schedule 1) to chief executive shall, in so far as that reference applies to the chief executive of Limerick City and County Council, be construed as a reference to the Mayor, or as including a reference to the Mayor, as the context requires.
+>
+> (5) This section shall apply subject to the modifications of the Principal Act specified in Schedule 3.
+>
+> ...
+>
+> **Director general**
+>
+> **26.** (1) The chief executive of Limerick City and County Council shall, on and after the vesting day, be known as the director general of Limerick City and County Council and is in this Act referred to as the “director general”.
+>
+> (2) The person who, immediately before the vesting day, was the chief executive of Limerick City and County Council shall, on and after that day, continue in office and be referred to in accordance with subsection (1).
+>
+> (3) On and after the vesting day, a reference in an enactment specified in Part 2 of Schedule 1 to chief executive shall, in so far as that reference applies to the chief executive of Limerick City and County Council, be construed as a reference to the director general, or as including a reference to the director general, as the context may require.
+>
+> (4) This section shall apply subject to the modifications of the Principal Act specified in Schedule 3.
+>
+> ...
+>
+> SCHEDULE 1
+>
+> Sections 10, 23 and 26
+>
+> ...
+>
+> PART 2
+>
+> **Enactments for Purposes of Sections 10 and 26**
+>
+> ...
+>
+> No. 39 of 1976 Wildlife Act 1976 The whole Act.
+>
+> ...
+>
+> C2: Application of Act restricted (23.11.2023) by *European Communities (Birds Declarations) Regulations 2023* (S.I. No. 576 of 2023), reg. 3(1) and sch. 1.
+>
+> **Derogations**
+>
+> 3\. (1) Notwithstanding the provisions of the *Wildlife Act, 1976* (No. 39 of 1976), the Minister may, following consultation with such other Minister, or Ministers, of Government having relevant responsibilities or functions as the Minister considers appropriate, derogate, by declaration, from any of the obligations of the State under Articles 5, 6, 7 and 8 of the Directive, in respect of any species of bird listed in Schedule 1, where there is no other satisfactory solution, for one, or more, of the following reasons:
+>
+> (a) (i) in the interests of public health and safety,
+>
+> (ii) in the interests of air safety,
+>
+> (iii) to prevent serious damage to crops, livestock, forests, fisheries and water, or
+>
+> (iv) for the protection of flora and fauna;
+>
+> (b) for the purposes of research and teaching, of re-population, of re-introduction and for the breeding necessary for these purposes;
+>
+> (c) to permit, under strictly supervised conditions and on a selective basis, the capture, keeping or other judicious use of certain birds in small numbers.
+>
+> ...
+>
+> **SCHEDULE 1**
+>
+> *Regulation 3(1)*
+>
+> SPECIES OF BIRD
+>
+> <table><tr><td>Carrion Crow</td><td><i>Corvus cornix;</i></td></tr><tr><td>Hooded (Grey) Crow</td><td><i>Corvus corone;</i></td></tr><tr><td>Magpie</td><td><i>Pica pica;</i></td></tr><tr><td>Rook</td><td><i>Corvus frugilegus</i></td></tr><tr><td>Jackdaw</td><td><i>Corvus monedula;</i></td></tr><tr><td>Starling</td><td><i>Sturnus vulgaris;</i></td></tr><tr><td>Herring Gull</td><td><i>Larus argentatus;</i></td></tr><tr><td>Greater Black-backed Gull</td><td><i>Larus marinus;</i></td></tr><tr><td>Lesser Black-backed Gull</td><td><i>Larus fuscus;</i></td></tr><tr><td>House Sparrow</td><td><i>Passer domesticus;</i></td></tr></table>
+>
+> Pigeon and Dove including Wood Pigeon (*Columba palumbus*), Feral Pigeon (*Feral Columba livia*) and Collared Dove (*Streptopelia decaocto*), but not including Carrier Pigeon, Fan Tailed Pigeon, Homing Pigeon or other domestic types of Rock Dove, Stock Dove (*Columba oenas*), Wild Rock Dove (*Columba livia*) or Turtle Dove (*Streptopelia turtur*);
+>
+> Any species of wild bird where a declaration under Regulation 3 is made in the interests of air safety.
+>
+> ...
+>
+> C3: Functions transferred and references to Department of and Minister for Culture, Heritage and the Gaeltacht construed (9.09.2020) by Heritage (Transfer of Departmental Administration and Ministerial Functions) Order 2020 (S.I. No. 339 of 2020), arts. 2 and 3 and sch. part 1, in effect as per art. 1(2), subject to transitional provisions in arts. 4-8. Note change of Department's name and Minister's title to Housing, Local Government and Heritage (30.09.2020) by Housing, Planning and Local Government (Alteration of Name of Department and Title of Minister) Order 2020 (S.I. No. 408 of 2020), in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by this Order are transferred to the Department of Housing, Planning and Local Government.
+>
+> (2) References to the Department of Culture, Heritage and the Gaeltacht contained in any Act or any instrument made thereunder and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Housing, Planning and Local Government.
+>
+> 3\. (1) The functions vested in the Minister for Culture, Heritage and the Gaeltacht by or under the Acts specified in Part 1 of the Schedule and the provisions of the Acts specified in Part 2 of the Schedule are transferred to the Minister for Housing, Planning and Local Government.
+>
+> (2) References to the Minister for Culture, Heritage and the Gaeltacht contained in any Act or instrument made thereunder and relating to any functions transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Minister for Housing, Planning and Local Government.
+>
+> SCHEDULE
+>
+> *Article 3*
+>
+> **Part 1**
+>
+> ...
+>
+> Wildlife Act 1976 (No. 39 of 1976) (other than section 59 in so far as it relates to foreshore which is the property of the State)
+>
+> ...
+>
+> C4: Application of collectively cited *Wildlife Acts 1976 to 2010* restricted (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), reg. 9(10), in effect as per reg. 1(3).
+>
+> *Surveillance and monitoring*
+>
+> **9.** ...
+>
+> (10) A person may lawfully do anything authorised by a licence under this Regulation notwithstanding any provision of the *Wildlife Acts 1976 to 2010* and for the avoidance of doubt shall not require a licence under those Acts to do anything so authorised.
+>
+> C5: Functions transferred and references to Department of and Minister for Finance construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 39 of 1976</td><td>Wildlife Act 1976</td><td>Sections 5, 8, 9 and 76(5); Second Schedule, paragraphs 11 and 12</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> C6: Application of collectively cited *Forestry Acts 1946 to 1988* restricted (11.09.1998) by *Air Navigation and Transport (Amendment) Act 1998* (24/1998), s. 46(1), S.I. No. 327 of 1998.
+>
+> **Lopping, cutting or removal of certain trees, etc.**
+>
+> **46.**—(1) Notwithstanding anything contained in the *Forestry Acts, 1946 to 1988*, the company may lop, cut or remove, or cause to be lopped, cut or removed, any tree, bush, shrub, hedge, plant or other matter growing naturally or with artificial assistance on land in the vicinity of a State airport which, in the opinion of the company, interferes with the operation and development of that airport, or which, following consultation with the Authority, the company considers obstructs or otherwise interferes with the safety or navigation of aircraft using such airport.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E1: Certificates of appointment issued under *European Communities (Birds and Natural Habitats) Regulations 2011*, reg. 4(2)(a) deemed to constitute any consent required by any Minister of Government under Act (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), reg. 4(8), in effect as per reg. 1(3).
+>
+> E2: Power to transfer fishery or fishing rights, acquired by or vested in Minister for Agriculture, Food and the Marine under collectively cited *Forestry Acts 1946 to 1988*, prescribed (1.07.2010) by *Inland Fisheries Act 2010* (10/2010), s. 64(1)(a), commenced as per s. 5(2) and S.I. No. 262 of 2010, as construed (17.10.2011) by *Agriculture, Fisheries and Food (Alteration of Name of Department and Title of Minister) Order 2011* (S.I. No. 455 of 2011), art. 4(b), in effect as per art. 1(2).
+>
+> E3: Existing orders, designation and licenses granted under Act continued in force (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 4, S.I. No. 371 of 2001.
+>
+> E4: Additional powers prescribed in connection with performance of functions under Act (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 66, S.I. No. 371 of 2001.
+>
+> E5: Previous affecting provision: functions transferred and references to Department of and Minister for the Environment, Heritage and Local Government construed as Department of and Minister for Tourism, Culture and Sport (1.05.2011) by *Heritage (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 192 of 2011), arts. 2 and 3 and sch. part 1, in effect as per art. 1(2), subject to transitional provisions in arts. 4-8; note change of name of Department and title of Minister to Arts, Heritage and the Gaeltacht (2.06.2011) by *Tourism, Culture and Sport (Alteration of Name of Department and Title of Minister) Order 2011* (S.I. No. 220 of 2011); superseded as per C-note above.
+>
+> E6: Previous affecting provision: functions under Act transferred and references to Department of and Minister for Community, Rural and Gaeltacht Affairs construed as Department of and Minister for the Environment and Local Government (10.07.2002) by *Heritage (Transfer of Departmental Administration and Ministerial Functions) Order 2002* (S.I. No. 356 of 2002), arts. 3 and 4 and sch. part 1, in effect as per art. 1(2), subject to transitional provisions in arts. 5-9; note change of name of Department and title of Minister to Environment, Heritage and Local Government (10.06.2003) by *Environment and Local Government (Alteration of Name of Department and Title of Minister) Order 2003* (S.I. No. 233 of 2003); superseded as per E-note above.
+>
+> E7: Previous affecting provision: functions under ss. 55, 63(1)-(4) transferred and references to Department of and Minister for Finance construed as Department of and Minister for Arts, Culture and the Gaeltacht (2.03.1995) by *Heritage (Transfer of Departmental Administration and Ministerial Functions) Order 1995* (S.I. No. 61 of 1995), arts. 3 and 4, subject to transitional provisions in arts. 5-9; superseded as per E-note above.
+>
+> E8: Previous affecting provision: functions transferred and references to Department of and Minister for Finance construed as Department of and Minister for Arts, Culture and the Gaeltacht (20.12.1994) by *Heritage (Transfer of Departmental Administration and Ministerial Functions) Order 1994* (S.I. No. 443 of 1994), arts. 3 and 4, subject to transitional provisions in arts. 5-9; superseded as per E-note above.
+>
+> E9: Previous affecting provision: certain functions transferred and references to Minister for the Marine construed as Minister for Finance (2.08.1990) by *Wildlife (Transfer of Departmental Administration and Ministerial Functions) Order 1990* (S.I. No. 207 of 1990), arts. 3 and 4, in effect as per art. 1(2); superseded as per E-note above.
+>
+> E10: Previous affecting provision: functions under ss. 55, 63(1)-(4) transferred and references to Department of and Minister for Energy construed as Department of and Minister for Finance (17.12.1988) by *Wildlife (Transfer of Departmental Administration and Ministerial Functions) Order 1988* (S.I. No. 353 of 1988), arts. 3 and 4, subject to transitional provisions in arts. 5-9; superseded as per E-note above.
+>
+> E11: Previous affecting provision: application of Act restricted (21.07.1986) by *European Communities (Wildlife Act, 1976) (Amendment) Regulations 1986* (S.I. No. 254 of 1986), reg. 3(1) and schs. 1, 2, in effect as per reg. 1(2), as amended (26.04.1997) by *European Communities (Wildlife Act, 1976) (Amendment) Regulations 1997* (S.I. No. 152 of 1997), reg. 2, in effect as per reg. 1(2); revoked (23.11.2023) by *European Communities (Birds Declarations) Regulations 2023* (S.I. No. 576 of 2023), reg. 9.
+>
+> E12: Previous affecting provision: power to transfer fishery or fishing rights, acquired by or vested in the Minister under collectively cited *Forestry Acts 1946 to 1988*, prescribed (18.03.1980) by *Fisheries Act 1980* (1/1980), s. 42(2)(a), commenced on enactment, and as substituted (20.12.1999) by *Fisheries (Amendment) Act 1999* (35/1999), s. 19, S.I. No. 419 of 1999; repealed (1.06.2010) by *Inland Fisheries Act 2010* (10/2010), s. 4 and sch. 1, commenced on enactment. The Act does not define “the Minister” but this appears to refer to the Minister for Fisheries and Forestry as the ministerial title then was.
+>
+> E13: Previous affecting provision: functions transferred and references to Department of Energy and Minister for Energy(other than any function in relation to the Forestry Acts, 1946 to 1976) construed as Department of and Minister for Finance (30.06.1987) by *Wildlife (Transfer of Departmental Administration and Ministerial Functions) Order 1987* (S.I. No. 156 of 1987), arts. 3 and 4, in effect as per art. 1(2), subject to transitional provisions in arts. 5-9; superseded as per E-note above.
+>
+> E14: Previous affecting provision: functions under Act transferred and references to Department of and Minister for the Marine construed as Department of and Minister for Energy (31.03.1987) by *Forestry and Wildlife (Transfer of Departmental Administration and Ministerial Functions) Order 1987* (S.I. No. 96 of 1987), arts. 3 and 4 and sch., subject to transitional provisions in arts. 5-9; superseded as per E-note above.
+>
+> E15: Previous affecting provision: functions under Act transferred and references to Department of and Minister for the Public Service construed as Department of and Minister for Finance (19.03.1987) by *Public Service (Transfer of Departmental Administration and Ministerial Functions) Order 1987* (S.I. No. 81 of 1987), arts. 3 and 4 and sch., subject to transitional provisions in arts. 5-9; superseded as per E-note above.
+>
+> E16: Previous affecting provision: references to Department of and Minister for Lands under Act construed as Department of and Minister for Fisheries (9.02.1977) by *Lands (Alteration of Name of Department and Title of Minister) Order 1977* (S.I. No. 29 of 1977); superseded as per E-note above.
+>
+> E17: Previous affecting provision: functions under Act relating to fisheries transferred and references to Department of and Minister for Agriculture and Fisheries under Act construed as Department of and Minister for Lands (8.02.1977) by *Fisheries (Transfer of Departmental Administration and Ministerial Functions) Order 1977* (S.I. No. 30 of 1977), arts. 3, 4(5), subject to transitional provisions in arts. 5-8; superseded as per E-note above.
+
+## PART IPreliminary and General — PART I — Preliminary and General
+
+### 1. Short title, commencement and collective citation.
+
+**1.**—(1) This Act may be cited as the Wildlife Act, 1976.
+
+(2) This Act shall come into operation on such day or days as may be fixed therefor by order or orders of the Minister, either generally or with reference to any particular purpose or provision, and different days may be fixed for different purposes and different provisions of this Act.
+
+(3) The Forestry Acts, 1946 and 1956, and sections 55 and 63 of this Act may be cited together as the Forestry Acts, 1946 to 1976.
+
+### 2. Definitions.
+
+**2.**—(1) In this Act—
+
+“the Act of 1919” means the Acquisition of Land (Assessment of Compensation) Act, 1919;
+
+“the Act of 1946” means the Forestry Act, 1946;
+
+“the Act of 1956” means the Forestry Act, 1956;
+
+“agriculture” includes horticulture;
+
+“airgun” means any weapon, including an air-rifle or air-pistol, incorporating a barrel from which metal or other slugs can be discharged;
+
+“authorised person” means a person who is appointed under section 72 of this Act by the Minister to be an authorised person for the purposes of this Act;
+
+“the Board”, except in section 14 and the Second Schedule hereto, means An Bord Pleanála;
+
+“building operation” has the same meaning as in section 2 of the Factories Act, 1955;
+
+F1[“the CITES Convention” means the Convention on International Trade in Endangered Species of Wild Fauna and Flora done at Washington on the 3rd day of March, 1973, as subsequently duly amended;
+
+F2["CITES Regulations" means Council Regulation (EC) No. 338/97 of 9 December 1996 on the protection of species of wild fauna and flora by regulating trade therein[^1] and Commission Regulation (EC) No. 865/2006 of 4 May 2006 laying down detailed rules concerning the implementation of Council Regulation (EC) No. 338/97 on the protection of species of wild fauna and flora by regulating trade therein, together with any amendments to or replacements of those Regulations;]]
+
+“the Commissioners” means the Commissioners of Public Works in Ireland;
+
+F3[“communities” means any naturally occurring group of organisms that occupy a common environment;]
+
+F4[“conservation” includes measures to maintain or enhance or restore the quality, value or diversity of species, habitats, communities, geological features or geomorphological features;]
+
+“the Council” means the body established by section 13 of this Act;
+
+“designation order” has the meaning assigned to it by section 17 of this Act;
+
+“establishment order” has the meaning assigned to it by section 15 of this Act;
+
+“exempted wild mammal” has the meaning assigned to it by section 25 of this Act;
+
+F5[“export”, where the context so admits, includes re-export and cognate words shall be construed accordingly;]
+
+“falconry” means hunting by means of birds of the F6[orders *Accipitriformes, Falconiformes* and *Strigiformes*] which are trained to hawk for sport;
+
+F7[“fauna” means all wild birds and all wild animals (both aquatic and terrestrial) and includes wild mammals, reptiles, amphibians and aquatic and non-aquatic invertebrate animals, and all such wild animals' eggs, larvae, pupae or other immature stage and young;]
+
+“firearm” means any lethal firearm or other lethal weapon of any description (including an airgun) from which any shot, bullet, slug or other missile can be discharged;
+
+“flora” means all plants (both aquatic and terrestrial) which occur in the wild (whether within or outside the State) and are not trees, shrubs or other plants being grown in the course of agriculture F8[, aquaculture, forestry] or horticulture and includes in particular lichens, mosses, liverworts, fungi, algae and vascular plants, namely flowering plants, F8[conifers,] ferns and fern-allied plants and any community of such plants;
+
+“foreshore” has the same meaning as in section 1 of the Foreshore Act, 1933;
+
+F9[“fossil” includes the remains or imprints, in whole or in part, of animals, plants or any other organisms of uncertain affinity, or of their activities, which are preserved in rocks or deposits at the surface, or beneath the surface, of land;]
+
+“functions” includes powers and duties;
+
+F10[“geology” includes—
+
+(*a*) the study of the Earth (as a whole or in part), the materials of which it is made, the processes that act and have acted upon those materials and the products and structures formed by such action, and
+
+(*b*) the physical and biological history of the Earth since its origin including the history of rock sequences as well as the history of life preserved as fossils in rocks and deposits at the surface, or in layers beneath the surface, of land;
+
+“geomorphology” includes the configuration of the Earth's surface and its particular landforms generated by natural processes, such as cliffs, eskers, drumlins, caves, turloughs or other features of the landscape formed by natural processes;
+
+“habitat” includes—
+
+(*a*) the abode or natural home and the locality thereto of—
+
+(i) a particular species or population of a particular species, at any stage of life, or
+
+(ii) a community of organisms.
+
+(*b*) a distinctive type of terrain, site or location, distinguished by physical, geographical, vegetational or other features;
+
+(*c*) a specific locality where a particular fossil, mineral, geological or geomorphological feature is to be found;]
+
+“hares order” means an order made by the Minister under *section 25* of this Act and in which any species of hare is specified;
+
+“hunt” means stalk, pursue, chase, drive, flush, capture, course, attract, follow, search for, lie in wait for, take, trap or shoot by any means whether with or without dogs, and, except in sections 28 and 29, includes killing in the course of hunting, F11[...] and kindred words shall be construed accordingly;
+
+F12[“import”, where the context so admits, includes reimport and cognate words shall be construed accordingly;]
+
+“inland waters” means any waters comprised in the internal or inland waters of the State;
+
+“interest” includes any estate, term, easement or *profit à prendre*;
+
+“land”, where the context admits, includes land covered by water and in relation to the acquisition of land also includes any easement, *profit à prendre* or other right in, to or over land or water (including any easement, *profit à prendre* or other right granted to or held by the Minister);
+
+“the Lay Commissioners” means the Commissioners of the Irish Land Commission other than the Judicial Commissioner;
+
+“licensed wildlife dealer” means a person who for the time being is the holder of a wildlife dealer’s licence;
+
+“local authority” means a local authority for the purposes of the Local Government Act, 1941;
+
+F13[“mechanically-propelled vehicle” has the same meaning as it has in the Road Traffic Act, 1961;
+
+“mineral” includes any naturally occurring organic or inorganic element or chemical compound of set composition, internal structure and physical properties and occurring generally, but not always, in crystal form;]
+
+“the Minister” means the Minister for Lands;
+
+F14[“natural heritage” area means an area which is worthy of conservation for one or more species, communities, habitats, landforms or geological or geomorphological features, or for its diversity of natural attributes;
+
+“natural heritage area order” means an order made under section 18 of the Wildlife (Amendment) Act, 2000;
+
+“nature reserve” means an area managed primarily for conservation of one or more species, communities, habitats or for any feature of geological, geomorphological or other natural interest which is provided for by the Minister in accordance with the *Wildlife Acts, 1976 and 2000*;]
+
+F15[“ornithology” means any study of wild birds for the purposes of research or teaching which leads to a better understanding of the biology, ecology and conservation requirements of wild birds;]
+
+F16[“orphaned”, in relation to any wild bird or any wild animal, includes a dependant young wild bird or dependant young wild animal which has been abandoned and which, in the circumstances, would be unlikely to survive unaided in the wild;]
+
+“owner” in relation to land means—
+
+(*a*) where the land is vested under the Land Purchase Acts in the Irish Land Commission, but not in the tenant-purchaser or purchaser thereof, the person who is for the time being the tenant-purchaser or the purchaser, as the case may be, of such land, and
+
+(*b*) in any other case, the owner of the lowest estate in the land constituting an estate saleable under the Land Purchase Acts;
+
+“planning authority” means a planning authority for the purposes of the Local Government (Planning and Development) Acts, 1963 and 1976;
+
+“prescribed” means prescribed by regulations made by the Minister under this Act;
+
+“protected wild animal” has the meaning assigned to it by section 23 (4) of this Act;
+
+“protected wild bird” has the meaning assigned to it by section 22 (3) of this Act;
+
+“recognition order” has the meaning assigned to it by section 16 of this Act;
+
+“regulated coursing match” means a coursing match held in accordance with the rules for such matches which are for the time being both published and approved by the Irish Coursing Club pursuant to the Greyhound Industry Act, 1958;
+
+F17[“species” means any species, except man, and includes subspecies and varieties, hybrids and populations thereof;]
+
+“sporting rights” does not include fishing rights;
+
+F18["territorial sea of the State" has the same meaning as it has in the Maritime Jurisdiction Act 2021;]
+
+F19[“wild animal” includes an individual of a population which primarily lives independent of human husbandry but does not include—
+
+(*a*) wild birds, or
+
+(*b*) species of fish or aquatic invertebrate animals (or their eggs or spawn or other immature stage or brood or young) which are of a species specified in regulations made by the Minister with the prior consent of the Minister for the Marine and Natural Resources under section 32 of the Wildlife (Amendment) Act, 2000;]
+
+“wild bird” includes the F20[eggs and] unflown young of a wild bird;
+
+“wildlife dealer” means any person who carries on the business of wildlife dealing;
+
+“wildlife dealer’s licence” has the meaning assigned to it by section 48 of this Act;
+
+“wild duck” means wild duck of any species;
+
+“wild mammal” includes both aquatic and terrestrial wild mammals and their young;
+
+“wildlife” means fauna and flora;
+
+“work of engineering construction” has the same meaning as in section 2 of the Factories Act, 1955.
+
+(2) Any reference in this Act to sale includes a reference to disposing by way of barter, offering for sale and inviting an offer to buy and words in this Act which are kindred to sale shall be construed accordingly, and except in section 47 and section 55 any reference in this Act to purchase includes a reference to acquiring by way of barter, offering to purchase and inviting an offer to sell.
+
+F21[(3) For the purposes of this Act the business of wildlife dealing means the business of buying for resale any wild birds or wild animals whether alive or dead, or any part, product or derivative of such birds or animals and includes engaging in taxidermy in respect of such birds or animals.]
+
+(4) Nothing in this Act shall be construed as prohibiting or restricting the doing by any person, whether as an employee or otherwise, of any act, other than the killing of fauna, which is done by that person in assisting another person lawfully to hunt fauna.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 6(1)(a), S.I. No. 371 of 2001.
+>
+> F2: Substituted (1.08.2019) by *European Communities (Cites Simplified Procedures) Regulations 2019* (S.I. No. 411 of 2019), reg. 2(a).
+>
+> F3: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 6(1)(b), S.I. No. 371 of 2001.
+>
+> F4: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 6(1)(c), S.I. No. 371 of 2001.
+>
+> F5: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 6(1)(d), S.I. No. 371 of 2001.
+>
+> F6: Substituted ((31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 6(1)(e), S.I. No. 371 of 2001.
+>
+> F7: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 6(1)(f), S.I. No. 371 of 2001.
+>
+> F8: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 6(1)(g), S.I. No. 371 of 2001.
+>
+> F9: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 6(1)(h), S.I. No. 371 of 2001.
+>
+> F10: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 6(1)(i), S.I. No. 371 of 2001.
+>
+> F11: Deleted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 6(1)(j), S.I. No. 371 of 2001.
+>
+> F12: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 6(1)(k), S.I. No. 371 of 2001.
+>
+> F13: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 6(1)(l), S.I. NO. 371 of 2001.
+>
+> F14: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 6(1)(m), S.I. No. 271 of 2001.
+>
+> F15: Inserted (6.12.1985) by *European Communities (Wildlife Act, 1976) (Amendment) Regulations 1985* (S.I. No. 397 of 1985), reg. 3(a), in effect as per reg. 1(2).
+>
+> F16: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 6(1)(n), S.I. NO. 371 of 2001.
+>
+> F17: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 6(1)(o), S.I. No. 371 of 2001.
+>
+> F18: Substituted (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 20(3) and sch. 2 item 6, S.I. No. 601 of 2021, art 2.
+>
+> F19: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 6(1)(p), S.I. No. 371 of 2001.
+>
+> F20: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 6(1)(q), S.I. No. 371 of 2001.
+>
+> F21: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 6(2), S.I. No. 371 of 2001.
+>
+> **Modifications (not altering text):**
+>
+> C7: Functions transferred and references to “Department of Culture, Heritage and the Gaeltacht” and “Minister for Culture, Heritage and the Gaeltacht” construed (9.09.2020) by *Heritage (Transfer of Departmental Administration and Ministerial Functions) Order 2020* (S.I. No. 339 of 2020), arts. 2 and 3 and sch. part 1, in effect as per art. 1(2), subject to transitional provisions in arts. 4-8. Note change of Department's name and Minister's title to Housing, Local Government and Heritage (30.09.2020) by *Housing, Planning and Local Government (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 408 of 2020), in effect as per art. 1(2). For earlier transfers of functions and construction of references see start of Act, under Be it enacted.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by this Order are transferred to the Department of Housing, Planning and Local Government.
+>
+> (2) References to the Department of Culture, Heritage and the Gaeltacht contained in any Act or any instrument made thereunder and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Housing, Planning and Local Government.
+>
+> 3\. (1) The functions vested in the Minister for Culture, Heritage and the Gaeltacht by or under the Acts specified in Part 1 of the Schedule and the provisions of the Acts specified in Part 2 of the Schedule are transferred to the Minister for Housing, Planning and Local Government.
+>
+> (2) References to the Minister for Culture, Heritage and the Gaeltacht contained in any Act or instrument made thereunder and relating to any functions transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Minister for Housing, Planning and Local Government.
+>
+> SCHEDULE
+>
+> *Article 3*
+>
+> **Part 1**
+>
+> ...
+>
+> Wildlife Act 1976 (No. 39 of 1976) (other than section 59 in so far as it relates to foreshore which is the property of the State)
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E18: Previous affecting provision: "territorial seas of the State" substituted (4.04.2006) by *Sea-Fisheries and Maritime Jurisdiction Act 2006* (8/2006), s. 93(3), commenced on enactment; substituted as per F-note above.
+
+### 3. Service of notices, etc.
+
+**3.**—(1) Where a notice, copy of an order, or copy of regulations is required by this Act, other than *section 48*, *60* or *61*, or any regulation made under this Act to be served on, given or sent to a person, unless the context otherwise requires, it shall be addressed to him and shall be served on, given or sent to him in some one of the following ways:
+
+(*a*) where it is addressed to him by name, by delivering it to him;
+
+(*b*) by leaving it at the address at which he ordinarily resides or, in a case in which an address for service has been furnished, at that address;
+
+(*c*) by sending it by post in a prepaid registered letter addressed to him at the address at which he ordinarily resides or, in a case in which an address for service has been furnished, at that address;
+
+(*d*) where the address at which he ordinarily resides cannot be ascertained by reasonable inquiry and the notice or copy is so required or authorised to be served or given in respect of any land or premises, by delivering the notice or copy to some person over sixteen years of age resident or employed on such land or premises or by affixing it in a conspicuous position on or near such land or premises.
+
+(2) Where a notice, copy of an order, or copy of regulations is required by this Act, other than *section 48*, *60* or *61*, or any regulation made under this Act to be served on, given or sent to an occupier and the name of the occupier cannot be ascertained by reasonable inquiry, it may be addressed to “the occupier” without naming him.
+
+(3) For the purposes of this section, a company within the meaning of the Companies Act, 1963, shall be deemed to be ordinarily resident at its registered office, and every other body corporate and every unincorporated body shall be deemed to be ordinarily resident at its principal office or place of business.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C8: Application of section restricted (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), reg. 3(7), in effect as per reg. 1(3).
+>
+> *Service of notices*
+>
+> **3.** ...
+>
+> (7) The provisions of *Section 3* of the Principal Act shall not apply in a case to which these Regulations apply.
+>
+> C9: Application of subs. (1)(d) restricted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 16(5), S.I. No. 371 of 2001.
+>
+> **Intention to designate natural heritage areas.**
+>
+> **16.**— ...
+>
+> (5) Notwithstanding *section 3(1)(d)* of the Principal Act, where the address of any person to whom *subsection (2)(b)* relates cannot be found after reasonable inquiry, notices and maps showing the areas to be designated shall be displayed in a conspicuous place—
+>
+> (*a*) at one or more Garda Síochána stations, local offices of the Department of Social, Community and Family Affairs, local authority offices, local offices of the Department of Agriculture, Food and Rural Development and offices of Teagasc, which are situated within or contiguous to the area to be designated, or
+>
+> (*b*) where in any case there is no such station or office so located, at one or more of each such station or office within the vicinity or closest to such area,
+>
+> and advertisements shall be broadcast on at least one radio station broadcasting in the locality of the area concerned and be placed in at least one newspaper circulating in the area, and every such notice and advertisement shall request any person affected by the proposed designation to contact the Department of Arts, Heritage, Gaeltacht and the Islands.
+>
+> **Editorial Notes:**
+>
+> E19: Previous affecting provision: application of subs. (1)(d) restricted (26.02.1997) by *European Communities (Natural Habitats) Regulations 1997* (S.I. No. 94 of 1997), reg. 4(2)(c); revoked (21.09.2011) by *Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), reg. 73, in effect as per reg. 1(3).
+
+### 4. Expenses.
+
+**4.**—The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+### 5. Application of moneys received by Minister.
+
+**5.**—All moneys received by the Minister under this Act shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance may direct.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C10: Functions transferred and references to Department of and Minister for Finance construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 39 of 1976</td><td>Wildlife Act 1976</td><td>Sections 5, 8, 9 and 76(5); Second Schedule, paragraphs 11 and 12</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 6. Gifts.
+
+**6.**—The Minister may accept any gift made to him for all or any of the purposes of this Act, and, subject to the terms thereof, may apply it for those purposes.
+
+### 7. Reports.
+
+**7.**—F22[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F22: Repealed (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 5(c), S.I. No. 371 of 2001, subject to transitional provision in s. 4.
+
+### 8. Regulations and orders.
+
+**8.**—(1) The Minister may make regulations for prescribing any matter referred to in this Act as prescribed, provided that in so far as any such regulations provide for the charging of fees they shall only be made with the consent of the Minister for Finance.
+
+F23[(1A) The Minister may make such regulations as appear to the Minister to be necessary or expedient to implement the provisions of the *Wildlife Acts, 1976 and 2000*.
+
+(1B) Any regulation made by the Minister under this Act may contain such incidental or consequential provisions as appear to the Minister to be necessary or expedient for the purpose of implementing the provisions of the *Wildlife Acts, 1976 and 2000*.]
+
+(2) Subject to *subsection (3)* of this section and to *sections 14 (5)*, *15 (5)*, *15 (6)*, *16 (4)*, *17 (3)* and *17 (13)* of this Act, the Minister may by order revoke or amend an order (other than a purchase order within the meaning of *section 55* of this Act) made by him under this Act (including an order made under this subsection).
+
+(3) Where this Act requires the Minister, before making an order or regulation under this Act, to consult any other Minister of State, the Commissioners, a planning authority or any other body, the order or regulation shall be revoked or amended by the Minister only after like consultation.
+
+(4) Every regulation and every order made under this Act by the Minister, other than an order under *section 1 (2)* or a purchase order within the meaning of *section 55* of this Act, shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation or order is passed by either such House within the next twenty-one days on which that House has sat after the regulation or order is laid before it, the regulation or order shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F23: Inserted by (31.07.2001) *Wildlife (Amendment) Act 2000* (38/2000), s. 7, S.I. No. 371 of 2001.
+>
+> **Modifications (not altering text):**
+>
+> C11: Functions transferred and references to “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 39 of 1976</td><td>Wildlife Act 1976</td><td>Sections 5, 8, 9 and 76(5); Second Schedule, paragraphs 11 and 12</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E20: Power pursuant to subs. (2) exercised (27.02.2024) by *Wildlife (Wild Mammals) (Open Seasons) (Amendment) Order 2024* (S.I. No. 66 of 2024).
+>
+> E21: Power pursuant to section exercised (24.08.2023) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 2023* (S.I. No. 421 of 2023).
+>
+> E22: Power pursuant to subs. (2) exercised (19.10.2012) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 2012* (S.I. No. 402 of 2012).
+>
+> E23: Power pursuant to subs. (2) exercised (1.09.2005) by *Wildlife (Wild Mammals) (Open Seasons) Order 2005* (S.I. No. 550 of 2005).
+>
+> E24: Power pursuant to subs. (2) exercised (9.09.1998) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1998* (S.I. No. 332 of 1998).
+>
+> E25: Power pursuant to section exercised (31.08.1989) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1989* (S.I. No. 221 of 1989).
+>
+> E26: Power pursuant to section exercised (8.11.1984) by *Wildlife (Wild Birds) (Open Season) (Amendment) Order 1984* (S.I. No. 283 of 1984).
+>
+> E27: Power pursuant to section exercised (1.02.1984) by *Wildlife Act, 1976 (Birds of Prey) Regulations 1984* (S.I. No. 8 of 1984).
+>
+> E28: Power pursuant to section exercised (12.08.1982) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1982* (S.I. No. 266 of 1982).
+>
+> E29: Power pursuant to section exercised (18.07.1980) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1980* (S.I. No. 229 of 1980).
+>
+> E30: Power pursuant to section exercised (6.02.1978) by *Wildlife Act, 1976 (Acquisition of Land) Regulations 1978* (S.I. No. 29 of 1978).
+>
+> E31: Previous affecting provision: power pursuant to subs. (2) exercised (17.10.2012) by *Wildlife (Wild Mammals) (Open Seasons) (Amendment) Order 2012* (S.I. No. 398 of 2012); superseded (27.02.2024) by *Wildlife (Wild Mammals) (Open Seasons) (Amendment) Order 2012* (S.I. No. 66 of 2024), art. 4.
+>
+> E32: Previous affecting provision: power pursuant to section exercised (for period 1.02.2011 to 28.02.2011) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 2011* (S.I. No. 39 of 2011); expired and superseded (19.10.2012) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 2012* (S.I. No. 402 of 2012), art. 3.
+>
+> E33: Previous affecting provision: power pursuant to section exercised (for period 8.12.2010 to 30.12.2010) by *Wildlife Act 1976 (Temporary Suspension of Open Season) (No. 2) (Amendment) Order 2010* (S.I. No. 613 of 2010); spent.
+>
+> E34: Previous affecting provision: power pursuant to section exercised (for period 8.12.2010 to 21.12.2010) by *Wildlife Act 1976 (Temporary Suspension of Open Season) (No. 2) (Amendment) Order 2010* (S.I. No. 598 of 2010); expired and superseded (21.12.2010) by *Wildlife Act 1976 (Temporary Suspension of Open Season) (No. 2) (Amendment) Order 2010* (S.I. No. 613 of 2010), art. 2.
+>
+> E35: Previous affecting provision: power pursuant to section exercised (for period 8.12.2010 to 14.12.2010) by *Wildlife Act 1976 (Temporary Suspension of Open Season) (No. 2) Order 2010* (S.I. No. 582 of 2010); expired and superseded (14.12.2010) by *Wildlife Act 1976 (Temporary Suspension of Open Season) (No. 2) (Amendment) Order 2010* (S.I. No. 598 of 2010), art. 3.
+>
+> E36: Previous affecting provision: power pursuant to section exercised (for period 15.01.2010 to 20.01.2010) by *Wildlife Act 1976 (Temporary Suspension of Open Season) (Amendment) Order 2010* (S.I. No. 6 of 2010); spent.
+>
+> E37: Previous affecting provision: power pursuant to section exercised (for period 6.01.2010 to 15.01.2010) by *Wildlife Act 1976 (Temporary Suspension of Open Season) Order 2010* (S.I. No. 2 of 2010); amended (15.01.2010) by *Wildlife Act 1976 (Temporary Suspension of Open Season) (Amendment) Order 2010* (S.I. No. 6 of 2010), art. 2; expired.
+>
+> E38: Previous affecting provision: power pursuant to subs. (2) exercised (27.08.2008) by *Wildlife (Wild Mammals) (Open Seasons) (Amendment) (No. 2) Order 2008* (S.I. No. 346 of 2008); superseded (27.02.2024) by *Wildlife (Wild Mammals) (Open Seasons) (Amendment) Order 2012* (S.I. No. 66 of 2024), art. 4.
+>
+> E39: Previous affecting provision: power pursuant to subs. (2) exercised (14.02.2008) by *Wildlife (Wild Mammals) (Open Seasons) (Amendment) Order 2008* (S.I. No. 27 of 2008); superseded (27.08.2008) by *Wildlife (Wild Mammals) (Open Seasons) (Amendment) Order 2008* (S.I. No. 346 of 2008), art. 3.
+>
+> E40: Previous affecting provision: power pursuant to subs. (2) exercised (3.09.2003) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 2003* (S.I. No. 394 of 2003); superseded (19.10.2012) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 2012* (S.I. No. 402 of 2012), art. 3.
+>
+> E41: Previous affecting provision: power pursuant to subs. (2) exercised (30.08.2000) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 2000* (S.I. No. 280 of 2000); superseded (5.09.2001) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 2001* (S.I. No. 428 of 2001), art. 3.
+>
+> E42: Previous affecting provision: power pursuant to subs. (2) exercised (9.09.1998) by *Wildlife (Wild Mammals) (Open Seasons) Order 1998* (S.I. No. 331 of 1998); revoked (1.09.2005) by *Wildlife (Wild Mammals) (Open Seasons) Order 2005* (S.I. No. 550 of 2005), art. 5.
+>
+> E43: Previous affecting provision: power pursuant to section exercised (31.07.1997) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1997* (S.I. No. 363 of 1997); superseded (9.09.1998) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1998* (S.I. No. 332 of 1998), art. 4.
+>
+> E44: Previous affecting provision: power pursuant to section exercised (16.07.1996) by *Wildlife (Wild Mammals) (Open Seasons) (Amendment) Order 1996* (S.I. No. 220 of 1996); rendered obsolete by revocation of *Wildlife (Wild Mammals) (Open Seasons) Order 1979* (S.I. No. 193 of 1992) () by *Wildlife (Wild Mammals) (Open Seasons) Order 1998* (S.I. No. 331 of 1998), art. 4.
+>
+> E45: Previous affecting provision; power pursuant to section exercised (16.07.1996) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1996* (S.I. No. 219 of 1996); superseded (31.07.1997) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1997* (S.I. No. 363 of 1997), art. 3.
+>
+> E46: Previous affecting provision: power pursuant to section exercised (22.11.1995) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) (No. 2) Order 1995* (S.I. No. 304 of 1995); superseded (31.07.1997) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1997* (S.I. No. 363 of 1997), art. 3.
+>
+> E47: Previous affecting provision: power pursuant to section exercised (15.09.1995) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1995* (S.I. No. 249 of 1995); superseded (31.07.1997) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1997* (S.I. No. 363 of 1997), art. 3.
+>
+> E48: Previous affecting provision: power pursuant to section exercised (for period 1.11.1993 to 30.11.1993) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1993* (S.I. No. 255 of 1993); spent.
+>
+> E49: Previous affecting provision: power pursuant to section exercised (for period 1.11.1992 to 30.11.1992) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1992* (S.I. No. 233 of 1992); spent.
+>
+> E50: Previous affecting provision: power pursuant to section exercised (for period 1.11.1991 to 30.11.1991) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1991* (S.I. No. 268 of 1991); spent.
+>
+> E51: Previous affecting provision: power pursuant to subs. (2) exercised (10.09.1986) by *Wildlife (Wild Mammals) (Open Seasons) (Amendment) Order 1986* (S.I. No. 306 of 1986); rendered obsolete by revocation of *Wildlife (Wild Mammals) (Open Seasons) Order 1998* (S.I. No. 331 of 1998) (1.09.2005) by *Wildlife (Wild Mammals) (Open Seasons) Order 2005* (S.I. No. 550 of 2005), art. 5.
+>
+> E52: Previous affecting provision: power pursuant to section exercised (10.09.1986) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1986* (S.I. No. 307 of 1986); superseded (31.07.1997) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1997* (S.I. No. 363 of 1997), art. 3.
+>
+> E53: Previous affecting provision: power pursuant to section exercised (29.10.1985) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1985* (S.I. No. 346 of 1985); superseded (10.09.1986) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1986* (S.I. No. 307 of 1986), art. 3.
+>
+> E54: Previous affecting provision: power pursuant to section exercised (23.01.1985) by *Wildlife Act, 1976 (Section 27) (No. 2) Order 1985* (S.I. No. 12 of 1985); spent on expiry (31.01.1985) of *Wildlife Act, 1976 (Section 27) Order 1985* (S.I. No. 11 of 1985), as per art. 2.
+
+### 9. Licences.
+
+F24[**9.**—(1) The Minister may—
+
+(*a*) attach conditions to any licence granted or permit issued for any of the purposes of the *Wildlife Acts, 1976 and 2000*,
+
+(*b*) vary such conditions, and
+
+(*c*) revoke any such licence other than a licence granted by the Minister under *section 29* of the Principal Act or withdraw any such permit.
+
+(2) Subject to *section 32(5)* of this Act, a licence granted or a permit issued by the Minister under the *Wildlife Acts, 1976 and 2000*, shall, if so expressed, operate to authorise the doing by any person who is of a class or description specified in the licence or permit of—
+
+(*a*) anything allowed to be done by the licence or permit, or
+
+(*b*) anything which is a thing so allowed to be done and is of a class or description so specified.
+
+(3) The Minister may, with the consent of the Minister for Finance, prescribe fees payable in respect of licences granted or permits issued by the Minister under the *Wildlife Acts, 1976 and 2000*, and different fees may be prescribed for different classes of licences or permits.
+
+(4) Regulations prescribing matters to which this section relates may provide for such incidental or related matters as are, in the opinion of the Minister, necessary to give effect to such fees.]
+
+F25[(5) Nothing shall be allowed to be done by licence or permit that would not be allowed to be done under the provisions of the European Communities (Birds and Natural Habitats) Regulations 2011 or that would otherwise contravene the requirements and obligations of the Birds Directive or the Habitats Directive.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F24: Substituted (31.07.2001) by *Wildlife Amendment Act 2000* (38/2000), s. 8, S.I. No. 371 of 2001, subject to transitional provision in s. 4.
+>
+> F25: Substituted (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), reg. 56(28), in effect as per reg. 1(3).
+>
+> **Modifications (not altering text):**
+>
+> C12: Functions transferred and references to “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 39 of 1976</td><td>Wildlife Act 1976</td><td>Sections 5, 8, 9 and 76(5); Second Schedule, paragraphs 11 and 12</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E55: Subs. (5) amended (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), reg. 56(5), in effect as per reg. 1(3); this amendment duplicates words in the substitution of the subsection by reg. 56(28) and renders the amendment redundant.
+>
+> E56: Previous affecting provision: subs. (5) inserted (18.07.2005) by *European Communities (Natural Habitats) (Amendment) Regulations 2005* (S.I. No. 378 of 2005), reg. 2(1); substituted as per F-note above.
+
+### 10. Repeals.
+
+**10.**—The enactments mentioned in the *First Schedule* to this Act are hereby repealed to the extent specified in the third column of that Schedule.
+
+## PART IIWildlife Conservation and Protection — PART II — Wildlife Conservation and Protection
+
+### Chapter IGeneral — Chapter I — General
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C13: Application of part restricted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 59, S.I. No. 371 of 2001.
+>
+> **Saver in interest of public health and safety.**
+>
+> **59.**—Nothing in *Part II*, or *section 51*, of the Principal Act shall make unlawful any thing which is done pursuant to and in accordance with a licence granted in that behalf by the Minister for the purpose of preserving public health or public safety, including air safety.
+
+#### 11. Functions of Minister in relation to wildlife.
+
+**11.**—(1) It shall be a function of the Minister to secure the conservation of wildlife F26[and to promote the conservation of biological diversity].
+
+(2) Without prejudice to the generality of *subsection (1)* of this section, the Minister may in particular do all or any of the following:
+
+(*a*) give assistance or advice to any person on any matter affecting wildlife,
+
+(*b*) where the Minister considers that the management, or supervision of the management by him or on his behalf, of any land in which he has not an interest, is desirable in the interests of wildlife, he may manage or cause to be managed, or supervise or cause to be supervised the management of the land upon such terms and subject to such conditions as may be agreed upon between him and a person having an interest in the land,
+
+F27[(*bb*) encourage the management of features of the landscape which are of major importance for wild flora and fauna including birds, which include those features which by virtue of—
+
+(i) their linear and continuous structure, such as rivers or canals with their banks or the traditional systems of marking field boundaries, or
+
+(ii) their function as stepping stones, such as ponds or small woods,
+
+are essential for the migration, dispersal and genetic exchange of wild species, for the purposes of the Habitats Directive or the Birds Directive,
+
+(*bc*) take the requisite measures to maintain the population of the species referred to in Article 1 of the Birds Directive at a level that corresponds in particular to ecological, scientific and cultural requirements, while taking account of economic and recreational requirements, or to adapt the population of these species to that level,
+
+(*bd*) take the requisite measures to preserve, maintain or re-establish a sufficient diversity and area of habitats by the preservation, maintenance and re-establishment of biotopes and habitats for all of the species of birds referred to in Article 1 of the Birds Directive, in particular the following measures—
+
+(i) the creation of European Sites, or
+
+(ii) the upkeep and management in accordance with the ecological needs of habitats inside and outside European Sites, or
+
+(iii) the re-establishment of destroyed biotopes, and
+
+(iv) the creation of biotopes.]
+
+(*c*) enter into, and carry out, an agreement with another person to participate in a scheme, undertaking or project for the conservation of wildlife and for the purposes of such scheme, undertaking or project to perform any one or more of the functions assigned to him under this Act,
+
+(*d*) make grants or loans to further projects or activities which have as their object the conservation of wildlife generally, a particular aspect of such conservation or the development and proper use of hunting amenities and resources,
+
+(*e*) promote, either directly or indirectly, whether alone or in conjunction with other persons, schemes or projects for the better conservation and use of wildlife or for the prevention, reduction or removal of any damage, or source of damage, to wildlife.
+
+(3) The Minister may, either directly or in association with or through the agency of another person—
+
+(*a*) carry out or cause to be carried out research which he considers desirable for the performance of his functions under this Act,
+
+(*b*) promote the knowledge and understanding of matters to which the functions assigned to him under this Act are related.
+
+(4) Nothing in this section shall restrict, prejudice or affect the performance by the Minister for Agriculture and Fisheries of any function which could have been performed by him immediately before the commencement of this section.
+
+F28[(5) In this section "biological diversity" means the variability among living organisms from all sources, including terrestrial, marine and other aquatic ecosystems, and the ecological complexes of which they are part and "diversity" includes diversity within species, between species and of ecosystems.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F26: Inserted (31.07.2001) by *Wildlife Amendment Act 2000* (38/2000), s. 9(a), S.I. No. 371 of 2001.
+>
+> F27: Inserted (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), reg. 56(24), in effect as per reg. 1(3).
+>
+> F28: Inserted (31.07.2001) by *Wildlife Amendment Act 2000* (38/2000), s. 9(b), S.I. No. 371 of 2001.
+
+#### 12. Obligations generally of Ministers of State and certain other authorities and bodies in relation to nature reserves and refuges.
+
+**12.**—(1) This section applies to—
+
+(*a*) a local authority,
+
+(*b*) the Commissioners,
+
+(*c*) any other body which is—
+
+(i) established by or under statute and financed wholly or partly by means of loans or grants made by a Minister of State,
+
+(ii) a company (in this subsection referred to as a State-sponsored company) within the meaning of the Companies Act, 1963, in which the majority of the shares are held by or on behalf of a Minister of State,
+
+(iii) a company within the meaning of the said Act in which the majority of the ordinary shares are held by a State-sponsored company, or a body established and financed in the manner specified in subparagraph (i) of this paragraph, and
+
+as regards which there is in force for the time being a direction given for the purposes of this section by the Minister.
+
+(2) Subject to *subsection (3)* of this section, a Minister of State other than the Minister and every authority or body to which this section applies shall—
+
+(*a*) before determining any matter or doing anything which is, in his or their opinion, or is represented by the Minister to the other Minister of State, or the authority or body to be likely or liable to affect, or to interfere with, the suitability for a nature reserve or a refuge, as may be appropriate, of land to which an establishment order, a recognition order or a designation order applies, or the management of land pursuant to and in accordance with an agreement under section 18 of this Act, consult the Minister as regards the avoidance or minimising of such effect or interference, and
+
+(*b*) take all practicable steps to avoid or minimise such effect or interference.
+
+(3) *Subsection (2)* of this section shall not apply in relation to—
+
+(*a*) any determination made or anything done in an emergency,
+
+(*b*) F29[...]
+
+(*c*) the functions of the Board, or
+
+(*d*) the functions of the Commissioners under the Arterial Drainage Acts, 1945 and 1955.
+
+(4) The Minister may give in relation to a body described in *subsection (1) (c)* of this section a direction for the purposes of this section and any such direction shall come into force when given and shall continue in force until cancelled by the Minister.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F29: Repealed (31.07.2001) by *Wildlife Amendment Act 2000* (38/2000), s. 24(2), S.I. No. 371 of 2001.
+>
+> **Modifications (not altering text):**
+>
+> C14: Application of subss. (2) and (3) extended (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 24(1), S.I. No. 371 of 2001.
+>
+> **Provisions relating to section 12 (obligations in relation to nature reserves and refuges) of Principal Act.**
+>
+> **24.**—(1) *Subsections (2)* and *(3)* of *section 12* of the Principal Act shall apply to land to which a natural heritage area order or a notice served under *section 16(2)(b)* relates in the same manner as it applies to land to which an establishment order, a recognition order or a designation order relates, or to which an agreement under *section 18* of the Principal Act relates.
+>
+> ...
+
+#### 13. Wildlife Advisory Council.
+
+**13.**—F30[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F30: Repealed (10.04.1995) by *Heritage Act 1995* (4/1995), s. 4, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E57: Previous affecting provision: power pursuant to section exercised (13.03.1978) by *Wildlife Advisory Council Order 1978* (S.I. No. 79 of 1978); ceased to have effect on repeal of section.
+
+#### 14. Establishment of boards to provide or administer certain services.
+
+**14.**—(1) If the Minister considers that the provision or administration of any service which under this Act he is enabled to provide or administer would be facilitated thereby, he may, with the consent of F31[the Minister for Public Expenditure and Reform], and after consulting such other Minister of State (if any) as the Minister considers appropriate to consult in the circumstances, by order establish a board (which shall be known by the name specified in the order) to provide, administer, or provide and administer that service on his behalf in accordance with such directives (which shall be complied with by the board) in relation to the general policy of the Minister relating to wildlife as he may give from time to time.
+
+(2) Such of the provisions contained in the *Second Schedule* to this Act shall apply to a board established by the Minister under this section as the Minister specifies by order and for the purpose of applying any such provision in relation to a particular board as regards which the provision is so specified, any reference in that Schedule to the Board shall be construed as a reference to that particular board.
+
+(3) The Minister may by order, if he considers it appropriate, provide that a specified board established under this section may be directed by the Minister to act on his behalf in the performance of such of his functions under this Act (other than the prosecution of an offence) as are specified in the order and the board so specified shall comply with any such direction and shall have all such powers as are necessary to put into effect any direction given to it by the Minister pursuant to the order.
+
+(4) (*a*) As regards each accounting year a board established by the Minister under this section shall, within the specified period beginning immediately after the board’s accounting year, make a report to the Minister of its activities during that year and the Minister shall cause copies of the report to be laid before each House of the Oireachtas.
+
+(*b*) The Minister shall, as regards a board established by him under this section, specify a period for the purposes of *paragraph (a)* of this subsection and the period so specified is in that paragraph referred to as the specified period.
+
+(5) The Minister shall not revoke an order under this section establishing a board without the consent of F31[the Minister for Public Expenditure and Reform].
+
+(6) Where the Minister revokes an order under this section the following provisions shall have effect:
+
+(*a*) all property, whether real or personal (including choses-in-action), which immediately before the commencement of the order was vested in or belonged to or was held in trust or subject to conditions for the board to which the revoked order relates (in this subsection subsequently referred to as the board) and all rights, powers and privileges relating to or connected with any such property shall on the commencement of the order without any conveyance or assignment, but subject where necessary to transfer in the books of any bank, corporation or company, become and be vested in or the property of or held in trust or subject to conditions for (as the case may require) the Minister for all the interest for which the same immediately before such commencement was vested in or belonged to or was held in trust or subject to conditions for the board, but subject to all trusts, conditions and equities affecting the same and then subsisting and capable of being performed,
+
+(*b*) the said property which immediately before such commencement was standing in the books of any bank or was registered in the books of any bank, corporation or company in the name of the relevant board shall, upon the request of the Minister made at any time on or after such commencement, be transferred in such books by such bank, corporation or company into the name of the Minister,
+
+(*c*) any chose-in-action transferred by this section may on or after such commencement, be sued upon, recovered, or enforced by the Minister in his own name and it shall not be necessary for the Minister to give notice to the person bound by such chose-in-action of the transfer effected by this section,
+
+(*d*) every debt and other liability (including unliquidated liabilities arising from torts or breaches of contract) which, immediately before such commencement is owing and unpaid or has been incurred and is undischarged by the board shall, on such commencement, become and be the debt or liability of the Minister and shall be paid or discharged by and may be recovered from and enforced against the Minister accordingly, and
+
+(*e*) where, immediately before such commencement, any legal proceedings are pending to which the board is a party, the name of the Minister shall be substituted for that of the board, and the proceedings shall not abate by reason of such substitution.
+
+(7) F32[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F31: Substituted (6.07.2011) by *Ministers and Secretaries (Amendment) Act 2011* (10/2011), s. 59, commenced as per ss. 1(2) and 6 and S.I. No. 401 of 2011.
+>
+> F32: Deleted (25.03.1999) by *Finance Act 1999* (2/1999), s. 197 and sch. 6, commenced on enactment.
+
+### Chapter IIReserves and Refuges — Chapter II — Reserves and Refuges
+
+#### 15. Nature reserves on lands owned by the Minister or by the State.
+
+**15.**—(1) This section applies to the following land:
+
+(*a*) land (including land covered by inland waters) owned by the State, including land in which the Minister has (whether jointly or severally) any interest,
+
+(*b*) any foreshore which belongs to the State,
+
+(*c*) land, other than foreshore mentioned in paragraph (*b*) of this subsection, which forms the seabed under F33[the territorial sea of the State.]
+
+(2) Where, after consultation with the Minister for Agriculture and Fisheries, the Minister for Transport and Power and the Commissioners, the Minister is satisfied that—
+
+F34[(*a*) land to which this section applies—
+
+(i) includes the habitat or forms, or is capable of being made to form, the habitat or part of the habitat of one or more species or community, being a species or community which is of scientific interest, or
+
+(ii) includes or forms an ecosystem, or part of an ecosystem, which is of scientific interest, or
+
+(iii) contains features of geological, geomorphological or other natural interest,
+
+F35[or,
+
+(iv) has features of the landscape which are of major importance for wild flora and fauna including birds, which include those features which by virtue of—
+
+(I) their linear and continuous structure, such as rivers or canals with their banks or the traditional systems of marking field boundaries, or
+
+(II) their function as stepping stones, such as ponds or small woods, are essential for the migration, dispersal and genetic exchange of wild species, for the purposes of the Habitats Directive or the Birds Directive, or
+
+(III) their importance for the maintenance of the population of the species referred to in Article 1 of the Birds Directive at a level that corresponds in particular to ecological, scientific and cultural requirements, while taking account of economic and recreational requirements, or for adapting the population of these species to that level, or
+
+(IV) their importance for the preservation, maintenance or re-establishment of a sufficient diversity and area of habitats by the preservation, maintenance and re-establishment of biotopes and habitats for all of the species of birds referred to in Article 1 of the Birds Directive, in particular for
+
+(A) the creation of European Sites, or
+
+(B) the upkeep and management in accordance with the ecological needs of habitats inside and outside European Sites, or
+
+(C) the re-establishment of destroyed biotopes, and
+
+(D) the creation of biotopes.]
+
+and that in the case of such habitat or ecosystem, or such part of the ecosystem, or geological, geomorphological or other natural interest is likely to benefit if measures are taken for its protection,]
+
+(*b*) it is desirable to establish the land as a nature reserve, and
+
+(*c*) the proper management of the land as a nature reserve would not be precluded by any interest of any other person (including a person who is an owner with the Minister) in or over the land,
+
+he may by order (in this Act referred to as an establishment order) declare that the land shall constitute and that there shall be established by the order a nature reserve: provided that,
+
+(i) in case the Commissioners have an interest in the land, the order shall be made by the Minister only with the concurrence of the Commissioners, and
+
+(ii) in case the Minister’s interest in the land is held by him jointly with another person, the Minister in addition to being satisfied as regards the matters aforesaid shall, before making an establishment order in relation to the land, be satisfied that the fact that the other person has an interest in the land will not inhibit the proper management of the land by the Minister as a nature reserve.
+
+(3) An establishment order shall specify the reason why, and shall indicate the objectives for which, the nature reserve is being established by the Minister.
+
+(4) The Minister shall manage the land to which an establishment order relates so as to secure, as best as may be, the objectives indicated in the order having regard to and in accordance with the general protection of the natural environment.
+
+(5) The Minister shall not amend an establishment order unless he considers that the objectives, as regards which the relevant nature reserve was established, require revision because of changes in the features F36[, characteristics or boundaries] of the reserve or in any other circumstance which affects the reserve.
+
+(6) The Minister shall not revoke an establishment order unless he considers that it is no longer practicable or is no longer desirable to maintain the nature reserve established by the order.
+
+(7) The Minister shall, as soon as may be after it is made, cause a copy of an order under this section to be sent to the Commissioners, to the Board and to any planning authority within whose area the land comprised in the nature reserve, or any part thereof, is situate.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F33: Substituted (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 20(3) and sch. 2 item 7, S.I. No. 601 of 2021, art 2.
+>
+> F34: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000*(38/2000), s. 26(a), S.I. No. 371 of 2001.
+>
+> F35: Inserted (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), reg. 56(25).
+>
+> F36: Substituted (31.07.2000) by *Wildlife (Amendment) Act* (38/2000), s. 26(b).
+>
+> **Modifications (not altering text):**
+>
+> C15: Functions transferred and “Department of” and “Minister for Communications” construed (31.03.1987) by *Communications (Transfer of Departmental Administration and Ministerial Functions) Order 1987* (S.I. No. 91 of 1987), arts. 3, 4 and sch. part IV (11), in effect as per art. 1(2), subject to transitional provisions in arts. 5-9. Note: name of Department and title of Minister of the Marine most recently changed to Environment, Climate and Communications (24.09.2020) by *Communications, Climate Action and Environment (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 373 of 2020).
+>
+> 3\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 4 of this Order are hereby transferred to the Department of the Marine.
+>
+> (2) References to the Department of Communications contained in any Act or instrument made thereunder and relating to any administration and business transferred by paragraph (1) of this Article shall, on and after the commencement of this Order, be construed as references to the Department of the Marine.
+>
+> 4\. (1) The functions vested in the Minister for Communications— ...
+>
+> (c) by or under any of the Statutes mentioned in the third column of Part IV of the Schedule to this Order at any reference number of any statute mentioned in the second column of that Part of that Schedule at that reference number
+>
+> are hereby transferred to the Minister for the Marine.
+>
+> (2) References to the Minister for Communications contained in any Act or instrument made thereunder and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for the Marine.
+>
+> ...
+>
+> SCHEDULE
+>
+> PART IV
+>
+> <table><tr><td>Ref. No.</td><td>Statute</td><td>Provisions of the Statutes mentioned in the second column, functions under which are transferred to the Minister for the Marine</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>11.</td><td>Wildlife Act 1976</td><td>Section 15 (2), in so far as it relates to consultation with the Minister</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E58: Power pursuant to section exercised (28.10.1999) by *Nature Reserve (Clochar na gCon) Establishment Order 1999* (S.I. No. 310 of 1999), in effect as per art. 1(2).
+>
+> Power pursuant to section exercised (17.05.1994) by *Nature Reserve (Cummeragh River Bog) Establishment Order 1994* (S.I. No. 116 of 1994), in effect as per art. 1(2).
+>
+> E59: Power pursuant to section exercised (29.03.1994) by *Nature Reserve (Knocksink Wood) Establishment Order 1994* (S.I. No. 58 of 1994), in effect as per art. 1(2).
+>
+> E60: Power pursuant to section exercised (22.11.1993) by *Nature Reserve (Kilcolman Bog) Recognition Order 1993* (S.I. No. 315 of 1993), in effect as per art. 1(2).
+>
+> E61: Power pursuant to section exercised (22.11.1993) by *Nature Reserve (Kilcolman Bog) Establishment Order 1993* (S.I. No. 314 of 1993), in effect as per art. 1(2).
+>
+> E62: Power pursuant to section exercised (7.12.1992) by *Nature Reserve (Scragh Bog) Establishment Order 1992* (S.I. No. 350 of 1992), in effect as per art. 1(2).
+>
+> E63: Power pursuant to section exercised (20.07.1991) by *Nature Reserve (Redwood Bog) Establishment Order 1991* (S.I. No. 173 of 1991), in effect as per art. 1(2).
+>
+> E64: Power pursuant to section exercised (20.07.1991) by *Nature Reserve (Glengarriff) Establishment Order 1991* (S.I. No. 172 of 1991), in effect as per art. 1(2).
+>
+> E65: Power pursuant to section exercised (20.07.1991) by *Nature Reserve (Leam West) Establishment Order 1991* (S.I. No. 171 of 1991), in effect as per art. 1(2).
+>
+> E66: Power pursuant to section exercised (29.01.1990) by *Nature Reserve (Castlemaine Harbour) Establishment Order 1990* (S.I. No. 10 of 1990), in effect as per art. 1(2).
+>
+> E67: Power pursuant to section exercised (29.01.1990) by *Nature Reserve (Meenachullion) Establishment Order 1990* (S.I. No. 9 of 1990), in effect as per art. 1(2).
+>
+> E68: Power pursuant to section exercised (29.01.1990) by *Nature Reserve (Balleyteige Burrow) Establishment Order 1990* (S.I. No. 8 of 1990), in effect as per art. 1(2).
+>
+> E69: Power pursuant to section exercised (29.01.1990) by *Nature Reserve (Knockmoyle/Sheskin) Establishment Order 1990* (S.I. No. 6 of 1990), in effect as per art. 1(2).
+>
+> E70: Power pursuant to section exercised (29.01.1990) by *Nature Reserve (Easkey Bog) Establishment Order 1990* (S.I. No. 5 of 1990), in effect as per art. 1(2).
+>
+> E71: Power pursuant to section exercised (1.06.1989) by *Nature Reserve (Tearaght Island) Establishment Order 1989* (S.I. No. 108 of 1989), in effect as per art. 1(2).
+>
+> E72: Power pursuant to section exercised (1.06.1989) by *Nature Reserve (Knockomagh Wood) Establishment Order 1989* (S.I. No. 107 of 1989), in effect as per art. 1(2).
+>
+> E73: Power pursuant to section exercised (1.06.1989) by *Nature Reserve (Tralee Bay) Establishment Order 1989* (S.I. No. 106 of 1989), in effect as per art. 1(2).
+>
+> E74: Power pursuant to section exercised (10.10.1988) by *Nature Reserve (Great Skellig) Establishment Order 1988* (S.I. No. 235 of 1988), in effect as per art. 1(2).
+>
+> E75: Power pursuant to section exercised (10.10.1988) by *Nature Reserve (Fiddown Island) Establishment Order 1988* (S.I. No. 234 of 1988), in effect as per art. 1(2).
+>
+> E76: Power pursuant to section exercised (10.10.1988) by *Nature Reserve (Baldoyle Estuary) Establishment Order 1988* (S.I. No. 233 of 1988), in effect as per art. 1(2).
+>
+> E77: Power pursuant to section exercised (10.10.1988) by *Nature Reserve (North Bull Island) Establishment Order 1988* (S.I. No. 231 of 1988), in effect as per art. 1(2).
+>
+> E78: Power pursuant to section exercised (30.04.1988) by *Nature Reserve (Lough Nambrackdarrig) Establishment Order 1988* (S.I. No. 73 of 1988), in effect as per art. 1(2).
+>
+> E79: Power pursuant to section exercised (30.04.1988) by *Nature Reserve (Lough Yganavan) Establishment Order 1988* (S.I. No. 72 of 1988), in effect as per art. 1(2).
+>
+> E80: Power pursuant to section exercised (30.04.1988) by *Nature Reserve (Rogerstown Estuary) Establishment Order 1988* (S.I. No. 71 of 1988), in effect as per art. 1(2).
+>
+> E81: Power pursuant to section exercised (30.04.1988) by *Nature Reserve (Derkmore Wood) Establishment Order 1988* (S.I. No. 70 of 1988), in effect as per art. 1(2).
+>
+> E82: Power pursuant to section exercised (30.04.1988) by *Nature Reserve (Glenealo Valley) Establishment Order 1988* (S.I. No. 69 of 1988), in effect as per art. 1(2).
+>
+> E83: Power pursuant to section exercised (30.04.1988) by *Nature Reserve (Glendalough) Establishment Order 1988* (S.I. No. 68 of 1988), in effect as per art. 1(2).
+>
+> E84: Power pursuant to section exercised (12.11.1987) by *Nature Reserve (Raheenmore Bog) Establishment Order 1987* (S.I. No. 280 of 1987), in effect as per art. 1(2).
+>
+> E85: Power pursuant to section exercised (12.11.1987) by *Nature Reserve (Ballyteige Burrow) Establishment Order 1987* (S.I. No. 279 of 1987), in effect as per art. 1(2).
+>
+> E86: Power pursuant to section exercised (23.09.1987) by *Nature Reserve (Puffin Island) Establishment Order 1987* (S.I. No. 228 of 1987), in effect as per art. 1(2).
+>
+> E87: Power pursuant to section exercised (23.09.1987) by *Nature Reserve (Lough Barra Bog) Establishment Order 1987* (S.I. No. 227 of 1987), in effect as per art. 1(2).
+>
+> E88: Power pursuant to section exercised (23.09.1987) by *Nature Reserve (Clara Bog) Establishment Order 1987* (S.I. No. 226 of 1987), in effect as per art. 1(2).
+>
+> E89: Power pursuant to section exercised (29.12.1986) by *Nature Reserve (Mount Brandon) Establishment Order 1986* (S.I. No. 420 of 1986), in effect as per art. 1(2).
+>
+> E90: Power pursuant to section exercised (29.12.1986) by *Nature Reserve (Eirk Bog) Establishment Order 1986* (S.I. No. 419 of 1986), in effect as per art. 1(2).
+>
+> E91: Power pursuant to section exercised (29.12.1986) by *Nature Reserve (Ballyteige) Establishment Order 1986* (S.I. No. 418 of 1986), in effect as per art. 1(2).
+>
+> E92: Power pursuant to section exercised (29.12.1986) by *Nature Reserve Ballygilgan (Lissadell) Establishment Order 1986* (S.I. No. 417 of 1986), in effect as per art. 1(2).
+>
+> E93: Power pursuant to section exercised (29.12.1986) by *Nature Reserve (Owenboy) Establishment Order 1986* (S.I. No. 416 of 1986), in effect as per art. 1(2).
+>
+> E94: Power pursuant to section exercised (29.12.1986) by *Nature Reserve (Knockmoyle/Sheskin) Establishment Order 1986* (S.I. No. 415 of 1986), in effect as per art. 1(2).
+>
+> E95: Power pursuant to section exercised (29.12.1986) by *Nature Reserve (Pollardstown Fen) Establishment Order 1986* (S.I. No. 414 of 1986), in effect as per art. 1(2).
+>
+> E96: Power pursuant to section exercised (14.11.1986) by *Nature Reserve (Keelhilla, Slievecarran) Establishment Order 1986* (S.I. No. 346 of 1986), in effect as per art. 1(2).
+>
+> E97: Power pursuant to section exercised (14.11.1986) by *Nature Reserve (Ballyarr Wood) Establishment Order 1986* (S.I. No. 345 of 1986), in effect as per art. 1(2).
+>
+> E98: Power pursuant to section exercised (14.11.1986) by *Nature Reserve (Duntally Wood) Establishment Order 1986* (S.I. No. 344 of 1986), in effect as per art. 1(2).
+>
+> E99: Power pursuant to section exercised (14.11.1986) by *Nature Reserve (Rathmullan Wood) Establishment Order 1986* (S.I. No. 343 of 1986), in effect as per art. 1(2).
+>
+> E100: Power pursuant to section exercised (16.12.1985) by *Nature Reserve (Timahoe Esker) Establishment Order 1985* (S.I. No. 383 of 1985), in effect as per art. 1(2).
+>
+> E101: Power pursuant to section exercised (16.12.1985) by *Nature Reserve (Slieve Bloom Mountains) Establishment Order 1985* (S.I. No. 382 of 1985), in effect as per art. 1(2).
+>
+> E102: Power pursuant to subs. (2) exercised (16.12.1985) by *Nature Reserve (Capel Island and Knockadoon Head) Establishment Order 1985* (S.I. No. 381 of 1985), in effect as per art. 1(2).
+>
+> E103: Power pursuant to section exercised (16.12.1985) by *Nature Reserve (Richmond Esker) Establishment Order 1985* (S.I. No. 380 of 1985), in effect as per art. 1(2).
+>
+> E104: Power pursuant to section exercised (16.12.1985) by *Nature Reserve (Dromore) Establishment Order 1985* (S.I. No. 379 of 1985), in effect as per art. 1(2).
+>
+> E105: Power pursuant to section exercised (31.12.1984) by *Nature Reserve (Pettigo Plateau) Establishment Order 1984* (S.I. No. 334 of 1984), in effect as per art. 1(2).
+>
+> E106: Power pursuant to section exercised (31.12.1984) by *Nature Reserve (Oldhead Wood) Establishment Order 1984* (S.I. No. 333 of 1984), in effect as per art. 1(2).
+>
+> E107: Power pursuant to section exercised (29.12.1983) by *Nature Reserve (Coole-Garryland) Establishment Order 1983* (S.I. No. 379 of 1983), in effect as per art. 1(2).
+>
+> E108: Power pursuant to section exercised (29.12.1983) by *Nature Reserve (Ballynastaig Wood) Establishment Order 1983* (S.I. No. 378 of 1983), in effect as per art. 1(2).
+>
+> E109: Power pursuant to section exercised (29.12.1983) by *Nature Reserve (Pollnaknockaun Wood) Establishment Order 1983* (S.I. No. 377 of 1983), in effect as per art. 1(2).
+>
+> E110: Power pursuant to section exercised (29.12.1983) by *Nature Reserve (Derrycrag Wood) Establishment Order 1983* (S.I. No. 376 of 1983), in effect as per art. 1(2).
+>
+> E111: Power pursuant to section exercised (29.12.1983) by *Nature Reserve (Rosturra Wood) Establishment Order 1983* (S.I. No. 375 of 1983), in effect as per art. 1(2).
+>
+> E112: Power pursuant to section exercised (29.12.1983) by *Nature Reserve (Vale of Clara) Establishment Order 1983* (S.I. No. 374 of 1983), in effect as per art. 1(2).
+>
+> E113: Power pursuant to section exercised (31.07.1983) by *Nature Reserve (The Raven) Establishment Order 1983* (S.I. No. 200 of 1983), in effect as per art. 1(2).
+>
+> E114: Power pursuant to section exercised (31.12.1982) by *Nature Reserve (Deputy’s Pass) Establishment Order 1982* (S.I. No. 381 of 1982), in effect as per art. 1(2).
+>
+> E115: Power pursuant to section exercised (31.12.1982) by *Nature Reserve (Uragh Wood) Establishment Order 1982* (S.I. No. 380 of 1982), in effect as per art. 1(2).
+>
+> E116: Power pursuant to section exercised (31.12.1982) by *Nature Reserve (Coolacurragh Wood) Establishment Order 1982* (S.I. No. 379 of 1982), in effect as per art. 1(2).
+>
+> E117: Power pursuant to section exercised (31.12.1982) by *Nature Reserve (Grantstown Wood and Granston Lough) Establishment Order 1982* (S.I. No. 378 of 1982), in effect as per art. 1(2).
+>
+> E118: Power pursuant to section exercised (3.06.1981) by *Nature Reserve (Lough Hyne) Establishment Order 1981* (S.I. No. 206 of 1981).
+>
+> E119: Power pursuant to section exercised (3.06.1981) by *Nature Reserve (Wexford Wildfowl Reserve) Establishment Order 1981* (S.I. No. 205 of 1981).
+>
+> E120: Power pursuant to section exercised (18.12.1980) by *Nature Reserve (Garryrickin) Establishment Order 1980* (S.I. No. 389 of 1980).
+>
+> E121: Power pursuant to section exercised (18.12.1980) by *Nature Reserve (Kyleadohir) Establishment Order 1980* (S.I. No. 388 of 1980).
+>
+> E122: Power pursuant to section exercised (18.12.1980) by *Nature Reserve (Caher (Murphy)) Establishment Order 1980* (S.I. No. 387 of 1980).
+>
+> E123: Power pursuant to section exercised (18.12.1980) by *Nature Reserve (Ballykeefe) Establishment Order 1980* (S.I. No. 386 of 1980).
+>
+> E124: Power pursuant to section exercised (13.06.1980) by *Nature Reserve (Glen of the Downs) Establishment Order 1980* (S.I. No. 178 of 1980).
+>
+> E125: Power pursuant to section exercised (13.06.1980) by *Nature Reserve (Derryclare) Establishment Order 1980* (S.I. No. 177 of 1980).
+>
+> E126: Previous affecting provision: certain developments carried out on nature reserves established under section designated exempted developments for purposes of *Local Government (Planning and Development) Acts 1963 to 1993* (15.06.1994) by *Local Government (Planning and Development) Regulations 1994* (S.I. No. 86 of 1994), regs. 9 and 10 and sch. 2 part I class 32(b), in effect as per reg. 2(2); revoked (11.03.2002) by *Planning and Development Act, 2000 (Commencement) (No. 3) Order 2001* (S.I. No. 599 of 2001), art. 6.
+
+#### 16. Nature reserves on land other than land to which section 15 applies.
+
+**16.**—(1) Where a person who is the occupier of land satisfies the Minister that—
+
+(*a*) the land includes a habitat F37[or forms, or is capable of being made to form, a habitat] or part of a habitat or an ecosystem F37[or contains features of geological, geomorphological or other natural interest] described in *paragraph (a)* of *section 15* *(2)* of this Act, F37[as amended by this Act,]
+
+(*b*) the interest of the person in or over the land is such as to enable the person to establish and manage a nature reserve on the land, and
+
+(*c*) the person can, in accordance with any conditions which the Minister sees fit to impose, use or manage the land so as to establish and maintain, or maintain, as may be appropriate, a nature reserve on the land,
+
+then, subject to *subsection (2)* of this section, the Minister may, by order (in this Act referred to as a recognition order) recognise the land as a nature reserve and the recognition shall continue for so long as the order is in force.
+
+(2) Before making a recognition order the Minister shall consult the Minister for Agriculture and Fisheries, the Minister for Transport and Power, the Commissioners and any planning authority within whose area the land to which the proposed order relates, or any part of such land, is situate.
+
+(3) A recognition order shall state the Minister’s reason for recognising the land to which the order relates as a nature reserve and indicate the objectives for which the land is to be used or managed as a nature reserve.
+
+F38[(3A) The Minister shall not amend a recognition order unless the Minister considers that the objectives, as regards which the relevant nature reserve was recognised, require revision because of changes in the features, characteristics or boundaries of the reserve, or because of any other circumstance which in the Minister’s opinion affects the reserve.]
+
+(4) The Minister shall not revoke a recognition order unless he considers that—
+
+(*a*) the objectives indicated in the order have not been attained or are not being properly maintained, or
+
+(*b*) for any other reason, it is no longer appropriate for him to continue to recognise as a nature reserve, by virtue of the order, the land to which the order relates.
+
+(5) The Minister shall, as soon as may be after it is made, cause a copy of an order under this section to be sent to the Commissioners, to the Board and to any planning authority within whose area the land to which the order relates, or any part of such land, is situate.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F37: Inserted (31.07.2001) by *Wildlife (Amendement) Act 2000* (38/2000), s. 27(a), S.I. No. 371 of 2001.
+>
+> F38: Inserted (31.07.2001) by *Wildlife (Amendement) Act 2000* (38/2000), s. 27(b), S.I. No. 371 of 2001.
+>
+> **Editorial Notes:**
+>
+> E127: Power pursuant to section exercised (20.12.2018) by *Nature Reserve (Newcastle Lough) Recognition Order 2018* (S.I. No. 602 of 2018).
+>
+> E128: Power pursuant to section exercised (4.03.2004) by *Nature Reserve (Fenor Bog) Recognition Order 2004* (S.I. No. 86 of 2004).
+>
+> E129: Power pursuant to section exercised (29.01.1990) by *Nature Reserve (Sheheree Bog) Recognition Order 1990* (S.I. No. 7 of 1990), in effect as per art. 1(2).
+>
+> E130: Power pursuant to section exercised (1.06.1989) by *Nature Reserve (Derrycunihy Wood) Recognition Order 1989* (S.I. No. 111 of 1989), in effect as per art. 1(2).
+>
+> E131: Power pursuant to section exercised (1.06.1989) by *Nature Reserve (Derrymore Island) Recognition Order 1989* (S.I. No. 110 of 1989), in effect as per art. 1(2).
+>
+> E132: Power pursuant to section exercised (1.06.1989) by *Nature Reserve (Tearaght Island) Recognition Order 1989* (S.I. No. 109 of 1989).
+>
+> E133: Power pursuant to section exercised (10.10.1988) by *Nature Reserve (Little Skellig) Recognition Order 1988* (S.I. No. 236 of 1988), in effect as per art. 1(2).
+>
+> E134: Power pursuant to section exercised (10.10.1988) by *Nature Reserve (North Bull Island) Recognition Order 1988* (S.I. No. 232 of 1988), in effect as per art. 1(2).
+>
+> E135: Power pursuant to section exercised (23.09.1987) by *Nature Reserve (Mongan Bog) Recognition Order 1987* (S.I. No. 230 of 1987), in effect as per art. 1(2).
+>
+> E136: Power pursuant to section exercised (23.09.1987) by *Nature Reserve (Puffin Island) Recognition Order 1987* (S.I. No. 229 of 1987), in effect as per art. 1(2).
+>
+> E137: Power pursuant to section exercised (16.12.1985) by *Nature Reserve (Capel Island and Knockadoon Head) Recognition Order 1985* (S.I. No. 384 of 1985), in effect as per art. 1(2).
+
+#### 17. Refuges for fauna.
+
+**17.**—(1) Where the Minister considers that a particular species, or particular species, of F39[either or both fauna and flora] should be specially protected on any land which is, or is contiguous to, a habitat of the species, F40[or that land has features of the landscape which are of major importance for wild flora and fauna including birds, which include those features which by virtue of:
+
+(*a*) their linear and continuous structure, such as rivers or canals with their banks or the traditional systems of marking field boundaries, or
+
+(*b*) their function as stepping stones, such as ponds or small woods,
+
+are essential for the migration, dispersal and genetic exchange of wild species, for the purposes of the Habitats Directive or the Birds Directive,] then, subject to *subsection (5)* of this section, he may publish in the *Iris Oifigiúil* and in at least one newspaper circulating in the locality in which the land is situate a notice of his intention to make an order (in this Act referred to as a designation order) designating the land as a refuge for such F39[fauna and flora].
+
+(2) Before publishing a notice pursuant to this section, the Minister shall—
+
+(*a*) consult the Minister for Agriculture and Fisheries, the Minister for Transport and Power, the Commissioners and any planning authority in whose area the land to which the notice relates, or any part of such land, is situate, and
+
+(*b*) serve on the owner or occupier of such land notice of the particulars to be contained in the notice he proposes to so publish.
+
+(3) Where the Minister proposes to amend a designation order he shall publish in the *Iris Oifigiúil* and in at least one newspaper circulating in the locality in which the land to which the designation order applies is situate a notice of his intention to do so.
+
+(4) A notice published pursuant to this section shall indicate F41[every species of fauna and flora] which the Minister proposes by the provisions of the proposed order to which the notice relates to protect, the land to which the proposed designation order or amending order, as the case may be, will apply and the protective measures which he proposes to include in the proposed order, including any measures he proposes to take for the protection of the habitat requirements of such F41[fauna and flora].
+
+(5) The Minister shall not include in a notice published pursuant to this section any reference to a species of fish or aquatic invertebrate animal without the prior concurrence of the Minister for Agriculture and Fisheries.
+
+(6) Not later than two months after publication in the *Iris Oifigiúil* pursuant to *subsection (1)* of this section of a notice, the occupier of any land to which the notice relates, or any person claiming to have or to be entitled to an interest in or over the land or part thereof, who objects to the making of the proposed order on the grounds that it will interfere with such interest, may give, in the manner specified in the said notice, notice to the Minister giving particulars of the claim, and if he does so, shall furnish to the Minister with the notice particulars of the grounds of objection.
+
+(7) Any person, other than a person mentioned in *subsection (6)* of this section or a planning authority, who claims that the making of a proposed order to which a notice published pursuant to this section relates would, if made, be detrimental to him may, not later than two months after the publication of the notice in the *Iris Oifigiúil*, give notice in writing giving particulars of his claim to the Minister and, if he does so, shall furnish to the Minister with the notice particulars of the grounds of objection.
+
+(8) The planning authority within whose area is situate the land, or any part thereof, to which a proposed order under this section will, if made, relate, may, if they object to the proposal, not later than two months after the publication in the *Iris Oifigiúil* pursuant to *subsection (1)* of this section, give notice in writing to that effect to the Minister and, if they do so, they shall furnish to the Minister with the notice particulars of the grounds of objection.
+
+(9) The Minister, after considering any objection duly made in relation to a proposed designation order or to a proposed amendment of a designation order, may if he thinks fit, make in relation to the land specified in the notice published pursuant to this section or any part of such land whichever of the following is appropriate having regard to the terms of the notice:
+
+(*a*) a designation order designating that land, or any part thereof, as, and establishing thereon, a refuge for all or any of the fauna F42[or flora] indicated in the notice, or
+
+(*b*) an appropriate order under *section 8* of this Act amending a designation order,
+
+and the order may include such provisions as the Minister thinks fit which relate to protective measures so specified.
+
+(10) Subject to *subsection (12)* of this section, a person who has an interest in or over land specified in a notice published pursuant to this section shall be entitled to be paid compensation by the Minister in respect of any diminution in the value of his interest in or over the land consequent upon the making of the order to which the notice relates and any claim for payment of compensation shall, in default of agreement, be determined by arbitration under the Act of 1919, as amended by subsequent enactments, in all respects as if the claim arose in relation to compulsory acquisition of land.
+
+(11) Subject to *subsection (12)* of this section, any person other than a person mentioned in *subsection (10)* of this section who, in consequence of the making of an order under this section, has had to incur expense or who has suffered financial loss or any inconvenience or other disadvantage shall be entitled to be paid by the Minister such amount (if any) of compensation as the Minister considers is reasonable.
+
+(12) Any compensation under this section shall be assessed and payable only in respect of diminution in value, loss or disadvantage arising from the measures contained in the relevant order for the protection of the habitat requirements of the fauna F43[or flora] to which the order relates.
+
+(13) The Minister shall not revoke a designation order unless he considers that it is no longer practicable or is no longer desirable to maintain the refuge established by the order.
+
+(14) The Minister shall, as soon as may be after it is made, cause a copy of an order under this section to be sent to the Commissioners, to the Board and to any planning authority within whose area the land to which the order relates, or any part of such land, is situate.
+
+(15) Any person who contravenes a designation order shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F39: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000*, (38/2000) s. 28(a), S.I. No. 371 of 2001.
+>
+> F40: Inserted (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), reg. 56(26), in effect as per reg. 1(3).
+>
+> F41: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000*, (38/2000) s. 28(b), S.I. No. 371 of 2001.
+>
+> F42: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000*, (38/2000) s. 28(c), S.I. No. 371 of 2001.
+>
+> F43: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000*, (38/2000) s. 28(d), S.I. No. 371 of 2001.
+>
+> **Editorial Notes:**
+>
+> E138: Power pursuant to section exercised (25.09.1991) by *Refuge For Fauna (Cow Rock) Designation Order 1991* (S.I. No. 237 of 1991), in effect as per art. 1(2).
+>
+> E139: Power pursuant to section exercised (25.09.1991) by *Refuge For Fauna (Bull Rock) Designation Order 1991* (S.I. No. 236 of 1991), in effect as per art. 1(2).
+>
+> E140: Power pursuant to section exercised (6.03.1989) by *Refuge For Fauna (Old Head of Kinsale) Designation Order 1989* (S.I. No. 11 of 1989), in effect as per art. 1(2).
+>
+> E141: Power pursuant to section exercised (12.06.1988) by *Refuge For Fauna (Rockabill Island) Designation Order 1988* (S.I. No. 100 of 1988), in effect as per art. 1(2).
+>
+> E142: Power pursuant to section exercised (12.06.1988) by *Refuge For Fauna (Horn Head) Designation Order 1988* (S.I. No. 99 of 1988), in effect as per art. 1(2).
+>
+> E143: Power pursuant to section exercised (12.06.1988) by *Refuge For Fauna (Cliffs of Moher) Designation Order 1988* (S.I. No. 98 of 1988), in effect as per art. 1(2).
+>
+> E144: Power pursuant to section exercised (12.03.1988) by *Refuge For Fauna (Lady’s Island) Designation Order 1988* (S.I. No. 23 of 1988), in effect as per art. 1(2).
+
+#### 18. Agreement as to user and management of land.
+
+**18.**—(1) The Minister or, with his prior approval, any other person, may enter into an agreement with a person having an interest in or over land ensuring that the management of the land shall be conducted in a manner (to be specified in the agreement) which will not impair wildlife or its conservation.
+
+(2) An agreement under this section shall be entered into only after consultation with the Minister for Agriculture and Fisheries, the Commissioners and any planning authority in whose area the relevant land or any part thereof is situate.
+
+(3) An agreement under this section may provide for the payment by the Minister or any other person who is a party to the agreement of consideration, either by way of a single payment or by way of payment of an annual sum, to a person having, or claiming to be entitled to, an interest in or over the land to which the agreement relates.
+
+(4) An agreement under this section may provide that the agreement shall be enforceable against persons deriving title to the land under the person having the interest in or over the land, and, in case such provision is included in the agreement, subject, where appropriate, to the agreement’s being registered under section 69 of the Registration of Title Act, 1964, as amended by *section 66* of this Act, and to compliance with any rules made under section 126 of that Act which are relevant, it shall be so enforceable in respect of the person’s former interest as if the Minister, or the person who with the Minister’s approval entered into the agreement, was possessed of adjacent land and as if the agreement had been expressed to be made for the benefit of that land.
+
+(5) The Commissioners, the Board and any planning authority within whose area the land, or any part of the land, to which an agreement made under this section relates, shall be notified by the Minister of the agreement, and if the agreement is terminated and the Minister is aware thereof, of the termination.
+
+(6) Where an agreement under this section to which the Minister is not a party is terminated, the parties to the agreement shall cause notice of the termination to be given to the Minister.
+
+(7) In this section “management” in relation to land means use of the land for agriculture or forestry, the carrying out of works on, in or under the land, the making of any change in the physical, topographical or ecological nature or characteristics of the land and the use of the land for educational or recreational purposes.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E145: Previous affecting provision: provision made for Minister to enter into management agreement in accordance with section (26.02.1997) by *European Communities (Natural Habitats) Regulations 1997* (S.I. No. 94 of 1997), reg. 12; revoked (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), art. 73(1), in effect as per art. 1(3).
+
+### Chapter IIIProtection of wild birds, protected animals and flora — Chapter III — Protection of wild birds, protected animals and flora
+
+#### 19. Protection of wild birds.
+
+**19.**—Wild birds and their nests and eggs, other than wild birds of the species mentioned in the Third Schedule to this Act, shall be protected.
+
+#### 20. Protection of fauna (other than protected wild birds).
+
+**20.**—Animals which are of a species of fauna in relation to which *section 23* of this Act applies shall be protected.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E146: The Minister may grant a license to permit derogation from compliance with the requirements of this section as provided (4.10.2010) by *European Communities (Birds and Natural Habitats) (Restrictions on Use of Poisoned Bait) Regulations 2010* (S.I. No. 481 od 2010, reg. 5.
+
+#### 21. Protection of flora.
+
+**21.**—(1) Where the Minister considers that a particular species, or particular species, of flora should be protected, he may by order declare the species to be protected either throughout the State or in a particular area or areas thereof and an order made under this section shall apply—
+
+(*a*) in case the order declares a species of flora protected throughout the State, as regards any specimen of that species in every place in the State,
+
+(*b*) in case the order declares a species of flora protected in a particular area or areas of the State, as regards any specimen of that species in every place in an area specified in the order;
+
+provided that in case the Minister proposes to make an order under this section declaring a species of flora protected in a particular area or in particular areas of the State, he shall, before making the order, consult any planning authority in relation to whose area, or any part of such area, the proposed order would, if made, apply.
+
+(2) The Minister shall, as soon as may be after it is made, cause a copy of an order under this section to be sent to the Board and to any planning authority in relation to whose area, or any part of such area, the order applies.
+
+(3) Subject to *subsection (5)* of this section, a person shall not, save under and in accordance with a licence granted by the Minister under this section—
+
+F44[(*a*) cut, pick, collect, uproot or otherwise take, injure, damage, or destroy any specimen to which this section applies or the flowers, roots, seeds, spores or other part of such specimen,
+
+F45[(*b*) purchase, sell or exchange, transport, keep for sale or exchange, offer for sale or exchange or be in possession of any such specimen or any specimen of a species listed in Annex IV(B) of Council Directive 92/43/EEC of 21 May 1992 and including any amendments that shall be made thereto, whether alive or dead or the flowers, roots, seeds, spores or other part, product or derivative thereof.]]
+
+(*c*) wilfully alter, damage, destroy or interfere with the habitat or environment of any species of flora to which an order under this section for the time being applies.
+
+(4) A person who contravenes *subsection (3)* of this section shall be guilty of an offence.
+
+(5) The Minister may grant a licence to a person for such scientific, educational or other purposes as shall be specified in the licence to do any or all of the following:
+
+F46[(*a*) to cut, pick, collect, uproot or otherwise take flora of a species specified in the licence and which is of a species to which an order under this section for the time being applies or the flowers, roots, seeds, spores or other part of a specimen of the species so specified,]
+
+(*b*) to alter or otherwise interfere with the habitat or environment of any such specimen.
+
+(6) Where in any proceedings for an offence under this section it is proved by the prosecutor that the person accused of the offence—
+
+F47[(*a*) sold a plant whether alive or dead or the flowers, roots, seeds, spores or any part, product or derivative of a plant, which is of the same species as the plant, flowers, roots, seeds, spores or any part, product or derivative of a plant, as the case may be, to which the alleged offence relates, and
+
+(*b*) claimed, either expressly or by implication and whether by advertising or otherwise, that the plant, flowers, roots, seeds, spores or any other part, product or derivative sold came from or was wholly or partly grown in a particular place, and the place is in an area to which an order under this section applied at the time when the alleged offence was committed,]
+
+it shall be assumed, until the contrary is shown by the defendant, that the sale was in contravention of *subsection (3)* of this section.
+
+(7) In any proceedings for an offence under this section, it shall be a defence for the defendant to show that the plant, flowers, roots F48[, seeds or spores] or other thing to which the alleged offence relates was lawfully imported.
+
+(8) A person shall not be convicted under this section and under section 46 of the Local Government (Planning and Development) Act, 1963, as amended by section 40 (*b*) of the Local Government (Planning and Development) Act, 1976, in respect of the same act.
+
+F49[(8A) In order to control the trade and collection of wild flora the Minister may make regulations providing that a person shall not, save under and in accordance with a licence granted in that behalf by the Minister and on payment to the Minister of the prescribed fee (if any), cut, pick, collect, uproot or otherwise take, injure, damage, or destroy any specimen of a species of flora which is of a species specified in the regulations or the flowers, roots, seeds, spores or other part of such specimen or cause to be cut, picked, collected, uprooted or otherwise taken, injured, damaged or destroyed any such specimen.
+
+(8B) Where the Minister is satisfied that it is in the interests of the conservation of any species of wild flora so to do, the Minister may be regulations prohibit, or control in such manner as the Minister considers appropriate and specify in the regulations, the trade, collection, purchase or sale of that species or any part, product or derivative thereof for such period as may be so specified.]
+
+(9) In this section—
+
+“plant” includes a tree or shrub;
+
+“specimen to which this section applies” means any specimen of a species of flora which is a species to which an order under this section for the time being applies.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F44: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 29(a), S.I. No. 371 of 2001.
+>
+> F45: Substituted (18.07.2005) by *European Communities (Natural Habitats) (Amendment) Regulations 2005* (S.I. No. 378 of 2005), reg. 2(2).
+>
+> F46: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s.29(b), S.I. No. 371 of 2001.
+>
+> F47: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 29(c), S.I. No. 371 of 2001.
+>
+> F48: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s.29(d).
+>
+> F49: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 29(e), S.I. No. 371 of 2001.
+>
+> **Editorial Notes:**
+>
+> E147: Power pursuant to section exercised (16.05.2022) by *Flora (Protection) Order 2022* (S.I. No. 235 of 2022), in effect as per art. 2.
+>
+> E148: The Minister may grant a license to permit derogation from compliance with the requirements of this section as provided (4.10.2010) by *European Communities (Birds and Natural Habitats) (Restrictions on Use of Poisoned Bait) Regulations 2010* (S.I. No. 481 of 2010), reg. 5.
+>
+> E149: Previous affecting provision: power pursuant to section exercised (21.05.2015) by *Flora (Protection) Order 2015* (S.I. No. 356 of 2015); revoked (16.05.2022) by *Flora (Protection) Order 2022* (S.I. No. 235 of 2022), art. 4, in effect as per art. 2.
+>
+> E150: Previous affecting provision: subs. (3)(b) substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 29(a), S.I. No. 371 of 2001; substituted as per F-note above.
+>
+> E151: Previous affecting provision: power pursuant to section exercised (14.04.1999) by *Flora (Protection) Order 1999* (S.I. No. 94 of 1999); revoked (21.05.2015) by *Flora (Protection) Order 2015* (S.I. No. 356 of 2015), art. 3, subject to transitional provisions in art. 4.
+>
+> E152: Previous affecting provision: application of section modified (26.04.1997) by *European Communities (Natural Habitats) Regulations 1997* (S.I. No. 94 of 1997), reg. 21; revoked (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), reg. 73(1), in effect as per art. 1(3).
+>
+> E153: Previous affecting provision: Minister empowered to grant a license to permit a derogation from compliance with this section (26.02.1997) by*European Communities (Natural Habitats) Regulations 1997* (S.I. No. 94 of 1997), reg. 25(1); revoked (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), reg. 73(1), in effect as per art. 1(3).
+>
+> E154: Previous affecting provision: power pursuant to section exercised (20.10.1987) by *Flora (Protection) Order 1987* (S.I. No. 274 of 1987); revoked (14.04.1999) by *Flora Protection Order 1999* (S.I. No. 94 of 1999), art. 3.
+>
+> E155: Power pursuant to section exercised (5.11.1980) by *Flora (Protection) Order 1980* (S.I. No. 338 of 1980); revoked (20.10.1987) by *Flora Protection Order 1987* (S.I. No. 274 of 1987), art. 3.
+
+#### 22. Enforcement of protection of wild birds.
+
+**22.**—(1) Subject to *subsection (2)* hereof, this section applies to every wild bird other than a wild bird of a species specified in the *Third Schedule* to this Act.
+
+(2) The Minister may by regulations provide that—
+
+(*a*) a wild bird of a species specified in the *Third Schedule* to this Act shall be a wild bird to which this section applies,
+
+(*b*) this section shall not apply to a wild bird which is of a species specified in the regulations,
+
+(*c*) in such places or areas as are specified in the regulations and as regards such period or periods as are so specified, *subsection (4)* of this section shall not have effect, either, as may be so specified, generally or as regards such species of wild bird as are so specified,
+
+(*d*) this section shall not have effect in relation to the taking or removing by persons of a specified class of the eggs and nests of wild birds of a species so specified,
+
+and in case any regulations under this subsection are for the time being in force, this section shall be construed and have effect subject to and in accordance with them; provided that regulations made by the Minister under this subsection and which deal with any matter mentioned in *paragraph (a)*, *(b)* or *(c)* of this subsection shall be so made only after consultation with the Minister for Agriculture and Fisheries.
+
+(3) A wild bird to which this section for the time being applies is in this Act referred to as a protected wild bird.
+
+(4) Subject to the exceptions specified in *subsection (5)* of this section, any person who—
+
+(*a*) (i) hunts a protected wild bird, other than a protected wild bird which is of a species specified in an order under *section 24* of this Act, otherwise than under and in accordance with a permission or licence granted by the Minister under this Act, or
+
+(ii) hunts a protected wild bird which is of a species specified in an order under *section 24* of this Act, otherwise than—
+
+(A) under and in accordance with such a permission or a licence granted by the Minister under this Act other than *section 29*,
+
+(B) under and in accordance with a licence granted under *section 29* of this Act and (also) on a day, or during a period of days, specified in a relevant order under the said *section 24*,
+
+(*b*) injures a protected wild bird otherwise than while hunting it,
+
+(i) in case the protected wild bird is of a species other than a species specified in an order under *section 24* of this Act, under and in accordance with a licence or permission granted by the Minister under this Act,
+
+(ii) in case the protected wild bird is of a species so specified, either in the manner mentioned in *clause (A)* of *paragraph (a) (ii)* of this subsection, or in the manner and on a day, or during a period of days, mentioned in *clause (B)* of the said *paragraph (a) (ii)*,
+
+(*c*) wilfully takes or removes the eggs or nest of a protected wild bird otherwise than under and in accordance with such a licence,
+
+(*d*) wilfully destroys, injures or mutilates the eggs or nest of a protected wild bird,
+
+(*e*) wilfully disturbs a protected wild bird on or near a nest containing eggs or unflown young,
+
+shall be guilty of an offence.
+
+(5) It shall not be an offence for a person—
+
+(*a*) while engaged in ornithology wilfully to disturb a protected wild bird, or
+
+(*b*) while so engaged or engaged in agriculture, F50[aquaculture, fishing, forestry or turbary] unintentionally to injure or kill a protected wild bird, or
+
+F51[(*c*) to remove for conservation purposes or to destroy unintentionally the eggs or nest of a protected wild bird in the ordinary course of agriculture or forestry,]
+
+(*d*) to capture an injured or disabled protected wild bird F52[, or the orphaned and dependant young of such a bird,] for the purpose of killing it humanely F53[...], or
+
+(*e*) to kill humanely a protected wild bird which has been injured in the manner described in *paragraph (b)*, or captured in the manner described in paragraph (*d*) or injured in the circumstances described in *paragraph (h)* of this subsection F54[and where the bird is so injured or disabled that there is no reasonable chance of its recovering], or
+
+(*f*) F55[...]
+
+(*g*) to destroy or remove any such nest which is built in or on an occupied building F56[unless the nest contains the eggs or young of a protected wild bird], or
+
+F57[(*h*) while constructing a road or while carrying on any archaeological operation, building operation or work of engineering construction or while constructing or carrying on such other operation or work as may be prescribed, unintentionally to kill or to injure a protected wild bird or to remove for conservation purposes or unintentionally to destroy, injure or mutilate the eggs or nest of a protected wild bird,]
+
+and nothing in this section shall make unlawful anything which is duly done pursuant to F58[a licence or other permission granted or issued pursuant to the *Wildlife Acts, 1976 and 2000*, or which is duly done pursuant to any other statute] or statutory instrument, which is permitted to be done under such a statute or instrument or which is done pursuant to and in accordance with a licence or other permission granted or issued pursuant to such a statute or instrument or anything caused by or which results from, or is consequent upon or the effect of any other act or thing which is lawfully done.
+
+(6) In any proceedings for an offence under this section relating to a protected wild bird which is of a species other than a species specified in *Part I* of the *Fourth Schedule* to this Act, it shall be a defence for the defendant to prove that any capturing or killing complained of was urgently necessary for the purpose of stopping damage described in *section 42 (1)* of this Act being caused and that in the particular circumstances of the case it was not practical for him to apply to the Minister beforehand for a permission under *section 42* of this Act and that the defendant reasonably believed that damage mentioned in the said *section 42 (1)* was being caused by the protected wild bird to which the alleged offence relates or by protected wild birds of the same species as that of such protected wild bird.
+
+(7) In any proceedings for an offence under this section in which it is alleged that the defendant wilfully disturbed a protected wild bird described in *subsection (4) (e)* of this section, it shall not be necessary for the prosecution to prove that at the time of the alleged offence the defendant was not engaged in ornithology.
+
+(8) Proceedings for an offence under this section may be taken in any District Court District, and in case such proceedings are taken and apart from this section the Justice before whom the proceedings are brought would not have jurisdiction to hear and determine the proceedings, then for the purpose of conferring such jurisdiction the offence may be treated as having been committed within the District Court District to which such Justice is assigned.
+
+(9) The Minister may grant a licence to a person—
+
+(*a*) at any time to capture or kill humanely or capture and humanely kill a protected wild bird of a species specified in the licence for such educational, scientific or other purposes as shall be so specified,
+
+(*b*) to hunt, in accordance with the licence, on such day or during such period of days as is specified in the licence, protected wild birds which are both pen-reared and of a species so specified,
+
+(*c*) to so hunt, on such day or during such period of days, protected wild birds of a species so specified for the purpose of either training gun dogs for any field sport or holding gun dog trials,
+
+(*d*) to F59[examine, inspect or] take the nests or eggs of protected wild birds of a species so specified for such educational, scientific or other purposes as shall be so specified.
+
+F60[(*e*) to take the eggs of a protected wild bird of a species specified in the licence for the purposes of having them hatched out for repopulation, or re-introduction to the wild or, for such purposes, to move such eggs from the nest of a bird so specified to that of another bird of the same species or for such other purposes as the Minister considers appropriate in the circumstances in respect of the species so specified,
+
+(*f*) to take or make photographic, video or other pictures of a protected wild bird of a species specified in the licence on or near a nest containing eggs or unflown young,
+
+(*g*) to have in possession, for a reasonable period of time—
+
+(i) an injured or disabled wild bird, or
+
+(ii) one or more than one dependant young of a wild bird which is orphaned,
+
+with the intention of tending and later releasing such bird or young back into the wild when and only when such bird or young, as the case may be, is no longer injured, disabled or dependant,
+
+(*h*) to retain possession of a wild bird, that for reasons of disability or for other reasons deemed reasonable by the Minister, would, if released, be unlikely to survive unaided in the wild.]
+
+(10) The Minister may by regulations provide that—
+
+(*a*) *subsection (6)* of this section shall have effect in relation to any proceedings for offences under this section relating to protected wild birds of a species specified in both *Part I* of the *Fourth Schedule* to this Act and in the regulations,
+
+(*b*) the said *subsection (6)* shall not have effect in relation to any such proceedings relating to protected wild birds of a species specified in the regulations,
+
+and the said *subsection (6)* shall have effect accordingly.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F50: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 30(a)(i), S.I. No. 371 of 2001.
+>
+> F51: Substituted (6.12.1985) by *European Communities (Wildlife Act, 1976) (Amendment) Regulations 1985* (S.I. No. 397 of 1985), reg. 3(b), in effect as per reg. 1(2).
+>
+> F52: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 30(a)(ii), S.I. No. 371 of 2001.
+>
+> F53: Deleted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 30(a)(ii), S.I. No. 371 of 2001.
+>
+> F54: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 30(a)(iii), S.I. No. 371 of 2001.
+>
+> F55: Deleted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 30(a)(iv), S.I. No. 371 of 2001.
+>
+> F56: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 30(a)(v), S.I. No. 371 of 2001.
+>
+> F57: Substituted (6.12.1985) by *European Communities (Wildlife Act, 1976) (Amendment) Regulations 1985* (S.I. No. 397 of 1985), reg. 3(d), in effect as per reg. 1(2).
+>
+> F58: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 30(a)(vi), S.I. No. 371 of 2001.
+>
+> F59: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 30(b)(i), S.I. No. 371 of 2001.
+>
+> F60: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 30(b)(ii), S.I. No. 371 of 2001.
+>
+> **Modifications (not altering text):**
+>
+> C16: Application of subs. (5) potentially restricted (4.10.2010) by *European Communities (Birds and Natural Habitats) (Restrictions on Use of Poisoned Bait) Regulations 2010* (S.I. No. 481 of 2010), reg. 4(4).
+>
+> *Prohibition of use of certain poisoned bait*
+>
+> 4\. ...
+>
+> (4) For the avoidance of doubt, in the event of conflict between these Regulations and sections 22(5) and 23(7) of the Wildlife Act 1976 these Regulations prevail.
+>
+> **Editorial Notes:**
+>
+> E156: The Minister may grant a license to permit derogation from compliance with the requirements of this section as provided (4.10.2010) by *European Communities (Birds and Natural Habitats) (Restrictions on Use of Poisoned Bait) Regulations 2010* (S.I. No. 481 od 2010, reg. 5.
+>
+> E157: Power pursuant to section exercised (1.10.1980) by *Wildlife Act, 1976 (Protection of Bullfinches) Regulations 1980* (S.I. No. 283 of 1980), in effect as per art. 2.
+>
+> E158: Previous affecting provision: subs. (5)(f) substituted (6.12.1985) by *European Communities (Wildlife Act, 1976) (Amendment) Regulations 1985* (S.I. No. 397 of 1985), reg. 3(c), in effect as per reg. 1(2); deleted as per F-note above.
+
+#### 23. Enforcement of protection of wild animals (other than wild birds).
+
+**23.**—(1) Subject to *subsection (2)* hereof, this section applies to any animal which is of a species of fauna specified in the *Fifth Schedule* to this Act.
+
+(2) Subject to *subsection (3)* of this section, the Minister may, after consultation with the Minister for Agriculture and Fisheries, by regulations provide that—
+
+(*a*) an animal of a species of fauna specified in the regulations (not being a species specified in the *Fifth Schedule* to this Act) shall be an animal to which this section applies,
+
+(*b*) an animal of a species of fauna specified both in the regulations and in the said Fifth Schedule shall not be an animal to which this section applies,
+
+(*c*) in such places or areas as are specified in the regulations and as regards such period or periods as are so specified, *subsection (5)* of this section shall not have effect either, as may be so specified, generally or as regards such species of animal as are so specified,
+
+and in case any regulations under this subsection are for the time being in force, this section shall be construed and have effect subject to and in accordance with them.
+
+(3) Regulations under this section—
+
+(*a*) which provide that an animal of any species of fish or aquatic invertebrate shall be an animal to which this section applies, or
+
+(*b*) the effect of which when made would be that this section would, for so long as the regulations are in force, cease to apply to animals which are of such a species,
+
+shall be made or amended by the Minister only with the concurrence of the Minister for Agriculture and Fisheries who shall indicate his concurrence by signing the regulations.
+
+(4) An animal to which this section for the time being applies is in this Act referred to as a protected wild animal.
+
+(5) Any person who—
+
+(*a*) hunts a protected wild animal which is not an exempted wild mammal otherwise than under and in accordance with a permission or licence granted by the Minister under this Act,
+
+(*b*) hunts an exempted wild mammal otherwise than,
+
+(i) under and in accordance with such a permission or a licence granted by the Minister under this Act other than *section 29*, or
+
+(ii) under and in accordance with a licence granted by the Minister under *section 29* of this Act and (also) on a day, or during a period of days, specified in a relevant order under *section 25* of this Act,
+
+(*c*) injures a protected wild animal otherwise than while hunting it,
+
+(i) in case the protected wild animal is not an exempted wild mammal, under and in accordance with such a permission or a licence granted by the Minister under this Act,
+
+(ii) in case the protected wild animal is an exempted wild mammal, either,
+
+(A) under and in accordance with such a permission or a licence granted by the Minister under this Act other than *section 29*, or
+
+(B) in the manner and on a day, or during a period of days, mentioned in *subparagraph (ii)* of *paragraph (b)* of this subsection,
+
+(*d*) wilfully interferes with or destroys the breeding place F61[or resting place] of any protected wild animal,
+
+shall be guilty of an offence.
+
+F62[(6) The Minister may grant a licence to a person—
+
+(*a*) to take, capture or humanely kill or capture and humanely kill at any time a protected wild animal of a species specified in the licence for such educational, scientific or any other purpose as shall be specified in the licence, or
+
+(*b*) to take or make photographic, video or other pictures of a protected wild animal of a species so specified on or near the breeding place of such an animal, or
+
+(*c*) to have in possession, for a reasonable period of time—
+
+(i) an injured or disabled protected wild animal, or
+
+(ii) one or more than one dependant young of a protected wild animal which is orphaned,
+
+with the intention of tending and later releasing such animal or young back into the wild when and only when such animal or young, as the case may be, is no longer injured, disabled or dependant, or
+
+(*d*) to retain possession of a protected wild animal, that for reasons of disability or for other reasons deemed reasonable by the Minister, would, if released, be unlikely to survive unaided in the wild.]
+
+(7) Notwithstanding *subsection (5)* of this section, it shall not be an offence for a person—
+
+(*a*) while engaged in agriculture, fishing or F63[aquaculture, forestry or turbary,] unintentionally to injure or kill a protected wild animal, or
+
+(*b*) while so engaged to interfere with or destroy the breeding place of such an animal, or
+
+(*c*) while constructing a road or while carrying on any archaeological operation, building operation or work of engineering construction, or while constructing or carrying on such other operation or work as may be prescribed, F64[unintentionally to kill or injure such an animal or unintentionally to destroy or injure the breeding place or resting place] of such an animal, or
+
+(*d*) to capture an injured or disabled protected wild animal F65[, or the orphaned and dependant young of such an animal,] for the purpose of killing it humanely or with the intention of tending it and of later releasing it F65[when, but only when, the said animal or its dependant young, as the case may be, are no longer disabled or dependant] or
+
+(*e*) to kill humanely a protected wild animal which is either injured in the manner described in *paragraph (a)* of this subsection or captured in the manner described in *paragraph (d)* of this subsection, or so to kill a protected wild animal injured in the circumstances described in *paragraph (c)* of this subsection, F66[and where the animal is so injured or disabled that there is no reasonable chance of its recovering,]
+
+and nothing in this section shall make unlawful,
+
+(i) the taking and killing of hares by coursing at a regulated coursing match which is held both during a period specified as regards hares in a hares order and in a place to which such order applies,
+
+(ii) the hunting of hares by means of a pack of beagles or harriers both during a period specified as regards hares in a hares order and in a place to which the order applies,
+
+(iii) anything which section 3 (3) of the Whale Fisheries Act, 1937, permits to be done, or
+
+(iv) anything which is duly done pursuant to F67[a licence or other permission granted or issued pursuant to the *Wildlife Acts, 1976 and 2000*, or which is duly done pursuant to any other statute] or statutory instrument, which is permitted to be done under such a statute or instrument or which is done pursuant to and in accordance with a licence or other permission granted or issued pursuant to such a statute or instrument or anything caused by or which results from, or is consequent upon or the effect of any other act or thing which is lawfully done.
+
+F68[(7A) the provisions of *subsection (7)* of this section shall not apply to the species listed in Annex IV (A) of Council Directive 92/43/EEC of 21 May 1992, and including any amendments that shall be made thereto.]
+
+(8) In any proceedings for an offence under this section relating to a protected wild animal which is of a species other than a species specified in *Part II* of the *Fourth Schedule* to this Act, it shall be a defence for the defendant to prove that any capturing or killing complained of was urgently necessary for the purpose of stopping damage described in *section 42 (1)* of this Act being caused and that in the particular circumstances of the case it was not practical for him to apply to the Minister beforehand for a permission under *section 42* of this Act and that the defendant reasonably believed that damage mentioned in the said *section 42 (1)* was being caused by the protected wild animal to which the alleged offence relates or by protected wild animals of the same species as that of such protected wild animal.
+
+(9) In any proceedings for an offence under this section it shall not be necessary for the prosecution to prove that any act constituting (whether in whole or in part) the alleged offence was done otherwise than while the defendant was engaged in agriculture, fishing or F69[, aquaculture, forestry or turbary] F70[...].
+
+(10) Proceedings for an offence under this section may be taken in any District Court District, and in case such proceedings are taken and apart from this section the Justice before whom the proceedings are brought would not have jurisdiction to hear and determine the proceedings, then for the purpose of conferring such jurisdiction the offence may be treated as having been committed within the District Court District to which such Justice is assigned.
+
+(11) The Minister may by regulations provide that—
+
+(*a*) *subsection (8)* of this section shall have effect in relation to any proceedings for offences under this section relating to protected wild animals of a species specified both in *Part II* of the *Fourth Schedule* to this Act and in the regulations,
+
+(*b*) the said *subsection (8)* shall not have effect in relation to any such proceedings relating to protected wild animals of a species specified in the regulations,
+
+and the said *subsection (8)* shall have effect accordingly.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F61: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 31(a), S.I. No. 371 of 2001.
+>
+> F62: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 31(b), S.I. No. 371 of 2001.
+>
+> F63: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 31(c)(i), S.I. No. 371 of 2001.
+>
+> F64: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 31(c)(ii), S.I. No. 371 of 2001.
+>
+> F65: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 31(c)(iii), S.I. No. 371 of 2001.
+>
+> F66: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 31(c)(iv), S.I. No. 371 of 2001.
+>
+> F67: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 31(c)(v), S.I. No. 371 of 2001.
+>
+> F68: Inserted (18.07.2005) by *European Communities (Natural Habitats) (Amendment) Regulations 2005* (S.I. No. 378 of 2005), reg. 2(3).
+>
+> F69: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 31(d), S.I. No. 371 of 2001.
+>
+> F70: Deleted (31.07.2001) by *Wildlife (Amendment) Act 2000*, (38/2000), s. 31(d).
+>
+> **Modifications (not altering text):**
+>
+> C17: Application of subs. (7) potentially restricted (4.10.2010) by *European Communities (Birds and Natural Habitats) (Restrictions on Use of Poisoned Bait) Regulations 2010* (S.I. No. 481 of 2010), reg. 4(4).
+>
+> *Prohibition of use of certain poisoned bait*
+>
+> 4\. ...
+>
+> (4) For the avoidance of doubt, in the event of conflict between these Regulations and *sections 22(5)* and *23(7)* of the *Wildlife Act 1976* these Regulations prevail.
+>
+> **Editorial Notes:**
+>
+> E159: Power pursuant to section exercised (3.10.2022) by *Wildlife Act 1976 (Protection of Wild Animals) Regulations 2022* (S.I. No. 485 of 2022), in effect as per reg. 2.
+>
+> E160: Provision made for costs of certain proceedings in relation to a licence granted under subs. (6) (23.08.2011) by *Environment (Miscellaneous Provisions) Act 2011* (20/2011), ss. 3-7, S.I. No. 433 of 2011.
+>
+> E161: Power pursuant to section exercised (1.06.1990) by *Wildlife Act, 1976 (Protection of Wild Animals) Regulations 1990* (S.I. No. 112 of 1990), in effect as per art. 2.
+>
+> E162: Power pursuant to section exercised (1.10.1980) by *Wildlife Act 1976 (Protection of Wild Animals) Regulations 1980* (S.I. No. 282 of 1980), in effect as per art. 2.
+
+#### 23A. Prohibition on deer hunting with dogs.
+
+F71[**23A.**— (1) In this section "deer" includes a deer that is not a wild animal.
+
+(2) Subject to *subsection (3)*, a person who hunts deer with two or more dogs shall be guilty of an offence.
+
+(3) It shall not be an offence for a person on foot to hunt deer with 2 or more dogs, under and in accordance with—
+
+(*a*) a licence granted under *section 29* of this Act, or
+
+(*b*) a permission granted under *section 42* of this Act.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F71: Inserted (10.07.2010) by *Wildlife (Amendment) Act 2010* (19/2010), s. 3, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E163: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+#### 24. Open seasons for certain protected wild birds.
+
+**24.**—(1) Subject to *sections 27* and *28* of this Act, the Minister may by order provide that any protected wild bird which is of a species specified in the order, may be hunted either throughout the State or in any part thereof specified in the order on a day or during a period of days so specified.
+
+(2) An order under this section may contain different provisions in relation to different areas and different species of protected wild birds, including provisions limiting the total number of any particular such species which may, during a period of days specified in the order, be killed F72[...] in hunting in accordance with the order either in relation to the area as a whole to which the order applies or to part of such area.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F72: Deleted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 33, S.I. No. 371 of 2001.
+>
+> **Editorial Notes:**
+>
+> E164: Power pursuant to section exercised (24.08.2023) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 2023* (S.I. No. 421 of 2023).
+>
+> E165: Power pursuant to section exercised (9.09.1998) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1998* (S.I. No. 332 of 1998).
+>
+> E166: Power pursuant to section exercised (31.08.1989) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1989* (S.I. No. 221 of 1989).
+>
+> E167: Power pursuant to section exercised (8.11.1984) by *Wildlife (Wild Birds) (Open Season) (Amendment) Order 1984* (S.I. No. 283 of 1984).
+>
+> E168: Power pursuant to section exercised (12.08.1982) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1982* (S.I. No. 266 of 1982).
+>
+> E169: Power pursuant to section exercised (18.07.1980) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1980* (S.I. No. 229 of 1980).
+>
+> E170: Power pursuant to section exercised (30.05.1979) by *Wildlife (Wild Birds) (Open Seasons) Order 1979* (S.I. No. 192 of 1979).
+>
+> E171: Previous affecting provision: power pursuant to section exercised (for periods in 1978 and 1979) by *Wild Birds (Open Seasons) Order 1978* (S.I. No. 201 of 1978).; spent.
+>
+> E172: Previous affecting provision: power pursuant to section exercised (31.07.1997) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1997* (S.I. No. 363 of 1997); superseded (9.09.1998) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1998* (S.I. No. 332 of 1998), art. 4.
+>
+> E173: Previous affecting provision: power pursuant to section exercised (16.07.1996) by *Wildlife (Wild Mammals) (Open Seasons) (Amendment) Order 1996* (S.I. No. 220 of 1996); rendered obsolete by revocation of *Wildlife (Wild Mammals) (Open Seasons) Order 1979* (S.I. No. 193 of 1992) () by *Wildlife (Wild Mammals) (Open Seasons) Order 1998* (S.I. No. 331 of 1998), art. 4.
+>
+> E174: Previous affecting provision; power pursuant to section exercised (16.07.1996) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1996* (S.I. No. 219 of 1996); superseded (31.07.1997) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1997* (S.I. No. 363 of 1997), art. 3.
+>
+> E175: Previous affecting provision: power pursuant to section exercised (22.11.1995) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) (No. 2) Order 1995* (S.I. No. 304 of 1995); superseded (31.07.1997) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1997* (S.I. No. 363 of 1997), art. 3.
+>
+> E176: Previous affecting provision: power pursuant to section exercised (15.09.1995) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1995* (S.I. No. 249 of 1995); superseded (31.07.1997) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1997* (S.I. No. 363 of 1997), art. 3.
+>
+> E177: Previous affecting provision: power pursuant to section exercised (for period 1.11.1993 to 30.11.1993) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1993* (S.I. No. 255 of 1993); spent.
+>
+> E178: Previous affecting provision: power pursuant to section exercised (for period 1.11.1992 to 30.11.1992) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1992* (S.I. No. 233 of 1992); spent.
+>
+> E179: Previous affecting provision: power pursuant to section exercised (for period 1.11.1991 to 30.11.1991) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1991* (S.I. No. 268 of 1991); spent.
+>
+> E180: Previous affecting provision: power pursuant to section exercised (10.09.1986) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1986* (S.I. No. 307 of 1986); superseded (31.07.1997) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1997* (S.I. No. 363 of 1997), art. 3.
+>
+> E181: Previous affecting provision: power pursuant to section exercised (for period 16.11.1985 to 4.01.1986) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) (No. 2) Order 1985* (S.I. No. 347 of 1985); spent.
+>
+> E182: Previous affecting provision: power pursuant to section exercised (29.10.1985) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1985* (S.I. No. 346 of 1985); superseded (10.09.1986) by *Wildlife (Wild Birds) (Open Seasons) (Amendment) Order 1986* (S.I. No. 307 of 1986), art. 3.
+>
+> E183: Previous affecting provision: power pursuant to section exercised (for periods in 1977 and 1978) by *Wild Birds (Open Seasons) Order 1977* (S.I. No. 243 of 1977); spent.
+
+#### 25. Open seasons for certain wild mammals.
+
+**25.**—(1) Subject to *sections 27* and *28* of this Act, the Minister may by order provide that any wild mammal (being a protected wild animal) which is of a species specified in the order (in this Act referred to as an exempted wild mammal) may be hunted in a manner so specified either throughout the State or in any part thereof specified in the order, on a day or during a period of days so specified.
+
+(2) An order under this section may contain different provisions in relation to different areas and different species of exempted wild mammals, including provisions limiting the total number of any particular species of such mammal which may, during a period of days specified in the order, be killed F73[...] in hunting in accordance with the order either in relation to the area as a whole to which the order applies or to part of such area.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F73: Deleted (31.07.2001) by *Wildlife (Amendment) Act 2000*(38/2000), s. 34, S.I. No. 371 of 2001.
+>
+> **Editorial Notes:**
+>
+> E184: Power pursuant to section exercised (27.02.2024) by *Wildlife (Wild Mammals) (Open Seasons) (Amendment) Order 2024* (S.I. No. 66 of 2024).
+>
+> E185: Previous affecting provision: power pursuant to section exercised (27.08.2008) by *Wildlife (Wild Mammals) (Open Seasons) (Amendment) (No. 2) Order 2008* (S.I. No. 346 of 2008); superseded (27.02.2024) by *Wildlife (Wild Mammals) (Open Seasons) (Amendment) Order 2012* (S.I. No. 66 of 2024), art. 4.
+>
+> E186: Previous affecting provision: power pursuant to section exercised (14.02.2008) by *Wildlife (Wild Mammals) (Open Seasons) (Amendment) Order 2008* (S.I. No. 27 of 2008); superseded (27.08.2008) by *Wildlife (Wild Mammals) (Open Seasons) (Amendment) Order 2008* (S.I. No. 346 of 2008), art. 3.
+>
+> E187: Previous affecting provision: power pursuant to section exercised (9.09.1998) by *Wildlife (Wild Mammals) (Open Seasons) Order 1998* (S.I. No. 331 of 1998); revoked (1.09.2005) by *Wildlife (Wild Mammals) (Open Seasons) Order 2005* (S.I. No. 550 of 2005), art. 5.
+>
+> E188: Previous affecting provision: power pursuant to section exercised (10.09.1986) by *Wildlife (Wild Mammals) (Open Seasons) (Amendment) Order 1986* (S.I. No. 306 of 1986); rendered obsolete by revocation of *Wildlife (Wild Mammals) (Open Seasons) Order 1998* (S.I. No. 331 of 1998) (1.09.2005) by *Wildlife (Wild Mammals) (Open Seasons) Order 2005* (S.I. No. 550 of 2005), art. 5.
+>
+> E189: Previous affecting provision: power pursuant to section exercised (30.05.1979) by *Wildlife (Wild Mammals) (Open Seasons) Order 1979* (S.I. No. 193 of 1979); revoked (9.09.1998) by *Wildlife (Wild Mammals) (Open Seasons) Order 1998* (S.I. No. 331 of 1998), reg. 4.
+>
+> E190: Previous affecting provision: power pursuant to section exercised (for periods in 1978 and 1979) by *Wildlife (Wild Mammals) (Open Seasons) Order 1978* (S.I. No. 202 of 1978); spent.
+>
+> E191: Previous affecting provision: power pursuant to section exercised (for periods in 1977 and 1978) by *Wildlife (Wild Mammals) (Open Seasons) Order 1977* (S.I. No. 240 of 1977); spent.
+
+#### 26. Licences to hunt otters or deer and to hunt or course hares.
+
+**26.**— (1) F74[...]
+
+(2) The Minister may grant to the master or other person having charge for the time being of a pack of beagles or harriers a licence to hunt hares in any district or districts specified in the licence with that pack on such day or days (being a day or days which are not specified in a hares order) as are both specified in the licence and are in the year in which the licence is granted.
+
+(3) The Minister may, on an application made by any coursing club which is affiliated to the Irish Coursing Club, grant to the applicant a licence to hold, on such day or days (being a day or days which are not specified in a hares order) as are both specified in the licence and are in the year in which the licence is granted, regulated coursing matches.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F74: Deleted (10.07.2010) by *Wildlife (Amendment) Act 2010,* (19/2010), s. 2.
+>
+> **Editorial Notes:**
+>
+> E192: Provision made for costs of certain proceedings in relation to a licence granted under section (23.08.2011) by *Environment (Miscellaneous Provisions) Act 2011* (20/2011), ss. 3-7, S.I. No. 433 of 2011.
+>
+> E193: Previous affecting provision: subs. (1)(i) deleted (31.07.2001) by *Wildlife (Amendment) Act 2000*(38/2000), s. 35, S.I. No. 371 of 2001; subsection deleted as per F-note above.
+
+#### 27. Temporary suspension of open seasons.
+
+**27.**—(1) Where the Minister is satisfied that because of the severity of weather conditions occurring in the State or elsewhere, or for any other reason (which reason shall be specified in the order), it is desirable, in the interest of conserving fauna, to make an order under this section, he may by order prohibit during such period not exceeding one month as may be specified in the order, either throughout the State or in such area or areas thereof as may be so specified, the hunting of—
+
+(*a*) any protected wild bird which is of a species specified both in an order under *section 24* of this Act and in the order under this subsection, or
+
+(*b*) any exempted wild mammal which is of a species specified in the order under this subsection.
+
+(2) In case before the commencement of an order under this section an order under *section 24* or *section 25* of this Act has been made and has not been revoked, the following provisions shall apply—
+
+(*a*) in case immediately before such commencement the order under the said *section 24* or *25*, as the case may be, was in force, it shall not have effect in relation to any protected wild bird or exempted wild mammal specified in the order under this section at any time during the period so specified, and
+
+(*b*) in case immediately before such commencement the order under the said *section 24* or *25*, as the case may be, had not come into force, then, notwithstanding anything contained in the order, unless the order under this section is sooner revoked, as regards any such protected wild bird or exempted wild mammal, the order under the said *section 24* or *25*, as the case may be, shall not come into force until the expiration of the period specified in the order under this section.
+
+(3) The Minister may by order extend the period specified in an order under *subsection (1)* of this section; provided that the period during which a prohibition under this section is to remain in force shall in no case exceed two months.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E194: Previous affecting provision: power pursuant to section exercised (for period 8.12.2010 to 30.12.2010) by *Wildlife Act 1976 (Temporary Suspension of Open Season) (No. 2) (Amendment) Order 2010* (S.I. No. 613 of 2010); spent.
+>
+> E195: Previous affecting provision: power pursuant to section exercised (for period 8.12.2010 to 21.12.2010) by *Wildlife Act 1976 (Temporary Suspension of Open Season) (No. 2) (Amendment) Order 2010* (S.I. No. 598 of 2010); expired and superseded (21.12.2010) by *Wildlife Act 1976 (Temporary Suspension of Open Season) (No. 2) (Amendment) Order 2010* (S.I. No. 613 of 2010), art. 2.
+>
+> E196: Previous affecting provision: power pursuant to section exercised (for period 8.12.2010 to 14.12.2010) by *Wildlife Act 1976 (Temporary Suspension of Open Season) (No. 2) Order 2010* (S.I. No. 582 of 2010); expired and superseded (14.12.2010) by *Wildlife Act 1976 (Temporary Suspension of Open Season) (No. 2) (Amendment) Order 2010* (S.I. No. 598 of 2010), art. 3.
+>
+> E197: Previous affecting provision: power pursuant to section exercised (for period 15.01.2010 to 20.01.2010) by *Wildlife Act 1976 (Temporary Suspension of Open Season) (Amendment) Order 2010* (S.I. No. 6 of 2010); spent.
+>
+> E198: Previous affecting provision: power pursuant to section exercised (for period 6.01.2010 to 15.01.2010) by *Wildlife Act 1976 (Temporary Suspension of Open Season) Order 2010* (S.I. No. 2 of 2010); amended (15.01.2010) by *Wildlife Act 1976 (Temporary Suspension of Open Season) (Amendment) Order 2010* (S.I. No. 6 of 2010), art. 2; expired.
+>
+> E199: Previous affecting provision: power pursuant to section exercised ( for period 18.01.1985 to 31.01.1985) by *Wildlife Act, 1976 (Section 27) Order 1985* (S.I. No. 11 of 1985); spent.
+>
+> E200: Previous affecting provision: power pursuant to section exercised (for period 23.01.1982 to 31.01.1982) by *Wildlife Act, 1976 (Section 27) (No. 2) Order 1982* (S.I. No. 15 of 1982); spent.
+>
+> E201: Previous affecting provision: power pursuant to section exercised (for period 13.01.1982 to 22.01.1982) by *Wildlife Act, 1976 (Section 27) Order 1982.* (S.I. No. 3 of 1982); spent.
+
+### Chapter IVRestrictions to protect wildlife — Chapter IV — Restrictions to protect wildlife
+
+#### 28. General restriction as regards hunting or killing with firearms certain exempted wild mammals and certain protected wild birds.
+
+**28.**—(1) A person shall not with firearms hunt or kill on any land an exempted wild mammal or a protected wild bird of a species specified in an order under *section 24* of this Act which is for the time being in force unless—
+
+(*a*) the exempted wild mammal or the protected wild bird is hunted or killed pursuant to and in accordance with a licence granted under this Act, or deemed to have been granted under *section 29* of this Act, and
+
+(*b*) the person is in relation to the land a qualified person for the purposes of this section.
+
+(2) A person shall in relation to land be qualified for the purposes of this section if he is at least sixteen years of age and—
+
+(*a*) is entitled to sporting rights over the land, or
+
+(*b*) is the guest, invitee, servant or agent, or possesses the written authority of a person who is entitled to sporting rights over the land, or
+
+(*c*) is a member of a body of persons which is entitled to sporting rights over the land or which has such authority, or
+
+(*d*) is a person who is of a class or description which the Minister by regulations declares to be a qualified class or description for the purposes of this section.
+
+F75[(2A) (*a*) An applicant for—
+
+(i) the grant of a licence under *section 29* of this Act, or
+
+(ii) the grant or renewal of a certificate to which *section 29(5)* of this Act relates,
+
+may, before the granting of any such licence or the granting or renewal of any such certificate, be required to supply satisfactory evidence that the applicant is a competent person to hold such a licence.
+
+(*b*) The evidence required under *paragraph (a)* of this subsection shall include the ability to identify certain species of fauna and to have a satisfactory knowledge of the relevant provisions of the *Wildlife Acts, 1976 and 2000*, and of any instruments made under those Acts.
+
+(*c*) The Minister may make regulations for the purpose of giving effect to this subsection.]
+
+(3) A person who contravenes *subsection (1)* of this section shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F75: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000*, (38/2000), s. 37, S.I. No. 371 of 2001.
+
+#### 29. Licences to hunt with firearms.
+
+F77[**29.**—(1) Subject to *section 75(1)* of this Act, the Minister may, on application to the Minister in that behalf, if he or she thinks fit, and on payment of the prescribed fee (if any), grant to a person, who when making the application makes a declaration in a form approved of for the purposes of this section by the Minister, a licence (operating in the manner specified in *subsection (4)* of this section) to hunt and kill with firearms, subject to the restrictions contained in *section 33* of this Act, and such conditions (if any) as the Minister may attach to the licence, exempted wild mammals (other than hares).
+
+(2) In determining an application for a licence under *subsection (1)* or *subsection (5)(b)* of this section or a renewal under *subsection (6)* of this section, the Minister shall have regard to the conservation requirements of the species of protected wild birds or exempted wild mammals concerned.
+
+(3) (*a*) Notwithstanding *subsection (2)* of this section, and subject to this subsection, the Minister, before granting a licence under *subsection (1)* or *subsection (5)(b)* or renewing a licence under *subsection (6)*, shall be of the opinion that the application is *bona fide* and that there is no good reason to refuse to grant the licence or renew it.
+
+(*b*) The Minister may, for the purpose of establishing that there is no good reason to refuse to grant or renew a licence under this section to a person ordinarily resident outside the State, treat any of the following as *prima facie* evidence of suitability to so grant or renew:
+
+(i) in the case of a person resident in a Member State of the European Community other than the State, any European Firearms Pass duly issued to such person to which F76[paragraphs (4) and (5) of Regulation 19 of the European Union (Acquisition and Possession of Weapons and Ammunition) Regulations 2022] relate, or
+
+(ii) in any other case, any other permit, licence, authorisation or other document duly issued by an appropriate authority or body outside the State which the Minister considers acceptable.
+
+(*c*) The Minister may make such enquiries as he or she considers appropriate as to the suitability of any applicant for a licence under this section.
+
+(4) A licence granted or renewed by the Minister under this section shall remain in force for a period beginning on the day on which the licence is granted or renewed and ending on the next following 31st day of July and subject to its terms the licence shall operate to authorise the holder of the licence, for so long as the licence is in force, to hunt and kill with firearms any fauna to which the licence relates pursuant to and in accordance with such orders (if any) made under *section 24* or *25* of this Act as are for the time being in force.
+
+(5) (*a*) F78[Subject to *subsection (5A)*, where] a person applies to a Superintendent of the Garda Síochána for the grant of a firearm certificate under *section 3 of the Firearms Act, 1925*, or for the grant of a firearm certificate under *section 2* of the *Firearms (Firearm Certificates for Non-Residents) Act, 2000*, or for the renewal under *section 9* of the *Firearms Act, 1964*, of a firearm certificate granted under the said section 3 and makes a declaration referred to in *subsection (1)* of this section, the certificate shall, if it is endorsed in the manner described in *subsection (8)* of this section, for the purposes of *sections 22(4)* and *23(5)* of this Act be deemed to be a licence granted by the Minister under this section and, subject to *section 75(1)* and to the restrictions contained in *section 33* of this Act, such certificate shall, for so long as it is in force, operate to authorise the person to whom it is granted, with the firearm to which the certificate relates—
+
+(i) to hunt and kill pursuant to any order under *section 24* of this Act which for the time being is in force any protected wild bird,
+
+(ii) to hunt and kill pursuant to and in accordance with any order under *section 25* of this Act which is so in force, any hare.
+
+(*b*) Notwithstanding the provisions of *paragraph (a)* of this subsection, the Minister may, on application to him or her in that behalf, subject to *section 75(1)* of this Act, during the period referred to in subsection (2)(a)(i) of section 2 of the Firearms (Firearm Certificates for Non-Residents) Act, 2000, or that period as varied under that section, if the Minister thinks fit, grant to a person ordinarily resident outside the State, who when making the application makes a declaration referred to in *subsection (1)* of this section, a licence (operating in the manner specified in *subsection (4)* of this section) to hunt and kill with firearms, subject to the restrictions contained in *section 33* of this Act, and such conditions (if any) as the Minister may attach to the licence, protected wild birds or hares to which an order under *section 24* or *section 25* of this Act for the time being applies.
+
+(*c*) Paragraph (*b*) of this subsection shall expire at the end of the period referred to in subsection (2)(a)(i) of section 2 of the Firearms (Firearm Certificates for Non-Residents) Act, 2000, or that period as varied under that section.
+
+F79[(5A) (*a*) A firearm certificate to which this subsection applies shall for the purposes of *sections 22(4)* and *23(5)* of this Act be deemed to be a licence granted by the Minister under this section and, subject to *section 75(1)* and to the restrictions contained in *section 33* of this Act, such certificate shall, for so long as it is in force, operate to authorise the person to whom it is granted, with the firearm to which the certificate relates, to engage in the activities referred to in *subparagraphs (i)* and *(ii)* of *subsection (5)(a)*.
+
+(*b*) This subsection applies to a firearm certificate that is granted—
+
+(i) in respect of a shot-gun, and
+
+(ii) on or after 1 August 2009 F80[...].]
+
+(6) A licence granted by the Minister under this section (other than a licence deemed pursuant to *subsection (5)(a)* of this section to have been so granted) may, if the Minister thinks fit, be renewed by the Minister on the application of the holder of the licence who when making the application makes a declaration referred to in *subsection (1)* of this section.
+
+(7) A person aggrieved by a refusal by the Minister to grant a licence under *subsection (1)* or *subsection (5)(b)* of this section or to renew a licence under *subsection (6)* of this section may appeal to a Judge of the District Court against the refusal, and in determining the appeal the Judge may—
+
+(*a*) confirm the refusal, or
+
+(*b*) allow the appeal, inform the Minister of his or her decision and direct the Minister as soon as may be to grant to the applicant or renew, as may be appropriate, a licence under this section.
+
+(8) Where a firearm certificate is granted to a person described in *subsection (5)(a)* of this section, there shall be endorsed on the certificate the following:
+
+"This certificate, for so long as it is in force, authorises the person to whom it is granted, with the firearm to which it relates—
+
+(*a*) to hunt and kill pursuant to any order under *section 24 of the Wildlife Act, 1976*, which is for the time being in force any protected wild bird within the meaning of that Act,
+
+(*b*) to hunt and kill pursuant to and in accordance with any order under *section 25* of the said Act which is so in force, any hare.".
+
+(9) Where any convention, protocol or other agreement between the State and any other country or territory provides for the reciprocal recognition of licences granted or deemed to have been granted under this section and other licences, permits, permissions or authorisations granted or issued in that country or territory, the Minister may by regulations declare and provide that any such other licence, permit, permission or authorisation which is for the time being in force shall be deemed to be, and shall have the same legal effect as a licence under this section.
+
+(10) (*a*) The holder of a licence granted or renewed under this section or a firearm certificate endorsed in the manner described in *subsection (8)* of this section shall, if the Minister so requires either by a notice in writing sent to the holder or by a notice published for the purposes of this subsection in at least one daily newspaper published in the State, give to the Minister the following information, namely, a statement of the number and species of protected wild birds and the number and species of protected wild animals shot and taken by the holder during such period as the Minister specifies in the notice and either, as may be so specified, in any place in the State or in any place in a part of the State which is so specified.
+
+(*b*) The Minister may by regulations require the holder of a licence granted or renewed under this section or of a firearm certificate endorsed in the manner described in *subsection (8)* of this section to tag or otherwise mark, in a manner and at a time specified, any animal or bird captured or killed under such a licence or certificate.
+
+(11) A person who fails to comply with a requirement of the Minister under *subsection (10)* of this section shall be guilty of an offence.
+
+(12) Nothing in this section shall be construed as affecting anything contained in the Firearms Acts, 1925 to 2000.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F76: Substitued (27.04.2022) *European Union (Acquisition and Possession of Weapons and Ammunition) Regulations 2022* (S.I. No. 209 of 2022), reg. 35(a).
+>
+> F77: Substituted (14.07.2000) *Firearms (Firearms Certificates for Non-Residents) Act 2000* (20/2000), s. 4, commenced as per s. 8(3).
+>
+> F78: Substituted (10.07.2010) by *Wildlife (Amendment) Act 2010* (19/2010), s. 4(a), commenced on enactment.
+>
+> F79: Inserted (10.07.2010) by *Wildlife (Amendment) Act 2010* (19/2010), s. 4(b), commenced on enactment.
+>
+> F80: Deleted (24.07.2012) by *Wildlife (Amendment) Act 2012* (29/2012), s. 1, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E202: Provision made for costs of certain proceedings in relation to a licence granted under section (23.08.2011) by *Environment (Miscellaneous Provisions) Act 2011* (20/2011), ss. 3-7, S.I. No. 433 of 2011.
+>
+> E203: Previous affecting provision: application of section restricted (13.07.1998) by *Firearms (Temporary Provisions) Act 1998* (32/1998), s. 2, commenced on enactment subject to transitional provision in s. 3; expired (14.07.2000) as per s. 4(4), (5) and *Firearms (Temporary Provisions) Act, 1998, Continuance Order 1999* (S.I. No. 189 of 1999), art. 2.
+
+#### 30. Hunting restricted on or over foreshore belonging to State and certain land so belonging.
+
+F81[**30.**—(1) (*a*) A person shall not, without permission given in writing by the Minister, hunt protected wild animals and wild birds on or over foreshore belonging to the State or on or over land belonging to the State and which is either covered by any inland waters or comprised in the lakeshore accretion from any lake, or accretion from the sea where such land is owned by the State.
+
+(*b*) The Minister may by regulations—
+
+(i) in relation to wild birds—
+
+(I) apply this section, either generally or by reference to one or more species, to wild birds, or
+
+(II) apply this section generally to species of wild birds subject to the exclusion of one or more such species,
+
+and
+
+(ii) in relation to wild animals—
+
+(I) apply this section, either generally or by reference to one or more species, to wild animals which are not protected wild animals, or
+
+(II) apply this section generally to species of wild animals which are not protected wild animals, subject to the exclusion of one or more such species.
+
+(*c*) The Minister may attach conditions in writing to any permission given under this subsection and may at any time vary such conditions or withdraw any such permission.
+
+(2) In determining an application for permission under this section, the Minister shall have regard to the conservation requirements of the species concerned.
+
+(3) Any person who contravenes *subsection (1)* of this section or fails to comply with a condition under that subsection shall be guilty of an offence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F81: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 38, S.I. No. 371 of 2001.
+
+#### 31. Sale, purchase and possession of certain perching birds prohibited.
+
+**31.**—(1) It shall be an offence for any person to sell, purchase or have in his possession a live perching bird to which this section applies other than a close-ringed specimen bred in captivity F82[; but nothing in this subsection shall make unlawful the possession consequent upon the capture of any such bird pursuant to and in accordance with a licence or permission granted under this Act ].
+
+(2) This section applies to any live perching bird (order *Passeriformes*) of a species which occurs in a wild state in the State, Northern Ireland, Great Britain, the Channel Islands or the Isle of Man and which is not a species specified in the Third Schedule to this Act.
+
+(3) In any proceedings for an offence under this section it shall be a defence for the defendant to prove that—
+
+(*a*) he lawfully acquired the relevant perching bird before the commencement of this section, or
+
+(*b*) he lawfully acquired such bird from a person who so acquired it before such commencement.
+
+(4) In this section “close-ringed specimen” means a specimen of live perching bird (order *Passeriformes*) fitted with a continuous metal band or ring which has been slipped over its foot and on to its leg F83[not later than 10 days after it has been hatched.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F82: Inserted (31.07.2000) by *Wildlife (Amendment) Act 2000* (38/2000), s. 39(a), S.I. No. 371 of 2001.
+>
+> F83: Substituted (31.07.2000) by *Wildlife (Amendment) Act 2000* (38/2000), s. 39(b), S.I. No. 371 of 2001.
+
+#### 32. Ringing and marking, and possession of cannon-nets, etc. restricted.
+
+**32.**—F84[(1) It shall be an offence for a person, otherwise than pursuant to and in accordance with a licence granted by the Minister for the purposes of this subsection, to—
+
+(*a*) mark by cutting, branding or tattooing, or
+
+(*b*) attach any band, ring, microchip, tag or other marking device to,
+
+any wild animal or wild bird or to take by net, trap or by any other means any such animal or bird for the purposes of so marking it or attaching to it any band, ring, microchip, tag or other marking device.
+
+(1A) Subject to *subsection (4)* of *section 31* of this Act, the Minister may by regulations specify the method of marking, including the type and size of any band, ring, microchip, tag or other marking device or substance, for the purposes of either or both the said *section 31* and of this section and different methods may be specified for different species.
+
+(2) *Subsection (1)* of this section shall not apply to—
+
+(*a*) the close ringing of artificially reared wild birds,
+
+(*b*) captive bred birds prescribed in an open seasons order,
+
+(*c*) captive bred waterfowl collections, or
+
+(*d*) the clipping of the feathers of an artificially reared protected wild bird for purposes of the confinement prior to the release into the wild of such protected wild bird.]
+
+(3) It shall be an offence for a person to import F85[into the State from outside the European Union] or have in his possession a cannon-net, mist-net, rocket-net or similar appliance for taking or trapping unless he is the holder of a licence granted by the Minister for the purposes of *subsection (1)* of this section.
+
+F86[(3A) The granting of a licence under *subsection (3)* of this section shall not be construed as restricting any application of, or removing any obligation to comply with, the Firearms Acts, 1925 to 2000.]
+
+(4) A licence granted for the purposes of *subsection (1)* of this section may, as the Minister thinks fit, apply to wild animals and wild birds (other than artificially-reared wild birds) generally or to such species of such animals and birds as are specified in the licence.
+
+(5) A licence granted for the purposes of *subsection (1)* of this section may be expressed, and if so expressed shall operate, to authorise the doing of, within an area or areas specified in the licence, and only within such area or areas, the things permitted to be done by the licence.
+
+(6) A person shall not be convicted under this section and under *section 22*, *23* or *34* of this Act in respect of the same act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F84: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000*(38/2000), s. 40(a), S.I. No. 371 of 2001.
+>
+> F85: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000*(38/2000), s. 40(b), S.I. No. 371 of 2001.
+>
+> F86: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000*(38/2000), s. 40(c), S.I. No. 371 of 2001.
+
+#### 33. Restriction on use of certain firearms etc.
+
+**33.**—(1) It shall be an offence for a person to F87[hunt or injure in the course of hunting]—
+
+(*a*) with a repeating or automatic shotgun (other than a repeating or automatic shotgun which is adapted or modified so as to render it incapable of carrying more than three shotgun cartridges), with an airgun, air-rifle, gas-rifle, pistol or revolver, or with any firearm fitted with a silencer device, any wild bird,
+
+(*b*) with a rifle, any protected wild bird.
+
+(2) It shall be an offence for a person to F88[hunt] or injure any wild bird or wild F88[animal] with a spring gun, or with tracer shot or with F88[any explosive other than ammunition for, and used with, a firearm].
+
+(3) It shall be an offence for a person to F89[hunt or injure in the course of hunting] with a shotgun a protected wild animal other than a hare F90[otherwise than under and in accordance with a licence granted in that behalf by the Minister.]
+
+(4) Subject to the foregoing subsections of this section, the Minister may make regulations specifying the type and calibre of firearms and ammunition which may be used to hunt wild birds and wild F91[animals] and providing that firearms and ammunition of any other type and calibre shall not be used to hunt such birds or F91[animals].
+
+(5) In this section “rifle” includes both a gas-rifle and an air-rifle.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F87: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 41(a), S.I. No. 371 of 2001.
+>
+> F88: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000) s. 41(b), S.I. No. 371 of 2001.
+>
+> F89: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 41(c), S.I. No. 371 of 2001.
+>
+> F90: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 41(c), S.I. No. 371 of 2001.
+>
+> F91: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 41(d), S.I. No. 371 of 2001.
+>
+> **Editorial Notes:**
+>
+> E204: Power pursuant to subs. (4) exercised (21.07.1977) by *Wildlife Act, 1976 (Firearms and Ammunition) Regulations 1977* (S.I. No. 239 of 1977).
+
+#### 34. Certain use of traps, snares etc. prohibited.
+
+**34.**—(1) Notwithstanding anything contained in this Act apart from this section but subject to *section 42*, a person shall not—
+
+F92[(*a*) hunt any wild bird, wild mammal or protected wild animal by means of a trap, snare, net, line, hook, arrow, dart, spear or similar device however propelled, instrument or missile, or birdlime or any substance of a like nature, or any poisonous, poisoned or stupefying bait, any gas or smoke or chemical wetting agent or any electrical device which is calculated or likely to cause death, unconsciousness or bodily injury to such bird, mammal or animal, or
+
+(*b*) affix, place or set—
+
+(i) any trap, snare or net for killing or taking a wild bird, wild mammal or protected wild animal, or
+
+(ii) any line, hook, electrical device or other device or instrument, calculated or likely to cause death or bodily injury to any wild bird, wild mammal or protected wild animal coming in contact with it,
+
+on any tree, pole, cairn or other structure in, or in the vicinity of, any place frequented by wild birds, wild mammals or protected wild animals, or
+
+(*c*) lay any poisonous or poisoned substance or stupefying bait, or any gas or smoke or chemical wetting agent, being a substance, bait or agent which is calculated or is likely to cause injury, or facilitate the capture of, a wild bird, wild mammal or protected wild animal, in or in the vicinity of, any place mentioned in *paragraph (b)* of this subsection, or on any tree, pole, cairn or other structure in or in the vicinity of such place.]
+
+(2) *Subsection (1)* of this section shall not apply to or render unlawful—
+
+(*a*) the affixing, placing or setting of a trap, snare or net which for the time being stands approved for the purposes of this section by virtue of regulations under this section,
+
+(*b*) the taking or killing by means of any such trap, snare or net of any wild bird which is not a protected wild bird or any F93[wild animal] which is not a protected wild animal,
+
+and nothing in the said *subsection (1)* shall make unlawful anything which is duly done pursuant to a statute (other than this Act) or statutory instrument, which is permitted to be done under such a statute or instrument or which is done pursuant to and in accordance with a licence or other permission granted or issued pursuant to such a statute or instrument or anything caused by or which results from, or is consequent upon or the effect of any other act or thing which is lawfully done.
+
+(3) *Subsection (1)* of this section shall not apply to any of the following if done pursuant to and in accordance with a licence granted in that behalf by the Minister:
+
+(*a*) the capture alive, on land specified in the licence by means of a trap, snare or net of any species of wild bird F94[or wild animal] specified in the licence, for the purpose of propagating or of improving the quality of such species,
+
+(*b*) the capture alive by means of nets of hares by or on behalf, or at the request, of a coursing club affiliated to the Irish Coursing Club,
+
+(*c*) the capture alive by means of nets or other devices of hawks or falcons for the purpose of lawful falconry within the State,
+
+F95[(*cc*) the capture or killing of any wild bird or any wild animal in or on, or the removal of any such bird or animal from, any premises or other land by means of any poisoned, poisonous or stupefying substance specified in the licence, or any gas or smoke or chemical wetting agent or other devices so specified, for the purpose of stopping or preventing serious damage being caused to any thing to which *section 42(1)* of this Act relates,]
+
+F96[(*d*) the capture alive of, or the taking of dead, wild birds or wild animals, for research or other scientific or educational purposes or for removal of live wild birds or wild animals to a new habitat, or to a place specified in the licence.]
+
+(4) The Minister may by regulations declare a trap, snare or net which is of a particular type, class or description specified in the regulations—
+
+(*a*) to be approved of for the purposes of this section and may, if he thinks fit, regulate its use as regards wild birds or wild F97[animals.]
+
+(*b*) to be a trap, snare or net to which *subsection (6)* of this section applies.
+
+F98[(4A) In relation to wild animals to which this section does not otherwise apply, the Minister may by regulations—
+
+(*a*) apply this section to such wild animals, either generally or by reference to one or more species, or
+
+(*b*) apply this section generally to species of such wild animals, subject to the exclusion of one or more such species.]
+
+(5) Any person who contravenes *subsection (1)* of this section shall be guilty of an offence.
+
+F99[(6) Any person who imports into the State from outside the European Union, or has in his possession other than pursuant to and in accordance with a licence granted by the Minister in that behalf, or who in the course of his trade or business sells or offers for sale a trap, snare or net which pursuant to *subsection (4)* of this section is for the time being declared by the Minister to be a trap, snare or net to which this subsection applies shall be guilty of an offence.]
+
+(7) A person shall not be convicted under this section and under *section 22* or *section 23* of this Act or section 8 of the Protection of Animals Act, 1911, in respect of the same act.
+
+F100[(8) The other provisions of this section are without prejudice to sections 7 and 14 of the Protection of Animals (Amendment) Act, 1965.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F92: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 42(a), S.I. No. 371 of 2001.
+>
+> F93: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000,* (38/2000), s. 42(b), S.I. No. 371 of 2001.
+>
+> F94: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 42(c)(i), S.I. No. 371 of 2001.
+>
+> F95: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 42(c)(ii), S.I. No. 371 of 2001.
+>
+> F96: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 42(c)(iii), S.I. No. 371 of 2001.
+>
+> F97: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 42(d), S.I. No. 371 of 2001.
+>
+> F98: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 42(e), S.I. No. 371 of 2001.
+>
+> F99: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 42(f), S.I. No. 371 of 2001.
+>
+> F100: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 42(g), S.I. No. 371 of 2001.
+>
+> **Editorial Notes:**
+>
+> E205: Power pursuant to subs. (4) exercised (19.11.2003) by *Wildlife Act 1976 (Approved Traps, Snares and Nets) Regulations 2003* (S.I. No. 620 of 2003).
+>
+> E206: Previous affecting provision: power pursuant to subs. (4) exercised (23.09.1977) by *Wildlife Act, 1976 (Approved Traps, Snares and Nets) Regulations 1977* (S.I. No. 307 of 1977); revoked (19.11.2003) by *Wildlife Act 1976 (Approved Traps, Snares and Nets) Regulations 2003* (S.I. No. 620 of 2003), reg. 5.
+
+#### 35. Certain use of scarecrows, decoys birdcalls and calls of wild mammals restricted.
+
+**35.**—(1) Notwithstanding anything contained in this Act apart from this section, but subject to *section 42*, a person shall not—
+
+F101[(*a*) use, for the purpose of hunting, repelling or scaring any wild bird or any wild animal—
+
+(i) any live wild bird or live wild animal which is tethered or secured by braces or other similar appliance or which is confined in a cage or pen or which is blind, maimed or injured, or
+
+(ii) any kite, light trap, balloon, aircraft (including model aircraft) or similar device,
+
+or
+
+(*b*) use, as a decoy for the purpose of hunting any wild bird or any wild animal, any live wild animal or live bird, or,]
+
+(*c*) use a stuffed or artificial decoy in the form of any bird for the purpose of hunting any protected wild birds, other than F102[wood pigeons,] wild duck and wild geese, or
+
+F103[(*d*) use an electrical or other instrument or appliance (including recording apparatus) emitting sound, for the purpose of hunting any wild bird or any wild animal.]
+
+(2) *Subsection (1)* of this section shall not apply to the use of a whistle or similar instrument or appliance imitating, or emitting calls similar to, the calls of plover, wild duck or wild geese, which is operated (whether wholly or partly) manually or orally, for the purpose of hunting any of those wild birds.
+
+(3) Notwithstanding the foregoing provisions of this section, the Minister may by order prohibit throughout the State or in any particular area thereof—
+
+F104[(*a*) the use for hunting, repelling or scaring any wild bird or any wild animal of a species specified in the order of any stuffed or artificial decoy or any device, whistle, instrument or appliance which is of a particular type, class or description specified in the order, or,]
+
+(*b*) the use of any orally or manually operated whistle or other instrument or appliance (not being recording apparatus) which imitates, or emits calls similar to, the calls of F105[plover,] wild duck or wild geese or emits recorded such calls.
+
+F106[(4) Notwithstanding the foregoing provisions of this section, a decoy, vehicle or an instrument or appliance, including electrical or other recording apparatus emitting sound for the purpose of repelling, scaring or capturing any wild bird or any wild animal, may be used, pursuant to and in accordance with a licence granted in that behalf by the Minister, for scientific research or for another purpose approved of by the Minister.]
+
+F107[(4A) Nothing in this section shall be construed as restricting—
+
+(*a*) the practice of falconry lawfully carried out in accordance with a licence or licences granted in accordance with *section 41* of this Act, or
+
+(*b*) the taking, killing or use of a wild animal, which is not a protected wild animal, for the purpose of, or while engaged in the practice of fishing.]
+
+(5) The Minister may grant to a person a licence to use as a decoy a live wild bird which is of a species specified in the *Third Schedule* to this Act and which is confined in a cage or pen and every licence granted pursuant to this subsection shall have attached thereto the following conditions, namely—
+
+(*a*) the bird shall be so used only for hunting birds of the same species, and
+
+(*b*) the bird while being so used shall be regularly provided by the holder of the licence, or by someone on his behalf, with ample food and water and shall, when caged, only be kept in a cage which is of sufficient dimensions to enable it to move and exercise freely.
+
+(6) A person who—
+
+(*a*) otherwise than pursuant to and in accordance with a licence granted by the Minister under *subsection (4)* or *(5)* of this section does anything prohibited by *subsection (1)* of this section,
+
+(*b*) contravenes an order made by the Minister under this section,
+
+shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F101: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 43(a)(i), S.I. No. 371 of 2001.
+>
+> F102: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 43(a)(ii), S.I. No. 371 of 2001.
+>
+> F103: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 43(a)(iii), S.I. No. 371 of 2001.
+>
+> F104: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 43(b)(i), S.I. No. 371 of 2001.
+>
+> F105: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 43(b)(ii), S.I. No. 371 of 2001.
+>
+> F106: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 43(c)
+>
+> F107: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 43(c), S.I. No. 371 of 2001.
+
+#### 36. Use of mechanically-propelled vehicles, vessels and aircraft in hunting prohibited.
+
+**36.**—(1) Notwithstanding anything contained in this Act apart from this section F108[...], a person shall not hunt or disturb for the purpose of hunting—
+
+(*a*) any F109[wild animal] by means of a mechanically-propelled vehicle, vessel or aircraft, whether it is being so propelled or is stationary,
+
+(*b*) any F110[wild bird] by means of such a vehicle, vessel or aircraft while it is being so propelled.
+
+(2) Notwithstanding *subsection (1)* of this section, a mechanically-propelled vehicle, vessel or aircraft may be used to capture or kill, pursuant to and in accordance with a licence granted in that behalf by the Minister and for such educational, scientific or other purposes as are specified in the licence, F111[wild birds or wild animals] of a species so specified.
+
+(3) *Subsection (1)* of this section shall not make unlawful anything which section 3 (3) of the Whale Fisheries Act, 1937, permits to be done.
+
+(4) Subject to *subsections (2)* and *(3)* of this section, a person who contravenes subsection (1) of this section shall be guilty of an offence.
+
+F112[(5) In this section, "mechanically-propelled" includes propulsion which is electrical or partly electrical and partly mechanical.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F108: Deleted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 44(a)(i), S.I. No. 371 of 2001.
+>
+> F109: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 44(a)(ii), S.I. No. 371 of 2001.
+>
+> F110: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000,* (38/2000), s. 44(a)(iii), S.I. No. 371 of 2001.
+>
+> F111: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 44(b), S.I. No. 371 of 2001.
+>
+> F112: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 44(c), S.I. No. 371 of 2001.
+
+#### 37. Hunting by night restricted.
+
+**37.**—(1) Notwithstanding anything contained in this Act apart from this section but subject to *section 42*, a person shall not hunt—
+
+(*a*) a woodcock at any time between sunset and sunrise,
+
+(*b*) any other protected wild bird, other than a wild duck or a wild goose, or any protected wild animal at any time during any period beginning one hour after sunset and ending one hour before sunrise.
+
+(2) *Subsection (1)* of this section shall not apply to—
+
+(*a*) hunting protected wild birds pursuant to and in accordance with a licence granted by the Minister under *section 22 (9)* of this Act for a purpose mentioned in *paragraph (a)* or *(d)* of that section, or
+
+(*b*) hunting protected wild animals pursuant to and in accordance with a licence granted by the Minister under *section 23 (6)* of this Act.
+
+(3) A person who contravenes *subsection (1)* of this section shall be guilty of an offence.
+
+#### 38. Use of lamps, mirrors etc. in hunting prohibited.
+
+F113[**38.**—(1) Any person who uses—
+
+(*a*) any lamp, light, torch, mirror or other artificial light-reflecting or dazzling device or appliance, or
+
+(*b*) any device for illuminating, image intensifying or heat seeking a target, or
+
+(*c*) any sighting device for night shooting, or
+
+(*d*) any device or appliance which is of a type, class or description specified in an order under *subsection (2)* of this section,
+
+in hunting any protected wild bird or protected wild animal otherwise than while either—
+
+(i) attaching thereto any band, ring, tag or other marking device, or
+
+(ii) hunting for educational or scientific purposes or for any other purpose,
+
+pursuant to and in accordance with a licence granted under this Act by the Minister, shall be guilty of an offence.
+
+(2) (*a*) The Minister may by order declare a device or appliance which is of a type, class or description specified in the order to be a device or appliance to which *subsection (1)* of this section applies.
+
+(*b*) The Minister may amend or revoke an order made under this subsection.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F113: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 45, S.I. No. 371 of 2001.
+
+#### 39. Burning of vegetation near woods or certain other land restricted.
+
+**39.**—(1) A person shall not burn any vegetation growing within one mile of—
+
+(*a*) a wood which is not the property of such person, or
+
+(*b*) land to which an establishment order, a recognition order, a designation order or an agreement under *section 18* of this Act relates,
+
+unless such person has, not less than seven days or more than thirty-five days before burning such vegetation, given notice of his intention to do so in writing to both the sergeant in charge of a Garda Síochána station in the Garda Síochána district in which the wood or land is situate and to—
+
+(i) in the case of a wood, the occupier of the wood,
+
+(ii) in the case of land to which an establishment order, a recognition order or an agreement under the said *section 18* relates, the Minister together with, in case the Minister is not the owner of the land, the occupier,
+
+(iii) in the case of land to which a designation order relates, the Minister.
+
+(2) Where notice is given under *subsection (1)* of this section, the Minister or any other person to whom the notice is given may within three days after receiving the notice serve a counter-notice on the person by whom such notice was given objecting to the proposed burning on the ground that it is liable to cause damage to the wood or land concerned.
+
+(3) A person shall not—
+
+(*a*) light a fire, or
+
+(*b*) do any other act,
+
+which causes, or is likely to cause, the burning of vegetation which is growing within one mile either of a wood which is not the property of such person or of land mentioned in *paragraph (b)* of *subsection (1)* of this section.
+
+(4) Any person who burns vegetation, lights a fire or does any other act in contravention of this section shall be guilty of an offence.
+
+(5) Where a person—
+
+(*a*) burns any vegetation either in contravention of *subsection (1)* of this section or after giving the notice required by this section and receiving a counter-notice under this section,
+
+(*b*) lights a fire or does any other act in contravention of *subsection (3)* of this section,
+
+any injury occasioned by such burning, lighting or doing to,
+
+(*c*) in case the contravention is a contravention of the said *subsection (1)*, any wood or land in respect of which a notice ought to have been or was served under this section, or
+
+(*d*) in case the contravention is a contravention of the said *subsection (3)*, any wood which is not the property of such person or any land mentioned in *paragraph (b)* of the said *subsection (1)*,
+
+shall be deemed to have been caused by the negligent act of that person, and damages to the extent of that injury shall be recoverable accordingly in any court of competent jurisdiction from that person by the owner of such wood or land, as the case may be.
+
+F114[(6) In this section "wood" includes a forest within the meaning of section 2 of the Forestry Act 2014.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F114: Substituted (24.05.2017) by *Forestry Act 2014* (31/2014), s. 31(2), S.I. No. 189 of 2017.
+>
+> F115: Substituted by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 4(1) and sch. 1 ref. no. 13, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C18: Prospective affecting provision: subs. (1) amended by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 4(1) and sch. 1 ref. no. 13, not commenced as of date of revision.
+>
+> **39.**—(1) A person shall not burn any vegetation growing within one mile of—
+>
+> (*a*) a wood which is not the property of such person, or
+>
+> (*b*) land to which an establishment order, a recognition order, a designation order or an agreement under *section 18* of this Act relates,
+>
+> unless such person has, not less than seven days or more than thirty-five days before burning such vegetation, given notice of his intention to do so in writing to both the sergeant in charge of a Garda Síochána station in the Garda Síochána F115[division] in which the wood or land is situate and to—
+
+#### 40. Destruction of vegetation on uncultivated land restricted.
+
+F116[**40.**—(1) (*a*) It shall be an offence for a person to cut, grub, burn or otherwise destroy, during the period beginning on the 1st day of March and ending on the 31st day of August in any year, any vegetation growing on any land not then cultivated.
+
+(*b*) It shall be an offence for a person to cut, grub, burn or otherwise destroy any vegetation growing in any hedge or ditch during the period mentioned in *paragraph (a)* of this subsection.]
+
+(2) *Subsection (1)* of this section shall not apply in relation to—
+
+(*a*) the destroying, in the ordinary course of agriculture or forestry, of any vegetation growing on or in any hedge or ditch;
+
+(*b*) the cutting or grubbing of isolated bushes or clumps of gorse, furze or whin or the mowing of isolated growths of fern in the ordinary course of agriculture;
+
+F117[(*c*) the cutting, grubbing or destroying of vegetation in the course of any works being duly carried out for reasons of public health or safety by a Minister of the Government or a body established or regulated by or under a statute;
+
+(*cc*) the clearance of vegetation in the course of fisheries development works carried out by the F118[Inland Fisheries Ireland] or a regional fisheries board in the exercise of its functions under the F118[Inland Fisheries Acts 1959 to 2010];]
+
+(*d*) the destroying of any noxious weed to which the Noxious Weeds Act, 1936, applies;
+
+F119[(*e*) the clearance of vegetation in the course of road or other construction works or in the development or preparation of sites on which any building or other structure is intended to be provided;]
+
+(*f*) the removal or destruction of vegetation required by a notice served by the Minister under section 62 (1) of the Act of 1946 to be removed or destroyed;
+
+F120[(*g*) the felling, cutting, lopping, trimming or removal of a tree, shrub, hedge or other vegetation pursuant to section 70 of the Roads Act 1993;]
+
+but this subsection shall not operate to exclude from *subsection (1)* of this section anything done by burning.
+
+F121[(3) The Minister may request from the person concerned details of any works carried out under *subsection (2)(c)* and such details shall be furnished to the Minister by that person together with a statement of the public health or safety factors involved.
+
+(4) In any proceedings taken in respect of a contravention of this section consisting of the doing of any act, it shall be a good defence to prove that the doing of that act was necessary for the purpose of extinguishing or preventing the spread of a fire while it was in progress or for the purpose of saving human life or was necessary in any other emergency in respect of which that act was an appropriate measure.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F116: Substituted (12.03.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 46(a), S.I. No. 71 of 2001.
+>
+> F117: Substituted and inserted (12.03.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 46(b), S.I. No. 71 of 2001.
+>
+> F118: Substituted (1.07.2010) by *Inland Fisheries Act 2010* (10/2010), s. 8 and sch. 2 part 2 item 1, commenced as per s. 5(2) and S.I. No. 262 of 2010. Note formal transfer of functions from Central Board or regional board to IFI by s. 8(1), (2).
+>
+> F119: Substituted (12.03.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 46(c), S.I. No. 71 of 2001.
+>
+> F120: Inserted (18.07.2018) by *Heritage Act 2018* (15/2018), s. 8, commenced on enactment.
+>
+> F121: Inserted (12.03.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 46(d), S.I. No. 71 of 2001.
+>
+> **Modifications (not altering text):**
+>
+> C19: Application of section restricted (18.07.2018 to 18.07.2020 or longer if continued in force) by *Heritage Act 2018* (15/2018), s. 7(1), (2), commenced on enactment.
+>
+> *Destruction or burning of vegetation on uncultivated land*
+>
+> 7\. (1) Notwithstanding section 40 (as amended by the Inland Fisheries Act 2010 ) of the Act of 1976, the Minister may make regulations, in relation to land referred to in that section, to allow the burning of vegetation during such period or periods during the month of March of such year in such part or parts of the State as specified in the regulations, subject to such conditions or restrictions specified in the regulations to ensure the protection of fauna or flora.
+>
+> (2) Notwithstanding section 40 of the Act of 1976, the Minister may make regulations, in relation to land referred to in that section, to allow the cutting of vegetation growing in any hedge or ditch on the roadside during the month of August of such year as is specified in the regulations, subject to such conditions or restrictions specified in the regulations in relation to hedgerow husbandry, management or maintenance to ensure the protection of fauna or flora.
+>
+> (3) A person to whom regulations under this section apply, or acting on behalf of such person, who does anything in contravention of the regulations commits an offence.
+>
+> (4) (*a*) Subject to *paragraph (b)*, this section remains in force until the expiration of 2 years from the date of the passing of this Act and then shall expire.
+>
+> (*b*) This section may be continued in force from time to time by a resolution of each House of the Oireachtas, passed before its expiry, for such further period not to exceed 3 years as is specified in the resolution.
+>
+> (5) In this section “fauna or flora” means fauna and flora protected under Chapter III of Part II of the Act of 1976.
+>
+> C20: Application of section restricted by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), reg. 49(13), as inserted (21.07.2015) by *European Communities (Birds and Natural Habitats) (Amendment) Regulations 2015* (S.I. No. 355 of 2015), art. 12, in effect as per reg. 1(4).
+>
+> *Prohibition on introduction and dispersal of certain species*
+>
+> 49\. ...
+>
+> **[**(13) Where the Minister considers—
+>
+> (*a*) that a species of flora or type of vegetation poses a threat to any of the objectives of the Birds and Habitats Directives, or
+>
+> (*b*) that a population of a species of flora hosts or is likely to host a pathogen, disease, pest or parasite that poses or is likely to pose a threat to that species or to other species of flora and hence to securing compliance with the requirements of the Birds and Habitats Directives, and that the destruction of that population is a practical, appropriate and proportionate measure to reduce that threat,
+>
+> the Minister may, notwithstanding anything contained in *Section 40* of the *Wildlife Act 1976*, grant a licence for the destruction, by such means as the Minister may specify, of vegetation comprising or containing that species at any time including, where he or she considers it warranted, during the period from 1 March to 31 August.**]**
+>
+> C21: Application of section restricted (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), reg. 39(8), in effect as per reg. 1(3).
+>
+> *Threat response plans*
+>
+> 39\. ...
+>
+> (8) Notwithstanding Section 40 of the Principal Act, the Minister may, as part of a threat response plan, authorise the destruction of vegetation on uncultivated land at any time and Section 40(1) of that Act shall not apply in relation to any destruction of vegetation on uncultivated land so authorised.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E207: Previous affecting provision: application of section restricted (18.06.2010) by *European Communities (Birds and Natural Habitats) (Control of Recreational Activities) Regulations 2010* (S.I. No. 293 of 2010), reg. 13(7), in effect as per reg. 1(3); revoked (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011, reg. 73(2), in effect as per reg. 1(3).
+
+### Chapter VMiscellaneous — Chapter V — Miscellaneous
+
+#### 41. Falconry etc.
+
+**41.**—(1) F122[Notwithstanding anything contained in *section 22* or *23* of this Act, the Minister may make regulations]—
+
+(*a*) regulating hunting by means of eagles, hawks, falcons F123[owls, buzzards, kites, vultures, harriers and other birds of the orders *Accipitriformes, Falconiformes* and *Strigiformes*] trained to hawk for sport, or otherwise governing the practice of falconry,
+
+(*b*) regulating the taking of eagles, hawks, falcons F123[owls, buzzards, kites, vultures, harriers and other birds of the orders *Accipitriformes, Falconiformes* and *Strigiformes*] for F124[breeding or] training to hawk for sport,
+
+(*c*) regulating the possession, breeding, training to hawk for sport, display or exhibition of eagles, hawks, falcons F123[owls, buzzards, kites, vultures, harriers and other birds of the orders *Accipitriformes, Falconiformes* and *Strigiformes*]
+
+(*d*) providing that a person shall not, save under and in accordance with a licence granted in that behalf by the Minister—
+
+(i) engage in falconry,
+
+F125[(ii) take, have in his possession or under his control any eagle, hawk, falcon, owl, buzzard, kite, vulture, harrier or other birds of the orders *Accipitriformes, Falconiformes* and *Strigiformes* or the eggs or young of any eagle, hawk, falcon, owl, buzzard, kite, vulture, harrier or other birds of the orders *Accipitriformes, Falconiformes* and *Strigiformes*,
+
+(iii) engage in breeding any eagle, hawk, falcon, owl, buzzard, kite, vulture, harrier or other bird of the orders *Accipitriformes, Falconiformes* and *Strigiformes*,]
+
+(*e*) providing for the payment of prescribed fees by applicants for licences granted by the Minister for the purposes of this section,
+
+(*f*) providing for any matters ancillary or incidental to any of the foregoing.
+
+(2) The Minister may grant licences for the purposes of this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F122: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 47(a), S.I. No. 371 of 2001.
+>
+> F123: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 47(b), S.I. No. 371 of 2001.
+>
+> F124: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 47(c), S.I. No. 371 of 2001.
+>
+> F125: Substituted and Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 47(d), S.I. No. 371 of 2001.
+>
+> **Editorial Notes:**
+>
+> E208: Power pursuant to section exercised (10.01.1984) by *Wildlife Act, 1976 (Birds of Prey) Regulations 1984* (S.I. No. 8 of 1984).
+
+#### 42. Damage by wild birds etc.
+
+**42.**—(1) Where F126[serious] damage is being caused by protected wild birds or by protected wild animals to—
+
+(*a*) F127[food (including human food products and animal feeds)] livestock, poultry or agricultural crops (including vegetables or fruit) either on pasture or on cultivated land,
+
+(*b*) pen-reared wild birds on any land,
+
+(*c*) other fauna,
+
+(*d*) flora,
+
+(*e*) a woodland or a forest plantation, F128[...]
+
+(*f*) a fishery,
+
+F129[(*g*) buildings and other structures and their contents, or
+
+(*h*) aquaculture installations,]
+
+notwithstanding any other provision of this Act, the Minister may cause to be taken by a person authorised by him in that behalf (who is hereby empowered to take) such steps, including entering on any land and the capture or killing of any such wild bird or any such wild animal, as he thinks appropriate to stop the damage.
+
+F130[(1A) Any person who by act or omission impedes or obstructs a person authorised by the Minister in the lawful exercise of a power conferred by *subsection (1)* of this section shall be guilty of an offence.]
+
+(2) Where damage described in *subsection (1)* of this section is being caused, the Minister may, before exercising in relation to the damage the powers conferred on him by *subsection (1)* of this section, require the person who is the owner or is in occupation of the property being damaged to give to him an indemnity indemnifying the Minister, or any person acting on his behalf, against all claims relating to anything done by or on behalf of the Minister by virtue of the said *subsection (1)* in relation to the damage.
+
+(3) Where damage described in *subsection (1)* of this section is being caused, the owner or occupier of the property to which the damage is being caused, or any other person duly authorised by the owner or occupier in that behalf, may apply to the Minister for a permission under this section.
+
+(4) An application to the Minister for a permission under this section shall include particulars of the damage in relation to which the application is made and in case the Minister decides to grant the permission, notwithstanding any other provision of this Act, the permission shall, subject to its terms, operate to enable the owner or occupier, or any other person duly authorised to act on his behalf, to F131[scare,] capture or kill any protected wild bird or any protected wild animal which the owner, occupier or other person reasonably believes is causing the damage and to take such other steps (if any) to stop the damage as are specified in the permission.
+
+(5) An application for a permission under this section may be made to the Minister F132[...] or to any other person who is authorised for the time being by the Minister to receive such applications.
+
+F133[(6) In addition to the foregoing, the following provisions shall apply in relation to a permission granted under this section:
+
+(*a*) the permission shall be valid only for such period and in relation to such area as are specified therein,
+
+(*b*) particulars of all protected wild birds and protected wild animals captured or killed pursuant to the permission shall be furnished to the Minister by the person to whom the permission is given at such times and in such form as is specified in the permission,
+
+(*c*) notwithstanding any other provision of this Act, the Minister may grant the permission subject to conditions which may include one or more of the following:
+
+(i) that any scaring, capture or killing pursuant to the permission is to be effected by a specified means,
+
+(ii) that any wild bird or any wild animal captured or killed pursuant to the permission shall have affixed to it a tag or other mark of identification to be specified by the Minister,
+
+(iii) that any wild bird or any wild animal captured pursuant to the permission shall be removed to a place specified by the Minister for subsequent release or be disposed of in such other manner as may be so specified,
+
+(iv) that any wild bird or any wild animal killed pursuant to the permission shall be removed to a place specified by the Minister or be disposed of in such other manner as may be so specified,
+
+(v) that the total number of any particular species of protected wild bird or protected wild animal captured or killed pursuant to the permission shall be limited to such number as is specified in the permission.]
+
+(7) F134[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F126: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 48(a)(i), S.I. No. 371 of 2001.
+>
+> F127: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 48(a)(ii), S.I. No. 371 of 2001.
+>
+> F128: Deleted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 48(a)(iii), S.I. No. 371 of 2001.
+>
+> F129: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 48(a)(iii), S.I. No. 371 of 2001.
+>
+> F130: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 48(b), S.I. No. 371 of 2001.
+>
+> F131: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 48(c), S.I. No. 371 of 2001.
+>
+> F132: Deleted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 48(d), S.I. No. 371 of 2001.
+>
+> F133: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 48(e), S.I. No. 371 of 2001.
+>
+> F134: Repealed (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 5(c), S.I. No. 371 of 2001.
+
+#### 43. Land drainage schemes.
+
+**43.**—(1) Where the Commissioners propose to undertake either—
+
+(*a*) a drainage scheme within the meaning of the F135[Arterial Drainage Acts, 1945 and 1995], which is one to which this section applies, or
+
+(*b*) any other land drainage scheme,
+
+F136[which is likely or liable to affect, or to interfere with, or is] in respect of an area which includes land to which an establishment order, a recognition order or a designation order applies, or land to which an agreement made under *section 18* of this Act applies F137[or land particulars of which have been included in a notice or order under Chapter II of Part III of the Wildlife (Amendment) Act, 2000], the Commissioners shall, before commencing the scheme, consult the Minister to ascertain if and to what extent the proposed scheme if carried out would affect or interfere with the suitability of the land affected by the scheme for a F138[nature reserve, refuge, natural heritage area or area subject to a notice served under section 16(2)(b) of the Wildlife (Amendment) Act, 2000], as may be appropriate, and take all practicable steps including, where appropriate, the limitation of the drainage scheme to minimise or avoid such effect or interference.
+
+(2) This section applies to any drainage scheme within the meaning of the Arterial Drainage Act, 1945, not being a scheme of which a copy has been exhibited in accordance with section 5 of that Act before the commencement of this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F135: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 49(a), S.I. No. 371 of 2001.
+>
+> F136: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 49(b), S.I. No. 371 of 2001.
+>
+> F137: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 49(c), S.I. No. 371 of 2001.
+>
+> F138: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 49(d), S.I. No. 371 of 2001.
+
+#### 44. Unlawful hunting or entry on land and other miscellaneous matters.
+
+**44.**—F139[(1) Any person, not being the owner or occupier of land, who, without the permission of the owner or occupier of the land or, in the case some other person is entitled to enjoy sporting rights over the land, that other person—
+
+(*a*) hunts a wild bird or wild animal on the land,
+
+(*b*) carries or brings on the land a thing mentioned in *section 72(7)* (as amended by section 65(d) of the Act of 2000), or
+
+(*c*) shoots over or into the land,
+
+commits an offence.]
+
+(2) F139[Where a person who is neither the owner nor the occupier of land carries on the land a thing mentioned in *section 72(7)*,] any of the following persons may demand of him (and take when given) his name and address, namely:
+
+(*a*) the owner or occupier of the land or a person authorised by him to exercise on his behalf the powers exercisable by such owner or occupier under this section,
+
+(*b*) a person who is entitled to enjoy sporting rights over the land or some other person so authorised by him to exercise on his behalf the powers exercisable by him under this section,
+
+F140[(*bb*) an authorised person or a member of the Garda Síochána,]
+
+(*c*) the holder, or a person deemed pursuant to F141[*subsection (5)* or *(5A)* of *section 29*] of this Act to be the holder, of a licence granted under that section;
+
+provided that the power conferred by this section on a person mentioned in *paragraph (c)* of this subsection shall only be exercisable on the production by him of F142[...] a current licence granted to him pursuant to the said *section 29* F143[a current firearm certificate to which *subsection (5A)* of that section applies] or a current firearm certificate granted to him and endorsed in accordance with the requirements of *subsection (8)* of that section.
+
+F144[(2A) An authorised person or a member of the Garda Síochána in exercising a power under *subsection (2)* of this section may size any firearm, other weapon or device or part thereof.]
+
+(3) A person who refuses or who fails to give his correct name and address on a demand therefor being duly made pursuant to this section or who on such demand gives a name and address which is false or misleading shall be guilty of an offence.
+
+(4) Summary proceedings for an offence under this section may be prosecuted by—
+
+(*a*) a person who at the time at which the offence is alleged to have been committed (in this subsection referred to as the relevant time) is the owner or is in occupation of the land in relation to which the offence is alleged (in this subsection referred to as the relevant land),
+
+(*b*) any individual who as regards the relevant land is at the relevant time entitled to enjoy sporting rights over such land,
+
+(*c*) and in the name of the person who at the relevant time is the secretary of a recognised body which at such time is entitled to enjoy sporting rights over the relevant land;
+
+provided that such an offence shall only be prosecuted by the secretary of a recognised body if,
+
+(i) prior to the relevant time a notice stating that sporting rights specified in the notice over land so specified have been reserved for the body is published in a newspaper circulating in the area in which the relevant land is situate, and
+
+(ii) the land so specified comprises or includes the relevant land.
+
+(5) The Minister may by regulations declare any association, club, society or other body of persons which has for or amongst its objects the conservation of game to be a recognised body for the purposes of this section, and any body to which regulations under this subsection for the time being relate is in this section referred to as a recognised body.
+
+(6) Subject to compliance with the requirements of the proviso to *subsection (4)* of this section, a notice published for the purposes of section 15 of the Game Preservation Act, 1930 (repealed by this Act), shall be regarded as having been published for the purposes of this Act.
+
+F145[(7) In any proceedings for an offence under this section it shall not be necessary for the prosecutor to prove that, at the time of the offence, a defendant—
+
+(*a*) was on the land without lawful authority, or
+
+(*b*) was not the owner or occupier of the land,
+
+and in case a defendant claims that he was on the land with lawful authority or is either the owner or occupier of the land, the onus of proving such authority, or that he is the owner or occupier of the land, shall be on the defendant.]
+
+(8) In this section “game” means any exempted wild mammal or any protected wild bird which is of a species specified in an order under *section 24* of this Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F139: Substituted (18.07.2018) by *Heritage Act 2018* (15/2018), s. 9(a), commenced on enactment.
+>
+> F140: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 50(b), S.I. No. 371 of 2001.
+>
+> F141: Substituted (10.07.2010) by *Wildlife (Amendment) Act 2010* (19/2010), s. 5(a), commenced on enactment.
+>
+> F142: Deleted (10.07.2010) by *Wildlife (Amendment) Act 2010* (19/2010), s. 5(b), commenced on enactment.
+>
+> F143: Inserted (10.07.2010) by *Wildlife (Amendment) Act 2010* (19/2010), s. 5(c), commenced on enactment.
+>
+> F144: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 50(c), S.I. NO. 371 of 2001.
+>
+> F145: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 50(d), S.I. No. 371 of 2001.
+>
+> **Editorial Notes:**
+>
+> E209: Power pursuant to section exercised (1.09.1980) by *Wildlife Act, 1976 (Section 44) (Recognised Bodies) Regulations 1980* (S.I. No. 233 of 1980), in effect as per reg. 1(3).
+>
+> E210: Power pursuant to section exercised (11.11.1977) by *Wildlife Act, 1976 (Section 44) (Recognised Bodies) Regulations 1977* (S.I. No. 335 of 1977), in effect as per reg. 2.
+>
+> E211: Previous affecting provision: subs. (1)(c) substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 50(a), S.I. No. 371 of 2001; subs. (1) substituted as per F-note above.
+
+## PART IIIRegulation and control of wildlife dealing and the transport, import and export of wildlife — PART III — Regulation and control of wildlife dealing and the transport, import and export of wildlife
+
+### 45. Sale, purchase and possession of fauna restricted.
+
+**45.**—F146[(1) A person who is not a licensed wildlife dealer shall not keep, transport, sell or exchange, keep for sale or exchange, offer for sale or exchange, purchase for resale or exchange or engage in taxidermy in respect of—
+
+(*a*) a protected wild bird or protected wild animal, at any stage of its life, whether alive or dead, or any parts products or derivatives of such wild bird or animal
+
+(*b*) the eggs of a protected wild bird or the eggs or spawn of a protected wild animal, or any parts, products or derivatives thereof,
+
+(*c*) fauna, at any stage of its life, whether alive or dead, set out in F147[Part 1 or 2 of the First Schedule to the European Communities (Birds and Natural Habitats) Regulations 2011], and being fauna within the meaning of this Act,
+
+and shall not publish or cause to be published any advertisement, catalogue, circular or price list likely to be understood as conveying that such a person buys or sells, or intends to buy or sell, or engages in taxidermy in respect of any protected wild bird or protected wild animal.]
+
+(2) Subject to *subsections (3)* and *(8)* of this section and to F148[*sections 22(5)*, *23(7)(d)*, *31* and *42* of this Act], a person who is not a licensed wildlife dealer shall not have in his possession a protected wild bird or a protected wild animal, whether alive or dead, or the eggs of a protected wild bird F149[or the eggs or spawn of a protected wild animal or any part, product or derivative thereof.]
+
+(3) *Subsection (1)* of this section shall not apply to—
+
+(*a*) the sale by a person F150[, who has obtained the prior permission of the Minister in writing so to do,] of any live specimen of a protected wild bird or protected wild animal solely for the purposes of propagating, or of improving the quality of, such species,
+
+(*b*) the sale by a person of live hares to a coursing club affiliated to the Irish Coursing Club,
+
+(*c*) the sale to a licensed wildlife dealer by a person of any protected wild bird or protected wild animal lawfully killed F150[or captured] by him,
+
+F150[(*cc*) the sale by a person of any live perching bird which is a close-ringed specimen within the meaning of *section 31(4)* of this Act, and to which that section applies,]
+
+(*d*) the sale by any person, who has obtained the prior permission of the Minister so to do, of any lawfully killed F150[or captured] such wild bird or wild animal.
+
+(4) A person who is the owner, manager or person otherwise in charge of any hotel, guest house, inn, restaurant, public eating house, registered club within the meaning of the Registration of Clubs Acts, 1904 to 1962, or any other premises in which meals are provided for reward, shall not purchase a protected wild bird or a protected wild animal otherwise than from a licensed wildlife dealer, unless such person is himself such a dealer.
+
+(5) A person mentioned in *subsection (4)* of this section who is not a licensed wildlife dealer shall keep in such form as the Minister approves a record of all purchases of protected wild birds or protected wild animals made in relation to the premises so mentioned and of which he is the owner or manager or of which he is otherwise in charge, and records kept pursuant to this subsection shall be kept available for inspection at the said premises by an authorised person on demand at any reasonable time.
+
+(6) An authorised person may inspect and, if he thinks fit, take copies of any entry in any record kept pursuant to *subsection (5)* of this section.
+
+F151[(7) A person who contravenes *subsection (1)*, *(2)*, *(4)*, F152[...] *(12)* or *(13)* of this section or who fails to comply with the requirements of *subsection (5)* of this section shall be guilty of an offence.]
+
+F151[(8) In any proceedings for an offence under this section in which it is alleged that *subsection (2)* or *(13)* of this section was contravened, it shall be a defence for the defendant to prove that—
+
+F153[(*a*) the wild bird, wild animal or any other part, product or derivative of such wild bird or wild animal had been lawfully acquired by the defendant before the 1st day of June, 1977, or that it or they had been lawfully acquired from a person who had lawfully acquired it or them,
+
+(*b*) in case the alleged offence relates to a protected wild bird or a protected wild animal or to any other part, product or derivative of such a wild bird or wild animal that it or they had lawfully been killed, captured or acquired by the defendant or had been lawfully acquired from a person who had lawfully killed, captured or acquired it or them.]]
+
+F154[(9) Subject to *subsection (9A)* of this section, nothing in this section shall make unlawful the possession consequent upon any other thing which is—
+
+(*a*) done pursuant to and in accordance with a licence or permission granted under this Act, or
+
+(*b*) permitted to be done by or under any statute other than this Act, or
+
+(*c*) otherwise lawfully done,
+
+of a protected wild bird or a protected wild animal or the eggs of a protected wild bird or any eggs or spawn of a protected wild animal.]
+
+F150[(9A) Where possession of a protected wild bird or a protected wild animal results from the unintentional capture of the bird or animal and such possession is continuing, the person in apparent possession or control of the bird or animal shall, at the direction of the Minister, release or otherwise dispose of the bird or animal in such manner as the Minister thinks fit.]
+
+(10) References in this section to a protected wild bird or a protected wild animal shall, except in relation to taxidermy, be construed as including references to the flesh F150[, or to any other part, product or derivative,] of such a bird or animal, and in relation to taxidermy the said references in this section shall be construed as including references to the skin, plumage or any other part of such a bird or animal.
+
+F155[(11) F156[...]
+
+(12) A licensed wildlife dealer shall not sell, keep for sale, purchase for resale or engage in taxidermy in respect of eggs taken from the wild of a protected wild bird.
+
+(13) Subject to *subsection (8)* of this section and to *section 22(5)* of this Act, a licensed wildlife dealer shall not have in his possession eggs taken from the wild of a protected wild bird.]
+
+F150[(14) The Minister may by regulations—
+
+(*a*) in relation to wild birds—
+
+(i) apply this section, either generally or by reference to one or more species, to wild birds, or
+
+(ii) apply this section generally to species of wild birds subject to the exclusion of one or more such species,
+
+and
+
+(*b*) in relation to wild animals—
+
+(i) apply this section, either generally or by reference to one or more species, to wild animals which are not protected wild animals, or
+
+(ii) apply this section generally to species of wild animals which are not protected wild animals, subject to the exclusion of one or more such species.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F146: Substituted (18.07.2005) by *European Communities (Natural Habitats) (Amendment) Regulations 2005* (S.I. No. 378 of 2005), reg. 2(4).
+>
+> F147: Substituted (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), reg. 56(6), in effect as per reg. 1(3).
+>
+> F148: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 51(b)(i), S.I. No. 371 of 2001.
+>
+> F149: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 51(b)(ii), S.I. No. 371 of 2001.
+>
+> F150: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 51(c)(i)-(iv), (f), (g), (i), S.I. No. 371 of 2001.
+>
+> F151: Substituted (6.12.1885) by *European Communities (Wildlife Act, 1976) (Amendment) Regulations 1985* (S.I. No. 397 of 1985), reg. 3(e)(ii), (iii), in effect as per reg. 1(2).
+>
+> F152: Deleted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 51(d), S.I. No. 371 of 2001.
+>
+> F153: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 51(e), S.I. No. 371 of 2001.
+>
+> F154: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 51(b)(i), (f), S.I. No. 371 of 2001.
+>
+> F155: Inserted (6.12.1885) by *European Communities (Wildlife Act, 1976) (Amendment) Regulations 1985* (S.I. No. 397 of 1985), reg. 3(e)(iv), in effect as per reg. 1(2).
+>
+> F156: Deleted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 51(h), S.I. No. 371 of 2001.
+>
+> **Editorial Notes:**
+>
+> E212: Previous affecting provision: subs. (1) substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 51(a), S.I. No. 371 of 2001; substituted as per F-note above.
+>
+> E213: Previous affecting provision: application of subs. (1) modified (26.02.1997) by *European Communities (Natural Habitats) Regulations 1997* (S.I. No. 94 of 1997), reg. 22; revoked (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 75(b), S.I. No. 371 of 2001.
+>
+> E214: Previous affecting provision: subs. (1) substituted (6.12.1985) by *European Communities (Wildlife Act, 1976) (Amendment) Regulations 1985* (S.I. No. 397 of 1985), reg. 3(e)(i), in effect as per reg. 1(2); substituted as per E-note above.
+
+### 46. Regulation and control of wildlife dealing.
+
+**46.**—(1) Where the Minister is satisfied that it is in the interests of the conservation of any species of F157[wild bird or wild animal] so to do, subject to *subsection (5)* of this section, he may by regulations prohibit, or control in such manner as he considers appropriate and specifies in the regulations, the purchase or sale of that species for such period as may be so specified.
+
+(2) The Minister may make regulations regulating or controlling the carrying on by licensed wildlife dealers of the business of wildlife dealing.
+
+(3) Without prejudice to the generality of *subsection (2)* of this section, regulations under this section may—
+
+(*a*) prescribe conditions with regard to premises used by licensed wildlife dealers for wildlife dealing,
+
+(*b*) prescribe the form and period of validity of a wildlife dealer’s licence and the form and period of validity of a renewal of such a licence,
+
+(*c*) specify the species of fauna which may be sold or purchased for resale by the holder of a wildlife dealer’s licence pursuant to the licence,
+
+F158[(*cc*) prescribe conditions with regard to the practice of taxidermy by the holder of a wildlife dealer’s licence and to species of fauna generally, or any such species as may be specified in the regulations, used for the purpose of taxidermy,]
+
+(*d*) require the keeping by the holder of a wildlife dealer’s licence of such registers, books, records, invoices, receipts or other documents relating to the business of wildlife dealing as may be prescribed, and require any such document to be produced by such holder when required to do so by an authorised person at a reasonable time,
+
+F159[(*dd*) require the holder of a wildlife dealer’s licence to give to the Minister such particulars in writing from any documents kept by that holder under *paragraph (d)* of this subsection as the Minister may require and specify by notice in writing sent to the holder,]
+
+(*e*) provide for the entry in such registers or records of such particulars relating to wildlife as may be prescribed,
+
+(*f*) require the display in such premises of a current wildlife dealer’s licence,
+
+F160[(*ff*) prohibit the dealing in wild birds or wild animals which do not have the appropriate tag or mark as specified in regulations made under *section 29* of the Principal Act,]
+
+(*g*) provide that F161[a wild bird or a wild animal] shall not be confined, kept, or exposed for sale in a cage in such premises, or while it is being transported from one place to another by or on behalf of such dealer for purposes of display, sale or exhibition, unless the cage is of a prescribed size, type or description, and
+
+(*h*) make any other provision which is ancillary or incidental to any of the foregoing.
+
+(4) An authorised person may inspect and, if he thinks fit, take copies of any entry in any document produced pursuant to a requirement of regulations under this section.
+
+(5) Regulations under this section which relate to a species of fish or aquatic invertebrate animal shall, in so far as they relate to such species, be made by the Minister only after consultation with the Minister for Agriculture and Fisheries.
+
+F162[(5A) For the avoidance of doubt it is hereby declared that this section shall not apply to domesticated, farmed or other deer which are not wild animals.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F157: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 51(1)(a), S.I. No. 371 of 2001, subject to transitional provisions in subs. (2) and continuation in force of existing regulations made under section until revoked.
+>
+> F158: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 51(1)(b)(i), S.I. No. 371 of 2001, subject to transitional provisions in subs. (2) and continuation in force of existing regulations made under section until revoked.
+>
+> F159: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 51(1)(b)(ii), S.I. No. 371 of 2001, subject to transitional provisions in subs. (2) and continuation in force of existing regulations made under section until revoked.
+>
+> F160: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 51(1)(b)(iii), S.I. No. 371 of 2001, subject to transitional provisions in subs. (2) and continuation in force of existing regulations made under section until revoked.
+>
+> F161: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 51(1)(b)(iv), S.I. No. 371 of 2001, subject to transitional provisions in subs. (2) and continuation in force of existing regulations made under section until revoked.
+>
+> F162: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 51(1)(c), S.I. No. 371 of 2001, subject to transitional provisions in subs. (2) and continuation in force of existing regulations made under section until revoked.
+>
+> **Editorial Notes:**
+>
+> E215: Power pursuant to section exercised (29.07.1977) by *Wildlife Act, 1976 (Wildlife Dealing) Regulations, 1977* (S.I. No. 253 of 1977).
+
+### 47. Prohibition on wildlife dealing without wildlife dealer’s licence.
+
+**47.**—(1) Subject to *subsection (2)* of this section, a person shall not carry on business as a wildlife dealer except under and in accordance with a wildlife dealer’s licence.
+
+(2) *Subsection (1)* of this section shall not apply—
+
+(*a*) in relation to a person who immediately prior to the commencement of this section was carrying on business as a wildlife dealer, during the period of three months beginning on the commencement of this section,
+
+(*b*) in relation to a person who acquires (by purchase or otherwise) premises in which immediately prior to the acquisition the business of wildlife dealing was duly carried on, during the period of three months beginning on the date of the acquisition,
+
+(*c*) in relation to the personal representative of a licensed wildlife dealer, during the period of six months beginning on the date of the death of such dealer.
+
+(3) A person who contravenes *subsection (1)* of this section shall be guilty of an offence.
+
+### 48. Wildlife dealer’s licence.
+
+F163[**48.**—(1) The Minister may, on application being made in that behalf, if thought fit and on payment of the prescribed fee (if any), grant or renew a licence (in this Act referred to as a ‘wildlife dealer’s licence’) authorising the applicant to carry on business as a wildlife dealer at premises specified in the licence.
+
+(2) A wildlife dealer’s licence shall, unless it is previously revoked, remain in force until the 31st day of July following the year in which it was granted or renewed.
+
+(3) The Minister may, on application being made in that behalf, from time to time and on payment of the prescribed fee (if any), renew a licence granted under *subsection (1)* of this section.
+
+(4) (*a*) Every applicant for the grant or renewal of a licence under this section shall have the right of appeal, to the District Court for the District in which the applicant resides, against the refusal of the Minister to grant or renew such a licence.
+
+(*b*) Where, in the case of the refusal by the Minister to grant or renew a licence under this section, the applicant is the holder of a subsisting licence under this section, then the licence shall continue in force pending the determination of an appeal against such refusal, or the appeal ceases for any other reason.
+
+(*c*) The Minister shall be notified in writing by registered post by the applicant of any such appeal not less than 21 days before the hearing of the appeal and shall have the right to appear and be heard at the hearing.
+
+(*d*) Where an appeal under this subsection is allowed, the Minister shall grant or renew, as appropriate, a licence subject to any conditions which the judge allowing the appeal may require to be attached to the licence.
+
+(5) The Minister may, in considering an application for the grant or renewal of a licence under this section, have regard to the following:
+
+(*a*) the suitability of the applicant, taking into account the purposes of this Act, to hold a wildlife dealer’s licence,
+
+(*b*) the suitability of the premises, taking into account all relevant legislative provisions relating to food hygiene and food safety, where the applicant proposes to carry on the business of wildlife dealing, and
+
+(*c*) the ability of the applicant to comply with regulations made under *section 46(2)* of this Act which are for the time being in force.
+
+(6) (*a*) The Minister may, having given 21 days’ notice to the holder of a licence issued under this section, revoke the licence if the holder has failed to comply with the conditions thereof or with regulations made under *section 46(2)* of this Act which are for the time being in force, and shall notify the holder of the reasons for such revocation.
+
+(*b*) The holder of a wildlife dealer’s licence shall have the right to appeal, to the District Court for the District in which the applicant resides, within a period of 21 days in respect of the notification by the Minister to revoke the licence.
+
+(*c*) Where, in the case of the notification of revocation by the Minister of a licence under this section, the holder of the licence appeals to the District Court in accordance with *paragraph (b)*, the licence shall continue in force pending the determination of an appeal against such revocation, or the appeal ceases for any other reason.
+
+(*d*) The Minister shall be notified in writing by registered post of any appeal to which *paragraph (b)* relates not less than 21 days before the hearing of the appeal and shall have the right to appear and be heard at the hearing.
+
+(7) The Minister may, on application being made in that behalf by the holder of the wildlife dealer’s licence, amend a licence issued under this section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F163: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 53, S.I. No. 371 of 2001.
+
+### 49. Revocation of wildlife dealer’s licence.
+
+**49.**—(1) Where a person who holds a wildlife dealer’s licence F164[is convicted of an offence under this Act,] the court by which the person is convicted may revoke the licence and such revocation shall be in addition to any other punishment imposed by the court in respect of the offence.
+
+(2) Where a court revokes a wildlife dealer’s licence pursuant to this section, the registrar or clerk of the court shall, as soon as may be, send to the Minister a copy of the court’s order.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F164: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 54, S.I. No. 371 of 2001.
+
+### 50. Minister may publish list of wildlife dealers or notice of revocation.
+
+**50.**—(1) The Minister may, if he thinks fit, publish from time to time and in such manner as he considers appropriate, a notice listing all persons who on the day specified in the notice were the holders of wildlife dealers' licences.
+
+(2) Where a wildlife dealer’s licence is revoked under *section 49* of this Act and the Minister has received a copy of the order revoking the licence, if either—
+
+(*a*) no appeal is taken against the order and the period during which such an appeal may be taken has expired, or
+
+(*b*) such an appeal is taken and the order is confirmed on appeal or the appeal is withdrawn,
+
+the Minister may publish, in such manner as he considers appropriate, notice of the revocation.
+
+### 51. Transport of packages etc. containing certain fauna.
+
+**51.**—(1) This section applies to any package, parcel, box or other container which contains all or any of the following, namely:
+
+(*a*) any protected wild bird or protected wild animal,
+
+(*b*) the dead body, carcase or any other part either of a protected wild bird or protected wild animal,
+
+(*c*) eggs of a protected wild bird.
+
+F165[(*cc*) any species of flora to which an order under *section 21* of this Act for the time being applies.]
+
+(2) Every package, parcel, box or other container to which this section applies shall, if transported, whether by hand or otherwise, be marked conspicuously either on the outside thereof or on a label attached thereto, so as clearly to indicate—
+
+F166[(*a*) that the package, parcel, box or other container contains wild birds, wild animals or flora, as may be appropriate,
+
+(*aa*) the number of specimens and the species, respectively, of wild birds, wild animals or flora so contained and, in respect of each specimen captured, picked or otherwise taken (as appropriate) within the State or the territorial seas of the State, the location of where it was so captured, picked or otherwise taken, and]
+
+(*b*) the name and address of the consignor.
+
+(3) Any person who consigns or transports a package, parcel, box or other container which is not marked in the manner required by *subsection (2)* of this section and who knows that the package, parcel, box or other container, as the case may be, contains any thing mentioned in *paragraph* F167[*(a), (b), (c)* or (*cc*)] of *subsection (1)* of this section shall be guilty of an offence.
+
+(4) In any proceedings for an offence under this section, it shall be a good defence to show that a package, parcel, box or other container to which the alleged offence relates did not contain at the time of the alleged offence protected wild birds or protected wild animals other than the following, namely, a protected wild bird or an exempted wild mammal lawfully hunted by virtue of an order under *section 24* or *25* of this Act or the dead body or any part of such a protected wild bird or exempted wild mammal.
+
+F168[(5) The Minister may by regulations provide that this section—
+
+(*a*) shall also apply to any package, parcel, box or other container which contains all or any of the following, that is to say:
+
+(i) a wild bird of a species specified in the regulations for that purpose;
+
+(ii) a wild animal of a species specified in the regulations for that purpose;
+
+(iii) a species of flora specified in the regulations for that purpose;
+
+and which for the time being is not a species to which *subsections (1)* to *(4)* of this section apply,
+
+(*b*) shall not apply to any package, parcel, box or other container which contains all or any of the following, that is to say:
+
+(i) a wild bird of a species specified in the regulations for that purpose;
+
+(ii) a wild animal of a species specified in the regulations for that purpose;
+
+(iii) a species of flora specified in the regulations for that purpose;
+
+and which would, but for the regulations, be a species to which *subsections (1)* to *(4)* of this section would apply,]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F165: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 55(a), S.I. No. 371 of 2001.
+>
+> F166: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000*(38/2000), s. 55(b), S.I. No. 371 of 2001.
+>
+> F167: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000*(38/2000), s. 55(c), S.I. No. 371 of 2001.
+>
+> F168: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000*(38/2000), s. 55(d), S.I. No. 371 of 2001.
+>
+> **Modifications (not altering text):**
+>
+> C22: Application of section restricted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 59, S.I. No. 371 of 2001.
+>
+> **Saver in interest of public health and safety.**
+>
+> **59.**—Nothing in Part II, or section 51, of the Principal Act shall make unlawful any thing which is done pursuant to and in accordance with a licence granted in that behalf by the Minister for the purpose of preserving public health or public safety, including air safety.
+
+### 52. Import of fauna and flora.
+
+**52.**—(1) The Minister may, after consultation with the Minister for Agriculture and Fisheries, by regulations prohibit the importation F169[into the State from outside the European Union], save under and in accordance with a licence granted by or on behalf of the Minister under this section, of all or any of the following:
+
+(*a*) any wild animal or wild bird F170[, at any stage of its life,] of a species specified in the regulations,
+
+(*b*) the dead body or the carcase of a wild animal or wild bird which is of a species so specified,
+
+(*c*) any part, other than the carcase, F171[or any product or derivative] of a wild animal or wild bird which is F171[a part, product or derivative] so specified,
+
+(*d*) the eggs or spawn of a species of wild animal or wild bird which is so specified,
+
+F172[(*dd*) any part, product or derivative of the eggs or spawn of a wild animal or wild bird which is a part, product or derivative so specified,]
+
+(*e*) any plant of a species so specified,
+
+(*f*) the flowers F173[, seeds, spores] or roots of any such plant,
+
+(*g*) any part, other than the flowers F174[, seeds, spores] or roots, F175[or any product or derivative] of any such plant which is F175[a part, product or derivative] so specified.
+
+F176[(1A) *(a)* The Minister may, and shall in the case to which paragraph 1 of Article 12 of Council Regulation (EC) No. 338/97 of 9 December 1996 on the protection of species of wild fauna and flora by regulating trade therein relates, designate in writing the ports, airports and other places through which wild animals, wild birds or the eggs or spawn of wild animals or wild birds or plants, flowers, roots, seeds or spores of such plants may be imported into the State from outside the European Union and different places may be prescribed for different specified species.
+
+(*b*) The Minister may designate in writing the ports, airports and other places through which any part, product or derivative of wild animals, wild birds or of the eggs or spawn of a wild animal or wild bird or of plants, flowers, roots, seeds or spores of such plants, of species specified in the regulations may be imported into the State from outside the European Union and different places may be prescribed for different specified species.
+
+(*c*) A designation under this subsection may be amended or revoked in writing by the Minister.
+
+(*d*) Notice of the making of a designation under this subsection, and every amendment or revocation thereof, shall be published in the *Iris Oifigiúil* as soon as possible after it has been made, amended or revoked, as the case may be.]
+
+(2) The Minister may grant to a person a licence to import any thing the importation of which is prohibited by regulations made under *subsection (1)* of this section.
+
+(3) The Minister may authorise a person to grant on his behalf a licence mentioned in *subsection (2)* of this section.
+
+(4) Where an animal, plant or other thing is imported in contravention of this section, an officer of Customs and Excise may require any person (being the importer or carrier concerned) to export the animal, plant or other thing within a specified time, and if such person fails to comply with such requisition he shall be guilty of an offence and the animal, plant or other thing shall be killed or otherwise disposed of as the Minister directs.
+
+F177[(4A) Any officer of An Post duly authorised in that behalf may detain and examine and, if considered necessary, open for that purpose any postal packet containing, or reasonably suspected by that officer of containing, any thing which is being imported in contravention of this section, and if a postal packet so detained contains any such thing, the officer of An Post shall dispose of the packet and its contents in accordance with the instructions of the Minister.]
+
+(5) Nothing in this section or in *section 53* of this Act shall restrict, prejudice or affect the functions of the Minister for Agriculture and Fisheries under the Destructive Insects and Pests (Consolidation) Act, 1958, the Diseases of Animals Act, 1966, or the Fisheries Acts, 1959 to 1974, or the functions of the Minister for Health under section 31 of the Health Act, 1947, as amended by section 34 of the Health Act, 1953.
+
+F178[(6) (*a*) The Minister may, if considered necessary, by regulations prohibit the possession or introduction of any species of wild bird, wild animal or wild flora or any part, product or derivative of such wild bird, wild animal or wild flora which may be detrimental to native species.
+
+(*b*) Where non-native species of wild bird, wild animal or wild flora or any part, product or derivative of such wild bird, wild animal or wild flora have been introduced, the Minister shall, to the extent that it is feasible and appropriate, take measures to ensure that such introductions do not pose a potential hazard to native stocks.
+
+(7) Any person who—
+
+(*a*) turns loose, wilfully allows or causes to escape any species of wild animal or the spawn of such wild animal or wild bird or the eggs of such wild bird,
+
+(*b*) transfers any species of wild animal or the spawn of such wild animal or wild bird or the eggs of such wild bird from any place in the State to any other place in the State for the purpose of establishing it in a wild state in such other place,
+
+(*c*) plants or otherwise causes to grow in a wild state in any place in the State any species of flora, or the flowers, roots, seeds or spores of flora,
+
+otherwise than under and in accordance with a licence granted in that behalf by the Minister shall be guilty of an offence.
+
+(8) For the purposes of *subsection (7)*, any reference to wild animals, wild birds, plants, flowers, roots, seeds or spores refers only to exotic species thereof.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F169: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 56(a)(i), S.I. No. 371 of 2001.
+>
+> F170: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 56(a)(ii), S.I. No. 371 of 2001.
+>
+> F171: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 56(a)(iii), S.I. No. 371 of 2001.
+>
+> F172: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 56(a)(iv), S.I. No. 371 of 2001.
+>
+> F173: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 56(a)(v), S.I. No. 371 of 2001.
+>
+> F174: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 56(a)(vi), S.I. No. 371 of 2001.
+>
+> F175: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 56(a)(vi), S.I. No. 371 of 2001.
+>
+> F176: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 56(b), S.I. No. 371 of 2001.
+>
+> F177: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 56(c), S.I. No. 371 of 2001.
+>
+> F178: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 56(d), S.I. No. 371 of 2001.
+>
+> **Editorial Notes:**
+>
+> E216: Power pursuant to subs. (1A) exercised (13.07.2011) by *Wildlife (Import and Export of Fauna and Flora) (Designation of Ports and Airports) (Amendment) Regulations 2011* (S.I. No. 377 of 2011.
+>
+> E217: Power pursuant to subs. (1A) exercised (31.07.2001) by *Wildlife (Import and Export of Fauna and Flora) (Designation of Ports and Airports) Regulations 2001* (S.I. No. 375 of 2001).
+>
+> E218: Power pursuant to section exercised (1.01.1990) by *Wildlife Act, 1976, (Control of Importation of Wild Animals and Wild Birds), Regulations 1989* (S.I. No. 296 of 1989), in effect as per reg. 2.
+
+### 53. Export of fauna and flora.
+
+**53.**—(1) Subject to *section 52 (5)* of this Act, the Minister may, after consultation with the Minister for Agriculture and Fisheries, by regulations prohibit the export F179[from the State to outside the European Union], save under and in accordance with a licence granted by or on behalf of the Minister under this section, of all or any of the following:
+
+(*a*) F180[any wild bird or any wild animal, at any stage of its life,] of a species specified in the regulations,
+
+(*b*) the dead body or the carcase either of a F181[wild bird or wild animal] of a species so specified,
+
+(*c*) any part, other than the carcase, F182[or any product or derivative] of a wild animal or wild bird which is F182[a part, product or derivative] so specified,
+
+(*d*) the eggs or spawn of a species of wild animal or wild bird which is so specified,
+
+F183[(*dd*) any part, product or derivative of the eggs or spawn of a wild animal or wild bird which is a part, product or derivative so specified,]
+
+(*e*) wild plants which are of a species which is so specified F184[...]
+
+(*f*) the flowers F185[, seeds, spores] or roots of any such wild plant,
+
+(*g*) any part, other than the flowers F186[, seeds, spores] or roots, F187[or any product or derivative] of any such plant which is F187[a part, product or derivative] so specified.
+
+F188[(1A) (*a*) The Minister may, and shall in the case to which paragraph 1 of Article 12 of Council Regulation (EC) No. 338/97 of 9 December 1996 on the protection of species of wild fauna and flora by regulating trade therein relates, designate in writing the ports, airports and other places through which wild animals, wild birds or the eggs or spawn of wild animals or wild birds or plants, flowers, roots, seeds or spores of such plants may be exported from the State to outside the European Union and different places may be prescribed for different specified species.
+
+(*b*) The Minister may designate in writing the ports, airports and other places through which any part, product or derivative of wild animals, wild birds or of the eggs or spawn of a wild animal or wild bird or of plants, flowers, roots, seeds or spores of such plants, of species specified in the regulations may be exported from the State to outside the European Union and different places may be prescribed for different specified species.
+
+(*c*) A designation under this subsection may be amended or revoked in writing by the Minister.
+
+(*d*) Notice of the making of a designation under this subsection, and every amendment or revocation thereof, shall be published in the *Iris Oifigiúil* as soon as possible after it has been made, amended or revoked, as the case may be.]
+
+(2) The Minister may grant to a person a licence to export any thing the export of which is prohibited by regulations made under *subsection (1)* of this section.
+
+(3) The Minister may authorise a person to grant on his behalf a licence mentioned in *subsection (2)* of this section.
+
+F189[(4) Any officer of An Post duly authorised in that behalf may detain and examine and if necessary open for that purpose any postal packet containing, or suspected by that officer of containing, any thing which is being exported in contravention of this section, and if a postal packet so detained contains any such thing, the officer of An Post shall dispose of the packet and its contents in accordance with the instructions of the Minister.]
+
+(5) Nothing in this section shall restrict, prejudice or affect the functions of the Minister for Agriculture and Fisheries under the Agricultural and Fishery Products (Regulation of Export) Act, 1947, or functions which are for the time being transferred to and vested in the Minister for Industry and Commerce by an order under section 5 of that Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F179: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 57(a)(i), S.I. No. 371 of 2001.
+>
+> F180: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 57(a)(ii), S.I. No. 371 of 2001.
+>
+> F181: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 57(a)(iii), S.I. No. 371 of 2001.
+>
+> F182: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 57(a)(iv), S.I. No. 371 of 2001.
+>
+> F183: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 57(a)(v), S.I. No. 371 of 2001.
+>
+> F184: Deleted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 57(a)(vi), S.I. No. 371 of 2001.
+>
+> F185: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 57(a)(vii), S.I. No. 371 of 2001.
+>
+> F186: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 57(a)(viii), S.I. No. 371 of 2001.
+>
+> F187: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 57(a)(viii), S.I. No. 371 of 2001.
+>
+> F188: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 57(b), S.I. No. 371 of 2001.
+>
+> F189: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000*, (38/2000), s. 57(c), S.I. No. 371 of 2001.
+>
+> **Editorial Notes:**
+>
+> E219: Power pursuant to subs. (1A) exercised (13.07.2011) by *Wildlife (Import and Export of Fauna and Flora) (Designation of Ports and Airports) (Amendment) Regulations 2011* (S.I. No. 377 of 2011.
+>
+> E220: Power pursuant to subs. (1A) exercised (31.07.2001) by *Wildlife (Import and Export of Fauna and Flora) (Designation of Ports and Airports) Regulations 2001* (S.I. No. 375 of 2001).
+>
+> E221: Power pursuant to section exercised (7.08.1979) by *Wildlife Act, 1976 (Control of Export of Fauna) Regulations 1979* (S.I. No. 235 of 1979).
+>
+> E222: Previous affecting provision: subs. (4) amended (13.07.1983) by *Postal and Telecommunications Services Act 1983* (24/1983), s. 8(1) and sch. 4 part I, commenced on enactment; substituted as per F-note above.
+
+### 53A. Regulation of trade in wild flora and fauna and CITES Regulations.
+
+F190[**53A.**—(1) The Minister is hereby designated, for the purposes of paragraph 1(*a*) of Article 13 of Council Regulation (EC) No. 338/97 of 9 December 1996 on the protection of species of wild fauna and flora by regulating trade therein (in this section referred to as ‘the Council Regulation’), as the management authority with primary responsibility in relation to that Regulation.
+
+(2) (*a*) The Minister may, for the purposes of paragraph 1(*b*) of Article 13 of the Council Regulation, designate in writing from time to time additional management authorities and other competent authorities.
+
+(*b*) The Minister shall, for the purposes of paragraph 2 of Article 13 of the Council Regulation, designate in writing from time to time one or more scientific authorities.
+
+(*c*) A designation under *paragraph (a)* or *(b)* of this subsection may be amended or revoked in writing by the Minister.
+
+(*d*) Notice of the making of a designation under this subsection, and every amendment or revocation thereof, shall be published in the *Iris Oifigiúil* as soon as possible after it has been made, amended or revoked, as the case may be.
+
+(3) The import, export, or any attempts thereat, of any specimen of a species listed in the annexes to the CITES Regulations without the required valid permits or certificates, or with forged, altered or otherwise fraudulent permits or certificates, shall be prohibited.
+
+(4) (*a*) The Minister may make regulations to prohibit the holding or possession of any specimen of a species listed in annexes to the CITES Regulations.
+
+(*b*) It shall be an offence to hold or possess any such specimen contrary to any regulations made under *paragraph (a)* of this subsection.
+
+(5) (*a*) Subject to *subsection (6)*, a person who, in contravention of the CITES Regulations—
+
+(i) imports, introduces from the sea, exports, re-exports, engages in movement, holds or possesses any specimen of a species listed in annexes to the CITES Regulations without the required valid permits or certificates, or with forged, altered or otherwise fraudulent permits or certificates, or
+
+(ii) purchases, offers to purchase, acquires for commercial purposes, displays to the public for commercial purposes, uses for commercial gain, sells, keeps for sale, offers for sale or transports for sale contrary to Article 8 of the Council Regulation a specimen of a species listed in Annex A to the CITES Regulations, or
+
+(iii) purchases, offers to purchase, acquires for commercial purposes, displays to the public for commercial purposes, uses for commercial gain, sells, keeps for sale, offers for sale or transports for sale contrary to Article 8 of the Council Regulation a specimen of a species listed in Annex B to the CITES Regulations imported or acquired contrary to the CITES Regulations, or
+
+(iv) fails to comply with any condition or requirement of a permit or certificate, or
+
+(v) fails to comply with the requirements of paragraph 1, 4 or 5 of Article 9 of the Council Regulation relating to the holding or transport or movement of live specimens, or
+
+(vi) makes false or misleading statements or declarations with a view to obtaining a permit or certificate, or of clearing specimens for import or export, or
+
+(vii) furnishes a document or information which is false with a view to obtaining a permit or certificate, or falsifies or alters any permit or certificate, or uses or furnishes a false or invalid permit or certificate or one altered without authorisation, or
+
+(viii) fails to make an import notification or makes a false import notification contrary to Article 4 of the Council Regulation, or
+
+(ix) uses any specimen of a species listed in Annex A to the CITES Regulations otherwise than in accordance with the authorisation given at the time of issue of the import permit or subsequently, or
+
+(x) trades in artificially propagated plants contrary to the provisions of Article 7 of the Council Regulation, or
+
+(xi) uses a permit, certificate or import notification for any specimen other than for which it was issued, or
+
+(xii) fails to disclose rejection of an application for an import, export or re-export permit or certificate in accordance with Article 6 of the Council Regulation, or
+
+(xiii) engages in transit or transshipment of any specimen of a species listed in annexes to the CITES Regulations without the required valid permit or certificate or document, or without satisfactory proof of the existence of such permit or certificate or document, as appropriate,
+
+shall be guilty of an offence.
+
+(*b*) A person who aids or abets the commission of an offence under *subsection (4)(b)* or *(5)(a)* shall be guilty of an offence.
+
+(6) Nothing in this section shall make unlawful anything which is duly done under, and in accordance with the terms of, any certificate or general derogation granted pursuant to the CITES Regulations.
+
+(7) Nothing in this section shall prevent the application of the Customs Acts to offences committed under the said Acts in relation to the import, export, or any attempt thereat, of prohibited specimens in contravention of *subsection (3)* of this section.
+
+(8) (*a*) A word or expression that is used in this section and is also used in the CITES Regulations shall, unless the contrary intention appears, have in this section the meaning that it has in the CITES Regulations.
+
+(*b*) For the purposes of this section, references to a permit or certificate include references to—
+
+(i) an import permit of the kind referred to in Article 4 of the Council Regulation,
+
+(ii) an export permit or a re-export certificate of the kind referred to in Article 5 of the Council Regulation,
+
+(iii) a certificate of any of the kinds referred to in Article 10 of the Council Regulation, or
+
+(iv) a label of the kind referred to in paragraph 4 of Article 7 of the Council Regulation.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F190: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 58, S.I. No. 371 of 2001.
+>
+> **Editorial Notes:**
+>
+> E223: The section heading is taken from the amending section in the absence of one included in the amendment.
+
+### 53B. Simplified procedures for export or re-export of dead specimens of species listed in Annexes B and C to Council Regulation
+
+F191[**53B.** —(1) A person may avail of the simplified procedures in respect of the export or re-export of a particular species only if the person is the subject of an entry in the register in respect of the species.
+
+(2) The management authority shall establish and maintain a register (in this section referred to as “the register”) which shall be in such form (including electronic form) as the management authority considers appropriate.
+
+(3) An entry in the register shall—
+
+(*a*) contain—
+
+(i) the name of a person who is entitled to trade a species specified under *paragraph (b)* under the simplified procedures, and
+
+(ii) the address at which the person referred to in *subparagraph (i)* ordinarily resides, and
+
+(*b*) specify the species to which the entitlement of the person referred to in *subparagraph (i)* relates.
+
+(4) The management authority shall, from time to time, but in any event at least every five years, review the register.
+
+(5) A person may apply to the management authority to be the subject of an entry in the register in respect of a particular species.
+
+(6) An application under *subsection (5)* shall be made in writing or by electronic means and shall—
+
+(*a*) include the name of the applicant and the address at which the applicant ordinarily resides,
+
+(*b*) specify the species that the person wishes to trade under the simplified procedures, and
+
+(*c*) contain such other information as the management authority may reasonably require for the purpose of determining the application.
+
+(7) The management authority, on receipt of an application made in accordance with *subsection (6)*, shall request the scientific authority to provide it with an opinion in writing as to whether the export or re-export of the species specified in an application will or will not have a detrimental impact on the conservation of the species concerned.
+
+(8) Where the opinion of the scientific authority under *subsection (7)* is that the export or re-export concerned will have a detrimental impact on the conservation of the species concerned—
+
+(*a*) the management authority shall notify the applicant, in writing, that it proposes to refuse the application, which notification shall be accompanied by a copy of the opinion of the scientific authority and a statement of the effect of *paragraph (b)*, and
+
+(*b*) the applicant may, within 14 days of the date of the notification under *paragraph (a)*, request the management authority, in writing, to review its proposal, which request shall be accompanied by representations in writing stating the reasons why the applicant considers that the export or re-export concerned will not have a detrimental impact on the conservation of the species concerned.
+
+(9) The management authority, on receipt of a request made in accordance with *subsection (8)(b)*, shall request the scientific authority to consider the applicant’s representations under that paragraph and to provide it with a further opinion in writing as to whether the export or re-export concerned will or will not have a detrimental impact on the conservation of the species concerned.
+
+(10) Where the management authority, having considered an application made in accordance with *subsection (6)*, is not satisfied that the requirements of Article 19 of the Commission Regulation will be complied with by the applicant—
+
+(*a*) the management authority shall notify the applicant, in writing, that it proposes to refuse the application, which notification shall be accompanied by a statement of the reasons for the proposal and of the effect of *paragraph (b)*, and
+
+(*b*) the applicant may, within 14 days of the date of the notification under *paragraph (a)*, request the management authority, in writing, to review its proposal, which request shall be accompanied by representations in relation to the reasons referred to in that paragraph.
+
+(11) The management authority shall make an entry in the register in respect of an applicant and species only where—
+
+(*a*) the scientific authority has advised under *subsection (7)* or *(9)*, as the case may be, that the export or re-export concerned will not have a detrimental impact on the conservation of the species concerned, and
+
+(*b*) the management authority is satisfied, on the basis of the application or its consideration of representations made in accordance with *subsection (10)(b)*, that the requirements of Article 19 of the Commission Regulation will be complied with by the applicant.
+
+(12) Where the management authority makes an entry in the register under *subsection (11)*, it shall, as soon as practicable, inform the registered person of the fact, and of the date of the making of the entry.
+
+(13) Where—
+
+(*a*) *subsection (8)* applies, and the applicant does not make a request in accordance with *subsection (8)(b)*, or the further opinion of the scientific authority under *subsection (9)* is that the export or re-export concerned will have a detrimental impact on the conversation of the species concerned, or
+
+(*b*) *subsection (10)* applies, and the applicant does not make a request in accordance with *subsection (10)(b)*, or the management authority, having considered such representations, is not satisfied that the requirements of Article 19 of the Commission Regulation will be complied with by the applicant,
+
+the management authority shall refuse the application and inform the applicant of the refusal and of the reasons for it.
+
+(14) The management authority may, subject to this section, remove an entry in the register—
+
+(*a*) at the request in writing of the registered person, or
+
+(*b*) where—
+
+(i) after the date of the making of the entry in the register, the registered person has not availed of the simplified procedures for any continuous period of 12 months, or
+
+(ii) the management authority is not satisfied that the registered person is complying, or has complied with, the requirements of Article 19 of the Commission Regulation.
+
+(15) (*a*) The management authority, where it proposes to remove, under *subsection 14(b)*, an entry in the register, shall notify the registered person concerned in writing of the proposal, which notification shall be accompanied by a statement of the reasons for the proposal and of the effect of *paragraph (b)*.
+
+(*b*) Where *paragraph (a)* applies, the registered person may, within 30 days of the date of the notification under that paragraph, make representations, in writing, in relation to the proposal, which representations may—
+
+(i) in the case of a proposal to remove, under *subsection (14)(b)(i)*, the entry, give reasons why the simplified procedures have not been availed of, and
+
+(ii) in the case of a proposal to remove, under *subsection 14(b)(ii)*, the entry, include proposals from the registered person to rectify any failure to comply with the requirements of Article 19 of the Commission Regulation.
+
+(16) The management authority shall consider any representations made in accordance with *subsection (15)* and—
+
+(*a*) decide whether to remove the entry in the register, and
+
+(*b*) notify the registered person of the decision under *paragraph (a)* and of the reasons for it.
+
+(17) Where a decision under *subsection (16)(a)* is to remove the entry in the register, the registered person may, within 14 days of the date of the notification under *subsection (16)(b)*, of the decision, request the management authority, in writing, to have the decision reviewed, which request shall be accompanied by a statement of the reasons why the entry should not be removed.
+
+(18) On receipt of a request under *subsection (17)* for a review, the management authority shall appoint an officer of the management authority to carry out the review of the decision and the officer so appointed—
+
+(*a*) shall not be the person who made the decision the subject of the review, and
+
+(*b*) shall be of a grade senior to the grade of the person who made the decision concerned.
+
+(19) The officer appointed under *subsection (18)*, having considered the statement under *subsection (17)*, shall—
+
+(*a*) confirm the decision, or
+
+(*b*) cancel the decision.
+
+(20) The decision of the officer under *subsection (19)* shall be notified, in writing, to the registered person as soon as practicable after the decision has been made.
+
+(21) The management authority shall remove an entry in the register as soon as practicable after—
+
+(*a*) receipt by it of a request made in accordance with *subsection (14)(a)* in respect of the entry,
+
+(*b*) the expiry of the period referred to in *paragraph (b)* of *subsection (15)*, where no request is made in accordance with that paragraph,
+
+(*c*) the making a decision under *subsection (16)(a)* to remove the entry, where no request is made in accordance with *subsection (17)*, or
+
+(*d*) a decision to remove the entry is confirmed under *subsection (19)(a)*.
+
+(22) The management authority, as soon as practicable after removing an entry in the register under *subsection (21)*, shall notify the person who was the subject of the entry, in writing, of—
+
+(*a*) the removal of the entry,
+
+(*b*) the date on which the entry was removed, and
+
+(*c*) the effect of *subsection (23)*.
+
+(23) Where an entry in the register is removed under *subsection (22)*—
+
+(*a*) any partially completed export permits or re-export certificates provided under the simplified procedures to the person who was the subject of the entry shall cease to be valid, and
+
+(*b*) the person who was the subject of the entry shall, within 14 days of the date of the notification under *subsection (22)*, return to the management authority any such permits or re-export certificates.
+
+(24) The Minister may, with the consent of the Minister for Public Expenditure and Reform, prescribe fees (if any) payable in respect of providing under the simplified procedures to a registered person partially completed export permits or re-export certificates.
+
+(25) In this section—
+
+"Commission Regulation" means Commission Regulation (EC) No. 865/2006 of 4 May 2006 laying down detailed rules concerning the implementation of Council Regulation (EC) No. 338/97 on the protection of species of wild fauna and flora by regulating trade therein, together with any amendments to or replacements of those Regulations;
+
+"Council Regulation" means Council Regulation (EC) No. 338/97 of 9 December 1996 on the protection of species of wild fauna and flora by regulating trade therein together with any amendments to or replacements of those Regulations;
+
+"management authority" means the management authority designated under *section 53A(1)*;
+
+"registered person" means a person who is the subject of an entry in the register;
+
+"scientific authority" means a person designated under *section 53A(2)(b)*;
+
+"simplified procedures" mean the simplified procedures, referred to in Article 19 of the Commission Regulation, for the export or re-export of a dead specimen of a species, including any part or derivative thereof, listed in Annexes B and C to the Council Regulation;
+
+"species" means a species listed in Annexes B and C to the Council Regulation.
+
+(26) A reference in this section to the trade, export or re-export of a particular species is a reference to the trade, export or re-export of dead specimens of the species, including any parts or derivatives thereof.
+
+(27) A word or expression that is used in the Commission Regulation or the Council Regulation and is also used in this section has, unless the context otherwise requires, the same meaning in this section as it has in the Commission Regulation or the Council Regulation.
+
+(28) For the purposes of *subsections (3)(a)(ii)* and *(6)(a)*, a company within the meaning of the Companies Acts shall be deemed to be ordinarily resident at its registered office, and every other body corporate and every unincorporated body of persons shall be deemed to be ordinarily resident at its principal office or place of business.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F191: Inserted (1.08.2019) by *European Communities (Cites Simplified Procedures) Regulations 2019* (S.I. No. 411 of 2019), reg. 2(b).
+
+### 54. Saver in relation to Customs Acts.
+
+**54.**—No order or regulation made under or thing done in accordance with the provisions of this Act shall absolve the importer, exporter or other person concerned with the import or export of any animal, plant or other thing from complying with the relevant requirements of the Customs Acts in regard to the animal, plant or other thing concerned.
+
+## PART IVLand and Waters — PART IV — Land and Waters
+
+### 55. Land purchase orders.
+
+**55.**—(1) For the purposes of this section—
+
+“land for transfer” means—
+
+(*a*) in case the Minister is satisfied that the relevant land is land held in commonage and where at least one of the owners of the land does not wish to sell pursuant to this section to the Minister his interest in the land, all that land other than the part thereof which is to be taken by way of exchange under this section,
+
+(*b*) in any other case, the relevant land;
+
+“land held in commonage” means land which is held by two or more persons (in this section referred to as owners in common) in common in undivided shares, whether as joint tenants or as tenants in common;
+
+“relevant land” means the whole of the land which either is, or is proposed to be, as the context may require, the subject of an order under this section;
+
+“remaining land” means, in relation to relevant land which the Minister is satisfied is land held in commonage and as regards which at least one owner does not wish to sell pursuant to this section his interest in the land to the Minister, all the land, apart from the land for transfer, comprised in the relevant land;
+
+“State annuity” has the same meaning as in section 12 of the Act of 1946.
+
+(2) Where—
+
+(*a*) the Minister wishes to purchase land, and
+
+F192[(*b*) the purpose for which the Minister proposes to use the land is a purpose of the *Wildlife Acts, 1976 and 2000*, and]
+
+(*c*) the ownership of the land is registered under the Registration of Title Act, 1964, and,
+
+(*d*) (i) the vendor claims to have an interest in the land which enables him to offer to the Minister vacant possession of the land, or
+
+(ii) the vendor claims that the land is land held in commonage and that he has an interest therein which enables him to offer to the Minister an undivided share therein, and
+
+(*e*) the Minister receives—
+
+(i) in every case, a statement in writing signed by the vendor specifying the grounds on which his claim is based and stating that the vendor is willing to sell to the Minister the interest he claims to have in the land for a price agreed between the vendor and the Minister and specified in the statement,
+
+(ii) in case the vendor claims that the land is land held in commonage by him with only one other owner in common and where that owner is not willing to sell to the Minister his interest in the land, in addition to the aforesaid statement, a statement in writing signed by the other person concerned specifying the grounds on which his claim to ownership in common is based and stating that he is willing to exchange for his interest in the whole of the land a sole or exclusive interest in a part of the land which shall be specified in the statement,
+
+(iii) in case the vendor claims that the land is land held in commonage by him with two or more other owners in common and where those owners in common are not willing to sell to the Minister their interests in the land, in addition to the statement described in *subparagraph (i)* of this paragraph, a statement in writing by each person concerned and signed by him specifying the grounds on which his claim to ownership in common is based and stating that he is willing to exchange for his interest in the whole of the land an undivided share in common with the other owners in common apart from the vendor in a part of the land, which shall be specified in the statement,
+
+the Minister may, in his absolute discretion, make an order under this section (subsequently in this section referred to as a purchase order) in relation to the land.
+
+(3) A purchase order shall not be made by the Minister unless—
+
+(*a*) the Minister has caused a notice in the prescribed form of his intention to make the order and specifying the relevant land to be published at least two months previously in the *Iris Oifigiúil* and in at least one newspaper circulating in the locality in which the said land is situated and copies of the notice have been duly served on the vendor of the said land and on all other persons appearing to the Minister to have an interest in the said land, and
+
+(*b*) the Minister is unaware of any claim, other than the vendor’s, to an interest in the land, or if there is a burden registered in a register maintained under the Registration of Title Act, 1964, which affects the land, or where the Minister is aware of any other such claim, the burden or claim has been disposed of to the satisfaction of the Minister, the owner of the burden or the person making the claim, as may be appropriate, and any other person known to the Minister to be concerned.
+
+(4) Where the Minister makes a purchase order the following provisions shall have effect:
+
+(*a*) the order shall without further assurance vest in the Minister in fee simple the land for transfer free from all rights (including any public right) charges, burdens or other incumbrances or interests and from the claims of all persons who are interested in the said land, whether in respect of incumbrances or interests therein or otherwise howsoever, other than—
+
+(i) in case the said land is subject to a State annuity, that State annuity,
+
+(ii) such burdens (if any) as are specified in the order,
+
+(*b*) in case the relevant land is land held in commonage, as on and from the date of the order, the land shall cease to be held in common by the owners in common, and—
+
+(i) in case immediately before the making of the order the relevant land was held by the vendor and two or more other owners in common (being owners in common who are not willing to sell to the Minister their interests in the land), the order shall, without further assurance vest in fee simple in the other owners in common, and in only those owners in common, the remaining land which shall be held by them as tenants in common in shares proportionate to the proportions of their former shares, one to another, in the relevant land,
+
+(ii) in case immediately before the making of the order the relevant land was held by the vendor with only one other owner in common (being an owner in common who is not willing to sell to the Minister his interest in the land), the order shall vest in fee simple in the other owner in common the remaining land,
+
+(*c*) in respect of the interest of the vendor in the relevant land—
+
+(i) the order shall operate, as on and from the date thereof, to transfer and attach to the amount payable by the Minister to the vendor pursuant to *subsection (6)* of this section all estates, trusts and incumbrances subsisting in respect of that interest immediately before the date of the order, and
+
+(ii) the said amount shall as respects any rights or claims existing immediately before the date of the order, to or against the interest, represent that interest for all purposes,
+
+(*d*) in respect of the interest of owners in common (if any) apart from the vendor in the relevant land—
+
+(i) the order shall operate, as on and from the date of the order, to transfer to the interest of those owners in common in the remaining land all estates, trusts and incumbrances subsisting in respect of the interest of those owners in common in the relevant land immediately before the date of the order, and
+
+(ii) the interest of those owners in common in the remaining land shall, as respects any rights or claims existing immediately before the date of the order to or against the interest of those owners in common in the relevant land, represent the last-mentioned interest of those owners in common for all purposes.
+
+(5) Where land for transfer becomes vested in the Minister by virtue of an order made under this section, the registering authority under the Registration of Title Act, 1964, shall, upon production of a copy of the order under the official seal of the Minister, register the Minister in the appropriate register maintained under that Act as owner (within the meaning of that Act) of the land and the authority shall in addition cause such other alterations (if any) to be made in the appropriate such register as are appropriate having regard to the terms of the order.
+
+(6) On the making of a purchase order the Minister shall pay—
+
+(*a*) in case the Minister is then unaware of any claim to an interest in the land concerned, other than that of the vendor, or in case the Minister is aware of such other claim, either the Minister has received a statement referred to in *subparagraph (ii)* or *subparagraph (iii)* of *subsection (2) (e)* of this section or it has been agreed between the Minister and the person making the other claim that no payment is to be made by the Minister in respect of the claim, to the vendor an amount equal to the agreed purchase price,
+
+(*b*) in case a claim or claims to such an interest other than the claim of the vendor has or have been made and the Minister has agreed to make a payment in respect of such other claim, to any person making such other claim the amount which has been agreed in regard thereto and to the vendor such amount as has been agreed between the Minister and the vendor having regard to the other claim or claims, as the case may be.
+
+(7) A person who immediately prior to the making of a purchase order is entitled to an interest in the relevant land but who fails to bring to the notice of the Minister his claim to the interest prior to such making shall, as from such making, cease to have any interest in the said land and in lieu thereof shall be entitled to obtain compensation from the Minister in respect of the loss of the interest; provided that the application to the Minister for the compensation is made, within—
+
+(*a*) in case the person is a minor or a person of unsound mind, a period of six years from the date when such person ceases to be under such disability or dies whichever event first occurs, but not more than thirty years after such making,
+
+(*b*) in any other case, a period of six years from the date of the purchase order.
+
+F193[(8) (*a*) Compensation payable by the Minister pursuant to *subsection (7)* of this section shall, in default of agreement, be determined under and in accordance with the Lands Clauses Acts and, for the purposes of those Acts, the Minister shall be deemed to be the promoter of the undertaking and this section and the order under this section shall be deemed to be the special Act and, for the purposes of such determination, those Acts shall apply with any other necessary modifications and are incorporated (except in so far as they are inconsistent with and subject to any amendments or modification, express or implied, thereof effected by this Act) with this section.
+
+(*b*) Sections 69 to 83 of the Lands Clauses Consolidation Act, 1845, shall apply to any compensation payable by virtue of this subsection, and for the purposes of such application the Minister shall be deemed to be the promoter of the undertaking.
+
+(*c*) Where money is paid into court by the Minister under section 69, as applied by this subsection, of the Lands Clauses Consolidation Act, 1845, no costs shall be payable by the Minister to any person in respect of any proceedings for the investment, payment of income or payment of capital of such money.]
+
+(9) Subject to *paragraphs (a)* and *(b)* of *subsection (7)* of this section, compensation under that subsection may be paid to the personal representative of a person entitled thereto.
+
+(10) Where the Minister pays compensation under *subsection (7)* of this section pursuant to an application in that behalf, he may, if he thinks fit, require the person who agreed with him to sell an interest in land to which the application relates to pay to him—
+
+(*a*) in case the amount of the compensation does not exceed the amount paid by the Minister to the person pursuant to *subsection (6)* of this section, an amount equal to the compensation,
+
+(*b*) in case the compensation exceeds the amount so paid, the amount so paid,
+
+and in case a person fails to pay to the Minister an amount duly required to be paid to him under this section, that amount shall be recoverable by the Minister as a simple contract debt in any court of competent jurisdiction.
+
+(11) Where a purchase order is made in respect of land (in this subsection referred to as the transferred land) which immediately before the date of the order was subject in conjunction with other land to a State annuity, the following provisions shall apply:
+
+(*a*) the Minister shall give notice of the making of the order to the authority to whom the State annuity is payable,
+
+(*b*) the said authority shall, as soon as may be after the receipt of the notice, do one of the following things, namely—
+
+(i) apportion, with effect as on and from the day immediately preceding the date of the purchase order, the State annuity in such manner as the authority considers proper between the transferred land and all or part of the other land, or
+
+(ii) declare the whole of the State annuity to be exclusively charged, with effect as on and from the day immediately preceding the date of the purchase order, on either the transferred land or all or part of the other land.
+
+(12) A purchase order shall have attached thereto a map or plan showing the land to which the order relates.
+
+(13) No stamp duty shall be payable on any purchase order nor shall any fee be payable in respect of proceedings in the Land Registry under *subsection (5)* of this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F192: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 14(a), S.I. No. 371 of 2001.
+>
+> F193: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 14(b), S.I. No. 371 of 2001.
+>
+> **Modifications (not altering text):**
+>
+> C23: Functions under section transferred and references to “Minister for Finance” construed (2.03.1995) by *Heritage (Transfer of Departmental Administration and Ministerial Functions) Order 1995* (S.I. No. 61 of 1995), art. 4 and sch., subject to transitional provisions in arts. 5-9.
+>
+> 4.(1) There are hereby transferred to the Minister for Arts, Culture and the Gaeltacht the functions vested in the Minister for Finance by or under any enactment mentioned in the *Schedule* to this Order, immediately before the commencement of this Order.
+>
+> (2) References to the Minister for Finance contained in any Act or Instrument thereunder and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for Arts, Culture and the Gaeltacht.
+>
+> ...
+>
+> **SCHEDULE**
+>
+> ...
+>
+> Section 55 and subsections (1) to (4) of section 63 of the Wildlife Act, 1976 (No. 39 of 1976);
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E224: Previous affecting provision: functions under section transferred and references to “Minister for Energy” construed (17.12.1988) by *Wildlife (Transfer of Departmental Administration and Ministerial Functions) Order 1988* (S.I. No. 353 of 1988), art. 4, in effect as per art. 1(2), subject to transitional provisions in arts. 5-9; superseded as per C-note above.
+
+### 56. Management etc. of certain land acquired, held or used by the Minister.
+
+**56.**—F194[(1) All land acquired or vested in the Minister under the *Wildlife Acts, 1976 and 2000*, other than land which the Minister considers to be land to which this subsection and *subsection (2)* of this section should not apply and in relation to which a direction (which the Minister is hereby empowered to give) that those subsections shall not apply to the land is given by the Minister and is in force, shall stand held by the Minister for the purposes of the *Wildlife Acts, 1976 and 2000*, and may, as the Minister considers appropriate, at any time be managed and used for all or any of the following purposes, namely:
+
+(*a*) the conservation of wildlife;
+
+(*b*) the management and exploitation of hunting and fishing resources;
+
+(*c*) other purposes ancillary to any of the foregoing, including the growth of forest crops, the promotion of scientific knowledge, amenity, or recreational or educational purposes.]
+
+(2) Where the Minister considers that land, being land acquired by or vested in the Minister in the manner mentioned in *subsection (1)* of this section, is not suitable for any purpose mentioned in that subsection, such land may be managed or used or otherwise dealt with by the Minister in such manner as he thinks fit, and in case land so acquired or vested is not immediately required for use for such a purpose, pending its use therefor the land may be used in such manner as the Minister thinks fit.
+
+(3) The Minister may make such charges (if any) to the public as he considers appropriate for public access to, or use for car-parking or any other purpose of, any land managed or used by him for a purpose mentioned in *subsection (1)* of this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F194: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 60, S.I. No. 371 of 2001.
+
+### 57. State ownership of certain inland waters.
+
+**57.**—(1) Where the Minister is of opinion that there is a doubt as to whether or not any lake or other inland waters belong to the State but, in his opinion, it is likely that the lake or other inland waters do so belong, he may, after consultation with the Minister for Agriculture and Fisheries, publish a notice in the *Iris Oifigiúil* and in at least one newspaper circulating in the locality in which the lake or other inland waters are situate requiring either, as may be stated in the notice—
+
+(*a*) any person who claims to have or to be entitled to enjoy an interest in or over the lake or other inland waters (which shall be specified in the notice) or, in the case of a lake, in or over the lakeshore accretion (if any) from the lake, or
+
+(*b*) any person who claims to have or to be entitled to enjoy an interest, other than a right of fishing, in or over the lake or other inland waters (which shall be so specified) or in or over such lakeshore accretion,
+
+to furnish to the Minister within a period specified in the notice (being a period of not less than two months from the date of the publication in the *Iris Oifigiúil*) particulars of the interest together with an abstract (accompanied by copies of all abstracted documents) of his title to the interest or of the grounds on which the claim is based.
+
+(2) Where a person furnishes to the Minister particulars required by a notice under *subsection (1)* of this section, the Minister shall pay to the person all costs necessarily and reasonably incurred by him in relation thereto.
+
+(3) Where a notice is published under *subsection (1)* of this section, if in relation either to the whole of the inland waters and lakeshore accretion (if any) to which the notice relates or to a part of those waters or that lakeshore accretion (if any) either—
+
+(*a*) there is not furnished by any person within the period specified particulars of an interest duly supported by the abstract and copies of documents required by the notice, or
+
+(*b*) the period so specified has expired and the Minister acquires by agreement all interests particulars of which have been furnished to him pursuant to this section,
+
+then, the Minister may by order declare that the fee simple—
+
+(i) in case the requirements of *paragraph (a)* or *paragraph (b)* of this subsection are complied with as regards the whole of the said inland waters and lakeshore accretion (if any), in the land covered by the waters to which the notice relates or, in the case of a lake, comprised in any lakeshore accretion from the lake to which the notice relates, belongs to the State,
+
+(ii) in case the said requirements are complied with only as regards a particular part of the said inland waters, or a particular part of any such lakeshore accretion, or a particular part of the said inland waters and lakeshore accretion, in the land covered by the said part of the said inland waters, or comprised in the said part of the said lakeshore accretion, or in such land and so comprised, as may be appropriate, belongs to the State,
+
+together with any interest in or over the said land or waters which is inferior to the aforesaid fee simple; provided that in case the particulars required by the notice to be furnished to the Minister are particulars of interests other than rights of fishing, the terms of the declaration shall be framed so as not to include rights of fishing.
+
+(4) A declaration made under this section shall operate as regards the land to which it relates in accordance with its terms and shall be conclusive evidence of the matters declared and shall not be questioned in any legal proceedings.
+
+(5) Where the Minister makes a declaration under this section and a person subsequently proves that but for the making of the declaration he would have an interest (whether vested or contingent) in or over the land or lake or other inland waters to which the declaration relates, the person shall be entitled to be paid compensation by the Minister in respect of the interest.
+
+(6) A claim under this section for payment of compensation shall, in default of agreement, be determined by arbitration under the Act of 1919 in like manner in all respects as if such claim arose in relation to compulsory acquisition of land.
+
+(7) Nothing in this section shall restrict, prejudice or affect the functions of sanitary authorities or the Minister for Local Government under the Local Government (Sanitary Services) Acts, 1878 to 1964, or the Water Supplies Act, 1942.
+
+### 58. Right to hunt on or over territorial seas of State vested in State.
+
+**58.**—(1) It is hereby declared that the right to hunt fauna in or over the portion of the sea which is the F195[territorial sea of the State] belongs to the State.
+
+(2) It shall not be lawful for a person without the permission of the Minister, to hunt fauna on, in or over any part of the portion of the sea mentioned in *subsection (1)* of this section.
+
+F196[(3) Any person who contravenes *subsection (2)* of this section shall—
+
+(*a*) commit a trespass, and
+
+(*b*) be guilty of an offence.]
+
+F197[(4) Nothing in *paragraph (a)* of *subsection (3)* of this section shall operate to prejudice any legal proceedings which may be instituted apart from that paragraph and a person who contravenes *subsection (2)* of this section may, if the Minister thinks fit, be sued by the Minister for trespass in any court of competent jurisdiction and for the purpose of giving jurisdiction under this Act the trespass shall be deemed to have been committed where the person complained against may be.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F195: Substituted (22.11.2021), by *Maritime Jurisdiction Act 2021* (28/2021), s. 20(3) and sch. 2 item 8, S.I. No. 601 of 2021.
+>
+> F196: Substituted (31.07.2001), by *Wildlife (Amendment) Act 2000* (38/2000), s. 61(a), S.I. No. 371 of 2001.
+>
+> F197: Substituted (31.07.2001), by *Wildlife (Amendment) Act 2000* (38/2000), s. 61(b), S.I. No. 371 of 2001.
+
+### 59. Regulations permitting and regulating public access to certain land.
+
+**59.**—(1) Subject to *subsections (3)*, *(4)* and *(7)* of this section, the Minister may make regulations permitting the public generally or any particular class or section of the public or the members of any body of persons which is of a particular class or description or the members of a particular body of persons, to have access to and use in accordance with the regulations—
+
+(*a*) foreshore which is the property of the State,
+
+(*b*) land (in this section subsequently referred to as a refuge) to which a designation order applies,
+
+(*c*) any land (including land covered by inland waters) to which an establishment order applies and which is land owned by the State F198[whether or not the Minister has a joint or several interest in such land] (which land is so referred to as a State land nature reserve),
+
+F199[(*cc*) any other land held by the Minister for the purposes of the *Wildlife Acts, 1976 and 2000*,]
+
+(*d*) land other than foreshore mentioned in *paragraph (a)* of this subsection, which forms the seabed under part of the F200[territorial sea of the State] and to which an establishment order applies (which land is so referred to as a seabed nature reserve).
+
+(2) Regulations under this section may apply to all foreshore which is the property of the State, every refuge, State land nature reserve and seabed nature reserve, or to any such foreshore or any refuge, State land nature reserve or seabed nature reserve which is of a particular class or description, or to particular such foreshore or a particular refuge, State land nature reserve or F201[seabed nature reserve, or to all or any other land held by the Minister for the purposes of the *Wildlife Acts, 1976 and 2000.*]
+
+F203[(3) Regulations under this section which apply to foreshore shall regulate access to or use of such foreshore to such extent as the Minister considers necessary for the conservation of wildlife or of a wildlife habitat or of geological or geomorphological features, as the case may be, and shall be made—
+
+(*a*) after consultation with the Commissioners,
+
+(*b*) with the consent of the Minister for Public Expenditure and Reform, and
+
+(*c*) where the regulations relate to foreshore in relation to which functions are vested in a Minister of the Government, other than the Minister, with the consent of that other Minister of the Government.]
+
+(4) Regulations under this section which apply to a refuge shall regulate access to or use of the refuge to such extent as is necessary to enable the relevant designation order to have full effect.
+
+(5) (*a*) Subject to *subsection (7)* of this section and *paragraph (b)* of this subsection, the Minister may by regulations permit and regulate access to and use by the public generally of land to which either a recognition order applies or an agreement under section 18 of this Act relates.
+
+(*b*) Regulations shall be made by the Minister under this subsection only on the request and with the agreement of—
+
+(i) in case the regulations relate to land to which a recognition order applies, the owner of such land,
+
+(ii) in case the regulations relate to land to which an agreement under the said *section 18* relates, all the parties to the agreement (other than the Minister, where the Minister is such a party).
+
+(6) Subject to *subsection (7)* of this section, the Minister may, at the request and with the agreement of a board established pursuant to *section 14* of this Act, by regulations permit and regulate the access to and use by the public generally of any land held by that board.
+
+(7) Regulations made—
+
+(*a*) under *subsection (5)* or *subsection (6)* of this section,
+
+(*b*) under *subsection (1)* of this section which regulate access to foreshore or to a refuge (not being a refuge held by the Minister) to which, immediately before the commencement of this section, the public generally had access,
+
+shall be made by the Minister only after consultation with any planning authority any part of whose area the relevant foreshore adjoins or within whose area the relevant land, or any part thereof, is situate.
+
+(8) (*a*) Regulations under this section which have effect in relation to land held by the State shall, if the State ceases to hold the land to which they apply, thereupon cease to have effect in relation to the land.
+
+(*b*) Regulations under this section which have effect in relation to land to which a designation order or a recognition order, as the case may be, for the time being applies shall, if the order is revoked, thereupon cease to have effect in relation to the land.
+
+(*c*) Regulations made pursuant to *subsection (6)* of this section shall cease to have effect if and when the board at whose request they were made is dissolved or if it otherwise ceases to hold the land in respect of which the regulations were made.
+
+(9) Where the Minister makes regulations under this section, he shall, as soon as may be after such making, cause a copy of the regulations to be sent to the Board and to any planning authority—
+
+(*a*) in case the regulations affect foreshore, any part of whose area that foreshore adjoins,
+
+(*b*) in any other case, within whose area the refuge or other land concerned, or any part thereof, is situate.
+
+(10) Where the Minister decides to permit, whether by means of bye-laws, rules, regulations or otherwise, the public generally to have access, subject to specified conditions, for educational or leisure purposes to land held by the Minister, he shall, as soon as may be, give to the Board and to any planning authority in whose area the land or any part thereof, is situate particulars of his decision and in case the Minister varies or revokes such a decision he shall likewise inform the Board and such planning authority of the variation or revocation.
+
+(11) In case the Minister permits, subject to specified conditions and whether by means of bye-laws, rules, regulations or otherwise, access for educational or leisure purposes to land held by him, any person who fails to comply, whether by act or omission, with any such condition shall be guilty of an offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F198: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 62(a)(i), S.I. No. 371 of 2001.
+>
+> F199: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 62(a)(ii), S.I. No. 371 of 2001.
+>
+> F200: Substituted (22.11.2021), by *Maritime Jurisdiction Act 2021* (28/2021), s. 20(3) and sch. 2 item 9, S.I. No. 601 of 2021.
+>
+> F201: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 62(b), S.I. No. 371 of 2001.
+>
+> F202: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 62(c), S.I. No. 371 of 2001.
+>
+> F203: Substituted (14.06.2021) by *Planning and Development, Heritage and Broadcasting (Amendment) Act 2021* (11/2021), s. 12(1), S.I. No. 279 of 2021, subject to continuation in force of regulations made under subs. (3) as per s. 12(2).
+>
+> **Modifications (not altering text):**
+>
+> C24: Functions transferred and references to Department of and Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media construed (24.06.2021) by *Heritage (Transfer of Departmental Administration and Ministerial Functions) Order 2021* (S.I. No. 302 of 2021), arts. 2, 3 and sch. part 1, in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by this Order are transferred to the Department of Housing, Local Government and Heritage.
+>
+> (2) References to the Department of Tourism, Culture, Arts, Gaeltacht, Sport and Media contained in any Act or any instrument made under an Act and relating to any administration and business transferred by paragraph (1) shall, from the commencement of this Order, be construed as references to the Department of Housing, Local Government and Heritage.
+>
+> 3\. (1) The functions vested in the Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media–
+>
+> (*a*) by or under any of the provisions of the Acts specified in Part 1 of the Schedule,
+>
+> (*b*) under the Regulations specified in Part 2 of the Schedule, and
+>
+> (*c*) to make a recommendation to which section 12(3)(b)(iii) of the Planning and Development Act 2000 (No. 30 of 2000) applies and to make observations to which section 12(3)(b)(iv) of that Act applies,
+>
+> are transferred to the Minister for Housing, Local Government and Heritage.
+>
+> (2) References to the Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media contained in any Act or instrument made under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Housing, Local Government and Heritage.
+>
+> SCHEDULE
+>
+> *Article 3*
+>
+> **Part 1**
+>
+> ...
+>
+> Section 59 of the Wildlife Act 1976 (No. 39 of 1976) in so far as it relates to foreshore which is the property of the State
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E225: Power pursuant to section exercised (3.06.1981) by *Nature Reserve (Lough Hyne) Regulations 1981* (S.I. No. 207 of 1981).
+>
+> E226: Previous affecting provision: subs. (3) substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 62(c), S.I. No. 371 of 2001; substituted as per F-note above.
+
+### 60. Creation of rights of way.
+
+**60.**—F204[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F204: Repealed (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 5(c), S.I. No. 371 of 2001.
+
+### 61. Extinguishment of easements.
+
+**61.**—F205[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F205: Repealed (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 5(c), S.I. No. 371 of 2001.
+
+## PART VAmendment of Enactments — PART V — Amendment of Enactments
+
+### 62. Amendment of section 3 of Firearms Act, 1925.
+
+**62.**—Section 3 of the Firearms Act, 1925, is hereby amended by—
+
+(*a*) the addition to subsection (1) of the following :
+
+“but before granting the certificate the Superintendent shall require the person to state in writing whether or not, if the certificate is granted, he intends to use the firearm to which the application relates to kill exempted wild mammals within the meaning of the Wildlife Act, 1976, (other than hares) and in case the person indicates that he intends so to use the firearm, the certificate shall be granted only on the production by the applicant of a current licence granted to him by the Minister for Lands pursuant to section 29 (1) of that Act.”; and
+
+(*b*) the addition to subsection (2) of—
+
+“but before granting the certificate the Minister shall require the person applying for the certificate to state in writing whether or not, if the certificate is granted, he intends to use the firearm to which the application relates to kill exempted wild mammals within the meaning of the Wildlife Act, 1976, or protected wild birds within such meaning and to which an order under section 24 of that Act for the time being applies, and in case the person indicates that he so intends to use that firearm, the Minister shall grant the certificate only on production by the applicant of a current licence granted to him by the Minister for Lands pursuant to section 29 (2) of that Act.”.
+
+### 63. Amendment of sections 9, 21, 22, 23 and 58 of Act of 1946.
+
+**63.**—(1) F206[...]
+
+(2) F206[...]
+
+(3) F206[...]
+
+(4) F206[...]
+
+(5) Section 58 of the Act of 1946 is hereby amended as follows:
+
+(*a*) subsection (1) shall have effect as if the words “rabbits or”, wherever they occur, were deleted, and
+
+(*b*) the following is hereby substituted for subsection (3):
+
+“(3) Each of the following shall be vermin for the purposes of this section—
+
+(*a*) any wild bird which is not a protected wild bird within the meaning of the Wildlife Act, 1976,
+
+(*b*) any wild animal (other than a bird) which is not a protected wild animal within the meaning of that Act.”
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F206: Repealed (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 5(c), S.I. No. 371 of 2001.
+>
+> **Editorial Notes:**
+>
+> E227: Previous affecting provision: functions under subss. (1)-(4) transferred and references to “Minister for Finance” construed (2.03.1995) by *Heritage (Transfer of Departmental Administration and Ministerial Functions) Order 1995* (S.I. No. 61 of 1995), art. 4 and sch., subject to transitional provisions in arts. 5-9; subsections repealed as per F-note above.
+>
+> E228: Previous affecting provision: functions under subss. (1)-(4) transferred and references to “Minister for Energy” construed (17.12.1988) by *Wildlife (Transfer of Departmental Administration and Ministerial Functions) Order 1988* (S.I. No. 353 of 1988), art. 4, in effect as per art. 1(2), subject to transitional provisions in arts. 5-9; superseded as per E-note above.
+
+### 64. Amendment of First Schedule to State Property Act, 1954.
+
+**64.**—The First Schedule to the State Property Act, 1954, is hereby amended by the substitution in paragraph 1 of “the Forestry Act, 1946, or under the Wildlife Act, 1976” for “the Forestry Act, 1946 (No. 13 of 1946)” and the said paragraph 1, as so amended, is set out in the following Table :
+
+TABLE
+
+1\. Any land vested in the Minister for Lands by virtue of the Forestry (Redistribution of Public Services) Order, 1933 (S.R. & O., No. 158 of 1933), or acquired under the Forestry Acts, 1919 and 1928, or under the Forestry Act, 1946, or under the Wildlife Act, 1976.
+
+### 65. Amendment of Firearms Act, 1964.
+
+**65.**—(1) The Firearms Act, 1964, is hereby amended by—
+
+(*a*) the substitution of “protected wild animals or protected wild birds within the meaning of the Wildlife Act, 1976,” for “game” both in section 3 (1) and section 12 (1),
+
+(*b*) the addition to section 3 (2) of “, but an order under this subsection shall not extend for more than a month a period mentioned in subsection (1) of this section”, and
+
+(*c*) the substitution both in subsection (3) and in subsection (4) (*a*) of section 3 of “such protected wild animals or wild birds” for “game”.
+
+(2) Sections 3 (1), 3 (2), 3 (3), 3 (4) (*a*) and 12 (1) of the Firearms Act, 1964, as amended by subsection (1) of this section, are set out in paragraphs 1, 2, 3, 4 and 5, respectively, of the Table to this section.
+
+TABLE
+
+1.—(1) The Minister may, on its being represented to him by the Minister for Lands that it is necessary to do so in the interests of the preservation of protected wild animals or protected wild birds within the meaning of the Wildlife Act, 1976, make an order prohibiting the use or carriage of firearms or of firearms of such class or classes as may be specified in the order in a public place or on any lands either throughout the State or in such area or areas as may be specified in the order during such period, not exceeding one month, as may be specified in the order.
+
+2.—(2) The Minister may by order, made after consultation with the Minister for Lands, amend or revoke an order under this section, including an order under this subsection, but an order under this subsection shall not extend for more than a month a period mentioned in subsection (1) of this section.
+
+3.—(3) An order under this section shall not apply in relation to the use or carriage of firearms by members of the Defence Forces or the Garda Síochána or to the use or carriage of a firearm by a person to whom the Superintendent of any district has granted a permit which is in force to use and carry a firearm for a purpose (other than the shooting of such protected wild animals or wild birds) specified in the permit in that district during a period specified in the permit, if the firearm is being used and carried in accordance with the terms of the permit.
+
+4.—(4) (*a*) Whenever an order under subsection (1) of this section is in force in relation to any district, the Superintendent of that district may, in his absolute discretion, grant to any person a permit to use and carry in that district for a purpose (other than the shooting of such protected wild animals or wild birds) specified in the permit during a period specified in the permit a firearm to the use or carriage of which the order applies.
+
+5.—(1) Where the firearm described in a firearm certificate is a shotgun, the certificate may be expressed, and in such case shall operate, to authorise the use of the gun only for killing animals or birds other than protected wild animals or protected wild birds within the meaning of the Wildlife Act, 1976, by the person to whom the certificate is granted either (as may be expressed in the certificate)—
+
+(*a*) on land occupied by him, or
+
+(*b*) on land occupied by another person.
+
+### 66. Amendment of section 69 of Registration of Title Act, 1964.
+
+**66.**—Section 69 of the Registration of Title Act, 1964, is hereby amended by the insertion in subsection (1) of the following paragraph after paragraph (*r*):
+
+“(*rr*) an agreement under section 18 of the Wildlife Act, 1976, which provides that it shall be enforceable against persons deriving title to the relevant land under a party to the agreement;”.
+
+### 67. Restriction of Part V of Protection of Animals (Amendment) Act, 1965.
+
+**67.**—Part V of the Protection of Animals (Amendment) Act, 1965, shall be deemed to apply neither to protected wild birds nor to protected wild animals.
+
+## PART VIMiscellaneous — PART VI — Miscellaneous
+
+### 68. Inspection of land.
+
+**68.**—F207[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F207: Repealed (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 5(c), S.I. No. 371 of 2001.
+
+### 69. Attempts etc. and miscellaneous other offences.
+
+**69.**—(1) A person who attempts to commit an offence under this Act, or who aids, abets, counsels or procures the commission of an offence under this Act, or who solicits or incites any other person to commit an offence under this Act shall be guilty of an offence.
+
+(2) Any person who, whether by act or omission, contravenes or fails to comply with regulations under this Act shall be guilty of an offence.
+
+(3) (*a*) A person who refuses or who fails to give his correct name and address on a demand therefor being duly made pursuant to *section 72* or *73* of this Act shall be guilty of an offence.
+
+(*b*) Any person who without reasonable excuse fails to comply with a requirement made by a member of the Garda Síochána or by an authorised person under *section 72* or *73* of this Act or who by act or omission impedes or obstructs such a member or person in the lawful exercise of a power conferred by this Act shall be guilty of an offence and if, in the case of a continuing offence, the impediment or obstruction is continued after conviction, he shall be guilty of a further offence.
+
+F208[(c) Any person who assaults an authorised person in the exercise of any power conferred on him or her by this Act shall be guilty of an offence.]
+
+(4) A person who, in purported compliance with any obligation to give information to which he is subject by virtue of this Act, gives any information which he knows to be false in a material particular or recklessly gives information which is so false shall be guilty of an offence.
+
+(5) Any person who conceals from a person lawfully exercising a power under *section 72* or *73* of this Act F209[any specimen of flora, fauna, fossils or minerals] or any F209[part, product or derivative] of such specimen or any thing which is a thing mentioned in F210[*section* *72(7)* or *73(1)*] of this Act shall be guilty of an offence.
+
+(6) Any person who contravenes a condition attached to a licence F211[or permission] granted by the Minister under this Act shall be guilty of an offence.
+
+(7) Any person who, for the purpose of obtaining, whether for himself or another, the grant or renewal of a licence or permission under this Act—
+
+(*a*) makes any statement or gives information which he knows to be false in a material particular or recklessly gives information which is so false, or
+
+(*b*) produces or otherwise makes use of any book, record or other document which to his knowledge contains any statement or information which he knows to be false in a material particular,
+
+shall be guilty of an offence.
+
+F212[(7A) Where any person uses or allows or causes to be used a vessel, aircraft or mechanically propelled vehicle as an aid to the commission of an offence under the provisions of the *Wildlife Acts, 1976 and 2000*, or of any instrument made under those Acts, that person shall be guilty of an offence.]
+
+F213[(7B) A statement or admission made by a person pursuant to a requirement to give information under *section 72* or *73* shall not be admissible as evidence in proceedings against the person for an offence (other than an offence under *subsection (3)*).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F208: Substituted (18.07.2018) by *Heritage Act 2018* (15/2018), s. 9(b)(i), commenced on enactment.
+>
+> F209: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 63(b), S.I. No. 371 of 2001.
+>
+> F210: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 63(c), S.I. No. 371 of 2001.
+>
+> F211: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 63(d), S.I. No. 371 of 2001.
+>
+> F212: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 63(e), S.I. No. 371 of 2001.
+>
+> F213: Inserted (18.07.2018) by *Heritage Act 2018* (15/2018), s. 9(b)(ii), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E229: Previous affecting provision: subs. (3)(c) inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 63(a), S.I. No. 371 of 2001; substituted as per F-note above.
+
+### 70. Prosecution of offences.
+
+**70.**—(1) Summary proceedings for any offence under this Act may be prosecuted by the Minister.
+
+(2) Subject to *section 44 (4)* of this Act, summary proceedings for any offence under this Act may be prosecuted by a person who is neither the Minister nor a member of the Garda Síochána with the consent of the Minister or an officer of the Minister, F214[...], nominated by the Minister for the purpose.
+
+(3) Notwithstanding section 10 (4) of the Petty Sessions (Ireland) Act, 1851, proceedings for any offence under this Act may be instituted at any time within one year after the date of the offence.
+
+F215[(4) Nothing in this section shall prevent the prosecution under the Customs Acts for offences committed under the said Acts in respect of a contravention of *section 53A* of this Act.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F214: Deleted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 64(a), S.I. No. 371 of 2001.
+>
+> F215: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 64(b), S.I. No. 371 of 2001.
+
+### 71. Onus of proof.
+
+**71.**—In any proceedings for an offence under this Act, it shall not be necessary to—
+
+(*a*) negative by evidence the existence of any order under *section 24* or *25* of this Act or any licence or permission under this or any other Act,
+
+(*b*) prove that any act which is the subject of the proceedings was not caused by or the result or effect of, or was not consequent upon any other thing lawfully done,
+
+and the onus of proving such licence or permission or that such act was so caused or was such a result or effect or was so consequent upon shall be on, in the case of such a licence or permission, the person seeking to avail himself thereof, or in any other case, the person against whom the proceedings are instituted.
+
+### 72. Powers of Garda Síochána and authorised persons.
+
+**72.**—F216[(1) (*a*) The Minister may appoint in writing, and for such of the purposes of either or both this Act and the CITES Regulations as the Minister shall specify, a person to be an authorised person for the purposes so specified.
+
+(*b*) In appointing a person to be an authorised person for specified purposes, the Minister may attach limitations to the exercise of functions by the authorised person by reference to all or any of the following, that is to say:
+
+(i) the nature of the functions which such person may exercise or perform, and
+
+(ii) the time, place and circumstances in which such person may exercise or perform such functions.
+
+(*c*) Where a person has been appointed to be an authorised person under this subsection, the person shall hold office until—
+
+(i) the appointment is terminated by the Minister, or
+
+(ii) a written resignation signed by the person is received by the Minister.
+
+(*d*) The Minister may terminate the appointment of an authorised person appointed under *subsection (1)* of this section by giving one month’s notice, in writing, to the person.
+
+F217[(2) A member of the Garda Síochána or an authorised person who has reasonable grounds for suspecting that a person has committed an offence under the *Wildlife Acts 1976* to *2018* may, at all reasonable times—
+
+(*a*) stop and search the person,
+
+(*b*) require the person to give his or her name and address and, if requested, to verify the information given,
+
+(*c*) require the person to give such information and assistance as the member or authorised person, as the case may be, considers necessary for the purposes of exercising his or her functions under the *Wildlife Acts 1976* to *2018*, and
+
+(*d*) require the person to declare whether he or she has in his or her possession and, if such member or authorised person, as the case may be, considers it necessary, to produce on demand for examination—
+
+(i) any specimen of fauna, flora, fossils or minerals or any part, product or derivative of any such specimen,
+
+(ii) any licence or permission granted by the Minister under the *Wildlife Acts 1976* to *2018* (including any certificate deemed, pursuant to *subsection (5)* or *(5A)* of *section 29*, to be a licence so granted),
+
+(iii) in the case of a person who is resident in a Member State (other than the State), F218[a European Firearms Pass within the meaning of Article 1(3) of Directive (EU) 2021/555 of the European Parliament and of the Council of 24 March 2021[^2] on control of the acquisition and possession of weapons (codification)[^3]] issued to him or her by the competent authority of that Member State, or any other permit, licence, authorisation or other document to hold a firearm duly issued by a competent authority of such a Member State,
+
+(iv) any permit or certificate issued for the purposes of the CITES Regulations together with any supporting documents in the person’s possession and any permit or certificate to which Article 11 of Council Regulation (EC) No. 338/97 of 9 December 1996[^4] relates, or
+
+(v) any thing which is mentioned in *subsection (7)* which is in the person’s possession,
+
+and such member or authorised person may seize and retain any specimen or part, product or derivative of a specimen or any thing so produced which appears to him or her to be something which might be required as evidence in proceedings for an offence under the *Wildlife Acts 1976* to *2018*.]]
+
+F217[(2A) A member of the Garda Síochána or an authorised person may, if such member or authorised person has reasonable grounds for suspecting from the activity of any person (in this subsection referred to as the "suspected person") that an offence under any provision of the *Wildlife Acts 1976* to *2018* is being, or has been, committed, in the presence of such member or person, by the suspected person and that person has, or had at the time of being so suspected, in his or her possession, or under his or her control, any thing which is mentioned in *subsection (7)* or any other thing capable of being used to commit an offence, then such member or authorised person may, without prejudice to any other function exercisable by such member or person—
+
+(*a*) require the suspected person—
+
+(i) to desist from continuing or recommencing that activity,
+
+(ii) to give to the member or authorised person, as the case may be, his or her name and address and, if requested, to verify the information given, and
+
+(iii) to give to the member or authorised person, as the case may be, such information and assistance as the member or authorised person considers necessary for the purposes of exercising his or her functions under the *Wildlife Acts 1976* to *2018*,
+
+and
+
+(*b*) arrest without warrant or cause any other person acting under direction of such member or authorised person to arrest without warrant or to assist in arresting the suspected person if that person—
+
+(i) continues or recommences that activity,
+
+(ii) fails to give his or her name or address or any information or assistance requested or required, or
+
+(iii) gives a name or address or information which the member or authorised person has reasonable grounds to suspect is false or misleading,
+
+and where the suspected person has been so arrested by an authorised person, the authorised person shall, as soon as is practicable in the circumstances, deliver the suspected person into the custody of a member of the Garda Síochána to be dealt with according to law.]
+
+F217[(3) A member of the Garda Síochána or an authorised person may, if he or she has reasonable grounds for suspecting that a person is committing or has committed an offence under any provision of the *Wildlife Acts 1976* to *2018*, at all reasonable times enter any land (other than a dwelling save with the consent of its occupier) to which the suspicion relates and may also, whether on that land or otherwise—
+
+(*a*) search any vehicle, vessel or aircraft or any mechanically-propelled vehicle (within the meaning of the Road Traffic Act 1961) used or suspected of being used to transport, export or import any specimen of fauna, flora, fossils or minerals or any part, product or derivative of any such specimen contrary to any provision of the *Wildlife Acts 1976* to *2018*, and such member or authorised person, for the purpose of carrying out the search, may, if he or she thinks fit, require the person who for the time being is in control of the vehicle, vessel or aircraft or mechanically propelled vehicle to bring it to a stop or refrain from moving it,
+
+(*b*) open and examine any package, parcel, box or other container which he or she reasonably suspects is being so used,
+
+(*c*) require the person who is for the time being in control of a vehicle, vessel, aircraft or any mechanically propelled vehicle mentioned in paragraph (a) or any other person found thereon or therein to—
+
+(i) give his or her name and address,
+
+(ii) give such information and assistance as the member or authorised person, as the case may be, considers necessary for the purposes of exercising his or her functions under this Act, and
+
+(iii) produce for examination any book, record or other document which relates to any specimen of fauna or flora and which is in the person’s possession or under his or her control and, if known to the person, the name and address of the owner of any specimen of fauna or flora or any part or product of fauna or flora found in the course of the search,
+
+(*d*) inspect and, if he or she thinks fit, take copies of any entry in any book, record or other document produced pursuant to a requirement made under this subsection,
+
+(*e*) if—
+
+(i) such member or authorised person has reasonable grounds for suspecting that any offence has been or is being committed under the *Wildlife Acts 1976* to *2018* with or in relation to anything found in the course of the search,
+
+(ii) he or she reasonably suspects that any vehicle, vessel, aircraft or mechanically propelled vehicle has been or is being used in committing an offence under the *Wildlife Acts 1976* to *2018* and it appears to him or her that it might be required in evidence in proceedings for an offence under those Acts, or
+
+(iii) a document so found is a record or other document which the member or person has reason to believe might be required as evidence in proceedings for an offence under the *Wildlife Acts 1976* to *2018*,
+
+the member or authorised person may seize and detain it and anything else so found which appears to him or her to be something which might be required as evidence in proceedings for an offence under the *Wildlife Acts 1976* to *2018*, and
+
+(*f*) require, if considered necessary in order to determine the identity or ancestry of any specimen of fauna, the taking from that specimen of a sample of blood or tissue but only if—
+
+(i) the sample is taken by a veterinary practitioner registered under Part 4 of the Veterinary Practice Act 2005, and
+
+(ii) in the opinion of the veterinary practitioner the taking of such a sample will not cause lasting harm to the specimen.]
+
+(4) (*a*) A member of the Garda Síochána or an authorised person may at any time for the purpose of exercising the powers conferred on him by *subsection (2)* and *paragraph (a)* of *subsection (3)* of this section enter on any land.
+
+(*b*) *Paragraph (a)* of this subsection shall not be construed as enabling a member of the Garda Síochána or an authorised person to enter F219[any dwelling].
+
+(5) Every person authorised by the Minister under *subsection (1)* of this section shall be furnished with a certificate of his authorisation and when exercising a power under this Act shall, if requested by any person thereby affected, produce such certificate for inspection by the person.
+
+(6) Nothing in this section shall operate to prejudice any power to search or to seize or detain property which may be exercised by a member of the Garda Síochána apart from this section.
+
+F220[(7) The things referred to in *subsections (2)* and *(2A)* of this section are—
+
+(*a*) a dog or a bird or other animal suspected of being capable of use—
+
+(i) to hunt, pen, retrieve or otherwise be involved in the capture of fauna, or
+
+(ii) to find or assist in the finding of flora,
+
+(*b*) a firearm, trap, snare, net, line, hook, arrow, dart or spear, or a similar device, instrument or missile calculated or likely to cause death or bodily injury to or causes to be captured alive, any wild bird or wild animal coming in contact with it,
+
+(*c*) birdlime or any substance of a like nature,
+
+(*d*) poisonous, poisoned or stupefying bait, tracer shot or a gun or explosive mentioned in *section 33(2)* of this Act, or any containers of gas or smoke or chemical wetting agents mentioned in *section 34(1)* of this Act,
+
+(*e*) a decoy or electrical or other instrument, device or appliance mentioned in *section 35(1)* or *38* of this Act, and
+
+(*f*) any type of material or form of equipment used for geological or geomorphological purposes.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F216: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 65(a), S.I. No. 371 of 2001.
+>
+> F217: Substituted (18.07.2018) by *Heritage Act 2018* (15/2018), s. 9(c)(i), commenced on enactment.
+>
+> F218: Substituted (27.04.2022) *European Union (Acquisition and Possession of Weapons and Ammunition) Regulations 2022* (S.I. No. 209 of 2022), reg. 35(b).
+>
+> F219: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 65(c), S.I. No. 371 of 2001.
+>
+> F220: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 65(d), S.I. No. 371 of 2001.
+>
+> **Editorial Notes:**
+>
+> E230: Previous affecting provision: subs. (2) amended (10.07.2010) by *Wildlife (Amendment) Act 2010* (19/2010), s. 6, commenced on enactment.
+>
+> E231: Previous affecting provision: subs. (2) substituted, (2A) inserted and (3) amended (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 65(a), (b), S.I. No. 371 of 2001; substituted as per F-note above.
+
+### 73. Search warrants.
+
+**73.**—F221[(1) If a Judge of the District Court is satisfied by information on oath of an authorised person or a member of the Garda Síochána that there are reasonable grounds for suspecting that a person is in possession on any premises or other land of any specimen of fauna, flora, fossils or minerals or any part, product or derivative of any such specimen or anything mentioned in *section 72(7)* of this Act or anything liable or believed to be liable to forfeiture under this Act and that as regards the specimen, part, product, derivative or thing an offence under this Act has been or is being committed, the Judge may issue a search warrant under this section.]
+
+(2) Subject to *subsection (3)* of this section, a warrant issued under this section shall be expressed and shall operate to authorise—
+
+(*a*) in case the relevant information is sworn by a member of the Garda Síochána, a member of the Garda Síochána named in the warrant, accompanied by such other members of the Garda Síochána or such authorised persons as may be reasonably necessary,
+
+(*b*) in case the relevant information is sworn by an authorised person, an authorised person named in the warrant, accompanied by such other persons as may be reasonably necessary,
+
+at any reasonable time or times within seven days of the issue of the warrant to—
+
+(i) enter and search, if need be by force, the premises or other land named in the warrant,
+
+(ii) require any person found on such premises or other land to furnish to him his name and address,
+
+F222[(iia) require a person referred to in *paragraph (ii)* to give such information and assistance as he or she considers necessary for the purposes of exercising his or her functions under the *Wildlife Acts 1976* to *2018*,]
+
+(iii) require a person who is in occupation or is in control or is concerned in the management of the premises or other land to furnish to him his name and address and to produce,
+
+(A) any thing mentioned in *subsection (1)* of this section,
+
+(B) any books, records or other documents which relate to any thing so mentioned and which are in any such person's possession or under his control,
+
+and if known to such person, to furnish to him the name and address of the owner of any thing so produced,
+
+(iv) inspect and, if he thinks fit, take copies of any entry in any book, record or other document produced in pursuance of a requirement made pursuant to the warrant,
+
+and if the member or authorised person so named has reasonable grounds for suspecting that either,
+
+(A) an offence has been or is being committed under this Act with or in relation to anything found in the course of the search, or
+
+(B) a document so found is a record or other document which the member or authorised person has reason to believe may be required as evidence in proceedings for an offence under this Act,
+
+the member or authorised person may seize and detain that thing or document and anything else so found which appears to him to be something which might be required as evidence in proceedings for an offence under this Act.
+
+(3) The powers conferred on an authorised person by a warrant issued under this section shall be exercisable by the person as regards a dwelling only if, and only for so long as, he is accompanied by a member of the Garda Síochána.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F221: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 67, S.I. No. 371 of 2001.
+>
+> F222: Inserted (18.07.2018) by *Heritage Act 2018* (15/2018), s. 9(d), commenced on enactment.
+
+### 74. Penalties.
+
+F223[**74.**—(1) Where a person commits an offence under the *Wildlife Acts 1976* to *2018*, not being an offence mentioned in *subsection (2)*, *(3)* or *(4)*, such person is liable on summary conviction to a class A fine.
+
+(2) Where a person commits an offence under *section 28*, *33*, *34* or *38* (not being an offence to which *subsection (3)* applies) such person is liable—
+
+(*a*) on summary conviction, to a class A fine or to imprisonment for a term not exceeding 6 months or to both, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €100,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(3) Where a person commits an offence under *Part II* (other than under *section 28*, *33*, *34* or *38*) or under *section 45*, *47*, *51*, *52*, *53A* or *58(3)(b)* in relation to—
+
+(*a*) any specimen of a species of fauna specified in the Fourth Schedule,
+
+(*b*) any specimen of a species listed in annexes to the CITES Regulations, or
+
+(*c*) any specimen of a species of flora or fauna which is of a species for the time being declared by regulations under this section to be a species to which this subsection relates,
+
+such person is liable—
+
+(i) on summary conviction, to a class A fine or to imprisonment for a term not exceeding 6 months or to both, or
+
+(ii) on conviction on indictment, to a fine not exceeding €100,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(4) Where a person commits an offence under *section 19(9)*, *21(4)(a)* or *36(11)* of the Wildlife (Amendment) Act 2000, such person is liable—
+
+(*a*) on summary conviction, to a class A fine, or
+
+(*b*) on conviction on indictment, to a fine not exceeding €100,000.
+
+(5) Where a person commits an offence under *section 69(3)(c)* such person is liable—
+
+(*a*) on summary conviction, to a class A fine or to imprisonment for a term not exceeding 6 months or to both, or
+
+(*b*) on conviction on indictment, to a fine or to imprisonment for a term not exceeding 5 years or to both.
+
+(6) Where the Minister is satisfied that a particular species of fauna or flora is in danger of extinction or requires special protection because of a threat to its existence throughout the State or in any specified area of the State, the Minister may by regulations declare—
+
+(*a*) the species, or
+
+(*b*) the species in any specified area,
+
+to be one to which *subsection (3)* relates.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F223: Substituted (18.07.2018) by *Heritage Act 2018* (15/2018), s. 10(1), commenced on enactment. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E232: Previous affecting provision: section amended (10.07.2010) by *Wildlife (Amendment) Act 2010* (19/2010), s. 7(a)(i), commenced on enactment; section substituted as per F-note above.
+>
+> E233: Previous affecting provision: section amended (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 68(d), S.I. No. 371 of 2001; section substituted as per F-note above.
+
+### 74A. Fixed payment notice
+
+F224[**74A.**—(1) Where a member of the Garda Síochána or an authorised person has reasonable grounds for believing that a person is committing or has committed an offence under the *Wildlife Acts 1976* to *2018* (referred to in *section 74(1)*) and declared to be a fixed payment offence, he or she may serve the person with a notice, in the prescribed form stating that—
+
+(*a*) the person is alleged to have committed the offence specified in the notice,
+
+(*b*) the person may, during the period of 21 days beginning on the date of the notice, make to the Minister, at the address specified in the notice a payment of the prescribed amount (being not more than €500) accompanied by the notice, duly completed, and
+
+(c) a prosecution in respect of the alleged offence will not be instituted during the period specified in the notice and, if a payment specified in the notice, accompanied by the notice, duly completed, is made during that period, no prosecution in respect of that alleged offence will be instituted.
+
+(2) Where notice is given under *subsection (1)*—
+
+(*a*) a person to whom the notice applies may, during the period specified in the notice, make to the Minister at the address specified in the notice, the payment specified in the notice, accompanied by the notice, duly completed,
+
+(*b*) the Minister may receive the payment, issue a receipt for it and retain the money paid, and any payment received shall not be recoverable in any circumstances by the person who made it, and
+
+(*c*) a prosecution in respect of the alleged offence shall not be instituted in the period specified in the notice, and if the payment specified in the notice is made, accompanied by the notice, duly completed, during that period, no prosecution in respect of the alleged offence shall be instituted.
+
+(3) The Minister may by order declare offences, referred to in *section 74(1)*, under the *Wildlife Acts 1976* to *2018* to be fixed payment offences for the purposes of this section.
+
+(4) The Minister may make regulations prescribing any matter or thing which is referred to in this section as prescribed or to be prescribed and in prescribing the amount to accompany the payment of a notice under this section may prescribe different amounts in relation to different fixed payment offences.
+
+(5) In a prosecution for an offence referred to in *subsection (1)* the onus of proving that a payment pursuant to a notice under this section has been made lies on the defendant.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F224: Substituted (18.07.2018) by *Heritage Act 2018* (15/2018), s. 10(1), commenced on enactment.
+
+### 75. Power of court to revoke certain certificates and licences and to impose certain disqualifications.
+
+**75.**—(1) Where a person who holds—
+
+(*a*) a firearm certificate which by virtue of F225[*subsection (5)* or *(5A)* of *section 29*] of this Act is deemed to be a licence granted under that section, or
+
+(*b*) a firearm certificate granted on the production of a current licence granted by the Minister to the person under *section 29* of this Act,
+
+is convicted of an offence under *Part II* of this Act, the court by which the person in convicted may revoke the certificate mentioned in *paragraph (a)* of this subsection or the licence mentioned in *paragraph (b)* of this subsection, as may be appropriate, and disqualify the person from holding such a certificate or licence and such revocation and disqualification shall be for such period as the court thinks appropriate and shall be in addition to any other punishment imposed by the court in respect of the offence.
+
+(2) Where pursuant to *subsection (1)* of this section a court revokes a firearm certificate mentioned in *paragraph (a)* of that subsection, section 6 of the Firearms Act, 1925 (inserted by section 8 of the Firearms Act, 1964), shall apply as if the certificate had been revoked under section 5 of that Act; provided that in case the firearm described in such certificate is a shotgun, the Superintendent of the Garda Síochána of the district in which the holder of the certificate resides may, within three months of the revocation, if he thinks fit, grant under section 12 of the Firearms Act, 1964, to such holder in respect of such shotgun a limited certificate within the meaning of the said section 12.
+
+(3) Where a court revokes a certificate or licence and imposes a disqualification pursuant to this section, the registrar or clerk of the court shall, as soon as may be, send to the Minister a copy of the court’s order.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F225: Substituted (10.07.2010) by *Wildlife (Amendment) Act 2010* (19/2010), s. 8, commenced on enactment.
+>
+> F226: Substituted by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 4(1) and sch. 1 ref. no. 13, not commenced as of date of revision, subject to transitional provisions in ss. 13, 26.
+>
+> **Modifications (not altering text):**
+>
+> C25: Prospective affecting provision: subs. (2) amended by *Garda Síochána (Functions and Operational Areas) Act 2022* (7/2022), s. 4(1) and sch. 1 ref. no. 13, not commenced as of date of revision, subject to transitional provisions in ss. 13, 26.
+>
+> **75.**— …
+>
+> (2) Where pursuant to *subsection (1)* of this section a court revokes a firearm certificate mentioned in *paragraph (a)* of that subsection, section 6 of the Firearms Act, 1925 (inserted by section 8 of the Firearms Act, 1964), shall apply as if the certificate had been revoked under section 5 of that Act; provided that in case the firearm described in such certificate is a shotgun, F226[a Superintendent of the Garda Síochána in the Garda Síochána division] in which the holder of the certificate resides may, within three months of the revocation, if he thinks fit, grant under section 12 of the Firearms Act, 1964, to such holder in respect of such shotgun a limited certificate within the meaning of the said section 12.
+
+### 76. Forfeiture.
+
+**76.**—F227[(1) (*a*) Where any specimen of fauna, flora, fossils or minerals or any part, product or derivative of such a specimen or any firearm, trap, snare, net or any mechanically-propelled vehicle or any vessel or aircraft or other thing has come into the possession of a member of the Garda Síochána or an authorised person in respect of which, or with which, or by means of which, an offence is with reasonable cause suspected by the member or authorised person of having been committed under the *Wildlife Acts, 1976 and 2000*, or where an offence has been committed or is alleged to have been committed under those Acts, and on the application before a court of—
+
+(i) the Minister, or
+
+(ii) where criminal proceedings have been instituted, the person who instituted those proceedings,
+
+then, subject to *subsections (2)*, *(3)* and *(4)* of this section, the appropriate court may, at its discretion and where it is satisfied that an offence has been committed (whether or not any person has been convicted of the offence) order the forfeiture of the thing concerned.
+
+(*b*) In this subsection—
+
+"appropriate court" means—
+
+(i) in case the estimated value of the thing to be forfeited does not exceed F228[€15,000], the District Court,
+
+(ii) in case the estimated value of the thing to be forfeited does not exceed F229[€75,000], the Circuit Court,
+
+(iii) in any case, the High Court;
+
+"estimated value", in relation to the thing sought to be forfeited, means the estimated amount of money which, in the opinion of the court, a willing purchaser would pay to a willing seller when such a thing could be sold legally and after deduction for—
+
+(i) the estimated costs incidental to such a sale, and
+
+(ii) the estimated amount of any tax or duty owing to the State in respect of that thing,
+
+and when it cannot be sold legally then such estimated value, if any, as the court considers appropriate.
+
+(*c*) (i) If, in relation to an application under this section to the District Court, that court becomes of opinion during the hearing of the application that—
+
+(I) the estimated value of the thing to be forfeited exceeds F228[€15,000], or
+
+(II) that for any reason it should decline jurisdiction,
+
+it may, if it so thinks fit, transfer the application to the Circuit Court or the High Court, whichever it considers appropriate having regard to the estimated value aforesaid or to such other matters that it considers appropriate.
+
+(ii) If, in relation to an application under this section to the Circuit Court, that court becomes of opinion during the hearing of the application that—
+
+(I) the estimated value of the thing to be forfeited exceeds F229[€75,000], or
+
+(II) that for any reason it should decline jurisdiction,
+
+it may, if it so thinks fit, by order transfer the application to the High Court.
+
+(*d*) An application under this section shall be brought in a summary manner.
+
+(*e*) (i) An order shall not be made by a court under this section unless the court is satisfied that in the circumstances all practicable steps have been taken to notify any person of the proceedings relating to the application for the order and who, in the opinion of the court, should be given the opportunity of being heard by it on that application.
+
+(ii) The court concerned may make such order as to the costs of the parties to, or heard by the court in, the proceedings relating to an application for an order under this section as it considers appropriate.]
+
+(2) A court shall not order anything to be forfeited under this section if a person claiming to be the owner of or otherwise interested in it applies to be heard by the court, unless an opportunity has been given to him to show cause why the order should not be made.
+
+(3) Where a court makes an order under this section in relation to a firearm and the person convicted of the offence under this Act which caused the order to be made is the owner of the firearm, the firearm shall be disposed of, either by sale or otherwise, in such manner as the Commissioner of the Garda Síochána authorises.
+
+F230[(4) Where an order is made under this section in relation to a thing other than a firearm to which *subsection (3)* of this section applies, such thing shall, as the court shall direct, either be returned to the person appearing to the court to be the owner or sold or disposed of in such other manner as the court thinks fit.]
+
+(5) Where a firearm F231[or mechanically-propelled vehicle or vessel or aircraft] or other thing is sold pursuant to this section, the net proceeds of the sale shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance shall direct.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F227: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 69(a), S.I. No. 371 of 2001.
+>
+> F228: Substituted (3.02.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 15 and sch. part 2 item 4, S.I. No. 566 of 2013.
+>
+> F229: Substituted (3.02.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 14 and sch. part 1 item 1, S.I. No. 566 of 2013.
+>
+> F230: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 69(b), S.I. No. 371 of 2001.
+>
+> F231: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 69(c), S.I. No. 371 of 2001.
+>
+> **Modifications (not altering text):**
+>
+> C26: Functions under subs. (5) transferred and references to “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 39 of 1976</td><td>Wildlife Act 1976</td><td>Sections 5, 8, 9 and 76(5); Second Schedule, paragraphs 11 and 12</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E234: Previous affecting provision: subs. (1)(b) and (c) amended by *Courts and Court Officers Act 2002* (15/2002), ss. 13 and 14 and sch. 2, not commenced; repealed (3.02.2014) by *Courts and Civil Law (Miscellaneous Provisions) Act 2013* (32/2013), s. 2(1), S.I. No. 566 of 2013.
+
+### 77. Appeal against seizures.
+
+**77.**—Any person who is aggrieved by a seizure and detention under this ActF232[, including any seizure or detention to which the CITES Regulations relate] may appeal to a F233[Judge] of the District Court and in determining the appeal the F233[Judge] may—
+
+(*a*) if he is satisfied that the document or other thing was properly seized, confirm the seizure and detention, and
+
+(*b*) if he is not so satisfied, order the person who made the seizure to return to the person the document or other thing seized and order the Minister to pay to the person such compensation (if any), costs (if any) and expenses (if any) as he considers reasonable having regard to any loss, costs and expenses incurred by the person by reason of the seizure and detention.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F232: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 70, S.I. No. 371 of 2001.
+>
+> F233: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 70, S.I. No. 371 of 2001.
+
+### 78. Disposal of things seized.
+
+**78.**—(1) A person who, in accordance with this Act, has seized any document or other thing shall not dispose of it—
+
+(*a*) without the consent in writing of the owner or the person in apparent charge or control of it, or
+
+(*b*) in the case of any thing other than a document, unless a direction is given pursuant to this section by F234[a Judge of the District Court] for its disposal.
+
+F235[(2) A person who under this Act has seized any thing may, subject to such person giving notice in writing to—
+
+(*a*) the owner, or
+
+(*b*) the person who, when the seizure was made, was in apparent charge or control of it,
+
+where such owner or person is known to the person who so seized that thing or whose identity and the address at which such owner or person resides can be ascertained by reasonable inquiries of the intention to do so, apply to a Judge of the District Court for a direction that the thing be disposed of (by destruction or otherwise) in a manner specified in the direction.]
+
+(3) F236[A Judge of the District Court] to whom an application in that behalf is duly made under this section shall, if he is satisfied that any thing in respect of which the application is made is likely, before it can be used as evidence in proceedings for an offence under this Act, to become unfit for human consumption, or if he is satisfied for any other reason that the thing ought not to be further detained, give a direction under this section authorising its disposal (by destruction or otherwise).
+
+F237[(3A) Where any thing has been seized under this Act is, in the opinion of any person entitled to seize it, of a perishable nature, then the thing seized may be sold or otherwise destroyed as appropriate and where it is sold the person causing it to be sold shall out of the proceeds of such sale defray all expenses incurred in the seizure, removal, storage and sale of it and, except where a court has otherwise decided in relation to the thing so sold or court proceedings relating to the thing so sold have been instituted but not concluded, shall pay the surplus of such proceeds to the person who at the time of the seizure was the owner of it.]
+
+(4) Where a direction is given under this section, the person who applied for the direction shall, as soon as may be, give notice of the making of the direction to the person to whom notice was given pursuant to *subsection (2)* of this section.
+
+(5) F238[...]
+
+(6) F238[...]
+
+(7) F238[...]
+
+(8) Moneys payable pursuant to a disposal under this section shall be paid to the Minister.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F234: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 71(a), S.I. No. 371 of 2001.
+>
+> F235: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 71(b), S.I. No. 371 of 2001.
+>
+> F236: Substituted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 71(c), S.I. No. 371 of 2001.
+>
+> F237: Inserted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 71(d), S.I. No. 371 of 2001.
+>
+> F238: Deleted (31.07.2001) by *Wildlife (Amendment) Act 2000* (38/2000), s. 71(e), S.I. No. 371 of 2001.
+>
+> **Editorial Notes:**
+>
+> E235: Power pursuant to subs. (7) exercised (30.06.1977) by *Wildlife Act, 1976 (Certificate of Peace Commissioner) Regulations 1977* (S.I. No. 210 of 1977).
+
+## First Schedule — Enactments Repealed
+
+| Session and Chapter or Number and Year | Short Title | Extent of Repeal |
+|---|---|---|
+| 10 Will. 3, c. 8 | Deer Protection Act, 1698. | The whole Act. |
+| 27 Geo. 3, c. 35 | Game Act, 1787. | The whole Act. |
+| 7 Geo. 4, c. 9 | Night Poaching Act, 1826. | The whole Act. |
+| 25 & 26 Vict., c. 114 | Poaching Prevention Act, 1862. | The whole Act. |
+| No. 11 of 1930 | Game Preservation Act, 1930. | The whole Act. |
+| No. 16 of 1930 | Wild Birds Protection Act, 1930. | The whole Act. |
+| No. 13 of 1946 | Forestry Act, 1946. | Section 61. |
+| No. 10 of 1965 | Protection of Animals (Amendment) Act, 1965. | Section 8. |
+
+## Second Schedule — Provisions which may be included in an order under Section 14
+
+1\. The Board shall be a body corporate with perpetual succession and power to sue and be sued in its corporate name and to acquire, hold and dispose of land.
+
+2\. The Board shall consist of a chairman and not less than a prescribed number of ordinary members.
+
+3\. (1) Where the chairman or an ordinary member of the Board is nominated as a candidate for election to either House of the Oireachtas or as a member of Seanad Éireann, he shall thereupon cease to be a member of the Board.
+
+(2) A person who is for the time being entitled under the Standing Orders of either House of the Oireachtas to sit therein shall be disqualified from being a member of the Board.
+
+4\. The chairman and each ordinary member of the Board shall be appointed by the Minister and the Minister when making the appointment shall fix his term of office and, subject to such other provisions of this Schedule as may be relevant, he shall hold his office on such terms and conditions as the Minister, with the consent of the Minister for the Public Service, determines.
+
+5\. A member of the Board may at any time resign his office by letter addressed to the Minister and the resignation shall take effect as on and from the date of the receipt of the letter by the Minister.
+
+6\. The Minister may remove from office a member of the Board who has become incapable through ill-health of efficiently performing his duties or whose removal appears to the Minister to be necessary for the effective performance by the Board of its functions.
+
+7\. A member of the Board (other than the chairman) may be appointed by the Minister from among his serving officers.
+
+8\. A member of the Board shall be paid by the Board such remuneration (if any) and allowances for expenses as the Minister, with the consent of the Minister for the Public Service, determines.
+
+9\. A member of the Board whose term of office expires by the effluxion of time shall be eligible for reappointment.
+
+10\. Where a casual vacancy occurs among the members of the Board, the Minister shall appoint a person to fill the vacancy as soon as possible.
+
+11\. (1) The Board shall keep in such form as may be approved by the Minister, with the consent of the Minister for Finance, all proper and usual accounts of all moneys received or expended by it.
+
+(2) The Board shall keep a profit and loss account and a balance sheet.
+
+(3) The Board shall keep such special accounts (if any) as the Minister, with the consent of the Minister for Finance, may from time to time direct.
+
+(4) All accounts kept pursuant to this Article shall be submitted by the Board to the Comptroller and Auditor General for audit.
+
+(5) Immediately after their audit, a copy of the accounts (including any special accounts) kept by the Board pursuant to this Article, a copy of the balance sheet (if any) and a copy of the Comptroller and Auditor General's report on the accounts shall be presented to the Minister who shall cause copies thereof to be laid before each House of the Oireachtas.
+
+12\. There may, subject to such conditions, if any, as the Minister thinks proper, be paid to the Board in each financial year out of moneys provided by the Oireachtas a grant or grants of such amount or amounts as the Minister, with the consent of the Minister for Finance and after consultation with the Board in relation to its programme of expenditure for that year, may fix.
+
+13\. (1) The Minister, with the consent of the Minister for the Public Service, may appoint such officers and servants as are in his opinion necessary to assist the Board in the performance of its functions.
+
+(2) The officers and servants so appointed shall hold office on such terms and receive such remuneration as the Minister for the Public Service determines.
+
+14\. (1) The Board shall hold such and so many meetings as may be necessary for the performance of its functions.
+
+(2) The Minister may fix the date, time and place of the first meeting of the Board.
+
+15\. The quorum for a meeting of the Board shall be such as is specified in an order made under section 14 of this Act and which relates to the Board and is for the time being in force.
+
+16\. Each member of the Board at a meeting thereof shall have a vote.
+
+17\. Every question at a meeting of the Board shall be determined by a majority of votes of the members present and, in the event that voting is equally divided, the chairman shall have a casting vote.
+
+18\. Subject to having a quorum, the Board may act notwithstanding a vacancy among its members.
+
+19\. Subject to the provisions of any order made under section 14 of this Act and which relates to the Board, the Board may provide for any matters of procedure.
+
+20\. The Board shall, as soon as may be after its establishment, provide itself with a seal.
+
+21\. The Board may perform any of its functions through or by any of its officers duly authorised by the Board in that behalf.
+
+22\. The seal of the Board shall be authenticated by the signature of two members of the Board or by the signature of a member of the Board and of an officer or servant of the Board authorised by the Board to act in that behalf.
+
+23\. Judicial notice shall be taken of the seal of the Board and every document purporting to be an instrument made by the Board and to be sealed with the seal (purporting to be authenticated in accordance with Article 22 of this Schedule) of the Board shall be received in evidence and be deemed to be such instrument without proof unless the contrary is shown.
+
+24\. (1) The Minister may, with the approval of the Minister for the Public Service, make and carry out according to its terms a scheme for the granting of pensions, gratuities or other allowances to or in respect of the chairman and ordinary members of the Board appointed in a wholetime capacity ceasing to hold office, other than persons in respect of whom an award under the Superannuation Acts, 1834 to 1963, may be made.
+
+(2) A scheme under this Article may provide that the termination of the appointment of the chairman or of an ordinary member of the Board during that person's term of office shall not preclude the award to him under the scheme of a pension, gratuity or other allowance.
+
+(3) The Minister may, with the approval of the Minister for the Public Service, amend a scheme made by him under this Article.
+
+(4) If any dispute arises as to the claim of any person to, or the amount of, any pension, gratuity or allowance payable in pursuance of a scheme under this Article, such dispute shall be submitted to the Minister who shall refer it to the Minister for the Public Service, whose decision thereon shall be final.
+
+(5) Every scheme made by the Minister under this Article shall be laid before each House of the Oireachtas as soon as may be after it is made and if either House, within the next twenty-one days on which that House has sat after the scheme is laid before it, passes a resolution annulling the scheme, the scheme shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+(6) Where an established civil servant is definitively transferred to the Board as a member thereof, the superannuation benefits to be granted to him shall, if the Minister for the Public Service in his discretion so directs, be calculated in accordance with the provisions of the Superannuation Acts, 1834 to 1963, as if, during the period of his service as a wholetime member of the Board subsequent to his transfer, he had been an established civil servant and had been paid during that period out of moneys provided by the Oireachtas within the meaning of section 17 of the Superannuation Act, 1859.
+
+25\. (1) The Board may accept gifts of money, land or other property upon such terms and conditions (if any) as may be specified by the donor.
+
+(2) The Board shall not accept a gift if the conditions attached by the donor to the acceptance are inconsistent with the functions of the Board.
+
+(3) Any funds of the Board, being a gift or the proceeds of a gift to it, may, subject to any terms or conditions of the gift, be invested by the Board in any manner in which a trustee is empowered by law to invest trust funds.
+
+> **Annotations**
+>
+> C27: Functions transferred and references to “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 39 of 1976</td><td>Wildlife Act 1976</td><td>Sections 5, 8, 9 and 76(5); Second Schedule, paragraphs 11 and 12</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+## Third Schedule — Species of wild birds excluded (subject to Section 22 (2)) from Sections 19 and 22
+
+Bullfinch
+
+F239[...]
+
+F239[...]
+
+F239[...]
+
+F239[...]
+
+F239[...]
+
+F239[...]
+
+F239[...]
+
+F239[...]
+
+F239[...]
+
+F239[...]
+
+F239[...]
+
+F239[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F239: Deleted (6.12.1985) by *European Communities ( Wildlife Act, 1976 ) (Amendment) Regulations 1985* (S.I. No. 397 of 1985), reg. 3(f), in effect as per reg. 1(2).
+
+## Fourth ScheduleFauna referred to in Section 22 (6) or 23 (8) — Fourth Schedule — Fauna referred to in Section 22 (6) or 23 (8)
+
+### PART I — Species of protected wild birds referred to in Section 22 (6)
+
+Buzzards
+
+Eagles
+
+Falcons
+
+Harriers
+
+Hawks
+
+Kites
+
+Osprey
+
+Owls
+
+### PART II — Species of protected wild animals referred to in Section 23 (8)
+
+Pine Marten
+
+Red Deer
+
+Seals
+
+Whales
+
+## Fifth Schedule — Animals referred to in Section 23
+
+Land Mammals
+
+Badger
+
+Bat species
+
+Deer species
+
+Hare species
+
+Hedgehog
+
+Otter
+
+Pine Marten
+
+Red Squirrel
+
+Marine Mammals
+
+Dolphin species
+
+Porpoise species
+
+Seal species
+
+Whale species
+
+Amphibians
+
+Natterjack Toad
+
+[^1]: OJ No. L 61, 3.3. 1997, p.1
+[^2]: 1 OJ No. L 115, 6.4.2021, p.1
+[^3]: 1 OJ No. L 115, 6.4.2021, p.1
+[^4]: OJ No. L61, 3.3.1997, p.1

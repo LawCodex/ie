@@ -1,0 +1,567 @@
+---
+title: "Redundancy Payments Act, 1971"
+identifier: "eli/1971/act/20"
+type: act
+jurisdiction: ie
+language: en
+number: 20
+year: 1971
+date: 1971-07-27
+last_amended: 2020-10-14
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1971/act/20/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1971/act/20/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Redundancy Payments Act, 1971
+
+AN ACT TO AMEND AND EXTEND THE REDUNDANCY PAYMENTS ACT, 1967, AND TO PROVIDE FOR OTHER MATTERS CONNECTED WITH THE MATTERS AFORESAID. [27*th July*, 1971.]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Application of collectively cited *Redundancy Payments Acts 1967 to 1990* not restricted (20.12.2001) by *Protection of Employees (Part-Time Work) Act 2001* (45/2001), ss. 9(3) and 11(3), S.I. No. 636 of 2001.
+>
+> **Conditions of employment for part-time employees.**
+>
+> **9.** — ...
+>
+> (3) Nothing in subsection (2) shall be construed as affecting the application of a relevant enactment, by virtue of section 8, to a part-time employee.
+>
+> **Part-time employees who work on a casual basis.**
+>
+> **11.** — ...
+>
+> (3) Nothing in subsection (2) shall be construed as affecting the application of a relevant enactment, by virtue of section 8, to a part-time employee.
+>
+> C2: Application of collectively cited *Redundancy Payments Acts 1967 to 1990* (“relevant enactment” as per s. 3) extended (20.12.2001) by *Protection of Employees (Part-Time Work) Act 2001* (45/2001), s. 8, S.I. No. 636 of 2001.
+>
+> **Application of relevant enactments.**
+>
+> **8.**— Each relevant enactment shall apply to a part-time employee in the same manner, and subject to the like exceptions not inconsistent with this section, as it applies, other than by virtue of this Act, to an employee to whom that enactment relates.
+>
+> C3: Application of collectively cited *Redundancy Payments Acts 1967 to 1991* not restricted (1.04.2000) by *National Minimum Wage Act 2000* (5/2000), s. 41(12), S.I. No. 96 of 2000.
+>
+> **Employer in financial difficulty.**
+>
+> **41.** — ...
+>
+> (12) For the purposes of calculating an employee’s entitlement to a redundancy payment under the Redundancy Payments Acts, 1967 to 1991, any exemption under this section shall be ignored and the calculation made as if the employee had been paid the national minimum hourly rate of pay to which he or she was otherwise entitled under this Act, for the period of the exemption.
+>
+> C4: Application of collectively cited *Redundancy Payments Acts 1967 to 1990* extended (1.05.1997) by *Labour Services Act Apprenticeship Rules 1997* (S.I. No. 168 of 1997), rule 7(1).
+>
+> **Dismissal**
+>
+> 7\. (1) Subject to 7 (2), no employer shall dismiss any apprentice save in strict accordance with the provision of the Unfair Dismissals Acts 1977 and 1993, the Protection of Employment Act 1977, the Minimum Notice and Terms of Employment Act 1973, and the Redundancy Payments Acts 1967 to 1990.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E1: Act included in definitions of “employment enactment” and “relevant enactment” (1.08.2015) by *Workplace Relations Act 2015* (16/2015), s. 2 and sch. 1 part 1 item 18, S.I. No. 338 of 2015, with the following effects:
+>
+> • Authorised officers or inspectors under employment enactments deemed to be appointed under *Workplace Relations Act 2015* (16/2015), s. 26(2) and subject to termination under s. 26(4).
+>
+> • Powers of inspectors for purposes of relevant enactments defined in *Workplace Relations Act 2015* (16/2015), s. 27.
+>
+> • Workplace Relations Commission, an inspector or an adjudication officer authorised to disclose employer’s registered number or employee’s PPSN to enable Labour Court to perform functions under relevant enactments by *Workplace Relations Act 2015* (16/2015) s. 31(5).
+>
+> • Power of Workplace Relations Commission and official body to disclose information to each other concerning the commission of offence under relevant enactment provided by *Workplace Relations Act 2015* (16/2015), s. 32.
+>
+> • Power of Workplace Relations Commission and contracting authority to disclose information to each other concerning the commission of offence under employment enactment/ relevant enactment provided by *Workplace Relations Act 2015* (16/2015), s. 33.
+>
+> • Powers of Minister to prosecute under relevant enactments transferred to Workplace Relations Commission and references construed by *Workplace Relations Act 2015* (16/2015), s. 37.
+>
+> • Functions of EAT to hear claims under employment enactments transferred to Workplace Relations Commission and references to EAT construed by *Workplace Relations Act 2015* (16/2015) s. 66(1), (2), not commenced as of date of revision.
+>
+> E2: Previous affecting provision: application of collectively cited *Redundancy Payments Acts 1967 to 1990* extended (1.08.1995) by *Labour Services Act Apprenticeship Rules 1995* (S.I. No. 198 of 1995), rl. 7(1); revoked (1.05.1997) by *Labour Services Act Apprenticeship Rules 1997* (S.I. No. 168 of 1997), rl. 1(3).
+>
+> E3: Previous affecting provision: application of collectively cited *Redundancy Payments Acts 1967 to 1990* extended (1.08.1994) by *Labour Services Act Apprenticeship Rules 1995* (S.I. No. 228 of 1994), rl. 7(1); revoked (1.08.1995) by *Labour Services Act Apprenticeship Rules 1995* (S.I. No. 198 of 1995), rl. 1(3).
+>
+> E4: Previous affecting provision: application of collectively cited *Redundancy Payments Acts 1967 to 1990* extended (1.09.1993) by *Labour Services Act Apprenticeship Rules 1993* (S.I. No. 236 of 1993), rl. 7(1); revoked (1.09.1994) by *Labour Services Act Apprenticeship Rules 1994* (S.I. No. 228 of 1994), rl. 1(3).
+>
+> E5: Previous affecting provision: application of collectively cited *Redundancy Payments Acts 1967 to 1990* (‘relevant enactment‘ as per s. 1) extended (17.06.1991) by *Worker Protection (Regular Part-Time Employees) Act 1991* (5/1991), s. 3, S.I. No. 144 of 1991; repealed (20.12.2001) by *Protection of Employees (Part-Time Work) Act 2001* (45/2001), s. 5, S.I. No. 636 of 2001.
+
+## 1. Definition.
+
+**1.**—In this Act “the Principal Act” means the Redundancy Payments Act, 1967.
+
+## 2. Extension of application of certain provisions of Acts.
+
+**2.**—In relation to an employee whose employment is terminated by reason of redundancy on or after the commencement of this Act, any provision of the Principal Act or this Act which affects or relates to the preservation of continuity of the employee's employment shall apply to periods of employment before the 1st day of January, 1968, as they apply to such periods after that date.
+
+## 3. Provisions relating to persons who attain age of 70 years.
+
+**3.**—F1[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Repealed (8.05.2007) by *Protection of Employment (Exceptional Collective Redundancies and Related Matters) Act 2007* (27/2007), s. 20, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E6: Previous affecting provision: section substituted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 5, S.I. No. 95 of 1979. Section subsequently repealed as per above F-note.
+>
+> E7: Previous affecting provision: application of section not restricted by *Employment Equality Act 1998* (21/1998), s. 17(4), as substituted (18.07.2004) by *Equality Act 2004* (24/2004), s. 10(b), commenced on enactment.
+>
+> E8: Previous affecting provision: application of section not restricted by *Pensions Act 1990* (25/1990), s. 75(3), as substituted (5.04.2004) by *Social Welfare (Miscellaneous Provisions) Act 2004* (9/2004), s. 22(1), S.I. No. 141 of 2004.
+
+## 4. Amendment of section 7 of Principal Act.
+
+**4.**—Section 7 of the Principal Act is hereby amended by—
+
+(i) the substitution for subsection (2) (*b*) of the following:
+
+“(*b*) the fact that the requirements of that business for employees to carry out work of a particular kind in the place where he was so employed have ceased or diminished or are expected to cease or diminish, or
+
+(*c*) the fact that his employer has decided to carry on the business with fewer or no employees, whether by requiring the work for which the employee had been employed (or had been doing before his dismissal) to be done by other employees or otherwise, or
+
+(*d*) the fact that his employer has decided that the work for which the employee had been employed (or had been doing before his dismissal) should henceforward be done in a different manner for which the employee is not sufficiently qualified or trained, or
+
+(*e*) the fact that his employer has decided that the work for which the employee had been employed (or had been doing before his dismissal) should henceforward be done by a person who is also capable of doing other work for which the employee is not sufficiently qualified or trained,”
+
+and
+
+(ii) the insertion after subsection (4) of the following subsection:
+
+“(4A) In ascertaining, for the purposes of subsection (2) (*c*), whether an employer has decided to carry on a business with fewer or no employees, account shall not be taken of the following members of the employer's family—
+
+father, mother, stepfather, stepmother, son, daughter, adopted child, grandson, granddaughter, stepson, stepdaughter, brother, sister, half brother, halfsister.”.
+
+## 5. Amendment of section 20 of Principal Act.
+
+**5.**—Section 20 of the Principal Act is hereby amended by the insertion after subsection (5) of the following subsection:
+
+“(5A) In a case mentioned in subsection (1) (*a*), the new owner shall be estopped from denying that an employee was in continuous employment (within the meaning of Schedule 3) unless, within 26 weeks of the change of ownership, he notifies the employee of his intention so to deny.”.
+
+## 6. Application of section 20 of Principal Act.
+
+**6.**—(1) Where—
+
+(i) a change relating to the control or management of a business (or part thereof) for the purposes of which a person is employed occurs, but a change in the ownership of the business (or part thereof) does not occur,
+
+(ii) section 20 of the Principal Act would have applied to that change if it were a change in the ownership of that business (or part thereof), and
+
+(iii) an employee of the previous owner accepts, before, on or within four weeks of the termination of his contract of employment with the previous owner, an offer by the new owner of employment in the same place of employment and on terms which are either the same as, or not materially less advantageous to the employee than, his existing terms of employment,
+
+the said section 20 shall apply to that change as if a change of ownership of that business (or part thereof) had occurred.
+
+(2) In this section “previous owner” and “new owner” mean, respectively, the persons who would have been the previous owner and the new owner within the meaning of the said section 20 if a change of ownership of a business (or part thereof) had occurred.
+
+## 7. Amendment of section 39 of Principal Act.
+
+**7.**—Section 39 of the Principal Act is hereby amended—
+
+(*a*) by the substitution for subsection (2) (*a*) of the following—
+
+“(*a*) a chairman who before his appointment shall have had not less than 7 years' experience as a practising barrister or practising solicitor,”,
+
+and
+
+(*b*) by the substitution for subsection (2) (*c*) of the following—
+
+“(*c*) not less than 12 and not more than 24 ordinary members.”.
+
+## 8. Redundancy payment to certain employees dismissed before commencement of Act.
+
+**8.**—(1) Where an employee who was dismissed before the commencement of this Act was not entitled to redundancy payment under the Principal Act in respect of the dismissal solely because the requirements of the business carried on by his employer for employees to carry out work of a particular kind, or to carry out such work in the place where the employee had been so employed, had not ceased or diminished or were not expected to cease or diminish, the Minister may, at his discretion and notwithstanding the Principal Act, pay to that employee out of the Redundancy Fund a sum equal in amount to the sum to which he would have been entitled under the Principal Act if the said requirements had ceased or diminished or were expected to cease or diminish.
+
+(2) In relation to the amendments of the Principal Act referred to in section 19 (2), the Minister may, in respect of a dismissal or a termination of employment in the period beginning on the 22nd day of January, 1971 and ending on the commencement of this section and notwithstanding the Principal Act, pay to an employee out of the Redundancy Fund any moneys to which the employee may become entitled by virtue of the said section 19 (2).
+
+## 9. Reference and appeal to the High Court.
+
+**9.**—The following section is hereby substituted for section 40 of the Principal Act:
+
+“40. (1) Where any question, other than a question specified in section 38 (1) (*a*), 38 (1) (*b*) or 38 (1) (*c*), is referred to the Tribunal, the Minister may, on the request of the Tribunal, refer the question for the decision of the High Court.
+
+(2) Where the Minister refers a question for the decision of the High Court under this section, or where a person appeals to the High Court under section 39 (14), the court may, at its discretion, order the payment by the Minister from the Redundancy Fund of the costs (in whole or in part as so ordered) when taxed of a party involved.
+
+(3) Where the Minister refers a question for the decision of the High Court under this section, he may be represented as a party in that court at the hearing of the question.”.
+
+## 10. Presumptions by Tribunal.
+
+**10.**—For the purposes of a reference to the Tribunal—
+
+(*a*) a person’s employment during any period shall, unless the contrary is proved, be presumed to have been continuous;
+
+(*b*) an employee who has been dismissed by his employer shall, unless the contrary is proved, be presumed to have been so dismissed by reason of redundancy;
+
+(*c*) the Tribunal shall, after consultation with any person or body charged by statute with the fixing or determination of minimum wages or rates of pay, or the registration of employment agreements under the Industrial Relations Act, 1946, F2[or the national minimum hourly rate of pay declared by order under the National Minimum Wage Act 2000] have regard to any such minimum as is appropriate or relevant.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F2: Inserted (25.05.2003) by *Redundancy Payments Act 2003* (14/2003), s. 14, S.I. No. 194 of 2003.
+
+## 11. Right to redundancy payment by reason of lay-off or short-time.
+
+**11.**—The following section is hereby substituted for section 12 of the Principal Act:
+
+“12.—(1) An employee shall not be entitled to redundancy payment by reason of having been laid off or kept on short-time unless—
+
+(*a*) he has been laid off or kept on short-time for four or more consecutive weeks or, within a period of thirteen weeks, for a series of six or more weeks of which not more than three were consecutive, and
+
+(*b*) after the expiry of the relevant period of lay-off or short-time mentioned in paragraph (*a*) and not later than four weeks after the cessation of the lay-off or short-time, he gives to his employer notice (in this Part referred to as a notice of intention to claim) in writing of his intention to claim redundancy payment in respect of lay-off or short-time.
+
+(2) Where, after the expiry of the relevant period of lay-off or short-time mentioned in subsection (1) (*a*) and not later than four weeks after the cessation of the lay-off or short time, an employee to whom that subsection applies, in lieu of giving to his employer a notice of intention to claim, terminates his contract of employment either by giving him the notice thereby required or, if none is so required, by giving him not less than one week's notice in writing of intention to terminate the contract, the notice so given shall, for the purposes of this Part and of Schedule 2, be deemed to be a notice of intention to claim given in writing to the employer by the employee on the date on which the notice is actually given.”
+
+## 12. Time-limit on claims for redundancy payment.
+
+**12.**—(1) Section 24 of the Principal Act is hereby amended by the insertion at the end of that section of the following subsection:
+
+“(2) Notwithstanding any provision of this Act, an employee shall not be entitled to a weekly payment unless he has become entitled to a lump sum”.
+
+(2) In respect of a dismissal or a termination of employment which occurs not earlier than 30 weeks before the commencement of this section, section 24 of the Principal Act shall apply as if—
+
+(*a*) “52 weeks” were substituted for “thirty weeks”, and
+
+(*b*) the following subsection were inserted after subsection (2) (inserted by this section):
+
+“(2A) Where an employee who fails to make a claim for a lump sum within the period of 52 weeks mentioned in subsection (1) (as amended) makes such a claim before the end of the period of 104 weeks beginning on the date of dismissal or the date of termination of employment, the Tribunal, if it is satisfied that the employee would have been entitled to the lump sum and that the failure was due to a reasonable cause, may declare the employee to be entitled to the lump sum and the employee shall thereupon become so entitled.”
+
+## 13. Rebates to employers from Redundancy Fund.
+
+**13.**—The following section is hereby substituted for section 29 of the Principal Act:
+
+“29. (1) Subject to this Part, the Minister shall make from the Redundancy Fund to an employer who pays a lump sum a payment (in this Part referred to as a rebate) of such sum as is equivalent in amount to—
+
+(*a*) where the lump sum does not exceed twenty times the relevant normal weekly remuneration calculated in accordance with Schedule 3—55 per cent. of the lump sum,
+
+(*b*) where the lump sum exceeds twenty times the relevant normal weekly remuneration as so calculated—the aggregate of the following—
+
+(i) 55 per cent. of the product obtained by multiplying by twenty the relevant normal weekly remuneration,
+
+(ii) the amount by which the lump sum exceeds the said product.
+
+(2) An employer who gives to the Minister a copy of a notice under section 17 on a date which is three weeks or more before the date of dismissal shall be entitled to the rebate referred to in subsection (1) increased, for each week's notice in excess of the period required by section 17—
+
+(*a*) in the case of a lump sum falling within subsection (1)(a), by 2½ per cent. of the lump sum; provided that a rebate shall not in any case exceed such sum as is equivalent in amount to 70 per cent. of the said lump sum; and
+
+(*b*) in the case of a lump sum falling within subsection (1) (*b*), by 2½ per cent. of that portion of the lump sum referred to in subsection (1) (*b*) (i); provided that a rebate shall not in any case exceed such sum as is equivalent in amount to 70 per cent. of the said portion of the lump sum.
+
+(3) Notwithstanding subsection (1), whenever an employer fails to comply with any provision of section 17, the Minister may, at his discretion—
+
+(*a*) in the case of a lump sum falling within subsection (1) (*a*), reduce the amount of rebate payable in respect of that lump sum; provided that the amount of the rebate when so reduced shall not in any case be less than 45 per cent. of the said lump sum, and
+
+(*b*) in the case of a lump sum falling within subsection (1) (*b*), reduce the amount of rebate payable in respect of that portion of the lump sum referred to in subsection (1) (*b*) (i); provided that the amount of the rebate when so reduced shall not in any case be less than 45 per cent. of the said portion of the lump sum.
+
+(4) Where an employer gives an employee notice under section 17 and sends a copy of the notice to the Minister, any period after the date of the proposed dismissal as set out in that notice during which the employee voluntarily remains in the employment of the employer concerned and continues to be paid his normal remuneration by the employer shall be taken into account in the calculation, for the purposes of subsection (2), of the rate of rebate payable to that employer.”.
+
+## 14. Other payments to employees from Redundancy Fund.
+
+**14.**—The following section is hereby substituted for section 32 of the Principal Act:
+
+“32. (1) When an employee claims that an employer is liable to pay to him a lump sum under section 19 and that—
+
+(*a*) the employee has taken all reasonable steps (other than legal proceedings) to obtain the payment of the lump sum from the employer and the employer has refused or failed to pay it or has paid part of it and has refused or failed to pay the balance,
+
+(*b*) the employer is insolvent and the whole or part of the lump sum remains unpaid, or
+
+(*c*) the employer has died and neither probate of his will has, nor letters of administration in respect of his estate have, been granted, and the whole or part of the lump sum remains unpaid,
+
+the employee may apply to the Minister for a payment under this section.
+
+(2) If on an application under this section the Minister is satisfied that an employee is entitled to a lump sum under section 19 which remains unpaid either in whole or in part, the Minister shall pay to the employee out of the Redundancy Fund so much of the lump sum as remains unpaid.
+
+(3) Upon the payment by the Minister of a payment under this section all rights and remedies of the employee with respect to the lump sum concerned or, if the Minister has paid part of it, with respect to that part, shall thereupon stand transferred to and become vested in the Minister and any moneys recovered by the Minister by virtue of this subsection shall be paid into the Redundancy Fund.
+
+(4) Where, in a case falling within subsection (1) (*a*), the Minister makes a payment to an employee under subsection (2), the Minister shall claim from the employer a sum equal to the amount of the payment made by the Minister under subsection (2) less the amount of the rebate that would have been payable to the employer from the Redundancy Fund under section 29 if the employer had paid the lump sum to the employee, save that, where it appears to the Minister that the refusal or failure of the employer was without reasonable excuse, the Minister may either withhold any rebate to which the employer would otherwise have been entitled or reduce the amount of that rebate to such extent as the Minister thinks appropriate, and in either such case the amount of the Minister's claim against the employer under this subsection may be increased accordingly.
+
+(5) Where, in a case falling within subsection (1) (*b*), the Minister makes a payment to an employee under subsection (2), the Minister shall be entitled to claim in the bankruptcy, arrangement, administration of the insolvent estate or winding up (as the case may be) in respect of, and only in respect of, a sum equal to the amount of the payment made by the Minister under subsection (2) less the amount of the rebate that would have been payable to the employer from the Redundancy Fund under section 29 if the employer had paid the lump sum to the employee.
+
+(6) Where, in a case falling within subsection (1) (*c*), the Minister makes a payment to an employee under subsection (2), the Minister shall be entitled to claim from the deceased employer's estate in respect of, and only in respect of, a sum equal to the amount of the payment made by the Minister under subsection (2) less the amount of the rebate that would have been payable to the deceased employer's estate from the Redundancy Fund under section 29 if the employee had been paid the lump sum from the estate of the deceased employer.
+
+(7) For the purpose of this section an employer shall be deemed to be insolvent if—
+
+(*a*) the employer has been adjudicated bankrupt, has filed a petition for arrangement or has executed a deed of arrangement (within the meaning of section 4 of the Deeds of Arrangement Act, 1887),
+
+(*b*) the employer has died and his estate, being insolvent, is being administered in accordance with the rules set out in Part I of the First Schedule to the Succession Act, 1965, or
+
+(*c*) the employer is a company, and the company is insolvent and being wound up.”.
+
+## 15. Provisions relating to special redundancy schemes.
+
+**15.**—(1) Any dispute arising under a special redundancy scheme may be referred by a party to the scheme to the Tribunal and shall be deemed to be a question referred under section 39 of the Principal Act to the Tribunal for a decision on the question.
+
+F3[(2) For the purpose of providing moneys for making payments which under this Act are to be made out of a fund established under a special redundancy scheme, there shall be paid into that fund—
+
+(*a*) as may be provided in that scheme, contributions by employers, and
+
+(*b*) advances as provided for in subsections (3) and (4).]
+
+(3) The Minister for Finance may from time to time, on the recommendation of the Minister, advance to any fund established under a special redundancy scheme moneys to enable payments required under the scheme to be made out of the fund, and any advances under this subsection shall be made out of the Central Fund or the growing produce thereof and shall be on such terms as to interest and repayment as the Minister for Finance may determine.
+
+F4[(4) The Minister may, with the consent of the Minister for Finance, from time to time authorise the transfer of moneys from the Social Insurance Fund to any fund established under a special redundancy scheme, and any moneys transferred under this subsection shall be repayable to the Social Insurance Fund on such terms (including terms as to interest) as the Minister for Finance may determine.]
+
+(5) (*a*) A fund established under a special redundancy scheme shall comprise a current account, to be managed and controlled by the Minister, and an investment account, to be managed and controlled by the Minister for Finance.
+
+(*b*) Save where otherwise specifically provided, sums payable into a fund established under a special redundancy scheme shall be paid into the current account of that fund and sums payable out of that fund shall be paid out of that account.
+
+(*c*) Moneys standing to the credit of the current account of a fund established under a special redundancy scheme and not required to meet current expenditure shall be transferred to the investment account of that fund.
+
+(*d*) Whenever the moneys in the current account of a fund established under a special redundancy scheme are insufficient to meet the liabilities of that account there shall be transferred to that account from the investment account of that fund such sums as may be necessary for the purpose of discharging those liabilities.
+
+(*e*) Subject to paragraph (*d*), moneys standing to the credit of the investment account of a fund established under a special redundancy scheme shall be invested by the Minister for Finance, and income arising from any such investment shall be paid into that account.
+
+(*f*) An investment pursuant to paragraph (*e*) may be in any securities in which trustees are for the time being by law empowered to invest trust funds or in any of the stocks, funds and securities as are for the time being authorised by law as investments for the Post Office Savings Bank funds.
+
+(*g*) The accounts of a fund established under a special redundancy scheme shall be prepared in such form, in such manner and at such times as the Minister for Finance may direct and the Comptroller and Auditor General shall examine and certify every such account and a copy thereof, together with the report thereon of the Comptroller and Auditor General, shall be laid before each House of the Oireachtas.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F3: Substituted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 15, S.I. No. 95 of 1979.
+>
+> F4: Substituted (1.05.1990) by *Social Welfare Act 1990* (5/1990), s. 27, commenced as per s. 31.
+>
+> **Modifications (not altering text):**
+>
+> C5: Functions transferred and references construed (14.10.2020) by *Employment Affairs and Employment Law (Transfer of Departmental Administration and Ministerial Functions) Order 2020* (S.I. No. 438 of 2020), arts. 2, 3(1)(a), (2) and sch. part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Business, Enterprise and Innovation.
+>
+> (2) References to the Department of Employment Affairs and Social Protection contained in any Act or any instrument made under such Act and relating to any administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Business, Enterprise and Innovation.
+>
+> 3\. (1) The functions vested in the Minister for Employment Affairs and Social Protection -
+>
+> (a) by or under the Acts specified in Part 1 of the Schedule and the provisions of the Acts specified in Part 2 of the Schedule, and
+>
+> ...
+>
+> are transferred to the Minister for Business, Enterprise and Innovation.
+>
+> ...
+>
+> (2) References to the Minister for Employment Affairs and Social Protection contained in any Act or instrument made under such Act and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for Business, Enterprise and Innovation.
+>
+> SCHEDULE
+>
+> PART 2
+>
+> PROVISIONS OF ACTS OF THE OIREACHTAS
+>
+> ...
+>
+> sections 15 to 17 of the Redundancy Payments Act 1971 (No. 20 of 1971)
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E9: Previous affecting provision: functions under section transferred and references to Minister for Enterprise, Trade and Innovation construed as Minister for Social Protection (1.01.2011) by *Redundancy and Insolvency Payments (Transfer of Departmental Administration and Ministerial Functions) Order 2010* (S.I. No. 189 of 2010), arts. 2, 3(1)(c), (2), in effect as per art. 1(2), subject to transitional provisions in arts. 4-8; superseded as per C-note above.
+
+## 16. Offences relating to payments under Principal Act.
+
+**16.**—(1) A person who fraudulently claims a weekly payment, fraudulently applies to the Minister for a payment under section 32 of the Principal Act or fraudulently makes a claim for a rebate, shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding F5[€5,000].
+
+(2) A person who aids, abets, counsels or procures another person to commit an offence under subsection (1) of the section shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding F6[€5,000].
+
+(3) Notwithstanding any provision in any Act specifying the period within which summary proceedings may be commenced, proceedings in respect of an offence under this section may be commenced at any time within the period of three months from the date on which evidence, sufficient in the opinion of the Minister to justify a prosecution for the offence, comes to his knowledge, or within the period of twelve months after the commission of the offence, whichever period last expires.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F5: Substituted (8.05.2007) by *Protection of Employment (Exceptional Collective Redundancies and Related Matters) Act 2007* (27/2007), s. 21, commenced on enactment.
+>
+> F6: Substituted (8.05.2007) by *Protection of Employment (Exceptional Collective Redundancies and Related Matters) Act 2007* (27/2007), s. 21, commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C6: Functions transferred and references construed (14.10.2020) by *Employment Affairs and Employment Law (Transfer of Departmental Administration and Ministerial Functions) Order 2020* (S.I. No. 438 of 2020), arts. 2, 3(1)(a), (2) and sch. part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Business, Enterprise and Innovation.
+>
+> (2) References to the Department of Employment Affairs and Social Protection contained in any Act or any instrument made under such Act and relating to any administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Business, Enterprise and Innovation.
+>
+> 3\. (1) The functions vested in the Minister for Employment Affairs and Social Protection -
+>
+> (a) by or under the Acts specified in Part 1 of the Schedule and the provisions of the Acts specified in Part 2 of the Schedule, and
+>
+> ...
+>
+> are transferred to the Minister for Business, Enterprise and Innovation.
+>
+> ...
+>
+> (2) References to the Minister for Employment Affairs and Social Protection contained in any Act or instrument made under such Act and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for Business, Enterprise and Innovation.
+>
+> SCHEDULE
+>
+> PART 2
+>
+> PROVISIONS OF ACTS OF THE OIREACHTAS
+>
+> ...
+>
+> sections 15 to 17 of the Redundancy Payments Act 1971 (No. 20 of 1971)
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E10: Previous affecting provision: functions under section transferred and references to Minister for Enterprise, Trade and Innovation construed as Minister for Social Protection (1.01.2011) by *Redundancy and Insolvency Payments (Transfer of Departmental Administration and Ministerial Functions) Order 2010* (S.I. No. 189 of 2010), arts. 2, 3(1)(c), (2), in effect as per art. 1(2), subject to transitional provisions in arts. 4-8; superseded as per C-note above .
+>
+> E11: Previous affecting provision: amount referred to in subss. (1) and (2) substituted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 18, S.I. No. 95 of 1971; subsequently substituted as per F-note above.
+
+## 17. Reciprocal arrangements.
+
+**17.**—(1) The Minister may make such orders as may be necessary to carry out any reciprocal or other arrangements, made with the proper authority under any other Government, in respect of matters relating to redundancy payments, and may by any such order make such adaptations of and modifications in the Principal Act as he considers necessary.
+
+(2) The Minister may by order amend or revoke an order under this section.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C7: Functions transferred and references construed (14.10.2020) by *Employment Affairs and Employment Law (Transfer of Departmental Administration and Ministerial Functions) Order 2020* (S.I. No. 438 of 2020), arts. 2, 3(1)(a), (2) and sch. part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Business, Enterprise and Innovation.
+>
+> (2) References to the Department of Employment Affairs and Social Protection contained in any Act or any instrument made under such Act and relating to any administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Business, Enterprise and Innovation.
+>
+> 3\. (1) The functions vested in the Minister for Employment Affairs and Social Protection -
+>
+> (a) by or under the Acts specified in Part 1 of the Schedule and the provisions of the Acts specified in Part 2 of the Schedule, and
+>
+> ...
+>
+> are transferred to the Minister for Business, Enterprise and Innovation.
+>
+> ...
+>
+> (2) References to the Minister for Employment Affairs and Social Protection contained in any Act or instrument made under such Act and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for Business, Enterprise and Innovation.
+>
+> SCHEDULE
+>
+> PART 2
+>
+> PROVISIONS OF ACTS OF THE OIREACHTAS
+>
+> ...
+>
+> sections 15 to 17 of the Redundancy Payments Act 1971 (No. 20 of 1971)
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E12: Previous affecting provision: functions under section transferred and references to Minister for Enterprise, Trade and Innovation construed as Minister for Social Protection (1.01.2011) by *Redundancy and Insolvency Payments (Transfer of Departmental Administration and Ministerial Functions) Order 2010* (S.I. No. 189 of 2010), arts. 2, 3(1)(c), (2), in effect as per art. 1(2), subject to transitional provisions in arts. 4-8; superseded as per C-note above.
+
+## 18. Aid to persons changing residence or undergoing certain training.
+
+**18.**—The following is hereby substituted for section 46 (1) of the Principal Act:
+
+“(1) The Minister may, for the purpose of promoting national economic policy, make with the consent of the Minister for Finance regulations providing for financial assistance out of moneys provided by the Oireachtas—
+
+(*a*) to persons who are obliged to change their normal place of residence in order to take up employment offered or approved by the National Manpower Service, or
+
+(*b*) to enable persons to travel for selection for training at approved training centres or to undertake courses of training at such centres.”.
+
+## 19. Miscellaneous amendments of Principal Act.
+
+**19.**—(1) Each provision of the Principal Act mentioned in column (1) of the Schedule to this Act is hereby amended in the manner stated in column (2) of that Schedule opposite the mention of that provision in column (1).
+
+(2) Notwithstanding section 20 (3), this section, in so far as it relates to the first amendment of section 4 of the Principal Act, the first amendment of section 7 of that Act, the fifth amendment of Schedule 1 of that Act and the fourth amendment of Schedule 3 of that Act, shall be deemed to have come into operation on the 22nd day of January, 1971.
+
+## 20. Short title, construction, collective citation and commencement.
+
+**20.**—(1) This Act may be cited as the Redundancy Payments Act, 1971.
+
+(2) The Principal Act and this Act shall be construed as one Act and may be cited together as the Redundancy Payments Acts, 1967 and 1971.
+
+(3) This Act shall come into operation on such day as the Minister appoints by order.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E13: Power pursuant to section exercised (1.09.1971) by *Redundancy Payments Act, 1971 (Commencement) Order 1971* (S.I. No. 230 of 1971).
+>
+> 2\. The 1st day of September, 1971, is hereby appointed to be the day on which the Redundancy Payments Act, 1971 (No. 20 of 1971), shall come into operation.
+
+## SCHEDULE — Miscellaneous Amendments of the Principal Act
+
+| Provision Amended | Nature of Amendment |
+|---|---|
+| (1) | (2) |
+| Section 2. | The substitution in subsection (1) for the definition of “the Employment Service” of the following: |
+|  | “ ‘the National Manpower Service’ means the service known by that title and operated under the control of the Minister;”. |
+|  | The insertion after “section 11 (2)” in the definition of “short-time” of “or section 11 (3) (as the case may be)”. |
+| Section 4. | The substitution in subsection (1) of “four years” for “two years”. |
+|  | The insertion after subsection (3) (*b*) of the following: |
+|  | “(*c*) In deducing any relationship for the purposes of paragraph (*b*)— (i) a person adopted under the Adoption Acts, 1952 and 1964, shall be considered the legitimate offspring of the adopter or adopters; (ii) subject to clause (i) of this paragraph, an illegitimate person shall be considered the legitimate offspring of his mother and reputed father; (iii) a person *in loco parentis* to another shall be considered the parent of that other.”. |
+| Section 5. | The insertion in subsection (1) after “47” of “or Section 17 of the Redundancy Payments Act, 1971”. |
+| Section 7. | The substitution in subsection (1) (*b*) of “four years” for “two years”. |
+|  | The substitution in subsection (5) of “104 weeks” for “208 weeks”. |
+| Section 8. | The substitution in subsection (2) of “section 12” for “section 12 (2)”. |
+| Section 9. | The deletion in subsection (1) (*c*) of “without notice”. |
+|  | The substitution in subsection (3) (*b*) for “mentioned in paragraph (*a*) (ii)” of “with the previous employer”. |
+| Section 11. | The deletion in subsection (1) of “after the commencement of this Act”. |
+|  | The insertion after subsection (2) of the following: |
+|  | “(3) Where by reason of a diminution in the work provided for an employee by his employer (being work of a kind which under his contract the employee is employed to do) the employee's reduced hours of work for any week are less than one-half of his normal weekly hours, he shall for the purposes of this Part be taken to be kept on short-time for that week.” |
+| Section 13. | The substitution in subsection (4) of “section 12” for “section 12 (2)”. |
+| Section 15. | The deletion in subsections (1) and (2) of “who has received the notice required by section 17” and “in the period of two weeks ending on the date of dismissal”. |
+|  | The substitution in subsections (1) (*b*) and (2) (*b*) for “his dismissal” of “the termination of his contract”, and the substitution in subsections (1) (*c*) and (2) (*d*) for “dismissal” of “the termination of his contract”. |
+|  | The insertion after subsection (2) of the following subsection: |
+|  | “(2A) Where an employee who has been offered suitable employment and has carried out, for a period of not more than four weeks, the duties of that employment, refuses the offer, the temporary acceptance of that employment shall not solely constitute an unreasonable refusal for the purposes of this section.”. |
+|  | The substitution for subsection (3) of the following: |
+|  | “(3) Where a person who is entitled to a weekly payment has unreasonably refused suitable employment offered or approved by the National Manpower Service, that person shall be disqualified from receiving a weekly payment for a period not exceeding six weeks.”. |
+| Section 16. | The substitution in subsection (3) (*a*) of “none of the conditions specified in section 7 (2) is fulfilled, but” for “neither of the conditions specified in sections 7 (2) (*a*) and 7 (2) (*b*) is fulfilled, but”. |
+| Section 17. | The substitution in subsection (1) of “104 weeks” for “four years”. |
+| Section 18. | The substitution for subsection (1) of the following: |
+|  | “(1) When an employer dismisses by reason of redundancy an employee who has not less than 104 weeks' continuous employment, he shall give to the employee not later than the date of the dismissal a certificate (in this Part referred to as a redundancy certificate).”. |
+|  | The substitution for subsection (2) of the following: |
+|  | “(2) Whenever an employee who has not less than 104 weeks' continuous employment gives notice of intention to claim in accordance with section 12, his employer shall, subject to section 13, give him, not later than seven days after the service of the notice of intention to claim, a redundancy certificate.” |
+| Section 19. | The substitution in subsection (1) of “or where by virtue of section 12 an employee becomes entitled to redundancy payment” for “or upon the termination by such an employee in accordance with section 12 (2) of his contract of employment”. |
+| Section 21. | The substitution in subsection (2) of “section 7 (2)” for “section 7 (2) (*a*) or 7 (2) (*b*)”. |
+| Section 25. | The substitution in subsection (2) for “An employee” of “Notwithstanding subsection (1), an employee”. |
+| Section 30. | The substitution in subsection (1) of “or where by virtue of section 12 he becomes entitled to redundancy payment” for “or upon the termination by him, in accordance with section 12 (2), of his contract of employment”. |
+| Section 37. | The deletion of “from his officers”. |
+| Section 56. | The insertion in subsection (2) after “section 39” of “and section 40”. |
+| Schedule 1. | The deletion of paragraph 2 and the substitution therefor of the following— |
+|  | “(2) The total amount being paid to a person in respect of the following: a weekly payment, unemployment benefit under the Social Welfare Acts, 1952 to 1970, disability benefit under those Acts, maternity allowance under those Acts, unemployment assistance under the Unemployment Assistance Acts, 1933 to 1970, or (in the case of a person normally resident in Northern Ireland) a weekly payment, unemployment benefit under the National Insurance Acts (Northern Ireland) 1966 to 1970, sickness benefit under those Acts, maternity allowance under those Acts, supplementary benefit under the Supplementary Benefits Acts (Northern Ireland) 1966 to 1969, shall not exceed 90 per cent of that person’s normal weekly remuneration; provided that a person shall not receive in respect of unemployment benefit, disability or sickness benefit, maternity allowance, unemployment assistance or supplementary benefit less than that to which that person would, but for this Act, have been entitled.” |
+|  | The substitution for paragraph 4 of the following: |
+|  | “4. A weekly payment shall not be paid to a person otherwise entitled thereto for any period during which that person is, by virtue of section 15 (2) of the Act of 1952, disentitled to disability benefit or unemployment benefit.”. |
+|  | The substitution for paragraph 5 of the following: |
+|  | “5. (*a*) A weekly payment shall not be paid to a person in respect of any period unless during that period the person was not gainfully employed and the fact that he was not so employed could not reasonably be attributed to the person’s own failure or refusal to seek or accept or continue in suitable gainful employment. |
+|  | (*b*) A person who is entitled to and in receipt of unemployment benefit or disability benefit under the Social Welfare Acts, 1952 to 1970, may be deemed to be not gainfully employed for the purposes of this paragraph.”. |
+|  | The insertion in paragraph 6 after “redundancy” of “or by whom he was employed when he gave notice of intention to claim under section 12; provided that he shall, subject to paragraph 5, in every case be entitled to receive not less than four weekly payments”. |
+|  | The substitution for paragraph 7 of the following: |
+|  | “7. In calculating years of continuous employment for the purposes of paragraph 6 in relation to a person whose employment is terminated after the commencement of the Redundancy Payments Act, 1971, each period of one year during the whole of which the person entitled to the weekly payment was 41 years of age or older shall be reckoned as two completed years of continuous employment.”. |
+|  | The substitution in paragraph 9 of “any period referred to in paragraph 4” for “the two-week period mentioned in paragraph 4.” |
+|  | The substitution in paragraph 9 of “in such a period mentioned in paragraph 4” for “that two-week period”. |
+|  | The insertion in paragraph 14 after “within the State” of “or Northern Ireland”. |
+|  | The insertion after paragraph 14 of the following: |
+|  | “15. (1) A person who has lost employment by reason of a stoppage of work which was due to a trade dispute at the factory, workshop, farm or other premises or place at which he was employed shall not be entitled to a weekly payment so long as the stoppage of work continues, except, subject to paragraph 5, in a case where he has, during the stoppage of work, become *bona fide* employed elsewhere in the occupation which he usually follows or has become regularly engaged in some other occupation. (2) Where separate branches of work which are commonly carried on as separate businesses in separate premises or at separate places are in any case carried on in separate departments on the same premises or at the same place, each of those departments shall, for the purposes of subparagraph (1), be deemed to be a separate factory, workshop or farm or separate premises or a separate place, as the case may be. (3) Subparagraph (1) shall not apply to a person who— (*a*) is not participating in or financing or directly interested in the trade dispute which caused the stoppage of work, and (*b*) does not belong to a grade or class of workers of which, immediately before the commencement of the stoppage, there were members employed at his place of employment any of whom are participating in or financing or directly interested in the dispute. (4) In this paragraph ‘trade dispute’ means any dispute between employers and employees, or between employees and employees, which is connected with the employment or non-employment or the terms of employment or the conditions of employment of any persons, whether employees in the employment of the employer with whom the dispute arises or not.”. |
+| Schedule 2. | In paragraph 17, the substitution for “has given notice to an employee to terminate his contract of employment and” of “before the termination of an employee's contract of employment”. |
+|  | The deletion of paragraph 19 (1). |
+|  | The deletion of paragraph 20. |
+| Schedule 3. | The insertion in paragraphs 1 (*a*) and 1 (*b*) after “with the employer in whose employment he was on the date of dismissal”, of “or by whom he was employed when he gave notice of intention to claim under section 12,”. |
+|  | The deletion in paragraph 1 (*b*) of “on the date of his dismissal”. |
+|  | The insertion in paragraph 1 after subparagraph (*b*) of the following: |
+|  | “and (*c*) a sum equivalent to the employee's normal weekly remuneration.”. |
+|  | The deletion of paragraph 2. |
+|  | The substitution in paragraph 5 (1) for “Where an employee's period of service had been” of “Where an employee's period of employment is or was”. |
+|  | The insertion in paragraph 5 (1) (*a*) after “sickness” of “(including an injury)”. |
+|  | The insertion after paragraph 5 (1) (*a*) of the following: |
+|  | “(ai) any period by reason of service by the employee in the Reserve Defence Force,”. |
+|  | The deletion of paragraph 5 (1) (*b*) (iii). |
+|  | In paragraph 5 (1), the deletion of “has been given” and the substitution of “has or had been given”. |
+|  | The insertion after paragraph 5 of the following: |
+|  | “(5A) If an employee is dismissed by reason of redundancy before attaining the period of 104 weeks referred to in section 7 (5) (as amended) of the Principal Act and resumes employment with the same employer within 26 weeks, his employment shall be taken to be continuous.” |
+|  | The substitution for paragraph 6 of the following: |
+|  | “6. Where a trade or business or an undertaking (whether or not it be an undertaking established by or under an Act of the Oireachtas), or part of a trade or business or of such an undertaking, was or is transferred from one person to another, the period of employment of an employee in the trade, business or undertaking (or in the part of the trade, business or undertaking) at the time of the transfer shall count as a period of employment with the transferee, and the transfer shall not break the continuity of the period of employment.”. |
+|  | The insertion in paragraph 13 after “work done” where that secondly occurs of “and any payment in kind”. |
+|  | The substitution in paragraph 13 for “an employee who is expected to work overtime regularly” of “an employee who is normally expected to work overtime”. |
+|  | The deletion in paragraph 24 of the definition of “overtime premium”. |

@@ -1,0 +1,42 @@
+---
+title: "ACP-EEC Convention of Lome (Contracts of Guarantee Between State and European Investment Bank) Act, 1976"
+identifier: "eli/1976/act/1"
+type: act
+jurisdiction: ie
+language: en
+number: 1
+year: 1976
+date: 1976-01-27
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1976/act/1/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# ACP-EEC Convention of Lome (Contracts of Guarantee Between State and European Investment Bank) Act, 1976
+
+AN ACT TO EMPOWER THE MINISTER FOR FINANCE TO FULFIL THE OBLIGATIONS UNDERTAKEN BY THE STATE IN IMPLEMENTATION OF THE ACP-EEC CONVENTION OF LOMÉ UNDER ARTICLE 9 OF THE INTERNAL AGREEMENT ON THE FINANCING AND ADMINISTRATION OF COMMUNITY AID DONE AT BRUSSELS ON THE 11TH DAY OF JULY, 1975, ON BEHALF OF THE GOVERNMENTS OF THE MEMBER STATES OF THE EUROPEAN ECONOMIC COMMUNITY. [27*th January*, 1976]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## 1. Definitions.
+
+**1.**—In this Act—
+
+“the Agreement” means the Internal Agreement on the Financing and Administration of Community Aid done at Brussels on the 11th day of July, 1975, on behalf of the governments of the Member States of the European Economic Community;
+
+“the Bank” means the European Investment Bank;
+
+“the Minister” means the Minister for Finance.
+
+## 2. Power of Minister to make contracts of guarantee with European Investment Bank.
+
+**2.**—The Minister shall have power to fulfil on behalf of the State the obligations undertaken by the State under Article 9 of the Agreement to act as guarantor for the Bank, in proportion to the State's contributions to the capital of the Bank, in respect of all financial commitments arising for borrowers of the Bank out of the loan contracts concluded by the Bank in respect of its own resources in implementation of the ACP-EEC Convention of Lomé done at Lomé on the 28th day of February, 1975, and the Decision referred to in paragraph 1 of Article 9 of the Agreement and, accordingly, the Minister may make, on behalf of the State, contracts of guarantee with the Bank.
+
+## 3. Payments out of Central Fund.
+
+**3.**—All moneys from time to time required by the Minister to meet sums which may become payable by him under this Act shall be paid out of and charged on the Central Fund or the growing produce thereof.
+
+## 4. Short title.
+
+**4.**—This Act may be cited as the ACP-EEC Convention of Lomé (Contracts of Guarantee between State and European Investment Bank) Act, 1976.

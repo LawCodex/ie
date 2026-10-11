@@ -1,0 +1,48 @@
+---
+title: "Wireless Telegraphy Act, 1956"
+identifier: "eli/1956/act/4"
+type: act
+jurisdiction: ie
+language: en
+number: 4
+year: 1956
+date: 1956-02-21
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1956/act/4/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Wireless Telegraphy Act, 1956
+
+AN ACT TO AMEND THE WIRELESS TELEGRAPHY ACT, 1926, WITH RETROSPECTIVE EFFECT AND TO PROVIDE FOR CERTAIN VALIDATIONS. [21*st February,* 1956.]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:—
+
+## 1. Principal Act.
+
+**1.**—In this Act “the Principal Act” means the Wireless Telegraphy Act, 1926 (No. 45 of 1926).
+
+## 2. Amendment of section 5 of Principal Act.
+
+**2.**—Section 5 of the Principal Act is hereby amended by the insertion after subsection (1) of the following subsection:
+
+“(1A) For the purposes of this Act and any regulations under section 6 of this Act, a vehicle shall itself be deemed to be a place separate and distinct from the premises in which such vehicle is ordinarily kept, and the word ‘place’ and the expression ‘specified place’ shall in this Act and in any such regulations be construed accordingly.”
+
+## 3. Retrospective operation and validations.
+
+**3.**—Section 2 of this Act shall be deemed to have come into operation immediately after the commencement of the Principal Act and accordingly—
+
+(*a*) any regulations made before the passing of this Act and framed as regulations under section 6 of the Principal Act or subsection (1) of that section,
+
+(*b*) any licences issued before the passing of this Act and framed as licences issued subject to any such regulations, and
+
+(*c*) the collection and payment of any fees paid in respect of any such licences,
+
+shall be, and shall be deemed always to have been, as valid for all purposes as if section 2 of this Act had come into operation immediately after the commencement of the Principal Act.
+
+## 4. Short title and collective citation.
+
+**4.**—(1) This Act may be cited as the Wireless Telegraphy Act, 1956.
+
+(2) The Principal Act and this Act may be cited together as the Wireless Telegraphy Acts, 1926 and 1956.

@@ -1,0 +1,54 @@
+---
+title: "University College Dublin Act, 1960"
+identifier: "eli/1960/act/16"
+type: act
+jurisdiction: ie
+language: en
+number: 16
+year: 1960
+date: 1960-06-08
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1960/act/16/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# University College Dublin Act, 1960
+
+AN ACT TO AUTHORISE THE GOVERNING BODY OF UNIVERSITY COLLEGE, DUBLIN, TO MAKE, DURING A LIMITED PERIOD, APPOINTMENTS TO CERTAIN OFFICES AND TO VALIDATE APPOINTMENTS WHICH THAT BODY HAS MADE TO THOSE OFFICES. [8*th June,* 1960.]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:—
+
+## 1. Interpretation.
+
+**1.**—In this Act—
+
+“the College” means University College, Dublin;
+
+“the Governing Body” means the Governing Body of the College.
+
+## 2. Authorisation to make appointments.
+
+**2.**—(1) The Governing Body may, notwithstanding anything contained in any other enactment (including any charter or statute of the College), but subject to subsections (2) and (3) of this section, make appointments to the following offices in the College:
+
+(*a*) College Lecturer,
+
+(*b*) Assistant Lecturer.
+
+(2) An appointment under this section shall be made for such period not exceeding one year and on such terms as to remuneration and other matters as may be determined by the Governing Body.
+
+(3) (*a*) An appointment under this section shall not be made after the specified day.
+
+(*b*) Subject to paragraphs (*c*) and (*d*) of this subsection, the reference in paragraph (*a*) of this subsection to the specified day shall be construed as a reference to the 31st day of March, 1962.
+
+(*c*) The Government may, at any time before the 31st day of March, 1962, by order declare that the specified day for the purposes of paragraph (*a*) of this subsection is the 31st day of March, 1963, and, if the Government by order so declare, then, subject to paragraph (*d*) of this subsection, the reference in paragraph (*a*) of this subsection to the specified day shall be construed as a reference to the 31st day of March, 1963.
+
+(*d*) If the Government make an order under paragraph (*c*) of this subsection, they may, at any time before the 31st day of March, 1963, by order declare that the specified day for the purposes of paragraph (*a*) of this subsection is the 31st day of March, 1964, and, if the Government by order so declare, the reference in paragraph (*a*) of this subsection to the specified day shall be construed as a reference to the 31st day of March, 1964.
+
+## 3. Validation.
+
+**3.**—Every appointment which the Governing Body purported to make at any time before the passing of this Act to an office mentioned in subsection (1) of section 2 of this Act shall be, and shall be deemed always to have been, as valid for all purposes as if that office had stood duly created at that time and that section, modified by the substitution in subsection (2) thereof of a reference to five years for the reference to one year, had been in operation at that time.
+
+## 4. Short title.
+
+**4.**—This Act may be cited as the University College Dublin Act, 1960.

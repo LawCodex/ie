@@ -1,0 +1,60 @@
+---
+title: "Electricity (Supply) (Amendment) Act, 1955"
+identifier: "eli/1955/act/20"
+type: act
+jurisdiction: ie
+language: en
+number: 20
+year: 1955
+date: 1955-07-29
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1955/act/20/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Electricity (Supply) (Amendment) Act, 1955
+
+AN ACT TO AUTHORISE AN INCREASE IN THE TOTAL EXPENDITURE OF THE ELECTRICITY SUPPLY BOARD FOR THE ELECTRIFICATION OF RURAL AREAS AND FOR THAT AND OTHER PURPOSES TO AMEND THE ELECTRICITY (SUPPLY) ACTS, 1927 TO 1954. [29*th July,* 1955.]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:—
+
+## 1. Definitions.
+
+**1.**—In this Act—
+
+“the Acts” means the Electricity (Supply) Acts, 1927 to 1954;
+
+“the Board” means the Electricity Supply Board;
+
+“the Act of 1954” means the Electricity (Supply) (Amendment) Act, 1954 (No. 17 of 1954).
+
+## 2. Limitation on total expenditure for rural electrification.
+
+**2.**—(1) The total expenditure of the Board for the electrification of rural areas shall not exceed twenty-five million pounds.
+
+(2) The Minister for Finance shall not advance moneys to the Board and the Board shall not borrow moneys from any source for the electrification of rural areas if the total of moneys so advanced or borrowed, whether before or after the passing of this Act, would thereby exceed the limitation imposed by this section.
+
+## 3. Borrowing for rural electrification.
+
+**3.**—The borrowing powers conferred on the Board by section 4 of the Act of 1954 may be exercised to provide moneys for the electrification of rural areas and, accordingly, in subsection (2) of the section, the words “other than the electrification of rural areas” are hereby repealed.
+
+## 4. Advances from Central Fund.
+
+**4.**—(1) The limitation on the total amount of advances under section 41 of the Electricity (Supply) (Amendment) Act, 1945 (No. 12 of 1945), for the electrification of rural areas, imposed by subsection (1) of that section, is hereby removed.
+
+(2) The total amount remaining due to the Central Fund at the passing of this Act in respect of advances already made under that section together with the total amount of moneys hereafter advanced shall be repaid by the Board.
+
+(3) Subsection (3) of that section and section 7 of the Act of 1954 are hereby repealed.
+
+## 5. Guarantee of securities.
+
+**5.**—A guarantee of the Minister for Finance, given under section 9 of the Act of 1954, for the due repayment of moneys borrowed by the Board under section 4 of that Act may extend also to the payment of interest on such moneys.
+
+## 6. Short title, collective citation and construction.
+
+**6.**—(1) This Act may be cited as the Electricity (Supply) (Amendment) Act, 1955.
+
+(2) The Acts and this Act may be cited together as the Electricity (Supply) Acts, 1927 to 1955.
+
+(3) The Acts and this Act shall be construed together as one.

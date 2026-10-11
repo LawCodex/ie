@@ -1,0 +1,48 @@
+---
+title: "Imposition of Duties (Confirmation of Orders) (No. 2) Act, 1955"
+identifier: "eli/1955/act/22"
+type: act
+jurisdiction: ie
+language: en
+number: 22
+year: 1955
+date: 1955-11-15
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1955/act/22/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Imposition of Duties (Confirmation of Orders) (No. 2) Act, 1955
+
+AN ACT TO CONFIRM CERTAIN ORDERS MADE UNDER THE EMERGENCY IMPOSITION OF DUTIES ACT, 1932. [15*th November*, 1955.]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:—
+
+## 1. Confirmation of Orders.
+
+**1.**—(1) The several Orders mentioned in the second column of the Schedule to this Act, and made under the Emergency Imposition of Duties Act, 1932 (No. 16 of 1932), are hereby confirmed.
+
+(2) The particulars stated in the first and third columns, respectively, of the Schedule to this Act in relation to the Orders mentioned in the second column of the said Schedule are inserted in the said Schedule solely to facilitate reference to and indentification of the said Orders, and, accordingly, nothing contained in the said first column or the said third column shall affect the construction or limit or control the operation of this section and the second column of the said Schedule.
+
+## 2. Short title.
+
+**2.**—This Act may be cited as the Imposition of Duties (Confirmation of Orders) (No. 2) Act, 1955.
+
+## SCHEDULE.
+
+| Number and year of Statutory Instruments | Title | General Subject Matter |
+|---|---|---|
+| No. 46 of 1955 | Emergency Imposition of Duties (No. 345) (Gloves) Order, 1955. | Imposition of specific duties on certain gloves made from textile materials, other than wool. |
+| No. 61 of 1955 | Emergency Imposition of Duties (No. 346) (Slashers or Slash Hooks) Order, 1955. | Reduction of duty on slashers or slash hooks. |
+| No. 66 of 1955 | Emergency Imposition of Duties (No. 347) (Silk and Artificial Silk) Order, 1955. | Increase in duty on certain artificial silk piece goods. |
+| No. 101 of 1955 | Emergency Imposition of Duties (No. 348) (Felting) Order, 1955. | Imposition of duty on underfelt and articles made therefrom. |
+| No. 106 of 1955 | Emergency Imposition of Duties (No. 349) (Flexible Mirror Glass) Order, 1955. | Imposition of duty on flexible mirror glass. |
+| No. 105 of 1955 | Emergency Imposition of Duties (No. 350) (Gloves) (No. 2) Order, 1955. | Imposition of specific duties on certain knitted woollen gloves. |
+| No. 131 of 1955 | Emergency Imposition of Duties (No. 351) (Woven Artificial Textile and Union Fabrics) Order, 1955 | Amendment of duty on certain woven synthetic or artificial textile and union cloths and imposition of specific duty. |
+| No. 134 of 1955 | Emergency Imposition of Duties (No. 352) (Display Shapes or Stands) (Plaster of Paris or Papier Mache) Order, 1955. | Revocation of duty on certain display figures, shapes or stands. |
+| No. 135 of 1955 | Emergency Imposition of Duties (No. 353) (Storage Water Heaters) Order, 1955. | Imposition of duty on certain copper storage water heaters and parts. |
+| No. 166 of 1955 | Emergency Imposition of Duties (No. 354) (Iron and Steel Fencing Material) Order, 1955. | Revocation of duty on angle iron fencing posts and stakes. |
+| No. 169 of 1955 | Emergency Imposition of Duties (No. 355) (Milk Cans) Order, 1955. | Increase in duty on certain milk cans. |
+| No. 172 of 1955 | Emergency Imposition of Duties (No. 356) (Iron and Steel Bolts) Order, 1955. | Amendment of duty on iron and steel bolts, set screws and metal thread screws. |
+| No. 173 of 1955 | Emergency Imposition of Duties (No. 357) (Margarine) Order, 1955. | Amendment of duty on margarine. |

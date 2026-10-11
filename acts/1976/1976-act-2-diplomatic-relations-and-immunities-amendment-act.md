@@ -1,0 +1,42 @@
+---
+title: "Diplomatic Relations and Immunities (Amendment) Act, 1976"
+identifier: "eli/1976/act/2"
+type: act
+jurisdiction: ie
+language: en
+number: 2
+year: 1976
+date: 1976-01-27
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1976/act/2/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Diplomatic Relations and Immunities (Amendment) Act, 1976
+
+AN ACT TO AMEND THE DIPLOMATIC RELATIONS AND IMMUNITIES ACT, 1967. [27*th January*, 1976]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## 1. Immunities under international agreements.
+
+**1.**—The Diplomatic Relations and Immunities Act, 1967, is hereby amended by the insertion after section 42 of the following section:
+
+“42A (1) The Government may by order make provision to enable—
+
+(*a*) international organisations, communities or bodies, their institutions or organs and their property, and
+
+(*b*) persons,
+
+to have and enjoy in the State any inviolability, exemptions, facilities, immunities, privileges or rights provided for in relation to them by an international agreement to which the State or the Government is or intends to become a party.
+
+(2) The Government may by order revoke or amend an order under this section including an order under this subsection.
+
+(3) Section 41 of this Act shall apply in relation to organisations, communities and bodies and their institutions or organs in respect of which an order under this section is in force and section 46 of this Act shall apply in relation to any inviolability, exemptions, facilities, immunities or privileges for which provision is made by such an order.”
+
+## 2. Short title and collective citation.
+
+**2.**—(1) This Act may be cited as the Diplomatic Relations and Immunities (Amendment) Act, 1976.
+
+(2) The Diplomatic Relations and Immunities Act, 1967, and this Act may be cited together as the Diplomatic Relations and Immunities Acts, 1967 and 1976.

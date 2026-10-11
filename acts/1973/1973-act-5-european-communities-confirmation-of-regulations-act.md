@@ -1,0 +1,56 @@
+---
+title: "European Communities (Confirmation of Regulations) Act, 1973"
+identifier: "eli/1973/act/5"
+type: act
+jurisdiction: ie
+language: en
+number: 5
+year: 1973
+date: 1973-06-11
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1973/act/5/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# European Communities (Confirmation of Regulations) Act, 1973
+
+AN ACT TO CONFIRM CERTAIN REGULATIONS MADE UNDER THE EUROPEAN COMMUNITIES ACT, 1972. [11*th June*, 1973]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## 1. Confirmation of Regulations.
+
+**1.**—The several Regulations mentioned in column (2) of the Schedule to this Act, and made under the European Communities Act, 1972, are hereby confirmed.
+
+## 2. Short title.
+
+**2.**—This Act may be cited as the European Communities (Confirmation of Regulations) Act, 1973.
+
+## SCHEDULE — Regulations Confirmed
+
+| Number and Year | Title |
+|---|---|
+| (1) | (2) |
+| S.I. No. 311 of 1972. | European Communities (Motor Vehicles) Regulations, 1972. |
+| S.I. No. 312 of 1972. | European Communities (Crystal Glass) Regulations, 1972. |
+| S.I. No. 314 of 1972. | European Communities (Shipbuilding) Regulations, 1972. |
+| S.I. No. 320 of 1972. | European Communities (Rules of Court) Regulations, 1972. |
+| S.I. No. 325 of 1972. | European Communities (Textiles) Regulations, 1972. |
+| S.I. No. 329 of 1972. | European Communities (State Financial Transactions) Regulations, 1972. |
+| S.I. No. 331 of 1972. | European Communities (Enforcement of Community Judgements) Regulations, 1972. |
+| S.I. No. 333 of 1972. | European Communities (Aliens) Regulations, 1972. |
+| S.I. No. 334 of 1972. | European Communities (Customs) Regulations, 1972. |
+| S.I. No. 339 of 1972. | European Communities (National Catalogue of Agricultural Plant Varieties) Regulations, 1972. |
+| S.I. No. 341 of 1972. | European Communities (Judicial Notice and Documentary Evidence) Regulations, 1972. |
+| S.I. No. 14 of 1973. | European Communities (Cycle Tyres) Regulations, 1973. |
+| S.I. No. 19 of 1973. | European Communities (Seeds of Perennial Ryegrass and Cereals) Regulations, 1973. |
+| S.I. No. 20 of 1973. | European Communities (Fruit and Vegetables) Regulations, 1973. |
+| S.I. No. 24 of 1973. | European Communities (Common Agricultural Policy) (Market Intervention) Regulations, 1973. |
+| S.I. No. 30 of 1973. | European Communities (Bacon Levy Periods) Regulations, 1973. |
+| S.I. No. 32 of 1973. | European Communities (An Bord Bainne) Regulations, 1973. |
+| S.I. No. 43 of 1973. | European Communities (Names and Labelling of Textile Products) Regulations, 1973. |
+| S.I. No. 67 of 1973. | European Communities (Measuring Instruments) Regulations, 1973. |
+| S.I. No. 127 of 1973. | European Communities (Fishery Limits) Regulations, 1973. |
+| S.I. No. 128 of 1973. | European Communities (Marketing Standards for Eggs) Regulations, 1973. |
+| S.I. No. 129 of 1973. | European Communities (Fresh Poultry Meat) Regulations, 1973. |

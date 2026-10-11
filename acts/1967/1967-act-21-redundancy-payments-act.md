@@ -1,0 +1,2689 @@
+---
+title: "Redundancy Payments Act, 1967"
+identifier: "eli/1967/act/21"
+type: act
+jurisdiction: ie
+language: en
+number: 21
+year: 1967
+date: 1967-12-18
+last_amended: 2023-07-03
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1967/act/21/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1967/act/21/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Redundancy Payments Act, 1967
+
+AN ACT TO PROVIDE FOR THE MAKING BY EMPLOYERS OF PAYMENTS TO EMPLOYEES IN RESPECT OF REDUNDANCY, TO ESTABLISH A REDUNDANCY FUND AND TO REQUIRE EMPLOYERS AND EMPLOYEES TO PAY CONTRIBUTIONS TOWARDS THAT FUND, TO PROVIDE FOR PAYMENTS TO BE MADE OUT OF THAT FUND TO EMPLOYERS AND EMPLOYEES, TO PROVIDE FINANCIAL ASSISTANCE TO CERTAIN UNEMPLOYED PERSONS CHANGING RESIDENCE, AND TO PROVIDE FOR OTHER MATTERS (INCLUDING OFFENCES) CONNECTED WITH THE MATTERS AFORESAID. [18*th December*, 1967.]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:—
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Prospective affecting provision: functions transferred and Employment Appeals Tribunal construed by *Workplace Relations Act 2015* (16/2015), s. 66, not commenced as of date of revision.
+>
+> **Transfer of functions from Employment Appeals Tribunal**
+>
+> **66.**(1) (*a*) All functions that, immediately before the dissolution day, were vested in the Employment Appeals Tribunal are transferred to the Commission in so far as they relate to any claim for redress, dispute or complaint determined by the Employment Appeals Tribunal under an employment enactment before that day.
+>
+> (*b*) All functions that, immediately before the dissolution day, were vested in the Employment Appeals Tribunal are transferred to the Labour Court in so far as they relate to appeals determined by the Employment Appeals Tribunal under an employment enactment before that day.
+>
+> (2) (*a*) References in any enactment or instrument under an enactment to the Employment Appeals Tribunal in so far as they relate to a function transferred by paragraph (a) of subsection (1) shall be construed as references to the Commission.
+>
+> (*b*) References in any enactment or instrument under an enactment to the Employment Appeals Tribunal in so far as they relate to a function transferred by paragraph (b) of subsection (1) shall be construed as references to the Labour Court.
+>
+> (3) This section shall come into operation on the dissolution day.
+>
+> C2: Functions transferred and references construed (14.10.2020) by *Employment Affairs and Employment Law (Transfer of Departmental Administration and Ministerial Functions) Order 2020* (S.I. No. 438 of 2020), arts. 2, 3(1)(a), (2) and sch., in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Business, Enterprise and Innovation.
+>
+> (2) References to the Department of Employment Affairs and Social Protection contained in any Act or any instrument made under such Act and relating to any administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Business, Enterprise and Innovation.
+>
+> 3\. (1) The functions vested in the Minister for Employment Affairs and Social Protection -
+>
+> (*a*) by or under the Acts specified in Part 1 of the Schedule and the provisions of the Acts specified in Part 2 of the Schedule, and
+>
+> ...
+>
+> are transferred to the Minister for Business, Enterprise and Innovation.
+>
+> ...
+>
+> (2) References to the Minister for Employment Affairs and Social Protection contained in any Act or instrument made under such Act and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for Business, Enterprise and Innovation.
+>
+> SCHEDULE
+>
+> PART 2
+>
+> PROVISIONS OF ACTS OF THE OIREACHTAS
+>
+> Redundancy Payments Act 1967 (No. 21 of 1967)
+>
+> ...
+>
+> C3: Application of collectively cited *Redundancy Payments Acts 1967 to 1990* (“relevant enactment” as per s. 3) extended (20.12.2001) by *Protection of Employees (Part-Time Work) Act 2001* (45/2001), s. 8, S.I. No. 636 of 2001.
+>
+> **Application of relevant enactments.**
+>
+> **8.**— Each relevant enactment shall apply to a part-time employee in the same manner, and subject to the like exceptions not inconsistent with this section, as it applies, other than by virtue of this Act, to an employee to whom that enactment relates.
+>
+> C4: Application of collectively cited *Redundancy Payments Acts 1967 to 1991* not restricted (1.04.2000) by *National Minimum Wage Act 2000* (5/2000), s. 41(12), S.I. No. 96 of 2000.
+>
+> **Employer in financial difficulty**
+>
+> **41.** — ...
+>
+> (12) For the purposes of calculating an employee’s entitlement to a redundancy payment under the Redundancy Payments Acts, 1967 to 1991, any exemption under this section shall be ignored and the calculation made as if the employee had been paid the national minimum hourly rate of pay to which he or she was otherwise entitled under this Act, for the period of the exemption.
+>
+> C5: Application of collectively cited *Redundancy Payments Acts 1967 to 1990* extended (1.05.1997) by *Labour Services Act Apprenticeship Rules 1997* (S.I. No. 168 of 1997), rl. 7(1).
+>
+> **Dismissal**
+>
+> 7\. (1) Subject to 7 (2), no employer shall dismiss any apprentice save in strict accordance with the provision of the Unfair Dismissals Acts 1977 and 1993, the Protection of Employment Act 1977, the Minimum Notice and Terms of Employment Act 1973, and the Redundancy Payments Acts 1967 to 1990.
+>
+> C6: Term “Redundancy Appeals Tribunal” construed (9.05.1977) by *Unfair Dismissals Act 1977* (10/1977), s. 18, S.I. No. 138 of 1977.
+>
+> **Employment Appeals Tribunal.**
+>
+> **18.**—The tribunal established by section 39 of the Redundancy Payments Act, 1967, shall be known as the Employment Appeals Tribunal and references in that Act and any other Act of the Oireachtas and any instrument made under any Act of the Oireachtas to the Redundancy Appeals Tribunal shall be construed as references to the Employment Appeals Tribunal.
+>
+> C7: Application of Act extended (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 2, S.I. No. 230 of 1971.
+>
+> **Extension of application of certain provisions of Acts.**
+>
+> 2\. — In relation to an employee whose employment is terminated by reason of redundancy on or after the commencement of this Act, any provision of the Principal Act or this Act which affects or relates to the preservation of continuity of the employee‘s employment shall apply to periods of employment before the 1st day of January, 1968, as they apply to such periods after that date.
+>
+> C8: Application of Act extended (1.10.1971) by *Redundancy Payments Act 1971* (20/1971), s. 8, S.I. No. 230 of 1971.
+>
+> **Redundancy payment to certain employees dismissed before commencement of Act.**
+>
+> **8.**— (1) Where an employee who was dismissed before the commencement of this Act was not entitled to redundancy payment under the Principal Act in respect of the dismissal solely because the requirements of the business carried on by his employer for employees to carry out work of a particular kind, or to carry out such work in the place where the employee had been so employed, had not ceased or diminished or were not expected to cease or diminish, the Minister may, at his discretion and notwithstanding the Principal Act, pay to that employee out of the Redundancy Fund a sum equal in amount to the sum to which he would have been entitled under the Principal Act if the said requirements had ceased or diminished or were expected to cease or diminish.
+>
+> (2) In relation to the amendments of the Principal Act referred to in section 19 (2), the Minister may, in respect of a dismissal or a termination of employment in the period beginning on the 22nd day of January, 1971 and ending on the commencement of this section and notwithstanding the Principal Act, pay to an employee out of the Redundancy Fund any moneys to which the employee may become entitled by virtue of the said section 19 (2).
+>
+> C9: Power to adapt and modify Act vested in Minister (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 17, S.I. No. 230 of 1971; references to “Minister” construed as references to “Minister for Social Protection” (1.01.2011) by *Redundancy and Insolvency Payments (Transfer of Departmental Administration and Ministerial Functions) Order 2010* (S.I. No. 189 of 2010), art. 3(2), in effect as per reg. 1(2).
+>
+> **Reciprocal arrangements**
+>
+> **17.**—(1) The Minister may make such orders as may be necessary to carry out any reciprocal or other arrangements, made with the proper authority under any other Government, in respect of matters relating to redundancy payments, and may by any such order make such adaptations of and modifications in the Principal Act as he considers necessary.
+>
+> (2) The Minister may by order amend or revoke an order under this section.
+>
+> **Editorial Notes:**
+>
+> E1: For purposes of collectively cited *Redundancy Payments Acts 1967 to 1914* an employee not permitted to return to work to whom the *Parent’s Leave and Benefit Act 2019* applies shall be deemed to have been dismissed by reason of redundancy, the date of dismissal being deemed to be the date of expected return, as provided (1.11.2019) by *Parent’s Leave and Benefit Act 2019* (35/2019), s. 22(2), S.I. No. 629 of 2019.
+>
+> E2: Date of redundancy in respect of employees to whom collectively cited *Redundancy Payments Acts 1967 to 2014* applies prescribed (1.08.2016) by *Paternity Leave and Benefit Act 2016* (11/2016), s. 26(2), S.I. No. 435 of 2016.
+>
+> E3: Collectively cited *Redundancy Payments Acts 1967 to 2014* included in definitions of “employment enactment” and “relevant enactment” (1.08.2015) by *Workplace Relations Act 2015* (16/2015), s. 2 and sch. 1 part 1 item 18, S.I. No. 338 of 2015, with the following effects:
+>
+> • Authorised officers or inspectors under employment enactments deemed to be appointed under *Workplace Relations Act 2015* (16/2015), s. 26(2) and subject to termination under s. 26(4).
+>
+> • Powers of inspectors for purposes of relevant enactments defined in *Workplace Relations Act 2015* (16/2015), s. 27.
+>
+> • Workplace Relations Commission, an inspector or an adjudication officer authorised to disclose employer’s registered number or employee’s PPSN to enable Labour Court to perform functions under relevant enactments by *Workplace Relations Act 2015* (16/2015) s. 31(5).
+>
+> • Power of Workplace Relations Commission and official body to disclose information to each other concerning the commission of offence under relevant enactment provided by *Workplace Relations Act 2015* (16/2015), s. 32.
+>
+> • Power of Workplace Relations Commission and contracting authority to disclose information to each other concerning the commission of offence under employment enactment/ relevant enactment provided by *Workplace Relations Act 2015* (16/2015), s. 33.
+>
+> • Powers of Minister to prosecute under relevant enactments transferred to Workplace Relations Commission and references construed by *Workplace Relations Act 2015* (16/2015), s. 37.
+>
+> • Functions of EAT to hear claims under employment enactments transferred to Workplace Relations Commission and references to EAT construed by *Workplace Relations Act 2015* (16/2015) s. 66(1), (2), not commenced as of date of revision.
+>
+> E4: Employee deemed to be dismissed by reason of redundancy in certain circumstances and date of redundancy prescribed (3.12.1998) by *Parental Leave Act 1998* (30/1998), s. 25(3)(b), commenced as per s. 1(2).
+>
+> E5: Employee deemed to be dismissed by reason of redundancy in certain circumstances and date of redundancy prescribed (20.03.1995) by *Adoptive Leave Act 1995* (2/1995), s. 29, S.I. No. 64 of 1995.
+>
+> E6: Employee deemed to be dismissed by reason of redundancy in certain circumstances and date of redundancy prescribed (30.01.1995) by *Maternity Protection Act 1994* (34/1994), s. 40(2), S.I. No. 16 of 1995.
+>
+> E7: Previous affecting provision: application of collectively cited *Redundancy Payments Acts 1967 to 1990* ("relevant enactment" as per s. 1) extended (17.06.1991) by *Worker Protection (Regular Part-Time Employees) Act 1991* (5/1991), s. 3, S.I. No. 144 of 1991; repealed (20.12.2001) by *Protection of Employees (Part-Time Work) Act 2001* (45/2001), s. 5, S.I. No. 636 of 2001.
+>
+> E8: Previous affecting provision: references to “Redundancy Fund” construed (30.11.1984) by *Protection of Employees (Employers’ Insolvency) Act 1984* (21/1984), s. 2, commenced on enactment; repealed (6.04.1991) by *Social Welfare Act 1991* (7/1991), s. 39(2), commenced as per subs. (3).
+>
+> E9: Previous affecting provision: application of Act restricted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 3, S.I. No. 230 of 1971; repealed (8.05.2007) by *Protection of Employment (Exceptional Collective Redundancies and Related Matters) Act 2007* (27/2007), s. 20, commenced on enactment.
+
+## PART IPreliminary and General — PART I — Preliminary and General
+
+### 1. Short title.
+
+**1.**—This Act may be cited as the Redundancy Payments Act, 1967.
+
+### 2. Interpretation.
+
+**2.**—(1) In this Act—
+
+“the Act of 1952” means the Social Welfare Act, 1952;
+
+F1["Act of 2015" means the Workplace Relations Act 2015;
+
+"adjudication officer" has the same meaning as it has in the Act of 2015;]
+
+F2["adopting parent" means an employee who is an adopting parent within the meaning of the Adoptive Leave Act 1995;]
+
+“business” includes a trade, industry, profession or undertaking, or any activity carried on by a person or body of persons, whether corporate or unincorporate, or by a public or local authority or a Department of State, and the performance of its functions by a public or local authority or a Department of State;
+
+F3["contract of employment" means—
+
+(*a*) a contract of service or apprenticeship, and
+
+(*b*) any other contract whereby an individual agrees with another person, who is carrying on the business of an employment agency within the meaning of the Employment Agency Act 1971 and is acting in the course of that business, to do or perform personally any work or service for a third person (whether or not the third person is a party to the contract),
+
+whether the contract is express or implied and, if express, whether it is oral or in writing and references to "contract" shall be construed accordingly;]
+
+“date of dismissal”, in relation to an employee, means—
+
+(*a*) where his contract of employment is terminated by notice given by his employer, the date on which that notice expires,
+
+(*b*) where his contract of employment is terminated without notice, whether by the employer or by the employee, the date on which the termination takes effect, and
+
+(*c*) where he is employed under a contract for a fixed term, and that term expires without the contract being renewed, the date on which that term expires,
+
+and cognate phrases shall be construed accordingly;
+
+F1["Director General" means the Director General of the Workplace Relations Commission;]
+
+F4["employee" means a person of 16 years and upwards who has entered into or works under (or, where the employment has ceased, entered into or worked under) a contract of employment and references, in relation to an employer, to an employee shall be construed as references to an employee employed by that employer and, for the purposes of this Act, a person holding office under, or in the service of, the State (including a civil servant within the meaning of the Civil Service Regulation Act 1956) shall be deemed to be an employee employed by the State or Government, as the case may be, and an officer or servant of a local authority, a harbour authority, the Eastern Regional Health Authority, the Northern Area Health Board, the East Coast Area Health Board or the South-Western Area Health Board, a health board or F5[education and training board] shall be deemed to be an employee employed by the authority, health board or F5[education and training board], as the case may be;]
+
+F6["employer" means, in relation to an employee, the person with whom the employee has entered into or for whom the employee works under (or, where the employment has ceased, entered into or worked under) a contract of employment, subject to the qualification that the person who under a contract of employment referred to in paragraph (*b*) of the definition of "contract of employment" is liable to pay the wages of the individual concerned in respect of the work or service concerned shall be deemed to be the individual’s employer;]
+
+F7[...]
+
+“lay-off” has the meaning assigned to it by section 11 (1);
+
+F8["local authority" means a local authority for the purposes of the Local Government Act 2001 (as amended by the Local Government Reform Act 2014);]
+
+“lump sum” has the meaning assigned to it by section 19;
+
+F9["Minister" means the Minister for Enterprise, Trade and Employment;]
+
+F10["the National Manpower Service" means the service known by that title and operated under the control of the Minister;]
+
+“prescribed” means prescribed by regulations made by the Minister under this Act;
+
+“rebate” has the meaning assigned to it by section 29;
+
+“redundancy payment” has the meaning assigned to it by section 7;
+
+“short-time” has the meaning assigned to it by section 11 (2) F11[or section 11 (3) (as the case may be)];
+
+“sickness” or “illness” includes being incapable of work within the meaning of the Act of 1952;
+
+F12["the Social Insurance Fund" means the Social Insurance Fund established under section 39 of the Social Welfare Act, 1952, and continued in being under section 122 of the Social Welfare (Consolidation) Act, 1981;]
+
+“special redundancy scheme” has the meaning assigned to it by section 47;
+
+“the Tribunal” has the meaning assigned to it by section 39 (1);
+
+“week”, in relation to an employee whose remuneration is calculated weekly by a week ending on a day other than Saturday, means a week ending on that other day and, in relation to any other employee, means a week ending on Saturday, and “weekly” shall be construed accordingly;
+
+“weekly payment” has the meaning assigned to it by section 30.
+
+(2) In this Act a reference to a Part, section or schedule is to a Part or section of, or schedule to, this Act unless it is indicated that reference to some other enactment is intended.
+
+(3) In this Act a reference to a subsection, paragraph, sub-paragraph or other division is to the subsection, paragraph, sub-paragraph or other division of the provision (including a schedule) in which the reference occurs, unless it is indicated that reference to another provision is intended.
+
+(4) For the purposes of the operation of this Act in relation to an employee whose remuneration is payable to him by a person other than his employer, reference in this Act to an employer shall be construed as reference to the person by whom the remuneration is payable.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 76(1)(a), S.I. No. 410 of 2015, subject to transitional provisions in subs. (2).
+>
+> F2: Substituted (18.01.2016) by *Children and Family Relationships Act 2015* (9/2015), s. 173, S.I. No. 12 of 2016.
+>
+> F3: Inserted (25.05.2003) by *Redundancy Payments Act 2003* (14/2003), s. 3(a), S.I. No. 194 of 2003.
+>
+> F4: Substituted (25.05.2003) by *Redundancy Payments Act 2003* (14/2003), s. 3(b), S.I. No. 194 of 2003.
+>
+> F5: Substituted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s. 72 and sch. 6 item 4, S.I. No. 211 of 2013.
+>
+> F6: Substituted (25.05.2003) by *Redundancy Payments Act 2003* (14/2003), s. 3(c), S.I. No. 194 of 2003.
+>
+> F7: Deleted (6.04.1991) by *Social Welfare Act 1991* (7/1991), s. 39(1) and sch. C, commenced as per s. 39(3).
+>
+> F8: Substituted (1.06.2014) by *Local Government Reform Act 2014* (1/2014), s. 5(8) and sch. 2 part 6, S.I. No. 214 of 2014.
+>
+> F9: Substituted (8.05.2007) by *Protection of Employment (Exceptional Collective Redundancies and Related Matters) Act 2007* (27/2007), s. 14, commenced on enactment.
+>
+> F10: Substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19 and sch., S.I. No. 230 of 1971.
+>
+> F11: Inserted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19 and sch., S.I. No. 230 of 1971.
+>
+> F12: Inserted (1.05.1990) by *Social Welfare Act 1990* (5/1990), s. 26(a), commenced as per s. 31.
+>
+> **Modifications (not altering text):**
+>
+> C10: Functions transferred and references construed (14.10.2020) by *Employment Affairs and Employment Law (Transfer of Departmental Administration and Ministerial Functions) Order 2020* (S.I. No. 438 of 2020), arts. 2, 3(1)(a), (2) and sch., in effect as per art. 1(2), subject to transitional provisions in arts. 4-8.
+>
+> 2\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 3 are transferred to the Department of Business, Enterprise and Innovation.
+>
+> (2) References to the Department of Employment Affairs and Social Protection contained in any Act or any instrument made under such Act and relating to any administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Business, Enterprise and Innovation.
+>
+> 3\. (1) The functions vested in the Minister for Employment Affairs and Social Protection -
+>
+> (*a*) by or under the Acts specified in Part 1 of the Schedule and the provisions of the Acts specified in Part 2 of the Schedule, and
+>
+> ...
+>
+> are transferred to the Minister for Business, Enterprise and Innovation.
+>
+> ...
+>
+> (2) References to the Minister for Employment Affairs and Social Protection contained in any Act or instrument made under such Act and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for Business, Enterprise and Innovation.
+>
+> SCHEDULE
+>
+> PART 2
+>
+> PROVISIONS OF ACTS OF THE OIREACHTAS
+>
+> Redundancy Payments Act 1967 (No. 21 of 1967)
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E10: Previous affecting provision: definition of “local authority” inserted (25.05.2003) by *Redundancy Payments Act 2003* (14/2003), s. 3(d), S.I. No. 194 of 2003; substituted as per F-note above.
+>
+> E11: Previous affecting provision: definition of “adopting parent” inserted (20.03.1995) by *Adoptive Leave Act 1995* (2/1995), s. 27, S.I. No. 64 of 1995; substituted as per F-note above.
+>
+> E12: Previous affecting provision: s. 2(1) definition substituted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979) s. 17 and sch., S.I. No. 95 of 1979; deleted as per F-note above.
+
+### 3. Commencement.
+
+**3.**—This Act shall come into operation on such day as the Minister appoints by order.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E13: Power pursuant to section exercised (1.01.1968) by *Redundancy Payments Act 1967 (Appointed Day) Order 1967* (S.I. No. 302 of 1967).
+>
+> 2\. The 1st day of January, 1968, is hereby appointed to be the day on which the Redundancy Payments Act, 1967 (No. 21 of 1967), shall come into operation.
+
+### 4. Classes of persons to which this Act applies.
+
+**4.**—F13[(1) Subject to this section and to section 47, this Act applies to—
+
+(*a*) employees employed in employment which is insurable for all benefits under the Social Welfare Consolidation Act 2005,
+
+(*b*) employees who were so employed in such employment in the period of four years ending on the date of termination of employment, and
+
+(*c*) employees who have attained the age of 66 years and are in employment that would be insurable for all benefits under the Social Welfare Consolidation Act 2005 but for—
+
+(i) their attainment of that age, or
+
+(ii) the fact that the employment concerned is excepted employment by reason of paragraph 2, 4 or 5 of Part 2 of Schedule 1 to that Act.]
+
+F14[(2) This Act shall apply to an employee employed in employment which would be insurable for all benefits under the Social Welfare (Consolidation) Act 1993 but for the fact that the employment concerned is an excepted employment by virtue of paragraph 2, 4 or 5 of Part II of the First Schedule to that Act.]
+
+(3) (*a*) For the purpose of the application of this Act to an employee who is employed in a private household this Act (other than section 20) shall apply as if the household were a business and the maintenance of the household were the carrying on of that business by the employer.
+
+(*b*) This Act shall not apply to any person in respect of employment where the employer is the father, mother, grandfather, grandmother, stepfather, stepmother, son, daughter, grandson, granddaughter, stepson, stepdaughter, brother, sister, halfbrother or halfsister of the employee, where the employee is a member of the employer’s household and the employment is related to a private dwelling house or a farm in or on which both the employer and the employee reside.
+
+F15[(*c*) In deducing any relationship for the purposes of paragraph (*b*)—
+
+(i) a person adopted under the Adoption Acts, 1952 and 1964, shall be considered the legitimate offspring of the adopter or adopters;
+
+(ii) subject to clause (i) of this paragraph, an illegitimate person shall be considered the legitimate offspring of his mother and reputed father;
+
+(iii) a person *in loco parentis* to another shall be considered the parent of that other.]
+
+(4) The Minister may by order declare that this Act shall not apply to a class or classes of persons specified in the order and from the commencement of the order this Act shall not apply to that class or those classes.
+
+(5) Notwithstanding subsection (2), the Minister may by order declare that this Act shall apply to a specified class of worker and from the commencement of the order this Act shall apply to that class.
+
+(6) The Minister may by order amend or revoke an order under this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F13: Substituted (8.05.2007) by *Protection of Employment (Exceptional Collective Redundancies and Related Matters) Act 2007* (27/2007), s. 15, commenced on enactment.
+>
+> F14: Substituted (25.05.2003) by *Redundancy Payments Act 2003* (14/2003), s. 4, S.I. No. 194 of 2003.
+>
+> F15: Inserted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971.
+>
+> **Modifications (not altering text):**
+>
+> C11: Power to amend vested in Minister (30.11.84) by *Protection of Employees (Employers’ Insolvency) Act 1984* (21/1984), s. 11(3), commenced on enactment.
+>
+> **Power to amend Act.**
+>
+> **11.** — ...
+>
+> (3) The Minister may from time to time by order amend section 4 (2), as amended by section 17 of the Redundancy Payments Act, 1979, and by section 12 of this Act, of the Act of 1967, so as to vary the number of hours specified therein.
+>
+> **Editorial Notes:**
+>
+> E14: Previous affecting provision: power to prescribe, amend and revoke regulations vested in Minister (17.06.91) by *Worker Protection (Regular Part-Time Employees) Act 1991* (5/1991), s. 1(3)(a), S.I. No. 144 of 1991; repealed (20.12.2001) by *Protection of Employees (Part-Time Work) Act 2001* (45/2001), s. 5, S.I. No. 636 of 2001.
+>
+> E15: Previous affecting provision: application of subs. (2) modified (17.06.91) by *Worker Protection (Regular Part-Time Employees) Act 1991* (5/1991), s. 2(3)(b)(i), S.I. No. 144 of 1991; repealed (20.12.2001) by *Protection of Employees (Part-Time Work) Act 2001* (45/2001), s. 5, S.I. No. 636 of 2001.
+>
+> E16: Previous affecting provision: subs. (2) amended (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 17 and sch., S.I. No. 95 of 1979; further amended (30.11.1984) by *Protection of Employees (Employers’ Insolvency) Act 1984* (21/1984), s. 12, commenced on enactment; subsequently substituted as per F-note above.
+>
+> E17: Previous affecting provision: application of Act restricted by *Redundancy Payments Act 1971* (20/1971), s. 3, as substituted (6.04.79) by *Redundancy Payments Act 1979* (7/1979), s. 5, S.I. No. 95 of 1979; repealed (8.05.2007) by *Protection of Employment (Exceptional Collective Redundancies and Related Matters) Act 2007* (27/2007), s. 20, commenced on enactment.
+>
+> E18: Previous affecting provision: subs. (1) amended (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971; subsequently substituted as per F-note above.
+
+### 5. Laying of regulations and certain draft orders before Houses of Oireachtas.
+
+**5.**—(1) Whenever an order is proposed to be made under section 4 (4), 4 (5), 4 (6), 19 (3), F16[...] 30 (3) or 47 F17[or Section 17 of the Redundancy Payments Act, 1971], a draft of the proposed order shall be laid before each House of the Oireachtas and the order shall not be made until a resolution approving of the draft has been passed by each such House.
+
+(2) Every regulation made under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next twenty-one days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F16: Deleted (6.04.1991) by *Social Welfare Act 1991* (7/1991), s. 39(1) and sch. C, commenced as per s. 39(3).
+>
+> F17: Inserted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No 230 of 1971.
+
+## PART IIRedundancy Payment — PART II — Redundancy Payment
+
+### 6. Definitions for Part II.
+
+**6.**—In this Part—
+
+“cease” means cease either temporarily or permanently and from whatever cause;
+
+“lock-out” means the closing of a place of employment, or the suspension of work, or the refusal by an employer to continue to employ any number of persons employed by him in consequence of a dispute, done with a view to compelling those persons, or to aid another employer in compelling persons employed by him, to accept terms or conditions of or affecting employment;
+
+“notice of intention to claim” has the meaning assigned to it by section 12;
+
+“redundancy certificate” has the meaning assigned to it by section 18;
+
+“strike” means the cessation of work by a body of persons employed acting in combination, or a concerted refusal or a refusal under a common understanding of any number of persons employed to continue to work for an employer in consequence of a dispute, done as a means of compelling their employer or any person or body of persons employed, or to aid other employees in compelling their employer or any person or body of persons employed, to accept or not to accept terms or conditions of or affecting employment.
+
+### 7. General right to redundancy payment.
+
+**7.**—(1) An employee, if he is dismissed by his employer by reason of redundancy or is laid off or kept on short-time for the minimum period, shall, subject to this Act, be entitled to the payment of moneys which shall be known (and are in this Act referred to) as redundancy payment provided—
+
+(*a*) he has been employed for the requisite period, and
+
+(*b*) he was an employed contributor in employment which was insurable for all benefits under the Social Welfare Acts, 1952 to 1966, immediately before the date of the termination of his employment, or had ceased to be ordinarily employed in employment which was so insurable in the period of F18[four years] ending on that date.
+
+(2) For the purposes of subsection (1), an employee who is dismissed shall be taken to be dismissed by reason of redundancy if F19[for one or more reasons not related to the employee concerned] the dismissal is attributable wholly or mainly to—
+
+(*a*) the fact that his employer has ceased, or intends to cease, to carry on the business for the purposes of which the employee was employed by him, or has ceased or intends to cease, to carry on that business in the place where the employee was so employed, or
+
+F20[(*b*) the fact that the requirements of that business for employees to carry out work of a particular kind in the place where he was so employed have ceased or diminished or are expected to cease or diminish, or
+
+(*c*) the fact that his employer has decided to carry on the business with fewer or no employees, whether by requiring the work for which the employee had been employed (or had been doing before his dismissal) to be done by other employees or otherwise, or
+
+(*d*) the fact that his employer has decided that the work for which the employee had been employed (or had been doing before his dismissal) should henceforward be done in a different manner for which the employee is not sufficiently qualified or trained, or
+
+(*e*) the fact that his employer has decided that the work for which the employee had been employed (or had been doing before his dismissal) should henceforward be done by a person who is also capable of doing other work for which the employee is not sufficiently qualified or trained,]
+
+F21[(2A) For the purposes of subsection (1), an employee who is dismissed shall be taken not to be dismissed by reason of redundancy if—
+
+(*a*) the dismissal is one of a number of dismissals that, together, constitute collective redundancies as defined in section 6 of the Protection of Employment Act 1977,
+
+(*b*) the dismissals concerned were effected on a compulsory basis,
+
+(*c*) the dismissed employees were, or are to be, replaced, at the same location or elsewhere in the State, (except where the employer has an existing operation with established terms and conditions) by—
+
+(i) other persons who are, or are to be, directly employed by the employer, or
+
+(ii) other persons whose services are, or are to be, provided to that employer in pursuance of other arrangements,
+
+(*d*) those other persons perform, or are to perform, essentially the same functions as the dismissed employees, and
+
+(*e*) the terms and conditions of employment of those other persons are, or are to be, materially inferior to those of the dismissed employees.]
+
+(3) For the purposes of subsection (1), an employee shall be taken as having been laid off or kept on short-time for the minimum period if he has been laid off or kept on short-time for a period of four or more consecutive weeks, or for a period of six or more weeks which are not consecutive but which fall within a period of thirteen consecutive weeks.
+
+(4) Notwithstanding any other provision of this Act, where an employee who has been serving a period of apprenticeship training with an employer under an apprenticeship agreement is dismissed within one month after the end of that period, that employee shall not, by reason of that dismissal, be entitled to redundancy payment.
+
+F22[(4A) In ascertaining, for the purposes of subsection (2) (*c*), whether an employer has decided to carry on a business with fewer or no employees, account shall not be taken of the following members of the employer‘s family—
+
+father, mother, stepfather, stepmother, son, daughter, adopted child, grandson, granddaughter, stepson, stepdaughter, brother, sister, half brother, half sister.]
+
+(5) In this section requisite period means a period of F23[104 weeks] continuous employment (within the meaning of Schedule 3) of the employee by the employer who dismissed him, laid him off or kept him on short-time, but excluding any period of employment with that employer before the employee had attained the age of 16 years.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F18: Substituted (22.01.1971) by *Redundancy Payments Acts 1971* (20/1971), s. 19 and sch., commenced as per s. 19(2).
+>
+> F19: Inserted (25.05.2003) by *Redundancy Payments Act 2003* (14/2003), s. 5, S.I. No. 194 of 2003.
+>
+> F20: Substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 4(i), S.I. No 230 of 1971.
+>
+> F21: Inserted (8.05.2007) by *Protection of Employment (Exceptional Collective Redundancies and Related Matters) Act 2007* (27/2007), s. 16, commenced on enactment.
+>
+> F22: Inserted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 4(ii), S.I. No 230 of 1971.
+>
+> F23: Substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19 and sch., S.I. No. 230 of 1971.
+
+### 8. Qualification of general right under section 7.
+
+**8.**—(1) Notwithstanding anything in section 7, where an employee who has been dismissed by reason of redundancy or laid off has, during the period of the four years immediately preceding the date of dismissal or the lay-off, been laid off for an average annual period of more than twelve weeks, the following provisions shall have effect:
+
+(*a*) that employee shall not become entitled to redundancy payment by reason of dismissal or lay-off until a period equal to the average annual period of lay-off over the said four-year period in relation to that employee has elapsed after the date of dismissal or lay-off;
+
+(*b*) if, before the termination of the period required to elapse under paragraph (*a*), that employee resumes work with the same employer, that employee shall not be entitled to redundancy payment in relation to that dismissal or lay-off;
+
+(*c*) if, before the termination of the period required to elapse under paragraph (*a*), the employer offers to re-employ that employee and that employee unreasonably refuses the offer, he shall not be entitled to redundancy payment in relation to that dismissal or lay-off.
+
+(2) In a case where this section applies, the period of four weeks first referred to in F24[section 12] or the period of thirteen weeks referred to in that section shall not commence until the expiration of the period (referred to in subsection (1) (*a*)) equal to the appropriate average annual period of lay-off.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F24: Substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19 and sch., S.I. No 230 of 1971.
+
+### 9. Dismissal by employer.
+
+**9.**—(1) For the purposes of this Part an employee shall, subject to this Part, be taken to be dismissed by his employer if but only if—
+
+(*a*) the contract under which he is employed by the employer is terminated by the employer, whether by or without notice, or
+
+F25[(*b*) where, under the contract under which the employee is employed by the employer the employee is employed for a fixed term or for a specified purpose (being a purpose of such a kind that the duration of the contract was limited but was, at the time of its making, incapable of precise ascertainment), that term expires or that purpose ceases without being renewed under the same or similar contract, or]
+
+(*c*) the employee terminates the contract under which he is employed by the employer F26[...] in circumstances (not falling within subsection (5)) such that he is entitled so to terminate it by reason of the employer‘s conduct.
+
+(2) An employee shall not be taken for the purposes of this Part to be dismissed by his employer if his contract of employment is renewed, or he is re-engaged by the same employer under a new contract of employment, and—
+
+(*a*) in a case where the provisions of the contract as renewed or of the new contract as to the capacity and place in which he is employed, and as to the other terms and conditions of his employment, do not differ from the corresponding provisions of the previous contract, the renewal or re-engagement takes effect immediately on the ending of his employment under the previous contract, or
+
+(*b*) in any other case, the renewal or re-engagement is in pursuance of an offer in writing made by his employer before the ending of his employment under the previous contract, and takes effect either immediately on the ending of that employment or after an interval of not more than four weeks thereafter.
+
+(3) (*a*) An employee shall not be taken for the purposes of this Part as having been dismissed by his employer if—
+
+(i) he is re-engaged by another employer (hereinafter referred to as the new employer) immediately on the termination of his previous employment,
+
+(ii) the re-engagement takes place with the agreement of the employee, the previous employer and the new employer,
+
+(iii) before the commencement of the period of employment with the new employer the employee receives a statement in writing on behalf of the previous employer and the new employer which—
+
+(A) sets out the terms and conditions of the employee’s contract of employment with the new employer,
+
+(B) specifies that the employee’s period of service with the previous employer will, for the purposes of this Act, be regarded by the new employer as service with the new employer,
+
+(C) contains particulars of the service mentioned in clause (B), and
+
+(D) the employee notifies in writing the new employer that the employee accepts the statement required by this subparagraph.
+
+(*b*) Where in accordance with this subsection an employee is re-engaged by the new employer, the service of that employee F27[with the previous employer] shall for the purposes of this Act be deemed to be service with the new employer.
+
+(4) For the purposes of the application of subsection (2) to a contract under which the employment ends on a Friday, Saturday or Sunday—
+
+(*a*) the renewal or re-engagement shall be treated as taking effect immediately on the ending of the employment under the previous contract if it takes effect on or before the next Monday after that Friday, Saturday or Sunday, and
+
+(*b*) the interval of four weeks mentioned in subsection (2) (*b*) shall be calculated as if the employment had ended on that Monday.
+
+(5) When an employee terminates his contract of employment without notice, being entitled to do so by reason of a lock-out by his employer, subsection (1) (*c*) shall not apply to that termination.
+
+(6) Where by virtue of subsection (2) an employee is treated as not having been dismissed by reason of a renewal or re-engagement taking effect after an interval, then, in determining for the purposes of section 7 (1) whether he has been continuously employed for the requisite period, the period of that interval shall count as a period of employment.
+
+(7) In determining for the purposes of this Act whether at a particular time before the commencement of this Act an employee was dismissed by his employer, the appropriate provisions of this section shall apply as if the matter to be decided occurred after such commencement.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F25: Substituted (25.05.2003) by *Redundancy Payments Act 2003* (14/2003), s. 6, S.I. No. 194 of 2003.
+>
+> F26: Deleted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19 and sch., S.I. No. 230 of 1971.
+>
+> F27: Substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19 and sch., S.I. No. 230 of 1971.
+
+### 10. Employee anticipating expiry of employer’s notice.
+
+**10.**—(1) This section shall have effect where—
+
+(*a*) an employer gives notice to an employee to terminate his contract of employment, and
+
+(*b*) at a time within the obligatory period of that notice, the employee gives notice in writing to the employer to terminate the contract of employment on a date earlier than the date on which the employer’s notice is due to expire.
+
+(2) Subject to subsection (3), in the circumstances specified in subsection (1) the employee shall, for the purposes of this Part, be taken to be dismissed by his employer, and the date of dismissal in relation to that dismissal shall be the date on which the employee’s notice expires.
+
+(3) If, before the employee’s notice is due to expire, the employer gives him notice in writing—
+
+(*a*) requiring him to withdraw his notice terminating the contract of employment as mentioned in subsection (1) (*b*) and to continue in the employment until the date on which the employer’s notice expires, and
+
+(*b*) stating that, unless he does so, the employer will contest any liability to pay to him a redundancy payment in respect of the termination of his contract of employment,
+
+but the employee unreasonably refuses to comply with the requirements of that notice, the employee shall not be entitled to a redundancy payment by virtue of subsection (2).
+
+F28[(3A) Where an employer agrees in writing with an employee to alter the date of dismissal mentioned in a notice under subsection (1) (*a*) given by him to that employee so as to ensurethat the employee’s notice under subsection (1) (*b*) will be within the obligatory period in relation to the notice under subsection (1) (*a*), the employee’s entitlement to redundancy payment shall be unaffected and the employee shall, for the purposes of this Part, be taken to be dismissed by his employer, the date of dismissal in relation to that dismissal being the date on which the employee’s notice expires.]
+
+(4) In this section—
+
+(*a*) if the actual period of the employer’s notice (that is to say, the period beginning at the time when the notice is given and ending at the time when it expires) is equal to the minimum period which (whether by virtue of any enactment or otherwise) is required to be given by the employer to terminate the contract of employment, “the obligatory period”, in relation to that notice, means the actual period of the notice;
+
+(*b*) in any other case,
+
+“the obligatory period” , in relation to an employer’s notice, means that period which, being equal to the minimum period referred to in paragraph (*a*), expires at the time when the employer’s notice expires.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F28: Inserted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 9, S.I. No. 95 of 1979.
+
+### 11. Lay-off and short-time.
+
+**11.**—(1) Where F29[...] an employee’s employment ceases by reason of his employer’s being unable to provide the work for which the employee was employed to do, and—
+
+(*a*) it is reasonable in the circumstances for that employer to believe that the cessation of employment will not be permanent, and
+
+(*b*) the employer gives notice to that effect to the employee prior to the cessation,
+
+that cessation of employment shall be regarded for the purposes of this Act as lay-off.
+
+F30[(2) Where—
+
+(*a*) for any week an employee’s remuneration is less than one-half of his normal weekly remuneration or his hours of work are reduced to less than one-half of his normal weekly hours,
+
+(*b*) the reduction in remuneration or hours of work is caused by a diminution either in the work provided for the employee by his employer or in other work of a kind which under his contract the employee is employed to do.
+
+(*c*) it is reasonable in the circumstances for the employer to believe that the diminution in work will not be permanent and he gives notice to that effect to the employee prior to the reduction in remuneration or hours of work,
+
+the employee shall, for the purposes of this Part, be taken to be kept on short-time for that week.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F29: Deleted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19 and sch., S.I. No. 230 of 1971.
+>
+> F30: Substituted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 10, S.I. No. 95 of 1979.
+>
+> **Editorial Notes:**
+>
+> E19: Previous affecting provision: subs. (3) inserted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19 and sch., S.I. No. 230 of 1971; subsequently substituted by new version of subs. (2) as per F-note above.
+
+### 12. Right to redundancy payment by reason of lay-off or short-time.
+
+F31[**12.**—(1) An employee shall not be entitled to redundancy payment by reason of having been laid off or kept on short-time unless—
+
+(*a*) he has been laid off or kept on short-time for four or more consecutive weeks or, within a period of thirteen weeks, for a series of six or more weeks of which not more than three were consecutive, and
+
+(*b*) after the expiry of the relevant period of lay-off or short-time mentioned in paragraph (*a*) and not later than four weeks after the cessation of the lay-off or short-time, he gives to his employer notice (in this Part referred to as a notice of intention to claim) in writing of his intention to claim redundancy payment in respect of lay-off or short-time.
+
+(2) Where, after the expiry of the relevant period of lay-off or short-time mentioned in subsection (1) (*a*) and not later than four weeks after the cessation of the lay-off or short time, an employee to whom that subsection applies, in lieu of giving to his employer a notice of intention to claim, terminates his contract of employment either by giving him the notice thereby required or, if none is so required, by giving him not less than one week’s notice in writing of intention to terminate the contract, the notice so given shall, for the purposes of this Part and of Schedule 2, be deemed to be a notice of intention to claim given in writing to the employer by the employee on the date on which the notice is actually given.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F31: Inserted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 11, S.I. No. 230 of 1971.
+
+### 12A. Operation of section 12 - emergency period
+
+F32[**12A.**—(1) Section 12 shall not have effect during the emergency period in respect of an employee who has been laid off or kept on short-time due to the effects of measures required to be taken by his or her employer in order to comply with, or as a consequence of, Government policy to prevent, limit, minimise or slow the spread of infection of Covid-19.
+
+(2) Before the expiration of the emergency period, the Government may, at the request of the Minister made—
+
+(*a*) after consultation with the Minister for Health,
+
+(*b*) with the consent of the Minister for Public Expenditure and Reform, and
+
+(*c*) having had regard to the matters referred to in subsection (3),
+
+by order specify a date that is later than the expiration date of the emergency period specified in the definition of "emergency period" or the last order made under this subsection, as the case may be, and the emergency period shall be read as extending to, and including the date so specified.
+
+(3) When making an order under subsection (2), the Government shall have regard to the following:
+
+(*a*) the nature and potential impact of Covid-19 on individuals, society and the State;
+
+(*b*) the capacity of the State to respond to the risk to public health posed by the spread of Covid-19;
+
+(*c*) the policies and objectives of the Government to protect the health and welfare of members of the public;
+
+(*d*) the need to ensure the most beneficial, effective and efficient use of resources;
+
+(*e*) the need to mitigate the economic effects of the spread of Covid-19;
+
+(*f*) the need to ensure a continued attachment to the labour market for workers who have been temporarily laid off or put on short-time as a result of Covid-19;
+
+(*g*) the need to protect the relationship between employee and employer during the emergency period;
+
+(*h*) the need to mitigate the increased risk of insolvencies in the event of a substantial number of redundancies occurring over a short time period resulting in permanent job losses.
+
+(4) Every order made under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which that House sits after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+(5) In this section—
+
+"emergency period" means the period beginning on 13 March 2020 and ending on 31 May 2020;
+
+"Covid-19" means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 (S.I. No. 390 of 1981) or any variant of the disease so specified as an infectious disease in those Regulations.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F32: Inserted (13.03.2020) by *Emergency Measures in the Public Interest (Covid-19) Act 2020* (2/2020), s. 29, commenced as per s. 1(2)(c).
+>
+> **Editorial Notes:**
+>
+> E20: Power pursuant to subs. (2) exercised (1.06.2021) by *Redundancy Payments Act 1967 (Section 12A(2)) (Covid-19) (No. 2) Order 2021* (S.I. No. 284 of 2021). This extends the emergency period referred to in subs. (5) to 30 September 2021.
+>
+> E21: Power pursuant to subs. (2) exercised (23.02.2021) by *Redundancy Payments Act 1967 (Section 12A(2)) (Covid-19) Order 2021* (S.I. No. 103 of 2021). This extends the emergency period referred to in subs. (5) to 30 June 2021.
+>
+> E22: The section heading is taken from the amending section in the absence of one included in the amendment.
+>
+> E23: Previous affecting provision: power pursuant to subs. (2) exercised (24.11.2020) by *Redundancy Payments Act 1967 (Section 12A(2)) (Covid-19) (No. 4) Order 2020* (S.I. No. 545 of 2020). This extends the emergency period referred in subs. (5) to 31 March 2021; superseded as per E-note above.
+>
+> E24: Previous affecting provision: power pursuant to subs. (2) exercised (15.09.2020) by *Redundancy Payments Act 1967 (Section 12A(2)) (Covid-19) (No. 3) Order 2020* (S.I. No. 349 of 2020). This extends the emergency period referred to in subs. (5) to 30 November 2020; superseded as per E-note above.
+>
+> E25: Previous affecting provision: power pursuant to subs. (2) exercised (4.08.2020) by *Redundancy Payments Act 1967 (Section 12A(2)) (Covid-19) (No. 2) Order 2020* (S.I. No. 290 of 2020). This extends the emergency period referred to in subs. (5) to 17 September 2020; superseded as per E-note above.
+>
+> E26: Previous affecting provision: power pursuant to subs. (2) exercised (29.05.2020) by *Redundancy Payments Act 1967 (Section 12A(2)) (Covid-19) Order 2020* (S.I. No. 193 of 2020). This SI extends the emergency period referred to in subs. (5) to 10 August 2020; superseded as per E-note above.
+
+### 13. Right of employer to give counter-notice.
+
+**13.**—(1) Subject to subsection (2), an employee shall not be entitled to a redundancy payment in pursuance of a notice of intention to claim if, on the date of service of that notice, it was reasonably to be expected that the employee (if he continued to be employed by the same employer) would, not later than four weeks after that date, enter upon a period of employment of not less than thirteen weeks during which he would not be laid off or kept on short-time for any week.
+
+(2) Subsection (1) shall not apply unless, within seven days after the service of the notice of intention to claim, the employer gives to the employee notice (in this Part referred to as a counter-notice) in writing that he will contest any liability to pay to him a redundancy payment in pursuance of the notice of intention to claim.
+
+(3) If, in a case where an employee gives notice of intention to claim and the employer gives a counter-notice, the employee continues or has continued, during the next four weeks after the date of service of the notice of intention to claim, to be employed by the same employer, and he is or has been laid off or kept on short-time for each of those weeks, it shall be conclusively presumed that the condition specified in subsection (1) was not fulfilled.
+
+(4) For the purposes of F33[section 12] and for the purposes of subsection (3)—
+
+(*a*) it is immaterial whether a series of weeks (whether it is four weeks, or four or more weeks, or six or more weeks) consists wholly of weeks for which the employee is laid off or wholly of weeks for which he is kept on short-time or partly of the one and partly of the other;
+
+(*b*) no account shall be taken of any week for which an employee is laid off or kept on short-time where the lay-off or short-time is wholly or mainly attributable to a strike or a lock-out, whether the strike or lock-out is in the trade or industry in which the employee is employed or not and whether it is in the State or elsewhere.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F33: Substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971.
+
+### 14. Disentitlement to redundancy payment because of dismissal for misconduct.
+
+**14.**—(1) Subject to subsection (2), an employee who has been dismissed shall not be entitled to redundancy payment if his employer, being entitled to terminate that employee’s contract of employment without notice by reason of the employee’s conduct, terminates the contract because of the employee’s conduct—
+
+(*a*) without notice,
+
+(*b*) by giving shorter notice than that which, in the absence of such conduct, the employer would be required to give to terminate the contract, or
+
+(*c*) by giving notice (other than such notice as is mentioned in subparagraph (*b*)) which includes, or is accompanied by, a statement in writing that the employer would, by reason of such conduct, be entitled to terminate the contract without notice.
+
+(2) When an employee who has received the notice required by section 17 takes part, before the date of dismissal, in a strike and his employer by reason of such participation, terminates the contract of employment with the employee in a manner mentioned in subsection (1), that subsection shall not apply to such termination.
+
+(3) Where an employee who has given notice to terminate his contract of employment by reason of lay-off or short-time takes part, before the expiry of the notice, in a strike and, by reason of such participation, is dismissed, subsection (1) shall not apply.
+
+### 15. Disentitlement to redundancy payment for refusal to accept alternative employment.
+
+**15.**—(1) An employee F34[...] shall not be entitled to a redundancy payment if F34[...]—
+
+(*a*) his employer has offered to renew that employee’s contract of employment or to re-engage him under a new contract of employment,
+
+(*b*) the provisions of the contract as renewed, or of the new contract, as to the capacity and place in which he would be employed and as to the other terms and conditions of his employment would not differ from the corresponding provisions of the contract in force immediately before F35[the termination of his contract],
+
+(*c*) the renewal or re-engagement would take effect on or before the date of F35[the termination of his contract], and
+
+(*d*) he has unreasonably refused the offer.
+
+(2) An employee F34[...] shall not be entitled to a redundancy payment if F34[...]—
+
+(*a*) his employer has made to him in writing an offer to renew the employee’s contract of employment or to re-engage him under a new contract of employment,
+
+(*b*) the provisions of the contract as renewed, or of the new contract, as to the capacity and place in which he would be employed and as to the other terms and conditions of his employment would differ wholly or in part from the corresponding provisions of his contract in force immediately before F35[the termination of his contract],
+
+(*c*) the offer constitutes an offer of suitable employment in relation to the employee,
+
+(*d*) the renewal or re-engagement would take effect not later than four weeks after the date of F35[the termination of his contract], and
+
+(*e*) he has unreasonably refused the offer.
+
+F36[(2A) Where an employee who has been offered suitable employment and has carried out, for a period of not more than four weeks, the duties of that employment, refuses the offer, the temporary acceptance of that employment shall not solely constitute an unreasonable refusal for the purposes of this section.]
+
+F37[(2B) Where—
+
+(*a*) an employee’s remuneration is reduced substantially but not to less than one-half of his normal weekly remuneration, or his hours of work are reduced substantially but not to less than one-half of his normal weekly hours, and
+
+(*b*) the employee temporarily accepts the reduction in remuneration or hours of work and indicates his acceptance to his employer,
+
+such a temporary acceptance for a period not exceeding 52 weeks shall not be taken to be an acceptance by the employee of an offer of suitable employment in relation to him.]
+
+F35[(3) Where a person who is entitled to a weekly payment has unreasonably refused suitable employment offered or approved by the National Manpower Service, that person shall be disqualified from receiving F38[any further weekly payments].]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F34: Deleted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971.
+>
+> F35: Substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971.
+>
+> F36: Inserted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971.
+>
+> F37: Inserted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 11, S.I. No. 95 of 1979.
+>
+> F38: Substituted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 17 and sch., S.I. No. 95 of 1979.
+
+### 16. Associated companies.
+
+**16.**—(1) Where the employer is a company, any reference in this Part to re-engagement by the employer shall be construed as a reference to re-engagement by that company or by an associated company, and any reference in this Part to an offer made by the employer shall be construed as including a reference to an offer made by an associated company.
+
+(2) Subsection (1) shall not affect the operation of section 20 in a case where the previous owner and new owner (as defined by that section) are associated companies; and where that section applies, subsection (1) shall not apply.
+
+(3) Where an employee is dismissed by his employer, and the employer is a company (in this subsection referred to as the employing company) which has one or more associated companies, then if—
+
+(*a*) F39[none of the conditions specified in section 7 (2) is fulfilled, but]
+
+(*b*) one or other of those conditions would be fulfilled if the business of the employing company and the business of the associated company (or, if more than one, each of the associated companies) were treated as together constituting one business,
+
+that condition shall for the purposes of this Part be taken to be fulfilled in relation to the dismissal of the employee.
+
+(4) For the purposes of this section two companies shall be taken to be associated companies if one is a subsidiary of the other, or both are subsidiaries of a third company, and “associated company” shall be construed accordingly.
+
+(5) In this section—
+
+“company” includes any body corporate;
+
+“subsidiary” has the same meaning as, by virtue of section 155 of the Companies Act, 1963, it has for the purposes of that Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F39: Substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971.
+
+### 17. Notice of proposed dismissal for redundancy.
+
+**17.**—(1) An employer who proposes to dismiss by reason of redundancy an employee who has not less than F40[104 weeks] service with that employer shall, not later than two weeks before the date of dismissal, give to the employee notice in writing of the proposed dismissal F41[...].
+
+(2) The Minister may make regulations for giving effect to this section and, without prejudice to the generality of the foregoing, regulations under this section may relate to all or any of the following matters—
+
+(*a*) the particulars to be stated in the notice,
+
+F42[(*b*) the method of service of the notice.]
+
+F43[(2A) A notice under this section, a redundancy certificate and a claim for a rebate under section 36 may be combined in one document.]
+
+(3) An employer who fails to comply with this section or who furnishes false information in a notice under this section shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding F44[€5,000].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F40: Substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971.
+>
+> F41: Deleted (10.04.2005) by *Redundancy Payments Act 2003 (*14/2003), s. 7(a), S.I. No. 77 of 2005.
+>
+> F42: Substituted (10.04.2005) by *Redundancy Payments Act 2003* (14/2003), s. 7(b), S.I. No. 77 of 2005.
+>
+> F43: Inserted (10.04.2005) by *Redundancy Payments Act 2003* (14/2003), s. 7(c), S.I. No. 77 of 2005.
+>
+> F44: Substituted (8.05.2007) by *Protection of Employment (Exceptional Collective Redundancies and Related Matters) Act 2007* (27/2007), s. 19 and table, commenced on enactment. A fine of €5,000 translates into a class A fine, not exceeding €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(3) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E27: Power pursuant to section exercised (30.12.1991) by *Redundancy (Notice of Dismissal) Regulations 1991* (S.I. No. 348 of 1991), in effect as per reg. 1.
+>
+> E28: Previous affecting provision: power pursuant to section exercised (3.09.1984) by *Redundancy (Notice of Dismissal) Regulations 1984* (S.I. No. 220 of 1984), in effect as per reg. 1; revoked (30.12.1991) by *Redundancy (Notice of Dismissal) Regulations 1984* (S.I. No. 348 of 1991), reg. 6, in effect as per reg. 1.
+>
+> E29: Previous affecting provision: penalty under subs. (3) substituted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979) s. 17 and sch., S.I. No. 95 of 1979 and (25.05.03) by *Redundancy Payments Act 2003* (14/2003), s. 13(a), S.I. No. 194 of 2003; subsequently substituted as per F-note above.
+>
+> E30: Previous affecting provision: power pursuant to section exercised (5.04.1979) by *Redundancy (Notice of Dismissal) Regulations 1979* (S.I. No. 111 of 1979); revoked (3.09.1984) by *Redundancy (Notice of Dismissal) Regulations 1984* (S.I. No. 220 of 1984), reg. 6, in effect as per reg. 1.
+>
+> E31: Previous affecting provision: power pursuant to section exercised (2.01.1968) by *Redundancy (Notice of Dismissal) Regulations 1968* (S.I. No. 2 of 1968); revoked (5.04.1979) by *Redundancy (Notice of Dismissal) Regulations 1979* (S.I. No. 111 of 1979), reg. 6.
+
+### 18. Redundancy certificate.
+
+**18.**—F45[(1) When an employer dismisses by reason of redundancy an employee who has not less than 104 weeks’ continuous employment, he shall give to the employee not later than the date of the dismissal a certificate (in this Part referred to as a redundancy certificate).]
+
+F46[(2) Whenever an employee who has not less than 104 weeks’ continuous employment gives notice of intention to claim in accordance with section 12, his employer shall, subject to section 13, give him, not later than seven days after the service of the notice of intention to claim, a redundancy certificate.]
+
+(3) The Minister may make regulations for giving effect to this section and, without prejudice to the generality of the foregoing, may prescribe the particulars to be stated on a redundancy certificate.
+
+(4) An employer who fails to comply with this section or who furnishes false information in a redundancy certificate shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding F47[€5,000].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F45: Substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971.
+>
+> F46: Substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971.
+>
+> F47: Substituted (8.05.2007) by *Protection of Employment (Exceptional Collective Redundancies and Related Matters) Act 2007* (27/2007), s. 19 and table, commenced on enactment. A fine of €5,000 translates into a class A fine, not exceeding €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(3) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E32: Power pursuant to section exercised (30.12.1991) by *Redundancy Certificate Regulations 1991* (S.I. No. 347 of 1991), in effect as per reg. 1.
+>
+> E33: Previous affecting provision: power pursuant to section exercised (3.09.1984) by *Redundancy Certificate Regulations 1984* (S.I. No. 221 of 1984); revoked (30.12.1991) by *Redundancy Certificate Regulations 1991* (S.I. No. 347 of 1991), reg. 4, in effect as per reg. 1.
+>
+> E34: Previous affecting provision: penalty under subs. (4) substituted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979) s. 17 and sch., S.I. No. 95 of 1979 and (25.05.03) by *Redundancy Payments Act 2003* (14/2003), s. 13(b), S.I. No. 194 of 2003; subsequently substituted as per F-note above.
+>
+> E35: Previous affecting provision: power pursuant to section exercised (5.04.1979) by *Redundancy Certificate Regulations 1979* (S.I. No. 112 of 1979); revoked (3.09.1984) by *Redundancy Certificate Regulations 1984* (S.I. No. 221 of 1984), reg. 4, in effect as per reg. 1.
+>
+> E36: Previous affecting provision: power pursuant to section exercised (2.01.1968) by *Redundancy Certificate Regulations 1968* (S.I. No. 3 of 1968); revoked (5.04.1979) by *Redundancy Certificate Regulations 1979* (S.I. No. 112 of 1979), reg. 4.
+
+### 19. Payment of lump sum by employer.
+
+**19.**—(1) Upon the dismissal by reason of redundancy of an employee who is entitled under this Part to redundancy payment, F48[or where by virtue of section 12 an employee becomes entitled to redundancy payment], his employer shall pay to him an amount which is referred to in this Act as the lump sum.
+
+(2) Schedule 3 shall apply in relation to the lump sum.
+
+(3) The Minister may by order amend Schedule 3.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F48: Substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971.
+>
+> **Editorial Notes:**
+>
+> E37: Exemption from income tax on lump sums paid under section excluded in certain circumstances (8.05.2007) by *Protection of Employment (Exceptional Collective Redundancies and Related Matters) Act 2007* (27/2007), s. 9(2), commenced on enactment.
+>
+> E38: Previous affecting provision: power pursuant to section exercised (1.04.1974) by *Redundancy Payments (Weekly Payments and Lump Sum) Order 1974* (S.I. No. 82 of 1974); revoked (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 4(4)(a), S.I. No. 95 of 1979.
+
+### 20. Change of ownership of business.
+
+**20.**—(1) This section shall have effect where—
+
+(*a*) a change occurs (whether by virtue of a sale or other disposition or by operation of law) in the ownership of a business for the purposes of which a person is employed, or of a part of such a business, and
+
+(*b*) in connection with that change the person by whom the employee is employed immediately before the change occurs (in this section referred to as the previous owner) terminates the employee’s contract of employment, whether by or without notice.
+
+(2) If, by agreement with the employee, the person (in this section referred to as the new owner) who immediately after the change occurs is the owner of the business or of the part of the business in question as the case may be renews the employee’s contract of employment (with the substitution of the new owner for the previous owner) or re-engages him under a new contract of employment, section 9 (2) shall have effect as if the renewal or re-engagement had been a renewal or re-engagement by the previous owner (without any substitution of the new owner for the previous owner).
+
+(3) If the new owner offers to renew the employee’s contract of employment (with the substitution of the new owner for the previous owner) or to re-engage him under a new contract of employment, but the employee refuses the offer, section 15 (1) or section 15 (2) (as may be appropriate) shall have effect, subject to subsection (4) of this section, in relation to that offer and refusal as it would have had effect in relation to the like offer made by the previous owner and a refusal of that offer by the employee.
+
+(4) For the purposes of the operation, in accordance with subsection (3) of this section, of section 15 (1) or 15 (2) in relation to an offer made by the new owner,—
+
+(*a*) the offer shall not be treated as one whereby the provisions of the contract as renewed, or of the new contract, as the case may be, would differ from the corresponding provisions of the contract as in force immediately before the dismissal by reason only that the new owner would be substituted for the previous owner as the employer, and
+
+(*b*) no account shall be taken of that substitution in determining whether the refusal of the offer was unreasonable.
+
+(5) Subsections (1) to (4) shall have effect (subject to the necessary modifications) in relation to a case where—
+
+(*a*) the person by whom a business, or part of a business, is owned immediately before a change is one of the persons by whom (whether as partners, trustees or otherwise) it is owned immediately after the change, or
+
+(*b*) the persons by whom a business, or part of a business, is owned immediately before a change (whether as partners, trustees or otherwise) include the person by whom, or include one or more of the persons by whom, it is owned immediately after the change,
+
+as those provisions have effect where the previous owner and the new owner are wholly different persons.
+
+F49[(5A) In a case mentioned in subsection (1) (*a*), the new owner shall be estopped from denying that an employee was in continuous employment (within the meaning of Schedule 3) unless, within 26 weeks of the change of ownership, he notifies the employee of his intention so to deny.]
+
+(6) Nothing in this section shall be construed as requiring any variation of a contract of employment by agreement between the parties to be treated as constituting a termination of the contract.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F49: Inserted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 5, S.I. No. 230 of 1971.
+>
+> **Modifications (not altering text):**
+>
+> C12: Application of section extended (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 6(1), S.I. No. 230 of 1971.
+>
+> **Application of section 20 of Principal Act.**
+>
+> **6.**—(1) Where—
+>
+> (i) a change relating to the control or management of a business (or part thereof) for the purposes of which a person is employed occurs, but a change in the ownership of the business (or part thereof) does not occur,
+>
+> (ii) section 20 of the Principal Act would have applied to that change if it were a change in the ownership of that business (or part thereof), and
+>
+> (iii) an employee of the previous owner accepts, before, on or within four weeks of the termination of his contract of employment with the previous owner, an offer by the new owner of employment in the same place of employment and on terms which are either the same as, or not materially less advantageous to the employee than, his existing terms of employment,
+>
+> the said section 20 shall apply to that change as if a change of ownership of that business (or part thereof) had occurred.
+>
+> ...
+
+### 21. Implied or constructive termination of contract.
+
+**21.**—(1) Where, in accordance with any enactment or rule of law, any act on the part of an employer or any event affecting an employer (including, in the case of an individual, his death) operates so as to terminate a contract under which an employee is employed by him, that act or event shall for the purposes of this Act be treated as a termination of the contract by the employer, if apart from this subsection, it would not constitute a termination of the contract by him.
+
+(2) Where—
+
+(*a*) subsection (1) applies,
+
+(*b*) the employee’s contract of employment is not renewed, and
+
+(*c*) he is not re-engaged under a new contract, as provided by section 9 (2),
+
+he shall for the purposes of this Act be taken to be dismissed by reason of redundancy if the circumstances in which the contract is not renewed and he is not re-engaged (as provided by the said section 9 (2)) are wholly or mainly attributable to a fact specified in F50[section 7 (2)].
+
+(3) For the purposes of subsection (2), section 7 (2) (*a*), in so far as it relates to the employer ceasing or intending to cease to carry on the business, shall be construed as if the reference to the employer included a reference to any person to whom, in consequence of the act or event in question, power to dispose of the business has passed.
+
+(4) In this section reference to section 9 (2) includes reference to that section as applied by section 20 (2).
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F50: Substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19 and sch., S.I. No. 230 of 1971.
+
+### 22. Application of this Part upon employer’s or employee’s death.
+
+**22.**—(1) Part I of Schedule 2 shall have effect in relation to the death of an employer.
+
+(2) Part 2 of Schedule 2 shall have effect in relation to the death of an employee.
+
+### 23. Modification of right to redundancy payment where previous redundancy payment has been paid.
+
+**23.**—(1) This section shall apply where—
+
+(*a*) a lump sum is paid to an employee under section 19, whether in respect of dismissal, lay-off or short-time,
+
+(*b*) the contract of employment under which he was employed (in this section referred to as the previous contract) is renewed, whether by the same or another employer, or he is re-engaged under a new contract of employment, whether by the same or another employer, and
+
+(*c*) the circumstances of the renewal or re-engagement are such that, in determining for the purposes of section 7 (1) or Schedule 3 whether at any subsequent time he has been continuously employed for the requisite period, or for what period he has been continuously employed, the continuity of his period of employment would, apart from this section, be treated as not having been broken by the termination of the previous contract and the renewal or re-engagement.
+
+(2) In determining for the purposes of section 7 (1) or section 19 in a case to which this section applies whether at any subsequent time an employee has been continuously employed for the requisite period, or for what period he has been continuously employed, the continuity of the period of employment shall be treated as having been broken at the date which was the date of dismissal in relation to the lump sum mentioned in subsection (1) (*a*), and any time before that date shall be disregarded.
+
+(3) For the purposes of this section a lump sum shall be treated as having been paid if the whole of the payment has been paid to the employee by the employer or if the Minister has paid a sum to the employee in respect of the redundancy payment under section 32.
+
+F51[(4) This section shall not apply in any case to which section 19 of the Unfair Dismissals Act, 1977, applies.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F51: Inserted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 17 and sch., S.I. No. 95 of 1979.
+
+### 24. Time-limit on claims for redundancy payment.
+
+**24.**—Notwithstanding any other provision of this Act, an employee shall not be entitled to a lump sum unless before the end of the period of F52[52 weeks] beginning on the date of dismissal or the date of termination of employment—
+
+(*a*) the payment has been agreed and paid, or
+
+(*b*) the employee has made a claim for the payment by notice in writing given to the employer, or
+
+(*c*) a question as to the right of the employee to the payment, or as to the amount of the payment, has been referred to the F53[Director General] under section 39.
+
+F54[(2) Notwithstanding any provision of this Act, an employee shall not be entitled to a weekly payment unless he has become entitled to a lump sum.]
+
+F55[(2A) Where an employee who fails to make a claim for a lump sum within the period of 52 weeks mentioned in subsection (1) (as amended) makes such a claim before the end of the period of 104 weeks beginning on the date of dismissal or the date of termination of employment, the F53[adjudication officer, if he is satisfied] that the employee would have been entitled to the lump sum and that the failure was due to a reasonable cause, may declare the employee to be entitled to the lump sum and the employee shall thereupon become so entitled.]
+
+F56[(3) Notwithstanding subsection (2A), where an employee establishes to the satisfaction of the F53[Director General]—
+
+(*a*) that failure to make a claim for a lump sum before the end of the period of 104 weeks mentioned in that subsection was caused by his ignorance of the identity of his employer or employers or by his ignorance of a change of employer involving his dismissal and engagement under a contract with another employer, and
+
+(*b*) that such ignorance arose out of or was contributed to by a breach of a statutory duty to give the employee either notice of his proposed dismissal or a redundancy certificate,
+
+the period of 104 weeks shall commence from such date as the F53[Director General] F53[at his discretion] considers reasonable having regard to all the circumstances.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F52: Substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 12(2)(a), S.I. No. 230 of 1971.
+>
+> F53: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 76(1), S.I. No. 410 of 2015, subject to transitional provisions in subs. (2).
+>
+> F54: Inserted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 12(1), S.I. No. 230 of 1971.
+>
+> F55: Inserted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 12(2)(b), S.I. No. 230 of 1971.
+>
+> F56: Inserted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 13, S.I. No. 95 of 1979.
+
+### 25. Employment wholly or partly abroad.
+
+**25.**—(1) An employee shall not be entitled to redundancy payment if on the date of dismissal he is outside the State, unless under his contract of employment he ordinarily worked in the State.
+
+(2) F57[Notwithstanding subsection (1), an employee] who under his contract of employment ordinarily works outside the State shall not be entitled to redundancy payment unless, immediately before he commenced to work outside the State, F58[the employee was insurable for all benefits under the Social Welfare (Consolidation) Act 1993 or would have been insurable for all such benefits but for the fact that the employment concerned was an excepted employment by virtue of paragraph 2, 4 or 5 of Part II of the First Schedule to that Act and the employee] was in the employment of the employer concerned and unless—
+
+(*a*) he was in the State in accordance with the instructions of his employer on the date of dismissal, or
+
+(*b*) he had not been afforded a reasonable opportunity by his employer of being in the State on that date.
+
+F59[(2A) An employee who under a contract of employment has worked outside the State and was working in the State for at least two years immediately prior to the date of termination of the employment concerned shall be entitled to redundancy payment in respect of all his employment with the employer concerned.]
+
+(3) In computing, for the purposes of this Act, for what period of service a person was in continuous employment, any period of service in the employment of the employer concerned while the employee was outside the State shall be deemed to have been service in the employment of that employer within the State.
+
+(4) Where an employee who has worked for his employer outside the State becomes entitled to redundancy payment under this Act, the employer in making any lump sum payment due to the employee under section 19 shall be entitled to deduct from that payment any redundancy payment to which that employee may have been entitled under a statutory scheme relating to redundancy in the State in which he was working.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F57: Inserted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971.
+>
+> F58: Inserted (25.05.2003) by *Redundancy Payments Act 2003* (14/2003), s. 8(a), S.I. No. 194 of 2003.
+>
+> F59: Inserted (25.05.2003) by *Redundancy Payments Act 2003* (14/2003), s. 8(b), S.I. No. 194 of 2003.
+
+## PART IIIRedundancy Fund — PART III — Redundancy Fund
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C13: Exercise of Minister’s discretion under Part made subject to regard for Labour Court opinion (8.05.2007) by *Protection of Employment (Exceptional Collective Redundancies and Related Matters) Act 2007* (27/2007), s. 9(1), commencement on enactment, subject to s. 3; reference to “Minister” construed as reference to “Minister for Social Protection” (1.01.2011) by *Redundancy and Insolvency Payments (Transfer of Departmental Administration and Ministerial Functions) Order 2010* (S.I. No. 189 of 2010), art. .3(2), in effect as per art. 1(2).
+>
+> **Effect of Opinion**
+>
+> **9.**— (1) Where—
+>
+> (*a*) the Labour Court issues an opinion that collective redundancies proposed by an employer are exceptional collective redundancies,
+>
+> (*b*) the employer proceeds with the dismissals on the same basis as in the relevant proposal, and
+>
+> (*c*) the employer applies to the Minister for a rebate under Part III of the Redundancy Payments Act 1967,
+>
+> the Minister shall have regard to the opinion of the Labour Court when considering the employer’s application for the rebate.
+>
+> ...
+
+### 26. Establishment of the Redundancy Fund.
+
+**26.**—
+
+F60[...] > **Annotations**
+>
+> **Amendments:**
+>
+> F60: Repealed (1.05.1990) by *Social Welfare Act 1990* (5/1990), s. 29, commenced as per s. 31.
+
+### 27. Financing of Redundancy Fund.
+
+F61[**27.**—All moneys received by the Minister under this Act shall be paid into the Social Insurance Fund and all payments made pursuant to this Act shall be made out of that Fund.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F61: Substituted (6.04.1991) by *Social Welfare Act 1991* (7/1991), s. 39(1) and sch. C, commenced as per s. 39(3)
+>
+> **Editorial Notes:**
+>
+> E39: Previous affecting provision: subs. (1) substituted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 2, S.I. No. 95 of 1979; substituted (1.05.1990) by *Social Welfare Act 1990* (5/1990), s. 26(b), commenced as per s. 31; section again substituted as per F-note above.
+
+### 28. Amount of weekly contribution to Redundancy Fund.
+
+**28.**—F62[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F62: Deleted (6.04.1991) by *Social Welfare Act 1991* (7/1991), s. 39(1) and sch. C, commenced as per s. 39(3).
+>
+> **Editorial Notes:**
+>
+> E40: Previous affecting provision: payment under certain circumstances exempted (for period 6.06.1990 to 5.04.1991) by *Social Welfare Act 1990* (5/1990), s. 10(e), commenced as per s. 31.
+>
+> E41: Previous affecting provision: subs. (5) and (6) repealed (1.05.1990) by *Social Welfare Act 1990* (5/1990), s. 29, commenced as per s. 31.
+>
+> E42: Previous affecting provision: power pursuant to subs. (3) exercised (6.04.1989) by *Redundancy Payments (Variation of Employer’s Redundancy Contribution) Regulations 1989* (S.I. No. 68 of 1989).
+>
+> E43: Previous affecting provision: payment under certain circumstances exempted (for period 6.04.1987 to 5.04.1988) by *Social Welfare Act 1987* (2/1987), s. 6(e), commenced on enactment.
+>
+> E44: Previous affecting provision: payment under certain circumstances exempted (for period 6.04.1986 to 5.04.1987) by *Social Welfare Act 1986* (8/1986), s. 8(e), commenced on enactment.
+>
+> E45: Previous affecting provision: power pursuant to subs. (3) exercised (6.04.1986) by *Redundancy Payments (Variation of Employer’s Redundancy Contribution) Regulations 1986* (S.I. No. 67 of 1986).
+>
+> E46: Previous affecting provision: power pursuant to subs. (3) exercised (6.04.1985) by *Redundancy Payments (Variation of Employer’s Redundancy Contribution) Regulations 1985* (S.I. No. 75 of 1985).
+>
+> E47: Previous affecting provision: construction of reference to an employer’s redundancy contribution extended (30.11.1984) by *Protection of Employees (Employers’ Insolvency) Act 1984* (21/1984), s. 2(2), commenced on enactment.
+>
+> E48: Previous affecting provision: power pursuant to subs. (3) exercised (6.04.1984) by *Redundancy Payments (Variation of Employer’s Redundancy Contribution) Regulations 1984* (S.I. No. 63 of 1984).
+>
+> E49: Previous affecting provision: power pursuant to subs. (3) exercised (28.03.1982) by *Redundancy Payments (Employer’s Redundancy Contribution) Regulations 1983* (S.I. No. 84 of 1983).
+>
+> E50: Previous affecting provision: power pursuant to subs. (3) exercised (for period 6.04.1982 to 5.04.1983) by *Redundancy Payments (Variation of Employer’s Redundancy Contribution) Regulations 1982* (S.I. No. 75 of 1982); revoked (6.04.1984) by *Redundancy Payments (Variation of Employer’s Redundancy Contribution) Regulations 1984* (S.I. No. 63 of 1984), reg. 4.
+>
+> E51: Previous affecting provision: power pursuant to s. 28(3) exercised (for period 6.04.1981 to 6.04.1982) by *Redundancy Payments (Variation of Employer’s Redundancy Contribution) Regulations 1981*, S.I. No. 94 of 1981; revoked (6.04.1982) by *Redundancy Payments (Variation of Employer’s Redundancy Contribution) Regulations 1982* (S.I. No. 75 of 1982), reg. 4.
+>
+> E52: Previous affecting provision: section substituted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 3, S.I. No. 95 of 1979, section subsequently deleted as per F-note above.
+>
+> E53: Previous affecting provision: power pursuant to section exercised (5.04.1976) by *Redundancy Contributions (Variation of Rates) Order 1976* (S.I. No. 81 of 1976).
+>
+> E54: Previous affecting provision: power pursuant to section exercised (7.04.1975) by *Redundancy Contributions (Variation of Rates) Order 1975* (S.I. No. 65 of 1975).
+>
+> E55: Previous affecting provision: subs. (3A) inserted (2.07.1973) by *Redundancy Payments Act 1973* (11/1973), s. 1, S.I. No. 175 of 1973; section repealed as per F-note above.
+>
+> E56: Previous affecting provision: power pursuant to section exercised (2.07.1973) by *Redundancy Contributions (Variation of Rates) Order 1973* (S.I. No. 172 of 1973).
+>
+> E57: Previous affecting provision: power pursuant to section exercised (2.10.1972) by *Redundancy Contributions (Variation of Rates) Order 1971* (S.I. No. 172 of 1972).
+>
+> E58: Previous affecting provisions: power pursuant to section exercised to vary contribution rate (15.02.1971) by *Redundancy Contributions (Variation of Rates) Order 1971* (S.I. No. 36 of 1971), subsequently varied by the following:
+>
+> • (2.10.1972) by *Redundancy Contributions (Variation of Rates) Order 1972* (S.I. No. 172 of 1972).
+>
+> • (2.07.1973) by *Redundancy Contributions (Variation of Rates) Order 1973* (S.I. No. 172 of 1973).
+>
+> • (7.04.1975) by *Redundancy Contributions (Variation of Rates) Order 1975* (S.I. No. 65 of 1975).
+>
+> • (5.04.1976) by *Redundancy Contributions (Variation of Rates) Order 1976* (S.I. No. 81 of 1976).
+>
+> • (6.04.1981 for period to 5.04.82) by *Redundancy Payments (Variation of Employer’s Redundancy Contribution) Regulations 1981* (S.I. No. 94 of 1981).
+>
+> • (6.04.1982 for period to 6.04.1983) by *Redundancy Payments (Variation of Employer’s Redundancy Contribution) Regulations 1982* (S.I. No. 75 of 1982).
+>
+> • (6.04.1984) by *Redundancy Payments (Variation of Employer’s Redundancy Contribution) Regulations 1984* (S.I. No. 63 of 1984).
+>
+> • (6.04.1985) by *Redundancy Payments (Variation of Employer’s Redundancy Contribution) Regulations 1985* (S.I. No. 75 of 1985).
+>
+> **•** (6.04.1986) by *Redundancy Payments (Variation of Employer’s Redundancy Contribution) Regulations 1982* (S.I. No. 67 of 1986).
+>
+> • (6.04.1989) by *Redundancy Payments (Variation of Employer’s Redundancy Contribution) Regulations 1989* (S.I. No. 68 of 1989).
+>
+> E59: Previous affecting provision: power pursuant to subs. (5) exercised (6.01.1969) by *Redundancy (Collection of Contributions) (Revocation) Regulations 1968* (S.I. No. 271 of 1968).
+>
+> E60: Previous affecting provision: power pursuant to subs. (5) exercised (3.01.1968) by *Redundancy (Collection of Contributions) Regulations 1968* (S.I. No. 4 of 1968); revoked (6.01.1969) by *Redundancy (Collection of Contributions) (Revocation) Regulations 1968* (S.I. No. 271 of 1968).
+
+### 29. Rebates to employers from the Redundancy Fund.
+
+**29.**—F63[(1) Subject to this Part, the Minister shall make from the F64[Social Insurance Fund] a payment to an employer of such sum (in this Part referred to as a rebate) as is equivalent in amount to F65[15 per cent] of each lump sum paid by that employer under section 19.
+
+(2) Notwithstanding subsection (1), whenever an employer fails to comply with any provision of section 17, the Minister may at his discretion reduce the amount of the rebate payable in respect of the lump sum paid under section 19 to that employer, but the amount of rebate when so reduced shall not be less than F65[5 per cent] of the lump sum.
+
+(3) The Minister may by regulation, made with the consent of the Minister for Finance, vary a rate of rebate specified in this section.]
+
+F66[(4) Where an employer makes a claim for a rebate on or after 1 January 2012 in respect of a lump sum payment paid to an employee under section 19 and the date of dismissal by reason of redundancy, referred to in section 19, occurs before 1 January 2012—
+
+(*a*) subsection (1) shall be read as if "60 per cent" were substituted for "15 per cent", and
+
+(*b*) subsection (2) shall be read as if "40 per cent" were substituted for "5 per cent".
+
+(5) Where an employer makes a claim for a rebate on or after 1 January 2012 in respect of a lump sum payment paid to an employee under section 19 in respect of an employee to whom section 12 applies and—
+
+(*a*) the date of the notice of intention to claim, referred to in section 12(1)(*b*), or
+
+(*b*) the date of the termination of the contract of employment of the employee concerned, referred to in section 12(2),
+
+occurs before 1 January 2012—
+
+(i) subsection (1) shall be read as if "60 per cent" were substituted for "15 per cent", and
+
+(ii) subsection (2) shall be read as if "40 per cent" were substituted for "15 per cent".]
+
+F67[(6) Notwithstanding the provisions of this Act, a rebate shall not be made to an employer in respect of a lump sum payment paid to an employee under section 19—
+
+(*a*) where the dismissal by reason of redundancy, referred to in section 19, or
+
+(*b*) in respect of an employee to whom section 12 applies, where—
+
+(i) the date of the notice of intention to claim, referred to in section 12(1)(*b*), or
+
+(ii) the date of the termination of the contract of employment of the employee concerned, referred to in section 12(2),
+
+occurs on or after 1 January 2013.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F63: Substituted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 6, S.I. No. 95 of 1979.
+>
+> F64: Substituted (1.05.1990) by *Social Welfare Act 1990* (5/1990), s. 26(c) and table, commenced as per s. 31.
+>
+> F65: Substituted (1.01.2012) by *Social Welfare Act 2011* (37/2011), s. 15(1)(a), (b), commenced as per s. 15(2).
+>
+> F66: Substituted and inserted (1.01.2012) by *Social Welfare Act 2011* (37/2011), s. 15(1)(c), commenced as per s. 15(2).
+>
+> F67: Inserted (1.01.2013) by *Social Welfare Act 2012* (43/2012), s. 18, commenced as per s. 18(2).
+>
+> **Modifications (not altering text):**
+>
+> C14: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 21 of 1967</td><td>Redundancy Payments Act 1967</td><td>Sections 29, 39(10) and (13), 46 and 56(2) and (3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E61: Previous affecting provision: section substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 13, S.I. No. 230 of 1971; subsequently substituted as per F-note above.
+
+### 30. Weekly payments to employees from Redundancy Fund.
+
+**30.**—(1) Upon his dismissal by reason of redundancy F68[or where by virtue of section 12 he becomes entitled to redundancy payment], an employee who is entitled to redundancy payment shall be entitled, subject to this Act, to a weekly payment (in this Act referred to as a weekly payment) from the Redundancy Fund.
+
+(2) The provisions of Schedule 1 shall apply to a weekly payment.
+
+(3) The Minister may by order amend Schedule 1.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F68: Substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19 and sch., S.I. No. 230 of 1971.
+>
+> **Modifications (not altering text):**
+>
+> C15: Effect of section terminated (6.04.79) by *Redundancy Payments Act 1979* (7/1979), s. 8, S.I. No. 95 of 1979, subject to transitional provision in subs. (2).
+>
+> **Termination of entitlement to weekly payments**
+>
+> **8.**—(1) Subject to subsection (2) of this section, sections 30 and 31 of the Principal Act shall cease to have effect from the commencement of this section.
+>
+> (2) Notwithstanding subsection (1) of this section, an employee who at the commencement of this section is in receipt of weekly payments shall continue to receive such payments as if that subsection were not enacted, but (notwithstanding any other provision of the Redundancy Payments Acts, 1967 to 1979) if before the exhaustion of such payments payment of them ceases for any reason the employee shall not subsequently be or become entitled to any weekly payment.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E62: Previous affecting provision: power pursuant to section exercised (21.06.1976) by *Redundancy Payments (Weekly Payments) Order 1976* (S.I. No. 126 of 1976); revoked (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 4(4)(a), S.I. No. 95 of 1979.
+>
+> E63: Previous affecting provision: power pursuant to section exercised (1.04.1974) by *Redundancy Payments (Weekly Payments and Lump Sum) Order 1974* (S.I. No. 82 of 1974); revoked (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 4(4)(a), S.I. No. 95 of 1979.
+
+### 31. Regulations as to entitlement to weekly payment and to allowance under Industrial Training Act, 1967.
+
+**31.**—(1) The Minister may by regulations provide, in relation to cases where a person is entitled to an allowance under section 9 (1) (*g*) of the Industrial Training Act, 1967, and to a weekly payment, for adjusting the amount of such allowance or the amount of such weekly payment.
+
+(2) Notwithstanding any other provision of this Act, regulations under this section may provide that a person to whom the regulations apply shall not be entitled to a weekly payment either at all or for a specified period.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C16: Effect of section terminated (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 8, S.I. No. 95 of 1979, subject to transitional provision in subs. (2).
+>
+> **Termination of entitlement to weekly payments.**
+>
+> **8.**—(1) Subject to subsection (2) of this section, sections 30 and 31 of the Principal Act shall cease to have effect from the commencement of this section.
+>
+> (2) Notwithstanding subsection (1) of this section, an employee who at the commencement of this section is in receipt of weekly payments shall continue to receive such payments as if that subsection were not enacted, but (notwithstanding any other provision of the Redundancy Payments Acts, 1967 to 1979) if before the exhaustion of such payments payment of them ceases for any reason the employee shall not subsequently be or become entitled to any weekly payment.
+>
+> ...
+
+### 32. Other payments to employees from Redundancy Fund.
+
+**32.**—F69[(1) When an employee claims that an employer is liable to pay to him a lump sum under section 19 and that—
+
+(*a*) the employee has taken all reasonable steps (other than legal proceedings) to obtain the payment of the lump sum from the employer and the employer has refused or failed to pay it or has paid part of it and has refused or failed to pay the balance, F70[or]
+
+(*b*) the employer is insolvent and the whole or part of the lump sum remains unpaid, or
+
+(*c*) the employer has died and neither probate of his will has, nor letters of administration in respect of his estate have, been granted, and the whole or part of the lump sum remains unpaid,
+
+the employee may apply to the Minister for a payment under this section.
+
+(2) If on an application under this section the Minister is satisfied that an employee is entitled to a lump sum under section 19 which remains unpaid either in whole or in part, the Minister shall pay to the employee out of the F71[Social Insurance Fund] so much of the lump sum as remains unpaid.
+
+(3) Upon the payment by the Minister of a payment under this section all rights and remedies of the employee with respect to the lump sum concerned or, if the Minister has paid part of it, with respect to that part, shall thereupon stand transferred to and become vested in the Minister and any moneys recovered by the Minister by virtue of this subsection shall be paid into the F72[Social Insurance Fund].
+
+(4) Where, in a case falling within subsection (1) (*a*), the Minister makes a payment to an employee under subsection (2), the Minister shall claim from the employer a sum equal to the amount of the payment made by the Minister under subsection (2) less the amount of the rebate that would have been payable to the employer from the F73[Social Insurance Fund] under section 29 if the employer had paid the lump sum to the employee, save that, where it appears to the Minister that the refusal or failure of the employer was without reasonable excuse, the Minister may either withhold any rebate to which the employer would otherwise have been entitled or reduce the amount of that rebate to such extent as the Minister thinks appropriate, and in either such case the amount of the Minister’s claim against the employer under this subsection may be increased accordingly.
+
+(5) Where, in a case falling within subsection (1) (*b*), the Minister makes a payment to an employee under subsection (2), the Minister shall be entitled to claim in the bankruptcy, arrangement, administration of the insolvent estate or winding up (as the case may be) in respect of, and only in respect of, a sum equal to the amount of the payment made by the Minister under subsection (2) less the amount of the rebate that would have been payable to the employer from the F74[Social Insurance Fund] under section 29 if the employer had paid the lump sum to the employee.
+
+(6) Where, in a case falling within subsection (1) (*c*), the Minister makes a payment to an employee under subsection (2), the Minister shall be entitled to claim from the deceased employer’s estate in respect of, and only in respect of, a sum equal to the amount of the payment made by the Minister under subsection (2) less the amount of the rebate that would have been payable to the deceased employer’s estate from the F75[Social Insurance Fund] under section 29 if the employee had been paid the lump sum from the estate of the deceased employer.
+
+(7) For the purpose of this section an employer shall be deemed to be insolvent if—
+
+(*a*) the employer has been adjudicated bankrupt, has filed a petition for arrangement or has executed a deed of arrangement (within the meaning of section 4 of the Deeds of Arrangement Act, 1887),
+
+(*b*) the employer has died and his estate, being insolvent, is being administered in accordance with the rules set out in Part I of the First Schedule to the Succession Act, 1965, or
+
+(*c*) the employer is a company, and the company is insolvent and being wound up.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F69: Substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 14, S.I. No. 230 of 1971.
+>
+> F70: Inserted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 17 and sch., S.I. No. 95 of 1979.
+>
+> F71: Substituted (1.05.1990) by *Social Welfare Act 1990* (5/1990), s. 26(c) and table, commenced as per s. 31.
+>
+> F72: Substituted (1.05.1990) by *Social Welfare Act 1990* (5/1990), s. 26(c) and table, commenced as per s. 31.
+>
+> F73: Substituted (1.05.1990) by *Social Welfare Act 1990* (5/1990), s. 26(c) and table, commenced as per s. 31.
+>
+> F74: Substituted (1.05.1990) by *Social Welfare Act 1990* (5/1990), s. 26(c) and table, commenced as per s. 31.
+>
+> F75: Substituted (1.05.1990) by *Social Welfare Act 1990* (5/1990), s. 26(c) and table, commenced as per s. 31.
+
+### 32A. Covid-19 related lay-off payment
+
+F76[**32A.**—(1) This section applies to an employee—
+
+(*a*) who is entitled to a redundancy payment under section 7,
+
+(*b*) whose entitlement to a lump sum payment under section 19 arises during the period beginning on 13 March 2020 and ending on 31 January 2025, and
+
+(*c*) who was laid off during the period beginning on 13 March 2020 and ending on 31 January 2022 due to the effect of measures required to be taken by his or her employer in order to comply with, or as a consequence of, Government policy to prevent, limit, minimise or slow the spread of infection of Covid-19.
+
+(2) An employer, on behalf of an employee to whom this section applies, may apply to the Minister for a payment in respect of any periods of lay-off referred to in subsection (1)(c) in the manner determined by the Minister.
+
+(3) If an employer refuses or fails to apply to the Minister on the employee’s behalf for a payment under subsection (2), the employee may apply to the Minister for the payment.
+
+(4) For the purposes of determining an application under this section, a deciding officer may, by notice in writing, require the employer or the employee, as the case may be, to provide such information or documents as are specified in the notice that, in the deciding officer’s opinion, are required for the purpose of determining whether the employee is entitled to a payment under this section.
+
+(5) The notice under subsection (4) shall specify the period, which may be extended by the deciding officer for good reason, within which the information or documents shall be provided.
+
+(6) If, on an application under this section, the Minister is satisfied that the employee is entitled to a payment under this section, the Minister shall pay the sum to the employee out of the Social Insurance Fund.
+
+(7) The amount of a payment under this section is the difference between—
+
+(a) the amount of the lump sum payable under section 19 or 32, and
+
+(b) the amount of the lump sum determined under subparagraph 1 of Schedule 3 as if any periods of lay-off during the period referred to in subsection (1)(c) were included in the calculations of reckonable service within the meaning of Schedule 3.
+
+(8) Where the amount of a payment payable to an employee under this section is disallowed or reduced by virtue of a revised decision of a deciding officer under section 41, any payment, or part of a payment, paid under the original decision shall be repayable by the employee to the Social Insurance Fund.
+
+(9) The Minister may by regulations provide for the method of recovery of an amount repayable by an employee under subsection (8).]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F76: Inserted (19.04.2022) by *Redundancy Payments (Amendment) Act 2022* (3/2022), s. 2, S.I. No. 174 of 2022.
+
+### 33. Regulations as to payment of contributions.
+
+**33.**—F77[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F77: Deleted (6.04.1981) by *Social Welfare Act 1991* (7/1991), s.39(1) and sch. C, commenced as per s. 39(3).
+>
+> **Editorial Notes:**
+>
+> E64: Previous affecting provision: power pursuant to subs. (2) exercised (6.04.1979) by *Redundancy Contributions (Method of Payment) (Revocation) Regulations 1979* (S.I. No. 116 of 1979).
+>
+> E65: Previous affecting provision: fines substituted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 17 and sch., S.I. No. 95 of 1979.
+>
+> E66: Previous affecting provision: power pursuant to subs. (2) exercised (6.01.1969) by *Redundancy Contributions (Method of Payment) Regulations 1968* (S.I. No. 272 of 1968).
+>
+> E67: Previous affecting provision: power pursuant to subs. (1) and (2) exercised (6.01.1969) by *Redundancy (Collection of Contributions) (Revocation) Regulations 1968* (S.I. No. 271 of 1968).
+>
+> E68: Previous affecting provision: power pursuant to subs. (1) and (2) exercised (3.01.1968) by *Redundancy (Collection of Contributions) Regulations 1968* (S.I. No. 4 of 1968).
+
+### 34. Preparation and issue of redundancy stamps, etc.
+
+**34.**—F78[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F78: Repealed (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 19, S.I. No. 95 of 1979.
+
+### 35. Persons employed by more than one employer, etc.
+
+**35.**—(1) In relation to persons who—
+
+(*a*) are employed by more than one employer in any week, or
+
+(*b*) work under the general control or management of some person other than their immediate employer,
+
+and in relation to any other cases for which it appears to the Minister that special provision is needed, regulations may provide that for the purposes of this Act the prescribed person shall be treated as their employer.
+
+(2) Regulations made relating to persons mentioned in subsection (1) (*b*) may provide for adjusting the rights between themselves of the person prescribed as the employer, the immediate employer and the persons employed.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E69: Power pursuant to section exercised (1.10.1985) by *Redundancy Payments (Cork Port Dockers) Regulations 1987* (S.I. No. 211 of 1987).
+>
+> E70: Power pursuant to section exercised (20.03.1975) by *Redundancy Payments (Waterford Port Dockers) Regulations 1975* (S.I. No. 73 of 1975).
+>
+> E71: Power pursuant to section exercised (11.03.1974) by *Redundancy Payments (Limerick Port Dockers) Regulations 1974* (S.I. No. 59 of 1974).
+>
+> E72: Power pursuant to section exercised (17.08.1973) by *Redundancy Payments (Galway Port Dockers) Regulations 1973* (S.I. No. 261 of 1973).
+>
+> E73: Power pursuant to section exercised (4.04.1973) by *Redundancy Payments (Dundalk Port Dockers) Regulations 1973* (S.I. No. 95 of 1973).
+>
+> E74: Power pursuant to section exercised (13.02.1973) by *Redundancy Payments (Dublin Port Dockers) Regulations 1973* (S.I. No. 42 of 1973).
+>
+> E75: Power pursuant to section exercised (11.11.1971) by *Redundancy Payments (Dublin Port Dockers) Regulations 1971* (S.I. No. 301 of 1971).
+>
+> E76: Power pursuant to subs. (1) exercised (6.01.1969) by *Redundancy (Collection of Contributions) (Revocation) Regulations 1968* (S.I. No. 271 of 1968), in effect as per reg. 2.
+>
+> E77: Previous affecting provision; power pursuant to subs. (1) exercised (3.01.1968) by *Redundancy (Collection of Contributions) Regulations 1968* (S.I. No. 4 of 1968); revoked (6.01.1969) by *Redundancy (Collection of Contributions) (Revocation) Regulations 1968* (S.I. No. 271 of 1968), reg. 3, in effect as per reg. 2.
+
+### 36. Regulations for Part III.
+
+**36.**—(1) The Minister may make regulations for giving effect to this Part.
+
+(2) Without prejudice to the generality of subsection (1), regulations under this section may make provision in relation to all or any of the following matters :
+
+(*a*) requiring an employer entitled to a rebate to make a claim therefor and prescribing the time within which such a claim is to be made;
+
+(*b*) requiring an employer who has made a claim for a rebate to produce such evidence and other information as may be prescribed and to produce for examination on behalf of the Minister such documents as may be prescribed and are in that employer’s custody or under his control;
+
+(*c*) requiring, in connection with an application made to the Minister under section 32, the employer concerned to produce for examination on behalf of the Minister such documents as may be prescribed and are in the employer’s custody or under his control;
+
+(*d*) F79[...]
+
+(*e*) prescribing the method, time and place for the making of weekly payments.
+
+(3) A person who fails to comply with a regulation under subsection (2) (*b*) or (2) (*c*) or who, in relation to a regulation requiring information, furnishes false information shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding F80[€5,000].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F79: Repealed (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 19, S.I. No. 95 of 1979.
+>
+> F80: Substituted (8.05.2007) by *Protection of Employment (Exceptional Collective Redundancies and Related Matters) Act 2007* (27/2007), s. 19 and table, commenced on enactment. A fine of €5,000 translates into a class A fine, not exceeding €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(3) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E78: Power pursuant to section exercised (23.05.1990) by *Redundancy (Rebates) Regulations 1990* (S.I. No. 122 of 1990), in effect as per reg. 1.
+>
+> E79: Power pursuant to section exercised (9.01.1968) by *Redundancy (Rebates and Weekly Payments) Regulations 1968* (S.I. No. 11 of 1968).
+>
+> E80: Previous affecting provision: power pursuant to section exercised (3.09.1984) by *Redundancy (Rebates) Regulations 1984* (S.I. No. 222 of 1984); revoked (23.05.1990) by *Redundancy (Rebates) Regulations 1990* (S.I. No. 122 of 1990), reg. 6, in effect as per reg. 1.
+>
+> E81: Previous affecting provisions: penalty under subs. (3) substituted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 17 and sch., S.I. No. 95 of 1979; subsequently substituted (25.05.03) by *Redundancy Payments Act 2003* (14/2003), s. 13(c), S.I. No. 194 of 2003.
+>
+> E82: Previous affecting provision: power pursuant to section exercised (5.04.1979) by *Redundancy (Rebates and Weekly Payments) Regulations 1979* (S.I. No. 113 of 1979); revoked (3.09.1984) by *Redundancy (Rebates) Regulations 1984* (S.I. No. 222 of 1984), reg. 6, in effect as per reg. 1.
+>
+> E83: Previous affecting provision: power pursuant to section exercised (9.07.1969) by *Redundancy (Rebates and Weekly Payments) (Amendment) Regulations 1969* (S.I. No. 134 of 1969); revoked (5.04.1979) by *Redundancy (Rebates and Weekly Payments) Regulations 1979* (S.I. No. 113 of 1979), reg. 3.
+
+## PART IVMiscellaneous Provisions — PART IV — Miscellaneous Provisions
+
+### 37. Deciding officers.
+
+**37.**—The Minister may appoint F81[...] such and so many persons as he thinks proper to be deciding officers for the purposes of this Act, and every person so appointed shall hold office as a deciding officer during the pleasure of the Minister.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F81: Deleted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19 and sch., S.I. No. 230 of 1971.
+
+### 38. Decisions by deciding officers.
+
+**38.**—(1) Subject to this Act and in accordance with any relevant regulations, every question arising—
+
+F82[(*a*) as to who is the employer of an employee,
+
+F83[(*b*) in relation to the payment from the Social Insurance Fund of—
+
+(i) rebates to employers under section 29,
+
+(ii) lump sums to employees under section 32, or
+
+(iii) payments to employees under section 32A(6) in respect of certain lay-off periods during the period referred to in section 32A(1)(c),
+
+or]
+
+(*c*) on such other matters arising under this Act as are prescribed,]
+
+shall be decided by a deciding officer.
+
+(2) A reference in this section to a question arising in relation to a claim for a weekly payment includes a reference to a question whether a weekly payment is or is not payable.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F82: Substituted (8.05.2007) by *Protection of Employment (Exceptional Collective Redundancies and Related Matters) Act 2007* (27/2007), s. 17, commenced on enactment.
+>
+> F83: Substituted (19.04.2022) by *Redundancy Payments (Amendment) Act 2022* (3/2022), s. 3, S.I. No. 174 of 2022.
+>
+> **Editorial Notes:**
+>
+> E84: Previous affecting provision: subs. 1(d) deleted (6.04.1991) by *Social Welfare Act 1991* (7/1991), s. 39 and sch. C, commenced as per s. 39(3).
+
+### 39. Redundancy Appeals Tribunal and appeals and references thereto.
+
+**39.**—(1) There shall be a Tribunal (which shall be known as the Redundancy Appeals Tribunal and is in this section hereinafter referred to as the Tribunal) to determine the appeals provided for in this section.
+
+(2) The Tribunal shall consist of the following members—
+
+(*a*) F84[a chairman who before his appointment shall have had not less than 7 years’ experience as a practising barrister or practising solicitor,]
+
+(*b*) F85[not more than 5 vice-chairmen, ]
+
+(*c*) F86[not less than 12 and not more than 30 ordinary members.]
+
+(3) The members of the Tribunal shall be appointed by the Minister and shall be eligible for re-appointment.
+
+F87[(3A) Notwithstanding subsection (2), whenever the Minister is of the opinion that for the speedy despatch of the business of the Tribunal it is expedient that there should be added further vice-chairmen or further ordinary members (or both further vice-chairmen and further ordinary members), he may make such additional appointments, and the reference in subsection (4) shall include a reference to this subsection.]
+
+(4) The appointments pursuant to subsection (3) of the ordinary members of the Tribunal shall be made—
+
+(*a*) as to one-half of those members, being persons nominated for that purpose by an organisation representative of trade unions of workers, and
+
+(*b*) as to the other half of those members, from among persons nominated for that purpose by a body or bodies representative of employers.
+
+(5) The term of office of a member of the Tribunal shall be such period as is specified by the Minister when appointing such member.
+
+(6) (*a*) A member of the Tribunal may, by letter addressed to the Minister, resign his membership.
+
+(*b*) A member of the Tribunal may be removed from office by the Minister.
+
+(7) (*a*) Whenever a vacancy occurs in the membership of the Tribunal and is caused by the resignation, removal from office or death of an ordinary member mentioned in subsection (4) (*a*), the vacancy shall be filled by the Minister by appointment in the manner specified in that subsection.
+
+(*b*) Whenever a vacancy occurs in the membership of the Tribunal and is caused by the resignation, removal from office or death of an ordinary member mentioned in subsection (4) (*b*), the vacancy shall be filled by the Minister by appointment in the manner specified in that subsection.
+
+(8) In the case of a member of the Tribunal filling a vacancy caused by the resignation, removal from office or death of a member before the completion of the term of office of the last-mentioned member, the member filling that vacancy shall hold office for the remainder of the term of office of the person who so resigned, died or was so removed from office.
+
+(9) A vice-chairman of the Tribunal shall act as chairman thereof when so required by the chairman or the Minister and when so acting shall have all the powers of the chairman.
+
+(10) A member of the Tribunal shall be paid such remuneration (if any) and allowances as may be determined by the Minister with the consent of the Minister for Finance.
+
+(11) Whenever the chairman of the Tribunal is of opinion that, for the speedy dispatch of the business of the Tribunal, it is expedient that the Tribunal should act by divisions, he may direct accordingly and, until he revokes his direction, the Tribunal shall be grouped as so directed.
+
+(12) Each division of the Tribunal shall consist of either the chairman or a vice-chairman of the Tribunal, an ordinary member of the Tribunal mentioned in subsection (4) (*a*) and an ordinary member of the Tribunal mentioned in subsection (4) (*b*).
+
+(13) The Minister may, with the consent of the Minister for Finance, appoint such officers and servants of the Tribunal as he considers necessary to assist the Tribunal in the performance of its functions, and such officers and servants shall hold office on such terms and receive such remuneration as the Minister for Finance determines.
+
+(14) The decision of the Tribunal on any question referred to it under this section shall be final and conclusive, save that any person dissatisfied with the decision may appeal therefrom to the High Court on a question of law.
+
+(15) Any employer who is dissatisfied with a decision given by the Minister in relation to a rebate or with any decision given by a deciding officer in relation to any question specified in section F88[...] 38 (1) (*e*) or 38 (1) (*f*), or any employee who is dissatisfied with a decision given by a deciding officer under section 38 or with any decision of an employer under this Act F89[may appeal to the F90[Director General] against the decision;] provided however, that the F90[Director General] shall not be competent to decide whether or not an employee is or was at the material time in employment which is or was insurable for all benefits under the Social Welfare Acts F91[...].
+
+(16) A deciding officer may if he so thinks proper, instead of deciding it himself, refer F92[...] to the F90[Director General] for a decision thereon any question which falls to be decided by him under section 38.
+
+F93[(16A) The Director General shall refer to an adjudication officer for adjudication by that officer an appeal under subsection (15) or a question referred to the Director General under subsection (16).]
+
+F93[(16B) Subsections (15) and (16) of section 41 of the Act of 2015 shall apply in relation to an appeal under subsection (15) or a question referred to the Director General under subsection (16) as they apply to a complaint or dispute to which the said section 41 applies, subject to the following modifications:
+
+(*a*) references to complaint or dispute shall be construed as references to such an appeal or such a question;
+
+(*b*) references in the said subsection (15) to complainant or respondent shall be construed as references to employee or employer;
+
+(*c*) the reference in the said subsection (16) to parties to a complaint or dispute under that section shall be construed as a reference to the employee or employer concerned; and
+
+(*d*) any other necessary modifications.]
+
+(17) (*a*) The F90[adjudication officer] shall, on the hearing of any matter referred to it under this section, have power to take evidence on oath and for that purpose may cause to be administered oaths to persons attending as witnesses at such hearing.
+
+(*b*) Any person who, upon examination on oath authorised under this subsection, wilfully and corruptly gives false evidence or wilfully and corruptly swears anything which is false, being convicted thereof, shall be liable to the penalties for wilful and corrupt perjury.
+
+(*c*) The F90[adjudication officer] may, by giving notice in that behalf in writing to any person, require such person to attend at such time and place as is specified in the notice to give evidence in relation to any matter referred to the F90[adjudication officer] under this section or to produce any documents in his possession, custody or control which relate to any such matter.
+
+(*d*) A notice under paragraph (*c*) may be given either by delivering it to the person to whom it relates or by sending it by post in a prepaid registered letter addressed to such person at the address at which he ordinarily resides.
+
+(*e*) A person to whom a notice under paragraph (*c*) has been given and who refuses or wilfully neglects to attend in accordance with the notice or who, having so attended, refuses to give evidence or refuses or wilfully fails to produce any document to which the notice relates shall be guilty of an offence and shall be liable on summary conviction thereof to a fine not exceeding F94[€5,000].
+
+F95[(17A) Proceedings in relation to any matter referred to an adjudication officer under this section shall be conducted in public unless the adjudication officer, of his or her own motion or upon the application by or on behalf of the employee or employer, determines that, due to the existence of special circumstances, the proceedings (or part thereof) should be conducted otherwise than in public.]
+
+F96[(17B) (*a*) Subject to paragraph (b), the Commission shall publish on the internet in such form and in such manner as it considers appropriate every decision of an adjudication officer under this section.
+
+(*b*) In publishing a decision under paragraph (a), an adjudication officer may determine that, due to the existence of special circumstances, information that would identify the employee or employer in relation to whom the decision was made should not be published by the Commission.]
+
+(18) The Tribunal shall submit an annual report to the Minister which shall be published.
+
+(19) The Minister may make regulations giving effect to this section and such regulations may, in particular but without prejudice to the generality of the foregoing, provide for all or any of the following matters—
+
+(*a*) the procedure to be followed regarding the submission of appeals to the F90[Director General],
+
+(*b*) the times and places of hearings by F90[an adjudication officer],
+
+(*c*) the representation of parties attending hearings byF90[an adjudication officer],
+
+(*d*) procedure regarding the hearing of appeals byF90[an adjudication officer],
+
+(*e*) publication and notification of decisions of F90[an adjudication officer],
+
+(*f*) notices relating to appeals or hearings byF90[an adjudication officer],
+
+(*g*) the award by F90[an adjudication officer] of costs and expenses and the payment of such awards,
+
+(*h*) an official seal of the Tribunal,
+
+(*i*) for treating the Minister as a party to any proceedings before F90[an adjudication officer] where he would not otherwise be a party to them and entitling him to appear and be heard accordingly.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F84: Substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 7(a), S.I. No. 230 of 1971.
+>
+> F85: Substituted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 17 and sch., S.I. No. 95 of 1979.
+>
+> F86: Substituted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 17 and sch., S.I. No. 95 of 1979.
+>
+> F87: Inserted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 17 and sch., S.I. No. 95 of 1979.
+>
+> F88: Deleted (6.04.1991) by *Social Welfare Act 1991* (7/1991), s. 39(1) and sch. C, commenced as per s. 39(3).
+>
+> F89: Substituted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 17 and sch., S.I. No. 95 of 1979.
+>
+> F90: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 76(1)(c)(i), (ii), (v)-(vii), S.I. No. 410 of 2015, subject to transitional provisions in subs. (2).
+>
+> F91: Deleted (6.04.1991) by *Social Welfare Act 1991* (7/1991), s. 39 and sch. C, commenced as per s. 39(3).
+>
+> F92: Deleted (8.05.2007) by *Protection of Employment (Exceptional Collective Redundancies and Related Matters) Act 2007* (27/2007), s. 18, commenced on enactment.
+>
+> F93: Inserted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 76(1)(c)(iii), (iv), S.I. No. 410 of 2015, subject to transitional provisions in subs. (2).
+>
+> F94: Substituted (8.05.2007) by *Protection of Employment (Exceptional Collective Redundancies and Related Matters) Act 2007* (27/2007), s. 19 and table, commenced on enactment. A fine of €5,000 translates into a class A fine, not exceeding €5,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(3) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> F95, F96: Inserted (29.07.2021) by *Workplace Relations (Miscellaneous Provisions) Act 2021* (29/2021), s. 7, S.I. No. 397 of 2021, subject to review not later than 12 months from commencement in accordance with s. 13.
+>
+> F97: Inserted by *Redundancy Payments Act 2003* (14/2003), s. 9, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C17: References to perjury or to subornation of perjury construed (28.07.2021) by *Criminal Justice (Perjury and Related Offences) Act 2021*(13/2021), s. 4(2) and sch. 2, S.I. No. 378 of 2021.
+>
+> **4.** (2) A reference in an enactment specified in Schedule 2 to perjury or to subornation of perjury, howsoever described, in relation to an act committed on or after the coming into operation of this subsection, shall be construed as a reference to perjury or to subornation of perjury, as the case may be, within the meaning of this Act.
+>
+> Schedule 2
+>
+> *Section 4(2)*
+>
+> ...
+>
+> 30\. Redundancy Payments Act 1967, section 39(17)
+>
+> ...
+>
+> C18: Prospective amending provision: s. 39(2)(b) amended by *Redundancy Payments Act 2003* (14/2003), s. 9, not commenced as of date of revision.
+>
+> (*b*) F85[not more than 5 vice-chairmen, F97[who, before their appointment, shall each have had not less than 5 years’ experience as a practising barrister or practising solicitor]]
+>
+> C19: Functions under subss. (10) and (13) transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 21 of 1967</td><td>Redundancy Payments Act 1967</td><td>Sections 29, 39(10) and (13), 46 and 56(2) and (3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> C20: Penalty under subs. (17)(e) specified (1.09.2005) by *Safety, Health and Welfare at Work Act 2005* (10/2005), s. 78(1), S.I. No. 328 of 2005, as amended (10.12.2010) by *Chemicals (Amendment) Act 2010* (32/2010), s. 12(f)(i), S.I. No. 591 of 2010.
+>
+> **Penalties**
+>
+> **78.** —(1) A person guilty of an offence under section 39(17)(e) of the Redundancy Payments Act 1967 as applied to this Act by section 29 (7), or 77(1) is liable on summary conviction to a fine not exceeding **[**€5,000**]**.
+>
+> ...
+>
+> C21: Application of subs. (15) extended (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 7(5), S.I. No. 95 of 1979. Reference to “Employment Appeals Tribunal” to be construed as reference to “Workplace Relations Commission” by *Workplace Relations Act 2015* (16/2015), s. 66(2); not commenced as of date of revision.
+>
+> **Employee’s right to time off for certain purposes while under notice of dismissal for redundancy.**
+>
+> **7.** — ...
+>
+> (5) Any dispute arising under this section shall be deemed to be a decision referred to in section 39 (15) of the Principal Act, and any amount ordered by the Employment Appeals Tribunal to be paid by an employer to an employee shall be recoverable as a simple contract debt in a court of competent jurisdiction.
+>
+> C22: Application of section extended (1.09.1971) by *Redundancy Payments Act 1971* (20/1971) s. 15(1), S.I. No. 230 of 1971.
+>
+> **Provisions relating to special redundancy schemes.**
+>
+> **15.**—(1) Any dispute arising under a special redundancy scheme may be referred by a party to the scheme to the Tribunal and shall be deemed to be a question referred under section 39 of the Principal Act to the Tribunal for a decision on the question.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E85: Prospective affecting provision: Employment Appeal Tribunal, established under section, dissolved by *Workplace Relations Act 2015* (16/2015), s. 65(1), not commenced as of date of revision, subject to dissolution order as per s. 64.
+>
+> E86: Power pursuant to section exercised (5.04.1979) by *Redundancy (Employment Appeals Tribunal) Regulations 1979* (S.I. No. 114 of 1979).
+>
+> E87: Power pursuant to subs. (19) exercised (1.09.1973) by *Minimum Notice and Terms of Employment (Reference of Disputes) Regulations 1973* (S.I. No. 243 of 1973).
+>
+> E88: Power pursuant to subs. (19) exercised (29.01.1968) by *Redundancy (Redundancy Appeals Tribunal) Regulations 1968* (S.I. No. 24 of 1968).
+>
+> E89: Previous affecting provision: subs. (17) applied with modifications (26.10.2013) by *Further Education and Training Act 2013* (25/2013), s. 35 and sch. para. 2(7), S.I. No. 400 of 2013; paragraph substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 item 32, S.I. No. 410 of 2015, subject to transitional provision in subs. (3).
+>
+> E90: Previous affecting provision: subs. (17) applied with modifications (16.05.2012) by *Protection of Employees (Temporary Agency Work) Act 2012* (13/2012), s. 25 and sch. 2 para. 2(7), commenced on enactment; paragraph substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 item 31, S.I. No. 410 of 2015, subject to transitional provision in subs. (3).
+>
+> E91: Previous affecting provision: subs. (17) applied with modifications (1.06.2010) by *Inland Fisheries Act 2010* (10/2010), s. 38(1) and sch. 4 para. 2(7), commenced on enactment; paragraph substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 item 28, S.I. No. 410 of 2015, subject to transitional provision in subs. (3).
+>
+> E92: Previous affecting provision: subs. (17) applied with modifications by *Labour Services Act 1987* (15/1987), s. 13B(2) and sch. 2 para. 2(7), as inserted (20.01.2010) by *Labour Services (Amendment) Act 2009* (38/2009), ss. 7 and 11, S.I. No. 12 of 2010; repealed (26.10.2013) by *Further Education and Training Act 2013* (25/2013), s. 4, S.I. No. 400 of 2013.
+>
+> E93: Previous affecting provision: subs. (17) applied with modifications (21.12.2009) by *National Asset Management Agency Act 2009* (34/2009), s. 223(4) and sch. 2 para. 3(1), S.I. No. 545 of 2009; repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 part 1 item 25, S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> E94: Previous affecting provision: subs. (17) applied with modifications (7.09.2009) by *European Communities (Working Conditions of Mobile Workers Engaged in Interoperable Cross-Border Services in the Railway Sector) Regulations 2009* (S.I. No. 377 of 2009), reg. 9(7); regulation substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(2) and sch. 7 part 2 item 8, S.I. No. 410 of 2015, subject to transitional provision in subs. (3).
+>
+> E95: Previous affecting provision: subs. (17) applied with modifications (1.01.2007) by *Employment Permits Act 2006* (16/2006) s. 26(4) and sch. 2 para. 3(1), S.I. No. 682 of 2006; repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 part 1 item 22, S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> E96: Previous affecting provision: subs. (17) applied with modifications (29.09.2006) by *European Communities (Organisation of Working Time) (Mobile Staff in Civil Aviation) Regulations 2006* (S.I. No. 507 of 2006), reg. 16(7); regulation substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(2) and sch. 7 part 2 item 3, S.I. No. 415 of 2015, subject to transitional provision in subs. (3).
+>
+> E97: Previous affecting provision: subs. (17) applied with modifications (1.09.2005) by *Safety, Health and Welfare at Work Act 2005* (10/2005), s. 29(7), S.I. No. 328 of 2005; section substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 item 21, S.I. No. 410 of 2015, subject to transitional provision in subs. (3).
+>
+> E98: Previous affecting provision: subs. (17) applied with modifications (14.07.2003) by *Protection of Employees (Fixed-Term Work) Act 2003* (29/2003), s. 15(7), commenced on enactment; section substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 item 18, S.I. No. 410 of 2015, subject to transitional provision in subs. (3).
+>
+> E99: Previous affecting provision: subs. (17) applied with modifications (20.12.2001) by *Protection of Employees (Part-Time Work) Act 2001* (45/2001), s. 17(7), (subject to exclusion of members of the Defence Forces, s. 19), S.I. No. 636 of 2001; section substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 item 16, S.I. No. 410 of 2015, subject to transitional provision in subs. (3).
+>
+> E100: Previous affecting provision: subs. (17) applied with modifications (2.07.2001) by *Carer’s Leave Act 2001* (19/2001), s. 20(6), commenced on enactment; repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 part 1 item 13, S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> E101: Previous affecting provision: subs. (17) applied with modifications (3.12.1998) by *Parental Leave Act 1998* (30/1998), s. 19(5), commenced as per s. 1(2); repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 part 1 item 11, S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> E102: Previous affecting provision: subs. (17) applied with modifications (30.09.1997) by *Organisation of Working Time Act 1997* (20/1997), s. 28(7), S.I. No. 392 of 1997; section substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 item 10, S.I. No. 410 of 2015, subject to transitional provision in subs. (3).
+>
+> E103: Previous affecting provision: subs. (17) applied with modifications (16.05.1994) by *Terms of Employment (Information) Act 1994* (5/1994), s. 8(5), S.I. No. 96 of 1994; section substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 item 5, S.I. No. 410 of 2015, subject to transitional provision in subs. (3).
+>
+> E104: Previous affecting provision: provision as to evidence of certain matters in a prosecution under subs. (17)(e) made (1.10.1993) by *Unfair Dismissals (Amendment) Act 1993* (22/1993), s. 12, commenced as per s. 17(4) and (16.05.1994) by *Terms of Employment (Information) Act 1994* (5/1994), s. 10, S.I. No. 96 of 1994; repealed (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 8(1) and sch. 2 part 1 item 5, S.I. No. 410 of 2015, subject to transitional provisions in subss. (2) and (6).
+>
+> E105: Previous affecting provision: subs. (17) applied (1.01.1992) by *Payment of Wages Act 1991* (25/1991), s. 7(5), S.I. No. 350 of 1991; section substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 52(1) and sch. 7 part 1 item 4, S.I. No. 410 of 2015, subject to transitional provision in subs. (3).
+>
+> E106: Previous affecting provision: subs. (14) applied (30.11.1984) by *Protection of Employees (Employers’ Insolvency) Act 1984* (21/1984), s. 9(5), commenced on enactment; deleted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 81(3)(f), S.I. No. 410 of 2015.
+>
+> E107: Previous affecting provision: amount referred to in subs. (17)(e) substituted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979) s. 17 and sch., S.I. No. 95 of 1979.
+>
+> E108: Previous affecting provision: subs. (17) applied (9.05.1977) by *Unfair Dismissals Act 1977* (10/1977), s. 8(9), S.I. No. 138 of 1977; deleted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 80(1)(g)(i)(II), S.I. No. 410 of 2015, subject to transitional provision in subs. (2).
+>
+> E109: Previous affecting provision: subs. 2(c) substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971) s. 7(b), S.I. No. 230 of 1971; substituted as per F-note above.
+>
+> E110: Previous affecting provision: power pursuant to subs. (19) exercised (11.02.1969) by *Redundancy (Redundancy Appeals Tribunal) (Amendment) Regulations 1969* (S.I. No. 26 of 1969); revoked (5.04.1979) by *Redundancy (Employment Appeals Tribunal) Regulations 1979* (S.I. No. 114 of 1979), reg. 3.
+
+### 39A. Appeal to Labour Court from decision of adjudication officer
+
+F98[**39A.** Section 44 of the Act of 2015 shall apply to a decision of an adjudication officer given in relation to an appeal under subsection (15), or a question referred to the Director General under subsection (16), of section 39 of this Act as it applies to a decision of an adjudication officer under section 41 of that Act, subject to the following modifications:
+
+(*a*) the substitution of the following subsection for subsection (1):
+
+"(1) (a) A party to an appeal under subsection (15), or proceedings in relation to a question referred to the Director General under subsection (16), of section 39 of the Act of 1967 may appeal a decision of an adjudication officer given in that appeal or those proceedings to the Labour Court and, where the party does so, the Labour Court shall—
+
+(i) give the parties to the second-mentioned appeal an opportunity to be heard by it and to present to it any evidence relevant to the appeal,
+
+(ii) make a decision in relation to the appeal affirming, varying or setting aside the decision of the adjudication officer to which the appeal relates, and
+
+(iii) give the parties to the appeal a copy of that decision in writing.
+
+(b) The Labour Court shall have power to make any decision in an appeal under this paragraph that an adjudication officer has power to make on the hearing of an appeal under subsection (15), or a question referred to the Director General under subsection (16), of section 39 of the Act of 1967."
+
+and
+
+(*b*) any other necessary modifications.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F98: Inserted (1.10.2015) by *National Minimum Wage (Low Pay Commission) Act 2015* (22/2015), s. 13(1), commenced by S.I. No. 410 of 2015 as per subs. (2).
+>
+> **Editorial Notes:**
+>
+> E111: Previous affecting provision: section inserted by *Workplace Relations Act 2015* (16/2015), s. 76(1)(d), not commenced; deleted (1.10.2015) by *National Minimum Wage (Low Pay Commission) Act 2015* (22/2015), s. 20(1)(k), S.I. No. 411 of 2015.
+
+### 40. F99[Appeal to High Court on point of law
+
+**40.**—A party to proceedings before the Labour Court under this Part may, not later than 42 days from the service on that party of notice of the decision of the Labour Court in those proceedings, appeal that decision to the High Court on a point of law, and the decision of the High Court in relation thereto shall be final and conclusive.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F99: Substituted (1.10.2015) by *Workplace Relations Act 2015* (16/2015), s. 76(1)(e), S.I. No. 410 of 2015, subject to transitional provisions in subs. (2).
+>
+> **Editorial Notes:**
+>
+> E112: Previous affecting provision: section amended (1.05.1990) by *Social Welfare Act 1990* (5/1990), s. 26(c) and table, commenced as per s. 31; substituted as per F note above.
+>
+> E113: Previous affecting provision: section substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 9, S.I. No. 230 of 1971; subsequently substituted as per F note above.
+
+### 41. Revision of decisions.
+
+**41.**—(1) A deciding officer may, at any time and from time to time, revise any decision of a deciding officer, if it appears to him that the decision was erroneous in the light of new evidence or of new facts which have been brought to his notice since the date on which it was given or by reason of some mistake having been made with respect to the law or the facts, or if it appears to him in a case where a weekly payment has been payable that there has been any relevant change of circumstances since the decision was given, and the provisions of this Act as to appeals shall apply to such revised decision in the same manner as they apply to an original decision.
+
+(2) Subsection (1) shall not apply to a decision relating to a matter which is on appeal or reference under section 39 unless the revised decision would be in favour of a claimant for a weekly payment.
+
+(3) A revised decision given by a deciding officer shall take effect as follows:—
+
+(*a*) where redundancy payment will, by virtue of the revised decision, be disallowed or reduced and the revised decision is given owing to the original decision having been given, or having continued in effect, by reason of any statement or representation (whether written or oral) which was to the knowledge of the person making it false or misleading in a material respect or by reason of the wilful concealment of any material fact, it shall take effect as from the date on which the original decision took effect, but, in a case in which the redundancy payment is by way of periodical payment, the original decision may, in the discretion of the deciding officer continue to apply to any period covered by such original decision to which such false or misleading statement or representation or such wilful concealment of any material fact does not relate;
+
+(*b*) in any other case, it shall take effect as from the date considered appropriate by the deciding officer, but any payment already made at the date of the revision shall not be affected.
+
+(4) Regulations may provide for the treating of any redundancy payment paid to an employee under a decision of a deciding officer, which it is subsequently decided was not payable, as paid on account of any other redundancy payment which it is decided was payable to that employee or for the repayment of any such payment and the recovery thereof by deduction or otherwise.
+
+(5) Reference in this section to revision includes reference to revision consisting of a reversal.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E114: Power pursuant to section exercised (3.01.1968) by *Redundancy (Repayment and Recovery of Payments) Regulations 1968* (S.I. No. 5 of 1968).
+
+### 42. Provisions relating to winding up and bankruptcy.
+
+**42.**—F100[(1) There shall be included among the debts which, under section 285 of the Companies Act, 1963, are, in the distribution of the assets of a company being wound up, to be paid in priority to all other debts, all contributions F101[...] payable by the company under this Act during the twelve months before the commencement of the winding up or the winding-up order and any lump sum (or portion of a lump sum) payable under this Act by such a company, and the said section 285 shall have effect accordingly, and formal proof of the debts to which priority is given under this subsection shall not be required except in cases where it may otherwise be provided by rules made under the Companies Act, 1963.]
+
+(2) Subsection (1) shall not apply where a company is wound up voluntarily merely for the purposes of reconstruction or of amalgamation with another company.
+
+F100[(3) There shall be included among the debts which, under section 4 of the Preferential Payments in Bankruptcy (Ireland) Act, 1889, are, in the distribution of the property of a bankrupt or arranging debtor, to be paid in priority to all other debts, all contributions F101[...] payable under this Act by the bankrupt or arranging debtor during the twelve months before the date of the order of adjudication in the case of a bankrupt or the filing of the petition for arrangement in the case of an arranging debtor and any lump sum (or portion of a lump sum) payable under this Act by a bankrupt or arranging debtor, and the said section 4 shall have effect accordingly, and formal proof of the debts to which priority is given under this subsection shall not be required except in cases where it may otherwise be provided by general orders made under the Preferential Payments in Bankruptcy (Ireland) Act, 1889.]
+
+(4) Every assignment of or charge on, and every agreement to assign or charge, a weekly payment shall be void and on the bankruptcy of any person entitled to a weekly payment the weekly payment shall not pass to the official assignee in bankruptcy or any trustee or other person acting on account of the creditors.
+
+(5) Nothing in section 53 of the Bankruptcy (Ireland) Amendment Act, 1872, or in section 286 of the Companies Act, 1963, shall apply to any redundancy payments made by an employer.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F100: Substituted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 14, S.I. No. 95 of 1979.
+>
+> F101: Deleted (6.04.1991) by *Social Welfare Act 1991* (7/1991) s. 39(1) and sch. C, commenced as per s. 39(3).
+
+### 43. Recovery of sums due to Redundancy Fund.
+
+F102[**43.**—All moneys due to the Social Insurance Fund under this Act shall be recoverable as debts due to the State and, without prejudice to any other remedy, may be recovered by the Minister as a debt under statute in any court of competent jurisdiction.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F102: Substituted (1.05.1990) by *Social Welfare Act 1990* (5/1990), s. 26(d), commenced as per s. 31.
+
+### 44. Application of section 52 of the Act of 1952.
+
+F103[**44.**—Section 115 (other than subsections (3) and (5) thereof) of the Social Welfare (Consolidation) Act, 1981, shall apply in relation to benefits under this Act as it applies to benefits and other payments under the Social Welfare (Consolidation) Act, 1981.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F103: Substituted (6.04.1991) by *Social Welfare Act 1991* (7/1991), s. 39(1) and sch. C, commenced as per s. 39(3).
+
+### 45. Application of Section 53 of Act of 1952.
+
+**45.**—Section 53 of the Act of 1952 shall apply in relation to offences under this Act or under regulations thereunder as it applies to offences under the Act of 1952 or to offences under regulations thereunder, save that in the said application reference in the said section 53 to the Minister for Social Welfare shall be construed as reference to the Minister.
+
+### 46. Aid to unemployed persons changing residence.
+
+**46.**—F104[(1) The Minister may, for the purpose of promoting national economic policy, make with the consent of the Minister for Finance regulations providing for financial assistance out of moneys provided by the Oireachtas—
+
+(*a*) to persons who are obliged to change their normal place of residence in order to take up employment offered or approved by the National Manpower Service, or
+
+(*b*) to enable persons to travel for selection for training at approved training centres or to undertake courses of training at such centres.]
+
+(2) Without prejudice to the generality of subsection (1), regulations under this section—
+
+(*a*) may provide for the payment or recoupment, in whole or in part, of the costs of transport (including the transport of household effects) arising out of a change of residence and for allowances in respect of lodgings, and
+
+(*b*) may impose conditions, time limits and financial limits in respect of any moneys payable under the regulations.
+
+(3) Notwithstanding anything contained in section 4, regulations under this section may apply to workers belonging to a class excluded from this Act by the said section 4.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F104: Substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 18, S.I. No. 230 of 1971.
+>
+> **Modifications (not altering text):**
+>
+> C23: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 21 of 1967</td><td>Redundancy Payments Act 1967</td><td>Sections 29, 39(10) and (13), 46 and 56(2) and (3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E115: Certain payments under regulations made under this section exempted from income tax (from year 1997-1998) by *Taxes Consolidation Act 1997* (39/1997), s. 203(2), commenced as per s. 1097(1)(a).
+>
+> E116: Power pursuant to section exercised (3.08.1982) by *Redundancy (Resettlement Assistance) (Revocation) Regulations 1982* (S.I. No. 251 of 1982).
+>
+> E117: Previous affecting provision: power pursuant to subs. (1) exercised (1.08.1982) by *Redundancy (Resettlement Assistance) Regulations 1982* (S.I. No. 248 of 1982); revoked (3.08.1982) by *Redundancy (Resettlement Assistance) (Revocation) Regulations 1982* (S.I. No. 251 of 1982), reg. 2(c).
+>
+> E118: Previous affecting provision: power pursuant to subs. (1) exercised (21.05.1979) by *Redundancy (Resettlement Assistance) Regulations 1979* (S.I. No. 322 of 1979); revoked (3.08.1982) by *Redundancy (Resettlement Assistance) (Revocation) Regulations 1982* (S.I. No. 251 of 1982), reg. 2(b).
+>
+> E119: Previous affecting provision: power pursuant to subs. (1) exercised (10.09.1974) by *Redundancy (Resettlement Assistance) Regulations 1974* (S.I. No. 271 of 1974): revoked (3.08.1982) by *Redundancy (Resettlement Assistance) (Revocation) Regulations 1982* (S.I. No. 251 of 1982), reg. 2(a).
+>
+> E120: Previous affecting provision: power pursuant to section exercised (14.10.1971) by *Redundancy (Resettlement Assistance) Regulations 1971* (S.I. No. 286 of 1971); revoked (10.09.1974) by *Redundancy (Resettlement Assistance) Regulations 1974* (S.I. No. 271 of 1974), reg. 2.
+>
+> E121: Previous affecting provision: power pursuant to section exercised (25.01.1968) by *Redundancy (Resettlement Assistance) Regulations 1968* (S.I. No. 8 of 1968); revoked (14.10.1971) by *Redundancy (Resettlement Assistance) Regulations 1971* (S.I. No. 286 of 1971), reg. 2.
+
+### 47. Special redundancy schemes for employees excluded from Act.
+
+**47.**—(1) The Minister may, in respect of a class of employee excluded from this Act by section 4 or by an order made thereunder, and after consultation with representatives of employers interested in the form of work normally carried on by employees of that class and with representatives of employees so interested, prepare and cause to be carried out a scheme (in this Act referred to as a special redundancy scheme) providing in accordance with the terms of the special redundancy scheme for redundancy payment to employees of that class.
+
+(2) Whenever the Minister has prepared a special redundancy scheme he shall, as soon as he thinks fit after such preparation, make an order providing for the carrying into effect on a specified date of that special redundancy scheme, and from that date that scheme shall be so carried into effect.
+
+### 48. Provision for officers and servants of Córas Iompair Éireann and Óstlanna Iompair Éireann Teoranta.
+
+**48.**—(1) Section 9 of the Transport Act, 1964, shall not apply to a person who, after the commencement of this Act, becomes an officer or servant of the Board unless such person was, or, but for a casual interruption of his employment, would have been, an officer or servant of the Board at such commencement and continues to be an officer or servant of the Board except for casual interruptions of employment.
+
+(2) Where, before the commencement of this Act, a person is in receipt of compensation under section 9 of the Transport Act, 1964, subsection (1) shall not operate to diminish his right to such compensation.
+
+(3) Where a person, on or after the commencement of this Act, becomes entitled to compensation under section 9 (4) of the Transport Act, 1964, in consequence of the termination of his employment with the Board or with the Company, he shall, notwithstanding any other provision of this Act, stand disqualified, as on and from the date of such entitlement, for redundancy payment in respect of such employment and all contributions under this Act paid in respect of that person as an employee of the Board or of the Company shall be refunded to the person who paid such contributions.
+
+(4) In this section—
+
+“the Board” means Córas Iompair Éireann ;
+
+“the Company” means Óstlanna Iompair Éireann Teoranta.
+
+### 49. Power to modify or wind-up existing schemes and arrangements for the provision of superannuation and redundancy payments.
+
+**49.**—Any scheme or arrangement for the provision of pensions, compensation for redundancy or other benefits (including any scheme or arrangement established or provided by or under, or having statutory force by virtue of, any enactment and any scheme evidenced only by one or more policies of insurance) may be modified, or wound up, in connection with the establishment under this Act of a scheme for the provision of redundancy payments by agreement between the parties concerned in the scheme or arrangement.
+
+### 50. Application of Probation of Offenders Act, 1907.
+
+**50.**—F105[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F105: Deleted (6.04.1991) by *Social Welfare Act 1991* (7/1991), s. 39(1) and sch. C, commenced as per s. 39(3).
+
+### 51. Voidance of purported exclusion of provisions of this Act.
+
+**51.**—Any provision in an agreement (whether a contract of employment or not) shall be void in so far as it purports to exclude or limit the operation of any provision of this Act.
+
+### 52. Offences by bodies corporate.
+
+**52.**—Where an offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other officer of the body corporate or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+### 53. Provisions regarding notices.
+
+**53.**—(1) Any notice which under this Act is required or authorised to be given by an employer to an employee may be given by being delivered to the employee, or left for him at his usual or last-known place of residence, or sent by post addressed to him at that place.
+
+(2) Any notice which under this Act is required or authorised to be given by an employee to an employer may be given either by the employee himself or by a person authorised by him to act on his behalf, and, whether given by or on behalf of the employee,—
+
+(*a*) may be given by being delivered to the employer, or sent by post addressed to him at the place where the employee is or was employed by him, or
+
+(*b*) if arrangements in that behalf have been made by the employer, may be given by being delivered to a person designated by the employer in pursuance of the arrangements, or left for such a person at a place so designated, or sent by post to such a person at an address so designated.
+
+(3) In this section reference to the delivery of a notice shall, in relation to a notice not required by this Act to be in writing, be construed as including a reference to the oral communication of the notice.
+
+(4) Any notice which, in accordance with this section, is left for a person at a place referred to in this section shall, unless the contrary is proved, be presumed to have been received by him on the day on which it was left there.
+
+(5) Nothing in subsection (1) or (2) shall be construed as affecting the capacity of an employer to act by a servant or agent for the purposes of any provision (including either of those subsections) of this Act.
+
+### 54. Certificate of decision by deciding officer.
+
+**54.**—A document purporting to be a certificate of a decision made pursuant to this Act or regulations by a deciding officer and to be signed by him shall be *prima facie* evidence of the making of the said decision, and of the terms thereof, without proof of the signature of such officer or of his official capacity.
+
+### 55. Power to remove difficulties.
+
+**55.**—(1) If in any respect any difficulty arises in bringing into operation this Act or any amendment or repeal effected by this Act, the Minister may by order do anything which appears to be necessary or expedient for bringing this Act into operation, and any such order may modify a provision of this Act so far as may appear necessary or expedient for carrying the order into effect.
+
+(2) Every order made by the Minister under this section shall be laid before each House of the Oireachtas as soon as may be after it is made, and if a resolution is passed by either House of the Oireachtas within the next twenty-one days on which that House has sat after the order is laid before it annulling such order, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done under the order.
+
+(3) No order may be made under this section after the expiration of one year after the commencement of this Act.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E122: Power pursuant to section exercised (7.05.1968) by *Redundancy Payments Act (Authorised Officers) Order 1968* (S.I. No. 106 of 1968).
+
+### 56. Expenses of Minister.
+
+**56.**—(1) Any expenses incurred by the Minister or any other Minister in carrying this Act into effect shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+(2) There shall be paid to the Minister for Finance out of the F106[Social Insurance Fund], at such times and in such manner as the Minister for Finance may direct, such sums as the Minister may estimate, on such basis as may be agreed upon between him and the Minister for Finance, to be the part of the said expenses of the Minister or any other Minister in carrying into effect section 39 F107[and section 40], and any sums so paid shall be appropriated in aid of moneys provided by the Oireachtas for carrying this Act into effect.
+
+(3) In estimating expenses for the purposes of subsection (2), there shall be included such amount as, in the opinion of the Minister for Finance, represents the amount of the accruing liability in respect of any superannuation or other retiring allowances, lump sums or gratuities accruing in respect of the employment of any officer or other person for the purposes of this Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F106: Substituted (1.05.1990) by *Social Welfare Act 1990* (5/1990), s. 26(c) and table, commenced as per s. 31.
+>
+> F107: Inserted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19 and sch., S.I. No. 230 of 1971.
+>
+> **Modifications (not altering text):**
+>
+> C24: Functions under subss. (2) and (3) transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> (b) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 21 of 1967</td><td>Redundancy Payments Act 1967</td><td>Sections 29, 39(10) and (13), 46 and 56(2) and (3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 57. Regulations regarding keeping of records, furnishing of information and inspection of records.
+
+**57.**—For the purpose of ensuring the effective operation of this Act, the Minister may make regulations providing for the keeping of records and the furnishing of information by employers and for the inspection by authorised officers of the Minister of records or other documents in the custody or under the control of employers.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E123: Power pursuant exercised (9.01.1968) by *Redundancy (Inspection of Records) Regulations 1968* (S.I. No. 12 of 1968).
+
+### 58. Regulations providing for offences.
+
+**58.**—The Minister may by regulations provide for offences consisting of contraventions of or failure to comply with a provision of this Act or of contraventions of or failure to comply with regulations under this Act and for the recovery on summary conviction of such offences of fines not exceeding specified amounts not exceeding F108[£50], together with, in the case of continuing offences, further such fines in respect of each of the days on which the offences are continued.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F108: Substituted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 17 and sch., S.I. No. 95 of 1979. A fine of £50 converted (1.01.1999) to €63.45. This translates into a class E fine, not exceeding €500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(3) and table ref. no. 4, S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E124: Power pursuant exercised (30.12.1991) by *Redundancy (Notice of Dismissal) Regulations 1991* (S.I. No. 348 of 1991).
+>
+> E125: Power pursuant exercised (30.12.1991) by *Redundancy Certificate Regulations 1991* (S.I. No. 347 of 1991).
+>
+> E126: Power pursuant exercised (5.04.1979) by *Redundancy (Inspection of Records) Regulations 1979* (S.I. No. 115 of 1979).
+>
+> E127: Power pursuant exercised (6.01.1969) by *Redundancy (Collection of Contributions) (Revocation) Regulations 1968* (S.I. No. 271 of 1968).
+>
+> E128: Power pursuant exercised (9.01.1968) by *Redundancy (Inspection of Records) Regulations 1968* (S.I. No. 12 of 1968).
+>
+> E129: Previous affecting provision: power pursuant to section exercised (3.09.1984) by *Redundancy Certificate Regulations 1984* (S.I. No. 221 of 1984); revoked (30.12.1991) by *Redundancy Certificate Regulations 1991* (S.I. No. 347 of 1991), reg. 4, in effect as per reg. 1.
+>
+> E130: Previous affecting provision: power pursuant to section exercised (3.09.1984) by *Redundancy (Notice of Dismissal) Regulations 1984* (S.I. No. 220 of 1984); revoked (30.12.1991) by *Redundancy (Notice of Dismissal) Regulations* (S.I. No. 348 of 1991), reg. 6, in effect as per reg. 1.
+>
+> E131: Previous affecting provision: power pursuant exercised (5.04.1979) by *Redundancy Certificate Regulations 1979* (S.I. No 112 of 1979); revoked (3.09.1984) by *Redundancy Certificate Regulations 1984* (S.I. No. 221 of 1984), reg. 4, in effect as per reg. 1.
+>
+> E132: Previous affecting provision: power pursuant to section exercised (5.04.1979) by *Redundancy (Notice of Dismissal) Regulations 1979* (S.I. No. 111 of 1979); revoked (3.09.1984) by *Redundancy (Notice of Dismissal) Regulations 1984* (S.I. No. 220 of 1984), reg. 6, in effect as per reg. 1.
+>
+> E133: Previous affecting provision: power pursuant to section exercised (3.01.1968) by *Redundancy (Collection of Contributions) Regulations 1968* (S.I. No. 4 of 1968); revoked (6.01.1969) by *Redundancy (Collection of Contributions) (Revocation) Regulations 1968* (S.I. No. 271 of 1968), reg. 4, in effect as per reg. 2.
+>
+> E134: Previous affecting provision: power pursuant to section exercised (2.01.1968) by *Redundancy Certificate Regulations 1968* (S.I. No. 3 of 1968); revoked (5.04.1979) by *Redundancy Certificate Regulations 1979* (S.I. No 112 of 1979), reg. 4.
+>
+> E135: Previous affecting provision: power pursuant to section exercised (2.01.1968) by *Redundancy (Notice of Dismissal) Regulations 1968* (S.I. No. 2 of 1968); revoked (5.04.1979) by *Redundancy (Notice of Dismissal) Regulations 1979* (S.I. No. 111 of 1979), reg. 6.
+
+## SCHEDULE 1 — Weekly Payments from the Redundancy Fund
+
+1\. Subject to paragraph 2, the amount of a weekly payment shall be equivalent to 50 per cent. of the employee’s normal weekly remuneration.
+
+F109[2. (1) (*a*) In this subparagraph "the total amount being paid in respect of a week to a person" means—
+
+(i) in the case of a person normally resident in the State, the total amount being paid to him in respect of the following in a period of interruption of employment commencing on or after the 21st day of June, 1976—
+
+a weekly payment,
+
+unemployment benefit under the Social Welfare Acts, 1952 to 1976,
+
+unemployment assistance under the Unemployment Assistance Acts, 1933 to 1976,
+
+pay-related benefit under the Social Welfare (Pay-Related Benefit) Act, 1973 (No. 2 of 1973)
+
+together with the weekly equivalent (as determined by the Revenue Commissioners) of any refund of income tax which was paid as a result of that interruption of employment
+
+(ii) in the case of a person normally resident in Northern Ireland, the total amount being paid to him in respect of the following in a period of interruption of employment commencing on or after the 21st day of June, 1976—
+
+a weekly payment,
+
+unemployment benefit under the National Insurance Measures (Northern Ireland) 1966 to 1976,
+
+supplementary benefit under the Supplementary Benefits Acts (Northern Ireland) 1966 to 1969,
+
+together with the weekly equivalent (as determined by the appropriate authority for income tax in Northern Ireland) of any refund of income tax which was paid as a result of that interruption of employment.
+
+(*b*) (i) Subject to subclause (ii) of this subparagraph, the total amount being paid in respect of a week to a person shall not exceed 85 per cent of his average net weekly earnings or £50, whichever is the lesser, but he shall not receive in respect of unemployment benefit, unemployment assistance, pay-related benefit or supplementary benefit less than that to which he would, but for this Act, have been entitled.
+
+(*b*) (ii) Subclause (i) of this subparagraph shall not apply to a person, who, for the time being, is employed on short-time whereby he works on a lesser number of days in a working week than is normal to the working week in that employment and whose basic earnings are reduced as a result.
+
+(2)(*a*) In this subparagraph the total amount being paid in respect of a week to a person means—
+
+(i) In the case of a person normally resident in the State, the total amount being paid to him in respect of the following in a period of interruption of employment commencing on or after the 21st day of June, 1976,—
+
+a weekly payment,
+
+disability benefit under the Social Welfare Acts, 1952 to 1976,
+
+maternity allowance under the Social Welfare Acts, 1952 to 1976,
+
+pay-related benefit under the Social Welfare (Pay-Related Benefit) Act, 1973,
+
+(ii) in the case of a person normally resident in Northern Ireland, the total amount being paid to him in respect of a week in respect of the following in a period of interruption of employment commencing on or after the 21st day of June, 1976,
+
+a weekly payment,
+
+sickness benefit under the National Insurance Acts (Northern Ireland) 1966 to 1976,
+
+maternity allowance under the National Insurance Measures (Northern Ireland) 1966 to 1976,
+
+supplementary benefit under the Supplementary Benefits Acts (Northern Ireland) 1966 to 1969.
+
+(*b*) The total amount being paid to a person in respect of a week shall not exceed 100 per cent of his normal weekly remuneration or £50, whichever is the lesser, but he shall not receive in respect of disability benefit, sickness benefit, maternity allowance, pay-related benefit or supplementary benefit less than that to which he would, but for this Act, have been entitled.
+
+(3) For the purpose of subparagraph (1) of this paragraph, a person’s average net weekly earnings shall be calculated by—
+
+(i) ascertaining his reckonable earnings (within the meaning of the Social Welfare Pay-Related Benefit) Act, 1973) for his relevant employment period,
+
+(ii) subtracting from those reckonable earnings the amount of income tax deducted from those reckonable earnings and the employee’s portion (if any) of the amount of pay-related contributions payable by him in respect of those earnings,
+
+(iii) dividing the remainder under clause (ii) by the number of complete weeks in his relevant employment period, and
+
+(iv) deducting from the quotient under clause (iii) the employee’s portion (if any) of the employment contribution which was payable by an employee in the employment in which that person was employed in the last week of his relevant employment period.
+
+(v) In the case of a person whose entry into insurance under the Social Welfare Acts, 1952 to 1976, occurs after the 6th day of April in the relevant employment period, the following shall be substituted for clause (iii) of this subparagraph:
+
+"(iii) dividing the remainder under clause (ii) by the number of complete weeks from his entry into insurance under the Social Welfare Acts, 1952 to 1976, to the termination of his relevant employment period, and"
+
+(vi) In the case of a person who was employed outside the State during his relevant employment period (other than a person who continued to be insured under the Social Welfare Acts, 1952 to 1976, while so employed), the following shall be substituted for clause (iii) of this subparagraph:
+
+"(iii) dividing the remainder under clause (ii) by the number of complete weeks during which he was insurably employed under the Social Welfare Acts, 1952 to 1976, during his relevant employment period, and,"
+
+(vii) In the case of a person who did not receive reckonable earnings (within the meaning of the Social Welfare (Pay-Related Benefit) Act, 1973) on or after the last day of the first week of his relevant employment period the following shall be substituted for clauses (i) and (iii) respectively of this subparagraph,
+
+"(i) ascertaining his reckonable earnings (within the meaning of the Social Welfare (Pay-Related Benefit) Act, 1973) in the income tax year preceding that in which his relevant employment period falls,
+
+(iii) dividing the remainder under clause (ii) by 52, and"
+
+(viii) In the case of a person (other than a person referred to in clause (vi) of this subparagraph) who proved unemployment or incapacity for work for at least six days since the commencement of his relevant employment period, or in the case of a person referred to in clause (vii) of this subparagraph, in the preceding income tax year, the amount of benefit or unemployment assistance (or of both benefit and such assistance) paid to him under the Social Welfare Acts, 1952 to 1976, and the Unemployment Assistance Acts, 1933 to 1976, in respect of such unemployment or incapacity (or in respect of both such unemployment and such incapacity) shall be added to the amount ascertained under clause (i) of this subparagraph, but the amount of any benefit paid to him in respect of incapacity for work for any period in respect of which he also received from his employer reckonable earnings (within the meaning of the Social Welfare (Pay-Related Benefit) Act, 1973) shall not be so added.
+
+(ix) For the purposes of this subparagraph, a person’s relevant employment period shall be that period commencing on the 6th day of April of the appropriate income tax year and ending on the date in that year in which he becomes unemployed.
+
+(x) For the purposes of subclause (iv) of this subparagraph, “employment contribution” has the meaning assigned to it by the Social Welfare Act, fli="-5" 1952 (No. 11 of 1952), and includes, where appropriate, a redundancy contribution and also a health contribution within the meaning of section 2 of the Health Contributions Act, 1971 (No. 21) of 1971), at the rate specified in section 3 (1) (*a*) of that Act.
+
+(4) For the purpose of subparagraph (1) of this paragraph, where an initial payment of a refund of income tax paid as a result of a period of interruption of employment has been made to a person, it shall be presumed that he will continue to receive the weekly equivalent of that refund (as determined by the appropriate authority for income tax) until his entitlement to such refunds is exhausted or he resumes employment, whichever first occurs.]
+
+3\. Subject to paragraph 2, weekly payment shall, in the case of a person entitled to unemployment benefit, disability benefit, maternity allowance or F110[unemployment assistance or pay-related supplement under the Social Welfare (Pay-Related Benefit) Act, 1973 (No. 2 of 1973),] be paid to that person in addition to such benefit.
+
+F111[4. A weekly payment shall not be paid to a person otherwise entitled thereto for any period during which that person is, by virtue of section 15 (2) of the Act of 1952, disentitled to disability benefit or unemployment benefit.]
+
+F111[5. (*a*) A weekly payment shall not be paid to a person in respect of any period unless during that period the person was not gainfully employed and the fact that he was not so employed could not reasonably be attributed to the person’s own failure or refusal to seek or accept or continue in suitable gainful employment.
+
+(*b*) A person who is entitled to and in receipt of unemployment benefit or disability benefit under the Social Welfare Acts, 1952 to 1970, may be deemed to be not gainfully employed for the purposes of this paragraph.]
+
+6\. A person entitled to a weekly payment shall, subject to paragraph 7, be paid one weekly payment in respect of each year of continuous employment after he has attained the age of sixteen years (as calculated in accordance with Schedule 3) with the employer who dismissed him by reason of redundancy F112[or by whom he was employed when he gave notice of intention to claim under section 12; provided that he shall, subject to paragraph 5, in every case be entitled to receive not less than four weekly payments].
+
+F111[7. In calculating years of continuous employment for the purposes of paragraph 6 in relation to a person whose employment is terminated after the commencement of the Redundancy Payments Act, 1971, each period of one year during the whole of which the person entitled to the weekly payment was 41 years of age or older shall be reckoned as two completed years of continuous employment.]
+
+F113[7A. A person entitled to a weekly payment whose employment is terminated after the commencement of the Redundancy Payments (Weekly Payments and Lump Sum) Order, 1974 shall, in addition to his entitlement under paragraphs 6 and 7 be paid one weekly payment in respect of each year of continuous employment during the whole of which that person was 51 years of age or older.]
+
+F114[8. Whenever a person who has received a weekly payment obtains employment or for any reason ceases to receive weekly payments he shall not receive any further weekly payments.]
+
+F114[9. Whenever a person entitled to a weekly payment obtains employment before the expiration of any period mentioned in paragraph 4 (inserted by the Redundancy Payments Act, 1971) he shall not receive a weekly payment.]
+
+10\. Nothing in this Schedule shall be construed as conferring on an employee a right to more than one weekly payment in respect of any one week or part of a week.
+
+11\. Normal weekly remuneration shall for the purposes of this Schedule be calculated in accordance with paragraphs 13 to 23 of Schedule 3.
+
+12\. Where a person’s entitlement to a weekly payment is applicable to part of a week only, the payment in respect of that part of a week shall be calculated by reference to one-sixth of the full weekly payment for each day, excluding Sunday, in that part of the week.
+
+13\. Notwithstanding anything in paragraph 5, 8 or 9, a person who is undergoing a course of training arranged or approved by An Chomhairle Oiliúna shall not be disentitled to receive a weekly payment for the period of such training on the ground only that he is ineligible to receive unemployment benefit or unemployment assistance for that period.
+
+14\. A person shall not be entitled to a weekly payment unless he is normally resident within the State F112[or Northern Ireland].
+
+F112[15\. (1) A person who has lost employment by reason of a stoppage of work which was due to a trade dispute at the factory, workshop, farm or other premises or place at which he was employed shall not be entitled to a weekly payment so long as the stoppage of work continues, except, subject to paragraph 5, in a case where he has, during the stoppage of work, become *bona fide* employed elsewhere in the occupation which he usually follows or has become regularly engaged in some other occupation.
+
+(2) Where separate branches of work which are commonly carried on as separate businesses in separate premises or at separate places are in any case carried on in separate departments on the same premises or at the same place, each of those departments shall, for the purposes of subparagraph (1), be deemed to be a separate factory, workshop or farm or separate premises or a separate place, as the case may be.
+
+(3) Subparagraph (1) shall not apply to a person who—
+
+(*a*) is not participating in or financing or directly interested in the trade dispute which caused the stoppage of work, and
+
+(*b*) does not belong to a grade or class of workers of which, immediately before the commencement of the stoppage, there were members employed at his place of employment any of whom are participating in or financing or directly interested in the dispute.
+
+(4) In this paragraph "trade dispute" means any dispute between employers and employees, or between employees and employees, which is connected with the employment or non-employment or the terms of employment or the conditions of employment of any persons, whether employees in the employment of the employer with whom the dispute arises or not.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F109: Substituted (21.06.1976) by *Redundancy Payments (Weekly Payments) Order 1976* (S.I. No. 126 of 1976), art. 4.
+>
+> F110: Substituted (1.04.1984) by *Redundancy Payments (Weekly Payments and Lump Sum) Order 1974* (S.I. No. 82 of 1974), art. 5 and table.
+>
+> F111: Substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971.
+>
+> F112: Inserted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971.
+>
+> F113: Inserted (1.04.1984) by *Redundancy Payments (Weekly Payments and Lump Sum) Order 1974* (S.I. No. 82 of 1974), art. 6.
+>
+> F114: Substituted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 17 and sch., S.I. No. 95 of 1979.
+>
+> **Editorial Notes:**
+>
+> E136: Previous affecting provision: para. 2 substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971, as amended (1.04.1984) by *Redundancy Payments (Weekly Payments and Lump Sum) Order 1974* (S.I. No. 82 of 1974), art. 4 and table.
+>
+> E137: Previous affecting provision: para. 2 substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971.
+>
+> E138: Previous affecting provision: words in para. 9 substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971.
+
+## SCHEDULE 2 — Part I — Death of Employer or of Employee
+
+1\. This Part shall have effect in relation to an employee where his employer (in this Part referred to as the deceased employer) dies.
+
+2\. Section 20 shall not apply to any change where by the ownership of the business, for the purposes of which the employee was employed by the deceased employer, passes to a personal representative of the deceased employer.
+
+3\. Where, by virtue of section 21, the death of the deceased employer is to be treated for the purposes of this Act as a termination by him of the contract of employment, the employee shall nevertheless not be treated for those purposes as having been dismissed by the deceased employer if—
+
+(*a*) his contract of employment is renewed by a personal representative of the deceased employer, or he is re-engaged under a new contract of employment by such a personal representative, and
+
+(*b*) the renewal or re-engagement takes effect not later than eight weeks after the death of the deceased employer.
+
+4\. Where, by reason of the death of the deceased employer, the employee is treated for the purposes of this Act as having been dismissed by him, he shall not be entitled to a redundancy payment in respect of that dismissal if—
+
+(*a*) a personal representative of the deceased employer has made to him an offer in writing to renew his contract of employment or to re-engage him under a new contract,
+
+(*b*) in accordance with the particulars specified in that offer the renewal or re-engagement would take effect not later than eight weeks after the death of the deceased employer,
+
+(*c*) either—
+
+(i) the provisions of the contract as renewed, or of the new contract, as to the capacity and place in which he would be employed and as to the other terms and conditions of his employment would not differ from the corresponding provisions of the contract in force immediately before the death, or
+
+(ii) if, notwithstanding that in accordance with the particulars specified in that offer the provisions mentioned in subparagraph (i) would differ (wholly or in part) from the corresponding provisions of the contract in force immediately before the death, the offer constitutes an offer of suitable employment in relation to the employee,
+
+and
+
+(*d*) the employee has unreasonably refused that offer.
+
+5\. For the purposes of paragraph 4—
+
+(*a*) an offer shall not be treated as one whereby the provisions of the contract as renewed, or of the new contract, would differ from the corresponding provisions of the contract in force immediately before the death of the deceased employer by reason only that the personal representative would be substituted as the employer for the deceased employer, and
+
+(*b*) account shall not be taken of that substitution in determining whether the refusal of the offer was unreasonable.
+
+6\. Where by virtue of section 21 the death of the deceased employer is to be treated as a termination by him of the contract of employment, any reference in section 21 (2) to section 9 (2) shall be construed as including a reference to paragraph 3 of this Schedule.
+
+7\. Where the employee has before the death of the deceased employer been laid off or kept on short-time for one or more than one week, but has not given to the deceased employer notice of intention to claim, then if after the death of the deceased employer—
+
+(*a*) his contract of employment is renewed, or he is re-engaged under a new contract, as mentioned in paragraph 3 (*a*) or 3 (*b*) of this Schedule, and
+
+(*b*) after the renewal or re-engagement, he is laid off or kept on short-time for one or more weeks by the personal representative of the deceased employer,
+
+sections 12 and 13 shall apply as if the week in which the deceased employer died and the first week of the employee’s employment by the personal representative were consecutive weeks, and any reference in those sections to four weeks or thirteen weeks shall be construed accordingly.
+
+8\. Paragraph 9 or (as the case may be) paragraph 10 shall have effect where the employee has given to the deceased employer notice of intention to claim, and—
+
+(*a*) the deceased employer has died before the end of the next four weeks after the service of that notice, and
+
+(*b*) the employee has not terminated the contract of employment by notice expiring before the death of the deceased employer.
+
+9\. If in the circumstances specified in paragraph 8 the employee’s contract of employment is not renewed by a personal representative of the deceased employer before the end of the next four weeks after the service of the notice of intention to claim, and he is not re-engaged under a new contract by such a personal representative before the end of those four weeks, sections 12 (1) and 12 (2) and section 13 (4) shall apply as if—
+
+(*a*) the deceased employer had not died, and
+
+(*b*) the employee had terminated the contract of employment by a week’s notice (or, if under the contract he is required to give more than a week’s notice to terminate the contract, he had terminated it by the minimum notice which he is so required to give) expiring at the end of those four weeks,
+
+but sections 13 (1) to 13 (3) shall not apply.
+
+10\. (1) This paragraph shall have effect where, in the circumstances specified in paragraph 8, the employee’s contract of employment is renewed by a personal representative of the deceased employer before the end of the next four weeks after the service of the notice of intention to claim, or he is re-engaged under a new contract by such a personal representative before the end of those four weeks, and—
+
+(*a*) he was laid off or kept on short-time by the deceased employer for one or more of those weeks, and
+
+(*b*) he is laid off or kept on short-time by the personal representative for the week, or for the next two or more weeks, following the renewal or re-engagement.
+
+(2) Where the conditions specified in subparagraph (1) are fulfilled, sections 12 and 13 shall apply as if all the weeks for which the employee was laid off or kept on short-time as mentioned in the said subparagraph (1) were consecutive weeks during which he was employed (but laid off or kept on short-time) by the same employer.
+
+11\. In paragraphs 7 to 10 “week” and “notice of intention to claim” have the meanings respectively assigned to them by sections 2 and 12.
+
+12\. Where by virtue of paragraph 3 the employee is treated as not having been dismissed by reason of a renewal or re-engagement taking effect after the death of the deceased employer, then, in determining, for the purposes of section 7, whether he has been continuously employed for the requisite period, the interval between the death and the date on which the renewal or re-engagement takes effect shall count as a period of employment with the personal representative of the deceased employer, if, apart from this paragraph, it would not count for that purpose as such a period of employment.
+
+13\. For the purposes of the application, in accordance with section 4 (3), of any provisions of this Act to an employee who was employed in a private household, any reference to a personal representative in this Part shall be construed as including a reference to any person to whom, otherwise than in pursuance of a sale or other disposition for valuable consideration, the management of the household has passed in consequence of the death of the deceased employer.
+
+14\. Subject to the preceding provisions of this Part, in relation to an employer who has died—
+
+(*a*) any reference in this Act to the doing of anything by, or in relation to, an employer shall be construed as including a reference to the doing of that thing by, or in relation to, any personal representative of the deceased employer, and
+
+(*b*) any reference in this Act to a thing required or authorised to be done by, or in relation to, an employer shall be construed as including a reference to anything which, in accordance with any provision of this Act as modified by this Part (including subparagraph (*a*)), is required or authorised to be done by, or in relation to, any personal representative of his.
+
+15\. Where by virtue of any provision of this Act, as modified by this Part, a personal representative of the deceased employer is liable to pay a redundancy payment, or part of a redundancy payment, and that liability had not accrued before the death of the deceased employer, it shall be treated for all purposes as if it were a liability of the deceased employer which had accrued immediately before his death.
+
+Part II
+
+16\. Where an employer has given notice to an employee to terminate his contract of employment and before that notice expires the employee dies, Part II of this Act shall apply as if the contract had been duly terminated by the employer by notice expiring on the date of the employee’s death.
+
+17\. Where an employer F115[before the termination of an employee’s contract of employment] has offered to renew his contract of employment, or to re-engage him under a new contract, then if—
+
+(*a*) the employee dies without having either accepted or refused the offer, and
+
+(*b*) the offer has not been withdrawn before his death,
+
+section 15 (1) or 15 (2) (as the case may be) shall apply as if for “the employee has unreasonably refused” there were substituted “it would have been unreasonable on the part of the employee to refuse”.
+
+18\. (1) Where, in the circumstances specified in sections 10 (1) (*a*) and 10 (1) (*b*), the employee dies before the notice given by him under section 10 (1) (*b*) is due to expire and before the employer has given him notice under section 10 (3), section 10 (3) and section 10 (4) shall apply as if the employer had given him such notice and he had complied with it.
+
+(2) Where, in the circumstances specified in sections 10 (1) (*a*) and 10 (1) (*b*), the employee dies before his notice given under section 10 (1) (*b*) is due to expire but after the employer has given him notice under section 10 (3), sections 10 (3) and 10 (4) shall apply as if the circumstances were that the employee had not died and had complied with the last-mentioned notice.
+
+19\. (1) F116[...]
+
+(2) Where an employee, who has given notice of intention to claim, dies within seven days after the service of that notice, and before the employer has given a counter-notice, the provisions of sections 12 and 13 shall apply as if the employer had given a counter-notice within those seven days.
+
+(3) In this paragraph “notice of intention to claim” and “counter-notice” have the meanings respectively assigned to them by sections 12 and 13.
+
+20\. F116[...]
+
+21\. Subject to the preceding provisions of this Part, in relation to an employee who has died—
+
+(*a*) any reference in this Act to the doing of anything by, or in relation to, an employee shall be construed as including a reference to the doing of that thing by, or in relation to, any personal representative of the deceased employee, and
+
+(*b*) any reference in this Act to a thing required or authorised to be done by, or in relation to, an employee shall be construed as including a reference to anything which, in accordance with any provision of this Act as modified by this Part (including subparagraph (*a*)), is required or authorised to be done by, or in relation to, any personal representative of his.
+
+22\. Any right to a redundancy payment which had not accrued before the employee’s death shall devolve on his personal representative.
+
+23\. In relation to any case where, under any provision contained in Part II of this Act as modified by the preceding provisions of this Part, the Tribunal has power to determine that an employer shall be liable to pay to a personal representative of a deceased employee either—
+
+(*a*) the whole of a redundancy payment to which he would have been entitled apart from another provision therein mentioned, or
+
+(*b*) such part of such a redundancy payment as the Tribunal thinks fit,
+
+any reference in paragraph 22 to a right to a redundancy payment shall be construed as including a reference to any right to receive the whole or part of a redundancy payment if the Tribunal determines that the employer shall be liable to pay it.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F115: Substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971.
+>
+> F116: Deleted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971.
+
+## SCHEDULE 3 — Amount of Lump Sum
+
+F117[1. (1) The amount of the lump sum shall be equivalent to the aggregate of the following:
+
+(*a*) the product of two weeks of the employee’s normal weekly remuneration and the number of years of continuous employment from the date on which the employee attained the age of 16 years with the employer by whom the employee was employed on the date of dismissal or by whom the employee was employed when the employee gave notice of intention to claim under section 12, and
+
+(*b*) a sum equivalent to the employee’s normal weekly remuneration.
+
+(2) In calculating the amount of the lump sum, the amount per annum to be taken into account shall be that obtaining under section 4(2) of the Redundancy Payments Act 1979 at the time the employee is declared redundant.]
+
+F117[2. If the total amount of reckonable service is not an exact number of years, the “excess” days shall be credited as a proportion of a year.]
+
+F117[3. (*a*) For the purpose of ascertaining, for the purposes of paragraph 1, the number of years of continuous employment, the number of weeks in the period of continuous employment shall be ascertained in accordance with this Schedule and the result shall be divided by 52.
+
+(*b*) In ascertaining the number of weeks in the period of continuous employment, a week which under this Schedule is not allowable as reckonable service shall be disregarded.]
+
+Continuous Employment
+
+4\. For the purposes of this Schedule employment shall be taken to be continuous unless terminated by dismissal or by the employee’s voluntarily leaving the employment F118[, but for the purposes of this paragraph ‘dismissal’ does not include a dismissal within the meaning of the Unfair Dismissals Act, 1977, and in respect of which redress has been awarded under section 7 (1) (*a*) or 7 (1) (*b*) of that Act].
+
+F119[4A. Notwithstanding anything in paragraph 4 (and anything in clause (*b*) of the definition of “date of dismissal” in section 2), the period of notice due to an employee under section 4 (2) (*a*) of the Minimum Notice and Terms of Employment Act, 1973, but not given by the employer, shall, where the Tribunal so orders, be allowed as continuous service for redundancy purposes where, but for the failure of the employer to comply with the provisions of that Act, the employee would have qualified for redundancy payment.]
+
+F120[5. Where an employee’s period of service has been interrupted by any one of the following—
+
+(*a*) any period by reason of—
+
+(i) sickness,
+
+(ii) lay-off,
+
+(iii) holidays,
+
+(iv) service by the employee in the Reserve Defence Forces of the State,
+
+(v) any cause (other than the voluntary leaving of the employment concerned by the employee) not mentioned in clauses (i) to (iv) but authorised by the employer,
+
+F121[(*b*) a period during which, in accordance with the Adoptive Leave Acts 1995 and 2005, an adopting parent was absent from work while on adoptive leave or additional adoptive leave or while attending certain pre-adoption classes or meetings,]
+
+F122[(*c*) a period during which an employee was absent from work—
+
+(i) while on protective leave or natal care absence, within the meaning of Part IV of the Maternity Protection Act 1994 or to attend ante-natal classes in accordance with section 15A (inserted by section 8 of the Maternity Protection (Amendment) Act 2004), or for breastfeeding in accordance with section 15B (inserted by section 9 of the Maternity Protection (Amendment) Act 2004), of the first-mentioned Act,
+
+F123[(ii) while on parental leave, *force majeure* leave, leave for medical care purposes, domestic violence leave or on a flexible working arrangement under the Parental Leave Act 1998, or]
+
+(iii) while on carer’s leave under the Carer’s Leave Act 2001,]
+
+(*d*) any period during which an employee was absent from work because of a lock-out by the employer or because the employee was participating in a strike, whether such absence occurred before or after the commencement of this Act,
+
+F124[(*e*) any period during which an employee was absent from work while on paternity leave or transferred paternity leave under the Paternity Leave and Benefit Act 2016,]
+
+F125[(*f*) any period during which an employee was absent from work while on parent’s leave or transferred parent’s leave under the Parent’s Leave and Benefit Act 2019,]
+
+continuity of employment shall not be broken by such interruption whether or not notice of termination of the contract of employment has been given.]
+
+F126[(5A) If an employee is dismissed by reason of redundancy before attaining the period of 104 weeks referred to in section 7 (5) (as amended) of the Principal Act and resumes employment with the same employer within 26 weeks, his employment shall be taken to be continuous.]
+
+F127[6. Where a trade or business or an undertaking (whether or not it be an undertaking established by or under an Act of the Oireachtas), or part of a trade or business or of such an undertaking, was or is transferred from one person to another, the period of employment of an employee in the trade, business or undertaking (or in the part of the trade, business or undertaking) at the time of the transfer shall count as a period of employment with the transferee, and the transfer shall not break the continuity of the period of employment.]
+
+Reckonable Service
+
+7\. For the purposes of this Schedule, a week falling within a period of continuous employment and during which (or during any part of which) the employee concerned either was actually at work, or was absent therefrom by reason of sickness, F128[a dismissal within the meaning of the Unfair Dismissals Act, 1977, and in respect of which redress has been awarded under section 7 (1) (*a*) or 7 (1) (*b*) of that Act,] holidays or any other arrangement with his employer shall, subject to paragraph 8, be allowable as reckonable service.
+
+F129[8. During, and only during, the 3 year period ending with the date of termination of employment, none of the following absences shall be allowable as reckonable service—
+
+(*a*) absence in excess of 52 consecutive weeks by reason of an occupational accident or disease within the meaning of the Social Welfare (Consolidation) Act 1993,
+
+(*b*) absence in excess of 26 consecutive weeks by reason of any illness not referred to in subparagraph (*a*),
+
+(*c*) absence by reason of lay-off by the employer.
+
+8A. The following absences shall be allowable as reckonable service:
+
+F130[(*a*) a period during which, in accordance with the Adoptive Leave Acts 1995 and 2005, an adopting parent was absent from work while on adoptive leave or additional adoptive leave or while attending certain pre-adoption classes or meetings,]
+
+F131[(*b*) a period during which an employee was absent from work—]
+
+(i) while on protective leave or natal care absence, within the meaning of Part IV of the Maternity Protection Act 1994 or to attend ante-natal classes in accordance with section 15A (inserted by section 8 of the Maternity Protection (Amendment) Act 2004), or for breastfeeding in accordance with section 15B (inserted by section 9 of the Maternity Protection (Amendment) Act 2004), of the first-mentioned Act,
+
+F123[(ii) while on parental leave, *force majeure* leave, leave for medical care purposes, domestic violence leave or on a flexible working arrangement under the Parental Leave Act 1998, or]
+
+(iii) while on carer’s leave under the Carer’s Leave Act 2001,
+
+F132[(*ba*) a period during which, in accordance with the Paternity Leave and Benefit Act 2016, an employee was absent from work while on paternity leave or transferred paternity leave within the meaning of that Act,]
+
+F125[(*bb*) a period during which, in accordance with the Parent’s Leave and Benefit Act 2019, an employee was absent from work while on parent’s leave or transferred parent’s leave within the meaning of that Act,]
+
+(*c*) any absences not mentioned in F133[paragraphs (a), F134[(b), (ba) or (bb)]] but authorised by the employer.]
+
+9\. Absence from work by reason of a strike in the business or industry in which the employee concerned is employed and which occurred before the commencement of this Act shall be allowable as reckonable service.
+
+F135[10. During, and only during, the 3 year period ending with the date of termination of employment, absence from work by reason of a strike in the business or industry in which the employee concerned is employed shall not be allowable as reckonable service.]
+
+11\. Absence from work by reason of a lock-out shall be allowable as reckonable service.
+
+12\. Absence from work by reason of a strike or lock-out in a business or industry other than that in which the employee concerned is employed shall be allowable as reckonable service if it occurred before the commencement of this Act.
+
+Normal Weekly Remuneration
+
+13\. For the purposes of this Schedule, in the case of an employee who is paid wholly by an hourly time rate or by a fixed wage or salary, and in the case of any other employee whose remuneration does not vary in relation to the amount of work done by him, his normal weekly remuneration shall be taken to be his earnings (including any regular bonus or allowance which does not vary in relation to the amount of work done F136[and any payment in kind]) for his normal weekly working hours as at the date on which he was declared redundant, together with, in the case of F137[an employee who is normally expected to work overtime], his average weekly overtime earnings as determined in accordance with paragraph 14.
+
+14\. For the purpose of paragraph 13 the average weekly overtime earnings shall be determined by ascertaining the total amount of overtime earnings of the employee concerned in the period of 26 weeks which ended 13 weeks before the date on which the employee was declared redundant and dividing that amount by 26.
+
+15\. For the purpose of paragraph 14 any week during which the employee concerned did not work shall be disregarded and the most recent week before the 26-week period mentioned in paragraph 14 shall be taken into account instead of the week during which the employee did not work.
+
+16\. (i) In the case of an employee who is paid wholly or partly by piece rates, bonuses or commissions (being piecerates, bonuses or commissions related directly to his output) and in the case of any other employee whose remuneration varies in relation to the amount of work done by him, his normal weekly remuneration shall be taken to be the amount as calculated in accordance with subparagraph (ii).
+
+(ii) For the purposes of subparagraph (i) normal weekly remuneration shall be calculated by dividing the remuneration to be taken into account in accordance with subparagraph (iii) by the number of hours ascertained in accordance with subparagraph (vi) and multiplying the resulting hourly rate by the normal weekly working hours of the employee concerned at the date on which he was declared redundant.
+
+(iii) The remuneration to be taken into account for the purposes of subparagraph (ii) shall be the total remuneration paid to the employee concerned for all the hours worked in the period of 26 weeks which ended 13 weeks before the date on which the employee was declared redundant, adjusted in respect of any variations in the rates of pay which became operative during the period of 13 weeks ending on the date on which the employee was declared redundant.
+
+(iv) For the purposes of subparagraph (iii), weeks worked with different employers may be taken into account if the change of employer did not affect the employee’s continuous employment as provided by paragraphs 4 to 6.
+
+(v) For the purposes of subparagraph (iii), any week during which the employee did not work shall be disregarded and the most recent week before the 26-week period mentioned in subparagraph (iii) shall be taken into account instead of the week during which the employee did not work.
+
+(vi) The number of hours to be taken into account for the purposes of subparagraph (ii) shall be the total number of hours worked in the period of 26 weeks mentioned in subparagraph (iii).
+
+17\. Where an employee receives additional remuneration for working more than a fixed number of hours, that fixed number of hours shall, for the purposes of paragraphs 13 and 16 (ii), be taken to be his normal weekly working hours, unless by his contract of employment he is required to work for more than that fixed number of hours, and in the last mentioned case the higher number of hours required by the contract shall be taken to be his normal weekly working hours.
+
+18\. Where in a particular week an employee qualifies for a payment of a bonus, pay allowance or commission which relates to more than the work done in that week, the appropriate portion of the payment may be taken into account under paragraphs 13 and 16 (iii).
+
+19\. An employee who is normally employed on a shift cycle and whose remuneration varies in relation to the particular shift he works, and an employee whose remuneration for his normal number of working hours varies in relation to the day of the week or the times of the day or night over which those hours are spread, shall be taken to be each an employee who is paid wholly or partly by piece-rates.
+
+20\. For the purposes of this Schedule, in the case of an employee who has no normal working hours, his normal weekly remuneration shall be taken to be the average weekly remuneration, including any bonus, pay allowance or commission, received by the employee concerned over the period of 52 weeks during which he was actually working immediately prior to the date on which he was declared redundant.
+
+21\. The date on which an employee is declared redundant shall for the purposes of this Schedule be taken to be the date on which a notice of proposed dismissal was given to the employee in accordance with section 17 or, where a redundancy payment is claimed in accordance with section 12, the first day of the series of weeks of lay-off or short-time referred to in section 7 (3).
+
+22\. Where under this Schedule account is to be taken of remuneration or other payments for a period which does not coincide with the periods for which the remuneration or other payments are calculated, part of the remuneration or other payments shall be duly apportioned in such manner as may be just.
+
+23\. For the purposes of paragraphs 13 and 16, account shall not be taken of any sums paid to an employee by way of recoupment of expenses necessarily incurred by him in the proper discharge of the duties of his employment.
+
+Miscellaneous
+
+24\. In this Schedule—
+
+F138[...]
+
+“strike” and “lock-out” have the meanings respectively assigned to them by section 6.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F117: Substituted (10.04.2005) by *Redundancy Payments Act 2003* (14/2003), s. 11, S.I. No. 77 of 2005.
+>
+> F118: Inserted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 17 and sch., S.I. No. 95 of 1979.
+>
+> F119: Inserted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 17 and sch., S.I. No. 95 of 1979.
+>
+> F120: Substituted (10.04.2005) by *Redundancy Payments Act 2003* (14/2003), s. 12(a), S.I. No. 77 of 2005.
+>
+> F121: Inserted by *Adoptive Leave Act 1995* (2/1995), s. 28, as substituted (28.11.2005) by *Adoptive Leave Act 2005* (25/2005), s. 20, S.I. No. 724 of 2005.
+>
+> F122: Substituted (10.04.2005) by *Maternity Protection (Amendment) Act 2004* (28/2004), s. 24(a), S.I. No. 131 of 2005.
+>
+> F123: Substituted (3.07.2023) by *Work Life Balance and Miscellaneous Provisions Act 2023* (8/2023), s. 32(a), (b), S.I. No. 341 of 2023.
+>
+> F124: Inserted (1.08.2016) by *Paternity Leave and Benefit Act 2016* (11/2016), s. 32(a), S.I. No. 435 of 2016.
+>
+> F125: Inserted (1.11.2019) by *Parent’s Leave and Benefit Act 2019* (35/2019), s. 33(a), (b), S.I. No. 629 of 2019.
+>
+> F126: Inserted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971.
+>
+> F127: Substituted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971.
+>
+> F128: Inserted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 17 and sch., S.I. No. 95 of 1979.
+>
+> F129: Substituted (10.04.2005) by *Redundancy Payments Act 2003* (14/2003), s. 12(b), S.I. No. 77 of 2005.
+>
+> F130: Substituted by *Adoptive Leave Act 1995* (2/1995), s. 28, as substituted (28.11.2005) by *Adoptive Leave Act 2005* (25/2005), s. 20(b), S.I. No. 724 of 2005.
+>
+> F131: Substituted (10.04.2005) by *Maternity Protection (Amendment) Act 2004* (28/2004), s. 24(b), S.I. No. 131 of 2005.
+>
+> F132: Inserted (1.08.2016) by *Paternity Leave and Benefit Act 2016* (11/2016), s. 32(b)(i), S.I. No. 435 of 2016.
+>
+> F133: Substituted (1.08.2016) by *Paternity Leave and Benefit Act 2016* (11/2016), s. 32(b)(ii), S.I. No. 435 of 2016.
+>
+> F134: Substituted (1.11.2019) by *Parent’s Leave and Benefit Act 2019* (35/2019), s. 33(c), S.I. No. 629 of 2019.
+>
+> F135: Substituted (10.04.2005) by *Redundancy Payments Act 2003* (14/2003), s. 12(c), S.I. No. 77 of 2005.
+>
+> F136: Inserted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971.
+>
+> F137: Inserted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971.
+>
+> F138: Deleted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971.
+>
+> **Modifications (not altering text):**
+>
+> C25: Prospective affecting provision: application of schedule (in part) extended with necessary modifications by *Irish Shipping Limited (Payments to Former Employees) Act 1994* (10/1994) s. 2(4), not commenced as of date of revision.
+>
+> **Payment of lump sum to former employees of company**
+>
+> **2.**—(1) Subject to the subsequent provisions of this Act, the Minister shall, on application to the Minister in that behalf by a former employee or, if the former employee has died whether before or after the passing of this Act, by his or her personal representative, pay to the former employee or the personal representative, as the case may be, out of moneys provided by the Oireachtas, a sum (referred to in this Act as “a lump sum”) calculated in accordance with the provisions of subsection (2) of this section.
+>
+> ...
+>
+> (4) Schedule 3 (other than paragraphs 1 and 2 thereof) of the Act of 1967 shall apply, with any necessary modifications, in relation to a lump sum as it applies in relation to a lump sum (within the meaning of that Act).
+>
+> C26: Application of Sch. 3 para. 1 not restricted by *Pensions Act 1990* (25/1990), s. 75, as substituted (5.04.2004) by *Social Welfare (Miscellaneous Provisions) Act 2004* (9/2004), s. 22, S.I. No. 141 of 2004.
+>
+> **Compliance with statutory requirements, etc.**
+>
+> **75.** — ...
+>
+> (4) Nothing in this Part renders unlawful any act done in compliance with paragraph 1 of Schedule 3 to the Redundancy Payments Act 1967 and, accordingly, any such act does not constitute a breach of the principle of equal pension treatment on the age ground.
+>
+> C27: Power to amend by order vested in Minister (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 4(2), S.I. No. 95 of 1979.
+>
+> **Provisions relating to lump sum under Principal Act, and consequential provisions.**
+>
+> **4.** — ...
+>
+> (2) The Minister may by regulations made with the consent of the Minister for Finance—
+>
+> (a) vary the amount of £5,000 referred to in paragraph 2 of Schedule 3 of the Principal Act (inserted by this section), and
+>
+> (b) alter the method of calculation of a lump sum under the Principal Act.
+>
+> **Editorial Notes:**
+>
+> E139: Previous affecting provision: power to alter method of calculation of a lump sum vested in Minister (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 4(2)(b), S.I. No. 95 of 1979 in relation to *Redundancy Payments Act 1967* (21/1967), s. 19 and sch. 3, para. 2; para. 2 substituted as per F-note above.
+>
+> E140: Previous affecting provision: para. 5(c) substituted (10.04.2005) by *Redundancy Payments Act 2003* (14/2003), s. 12(a), S.I. No. 77 of 2005; substituted as per F-note above.
+>
+> E141: Previous affecting provision: para. 5(e) inserted (20.03.1995) by *Adoptive Leave Act 1995* (2/1995), s. 28, S.I. No. 64 of 1995; s. 28 (the amending provision) was substituted (28.11.2005) by *Adoptive Leave Act 2005* (25/2005), s. 20, S.I. No. 724 of 2005 and appears to have replaced the substance of the provision in (e) with the new subpara. (b).
+>
+> E142: Previous affecting provisions: para. 5(d) inserted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 17 and sch., S.I. No. 95 of 1979 and first substituted (6.04.1981) by *Maternity Protection of Employees Act 1981* (2/1981), s. 28, commenced as per s. 1; substituted for the second time (30.01.1995) by *Maternity Protection Act 1994* (34/1994), s. 39, S.I. No. 16 of 1995; substituted for the third time (3.12.1998) by *Parental Leave Act 1998* (30/1998), s. 25(1), commenced as per s. 1; substituted for the fourth time (2.07.2001) by *Carer’s Leave Act 2001* (19/2001), s. 26, commenced on enactment; and substituted for the fifth time as per F-note above.
+>
+> E143: Previous affecting provision: para. 2A inserted (1.04.1974) by *Redundancy Payments (Weekly Payments and Lump Sum) Order 1974* (S.I. No. 82 of 1974), art. 7; substituted (21.06.1976) by *Redundancy Payments (Weekly Payments) Order 1976* (S.I. No. 126 of 1976), art. 5 (and renamed para. 2); substituted as per F-note above.
+>
+> E144: Previous affecting provision: para. 1 amended (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971; amended for transitional period (25.05.2003) by *Redundancy Payments Act 2003* (14/2003), s. 10, S.I. No. 194 of 2003; ceased to have effect (10.04.2005) on the commencement of *Redundancy Payments Act 2003* (14/2003), s. 11, S.I. No. 77 of 2005 which substituted para. 1 as per F-note above.
+>
+> E145: Previous affection provisions: para. 2 deleted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971; re-inserted (6.04.1979) by *Redundancy Payments Act 1979* (7/1979), s. 4(1), S.I. No. 95 of 1979; amended (1.06.1981) by *Redundancy Payments (Lump Sum) Regulations 1981* (S.I. No. 191 of 1981), reg. 2; amended (1.05.1982) by *Redundancy Payments (Lump Sum) Regulations 1982* (S.I. No. 104 of 1982), reg. 3; amended (1.05.1983) by *Redundancy Payments (Lump Sum) Regulations 1983* (S.I. No. 108 of 1983), reg. 3; amended (1.02.1990) by *Redundancy Payments (Lump Sum) Regulations 1990* (S.I. No. 18 of 1990), reg. 3; amended (1.05.1994) by *Redundancy Payments (Lump Sum) Regulations 1994* (S.I. No. 64 of 1994), reg. 3; amended (1.04.2001) by *Redundancy Payments (Lump Sum) Regulations 2001* (S.I. No. 41 of 2001), reg. 2; amended (1.01.2005) by *Redundancy Payments (Lump Sum) Regulations 2004* (S.I. No. 695 of 2004), reg. 2; substituted as per F-note above.
+>
+> E146: Previous affecting provisions: para. 5 amended and para. 5(1)(ai) inserted (1.09.1971) by *Redundancy Payments Act 1971* (20/1971), s. 19(1) and sch., S.I. No. 230 of 1971; substituted as per F-note above.

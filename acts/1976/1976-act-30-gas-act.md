@@ -1,0 +1,4090 @@
+---
+title: "Gas Act, 1976"
+identifier: "eli/1976/act/30"
+type: act
+jurisdiction: ie
+language: en
+number: 30
+year: 1976
+date: 1976-07-19
+last_amended: 2024-06-01
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1976/act/30/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1976/act/30/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Gas Act, 1976
+
+AN ACT TO MAKE PROVISION WITH RESPECT TO GAS SUPPLY AND FOR THAT PURPOSE TO ESTABLISH A BODY TO BE KNOWN IN THE IRISH LANGUAGE AS BORD GAIS EIREANN AND IN THE ENGLISH LANGUAGE AS THE IRISH GAS BOARD AND TO DEFINE ITS FUNCTIONS, TO MAKE CERTAIN PROVISIONS TO ENABLE THAT BODY TO ACQUIRE LAND AND CERTAIN RIGHTS RELATING TO LAND, TO AMEND CERTAIN ENACTMENTS AND TO MAKE OTHER PROVISIONS CONNECTED WITH THE FOREGOING. [19*th July*, 1976]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C1: Functions transferred and references to "Ervia" construed (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 11, S.I. 208 of 2024.
+>
+> **Transfer day**
+>
+> **6.** (1) The Minister shall by order appoint a day to be the transfer day for the purposes of this Act.
+>
+> (2) On and from the transfer day Ervia (in this Act referred to as the “dissolved body”) shall stand dissolved.
+>
+> ...
+>
+> **Transfer of functions**
+>
+> **11.** (1) On the transfer day, all functions that, immediately before the transfer day, were vested in the dissolved body shall stand vested in Gas Networks Ireland.
+>
+> (2) References in any enactment (other than this Act) or other document to the dissolved body, to the extent that such references relate to functions, assets, rights or liabilities that are vested in, or transferred to, Gas Networks Ireland by this Act shall, on and from the transfer day, be construed as references to Gas Networks Ireland.
+>
+> (3) The administration and business in connection with the performance of the functions vested in Gas Networks Ireland by virtue of subsection (1) are on the transfer day transferred to Gas Networks Ireland.
+>
+> (4) References in any enactment (other than this Act) to the dissolved body, to the extent that such references relate to the administration and business transferred by subsection (3) shall, on and from the transfer day, be construed as references to Gas Networks Ireland.
+>
+> C2: Application of collectively cited *Gas Acts* restricted (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), reg. 42(22), in effect as per reg. 1(3).
+>
+> *Screening for Appropriate Assessment and Appropriate Assessment of implications for European Sites*
+>
+> 42\. …
+>
+> (22) Notwithstanding any provision of any statute listed in the Second Schedule that provides for the consent for a plan or project to which this Regulation applies to be obtained by default on the failure of the public authority to provide a response within a specified timescale or otherwise, that provision shall not have effect in respect of any plan or project to which this Regulation applies.
+>
+> ...
+>
+> C3: Certain authorisations etc. continued in force (20.07.2004) by *European Communities (Internal Market in Natural Gas) (No. 2) Regulations 2004* (S.I. No. 452 of 2004), reg. 3.
+>
+> *Saver*
+>
+> 3\. An authorisation, application, licence, designation, decision, determination, direction, consent, notice, notification, order or regulation made, granted or issued under the Gas Act 1976, the Act of 1999 or the Act of 2002 in force immediately before the making of these Regulations continues in force after such making as if made, granted or issued under the Act concerned as amended by these Regulations.
+>
+> C4: Functions transferred and references to “Department of Public Enterprise” and “Minister for Public Enterprise” construed (18.06.2002) by *Communications, Energy and Geological Survey of Ireland (Transfer of Departmental Administration and Ministerial Functions) Order 2002* (S.I. No. 300 of 2002), arts. 3, 4, and sch. part 1, in effect as per art. 1(2), subject to transitional provisions in arts. 5-9.
+>
+> Note that the Department of the Marine and Natural Resources was most recently renamed as Communications, Climate Action and Environment (23.07.2016) *by Communications, Energy and Natural Resources (Alteration of Name of Department and Title of Minister) Order 2016* (S.I. No. 421 of 2016), in effect as per art. 1(2).
+>
+> 3\. (1) The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 4 of this Order are transferred to the Department of the Marine and Natural Resources.
+>
+> (2) References to the Department of Public Enterprise contained in any Act or instrument made thereunder and relating to any administration and business transferred by paragraph (1) of this Article shall, on and after the commencement of this Order, be construed as references to the Department of the Marine and Natural Resources.
+>
+> 4\. (1) The functions vested in the Minister for Public Enterprise -
+>
+> (*a*) by or under any of the enactments or the provisions of the enactments mentioned in Part 1 of the Schedule to this Order,
+>
+> ...
+>
+> are transferred to the Minister for the Marine and Natural Resources.
+>
+> (2) References to the Minister for Public Enterprise contained in any Act or instrument made thereunder and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for the Marine and Natural Resources.
+>
+> ...
+>
+> SCHEDULE
+>
+> PART 1.
+>
+> Enactments and provisions of enactments, functions under which are transferred from the Minister for Public Enterprise to the Minister for the Marine and Natural Resources.
+>
+> ...
+>
+> Gas Acts 1976 to 2002
+>
+> ...
+>
+> C5: Certain functions transferred and references to “Department of Public Enterprise” and “Minister for Public Enterprise” construed (27.07.2001) by *Petroleum and Offshore Exploration (Transfer of Departmental Administration and Ministerial Functions) Order 2001* (S.I. No. 389 of 2001), arts. 3, 4 and table, subject to transitional provisions in arts. 5-7.
+>
+> Note that the Department of the Marine and Natural Resources was most recently renamed as Communications, Climate Action and Environment (23.07.2016) *by Communications, Energy and Natural Resources (Alteration of Name of Department and Title of Minister) Order 2016* (S.I. No. 421 of 2016), in effect as per art. 1(2).
+>
+> 3\. The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 4 of this Order are transferred to the Department of the Marine and Natural Resources.
+>
+> 4\. (1) The functions vested in the Minister for Public Enterprise (being the title of that Minister by virtue of the Transport, Energy and Communications (Alteration of Name of Department and Title of Minister) Order, 1997 (S.I. No. 299 of 1997)) by virtue of the Energy (Transfer of Departmental Administration and Ministerial Functions) (No. 2) Order, 1993 (S.I. No. 12 of 1993), by or under the provisions of the Gas Act, 1976 (No. 30 of 1976), as amended, which are set out in column (1) of the Table to this article are hereby transferred to the Minister for the Marine and Natural Resources to the extent specified in column (2) of that Table opposite the mention of the section in the said column (1).
+>
+> (2) References to the Minister for Public Enterprise and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for the Marine and Natural Resources.
+>
+> <table><tr><td>Column 1</td><td>Column 2</td></tr><tr><td>Provisions</td><td>Extent of transfer</td></tr><tr><td>Sections 4, 6, 8, 27, 31, 32, 40A and Second Schedule</td><td>In so far as they relate to any upstream pipeline network</td></tr><tr><td>Section 40</td><td>In so far as it is not already transferred by the Petroleum and Offshore Exploration (Transfer of Departmental Administration and Ministerial Functions) Order, 2000 (S.I. No. 110 of 2000), and to the extent that it relates to any upstream pipeline network.</td></tr></table>
+>
+> C6: Application of collectively cited *Gas Acts* restricted (21.12.1995) by *Energy (Miscellaneous Provisions) Act 1995* (35/1995), s. 27, commenced on enactment.
+>
+> **Saving as respects the provisions of the Foreshore Acts, 1933 and 1992.**
+>
+> **27.**—Nothing in the Gas Acts, 1976 to 1995, or the Petroleum and Other Minerals Development Acts, 1960 and 1995, shall prejudice the provisions of the Foreshore Acts, 1933 and 1992.
+>
+> **Editorial Notes:**
+>
+> E1: Previous affecting provision: functions transferred and references to “Department of Public Service” and “Minister for Public Service” construed (19.03.1987) by *Public Service (Transfer of Departmental Administration and Ministerial Functions) Order 1987* (S.I. No. 81 of 1987), arts. 3, 4(1)(a), and sch., subject to transitional provisions in arts. 5-9; superseded as per C-notes above.
+>
+> E2: Previous affecting provision: functions transferred and references to “Department of Industry, Commerce and Energy” and “Minister for Industry, Commerce and Energy” construed (22.01.1980) by *Energy (Transfer of Departmental Administration and Ministerial Functions) Order 1980* (S.I. No. 9 of 1980), arts. 3, 4, and sch. part 1, in effect as per art. 1(2), subject to transitional provisions in arts. 5-9; superseded as per E-note above.
+>
+> E3: Previous affecting provision: functions transferred and references to “Department of Public Enterprise” and “Minister for Transport and Power” construed (13.09.1977) by *Energy (Transfer of Departmental Administration and Ministerial Functions) Order 1977* (S.I. No. 295 of 1977), arts. 3, 4, and sch. part 1, in effect as per art. 2, subject to transitional provisions in arts. 5-9; superseded as per E-note above.
+
+## PART I — Preliminary and General
+
+### 1. Short title and commencement.
+
+**1.** — (1) This Act may be cited as the Gas Act, 1976.
+
+(2) This Act, other than this section and sections 2, 3, 6, 34, 35, 36 and 44, shall come into force on the establishment day.
+
+### 2. Interpretation.
+
+**2.** — F1[(1)] In this Act—
+
+“the Act of 1960” means the Petroleum and Other Minerals Development Act, 1960, as extended by section 4 (2) of the Continental Shelf Act, 1968;
+
+F2["Act of 2014" means the Companies Act 2014;]
+
+“the Board” means the body established by section 7;
+
+F3[“the Commission”means the Commission for Energy Regulation;]
+
+“the Company” means Bord Gáis Éireann Teoranta;
+
+F5[“customer” means a wholesale or final customer of natural gas and natural gas undertakings who purchases natural gas;]
+
+F8[“Department” means the Department of the Environment, Climate and Communications;]
+
+F16[“designated area” has the same meaning as it has in the Maritime Jurisdiction Act 2021;]
+
+“deviation limits” has the meaning assigned to it by Article 1 of the Second Schedule;
+
+F9[“effects on the environment” includes, in relation to a proposed pipeline, the effects of the construction and operation of that pipeline on the environment;]
+
+F10[“EIA Directive” means Directive 2011/92/EU of the European Union and of the Council of 13 December 2011[^1], as amended by Directive 2014/52/EU of the European Parliament and of the Council of 16 April 2014[^2];]
+
+F11[“Environmental Assessment Unit” has the meaning assigned to it by section 40C;]
+
+F12[“environmental impact assessment”, in relation to a pipeline which is the subject of application for consent under section 39A(1) or 40(1), means a process in respect of the construction and operation of the pipeline—
+
+(*a*) consisting of—
+
+(i) the preparation of an environmental impact assessment report in accordance with section 40A(1)(f),
+
+(ii) the carrying out of consultation in accordance with section 40A(2) and, where relevant, section 40A(7),
+
+(iii) the examination by the Commission or the Environmental Assessment Unit, as the case may be, of—
+
+(I) the information presented in the environmental impact assessment report,
+
+(II) any additional information provided in accordance with section 40A(5)(b), and
+
+(III) any relevant information received through consultation under section 40A(2) and, where relevant, under section 40A(7),
+
+(iv) the reaching by the Commission or the Environmental Assessment Unit, as the case may be, of a reasoned conclusion in accordance with section 40B(5) on the significant effects on the environment of the proposed pipeline, taking into account the results of the examination referred to in subparagraph (iii) and, where appropriate, its own supplementary examination, and
+
+(v) the integration by the Commission or the Minister, as the case may be, of the reasoned conclusion referred to in subparagraph (iv) into the decision made by the Commission or the Minister, as the case may be, under section 39A(1) or 40(1), as the case may be,
+
+and
+
+(*b*) including an examination, analysis and evaluation by the Commission or the Environmental Assessment Unit, as the case may be, under section 40B (5) to identify, describe and assess the direct and indirect significant effects on the environment of the proposed pipeline, including the expected significant effects derived from the vulnerability of the proposed pipeline to risks of major accidents and disasters relevant to it, on—
+
+(i) population and human health,
+
+(ii) biodiversity, with particular attention to species and habitats protected under Council Directive 92/43/EEC of 21 May 1992[^3] and Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009[^4],
+
+(iii) land, soil, water, air and climate,
+
+(iv) material assets, cultural heritage and the landscape, and
+
+(v) the interaction between the factors mentioned in subparagraphs (i) to (iv);]
+
+F13[“environmental impact assessment report” shall be construed in accordance with section 40A(1)(f);]
+
+“the establishment day” means the day appointed by the Minister pursuant to section 3;
+
+“exploration licence” has the meaning assigned to it by section 8 of the Act of 1960;
+
+F17[“foreshore” means the bed and shore, below the line of high water of ordinary or medium tides, of the sea and of every tidal river and tidal estuary and of every channel, creek and bay of the sea or of any such river or estuary and the outer limit of the foreshore shall be determined in accordance with section 1A (inserted by section 60 of the Maritime Safety Act 2005) of the Foreshore Act 1933;]
+
+“functions” includes powers and duties;
+
+F18[“harbour authority” means—
+
+(*a*) in the case of a harbour to which the Harbours Act 1996 applies, the harbour company concerned,
+
+(*b*) in the case of a harbour to which the Harbours Acts 1946 to 1976 apply, the harbour authority concerned,
+
+(*c*) in the case of a fishery harbour centre to which the Fishery Harbour Centres Act 1968 applies or any other harbour under the control or management of the Minister for Communications, Marine and Natural Resources, that Minister,
+
+(*d*) in the case of a harbour under the control or management of a local authority, the local authority concerned,
+
+(*e*) in the case of a harbour under the control or management of Iarnród Éireann – Irish Rail, that company,
+
+(*f*) in the case of any other harbour, the owner;]
+
+F20[“industrial customer” means large industrial and commercial customers with a peak hourly demand greater than 50 Megawatt and a connection pressure of 16 barg or above;]
+
+F22[“interconnector”, in relation to natural gas, means a natural gas transmission line—
+
+(*a*) which crosses or spans a border between Member States for the purpose of connecting the national transmission systems of those States, or
+
+(*b*) between a Member State and a third country up to—
+
+(i) the territory of that Member State, or
+
+(ii) the territorial seas of that Member State;]
+
+F23[...]
+
+“land” includes seashore, land covered with water and foreshore other than foreshore which is the property of the State;
+
+F24[“LNG” means liquefied natural gas;]
+
+F25[“local authority” means a local authority for the purposes of the Local Government Act 2001 (as amended by the Local Government Reform Act 2014);]
+
+F26["majority-shareholding Minister" has the same meaning as it has in the Gas (Amendment) and Miscellaneous Provisions Act 2024;]
+
+“the Minister” means the Minister for Transport and Power;
+
+F27[“natural gas” means any gas derived from natural strata (whether or not it has been subjected to liquification or any other process or treatment) and in this Act, a reference to natural gas may also be construed as including, where the Commission considers it appropriate and where, in the opinion of the Commission, such gas may be technically and safely injected into, and transported through, the natural gas system, biogas, gas from biomass and other types of gas;]
+
+F28[“Natural Gas Market Directive” means Directive 2009/73/EC of the European Parliament and of the Council of 13 July 2009[^5] as amended by Directive (EU) 2019/692 of the European Parliament and of the Council of 17 April 2019[^6];]
+
+F29[“Natural Gas Market Regulations” means European Communities (Internal Market in Natural Gas and Electricity) Regulations 2015 (S.I. No. 16 of 2015);]
+
+“owner”, except in section 32 (7) and subject to Article 12 of the Second Schedule, in relation to land means,
+
+(*a*) a person other than a mortgagee not in possession, who, whether in his own right or as trustee or agent for any other person, is entitled to receive the rack rent of the land or, where the land is not let at a rack rent, would be so entitled if it were so let,
+
+(*b*) a lessee or occupier (other than a tenant for a month or a less period than a month);
+
+“petroleum lease” has the meaning assigned to it by section 13 of the Act of 1960;
+
+“pipeline” means a pipeline used or intended to be used for the F4[transportation] of gas and includes part of a pipeline, and, except in F30[section 8(3)(e)], includes any apparatus, equipment or other thing which is ancillary to such a pipeline;
+
+“prescribed” means prescribed by regulations made by the Minister under this Act;
+
+F14[“proposed pipeline” means—
+
+(*a*) where an application has been made under section 39A(1) or 40(1) in respect of a pipeline, that pipeline, or
+
+(*b*) where a request has been made under section 40A(1)(bb) in respect of a pipeline, that pipeline;]
+
+F15[“relevant specified bodies”—
+
+(*a*) in relation to a proposed pipeline other than an upstream pipeline, means—
+
+(i) all local authorities in whose functional area the proposed pipeline would be situated,
+
+(ii) the Commissioners of Public Works in Ireland,
+
+(iii) An Taisce,
+
+(iv) the Minister,
+
+(v) the Minister for Agriculture, Food and the Marine,
+
+(vi) the Minister for Housing, Local Government and Heritage,
+
+(vii) the Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media,
+
+(viii) the Minister for Transport,
+
+(ix) the Health and Safety Authority,
+
+(x) the Environmental Pillar,
+
+(xi) the Heritage Council,
+
+(xii) Teagasc,
+
+(xiii) Inland Fisheries Ireland,
+
+(xiv) Inland Waterways Ireland, and
+
+(xv) Bord Fáilte, and
+
+(*b*) in relation to a proposed pipeline being an upstream pipeline, means—
+
+(i) all local authorities contiguous to whose functional area the proposed upstream pipeline would be situated,
+
+(ii) An Taisce,
+
+(iii) the Minister for Agriculture, Food and the Marine,
+
+(iv) the Minister for Housing, Local Government and Heritage,
+
+(v) the Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media,
+
+(vi) the Minister for Transport,
+
+(vii) the Health and Safety Authority,
+
+(viii) the Sea-Fisheries Protection Agency,
+
+(ix) Bord Iascaigh Mhara,
+
+(x) the Marine Institute,
+
+(xi) the Environmental Pillar,
+
+(xii) the Irish Whale and Dolphin Group, and
+
+(xiii) the Heritage Council.]
+
+“right over land ” includes any wayleave or other easement or any *profit à prendre* or any right in, on or over any land;
+
+“seashore ” means every beach, bank and cliff contiguous to the foreshore and includes all sands and rocks contiguous to the foreshore.
+
+F7[“upstream pipeline” has the meaning assigned to it by section 2 of the Gas (Interim) (Regulation) Act, 2002;]
+
+F31[(2) (*a*) A reference in this Act to an Annex is a reference to an Annex to the EIA Directive.
+
+(*b*) A word or expression that is used in this Act that is also used in the EIA Directive has the same meaning in this Act as it has in the Directive.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1: Inserted (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 4(b).
+>
+> F2: Inserted (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 19(a)(ii), S.I. No. 208 of 2024.
+>
+> F3, F4: Substituted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 23(1)(a)(i), (iv), commenced on enactment.
+>
+> F5, F6, F7: Inserted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 23(1)(a)(ii), (v), commenced on enactment.
+>
+> F8, F9, F10, F11, F12, F13, F14, F15: Inserted (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 4(a).
+>
+> F16: Substituted (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 20(3) and sch. 2 item 3, S.I. No. 601 of 2021.
+>
+> F17, F18, F19: Substituted (24.12.2006) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 15, commenced on enactment.
+>
+> F20, F21: Inserted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 25(1)(b).
+>
+> F22: Inserted (13.03.2020) by *European Union (Internal Market in Natural Gas) Regulations 2020* (S.I. No. 83 of 2020), reg. 3(b).
+>
+> F23: Deleted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 25(1)(a).
+>
+> F24: Inserted (20.07.2004) by *European Communities (Internal Market in Natural Gas) (No. 2) Regulations 2004* (S.I. No. 452 of 2004), reg. 4(1)(a).
+>
+> F25: Substituted (1.06.2014) by *Local Government Reform Act 2014* (1/2014), s. 5(8) and sch. 2 part 6, S.I. No. 214 of 2014.
+>
+> F26: Substituted (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 19(a)(i), S.I. No. 208 of 2024.
+>
+> F27: Substituted (20.07.2004) by *European Communities (Internal Market in Natural Gas) (No. 2) Regulations 2004* (S.I. No. 452 of 2004), reg. 4(1)(b).
+>
+> F28: Substituted (13.03.2020) by *European Union (Internal Market in Natural Gas) Regulations 2020* (S.I. No. 83 of 2020), reg. 3(a).
+>
+> F29: Inserted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 25(1)(c).
+>
+> F30: Substituted (23.11.2015) by *Gas Regulation Act 2013* (39/2013), s. 32(a)(ii), S.I. No. 520 of 2015.
+>
+> F31: Inserted (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 4(c).
+>
+> **Modifications (not altering text):**
+>
+> C7: Functions transferred and references to "Ervia" construed (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 11, S.I. 208 of 2024.
+>
+> **Transfer day**
+>
+> **6.** (1) The Minister shall by order appoint a day to be the transfer day for the purposes of this Act.
+>
+> (2) On and from the transfer day Ervia (in this Act referred to as the “dissolved body”) shall stand dissolved.
+>
+> ...
+>
+> **Transfer of functions**
+>
+> **11.** (1) On the transfer day, all functions that, immediately before the transfer day, were vested in the dissolved body shall stand vested in Gas Networks Ireland.
+>
+> (2) References in any enactment (other than this Act) or other document to the dissolved body, to the extent that such references relate to functions, assets, rights or liabilities that are vested in, or transferred to, Gas Networks Ireland by this Act shall, on and from the transfer day, be construed as references to Gas Networks Ireland.
+>
+> (3) The administration and business in connection with the performance of the functions vested in Gas Networks Ireland by virtue of subsection (1) are on the transfer day transferred to Gas Networks Ireland.
+>
+> (4) References in any enactment (other than this Act) to the dissolved body, to the extent that such references relate to the administration and business transferred by subsection (3) shall, on and from the transfer day, be construed as references to Gas Networks Ireland.
+>
+> **Editorial Notes:**
+>
+> E4: Previous affecting provision: references to "Bord Gáis Éireann" construed as references to "Ervia" (19.06.2014) by *ESB (Electronic Communications Networks) Act 2014* (5/2014), s. 8, S.I. No. 286 of 2014; superseded (1.06.2024) as per C-note above.
+>
+> E5: Previous affecting provision: definition of "majority shareholding Minister" inserted (23.11.2015) by *Gas Regulation Act 2013* (39/2013), s. 32(a)(i), S.I. No. 520 of 2015; substituted (1.06.2024) as per F-note above.
+>
+> E6: Previous affecting provision: definition of "Natural Gas Market Directive" in subs. (1) inserted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 25(1)(c); substituted (13.03.2020) as per F-note above.
+>
+> E7: Previous affecting provision: definition of "Natural Gas Market Regulations" in subs. (1) inserted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 37(1)(b), in effect as per regs. 1(2) and 12; substituted (19.01.2015) as per F-note above. Note: notice in accordance with *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 12 appears not to have been published.
+>
+> E8: Previous affecting provision: definition of "ITO" inserted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 37(1)(a), in effect as per regs. 1(2) and 12; deleted (19.01.2015) as per F-note above. Note: notice in accordance with *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 12 appears not to have been published.
+>
+> E9: Previous affecting provision: definition of "local authority" substituted (24.12.2006) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 15, commenced on enactment; substituted (1.06.2014) as per F-note above.
+>
+> E10: Previous affecting provision: definition of "designated area" inserted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 23(1)(a)(iii), commenced on enactment; substituted (22.11.2021) as per F-note above.
+>
+> E11: Previous affecting provision: definition of "foreshore" substituted (21.12.1995) by *Energy (Miscellaneous Provisions) Act 1995* (35/1995), s. 3, commenced on enactment; substituted (24.12.2006) as per F-note above.
+
+### 3. Establishment day.
+
+**3.** — The Minister may by order appoint a day to be the establishment day for the purposes of this Act.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E12: Power pursuant to section exercised (13.09.1976) by *Gas Act 1976 (Establishment Day) Order 1976* (S.I. No. 209 of 1976).
+>
+> 2\. The 13th day of September, 1976, is hereby appointed to be the establishment day for the purposes of the Gas Act, 1976.
+
+### 4. Regulations.
+
+**4.** — (1) The Minister may make regulations for prescribing any matter referred to in this Act as prescribed.
+
+(2) Every regulation made under this Act by the Minister shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next twenty-one days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C8: Certain functions transferred and references to “Department of Public Enterprise” and “Minister for Public Enterprise” construed (27.07.2001) by *Petroleum and Offshore Exploration (Transfer of Departmental Administration and Ministerial Functions) Order 2001* (S.I. No. 389 of 2001), arts. 3, 4 and table, subject to transitional provisions in arts. 5-7.
+>
+> Note that the Department of the Marine and Natural Resources was most recently renamed as Communications, Climate Action and Environment (23.07.2016) *by Communications, Energy and Natural Resources (Alteration of Name of Department and Title of Minister) Order 2016* (S.I. No. 421 of 2016), in effect as per art. 1(2).
+>
+> 3\. The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 4 of this Order are transferred to the Department of the Marine and Natural Resources.
+>
+> 4\. (1) The functions vested in the Minister for Public Enterprise (being the title of that Minister by virtue of the Transport, Energy and Communications (Alteration of Name of Department and Title of Minister) Order, 1997 (S.I. No. 299 of 1997)) by virtue of the Energy (Transfer of Departmental Administration and Ministerial Functions) (No. 2) Order, 1993 (S.I. No. 12 of 1993), by or under the provisions of the Gas Act, 1976 (No. 30 of 1976), as amended, which are set out in column (1) of the Table to this article are hereby transferred to the Minister for the Marine and Natural Resources to the extent specified in column (2) of that Table opposite the mention of the section in the said column (1).
+>
+> (2) References to the Minister for Public Enterprise and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for the Marine and Natural Resources.
+>
+> <table><tr><td>Column 1</td><td>Column 2</td></tr><tr><td>Provisions</td><td>Extent of transfer</td></tr><tr><td>Sections 4, 6, 8, 27, 31, 32, 40A and Second Schedule</td><td>In so far as they relate to any upstream pipeline network</td></tr><tr><td>Section 40</td><td>In so far as it is not already transferred by the Petroleum and Offshore Exploration (Transfer of Departmental Administration and Ministerial Functions) Order, 2000 (S.I. No. 110 of 2000), and to the extent that it relates to any upstream pipeline network.</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E13: Power pursuant to section exercised (1.01.2003) by *Gas Act 1976 (Section 10A(1)(e) (Annual Rate of Consumption) Regulations 2002* (S.I. No. 545 of 2002), in effect as per reg. 1(2).
+>
+> E14: Previous affecting provision: power pursuant to section exercised (1.03.1990) by *Gas Act 1976 (Sections 4 and 40A) Regulations 1990* (S.I. No. 51 of 1990); revoked (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 3.
+
+### 5. Service of notices, etc.
+
+**5.** — (1) Where a notice is required by this Act to be served on a person, it shall be addressed to him and may be served on him in some one of the following ways:
+
+(*a*) where it is addressed to him by name, by delivering it to him,
+
+(*b*) by leaving it at the address at which he ordinarily resides or, in a case in which an address for service has been furnished, at that address,
+
+(*c*) by sending it by post in a prepaid registered letter addressed to him at the address at which he ordinarily resides or, in a case in which an address for service has been furnished, at that address,
+
+(*d*) where the address at which he ordinarily resides cannot be ascertained by reasonable inquiry and the notice or copy is so required to be served in respect of any land or right over land, by delivering the notice or copy to some person over sixteen years of age resident or employed on the land concerned or by affixing it in a conspicuous position on or near such land.
+
+(2) Where a notice is required by this Act to be served on an occupier and the name of the occupier cannot be ascertained by reasonable inquiry, it may be addressed to “ the occupier ” without naming him.
+
+(3) For the purposes of this section, a company within the meaning of the Companies Act, 1963, shall be deemed to be ordinarily resident at its registered office, and every other body corporate and every unincorporated body shall be deemed to be ordinarily resident at its principal office or place of business.
+
+### 6. Expenses.
+
+**6.** — The expenses F32[incurred by a Minister of the Government (other than the Minister for Finance)] in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F32: Substituted (23.11.2015) by *Gas Regulation Act 2013* (39/2013), s. 32(b), S.I. No. 520 of 2015.
+>
+> **Modifications (not altering text):**
+>
+> C9: Certain functions transferred and references to “Department of Public Enterprise” and “Minister for Public Enterprise” construed (27.07.2001) by *Petroleum and Offshore Exploration (Transfer of Departmental Administration and Ministerial Functions) Order 2001* (S.I. No. 389 of 2001), arts. 3, 4 and table, subject to transitional provisions in arts. 5-7.
+>
+> Note that the Department of the Marine and Natural Resources was most recently renamed as Communications, Climate Action and Environment (23.07.2016) *by Communications, Energy and Natural Resources (Alteration of Name of Department and Title of Minister) Order 2016* (S.I. No. 421 of 2016), in effect as per art. 1(2).
+>
+> 3\. The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 4 of this Order are transferred to the Department of the Marine and Natural Resources.
+>
+> 4\. (1) The functions vested in the Minister for Public Enterprise (being the title of that Minister by virtue of the Transport, Energy and Communications (Alteration of Name of Department and Title of Minister) Order, 1997 (S.I. No. 299 of 1997)) by virtue of the Energy (Transfer of Departmental Administration and Ministerial Functions) (No. 2) Order, 1993 (S.I. No. 12 of 1993), by or under the provisions of the Gas Act, 1976 (No. 30 of 1976), as amended, which are set out in column (1) of the Table to this article are hereby transferred to the Minister for the Marine and Natural Resources to the extent specified in column (2) of that Table opposite the mention of the section in the said column (1).
+>
+> (2) References to the Minister for Public Enterprise and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for the Marine and Natural Resources.
+>
+> <table><tr><td>Column 1</td><td>Column 2</td></tr><tr><td>Provisions</td><td>Extent of transfer</td></tr><tr><td>Sections 4, 6, 8, 27, 31, 32, 40A and Second Schedule</td><td>In so far as they relate to any upstream pipeline network</td></tr><tr><td>Section 40</td><td>In so far as it is not already transferred by the Petroleum and Offshore Exploration (Transfer of Departmental Administration and Ministerial Functions) Order, 2000 (S.I. No. 110 of 2000), and to the extent that it relates to any upstream pipeline network.</td></tr></table>
+
+## PART II — Bord Gáis Éireann — Irish Gas Board
+
+### 7. Bord Gáis Éireann Irish Gas Board.
+
+**7.** — (1) On the establishment day there shall be established a body to be known in the Irish language as Bord Gáis Éireann and in the English language as The Irish Gas Board (which body is in this Act referred to as “ the Board ”) to perform the functions assigned to it by this Act.
+
+(2) The provisions of the First Schedule to this Act shall have effect with respect to the Board.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C10: Functions transferred and references to "Ervia" construed (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 11, S.I. No. 208 of 2024.
+>
+> **Transfer day**
+>
+> **6.** (1) The Minister shall by order appoint a day to be the transfer day for the purposes of this Act.
+>
+> (2) On and from the transfer day Ervia (in this Act referred to as the “dissolved body”) shall stand dissolved.
+>
+> ...
+>
+> **Transfer of functions**
+>
+> **11.** (1) On the transfer day, all functions that, immediately before the transfer day, were vested in the dissolved body shall stand vested in Gas Networks Ireland.
+>
+> (2) References in any enactment (other than this Act) or other document to the dissolved body, to the extent that such references relate to functions, assets, rights or liabilities that are vested in, or transferred to, Gas Networks Ireland by this Act shall, on and from the transfer day, be construed as references to Gas Networks Ireland.
+>
+> (3) The administration and business in connection with the performance of the functions vested in Gas Networks Ireland by virtue of subsection (1) are on the transfer day transferred to Gas Networks Ireland.
+>
+> (4) References in any enactment (other than this Act) to the dissolved body, to the extent that such references relate to the administration and business transferred by subsection (3) shall, on and from the transfer day, be construed as references to Gas Networks Ireland.
+>
+> **Editorial Notes:**
+>
+> E15: Previous affecting provision: references to “Bord Gáis Éireann” and “Irish Gas Board” construed as references to “Ervia” (19.06.2014) by *ESB (Electronic Communications Networks) Act 2014* (5/2014), s. 8, S.I. No. 286 of 2014; superseded (1.06.2024) as per C-note above.
+
+### 7A. Definitions.
+
+F33[**7A.**— F34[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F33: Inserted (24.12.2006) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 16, commenced on enactment.
+>
+> F34: Repealed (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 3(1)(a), S.I. No. 208 of 2024.
+
+### 7B. Power to create and issue capital stock.
+
+F35[**7B.**—F36[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F35: Inserted (24.12.2006) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 16, commenced on enactment.
+>
+> F36: Repealed (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 3(1)(a), S.I. No. 208 of 2024.
+>
+> **Editorial Notes:**
+>
+> E16: Previous affecting provision: subs. (2) substituted (23.11.2015) by *Gas Regulation Act 2013* (39/2013), s. 32(c), S.I. No. 520 of 2015; repealed (1.06.2024) as per F-note above.
+>
+> E17: Power pursuant to subs. (2)(e) exercised (24.11.2015) by *Gas Act 1976 (Appointment of Majority-Shareholding Minister) Order 2015* (S.I. No. 535 of 2015).
+>
+> E18: Previous affecting provision: shares or stock transferred to the Minister for Public Expenditure and Reform or held on trust on behalf of the Minister and references to “Minister for Finance” construed as references to the “Minister for Public Expenditure and Reform” (4.07.2011) by *Ministers and Secretaries (Amendment) Act 2011* (10/2011), s. 16(4), commenced on enactment; subs. (2) substituted as per f-note above.
+
+### 7C. Exercise of powers by Ministers in respect of capital stock
+
+F37[**7C.**—F38[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F37: Substituted (23.11.2015) by *Gas Regulation Act 2013* (39/2013), s. 32(d), S.I. No. 520 of 2015.
+>
+> F38: Repealed (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 3(1)(a), S.I. No. 208 of 2024.
+>
+> **Editorial Notes:**
+>
+> E19: Previous affecting provision: functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9; section substituted (23.11.2015) as per F-note above.
+>
+> E20: Previous affecting previous: section inserted (24.12.2006) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 16, commenced on enactment; section substituted (23.11.2015) as per F-note above.
+
+### 7D. Conversion of capital stock into company shares.
+
+F39[**7D.**— F40[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F39: Inserted (24.12.2006) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 16, commenced on enactment.
+>
+> F40: Repealed (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 3(1)(a), S.I. No. 208 of 2024.
+
+### 7E. Arrangements relating to rights and obligations relating to capital stock.
+
+F41[**7E.**— F42[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F41: Inserted (24.12.2006) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 16, commenced on enactment.
+>
+> F42: Repealed (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 3(1)(a), S.I. No. 208 of 2024.
+>
+> **Editorial Notes:**
+>
+> E21: Previous affecting provision: subs. (1) substituted (23.11.2015) by *Gas Regulation Act 2013* (39/2013), s. 32(e), S.I. No. 520 of 2015; repealed (1.06.2024) as per F-note above.
+>
+> E22: Previous affecting provision: functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9; subsection substituted (23.11.2015) as per E-note above.
+
+### 7F. Power of Board to establish approved scheme.
+
+F43[**7F.**— F44[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F43: Inserted (24.12.2006) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 16, commenced on enactment.
+>
+> F44: Repealed (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 3(1)(a), S.I. No. 208 of 2024.
+
+### 7G. Payment of dividend into Exchequer.
+
+F45[**7G.**— F47[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F45: Inserted (24.12.2006) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 16, commenced on enactment.
+>
+> F46, F47: Repealed (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 3(1)(a), S.I. No. 208 of 2024.
+>
+> **Editorial Notes:**
+>
+> E23: Previous affecting provision: section substituted (23.11.2015) by *Gas Regulation Act 2013* (39/2013), s. 32(f), S.I. No. 520 of 2015; repealed (1.06.2024) as per F-note above.
+>
+> E24: Previous affecting provision: functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9; section substituted (23.11.2015) as per E-note above.
+
+### 8. Functions of Board.
+
+**8.** — F48[(1) (*a*) The Board shall own, operate, develop and maintain a system for the transmission and distribution of natural gas being a system that is both economical and efficient and appears to the Board to be requisite for the time being.
+
+(*b)* Nothing in paragraph (a) shall be construed as imposing on the Board, either directly or indirectly, any form of duty or liability enforceable by proceedings before any court to which it would not otherwise be subject.
+
+(2) The Board shall carry out its obligations under this Act in accordance with F49[the Natural Gas Market Directive] and having regard to the need to ensure the safety and security of the transmission, distribution and supply of natural gas.
+
+(3) Without prejudice to the generality of subsection (1) or to any provision of this Act apart from this section, within or outside the State, and subject to any requirements of law the Board may—
+
+(*a*) transmit and distribute natural gas (whether or not such gas has been prepared, processed or treated),
+
+(*b*) liquify or otherwise prepare, F50[store, transport,] process or treat natural gas,
+
+(*c*) fix, make and recover charges for any service or facility provided or thing undertaken pursuant to this section by the Board, or fix and accept subscriptions for any service or facility so provided,
+
+(*d*) attach such terms and conditions as the Board shall think fit to any service or facility provided by it,
+
+(*e*) provide, operate or maintain, F56[...] whether for use by the Board or any other person, such pipelines, terminals, pressure-reducing stations, F51[compressor stations,] off-take stations, vessels, vehicles, works, services, facilities or other things as are necessary or expedient in relation to, or ancillary to, the provision, development or maintenance of a gas transmission system and a distribution system,
+
+(*f*) provide any or all of the following services and facilities relating to the development, transmission or distribution of gas, namely, advice or assistance, research services or research or training facilities,
+
+F52[(*fa*) take such measures as are appropriate to enhance or protect security of supply of natural gas, or]
+
+(*g*) F53[...]
+
+(*h*) F54[...]
+
+(*i*) F55[...]
+
+(*j*) carry on any activity which appears to the Board to be requisite, advantageous or incidental to, or which appears to the Board to facilitate, the performance by the Board of any function under this Act.
+
+(4) F57[...]
+
+(5) F58[...]
+
+(6) Where the Board proposes to transfer to another person an interest in a pipeline or a part thereof that has been constructed by it pursuant to and in accordance with a consent given under this Act the Board shall obtain the prior consent of the majority-shareholding Minister, given with the approval of the Government, for such a transfer and the majority-shareholding Minister may attach such conditions as he or she deems appropriate to such a prior consent.
+
+(7) In subsection (6)—
+
+"interest" means any estate, right, title or other interest, legal or equitable and includes a licence;
+
+"transfer" includes grant, demise and assign or, as appropriate, a grant, demise and an assignment.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F48: Substituted (23.11.2015) by *Gas Regulation Act 2013* (39/2013), s. 33, S.I. No. 520 of 2015.
+>
+> F49: Substituted (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 19(b)(i), S.I. No. 208 of 2024.
+>
+> F50, F51, F52: Inserted (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 19(b)(ii)(I), (b)(ii)(II)(B), (b)(ii)(III), S.I. No. 208 of 2024.
+>
+> F53, F54, F55, F56: Deleted (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 19(b)(ii)(II)(A), (b)(ii)(IV), S.I. No. 208 of 2024.
+>
+> F57, F58: Repealed (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 3(1)(b), S.I. No. 208 of 2024.
+>
+> **Modifications (not altering text):**
+>
+> C11: Certain functions transferred and references to “Department of Public Enterprise” and “Minister for Public Enterprise” construed (27.07.2001) by *Petroleum and Offshore Exploration (Transfer of Departmental Administration and Ministerial Functions) Order 2001* (S.I. No. 389 of 2001), arts. 3, 4 and table, subject to transitional provisions in arts. 5-7.
+>
+> Note that the Department of the Marine and Natural Resources was most recently renamed as Communications, Climate Action and Environment (23.07.2016) *by Communications, Energy and Natural Resources (Alteration of Name of Department and Title of Minister) Order 2016* (S.I. No. 421 of 2016), in effect as per art. 1(2).
+>
+> 3\. The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 4 of this Order are transferred to the Department of the Marine and Natural Resources.
+>
+> 4\. (1) The functions vested in the Minister for Public Enterprise (being the title of that Minister by virtue of the Transport, Energy and Communications (Alteration of Name of Department and Title of Minister) Order, 1997 (S.I. No. 299 of 1997)) by virtue of the Energy (Transfer of Departmental Administration and Ministerial Functions) (No. 2) Order, 1993 (S.I. No. 12 of 1993), by or under the provisions of the Gas Act, 1976 (No. 30 of 1976), as amended, which are set out in column (1) of the Table to this article are hereby transferred to the Minister for the Marine and Natural Resources to the extent specified in column (2) of that Table opposite the mention of the section in the said column (1).
+>
+> (2) References to the Minister for Public Enterprise and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for the Marine and Natural Resources.
+>
+> <table><tr><td>Column 1</td><td>Column 2</td></tr><tr><td>Provisions</td><td>Extent of transfer</td></tr><tr><td>Sections 4, 6, 8, 27, 31, 32, 40A and Second Schedule</td><td>In so far as they relate to any upstream pipeline network</td></tr><tr><td>Section 40</td><td>In so far as it is not already transferred by the Petroleum and Offshore Exploration (Transfer of Departmental Administration and Ministerial Functions) Order, 2000 (S.I. No. 110 of 2000), and to the extent that it relates to any upstream pipeline network.</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E25: Previous affecting provision: functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9; section substituted as per F-note above.
+>
+> E26: Previous affecting provision: application of subs. (4) extended and references to the "Board" in subs. (6) construed as referring to the "ITO" (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 38(2)(a)(i) (iv), in effect as per regs. 1(2) and 12; revoked (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 29(1)(d). Note: notice in accordance with *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 12 appears not to have been published.
+>
+> E27: Previous affecting provision: subs. (3A) substituted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 37(2), in effect as per regs. 1(2) and 12; section substituted (23.11.2015) as per F-note above. Note: notice in accordance with *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 12 appears not to have been published.
+>
+> E28: Previous affecting provision: subs. (3)(a) amended and subss. (3A), (3B) inserted (4.07.2008) by *European Communities (Internal Market in Natural Gas) (BGÉ) Regulations 2005* (S.I. No. 760 of 2005), reg. 23(a), (b), in effect as per regs. 1(3) and 10; subs. (3A) substituted (1.12.2011) as per E-note above and section substituted (23.11.2015) as per F-note above. Note that S.I. No. 760 of 2005, reg. 23 was itself amended by the substitution of the amending subs. (3A) (10.07.2007) by *European Communities (Internal Market in Natural Gas) (BGÉ) (Amendment) Regulations 2007* (S.I. No. 377 of 2007), reg. 8, in effect as per reg. 1(2).
+>
+> E29: Previous affecting provision: section substituted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 11, commenced on enactment; substituted (23.11.2015) as per F-note above.
+>
+> E30: Previous affecting provision: subs. (7) applied in certain circumstances for transitional period (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 16(11), (14), (15), (16), (17), commenced on enactment; section substituted (23.11.2015) as per F-note above.
+>
+> E31: Previous affecting provision: subs. (8)(b) amended, (c) inserted (10.07.2000) by *Gas (Amendment) Act 2000* (26/2000), s. 23(a), (b), commenced on enactment; section substituted (23.11.2015) as per F-note above.
+>
+> E32: Previous affecting provision: subss. (8A)-(8H) inserted (7.04.1993) by *Gas (Amendment) Act 1993* (7/1993), s. 3, commenced on enactment; section substituted (23.11.2015) as per F-note above.
+>
+> E33: Previous affecting provision: subss. (3), (7) amended, subs. (7A) inserted and subs. (8) substituted (7.04.1993) by *Gas (Amendment) Act 1993* (7/1993), s. 2(a)-(c), commenced on enactment; section substituted (23.11.2015) as per F-note above.
+>
+> E34: Previous affecting provision: subs. (7) applied in certain circumstances (9.07.1987) by *Gas (Amendment) Act 1987* (9/1987), s. 2(6)(a), (b), commenced on enactment; s. 2 substituted (21.03.2014) by *Gas Regulation Act 2013* (39/2013), s. 43, S.I. No. 520 of 2013.
+>
+> E35: Previous affecting provision: subs. (7) substituted (9.07.1987) by *Gas (Amendment) Act 1987* (9/1987), s. 3, commenced on enactment; section substituted (23.11.2015) as per F-note above.
+
+### 8A. Extension of powers of Bord Gáis Éireann to effect certain commercial transactions.
+
+F59[**8A.** — (1) In this section "company" means—
+
+(*a*) a company within the meaning of the Companies Act, 1963, or
+
+(*b*) a body formed or established under the laws of a state other than the State and corresponding to a body referred to in paragraph (a) of this subsection.
+
+(2) The Board may promote and take part in the formation or establishment of a company.
+
+(3) The Board may acquire, hold and dispose of shares or other interests in a company and become a member of a company.
+
+(4) The Board may exercise total or partial control of the composition of the board of directors of, or other authority, by whatever name called, that controls or manages a company.
+
+(5) The Board may—
+
+(*a*) lend or advance money upon such terms and conditions as it may determine, and
+
+(*b*) (i) guarantee in such form and manner and on such terms and conditions as it thinks fit, the due repayment by any person of the principal of any moneys (including moneys in a currency other than the currency of the State) borrowed by the person or the payment of interest on such moneys or both the repayment of the principal and the payment of the interest and any such guarantee may include a guarantee of payment of incidental expenses arising in connection with such borrowings and may be a guarantee of payment of a promissory note made by any person or a bill of exchange drawn or accepted by any person,
+
+(ii) otherwise give guarantees or indemnities in respect of any obligation of, or contract entered into by, any person,
+
+where such lending or advancing of money, or other activity aforesaid appears to the Board to be requisite, advantageous or incidental to, or appears to the Board to facilitate, the performance by it of any function under this Act.
+
+F60[(6) The exercise by the Board of any power conferred on it by this section shall be subject to the prior written consent of the majority-shareholding Minister after consultation with any other Minister of the Government who, in the opinion of the majority-shareholding Minister having regard to the functions of that other Minister, ought to be consulted.]]
+
+F61[(7) Without prejudice to the exercise by the Board of any of its functions, a subsidiary of the Board formed or established under this section or under any enactment may exercise such and so many of the Board’s functions as are provided for in the memorandum and articles of association of the subsidiary.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F59: Inserted (3.07.1991) by *Energy (Miscellaneous Provisions) Act 1995* (35/1995), s. 8(1), in effect as per s. 8(2)(a).
+>
+> F60: Substituted (23.11.2015) by *Gas Regulation Act 2013* (39/2013), s. 32(g), S.I. No. 520 of 2015.
+>
+> F61: Inserted (23.11.2015) by *Gas Regulation Act 2013* (39/2013), s. 32(g), S.I. No. 520 of 2015.
+>
+> **Modifications (not altering text):**
+>
+> C12: Functions transferred and references to "Ervia" construed (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 11, S.I. No. 208 of 2024.
+>
+> **Transfer day**
+>
+> **6.** (1) The Minister shall by order appoint a day to be the transfer day for the purposes of this Act.
+>
+> (2) On and from the transfer day Ervia (in this Act referred to as the “dissolved body”) shall stand dissolved.
+>
+> ...
+>
+> **Transfer of functions**
+>
+> **11.** (1) On the transfer day, all functions that, immediately before the transfer day, were vested in the dissolved body shall stand vested in Gas Networks Ireland.
+>
+> (2) References in any enactment (other than this Act) or other document to the dissolved body, to the extent that such references relate to functions, assets, rights or liabilities that are vested in, or transferred to, Gas Networks Ireland by this Act shall, on and from the transfer day, be construed as references to Gas Networks Ireland.
+>
+> (3) The administration and business in connection with the performance of the functions vested in Gas Networks Ireland by virtue of subsection (1) are on the transfer day transferred to Gas Networks Ireland.
+>
+> (4) References in any enactment (other than this Act) to the dissolved body, to the extent that such references relate to the administration and business transferred by subsection (3) shall, on and from the transfer day, be construed as references to Gas Networks Ireland.
+>
+> C13: Functions conferred on the Minister for Finance transferred to the Minister for Public Expenditure and Reform (6.07.2011) by *Ministers and Secretaries (Amendment) Act 2011* (10/2011), ss. 9(2), 20(1) and Sch. 2 part 1, S.I. No. 401 of 2011.
+>
+> **Transfer of certain other functions to Minister.**
+>
+> **9.** — ...
+>
+> (2) The functions conferred on the Minister for Finance by or under any of the provisions specified in Part 1 of Schedule 2 are transferred to the Minister.
+>
+> ...
+>
+> Performance of certain functions transferred to Minister by section 9.
+>
+> **20.**— (1) The Minister shall not perform a function transferred by subsection (2) of section 9 without the consent of the Minister for Finance.
+>
+> ...
+>
+> SCHEDULE 2
+>
+> Functions Transferred To Minister
+>
+> ...
+>
+> PART 1
+>
+> Functions performable with consent of Minister for Finance
+>
+> STATUTES
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 30 of 1976</td><td>Gas Act 1976</td><td>Sections 8A, 23 and 24</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E36: Previous affecting provision: references to "Bord Gáis Éireann" construed as references to "Ervia" (19.06.2014) by *ESB (Electronic Communications Networks) Act 2014* (5/2014), s. 8, S.I. No. 286 of 2014; superseded (1.06.2024) as per C-note above.
+>
+> E37: *Companies Act 1963* (33/1063) was repealed and replaced (1.06.2015) by *Companies Act 2014* (38/2014), s. 4(1) and sch. 2 part 1, S.I. No. 169 of 2015.
+>
+> E38: Previous affecting provision: application of section restricted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 4(7); revoked (1.08.2015, network transfer date) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 29(2)(a), in effect as per reg. 2 and notice in Iris Oifigiúil no. 60 of 2015 published 28.07.2015.
+>
+> E39: Previous affecting provision: application of section restricted (13.12.2005) by *European Communities (Internal Market in Natural Gas) (BGÉ) Regulations 2005* (S.I. No. 760 of 2005), reg. 5(7), in effect as per reg. 1(2); revoked (1.08.2015, network transfer date) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 29(2)(a), in effect as per reg. 2 and notice in Iris Oifigiúil no. 60 of 2015 published 28.07.2015.
+>
+> E40: The section heading is taken from the amending section in absence of one included in the amendment.
+
+### 8B. Conferring of functions in relation to telecommunications infrastructure on Board
+
+F62[**8B.** — (1) Subject to subsection (2), the majority-shareholding Minister may, by order, confer on the Board such function of developing, maintaining and operating telecommunications infrastructure as the majority shareholding Minister thinks proper and specifies in the order, and any such order may provide for the performance of the function subject to conditions specified in the order and may contain such incidental and supplementary provisions as the majority shareholding Minister thinks necessary or expedient for giving full effect to the order.
+
+(2) An order made under subsection (1) shall be made subject to—
+
+(*a*) the consent of the Minister for Finance, where the majority shareholding Minister is not the Minister for Finance,
+
+(*b*) the consultation of the Minister,
+
+(*c*) the consultation of the Minister for Public Expenditure, National Development Plan Delivery and Reform, and
+
+(*d*) the consultation of any other Minister of the Government (other than the Minister for Finance where the consent of that Minister is required in accordance with paragraph (a)), who in the opinion of the majority-shareholding Minister having regard to the functions of that other Minister ought to be consulted.
+
+(3) When an order under this section is proposed to be made by the majority-shareholding Minister, a draft of the order shall be laid before each House of the Oireachtas and the order shall not be made until a resolution approving the draft has been passed by each such House.
+
+(4) In this section, "telecommunications infrastructure" means infrastructure and equipment which permit the conveyance of signals for telecommunications and electronic communications.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F62: Inserted (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 19(c), S.I. No. 208 of 2024.
+
+### 9. Conferring of additional functions on Board.
+
+F63[**9.** — (1) The majority-shareholding Minister may, with the approval of the Government, by order confer on the Board such functions, being related to the ownership, operation, maintenance and development of a gas transmission and distribution system, as the majority-shareholding Minister thinks proper and specifies in the order, and any such order may provide for the performance of the function subject to conditions specified in the order and may contain such incidental and supplementary provisions as the majority-shareholding Minister thinks necessary or expedient for giving full effect to the order.
+
+(2) The majority-shareholding Minister may, with the approval of the Government, revoke or amend an order under this section (including an order under this subsection).
+
+(3) When an order under this section is proposed to be made by the majority-shareholding Minister, a draft of the order shall be laid before each House of the Oireachtas and the order shall not be made until a resolution approving of the draft has been passed by each such House.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F63: Substituted (23.11.2015) by *Gas Regulation Act 2013* (39/2013), s. 34, S.I. No. 520 of 2015.
+>
+> **Editorial Notes:**
+>
+> E41: Previous affecting provision: subss. (1), (2) amended (6.07.2011) by *Ministers and Secretaries (Amendment) Act 2011* (10/2011), s. 57(a), (b), S.I. No. 401 of 2011; section substituted (23.11.2015) as per F-note above.
+>
+> E42: Power pursuant to section exercised (3.07.1990) by *Gas Act 1976 (Section 9) (Establishment of Subsidiaries) Order 1990* (S.I. No. 178 of 1991); revoked (21.12.1995) by *Energy (Miscellaneous Provisions) Act 1995* (25/1995), s. 28(2), commenced on enactment.
+
+### 10. Board to cover outgoings and earn reasonable return on capital.
+
+**10.** — Subject to section 11 of this Act, it shall be the duty of the Board in performing its functions, as soon as may be after the establishment day to secure that taking one year with another.
+
+(*a*) its operating expenditure, including all charges properly chargeable to revenue, shall not be greater than its revenue, and
+
+(*b*) it earns a reasonable return on any capital it employs.
+
+### 10A. Transmission of natural gas by pipeline operators on behalf of other persons - role of Commission.
+
+F64[F65[**10A.** — (1) In this section—
+
+F66["Directive" means the Natural Gas Market Directive;]
+
+"facility" means a transmission or distribution pipeline, an LNG facility or a natural gas storage facility;
+
+"LNG" means liquefied natural gas;
+
+"LNG facility" has the same meaning as in the Directive;
+
+"operator" means the holder of a natural gas licence in respect of the operation of a downstream distribution or transmission pipeline, an LNG facility, or a natural gas storage facility;
+
+"pipeline operator" means the holder of a natural gas licence in respect of the operation of a distribution or transmission pipeline;
+
+"storage facility" has the same meaning as in the Directive;
+
+"third party access" means—
+
+(*a*) in the case of a downstream natural gas pipeline transportation of natural gas through a pipeline operator’s pipeline,
+
+(*b*) in the case of an LNG facility, access to and use of an LNG facility under the control of the operator, and
+
+(*c*) in the case of a storage facility, access to and use of a storage facility, or to related ancillary services under the control of the operator in circumstances where the Commission considers that it is technically or economically necessary for providing efficient access to the natural gas system for the supply of customers, (but excluding temporary storage and ancillary services that are related to LNG facilities and are necessary for the re-gasification process and subsequent delivery to the transmission system)
+
+and the Commission shall determine that which constitutes "circumstances where it is technically or economically necessary for providing efficient access to the natural gas system for the supply of customers" referred to in subparagraph (c).
+
+F70[(2) (*a*) Subject to subsection (7) and subject to such exemptions as may be granted in accordance with F71[Article 36 of the Directive], where an application is received for third party access from or on behalf of an eligible customer in respect of a downstream facility operated by a person licensed under section 16 of the Gas (Interim) (Regulation) Act 2002, the facility operator shall offer to enter into an agreement for such access, subject to terms and conditions specified in directions issued by the Commission under subsection (5).
+
+(*b*) In paragraph (a), "eligible customer" means—
+
+(i) the holder of a natural gas licence under section 16 of the Gas (Interim) (Regulation) Act 2002 , for the purpose of carrying out any activity for which the holder is licensed,
+
+(ii) the holder of a petroleum lease under section 13 of the Petroleum and Other Minerals Development Act 1960 , for the purpose of carrying out any activity connected with the lease,
+
+(iii) a person in respect of whom an order has been made under section 2(1) of the Gas (Amendment) Act 1987 , for the purpose of carrying out the functions conferred on the person by the order,
+
+(iv) a person who operates a gas-fired generating station, irrespective of its annual consumption level, for the purpose of providing energy for the generation of electricity at that station,
+
+(v) a customer purchasing natural gas which is not exclusively for his or her household use, and
+
+(vi) subject to the provisions of section 17 (2) of the Energy (Miscellaneous Provisions) Act 2006, with effect from the coming into operation of this paragraph, any person.]
+
+(3) Notwithstanding the generality of subsection (2),—
+
+(*a*) an offer made under that subsection may include an offer to grant access at a rate or for a volume or at a rate and for a volume different from that requested—
+
+(i) where the offer is as well as an offer of access at the requested rate and volume, or
+
+(ii) where the request may be refused in accordance with subsection (7);
+
+(*b*) the Commission shall have the power to examine the reasons for making an offer under *paragraph (a)* and to give appropriate directions with regard to the volume and rate to be offered, without prejudice to any direction given under subsection (4);
+
+(*c*) where connection to the facility of the operator is required by the applicant or enhancement of that facility would be necessary to grant the application, an offer made under that subsection—
+
+(i) shall include the terms for such a connection or enhancement including any charges for connection or enhancement, and details of all technical aspects relating to the connection or enhancement that might be reasonably required by that person, and
+
+(ii) at the request of the applicant, may be on the basis that the applicant constructs, or that either or both the applicant and the operator make arrangements to have constructed, the connection to the facility, and the ownership of any such connection constructed or arranged to be constructed by the applicant shall, subject to subsection (10), be a matter for agreement between the parties.
+
+(4) The Commission may by direction provide for—
+
+(*a*) the matters to be specified in an agreement for third party access, including terms and conditions relating to price;
+
+(*b*) the matters to be specified in an agreement for connection to or enhancement of the facility of the operator;
+
+(*c*) the terms and conditions, including terms and conditions relating to price of the connection or enhancement, upon which an offer for connection to or enhancement of the facility of the operator is made;
+
+(*d*) the methods for determining the proportion of the costs to be borne by the person making the application for connection to or enhancement of the facility of the operator and to be borne by the operator being costs which are directly or indirectly incurred in carrying out works under an agreement or making an enhancement or connection or modifying an existing connection;
+
+(*e*) the terms and conditions upon which applications for an agreement are to be made and the period of time within which an offer or refusal pursuant to an application is to be made by the F72[operator;]
+
+F73[(*f*) publication by a storage operator of information on the specific storage facility, or the parts of the storage facility, or the ancillary services to which access is offered;]
+
+F76[(*g*) publication by an operator of information on the access procedure proposed; and
+
+(*h*) any other matters which the Commission considers necessary or expedient for the purpose of making an offer for third party access, or connection to a facility.]
+
+F77[(4A) The Commission shall—
+
+(*a*) define the non-discriminatory criteria according to which access to a storage facility may be determined,
+
+(*b*) determine, based on non-discriminatory criteria, what constitutes "circumstances where the Commission considers that it is technically or economically necessary for providing efficient access to the natural gas system for the supply of customers" referred to in paragraph (c) of the definition of third party access in subsection (1) of section 10A, and
+
+(*c*) ensure that the non-discriminatory criteria at paragraphs (a) and (b) are published.]
+
+(5) An operator shall comply with any direction made by the Commission under subsection (3) or (4) within such time period as may be specified by the Commission in the direction.
+
+(6) An operator shall not make an offer under subsection (2) of this section other than to a person who is an eligible customer within the meaning of subsection (2).
+
+(7) F74[Subject to subsection (7A), an operator may refuse] to enter into an agreement under subsection (2)—
+
+(*a*) on the basis of a lack of capacity in its facility save where it is economical for the operator to make the necessary enhancements to the capacity of the facility in accordance with such conditions as may be specified by the Commission in a direction made under subsection (4);
+
+(*b*) on the basis of a lack of connection to that facility save where the person making the request is willing to pay for such a connection in accordance with such conditions as may be specified by the Commission in a direction made under subsection (4);
+
+(*c*) where, to enter into an agreement under this section would be likely to involve the operator in a contravention or a breach of—
+
+(i) this Act, the Electricity Regulation Act 1999, the Gas (Amendment Act 2000 , or the Gas (Interim) (Regulation) Act 2002;
+
+(ii) regulations made under any of the aforesaid Acts;
+
+(iii) the conditions of any licence granted or consent given to the pipeline operator under this Act or the Gas (Interim)(Regulation) Act 2002;
+
+(iv) the code of operations (within the meaning of section 13 of the Gas (Interim)(Regulation) Act 2002) of the operator; or
+
+(v) a public service obligation imposed on the operator by an order made under section 21 (1) of the Gas (Interim) (Regulation) Act 2002, or
+
+(*d*) the person making the application does not undertake to be bound by the terms of the code of operations of the operator referred to in paragraph (c)(iv) in so far as those terms are applicable to that person.
+
+F78[(7A) The transmission system operator shall not be entitled to refuse the connection of a new storage facility, LNG facility or industrial customer on the grounds of possible future limitations to available network capacities or additional costs linked with necessary capacity increase. The said operator shall ensure sufficient entry and exit capacity for the new connection within a reasonable timeframe.]
+
+(8) Where an operator refuses to offer to enter into an agreement under this section the operator shall serve notice on the applicant of the reasons for such a refusal.
+
+(9) For the purposes of F79[Article 41 of the Directive] the Commission shall be the competent authority in the State to settle expeditiously disputes concerning refusal to offer to enter into an agreement under this section within the scope of the Directive.
+
+(10) Any dispute between an operator and any person who is, or claims to be, a person to whom the operator is obliged to make an offer for third party access or, where appropriate, connection to a facility of the operator (and whether as to the making of an offer, the terms offered, the proposed charges or otherwise) where the operator makes an offer or refuses to make an offer, may, upon the application of that person be determined by the Commission and the operator shall comply with and be bound by any such determination.
+
+(11) Where an application is made under subsection (10) to the Commission in relation to a dispute concerning a downstream pipeline, part of which is situated in the territory of another state, on the seabed under the territorial seas of another state or on the continental shelf belonging to another state, the Commission shall consult the relevant authorities in that other state with respect to the application.
+
+(12) In the event of a cross border dispute, the deciding regulatory authority shall be the regulatory authority which has jurisdiction in respect of the system operator which refuses use of, or access to, the system.
+
+(13) The parties to a dispute referred to in *subsection (9)* shall provide all documents records, accounts, estimates and other information, whether oral or written, requested from time to time, by the Commission in the form and at the times specified by the Commission, for the purpose of making a determination under subsection (10).
+
+(14) In order to ensure compliance with a determination made under this section the Commission may apply in a summary manner on notice to the High Court for an order requiring an operator to comply with the determination.
+
+(15) Where providing for third party access or where offering terms for the carrying out of works for the purpose of connection to a facility of an operator, the operator shall not discriminate unfairly as between any persons or classes of persons.
+
+(16) An operator shall not, in the context of sales or purchases of natural gas by that operator or related undertakings, abuse commercially sensitive information obtained from third parties in the context of providing or negotiating third party access to a facility under the control of the operator.
+
+(17) (*a*) Subject to paragraph (b) and subsection (19), an operator shall, within such time as the Commission may direct, prepare a statement for the approval of the Commission setting out the basis upon which charges are imposed—
+
+(i) for third party access to a facility of an operator, and
+
+(ii) for connection to a facility operated by that operator.
+
+(*b*) The Commission may—
+
+(i) give directions to an operator from time to time in respect of the basis for charges for third party access to, or connection to, a facility under the control of the operator, and
+
+(ii) issue a direction specifying those classes of operators to whom paragraph (a) does not apply.
+
+(*c*) Notwithstanding the generality of paragraph (b), directions given by the Commission under this subsection may provide for—
+
+(i) the methods of charging to be included in the statement to be prepared by an operator,
+
+(ii) the form and the extent of the information to be provided by an operator to applicants,
+
+(iii) the form of charges and information about those charges to be included in the statement to be prepared by an operator,
+
+(iv) the procedure to be adopted in the submission by an operator of a statement of charges and the approval by the Commission of such statement, and
+
+(v) the nature of information to be provided to applicants seeking third party access to, or connection to a facility under the control of the operator and its presentation and transparency.
+
+(*d*) An operator shall comply with directions given to it by the Commission under this subsection.
+
+(*e*) A charge for third party access to, or connection to, a facility under the control of the operator shall be calculated in accordance with directions given by the Commission under this section so as to enable the operator to recover—
+
+(i) the appropriate proportion of the costs directly or indirectly incurred in carrying out any necessary works, and
+
+(ii) a reasonable rate of return on the capital represented by such costs.
+
+(*f*) The Commission, solely, shall determine that which constitutes an "appropriate proportion" referred to in paragraph (e)(i) and a “reasonable rate of return” referred to in paragraph (e)(ii).
+
+(18) (*a*) An operator shall send each statement prepared in accordance with subsection (17) (in this section referred to as the "statement") to the Commission for its approval.
+
+(*b*) The Commission shall consult with an operator and have regard to any submission made by the operator to the Commission prior to making a decision as to whether to approve of or not, as the case may be, a statement submitted by the operator to the Commission for approval.
+
+(*c*) A statement and, in particular, charges referred to such statement, shall not take effect until such time as it is approved of by the Commission, subject to such modifications, if any, as the Commission considers appropriate, and published, including publication in electronic form.
+
+(*d*) Any charges imposed by an operator on or before the coming into operation of this section shall, subject to the approval of the Commission continue in force until a statement has been approved of by the Commission under this Section and thereafter all charges shall be in accordance with a statement approved of by the Commission.
+
+F75[(19)(*a*) Notwithstanding the generality of subsections (3) and (17), the Commission may, on a case by case basis, following an application in writing by an operator of an interconnector F80[...], an LNG or a storage facility, constructed after the making of F67[the European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011 (S.I No. 630 of 2011)], grant an exemption on such terms and conditions as the Commission considers appropriate to an operator from the provisions of those subsections in relation to the terms, conditions and charges for access to the facilities under the control of that operator.
+
+(*b*) An operator that proposes to expand or modify existing infrastructure to provide for a significant increase of capacity may also apply for an exemption under paragraph (a) of this subsection.
+
+(*c*) Any request under paragraph (a) or (b) shall be transmitted to the European Commission, in writing.
+
+(*d*) When granting an exemption under paragraph (a), the Commission shall ensure that—
+
+(i) the investment enhances competition in gas supply and enhances security of supply,
+
+(ii) the level of risk attached to the investment is such that the investment would not take place unless an exemption was granted,
+
+(iii) the infrastructure referred to at paragraph (a) is owned by a natural or legal person which is separate at least in terms of its legal form from the system operators in whose systems that infrastructure will be built,
+
+(iv) charges are levied on users of the infrastructure referred to at paragraph (a),
+
+F68[(v) the exemption is not detrimental to —
+
+(I) competition in the relevant markets which are likely to be affected by the investment,
+
+(II) the effective functioning of the internal market in natural gas,
+
+(III) the efficient functioning of the regulated systems concerned, or
+
+(IV) the security of the supply of natural gas in the European Union, and]
+
+(vi) it acts in accordance with the rules and mechanisms for the management and allocation of capacity at (*e*).
+
+(*e*) Before granting any exemption under paragraph (a), the Commission shall decide rules and mechanisms for management and allocation of capacity, in particular—
+
+(i) that all potential users of the infrastructure shall be invited to express their interest in contracting capacity in the infrastructure,
+
+(ii) that no capacity allocation shall occur prior to receipt by the Commission of expressions of interest being sought, and
+
+(iii) that any unused capacity shall be offered on the market with users of the infrastructure being entitled to trade their contracted capacities.
+
+(*f*) F69[Subject to subsection (19A), in making] a decision in regard to an exemption at paragraph (a) the Commission shall follow the procedures laid down in Article 36(8)(a) to (e) of the Directive.
+
+(*g*) On completion of the review procedure under Article 36 of the Directive referred to in paragraph (f), the Commission shall publish its decisions in respect of any application made to it pursuant to paragraph (a).
+
+(*h*) Any decision by the Commission in regard to an application under paragraph (a) shall be subject to review by the European Commission in accordance with the review procedure laid down at Article 36(9) of the Directive.
+
+(*i*) Where an application under paragraph (a) is from an operator located in the territory of more than one Member State, F81[or refers to a natural gas transmission line with a third country,] the Commission shall comply with the procedures at Article 36(4) of the Directive.
+
+(*j*) An operator that makes an application under paragraph (i) is also bound by the procedures at Article 36(4) of the Directive.
+
+(*k*) The Commission, shall by direction, provide for the procedures and conditions under which access to the storage facility under the control of the operator shall be negotiated.
+
+(*l*) The holder of an exemption under paragraph (a) shall negotiate the terms, conditions and charges for access to the storage facilities under the control of that operator in good faith and in accordance with the procedure and conditions referred to in paragraph (k).
+
+(*m*) The Commission shall direct the holder of an exemption under paragraph (a) to publish, on a publically available website, the main commercial conditions for the use of the facilities under his or her control within 6 months of the grant of that exemption and on an annual basis thereafter.
+
+(*n*) The Commission shall determine, in its sole determination, that which constitutes the "main commercial conditions" referred to in paragraph (m).]
+
+F82[(19A) (*a*) Before the Commission makes a decision in regard to an exemption under subsection (19)(a), it shall consult—
+
+(i) with the national regulatory authorities of the other Member States which are likely to be affected by the new infrastructure, and
+
+(ii) subject to paragraph (b), where the infrastructure concerned is connected with the European Union network under the jurisdiction of another Member State and originates from, or ends in, one or more than one third country, with the relevant authorities of each such third country.
+
+(*b*) Where paragraph (a)(ii) has been complied with but none of the relevant authorities referred to in that paragraph makes a response to the consultation sought within a reasonable timeframe or, as appropriate, within a set deadline not exceeding 3 months, the Commission may make the decision referred to in paragraph (a).]
+
+(20) (*a*) The Commission shall, from time to time, review the grant of an exemption under subsection (19)(a).
+
+(*b*) Following a review under paragraph (a), the Commission may, where it considers it necessary for the promotion of competition in the natural gas market—
+
+(i) revoke the exemption, or
+
+(ii) amend the terms and conditions imposed under subsection (19)(a) as the Commission considers appropriate.
+
+(*c*) The Commission shall inform the holder of the exemption of the results of a review under this subsection as soon as may be after the completion of the review
+
+F83[*Take-or-Pay Gas Commitments*
+
+(21)(*a*) The Commission may, on a case by case basis, grant a temporary derogation from Article 32 of the Natural Gas Market Directive, where the holder of a licence considers that allowing an application for third party access would cause serious economic and financial difficulties because of take-or-pay commitments of the licence holder under one or more gas purchase contracts.
+
+(*b*) Applications for a derogation, referred to in paragraph (a), may be made to the Commission by the holder of a licence either before or after the holder of the licence has refused third party access to the gas network system, but must be made promptly and without delay where the licence holder has refused access.
+
+(*c*) Applications, referred to in paragraph (b), shall be accompanied by all relevant information on the nature and extent of the difficulties and on the efforts undertaken by the licence holder to resolve the difficulties.
+
+(*d*) When making a decision to grant or refuse to grant a derogation under this subsection, the Commission shall take into account in particular the following criteria:
+
+(i) the objective of achieving a competitive gas market;
+
+(ii) the need to fulfill public-service obligations within the meaning of Article 3 of the Natural Gas Market Directive and to ensure security of supply;
+
+(iii) the position of the natural gas undertaking concerned in the gas market and the actual level of competition in that market;
+
+(iv) the seriousness of the economic and financial difficulties encountered by natural gas undertakings and transmission undertakings or eligible customers;
+
+(v) the dates of signature and terms of the contract or contracts in question, including the extent to which they allow for market changes;
+
+(vi) the efforts made to find a solution to the difficulties;
+
+(vii) the extent to which, when accepting the take-or-pay commitments in question, the licensee could reasonably have foreseen, having regard to the provisions of the Natural Gas Market Directive, that serious difficulties were likely to arise;
+
+(viii) the level of connection of the gas network system with other network systems and the degree of interoperability of those systems;
+
+(ix) the effects the grant of the derogation would have on the functioning of the internal market in natural gas.
+
+(*e*) The Commission may, following assessment of an application under this subsection, grant a temporary derogation if it considers that alternative solutions are not reasonably available.
+
+(*f*) The Commission shall notify the European Commission promptly of any decision to grant a temporary derogation and shall submit to the European Commission all relevant information with respect to the proposed derogation.
+
+(*g*) Information, referred to in paragraph (f), may be submitted to the European Commission in an aggregated form.
+
+(*h*) Where a request is made by the European Commission to the Commission to withdraw or amend its decision to grant a temporary derogation, the Commission shall comply with such a request within 4 weeks of receiving such a request.
+
+(*i*) Licensees that have not been granted a temporary derogation under paragraph (e) shall not refuse access to the system because of take-or-pay commitments accepted in a gas purchase contract.
+
+(*j*) Serious difficulties shall in any case be deemed not to exist when the sales of natural gas do not fall below the level of minimum offtake guarantees contained in gas-purchase take-or-pay contracts or in so far as the relevant gas-purchase take-or-pay contract can be adapted or the natural gas undertaking is able to find alternative outlets.]]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F64: Inserted (21.12.1995) by *Energy (Miscellaneous Provisions) Act 1995* (35/1995), s. 2, commenced on enactment.
+>
+> F65: Substituted (30.06.2005) by *European Communities (Internal Market in Natural Gas) Regulations 2005* (S.I. No. 320 of 2005), reg. 2.
+>
+> F66, F67, F68, F69: Substituted (13.03.2020) by *European Union (Internal Market in Natural Gas) Regulations 2020* (S.I. No. 83 of 2020), reg. 4(b)(i)(II), (ii), (iii).
+>
+> F70: Substituted (24.12.2006) and (1.07.2007) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 17(1), commenced on enactment and as per s. 17(2).
+>
+> F71, F72, F73, F74, F75: Substituted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 39(1)(b)-(d), (f), (h).
+>
+> F76, F77, F78: Inserted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 39(1)(d), (e), (g).
+>
+> F79: Substituted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 25(2)(a).
+>
+> F80: Deleted (13.03.2020) by *European Union (Internal Market in Natural Gas) Regulations 2020* (S.I. No. 83 of 2020), reg. 4(b)(i)(I).
+>
+> F81, F82: Inserted (13.03.2020) by *European Union (Internal Market in Natural Gas) Regulations 2020* (S.I. No. 83 of 2020), reg. 4(b)(iv), (c).
+>
+> F83: Inserted (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 25(2)(b).
+>
+> **Editorial Notes:**
+>
+> E43: The section heading is taken from the original inserting section in absence of one included in the amendment.
+>
+> E44: Previous affecting provision: definition of "Directive" substituted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 39(1)(a); substituted (13.03.2020) as per F-note above.
+>
+> E45: Previous affecting provision: subss. (1), (2) and (13) substituted (1.07.2004) by *European Communities (Internal Market in Natural Gas) Regulations 2004* (S.I. No. 426 of 2004), reg. 2(a)-(c); section substituted (30.06.2005) as per F-note above.
+>
+> E46: Previous affecting provision: power pursuant to subs. (1)(e) exercised (1.01.2003) by *Gas Act 1976 (Section 10A(1)(e) (Annual Rate of Consumption) Regulations 2002* (S.I. No. 545 of 2002), in effect as per reg. 1(2); section substituted (30.06.2005) as per F-note above.
+>
+> E47: Previous affecting provision: section substituted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 14, commenced on enactment; section substituted (30.06.2005) as per F-note above.
+>
+> E48: Previous affecting provision: provision for licences for the supply of natural gas to person of a type mentioned in subs. (1) provided (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 16(1)(a), commenced on enactment; affecting provision substituted (20.07.2004) by *European Communities (Internal Market in Natural Gas) (No. 2) Regulations 2004* (S.I. No. 452 of 2004), reg. 10(a).
+>
+> E49: Previous affecting provision: requirement for integrated natural gas undertakings to keep separate accounts for their supply business in regard to person of the type mentioned under section prescribed (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 17(2)(a)(ii), commenced on enactment; affecting provision substituted (20.07.2004) by *European Communities (Internal Market in Natural Gas) (No. 2) Regulations 2004* (S.I. No. 452 of 2004), reg. 11.
+
+### 10B. Transmission of natural gas by pipeline operators on behalf of other persons - role of Minister for the Marine and Natural Resources.
+
+F84[**10B.**—F85[(1) (*a*) Subject to *subsection (6)* and subject to such exemptions as may be granted in accordance with F86[Article 36 of the Directive], where an application is received for third party access in respect of an upstream pipeline from or on behalf of an eligible customer, the upstream pipeline operator shall offer to enter into an agreement for such access, subject to terms and conditions specified in regulations made by the Minister under subsection (3).
+
+(*b*) In paragraph (a), "eligible customer" means—
+
+(i) the holder of a natural gas licence under section 16 of the Gas (Interim) (Regulation) Act 2002 , for the purpose of carrying out any activity for which the holder is licensed,
+
+(ii) the holder of a petroleum lease under section 13 of the Petroleum and Other Minerals Development Act 1960, for the purpose of carrying out any activity connected with the lease,
+
+(iii) a person in respect of whom an order has been made under section 2(1) of the Gas (Amendment) Act 1987, for the purpose of carrying out the functions conferred on the person by the order,
+
+(iv) a person who operates a gas-fired generating station, irrespective of its annual consumption level, for the purpose of providing energy for the generation of electricity at that station,
+
+(v) a customer purchasing natural gas which is not exclusively for his or her household use, and
+
+(vi) subject to the provisions of section 18 (2) of the Energy (Miscellaneous Provisions) Act 2006, with effect from the coming into operation of this subparagraph, any person.]
+
+F89[(2) Notwithstanding the generality of subsection (1)—
+
+(*a*) an offer made under that subsection may include an offer to grant access at a rate or for a volume or at a rate and for a volume different from that requested—
+
+(i) where the offer is as well as an offer of access at the requested rate and volume, or
+
+(ii) where the request may be refused in accordance with subsection (6),
+
+(*b*) the Minister shall have the power to examine the reasons for making an offer under paragraph (a) and to give appropriate directions with regard to the volume and rate to be offered, without prejudice to any regulations made under subsection (3), and,
+
+(*c*) where connection to or enhancement of the upstream pipeline of the operator is required by the applicant, an offer made under that subsection—
+
+(i) shall include the terms for such a connection or enhancement, including any charges for connection or enhancement, and details of all technical aspects relating to the connection or enhancement that might be reasonably required by that person, and
+
+(ii) on request of the applicant, may be on the basis that the applicant constructs, or that either or both the applicant and the upstream pipeline operator make arrangements to have constructed, the connection to the pipeline, and the ownership of any such connection constructed or arranged to be constructed by the applicant shall, subject to subsection (8), be a matter for agreement between the parties.]
+
+F90[(3) The Minister may, following consultation with the Commission, by regulations provide for—
+
+(*a*) the matters to be specified in an agreement for transportation of the natural gas through the pipeline of the upstream pipeline operator including terms and conditions relating to price,
+
+(*b*) the matters to be specified in an agreement for connection to or enhancement of the pipeline of the pipeline operator,
+
+(*c*) the terms and conditions, including terms and conditions relating to price of the connection or enhancement, upon which an offer for connection to or enhancement of the pipeline of the pipeline operator is made,
+
+(*d*) the methods for determining the proportion of the costs to be borne by the person making the application for connection to or enhancement of the pipeline of the pipeline operator and to be borne by the pipeline operator being costs which are directly or indirectly incurred in carrying out works under an agreement or making a connection or modifying an existing connection,
+
+(*e*) the terms and conditions upon which applications for an agreement are to be made and the period of time within which an offer or refusal pursuant to an application is to be made by the upstream pipeline operator, and
+
+(*f*) any other matters which the Minister for the Marine and Natural Resources considers necessary or expedient for the purpose of making an offer for the transportation of natural gas through a pipeline or connection to a pipeline.]
+
+(4) An upstream pipeline operator shall comply with any regulations made by the Minister for the Marine and Natural Resources under subsection (3) of this section within such time period as may be specified by the Minister for the Marine and Natural Resources in the regulations.
+
+(5) An upstream pipeline operator shall not make an offer under subsection (1) of this section other than to a person of the type mentioned in paragraph (a), (b), (c), (d) or (e) of that subsection.
+
+(6) An upstream pipeline operator may refuse a request made under subsection (1) of this section—
+
+F91[(*a*) on the basis of a lack of capacity in its pipeline, save where it is economical for the operator to make the necessary enhancements to the capacity of the pipeline, in accordance with such conditions as may be specified by the Minister in regulations made under *subsection (3)* of this section,]
+
+(*b*) on the basis of a lack of connection to that pipeline, save where the person making the request is willing to pay for such a connection in accordance with such conditions as may be specified by the Minister for the Marine and Natural Resources in regulations made under subsection (3) of this section,
+
+(*c*) where, to enter into an agreement under this section would be likely to involve the upstream pipeline operator in a contravention or a breach of—
+
+(i) the Gas Acts, 1976 to 2002, the Electricity Regulation Act, 1999 , the Gas (Amendment) Act, 2000, or the Gas (Interim) (Regulation) Act, 2002,
+
+(ii) regulations made under any of the aforesaid Acts,
+
+(iii) the conditions of any licence granted or consent given to the upstream pipeline operator under this Act or under the Gas (Interim) (Regulation) Act, 2002,
+
+(iv) the conditions of any licence, lease or permit granted to the upstream pipeline operator under the Petroleum and Other Minerals Development Act, 1960, or
+
+(v) the upstream pipeline operator's code of operations, being a code, approved by the Minister for the Marine and Natural Resources, in respect of all technical design, operational and other requirements relating to operation of the upstream pipeline in respect of which the holder has been granted a consent by that Minister under section 40(1), or
+
+(*d*) the person making the application does not undertake to be bound by the terms of the aforesaid code of operations of the upstream pipeline operator in so far as those terms are applicable to that person.
+
+(7) Where an upstream pipeline operator refuses to offer to enter into an agreement under this section, the operator shall serve notice on the applicant of the reasons for such a refusal.
+
+F92[(8) The Minister or any person nominated in that behalf by the Minister, for the purposes of F87[Article 36 of the Directive], shall be the competent authority (in this section referred to as the "competent authority") in the State to settle expeditiously disputes concerning refusal to offer to enter into an agreement under this section within the scope of the Directive.]
+
+(9) Any dispute between an upstream pipeline operator and any person who is, or claims to be, a person to whom the operator is obliged to make an offer for the transportation of natural gas through a pipeline under the control of that operator (and whether as to the making of an offer, the terms offered, the proposed charges or otherwise) where an offer is made or is refused by the operator, may, upon the application of that person, be determined by the competent authority and the operator shall comply with and be bound by any such determination.
+
+F94[(10) (*a*) Where an application is made under subsection (9) to the competent authority in relation to a dispute concerning an upstream pipeline, part of which is situated in the territory of another Member State, on the seabed under the territorial seas of another Member State or on the continental shelf belonging to another Member State, the competent authority shall, prior to considering the application, consult the relevant authorities in that other member State with respect to the application with a view to ensuring that the provisions of the Directive are applied consistently.
+
+(*b*) Where the upstream pipeline network originates from a third country, the competent authority, prior to considering the application, shall consult the third country concerned where the upstream pipeline network originates, and may consult the relevant authorities in other Member States, with a view to ensuring, as regards the network concerned, that the Directive is applied consistently in the territory of the Member States.]
+
+(11) The parties to a dispute referred to in subsection (8) of this section shall provide all documents, records, accounts, estimates and other information, whether oral or written, requested from time to time, by the competent authority in the form and at the times specified by that authority, for the purpose of making a determination under subsection (9) of this section.
+
+(12) (*a*) In making a determination under subsection (9) of this section, the competent authority shall apply the objectives of—
+
+(i) fair and open access,
+
+(ii) achieving a competitive market in natural gas, and
+
+(iii) avoiding any abuse of a dominant position.
+
+(*b*) In applying the objectives under paragraph (a) of this subsection, the competent authority shall take account of—
+
+(i) security and regularity of supplies,
+
+(ii) capacity which is or can reasonably be made available,
+
+(iii) environmental protection, and
+
+(iv) the number of parties which may be involved in negotiating access to upstream pipelines.
+
+(13) Without prejudice to the generality of subsection (12) of this section, in making a determination under subsection (9) of this section, the competent authority may take into account the need—
+
+(*a*) to refuse access where there is an incompatibility which cannot be reasonably overcome between the technical specifications being proposed by the applicant and those applying to the pipeline of the upstream pipeline operator,
+
+(*b)* to avoid difficulties which cannot be reasonably overcome and could prejudice the efficient, current and planned future production of natural gas or other hydrocarbons, including that from fields of marginal economic value, and
+
+(*c*) to respect the duly substantiated reasonable needs of the upstream pipeline operator for the transport and processing of gas and the interests of all other users of the relevant upstream pipeline or processing or handling facilities who may be affected.
+
+(14) In order to ensure compliance with a determination made under subsection (9) of this section the competent authority may apply in a summary manner on notice to the High Court for an order requiring an upstream pipeline operator to comply with the determination.
+
+(15) Where providing for the transportation of natural gas or where offering terms for the carrying out of works for the purpose of connection to a pipeline under the control of an upstream pipeline operator, the upstream pipeline operator shall not discriminate unfairly as between any persons or classes of persons.
+
+(16) An upstream pipeline operator shall not, in the context of sales or purchases of natural gas by that operator or related undertakings, abuse commercially sensitive information obtained from third parties in the context of providing or negotiating access to a pipeline under the control of the upstream pipeline operator.
+
+(17) (*a*) Subject to paragraph (b) of this subsection, an upstream pipeline operator shall, within such time as the Minister for the Marine and Natural Resources may direct, prepare a statement for the approval of the Minister setting out the basis upon which charges are imposed—
+
+(i) for the transportation of natural gas through a pipeline under the control of the upstream pipeline operator, and
+
+(ii) for connection to a pipeline under the control of that upstream pipeline operator.
+
+(*b*) The Minister for the Marine and Natural Resources may—
+
+(i) give directions to an upstream pipeline operator from time to time in respect of the basis for charges for the transportation of natural gas through, or connection to, a pipeline under the control of the upstream pipeline operator, and
+
+(ii) specify by regulations the classes of upstream pipeline operator to whom paragraph (a) of this subsection does not apply.
+
+(*c*) Notwithstanding the generality of paragraph (b) of this subsection, directions given by the Minister for the Marine and Natural Resources under this subsection may provide for—
+
+(i) the methods of charging to be included in the statement to be prepared by an upstream pipeline operator,
+
+(ii) the form and the extent of the information to be provided by an upstream pipeline operator to applicants,
+
+(iii) the form of charges and information about those charges to be included in the statement to be prepared by an upstream pipeline operator,
+
+(iv) the procedure to be adopted in the submission by an upstream pipeline operator of a statement of charges and the approval by the Minister for the Marine and Natural Resources of such statement, and
+
+(v) the nature of information to be provided to applicants seeking the transportation of natural gas through, or connection to, a pipeline under the control of the upstream pipeline operator and its presentation and transparency.
+
+(*d*) An upstream pipeline operator shall comply with directions given to it by the Minister for the Marine and Natural Resources under this subsection.
+
+(*e*) A charge for the transportation of natural gas through, or connection to, a pipeline under the control of the upstream pipeline operator shall be calculated in accordance with directions given by the Minister for the Marine and Natural Resources under this section so as to enable the upstream pipeline operator to recover—
+
+(i) the appropriate proportion of the costs directly or indirectly incurred in carrying out any necessary works, and
+
+(ii) a reasonable rate of return on the capital represented by such costs.
+
+(*f*) The Minister for the Marine and Natural Resources, solely, shall determine that which constitutes an "appropriate proportion" referred to in paragraph (e)(i) of this subsection and a "reasonable rate of return" referred to in paragraph (e)(ii) of this subsection.
+
+(18) (*a*) An upstream pipeline operator shall send each statement prepared in accordance with subsection (17) of this section to the Minister for the Marine and Natural Resources for its approval (in this section referred to as the "statement") and the statement, and in particular any charges referred to therein, shall not apply until such time as it has been approved of by the Minister for the Marine and Natural Resources, subject to such modifications, if any, as that Minister considers appropriate.
+
+(*b*) The Minister for the Marine and Natural Resources shall consult with an upstream pipeline operator and have regard to any submission made by the upstream pipeline operator to the Minister for the Marine and Natural Resources prior to making a decision as to whether to approve of or not, as the case may be, a statement submitted by the upstream pipeline operator to the Minister for the Marine and Natural Resources for approval.
+
+(*c*) Any charges imposed by an upstream pipeline operator on or before the coming into operation of this section shall, subject to the approval of the Minister for the Marine and Natural Resources, continue in force until a statement has been approved of by that Minister under this section and thereafter all charges shall be in accordance with a statement approved of by that Minister.
+
+F93[(19) In this section—
+
+F95[“Directive” means the Natural Gas Market Directive;]
+
+“pipeline” means an upstream pipeline and includes facilities supplying technical services incidental to acquiring access to such pipelines;
+
+“third party access” means the transportation of natural gas through an upstream pipeline operator’s pipeline and includes access to facilities supplying technical services incidental to such access except for the parts of such pipelines and facilities which are used for local production operations at the site of the field where the gas is produced;
+
+“upstream pipeline operator” means a person operating an upstream pipeline in accordance with a consent given by the Minister under Section 40(1).]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F84: Inserted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 14(1), commenced on enactment.
+>
+> F85: Substituted (24.12.2006, 1.07.2007) by *Energy (Miscellaneous Provisions) Act 2006* (40/2006), s. 18(1), commenced on enactment and as per s. 18(2).
+>
+> F86, F87, F88: Substituted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 39(2)(a), (b).
+>
+> F89, F90, F91, F92, F93: Substituted (30.06.2005) by *European Communities (Internal Market in Natural Gas) Regulations 2005* (S.I. No. 320 of 2005), reg. 3(b)-(e).
+>
+> F94, F95: Substituted (13.03.2020) by *European Union (Internal Market in Natural Gas) Regulations 2020* (S.I. No. 83 of 2020), reg. 5(a), (b).
+>
+> **Editorial Notes:**
+>
+> E50: The section heading is taken from the amending section and its contents in absence of one included in the amendment.
+>
+> E51: Previous affecting provision: definition of "Directive" in subs. (19) substituted (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 39(2)(c); definition substituted (13.03.2020) as per F-note above.
+>
+> E52: Previous affecting provision: subs. (1) substituted (30.06.2005) by *European Communities (Internal Market in Natural Gas) Regulations 2005* (S.I. No. 320 of 2005), reg. 3(a); subsection substituted (24.12.2006 and 1.07.2007) as per F-note above.
+>
+> E53: Previous affecting provision: subss. (1), (2) substituted and (8), (19) amended (1.07.2004) by *European Communities (Internal Market in Natural Gas) Regulations 2004* (S.I. No. 426 of 2004), reg. 3(a)-(d); subsection substituted (24.12.2006 and 1.07.2007) as per F-note above.
+
+### 10C. Technical agreements must be compatible with European Union law, etc.
+
+F96[**10C.** — Any technical agreements by a transmission system operator or any other economic operator on issues concerning the operation of transmission lines between the State and another Member State or a third country must be compatible with European Union law and relevant decisions of the Commission and shall be notified by the transmission system operator or the economic operator, as the case may be, to the Commission.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F96: Inserted (13.03.2020) by *European Union (Internal Market in Natural Gas) Regulations 2020* (S.I. No. 83 of 2020), reg. 6.
+
+### 10D. Negotiations with third country
+
+F97[**10D.** — (1) Without prejudice to other obligations under European Union law, existing agreements between the State and a third country on the operation of a transmission line or an upstream pipeline network may be maintained in force until the entry into force of a subsequent agreement between the European Union and the same third country or until the procedure under Article 49b of the Natural Gas Market Directive is applied by the European Commission, whichever first occurs.
+
+(2) Where the Commission, as the relevant national regulatory authority, intends to enter into negotiations with a third country, on behalf of the State, in order to amend, extend, adapt, renew or conclude an agreement on the operation of a transmission line concerning matters falling, entirely or partly, within the scope of the Natural Gas Market Directive, it shall notify the European Commission of its intention in writing.
+
+(3) (*a*) A notification under subsection (2) shall include the relevant documentation and an indication of the provisions to be addressed in the negotiations, the objectives of the negotiations and any other relevant information.
+
+(*b)* A notification under subsection (2) shall be transmitted to the European Commission at least 5 months before the intended start of the negotiations.
+
+(4) The right to enter into negotiations with a third country under subsection (2) is subject to approval by the European Commission under Article 49(b) of the Natural Gas Market Directive.
+
+(5) Where authorised to enter into formal negotiations with a third country, the Commission shall notify the European Commission of the outcome of the negotiations and shall transmit the draft text of the negotiated agreement to the European Commission for approval.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F97: Inserted (13.03.2020) by *European Union (Internal Market in Natural Gas) Regulations 2020* (S.I. No. 83 of 2020), reg. 6.
+
+### 11. Directions as to profits and financial objectives of Board
+
+F98[**11.** — (1) (*a*) The majority-shareholding Minister (with, where the majority- shareholding Minister is not the Minister for Finance, the approval of the Minister for Finance) having consulted with the Minister, the Minister for Public Expenditure and Reform and any other Minister of the Government who, in the opinion of the majority-shareholding Minister having regard to the functions of that other Minister, ought to be consulted may, from time to time, give the Board such general directives concerning the financial objectives of the Board as he or she considers appropriate.
+
+(*b*) The majority-shareholding Minister (with, where the majority-shareholding Minister is not the Minister for Finance, the approval of the Minister for Finance) having consulted with the Minister, the Minister for Public Expenditure and Reform and any other Minister of the Government who, in the opinion of the majority-shareholding Minister having regard to the functions of that other Minister, ought to be consulted may, from time to time, direct that the profits of the Board in a year specified in the direction shall be applied in such manner (including application for the benefit of the Exchequer) as is specified in the direction.
+
+(2) In performing its functions the Board shall—
+
+(*a*) comply with any direction under this section, and
+
+(*b*) have regard to any directive under this section concerning its financial objectives.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F98: Substituted (23.11.2015) by *Gas Regulation Act 2013* (39/2013), s. 35, S.I. No. 520 of 2015.
+>
+> **Editorial Notes:**
+>
+> E54: The section title is taken from the amending section in absence of one included in the amendment.
+>
+> E55: Previous affecting provision: functions transferred and references to “Department of Finance” and “Minister for Finance” in subss. (1)(a), (b) construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9; section substituted (23.11.2015) as per F-note.
+>
+> E56: Previous affecting provision: section substituted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 15, commenced on enactment; section substituted (23.11.2015) as per F-note above.
+>
+> E57: Previous affecting provision: subss. (1), (3) substituted and subs. (4) amended (21.12.1995) by *Energy (Miscellaneous Provisions) Act 1995* (35/1995), s. 2(2)(a)-(c), commenced on enactment; section substituted (23.11.2015) as per F-note above.
+
+### 12. Contracts by Board.
+
+**12.** — Any contract or instrument which, if entered into or executed by a person not being a body corporate, would not require to be under seal may be entered into or executed on behalf of the Board by any person generally or specially authorised by the Board for that purpose.
+
+### 13. Disclosure by member of Board of interest in proposed contract.
+
+**13.** — F99[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F99: Repealed (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 3(1)(c), S.I. No. 208 of 2024.
+>
+> **Editorial Notes:**
+>
+> E58: Previous affecting provision: subs. (3) amended (23.11.2015) by *Gas Regulation Act 2013* (39/2013), s. 32(h), S.I. No. 520 of 2015; repealed (1.06.2024) as per F-note above.
+
+### 14. F100[Annual report
+
+**14.** — (1) The Board shall prepare a report (in this section referred to as the "annual report") on the performance by it of its functions under this Act, the Gas Regulation Act 2013 and the Gas (Amendment) and Miscellaneous Provisions Act 2024.
+
+(2) The annual report shall include such particulars as the Board considers appropriate or as may be directed by the majority-shareholding Minister.
+
+(3) The first annual report prepared under this section shall be in respect of the financial year commencing on 1 January 2024 and subsequent annual reports shall be prepared in respect of each subsequent financial year.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F100: Substituted (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 19(d), S.I. No. 208 of 2024.
+>
+> **Modifications (not altering text):**
+>
+> C14: Requirement for a report of the proceedings of the network company in the financial year to be included in the annual report prescribed (28.11.2014) by *Gas Regulation Act 2013* (39/2013), s. 20(1), S.I. No. 538 of 2014.
+>
+> **Annual report and accounts**
+>
+> **20.** —(1) BGÉ shall include in its annual report pursuant to section 14 of the Act of 1976 a report of the proceedings of the network company in that financial year.
+>
+> (2) In keeping accounts pursuant to section 15 of the Act of 1976 BGÉ shall ensure that accounts of all moneys received or expended by the network company are identified separately.
+>
+> **Editorial Notes:**
+>
+> E59: Previous affecting provision: subss. (1) to (3) amended (23.11.2015) by *Gas Regulation Act 2013* (39/2013), s. 32(i), S.I. No. 520 of 2015; substituted (1.06.2024) as per F-note above.
+
+### 15. F101[Appointment of statutory auditor or firm
+
+**15.** — (1) The board of directors of the Board shall, with the approval of the majority-shareholding Minister, appoint a statutory auditor or statutory audit firm to be a statutory auditor of the Board, for the purposes of, and in accordance with, the Act of 2014.
+
+(2) Where a statutory auditor or statutory audit firm is appointed under subsection (1), the first statutory auditor’s report prepared in accordance with section 336 of the Act of 2014 shall be in respect of the financial year commencing on 1 January 2024, and subsequent reports shall be prepared in respect of each subsequent financial year.
+
+(3) The Board shall pay out of moneys at its disposal the fees of a statutory auditor appointed under this section.
+
+(4) In this section—
+
+"statutory audit firm" has the same meaning as it has in Part 27 of the Act of 2014;
+
+"statutory auditor" has the same meaning as it has in the Act of 2014.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F101: Substituted (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 19(e), S.I. No. 208 of 2024.
+>
+> **Modifications (not altering text):**
+>
+> C15: Requirement in relation to accounts imposed (28.11.2014) by *Gas Regulation Act 2013* (39/2013), s. 20(2), S.I. No. 538 of 2014.
+>
+> **Annual report and accounts**
+>
+> **20.** (1) BGÉ shall include in its annual report pursuant to section 14 of the Act of 1976 a report of the proceedings of the network company in that financial year.
+>
+> (2) In keeping accounts pursuant to section 15 of the Act of 1976 BGÉ shall ensure that accounts of all moneys received or expended by the network company are identified separately.
+>
+> **Editorial Notes:**
+>
+> E60: Previous affecting provision: section substituted (23.11.2015) by *Gas Regulation Act 2013* (39/2013), s. 36, S.I. No. 520 of 2015; substituted (1.06.2024) as per F-note above.
+>
+> E61: Previous affecting provision: functions transferred and references to “Department of Finance” and “Minister for Finance”construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9; section substituted (23.11.2015) as per E-note above.
+>
+> E62: Previous affecting provision: subs. (1A) inserted (29.03.2013) by *Water Services Act 2013* (6/2013), s. 30, S.I. No. 108 of 2013; section substituted (23.11.2015) as per F-note above and subsection repealed (1.01.2023) by *Water Services (Amendment) Act 2022* (39/2022), s. 4(3), S.I. No. 678 of 2022.
+
+### Presentation of financial statements and reports
+
+F102[**15A.** — (1) The Board shall, not later than 30 June in each year, commencing in the year 2025, present to the majority-shareholding Minister a copy of—
+
+(*a*) the statutory financial statements prepared in accordance with the Act of 2014,
+
+(*b*) the annual report prepared under section 14, and
+
+(*c*) the statutory auditor’s report referred to in section 15(2).
+
+(2) The majority-shareholding Minister shall cause a copy of the statutory financial statements and the reports presented to him or her under subsection (1) to be laid before each House of the Oireachtas as soon as practicable following their presentation.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F102: Inserted (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 19(f), S.I. No. 208 of 2024.
+
+### 16. Staff of Board.
+
+F103[**16.** — (1) The Board shall appoint such and so many persons to be officers and servants of the Board as the Board from time to time thinks proper.
+
+(2) An officer or servant of the Board shall hold his or her office or employment on such terms and conditions as the Board from time to time determines.
+
+(3) There shall be paid by the Board to its officers and servants such remuneration and allowances for expenses as the Board thinks fit, subject to, in the case of its chief officer (whether that officer is described as the Chief Officer or otherwise), the approval of the majority-shareholding Minister given (where the majority-shareholding Minister is not the Minister for Finance, with the approval of the Minister for Finance) having consulted with the Minister, the Minister for Public Expenditure and Reform and any other Minister of the Government who, in the opinion of the majority-shareholding Minister having regard to the functions of that other Minister, ought to be consulted.
+
+(4) In determining the remuneration or allowances for expenses to be paid to its officers or servants or the terms or conditions subject to which such officers or servants hold or are to hold their employment, the Board shall have regard either to Government or nationally agreed guidelines which are for the time being extant, or to Government policy concerning remuneration and conditions of employment which is so extant, and, in addition to the foregoing, the Board shall comply with any directives with regard to such remuneration, allowances, terms or conditions which the majority-shareholding Minister may give from time to time to the Board (where, the majority-shareholding Minister is not the Minister for Finance, with the approval of the Minister for Finance) having consulted with the Minister, the Minister for Public Expenditure and Reform and any other Minister of the Government who, in the opinion of the majority-shareholding Minister having regard to the functions of that other Minister, ought to be consulted.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F103: Substituted (23.11.2015) by *Gas Regulation Act 2013* (39/2013), s. 37, S.I. No. 520 of 2015.
+>
+> **Editorial Notes:**
+>
+> E63: Previous affecting provision: Bord Gáis Éireann construed as Ervia (19.06.2014) by *ESB (Electronic Communications Networks) Act 2014* (5/2014), s. 8, S.I. No. 286 of 2014; section substituted (23.11.2015) as per F-note above.
+
+### Superannuation of transferred employees of Bord Gáis Éireann.
+
+F104[**16A.** — (1) In this section—
+
+“Gaslink” means Gaslink Independent System Operator Ltd., being the company formed pursuant to Regulation 5 of the European Communities (Internal Market in Natural Gas) (BGE) Regulations 2005 (S.I. No. 760 of 2005);
+
+“terms and conditions” includes a term existing under subsection (2);
+
+“transfer date” means the date fixed by the Minister under subsection (3) on which the transfer plan takes effect;
+
+“transfer plan” means the plan prepared under subsection (2)(a) and approved under subsection (2)(b);
+
+“vary”, in relation to terms and conditions, includes vary by—
+
+(*a*) omitting any of those terms and conditions,
+
+(*b*) adding to those terms and conditions, or
+
+(*c*) substituting new terms and conditions for any of the first-mentioned terms and conditions.
+
+(2) (*a*) The Board shall prepare a transfer plan for the transfer of assets and staff to Gaslink specified in subsection (1).
+
+(*b*) The transfer plan shall be submitted to the Minister by the Board for his or her approval.
+
+(*c*) The employment of those officers and servants of the Board who are designated in the transfer plan is transferred to Gaslink.
+
+(*d*) An officer or servant of the Board whose employment is transferred to Gaslink and who was, immediately before the transfer, a member of a superannuation scheme established under section 18 for officers or servants of the Board, is entitled to continue to be a member of the scheme in accordance with its terms as in force from time to time.
+
+(*e*) Subject to this section, each person whose employment is transferred in accordance with paragraph (c) is employed by Gaslink on terms and conditions no less favourable to that person than those on which the person was employed by the Board immediately before the transfer date.
+
+(*f*) Nothing in this section has the effect of breaking a person’s contract of employment or continuity of employment for the purpose of applying to the person any other law relating to employment that would, apart from this section, apply to the person. In particular, this section does not affect a person’s accrued rights that the person had immediately before the transfer date in respect of any kind of leave.
+
+(*g*) It is a term of employment of each transferred employee that the terms and conditions of that employment may be varied to the extent to which, and in the manner in which, the terms and conditions of the employee’s employment could, immediately before the transfer date, be lawfully varied.
+
+(*h*) Nothing in this section prevents the terms and conditions of a transferred employee’s employment after the transfer date from being varied—
+
+(i) in accordance with those terms and conditions, or
+
+(ii) by or under an applicable law or agreement.
+
+(3) The Minister may fix a date on which the transfer plan takes effect.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F104: Inserted (16.04.2012) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 4, S.I. No. 122 of 2012.
+>
+> **Modifications (not altering text):**
+>
+> C16: Functions transferred and references to "Ervia" construed (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 11, S.I. No. 208 of 2024.
+>
+> **Transfer day**
+>
+> **6.** (1) The Minister shall by order appoint a day to be the transfer day for the purposes of this Act.
+>
+> (2) On and from the transfer day Ervia (in this Act referred to as the “dissolved body”) shall stand dissolved.
+>
+> ...
+>
+> **Transfer of functions**
+>
+> **11.** (1) On the transfer day, all functions that, immediately before the transfer day, were vested in the dissolved body shall stand vested in Gas Networks Ireland.
+>
+> (2) References in any enactment (other than this Act) or other document to the dissolved body, to the extent that such references relate to functions, assets, rights or liabilities that are vested in, or transferred to, Gas Networks Ireland by this Act shall, on and from the transfer day, be construed as references to Gas Networks Ireland.
+>
+> (3) The administration and business in connection with the performance of the functions vested in Gas Networks Ireland by virtue of subsection (1) are on the transfer day transferred to Gas Networks Ireland.
+>
+> (4) References in any enactment (other than this Act) to the dissolved body, to the extent that such references relate to the administration and business transferred by subsection (3) shall, on and from the transfer day, be construed as references to Gas Networks Ireland.
+>
+> **Editorial Notes:**
+>
+> E64: Previous affecting provision: references to "Bord Gáis Éireann" construed as references to "Ervia" (19.06.2014) by *ESB (Electronic Communications Networks) Act 2014* (5/2014), s. 8, S.I. No. 286 of 2014; superseded (1.06.2024) as per C-note above.
+>
+> E65: The section heading is taken from the amending section in absence of one included in the amendment.
+
+### 17. Consultants and advisers.
+
+**17.** — (1) Subject to subsection (2) of this section, the Board may from time to time engage such consultants or advisers as it may consider necessary for the discharge of its functions and any fees due to a consultant or adviser engaged pursuant to this section shall be paid by the Board out of moneys at its disposal.
+
+(2) F105[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F105: Repealed (16.04.2012) by *Energy (Miscellaneous Provisions) Act 2012* (3/2012), s. 22(b), S.I. No. 122 of 2012.
+
+### 18. Superannuation of officers and servants of Board.
+
+**18.** — (1) As soon as conveniently may be after the establishment day, the Board shall prepare and submit to the F106[majority-shareholding Minister] for his approval a contributory scheme or schemes for the granting of pensions, gratuities and other allowances on retirement or death to or in respect of such officers or servants of the Board as it may think fit.
+
+(2) The Board may, at any time, prepare and submit to the F107[majority-shareholding Minister] a scheme amending or revoking a scheme under this section.
+
+(3) Where a scheme is submitted to the F108[majority-shareholding Minister] pursuant to this section, the F109[majority-shareholding Minister] may, F110[having consulted with the Minister for Public Expenditure and Reform], approve the scheme.
+
+(4) A scheme submitted to the F111[majority-shareholding Minister] under this section shall, if approved of by the F112[majority-shareholding Minister] F113[having consulted with the Minister for Public Expenditure and Reform], be carried out by the Board in accordance with its terms.
+
+(5) A scheme submitted and approved under this section shall fix the time and conditions of retirement for all persons to or in respect of whom pensions, gratuities, or allowances on retirement or death are payable under the scheme, and different times and conditions may be fixed in respect of different classes of persons.
+
+F114[(6) If any dispute arises as to the claim of any person to, or the amount of, any pension, gratuity or allowance payable in pursuance of a scheme under this section, such dispute shall be submitted to the majority-shareholding Minister who shall, having consulted with the Minister for Public Expenditure and Reform, decide on the matter and this decision shall be final.]
+
+(7) No pension, gratuity or other allowance shall be granted by the Board on the resignation, retirement or death of an officer or servant of the Board otherwise than in accordance with a scheme under this section.
+
+F115[(7A) In this section—
+
+“officers or servants of the Board” and “officer or servant of the Board” each includes the following:
+
+(*a*) persons who are, or were at any time, an officer or servant of the Dublin Gas Company, a company that is, or was at any time, a subsidiary (within the meaning of the Companies Act 1963 ) of the Dublin Gas Company or a company whose assets are acquired at any time by the Board;
+
+(*b*) persons who are employees of Gaslink Independent System Operator Ltd., being the company formed pursuant to Regulation 5 of the European Communities (Internal Market in Natural Gas) (BGÉ) Regulations 2005 (S.I. No. 760 of 2005);
+
+(*c*) persons who are at any time prior to the disposal date in relation to an energy company (each within the meaning of the Gas Regulation Act 2013) employees of that energy company; and
+
+(*d*) persons who are employees of the network company (within the meaning of the Gas Regulation Act 2013),
+
+"on retirement or death" includes in respect of retirement or death, and
+
+"on the resignation, retirement or death" includes in respect of the resignation, retirement or death.]
+
+(8) Every scheme submitted and approved of under this section shall be laid before each House of the Oireachtas as soon as may be after it is approved of and if either House, within the next twenty-one days on which that House has sat after the scheme is laid before it, passes a resolution annulling the scheme, the scheme shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F106, F107, F108, F109, F110, F111, F112, F113, F114, F115: Substituted (21.03.2014, 23.11.2015) by *Gas Regulation Act 2013* (39/2013), s. 38(a)-(d), S.I. No. 145 of 2014 and S.I. No. 520 of 2015.
+>
+> **Modifications (not altering text):**
+>
+> C17: Application of section extended (28.12.2014) by *Water Services Act 2014* (44/2014), s. 9(9), commenced on enactment.
+>
+> **Superannuation**
+>
+> **9.** ...
+>
+> (9) A reference in section 18 of the Gas Act 1976 to an officer or servant of the Board includes a reference to a member of the staff of Irish Water who was a member of a scheme under that section immediately before being accepted into the employment of Irish Water.
+>
+> **Editorial Notes:**
+>
+> E66: Power pursuant to section exercised (29.04.2013) by *Ervia Severance Gratuity Scheme 2017* (S.I. No. 534 of 2017), in effect as per art. 2.
+>
+> E67: Previous affecting provision: pension scheme compliant with sch. 2 para 3 deemed to be permitted under section (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 37(3), in effect as per regs. 1(2), 12; revoked (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 29(1)(d). Note: notice in accordance with *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 12 appears not to have been published.
+>
+> E68: Previous affecting provision: subs. (7A) inserted (3.11.1987) by *Gas (Amendment) Act 1987* (9/1987), s. 4(1), S.I. No. 282 of 1987; subsection substituted (21.03.2014) as per F-note above.
+
+### 19. Membership of either House of the Oireachtas of officers or servants of Board.
+
+**19.** — F116[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F116: Repealed (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 3(1)(c), S.I. No. 208 of 2024.
+
+### 20. Disclosure of information.
+
+**20.** — F117[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F117: Repealed (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 3(1)(c), S.I. No. 208 of 2024.
+>
+> **Editorial Notes:**
+>
+> E69: Previous affecting provision: person holding record under section excluded from requirement to refuse an FOI request (14.10.2014) by *Freedom of Information Act 2014* (30/2014), s. 41(1)(a) and sch. 3 part 1, commenced on enactment.; section repealed (1.06.2024) as per F-note above.
+>
+> E70: Previous affecting provision: subs. (3)(a) amended by (23.11.2015) by *Gas Regulation Act 2013* (39/2013), s. 32(j), S.I. No. 520 of 2015; repealed (1.06.2024) as per F-note above.
+>
+> E71: Previous affecting provision: subs. (2) amended by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 23(1)(b), commenced on enactment; repealed (1.06.2024) as per F-note above.
+>
+> E72: Previous affecting provision: application of section extended (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 38(2)(a)(ii), in effect as per regs. 1(2), 12; revoked (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 29(1)(d). Note: notice in accordance with *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 12 appears not to have been published.
+>
+> E73: Previous affecting provision: person holding record under section excluded from obligation to refuse an FOI request (21.04.1998) by *Freedom of Information Act 1997* (13/1997), s. 32 and sch. 3 part 1, commenced as per s. 1(2); repealed (14.10.2014) by *Freedom of Information Act 2014* (30/2014), s. 5 and sch. 4, commenced as per s. 1(2).
+
+### 21. Board's capital commitments.
+
+F118[**21.** — (1) The Board shall not, without the consent of the majority-shareholding Minister given (where the majority-shareholding Minister is not the Minister for Finance, with the approval of the Minister for Finance) having consulted with the Minister, the Minister for Public Expenditure and Reform and any other Minister of the Government who, in the opinion of the majority-shareholding Minister having regard to the functions of that other Minister, ought to be consulted enter into a capital commitment the amount of which exceeds an amount specified for the time being for the purpose of this section and relating to the commitment.
+
+(2) The majority-shareholding Minister may from time to time (with, where the majority-shareholding Minister is not the Minister for Finance, the approval of the Minister for Finance) having consulted with the Minister, the Minister for Public Expenditure and Reform and any other Minister of the Government who, in the opinion of the majority-shareholding Minister having regard to the functions of that other Minister, ought to be consulted, specify amounts for the purposes of this section and such an amount may be so specified in relation to capital commitments generally or in relation to capital commitments of a particular class or description.
+
+(3) F119[...]
+
+(4) F120[...]
+
+(5) F121[...]
+
+(6) F122[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F118: Substituted (23.11.2015) by *Gas Regulation Act 2013* (39/2013), s. 39, S.I. No. 520 of 2015.
+>
+> F119, F120, F121, F122: Repealed (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 3(1)(d), S.I. No. 208 of 2024.
+>
+> **Editorial Notes:**
+>
+> E74: Previous affecting provision: subss. (1), (2) applied with modifications (29.03.2013) by *Water Services Act 2013* (6/2013), s. 16, S.I. No. 108 of 2013; affecting provision substituted (23.11.2015) by *Gas Regulation Act 2013* (39/2013), s. 46, S.I. No. 520 of 2015.
+>
+> E75: Previous affecting provision: functions transferred and references to “Department of Finance” and “Minister for Finance”construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9; section substituted (23.11.2015) as per F-note above.
+>
+> E76: Previous affecting provision: references to the "Board" in subs. (3) construed as including the ITO (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 38(2)(a)(v), in effect as per regs. 1(2) and 12; revoked (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 29(1)(d). Note: notice in accordance with *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 12 appears not to have been published.
+>
+> E77: Previous affecting provisions: subss. (3), (4) inserted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 23(1)(c), commenced on enactment; section substituted (23.11.2015) as per F-note above.
+
+### 22. Advances to Board by Minister for Finance.
+
+**22.** — (1) For the purpose of enabling the Board to perform its functions the Minister for Finance may, on the recommendation of the Minister F123[made after the Minister’s having consulted with the Minister for Public Expenditure and Reform], advance from time to time to the Board out of the Central Fund or the growing produce thereof such sums as the Board may from time to time request.
+
+(2) Advances under subsection (1) of this section shall be made on such terms as to repayment, interest and other matters as may F124[, with the consent of the Minister for Public Expenditure and Reform,] be determined by the Minister for Finance.
+
+(3) The aggregate at any one time of sums advanced under this section and which have not been repaid shall not exceed £25,000,000.
+
+(4) All sums paid by the Board in repayment of an advance under subsection (1) of this section or in pursuance of any term or condition subject to which an advance was made under this section shall be paid into or disposed of for the benefit of the Exchequer.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F123, F124: Inserted (6.07.2011) by *Ministers and Secretaries (Amendment) Act 2011* (10/2011), s. 57(c), (d), S.I. No. 401 of 2011.
+
+### 23. Borrowing by Board for capital purposes.
+
+**23.** — (1) The Board may from time to time borrow money, including money in a currency other than the currency of the State, to defray expenditure incurred by it that is properly chargeable to capital F125[and such borrowing may be by whatever means the Board considers appropriate including the creation of stock or other forms of security to be issued, transferred, dealt with and redeemed in such manner and on such terms and conditions as the Board may, F127[with the prior consent of the majority-shareholding Minister, given where the majority-shareholding Minister is not the Minister for Finance with the approval of the Minister for Finance], determine].
+
+(2) The aggregate at any one time either of borrowings under this section, or of such borrowings and any advances under section 22 of this Act, which have not been repaid, shall not exceed F129[€3,000,000,000].
+
+F128[(3) The Board shall not borrow money under this section except with the prior consent of the majority-shareholding Minister given (where the majority-shareholding Minister is not the Minister for Finance, with the approval of the Minister for Finance) having consulted with the Minister, the Minister for Public Expenditure and Reform and any other Minister of the Government who, in the opinion of the majority-shareholding Minister having regard to the functions of that other Minister, ought to be consulted.]
+
+(4) For the purposes of calculating the amount of borrowings by reference to the limit on principal in subsection (2) of this section the equivalent in the currency of the State of borrowings in a foreign currency shall be calculated at the exchange rate prevailing at the time of the borrowing.
+
+F126[(5) Any security created under subsection (1) of this section shall be deemed to be included amongst the securities in which trustees may invest trust funds under the powers of section 1 (inserted by the Trustee (Authorised Investments) Act, 1958) of the Trustee Act, 1893.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F125, F126: Inserted (21.12.1995) by *Energy (Miscellaneous Provisions) Act 1995* (35/1995), s. 9(a), (b), commenced on enactment.
+>
+> F127, F128: Substituted (23.11.2015) by *Gas Regulation Act 2013* (39/2013), s. 32(k)(i), (ii), S.I. No. 520 of 2015.
+>
+> F129: Substituted (17.02.2009) by *Gas (Amendment) Act 2009* (3/2009), s. 1, commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C18: Functions conferred on the Minister for Finance transferred to the Minister for Public Expenditure and Reform (6.07.2011) by *Ministers and Secretaries (Amendment) Act 2011* (10/2011), ss. 9(2), 20(1) and sch. 2 part 1, S.I. No. 401 of 2011.
+>
+> **Transfer of certain other functions to Minister.**
+>
+> **9.** — ...
+>
+> (2) The functions conferred on the Minister for Finance by or under any of the provisions specified in Part 1 of Schedule 2 are transferred to the Minister.
+>
+> ...
+>
+> **Performance of certain functions transferred to Minister by section 9.**
+>
+> **20.**— (1) The Minister shall not perform a function transferred by subsection (2) of section 9 without the consent of the Minister for Finance.
+>
+> ...
+>
+> SCHEDULE 2
+>
+> Functions Transferred To Minister
+>
+> ...
+>
+> PART 1
+>
+> Functions performable with consent of Minister for Finance
+>
+> STATUTES
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 30 of 1976</td><td>Gas Act 1976</td><td>Sections 8A, 23 and 24</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E78: Previous affecting provision: subs. (2) amended (27.02.2002) by *Sustainable Energy Act 2002* (2/2002), s. 31, commenced on enactment; substituted (17.02.2009) as per F-note above.
+>
+> E79: Previous affecting provision: subs. (2) amended (10.07.2000) by *Gas (Amendment) Act 2000* (26/2000), s. 18, commenced on enactment; substituted (27.02.2002) as per E-note above.
+>
+> E80: Previous affecting provision: subs. (2) amended (7.04.1993) by *Gas (Amendment) Act 1993* (7/1993), s. 4, commenced on enactment; substituted (10.07.2000) as per E-note above.
+>
+> E81: Previous affecting provision: subs. (2) amended (9.07.1987) by *Gas (Amendment) Act 1987* (9/1987), s. 5, commenced on enactment; substituted (7.04.1993) as per E-note above.
+>
+> E82: Previous affecting provision: subs. (2) amended (21.07.1982) by *Gas (Amendment) Act 1982* (17/1982), s. 1, commenced on enactment; substituted (9.07.1987) as per E-note above.
+>
+> E83: Previous affecting provision: subs. (2) amended (16.12.1980) by *Gas (Amendment) Act 1980* (35/1980), s. 1, commenced on enactment; substituted (21.07.1982) as per E-note above.
+
+### 24. Temporary borrowing by Board.
+
+F130[**24.**— The Board may, with the consent of the majority-shareholding Minister given (where the majority-shareholding Minister is not the Minister for Finance, with the approval of the Minister for Finance) having consulted with the Minister, the Minister for Public Expenditure and Reform and any other Minister of the Government who, in the opinion of the majority-shareholding Minister having regard to the functions of that other Minister, ought to be consulted, borrow temporarily either by arrangement with bankers or otherwise such sums as it may require for the purpose of providing for current expenditure.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F130: Substituted (23.11.2015) by *Gas Regulation Act 2013* (39/2013), s. 32(l), S.I. No. 520 of 2015.
+>
+> **Modifications (not altering text):**
+>
+> C19: Functions conferred on the Minister for Finance transferred to the Minister for Public Expenditure and Reform (6.07.2011) by *Ministers and Secretaries (Amendment) Act 2011* (10/2011), ss. 9(2), 20(1) and Sch. 2 part 1, S.I. No. 401 of 2011.
+>
+> **Transfer of certain other functions to Minister.**
+>
+> **9.** — ...
+>
+> (2) The functions conferred on the Minister for Finance by or under any of the provisions specified in Part 1 of Schedule 2 are transferred to the Minister.
+>
+> ...
+>
+> **Performance of certain functions transferred to Minister by section 9.**
+>
+> **20.**— (1) The Minister shall not perform a function transferred by subsection (2) of section 9 without the consent of the Minister for Finance.
+>
+> ...
+>
+> SCHEDULE 2
+>
+> Functions Transferred To Minister
+>
+> ...
+>
+> PART 1
+>
+> Functions performable with consent of Minister for Finance
+>
+> STATUTES
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 30 of 1976</td><td>Gas Act 1976</td><td>Sections 8A, 23 and 24</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 25. State guarantee of borrowings by Board for capital purposes.
+
+**25.** — (1) The Minister for Finance may guarantee, in such form and manner and on such terms and conditions as he thinks fit, the due repayment by the Board of the principal of any moneys (including moneys in a currency other than the currency of the State) borrowed by the Board, other than from the Minister for Finance under section 22 of this Act, or the payment of interest on such moneys or both the repayment of the principal and the payment of the interest and any such guarantee may include a guarantee of payment of incidental expenses arising in connection with such borrowings.
+
+(2) The Minister for Finance shall not so exercise the powers conferred on him by this section that the amount, or the aggregate amount, of principal which he may at any one time be liable to repay on foot of any guarantee or guarantees under this section for the time being in force, together with the amount of principal (if any) which the said Minister has previously paid on foot of any guarantee under this section and which has not been repaid by the Board, exceeds F131[£190,000,000].
+
+(3) For the purposes of calculating the amount of borrowings guaranteed by the Minister for Finance under this section by reference to the limit on principal in subsection (2) of this section, the equivalent in the currency of the State of borrowings in a foreign currency shall be calculated at the exchange rate prevailing at the time of the giving of the guarantee.
+
+(4) The Minister for Finance shall, as soon as may be after the expiration of every financial year, lay before each House of the Oireachtas a statement setting out with respect to each guarantee under this section given during that year or given at any time before, and in force at, the commencement of that year—
+
+(*a*) particulars of the guarantee,
+
+(*b*) in case any payment has been made by the Minister under the guarantee before the end of that year, the amount of the payment and the amount (if any) repaid to the Minister on foot of the payment,
+
+(*c*) the amount of principal covered by the guarantee which was outstanding at the end of that year.
+
+(5) All moneys from time to time required by the Minister for Finance to meet sums which may become payable by him under this section shall be advanced out of the Central Fund or the growing produce thereof.
+
+(6) Moneys paid by the Minister for Finance under a guarantee under this section shall be repaid to him (with interest thereon at such rate or rates as he appoints) by the Board within two years from the date of the advance of the moneys out of the Central Fund.
+
+(7) Where the whole or any part of moneys required by subsection (6) of this section to be repaid to the Minister for Finance has not been paid in accordance with that subsection, the amount so remaining outstanding shall be repaid to the Central Fund out of moneys provided by the Oireachtas.
+
+(8) Notwithstanding the provision of moneys under subsection (7) of this section to repay the amount to the Central Fund, the Board shall remain liable to the Minister for Finance in respect of that amount and that amount (with interest thereon at such rate or rates as the Minister for Finance appoints) shall be repaid to the said Minister by the Board at such times and in such instalments as he appoints and, in default of repayment as aforesaid and without prejudice to any other method of recovery, shall be recoverable as a simple contract debt in any court of competent jurisdiction.
+
+(9) Moneys paid by the Board under subsection (6) or (8) of this section shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance thinks fit.
+
+(10) In relation to guarantees given by the Minister for Finance in money in a currency other than the currency of the State—
+
+(i) each of the references to principal, each of the references to interest and the reference to incidental expenses in subsection (1) of this section shall be taken as referring to the equivalent in currency of the State of the actual principal, the actual interest and the actual incidental expenses, respectively, such equivalent being calculated according to the cost in currency of the State of the actual principal, the actual interest or the actual incidental expenses, as may be appropriate,
+
+(ii) the reference to principal in subsection (4) of this section shall be taken as referring to the equivalent in currency of the State of the actual principal, such equivalent being calculated according to the rate of exchange for the time being for that currency and the currency of the State,
+
+(iii) each of the references to moneys in subsections (5) to (8) of this section shall be taken as referring to the cost in the currency of the State of the actual moneys.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F131: Substituted (7.04.1993) by *Gas (Amendment) Act 1993* (7/1993), s. 5, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E84: Previous affecting provision: subs. (2) amended (21.07.1982) by *Gas (Amendment) Act 1982* (17/1982), s. 2, commenced on enactment; substituted (7.04.1993) as per F-note above.
+>
+> E85: Previous affecting provision: subs. (2) amended (16.12.1980) by *Gas (Amendment) Act 1980* (35/1980), s. 2, commenced on enactment; substituted (21.07.1982) as per E-note above.
+
+### 26. Entry on land by Board.
+
+**26.** — (1) Any officer of the Board or any other person appointed in writing by the Board to be an authorised officer for the purposes of this section (which person is subsequently in this section referred to as an “authorised person”) may at any reasonable time enter on any land for any one or more of the following purposes, namely;
+
+(*a*) for inspecting and surveying the land and making thereon any inquiry, investigation or examination for the purpose of ascertaining whether or not the land, or a right over the land, is suitable for acquisition by the Board F132[under this Act],
+
+(*b*) for carrying out thereon any investigation or examination preliminary or incidental to the acquisition by the Board of the land or any right F133[over the land,]
+
+F134[(*c*) if the purpose, or one of the purposes, for which any such land or right is being so acquired or is being considered for such acquisition, is in connection with the construction or operation of a pipeline, for carrying out thereon any investigation or examination preliminary or incidental to the making of an application for consent under F135[section 39A(1) of this Act] in relation to that construction or operation, and
+
+(*d*) in case the land is in the vicinity of land which, or a right over which, is being so acquired or is being considered for such acquisition and the doing of any of the things referred to in paragraph (a), (b) or (c) of this subsection in respect of that land or right cannot be accomplished without entering on the first-mentioned and in this paragraph and, as the case may be, doing thereon any thing necessary to ensure a thing as aforesaid is accomplished, for those purposes.]
+
+F136[(1A) Notwithstanding the generality of subsection (1), an authorised person may only enter land under this section for the purposes mentioned in paragraphs (c) and (d) of that subsection where—
+
+(*a*) in the case of a pipeline other than an upstream pipeline, the Board has notified the Commission in writing of its intention to make an application for the Commission's consent under section 39A(1) in relation to the construction of a pipeline and in respect of which notification the Commission provides a certificate to the Board, after having made such inquiries, if any, as the Commission thinks appropriate, stating that the notification demonstrates a bona fide intention on the part of the Board to make such an application, or
+
+(*b*) in the case of an upstream pipeline, the Board has notified the Minister for the Marine and Natural Resources in writing of its intention to make an application for that Minister's consent under section 40(1) in relation to the construction of a pipeline and in respect of which notification, that Minister provides a certificate to the Board, after having made such inquiries, if any, as that Minister thinks appropriate, stating that the notification demonstrates a bona fide intention on the part of the Board to make such an application.]
+
+(2) An authorised person entering on land under this section may do thereon all things ancillary to or reasonably necessary for the purpose for which the entry is made, and without prejudice to the foregoing he may in particular do, or cause to be done, any of the following, namely, line sight, drill, bore, probe or excavate, or carry out soil tests and, if necessary, remove soil.
+
+(3) Before an authorised person enters under subsection (1) of this section on any land, he shall either obtain the consent, in the case of occupied land, of the occupier, or, in the case of unoccupied land, of the owner, or shall give to the owner or occupier, as the case may be, not less than fourteen days' notice in writing of his intention to make the entry.
+
+(4) A person to whom a notice of intention to enter on land has been given under this section by an authorised person may, not later than fourteen days after the giving of such notice, apply, on notice to such authorised person, to the Justice of the District Court having jurisdiction in the district court district in which the land is situate for an order prohibiting the entry, and, upon the hearing of the application, the Justice may, if he so thinks proper, either wholly prohibit the entry or specify conditions to be observed by the authorised person making the entry.
+
+(5) Where a Justice of the District Court prohibits under this section a proposed entry on land, it shall not be lawful for any person to enter under subsection (1) of this section on the land, and where a Justice of the District Court specifies under this section conditions to be observed by persons entering on land, every person who enters land under the said subsection (1) shall observe the conditions so specified.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F132, F133: Substituted (10.07.2000) by *Gas (Amendment) Act 2000* (26/2000), s. 20(4)(a), (b), commenced on enactment.
+>
+> F134: Inserted (10.07.2000) by *Gas (Amendment) Act 2000* (26/2000), s. 20(4)(c), commenced on enactment.
+>
+> F135: Substituted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 23(d)(i), commenced on enactment.
+>
+> F136: Inserted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 23(d)(ii), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C20: Application of section, other than subs. (1A), extended with modifications (10.07.2000) by *Gas (Amendment) Act 2000* (26/2000), s. 20(1)-(3), commenced on enactment; as amended (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 23(6)(b)(i)-(iii), commenced on enactment.
+>
+> **Conferral of powers of compulsory acquisition, etc. under Principal Act on certain persons.**
+>
+> **20.**— (1) In this section, “relevant person” means—
+>
+> **[**(*a*) save to the extent that this section has application to section 26 of the Principal Act, a person—
+>
+> (i) in respect of whom the Minister has, prior to the appointed day (within the meaning of section 2 of the Gas (Interim) (Regulation) Act, 2002), imposed a requirement under section 40(2) of the Principal Act,
+>
+> (ii) who, prior to the aforementioned day, has obtained the consent of the Minister under section 40(1) of the Principal Act,
+>
+> (iii) who, from the aforementioned day, has obtained the consent of the Commission under section 39A(1) of the Principal Act, or
+>
+> (iv) who, from the aforementioned day, has obtained the consent of the Minister for the Marine and Natural Resources under section 40(1) of the Principal Act,
+>
+> in relation to the construction, or construction and operation of a pipeline, as the case may be,**]**
+>
+> **[**(b) to the extent that this section has application to the said section 26, a person—
+>
+> (i) who, prior to the aforementioned day, has notified the Minister in writing of his or her intention to give a notice or make an application for the Minister's consent under section 40(1) of the Principal Act in relation to the construction of a pipeline and in respect of which notification the Minister provides a certificate to the person, after having made such enquiries, if any, as the Minister thinks appropriate, stating that the notification demonstrates a bona fide intention on the part of that person to give such a notice or make such an application,
+>
+> (ii) who, from the aforementioned day, has notified the Commission in writing of his or her intention to make an application for the Commission's consent under section 39A(1) of the Principal Act in relation to the construction of a pipeline and in respect of which notification the Commission provides a certificate to the person, after having made such enquiries, if any, as the Commission thinks appropriate, stating that the notification demonstrates a bona fide intention on the part of that person to give such a notice or make such an application, or
+>
+> (iii) who, from the aforementioned day, has notified the Minister for the Marine and Natural Resources in writing of his or her intention to make an application for the consent of the Minister for the Marine and Natural Resources under section 40(1) of the Principal Act in relation to the construction of a pipeline and in respect of which notification the Minister for the Marine and Natural Resources provides a certificate to the person, after having made such enquiries, if any, as the Minister for the Marine and Natural Resources thinks appropriate, stating that the notification demonstrates a bona fide intention on the part of that person to give such a notice or make such an application.**]**
+>
+> (2) The powers conferred by the provisions of the Principal Act referred to in subsection (3) shall, in addition to being exercisable by the Board, be exercisable by a relevant person and those provisions **[**, other than section 26(1A),**]** shall otherwise apply to such a person as they apply to the Board and, accordingly, on and from the passing of this Act, each reference in those provisions to the Board shall be construed as including a reference to a relevant person.
+>
+> (3) The provisions of the Principal Act mentioned in subsection (2) are: sections 26, 27 and 31, section 32 (other than subsection (1) or subsection (1A) (inserted by this section)), section 33 and the Second Schedule.
+>
+> **Editorial Notes:**
+>
+> E86: Previous affecting provision: application of section extended (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 38(2)(a)(iii), in effect as per regs. 1(2), 12; revoked (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 29(1)(d). Note: notice in accordance with *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 12 appears not to have been published.
+
+### 27. Powers of Board in relation to the construction, maintenance and repair of pipelines.
+
+**27.** — (1) Subject to F137[section 39A(4) of this Act] and to the following subsections of this section, for the purpose of constructing, maintaining or repairing any pipeline (whether or not the pipeline is the property of the Board) the Board may do all or any of the following, namely—
+
+(*a*) alter, repair or demolish any building or part thereof,
+
+(*b*) alter, repair, remove or demolish any fence, hedge, tree or wall,
+
+(*c*) in case any part of a pipeline is below the surface of land, place on the land markers to indicate the presence of the pipeline beneath the surface of the land,
+
+(*d*) dig, break or otherwise temporarily close, cross, extend, divert or otherwise interfere with or alter any road, railway, navigable waterway, river, stream or other watercourse, bridge, tunnel, culvert, pipe, drain or other thing,
+
+provided that in relation to a fence, hedge, tree, wall or building which is adjacent to a public road, or the placing by the Board of a marker on or adjacent to such a road, the Board shall only exercise a power under this subsection with the consent of the road authority concerned, and in case there is a dispute as to whether a particular fence, hedge, tree, wall or building is adjacent to a public road, or as to whether a marker will when placed be in or adjacent to such a road, the matter shall be referred by the Board to the Minister to determine and his decision shall be final.
+
+(2) The Board shall not, in relation to a thing owned by F139[...] a road authority, a person specified or described in F138[section 39A(6) of this Act] or the Minister or any other Minister of State, exercise a power mentioned in subsection (1) of this section except with the consent of F140[...] road authority, person or Minister of State concerned and in giving such consent F141[...] authority, person or Minister may attach thereto such reasonable conditions as it or he thinks fit and in addition to the foregoing,
+
+(*a*) the Board shall not enter on or take possession of any dwellinghouse in exercise of such a power without giving the occupier thereof three months' previous notice in writing of its intention so to do, and
+
+(*b*) the Board shall not so enter on or take possession of any land, other than a dwellinghouse, without giving the occupier thereof one month's previous notice in writing of its intention so to do.
+
+(3) Subject to section 33 of this Act, the Board or their servants or agents or any contractor employed by the Board or any workman employed by such contractor may, with or without vehicles, machinery or other apparatus or equipment, for the purpose of,
+
+(*a*) gaining access to the site of a pipeline which is constructed or which is in the course of construction or is to be constructed by the Board,
+
+(*b*) gaining access to a pipeline (whether or not the pipeline is the property of the Board) in order to inspect, repair, maintain or replace it,
+
+enter on land at any reasonable time, or, in the case of an emergency, at any time.
+
+(4) (*a*) Subject to paragraphs (*b*) and (*c*) of this subsection, to subsection (1) of this section, and to section 33 of this Act, the Board may for any purpose mentioned in subsection (3) of this section construct on or over any land a bridge, road or pathway of any description, and when constructed by the Board, use and maintain such bridge, road or pathway.
+
+(*b*) Before exercising a power to construct under this subsection the Board shall obtain the consent of the local authority within whose functional area the proposed road or pathway or bridge, or any part thereof, is proposed to be situate.
+
+(*c*) Where the Board proposes to construct under this subsection a bridge, road or pathway on any land which belongs to the Commission or otherwise belongs to the State or is vested in a Minister of State, before exercising any of their powers in relation to the provision of the bridge, road or pathway, the Board shall first obtain the consent of—
+
+(i) F142[...]
+
+(ii) in case the land otherwise belongs to the State, the Minister for Finance, and
+
+(iii) in case the land is vested in a Minister of State, that Minister,
+
+and the requirements of this paragraph are in addition to and not in substitution for the requirements of paragraph (*b*) of this subsection.
+
+(5) A person entering on land under this section may do thereon all things ancillary to or reasonably necessary for the purpose for which the entry is made, and without prejudice to the foregoing such person may in particular do, or cause to be done, any of the following, namely, line sight, drill, bore, probe or excavate, or carry out soil tests and, if necessary, remove soil.
+
+F143[(6) In this section “road authority” means a local authority;]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F137, F138: Substituted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 23(1)(e)(i), (ii)(l), commenced on enactment.
+>
+> F139, F140, F141, F142: Deleted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 23(1)(e)(ii)(ll), (iii), commenced on enactment.
+>
+> F143: Substituted (1.06.2014) by *Local Government Reform Act 2014* (1/2014), s. 5(8) and sch. 2 part 6, S.I. No. 214 of 2014.
+>
+> **Modifications (not altering text):**
+>
+> C21: Functions transferred and references to “Department of Finance” and “Minister for Finance” in subs. (4) construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of—
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 30 of 1976</td><td>Gas Act 1976</td><td>Sections 7C, 7E, 7G, 8, 11(1)(a) and (b), 15, 21, 27(4) and 33(2)(a); Second Schedule, paragraphs 5 and 11(f)(i)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> C22: Functions transferred and references construed (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 7(1), (2), (7) and sch., commenced on enactment, subject to transitional provisions in subss. (3)-(6).
+>
+> **Transfer of functions from Minister to Commission.**
+>
+> **7.**—(1) The administration and business in connection with the exercise, performance or execution of any of the functions transferred by subsection (2) are transferred on the appointed day to the Commission.
+>
+> (2) The functions vested in the Minister by or under each of the provisions mentioned in column (3) of the Schedule to this Act of the enactments mentioned in column (2) opposite the mention of that provision are transferred to the Commission on the appointed day.
+>
+> ...
+>
+> (7) References to the Minister in an Act or an instrument (including a licence granted or consent given thereunder) relating to any functions transferred by this Act to the Commission shall be construed, on and after the appointed day, as references to the Commission.
+>
+> ...
+>
+> SCHEDULE
+>
+> Section 7.
+>
+> Functions under Acts transferred from Minister to Commission
+>
+> <table><tr><td>Number and Uear</td><td>Short Title</td><td>Section</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>No. 30 of 1976</td><td>Gas Act 1976</td><td>Section 27 (insofar as the functions relate to the provision of distribution and transmission pipelines)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> ...
+>
+> C23: Certain functions transferred and references to “Department of Public Enterprise” and “Minister for Public Enterprise” construed (27.07.2001) by *Petroleum and Offshore Exploration (Transfer of Departmental Administration and Ministerial Functions) Order 2001* (S.I. No. 389 of 2001), arts. 3, 4 and table, subject to transitional provisions in arts. 5-7.
+>
+> Note that the Department of the Marine and Natural Resources was most recently renamed as Communications, Climate Action and Environment (23.07.2016) *by Communications, Energy and Natural Resources (Alteration of Name of Department and Title of Minister) Order 2016* (S.I. No. 421 of 2016), in effect as per art. 1(2).
+>
+> 3\. The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 4 of this Order are transferred to the Department of the Marine and Natural Resources.
+>
+> 4\. (1) The functions vested in the Minister for Public Enterprise (being the title of that Minister by virtue of the Transport, Energy and Communications (Alteration of Name of Department and Title of Minister) Order, 1997 (S.I. No. 299 of 1997)) by virtue of the Energy (Transfer of Departmental Administration and Ministerial Functions) (No. 2) Order, 1993 (S.I. No. 12 of 1993), by or under the provisions of the Gas Act, 1976 (No. 30 of 1976), as amended, which are set out in column (1) of the Table to this article are hereby transferred to the Minister for the Marine and Natural Resources to the extent specified in column (2) of that Table opposite the mention of the section in the said column (1).
+>
+> (2) References to the Minister for Public Enterprise and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for the Marine and Natural Resources.
+>
+> <table><tr><td>Column 1</td><td>Column 2</td></tr><tr><td>Provisions</td><td>Extent of transfer</td></tr><tr><td>Sections 4, 6, 8, 27, 31, 32, 40A and Second Schedule</td><td>In so far as they relate to any upstream pipeline network</td></tr><tr><td>Section 40</td><td>In so far as it is not already transferred by the Petroleum and Offshore Exploration (Transfer of Departmental Administration and Ministerial Functions) Order, 2000 (S.I. No. 110 of 2000), and to the extent that it relates to any upstream pipeline network.</td></tr></table>
+>
+> C24: Application of section, other than subs. (1A), extended with modifications (10.07.2000) by *Gas (Amendment) Act 2000* (26/2000), s. 20(1)-(3), commenced on enactment; as amended (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 23(6)(b)(i)-(iii), commenced on enactment.
+>
+> **Conferral of powers of compulsory acquisition, etc. under Principal Act on certain persons.**
+>
+> **20.**— (1) In this section, “relevant person” means—
+>
+> **[**(*a*) save to the extent that this section has application to section 26 of the Principal Act, a person—
+>
+> (i) in respect of whom the Minister has, prior to the appointed day (within the meaning of section 2 of the Gas (Interim) (Regulation) Act, 2002), imposed a requirement under section 40(2) of the Principal Act,
+>
+> (ii) who, prior to the aforementioned day, has obtained the consent of the Minister under section 40(1) of the Principal Act,
+>
+> (iii) who, from the aforementioned day, has obtained the consent of the Commission under section 39A(1) of the Principal Act, or
+>
+> (iv) who, from the aforementioned day, has obtained the consent of the Minister for the Marine and Natural Resources under section 40(1) of the Principal Act,
+>
+> in relation to the construction, or construction and operation of a pipeline, as the case may be,**]**
+>
+> ...
+>
+> (2) The powers conferred by the provisions of the Principal Act referred to in subsection (3) shall, in addition to being exercisable by the Board, be exercisable by a relevant person and those provisions **[**, other than section 26(1A),**]** shall otherwise apply to such a person as they apply to the Board and, accordingly, on and from the passing of this Act, each reference in those provisions to the Board shall be construed as including a reference to a relevant person.
+>
+> (3) The provisions of the Principal Act mentioned in subsection (2) are: sections 26, 27 and 31, section 32 (other than subsection (1) or subsection (1A) (inserted by this section)), section 33 and the Second Schedule.
+>
+> **Editorial Notes:**
+>
+> E87: Previous affecting provision: references to the "Board" construed as referring to the "ITO" (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 38(2)(a)(iv), in effect as per regs. 1(2) and 12; revoked (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 29(1)(d). Note: notice in accordance with *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 12 appears not to have been published.
+>
+> E88: Previous affecting provision: subs. (1) amended (10.07.2000) by *Gas (Amendment) Act 2000* (26/2000), s. 21(1), commenced on enactment; subsection further amended (10.04.2002) as per F-note above.
+
+### 28. Restriction on compulsory acquisition etc. of land held by Board and certain rights over or in respect of land.
+
+**28.** — Notwithstanding anything contained in any enactment other than this Act, a person (other than the Minister) shall not, without the previous consent of the Minister, acquire compulsorily any land held by the Board or acquire, terminate, restrict or otherwise interfere with compulsorily or alienate, without the consent of the Board, any easement, wayleave or other right whatsoever over or in respect of any such land or interfere with compulsorily any easement, wayleave or other right whatsoever of the Board over or in respect of land.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E89: Previous affecting provision: references to the "Board" construed as including the ITO (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 38(2)(a)(v), in effect as per regs. 1(2) and 12; revoked (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 29(1)(d). Note: notice in accordance with *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 12 appears not to have been published.
+
+### 29. Disposal etc. by Board of mineral rights restricted.
+
+**29.** — F144[(1) Notwithstanding anything otherwise contained in this Act, the Board shall sell, let, lease or demise or otherwise dispose of or grant a licence or right in respect of any right of working minerals which is vested in the Board (whether exclusive of any other person or otherwise) only with the consent of the majority-shareholding Minister given (where the majority-shareholding Minister is not the Minister for Finance, with the approval of the Minister for Finance) after having consulted with the Minister, the Minister for Public Expenditure and Reform and any other Minister of the Government who, in the opinion of the majority-shareholding Minister having regard to the functions of that other Minister, ought to be consulted.]
+
+(2) In this section “working” and “minerals” have the same meanings as they have in section 2 and section 3, respectively, of the Minerals Development Act, 1940.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F144: Substituted (23.11.2015) by *Gas Regulation Act 2013* (39/2013), s. 32(m), S.I. No. 520 of 2015.
+>
+> F145: Repealed by *Minerals Development Act 2017* (23/2017), s. 245(a), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C25: Prospective affecting provision: section repealed by *Minerals Development Act 2017* (23/2017), s. 245(a), not commenced as of date of revision.
+>
+> **29.** — F145[...]
+>
+> **Editorial Notes:**
+>
+> E90: Previous affecting provision: references to the "Board" construed as including the ITO (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 38(2)(a)(v), in effect as per regs. 1(2) and 12; revoked (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 29(1)(d). Note: notice in accordance with *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 12 appears not to have been published.
+
+### 30. Board may make certain bye-laws.
+
+**30.** — (1) The Board may make bye-laws for the protection and safety of the Board's system for the transmission and distribution of gas or any part of such system, including in particular any pipeline, pressure-reducing station, off-take station or terminal.
+
+(2) A bye-law made by the Board under this section shall be submitted to the Minister for his approval.
+
+(3) Whenever the Board submits a bye-law for approval by the Minister, the following provisions shall have effect:
+
+(*a*) the Board shall, as soon as conveniently may be after the submission, publish a notice of the submission at least once in each of two successive weeks in three newspapers (of which at least one shall be a morning daily newspaper) circulating in the area in which the system or part of the system to which it is intended the bye-law will apply is situate;
+
+(*b*) the notice shall include a statement of the purposes for which the bye-law is made, an intimation that a copy of the bye-law is open for public inspection at the principal office of the Board and that any person may submit to the Minister objections to the approval of the bye-law at any time during the period of sixty days commencing on the date of the first publication of the notice;
+
+(*c*) the Board shall, during the said period of sixty days, keep a copy of the bye-law open for public inspection during ordinary office hours at the principal office of the Board;
+
+(*d*) any person who objects to the approval of the bye-law may submit his objections to the Minister in writing at any time during the said period of sixty days;
+
+(*e*) the Minister shall, as he may think proper, refuse to approve of the bye-law or approve thereof without modifications or make such modifications therein as he may think proper and approve of the bye-law as so modified, but in case he approves of the bye-law (whether with or without modification), he shall not so approve until the expiration of the said period of sixty days and shall consider all objections to the approval of the bye-law submitted to him during that period;
+
+(*f*) if approved of by the Minister, the bye-law, as so approved of, shall come into force forthwith.
+
+(4) A document which purports to be a copy of bye-laws made under this section, and which has endorsed thereon a certificate (purporting to be signed by an officer of the Board) stating that the document is a true copy of the bye-laws and that the bye-laws were in force on a specified date, shall, without proof of the signature of such officer or that he was in fact such officer, be received as evidence in every court and in all legal proceedings of the bye-laws and of the fact that they were in force on that date.
+
+(5) A person who contravenes a bye-law made under this section shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding F146[€600].
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F146: Substituted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 23(1)(f), commenced on enactment. A fine of €600 translates into a class D fine not greater than €1,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 7(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E91: Previous affecting provision: references to the "Board" construed as referring to the "ITO" (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 38(2)(a)(iv), in effect as per regs. 1(2) and 12; revoked (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 29(1)(d). Note: notice in accordance with *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 12 appears not to have been published.
+
+## PART III — Deviations, Acquisition Orders and Compensation
+
+### 31. Deviations.
+
+**31.** — (1) Where deviation limits are confirmed by the Minister pursuant to Article 9 of the Second Schedule to this Act, in providing the relevant pipeline it shall be lawful for the Board in any place situate within those deviation limits, as so confirmed, without notice,
+
+(*a*) to construct the pipeline, or
+
+(*b*) to do anything reasonably necessary for or ancillary or incidental to such construction (whether or not the relevant pipeline is being constructed within such deviation limits) and when constructed to maintain, repair or replace such pipeline and do anything reasonably necessary for or ancillary or incidental to such maintaining, repairing or replacing;
+
+provided that either the owner of the land in, on or over which the pipeline is constructed or the thing is done has been served with a notice under Article 3 (2) of the said Second Schedule, or a permission under this section has been obtained by the Board which relates to the land.
+
+(2) In case the Board proposes to exercise its powers under subsection (1) of this section as regards land and the owner thereof has not been served with a notice under Article 3 (2) of the Second Schedule to this Act, the Board may apply in writing to the Minister for a permission under this section and in case the name and address of the person who is such owner can be ascertained by reasonable inquiry, the Board shall serve on the person a notice stating—
+
+(*a*) that the Board has made an application to the Minister to exercise its powers under *subsection (1)* of this section as regards the land,
+
+(*b*) that objections and representations can be made to the Minister regarding the proposal (which representations and objections are hereby authorised to be made),
+
+(*c*) that such objections or representations may be made within the period of three weeks commencing on the date of the notice,
+
+(*d*) that copies of the relevant documents deposited pursuant to the said *Second Schedule* with the Minister may be inspected at any reasonable hour during the said period, and
+
+(*e*) the place or places at which such documents may be so inspected.
+
+(3) Where an application for a permission is made under this section to the Minister and the Minister is of opinion, having regard to any representations and any objection duly made under this section and not withdrawn, that the application should be allowed, and in case a notice under subsection (2) of this section has not been served, that the name and address of the person who is the owner of the land concerned cannot be ascertained by the Board by reasonable inquiry, the Minister may grant a permission under this section and the permission shall operate—
+
+(*a*) to permit the Board without notice—
+
+(i) to construct a pipeline,
+
+(ii) to do anything reasonably necessary for or ancillary or incidental to such construction (whether or not the relevant pipeline is being constructed in, on or over such land),
+
+and when constructed to maintain, repair or replace such pipeline and to do anything reasonably necessary for or ancillary or incidental to such maintaining, repairing or replacing in, on or over the land to which the application relates, and
+
+(*b*) if need be, to grant to the Board for such pipeline a wayleave in, on or over such land.
+
+(4) As regards an application for a permission under this section, a person on whom a notice is served under this section may at any reasonable hour during the period specified in the notice inspect, or cause to be inspected on his behalf, any document which is a document referred to in subsection (2) (*d*) of this section.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C26: Certain functions transferred by *Planning and Development Act 2000* (30/2000), s. 215A, as inserted (31.01.2007) by *Planning and Development (Strategic Infrastructure) Act 2006* (27/2006), s. 37, S.I. No. 684 of 2006.
+>
+> **[Transfer of certain Ministerial functions under Gas Act 1976 to Board.**
+>
+> **215A.**— (1) The functions of—
+>
+> (*a*) the Minister for Communications, Marine and Natural Resources,
+>
+> (*b*) any other Minister of the Government, or
+>
+> (*c*) the Commission for Energy Regulation,
+>
+> under sections 31 and 32 of, and the Second Schedule to, the Gas Act 1976, as amended, in relation to the compulsory acquisition of land in respect of a strategic gas infrastructure development are transferred to, and vested in, the Board, and relevant references in that Act to the Minister for Communications, Marine and Natural Resources, any other Minister of the Government or the Commission for Energy Regulation shall be construed as references to the Board and any connected references shall be construed accordingly.
+>
+> (2) The transfer of the functions of the Minister for Communications, Marine and Natural Resources, any other Minister of the Government or the Commission for Energy Regulation to the Board in relation to the compulsory acquisition of land in accordance with subsection (1) shall include the transfer of all necessary ancillary powers in relation to deviation limits, substrata of land, easements, rights over land (including wayleaves and public rights of way), rights of access to land, the revocation or modification of planning permissions or other such functions as may be necessary in order to ensure that the Board can fully carry out its functions in relation to the enactments referred to in subsection (1).
+>
+> (3) Article 5 of the Second Schedule to the Gas Act 1976 shall not apply in respect of the function of compulsory acquisition transferred to the Board under subsection (1).**]**
+>
+> C27: Functions transferred and references construed (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 7(1), (2), (7) and sch., commenced on enactment, subject to transitional provisions in subss. (3)-(6).
+>
+> **Transfer of functions from Minister to Commission.**
+>
+> **7.**—(1) The administration and business in connection with the exercise, performance or execution of any of the functions transferred by subsection (2) are transferred on the appointed day to the Commission.
+>
+> (2) The functions vested in the Minister by or under each of the provisions mentioned in column (3) of the Schedule to this Act of the enactments mentioned in column (2) opposite the mention of that provision are transferred to the Commission on the appointed day.
+>
+> ...
+>
+> (7) References to the Minister in an Act or an instrument (including a licence granted or consent given thereunder) relating to any functions transferred by this Act to the Commission shall be construed, on and after the appointed day, as references to the Commission.
+>
+> ...
+>
+> SCHEDULE
+>
+> Section 7.
+>
+> Functions under Acts transferred from Minister to Commission
+>
+> <table><tr><td>Number and Uear</td><td>Short Title</td><td>Section</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>No. 30 of 1976</td><td>Gas Act 1976</td><td>...</td></tr><tr><td></td><td></td><td>Section 31 (insofar as the functions relate to the provision of distribution or transmission pipelines)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> ...
+>
+> C28: Certain functions transferred and references to “Department of Public Enterprise” and “Minister for Public Enterprise” construed (27.07.2001) by *Petroleum and Offshore Exploration (Transfer of Departmental Administration and Ministerial Functions) Order 2001* (S.I. No. 389 of 2001), arts. 3, 4 and table, subject to transitional provisions in arts. 5-7.
+>
+> Note that the Department of the Marine and Natural Resources was most recently renamed as Communications, Climate Action and Environment (23.07.2016) *by Communications, Energy and Natural Resources (Alteration of Name of Department and Title of Minister) Order 2016* (S.I. No. 421 of 2016), in effect as per art. 1(2).
+>
+> 3\. The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 4 of this Order are transferred to the Department of the Marine and Natural Resources.
+>
+> 4\. (1) The functions vested in the Minister for Public Enterprise (being the title of that Minister by virtue of the Transport, Energy and Communications (Alteration of Name of Department and Title of Minister) Order, 1997 (S.I. No. 299 of 1997)) by virtue of the Energy (Transfer of Departmental Administration and Ministerial Functions) (No. 2) Order, 1993 (S.I. No. 12 of 1993), by or under the provisions of the Gas Act, 1976 (No. 30 of 1976), as amended, which are set out in column (1) of the Table to this article are hereby transferred to the Minister for the Marine and Natural Resources to the extent specified in column (2) of that Table opposite the mention of the section in the said column (1).
+>
+> (2) References to the Minister for Public Enterprise and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for the Marine and Natural Resources.
+>
+> <table><tr><td>Column 1</td><td>Column 2</td></tr><tr><td>Provisions</td><td>Extent of transfer</td></tr><tr><td>Sections 4, 6, 8, 27, 31, 32, 40A and Second Schedule</td><td>In so far as they relate to any upstream pipeline network</td></tr><tr><td>Section 40</td><td>In so far as it is not already transferred by the Petroleum and Offshore Exploration (Transfer of Departmental Administration and Ministerial Functions) Order, 2000 (S.I. No. 110 of 2000), and to the extent that it relates to any upstream pipeline network.</td></tr></table>
+>
+> C29: Application of section, other than subs. (1A), extended with modifications (10.07.2000) by *Gas (Amendment) Act 2000* (26/2000), s. 20(1)-(3), commenced on enactment; as amended (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 23(6)(b)(i)-(iii), commenced on enactment.
+>
+> **Conferral of powers of compulsory acquisition, etc. under Principal Act on certain persons.**
+>
+> **20.**— (1) In this section, “relevant person” means—
+>
+> **[**(*a*) save to the extent that this section has application to section 26 of the Principal Act, a person—
+>
+> (i) in respect of whom the Minister has, prior to the appointed day (within the meaning of section 2 of the Gas (Interim) (Regulation) Act, 2002), imposed a requirement under section 40(2) of the Principal Act,
+>
+> (ii) who, prior to the aforementioned day, has obtained the consent of the Minister under section 40(1) of the Principal Act,
+>
+> (iii) who, from the aforementioned day, has obtained the consent of the Commission under section 39A(1) of the Principal Act, or
+>
+> (iv) who, from the aforementioned day, has obtained the consent of the Minister for the Marine and Natural Resources under section 40(1) of the Principal Act,
+>
+> in relation to the construction, or construction and operation of a pipeline, as the case may be,**]**
+>
+> ...
+>
+> (2) The powers conferred by the provisions of the Principal Act referred to in subsection (3) shall, in addition to being exercisable by the Board, be exercisable by a relevant person and those provisions **[**, other than section 26(1A),**]** shall otherwise apply to such a person as they apply to the Board and, accordingly, on and from the passing of this Act, each reference in those provisions to the Board shall be construed as including a reference to a relevant person.
+>
+> (3) The provisions of the Principal Act mentioned in subsection (2) are: sections 26, 27 and 31, section 32 (other than subsection (1) or subsection (1A) (inserted by this section)), section 33 and the Second Schedule.
+>
+> **Editorial Notes:**
+>
+> E92: Previous affecting provision: references to the "Board" construed as referring to the "ITO" (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 38(2)(a)(iv), in effect as per regs. 1(2) and 12; revoked (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 29(1)(d). Note: notice in accordance with *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 12 appears not to have been published.
+
+### 32. Acquisition order.
+
+**32.** — (1) The Board may apply to the Minister for an order under this section (which order is in this Act referred to as an “ acquisition order ”) to acquire compulsorily any land or right over land which,
+
+(*a*) is required by the Board for or in connection with the performance of any function of the Board,
+
+(*b*) is required in connection with the provision by a person, other than the Board, of a pipeline by means of which it is intended to supply natural gas to the Board,
+
+(*c*) is required in connection with the provision by the Board for another person of a pipeline by means of which it is intended to supply natural gas, otherwise than by the Board, only to that person,
+
+and, subject to the following provisions of this section the Minister may make an acquisition order in relation to the land or right over land.
+
+F147[(1A) (*a*) A person may apply to the appropriate Minister of the Government for an order under this section (which order is in this Act also referred to as an "acquisition order") to acquire compulsorily any land or right over land which is required by such person in connection with the construction or operation of a pipeline for which such person applies or has applied for a consent under section 39A or 40 of this Act, as the case may be, and, subject to the following provisions of this section, the appropriate Minister of the Government may make an acquisition order in relation to the land or right over the land.
+
+(*b*) In this subsection “appropriate Minister of the Government” means—
+
+(i) in the case of an upstream pipeline, the Minister for the Marine and Natural Resources, and
+
+(ii) in any other case, the Minister.]
+
+(2) The provisions of the Second Schedule to this Act shall have effect as regards an acquisition order and any application for such an order.
+
+(3) Before making an acquisition order the Minister shall consult the F148[Minister for Agriculture, Food and Rural Development] and also such other Minister of State, if any, as appears to him to be concerned.
+
+(4) Where the Minister makes an acquisition order the following provisions shall have effect:
+
+(*a*) in case the order is made in relation to land to be acquired by the Board, subject to such restrictions and other terms and conditions (if any) as the Minister specifies pursuant to Article 8 of the Second Schedule to this Act, the order shall without further assurance vest in the Board the estate or interest specified in the order in such land free from all rights (including any public right other than a public right of way) charges, burdens or other incumbrances or interests and from the claims of all persons who are interested in the said estate or interest in the land, whether in respect of incumbrances or interests therein or otherwise howsoever, other than—
+
+(i) in case the land is subject to a State annuity and is vested by the order in the Board in fee simple, that State annuity,
+
+(ii) such burdens (if any) as are specified in the order,
+
+(*b*) in case the order is made in relation to a right over land other than a public right of way, the order shall, subject to such restrictions and provisions (if any) as the Minister so specifies, operate to grant or transfer to the Board the right, or interest in such a right, specified in the order, free from all claims and all other rights of any persons who are interested in that interest,
+
+(*c*) in case the order is made in relation to a public right of way, the order shall operate to extinguish the public right of way.
+
+(5) In addition to complying with the requirements of *subsection (3)* of this section, the Minister shall, before making an acquisition order, comply with the following requirements, namely;
+
+(*a*) in case an acquisition order is to provide for the acquisition by the Board of land held by a local authority, a railway undertaker other than Córas Iompair Éireann, a gas undertaker other than the Board, a harbour authority, or an electricity undertaker other than the Electricity Supply Board, the order shall be so made only if the Minister is satisfied that the making of the order is in the public interest,
+
+(*b*) in case the order is to provide for the extinguishment of a public right of way, the order shall not be so made until the Minister has caused an oral hearing to be held concerning the proposed extinguishment and has considered any objections or representations to the proposed extinguishment duly made and not withdrawn and the report of the person who held the hearing.
+
+(6) Where an acquisition order vests land in the Board,
+
+(*a*) the order shall operate, as on and from the date thereof, to transfer and attach to the amount paid by the Board to a person as compensation all estates, trusts and incumbrances subsisting in respect of the interest of the person in the land immediately before the date of the order, and
+
+(*b*) the said amount shall as respects any rights or claims existing immediately before the date of the order, to or against the said interest, represent that interest for all purposes.
+
+(7) Where land the ownership of which is registered under the Registration of Title Act, 1964, becomes vested in the Board in fee simple by virtue of an acquisition order, the registering authority under that Act shall, upon production of a copy of the order under the official seal of the Minister, register the Board in the appropriate register maintained under that Act as owner (within the meaning of that Act) of the land and the authority shall in addition cause such other alterations (if any) to be made in the appropriate such register as are appropriate having regard to the terms of the order.
+
+(8) An acquisition order shall have attached thereto a map or plan showing the land to which the order relates (which map or plan, when so attached, shall form part of the order).
+
+(9) The Minister may by order amend an acquisition order and any references to an acquisition order in this section, apart from this subsection, or in the Second Schedule to this Act shall be construed as including references to an order under this subsection.
+
+(10) In this section “ pipeline ” includes a pipeline terminal.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F147, F148: Substituted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 23(1)(g)(i), (ii), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C30: Certain functions transferred by *Planning and Development Act 2000* (30/2000), s. 215A, as inserted (31.01.2007) by *Planning and Development (Strategic Infrastructure) Act 2006* (27/2006), s. 37, S.I. No. 684 of 2006.
+>
+> **[Transfer of certain Ministerial functions under Gas Act 1976 to Board.**
+>
+> **215A.**— (1) The functions of—
+>
+> (*a*) the Minister for Communications, Marine and Natural Resources,
+>
+> (*b*) any other Minister of the Government, or
+>
+> (*c*) the Commission for Energy Regulation,
+>
+> under sections 31 and 32 of, and the Second Schedule to, the Gas Act 1976, as amended, in relation to the compulsory acquisition of land in respect of a strategic gas infrastructure development are transferred to, and vested in, the Board, and relevant references in that Act to the Minister for Communications, Marine and Natural Resources, any other Minister of the Government or the Commission for Energy Regulation shall be construed as references to the Board and any connected references shall be construed accordingly.
+>
+> (2) The transfer of the functions of the Minister for Communications, Marine and Natural Resources, any other Minister of the Government or the Commission for Energy Regulation to the Board in relation to the compulsory acquisition of land in accordance with subsection (1) shall include the transfer of all necessary ancillary powers in relation to deviation limits, substrata of land, easements, rights over land (including wayleaves and public rights of way), rights of access to land, the revocation or modification of planning permissions or other such functions as may be necessary in order to ensure that the Board can fully carry out its functions in relation to the enactments referred to in subsection (1).
+>
+> (3) Article 5 of the Second Schedule to the Gas Act 1976 shall not apply in respect of the function of compulsory acquisition transferred to the Board under subsection (1).**]**
+>
+> C31: Functions transferred and references construed (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 7(1), (2), (7) and sch., commenced on enactment, subject to transitional provisions in subss. (3)-(6).
+>
+> **Transfer of functions from Minister to Commission.**
+>
+> **7.**—(1) The administration and business in connection with the exercise, performance or execution of any of the functions transferred by subsection (2) are transferred on the appointed day to the Commission.
+>
+> (2) The functions vested in the Minister by or under each of the provisions mentioned in column (3) of the Schedule to this Act of the enactments mentioned in column (2) opposite the mention of that provision are transferred to the Commission on the appointed day.
+>
+> ...
+>
+> (7) References to the Minister in an Act or an instrument (including a licence granted or consent given thereunder) relating to any functions transferred by this Act to the Commission shall be construed, on and after the appointed day, as references to the Commission.
+>
+> ...
+>
+> SCHEDULE
+>
+> Section 7.
+>
+> Functions under Acts transferred from Minister to Commission
+>
+> <table><tr><td>Number and Uear</td><td>Short Title</td><td>Section</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>No. 30 of 1976</td><td>Gas Act 1976</td><td>...</td></tr><tr><td></td><td></td><td>Section 32 (insofar as the functions relate to the provision of distribution or transmission pipelines)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> ...
+>
+> C32: Certain functions transferred and references to “Department of Public Enterprise” and “Minister for Public Enterprise” construed (27.07.2001) by *Petroleum and Offshore Exploration (Transfer of Departmental Administration and Ministerial Functions) Order 2001* (S.I. No. 389 of 2001), arts. 3, 4 and table, subject to transitional provisions in arts. 5-7.
+>
+> Note that the Department of the Marine and Natural Resources was most recently renamed as Communications, Climate Action and Environment (23.07.2016) *by Communications, Energy and Natural Resources (Alteration of Name of Department and Title of Minister) Order 2016* (S.I. No. 421 of 2016), in effect as per art. 1(2).
+>
+> 3\. The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 4 of this Order are transferred to the Department of the Marine and Natural Resources.
+>
+> 4\. (1) The functions vested in the Minister for Public Enterprise (being the title of that Minister by virtue of the Transport, Energy and Communications (Alteration of Name of Department and Title of Minister) Order, 1997 (S.I. No. 299 of 1997)) by virtue of the Energy (Transfer of Departmental Administration and Ministerial Functions) (No. 2) Order, 1993 (S.I. No. 12 of 1993), by or under the provisions of the Gas Act, 1976 (No. 30 of 1976), as amended, which are set out in column (1) of the Table to this article are hereby transferred to the Minister for the Marine and Natural Resources to the extent specified in column (2) of that Table opposite the mention of the section in the said column (1).
+>
+> (2) References to the Minister for Public Enterprise and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for the Marine and Natural Resources.
+>
+> <table><tr><td>Column 1</td><td>Column 2</td></tr><tr><td>Provisions</td><td>Extent of transfer</td></tr><tr><td>Sections 4, 6, 8, 27, 31, 32, 40A and Second Schedule</td><td>In so far as they relate to any upstream pipeline network</td></tr><tr><td>Section 40</td><td>In so far as it is not already transferred by the Petroleum and Offshore Exploration (Transfer of Departmental Administration and Ministerial Functions) Order, 2000 (S.I. No. 110 of 2000), and to the extent that it relates to any upstream pipeline network.</td></tr></table>
+>
+> C33: Application of section, other than subs. (1A), extended with modifications (10.07.2000) by *Gas (Amendment) Act 2000* (26/2000), s. 20(1)-(3), commenced on enactment; as amended (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 23(6)(b)(i)-(iii), commenced on enactment.
+>
+> **Conferral of powers of compulsory acquisition, etc. under Principal Act on certain persons.**
+>
+> **20.**— (1) In this section, “relevant person” means—
+>
+> **[**(*a*) save to the extent that this section has application to section 26 of the Principal Act, a person—
+>
+> (i) in respect of whom the Minister has, prior to the appointed day (within the meaning of section 2 of the Gas (Interim) (Regulation) Act, 2002), imposed a requirement under section 40(2) of the Principal Act,
+>
+> (ii) who, prior to the aforementioned day, has obtained the consent of the Minister under section 40(1) of the Principal Act,
+>
+> (iii) who, from the aforementioned day, has obtained the consent of the Commission under section 39A(1) of the Principal Act, or
+>
+> (iv) who, from the aforementioned day, has obtained the consent of the Minister for the Marine and Natural Resources under section 40(1) of the Principal Act,
+>
+> in relation to the construction, or construction and operation of a pipeline, as the case may be,**]**
+>
+> ...
+>
+> (2) The powers conferred by the provisions of the Principal Act referred to in subsection (3) shall, in addition to being exercisable by the Board, be exercisable by a relevant person and those provisions **[**, other than section 26(1A),**]** shall otherwise apply to such a person as they apply to the Board and, accordingly, on and from the passing of this Act, each reference in those provisions to the Board shall be construed as including a reference to a relevant person.
+>
+> (3) The provisions of the Principal Act mentioned in subsection (2) are: sections 26, 27 and 31, section 32 (other than subsection (1) or subsection (1A) (inserted by this section)), section 33 and the Second Schedule.
+>
+> **Editorial Notes:**
+>
+> E93: Previous affecting provision: references to the "Board" construed as referring to the "ITO" (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 38(2)(a)(iv), in effect as per regs. 1(2) and 12; revoked (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 29(1)(d). Note: notice in accordance with *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 12 appears not to have been published.
+>
+> E94: Previous affecting provision: subs. (1A) substituted (15.11.2001) by *European Communities (Internal Market in Natural Gas) (Compulsory Acquisition) Regulations 2001* (S.I. No. 517 of 2001), reg. 2; substituted (10.04.2002) as per F-note above.
+>
+> E95: Previous affecting provision: subs. (1A) inserted (10.07.2000) by *Gas (Amendment) Act 2000* (26/2000), s. 20(5), commenced on enactment; substituted (15.11.2001) as per E-note above.
+
+### 33. Compensation.
+
+**33.** — (1) Subject to subsection (3) of this section, the exercise of any power under section 26, 27, 31, 32 or 34 of this Act shall be subject to payment of compensation in respect of—
+
+(*a*) any right over land or other estate or interest in land or in a right over land, acquired by virtue of an acquisition order,
+
+(*b*) any diminution in the value of any right over land or other estate or interest of any person in any land, or in any right over land, by reason of the exercise of the power,
+
+(*c*) any other loss incurred or damage done by reason of such exercise,
+
+and subject to section 35 (5) of this Act, the compensation, together with any interest payable thereon by virtue of subsection (2) of this section, shall be paid by,
+
+(*d*) in case the power is exercised under the said section 34, the Company, and
+
+(*e*) in any other case, the Board.
+
+(2) (*a*) Subject to paragraph (*b*) of this subsection, where compensation is payable to a person under this section in respect of the exercise of a power under section 26, 27, 31 or 34 of this Act, there shall be paid in accordance with subsection (1) of this section interest on the amount of the compensation payable to the person, at such rate as shall be determined from time to time for the purposes of this section by the Minister for Finance, from the date on which,
+
+(i) in case the compensation is payable in respect of the exercise of a power under paragraph (*a*), (*b*) or (*d*) of section 27 (1), section 27 (3), paragraph (*a*) of section 27 (4), or section 31 of this Act, the power is exercised, or
+
+(ii) in any other case, the claim for compensation is made,
+
+until the payment of such compensation.
+
+(*b*) If—
+
+(i) the Board or the Company makes an unconditional offer in writing of any sum as compensation to a person to whom compensation is payable under this section, and
+
+(ii) the offer is not accepted by the person, and
+
+(iii) the sum awarded as compensation by the official arbitrator to such person does not exceed the sum so offered,
+
+no interest shall be payable on such compensation.
+
+(3) A claim under this section for payment of compensation shall, in default of agreement, be determined by arbitration under the Acquisition of Land (Assessment of Compensation) Act, 1919, as amended by any subsequent enactment, in like manner in all respects as if such claim arose in relation to compulsory acquisition of land, and for this purpose the Board or the Company, as may be appropriate, shall be deemed to be a public authority within the meaning of the said Act, and the reference in section 69 (1) of the Local Government (Planning and Development) Act, 1963, to a planning authority shall be construed as including a reference to the Board or to the Company, as may be appropriate.
+
+(4) A claim for compensation under this section shall be brought within—
+
+(*a*) in case the person entitled to the compensation is a minor or a person of unsound mind, a period of six years from the date when such person ceases to be under such disability or dies, whichever event first occurs, but not more than thirty years after the exercise of the relevant power under this Act,
+
+(*b*) in any other case, a period of six years from the date of the exercise of such power.
+
+(5) Subject to paragraph (*a*) and (*b*) of subsection (4) of this section, compensation under this section may be paid to the personal representative of a person entitled thereto.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C34: Functions transferred and references to “Department of Finance” and “Minister for Finance”in subs. (2)(a) construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of—
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 30 of 1976</td><td>Gas Act 1976</td><td>Sections 7C, 7E, 7G, 8, 11(1)(a) and (b), 15, 21, 27(4) and 33(2)(a); Second Schedule, paragraphs 5 and 11(f)(i)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> C35: Application of section, other than subs. (1A), extended with modifications (10.07.2000) by *Gas (Amendment) Act 2000* (26/2000), s. 20(1)-(3), commenced on enactment; as amended (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 23(6)(b)(i)-(iii), commenced on enactment.
+>
+> **Conferral of powers of compulsory acquisition, etc. under Principal Act on certain persons.**
+>
+> **20.**— (1) In this section, “relevant person” means—
+>
+> **[**(*a*) save to the extent that this section has application to section 26 of the Principal Act, a person—
+>
+> (i) in respect of whom the Minister has, prior to the appointed day (within the meaning of section 2 of the Gas (Interim) (Regulation) Act, 2002), imposed a requirement under section 40(2) of the Principal Act,
+>
+> (ii) who, prior to the aforementioned day, has obtained the consent of the Minister under section 40(1) of the Principal Act,
+>
+> (iii) who, from the aforementioned day, has obtained the consent of the Commission under section 39A(1) of the Principal Act, or
+>
+> (iv) who, from the aforementioned day, has obtained the consent of the Minister for the Marine and Natural Resources under section 40(1) of the Principal Act,
+>
+> in relation to the construction, or construction and operation of a pipeline, as the case may be,**]**
+>
+> ...
+>
+> (2) The powers conferred by the provisions of the Principal Act referred to in subsection (3) shall, in addition to being exercisable by the Board, be exercisable by a relevant person and those provisions **[**, other than section 26(1A),**]** shall otherwise apply to such a person as they apply to the Board and, accordingly, on and from the passing of this Act, each reference in those provisions to the Board shall be construed as including a reference to a relevant person.
+>
+> (3) The provisions of the Principal Act mentioned in subsection (2) are: sections 26, 27 and 31, section 32 (other than subsection (1) or subsection (1A) (inserted by this section)), section 33 and the Second Schedule.
+>
+> **Editorial Notes:**
+>
+> E96: Previous affecting provision: references to the "Board" construed as referring to the "ITO" (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 38(2)(a)(iv), in effect as per regs. 1(2) and 12; revoked (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 29(1)(d). Note: notice in accordance with *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 12 appears not to have been published.
+
+## PART IV — Bord Gáis Éireann Teoranta
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C36: Functions transferred and references to "Ervia" construed (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 11, S.I. No. 208 of 2024.
+>
+> **Transfer day**
+>
+> **6.** (1) The Minister shall by order appoint a day to be the transfer day for the purposes of this Act.
+>
+> (2) On and from the transfer day Ervia (in this Act referred to as the “dissolved body”) shall stand dissolved.
+>
+> ...
+>
+> **Transfer of functions**
+>
+> **11.** (1) On the transfer day, all functions that, immediately before the transfer day, were vested in the dissolved body shall stand vested in Gas Networks Ireland.
+>
+> (2) References in any enactment (other than this Act) or other document to the dissolved body, to the extent that such references relate to functions, assets, rights or liabilities that are vested in, or transferred to, Gas Networks Ireland by this Act shall, on and from the transfer day, be construed as references to Gas Networks Ireland.
+>
+> (3) The administration and business in connection with the performance of the functions vested in Gas Networks Ireland by virtue of subsection (1) are on the transfer day transferred to Gas Networks Ireland.
+>
+> (4) References in any enactment (other than this Act) to the dissolved body, to the extent that such references relate to the administration and business transferred by subsection (3) shall, on and from the transfer day, be construed as references to Gas Networks Ireland.
+>
+> **Editorial Notes:**
+>
+> E97: Previous affecting provision: references to "Bord Gáis Éireann" construed as references to "Ervia" (19.06.2014) by *ESB (Electronic Communications Networks) Act 2014* (5/2014), s. 8, S.I. No. 286 of 2014; superseded (1.06.2024) as per C-note above.
+
+### 34. Entry on land by Company.
+
+**34.** — (1) Any person appointed in writing by the Company to be an authorised person for the purposes of this section (which person is subsequently in this section referred to as an authorised person) may at any reasonable time during the period beginning on the passing of this Act and ending on the day preceding the establishment day enter on any land for any one or more of the following purposes, namely;
+
+(*a*) for inspecting and surveying the land and making thereon any inquiry, investigation or examination for the purpose of ascertaining whether or not the land, or a right over the land is suitable for acquisition for an object of the Company,
+
+(*b*) for inspecting and surveying the land and making thereon any investigation or examination preliminary or incidental to the acquisition for such object by the Company of the land or any right over the land,
+
+(*c*) for inspecting, maintaining or repairing, or gaining access to, any pipeline or ancillary apparatus, equipment or other thing owned by the Company.
+
+(2) An authorised person entering the land under this section shall have the powers which a person who is an authorised person for the purposes of section 26 of this Act has under subsection (2) of that section.
+
+(3) Subsections (3), (4) and (5) of section 26 of this Act shall apply in relation to entry on land under this section in the same manner as they apply to entry on land under the said section 26 and, for the purpose of giving effect to the foregoing,—
+
+(*a*) each of the references in those subsections to an authorised person shall be construed as including a reference to a person authorised for the purpose of this section, and
+
+(*b*) each of those subsections shall be construed subject to such other modifications as are requisite for the said purpose.
+
+### 35. Dissolution of Company and transfer of its property, etc.
+
+**35.** — (1) The Company shall, on the establishment day, become dissolved by virtue of this section.
+
+(2) All property, whether real or personal (including choses-in-action), which immediately before the establishment day was vested in or belonged to or was held in trust or subject to conditions for the Company and all rights, powers and privileges relating to or connected with any such property, shall on the establishment day, without any conveyance or assignment but subject where necessary to transfer in the books of any bank, corporation or company, become and be vested in or the property of or held in trust or subject to conditions for (as the case may require) the Board.
+
+(3) All property transferred by this section which immediately before the establishment day was standing in the books of any bank or was registered in the books of any bank, corporation or company in the name of the Company shall, upon the request of the Board made at any time on or after the establishment day, be transferred in those books by the Bank, corporation or company into the name of the Board.
+
+(4) Every chose-in-action transferred by this section may, on or after the establishment day, be sued upon, recovered, or enforced by the Board in its own name and it shall not be necessary for the Board to give notice to the person bound by any such chose-in-action of the transfer effected by this section.
+
+(5) Every debt and other liability (including a claim against the Company for compensation under section 33 of this Act and unliquidated liabilities arising from torts or breaches of contract) which immediately before the establishment day is owing and unpaid or has been incurred and is undischarged by the Company shall, on the establishment day, become and be the debt or liability of the Board and shall be paid or discharged by and may be recovered from and enforced against the Board accordingly.
+
+(6) Every contract which was entered into and is in force immediately before the establishment day between the Company and any person shall continue in force on and after the establishment day, but it shall be construed and have effect as if the Board were substituted therein for the Company and shall be enforceable by or against the Board accordingly.
+
+(7) Where, immediately before the establishment day, any legal proceedings are pending to which the Company is a party, the name of the Board shall be substituted for that of the Company and the proceedings shall not abate by reason of such substitution.
+
+(8) F149[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F149: Repealed (27.03.1998) by *Finance Act 1998* (3/1998), s. 125 and sch. 8, commenced on enactment.
+
+## PART V — Miscellaneous
+
+### 36. Minister for Industry and Commerce to consult Minister as regards certain applications to him under certain licences and leases.
+
+**36.** — Where pursuant to—
+
+(*a*) terms and conditions upon which an exploration licence is granted by the Minister for Industry and Commerce, or
+
+(*b*) conditions or a subsidiary agreement contained in a petroleum lease,
+
+the approval of the Minister for Industry and Commerce of plans for the development or exploitation of a deposit of natural gas is applied for, the Minister for Industry and Commerce shall, before determining the application, consult the Minister.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C37: Functions transferred and references construed (12.09.2000) by *Petroleum and Offshore Exploration (Transfer of Departmental Administration and Ministerial Functions) Order 2000* (S.I. No. 110 of 2000), arts. 3, 4, in effect as per art. 1(2), subject to transitional provisions in arts. 5-7. Note that the most recent name of the Department for the Marine and Natural Resources and its Minister is Environment, Climate and Communications as provided (24.09.2020) by *Communications, Climate Action and Environment (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 373 of 2020).
+>
+> 3\. The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 4 of this Order are transferred to the Department of the Marine and Natural Resources.
+>
+> 4\. (1) The functions vested, by virtue of the Energy (Transfer of Departmental, Administration and Ministerial Functions (No. 2) Order, 1993 ( S.I. No. 12 of 1993 ) in the Minister for Public Enterprise (being the title of that Minister by virtue of the Transport, Energy and Communications (Alteration of Name of Department and Title of Minister Order, 1997 ( S.I. No. 299 of 1997 )), by or under—
+>
+> (*a*) section 36 of the Gas Act, 1976 (No. 30 of 1976), and
+>
+> (*b*) in so far as it relates to any upstream pipeline network, section 40 of the Gas Act, 1976, as amended by section 3 (2) of the energy (Miscellaneous Provisions) Act, 1995 (No. 35 of 1995),
+>
+> are transferred by virtue of this Article to the Minister for the Marine and Natural Resources.
+>
+> (2) References to the Minister for Public Enterprise and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for the Marine and Natural Resources.
+>
+> ...
+
+### 37. Certain gas to be offered for sale to Board.
+
+**37.** — F150[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F150: Repealed (3.06.1998) by *Gas (Amendment) Act 1998* (17/1998), s. 1, commenced on enactment.
+
+### 38. Safety Regulations.
+
+**38.** — (1) The Minister may, after consultation with the Minister for Local Government and the Board, make such regulations as he thinks fit for the purpose of securing that the public and land or other property are, as far as is practicable, protected from injury, fire, explosion or other danger arising either from the transmission of natural or other gas by the Board or from the use of any such gas F151[transmitted or distributed] by the Board.
+
+(2) Any person who, whether by act or omission, contravenes or fails to comply with regulations under this section shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding F152[€2,000].
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F151: Substituted (23.11.2015) by *Gas Regulation Act 2013* (39/2013), s. 32(n), S.I. No. 520 of 2015.
+>
+> F152: Substituted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 23(1)(h), commenced on enactment. A fine of €2,000 translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E98: Previous affecting provision: references to the "Board" construed as including the ITO (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 38(2)(a)(v), in effect as per regs. 1(2) and 12; revoked (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 29(1)(d). Note: notice in accordance with *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 12 appears not to have been published.
+
+### 39. Extinguishment of public right of way.
+
+**39.** — (1) F153[A person, including the Board, who has been given a consent under this Act] may, with the approval of the Minister given after consultation with the Minister for Local Government, by order extinguish a public right of way, but an order made under this section shall be published in the manner specified in regulations made by the Minister and the Minister shall not approve the order unless—
+
+(*a*) he has caused an oral hearing to be held and has considered any objections to the order duly made within the period prescribed for the purposes of this subsection and not withdrawn and the report of the person who held the hearing, and
+
+(*b*) he is satisfied that the extinguishment is necessary for the construction, maintenance, repair, replacement or safety of a pipeline or pipeline terminal.
+
+(2) Subsection (1) of this section shall not apply to a public right of way over land acquired compulsorily by the Board F154[or any other person under this Act].
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F153: Substituted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 23(1)(i)(i), commenced on enactment.
+>
+> F154: Inserted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 23(1)(i)(ii), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C38: Functions transferred and references construed (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 7(1), (2), (7) and sch., commenced on enactment, subject to transitional provisions in subss. (3)-(6).
+>
+> **Transfer of functions from Minister to Commission.**
+>
+> **7.**—(1) The administration and business in connection with the exercise, performance or execution of any of the functions transferred by subsection (2) are transferred on the appointed day to the Commission.
+>
+> (2) The functions vested in the Minister by or under each of the provisions mentioned in column (3) of the Schedule to this Act of the enactments mentioned in column (2) opposite the mention of that provision are transferred to the Commission on the appointed day.
+>
+> ...
+>
+> (7) References to the Minister in an Act or an instrument (including a licence granted or consent given thereunder) relating to any functions transferred by this Act to the Commission shall be construed, on and after the appointed day, as references to the Commission.
+>
+> ...
+>
+> SCHEDULE
+>
+> Section 7.
+>
+> Functions under Acts transferred from Minister to Commission
+>
+> <table><tr><td>Number and Uear</td><td>Short Title</td><td>Section</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>No. 30 of 1976</td><td>Gas Act 1976</td><td>...</td></tr><tr><td></td><td></td><td>Section 39 (insofar as the functions relate to the provision of distribution or transmission pipelines)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E99: Previous affecting provision: references to the "Board" construed as referring to the "ITO" (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 38(2)(a)(iv), in effect as per regs. 1(2) and 12; revoked (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 29(1)(d). Note: notice in accordance with *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 12 appears not to have been published.
+
+### Construction of pipelines.
+
+F155[**39A.** — (1) Subject to section 12 (2) of the Gas (Interim) (Regulation) Act, 2002, a person, including the Board, shall not, without the consent of the Commission, construct a pipeline, other than an upstream pipeline, on, over or under the surface of land or of any sea bed that is situate in F156[the territorial sea of the State (within the meaning of the Maritime Jurisdiction Act 2021) or a designated area].
+
+(2) The Commission may revoke a consent given by it under subsection (1) of this section but such revocation shall not prejudice the validity of anything done previously pursuant to and in accordance with the consent.
+
+(3) Subject to subsection (5) of this section, any guidelines published by the Minister before the day appointed to be the appointed day under section 3 of the Gas (Interim) (Regulation) Act, 2002, are the procedures to be followed in giving consents under subsection (1) of this section.
+
+(4) Where the Commission gives its consent under subsection (1) of this section, it shall attach to the consent such conditions, with respect to the construction of the relevant pipeline as it considers appropriate, including conditions analogous to all or any of the requirements of subsection (6) of this section.
+
+(5) Without prejudice to the generality of subsection (4) of this section, the Commission may—
+
+(*a*) attach to a consent given under subsection (1) of this section for the construction by a person of a pipeline, a condition requiring to be observed, as regards the pipeline, specific codes and standards of safety and efficiency regarding the construction of pipelines, and
+
+(*b*) by regulations, set out the procedures in relation to the giving of a consent under subsection (1) of this section.
+
+(6) In case the holder of a consent given under subsection (1) of this section constructs a pipeline the holder shall take all reasonable measures to protect the natural environment and to avoid injuring the amenities of the area and, in particular, and without prejudice to the generality of the foregoing, the holder shall while constructing the pipeline take all reasonable steps to prevent injury to any building, site, flora, fauna, feature or other thing which is of particular architectural, historic, archaeological, geological or natural interest, and when selecting the route for the pipeline the holder shall have regard to any representations made to the holder as regards the route of such pipeline by any local authority within whose functional area a proposed route, or any part of such a route would, if the pipeline were constructed, be situate, or any of the following on, in or over whose land such route or part would in such circumstances be situate, namely—
+
+(*a*) a harbour authority (within the meaning of the Harbours Act, 1946),
+
+(*b*) a company (within the meaning of the Harbours Act, 1996),
+
+(*c*) the Electricity Supply Board or any other electricity undertaker,
+
+(*d*) Córas Iompair Éireann or any other railway undertaker, or
+
+(*e*) a natural gas undertaking (other than the holder).
+
+(7) Where the Commission attaches, under subsection (4) of this section, conditions to a consent given under subsection (1) of this section, the person constructing the relevant pipeline shall comply with those conditions.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F155: Inserted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 12(1)(a), commenced on enactment.
+>
+> F156: Substituted (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 20(3) and sch. 2, S.I. No. 601 of 2021.
+>
+> **Modifications (not altering text):**
+>
+> C39: Criteria for determination of an application for a consent under section prescribed (4.06.2002) by *Gas (Interim) (Regulation) Act 2002 (Criteria for Determination of Consents) Regulations 2002* (S.I. No. 264 of 2002), reg. 2; as amended (19.10.2012) by *European Union (Environmental Impact Assessment) (Gas) Regulations 2012* (S.I. No. 403 of 2012), reg. 3.
+>
+> 2\. The criteria in accordance with which an application for a consent given under section 39A(1) (inserted by section 12 (1)(a) of the Gas (Interim)(Regulation Act 2002 ) of the Gas Act 1976 may be determined by the Commission are that the Commission is satisfied that -
+>
+> a) if it grants the consent, no activity carried out under it will adversely affect the safety and security of the natural gas systems,
+>
+> b) the applicant will comply with any code of operations in so far as it is applicable to the applicant and, at the relevant times, will have the capability of doing so,
+>
+> **[**c) the applicant has complied with the requirements of sections 40A and 40B of the Gas Act 1976 (No. 30 of 1976) in relation to the proposed construction of the pipeline to which the application relates,**]**
+>
+> d) the pipeline to which the application relates will be constructed and commissioned within a period which the Commission shall specify in relation to the application.
+>
+> e) the pipeline to which the application relates will be capable of interoperating in a secure, safe and efficient manner with the natural gas system,
+>
+> f) the applicant is a fit and proper person to be granted a consent and has the financial capacity and technical skills to carry out the activities to which the application relates and to comply with the consent, if granted, and
+>
+> g) the applicant will be capable of paying any levy charged by the Commission.
+>
+> C40: Powers to make regulations for procedures and to restrict application of section prescribed (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 12(2)-(6), commenced on enactment; as amended (20.07.2004) by *European Communities (Internal Market in Natural Gas) (No. 2) Regulations 2004* (S.I. No. 452 of 2004), reg. 7(2) and (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 12.
+>
+> Construction of pipelines.
+>
+> **12.** — ...
+>
+> (2) **[**Subject to section 39B (2) of the Gas Act 1976, the Commission may**]**, from the appointed day, specify by regulations—
+>
+> (*a*) the pipelines or classes of pipelines to which section 39A(1) (inserted by this section) of the Gas Act, 1976, shall not apply in relation to the construction of pipelines or those classes of pipelines, and
+>
+> (*b*) such conditions as the Commission deems desirable in relation to the construction of the pipelines or classes of pipelines to which the regulations relate.
+>
+> (3) **[**(*a*) The Minister—
+>
+> (i) shall specify by regulations the criteria in accordance with which an application for a consent given under section 39A(1) of the Gas Act 1976, may be determined by the Commission; and
+>
+> (ii) shall publish the criteria with which an application for a consent given under section 40 (1) of the Gas Act 1976 may be determined.**]**
+>
+> (*b*) The criteria specified by the Minister under subsection (3)(a) may relate to, any or all of the following:
+>
+> (i) security of supply,
+>
+> (ii) the safety and security of the natural gas system,
+>
+> (iii) the qualifications of an applicant, including the technical and financial qualifications of the applicant, and
+>
+> (iv) any other criteria specified under subsection (3)(a).
+>
+> (4) Where, from the appointed day, the Commission determines that the capacity of existing or proposed distribution or transmission pipelines in a particular geographical area, as specified by the Commission, represents adequate provision for reasonable expectation of demand, it may refuse to give its consent under section 39A(1) of the Gas Act, 1976 , to the construction of any new distribution or transmission pipeline in that particular area.
+>
+> (5) (*a*) Without prejudice to the procedures for the giving of consents for the construction of pipelines set out in regulations made under section 39A(5) (inserted by this section) of the Gas Act, 1976, the Commission shall, where it considers it appropriate, or at the request of the Minister, conduct a competitive process for the purpose of selecting an applicant from whom an application for consent shall be considered for the construction of a pipeline in a particular area or for a particular purpose.
+>
+> (*b*) The Commission may make regulations relating to the conduct of such a competitive process, and such regulations may include—
+>
+> (i) the period of time allowed for the submission of expressions of interest by prospective applicants,
+>
+> (ii) the criteria for the pre-qualification of applicants,
+>
+> (iii) the period of time allowed for the submission of applications,
+>
+> (iv) the criteria by which applications will be adjudicated,(v) the terms and conditions that may be applied in relation to the successful applicant,
+>
+> (vi) the lodging of a bond (if any) by the successful applicant, and
+>
+> (vii) any other matter which the Commission considers appropriate and necessary for the holding of a competitive process under paragraph (a).
+>
+> (*c*) Before holding a competitive process under paragraph (a), the Commission shall undertake such preliminary examinations, as it considers appropriate or the Minister requests, including the carrying out of economic and technical feasibility studies of a proposed pipeline or pipeline routes.
+>
+> (*d*) Where a competitive process is conducted under this subsection, the Commission shall not be obliged to select an applicant where it considers that no applicant is suitable.
+>
+> (6) In this section “proposed distribution or transmission” in relation to a pipeline, means a pipeline, whether under construction or not, for which an application for consent has been made to the Commission under section 39A(1) of the Gas Act, 1976, and where the applicant has been certified by the Commission as being a bona fide applicant in accordance with the procedures for the giving of consents for the construction of pipelines set out in regulations made under section 39A(5) (inserted by this section) of the Gas Act, 1976 .
+>
+> **Editorial Notes:**
+>
+> E100: The section heading is taken from the amending section in absence of one included in the amendment.
+>
+> E101: Previous affecting provision: references to the "Board" construed as referring to the "ITO" (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 38(2)(a)(iv), in effect as per regs. 1(2) and 12; revoked (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 29(1)(d). Note: notice in accordance with *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 12 appears not to have been published.
+
+### Non-application of certain declarations, Regulations in respect of pipelines where environmental impact assessment, appropriate assessment required
+
+F157[**39B.** (1) (*a*) A declaration by way of a notice under section 2(6)(b) of the Gas (Amendment) Act 1987 (No. 9 of 1987) in respect of a pipeline shall not apply in respect of a pipeline where an environmental impact assessment or an appropriate assessment is required in respect of that pipeline.
+
+(*b*) A declaration by way of a notice under section 2(6)(b) of the Gas (Amendment) Act 1987 in respect of a class of pipelines shall not apply in respect of a pipeline in that class where an environmental impact assessment or an appropriate assessment is required in respect of the pipeline concerned.
+
+(2) (*a*) Regulations made under section 12(2) of the Gas (Interim)(Regulation) Act 2002 (No. 10 of 2002) in respect of a pipeline shall not apply in respect of a pipeline where an environmental impact assessment or an appropriate assessment is required in respect of that pipeline.
+
+(*b*) Regulations made under section 12(2) of the Gas (Interim) (Regulation) Act 2002 in respect of a class of pipelines shall not apply in respect of a pipeline in that class where an environmental impact assessment or an appropriate assessment is required in respect of the pipeline concerned.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F157: Inserted (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 6.
+
+### 40. Restriction on construction and operation of pipelines by persons other than Board.
+
+F158[**40.**—(1) A person, including the Board, shall not, without the consent of the Minister for the Marine and Natural Resources, construct or operate an upstream pipeline on, over or under the surface of land or of any sea bed that is situate in the F159[territorial sea of the State (within the meaning of the Maritime Jurisdiction Act 2021)] or a designated area.
+
+(2) The Minister for the Marine and Natural Resources may revoke a consent given by him or her under *subsection (1)* of this section but such revocation shall not prejudice the validity of anything done previously pursuant to and in accordance with the consent.
+
+(3) Where the Minister for the Marine and Natural Resources gives his or her consent under *subsection (1)* of this section, he or she shall attach to the consent such conditions, with respect to the construction or operation of the relevant pipeline as he or she considers appropriate, including conditions analogous to all or any of the requirements of *subsection (4)* of this section.
+
+(4) In case the holder of a consent given under subsection (1) of this section constructs an upstream pipeline the holder shall take all reasonable measures to protect the natural environment and to avoid injuring the amenities of the area and, in particular, and without prejudice to the generality of the foregoing, the holder shall while constructing the upstream pipeline take all reasonable steps to prevent injury to any building, site, flora, fauna, feature or other thing which is of particular architectural, historic, archaeological, geological or natural interest, and when selecting the route for the upstream pipeline the holder shall have regard to any representations made to the holder as regards the route of such upstream pipeline by any local authority within whose functional area a proposed route, or any part of such a route would, if the upstream pipeline were constructed, be situate, or any of the following on, in or over whose land such route or part would in such circumstances be situate, namely—
+
+(*a*) a harbour authority (within the meaning of the Harbours Act, 1946),
+
+(*b*) a company (within the meaning of the Harbours Act, 1996),
+
+(*c*) the Electricity Supply Board or any other electricity undertaker,
+
+(*d*) Córas Iompair Éireann or any other railway undertaker, or
+
+(*e*) a natural gas undertaking (other than the holder).
+
+(5) Where the Minister for the Marine and Natural Resources attaches, under subsection (3) of this section, conditions to a consent given under subsection (1) of this section, the person constructing or operating the relevant pipeline shall comply with those conditions.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F158: Substituted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 12(b), commenced on enactment.
+>
+> F159: Substituted (22.11.2021) by *Maritime Jurisdiction Act 2021* (28/2021), s. 20(3) and sch. 2 item 5, S.I. No. 601 of 2021.
+>
+> **Modifications (not altering text):**
+>
+> C41: Certain functions transferred and references to “Department of Public Enterprise” and “Minister for Public Enterprise” construed (27.07.2001) by *Petroleum and Offshore Exploration (Transfer of Departmental Administration and Ministerial Functions) Order 2001* (S.I. No. 389 of 2001), arts. 3, 4 and table, subject to transitional provisions in arts. 5-7.
+>
+> Note that the Department of the Marine and Natural Resources was most recently renamed as Communications, Climate Action and Environment (23.07.2016) *by Communications, Energy and Natural Resources (Alteration of Name of Department and Title of Minister) Order 2016* (S.I. No. 421 of 2016), in effect as per art. 1(2).
+>
+> 3\. The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 4 of this Order are transferred to the Department of the Marine and Natural Resources.
+>
+> 4\. (1) The functions vested in the Minister for Public Enterprise (being the title of that Minister by virtue of the Transport, Energy and Communications (Alteration of Name of Department and Title of Minister) Order, 1997 (S.I. No. 299 of 1997)) by virtue of the Energy (Transfer of Departmental Administration and Ministerial Functions) (No. 2) Order, 1993 (S.I. No. 12 of 1993), by or under the provisions of the Gas Act, 1976 (No. 30 of 1976), as amended, which are set out in column (1) of the Table to this article are hereby transferred to the Minister for the Marine and Natural Resources to the extent specified in column (2) of that Table opposite the mention of the section in the said column (1).
+>
+> (2) References to the Minister for Public Enterprise and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for the Marine and Natural Resources.
+>
+> <table><tr><td>Column 1</td><td>Column 2</td></tr><tr><td>Provisions</td><td>Extent of transfer</td></tr><tr><td>Sections 4, 6, 8, 27, 31, 32, 40A and Second Schedule</td><td>In so far as they relate to any upstream pipeline network</td></tr><tr><td>Section 40</td><td>In so far as it is not already transferred by the Petroleum and Offshore Exploration (Transfer of Departmental Administration and Ministerial Functions) Order, 2000 (S.I. No. 110 of 2000), and to the extent that it relates to any upstream pipeline network.</td></tr></table>
+>
+> C42: Functions transferred and references construed (12.09.2000) by *Petroleum and Offshore Exploration (Transfer of Departmental Administration and Ministerial Functions) Order 2000* (S.I. No. 110 of 2000), arts. 3, 4, in effect as per art. 1(2), subject to transitional provisions in arts. 5-7. Note that the most recent name of the Department for the Marine and Natural Resources and its Minister is Environment, Climate and Communications as provided (24.09.2020) by *Communications, Climate Action and Environment (Alteration of Name of Department and Title of Minister) Order 2020* (S.I. No. 373 of 2020).
+>
+> 3\. The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 4 of this Order are transferred to the Department of the Marine and Natural Resources.
+>
+> 4\. (1) The functions vested, by virtue of the Energy (Transfer of Departmental, Administration and Ministerial Functions (No. 2) Order, 1993 ( S.I. No. 12 of 1993 ) in the Minister for Public Enterprise (being the title of that Minister by virtue of the Transport, Energy and Communications (Alteration of Name of Department and Title of Minister Order, 1997 ( S.I. No. 299 of 1997 )), by or under—
+>
+> (*a*) section 36 of the Gas Act, 1976 (No. 30 of 1976), and
+>
+> (*b*) in so far as it relates to any upstream pipeline network, section 40 of the Gas Act, 1976, as amended by section 3 (2) of the energy (Miscellaneous Provisions) Act, 1995 (No. 35 of 1995),
+>
+> are transferred by virtue of this Article to the Minister for the Marine and Natural Resources.
+>
+> (2) References to the Minister for Public Enterprise and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for the Marine and Natural Resources.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E102: Provisions for costs of proceedings for a consent pursuant to section made (23.08.2011) by *Environment (Miscellaneous Provisions) Act 2011* (20/2011), ss. 3, 4, 6, 7, S.I. No. 433 of 2011
+>
+> E103: Previous affecting provision: section substituted (10.07.2000) by *Gas (Amendment) Act 2000* (26/2000), s. 19(1), commenced on enactment; substituted (10.04.2002) as per F-note above.
+>
+> E104: Previous affecting provision: subs. (1) amended (21.12.1995) by *Energy (Miscellaneous Provisions) Act 1995* (35/1995), s. 3(2), commenced on enactment; subsection substituted (10.07.2000) as per E-note above.
+
+### 40A. Environmental impact assessment of certain pipelines.
+
+F160[**40A.** — F161[(1) F162[(*a*) Where an application is made for consent under section 39A(1) or 40(1), as the case may be, in respect of a proposed pipeline that is of a class referred to in Part 1 of Schedule 5 to the Planning and Development Regulations 2001 (S.I. No. 600 of 2001), the proposed pipeline shall be the subject of an environmental impact assessment and, accordingly—
+
+(i) where that proposed pipeline is a pipeline other than an upstream pipeline, the Board or the other person making the application to the Commission for consent under section 39A(1) in respect of that pipeline, shall submit an environmental impact assessment report in respect of construction and operation of that proposed pipeline to the Commission together with the application, and
+
+(ii) where that proposed pipeline is an upstream pipeline, the Board or the other person making the application to the Minister for consent under section 40(1) in respect of that pipeline, shall submit an environmental impact assessment report in respect of the construction and operation of the proposed pipeline to the Minister together with the application.]
+
+F168[(*aa*) The Minister shall not be obliged to consider an application referred to in paragraph (a) of this subsection until an F171[environmental impact assessment report] has been submitted in relation to the application.]
+
+F163[(*b*) Where an application is made for consent under section 39A(1) or 40(1), as the case may be, in respect of a proposed pipeline that is of a class referred to in Part 2 of Schedule 5 to the Planning and Development Regulations 2001, the Commission, in the case of an application under section 39A(1), or the Environmental Assessment Unit, in the case of an application under section 40(1), shall determine, in accordance with this section, whether or not the proposed pipeline would be likely to have significant effects on the environment and, where it determines that the proposed pipeline would be likely to have significant effects on the environment, the Commission or the Environmental Assessment Unit, as the case may be, shall direct that the proposed pipeline concerned is to be the subject of an environmental impact assessment and the Board or the other person, as the case may be, shall submit an environmental impact assessment report in respect of the construction and operation of the proposed pipeline to the Commission or the Environmental Assessment Unit, as the case may be.]
+
+F177[(*bb*) Without prejudice to paragraph (b), the Board or another person wishing to construct a pipeline that—
+
+(i) is of a class referred to in Part 2 of Schedule 5 to the Planning and Development Regulations 2001, and
+
+(ii) is other than an upstream pipeline,
+
+may, in writing, request the Commission to determine, in accordance with this section, whether the pipeline proposed would be likely to have significant effects on the environment and, where such a request is made, the Commission shall determine, in accordance with this section, whether or not the proposed pipeline would be likely to have significant effects on the environment and, where it determines that the proposed pipeline would be likely to have significant effects on the environment, the Commission shall direct that the proposed pipeline is to be the subject of an environmental impact assessment and shall require the Board or the other person to make an application for consent under section 39A(1) to be accompanied by an environmental impact assessment report in respect of the construction and operation of the proposed pipeline.
+
+(*bc*) For the purpose of enabling the Commission or the Environmental Assessment Unit, as the case may be, to make its determination under paragraph (b) or (bb), the Board or the other person, as the case may be, shall provide the information specified in Annex IIA to the Commission or the Environmental Assessment Unit, as the case may be, taking into account, where relevant, the available results of other relevant assessments of the effects on the environment of the proposed pipeline carried out pursuant to European Union legislation (other than the EIA Directive).
+
+(*bd*) The information referred to in paragraph (bc) may be accompanied by a description of the features of the proposed pipeline and the measures, if any, envisaged to avoid or prevent what might otherwise have been significant adverse effects on the environment.]
+
+(*c*) F181[...]
+
+F164[(*d*) Where a determination is being made under this section, the Commission or the Environmental Assessment Unit, as the case may be, shall make the determination on the basis of the information provided in the application for consent together with the information provided under paragraph (bc) and, where that information is accompanied by the matters referred to in paragraph (bd), those matters, having taken into account—
+
+(i) the relevant selection criteria specified in Annex III,
+
+(ii) where relevant, the results of preliminary verifications or assessments of the effects on the environment of the proposed pipeline carried out pursuant to any Act of the Oireachtas or under European Union legislation (other than the EIA Directive), and
+
+(iii) where the proposed pipeline would be located on, or in, or have the potential to impact on—
+
+(I) a European site within the meaning of Regulation 2 of the European Communities (Birds and Natural Habitats) Regulations 2011 (S.I. No. 477 of 2011),
+
+(II) land designated as a natural heritage area under section 18 of the Wildlife (Amendment) Act 2000 (No. 38 of 2000),
+
+(III) land established or recognised as a nature reserve within the meaning of section 15 or 16 of the Wildlife Act 1976 (No. 39 of 1976), or
+
+(IV) land designated as a refuge for flora or as a refuge for fauna under section 17 of the Wildlife Act 1976,
+
+the likely significant effects on the environment of the proposed pipeline on such site, area or land, as appropriate.]
+
+F178[(*dd*) Where the Commission or the Environmental Assessment Unit, as the case may be, determines that a proposed pipeline, being of a class referred to in Part 2 of Schedule 5 to the Planning and Development Regulations 2001, would be likely to have significant effects on the environment, it shall specify, with reference to the relevant criteria listed in Annex III, the main reasons for that determination.
+
+(*de*) Where the Commission or the Environmental Assessment Unit, as the case may be, determines that a proposed pipeline, being of a class referred to in Part 2 of Schedule 5 to the Planning and Development Regulations 2001, is not likely to have significant effects on the environment, it shall specify—
+
+(i) with reference to the relevant criteria listed in Annex III, the main reasons for that determination, and
+
+(ii) features of the proposed pipeline and measures (if any) proposed by the Board or the other person making the application, as the case may be, to avoid or prevent what would otherwise be significant adverse effects on the environment.
+
+(*df*) Where the Commission or the Environmental Assessment Unit, as the case may be, specifies a feature of the proposed pipeline or a measure under paragraph (de)(ii) as a feature or measure relied on in making a determination under this section that an environmental impact assessment is not required in relation to the proposed pipeline, the Commission or the Minister, as the case may be, shall attach to any consent granted in respect of that proposed pipeline, the implementation of the feature or the carrying out of the measure as an environmental condition of that consent.
+
+(*dg*) Subject to paragraph (dh), the Commission or the Environmental Assessment Unit, as the case may be, shall make its determination under paragraph (b) or (bb) as soon as possible and, in any event, subject to paragraph (dh), within 90 days from the date on which the Board or the other person making the application has submitted all the information required under paragraph (bc).
+
+(*dh*) The Commission or the Environmental Assessment Unit, as the case may be, may, in exceptional cases, including where it is justified by the nature, complexity, location or size of the proposed pipeline, extend the 90 day period referred to in paragraph (dg) in order to make its determination and, in such cases, it shall inform the Board or the other person making the application in writing of the reasons justifying the extension and of the date when its determination is expected.]
+
+F165[(*e*) The Commission or the Environmental Assessment Unit, as the case may be, shall—
+
+(i) (I) give written notification to the Board or the other person making the application of its determination under this section and the reasons provided under paragraph (dd) or (de), as the case may be, and
+
+(II) publish—
+
+(A) on a website maintained by it, the determination and the reasons for it, and
+
+(B) in a newspaper circulating in the State or locally, as it considers appropriate, a notice stating that the determination has been made, giving the reasons for that determination and identifying where information in respect of the determination can be found,
+
+and
+
+(ii) where publication is made in accordance with subparagraph (i)(II)—
+
+(I) provide, both on the website and in the newspaper referred to in that subparagraph, information in relation to the procedure available for members of the public to review the substantive and procedural legality of the determination by way of judicial review under Order 84 of the Rules of the Superior Courts (S.I. No. 15 of 1986), and
+
+(II) identify, on that website and in that newspaper, where practical information on the procedure referred to in clause (I) can be found.
+
+(*f*) The Board or the other person, as the case may be, shall, when submitting an environmental impact assessment report in respect of the construction and operation of a proposed pipeline in accordance with this section, ensure that that report—
+
+(i) is prepared by competent experts,
+
+(ii) subject to paragraph (gg), contains the following information:
+
+(I) a description of the proposed pipeline comprising information on the site, design, size and other relevant features of the proposed pipeline;
+
+(II) a description of the likely significant effects on the environment of the proposed pipeline;
+
+(III) a description of any features of the proposed pipeline and of any measures envisaged in order to avoid, prevent or reduce and, if possible, offset likely significant adverse effects on the environment of the proposed pipeline;
+
+(IV) a description of the reasonable alternatives studied by the Board or the other person, as the case may be, which are relevant to the proposed pipeline and its specific characteristics, and an indication of the main reasons for the option chosen, taking into account the effects on the environment of the proposed pipeline;
+
+(V) a non-technical summary of the information referred to in clauses (I) to (IV);
+
+(VI) any additional information specified in Annex IV that is relevant to the specific characteristics of the proposed pipeline or type of proposed pipeline and to the environmental features likely to be affected,
+
+and
+
+(iii) takes into account the available results of other relevant assessments carried out in respect of the proposed pipeline under European Union legislation with a view to avoiding duplication of assessments.
+
+(*g*) Where the Board or the other person, as the case may be, is required to submit an environmental impact assessment report in respect of the construction and operation of a proposed pipeline under this subsection, it may request the Commission or the Environmental Assessment Unit, as the case may be, to give it an opinion on the scope and level of detail of the information to be included in the environmental impact assessment report, and where it receives such a request, the Commission or the Environmental Assessment Unit, as the case may be, shall consult with the relevant specified bodies and, having taken into account the information provided by the Board or the other person, as the case may be, in particular on the specific characteristics of the proposed pipeline, including the location of the proposed pipeline and its technical capacity, and its likely impact on the environment, shall issue a written opinion on the scope and level of detail of the information to be included by the Board or the other person, as the case may be, in the environmental impact assessment report in accordance with paragraph (f).]
+
+F179[(*gg*) Where the Commission or the Environmental Assessment Unit, as the case may be, issues an opinion under *paragraph (g)*, the Board or the other person to whom the opinion is issued shall—
+
+(i) prepare the environmental impact assessment report based on that opinion, and
+
+(ii) include in the report the information that may reasonably be required by the Commission or the Environmental Assessment Unit, as the case may be, for reaching a reasoned conclusion on the significant effects on the environment of the proposed pipeline, taking into account current knowledge and methods of assessment.]
+
+F166[(*h*) The issuing of an opinion under paragraph (g) shall not prejudice the exercise by the Commission or the Environmental Assessment Unit, as the case may be, of its powers under section 40A (5)(b) to require the Board or the other person to furnish it with specified additional information in relation to the likely effects on the environment of the proposed pipeline.]]
+
+F167[(2) Where an environmental impact assessment report has been submitted to the Commission or the Environmental Assessment Unit, as the case may be, in accordance with this section, the Board or the other person shall, as soon as may be, publish in one or more newspapers circulating in the State, or locally, as it considers appropriate, a notice—
+
+(*a*) stating that an application for consent under section 39A(1) or 40(1) has been made,
+
+(*b*) stating that the proposed pipeline, including its construction and operation, is subject to an environmental impact assessment and that section 40A(7), where relevant, is applicable,
+
+(*bb*) specifying the possible outcomes in respect of the application,
+
+(*c*) indicating that—
+
+(I) a copy of the application,
+
+(II) a copy of the opinion (if any) issued by the Commission or Environmental Assessment Unit, as the case may be, in relation to the environmental impact assessment report,
+
+(III) a copy of the environmental impact assessment report, and
+
+(IV) any other information available to the Commission or Environmental Assessment Unit, as the case may be, for the purpose of the application,
+
+are available on the website maintained by the Commission or the Department, as the case may be, and also indicating the place where they may be inspected free of charge and copies purchased on the payment of a fee which shall not exceed the reasonable cost of making such copies,
+
+(*d*) stating the times and specifying a period, which shall not be less than 30 days in duration, during which the information referred to in subparagraph (c) may be so inspected or purchased,
+
+(*e*) stating that during a specified period, which shall not be less than 30 days in duration, submissions may be made in writing to the Commission or the Environmental Assessment Unit, as the case may be, in relation to the likely effects on the environment of the proposed pipeline,
+
+(*f)* stating that significant further information (if any) received by the Commission or the Environmental Assessment Unit, as the case may be, including information received under section 40A (5)(b), (if any), shall be published on the website maintained by the Commission or the Department, as the case may be, and will be available for inspection free of charge at the place referred to in paragraph (c) and that copies may be purchased on the payment of a fee which shall not exceed the reasonable cost of making such copies, and
+
+(*g*) stating the address or contact point to which any submissions referred to in paragraph (e) are to be sent.]
+
+F180[(2A) Where it is required, in accordance with *subsection (1)*, to submit an environmental impact assessment report, the Board or the other person making an application for consent under section 39A(1) or 40(1) shall send to the Commission or the Minister, as the case may be, an electronic version of—
+
+(i) the notice referred to in subsection (2),
+
+(ii) the environmental impact assessment report submitted in accordance with this section, and
+
+(iii) a map of the location of the proposed pipeline in respect of which the application is made to a scale of not less than 1:1000 in relation to built-up areas and 1:2500 in relation to all other areas, or such other scale as may be agreed with the Minister for Housing, Local Government and Heritage in a particular case, and marked so as clearly to identify the proposed pipeline and any associated structure to which the application relates.
+
+(2B) The Commission or Environmental Assessment Unit, as the case may be, shall make an electronic version of the documents specified in subsection (2A) available to the public on its website.
+
+(2C) The Commission or the Environmental Assessment Unit, as the case may be, shall send to the Minister for Housing, Local Government and Heritage, in electronic form, each of the following:
+
+(*a*) the name of the applicant for consent under section 39A(1) or 40(1), as the case may be, together with a contact name, email address and telephone number for correspondence;
+
+(*b*) a description of the location of the proposed pipeline;
+
+(*c*) a description of the proposed pipeline;
+
+(*d*) notice that the application for consent has been made to the Commission or the Minister, as the case may be, and that, in respect of an application made to the Minister, the environmental impact assessment in relation to that application will be carried out by the Environmental Assessment Unit;
+
+(*e*) a map of the location of the proposed pipeline to a scale of not less than 1:1000 in relation to built-up areas and 1:2500 in relation to all other areas, or such other scale as may be agreed with the Minister for Housing, Local Government and Heritage in a particular case, and marked so as clearly to identify the proposed pipeline and any associated structure to which the application relates;
+
+(*f*) a copy of the notice referred to in subsection (2);
+
+(*g*) notification of the location where information in electronic form that relates to the application, including any determination under subsection (1)(b) or (bb), is available on the website of the Commission or the Department, as the case may be.]
+
+(3) Copies of the F172[environmental impact assessment report] shall be available for purchase by interested persons for a fee not exceeding the reasonable cost of making a copy.
+
+(4) Where an F173[environmental impact assessment report] has been submitted in accordance with a requirement of or under subsection (1) of this section, the Board or other person, as the case may be, shall, as soon as may be, furnish copies of the statement to the F184[relevant specified bodies], and shall indicate that submissions or observations may be made F191[F185[to the Commission or the Environmental Assessment Unit], as the case may be,] during F186[a specified period, which shall not be less than 30 days in duration,] in relation to the effects on the environment of the proposed pipeline.
+
+(5) F193[(*a*) Where an F174[environmental impact assessment report] has been submitted in accordance with a requirement of or under subsection (1) of this section, F192[F187[the Commission or the Environmental Assessment Unit], as the case may be,] shall have regard to the said statement, to any submissions or observations made to him F188[during the specified period] in relation to the effects on the environment of the proposed pipeline, and to the views, if any, furnished by other Member States of the European Communities pursuant to subsection (7) of this section.]
+
+F189[(*b*) Where an environmental impact assessment report in respect of the construction and operation of a proposed pipeline has been submitted in accordance with this section, the Commission or the Environmental Assessment Unit, as the case may be, may require the Board or the other person, as the case may be, to furnish it with specified additional information in accordance with Annex IV which is directly relevant to reaching a reasoned conclusion on the significant effects on the environment of the proposed pipeline.
+
+(*c*) Where significant further information is received by the Commission or the Environmental Assessment Unit on foot of a requirement made under paragraph (b), the Commission or the Environmental Assessment Unit, as the case may be, shall—
+
+(i) publish the information on its website, together with a notice stating that during a stated period submissions or observations in relation to that further information may be made in writing to it, and
+
+(ii) send to each of the relevant specified bodies a copy of the information and shall inform the specified body concerned that during a stated period the body may make submissions in writing to it in relation to that information.]
+
+(6) F190[(*a*) The Commission or the Minister, as the case may be, may, subject to paragraph (d) and where it is satisfied that exceptional circumstances justify so doing, by order, exempt an application from the requirement to prepare an environmental impact assessment report in respect of the construction and operation of a proposed pipeline where that requirement would adversely affect the purpose of the proposed pipeline.]
+
+F194[(*b*) The Minister shall, in granting an exemption under paragraph (a) of this subsection, consider whether—
+
+(i) the effects, if any, of the proposed pipeline on the environment should be assessed in some other manner, and
+
+(ii) the information collected in the course of such assessment should be made available to members of the public,
+
+and he may, by order, apply such requirements regarding these matters in relation to the application or notice, or the proposed application or notice, as the case may be, as he considers necessary or appropriate.
+
+(*c*) Notice of any exemption granted under paragraph (a) of this subsection, of the reasons for granting such exemption and of any requirements applied under paragraph (b) of this subsection shall, as soon as may be,—
+
+(i) be published in the Iris Oifigiuil and in one or more newspapers circulating in the area of the proposed pipeline, and
+
+(ii) be given, together with a copy of the information, if any, made available to members of the public in accordance with the said paragraph (b), to the Commission of the European Communities.]
+
+F195[(*d*) An exemption shall not be granted under paragraph (a) of this subsection in respect of an application or notice or a proposed application or notice relating to a proposed pipeline if another Member State of the European Communities, having been informed pursuant to subsection (7) of this section about the proposed pipeline and its likely effects on the environment in that State, has indicated that it intends to furnish views on the said effects.]
+
+F196[(7) (*a*) Where the Minister considers that a proposed pipeline, which is the subject of an F175[environmental impact assessment report] in accordance with a requirement of or under *subsection (1)* of this section, would be likely to have significant effects on the environment in another Member State of the European Communities or a state which is party to the Transboundary Convention or where the other state concerned considers that the said pipeline would be likely to have the said effects and so requests, he or she shall, as soon as possible, send to that state—
+
+(i) a description of the proposed pipeline and any available information on its possible effects on the environment in that state, and
+
+(ii) information on the nature of the decision which may be taken,
+
+and shall give that state a reasonable time to indicate whether it wishes to furnish views on the said effects.
+
+(*b*) Where a Member State of the European Communities or a state which is party to the Transboundary Convention which has received information pursuant to paragraph (a) of this subsection indicates that it wishes to furnish views on the likely effects on the environment of the proposed pipeline, the Minister shall, if he or she has not already done so, send to that state—
+
+(i) a copy of the F176[environmental impact assessment report], and
+
+(ii) relevant information about the procedure for making a decision on the application or notice concerned.
+
+(*c*) The Minister shall enter into consultations with a Member State of the European Communities or a state which is party to the Transboundary Convention to which information was sent pursuant to paragraph (b) of this subsection regarding the potential effects of the proposed pipeline on the environment in that state and the measures envisaged to reduce or eliminate such effects.
+
+(*d*) The Minister shall notify a Member State of the European Communities or a state which is party to the Transboundary Convention to which information was sent pursuant to paragraph (b) of this subsection of his or her decision on the application or notice concerned.
+
+(*e*) In this section "Transboundary Convention" means the United Nations Economic Commission for Europe Convention on Environmental Impact Assessment in a Transboundary Context done at Espoo, Finland on 25 February, 1991.]
+
+(8) F182[...]
+
+(8A) F183[...]
+
+(9) The provisions of this section are without prejudice to F197[section 39A(6) or 40(4) of this Act].]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F160: Inserted (19.12.1989) by *European Communities (Environmental Impact Assessment) Regulations 1989* (S.I. No. 349 of 1989), reg. 20, in effect as per reg. 2(2).
+>
+> F161: Substituted (14.04.1999) by *European Communities (Environmental Impact Assessment) (Amendment) Regulations 1999* (S.I. No. 93 of 1999), reg. 13(a), in effect as per reg. 2(3).
+>
+> F162, F163, F164, F165, F166, F167: Substituted (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 7(a)(i), (iv), (vi), (viii), (b).
+>
+> F168, F169, F170: Inserted (10.07.2000) by *Gas (Amendment) Act 2000* (26/2000), s. 19(2)(a), commenced on enactment.
+>
+> F171, F172, F173, F174, F175, F176: Substituted (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 5.
+>
+> F177, F178, F179, F180: Inserted (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 7(a)(ii), (v), (vii), (c).
+>
+> F181, F182, F183: Deleted (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 7(a)(iii), (g).
+>
+> F184, F185, F186, F187, F188, F189, F190: Substituted (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 7(d)(i)-(iii), (e)(i)(l), (ll), (ii), (f).
+>
+> F191, F192: Substituted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 12(1)(c)(ii), commenced on enactment.
+>
+> F193: Substituted (1.05.1999) by *European Communities (Environmental Impact Assessment) (Amendment) Regulations 1999* (S.I. No. 93 of 1999), reg. 13(b), in effect as per reg. 2(1).
+>
+> F194: Substituted (18.09.1998) by *European Communities (Environmental Impact Assessment) (Amendment) Regulations 1998* (S.I. No. 351 of 1998), reg. 13(b).
+>
+> F195: Inserted (1.05.1999) by *European Communities (Environmental Impact Assessment) (Amendment) Regulations 1999* (S.I. No. 93 of 1999), reg. 13(d), in effect as per reg. 2(1).
+>
+> F196, F197: Substituted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 12(1)(c)(iii), (iv), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C43: Certain functions transferred and references to “Department of Public Enterprise” and “Minister for Public Enterprise” construed (27.07.2001) by *Petroleum and Offshore Exploration (Transfer of Departmental Administration and Ministerial Functions) Order 2001* (S.I. No. 389 of 2001), arts. 3, 4 and table, subject to transitional provisions in arts. 5-7.
+>
+> Note that the Department of the Marine and Natural Resources was most recently renamed as Communications, Climate Action and Environment (23.07.2016) *by Communications, Energy and Natural Resources (Alteration of Name of Department and Title of Minister) Order 2016* (S.I. No. 421 of 2016), in effect as per art. 1(2).
+>
+> 3\. The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 4 of this Order are transferred to the Department of the Marine and Natural Resources.
+>
+> 4\. (1) The functions vested in the Minister for Public Enterprise (being the title of that Minister by virtue of the Transport, Energy and Communications (Alteration of Name of Department and Title of Minister) Order, 1997 (S.I. No. 299 of 1997)) by virtue of the Energy (Transfer of Departmental Administration and Ministerial Functions) (No. 2) Order, 1993 (S.I. No. 12 of 1993), by or under the provisions of the Gas Act, 1976 (No. 30 of 1976), as amended, which are set out in column (1) of the Table to this article are hereby transferred to the Minister for the Marine and Natural Resources to the extent specified in column (2) of that Table opposite the mention of the section in the said column (1).
+>
+> (2) References to the Minister for Public Enterprise and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for the Marine and Natural Resources.
+>
+> <table><tr><td>Column 1</td><td>Column 2</td></tr><tr><td>Provisions</td><td>Extent of transfer</td></tr><tr><td>Sections 4, 6, 8, 27, 31, 32, 40A and Second Schedule</td><td>In so far as they relate to any upstream pipeline network</td></tr><tr><td>Section 40</td><td>In so far as it is not already transferred by the Petroleum and Offshore Exploration (Transfer of Departmental Administration and Ministerial Functions) Order, 2000 (S.I. No. 110 of 2000), and to the extent that it relates to any upstream pipeline network.</td></tr></table>
+>
+> **Editorial Notes:**
+>
+> E105: Power pursuant to subs. (6)(a) exercised (22.06.1993) by *Gas Act 1976 (Section 40A) (Exemption) Order 1993* (S.I. No. 166 of 1993); enabling provision substituted (9.04.2021) as per F-note above. Instrument deemed to have been made under new provision (1.01.2006) by *Interpretation Act 2005* (23/2005), s. 26(2)(d), commenced as per s. 1(2).
+>
+> E106: Previous affecting provision: subs. (8A) inserted (23.07.2014) by *European Union (Access to Review of Decisions for Certain Bodies or Organisations promoting Environmental Protection) Regulations 2014* (S.I. No. 352 of 2014), reg. 7(b); deleted (9.04.2021) as per F-note above.
+>
+> E107: Previous affecting provision: subs. (8) substituted (23.07.2014) by *European Union (Access to Review of Decisions for Certain Bodies or Organisations promoting Environmental Protection) Regulations 2014* (S.I. No. 352 of 2014), reg. 7(a); deleted (9.04.2021) as per F-note above.
+>
+> E108: Previous affecting provision: subs. (8)(aa), (ab) inserted (13.07.2010) by *European Communities (Public Participation) Regulations 2010* (S.I. No. 352 of 2010), reg. 8; subs. (8) deleted (9.04.2021) as per F-note.
+>
+> E109: Previous affecting provision: subs. (1)(c) amended (21.09.2011) by *European Communities (Birds and Natural Habitats) Regulations 2011* (S.I. No. 477 of 2011), reg. 56(4)(a), (b), in effect as per reg. 1(3); subs. (3) deleted (9.04.2021) as per F-note above.
+>
+> E110: Previous affecting provisions: subs. (1)(a) substituted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 12(1)(c)(ii), commenced on enactment; substituted (9.04.2021) as per F-note above.
+>
+> E111: Previous affecting provision: subs. (1)(a) substituted (10.07.2000) by *Gas (Amendment) Act 2000* (26/2000), s. 19(2)(a), commenced on enactment; substituted (10.04.2002) as per E-note above.
+>
+> E112: Previous affecting provision: subss. (1)(c), (1)(e), (1)(g), (1)(h), (2)(e), (8) amended (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 12(1)(c)(ii), commenced on enactment; substituted and deleted (9.04.2021) as per F-notes above.
+>
+> E113: Previous affecting provision: subs. (1)(b), (1)(c), (8) amended (10.07.2000) by *Gas (Amendment) Act 2000* (26/2000), s. 19(2)(d), commenced on enactment; subss. (1)(b) substituted, (1)(c), (8) deleted (9.04.2021) as per F-notes above.
+>
+> E114: Previous affecting provision: subss. (6)(a), (7) and (8) substituted (1.05.1999) by *European Communities (Environmental Impact Assessment) (Amendment) Regulations 1999* (S.I. No. 93 of 1999), reg. 13(c), (e), (f), in effect as per reg. 2(1); substituted (9.04.2021), (10.04.2002) and deleted (9.04.2021) as per F-notes above.
+>
+> E115: Previous affecting provision: subs. (5)(c) inserted (18.09.1998) by *European Communities (Environmental Impact Assessment) (Amendment) Regulations 1998* (S.I. No. 351 of 1998), reg. 13(a); substituted (9.04.2021) as per F-note above.
+>
+> E116: Power pursuant to subs. (6)(a) exercised (22.06.1993) by *Gas Act 1976 (Section 40A) (Exemption) Order 1993* (S.I. No. 166 of 1993); enabling provision substituted (9.04.2021) as per F-note above. Instrument deemed to have been made under new provision (1.01.2006) by *Interpretation Act 2005* (23/2005), s. 26(2)(d), commenced as per s. 1(2).
+>
+> E117: Previous affecting provision: power pursuant to section exercised (1.03.1990) by *Gas Act 1976 (Sections 4 and 40A) Regulations 1990* (S.I. No. 51 of 1990); revoked (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 3.
+
+### 40B. Environmental Impact Assessment.
+
+F198[**40B.** — (1) F199[...]
+
+(2) The Commission or the Minister shall, as part of the consideration of the application for consent made by the Board or another person, in accordance with subsection (3) ensure that before consent is given projects likely to have significant effects on the environment by virtue, inter alia, of their nature, size or location are made subject to an environmental impact assessment.
+
+F201[(3) An environmental impact assessment shall be carried out by the Commission or the Environmental Assessment Unit, as the case may be, in respect of an application for consent under section 39A(1) or 40(1) where the proposed pipeline concerned is—
+
+(*a*) a pipeline referred to in section 40A(1)(a), or
+
+(*b*) a pipeline, other than a pipeline referred to in section 40A(1)(a), which the Commission or the Environmental Assessment Unit has, in accordance with section 40A, determined is likely to have significant effects on the environment and has directed that that proposed pipeline is to be the subject of an environmental impact assessment.]
+
+F206[(3A) In carrying out an environmental impact assessment, the Commission or Environmental Assessment Unit, as the case may be, shall—
+
+(*a*) ensure that it has, or has access as necessary to, sufficient expertise to examine the environmental impact assessment report, and
+
+(*b*) where appropriate, coordinate the assessment with any assessment of the proposed pipeline under the European Communities (Birds and Natural Habitats) Regulations 2011.]
+
+(4) F200[...]
+
+F202[(5) In carrying out an environmental impact assessment under this section, the Commission or the Environmental Assessment Unit, as the case may be, shall duly take into account—
+
+(*a*) the particulars submitted with the application including the environmental impact assessment report submitted in accordance with section 40A,
+
+(*b*) any additional information furnished under section 40A (5)(b),
+
+(*c*) any submissions duly made in relation to the likely effects on the environment of the proposed pipeline, and
+
+(*d*) the views of another Member State following consultation, if any, under section 40A(7)(a),
+
+and, having taken those matters into account, shall reach a reasoned conclusion on the significant effects on the environment of the proposed pipeline.
+
+(6) (*a*) The Commission having reached a reasoned conclusion under subsection (5) or, as the case may be, the Minister, having considered the reasoned conclusion reached by the Environmental Assessment Unit, and being satisfied that the reasoned conclusion remains up to date, may decide—
+
+(i) to grant consent under section 39A(1) or 40(1), as the case may be, subject to whatever (if any) environmental conditions (including conditions regarding monitoring measures, parameters to be monitored and the duration of monitoring) that the Commission or the Environmental Assessment Unit, as the case may be, considers necessary, to avoid, prevent or reduce, or offset significant adverse effects (if any) on the environment, or
+
+(ii) to refuse to grant consent under section 39A(1) or 40(1), as the case may be.
+
+(*b*) Where the Commission or the Minister, as the case may be, decides to grant consent, the Commission or the Minister, as the case may be, shall incorporate into the decision—
+
+(i) the reasoned conclusion, and
+
+(ii) any environmental conditions attached to the consent, a description of any features of the proposed pipeline or measures envisaged to avoid, prevent or reduce and, where possible, offset significant adverse effects on the environment and any appropriate monitoring measures.
+
+(*c*) The Commission or the Minister (on the recommendation of the Environmental Assessment Unit), as the case may be, shall attach to a consent granted under section 39A (1) or 40(1), as the case may be, the implementation of any feature, or the carrying out of any measure, envisaged to avoid, prevent, reduce or offset significant adverse effects on the environment, and any monitoring measure referred to in paragraph (b)(ii), as an environmental condition of that consent.
+
+(*d*) Where the Commission or the Minister, as the case may be, decides to refuse to grant consent under section 39A(1) or 40(1), as the case may be, the decision shall set out the main reasons for that decision.]
+
+F207[(6A) The decision of the Commission or the Minister, as the case may be, under subsection (6) shall be made as soon as possible and, in any case, not later than eighteen weeks after—
+
+(*a*) the receipt of an environmental impact assessment report submitted in accordance with section 40A(1),
+
+(*b*) the receipt of any further information provided by the applicant in accordance with section 40A(5)(b), or
+
+(*c*) the expiry of the period specified in a notice issued under section 40A(5)(c) for receipt of submissions or observations in relation to further information provided by the applicant in accordance with section 40A(5)(b), whichever is the later.]
+
+(7) In carrying out the consideration and the environmental impact assessment of the application, the Commission or the F203[the Environmental Assessment Unit] may have regard to, and adopt in whole or in part, any reports prepared by officers of the F204[the Environmental Assessment Unit] or the Commission, as the case may be, or by consultants, experts or other advisors.
+
+F208[(7A) The Commission or the Minister, as the case may be, shall promptly notify the Board or other person of the decision made in accordance with subsection (6).
+
+(7B) The notification referred to in subsection (7A) shall state the reasons for the decision to which that notification relates.]
+
+F205[(8) The Commission or the Minister, as the case may be, having made a decision in accordance with subsection (6), shall—
+
+(*a*) promptly publish—
+
+(i) in one or more newspapers circulating in the State or locally, as the Commission or the Minister, as the case may be, considers appropriate, a notice—
+
+(I) stating that a decision in accordance with subsection (6) has been made,
+
+(II) stating whether or not an environmental impact assessment or appropriate assessment, or both, were carried out,
+
+(III) stating that a copy of the decision is available for inspection during specified hours, at a specified place, for a stated period of time, and in electronic form on the website of the Commission or the Department, as the case may be, and
+
+(IV) stating that the decision may be subject to judicial review and providing information as to where practical information concerning the procedures in that regard may be found, and
+
+(ii) on its website, the following:
+
+(I) the decision;
+
+(II) the main reasons and considerations on which the decision is based, including—
+
+(A) information about the public participation process,
+
+(B) a summary of the results of the consultations and the information gathered pursuant to *section 40A* and this section (in particular, where a copy of the environmental impact assessment report was sent in accordance with section 40A(7) the result of consultations and the information gathered under that subsection), and
+
+(C) a description of how the results referred to in subclause (B) have been incorporated or otherwise addressed;
+
+(III) where the decision is to grant consent, where the consent is subject to environmental conditions (including conditions regarding monitoring measures, parameters to be monitored and the duration of monitoring), particulars of those conditions,
+
+(IV) a statement that a copy of the decision is available for inspection during specified hours, at a specified place, for a stated period of time, and
+
+(V) a statement that the decision may be subject to judicial review together with information as to where practical information concerning the procedures in that regard may be found,
+
+(*b*) forward to each of the relevant specified bodies a copy of the decision, and
+
+(*c*) where a copy of the environmental impact assessment report was sent in accordance with *section 40A(7)*, forward to the relevant state a copy of the decision.]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F198: Inserted (19.10.2012) by *European Union (Environmental Impact Assessment) (Gas) Regulations 2012* (S.I. No. 403 of 2012), reg. 2.
+>
+> F199, F200: Deleted (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 8(a), (d).
+>
+> F201, F202, F203, F204, F205: Substituted (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 8(b), (e), (g), (i).
+>
+> F206, F207, F208: Inserted (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 8(c), (f), (h).
+
+### 49C. Environmental Assessment Unit
+
+F209[**40C.** — (1) (*a*) The Environmental Assessment Unit means the administrative unit within the Department commonly known by that name.
+
+(*b*) In addition to performing the functions conferred on it elsewhere in this Act, and including for the purpose of co-ordinating any assessment by it of a proposed pipeline for the purposes of the EIA Directive or this Act with any assessment of that pipeline required under Regulation 42 of the European Communities (Birds and Natural Habitats) Regulations 2011, the Environmental Assessment Unit shall, in respect of that proposed pipeline, perform the functions of the Minister (including the functions of the Minister as a public authority under those Regulations) in relation to any screening for appropriate assessment or appropriate assessment required under those Regulations.
+
+(2) The Environmental Assessment Unit shall be objective in the performance by it of the functions referred to in subsection (1).
+
+(3) The Environmental Assessment Unit shall, for the purpose of the performance by it of the functions referred to in subsection (1), consult with such independent persons, with relevant expertise, as it considers appropriate.
+
+(4) A person referred to in subsection (3) shall, at the request of the Environmental Assessment Unit in that behalf, provide advice, and where appropriate, make recommendations, to the Environmental Assessment Unit in relation to the performance by it of the functions referred to in subsection (1) and may, for the purpose of providing such advice or making such recommendations or otherwise assisting the Environmental Assessment Unit in the performance of the functions under this Act, issue such reports, as it considers appropriate, to the Environmental Assessment Unit.
+
+(5) The Environmental Assessment Unit shall, in the performance of the functions referred to in subsection (1), have regard to any advice given to it in accordance with subsection (4) and, where a report or recommendations are issued to it in accordance with that subsection, it may adopt the report or follow such recommendations, or both, and where it decides to adopt the report or to follow any recommendations, or both, it may, for stated reasons, do so in whole or in part, with or without modification, where it considers it appropriate to do so.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F209: Inserted (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 9.
+
+### 40D. Compliance with environmental conditions, enforcement etc.
+
+F210[**40D.** — (1) Where the Commission or the Minister, as the case may be, grants consent under section 39A or 40, the Board or the other person to whom the consent has been granted shall comply with the environmental conditions (including conditions regarding monitoring measures, parameters to be monitored and the duration of monitoring), (if any), attached under section 40A (1)(df) or section 40B(6).
+
+(2) It shall be an offence for the Board or the other person to whom the consent has been granted to fail to comply with subsection (1).
+
+(3) Where the Board or the other person to whom the consent has been granted, as the case may be, commits an offence under subsection (2), it shall be liable—
+
+(*a*) on summary conviction, to a class A fine, or
+
+(*b*) on conviction on indictment to a fine not exceeding Eur 500,000.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F210: Inserted (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 9. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+### 40E. Monitoring etc. by Commission, Environmental Assessment Unit, provision of information concerning compliance with environmental conditions etc
+
+F211[**40E.** — (1) The Commission or the Environmental Assessment Unit, as the case may be, shall take all reasonable steps to ensure that the Board or the other person, as the case may be, to whom consent under section 39A or 40 has been granted complies with any environmental conditions (including conditions regarding monitoring measures, parameters to be monitored and the duration of monitoring) attached to the consent under section 40A(1)(df) or section 40B(6).
+
+(2) The Commission or the Environmental Assessment Unit, as the case may be, shall carry out, or cause to be carried out, monitoring of compliance with environmental conditions attached under section 40A(1)(df) or section 40B(6).
+
+(3) The Commission or the Environmental Assessment Unit, as the case may be, may request a person to whom consent under section 39A or 40 has been granted to furnish, within a stated period, specified information in relation to the compliance by that person with any environmental conditions attached to the consent, in accordance with section 40A (1)(df) or section 40B(6).
+
+(4) A person that fails to comply with a request under subsection (3) shall be guilty of an offence and shall be liable—
+
+(*a*) on summary conviction, to a class A fine or to imprisonment for any term not exceeding 6 months or, at the discretion of the court, to both such fine and such imprisonment, or
+
+(*b*) on conviction on indictment, to a fine not exceeding Eur 500,000 or to imprisonment for a term not exceeding 3 years or, at the discretion of the court, to both such fine and such imprisonment.
+
+(5) A person that, in response to a request under subsection (3), provides information or makes a statement knowing that information or statement to be false or misleading in a material respect shall be guilty of an offence and shall be liable—
+
+(*a*) on summary conviction, to a class A fine or to imprisonment for any term not exceeding 6 months or, at the discretion of the court, to both such fine and such imprisonment, or
+
+(*b*) on conviction on indictment, to a fine not exceeding Eur 500,000 or to imprisonment for a term not exceeding 3 years or, at the discretion of the court, to both such fine and such imprisonment.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F211: Inserted (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 9. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+### 40F. Power to direct action to ensure compliance with condition
+
+F212[**40F.** — (1) The Commission or the Environmental Assessment Unit, as the case may be, having made, or having had made on its behalf, a request for information under section 40E, and having considered any information furnished to it as a result of the making of the request or that has otherwise come into its possession, may issue to the person to whom consent under section 39A or 40, as the case may be, was granted, the terms of a direction (in this section referred to as “the proposed direction”) that the Commission or the Environmental Assessment Unit, as the case may be, proposes to issue to the person requiring the person to carry out, cause to be carried out, or arrange for the carrying out, within a specified period, such action as the Commission or the Environmental Assessment Unit, as the case may be, considers necessary to ensure that the person complies with the environmental conditions attached to the consent.
+
+(2) The proposed direction shall specify a period within which the person may make observations to the Commission or the Environmental Assessment Unit, as the case may be, in relation to the proposal to make the direction and the person may make such observations within that period accordingly.
+
+(3) After the expiration of the period referred to in subsection (2) and having considered any observations made by the person under that subsection, the Commission or the Environmental Assessment Unit, as the case may be, may decide to confirm, with or without modification, or decide not to confirm, the proposed direction and, in a case where the proposed direction is confirmed, the Commission or the Environmental Assessment Unit, as the case may be, shall issue to the person the direction concerned and the person shall comply with the direction within the period specified in the direction.
+
+(4) A person who fails to comply with a direction under subsection (3) shall be guilty of an offence and shall be liable—
+
+(*a*) on summary conviction, to a class A fine or to imprisonment for any term not exceeding 6 months or, at the discretion of the court, to both such fine and such imprisonment, or
+
+(*b*) on conviction on indictment, to a fine not exceeding Eur 500,000 or to imprisonment for a term not exceeding 3 years or, at the discretion of the court, to both such fine and such imprisonment.
+
+(5) In imposing any penalty under subsection (4), the Court shall, have regard to the risk or extent of damage to the environment and any remediation required arising from the act or omission constituting the offence.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F212: Inserted (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 9. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+### 40G. Offence - furnishing of information, making statement etc
+
+F213[**40G**. — (1) (*a*) A person who, in relation to an application for consent under section 39A or 40 where the Commission or the Environmental Assessment Unit, as the case may be, is making a determination under *section 40A* or is carrying out an environmental impact assessment under *section 40B*, provides information or makes a statement—
+
+(i) in relation to the application,
+
+(ii) for the purposes of enabling the determination be made, or
+
+(iii) in relation to the carrying out of the assessment,
+
+knowing that information or statement to be false or misleading in a material respect, shall be guilty of an offence.
+
+(*b*) A person who, in response to a request for information under section 40B(5), provides information or makes a statement in relation to the request knowing that information or statement to be false or misleading in a material respect, shall be guilty of an offence.
+
+(2) A person guilty of an offence under subsection (1) shall be liable—
+
+(*a*) on summary conviction, to a class A fine or to imprisonment for any term not exceeding 6 months or, at the discretion of the court, to both such fine and such imprisonment, or
+
+(*b*) on conviction on indictment, to a fine not exceeding Eur 500,000 or to imprisonment for a term not exceeding 3 years or, at the discretion of the court, to both such fine and such imprisonment.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F213: Inserted (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 9. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+### 40H. Offence by body corporate
+
+F214[**40H.** —(1) Where an offence under any of sections 40D to 40G is committed by a body corporate and it is proved that the offence was committed with the consent or connivance, or was attributable to any wilful neglect, of a person who was a director, manager, secretary or other officer of the body corporate, or a person purporting to act in that capacity, that person, as well as the body corporate, shall be guilty of an offence and may be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
+
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and defaults of a member in connection with his or her functions of management as if he or she were a director or manager of the body corporate.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F214: Inserted (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 9.
+
+### 40I. Appointment of authorised officers
+
+F215[**40I.** — (1) (*a*) The Minister, on the recommendation of the Environmental Assessment Unit, or the Commission (without prejudice to the powers conferred on it by or under any other Act of the Oireachtas), as the case may be, may appoint such and so many persons as the Minister or the Commission, as the case may be, thinks fit to be authorised officers for the purposes of this Act.
+
+(*b*) A person appointed to be an authorised officer under this section shall be objective in the performance of his or her functions under this Act.
+
+(2) An authorised officer shall be furnished with a warrant of his or her appointment and shall, when exercising any power conferred on him or her under this Act, if requested by a person affected, provide evidence to the person of his or her appointment as an authorised officer.
+
+(3) An appointment under this section shall cease when—
+
+(i) the Minister, on the recommendation of the Environmental Assessment Unit, or the Commission, as the case may be, revokes it,
+
+(ii) where the person ceases to be an officer or agent of the Department or the Commission, as the case may be, or
+
+(iii) where the appointment is for a fixed period, on the expiry of that period.
+
+(4) An authorised officer shall, for the purposes of sections 40D to 40G have power to do any one or more of the following:
+
+(*a*) subject to subsection (7), at all reasonable times enter, inspect, examine and search any place where the authorised officer has reasonable grounds for believing that any environmental condition attached to a consent in accordance with section 40B(6) has not been, or is not being, complied with and may for this purpose bring with him or her such other person, including a member of the Garda Síochána, or equipment, as he or she considers appropriate;
+
+(*b*) while in or at the place referred to in paragraph (a), may inquire into, search, examine and inspect—
+
+(i) any activity, installation, process, procedure or matter at that place,
+
+(ii) any plant or vehicle at that place, and
+
+(iii) any records relating to any of the foregoing matters,
+
+and may require the person in charge to—
+
+(I) be present during the examination or inspection or to furnish such records, or both, or
+
+(II) procure the attendance of any person whose attendance is within the power of the person in charge to procure, as the authorised officer may require to be in attendance during that examination or inspection, or to procure the furnishing of such records by such person;
+
+(*c*) take, without payment, samples of anything found at or near that place or on those lands for the purpose of tests, analysis or examination;
+
+(*d*) inspect and take copies of or extracts from any such records or any electronic information system at that place, including in the case of information in a non- legible form, copies of or extracts from such information in a permanent legible form or require that such copies be provided;
+
+(*e*) remove from that place and retain such records (including documents stored in a non-legible form) and copies taken and detain the records for such period as the authorised officer reasonably considers to be necessary for further examination or until the conclusion of any legal proceedings;
+
+(*f)* where appropriate, install, use and maintain at a place referred to in subparagraph (a) monitoring instruments or systems or take any measurements or photographs or make any tape, electronic or other recordings that the authorised officer considers necessary for the purposes of any search, examination, inspection or inquiry under this section.
+
+(5) An authorised officer shall not, other than with the consent of the occupier, enter a private dwelling unless he or she has obtained a warrant from the District Court under paragraph (7) authorising such entry.
+
+(6) Where an authorised officer in the exercise of his or her powers under this section is prevented from entering any place or lands, an application may be made to the District Court under subsection (7) for a warrant authorising such entry.
+
+(7) If a judge of the District Court is satisfied on the sworn information of an authorised officer that there are reasonable grounds for suspecting that there is information or records required by an authorised officer under this section held in any place or any part thereof or that there is anything at any place or in any part thereof which an authorised officer requires to inspect for the purposes of this Act and that any such inspection is likely to disclose, evidence of a contravention of section 40D, 40E, 40F or 40G, the judge may issue a warrant authorising an authorised officer, accompanied by such other authorised officer, a member of the Garda Síochána or such other person as may be appropriate, at any time or times, within one month from the date of issue of the warrant, on production of the warrant if requested, to enter the place or lands, if necessary by the use of reasonable force, and perform the functions conferred on an authorised officer by or under this Act.
+
+(8) An application under subsection (7) shall be made to the judge of the District Court in whose district the lands or place is situated.
+
+(9) A person shall not—
+
+(*a*) interfere with an authorised officer, a member of the Garda Síochána or other person in the exercise of the powers conferred on him or her under this section or a warrant under subsection (7),
+
+(*b*) without reasonable excuse fail or refuse to comply with a request from or a requirement of or to answer a question asked by an authorised officer pursuant to a power conferred by this Act, or
+
+(*c*) make a statement or give information to an authorised officer that the person knows to be false or misleading in a material respect.
+
+(10) A person who contravenes subsection (9) shall be guilty of an offence and shall be liable—
+
+(*a*) on summary conviction, to a class A fine or to imprisonment for any term not exceeding 6 months or, at the discretion of the court, to both such fine and such imprisonment, or
+
+(*b*) on conviction on indictment, to a fine not exceeding Eur 500,000 or to imprisonment for a term not exceeding 3 years or, at the discretion of the court, to both such fine and such imprisonment.
+
+(11) In this section—
+
+“person in charge” means, in relation to a place, any of the following:
+
+(*a*) the owner;
+
+(*b*) the person under whose direction and control the activities at that place are being conducted;
+
+(*c*) the person whom the authorised officer has reasonable grounds for believing is in control of that place;
+
+“place” means any structure, premises, land or other location (including the sea) or part of such place and includes any container, railway wagon, vessel, aircraft, motor or other vehicle;
+
+“records” includes any memorandum, book, report, statement, register, plan, chart, map, drawing, specification, diagram, pictorial or graphic work or other document any photograph, film or recording (whether of sound or images or both),any form in which data (within the meaning of the Data Protection Acts 1988 to 2018) are held, any form (including machine readable form) or thing in which information is held or stored manually, mechanically or electronically, and anything that is a part or copy, in any form, of any of, or any combination of, the foregoing.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F215: Inserted (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 9. A class A fine means a fine not greater than €5,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 4(1), S.I. No. 662 of 2010.
+
+### 40J. Recovery of costs, expenses
+
+F216[**40J.** —Where a person is convicted of an offence under any of sections 40D to 40I, the court shall, unless it is satisfied that there are special and substantial reasons for not doing so, order the person to pay to the Minister or the Commission, as the case may be, the costs and expenses, measured by the court, incurred by the Minister or the Commission, as the case may be, in relation to the investigation, detection and prosecution of the offence.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F216: Inserted (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 9.
+
+### Summary proceedings
+
+F217[**40K.** —Summary proceedings in relation to an offence under any of sections 40D to 40I, insofar as the offence relates to the construction or operation of an upstream pipeline, may be brought and prosecuted by an authorised officer appointed by the Minister under section 40I.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F217: Inserted (9.04.2021) by *European Union (Gas Act 1976) (Environmental Impact Assessment) Regulations 2021* (S.I. No. 174 of 2021), reg. 9.
+
+### 41. Savers.
+
+**41.** — (1) Nothing in this Act shall be construed as enabling the Board to interfere in any manner without the consent of the Minister for Industry and Commerce with State minerals within the meaning of the Minerals Development Act, 1940, other than sand, gravel or clay.
+
+(2) Nothing in this Act shall be construed as affecting the operation of the Act of 1960 or the Continental Shelf Act, 1968, or as authorising the disregard by the Board of any other enactment or of any rule of law.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F218: Substituted by *Minerals Development Act 2017* (23/2017), s. 245(b)(i), not commenced as of date of revision.
+>
+> F219: Inserted by *Minerals Development Act 2017* (23/2017), s. 245(b)(ii), not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C44: Prospective affecting provision: subs. (1) amended by *Minerals Development Act 2017* (23/2017), s. 245(b)(i), not commenced as of date of revision.
+>
+> (1) Nothing in this Act shall be construed as enabling the Board to interfere in any manner without the consent of the Minister for Industry and Commerce with State minerals F218[within the meaning of the Minerals Development Act 2017.]
+>
+> C45: Prospective affecting provision: subs. (2) amended by *Minerals Development Act 2017* (23/2017), s. 245(b)(ii), not commenced as of date of revision.
+>
+> (2) Nothing in this Act shall be construed as affecting the operation of the Act of 1960 F219[, the Minerals Development Act 2017] or the Continental Shelf Act, 1968, or as authorising the disregard by the Board of any other enactment or of any rule of law.
+>
+> **Editorial Notes:**
+>
+> E118: Previous affecting provision: references to the "Board" construed as including the ITO (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 38(2)(a)(v), in effect as per regs. 1(2) and 12; revoked (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 29(1)(d). Note: notice in accordance with *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 12 appears not to have been published.
+
+## PART VI — Amendments
+
+### 42. Section 89 of Local Government (Planning and Development) Act, 1963, not to apply to certain pipelines.
+
+**42.** — (1) Section 89 of the Local Government (Planning and Development) Act, 1963, shall not apply as regards either the construction or maintenance of a pipeline to which this section applies.
+
+(2) This section applies to any pipeline which—
+
+(*a*) is provided by the Board (whether for use by itself or by another person), or
+
+F220[(*b*) is a pipeline as regards which a condition has been attached—
+
+(i) by the Commission under section 39A(4) to a consent in respect of the pipeline, not being an upstream pipeline, or
+
+(ii) by the Minister for the Marine and Natural Resources under section 40(3) to a consent in respect of the pipeline, being an upstream pipeline.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F220: Substituted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 23(1)(j), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E119: Previous affecting provision: references to the "Board" construed as referring to the "ITO" (1.12.2011) by *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 38(2)(a)(iv), in effect as per regs. 1(2) and 12; revoked (19.01.2015) by *European Communities (Internal Market in Natural Gas and Electricity) (Amendment) Regulations 2015* (S.I. No. 16 of 2015), reg. 29(1)(d). Note: notice in accordance with *European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011* (S.I. No. 630 of 2011), reg. 12 appears not to have been published.
+>
+> E120: Previous affecting provision: subs. (2)(b) amended (10.07.2000) by *Gas (Amendment) Act 2000* (26/2000), s. 21(2), commenced on enactment; para. (b) substituted (10.04.2002) as per F-note above.
+
+### 43. Amendment of section 72 of Registration of Title Act, 1964.
+
+**43.** — Section 72 of the Registration of Title Act, 1964, is hereby amended by—
+
+(*a*) the insertion after paragraph (*h*) of subsection (1) of the following paragraph;
+
+“(*hh*) any wayleave which is a wayleave to which this section applies;”, and
+
+(*b*) the insertion after subsection (3) of the following subsection:
+
+“(4) This section applies to any wayleave on, over or beneath the surface of land which—
+
+(*a*) pursuant to an agreement in writing is granted to or by The Irish Gas Board, or pursuant to an acquisition order within the meaning of the Gas Act, 1976, is granted to that Board, and
+
+(*b*) is intended to be used, or is used, in providing a pipeline for the transmission of gas, and
+
+(*c*) in case the wayleave is granted under such an agreement, under the agreement it is to be enforceable against persons deriving title to the land under a party to the agreement.”
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C46: Functions transferred and references to "Ervia" construed (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 11, S.I. No. 208 of 2024.
+>
+> **Transfer day**
+>
+> **6.** (1) The Minister shall by order appoint a day to be the transfer day for the purposes of this Act.
+>
+> (2) On and from the transfer day Ervia (in this Act referred to as the “dissolved body”) shall stand dissolved.
+>
+> ...
+>
+> **Transfer of functions**
+>
+> **11.** (1) On the transfer day, all functions that, immediately before the transfer day, were vested in the dissolved body shall stand vested in Gas Networks Ireland.
+>
+> (2) References in any enactment (other than this Act) or other document to the dissolved body, to the extent that such references relate to functions, assets, rights or liabilities that are vested in, or transferred to, Gas Networks Ireland by this Act shall, on and from the transfer day, be construed as references to Gas Networks Ireland.
+>
+> (3) The administration and business in connection with the performance of the functions vested in Gas Networks Ireland by virtue of subsection (1) are on the transfer day transferred to Gas Networks Ireland.
+>
+> (4) References in any enactment (other than this Act) to the dissolved body, to the extent that such references relate to the administration and business transferred by subsection (3) shall, on and from the transfer day, be construed as references to Gas Networks Ireland.
+>
+> **Editorial Notes:**
+>
+> E121: Previous affecting provision: references to "The Irish Gas Board" construed as references to "Ervia" (19.06.2014) by *ESB (Electronic Communications Networks) Act 2014* (5/2014), s. 8, S.I. No. 286 of 2014; superseded (1.06.2024) as per C-note above.
+
+### 44. Amendment of section 1 of Fuels (Control of Supplies) Act, 1971.
+
+**44.** — The definition of “ fuels ” in section 1 of the Fuels (Control of Supplies) Act, 1971, is hereby amended by the insertion of “ natural gas, ” before “town gas,” and the said definition, as so amended, is set out in the Table to this section.
+
+TABLE
+
+“ fuels ” includes petroleum oils, coal, peat, natural gas, town gas, electricity and firewood.
+
+## FIRST SCHEDULE — IRISH GAS BOARD
+
+F221[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F221: Repealed (1.06.2024) by *Gas (Amendment) and Miscellaneous Provisions Act 2024* (11/2024), s. 3(1)(e), S.I. No. 208 of 2024.
+>
+> **Editorial Notes:**
+>
+> E122: Previous affecting provision: paras. 4 to 7 and 25 substituted, paras. 8, 11, 13 amended by *Gas Regulation Act 2013* (39/2013), s. 40(b)-(g), S.I. No. 520 of 2015; schedule repealed (1.06.2024) as per F-note above.
+>
+> E123: Previous affecting provision: para. 2A inserted (23.11.2015) by *Gas Regulation Act 2013* (39/2013), s. 40(a), S.I. No. 520 of 2015; schedule repealed (1.06.2024) as per F-note above.
+>
+> E124: Previous affecting provision: para. 2 substituted (28.12.2014) by *Water Services Act 2014* (44/2014), s. 13, commenced on enactment; schedule repealed (1.06.2024) as per F-note above.
+>
+> E125: Previous affecting provision: para. 2 substituted by *Gas Regulation Act 2013* (39/2013), s. 40(a), not commenced; substituted (29.12.2014) as per E-note above.
+>
+> E126: Previous affecting provision: para. 2 substituted (9.07.1987) by *Gas (Amendment) Act 1987* (9/1987), s. 6, commenced on enactment; substituted (29.12.2014) as per F-note above.
+
+## SECOND SCHEDULE — ACQUISITION ORDERS
+
+1\. Every application by the Board for an acquisition order shall be accompanied by—
+
+(*a*) a draft of the order applied for,
+
+(*b*) such plan or plans, specifications and other documents as will show clearly the situation and area of the land to which the order sought is to apply, whether in relation to a right over the land or in relation to any other estate or interest in the land, and in case such right over or interest in the land or in any part thereof is proposed to be acquired for the purpose of enabling a pipeline to be laid, the following additional provisions shall apply, namely;
+
+(i) the said documents may show a strip of land (in this Article referred to as the “corridor”) in, on or over which it is proposed by the Board to construct the pipeline,
+
+(ii) the said documents may show and separately distinguish and delineate the limits (in this Act referred to as the “deviation limits”) within which the Board consider it may be necessary in providing such pipeline to construct it outside the corridor or to execute works outside the corridor,
+
+(*c*) a statement of the nature of the estate or interest in such land or the right over land which the Board seeks to acquire by virtue of the order, and
+
+(*d*) a book of reference specifying—
+
+(i) in case the Board propose to acquire a right over land or an interest in such a right, the person for the time being who is entitled to enjoy the right, if that person can by reasonable inquiry by the Board be ascertained,
+
+(ii) in case the Board proposes to acquire any interest in land, other than a right or interest mentioned in subparagraph (i) of this paragraph, the person who is the owner of the land if that person can be ascertained by such inquiry, and
+
+(iii) in case land is separately distinguished and delineated pursuant to paragraph (*b*) of this Article, the person who is the owner of the land or any part of the land within the deviation limits if that person can be ascertained by such inquiry.
+
+2\. Where an application is made by the Board for an acquisition order, the Minister may give such directions as he thinks fit as to the form of the plan, specification and book of reference referred to in the application.
+
+3\. (1) Where an application is made by the Board to the Minister for an acquisition order, the Board shall do the following:
+
+(*a*) deposit and keep deposited, at the place or each of the places appointed by the Minister in relation to the application for such period (being a period of not less than three weeks) as the Minister shall direct, a copy of the draft order, the plan or plans, specification and the book of reference which accompanied the application and which comply with any directions given by the Minister under Article 2 of this Schedule,
+
+(*b*) publish in such newspaper or newspapers as the Minister shall direct notice of the making of the application stating the place or places at which the application and the accompanying documents may be inspected pursuant to this Schedule during a period specified in the notice (which period shall be the period so directed) and also stating that representations and objections as regards the proposed acquisition order may be made in writing to the Minister during the said period (which representations and objections are hereby authorised to be made),
+
+(*c*) not later than two weeks before the expiration of the period so directed, serve a notice in writing containing the particulars mentioned in and complying with the requirements of paragraph (3) of this Article on any person whose name is specified in the relevant book of reference, other than an owner of land within the deviation limits, and whose address, being the address at which he ordinarily resides, can by reasonable inquiry be ascertained by the Board and—
+
+(i) in case the Board proposes to acquire by virtue of the order a right over land or an interest in such a right, who is for the time being either entitled to enjoy such right or interest or the owner of the land comprising the servient tenement,
+
+(ii) in case the Board proposes so to acquire an interest in land other than a right or interest mentioned in subparagraph (i) of this paragraph, who is the owner of the land,
+
+(*d*) (d) not later than two weeks before such expiration, send to the Commissioners of Public Works in Ireland, the Minister for Lands, the Minister for Local Government, F222[...], An Bord Pleanála and any local authority within whose functional area the land to which the application relates or any part of such land is situate, and to such other person (if any) as the Minister may, as regards the application, specify, a copy of the draft acquisition order and any plan and any other document sent to the Minister with the application.
+
+(2) Where land is separately distinguished and delineated pursuant to Article 1 (*b*) of this Schedule, the Board may within the period mentioned in paragraph (1) (*a*) of this Article serve on any person referred to in the relevant book of reference in relation to any such land a notice in writing containing the particulars mentioned in and complying with the requirements of paragraph (3) of this Article.
+
+(3) A notice referred to in paragraph (1) (*c*) or paragraph (2) of this Article shall state—
+
+(*a*) that an application has been made to the Minister for,
+
+(i) in the case of a notice referred to in the said paragraph (1) (*c*), an acquisition order,
+
+(ii) in the case of a notice referred to in the said paragraph (2), the confirmation of deviation limits,
+
+(*b*) that objections and representations may be made in writing to the Minister in relation to the application (which objections and representations are hereby authorised to be made),
+
+(*c*) the period within which such objections and representations may be so made, and
+
+(*d*) the place or places at which and the period during which the documents accompanying the application may be inspected pursuant to Article 4 of this Schedule,
+
+and the notice shall indicate the situation of the land to which the draft order, if made, would relate and with which the person on whom the notice is served is concerned.
+
+4\. Where an application is made by the Board to the Minister for an acquisition order, a person may during the period specified in a notice published pursuant to Article 3 (1) (*b*) of this Schedule inspect at any reasonable hour any document deposited pursuant to Article 3 (1) (*a*) of this Schedule with the application.
+
+5\. F223[(1) There shall be paid to the Minister for the Marine and Natural Resources on every application for an acquisition order in relation to the provision of an upstream pipeline such fee (if any) as the Minister for the Marine and Natural Resources, with the consent of the Minister for Finance, may fix.]
+
+(2) Fees payable under this Article shall be collected in money and be taken in such manner as the Minister for Finance may from time to time direct, and be paid into or disposed of for the benefit of the Exchequer in accordance with the directions of that Minister, and the Public Offices Fees Act, 1879, shall not apply in respect of such fees.
+
+6\. A dispute or difference as to the amount of compensation payable by the Board under this Act shall not be a ground for objection to the making of an acquisition order.
+
+7\. (1) (*a*) Where an application is made by the Board to the Minister for an acquisition order and where an objection is received, the Minister shall at the request of the objector, or may without such request, direct that an oral hearing be conducted as regards the application unless in his opinion the objection is frivolous, vexatious or otherwise of such a nature that the application can properly be considered without such a hearing.
+
+(*b*) Where the Minister directs an oral hearing to be conducted into an application by the Board for a compulsory acquisition order, he shall appoint a person to conduct such hearing and report to the Minister on the hearing, and the Board, and every person by whom an objection or representation to or as regards the application is made shall be entitled to appear and be heard at the hearing.
+
+(2) Paragraph (1) of this Article shall not apply to an application by the Board to the Minister for an acquisition order to extinguish a public right of way.
+
+(3) (*a*) The person appointed to conduct a hearing under this Article may summon witnesses to attend at the hearing and require any such witness to produce at the hearing any document in the witness's power or control.
+
+(*b*) Evidence given before a person appointed to conduct a hearing under this Article shall, if the person so requires, be given on oath (which the person is hereby empowered to administer) and any person who gives false evidence before such person shall be guilty of perjury and be punishable accordingly.
+
+(*c*) A summons to a witness to attend before a hearing under this Article shall be signed by the person appointed to conduct the hearing.
+
+(*d*) A witness before a hearing under this Article shall be entitled to the same immunities and privileges as if he were a witness before the High Court.
+
+(*e*) If any person—
+
+(i) on being duly summoned before a hearing under this Article makes default in attending, or
+
+(ii) being in attendance as a witness at such a hearing refuses to take an oath legally required to be taken by him, or to produce any document in his power or control legally required to be produced by him, or to answer any question to which the person conducting the hearing may legally require an answer, or
+
+(iii) does any thing which if the proceedings were proceedings before a court of justice having power to commit for contempt of court, would be contempt of such court,
+
+that person shall be guilty of an offence and be liable on summary conviction to a fine not exceeding £100.
+
+8\. (1) Subject to paragraph (2) of this Article, where the Minister, having complied with such of the following requirements as are appropriate, namely, the requirements of section 32 (5) (*b*) of this Act and the requirements of Article 7 of this Schedule, and having considered any report made to him under the said Article 7, or in case no such report is made, any representations made or objections not withdrawn, is of the opinion that an application by the Board for an acquisition order should be granted either in whole or in part, he shall, subject to any variations or amendments to the application as he thinks proper to make, make an acquisition order as regards the right over land or any other estate or interest in land specified in the application, or in the application as so varied or amended by the Minister, and except in so far as it applies to a public right of way the acquisition order shall be made subject to—
+
+(*a*) such restrictions (if any) as the Minister thinks proper and specifies in the order, and
+
+(*b*) such other terms and conditions (if any) as the Minister thinks proper and so specifies.
+
+(2) This Article shall not apply to any land within the deviation limits or to any right over such land.
+
+9\. Where the Minister, having complied with the requirements of Article 7 of this Schedule and having considered any report made to him under the said Article 7, or in case no such report is made, any representations made or objections not withdrawn, is of the opinion that the deviation limits delineated in documents deposited under this Schedule should be confirmed either in whole or in part, he shall, subject to any variations of or amendments to those limits as he thinks fit to make, so confirm the deviation limits.
+
+10\. (1) Where as regards a book of reference an owner of land (including land comprising a servient tenement) or a person entitled to enjoy a right over land who should have been included therein is omitted or the name included in such book as an owner or person so entitled is incorrect, or any land, or right over land, which should have been referred to in such book is omitted or any land referred to in such book is incorrectly described, the Board may apply to the Minister in writing to correct or amend the book of reference.
+
+(2) Where an application is made by the Board to the Minister under this Article, the Board shall serve on the owner of the land (or, where appropriate, the land comprising a servient tenement) or the person entitled to enjoy the right over land, to which the application relates a notice stating—
+
+(*a*) that an application has been made to the Minister under this Article,
+
+(*b*) the correction or amendment sought by the Board,
+
+(*c*) that the person may within the period of three weeks commencing on the day on which the notice is served make in writing representations or an objection to the Minister as regards the application (which representations or objection such person is hereby authorised to make).
+
+(3) Where the Minister, having considered any representations or objection duly made under this Article and not withdrawn, is satisfied that the omission, misdescription, or other mistake on foot of which the application is made was due to a mistake or oversight by the Board, he may correct or amend the book of reference to which the application relates either in the manner sought by the Board or in such other manner as he considers appropriate.
+
+(4) Where the Minister corrects or amends a book of reference under this Article, the omission, misdescription or other mistake on foot of which the application under this Article was made shall not form a ground on which the validity of the relevant book of reference may be questioned in any legal proceedings.
+
+11\. The following provisions shall have effect in relation to an acquisition order, namely;
+
+(*a*) the order shall contain such provisions as the Minister thinks necessary or expedient for the purpose of and for giving effect to the order,
+
+(*b*) without prejudice to the generality of paragraph (*a*) of this Article the order may incorporate all or any of the provisions of the Land Clauses Acts, other than Articles 1, 2, 3 and 6 of the Second Schedule to the Housing of the Working Classes Act, 1890, and for the purpose of this subparagraph—
+
+(i) the Board shall for the purposes of the Land Clauses Acts be deemed to be the Promoter and the order shall be deemed to be the Special Act, and
+
+(ii) the Board shall for the purposes of the Second Schedule to the Housing of the Working Classes Act, 1890, be regarded as being the local authority, the Minister shall be deemed to be the confirming authority and the order shall be deemed to be the confirming Act,
+
+(*c*) no action shall lie at law or in equity against the Board or any contractor or officer or servant of the Board for or on account of any act, matter or thing in respect of which compensation is payable by virtue of this Act,
+
+F224[(*d*) where the Board acts in contravention (whether by commission or omission) of the order the Board shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding €2,000,]
+
+(*e*) the order may incorporate any provision (including penal provisions) contained in any enactment relating to gas undertakers or gas undertakings with such adaptations and modifications as the Minister thinks proper,
+
+(*f*) the order may contain provisions authorising the Board at any time before conveyance of, or ascertainment of price or compensation for, land or a right over land being acquired by the Board under the order to enter and take possession and to use such land or exercise such right in exercise of the powers conferred on the Board under this Act and, in case the order contains such provisions, it shall also contain provisions—
+
+(i) requiring the Board, if it so enters and takes possession of the land or exercises such right, to pay interest on the amount of the price or compensation payable under this Act at such rate as shall be determined from time to time by the Minister for Finance from the date on which such power was exercised until payment,
+
+(ii) requiring that, if the Board has made an unconditional offer in writing of any sum as such compensation to the person to whom the compensation is payable under this Act, and the offer is not accepted by such person, and the sum awarded as compensation by the property arbitrator to such person does not exceed the sum so offered, then no interest shall be payable on such compensation in respect of any period after the date of the offer,
+
+(iii) requiring the Board, if it so enters and takes possession of the land or so exercises any right over land, to give to the occupier of the land at least one month's or, in the case of an occupied dwellinghouse, three months' previous notice in writing of its intention so to enter on or take possession of any land or so to exercise any right,
+
+(iv) authorising the Board to serve the notice aforesaid on a person by sending it by prepaid post in an envelope addressed to the person at his usual or last known address and deeming the notice to have been served on the person at the time at which the envelope would be delivered in the ordinary course of post and when the address of the person cannot be ascertained by reasonable inquiry, authorising the Board to serve the notice by affixing it in a conspicuous position on or near the land to which it relates and authorising the addressing of the envelope to the person for whom it is intended in case his name cannot be ascertained by reasonable inquiry by addressing it to “the owner” or “the occupier” (as the case may require) without naming him,
+
+(*g*) the order shall provide that whenever, under the order, the Board acquires or enters on and takes possession of any land which is subject, either alone or in conjunction with other land, to a land purchase annuity or a reclamation annuity, payment in lieu of rent or other sum payable periodically (not being merely rent under a contract of tenancy) payable to the F225[Minister for Agriculture, Food and Rural Development] or to the Commissioners of Public Works in Ireland, the Board shall—
+
+(i) as from the date on which it acquires, or enters on and takes possession of the land, whichever date is the earlier, become and be liable for payment to the F226[Minister for Agriculture, Food and Rural Development] or the said Commissioners (as the case may be) of such periodical sum, or such portion thereof as shall be apportioned by the F227[Minister for Agriculture, Food and Rural Development] or the said Commissioners (as the case may be) on the land, as if the land had been transferred to the Board by the owner thereof on that date,
+
+(ii) be entitled, if the Board so thinks fit, to redeem the periodical sum or the portion thereof aforesaid, and
+
+(iii) be obliged, if required by the F228[Minister for Agriculture, Food and Rural Development] or the said Commissioners (as the case may be) so to do, to redeem the periodical sum or the portion thereof aforesaid,
+
+(*h*) the order may provide that the Board may, for the purpose of enabling it to ascertain the ownership of any land, give any person who is the occupier of the land or who, either directly or indirectly, receives rent in respect of the land, a notice in the prescribed form requiring him to state in writing the nature of his own interest therein and the name and address of any other person known to him as having an interest therein, whether as owner in fee simple, mortgagee, lessee or otherwise, F229[and any person] who, having been required by the Board by a notice in writing given in pursuance of this provision to give to them any information, fails to give the information, or gives any information which he knows to be false in a material particular or recklessly gives information which is so false shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding F230[€500].
+
+(*i*) the order may provide for the determination by arbitration of any specified questions arising thereunder,
+
+(*j*) the order may contain such provisions ancillary or incidental to any of the matters aforesaid as the Minister considers necessary and proper.
+
+12\. The definition of “ owner ” in section 2 of this Act shall as regards this Schedule apply subject to the following modification, namely, in relation to land which comprises a servient tenement it shall be construed and have effect as if paragraph (*b*) thereof were deleted.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F222: Deleted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 23(1)(k)(i), commenced on enactment.
+>
+> F223, F224, F225, F226, F227, F228, F229, F230: Substituted (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 23(1)(k)(ii)-(v), commenced on enactment. A fine of €2,000 translates into a class C fine not greater than €2,500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2011.
+>
+> A fine of €500 translates into a class E fine not greater than €500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(2) and table ref. no. 1, S.I. No. 662 of 2011.
+>
+> **Modifications (not altering text):**
+>
+> C47: Reference perjury in art. 7(3) construed (28.07.2021) by *Criminal Justice (Perjury and Related Offences) Act 2021* (13/2021), s. 4(1) and sch. item 18, S.I. No. 378 of 2021.
+>
+> **References to perjury or subornation of perjury**
+>
+> **4.** (1) Where, on or after the coming into operation of this subsection, a person commits an offence referred to as perjury, howsoever described, in an enactment specified in Schedule 1 , he or she shall be liable to be proceeded against and punished as if he or she were guilty of perjury under this Act.
+>
+> ...
+>
+> SCHEDULE 1
+>
+> Section 4 (1)
+>
+> ...
+>
+> 18\. Gas Act 1976, Second Schedule, Article 7(3)
+>
+> ...
+>
+> C48: Functions transferred and references to “Department of Finance” and “Minister for Finance” in arts. 5, 11(f)(i) construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of—
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 30 of 1976</td><td>Gas Act 1976</td><td>Sections 7C, 7E, 7G, 8, 11(1)(a) and (b), 15, 21, 27(4) and 33(2)(a); Second Schedule, paragraphs 5 and 11(f)(i)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> C49: Certain functions transferred by *Planning and Development Act 2000* (30/2000), s. 215A, as inserted (31.01.2007) by *Planning and Development (Strategic Infrastructure) Act 2006* (27/2006), s. 37, S.I. No. 684 of 2006.
+>
+> **[Transfer of certain Ministerial functions under Gas Act 1976 to Board.**
+>
+> **215A.**— (1) The functions of—
+>
+> (*a*) the Minister for Communications, Marine and Natural Resources,
+>
+> (*b*) any other Minister of the Government, or
+>
+> (*c*) the Commission for Energy Regulation,
+>
+> under sections 31 and 32 of, and the Second Schedule to, the Gas Act 1976, as amended, in relation to the compulsory acquisition of land in respect of a strategic gas infrastructure development are transferred to, and vested in, the Board, and relevant references in that Act to the Minister for Communications, Marine and Natural Resources, any other Minister of the Government or the Commission for Energy Regulation shall be construed as references to the Board and any connected references shall be construed accordingly.
+>
+> (2) The transfer of the functions of the Minister for Communications, Marine and Natural Resources, any other Minister of the Government or the Commission for Energy Regulation to the Board in relation to the compulsory acquisition of land in accordance with subsection (1) shall include the transfer of all necessary ancillary powers in relation to deviation limits, substrata of land, easements, rights over land (including wayleaves and public rights of way), rights of access to land, the revocation or modification of planning permissions or other such functions as may be necessary in order to ensure that the Board can fully carry out its functions in relation to the enactments referred to in subsection (1).
+>
+> (3) Article 5 of the Second Schedule to the Gas Act 1976 shall not apply in respect of the function of compulsory acquisition transferred to the Board under subsection (1).**]**
+>
+> C50: Functions transferred and references construed (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 7(1), (2), (7) and sch., commenced on enactment, subject to transitional provisions in subss. (3)-(6).
+>
+> **Transfer of functions from Minister to Commission.**
+>
+> **7.**—(1) The administration and business in connection with the exercise, performance or execution of any of the functions transferred by subsection (2) are transferred on the appointed day to the Commission.
+>
+> (2) The functions vested in the Minister by or under each of the provisions mentioned in column (3) of the Schedule to this Act of the enactments mentioned in column (2) opposite the mention of that provision are transferred to the Commission on the appointed day.
+>
+> ...
+>
+> (7) References to the Minister in an Act or an instrument (including a licence granted or consent given thereunder) relating to any functions transferred by this Act to the Commission shall be construed, on and after the appointed day, as references to the Commission.
+>
+> ...
+>
+> SCHEDULE
+>
+> Section 7.
+>
+> Functions under Acts transferred from Minister to Commission
+>
+> <table><tr><td>Number and Uear</td><td>Short Title</td><td>Section</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>No. 30 of 1976</td><td>Gas Act 1976</td><td>...</td></tr><tr><td></td><td></td><td>Second Schedule (insofar as the functions relate to the provision of distribution or transmission pipelines)</td></tr></table>
+>
+> ...
+>
+> C51: Certain functions transferred and references to “Department of Public Enterprise” and “Minister for Public Enterprise” construed (27.07.2001) by *Petroleum and Offshore Exploration (Transfer of Departmental Administration and Ministerial Functions) Order 2001* (S.I. No. 389 of 2001), arts. 3, 4 and table, subject to transitional provisions in arts. 5-7.
+>
+> Note that the Department of the Marine and Natural Resources was most recently renamed as Communications, Climate Action and Environment (23.07.2016) *by Communications, Energy and Natural Resources (Alteration of Name of Department and Title of Minister) Order 2016* (S.I. No. 421 of 2016), in effect as per art. 1(2).
+>
+> 3\. The administration and business in connection with the exercise, performance or execution of any functions transferred by Article 4 of this Order are transferred to the Department of the Marine and Natural Resources.
+>
+> 4\. (1) The functions vested in the Minister for Public Enterprise (being the title of that Minister by virtue of the Transport, Energy and Communications (Alteration of Name of Department and Title of Minister) Order, 1997 (S.I. No. 299 of 1997)) by virtue of the Energy (Transfer of Departmental Administration and Ministerial Functions) (No. 2) Order, 1993 (S.I. No. 12 of 1993), by or under the provisions of the Gas Act, 1976 (No. 30 of 1976), as amended, which are set out in column (1) of the Table to this article are hereby transferred to the Minister for the Marine and Natural Resources to the extent specified in column (2) of that Table opposite the mention of the section in the said column (1).
+>
+> (2) References to the Minister for Public Enterprise and relating to any functions transferred by this Article shall, on and after the commencement of this Order, be construed as references to the Minister for the Marine and Natural Resources.
+>
+> <table><tr><td>Column 1</td><td>Column 2</td></tr><tr><td>Provisions</td><td>Extent of transfer</td></tr><tr><td>Sections 4, 6, 8, 27, 31, 32, 40A and Second Schedule</td><td>In so far as they relate to any upstream pipeline network</td></tr><tr><td>Section 40</td><td>In so far as it is not already transferred by the Petroleum and Offshore Exploration (Transfer of Departmental Administration and Ministerial Functions) Order, 2000 (S.I. No. 110 of 2000), and to the extent that it relates to any upstream pipeline network.</td></tr></table>
+>
+> C52: Application of section, other than subs. (1A), extended with modifications (10.07.2000) by *Gas (Amendment) Act 2000* (26/2000), s. 20(1)-(3), commenced on enactment; as amended (10.04.2002) by *Gas (Interim) (Regulation) Act 2002* (10/2002), s. 23(6)(b)(i)-(iii), commenced on enactment.
+>
+> **Conferral of powers of compulsory acquisition, etc. under Principal Act on certain persons.**
+>
+> **20.**— (1) In this section, “relevant person” means—
+>
+> **[**(*a*) save to the extent that this section has application to section 26 of the Principal Act, a person—
+>
+> (i) in respect of whom the Minister has, prior to the appointed day (within the meaning of section 2 of the Gas (Interim) (Regulation) Act, 2002), imposed a requirement under section 40(2) of the Principal Act,
+>
+> (ii) who, prior to the aforementioned day, has obtained the consent of the Minister under section 40(1) of the Principal Act,
+>
+> (iii) who, from the aforementioned day, has obtained the consent of the Commission under section 39A(1) of the Principal Act, or
+>
+> (iv) who, from the aforementioned day, has obtained the consent of the Minister for the Marine and Natural Resources under section 40(1) of the Principal Act,
+>
+> in relation to the construction, or construction and operation of a pipeline, as the case may be,**]**
+>
+> ...
+>
+> (2) The powers conferred by the provisions of the Principal Act referred to in subsection (3) shall, in addition to being exercisable by the Board, be exercisable by a relevant person and those provisions **[**, other than section 26(1A),**]** shall otherwise apply to such a person as they apply to the Board and, accordingly, on and from the passing of this Act, each reference in those provisions to the Board shall be construed as including a reference to a relevant person.
+>
+> (3) The provisions of the Principal Act mentioned in subsection (2) are: sections 26, 27 and 31, section 32 (other than subsection (1) or subsection (1A) (inserted by this section)), section 33 and the Second Schedule.
+
+[^1]: OJ No. L 26, 28.1.2012, p.1
+[^2]: OJ No. L 124, 25.4.2014, p. 1
+[^3]: OJ No. L 206, 22.7.1992, p.7
+[^4]: OJ No. L 158,10.6.2013, p.193
+[^5]: OJ No. L211, 14.8.2009, p.94
+[^6]: OJ No. L117, 3.5.2019, p.1

@@ -1,0 +1,40 @@
+---
+title: "Central Fund Act, 1963"
+identifier: "eli/1963/act/8"
+type: act
+jurisdiction: ie
+language: en
+number: 8
+year: 1963
+date: 1963-03-29
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1963/act/8/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Central Fund Act, 1963
+
+AN ACT TO APPLY CERTAIN SUMS OUT OF THE CENTRAL FUND TO THE SERVICE OF THE YEARS ENDING ON THE THIRTY-FIRST DAY OF MARCH ONE THOUSAND NINE HUNDRED AND SIXTY-THREE AND ONE THOUSAND NINE HUNDRED AND SIXTY-FOUR. [29*th March*, 1963.]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:—
+
+## 1. Issue of £9,034,624 out of the Central Fund for the service of the year ending 31st March, 1963.
+
+**1.**—The Minister for Finance may issue out of the Central Fund and apply towards making good the supply granted for the service of the year ending on the thirty-first day of March one thousand nine hundred and sixty-three, the sum of Nine Million Thirty-four Thousand Six Hundred and Twenty-four Pounds.
+
+## 2. Issue of £55,370,000 out of the Central Fund for the service of the year ending 31st March, 1964.
+
+**2.**—The Minister for Finance may issue out of the Central Fund and apply towards making good the supply granted for the service of the year ending on the thirty-first day of March one thousand nine hundred and sixty-four, the sum of Fifty-five Million Three Hundred and Seventy Thousand Pounds.
+
+## 3. Power of Minister for Finance to borrow up to £64,404,624.
+
+**3.**—(1) The Minister for Finance may borrow from any person any sum or sums not exceeding in the whole Sixty-four Million Four Hundred and Four Thousand Six Hundred and Twenty-four Pounds and for the purpose of such borrowing the Minister for Finance may create and issue any securities bearing such rate of interest and subject to such conditions as to repayment, redemption or otherwise as he thinks fit.
+
+(2) The principal and interest of any securities issued under this Act and the expenses incurred in connection with the issue of such securities shall be charged on the Central Fund or the growing produce thereof.
+
+(3) Any money raised by securities issued under this Act shall be placed to the credit of the account of the Exchequer and shall form part of the Central Fund and be available in any manner in which such Fund is available.
+
+## 4. Short title.
+
+**4.**—This Act may be cited as the Central Fund Act, 1963.

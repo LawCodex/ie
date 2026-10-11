@@ -1,0 +1,56 @@
+---
+title: "Local Government (Temporary Reduction of Valuation) Act, 1970"
+identifier: "eli/1970/act/13"
+type: act
+jurisdiction: ie
+language: en
+number: 13
+year: 1970
+date: 1970-08-02
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1970/act/13/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Local Government (Temporary Reduction of Valuation) Act, 1970
+
+AN ACT TO AMEND AND EXTEND THE LOCAL GOVERNMENT (TEMPORARY REDUCTION OF VALUATION) ACTS, 1954 TO 1966. [2*nd August*, 1970.]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## 1. Principal Act.
+
+**1.**—In this Act “the Principal Act” means the Local Government (Temporary Reduction of Valuation) Act, 1954.
+
+## 2. Amendment of section 3 of Principal Act.
+
+**2.**—Section 3 of the Principal Act is hereby amended by the substitution of “the 31st day of March, 1972” for “the 31st day of March, 1969” in the definition of “the prescribed period” contained in subsection (1).
+
+## 3. Amendment of section 4 of Principal Act.
+
+**3.**—(1) The following subsection is hereby inserted after subsection (1) of section 4 of the Principal Act:
+
+“(1A) Subsection (1) of this section shall not apply in a case in which—
+
+(*a*) the day of completion of the erection, enlargement or improvement of a building is after the 31st day of March, 1969, and
+
+(*b*) Part IV of the Local Government (Planning and Development) Act, 1963 (No. 28 of 1963), requires the grant with respect to the erection, enlargement or improvement of permission under that Part,
+
+unless the day of application for that permission is not later than the 9th day of December, 1969.”
+
+(2) The following subsection is hereby inserted after subsection (2) of section 4 of the Principal Act:
+
+“(2A) In a case in which the day of completion of the erection, enlargement or improvement of a building is after the 31st day of March, 1969, subsection (2) of this section shall have effect subject to the substitution for the reference to the six local financial years next following the local financial year next after that in which the erection, enlargement or improvement was completed—
+
+(*a*) if that day is before the 1st day of April, 1970—of a reference to the first five only of those years,
+
+(*b*) if it is after the 31st day of March, 1970, and before the 1st day of April, 1971—of a reference to the first four only of those years, and
+
+(*c*) if it is after the 31st day of March, 1971—of a reference to the first three only of those years.”
+
+## 4. Short title and collective citation.
+
+**4.**—(1) This Act may be cited as the Local Government (Temporary Reduction of Valuation) Act, 1970.
+
+(2) The Local Government (Temporary Reduction of Valuation) Acts, 1954 to 1966, and this Act may be cited together as the Local Government (Temporary Reduction of Valuation) Acts, 1954 to 1970.

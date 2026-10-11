@@ -1,0 +1,36 @@
+---
+title: "Rates on Agricultural Land (Relief) Act, 1978"
+identifier: "eli/1978/act/9"
+type: act
+jurisdiction: ie
+language: en
+number: 9
+year: 1978
+date: 1978-06-07
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1978/act/9/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Rates on Agricultural Land (Relief) Act, 1978
+
+AN ACT TO AMEND AND EXTEND THE RATES ON AGRICULTURAL LAND (RELIEF) ACTS, 1939 TO 1976. [7*th June*, 1978]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## 1. Application of Rates on Agricultural Land (Relief) Act, 1946.
+
+**1.**—(1) Subject to subsections (2) and (3) of this section, the Rates on Agricultural Land (Relief) Act, 1946, shall apply to the local financial years ending on the 31st day of December, 1978, and the 31st day of December, 1979, and shall so apply subject to the modification that no employment allowance shall be made.
+
+(2) A rating authority (within the meaning of the Local Government Act, 1946) shall not apply the Act aforesaid to a person, as respects a local financial year, if the valuation of all the tenements of agricultural land in respect of which he is rated equals or exceeds the amount standing specified, on the first day of that year, in section 15 (3) of the Finance Act, 1974.
+
+(3) (*a*) Notwithstanding subsection (2) of this section, if and whenever the Minister, as respects a local financial year, so provides by order, a rating authority (within the meaning of the said Local Government Act, 1946) shall not apply the Act aforesaid to a person, as respects that local financial year, if the valuation of all the tenements of agricultural land in the rating area of the authority in respect of which he is rated equals or exceeds the amount standing specified, on the first day of that year, in section 15 (3) of the Finance Act, 1974.
+
+(*b*) An order under paragraph (*a*) of this subsection shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next twenty-one days on which that House has sat after the order is laid before it, the order shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
+
+## 2. Short title, collective citation and construction.
+
+**2.**—(1) This Act may be cited as the Rates on Agricultural Land (Relief) Act, 1978.
+
+(2) The Rates on Agricultural Land (Relief) Acts, 1939 to 1976, and this Act may be cited together as the Rates on Agricultural Land (Relief) Acts, 1939 to 1978 and shall be construed together as one Act.

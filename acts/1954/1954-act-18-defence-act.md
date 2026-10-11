@@ -1,0 +1,10041 @@
+---
+title: "Defence Act, 1954"
+identifier: "eli/1954/act/18"
+type: act
+jurisdiction: ie
+language: en
+number: 18
+year: 1954
+date: 1954-05-13
+last_amended: 2024-11-06
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1954/act/18/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1954/act/18/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Defence Act, 1954
+
+AN ACT TO MAKE FURTHER AND BETTER PROVISION IN RELATION TO THE DEFENCE OF THE STATE AND THE DEFENCE FORCES AND TO MAKE PROVISION FOR OTHER MATTERS CONNECTED WITH OR INCIDENTAL TO THE MATTERS AFORESAID. [13*th May*, 1954.]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:—
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Instruments made pursuant to certain sections of Act exempted from primary application of *Statutory Instruments Act 1947* by *Statutory Instruments Act 1947* (44/1947), s. 2(2A), as inserted (18.07.2015) by *Statute Law Revision Act 2015* (23/2015), s. 6, commenced on enactment. The effect of this provision appears to be to exempt certain instruments from publication in the usual way as provided by the 1947 Act, s. 3.
+>
+> **Statutory instruments to which this Act primarily applies.**
+>
+> 2.— ...
+>
+> (2A) Statutory instruments made under any of—
+>
+> (a) sections 17, 21 to 23, 25 to 27, 29, 33, 35, 36(3) as respects revocation orders, 37 to 49, 53, 55, 56, 60 to 68, 70, 72, 73, 75, 80 to 82, 84, 86 to 88, 90, 92 to 94, 97, 98, 100, 102, 103, 114 to 117, 180, 182, 184, 243, 244, 246, 290 and 292 of the Defence Act 1954, or
+>
+> (b) sections 2 and 5 of the Defence (Amendment) Act 1990,
+>
+> shall not be instruments to which this Act primarily applies.
+>
+> C2: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2), subject to transitional provisions in arts. 6-9.
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (*a*) the enactments specified in Schedule 1, and
+>
+> (*b*) the statutory instruments specified in Schedule 2,
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 18 of 1954</td><td>Defence Act 1954</td><td>Sections 8, 15, 28, 30, 32, 33, 35, 36, 37, 38, 83, 97, 268, 271, 278 and 283</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+>
+> C3: Term “judge-advocate” construed (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 5, S.I. No. 254 of 2008.
+>
+> **References to judge advocate in certain Acts and instruments.**
+>
+> **5.**— Every reference in the *Defence Acts 1954 to 2007* or in any instrument made under those Acts to a judge-advocate shall be read as a reference to a military judge.
+>
+> C4: Application of collectively cited *Defence Acts 1954 to 1998* to enlisted under 18 year olds implied (1.05.2002) by *Children Act 2001* (24/2001), s. 271, S.I. No. 151 of 2002.
+>
+> **Exclusion of members of Defence Forces.**
+>
+> **271.**—For the purposes of this Act, persons under 18 years of age who are enlisted members of the Defence Forces shall not be regarded as children in any case where they are subject to military law as governed by the Defence Acts, 1954 to 1998.
+>
+> C5: Decision on appeal deemed to be decision of court-martial for purposes of collectively cited *Defence Acts 1954 to 1979* (29.06.1983) by *Courts-Martial Appeals Act 1983* (19/1983), s. 20(1), commenced on enactment.
+>
+> **Convictions and sentences of the Court, etc.**
+>
+> **20.**—(1) Where on any appeal the Court substitutes a conviction of a different offence or substitutes a different sentence, that conviction or sentence shall, for the purposes of the Defence Acts, 1954 to 1979, and any instrument made thereunder, be deemed to be a duly confirmed finding or sentence of a court-martial.
+>
+> ...
+>
+> C6: Application of collectively cited *Defence Acts 1954 to 1979* extended (23.01.1980) by *Defence (Amendment) (No. 2) Act 1979* (28/1979), s. 2, S.I. No. 19 of 1980.
+>
+> **Application of Defence Acts, 1954 to 1979, to women.**
+>
+> **2.**—The provisions of the Defence Acts, 1954 to 1979, and of any statutory instruments made thereunder shall apply to women members of the Defence Forces holding commissioned or non-commissioned rank and accordingly all words in those Acts and those instruments importing a reference to persons of the male sex shall be construed as importing a reference to persons of either sex.
+>
+> C7: Definition of term “active service” extended (21.12.1960) by *Defence (Amendment) (No. 2) Act 1960* (44/1960), s. 4(1), commenced on enactment.
+>
+> **Amendments of the Principal Act.**
+>
+> **4.**—(1) A member of the Permanent Defence Force who is serving outside the State with an armed International United Nations Force shall, for the purposes of the Principal Act, be deemed, while so serving, to be on active service.
+>
+> ...
+>
+> C8: Application of Act extended to prisoners of war (17.07.1956) by *Prisoners of War and Enemy Aliens Act 1956* (27/1956), s. 4, commenced on enactment.
+>
+> **Prisoner of war to be person subject to military law.**
+>
+> **4.**—A prisoner of war shall be a person subject to military law in the same manner as a member of the Defence Forces of rank corresponding to the rank or status of such prisoner of war is so subject for the time being by virtue of the Defence Act, 1954 (No. 18 of 1954), and the provisions of that Act, and of the orders, regulations and rules thereunder, having application in relation to persons subject to military law shall have effect in relation to such prisoner of war accordingly, but without prejudice—
+>
+> (*a*) to any exclusions or modifications which the Minister may think proper to make by regulations under this paragraph so as to enable those provisions to have effect in conformity with the circumstances (including internment) of prisoners of war, and
+>
+> (*b*) to any regulations under section 2 or section 3 of this Act.
+>
+> **Editorial Notes:**
+>
+> E1: Form of oath to be made by a military judge before entering duties under the Act provided for (25.09.2007) by *Rules of Procedure (Defence Forces) (Form of Oath of Military Judge) 2007* (S.I. No. 661 of 2007).
+>
+> E2: Previous affecting provision: application of Act restricted (29.06.1983) by *Courts-Martial Appeals Act 1983* (19/1983), s. 18(4), commenced on enactment; s. 18 repealed (29.12.1993) by *Criminal Procedure Act 1993* (40/1993), s. 13 and sch., commenced on enactment.
+>
+> E3: Previous affecting provision: functions in relation to pay and allowances and terms and conditions of civilians transferred to Department of and Minister for the Public Service (1.11.1973) by *Public Service (Transfer of Departmental Administration and Ministerial Functions) Order 1973* (S.I. No. 294 of 1973), arts. 3, 4(2); re-transferred to Department of and Minister for Finance (19.03.1987) by *Public Service (Transfer of Departmental Administration and Ministerial Functions) Order 1987* (S.I. No. 81 of 1987), arts. 3, 4, subject to transitional provisions in arts. 5-9.
+
+## PART I.Preliminary and General. — PART I. — Preliminary and General.
+
+### 1. Short title and commencement.
+
+**1.**—(1) This Act may be cited as the Defence Act, 1954.
+
+(2) This Act shall come into operation on such day as may be fixed therefor by order of the Minister for Defence.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E4: Power pursuant to section exercised (1.01.1955) by *Defence Act 1954 (Commencement) Order 1954* (S.I. No. 233 of 1954).
+>
+> 2\. The Defence Act, 1954, shall come into operation on the 1st day of January, 1955.
+
+### 2. Interpretation generally.
+
+**2.**—(1) In this Act—
+
+the expression “absence without leave” means the act of a person absenting himself without leave within the meaning of section 137;
+
+the expression “absent himself without leave” has the same meaning as in section 137;
+
+the word “absentee” means a person who absents himself without leave within the meaning of section 137;
+
+the expression “on active service” has, in relation to a person subject to military law, the meaning assigned to it by section 5;
+
+the expression “the Act of 1923” means the Defence Forces (Temporary Provisions) Act, 1923 (No. 30 of 1923), as amended, extended and continued by subsequent enactments;
+
+F1["Act of 1947" means the Courts of Justice Act 1947.]
+
+F2[...]
+
+the expression “the Army Nursing Service” means the nursing service established under section 289;
+
+F3["assisting person" means in relation to proceedings for an offence under Part V of this Act, subject to the consent of the member concerned, such member of the Defence Forces who is subject to military law as the person charged with the offence may choose for the purposes of providing assistance to that person as provided for in the said Part V;]
+
+the expression “attestation paper” means the document referred to as an attestation paper in section 56;
+
+the expression “called out in aid of the civil power”, in relation to a reservist, shall be construed in accordance with subsection (2) of section 90;
+
+the expression “called out on permanent service”, in relation to a reservist, shall be construed in accordance with subsection (2) of section 87 or subsection (3) of section 88 (whichever of those subsections is applicable);
+
+the expression “certificate of discharge” means a certificate issued under section 82;
+
+the expression “the Chief of Staff” means the Chief of Staff of the Defence Forces;
+
+the expression “civil court” means any court established under Article 34 of the Constitution, and includes the courts established under the Courts of Justice Act, 1924 (No. 10 of 1924), and any Special Criminal Court established under the Offences against the State Act, 1939 (No. 13 of 1939);
+
+the expression “civil custody” means the custody of the Garda Síochána or other lawful civil authority authorised to retain in custody civil prisoners and includes confinement in a public prison;
+
+the expression “civil offence” has the meaning assigned to it by section 169;
+
+the expression “class of reservists” means any class of the Reserve Defence Force, being—
+
+(*a*) the Reserve of Men (First Line), or
+
+(*b*) the Reserve of Men (An Fórsa Cosanta Aitiúil), or
+
+(*c*) the Reserve of Men (An Slua Muirí), or
+
+(*d*) any class constituted under subsection (3) of section 21;
+
+the word “class” means, in relation to the Reserve Defence Force, a class of the Reserve Defence Force mentioned in section 21;
+
+the expression “commanding officer” means in any section in which it occurs an officer declared by regulations made by the Minister under this Act to be a commanding officer for the purposes of that section;
+
+the expression “commissioned army rank” means any rank set out in column (2) of the Second Schedule to this Act;
+
+the expression “commissioned naval rank” means any rank set out in column (3) of the Second Schedule to this Act;
+
+the expression “commissioned rank” means any rank being—
+
+(*a*) a commissioned army rank, or
+
+(*b*) a commissioned naval rank;
+
+the expression “company commander” means in any section in which it occurs an officer declared by regulations made by the Minister under this Act to be a company commander for the purposes of that section;
+
+F3["court-martial", when used without qualification, means a general court-martial, a limited court-martial or a summary court-martial;
+
+"Court-Martial Administrator" means the Court-Martial Administrator appointed under Chapter IVA of Part V of this Act;
+
+F4["court-martial prosecutor" has the meaning assigned to it by section 184F;]
+
+"court-martial rules" means rules made under section 240B with respect to courts-martial;]
+
+references to the date of attestation of a man shall be construed as references to the date which is, by virtue of section 59, the date of his attestation;
+
+F3["a day’s pay" means—
+
+(*a*) in relation to a person who is convicted by a court-martial of an offence against military law or in respect of whom a determination is made or confirmed under Chapter IV of Part V of this Act and who is a member of the Defence Forces, the basic pay, excluding any additional pay or allowance, that is, or would be, payable to that person in respect of the day on which punishment is awarded in respect of the offence, or
+
+(*b*) in relation to a person who is convicted by a court-martial of an offence against military law or in respect of whom a determination is made or confirmed under Chapter IV of Part V of this Act and who is not a member of the Defence Forces but who was a member of the Defence Forces when the offence was committed (not being a person to whom paragraph (*c*) of this definition applies), the basic pay, excluding any additional pay or allowance, that would be payable to that person in respect of the day on which punishment is awarded in respect of the offence if he were a member of the Defence Forces on that day and his rank and service (or service in rank, if appropriate) were the same as those on the last day of his service in the Defence Forces, or
+
+(*c*) in relation to a person who is convicted by a court-martial of an offence against military law or in respect of whom a determination is made or confirmed under Chapter IV of Part V of this Act and who is not a member of the Defence Forces but who is, or was when the offence was committed, subject to military law as an officer pursuant to section 118(*d*) or (*e*) or as a man pursuant to section 119(*c*) or (*d*), the basic pay, excluding any additional pay or allowance, that would be payable to an officer in the rank of second lieutenant who is in receipt of the maximum pay applicable to that rank, or to a man in the rank of private of the highest grade who is in receipt of the maximum pay applicable to that rank, as the case may be, in respect of the day on which punishment is awarded in respect of the offence;]
+
+the word “decoration” means any medal, clasp, good-conduct badge or other decoration;
+
+the expression “the Defence Forces” means the defence forces to be raised and maintained under this Act;
+
+F5["Defence Forces Headquarters" shall be construed in accordance with section 13 (inserted by section 4 of the Defence (Amendment) Act, 1998);
+
+"Deputy Chief of Staff (Operations)" means the Deputy Chief of Staff (Operations) of the Defence Forces;
+
+"Deputy Chief of Staff (Support)" means the Deputy Chief of Staff (Support) of the Defence Forces;]
+
+the word “desert” means desert the Defence Forces within the meaning of section 135;
+
+the word “deserter” means a person who deserts;
+
+the word “desertion” means the act of deserting the Defence Forces within the meaning of section 135;
+
+the expression “detention barrack” means a building or part of a building declared under section 232 to be a detention barrack;
+
+F3["Director" means the Director of Military Prosecutions appointed under Chapter IVB of Part V of this Act;
+
+"document" includes—
+
+(*a*) a map, plan, graph, drawing, photograph or record, or
+
+(*b*) a reproduction in permanent legible form, by a computer or other means (including enlarging), of information in non-legible form;]
+
+the expression “employed on a State ship” has, in relation to a member of the Defence Forces, the meaning assigned to it by section 6;
+
+the word “enemy” includes armed mutineers, armed rebels, armed rioters and pirates;
+
+F4["External Oversight Body" has the meaning assigned to it by section 321;]
+
+F6[the expression "flag officer" means an officer holding the commissioned naval rank of commodore or higher commissioned naval rank;]
+
+the expression “fraudulent enlistment” means the act of fraudulently enlisting within the meaning of section 164;
+
+F7[the expression "general officer" means an officer holding the commissioned army rank of brigadier-general or higher commissioned army rank;]
+
+F3["intoxicant" includes any alcohol, drug, solvent or any other substance or combination of substances;]
+
+the word “man” means a person who is for the time being a member of the Defence Forces, but does not include an officer;
+
+F8[...]
+
+F3[F9["military judge"—
+
+(*a*) means a military judge appointed under Chapter IVC of Part V of this Act, and
+
+(*b*) in relation to the performance of the functions of a military judge under this Act or any statutory instrument made under it, where a temporary designation of a Circuit Judge to carry out such functions of a military judge has been made under section 11A of the Act of 1947, references to the performance of such functions shall be construed in accordance with section 184LA(3).]]
+
+the expression “military office” means any office in the Defence Forces;
+
+the expression “military prison” means a building or part of a building declared under section 232 to be a military prison;
+
+the expression “military prisoner” means a person under sentence of imprisonment passed by a court-martial;
+
+the expression “the Minister” means the Minister for Defence;
+
+the expression “non-commissioned army rank” means any rank set out in column (2) of the Third Schedule to this Act;
+
+the expression “non-commissioned naval rank” means any rank set out in column (3) of the Third Schedule to this Act;
+
+the expression “non-commissioned officer” means a man holding—
+
+(*a*) any non-commissioned army rank, other than that of private, or
+
+(*b*) any non-commissioned naval rank, other than that of seaman;
+
+the expression “offence against military law” means any offence mentioned in any section contained in Chapter II of Part V of this Act;
+
+the word “officer”, when used without qualification, means a person who—
+
+(*a*) holds a commissioned rank in, and is for the time being an officer of, the Permanent Defence Force, or
+
+(*b*) holds a commissioned rank in, and is for the time being an officer of, the Reserve Defence Force;
+
+the expression “the operative date” means the day on which this Act comes into operation;
+
+F10[...]
+
+the expression “period of emergency” has the meaning assigned to it by section 4;
+
+the expression “the Permanent Defence Force” means the constituent part of the Defence Forces which is to be called and known by that name;
+
+references to a person subject to military law shall be construed as references to a person who is, by virtue of section 118 or 119, subject to military law;
+
+the word “prescribed” means,—
+
+(*a*) where it occurs in Part V F11[(other than Chapters IV and X or in the case of any matter or thing referred to in Part V as prescribed by court-martial rules)] of this Act, prescribed by rules of procedure,
+
+(*b*) where it occurs elsewhere, prescribed by regulations made under this Act;
+
+the expression “proclamation authorising the calling out of reservists on permanent service” means a proclamation made under paragraph (*a*) of subsection (1) of section 87;
+
+the word “property” includes money;
+
+the expression “public prison” means any prison or place in which a person convicted and sentenced to imprisonment by a civil court may be lawfully confined;
+
+F2[...]
+
+the expression “recruiting regulations” means regulations made under section 56;
+
+the expression “registered place of abode” means, in relation to a reservist, the address registered by him, in accordance with regulations made by the Minister under this Act, as his registered place of abode;
+
+the expression “the Reserve Defence Force” means the constituent part of the Defence Forces which is to be called and known by that name;
+
+the word “reservist”, when used without qualification, means a man of the Reserve Defence Force;
+
+the expression “right over land” means any easement, profit á prendre or other right over or in respect of land;
+
+the expression “rules of procedure” means rules made under section 240;
+
+F3["scheduled offence", for the purposes of Part V of this Act, shall have the meaning assigned to it by section 176A;]
+
+the expression “secret society” means an association, society or other body the members of which are required by the regulations thereof to take or enter into, or do in fact take or enter into, an oath, affirmation, declaration or agreement not to disclose the proceedings or some part of the proceedings of the association, society or body;
+
+the word “service”, when qualifying aircraft, aircraft material, equipment, vehicles, animals, messes, institutes, canteens, necessaries, clothing, books or property F12[or any other matter], means belonging to or connected with the Defence Forces or any unit or part of a unit thereof;
+
+the expression “service corps” means any military body or combination of military bodies declared to be a service corps by regulations made under section 23 and for the time being in force;
+
+the expression “service custody” means the holding under arrest or in confinement of a person by the Defence Forces and includes confinement in a military prison or a detention barrack;
+
+the expression “State ship” means a ship or vessel belonging to, or employed in the service of, the State and used for defence purposes;
+
+F13[...]
+
+F14["superior officer" includes—
+
+(*a*) when used in relation to a member of the Permanent Defence Force, an officer or non-commissioned officer of the Permanent Defence Force of equal or higher rank who is authorised, in relation to that member, by or under this Act or by custom of the service, to exercise authority over that member,
+
+(*b*) when used in relation to a member of the Reserve Defence Force, an officer or non-commissioned officer of the Permanent Defence Force or of the Reserve Defence Force, of equal or higher rank, who is authorised, in relation to that member, by or under this Act or by custom of the service, to exercise authority over that member;]
+
+the expression “the term of his original enlistment”—
+
+(*a*) in relation to a man of the Permanent Defence Force who is enlisted under section 53, has, subject to paragraph (*d*) of subsection (1) of section 63, the meaning assigned to it by section 53,
+
+(*b*) in relation to a reservist who, having been enlisted in the Permanent Defence Force under section 53, has been transferred to the Reserve Defence Force under section 70, has, subject to paragraph (*c*) of subsection (2) of section 63, the meaning assigned to it by section 53,
+
+(*c*) in relation to a reservist who is enlisted under section 55, has, subject to subsection (3) of section 66, the meaning assigned to it by section 55.
+
+(2) In this Act, a reference by number to a section is to the section of this Act bearing that number unless it is indicated that a reference to some other Act is intended.
+
+(3) In this Act, references to any enactment shall be construed as references to that enactment as amended by any subsequent enactment.
+
+F15[(4) In this Act, a reference to stealing shall be construed as a reference to theft within the meaning of section 2 of the Criminal Justice (Theft and Fraud Offences) Act 2001.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 2(a), S.I. No. 568 of 2011.
+>
+> F2: Deleted (1.10.1998) by *Defence (Amendment) Act 1998* (31/1998), s. 2 (b), S.I. No. 366 of 1998.
+>
+> F3: Inserted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 6(a), commenced on enactment as per s. 1(3).
+>
+> F4: Inserted (6.11.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 5, S.I. No. 609 of 2024.
+>
+> F5: Inserted (1.10.1998) by *Defence (Amendment) Act 1998* (31/1998), s. 2(a), S.I. No. 366 of 1998.
+>
+> F6: Substituted (20.02.1979) by *Defence (Amendment) Act 1979* (1/1979), s. 2, commenced on enactment.
+>
+> F7: Substituted (20.02.1979) by *Defence (Amendment) Act 1979* (1/1979), s. 2, commenced on enactment.
+>
+> F8: Deleted (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, para. 1(a), commenced as per s. 1.
+>
+> F9: Substituted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 2(b), S.I. No. 568 of 2011.
+>
+> F10: Deleted (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, para. 1(b), commenced as per s. 1.
+>
+> F11: Substituted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 6(b), commenced on enactment as per s. 1(3).
+>
+> F12: Inserted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 6(c), commenced on enactment as per s. 1(3).
+>
+> F13: Deleted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 6(d), commenced on enactment as per s. 1(3).
+>
+> F14: Substituted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 6(e), commenced on enactment as per s. 1(3).
+>
+> F15: Inserted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 6(f), commenced on enactment as per s. 1(3).
+>
+> **Modifications (not altering text):**
+>
+> C9: Term “judge-advocate” defined (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 5, S.I. No. 254 of 2008.
+>
+> **References to judge advocate in certain Acts and instruments.**
+>
+> **5.**— Every reference in the *Defence Acts 1954 to 2007* or in any instrument made under those Acts to a judge-advocate shall be read as a reference to a military judge.
+
+### 3. Application of Act to persons subject to military law.
+
+**3.**—The application of this Act to a person subject to military law shall not be affected by reason of the fact that such person is for the time being outside the State or on board a ship or aircraft.
+
+### 4. Period of emergency.
+
+**4.**—(1) The Government may, whenever they consider the circumstances are of such a nature as to warrant their so doing, by order under this subsection declare that a state of emergency exists.
+
+(2) The Government may by order under this subsection revoke any order made under subsection (1) of this section.
+
+(3) Whenever an order is made by the Government under subsection (1) of this section declaring that a state of emergency exists, then, so long as such order remains in force, a period of emergency shall be deemed for the purpose of this Act to exist, and the expression “period of emergency” shall in this Act be construed accordingly.
+
+(4) Every order made under this section shall, as soon as may be after it is made, be laid before each House of the Oireachtas and be published in the *Iris Oifigiúil*.
+
+(5) If, at the time an order is made under this section, either House of the Oireachtas stands adjourned, that House shall be summoned to meet as soon as conveniently may be but in any event not later than twenty-one days after the order is made.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C10: Application of subs. (1) extended (16.05.1991) by *Defence (Amendment) Act 1990* (6/1990), s. 3, S.I. No. 119 of 1991.
+>
+> **Suspension in certain circumstances of associations.**
+>
+> **3.**—(1) Whenever an order under section 4 (1) of the Principal Act comes into operation, any association shall thereupon become and be suspended and an association shall not be established under section 2 (1) of this Act while the order is in force.
+>
+> (2) If, following the coming into operation of such an order as aforesaid, an association is suspended, then, as soon as may be after the revocation of that order, the Minister shall revoke the suspension.
+
+### 5. Active service.
+
+**5.**—(1) A person subject to military law shall, for the purposes of this Act, be on active service—
+
+(*a*) during any period during which an order made under subsection (2) of this section is in force, or
+
+(*b*) whenever he is attached to or forms part of a force which is engaged in operations against an enemy, or
+
+(*c*) whenever he is engaged in military operations in a place wholly or mainly occupied by an enemy,
+
+and the expression “on active service” when used in this Act in relation to a person subject to military law shall be construed accordingly.
+
+(2) The Government, during a period of emergency, may, whenever they consider the circumstances are of such a nature as to warrant their so doing, by order under this subsection declare the Defence Forces to be on active service.
+
+(3) An order under subsection (2) of this section shall, if not previously revoked under subsection (4) of this section, cease to be in force on the expiration of the period of emergency current at the time the order was made.
+
+(4) The Government may by order under this subsection revoke any order made under subsection (2) of this section.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C11: Certain employment under Act exempted from application of *Protection of Young Persons (Employment) Act 1996* (2.01.1997) by *Protection of Young Persons (Employment) Act 1996* (16/1996), s. 6(5)(a), S.I. No. 371 of 1996.
+>
+> **Employment of young persons.**
+>
+> **6.**— ...
+>
+> (5) The limitations on hours of work and on night work specified in subsection (1) (a) and (b), and the minimum periods of rest specified in subsection (1) (c) and (d) shall not apply to young persons who are members of the Defence Forces when they are—
+>
+> (*a*) on active service within the meaning of section 5 of the Defence Act, 1954, or deemed to be on active service, within the meaning of section 4 (1) of the Defence (Amendment) (No. 2) Act, 1960;
+>
+> ...
+>
+> C12: Definition of term “active service” extended (21.12.1960) by *Defence (Amendment) (No. 2) Act 1960* (44/1960), s. 4(1), commenced on enactment.
+>
+> **Amendments of the Principal Act.**
+>
+> **4.**—(1) A member of the Permanent Defence Force who is serving outside the State with an armed International United Nations Force shall, for the purposes of the Principal Act, be deemed, while so serving, to be on active service.
+
+### 6. Employment on State ships.
+
+**6.**—Whenever an officer or man is borne on the roll of, or is being trained or exercised on, any State ship, he shall, for the purposes of this Act, be deemed to be employed on such State ship, and the expression “employed on a State ship” and cognate expressions shall be construed accordingly.
+
+### 7. Prosecution of certain offences by the Minister.
+
+**7.**—An offence which under this Act is punishable on summary conviction by the District Court may be prosecuted by the Minister as prosecutor.
+
+### 8. Provisions in relation to regulations.
+
+**8.**—(1) Any regulations made under this Act which involve a direct or indirect charge on or a payment into public funds shall be made with the consent of the Minister for Finance.
+
+(2) In making regulations under this Act, the Minister may make different regulations in relation to the Permanent Defence Force, the Reserve Defence Force and different classes of the Reserve Defence Force.
+
+### 9. Repeals.
+
+**9.**—The enactments mentioned in column (2) of the First Schedule to this Act are hereby repealed to the extent mentioned in column (3) of the said Schedule.
+
+### 10. Expenses.
+
+**10.**—The expenses incurred by a Minister of State in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## PART II.The Council of Defence, the Chief of Staff, the Adjutant-General, the Quartermaster-General, Military Branches of the Department of Defence, the Inspector-General and the Judge Advocate-General. — PART II. — The Council of Defence, the Chief of Staff, the Adjutant-General, the Quartermaster-General, Military Branches of the Department of Defence, the Inspector-General and the Judge Advocate-General.
+
+### 11. The Council of Defence.
+
+**11.**—(1) There shall stand established a body to be called the Council of Defence (in this section referred to as the Council) to aid and counsel the Minister on all matters in relation to the business of the Department of Defence on which the Minister may consult the Council.
+
+(2) The Council shall consist of two civil members, namely, the F16[Minister of State at the Department of Defence] and the Secretary of the Department of Defence, and three military members, namely, the Chief of Staff, the Adjutant-General and the Quartermaster-General.
+
+(3) The Secretary of the Department of Defence shall be secretary of the Council.
+
+(4) The Council shall meet whenever summoned by the Minister.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F16: Substituted (1.01.1978) by *Ministers and Secretaries (Amendment) (No. 2) Act 1977* (28/1977), s. 5, S.I. No. 378 of 1977.
+>
+> **Modifications (not altering text):**
+>
+> C13: Terms “Adjutant-General” and “Quartermaster-General” construed (1.10.1998) by *Defence (Amendment) Act 1998* (31/1998), s. 10(3), S.I. No. 366 of 1998.
+>
+> **Adaptations.**
+>
+> **10.**— ...
+>
+> (3) (*a*) References in sections 11 and 40 of the Principal Act to the Adjutant-General shall be construed as references to the Deputy Chief of Staff (Operations).
+>
+> (*b*) References in the said sections 11 and 40 to the Quartermaster-General shall be construed as references to the Deputy Chief of Staff (Support).
+
+### 12. The Chief of Staff, the Adjutant-General and the Quartermaster-General.
+
+**12.**—(1) There shall be—
+
+(*a*) a Chief of Staff of the Defence Forces,
+
+F17[(*b*) a Deputy Chief of Staff (Operations) of the Defence Forces, and
+
+(*c*) a Deputy Chief of Staff (Support) of the Defence Forces.]
+
+F18[(2) (*a*) An appointment to the office of Chief of Staff shall be made by the President.
+
+(*b*) Every person appointed to the office of Chief of Staff shall be an officer of the Permanent Defence Force.
+
+(*c*) Every holder of the office of Chief of Staff shall hold that office for such term (not exceeding 5 years) as may be specified in the instrument of his or her appointment but shall be eligible for re-appointment on the expiration of that term.
+
+(*d*) Where the holder of the office of Chief of Staff ceases to be an officer of the Permanent Defence Force, he or she shall also cease to hold the office of Chief of Staff.
+
+(*e*) The President may, for stated reasons, remove the Chief of Staff from office.]
+
+F19[(3) (*a*) In this subsection, "the Deputy Chief of Staff" means, as the context may require, the Deputy Chief of Staff (Operations) or the Deputy Chief of Staff (Support).
+
+(*b*) The Government shall appoint the Deputy Chief of Staff and may, for stated reasons, terminate his or her appointment as Deputy Chief of Staff.
+
+(*c*) A person appointed to be the Deputy Chief of Staff shall be an officer of the Permanent Defence Force.
+
+(*d*) Subject to this subsection, a person shall be appointed to be the Deputy Chief of Staff for such term (not exceeding 5 years) as may be specified in the instrument of his or her appointment but shall be eligible for reappointment on the expiration of that term.
+
+(*e*) Where a person appointed to be the Deputy Chief of Staff ceases to be an officer of the Permanent Defence Force, he or she shall also cease to be the Deputy Chief of Staff.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F17: Substituted (1.10.1998) by *Defence (Amendment) Act 1998* (31/1998), s. 3(a), S.I. No. 366 of 1998.
+>
+> F18: Substituted (1.10.1998) by *Defence (Amendment) Act 1998* (31/1998), s. 3(b), S.I. No. 366 of 1998.
+>
+> F19: Inserted (1.10.1998) by *Defence (Amendment) Act 1998* (31/1998), s. 3(c), S.I. No. 366 of 1998.
+
+### 13. Military branches of the Department of Defence.
+
+F20[**13.**—(1) There shall stand established in the Department of Defence a military element (which shall be known, and is referred to in this Act, as "Defence Forces Headquarters"), the head of which shall be the Chief of Staff.
+
+(2) Subject to the Defence Acts, 1954 to 1998, there shall be assigned to the Chief of Staff such duties in connection with the business of the Department of Defence as the Minister may from time to time determine.
+
+(3) The Chief of Staff shall be directly responsible to the Minister for the performance of such duties as may from time to time be assigned to him or her under subsection (2).
+
+(4) The Chief of Staff may, subject to the approval of the Minister, delegate such duties assigned to him or her under subsection (2) as he or she considers appropriate to the Deputy Chief of Staff (Operations) or the Deputy Chief of Staff (Support).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F20: Substituted (1.10.1998) by *Defence (Amendment) Act 1998* (31/1998), s. 4, S.I. No. 366 of 1998.
+
+### 14. The Inspector-General.
+
+**14.**—(1) The Government may, whenever they think fit, by order under this subsection declare that there shall be an Inspector-General of the Defence Forces, and whenever any such order is made and is in force there shall be an Inspector-General of the Defence Forces.
+
+(2) The Government may by order under this subsection revoke any order made under subsection (1) of this section.
+
+(3) The Inspector-General of the Defence Forces shall be an officer of the Permanent Defence Force and shall be appointed by, and hold office during the pleasure of, the President.
+
+(4) The Inspector-General of the Defence Forces shall be charged with the performance of such duties as the Government may from time to time assign to him.
+
+### 15. The Judge Advocate-General.
+
+**15.**—(1) There shall be a Judge Advocate-General.
+
+(2) The Judge Advocate-General shall be a practising barrister-at-law of at least ten years’ standing, but shall not be a member of the Defence Forces, and shall be appointed by, and hold office during the pleasure of, the President.
+
+(3) The Judge Advocate-General shall be charged with the performance of such duties as the Government may from time to time assign to him.
+
+(4) There shall be paid to the Judge Advocate-General such remuneration as the Minister, with the consent of the Minister for Finance, may fix.
+
+## PART III.Raising, Maintenance, Command, Constitution and Organisation of the Defence Forces, Military Education and Miscellaneous Matters relating to the Defence Forces. — PART III. — Raising, Maintenance, Command, Constitution and Organisation of the Defence Forces, Military Education and Miscellaneous Matters relating to the Defence Forces.
+
+### Chapter I.Raising, Maintenance and Command of the Defence Forces. — Chapter I. — Raising, Maintenance and Command of the Defence Forces.
+
+#### 16. Authority to raise and maintain the Defence Forces.
+
+**16.**—It shall be lawful for the Government to raise, train, equip, arm, pay and maintain defence forces to be called and known as Óglaigh na hÉireann or (in English) the Defence Forces.
+
+#### 17. Military command.
+
+**17.**—(1) Under the direction of the President, and subject to the provisions of this Act, the military command of, and all executive and administrative powers in relation to, the Defence Forces, including the power to delegate command and authority, shall be exercisable by the Government and, subject to such exceptions and limitations as the Government may from time to time determine, through and by the Minister.
+
+(2) (*a*) The delegation of command and authority by the Minister—
+
+(i) may be made subject to such exceptions and limitations as he may from time to time determine,
+
+(ii) may be in relation to any area, place or State ship or any military body organised under section 22 and may embrace different components of the Defence Forces,
+
+(iii) may, during a period of emergency, be in relation to the whole of the Defence Forces.
+
+(*b*) For the purposes of subparagraph (ii) of paragraph (*a*) of this subsection and for administrative purposes, the Minister may divide the State into such and so many areas as he thinks fit.
+
+(3) The Minister may make regulations, applying to officers, as to the persons to be invested, as officers, with military command over the Defence Forces or any part thereof or any person belonging thereto and as to the mode in which such command is to be exercised.
+
+#### Operational Control
+
+F21[**17A.**—(1) In this section—
+
+"Act of 2006" means the Defence (Amendment) Act 2006;
+
+"Force Commander" means the person commanding an international force;
+
+"international force" means an International United Nations Force or any force to which a contingent or a member of the Defence Forces may be assigned to for service outside the State for any purpose specified in section 3 of the Act of 2006;
+
+"International United Nations Force" has the same meaning as in the Act of 2006;
+
+"operational control" means the authority delegated to a Force Commander in respect of a contingent assigned to him or her so that the Force Commander may—
+
+(*a*) accomplish certain missions or tasks which are limited by function, time or location,
+
+(*b*) deploy the contingent, and
+
+(*c*) retain or assign tactical control of the contingent,
+
+but does not include the authority to assign separate employment of any component of the contingent.
+
+(2) In accordance with this Act, the Minister may delegate to a Force Commander the operational control of a contingent, or member, of the Defence Forces.
+
+(3) A delegation of operational control by the Minister under subsection (2) may be subject to such exceptions and limitations as he or she, having had regard to such requirements as may be necessary for the efficient operation of the mission concerned, may from time to time determine.
+
+(4) A delegation of operational control by the Minister under subsection (2) shall —
+
+(*a*) be in writing
+
+(*b*) be issued to the Force Commander of the mission concerned,
+
+(*c*) in so far as is necessary for the efficient operation of a mission, provide that each member of the Defence Forces assigned to an international force led by a Force Commander shall comply with every lawful order issued to him or her by a member of the international force in his or her military chain of command, subject to any exclusion as may be specified in the delegation,
+
+(*d*) in so far as is necessary for the efficient operation of a mission, provide that the military police component of the international force under the authority of the Force Commander may arrest and detain a member of the Defence Forces, provided that such member is handed over as soon as practicable to the contingent commander, or the designated senior officer, of the Defence Forces,
+
+(*e*) provide that each member of the Defence Forces in respect of whom the delegation is made shall cooperate with the military police component of the international force, and
+
+(*f*) include any other ancillary provisions as he or she considers necessary for the efficient operation of the mission concerned.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F21: Inserted (4.04.2022) by *Defence (Amendment) Act 2021* (33/2021), s. 2, S.I. No. 179 of 2022.
+
+### Chapter II.Constitution of the Defence Forces and General Organisation thereof. — Chapter II. — Constitution of the Defence Forces and General Organisation thereof.
+
+#### 18. Constitution of the Defence Forces.
+
+**18.**—The Defence Forces shall consist of—
+
+(*a*) a defence force to be called and known as na Buan--Óglaigh or (in English) the Permanent Defence Force, comprising army, naval and air components, and
+
+(*b*) a defence force to be called and known as na hÓglaigh Cúltaca or (in English) the Reserve Defence Force, comprising army, naval and air components.
+
+#### 19. Constitution of the Permanent Defence Force.
+
+**19.**—The Permanent Defence Force shall consist of—
+
+(*a*) persons who are appointed thereto as officers and are for the time being officers of the Permanent Defence Force,
+
+(*b*) persons who are enlisted therein as men under F22[section 53, 53A or 54] and are for the time being men of the Permanent Defence Force,
+
+(*c*) persons who, having enlisted therein as men under section 53 and having been transferred to the Reserve Defence Force under section 70, re-enter the Permanent Defence Force under subsection (3) of section 63 and are for the time being men of the Permanent Defence Force, and
+
+(*d*) persons who are for the time being members of the Army Nursing Service.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F22: Substituted (27.03.2020) by *Emergency Measures in the Public Interest (Covid-19) Act 2020* (2/2020), s. 26(a), commenced on enactment.
+
+#### 20. Constitution of the Reserve Defence Force.
+
+**20.**—The Reserve Defence Force shall consist of—
+
+(*a*) persons who are appointed thereto as officers and are for the time being officers of the Reserve Defence Force,
+
+(*b*) persons who are transferred thereto as men from the Permanent Defence Force under section 70 and are for the time being reservists, and
+
+(*c*) persons who are directly enlisted therein as men under section 55 and are for the time being reservists.
+
+#### 21. Classes of the Reserve Defence Force.
+
+**21.**—(1) The Reserve Defence Force shall be divided into the following classes—
+
+(*a*) a class to be called the Reserve of Officers (First Line) which shall consist of such officers of the Reserve Defence Force as may from time to time stand assigned to that class under section 44,
+
+(*b*) a class to be called the Reserve of Officers (An Fórsa Cosanta Aitiúil) which shall consist of such officers of the Reserve Defence Force as may from time to time stand assigned to that class under section 44,
+
+(*c*) a class to be called the Reserve of Officers (An Slua Muirí) which shall consist of such officers of the Reserve Defence Force as may from time to time stand assigned to that class under section 44,
+
+(*d*) a class to be called the Reserve of Men (First Line) which shall consist of—
+
+(i) men (other than men who for the time being stand assigned to another class of reservists under subsection (2) of section 62) who, having enlisted under section 53, are transferred to the Reserve Defence Force in pursuance of section 70 and are for the time being reservists,
+
+(ii) men (other than men who for the time being stand assigned to another class of reservists under subsection (2) of section 62) who are enlisted under section 55 for service in that class and are for the time being reservists, and
+
+(iii) such reservists as may from time to time stand assigned to that class under section 62,
+
+(*e*) a class to be called the Reserve of Men (An Fórsa Cosanta Aitiúil) which shall consist of—
+
+(i) men (other than men who for the time being stand assigned to another class of reservists under subsection (2) of section 62) who are enlisted under section 55 for service in that class and are for the time being reservists, and
+
+(ii) such reservists as may from time to time stand assigned to that class under section 62,
+
+(*f*) a class to be called the Reserve of Men (An Slua Muirí) which shall consist of—
+
+(i) men (other than men who for the time being stand assigned to another class of reservists under subsection (2) of section 62) who are enlisted under section 55 for service in that class and are for the time being reservists, and
+
+(ii) such reservists as may from time to time stand assigned to that class under section 62,
+
+(*g*) such other classes as may be constituted by the Minister under subsection (2) or (3) of this section.
+
+(2) (*a*) The Minister may by regulations constitute such and so many classes of officers of the Reserve Defence Force as he thinks fit and assign to any class so constituted such title as he thinks fit.
+
+(*b*) A class of the Reserve Defence Force constituted under this subsection shall consist of such officers of the Reserve Defence Force as may from time to time stand assigned to that class under section 44.
+
+(3) (*a*) The Minister may by regulations constitute such and so many classes of reservists as he thinks fit and assign to any class so constituted such title as he thinks fit.
+
+(*b*) A class of the Reserve Defence Force constituted under this subsection shall consist of—
+
+(i) men (other than men who for the time being stand assigned to another class of reservists under subsection (2) of section 62) who are enlisted under section 55 for service in that class and are for the time being reservists, and
+
+(ii) such reservists as may from time to time stand assigned to that class under section 62.
+
+(4) If at any time there are no members of the Reserve Defence Force for the time being assigned to a particular class of the Reserve Defence Force, the Minister may by regulations abolish that class.
+
+(5) The Minister may from time to time by regulations substitute for the existing title of a particular class of the Reserve Defence Force such other title as he thinks fit and specifies in the regulations.
+
+#### 22. Organisation of the Defence Forces.
+
+**22.**—(1) The Defence Forces shall be organised into such staffs, units and other elements as may be prescribed.
+
+(2) The numerical establishment F23[of the Defence Forces and the number in each rank thereof] shall be such as may be prescribed.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F23: Substituted (1.10.1998) by *Defence (Amendment) Act 1998* (31/1998), s. 5, S.I. No. 366 of 1998.
+
+#### 23. Service corps.
+
+**23.**—The Minister may by regulations declare that any military body (being a staff, unit or other element organised under section 22) or any combination of such military bodies shall be a service corps for the purposes of this Act and assign to that service corps such title as he thinks fit.
+
+#### 24. Commissioned ranks in the Defence Forces.
+
+**24.—**(1) (*a*) The several ranks set out in column (2) of the Second Schedule to this Act shall be the commissioned army ranks in the Defence Forces.
+
+(*b*) Any commissioned army rank set out in column (2) of the Second Schedule to this Act before any other commissioned army rank shall be higher than that other commissioned army rank.
+
+(2) (*a*) The several ranks set out in column (3) of the Second Schedule, to this Act shall be the commissioned naval ranks in the Defence Forces.
+
+(*b*) Any commissioned naval rank set out in column (3) of the Second Schedule to this Act before any other commissioned naval rank shall be higher than that other commissioned naval rank.
+
+F24[(3) For the purposes of this Act—
+
+(*a*) the commissioned army rank set out in column (2) of the Second Schedule to this Act at any reference number (being reference number 2, 3, 4, 5, 6, 7, 8 or 9) shall be deemed to correspond to the commissioned naval rank set out in column (3) of the said Second Schedule at that reference number;
+
+(*b*) the commissioned army rank set out in column (2) of the said Second Schedule at reference number 10 shall be deemed to correspond to each of the commissioned naval ranks set out in column (3) of the said Second Schedule at reference number 10;
+
+(*c*) the commissioned naval rank set out in column (3) of the said Second Schedule at any reference number (being reference number 2, 3, 4, 5, 6, 7, 8 or 9) shall be deemed to correspond to the commissioned army rank set out in column (2) of the said Second Schedule at that reference number;
+
+(*d*) each of the commissioned naval ranks set out in column (3) of the said Second Schedule at reference number 10 shall be deemed to correspond to the commissioned army rank set out in column (2) of the said Second Schedule at reference number 10.]
+
+(4) Subject to subsection (5), the Minister may—
+
+(*a*) direct that an officer who holds (whether by virtue of his appointment thereto or a direction given under paragraph (*c*) of this subsection) a particular commissioned army rank (not being that of second-lieutenant) shall, in lieu of that commissioned army rank, hold the corresponding commissioned naval rank,
+
+(*b*) direct that an officer who holds (whether by virtue of his appointment thereto or a direction given under paragraph (*d*) of this subsection) the commissioned army rank of second-lieutenant shall, in lieu of that commissioned army rank, hold such one of the following commissioned naval ranks, namely, ensign and midshipman, as may be specified in the direction,
+
+(*c*) direct that an officer who holds (whether by virtue of his appointment thereto or a direction given under paragraph (*a*) of this subsection) a particular commissioned naval rank (not being that of ensign or midshipman) shall, in lieu of that commissioned naval rank, hold the corresponding commissioned army rank,
+
+(*d*) direct that an officer who holds (whether by virtue of his appointment thereto or a direction under paragraph (*b*) of this subsection) the commissioned naval rank of ensign or midshipman shall, in lieu of that commissioned naval rank, hold the commissioned army rank of second-lieutenant,
+
+and any such direction shall have effect according to the tenor thereof.
+
+(5) A direction shall not be given in respect of an officer under subsection (4) of this section except with his consent.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F24: Substituted (22.07.2015) by *Defence (Amendment) Act 2015* (24/2015), s. 2, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E5: Previous affecting provision: subs. (3) substituted (20.02.1979) by *Defence (Amendment) Act 1979* (1/1979), s. 3, commenced on enactment; substituted as per F-note above.
+
+#### 25. Non-commissioned ranks in the Defence Forces.
+
+**25.**—(1) (*a*) The several ranks set out in column (2) of the Third Schedule to this Act shall be the non-commissioned army ranks in the Defence Forces.
+
+(*b*) Any non-commissioned army rank set out in column (2) of the Third Schedule to this Act before any other non-commissioned army rank shall be higher than that other non-commissioned army rank.
+
+(2) (*a*) The several ranks set out in column (3) of the Third Schedule to this Act shall be the non-commissioned naval ranks in the Defence Forces.
+
+(*b*) Any non-commissioned naval rank set out in column (3) of the Third Schedule to this Act before any other non-commissioned naval rank shall be higher than that other non-commissioned naval rank.
+
+(3) The Minister may by regulations declare that, in relation to any particular service corps, the holder of non-commissioned army rank therein shall, in lieu of holding a rank specified in column (2) of the Third Schedule to this Act, hold such other equivalent rank as may be specified in such regulations and, in that case, references in any Saorstát Éireann statute or in any Act of the Oireachtas (whether passed before or after this Act), or in any scheme made (whether before or after the passing of this Act) under the Defence Forces (Pensions) Act, 1932 (No. 26 of 1932), to a rank specified in the said column (2) shall as respects that service corps be construed as references to the equivalent rank specified in such regulations.
+
+(4) The Minister may by regulations divide any non-commissioned army rank or non-commissioned naval rank into such and so many grades as he thinks fit and assign to each of those grades such distinctive description as he thinks fit.
+
+(5) The Minister may by regulations divide any non-commissioned naval rank into such and so many ratings as he thinks fit and assign to each of those ratings such distinctive description as he thinks fit.
+
+(6) For the purposes of this Act—
+
+(*a*) the non-commissioned army rank set out in column (2) of the Third Schedule to this Act at any reference number shall be deemed to correspond to the non-commissioned naval rank set out in column (3) of the said Third Schedule at that reference number;
+
+(*b*) the non-commissioned naval rank set out in column (3) of the said Third Schedule at any reference number shall be deemed to correspond to the non-commissioned army rank set out in column (2) of the said Third Schedule at that reference number.
+
+(7) Subject to subsection (8), the Minister may—
+
+(*a*) direct that a man who holds (whether by virtue of his enlistment or his appointment thereto or a direction given under paragraph (*b*) of this subsection) a particular non-commissioned army rank set out in column (2) of the Third Schedule to this Act at any reference number shall, in lieu of that non-commissioned army rank, hold the corresponding non-commissioned naval rank,
+
+(*b*) direct that a man who holds (whether by virtue of his enlistment or his appointment thereto or a direction given under paragraph (*a*) of this subsection) a particular non-commissioned naval rank set out in column (3) of the said Third Schedule at any reference number shall, in lieu of that non-commissioned naval rank, hold the corresponding non-commissioned army rank,
+
+and any such direction shall have effect according to the tenor thereof.
+
+(8) A direction shall not be given in respect of a man under subsection (7) of this section except with his consent.
+
+#### 26. General regulations in relation to the Defence Forces.
+
+**26.**—F25[(1)] The Minister may make regulations, not inconsistent with this Act, in relation to all or any of the matters mentioned in the Fourth Schedule to this Act.
+
+F26[(2) Regulations under this section may—
+
+(*a*) contain such incidental, supplementary and consequential provisions as appear to the Minister to be necessary or expedient for the purposes of the regulations or for giving full effect to this Act,
+
+(*b*) apply either generally or by reference to a specified category or categories of persons.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F25: Inserted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 7(a), commenced on enactment as per s. 1(3).
+>
+> F26: Inserted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 7(b), commenced on enactment as per s. 1(3).
+
+### Chapter III.Military Education. — Chapter III. — Military Education.
+
+#### 27. Establishment of educational institutions.
+
+**27.**—(1) The Minister may establish a Military College and so many other institutions as he thinks necessary for the training and instruction of members of the Defence Forces.
+
+(2) The Minister may make regulations in relation to all or any of the following matters—
+
+(*a*) the staff of institutions established under this section,
+
+(*b*) the persons to be admitted to such institutions,
+
+(*c*) the curricula of such institutions,
+
+(*d*) the duration and description of the courses of instruction and training in such institutions,
+
+(*e*) the examinations to be held in such institutions,
+
+(*f*) the management, control and good government of such institutions.
+
+#### 28. Other educational arrangements.
+
+**28.**—(1) The Minister may, with the consent of the Minister for Finance, arrange for the instruction of members of the Defence Forces—
+
+(*a*) outside the State, or
+
+(*b*) at institutions other than those established under section 27.
+
+(2) All members of the Defence Forces shall be instructed in giving and receiving in the Irish language such commands and directions as are necessitated by the routine duties of their ranks and appointments.
+
+#### 29. Cadetships.
+
+**29.**—The Minister may make regulations in relation to cadetships.
+
+### Chapter IV.Miscellaneous Provisions in relation to the Defence Forces. — Chapter IV. — Miscellaneous Provisions in relation to the Defence Forces.
+
+#### 30. Special powers in relation to defence.
+
+**30.**—(1) The Minister may do all or any of the following things—
+
+(*a*) construct and maintain barracks, quarters, defence works, magazines, aerodromes, ranges, harbours, piers, dock-yards, dry docks and anchorages;
+
+(*b*) construct, acquire, equip, maintain and commission public armed vessels and auxiliaries thereto;
+
+(*c*) construct, acquire, equip, maintain and man vessels (other than public armed vessels and auxiliaries thereto) required for defence purposes;
+
+(*d*) place and maintain buoys and lights;
+
+(*e*) lay mines;
+
+(*f*) establish, work and maintain and contract for the establishment, working and maintenance of arms and ammunition factories and factories for the manufacture of other service equipment and stores;
+
+(*g*) employ (including employ by way of apprenticeship) civilians with the Defence Forces or in a factory established under this section;
+
+(*h*) subject to the provisions of this Act, all such other things as seem to him necessary for the efficient military defence of the State.
+
+(2) Where the exercise of any of the powers conferred by subsection (1) of this section involves a charge on public funds, such powers shall be exercised only with the concurrence of the Minister for Finance.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C14: Employment of civilians under Act exempted from application of *Public Service Management (Recruitment and Appointments) Act 2004* (6.10.2004) by *Public Service Management (Recruitment and Appointments) Act 2004* (33/2004), s. 7(2)(g), commenced on enactment.
+>
+> **Excluded positions generally.**
+>
+> **7.**— ...
+>
+> (2) Subject to subsection (4), unless an order is made under section 6, either generally or in respect of any position or class of position, this Act does not apply to a position where the appointment concerned— ...
+>
+> (*g*) is by way of employment of civilians by the Minister for Defence under section 30 of the Defence Act 1954,
+>
+> ...
+>
+> C15: Grounds for dismissal of civilians employed under section extended (9.05.1977) by *Unfair Dismissals Act 1977* (10/1977), s. 6(5), S.I. No. 138 of 1977.
+>
+> **Unfair dismissal.**
+>
+> **6.**— ...
+>
+> (5) (*a*) Without prejudice to the generality of subsection (1) of this section, the dismissal by the Minister for Defence of a civilian employed with the Defence Forces under section 30 (1) (g) of the Defence Act, 1954, shall be deemed for the purposes of this Act not to be an unfair dismissal if it is shown that the dismissal was for the purpose of safeguarding national security.
+>
+> (*b*) A certificate purporting to be signed by the Minister for Defence and stating that a dismissal by the Minister for Defence of a civilian named in the certificate from employment with the Defence Forces under section 30 (1) (g) of the Defence Act, 1954, was for the purpose of safeguarding national security shall be evidence, for the purposes of this Act, of the facts stated in the certificate without further proof.
+>
+> ...
+>
+> C16: Civilians employed under section excluded (18.02.1957) from application of *Civil Service Regulation Act 1956* (46/1956), s. 20(2)(d), S.I. No. 18 of 1957.
+>
+> **Operation of the Act.**
+>
+> **20.**— ...
+>
+> (2) This Act applies to— ...
+>
+> but does not apply to— ...
+>
+> (*d*) a civilian employed by the Minister for Defence under section 30 of the Defence Act, 1954 (No. 18 of 1954).
+>
+> ...
+>
+> C17: Civilians employed under section excluded (18.02.1957) from application of *Civil Service Commissioners Act 1956* (45/1956), s. 6(2)(h), S.I. No. 17 of 1957.
+>
+> **Operation of the Act.**
+>
+> **6.**— ...
+>
+> (2) This Act— ...
+>
+> (*h*) does not apply to the employment of civilians by the Minister for Defence under section 30 of the Defence Act, 1954 (No. 18 of 1954).
+>
+> ...
+
+#### 31. Right of entry on land.
+
+**31.**—(1) Any person (in this section referred to as an authorised person) authorised by the Minister in that behalf may, at any reasonable time and upon giving forty-eight hours’ previous notice in writing to the occupier thereof, enter on any land for the purpose of making thereon any inquiry, investigation or examination preliminary or incidental to the doing of anything which the Minister is authorised by this Part to do.
+
+(2) If any person obstructs an authorised person in the exercise of the powers conferred on an authorised person by this section, such person shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding F27[200] pounds.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F27: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 1, commenced on enactment. A fine of £200 converted (1.01.1999) to €253.95. This translates into a Class E fine not exceeding €500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(3) and table ref. no. 3, S.I. No. 662 of 2010.
+
+#### 32. Acquisition of land, etc., by agreement.
+
+**32.**—The Minister, with the consent of the Minister for Finance, may for the purposes of this Act, by agreement, take a lease of, or take a licence to use, or acquire, any land or any right over land.
+
+#### 33. Compulsory acquisition of land or rights over land.
+
+**33.**—(1) If and whenever the Minister thinks proper to acquire compulsorily any land or right over land for the purposes of this Act, he may, with the consent of the Minister for Finance, by order declare his intention to so acquire such land or right over land, and every such order shall operate to confer on the Minister power to acquire compulsorily the land or the right over land mentioned therein under and in accordance with this section.
+
+(2) Compensation shall be paid by the Minister for land compulsorily acquired by the Minister under this section to the several persons having estates or interests therein and for any right over land compulsorily acquired by the Minister under this section to the owner thereof, and such compensation shall, in default of agreement (which agreement shall be subject to the consent of the Minister for Finance), be determined under and in accordance with the Acquisition of Land (Assessment of Compensation) Act, 1919, and for this purpose the Minister shall be deemed to be a public authority within the meaning of the said Act.
+
+(3) (*a*) At any time after the Minister becomes entitled under subsection (1) of this section to acquire compulsorily any land or right over land and before conveyance or ascertainment of compensation, the Minister may, subject to the subsequent provisions of this subsection, enter on and take possession of that land or terminate that right.
+
+(*b*) Where the Minister exercises any power conferred on him by paragraph (*a*) of this subsection, then—
+
+(i) subject to subparagraph (ii) of this paragraph, the Minister shall pay to the person, who is the occupier of the land entered on or the owner of the right over land terminated, interest on the amount of the compensation payable to such person at the rate of three per cent. per annum from the date on which such power was exercised until payment of such compensation,
+
+(ii) if—
+
+(I) the Minister has made an unconditional offer in writing of any sum as such compensation to such person, and
+
+(II) the offer is not accepted by such person, and
+
+(III) the sum awarded as compensation by the official arbitrator to such person does not exceed the sum so offered,
+
+no interest shall be payable on such compensation in respect of any period after the date of the offer.
+
+(*c*) The Minister shall not—
+
+(i) enter on or take possession of any land under paragraph (*a*) of this subsection without giving to the occupier thereof at least one months’s or, in case of an occupied dwellinghouse, three months’ previous notice in writing of his intention to do so, or
+
+(ii) terminate any right over land under paragraph (*a*) of this subsection without giving the owner thereof at least one month’s notice of his intention to do so.
+
+(*d*) A notice under paragraph (*c*) of this subsection may be given to any person by sending it by post in an envelope addressed to that person at his usual or last known address.
+
+(*e*) Where, for any reason, the envelope mentioned in paragraph (*d*) of this subsection cannot be addressed in the manner provided by that paragraph, it may be addressed to the person for whom it is intended in either or both of the following ways—
+
+(i) by the description “the occupier” or “the owner” (as the case may be) without stating his name,
+
+(ii) at the land or the situation of the property to which the notice contained in the envelope relates.
+
+#### 34. User of land by the Minister.
+
+**34.**—(1) The Minister may use any land vested in or occupied by him for such purposes connected with his powers and duties under this Act and in such manner as he thinks proper.
+
+(2) Where any land vested in or occupied by the Minister abuts on any foreshore, sea or tidal water, the rights conferred by subsection (1) of this section shall include the right to carry on artillery, rifle, bombing or other army, naval or air practices on or over such foreshore, sea or tidal water.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C18: Application of section restricted (11.08.1961) by *Curragh of Kildare Act 1961* (35/1961), ss. 4, 5(2), commenced on enactment.
+>
+> **Use of Blue Lands by Minister.**
+>
+> **4.**—The Minister may use the Blue Lands for the purposes and in the manner specified in section 34 of the Defence Act, 1954, subject to the limitation that he shall not erect, or authorise or procure the erection of, permanent buildings thereon.
+>
+> **Use of Green lands by Minister.**
+>
+> **5.**— ...
+>
+> (2) Section 34 of the Defence Act, 1954, shall not apply in relation to the Green Lands.
+
+#### 35. Right of Minister to erect and maintain certain apparatus on land in vicinity of service aerodromes.
+
+**35.**—(1) F28[(*a*) The Minister may cause to be erected, placed and attached upon, in or to any land or building in the vicinity of any other land (including an aerodrome) vested in or occupied by him, and may thereafter maintain and use, such apparatus (including electric lines) as he considers necessary for the purpose of indicating any position or any obstruction or of signalling or supplying information to persons navigating aircraft in such vicinity.]
+
+(*b*) Before erecting, placing or attaching any apparatus upon, in or to any land or building in pursuance of this subsection, the Minister shall give one month’s previous notice to the owner and occupier thereof indicating his proposal.
+
+(*c*) If any person wilfully obstructs or destroys, tampers with, pulls down, or defaces any apparatus erected, placed or attached upon, in or to any land or building in pursuance of this subsection, that person shall be guilty of an offence under this subsection and shall be liable on summary conviction thereof to a fine not exceeding F29[1,000] pounds.
+
+(2) (*a*) For the purposes of exercising the powers conferred by subsection (1) of this section any authorised person and any persons acting under his direction may enter upon and pass over (with or without vehicles) any land.
+
+(*b*) If any person (in this paragraph referred to as the offender) obstructs an authorised person or any person acting under his direction in the exercise of the powers conferred by this subsection, the offender shall be guilty of an offence under this subsection and shall be liable on summary conviction thereof to a fine not exceeding F30[1,000] pounds.
+
+(*c*) In this subsection the expression “authorised person” means any person belonging to a class authorised in writing by the Minister to exercise the powers conferred by this subsection on authorised persons.
+
+(3) If any person having an estate or interest in land proves that his estate or interest is injuriously affected by the exercise of the powers conferred by subsection (1) of this section, he shall be entitled to recover from the Minister compensation for the injury to that estate or interest, and any question whether compensation is payable under this section or as to the amount of any compensation so payable shall, in default of agreement (which agreement shall be subject to the consent of the Minister for Finance), be determined by an arbitrator appointed under the Acquisition of Land (Assessment of Compensation) Act, 1919, and under and in accordance with that Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F28: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 9, commenced on enactment.
+>
+> F29: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 2, commenced on enactment. A fine of £1,000 converted (1.01.1999) to €1,269.74. This translates into a Class C fine not exceeding €2,500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(3) and table ref. no. 3, S.I. No. 662 of 2010.
+>
+> F30: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 3, commenced on enactment.
+
+#### 36. Restrictions on use of land in vicinity of service aerodromes.
+
+**36.**—(1) Whenever the Minister is of opinion that the unrestricted use of a particular area of land in the vicinity of an aerodrome vested in or occupied by him would interfere with the navigation of aircraft flying to or from that aerodrome, he may by order (in this section referred to as a protected area order) do the following things—
+
+(*a*) declare that particular area of land shall be a protected area for the purposes of the order,
+
+(*b*) declare that, within the protected area, it shall not be lawful for any person, save under and in accordance with a permit granted by the Minister, to erect or add to any building or to erect or place any post, pole or other thing so that any part of the building, post, pole or thing (in this section referred to as an obstruction) will be at a greater height than that fixed by the order.
+
+(2) The following provisions shall apply in respect of every protected area order—
+
+(*a*) the Minister shall cause the order to be published in the *Iris Oifigiúil* and in such newspapers circulating in the area to which the order relates as the Minister thinks proper,
+
+(*b*) the order may divide the area to which it relates into such and so many sub-areas as the Minister thinks fit and, in that case, may contain different provisions in relation to each of those sub-areas,
+
+(*c*) the order may exempt from its operation any specified obstructions or class of obstructions,
+
+(*d*) there shall be attached to the order a map showing the area to which the order relates and, where that area is divided into sub-areas, each of those sub-areas,
+
+(*e*) the map attached to the order may be omitted from the order in any publication thereof in pursuance of paragraph (*a*) of this subsection, but copies of the order with the map attached thereto shall be deposited in the office of the Department of Defence, Parkgate, Dublin, and shall be there kept open for public inspection at all reasonable times.
+
+(3) The Minister may by order under this subsection revoke or amend a protected area order.
+
+(4) Every protected area order and every order amending a protected area order shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next subsequent twenty-one days on which such House has sat after the order is laid before it, the order shall be annulled accordingly but without prejudice to the validity of anything previously done under it.
+
+(5) The Minister may grant permits for the purposes of a protected area order, and the following provisions shall apply in relation to any permit so granted—
+
+(*a*) the Minister may—
+
+(i) attach to it such conditions as he thinks fit,
+
+(ii) revoke or amend it;
+
+(*b*) the permit shall not operate as a release from any restrictions imposed under the Town and Regional Planning Acts, 1934 and 1939, or any other enactment and applicable to the area to which the order relates.
+
+(6) (*a*) If any person, having an estate or interest in land within an area to which a protected area order applies, proves that his estate or interest is injuriously affected by the refusal of the Minister to grant him a permit or by any conditions attached to a permit granted to him by the Minister, he shall be entitled to recover compensation from the Minister for the injury to that estate or interest, and any question whether compensation is payable under this subsection or as to the amount of any compensation so payable shall, in default of agreement (which agreement shall be subject to the consent of the Minister for Finance), be determined by an arbitrator appointed under the Acquisition of Land (Assessment of Compensation) Act, 1919, and under and in accordance with that Act.
+
+(*b*) Where a person would, but for this paragraph, be entitled to compensation under this subsection and also under any other enactment in respect of the same matter, he shall not be entitled to compensation in respect of that matter under both this subsection and that other enactment, but may elect to receive compensation under either this subsection or that other enactment.
+
+(7) If any person erects or adds to a building or erects or places any post, pole or other thing in contravention of a protected area order—
+
+(*a*) that person shall be guilty of an offence under this section and shall be liable on summary conviction to a fine not exceeding F31[1,000] pounds, and
+
+(*b*) the Minister may, whether or not any proceedings are taken in respect of the offence, cause such alterations to be made in the building, post, pole or thing in respect of which the contravention took place as may be necessary in his opinion to ensure compliance with the order, and the expenses incurred by the Minister in so doing shall be recoverable by the Minister from the person by whom the contravention is committed as a simple contract debt in any court of competent jurisdiction.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F31: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 4, commenced on enactment. A fine of £1,000 converted (1.01.1999) to €1,269.74. This translates into a Class C fine not exceeding €2,500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(3) and table ref. no. 3, S.I. No. 662 of 2010.
+
+#### 37. Billeting during a period of emergency.
+
+**37.**—(1) (*a*) The Minister may, from time to time and at any time, make such regulations as he thinks fit—
+
+(i) requiring the occupiers of premises to provide, during a period of emergency, lodging, attendance and food for members of the Defence Forces;
+
+(ii) requiring the occupiers of premises and of livery stables to provide, during a period of emergency, stabling and forage for horses of the Defence Forces;
+
+(iii) requiring the occupiers of premises and garages to provide, during a period of emergency, garaging for mechanically propelled vehicles of the Defence Forces;
+
+(iv) conferring on such persons as the Minister thinks proper such powers and authorities for the carrying out and enforcement of the regulations as he thinks proper;
+
+(v) fixing, with the sanction of the Minister for Finance, the scales of payment to be made in respect of any lodging, attendance, food, stabling, forage or garaging so provided;
+
+(vi) providing for any matter or thing ancillary to the matters aforesaid.
+
+(*b*) The references in paragraph (*a*) of this subsection to occupiers of premises shall, in the case of premises which are unoccupied, be construed as references to the owners of those premises.
+
+(2) If any person contravenes (by act or omission) any regulation made under this section, such person shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding F32[200] pounds.
+
+(3) There shall be paid to persons providing lodging, attendance, food, stabling, forage or garaging in pursuance of regulations made under this section payments in accordance with the scales fixed by such regulations.
+
+(4) When by regulations made under this section any powers or duties are conferred or imposed on members of the Garda Síochána or where such regulations provide that any arrangements with regard to billeting shall be made in consultation with any member of the Garda Síochána, such regulations so relating to the Garda Síochána shall be made with the concurrence of the Minister for Justice.
+
+(5) Every regulation under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling such regulation is passed by either such House within the next subsequent twenty-one days on which such House has sat after such regulation is laid before it, such regulation shall be annulled accordingly but without prejudice to anything previously done under such regulation.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F32: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 5, commenced on enactment. A fine of £200 converted (1.01.1999) to €253.95. This translates into a Class E fine not exceeding €500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(3) and table ref. no. 3, S.I. No. 662 of 2010.
+
+#### 38. Billeting in peace time.
+
+**38.**—F33[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F33: Repealed (17.07.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 3, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E6: Previous affecting provision: subs. (3) amended (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 6, commenced on enactment: repealed (17.07.2024) as per F-Note above.
+
+#### 39. Exercise of powers vested in holder of military office.
+
+**39.**—Any power or jurisdiction given to, and any act or thing to be done by, to, or before any person holding any military office may be exercised by, or be done by, to, or before any other person for the time being authorised in that behalf according to the custom of the service or according to rules of procedure or according to regulations made by the Minister.
+
+#### 40. Provisions as to orders of military authorities.
+
+**40.**—(1) Where any order is authorised by or under this Act to be made by the Chief of Staff, the Adjutant-General or the Quartermaster-General or by any general, flag or other officer in command, such order may be signified by an order, instruction or letter under the hand of any officer authorised to issue orders on behalf of the Chief of Staff, the Adjutant-General or the Quartermaster-General or the general, flag or other officer in command, and an order, instruction or letter purporting to be signed by an officer appearing therein to be so authorised shall be evidence of his being so authorised.
+
+(2) Subsection (1) of this section shall extend to any order or direction issued in pursuance of this Act in relation to any F34[...] military prisoner or man undergoing detention, and any such order or direction shall not be held invalid by reason of the death or removal from office of the officer signing or ordering the issue of such order or direction or by reason of any defect in such order or direction, if it be alleged in such order or direction that the F34[...] military prisoner or man undergoing detention has been convicted and that there is a good and valid conviction to sustain the order or direction.
+
+(3) An order in any case if issued in the prescribed form shall be valid, but an order deviating from the prescribed form, if otherwise valid, shall not be rendered invalid by reason only of such deviation.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F34: Deleted (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14, sch. 2. para. 2, commenced as per s. 1.
+>
+> **Modifications (not altering text):**
+>
+> C19: Terms “Adjutant-General” and “Quartermaster-General” construed (1.10.1998) by *Defence (Amendment) Act 1998* (31/1998), s. 10(3), S.I. No. 366 of 1998.
+>
+> **Adaptations.**
+>
+> **10.**— ...
+>
+> (3) (*a*) References in sections 11 and 40 of the Principal Act to the Adjutant-General shall be construed as references to the Deputy Chief of Staff (Operations).
+>
+> (*b*) References in the said sections 11 and 40 to the Quartermaster-General shall be construed as references to the Deputy Chief of Staff (Support).
+
+## PART IV.Personnel of the Defence Forces. — PART IV. — Personnel of the Defence Forces.
+
+### Chapter I.Officers. — Chapter I. — Officers.
+
+#### 41. Persons eligible to be appointed officers.
+
+**41.**—Each of the following persons shall be eligible to be appointed to be an officer of the Permanent Defence Force or the Reserve Defence Force, that is to say:—
+
+(*a*) Irish citizens;
+
+(*b*) any other persons specially approved by the Minister.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C20: Application of section extended (23.01.1980) by *Defence (Amendment) (No. 2) Act* (28/1979), s. 3, S.I. No. 19 of 1980.
+>
+> **Application of section 41 of Principal Act to women.**
+>
+> **3.**—A woman shall be eligible to be appointed to be an officer of the Permanent Defence Force or the Reserve Defence Force and for that purpose references in section 41 of the Principal Act to Irish citizens shall be construed as including Irish citizens of either sex and references to any other persons specially approved by the Minister shall be construed as including persons of either sex.
+
+#### 42. Appointment of officers, and commissions.
+
+**42.**—(1) The President may appoint any eligible person to be an officer of the Permanent Defence Force or the Reserve Defence Force in any commissioned rank, and any such appointment may be without limitation as to time or may be for a specified period or be temporary.
+
+(2) Where a person is appointed to be an officer of the Permanent Defence Force or the Reserve Defence Force, a commission shall be issued to him and such commission shall be,—
+
+(*a*) in case there is an elected President in office exercising and performing the powers and functions of his office, either in the form set out in Part I of the Fifth Schedule to this Act or in the form set out in Part II of the said Schedule and be sealed with the official seal of the President,
+
+(*b*) in any other case, either in the form set out in Part III of the Fifth Schedule to this Act or in the form set out in Part IV of the said Schedule and be sealed with the official seal of the President.
+
+(3) Where the appointment of a person to be an officer is for a specified period or temporary, words indicating the period of appointment or the word “sealadach” or (in English) “temporary” shall (as the case may require) be endorsed on the commission.
+
+(4) If an error occurs in a commission issued under subsection (2) of this section, it may, by direction of the President, be amended by correcting such error.
+
+#### 43. Oath to be taken by officers.
+
+**43.**—(1) Every person appointed to be an officer of the Permanent Defence Force shall take an oath or make a declaration either in the form set out in Part I of the Sixth Schedule to this Act or in the form set out in Part II of the said Schedule.
+
+(2) Every person appointed to be an officer of the Reserve Defence Force shall take an oath or make a declaration either in the form set out in Part I of the Seventh Schedule to this Act or in the form set out in Part II of the said Schedule.
+
+(3) The oath or declaration mentioned in subsection (1) or (2) of this section shall be taken or made within the prescribed time and in the prescribed manner before a prescribed officer.
+
+(4) If any person appointed to be an officer of the Permanent Defence Force or the Reserve Defence Force refuses or neglects to take the oath or make the declaration required by this section to be taken or made by him within the time and in the manner mentioned in subsection (3) of this section, he shall be deemed to have tendered the resignation of his commission and such resignation shall be deemed to have been accepted at the expiration of that time.
+
+#### 44. Assignment of officer of Reserve Defence Force to a particular class of the Reserve Defence Force.
+
+**44.**—(1) Where a person is appointed to be an officer of the Reserve Defence Force, such person shall, on appointment, be assigned by the Minister to a particular class of the Reserve Defence Force.
+
+(2) An officer of the Reserve Defence Force who for the time being belongs to a particular class of the Reserve Defence Force may, with his own consent, be assigned by the Minister to another class of the Reserve Defence Force.
+
+(3) In this section, the expression “class of the Reserve Defence Force” means any class of the Reserve Defence Force being—
+
+(*a*) the Reserve of Officers (First Line), or
+
+(*b*) the Reserve of Officers (An Fórsa Cosanta Aitiúil), or
+
+(*c*) the Reserve of Officers (An Slua Muirí), or
+
+(*d*) any class constituted under subsection (2) of section 21.
+
+#### 45. Promotion of officers.
+
+**45.**—(1) The Minister may, in accordance with regulations made by him, promote any officer to a higher substantive rank.
+
+(2) The Minister may, in accordance with regulations made by him, promote any officer holding a substantive rank or an acting rank to a higher acting rank.
+
+(3) An officer promoted to a higher acting rank shall at any time thereafter, on a direction to that effect being given by the Minister, revert to his substantive rank or, if so directed, to an acting rank higher than his substantive rank.
+
+#### 46. Placing of officer on half-pay.
+
+**46.**—The Minister may, in accordance with regulations made by him, place an officer on half-pay for a period not exceeding one year.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C21: Application of section restricted by *Defence Forces (Pensions) Scheme 1937* (S. R. & O. No. 249 of 1937), art. 23A(2), as substituted (1.01.1955) by *Defence Forces (Pensions) (Amendment) Scheme 1956* (S. I. No. 35 of 1956), art. 11, in effect as per art. 11(4), art. 1 and by motions of confirmation by Dáil Éireann, Vol. 155, 14 March 1956 and Seanad Éireann, Vol. 45, 15 March 1956.
+>
+> **[**23A. (1)...
+>
+> (2) Where an officer is placed on half-pay by the Minister pursuant to section 46 of the Defence Act, 1954 (No. 18 of 1954), and such officer—
+>
+> (*a*) retires or is retired or dies while on such half-pay, or
+>
+> (*b*) having been immediately before retirement on such half-pay, dies after retirement,
+>
+> then, for the purposes of this Scheme and of Article 20 of the Amending Scheme of 1949, such officer shall—
+>
+> (I) be deemed to have been in receipt, during the period he was on such half-pay, of the additional pay (if any) which he ceased to be entitled to receive solely by reason of being placed on such half-pay, and
+>
+> (II) be deemed, save where provision is made for the applying of a notional rank to such officer, to have been in receipt, on the day of his retirement or death (whichever is relevant) of the rate of pay for which he would have been eligible on such day had he not been so placed on half-pay.
+>
+> ...**]**
+
+#### 47. Retirement of officers of the Permanent Defence Force.
+
+**47.**—(1) In this section, the word “officer” means an officer of the Permanent Defence Force.
+
+(2) An officer may, for any prescribed reason, be retired by the President.
+
+(3) An officer whose appointment as an officer is temporary may at any time be retired by the President.
+
+(4) (*a*) An officer of a prescribed description (which may be prescribed by reference to rank or appointment or both or such other matters as the Minister thinks proper) shall retire on reaching the age prescribed as the age for retirement for officers of that description.
+
+(*b*) Subject to such conditions as may be prescribed, the Minister may permit an officer, who is required by paragraph (*a*) of this subsection to retire on a particular date, to continue, after that date, to serve as an officer for such further period (not exceeding one hundred and twenty-two days) as the Minister may fix in respect of him and, in that case, such officer shall retire on the expiration of the further period so fixed in respect of him.
+
+(5) An officer whose appointment as an officer is for a specified period shall retire on the expiration of that period.
+
+(6) An officer who would, on retirement, be eligible, by virtue of length of service, for retired pay or a gratuity under any scheme made under the Defence Forces (Pensions) Act, 1932 (No. 26 of 1932), may, with the permission of the Minister, retire.
+
+(7) An officer who is retired or who retires shall cease to be an officer.
+
+#### 48. Relinquishment of commissions by officers of the Reserve Defence Force.
+
+**48.**—(1) In this section, the word “officer” means an officer of the Reserve Defence Force.
+
+(2) The President may, for any prescribed reason, direct that an officer shall relinquish his commission and in any such case such officer shall relinquish his commission.
+
+(3) The President may direct that an officer whose appointment as an officer is temporary shall relinquish his commission and in any such case such officer shall relinquish his commission.
+
+(4) An officer of a prescribed description (which may be prescribed by reference to rank or appointment or both or such other matters as the Minister thinks proper) shall relinquish his commission on reaching the age prescribed as the age for the relinquishment of commissions by officers of that description.
+
+(5) An officer whose appointment as an officer is for a specified period shall relinquish his commission on the expiration of that period.
+
+F36[(6) An officer shall relinquish his or her commission if he or she—
+
+(*a*) is elected as a member of either House of the Oireachtas or the European Parliament,
+
+(*b*) is nominated as a member of Seanad Éireann, or
+
+(*c*) is regarded under Part XIII of the Second Schedule to the European Parliament Elections Act 1997 as having been elected to the European Parliament.]
+
+(7) An officer who relinquishes his commission shall cease to be an officer.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F35: Inserted (9.12.1977) by *European Assembly Elections Act 1977* (30/1977), s. 22, commenced on enactment.
+>
+> F36: Substituted (17.07.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 6, commenced on enactment.
+
+#### 49. Resignation of officers.
+
+**49.**—(1) An officer may, in the prescribed manner, tender to the President the resignation of his commission.
+
+(2) The President may accept or refuse to accept the resignation of his commission tendered by an officer.
+
+(3) An officer who has tendered the resignation of his commission shall not, by reason merely of such tender, be relieved of his military duties.
+
+(4) Where the resignation by an officer of his commission is accepted, such officer shall cease to be an officer.
+
+#### 50. Dismissal of officers.
+
+**50.**—(1) The President may dismiss any officer.
+
+(2) Except in the case of an officer who is sentenced by a civil court to suffer F37[...] F38[...] imprisonment for a term exceeding six months or who is absent without leave for a period exceeding three months, an officer shall not be dismissed under this section unless or until the reasons for the proposed dismissal have been communicated to him and such officer has been given a reasonable opportunity of making such representation as he may think proper in relation to the proposed dismissal.
+
+(3) An officer who is dismissed shall cease to be an officer.
+
+F39[(4) This section shall not apply to a military judge.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F37: Deleted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1 para. 4(a), commenced on enactment.
+>
+> F38: Deleted (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2 para. 3, commenced as per s. 1.
+>
+> F39: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(2) and sch. 2, S.I. No. 254 of 2008.
+
+#### 51. Effective dates of appointment, etc., of officers.
+
+**51.**—(1) The following—
+
+(*a*) the appointment of a person to be an officer of the Permanent Defence Force or the Reserve Defence Force,
+
+(*b*) the retirement, under subsection (2) or (3) of section 47, of an officer of the Permanent Defence Force,
+
+(*c*) the relinquishment of his commission, under subsection (2) or (3) of section 48, by an officer of the Reserve Defence Force,
+
+(*d*) the resignation by an officer of his commission,
+
+(*e*) the dismissal of an officer under section 50,
+
+shall, in each case, take effect from such date as the President may fix.
+
+(2) The retirement under subsection (6) of section 47 of an officer of the Permanent Defence Force shall take effect from such date as the Minister may fix.
+
+(3) The following—
+
+(*a*) the promotion of an officer to higher substantive or acting commissioned rank,
+
+(*b*) the reversion of an officer holding acting commissioned rank to his substantive commissioned rank or to acting commissioned rank higher than his substantive commissioned rank,
+
+shall take effect as from such date as the Minister may fix.
+
+#### 52. Notification of appointments, etc., in Iris Oifigiúil.
+
+**52.**—Notice of the appointment of a person to be an officer, the dismissal (including dismissal by sentence of a court-martial) or the retirement of an officer or the relinquishment or the resignation by an officer of his commission and of the date on which such appointment, dismissal, retirement, relinquishment or resignation (as the case may be) takes effect shall be published in the *Iris Oifigiúil*.
+
+### Chapter II.Men. — Chapter II. — Men.
+
+Division I.
+
+Enlistment and Discharge, etc., of Men.
+
+*Original enlistment*.
+
+#### 53. Enlistment in the Permanent Defence Force for service during a fixed period either in the Permanent Defence Force or partly in the Permanent Defence Force and partly in the Reserve Defence Force.
+
+**53.**—(1) (*a*) A person F40[...] may be enlisted as a man of the Permanent Defence Force for service for a period of twelve years or for such less period as may from time to time be prescribed, but not for any longer period, and the period for which a person enlisting under this section is enlisted is in this Act referred to as the term of his original enlistment.
+
+(*b*) The Minister, in special cases or classes of cases, may direct that where a F41[person] is enlisted under this section F42[, prior to its amendment by section 3 of the Defence (Amendment) Act 2021,] before attaining the age of eighteen years the period of twelve years mentioned in paragraph (*a*) of this subsection shall be reckoned from the day on which F43[he or she attains] the age of eighteen years.
+
+(2) The enlistment of a person under this section shall be as follows, either—
+
+(*a*) for the whole of the term of his original enlistment in the Permanent Defence Force, or
+
+(*b*) for such portion of the term of his original enlistment as may from time to time be prescribed and as is specified in his attestation paper in the Permanent Defence Force and for the residue of the said term in the Reserve Defence Force.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F40: Deleted (4.04.2022) by *Defence (Amendment) Act 2021* (33/2021), s. 3(a)(i), S.I. No. 179 of 2022.
+>
+> F41: Substituted (4.04.2022) by *Defence (Amendment) Act 2021* (33/2021), s. 3(a)(ii)(I), S.I. No. 179 of 2022.
+>
+> F42: Inserted (4.04.2022) by *Defence (Amendment) Act 2021* (33/2021), s. 3(a)(ii)(II), S.I. No. 179 of 2022.
+>
+> F43: Substituted (4.04.2022) by *Defence (Amendment) Act 2021* (33/2021), s. 3(a)(ii)(III), S.I. No. 179 of 2022.
+>
+> **Modifications (not altering text):**
+>
+> C22: Application of section extended (23.01.1980) by *Defence (Amendment) (No. 2) Act 1979* (28/1979), s. 4, S.I. No. 19 of 1980.
+>
+> **Application of sections 53, 54 and 55 of Principal Act to women.**
+>
+> **4.**—A woman may—
+>
+> (*a*) be enlisted in the Permanent Defence Force for service for a fixed period either in the Permanent Defence Force or partly in the Permanent Defence Force and partly in the Reserve Defence Force,
+>
+> (*b*) be enlisted in the Permanent Defence Force for service for a period of emergency, or
+>
+> (*c*) be directly enlisted in the Reserve Defence Force for service for a fixed period,
+>
+> and for that purpose references in sections 53, 54 and 55 of the Principal Act to persons shall be construed as including persons of either sex and references in sections 53 (1) (*b*) and 55 (1) (*b*) of that Act to a boy shall be construed as including references to a girl.
+
+#### 53A. Re-enlistment of formerly enlisted persons
+
+F44[**53A.**—(1) A person who was formerly enlisted in the Permanent Defence Force—
+
+(*a*) who has served the full term of his or her original enlistment in accordance with section 53 (and, if applicable, any periods of service authorised under section 64 or 65), or
+
+(*b*) who was discharged in accordance with section 75,
+
+may, subject to subsection (2), be re-enlisted as an enlisted person of the Permanent Defence Force for a specified period as determined by the Minister.
+
+(2) A person may only be re-enlisted under subsection (1) where the Minister determines that this course of action will address a deficiency, within the Defence Forces, of necessary skills or expertise which, in his or her opinion, cannot be met through the use of existing personnel resources.
+
+(3) A person re-enlisted under subsection (1) may have that period of service extended for such further term F45[or terms] as the Minister may determine, having regard to any deficiency within the Defence Forces of necessary skills or expertise which, in his or her opinion, cannot be met through the use of the then existing personnel resources.
+
+(4) Sections 53, 63, 64, 65 and 70 shall not apply to a person re-enlisted under this section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F44: Inserted (27.03.2020) by *Emergency Measures in the Public Interest (Covid-19) Act 2020* (2/2020), s. 26(b), commenced on enactment.
+>
+> F45: Inserted (17.07.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 7, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E7: Note provisions governing return of reservists to employment (27.03.2020) in *Emergency Measures in the Public Interest (Covid-19) Act 2020* (2/2020), s. 27, commenced on enactment.
+
+#### 54. Enlistment in the Permanent Defence Force for service during a period of emergency.
+
+**54.**—A person F46[...] may during a period of emergency be enlisted as a man of the Permanent Defence Force to serve for that period of emergency in the Permanent Defence Force.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F46: Deleted (4.04.2022) by *Defence (Amendment) Act 2021* (33/2021), s. 3(b), S.I. No. 179 of 2022.
+>
+> **Modifications (not altering text):**
+>
+> C23: Application of section extended (23.01.1980) by *Defence (Amendment) (No. 2) Act 1979* (28/1979), s. 4, S.I. No. 19 of 1980.
+>
+> **Application of sections 53, 54 and 55 of Principal Act to women.**
+>
+> **4.**—A woman may—
+>
+> (*a*) be enlisted in the Permanent Defence Force for service for a fixed period either in the Permanent Defence Force or partly in the Permanent Defence Force and partly in the Reserve Defence Force,
+>
+> (*b*) be enlisted in the Permanent Defence Force for service for a period of emergency, or
+>
+> (*c*) be directly enlisted in the Reserve Defence Force for service for a fixed period,
+>
+> and for that purpose references in sections 53, 54 and 55 of the Principal Act to persons shall be construed as including persons of either sex and references in sections 53 (1) (*b*) and 55 (1) (*b*) of that Act to a boy shall be construed as including references to a girl.
+
+#### 55. Direct enlistment in the Reserve Defence Force for service during a fixed period.
+
+**55.**—(1) (*a*) A person F47[...] may be directly enlisted to serve as a man of the Reserve Defence Force for a period of twelve years or for such less period as may from time to time be prescribed, but not for any longer period, and the period for which a person enlisting under this section is enlisted is in this Act referred to as the term of his original enlistment.
+
+(*b*) The Minister, in special cases or classes of cases, may direct that where a F48[person] is enlisted under this section F49[, prior to its amendment by section 3 of the Defence (Amendment) Act 2021,] before attaining the age of eighteen years the period of twelve years mentioned in paragraph (*a*) of this subsection shall be reckoned from the day on which F50[he or she attains] the age of eighteen years.
+
+(2) The enlistment of a person under this section shall be for the whole of the term of his original enlistment in the Reserve Defence Force.
+
+(3) A person enlisted under this section shall be enlisted for service in a particular class of reservists.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F47: Deleted (4.04.2022) by *Defence (Amendment) Act 2021* (33/2021), s. 3(c)(i), S.I. No. 179 of 2022.
+>
+> F48: Substituted (4.04.2022) by *Defence (Amendment) Act 2021* (33/2021), s. 3(c)(ii)(I), S.I. No. 179 of 2022.
+>
+> F49: Inserted (4.04.2022) by *Defence (Amendment) Act 2021* (33/2021), s. 3(c)(ii)(II), S.I. No. 179 of 2022.
+>
+> F50: Substituted (4.04.2022) by *Defence (Amendment) Act 2021* (33/2021), s. 3(c)(ii)(III), S.I. No. 179 of 2022.
+>
+> **Modifications (not altering text):**
+>
+> C24: Application of section extended (23.01.1980) by *Defence (Amendment) (No. 2) Act 1979* (28/1979), s. 4, S.I. No. 19 of 1980.
+>
+> **4.**—A woman may—
+>
+> (*a*) be enlisted in the Permanent Defence Force for service for a fixed period either in the Permanent Defence Force or partly in the Permanent Defence Force and partly in the Reserve Defence Force,
+>
+> (*b*) be enlisted in the Permanent Defence Force for service for a period of emergency, or
+>
+> (*c*) be directly enlisted in the Reserve Defence Force for service for a fixed period,
+>
+> and for that purpose references in sections 53, 54 and 55 of the Principal Act to persons shall be construed as including persons of either sex and references in sections 53 (1) (*b*) and 55 (1) (*b*) of that Act to a boy shall be construed as including references to a girl.
+
+*Proceedings for enlistment*.
+
+#### 56. Recruiting regulations.
+
+**56.**—(1) The Minister may make regulations (in this Act referred to as recruiting regulations) in relation to all or any of the following matters, that is to say:—
+
+(*a*) the appointment and duties of recruiters;
+
+(*b*) the persons authorised to enlist recruits for the Permanent Defence Force and the Reserve Defence Force;
+
+(*c*) the manner in which recruits are to be enlisted;
+
+(*d*) the forms to be used for the purposes of enlistment;
+
+(*e*) the persons to be enlisted;
+
+(*f*) the enlistment of recruits for service in a particular service corps;
+
+(*g*) the enlistment of recruits in the Reserve Defence Force for service in a particular class of reservists;
+
+(*h*) any other matter in relation to proceedings for enlistment.
+
+(2) Recruiting regulations shall provide for the completion by a person enlisting in the Permanent Defence Force or the Reserve Defence Force of an attestation paper in the prescribed form and the signing by such person of such attestation paper and the verification of his signature.
+
+#### 57. Mode of enlisting recruits.
+
+**57.**—Every person enlisting in the Permanent Defence Force or the Reserve Defence Force shall be enlisted in accordance with recruiting regulations.
+
+#### 58. Oath on enlistment.
+
+**58.**—(1) Every person enlisting in the Permanent Defence Force under F51[section 53 or 53A] shall take an oath or make a declaration either in the form set out in Part I of the Eighth Schedule to this Act or in the form set out in Part II of the said Schedule.
+
+(2) Every person enlisting in the Permanent Defence Force under section 54 shall take an oath or make a declaration either in the form set out in Part I of the Ninth Schedule to this Act or in the form set out in Part II of the said Schedule.
+
+(3) Every person enlisting in the Reserve Defence Force under section 55 shall take an oath or make a declaration either in the form set out in Part I of the Tenth Schedule to this Act or in the form set out in Part II of the said Schedule.
+
+(4) The oath or declaration mentioned in subsection (1), (2) or (3) of this section shall be taken or made before a prescribed officer.
+
+(5) The oath taken or declaration made in pursuance of this section by a person enlisting in the Permanent Defence Force or the Reserve Defence Force shall bind such person to serve in accordance with his engagement and the tenor of such oath or declaration until he is legally discharged.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F51: Substituted (27.03.2020) by *Emergency Measures in the Public Interest (Covid-19) Act 2020* (2/2020), s. 26(c), commenced on enactment.
+
+#### 59. Effect of signing declaration required by attestation paper and complying with section 58.
+
+**59.**—Every person enlisting in the Permanent Defence Force or the Reserve Defence Force shall, upon—
+
+(*a*) signing a declaration affirming such particulars in relation to himself as may be required by his attestation paper and of his willingness to fulfil the engagements set out in the said attestation paper, and
+
+(*b*) complying with section 58,
+
+be deemed to be enlisted as a man of the Permanent Defence Force or the Reserve Defence Force (as the case may be), and, for the purposes of this Act, the date of the attestation of such person shall be the date on which he signs the said declaration and complies with section 58.
+
+*Appointment to service corps*.
+
+#### 60. Enlistment for general service and appointment to service corps.
+
+**60.**—(1) Recruits may, in pursuance of regulations from time to time made by the Minister, be enlisted for service in a particular service corps, but save as provided in such regulations (if any) recruits shall be enlisted for general service.
+
+(2) The prescribed military authority shall as soon as practicable appoint a recruit, if enlisted for service in a particular service corps, to that service corps and, if enlisted for general service, to some service corps.
+
+#### 61. Transfer of men of Permanent Defence Force enlisted under section 53 from one service corps to another.
+
+**61.**—(1) This section applies only to men of the Permanent Defence Force F52[who were enlisted under section 53 before the commencement of section 8 of the Defence (Amendment) Act 2007].
+
+(2) The following provisions shall apply in respect of a man of the Permanent Defence Force enlisted for general service—
+
+(*a*) in case his service as a man of the Permanent Defence Force in the service corps in which he is for the time being serving is less than ten years, he may be transferred by order of the prescribed military authority to another service corps,
+
+(*b*) in case his service as a man of the Permanent Defence Force in the service corps in which he is for the time being serving is ten years or more, he may be transferred by order of the prescribed military authority to another service corps, if, but only if,—
+
+(i) he consents to such transfer, or
+
+F53[(ia) the transfer is for the purpose of enabling the man to serve, or continue to serve, outside the State with an International United Nations Force F54[...], or]
+
+(ii) a proclamation authorising the calling out of reservists on permanent service is for the time being in force.
+
+(3) Where a man of the Permanent Defence Force is enlisted for service in a particular service corps, he may be transferred by order of the prescribed military authority to another service corps, if, but only if, he consents to such transfer F55[or the transfer is for the purpose of enabling the man to serve, or continue to serve, outside the State with an International United Nations Force F56[...]].
+
+(4) The provisions of this section shall have effect subject to subsection (2) of section 296.
+
+F57[(5) A man of the Permanent Defence Force who by virtue of this section F58[...] is transferred from one service corps to another service corps for the purpose of enabling the man to serve, or continue to serve, outside the State with an International United Nations Force F59[or for any purpose specified in section 3 of the Defence (Amendment) Act 2006], shall, on the completion of such service, be transferred by the prescribed military authority with all convenient speed to the first mentioned service corps.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F52: Substituted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 8, commenced on enactment as per s. 1(3).
+>
+> F53: Inserted (21.12.1960) by *Defence (Amendment) (No. 2) Act 1960* (44/1960), s. 4(2)(a), commenced on enactment. (Note: subs. (2) misprinted as subs. (6)).
+>
+> F54: Deleted (12.07.2006) by *Defence (Amendment) Act 2006* (20/2006), s. 5(a), commenced on enactment.
+>
+> F55: Inserted (21.12.1960) by *Defence (Amendment) (No. 2) Act 1960* (44/1960), s. 4(2)(b), commenced on enactment. (Note: subs. (2) misprinted as subs. (6)).
+>
+> F56: Deleted (12.07.2006) by *Defence (Amendment) Act 2006* (20/2006), s. 5(b), commenced on enactment.
+>
+> F57: Inserted (21.12.1960) by *Defence (Amendment) (No. 2) Act 1960* (44/1960), s. 4(2)(c), commenced on enactment. (Note: subs. (2) misprinted as subs. (6)).
+>
+> F58: Deleted (12.07.2006) by *Defence (Amendment) Act 2006* (20/2006), s. 5(c)(i), commenced on enactment.
+>
+> F59: Inserted (12.07.2006) by *Defence (Amendment) Act 2006* (20/2006), s. 5(c)(ii), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C25: Term “International United Nations Force” construed (12.07.2006) by *Defence (Amendment) Act 2006* (20/2006), s. 2(2), commenced on enactment.
+>
+> **Application of certain provisions of Act of 1960 and Principal Act.**
+>
+> **2.**— ...
+>
+> (2) The provisions of the Principal Act specified in section 4 of the Act of 1960 as amended by this Act shall apply and have effect as if each reference in those provisions to an International United Nations Force were a reference to an International United Nations Force as defined in section 1 of this Act.
+>
+> **Editorial Notes:**
+>
+> E8: In *Defence (Amendment) (No. 2) Act 1960* (44/1960), s. 4, subs. (2) appears to be misprinted as subs. (6).
+>
+> E9: Previous affecting provision: application of section affected (1.07.1993) by *Defence (Amendment) Act 1993* (18/1993), s. 3(2); repealed (12.07.2006) by *Defence (Amendment) Act 2006* (20/2006), s. 12 and sch., commenced on enactment.
+>
+> E10: Previous affecting provision: transitional saver applied to above F-notes (21.12.1960) by *Defence (Amendment) (No. 2) Act 1960* (44/1960), s. 4(7), commenced on enactment; repealed (12.07.2006) by *Defence (Amendment) Act 2006* (20/2006), s. 12 and sch., commenced on enactment.
+
+*Assignment of reservists to classes of reservists*.
+
+#### 62. Assignment of reservists to a particular class of reservists.
+
+**62.**—(1) A reservist enlisted under section 55 for service in a particular class of reservists shall be assigned by the prescribed military authority to that class of reservists.
+
+(2) A reservist who for the time being belongs to a particular class of reservists may, with his own consent, be assigned by the Minister to another class of reservists.
+
+*Variation of engagement, re-engagement and continuance in service*.
+
+#### 63. Change of conditions of service of men enlisted under section 53.
+
+**63.**—(1) (*a*) This subsection applies to a man of the Permanent Defence Force who is enlisted under section 53.
+
+(*b*) The Minister may by regulations vary the conditions of service of a man to whom this subsection applies so as to permit him, with the consent of the Minister:—
+
+(i) to enter the Reserve Defence Force at any time for the residue unexpired of the term of his original enlistment, or
+
+(ii) to extend his service in the Permanent Defence Force for all or any part of the residue unexpired of the term of his original enlistment.
+
+(*c*) A man to whom this subsection applies, with the consent of the Minister, may, if the term of his original enlistment is less than twelve years, extend, in accordance with regulations made by the Minister, the term of his original enlistment up to a period of twelve years or any shorter period.
+
+(*d*) Where a man to whom this subsection applies extends the term of his original enlistment under this subsection, any subsequent reference in this Act to the term of his original enlistment shall be construed as a reference to the term of his original enlistment as so extended.
+
+(2) (*a*) This subsection applies to a reservist who, having been enlisted in the Permanent Defence Force under section 53, has been transferred to the Reserve Defence Force under section 70.
+
+(*b*) A reservist to whom this subsection applies, with the consent of the Minister, may, if the term of his original enlistment is less than twelve years, extend, in accordance with regulations made by the Minister, the term of his original enlistment up to a period of twelve years or any shorter period.
+
+(*c*) Where a reservist to whom this subsection applies extends the term of his original enlistment under this subsection, any subsequent reference (including the reference in subsection (3) of this section) in this Act to the term of his original enlistment shall be construed as a reference to the term of his original enlistment as so extended.
+
+(3) (*a*) This subsection applies to a reservist who, having been enlisted in the Permanent Defence Force under section 53, has been transferred to the Reserve Defence Force under section 70.
+
+(*b*) The Minister may by regulations vary the conditions of service of a reservist to whom this subsection applies so as to permit him, with the consent of the prescribed military authority, to re-enter the Permanent Defence Force for all or any of the residue unexpired of the term of his original enlistment.
+
+(4) Regulations under paragraph (*b*) of subsection (1) or under subsection (3) of this section may be expressed to be applicable generally or in specified cases only.
+
+#### 64. Re-engagement of men of the Permanent Defence Force enlisted under section 53.
+
+F60[**64.**—(1) Subject to *subsection (2)* and any regulations that may be made under *subsection (3)*, a member of the Permanent Defence Force enlisted under *section 53* (in this section referred to as an "enlisted member") may, after the expiration of 9 years, reckoned from the date of the enlisted member’s attestation, apply for and be re-engaged for a further period of service in the Permanent Defence Force which shall continue until the earlier of the following occurs:
+
+(*a*) that enlisted member’s service makes up a total continuous period not exceeding 21 years’ service reckoned as aforesaid;
+
+(*b*) that enlisted member attains the upper age limit permitted for continuance in service as prescribed in regulations made by the Minister under this Act.
+
+(2) The re-engagement of an enlisted member under this section shall be subject to—
+
+(*a*) the recommendation of the enlisted member’s commanding officer that the enlisted member concerned is suitable for re-engagement, and
+
+(*b*) the approval by the prescribed military authority of the enlisted member concerned for re-engagement.
+
+(3) The Minister may, in relation to an enlisted member who applies for re-engagement, make regulations prescribing the conditions that shall apply to the re-engagement of an enlisted member under this section including—
+
+(*a*) the standard of physical fitness to be attained,
+
+(*b*) the minimum medical classification code to be held,
+
+(*c*) the military courses of instruction to be completed,
+
+(*d*) the period of service outside the State to be completed within a prescribed period, and
+
+(*e*) the standard of conduct to be adhered to.
+
+(4) Regulations under this section may—
+
+(*a*) make different provision in relation to different classes of enlisted members, and
+
+(*b*) contain such incidental, supplementary and consequential provisions as appear to the Minister to be necessary or expedient for the purposes of the regulations.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F60: Substituted (17.07.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 8, commenced on enactment.
+
+#### 65. Continuance in service after 21 years’ service of men of the Permanent Defence Force.
+
+**65.**—(1) The Minister may, as respects men of the Permanent Defence Force who have completed a total continuous period of twenty-one years’ service or (by virtue of any continuance in service under this subsection) more in the Defence Forces and who desire to continue to serve in the Permanent Defence Force, by regulations provide for their continuance in service in the Permanent Defence Force.
+
+(2) Where a man of the Permanent Defence Force is continued in service for a particular period under subsection (1) of this section, he may be continued as a man of the Permanent Defence Force for that period in the same manner in all respects as if his term of service were still unexpired.
+
+#### 66. Extension of term of original enlistment of reservists enlisted under section 55.
+
+**66.**—(1) This section applies to a reservist who is enlisted under section 55.
+
+(2) A reservist to whom this section applies, with the consent of the Minister, may, if the term of his original enlistment is less than twelve years, extend, in accordance with regulations made by the Minister, the term of his original enlistment up to a period of twelve years or any shorter period.
+
+(3) Where a reservist to whom this section applies extends the term of his original enlistment under this section, any subsequent reference in this Act to the term of his original enlistment shall be construed as a reference to the term of his original enlistment as so extended.
+
+#### 67. Re-engagement of reservists.
+
+F61[**67.**—(1) Subject to *subsection (2)* and any regulations that may be made under *subsection (3)*, a reservist may, after the expiration of 9 years, reckoned from the date of the reservist’s attestation, apply for and be re-engaged for a further period of service in the Reserve Defence Force which shall continue until the earlier of the following occurs:
+
+(*a*) the reservist’s service will make up a total continuous period not exceeding 21 years’ service reckoned as aforesaid;
+
+(*b*) the reservist attains the upper age limit permitted for continuance in service as prescribed in regulations made by the Minister under this Act.
+
+(2) The re-engagement of a reservist under this section shall be subject to—
+
+(*a*) the recommendation of the reservist’s commanding officer that the reservist concerned is suitable for re-engagement, and
+
+(*b*) the approval by the prescribed military authority of the reservist concerned for re-engagement.
+
+(3) The Minister may, in relation to a reservist who applies for re engagement, make regulations prescribing the conditions that shall apply to the re-engagement of a reservist under this section including—
+
+(*a*) the standard of physical fitness to be attained,
+
+(*b*) the minimum medical classification code to be held, and
+
+(*c*) provision for such training as the Minister considers appropriate to be completed by a reservist who applies for re-engagement.
+
+(4) Regulations under this section may—
+
+(*a*) make different provision in relation to different classes of reservists, and
+
+(*b*) contain such incidental, supplementary and consequential provisions as appear to the Minister to be necessary or expedient for the purposes of the regulations.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F61: Substituted (17.07.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 9, commenced on enactment.
+
+#### 68. Continuance in service after 21 years’ service of reservists.
+
+**68.**—(1) The Minister may, as respects reservists who have completed a total continuous period of twenty-one years’ service or (by virtue of any continuance in service under this subsection) more in the Defence Forces and who desire to continue to serve in the Reserve Defence Force, by regulations provide for their continuance in service in the Reserve Defence Force.
+
+(2) Where a reservist is continued in service for a particular period under subsection (1) of this section, he may be continued as a reservist for that period in the same manner in all respects as if his term of service were still unexpired.
+
+*Transfer to Reserve Defence Force and discharge*.
+
+#### 69. Period of desertion or absence without leave to be excluded in reckoning service of man of the Permanent Defence Force.
+
+**69.**—Where a man of the Permanent Defence Force enlisted under F62[section 53 or 53A] deserts or absents himself without leave, whether once or oftener, then, save as may be otherwise prescribed, each period commencing on the date on which he deserts or absents himself without leave and ending on the date on which he next surrenders himself or reports back for duty or is apprehended (as the case may be) shall be excluded in reckoning his service in the Permanent Defence Force for the purposes of this Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F62: Substituted (27.03.2020) by *Emergency Measures in the Public Interest (Covid-19) Act 2020* (2/2020), s. 26(b), commenced on enactment.
+
+#### 70. Transfer to the Reserve Defence Force or discharge of men of the Permanent Defence Force enlisted under section 53.
+
+**70.**—(1) This section applies only to men of the Permanent Defence Force enlisted under section 53.
+
+(2) In reckoning the service of a man of the Permanent Defence Force for the purposes of transfer to the Reserve Defence Force or discharge from the Permanent Defence Force, his service shall, subject to section 69, be reckoned from, in case he is a man in respect of whom a direction has been given under paragraph (*b*) of subsection (1) of section 53, the date on which he attains the age of eighteen years or, in any other case, the date of his attestation.
+
+(3) (*a*) Every man of the Permanent Defence Force, upon completion of the period of his service with the Permanent Defence Force, if shorter than the term of his original enlistment, shall, subject to the provisions of this subsection, be transferred in the prescribed manner to the Reserve Defence Force,
+
+(*b*) Where the time at which a man of the Permanent Defence Force would, by virtue of paragraph (*a*) of this subsection, be entitled to be transferred to the Reserve Defence Force occurs while a proclamation authorising the calling out of reservists on permanent service is in force F63[or he is serving outside the State with an International United Nations Force] F64[or for any purpose specified in section 3 of the Defence (Amendment) Act 2006], the following provisions shall have effect—
+
+(i) he shall continue to serve as a man of the Permanent Defence Force for such further period (not exceeding the period during which the proclamation is in force F65[or the period of such service outside the State with an International United Nations Force F64[or for any purpose specified in section 3 of the Defence (Amendment) Act 2006], as the case may be, or, where the two periods occur and there is no interval of time between them, the period from the commencement of the period which occurs first to the expiration of the other period]) as the prescribed military authority may decide,
+
+(ii) on the expiration of such further period—
+
+(I) in case the term of his original enlistment has expired and he has not been re-engaged under section 64 or continued in service under section 65, he shall be discharged from the Permanent Defence Force with all convenient speed,
+
+(II) in any other case, he shall be transferred in the prescribed manner to the Reserve Defence Force.
+
+(*c*) Where a man of the Permanent Defence Force is required by this subsection to be transferred to the Reserve Defence Force—
+
+(i) he shall until so transferred be subject to this Act as a man of the Permanent Defence Force,
+
+(ii) upon such transfer, he shall, subject to subparagraph (iii) of this paragraph, become and be a man of the Reserve Defence Force for the period unexpired of the term of his original enlistment,
+
+(iii) if, during the said period, he re-enters the Permanent Defence Force under subsection (3) of section 63, then, he shall from the date of such re-entry become and be again a man of the Permanent Defence Force in like manner in all respects as if he had not been so transferred to the Reserve Defence Force.
+
+(4) (*a*) Subject to this subsection, every man of the Permanent Defence Force, upon completion of the term of his original enlistment or the period of his re-engagement under section 64 or the period of his continuance in service under section 65, shall be discharged from the Permanent Defence Force with all convenient speed.
+
+(*b*) Where the time at which a man of the Permanent Defence Force would, by virtue of paragraph (*a*) of this subsection, be entitled to be discharged occurs while a proclamation authorising the calling out of reservists on permanent service is in force F63[or he is serving outside the State with an International United Nations Force] F64[or for any purpose specified in section 3 of the Defence (Amendment) Act 2006], he shall continue to serve as a man of the Permanent Defence Force for such further period (not exceeding the period during which the proclamation is in force F65[or the period of such service outside the State with an International United Nations Force F64[or for any purpose specified in section 3 of the Defence (Amendment) Act 2006], as the case may be, or, where the two periods occur and there is no interval of time between them, the period from the commencement of the period which occurs first to the expiration of the other period]) as the prescribed military authority may direct, and at the expiration of such further period shall be discharged from the Permanent Defence Force with all convenient speed.
+
+(5) Subsections (3) and (4) of this section shall have effect subject to subsection (3) of section 296.
+
+(6) Where a man of the Permanent Defence Force is transferred to the Reserve Defence Force or discharged under this section, he shall be entitled to be conveyed free of cost from the place where he is so transferred or discharged to the place where he appears from his attestation paper to have been resident when attested or to any place at which he may at the time of his transfer or discharge decide to take up his residence and to which he can be conveyed without greater cost.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F63: Inserted (21.12.1960) by *Defence (Amendment) (No. 2) Act 1960* (44/1960), s. 4(3), commenced on enactment.
+>
+> F64: Inserted (12.07.2006) by *Defence (Amendment) Act 2006* (20/2006), s. 6, commenced on enactment.
+>
+> F65: Inserted (21.12.1960) by *Defence (Amendment) (No. 2) Act 1960* (44/1960), s. 4(3), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C26: Term “International United Nations Force” construed (12.07.2006) by *Defence (Amendment) Act 2006* (20/2006), s. 2, commenced on enactment.
+>
+> **Application of certain provisions of Act of 1960 and Principal Act.**
+>
+> **2.**—...
+>
+> (2) The provisions of the Principal Act specified in section 4 of the Act of 1960 as amended by this Act shall apply and have effect as if each reference in those provisions to an International United Nations Force were a reference to an International United Nations Force as defined in section 1 of this Act.
+>
+> **Editorial Notes:**
+>
+> E11: Previous affecting provision: application of section affected (1.07.1993) by *Defence (Amendment) Act 1993* (18/1993), s. 3(2); repealed (12.07.2006) by *Defence (Amendment) Act 2006* (20/2006), s. 12 and sch., commenced on enactment.
+>
+> E12: Previous affecting provision: transitional saver applied to above F-notes (21.12.1960) by *Defence (Amendment) (No. 2) Act 1960* (44/1960), s. 4(7), commenced on enactment; repealed (12.07.2006) by *Defence (Amendment) Act 2006* (20/2006), s. 12 and sch., commenced on enactment.
+
+#### 71. Discharge of men of the Permanent Defence Force enlisted under section 54.
+
+**71.**—(1) Every man of the Permanent Defence Force enlisted under section 54 to serve for a period of emergency shall upon the expiration of that period of emergency be discharged from the Permanent Defence Force with all convenient speed.
+
+(2) Where a man of the Permanent Defence Force enlisted under section 54 is discharged under this section, he shall be entitled to be conveyed free of cost from the place where he is discharged to the place where he appears from his attestation paper to have been resident when attested or to any place at which he may at the time of his discharge decide to take up residence and to which he can be conveyed without greater cost.
+
+#### 72. Discharge of reservists.
+
+**72.**—(1) In reckoning the service of a reservist for the purposes of discharge from the Reserve Defence Force, his service shall, subject, if he was transferred to the Reserve Defence Force under section 70, to section 69, be reckoned from, in case he is a man in respect of whom a direction has been given under paragraph (*b*) of subsection (1) of section 53 or paragraph (*b*) of subsection (1) of section 55, the date on which he attains the age of eighteen years or, in any other case, the date of his attestation.
+
+(2) (*a*) Subject to this subsection, every reservist, upon completion of the term of his original enlistment or the period of his re-engagement under section 67 or the period of his continuance in service under section 68, shall be discharged from the Reserve Defence Force with all convenient speed.
+
+(*b*) Where the time at which a reservist would, by virtue of paragraph (*a*) of this subsection, be entitled to be discharged occurs while a proclamation authorising the calling out of reservists on permanent service is in force, he shall continue to serve as a reservist for such further period (not exceeding the period during which the proclamation is in force) as the prescribed military authority directs, and at the expiration of such further period shall be discharged from the Reserve Defence Force with all convenient speed.
+
+(*c*) Paragraphs (*a*) and (*b*) of this subsection shall have effect subject to subsection (2) of section 297.
+
+(3) Where a reservist is discharged under this section and immediately before his discharge stood called out on permanent service, he shall be entitled to be conveyed free of cost from the place where he is discharged to the place which was his registered place of abode when he was called out on permanent service or to any other place at which he may at the time of his discharge decide to take up his residence and to which he can be conveyed without greater cost.
+
+*Discharge otherwise than on completion of service*.
+
+#### 73. Discharge of men by direction of Minister or authorised officer.
+
+**73.**—The Minister or any officer authorised by the Minister in that behalf may, for prescribed reasons, direct the discharge of a man from the Permanent Defence Force or the Reserve Defence Force (as the case may be).
+
+#### 74. F66[Discharge of reservists in certain public service positions.
+
+**74.**—A reservist who is—
+
+(*a*) elected as a member of either House of the Oireachtas or the European Parliament,
+
+(*b*) nominated as a member of Seanad Éireann, or
+
+(*c*) regarded under Part XIII of the Second Schedule to the European Parliament Elections Act 1997 as having been elected to the European Parliament to fill a vacancy,
+
+shall thereupon stand, by virtue of this section, discharged from the Reserve Defence Force.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F66: Substituted (4.04.2022) by *Defence (Amendment) Act 2021* (33/2021), s. 13(a), S.I. No. 179 of 2022.
+>
+> **Editorial Notes:**
+>
+> E13: Previous affecting provision: section amended (9.12.1977) by *European Assembly Elections Act 1977* (30/1977), s. 22, commenced on enactment; substituted as per F-note above.
+
+#### 75. Discharge by purchase.
+
+**75.**—(1) A man shall be entitled, except during a period of emergency, to his discharge from the Permanent Defence Force or the Reserve Defence Force by purchase as may be prescribed.
+
+(2) Where—
+
+(*a*) a man at any time within three months after the date of his attestation pays to the Minister such sum (not exceeding twenty-five pounds) as the Minister may fix and applies to be discharged, and
+
+(*b*) such payment and application are not made during a period of emergency,
+
+such person shall be discharged from the Permanent Defence Force or the Reserve Defence Force (as the case may be) with all convenient speed.
+
+(3) Where—
+
+(*a*) a person has enlisted, and
+
+(*b*) a period of emergency commences within three months after the date of his attestation, and
+
+(*c*) such person within three months after the termination of the period of emergency pays to the Minister such sum (not exceeding twenty-five pounds) as the Minister may fix and applies to be discharged,
+
+such person shall be discharged from the Permanent Defence Force or the Reserve Defence Force (as the case may be) with all convenient speed.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C27: Term “International United Nations Force” construed (12.07.2006) by *Defence (Amendment) Act 2006* (20/2006), s. 2, commenced on enactment.
+>
+> **Application of certain provisions of Act of 1960 and Principal Act.**
+>
+> **2.**—...
+>
+> (2) The provisions of the Principal Act specified in section 4 of the Act of 1960 as amended by this Act shall apply and have effect as if each reference in those provisions to an International United Nations Force were a reference to an International United Nations Force as defined in section 1 of this Act.
+>
+> C28: Application of section extended (21.12.1960) by *Defence (Amendment) (No. 2) Act 1960* (44/1960), s. 4(4), commenced on enactment, as amended (12.07.2006) by *Defence (Amendment) Act 2006* (20/2006), s. 9(a) and (b), commenced on enactment.
+>
+> **Amendments of the Principal Act.**
+>
+> **4.**—...
+>
+> (4) (*a*) **[**Section 75**]** of the Principal Act shall, in its application to a man of the Permanent Defence Force who is serving outside the State with an International United Nations Force, have effect as if the references therein to a period of emergency included references to a period during which the man is serving outside the State with an International United Nations Force **[**or for any purpose specified in section 3 of the Defence (Amendment) Act 2006**]**.
+>
+> (*b*) Where, in relation to a man of the Permanent Defence Force, a period (being either a period of emergency or a period in which the man is serving outside the State with an International United Nations Force **[**or for any purpose specified in section 3 of the Defence (Amendment) Act 2006**]**) is followed within three months after its expiration by a period (being either a period of emergency or a period in which the man is serving outside the State with an International United Nations Force **[**or for any purpose specified in section 3 of the Defence (Amendment) Act 2006**]**), the former period shall, for the purposes of subsection (3) of section 75 of the Principal Act be deemed to have terminated at the time of the termination of the latter period.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E14: Previous affecting provision: application of section affected (1.07.1993) by *Defence (Amendment) Act 1993* (18/1993), s. 3(2); repealed (12.07.2006) by *Defence (Amendment) Act 2006* (20/2006), s. 12 and sch., commenced on enactment.
+>
+> E15: Previous affecting provision: transitional provision applied to above C-note (21.12.1960) by *Defence (Amendment) (No. 2) Act 1960* (44/1960), s. 4(7), commenced on enactment; repealed (12.07.2006) by *Defence (Amendment) Act 2006* (20/2006), s. 12 and sch., commenced on enactment.
+
+#### 76. Discharge of persons under eighteen.
+
+**76.**—F67[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F67: Deleted (4.04.2022) by *Defence (Amendment) Act 2021* (33/2021), s. 3(d), S.I. No. 179 of 2022.
+
+#### 77. Discharge of apprentices.
+
+**77.**—F68[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F68: Deleted (4.04.2022) by *Defence (Amendment) Act 2021* (33/2021), s. 3(d), S.I. No. 179 of 2022.
+
+*Status of unenlisted person in receipt of pay as a man and of persons informally enlisted*.
+
+#### 78. Status of unenlisted person in receipt of pay as a man.
+
+**78.**—(1) Where a person—
+
+(*a*) has accepted pay as a man of the Permanent Defence Force, and
+
+(*b*) has neither been attested nor re-engaged as a man of the Permanent Defence Force,
+
+the following provisions shall have effect—
+
+(i) such person may at any time claim his discharge, and on such claim being made he shall be discharged from the Permanent Defence Force with all convenient speed, and
+
+(ii) until such claim is made and such person is actually discharged in the manner prescribed by regulations made under section 81, he shall be subject to this Act as a man of the Permanent Defence Force duly enlisted and attested or re-engaged.
+
+(2) Subsection (1) of this section shall apply in respect of a person who has accepted pay, a grant or other payment as a reservist and has neither been attested nor re-engaged as a reservist, subject to the modification that references to the Permanent Defence Force shall be construed as references to the Reserve Defence Force.
+
+#### 79. Status of persons enlisted or re-engaged where error or illegality in enlistment or re-engagement.
+
+**79.**—(1) Where there has been an error (not being a material error) in the enlistment, attestation, re-engagement or continuance in service of a person as a man of the Permanent Defence Force, such error shall not invalidate his enlistment, attestation, re-engagement or continuance in service and may be corrected by direction of the Minister.
+
+(2) Where—
+
+(*a*) a person has been attested, re-engaged or continued in service as a man of the Permanent Defence Force, and
+
+(*b*) there has been any material error or any illegality in his enlistment, attestation, re-engagement or continuance in service (as the case may be), and
+
+(*c*) such person has after the date of his attestation, re-engagement or continuance in service (as the case may be) accepted pay as a man of the Permanent Defence Force, and
+
+(*d*) such person, within three months after he first so accepted pay, claims his discharge on the ground of such error or illegality,
+
+then the following provisions shall apply—
+
+(i) such person shall be discharged from the Permanent Defence Force with all convenient speed;
+
+(ii) during the period commencing on the date of his attestation, re-engagement or continuance in service and ending on the date on which he is discharged in the manner prescribed by regulations made under section 81 he shall be deemed for the purposes of this Act to be a man of the Permanent Defence Force.
+
+(3) Where—
+
+(*a*) a person has been attested, re-engaged or continued in service as a man of the Permanent Defence Force, and
+
+(*b*) there has been any material error or any illegality in his enlistment, attestation, re-engagement or continuance in service (as the case may be), and
+
+(*c*) such person has after the date of his attestation, re-engagement or continuance in service (as the case may be) received pay as a man of the Permanent Defence Force, and
+
+(*d*) such person does not, within three months after he first so accepted pay, claim his discharge on the ground of such error or illegality,
+
+then such person shall, notwithstanding such error or illegality, be deemed for the purposes of this Act to have been duly attested and enlisted or re-engaged or continued in service as a man of the Permanent Defence Force.
+
+(4) Where—
+
+(*a*) a person has been attested, re-engaged or continued in service as a man of the Permanent Defence Force, and
+
+(*b*) there has been any material error or any illegality in his enlistment, attestation, re-engagement or continuance in service (as the case may be), and
+
+(*c*) such person has not after the date of his attestation, re-engagement or continuance in service (as the case may be) accepted pay as a man of the Permanent Defence Force,
+
+the following provisions shall have effect—
+
+(i) such person may at any time claim his discharge, and on such claim being made he shall be discharged from the Permanent Defence Force with all convenient speed, and
+
+(ii) until such claim is made and such person is actually discharged in the manner prescribed by regulations made under section 81, he shall be deemed for the purposes of this Act to be a man of the Permanent Defence Force.
+
+(5) Subsections (2), (3) and (4) of this section shall apply in respect of a person who has been attested, re-engaged or continued in service as a reservist, subject, however, to the following modifications, that is to say:—
+
+(*a*) references to the Permanent Defence Force shall be construed as references to the Reserve Defence Force, and
+
+(*b*) references to pay shall be construed as references to pay, a grant or other payment.
+
+*General provisions as to discharge*.
+
+#### 80. Order for discharge of men.
+
+**80.**—Where a man is required by section 70, 71, 72, 75, F69[...] 78 or 79 to be discharged, the prescribed military authority shall order the discharge of such man from the Permanent Defence Force or the Reserve Defence Force (as the case may be).
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F69: Deleted (4.04.2022) by *Defence (Amendment) Act 2021* (33/2021), s. 3(e), S.I. No. 179 of 2022.
+
+#### 81. Provisions in relation to discharge.
+
+**81.**—(1) A man shall not be discharged from the Permanent Defence Force or the Reserve Defence Force except in pursuance of—
+
+(*a*) a direction under section 73, or
+
+(*b*) an order of the prescribed military authority under section 80, or
+
+(*c*) a sentence of discharge with F70[disgrace] from the Defence Forces or of discharge from the Defence Forces imposed by a court-martial.
+
+(2) The Minister may make regulations as to the manner in which and the persons by whom the discharge of men is to be carried out.
+
+(3) Until the discharge of a person who is a man of the Permanent Defence Force or the Reserve Defence Force is carried out in accordance with regulations made under subsection (2) of this section, such person shall remain a man of the Permanent Defence Force or the Reserve Defence Force (as the case may be).
+
+(4) Subsections (1), (2) and (3) of this section shall not apply to a reservist discharged by virtue of section 74.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F70: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(2) and sch. 2, S.I. No. 254 of 2008.
+
+#### 82. Certificate of discharge.
+
+**82.**—Where a man is discharged from the Permanent Defence Force or the Reserve Defence Force, there shall be given to him or sent to him to his last registered place of abode or to the address indicated by him on discharge a certificate of discharge in such form and containing, in relation to him, such particulars as may be prescribed.
+
+#### 83. Collection and disposal of moneys paid in respect of discharge of men.
+
+**83.**—(1) All moneys payable in respect of the discharge of men shall be collected and taken in such manner as the Minister for Finance shall from time to time direct and shall be paid into or disposed of for the benefit of the Exchequer in accordance with the directions of the Minister for Finance.
+
+(2) The Public Offices Fees Act, 1879, shall not apply in respect of any moneys payable in respect of the discharge of men.
+
+Division II.
+
+Promotion of Men to Higher Non-Commissioned Rank and Reduction in Rank of Non-Commissioned Officers.
+
+#### 84. Promotion of men to higher non-commissioned rank and reduction in rank of non-commissioned officers.
+
+**84.**—(1) The Minister or any officer authorised by him in that behalf may promote—
+
+(*a*) any man holding a non-commissioned army rank to a higher substantive non-commissioned army rank,
+
+(*b*) any man holding a non-commissioned naval rank to a higher substantive non-commissioned naval rank.
+
+(2) The Minister or any officer authorised by him in that behalf may for a prescribed reason reduce—
+
+(*a*) a non-commissioned officer holding a substantive non-commissioned army rank to a lower substantive non-commissioned army rank,
+
+(*b*) a non-commissioned officer holding a substantive non-commissioned naval rank to a lower substantive non-commissioned naval rank.
+
+(3) (*a*) A non-commissioned officer shall not be reduced in rank under subsection (2) of this section unless and until the reason for the proposed reduction has been communicated to him and such non-commissioned officer has been given a reasonable opportunity of making such representation as he may think proper in relation to the proposed reduction.
+
+(*b*) Paragraph (*a*) of this subsection shall not apply during a period of emergency or in respect of a non-commissioned officer who is on active service.
+
+(4) The Minister or any officer authorised by him in that behalf may promote—
+
+(*a*) any man holding a substantive non-commissioned army rank or an acting non-commissioned army rank to a higher acting non-commissioned army rank,
+
+(*b*) any man holding a substantive non-commissioned naval rank or an acting non-commissioned naval rank to a higher acting non-commissioned naval rank.
+
+(5) The Minister or any officer authorised by him in that behalf may direct that—
+
+(*a*) a non-commissioned officer holding an acting non-commissioned army rank shall revert to his substantive non-commissioned army rank or to an acting non-commissioned army rank higher than his substantive non-commissioned army rank,
+
+(*b*) a non-commissioned officer holding an acting non-commissioned naval rank shall revert to his substantive non-commissioned naval rank or to an acting non-commissioned naval rank higher than his substantive non-commissioned naval rank.
+
+(6) The following—
+
+(*a*) any promotion under subsection (1) or (4) of this section,
+
+(*b*) any reduction under subsection (2) of this section,
+
+(*c*) any reversion under subsection (5) of this section,
+
+shall take effect as from such date as the authority making the promotion or reduction or directing the reversion shall fix.
+
+### Chapter III.Service of Members of the Defence Forces. — Chapter III. — Service of Members of the Defence Forces.
+
+*Service of members of the Permanent Defence Force*.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E16: Previous affecting provision: application of chapter restricted (1.07.1993) by *Defence (Amendment) Act 1993* (18/1993), s. 2(2), commenced on enactment; repealed (12.07.2006) by *Defence (Amendment) Act 2006* (20/2006), s. 12 and sch., commenced on enactment.
+>
+> E17: Previous affecting provision: application of chapter restricted (21.12.1960) by *Defence (Amendment) (No. 2) Act 1960* (44/1960), s. 3(2), commenced on enactment; repealed (12.07.2006) by *Defence (Amendment) Act 2006* (20/2006), s. 12 and sch., commenced on enactment.
+
+#### 85. Service of members of the Permanent Defence Force.
+
+**85.**—Every officer and man of the Permanent Defence Force shall be liable at all times to render military service within the State and, if he is employed on a State ship or service aircraft, be liable at all times while so employed to render military service outside the territorial seas of the State.
+
+*Service of officers of the Reserve Defence Force*.
+
+#### 86. Service of officers of the Reserve Defence Force.
+
+**86.**—(1) Every officer of the Reserve Defence Force shall be liable for such military service or duty, within the State, as may be prescribed and, if he is employed on a State ship or service aircraft, be liable while so employed to render such military service or duty, outside the territorial seas of the State, as may be prescribed.
+
+(2) Every officer of the Reserve Defence Force shall serve under such conditions as may be prescribed.
+
+#### 86A. Voluntary military service of officer of Reserve Defence Force
+
+F71[**86A.**—(1) An officer of the Reserve Defence Force may notify his or her commanding officer in writing that the officer is available for deployment on supplemental military service, subject to the officers consent being given under subsection (7).
+
+(2) A notification under subsection (1) shall specify—
+
+(*a*) the nature of the supplemental military service to which the officer concerned may consent under subsection (7),
+
+(*b*) the duration and frequency of the periods of supplemental military service to which the officer concerned may consent under subsection (7), and
+
+(*c*) the dates from and to which the officer concerned may be available to be deployed on supplemental military service.
+
+(3) An officer of the Reserve Defence Force who has provided a notification under subsection (1) may notify his or her commanding officer in writing that the officer is no longer available for deployment on supplemental military service.
+
+(4) Where the Minister determines that—
+
+(*a*) there is a particular deficiency in skills or expertise in the Permanent Defence Force which would be addressed by the deployment of an officer of the Reserve Defence Force on supplemental military service, or
+
+(*b*) it is otherwise in the best interests of the Defence Forces to deploy an officer of the Reserve Defence Force on supplemental military service,
+
+the Minister may approve the deployment of an officer of the Reserve Defence Force on supplemental military service.
+
+(5) An approval under subsection (4) shall specify—
+
+(*a*) the purpose of the deployment concerned, and
+
+(*b*) the number of officers to be deployed as part of that deployment.
+
+(6) An approval under subsection (4) may specify matters other than those referred to in subsection (5), including, but not limited to—
+
+(*a*) the skills or qualifications that an officer is required to have for the purposes of the deployment concerned, and
+
+(*b*) the duration of that deployment.
+
+(7) Subject to subsection (10), where an officer of the Reserve Defence Force has provided a notification under subsection (1) and has not provided a notification under subsection (3), the prescribed military authority may request, and the officer may give, the officer’s consent to deployment on supplemental military service in respect of which an approval has been given under subsection (4).
+
+(8) A request of the prescribed military authority under subsection (7) shall—
+
+(*a*) be in writing, and
+
+(*b*) specify—
+
+(i) the nature,
+
+(ii) the duration,
+
+(iii) the start date, and
+
+(iv) the end date,
+
+of the supplemental military service concerned.
+
+(9) A consent of an officer of the Reserve Defence Force under subsection (7) shall be given in writing to the prescribed military authority.
+
+(10) The prescribed military authority shall not seek the consent of an officer of the Reserve Defence Force under subsection (7) where the total number of days of military service provided by the officer in a 12 month period would, if the officer were to be so deployed, exceed the number of days prescribed for the purpose of this subsection.
+
+(11) Subject to subsection (12), an officer of the Reserve Defence Force may withdraw a consent given under subsection (7).
+
+(12) An officer of the Reserve Defence Force deployed on supplemental military service may only withdraw his or her consent to that deployment with the consent of the prescribed military authority, which consent shall not be unreasonably withheld.
+
+(13) Where an officer of the Reserve Defence Force withdraws his or her consent to deployment on supplemental military service—
+
+(*a*) in a case in which the deployment has not commenced, the officer shall not be deployed on that service, and
+
+(*b*) in a case in which the deployment has commenced, the officer shall not be liable to continue that service.
+
+(14) An officer of the Reserve Defence Force shall be liable to render supplemental military service only where—
+
+(*a*) the Minister has given approval to deployment on that supplemental military service under subsection (4), and
+
+(*b*) the officer has given and not withdrawn his or her consent to deployment on that supplemental military service.
+
+(15) The Minister may prescribe a number of days for the purposes of subsection (10).
+
+(16) The Minister shall, when prescribing a number of days for the purposes of subsection (10), have regard to—
+
+(*a*) the voluntary nature of supplemental military service,
+
+(*b*) the duration of training which may be required before deployments on supplemental military service,
+
+(*c*) the operational requirements of the Defence Forces,
+
+(*d*) the employment and education commitments of officers of the Reserve Defence Force, and
+
+(*e*) the training requirements of officers of the Reserve Defence Force.
+
+(17) In this section, "supplemental military service" means military service, either within or outside the State, which an officer of the Reserve Defence Force would not be liable to render under other provisions of the Defence Acts 1954 to 2015.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F71: Inserted (4.04.2022) by *Defence Amendment Act 2021* (33/2021), s. 4, S.I. No. 179 of 2022.
+
+*Service of reservists*.
+
+#### 87. Calling out of reservists on permanent service.
+
+**87.**—(1) (*a*) The Government may, at any time during a period of emergency, by proclamation—
+
+(i) declare that it is expedient that reservists be called out on permanent service, and
+
+(ii) authorise the Minister to give from time to time such directions as he thinks necessary with regard to the calling out on permanent service of all or any reservists.
+
+(*b*) The Government may by proclamation revoke any proclamation made under paragraph (*a*) of this subsection.
+
+(*c*) If, at the time a proclamation is made under paragraph (a) of this subsection, either House of the Oireachtas stands adjourned, that House shall be summoned to meet as soon as conveniently may be.
+
+(*d*) Every proclamation under this subsection shall, as soon as may be after it is made, be laid before each House of the Oireachtas and be published in the *Iris Oifigiúil*.
+
+(2) Where—
+
+(*a*) the Minister, in pursuance of a proclamation made under paragraph (*a*) of subsection (1) of this section, gives directions with regard to the calling out on permanent service of any reservists, and
+
+(*b*) either or both of the following things are done—
+
+(i) a notice (in this subsection referred to as a special notice) is served on each reservist to whom the directions relate requiring him to attend at the time specified in such special notice at his mobilisation centre, or
+
+(ii) a notice (in this subsection referred to as a general notice) is published, in the prescribed manner, requiring every reservist to whom the directions relate to attend at the time indicated in respect of him in such general notice at his mobilisation centre,
+
+the following provisions shall have effect—
+
+(I) such reservist shall, for the purposes of this Act, stand called out on permanent service as from, in case a special notice is served on him, the time at which he is required by such special notice to attend at his mobilisation centre or, in case a general notice is published in the prescribed manner, the time specified in respect of him in such general notice as the time at which he is to attend at his mobilisation centre;
+
+(II) such reservist shall, unless sooner released by the prescribed military authority, remain called out on permanent service so long as the said proclamation remains in force.
+
+(3) In this section, the expression “mobilisation centre” means, in relation to a reservist, the place which has in accordance with regulations made by the Minister under this Act been designated as his mobilisation centre.
+
+#### 88. Calling out of certain reservists on permanent service otherwise than under section 87.
+
+**88.**—(1) This section applies to a reservist—
+
+(*a*) who has entered into an agreement in writing to be liable to be called out on permanent service under this section, and
+
+(*b*) who has not revoked such agreement (which revocation may be effected by his giving three months’ notice in writing to a prescribed officer).
+
+(2) Whenever operations for the defence of the State are in preparation or in progress, the Government may authorise the Minister to give such directions as he thinks necessary with regard to the calling out on permanent service of reservists to whom this section applies.
+
+(3) Where—
+
+(*a*) the Minister in pursuance of an authorisation under subsection (2) of this section gives directions with regard to the calling out on permanent service of any reservists, and
+
+(*b*) a notice is served on any reservist to whom the directions relate requiring him to attend at a specified time and place,
+
+the following provisions shall have effect—
+
+(i) that reservist shall, for the purposes of this Act, stand called out on permanent service as from the time at which he is required by the notice to attend,
+
+(ii) that reservist shall cease to be called out on permanent service on the expiration of the period of three months after being so called out unless—
+
+(I) a proclamation authorising the calling out of reservists on permanent service has been made and is then in force, or
+
+(II) he is sooner released by the prescribed military authority,
+
+(iii) if a proclamation authorising the calling out of reservists on permanent service is in force on the expiration of that period, then, unless he has been sooner released by the prescribed military authority—
+
+(I) he shall continue to stand called out on permanent service,
+
+(II) section 87 shall apply in respect of him as if he had been called out on permanent service under that section.
+
+#### 89. Service of reservist called out on permanent service.
+
+**89.**—Every reservist who is called out on permanent service shall be liable at all times to render military service within the State and, if he is employed on a State ship or service aircraft, be liable at all times while so employed to render military service outside the territorial seas of the State.
+
+#### 90. Calling out of reservists in aid of the civil power.
+
+**90.**—(1) The Minister may, at anytime when occasion appears to require, direct that all or so many reservists as he thinks necessary be called out in aid of the civil power in the maintenance or restoration of the public peace.
+
+(2) Whenever a direction is given by the Minister under this section, a notice shall be served on every reservist to whom the direction relates requiring him to attend at a time and place specified in such notice, and such reservist shall after that time, for the purposes of this Act, stand called out in aid of the civil power and remain called out in aid of the civil power until the prescribed military authority directs his release.
+
+#### 91. Service of reservists called out in aid of the civil power.
+
+**91.**—Every reservist who is called out in aid of the civil power shall be liable to render military service at any place within the State.
+
+#### 91A. Voluntary military service of reservist
+
+F72[**91A.**—(1) A reservist may notify his or her commanding officer in writing that the reservist is available for deployment on supplemental military service, subject to the reservist's consent being given under subsection (7).
+
+(2) A notification under subsection (1) shall specify—
+
+(*a*) the nature of the supplemental military service to which the reservist concerned may consent under subsection (7),
+
+(*b*) the duration and frequency of the periods of supplemental military service to which the reservist concerned may consent under subsection (7), and
+
+(*c*) the dates from and to which the reservist concerned may be available to be deployed on supplemental military service.
+
+(3) A reservist who has provided a notification under subsection (1) may notify his or her commanding officer in writing that the reservist is no longer available for deployment on supplemental military service.
+
+(4) Where the Minister determines that—
+
+(*a*) there is a particular deficiency in skills or expertise in the Permanent Defence Force which would be addressed by the deployment of a reservist on supplemental military service, or
+
+(*b*) it is otherwise in the best interests of the Defence Forces to deploy a reservist on supplemental military service,
+
+the Minister may approve the deployment of a reservist on supplemental military service.
+
+(5) An approval under subsection (4) shall specify—
+
+(*a*) the purpose of the deployment concerned, and
+
+(*b*) the number of reservists to be deployed as part of that deployment.
+
+(6) An approval under subsection (4) may specify matters other than those referred to in subsection (5), including, but not limited to—
+
+(*a*) the skills or qualifications that a reservist is required to have for the purposes of the deployment concerned, and
+
+(*b*) the duration of that deployment.
+
+(7) Subject to subsection (10), where a reservist has provided a notification under subsection (1) and has not provided a notification under subsection (3), the prescribed military authority may request, and the reservist may give, the reservist’s consent to deployment on supplemental military service in respect of which an approval has been given under subsection (4).
+
+(8) A request of the prescribed military authority under subsection (7) shall—
+
+(*a*) be in writing, and
+
+(*b*) specify—
+
+(i) the nature,
+
+(ii) the duration,
+
+(iii) the start date, and
+
+(iv) the end date,
+
+of the supplemental military service concerned.
+
+(9) A consent of a reservist under subsection (7) shall be given in writing to the prescribed military authority.
+
+(10) The prescribed military authority shall not seek the consent of a reservist under subsection (7) where the total number of days of supplemental military service provided by the reservist in a 12 month period would, if the reservist were to be so deployed, exceed the number of days prescribed for the purpose of this subsection.
+
+(11) Subject to subsection (12), a reservist may withdraw a consent given under subsection (7).
+
+(12) A reservist deployed on supplemental military service may only withdraw his or her consent to that deployment with the consent of the prescribed military authority, which consent shall not be unreasonably withheld.
+
+(13) Where a reservist withdraws his or her consent to deployment on supplemental military service—
+
+(*a*) in a case in which the deployment has not commenced, the reservist shall not be deployed on that service, and
+
+(*b*) in a case in which the deployment has commenced, the reservist shall not be liable to continue that service.
+
+(14) A reservist shall be liable to render supplemental military service only where—
+
+(*a*) the Minister has given approval to deployment on that supplemental military service under subsection (4), and
+
+(*b*) the reservist has given and not withdrawn his or her consent to deployment on that supplemental military service.
+
+(15) The Minister may prescribe a number of days for the purposes of subsection (10).
+
+(16) The Minister shall, when prescribing a number of days for the purposes of subsection (10), have regard to—
+
+(*a*) the voluntary nature of supplemental military service,
+
+(*b*) the duration of training which may be required before deployments on supplemental military service,
+
+(*c*) the operational requirements of the Defence Forces,
+
+(*d*) the employment and education commitments of reservists, and
+
+(*e*) the requirement of reservists to undergo training under section 92.
+
+(17) In this section, "supplemental military service" means military service, either within or outside the State, which a reservist would not be liable to render under other provisions of the Defence Acts 1954 to 2015.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F72: Inserted (4.04.2022) by *Defence (Amendment) Act 2021* (33/2021), s. 5, S.I. No. 179 of 2022.
+
+#### 92. Annual training of reservists.
+
+**92.**—(1) All or any reservists shall be liable to undergo training, within the State or on board State ships outside the territorial seas of the State, at such times and for such periods (not exceeding in any one year thirty days) as may be prescribed, and for that purpose may be called out from time to time as often as may be necessary and may be required to attend at such places as the Minister may direct.
+
+(2) Where a reservist is in pursuance of this section called out for training, notice of such calling out and of the time and place at which he is to attend shall be served on him.
+
+#### 93. Voluntary training of reservists.
+
+**93.**—The Minister may by regulations provide for the voluntary attendance of any reservist for such training as may be prescribed by the regulations.
+
+#### 94. Attendance of reservists for inspection.
+
+**94.**—(1) The Minister may make regulations in relation to the periodical attendance for periods (none of which shall exceed seventy-two hours) at specified places of reservists for inspection and such other purposes as may be specified in the regulations.
+
+(2) Whenever a reservist is required to attend in pursuance of regulations made under this section, notice of such requirement and of the time and place at which he is to attend shall be served on him.
+
+#### 95. Attachment of reservists called out on permanent service, etc.
+
+**95.**—(1) Where a reservist is called out on permanent service or in aid of the civil power or for training under section 92, he may, during the period of such calling out, be employed for service with, or be attached to, any staff, unit or other element of the Defence Forces.
+
+(2) While a reservist is voluntarily attending for training in pursuance of regulations made under section 93 or a reservist is attending any place in pursuance of regulations made under section 94, he may be attached to any staff, unit or other element of the Defence Forces.
+
+#### 95A. Attachment of reservist on voluntary military service
+
+F73[**95A.**—Where a reservist has been deployed on military service under section 91A, that reservist may, during any period of such service, be deployed for service with, or be attached to, any staff, unit or other element of the Defence Forces.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F73: Inserted (4.04.2022) by *Defence (Amendment) Act 2021* (33/2021), s. 6, S.I. No. 179 of 2022.
+
+#### 96. Service of notices on reservists.
+
+**96.**—Where a notice is permitted or required by this Chapter to be served on a reservist, it may be served on him—
+
+(*a*) by delivering it to him, or
+
+(*b*) by leaving it at his last registered place of abode, or
+
+(*c*) by sending it by post in an envelope addressed to him at his last registered place of abode.
+
+### Chapter IV.Pay and Allowances of Members of the Defence Forces. — Chapter IV. — Pay and Allowances of Members of the Defence Forces.
+
+#### 97. Regulations as to pay, allowances and gratuities of members of the Defence Forces.
+
+**97.**—F74[(1)The Minister shall, with the consent of the Minister for Public Expenditure, National Development Plan Delivery and Reform, determine the rates and scales of pay, allowances and gratuities of members of the Defence Forces which shall be published on a website maintained by or on behalf of the Minister.]
+
+F76[(1A) The Minister may make regulations in relation to the following matters:
+
+(*a*) the conditions applicable to the issue of pay, allowances and gratuities of members of the Defence Forces;
+
+(*b*) the grants which may be made to members and units of the Defence Forces and the conditions applicable to the issue of such grants.]
+
+(2) (*a*) The Minister may, with the consent of the Minister for Finance, make regulations in relation to the following matters—
+
+(i) the forfeitures and deductions to which the pay, allowances and gratuities of and grants to members of the Defence Forces may be subjected,
+
+(ii) the deductions to which grants to units of the Defence Forces may be subjected,
+
+(iii) the disposition of such forfeitures and deductions,
+
+(iv) the manner in which and the procedure whereby such forfeitures and deductions or any other deductions authorised by this Act are to be made, and such forfeitures and deductions may be made and disposed of accordingly.
+
+(*b*) Regulations made under this subsection shall not prescribe—
+
+(i) forfeiture of pay except in respect of—
+
+(I) absence on desertion or without leave,
+
+(II) custody, imprisonment or detention,
+
+(III) absence from duty on account of a disease or disability arising out of the commission of any offence,
+
+(IV) unclaimed amounts;
+
+(ii) deductions from pay except in respect of—
+
+(I) articles or services provided,
+
+(II) marriage allotment,
+
+(III) fines, penalties, damages, compensation or costs awarded,
+
+(IV) public or service property lost, deficient, damaged or destroyed,
+
+(V) public or service debt or disallowance,
+
+(VI) unauthorised expenditure or commitment.
+
+(*c*) The total deduction to be made under regulations made under this subsection from the pay of a man, except a man who is being transferred to the Reserve Defence Force or discharged from the Defence Forces, shall not in any week exceed such sum as would cause him to receive less than one-third of his pay for that week.
+
+(*d*) Every regulation made under this subsection shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next subsequent twenty-one days on which that House has sat after the regulation has been laid before it, such regulation shall be annulled accordingly but without prejudice to the validity of anything previously done under such regulation.
+
+(3) Any forfeiture or deduction made under subsection (2) of this section may be remitted by the Minister in whole or in part.
+
+(4) References to pay, allowances, gratuities or grants in this Chapter shall be construed as references to pay, allowances, gratuities or grants payable F75[as determined by the Minister under *subsection (1)*].
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F74, F75: Substituted (17.07.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 10(a), (c), commenced on enactment.
+>
+> F76: Inserted (17.07.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 10(b), commenced on enactment.
+
+#### 98. Deductions from pay of man in respect of certain court orders.
+
+**98.**—(1) This section applies to—
+
+(*a*) an order made by a civil court under section 1 of the Married Women (Maintenance in case of Desertion) Act, 1886,
+
+(*b*) an order made by a civil court under section 75 or 82 of the Children Act, 1908,
+
+(*c*) an order made by a civil court under section 99 of the Children Act, 1908, ordering the parent or guardian of an offender to pay a fine, damages or costs,
+
+(*d*) an order made by a civil court under section 3, 6 or 7 of the Illegitimate Children (Affiliation Orders) Act, 1930 (No. 17 of 1930),
+
+(*e*) an order made by the District Court under section 28 or 29 of the Public Assistance Act, 1939 (No. 27 of 1939),
+
+(*f*) an order made by a civil court under section 232 or 233 of the Mental Treatment Act, 1945 (No. 19 of 1945),
+
+(*g*) an order made by a civil court for payment of any moneys due as alimony under a deed of separation,
+
+(*h*) an order made by a civil court for payment of alimony.
+
+(2) Where an order to which this section applies is made against a person who is or subsequently becomes a man of the Permanent Defence Force and a copy of such order is sent to the Minister, the prescribed authority shall order to be deducted from the pay of such person as a man of the Permanent Defence Force and to be appropriated in satisfaction or part satisfaction of the amount (including any arrears accrued and any costs and expenses) payable under the order such portion (not exceeding, in case he holds the rank of sergeant or a higher non-commissioned army rank or the rank of petty officer or a higher non-commissioned naval rank, two-thirds or, in any other case, three-fourths) of his daily pay as the prescribed authority thinks fit.
+
+(3) Where a reservist is called out on permanent service, subsection (2) of this section shall apply in respect of him in like manner as it applies in respect of a man of the Permanent Defence Force.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C29: Application of subs. (1) extended (25.11.2019) by *European Union (Hague Maintenance Convention) Regulations 2019* (S.I. No. 594 of 2019), reg. 14(4)(a), (5).
+>
+> **Enforcement in District Court of recognition order or declaration of enforceability**
+>
+> 14.— ...
+>
+> (4) Where the District Court has jurisdiction to enforce an enforceable maintenance order that order shall be deemed to be an order, made on the date of the decision to which the enforceable maintenance order relates, of the District Court under section 5, 5A, 5B or 5C of the Act of 1976 as may be appropriate for the purposes of exercising that jurisdiction and an order for the purposes of—
+>
+> (*a*) section 98(1) of the Defence Act 1954 (No. 18 of 1954), and
+>
+> ...
+>
+> (5) The District Court has jurisdiction under this Regulation notwithstanding that an amount payable under an enforceable maintenance order exceeds the maximum amount the District Court has jurisdiction to award under an enactment referred to in paragraph (4).
+>
+> ...
+>
+> C30: Application of subs. (1) extended (10.03.2012) by *Jurisdiction of Courts and Enforcement of Judgments Act 1998* (52/1998), s. 20G(2)(b) as inserted by *Jurisdiction of Courts and Enforcement of Judgments (Amendment) Act 2012* (7/2012), s. 1, commenced on enactment.
+>
+> **Enforcement of enforceable maintenance orders.**
+>
+> **20G**.— ...
+>
+> (2) An enforceable maintenance order shall, from the date on which the maintenance order was made, be deemed for the purposes of— ...
+>
+> (*b*) section 98(1) (as amended by section 30(1) of the Act of 1976) of the Defence Act 1954, and
+>
+> ...
+>
+> to be an order made by the District Court under section 5, 5A (inserted by section 18 of the Act of 1987) or 21A (inserted by section 21 of the Act of 1987) of the Act of 1976, as may be appropriate.
+>
+> C31: Application of subs. (1) extended (18.06.2011) by *European Communities (Maintenance) Regulations 2011* (S.I. No. 274 of 2011), reg. 10(2)(b).
+>
+> **10.**— ...
+>
+> (2) An enforceable maintenance order shall, from the date on which the maintenance order was made, be deemed for the purposes of— ...
+>
+> (*b*) section 98(1) (as amended by section 30(1) of the Act of 1976) of the Defence Act 1954 (No. 18 of 1954), and
+>
+> ...
+>
+> to be an order made by the District Court under section 5, 5A (inserted by section 18 of the Act of 1987) or 21A (inserted by section 21 of the Act of 1987) of the Act of 1976, as may be appropriate.
+>
+> C32: Application of subs. (1)(h) extended (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 135(1), S.I. No. 648 of 2010.
+>
+> **Application of maintenance pending suit and periodical payment orders to certain members of Defence Forces.**
+>
+> **135.**— (1) The reference in section 98 (1)(*h*) of the Defence Act 1954 to an order for payment of alimony shall be construed as including a reference to a maintenance pending suit order, periodical payments order or secured periodical payments order made under this Act.
+>
+> ...
+>
+> C33: Application of subs. (1) extended (1.03.2002) by *European Communities (Civil and Commercial Judgments) Regulations 2002* (S.I. No. 52 of 2002), reg. 6(3), in effect as per reg. 2
+>
+> *Enforcement of enforceable maintenance orders*
+>
+> 6\. ...
+>
+> (3) An enforceable maintenance order shall, from the date on which the maintenance order was made, be deemed for the purposes of — ...
+>
+> (*b*) section 98(1) of the Defence Act 1954 ( No. 18 of 1954 ), and
+>
+> ...
+>
+> to be an order made by the District Court under section 5, 5A or 21A of the Act of 1976, as may be appropriate.
+>
+> C34: Application of subs. (1) extended (1.12.1999) by *Jurisdiction of Courts and Enforcement of Judgments Act 1998* (52/1998), s. 9(2), S.I. No. 353 of 1999.
+>
+> **Enforcement of Community maintenance orders by the District Court.**
+>
+> **9.**— ...
+>
+> (2) An enforceable maintenance order shall, from the date on which the maintenance order was made, be deemed for the purposes of— ...
+>
+> (b) section 98 (1) of the Defence Act, 1954, and
+>
+> ...
+>
+> to be an order made by the District Court under section 5 or section 5A or 21A (inserted by the Status of Children Act, 1987) of the Family Law (Maintenance of Spouses and Children) Act, 1976, as may be appropriate.
+>
+> ...
+>
+> C35: Application of subs. (1)(h) extended (27.02.1997) by *Family Law Divorce Act 1996* (33/1996), s. 29, commenced as per s. 1(2).
+>
+> **Application of maintenance pending suit and periodical payment orders to certain members of Defence Forces.**
+>
+> **29.**—The reference in section 98 (1) (*h*) of the Defence Act, 1954, to an order for payment of alimony shall be construed as including a reference to a maintenance pending suit order, a periodical payments order and a secured periodical payments order.
+>
+> C36: Application of subs. (1)(h) extended (1.08.1996) by *Family Law Act 1995* (26/1995), s. 21, S.I. No. 46 of 1996.
+>
+> **Application of maintenance pending suit and periodical payment orders to certain members of Defence Forces.**
+>
+> **22.**—The reference in section 98 (1) (h) of the Defence Act, 1954, to an order for payment of alimony shall be construed as including a reference to a maintenance pending suit order, a periodical payments order and a secured periodical payments order.
+>
+> C37: Application of section extended (31.10.1995) by *Child Care Act 1991* (17/1991), s. 78(1), S.I. No. 258 of 1995.
+>
+> **Maintenance-saver in relation to members of Defence Forces.**
+>
+> **78.**—(1) Section 98 of the Defence Act, 1954 (which provides for deductions from pay of members of the Permanent Defence Force and reservists called out on permanent service in respect of court orders under sections 75, 82 or 99 of the Children Act, 1908) shall apply in like manner to an order made under *section 18*.
+>
+> ...
+>
+> C38: Application of subs. (1)(h) extended (19.10.1989) by *Judicial Separation and Family Law Reform Act 1989* (6/1989), s. 27, commenced as per s. 46(2).
+>
+> **Application of maintenance and periodical payment orders to men of Defence Forces.**
+>
+> **27.**—The reference in section 98 (1) (*h*) of the Defence Act, 1954, to an order for payment of alimony shall be construed as including references to an order for maintenance pending suit, a periodical payments order and a secured periodical payments order.
+>
+> C39: Application of section extended (14.06.1988) by *Status of Children Act 1987* (26/1987), s. 24(1), commenced as per s. 1(2)(b).
+>
+> **Amendment of Defence Act, 1954.**
+>
+> **24.**—(1) The reference in section 98(1)(*d*) of the Defence Act, 1954, to an order made by a civil court under section 3, 6 or 7 of the Illegitimate Children (Affiliation Orders) Act, 1930, shall be construed as a reference to an order under section 5A, 6, 7 or 21A of the Act of 1976 (as amended by this Part) or an order under section 8A (inserted by this Part) of the Act of 1976 (in so far as it is deemed under that section to be a maintenance order).
+>
+> ...
+>
+> C40: Application of section extended (6.05.1976) by *Family Law (Maintenance of Spouses and Children) Act 1976* (11/1976), s. 30(1), commenced as per s. 2.
+>
+> **Repeals.**
+>
+> **30.**—(1) The Married Women (Maintenance in case of Desertion) Act, 1886, section 13 of the Illegitimate Children (Affiliation Orders) Act, 1930, section 7 of the Enforcement of Court Orders Act, 1940, and section 18 of the Courts Act, 1971, are hereby repealed, and the reference in section 98 (1) (*a*) of the Defence Act, 1954, to an order made by a civil court under section 1 of the said Married Women (Maintenance in case of Desertion) Act, 1886, shall be construed as a reference to an order under section 5, 6, or 7 of this Act or an order under section 8 of this Act (in so far as it is deemed under that section to be a maintenance order).
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E18: Previous affecting provision: application of section extended (1.06.1988) by *Jurisdiction of Courts and Enforcement of Judgments (European Communities) Act 1988* (3/1988), s. 7(2)(a), S.I. No. 91 of 1988; repealed (1.12.1999) by *Jurisdiction of Courts and Enforcement of Judgments Act 1998* (52/1998), s. 23, S.I. No. 353 of 1999.
+
+#### 99. Deductions from pay of man in respect of maintenance of wife and children.
+
+**99.**—(1) Where it appears to the Minister that a person who is or subsequently becomes a man of the Permanent Defence Force has deserted or left in destitute circumstances, without reasonable cause, F77[his spouse or any of his children (including any of his children in respect of whom his spouse is not a parent and any children he has adopted under F78[an adoption order within the meaning of section 3(1) of the Adoption Act 2010 or an intercountry adoption effected outside the State and recognised under that Act])] under the age of sixteen years, the Minister may order to be deducted from the daily pay of such person as a man of the Permanent Defence Force and applied in such manner as the Minister thinks fit towards the maintenance of F77[the spouse or any such children] such portion (not exceeding, in case he holds the rank of sergeant or a higher non-commissioned army rank or the rank of petty officer or a higher non-commissioned naval rank, two-thirds or, in any other case, three-fourths) of his daily pay as the Minister thinks fit.
+
+(2) Where a reservist is called out on permanent service, subsection (1) of this section shall apply in respect of him in like manner as it applies in respect of a man of the Permanent Defence Force.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F77: Substituted (14.06.1988) by *Status of Children Act 1987* (26/1987), s. 24(2), commenced as per s. 1(2)(b).
+>
+> F78: Substituted (1.11.2010) by *Adoption Act 2010* (21/2010), s. 160, S.I. No. 511 of 2010.
+>
+> **Modifications (not altering text):**
+>
+> C41: Application of section extended (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 135(2), S.I. No. 648 of 2010.
+>
+> **Application of maintenance pending suit and periodical payment orders to certain members of Defence Forces.**
+>
+> **135.**— ...
+>
+> (2) The references in section 99 of the Defence Act 1954 to a wife shall be construed as including a reference to a civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010.
+>
+> C42: Application of section extended (23.01.1980) by *Defence (Amendment) (No. 2) Act 1979* (28/1979), s. 5, S.I. No. 19 of 1980.
+>
+> **Application of section 99 of Principal Act to women.**
+>
+> **5.**—The provisions of section 99 of the Principal Act shall apply in the case of a woman who holds a non-commissioned rank and for that purpose references in that section to a wife shall be construed as references to a husband.
+
+#### 100. Restrictions on deductions from pay, etc.
+
+**100.**—(1) No deduction shall be made from any pay, allowance, gratuity or grant unless—
+
+(*a*) the deduction is authorised by regulations made under subsection (2) of section 97, or by sections 98 or 99 or by an Act of the Oireachtas, or
+
+(*b*) the deduction is authorised by subsection (2) of this section.
+
+(2) Where a member of the Defence Forces consents in writing to such deduction and the deduction has the approval of the prescribed authority, a deduction may be made from that member’s pay, allowances, gratuities or grants.
+
+(3) Pay, allowances, gratuities and grants shall not be capable of being attached or otherwise made available by civil process for the payment of any debt.
+
+#### 101. Withholding of pay in certain cases.
+
+**101.**—Where any question arises as to—
+
+(*a*) whether any pay, allowance, gratuity or grant is due, or
+
+(*b*) the amount of any pay, allowance, gratuity or grant due, or
+
+(*c*) whether a forfeiture or deduction falls to be made of or from any pay, allowance, gratuity or grant, or
+
+(*d*) the amount of a forfeiture or deduction to be made of or from any pay, allowance, gratuity or grant due,
+
+the question shall be determined with all convenient speed and, pending such determination, the pay, allowance, gratuity or grant may be withheld, in whole or in part.
+
+#### 102. Prohibition of assignment of pay, etc.
+
+**102.**—Every instrument (being an assignment of, a charge on, or an agreement to assign or charge any pay, allowance, gratuity or grant) made by a member of the Defence Forces shall be void except—
+
+(*a*) it is made, in pursuance of any regulation made in this behalf by the Minister, for the benefit of the family (including an illegitimate child) of that member, or
+
+(*b*) it is authorised by subsection (2) of section 100 or by an Act of the Oireachtas.
+
+### Chapter V.Disqualifications, Exemptions and Privileges of Members of the Defence Forces. — Chapter V. — Disqualifications, Exemptions and Privileges of Members of the Defence Forces.
+
+#### 103. Prohibition of membership of political and secret societies.
+
+**103.**—(1) A member of the Permanent Defence Force shall not join, or be a member of, or subscribe to, any political organisation or society or any secret society whatsoever.
+
+F79[(1A)Without prejudice to the Defence (Amendment) Act 1990 and any regulations made thereunder, a member of the Permanent Defence Force shall not—
+
+(*a*) while in uniform or otherwise making himself or herself identifiable as a member of the Permanent Defence Force—
+
+(i) make, without prior authorisation from the member’s commanding officer, a public statement or comment in relation to a political matter or matter of Government policy, or
+
+(ii) attend a protest, march or other gathering in relation to a political matter or matter of Government policy,
+
+(*b*) canvass on behalf of, or collect contributions for, any political organisation or society, or
+
+(*c*) address a meeting of a political organisation or society.]
+
+(2) A member of the Reserve Defence Force shall not join, or be a member of, or subscribe to, any secret society whatsoever.
+
+(3) The Minister may by regulations—
+
+(*a*) prohibit officers of the Reserve Defence Force, who are, during a period during which a proclamation authorising the calling out of reservists on permanent service is in force, or during a period during which reservists are called out on permanent service under section 88, for the time being continuously engaged in military service or duties for which, as officers of the Reserve Defence Force they are liable, from participating in specified political activities, and
+
+(*b*) prohibit reservists who stand called out on permanent service from participating in those specified political activities.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F79: Inserted (17.07.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 11, commenced on enactment.
+
+#### Prohibition on political activities when on voluntary military service
+
+F80[**103A.**— A member of the Reserve Defence Force shall not, while deployed on military service under section 86A (in the case of an officer) or section 91A (in the case of a reservist)—
+
+*(a)* canvass on behalf of, or collect contributions for, any political organisation or society, or
+
+*(b)* address a meeting of a political organisation or society.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F80: Inserted (4.04.2022) by *Defence (Amendment) Act 2021* (33/2021), s. 7, S.I. No. 179 of 2022.
+
+#### 104. Disqualification for membership of a local authority.
+
+**104.**—(1) For the purposes of this section—
+
+(*a*) the expression “local authority” means a local authority for the purposes of the Local Government Acts, 1925 to 1946, and includes F81[an education and training board] and a committee of agriculture;
+
+(*b*) an officer of the Reserve Defence Force shall be deemed to be actively employed whenever, during a period during which a proclamation authorising the calling out of reservists on permanent service is in force, or during a period during which reservists are called out on permanent service under section 88, he is employed continuously on military service or duty;
+
+(*c*) a reservist shall be deemed to be actively employed whenever he is called out on permanent service.
+
+(2) (*a*) A member of the Permanent Defence Force shall be disqualified from being elected or co-opted or appointed or being a member of a local authority.
+
+(*b*) If a person, who is for the time being a member of a local authority, becomes a member of the Permanent Defence Force, he shall thereupon cease to be a member of that local authority.
+
+(3) (*a*) A member of the Reserve Defence Force shall, during any period during which he is actively employed, be disqualified from being elected or co-opted or appointed a member of a local authority.
+
+(*b*) The following provisions shall apply to a member of the Reserve Defence Force who is for the time being a member of a local authority—
+
+(i) he shall not, during any period during which he is actively employed, act as a member of that local authority and if he does he shall thereupon cease to be a member of that local authority,
+
+(ii) notwithstanding anything contained in any enactment relating to local authorities, he shall not by reason only of his absence from meetings of that local authority during such period be disqualified or vacate his office as a member of that local authority.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F81: Substituted (1.07.2013) by *Education and Training Boards Act 2013* (11/2013), s 72(1) and sch. 6 item 1, S.I. No. 211 of 2013.
+
+#### 105. Exemption from jury service.
+
+**105.**—F82[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F82: Repealed (2.03.1976) by *Juries Act 1976* (4/1976), s. 4 and sch. 2, commenced on enactment.
+
+#### 106. Arms, etc., of members of the Defence Forces to be exempt from seizure.
+
+**106.**—The arms, ammunition, equipment, service necessaries and clothing of a member of the Defence Forces shall not be liable to be seized under any order, decree or warrant of a court or any document having the same force and effect as such order, decree or warrant or under any other form of distraint.
+
+#### 107. Exemption of men from civil process.
+
+**107.**—F83[(1) An order shall not be made under section 8 of the Enforcement of Court Orders Act, 1940, directing the imprisonment of any person—
+
+(*a*) who is a man of the Permanent Defence Force, or
+
+(*b*) who is a reservist and is for the time being called out on permanent service.
+
+(2) An order shall not be made under section 6 of the Debtors Act (Ireland), 1872, or under section 6 of the Enforcement of Court Orders Act, 1940, directing the imprisonment of any person—
+
+(*a*) who is a man of the Permanent Defence Force on active service, or
+
+(*b*) who is a reservist and is for the time being called out on permanent service.]
+
+(3) Notwithstanding anything contained in paragraph (22) of section 133 of the Children Act, 1908, an order made, under either section 75 or 82 of that Act, against a person who is or becomes a man shall not be enforceable by the imprisonment of such person, in case he is a man of the Permanent Defence Force, so long as he is a man of the Permanent Defence Force or, in case he is a reservist, during any period during which he is called out on permanent service.
+
+(4) Notwithstanding anything contained in subsection (5) of section 99 of the Children Act, 1908, any sums imposed and ordered to be paid by a parent or guardian under the said section or on forfeiture of any such security as is referred to in the said section, shall not be capable of being recovered in the manner mentioned in the said subsection against a person who is or becomes a man, in case he is a man of the Permanent Defence Force, so long as he is a man of the Permanent Defence Force or, in case he is a reservist, during any period during which he is called out on permanent service.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F83: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 10, commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C43: Application of section extended (31.10.1995) by *Child Care Act 1991* (17/1991), s. 78(2), S.I. No. 258 of 1995.
+>
+> **Maintenance-saver in relation to members of Defence Forces.**
+>
+> **78.**— ...
+>
+> (2) Section 107 of the Defence Act, 1954 (which provides that court orders made under the aforementioned sections against a member of the Permanent Defence Force or a reservist during any period when he is called out on permanent service shall not be enforceable by imprisonment) shall apply in like manner in the case of an order made under *section 18*.
+>
+> **Editorial Notes:**
+>
+> E19: Previous affecting provision: subs. (2) deleted (1.03.1985) by *Age of Majority Act 1985* (2/1985), s. 5(b), commenced as per s. 9(2).
+
+#### 108. Exemption from prosecution, etc., under section 83 of the Public Assistance Act, 1939.
+
+**108.**—A man of the Permanent Defence Force or a reservist, during any period during which he is called out on permanent service, shall not be liable to be prosecuted or punished for any offence under section 83 of the Public Assistance Act, 1939 (No. 27 of 1939).
+
+#### 109. Obstruction, etc., of member of Garda Síochána.
+
+**109.**—(1) If any officer wilfully neglects or refuses on lawful application to deliver over to a member of the Garda Síochána or wilfully obstructs or wilfully neglects or refuses to assist a member of the Garda Síochána in lawfully apprehending, any member of the Defence Forces under his command who is accused or convicted of an offence, other than a man accused of an offence under section 83 of the Public Assistance Act, 1939 (No. 27 of 1939), such officer shall be guilty of a misdemeanour and shall be liable on conviction thereof to imprisonment for any term not exceeding two years.
+
+(2) Where an officer is convicted of an offence under subsection (1) of this section, the court before which he was convicted shall cause a certificate of the judgment of the court to be sent to the Minister.
+
+#### 110. Non-liability of person convicted or acquitted by court-martial to be re-tried by civil court.
+
+**110.**—Where a member of the Defence Forces is convicted or acquitted by a court-martial of an offence such person shall not be liable to be tried subsequently by a civil court for that offence.
+
+#### 111. Protection of persons acting under this Act.
+
+**111.**—(1) Where after the commencement of this Act any action, prosecution, or other proceeding is commenced against any person for any act done in pursuance or execution or intended execution of this Act or in respect of any alleged neglect or default in the execution of this Act, the following provisions shall have effect, that is to say:—
+
+(*a*) such action, prosecution or proceeding shall be brought in the High Court;
+
+(*b*) F84[...]
+
+(*c*) F84[...]
+
+(*d*) F84[...]
+
+(*e*) F84[...]
+
+(*f*) F84[...]
+
+(2) Every action against a member or minister of a court-martial in respect of a sentence of such court-martial or of anything done by virtue, or in pursuance, of such sentence shall be brought in the High Court.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F84: Repealed (1.01.1955) by *Public Authorities (Judicial Proceedings) Act 1954* (27/1954), s. 2(5), commenced as per s. 1, subject to transitional provision in s. 2(6).
+
+#### 112. Exemption from duties and tolls.
+
+**112.**—(1) No duties or tolls, otherwise payable by law in respect of the use of any pier, wharf, quay, landing place, highway, road, right of way, bridge or canal, shall be paid by or demanded from any unit or other element of the Defence Forces or an officer or man when on duty or any person under escort or in respect of the movement of any matériel of the Defence Forces.
+
+(2) Nothing in subsection (1) of this section shall affect the liability for payment of duties or tolls lawfully demandable in respect of any vehicles or vessels other than those belonging to or in the service of the Defence Forces.
+
+#### 113. Exemption of members of the Defence Forces from certain provisions of the Road Traffic Act, 1933.
+
+**113.**—(1) In this section, the expression “the Act of 1933” means the Road Traffic Act, 1933 (No. 11 of 1933).
+
+(2) Sections 22 and 39 of the Act of 1933 shall not apply in respect of the driving of a mechanically propelled vehicle, which is the property of the State or otherwise under the control of the Minister, by any member of the Defence Forces while on duty.
+
+(3) The following provisions of the Act of 1933 shall not apply during a period of emergency in respect of any member of the Defence Forces while on duty, that is to say, sections 22 and 49, subsection (2) of section 149, subsection (5) of section 159 and sections 164 and 166.
+
+### Chapter VI.Miscellaneous Provisions. — Chapter VI. — Miscellaneous Provisions.
+
+#### 114. Redress of wrongs.
+
+**114.**—(1) If an officer thinks himself wronged in any matter by any superior or other officer, including his commanding officer, he may complain thereof to his commanding officer and if, but only if, his commanding officer does not deal with the complaint to such officer’s satisfaction, he may complain in the prescribed manner to the F85[Chief of Staff] who shall inquire into the complaint and give his directions thereon.
+
+(2) If any man thinks himself wronged in any matter by any officer, other than his company commander, or by any man he may complain thereof to his company commander, and if he thinks himself wronged by his company commander either in respect of his complaint not being redressed or in respect of any other matter, he may complain thereof to his commanding officer, and if he thinks himself wronged by his commanding officer, either in respect of his complaint not being redressed or in respect of any other matter, he may complain thereof in the prescribed manner to F86[the Chief of Staff], F87[...] who shall inquire into the complaint and give his directions thereon.
+
+(3) Every officer to whom a complaint is made in pursuance of this section shall cause such complaint to be inquired into, and shall, if on inquiry he is satisfied of the justice of the complaint so made, take such steps as may be necessary for giving full redress to the complainant in respect of the matter complained of, and shall in every case inform the complainant in the prescribed manner as to what action has been taken in respect of the matter complained of.
+
+F88[(3A) The Chief of Staff shall cause every complaint seeking redress of wrongs under this section that is made in writing to be notified to the Minister and the Ombudsman for the Defence Forces as soon as practicable following the making of such complaint.
+
+(3B) Where the Ombudsman for the Defence Forces has made a notification in writing in accordance with section 7 of the Ombudsman (Defence Forces) Act 2004, that section 5(1)(c), section 5(1)(d)(ii), section 5(1)(e)(ii)or section 5(1)(g) of the Ombudsman (Defence Forces) Act 2004 applies to a complaint made under that Act by an officer or a man, the officer or the man, as the case may be, may submit that complaint to the Minister for determination by him or her.
+
+(3C) The Minister may make regulations concerning the manner in which a notification referred to in subsection (3A) of this section and a report on such notification are to be made and the manner in which a complaint is to be submitted under subsection (3B) and without prejudice to the generality of the foregoing, the regulations may—
+
+(*a*) specify a period or periods within which such reports are to be submitted and complaints referred, and
+
+(*b*) the form and content of such notifications, reports and submissions.]
+
+(4) The Minister shall make regulations providing for the personal submission, by any person subject to this Act, of any grievance to such officer and on such occasions as may be prescribed by such regulations.
+
+F89[(5) This section shall not apply to—
+
+(*a*) any determination made, punishment awarded or compensation order made under section 177C, 178C or 179C, or
+
+(*b*) the decision of a summary court-martial under section 178G following an appeal under section 178E.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F85: Substituted (1.12.2005) by *Ombudsman (Defence Forces) Act 2004* (36/2004), s. 13(a), S.I. No. 568 of 2005.
+>
+> F86: Substituted (1.10.1998) by *Defence (Amendment) Act 1998* (31/1998), s. 6, S.I. No. 366 of 1998.
+>
+> F87: Deleted (1.12.2005) by *Ombudsman (Defence Forces) Act 2004* (36/2004), s. 13(b), S.I. No. 568 of 2005.
+>
+> F88: Inserted (1.12.2005) by *Ombudsman (Defence Forces) Act 2004* (36/2004), s. 13(c), S.I. No. 568 of 2005.
+>
+> F89: Inserted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 9, commenced as per s. 1(3).
+>
+> **Modifications (not altering text):**
+>
+> C44: Further recourse provided (1.12.2005) by *Ombudsman (Defence Forces) Act 2004* (36/2004), s. 4(2)(d), S.I. No. 568 of 2005.
+>
+> **Functions of Ombudsman.**
+>
+> **4.**— ...
+>
+> (2) Subject to this Act, the Ombudsman may investigate any action that is the subject of a complaint made by a person affected by the action if, having carried out a preliminary examination of the matter, it appears to the Ombudsman that— ...
+>
+> (*d*) in the case of a serving member of the Defence Forces, the matter is not likely to be resolved and a period of 28 days has expired since the complaint was made under section 114 of the Act of 1954.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E20: Complaint under section an alternative to complaint under *Ombudsman (Defence Forces) Act 2004* as provided (15.07.2014) by *Protected Disclosures Act 2014* (14.2014), s. 13(2)(b)(iii), S.I. No. 327 of 2014.
+
+#### 115. Collection and distribution of certain property of deceased members of the Defence Forces.
+
+**115.**—(1) In this section, the expression “service estate” means in relation to a deceased member of the Defence Forces—
+
+(*a*) pay, allowances, gratuities or grants due to him,
+
+(*b*) personal equipment which he is under regulations permitted to retain,
+
+(*c*) personal belongings, including money, found on him or in barracks, camp or quarters or otherwise in the care or custody of the Defence Forces.
+
+(2) The service estate of a deceased member of the Permanent Defence Force or of an officer of the Reserve Defence Force who dies while employed on military service or duty during a period during which a proclamation authorising the calling out of reservists on permanent service is in force or during a period during which reservists are called out on permanent service under section 88 or of a man of the Reserve Defence Force who dies while called out on permanent service may be collected, administered and distributed in accordance with regulations made by the Minister.
+
+#### 116. Disposal of personal belongings of deserter, absentee or person of unsound mind.
+
+**116.**—The personal belongings and decorations of a member of the Defence Forces who is a deserter or is absent without leave for twenty-one days or who becomes of unsound mind which are found in barracks, camp or quarters or otherwise in the care or custody of the Defence Forces shall be disposed of in accordance with regulations made by the Minister.
+
+#### 117. Regulations for purposes of Part IV.
+
+**117.**—The Minister may make regulations in relation to all or any of the following—
+
+(*a*) the assignment, whether by appointment, transfer or otherwise, of members of the Defence Forces to or within service corps, staffs, units or other elements of the Defence Forces,
+
+(*b*) the manner in which recruits are to be appointed to service corps,
+
+(*c*) the transfer of a man from one service corps to another,
+
+(*d*) any person, matter or thing referred to in this Part as prescribed,
+
+(*e*) any other matter or thing which is referred to in this Part as the subject of regulations and in respect of which express power is not conferred on the Minister to make regulations.
+
+#### 117A. Regulations relating to testing for controlled drugs and psychoactive substances.
+
+F90[**117A.**— ...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F90: Inserted by *Defence (Amendment) Act 2024* (25/2024), s. 12, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C45: Prospective affecting provision: section inserted by *Defence (Amendment) Act 2024* (25/2024), s. 12, not commenced as of date of revision.
+>
+> **117A.**—(1) A member of the Defence Forces shall be subject to drug testing in accordance with regulations made under this section.
+>
+> (2) The Minister may in relation to members of the Defence Forces make regulations to provide for the establishment, maintenance and operation of a regime of testing for controlled drugs and psychoactive substances which may provide for—
+>
+> (*a*) subject to paragraph (*b*), a prohibition on the presence of controlled drugs or psychoactive substances above a specified concentration in a sample,
+>
+> (*b*) the procedure to be followed where a member of the Defence Forces is exposed to a controlled drug or psychoactive substance in the course of and as a result of his or her duties,
+>
+> (*c*) the taking of samples,
+>
+> (*d*) a prohibition on tampering with a sample,
+>
+> (*e*) the persons who may be permitted to take a sample,
+>
+> (*f*) the information to be provided to a member of the Defence Forces required to provide a sample,
+>
+> (*g*) matters with regard to the testing and analysis of samples,
+>
+> (*h*) the reasons for testing, which may include—
+>
+> (i) random testing, or
+>
+> (ii) targeted drug testing,
+>
+> (*i*) the concentration of a controlled drug or psychoactive substance required to be present to yield a positive result in a sample,
+>
+> (*j*) how samples are to be stored,
+>
+> (*k*) the period during which samples may be stored,
+>
+> (*l*) the reviewing of test results,
+>
+> (*m*) the consequences that may apply to a member of the Defence Forces who refuses or fails to provide a sample,
+>
+> (*n*) the consequences that may apply to a member of the Defence Forces where a positive result is yielded in his or her sample, and
+>
+> (*o*) such ancillary, incidental, consequential or supplemental provisions as he or she considers necessary or expedient for the purposes of establishing, maintaining and operating the regime of testing for controlled drugs and psychoactive substances.
+>
+> (3) Regulations under this section may prescribe differently for different circumstances or cases, classes or types.
+>
+> (4) In this section—
+>
+> "controlled drug" has the same meaning as it has in section 2 of the Misuse of Drugs Act 1977;
+>
+> "psychoactive substance" has the same meaning as it has in the Criminal Justice (Psychoactive Substances) Act 2010;
+>
+> "sample" means a sample of any of the following taken, or to be taken, from a person:
+>
+> (*a*) urine;
+>
+> (*b*) hair, other than pubic hair;
+>
+> (*c*) oral fluid, including saliva;
+>
+> (*d*) blood.]
+
+## PART V.Discipline. — PART V. — Discipline.
+
+### Chapter I.Liability to Military Law. — Chapter I. — Liability to Military Law.
+
+#### 118. Persons subject to military law as officers.
+
+**118.**—(1) Each of the persons mentioned in this section shall, for the purposes of this Act, be a person subject to military law as an officer—
+
+(*a*) an officer of the Permanent Defence Force at all times,
+
+(*b*) an officer of the Reserve Defence Force when—
+
+(i) he is ordered or employed on service or duty for which as an officer of the Reserve Defence Force he is liable, or
+
+(ii) he is in uniform,
+
+(*c*) an officer of the Reserve Defence Force (whether in receipt of pay or otherwise) during and in respect of a time when—
+
+(i) he is, with his own consent, attached to or doing duty with any body of troops for the time being subject to military law or ordered on duty by the military authorities, or
+
+(ii) he is voluntarily attending training, or
+
+(iii) he is undergoing treatment F91[in a military hospital, or]
+
+F92[(iv) he is deployed on military service under section 86A,]
+
+(*d*) subject to any general or special exemption made by the Minister (the proof whereof shall lie on the person claiming exemption), any person not otherwise subject to military law who, under the general or special orders of the Minister, accompanies in an official capacity equivalent to that of an officer any portion of the Defence Forces which is on active service,
+
+(*e*) any person not otherwise subject to military law, accompanying a portion of the Defence Forces which is on active service, who holds from the commanding officer of that portion a pass, revocable at the pleasure of such commanding officer, entitling him to be treated on the footing of an officer.
+
+(2) For the purposes of this section and section 119, a portion of the Defence Forces shall be on active service—
+
+(*a*) during a period during which an order under subsection (2) of section 5 is in force, or
+
+(*b*) whenever that portion is engaged in operations against an enemy, or
+
+(*c*) whenever that portion is engaged in military operations in a place wholly or mainly occupied by an enemy.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F91: Substituted (4.04.2022) by *Defence (Amendment) Act 2021* (33/2021), s. 8(a), S.I. No. 179 of 2022.
+>
+> F92: Inserted (4.04.2022) by *Defence (Amendment) Act 2021* (33/2021), s. 8(b), S.I. No. 179 of 2022.
+
+#### 119. Persons subject to military law as men.
+
+**119.**—Each of the persons mentioned in this section shall, for the purposes of this Act, be a person subject to military law as a man—
+
+(*a*) a man of the Permanent Defence Force at all times,
+
+(*b*) a reservist when—
+
+(i) he is called out on permanent service or in aid of the civil power, or
+
+(ii) he is called out for training, exercise or other duty under this Act, or
+
+(iii) he is voluntarily attending training, or
+
+(iv) he is undergoing treatment in a military hospital, or
+
+(v) he is employed on military service under the orders of an officer, who is himself subject to military law, or
+
+(vi) he F93[is in uniform, or]
+
+F94[(vii) he is deployed on military service under section 91A,]
+
+(*c*) subject to any general or special exemption made by the Minister (the proof whereof shall lie on the person claiming exemption), any person not otherwise subject to military law who is employed by or is in the service of any portion of the Defence Force which is on active service,
+
+(*d*) any person, not otherwise subject to military law, who is a follower of or accompanies any portion of the Defence Forces which is on active service.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F93: Substituted (4.04.2022) by *Defence (Amendment) Act 2021* (33/2021), s. 9(a), S.I. No. 179 of 2022.
+>
+> F94: Inserted (4.04.2022) by *Defence (Amendment) Act 2021* (33/2021), s. 9(b), S.I. No. 179 of 2022.
+
+#### 120. Liability to military law in respect of status.
+
+**120.**—(1) Where an offence against military law has been committed by any person while subject to military law, such person may, subject to subsection (2) of this section, be taken into and kept in service custody and tried and punished for such offence, although he or the unit to which he belongs has ceased to be subject to military law, in like manner as he might have been taken into and kept in service custody, tried or punished, if he or such unit had continued to be so subject.
+
+F95[(2) Where—
+
+(*a*) an offence (other than that of mutiny, desertion, fraudulent enlistment or a civil offence committed by a person subject to military law while he was on active service outside the State or while he was despatched for service outside the State for any purpose specified in section 3 of the Defence (Amendment) Act 2006) against military law triable by court-martial under this Act has been committed by any person while subject to military law, and
+
+(*b*) such person has since commission of the offence ceased to be subject to military law,
+
+that person may not be tried for the offence unless he is charged with the offence in accordance with this Act within six months beginning on the date on which he ceased to be so subject, but nothing in this subsection shall be construed as affecting the jurisdiction of a civil court where the offence is triable by that court as well as by court-martial.]
+
+F96[(3) Where a person subject to military law is sentenced by a court-martial to a term of imprisonment or detention and is in service custody, this Act shall apply to the person during the term of that sentence, notwithstanding that the person is discharged or dismissed from the Defence Forces or has otherwise ceased to be subject to military law, and the person may be kept, removed, imprisoned, made to undergo detention and punished accordingly as if the person continued to be subject to military law.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F95: Substituted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 12, commenced on enactment as per s. 1(3).
+>
+> F96: Substituted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 12, commenced on enactment as per s. 1(3).
+>
+> **Editorial Notes:**
+>
+> E21: Previous affecting provision: subs. (3) amended by deletion of “penal servitude” (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, para. 4, commenced as per s. 1; subs. (3) substituted as per F-note above.
+
+#### 121. F97[Modification of Part V in its application to civilians subject to military law.
+
+**121.**— In the application of this Part to persons who do not belong to the Defence Forces, the following modifications shall be made:
+
+(*a*) where an offence against military law has been committed by any person subject to military law who does not belong to the Defence Forces and the person is remanded for trial by court-martial under this Act, that person may be tried by such class of court-martial as the Director directs and, on conviction, dealt with and punished accordingly;
+
+(*b*) any person subject to military law who does not belong to the Defence Forces shall, for the purpose of this Part, be deemed to be under the command of the prescribed officer, and that person, subject to the right to elect to be tried by court-martial pursuant to section 177B or 178B, as appropriate, may, with the prior consent of the Director, be dealt with summarily and punished under Chapter IV of this Part, according to whether the person is subject to military law as an officer or as a man.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F97: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 13, S.I. No. 254 of 2008.
+>
+> **Editorial Notes:**
+>
+> E22: Previous affecting provision: officer prescribed for the purposes of the section (1.09.2008) by *Rules of Procedure (Defence Forces) 2008* (S.I. No. 204 of 2008), rule 71, in effect as per rule 1(2); revoked (2.12.2019) by *Rules of Procedure (Defence Forces) 2019* (S.I. No. 555 of 2019), rule 73(1), in effect as per rule 1(2), subject to transitional provision in para. (2).
+
+#### 122. Place of trial for offences against military law.
+
+**122.**—Any person subject to military law who commits any offence against military law may be tried and punished for such offence at any place within or without the State.
+
+#### 123. Time limit for trial of offences.
+
+**123.**—F98[(1) Subject to subsection (1A), a person subject to military law shall not be charged with an offence (other than that of mutiny, desertion, fraudulent enlistment or a civil offence committed by a person subject to military law while he was on active service outside the State or while he was despatched for service outside the State for any purpose specified in section 3 of the Defence (Amendment) Act 2006) against military law triable by court-martial under this Act after the end of six years beginning with the date of commission of the offence.]
+
+F99[(1A) Proceedings for the summary disposal of a scheduled offence under Chapter IV of this Part may be commenced—
+
+(*a*) at any time within 12 months from the date on which the offence was committed, or
+
+(*b*) at any time within 12 months from the date on which evidence sufficient, in the opinion of the person by whom the proceedings are initiated, to justify the proceedings comes to that person’s knowledge,
+
+whichever is the later, but no such proceedings shall be commenced later than 3 years from the date on which the offence concerned was committed.
+
+(1B) In calculating a period referred to in subsection (1) or (1A) of this section there shall not be included any period during which the person is certified by his commanding officer as being—
+
+(*a*) on active service,
+
+(*b*) despatched for service outside the State for any purpose specified in section 3 of the Defence (Amendment) Act 2006,
+
+(*c*) otherwise engaged in any other essential operational duties within or outside the State,
+
+(*d*) absent without leave, or
+
+(*e*) unavailable for investigation due to illness.]
+
+(2) This section shall not affect the jurisdiction of a civil court in the case of any offence triable by such court as well as by court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F98: Substituted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 14(a), commenced on enactement as per s. 1(3).
+>
+> F99: Inserted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 14(b), commenced on enactment as per s. 1(3).
+
+### Chapter II.Offences against Military Law. — Chapter II. — Offences against Military Law.
+
+#### 124. Capital offences by commanders when in action.
+
+**124.**—Every officer subject to military law and in command of a State ship, service aircraft, defence establishment, unit or other element of the Defence Forces—
+
+(*a*) who, when under orders to carry out an operation of war or on coming into contact with an enemy that it is his duty to engage, negligently or through other default, does not use his utmost exertion to bring the officers and men under his command or his ship, aircraft, or his other matériel into action, or
+
+(*b*) who, when capable of making a successful defence, surrenders his ship, aircraft, vehicle, defence establishment, matériel or unit to the enemy, or
+
+(*c*) who, being in action, unjustifiably withdraws from the action, or
+
+(*d*) who unjustifiably fails to pursue an enemy or to consolidate a position gained, or
+
+(*e*) who unjustifiably fails to relieve or assist a known friend to the utmost of his power, or
+
+(*f*) who, when in action, unjustifiably forsakes his station,
+
+is guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer F100[imprisonment for life] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F100: Substituted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(b), commenced on enactment.
+
+#### 125. Capital offences by any person in relation to the enemy.
+
+**125.**—Every person subject to military law—
+
+(*a*) who treacherously deserts to the enemy, or
+
+(*b*) who treacherously or without due authority sends a flag of truce to the enemy, or
+
+(*c*) who treacherously or without due authority holds communication with or gives intelligence to the enemy, or
+
+(*d*) who misbehaves or induces others to misbehave before the enemy in such a way as to show cowardice, or
+
+(*e*) who assists the enemy with matériel, or
+
+(*f*) who knowingly harbours or protects an enemy not being a prisoner, or
+
+(*g*) who treacherously assists the enemy by giving a false identification or other signal or altering or interfering with any signal, or
+
+(*h*) who improperly delays or treacherously or in a cowardly manner discourages any action against the enemy, or
+
+(*i*) who, when ordered to carry out an operation of war, negligently or through other default fails to use his utmost exertion to carry the orders into effect, or
+
+(*j*) who treacherously or unjustifiably abandons or delivers up any defence establishment, garrison, place, State ship, service aircraft, vehicle or animal, matériel, post or guard, or
+
+(*k*) who knowingly does or omits to do anything that results in the capture by the enemy of persons or the capture or destruction by the enemy of matériel, or
+
+(*l*) who treacherously assists the enemy in any way not specifically hereinbefore mentioned in this section, or
+
+(*m*) who, while serving in a State ship involved in the convoying and protection of vessels,—
+
+(i) fails to defend the vessels and goods under convoy, or
+
+(ii) refuses to fight in defence of the vessels in his convoy if they are attacked, or
+
+(iii) cowardly abandons or exposes the vessels in his convoy to hazards,
+
+is guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer F101[imprisonment for life] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F101: Substituted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(b), commenced on enactment.
+
+#### 126. Offences punishable more severely on active service than at other times.
+
+**126.**—(1) In this section, the word “safeguard” means any party of the Defence Forces detached for the purpose of protecting some person or persons or for the purpose of protecting, or of preventing or controlling access to, any premises or place or for the purpose of regulating traffic on any road, railway or inland navigation, and includes any sentry being a member of the Defence Forces posted for any of the said purposes.
+
+(2) Every person subject to military law—
+
+(*a*) who, when acting as sentry or lookout or otherwise when on watch or guard, leaves his watch, guard, picket, patrol or post before he is regularly relieved or sleeps or is F102[under the influence of an intoxicant], or
+
+(*b*) who, without orders from his superior officer, leaves his watch, guard, picket, patrol or post, or
+
+(*c*) who, without due authority, discloses in any manner whatsoever any information relating to the number, position, matériel, movements, preparations for movements, operations or preparations for operations of the Defence Forces or any portion thereof or to any State ships, service aircraft or vehicles, or
+
+(*d*) who makes known the parole, watchword, password, countersign or identification signal to any person not entitled to receive it or gives, without good and sufficient cause, a parole, watchword, password, countersign or identification signal different from that which he received, or
+
+(*e*) who, without due authority, alters or interferes with any identification or other signal, or
+
+(*f*) who unjustifiably occasions false alarms, or
+
+(*g*) who forces a safeguard or forces, strikes or molests a sentinel, or
+
+(*h*) who loots or plunders or breaks into any house or place with intent to loot or plunder, or
+
+(*i*) who, without orders from his superior officer, or without reasonable cause, wilfully destroys or damages any property, or
+
+(*j*) who does violence to any person bringing matériel to the Defence Forces, or
+
+(*k*) who, without proper authority, detains or appropriates to the unit of the Defence Forces with which he is serving any matériel being conveyed to any other unit of the Defence Forces, or
+
+(*l*) who impedes the provost marshal or any officer or man legally exercising authority under or on behalf of the provost marshal, or, when called on, refuses to assist in the execution of his duty the provost marshal or any such officer or man, or
+
+(*m*) who knowingly does or omits to do anything the doing or omission whereof is calculated to imperil the success or prejudice the security of the Defence Forces or any portion thereof,
+
+is guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer,—
+
+(i) if he commits such offence on active service, F103[imprisonment for a term not exceeding seven years] or any less punishment awardable by a court-martial, or
+
+(ii) if he commits such offence not on active service and is an officer, dismissal with F104[disgrace] from the Defence Forces or any less punishment awardable by a court-martial, or
+
+(iii) if he commits such offence not on active service and is a man, imprisonment or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F102: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(2) and sch. 2, S.I. No. 254 of 2008.
+>
+> F103: Substituted (22.04.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, par. 5, commenced as per s. 1.
+>
+> F104: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(2) and sch. 2, S.I. No. 254 of 2008.
+
+#### 127. Offences related to prisoners of war.
+
+**127.**—Every person subject to military law—
+
+(*a*) who, by want of due precaution, or through disobedience of orders or wilful neglect of duty, is taken prisoner, or
+
+(*b*) who, having been taken prisoner, fails to rejoin the Defence Forces when able to do so, or
+
+(*c*) who, having been made a prisoner of war, serves with or aids the enemy,
+
+is guilty of an offence against military law, and shall, on conviction by court-martial, in case he served with or aided the enemy, be liable to suffer F105[imprisonment for life] or any less punishment awardable by a court-martial and, in any other case, be liable to suffer F106[imprisonment for a term not exceeding seven years] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F105: Substituted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(d), commenced on enactment.
+>
+> F106: Substituted (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, para. 5, commenced as per s. 1.
+
+#### 128. Mutiny with violence.
+
+**128.**—Every person subject to military law who joins in a mutiny that is accompanied by violence is guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer F107[imprisonment for life] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F107: Substituted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(d), commenced on enactment.
+
+#### 129. Mutiny without violence.
+
+**129.**—Every person subject to military law who joins in a mutiny that is not accompanied by violence is guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer F108[imprisonment for life] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F108: Substituted (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, para. 6, commenced as per s. 1.
+
+#### 130. Offences related to mutiny.
+
+**130.**—Every person subject to military law—
+
+(*a*) who causes or conspires with any other person to cause a mutiny, or
+
+(*b*) who endeavours to persuade any person to join in a mutiny, or
+
+(*c*) who, being present, does not use his utmost endeavours to suppress a mutiny, or
+
+(*d*) who, being aware of an actual or intended mutiny, does not without delay inform his superior officer thereof,
+
+is guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer F109[imprisonment for life] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F109: Substituted (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14, sch. 2, para. 6, commenced as per s. 1.
+
+#### 131. Disobedience to superior officer.
+
+**131.**—Every person subject to military law who disobeys a lawful command of a superior officer is guilty of an offence against military law and shall, F110[where a charge under this section is disposed of summarily under section 177C, 178C or 179C, as the case may be, be liable to suffer any punishment awardable thereunder or,] on conviction by court-martial, be liable to suffer F111[imprisonment for a term not exceeding seven years] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F110: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 21 and sch. 6, commenced S.I. No. 254 of 2008.
+>
+> F111: Substituted (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, para. 5, commenced as per s. 1.
+
+#### 132. Striking or offering violence to a superior officer.
+
+**132.**—Every person subject to military law who strikes or attempts to strike, or uses, attempts to use, or offers violence to a superior officer is guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer F112[imprisonment for life] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F112: Substituted (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14, sch. 2, para. 6, commenced as per s. 1.
+
+#### 133. Insubordinate behaviour.
+
+**133.**—Every person subject to military law who uses threatening or insulting language to, or behaves in an insubordinate manner towards, a superior officer is guilty of an offence against military law and shall, F113[where a charge under this section is disposed of summarily under section 177C, 178C or 179C, as the case may be, be liable to suffer any punishment awardable thereunder or,] on conviction by court-martial, be liable to suffer imprisonment F114[for any term not exceeding two years] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F113: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 21 and sch. 6, commenced S.I. No. 254 of 2008.
+>
+> F114: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(e), commenced on enactment.
+
+#### 134. Disorders.
+
+**134.**—Every person subject to military law—
+
+(*a*) who, being concerned in a quarrel, fray or disorder, refuses to obey an officer, though of inferior rank, who orders him into arrest, or strikes or uses or offers violence to any such officer, or
+
+(*b*) who strikes or uses or offers violence to any other person in whose custody he is placed, whether or not such other person is his superior officer and whether or not such other person is subject to military law, or
+
+(*c*) who resists an escort whose duty it is to apprehend him or to have him in charge, or
+
+(*d*) who breaks out of barracks, station, camp, quarters or ship,
+
+is guilty of an offence against military law and shall, F115[where a charge under this section is disposed of summarily under section 177C, 178C or 179C, as the case may be, be liable to suffer any punishment awardable thereunder or,] on conviction by court-martial, be liable to suffer imprisonment F116[for any term not exceeding two years] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F115: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 21 and sch. 6, commenced S.I. No. 254 of 2008.
+>
+> F116: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(e), commenced on enactment.
+
+#### 135. Desertion.
+
+**135.**—(1) Every person subject to military law who deserts or attempts to desert the Defence Forces is guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer,—
+
+(*a*) if he commits such offence on active service, F117[imprisonment for life] or any less punishment awardable by a court-martial, or
+
+(*b*) if he commits such offence not on active service, in the case of a first offence, imprisonment F118[for any term not exceeding two years] or any less punishment awardable by a court-martial or, in the case of a second or any subsequent offence, F119[imprisonment for a term not exceeding seven years] or any less punishment awardable by a court-martial.
+
+(2) (*a*) For the purposes of this Act, a person deserts the Defence Forces—
+
+(i) if, being on or having been warned for hazardous duty or important service F120[(which, for the purpose of this section, includes, but is not limited to, active service or service with a contingent or as a member despatched for service outside the State for any purpose specified in section 3 of the Defence (Amendment) Act 2006)], he is absent without due authority with the intention of avoiding that duty or service, or
+
+(ii) if, having been warned that his vessel is under sailing orders, he is absent without due authority with the intention of missing that vessel, or
+
+(iii) if he absents himself without due authority from his unit or formation or from the place where his duty requires him to be, with the intention of not returning to that unit, formation or place, or
+
+(iv) if he is absent without due authority from his unit or formation or from the place where his duty requires him to be and at any time during such absence forms the intention of not returning to that unit, formation or place, or
+
+(v) if, while absent with due authority from his unit or formation or from the place where his duty requires him to be, with the intention of not returning to that unit, formation or place, he does any act or omits to do anything, the natural and probable consequence of which act or omission is to preclude his return to that unit, formation or place at the time required.
+
+(*b*) For the purposes of paragraph (*a*) of this subsection, a person who has been absent without authority for a continuous period of six months or more shall, unless the contrary is proved, be presumed to have had the intention of not returning to his unit or formation or the place where his duty requires him to be.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F117: Substituted (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14, sch. 2, para. 6, commenced as per s. 1.
+>
+> F118: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4 (e), commenced on enactment.
+>
+> F119: Substituted (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14, sch. 2, para. 5, commenced as per s. 1.
+>
+> F120: Inserted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 15, commenced as per s. 1(3).
+
+#### 136. Connivance at desertion.
+
+**136.**—Every person subject to military law—
+
+(*a*) who, being aware of the desertion or intended desertion of a person, does not without reasonable excuse inform his superior officer forthwith, or
+
+(*b*) who fails to take any steps in his power to cause the apprehension of a person known by him to be a deserter,
+
+is guilty of an offence against military law and shall, F121[where a charge under this section is disposed of summarily under section 177C, 178C or 179C, as the case may be, be liable to suffer any punishment awardable thereunder or,] on conviction by court-martial, be liable to suffer imprisonment F122[for any term not exceeding two years] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F121: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 21 and sch. 6, S.I. No. 254 of 2008.
+>
+> F122: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4 (e), commenced on enactment.
+
+#### 137. Absence without leave.
+
+**137.**—(1) Every person subject to military law who absents himself without leave is guilty of an offence against military law and shall, F123[where a charge under this section is disposed of summarily under section 177C, 178C or 179C, as the case may be, be liable to suffer any punishment awardable thereunder or,] on conviction by court-martial, be liable to suffer imprisonment F124[for any term not exceeding two years] or any less punishment awardable by a court-martial.
+
+(2) For the purposes of this Act, a person absents himself without leave—
+
+(*a*) if, without authority, he leaves his unit or formation or the place where his duty requires him to be, or
+
+(*b*) if, without authority, he is absent from his unit or formation or the place where his duty requires him to be, or
+
+(*c*) if, having been authorised to be absent from his unit or formation or the place where his duty required him to be, he fails to return to that unit, formation or place at the expiration of the period for which his absence was authorised,
+
+and the expression “absent himself without leave” shall in this Act be construed accordingly.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F123: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 21, sch. 6, S.I. No. 254 of 2008.
+>
+> F124: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(e), commenced on enactment.
+
+#### 138. False statement in respect of leave.
+
+**138.**—Every person subject to military law who knowingly makes a false statement in respect of prolongation of leave of absence is guilty of an offence against military law and shall, F125[where a charge under this section is disposed of summarily under section 177C, 178C or 179C, as the case may be, be liable to suffer any punishment awardable thereunder or,] on conviction by court-martial, be liable to suffer, if an officer, dismissal from the Defence Forces or any less punishment awardable by a court-martial, or, if a man, detention or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F125: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 21, sch. 6, S.I. No. 254 of 2008.
+
+#### 139. Scandalous conduct of an officer.
+
+**139.**—Every officer who, being subject to military law, behaves in a scandalous manner, unbecoming the character of an officer, is guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer dismissal with F126[disgrace] from the Defence Forces or dismissal from the Defence Forces.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F126: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(2) and sch. 2, S.I. No. 254 of 2008.
+
+#### 140. Ill-treatment of inferiors.
+
+**140.**—Every person subject to military law who strikes or otherwise ill-treats any member of the Defence Forces, who by reason of rank or appointment is subordinate to him, is guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer imprisonment F127[for any term not exceeding two years] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F127: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4 (e), commenced on enactment.
+
+#### 141. False accusation against officer or man.
+
+**141.**—Every person subject to military law—
+
+(*a*) who makes a false accusation against an officer or man, knowing such accusation to be false, or
+
+(*b*) who knowingly makes a false statement affecting the character of an officer or man,
+
+is guilty of an offence against military law and shall, F128[where a charge under this section is disposed of summarily under section 177C, 178C or 179C, as the case may be, be liable to suffer any punishment awardable thereunder or,] on conviction by court-martial, be liable to suffer imprisonment F129[for any term not exceeding two years] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F128: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 21, sch. 6, S.I. No. 254 of 2008.
+>
+> F129: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(e), commenced on enactment.
+
+#### 142. Prohibition on being under the influence of an intoxicant.
+
+F130[**142.**— (1) Every person subject to military law who, whether on duty or not on duty, due to his or her being under the influence of an intoxicant—
+
+(*a*) is unfit to be entrusted with any duty that the person is or may be required to perform, or
+
+(*b*) behaves in a disorderly manner or in any manner likely to bring discredit on the Defence Forces,
+
+is guilty of an offence against military law and shall, where a charge under this section is disposed of summarily under section 177C, 178C or 179C, as the case may be, be liable to suffer any punishment awardable thereunder or, on conviction by court-martial, be liable to suffer—
+
+(i) in the case of an officer, dismissal from the Defence Forces or any less punishment awardable by a court-martial, or
+
+(ii) in the case of a man, where the offence is committed on active service or on duty, imprisonment for any term not exceeding two years or any less punishment awardable by a court-martial, or
+
+(iii) in the case of a man, where the offence is committed otherwise than on active service or on duty, detention for a period not exceeding ninety days or any less punishment awardable by a court-martial.
+
+(2) In any proceedings for an offence under this section, evidence given by a person subject to military law of his opinion that another such person was, at the material time, under the influence of an intoxicant shall, without more, be evidence, until the contrary is proved, of intoxication.
+
+(3) In any proceedings for an offence under this section it shall be a defence for the person charged with the offence to prove that the intoxicant concerned was administered by, or taken in accordance with the directions of, a registered medical practitioner or a registered dentist (or both so administered and taken).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F130: Substituted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 16, commenced as per s. 1(3).
+>
+> **Editorial Notes:**
+>
+> E23: Previous affecting provision: s. 142(b) amended (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4; substituted as per F-note above.
+
+#### 142A. Drugs, etc.
+
+F131[**142A.**—F132[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F131: Inserted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 5, commenced on enactment.
+>
+> F132: Repealed (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(1), S.I. No. 254 of 2008.
+>
+> **Editorial Notes:**
+>
+> E24: Previous affecting provision: s. 142A(1)(ii) amended (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4, commenced on enactment; superseded as per F-note above.
+
+#### 143. Malingering or maiming.
+
+**143.**—Every person subject to military law—
+
+(*a*) who malingers or feigns or induces disease or infirmity, or
+
+(*b*) who induces, aggravates, or delays the cure of, disease or infirmity by misconduct or wilful disobedience of orders, or
+
+(*c*) who wilfully maims or injures himself or any other person who is a member of the Defence Forces, whether at the instance of that person or not, with intent thereby to render himself or that other person unfit for service, or causes himself to be maimed or injured by any person with intent thereby to render himself unfit for service,
+
+is guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer imprisonment F133[for any term not exceeding two years] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F133: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(e), commenced on enactment.
+
+#### 144. Dilatory conduct in regard to trials.
+
+**144.**—Every person subject to military law who unnecessarily detains any other person in arrest or confinement without bringing him to trial, or fails to bring that other person’s case before the proper authority for investigation, is guilty of an offence against military law and shall, F134[where a charge under this section is disposed of summarily under section 177C, 178C or 179C, as the case may be, be liable to suffer any punishment awardable thereunder or,] on conviction by court-martial, be liable to suffer imprisonment F135[for any term not exceeding two years] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F134: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 21, sch. 6, S.I. No. 254 of 2008.
+>
+> F135: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(e), commenced on enactment.
+
+#### 145. Negligent or wilful interference with lawful custody.
+
+**145.**—Every person subject to military law—
+
+(*a*) who, without proper authority, sets free or authorises or otherwise facilitates the setting free of any person in custody, or
+
+(*b*) who negligently or wilfully allows to escape any person who is committed to his charge, or whom it is his duty to guard or keep in custody, or
+
+(*c*) who assists any person in escaping or attempting to escape from custody,
+
+is guilty of an offence against military law and shall, F136[where a charge under this section is disposed of summarily under section 177C, 178C or 179C, as the case may be, be liable to suffer any punishment awardable thereunder or,] on conviction by court-martial, be liable, in case he acted wilfully, to suffer F137[imprisonment for a term not exceeding seven years] or any less punishment awardable by a court-martial and, in any other case, to suffer imprisonment F138[for any term not exceeding two years] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F136: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 21, sch. 6, S.I. No. 254 of 2008.
+>
+> F137: Substituted (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, para. 5, commenced as per s. 1.
+>
+> F138: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(e), commenced on enactment.
+
+#### 146. Escape from custody.
+
+**146.**—Every person subject to military law who, being in arrest or confinement or in prison or otherwise in lawful custody, escapes, or attempts to escape, is guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer imprisonment F139[for any term not exceeding two years] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F139: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(e), commenced on enactment.
+
+#### 147. Obstruction of officer or man carrying out police duties.
+
+**147.**—Every person subject to military law—
+
+(*a*) who resists or wilfully obstructs an officer or man in carrying out any duty, performed by such officer or man with due authority, pertaining to the arrest, custody or confinement of a person subject to military law, or
+
+(*b*) who, when called upon, refuses or neglects to assist an officer or man in the performance of any such duty,
+
+is guilty of an offence against military law and shall, F140[where a charge under this section is disposed of summarily under section 177C, 178C or 179C, as the case may be, be liable to suffer any punishment awardable thereunder or,] on conviction by court-martial, be liable to suffer imprisonment F141[for any term not exceeding two years] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F140: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 21, sch. 6, S.I. No. 254 of 2008.
+>
+> F141: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(e), commenced on enactment.
+
+#### 148. Obstruction of civil power.
+
+**148.**—Every person subject to military law—
+
+(*a*) who neglects or refuses to deliver over an officer or man to the civil power, pursuant to a warrant in that behalf, or
+
+(*b*) who neglects or refuses to assist in the lawful apprehension of an officer or man accused of an offence punishable by a civil court,
+
+is guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer imprisonment F142[for any term not exceeding two years] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F142: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4 (e), commenced on enactment.
+
+#### 149. Losing, stranding or hazarding State ships.
+
+**149.**—Every person subject to military law who wilfully or negligently or through other default loses, strands, hazards or damages or suffers to be lost, stranded, hazarded or damaged any State ship, is guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer F143[imprisonment for a term not exceeding seven years] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F143: Substituted (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, para. 5, commenced as per s. 1.
+
+#### 150. Unauthorised carriage on ships or aircraft.
+
+F144[**150.**— Every person subject to military law who knowingly consigns, takes or receives on board, or allows to be carried on board, a State ship or service aircraft, or a ship or aircraft used for any purpose by the Defence Forces, persons, goods or merchandise that the person is not authorised to consign, take or receive on board is guilty of an offence against military law and shall, where a charge under this section is disposed of summarily under section 177C or 178C, as the case may be, be liable to suffer any punishment awardable thereunder or, on conviction by court-martial, be liable to suffer imprisonment for any term not exceeding two years or any less punishment awardable by a court-martial.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F144: Substituted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 17, commenced as per s. 1(3).
+>
+> **Editorial Notes:**
+>
+> E25: Previous affecting provision: section amended (11.07.1990) by *Criminal Justicte Act 1990* (16/1990), s. 7 and sch. 1, para. 4; superseded as per F-note above.
+
+#### 151. Wrongful acts in relation to aircraft.
+
+**151.**—Every person subject to military law—
+
+(*a*) who, in the use of or in relation to any service aircraft or service aircraft material, wilfully or negligently or by neglect of or contrary to regulations, orders or instructions, does any act or omits to do anything, which act or omission causes or is likely to cause loss of life or bodily injury to any person, or
+
+(*b*) who, wilfully or negligently or by neglect of or contrary to regulations, orders or instructions, does any act or omits to do anything, which act or omission results or is likely to result in damage to or destruction or loss of any service aircraft or service aircraft material, or
+
+(*c*) who, during a state of war, wilfully or negligently causes the sequestration by or under the authority of a neutral State of any service aircraft, or
+
+(*d*) who, during a state of war, wilfully or negligently causes, otherwise than in accordance with regulations, orders or instructions, the destruction in a neutral State of any service aircraft,
+
+is guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer F145[imprisonment for a term not exceeding seven years] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F145: Substituted (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, para. 5, commenced as per s. 1.
+
+#### 152. Inaccurate certificate as regards aircraft.
+
+**152.**—Every person subject to military law who signs any certificate in relation to F146[service aircraft or service aircraft material] without ensuring the accuracy thereof is guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer imprisonment F147[for any term not exceeding two years] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F146: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(2) and sch. 2, S.I. No. 254 of 2008.
+>
+> F147: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(e), commenced on enactment.
+
+#### 153. Low flying.
+
+**153.**—Every person subject to military law who flies a service aircraft at a height less than the minimum height authorised in the circumstances is guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer imprisonment F148[for any term not exceeding two years] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F148: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4 (e), commenced on enactment.
+
+#### 154. Disobedience of orders of captain of aircraft.
+
+**154.**—(1) Every person subject to military law who, when in a service aircraft, disobeys any lawful command given by the captain of the aircraft in relation to the flying or handling of the aircraft or affecting the safety of the aircraft, whether the captain is subject to military law or not, is guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer F149[imprisonment for a term not exceeding seven years] or any less punishment awardable by a court-martial.
+
+(2) For the purposes of this section—
+
+(*a*) every person, whatever his rank, shall when he is in a service aircraft be under the command, as respects all matters relating to the flying or handling of the aircraft or affecting the safety of the aircraft, of the captain of the aircraft, whether the latter is subject to military law or not;
+
+(*b*) if the service aircraft is a glider and is being towed by another aircraft, the captain of the glider shall so long as his glider is being towed be under the command, as respects all matters relating to the flying or handling of the glider or affecting the safety of the glider, of the captain of the towing aircraft, whether the latter is subject to military law or not.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F149: Substituted (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, para. 5, commenced as per s. 1.
+>
+> **Modifications (not altering text):**
+>
+> C46: Section interpreted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 6(5), commenced on enactment.
+>
+> **Powers exercisable by captain of service aircraft and certain other persons when safely of aircraft. etc. in jeopardy.**
+>
+> **6.**— ...
+>
+> (5) For the purposes of this section and section 154 of the Principal Act, the person who has been designated to be in command of a service aircraft shall be regarded as being the captain of the aircraft.
+
+#### 155. Fraud by persons in charge of property.
+
+**155.**—Every person subject to military law who, being charged with or concerned in the care and distribution of any public property or service property, steals, fraudulently converts or misapplies or embezzles that property or is concerned in or connives at the stealing, fraudulent conversion or misapplication or embezzlement thereof shall be guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer F150[imprisonment for a term not exceeding seven years] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F150: Substituted (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, para. 5, commenced as per s. 1.
+
+#### 156. Stealing, embezzlement, etc., of property.
+
+F151[**156.**—(1) Every person subject to military law who—
+
+(*a*) steals or otherwise unlawfully obtains any property belonging to a person subject to military law or any public service property or service property, or
+
+(*b*) handles or possesses (within the meaning of section 17 or 18 of the Criminal Justice (Theft and Fraud Offences) Act, 2001) any such property,
+
+is guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer imprisonment for any term not exceeding two years or any less punishment awardable by a court martial.
+
+(2) The said sections 17 and 18 shall apply to the offences of handling and possessing under subsection (1)(*b*) of this section as they apply to the offences of handling and possessing stolen or otherwise unlawfully obtained property.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F151: Substituted (1.08.2002) by *Criminal Justice (Theft and Fraud Offences) Act 2001* (50/2001), s. 63, S.I. No. 252 of 2002.
+>
+> **Editorial Notes:**
+>
+> E26: Previous affecting provision: section substituted (22.08.1990) by *Larceny Act 1990* (9/1990), s. 11, commenced as per s. 13(1); substituted as per F-note above.
+>
+> E27: Previous affecting provision: section construed (22.08.1990) by *Larceny Act 1990* (9/1990), s. 13(4), commenced as per s. 13(1); Act of 1990 repealed (1.08.2002) by *Justice (Theft and Fraud Offences) Act 2001* (50/2001), s. 3 and sch. with transitional provision in s. 65, S.I. No. 252 of 2002.
+>
+> E28: Previous affecting provision: section amended (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4, commenced on enactment; substituted as per E-note above.
+
+#### 157. Destruction, loss or improper disposal of property.
+
+**157.**—Every person subject to military law—
+
+(*a*) who wilfully destroys or damages, loses by neglect, improperly sells or wastefully expends any property being—
+
+(i) public property, or
+
+(ii) service property, or
+
+(iii) property received for, or administered by or through, service messes, institutes or canteens, or
+
+(iv) property contributed by members of the Defence Forces for the collective benefit and welfare of such members, or
+
+(v) property derived from, purchased out of the proceeds of sale of, or received in exchange for property mentioned in subparagraph (iii) or (iv) of this paragraph, or
+
+(*b*) who wilfully destroys, damages or improperly sells, pawns, or pledges any property belonging to another person who is subject to military law,
+
+is guilty of an offence against military law and shall, F152[where a charge under this section is disposed of summarily under section 177C, 178C or 179C, as the case may be, be liable to suffer any punishment awardable thereunder or,] on conviction by court-martial, be liable to suffer imprisonment F153[for any term not exceeding two years] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F152: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 21, sch. 6, S.I. No. 254 of 2008.
+>
+> F153: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(e), commenced on enactment.
+
+#### 158. Bribery, corruption and fraud.
+
+**158.**—Every person subject to military law—
+
+(*a*) who connives at the exaction, by a person supplying property or services to the Defence Forces, of an exorbitant price therefor, or
+
+(*b*) who wrongfully demands or accepts compensation, consideration or personal advantage in respect of the performance of any military duty or in respect of any matter relating to the Department of Defence or the Defence Forces, or
+
+(*c*) who receives directly or indirectly, whether personally or by or through any member of his family or person under his control, or for his benefit, any gift, loan, promise, compensation or consideration, either in money or otherwise, from any person, for assisting or favouring any person in the transaction of any business relating to the Department of Defence or the Defence Forces, or to any service mess, institute or canteen,
+
+is guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer F154[imprisonment for a term not exceeding seven years] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F154: Substituted (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, para. 5, commenced as per s. 1.
+
+#### 159. Negligent or furious driving of service vehicles.
+
+**159.**—(1) Every person subject to military law—
+
+(*a*) who, having the charge of a service vehicle, by wanton or furious driving or racing or other wilful misconduct or by wilful neglect, does or causes to be done any bodily injury to any person or damage to any property, or
+
+(*b*) who drives a service vehicle on a street, road, highway or any other place, whether public or private, in a manner that is dangerous to any person or property having regard to all the circumstances of the case, or
+
+(*c*) who drives or attempts to drive a service vehicle while he is F155[under the influence of an intoxicant],
+
+is guilty of an offence against military law and shall, F156[where a charge under this section is disposed of summarily under section 177C, 178C or 179C, as the case may be, be liable to suffer any punishment awardable thereunder or,] on conviction by court-martial, be liable to suffer imprisonment F157[for any term not exceeding two years] or any less punishment awardable by a court-martial.
+
+F155[(2) For the purposes of paragraph (*c*) of subsection (1) of this section a person shall be deemed to have been under the influence of an intoxicant while driving or attempting to drive a service vehicle if—
+
+(*a*) the officer investigating the charge under Chapter IV of this Part, or
+
+(*b*) the summary court-martial or, in the case of a general court-martial or limited court-martial, the court-martial board,
+
+is satisfied that such person was, by reason of the taking by him of an intoxicant, in such a condition that he was incapable of exercising effective control of such vehicle while in motion.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F155: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(2), sch. 2, S.I. No. 254 of 2008.
+>
+> F156: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 21, sch. 6, S.I. No. 254 of 2008.
+>
+> F157: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4 (e), commenced on enactment.
+
+#### 160. Unauthorised use of service vehicles.
+
+**160.**—Every person subject to military law—
+
+(*a*) who uses a service vehicle for an unauthorised purpose, or
+
+(*b*) who, without due authority, uses a service vehicle for any purpose, or
+
+(*c*) who uses a service vehicle contrary to any regulation, order or instruction,
+
+is guilty of an offence against military law and shall, F158[where a charge under this section is disposed of summarily under section 177C, 178C or 179C, as the case may be, be liable to suffer any punishment awardable thereunder or,] on conviction by court-martial, be liable to suffer imprisonment F159[for any term not exceeding two years] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F158: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 21, sch. 6, S.I. No. 254 of 2008.
+>
+> F159: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(e), commenced on enactment.
+
+#### 161. Offences in relation to courts-martial, etc.
+
+**161.**—(1) In this section, the expression “service tribunal” means—
+
+(*a*) a court-martial,
+
+F160[(*b*) an officer, pursuant to section 177, investigating a charge of an offence for which a person would be required on conviction to be sentenced to imprisonment for life,
+
+(*c*) a commanding officer, pursuant to section 178, investigating a charge of an offence for which a person would be required on conviction to be sentenced to imprisonment for life,]
+
+(*d*) an officer taking a summary of evidence in accordance with regulations made under section 184,
+
+(*e*) a court of inquiry.
+
+(2) Every person subject to military law—
+
+(*a*) who, being duly summoned or ordered to attend as a witness before a service tribunal, makes default in attending, or
+
+(*b*) who refuses to take an oath or make an affirmation lawfully required by a service tribunal to be taken or made, or
+
+(*c*) who refuses to produce any document in his power or control lawfully required by a service tribunal to be produced by him, or
+
+(*d*) who refuses when a witness to answer any question to which a service tribunal may lawfully require an answer, or
+
+(*e*) who uses insulting or threatening language or causes any interruption or disturbance in the proceedings of a service tribunal, or
+
+F161[(*ea*) who communicates with the Director, a member of his staff (including a F162[court-martial prosecutor]), a member of a court-martial board, a military judge or a witness in any proceedings under this Act for the purpose of influencing, directly or indirectly, any decision relating to the performance of their functions, including, as appropriate, a decision to withdraw or not to institute such proceedings or any particular charge in such proceedings or the conduct or trial of any such proceedings, or
+
+(*eb*) who fails, refuses or neglects to comply with a direction of the military judge under section 195, or
+
+(*ec*) who, by act or omission, obstructs or hinders a service tribunal in the performance of its functions, or]
+
+F163[(*f*) who does or omits to do any other thing, which, if the service tribunal were a civil court having power to commit for contempt, would be contempt of that court,]
+
+is guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer imprisonment F164[for any term not exceeding two years] or any less punishment awardable by a court-martial.
+
+F165[(3) If the Director, a member of his staff (including a F162[court-martial prosecutor]), a member of a court-martial board, a military judge or a witness in any proceedings under this Act is of the opinion that a communication is in breach of subsection (2)(*ea*) of this section, it shall be the duty of that person not to entertain the communication further.
+
+(4) (*a*) In the case of the Director or a member of his staff, subsection (2)(*ea*) of this section does not apply to—
+
+(i) communications made by a person who is a complainant in proceedings for, or has been charged with, an offence under this Act or believes that he is likely to be charged with an offence under this Act, or
+
+(ii) communications made by a person involved in the matter either personally or as legal or medical adviser to a person involved in the matter or as a social worker or a member of the family F166[or the civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010] of a person involved in the matter.
+
+(*b*) In this subsection "member of the family" means spouse, parent, grandparent, step-parent, child (including a step-child or an adopted child), grandchild, brother, sister, half-brother, half-sister, aunt, uncle, niece or nephew of the person concerned;
+
+"spouse" means each person of a couple in relation to the other;
+
+"couple" means a married couple or a man and woman who are not married to each other but are cohabiting as husband and wife.
+
+(5) Subsection (2) of this section shall apply in relation to the summary disposal of charges under section 177C, 178C or 179C, as the case may be, as it applies to a service tribunal and for the purposes of such application references in the said subsection (2) to a service tribunal shall be construed as references to the summary disposal of charges under section 177C, 178C or 179C, as the case may be.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F160: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 18(a), S.I. No. 254 of 2008.
+>
+> F161: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 18(b)(i), S.I. No. 254 of 2008.
+>
+> F162: Substituted (6.11.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 13(a), (b), S.I. No. 609 of 2024.
+>
+> F163: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 18(b)(ii), S.I. No. 254 of 2008.
+>
+> F164: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4 (e), commenced on enactment.
+>
+> F165: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 18(c), S.I. No. 254 of 2008.
+>
+> F166: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 170 and sch. pt. 5, item. 3, S.I. No. 648 of 2010.
+>
+> **Modifications (not altering text):**
+>
+> C47: Certain records exempted from application of *Freedom of Information Act 2014* (14.10.2014) by *Freedom of Information Act 2014* (30/2014), s. 42(a)(ii), commenced on enactment.
+>
+> **Restriction of Act**
+>
+> **42.** This Act does not apply to—
+>
+> (*a*) a record held by— ...
+>
+> (ii) a service tribunal within the meaning of section 161 of the Defence Act 1954,
+>
+> and relating to, or to proceedings in, a court or such a tribunal, other than—
+>
+> (I) a record that relates to proceedings in a court or such a tribunal held in public but was not created by the court or tribunal and whose disclosure to the general public is not prohibited by the court or the tribunal, or
+>
+> (II) a record relating to the general administration of the courts or the offices of the courts or such a tribunal or any offices of such a tribunal,
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E29: Previous affecting provision: certain records exempted from application of *Freedom of Information Act 1997* (21.04.1998) by *Freedom of Information Act 1997* (13/1997), s. 46(1)(a)(iii), commenced as per s. 1(2); repealed (14.10.2014) by *Freedom of Information Act 2014* (30/2014), s. 5 and sch. 4, commenced as per s. 1(2).
+
+#### 162. False evidence.
+
+F167[**162.**— Every person subject to military law who, when examined on oath or solemn declaration before—
+
+(*a*) a service tribunal within the meaning of section 161,
+
+(*b*) an authorised officer investigating a charge under section 177C,
+
+(*c*) a commanding officer investigating a charge under section 178C, or
+
+(*d*) a subordinate officer investigating a charge under section 179C,
+
+knowingly gives false evidence is guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer imprisonment for any term not exceeding two years or any less punishment awardable by a court-martial.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F167: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 19, S.I. No. 254 of 2008.
+>
+> **Editorial Notes:**
+>
+> E30: Previous affecting provision: section amended (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(e), commenced on enactment; substituted as per F-note above.
+
+#### 163. Disturbances, etc., in billets.
+
+**163.**—Every person subject to military law—
+
+(*a*) who ill-treats, by violence, extortion or making disturbance in billets or otherwise, any occupant of a house in which any person is billeted or of any premises in which accommodation for matériel has been provided, or
+
+(*b*) who fails to comply with regulations in respect of payment of the just demands of the person on whom he or any officer or man under his command is or has been billeted or the occupant of premises in which matériel is or has been accommodated,
+
+is guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer imprisonment F168[for any term not exceeding two years] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F168: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(e), commenced on enactment.
+
+#### 164. Fraudulent enlistment.
+
+**164.**—(1) Every person subject to military law as a man who fraudulently enlists is guilty of an offence against military law and shall, F169[where a charge under this section is disposed of summarily under section 177C, 178C or 179C, as the case may be, be liable to suffer any punishment awardable thereunder or,] on conviction by court-martial, be liable to suffer imprisonment F170[for any term not exceeding two years] or any less punishment awardable by a court-martial.
+
+(2) For the purposes of this Act, a man fraudulently enlists who,—
+
+(*a*) while belonging to the Permanent Defence Force, or having been called out on permanent service as a man of the Reserve Defence Force, without having obtained a regular discharge therefrom, or otherwise fulfilling the conditions enabling him to enlist, enlists in the Permanent Defence Force, or
+
+(*b*) when belonging to the Permanent Defence Force, enlists in the Reserve Defence Force without having fulfilled the conditions enabling him to so enlist.
+
+(3) When an offender has fraudulently enlisted on several occasions he may for the purpose of this section be deemed to belong to any one or more of the service corps or units to which he has been appointed or transferred as well as the service corps or unit to which he properly belongs.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F169: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 21, sch. 6, S.I. No. 254 of 2008.
+>
+> F170: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(e), commenced on enactment.
+
+#### 165. General offences in relation to enlistment.
+
+**165.**—Every person subject to military law—
+
+(*a*) who is concerned in the enlistment for service in the Permanent Defence Force or the Reserve Defence Force of any man when he knows or has reasonable cause to believe such man to be so circumstanced that by enlisting he commits an offence against military law, or
+
+(*b*) who wilfully contravenes any enactment or regulation in any matter relating to the enlistment or attestation of men of the Permanent Defence Force or the Reserve Defence Force,
+
+is guilty of an offence against military law and shall, F171[where a charge under this section is disposed of summarily under section 177C, 178C or 179C, as the case may be, be liable to suffer any punishment awardable thereunder or,] on conviction by court-martial, be liable to suffer imprisonment F172[for any term not exceeding two years] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F171: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 21, sch. 6, S.I. No. 254 of 2008.
+>
+> F172: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(e), commenced on enactment.
+
+#### 166. Negligent performance of duties.
+
+**166.**—Every person subject to military law who negligently performs a military duty imposed on him is guilty of an offence against military law and shall, F173[where a charge under this section is disposed of summarily under section 177C, 178C or 179C, as the case may be, be liable to suffer any punishment awardable thereunder or,] on conviction by court-martial, be liable, if an officer, to suffer dismissal from the Defence Forces or any less punishment awardable by a court-martial or, if a man, to suffer imprisonment F174[for any term not exceeding two years] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F173: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 21, sch. 6, S.I. No. 254 of 2008.
+>
+> F174: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(e), commenced on enactment.
+
+#### 167. Offences in relation to documents.
+
+**167.**—Every person subject to military law—
+
+(*a*) who knowingly or negligently makes or signs a document, required for official purposes, that is false, or
+
+(*b*) who knowingly or negligently orders the making or signing of a document, required for official purposes, that is false, or
+
+(*c*) who, when signing a document required for official purposes, leaves in blank any material part for which his signature is a voucher, or
+
+(*d*) who, knowingly and with intent to injure any person or with intent to deceive, suppresses, defaces, alters or makes away with any document or file kept, made or issued for any purpose connected with the Department of Defence or the Defence Forces, or
+
+(*e*) who refuses or, by culpable neglect, omits to make or send a report or return which it is his duty to make or send, is guilty of an offence against military law and shall, F175[where a charge under this section is disposed of summarily under section 177C, 178C or 179C, as the case may be, be liable to suffer any punishment awardable thereunder or,] on conviction by court-martial, be liable to suffer imprisonment F176[for any term not exceeding two years] or any less punishment awardable by a court-martial.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F175: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 21, sch. 6, S.I. No. 254 of 2008.
+>
+> F176: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(e), commenced on enactment.
+
+#### 168. Conduct to the prejudice of good order and discipline.
+
+**168.**—(1) Every person subject to military law who commits any act, conduct, disorder or neglect to the prejudice of good order and discipline is guilty of an offence against military law and shall, F177[where a charge under this section is disposed of summarily under section 177C, 178C or 179C, as the case may be, be liable to suffer any punishment awardable thereunder or,] on conviction by court-martial, be liable, if an officer, to suffer dismissal from the Defence Forces or any less punishment awardable by a court-martial and, if a man, to suffer imprisonment F178[for any term not exceeding two years] or any less punishment awardable by a court-martial.
+
+(2) (*a*) A person shall not be charged under this section with an offence which is, by virtue of any previous section contained in this Chapter, an offence against military law.
+
+(*b*) Where a person is charged with an offence in contravention of this subsection and is convicted—
+
+(i) the conviction shall not be invalid by reason only of such contravention unless it appears that an injustice has been done to the person charged by reason of such contravention,
+
+(ii) the responsibility of an officer for such contravention shall not be affected by the validity of the conviction.
+
+(3) For the purposes of this section—
+
+(*a*) the contravention (by act or omission) by any person of—
+
+(i) any of the provisions of this Act, or
+
+(ii) any regulations, orders or instructions published for the general information and guidance of that portion of the Defence Forces to which that person belongs or to which he is attached, or
+
+(iii) any general, garrison, unit, station, standing or local orders,
+
+is an act, conduct, disorder or neglect to the prejudice of good order and discipline;
+
+(*b*) an attempt to commit any offence which is, by virtue of any previous section contained in this Chapter, an offence against military law is, unless such attempt is in itself an offence against military law under that section, an act, conduct, disorder or neglect to the prejudice of good order and discipline.
+
+(4) Subsection (3) of this section shall not be construed as affecting the generality of subsection (1) of this section.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F177: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 21, sch. 6, S.I. No. 254 of 2008.
+>
+> F178: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(e), commenced on enactment.
+
+#### 169. Offences punishable by ordinary law.
+
+F179[**169.**—(1) Subject to the provisions of this Act, every person who, while he is subject to military law, commits any of the F180[offences referred to in this section, other than an applicable offence committed in the circumstance referred to in subsection (4)] shall be deemed to be guilty of an offence against military law and, if charged under this section with any such offence (in this Act referred to as a civil offence) shall be liable to be tried by court-martial.
+
+(2) Where a person charged under this section is convicted by a court-martial of treason or murder, he shall be sentenced to imprisonment for life.
+
+F182[(3) Where a person charged under this section is convicted by a court-martial of an offence other than treason or murder, he shall be liable to be punished as follows:
+
+(*a*) if he is convicted of manslaughter, be liable to imprisonment for life or any lesser punishment awardable by a court-martial;
+
+(*b*) if he is convicted of rape, F181[rape under *section 4* or aggravated sexual assault, where the offence was committed while the person so convicted was on active service outside the State or despatched for service outside the State under section 2 of the Defence (Amendment) (No. 2) Act 1960 or for any purpose specified in section 3 of the Defence (Amendment) Act 2006], be liable to imprisonment for life or any lesser punishment awardable by a court-martial;
+
+F183[(*c*) if convicted of an offence under section 3 of the Geneva Conventions Act 1962 or an offence under section 7 (genocide, crimes against humanity and war crimes) or 8 (ancillary offences) of the International Criminal Court Act 2006, be liable—
+
+(i) to imprisonment for life—
+
+(I) if the offence involves murder or, in the case of an offence committed outside the State, the killing of a person in such circumstances as would constitute murder if the offence were committed within the State, or
+
+(II) if a term of life imprisonment would be justified by the extreme gravity of the offence and the individual circumstances of the convicted person,
+
+or
+
+(ii) in any other case, to imprisonment for a term not exceeding thirty years;]
+
+(*d*) if he is convicted of an offence under the Criminal Justice (United Nations Convention against Torture) Act 2000 be liable to imprisonment for life;
+
+(*e*) if he is convicted of an offence under the Criminal Justice (Safety of United Nations Workers) Act 2000 be liable either to suffer any punishment assigned for such offence by that Act or any lesser punishment awardable by a court-martial;
+
+(*f*) if he is convicted of an offence under the Criminal Justice (Terrorist Offences) Act 2005, be liable to suffer any punishment assigned for such offence by that Act;
+
+(*g*) if he F181[is convicted of any offence, other than an applicable offence, not before in this section particularly specified] which when committed in the State is punishable by the ordinary criminal law of the State, be liable, whether the offence is committed in the State or elsewhere, either to suffer any punishment assigned for such offence by law of the State or to suffer—
+
+(i) if he is subject to military law as an officer, dismissal with F184[disgrace] from the Defence Forces or any lesser punishment awardable by a court-martial, or
+
+(ii) if he is subject to military law as a man, imprisonment for any term not exceeding two years or any lesser punishment awardable by a court-martial.]]
+
+F185[(4) The circumstance referred to in subsection (1) is that the offence was committed by a person subject to military law who was not, when the offence was committed—
+
+(*a*) on active service outside the State,
+
+(*b*) despatched for service outside the State under section 2 of the Defence (Amendment) (No. 2) Act 1960, or
+
+(*c*) despatched for service outside the State for any purpose specified in section 3 of the Defence (Amendment) Act 2006.
+
+(5) In this section—
+
+"aggravated sexual assault", "rape under *section 4*" and "sexual assault" have the same meanings as they have in the Criminal Law (Rape) (Amendment) Act 1990;
+
+"applicable offence" means—
+
+(*a*) rape,
+
+(*b*) rape under section 4,
+
+(*c*) aggravated sexual assault,
+
+(*d*) sexual assault,
+
+(*e*) attempted rape, rape under section 4, aggravated sexual assault or sexual assault,
+
+(*f*) aiding, abetting, counselling or procuring the offence of rape, rape under section 4, aggravated sexual assault or sexual assault,
+
+(*g*) incitement to the offence of rape, rape under section 4, aggravated sexual assault or sexual assault, or
+
+(*h*) conspiracy to commit any of the foregoing offences.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F179: Substituted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(f), commenced on enactment.
+>
+> F180, F181: Substituted (31.08.2024) by *Criminal Law (Sexual Offences and Human Trafficking) Act 2024* (28/2024), s. 38(a), (b)(i), (ii), S.I. No. 391 of 2024.
+>
+> F182: Substituted (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 56(a), commenced on enactment.
+>
+> F183: Substituted (31.10.2006) by *International Criminal Court Act 2006* (30/2006), s. 66 and sch. 3, para. 1(a), commenced on enactment.
+>
+> F184: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(2) and sch. 2, S.I. No. 254 of 2008.
+>
+> F185: Inserted (31.08.2024) by *Criminal Law (Sexual Offences and Human Trafficking) Act 2024* (28/2024), s. 38(c), S.I. No. 391 of 2024.
+>
+> **Editorial Notes:**
+>
+> E31: Previous affecting provision: para. (ddd) inserted in subs. (3) (28.06.2000) by *Criminal Justice (Safety of United Nations Workers) Act 2000* (16/2000), s. 6(a), commenced on enactment; subs. (3) substituted as per F-note above.
+>
+> E32: Previous affecting provision: para. (dd) inserted in subs. (3) (14.06.2000) by *Criminal Justice (United Nations Convention Against Torture) Act 2000* (11/2000), s. 6(a), commenced on enactment; subs. (3) substituted as per F-note above.
+>
+> E33: Previous affecting provision: subs. (3)(a) and (b) amended (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, para. 6, commenced as per s. 1; subs. (3) substituted as per F-note above.
+>
+> E34: Previous affecting provision: subs. (3)(b) amended (18.01.1991) by *Criminal (Rape) (Amendment) Act 1990* (32/1990), s. 19, commenced as per s. 22(3); subs. (3) substituted as per F-note above.
+>
+> E35: Previous affecting provision: para. (bb) inserted (18.12.1973) by *Genocide Act 1973* (28/1973), s. 4, commenced on enactment; section substituted as per F-note above.
+>
+> E36: Previous affecting provision: para. (b) substituted (25.03.1964) by *Criminal Justice Act 1964* (5/1964), s. 9, commenced on enactment; substituted as per F-note above.
+
+#### 169A. Trial by court-martial of treason and certain murders and attempts.
+
+F186[**169A.**—(1) A person subject to military law who is accused of murder which is alleged to be murder to which section 3 of the Criminal Justice Act, 1990, applies or of an attempt to commit such a murder and is to be tried by court-martial shall be charged with murder to which that section applies or, as the case may be, with an attempt to commit such a murder, and the following provisions of that Act, namely—
+
+(*a*) section 4, with the substitution of "court-martial" for "court", and
+
+(*b*) subsection (2) of section 6, with the substitution of "charged with" for "indicted for",
+
+shall apply and have effect in relation to the trial.
+
+(2) The said section 4 shall apply and have effect, in relation to the trial of a person subject to military law who is accused of treason, with the substitution of "court-martial" for "court".]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F186: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(g), commenced on enactment.
+
+### Chapter III.Arrest and Courts of Inquiry on Absent Men. — Chapter III. — Arrest and Courts of Inquiry on Absent Men.
+
+#### 170. Provost Marshal.
+
+**170.**—For the prompt suppression of all offences a provost marshal of commissioned rank may from time to time be appointed.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C48: Section exempted from application of *Freedom of Information Act 2014* (14.10.2014) by *Freedom of Information Act 2014* (30/2014), s. 42(c)(ii)(II), commenced on enactment.
+>
+> **Restriction of Act**
+>
+> **42.** This Act does not apply to— ...
+>
+> (*c*) a record held by— ...
+>
+> (ii) the Defence Forces relating to— ...
+>
+> (II) section 170 of the Defence Act 1954,
+>
+> ...
+
+#### 171. Arrest.
+
+**171.**—(1) Any person subject to military law, who has committed, is found committing, is suspected of being about to commit, or is suspected of or charged under this Act with having committed an offence against military law, may be placed under arrest.
+
+(2) In the circumstances mentioned in subsection (1) of this section—
+
+(*a*) a provost marshal or an officer legally exercising authority under a provost marshal or on his behalf may arrest or order the arrest of any officer;
+
+(*b*) a provost marshal or an officer or non-commissioned officer legally exercising authority under a provost marshal or on his behalf may arrest or order the arrest of any man;
+
+(*c*) an officer may arrest or order the arrest of—
+
+(i) any man,
+
+(ii) any officer of lower rank,
+
+(iii) any officer of equal or higher rank who is engaged in any quarrel, affray or disorder;
+
+(*d*) a non-commissioned officer may arrest or order the arrest of any man;
+
+(*e*) any person subject to military law who is so authorised by any commanding officer may arrest or order the arrest of a person subject to military law other than an officer or a man.
+
+(3) Every person authorised by subsection (2) of this section to effect arrest may use such force as is reasonably necessary for that purpose.
+
+(4) An order given under subsection (2) of this section shall be obeyed although the person giving the order and the person to whom and the person in respect of whom the order is given do not belong to the same service corps or unit.
+
+#### 172. Placing of person arrested in service custody.
+
+**172.**—Where a person has been arrested under section 171, he may forthwith on his being arrested be placed in service custody by or on the order of an officer, man or other person having authority to arrest him, and for this purpose such force as is reasonably necessary may be used.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C49: Prospective affecting provision: powers of Military Police in relation to person in service custody specified by *Defence Forces (Evidence) Act 2022* (16/2022), s. 34, not commenced as of date of revision.
+>
+> F467[**Other powers of members of Military Police in relation to person placed in service custody**
+>
+> **34.** (1) Where a person is placed in service custody pursuant to section 172 of the Act of 1954, a member of the Military Police may do one or more of the following:
+>
+> (*a*) demand of him or her, his or her name, service number, rank and unit;
+>
+> (*b*) search him or her or cause him or her to be searched;
+>
+> (*c*) photograph him or her or cause him or her to be photographed;
+>
+> (*d*) take, or cause to be taken, his or her fingerprints and palm prints;
+>
+> (*e*) take, or cause to be taken, from the person a sample of a footprint or similar impression of any part of the person’s body other than a part of the hand or mouth;
+>
+> (*f*) carry out, or cause to be carried out, any test designed for the purpose of ascertaining whether he or she has been in contact with any firearm (within the meaning of the Firearms Acts 1925 to 2009) or with any explosive and for that purpose take swabs from the person’s skin or samples of the person’s hair;
+>
+> (*g*) require the person to permit a registered medical practitioner or a registered nurse to take a specimen of blood from him or her for analysis as to the concentration of alcohol or other drug in the blood;
+>
+> (*h*) with the prior consent in writing of the person placed in service custody, cause to be taken by a registered dentist or a registered medical practitioner, a dental impression;
+>
+> (*i*) seize and retain for testing anything that he or she has in his or her possession.
+>
+> (2) A power conferred by *subsection (1)(c)* to *(h*) shall not be exercised unless a member of the Military Police not below the rank of captain authorises it.
+>
+> (3) *Subsection (1)(b)* does not empower a member of the Military Police to require a person to remove his or her underclothing, except where such member, with reasonable cause, suspects that he or she has concealed on his or her person a controlled drug (within the meaning of section 2 of the Misuse of Drugs Act 1977 ) or an explosive and a member of the Military Police not below the rank of captain so authorises.
+>
+> (4) In this section, “explosive” means an explosive within the meaning of the Explosives Act 1875 and any other substance or thing that is an explosive substance within the meaning of the Explosive Substances Act 1883.]
+
+#### 173. Guard report.
+
+**173.**—(1) Any person who under section 172 places any other person in service custody shall, at the time he does so or as soon as practicable thereafter, and in any case not later than twenty-four hours thereafter, deliver to the officer or man into whose custody the person is committed, an account in writing signed by himself of the offence with which the person so committed is charged.
+
+(2) Any officer or man commanding a guard or a provost marshal or any of his assistants or any officer or man shall not refuse to receive or keep any person who is placed in service custody under section 172.
+
+(3) It shall be the duty of an officer or a man who takes or receives any person (in this subsection referred to as the prisoner) into custody, as soon as he is relieved from guard or duty or, if he is not sooner relieved, within twenty-four hours after he took the prisoner into custody,—
+
+(*a*) to give in writing to his commanding officer—
+
+(i) the name and, as far as is known to him, the offence with which the prisoner is charged, and
+
+(ii) the name and rank (if any) of the person by whom the prisoner was committed, and
+
+(*b*) if he has received the account in writing referred to in subsection (1) of this section, to deliver it to his commanding officer.
+
+#### 174. Court of inquiry on absent man.
+
+**174.**—(1) When a man of the Permanent Defence Force has been absent without leave from his duty for a period of twenty-one days, a court of inquiry in relation to such man may as soon as practicable be assembled.
+
+(2) When any man of the Reserve Defence Force is subject to military law F187[by reason of his being called out on permanent service or in aid of the civil power or for annual training or being deployed on military service under section 91A] and is illegally absent from duty, a court of inquiry in relation to such man may be assembled after the expiration of twenty-one days from the date of such absence, whether the period during which such man was subject to military law is or is not less than twenty-one days or has or has not expired before the expiration of twenty-one days from the date of such absence.
+
+(3) Where a court of inquiry in relation to a man is assembled under subsection (1) or (2) of this section, the following provisions shall have effect—
+
+(*a*) the court shall inquire in the prescribed manner on oath or solemn declaration (which any member of such court is hereby authorised to administer) respecting the absence of such man and the deficiency (if any) in his arms, ammunition, equipment, instruments, service necessaries and clothing,
+
+(*b*) if the court is satisfied that such man has absented himself without leave or other sufficient cause, the following provisions shall have effect, that is to say:—
+
+(i) the court shall declare such absence and the period thereof, and the said deficiency (if any);
+
+(ii) a record of such declaration shall be entered by his commanding officer in the service books;
+
+(iii) in case such man is a man of the Permanent Defence Force or a man of the Reserve Defence Force called out on permanent service, such record shall, if such man does not afterwards surrender or is not apprehended, have the legal effect of a conviction by court-martial for desertion.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F187: Substituted (4.04.2022) by *Defence (Amendment) Act 2021* (33/2021), s. 10, S.I. No. 179 of 2022.
+
+### Chapter IV. Investigation and Summary Disposition of Charges, Remands for Court-martial and Dispensation with Trial by Court-martial. — Chapter IV. — Investigation and Summary Disposition of Charges, Remands for Court-martial and Dispensation with Trial by Court-martial.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C50: Certain investigations under Chap. IV (ss. 175-184) excluded by *Ombudsman (Defence Forces) Act* (36/2004), s. 5(1)(b) and (e)(i), as amended (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 11 and sch. 4 pt. 4, S.I. No. 254 of 2008.
+>
+> **Exclusions.**
+>
+> **5.**—(1) The Ombudsman shall not investigate any complaint concerning an action referred to in *section 6 (1)* or *6(2)*— ...
+>
+> (*b*) if the action has been or is the subject of an investigation under **[**Chapter IV of Part V of the Act of 1954**]** of the Act of 1954 or by a service tribunal and is not an action concerning delay or any other matter concerning the administration of such investigations,
+>
+> ...
+>
+> (*e*) if the action is one—
+>
+> **[**(i) involving the exercise of the right or power referred to in Article 13.6 of the Constitution or the remission of any forfeiture or punishment awarded under Chapter IV of Part V of the Act of 1954, by a court-martial or by the Courts-Martial Appeal Court, or**]**
+>
+> ...
+
+#### 175. Acquittal or conviction to be a bar to summary proceedings.
+
+**175.**—(1) Where—
+
+(*a*) a person has been charged with an offence against military law, and
+
+(*b*) (i) he has been acquitted or convicted of the offence by a civil court, or
+
+(ii) he has been acquitted of the offence by a court-martial, or
+
+(iii) he has been found guilty of the offence by a court-martial F188[...],
+
+he shall not be liable to be dealt with summarily for the offence under this Chapter.
+
+(2) Where—
+
+(*a*) a person subject to military law is charged with an offence against military law, and
+
+(*b*) the offence was dealt with under this Chapter either by being dismissed or being dealt with summarily,
+
+he shall not be liable to be dealt with summarily again under this Chapter in respect of that offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F188: Deleted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(2) and sch. 2, S.I. No. 254 of 2008.
+
+#### 176. Charge to be investigated without delay.
+
+**176.**—The charge against every person taken into service custody shall, without unnecessary delay, be investigated by the proper military authority, and as soon as possible either proceedings shall be taken for punishing him or such person shall be discharged from custody.
+
+#### 176A. Scheduled offences.
+
+F189[**176A.**— An offence of a disciplinary nature under any of the provisions of this Act specified in the Eleventh Schedule to this Act shall be a scheduled offence for the purposes of this Part of this Act.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F189: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 20(1), S.I. No. 254 of 2008.
+
+#### 177. Charges against officers and other specified persons.
+
+F190[**177.**— (1) A charge against a person subject to military law—
+
+(*a*) as an officer, or
+
+(*b*) as a non-commissioned officer in the rank of sergeant major or battalion quarter-master sergeant or their equivalent naval ranks,
+
+shall, subject to the giving of a notice under section 177A, in accordance with regulations made under section 184, be investigated by the person’s commanding officer or, F191[subject to subsection (1A),] if the Deputy Chief of Staff (Support) so directs, by such officer as the Deputy Chief of Staff (Support) may appoint for the purpose.
+
+F192[(1A) The Chief of Staff may, where the circumstances so require—
+
+(*a*) appoint an officer to investigate a charge for the purpose of subsection (1), or
+
+(*b*) direct the Deputy Chief of Staff (Operations) to appoint an officer for the said purpose.]
+
+(2) (*a*) Where a person is charged with a scheduled offence, the officer investigating the charge under subsection (1) of this section shall—
+
+(i) where the person charged holds the rank of lieutenant colonel or commander or any higher commissioned rank—
+
+(I) subject to paragraph (*b*) of this subsection, dismiss the charge if, in his discretion, he considers that it should not be proceeded with, or
+
+(II) remand the person charged for trial by court-martial if he considers that the charge should be proceeded with,
+
+(ii) in any other case—
+
+(I) subject to paragraph (*b*) of this subsection, dismiss the charge if, in his discretion, he considers that it should not be proceeded with, or
+
+(II) remand the person charged for trial by court-martial if he considers that the charge should be proceeded with, or
+
+(III) subject to this section and to regulations made under section 184, refer the charge for summary investigation by an authorised officer.
+
+(*b*) In the case of a charge against a person for a scheduled offence specified in Part II of the Eleventh Schedule to this Act, dismissal of the charge under subparagraph (i)(I) or (ii)(I) of paragraph (*a*) of this subsection or referral of the charge for summary investigation by an authorised officer under subparagraph (ii)(III) of the said paragraph (*a*) shall be subject to the prior consent of the Director and where the Director refuses consent in any such case the person charged shall be remanded for trial by court-martial.
+
+(3) (*a*) Where a person is charged with an offence other than a scheduled offence, the officer investigating the charge under subsection (1) of this section shall—
+
+(i) subject to the prior consent of the Director, dismiss the charge if the officer considers that it should not be proceeded with, or
+
+(ii) remand the person for trial by court-martial.
+
+(*b*) Where the Director refuses consent to the dismissal of the charge concerned, the person charged shall be remanded for trial by court-martial.
+
+(4) Where a person is remanded under this section for trial by court-martial, the matter shall be referred to the Director for his directions.
+
+(5) Where a person is charged with an offence for which the person would be required on conviction to be sentenced to imprisonment for life and the charge is investigated under this section, the person may, if he so wishes, be represented by counsel (within the meaning of section 196) or by an officer subject to military law.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F190: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 22, S.I. No. 254 of 2008, subject to transitional provisions in s. 3 and sch. 1, para. 3 .
+>
+> F191, F192: Inserted (17.07.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 14(a), (b), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E37: Previous affecting provision: section amended (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 3(1), commenced on enactment, subject to transitional provision in s. 16; substituted as per F-note above.
+
+#### 177A. Notice.
+
+F193[**177A.**— Where a charge against a person subject to military law is—
+
+F194[(*a*) to be investigated under section 177, or]
+
+(*b*) referred to an authorised officer for summary investigation under section 177(2)(a)(ii)(III),
+
+the person charged shall be entitled to receive, in the prescribed manner, at least 24 hours before the charge is to be so investigated—
+
+(i) written notice in the prescribed form of the date on which and the time and place at which the charge is to be so investigated, and
+
+(ii) a copy of the charge sheet containing particulars of the offence concerned, a list of the witnesses who will be giving evidence against the person and, where available, an abstract of the evidence to be given against the person and a copy of any witness statements.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F193: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 23, S.I. No. 254 of 2008.
+>
+> F194: Substituted (17.07.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 15, commenced on enactment.
+
+#### 177B. Right to elect for trial by court-martial.
+
+F195[**177B.**— (1) Before disposing of a charge summarily under section 177C, the authorised officer shall, in the prescribed manner—
+
+(*a*) ask the person charged whether he elects to have the charge disposed of summarily by the authorised officer or to be tried by court-martial, and
+
+(*b*) inform the person charged that he may obtain legal advice regarding the matter of the election and, where the person wishes to obtain such legal advice, that the hearing shall be adjourned for such period as the authorised officer considers reasonable (which period shall not in any case be less than 48 hours).
+
+(2) Where the person charged elects to be tried by court-martial, whether or not the person obtains legal advice, the authorised officer shall remand the person charged for trial by court-martial and shall refer the charge to the Director for his directions but otherwise shall proceed to dispose of the charge summarily under section 177C and may do so then and there.
+
+(3) Where two or more charges are brought against the person concerned, an election for trial by court-martial in respect of any of the charges shall take effect as an election in respect of all of them.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F195: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 23, S.I. No. 254 of 2008, subject to transitional provisions in s. 3 and sch. 1, para. 3.
+
+#### 177C. Summary disposal by authorised officer.
+
+F196[**177C.**— (1) This section applies where the person charged elects under section 177B to have the charge disposed of summarily by the authorised officer.
+
+(2) The authorised officer may, subject to subsection (5) of this section, dismiss the charge at any stage of the hearing.
+
+(3) If the authorised officer determines that the charge has not been proved he shall dismiss the charge.
+
+(4) The authorised officer may, after hearing the evidence or without hearing the evidence, remand the person charged for trial by court-martial and, in that case, shall refer the matter to the Director for his directions.
+
+(5) After hearing the evidence or, if the person charged consents to the attendance of witnesses being dispensed with and admits the offence charged, after reading a summary or abstract of the evidence, where the authorised officer makes a determination that the charge has been proved, he shall—
+
+(*a*) record the determination, and
+
+(*b*) subject to subsection (6) of this section—
+
+(i) in the case of a person subject to military law as an officer pursuant to section 118(*a*), (*b*) or (*c*) or as a non-commissioned officer in the rank of sergeant major or battalion quarter-master sergeant or their equivalent naval ranks, award one of the following punishments:
+
+(I) reduction on the applicable scale of pay of the person by one increment from a specified date for a specified period not exceeding one year;
+
+(II) deferral for a specified period not exceeding one year of the next increment due to the person on the applicable scale of pay of that person;
+
+(III) a fine not exceeding an amount equal to seven days’ pay of the person at the most recent applicable rate;
+
+(IV) severe reprimand;
+
+(V) reprimand,
+
+(ii) in the case of a person subject to military law as an officer pursuant to section 118(*d*) or (*e*), award one of the following punishments:
+
+(I) a fine not exceeding an amount equal to seven days’ pay of the person at the most recent applicable rate;
+
+(II) severe reprimand;
+
+(III) reprimand.
+
+(6) Where the authorised officer records a determination that two or more charges against the person have been proved, he shall award a single punishment in accordance with subsection (5) of this section in respect of the charges taken together.
+
+(7) The person charged may have an assisting person present at but not participating in the hearing before the authorised officer.
+
+(8) The evidence against the person charged taken before the authorised officer shall, if the person charged so demands, be taken on oath, and in that event there shall be administered to each witness the same oath or solemn declaration as that required to be taken by a witness before a court-martial, and for this purpose the authorised officer may administer oaths or solemn declarations.
+
+(9) Where the authorised officer makes a determination under this section that a charge has been proved and the offence charged occasioned any personal injury, expense or loss or destruction of, or damage to, any property, the authorised officer may, instead of or in addition to any punishment which he is authorised by this section to award in respect of the offence, order that there shall be paid by the person charged, as compensation for the personal injury, expense, loss, damage or destruction so occasioned, to any person who has suffered such personal injury, expense, loss, damage or destruction, such sum as the authorised officer may direct not exceeding the lesser of—
+
+(*a*) the amount required to make good such personal injury, expense, loss, damage or destruction, or
+
+(*b*) subject to subsection (10) of this section, an amount equal to twenty-eight days’ pay of the person charged.
+
+(10) A compensation order under subsection (9) of this section may provide for payment of the compensation by such instalments and at such times as the authorised officer shall in all the circumstances consider reasonable subject to a maximum deduction of seven days’ pay in any one calendar month.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F196: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 23, S.I. No. 254 of 2008.
+
+#### 177D. Remand for trial by court-martial.
+
+F197[**177D.**— (1) Where the person charged is remanded for trial by court-martial under section 177(2)(*a*)(ii)(II) or 177C and the matter is referred to the Director for his directions, the Director may direct that the charge (with such alterations, amendments, additions, substitutions and additional charges as he thinks fit) be referred back to an authorised officer and the authorised officer shall either dismiss or, subject to the right to elect to be tried by court-martial pursuant to section 177B, dispose of the charge or charges so referred back summarily in accordance with section 177C.
+
+(2) Where the person charged—
+
+(*a*) is remanded for trial by court-martial under section 177(2)(*a*)(ii)(II) or 177C and no direction is given under subsection (1) of this section, or
+
+(*b*) is remanded for trial by court-martial under section 177 (other than under section 177(2)(*a*)(ii)(II)) or 177B,
+
+the Director may—
+
+(i) subject to section 192, in respect of the charge concerned (with such alterations, amendments, additions, substitutions and additional charges as he thinks fit)—
+
+(I) direct that the matter be referred for trial by summary court-martial, or
+
+(II) direct that the Court-Martial Administrator convene a general court-martial or limited court-martial, as specified in his direction, to try the person charged,
+
+or
+
+(ii) withdraw the charge.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F197: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 23, S.I. No. 254 of 2008.
+
+#### 178. Charges against men.
+
+F198[**178.**— (1) This section and sections 178A to 178D apply to the summary disposal by a commanding officer of a charge against a person subject to military law as a man other than a sergeant major or battalion quarter-master sergeant or their equivalent naval ranks.
+
+(2) (*a*) Where a person referred to in subsection (1) of this section is charged with a scheduled offence, the commanding officer investigating the charge (including a charge referred to the commanding officer under section 179(2)(*b*) or 179B) shall—
+
+(i) subject to paragraph (*b*) of this subsection, dismiss the charge if, in his discretion, he considers that it should not be proceeded with, or
+
+(ii) remand the person for trial by court-martial if he considers that the charge should be proceeded with, or
+
+(iii) subject to this section and to regulations made under section 184, deal with the charge summarily.
+
+(*b*) In the case of a charge against a person referred to in subsection (1) of this section for a scheduled offence specified in Part II of the Eleventh Schedule to this Act, dismissal of the charge under subparagraph (i) of paragraph (*a*) of this subsection or the decision to dispose of the charge summarily under subparagraph (iii) of the said paragraph (*a*) shall be subject to the prior consent of the Director and where the Director refuses consent in any such case the person shall be remanded for trial by court-martial.
+
+(3) (*a*) Where a person is charged with an offence other than a scheduled offence, the commanding officer investigating the charge shall—
+
+(i) subject to the prior consent of the Director, dismiss the charge if he considers that it should not be proceeded with, or
+
+(ii) remand the person for trial by court-martial.
+
+(*b*) Where the Director refuses consent to the dismissal of the charge concerned, the person charged shall be remanded for trial by court-martial.
+
+(4) Where a person is remanded under this section for trial by court-martial, the matter shall be referred to the Director for his directions.
+
+(5) Where a person referred to in subsection (1) of this section is charged with an offence for which the person would be required on conviction to be sentenced to imprisonment for life and the charge is investigated under this section, the person may, if he so wishes, be represented by counsel (within the meaning of section 196) or by an officer subject to military law.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F198: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 24, S.I. No. 254 of 2008, subject to transitional provisions in s. 3 and sch. 1, para. 3 .
+>
+> **Editorial Notes:**
+>
+> E38: Previous affecting provision: section amended (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 3(2), commenced on enactment, subject to transitional provision in s. 16; substituted as per F-note above.
+
+#### 178A. Notice.
+
+F199[**178A.**— Where a charge against a person referred to in section 178(1) is to be investigated by a commanding officer, the person charged shall be entitled to receive, in the prescribed manner, at least 24 hours before the charge is to be so investigated—
+
+(*a*) written notice in the prescribed form of the date on which and the time and place at which the charge is to be so investigated, and
+
+(*b*) a copy of the charge sheet containing particulars of the offence concerned, a list of the witnesses who will be giving evidence against the person and copies of any available evidence to be given against the person and of any witness statements.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F199: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 25, S.I. No. 254 of 2008.
+
+#### 178B. Right to elect for trial by court-martial.
+
+F200[**178B.**—(1) Before disposing of a charge summarily under section 178C, the commanding officer shall, in the prescribed manner—
+
+(*a*) ask the person charged whether he elects to have the charge disposed of summarily by the commanding officer or to be tried by court-martial, and
+
+(*b*) inform the person charged that he may obtain legal advice regarding the matter of the election and, where the person wishes to obtain such legal advice, that the hearing shall be adjourned for such period as the commanding officer considers reasonable (which period shall not in any case be less than 48 hours).
+
+(2) Where the person charged elects to be tried by court-martial, whether or not the person obtains legal advice, the commanding officer shall remand the person for trial by court-martial and shall refer the charge to the Director for his directions but otherwise shall proceed to dispose of the charge summarily under section 178C and may do so then and there.
+
+(3) Where two or more charges are brought against the person concerned, an election for trial by court-martial in respect of any of the charges shall take effect as an election in respect of all of them.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F200: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 25, S.I. No. 254 of 2008, subject to transitional provisions in s. 3 and sch. 1, para. 3 .
+
+#### 178C. Summary disposal by commanding officer.
+
+F201[**178C.**—(1) This section applies where the person charged elects under section 178B to have the charge disposed of summarily by the commanding officer and, in the case of a scheduled offence specified in Part II of the Eleventh Schedule to this Act, the Director has consented to the charge being disposed of summarily.
+
+(2) The commanding officer may, subject to subsection (5) of this section, dismiss the charge at any stage of the hearing.
+
+(3) If the commanding officer determines that the charge has not been proved he shall dismiss the charge.
+
+(4) The commanding officer may, after hearing the evidence or without hearing the evidence, remand the person charged for trial by court-martial and, in that case, shall refer the matter to the Director for his directions.
+
+(5) After hearing the evidence or, if the person charged consents to the attendance of witnesses being dispensed with and admits the offence charged, having considered the available evidence, where the commanding officer makes a determination that the charge has been proved, he shall—
+
+(*a*) record the determination, and
+
+(*b*) subject to subsection (7) of this section—
+
+(i) in the case of a non-commissioned officer, award one of the following punishments:
+
+(I) reduction on the applicable scale of pay of the person by one increment from a specified date for a specified period not exceeding one year;
+
+(II) deferral for a specified period not exceeding one year of the next increment due to the person on the applicable scale of pay of that person;
+
+(III) a fine not exceeding an amount equal to seven days’ pay of the person at the most recent applicable rate;
+
+(IV) severe reprimand;
+
+(V) reprimand,
+
+(ii) in the case of a private or a seaman, award one or, subject to subsection (6) of this section, a combination of the following punishments:
+
+(I) reduction on the applicable scale of pay of the person by one increment from a specified date for a specified period not exceeding one year;
+
+(II) deferral for a specified period not exceeding one year of the next increment due to the person on the applicable scale of pay of the person;
+
+(III) a fine not exceeding an amount equal to seven days’ pay of the person at the most recent applicable rate;
+
+(IV) stoppage of local leave or shore leave, as the case may be, for a period or periods not exceeding a total of fourteen days, as may be prescribed under section 184;
+
+(V) additional duties as may be prescribed under section 184;
+
+(VI) a warning,
+
+(iii) in the case of a person subject to military law as a man pursuant to section 119(*c*) or (*d*), award one of the following punishments:
+
+(I) a fine not exceeding an amount equal to seven days’ pay of the person at the most recent applicable rate;
+
+(II) a warning.
+
+(6) Where the person charged is a private or seaman, save as provided for by subsection (10) of this section, only the following combinations of punishments may be awarded by a commanding officer:
+
+(*a*) in the case where the commanding officer awards a fine under subparagraph (ii)(III) of paragraph (*b*) of subsection (5) of this section, he may also award—
+
+(i) stoppage of local leave or shore leave under subparagraph (ii)(IV) of the said paragraph (*b*), or
+
+(ii) additional duties under subparagraph (ii)(V) of the said paragraph (*b*);
+
+or
+
+(*b*) in the case where the commanding officer awards stoppage of local leave or shore leave under subparagraph (ii)(IV) of paragraph (*b*) of subsection (5) of this section, he may also award additional duties under subparagraph (ii)(V) of the said paragraph (*b*).
+
+(7) Where the commanding officer records a determination that two or more charges against the person have been proved, he shall award a single punishment or combination of punishments in accordance with subsections (5) and (6) of this section in respect of the charges taken together.
+
+(8) The person charged may have an assisting person present at but not participating in the hearing before the commanding officer.
+
+(9) The evidence against the person charged taken before the commanding officer shall, if the person so demands, be taken on oath, and in that event there shall be administered to each witness the same oath or solemn declaration as that required to be taken by a witness before a court-martial, and for this purpose the commanding officer may administer oaths or solemn declarations.
+
+(10) Where the commanding officer makes a determination under this section that a charge has been proved and the offence charged occasioned any personal injury, expense, or loss or destruction of, or damage to, any property, the commanding officer may, instead of or in addition to any punishment which he is authorised by this section to award in respect of the offence, order that there shall be paid by the person charged, as compensation for the personal injury, expense, loss, damage or destruction so occasioned, to any person who has suffered such personal injury, expense, loss, damage or destruction, such sum as the commanding officer may direct not exceeding the lesser of—
+
+(*a*) the amount required to make good such personal injury, expense, loss, damage or destruction, or
+
+(*b*) subject to subsection (11) of this section, an amount equal to twenty-eight days’ pay of the person charged.
+
+(11) A compensation order under subsection (10) of this section may provide for payment of the compensation by such instalments and at such times as the commanding officer shall in all the circumstances consider reasonable subject to a maximum deduction of seven days’ pay in any one calendar month.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F201: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 25, S.I. No. 254 of 2008.
+
+#### 178D. Remand for trial by court-martial.
+
+F202[**178D.**—(1) Where the person charged is remanded for trial by court-martial under section 178(2)(*a*)(ii) or 178C and the matter is referred to the Director for his directions, the Director may direct that the charge (with such alterations, amendments, additions, substitutions and additional charges as he thinks fit) be referred back to the commanding officer and the commanding officer shall either dismiss or, subject to the right to elect to be tried by court-martial pursuant to section 178B, dispose of the charge or charges so referred back summarily in accordance with section 178C.
+
+(2) Where the person charged—
+
+(*a*) is remanded for trial by court-martial under section 178(2)(*a*)(ii) or 178C and no direction is given under subsection (1) of this section, or
+
+(*b*) is remanded for trial by court-martial under section 178 (other than under section 178(2)(*a*)(ii)) or 178B,
+
+the Director may—
+
+(i) subject to section 192, in respect of the charge concerned (with such alterations, amendments, additions, substitutions and additional charges as he thinks fit)—
+
+(I) direct that the matter be referred for trial by summary court-martial, or
+
+(II) direct that the Court-Martial Administrator convene a general court-martial or limited court-martial, as specified in his direction, to try the person charged,
+
+or
+
+(ii) withdraw the charge.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F202: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 25, S.I. No. 254 of 2008.
+
+#### 178E. Appeal to summary court-martial.
+
+F203[**178E.**—(1) This section and sections 178F and 178G shall apply in relation to a compensation order made under section 177C or 178C as they apply to a punishment awarded under the said section 177C or 178C, as the case may be, and for the purpose of such application references in this section and sections 178F and 178G to a punishment shall be construed as references to a compensation order.
+
+(2) A person in respect of whom, under section 177C or 178C—
+
+(*a*) a charge has been disposed of summarily, and
+
+(*b*) a determination made and punishment awarded by an authorised officer or commanding officer, as the case may be,
+
+may appeal in the manner prescribed by court-martial rules to the summary court-martial against the determination or the punishment or both the determination and the punishment.
+
+(3) An appeal under this section shall be brought—
+
+(*a*) within seven days beginning with the date on which the punishment was awarded ("the initial period"), or
+
+F204[(*b*) within such longer period as the summary court-martial may allow following an application made in that behalf to the summary court-martial before the end of the initial period.]
+
+(4) The respondent to an appeal under this section shall be the Director.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F203: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 26, S.I. No. 254 of 2008, subject to transitional provisions in s. 3 and sch. 1, para. 4(1).
+>
+> F204: Substituted (4.04.2022) by *Defence (Amendment) Act 2007* (33/2021), s. 12, S.I. No. 179 of 2022.
+>
+> **Editorial Notes:**
+>
+> E39: Power of military judge to refer question of law in an appeal made under section extended by *Courts-Martial Appeals Act 1983*(19/1983), s. 22A, as inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 11 and sch. 4, S.I. No. 254 of 2008.
+
+#### 178F. Hearing of appeal by summary court-martial.
+
+F205[**178F.**—(1) An appeal under section 178E against a determination shall be by way of—
+
+(*a*) a rehearing of the charge, and
+
+(*b*) except where section 178G(2) applies, a rehearing as regards punishment.
+
+(2) An appeal under section 178E against punishment shall be by way of a rehearing as regards punishment.
+
+(3) The appellant may, if he so wishes, be represented at the hearing of the appeal by counsel (within the meaning of section 196) or by an officer subject to military law.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F205: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 26, S.I. No. 254 of 2008, subject to transitional provisions in s. 3 and sch. 1, para. 4(1).
+
+#### 178G. Powers of summary court-martial.
+
+F206[**178G.**—(1) At a rehearing of the charge concerned under section 178F, the summary court-martial may confirm or quash the determination concerned.
+
+(2) Where the summary court-martial quashes a determination, or where there is more than one determination, every determination, made in respect of the appellant, the summary court-martial shall quash the punishment which relates to that determination or, as the case may be, those determinations.
+
+(3) At a rehearing as regards punishment under section 178F, the summary court-martial may—
+
+(*a*) confirm the punishment awarded,
+
+(*b*) quash that punishment, or
+
+(*c*) substitute any other punishment which it would have been within the powers of the authorised officer or commanding officer, as the case may be, who heard the charge against the appellant summarily, to award.
+
+(4) Where the summary court-martial substitutes a punishment under subsection (3)(*c*) of this section, the substituted punishment shall take effect on and from the date on which the original punishment was awarded or such other date as the military judge may order.
+
+(5) Where an appeal is made to the summary court-martial under section 178E, the military judge—
+
+(*a*) shall, if requested by the appellant or the respondent, unless the military judge considers the request frivolous, and
+
+(*b*) may, without request,
+
+refer any question of law arising in that appeal to the Courts-Martial Appeal Court for determination in accordance with the Courts-Martial Appeals Act 1983.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F206: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 26, S.I. No. 254 of 2008, subject to transitional provisions in s. 3 and sch. 1, para. 4(1).
+
+#### 179. Charges against privates and seamen.
+
+F207[**179.**—(1) A commanding officer may, in accordance with regulations made under section 184, delegate to any officer under his command the power of disposing of charges against privates or seamen under the command of the commanding officer in respect of any of the scheduled offences specified in Part I of the Eleventh Schedule to this Act and every officer to whom such power is delegated shall, for the purposes of this section, be a subordinate officer.
+
+(2) A subordinate officer investigating a charge against a private or seaman, who is subject to military law, of having committed any of the offences referred to in subsection (1) of this section shall—
+
+(*a*) dismiss the charge if, in his discretion, he considers that it should not be proceeded with, or
+
+(*b*) where the subordinate officer considers that the charge should be proceeded with, refer the charge to the commanding officer who shall deal with the charge in accordance with sections 178 to 178D, or
+
+(*c*) subject to this section and in accordance with regulations made under section 184, deal with the charge summarily.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F207: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 27, S.I. No. 254 of 2008.
+>
+> **Editorial Notes:**
+>
+> E40: Previous affecting provision: section amended (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 3(3), commenced on enactment, subject to transitional provision in s. 16; substituted as per F-note above.
+
+#### 179A. Notice.
+
+F208[**179A.**—Where a subordinate officer proposes to investigate a charge against a private or seaman in respect of any of the offences referred to in section 179(1), the private or seaman shall be entitled to receive, in the prescribed manner, at least 24 hours before the charge is to be so investigated—
+
+(*a*) written notice in the prescribed form of the date on which and the time and place at which the charge is to be so investigated, and
+
+(*b*) a copy of the charge sheet containing particulars of the offence concerned, a list of the witnesses who will be giving evidence against the person and copies of any available evidence to be given against the person and of any witness statements.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F208: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 28, S.I. No. 254 of 2008.
+
+#### 179B. Right to elect to have charge disposed of summarily by commanding officer.
+
+F209[**179B.**—(1) Before disposing of a charge summarily under section 179C, the subordinate officer shall, in the prescribed manner, ask the private or seaman whether he elects to have the charge disposed of summarily by the subordinate officer or to have the charge referred to the commanding officer and, if the private or seaman elects to have the charge so referred, the subordinate officer shall refer the charge to the commanding officer who shall deal with the charge in accordance with sections 178 to 178D but otherwise the subordinate officer shall proceed to dispose of the charge summarily under section 179C and may do so then and there.
+
+(2) Where two or more charges are brought against a private or seaman, an election to have any of the charges dealt with summarily by the commanding officer shall take effect as an election in respect of all of them.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F209: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 28, S.I. No. 254 of 2008.
+
+#### 179C. Summary disposal by subordinate officer.
+
+F210[**179C.**—(1) This section applies where a private or seaman elects under section 179B to have the charge disposed of summarily by the subordinate officer.
+
+(2) The subordinate officer may, subject to subsection (5) of this section, dismiss the charge at any stage of the hearing.
+
+(3) If the subordinate officer determines that the charge has not been proved he shall dismiss the charge.
+
+(4) The subordinate officer may, after hearing the evidence or without hearing the evidence, refer the charge to the commanding officer who shall deal with the charge in accordance with sections 178 to 178D.
+
+(5) After hearing the evidence or, if the private or seaman consents to the attendance of witnesses being dispensed with and admits the offence charged, having considered the available evidence, where the subordinate officer makes a determination that the charge has been proved, he shall—
+
+(*a*) record the determination, and
+
+(*b*) subject to subsections (6) and (7) of this section, award one or a combination of the following punishments:
+
+(i) a fine not exceeding an amount equal to three days’ pay of the private or seaman at the most recent applicable rate;
+
+(ii) stoppage of local leave or shore leave, as the case may be, for a period or periods not exceeding a total of seven days, as may be prescribed under section 184;
+
+(iii) additional duties as may be prescribed under section 184;
+
+(iv) a warning.
+
+(6) Save as provided for by subsection (10) of this section, only the following combinations of punishments may be awarded by a subordinate officer:
+
+(*a*) in the case where the subordinate officer awards a fine under subparagraph (i) of paragraph (*b*) of subsection (5) of this section, he may also award—
+
+(i) stoppage of local leave or shore leave under subparagraph (ii) of the said paragraph (*b*), or
+
+(ii) additional duties under subparagraph (iii) of the said paragraph (*b*);
+
+or
+
+(*b*) in the case where the subordinate officer awards stoppage of local leave or shore leave under subparagraph (ii) of paragraph (*b*) of subsection (5) of this section, he may also award additional duties under subparagraph (iii) of the said paragraph (*b*).
+
+(7) Where the subordinate officer records a determination that two or more charges against the private or seaman have been proved, he shall award a single punishment or combination of punishments in accordance with subsections (5) and (6) of this section in respect of the charges taken together.
+
+(8) The private or seaman may have an assisting person present at but not participating in the hearing before the subordinate officer.
+
+(9) The evidence against the private or seaman taken before the subordinate officer shall, if the private or seaman so demands, be taken on oath, and in that event there shall be administered to each witness the same oath or solemn declaration as that required to be taken by a witness before a court-martial, and for this purpose the subordinate officer may administer oaths and solemn declarations.
+
+(10) Where the subordinate officer makes a determination under this section that a charge has been proved and the offence charged occasioned any personal injury, expense or loss or destruction of, or damage to, any property, the subordinate officer may, instead of or in addition to any punishment which he is authorised by this section to award in respect of the offence, order that there shall be paid by the private or seaman, as compensation for the personal injury, expense, loss, damage or destruction so occasioned, to any person who has suffered such personal injury, expense, loss, damage or destruction, such sum as the subordinate officer may direct not exceeding the lesser of—
+
+(*a*) the amount required to make good such personal injury, expense, loss, damage or destruction, or
+
+(*b*) an amount equal to seven days’ pay of the private or seaman.
+
+(11) A compensation order under subsection (10) of this section may provide for payment of the compensation by such instalments and at such times as the subordinate officer shall in all the circumstances consider reasonable.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F210: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 28, S.I. No. 254 of 2008.
+
+#### 179D. Appeal to commanding officer.
+
+F211[**179D.**—(1) This section and section 179E shall apply in relation to a compensation order made under section 179C as they apply to a punishment awarded under the said section 179C, and for the purpose of such application references in this section and section 179E to a punishment shall be construed as references to a compensation order.
+
+(2) A private or seaman in respect of whom, under section 179C—
+
+(*a*) a charge has been disposed of summarily, and
+
+(*b*) a determination made and punishment awarded by a subordinate officer,
+
+may appeal in the prescribed manner to a commanding officer against the determination or the punishment awarded (or both).
+
+(3) An appeal under this section shall be brought—
+
+(*a*) within two days beginning on the date on which the punishment was awarded ("the initial period"), or
+
+(*b*) within such longer period as the commanding officer of the private or seaman concerned may allow, by leave given before the end of the initial period, which longer period shall not exceed five days beginning on the date on which the punishment was awarded.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F211: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 29, S.I. No. 254 of 2008, subject to transitional provisions in s. 3 and sch. 1, para. 4(2) .
+
+#### 179E. Hearing of appeals by commanding officer.
+
+F212[**179E.**—(1) An appeal under section 179D against a determination shall be by way of a rehearing of the charge and a rehearing as regards punishment.
+
+(2) An appeal under section 179D against punishment shall be by way of a rehearing as regards punishment.
+
+(3) The appellant is entitled to have an assisting person present at but not participating in the hearing of the appeal.
+
+(4) Subsections (2) to (11) of section 178C and section 178D shall apply, with any necessary modifications, to the hearing of an appeal under this section as they apply for the purpose of the summary disposal of a charge under the said section 178C.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F212: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 29, subject to transitional provisions in s. 3 and sch. 1, para. 4(2), S.I. No. 254 of 2008.
+
+#### 179F. Suspension of operation of certain punishments pending appeal.
+
+F213[**179F.**—The operation of a punishment awarded (other than stoppage of local leave or shore leave) or a compensation order made under this Chapter shall be suspended—
+
+(*a*) in any case until the time for bringing an appeal (whether against the determination, punishment or compensation order, as the case may be) under section 178E or 179D has expired, and
+
+(*b*) in a case where the appeal is brought within that time, until the appeal or, in the case of an appeal under section 179D, any further appeal is finally determined (and the determination, punishment or compensation order, as the case may be, has been confirmed) or abandoned or the time for bringing any further appeal has expired.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F213: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 30, S.I. No. 254 of 2008.
+
+#### 180. Revision of summary awards.
+
+**180.**—F214[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F214: Repealed (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(1), S.I. No. 254 of 2008, subject to transitional provisions in s. 3 and sch. 1, para. 5.
+
+#### 181. Trial of accused without preliminary investigation.
+
+**181.**—(1) Where an offence against military law is alleged to have been committed by a person subject to military law and a court of inquiry has been held in respect of matters relating to the alleged offence, an officer having power to convene a court-martial may, if satisfied that there is *prima facie* evidence of the commission of such offence, order such person to be tried by court-martial without any previous investigation of the charge against such person.
+
+(2) Where a person is ordered to be tried by court-martial under subsection (1) of this section, a statement of the evidence of the witnesses proposed to be called for the prosecution at the trial and a copy of the proceedings and findings of the court of inquiry shall be delivered to him before the trial.
+
+#### 182. Confession of desertion or fraudulent enlistment.
+
+**182.**—(1) Where a man of the Permanent Defence Force or a man of the Reserve Defence Force F215[called out on permanent service or deployed on military service under section 91A] signs a confession that he has been guilty of the offence of desertion or of fraudulent enlistment, a prescribed military authority may by order dispense with his trial by court-martial, and may by such order or a subsequent order do any one or more of the following things, that is to say:—
+
+(*a*) reduce him, if he holds a non-commissioned army rank, to any lower non-commissioned army rank or, if he holds a non-commissioned naval rank, to any lower non-commissioned naval rank;
+
+(*b*) forfeit in the prescribed manner his seniority of rank;
+
+(*c*) in case any expense, loss, damage or destruction is occasioned by the commission of such offence, direct that there shall be paid by him as compensation for such expense, loss, damage or destruction such sum (not exceeding the amount required to make good such expense, loss, damage or destruction) as may be specified in such order.
+
+(2) When a man of the Permanent Defence Force or a man of the Reserve Defence Force F216[called out on permanent service or deployed on military service under section 91A] signs a confession that he has been guilty of the offence of desertion or fraudulent enlistment and evidence of the truth or falsehood of such confession cannot then be conveniently obtained, the record of such confession signed by the commanding officer of the man shall be entered in the service books, and such man shall continue to do duty in the service corps in which he may then be serving or to which he may be transferred until he is discharged or, if he is a man of the Permanent Defence Force, is transferred to the Reserve Defence Force or until legal proof can be obtained of the truth or falsehood of such confession.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F215, F216: Substituted (4.04.2022) by *Defence (Amendment) Act 2021* (33/2021), s. 11, S.I. No. 179 of 2022.
+
+#### 183. Summoning of civilian witnesses before authorised officers and commanding officers.
+
+**183.**—(1) Every person not subject to military law required to give evidence before an authorised officer or a commanding officer investigating a charge under this Chapter may be summoned or ordered in the prescribed manner to attend as a witness before the authorised officer or the commanding officer.
+
+(2) If any person not subject to military law on being duly summoned or ordered to attend as a witness before an authorised officer or a commanding officer and after payment or tender of the reasonable expenses of his attendance makes default in attending, he shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding F217[€2,000].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F217: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(2) and sch. 2, S.I. No. 254 of 2008. A fine of €2,000 translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(3) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> **Modifications (not altering text):**
+>
+> C51: Application of section extended (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 8(2), commenced on enactment.
+>
+> **Production of documents in evidence.**
+>
+> **8.**— ...
+>
+> (2) A person summoned or ordered under section 183 (1) of the Principal Act to attend as a witness before an authorised officer or a commanding officer investigating a charge under Chapter IV of Part V of that Act may by letter signed by such authorised officer or commanding officer, as may be appropriate, be required to produce to such officer any document, record or other thing in the person’s power or control being a document. record or other thing which is either specified in the letter or is of a class or description so specified and being in either case a document, record or other thing which such officer considers necessary for the purposes of the investigation.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E41: Power pursuant to section exercised (1.01.1955) by *Defence Forces (Summoning of Civilian Witnesses) Regulations 1954* (S.I. No. 297 of 1954).
+>
+> E42: Previous affecting provision: fine in subs. (2) increased (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 7, commenced on enactment, subject to transitional provision in s. 16; further increased as per F-note above.
+
+F218[*Regulations*]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F218: Inserted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 31, commenced as per s. 1(3).
+
+#### 184. Regulations in relation to investigation and summary disposal of charges.
+
+F219[**184.**—(1) For the purposes of this Chapter, the Minister may make regulations, not inconsistent with this Act, in relation to all or any of the following matters:
+
+(*a*) the investigation and summary disposal under this Chapter of charges against persons subject to military law, including the exercise of the right to elect for trial by court-martial, which regulations may include:
+
+(i) the practice and procedure to be followed;
+
+(ii) the form of notices and the giving of such notices under this Chapter;
+
+(iii) the summoning of witnesses and the production of relevant documents and other things;
+
+(iv) evidence;
+
+(v) the administration of oaths or solemn declarations to witnesses in a case where the person charged is subject to military law and demands that the witnesses be sworn;
+
+(*b*) where a person is remanded for trial by court-martial pursuant to this Chapter, the appointment of an officer to take a written summary of evidence in the case;
+
+(*c*) the officers in whom are to be vested the powers and duties of authorised officers and commanding officers and the officers in whom may be vested by delegation the powers and duties of subordinate officers;
+
+(*d*) the delegation to a subordinate officer of power to deal summarily with a case;
+
+(*e*) the making of an application to the Director to deal summarily with a charge against a person for an offence specified in Part II of the Eleventh Schedule to this Act;
+
+(*f*) the referral of charges for summary investigation to an authorised officer under section 177(2);
+
+(*g*) the reference back by the Director of charges for summary disposal;
+
+(*h*) the making and retention of records of proceedings and determinations made in respect of the investigation and summary disposal of charges;
+
+(*i*) the effective dates of, and the carrying into effect of, punishments awarded and compensation orders made under section 177C, 178C or 179C, as the case may be;
+
+(*j*) the stoppage of local leave or shore leave under section 178C or 179C, including the times at which any such stoppage may be imposed;
+
+(*k*) the additional duties which may be awarded by a commanding officer under section 178C or by a subordinate officer under section 179C, including the nature of those duties and the period for which and the times at which those duties may be performed which period shall not in any case exceed three hours per day for seven days;
+
+(*l*) the making of an appeal by a private or seaman to a commanding officer under section 179D;
+
+(*m*) any person, matter or thing referred to as prescribed or to be prescribed;
+
+(*n*) any other matter or thing necessary for carrying this Chapter into effect.
+
+(2) Every regulation made under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next twenty-one days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done under the regulation.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F219: Substituted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 31, commenced on enactment as per s. 1(3).
+>
+> **Editorial Notes:**
+>
+> E43: Previous affecting provision: power pursuant to section exercised (1.09.2008) by *Rules of Procedure (Defence Forces) 2008* (S.I. No. 204 of 2008); revoked (2.12.2019) by *Rules of Procedure (Defence Forces) 2019* (S.I. No. 555 of 2019), rule 73(1) and sch., in effect as per rule 1(2), subject to transitional provision in rule 73(2).
+>
+> E44: Power pursuant to section exercised (1.01.1955) by *Defence Forces (Summoning of Civilian Witnesses) Regulations 1954* (S.I. No. 297 of 1954).
+
+### Chapter IVA Court-Martial Administrator — Chapter IVA — Court-Martial Administrator
+
+#### F220[184A. Appointment of Court-Martial Administrator.
+
+**184A.**—(1) An officer of the Permanent Defence Force not below the army rank of colonel or the equivalent naval rank may by warrant of the Judge Advocate-General be appointed as the Court-Martial Administrator.
+
+(2) A warrant under this section may be made subject to such restrictions, reservations, exceptions and conditions as the Judge Advocate-General thinks fit including terms and conditions relating to the delegation by the Court-Martial Administrator of his functions under this Act.
+
+(3) A warrant under this section—
+
+(*a*) may be addressed to an officer by name or by designation of his office or partly in one way and partly in another, and
+
+(*b*) may or may not, according to the terms of the warrant and the mode in which it is addressed—
+
+(i) be limited to an officer named, or
+
+(ii) be extended to a person for the time being performing the duties of the office named, or
+
+(iii) be extended to the successors in office of an officer.
+
+(4) The Court-Martial Administrator shall be independent in the performance of his functions.
+
+(5) The Court-Martial Administrator shall neither report on, nor be the subject of any report in respect of, the performance of his functions under this Act.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F220: Inserted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 32, commenced as per s. 1(3).
+
+#### 184B. Functions of Court-Martial Administrator.
+
+F221[**184B.**—(1) The Court-Martial Administrator shall manage and control generally the administration and business of courts-martial and shall perform such other functions as may be specified or prescribed by or under this Act.
+
+(2) The Court-Martial Administrator shall act under the general supervision of the Judge Advocate-General.
+
+(3) The Court-Martial Administrator shall provide to the Judge Advocate-General such information in relation to the performance of his functions as the Judge Advocate-General may from time to time require.
+
+(4) The Court-Martial Administrator shall—
+
+(*a*) as directed by the Director under this Part, convene general courts-martial and limited courts-martial and refer any charge or other matter to the summary court-martial, and
+
+(*b*) in the case of a general court-martial or limited court-martial, specify the members of the court-martial board.
+
+(5) Subject to the terms of the warrant under section 184A, the functions of the Court-Martial Administrator may be delegated by him from time to time to any other person or persons or class or classes of persons for such purposes as may be specified in the warrant.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F221: Inserted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 32, commenced as per s. 1(3).
+
+### Chapter IVB Director of Military Prosecutions — Chapter IVB — Director of Military Prosecutions
+
+#### 184C. Appointment of Director of Military Prosecutions.
+
+F222[**184C.**—(1) Subject to this Chapter, the Government shall appoint an officer of the Permanent Defence Force F223[, or a qualified person other than an officer of the Permanent Defence Force,] to be the Director of Military Prosecutions (in this Act referred to as the "Director").
+
+(2) Subject to this Chapter, an officer F224[, or a person other than an officer of the Permanent Defence Force,] who is a practising barrister or practising solicitor of not less than 10 years standing shall be qualified for appointment as the Director.
+
+(3) For the purposes of this section service for any period in a position in the full-time service of the State (including as a member of the Permanent Defence Force and as a civil servant within the meaning of the Civil Service Regulation Act 1956) for which qualification as a barrister or solicitor was a requirement shall be deemed to be practice as a barrister or a solicitor, as the case may be, for that period and an officer, while holding that position, shall be deemed to be a practising barrister or a practising solicitor, as the case may be.
+
+F225[(3A) For the purposes of this section—
+
+(*a*) service, in respect of which a determination has been made in accordance with section 184D(3A), shall be deemed to be practice as a barrister or a solicitor, as the case may be, for the period to which that service relates, and
+
+(*b*) the officer in respect of whom that service relates shall be deemed to be a practising barrister or a practising solicitor, as the case may be, while holding the position to which that service relates.]
+
+F226[(3B) For the purposes of this section, having regard to the appointment of a person other than an officer of the Permanent Defence Force—
+
+(*a*) service for any period in a position in the full-time service of the State (including as a member of the Permanent Defence Force and as a civil servant within the meaning of the Civil Service Regulation Act 1956) for which qualification as a barrister or solicitor was a requirement shall be deemed to be practice as a barrister or a solicitor, as the case may be, for that period, and
+
+(*b*) a person, other than an officer of the Permanent Defence Force, while holding that position, shall be deemed to be a practising barrister or a practising solicitor, as the case may be.]
+
+(4) The Director shall not be below the army rank of colonel or the equivalent naval rank.]
+
+F227[(5) Where a qualified person, referred to in subsection (1), is to be appointed under subsection (1) to be the Director that person shall, for the purposes of subsection (4), be nominated for appointment as a commissioned officer under section 42 at the rank specified in subsection (4).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F222: Inserted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 33, commenced as per s. 1(3).
+>
+> F223: Inserted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 3(1), S.I. No. 568 of 2011.
+>
+> F224: Inserted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 3(2), S.I. No. 568 of 2011.
+>
+> F225: Inserted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 3(3), S.I. No. 568 of 2011.
+>
+> F226: Inserted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 3(4), S.I. No. 568 of 2011.
+>
+> F227: Inserted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 3(5), S.I. No. 568 of 2011.
+
+#### 184D. Committee.
+
+F228[**184D.**—(1) For the purpose of identifying officers, F229[and persons other than officers,] and informing the Minister of their suitability for appointment as Director, there shall be established a committee consisting of—
+
+(*a*) the Chief of Staff,
+
+(*b*) a Judge of the High Court, nominated by the President of the High Court, and
+
+(*c*) the Director of Public Prosecutions.
+
+(2) (*a*) In the case of the person specified in subsection (1)(*b*) of this section signifying at any time unwillingness or inability to act for any period as a member of the committee, the President of the High Court may nominate any other available Judge of the High Court to be a member of the committee in place of that person for that period.
+
+(*b*) In the case of the Director of Public Prosecutions signifying at any time unwillingness or inability to act for any period as a member of the committee, the Minister may, after consultation with the Attorney General, appoint as a member of the committee in place of the Director of Public Prosecutions, for that period, a practising barrister nominated by the General Council of the Bar of Ireland or a practising solicitor nominated by the Law Society of Ireland.
+
+(3) The committee may adopt such procedures as it considers appropriate to carry out its functions under this section.
+
+F230[(3A) A committee established under this section, having considered—
+
+(*a*) the service of an officer, other than an officer referred to in section 184C(3), who is a qualified barrister or solicitor in a position in the full-time service of the State (including as a member of the Permanent Defence Force and as a civil servant within the meaning of the Civil Service Regulation Act 1956) for any period following that qualification, and
+
+(*b*) the duties and role discharged by the officer in relation to the service, during that period,
+
+may determine that it is satisfied that—
+
+(i) such duties and role are substantially similar in substance and effect to those discharged by an officer referred to in section 184C(3), and
+
+(ii) such duties and role were carried out by the officer on a day to day basis throughout that period.]
+
+(4) The committee shall, whenever so requested by the Minister, select an officer or officers, F231[or, as the case may be, one, or more than one, person other than an officer,] for appointment under section 184C and shall inform the Minister of the selection made and of his or their suitability for the appointment.
+
+(5) The Government shall not appoint F232[an officer, or a person other than an officer, to be the Director unless the officer, or person,] was selected or amongst those selected by the committee pursuant to a request under subsection (4) of this section in relation to that appointment, but—
+
+(*a*) if the committee is unable to select F233[a suitable officer or person other than an officer,] pursuant to a particular request under that subsection, or
+
+(*b*) if the Government decide not to appoint to be the Director F234[the officer or any of the officers, or such person or any of such persons selected by the committee] pursuant to a particular request under that subsection,
+
+then either—
+
+(i) the Government shall F235[ appoint an officer, or as the case may be, a person other than an officer, to be the Director,] who was selected or amongst those selected by the committee pursuant to a previous request (if any) under that subsection in relation to that appointment, or
+
+(ii) the Minister shall make a further request to the committee under that subsection and F236[the Government shall appoint an officer, or such person, to be the Director] who was selected or amongst those selected by the committee pursuant to that request or pursuant to another request under that subsection in relation to that appointment.
+
+(6) All proceedings of the committee and all communications to the committee shall be confidential and shall not be disclosed except for the purposes of this Chapter.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F228: Inserted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 33, commenced as per s. 1(3).
+>
+> F229: Inserted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 4(1), S.I. No. 568 of 2011.
+>
+> F230: Inserted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 4(2), S.I. No. 568 of 2011.
+>
+> F231: Inserted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 4(3), S.I. No. 568 of 2011.
+>
+> F232: Substituted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 4(4)(a), S.I. No. 568 of 2011.
+>
+> F233: Substituted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 4(4)(b), S.I. No. 568 of 2011.
+>
+> F234: Substituted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 4(4)(c), S.I. No. 568 of 2011.
+>
+> F235: Substituted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 4(4)(d), S.I. No. 568 of 2011.
+>
+> F236: Substituted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 4(4)(e), S.I. No. 568 of 2011.
+
+#### 184E. Terms and conditions of appointment.
+
+F237[**184E.**—(1) Subject to this Chapter, the Director shall hold and vacate office on the terms and conditions determined by the Minister with the consent of the Minister for Finance.
+
+(2) The Director shall be independent in the performance of his functions.
+
+(3) The Director shall neither report on, nor be the subject of any report in respect of, the performance of his functions under this Act.
+
+(4) The Attorney General, the Director of Public Prosecutions and the Director may consult together from time to time in relation to matters pertaining to the functions of the Director.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F237: Inserted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 33, commenced as per s. 1(3).
+
+#### 184F. Appointment of court-martial prosecutor.
+
+F238[**184F.**—(1) The Director may appoint in writing any of the following persons to be a prosecutor in a court-martial (in this Act referred to as a "court martial prosecutor"):
+
+(*a*) a member of the Defence Forces who at the date of appointment under this subsection is a practising solicitor or practising barrister;
+
+(*b*) a practising solicitor nominated by the Attorney General;
+
+(*c*) a practising barrister nominated by the Attorney General.
+
+(2) A court-martial prosecutor shall hold and vacate office in accordance with such terms and conditions as may be determined by the Director.
+
+(3) A court-martial prosecutor may, unless the Director otherwise directs, exercise any function of the Director.
+
+(4) In this section—
+
+"practising barrister" has the same meaning as it has in the Legal Services Regulation Act 2015;
+
+"practising solicitor" has the same meaning as it has in the Legal Services Regulation Act 2015.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F238: Substituted (6.11.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 16(1), S.I. No. 609 of 2024, subject to transitional provisions in subs. (2).
+>
+> **Editorial Notes:**
+>
+> E45: Previous affecting provision: section inserted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 33, commenced as per s. 1(3); substituted (6.11.2024) as per F-note above.
+
+#### 184G. Prosecution of offences.
+
+F239[**184G.**—(1) This section applies where a charge has been referred to the Director under any of the provisions of this Act.
+
+(2) When a charge for an offence under this Act is referred to the Director he may exercise any of the powers conferred on him by any of the provisions of this Act.
+
+(3) Where the Director directs that a specified offence or offences be tried by court-martial, he shall also decide the class of court-martial that is to try the offence or offences concerned and shall direct the Court-Martial Administrator accordingly.
+
+(4) Where a direction has been given by the Director for the trial by court-martial of a person accused of an offence against military law, the offence shall be taken to be prosecuted at the suit of the Director who shall be responsible for the conduct of all prosecutions at court-martial, and accordingly the Director shall have, in respect of that offence, in addition to any other powers conferred on him by or under this Act, powers similar to those conferred by law on the Director of Public Prosecutions in respect of offences triable on indictment before a civil court.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F239: Inserted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 33, commenced as per s. 1(3).
+
+#### 184H. Removal of Director from office.
+
+F240[**184H.**—(1) Subject to section 184I, the Director may be removed from office by the Government but only for stated reasons, including because—
+
+(*a*) he has become incapable, through ill-health, either physical or mental, of effectively performing the functions of the office,
+
+(*b*) he has failed to perform the functions of the office with due diligence and effectiveness,
+
+(*c*) he has engaged in conduct that brings discredit on the office or that may prejudice the proper performance of the functions of the office, or
+
+(*d*) his removal from office would, in the Government’s opinion, be in the best interests of the Defence Forces.
+
+(2) On notifying the Director under section 184I(1) that the Government intends to consider removing him from office, the Government may immediately suspend the Director from duty.
+
+(3) The suspension from duty continues until the Government makes a decision in relation to the matter under consideration, but only if there is no undue delay in taking steps under section 184I or in making that decision.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F240: Inserted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 33, commenced as per s. 1(3).
+
+#### 184I. Steps to be taken before removal of Director.
+
+F241[**184I.**—(1) Before considering the Director’s removal from office under section 184H the Government shall—
+
+(*a*) notify the Director that the Government intends to consider the matter and include in the notice a statement of their reasons for doing so, and
+
+(*b*) give the Director an opportunity to make representations as to why he ought not to be removed from office.
+
+(2) The Government may, if they consider it necessary or appropriate to do so, appoint a Judge of the High Court nominated by the President of the High Court to—
+
+(*a*) hold an inquiry into any matter giving rise to a notification under subsection (1) of this section, and
+
+(*b*) report to the Government on the findings of the inquiry.
+
+(3) A Judge of the High Court appointed under this section to hold an inquiry may do one or more of the following:
+
+(*a*) direct a person, by notice delivered to the person, to provide any information that is specified in the notice and is required for the purposes of the inquiry;
+
+(*b*) direct any person, by notice delivered to the person, to produce at the time and place specified in the notice a document specified in the notice that is relevant to the inquiry and is in the person’s power or control;
+
+(*c*) summon witnesses to attend the inquiry;
+
+(*d*) direct a witness to answer a question put to the witness at the inquiry;
+
+(*e*) give any other direction that appears to the Judge appointed under this section to be necessary, just and reasonable for the purposes of the inquiry;
+
+(*f*) administer oaths and affirmations to witnesses and examine witnesses attending the inquiry.
+
+(4) A person whose evidence has been, is being, or is to be given before an inquiry under this section, or who produces or sends a document to the inquiry pursuant to a summons or direction, as the case may be, under subsection (3) of this section or who is required by such a summons or direction to give evidence or produce a document to the inquiry or to attend before the inquiry and there to give evidence or produce a document, shall be entitled to the same privileges and immunities as if the person were a witness before the High Court.
+
+(5) If a person fails or refuses to comply with or disobeys a summons or direction under subsection (3) of this section, the High Court may, on application by the Judge appointed under this section—
+
+(*a*) order the person in relation to whom the application was made to comply with the direction or, in the case of a summons, to attend the inquiry, and
+
+(*b*) make such other (if any) order as it considers necessary and just to enable the direction to have full effect or, in the case of a summons, to ensure the attendance at the inquiry.
+
+(6) A person who—
+
+(*a*) is notified under subsection (3) of this section and who, without lawful excuse, refuses or fails to comply with a direction under paragraph (*a*) or (*b*) of that subsection,
+
+(*b*) fails, without lawful excuse, to attend an inquiry in response to a summons under subsection (3)(*c*) of this section,
+
+(*c*) refuses to answer a question that the Judge of the High Court conducting the inquiry may legally direct the person to answer, or
+
+(*d*) does or omits to do in relation to the inquiry any other thing the doing or omission of which would, if the inquiry had been a proceeding in the High Court, have been contempt of that Court,
+
+is guilty of an offence and is liable on summary conviction to a fine not exceeding €3,000 or to imprisonment for a term not exceeding 6 months or both.
+
+(7) If an inquiry is held, the Government shall—
+
+(*a*) consider the report on the findings of the inquiry,
+
+(*b*) make a copy of the report available to the Director whose removal from office is the subject of the report, and
+
+(*c*) give the Director an opportunity to make representations relating to the report.
+
+(8) As soon as practicable after the Director is removed from office under section 184H, the Minister shall cause a statement of the reasons for the removal to be laid before each House of the Oireachtas.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F241: Inserted (21.04.2007) by *Defence (Amendment) Act 2007*(24/2007), s. 33, commenced as per s. 1(3). A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(3) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### Chapter IVC Military Judge — Chapter IVC — Military Judge
+
+#### F242[184J. Military judge.
+
+**184J.**—(1) The President may appoint, on the advice of the Government, one, or more than one, qualified officer of the Permanent Defence Force, F243[or a qualified person other than an officer of the Permanent Defence Force,] to be a military judge.
+
+(2) An officer, F244[or a person other than an officer of the Permanent Defence Force,] who is a practising barrister or a practising solicitor of not less than 10 years standing shall be qualified for appointment as a military judge.
+
+(3) For the purposes of this section service for any period in a position in the full-time service of the State (including as a member of the Permanent Defence Force and as a civil servant within the meaning of the Civil Service Regulation Act 1956) for which qualification as a barrister or solicitor was a requirement shall be deemed to be practise as a barrister or a solicitor, as the case may be, for that period and an officer, while holding that position, shall be deemed to be a practising barrister or a practising solicitor, as the case may be.
+
+F245[(3A) For the purposes of this section—
+
+(*a*) service, in respect of which a determination has been made in accordance with section 184K(2A), shall be deemed to be practice as a barrister or a solicitor as the case may be, for the period to which that service relates, and
+
+(*b*) the officer in respect of whom that service relates shall be deemed to be a practising barrister or a practising solicitor, as the case may be, while holding the position to which that service relates.]
+
+F246[(3B) For the purposes of this section, having regard to the appointment of a person other than an officer of the Permanent Defence Force—
+
+(*a*) service for any period in a position in the full-time service of the State (including as a member of the Permanent Defence Force and as a civil servant within the meaning of the Civil Service Regulation Act 1956) for which qualification as a barrister or solicitor was a requirement shall be deemed to be practice as a barrister or a solicitor, as the case may be, for that period, and
+
+(*b*) a person other than an officer of the Permanent Defence Force, while holding that position, shall be deemed to be a practising barrister or a practising solicitor, as the case may be.]
+
+(4) The military judge, or where there is more than one military judge, the Chief Military Judge, shall not be below the army rank of colonel or the equivalent naval rank.]
+
+F247[(5) Where a qualified person, referred to in subsection (1), is to be appointed under subsection (1) to be a military judge that person shall, for the purposes of subsection (4), be nominated for appointment as a commissioned officer under section 42 at the rank specified in subsection (4).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F242: Inserted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 34, commenced as per s. 1(3).
+>
+> F243: Inserted (9.11.2011) by *Defence Amendment Act 2011*(17/2011), s. 5(1), S.I. No. 568 of 2011.
+>
+> F244: Inserted (9.11.2011) by *Defence (Amendment) Act 2011*(17/2011, s. 5(2), S.I. No. 568 of 2011.
+>
+> F245: Inserted (9.11.2011) by *Defence (Amendment) Act 2011*(17/2011), s. 5(3), S.I. No. 568 of 2011.
+>
+> F246: Inserted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 5(4), S.I. No. 568 of 2011.
+>
+> F247: Inserted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011) s. 5(5), S.I. No. 568 of 2011.
+
+#### 184K. Committee.
+
+F248[**184K.**—(1) For the purpose of identifying officers F249[, and persons other than officers,] and informing the Government of the suitability of those officers F250[, and such persons,] for appointment to judicial office, there shall be established a committee consisting of—
+
+(*a*) the Chief of Staff,
+
+(*b*) the Judge Advocate-General, and
+
+(*c*) a Judge of the High Court, nominated by the President of the High Court.
+
+(2) The committee may adopt such procedures as it considers appropriate to carry out its functions under this section.
+
+F251[(2A) A committee established under this section, having considered—
+
+(*a*) the service of an officer, other than an officer referred to in section 184J(3), who is a qualified barrister or solicitor in a position in the full-time service of the State (including as a member of the Permanent Defence Force and as a civil servant within the meaning of the Civil Service Regulation Act 1956) for any period following that qualification, and
+
+(*b*) the duties and role discharged by the officer in relation to the service, during that period,
+
+may determine that it is satisfied that—
+
+(i) such duties and role are substantially similar in substance and effect to those discharged by an officer referred to in section 184J(3), and
+
+(ii) such duties and role were carried out by the officer on a day to day basis throughout that period.]
+
+(3) The committee shall, whenever so requested by the Minister, select an officer or officers F252[, or, as the case may be, one, or more than one, person other than an officer,] for appointment under this section and shall inform the Minister of the selection made and of his or their suitability for the appointment and the Government shall consider for appointment F253[the officer or officers, or such person or persons, so selected.]
+
+(4) The committee shall not submit or recommend the name of an officer F254[, or a person other than an officer,] to the Minister under this section unless F255[the officer or person concerned] satisfies the requirements of section 184J(2) as regards the proposed appointment, and the committee shall not recommend the name of the officer F256[, or a person other than an officer,] to the Minister unless, in the opinion of the committee F257[or person], the officer—
+
+(*a*) has displayed in his or her practice as a barrister or solicitor, as the case may be, a degree of competence and a degree of probity appropriate to and consistent with the appointment as a military judge,
+
+(*b*) is suitable on grounds of character and temperament,
+
+(*c*) is otherwise suitable, and
+
+(*d*) complies with the requirements of subsection (5) of this section.
+
+(5) An officer F258[or a person other than an officer] who wishes to be considered for appointment under section 184J shall undertake in writing to the committee, if appointed as a military judge, to take such courses of training or education, or both, as may be required by the Judge Advocate-General.
+
+(6) All proceedings of the committee and all communications to the committee shall be confidential and shall not be disclosed except for the purposes of this Chapter.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F248: Inserted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 34, commenced as per s. 1(3).
+>
+> F249: Inserted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 6(1)(a), S.I. No. 568 of 2011.
+>
+> F250: Inserted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), ss. 6(1)(b), 12(3), S.I. No. 568 of 2011
+>
+> F251: Inserted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 6(2), S.I. No. 568 of 2011.
+>
+> F252: Inserted (9.11.2011) *Defence (Amendment) Act 2011* (17/2011), s. 6(3)(a), S.I. No. 568 of 2011.
+>
+> F253: Substituted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 6(3)(b), S.I. No. 568 of 2011.
+>
+> F254: Inserted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 6(4)(a), S.I. No. 568 of 2011.
+>
+> F255: Substituted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 6(4)(b), S.I. No. 568 of 2011.
+>
+> F256: Inserted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 6(4)(a), S.I. No. 568 of 2011.
+>
+> F257: Inserted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 6(4)(c), S.I. No. 568 of 2011.
+>
+> F258: Inserted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 6(5), S.I. No. 568 of 2011.
+
+#### 184L. Terms and conditions of appointment.
+
+F259[**184L.**—(1) Subject to this Chapter, a military judge shall hold and vacate office on and subject to the terms and conditions (including terms and conditions relating to remuneration and superannuation) determined by the Minister with the consent of the Minister for Finance.
+
+(2) A military judge shall be independent in the performance of his judicial functions under this Act.
+
+(3) A military judge shall not hold any other office or employment in respect of which remuneration is payable.
+
+(4) The remuneration of a military judge shall not be reduced during his continuance in office.
+
+(5) A military judge may at his own request be relieved of office by the President.
+
+(6) It shall be a condition of his appointment that a military judge—
+
+(*a*) who is relieved of office by the President under subsection (5) of this section shall cease to be an officer,
+
+(*b*) who ceases to be an officer under any of the provisions of this Act shall cease to be a military judge,
+
+(*c*) who retires in accordance with the terms and conditions of his appointment under this Chapter shall cease to be an officer,
+
+(*d*) who is removed from office under section 184O, shall cease to be an officer.
+
+(7) Every officer appointed as a military judge under this Chapter shall, before entering upon his duties under this Act and in any case not later than 10 days after the date of his appointment, swear an oath or make a solemn declaration in the prescribed form which shall be administered by the Judge Advocate-General and a military judge who declines or neglects to swear an oath or make such a declaration shall be deemed to have vacated his office.
+
+(8) A military judge shall neither report on, nor be the subject of any report in respect of, the performance of his functions under this Act.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F259: Inserted (21.04.2007) by *Defence (Amendment) Act 2007*(24/2007), s. 34, commenced as per s. 1(3).
+>
+> **Modifications (not altering text):**
+>
+> C52: Application of subs. (4) restricted (1.01.2012) by *Financial Emergency Measures in the Public Interest (Amendment) Act 2011* (39/2011), s. 4(2), S.I. No. 683 of 2011.
+>
+> **Amendment of section 2 of Financial Emergency Measures in the Public Interest Act 2009.**
+>
+> **4**.— ...
+>
+> (2) The amendments effected by *subsection (1)* shall apply to a military judge appointed under Chapter IVC of Part V of the Defence Act 1954 notwithstanding section 184L(4) of that Act.
+>
+> **Editorial Notes:**
+>
+> E46: Previous affecting provision: power pursuant to section exercised (11.09.2012) by *Defence Act 1954 (Military Judge) (Form of Oath and Solemn Declaration) Rules 2012* (S.I. No. 345 of 2012); revoked (2.12.2019) by *Rules of Procedure (Defence Forces) 2019* (S.I. No. 555 of 2019), reg. 73(1) and sch., in effect as per reg. 1(2), subject to transitional provision in reg. 73(2).
+
+#### 184LA. Circuit Judge to perform functions of military judge in certain circumstances.
+
+F260[**184LA.**—(1) The Minister may, having consulted with the Minister for Justice and Equality, request the President of the Circuit Court to temporarily designate, under section 11A of the Act of 1947, one, or more than one, Circuit Judge to perform the functions of a military judge in all or any of the following circumstances:
+
+(*a*) where there is a vacancy for the position of military judge and no person has been appointed, under section 184J(1), as military judge;
+
+(*b*) where a military judge, appointed under section 184J(1), is ill, absent or otherwise unable to carry out his or her functions;
+
+(*c*) where a military judge appointed under section 184J cannot properly deal with any matter before him or her by reason of the fact that he or she has a personal interest in the matter or personal knowledge of the facts or the parties as might prejudice the hearing and determination of the matter;
+
+(*d*) without prejudice to paragraphs (*a*) to (*c*), any other circumstance in respect of which the Minister is satisfied that such temporary designation is necessary or appropriate.
+
+(2) Where a Circuit Judge has been temporarily designated under section 11A of the Act of 1947 pursuant to a request under this section, sections 184J, 184K, 184L, 184N, 184O and 184P shall not apply to such Circuit Judge.
+
+(3) Where a Circuit Judge has been temporarily designated under section 11A of the Act of 1947 pursuant to a request under this section, notwithstanding the definition of military judge in section 2, references in this Act, or any instrument made under it, to a military judge in relation to the carrying out of the functions of a military judge shall be construed in accordance with such temporary designation of such Circuit Judge and nothing in this Act, or any statutory instrument made under it, shall be construed as preventing such Circuit Judge from carrying out such functions of a military judge.
+
+(4) For the purposes of this Act, without prejudice to the generality of subsection (1), references to functions of a military judge includes the judicial functions referred to in section 240(1)(*r*), if any, as may be provided for in rules of procedure made under that section.
+
+(5) In this section, "functions of a military judge" means—
+
+(*a*) the functions of a military judge under this Act and any instrument made under it, and under section 8 of the Defence (Amendment) Act 1987, and
+
+(*b*) the functions of a military judge under the Courts-Martial Appeals Act 1983 and any instrument made under that Act;
+
+(6) In this Act—
+
+"Circuit Judge" has the meaning assigned to it by the Act of 1947;
+
+"President of the Circuit Court" shall be construed in accordance with section 9 of the Act of 1947.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F260: Inserted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 7, S.I. No. 568 of 2011.
+>
+> **Modifications (not altering text):**
+>
+> C53: Minister’s functions under section transferred (13.03.2012) by *Military Judge (Temporary Designation) (Transfer of Departmental Administration and Ministerial Functions) Order 2012* (S.I. No. 82 of 2012).
+>
+> 3\. (1) The function vested in the Minister for Justice and Equality under section 184LA (inserted by section 7 of the Defence (Amendment) Act 2011 (No. 17 of 2011)) of the Defence Act 1954 is transferred to the Minister for Communications, Energy and Natural Resources.
+>
+> **Editorial Notes:**
+>
+> E47: Temporary designation of military judge provided for by *Courts of Justice Act 1947* (20/1947), s. 11A as inserted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 8, S.I. No. 568 of 2011.
+
+#### 184M. Functions of military judge.
+
+F261[**184M.**—A military judge shall preside at courts-martial and shall perform any other judicial functions that may be prescribed.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F261: Inserted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 34, commenced as per s. 1(3).
+
+#### 184N. Chief Military Judge.
+
+F262[**184N.**—(1) The President may appoint, on the advice of the Government, a military judge to be the Chief Military Judge.
+
+(2) The Chief Military Judge shall have such functions as are prescribed including assignment of military judges to preside at courts-martial and to perform other judicial duties under this Act.
+
+(3) The Chief Military Judge may delegate any of the Chief Military Judge’s functions to a military judge.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F262: Inserted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 34, commenced as per s. 1(3).
+
+#### 184O. Removal of military judge from office.
+
+F263[**184O.**—(1) Subject to section 184P, a military judge may be removed from office by the President on the advice of the Government but only for stated reasons including because—
+
+(*a*) he has become incapable, through ill-health, either physical or mental, of effectively performing the functions of the office,
+
+(*b*) he has failed to perform the functions of the office with due diligence and effectiveness,
+
+(*c*) he has engaged in conduct that brings discredit on the office or that may prejudice the proper performance of the functions of the office, or
+
+(*d*) his removal from office would, in the Government’s opinion, be in the best interests of the Defence Forces.
+
+(2) On notifying a military judge under section 184P(1) that the Government intends to consider his removal from office, the Government may immediately suspend the military judge from duty.
+
+(3) The suspension from duty continues until the Government makes a decision in relation to the matter under consideration, but only if there is no undue delay in taking steps under section 184P or in making that decision.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F263: Inserted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 34, commenced as per s. 1(3).
+
+#### 184P. Steps to be taken before removal of military judge.
+
+F264[**184P.**—(1) Before considering removal of a military judge from office under section 184O the Government shall—
+
+(*a*) notify the military judge that the Government intends to consider the matter and include in the notice a statement of their reasons for doing so, and
+
+(*b*) give the military judge an opportunity to make representations as to why he ought not to be removed from office.
+
+(2) The Government may, if they consider it necessary or appropriate to do so, appoint a Judge of the High Court nominated by the President of the High Court to—
+
+(*a*) hold an inquiry into any matter giving rise to a notification under subsection (1) of this section, and
+
+(*b*) report to the Government on the findings of the inquiry.
+
+(3) A Judge of the High Court appointed under this section to hold an inquiry may do one or more of the following:
+
+(*a*) direct a person, by notice delivered to the person, to provide any information that is specified in the notice and is required for the purposes of the inquiry;
+
+(*b*) direct any person, by notice delivered to the person, to produce at the time and place specified in the notice a document specified in the notice that is relevant to the inquiry and is in the person’s power or control;
+
+(*c*) summon witnesses to attend the inquiry;
+
+(*d*) direct a witness to answer a question put to the witness at the inquiry;
+
+(*e*) give any other direction that appears to the Judge appointed under this section to be necessary, just and reasonable for the purposes of the inquiry;
+
+(*f*) administer oaths and affirmations to witnesses and examine witnesses attending the inquiry.
+
+(4) A person whose evidence has been, is being, or is to be given before an inquiry under this section, or who produces or sends a document to the inquiry pursuant to a summons or direction, as the case may be, under subsection (3) of this section or who is required by such a summons or direction to give evidence or produce a document to the inquiry or to attend before the inquiry and there to give evidence or produce a document, shall be entitled to the same privileges and immunities as if the person were a witness before the High Court.
+
+(5) If a person fails or refuses to comply with or disobeys a direction or summons under subsection (3) of this section, the High Court may, on application by the Judge appointed under this section—
+
+(*a*) order the person in relation to whom the application was made to comply with the direction or, in the case of a summons, to attend the inquiry, and
+
+(*b*) make such other (if any) order as it considers necessary and just to enable the direction to have full effect or, in the case of a summons, to ensure the attendance at the inquiry.
+
+(6) A person who—
+
+(*a*) is notified under subsection (3) of this section and who, without lawful excuse, refuses or fails to comply with a direction under paragraph (*a*) or (*b*) of that subsection,
+
+(*b*) fails, without lawful excuse, to attend an inquiry in response to a summons under subsection (3)(*c*) of this section,
+
+(*c*) refuses to answer a question that the Judge of the High Court conducting the inquiry may legally direct the person to answer, or
+
+(*d*) does or omits to do in relation to the inquiry any other thing the doing or omission of which would, if the inquiry had been a proceeding in the High Court, have been contempt of that Court,
+
+is guilty of an offence and is liable on summary conviction to a fine not exceeding €3,000 or to imprisonment for a term not exceeding 6 months or both.
+
+(7) If an inquiry is held, the Government shall—
+
+(*a*) consider the report on the findings of the inquiry,
+
+(*b*) make a copy of the report available to the military judge whose removal from office is the subject of the report, and
+
+(*c*) give the military judge an opportunity to make representations relating to the report.
+
+(8) As soon as practicable after the military judge is removed from office under section 184O, the Minister shall cause a statement of the reasons for the removal to be laid before each House of the Oireachtas.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F264: Inserted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 34, commenced as per s. 1(3). A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(3) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### Chapter V.Courts-martial. — Chapter V. — Courts-martial.
+
+#### 185. Acquittal or conviction to bar subsequent trial by court-martial.
+
+**185.**—F265[(1) Where a person subject to military law has been acquitted of an offence by a court-martial, he shall not be liable to be tried again by a court-martial in respect of that offence.]
+
+F266[(1A) Where a person subject to military law has been convicted of an offence by a court-martial, he shall not be liable to be tried again by a court-martial in respect of that offence unless the conviction has been quashed and a re-trial ordered by the Courts-Martial Appeal Court pursuant to the Criminal Procedure Act 1993.]
+
+(2) Where a person subject to military law has been acquitted or convicted of an offence by a competent civil court, he shall not be liable to be tried again by a court-martial in respect of that offence.
+
+(3) Where—
+
+(*a*) a person subject to military law is charged with an offence against military law, and
+
+(*b*) the charge is dealt with under Chapter IV of this Part either by being dismissed or being summarily dealt with,
+
+such person shall not be liable to be tried by court-martial in respect of that offence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F265: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 35(a), S.I. No. 254 of 2008.
+>
+> F266: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 35(b), S.I. No. 254 of 2008.
+
+#### 186. Classes of courts-martial.
+
+F267[**186.**— There shall be three classes of courts-martial, namely, general courts-martial, limited courts-martial and the summary court-martial.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F267: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 36, S.I. No. 254 of 2008.
+
+#### 187. Convening of courts-martial.
+
+F268[**187.**— (1) Where the Director directs that a specified offence or offences be tried by court-martial, the Court-Martial Administrator shall, subject to the directions of the Director, convene a general court-martial or limited court-martial, or refer the matter for trial by summary court-martial.
+
+(2) A court-martial may sit in any place whether within or outside the State.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F268: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 37, S.I. No. 254 of 2008.
+
+#### 187A. Summary court-martial.
+
+F269[**187A.**—(1) There shall be a court-martial to be known as the summary court-martial.
+
+(2) Every military judge is authorised to preside at a summary court-martial and a military judge who does so constitutes the summary court-martial.
+
+(3) The summary court-martial shall, subject to section 192, have jurisdiction to hear—
+
+(*a*) charges or other matters referred to it by the Court-Martial Administrator as directed by the Director,
+
+(*b*) appeals under section 178E from determinations made, punishments awarded or compensation orders made under section 177C or 178C, and
+
+(*c*) applications for legal aid.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F269: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 38, S.I. No. 254 of 2008.
+>
+> F270: Substituted by *Defence Forces (Evidence) Act 2022* (16/2022), s. 93(a)(i), (ii), not commenced as of date of revision.
+>
+> F271: Inserted by *Defence Forces (Evidence) Act 2022* (16/2022), s. 93(a)(iii), (b), not commenced of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C54: Prospective affecting provision: subss. 3(b), (c) amended and subss. (3)(d)-(i), (4) inserted by *Defence Forces (Evidence) Act 2022* (16/2022), s. 93, not commenced as of date of revision.
+>
+> **187A.**— ...
+>
+> (3) The summary court-martial shall, subject to *section 192*, have jurisdiction to hear— ...
+>
+> (*b*) appeals under section 178E from determinations made, punishments awarded or compensation orders made under section 177C or F270[or 178C,]
+>
+> (*c*) applications F270[for legal aid, and]
+>
+> (*d*) applications under section 35 (1) of the Act of 2022,
+>
+> (*e*) appeals under section 37 (6) of the Act of 2022,
+>
+> (*f*) applications under section 45 (1) of the Act of 2022,
+>
+> (*g*) appeals under section 48 (6) of the Act of 2022,
+>
+> (*h*) appeals under section 52(11) of the Act of 2022, and
+>
+> (*i*) applications under section 60 of the Act of 2022.
+>
+> F271[(4) In this section, “Act of 2022” means the Defence Forces (Evidence) Act 2022.]
+
+#### 188. Special powers of convening authorities.
+
+**188.**—F272[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F272: Repealed (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(1), S.I. No. 254 of 2008.
+
+#### 189. General court-martial.
+
+F273[**189.**—(1) A general court-martial shall consist of—
+
+(*a*) a military judge, and
+
+(*b*) save in the case of a general court-martial convened pursuant to subsection (8) or (11) of section 212A, a court-martial board of not less than five members specified by or on behalf of the Court-Martial Administrator.
+
+(2) Where the accused is an officer, the court-martial board shall include—
+
+(*a*) an officer of the Permanent Defence Force not below the army rank of colonel or the equivalent naval rank and in any case not of a lower rank than the accused, and
+
+(*b*) not less than four other officers, none of whom shall be below the army rank of captain or the equivalent naval rank.
+
+(3) Where the accused is not an officer, the court-martial board—
+
+(*a*) shall include—
+
+(i) an officer of the Permanent Defence Force not below the army rank of colonel or the equivalent naval rank, and
+
+(ii) not less than three other officers, none of whom shall be below the army rank of captain or the equivalent naval rank,
+
+and
+
+(*b*) may include not more than one non-commissioned officer who shall not be below the army rank of battalion quarter-master sergeant or the equivalent naval rank and in any case not of a lower rank than the accused.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F273: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 39, S.I. No. 254 of 2008.
+
+#### 190. Limited court-martial.
+
+F274[**190.**—(1) A limited court-martial shall consist of—
+
+(*a*) a military judge, and
+
+(*b*) save in the case of a limited court-martial convened pursuant to subsection (8) or (11) of section 212A, a court-martial board of not less than three members specified by or on behalf of the Court-Martial Administrator.
+
+(2) The court-martial board—
+
+(*a*) shall include—
+
+(i) an officer of the Permanent Defence Force not below the army rank of commandant or the equivalent naval rank, and
+
+(ii) at least one other officer who shall not be below the army rank of lieutenant or the equivalent naval rank,
+
+and
+
+(*b*) may include not more than one non-commissioned officer who shall not be below the army rank of battalion quarter-master sergeant or the equivalent naval rank and in any case not of a lower rank than the accused.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F274: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 40, S.I. No. 254 of 2008.
+
+#### 191. Membership of court-martial board.
+
+F275[**191.**—(1) None of the following persons may serve as a member of a court-martial board:
+
+(*a*) the Court-Martial Administrator or a member of his staff;
+
+(*b*) the Director or a member of his staff;
+
+(*c*) a member of the Defence Forces who has examined into or advised on the matters on which any charge against the accused is based;
+
+(*d*) a person who has been or may be summoned as a witness for the prosecution or the accused before the court-martial concerned;
+
+(*e*) a member of the Defence Forces who investigated the charge against the accused or took down any summary or abstract of evidence against the accused or who was a member of a court of inquiry inquiring into the matters on which the charge against the accused is based;
+
+(*f*) a member of the military police corps;
+
+(*g*) any member of the Defence Forces who is a barrister or solicitor;
+
+(*h*) any member of the Defence Forces who has a personal interest in the case;
+
+(*i*) any member of the Defence Forces who is not for the time being subject to military law;
+
+(*j*) an officer or non-commissioned officer who is serving in the same military chain of command as the accused.
+
+(2) A member of a court-martial board shall neither report on, nor be the subject of any report in respect of, the performance of his functions as such member under this Act.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F275: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 41, S.I. No. 254 of 2008.
+
+#### 192. Jurisdiction of courts-martial.
+
+**192.**—F276[(1) Subject to and in accordance with the provisions of this Act, a general court-martial, limited court-martial or summary court-martial shall, in addition to any other powers conferred on it by this Act, have jurisdiction to try and punish any person for an offence against military law committed by the person while subject to military law as an officer or as a man.]
+
+F277[(1A) In this section—
+
+"aggravated sexual assault", "rape under section 4" and "sexual assault" have the same meanings as they have in the Criminal Law (Rape) (Amendment) Act 1990;
+
+"relevant offence" means—
+
+(*a*) the offence of treason or murder,
+
+(*b*) an offence under section 3, as amended, of the Geneva Conventions Act 1962 or an offence under section 7 (genocide, crimes against humanity and war crimes) or 8 (ancillary offences) of the International Criminal Court Act 2006,
+
+(*c*) manslaughter,
+
+(*d*) rape,
+
+(*e*) rape under section 4,
+
+(*f*) aggravated sexual assault,
+
+(*g*) sexual assault,
+
+(*h*) attempted rape, rape under section 4, aggravated sexual assault or sexual assault,
+
+(*i*) aiding, abetting, counselling or procuring the offence of rape, rape under section 4, aggravated sexual assault or sexual assault,
+
+(*j*) incitement to the offence of rape, rape under section 4, aggravated sexual assault or sexual assault,
+
+(*k*) conspiracy to commit the offences specified in paragraphs (*d*), (*e*), (*f*), (*g*), (*h*), (*i*) or (*j*),
+
+(*l*) an offence under the Criminal Justice (United Nations Convention Against Torture) Act 2000,
+
+(*m*) an offence under the Criminal Justice (Safety of United Nations Workers) Act 2000, or
+
+(*n*) an offence under the Criminal Justice (Terrorist Offences) Act 2005.]
+
+(1B) A summary court-martial shall not have jurisdiction—
+
+(*a*) to try any person who is for the time being an officer holding the army rank of lieutenant colonel or the equivalent naval rank or higher commissioned rank,
+
+(*b*) to try any person for a relevant offence,
+
+(*c*) to award to any person any sentence greater than imprisonment for a term of six months, or
+
+(*d*) in the case of an appeal under *section 178E*, to award any punishment greater than that awardable on summary disposal of the matter under *section 177C* or *178C*, as appropriate.
+
+F278[(2) A limited court-martial shall not have jurisdiction—
+
+(*a*) to try any person for any offence against military law committed by the person while subject to military law as an officer,
+
+(*b*) to try any person who is for the time being an officer or a man of the army rank of battalion quarter-master sergeant or the equivalent naval rank or of any higher non-commissioned rank,
+
+(*c*) to try any person for a relevant offence, or
+
+(*d*) to award to any person any sentence greater than imprisonment for a term of two years.]
+
+F279[(3) A general court-martial shall not have jurisdiction to try any person subject to military law for a relevant offence unless the offence was committed while the person was on active service outside the State or despatched for service outside the State under section 2 of the Defence (Amendment) (No. 2) Act 1960 or for any purpose specified in section 3 of the Defence (Amendment) Act 2006 when the offence was committed.]
+
+(3A) F280[...]
+
+(4) (*a*) The Minister, with the concurrence of the Minister for Justice, may make regulations with regard to the exercise of the jurisdiction conferred on courts-martial by section 169 and may in particular by the regulations provide that the exercise of such jurisdiction shall depend on the consent of such civil authority as may be specified in the regulations.
+
+(*b*) A certificate under the hand of F281[the Director certifying that as respects the trial of a civil offence] the consent referred to in paragraph (*a*) of this subsection has been obtained shall be *prima facie* evidence of that fact.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F276: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 42(a), S.I. No. 254 of 2008.
+>
+> F277: Substituted (31.08.2024) by *Criminal Law (Sexual Offences and Human Trafficking) Act 2024* (28/2024), s. 39(a), S.I. 391 of 2024.
+>
+> F278: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 42(c), S.I. No. 254 of 2008.
+>
+> F279: Substituted (31.08.2024) by *Criminal Law (Sexual Offences and Human Trafficking) Act 2024* (28/2024), s. 39(b), S.I. 391 of 2024.
+>
+> F280: Deleted (31.08.2024) by *Criminal Law (Sexual Offences and Human Trafficking) Act 2024* (28/2024), s. 39(c), S.I. 391 of 2024.
+>
+> F281: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 42(f), S.I. No. 254 of 2008.
+>
+> **Modifications (not altering text):**
+>
+> C55: Application of subs. (4) restricted (21.12.1960) by *Defence (Amendment) (No. 2) Act 1960* (44/1960), s. 4(5), commenced on enactment, as amended (12.07.2006) by *Defence (Amendment) Act 2006* (20/2006) ss. 2 (non-textual amendment) and 9(c) (textual amendment), commenced on enactment.
+>
+> **Amendments of the Principal Act.**
+>
+> **4.**— ...
+>
+> (5) Regulations made under subsection (4) of section 192 of the Principal Act and providing that the exercise of the jurisdiction conferred on courts-martial by section 169 of the Principal Act shall depend on the consent of a civil authority specified in the regulations shall not apply in relation to the exercise of that jurisdiction by a court-martial for the trial of a member of the Permanent Defence Force for an offence committed by him while serving outside the State with an International United Nations Force **[**or for any purpose specified in section 3 of the Defence (Amendment) Act 2006**]**.
+>
+> ...
+>
+> ***Defence (Amendment) Act 2006*** (20/2006):
+>
+> **Application of certain provisions of Act of 1960 and Principal Act.**
+>
+> **2.**— (1) Sections 2, 4 and 6 of the Act of 1960 shall apply and have effect as if each reference in any of those sections to an International United Nations Force were a reference to an International United Nations Force as defined in *section 1* of this Act.
+>
+> (2) The provisions of the Principal Act specified in section 4 of the Act of 1960 as amended by this Act shall apply and have effect as if each reference in those provisions to an International United Nations Force were a reference to an International United Nations Force as defined in *section 1* of this Act.
+>
+> **Editorial Notes:**
+>
+> E48: Power pursuant to section exercised (1.01.1955) by *Defence (Civil Authority with respect to Courts-Martial) Regulations 1954* (S.I. No. 250 of 1954).
+>
+> E49: Previous affecting provision: subs. (1A) inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 42(b), S.I. No. 254 of 2008; substituted (31.08.2024) as per F-note above.
+>
+> E50: Previous affecting provision: subs. (3) substituted (1.09.2008) by *Defence (Amendment) Act* 2007 (24/2007), s. 42(d), S.I. No. 254 of 2008; substituted as per F-Note above.
+>
+> E51: Previous affecting provision: subs. (3A) inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 42(e), S.I. No. 254 of 2008; deleted as per F-Note above.
+>
+> E52: Previous affecting provision: subss. (2) and (3) amended (31.10.2006) by *International Criminal Court Act 2006* (30/2006), s. 66 and sch. 3, para. 1(b), commenced on enactment; subss. (2) and (3) substituted as per F-notes above.
+>
+> E53: Previous affecting provision: subs. (3) amended (12.07.2006) by *Defence (Amendment) Act 2006* (20/2006), s. 7, commenced on enactment; subs. (3) substituted as per F-notes above.
+>
+> E54: Previous affecting provision: subss. (2), (3) amended (8.03.2005) by *Criminal Justice (Terrorist Offences) Act 2005* (2/2005), s. 56(b) and (c), commenced on enactment; subss. (2), (3) substituted as per F-notes above.
+>
+> E55: Previous affecting provision: subss. (2), (3) amended (28.06.2000) by *Criminal Justice (Safety of United Nations Workers) Act 2000* (16/2000), s. 6(b), commenced on enactment; subss. (2), (3) substituted as per F-notes above.
+>
+> E56: Previous affecting provision: subss. (2), (3) amended (14.06.2000) by *Criminal Justice (United Nations Convention Against Torture) Act 2000* (11/2000), s. 6(b), commenced on enactment; subss. (2) and (3) substituted as per F-notes above.
+>
+> E57: Previous affecting provision: subs. (2) amended (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, para. 7, commenced as per s. 1; subs. (2) substituted as per F-note above.
+>
+> E58: Previous affecting provision: term “International United Nations Force” interpreted (1.07.1993) by *Defence (Amendment) Act 1993* (18/1993), s. 3(2), commenced on enactment; repealed (12.07.2006) by *Defence (Amendment) Act 2006* (20/2006), s. 12 and sch., commenced on enactment.
+>
+> E59: Previous affecting provision: subs. (3) amended (18.01.1991) by *Criminal (Rape) (Amendment) Act 1990* (32/1990), s. 19(b), commenced as per s. 22(3); subs. (3) substituted as per F-note above.
+>
+> E60: Previous affecting provision: subs. (2) amended (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(h), commenced on enactment; subs. (2) substituted as per F-note above.
+>
+> E61: Previous affecting provision: subss. (2) and (3) amended (18.12.1973) by *Genocide Act 1973* (28/1973), s. 5, commenced on enactment; subss. (2) and (3) substituted as per F-notes above.
+
+#### 193. Dissolution of courts-martial.
+
+F282[**193.**—(1) This section applies to the dissolution of a general court-martial or limited court-martial.
+
+(2) The Court-Martial Administrator may dissolve a court-martial at any time before it has been sworn, where he considers that by reason of the exigencies of the service or for any other reason it is desirable to do so.
+
+(3) The military judge for a trial by court-martial may dissolve the court-martial at any time after it has been sworn where he considers it to be necessary or expedient in the interests of the administration of justice.
+
+(4) Where a court-martial has been sworn and the military judge dies or for any other reason is unavailable, the court-martial may be dissolved by another military judge or by the Court-Martial Administrator, as appropriate.
+
+(5) The military judge shall dissolve the court-martial—
+
+(*a*) where, on account of the illness of the accused at any time before the finding, it is impossible, in the opinion of the military judge, to continue the trial within a reasonable time, or
+
+(*b*) where at any time after the court-martial is sworn, and before the finding, the number of members of the court-martial board is reduced below the minimum number of members required for the trial—
+
+(i) by reason of the death of a member or the discharge of a member by the military judge owing to his being incapable through illness or any other cause of continuing to act as a member, or
+
+(ii) because the military judge directs that a member shall not serve or shall not continue to serve as a member where he considers that for any stated reason it is desirable in the interests of justice.
+
+(6) Where a court-martial is dissolved under this section, the accused may, on the directions of the Director, be retried by another court-martial in accordance with this Part.
+
+(7) For the purposes of subsection (5) of this section the minimum number of members of a court-martial board shall be—
+
+(*a*) in the case of a general court-martial, 5 members (including the officer referred to in section 189(2)(*a*) or (3)(*a*)(i), as the case may be), and
+
+(*b*) in the case of a limited court-martial, 3 members (including the officer referred to in section 190(2)(*a*)(i)).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F282: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 43, S.I. No. 254 of 2008.
+
+#### 194. Admission to courts-martial.
+
+F283[**194.**—(1) Subject to this section and to any other enactment, proceedings before a court-martial shall be held in public.
+
+(2) Where the military judge presiding at a court-martial is satisfied that because of the nature or circumstances of the case or otherwise in the interests of justice or the security of the State or of the Defence Forces that it is desirable to do so, he may do any one or more of the following:
+
+(*a*) exclude the public or any portion of the public or any particular person or persons from the court during the whole or any part of a trial;
+
+(*b*) prohibit the publication of information in relation to the proceedings or any particular part of them;
+
+(*c*) impose restrictions or limitations on publication.
+
+(3) In any proceedings for an offence which is, in the opinion of the military judge, of an indecent or obscene nature (including proceedings for rape, rape under section 4 (within the meaning of the Criminal Law (Rape) (Amendment) Act 1990) or sexual assault or aggravated sexual assault (both within the meaning of the Criminal Law (Rape) (Amendment) Act 1990), attempted aggravated sexual assault or sexual assault or aiding, abetting, counselling or procuring the offence of aggravated sexual assault or sexual assault or attempted aggravated sexual assault or sexual assault or of incitement to the offence of aggravated sexual assault or sexual assault or conspiracy to commit any of the foregoing offences), the military judge shall, subject to subsections (4) and (5) of this section, exclude from the court-martial during the trial all persons except officers of the court, persons directly concerned in the proceedings, bona fide representatives of the press and such other persons (if any) as the military judge may in his discretion permit to remain.
+
+(4) In any proceedings for an offence referred to in subsection (3) of this section—
+
+(*a*) in the case of the accused person, an assisting person or, where the accused person so requests, a parent, relative or friend of the accused person shall be entitled to remain in court during the whole of the trial, and
+
+(*b*) in the case of a person in respect of whom the offence is alleged to have been committed, where the person so requests, a parent, relative or friend of the person shall be entitled to remain in court while that person is giving evidence as a witness before the court-martial.
+
+(5) In any proceedings to which subsection (2) or (3) of this section applies the findings and the sentence (if any) shall be announced in public.
+
+(6) Witnesses, other than the accused person, shall not be admitted to a trial, except when under examination or by specific leave of the military judge presiding at the trial concerned.
+
+(7) No persons other than the members of the court-martial board shall be present during any deliberations by the court-martial board as to its findings.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F283: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 44, S.I. No. 254 of 2008.
+
+#### 195. Divers matters of procedure.
+
+F284[**195.**—(1) A court-martial may adjourn from time to time and from place to place whenever the military judge considers adjournment desirable.
+
+(2) The military judge and, in the case of a general court-martial or a limited court-martial, the court-martial board, after it is sworn and before making its findings, if the military judge considers it appropriate, may view any place, person or thing which in the opinion of the military judge it is expedient for the purposes of the proceedings that he and, as the case may be, the court-martial board should see.
+
+(3) For the purposes of viewing any place, person or thing under subsection (2) of this section, the military judge shall give such directions as appear to him to be expedient for the purpose of preventing undue communication with the court-martial board during the viewing.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F284: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 45, S.I. No. 254 of 2008.
+
+#### 196. Counsel at courts-martial.
+
+**196.**—(1) F285[The Director] at a court-martial may be represented by counsel.
+
+(2) Any person being tried by a court-martial may be represented by counsel or, if not represented by counsel, by an officer subject to military law.
+
+(3) Any conduct of counsel which would be liable to censure or would be contempt of court if it took place before the High Court shall be likewise deemed liable to censure or be deemed contempt of court in the case of a court-martial, and rules prescribed for practice of courts-martial and the guidance of counsel shall be binding on counsel appearing before such courts-martial and any wilful disobedience of such rules shall be professional misconduct and if persevered in be deemed contempt of court.
+
+(4) Where a counsel at a court-martial is guilty of conduct liable to censure or is guilty of contempt of court, the F286[military judge] may certify the offence of such counsel under his hand to the High Court, and the High Court may, after such inquiry as it thinks proper to make, punish or take steps for the punishment of such counsel in like manner as if he had been guilty of contempt of the High Court.
+
+(5) A court-martial may, by order under the hand of the F286[military judge], cause a counsel to be removed from the court who is guilty of such an offence as may in the opinion of the court require his removal from court, but in every such case the F286[military judge] shall certify the offence to the High Court under the immediately preceding subsection.
+
+(6) In this section, the word “counsel” means a person who is either a barrister-at-law or a solicitor.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F285: Substituted (17.07.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 17, commenced on enactment.
+>
+> F286: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(2) and sch. 2, S.I. No. 254 of 2008.
+
+#### 197. Challenges by accused.
+
+F287[**197.**—(1) When a court-martial is assembled and before the members of the court-martial board are sworn, their names shall be read to the accused who shall then be asked if he objects to any of them and in the event of an objection the decision as to whether to allow the objection shall be made by the military judge in accordance with the procedure prescribed by court-martial rules.
+
+(2) The procedure for the replacement of a member of the court-martial board in respect of whom an objection has been allowed shall be as prescribed, subject to the same right of the accused to object to the member selected to fill the subsequent vacancy in accordance with subsection (1) of this section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F287: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 46, S.I. No. 254 of 2008.
+
+#### 197A. Rulings and directions.
+
+F288[**197A.**—(1) Rulings and directions on questions of law, practice or procedure relative to the charge or trial shall be given by the military judge presiding at a court-martial.
+
+(2) Any rulings or directions given under subsection (1) of this section shall be binding on the court-martial concerned.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F288: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 47, S.I. No. 254 of 2008.
+
+#### 198. Courts-martial: findings and sentence.
+
+F289[**198.**—(1) Subject to the provisions of this section, in the case of a general court-martial or limited court-martial, a finding of guilty on any charge shall be decided by a majority of at least two-thirds of the members of the court-martial board, after the military judge has summed up the law and the evidence.
+
+(2) Where two-thirds of the members of the court-martial board is not a whole number, the next highest whole number shall be taken to be two-thirds for the purposes of subsection (1) of this section.
+
+(3) If the number of members of the court-martial board who vote for a guilty finding on any charge is less than that referred to in subsection (1) of this section the accused shall be acquitted of that charge.
+
+(4) The military judge presiding at a general court-martial or limited court-martial is not entitled to vote on the finding.
+
+(5) The military judge presiding at a court-martial shall determine the sentence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F289: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 48, S.I. No. 254 of 2008.
+>
+> **Editorial Notes:**
+>
+> E62: Previous affecting provision: subs. (2) deleted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(i), commenced on enactment; new subs. (2) substituted as per F-note above.
+
+#### 199. Swearing of court-martial.
+
+F290[**199.**—(1) When a court-martial board is constituted with the required number of persons who are not objected to or the objections to whom have not been allowed, an oath in the form prescribed by court-martial rules shall be administered by the person or persons so prescribed to—
+
+(*a*) each member of the court-martial board, and
+
+(*b*) every interpreter and shorthand writer or other note-taker in attendance.
+
+(2) If a person required by this section to take an oath objects to taking an oath or is objected to as incompetent to take an oath, the military judge shall, if satisfied of the sincerity of the objection or, where the competence of a person to take an oath is objected to, of the oath having no binding effect on the conscience of that person, permit the person, instead of being sworn, to make a solemn declaration in the prescribed form, and for the purposes of this Act that declaration is deemed to be an oath.
+
+(3) For the purposes of this section, different forms of oath may be prescribed for members of a court-martial board, interpreters and shorthand writers or other note-takers, and different persons may be prescribed to administer oaths and to take declarations.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F290: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 49, S.I. No. 254 of 2008.
+>
+> **Editorial Notes:**
+>
+> E63: Person prescribed for the purposes of section (2.12.2019) by *Rules of Procedure (Defence Forces) 2019* (S.I. No. 555 of 2019), rule 71, in effect as per rule 1(2), subject to transitional provision in para. (2).
+>
+> E64: Previous affecting provision: person prescribed for purposes of section (1.09.2008) by *Rules of Procedure (Defence Forces) 2008* (S.I. No. 204 of 2008), rule 73, in effect as per rule 1(2); revoked (2.12.2019) by *Rules of Procedure (Defence Forces) 2019* (S.I. No. 555 of 2019), rule 73(1), in effect as per rule 1(2), subject to transitional provision in para. (2).
+
+#### 200. Evidence to be on oath.
+
+**200.**—(1) Every witness before a court-martial shall be examined on oath which the F291[...] prescribed person shall administer in the prescribed form.
+
+(2) If a person by this Act required as witness before a court-martial, or otherwise in respect of a court-martial, to take an oath, objects to take an oath or is objected to as incompetent to take an oath, the court-martial shall, if satisfied of the sincerity of the objection or, where the competence of the person to take an oath is objected to, of the oath having no binding effect on the conscience of such person, permit such person, instead of being sworn, to make a solemn declaration in the prescribed form, and for the purposes of this Act such solemn declaration shall be deemed to be an oath.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F291: Deleted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(2) and sch. 2, S.I. No. 254 of 2008.
+>
+> **Editorial Notes:**
+>
+> E65: Person prescribed for the purposes of section (2.12.2019) by *Rules of Procedure (Defence Forces) 2019* (S.I. No. 555 of 2019), rule 71, in effect as per rule 1(2), subject to transitional provision in para. (2).
+>
+> E66: Previous affecting provision: person prescribed for purposes of section (1.09.2008) by *Rules of Procedure (Defence Forces) 2008* (S.I. No. 204 of 2008), rule 73, in effect as per rule 1(2); revoked (2.12.2019) by *Rules of Procedure (Defence Forces) 2019* (S.I. No. 555 of 2019), rule 73(1), in effect as per rule 1(2), subject to transitional provision in para. (2).
+
+#### 201. Evidence at courts-martial.
+
+**201.**—(1) The rules of evidence to be adopted in proceedings before courts-martial shall be the same as those which are for the time being followed in civil courts.
+
+(2) (*a*) In this subsection, the expression “summary of evidence” means evidence in relation to a charge against an accused taken down in writing in accordance with rules of procedure in that behalf.
+
+(*b*) Where a statement of evidence given on oath by a witness against an accused is contained in a summary of evidence—
+
+(i) subject to subparagraph (ii) of this paragraph, the statement may be read as evidence at the trial of the accused by court-martial, if it is proved that—
+
+(I) the witness is dead or insane or so ill as to be unable to attend the trial, and
+
+(II) the statement was made in the presence of the accused, and
+
+(III) the accused or his counsel or representative had an opportunity of cross-examining the witness,
+
+(ii) if the witness is insane or so ill as to be unable to attend the trial, the statement shall not be read without the accused’s consent.
+
+(3) No person shall at any proceedings before a court-martial be required to answer any question or to produce any document which he could not be required to answer or produce in similar proceedings before a civil court.
+
+#### 202. Mental disorder at time of trial.
+
+F292[**202.**— (1) Where at the trial by court-martial of a person charged with an offence it appears that such person is by reason of mental disorder unfit to take his trial the following provisions, subject to subsection (4), shall have effect, that is to say:
+
+(*a*) F293[the military judge presiding at the court-martial] shall find specially that fact,
+
+(*b*) F294[the military judge, if he is] satisfied having heard evidence relating to the mental condition of the person given by a consultant psychiatrist that such person is suffering from a mental disorder (within the meaning of F295[the Mental Health Act 2001]) and is in need of in-patient care or treatment in a designated centre, shall commit him to a specified designated centre until an order is made under section 13 F296[or 13A] of the Criminal Law (Insanity) Act 2006.
+
+F297[(1A) In the case of a general court-martial or limited court-martial, the question of whether a person charged with an offence is fit to be tried shall be determined, and the finding shall be made, by the military judge sitting alone.]
+
+(2) F298[...]
+
+(3) A person charged with an offence shall not be fit to take his trial if he is unable by reason of mental disorder to understand the nature or course of the proceedings so as to—
+
+(*a*) plead to the charge,
+
+(*b*) instruct a legal representative,
+
+F299[(*bb*) in the case of a general court-martial or limited court-martial, object to a member of the court-martial board to whom he might wish to object,]
+
+(*c*) make a proper defence, or
+
+(*d*) understand the evidence.
+
+F300[(4) After the military judge presiding at a court-martial has found that a person charged with an offence is unfit to take his trial, the military judge may on application to him and without prejudice to any further proceedings allow evidence to be adduced before the court-martial as to whether or not that person did the act or made the omission alleged against him and if the summary court-martial or, in the case of a general court-martial or limited court-martial, the court-martial board, is satisfied that there is a reasonable doubt that the person committed that act or made the omission, the summary court-martial or the court-martial board, as the case may be, shall acquit him.]
+
+(5) In this section and in section 203 of this Act "mental disorder" and "designated centre" shall have the meanings respectively assigned to them by section 1 of the Criminal Law (Insanity) Act 2006, unless the context otherwise requires.]
+
+F301[(5) In this section and in section 203 "consultant psychiatrist" has the same meaning as in the Mental Health Act 2001.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F292: Substituted (1.06.2006) by *Criminal Law (Insanity) Act 2006* (11/2006), s. 21, S.I. No. 273 of 2006.
+>
+> F293: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 50(a), S.I. No. 254 of 2008.
+>
+> F294: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 50(a), S.I. No. 254 of 2008.
+>
+> F295: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 50(a), S.I. No. 254 of 2008.
+>
+> F296: Inserted (8.02.2011) by *Criminal Law (Insanity) Act 2010* (40/2010), s. 10(a), S.I. No. 50 of 2011.
+>
+> F297: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 50(b), S.I. No. 254 of 2008.
+>
+> F298: Deleted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 50(c), S.I. No. 254 of 2008.
+>
+> F299: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 50(d), S.I. No. 254 of 2008.
+>
+> F300: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 50(e), S.I. No. 254 of 2008.
+>
+> F301: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 50(f), S.I. No. 254 of 2008.
+>
+> **Editorial Notes:**
+>
+> E67: *Defence (Amendment) Act 2007* (24/2007), s. 50(f) (1.09.2008) inserts a second subs. (5), see F-note above.
+>
+> E68: Provision for review of detention under section made (1.06.2006) by *Criminal Law Insanity Act 2006* (11/2006), s. 13, S.I. No. 273 of 2006, as amended.
+>
+> E69: Previous affecting provision: section amended (29.06.1983) by *Courts-Martial Appeals Act 1983* (19/1983), s. 5, commenced on enactment; substituted as per F-note above.
+
+#### 203. Mental disorder at time of commission of offence.
+
+F302[**203.**—(1) Where at the trial by court-martial of a person charged with an offence, F303[the summary court-martial, or in the case of a general court-martial or limited court-martial, the court-martial board, finds] that the person did the act or made the omission charged but, having heard evidence relating to his mental condition given by a consultant psychiatrist, finds that he was at the time when he did the act or made the omission suffering from a mental disorder and that the mental disorder was such that he should not be held responsible for the act or omission alleged by reason of the fact that—
+
+(*a*) he did not know the nature and quality of the act he was doing, or
+
+(*b*) he did not know what he was doing was wrong, or
+
+(*c*) he was unable to refrain from committing the act or making the omission,
+
+F304[the summary court-martial, or in the case of a general court-martial or limited court-martial, the court-martial board, shall specially find] that the person is not guilty by reason of insanity.
+
+F305[(2) If the military judge presiding at the court-martial having considered any evidence adduced before the court-martial is satisfied that the person found not guilty by reason of insanity is suffering from a mental disorder (within the meaning of the Mental Health Act 2001) and is in need of in-patient care or treatment in a designated centre the military judge shall, after consultation with the clinical director of the designated centre concerned, commit him to a specified designated centre until an order is made under section 13 F306[or 13A] of the Criminal Law (Insanity) Act 2006.]
+
+F307[(2A) In this section "clinical director" shall have the same meaning as in section 1 of the Criminal Law (Insanity) Act 2006.]
+
+(3) F308[...]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F302: Substituted (1.06.2006) by *Criminal Law (Insanity) Act 2006* (11/2006), s. 21, S.I. No. 273 of 2006.
+>
+> F303: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 51(a)(i), S.I. No. 254 of 2008.
+>
+> F304: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 51(a)(ii), S.I. No. 254 of 2008.
+>
+> F305: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 51(b), S.I. No. 254 of 2008.
+>
+> F306: Inserted (8.02.2011) by *Criminal Law (Insanity) Act 2010* (40/2010), s. 10(b), S.I. No. 50 of 2011.
+>
+> F307: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 51(c), S.I. No. 254 of 2008.
+>
+> F308: Deleted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 51(d), S.I. No. 254 of 2008.
+>
+> **Editorial Notes:**
+>
+> E70: Provision for appeal made by *Courts-Martial Appeals Act 1983* (19/1983), s. 19B(1)(b) and (3), as inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 11 and sch. 4, pt. 1, S.I. No. 254 of 2008.
+>
+> E71: Provision for review of detention under section made (1.06.2006) by *Criminal Law Insanity Act 2006* (11/2006), s. 13, S.I. No. 273 of 2006, as amended.
+>
+> E72: Previous affecting provision: section amended (29.06.1983) by *Courts-Martial Appeals Act 1983* (19/1983), s. 6, commenced on enactment; substituted as per F-note above.
+
+#### 203A. Diminished responsibility.
+
+F309[**203A.**—Section 6 of the Criminal Law (Insanity) Act 2006, shall apply with any necessary modifications to a person subject to military law who is tried by court-martial for murder as it applies to a person who is tried for murder.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F309: Inserted (1.06.2006) by *Criminal Law (Insanity) Act 2006* (11/2006), s. 21, S.I. No. 273 of 2006.
+
+#### 203B. Appeals (mental disorder at time of trial).
+
+F310[**203B.**—(1) An appeal shall lie to the Courts-Martial Appeal Court (in this section and in sections 203C and 203D referred to as "the Court") from a finding by a court-martial pursuant to section 202 that a person charged with an offence is unfit to take his trial.
+
+(2) Where the Court makes an order pursuant to section 19A (inserted by the Defence (Amendment) Act 2007) of the Courts-Martial Appeals Act 1983 that the appellant be tried or retried, as the case may be, by court-martial for the offence alleged, the appellant may, subject to the directions of the Director, be tried or retried for an offence other than the offence alleged in respect of which he was found unfit to take his trial being an offence of which he might be found guilty on a charge for the offence alleged.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F310: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 52, S.I. No. 254 of 2008.
+
+#### 203C. Appeals (not guilty by reason of insanity).
+
+F311[**203C.**—A person tried for an offence by court-martial and found not guilty by reason of insanity may appeal against the finding to the Court pursuant to section 19B (inserted by the Defence (Amendment) Act 2007) of the Courts-Martial Appeals Act 1983.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F311: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 52, S.I. No. 254 of 2008.
+
+#### 203D. Appeals (order of committal under section 202 or 203).
+
+F312[**203D.**—An appeal against a decision by a court-martial to make or not to make an order of committal under section 202(1)(*b*) or 203(2) shall lie at the instance of the person charged with the offence concerned or the Director to the Court pursuant to section 19C (inserted by the Defence (Amendment) Act 2007) of the Courts-Martial Appeals Act 1983.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F312: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 52, S.I. No. 254 of 2008.
+
+#### 204. Finding of acquittal.
+
+**204.**—A finding of acquittal by a court-martial, whether on all or any one or more of the charges with which the accused is charged, F313[...] shall be pronounced at once in open court, and, if it relates to all the charges with which the accused is charged before the court-martial, the accused shall be released.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F313: Deleted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(2) and sch. 2, S.I. No. 254 of 2008.
+
+#### 205. Conviction for offence other than that charged.
+
+**205.**—(1) An accused charged before a court-martial with desertion may be found guilty of attempting to desert or of being absent without leave.
+
+(2) An accused charged before a court-martial with attempting to desert may be found guilty of being absent without leave.
+
+(3) An accused charged before a court-martial with any one of the offences mentioned in section 132 may be found guilty of any other offence mentioned in that section.
+
+(4) An accused charged before a court-martial with any one of the offences mentioned in section 133 may be found guilty of any other offence mentioned in that section.
+
+(5) An accused charged before a court-martial with stealing may be found guilty of embezzlement or fraudulently misapplying property.
+
+(6) An accused charged before a court-martial with embezzlement may be found guilty of stealing or fraudulently misapplying property.
+
+(7) An accused charged before a court-martial with any other offence against military law may, on failure of proof of an offence being committed under circumstances involving a higher degree of punishment, be found guilty of the same offence as being committed under circumstances involving a less degree of punishment.
+
+(8) Where an accused is charged before a court-martial with a civil offence and the charge is one upon which, if he had been tried by a civil court, he might have been found guilty of any other offence, the court-martial shall have power to find him guilty of that other offence.
+
+#### 205A. Effect of certain offences on persons in respect of whom committed.
+
+F314[**205A.**—(1) In determining the punishment to be awarded to a person for an offence to which this section applies, the military judge presiding at the court-martial concerned shall take into account, and may, where necessary, receive evidence or submissions concerning, any effect (whether long-term or otherwise) of the offence on the person in respect of whom the offence was committed.
+
+(2) This section applies to—
+
+(*a*) a sexual offence within the meaning of the Criminal Evidence Act 1992 (as amended by the Criminal Law (Sexual Offences) Act 2006),
+
+(*b*) an offence involving violence or the threat of violence to a person, and
+
+(*c*) an offence consisting of attempting or conspiring to commit, or aiding, abetting, counselling, procuring or inciting the commission of, an offence mentioned in paragraph (*a*) or (*b*) of this subsection.
+
+(3) Where a military judge is determining the punishment to be awarded to a person for an offence to which this section applies, the military judge shall, upon application by the person in respect of whom the offence was committed, hear the evidence of the person in respect of whom the offence was committed as to the effect of the offence on that person.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F314: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 53, S.I. No. 254 of 2008.
+
+#### 206. Effective dates of sentences by courts-martial.
+
+**206.**—F315[(1) Subject to section 212A, every term of imprisonment or detention to which a person is sentenced by a court-martial, whether the person is already undergoing sentence or not, shall, save as otherwise expressly provided in this Act, be reckoned to commence on the day on which the sentence is signed by the military judge presiding at the court-martial or on such earlier date as the military judge may direct.]
+
+(2) Each of the following sentences—
+
+(*a*) dismissal with F316[disgrace] from the Defence Forces,
+
+(*b*) dismissal from the Defence Forces,
+
+F317[(*bb*) reduction to a lower commissioned army rank, or to a lower commissioned naval rank,]
+
+(*c*) discharge with F316[disgrace] from the Defence Forces,
+
+(*d*) discharge from the Defence Forces,
+
+(*e*) reduction to a lower non-commissioned army rank, or to a lower non-commissioned naval rank,
+
+shall take effect on and from a date to be fixed in the manner prescribed.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F315: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 54, S.I. No. 254 of 2008.
+>
+> F316: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(2) and sch. 2, S.I. No. 254 of 2008.
+>
+> F317: Inserted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 11, commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C56: Application of section restricted (29.06.1983) by *Courts-Martial Appeals Act 1983* (19/1983), s. 20(2), commenced on enactment.
+>
+> **Convictions and sentences of the Court, etc.**
+>
+> **20.**— ...
+>
+> (2) Notwithstanding section 206 of the Act of 1954, the Court may by order provide for the date on which a sentence substituted by it, or passed by a court-martial and not varied by the Court, shall commence or take effect.
+>
+> **Editorial Notes:**
+>
+> E73: Previous affecting provision: subs. (1) amended (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, para. 4, commenced as per s. 1; substituted as per F-note above.
+
+#### 207. Summoning and privilege of witnesses at courts-martial.
+
+**207.**—(1) Every person required to give evidence before a court-martial may be summoned or ordered to attend in the prescribed manner.
+
+(2) Every person attending in pursuance of such summons or order as a witness before any court-martial shall during his necessary attendance in or on such court-martial and in going to and returning from the same have the same privilege from arrest as if he were a witness before the High Court.
+
+F318[(3) For the purposes of this section and section 208 (except subsection (2) of section 208), references to a court-martial shall be deemed to include an officer taking a written summary of evidence in accordance with rules of procedure.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F318: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 55, S.I. No. 254 of 2008.
+>
+> **Modifications (not altering text):**
+>
+> C57: Application of section extended (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987) s. 8(1), commenced on enactment, as amended (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 11 and sch. 4, pt. 2, S.I. No. 254 of 2008.
+>
+> **Production of documents in evidence.**
+>
+> **8.**— (1) A person summoned or ordered under section 207 of the Principal Act to give evidence before a court-martial may by letter signed by the **[**military judge presiding**]** at the court-martial be required to produce to such court-martial any document, record or other thing in his power or control being a document, record or other thing which is either specified in such letter or is of a class or description so specified and being in either case a document, record or other thing required as evidence at such court-martial.
+>
+> ...
+
+#### 208. Contempt of court-martial.
+
+**208.**—F319[(1) If any person not subject to military law—
+
+(*a*) having been duly summoned as a witness before a court-martial, without just cause or excuse disobeys the summons, or
+
+(*b*) being in attendance as a witness at a court-martial, without just cause or excuse fails or refuses to take an oath or make a solemn declaration when legally required by the court-martial to do so, or to produce any document, record or other thing in his power or control legally required by the court-martial to be produced by him, or to answer any question to which the court-martial may legally require an answer, or
+
+F320[(*ba*) fails, neglects or refuses to comply with a direction of the military judge under section 195, or
+
+(*bb*) wilfully gives evidence to a court-martial which is material to the court-martial and which he knows to be false or does not believe to be true, or
+
+(*bc*) by act or omission, obstructs or hinders the court-martial in the performance of its functions, or]
+
+F321[(*c*) does or omits to do any other thing, which, if the court-martial were a civil court having power to commit for contempt, would be contempt of that court,]
+
+the person shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding F322[€3,000] or, at the discretion of the court, to imprisonment for a term not exceeding twelve months or to both such fine and such imprisonment.]
+
+F323[(1A) A prosecution for an offence under this section may be brought only by or with the consent of the Director of Public Prosecutions.]
+
+(2) F324[(*a*) If any person subject to military law is guilty of contempt of a court-martial by using insulting or threatening language or by causing any interruption or disturbance in the proceedings of the court-martial, the military judge presiding at the court-martial, if he considers it expedient, instead of the offender being tried by court-martial, may by order under his hand—
+
+(i) order the offender to be imprisoned, or, in the case of a man, to undergo detention, for a period not exceeding ninety days, or
+
+(ii) where the offender is a person subject to military law as an officer under section 118(1)(*a*), (*b*) or (*c*), award a fine not exceeding fourteen days’ pay at the most recent rate payable, or
+
+(iii) where the offender is a person subject to military law as an officer under section 118(1)(*d*) or (*e*), award a fine not exceeding the maximum fine awardable for the time being by a court-martial to an officer holding the rank of second lieutenant who is in receipt of the maximum pay applicable to that rank, or
+
+(iv) where the offender is a person subject to military law as a man under section 119(*a*) or (*b*), award a fine of an amount not exceeding fourteen days’ pay at the most recent rate payable, or
+
+(v) where the offender is a person subject to military law as a man under section 119(*c*) or (*d*), award a fine not exceeding the maximum fine awardable for the time being by a court-martial to a man holding the rank of private of the highest grade who is in receipt of the maximum pay applicable to that rank.]
+
+(*b*) Chapter VII of this Part shall not apply to an order under paragraph (*a*) of this subsection.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F319: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 12, commenced on enactment, subject to transitional provision in s. 16.
+>
+> F320: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 56(a), S.I. No. 254 of 2008.
+>
+> F321: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 56(a), S.I. No. 254 of 2008.
+>
+> F322: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 56(a), S.I. No. 254 of 2008. A fine of €3,000 translates into a class B fine, not greater than €4,000, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 5(3) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> F323: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 56(b), S.I. No. 254 of 2008.
+>
+> F324: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 56(c), S.I. No. 254 of 2008.
+>
+> **Editorial Notes:**
+>
+> E74: Previous affecting provision: subs. (2)(a) amended (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, para. 8, commenced as per s. 1; substituted as per F-note above.
+
+### Chapter VI.Punishments awardable by Courts-martial for Offences against Military Law. — Chapter VI. — Punishments awardable by Courts-martial for Offences against Military Law.
+
+#### 209. Punishments which may be awarded to officers by courts-martial.
+
+**209.**—F325[(1) Subject to section 192, punishments may be awarded in respect of offences against military law committed by persons subject to military law as officers and convicted by court-martial according to the following scale:
+
+SCALE.
+
+A. Imprisonment for life or any specified period.
+
+B. Dismissal with disgrace from the Defence Forces.
+
+C. Dismissal from the Defence Forces.
+
+D. Where the person convicted is an officer, reduction to any lower commissioned rank.
+
+E. Forfeiture of all seniority of rank or of a specified term of seniority.
+
+F. Reduction to any lower point on the scale of pay for the rank held.
+
+G. (*a*) In the case of a person subject to military law as an officer under section 118(1)(*a*), (*b*) or (*c*), a fine not exceeding fourteen days’ pay of the person at the most recent rate payable.
+
+(*b*) In the case of a person subject to military law as an officer under section 118(1)(*d*) or (*e*), a fine not exceeding the maximum fine awardable for the time being by a court-martial to an officer holding the rank of second lieutenant who is in receipt of the maximum pay applicable to that rank.
+
+(*c*) In the case of a person who is not a member of the Defence Forces but who was an officer when the offence was committed, a fine not exceeding an amount equal to fourteen days’ pay at the most recent rate applicable to his former rank.
+
+H. Severe reprimand.
+
+I. Reprimand.]
+
+(2) For the purposes of this Act in its application to a person subject to military law as an officer, any punishment mentioned in the Scale to subsection (1) of this section shall be deemed to be a punishment less than any punishment mentioned before it in the said Scale.
+
+(3) Where—
+
+(*a*) a person subject to military law as an officer is convicted by court-martial of an offence against military law mentioned in any section contained in Chapter II of this Part, and
+
+(*b*) such section provides that on such conviction he shall be liable to suffer a specified punishment or any less punishment awardable by a court-martial.
+
+the expression “any less punishment awardable by a court-martial” means in such section any punishment mentioned in the Scale to subsection (1) of this section which is less than the specified punishment.
+
+(4) Save as is otherwise expressly provided in this Act, a person convicted by court-martial of having committed an offence against military law while subject to military law as an officer shall be sentenced to one punishment only.
+
+F326[(5) (*a*) Where an officer is sentenced to a term of imprisonment of more than six months, the military judge shall, in addition, sentence him to dismissal with disgrace from the Defence Forces or dismissal from the Defence Forces.
+
+(*b*) Where an officer is sentenced to a term of imprisonment of six months or less (other than under section 208(2)), the military judge may, in addition, sentence him to dismissal with disgrace from the Defence Forces or dismissal from the Defence Forces or reduction to any lower commissioned rank.]
+
+(6) An officer sentenced by a court-martial to a fine may be also sentenced to severe reprimand or reprimand.
+
+F327[(6A) An officer sentenced by a court-martial to reduction in rank may, in addition, be sentenced to—
+
+(*a*) reduction to any lower point on the scale of pay for that rank and forfeiture of a specified term of seniority or all seniority in respect of the rank to which the officer is sentenced to be reduced, or
+
+(*b*) to a fine or severe reprimand or reprimand,
+
+or both.]
+
+F328[(7) An officer sentenced by a court-martial to forfeiture of seniority of rank may, in addition, be sentenced to reduction to any lower point on the scale of pay for the rank held, or to a fine or severe reprimand or reprimand.]
+
+F329[(7A) An officer sentenced by a court-martial to reduction to a lower point on the scale of pay for the rank held may, in addition, be sentenced to a fine or severe reprimand or reprimand.]
+
+F330[(8) An officer dismissed with F331[disgrace] from the Defence Forces shall—
+
+(*a*) be disqualified for ever serving the State again in any military capacity, and
+
+(*b*) during the period of seven years beginning on the date of his dismissal, subject to subsection (9) of this section, be disqualified for serving the State in any civil capacity.]
+
+F332[(9) Where a person by reason of this section is for the time being disqualified for serving the State in any civil capacity, the Government may, in their absolute discretion, remove the disqualification.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F325: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 57(a), S.I. No. 254 of 2008.
+>
+> F326: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 57(b), S.I. No. 254 of 2008.
+>
+> F327: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 57(c), S.I. No. 254 of 2008.
+>
+> F328: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 57(d), S.I. No. 254 of 2008.
+>
+> F329: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 57(e), S.I. No. 254 of 2008.
+>
+> F330: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 4(1)(d), commenced on enactment, subject to transitional provision in s. 16.
+>
+> F331: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 57(f), S.I. No. 254 of 2008.
+>
+> F332: Inserted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 4(1)(d), commenced on enactment, subject to transitional provision in s. 16.
+>
+> **Editorial Notes:**
+>
+> E75: Previous affecting provision: subss. (1) and (5) amended (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, paras. 9 and 10, commenced as per s. 1; substituted as per F-note above.
+>
+> E76: Previous affecting provision: subs. (1) amended (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(j), commenced on enactment; substituted as per F-note above.
+>
+> E77: Previous affecting provision: subs. (1) amended (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 4(1)(a) - (d) subject to transitional provision in s. 16, commenced on enactment; substituted as per F-note above.
+
+#### 210. Punishments which may be awarded to men by courts-martial.
+
+**210.**—F333[(1) Subject to section 192, punishments may be awarded in respect of offences against military law committed by persons subject to military law as men and convicted by court-martial according to the following scale:
+
+SCALE.
+
+A. Imprisonment for life or any specified period.
+
+B. Discharge with disgrace from the Defence Forces.
+
+C. Discharge from the Defence Forces.
+
+D. Detention—
+
+(*a*) in the case of a general court-martial or limited court-martial, for any term not exceeding two years,
+
+(*b*) in the case of a summary court-martial, for any term not exceeding six months,
+
+with or without forfeiture of all pay or any part thereof.
+
+E. Where the person convicted is a non-commissioned officer, reduction to any lower non-commissioned rank.
+
+F. Forfeiture of all seniority of rank or of a specified term of seniority.
+
+G. Reduction to any lower point on the scale of pay for the rank held.
+
+H. (*a*) In the case of a person subject to military law as a man under section 119(*a*) or (*b*), a fine of an amount not exceeding fourteen days’ pay of the person at the most recent rate payable.
+
+(*b*) In the case of a person subject to military law as a man under section 119(*c*) or (*d*), a fine not exceeding the maximum fine awardable for the time being by a court-martial to a man holding the rank of private of the highest grade who is in receipt of the maximum pay applicable to that rank.
+
+(*c*) In the case of a person who is not a member of the Defence Forces but who was a non-commissioned officer, private or seaman when the offence was committed, a fine not exceeding an amount equal to fourteen days’ pay at the most recent rate applicable to his former rank.
+
+I. Severe reprimand.
+
+J. Reprimand.]
+
+(2) For the purposes of this Act in its application to a person subject to military law as a man, any punishment mentioned in the Scale to subsection (1) of this section shall be deemed to be a punishment less than any punishment mentioned before it in the said Scale.
+
+(3) Where—
+
+(*a*) a person subject to military law as a man is convicted by court-martial of an offence against military law mentioned in any section contained in Chapter II of this Part, and
+
+(*b*) such section provides that on such conviction he shall be liable to suffer a specified punishment or any less punishment awardable by a court-martial,
+
+the expression “any less punishment awardable by a court-martial” means in such section any punishment mentioned in the Scale to subsection (1) of this section which is less than the specified punishment.
+
+(4) Save as is otherwise expressly provided in this Act, a person convicted by court-martial of having committed an offence against military law while subject to military law as a man shall be sentenced to one punishment only.
+
+(5) F334[...]
+
+F335[(6) Where a man is sentenced to a term of imprisonment exceeding six months, the military judge shall, in addition, sentence him to discharge with disgrace from the Defence Forces or discharge from the Defence Forces.]
+
+F336[(7) Where a man is sentenced to a term of imprisonment of six months or less (other than under section 208(2)), the military judge may, in addition, sentence him to discharge with disgrace from the Defence Forces or discharge from the Defence Forces.]
+
+F337[(8) A non-commissioned officer sentenced by a court-martial to a punishment mentioned at F or G in the Scale to subsection (1) of this section may, in addition, be sentenced to a fine or severe reprimand or reprimand.]
+
+F338[(8A) A non-commissioned officer sentenced by a court-martial to reduction in rank may, in addition, be sentenced to—
+
+(*a*) reduction to any lower point on the scale of pay for that rank and forfeiture of a specified term of seniority or all seniority in respect of the rank to which he is sentenced to be reduced, or
+
+(*b*) to a fine or severe reprimand or reprimand,
+
+or both.]
+
+(9) Where a court-martial sentences a man to detention or severe reprimand or reprimand, the court-martial may also sentence him to a fine.
+
+(10) Where a non-commissioned officer is sentenced by a court-martial to imprisonment F339[for any term not exceeding two years] or detention, the court-martial shall also sentence him to reduction to, in case he holds a non-commissioned army rank, the rank of private or, in any other case, the rank of seaman.
+
+F340[(11) A man discharged with F341[disgrace] from the Defence Forces shall—
+
+(*a*) be disqualified for ever serving the State again in any military capacity, and
+
+(*b*) during the period of seven years beginning on the date of his discharge, subject to subsection (12) of this section, be disqualified for serving the State in any civil capacity.]
+
+F342[(12) Where a person by reason of this section is for the time being disqualified for serving the State in any civil capacity, the Government may, in their absolute discretion, remove the disqualification.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F333: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 58(a), S.I. No. 254 of 2008.
+>
+> F334: Deleted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 58(b), S.I. No. 254 of 2008.
+>
+> F335: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 58(c), S.I. No. 254 of 2008.
+>
+> F336: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 58(d), S.I. No. 254 of 2008.
+>
+> F337: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 58(e), S.I. No. 254 of 2008.
+>
+> F338: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 58(f), S.I. No. 254 of 2008.
+>
+> F339: Inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(l), commenced on enactment.
+>
+> F340: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 4(2)(c), commenced on enactment, subject to transitional provision in s. 16.
+>
+> F341: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 58(g), S.I. No. 254 of 2008.
+>
+> F342: Inserted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 4(2)(c), commenced on enactment, subject to transitional provision in s. 16.
+>
+> **Editorial Notes:**
+>
+> E78: Previous affecting provision: subss. (1) and (6) amended (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14(1) and sch. 2, paras. 11 and 12, commenced as per s. 1; substituted as per F-notes above.
+>
+> E79: Previous affecting provision: subss. (1), (6), (7) and (10) amended (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(j)-(l), commenced on enactment; substituted as per F-notes above.
+
+#### 211. Separate sentence for each offence.
+
+F343[**211.**—(1) Where a person is convicted by a court-martial of two or more offences, a separate sentence shall be awarded in respect of each offence.
+
+(2) Subject to section 212A, where a person is convicted by a court-martial in respect of two or more offences, any custodial sentences awarded in respect of each such offence shall be served concurrently.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F343: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 59, S.I. No. 254 of 2008.
+
+#### 211A. Restriction on sentence of imprisonment or detention on person who is not represented.
+
+F344[**211A.**—(1) Subject to subsection (2) of this section, a person convicted by a court-martial of an offence against military law shall not be sentenced to imprisonment or dismissal or discharge with disgrace from the Defence Forces or dismissal or discharge from the Defence Forces where the person has not been represented by counsel (within the meaning of section 196) at some time after he is found guilty and before he is sentenced.
+
+(2) Subsection (1) of this section shall not apply where the person—
+
+(*a*) pursuant to rules of procedure, having been informed of his right to be represented by counsel and having had the opportunity to arrange such representation, refused or failed to do so, or
+
+(*b*) has previously been sentenced to imprisonment for an offence under this Act or by a civil court in the State.
+
+(3) For the purposes of subsection (2)(*b*) of this section—
+
+(*a*) a previous sentence of imprisonment which has been suspended and has not taken effect is to be disregarded,
+
+(*b*) "sentenced to imprisonment" does not include a committal for contempt of court under section 208.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F344: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 60, S.I. No. 254 of 2008.
+>
+> **Editorial Notes:**
+>
+> E80: Procedure for the purposes of section prescribed (1.09.2008) by *Court-Martial Rules 2008* (S.I. No. 205 of 2008), rl. 58(2), in effect as per rl. 1(2).
+
+#### 212. Restriction on sentence of imprisonment and detention on person already undergoing imprisonment or detention.
+
+**212.**—Where—
+
+(*a*) a person is convicted by a court-martial of an offence against military law, and
+
+(*b*) the court-martial proposes to sentence such person to imprisonment or detention, and
+
+(*c*) such person is at the time of sentence undergoing imprisonment or detention under a former sentence,
+
+any sentence of imprisonment or detention awarded by the court-martial shall F345[be served concurrently with the term then unexpired of the former sentence and on completion of either sentence any balance of the other sentence shall be served].
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F345: Substituted (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, para. 13, commenced as per s. 1.
+>
+> **Modifications (not altering text):**
+>
+> C58: Application of section restricted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(m), commenced on enactment.
+>
+> FIRST SCHEDULE
+>
+> CONSEQUENTIAL AMENDMENTS
+>
+> 4\. The Defence Act, 1954, shall be amended as follows: ...
+>
+> (*m*) section 212 shall not apply to a sentence of imprisonment for life;
+>
+> ...
+
+#### 212A. Power to suspend sentence.
+
+F346[**212A.**—(1) In this section—
+
+"governor" includes, in relation to a military prisoner or a person undergoing detention, a person for the time being performing the functions of governor;
+
+"imprisonment" includes—
+
+(*a*) detention in a military prison or detention barrack or in other service custody or in a public prison, as referred to in section 229 of this Act,
+
+(*b*) F347[...]
+
+(*c*) detention in a place provided under section 2 of the Prisons Act 1970, and
+
+(*d*) detention in a place specified under section 3 of the Prisons Act 1972,
+
+and "sentence of imprisonment" shall be construed accordingly;
+
+"mandatory term of imprisonment" includes, in relation to an offence, a term of imprisonment awarded by a court-martial under this Act or any other enactment where provision is made that a person who is guilty of the offence concerned shall be liable to a term of imprisonment of not less than such term as is specified in this Act or that enactment.
+
+(2) Where a person is sentenced by a court-martial in respect of an offence to a term of imprisonment (other than a mandatory term of imprisonment) or to detention, the military judge presiding at the court-martial may make an order suspending the execution of the sentence in whole or in part, subject to the person entering into a recognisance to comply with the conditions of, or imposed in relation to, the order.
+
+(3) It shall be a condition of an order under subsection (2) of this section that the person in respect of whom the order is made keep the peace and be of good behaviour during—
+
+(*a*) the period of suspension of the sentence concerned, or
+
+(*b*) in the case of an order that suspends a sentence in part only, the period of imprisonment or detention and the period of suspension of the sentence concerned,
+
+and that condition shall be specified in the order concerned.
+
+(4) The military judge may, when making an order under subsection (2) of this section, impose such conditions in relation to the order as he considers—
+
+(*a*) appropriate having regard to the nature of the offence, and
+
+(*b*) will reduce the likelihood of the person in respect of whom the order is made committing any other offence,
+
+and any condition imposed in accordance with this subsection shall be specified in that order.
+
+(5) In addition to any condition imposed under subsection (4) of this section, the military judge may, when making an order under subsection (2) of this section consisting of the suspension in part of a sentence of imprisonment or detention, impose any one or more of the following conditions in relation to that order:
+
+(*a*) that the person cooperate with such support services, and to such extent, as may be specified by the military judge;
+
+(*b*) that the person undergo such—
+
+(i) treatment for addiction,
+
+(ii) course of education, training or therapy,
+
+(iii) psychological counselling or other treatment,
+
+as may be approved by the military judge.
+
+(6) A condition imposed under subsection (5) of this section shall be specified in the order concerned.
+
+(7) Where an order is made under subsection (2) of this section, a copy of the order shall be given by the Court-Martial Administrator—
+
+(*a*) to the commanding officer of the person to whom the order applies and the Provost Marshal, or
+
+(*b*) in the case of an order consisting of the suspension of a sentence of imprisonment or detention in part only, to the persons referred to in paragraph (*a*) of this subsection, to the governor of the prison or detention barrack to which the person is committed and to such other person, authority or support services as the military judge may direct having regard to the conditions (if any) imposed under subsection (5) of this section.
+
+(8) (*a*) Where a person to whom an order under subsection (2) of this section applies is, during the period of suspension of the sentence concerned, convicted by a court-martial of an offence, the military judge presiding at the court-martial before which proceedings for the offence were brought shall, after imposing sentence for that offence, remand the person in custody or otherwise to appear before a court-martial of the same class as that which made the order.
+
+(*b*) Where a person is remanded pursuant to paragraph (*a*) of this subsection, the Court-Martial Administrator shall, subject to the directions of the Director—
+
+(i) refer the matter to the summary court-martial, or
+
+(ii) convene a general court-martial or limited court-martial, as specified in the direction, but without a court-martial board,
+
+to deal with the matter.
+
+(9) (*a*) A summary court-martial or the military judge presiding at a general court-martial or limited court-martial, as the case may be, to which a person is remanded under subsection (8) of this section shall revoke the order unless the military judge considers that revocation of that order would be unjust in all the circumstances of the case.
+
+(*b*) Where the military judge revokes that order, the person shall be required to serve the entire of the sentence of imprisonment or detention originally awarded, or such part of the sentence as the military judge considers just having regard to all the circumstances of the case, less any period of that sentence already served and any period spent in custody (other than a period during which the person was serving a sentence of imprisonment or detention in respect of an offence referred to in subsection (8) of this section) pending revocation of the said order.
+
+(10) Notwithstanding the provisions of section 211 or of any other section of this Act, a sentence (other than a sentence consisting of imprisonment for life) awarded—
+
+(*a*) in respect of an offence committed by a person to whom an order under subsection (2) of this section applies, and
+
+(*b*) during the period of suspension of sentence to which that order applies,
+
+shall not commence until the expiration of any period of imprisonment or detention that the person is required to serve of the sentence referred to in paragraph (*b*) of this subsection either by virtue of the order under subsection (2) or a revocation under subsection (9) of this section.
+
+(11) Where the Provost Marshal or, as the case may be, the governor of the prison or detention barrack to which a person was committed has reasonable grounds for believing that a person to whom an order under this section applies has contravened a condition referred to in the order he shall refer the matter to the Director who may—
+
+(*a*) subject to the court-martial being of the same class as that which made the order, direct the Court-Martial Administrator to—
+
+(i) refer the matter to the summary court-martial, or
+
+(ii) convene a general court-martial or limited court-martial, as specified in his direction, but without a court-martial board,
+
+and
+
+(*b*) apply in the prescribed manner to that court-martial to fix a date for the hearing of an application for an order revoking the order under subsection (2) of this section.
+
+(12) Where a date for the hearing of an application referred to in subsection (11) of this section is fixed, the person in respect of whom the application will be made, or where that person is in prison or a detention barrack, the governor of the prison or detention barrack, shall be notified in writing in the prescribed manner, and the notice shall require the person to attend at the hearing, or require the said governor to produce the person before the court-martial, on the date and at the time specified in the notice.
+
+(13) A notice under subsection (12) of this section shall be addressed to the person concerned by name, and may be given to the person in the prescribed manner.
+
+(14) If a person who is not in prison or a detention barrack fails to appear before the court-martial in accordance with a requirement contained in a notice under subsection (12) of this section, the military judge presiding at the court-martial concerned may make an order for the arrest of the person.
+
+(15) The military judge presiding at the court-martial shall, where he is satisfied that a person to whom an order under subsection (1) of this section applies has contravened a condition of the order, revoke the order unless he considers that revocation of that order would be unjust in all of the circumstances of the case, and where the military judge revokes that order, the person shall be required to serve the entire of the sentence originally awarded, or such part of the sentence as the military judge considers just having regard to all of the circumstances of the case, less any period of that sentence already served in prison or in a detention barrack and any period spent in custody pending the revocation of the order.
+
+(16) The revocation of an order under subsection (9) or (15) of this section shall for the purposes of this Act and the Courts-Martial Appeals Act 1983 be deemed to be a sentence of a court-martial.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F346: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 61, S.I. No. 254 of 2008.
+>
+> F347: Deleted (7.04.2017) by *Prisons Act 2015* (57/2015), s. 7, S.I. No. 134 of 2017.
+
+#### 212B. Review of certain sentences.
+
+F348[**212B.**—(1) If it appears to the Director that a sentence awarded by a court-martial, on conviction of a person for an offence in respect of which punishment for a term of imprisonment of two years or for any longer period is awardable by the court-martial, is unduly lenient, the Director may apply to the Courts-Martial Appeal Court to review the sentence in accordance with section 22B (inserted by the Defence (Amendment) Act 2007) of the Courts-Martial Appeals Act 1983 and rules of court made under that Act.
+
+(2) Section 161(2)(*ea*) (which prohibits certain communications in relation to proceedings before a service tribunal) shall apply, with any necessary modifications, to communications made to the persons mentioned in that section for the purpose of influencing the making of a decision in relation to an application under this section as it applies to those communications made for the purposes specified in that provision.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F348: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 62, S.I. No. 254 of 2008.
+
+#### 213. Order for payment of compensation.
+
+F349[**213.**—(1) Where—
+
+(*a*) a person subject to military law is convicted by a court-martial of an offence against military law, and
+
+(*b*) the offence occasioned any personal injury, expense or loss or destruction of, or damage to, any property,
+
+the military judge presiding at the court-martial may, instead of or in addition to any other punishment which he is authorised by this Act to award in respect of the offence, order that there shall be paid by the person convicted compensation for the personal injury, expense, loss, damage or destruction so occasioned to any person (in this Act referred to as the "injured party") who has suffered such personal injury, expense, loss, damage or destruction.
+
+(2) The compensation payable under this section shall be of such amount as the military judge considers appropriate, having regard to any evidence and to any representations that are made by or on behalf of the convicted person, the injured party or the Director and, subject to the relevant maximum amounts specified in subsection (3) of this section, shall not exceed the amount of the damages that, in the opinion of the military judge, the injured party would be entitled to recover in a civil action against the convicted person in respect of the injury, expense, loss, damage or destruction concerned.
+
+(3) In this section "relevant maximum amount" means—
+
+(*a*) in the case of a compensation order made by a summary court-martial, €10,000,
+
+(*b*) in the case of a compensation order made by the military judge presiding at a limited court-martial, €20,000,
+
+(*c*) in the case of a compensation order made by the military judge presiding at a general court-martial, €100,000.
+
+(4) Where the commission of the offence by the convicted person involved the taking of property out of the possession of the injured party and the property has been recovered, any loss occurring to the injured party by reason of the property being damaged while out of his possession shall be treated for the purposes of subsection (1) of this section as having resulted from the offence, irrespective of how the damage was caused or who caused it.
+
+(5) In determining whether to make an order under this section against a person, and in determining the amount of the compensation, the military judge shall have regard to the person’s means so far as they appear or are known to the military judge and for that purpose the military judge may require the convicted person to give evidence as to his means and financial commitments.
+
+(6) An order under this section may provide for payment of the compensation by such instalments and at such times as the military judge considers reasonable in all the circumstances.
+
+(7) Where the military judge considers that—
+
+(*a*) it would be appropriate both to award a fine under section 209 or 210, as the case may be, and to make an order under this section, but
+
+(*b*) the convicted person has insufficient means to pay both an appropriate fine and appropriate compensation,
+
+the military judge may, if he is satisfied that the means are sufficient to justify doing so, make an order under this section and if he is satisfied that it is appropriate to do so having regard to the means that would remain after compliance with the order, award a fine.
+
+(8) This section is without prejudice to any other enactment which provides for the payment of compensation by a person convicted of an offence or otherwise proved to have committed an offence.
+
+(9) For the purposes of this section—
+
+(*a*) in a case where death has resulted from an offence specified in subsection (1) of this section—
+
+"loss" means any matter (including mental distress resulting from the death and funeral expenses) for which damages could be awarded in respect of the death by virtue of Part V of the Civil Liability Act 1961;
+
+"injured party" includes a dependant (within the meaning of the said Part V) of the deceased person concerned,
+
+(*b*) in a case where service property is the subject of an order under this section, "injured party" includes the Minister.
+
+(10) An order under this section shall, for the purposes of this Act and the Courts-Martial Appeals Act 1983, be deemed to be a sentence of a court-martial.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F349: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 63, S.I. No. 254 of 2008.
+
+#### 213A. Payment of fine.
+
+F350[**213A.**—(1) Where a person subject to military law is convicted by a court-martial and is sentenced to a fine, the fine shall be a stated amount.
+
+(2) The terms of payment of a fine referred to in subsection (1) of this section are, subject to the provisions of this Act, at the discretion of the military judge who awards the fine.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F350: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 64, S.I. No. 254 of 2008.
+
+#### 214. Restoration of seniority lost and service forfeited by sentence of a court-martial.
+
+**214.**—The Minister may restore the whole or any part of any seniority of rank or service forfeited by sentence of a court-martial in the case of an officer or man who may perform good and faithful service or who may otherwise be deemed by the Minister to merit such restoration.
+
+### Chapter VII.Action on Findings and Sentences of Courts-martial. — Chapter VII. — Action on Findings and Sentences of Courts-martial.
+
+#### 215. Findings and sentences not to be valid unless confirmed.
+
+**215.**—F351[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F351: Repealed (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(1), S.I. No. 254 of 2008.
+>
+> **Editorial Notes:**
+>
+> E81: Previous affecting provision: section amended (29.06.1983) by *Courts-Martial Appeals Act 1983* (19/1983), s. 7, commenced on enactment; repealed as per F-note above.
+
+#### 216. Confirming authorities.
+
+**216.**—F352[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F352: Repealed (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(1), S.I. No. 254 of 2008.
+
+#### 217. Reference of finding and sentence by confirming authority to superior confirming authority.
+
+**217.**—F353[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F353: Repealed (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(1), S.I. No. 254 of 2008.
+
+#### 218. Revision by courts-martial of findings and sentences.
+
+**218.**—F354[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F354: Repealed (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(1), S.I. No. 254 of 2008.
+
+#### 219. Powers of confirming authority as to confirmation.
+
+**219.**—F355[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F355: Repealed (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(1), S.I. No. 254 of 2008.
+
+#### 220. Additional powers of confirming authority in relation to sentences passed by courts-martial.
+
+**220.**—F356[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F356: Repealed (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(1), S.I. No. 254 of 2008.
+>
+> **Editorial Notes:**
+>
+> E82: Previous affecting provision: subs. (2) deleted and subs. (3) amended (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(n), commenced on enactment; repealed as per F-note above.
+
+#### 221. Mitigation, remission, etc., of sentences (other than death sentences) after confirmation.
+
+**221.**—F357[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F357: Repealed (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(1), S.I. No. 254 of 2008.
+>
+> **Editorial Notes:**
+>
+> E83: Previous affecting provision: subs. (1) amended (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(o), commenced on enactment; repealed as per F-note above.
+
+#### 222. Date of commencement of sentences of penal servitude, imprisonment or detention imposed by way of substitution.
+
+**222.**—F358[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F358: Repealed (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(1), S.I. No. 254 of 2008.
+>
+> **Editorial Notes:**
+>
+> E84: Previous affecting provision: subs.(3) amended (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, para. 4, commenced as per s. 1; repealed as per F-note above.
+>
+> E85: Previous affecting provision: section amended (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(p), commenced on enactment; repealed as per F-note above.
+
+#### 223. Suspension of sentences of penal servitude, imprisonment or detention passed on men.
+
+**223.**—F359[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F359: Repealed (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(1), S.I. No. 254 of 2008.
+>
+> **Editorial Notes:**
+>
+> E86: Previous affecting provision: subss.(1)-(4) and (7) amended (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, paras. 4 and 14, commenced as per s. 1; repealed as per F-note above.
+>
+> E87: Previous affecting provision: subs. (10) inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(q), commenced on enactment; repealed as per F-note above.
+
+#### 224. Quashing of finding of court-martial.
+
+**224.**—F360[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F360: Repealed (1.09.2008) by *Defence (Amendment) Act 2007*(24/2007), s. 4(1), S.I. No. 254 of 2008.
+>
+> **Editorial Notes:**
+>
+> E88: Previous affecting provision: subs. (2)(c)(iii) deleted (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, para. 15, commenced as per s. 1; repealed as per F-note above.
+>
+> E89: Previous affecting provision: application of section restricted (29.06.1983) by *Courts-Martial Appeals Act 1983* (19/1983), s. 8, commenced on enactment; repealed as per F-note above.
+
+#### 225. Orders for restitution.
+
+F361[**225.**—(1) Where a person is convicted by a court-martial of an offence under section 155 or 156, the military judge may on the conviction (whether or not the passing of sentence is in other respects deferred)—
+
+(*a*) order anyone having possession or control of the property which is the subject of the offence to restore it to any person entitled to recover it from the convicted person,
+
+(*b*) on the application of a person entitled to recover from the convicted person any other property directly or indirectly representing the property referred to in paragraph (*a*) of this subsection (as being the proceeds of any disposal or realisation of the whole or part of it or of property so representing it), order that other property to be delivered or transferred to the applicant, or
+
+(*c*) order that a sum not exceeding the value of the property referred to in paragraph (*a*) of this subsection shall be paid, out of any money of the convicted person which was taken out of his possession when arrested, to any person who, if the property were in the possession of the convicted person, would be entitled to recover that property from him.
+
+(2) Where the military judge has power on a person’s conviction to make an order against the person under both paragraphs (*b*) and (*c*) of subsection (1) of this section, the military judge may make orders under both paragraphs, if the person in whose favour the orders are made does not thereby recover more than the value of the property which is the subject of the offence concerned.
+
+(3) Where—
+
+(*a*) an order is made under subsection (1)(*a*) of this section for the restoration of any property, and
+
+(*b*) it appears to the military judge that the convicted person has sold the property to a person acting in good faith or has borrowed money on the security of it from a person so acting,
+
+then, on the application of the purchaser or lender, the military judge may order that there shall be paid to the applicant, out of any money of the convicted person which was taken out of his possession when arrested, a sum not exceeding the amount paid for the purchase by the applicant or, as the case may be, the amount owed to the applicant in respect of the loan.
+
+(4) (*a*) The military judge shall not exercise the powers conferred by this section unless in his opinion the relevant facts sufficiently appear from evidence given at the trial or the available documents, together with admissions made by or on behalf of any person in connection with any proposed exercise of the powers.
+
+(*b*) In paragraph (*a*) of this subsection "available documents" means—
+
+(i) any written statements or admissions which were made for use, and would have been admissible in evidence, at the trial, and
+
+(ii) any written statements or admissions used as evidence at the trial or in any such proceedings.
+
+(5) This section shall have effect only in relation to offences wholly or partly committed on or after the commencement of this section.
+
+(6) This section is without prejudice to the Police (Property) Act 1897 (disposal of property in the possession of the Garda Síochána).]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F361: Substituted (21.04.2007) by *Defence (Amendment) Act 2007* (24/2007), s. 65, commenced as per s. 1(3).
+
+#### 226. Proceedings of court-martial.
+
+F362[**226.**—(1) The proceedings of a court-martial shall be preserved in the prescribed manner.
+
+(2) For the purposes of this section, the proceedings of a court-martial include exhibits.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F362: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 66, S.I. No. 254 of 2008.
+
+### Chapter VIII.Execution of Sentences. — Chapter VIII. — Execution of Sentences.
+
+#### 227. Sentence of death.
+
+**227.**—F363[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F363: Deleted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(r), commenced on enactment.
+
+#### 228. Execution of sentence of penal servitude.
+
+**228.**—F364[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F364: Deleted (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, para. 15, commenced as per s. 1.
+>
+> **Editorial Notes:**
+>
+> E90: Previous affecting provision: subs. (1A) inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para 4(s), commenced on enactment; deleted as per F-note above.
+
+#### 229. Execution of sentence of imprisonment or detention.
+
+**229.**—F365[(1) F366[Subject to section 212A, where a sentence of imprisonment is passed by a court-martial,] the military prisoner shall undergo sentence as follows:
+
+(*a*) if the sentence is for a term exceeding two years, he or she shall, as soon as practicable, be committed to a public prison to undergo sentence;
+
+(*b*) if the sentence is for a term not exceeding two years, he or she shall undergo sentence either in a military prison or detention barrack or in other service custody or in a public prison, or partly in one way and partly in another.]
+
+(2) F367[Subject to section 212A, where a sentence of detention is passed by a court-martial,] the person on whom the sentence has been passed shall undergo the term of his detention either in a detention barrack or in service custody, or partly in one way and partly in another, but not in a public prison.
+
+(3) F368[Subject to section 212A, a military prisoner] or a man under sentence of detention may, until he reaches the prison or detention barrack in which he is to undergo his sentence, be kept in service custody or in civil custody or partly in service custody and partly in civil custody, and may by order of a competent authority be transferred from service custody to civil custody and from civil custody to service custody as occasion may require.
+
+(4) An order of a competent authority shall be a sufficient warrant for the committal of a military prisoner to prison or a detention barrack, or a man under sentence of detention to a detention barrack.
+
+(5) An order of a competent authority shall be a sufficient authority for the transfer of a military prisoner from prison to a detention barrack, or from a detention barrack to prison, or from one prison or detention barrack to another prison or detention barrack, or for the transfer of a man undergoing detention from one detention barrack to another, or for the delivery into service custody of a military prisoner or a man undergoing detention.
+
+(6) A military prisoner or a man undergoing detention may at any time, if his sentence is remitted, be released by order of a competent authority.
+
+(7) A military prisoner or a man undergoing detention may, during his conveyance from place to place, be subjected to such restraint as is necessary for his safe conduct and removal.
+
+(8) A military prisoner while in a public prison shall be confined F369[...] and otherwise dealt with in the same manner as an ordinary prisoner under a like sentence of imprisonment.
+
+(9) Where the hospital or place for reception of sick persons in a prison or a detention barrack is detached from the prison or detention barrack, a military prisoner or a man undergoing detention may be detained in that hospital or place, and conveyed to or from the same as circumstances require.
+
+(10) For the purposes of this section—
+
+(*a*) the expression “detention barrack” includes a barrack detention room;
+
+(*b*) each of the following shall be a competent authority, namely, the Minister and every prescribed officer, and different officers may be so prescribed for different such purposes.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F365: Substituted (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, para. 16, commenced as per s. 1.
+>
+> F366: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 67(a), S.I. No. 254 of 2008.
+>
+> F367: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 67(b), S.I. No. 254 of 2008.
+>
+> F368: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 67(c), S.I. No. 254 of 2008.
+>
+> F369: Deleted (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, para. 17, commenced as per s. 1.
+>
+> **Modifications (not altering text):**
+>
+> C59: Application of section restricted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(t), commenced on enactment.
+>
+> 4\. The Defence Act, 1954, shall be amended as follows: ...
+>
+> (*t*) section 229 shall not apply to a military prisoner sentenced to imprisonment for life; and
+>
+> ...
+
+#### 230. Suspension of currency of sentence where a person escapes or is released without proper authority.
+
+**230.**—Notwithstanding anything contained in this Act, where a person sentenced to F370[...] imprisonment or detention escapes or is released without proper authority whilst serving such sentence, the currency of such sentence shall be deemed to be suspended from the date on which he escaped or was released without proper authority until he surrenders or is again apprehended, and on such surrender or apprehension he may be recommitted by the prescribed authority to serve the unexpired term of his sentence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F370: Deleted (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, para. 4, commenced as per s. 1.
+
+#### 231. Duty of governor of prison to receive prisoners.
+
+**231.**—(1) The governor of every prison shall receive and confine, until discharged or delivered over in due course of law, all F371[military prisoners] sent to such prison in pursuance of this Act.
+
+F372[(2) The governor of every prison shall also receive into his custody any person subject to military law in service custody upon delivery to the governor of a written order, purporting to be signed by the commanding officer of that person, for any period not exceeding 8 days (which shall not include the day on which the order is made), or any further such order or orders so made for any further such period or periods.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F371: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 68(a), S.I. No. 254 of 2008.
+>
+> F372: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 68(b), S.I. No. 254 of 2008.
+
+#### 232. Establishment of military prisons and detention barracks.
+
+**232.**—(1) It shall be lawful for the Minister to set apart any building or part of a building under the control of the Minister as a military prison or detention barrack and to declare that any such building or part of a building shall be a military prison or a detention barrack, as the case may be.
+
+(2) The powers of the Minister under this section may, during a period of emergency, be exercised by a prescribed officer.
+
+#### 233. Regulation of military prisons and detention barracks.
+
+**233.**—(1) The Minister may make rules (in this Act referred to as rules for military prisons and detention barracks) for all or any of the following purposes, that is to say:—
+
+(*a*) the government, management and regulation of military prisons and detention barracks;
+
+(*b*) the appointment and removal and power of inspectors, visitors, governors and officers thereof;
+
+(*c*) the labour of military prisoners and men undergoing detention therein;
+
+(*d*) enabling such prisoners or men to earn, by special industry and good conduct, a remission of portion of their sentence;
+
+(*e*) the classification of military prisoners and men undergoing detention;
+
+(*f*) the safe custody of such prisoners or men, and the maintenance of discipline among them, and the punishment by personal correction, restraint or otherwise of offences committed by such prisoners or men;
+
+(*g*) the temporary release, in such cases, for such periods and subject to such conditions as may be prescribed by the rules, of such prisoners or men.
+
+(2) Rules under this section shall not authorise corporal punishment to be inflicted for any offence nor render the imprisonment or detention more severe than it is, under the law in force for the time being, in any public prison.
+
+F373[(2A) Any power conferred by rules under this section to release a person temporarily shall not, in the case of a person serving a sentence passed on him on conviction of treason or of murder, or attempted murder, to which section 3 of the Criminal Justice Act 1990 applies, be exercisable before the expiration of the minimum period specified by the court-martial under section 4 of that Act, as applied by section 169A of this Act, less any reduction of that period by the amount of remission earned by the person according to the rules of practice whereby prisoners generally earn remission of sentence by industry and good conduct, unless for grave reasons of a humanitarian nature, and any such release shall only be of such limited duration as is justified by those reasons.]
+
+(3) Where any person has been temporarily released from a military prison or detention barrack in accordance with rules made under this section the currency of any sentence which he may be serving shall be suspended for the period commencing on the day after the day on which he was released and ending on the day on which he returns to the prison or detention barrack or is otherwise taken into custody under subsection (4) of this section.
+
+(4) If any person who has been temporarily released from a military prison or detention barrack in accordance with rules made under this section fails to comply with any of the conditions subject to which he was released or to return at the expiration of the period for which he was released—
+
+(*a*) he may be arrested without warrant by any member of the Garda Síochána or taken into service custody, and may be kept in custody, whether civil or service, until he is taken back to the military prison or detention barrack,
+
+(*b*) unless proceedings are taken against him under section 135 or 137, he shall be liable to such punishment as may be prescribed by the rules.
+
+(5) Rules under this section shall provide for applying, with such modifications and adaptations as the Minister thinks proper, in respect of military prisons and detention barracks, the provisions relating to the duties of medical officers contained in section 74 of the Prisons (Ireland) Act, 1826, and sections 52 and 53 of the General Prisons (Ireland) Act, 1877, and the provisions relating to the duties of gaolers contained in section 54 of the said General Prisons (Ireland) Act, 1877.
+
+(6) Every rule made under this section shall be laid before each House of the Oireachtas as soon as may be after such rule is made and, if a resolution annulling such rule is passed by either House of the Oireachtas within the next subsequent twenty-one days on which that House has sat after such rule is so laid before it, such rule shall be annulled accordingly, but without prejudice to the validity of anything previously done under such rule.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F373: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 69, S.I. No. 254 of 2008.
+>
+> **Editorial Notes:**
+>
+> E91: Power pursuant to section exercised (15.07.1983) by *Rules for Military Prisons and Detention Barracks 1983* (S.I. No. 203 of 1983).
+>
+> E92: Power pursuant to section exercised (1.01.1955) by *Rules for Military Prisons and Detention Barracks 1954* (S.I. No. 291 of 1954).
+>
+> E93: Previous affecting provision: subs. (2A) inserted (11.07.1990) by *Criminal Justice Act 1990* (16/1990), s. 7 and sch. 1, para. 4(u), commenced on enactment; substituted as per F-note above.
+
+#### 234. Assisting prisoners in military prisons and detention barracks to escape.
+
+**234.**—Every person who aids any prisoner in escaping or attempting to escape from any military prison or detention barrack, or who, with intent to facilitate the escape of any such prisoner, conveys or causes to be conveyed into any military prison or detention barrack any mask, dress or other disguise or any letter or other article or thing of whatsoever kind shall be guilty of F374[an offence] and on conviction thereof shall be liable to imprisonment, F375[...] for any term not exceeding two years.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F374: Substituted (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, para. 18, commenced as per s. 1.
+>
+> F375: Deleted (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, para. 18, commenced as per s. 1.
+
+#### 235. Penalty for carrying spirituous liquor, drugs or tobacco into military prisons or detention barracks.
+
+**235.**—Every person who, contrary to the rules for military prisons and detention barracks, brings or attempts by any means whatever to introduce into any military prison or detention barrack any spirituous or fermented liquor or drug or tobacco and every person employed on the staff of any such prison or barrack who suffers any spirituous or fermented liquor or drug or tobacco to be sold or used therein contrary to such rules shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding F376[500] pounds or, at the discretion of the court, to imprisonment for any term not exceeding six months or to both such fine and imprisonment.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F376: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 8, commenced on enactment, subject to transitional provision in s. 16. A fine of £500 converted (1.01.1999) to €634.86. This translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(3) and table ref. no. 3, S.I. No. 662 of 2010.
+
+#### 236. Penalty for carrying letters, etc., into or out of military prisons or detention barracks.
+
+**236.**—Every person who, contrary to the rules for military prisons and detention barracks, conveys or attempts to convey any letter or other document, or any article whatever not allowed by such rules, into or out of such prison or barrack shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding F377[100] pounds.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F377: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 9, commenced on enactment, subject to transitional provision in s. 16. A fine of £100 converted (1.01.1999) to €126.97. This translates into a class E fine, not exceeding €500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(3) and table ref. no. 3, S.I. No. 662 of 2010.
+
+#### 237. Unsoundness of mind of person imprisoned or undergoing detention.
+
+**237.**—If a person imprisoned or undergoing detention by virtue of this Act becomes of unsound mind, then, without prejudice to any other enactment, a Minister of State may, upon a certificate signed by two registered medical practitioners certifying that such person is of unsound mind, order the removal of such person to a mental hospital, there to remain for the unexpired term of his sentence of imprisonment or detention but, upon such person being certified by two registered medical practitioners to be again of sound mind, may order his removal to any prison or detention barrack in which he might have been confined if he had not become of unsound mind, there to undergo the remainder of his sentence.
+
+#### 238. Inquests on persons under sentence dying in military prisons or detention barracks.
+
+**238.**—Whenever a person under sentence dies in a military prison or detention barrack, the following provisions shall have effect, that is to say:—
+
+(*a*) the coroner having jurisdiction in the place where such prison or barrack is shall hold an inquest on the body of such person;
+
+(*b*) where it is practicable, one clear day shall intervene between the day of the death and the date of such inquest;
+
+(*c*) such inquest shall be held on the body with a jury;
+
+(*d*) notwithstanding section 5 of the Coroners (Amendment) Act, 1927 (No. 1 of 1927), none of the following persons shall be a member of such jury, that is to say:—
+
+(i) members of the staff of such prison or barrack,
+
+(ii) persons undergoing sentence in such prison or barrack,
+
+(iii) persons engaged in any trade or dealing with such prison or barrack.
+
+#### 239. Provisions as to warrants and orders of military authorities under Chapter VIII of Part V.
+
+**239.**—(1) Where any F378[...] military prisoner or man undergoing detention is for the time being in custody, whether service custody or civil custody, in any place or manner in which he might legally be kept in pursuance of this Act, the custody of such F378[...] prisoner or man shall not be deemed to be illegal by reason only of any informality or error in or as respects the order, warrant or other document, or the authority by or in pursuance whereof such F378[...] prisoner or man was brought into or is detained in such custody, and any such order, warrant or document may be amended accordingly.
+
+(2) Where F378[...] a military prisoner or a man undergoing detention or a person who is subject to military law and charged with an offence is a prisoner or man in service custody and for the purpose of conveyance by sea F379[or air] is delivered on board a ship to the person in command of the ship F380[or aircraft] or to any other person on board the ship acting under the authority of the commander, the order of the military authority which authorises the prisoner or man to be conveyed by sea F379[or air] shall be a sufficient authority to such person, and to the person for the time being in command of the ship F380[or aircraft], to keep the said prisoner or man in custody and convey him in accordance with the order, and the prisoner or man while so kept shall be deemed to be kept in service custody.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F378: Deleted (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14 and sch. 2, para. 19, commenced as per s. 1.
+>
+> F379: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(2) and sch. 2, S.I. No. 254 of 2008.
+>
+> F380: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(2) and sch. 2, S.I. No. 254 of 2008.
+
+### Chapter IX.Rules of procedure. — Chapter IX. — Rules of procedure.
+
+#### 240. Rules of procedure.
+
+**240.**—F381[(1) The Minister may make rules (in this Act referred to as "rules of procedure") in relation to all or any of the following matters:
+
+(*a*) the assembly and procedure of courts of inquiry and boards;
+
+(*b*) the form of oath to be taken by the military judge before entering upon his duties under this Act;
+
+(*c*) in the case of a person remanded for trial by court-martial, the procedures (other than procedures of a court-martial which are the subject of court-martial rules) to be followed in bringing the person to trial, including the taking of a written summary of evidence in the case;
+
+(*d*) the functions of the Court-Martial Administrator relating to the management and control generally of the administration and business of courts-martial;
+
+(*e*) the procedure for convening courts-martial;
+
+(*f*) the procedure for the dissolution by the Court-Martial Administrator of a general court-martial or limited court-martial;
+
+(*g*) the procedure for referring matters to the summary court-martial;
+
+(*h*) the procedure for selecting members of a court-martial board;
+
+(*i*) the procedure in relation to representation for the purposes of section 211A;
+
+(*j*) the promulgation of the findings and sentence of a court-martial;
+
+(*k*) the carrying into effect of sentences of courts-martial;
+
+(*l*) the carrying into effect of decisions made and punishments awarded by the summary court-martial under section 178G;
+
+(*m*) the form of notice and the giving of such notice under section 212A(12);
+
+(*n*) the retention and preservation of records of proceedings of a court-martial;
+
+(*o*) the supply of copies of such records, including provision in respect of any fee payable for the supply of copies;
+
+(*p*) the officers who are to be prescribed officers for the purposes of section 121;
+
+(*q*) the functions of the Chief Military Judge (if any);
+
+(*r*) the judicial functions, other than those with respect to courts-martial, which may be performed by a military judge;
+
+(*s*) any other matter or thing referred to in this Part (other than Chapters IV and X and any matter or thing referred to in this Part as prescribed by court-martial rules) as prescribed;
+
+(*t*) any other matter which the Minister considers necessary or expedient for the proper administration of this Part (other than Chapters IV and X and any matter referred to in this Part as the subject of court-martial rules).]
+
+F382[(1A) Without prejudice to the generality of subsection (1), rules of procedure made under this section may, in relation to the functions of a military judge provided for in those rules, including the judicial functions referred to in subsection (1)(*r*), include provisions required for the performance of the functions of a military judge by a Circuit Judge who, pursuant to section 184LA, is temporarily designated to perform such functions under section 11A of the Act of 1947.]
+
+(2) Rules of procedure shall not contain anything contrary to or inconsistent with this Part.
+
+(3) Rules of procedure shall be judicially noticed.
+
+(4) Rules of procedure may provide for a written summary of evidence being taken on oath and may empower a commanding officer or any other officer before whom he directs such summary to be taken to administer oaths for that purpose.
+
+(5) Rules of procedure in relation to courts of inquiry may provide for evidence being taken on oath and may empower courts of inquiry to administer oaths for that purpose.
+
+(6) Every rule made under this section shall be laid before each House of the Oireachtas as soon as may be after such rule is made and, if a resolution annulling such rule is passed by either House of the Oireachtas within the next subsequent twenty-one days on which that House has sat after such rule is so laid before it, such rule shall be annulled accordingly, but without prejudice to the validity of anything previously done under such rule.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F381: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 70, S.I. No. 254 of 2008.
+>
+> F382: Inserted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 9, S.I. No. 568 of 2011.
+>
+> **Editorial Notes:**
+>
+> E94: Power pursuant to section exercised (6.11.2024) by *Rules of Procedure (Defence Forces) (Amendment) Rules 2024* (S.I. No. 611 of 2024), in effect as per art. 4
+>
+> E95: Power pursuant to section exercised (5.10.2023) by *Rules of Procedure (Defence Forces) (Amendment) Rules 2023* (S.I. No. 491 of 2023).
+>
+> E96: Power pursuant to section exercised (2.12.2019) by *Rules of Procedure (Defence Forces) 2019* (S.I. No. 555 of 2019), in effect as per art. 1(2).
+>
+> E97: Previous affecting provision: power pursuant to section exercised (11.09.2012) by *Defence Act 1954 (Military Judge) (Form of Oath and Solemn Declaration) Rules 2012* (S.I. No. 345 of 2012); revoked (2.12.2019) by *Rules of Procedure (Defence Forces) 2019* (S.I. No. 555 of 2019), art. 73(1) and sch. 1, in effect as per art. 1(2), subject to transitional provision in art. 73(2).
+>
+> E98: Previous affecting provision: power pursuant to section exercised (11.09.2012) by *Rules of Procedure (Defence Forces) (Amendment) Rules 2012* (S.I. No. 344 of 2012); revoked (2.12.2019) by *Rules of Procedure (Defence Forces) 2019* (S.I. No. 555 of 2019), art. 73(1) and sch. 1, in effect as per art. 1(2), subject to transitional provision in art. 73(2).
+>
+> E99: Previous affecting provision: power pursuant to section exercised (12.11.2011) by *Rules of Procedure (Defence Forces) 2011* (S.I. No. 581 of 2011); revoked (2.12.2019) by *Rules of Procedure (Defence Forces) 2019* (S.I. No. 555 of 2019), art. 73(1) and sch. 1, in effect as per art. 1(2), subject to transitional provision in art. 73(2).
+>
+> E100: Previous affecting provision: power pursuant to section exercised (1.09.2008) by *Rules of Procedure (Defence Forces) 2008* (S.I. No. 204 of 2008); revoked (2.12.2019) by *Rules of Procedure (Defence Forces) 2019* (S.I. No. 555 of 2019), art. 73(1) and sch. 1, in effect as per art. 1(2), subject to transitional provision in art. 73(2).
+>
+> E101: Previous affecting provision: power pursuant to section exercised (25.09.2007) by *Rules of Procedure (Defence Forces) (Form of Oath of Military Judge) 2007* (S.I. No. 661 of 2007); revoked (1.09.2008) by *Rules of Procedure (Defence Forces) 2008* (S.I. No. 204 of 2008), art. 75 and sch. 1, in effect as per art. 1(2), subject to transitional provision in art. 75(2).
+>
+> E102: Previous affecting provision: subs. (1) amended (22.07.1997) by *Criminal Law Act 1997* (14/1997), s. 14(1) and sch. 2, para. 4, commenced as per s. 1; substituted as per F-note above.
+>
+> E103: Previous affecting provision: power pursuant to section exercised (7.02.1991) by *Rules of Procedure (Defence Forces) 1991* (S.I. No. 27 of 1991); revoked (1.09.2008) by *Rules of Procedure (Defence Forces) 2008* (S.I. No. 204 of 2008), art. 75 and sch. 1, in effect as per art. 1(2), subject to transitional provision in art. 75(2).
+>
+> E104: Previous affecting provision: power pursuant to section exercised (23.09.1987) by *Rules of Procedure (Defence Forces) 1987* (S.I. No. 245 of 1987); revoked (1.09.2008) by *Rules of Procedure (Defence Forces) 2008* (S.I. No. 204 of 2008), art. 75 and sch. 1, in effect as per art. 1(2), subject to transitional provision in art. 75(2).
+>
+> E105: Previous affecting provision: power pursuant to section exercised (15.07.1983) by *Rules of Procedure (No. 3) (Defence Forces) 1983* (S.I. No. 202 of 1983); revoked (1.09.2008) by *Rules of Procedure (Defence Forces) 2008* (S.I. No. 204 of 2008), art. 75 and sch. 1, in effect as per art. 1(2), subject to transitional provision in art. 75(2).
+>
+> E106: Previous affecting provision: power pursuant to section exercised (10.03.1983) by *Rules of Procedure (No. 2) (Defence Forces) 1983* (S.I. No. 72 of 1983); revoked (1.09.2008) by *Rules of Procedure (Defence Forces) 2008* (S.I. No. 204 of 2008), art. 75 and sch. 1, in effect as per art. 1(2), subject to transitional provision in art. 75(2).
+>
+> E107: Previous affecting provision: power pursuant to section exercised (26.01.1983) by *Rules of Procedure (Defence Forces) 1983* (S.I. No. 22 of 1983); revoked (1.09.2008) by *Rules of Procedure (Defence Forces) 2008* (S.I. No. 204 of 2008), art. 75 and sch. 1, in effect as per art. 1(2), subject to transitional provision in art. 75(2).
+>
+> E108: Previous affecting provision: power pursuant to section exercised (31.03.1955) by *Rules of Procedure (Defence Forces), 1954 (Amendment) Rules 1955* (S.I. No. 58 of 1955); revoked (1.09.2008) by *Rules of Procedure (Defence Forces) 2008* (S.I. No. 204 of 2008), art. 75 and sch. 1, in effect as per art. 1(2), subject to transitional provision in art. 75(2).
+>
+> E109: Previous affecting provision: power pursuant to section exercised (1.01.1955) by *Rules of Procedure (Defence Forces) 1954* (S.I. No. 243 of 1954); revoked (1.09.2008) by *Rules of Procedure (Defence Forces) 2008* (S.I. No. 204 of 2008), art. 75 and sch. 1, in effect as per art. 1(2), subject to transitional provision in art. 75(2).
+
+#### 240A. Courts-Martial Rules Committee.
+
+F383[**240A.**—(1) There is hereby established a committee to be known as Coiste Rialacha na nArmchúirteanna or in the English language as the Courts-Martial Rules Committee (in this Chapter referred to as the "Committee").
+
+(2) The functions of the Committee shall be, with the concurrence of the Minister, to make rules of court (in this Act referred to as "court-martial rules") in accordance with section 240B.
+
+(3) The Committee shall consist of two ex-officio members and six nominated members.
+
+(4) The ex-officio members of the Committee shall be—
+
+(*a*) the Judge Advocate-General, and
+
+(*b*) the military judge or, where there is more than one, the Chief Military Judge, who shall be the deputy chairperson of the Committee.
+
+(5) The nominated members of the Committee shall be—
+
+(*a*) a judge of the Circuit Court nominated by the President of the Circuit Court, who shall be the chairperson of the Committee,
+
+(*b*) a practising barrister nominated by the General Council of the Bar of Ireland,
+
+(*c*) a practising solicitor nominated by the Law Society of Ireland,
+
+(*d*) an officer of the Attorney General, nominated by the Attorney General,
+
+(*e*) an officer of the Department of Defence, not below the rank of principal officer, nominated by the Minister, and
+
+(*f*) an officer of the Permanent Defence Force, not below the rank of commandant, nominated by the Chief of Staff, who shall act as secretary to the Committee.
+
+(6) Every nominated member of the Committee shall, unless that member sooner dies, resigns or ceases to be, as the case may be, a judge of the Circuit Court, a practising barrister, a practising solicitor or an officer referred to in subsection (5)(*d*) to (*f*) of this section, hold office as such member for five years from the date of nomination.
+
+(7) A nominated member of the Committee whose membership expires with the passage of time shall be eligible for renomination.
+
+(8) Subject to subsection (9) of this section, the Committee may act notwithstanding one or more vacancies in its membership.
+
+(9) The quorum for a meeting of the Committee shall be four.
+
+(10) The chairperson of the Committee shall preside at all meetings of the Committee at which he is present and in the absence of the chairperson the deputy chairperson shall preside at the meeting.
+
+(11) Subject to subsection (12) of this section, the Committee shall hold such and so many meetings as may be necessary for the performance of its functions but in any case shall meet not less frequently than once in each year.
+
+(12) The first meeting of the Committee shall be held within one month after the commencement of this section.
+
+(13) Subject to this Act, the Committee shall regulate the practice and procedure of the Committee.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F383: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 71(1), S.I. No. 254 of 2008.
+
+#### 240B. Court-martial rules.
+
+F384[**240B.**—(1) The Committee may, with the concurrence of the Minister, make court-martial rules for the purpose of regulating the pleading, practice and procedure generally in all proceedings before courts-martial under this Part of this Act, including rules in relation to all or any of the matters set out in the Twelfth Schedule to this Act.
+
+F385[(1A) Without prejudice to the generality of subsection (1), court-martial rules made under this section may, in relation to the functions of a military judge provided for in those rules, include provisions required for the performance of the functions of a military judge by a Circuit Judge who, pursuant to section 184LA, is temporarily designated to perform such functions under section 11A of the Act of 1947.]
+
+(2) Court-martial rules shall be deemed to be a statutory instrument to which the Statutory Instruments Act 1947 primarily applies.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F384: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 71(1), S.I. No. 254 of 2008.
+>
+> F385: Inserted (9.11.2011) by *Defence (Amendment) Act 2011* (17/2011), s. 10, S.I. No. 568 of 2011.
+>
+> **Editorial Notes:**
+>
+> E110: Power pursuant to section exercised (2.10.2023) by *Court-Martial Rules 2023* (S.I. No. 492 of 2023), in effect as per art. 3.
+>
+> E111: Power pursuant to section exercised (12.11.2011) by *Court-Martial Rules 2011* (S.I. No. 580 of 2011).
+>
+> E112: Power pursuant to section exercised (23.07.2009) by *Court-Martial Rules 2009* (S.I. No. 273 of 2009).
+>
+> E113: Power pursuant to section exercised (1.09.2008) by *Court-Martial Rules 2008* (S.I. No. 205 of 2008).
+
+### Chapter X.Miscellaneous Offences by Members of the Reserve Defence Force. — Chapter X. — Miscellaneous Offences by Members of the Reserve Defence Force.
+
+#### 241. Penalty for member of Reserve Defence Force joining armed forces of another State.
+
+**241.**—If, within or without the State, any member of the Reserve Defence Force, while not subject to military law, accepts a commission in, or enters into any engagements to serve in, the armed forces of another State, he shall be guilty of a misdemeanour and shall be liable on conviction thereof to imprisonment for a term not exceeding two years.
+
+#### 242. Punishment of certain offences by reservists.
+
+**242.**—(1) Where a reservist—
+
+(*a*) when required by Reserve Defence Force regulations to attend at a particular time and place, fails, without reasonable excuse, to attend at such time and place, or
+
+(*b*) uses threatening or insulting language or behaves in an insubordinate manner to any officer or non-commissioned officer who, in pursuance of Reserve Defence Force regulations, is acting in the execution of his office and would, if such reservist were subject to military law, be his superior officer, or
+
+(*c*) in reply to any notice served on him under this Act or Reserve Defence Force regulations sends any communication of an insubordinate kind, or
+
+(*d*) by any fraudulent means obtains or is accessory to obtaining any pay or other sum contrary to regulations made under section 97, or
+
+(*e*) fails without reasonable cause to comply with Reserve Defence Force regulations,
+
+such reservist shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding F386[€2,000].
+
+(2) Where a reservist commits an offence under this section he may be taken into service custody.
+
+(3) Where a reservist commits in the presence of any officer an offence under this section, such officer may, if he thinks fit, order such reservist, in lieu of being taken into service custody, to be taken into custody by any member of the Garda Síochána.
+
+(4) Where a reservist is required in pursuance of Reserve Defence Force regulations to attend at any place, a certificate purporting to be signed by an officer or person who is mentioned in such certificate as appointed to be present at such place for the purpose of inspecting reservists or for any other purpose connected with the Reserve Defence Force and stating that such reservist failed to attend in accordance with the said requirement, shall, without proof of the signature or appointment of such officer or person, be evidence in any proceedings under this section of such failure.
+
+(5) In this section, the expression “Reserve Defence Force regulations” means regulations made under section 92 or 94.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F386: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(2) and sch. 2, S.I. No. 254 of 2008. A fine of €2,000 translates into a class C fine, not exceeding €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E114: Previous affecting provision: fine in subs. (1) increased (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 10, commenced on enactment; further increased as per F-note above.
+
+#### 243. Non-attendance of reservist called out for training or on permanent service, etc.
+
+**243.**—(1) When a reservist is called out for training or on permanent service or in aid of the civil power, and such reservist, without leave lawfully granted or such sickness or other reasonable excuse as may be allowed in the prescribed manner, fails to appear at any time and place at which he is required upon such calling out to attend, the following provisions shall have effect, that is to say:—
+
+(*a*) if he is called out on permanent service or in aid of the civil power, such reservist shall be guilty, according to the circumstances, of desertion or absence without leave;
+
+(*b*) if he is called out for training, such reservist shall be guilty of absence without leave.
+
+(2) Where a reservist commits, by virtue of this section, the offence of desertion or absence without leave, such reservist shall be liable either—
+
+(*a*) to be tried by court-martial and convicted and punished accordingly, or
+
+(*b*) to be tried summarily by the District Court and on conviction by such court to be sentenced to a fine not exceeding F387[€2,000].
+
+(3) Any offence committed by a reservist which under this section is punishable on conviction by court-martial shall for all purposes of and incidental to the arrest, trial and punishment of the offender, including the summary dealing with his case by his commanding officer, be deemed to be an offence against military law.
+
+(4) A person charged with an offence which under this section is cognisable both by a court-martial and by the District Court shall not be liable to be tried both by a court-martial and the District Court, but may be tried by either of them as may be directed by the prescribed military authority.
+
+(5) The following provisions shall have effect in relation to proceedings against an offender before a court-martial or his commanding officer or the District Court in respect of an offence punishable under this section, that is to say:—
+
+(*a*) such proceedings may be instituted whether the term of his service in the Reserve Defence Force has or has not expired;
+
+(*b*) such proceedings may, notwithstanding anything contained in this or any other Act, be instituted within two months after whichever of the following times is the later, that is to say:—
+
+(i) the time at which the offence becomes known to the prescribed military authority, or
+
+(ii) the time at which the offender is arrested.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F387: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(2) and sch. 2, S.I. No. 254 of 2008. A fine of €2,000 translates into a class C fine, not exceeding €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E115: Previous affecting provision: fine in subs. (2) increased (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 11, commenced on enactment; further increased as per F-note above.
+
+#### 244. Record and evidence of absence of reservists called out.
+
+**244.**—Where—
+
+(*a*) a reservist, who is called out for training or on permanent service or in aid of the civil power, fails to appear at the time and place at which he is required upon such calling out to attend, and
+
+(*b*) his absence continues for not less than fourteen days,
+
+an entry of such absence shall be made by the prescribed officer in the prescribed manner in the prescribed service books, and such entry F388[shall be evidence, until the contrary is shown,] of the fact of such absence.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F388: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(2) and sch. 2, S.I. No. 254 of 2008.
+
+#### 245. Wrongful sale, etc., of equipment by a member of the Reserve Defence Force.
+
+**245.**—If any person (being a member or former member of the Reserve Defence Force)—
+
+(*a*) designedly makes away with, or sells, pawns or wrongfully destroys or damages, or negligently loses, any article issued to him as a member of the Reserve Defence Force, or
+
+(*b*) refuses, on demand made by the Minister or any person acting on behalf of the Minister, to deliver up any such article,
+
+then,—
+
+(i) he shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding F389[€2,000],
+
+(ii) the Court by which he is tried may, whether it convicts him of the offence or not, order him to pay to the Minister the value of the article.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F389: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(2) and sch. 2, S.I. No. 254 of 2008. A fine of €2,000 translates into a class C fine, not exceeding €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(2) and table ref. no. 1, S.I. No. 662 of 2010.
+>
+> **Editorial Notes:**
+>
+> E116: Previous affecting provision: fine in para. (b) increased (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 12, commenced on enactment; further increased as per F-note above.
+
+#### 246. Regulations for purposes of Chapter X of Part V.
+
+**246.**—The Minister may make regulations in relation to any person, matter or thing referred to in this Chapter as prescribed.
+
+### Chapter XI.Proof of certain matters of Evidence in Proceedings before Civil Courts and Courts-martial. — Chapter XI. — Proof of certain matters of Evidence in Proceedings before Civil Courts and Courts-martial.
+
+#### 247. Evidence on subjection to military law of officers of the Reserve Defence Force.
+
+**247.**—A certificate under the hand of a person authorised by the Minister to make certificates under this section certifying the matters mentioned in any one of the following paragraphs, that is to say:—
+
+(*a*) that a person named in such certificate was during a specified period an officer of the Reserve Defence Force and was at a specified time ordered on service or duty for which as an officer belonging to the Reserve Defence Force he was liable,
+
+(*b*) that a person named in such certificate was during a specified period an officer of the Reserve Defence Force and was during a specified period employed on service or duty for which as an officer of the Reserve Defence Force he was liable,
+
+(*c*) that a person named in such certificate was during a specified period an officer of the Reserve Defence Force and was during a specified period attached to a body of troops for the time being subject to military law,
+
+(*d*) that a person named in such certificate was during a specified period an officer of the Reserve Defence Force and was during a specified period doing duty with a body of troops for the time being subject to military law,
+
+(*e*) that a person named in such certificate was during a specified period an officer of the Reserve Defence Force and was at a specified time ordered on duty by the military authorities,
+
+(*f*) that a person named in such certificate was during a specified period an officer of the Reserve Defence Force and was during a specified period voluntarily attending training,
+
+(*g*) that a person named in such certificate was during a specified period an officer of the Reserve Defence Force and was during a specified period undergoing treatment in a military hospital,
+
+shall in proceedings under this Act, whether before a civil court or a court-martial, be *prima facie* evidence of the matters so certified and it shall not be necessary to prove the signature of the person purporting to make such certificate or that he was so authorised.
+
+#### 248. Evidence of certain documents and matters.
+
+**248.**—The following provisions shall have effect with respect to evidence in proceedings under this Act before a court-martial or a civil court F390[or, where relevant, in proceedings under Chapter IV of this Part]—
+
+(*a*) a copy of the *Iris Oifigiúil* purporting to contain a notice under section 52 shall be evidence of the matter contained in the notice;
+
+(*b*) any attestation paper purporting to be signed by any person upon his being attested as a man in any portion of the Defence Forces shall be evidence of the fact that such person gave, in answer to the questions set forth in such attestation paper, the answers he is therein represented as having given;
+
+(*c*) the enlistment of a person in the Permanent Defence Force or the Reserve Defence Force may be proved by the production, by a witness on oath, of a copy of such person’s attestation paper purporting to be certified to be a true copy by the officer having the custody of such original attestation paper, without proof of the signature of such officer or of his having custody of such original attestation paper;
+
+(*d*) a letter, return or other document with respect to a person—
+
+(i) having, or not having, at any specified time or times, served in or been discharged from any portion of the Defence Forces, or
+
+(ii) having, or not having, held any rank or appointment in, or been posted, attached or transferred to, any portion of the Defence Forces, or having, or not having, served in a particular place, or
+
+F392[(iiA) having, or not having, at any specified time or times, served outside the State as a member of the Defence Forces with an International United Nations Force or for any purpose referred to in section 3 of the Defence (Amendment) Act 2006, or]
+
+(iii) being, or not being, authorised to wear any decoration, medal, medal ribbon, badge, wound stripe, rank insignia, or emblem, the use or wearing of which by an unauthorised person is an offence under section 267,
+
+if purporting to be signed by or on behalf of the Minister or the commanding officer of any portion of the Defence Forces to which such person appears to have belonged or alleges that he belongs or had belonged, shall be *prima facie* evidence of the relevant facts stated in such letter, return or other document;
+
+(*e*) a Defence Force List or Defence Force Gazette F393[(whether printed or made available by electronic means or otherwise in non-legible form which is capable of being reproduced in permanent legible form)] purporting to be issued under the authority of the Minister by F394[the Chief of Staff] shall be evidence of the status and rank of any officer therein mentioned and of any appointment held by him and of the unit to which he belongs or is attached;
+
+(*f*) a Naval List and Directory F393[(whether printed or made available by electronic means or otherwise in non-legible form which is capable of being reproduced in permanent legible form)] purporting to be issued under the authority of the Minister by F394[the Chief of Staff] shall be evidence of—
+
+(i) the fact that any ship mentioned therein as a State ship is a State ship, and
+
+(ii) the status and commissioned naval rank of any officer mentioned therein and of any appointment held by him;
+
+(*g*) where a record is made in a service book in pursuance of this Act or any regulations made thereunder or otherwise in pursuance of military duty and purports to be signed by the commanding officer or by the officer whose duty it is to make such record—
+
+(i) such record shall be evidence of the facts therein stated,
+
+(ii) a copy of such record purporting to be certified to be a true copy by the officer having the custody of such service book shall, without proof of the signature of such officer or of his having custody of such service book, be *prima facie* evidence of such record;
+
+(*h*) any warrant or order made under this Act by a military authority shall be deemed to be evidence of the matters therein directed to be stated by or in pursuance of this Act;
+
+(*i*) a document purporting to be a copy of any instrument (being a warrant or order made under this Act by a military authority) shall, if certified by an officer authorised by the Minister in that behalf to be a true copy of such instrument, be *prima facie* evidence of such instrument and it shall not be necessary to prove the signature of the officer so certifying such document or that he was so authorised;
+
+(*j*) where the proceedings are proceedings against an officer or man (in this paragraph referred to as the accused) on a charge of being a deserter or an absentee, and the accused has been arrested by a member of the Garda Síochána or any officer or man or has surrendered himself into the custody of an officer or any portion of the Defence Forces, a certificate purporting to have been signed by the member of the Garda Síochána, officer or man by whom the arrest was made or by the officer to whom the surrender was made or by the commanding officer of the portion of the Defence Forces to whom the surrender was made, and stating the fact, date, time and place of such arrest or surrender, and whether the accused so surrendering was dressed in uniform or not at the time of arrest or surrender shall be evidence of the matters so stated;
+
+(*k*) where the proceedings are proceedings against an officer or man (in this paragraph referred to as the accused) on a charge of being a deserter or an absentee, and the accused has surrendered to any member of the Garda Síochána, a certificate purporting to be signed by such member or the person in charge of a Garda Síochána station when the accused has been delivered into service custody by such person and stating the fact, date, time and place of such surrender, and whether the accused was dressed in uniform or not at the time of surrender shall be evidence of the matters so stated;
+
+(*l*) where the proceedings are proceedings against an officer or man (in this paragraph referred to as the accused) on a charge of being a deserter or an absentee, and either the accused has been arrested by a member of the Garda Síochána or an officer or man and brought to a Garda Síochána station or has surrendered to a member of the Garda Síochána at a Garda Síochána station, a certificate purporting to be signed by the member of the Garda Síochána in charge of such station at the time when the accused is delivered into service custody and stating the fact, date and place of arrest or surrender, and whether the accused was dressed in uniform or not at the time of arrest or surrender shall be evidence of the matters so stated.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F390: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(2) and sch. 2, S.I. No. 254 of 2008.
+>
+> F391: Inserted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 13, commenced on enactment.
+>
+> F392: Substituted (17.07.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 18, commenced on enactment.
+>
+> F393: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(2) and sch. 2, S.I. No. 254 of 2008.
+>
+> F394: Substituted (1.10.1998) by *Defence (Amendment) Act 1998* (31/1998), s. 7, S.I. No. 366 of 1998.
+>
+> **Editorial Notes:**
+>
+> E117: Previous affecting provision: para. (d)(iiA) inserted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 13, commenced on enactment; substituted (17.07.2024) as per F-Note above.
+
+#### 249. Evidence of conviction or acquittal by a civil court.
+
+**249.**—(1) Whenever any person subject to military law has been tried by any civil court, the certificate of the clerk of such court or of his deputy, or of any other officer having the custody of the records of such court, setting out the offence for which such person subject to military law was tried, together with the judgment of the court thereon or, if such person was acquitted, the acquittal, shall be evidence of the conviction and sentence, or of the order of the court, or of the acquittal of such person, as the case may be.
+
+(2) This section shall apply to F395[a member of the Reserve Defence Force] who is tried by a civil court, whether he is or is not at the time of trial subject to military law.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F395: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(2) and sch. 2, S.I. No. 254 of 2008.
+
+#### 250. Evidence of proceedings of court-martial.
+
+**250.**—(1) The original proceedings of a court-martial purporting to be signed by the F396[military judge], and being in the custody of the prescribed officer having the lawful custody thereof, shall be deemed to be of such a public nature as to be admissible in evidence on their mere production from such custody, and any copy purporting to be certified by the prescribed officer, having such custody as aforesaid, to be a true copy of such proceedings, or of any part thereof, shall be admissible in evidence without proof of the signature of such officer.
+
+(2) Whenever any person subject to military law has been tried by court-martial, the certificate of the prescribed officer having custody of the original proceedings of the court-martial, setting out the place and date of trial, the offence for which such person was tried, together with the finding and sentence of the court-martial F397[...] or, if such person was acquitted, the acquittal, shall be evidence of the matters so set out in such certificate.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F396: Substituted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(2) and sch. 2, S.I. No. 254 of 2008.
+>
+> F397: Deleted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 4(2) and sch. 2, S.I. No. 254 of 2008.
+
+### Chapter XII.Apprehension of Suspected Deserters and Absentees. — Chapter XII. — Apprehension of Suspected Deserters and Absentees.
+
+#### 251. Apprehension of suspected deserters and absentees.
+
+**251.**—(1) Where an officer or man or a member of the Garda Síochána has reasonable grounds for suspecting that any person is a deserter or an absentee, he may without warrant arrest such person and thereupon the following provisions shall have effect, that is to say:—
+
+(*a*) such person (in this subsection referred to as the arrested person) may demand that an inquiry into his arrest be made under the next following paragraph, and the person making the arrest shall inform the arrested person of his right under this paragraph;
+
+(*b*) if the arrested person so demands, then—
+
+(i) the arrested person shall be brought before a Justice of the District Court or a Peace Commissioner and may in the meantime be detained in any Garda Síochána station;
+
+(ii) the Justice of the District Court or the Peace Commissioner before whom the arrested person is brought shall inquire into the arrest, and
+
+(I) if satisfied that the arrested person is a deserter or an absentee, shall forthwith cause the arrested person to be delivered into service custody or, until he can be so delivered, to be committed to some prison or Garda Síochána station for such time as appears to him reasonably necessary for the taking of steps to receive the arrested person into service custody,
+
+(II) if not so satisfied, shall order the release of the arrested person;
+
+(iii) the Justice of the District Court or Peace Commissioner before whom the arrested person is brought may from time to time adjourn the inquiry, and, if he so does, shall order that the arrested person be detained, during any such adjournment, in a prison or a Garda Síochána station;
+
+(*c*) if the arrested person does not so demand, the person making the arrest may deliver him into service custody and pending such delivery the arrested person may, on the requisition in writing of the person making the arrest, be detained in any prison or Garda Síochána station.
+
+(2) Where a person surrenders himself to an officer or man or a member of the Garda Síochána and alleges that he is a deserter or an absentee, such officer, man or member of the Garda Síochána may deliver such person into service custody and pending such delivery such person may, on the requisition in writing of such officer, man or member of the Garda Síochána, be detained in any prison or Garda Síochána station.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C60: Application of section exempted from application of *Children Act 2001* (1.05.2002) by *Children Act 2001* (24/2001), s. 68(6), S.I. No. 151 of 2002.
+>
+> **Release on bail by member of Garda Síochána.**
+>
+> **68.**— ...
+>
+> (6) This section does not apply in the case of an arrest of a child under section 251 (which deals with the arrest of suspected deserters and absentees) of the Defence Act, 1954.
+>
+> ...
+>
+> C61: Application of section exempted from application of *Bail Act 1997* (15.05.2000) by *Bail Act 1997* (16/1997), s. 8(4), S.I. No. 118 of 2000.
+>
+> **Endorsement on warrants as to release on bail.**
+>
+> **8.**— ...
+>
+> (4) This section shall not apply to a person arrested under section 251 of the Defence Act, 1954, on suspicion of his or her being a deserter or an absentee without leave from the Defence Forces.
+>
+> C62: Application of section exempted from application of *District Court Rules 1997* (1.05.1997) by *District Court Rules 1997* (S.I. No. 93 of 1997), o. 17, rl, 4(4), S.I. No. 118 of 2000.
+>
+> ORDER 17 PROCEDURE ON ARREST
+>
+> **4.** ...
+>
+> (4) This rule does not apply to a person arrested under section 251 of the Defence Act, 1954, on suspicion of being a deserter or an absentee without leave from the Defence Forces.
+>
+> ...
+>
+> C63: Application of section exempted from application of *Criminal Procedure Act 1967* (1.08.1967) by *Criminal Procedure Act 1967* (12/1967), s. 31(4), S.I. No. 182 of 1967.
+>
+> **Release on bail in certain cases by members of Garda Síochána.**
+>
+> **31.**— ...
+>
+> (4) This section does not apply to a person arrested under section 251 of the Defence Act, 1954, on suspicion of being a deserter or an absentee without leave from the Defence Forces.
+
+## PART VI.Offences in relation to the Defence Forces and Military Property. — PART VI. — Offences in relation to the Defence Forces and Military Property.
+
+### 252. Recruits punishable for false answers.
+
+**252.**—If any person knowingly makes a false answer to any question, contained in an attestation paper, which has been put to him by or by the direction of the officer before whom he appears for the purpose of being attested in accordance with recruiting regulations, such person shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding F398[200] pounds or, at the discretion of the court, to imprisonment for any term not exceeding three months or to both such fine and imprisonment.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F398: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 13, commenced on enactment, subject to transitional provision in s. 16. A fine of £200 converted (1.01.1999) to €253.95. This translates into a Class E fine not exceeding €500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(3) and table ref. no. 3, S.I. No. 662 of 2010.
+
+### 253. Punishment for pretending to be a deserter or an absentee.
+
+**253.**—Any person who falsely represents himself to any military or civil authority to be a deserter or an absentee shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding F399[200] pounds or, at the discretion of the court, to imprisonment for any term not exceeding three months or to both such fine and imprisonment.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F399: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 14, commenced on enactment, subject to transitional provision in s. 16. A fine of £200 converted (1.01.1999) to €253.95. This translates into a Class E fine not exceeding €500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(3) and table ref. no. 3, S.I. No. 662 of 2010.
+
+### 254. Incitement to disaffection, etc.
+
+**254.**—(1) Any person who by any means whatsoever incites or attempts to incite any person subject to military law—
+
+(*a*) to mutiny, or
+
+(*b*) to refuse to obey lawful orders given to him by a superior officer, or
+
+(*c*) to refuse, neglect or omit to perform any of his duties, or
+
+(*d*) to commit any other act in dereliction of his duty,
+
+shall be guilty of a misdemeanour and shall be liable on conviction thereof to imprisonment for a term not exceeding two years.
+
+(2) Any person who has, without lawful excuse, in his possession or under his control any document of such a nature that the dissemination thereof amongst members of the Defence Forces would be an offence under subsection (1) of this section, shall be guilty of a misdemeanour and shall be liable on conviction thereof to imprisonment for a term not exceeding two years.
+
+### 255. Punishment for inducing, etc., members of the Defence Forces to desert.
+
+**255.**—Any person who by any means whatsoever—
+
+(*a*) procures or persuades or attempts to procure or persuade any person subject to military law to desert or absent himself without leave, or
+
+(*b*) procures or persuades or attempts to procure or persuade any reservist to desert or absent himself without leave within the meaning of section 243, or
+
+(*c*) knowing that a person subject to military law is about to desert or absent himself without leave, aids or assists him in deserting or absenting himself without leave, or
+
+(*d*) knowing that a reservist is about to desert or absent himself without leave within the meaning of section 243, aids or assists him in so deserting or absenting himself without leave, or
+
+(*e*) knowing any person subject to military law to be a deserter or an absentee, conceals such person or aids or assists in concealing him or aids or assists in his rescue, or
+
+(*f*) knowing any reservist to be a deserter or an absentee without leave within the meaning of section 243, conceals such man or aids or assists in concealing him or aids or assists in his rescue,
+
+shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding F400[500] pounds or, at the discretion of the court, to imprisonment for any term not exceeding three months or to both such fine and imprisonment.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F400: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 15, commenced on enactment, subject to transitional provision in s. 16. A fine of £500 converted (1.01.1999) to €634.86. This translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(3) and table ref. no. 3, S.I. No. 662 of 2010.
+
+### 256. Penalty for unlawful recruiting or interfering with recruiting.
+
+**256.**—(1) If any person without due authority, the proof of which authority shall lie on such person,—
+
+(*a*) acts or purports to act as a recruiter or a person authorised to enlist recruits, or
+
+(*b*) publishes or causes to be published notices or advertisements for the purpose of procuring recruits for the Defence Forces, or in relation to recruits for the Defence Forces, or
+
+(*c*) receives any person under any such advertisement,
+
+he shall be guilty of an offence under this subsection.
+
+(2) If any person—
+
+(*a*) wilfully utters, prints or publishes anything calculated to obstruct or interfere with recruitment for the Defence Forces, or
+
+(*b*) directly or indirectly interferes with the recruiting service of the Defence Forces,
+
+he shall be guilty of an offence under this subsection.
+
+(3) Every person guilty of an offence under subsection (1) or (2) of this section shall be liable on summary conviction thereof to a fine not exceeding F401[200] pounds.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F401: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 16, commenced on enactment, subject to transitional provision in s. 16. A fine of £200 converted (1.01.1999) to €253.95. This translates into a Class E fine not exceeding €500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(2) and table ref. no. 1, S.I. No. 662 of 2010.
+
+### 257. Penalty for interference with military duties, etc.
+
+**257.**—Any person—
+
+(*a*) who wilfully obstructs, impedes or otherwise interferes with any officer or man in the execution of his duties, or
+
+(*b*) who wilfully induces any disease or infirmity in, or maims or injures, any person whom he knows to be a man with a view to enabling such a man to avoid military service, or
+
+(*c*) who, with the intent of enabling a man to render himself, or induce the belief that he is, permanently or temporarily, unfit for service, supplies to or for such man any drug, preparation or appliance calculated to or likely to render him or lead to the belief that he is permanently or temporarily unfit for service,
+
+shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding F402[1,000] pounds or, at the discretion of the court, to imprisonment for any term not exceeding six months or to both such fine and imprisonment.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F402: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 17, commenced on enactment, subject to transitional provision in s. 16. A fine of £1,000 converted (1.01.1999) to 1,269.73. This translates into a class C fine not exceeding €2,500 as provided (1.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(3) and table ref. no. 3, S.I. No. 662 of 2010.
+
+### 258. Penalty for personation.
+
+**258.**—(1) Any person who—
+
+(*a*) falsely and deceitfully personates any person with intent fraudulently to obtain any military pay, reward, pension, allowance, grant or gratuity or any sum payable in respect of military service or any property or money in the possession of the military authorities, or
+
+(*b*) falsely represents himself to any military or civil authority to belong to or to be or to have been a particular member of the Defence Forces,
+
+shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding F403[250] pounds or, at the discretion of the court, to imprisonment for any term not exceeding three months.
+
+(2) Where a reservist commits in the presence of an officer an offence under this section, such officer may without warrant arrest such man and, in that case, shall, as soon as may be, deliver him into the custody of a member of the Garda Síochána to be dealt with according to law.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F403: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 18, commenced on enactment, subject to transitional provision in s. 16. A fine of £250 converted (1.01.1999) to €317.43. This translates into a Class D fine not exceeding €1,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 7(3) and table ref. no. 3, S.I. No. 662 of 2010.
+
+### 258A. Prohibition on use of term “Óglaigh na hÉireann”.
+
+F404[**258A.**—(1) A person who, in, or as part of, the name, title, description or styling of a body (whether incorporated or unincorporated), uses the term "Óglaigh na hÉireann" commits an offence.
+
+(2) Subsection (1) shall not apply where use of the term "Óglaigh na hÉireann" is authorised by law.
+
+(3) A person who is guilty of an offence under this section shall be liable on summary conviction to a class D fine.
+
+(4) Where an offence under this section is committed by a body corporate or by a person purporting to act on behalf of a body corporate or an unincorporated body of persons and is proved to have been committed with the consent, connivance or approval of, or to have been attributable to any wilful neglect on the part of, any person who, when the offence was committed, was a director, a member of the committee of management or other controlling authority of the body concerned, or the manager, secretary or other officer of the body or a person who was purporting to act in any such capacity, that person, as well as the body corporate, shall be guilty of an offence and be liable to be proceeded against and punished as if guilty of the first-mentioned offence.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F404: Inserted (6.11.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 19, S.I. No. 609 of 2024. A class D fine means a fine not greater than €1,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 7(1), S.I. No. 662 of 2010.
+
+### 259. Statutory declaration in relation to pay, etc.
+
+**259.**—Where regulations made by the Minister under section 97 provide for proving, by statutory declaration, the identity of the recipient of any payment under the regulations, such declaration may be taken and received by any person specified in that behalf by the regulations.
+
+### 260. Penalty for purchasing certain military property.
+
+**260.**—(1) In this section, the expression “military property” means any property being—
+
+(*a*) any arms, ammunition (including bombs, grenades or similar missiles), equipment, instruments or clothing issued for the use of members of the Defence Forces, or
+
+(*b*) any military decoration of a member of the Defence Forces, or
+
+(*c*) any furniture, bedding, blankets, sheets, utensils or stores in military charge, or
+
+(*d*) any provisions or forage issued for the use of a member of the Defence Forces or his horse, or
+
+(*e*) any horse or vehicle employed in the service of the Defence Forces.
+
+(2) (*a*) If any person—
+
+(i) buys, exchanges, takes in pawn, obtains or receives from any person, on any pretence whatsoever, any military property, or
+
+(ii) solicits or entices any person to sell, exchange, pawn or give away any military property, or
+
+(iii) assists or acts for any person in selling, exchanging, pawning or making away with any military property,
+
+such person shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding F405[250] pounds together with treble the value of any military property of which he has become possessed by means of the offence or, at the discretion of the court, to imprisonment for any term not exceeding six months or to both such fine and imprisonment.
+
+(*b*) Where a person is charged with an offence under this section it shall be a good defence to prove that—
+
+(i) at the time he did the act alleged in the charge, he was unaware that the property in respect of which the charge was made was in fact military property, or
+
+(ii) the said property was sold by order or with the consent of the Minister or some competent military authority, or
+
+(iii) the said property was the personal property of a person who had ceased to be a member of the Defence Forces or of the legal personal representatives of a deceased member of the Defence Forces.
+
+(3) Where any military property is found in the possession or keeping of any person, such person may be brought or summoned before a Justice of the District Court, and if such Justice has reasonable ground to believe that the military property so found was stolen, or was bought, exchanged, taken in pawn, obtained or received in contravention of this section, then, if such person does not satisfy such Justice that he came by the military property so found lawfully and without any contravention of this Act, he shall be liable on summary conviction to the same penalties as are specified in subsection (2) of this section in the case of a contravention of that subsection.
+
+(4) A person found committing an offence under this section may be arrested without warrant, and brought, together with the military property which is the subject of the offence, before a Justice of the District Court, and any person to whom any such property is offered to be sold, pawned or delivered, who has reasonable cause to suppose that the same is offered in contravention of this section, may arrest without warrant the person offering such military property and deliver him and such military property into the custody of a member of the Garda Síochána to be dealt with according to law.
+
+(5) A Justice of the District Court, if satisfied on oath that there is reasonable cause to suspect that any person has in his possession or on his premises any military property on or with respect to which any offence in this section mentioned has been committed, may grant a warrant in search for such military property as in the case of stolen goods and any military property found on such search shall be seized by the person charged with the execution of such warrant, who shall bring the person in whose possession the same is found before some Justice of the District Court to be dealt with according to law.
+
+(6) For the purposes of this section, military property shall be deemed to be in the possession or keeping of a person if he knowingly has it in the actual possession or keeping of any other person or in any house, building, lodging, apartment, field or place, open or enclosed, whether occupied by himself or not, and whether the same is so had for his own use or benefit or for the use or benefit of another.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F405: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 19, commenced on enactment, subject to transitional provision in s. 16.
+
+### 261. Unlawful possession of certificates of discharge, etc.
+
+**261.**—If any person, without lawful authority or excuse (the proof whereof shall lie on the accused), has in his possession any certificate of discharge of any member of the Defence Forces or any other official document issued in connection with the mobilisation or demobilisation of any part of the Defence Forces or any member thereof, such person shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding F406[200] pounds or, at the discretion of the court, to imprisonment for any term not exceeding six months or to both such fine and imprisonment.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F406: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 20, commenced on enactment, subject to transitional provision in s. 16. A fine of £200 converted (1.01.1999) to €253.95. This translates into a Class E fine not exceeding €500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(3) and table ref. no. 3, S.I. No. 662 of 2010.
+
+### 262. Forgery of certificate of discharge and personation.
+
+**262.**—If any person—
+
+(*a*) forges a certificate of discharge or any certificate purporting to be a certificate of discharge, or
+
+(*b*) utters any such certificate knowing it to be forged, or
+
+(*c*) obtains or seeks to obtain employment by means of any forged or counterfeit certificate of discharge, or
+
+(*d*) personates the holder of a certificate of discharge,
+
+such person shall be guilty of an offence under this section and shall be liable on summary conviction thereof, in the case of a first offence, to imprisonment for a term not exceeding one month or, at the discretion of the court, to a fine not exceeding F407[200] pounds, and, in the case of a second or subsequent offence, to imprisonment for a term not exceeding three months.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F407: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 21, commenced on enactment, subject to transitional provision in s. 16. A fine of £200 converted (1.01.1999) to €253.95. This translates into a Class E fine not exceeding €500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(3) and table ref. no. 3, S.I. No. 662 of 2010.
+
+### 263. Application of Pension Books (Prohibition of Alienation) Act, 1932.
+
+**263.**—Every identity certificate, life certificate or other certificate or official document evidencing or issued in connection with the right of any person to a military pension or pay or to any bounty, allowance, gratuity, relief, benefit or advantage granted in connection with military service shall be deemed, for the purposes of the Pension Books (Prohibition of Alienation) Act, 1932 (No. 1 of 1932), to be a document to which the said Act applies, and the said Act shall be construed and have effect accordingly.
+
+### 264. Unlawful wearing of uniform.
+
+**264.**—F408[(1) If any person (not being a member of the Defence Forces) wears, without permission granted by or on behalf of the Minister, any uniform of the Defence Forces, or any colourable imitation thereof, such person shall be guilty of an offence under this section and shall be liable on summary conviction to a fine not exceeding £1,000 or, at the discretion of the court, to imprisonment for any term not exceeding six months or to both such fine and such imprisonment.]
+
+(2) Subsection (1) of this section shall not apply in respect of the wearing of any uniform of the Defence Forces or any colourable imitation thereof in the course of a stage play or other dramatic representation or performance.
+
+(3) In this section the word “uniform” includes any distinctive part of a uniform.
+
+F409[(4) In any proceedings for an offence under this section it shall be presumed, until the contrary is proved, that permission to wear a uniform of the Defence Forces, or any colourable imitation thereof, had not been granted by or on behalf of the Minister.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F408: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 14(a), commenced on enactment, subject to transitional provision in s. 16. A fine of £1,000 converted (1.01.1999) to 1,269.73. This translates into a class C fine not exceeding €2,500 as provided (1.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(3) and table ref. no. 3, S.I. No. 662 of 2010.
+>
+> F409: Inserted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 14(b), commenced on enactment, subject to transitional provision in s. 16.
+
+### 265. Bringing contempt on uniform.
+
+**265.**—(1) If any person wears any uniform of the Defence Forces or any dress, having the appearance of, or bearing any of the regimental or other distinctive marks of, any such uniform, in such a manner or in such circumstances as to be likely to bring contempt upon that uniform, such person shall be guilty of an offence under this subsection.
+
+(2) If any person employs any other person to wear any uniform of the Defence Forces or any dress, having the appearance of, or bearing any of the regimental or other distinctive marks of, any such uniform, in such a manner or in such circumstances as to be likely to bring contempt upon that uniform, such first-mentioned person shall be guilty of an offence under this subsection.
+
+(3) Any person who is guilty of an offence under subsection (1) or (2) of this section shall be liable on summary conviction thereof to a fine not exceeding F410[200] pounds or, at the discretion of the court, to imprisonment for any term not exceeding six months.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F410: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 22, commenced on enactment, subject to transitional provision in s. 16. A fine of £200 converted (1.01.1999) to €253.95. This translates into a Class E fine not exceeding €500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(3) and table ref. no. 3, S.I. No. 662 of 2010.
+
+### 266. Dyeing and conversion of uniforms, etc.
+
+**266.**—(1) If any person, except under and in accordance with a permit issued by or on behalf of the Minister,
+
+(*a*) dyes, or receives for the purpose of dyeing, any service textile article or any article which he has reasonable grounds for believing is a service textile article or a converted service textile article, or
+
+(*b*) converts into another article or receives for the purpose of conversion into another article any service textile article,
+
+such person shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding F411[100] pounds.
+
+(2) In this section—
+
+the expression “service textile article” means any article of a textile nature issued to or for the use of members of the Defence Forces;
+
+the expression “converted service textile article” means any service textile article which has been converted into another article.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F411: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 23, commenced on enactment, subject to transitional provision in s. 16. A fine of £100 converted (1.01.1999) to €126.97. This translates into a class E fine, not exceeding €500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(3) and table ref. no. 3, S.I. No. 662 of 2010.
+
+### 267. Unauthorised use, etc., of decorations, etc.
+
+**267.**—(1) If—
+
+(*a*) any unauthorised person (in this subsection referred to as the offender) uses or wears any article to which this section applies or any colourable imitation thereof, or
+
+(*b*) any person (in this subsection referred to as the offender) falsely represents himself to be a person who is or has been entitled to wear any article to which this section applies, or
+
+(*c*) any person (in this subsection referred to as the offender), without lawful authority or excuse (the proof whereof shall lie on such person), supplies or offers to supply any article to which this section applies to a person not authorised to use or wear it,
+
+the offender shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding F412[200] pounds or, at the discretion of the court, to imprisonment for any term not exceeding three months.
+
+(2) Nothing in subsection (1) of this section shall be construed as rendering unlawful the use, wear or supply of ordinary regimental badges or any brooch or ornament representing those badges.
+
+(3) This section applies to any article, relating to or connected with service in the Defence Forces, supplied or authorised by the Minister, being—
+
+(*a*) a decoration, or
+
+(*b*) a medal ribbon, or
+
+(*c*) a badge, or
+
+(*d*) a wound or service stripe, or
+
+(*e*) rank insignia, or
+
+(*f*) an emblem.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F412: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 24, commenced on enactment, subject to transitional provision in s. 16. A fine of £200 converted (1.01.1999) to €253.95. This translates into a Class E fine not exceeding €500 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(3) and table ref. no. 3, S.I. No. 662 of 2010.
+
+### 268. Penalty for sketching, etc., fortifications, etc., and trespassing thereon.
+
+**268.**—(1) If any person, without lawful authority, makes or attempts to make any sketch, drawing, photograph, picture, painting, model or note of any fort, battery, field work, fortification or any military work of defence, aerodrome, barracks, post, magazine, munition factory, stores depot or any other Government property occupied or partly occupied by the Defence Forces or any portion thereof, such person shall be guilty of an offence under this subsection and shall be liable on summary conviction thereof to a fine not exceeding F413[1,000] pounds or, at the discretion of the court, imprisonment for any term not exceeding twelve months, and all sketches, drawings, photographs, pictures, paintings, models and notes and all tools and all materials or apparatus for sketching, drawing, photographing, painting or modelling found in his possession shall be forfeited and may be destroyed, sold or otherwise disposed of as a Minister of State directs.
+
+(2) If any person, without lawful authority, enters or approaches any fort, field work, fortifications or any military work of defence, aerodrome, barracks, post, magazine, munition factory, stores depot or any other Government property, occupied or partly occupied by the Defence Forces or any portion thereof, with sketching, drawing, photographing, painting or modelling materials or apparatus in his possession, with the intention of commiting an offence under subsection (1) of this section, such person shall be guilty of an offence under this subsection and shall be liable on summary conviction thereof to a fine not exceeding F414[500] pounds or, at the discretion of the court, imprisonment for any term not exceeding six months, and all tools and materials or apparatus for sketching, drawing, photographing, painting or modelling found in his possession shall be forfeited and may be destroyed, sold or otherwise disposed of as a Minister of State directs.
+
+(3) If any person trespasses on any fort, battery, field work, fortification or any military work of defence, aerodrome, barracks, post, magazine, munition factory, stores depot, vessel or any other Government property occupied or partly occupied by the Defence Forces or any portion thereof or any land reserved for or forming part thereof, whether any erection, fort, fortification or work of any kind is thereon or not, or any building or land reserved or set apart or used in connection with the administration, accommodation or training of any part of the Defence Forces, such person shall be guilty of an offence under this subsection and shall be liable on summary conviction thereof to a fine not exceeding F415[250] pounds, or at the discretion of the court, imprisonment for any term not exceeding three months.
+
+(4) Any member of the Defence Forces or of the Garda Síochána may without warrant arrest any person who he has reasonable grounds to believe has committed an offence under this section and bring him before a Justice of the District Court to be dealt with according to law.
+
+(5) Any moneys arising on the sale or disposal of any articles forfeited under this section shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance shall direct.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F413: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 25, commenced on enactment, subject to transitional provision in s. 16. A fine of £1,000 converted (1.01.1999) to 1,269.73. This translates into a class C fine not exceeding €2,500 as provided (1.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(3) and table ref. no. 3, S.I. No. 662 of 2010.
+>
+> F414: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 26, commenced on enactment, subject to transitional provision in s. 16. A fine of £500 converted (1.01.1999) to €634.86. This translates into a class C fine, not greater than €2,500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(3) and table ref. no. 3, S.I. No. 662 of 2010.
+>
+> F415: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 27, commenced on enactment, subject to transitional provision in s. 16. A fine of £250 converted (1.01.1999) to €317.43. This translates into a Class D fine not exceeding €1,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 7(3) and table ref. no. 3, S.I. No. 662 of 2010.
+>
+> **Modifications (not altering text):**
+>
+> C64: Land or premises referred to in section exempted from application of *European Communities (Control of Major Accident Hazards Involving Dangerous Substances) Regulations 2006* (15.02.2006) by *European Communities (Control of Major Accident Hazards Involving Dangerous Substances) Regulations 2006* (S.I. No. 74 of 2006), reg. 4(2).
+>
+> **Application.**
+>
+> 4\. ...
+>
+> (2) These Regulations shall not apply to—
+>
+> (a) any property occupied by the Defence Forces and any land or premises referred to in section 268(1) of the Defence Act 1954 (No. 7 of 1954);
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E118: Previous affecting provision: land or premises referred to in section exempted from application of *European Communities (Control of Major Accident Hazards Involving Dangerous Substances) Regulations 2000* (21.12.2000) by *European Communities (Control of Major Accident Hazards Involving Dangerous Substances) Regulations 2000* (S.I. No. 476 of 2000), reg. 4(2); revoked (15.02.2006) by *European Communities (Control of Major Accident Hazards Involving Dangerous Substances) Regulations 2006* (S.I. No. 74 of 2006), reg. 7(1).
+>
+> E119: Previous affecting provision: land or premises referred to in section exempted from application of *European Communities (Major Accident Hazards of Certain Industrial Activities) Regulations 1986* (22.08.1986) by *European Communities (Major Accident Hazards of Certain Industrial Activities) Regulations 1986* (S.I. No. 292 of 1986), reg. 7(b); revoked (21.12.2000) by *European Communities (Control of Major Accident Hazards Involving Dangerous Substances) Regulations 2000* (S.I. No. 476 of 2000), reg. 7(1).
+
+## PART VII.Manuvres and Artillery, Rifle and Bombing Practice. — PART VII. — Manœuvres and Artillery, Rifle and Bombing Practice.
+
+### 269. Power to authorise holding of military manœuvres.
+
+**269.**—(1) The Minister may from time to time by order (in this Act referred to as a manœuvres (authorisation) order) authorise the holding of military manœuvres within a specified area and during a specified period commencing not earlier than one month after the date of such order.
+
+(2) Whenever the Minister makes a manœuvres (authorisation) order, he shall as soon as conveniently may be publish such order in the *Iris Oifigiúil* and in at least two newspapers circulating in the area to which such order relates.
+
+### 270. Powers exercisable for purposes of manœuvres.
+
+**270.**—(1) Where a manœuvres (authorisation) order has been made in relation to any area, such persons as are under the authority of the Minister engaged in manœuvres may under the direction of the Minister do, within such area and during the period specified in such order, all or any of the following things, that is to say:—
+
+(*a*) pass over and encamp, construct military works, not of a permanent character, and execute military manœuvres on any land;
+
+(*b*) supply themselves with water from any sources of water and for that purpose dam up any running water.
+
+(2) Nothing in this section shall authorise—
+
+(*a*) the entry on or interference with (except to the extent of using any road) any dwelling-house, place of worship, hospital, school, factory, workshop used for the carrying on of any trade, business or manufacture, farmyard, garden, orchard, pleasure ground, nursery ground, burial ground, ground attached to any place of worship or school or any premises enclosed within the curtilage of or attached to any dwelling-house;
+
+(*b*) the damming up of water so as to interfere with the carrying on of any trade or industry;
+
+(*c*) the taking of water from any source of supply belonging to a private owner or public authority unless with the consent of such owner or authority;
+
+(*d*) the interference with any national monuments within the meaning of the National Monuments Act, 1930 (No. 2 of 1930), or with any picturesque or valuable timber or other national features of exceptional interest or beauty.
+
+(3) The officer in command of the portion of the Defence Forces engaged in any military manœuvres shall cause all land used under the power conferred by this section to be restored as soon as and as far as may be practicable to its previous condition.
+
+(4) In this section, the word “hospital” includes sanatorium, maternity home, nursing home, convalescent home, county home, preventorium, rehabilitation centre, laboratory, clinic, health centre, first-aid station, dispensary or similar institution.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F416: Substituted by *Historic and Archaeological Heritage and Miscellaneous Provisions Act 2023* (26/2023), s. 228, not commenced as of date of revision.
+>
+> **Modifications (not altering text):**
+>
+> C65: Prospective affecting provision: subs. (2)(d) substituted by *Historic and Archaeological Heritage and Miscellaneous Provisions Act 2023* (26/2023), s. 228, not commenced as of date of revision.
+>
+> F416[(*d*) the interference with any monument within the meaning of section 2 of the Historic and Archaeological Heritage and Miscellaneous Provisions Act 2023, or with any picturesque or valuable timber or other national features of exceptional interest or beauty.]
+
+### 271. Compensation for damages caused by military manœuvres.
+
+**271.**—(1) Where a manœuvres (authorisation) order has been made, compensation shall be made by the Minister for any damage to person or property or interference with rights or privileges arising from the exercise of the powers conferred by this Part, whether or not occasioned by the acts of the military forces engaged in the manœuvres, including therein all expenses reasonably incurred in protecting person, property, rights and privileges, and any damage by reason of excessive weight or extraordinary traffic caused to any road.
+
+(2) The amount of any compensation under this section shall, in default of agreement (which agreement shall be subject to the consent of the Minister for Finance), be determined by an arbitrator appointed under the Acquisition of Land (Assessment of Compensation) Act, 1919, and under and in accordance with that Act.
+
+### 272. Offences in relation to manoeuvres.
+
+**272.**—(1) If, within the area and during the period specified in a manoeuvres (authorisation) order authorising military manœuvres, any person—
+
+(*a*) wilfully and unlawfully obstructs or interferes with the execution of the manoeuvres, or
+
+(*b*) without due authority enters or remains in any camp or billet or any place where any guns, vehicles, ammunition, supplies or other material used for the purposes of the manoeuvres are stored,
+
+he shall be guilty of an offence under this subsection and shall be liable on summary conviction thereof to a fine not exceeding F417[100] pounds.
+
+(2) If, within the area and during the period specified in a manoeuvres (authorisation) order, any person—
+
+(*a*) without due authority moves any light, flag, mark or other object relating to, or used for the purposes of, the manoeuvres, or
+
+(*b*) maliciously cuts or damages any telegraph or telephone wire or any water or petrol supply pipe laid down by or for the use of the forces engaged in the manoeuvres,
+
+he shall be guilty of an offence under this subsection and shall be liable on summary conviction thereof to a fine not exceeding F418[150] pounds.
+
+(3) If, within the area and during the period specified in a manoeuvres (authorisation) order, any person commits any offence under subsection (1) of this section he may be removed from that area by a member of the Garda Síochána or by order of any officer of the Defence Forces.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F417: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 28, commenced on enactment, subject to transitional provision in s. 16. A fine of £100 converted (1.01.1999) to €126.97. This translates into a class E fine, not exceeding €500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(3) and table ref. no. 3, S.I. No. 662 of 2010.
+>
+> F418: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 29, commenced on enactment, subject to transitional provision in s. 16. A fine of £150 converted (1.01.1999) to €190.46. This translates into a class E fine, not exceeding €500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(3) and table ref. no. 3, S.I. No. 662 of 2010.
+
+### 273. Exemption of members of the Defence Forces engaged in manœuvres from section 164 of the Road Traffic Act, 1933.
+
+**273.**—Where a manœuvres (authorisation) order is made, section 164 of the Road Traffic Act, 1933 (No. 11 of 1933), shall not, during the period specified in the order, apply in respect of a vehicle which is being driven by or in the charge of a member of the Defence Forces who is for the time being engaged in the military manœuvres authorised by the order.
+
+### 274. Temporary stoppage of traffic during manœuvres or artillery, etc., practice.
+
+**274.**—In any area specified in a manœuvres (authorisation) order or in the vicinity of any place used for artillery, rifle, bombing or other army, naval or air practices, the officer in command of the portion of the Defence Forces engaged in the manœuvres or in such practices may temporarily stop all traffic by land or water in that area or in the vicinity of that place so far as in his opinion may be necessary for the security of life and the proper conduct of the manœuvres or such practices.
+
+## PART VIII.Bye-laws as to land used for defence purposes. — PART VIII. — Bye-laws as to land used for defence purposes.
+
+### 275. Interpretation of Part VIII.
+
+**275.**—(1) In this Part—
+
+the expression “authorised officer” means any person being—
+
+(*a*) a member of the Garda Síochána, or
+
+(*b*) a member of the Defence Forces authorised in that behalf by bye-laws;
+
+the word “bye-laws” means bye-laws made under this Part;
+
+the expression “road authority” has the same meaning as in the Local Government Act, 1946 (No. 24 of 1946);
+
+the expression “State land” means any land belonging to the State or vested in the Minister.
+
+(2) References in this Part to a contravention of a bye-law include references to a failure or refusal to comply with the bye-law.
+
+### 276. Bye-laws as to use of State land appropriated for defence purposes, and for securing the public safety.
+
+**276.**—(1) Where any State land is for the time being appropriated for any defence purpose, the Minister may, subject to the provisions of this Part, make bye-laws for regulating the use of the land for the purpose for which it is appropriated and for securing the public against danger arising from that use, with power to prohibit all intrusion on the land and all obstruction of the use thereof.
+
+(2) Bye-laws made under this section shall not authorise the Minister to take away or prejudicially affect any right of common.
+
+(3) Where any bye-laws made under this section permit the public to use land for any purpose when not used for the purpose for which it is appropriated, those bye-laws may also provide for the government of the land when so used by the public, and the preservation of order and good conduct thereon, and for the prevention of nuisances, obstructions, encampments and encroachments thereon, and for the prevention of any injury to the land or to anything growing or erected thereon, and for the prevention of anything interfering with the orderly use thereof by the public for the purpose permitted by the bye-laws.
+
+### 277. Extension of power to make bye-laws in respect of non-State land where Minister has right of user for defence purposes.
+
+**277.**—Where the Minister has for the time being the right to use for any defence purpose any land (not being State land), the power conferred by section 276 to make bye-laws shall extend to that land as if it were State land and were appropriated for the said purpose, subject however to this restriction, namely, that any bye-law made by virtue of this section shall not unfavourably affect the private rights of any person further or otherwise than is authorised by the grant of the right to use the land.
+
+### 278. Extension of power to make bye-laws in respect of adjoining fore-shore, sea and tidal water.
+
+**278.**—(1) Where any land, the use of which can be regulated by bye-laws under section 276 or 277, abuts on any foreshore, sea or tidal water, bye-laws may be made in relation to any such foreshore, sea or tidal water as if they were part of the land.
+
+(2) If any person entitled to a private right in or over any foreshore, sea or tidal water in relation to which a bye-law is made by virtue of this section proves that his exercise of that right has been injuriously affected or obstructed by reason of the bye-law, he shall be entitled to recover from the Minister compensation for that injurious affection or obstruction, and any question whether compensation is payable under this subsection or as to the amount of any compensation so payable shall, in default of agreement (which agreement shall be subject to the consent of the Minister for Finance), be determined by an arbitrator appointed under the Acquisition of Land (Assessment of Compensation) Act, 1919, and under and in accordance with that Act.
+
+(3) (*a*) A bye-law made by virtue of this section shall not injuriously affect any public right unless the bye-law is made with the consent of the Minister for Industry and Commerce.
+
+(*b*) The following provisions shall apply in relation to the giving by the Minister for Industry and Commerce of his consent to a bye-law made by virtue of this section which, if made, would injuriously affect any public right in or over any foreshore, sea or tidal water—
+
+(i) the said Minister, if satisfied, after compliance with subparagraph (ii) of this paragraph, that a restriction of such public right is required for the safety of the public or for the exigencies of the military purpose to which the land abutting on such foreshore, sea or tidal water is appropriated, may consent to a bye-law restricting the said public right to such extent as in all the circumstances of the case seems reasonable to him,
+
+(ii) the said Minister before consenting to the bye-law shall cause notice of such proposed bye-law to be given in such manner in the locality as he deems best so as to give interested persons an opportunity of making objections to the proposed bye-law and shall make such enquiries as appear to him necessary for ascertaining that the bye-law will not unreasonably interfere with any public right.
+
+(*c*) In this subsection, the expression “public right” includes any right of navigation, anchoring, grounding, fishing, bathing, walking or recreation.
+
+### 279. Bye-laws as to roads.
+
+**279.**—(1) The Minister may, in respect of any portion of a road which crosses or runs near any land the use of which may be regulated by bye-law, make, with the consent of the road authority charged with the maintenance of that portion, bye-laws providing for the restriction, by such means as the Minister thinks proper and specifies in the bye-laws, of the use of that portion.
+
+(2) Save as provided by this section, bye-laws shall not be made in relation to any road.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E120: Power pursuant to section exercised (1.05.1959) by *Defence Act, 1954 (Control of Roads at Gormanston Aerodrome) Bye-Laws 1959* (S.I. No. 37 of 1959).
+
+### 280. Notice of intention to make bye-laws.
+
+**280.**—(1) Where the Minister proposes to make any bye-laws, he shall, before making such bye-laws, deposit copies of the proposed bye-laws, in every Circuit Court Office in the area to which such proposed bye-laws relate and publish, in some newspaper or newspapers circulating in such area notice of his intention to make bye-laws and of the deposit of such copies.
+
+(2) Any person may inspect any proposed bye-laws deposited in a Circuit Court Office under this section and may, within twenty-eight days after the publication in accordance with this section of notice of intention to make such proposed bye-laws, send objections to the Minister against the making of such proposed bye-laws.
+
+(3) The Minister shall before making any bye-laws consider any objections to them sent to him before the expiration of the twenty-eight days referred to in subsection (2) of this section.
+
+### 281. Marking of boundaries of bye-law areas.
+
+**281.**—(1) When the Minister makes any bye-laws, he shall cause the boundaries of the area to which the bye-laws relate to be marked in such manner as appears to him necessary to make the boundaries known to all persons in the locality.
+
+(2) Where any bye-laws are made under section 278 in relation to any area which consists of any foreshore, sea or tidal water and the boundaries of that area cannot, in the opinion of the Minister, be conveniently marked by permanent marks, those boundaries shall be described in the bye-laws and shall be deemed to be sufficiently marked within the meaning of subsection (1) of this section if, while that area is in use for military purposes, sufficient means are taken to warn the public from entering that area.
+
+### 282. Publication of bye-laws.
+
+**282.**—Where the Minister makes any bye-laws, he shall cause the bye-laws to be published in such manner as he deems necessary to make them known to all persons in the locality to which they relate and shall provide for copies of such bye-laws being sold at the price of one shilling for each copy to any person who desires to obtain a copy.
+
+### 283. Penalties for contravention of bye-laws.
+
+**283.**—(1) If any person contravenes any bye-law, such person shall be guilty of an offence under this section and shall be liable on summary conviction to a fine not exceeding F419[150] pounds, and the court may order any animal, vehicle, vessel or other thing, the property of such person, which is in the area to which the bye-law relates at the time of such contravention, to be forfeited.
+
+(2) Where any animal, vehicle, vessel or other thing is forfeited under this section, it shall be sold in accordance with the directions of the Minister and the proceeds of the sale shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance may direct.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F419: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 30, commenced on enactment, subject to transitional provision in s. 16. A fine of £150 converted (1.01.1999) to €190.46. This translates into a class E fine, not exceeding €500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(3) and table ref. no. 3, S.I. No. 662 of 2010.
+
+### 284. Removal and arrest of offenders.
+
+**284.**—(1) If, in any area to which a bye-law relates, any person contravenes the bye-law,—
+
+(*a*) an authorised officer may order that person to leave the area,
+
+(*b*) if that person, on being so ordered, refuses or fails to leave the area,—
+
+(i) he shall be guilty of an offence under this section, and
+
+(ii) the authorised officer may either remove him from the area by force or without warrant arrest him.
+
+(2) If any person is on a particular portion of a road, the use of which is restricted by a bye-law made under section 279, in contravention of the bye-law,—
+
+(*a*) an authorised officer may order that person to leave that portion,
+
+(*b*) if that person, on being so ordered, refuses or fails to leave that portion,—
+
+(i) he shall be guilty of an offence under this section, and
+
+(ii) the authorised officer may either remove him from that portion by force or without warrant arrest him.
+
+(3) Every person guilty of an offence under this section shall be liable on summary conviction thereof to a fine not exceeding F420[150] pounds.
+
+(4) Where an authorised officer (not being a member of the Garda Síochána) arrests a person under this section, he shall, as soon as may be, deliver such person into the custody of a member of the Garda Síochána to be dealt with according to law.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F420: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 31, commenced on enactment, subject to transitional provision in s. 16. A fine of £150 converted (1.01.1999) to €190.46. This translates into a class E fine, not exceeding €500, as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 8(3) and table ref. no. 3, S.I. No. 662 of 2010.
+
+### 285. Removal of animals, etc.
+
+**285.**—An authorised officer may remove or cause to be removed any vehicle, animal, vessel or other thing found in any area to which a bye-law relates in contravention of that bye-law.
+
+### 286. Obstruction of and assaults on authorised officers.
+
+**286.**—If any person—
+
+(*a*) obstructs or impedes an authorised officer in the lawful execution of his powers and duties as an authorised officer under this Part, or
+
+(*b*) assaults an authorised officer in the lawful execution of those powers and duties,
+
+that person shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding F421[250] pounds or, at the discretion of the court, to imprisonment for any term not exceeding six months.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F421: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 32, commenced on enactment, subject to transitional provision in s. 16. A fine of £250 converted (1.01.1999) to €317.43. This translates into a Class D fine not exceeding €1,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 7(3) and table ref. no. 3, S.I. No. 662 of 2010.
+
+### 287. Non-application of Part VIII to the Curragh of Kildare.
+
+**287.**—This Part does not apply to the Curragh of Kildare.
+
+## PART IX.The Army Nursing Service. — PART IX. — The Army Nursing Service.
+
+### 288. The existing nursing service.
+
+**288.**—In this Part, the expression “the existing nursing service” means the nursing service established under the Act of 1923.
+
+### 289. Establishment of the Army Nursing Service.
+
+**289.**—(1) There shall stand established a nursing service to be called and known as the Army Nursing Service.
+
+(2) The Army Nursing Service shall consist of F422[persons] who are appointed members thereof.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F422: Substituted (18.10.1999) by *Employment Equality Act 1998* (21/1998), s. 24(2), S.I. No. 320 of 1999.
+
+### 290. Application of this Act to the Army Nursing Service.
+
+**290.**—(1) The provisions of this Act (except this Part and sections 8, 103, 104, 234, 235 and 236 and Part VI) shall not, save where specific mention is made therein to the Army Nursing Service or save as is provided by an order under this section, apply in respect of members of the Army Nursing Service.
+
+(2) The Minister may from time to time by order apply to the members of the Army Nursing Service with such modifications and adaptations as he thinks fit any provision of this Act which does not, by virtue of subsection (1) of this section, apply to members of the Army Nursing Service.
+
+(3) The Minister may by order under this subsection revoke or amend any order under this section (including this subsection).
+
+(4) An order under this section shall not come into operation unless and until it is confirmed by resolution of each House of the Oireachtas, but shall as from the date of the passing of the later of such resolutions have statutory effect.
+
+### 291. Existing nursing service to be deemed Army Nursing Service.
+
+**291.**—(1) The existing nursing service shall, on the operative date, become and be the Army Nursing Service and every person who immediately before the operative date is a member of the existing nursing service shall by virtue of this section become and be a member of the Army Nursing Service and shall be deemed to have been a member thereof during all the time she was a member of the existing nursing service.
+
+(2) Any agreement entered into by a member of the existing nursing service in relation to her service as a member of the existing nursing service and in force immediately before the operative date shall continue in force and be applicable to her service as a member of the Army Nursing Service.
+
+### 292. Regulations in relation to the Army Nursing Service.
+
+**292.**—F423[(1)] The Minister may make regulations in respect of the Army Nursing Service in relation to all or any of the following matters, that is to say:—
+
+(*a*) the organisation, command and administration thereof;
+
+(*b*) the grades of appointment therein and the numerical establishment thereof;
+
+(*c*) the admission and appointment of members thereto;
+
+(*d*) the agreements to be signed by persons seeking admission thereto and the members thereof;
+
+(*e*) the conditions of service of members thereof;
+
+(*f*) the promotion, retirement, discharge and dismissal of members thereof;
+
+(*g*) the discipline and punishment of members thereof;
+
+(*h*) the uniform to be worn by members thereof;
+
+F425[(*i*) the conditions applicable to the issue of pay and allowances of members thereof, and the forfeitures and stoppages of, and the deductions from, such pay and allowances which may be made;]
+
+(*j*) the leave of members thereof;
+
+(*k*) any other matter or thing relating to the internal management thereof.
+
+F424[(2) The Minister shall, with the consent of the Minister for Public Expenditure, National Development Plan Delivery and Reform, determine the rates and scales of pay and allowances of members of the Army Nursing Service which shall be published on a website maintained by or on behalf of the Minister.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F423, F424: Inserted (17.07.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 20(a), (c), commenced on enactment.
+>
+> F425: Substituted (17.07.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 20(b), commenced on enactment.
+
+## PART X.Application of this Act to Defence Forces established under the Defence Forces (Temporary Provisions) Act, 1923. — PART X. — Application of this Act to Defence Forces established under the Defence Forces (Temporary Provisions) Act, 1923.
+
+### 293. Interpretation of Part X.
+
+**293.**—(1) In this Part—
+
+the expression “the Act of 1945” means the Defence Forces (Temporary Provisions) Act, 1945 (No. 10 of 1945);
+
+the expression “the Act of 1946” means the Defence Forces (Temporary Provisions) Act, 1946 (No. 7 of 1946);
+
+the expression “the Act of 1947” means the Defence Forces (Temporary Provisions) Act, 1947 (No. 4 of 1947);
+
+the expression “the Act of 1949” means the Defence Forces (Temporary Provisions) Act, 1949 (No. 1 of 1949);
+
+the word “class”, in relation to the existing Reserve of Men, means the class mentioned in column (2) of the Table to this section at reference number 4, 5 or 6;
+
+the word “class”, in relation to the existing Reserve of Officers, means the class mentioned in column (2) of the Table to this section at reference number 1, 2 or 3;
+
+the expression “existing directly enlisted reservist” means a person who is, immediately before the operative date, a man of the existing Reserve of Men and was enlisted therein under section 25 of the No. 2 Act of 1940;
+
+the expression “the existing nursing service” means the nursing service established under the Act of 1923;
+
+the expression “the existing permanent force” means the force established under Part I of the Act of 1923;
+
+the expression “existing regular” means a person who is, immediately before the operative date, a member (not being an officer within the meaning of the Act of 1923) of the existing permanent force;
+
+the expression “existing regular officer” means a person who is, immediately before the operative date, an officer of the existing permanent force;
+
+the expression “the existing reserve force” means the reserve force established under Part III of the Act of 1923;
+
+the expression “existing reserve officer” means a person who is, immediately before the operative date, an officer of the existing Reserve of Officers;
+
+the expression “the existing Reserve of Men” means that part of the existing reserve force which is known as the Reserve of Men;
+
+the expression “the existing Reserve of Officers” means that part of the existing reserve force which is known as the Reserve of Officers;
+
+the expression “existing reservist” means a person who is—
+
+(*a*) an existing directly enlisted reservist, or
+
+(*b*) an existing transferred reservist;
+
+the expression “existing transferred reservist” means a person who is, immediately before the operative date, a man of the existing Reserve of Men, and was transferred thereto under section 157 of the Act of 1923;
+
+references to the existing 1923-Act corps of an existing regular or an existing reservist shall be construed as references to the 1923-Act corps in which he was serving immediately before the operative date;
+
+the expression “the No. 2 Act of 1940” means the Defence Forces (Temporary Provisions) (No. 2) Act, 1940 (No. 11 of 1940);
+
+the expression “the prescribed military authority” has the same meaning as it has in section 61;
+
+the expression “1923-Act corps” means a corps for the purposes of the Act of 1923.
+
+(2) For the purposes of this Part—
+
+(*a*) the class of the Reserve Defence Force mentioned in column (3) of the Table to this section at a particular reference number (being reference number 1, 2 or 3) shall be deemed to correspond to the class of the existing Reserve of Officers mentioned in column (2) of the said Table at that reference number;
+
+(*b*) the class of the Reserve Defence Force mentioned in column (3) of the said Table at any reference number (being reference number 4, 5, or 6) shall be deemed to correspond to the class of the existing Reserve of Men mentioned in column (2) of the said Table at that reference number.
+
+TABLE TO SECTION 293.
+
+| Ref. No. | Class of the existing Reserve of Officers or the existing Reserve of Men | Corresponding class of the Reserve Defence Force |
+|---|---|---|
+| (1) | (2) | (3) |
+| 1 | The Reserve of Officers—First Line. | The Reserve of Officers (First Line). |
+| 2 | The Reserve of Officers (Fórsa Cosanta Aitiúil). | The Reserve of Officers (An Fórsa Cosanta Aitiúil). |
+| 3 | The Reserve of Officers (An Sluagh Muirí). | The Reserve of Officers (An Slua Muirí). |
+| 4 | The Reserve of Men—First Line. | The Reserve of Men (First Line). |
+| 5 | The Reserve of Men (Fórsa Cosanta Aitiúil). | The Reserve of Men (An Fórsa Cosanta Aitiúil). |
+| 6 | The Reserve of Men (An Sluagh Muirí). | The Reserve of Men (An Slua Muirí). |
+
+### 294. Existing forces to be deemed forces established under this Act.
+
+**294.**—(1) The existing permanent force and the existing nursing service shall, on the operative date, become and be the Permanent Defence Force.
+
+(2) The existing reserve force shall, on the operative date, become and be the Reserve Defence Force.
+
+### 295. Existing regular officers and existing reserve officers to be deemed to be commissioned under this Act.
+
+**295.**—F426[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F426: Repealed (1.10.1998) by *Defence (Amendment) Act 1998* (31/1998), s. 11, S.I. No. 366 of 1998.
+
+### 296. Existing regulars.
+
+**296.**—F427[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F427: Repealed (12.07.2006) by *Defence (Amendment) Act 2006* (20/2006), s. 12 and sch., commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E121: Previous affecting provision: section amended (21.12.1960) by *Defence (Amendment) (No. 2) Act 1960* (44/1960), s. 4(6) as amended (1.07.1993) by *Defence (Amendment) Act 1993* (18/1993), s. 3(2), commenced on enactment.
+
+### 297. Existing reservists.
+
+**297.**—(1) The following provisions shall, as on and from the operative date, have effect in relation to every existing reservist—
+
+(*a*) he shall become and be a man of the Reserve Defence Force,
+
+(*b*) he shall, subject to this Act, hold in the Reserve Defence Force,—
+
+(i) if immediately before the operative date he held in the existing reserve force a non-commissioned military rank set out in column (2) of the Table to section 5 of the Act of 1947, the non-commissioned army rank set out in column (2) of the Third Schedule to this Act which is similar in name to such non-commissioned military rank,
+
+(ii) if immediately before the operative date he held in the existing reserve force the non-commissioned naval rank of warrant officer, the non-commissioned naval rank of warrant officer,
+
+(iii) if immediately before the operative date he held in the existing reserve force any grade of naval rating set out in column (4) of the Table to section 5 of the Act of 1947, the non-commissioned naval rank set out in column (3) of the Third Schedule to this Act which is similar in name to such grade of naval rating,
+
+(*c*) if he re-engaged for a further period of reserve service under section 12 of the Act of 1946, he shall, for the purposes of Chapter II of Part IV of this Act, be deemed to have re-engaged for service under section 67 as on and from the date on which he re-engaged for service under the said section 12,
+
+(*d*) he shall belong to the class of the Reserve Defence Force which corresponds to the class of the existing Reserve of Men to which he belongs immediately before the operative date,
+
+(*e*) if he is an existing transferred reservist, Chapter II of Part IV of this Act shall apply in respect of him as if he had been enlisted under section 53 and for this purpose the following provisions shall have effect—
+
+(i) he shall be deemed to have been enlisted under section 53 as a man of the Permanent Defence Force for service for a period equal to the period which is immediately before the operative date the term of his original enlistment within the meaning of the Act of 1923, and references in the said Chapter II to the term of his original enlistment shall be construed as references to the period for which he is so deemed to have enlisted under section 53,
+
+(ii) his enlistment under section 53 shall be deemed to have been for a portion (equal to the portion of the term of his original enlistment, within the meaning of the Act of 1923, which was, under subsection (2) of section 145 of the Act of 1923, to be in army service) of the term of his original enlistment, within the meaning of this Act, in the Permanent Defence Force and for the residue of the said last-mentioned term in the Reserve Defence Force,
+
+(iii) in case his conditions of service were varied under section 146 of the Act of 1923, his conditions of service shall be deemed to have been likewise varied under section 63,
+
+(iv) the date of his attestation for the purposes of this Act shall be deemed to be—
+
+(I) in case he did not re-enlist under section 3 or 4 of the Act of 1945, the date of his attestation under the Act of 1923,
+
+(II) in case he re-enlisted under section 3 of the Act of 1945, the date which is, by virtue of subparagraph (iv) of paragraph (*d*) of section 3 of the Act of 1945, the date of his attestation for the purposes of Chapter V of Part II of the Act of 1923,
+
+(III) in case he re-enlisted under section 4 of the Act of 1945, the date which is, by virtue of subparagraph (iv) of paragraph (*d*) of section 4 of the Act of 1945, the date of his attestation for the purposes of Chapter V of Part II of the Act of 1923,
+
+(v) he shall be deemed to have been transferred to the Reserve Defence Force under section 70 as on and from the date on which he was transferred to the existing reserve force under section 157 of the Act of 1923,
+
+(vi) his service in the existing permanent force shall, for the purposes of this Act, be treated as service in the Permanent Defence Force,
+
+(vii) his service in the existing reserve force shall, for the purposes of this Act, be treated as service in the Reserve Defence Force,
+
+(*f*) if he is an existing directly enlisted reservist, Chapter II of Part IV of this Act shall apply in respect of him as if he had enlisted under section 55 and for this purpose the following provisions shall have effect—
+
+(i) he shall be deemed to have been enlisted under section 55 to serve as a man of the Reserve Defence Force for a period equal to the period which is immediately before the operative date the term of his original enlistment within the meaning of Chapter II of Part IV of the No. 2 Act of 1940, and references in Chapter II of Part IV of this Act to the term of his original enlistment shall be construed as references to the period for which he is so deemed to have been enlisted under section 55,
+
+(ii) in case his term of original enlistment, within the meaning of Chapter II of Part IV of the No. 2 Act of 1940, was extended under section 26 of that Act, such extension shall be deemed to have been effected under section 66,
+
+(iii) the date of his attestation for the purposes of this Act shall be deemed to be the date of his attestation for the purposes of Chapter II of Part IV of the No. 2 Act of 1940,
+
+(iv) his service in the existing reserve force shall, for the purposes of this Act, be treated as service in the Reserve Defence Force,
+
+(*g*) he shall be deemed to have been appointed under subsection (2) of section 60 to the service corps which corresponds to his existing 1923-Act corps.
+
+(2) Section 72, in its application to an existing reservist, shall have effect as if for paragraph (*b*) of subsection (2) there were substituted the following paragraph—
+
+“(*b*) Where the time at which a reservist would by virtue of paragraph (*a*) of this subsection be entitled to be discharged occurs while a proclamation authorising the calling out of reservists on permanent service is in force, he shall continue to serve as a reservist for such further period (not exceeding twelve months) as the prescribed military authority directs and at the expiration of such further period shall be discharged from the Reserve Defence Force with all convenient speed.”
+
+### 298. Continuance of existing orders, etc.
+
+**298.**—(1) In this section, the expression “existing statutory instrument” means any order, regulation, rule or bye-law made under the Act of 1923 which is in force immediately before the operative date and which is capable of being made under this Act.
+
+(2) Every existing statutory instrument shall be deemed to have been made under this Act and may be revoked or amended accordingly and, until so revoked and subject to any such amendment, shall continue in force.
+
+(3) In every existing statutory instrument—
+
+(*a*) references to the existing permanent force and the existing reserve force shall be construed as references to the Permanent Defence Force and the Reserve Defence Force respectively,
+
+(*b*) references to a particular class of the existing Reserve of Officers or of the existing Reserve of Men shall be construed as references to the corresponding class of the Reserve Defence Force,
+
+(*c*) references to an officer of a particular class of the existing Reserve of Officers shall be construed as references to an officer of the corresponding class of the Reserve Defence Force,
+
+(*d*) references to a member (other than an officer) of a particular class of the existing Reserve of Men shall be construed as references to a member (other than an officer) of the corresponding class of the Reserve Defence Force,
+
+(*e*) references to the existing nursing service shall be construed as references to the Army Nursing Service.
+
+### 299. Continuance of existing authorisations and directions.
+
+**299.**—Every authority granted and every direction given under the Act of 1923 which has not been withdrawn before the operative date and which is capable of being granted or given under this Act shall, on and after the operative date, continue in force and have effect as if granted or given under this Act.
+
+### 300. Offences and convictions under the Act of 1923.
+
+**300.**—(1) Where before the operative date a court-martial has been convened under the Act of 1923 for the trial of an accused, such trial may be carried on and the accused may be sentenced and punished in the same manner in all respects as if this Act had not come into operation and as if the Act of 1923 were a permanent Act.
+
+(2) Subject to subsection (1) of this section, every offence committed before the operative date against the Act of 1923 may be tried and punished in like manner as if it had been committed against this Act, so however that a person shall not be subject to any greater punishment for such offence than he is subject to immediately before the operative date.
+
+(3) This Act shall apply to the conviction of a person tried under the Act of 1923 as if he had been convicted under this Act, and every sentence imposed and every award of punishment made under the Act of 1923 may, on and after the operative date, be carried into effect in the same manner in all respects as if it had been imposed or made under this Act.
+
+(4) Every person who is under the Act of 1923 in military custody immediately before the operative date shall be deemed to have been taken into service custody under this Act.
+
+### 301. Existing military prisons and detention barracks.
+
+**301.**—Any building or part of a building which immediately before the operative date is set apart as and declared to be a military prison or detention barrack under section 137 of the Act of 1923 shall be deemed to be a military prison or detention barrack set apart and so declared under section 232.
+
+## PART XI.Amendment and Adaptation of certain enactments. — PART XI. — Amendment and Adaptation of certain enactments.
+
+### 302. Amendment of the Electoral Act, 1923.
+
+**302.**—F428[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F428: Repealed (21.12.1960) by *Electoral Act 1960* (43/1960), s. 3 and sch., S.I. No. 265 of 1960.
+
+### 303. Application of the Army Pensions Acts, 1923 to 1949, to Reserve Defence Force.
+
+**303.**—(1) In this section, the expression “the Acts” means the Army Pensions Acts, 1923 to 1949.
+
+(2) Save as provided by subsection (3) of this section, the expression “the forces” where it occurs in the Acts shall be construed as excluding the Reserve Defence Force.
+
+(3) In the Acts (except sections 10 and 14 of the Army Pensions Act, 1927 (No. 12 of 1927))—
+
+(*a*) the expression “the forces” shall be construed as including the Reserve of Officers (First Line), and the Reserve of Men (First Line),
+
+(*b*) the word “soldier” shall be construed as including a man of the Reserve of Men (First Line).
+
+### 304. Amendment of the Ministers and Secretaries Act, 1924.
+
+**304.**—(1) For the purposes of subsection (4) of section 15 of the Ministers and Secretaries Act, 1924 (No. 16 of 1924), as amended by subsection (2) of section 7 of the Documentary Evidence Act, 1925 (No. 24 of 1925), an officer, serving in F429[Defence Forces Headquarters], shall, in respect of any order or other instrument made by the Minister under or by virtue of this Act, be deemed to be an officer of the Department of Defence.
+
+(2) For the purposes of paragraph (*c*) of section 17 of the Ministers and Secretaries Act, 1924, an officer serving in F429[Defence Forces Headquarters] shall be deemed to be an officer within the meaning of the said paragraph (*c*).
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F429: Substituted (1.10.1998) by *Defence (Amendment) Act 1998* (31/1998), s. 8, S.I. No. 366 of 1998.
+
+### 305. Amendment of the Military Service Pensions Acts, 1924 to 1949.
+
+**305.**—In subsections (1) and (3) of section 4 of, and in the Second Schedule to the Military Service Pensions Act, 1924 (No. 48 of 1924), and in section 16 of the Military Service Pensions Act, 1934 (No. 43 of 1934)—
+
+(*a*) the references to the Defence Forces of Saorstát Éireann shall be construed as including references to the Permanent Defence Force,
+
+(*b*) the word “discharge” shall—
+
+(i) in relation to an officer of the Permanent Defence Force, mean retirement or resignation, and
+
+(ii) in relation to a man of the Permanent Defence Force who is transferred to the Reserve Defence Force, mean transfer to the Reserve Defence Force.
+
+### 306. Amendment of the Defence Forces (Pensions) Act, 1932.
+
+**306.**—(1) The expression “the Forces” where it occurs in the Defence Forces (Pensions) Act, 1932 (No. 26 of 1932), shall, in addition to the meaning assigned to it by section 1 of the said Act, include the Permanent Defence Force, and the said Act and any scheme made under the said Act which is in force immediately before the operative date shall be construed and have effect accordingly.
+
+(2) The expression “the Army Nursing Service” where it occurs in the Defence Forces (Pensions) Act, 1932, or in any scheme made thereunder, shall, in addition to meaning the nursing service established under the Act of 1923, mean the Army Nursing Service established by this Act.
+
+### 307. Amendment of the Workmen’s Compensation Act, 1934.
+
+**307.**—Paragraph (*d*) of subsection (2) of section 5 of the Workmen’s Compensation Act, 1934 (No. 9 of 1934), is hereby amended by the substitution of the words “Permanent Defence Force, or Reserve Defence Force as defined by the Defence Act, 1954” for the words “Defence Forces of Saorstát Éireann, including a member of the Reserve Force established under Part III of the Defence Forces (Temporary Provisions) Act, 1923 (No. 30 of 1923),” and the said section shall be construed and have effect accordingly.
+
+### 308. Amendment of section 11 of the Army Pensions Act, 1949.
+
+**308.**—In section 11 of the Army Pensions Act, 1949 (No. 19 of 1949), and in any scheme made thereunder, the reference to the Reserve—Second Line shall be construed as a reference to the Reserve of Officers (An Fórsa Cosanta Aitiúil), the Reserve of Men (An Fórsa Cosanta Aitiúil), the Reserve of Officers (An Slua Muirí) and the Reserve of Men (An Slua Muirí).
+
+### 309. Adaptation of references to Defence Forces, etc., in certain enactments.
+
+**309.**—(1) In this section—
+
+the expression “the Act of 1947” means the Defence Forces (Temporary Provisions) Act, 1947 (No. 4 of 1947);
+
+the expression “enactment to which this section applies” means any enactment being—
+
+(*a*) any Saorstát Éireann statute or any instrument made thereunder, or
+
+(*b*) any Act of the Oireachtas passed before the operative date or any instrument made thereunder, or
+
+(*c*) any scheme made (whether before or after the passing of this Act) under the Defence Forces (Pensions) Act, 1932 (No. 26 of 1932).
+
+(2) In any enactment to which this section applies—
+
+(*a*) references to the Defence Forces shall be construed as references to the Defence Forces to be raised and maintained under this Act,
+
+(*b*) references to the forces established under Part I of the Act of 1923 shall be construed as references to the Permanent Defence Force,
+
+(*c*) references to the reserve force established under Part III of the Act of 1923 shall be construed as references to the Reserve Defence Force,
+
+(*d*) references to a commissioned military rank set out in the Table to section 3 of the Act of 1947 shall be construed as references to the similar commissioned army rank set out in column (2) of the Second Schedule to this Act or to the commissioned naval rank set out in column (3) of the said Second Schedule which corresponds to such commissioned army rank,
+
+(*e*) references to a non-commissioned military rank set out in the Table to section 5 of the Act of 1947 at any reference number shall be construed as references to the similar non-commissioned army rank set out in column (2) of the Third Schedule to this Act or to the non-commissioned naval rank set out in column (3) of the said Third Schedule which corresponds to such non-commissioned army rank,
+
+(*f*) references to the former commissioned rank of major shall be construed as references to the commissioned rank of lieutenant-colonel.
+
+(3) The general adaptations made by this section shall be without prejudice to all specific adaptations made by any other section of this Act, and in the event of any inconsistency between such general adaptations and any such specific adaptation such specific adaptation shall prevail.
+
+### 310. Service as a major to be regarded as service as a lieutenant-colonel.
+
+**310.**—Service in the former commissioned rank of major shall for the purposes of this Act and any regulations made thereunder and for the purposes of any scheme made under the Defence Forces (Pensions) Act, 1932 (No. 26 of 1932), be regarded as service as a lieutenant-colonel.
+
+## PART XII.Miscellaneous Provisions. — PART XII. — Miscellaneous Provisions.
+
+### 311. Recovery of moneys due or payable to the Minister.
+
+**311.**—Moneys due and payable to the Minister shall have the like rights, privileges and priorities as are conferred by subsection (2) of section 38 of the Finance Act, 1924 (No. 27 of 1924), on the moneys to which that subsection applies.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C66: Section repealed in part (1.01.1959) by *Statute of Limitations 1957* (6/1957), s. 9 and sch., pt. IV, commenced as per s. 1(2).
+>
+> **Repeals.**
+>
+> **9.**—The enactments mentioned in column (2) of the Schedule to this Act are hereby repealed to the extent mentioned in column (3) of that Schedule.
+>
+> SCHEDULE
+>
+> ENACTMENTS REPEALED.
+>
+> Part IV.
+>
+> *Acts of the Oireachtas*.
+>
+> <table><tr><td>Number and Year.</td><td>Short Title.</td><td>Extent of Repeal.</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>No. 18 of 1954.</td><td>The Defence Act, 1954.</td><td>Section 311, to the extent to which it is inconsistent with this Act.</td></tr></table>
+
+### 312. Restrictions on recruiting for other States.
+
+**312.**—(1) It shall not be lawful for any person—
+
+(*a*) to induce, procure or persuade any person in the State to accept or agree to accept any commission or engagement in any military, naval or air force maintained by the Government of any other State, or
+
+(*b*) to print within the State or cause or procure to be printed within the State any notice or advertisement in relation to the procurement of personnel for any military, naval or air force maintained by the Government of any other State, or
+
+(*c*) to publish or cause or procure to be published within the State any such notice or advertisement as is mentioned in paragraph (*b*) of this subsection which is printed within the State.
+
+(2) Every person who acts in contravention of this section shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding F430[1,000] pounds or, at the discretion of the court, to imprisonment for any term not exceeding six months or to both such fine and imprisonment.
+
+(3) In this section—
+
+the expression “the Government” in relation to any other State includes any person exercising or assuming to exercise powers of Government in or over such State or any part thereof;
+
+the expression “military, naval or air force” does not include a voluntary aid society duly recognised and authorised for the purposes of the Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field signed at Geneva on the 12th day of August, 1949.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F430: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 33, commenced on enactment, subject to transitional provision in s. 16. A fine of £1,000 converted (1.01.1999) to 1,269.73. This translates into a class C fine not exceeding €2,500 as provided (1.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 6(3) and table ref. no. 3, S.I. No. 662 of 2010.
+
+### 313. Entertainments under service direction.
+
+**313.**—(1) So much of any Act as operates to prohibit as respects particular days, or otherwise to restrict or regulate, the keeping, opening or using of premises for purposes of public entertainment or amusement shall not apply to the use, by authority of the Minister, of any building at a camp or station or of any ship for entertainments or amusements under the direction and control of an officer or committee having official responsibility for such matters.
+
+(2) For the purposes of this section—
+
+(*a*) the expression “public entertainment or amusement” includes public dancing, singing or music, the public performance of stage plays and the giving of cinematograph exhibitions;
+
+(*b*) where a building or ship is used for the giving of cinematograph exhibitions, the keeping or storing of films shall be deemed to be part of the use thereof for the giving of the exhibitions.
+
+### 314. Grant of excise licence for military canteens.
+
+**314.**—Notwithstanding anything contained in the Licensing Acts, 1833 to 1946, or any other enactment, it shall not be necessary for a person holding a canteen under the authority of the Minister to obtain a certificate from a Justice of the District Court to enable him to obtain or hold any excise licence under the said Acts for the sale of intoxicating liquors, and such excise licence may be granted to him accordingly.
+
+### 315. Right of Minister to claim salvage in respect of services of State ships.
+
+**315.**—F431[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F431: Repealed (1.03.1994) by *Merchant Shipping (Salvage and Wreck) Act 1993* (34/1993), s. 5 and sch. 1, S.I. No. 32 of 1994, subject to transitional provision in s. 5(2).
+
+### 316. Salvage claims by commanders and crews of State ships.
+
+**316.**—F432[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F432: Repealed (1.03.1994) by *Merchant Shipping (Salvage and Wreck) Act 1993* (34/1993), s. 5 and sch. 1, S.I. No. 32 of 1994, subject to transitional provision in s. 5(2).
+
+### 317. Foreign uniforms.
+
+**317.**—(1) No person shall, save with the consent in writing of a Minister of State, enter or land in the State while wearing any foreign uniform.
+
+(2) No person shall, save with the consent in writing of a Minister of State, go into any public place in the State while wearing any foreign uniform.
+
+(3) A Minister of State may from time to time direct that subsections (1) and (2) of this section shall not during a specified period apply in respect of any particular class (defined in such manner as he thinks fit) of persons, and in that case the said subsections shall not apply during that period in respect of that class of persons.
+
+(4) Every person who contravenes (by act or omission) any provision in subsections (1) or (2) of this section shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding F433[250] pounds or, at the discretion of the court, to imprisonment for a term not exceeding six months.
+
+(5) Nothing in this section shall restrict, or apply in respect of, the wearing of any uniform by the head of any diplomatic mission duly accredited to the State or by any member of the diplomatic staff of such mission whose appointment as such has been officially notified to the Minister for External Affairs or who is otherwise entitled to diplomatic immunities.
+
+(6) Nothing in this section shall restrict, or apply in respect of, the wearing of any foreign uniform in the course of a stage play or other dramatic representation or performance.
+
+(7) In this section—
+
+the expression “foreign uniform” means the uniform of any armed force of any other State whether operating by land, sea or air, and includes any distinctive part of any such uniform;
+
+the expression “public place” includes any street, road, park or other similar place, and also any place or building to which the public have access on payment of a charge for admission.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F433: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 2, item 34, commenced on enactment. A fine of £250 converted (1.01.1999) to €317.43. This translates into a Class D fine not exceeding €1,000 as provided (4.01.2011) by *Fines Act 2010* (8/2010), ss. 3, 7(3) and table ref. no. 3, S.I. No. 662 of 2010.
+
+### 318. Service of solicitors’ apprentices in the existing Defence Forces.
+
+**318.**—F434[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F434: Repealed (4.04.2022) by *Defence (Amendment) Act 2021* (33/2021), s. 13(b), S.I. No. 179 of 2022.
+
+## PART XIII.Comhlacht Formhaoirsithe Seachtrach Óglaigh na hÉireann. — PART XIII. — Comhlacht Formhaoirsithe Seachtrach Óglaigh na hÉireann.]
+
+F435[> **Annotations:**
+>
+> **Amendments:**
+>
+> F435: Inserted (6.11.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 21, S.I. No. 609 of 2024.
+
+### 319. Interpretation (Part XIII).
+
+F436[**319.**—In this Part—
+
+"committee" means a committee of the External Oversight Body established under *section 328*;
+
+"establishment day" means the day appointed under *section 320*;
+
+"financial year", in relation to the External Oversight Body, means a period of 12 months ending on 31 December in any year and, in the case of the first financial year of the External Oversight Body, means the period commencing on the establishment day and ending on 31 December in the year in which the establishment day falls.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F436: Inserted (6.11.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 21, S.I. No. 609 of 2024.
+
+### 320. Establishment day.
+
+F437[**320.**—The Minister shall by order appoint a day to be the establishment day for the purposes of this Part.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F437: Inserted (6.11.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 21, S.I. No. 609 of 2024.
+>
+> **Editorial Notes:**
+>
+> E122: Power pursuant to section exercised (1.12.2024) by *Defence Act 1954 (Part XIII) (Establishment Day) Order 2024* (S.I. No. 619 of 2024).
+
+### 321. Comhlacht Formhaoirsithe Seachtrach Óglaigh na hÉireann.
+
+F438[**321.**—(1) There shall stand established on the establishment day a body to be known as Comhlacht Formhaoirsithe Seachtrach Óglaigh na hÉireann (in this Act referred to as the "External Oversight Body") to perform the functions assigned to it by this Act or any other enactment.
+
+(2) The External Oversight Body shall have all such powers as are necessary or expedient for the performance of its functions.
+
+(3) The External Oversight Body shall be independent in the performance of its functions.
+
+(4) The Thirteenth Schedule shall apply to the External Oversight Body.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F438: Inserted (6.11.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 21, S.I. No. 609 of 2024.
+
+### 322. Functions of External Oversight Body.
+
+F439[**322.**—(1) The External Oversight Body shall oversee and monitor the management of human resources of the Defence Forces by the Defence Forces and for those purposes—
+
+(*a*) shall provide such advice to the Minister on matters arising as the External Oversight Body considers appropriate,
+
+(*b*) shall, when requested by the Minister, or may, on its own initiative, conduct a review and make such recommendations to the Minister, for consideration, as it considers appropriate,
+
+(*c*) shall furnish to the Minister, in such format as he or she may require, such information as the Minister may from time to time require, and
+
+(*d*) shall keep the Minister informed of relevant matters.
+
+(2) In this section, "management of human resources of the Defence Forces" includes—
+
+(*a*) the recruitment of members of the Defence Forces,
+
+(*b*) the induction, training (other than military training exercises), education and performance management of members of the Defence Forces,
+
+(*c*) the operation of a competition process for the promotion of members of the Defence Forces,
+
+(*d*) the operation of a complaint or grievance process by or under section 114,
+
+(*e*) the preparation and issue of guidance documents by the Defence Forces relating to the management of human resources, and
+
+(*f*) any other matter that might reasonably be connected to the management of human resources of the Defence Forces.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F439: Inserted (6.11.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 21, S.I. No. 609 of 2024.
+
+### 323. Membership of External Oversight Body.
+
+F440[**323.**—(1) The External Oversight Body shall consist of no fewer than 7 members and no greater than 9 members being—
+
+(*a*) a chairperson,
+
+(*b*) no fewer than 5 and no greater than 7 ordinary members, and
+
+(*c*) the Secretary General of the Department of Defence who shall be an *ex officio* member.
+
+(2) Subject to subsections (3) and (11), the members of the External Oversight Body referred to in paragraphs (*a*) and (*b*) of subsection (1) shall be appointed by the Minister.
+
+(3) Of the persons appointed under paragraphs (a) and (b) of subsection (1) to be members of the External Oversight Body—
+
+(*a*) at least 1 person shall, in the opinion of the Minister, have sufficient experience and expertise relating to the functions of the External Oversight Body,
+
+(*b*) at least 1 person shall, in the opinion of the Minister, have sufficient experience and expertise relating to organisational governance, management or public administration,
+
+(*c*) at least 1 person shall, in the opinion of the Minister, have sufficient experience and expertise relating to the financial matters including the allocation, management of and accountability for the effective use of financial resources, and
+
+(*d*) at least 1 person shall, in the opinion of the Minister, have sufficient direct leadership experience of military transformation in another jurisdiction.
+
+(4) The Minister shall, in so far as is practicable, endeavour to ensure that among the members of the External Oversight Body there is an equitable balance between men and women.
+
+(5) Subject to subsections (6) and (7), the chairperson of the External Oversight Body shall be appointed by the Minister from among the members of the External Oversight Body.
+
+(6) The Minister may, before the establishment day of the External Oversight Body, designate a person to be appointed as the first chairperson of the External Oversight Body.
+
+(7) The person appointed (or designated under subsection (6)) as chairperson of the External Oversight Body shall not have served as a member of the Defence Forces or as a member of the defence forces of a state other than the State.
+
+(8) If, immediately before the establishment day, a person stands designated under subsection (6), the person shall, on that day, stand appointed as the first chairperson of the External Oversight Body.
+
+(9) The Minister may, before the establishment day, designate persons to be appointed as the first ordinary members of the External Oversight Body.
+
+(10) Where, immediately before the establishment day, a person stands designated under subsection (9), the person shall, on that day, stand appointed as an ordinary member of the External Oversight Body.
+
+(11) Subsections (2) and (3) shall not apply in respect of—
+
+(*a*) the designation of a person as the first chairperson of the External Oversight Body under subsection (6), and
+
+(*b*) the designation of persons as the first ordinary members of the External Oversight Body under subsection (9).
+
+(12) Subject to section 329(7), the External Oversight Body may act notwithstanding one or more than one vacancy in its membership.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F440: Inserted (6.11.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 21, S.I. No. 609 of 2024.
+
+### 324. Consultation in respect of certain appointments.
+
+F441[**324.**—(1) The Minister may, prior to—
+
+(*a*) the commencement of a process for the selection of a person for appointment under section 12, or
+
+(*b*) the holding of a competition in any other case, as the case may be,
+
+consult with the External Oversight Body regarding the selection criteria and recruitment process applicable in respect of—
+
+(i) an appointment under section 12,
+
+(ii) a promotion under section 45 to the rank of Brigadier-General,
+
+(iii) an appointment of a civil servant (within the meaning of the Civil Service Regulation Act 1956) to work directly with the Defence Forces, or
+
+(iv) the employment of a civilian under section 30(1)(g).
+
+(2) In subsection (1)—
+
+(*a*) a reference to a civil servant means a civil servant not below the rank of principal officer, and
+
+(*b*) a reference to a civilian means a civilian holding a position with a salary no lower than the first point of the salary scale of a person holding the rank of principal officer in the civil service.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F441: Inserted (6.11.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 21, S.I. No. 609 of 2024.
+
+### 325. Power of External Oversight Body to request information.
+
+F442[**325.**—(1) Where, in the opinion of the External Oversight Body, the Chief of Staff possesses information or possesses or controls a document or thing that is relevant to the performance by the External Oversight Body of its functions, the External Oversight Body may request in writing the Chief of Staff—
+
+(*a*) to give to the External Oversight Body such information, document or thing, and
+
+(*b*) where appropriate, to attend a meeting with the External Oversight Body.
+
+(2) Where the External Oversight Body makes a request of the Chief of Staff under subsection (1), the Chief of Staff—
+
+(*a*) shall, subject to subsection (3), as soon as practicable comply with the request, and
+
+(*b*) may, where he or she believes that it would be of assistance to the External Oversight Body, request that any of the following persons accompany him or her to attend the meeting with the External Oversight Body:
+
+(i) an officer of the Permanent Defence Force not below the army rank of colonel or the equivalent naval rank;
+
+(ii) a civil servant (within the meaning of the Civil Service Regulation Act 1956) not below the rank of principal officer who works directly with the Defence Forces.
+
+(iii) a civilian employed under section 30(1)(g) holding a position with a salary no lower than the first point of the salary scale of a person holding the rank of principal officer in the civil service.
+
+(3) The Chief of Staff may, upon receipt of a request under subsection (1), withhold or redact any information, document or thing, where in the opinion of the Chief of Staff, the giving of such information, document or thing may affect adversely—
+
+(*a*) an ongoing investigation under Part V or an ongoing proceeding before a court-martial,
+
+(*b*) the security of the State,
+
+(*c*) the defence of the State,
+
+(*d*) matters relating to Northern Ireland, or
+
+(*e*) international relations of the State.
+
+(4) Where the Chief of Staff is of the opinion that subsection (3) applies in relation to a request made of him or her, the Chief of Staff shall so notify the External Oversight Body in writing.
+
+(5) The Chief of Staff shall, upon receipt of a request under subsection (1), redact all personal data (within the meaning of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016[^1]) to which that request relates from the information, document or thing concerned before giving that information, document or thing to the External Oversight Body.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F442: Inserted (6.11.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 21, S.I. No. 609 of 2024.
+
+### 326. Terms of appointment and conditions of office of members of External Oversight Body.
+
+F443[**326.**—(1) Subject to subsection (2), a member, other than the *ex officio* member, of the External Oversight Body shall hold office, unless the member sooner dies, resigns, becomes disqualified or is removed from office, for such period, not exceeding 4 years from the date of his or her appointment, as the Minister shall determine.
+
+(2) Of the ordinary members of the External Oversight Body who are first appointed under this Act—
+
+(*a*) 3 members shall hold office for a period of 4 years from the date of their respective appointments as such ordinary members, and
+
+(*b*) the remaining members shall hold office for a period of 3 years from the date of their respective appointments as such ordinary members.
+
+(3) Subject to subsection (4), a member of the External Oversight Body whose term of office expires by the effluxion of time shall be eligible for reappointment to the External Oversight Body.
+
+(4) A person who is reappointed by the Minister to the External Oversight Body in accordance with subsection (3) shall not hold office for consecutive periods of more than 8 years.
+
+(5) The chairperson and ordinary members of the External Oversight Body shall hold office on such terms and conditions (including terms and conditions relating to remuneration and allowances for expenses) as may be determined by the Minister, with the consent of the Minister for Public Expenditure, National Development Plan Delivery and Reform, at the time of appointment or reappointment, and be paid out of moneys at the disposal of the External Oversight Body.
+
+(6) A member of the External Oversight Body may resign from office by notice in writing addressed to the Minister and the resignation shall take effect on the date the Minister receives the notice, or, if a date is specified in the notice and the Minister agrees to that date, on that date.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F443: Inserted (6.11.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 21, S.I. No. 609 of 2024.
+
+### 327. Removal of member of External Oversight Body.
+
+F444[**327.**—(1) The Minister may remove a member of the External Oversight Body from office where he or she is satisfied that one or more of the grounds specified in subsection (2) apply in respect of the member.
+
+(2) The following grounds are specified for the purposes of subsection (1):
+
+(*a*) the member has, without reasonable excuse, failed to discharge his or her functions;
+
+(*b*) the member has become incapable through ill-health or otherwise of effectively performing his or her functions;
+
+(*c*) the member has committed stated misbehaviour;
+
+(*d*) the member has a conflict of interest of such significance that he or she should cease to hold office;
+
+(*e*) the member is otherwise unfit to hold the office or unable to discharge his or her functions.
+
+(3) Where the Minister proposes to remove a member of the External Oversight Body pursuant to subsection (1), he or she shall notify, or cause to be notified, the member concerned in writing of the proposal.
+
+(4) A notification under subsection (3) shall include—
+
+(*a*) a statement of the reasons for the proposal,
+
+(*b*) a statement that the member of the External Oversight Body concerned may, within 30 working days of the sending of the notification or such longer period as the Minister may specify, make representations in such manner as may be specified in the notification to the Minister as to why he or she should not be removed from office, and
+
+(*c*) a statement that, where no representations are received within the period specified under paragraph (*b*), the Minister may, without further notice, proceed with the removal of the member of the External Oversight Body from office in accordance with this section.
+
+(5) The Minister shall, in considering whether to remove a member of the External Oversight Body from office in accordance with this section, take into account—
+
+(*a*) any representations made in accordance with subsection (4)(b), and
+
+(*b*) any other matters that the Minister considers relevant for the purposes of the decision.
+
+(6) Where, having taken into account the representations (if any) and matters referred to in subsection (5), the Minister decides to remove the member of the External Oversight Body from office, he or she shall notify that member in writing of the decision and of the reasons for it.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F444: Inserted (6.11.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 21, S.I. No. 609 of 2024.
+
+### 328. Committees of External Oversight Body.
+
+F445[**328.**—(1) The External Oversight Body may establish such and so many committees as it thinks fit to assist and advise it in relation to the performance of any or all of its functions under this Act or any other enactment.
+
+(2) A committee—
+
+(*a*) shall consist of such number of members of the External Oversight Body as the External Oversight Body may determine,
+
+(*b*) may include any number of civil servants (within the meaning of the Civil Service Regulation Act 1956) assigned to the External Oversight Body under section 330 as the External Oversight Body may determine, and
+
+(*c*) may, subject to paragraphs 7 and 8 of the Thirteenth Schedule, include persons who are not members of the External Oversight Body.
+
+(3) In appointing the members of a committee, the External Oversight Body shall have regard to—
+
+(*a*) the range of qualifications and experience necessary for the proper and effective performance of the functions of the committee, and
+
+(*b*) the desirability of there being an equitable balance between men and women on the committee.
+
+(4) The chairperson of a committee shall be appointed by the External Oversight Body from among the members of the committee.
+
+(5) A member of a committee may be removed from office at any time by the External Oversight Body for stated reasons.
+
+(6) The External Oversight Body may determine the terms of reference and regulate the procedure of a committee.
+
+(7) The acts of a committee shall be subject to confirmation by the External Oversight Body unless the External Oversight Body otherwise determines.
+
+(8) A committee shall provide the External Oversight Body with such information as the External Oversight Body may from time to time require, in respect of the committee’s activities and operations, for the purposes of the performance by the External Oversight Body of its functions.
+
+(9) The External Oversight Body may at any time dissolve a committee.
+
+(10) A committee may act notwithstanding one or more than one vacancy in its membership.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F445: Inserted (6.11.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 21, S.I. No. 609 of 2024.
+
+### 329. Meetings and business of External Oversight Body.
+
+F446[**329.**—(1) The External Oversight Body shall hold such and so many meetings, which shall be no less than 6 meetings in every 12 month period, as may be necessary for the performance of its functions.
+
+(2) The chairperson of the External Oversight Body shall fix the date, time and place of the first meeting of the External Oversight Body which shall be a date no later than the end of the period of 3 months beginning on the establishment day.
+
+(3) The chairperson of the External Oversight Body may call a meeting of the External Oversight Body to be held at any reasonable time.
+
+(4) Any 4 members of the External Oversight Body may call a meeting of the External Oversight Body where the chairperson—
+
+(*a*) refuses to call a meeting after being presented with a request for that purpose signed by not fewer than 4 members of the External Oversight Body, or
+
+(*b*) without refusing to call a meeting, does not call one within 7 days after being presented with a request under paragraph (*a*).
+
+(5) The members present at a meeting called under subsection (4) shall choose one of their number to chair the meeting.
+
+(6) At a meeting of the External Oversight Body—
+
+(*a*) the chairperson of the External Oversight Body shall, where present, chair the meeting, or
+
+(*b*) where and so long as the chairperson of the External Oversight Body is not present or where that office is vacant, the other members of the External Oversight Body who are present shall choose one of their number to chair the meeting.
+
+(7) The quorum for a meeting of the External Oversight Body shall—
+
+(*a*) where subsection (4) applies, be 3 members and the member chosen under subsection (5) to chair the meeting,
+
+(*b*) where paragraph (*b*) of subsection (6) applies, be 3 members and the member chosen under the said paragraph (*b*) to chair the meeting, and
+
+(*c*) in any other case, be 4 members and the chairperson of the External Oversight Body.
+
+(8) Each member of the External Oversight Body present at a meeting of the External Oversight Body shall have a vote.
+
+(9) Every question at a meeting of the External Oversight Body on which a vote is required shall be determined by a majority of the votes of the members of the External Oversight Body present and voting on the question and, in the case of an equal division of votes, the chairperson of the meeting shall have a second or casting vote.
+
+(10) In addition to a meeting with all participants physically present, the External Oversight Body may hold or continue a meeting by the use of any means of communication by which all the participants can hear and be heard at the same time (in this section referred to as a "remote meeting").
+
+(11) A member of the External Oversight Body who participates in a remote meeting is taken for all purposes to have been present at the meeting.
+
+(12) Subject to this Part, the External Oversight Body may determine its own procedures.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F446: Inserted (6.11.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 21, S.I. No. 609 of 2024.
+
+### 330. Staff and premises of External Oversight Body.
+
+F447[**330.**—(1) The Minister shall assign to the External Oversight Body such and so many staff as he or she considers appropriate for the discharge by the External Oversight Body of its functions.
+
+(2) A member of staff assigned to the External Oversight Body shall be a civil servant (within the meaning of the Civil Service Regulation Act 1956).
+
+(3) The Minister shall, with the consent of the Minister for Public Expenditure, National Development Plan Delivery and Reform, provide the External Oversight Body with appropriate premises in which to perform its functions.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F447: Inserted (6.11.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 21, S.I. No. 609 of 2024.
+
+### 331. Power of External Oversight Body to enter into contracts and engage consultants and advisers.
+
+F448[**331.**—(1) The External Oversight Body, with the consent of the Minister and the Minister for Public Expenditure, National Development Plan Delivery and Reform, may—
+
+(*a*) engage such consultants or advisers as the External Oversight Body considers necessary to assist in the performance of its functions, and
+
+(*b*) enter into a contract with any person or body concerning any matter arising in relation to its functions.
+
+(2) There shall be paid out of the resources at the disposal of the External Oversight Body, to consultants, advisers, persons or bodies referred to in subsection (1), such fees (if any) or allowances for expenses (if any) incurred by the consultant, adviser, person or body, as the case may be, as the External Oversight Body, with the consent of the Minister and the Minister for Public Expenditure, National Development Plan Delivery and Reform, may determine.
+
+(3) The engagement of a consultant or adviser under paragraph (*a*) of subsection (1) and a contract under paragraph (*b*) of that subsection shall be for such period and on such terms and conditions as the External Oversight Body may determine.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F448: Inserted (6.11.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 21, S.I. No. 609 of 2024.
+
+### 332. Strategy statement for External Oversight Body.
+
+F449[**332.**— (1) The External Oversight Body shall—
+
+(*a*) as soon as practicable after the establishment day prepare and submit to the Minister a strategy statement in respect of the period of 3 years immediately following the year in which the strategy statement is so submitted, and
+
+(*b*) during the period of 6 months before the expiry of the period of 3 years to which the statement of strategy for the time being in effect applies, prepare and submit to the Minister a statement of strategy in respect of the period of 3 years immediately following the year in which the first-mentioned statement of strategy expires.
+
+(2) A strategy statement under this section shall include—
+
+(*a*) the key objectives, outputs and related strategies, including the use of resources, of the External Oversight Body in relation to the period to which the statement relates, and
+
+(*b*) except in the case of the strategy statement first prepared under this section, a review and an evaluation of the work of the External Oversight Body in the performance of its functions in the previous 3 years.
+
+(3) In preparing a strategy statement under this section, the External Oversight Body shall have regard to—
+
+(*a*) the need to ensure the most beneficial, effective and efficient use of the resources available to it, and
+
+(*b*) the policies of the Government or any Minister of the Government to the extent that those policies may affect or relate to the functions of the External Oversight Body.
+
+(4) The External Oversight Body shall, before submitting a strategy statement to the Minister under subsection (1)—
+
+(*a*) publish, in such manner as the External Oversight Body considers appropriate, a draft of the strategy statement,
+
+(*b*) allow persons 30 days from the date of publication under paragraph (*a*) within which to make representations in writing to the External Oversight Body with regard to the draft of the strategy statement, and
+
+(*c*) having considered the representations (if any) made pursuant to paragraph (*b*), submit the strategy statement to the Minister with or without modifications.
+
+(5) The Minister shall cause a strategy statement received by him or her under subsection (1) to be laid before each House of the Oireachtas as soon as practicable after it is received.
+
+(6) The External Oversight Body shall ensure that, as soon as practicable after the strategy statement is laid before each House of the Oireachtas, the strategy statement is published on a website maintained by or on behalf of the External Oversight Body or in such other manner as the External Oversight Body considers appropriate.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F449: Inserted (6.11.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 21, S.I. No. 609 of 2024.
+
+### 333. Annual report of External Oversight Body.
+
+F450[**333.**—(1) The External Oversight Body shall, not later than 3 months after the end of each year, prepare and submit to the Minister a report on its activities during the preceding year.
+
+(2) If, under subsection (1), the first annual report would relate to a period of less than 6 months, that report shall, notwithstanding that subsection, instead relate to the performance of the functions of the External Oversight Body during that period and the year immediately following that period and the External Oversight Body shall prepare, and submit to the Minister, that first annual report as soon as may be, but not later than 3 months, after the end of that year.
+
+(3) A report referred to in subsection (1) shall include a statement of the arrangements of the External Oversight Body for operating according to standards of good governance.
+
+(4) The Minister shall cause a copy of a report referred to in subsection (1) to be laid before each House of the Oireachtas as soon as practicable after he or she receives the report.
+
+(5) The External Oversight Body shall ensure that, as soon as practicable after a copy of a report under this section is laid before each House of the Oireachtas, the report is published on a website maintained by or on behalf of the External Oversight Body or in such other manner as the External Oversight Body considers appropriate.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F450: Inserted (6.11.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 21, S.I. No. 609 of 2024.
+
+### 334. Grants paid by Minister to External Oversight Body.
+
+F451[**334.**—In each financial year, the Minister may, after consultation with the External Oversight Body, advance to the External Oversight Body out of moneys provided by the Oireachtas such sums as appear to the Minister, with the consent of the Minister for Public Expenditure, National Development Plan Delivery and Reform, to be reasonably sufficient for the purposes of expenditure by the External Oversight Body in the performance of its functions.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F451: Inserted (6.11.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 21, S.I. No. 609 of 2024.
+
+### 335. Accounts of External Oversight Body.
+
+F452[**335.**—(1) The External Oversight Body shall keep, or cause to be kept, in such form as may be approved by the Minister, with the consent of the Minister for Public Expenditure, National Development Plan Delivery and Reform, all proper and usual accounts of all money received or expended by it and, in particular, shall keep in such form as may be approved by the Minister all such special accounts (if any) as the Minister may, with the consent of the Minister for Public Expenditure, National Development Plan Delivery and Reform, from time to time direct.
+
+(2) Accounts kept in accordance with subsection (1) shall be submitted, not later than 1 April in the year immediately following the financial year to which they relate or on such earlier date as the Minister, after consultation with the Minister for Public Expenditure, National Development Plan Delivery and Reform, may direct, to the Comptroller and Auditor General for audit and, immediately after the audit, a copy of the Comptroller and Auditor General’s report on the accounts shall be presented to the Minister who shall, as soon as may be after they are so presented, cause copies thereof to be laid before each House of the Oireachtas.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F452: Inserted (6.11.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 21, S.I. No. 609 of 2024.
+
+## FIRST SCHEDULE. — Enactments Repealed.
+
+| No. and year | Short Title | Extent of Repeal |
+|---|---|---|
+| (1) | (2) | (3) |
+| No. 30 of 1923. | Defence Forces (Temporary Provisions) Act, 1923. | The whole Act. |
+| No. 16 of 1924. | Ministers and Secretaries Act, 1924. | Section 1, paragraph (*x*), the words “and shall be assisted by a Council of Defence as hereinafter provided”; section 8. |
+| No. 38 of 1924. | Defence Forces (Temporary Provisions) Act, 1923 (Continuance and Amendment) Act, 1924. | The whole Act. |
+| No. 4 of 1925. | Defence Forces (Temporary Provisions) Act, 1925. | The whole Act. |
+| No. 9 of 1926. | Defence Forces (Temporary Provisions) Act, 1926. | The whole Act. |
+| No. 9 of 1927. | Defence Forces (Temporary Provisions) Act, 1927. | The whole Act. |
+| No. 23 of 1927. | Juries Act, 1927. | Part I of First Schedule, the words “Members of the Defence Forces of Saorstát Eireann on full pay.” |
+| No. 40 of 1927. | Defence Forces (Temporary Provisions) (No. 2) Act, 1927. | The whole Act. |
+| No. 2 of 1929. | Defence Forces (Temporary Provisions) Act, 1929. | The whole Act. |
+| No. 6 of 1930. | Defence Forces (Temporary Provisions) Act, 1930. | The whole Act. |
+| No. 2 of 1931. | Defence Forces (Temporary Provisions) Act, 1931. | The whole Act. |
+| No. 52 of 1931. | Defence Forces (Temporary Provisions) (No. 2) Act, 1931. | The whole Act. |
+| No. 3 of 1933. | Defence Forces (Temporary Provisions) Act, 1933. | The whole Act. |
+| No. 10 of 1934. | Defence Forces (Temporary Provisions) Act, 1934. | The whole Act. |
+| No. 26 of 1934. | Defence Forces (Temporary Provisions) (No. 2) Act, 1934. | The whole Act. |
+| No. 2 of 1935. | Public Dance Halls Act, 1935. | Section 15, the words “of the Minister for Defence or”. |
+| No. 11 of 1935. | Defence Forces (Temporary Provisions) Act, 1935. | The whole Act. |
+| No. 3 of 1936. | Defence Forces (Temporary Provisions) Act, 1936. | The whole Act. |
+| No. 6 of 1937. | Defence Forces (Temporary Provisions) Act, 1937. | The whole Act. |
+| No. 41 of 1937. | Defence Forces Act, 1937. | The whole Act. |
+| No. 8 of 1938. | Defence Forces (Temporary Provisions) Act, 1938. | The whole Act. |
+| No. 7 of 1939. | Defence Forces (Temporary Provisions) Act, 1939. | The whole Act. |
+| No. 3 of 1940. | Defence Forces (Temporary Provisions) Act, 1940. | The whole Act. |
+| No. 11 of 1940. | Defence Forces (Temporary Provisions) (No. 2) Act, 1940. | The whole Act. |
+| No. 6 of 1941. | Defence Forces (Temporary Provisions) Act, 1941. | The whole Act. |
+| No. 3 of 1942. | Defence Forces (Temporary Provisions) Act, 1942. | The whole Act. |
+| No. 1 of 1943. | Defence Forces (Temporary Provisions) Act, 1943. | The whole Act. |
+| No. 4 of 1944. | Defence Forces (Temporary Provisions) Act, 1944. | The whole Act. |
+| No. 10 of 1945. | Defence Forces (Temporary Provisions) Act, 1945. | The whole Act. |
+| No. 7 of 1946. | Defence Forces (Temporary Provisions) Act, 1946. | The whole Act. |
+| No. 4 of 1947. | Defence Forces (Temporary Provisions) Act, 1947. | The whole Act. |
+| No. 5 of 1948. | Defence Forces (Temporary Provisions) Act, 1948. | The whole Act. |
+| No. 1 of 1949. | Defence Forces (Temporary Provisions) Act, 1949. | The whole Act. |
+| No. 2 of 1950. | Defence Forces (Temporary Provisions) Act, 1950. | The whole Act. |
+| No. 6 of 1951. | Defence Forces (Temporary Provisions) Act, 1951. | The whole Act. |
+| No. 2 of 1952. | Defence Forces (Temporary Provisions) Act, 1952. | The whole Act. |
+| No. 1 of 1953. | Defence Forces (Temporary Provisions) Act, 1953. | The whole Act. |
+| No. 5 of 1954. | Defence Forces (Temporary Provisions) Act, 1954. | The whole Act. |
+
+## F453[SECOND SCHEDULE — Commissioned Army and Naval Ranks in the Defence Forces
+
+| Reference Number (1) | Army Ranks (2) | Naval Ranks (3) |
+|---|---|---|
+| 1. | Ginearál or (in English) General. |  |
+| 2. | Lefteanant-Ghinearál or (in English) Lieutenant-General. | Leas-Aimiréal or (in English) Vice- Admiral. |
+| 3. | Maor-Ghinearál or (in English) Major-General. | Seach-Aimiréal or (in English) Rear-Admiral. |
+| 4. | Briogáidire-Ghinearál or (in English) Brigadier-General. | Ceannasóir or (in English) Commodore. |
+| 5. | Cornal or (in English) Colonel. | Captaen or (in English) Captain. |
+| 6. | Lefteanant-Chornal or (in English) Lieutenant-Colonel. | Ceannasaí or (in English) Commander. |
+| 7. | Ceannfort or (in English) Commandant. | Lefteanant-Cheannasaí or (in English) Lieutenant-Commander. |
+| 8. | Captaen or (in English) Captain. | Lefteanant or (in English) Lieutenant. |
+| 9. | Lefteanant or (in English) Lieutenant. | Fo-Lefteanant or (in English) Sub-Lieutenant. |
+| 10. | Dara-Lefteanant or (in English) Second-Lieutenant. | Meirgire or (in English) Ensign. Meánloingseach or (in English) Midshipman. ] |
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F453: Substituted (22.07.2015) by *Defence (Amendment ) Act 2015* (24/2015), s. 3, commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E123: Previous affecting provision: schedule substituted (20.02.1979) by *Defence (Amendment) Act 1979* (1/1979), s. 4, commenced on enactment; substituted as per F-note above.
+
+## THIRD SCHEDULE. — Non-commissioned Army and Naval Ranks in the Defence Forces.
+
+| Ref. No. | Army Ranks | Naval Ranks |
+|---|---|---|
+| (1) | (2) | (3) |
+| 1 | Maor-Sháirsint or (in English) Sergeant-Major. | Oifigeach Barántais or (in English) Warrant Officer. |
+| 2 | Ceathrú-Sháirsint Cathláin or (in English) Battalion Quartermaster-Sergeant. | Ard-Mhion-Oifigeach Sinsearach or (in English) Senior Chief Petty Officer. |
+| 3 | Sáirsint Complachta or (in English) Company-Sergeant. | Ard-Mhion-Oifigeach or (in English) Chief Petty Officer. |
+| 4 | Ceathrú-Sháirsint Complachta or (in English) Company Quartermaster-Sergeant. | Mion-Oifigeach Sinsearach or (in English) Senior Petty Officer. |
+| 5 | Sáirsint or (in English) Sergeant. | Mion-Oifigeach or (in English) Petty Officer. |
+| 6 | Ceannaire or (in English) Corporal. | Mairnéalach Ceannais or (in English) Leading Seaman. |
+| 7 | Saighdiúir Singil or (in English) Private. | Mairnéalach or (in English) Seaman. |
+
+## FOURTH SCHEDULE. — Matters in respect of which regulations may be made under section 26.
+
+1\. The precedence of the respective defence forces forming the Defence Forces and the various service corps, staffs, units and elements thereof.
+
+2\. The seniority of officers.
+
+3\. The persons to be invested as officers or otherwise with command over the Defence Forces or any part thereof and as to the mode in which such command is to be exercised, so however that command shall not be exercised by any person over a person holding a higher rank than himself.
+
+4\. The appointment to, promotion in, and tenure of commissioned rank in the Defence Forces.
+
+5\. The appointments to be held by officers and men.
+
+6\. The tenure in any office, appointment or capacity in the Defence Forces.
+
+7\. The retirement of officers of the Permanent Defence Force, the relinquishment of their commissions by officers of the Reserve Defence Force, the resignation of their commissions by officers and the discharge of men.
+
+8\. The officers who are to be commanding officers and company commanders respectively for the purposes of this Act.
+
+9\. The seconding of officers to civil or quasi-military appointments.
+
+10\. The leave of absence of members of the Defence Forces.
+
+11\. The uniform and insignia to be worn by members of the Defence Forces.
+
+12\. The orders and decorations to be worn by members of the Defence Forces.
+
+13\. The attendance, whether within or without the State, at special classes and courses of instruction of members of the Defence Forces selected for such attendance.
+
+14\. The examination of members of the Defence Forces as to proficiency in military subjects and as to their general educational or technical qualifications, and the granting of certificates of proficiency.
+
+15\. The classification of men by reference to particular ranks or grades of ranks, qualifications and appointments.
+
+16\. The training and inspection of the Defence Forces, the formation of training camps, and the holding of exercises for the Defence Forces.
+
+17\. The regulation of artillery, rifle, and bombing and other army, naval or air practice, and the preservation of the public safety thereat.
+
+18\. The care, inspection and testing of arms, accoutrements, ammunition, supplies, animals, transport, vessels, aircraft, clothing and equipment of the Defence Forces.
+
+19\. Ceremonial duties, honours and salutes.
+
+F454[20\. The flying, certification and maintenance of service aircraft and the certification and maintenance of service aircraft material.]
+
+21\. The colours, flags or pendants proper to, or to be appropriated to the use of, service corps, staffs, units and other elements of the Defence Forces and State ships.
+
+22\. The precautions to be taken by State ships for the prevention of collisions at sea.
+
+23\. The lighting of State ships.
+
+24\. The commissioning and equipment of State ships.
+
+25\. The preservation, repair and docking of State ships.
+
+26\. The salvage services to be rendered by State ships.
+
+27\. Quarantine and customs regulations in relation to State ships and service aircraft.
+
+28\. The navigation and pilotage of State ships.
+
+29\. The management, control and safety of wharves and dockyards used for defence purposes and of explosives, oils, fuels, supplies and goods stored therein.
+
+30\. The survey of State ships and their engines and equipment.
+
+31\. The scale of issue of arms, accoutrements, ammunition, supplies, animals, transport, clothing, equipment and other matériel of the Defence Forces.
+
+32\. The establishment, conduct and control of messes, canteens and institutions for providing recreation and refreshment for members of the Defence Forces, and the accounting for and the control and disposal of the funds of such messes, canteens and institutions.
+
+33\. The establishment of, accounting for and control and disposal of, service funds and funds for the welfare of members of the Defence Forces and their families.
+
+34\. The conditions and terms of service of civilian employees.
+
+35\. The lending of service equipment free of charge or on hire.
+
+36\. Any matter or thing referred to in Part III of this Act as prescribed or as the subject of regulations made by the Minister.
+
+37\. Any other matter or thing which is not otherwise expressly provided for by or under this Act and which, in the opinion of the Minister, is necessary for securing the good government, efficiency and internal control and management of the Defence Forces or for carrying out and giving effect to this Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F454: Substituted (24.06.1987) by *Defence (Amendment) Act 1987* (8/1987), s. 15, commenced on enactment.
+
+## FIFTH SCHEDULE. — Forms of commission to an officer.
+
+PART I.
+
+Oglaigh na hEireann.
+
+Do (Ainm an Oifigigh) _______________
+
+Le hiontaoibh as do dhílseacht d’Eirinn agus as do thairiseacht don Bhunreacht agus le muinín speisialta as do mhisneach, d’onóir, do dhea-iompar agus d’éirim, Déanaimse, ____________ Uachtarán na hEireann, leis seo, ar chomhairle an Rialtais, tú a bhunú agus a cheapadh chun bheith id oifigeach sa chuid d’Oglaigh na hEireann dá ngairmtear _______________ *amhail ón ______ lá de _______________, 19 ___ Comhlíonfair go dílis do dhualgas i gcéim ___________ san ___________ ‡ nó in aon chéim is airde ná sin a ndéanfar de thoradh fiúntais tú a cheapadh nó d’ardú chuici ina dhiaidh seo. Déanfair na fir agus na hoifigigh íochtaracha a bheas ag fónamh fút d’aclú agus a thréineáil in airm agus a choimeád i ndea-ord agus i ndea-araíonacht agus naisctear leis seo ar gach aon duine acu sin agus ordaítear dó umhlóid a thabhairt duit mar oifigeach uachtarach air. Déanfair féin pé orduithe agus ordacháin dleathacha a gheobhair ó am go ham ón Aire Cosanta nó ó dhuine ar bith ded oifigigh uachtaracha a leanúint agus a chomhlíonadh gan ceist.
+
+ARNA THABHAIRT faoi mo Shéala Oifigiúil
+
+an _______ lá seo de ___________,
+
+19____
+
+_______________
+
+Uachtarán na hEireann.
+
+PART II.
+
+The Defence Forces.
+
+To (Name of Officer) ______________________
+
+Trusting in your fidelity to Ireland and loyalty to the Constitution and reposing special confidence in your courage, honour, good conduct, and intelligence, I, ___________, the President of Ireland, hereby, on the advice of the Government, constitute and appoint you to be an officer in the part of the Defence Forces known as ______________________* as from the _______ day of ___________, 19 ____ You will faithfully discharge your duty in the ___________ ‡ rank of ___________or in any higher rank to which your merit may hereafter determine your appointment or promotion. You will exercise and train in arms and maintain in good order and discipline the men and inferior officers serving under you who are hereby each and all enjoined and commanded to render you obedience as their superior officer. You will yourself observe and obey without question such lawful orders and directions as you shall from time to time receive from the Minister for Defence or from any of your superior officers.
+
+GIVEN under my Official Seal this ___ day
+
+of _________________, 19_______
+
+____________________
+
+President of Ireland.
+
+PART III.
+
+Oglaigh na hEireann.
+
+Do (Ainm an Oifigigh) __________________
+
+Le hiontaoibh as do dhílseacht d’Eirinn agus as do thairiseacht don Bhunreacht agus le muinín speisialta as do mhisneach, d’onóir, do dhea-iompar agus d’éirim, Déanaimidne, na sínithe thíos, is comhaltaí den Choimisiún a bunaíodh mar foráltar in alt 2 d’Airteagal 14 den Bhunreacht chun cumhachta agus feidhmeanna Uachtarán na hEireann d’oibriú agus a chomhlíonadh, leis seo, ar chomhairle an Rialtais, tú a bhunú agus a cheapadh chun bheith id oifigeach sa chuid d’Oglaigh na hEireann dá ngairmtear _______________ *amhail ón ____ lá de ___________, 19 ___ Comhlíonfair go dílis do dhualgas i gcéim _____ san _____ ‡ nó in aon chéim is airde ná sin a ndéanfar de thoradh fiúntais tú a cheapadh nó d’ardú chuici ina dhiaidh seo. Déanfair na fir agus na hoifigigh íochtaracha a bheas ag fónamh fút d’aclú agus a thréineáil in airm agus a choimeád i ndea-ord agus i ndea-araíonacht agus naisctear leis seo ar gach aon duine acu sin agus ordaítear dó umhlóid a thabhairt duit mar oifigeach uachtarach air. Déanfair féin pé orduithe agus ordacháin dleathacha a gheobhair ó am go ham ón Aire Cosanta nó ó dhuine ar bith ded oifigigh uachtaracha a leanúint agus a chomhlíonadh gan ceist.
+
+ARNA THABHAIRT faoi Shéala Oifigiúil
+
+Uachtaráan na hEireann an ___ lá seo
+
+de ___________, 19 ____
+
+______________
+
+PART IV.
+
+The Defence Forces.
+
+To (Name of Officer) _______________
+
+Trusting in your fidelity to Ireland and loyalty to the Constitution and reposing special confidence in your courage, honour, good conduct, and intelligence, We, the undersigned members of the Commission constituted as provided in section 2 of Article 14 of the Constitution to exercise and perform the powers and functions of the President of Ireland, hereby, on the advice of the Government, constitute and appoint you to be an officer in the part of the Defence Forces known as ___________[^2] as from the _____ day of _______, 19 ___ You will faithfully discharge your duty in the _____ [^3] rank of _____ or in any higher rank to which your merit may hereafter determine your appointment or promotion. You will exercise and train in arms and maintain in good order and discipline the men and inferior officers serving under you who are hereby each and all enjoined and commanded to render you obedience as their superior officer. You will yourself observe and obey without question such lawful orders and directions as you shall from time to time receive from the Minister for Defence or from any of your superior officers.
+
+GIVEN under the Official Seal Of the President
+
+of Ireland this ___ day of ________,
+
+19____
+
+___________
+
+## SIXTH SCHEDULE. — Form of Oath or Declaration to be taken or made by Officers of the Permanent Defence Force.
+
+PART I.
+
+Mionnaímse (nó dearbhaímse), ___________, go solamanta go mbead dílis d’Eirinn agus tairiseach don Bhunreacht agus, faid a bhead im oifigeach de na Buan-Oglaigh, go gcomhlíonfad gach ordú dleathach a bhéarfas m’oifigigh uachtaracha dhom agus nach gceanglód le haon eagraíocht nó cumann polaitíochta ná le haon chumann rúnda ar bith ná nach mbead im chomhalta den chéanna ná nach dtaobhód leis an gcéanna.
+
+PART II.
+
+I, ___________, do solemnly swear (or declare) that I will be faithful to Ireland and loyal to the Constitution and that while I am an officer of the Permanent Defence Force I will obey all lawful orders issued to me by my superior officers and will not join or be a member of or subscribe to any political organisation or society or any secret society whatsoever.
+
+## SEVENTH SCHEDULE. — Form of Oath or Declaration to be taken or made by Officers of the Reserve Defence Force.
+
+PART I.
+
+Mionnaímse (nó dearbhaímse), ___________, go solamanta go mbead dílis d’Eirinn agus tairiseach don Bhunreacht agus, faid a bhead im oifigeach de na hOglaigh Cúltaca, go gcomhlíonfad gach ordú dleathach a bhéarfas m’oifigigh uachtaracha dhom agus nach gceanglód le haon chumann rúnda ar bith ná nach mbead im chomhalta den chéanna ná nach dtaobhód leis an gcéanna.
+
+PART II.
+
+I,___________, do solemnly swear (or declare) that I will be faithful to Ireland and loyal to the Constitution and that while I am an officer of the Reserve Defence Force I will obey all lawful orders issued to me by my superior officers and will not join or be a member of or subscribe to any secret society whatsoever.
+
+## EIGHTH SCHEDULE. — Form of Oath or Declaration to be taken or made by F455[persons enlisting] in the Permanent Defence Force under section 53.
+
+PART I.
+
+Mionnaímse (nó dearbhaímse), ___________, go solamanta go mbead dílis d’Eirinn agus tairiseach don Bhunreacht agus, faid a bhead im F456[chomhalta] d’Oglaigh na hEireann, go gcomhlíon-fad gach ordú dleathach a bhéarfas m’oifigigh uachtaracha dhom agus, faid a bhead im F456[chomhalta] de na Buan-Oglaigh, nach gceanglód le haon eagraíocht nó cumann polaitíochta ná le haon chumann rúnda ar bith ná nach mbead im chomhalta den chéanna ná nach dtaobhód leis an gcéanna agus, má bhím im F456[chomhalta] de na hOglaigh Cúltaca, nach gceanglód le haon chumann rúnda ar bith ná nach mbead im chomhalta den chéanna ná nach dtaobhód leis an gcéanna faid a bhead im F456[chomhalta] de na hOglaigh Cúltaca.
+
+PART II.
+
+I,___________, do solemnly swear (or declare) that I will be faithful to Ireland and loyal to the Constitution and that while I am a F457[member] of the Defence Forces I will obey all lawful orders issued to me by my superior officers and that while I am a F457[member] of the Permanent Defence Force I will not join or be a member of or subscribe to any political organisation or society or any secret society whatsoever and that, if I become a F457[member] of the Reserve Defence Force, I will not, while I am a F457[member] of the Reserve Defence Force, join or be a member of or subscribe to any secret society whatsoever.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F455: Substituted (23.01.1980) by *Defence (Amendment) (No. 2) Act 1979* (28/1979), s. 6(a), S.I. No. 19 of 1980.
+>
+> F456: Substituted (23.01.1980) by *Defence (Amendment) (No. 2) Act 1979* (28/1979), s. 6(b), S.I. No. 19 of 1980.
+>
+> F457: Substituted (23.01.1980) by *Defence (Amendment) (No. 2) Act 1979* (28/1979), s. 6(c), S.I. No. 19 of 1980.
+
+## NINTH SCHEDULE. — Form of Oath or Declaration to be taken or made by F458[persons enlisting] in the Permanent Defence Force under section 54.
+
+PART I.
+
+Mionnaímse (nó dearbhaímse), ___________, go solamanta go mbead dílis d’Eirinn agus tairiseach don Bhunreacht agus, faid a bhead im F459[chomhalta] de na Buan-Oglaigh, go gcomhlíonfad gach ordú dleathach a bhéarfas m’oifigigh uachtaracha dhom agus nach gceanglód le haon eagraíocht nó cumann polaitíochta ná le haon chumann rúnda ar bith ná nach mbead im chomhalta den chéanna ná nach dtaobhód leis an gcéanna.
+
+PART II.
+
+I, ___________, do solemnly swear (or declare) that I will be faithful to Ireland and loyal to the Constitution and that while I am a F460[member] of the Permanent Defence Force I will obey all lawful orders issued to me by my superior officers and will not join or be a member of or subscribe to any political organisation or society or any secret society whatsoever.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F458: Substituted (23.01.1980) by *Defence (Amendment) (No. 2) Act 1979* (28/1979), s. 6(a), S.I. No. 19 of 1980.
+>
+> F459: Substituted (23.01.1980) by *Defence (Amendment) (No. 2) Act 1979* (28/1979), s. 6(b), S.I. No. 19 of 1980.
+>
+> F460: Substituted (23.01.1980) by *Defence (Amendment) (No. 2) Act 1979* (28/1979), s. 6(c), S.I. No. 19 of 1980.
+
+## TENTH SCHEDULE. — Form of Oath or Declaration to be taken or made by F461[persons enlisting] in the Reserve Defence Force under section 55.
+
+PART I.
+
+Mionnaímse (nó dearbhaímse), ___________, go solamanta go mbead dílis d’Eirinn agus tairiseach don Bhunreacht agus, faid a bhead im F462[chomhalta] de na hOglaigh Cúltaca, go gcomhlíonfad gach ordú dleathach a bhéarfas m’oifigigh uachtaracha dhom agus nach gceanglód le haon chumann rúnda ar bith ná nach mbead im chomhalta den chéanna ná nach dtaobhód leis an gcéanna.
+
+PART II.
+
+I, ____________, do solemnly swear (or declare) that I will be faithful to Ireland and loyal to the Constitution and that while I am a F463[member] of the Reserve Defence Force I will obey all lawful orders issued to me by my superior officers and will not join or be a member of or subscribe to any secret society whatsoever.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F461: Substituted (23.01.1980) by *Defence (Amendment) (No. 2) Act 1979* (28/1979), s. 6(a), S.I. No. 19 of 1980.
+>
+> F462: Substituted (23.01.1980) by *Defence (Amendment) (No. 2) Act 1979* (28/1979), s. 6(b), S.I. No. 19 of 1980.
+>
+> F463: Substituted (23.01.1980) by *Defence (Amendment) (No. 2) Act 1979* (28/1979), s. 6(c), S.I. No. 19 of 1980.
+
+## F464[ELEVENTH SCHEDULE — Scheduled Offences for the Purposes of Part V of this Act
+
+PART I
+
+Offences of a Disciplinary Nature Which may be Disposed of Summarily Under Section 177C, 178C or 179C
+
+| Provision of Principal Act | Offence |
+|---|---|
+| (1) | (2) |
+| Section 133 | Insubordinate behaviour |
+| Section 134 | Disorders |
+| Section 137 | Absence without leave |
+| Section 138 | False statement in respect of leave |
+| Section 142 | Prohibition on being under the influence of an intoxicant |
+| Section 160 | Unauthorised use of service vehicles |
+| Section 168 | Conduct to the prejudice of good order and discipline |
+
+PART II
+
+Offences of a Disciplinary Nature Which may be Disposed of Summarily Under Section 177C or 178C Subject to Prior Consent of Director]
+
+| Provision of Principal Act | Offence |
+|---|---|
+| (1) | (2) |
+| Section 131 | Disobedience to superior officer |
+| Section 136 | Connivance at desertion |
+| Section 141 | False accusation against officer or man |
+| Section 144 | Dilatory conduct in regard to trials |
+| Section 145 | Negligent or wilful interference with lawful custody |
+| Section 147 | Obstruction of officer or man carrying out police duties |
+| Section 150 | Unauthorised carriage on ships or aircraft |
+| Section 157 | Destruction, loss or improper disposal of property |
+| Section 159 | Negligent or furious driving of service vehicles |
+| Section 164 | Fraudulent enlistment |
+| Section 165 | General offences in relation to enlistment |
+| Section 166 | Negligent performance of duties |
+| Section 167 | Offences in relation to documents |
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F464: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 20(2) and sch. 5, S.I. No. 254 of 2008.
+
+## F465[TWELFTH SCHEDULE — Court-Martial Rules
+
+*Matters in respect of which the Courts-Martial Rules Committee may make court-martial rules.*
+
+1\. The pleading, practice and procedure generally in all proceedings before courts-martial.
+
+2\. Assignment of cases by the Chief Military Judge (if any).
+
+3\. Sittings of courts-martial, including the days, times and place of sitting and any changes thereto.
+
+4\. Oaths and affirmations for members of the court-martial board, witnesses and other persons and the person or persons who may administer such oaths and affirmations.
+
+5\. Procedures for the making of objections to, and the replacement of, members of a court-martial board.
+
+6\. Procuring the attendance of witnesses and other persons and the production of documents and other things, including provision in relation to—
+
+(*a*) the payment of expenses to persons summoned to attend a court-martial,
+
+(*b*) the making of orders for the arrest of persons.
+
+7\. The making of records of the proceedings of courts-martial.
+
+8\. The order of and manner in which submissions may be made by the Director or by or on behalf of the accused in all proceedings before a court-martial.
+
+9\. The alteration, amendment, addition and substitution of charges.
+
+10\. Adjournment of proceedings before a court-martial.
+
+11\. The procedure for the dissolution by a military judge of a general court-martial or limited court-martial.
+
+12\. Forms of orders to be made by a military judge including in relation to sentences of imprisonment or detention or any other punishment which may be awarded.
+
+13\. Procedures for making application for legal aid.
+
+14\. The entry into, taking of and form of recognisance for the purposes of suspending sentences under section 212A.
+
+15\. Procedures for making application to a court-martial under section 212A(11) to fix a date for hearing for the purposes of that provision.
+
+16\. Procedures for the making of applications for restitution of stolen property under section 225.
+
+17\. The practice and procedure for the bringing and hearing of appeals by, and other related proceedings before, the summary court-martial.
+
+18\. The procedure for referral under section 178G(5) of questions of law arising on an appeal under section 178E to the Courts-Martial Appeal Court for determination.
+
+19\. Any other matter or thing expedient or necessary for the purposes of carrying into effect the provisions of this Act relating to the pleading, practice and procedure generally in all proceedings before courts-martial under this Act.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F465: Inserted (1.09.2008) by *Defence (Amendment) Act 2007* (24/2007), s. 71(2) and sch. 7, S.I. No. 254 of 2008.
+
+## F466[THIRTEENTH SCHEDULE — External Oversight Body — Section 321(4) — 1. The External Oversight Body shall be a body corporate with perpetual succession and a seal and power to sue, and may be sued, in its corporate name and shall, with the consent of the Minister given with the approval of the Minister for Public Expenditure, National Development Plan Delivery and Reform have the power to acquire, hold and dispose of land or an interest in land, and shall have the power to acquire, hold and dispose of any other property. — 2. The seal of the External Oversight Body shall be authenticated by the signatures of— — (a) a member of the External Oversight Body, and — (b) a member of staff of the External Oversight Body authorised in writing by the External Oversight Body to act in that behalf. — 3. Judicial notice shall be taken of the seal of the External Oversight Body and any document purporting to be an instrument made by and to be sealed with the seal of the External Oversight Body (purporting to be authenticated in accordance with paragraph 2) and shall, unless the contrary is proved, be received in evidence and be deemed to be such instrument without further proof. — 4. Any contract or instrument which, if entered into or executed by an individual, would not require to be under seal, may be entered into or executed on behalf of the External Oversight Body by any person generally or specially authorised by the External Oversight Body to act in that behalf. — 5. A person shall not be eligible to be recommended for appointment or appointed as a member of the External Oversight Body if he or she— — (a) is a member of either House of the Oireachtas, — (b) is entitled under the rules of procedure of the European Parliament to sit in that Parliament, — (c) is a member of a local authority, — (d) is a member of the Defence Forces, — (e) is a former member of the Defence Forces who served as a member during the period of 5 years immediately prior to a recommendation or an appointment, — (f) is a civil servant (within the meaning of the Civil Service Regulation Act 1956) serving in the Department of Defence, other than the Secretary General, or — (g) is a civil servant (within the meaning of the Civil Service Regulation Act 1956), or former civil servant, who served with the Department of Defence during the period of 5 years immediately prior to a recommendation or appointment. — 6. Where a member of the External Oversight Body is— — (a) nominated as a member of Seanad Éireann, — (b) elected as a member of either House of the Oireachtas or to be a member of the European Parliament, — (c) regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act 1997 as having been elected to the European Parliament, or — (d) becomes a member of a local authority, — he or she shall thereupon cease to be a member of the External Oversight Body and, where applicable, a member of a committee of the External Oversight Body. — 7. A member of the External Oversight Body or a member of a committee of the External Oversight Body shall be ineligible to be a member, and cease to be a member, where he or she— — (a) subject to paragraph 8, is adjudicated bankrupt, — (b) makes a composition or arrangement with his or her creditors, — (c) is convicted of an indictable offence, or is convicted outside the State for an offence consisting of acts or omissions that, if done or made in the State, would constitute an offence triable on indictment, — (d) is convicted of an offence involving fraud or dishonesty, — (e) is convicted by a court-martial of an offence against military law for which he or she is sentenced to imprisonment to a term of not less than 12 months in respect of that offence, — (f) is sentenced by a court of competent jurisdiction to a term of imprisonment, — (g) has a declaration under section 819 of the Companies Act 2014 made against him or her, or is deemed to be subject to such a declaration by virtue of Chapter 5 of Part 14 of that Act, or — (h) is subject, or is deemed to be subject, to a disqualification order, within the meaning of Chapter 4 of Part 14 of the Companies Act 2014, whether by virtue of that Chapter or any other provision of that Act. — 8. A person shall be ineligible under subparagraph (a) of paragraph 7 for appointment as a member of the External Oversight Body or a member of a committee of the External Oversight Body only for so long as he or she has not obtained a certificate of discharge from the bankruptcy or the bankruptcy has not been annulled. — 9. Where a member of the External Oversight Body does not, for a consecutive period of 6 months, attend a meeting of the External Oversight Body, he or she shall, at the end of that period cease to be a member of the External Oversight Body unless the member demonstrates to the Minister’s satisfaction that the failure to attend was due to ill-health. — 10. In this Schedule, "local authority" means a local authority within the meaning of section 2 of the Local Government Act 2001.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F466: Inserted (6.11.2024) by *Defence (Amendment) Act 2024* (25/2024), s. 22, S.I. No. 609 of 2024.
+
+[^1]: OJ No. L119, 4.5.2016, p. 1
+[^2]: Insert here “na Buan-Oglaigh”, “the Permanent Defence Force”, “na hOglaigh Cúltaca” or “the Reserve Defence Force” (whichever is appropriate).
+[^3]: Insert here “Arm”, “Army”, “Chabhlach cr “Naval”” (Whichever is appropriate

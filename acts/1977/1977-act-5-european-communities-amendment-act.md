@@ -1,0 +1,36 @@
+---
+title: "European Communities (Amendment) Act, 1977"
+identifier: "eli/1977/act/5"
+type: act
+jurisdiction: ie
+language: en
+number: 5
+year: 1977
+date: 1977-03-29
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/1977/act/5/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# European Communities (Amendment) Act, 1977
+
+AN ACT TO AMEND THE EUROPEAN COMMUNITIES ACT, 1972, SO AS TO PROVIDE THAT THE TREATY AMENDING CERTAIN FINANCIAL PROVISIONS OF THE TREATIES ESTABLISHING THE EUROPEAN COMMUNITIES AND OF THE TREATY ESTABLISHING A SINGLE COUNCIL AND A SINGLE COMMISSION OF THE EUROPEAN COMMUNITIES SHALL BE PART OF THE DOMESTIC LAW OF THE STATE. [29*th March*, 1977]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+## 1. Amendment of European Communities Act, 1972.
+
+**1.**—The European Communities Act, 1972, is hereby amended by the insertion, in the definition of “the treaties governing the European Communities” in section 1 (1), after “the 1st day of January, 1973” of the following—
+
+“, and
+
+(*i*) the Treaty amending certain financial provisions of the Treaties establishing the European Communities and of the Treaty establishing a single Council and a single Commission of the European Communities, signed at Brussels on the 22nd day of July, 1975”.
+
+## 2. Short title and commencement, etc.
+
+**2.**—(1) This Act may be cited as the European Communities (Amendment) Act, 1977.
+
+(2) This Act shall come into operation on the same day as the Treaty referred to in section 1 of this Act enters into force.
+
+(3) The Minister for Foreign Affairs shall cause to be published in *Iris Oifigiúil* as soon as may be a notice specifying the day referred to in subsection (2) of this section and specifying that on that day this Act came into operation.

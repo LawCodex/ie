@@ -1,0 +1,2023 @@
+---
+title: "Civil Liability Act, 1961"
+identifier: "eli/1961/act/41"
+type: act
+jurisdiction: ie
+language: en
+number: 41
+year: 1961
+date: 1961-08-17
+last_amended: 2023-07-31
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/1961/act/41/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/1961/act/41/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Civil Liability Act, 1961
+
+AN ACT TO REFORM THE LAW RELATING TO CIVIL LIABILITY, PROVIDING IN PARTICULAR FOR THE SURVIVAL OF CAUSES OF ACTION ON DEATH, FOR PROCEEDINGS AGAINST AND CONTRIBUTION BETWEEN CONCURRENT WRONGDOERS AND FOR LIABILITY IN CASES OF CONTRIBUTORY NEGLIGENCE, TO PROVIDE FOR DAMAGES FOR THE BENEFIT OF THE DEPENDANTS OF ANY PERSON FATALLY INJURED BY THE WRONGFUL ACT, NEGLECT OR DEFAULT OF ANOTHER, AND TO PROVIDE FOR OTHER MATTERS CONNECTED WITH THE FOREGOING. [17*th August,* 1961.]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:—
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C1: Application of limitation periods in Act restricted in certain circumstances (10.04.2023) by *Garda Síochána (Compensation) Act 2022* (33/2022), ss. 23(1), (2), 24(1), (3), S.I. No. 163 of 2023.
+>
+> **Proceedings on foot of authorisation under Act of 2003**
+>
+> **23.** (1) A claimant may bring proceedings against the Garda Commissioner on foot of an authorisation issued by the Personal Injuries Assessment Board under the Act of 2003, and such proceedings shall be subject to this Part and to the Act of 2003 as applied by *Part 5*.
+>
+> (2) The proceedings referred to in *subsection (1)* shall be brought not later than 6 months after the date of issue of the authorisation.
+>
+> ...
+>
+> **Additional provisions regarding proceedings**
+>
+> **24.** (1) The proceedings referred to in *section 23* shall, subject to this Act and the Act of 2003 as applied by *section 19* and with any necessary modifications, be deemed to be a personal injuries action for the purposes of any enactments relating in whole or in part to personal injuries actions (including the Act of 2004) and shall be treated as if they were a personal injuries action within the meaning of those enactments, including for the purposes of costs.
+>
+> ...
+>
+> (3) Notwithstanding *subsection (1)*—
+>
+> (a) the Statute of Limitations (Amendment) Act 1991 and any enactment regarding limitation periods (other than this Act and the Act of 2003 as applied by *section 19*), and
+>
+> (b) subject to *section 23 (7)(f)*, the Act of 1961,
+>
+> shall not apply to the proceedings referred to in *section 23*.
+>
+> C2: Application of Act extended (6.02.1997) by *Merchant Shipping (Liability of Shipowners and Others) Act 1996* (35/1996), s. 22, S.I. No. 215 of 1997.
+>
+> **Construction of reference in 1974 Convention to law of the court.**
+>
+> **22.**—The reference to the law of the court in Article 6 of the 1974 Convention shall be construed as a reference to the Civil Liability Act, 1961.
+>
+> C3: Application of Act extended (1.02.1987) by *Control of Dogs Act 1986* (32/1986), s. 21(4), S.I. No. 16 of 1987.
+>
+> **Liability of owner for damage by dog.**
+>
+> **21.**—...
+>
+> (4) (*a*) Any damage or injury for which a person is made liable under this section shall be deemed to be attributable to a wrong within the meaning of the Civil Liability Act, 1961, and the provisions of that Act shall apply accordingly.
+>
+> (*b*) Sections 11 (2) (*a*) and 11 (2) (*b*) of the Statute of Limitations, 1957, shall apply to such damage.
+
+## PART IPreliminary And General — PART I — Preliminary And General
+
+### 1. Short title and collective citation.
+
+**1.**—(1) This Act may be cited as the Civil Liability Act, 1961.
+
+(2) The Air Navigation and Transport Acts, 1936 to 1959, and Part VI of this Act may be cited together as the Air Navigation and Transport Acts, 1936 to 1961.
+
+### 2. Interpretation generally.
+
+**2.**—(1) In this Act, save where the context otherwise requires—
+
+“the Act of 1936” means the Air Navigation and Transport Act, 1936;
+
+“the Statute of Limitations” means the Statute of Limitations, 1957;
+
+“act” includes default or other omission;
+
+“action” includes counterclaim and proceedings by way of arbitration;
+
+“any other limitation enactment” includes *sections 31*, *46* and *48*;
+
+“bankrupt” includes an arranging debtor;
+
+“bankruptcy” includes an arrangement under an order of the court for protection;
+
+“concurrent wrongs” means wrongs committed by persons in respect of which they are concurrent wrongdoers;
+
+“contract” means a contract under seal or by parol;
+
+“contributor” means a person who is liable or alleged to be liable to make contribution;
+
+“court” means, in relation to any claim, the court or arbitrator by or before whom the claim falls to be determined;
+
+“damage” includes loss of property, loss of life and personal injury;
+
+“damages”, except in *Part IV*, includes compensation for breach of trust;
+
+“defendant” includes defendant to a counterclaim;
+
+“injured person” means a person against whom a wrong is committed;
+
+“liable” refers to legal liability whether or not enforceable by action;
+
+“negligence” includes breach of statutory duty;
+
+“personal injury” includes any disease and any impairment of a person’s physical or mental condition, and “injured” shall be construed accordingly;
+
+“plaintiff” includes a defendant counterclaiming and a defendant claiming against a co-defendant by notice or otherwise;
+
+“third party” includes fourth party and subsequent party;
+
+“wrong” means a tort, breach of contract or breach of trust, whether the act is committed by the person to whom the wrong is attributed or by one for whose acts he is responsible, and whether or not the act is also a crime, and whether or not the wrong is intentional;
+
+“wrong of the defendant” includes, where the defendant is a personal representative, a wrong of the deceased for which the defendant is liable as personal representative;
+
+“wrongdoer” means a person who commits or is otherwise responsible for a wrong.
+
+(2) Any reference in this Act to any other enactment shall be construed as a reference to that enactment as amended or applied by any subsequent enactment, including this Act.
+
+### 3. Adaptation of references to repealed Acts.
+
+**3.**—A reference in any enactment to any Act repealed by this Act shall be construed as a reference to this Act.
+
+### 4. Savings.
+
+**4.**—(1) Nothing in this Act shall have effect in relation to any cause of action which accrued before the passing of this Act.
+
+(2) Nothing in this Act shall—
+
+(*a*) render enforceable any agreement for indemnity which would not have been enforceable if this Act had not been passed, or
+
+(*b*) affect the power of the court to stay proceedings that are an abuse of the process of the court.
+
+### 5. Repeals.
+
+**5.**—The enactments mentioned in the Schedule are hereby repealed to the extent specified in column (3), except in respect of cases saved by *section 4*.
+
+## PART IISurvival of Certain Causes of Action on Death — PART II — Survival of Certain Causes of Action on Death
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C4: Application of Part extended (1.01.1967) by *Succession Act 1965* (27/1965), s. 48, S.I. No. 168 of 1966.
+>
+> **Causes of action surviving on death.**
+>
+> **48.**—The personal representatives of a deceased person may sue and be sued in respect of all causes of action which, by virtue of Part II of the Civil Liability Act, 1961, survive for the benefit of, or against, the estate of the deceased, subject to the provisions of that Act and the rules of limitation under the Statute of Limitations, 1957, or otherwise.
+
+*Preliminary*
+
+### 6. Definition (Part II).
+
+**6.**—In this Part “excepted cause of action” means—
+
+(*a*) a cause of action for breach of promise to marry or for defamation or for seduction or for inducing one spouse to leave or remain apart from the other or for criminal conversation, or
+
+(*b*) any claim for compensation under the Workmen’s Compensation Act, 1934.
+
+F1["Act of 2009" means the Defamation Act 2009;]
+
+F1["aggravated damages" has the same meaning as it has in the Act of 2009;]
+
+F1["punitive damages" has the same meaning as it has in the Act of 2009.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F1: Inserted (1.01.2010) by *Defamation Act 2009* (31/2009), s. 39(1), S.I. No. 517 of 2009.
+
+*Causes of action vested in deceased person*
+
+### 7. Survival of certain causes of action vested in deceased person.
+
+**7.**—(1) On the death of a person on or after the date of the passing of this Act all causes of action (other than excepted causes of action) vested in him shall survive for the benefit of his estate.
+
+F2[(1A) On the death of a person on or after the commencement of section 39 (2) (a) of the Act of 2009, a cause of action for defamation vested in him immediately before his death shall survive for the benefit of his estate.]
+
+(2) Where, by virtue of subsection (1) of this section, a cause of action survives for the benefit of the estate of a deceased person, the damages recoverable for the benefit of the estate of that person shall not include exemplary damages, or damages for any pain or suffering or personal injury or for loss or diminution of expectation of life or happiness.
+
+F2[(2A) Where by virtue of *subsection (1A)* of this section, a cause of action for defamation survives for the benefit of the estate of a deceased person, the damages recoverable for the benefit of the estate of that person shall not include general damages, punitive damages or aggravated damages.]
+
+(3) Where—
+
+(*a*) a cause of action survives by virtue of *subsection (1)* of this section for the benefit of the estate of a deceased person, and
+
+(*b*) the death of such person has been caused by the circumstances which gave rise to such cause of action,
+
+the damages recoverable for the benefit of his estate shall be calculated without reference to any loss or gain to his estate consequent on his death, except that a sum in respect of funeral expenses may be included.
+
+(4) The rights conferred by this section for the benefit of the estate of a deceased person are in addition to the rights conferred on the dependants of deceased persons by Part III of the Act of 1936 and Part IV of this Act.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F2: Inserted (1.01.2010) by *Defamation Act 2009* (31/2009), s. 39(2), S.I. No. 517 of 2009.
+>
+> **Modifications (not altering text):**
+>
+> C5: Application of section extended (10.07.1991) by *Statute of Limitations (Amendment) Act 1991* (18/1991), s. 4, commenced on enactment.
+>
+> **Survival of causes of action to which section 3 applies**
+>
+> **4.**—(1) If an injured person to whom *section 3* of this Act applies dies before the expiration of the period specified in that section, any action that may be brought for the benefit of his estate in respect of a cause of action to which that section applies by virtue of section 7 of the Civil Liability Act, 1961, may be brought at any time before the expiration of **[**2 years**]** from—
+>
+> (*a*) the date of death, or
+>
+> (*b*) the date of the personal representative’s knowledge,
+>
+> whichever is the later.
+>
+> ...
+
+*Causes of action subsisting against deceased person*
+
+### 8. Survival of certain causes of action subsisting against deceased person.
+
+**8.**—(1) On the death of a person on or after the date of the passing of this Act all causes of action (other than excepted causes of action) subsisting against him shall survive against his estate.
+
+F3[(1A) On the death of a person on or after the commencement of section 39 (3) (a) of the Act of 2009 a cause of action subsisting against him shall survive against his estate.]
+
+(2) Where damage has been suffered by reason of any act in respect of which a cause of action would have subsisted against any person if he had not died before or at the same time as the damage was suffered, there shall be deemed, for the purposes of *subsection (1)* of this section, to have been subsisting against him before his death such cause of action in respect of that act as would have subsisted if he had died after the damage was suffered.
+
+F3[(2A) Where by virtue of *subsection (1A)* of this section, a cause of action for defamation survives against the estate of a deceased person, the damages recoverable against the estate of that person shall not include general damages, punitive damages or aggravated damages.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F3: Inserted (1.01.2010) by *Defamation Act 2009* (31/2009), s. 39(3), S.I. No. 517 of 2009.
+
+### 9. Time limit in respect of causes of action which survive against estate of deceased person.
+
+**9.**—(1) In this section “the relevant period” means the period of limitation prescribed by the Statute of Limitations or any other limitation enactment.
+
+(2) No proceedings shall be maintainable in respect of any cause of action whatsoever which has survived against the estate of a deceased person unless either—
+
+(*a*) proceedings against him in respect of that cause of action were commenced within the relevant period and were pending at the date of his death, or
+
+(*b*) proceedings are commenced in respect of that cause of action within the relevant period or within the period of two years after his death, whichever period first expires.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C6: Application of section restricted (3.09.2021) by *Affordable Housing Act 2021* (25/2021), s. 22(3), S.I. No. 450 of 2021.
+>
+> **Relationships with other enactments**
+>
+> **22.**— ...
+>
+> (3) Section 9 of the Civil Liability Act 1961 shall not apply to any action by the housing authority for the realisation of the affordable dwelling equity.
+>
+> ...
+>
+> C7: Section applied with modifications (24.07.2013) by *Land and Conveyancing Law Reform Act 2013* (30/2013), s. 4, commenced on enactment.
+>
+> **Provision in respect of certain proceedings**
+>
+> **4.**—(1) Where after the coming into operation of this section a mortgagee commences proceedings seeking possession of land in which they rely upon the statutory provisions or the amended provisions, the proceedings shall be deemed to be commenced within time for the purposes of section 9 of the Civil Liability Act 1961 where the conditions specified in subsection (2) are met.
+>
+> ...
+>
+> C8: Application of subs. (2) restricted by *Personal Injuries Assessment Board Act 2003* (46/2003), ss. 12 and 50, as substituted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 56(1)(c) and (d), commenced on enactment.
+>
+> **[Bar on bringing proceedings unless certain conditions are satisfied.**
+>
+> **12.**— ...
+>
+> (5) The issuing of a notice of motion or the moving of a motion for the purposes of an application referred to in subsection (4) shall not be regarded as the commencement of proceedings in respect of the relevant claim for the purposes of any applicable limitation period in relation to such claim (including any limitation period under the Statute of Limitations 1957, section 9(2) of the Civil Liability Act 1961, the Statute of Limitations (Amendment) Act 1991 and an international agreement or convention by which the State is bound).**]**
+>
+> ...
+>
+> **[Reckoning of time for purpose of Statute of Limitations, etc.**
+>
+> **50.**— In reckoning any period of time for the purpose of any applicable limitation period in relation to a relevant claim (including any limitation period under the Statute of Limitations 1957, section 9(2) of the Civil Liability Act 1961, the Statute of Limitations (Amendment) Act 1991 and an international agreement or convention by which the State is bound), the period beginning on the making of an application under section 11 in relation to the claim and ending 6 months from the date of issue of an authorisation under, as appropriate, section 14, 17, 32, or 36, rules under section 46(3) or section 49 shall be disregarded.**]**
+>
+> C9: Application of section restricted (1.12.2005) by *Social Welfare Consolidation Act 2005* (26/2005), s. 341(4), S.I. No. 923 of 2005.
+>
+> **Recovery of sums due by civil proceedings or by deduction from other payments.**
+>
+> **341.**— ...
+>
+> (4) Section 9 of the Civil Liability Act 1961 shall not apply to an action for the recovery of a debt due to the Minister or to the State under this Act.
+>
+> C10: Application of section restricted (16.12.1991) by *Liability For Defective Products Act 1991* (28/1991), s. 7(3), S.I. No. 316 of 1991.
+>
+> **Limitation of actions.**
+>
+> **7.**—...
+>
+> (3) Sections 9 and 48 (6) of the Civil Liability Act, 1961, shall not apply to an action for the recovery of damages under this Act.
+>
+> **Editorial Notes:**
+>
+> E1: Previous affecting provisions: application of section restricted by *Social Welfare (Consolidation) Act 1993* (27/1993), s. 281(3A) as inserted (3.04.1996) by *Social Welfare Act 1996* (7/1996), s. 41(b), repealed (1.12.2005) by *Social Welfare Consolidation Act 2005* (26/2005), s. 360 and sch. 7, S.I. No. 923 of 2005.
+
+### 10. Insolvency of estate against which proceedings. are maintainable
+
+**10.**—In the event of the insolvency of an estate against which proceedings are maintainable, any liability in respect of the cause of action in respect of which the proceedings are maintainable shall be deemed to be a debt provable in the administration of the estate, notwithstanding that it is a demand in the nature of unliquidated damages arising otherwise than by a contract or promise.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E2: In the printed version of the Act the full stop in the side note is placed after the word “proceedings”.
+
+## PART IIIConcurrent Fault — PART III — Concurrent Fault
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C11: Part applied with modifications (1.08.2014) by *Social Welfare Consolidation Act 2005* (26/2005), s. 343W, as inserted by *Social Welfare and Pensions Act 2013* (38/2013), s. 13(d), S.I. No. 308 of 2014.
+>
+> **[More than one compensator making compensation payment**
+>
+> **343W.**—Where two or more compensators are liable by virtue of this Part for recoverable benefits for the same personal injury, they shall be liable jointly and severally to the Minister in relation to those benefits and Part III of the Civil Liability Act 1961 shall be read as applying to that liability with all necessary modifications.**]**
+>
+> C12: Application of Part extended (16.12.1991) by *Liability For Defective Products Act, 1991* (28/1991), s. 8, S.I. No. 316 of 1991.
+>
+> **Joint and several liability.**
+>
+> **8.**—Where two or more persons are liable by virtue of this Act for the same damage, they shall be liable jointly and severally as concurrent wrongdoers within the meaning of Part III of the Civil Liability Act, 1961.
+>
+> C13: Application of Act not restricted (16.12.1991) by *Liability For Defective Products Act 1991* (28/1991), s. 9, S.I. No. 316 of 1991.
+>
+> **Reduction of liability.**
+>
+> **9.**—(1) Without prejudice to Part III of the Civil Liability Act, 1961 concerning the right of contribution, the liability of the producer shall not be reduced when damage is caused both by a defect in a product and by the act or omission of a third party.
+>
+> (2) Where any damage is caused partly by a defect in a product and partly by the fault of the injured person or of any person for whom the injured person is responsible, the provisions of the Civil Liability Act, 1961, concerning contributory negligence, shall have effect as if the defect were due to the fault of every person liable by virtue of this Act for the damage caused by the defect.
+
+### Chapter ILiability of concurrent wrongdoers — Chapter I — Liability of concurrent wrongdoers
+
+#### 11. Persons who are concurrent wrongdoers.
+
+**11.**—(1) For the purpose of this Part, two or more persons are concurrent wrongdoers when both or all are wrongdoers and are responsible to a third person (in this Part called the injured person or the plaintiff) for the same damage, whether or not judgment has been recovered against some or all of them.
+
+(2) Without prejudice to the generality of *subsection (1)* of this section—
+
+(*a*) persons may become concurrent wrongdoers as a result of vicarious liability of one for another, breach of joint duty, conspiracy, concerted action to a common end or independent acts causing the same damage;
+
+(*b*) the wrong on the part of one or both may be a tort, breach of contract or breach of trust, or any combination of them;
+
+(*c*) it is immaterial whether the acts constituting concurrent wrongs are contemporaneous or successive.
+
+(3) Where two or more persons are at fault and one or more of them is or are responsible for damage while the other or others is or are free from causal responsibility, but it is not possible to establish which is the case, such two or more persons shall be deemed to be concurrent wrongdoers in respect of the damage.
+
+(4) F4[...]
+
+(5) Where the same or substantially the same F5[defamatory statement] or injurious falsehood is published by different persons, the court shall take into consideration the extent to which it is probable that the statement in question was published directly or indirectly to the same persons, and to that extent may find the wrongdoers to be concurrent wrongdoers.
+
+(6) For the purpose of any enactment referring to a specific tort, an action for a conspiracy to commit that tort shall be deemed to be an action for that tort.
+
+F6[(7) In this section "defamatory statement" has the same meaning as it has in the Defamation Act 2009.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F4: Repealed (1.01.2010) by *Defamation Act 2009* (31/2009), s. 19(4), S.I. No. 517 of 2009.
+>
+> F5: Substituted (1.01.2010) by *Defamation Act 2009* (31/2009), s. 7(2)(a)(i), S.I. No. 517 of 2009.
+>
+> F6: Inserted (1.01.2010) by *Defamation Act 2009* (31/2009), s. 7(2)(a)(ii), S.I. No. 517 of 2009.
+
+#### 12. Extent of liability.
+
+**12.**—(1) Subject to the provisions of *sections 14*, *38* and *46*, concurrent wrongdoers are each liable for the whole of the damage in respect of which they are concurrent wrongdoers.
+
+(2) Where the acts of two or more persons who are not concurrent wrongdoers cause independent items of damage of the same kind to a third person or to one of their number, the court may apportion liability between such persons in such manner as may be justified by the probabilities of the case, or where the plaintiff is at fault may similarly reduce his damages; and if the proper proportions cannot be determined the damages may be apportioned or divided equally.
+
+(3) *Subsection (2)* of this section shall apply to two or more persons whose acts taken together constitute a nuisance, even though the act of any one of them taken alone would not constitute a nuisance, not being unreasonable in degree.
+
+#### 13. Joinder of defendants.
+
+**13.**—An action may be brought against all of concurrent wrongdoers or against any of them without joining the other or others, but the court shall have power—
+
+(*a*) in an action for the execution of trusts, to require the trust estate to be properly represented;
+
+(*b*) in an action where the title to property is in question, to require the joinder of all those interested or claiming to be interested in the property.
+
+#### 14. Judgments to be several.
+
+**14.**—(1) Where judgment is given against concurrent wrongdoers who are sued together, the court may give judgment against the defendants together or against the defendants separately and, if the judgment is given against the defendants together, it shall take effect as if it were given against them separately.
+
+(2) Subject to *subsections (3)* and *(6)* of this section and to *sections 38* and *46*, each of the said judgments shall be for the full amount of the plaintiff’s damages in respect of which the defendants are concurrent wrongdoers, together with any further damages in respect of which the particular defendant against whom judgment is given is individually liable and, if the same jury has in its verdict apportioned damages between the defendants on the basis that the total of the damages awarded is meant to be equivalent to the plaintiff’s loss resulting from the concurrent wrongs, the plaintiff shall be entitled to judgment against the defendants for the aggregate of such damages.
+
+(3) The plaintiff may agree to accept an apportionment of his damages among the defendants according to their degrees of fault and, in this event, the following provisions shall take effect—
+
+(*a*) satisfaction of one judgment shall not operate as satisfaction of the others;
+
+(*b*) the defendants shall have no right of contribution among themselves;
+
+(*c*) the plaintiff, at any time within the period limited by law for the enforcement of judgments and upon proof that, after taking reasonable steps, he has failed to obtain satisfaction of any judgment in whole or in part, shall have liberty to apply for secondary judgments having the effect of distributing the deficiency among the other defendants in such proportions as may be just and equitable.
+
+(4) Where the court would be prepared to award punitive damages against one of concurrent tortfeasors, punitive damages shall not be awarded against another of such tortfeasors merely because he is a concurrent tortfeasor, but a judgment for an additional sum by way of punitive damages may be given against the first-mentioned tortfeasor.
+
+(5) The judgment mentioned in *subsection (4)* of this section may specify that such additional sum is awarded by way of punitive damages, and no contribution shall be payable in respect thereof by a tortfeasor against whom such judgment could not properly have been given.
+
+(6) Where, in F7[a defamation action under the Defamation Act 2009], one of concurrent tortfeasors would have been entitled to a mitigation of the damages payable by him had he been a single tortfeasor, but another of the said tortfeasors would not have been so entitled, the first-mentioned tortfeasor shall be entitled to the said mitigation of damages and shall not be compellable to make contribution except in respect of the amount of damages payable by him; and the judgment against him may be given accordingly.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F7: Substituted (1.01.2010) by *Defamation Act 2009* (31/2009), s. 7(2)(b), S.I. No. 517 of 2009.
+
+#### 15. Judgment by default.
+
+**15.**—(1) Where one of concurrent wrongdoers who are sued together makes default of appearance or defence, the plaintiff may obtain an interlocutory judgment against him and damages shall be assessed against him—
+
+(*a*) at the same time as damages are assessed at the trial against the other defendants who appear;
+
+(*b*) if the plaintiff fails against such other defendants or discontinues his action against them, separately under the interlocutory judgment.
+
+(2) If the plaintiff fails against the defendants who appear for a reason that goes to the liability of all, the interlocutory judgment shall be discharged.
+
+(3) If the plaintiff’s damages against the defendants who appear are reduced under *subsection (1)* of *section 34* on account of the plaintiff’s contributory negligence, damages shall be assessed under the interlocutory judgment as if the defendant had appeared.
+
+(4) This section shall not apply to any head of damage in respect of which the defendant who makes default and the defendants who appear are not concurrent wrongdoers.
+
+#### 16. Discharge and estoppel by satisfaction.
+
+**16.**—(1) Where damage is suffered by any person as a result of concurrent wrongs, satisfaction by any wrongdoer shall discharge the others whether such others have been sued to judgment or not.
+
+(2) Satisfaction means payment of damages, whether after judgment or by way of accord and satisfaction, or the rendering of any agreed substitution therefor.
+
+(3) If the payment is of damages, it must be of the full damages agreed by the injured person or adjudged by the court as the damages due to him in respect of the wrong; otherwise it shall operate only as partial satisfaction.
+
+(4) An injured person who has accepted satisfaction from one alleged to be a wrongdoer, whether under a judgment or otherwise, shall, in any subsequent proceeding against another wrongdoer in respect of the same damage, be estopped from denying that the person who made the satisfaction was liable to him; and the liability of such person shall be conclusively assumed for the purpose of the said proceeding: but the injured person may litigate in the said proceeding any question of law or fact relative to the liability of the defendant to such proceeding, other than the question whether or not the said satisfaction was made by one liable to the injured person.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C14: Application of section extended (1.06.2004) by *Personal Injuries Assessment Board Act 2003* (46/2003), s. 41, S.I. No. 252 of 2004.
+>
+> **Order to pay to operate as satisfaction of claimant’s claim.**
+>
+> **41.**—(1) If the amount or amounts specified in an order to pay are paid to the claimant such payment shall constitute a satisfaction of the claimant’s relevant claim for the purposes of section 16 of the Act of 1961 as if the claimant had agreed that that payment would be a payment of the full damages to him or her in respect of the claim.
+>
+> (2) If only a portion of the amount or amounts specified in an order to pay are paid to the claimant such payment shall constitute a partial satisfaction of the claimant’s relevant claim for the purposes of section 16 of the Act of 1961.
+
+#### 17. Release of, or accord with, one wrongdoer.
+
+**17.**—(1) The release of, or accord with, one concurrent wrongdoer shall discharge the others if such release or accord indicates an intention that the others are to be discharged.
+
+(2) If no such intention is indicated by such release or accord, the other wrongdoers shall not be discharged but the injured person shall be identified with the person with whom the release or accord is made in any action against the other wrongdoers in accordance with *paragraph (h)* of *subsection (1)* of *section 35*; and in any such action the claim against the other wrongdoers shall be reduced in the amount of the consideration paid for the release or accord, or in any amount by which the release or accord provides that the total claim shall be reduced, or to the extent that the wrongdoer with whom the release or accord was made would have been liable to contribute if the plaintiff’s total claim had been paid by the other wrongdoers, whichever of those three amounts is the greatest.
+
+(3) For the purpose of this Part, the taking of money out of court that has been paid in by a defendant shall be deemed to be an accord and satisfaction with him.
+
+#### 18. Judgment against one wrongdoer.
+
+**18.**—(1) Where damage is suffered by any person as a result of concurrent wrongs—
+
+(*a*) judgment recovered against any wrongdoer liable in respect of that damage shall not be a bar to an action against any other person who would, if sued, have been liable as concurrent wrongdoer in respect of the same damage;
+
+(*b*) if more than one action is brought in respect of that damage by or on behalf of the person by whom it was suffered, or for the benefit of his estate, or for the benefit of his dependants, against wrongdoers liable in respect of the damage, the sums recoverable under the judgments given in those actions by way of damages shall not in the aggregate exceed the amount of the damages awarded by the judgment first given; and in any of those actions, other than that in which judgment is first given, the plaintiff shall not be entitled to costs unless the court is of opinion that there was reasonable ground for bringing the action: but this paragraph shall not apply where the judgment first given was an apportioned judgment given in pursuance of *section 14*, *section 38* or *section 46*.
+
+(2) The reference in this section to “the judgment first given” shall, in a case where that judgment is reversed on appeal, be construed as a reference to the judgment first given which is not so reversed and, in a case where a judgment is varied on appeal, be construed as a reference to that judgment as so varied.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C15: Application of Act extended with modifications (1.06.2004) by *Personal Injuries Assessment Board Act 2003* (46/2003), s. 43, S.I. No. 252 of 2004.
+>
+> **Application of section 18 of Act of 1961.**
+>
+> **43.**—For the purposes of the application of section 18 of the Act of 1961 in circumstances where a claimant is not barred from bringing proceedings against a non-participating or non-accepting respondent or respondents, an assessment of the claimant’s relevant claim or, if an order to pay in respect of it has been issued, that order to pay, shall be deemed to be an award of damages, of the amount or amounts specified in the assessment or the order to pay, made by the judgment first given (within the meaning of that section).
+
+#### 19. Judgment in favour of one alleged wrongdoer.
+
+**19.**—(1) Where the injured person sues one or more of alleged concurrent wrongdoers and judgment is given for one defendant, the injured person shall be bound by the findings of fact in favour of such defendant in the injured person’s present or subsequent action against another or others of the alleged concurrent wrongdoers.
+
+(2) (*a*) For the purpose of *subsection (1)* of this section, where judgment is given for the said defendant on the ground of the injured person’s discontinuance, the injured person shall be bound by the allegations and denials in the said defendant’s defence as if they had been found in favour of the said defendant, so far as they are relevant to the defence of that defendant.
+
+(*b*) *Paragraph (a)* of this subsection shall not apply unless, on the facts, the injured person is barred by his discontinuance from bringing a second action against the said defendant.
+
+(3) Where an action is brought against concurrent wrongdoers and judgment is given against one and for another for a reason that goes to the liability of all, the first-mentioned judgment shall be discharged.
+
+(4) Where an action is brought against concurrent wrongdoers and judgment is given against one without reduction of damages and against another subject to a reduction of damages under *subsection (1)* of *section 34* on account of the plaintiff’s contributory negligence, the damages under the first-mentioned judgment shall be assessed subject to the same proportionate reduction, and the provisions of *section 38* shall apply.
+
+#### 20. Limitation of actions against one of concurrent wrongdoers.
+
+**20.**—For the purpose of the Statute of Limitations or any other limitation enactment concealed fraud by one of concurrent wrongdoers shall not suspend time for another or others.
+
+### Chapter IIContribution between concurrent wrongdoers — Chapter II — Contribution between concurrent wrongdoers
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C16: Chapter applied with modifications (6.11.1981) by *Malicious Injuries Act 1981* (9/1981), s. 21, commenced as per s.1(2).
+>
+> **Recovery of contribution by local authority.**
+>
+> **21.**—(1) For the purpose, and only for the purpose, of the recovery of contribution by a local authority against which an award has been made on an application for compensation under this Act, the local authority and the person or persons who caused the damage or loss to which the application relates shall be deemed to be concurrent wrongdoers within the meaning of the Civil Liability Act, 1961, and the provisions of Chapter II of Part III of that Act shall, in so far as they are applicable for the purpose of this section, apply and have effect.
+>
+> (2) For the purpose of *subsection* (*1*), any reference to damages in the provisions applied by that subsection shall be construed as a reference to compensation under this Act.
+
+#### 21. Contribution in respect of damages.
+
+**21.**—(1) Subject to the provisions of this Part, a concurrent wrongdoer (for this purpose called the claimant) may recover contribution from any other wrongdoer who is, or would if sued at the time of the wrong have been, liable in respect of the same damage (for this purpose called the contributor), so, however, that no person shall be entitled to recover contribution under this Part from any person entitled to be indemnified by him in respect of the liability in respect of which the contribution is sought.
+
+(2) In any proceedings for contribution under this Part, the amount of the contribution recoverable from any contributor shall be such as may be found by the court to be just and equitable having regard to the degree of that contributor’s fault, and the court shall have power to exempt any person from liability to make contribution or to direct that the contribution to be recovered from any contributor shall amount to a complete indemnity.
+
+#### 22. Contribution claimed by settling tortfeasor.
+
+**22.**—(1) Where the claimant has settled with the injured person in such a way as to bar the injured person’s claim against the other concurrent wrongdoers, the claimant may recover contribution in the same way as if he had suffered judgment for damages, if he satisfies the court that the amount of the settlement was reasonable; and, if the court finds that the amount of the settlement was excessive, it may fix the amount at which the claim should have been settled.
+
+(2) Where the claimant has settled with the injured person without barring the injured person’s claim against the other concurrent wrongdoers or has paid to the injured person a sum on account of his damages, the claimant shall have the same right of contribution as aforesaid, and for this purpose the payment of a reasonable consideration for a release or accord shall be regarded as a payment of damages for which the claimant is liable to the injured person: but the contributor shall have the right to claim repayment of the whole or part of the sum so paid if the said contributor is subsequently compelled to pay a sum in settlement of his own liability to the injured person and if the circumstances render repayment just and equitable.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C17: Application of section extended with modifications (1.06.2004) by *Personal Injuries Assessment Board Act 2003* (46/2003), s. 42, S.I. No. 252 of 2004.
+>
+> **Application of section 22 of Act of 1961 (claims for contributions between concurrent wrongdoers).**
+>
+> **42.**—(1) As between—
+>
+> (*a*) one or more respondents and either or both—
+>
+> (i) one or more non-participating respondents,
+>
+> (ii) one or more non-accepting respondents,
+>
+> (*b*) one or more non-participating respondents or non-accepting respondents and either or both—
+>
+> (i) one or more other non-participating respondents,
+>
+> (ii) one or more other non-accepting respondents,
+>
+> and
+>
+> (*c*) any one or more of the foregoing persons and one or more other persons (not falling within either of the preceding paragraphs) who are concurrent wrongdoers as respects the relevant claim,
+>
+> an order to pay shall, for the purposes of section 22 of the Act of 1961, be regarded as a settlement by the first-mentioned respondent or respondents in *paragraph (a)* with the claimant of his or her relevant claim.
+>
+> ...
+
+#### 23. Enforcement of judgment for contribution.
+
+**23.**—(1) Where, in accordance with the provisions of this Part, judgment is given for contribution in respect of damages for which the claimant is or has been liable to the injured person, execution shall not be issued on such judgment until after satisfaction by the claimant in whose favour it is given before or after the said judgment of the whole or part of the damages for which he is liable to the injured person, and execution shall then issue only in respect of the amount by which the sum paid by him exceeds his just proportion of that particular amount, as such proportion is determined by the court in accordance with this Part.
+
+(2) Notwithstanding anything in *subsection (1)* of this section, execution may be issued on such judgment as aforesaid after satisfaction by the claimant in whose favour it is given of his just proportion of the damages for which he is liable to the injured person, provided that in this case the court makes provision, by obtaining the personal undertaking of the claimant’s solicitor or otherwise, for applying the sum received under the said judgment towards satisfaction of the damages due to the injured person
+
+(3) In this section “damages for which he is liable to the injured person” means damages for which the claimant is liable at the time when satisfaction is made to the injured person or his representatives or lawful assignees.
+
+(4) A payment of damages by the claimant at a time when the injured person’s cause of action against the claimant is barred by the Statute of Limitations or any other limitation enactment shall not found a claim to levy execution under a judgment for contribution: but such a payment shall found such a claim if, at the time when it was made, the injured person’s cause of action against the contributor was not barred.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E3: In the printed version of the Act there is no full stop at the end of subsection 2.
+
+#### 24. Contribution in respect of costs.
+
+**24.**—A judgment for contribution may be given in respect of costs payable to the injured person or incurred by the claimant: but, where the injured person has sued the claimant and the contributor together and has recovered judgment for costs against both of them, the provisions of section 23 shall apply, with the substitution of the word “costs” for the word “damages” where-ever it there appears.
+
+#### 25. One wrongdoer omitted from claim for contribution; contribution in respect of contribution.
+
+**25.**—Where, of three or more concurrent wrongdoers, one is omitted from the claim for contribution, contribution shall be awarded to the claimant on the basis that responsibility for the damage is to be borne by the claimant and the contributor or contributors without regard to the responsibility of the omitted wrongdoer, and, in such a case, a claimant whose net remaining liability is increased or a contributor whose contribution is increased by reason of the fact that judgment has not been given against the omitted wrongdoer may claim contribution from such omitted wrongdoer in accordance with the provisions of this Part: but, where such last-mentioned claim for contribution is made by a contributor in respect of his own liability to make contribution and judgment is given in such contributor’s favour, execution shall not be issued on that judgment—
+
+(*a*) except in accordance with the provisions of *section 23*, with the substitution of “contribution” for “damages” and of “original claimant for contribution” for “injured person” wherever they there appear, and “just proportion” in the said section being understood to mean for this purpose just proportion as between the contributor in whose favour judgment for contribution is now given and the wrongdoer against whom the said judgment is given, and in any case
+
+(*b*) to an amount greater than the sum that, when added to the amount (if any) still due to the injured person, will equal the just proportion of the damages payable by the wrongdoer against whom the said judgment is given.
+
+#### 26. Contribution where property is restored to its owner.
+
+**26.**—For the purpose of a claim for contribution—
+
+(*a*) a person who restores property to its true owner shall be deemed to be a concurrent wrongdoer with one through whom he originally claimed the property and who was a wrongdoer in respect of it towards the true owner, and
+
+(*b*) such restoration of property shall, as against such wrongdoer, be deemed to be a payment of damages to the extent of the value of the property.
+
+#### 27. Procedure for claiming contribution.
+
+**27.**—(1) A concurrent wrongdoer who is sued for damages or for contribution and who wishes to make a claim for contribution under this Part—
+
+(*a*) shall not, if the person from whom he proposes to claim contribution is already a party to the action, be entitled to claim contribution except by a claim made in the said action, whether before or after judgment in the action; and
+
+(*b*) shall, if the said person is not already a party to the action, serve a third-party notice upon such person as soon as is reasonably possible and, having served such notice, he shall not be entitled to claim contribution except under the third-party procedure. If such third-party notice is not served as aforesaid, the court may in its discretion refuse to make an order for contribution against the person from whom contribution is claimed.
+
+(2) The provisions of *subsection (1)* of this section shall not apply to any contribution claim where the parties to the claim are precluded by agreement or otherwise from disputing any earlier determination by a court of the amount of the injured person’s damages and the proportion in which contribution should be made.
+
+(3) Where it is sought to serve a third-party notice making a claim for contribution, or making a claim for damages in respect of a wrong committed to the third-party plaintiff, such claim for damages having arisen in whole or in part out of the same facts as the facts giving rise to the principal plaintiff’s claim, leave to serve a third-party notice shall not be refused merely because the issue between the third-party plaintiff and the third party will involve a difficult question of law.
+
+(4) Where a concurrent wrongdoer makes a payment to the injured person without action in settlement of the injured person’s claim against himself and subsequently claims contribution in accordance with *section 22*, the contributor shall have the right to have the injured person joined as co-defendant for the purpose of binding him by the determination of the proportions of contribution, unless the injured person is co-plaintiff in the action or the injured person has effectively agreed to be bound by such determination or the injured person has no claim against the contributor or the injured person has already sued the contributor to judgment.
+
+F8[(5) A claim may be made or a notice may be served pursuant to *subsection (1)* of this section notwithstanding that the person making the claim or serving the notice denies or does not admit that he is a wrongdoer, and the making of the claim or serving of the notice shall not be taken as implying any admission of liability by him.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F8: Inserted (7.07.1964) by *Civil Liability (Amendment) Act 1964* (17/1964), s. 3, commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C18: Application of section restricted (10.04.2002) by *Residential Institutions Redress Act 2002* (13/2002), s. 24, commenced on enactment.
+>
+> **Indemnity and contribution.**
+>
+> **24.**—Where an applicant has accepted an award made under section 13 or section 15 and has complied with section 13(6), no cause of action or claim for indemnity and contribution or either of them, whether by third party procedure pursuant to section 27 of the Civil Liability Act, 1961 or otherwise, in any civil proceedings or otherwise, shall lie against the State or a public body if such proceedings arise out of the same, or substantially the same, acts complained of in an application made under this Act and in respect of which the applicant is a party.
+
+#### 28. Distribution of loss on failure to obtain satisfaction.
+
+**28.**—Where, of three or more concurrent wrongdoers, judgment for contribution is given in favour of one against two or more, the claimant, at any time within the period limited by law for the enforcement of judgments and upon proof that, after taking reasonable steps, he has failed to obtain satisfaction of any judgment in whole or in part, shall have liberty to apply for secondary judgments having the effect of distributing the deficiency among the other defendants in such proportions as may be just and equitable.
+
+#### 29. Estoppel when contribution is claimed.
+
+**29.**—(1) In any proceeding for contribution, the contributor shall not be entitled to resist the claim on the ground that the claimant who has paid the injured person was not liable to such person; but, subject to this section and to the general law of estoppel, he may resist the claim on the ground that he himself is not liable to such person and, for this purpose, may dispute any question of law or fact even though that question arises also on the liability of the claimant to the injured person; and the contributor may in the same way dispute the amount of the damage suffered by the injured person.
+
+(2) Where a claim for contribution is made by third-party notice in the injured person’s action and the third party is given leave to defend the main action, he shall be bound by the finding of the court upon the questions that he is given leave to defend.
+
+(3) Where the contributor had knowledge of an action brought by the injured person against the claimant, and unreasonably failed to make a proposal for assisting the claimant in the defence of the action, and the injured person obtained judgment against the claimant, the contributor shall, in any proceeding brought against him by the claimant, be estopped from disputing the propriety or amount of the judgment obtained by the injured person or any question of law or fact common to the claimant’s liability to the injured person and the contributor’s liability to the injured person: but the contributor shall not be so estopped where the claimant submitted to judgment in fraud of the contributor.
+
+(4) In any proceeding for contribution the claimant shall be bound by any finding of law or fact in the injured person’s action against him that was necessary to establish his liability to the injured person.
+
+(5) Where the injured person has sued the claimant and contributor together and failed against the contributor, the claimant shall, in any proceeding for contribution, be bound by any finding of law or fact that was necessary to negative the contributor’s liability to the injured person: provided that—
+
+(*a*) the claimant shall not be so bound where the injured person submitted to judgment in fraud of the claimant;
+
+(*b*) this subsection shall not apply where the injured person’s action was brought in a court outside the State, unless by the law of the court the claimant had an opportunity of presenting evidence against the contributor, of appealing against a judgment in his favour and of contesting an appeal by him.
+
+(6) (*a*) A decision on the proportion of fault between claimant and contributor on a claim for contribution shall be binding upon the same persons in a subsequent claim in respect of damage suffered by one or both of them arising out of the same facts, and, conversely, such a decision in a claim in respect of such damage shall be binding upon the same persons in a subsequent claim for contribution.
+
+(*b*) *Paragraph (a)* of this subsection shall apply between two parties notwithstanding that one of them is party to the two actions in different capacities.
+
+(7) A concurrent wrongdoer who makes a payment to the injured person without action in settlement of the injured person’s claim against himself and who subsequently claims contribution under *section 22* shall, where the injured person has sued the contributor, be bound by the apportionment made by the court in the injured person’s action in accordance with *paragraph (h)* of *subsection (1)* of *section 35*.
+
+(8) It shall not be a defence to a claim for contribution merely to show that the injured person has failed in an action against the contributor to which the claimant was not a party.
+
+#### 30. Legal incidents of claim for contribution.
+
+**30.**—The right to ask the court for an award of contribution shall be deemed to be in the nature of a quasi-contractual right which shall pass to the personal representatives of the claimant for the benefit of his estate, and shall avail against the personal representatives of the contributor; and the right to contribution shall be deemed to be a cause of action within *section 9*.
+
+#### 31. Limitation of actions for contribution.
+
+**31.**—An action may be brought for contribution within the same period as the injured person is allowed by law for bringing an action against the contributor, or within the period of two years after the liability of the claimant is ascertained or the injured person’s damages are paid, whichever is the greater.
+
+#### 32. Evidence and appeals.
+
+**32.**—(1) Where an action is brought against two or more persons as concurrent wrongdoers, each defendant shall have the right to present evidence against the other or others.
+
+(2) Where an action is brought against two or more persons as concurrent wrongdoers and the plaintiff obtains judgment and the judgment is satisfied by one of such wrongdoers, another of such wrongdoers may appeal against the judgment notwithstanding that it has been satisfied.
+
+(3) Where an action is brought against two or more persons as concurrent wrongdoers and the plaintiff obtains judgment and one defendant appeals against the judgment, another defendant may, upon giving such notice as may be required by rules of court, contest the appeal as respondent.
+
+(4) Where an action is brought against two or more persons as concurrent wrongdoers and the plaintiff succeeds against one and fails against another, the unsuccessful defendant may appeal against the judgment in favour of the successful defendant.
+
+#### 33. Contribution to be regarded as damages.
+
+**33.**—(1) For the purpose of a contract insuring against liability for a wrong or against a liability to pay damages, the liability of a wrongdoer to make contribution under this Part to a concurrent wrongdoer shall be deemed to be a liability to pay damages for a wrong, unless the contrary intention appears from the contract.
+
+(2) Where a claim for contribution between wrongdoers is made under a contract for contribution between them, the provisions of *subsection (1)* of this section shall apply to the extent that the claim could have been made under the provisions of this Part instead of under the contract for contribution.
+
+### Chapter IIIContributory negligence — Chapter III — Contributory negligence
+
+#### 34. Apportionment of liability in case of contributory negligence.
+
+**34.**—(1) Where, in any action brought by one person in respect of a wrong committed by any other person, it is proved that the damage suffered by the plaintiff was caused partly by the negligence or want of care of the plaintiff or of one for whose acts he is responsible (in this Part called contributory negligence) and partly by the wrong of the defendant, the damages recoverable in respect of the said wrong shall be reduced by such amount as the court thinks just and equitable having regard to the degrees of fault of the plaintiff and defendant: provided that—
+
+(*a*) if, having regard to all the circumstances of the case, it is not possible to establish different degrees of fault, the liability shall be apportioned equally;
+
+(*b*) this subsection shall not operate to defeat any defence arising under a contract or the defence that the plaintiff before the act complained of agreed to waive his legal rights in respect of it, whether or not for value; but, subject as aforesaid, the provisions of this subsection shall apply notwithstanding that the defendant might, apart from this subsection, have the defence of voluntary assumption of risk;
+
+(*c*) where any contract or enactment providing for the limitation of liability is applicable to the claim, the amount of damages awarded to the plaintiff by virtue of this subsection shall not exceed the maximum limit so applicable.
+
+(2) For the purpose of *subsection (1)* of this section—
+
+(*a*) damage suffered by the plaintiff may include damages paid by the plaintiff to a third person who has suffered damage owing to the concurrent wrongs of the plaintiff and the defendant, and the period of limitation for claiming such damages shall be the same as is provided by *section 31* for actions for contribution;
+
+(*b*) a negligent or careless failure to mitigate damage shall be deemed to be contributory negligence in respect of the amount by which such damage exceeds the damage that would otherwise have occurred;
+
+(*c*) the plaintiff’s failure to exercise reasonable care for his own protection shall not amount to contributory negligence in respect of damage unless that damage results from the particular risk to which his conduct has exposed him, and the plaintiff’s breach of statutory duty shall not amount to contributory negligence unless the damage of which he complains is damage that the statute was designed to prevent;
+
+(*d*) the plaintiff’s failure to exercise reasonable care in the protection of his own property shall, except to the extent that the defendant has been unjustly enriched, be deemed to be contributory negligence in an action for conversion of the property;
+
+(*e*) damage may be held to be caused by the wrong of the defendant notwithstanding any rule of law by which the scope of the defendant’s duty is limited to cases where the plaintiff has not been guilty of contributory negligence: but this paragraph shall not render the defendant liable for any damage in respect of which he or a person for whose acts he is responsible has not been careless in fact;
+
+(*f*) where an action is brought for negligence in respect of a thing that has caused damage, the fact that there was a reasonable possibility or probability of examination after the thing had left the hands of the defendant shall not, by itself, exclude the defendant’s duty, but may be taken as evidence that he was not in the circumstances negligent in parting with the thing in its dangerous state.
+
+(3) Article 21 of the Warsaw Convention (which empowers a court to exonerate wholly or partly a carrier who proves that the damage was caused by or contributed to by the negligence of the injured person) shall have effect subject to the provisions of this Part.
+
+> **Annotations:**
+>
+> **Modifications (not altering text):**
+>
+> C19: Application of subs. (1)(b) restricted by *Occupiers’ Liability Act 1995* (10/1995), s. 5A, as inserted (31.07.2023) by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 42, S.I. No. 389 of 2023, art. 3(f).
+>
+> **[Voluntary assumption of risk**
+>
+> **5A.** (1) The common duty of care under section 3 shall not impose on an occupier any obligation to a visitor in respect of risks willingly accepted by the visitor where that visitor is capable of comprehending the nature and extent of those risks.
+>
+> (2) An occupier shall not owe any duty pursuant to *section 4(4)* to a recreational user of the premises in respect of risks willingly accepted by the recreational user where the recreational user is capable of comprehending the nature and extent of those risks.
+>
+> ...
+>
+> (4) Section 34 (1)(b) of the Civil Liability Act 1961 shall not apply in relation to the making of a determination under *subsection (1)* or *(2)* that a visitor or recreational user has willingly accepted a risk.**]**
+
+#### 35. Identification.
+
+**35.**—(1) For the purpose of determining contributory negligence—
+
+(*a*) a plaintiff shall be responsible for the acts of a person for whom he is, in the particular circumstances, vicariously liable;
+
+(*b*) a plaintiff in an action brought for the benefit of the dependants of a deceased person under *Part IV* (whether such plaintiff is the personal representative or a dependant of the deceased) shall be deemed to be responsible for the acts of the deceased;
+
+(*c*) a plaintiff suing as personal representative of the person suffering the damage shall be deemed to be responsible for the acts of such person;
+
+(*d*) a plaintiff suing on behalf of another (in this section called a nominal plaintiff) shall be deemed to be responsible for the acts of that other (in this section called the beneficiary) and, in particular, a person suing as personal representative of a deceased person shall be deemed to be responsible for the acts of those who would profit by success in the action, including the dependants of the deceased where the action is brought under *Part IV*: provided that—
+
+(i) where a nominal plaintiff is suing on behalf of more than one beneficiary and one beneficiary has been guilty of contributory negligence while another beneficiary has not, the provisions of *subsection (1)* of *section 34* shall apply only in respect of the share of the beneficiary guilty of contributory negligence; and the provisions of *section 21* shall apply in favour of the defendant against the beneficiary so guilty of contributory negligence, in respect of the sum payable by the defendant for the benefit of the beneficiary not guilty of contributory negligence;
+
+(ii) where it is found to be more convenient, the court may allow a nominal plaintiff to recover in full notwithstanding the contributory negligence of a beneficiary, and the provisions of *section 21* shall then apply in favour of the defendant against the beneficiary so guilty of contributory negligence;
+
+(*e*) a plaintiff suing as assignee of another, whether by operation of law or otherwise, shall be deemed to be responsible for the acts of that other;
+
+(*f*) where the plaintiff’s damage was caused by two or more persons and such persons would have been concurrent wrongdoers were it not for a contract by the plaintiff with one of such persons before the occurrence of the damage exempting that person from liability, the plaintiff shall be deemed to be responsible for the acts of that person;
+
+(*g*) where the plaintiff’s damage was caused by concurrent wrongdoers and before the occurrence of the damage the liability of one of such wrongdoers was limited by contract with the plaintiff to a sum less than that wrongdoer’s just share of liability between himself and the other wrongdoer as determined under *section 21* apart from such contract, the plaintiff shall be deemed to be responsible for the acts of that wrongdoer;
+
+(*h*) where the plaintiff’s damage was caused by concurrent wrongdoers and after the occurrence of the damage the liability of one of such wrongdoers is discharged by release or accord made with him by the plaintiff, while the liability of the other wrongdoers remains, the plaintiff shall be deemed to be responsible for the acts of the wrongdoer whose liability is so discharged;
+
+(*i*) where the plaintiff’s damage was caused by concurrent wrongdoers and the plaintiff’s claim against one wrongdoer has become barred by the Statute of Limitations or any other limitation enactment, the plaintiff shall be deemed to be responsible for the acts of such wrongdoer;
+
+(*j*) where the plaintiff’s damage was caused by concurrent wrongdoers and, in an action against one of such wrongdoers, judgment is given for the defendant and the plaintiff then brings an action against another of such wrongdoers, the plaintiff shall be deemed to be responsible for the acts of the successful defendant if the defendant now sued can prove that he and the successful defendant were in fact concurrent wrongdoers;
+
+(*k*) a plaintiff who is responsible for the acts of another under paragraphs (*a*) to (*j*) of this subsection shall be responsible also for the acts of any other persons for whose acts the said other person would be responsible under the said paragraphs if he were plaintiff in the action.
+
+(2) For the purpose of *subsection (1)* of *section 34*, the contributory negligence—
+
+(*a*) of a nominal plaintiff, or
+
+(*b*) (where the action is brought for the loss of the *consortium* or services of a wife or for the loss of the services of a child or servant) of a wife, child or servant,
+
+shall F9[, subject to *paragraph (a)* of *subsection (1)* of this section,] neither bar recovery nor reduce the damages awarded; but the provisions of *section 21* shall apply in favour of the defendant against the said nominal plaintiff, wife, child or servant, as the case may be.
+
+(3) Nothing in *subsection (1)* of this section shall affect the rights of the plaintiff against, or render the plaintiff liable in damages for the acts of, a person for whose acts he is deemed by the said subsection to be responsible.
+
+(4) Where a plaintiff is held to be responsible for the acts of another under this section and his damages are accordingly reduced under *subsection (1)* of *section 34*, the defendant shall not be entitled to contribution under *section 21* from the person for whose acts the plaintiff is responsible.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F9: Inserted (7.07.1964) by *Civil Liability (Amendment) Act 1964* (17/1964), s. 4, commenced on enactment.
+
+#### 36. Set-off of claims.
+
+**36.**—(1) When judgment is given for the plaintiff on a claim and for the defendant on a counterclaim under *subsection (1)* of *section 34*, the one judgment shall be set off against the other and only the balance found owing shall be recoverable.
+
+(2) This section shall apply notwithstanding that one party is a bankrupt or (where a personal representative is party to an action) that the estate administered by him is insolvent.
+
+(3) This section, and also section 251 of the Irish Bankrupt and Insolvent Act, 1857, in so far as it applies to a set-off of judgment debts owing by and to a bankrupt, shall operate only in relation to the satisfaction of debts, and, for all purposes (including the construction of policies of insurance) other than that aforesaid, a judgment shall be treated as creating a debt, duty, obligation and liability for the full amount of the judgment as if there were no set-off, and for such other purposes a debt (whether by judgment or otherwise) shall be deemed to be paid by the judgment debtor to the extent of a debt set off against it.
+
+(4) Notwithstanding anything in *section 62*, where a claim is made against a person who is insured in respect of a liability alleged in that claim and the claim is paid by the insurer with a deduction in respect of a sum owed to the insured by the person making such claim, the insured or any person representing or deriving title under him shall be entitled to recover from the insurers the amount of the said deduction.
+
+F10[(5) Notwithstanding anything in *section 62*, where a claim is made against a person who is insured in respect of a liability alleged in that claim and the claim is not paid by the insurer by reason of its being set off in full against a sum owed to the insured by the person making such claim, the insured or any person representing or deriving title under him shall be entitled to recover from the insurers the amount of such claim.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F10: Inserted (7.07.1964) by *Civil Liability (Amendment) Act 1964* (17/1964), s. 5, commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C20: Section applied with modifications (1.01.1989) by *Bankruptcy Act 1988* (27/1988), s. 76 and sch. 1, para. 17, S.I. No. 348 of 1988.
+>
+> **Proof of debts.**
+>
+> **(*cf*. 1857, s. 246 in pt.)**
+>
+> **76.**—The provisions of the *First Schedule* shall apply in relation to the proof of debts.
+>
+> **FIRST SCHEDULE**
+>
+> Proof of Debts
+>
+> ...
+>
+> 17\. (1) Where there are mutual credits or debts as between a bankrupt and any person claiming as a creditor, one debt or demand may be set off against the other and only the balance found owing shall be recoverable on one side or the other.
+>
+> (2) Section 36 of the Civil Liability Act, 1961 (which provides for the set-off of claims), as amended by section 5 of the Civil Liability (Amendment) Act, 1964, shall apply with the substitution in section 36 (3) of a reference to subparagraph (1) for the reference to section 251 of the Irish Bankrupt and Insolvent Act, 1857.
+>
+> ...
+
+#### 37. Estoppel in case of contributory negligence.
+
+**37.**—(1) Where a plaintiff has his damagees reduced under *subsection (1)* of *section 34* on account of contributory negligence and the defendant subsequently brings an action against the plaintiff in respect of damage arising out of the same facts, the determination of liability and the apportionment of fault in the first action shall be binding between the parties in the second action.
+
+(2) *Subsection (1)* of this section shall apply between two parties notwithstanding that one of them is party to the two actions in different capacities.
+
+#### 38. Liability of concurrent wrongdoers where plaintiff guilty of contributory negligence.
+
+**38.**—(1) Where an action is brought against one or more of concurrent wrongdoers by an injured person who is found in such action to have been guilty of contributory negligence and it is held to be just and equitable that the plaintiff’s damages should be reduced under *subsection (1)* of *section 34* having regard to his contributory negligence, the judgment against one wrongdoer shall not be for the whole of the plaintiff’s recoverable damages but the court shall determine the respective degrees of fault of the plaintiff and of all the defendants to the plaintiff’s claim at the time of judgment, leaving out of account the degrees of fault of persons who are not such defendants, and shall give the plaintiff a several judgment against each defendant for such apportioned part of his total damages as the court thinks just and equitable having regard to that defendant’s degree of fault determined as aforesaid.
+
+(2) The plaintiff, at any time within the period limited by law for the enforcement of judgments and upon proof that, after taking reasonable steps, he has failed to obtain satisfaction of any judgment in whole or in part, shall have liberty to apply for secondary judgments having the effect of distributing the deficiency among the other defendants in such proportions as may be just and equitable.
+
+(3) This section shall not apply where one of the defendant wrongdoers is responsible for the acts of another; such wrongdoers shall, subject to *subsection (1)* of *section 34*, be liable to the plaintiff for a single portion of his damages.
+
+(4) After judgment has been given in accordance with *subsection (1)* of this section, the plaintiff shall not be entitled to bring a second or subsequent action against a concurrent wrongdoer against whom judgment has not been given, unless he satisfies the court in such action that it was not reasonably possible for him to join such wrongdoer as co-defendant in the first action.
+
+(5) The plaintiff, when commencing such second or subsequent action, shall be under a duty to the wrongdoers already successfully sued who have a right of contribution against the wrongdoer now sued or proposed to be sued to take reasonable steps to notify them of such second or subsequent action at least fourteen days before the institution of proceedings in such action or as soon as is reasonably possible after the commencement of such period.
+
+(6) A wrongdoer receiving such notice shall have the right to become co-plaintiff in the action if the proceedings have not been instituted and otherwise to apply to the court for leave to be joined as co-plaintiff or for consolidation of actions; and a wrongdoer who unreasonably fails to take any of those steps as aforesaid shall be barred from his right of contribution.
+
+(7) If the plaintiff is successful in such second or subsequent action, he shall be entitled to the difference between the total of the damages awarded to him in the previous judgment or judgments and the total of damages that in the view of the court would have been awarded if the said wrongdoer had been joined with the previous defendant or defendants as co-defendant in the earlier action or actions; and he shall be entitled in addition to the provision mentioned in *subsection (2)* of this section: provided that—
+
+(*a*) nothing in this subsection shall entitle a plaintiff to recover from such wrongdoer more than he could have recovered had he not brought such previous action or actions;
+
+(*b*) nothing in this subsection shall preclude such wrongdoer from disputing any issue that he is otherwise entitled to dispute and, if the plaintiff’s damages are found to be less than they were held to be by the court in the earlier action or actions, such wrongdoer shall not be liable for more than his due proportion as between himself, the plaintiff and the previous defendant or defendants of the damages so found;
+
+(*c*) such wrongdoer may at his option avail himself of any matter decided against the plaintiff in such previous action or actions as though such matter were *res judicata* between them.
+
+(8) Where damages are awarded against a wrongdoer in accordance with the provisions of this section, such wrongdoer may recover contribution from any other wrongdoer not sued at the same time where such recovery is just and equitable subject to the provisions of *Chapter II* of this Part.
+
+(9) A wrongdoer, when commencing such action for contribution, shall be under a duty to the injured person who has a right of action against the contributor and to the other wrongdoers already successfully sued by the injured person who have a right of contribution against the contributor to take reasonable steps to notify them of such action for contribution at least fourteen days before the institution of proceedings in such action or as soon as is reasonably possible after the commencement of such period.
+
+(10) The injured person or a wrongdoer receiving such notice shall have the rights specified in *subsection (6)* of this section, and if he unreasonably fails to take advantage of his rights he shall be barred from his right of action for damages or for contribution as the case may be.
+
+(11) Where the injured person brings a second or subsequent action in accordance with the provisions of this section, and where a wrongdoer brings an action for contribution as provided in *subsection (8)* of this section, the parties to the action shall be bound by the apportionment of fault made in the earlier action or actions: but the defendant shall not be bound by such apportionment if provision comes to be made for distributing any deficiency caused by the failure to obtain satisfaction of any judgment in whole or in part from one of the wrongdoers already sued.
+
+(12) Where—
+
+(*a*) the plaintiff sues one wrongdoer and either because he obtains judgment by default or because the court negatives contributory negligence the plaintiff recovers judgment in respect of the whole of his damages against such wrongdoer, and
+
+(*b*) the plaintiff subsequently sues another wrongdoer who is held to have been a concurrent wrongdoer with the first, the plaintiff also being held to have been guilty of contributory negligence as regards both wrongdoers,
+
+the defendant secondly sued shall be entitled to credit for the same proportion of the sum received from the defendant first sued as the proportion of the damage adjudged to be borne by the plaintiff as between himself and the defendant secondly sued, and in the event of overpayment shall be entitled to repayment.
+
+#### 39. Bankruptcy of one wrongdoer.
+
+**39.**—Where it is made to appear to the court that—
+
+(*a*) one wrongdoer in whose favour judgment is given is or may become a bankrupt, or
+
+(*b*) the estate of one wrongdoer for the benefit of which judgment is given is or may be insolvent,
+
+provision shall be made to ensure that such first-mentioned wrongdoer or such estate, as the case may be, shall be deprived of recovery to the extent that the wrongdoer or estate is liable to another party or in the aggregate to other parties as a result of the same accident, occurrence or transaction; and for that purpose judgment in favour of the wrongdoer or for the benefit of the estate shall, where necessary, be attached in whole or in part for the benefit of another party in whose favour judgment is given.
+
+#### 40. Special findings.
+
+**40.**—(1) Where damages are awarded to any person by virtue of *subsection (1)* of *section 34*, the jury or if there is no jury then the judge or arbitrator shall find and record—
+
+(*a*) the total damages that would have been awarded if there had not been contributory negligence;
+
+(*b*) where the plaintiff’s damages are reduced under the said subsection, the proportion of such damages that shall not be awarded to the plaintiff and the proportion that shall be payable by the defendant, or the respective proportions that shall be payable by each of the defendants if more than one, expressed in each case in percentage of the total fault of the plaintiff and defendant or defendants;
+
+(*c*) F11[...]
+
+(2) It shall be the duty of the judge or arbitrator to make the requisite calculations following upon such findings.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F11: Repealed (7.07.1964) by *Civil Liability (Amendment) Act 1964* (17/1964), s. 6 and sch., commenced on enactment.
+
+#### 41. Courts of limited jurisdiction.
+
+**41.**—Where an action is brought in a court of limited jurisdiction, the court may award damages up to the limit of its jurisdiction, even though such damages have first been reduced under *subsection (1)* of *section 34* on account of the plaintiff’s contributory negligence.
+
+#### 42. Costs in cases of contributory negligence.
+
+**42.**—As a general principle, but not so as to limit the judge in the exercise of his discretion, where damages are awarded on claim and counterclaim subject in each case to a reduction for contributory negligence under *subsection (1)* of *section 34*, costs shall be awarded in the same proportions as damages.
+
+### Chapter IVGeneral — Chapter IV — General
+
+#### 43. Application to breaches of strict duty.
+
+**43.**—In determining the amount of contribution or of reduction of damages under *subsection (1)* of *section 34* for contributory negligence the court may take account of the fact that the negligence or wrong of one person consisted only in a breach of strict statutory or common-law duty without fault, and may accordingly hold that it is not just and equitable to cast any part of the damage upon such person.
+
+#### 44. One-sided periods of limitation.
+
+**44.**—Where, in any claim for contribution between wrongdoers, or in any case to which *subsection (1)* of *section 34* applies, the defendant avoids liability to the plaintiff by pleading the Statute of Limitations or any other limitation enactment, neither he nor any other person responsible for his acts shall be entitled to recover any damages or contribution from the plaintiff.
+
+#### 45. Restitution.
+
+**45.**—(1) Where, in cases falling within *sections 16* or *17* or within *subsection (1)* of *section 35*, the defendant owing to ignorance of the facts omits to claim the benefit of the provisions therein contained, the defendant, notwithstanding that judgment has been given in the plaintiff’s favour, shall have a right to repayment by the plaintiff of such sum as the plaintiff should not have recovered in virtue of the said provisions.
+
+(2) Where, as a result of the failure to obtain satisfaction of any judgment in whole or in part from one wrongdoer, other concurrent wrongdoers are compelled to bear a larger part of the plaintiff’s damage than they would otherwise have borne, or are compelled to pay a larger sum by way of contribution than they would otherwise have paid, they shall have a right of recoupment against such wrongdoer to the extent of the difference.
+
+#### 46. Maritime cases.
+
+**46.—**(1) (*a*) Where, by the fault of two or more vessels, damage is caused to one or more of those vessels or to another vessel or to the cargo of any of those vessels or any property on board, and an action is brought for such damage, the liability of each vessel in respect of such damage shall be in proportion to the degree in which such vessel was in fault and accordingly there shall be no right of contribution in respect of such apportioned liability: provided that—
+
+(i) if, having regard to all the circumstances of the case, it is not possible to establish different degrees of fault, the liability shall be apportioned equally among the vessels in fault;
+
+(ii) nothing in this subsection shall affect the liability of any person under a contract of carriage or any contract, or shall be construed as imposing any liability upon any person from which he is exempted by any contract or by any provision of law, or as affecting the right of any person to limit his liability in the manner provided by law.
+
+(*b*) For the purposes of *paragraph (a)* of this subsection the liability of a vessel for damage shall mean the liability of those responsible for the proper navigation and management of the vessel.
+
+(*c*) *Paragraph (a)* of this subsection shall not apply to a claim for loss of life or personal injuries.
+
+(2) Where, by the sole or concurrent fault of a vessel damage is caused to that or another vessel or to the cargo or any property on board either vessel, or loss of life or personal injury is suffered by any person on board either vessel, then, subject to *subsection (3)* of this section, no action shall be maintainable to enforce a claim for damages or lien in respect of such damage, loss of life or injury unless proceedings are commenced within two years from the date when such damage, loss of life or injury was caused; and an action shall not be maintainable to enforce any claim for contribution in respect of an overpaid proportion of any damages for loss of life or personal injuries unless proceedings are commenced within one year from the date of payment.
+
+(3) Any court having jurisdiction to deal with an action to which *subsection (2)* of this section relates may, subject to any rules of court, extend the period referred to in that subsection to such extent and subject to such conditions as it thinks fit, and shall, if satisfied that there has not during such period been any reasonable opportunity of arresting the defendant vessel within the jurisdiction of the court or within the territorial waters of the country to which the plaintiff’s vessel belongs or in which the plaintiff resides or has his principal place of business, extend any such period to an extent sufficient to give such reasonable opportunity.
+
+(4) For the purposes of *subsections (1)* and *(2)* of this section, references to damage caused by the fault of a vessel shall be construed as including references to any salvage or other expenses, consequent upon that fault, recoverable at law by way of damages and such expenses shall be deemed to be a damage caused when they are incurred.
+
+(5) The provisions of this section shall be applied in all cases heard and determined in any court having jurisdiction to deal with the case and in whatever waters the damage in question was caused or the salvage services or other expenses in question were rendered or incurred.
+
+(6) This section shall be construed as one with the Merchant Shipping Acts, 1894 to 1952.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C21: Application of section not restricted (1.03.1994) by *Merchant Shipping (Salvage and Wreck) Act 1993* (34/1993), s. 36, S.I. No. 32 of 1994.
+>
+> **Limitation of certain actions.**
+>
+> **36.**—(1) No action shall be maintainable to enforce a claim relating to payment under this Part if arbitral or judicial proceedings have not been duly instituted within the appropriate period.
+>
+> (2) This section shall not apply in cases to which section 46 of the Civil Liability Act, 1961, applies.
+>
+> ...
+
+## PART IVFatal Injuries — PART IV — Fatal Injuries
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C22: Application of Part IV affected (1.12.2005) by *Social Welfare Consolidation Act 2005* (26/2005), s. 285, S.I. No. 923 of 2005.
+>
+> **Exclusion in assessment of damages.**
+>
+> **285.**—(1) In assessing damages in any action under the Fatal Injuries Act 1956, or Part IV of the Civil Liability Act 1961, whether commenced before or after 24 February 1981, there shall not be taken into account any child benefit, widow’s (contributory) pension, widower’s (contributory) pension, orphan’s (contributory) allowance, one-parent family payment in the case of a person who qualifies for that payment by virtue of being a widow or widower, widow’s (non-contributory) pension, widower’s (non-contributory) pension or orphan’s (non-contributory) pension.
+>
+> **Editorial Notes:**
+>
+> E4: Previous affecting provision: application of Part IV affected (16.11.1993) by *Social Welfare (Consolidation) Act 1993* (27/1993), s. 236, S.I. No. 335 of 1993; repealed (1.12.2005) by *Social Welfare Consolidation Act 2005* (26/2005), s. 360 and sch. 7, S.I. No. 923 of 2005.
+>
+> E5: Previous affecting provision: application of Part IV affected (28.02.1981) by *Social Welfare (Consolidation) Act, 1981* (1/1981), s. 306, S.I. No. 63 of 1981; repealed (16.11.1993) by *Social Welfare (Consolidation) Act 1993* (27/1993), s. 300 and sch. 5, S.I. No. 335 of 1993.
+
+### 47. Definitions (Part IV).
+
+**47.**—F12[(1) In this Part—
+
+"dependant" means, in respect of a deceased person whose death is caused by a wrongful act—
+
+(*a*) a spouse F13[, civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010], parent, grandparent, step-parent, child, grandchild, step-child, brother, sister, half-brother or half-sister of the deceased,
+
+(*b*) a person whose marriage to the deceased has been dissolved by a decree of divorce that was granted under the Family Law (Divorce) Act, 1996 or under the law of a country or jurisdiction other than the State and is recognised in the State, F14[...]
+
+F15[(*ba*) a person whose civil partnership with the deceased has been dissolved by a decree of dissolution that was granted under the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 or under the law of a country or jurisdiction other than the State and is recognised in the State, or]
+
+F16[(*c*) a person who was not married to or a civil partner of the deceased but who, until the date of the deceased’s death, had been living with the deceased as the deceased’s cohabitant within the meaning of section 172 of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 for a continuous period of not less than three years,]
+
+who has suffered injury or mental distress as a result of the death;
+
+"wrongful act" includes a crime.]
+
+(2) In deducing any relationship for the purposes of this Part—
+
+(*a*) a person adopted under F17[an adoption order within the meaning of section 3(1) of the Adoption Act 2010 or an intercountry adoption effected outside the State being recognised within the meaning of that Act], shall be considered the legitimate offspring of the adopter or adopters;
+
+(*b*) subject to *paragraph (a)* of this subsection, an illegitimate person shall be considered the legitimate offspring of his mother and reputed father;
+
+(*c*) a person *in loco parentis* to another shall be considered the parent of that other.
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F12: Substituted (25.12.1996) by *Civil Liability (Amendment) Act 1996* (42/1996), s. 1, subject to transitional provision in s. 1(2), commenced on enactment.
+>
+> F13: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), ss. 105, 169 and sch. part 4, item 2, S.I. No. 648 of 2010.
+>
+> F14: Deleted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 169, sch. part 4, item 2, S.I. No. 648 of 2010.
+>
+> F15: Inserted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 169, sch. part 4, item 2, S.I. No. 648 of 2010.
+>
+> F16: Substituted (1.01.2011) by *Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010* (24/2010), s. 204, S.I. No. 648 of 2010.
+>
+> F17: Substituted (1.11.2010) by *Adoption Act 2010* (21/2010), s. 175(b), S.I. No. 511 of 2010.
+
+### 48. Action where death caused by wrongful act, neglect or default.
+
+**48**.—(1) Where the death of a person is caused by the wrongful act of another such as would have entitled the party injured, but for his death, to maintain an action and recover damages in respect thereof, the person who would have been so liable shall be liable to an action for damages for the benefit of the dependants of the deceased.
+
+(2) Only one action for damages may be brought against the same person in respect of the death.
+
+(3) The action may be brought by the personal representative of the deceased or, if at the expiration of six months from the death there is no personal representative or no action has been brought by the personal representative, by all or any of the dependants.
+
+(4) The action, by whomsoever brought, shall be for the benefit of all the dependants.
+
+(5) The plaintiff shall furnish the defendant with particulars of the person or persons for whom and on whose behalf the action is brought and of the nature of the claim in respect of which damages are sought to be recovered.
+
+(6) F18[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F18: Repealed (10.07.1991) by *Statute of Limitations (Amendment) Act 1991* (18/1991), s. 6(5), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C23: Application of section restricted (20.09.2004) by *Civil Liability and Courts Act 2004* (31/2004), s. 6, S.I. No. 544 of 2004 and (31.03.2005) by s. 28, S.I. No. 544 of 2004.
+>
+> **Application of Part.**
+>
+> **6.**—Subject to *sections 14(8), 25(4), 26(4), 27(3)* and *28(2)*, a provision of this Part applies only to personal injuries actions brought after the date of the commencement of that provision.
+>
+> **Income undeclared for tax purposes.**
+>
+> **28.**—(1) In a personal injuries action (other than an action under section 48 of the Act of 1961), any income, profit or gain in respect of which—
+>
+> (*a*) the plaintiff is making a claim, and
+>
+> (*b*) (i) a return has not been made before the hearing of the action in accordance with the Taxes Consolidation Act 1997, or
+>
+> (ii) the plaintiff has not otherwise notified the Revenue Commissioners,
+>
+> shall, for the purposes of assessing damages, be disregarded by the court, unless the court considers that in all the circumstances it would be unjust to disregard such income, profit or gain.
+>
+> (2) This section does not apply to causes of action accruing before the commencement of this section.
+>
+> C24: Application of section modified in certain circumstances (1.06.2004) by *Personal Injuries Assessment Board Act 2003* (46/2003), s. 35, S.I. No. 252 of 2004.
+>
+> **Approval of court required for certain assessments.**
+>
+> **35.**—(1) This section applies to a relevant claim where—
+>
+> (*a*) a next friend or the committee of a minor or a person of unsound mind is acting on behalf of the minor or person in respect of the claim, or
+>
+> (*b*) the claim relates to a proposed action for damages under section 48 of the Act of 1961,
+>
+> and the next friend, committee or, as the case may be, the person proposing to bring that action for damages accepts, subject to the assessment being approved under this section, the assessment made under *section 20* of the relevant claim.
+>
+> (2) Where any enactment or rule of court requires any settlement of a relevant claim to which this section applies to be approved by the court then that enactment or rule of court shall apply, with the necessary modifications, to the assessment referred to in *subsection (1)* as if proceedings had been brought in relation to the claim, and the court shall have jurisdiction to approve the assessment accordingly on application in that behalf being made by the next friend, committee or other person referred to in that subsection.
+>
+> ...
+>
+> C25: Application of section extended (10.07.1991) by *Statute of Limitations (Amendment) Act 1991* (18/1991), ss. 5 and 5A, as amended (20.09.2004) by *Civil Liability and Courts Act 2004* (31/2004), s. 7(c) and (d), S.I. No. 544 of 2004.
+>
+> **Extension of limitation period in case of disability.**
+>
+> **5.**—(1) Notwithstanding anything in section 49 (1) *(a)* of the Principal Act, if, in the case of—
+>
+> (*a*) an action of the kind to which *section 3* of this Act applies, or
+>
+> (*b*) an action under section 48 (1) of the Civil Liability Act, 1961 (being an action where death is caused by wrongful act, neglect or default),
+>
+> the person having the right to bring the action was under a disability either at the time when that right accrued to him or at the date of his knowledge, the action may be brought at any time before the expiration of **[**2**]** years from the date when he ceased to be under a disability or died, whichever event first occurred, notwithstanding that the period specified in the said section 3 has expired, but section 49 (1) (*c*) of the Principal Act shall apply accordingly.
+>
+> (2) *Subsection (1)* of this section shall not affect any case where the right of action first accrued to some person (not under a disability) through whom the person under a disability claims.
+>
+> **[5A.**—(1) Where the relevant date in respect of a cause of action falls before the commencement of *section 7* of the *Civil Liability and Courts Act 2004*, an action (being an action to which section 3(1), 4(1), 5(1) or 6(1) of this Act applies) in respect of that cause of action shall not be brought after the expiration of—
+>
+> (*a*) 2 years from the said commencement, or
+>
+> (*b*) 3 years from the relevant date,
+>
+> whichever occurs first.**]**
+>
+> C26: Application of section restricted (10.07.1991) by *Statute of Limitations (Amendment) Act 1991* (18/1991), s. 6, commenced on enactment, as amended (20.09.2004) by *Civil Liability and Courts Act 2004* (31/2004), s. 7(e), S.I. No. 544 of 2004.
+>
+> **6.**—(1) An action under section 48 (1) of the Civil Liability Act, 1961, shall not be brought after the expiration of **[**2**]** years from—
+>
+> (*a*) the date of death, or
+>
+> (*b*) the date of knowledge of the person for whose benefit the action is brought,
+>
+> whichever is the later.
+>
+> (2) Where there is more than one person for whose benefit an action under section 48 (1) of the Civil Liability Act, 1961, is brought, subsection (1) (b) of this section shall be applied separately to each of them.
+>
+> (3) If, by virtue of subsection (2) of this section, the action would be outside the time limit applicable by virtue of subsection (1) of this section as regards one or more, but not all, of the persons for whose benefit it is brought, the court shall direct that any person as regards whom the action would be outside that limit shall be excluded from those for whom the action is brought.
+>
+> ...
+>
+> C27: Appliction of certain provisions affected (1.08.1988) by *Courts Act 1988* (14/1988), s. 1, commenced as per s. 6(3).
+>
+> **Abolition of juries in certain actions in High Court.**
+>
+> **1.**—(1) Notwithstanding section 94 of the Courts of Justice Act, 1924, or any other provision made by or under statute, or any rule of law, an action in the High Court—
+>
+> (*a*) claiming damages in respect of personal injuries to a person caused by negligence, nuisance or breach of duty (whether the duty exists by virtue of a contract or a provision made by or under a statute or independently of any such contract or any such provision),
+>
+> (*b*) under section 48 of the Civil Liability Act, 1961, or
+>
+> (*c*) under section 18 (inserted by the Air Navigation and Transport Act, 1965) of the Air Navigation and Transport Act, 1936,
+>
+> or a question of fact or an issue arising in such an action, shall not be tried with a jury.
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E6: Previous affecting provision: application of subs. (6) restricted (16.12.1991) by *Liability for Defective Products Act 1991* (28/1991), s. 7(3), S.I. No. 316 of 1991; subs. (6) repealed as per F-note above.
+
+### 49. Damages.
+
+**49.**—(1) (*a*) The damages under section 48 shall be—
+
+(i) the total of such amounts (if any) as F19[...] the judge F19[...], shall consider proportioned to the injury resulting from the death to each of the dependants, respectively, for whom or on whose behalf the action is brought, and
+
+(ii) subject to *paragraph (b)* of this subsection, the total of such amounts (if any) as the judge shall consider reasonable compensation for mental distress resulting from the death to each of such dependants.
+
+(*b*) The total of any amounts awarded by virtue of *subparagraph (ii)* of *paragraph (a)* of this subsection shall not exceed F20[€35,000].
+
+(*c*) Each amount awarded by virtue of *paragraph (a)* of this subsection shall be indicated separately in the award.
+
+(*d*) F21[...]
+
+F22[(1A) Where the Minister for Equality and Law Reform is satisfied that the monetary amount for the time being standing specified—
+
+(*a*) in *paragraph (b)* of *subsection (1)*, or
+
+(*b*) in respect of *paragraph (b)* of *subsection (1)*, by virtue of an order made under this subsection,
+
+should, having regard to changes in the value of money generally in the State since the monetary amount was so specified, be varied, the Minister may by order specify an amount that the Minister considers is appropriate, and in such case *paragraph (b)* of *subsection (1)* shall, in relation to any cause of action that accrues while the order is in effect, have effect as if the amount specified in the order were set out in that paragraph.
+
+(1B) Every order made under *subsection (1A)* shall be laid before each House of the Oireachtas as soon as practicable after it is made and, if a resolution annulling the order is passed by either House within the next 21 days on which that House has sat after the order is laid before it, the order shall be annulled accordingly, but without prejudice to any cause of action that accrued while the order was in effect.]
+
+(2) In addition, damages may be awarded in respect of funeral and other expenses actually incurred by the deceased, the dependants or the personal representative by reason of the wrongful act.
+
+(3) It shall be sufficient for a defendant, in paying money into court in the action, to pay it in one sum as damages for all the dependants without apportioning it between them.
+
+(4) The amount recovered in the action shall, after deducting the costs not recovered from the defendant, be divided among the persons entitled in such shares as may have been determined.
+
+F22[(5) Where a person referred to in *paragraph (c)* of the definition of "dependant" in *section 47 (1)* had no enforceable right to financial maintenance by the deceased, the court shall take that fact into account, together with any other relevant matter, in determining the damages to be awarded to the person by virtue of *subparagraph (i)* of *paragraph (a)* of *subsection (1)* of this section.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F19: Deleted (1.08.1988) by *Courts Act 1988* (14/1988), s. 4, commenced as per s. 6(3).
+>
+> F20: Substituted (11.01.2014) by *Civil Liability Act 1961 (Section 49) Order 2014* (S.I. No. 6 of 2014), art. 2.
+>
+> F21: Repealed (7.07.1964) by *Civil Liability (Amendment) Act 1964* (17/1964), s. 6 and sch., commenced on enactment.
+>
+> F22: Inserted (25.12.1996) by *Civil Liability (Amendment) Act 1996* (42/1996), s. 2, subject to transitional provision in s. 2(2), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C28: Application of section extended (1.11.1997) by *Hepatitis C Compensation Tribunal Act 1997* (34/1997), s. 5, S.I. No. 443 of 1997, as amended (9.10.2002) by *Hepatitis C Compensation Tribunal (Amendment) Act 2002* (21/2002), s. 5, S.I. No. 473 of 2002.
+>
+> **Awards of Tribunal.**
+>
+> **5.**—(1) An award of the Tribunal to a claimant shall be made on the same basis as an award of the High Court calculated by reference to the principles which govern the measure of damages in the law of tort and any relevant statutory provisions (including Part IV of the Civil Liability Act, 1961), and including, subject to *section 11*, consideration of an award on the basis which reflects the principles of aggravated or exemplary damages.
+>
+> (2) Notwithstanding *subsection (1)* of this section and section 2(2) of the Civil Liability (Amendment) Act, 1996, section 49(1)(*b*) of the Civil Liability Act, 1961 (as amended by section 2(1)(*a*) of the Civil Liability (Amendment) Act, 1996) shall have effect in respect of a claim made pursuant to *section 4(1)(e)* of this Act.
+>
+> **[**(2A) Notwithstanding subsection (1)—
+>
+> (*a*) section 49 of the Civil Liability Act, 1961, shall apply in relation to the assessment of the amount of the award to a dependant referred to in paragraph (*e*) or (*j*) of section 4(1) with the modification that the reference in subsection (1)(*a*)(i) of the said section 49 to the death shall be construed as a reference to the injury to the deceased and the death of the deceased,**]**
+>
+> ...
+>
+> **Editorial Notes:**
+>
+> E7: Power pursuant to subs. (1A) exercised (11.01.2014) by *Civil Liability Act 1961 (Section 49) Order 2014* (S.I. No. 6 of 2014).
+>
+> E8: Previous affecting provision: amount of damages under subs. (1)(b) increased (25.12.1996) by *Civil Liability (Amendment) Act 1996* (42/1996), s. 2; superseded as per F-note above.
+>
+> E9: Previous affecting provision: amount of damages under subs. (1)(b) increased (12.05.1981) by *Courts Act 1981* (11/1981), s. 28; substituted (25.12.1996) by *Civil Liability (Amendment) Act 1996* (42/1996), s. 2 and superseded as per F-note above.
+
+### 49A. No mental distress damages to certain persons.
+
+F23[**49A.**—Notwithstanding anything in this Part, damages may not be awarded to a person referred to in *paragraph (b)* of the definition of "dependant" in *section 47 (1)* in respect of any mental distress allegedly caused to the person by the death of the deceased.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F23: Inserted (25.12.1996) by *Civil Liability (Amendment) Act 1996* (42/1996), s. 3(1), subject to transitional provision in s. 3(2), commenced on enactment.
+
+### 50. Sums not to be taken into account in assessing damages.
+
+**50.**—(1) In assessing damages under this Part account shall not be taken of—
+
+(*a*) any sum payable on the death of the deceased under any contract of insurance,
+
+(*b*) any pension, gratuity or other like benefit payable under statute or otherwise in consequence of the death of the deceased.
+
+F24[(2) In assessing damages under this Part, account shall not be taken of any charitable gift (whether in the form of money or other property) made to the plaintiff in consequence of the death of the deceased unless—
+
+(*a*) the defendant is the donor of the gift, and
+
+(*b*) at the time of the making of the gift he or she informs the plaintiff in writing that, should the plaintiff recover damages in an action under this Part, the defendant will apply to the court for the damages to be reduced by an amount equal to the amount of the gift or the value of the gift, as may be appropriate.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F24: Inserted (31.03.2005) by *Civil Liability and Courts Act 2004* (31/2004), s. 27(1), subject to transitional provision in ss. 6 and 27(3), S.I. No. 544 of 2004.
+>
+> **Modifications (not altering text):**
+>
+> C29: Application of Act restricted (1.12.2005) by *Social Welfare Consolidation Act 2005* (26/2005), s. 96, S.I. No. 923 of 2005.
+>
+> **Taking account of benefit in assessing damages.**
+>
+> **96.**—(1)
+>
+> (3) Notwithstanding section 50 of the Civil Liability Act 1961, in assessing damages in respect of a person’s death under Part IV of that Act, account may be taken of any death benefit, by way of grant under *section 84* in respect of funeral expenses, resulting from that person’s death.
+>
+> **Editorial Notes:**
+>
+> E10: Previous affecting provision: application of section restricted (16.11.1993) by *Social Welfare (Consolidation) Act 1993* (27/1993), s. 75, S.I. No. 335 of 1993; repealed (1.12.2005) by *Social Welfare (Consolidation) Act 2005* (26/2005), s. 360 and sch. 7, S.I. No. 923 of 2005.
+>
+> E11: Previous affecting provision: application of section restricted (28.02.1981) by *Social Welfare (Consolidation) Act 1981* (1/1981), s. 68, S.I. No. 63 of 1981; repealed (16.11.1993) by *Social Welfare (Consolidation) Act 1993* (27/1993), s. 300 and sch. 5, S.I. No. 335 of 1993.
+>
+> E12: Previous affecting provision: application of section restricted (6.07.1966) by *Social Welfare (Occupational Injuries) Act 1966* (16/1966), s. 39, commenced on enactment; repealed (28.02.1981) by *Social Welfare (Consolidation) Act 1981* (1/1981), s. 310 and sch. 6 part 2, S.I. No. 63 of 1981.
+>
+> E13: *Civil Liability and Courts Act 2004* (31/2004), s. 27(1) states that section 50 as it stood immediately before the commencement of s. 27(1) shall be referred to as subsection (1) of section 50.
+
+### 51. Adaptation of references to Fatal Accidents Acts, 1846 to 1908.
+
+**51.**—A reference in any enactment to the Fatal Accidents Acts, 1846 to 1908, or to any of them shall be construed as a reference to this Part.
+
+## PART IVA Liability For Negligence of Good Samaritans, Volunteers and Volunteer Organisations — PART IVA — Liability For Negligence of Good Samaritans, Volunteers and Volunteer Organisations
+
+### F25[51A. Interpretation (Part IVA).
+
+**51A.**— (1) In this Part—
+
+"emergency" includes circumstances arising in connection with an actual or apprehended accident;
+
+"good samaritan" means a person who, without expectation of payment or other reward, provides assistance, advice or care to another person in an emergency, but does not include a person who does so as a volunteer;
+
+"negligence" does not include breach of statutory duty;
+
+"voluntary work" means any work or other activity that is carried out for any of the following purposes:
+
+(*a*) a charitable purpose within the meaning of the Charities Act 2009;
+
+(*b*) without prejudice to the generality of *paragraph (a)*, the purpose of providing assistance, advice or care in an emergency or so as to prevent an emergency;
+
+(*c*) the purpose of sport or recreation;
+
+"volunteer" means a person who does voluntary work that is authorised by a volunteer organisation and does so without expectation of payment (other than reasonable reimbursement for expenses) or other reward;
+
+"volunteer organisation" means any body (whether or not incorporated) that is not formed for profit and that authorises the doing of voluntary work whether or not as the principal purpose of the organisation.
+
+(2) A reference in this Part to the provision of assistance, advice or care to a person includes a reference to any of the following activities:
+
+(*a*) the administration of first-aid to the person;
+
+(*b*) the treatment of the person using an automated external defibrillator;
+
+(*c*) the transportation of the person from the scene of an emergency to a hospital or other place for the purposes of ensuring the person receives medical care.
+
+(3) Nothing in *subsection (2)* shall operate to limit the nature of activities that may constitute assistance, advice or care for the purposes of this Part.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F25: Inserted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 4, commenced on enactment.
+
+### 51B. This Part not applicable to existing causes of action.
+
+F26[**51B.**— This Part shall not apply to any cause of action that accrued before the commencement of this Part.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F26: Inserted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 4, commenced on enactment.
+
+### 51C. This Part not applicable to motor accidents in public places.
+
+F27[**51C.**— (1) This Part shall not apply in relation to the negligent use of a mechanically propelled vehicle in a public place.
+
+(2) In this section "mechanically propelled vehicle" has the same meaning as it has in Part VI of the Road Traffic Act 1961.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F27: Inserted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 4, commenced on enactment.
+
+### 51D. Protection of good samaritans from liability for negligence.
+
+F28[**51D.**— (1) A good samaritan shall not be personally liable in negligence for any act done in an emergency when providing—
+
+(*a*) assistance, advice or care to a person who is—
+
+(i) in serious and imminent danger, or apparently in serious and imminent danger, of being injured or further injured,
+
+(ii) injured or apparently injured, or
+
+(iii) suffering, or apparently suffering, from an illness,
+
+or
+
+(*b*) advice by telephone or by another means of communication to a person (whether or not the person is a person referred to in *paragraph (a)*) who is at the scene of the emergency.
+
+(2) The protection from personal liability conferred on a good samaritan by *subsection (1)* applies even if the emergency is caused by an act of the good samaritan.
+
+(3) The protection from personal liability conferred on a good samaritan by *subsection (1)* shall not apply to—
+
+(*a*) any act done by the good samaritan in bad faith or with gross negligence, or
+
+(*b*) any act done by the good samaritan when providing assistance, advice or care in circumstances where the good samaritan has a duty (whether imposed by or under any enactment or any other rule of law) to provide such assistance, advice or care.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F28: Inserted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 4, commenced on enactment.
+
+### 51E. Protection of volunteers from liability for negligence.
+
+F29[**51E.**— (1) A volunteer shall not be personally liable in negligence for any act done when carrying out voluntary work.
+
+(2) The protection from personal liability conferred on a volunteer by *subsection (1)* shall not apply to any act done by the volunteer if—
+
+(*a*) the act was done by the volunteer in bad faith or with gross negligence, or
+
+(*b*) the volunteer knew or ought reasonably to have known that the act was—
+
+(i) outside the scope of the voluntary work authorised by the volunteer organisation concerned, or
+
+(ii) contrary to the instructions of the volunteer organisation concerned.
+
+(3) An agreement, undertaking or arrangement has no effect to the extent that it provides for a volunteer to give a volunteer organisation an indemnity against, or to make a contribution to a volunteer organisation in relation to, a liability that—
+
+(*a*) the volunteer would incur for his or her negligence but for the operation of *subsection (1)*, and
+
+(*b*) the volunteer organisation incurs as a result of its vicarious liability for that negligence.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F29: Inserted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 4, commenced on enactment.
+
+### 51F. Protection additional to any other protection under other law.
+
+F30[**51F.**— The protection from personal liability conferred on a good samaritan by *section 51D* or a volunteer by *section 51E* is in addition to any protection from personal liability conferred on the good samaritan or volunteer by or under any other enactment or rule of law.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F30: Inserted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 4, commenced on enactment.
+
+### 51G. Volunteer organisations and duty of care.
+
+F31[**51G.**— (1) This section applies to proceedings relating to the liability of a volunteer organisation for negligence arising from activities carried out by or on behalf of the organisation.
+
+(2) In any proceedings to which this section applies, when determining whether the volunteer organisation owed a duty of care to the plaintiff or any other person, a court shall consider whether it would be just and reasonable to find that the organisation owed such a duty having regard to the social utility of the activities concerned.
+
+(3) Nothing in this section shall operate to limit the matters that a court may consider, in proceedings to which this section applies, when determining whether a volunteer organisation owed a duty of care to a plaintiff or other person.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F31: Inserted (2.08.2011) by *Civil Law (Miscellaneous Provisions) Act 2011* (23/2011), s. 4, commenced on enactment.
+
+## PART IVBPeriodic Payments Orders — F32[PART IVB — Periodic Payments Orders] — Annotations Amendments: Inserted (1.10.2018) by Civil Liability (Amendment) Act 2017 (30/2017), s. 2, S.I. No. 377 of 2018.
+
+### 51H. Interpretation (Part IVB)
+
+F33[**51H.**— In this Part—
+
+"Act of 2004" means the Civil Liability and Courts Act 2004;
+
+"activities of daily living" includes dressing, eating, walking, washing and bathing;
+
+"catastrophic injury" means, in relation to a person, a personal injury which is of such severity that it results in a permanent disability to the person requiring the person to receive life-long care and assistance in all activities of daily living or a substantial part thereof;
+
+"child" means a person under the age of 18 years;
+
+"Clinical Indemnity Scheme" means the scheme established by the State under which the State Claims Agency manages clinical negligence claims taken against certain State Authorities and other parties indemnified by the scheme;
+
+"General Indemnity Scheme" means the scheme established by the State under which the State Claims Agency manages negligence claims, other than clinical negligence claims to which the Clinical Indemnity Scheme applies, taken against certain State Authorities;
+
+"Insurance Compensation Fund" means the fund established under section 2 of the Insurance Act 1964;
+
+"Minister" means the Minister for Justice and Equality;
+
+"paying party" means the party who is responsible for making payments to a plaintiff under a periodic payments order;
+
+F34["periodic payments index" has the meaning assigned to it by *section 51L(1)*;]
+
+"periodic payments order" has the meaning assigned to it by *section 51I*;
+
+"State Authority" has the same meaning as it has in section 7 of the National Treasury Management Agency (Amendment) Act 2000;
+
+"stepped payment" has the meaning assigned to it by *section 51I*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F33: Inserted (1.10.2018) by *Civil Liability (Amendment) Act 2017* (30/2017), s. 2, S.I. No. 377 of 2018.
+>
+> F34: Inserted (31.07.2023) by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 12, S.I. No. 389 of 2023.
+
+### 51I. Award of damages by periodic payments
+
+F35[**51I.**— (1) Subject to *subsection (2)* and *section 51J*, where a court awards damages for personal injuries to a plaintiff who has suffered a catastrophic injury, the court may order that the whole or part of such damages which relate to—
+
+(*a*) the future medical treatment of the plaintiff,
+
+(*b*) the future care of the plaintiff,
+
+(*c*) the provision of assistive technology or other aids and appliances associated with the medical treatment and care of the plaintiff, and
+
+(*d*) where the parties consent in writing, damages in respect of future loss of earnings,
+
+be paid by a defendant in the proceedings concerned in the form of periodic payments to the plaintiff in such amounts as the court may determine (in this Part referred to as a "periodic payments order").
+
+(2) In deciding whether or not to make a periodic payments order, a court shall have regard to—
+
+(*a*) the best interests of the plaintiff, and
+
+(*b*) the circumstances of the case, including:
+
+(i) the nature of the injuries suffered by the plaintiff; and
+
+(ii) the form of award that would, in the court’s view, best meet the needs of the plaintiff having regard to—
+
+(I) the amount of any payments proposed to be made to the plaintiff,
+
+(II) whether the court has made an order in the proceedings concerned expressed to be one of an interim nature with respect to the payment of damages to the plaintiff, and where such an order has been made, the amount of such damages,
+
+(III) the form of award preferred by the plaintiff and the reasons for that preference,
+
+(IV) any financial advice received by the plaintiff in respect of the form of the award, and
+
+(V) the form of award preferred by the defendant and the reasons for that preference.
+
+(3) Where the parties to an action to which this Part applies agree to the payment of damages wholly or partly by way of periodic payments to the plaintiff in relation to any matter referred to in *paragraphs (a)*, *(b)*, *(c)* and *(d)* of *subsection (1)*—
+
+(*a*) the parties may apply to the court for a periodic payments order in accordance with the terms which have been agreed by the parties, and
+
+(*b*) the court may, subject to *subsection (2)*—
+
+(i) make a periodic payments order in accordance with the terms which have been agreed by the parties,
+
+(ii) refuse the application, or
+
+(iii) refuse the application and make a periodic payments order under *subsection (1)*.
+
+(4) Where it is anticipated that there will be changes in a plaintiff’s circumstances during his or her life which are likely to have an effect on his or her needs, a court may make provision in a periodic payments order that a payment under the order shall, from a specified date, increase or decrease by a specified amount (in this Part referred to as a "stepped payment").
+
+(5) The changes in circumstances which may form the basis of a stepped payment include:
+
+(*a*) a plaintiff reaching 18 years of age;
+
+(*b*) a plaintiff entering primary or secondary school;
+
+(*c*) a plaintiff entering third level education; and
+
+(*d*) anticipated changes in the care needs of a plaintiff, including a requirement that the plaintiff move into residential care.
+
+(6) Where a court makes a periodic payments order under this section, the order shall specify—
+
+(*a*) the annual amount awarded to the plaintiff,
+
+(*b*) the frequency of the payments that are to be made to the plaintiff from the annual amount by the paying party,
+
+(*c*) the amount awarded for damages in respect of the matters referred to in *paragraphs (a)*, *(b)* and *(c)* of *subsection (1)*,
+
+(*d*) where, further to *subsection (1)(d)*, the periodic payments order includes damages in respect of future loss of earnings by the plaintiff, the amount awarded for such loss of earnings,
+
+(*e*) the method by which payments are to be made by the paying party to the plaintiff,
+
+(*f*) that the payments under the order are to be made to the plaintiff during his or her lifetime,
+
+(*g*) that the annual amount awarded to the plaintiff will be adjusted in accordance with the F36[periodic payments index],
+
+(*h*) where a stepped payment is provided for—
+
+(i) the change in circumstances on which an increase or decrease in the amount of a payment (referred to subsequently in this paragraph as "the relevant increase or decrease") is based,
+
+(ii) the date on which the relevant increase or decrease shall take effect,
+
+(iii) the amount of the relevant increase or decrease at current value, and
+
+(iv) that the amount of the relevant increase or decrease shall, on the date that it takes effect, be applied to the annual amount awarded to the plaintiff as adjusted in accordance with the F36[periodic payments index],
+
+and
+
+(i) any other matter that the court considers appropriate.
+
+(7) Where—
+
+(*a*) a court provides in a periodic payments order for a stepped payment, and
+
+(*b*) prior to the date that the stepped payment is due to take effect, it is evident to the plaintiff that the anticipated change in the plaintiff’s circumstances on which that stepped payment was based will not arise,
+
+the plaintiff shall, as soon as practicable and not later than 10 working days before the date on which the stepped payment is due to take effect, notify the court that made the periodic payments order and the paying party in writing that the anticipated change in the plaintiff’s circumstances which formed the basis for the stepped payment concerned will not arise.
+
+(8) Where a court receives a notification under *subsection (7)* from a plaintiff in relation to a stepped payment specified in a periodic payments order, the court shall amend the periodic payments order concerned by making such adjustments to the order as it considers appropriate.
+
+(9) Where a periodic payments order is amended under *subsection (8)*, the court shall cause a copy of the order as amended to be sent to the plaintiff and the paying party.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F35: Inserted (1.10.2018) by *Civil Liability (Amendment) Act 2017* (30/2017), s. 2, S.I. No. 377 of 2018.
+>
+> F36: Substituted (31.07.2023) by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 13(a), (b), S.I. No. 389 of 2023.
+
+### 51J. Security of periodic payments order
+
+F37[**51J.**— (1) A court may make a periodic payments order where it is satisfied that continuity of the payments under the order is reasonably secure.
+
+(2) In considering whether continuity of the payments under a periodic payments order is reasonably secure, a court shall have regard to the following matters:
+
+(*a*) whether the payments under the order are guaranteed under the Clinical Indemnity Scheme or the General Indemnity Scheme;
+
+(*b*) whether the payments under the order are eligible for payment—
+
+(i) from the Insurance Compensation Fund, or
+
+(ii) by the Motor Insurers’ Bureau of Ireland;
+
+(*c*) whether continuity of the payments under the order can be guaranteed by other means.
+
+(3) In considering whether other means for guaranteeing payments referred to in *subsection (2)(c)* are such that continuity of the payments under a periodic payments order would be reasonably secure, a court shall have regard to whether the proposed means for guaranteeing payments under the order—
+
+(*a*) are such as to be capable of making the proposed payments to a plaintiff during his or her lifetime, and
+
+(*b*) are capable of being adjusted in accordance with the F38[periodic payments index].]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F37: Inserted (1.10.2018) by *Civil Liability (Amendment) Act 2017* (30/2017), s. 2, S.I. No. 377 of 2018.
+>
+> F38: Substituted (31.07.2023) by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 14, S.I. No. 389 of 2023.
+
+### 51K. Alteration of method of payment
+
+F39[**51K.**— (1) A paying party may apply to the court to alter the method of payment specified in a periodic payments order.
+
+(2) An application under *subsection (1)* shall be on notice to—
+
+(*a*) the plaintiff, or
+
+(*b*) where the plaintiff has assigned his or her right to payments under a periodic payments order pursuant to *section 51M(1)*, the person to whom the right is assigned.
+
+(3) A court may, on application to it under *subsection (1)*, approve an alteration to the method of payment specified in a periodic payments order where—
+
+(*a*) the plaintiff consents to the altered method of payment,
+
+(*b*) the court is satisfied that continuity of the payments under the order is reasonably secure notwithstanding the alteration to the method of payment, and
+
+(*c*) the alteration to the method of payment concerned is capable of adjustment in accordance with the F40[periodic payments index].]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F39: Inserted (1.10.2018) by *Civil Liability (Amendment) Act 2017* (30/2017), s. 2, S.I. No. 377 of 2018.
+>
+> F40: Substituted (31.07.2023) by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 15, S.I. No. 389 of 2023.
+
+### 51L. Indexation of periodic payments
+
+F41[F42[**51L.**— (1) A periodic payments order shall provide for the amount of a payment under the order to be adjusted annually by reference to an index specified in regulations made under *subsection (2)* (in this Part referred to as a "periodic payments index").
+
+(2) The Minister shall, with the consent of the Minister for Finance, make regulations specifying an index for the purposes of this section and without prejudice to the generality of the foregoing, regulations under this section may make provision for the following matters:
+
+(*a*) the specification of different indices for different goods and services in respect of which a periodic payments order may be made;
+
+(*b*) a fixed percentage increase for the purposes of providing that the amount of a payment under a periodic payments order reflects the rate of inflation, including wage inflation, in the State;
+
+(*c*) such incidental, supplementary and consequential provisions as appear to the Minister to be necessary or expedient for the purposes of the regulations.
+
+(3) The Minister shall, in making regulations under *subsection (2)*, have regard to—
+
+(*a*) the relevance of the goods and services on which an index is based to the loss or expenditure, including cost of care and medical expenses, for which plaintiffs who are the subject of periodic payments orders are compensated,
+
+(*b*) the body calculating the index,
+
+(*c*) whether or not the index is accessible at the same time or times each year, and
+
+(*d*) the reliability of the index over time.
+
+(4) The Minister shall, not more than 5 years after the coming into operation of this section, carry out a review (in this section referred to as an "initial review") of the application of the periodic payments index in order to determine the suitability of that index for the purposes of the annual adjustment of the amount of payments provided for under periodic payments orders.
+
+(5) The Minister shall, not more than 5 years after the initial review or where he or she considers it appropriate to do so, carry out a review of the application of the periodic payments index for the purpose referred to in *subsection (4)*.
+
+(6) Every regulation under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next 21 days on which that House sits after the regulation is laid before it, the regulation shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
+
+(7) The periodic payments index shall apply to an annual adjustment of the amount of a payment to be made under a periodic payments order where the annual adjustment is made on or after the date of the coming into operation of Part 3 of the Courts and Civil Law (Miscellaneous Provisions) Act 2023.]]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F41: Inserted (1.10.2018) by *Civil Liability (Amendment) Act 2017* (30/2017), s. 2, S.I. No. 377 of 2018.
+>
+> F42: Substituted (31.07.2023) by *Courts and Civil Law (Miscellaneous Provisions) Act 2023* (18/2023), s. 16, S.I. No. 389 of 2023.
+
+### 51M. Assignment, commutation or charging of right to periodic payments
+
+F43[**51M.**— (1) Where a plaintiff has a right to receive payments under a periodic payments order, the plaintiff may apply to the court that made the order for approval to assign, commute or charge the right.
+
+(2) A right to receive payments under a periodic payments order may not be assigned, commuted or charged without the approval of the court that made the order.
+
+(3) Where a plaintiff, without the approval of the court, purports to—
+
+(*a*) assign, commute or charge his or her right to receive payments under a periodic payments order, or
+
+(*b*) enter into an agreement to assign, commute or charge such a right,
+
+the assignment, commutation or charge, as the case may be, shall be void.
+
+(4) In considering whether or not to approve a proposed assignment, commutation or charge of a plaintiff’s right to receive payments under a periodic payments order, a court shall have regard to—
+
+(*a*) whether the capitalised value of the assignment, commutation or charge represents value for money,
+
+(*b*) whether the assignment, commutation or charge is in the plaintiff’s best interests, and
+
+(*c*) how the plaintiff will be financially supported following the assignment, commutation or charge, as the case may be.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F43: Inserted (1.10.2018) by *Civil Liability (Amendment) Act 2017* (30/2017), s. 2, S.I. No. 377 of 2018.
+
+### 51N. Appeals
+
+F44[**51N.**— An appeal shall lie from a decision of the High Court under *section 51I*, *51J* or *51M* to the Court of Appeal on a point of law only.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F44: Inserted (1.10.2018) by *Civil Liability (Amendment) Act 2017* (30/2017), s. 2, S.I. No. 377 of 2018.
+
+### 51O. Application of this Part
+
+F45[**51O.**— This Part applies to personal injuries actions relating to catastrophic injuries—
+
+(*a*) that are brought on or after the commencement of section 2 of the Civil Liability (Amendment) Act 2017, or
+
+(*b*) that have been initiated, and have not been concluded, prior to such commencement, and the actions to which this paragraph applies include an action in which the court has made an order of the interim nature referred to in *clause (II)* of *section 51I(2)(b)(ii)*.]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F45: Inserted (1.10.2018) by *Civil Liability (Amendment) Act 2017* (30/2017), s. 2, S.I. No. 377 of 2018.
+
+## PART VAmendments of the Workmens Compensation Acts, 1934 to 1955 — PART V — Amendments of the Workmen’s Compensation Acts, 1934 to 1955
+
+### 52. Definitions (Part V).
+
+**52.**—F46[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F46: Part V (ss. 52-54) repealed subject to transitional provisions (6.07.1966) by *Social Welfare (Occupational Injuries) Act 1966* (16/1966), s. 40, commenced on enactment.
+
+### 53. Amendments of section 60 of the Act of 1934.
+
+**53.**—F47[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F47: Part V (ss. 52-54) repealed subject to transitional provisions (6.07.1966) by *Social Welfare (Occupational Injuries) Act 1966* (16/1966), s. 40, commenced on enactment.
+
+### 54. Amendment of section 61 of the Act of 1934.
+
+**54.**—F48[...]
+
+> **Annotations**
+>
+> **Amendments:**
+>
+> F48: Part V (ss. 52-54) repealed subject to transitional provisions (6.07.1966) by *Social Welfare (Occupational Injuries) Act 1966* (16/1966), s. 40, commenced on enactment.
+
+## PART VIAmendment of the Air Navigation and Transport Act, 1936 — PART VI — Amendment of the Air Navigation and Transport Act, 1936
+
+### 55. Re-enactment, with amendments, of section 18 of the Act of 1936.
+
+**55.**—The following section shall be substituted for section 18 of the Act of 1936—
+
+“Liability of carrier in the event of the death of a passenger.
+
+18.—(1) (*a*) In this section—
+
+‘dependant’, in relation to a passenger in respect of whose death a liability is imposed on a carrier by Article 17 of the First Schedule to this Act, means any member of the family of the deceased who suffers injury or mental distress;
+
+‘member of the family’ means wife, husband, father, mother, grandfather, grandmother, stepfather, stepmother, son, daughter, grandson, granddaughter, stepson, stepdaughter, brother, sister, half-brother, half-sister.
+
+(*b*) In deducing any relationship for the purposes of this section—
+
+(i) a person adopted under the Adoption Act, 1952, shall be considered the legitimate offspring of the adopter or adopters;
+
+(ii) subject to subparagraph (i) of this paragraph, an illegitimate person shall be considered the legitimate offspring of his mother and reputed father;
+
+(iii) a person *in loco parentis* to another shall be considered the parent of that other.
+
+(2) Any liability to pay damages imposed by Article 17 of the First Schedule to this Act on a carrier in respect of the death of a passenger shall be in substitution for any liability of the carrier in respect of the death of that passenger under any statute (including Part IV of the Civil Liability Act, 1961) or at common law, and the following provisions shall have effect in relation to the action to enforce the liability so imposed—
+
+(*a*) the liability shall be enforceable for the benefit of the dependants of the passenger;
+
+(*b*) only one action for damages may be brought in the State against the same person in respect of the death;
+
+(*c*) the action may be brought by the personal representative of the passenger or, if at the expiration of six months from the death there is no personal representative or no action has been brought by the personal representative, by all or any of the dependants;
+
+(*d*) the action, by whomsoever brought, shall be for the benefit of all the dependants who are either resident in the State or, not being resident there, express a desire to take the benefit of the action;
+
+(*e*) the plaintiff shall furnish the defendant with particulars of the persons for whom and on whose behalf the action is brought;
+
+(*f*) subject to paragraph *(n)* of this subsection—
+
+(*i*) the damages shall be the total of such amounts (if any) as the jury or the judge, as the case may be, shall consider proportioned to the injury resulting from the death to each of the dependants, respectively, for whom or on whose behalf the action is brought, and
+
+(ii) subject to paragraph (*g*) of this subsection, the total of such amounts (if any) as the judge shall consider reasonable compensation for mental distress resulting from the death to each of such dependants;
+
+(*g*) the total of any amounts awarded by virtue of subparagraph (ii) of paragraph (*f*) of this subsection shall not exceed one thousand pounds;
+
+(*h*) each amount awarded by virtue of paragraph (*f*) of this subsection shall be indicated separately in the award;
+
+(*i*) subparagraph (ii) of paragraph (*f*) of this subsection shall have effect only in respect of a death occurring within three years after the date of the passing of the Civil Liability Act, 1961;
+
+(*j*) in addition, damages may be awarded in respect of funeral and other expenses actually incurred by the passenger, the dependants or the personal representative as a result of the accident which caused the death of the passenger;
+
+(*k*) it shall be sufficient for the defendant in paying money into court in the action to pay it in one sum as damages for all the dependants without apportioning it between them;
+
+(*l*) the amount recovered in the action shall, after deducting the costs not recovered from the defendant, be divided among the persons entitled in such shares as the jury or the judge, as the case may be, may have determined;
+
+(*m*) in assessing the damages account shall not be taken of any sum payable on the death of the passenger under any contract of insurance, or of any pension, gratuity or other like benefit payable under statute or otherwise in consequence of the death of the deceased;
+
+(*n*) the court before which the action is brought may at any stage of the proceedings make such order as appears to the court to be just and equitable in view of the provisions of the First Schedule to this Act limiting the liability of the carrier and of any proceedings which have, or are likely to be, commenced outside the State in respect of the death of the passenger.”
+
+## PART VIIMiscellaneous — PART VII — Miscellaneous
+
+### 56. Abolition of last opportunity rule.
+
+**56.**—For the purposes of *subsection (1)* of *section 34* and *subsection (1)* of *section 46*, the fact that any person—
+
+(*a*) had an opportunity of avoiding the consequences of the act of any other person but negligently or carelessly failed to do so, or
+
+(*b*) might have avoided those consequences by the exercise of care, or
+
+(*c*) might have avoided those consequences but for previous negligence or want of care on his part,
+
+shall not, by itself, be a ground for holding that the damage was not caused by the act of such other person.
+
+### 57. Abolition of defences.
+
+**57.**—(1) It shall not be a defence in an action of tort merely to show that the plaintiff is in breach of the civil or criminal law.
+
+(2) It shall not be a defence in an action for breach of statutory duty merely to show that the defendant delegated the performance of the duty to the plaintiff.
+
+### 58. Wrongs to unborn child.
+
+**58.**—For the avoidance of doubt it is hereby declared that the law relating to wrongs shall apply to an unborn child for his protection in like manner as if the child were born, provided the child is subsequently born alive.
+
+### 59. Liability of Minister for Finance for negligent use of mechanically propelled vehicle.
+
+**59.**—(1) Where a wrong is committed by the use of a mechanically propelled vehicle belonging to the State, the Minister for Finance shall be liable to an action for damages in respect of damage resulting from the wrong in like manner as if the Minister for Finance were the owner of the vehicle, and the person using the vehicle shall, for the purposes of such liability, be deemed to be the servant of the Minister for Finance in so far as such person was acting in the course of his duty or employment.
+
+(2) Proceedings may be brought against the Minister for Finance by virtue of this section without obtaining the fiat of the Attorney General.
+
+(3) Nothing in this section shall operate to relieve any person from liability in respect of damage resulting from his own wrong.
+
+(4) For the purposes of this section, a mechanically propelled vehicle not belonging to the State shall—
+
+(*a*) while being used when it is under seizure by a person in the service of the State in the course of his duty or employment, or
+
+(*b*) while being used by a member of the Garda Síochána or an officer of any Minister for the purpose of a test, removal or disposition of the vehicle pursuant to the Road Traffic Act, 1961, or any regulation thereunder,
+
+be deemed to belong to the State.
+
+(5) In this section—
+
+“mechanically propelled vehicle” means a vehicle intended or adapted for propulsion by mechanical means, including—
+
+(*a*) a bicycle or tricycle, with an attachment for propelling it by mechanical power, whether or not the attachment is being used,
+
+(*b*) a vehicle the means of propulsion of which is electrical or partly electrical and partly mechanical;
+
+“use” includes keeping or leaving stationary.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C30: Functions transferred and references to “Department of Finance” and “Minister for Finance” construed (29.07.2011) by *Finance (Transfer of Departmental Administration and Ministerial Functions) Order 2011* (S.I. No. 418 of 2011), arts. 2, 3, 5 and sch. 1 part 2, in effect as per art. 1(2).
+>
+> 2\. (1) The administration and business in connection with the performance of any functions transferred by this Order are transferred to the Department of Public Expenditure and Reform.
+>
+> (2) References to the Department of Finance contained in any Act or instrument made thereunder and relating to the administration and business transferred by paragraph (1) shall, on and after the commencement of this Order, be construed as references to the Department of Public Expenditure and Reform.
+>
+> 3\. The functions conferred on the Minister for Finance by or under the provisions of —
+>
+> (a) the enactments specified in Schedule 1, and
+>
+> ...
+>
+> are transferred to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> 5\. References to the Minister for Finance contained in any Act or instrument under an Act and relating to any functions transferred by this Order shall, from the commencement of this Order, be construed as references to the Minister for Public Expenditure and Reform.
+>
+> ...
+>
+> Schedule 1
+>
+> Enactments
+>
+> ...
+>
+> Part 2
+>
+> 1922 to 2011 Enactments
+>
+> <table><tr><td>Number and Year</td><td>Short Title</td><td>Provision</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>No. 41 of 1961</td><td>Civil Liability Act 1961</td><td>Section 59</td></tr><tr><td>...</td><td>...</td><td>...</td></tr></table>
+
+### 60. Liability of road authority for failure to maintain public road.
+
+**60.**—(1) A road authority shall be liable for damage caused as a result of their failure to maintain adequately a public road.
+
+(2) In proceedings under this section, it shall be a defence for the road authority to prove that—
+
+(*a*) they had given sufficient warning that the road was a danger to traffic, or
+
+(*b*) they had taken reasonable precautions to secure that the road was not a danger to traffic, or
+
+(*c*) they had not a reasonable opportunity to give such warning or take such precautions, or
+
+(*d*) the damage resulted from a wrong committed by any person other than the road authority.
+
+(3) In determining whether a road was adequately maintained, regard shall be had in particular to—
+
+(*a*) the construction of the road and the standard of maintenance appropriate to a road of such construction,
+
+(*b*) the traffic using the road,
+
+(*c*) the condition in which a reasonable person would have expected to find the road.
+
+(4) In determining whether a road authority had a reasonable opportunity to give warning that a road was a danger to traffic or had taken reasonable precautions to secure that a road was not such a danger, regard shall be had to the standard of supervision reasonable for a road of such character.
+
+(5) In this section—
+
+“road authority” means the council of a county, the corporation of a county or other borough and the council of an urban district;
+
+“public road” means a road the responsibility for the maintenance of which lies on a road authority and includes any bridge, pipe, arch, gulley, footway, pavement, fence, railing or wall which forms part of such road and which it is the responsibility of the road authority to maintain.
+
+(6) This section shall not apply to damage arising from an event which occurred before the coming into operation of this section.
+
+(7) This section shall come into operation on such day, not earlier than the 1st day of April, 1967, as may be fixed therefor by order made by the Government.
+
+> **Annotations**
+>
+> **Editorial Notes:**
+>
+> E14: This section was not commenced as of date of revision.
+
+### 61. Proof of claims for damages or contribution in bankruptcy.
+
+**61.**—(1) Notwithstanding any other enactment or any rule of law, a claim for damages or contribution in respect of a wrong shall be provable in bankruptcy where the wrong out of which the liability to damages or the right to contribution arose was committed before the time of the bankruptcy.
+
+(2) Where the damages or contribution have not been and cannot be otherwise liquidated or ascertained, the court may make such order as to it seems fit for the assessment of the damages or contribution, and the amount when so assessed shall be provable as if it were a debt due at the time of the bankruptcy.
+
+(3) Where a claim for contribution or in respect of a judgment debt for contribution is provable in bankruptcy, no such proof shall be admitted except to the extent that the claimant has satisfied the debt or damages of the injured person, unless the injured person does not prove in respect of the wrong or debt.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C31: Application of section modified (1.01.1989) by *Bankruptcy Act 1988* (27/1988), s. 75, S.I. No. 348 of 1988.
+>
+> **Debts provable in bankruptcy and arrangements.**
+>
+> **75.**— ...
+>
+> (3) Where all necessary parties agree, an order for assessment of damages or contribution under section 61 (2) of the Civil Liability Act, 1961, may be made by the Court, notwithstanding that it may not be the court by or before which the claim for damages or contribution falls to be determined.
+>
+> ...
+>
+> C32: Application of section not affected (1.01.1989) by *Bankruptcy Act 1988* (27/1988), s. 76 and sch. 1, para. 18, S.I. No. 348 of 1988.
+>
+> **Proof of debts.**
+>
+> **(*cf*. 1857, s. 246 in pt.)**
+>
+> **76.**—The provisions of the *First Schedule* shall apply in relation to the proof of debts.
+>
+> **FIRST SCHEDULE**
+>
+> Proof of Debts
+>
+> ...
+>
+> 18\. This Schedule is without prejudice to section 61 of the Civil Liability Act, 1961 (which provides for proof of claims for damages or contribution in respect of a wrong) and section 62 of the said Act (which provides for the application of moneys payable under certain policies of insurance where the insured becomes a bankrupt).
+>
+> ...
+
+### 62. Application of moneys payable under certain policies of insurance.
+
+**62.**—Where a person (hereinafter referred to as the insured) who has effected a policy of insurance in respect of liability for a wrong, if an individual, becomes a bankrupt or dies or, if a corporate body, is wound up or, if a partnership or other unincorporated association, is dissolved, moneys payable to the insured under the policy shall be applicable only to discharging in full all valid claims against the insured in respect of which those moneys are payable, and no part of those moneys shall be assets of the insured or applicable to the payment of the debts (other than those claims) of the insured in the bankruptcy or in the administration of the estate of the insured or in the winding-up or dissolution, and no such claim shall be provable in the bankruptcy, administration, winding-up or dissolution.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C33: Application of section not affected (1.01.1989) by *Bankruptcy Act 1988* (27/1988), s. 76 and sch. 1, para. 18, S.I. No. 348 of 1988.
+>
+> **Proof of debts.**
+>
+> **(*cf*. 1857, s. 246 in pt.)**
+>
+> **76.**—The provisions of the *First Schedule* shall apply in relation to the proof of debts.
+>
+> **FIRST SCHEDULE**
+>
+> Proof of Debts
+>
+> ...
+>
+> 18\. This Schedule is without prejudice to section 61 of the Civil Liability Act, 1961 (which provides for proof of claims for damages or contribution in respect of a wrong) and section 62 of the said Act (which provides for the application of moneys payable under certain policies of insurance where the insured becomes a bankrupt).
+>
+> ...
+
+### 63. Costs in certain actions in which the plaintiff is an infant.
+
+**63.**—(1) Where a sum of money has been lodged in court by the defendant in an action for a wrong in which the plaintiff is an infant, an application may be made to the judge by the plaintiff to decide whether that sum of money should be accepted or the action should go to trial and—
+
+(*a*) if, on any such application, the judge decides that the action should go to trial, and
+
+(*b*) an amount by way of damages is awarded to the plaintiff which does not exceed the sum so lodged,
+
+then, notwithstanding any rule of court or practice to the contrary, the costs in the action shall be at the discretion of the judge.
+
+(2) An appeal shall lie from the order of the judge in relation to the costs in such action.
+
+> **Annotations**
+>
+> **Modifications (not altering text):**
+>
+> C34: Functions under this section restricted (15.12.1995) by *Court and Court Officers Act 1995* (31/1995), s. 25(2)(j), commenced on enactment.
+>
+> **Hearings by Master of High Court.**
+>
+> **25.**—...
+>
+> (2) Without prejudice to the powers of the Master of the High Court under the Jurisdiction of Courts and Enforcement of Judgments (European Communities) Act, 1988, the Master of the High Court shall not exercise any function, power or jurisdiction in respect of any of the following matters:
+>
+> ...
+>
+> (*j*) applications under section 63 of the Civil Liability Act, 1961.
+
+## SCHEDULEEnactments Repealed — SCHEDULE — Enactments Repealed
+
+### Part I — Acts of the Parliament of England applied to Ireland by the Act of the Parliament of Ireland (10 Henry 7. c. 22 (Ir.)) passed in the year 1495 and entitled “An Act confirming all Statutes made in England”
+
+| Session and Chapter | Title | Extent of Repeal |
+|---|---|---|
+| (1) | (2) | (3) |
+| 13 Edw. 1 *(Stat. Westm. sec.)*. c. 23. | Writ of accompt for executors (1285). | The whole chapter. |
+| 4 Edw. 3. c. 7. | Executors shall have an action of trespass for a wrong done to their testator (1330). | The whole chapter. |
+
+### Part II — Act of the Parliament of Ireland
+
+| Session and Chapter | Title | Extent of Repeal |
+|---|---|---|
+| (1) | (2) | (3) |
+| 10 Chas. 1. sess. 2. c. 5 (Ir.). | An Act for the recovery of arrearages of rents by executors of tenant in fee simple (1634). | The whole Act so far as unrepealed. |
+
+### Part III — Acts of the Parliament of the late United Kingdom of Great Britain and Ireland
+
+| Session and Chapter | Short Title | Extent of Repeal |
+|---|---|---|
+| (1) | (2) | (3) |
+| 3 & 4 Vic. c. 105. | Debtors (Ireland) Act, 1840. | Section 31. |
+| 51 & 52 Vic. c. 64. | Law of Libel Amendment Act, 1888. | Section 5. |
+| 1 & 2 Geo. 5. c. 57. | Maritime Conventions Act, 1911. | Sections 1, 2, 3, 8 and 9. |
+
+### Part IV — Act of the Oireachtas of Saorstat Éireann
+
+| Number and Year | Short Title | Extent of Repeal |
+|---|---|---|
+| (1) | (2) | (3) |
+| No. 40 of 1936. | Air Navigation and Transport Act, 1936. | Section 23. |
+
+### Part V — Acts of the Oireachtas
+
+| Number and Year | Short Title | Extent of Repeal |
+|---|---|---|
+| (1) | (2) | (3) |
+| No. 1 of 1951. | Tortfeasors Act, 1951. | The whole Act. |
+| No. 3 of 1956. | Fatal Injuries Act, 1956. | The whole Act. |
+| No. 6 of 1957. | Statute of Limitations, 1957. | Subsection (3) of section 2, and subparagraph (iii) of paragraph (*e*) of subsection (1) and subsection (3) of section 11. |
+| No. 1 of 1959. | Air Navigation and Transport Act, 1959. | Section 4. |
+| No. 24 of 1961. | Road Traffic Act, 1961. | Subsection (4) of section 76 and sections 116 and 117. |
