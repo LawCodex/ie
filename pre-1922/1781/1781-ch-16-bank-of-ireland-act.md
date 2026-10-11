@@ -75,8 +75,6 @@ XIII. And be it further enacted by the authority aforesaid, That if at any time 
 
 XIV. And be it further enacted by the authority aforesaid, That from and after the passing of this act, it shall not be lawful for any body politick or corporate, erected or to be erected, other than the corporation hereby intended to be created and erected into a national bank, or for any other persons whatsoever, united or to be united in covenants or partnership, exceeding the number of six persons, to borrow, owe, or take up any sum or sums of money on their bills or notes payable at demand, or at any less time than six months, from the borrowing thereof, under a penalty or forfeiture by such persons, bodies politick or corporate, of treble the sum or sums so to be borrowed or taken upon such bill or bills, note or notes; one moiety thereof to be paid to the informer, and the other to the use of your Majesty, your heirs and successors, to be recovered by action of debt, bill, plaint, or information, in any of your Majesty's courts of record at Dublin. [Rep., 8 & 9 Vict. c. 37. s. 1.]
 
-## 
-
 ### No members of said corporation liable to the statutes of bankruptcy, by reason of their stock in said corporation, and no stock in said corporation liable to foreign attachment.
 
 XVII. And be it further enacted by the authority aforesaid, That no member of the said corporation shall be, or be adjudged liable to be a bankrupt, within the intent and meaning of all or any of the statutes made against or concerning bankrupts, for or by reason of their stock or interest in the said corporation, and that no stock in the said corporation shall be subject or liable to any foreign attachments.

@@ -190,8 +190,6 @@ Provided always, that nothing herein contained shall be deemed to protect any pe
 
 3\. In every case where any such master or employer shall intrust his business to the management and superintendence of any steward, agent, bailiff, foreman, or manager it shall be lawful for the justices to summon such steward, agent, bailiff, foreman, or manager to appear at petty sessions, and to hear and determine the matter of the complaint in such and the like manner as complaints of the like nature against any master or employer, and to make an order for the payment by such steward, agent, bailiff, foreman, or manager, to the complainant, of such sum or compensation as shall be justly due to him; and in case of refusal or nonpayment of any such sum or compensation at such time as shall be directed by such justices, it shall be lawful for them to issue a warrant to levy the same by distress and sale of the goods of such master or employer:
 
-##       
-
 5\. Any servant or other person who shall hire or engage with of any master or other person under any false or forged discharge or certificate of character, shall be liable to forfeit all the wages which shall be due to him by such master or person at the time of his conviction, and shall also be liable to a fine not exceeding five pounds, and in default of payment to be imprisoned for a term not exceeding three months.
 
 ### 17. Fairs and markets. Justices may make awards as to disputes at sales in fairs and markets (where value does not exceed 5l.). Commissioners under 9 Geo. 4. c. 82., &c. and justices to appoint stands for cars, &c.; and make regulations as to thorough-fares in markets, &c. Punishment for the following offences: Breaking the regulations, &c. Leaving vehicles standing in streets.

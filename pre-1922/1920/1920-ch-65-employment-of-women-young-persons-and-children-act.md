@@ -182,13 +182,9 @@ In coal and lignite mines work may be carried on in the interval between ten o�
 
 Where night work in the baking industry is prohibited for all workers, the interval between nine o’clock in the evening and four o’clock in the morning may be substituted in the baking industry for the interval between ten o’clock in the evening and five o’clock in the morning.
 
-##      
-
 ## Article 4.
 
 The provisions of Articles 2 and 3 shall not apply to the night work of young persons between the ages of sixteen and eighteen years in cases of emergencies which could not have been controlled or foreseen, which are not of a periodical character, and which interfere with the normal working of the industrial undertaking.
-
-##      
 
 ## Article 7.
 
@@ -225,8 +221,6 @@ Article 3 shall not apply:—
 (*a*) In cases of force majeure, when in any undertaking there occurs an interruption of work which it was impossible to foresee, and which is not of a recurring character.
 
 (*b*) In cases where the work has to do with raw materials or materials in course of treatment which are subject to rapid deterioration, when such night work is necessary to preserve the said materials from certain loss.
-
-##      
 
 ## Article 6.
 

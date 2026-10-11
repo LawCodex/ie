@@ -34,8 +34,6 @@ An Act to amend an Act passed in the Parliament of Ireland in the Fifth Year of 
 
 An Act for repealing the several Laws relating to Prisons in Ireland; and for re-enacting such of the provisions thereof as have been found useful, with Amendments.[<sup>1</sup>] [20th June 1810.]
 
-##    
-
 ### Jury to be summoned if refusal made of selling, &c. Jurymen may be challenged, but not the array.
 
 18\. If any body or bodies politic or corporate, or other person or persons having or claiming to have any estate, title, term, or interest in or to such grounds, houses, tenements, edifices, erections, or buildings as aforesaid, or any charge, lien, or incumbrance thereon, shall refuse to agree with the said grand juries respectively, for the sale and conveyance of their respective rights, terms and interests therein, or shall not produce or evince a clear title to such estate, rights, titles, terms, or interests as they shall or may so claim, or if the said grand juries respectively shall be ignorant who are entitled to the same, then and in every or any such case it shall and may be lawful to and for the said commissioners, and they are hereby empowered and authorized from time to time to issue a warrant or warrants, precept or precepts, to the sheriff of the county, county of a city, or county of a town, who is hereby authorized, directed and required accordingly to empannel, summon, and return a competent number of substantial persons, qualified to serve on juries not less than sixty, out of which persons so to be empannelled, summoned, and returned, a jury of twelve persons shall be drawn, by some person to be by the said commissioners appointed, in such manner as juries for the trials of issues joined in His Majesty’s Four Courts at Dublin, by an Act made in Ireland in the twenty-ninth year of His late Majesty King George the Second, intituled, “An Act for the better regulating juries,” are directed to be drawn, which persons so to be empannelled, summoned, and returned as aforesaid, are hereby required to come and appear before the said commissioners, at such time and place as in such warrant or warrants, precept or precepts, shall be directed and appointed, and to attend the said commissioners, till discharged by them; and all persons concerned shall and may have their lawful challenges against any of the said jurymen, but shall not be at liberty to challenge the array.
@@ -72,31 +70,21 @@ An Act for repealing the several Laws relating to Prisons in Ireland; and for re
 
 26\. It shall and may be lawful to and for the said commissioners, from time to time, to impose any reasonable fine not exceeding twenty pounds on any sheriff or sheriffs, or their deputy or deputies, bailiffs or agents respectively, who shall make default in the premises, and on any person or persons who shall be snmmoned and returned on any such jury or juries who shall not appear, and also on any witness or witnesses who shall not attend or shall refuse to be sworn or to give evidence to the said commissioners, or to any jury so empannelled before them, and on any person or persons summoned and returned on any such jury or juries who shall refuse to be sworn on any such jury or juries, or to give his, her, or their verdict, or shall in any other manner wilfully avoid or neglect his or their duty in or touching the premises, and from time to time to levy such fine or fines by order of the said commissioners, as the case may require, by distress and sale of the offender’s goods, together with the reasonable charges of every such distress and sale, returning the overplus (if any) to the owner; and all such fines which shall be so recovered and received shall be applied to the purpose of such presentment.
 
-##    
-
 ## 1 & 2 Geo. 4 c. 33.
 
 An Act to make more effectual Provision for the Establishment of Asylums for the Lunatic Poor, and for the custody of Insane Persons charged with offences in Ireland.[<sup>1</sup>] [28th May 1821.]
-
-##    
 
 ### Sheriffs to proceed in making valuations of premises, as they are empowered to do in cases of valuation of scites of gaols under 50 G 3. c. 103.
 
 9\. It shall and may be lawful to and for the said commissioners to issue a warrant or warrants, or precept or precepts, to the sheriff of the county, or county of a city or county of the town wherein the lands, tenements, and hereditaments proposed to be purchased are lying and being; and such sheriff or sheriffs respectively shall thereupon proceed to take such steps for the valuation of such lands, tenements, or hereditaments, as are prescribed for the valuation of lands, tenements, or hereditaments taken for the scites of gaols, by virtue of an Act passed in the fiftieth year of the reign of His late Majesty King George the Third, intituled “An Act for repealing the several laws relating to prisons in Ireland, and for re-enacting such of the provisions thereof as have been found useful, with amendments,” or of any Act or Acts for amending the same.
 
-##       
-
 ### Persons to be appointed by commissioners, with consent of the lord lieutenant, to preside in court, to receive verdicts of juries in cases where questions of valuation are so referred.
 
 12\. Provided always, that in every case, when a jury shall be impannelled and sworn for the valuation of any lands, tenements, or hereditaments rented or taken for the scite of any lunatic asylum as aforesaid, it shall and may be lawful to and for the said commissioners to appoint by an instrument in writing under their hands and seals, by and with the approbation of the lord lieutenant, in council, not less than six persons, nor more than twelve, three of whom shall be competent to act on behalf of the said commissioners, in presiding at such court, and receiving the verdicts of such jury as shall be held and impannelled for such valuation, such persons so appointed and approved of being magistrates for one or more of the counties, counties of cities, or counties of towns, comprehended within the district for which such asylums respectively have been or shall be erected, or of the county, county of a city, or county of a town, of which such district shall consist; and the acts of such magistrates shall be of equal force and validity with those of the commissioners themselves, so far as relates to holding a court for such valuation, and performing the duties necessary for such valuation, as prescribed by the said recited Act of the fiftieth year of His late Majesty’s reign, or any Act or Acts for amending the same.
 
-##    
-
 ## 7 Geo. 4 c. 74.
 
 An Act for consolidating and amending the Laws relating to Prisons in Ireland. [31st May 1826.]
-
-##    
 
 ### Jury to be summoned in case of refusal to sell, &c. Jurymen may be challenged, but not the array.
 
@@ -161,8 +149,6 @@ An Act for consolidating and amending the Laws relating to Prisons in Ireland. [
 ### Fine on sheriff, &c. making default.
 
 40\. It shall and may be lawful to and for the said commissioners from time to time to impose any reasonable fine not exceeding twenty pounds on any sheriff or sheriffs, or their deputy or deputies, bailiffs, or agents respectively, who shall make default in the premises, and on any person or persons who shall be summoned and returned on any jury or juries who shall not appear, and also on any witness or witnesses who shall not attend, or shall refuse to be sworn or to give evidence to the said commissioners, or to any jury so impannelled before them, and on any person or persons summoned and returned on any such jury or juries who shall refuse to be sworn on any such jury or juries, or to give his, her, or their verdict, or shall in any other manner wilfully avoid or neglect his or their duty in or touching the premises; and from time to time to levy such fine or fines by order of the said commissioners, as the case may require, by distress and sale of the offender’s goods, together with the reasonable charges of every such distress and sale, returning the overplus (if any) to the owner; and all such fines which shall be so recovered and received shall be applied to the purposes of such presentment.
-
-##    
 
 [<sup>1</sup> The enactments referred to will be found in the Appendix to this volume.]
 

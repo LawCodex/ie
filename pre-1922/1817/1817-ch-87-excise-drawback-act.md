@@ -22,8 +22,6 @@ An Act to amend Two Acts passed in the forty-fifth year of his present Majesty, 
 
 [*Preamble recites* 56 *Geo*. 3. *c*. 104.]
 
-##        
-
 ### 10. No drawback of excise on goods not worth at least the duty thereon. 56 Geo. 3. c. 104. s. 25. Particulars as to duty, drawback, and value of goods, to be stated in shipping notice.
 
 **10.** And whereas large quantities of goods, on the exportation of which as merchandize a drawback or drawbacks of excise are payable, have been packed and shipped for exportation on drawback of so bad and unmerchantable a quality as to be of little or no value, and have been so shipped and exported for the purpose only of obtaining such drawback, to the great injury of his Majesty's revenue; for remedy whereof be it enacted, That no drawback or drawbacks of excise shall be paid or payable upon any goods, wares, or merchandize packed or shipped for exportations, which shall be of so bad and unmerchantable a quality as not to be worth or of the value at the least of the duty or duties of excise chargeable or sworn or stated in the notice of shipping such goods, wares, or merchandize, required by the said Act of the fifty-sixth year aforesaid to have been paid thereon, if sold for home consumption; and that in such notice as aforesaid as well the rate and amount of the duty or duties paid on the goods, wares, or merchandize therein mentioned, as of the drawback or drawbacks claimed to be payable on the exportation thereof, and the value of such goods, wares, and merchandize, if sold for home consumption, shall be stated and made part of the description of such goods, wares, and merchandize; any thing contained in any other Act or Acts to the contrary thereof notwithstanding.

@@ -43,6 +43,4 @@ V. And whereas butchers and other persons, buying cattle in the country to carry
 
 VI. And whereas it often happens, that butchers and others buying sheep and cattle from graziers, notwithstanding they agree to take the said cattle away at a certain day, yet leave them on the grazier's hands for a considerable time longer; which not only prevents the grazier from making sale of his cattle again, but likewise prevents their bringing store-cattle in their room, to the great damage of the grazier: for remedy whereof, be it further enacted by the authority aforesaid, That if any butcher or other person, buying sheep or cattle as aforesaid, shall leave them on the grazier or sellers hands longer than five days after the time limited and appointed to take off such sheep or cattle, that then after the expiration of the five days aforesaid the owner of such sheep or cattle is hereby empowered to sell and dispose of his said sheep and cattle again, and the butcher or buyer of such cattle shall be obliged to pay all damages, sustained by the said owners of such cattle on account of his or their not taking them away according to agreement.
 
-## 
-
 [<sup>(a)</sup>So much of this Act as prohibits cattle from being bought within six miles of any market is repealed by 7 & 8 Vic. c. 24. s. 2.]

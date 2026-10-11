@@ -43,19 +43,13 @@ WHEREAS hitherto there has not been any law in this kingdom for ascertaining the
 
 \>VI. Be it further enacted by the authority aforesaid, That from and after the said first day of May if any maker or seller of any goods, made or mixed with gold or silver thread or plate, shall make or sell any goods mixed with gold or silver thread or plate, made contrary to the intent and meaning of this act, such person or persons shall forfeit and pay five shillings for each and every ounce of gold and silver thread, or plate, so made or sold.
 
-## 
-
 ### Penalties to the King and prosecutor.
 
 \>VIII. Be it further enacted by the authority aforesaid, That of the several penalties and forfeitures, made and inflicted by this act, one moiety shall be to the use of his Majesty, his heirs and successors, and the other moiety to him, her, or them, that shall inform, sue, or prosecute for the same, and may be sued for, and recovered by action of debt, bill, plaint, or information in any of his Majesty's courts of record in Dublin, wherein no essoign, protection, privilege, wager of law, or more than one imparlance shall be allowed. [Rep., Stat. Law Rev. (I.) Act, 1879.]
 
-## 
-
 ### Prosecution in 6 months.
 
 \>X. Provided always, That every suit, action, or prosecution, to be brought by virtue of this act, shall be commenced within six kalendar months after the offence committed.
-
-## 
 
 ### Not to prohibit inferior metal spun on thread, &c. on garments for the theatre.
 

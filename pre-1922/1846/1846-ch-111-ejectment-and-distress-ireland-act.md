@@ -150,6 +150,4 @@ Schedule of the limitation of costs and charges on distresses for small rents, o
 
 <table><tr><td>Levying distress - - - - - -</td><td>£</td><td><i>s</i>.</td><td><i>d</i>.</td></tr><tr><td>Man in possession, per day each (but not exceeding two in number, unless upon information sworn before a justice that a rescue or violence is apprehended) - -</td><td>0</td><td>2</td><td>0</td></tr><tr><td>All expences of advertisements, if any such - -</td><td>0</td><td>2</td><td>0</td></tr><tr><td>Catalogues, sale, and commission, and delivery of goods, 1*s*. in the pound on the net produce of the sale, if sold by a licensed auctioneer; otherwise, 6*d*. in the pound on the net produce of the sale.</td><td>0</td><td>5</td><td>0</td></tr></table>
 
-##       
-
 [<sup>1</sup> See notes to title of Act, and to section 8.]

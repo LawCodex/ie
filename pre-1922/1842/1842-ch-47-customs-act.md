@@ -31,5 +31,3 @@ An Act to amend the Laws relating to the Customs. [9th July 1842]
 ### 60. Power of sending to be assayed and of assaying at the assay offices gold and silver plate imported.
 
 **60.** In order that gold and silver plate so imported as aforesaid may be assayed, stamped, and marked, it shall and may be lawful for any person to send the same to any assay office in the United Kingdom at which gold and silver plate is now by law required to be assayed; and, when so sent, it shall be assayed, tested, stamped, and marked in such and the same manner, and be subject to such and the same charges, other than stamp duty, as if the same were British plate by law assayable in such office; and the wardens and officers in each such assay offices, and the persons employed by them, shall have such and the same powers of assaying, touching, testing, marking, cutting, breaking, or defacing such gold and silver plate so sent to be assayed, as are now by law exercisable by such wardens, officers, and other persons, in respect of gold and plate now by law required to be assayed in such assay offices.
-
-##

@@ -58,6 +58,4 @@ An Act to amend various Laws relating to Merchant Shipping. [<sup>1</sup>] [20th
 
 28\. Provided that the sum to be contributed from the Consolidated Fund towards defraying the expenditure hereby authorized in any one year shall never be less than one half of the expenditure for such year.
 
-## 
-
 51\. For the period of seven years from the last day before the passing of this Act on which any quarterly payment has been made to the “Seamen's Hospital Society,” in pursuance of the thirty-second section of the said Act of the fifth year of the reign of King William the Fourth, chapter fifty-two, the Board of Trade may, out of the revenues of the fund, pay to the said society an annual sum, not exceeding in any one year five hundred and fifty pounds, to be applied by the said society according to the directions contained in the Act of the third and fourth years of the reign of King William the Fourth, chapter nine

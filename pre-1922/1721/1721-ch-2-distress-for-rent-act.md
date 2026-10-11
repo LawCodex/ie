@@ -19,8 +19,6 @@ CHAPTER II.
 
 An Act for amending an act, intituled, An act to explain and amend an Act, intituled, An act for the more effectual preventing frauds committed by tenants.
 
-## 
-
 ### On rescue, a justice shall on oath in 14 days after order constables to assist to distraint again, and take persons to convey to pound. 7. W. 3. 22. 4 G. 1. 5. 15 G. 2. 8.
 
 VIII. And whereas distresses lawfully taken are frequently rescued, be it further enacted by the authority aforesaid, That if any distress, lawfully taken for rent, or services, or other legal dues, shall be rescued, if the person, on whose behalf such distress was taken, his agent or bailiff, or any person employed in taking such distress, shall within fourteen days after such rescue make oath thereof before any of his Majesty's justices of the peace of the county, where such rescue shall have been committed, which oath such justice is hereby authorized and required to administer, then such justice of the peace shall by warrant under his hand and seal order and require one or more constable or constables of the said county to go with and assist the person, on whose behalf such distress was taken, or his agent or bailiff, or the person employed by him as aforesaid, or the person making such oath, to distrain again for the said rent, services, or other legal dues, and to take with him a number of persons, sufficient to secure and convey the distress, so by him or them to be taken, to some lawful pound.

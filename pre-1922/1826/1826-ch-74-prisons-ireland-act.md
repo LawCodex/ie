@@ -206,8 +206,6 @@ Eleventh:—No prisoner, even when condemned to death, shall be put into a dunge
 
 Twelfth:—No smoking, gambling, swearing, indecent language, or unreasonable noise, shall be allowed in any prison.
 
-##        
-
 Fifteenth:—The keeper of every prison shall have power to hear all complaints touching any of the following offences; (that is to say,) disobedience to any of the rules of the prison; assaults by one person confined in such prison upon another, when no dangerous wound or bruise is given; profane cursing and swearing; any indecent behaviour, and any irreverent behaviour at chapel; all of which are declared to be offences by this Act, if committed by any description of prisoners; breaking windows or otherwise injuring the prison or any part of the furniture thereof; absence from chapel without leave; idleness or negligence in work, or wilful mismanagement of it, and the said keeper may examine any person touching such offences, and may determine thereupon, and may punish all such offences, by ordering the offender or offenders to close confinement in the refractory or solitary cells, and by keeping such offenders respectively upon bread and water only, for any term or terms respectively, not exceeding in any instance three days.
 
 Sixteenth:—In case any prisoner shall be guilty of repeatedly offending against the rules of the prison which shall be then existing, or shall be guilty of any greater offence against the said rules than the gaoler or keeper is by this Act empowered to punish, the said gaoler or keeper shall forthwith report the same to any justice of the peace acting in and for the county, county of a city, or county of a town, to which such prison belongs, being a member of the board of superintendence of such prison, and in their default any other justice acting in and for the said county, county of a city, or county of a town, to which such prison belongs; and any one justice shall have power to inquire upon oath and to determine concerning any such offence so reported to him or them, and to order such offender to be punished by solitary confinement on bread and water, for any term not exceeding one calendar month.
@@ -225,8 +223,6 @@ Twenty-first:—Every prisoner shall be provided with suitable bedding, and ever
 Twenty-second:—Upon the death of a prisoner, notice thereof shall be given by the keeper forthwith to some member of the board of superintendence, being a justice of the peace, or in the county of the city of Dublin to any justice of the peace or magistrate, as well as to the coroner of the district, and to the nearest relative of the deceased, where practicable; and in case the coroner shall hold an inquest on the body of any prisoner, none of the prisoners confined in that prison shall be a juror on such inquest.
 
 Twenty-third:—The keeper of every prison shall be provided with a copy of this Act.
-
-##        
 
 ### 110. Penalty on conveying spirituous liquors into prisons.
 

@@ -33,5 +33,3 @@ An Act to repeal certain of the Duties on Cyder in the United Kingdom, and on Be
 ### 24. Penalty on brewers neglecting or refusing to make returns, or making false returns.
 
 **24.** If any brewer of beer or ale shall neglect or refuse to make any such entry or return, or to verify the same when required so to do, or shall make any false or untrue entry or return, every such brewer shall forfeit and pay the sum of twenty pounds, to be recovered and applied in the same manner, and under the same powers, provisions, and authorities, as any other penalty or forfeiture may be recovered or applied under any Act or Acts of Parliament granting the rates, impositions, and duties on beer and ale in the city, town, burgh, or place in which such refusal or neglect shall occur, or such false or untrue entry be made.
-
-##

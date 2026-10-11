@@ -504,8 +504,6 @@ Given under my hand and seal, this day of , in the year 18 .
 
 Justice of the peace for the county of M.
 
-##      
-
 ## No. 6.
 
 Sect. 94 .

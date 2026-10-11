@@ -19,8 +19,6 @@ CHAPTER VII.
 
 An Act for lessening Sheriffs Fees on Executions.
 
-##         
-
 ### Execution to be marked with the sum in certificate. [3 Geo. 1. c. 15. Eng.] Fees to officer on cap. sat. fier. fac. or elegit, 12d. per l. the first 100l. 6d. afterwards. Where goods in execution amount not to the demand, fees only for so much.
 
 III. And be it likewise declared and enacted by the authority aforesaid, That from and after the said sixth day of November in the year of our Lord one thousand seven hundred and seven, on all executions by capias ad satisfaciendum, fieri facias, or elegit, where body, goods, or chattels are taken in execution, the sheriff or other officer aforesaid shall and may, after such execution executed, demand and take for his fees for such execution the sum or poundage of twelve pence per pound for the first hundred pounds, and six pence per pound for every other hundred pounds, and so proportionably for any greater or lesser sum of what shall appear to be due to the party plaintiff by such certificate, and no more, except only in case where goods and chattels only are taken in execution, which do not amount to the value of the plaintiff's debt or demand; and that in such case the sheriff, or other officer as aforesaid, shall or may take fees or poundage, according to the above-mentioned rate, for so much only as the goods or chattels taken in execution shall be valued at or amount unto, and as he shall levy and pay over to the plaintiff.

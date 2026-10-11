@@ -21,8 +21,6 @@ An Act to regulate the Assay of Gold, and promote the Manufacture of Gold and Si
 
 WHEREAS various manufactures of gold require gold of different degrees of hardness and purity, and it is expedient that the different standards of gold should be ascertained, and the manufactures made thereof be particularly distinguished.
 
-## 
-
 ### And gold manufacture of 22 carats marked (22) and initials of makers name, stamped at assay-office in Dublin or New Geneva.
 
 III. And be it enacted, That no person shall sell, exchange, or export, or cause to be sold, exchanged or exported, any gold vessel, gold plate, or other manufacture of gold being of the aforesaid standard of twenty two carats fine, unless it be marked with the mark of the maker, which mark shall be the number (22,) and the first letter of the christian and sirname of the maker, nor unless it be likewise stamped at the assay-office in Dublin, with a harp crowned, or at the assay-office in New Geneva in the county of Waterford, with a like harp and a bar across its strings, under the like penalty as aforesaid.
@@ -135,8 +133,6 @@ XXIX. And be it further enacted, That no finer, refiner, or parter of gold, shal
 
 XXX. And be it further enacted, That it shall and may be lawful to and for the said company of goldsmiths in Dublin, and the said corporation at New Geneva, and they are hereby authorized and empowered, from time to time, to make bye-laws, rules, and orders for the well government and management of their respective officers, and for fixing the time and manner for receiving in and delivering out plate brought to be assayed, and for every other purpose relative to the conduct or management of such office, so as such bye-laws, rules, and orders do not in any respect contradict this act, or the laws of this realm.
 
-## 
-
 ### A touch-warden or assistant assayer, appointed annually, and on vacaney, 70l. salary out of duties on wrought silver.
 
 XXXII. And whereas the attendance of a touch-warden, or an assistant assay-master, is necessary at the assay-office in Dublin, as well for the purposes of this act as for the assaying and levying the duties on silver ware: be it enacted, That it shall and may be lawful for the said company of goldsmiths to appoint annually, and from time to time, as often as there shall be a vacancy, a proper person who shall have been bred to and worked in the trade of a goldsmith or silversmith, to be touch-warden or assistant assayer; and that it shall and may be lawful for the officer appointed to stamp or mark plate by virtue of the said recited act,([<sup>a</sup>] ) to detain out of the duties on wrought silver plate, the yearly sum of seventy pounds, to be paid to such person for his salary in the execution of his office.
@@ -144,8 +140,6 @@ XXXII. And whereas the attendance of a touch-warden, or an assistant assay-maste
 ### On vacancy of inspector, the touch-warden, or officer by commissioners shall act.
 
 XXXIII. And be it further enacted, That so soon as the office of inspector of the duties on wrought plate shall become vacant by the death, removal, or resignation of the present possessor thereof, the salary annexed to said office shall cease and be no longer payable, and the duty of the said office shall be executed by the touch-warden, or by such officer of the commissioners of tillage and inland navigation, as the said commissioners shall appoint.
-
-## 
 
 ### Change of abode registered in 14 days.
 
@@ -158,8 +152,6 @@ XXXVI. And be it enacted, That no hawker, pedlar, or other trading person going 
 ### Gold assayed and marked at London office, and silver at any office in Gr. Britain, exempt from this act.
 
 XXXVII. And be it further enacted, That nothing in this or any other act contained, shall extend or be construed to extend to prohibit or subject any person registered as aforesaid, to any penalty or forfeiture for selling, exchanging, or exposing to sale, or exporting any gold vessel, gold plate, or other manufacture of gold of any of the three standards aforesaid, nor to require it to be assayed, stamped, or marked pursuant to this act, if it shall have been assayed, stamped, and marked at the assay-office in London; and if in the mark of the maker thereof the number denoting the standard be marked or impressed, nor to prohibit or subject to any penalty or forfeiture any person registered as aforesaid for selling, exchanging, exposing to sale, or exporting any silver ware, or to require any silver ware to be assayed which shall have been assayed and marked at any assay-office in Great Britain.
-
-## 
 
 ### Forfeitures recovered in a court of record, to prosecutor, full costs.
 
@@ -176,8 +168,6 @@ XLIII. And be it further enacted, That if any action or suit shall be brought ag
 ### No assayer, &c. in Dublin, a gold or silversmith, under forfeiture of office and 100l.
 
 XLIV. And be it enacted, That no assay-master or touch-warden in the city of Dublin, or weigher or drawer of gold in the assay-office of said city, shall exercise the trade or occupation of a goldsmith or silversmith, during his continuance in his said office, under pain of forfeiting his said office, and likewise the sum of one hundred pounds.
-
-## 
 
 [<sup>a</sup>3 Geo. 2. c. 3. (Ir.)]
 

@@ -316,7 +316,7 @@ def title_text(el, ctx):
 
 def heading(level, text):
     level = max(2, min(level, 6))
-    text = text.strip()
+    text = text.strip() or "\u2014"
     if level == 6 and False:
         return text
     return "#" * level + " " + text

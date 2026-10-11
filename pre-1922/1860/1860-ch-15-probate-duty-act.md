@@ -33,5 +33,3 @@ An Act for granting to Her Majesty certain Duties of Stamps. [3d April 1860.]
 ### 6. Money secured on heritable property and by heritable bonds in Scotland to be deemed moveable property, &c.
 
 **6.** Money secured on heritable property in Scotland, and money secured by Scotch bonds in favour of heirs and assignees, excluding executors, shall, for the purposes of this Act, be held and interpreted to be moveable property, and shall be included in any inventory to be exhibited and recorded in any commissary court in Scotland of the estate and effects of any person deceased entitled thereto, . . . and every such inventory . . . shall be chargeable with stamp duty in respect of such moveable property; . . .
-
-##

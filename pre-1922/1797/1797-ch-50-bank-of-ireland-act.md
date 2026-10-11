@@ -27,10 +27,6 @@ WHEREAS in pursuance of an act of Parliament passed in the twenty-first and twen
 
 II. And be it further enacted, That the said corporation shall and may, from time to time, make and pay the like dividends to the proprietors of the said additional stock, as they shall make and pay to the proprietors and holders of the present stock of the said corporation; the first of which dividends shall commence from such time as shall be specified in the proposals, or terms to be offered for such subscription by the said court of directors.
 
-##         
-
 ### When the 500,000l. is paid in, corporation may borrow money, so that they shall not owe more than 1,500,000l.
 
 V. And be it enacted, That from the time the said sum of five hundred thousand pounds shall be subscribed and paid in, the said corporation may borrow, or give security for any sum or sums, so that they shall not owe at any one time, more than a sum equal to the said sum of one million five hundred thousand pounds, any thing in the said act contained to the contrary notwithstanding.
-
-##

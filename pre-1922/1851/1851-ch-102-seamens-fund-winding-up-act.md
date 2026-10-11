@@ -32,8 +32,6 @@ An Act to amend the Acts relating to the Merchant Seamen’s Fund, and to provid
 
 The expression “United Kingdom” shall be taken to mean the United Kingdom of Great Britain and Ireland:
 
-##      
-
 The expression “President and Governors” shall mean the president and governors for the relief and support of sick, maimed, and disabled seamen, and of the widows and children of such as shall be killed, slain, or drowned in the Merchant Service, incorporated by the first of the said recited Acts:
 
 The expression “the fund” shall mean the Merchant Seamen’s Fund:

@@ -118,7 +118,9 @@ def pre1922(raw):
                         meta["heading"] = t
                         continue
                     if margin is None and not t.startswith("[") and len(t) < 160 and not re.match(r"^CHAPTER\b", t):
-                        blocks.append("## " + t.replace("*", ""))
+                        h = t.replace("*", "").strip()
+                        if h:
+                            blocks.append("## " + h)
                         continue
                 blocks.append(md_escape_start(t))
             elif el.tag == "table":
