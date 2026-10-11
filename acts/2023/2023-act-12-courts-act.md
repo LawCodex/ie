@@ -1,0 +1,62 @@
+---
+title: "Courts Act 2023"
+identifier: "eli/2023/act/12"
+type: act
+jurisdiction: ie
+language: en
+number: 12
+year: 2023
+date: 2023-05-19
+status: unknown
+version: as_enacted
+source: "https://www.irishstatutebook.ie/eli/2023/act/12/enacted/en/html"
+retrieved: 2026-10-11
+---
+
+# Courts Act 2023
+
+An Act to provide for an increase in the number of ordinary judges of the Court of Appeal and, for that purpose, to amend the Courts (Establishment and Constitution) Act 1961; to provide for an increase in the number of ordinary judges of the High Court, ordinary judges of the Circuit Court and judges of the District Court and, for those purposes, to amend the Courts (Supplemental Provisions) Act 1961 and the Courts and Court Officers Act 1995; and to provide for related matters.
+
+[19*th May*, 2023]
+
+**Be it enacted by the Oireachtas as follows:**
+
+## 1. Definition
+
+**1.** In this Act, “Act of 1995” means the Courts and Court Officers Act 1995.
+
+## 2. Number of ordinary judges of Court of Appeal
+
+**2.** Section 1A(2) of the Courts (Establishment and Constitution) Act 1961 is amended by the substitution of the following paragraph for paragraph (b) (amended by section 1 of the Courts Act 2019):
+
+“(b) not more than 17 ordinary judges, each of whom shall be styled ‘Breitheamh den Chúirt Achomhairc’ (‘Judge of the Court of Appeal’).”.
+
+## 3. Amendment of Sixth Schedule to Courts (Supplemental Provisions) Act 1961
+
+**3.** The Sixth Schedule to the Courts (Supplemental Provisions) Act 1961 is amended in paragraph 2(1) by the substitution of the following clause for clause (b) (amended by section 5 of the Courts and Court Officers (Amendment) Act 2007):
+
+“(b) Where, at the time of the appointment of a person to be a judge of the District Court, there are 28 judges of the District Court not permanently assigned to particular districts, the Government shall assign that person permanently to a particular district.”.
+
+## 4. Number of ordinary judges of High Court
+
+**4.** Section 9 (amended by section 8 of the Civil Law (Miscellaneous Provisions) Act 2021) of the Act of 1995 is amended by the substitution of the following subsection for subsection (1):
+
+“(1) Subject to subsection (2), the number of ordinary judges of the High Court shall not be more than 48.”.
+
+## 5. Number of ordinary judges of Circuit Court
+
+**5.** The Act of 1995 is amended by the substitution of the following section for section 10 (amended by section 98(1) of the Assisted Decision-Making (Capacity) (Amendment) Act 2022):
+
+“10. The number of ordinary judges of the Circuit Court shall not be more than 45.”.
+
+## 6. Number of judges of District Court
+
+**6.** Section 11 of the Act of 1995 is amended by the substitution of the following subsection for subsection (1) (amended by section 32 of the Civil Law (Miscellaneous Provisions) Act 2008):
+
+“(1) The number of judges of the District Court in addition to the President of the District Court shall not be more than 71.”.
+
+## 7. Short title and collective citation
+
+**7.** (1) This Act may be cited as the Courts Act 2023.
+
+(2) The Courts (Supplemental Provisions) Acts 1961 to 2021 and *sections 3*, *4*, *5* and *6* may be cited together as the Courts (Supplemental Provisions) Acts 1961 to 2023.

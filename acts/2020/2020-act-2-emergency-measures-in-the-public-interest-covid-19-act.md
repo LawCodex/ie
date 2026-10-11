@@ -1,0 +1,2061 @@
+---
+title: "Emergency Measures in the Public Interest (Covid-19) Act 2020"
+identifier: "eli/2020/act/2"
+type: act
+jurisdiction: ie
+language: en
+number: 2
+year: 2020
+date: 2020-03-27
+last_amended: 2024-11-12
+status: in_force
+version: revised
+revised_by: "Law Reform Commission"
+as_enacted: "https://www.irishstatutebook.ie/eli/2020/act/2/enacted/en/html"
+source: "https://revisedacts.lawreform.ie/eli/2020/act/2/revised/en/html"
+retrieved: 2026-10-11
+---
+
+# Emergency Measures in the Public Interest (Covid-19) Act 2020
+
+An Act, to make exceptional provision, in the public interest and having regard to the manifest and grave risk to human life and public health posed by the spread of the disease known as Covid-19 and in order to mitigate, where practicable, the effect of the spread of that disease and to mitigate the adverse economic consequences resulting, or likely to result from the spread of that disease and to mitigate its impact on the administration of vital public service functions; to make provision in relation to the operation of certain provisions of the Residential Tenancies Act 2004 during the period of 3 months following the enactment of this Act and such further period (if any) as may be specified by order of the Government; to amend the Planning and Development Act 2000 to provide, in certain circumstances, for the disregard of a certain period in the calculation of time limits referred to in that Act and in certain other enactments; to provide for the registration of certain health and social care professionals to fulfil the need for medical resources to alleviate the risk from Covid-19 to human life and public health and for those and related purposes to amend the Dentists Act 1985, the Health and Social Care Professionals Act 2005, the Pharmacy Act 2007, the Medical Practitioners Act 2007, and the Nurses and Midwives Act 2011; to make provision, due to the exigencies of the public health emergency posed by the spread of Covid-19, for certain amendments and modifications to the provisions of the Mental Health Act 2001 relating to the carrying out of reviews under section 18 of that Act; to amend the Defence Act 1954 to enable the re-enlistment of formerly enlisted persons; to enable the provision of a temporary wage subsidy to certain employees; to make provision in relation to the operation of certain provisions of the Redundancy Payments Act 1967 for a certain period following the enactment of this Act and such further period (if any) as may be specified by order of the Government and, for that purpose, to amend the Redundancy Payments Act 1967; to make provision allowing for the modified operation of certain aspects of the civil registration system, if required, for a limited period and such further period (if any) as may be specified by order of the Government, including by way of allowing certain persons to provide particulars to a registrar in writing rather than by appearing in person, and by allowing the staff of an tArd-Chláraitheoir to perform the functions of certain registrars in circumstances where the civil registration system is not available or able to perform its statutory functions as it ordinarily would be, and for those purposes, to amend the Civil Registration Act 2004; and to provide for related matters.
+
+[27*th* *March*, 2020]
+
+WHEREAS an emergency has arisen in the State by virtue of the spread of the disease known as Covid-19;
+
+AND WHEREAS the State is and its citizens are, in significant respects, highly exposed to the effect of the spread of that disease; and having regard to the constitutional duty of the State to respect and, as far as practicable, by its laws to defend and vindicate the rights of citizens to life and to bodily integrity, it is necessary to introduce a range of extraordinary measures and safeguards to prevent, minimise, limit or reduce the risk of persons being infected with that disease;
+
+AND WHEREAS the emergency that has arisen is of such a character that it is necessary for compelling reasons of public interest and for the common good that extraordinary measures should be taken to mitigate, to the extent practicable, the adverse economic consequences resulting, or likely to result, from the spread of that disease and to mitigate its impact on the administration of vital public service functions;
+
+**Be it enacted by the Oireachtas as follows:**
+
+## PART 1 — Preliminary and General
+
+### 1. Short title, commencement and operation
+
+**1.** (1) This Act may be cited as the Emergency Measures in the Public Interest (Covid-19) Act 2020.
+
+(2) (a) *Part 3* shall come into operation on such day as the Minister for Housing, Planning and Local Government may by order appoint.
+
+(b) *Part 5* shall come into operation on the 30th day of March 2020.
+
+(c) The amendments effected by *Part 8* shall be deemed to have come into operation on the 13th day of March 2020.
+
+(d) The amendments effected by *Part 9* shall be deemed to have come into operation on the 13th day of March 2020.
+
+F1[(3) The amendments to, and other modifications of, the Mental Health Act 2001 effected by *Part 5* continue in operation for the period beginning on the 10th day of June 2021 and ending on the later of—
+
+(a) the 9th day of November 2021, or
+
+(b) the date that is specified in a resolution passed by each House of the Oireachtas under *subsection (4)*.]
+
+F2[(4) Each House of the Oireachtas may, before the 9th day of November 2021, pass a resolution to continue in operation the amendments to, and other modifications of, the Mental Health Act 2001 effected by *Part 5* for such period, not exceeding 3 months, that ends on a date specified in the resolution.
+
+(5) For the avoidance of doubt, it is hereby declared that, on and from the 9th day of November 2021 or such later date as is specified in a resolution passed by each House of the Oireachtas under *subsection (4)*, the Mental Health Act 2001 shall apply and have effect as it applied and had effect immediately before the coming into operation of *Part 5* but subject to any amendments made by any other Act of the Oireachtas after such coming into operation.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F1: Substituted (10.06.2021) by *Health and Criminal Justice (Covid-19) (Amendment) Act 2021* (12/2021), s. 2, commenced as per s. 5(2).
+>
+> F2: Inserted (10.06.2021) by *Health and Criminal Justice (Covid-19) (Amendment) Act 2021* (12/2021), s. 2, commenced as per s. 5(2).
+>
+> **Editorial Notes:**
+>
+> E1: Power pursuant to subs. (2)(a) exercised (29.03.2020) by *Emergency Measures in the Public Interest (Covid-19) Act 2020 (Part 3) (Commencement) Order 2020* (S.I. No. 100 of 2020).
+>
+> 2\. The day on which this Order is made is appointed to be the day on which Part 3 of the *Emergency Measures in the Public Interest (Covid-19) Act 2020* (No. 2 of 2020) shall come into operation.
+
+### 2. Definition
+
+**2.** In this Act, “Covid-19” means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 (S.I. No. 390 of 1981) or any variant of the disease so specified as an infectious disease in those Regulations.
+
+## PART 2 — Operation of Residential Tenancies Act 2004
+
+### 3. Interpretation
+
+**3.** (1) In this Part—
+
+“Act of 2004” means the Residential Tenancies Act 2004;
+
+“emergency period” means—
+
+(a) the period of 3 months commencing on the enactment of this Act, and
+
+(b) such other period (if any) as may be specified by order under *section 4*.
+
+(2) In this Part—
+
+(a) references to landlord shall be construed as including references to licensor within the meaning of section 37 of the Residential Tenancies (Amendment) Act 2019,
+
+(b) references to tenant shall be construed as including references to licensee within such meaning, and
+
+(c) references to tenancy shall be construed as including references to licence within such meaning.
+
+(3) A word or expression that is used in this Part and in the Act of 2004 shall have the meaning in this Part that it has in that Act.
+
+### 4. Extension of emergency period
+
+**4.** (1) The Government may, on the request of the Minister for Housing, Planning and Local Government made—
+
+(a) after consultation with the Minister for Health, and
+
+(b) with the consent of the Minister for Public Expenditure and Reform,
+
+from time to time, by order extend the emergency period for such period as they consider appropriate if they are satisfied that, having regard to—
+
+(i) the threat to public health presented by Covid-19,
+
+(ii) the highly contagious nature of that disease, and
+
+(iii) the need to restrict the movement of persons in order to prevent the spread of the disease among the population,
+
+the making of such order is in the public interest.
+
+(2) Every order under this Part shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which that House sits after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+> **Annotations:**
+>
+> **Editorial Notes:**
+>
+> E2: Power pursuant to subs. (1) exercised (20.07.2020) by *Emergency Measures in the Public Interest (Covid-19) Act 2020 (Section 4) (No. 2) Order 2020* (S.I. No. 254 of 2020).
+>
+> E3: Power pursuant to subs. (1) exercised (19.06.2020) by *Emergency Measures in the Public Interest (Covid-19) Act 2020 (Section 4) Order 2020* (S.I. No. 224 of 2020).
+
+### 5. Notices of termination under Act of 2004
+
+**5.** (1) (a) A landlord shall not serve a notice of termination in relation to the tenancy of a dwelling during the emergency period.
+
+(b) A tenant who, but for the operation of *subsection (1)*, would not acquire any rights under Part 4 of the Act of 2004 shall not, by virtue of such operation, acquire such rights.
+
+(2) (a) Subject to *paragraph (b)*, where a notice of termination (that cites as a reason for the termination concerned the ground specified in paragraph 1 of the Table to section 34 of the Act of 2004) served before the emergency period specifies a termination date that falls during or after the emergency period, the termination date under that notice shall be deemed to be the revised termination date.
+
+(b) If a dispute or complaint in respect of a matter that occasioned the giving of a notice to which *paragraph (a)* applies is referred to the Board in accordance with section 78 of the Act of 2004, that paragraph shall cease to have effect in relation to that notice—
+
+(i) upon the expiration of 10 days from the making of a determination by an adjudicator under subsection (4) of section 97 of the Act of 2004 in relation to the dispute or complaint concerned save where an appeal from that determination is brought before the Tribunal, or
+
+(ii) upon the making of a determination by the Tribunal under section 108 (other than a decision referred to in subsection (2) of that section) of the Act of 2004 in respect of such an appeal.
+
+(3) Where a notice of termination (other than a notice of termination to which *subsection (1)* applies) referred to in section 34 of the Act of 2004 served before the emergency period specifies a termination date that falls during or after the emergency period, the termination date under that notice shall be deemed to be the revised termination date.
+
+(4) (a) Where a notice of termination in respect of a tenancy of a dwelling of less than 6 months duration served before the emergency period specifies a termination date that falls during or after the emergency period, the termination date under that notice shall be deemed to be the revised termination date.
+
+(b) A tenant shall not, by virtue of the operation of this subsection, acquire any rights under Part 4 of the Act of 2004.
+
+(5) Section 67 of the Act of 2004 shall have effect during the emergency period as if, in *subsection (3)*, “28 days” were substituted for “14 days”.
+
+F3[(6) In this section "revised termination date" means, in relation to a notice of termination served before the emergency period, the later of the following dates:
+
+(a) the date immediately following the expiration of a period that consists of the aggregate of—
+
+(i) the period of notice that remained unexpired on the commencement of the emergency period, and
+
+(ii) the emergency period;
+
+or
+
+(b) 10 August 2020.]
+
+(7) F9[...]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F3, F3, F4, F4, F5, F5, F6, F6, F7, F7, F8, F8: Substituted (1.08.2020) by *Residential Tenancies and Valuation Act 2020* (7/2020), s. 13(a), commenced on enactment.
+>
+> F9: Deleted (1.08.2020) by *Residential Tenancies and Valuation Act 2020* (7/2020), s. 13(b), commenced on enactment.
+
+### 6. Prohibition on rent increases under Act of 2004
+
+**6.** Notwithstanding the Act of 2004, an increase in the rent under the tenancy of a dwelling—
+
+(a) that, but for this section, would take effect during the emergency period shall not take effect during that period, and
+
+(b) shall not be payable in respect of any period falling during the emergency period.
+
+### 7. Proceedings before Tenancy Tribunal
+
+**7.** Subsection (1) of section 106 of the Act of 2004 shall not have effect during the emergency period.
+
+### 8. Entitlement to remain in occupation of dwelling during emergency period
+
+**8.** (1) A tenant—
+
+(a) upon whom a notice of termination was served in accordance with the Act of 2004 before the commencement of the emergency period, and
+
+(b) who has remained in occupation of the dwelling to which the notice relates from the expiration of the required period of notice (whether or not with the consent of the landlord concerned) until the date of the commencement of the emergency period,
+
+shall be entitled to remain in occupation of the dwelling until the expiration of the emergency period subject to terms and conditions that shall be the same as the terms and conditions that applied in respect of the tenancy of the dwelling concerned immediately before the service of that notice, unless—
+
+(i) the tenant is required to vacate the dwelling in accordance with a determination of an adjudicator under subsection (4) of section 97 of the Act of 2004, or
+
+(ii) where an appeal from that determination is brought, the tenant is required to vacate the dwelling in accordance with a determination of the Tribunal under section 108 of that Act.
+
+(2) A person shall not, by virtue of the operation of this section, acquire any rights under Part 4 of the Act of 2004.
+
+## PART 3 — Calculation of Time Limits Relating to Planning and Development
+
+### 9. Calculation of time limits during emergency
+
+**9.**The Planning and Development Act 2000 is amended by the insertion of the following section after section 251:
+
+**“251A.** (1) Where calculating any appropriate period, specified period or other time limit referred to in the following Acts or provisions, or in any regulations made under those Acts or provisions, the period referred to in subsection (2) shall be disregarded:
+
+(a) sections 4(4), 6 and 17(6) of the Building Control Act 1990;
+
+(b) the Derelict Sites Act 1990;
+
+(c) this Act;
+
+(d) Part 2 of the Urban Regeneration and Housing Act 2015;
+
+(e) Chapter 1 of Part 2 of the Planning and Development (Housing) and Residential Tenancies Act 2016.
+
+(2) The period to be disregarded under subsection (1) is the period beginning on the date *section 9* of the *Emergency Measures in the Public Interest (Covid-19) Act 2020* comes into operation and, subject to subsection (6), ending on the date that shall be specified by order under subsection (3) or that may be specified by order under subsection (4).
+
+(3) Immediately following the coming into operation of *section 9* of the *Emergency Measures in the Public Interest (Covid-19) Act 2020* the Government shall, at the request of the Minister made after consultation with the Minister for Health and with the consent of the Minister for Public Expenditure and Reform, by order specify the date on which the period to be disregarded under subsection (1) shall end.
+
+(4) The Government, at the request of the Minister made after consultation with the Minister for Health and with the consent of the Minister for Public Expenditure and Reform, may by order—
+
+(a) before the expiration of the period specified in the order under subsection (3), specify a date later than the date specified in that order on which the period to be disregarded under subsection (1) shall end, and
+
+(b) thereafter, from time to time, but before the expiration of the period specified in the order made under paragraph (a), or where an order has been previously made under this paragraph, before the expiration of the period specified in the last order so made, specify a date later than the date specified in that order, on which the period to be disregarded under subsection (1) shall end.
+
+(5) The Government, in deciding the date that shall be specified by order under subsection (3), or that may be specified by order under subsection (4), shall have regard to—
+
+(a) the nature and potential impact of Covid-19 on individuals, society and the State,
+
+(b) the capacity of the State to respond to the risk to public health posed by the spread of Covid-19,
+
+(c) the policies and objectives of the Government to protect the health and welfare of members of the public,
+
+(d) the need to mitigate the economic effects of the spread of Covid-19,
+
+(e) the need to ensure the effective operation of the planning system and provide, in the interest of the common good, for proper planning and sustainable development,
+
+(f) the need to ensure the effective operation of the building control system and to protect the health, safety and welfare of persons using buildings, and
+
+(g) the need to mitigate the likely impact of Covid-19 on the availability of the resources of the State to perform functions relating to the planning and building control systems.
+
+(6) The date that shall be specified by order under subsection (3), or that may be specified by order under subsection (4), as the date on which the period to be disregarded under subsection (1) shall end, shall be a date not later than the 9th day of November 2020.
+
+(7) In this section ‘Covid-19’ means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 (S.I. No. 390 of 1981) or any variant of the disease so specified as an infectious disease in those Regulations.”.
+
+## PART 4 — Amendments to Certain Acts Regulating Health and Social Care Professions
+
+### 10. Special measures registration having regard to Covid-19
+
+**10.**The Dentists Act 1985 is amended by the insertion of the following section after section 68:
+
+**“69.** (1) A previous registrant may make an application to the Council to be registered in the register pursuant to this section.
+
+(2) Subject to subsections (3) to (8), the provisions of this Act shall, with all necessary modifications, apply to—
+
+(a) a section 69 registration as they apply to registration in the register effected by another section of this Act, and
+
+(b) a section 69 registrant as they apply to a registered dentist who is not a section 69 registrant.
+
+(3) No fee (including a retention fee) shall be charged for, or relating to, a section 69 application or a section 69 registration.
+
+(4) Where a previous registrant’s name is entered in the register pursuant to a section 69 registration, the Council shall enter in the register, or cause to be entered in the register, the term ‘(section 69 registration)’ immediately after that name to indicate that his or her registration arises from the operation of this section.
+
+(5) (a) Nothing in this section shall be construed to prevent a previous registrant’s name from being entered in the register pursuant to the operation of another section of this Act, whether or not his or her name is already entered in the register pursuant to a section 69 registration.
+
+(b) Where a previous registrant’s name is entered in the register pursuant to the operation of this Act (other than this section) when his or her name is already entered in the register pursuant to a section 69 registration, the Council shall remove from the register, or cause to be removed from the register, the latter entry at the same time as the first-mentioned entry is made.
+
+(c) The refusal of a section 69 registration for a previous registrant shall not prevent that registrant from making an application under another section of this Act to be registered in the register.
+
+(6) (a) Subject to paragraph (b), a section 69 registrant who has not practised dentistry in the State or elsewhere for 2 years or more immediately before he or she became such registrant shall not practise dentistry.
+
+(b) Paragraph (a) shall not apply to a person who ceases to be a section 69 registrant by virtue of the operation of subsection (5)(b).
+
+(7) (a) Subject to subsection (8), each section 69 registration that is still in force on the 31st day of July 2020, shall, on and after that date, cease to have effect.
+
+(b) The Council shall remove from the register, or cause to be removed from the register, on the date referred to in paragraph (a), or as soon as is practicable thereafter, each name that was entered in the register pursuant to a section 69 registration.
+
+(8) (a) The Minister may, by order, specify a different date for the purposes of subsection (7) (including a different date for a previous different date specified in an order made under this paragraph) and, if the Minister so specifies, that subsection shall be construed, with all necessary modifications, to take account of that first-mentioned date.
+
+(b) Section 63(2) shall, with all necessary modifications, apply to an order made under paragraph (a) as that section applies to a regulation made under this Act.
+
+(9) In this section—
+
+‘previous registrant’ means a former registered dentist whose name was removed from the register pursuant to section 32(1);
+
+‘section 69 application’ means an application under subsection (1);
+
+‘section 69 registrant’ means a registered dentist who is such pursuant to—
+
+(a) the Council’s determination of a section 69 application, or
+
+(b) a decision (howsoever called) of the High Court arising from the Council’s determination of a section 69 application;
+
+‘section 69 registration’ means a registration effected in the register pursuant to—
+
+(a) the Council’s determination of a section 69 application, or
+
+(b) a decision (howsoever called) of the High Court arising from the Council’s determination of a section 69 application.”.
+
+### 11. Special measures registration having regard to Covid-19
+
+**11.** The Health and Social Care Professionals Act 2005 is amended by the insertion of the following section after section 97:
+
+**“98.** (1) (a) A previous registrant of a designated profession (in this section referred to as the ‘relevant designated profession’) may make an application to the registration board of that profession (in this section referred to as the ‘relevant board’) to again become a member of that profession.
+
+(b) The section 98 application must be in the form and contain the information required by the chief executive officer.
+
+(2) Subject to subsections (3) to (7), the provisions of this Act shall, with all necessary modifications, apply to—
+
+(a) a section 98 registration as they apply to registration in the relevant designated profession effected by another section of this Act, and
+
+(b) a section 98 registrant as they apply to a registrant in the relevant designated profession who is not a section 98 registrant.
+
+(3) No fee shall be charged for, or relating to—
+
+(a) a section 98 application, or
+
+(b) a section 98 registration or the retention of such registration.
+
+(4) Where a previous registrant’s name is entered in the register for the relevant designated profession pursuant to a section 98 registration, the chief executive officer shall enter in that register, or cause to be entered in that register, the term ‘(section 98 registration)’ immediately after that name to indicate that his or her registration in that register arises from the operation of this section.
+
+(5) (a) Nothing in this section shall be construed to prevent a previous registrant’s name from being entered in the register for the relevant designated profession pursuant to the operation of another section of this Act, whether or not his or her name is already entered in that register pursuant to a section 98 registration.
+
+(b) Where a previous registrant’s name is entered in the register for the relevant designated profession pursuant to the operation of this Act (other than this section) when his or her name is already entered in that register pursuant to a section 98 registration, the chief executive officer shall remove from that register, or cause to be removed from that register, the latter entry at the same time as the first-mentioned entry is made.
+
+(c) The refusal of a section 98 registration for a previous registrant shall not prevent that registrant from making an application under another section of this Act to be registered in the register for the relevant designated profession.
+
+(6) (a) Subject to subsection (7), each section 98 registration that is still in force on the 31st day of July 2020, shall, on and after that date, cease to have effect.
+
+(b) The chief executive officer shall remove from the register for the relevant designated profession, or cause to be removed from that register, on the date referred to in paragraph (a), or as soon as is practicable thereafter, each name that was entered in that register pursuant to a section 98 registration.
+
+(7) (a) The Minister may, by order, specify a different date for the purposes of subsection (6) (including a different date for a previous different date specified in an order made under this paragraph) and, if the Minister so specifies, that subsection shall be construed, with all necessary modifications, to take account of that first-mentioned date.
+
+(b) Section 95(4) to (6) shall, with all necessary modifications, apply to an order made under paragraph (a) as that section applies to a regulation made under a provision of this Act.
+
+(8) In this section—
+
+‘previous registrant’ means a former registrant whose name was removed from the register for the relevant designated profession pursuant to section 39(1) or 40(1);
+
+‘section 98 application’ means an application under subsection (1);
+
+‘section 98 registrant’ means a registrant who is such pursuant to—
+
+(a) the chief executive officer’s determination of a section 98 application, or
+
+(b) a decision (howsoever called) of the Court arising from the chief executive officer’s determination of a section 98 application;
+
+‘section 98 registration’ means a registration effected in the register for the relevant designated profession pursuant to—
+
+(a) the chief executive officer’s determination of a section 98 application, or
+
+(b) a decision (howsoever called) of the Court arising from the chief executive officer’s determination of a section 98 application.”.
+
+### 12. Special measures registration having regard to Covid-19
+
+**12.** The Pharmacy Act 2007 is amended by the insertion of the following section after section 76:
+
+**“77.** (1) A previous registrant may make an application to the Council to be registered in the register pursuant to this section.
+
+(2) Subject to subsections (3) to (7), the provisions of this Act shall, with all necessary modifications, apply to—
+
+(a) a section 77 registration as they apply to a registration in the register effected by another section of this Act, and
+
+(b) a section 77 registrant as they apply to a person registered in the register who is not a section 77 registrant.
+
+(3) No fee shall be charged for, or relating to—
+
+(a) a section 77 application, or
+
+(b) a section 77 registration or the retention of such registration.
+
+(4) Where a previous registrant’s name is entered in the register pursuant to a section 77 registration, the Council shall enter in the register, or cause to be entered in the register, the term ‘(section 77 registration)’ immediately after that name to indicate that his or her registration in the register arises from the operation of this section.
+
+(5) (a) Nothing in this section shall be construed to prevent a previous registrant’s name from being entered in the register pursuant to the operation of another section of this Act, whether or not his or her name is already entered in the register pursuant to a section 77 registration.
+
+(b) Where a previous registrant’s name is entered in the register pursuant to the operation of this Act (other than this section) when his or her name is already entered in the register pursuant to a section 77 registration, the Council shall cancel from the register, or cause to be cancelled from the register, the latter entry at the same time as the first-mentioned entry is made.
+
+(c) The refusal of a section 77 registration for a previous registrant shall not prevent that registrant from making an application under another section of this Act to be registered in the register.
+
+(6) (a) Subject to subsection (7), each section 77 registration that is still in force on the 31st day of July 2020, shall, on and after that date, cease to have effect.
+
+(b) The Council shall cancel from the register, or cause to be cancelled from the register, on the date referred to in paragraph (a), or as soon as is practicable thereafter, each name that was entered in the register pursuant to a section 77 registration.
+
+(7) (a) The Minister may, by order, specify a different date for the purposes of subsection (6) (including a different date for a previous different date specified in an order made under this paragraph) and, if the Minister so specifies, that subsection shall be construed, with all necessary modifications, to take account of that first-mentioned date.
+
+(b) Section 76(1) and (2) shall, with all necessary modifications, apply to an order made under paragraph (a) as that section applies to regulations referred to in that section.
+
+(8) In this section—
+
+‘previous registrant’ means a former registered pharmacist or registered pharmaceutical assistant, as appropriate, who was previously registered in the register and who was cancelled from the register pursuant to section 59 or 60;
+
+‘section 77 application’ means an application under subsection (1);
+
+‘section 77 registrant’ means a person registered in the register pursuant to—
+
+(a) the Council’s determination of a section 77 application, or
+
+(b) a decision (howsoever called) of the High Court arising from the Council’s determination of a section 77 application;
+
+‘section 77 registration’ means a registration effected in the register pursuant to—
+
+(a) the Council’s determination of a section 77 application, or
+
+(b) a decision (howsoever called) of the High Court arising from the Council’s determination of a section 77 application.”.
+
+### 13. Amendment of Medical Practitioners Act 2007 - insertion of sections 110 and 111
+
+**13.** The Medical Practitioners Act 2007 is amended by the insertion of the following sections after section 109:
+
+**“Special measures registration having regard to Covid-19**
+
+**110.** (1) A previous registrant may make an application to the Council to be registered pursuant to this section.
+
+(2) Subject to subsections (3) to (7), the provisions of this Act shall, with all necessary modifications, apply to—
+
+(a) a section 110 registration as they apply to a registration in the register effected by another section of this Act, and
+
+(b) a section 110 registrant as they apply to a registered medical practitioner who is not a section 110 registrant.
+
+(3) No fee shall be charged for, or relating to—
+
+(a) a section 110 application, or
+
+(b) a section 110 registration or the retention of such registration.
+
+(4) Where a previous registrant’s name is entered in the register pursuant to a section 110 registration, the Council shall enter in the register, or cause to be entered in the register, the term ‘(section 110 registration)’ immediately after that name to indicate that his or her registration arises from the operation of this section.
+
+(5) (a) Nothing in this section shall be construed to prevent a previous registrant’s name from being entered in the register pursuant to the operation of another section of this Act, whether or not his or her name is already entered in the register pursuant to a section 110 registration.
+
+(b) Where a previous registrant’s name is entered in the register pursuant to the operation of this Act (other than this section) when his or her name is already entered in the register pursuant to a section 110 registration, the Council shall remove from the register, or cause to be removed from the register, the latter entry at the same time as the first-mentioned entry is made.
+
+(c) The refusal of a section 110 registration for a previous registrant shall not prevent that registrant from making an application under another section of this Act to be registered.
+
+(6) (a) Subject to subsection (7), each section 110 registration that is still in force on the 31st day of July 2020, shall, on and after that date, cease to have effect.
+
+(b) The Council shall remove from the register, or cause to be removed from the register, on the date referred to in paragraph (a), or as soon as is practicable thereafter, each name that was entered in the register pursuant to a section 110 registration.
+
+(7) (a) The Minister may, by order, specify a different date for the purposes of subsection (6) (including a different date for a previous different date specified in an order made under this paragraph) and, if the Minister so specifies, that subsection and section 111(2) shall be construed, with all necessary modifications, to take account of that first-mentioned date.
+
+(b) Section 8(2) shall, with all necessary modifications, apply to an order made under paragraph (a) as that section applies to an order made under section 8.
+
+(8) In this section—
+
+‘previous registrant’ means a former registered medical practitioner whose name was removed from the register;
+
+‘section 110 application’ means an application under subsection (1);
+
+‘section 110 registrant’ means a registered medical practitioner who is such pursuant to—
+
+(a) the Council’s determination of a section 110 application, or
+
+(b) a decision (howsoever called) of the Court arising from the Council’s determination of a section 110 application;
+
+‘section 110 registration’ means a registration effected pursuant to—
+
+(a) the Council’s determination of a section 110 application, or
+
+(b) a decision (howsoever called) of the Court arising from the Council’s determination of a section 110 application.
+
+**Modification of operation of section 105(1)(a)**
+
+**111.** (1) Subject to subsection (2), a relevant individual is not, for the purposes of section 105(1)(a), practising medicine in contravention of a provision of this Act if he or she is acting—
+
+(a) under the direction and control of a registered medical practitioner, or
+
+(b) in accordance with a direction in writing given by a registered medical practitioner to that relevant individual.
+
+(2) This section shall cease to have effect on the date on which a section 110 registration (within the meaning of section 110(8)) ceases to have effect pursuant to section 110(6).
+
+(3) In this section, ‘relevant individual’ means—
+
+(a) a dentist registered under the Dentists Act 1985,
+
+(b) a person registered under the Health and Social Care Professionals Act 2005 to practise a profession designated under that Act,
+
+(c) a pharmacist or a pharmaceutical assistant registered under the Pharmacy Act 2007,
+
+(d) a nurse or midwife registered under the Nurses and Midwives Act 2011, or
+
+(e) a person registered in the register under the Pre-Hospital Emergency Care Council (Establishment) Order 2000 (S.I. No. 109 of 2000).”.
+
+### 14. Special measures registration having regard to Covid-19
+
+**14.** The Nurses and Midwives Act 2011 is amended by the insertion of the following section after section 107:
+
+**“108.** (1) A previous registrant may make an application to the Board to be registered in the register of nurses and midwives pursuant to this section.
+
+(2) Subject to subsections (3) to (7), the provisions of this Act shall, with all necessary modifications, apply to—
+
+(a) a section 108 registration as they apply to a registration in the register of nurses and midwives effected by another section of this Act, and
+
+(b) a section 108 registrant as they apply to a registered nurse or registered midwife, as appropriate, who is not a section 108 registrant.
+
+(3) No fee shall be charged for, or relating to—
+
+(a) a section 108 application, or
+
+(b) a section 108 registration or the retention of such registration.
+
+(4) Where a previous registrant’s name is entered in the register of nurses and midwives pursuant to a section 108 registration, the Board shall enter in that register, or cause to be entered in that register, the term ‘(section 108 registration)’ immediately after the name to indicate that his or her registration arises from the operation of this section.
+
+(5) (a) Nothing in this section shall be construed to prevent a previous registrant’s name from being entered in the register of nurses and midwives pursuant to the operation of another section of this Act, whether or not his or her name is already entered in that register pursuant to a section 108 registration.
+
+(b) Where a previous registrant’s name is entered in the register of nurses and midwives pursuant to the operation of this Act (other than this section) when his or her name is already entered in that register pursuant to a section 108 registration, the Board shall remove from that register, or cause to be removed from that register, the latter entry at the same time as the first-mentioned entry is made.
+
+(c) The refusal of a section 108 registration for a previous registrant shall not prevent that registrant from making an application under another section of this Act to be registered in the register of nurses and midwives.
+
+(6) (a) Subject to subsection (7), each section 108 registration that is still in force on the 31st day of July 2020, shall, on and after that date, cease to have effect.
+
+(b) The Board shall remove from the register of nurses and midwives, or cause to be removed from that register, on the date referred to in paragraph (a), or as soon as is practicable thereafter, each name that was entered in that register pursuant to a section 108 registration.
+
+(7) (a) The Minister may, by order, specify a different date for the purposes of subsection (6) (including a different date for a previous different date specified in an order made under this paragraph), and if the Minister so specifies, that subsection shall be construed, with all necessary modifications, to take account of that first-mentioned date.
+
+(b) Section 3(3) shall, with all necessary modifications, apply to an order made under paragraph (a) as that section applies to a regulation made under this Act.
+
+(8) In this section—
+
+‘previous registrant’ means a former registered nurse or former registered midwife, as appropriate, whose name was removed from the register of nurses and midwives pursuant to section 50 or 77;
+
+‘section 108 application’ means an application under subsection (1);
+
+‘section 108 registrant’ means a registered nurse or registered midwife, as appropriate, who is such pursuant to—
+
+(a) the Board’s determination of a section 108 application, or
+
+(b) a decision (howsoever called) of the Court arising from the Board’s determination of a section 108 application;
+
+‘section 108 registration’ means registration in the register of nurses and midwives pursuant to—
+
+(a) the Board’s determination of a section 108 application, or
+
+(b) a decision (howsoever called) of the Court arising from the Board’s determination of a section 108 application.”.
+
+## PART 5 — Amendments to Mental Health Act 2001
+
+### 15. Definition (Part 5)
+
+**15.** In this Part, “Act of 2001” means the Mental Health Act 2001.
+
+### 16. Exigencies of public health emergency
+
+**16.** The Act of 2001 is amended by the insertion of the following section after section 2:
+
+**“2A.** (1) A reference in this Act to the exigencies of the public health emergency is a reference to the exigencies of the public health emergency posed by the spread of Covid-19 and, in particular, to:
+
+(a) the manifest and grave risk to human life and public health posed by the spread of Covid-19;
+
+(b) the necessity, for compelling reasons of public interest and for the common good, for measures and safeguards to prevent, minimise or limit the risk of persons being infected with Covid-19;
+
+(c) the effect, on the availability of consultant psychiatrists and other persons to perform functions under this Act, of the spread of Covid-19 and of the deployment of the resources of the health services in order to—
+
+(i) prevent, minimise or limit the risk of persons being infected with Covid-19,
+
+(ii) test persons for Covid-19, and
+
+(iii) provide care and treatment to persons infected with Covid-19.
+
+(2) In this section, ‘Covid-19’ means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 (S.I. No. 390 of 1981) or any variant of the disease so specified as an infectious disease in those Regulations.”.
+
+### 17. Amendment of section 17 of Act of 2001
+
+**17.** Section 17 of the Act of 2001 is amended—
+
+(a) in subsection (1) —
+
+(i) by the substitution of the following paragraph for paragraph (c):
+
+“(c) direct in writing a member of the panel of consultant psychiatrists established under section 33(3)(b) or a consultant psychiatrist, other than the consultant psychiatrist responsible for the care and treatment of the patient concerned, to—
+
+(i) subject to subsection (6), examine the patient concerned,
+
+(ii) interview the consultant psychiatrist responsible for the care and treatment of the patient, and
+
+(iii) review the records relating to the patient,
+
+in order to determine in the interest of the patient whether the patient is suffering from a mental disorder and to give a report in writing within 14 days on the results of the examination, interview and review to the tribunal to which the matter has been referred and to give a copy of the report to the legal representative of the patient,”,
+
+and
+
+(ii) by the insertion of the following paragraph after paragraph (c):
+
+“(d) direct in writing the consultant psychiatrist responsible for the care and treatment of the patient concerned to give a report in writing to the tribunal to which the matter has been referred no earlier than the day before the date of the relevant sitting of the tribunal on his or her opinion as to whether the patient continues to suffer from a mental disorder and to give a copy of the report to the legal representative of the patient.”,
+
+(b) by the substitution of the following subsection for subsection (3):
+
+“(3) If the consultant psychiatrist to whom a direction has been given under subsection (1)(c) is unable to comply with the direction, he or she shall so notify the Commission in writing and the Commission shall give a direction under subsection (1)(c) to another member of the panel of consultant psychiatrists or another consultant psychiatrist other than the consultant psychiatrist responsible for the care and treatment of the patient concerned.”,
+
+and
+
+(c) by the insertion of the following subsections after subsection (4):
+
+“(5) It shall be a defence for a person who is charged with an offence under subsection (4) of failing to co-operate with a consultant psychiatrist in the performance of his or her functions under this section to prove that the failure was attributable to the exigencies of the public health emergency.
+
+(6) In the event that a consultant psychiatrist concerned is unable, due to the exigencies of the public health emergency, to carry out an examination, whether in person or by other appropriate means, under subsection (1)(c)(i), he or she shall set out the particular reasons for being unable to do so in his or her report to the tribunal under that subsection.”.
+
+### 18. Amendment of section 18 of Act of 2001
+
+**18.** Section 18 of the Act of 2001 is amended—
+
+(a) in subsection (3), by the substitution of “reports under section 17(1)(c) and (d)” for “report under section 17(1)(c)”,
+
+(b) by the insertion of the following subsections after subsection (3):
+
+“(3A) Subject to subsection (3B), where section 48(3A) applies, the tribunal concerned shall consult with a consultant psychiatrist, other than the consultant psychiatrists who prepared the reports under section 17(1)(c) and (d), for the purpose of making a decision under subsection (1) where—
+
+(a) the opinions expressed in the reports under section 17(1)(c) and (d) as to whether the patient is suffering from a mental disorder differ, or
+
+(b) it otherwise considers that it is necessary in the interest of the patient to do so.
+
+(3B) Subsection (3A) shall not apply where the tribunal is unable, due to the exigencies of the public health emergency, to consult in accordance with that subsection.”,
+
+and
+
+(c) by the substitution of the following subsection for subsection (4):
+
+“(4) The period referred to in subsection (2) may be extended by order by the tribunal concerned (either of its own motion or at the request of the patient concerned) for a further period of 14 days and thereafter may be further extended by it by order for a period of 14 days—
+
+(a) on the application of the patient if the tribunal is satisfied that it is in the interest of the patient, or
+
+(b) of its own motion if the tribunal, having due regard to the interest of the patient, is satisfied that it is necessary due to the exigencies of the public health emergency,
+
+and the relevant admission order, or as the case may be, renewal order shall continue in force until the date of the expiration of the order made under this subsection.”.
+
+### 19. Amendment of section 28 of Act of 2001
+
+**19.** Section 28 of the Act of 2001 is amended—
+
+(a) in subsection (3)(b), by the substitution of “entitled, subject to subsection (6),” for “entitled”,
+
+(b) in subsection (5), by the substitution of “sections 17 to 19 shall, subject to subsection (6),” for “sections 17 to 19 shall”, and
+
+(c) by the insertion of the following subsection after subsection (5):
+
+“(6) In the case of a review to which subsection (5) applies—
+
+(a) subsections (2) and (4) of section 18 shall not apply, and
+
+(b) a decision under section 18(1) shall be made as soon as is reasonably practicable having regard to—
+
+(i) the exigencies of the public health emergency, and
+
+(ii) the need for the tribunal to afford priority to reviews relating to patients who are being detained pursuant to an admission order or a renewal order.”.
+
+### 20. Amendment of section 48 of Act of 2001
+
+**20.** Section 48 of the Act of 2001 is amended by the insertion of the following subsections after subsection (3):
+
+“(3A) Notwithstanding subsections (2) and (3), where it appears to the Commission that, due to the exigencies of the public health emergency, a tribunal cannot be appointed in accordance with those subsections, it may appoint a tribunal consisting of one member who shall be a practising barrister or solicitor who has had not less than 7 years’ experience as a practising barrister or solicitor ending immediately before such appointment.
+
+(3B) Where subsection (3A) applies—
+
+(a) subsection (4) shall not have effect, and
+
+(b) the reference in subsection (8) to each member of the tribunal shall be construed as a reference to the member of the tribunal.”.
+
+### 21. Amendment of section 49 of Act of 2001
+
+**21.** Section 49 of the Act of 2001 is amended—
+
+(a) in subsection (2), by the insertion of the following paragraph after paragraph (c):
+
+“(ca) direct in writing any person, whose attendance before the tribunal would, but for the exigencies of the public health emergency, be ordinarily required, to provide a written statement to the tribunal on such matters as may be specified in the direction,”,
+
+(b) in subsection (4)(c), by the substitution of “paragraph (ca), (d) or (e) ” for “paragraph (c), (d) or (e) ”,
+
+(c) in subsection (6) —
+
+(i) by the substitution, in paragraph (a), of “date and time” for “date, time and place”, and
+
+(ii) by the substitution of the following paragraph for paragraph (c):
+
+“(c) enabling the patient the subject of the review to present his or her case to the tribunal by way of representations in writing made by the patient or his or her legal representative,”,
+
+and
+
+(d) by the insertion of the following subsection after subsection (11):
+
+“(12) Where section 48(3A) applies, the Commission shall, on the request of the tribunal, appoint a consultant psychiatrist with whom the tribunal may, on the date on which the tribunal is sitting and for the purposes of the review concerned, consult.”.
+
+### 22. Amendment of section 58 of Act of 2001
+
+**22.** The Act of 2001 is amended by the substitution of the following section for section 58:
+
+**“58.** (1) Psycho-surgery shall not be performed on a patient.
+
+(2) In this section ‘psycho-surgery’ means any surgical operation that destroys brain tissue or the functioning of brain tissue and which is performed for the purposes of ameliorating a mental disorder.”.
+
+### 23. Certain provisions of Act of 2001 not to have effect
+
+**23.** For so long as the amendments and other modifications effected by this Part are in operation, the following provisions of the Act of 2001 shall not have effect:
+
+(a) section 17(2);
+
+(b) subsections (2)(a), (b) and (c), (3), (4)(a) and (b), (6)(f), (g), (h) and (i) and (11) of section 49.
+
+### 24. Transitional provisions
+
+**24.** Where, before the date on which this Part comes into operation, a tribunal appointed under section 48 of the Act of 2001 held a sitting under section 49 of that Act for the purpose of a review by it under the Act and, by that date, the tribunal has not made its decision under section 18(1) of the Act in relation to the review, section 49 of the Act shall apply to any further sittings of the tribunal for the purposes of the review as if the amendments to and modifications of that section effected by this Part had not come into operation.
+
+## PART 6 — Amendment to Defence Act 1954: Re-enlistment of Formerly Enlisted Persons
+
+### 25. Interpretation
+
+**25.** In this Part, “Act of 1954” means the Defence Act 1954, as amended, extended and continued by subsequent enactments.
+
+### 26. Amendment of Defence Act 1954: re-enlistment of formerly enlisted persons
+
+**26.** The Defence Act 1954 is amended—
+
+(a) in section 19(b), by the substitution of “section 53, 53A or 54” for “section 53 or 54”,
+
+(b) by the insertion of the following section after section 53:
+
+**“Re-enlistment of formerly enlisted persons**
+
+**53A.** (1) A person who was formerly enlisted in the Permanent Defence Force—
+
+(a) who has served the full term of his or her original enlistment in accordance with section 53 (and, if applicable, any periods of service authorised under section 64 or 65), or
+
+(b) who was discharged in accordance with section 75,
+
+may, subject to subsection (2), be re-enlisted as an enlisted person of the Permanent Defence Force for a specified period as determined by the Minister.
+
+(2) A person may only be re-enlisted under subsection (1) where the Minister determines that this course of action will address a deficiency, within the Defence Forces, of necessary skills or expertise which, in his or her opinion, cannot be met through the use of existing personnel resources.
+
+(3) A person re-enlisted under subsection (1) may have that period of service extended for such further term as the Minister may determine, having regard to any deficiency within the Defence Forces of necessary skills or expertise which, in his or her opinion, cannot be met through the use of the then existing personnel resources.
+
+(4) Sections 53, 63, 64, 65 and 70 shall not apply to a person re-enlisted under this section.”,
+
+(c) in section 58(1), by the substitution of “section 53 or 53A” for “section 53”, and
+
+(d) in section 69, by the substitution of “section 53 or 53A” for “section 53”.
+
+### 27. Provisions governing return of reservists to employment
+
+**27.** (1) Where a member of the Reserve Defence Force as defined in the Act of 1954 (in this section referred to as the “reservist”) is called out on permanent service or in aid to the civil power, under the provisions of the Act of 1954, and such reservist was, at the time he or she was so called out, employed by another person (in this section referred to as the “former employer”) the following provisions shall apply:
+
+(a) on the expiry of the period during which the reservist was absent from work while called out on such permanent service or in aid to the civil power, the reservist shall be entitled to return to work as soon as reasonably practicable—
+
+(i) with the employer with whom he or she was working immediately before the start of that period or, where during the reservist’s absence from work there was a change of ownership of the undertaking in which he or she was employed immediately before her or his absence, with the owner (in this section referred to as the “successor”) of the undertaking at the expiry of the period of the absence,
+
+(ii) in the job which the reservist held immediately before the start of that period, and
+
+(iii) under the contract of employment under which the reservist was employed immediately before the start of that period, or, where a change of ownership such as is referred to in *subparagraph (i)* has occurred, under a contract of employment with the successor which is identical to the contract under which the reservist was employed immediately before the start of that period and (in either case) under terms and conditions—
+
+(I) not less favourable than those that would have been applicable to the reservist, and
+
+(II) that incorporate any improvement to the terms or conditions of employment to which the reservist would have been entitled,
+
+if he or she had not been so absent from work.
+
+(2) Where a reservist is entitled to return to work in accordance with *subsection (1)* but it is not reasonably practicable for the employer or the successor to permit the reservist to return to work in accordance with that subsection, the reservist shall, subject to provisions of this section, be entitled to be offered by the employer, the successor or an associated employer suitable alternative work under a new contract of employment.
+
+(3) Work under a new contract of employment constitutes suitable alternative work for the purposes of this section if—
+
+(a) the work required to be done under the contract is of a kind which is suitable in relation to the reservist concerned and appropriate for the reservist to do in the circumstances, and
+
+(b) the terms or conditions of the contract—
+
+(i) relating to the place where the work under it is required to be done, the capacity in which the reservist concerned is to be employed and any other terms or conditions of employment are not less favourable to the reservist than those of his or her contract of employment immediately before the start of the period of absence from work while on protective leave, and
+
+(ii) incorporate any improvement to the terms or conditions of employment to which the reservist would have been entitled if he or she had not been so absent from work during that period.
+
+(4) During a period of absence from work by a reservist who is called up on such permanent service or in aid to the civil power, the reservist shall be deemed to have been in employment of the employer or successor and, accordingly, while so absent, the reservist shall be treated as if he or she had not been so absent and such absence shall not affect any right, whether conferred by statute, contract or otherwise, and related to the reservist’s employment.
+
+(5) Entitlement to return to work in accordance with *subsection (1)* or to be offered suitable alternative work under *subsection (2)* shall be subject to a reservist who has been absent from work as a result of being called out on permanent service or in aid to the civil power having, as soon as reasonably practicable, notified in writing (or caused to be so notified) the employer or, where the reservist is aware of a change of ownership of the undertaking concerned, the successor of his or her intention to return to work and the date on which he or she expects to return to work.
+
+(6) Where, because of an interruption or cessation of work at a reservist’s place of employment, existing on the date specified in a notification under *subsection (4)* given by the reservist, it is unreasonable to expect the reservist to return to work on the date specified in the notification, the reservist may return to work instead when work resumes at the place of employment after the interruption or cessation, or as soon as reasonably practicable after such resumption.
+
+## PART 7 — Covid-19: Temporary Wage Subsidy Provisions
+
+### 28. Covid-19: temporary wage subsidy provisions
+
+**28.** (1) In this section—
+
+“Act” means the Taxes Consolidation Act 1997;
+
+F10["applicable period" means the period commencing on 26 March 2020 and ending on 31 August 2020;]
+
+“emoluments”, “employer” and “employee” have the same meanings as they have in Chapter 4 of Part 42 of the Act;
+
+“gross pay” has the same meaning as it has in the Regulations;
+
+“Minister” means the Minister for Finance;
+
+“Regulations” means the Income Tax (Employments) Regulations 2018 (S.I. No. 345 of 2018);
+
+F11["specified employee", in relation to an employer, means—
+
+(a) an individual who was on the payroll of the employer as at 29 February 2020, and the following is the case, the employer—
+
+(i) has submitted to the Revenue Commissioners a notification or notifications of the payment of emoluments to the employee in February 2020 in accordance with Regulation 10 of the Regulations, and
+
+(ii) has submitted the return required under section 985G of the Act for the month of February 2020 on or before the return date (within the meaning of section 983 of the Act) for that month;
+
+or
+
+(b) an individual to whom *subsection (1A)* applies;]
+
+“temporary wage subsidy” shall be construed in accordance with *subsections (5)* and *(6)*.
+
+F17[(1A) This *subsection* applies to an individual who returns to work with his or her employer on or after 1 March 2020—
+
+(a) following a period of absence for which the individual was in receipt of maternity benefit, adoptive benefit, paternity benefit, parental benefit, health and safety benefit, parent’s benefit or illness benefit payable under the Social Welfare Acts, or a period of unpaid absence following on from and related to any such absence as aforesaid, or
+
+(b) having been on an apprenticeship and training course administered by An tSeirbhís Oideachais Leanúnaigh agus Scileanna in February 2020.]
+
+(2) This section shall apply where—
+
+(a) the business of an employer has been adversely affected by Covid-19 to a significant extent with the result that the employer is unable to pay to a specified employee the emoluments the employer would otherwise have normally paid to him or her,
+
+(b) notwithstanding the existence of the circumstances referred to in *paragraph (a)*, the employer has the firm intention of continuing to employ the specified employee (and to pay to him or her emoluments accordingly) and is making best efforts to pay to the employee some of the emoluments referred to in *paragraph (a)* during the applicable period, and
+
+(c) the employer has satisfied the conditions specified in *subsection (4)*.
+
+(3) The business of an employer shall be treated as being adversely affected to the extent referred to in *subsection (2)(a)* where, in accordance with guidelines published by the Revenue Commissioners under *subsection (19)*, the employer demonstrates to the satisfaction of the Revenue Commissioners that, by reason of Covid-19 and the disruption that is being caused thereby to commerce, there will occur in the period of 14 March 2020 to 30 June 2020 at least a 25 per cent reduction either in the turnover of the employer’s business or in customer orders being received by the employer.
+
+(4) F18[The conditions referred to in *subsection (2)(c)* are that, on or before 31 July 2020]—
+
+(a) the employer has logged on to the online system of the Revenue Commissioners (in this section referred to as “ROS”) in the MyEnquiries field using the tax reference number of the employer for the purposes of the operation of Chapter 4 of Part 42 of the Act and the Regulations,
+
+(b) having read the declaration referred to in ROS as the “Covid-19: Temporary Wage Subsidy Scheme” declaration, the employer has submitted that declaration to the Revenue Commissioners through ROS, and
+
+(c) the employer has provided details of the employer’s bank account on ROS in the “Manage bank accounts” and “Manage EFT” fields.
+
+(5) Where this section applies, then, following the notification by the employer of the payment of emoluments to a specified employee in the applicable period in accordance with Regulation 10 of the Regulations, the following provisions shall apply:
+
+(a) the Revenue Commissioners shall pay to the employer in relation to the specified employee a sum (in this section referred to as a “temporary wage subsidy”) of an amount determined in accordance with *subsection (6)*,
+
+(b) the payment referred to in *paragraph (a)* shall be made by way of bank transfer to the bank account of the employer, the details of which have been provided in accordance with *subsection (4)(c)*,
+
+(c) where, under *paragraph (a)*, a payment is required to be made to the employer in respect of each of 2 or more specified employees by the Revenue Commissioners, the payments under *paragraph (a)* may be aggregated by the Revenue Commissioners for the purposes of compliance with *paragraph (b)*,
+
+(d) on the payment of the emoluments to the specified employee which are the subject of the notification first-mentioned in this subsection by the employer, the employer shall include in that payment an additional amount equivalent to the temporary wage subsidy in relation to the specified employee,
+
+(e) notwithstanding any other provision of the Act, the additional amount paid by the employer to a specified employee in accordance with *paragraph (d)* shall not be regarded as emoluments of the specified employee for the purposes of Chapter 4 of Part 42 of the Act and the Regulations, but shall be treated as income chargeable to tax on the specified employee under Schedule E within the meaning of section 19 of the Act,
+
+(f) the employer shall include, and separately identify, in the statement of wages and deductions from wages required to be given by the employer to the specified employee under section 4 of the Payment of Wages Act 1991, details of the additional amount paid by the employer to a specified employee in accordance with *paragraph (d)* and that additional amount shall be treated as part of the gross pay of the specified employee for the purpose of the Regulations,
+
+(g) where *paragraph (d)* applies, the employer shall treat the specified employee concerned as falling within Class J9 of Pay Related Social Insurance for the purposes of the employer’s obligations under Chapter 4 of Part 42 of the Act and the Regulations to report matters specified in that Chapter or the Regulations,
+
+(h) the operation of *paragraph (g)* shall not prejudice the specified employee’s entitlement to benefits or assistance under the provisions of the Social Welfare Acts, but, where *paragraph (d)* applies in relation to a specified employee for any week, the specified employee shall not be entitled to any benefit or payment, related to Covid-19, from the Department of Employment Affairs and Social Protection for that week,
+
+(i) notwithstanding any other provision of the Act, in computing the employer’s liability to income tax or corporation tax, as the case may be, the employer shall not be entitled to a deduction in respect of any additional amount paid to a specified employee in accordance with *paragraph (d)*, and
+
+(j) the employer shall comply with any other direction of the Revenue Commissioners that, by virtue of this paragraph, they may reasonably give regarding the reporting of the payment by the employer of an additional amount paid to a specified employee in accordance with *paragraph (d)*, being a direction that facilitates the effective administration of this section.
+
+(6) (a) The amount of the temporary wage subsidy shall, subject to *paragraphs (b)* to *(f)*, be determined by the Minister for Finance, with the consent of the Minister for Employment Affairs and Social Protection, given with the concurrence of the Minister for Public Expenditure and Reform.
+
+(b) Different amounts of temporary wage subsidy may be determined under this subsection in relation to different classes of employee.
+
+(c) In determining what is to be the amount of the temporary wage subsidy under this subsection, the Minister shall have regard to an amount being determined that, in the opinion of the Minister, would represent a significant contribution to making good the shortfall in the amount of emoluments that would otherwise have been payable, as mentioned in *subsection (2)(a)*, to the specified employee concerned.
+
+(d) In the case where the net weekly emoluments that would otherwise have been payable, as mentioned in *subsection (2)(a)*, to the specified employee amount to not more than €586 per week, the amount of the temporary wage subsidy shall not exceed a weekly amount equivalent to F19[85 per cent] of the net weekly emoluments that would otherwise have been so payable.
+
+(e) In the case where the amount of the net weekly emoluments that would otherwise have been payable, as mentioned in *subsection (2)(a)*, to the specified employee is in excess of €586 per week but not more than €960 per week, the amount of the temporary wage subsidy shall be that which is determined from time to time by the Minister for Finance, with the consent of the Minister for Employment Affairs and Social Protection, given with the concurrence of the Minister for Public Expenditure and Reform.
+
+(f) A temporary wage subsidy shall not be paid to an employer in relation to a specified employee where the amount of the net weekly emoluments of that employee is in excess of €960 per week.
+
+(7) Particulars of any determination under *subsection (6)* of the amount of a temporary wage subsidy shall be published on the website of the Revenue Commissioners.
+
+(8) Notwithstanding any obligation imposed on the Revenue Commissioners under section 851A of the Act or any other enactment in relation to the confidentiality of taxpayer information (within the meaning of that section), the names and addresses of all employers to whom a temporary wage subsidy has been paid by the Revenue Commissioners shall be published on the website of the Revenue Commissioners.
+
+(9) Where the Revenue Commissioners have paid to an employer a temporary wage subsidy in relation to a specified employee in accordance with *subsection (5)(a)* and it transpires that the employer has not paid to the specified employee an additional amount equivalent to the temporary wage subsidy in accordance with *subsection (5)(d)*, or that the employer was not entitled to receive a temporary wage subsidy in respect of any individual, the temporary wage subsidy so paid to the employer shall be refunded by the employer to the Revenue Commissioners.
+
+(10) An amount that is required to be refunded by an employer to the Revenue Commissioners in accordance with *subsection (9)* (in this section referred to as “relevant tax”) shall be treated as if it were income tax due and payable by the employer from the date the temporary wage subsidy referred to in that subsection had been paid by the Revenue Commissioners to the employer and shall be so due and payable without the making of an assessment.
+
+(11) Notwithstanding *subsection (10)*, where an officer of the Revenue Commissioners is satisfied there is an amount of relevant tax due to be paid by an employer which has not been paid, that officer may make an assessment on the employer to the best of the officer’s judgment, and any amount of relevant tax due under an assessment so made shall be due and payable from the date the temporary wage subsidy referred to in *subsection (9)* had been paid by the Revenue Commissioners to the employer.
+
+(12) The provisions of the Income Tax Acts relating to—
+
+(a) assessments to income tax,
+
+(b) F20[...]
+
+(c) the collection and recovery of income tax,
+
+shall, in so far as they are applicable, apply to the assessment, collection and recovery of relevant tax.
+
+F21[(12A) A person aggrieved by an assessment or an amended assessment to relevant tax made on that person may appeal the assessment or amended assessment, as the case may be, to the Appeal Commissioners, in accordance with section 949I of the Act, within the period of 30 days after the date of the notice of assessment or the amended assessment, as may be appropriate.]
+
+(13) Any amount of relevant tax payable in accordance with this section shall carry interest at the rate of 0.0219 per cent for each day or part of a day from the date when the amount is due and payable.
+
+(14) Subsections (3) to (5) of section 1080 of the Act shall apply in relation to interest payable under *subsection (13)* as they apply in relation to interest payable under section 1080 of the Act.
+
+(15) Where an employer fails to comply with the provisions of *subsection (5)(f)* in relation to a specified employee with respect to the giving to the employee of a statement of wages and deductions from wages under section 4 of the Payment of Wages Act 1991, the employer shall be liable to a penalty as if that failure were a failure to comply with the Regulations, and the provisions of section 987 of the Act shall apply, with any necessary modifications, in relation to a penalty under this subsection as they apply in relation to a penalty for a failure to comply with the Regulations.
+
+(16) A person shall, without prejudice to any other penalty to which the person may be liable, be guilty of an offence under this section if the person—
+
+(a) knowingly or wilfully delivers any incorrect return or statement, or knowingly or wilfully furnishes any incorrect information, in connection with the operation of *subsection (3)* or the eligibility for a temporary wage subsidy in relation to any individual, or
+
+(b) knowingly aids, abets, assists, incites or induces another person to make or deliver knowingly or wilfully any incorrect return or statement, or knowingly or wilfully furnish any incorrect information, in connection with the operation of *subsection (3)* or the eligibility for a temporary wage subsidy in relation to any individual,
+
+and the provisions of subsections (3) to (10) of section 1078, and section 1079, of the Act shall, with any necessary modifications, apply for the purposes of this subsection as they apply for the purposes of offences in relation to tax within the meaning of section 1078 of the Act.
+
+(17) Notwithstanding any obligation imposed on the Revenue Commissioners under section 851A of the Act or any other enactment in relation to the confidentiality of taxpayer information (within the meaning of that section) or any obligation imposed on the Minister for Employment Affairs and Social Protection under the Social Welfare Acts or any other enactment in relation to the confidentiality of information relating to employers and insured persons or other persons entitled to benefits or assistance under those Acts, information relevant to the effective operation of this section may be exchanged between the Minister for Employment Affairs and Social Protection and the Revenue Commissioners.
+
+(18) The administration of this section shall be under the care and management of the Revenue Commissioners and section 849 of the Act shall apply for this purpose with any necessary modifications as it applies in relation to tax within the meaning of that section.
+
+(19) The Revenue Commissioners shall prepare and publish guidelines with respect to the matters that are considered by them to be matters to which regard shall be had in determining whether a reduction, as referred to in *subsection (3)*, will occur by reason of Covid-19 and the disruption that is being caused thereby to commerce.
+
+(20) F22[...]
+
+(21) This section shall be construed together with—
+
+(a) in so far as it relates to income tax, the Income Tax Acts, and
+
+(b) in so far as it relates to corporation tax, the Corporation Tax Acts.
+
+(22) *Paragraph (g)*, in so far as it relates to Pay Related Social Insurance, and *paragraph (h)* of *subsection (5)*, shall be construed together with the Social Welfare Acts.
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F10, F10, F11, F11, F12, F12, F13, F13, F14, F14, F15, F15, F16, F16: Substituted (1.08.2020) by *Financial Provisions (Covid-19) (No. 2) Act 2020* (8/2020), s. 2(1)(a)(i), (ii), commenced on enactment.
+>
+> F17, F17: Inserted (1.08.2020) by *Financial Provisions (Covid-19) (No. 2) Act 2020* (8/2020), s. 2(1)(b), commenced on enactment.
+>
+> F18, F18: Substituted (1.08.2020) by *Financial Provisions (Covid-19) (No. 2) Act 2020* (8/2020), s. 2(1)(c), commenced on enactment.
+>
+> F19, F19: Substituted (1.08.2020) by *Financial Provisions (Covid-19) (No. 2) Act 2020* (8/2020), s. 2(1)(d), commenced on enactment.
+>
+> F20: Deleted (27.03.2020) by *Finance Act 2020* (26/2020), s. 63(1)(a), commenced as per subs. (4).
+>
+> F21: Inserted (27.03.2020) by *Finance Act 2020* (26/2020), s. 63(1)(b), commenced as per subs. (4).
+>
+> F22: Deleted (1.08.2020) by *Financial Provisions (Covid-19) (No. 2) Act 2020* (8/2020), s. 2(1)(e), commenced on enactment.
+>
+> **Modifications (not altering text):**
+>
+> C1: Application of subs. (13) restricted by *Taxes Consolidation Act 1997* (39/1997), s. 1080A(3)(v) as inserted (1.08.2020) by *Financial Provisions (Covid-19) (No. 2) Act* 2020 (8/2020), s. 6, commenced on enactment.
+>
+> **Interest on overdue tax - supplementary provision**
+>
+> **1080A.** ...
+>
+> (2) This *subsection* shall apply where—
+>
+> (*a*) an agreement is entered into between a person and the Collector-General in relation to the payment by the person of declared liabilities under *section 849*, and
+>
+> (*b*) the agreement was entered into, or the person requested that the Collector-General enter into the agreement, on or before 30 September 2020.
+>
+> (3) Subject to *subsection (6)*, where *subsection (2)* applies, the following provisions shall not apply to the declared liabilities from the date on which the interest determined in accordance with *subsection (5)* applies to the declared liabilities in accordance with *subsection (4)*:
+>
+> ...
+>
+> (*v*) section 28 (13) of the Emergency Measures in the Public Interest (Covid-19) Act 2020.
+>
+> (4) Where *subsection (2)* applies, the declared liabilities shall carry interest from the later of—
+>
+> (*a*) 1 August 2020, and
+>
+> (*b*) the date on which the agreement referred to in *subsection (2)* is entered into, and the amount of that interest shall be determined in accordance with *subsection (5)*.
+>
+> ...
+>
+> (6) Where *subsection (2)* applies and the person concerned has not complied with an obligation under the agreement referred to in that *subsection*, a provision referred to in *subsection (3)* shall apply—
+>
+> (*a*) from the date on which the event resulting in failure to comply with the obligation occurred, and
+>
+> (*b*) in respect of that part, if any, of the declared liabilities to which the provision would apply, but for *subsection (3)*.
+>
+> ...
+
+### 28A. Objectives of section 28B, purposes for which its provisions are enacted and certain duty of Minister for Finance respecting those provisions’ operation
+
+F23[**28A.** (1) The objectives of *section 28B* are to provide—
+
+(a) the necessary stimulus to the economy so as to mitigate the effects, on the economy, of Covid-19, and
+
+(b) if, as of 1 January 2021, no agreement stands entered into between the European Union and the United Kingdom (with respect to the future relations between them on the relevant matters), to mitigate the effects on the economy which are apprehended may arise therefrom.
+
+(2) In *subsection (1)* "relevant matters" means the matters described in Part II of the Political declaration setting out the framework for the future relationship between the European Union and the United Kingdom[^1]
+
+(3) The purposes for which the several provisions of *section 28B* (in this section referred to as the "wage subsidy scheme") are, in furtherance of the foregoing objectives, enacted are:
+
+(a) in addition to the provision of basic mechanisms to fulfil those objectives, to ensure the efficient use of the wage subsidy scheme so as to minimise the cost to the Exchequer of the scheme (so far as consistent with fulfilment of those objectives);
+
+(b) to avoid, where possible, allocation of resources to sectors of the economy that are not in need of direct stimulus by means of the wage subsidy scheme (and which sectors may reasonably be expected to be restored to financial viability and an eventual growth path by the indirect effects of the scheme);
+
+(c) to protect the public finances through mechanisms for the discontinuance of one or more of the payments under the wage subsidy scheme (or for their variation) in defined circumstances;
+
+(d) to take account of the need to reflect changes in the circumstances of individuals who, as employees, are individuals in respect of whom payments under the wage subsidy scheme are being made, in cases where such individuals avail themselves of other financial supports provided by the State;
+
+(e) to have regard to the importance of maintaining the provision of child care facilities so as to enable parents to continue in, or to take up, positions of employment;
+
+(f) to take account of changes in the State’s economic circumstances and the demands on its financial resources which may occur in the remainder of the current financial year and thereafter.
+
+(4) It shall be the duty of the Minister for Finance to monitor and superintend the administration of the wage subsidy scheme (but this *subsection* does not derogate from the function of care and management conferred on the Revenue Commissioners by *section 28B(19)*).
+
+(5) Without prejudice to the generality of *subsection (4)*, the Minister for Finance shall cause an assessment, at such intervals as he or she considers appropriate but no less frequently than every 2 months beginning with the passing of the Financial Provisions (Covid-19) (No. 2) Act 2020, of the following, and any other relevant matters, to be made—
+
+(a) up-to-date data from the register commonly referred to as the "Live Register" and data related to that register supplied to the Department of Finance by the F24[Department of Business, Enterprise and Innovation] (whether data compiled by that last-mentioned Department of State from its own sources or those available to it from sources maintained elsewhere in the Public Service),
+
+(b) up-to-date data compiled by the Department of Finance relating to the State’s receipts and expenditure,
+
+(c) such other data as the Minister may consider relevant in relation to the impact from, and effects of, Covid-19 or the fact (should that be so) of there not being an agreement of the kind referred to in *subsection (1)(b)*,
+
+and, if the following is commissioned, by reference to an assessment, on economic grounds, of the wage subsidy scheme that may be commissioned by the Minister for Finance and any opinion as to the sustainability of the scheme expressed therein.
+
+(6) Following an assessment under *subsection (5)*, it shall be the duty of the Minister for Finance, after consultation with the Minister for Public Expenditure and Reform and the Minister for Employment Affairs and Social Protection, to determine whether it is necessary to exercise any or all of the powers under F26[*paragraphs (aa)* to *(c)*] of *subsection (21)* of *section 28B* so, as appropriate, to—
+
+(a) fulfil, better, the objectives specified in *subsection (1)*, or
+
+(b) facilitate the furtherance of any of the purposes specified in F25[*subsection (3)*],
+
+and, if the Minister for Finance determines that such is necessary, the powers under one, or more than one, as provided in that *subsection (21)*, of those F26[*paragraphs (aa)* to *(c)*] shall become and be exercisable by the Minister for Finance.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F23, F23: Inserted (1.08.2020) by *Financial Provisions (Covid-19) (No. 2) Act 2020* (8/2020), s. 2(2), commenced on enactment.
+>
+> F24, F25: Substituted (20.10.2020) by *Finance Act 2020* (26/2020), s. 63(2)(a), (b), commenced as per subs. (5).
+>
+> F26: Substituted (21.12.2021) by *Finance Act 2021* (45/2021), s. 70(1)(a), commenced on enactment.
+
+### 28B. Covid-19: employment wage subsidy scheme
+
+F27[**28B.** (1) In this *section*—
+
+"Act" means the Taxes Consolidation Act 1997;
+
+"contribution week" has the same meaning as it has in section 2 of the Social Welfare Consolidation Act 2005;
+
+"emoluments", "employer", "employee" and "income tax month" have the same meanings as they have in Chapter 4 of Part 42 of the Act;
+
+"gross pay" has the same meaning as it has in the Regulations;
+
+"Minister" means the Minister for Finance;
+
+F28["proprietary director", in relation to a company, has the same meaning as it has in section 472 of the Act;]
+
+F30["qualifying employee", in relation to an employer, means, subject to *subsections (1A)* and *(1B)*—
+
+(a) an individual, who, in relation to the employer is or was a specified employee for the purposes of section 28, or
+
+(b) any other individual who is on the payroll of the employer at any time in the qualifying period and receives in that period a payment of emoluments from the employer, but does not include—
+
+(i) in the case where the employer is a company, any individual who is a proprietary director of the company, and
+
+(ii) any individual who is connected with the employer,
+
+other than in a case in which that individual had been on the payroll of the employer at any time in the period from 1 July 2019 to 30 June 2020 and had received in that period a payment of emoluments from the employer and the employer has submitted to the Revenue Commissioners in that period a notification of the payment of the emoluments in accordance with Regulation 10 of the Regulations,
+
+and, for the purposes of this definition, the question of whether an individual is connected with any other person shall be determined in accordance with section 10 of the Act as it applies for the purposes of the Capital Gains Tax Acts;]
+
+F34["qualifying period" means the period commencing on 1 July 2020 and expiring—
+
+(a) in respect of an employer to which subsection (2D) applies, on 31 May 2022, and
+
+(b) in respect of any other employer to which this section applies, on 30 April 2022;]
+
+"Regulations" means the Income Tax (Employments) Regulations 2018 (S.I. No. 345 of 2018);
+
+"wage subsidy payment" shall be construed in accordance with F35[*subsections (7)*, *(8)* and *(21)(aa)* and *(c)*].
+
+F29[(1A) Where, apart from this subsection, an individual who is a proprietary director of two or more companies would be a qualifying employee in relation to those two or more companies, then the following provisions of this subsection shall have effect:
+
+(a) the individual may give a notification to one, and one only, of those companies that he or she has elected to be treated as a qualifying employee in relation to that company;
+
+(b) on the receipt of the notification referred to in *paragraph (a)*, the company concerned shall be entitled to treat the individual concerned as its qualifying employee, and no other company of which the individual concerned is a proprietary director shall be entitled to treat the individual as its qualifying employee;
+
+(c) unless and until the individual gives to a company referred to in *paragraph (a)* the notification there referred to, no company of which the individual is a proprietary director shall be entitled to treat the individual as its qualifying employee.
+
+(1B) Where, in accordance with *subsection (1A)(a)*, an individual elects to be treated as a qualifying employee in relation to a company, that election—
+
+(a) shall be deemed to have come into effect as on and from the date of the first notification first-mentioned in *subsection (7*) for that individual by the company, and
+
+(b) shall be irrevocable.]
+
+(2) Subject to *subsections (4)* and *(5)*, F36[this section shall apply to an employer for the period 1 July 2020 to 31 December 2020 (in this subsection referred to as "the specified period"), where]—
+
+(a) (i) in accordance with guidelines published by the Revenue Commissioners under *subsection (20)(a)*, the employer demonstrates to the satisfaction of the Revenue Commissioners that, by reason of Covid-19 and the disruption that is being caused thereby to commerce—
+
+(I) F37[there will occur in the specified period] at least a 30 per cent reduction, or such other percentage reduction as the Minister may specify in an order made by him or her under *subsection (21)(b)*, in either the turnover of the employer’s business or in the customer orders being received by the employer by reference to the period from 1 July 2019 to 31 December 2019 (in this subsection referred to as "the corresponding period"),
+
+(II) in the case where the business of the employer has not operated for the whole of the corresponding period but the commencement of that business’s operation occurred no later than 1 November 2019, there will occur in the part of the specified period, which corresponds to the part of the corresponding period in which the business has operated, at least a 30 per cent reduction, or such other percentage reduction as the Minister may specify in an order made by him or her under *subsection (21)(b)*, in either the turnover of the employer’s business or in the customer orders being received by the employer by reference to that part of the corresponding period, or
+
+(III) in the case where the commencement of the operation of the employer’s business occurred after 1 November 2019, the nature of the business is such that the turnover of the employer’s business or the customer orders being received by the employer in the specified period will be at least—
+
+(A) 30 per cent, or
+
+(B) such other percentage as the Minister may specify in an order made by him or her under *subsection (21)(b)*,
+
+less than what that turnover or those customer orders, as the case may be, would otherwise have been had there been no disruption caused to the business by reason of Covid-19, or
+
+(ii) the employer’s name is entered in the register established and maintained under section 58C of the Child Care Act 1991,
+
+and
+
+(b) the employer satisfies the conditions specified in *subsection (3)*.
+
+F38[(2A) Subject to *subsections (4)* and *(5)*, this section shall apply to an employer for F32[the period from 1 January 2021 to 30 June 2021 (in this subsection referred to as "the second specified period")] where—
+
+(a) (i) in accordance with guidelines published by the Revenue Commissioners under *subsection (20)(a)*, the employer demonstrates to the satisfaction of the Revenue Commissioners that, by reason of Covid-19 and the disruption that is being caused thereby to commerce—
+
+(I) there will occur F33[in the second specified period] at least a 30 per cent reduction, or such other percentage reduction as the Minister may specify in an order made by him or her under *subsection (21)(b)*, in either the turnover of the employer’s business or in the customer orders being received by the employer by reference to the period from 1 January 2019 to 30 June 2019 (in this subsection referred to as "the second corresponding period"),
+
+(II) in the case where the business of the employer has not operated for the whole of the second corresponding period but the commencement of that business’s operation occurred no later than 1 May 2019, there will occur in the part of the second specified period, which corresponds to the part of the second corresponding period in which the business has operated, at least a 30 per cent reduction, or such other percentage reduction as the Minister may specify in an order made by him or her under *subsection (21)(b)*, in either the turnover of the employer’s business or in the customer orders being received by the employer by reference to that part of the second corresponding period, or
+
+(III) in the case where the commencement of the operation of the employer’s business occurred after 1 May 2019, the nature of the business is such that the turnover of the employer’s business or the customer orders being received by the employer in the second specified period will be at least—
+
+(A) 30 per cent, or
+
+(B) such other percentage as the Minister may specify in an order made by him or her under *subsection (21)(b)*,
+
+less than what that turnover or those customer orders, as the case may be, would otherwise have been had there been no disruption caused to the business by reason of Covid-19,
+
+or
+
+(ii) the employer’s name is entered in the register established and maintained under section 58C of the Child Care Act 1991, and
+
+(b) the employer satisfies the conditions specified in *subsection (3)*.]
+
+F39[(2B) Subject to *subsections (4)* and *(5)*, this section shall apply to an employer for the period from 1 July 2021 to the date on which the qualifying period expires F40[in respect of the employer] where—
+
+(a) (i) in accordance with guidelines published by the Revenue Commissioners under *subsection (20)(a)*, the employer demonstrates to the satisfaction of the Revenue Commissioners that, by reason of Covid-19 and the disruption that is being caused thereby to commerce—
+
+(I) there will occur in the period from 1 January 2021 to 31 December 2021 (in this subsection referred to as "the third specified period") at least a 30 per cent reduction, or such other percentage reduction as the Minister may specify in an order made by him or her under *subsection (21)(b)*, in either the turnover of the employer’s business or in the customer orders being received by the employer by reference to the period from 1 January 2019 to 31 December 2019 (in this subsection referred to as "the third corresponding period"),
+
+(II) in the case where the business of the employer has not operated for the whole of the third corresponding period but the commencement of that business’s operation occurred no later than 1 November 2019, there will occur in the part of the third specified period, which corresponds to the part of the third corresponding period in which the business has operated, at least a 30 per cent reduction, or such other percentage reduction as the Minister may specify in an order made by him or her under *subsection (21)(b)*, in either the turnover of the employer’s business or in the customer orders being received by the employer by reference to that part of the third corresponding period, or
+
+(III) in the case where the commencement of the operation of the employer’s business occurred after 1 November 2019, the nature of the business is such that the turnover of the employer’s business or the customer orders being received by the employer in the third specified period will be at least—
+
+(A) 30 per cent, or
+
+(B) such other percentage as the Minister may specify in an order made by him or her under *subsection (21)(b)*,
+
+less than what that turnover or those customer orders, as the case may be, would otherwise have been had there been no disruption caused to the business by reason of Covid-19,
+
+or
+
+(ii) the employer’s name is entered in the register established and maintained under section 58C of the Child Care Act 1991, and
+
+(b) the employer satisfies the conditions specified in *subsection (3)*.]
+
+F45[(2C) Subject to *subsections (4)* and *(5)*, this section shall apply to an employer for the period from 1 January 2022 to the date on which the qualifying period expires in respect of the employer where—
+
+(a) in accordance with guidelines published by the Revenue Commissioners under *subsection (20)(a)*, the employer demonstrates to the satisfaction of the Revenue Commissioners that, by reason of Covid-19 and the disruption that is being caused thereby to commerce, there will occur in the period from 1 December 2021 to 31 January 2022—
+
+(i) in the case where the commencement of the operation of the employer’s business occurred before 1 May 2019, at least a 30 per cent reduction, or such other percentage reduction as the Minister may specify in an order made by him or her under *subsection (21)(b)*, in either the turnover of the employer’s business or in the customer orders being received by the employer by reference to the period from 1 December 2019 to 31 January 2020, and
+
+(ii) in the case where the commencement of the operation of the employer’s business occurred on or after 1 May 2019, at least a 30 per cent reduction, or such other percentage reduction as the Minister may specify in an order made by him or her under *subsection (21)(b)*, in either the average monthly turnover of the employer’s business or in the average monthly customer orders being received by the employer by reference to the average monthly turnover of the employer’s business or the average monthly customer orders being received by the employer—
+
+(I) in the period from 1 August 2021 to 30 November 2021 (in this subparagraph referred to as "the reference period"), or
+
+(II) in the case where the business of the employer has not operated for the whole of the reference period, in the part of the reference period in which the business has operated,
+
+and
+
+(b) the employer satisfies the conditions specified in *subsection (3)*.
+
+(2D) (a) This subsection shall apply to an employer where—
+
+(i) public health restrictions applied to the business of the employer in the relevant period, and
+
+(ii) the conduct of that business was directly impacted by reason of the terms in which those public health restrictions stood in the relevant period being different from how they stood immediately before that period by virtue of the relevant amendments.
+
+(b) In this subsection—
+
+“public health restrictions“ means restrictions for the purpose of preventing, or reducing the risk of, the transmission of Covid-19 provided for in the Health Act 1947 (Section 31A - Temporary Restrictions) (Covid-19) (No. 2) Regulations 2021 ( S.I. No. 217 of 2021 );
+
+“relevant amendments“ means Regulations 5 to 8 of the Health Act 1947 (Section 31A - Temporary Restrictions) (Covid-19) (No. 2) (Amendment) (No. 22) Regulations 2021 ( S.I. No. 736 of 2021 );
+
+“relevant period“ means the period from 20 December 2021 to 22 January 2022.]
+
+(3) The conditions referred to in F46[*subsection (2)(b)*, *(2A)(b)* or *(2B)(b)* or *(2C)(b)*] are—
+
+(a) the employer has logged on to the online system of the Revenue Commissioners (in this *section* referred to as "ROS") and applied F47[, on or before 31 December 2021] on ROS to be registered as an employer to which this *section* applies,
+
+F48[(aa) the employer has, on or before 31 December 2021, been paid a wage subsidy payment in accordance with *subsection (7)(a)* to which the employer was entitled in accordance with this section,]
+
+(b) having read the declaration referred to in ROS as the "Covid-19: Employment Wage Subsidy Scheme" declaration, the employer has submitted that declaration to the Revenue Commissioners through ROS,
+
+(c) the employer has provided details of the employer’s bank account on ROS in the "Manage bank accounts" and "Manage EFT" fields, and
+
+(d) the employer is throughout the qualifying period eligible for a tax clearance certificate, within the meaning of section 1095 of the Act, to be issued to him or her.
+
+(4) Where on any date in the qualifying period the employer ceases to satisfy the condition specified in *subsection (3)(d)*, the employer shall cease to be an employer to which this *section* applies as on and from that date.
+
+(5) Where, F41[by virtue of *subsection (2)* (apart from *paragraph (a)(ii)* thereof), *(2A)* (apart from *paragraph (a)(ii)* thereof) or *(2B)* (apart from *paragraph (a)(ii)* thereof)], and *subsection (3)*, an employer is an employer to which this *section applies*—
+
+(a) immediately upon the end of each income tax month (in this *subsection* referred to as "the relevant income tax month") in the qualifying period, apart from July 2020 F49[, January 2022, February 2022, March 2022 and April 2022], the employer shall review his or her business circumstances, and
+
+(b) if, based on the result of that review, it is manifest to the employer that the outcome referred to in *clause (I)*, *(II)* or *(III)*, as the case may be, of F42[*subsection (2)(a)(i)*, *(2A)(a)(i)* or *(2B)(a)(i)*] that had previously been envisaged would occur will not, in fact, now occur, then—
+
+(i) the employer shall immediately log on to ROS and declare that, from the first day of the income tax month following the relevant income tax month (in *subparagraph (ii)* referred to as "the relevant day"), the employer is no longer an employer to which this *section* applies, and
+
+(ii) on and from the relevant day, the employer shall not be an employer to which this *section* applies and shall not represent that his or her status is otherwise than as referred to in this *subparagraph* nor cause the Revenue Commissioners to believe it to be so otherwise.
+
+F50[(5A) Where, by virtue of *subsection (2C)*, an employer is an employer to which this section applies—
+
+(a) the employer shall, if it has not already done so before the date of the passing of the Finance (Covid-19 and Miscellaneous Provisions) Act 2022, as soon as practicable review its business circumstances as they were on 31 January 2022, and
+
+(b) if, based on the result of that review or of such a review carried out before the date of the passing of the Finance (Covid-19 and Miscellaneous Provisions) Act 2022, it is manifest to the employer that the outcome referred to in *subparagraph (i)* or *(ii)*, as the case may be, of *subsection (2C)(a)* that had previously been envisaged would occur did not, in fact, occur,
+
+then—
+
+(i) the employer shall, if it has not already done so before the date of the passing of the Finance (Covid-19 and Miscellaneous Provisions) Act 2022, as soon as practicable log on to ROS and declare that, as on and from 1 February 2022, the employer ceased to be an employer to which this section applies, and
+
+(ii) on and from 1 February 2022, the employer shall have ceased to be an employer to which this section applies and shall not represent that its status is otherwise than as referred to in this subparagraph nor cause the Revenue Commissioners to believe it to be so otherwise.]
+
+(6) (*a*) In this *subsection*, "authorised officer" means an officer of the Revenue Commissioners authorised by them in writing to exercise the powers conferred by this *subsection*.
+
+(b) Where, upon making enquiries or on the basis of information already in the possession of the Revenue Commissioners, an authorised officer determines that it is reasonable to conclude that an employer, at any time in the qualifying period—
+
+(i) has, with respect to the operation of the employer’s payroll, in relation to the payment of emoluments to a qualifying employee, resorted to any contrivance by way of deferring, suspending, increasing or decreasing the gross pay that would otherwise have normally been paid to the qualifying employee, with a view to securing from the Revenue Commissioners a wage subsidy payment, or an increase in the amount of a wage subsidy payment, in relation to the qualifying employee, or
+
+(ii) other than for *bona fide* commercial reasons, has laid off and removed from the employer’s payroll a qualifying employee (in this *subparagraph* referred to as "the first-mentioned employee") and replaced the first-mentioned employee with two or more qualifying employees each of whom work less hours than the first-mentioned employee, with a view to securing an increase in the number of qualifying employees in relation to whom a wage subsidy payment is payable from the Revenue Commissioners,
+
+the employer shall be deemed to have ceased to be, and to have never been, an employer to which this *section* applies in relation to any of its employees, and any wage subsidy payments that had been paid by the Revenue Commissioners to the employer in relation to those employees shall be refunded by the employer to the Revenue Commissioners.
+
+(c) *Subsections (12)*, *(13)*, *(14)* (apart from *paragraph (b)* thereof), *(15)* and *(16)* shall apply in relation to an amount that is required to be refunded by the employer in accordance with *paragraph (b)* as they apply in relation to an amount that is required to be refunded by an employer in accordance with *subsection (11)*.
+
+(7) Subject to F51[*subsections (8)*, *(9)* and *(12A)*], where this *section* applies to an employer, then, following the notification by the employer of the payment of emoluments to a qualifying employee in an income tax month in the qualifying period in accordance with Regulation 10 of the Regulations, the following provisions shall apply where such notification was received by the Revenue Commissioners no later than the return date (within the meaning of section 983 of the Act) for the income tax month:
+
+(a) the Revenue Commissioners shall pay to the employer in relation to the qualifying employee the amount (in this *section* referred to as a "wage subsidy payment") specified in *subsection (8)*;
+
+(b) the payment referred to in *paragraph (a)* shall be made by way of bank transfer to the bank account of the employer, the details of which have been provided in accordance with *subsection (3)(c)*;
+
+(c) where, under *paragraph (a)*, two or more payments are required to be made by the Revenue Commissioners to the employer in respect of an income tax month, whether in relation to one or more than one qualifying employee, all such payments under *paragraph (a)* may be aggregated by the Revenue Commissioners for the purposes of compliance with *paragraph (b)*;
+
+F52[(d) a payment or an aggregate payment required under this subsection to be made by the Revenue Commissioners to the employer in relation to a qualifying employee or qualifying employees shall be made by the Revenue Commissioners as soon as may be practicable after the date of the notification by the employer of the payment of emoluments to the qualifying employee or the qualifying employees concerned;]
+
+(e) as respects the payment of the aforesaid emoluments to the qualifying employee, the employer shall treat the qualifying employee as falling within such class of Pay-Related Social Insurance for the purposes of the employer’s obligations under the Social Welfare Acts and the employer’s reporting obligations specified in Chapter 4 of Part 42 of the Act and the Regulations as the employer determines to be appropriate having regard to guidelines published by the Revenue Commissioners under *subsection (20)(b)*;
+
+(f) the employer shall comply with any other direction of the Revenue Commissioners that, by virtue of this *paragraph*, they may reasonably give regarding the payment to the employer of a wage subsidy payment in relation to a qualifying employee in accordance with *paragraph (a)*, being a direction that facilitates the effective administration of this *section*.
+
+F53[(8) Subject to *subsections (9), (21)(aa)* and *(21)(c)*, the wage subsidy payment payable by the Revenue Commissioners to an employer in relation to a qualifying employee shall be—
+
+(a) in the case where—
+
+(i) the employer is not an employer to which *subsection (2D)* applies and the date of the payment of the emoluments by the employer to the qualifying employee is in the period beginning on 1 July 2020 and ending on 19 October 2020 or the period beginning on 1 February 2022 and ending on 28 February 2022, or
+
+(ii) the employer is an employer to which *subsection (2D)* applies and the date of the payment of the emoluments by the employer to the qualifying employee is in the period beginning on 1 July 2020 and ending on 19 October 2020 or the period beginning on 1 March 2022 and ending on 31 March 2022,
+
+the sum of—
+
+(I) €151.50 per contribution week, where the employer pays the qualifying employee gross pay of at least €151.50 per week but not more than €202.99 per week, and
+
+(II) €203 per contribution week, where the employer pays the qualifying employee gross pay of at least €203 per week but not more than €1,462 per week,
+
+(b) in the case where—
+
+(i) the employer is not an employer to which *subsection (2D)* applies and the date of the payment of the emoluments by the employer to the qualifying employee is in the period beginning on 20 October 2020 and ending on 31 January 2022, or
+
+(ii) the employer is an employer to which *subsection (2D)* applies and the date of the payment of the emoluments by the employer to the qualifying employee is in the period beginning on 20 October 2020 and ending on 28 February 2022,
+
+the sum of—
+
+(I) €203 per contribution week, where the employer pays the qualifying employee gross pay of at least €151.50 per week but not more than €202.99 per week,
+
+(II) €250 per contribution week, where the employer pays the qualifying employee gross pay of at least €203 per week but not more than €299.99 per week,
+
+(III) €300 per contribution week, where the employer pays the qualifying employee gross pay of at least €300 per week but not more than €399.99 per week, and
+
+(IV) €350 per contribution week, where the employer pays the qualifying employee gross pay of at least €400 per week but not more than €1,462 per week,
+
+and
+
+(c) in the case where—
+
+(i) the employer is not an employer to which *subsection (2D)* applies and the date of the payment of the emoluments by the employer to the qualifying employee is in the period beginning on 1 March 2022 and ending on 30 April 2022, or
+
+(ii) the employer is an employer to which *subsection (2D)* applies and the date of the payment of the emoluments by the employer to the qualifying employee is in the period beginning on 1 April 2022 and ending on 31 May 2022,
+
+the sum of €100 per contribution week, where the employer pays the qualifying employee gross pay of at least €151.50 per week but not more than €1,462 per week.]
+
+(9) Where, following the notification by an employer of the payment of emoluments to any qualifying employee in the period from 1 July 2020 to 31 August 2020 in accordance with Regulation 10 of the Regulations, the employer would be entitled under *section 28* to be paid a temporary wage subsidy (within the meaning of that section) by the Revenue Commissioners in relation to that qualifying employee, the employer shall not be entitled under this section to be paid a wage subsidy payment by the Revenue Commissioners in relation to that qualifying employee.
+
+(10) Notwithstanding any obligation imposed on the Revenue Commissioners under section 851A of the Act or any other enactment in relation to the confidentiality of taxpayer information (within the meaning of that section), the names and addresses of all employers to whom a wage subsidy payment has been paid by the Revenue Commissioners F54[in any of the income tax months July 2020 to June 2022] shall be published on the website of the Revenue Commissioners—
+
+(a) in a case in which wage subsidy payments are so paid in any of the income tax months July to December 2020, as soon as may be practicable in January 2021, and
+
+(b) in a case in which wage subsidy payments are so paid F55[in any of the income tax months December 2020 to June 2022], as soon as may be practicable following the end of each relevant period (that is to say, firstly, the period beginning on F56[1 January 2021] and ending on F57[31 March 2021] and, then, each subsequent period of 3 months thereafter) in which wage subsidy payments were so paid.
+
+(11) Where the Revenue Commissioners have paid to an employer a wage subsidy payment in relation to an employee in accordance with *subsection (7)(a)* and it transpires that the employer was not entitled to receive such payment in relation to the employee, the wage subsidy payment so paid to the employer shall be refunded by the employer to the Revenue Commissioners.
+
+(12) An amount that is required to be refunded by an employer to the Revenue Commissioners in accordance with *subsection (11)* (in this section referred to as "relevant tax") shall be treated as if it were income tax due and payable by the employer from the date the wage subsidy payment referred to in that subsection had been paid by the Revenue Commissioners to the employer and shall be so due and payable without the making of an assessment.
+
+F58[(12A) Where, apart from this subsection, a payment or an aggregate payment would be required to be made by the Revenue Commissioners to an employer under *subsection (7)*, the Revenue Commissioners may, instead of making the payment or the aggregate payment, set the amount of that payment or any part of that payment against any amount that is required to be refunded by the employer to the Revenue Commissioners in accordance with *subsection (11)*.]
+
+(13) Notwithstanding *subsection (12)*, where an officer of the Revenue Commissioners is satisfied there is an amount of relevant tax due to be paid by an employer which has not been paid, that officer may make an assessment on the employer to the best of the officer’s judgment, and any amount of relevant tax due under an assessment so made shall be due and payable from the date the wage subsidy payment referred to in *subsection (11)* had been paid by the Revenue Commissioners to the employer.
+
+(14) The provisions of the Income Tax Acts relating to—
+
+(a) assessments to income tax,
+
+(b) F59[...]
+
+(c) the collection and recovery of income tax,
+
+shall, in so far as they are applicable, apply to the assessment, collection and recovery of relevant tax.
+
+F60[(14A) A person aggrieved by an assessment or an amended assessment to relevant tax made on that person may appeal the assessment or amended assessment, as the case may be, to the Appeal Commissioners, in accordance with section 949I of the Act, within the period of 30 days after the date of the notice of assessment or the amended assessment, as may be appropriate.]
+
+(15) Any amount of relevant tax payable in accordance with this *section* shall carry interest at the rate of 0.0219 per cent for each day or part of a day from the date when the amount is due and payable.
+
+(16) Subsections (3) to (5) of section 1080 of the Act shall apply in relation to interest payable under *subsection (15)* as they apply in relation to interest payable under section 1080 of the Act.
+
+(17) A person shall, without prejudice to any other penalty to which the person may be liable, be guilty of an offence under this *section* if the person—
+
+(a) knowingly or wilfully delivers any incorrect return or statement, or knowingly or wilfully furnishes any incorrect information, in connection with the operation of *subsection* F64[*(2), (2A), (2B)* or *(2C)*] or the eligibility for a wage subsidy payment in relation to any individual, or
+
+(b) knowingly aids, abets, assists, incites or induces another person to make or deliver knowingly or wilfully any incorrect return or statement, or knowingly or wilfully furnish any incorrect information, in connection with the operation of F62[*subsection (2)*, *(2A)* or *(2B)*]or the eligibility for a wage subsidy payment in relation to any individual,
+
+and the provisions of subsections (3) to (10) of section 1078, and section 1079, of the Act shall, with any necessary modifications, apply for the purposes of this *subsection* as they apply for the purposes of offences in relation to tax within the meaning of section 1078 of the Act.
+
+(18) Notwithstanding any obligation imposed on the Revenue Commissioners under section 851A of the Act or any other enactment in relation to the confidentiality of taxpayer information (within the meaning of that section) or any obligation imposed on the Minister for Employment Affairs and Social Protection under the Social Welfare Acts or any other enactment in relation to the confidentiality of information relating to employers and insured persons or other persons entitled to benefits or assistance under those Acts, information relevant to the effective operation of this *section* may be exchanged between the Minister for Employment Affairs and Social Protection and the Revenue Commissioners.
+
+(19) The administration of this *section* shall be under the care and management of the Revenue Commissioners and section 849 of the Act shall apply for this purpose with any necessary modifications as it applies in relation to tax within the meaning of that section.
+
+(20) The Revenue Commissioners shall prepare and publish guidelines with respect to—
+
+(a) the matters that are considered by them to be matters to which regard shall be had in determining whether a reduction, as referred to in *subsection* F65[(*2), (2A), (2B)* or *(2C)*], will occur by reason of Covid-19 and the disruption that is being caused thereby to commerce, and
+
+(b) the matters to which an employer shall have regard in determining the appropriate class of Pay-Related Social Insurance to be operated by an employer in relation to a qualifying employee for the purposes of compliance by the employer with *subsection (7)(e)*.
+
+(21) Where the Minister makes a determination of the kind lastly referred to in *section 28A(6)*, the Minister shall, as he or she deems fit and necessary—
+
+(a) F70[...]
+
+F71[(aa) make an order that any day referred to in *paragraphs (a)*, *(b)* or *(c)* of *subsection (8)* as the day on which a period there referred to shall begin on, or end on, shall be such other day (but not later than F72[31 May 2022]) as the Minister considers appropriate and specifies in the order,]
+
+(b) make an order that the percentage reduction specified in *clauses (I)* to *(III)* of F68[*subsection (2)(a)(i)*, *(2A)(a)(i)* or **(2B)(a)(i)**] F73[or *subparagraphs (i)* and *(ii)* of *subsection (2C)(a)*]shall be such percentage reduction, greater or lower than the percentage reduction specified in those *clauses*, as the Minister—
+
+(i) considers necessary to—
+
+(I) fulfil, better, the objectives specified in *section 28A(1)*, or
+
+(II) facilitate the furtherance of any of the purposes specified in F74[*section 28A(3)*],
+
+and
+
+(ii) specifies in the order,
+
+or
+
+(c) make an order providing that an amount, being such amount as the Minister—
+
+(i) considers necessary to—
+
+(I) fulfil, better, the objectives specified in *section 28A(1)*, or
+
+(II) facilitate the furtherance of any of the purposes specified in F75[*section 28A(3)*],
+
+and
+
+(ii) specifies in the order,
+
+shall stand substituted for an amount for the time being specified in *subsection (8)* (and which amount, so specified, is greater or lower, as the Minister considers necessary, than the amount concerned for the time being specified in *subsection (8)*) and references in this *paragraph* to the amount concerned for the time being specified in the foregoing *subsection* are references to the amount concerned for the time being specified in that subsection, as enacted, or in consequence of a previous order that has been made under this *paragraph*.
+
+(22) Where an order under F77[*paragraph (aa), (b)* or *(c) of subsection (21)*] of *subsection (21)* is proposed to be made, a draft of the order shall be laid before Dáil Éireann and the order shall not be made unless a resolution approving of the draft has been passed by that House.
+
+(23) (*a*) In so far as it relates to income tax, this *section* shall be construed together with the Income Tax Acts.
+
+(b) *Subsection (7)(e)*, in so far as it relates to pay related social insurance, shall be construed together with the Social Welfare Acts.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F27, F27: Inserted (1.08.2020) by *Financial Provisions (Covid-19) (No. 2) Act 2020* (8/2020), s. 2(2), commenced on enactment.
+>
+> F28, F29: Inserted (1.09.2020) by *Finance Act 2020* (26/2020), s. 63(3)(a)(i), (b), commenced as per subs. (6)(b).
+>
+> F30: Substituted (1.09.2020) by *Finance Act 2020* (26/2020), s. 63(3)(a)(ii), commenced as per subs. (6)(b).
+>
+> F31, F32, F33: Substituted (1.04.2021) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2021* (23/2021), s. 2(1)(a), (b)(i), (ii), commenced as per subs. (2).
+>
+> F34: Substituted (1.01.2022) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2022* (9/2022), s. 2(1)(a), commenced as per s. 2(2).
+>
+> F35: Substituted (20.10.2020) by *Finance Act 2020* (26/2020), s. 63(3)(a)(iii), commenced as per subs. (6)(c).
+>
+> F36, F37: Substituted (1.01.2021) by *Finance Act 2020* (26/2020), s. 63(3)(c)(I), (ii), commenced as per subs. (6)(e).
+>
+> F38: Inserted (1.01.2021) by *Finance Act 2020* (26/2020), s. 3(d), commenced as per subs. (6)(e).
+>
+> F39: Inserted (1.04.2021) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2021* (23/2021), s. 2(1)(c), commenced as per subs. (2).
+>
+> F40: Substituted (1.01.2022) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2022* (9/2022), s. 2(1)(b), commenced as per s. 2(2).
+>
+> F41, F42, F43, F44: Substituted (1.04.2021) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2021* (23/2021), s. 2(1)(d)-(f), commenced as per subs. (2).
+>
+> F45, F46: Substituted (01.06.2022) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2022* (9/2022), s. 2(1)(c), (d), commenced as per s. 2(2).
+>
+> F47: Substituted (21.12.2021) by *Finance Act 2021* (45/2021), s. 70(1)(b)(ii)(I), commenced on enactment.
+>
+> F48: Inserted (21.12.2021) by *Finance Act 2021* (45/2021), s. 70(1)(b)(ii)(II), commenced on enactment.
+>
+> F49: Substituted (21.12.2021) by *Finance Act 2021* (45/2021), s. 70(1)(b)(iii), commenced on enactment.
+>
+> F50: Substituted (2.06.2022) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2022* (9/2022), s. 2(1)(e), commenced on enactment.
+>
+> F51: Substituted (19.12.2020) by *Finance Act 2020* (26/2020), s. 63(3)(g)(i), commenced on enactment.
+>
+> F52: Substituted (1.11.2020) by *Finance Act 2020* (26/2020), s. 63(3)(g)(ii), commenced as per subs. (6)(d).
+>
+> F53: Substituted (1.01.2022) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2022* (9/2022), s. 2(1)(f), commenced as per s. 2(2).
+>
+> F54: Substituted (1.01.2022) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2022* (9/2022), s. 2(1)(g)(i), commenced as per s. 2(2).
+>
+> F55: Substituted (1.01.2022) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2022* (9/2022), s. 2(1)(g)(ii), commenced as per s. 2(2).
+>
+> F56, F57: Substituted (1.07.2020) by *Finance Act 2020* (26/2020), s. 74 and sch. para. 5(a), (b), commenced as per para. 6(b).
+>
+> F58: Inserted (19.12.2020) by *Finance Act 2020* (26/2020), s. 63(3)(i), commenced on enactment.
+>
+> F59: Deleted (1.08.2020) by *Finance Act 2020* (26/2020), s. 63(3)(j)(i), commenced as per subs. (6)(a).
+>
+> F60: Inserted (1.08.2020) by *Finance Act 2020* (26/2020), s. 63(3)(j)(ii), commenced as per subs. (6)(a).
+>
+> F61, F62, F63: Substituted (1.04.2021) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2021* (23/2021), s. 2(1)(g), commenced as per subs. (2).
+>
+> F64: Substituted (1.06.2022) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2022* (9/2022), s. 2(1)(h), commenced as per s. 2(2).
+>
+> F65: Substituted (1.06.2022) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2022* (9/2022), s. 2(1)(i), commenced as per s. 2(2).
+>
+> F66, F67, F68: Substituted (1.04.2021) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2021* (23/2021), s. 2(1)(i), commenced as per subs. (2).
+>
+> F69: Substituted (1.01.2021) by *Finance Act 2020* (26/2020), s. 63(3)(m)(ii)(I), commenced as per subs. (6)(e).
+>
+> F70: Deleted (21.12.2021) by *Finance Act 2021* (45/2021), s. 70(1)(b)(v)(I), commenced on enactment.
+>
+> F71: Substituted (21.12.2021) by *Finance Act 2021* (45/2021), s. 70(1)(b)(v)(II), commenced on enactment.
+>
+> F72: Substituted (1.01.2022) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2022* (9/2022), s. 2(1)(j)(i), commenced as per s. 2(2).
+>
+> F73: Substituted (1.01.2022) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2022* (9/2022), s. 2(1)(j)(ii), commenced as per s. 2(2).
+>
+> F74, F75, F76: Substituted (20.10.2020) by *Finance Act 2020* (26/2020), s. 63(3)(m)(ii)(II), (iii), (n), commenced as per subs. (6)(c).
+>
+> F77: Substituted (21.12.2021) by *Finance Act 2021* ( 45/2021), s. 70(1)(b)(vi), commenced on enactment.
+>
+> **Editorial Notes:**
+>
+> E4: Power pursuant to subs. (21)(aa) exercised (7.05.2021) by *Emergency Measures in the Public Interest (Covid-19) Act 2020 (Covid-19: employment wage subsidy scheme) (Date Adjustment) (No. 2) Order 2021* (S.I. No. 221 of 2021). 30 June 2021 is specified as the day on which the period referred to in s. 28B(8)(a)(ii), (b)(ii) shall end.
+>
+> E5: Previous affecting provisions: subs. (1), definition of "qualifying period", substituted (21.12.2021) by *Finance Act 2021* (45/2021), s. 70(1)(b)(i), commenced on enactment; substituted as per F-note above.
+>
+> E6: Previous affecting provision: subs. (8) substituted (21.12.2021) by *Finance Act 2021* (45/2021), s. 70(1)(b)(iv), commenced as per subs. (2); subsection substituted as per F-note above.
+>
+> E7: Previous affecting provisions: subs. (21)(aa) substituted (21.12.2021) by *Finance Act 2021* (45/2021), s. 70(1)(b)(v)(II), commenced on enactment.
+>
+> E8: Previous affecting provision: subs. (1), definition of "qualifying period", substituted (1.04.2021) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2021* (23/2021), s. 2(1)(a), commenced as per subs. (2); substituted as per F-note above.
+>
+> E9: Previous affecting provisions: subs. (2B) inserted (1.04.2021) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2021* (23/2021), s. 2(1)(c), commenced as per subs. (2); substituted as per F-note above.
+>
+> E10: Previous affecting provisions: subs. (3) amended (1.04.2021) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2021* (23/2021), s. 2(1)(d), commenced as per subs. (2); amendment substituted as per F-note above.
+>
+> E11: Previous affecting provisions: subs. (8) amended (1.04.2021) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2021* (23/2021), s. 2(1)(f), commenced as per subs. (2); subsection substituted as per F-note above.
+>
+> E12: Previous affecting provision: subs. (17) amended (1.04.2021) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2021* (23/2021), s. 2(1)(g), commenced as per subs. (2); substituted as per F-note above.
+>
+> E13: Previous affecting provision: subs. (20)(a) amended (1.04.2021) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2021* (23/2021), s. 2(1)(h), commenced as per subs. (2).
+>
+> E14: Previous affecting provision: power pursuant to subs. (21)(aa) exercised (8.02.2021) by *Emergency Measures in the Public Interest (Covid-19) Act 2020 (Covid-19: Employment Wage Subsidy Scheme) (Date Adjustment) Order 2021* (S.I. No. 50 of 2021); revoked (7.05.2021) by *Emergency Measures in the Public Interest (Covid-19) Act 2020 (Covid-19: employment wage subsidy scheme) (Date Adjustment) (No. 2) Order 2021* (S.I. No. 221 of 2021), art. 5.
+>
+> E15: Previous affecting provision: subss. (3), (5) amended (1.01.2021) by *Finance Act 2020* (26/2020), s. 3(e), commenced as per subs. (6)(e), (f)(i), (ii); substituted as per F-note above.
+>
+> E16: Previous affecting provisions: subss. (17)(a), (b), (20)(a) amended (1.01.2021) by *Finance Act 2020* (26/2020), s. 63(3)(k)(i), (ii), (l), commenced as per subs. (6)(e); substituted as per F-note above.
+>
+> E17: Previous affecting provision: subs. (21)(b) amended (1.01.2021) by *Finance Act 2020* (26/2020), s. 63(3)(m)(ii)(I), commenced as per subs. (6)(e); substituted as per F-note above.
+>
+> E18: Previous affecting provisions: subs. (8) substituted (20.10.2020) by *Finance Act 2020 (26/2020)*, s. 63(3)(h)(i), (ii), commenced as per subs. (6)(c); subsection substituted as per F-note above.
+>
+> E19: Previous affecting provision: subs. (21)(aa) inserted (20.10.2020) by *Finance Act 2020* (26/2020), s. 63(3)(m)(i), commenced as per subs. (6)(c).
+
+### 28C. Covid-19: special warehousing and interest (relevant tax due under section 28(9))
+
+F78[**28C.** (1) F79[Subject to *subsection (1A)*, in this section]—
+
+"the Acts" means—
+
+(a) Parts 18C and 18D F80[of the Taxes Consolidation Act 1997],
+
+(b) the Stamp Duties Consolidation Act 1999 and the enactments amending or extending that Act,
+
+(c) the Capital Acquisitions Tax Consolidation Act 2003 and the enactments amending or extending that Act,
+
+(d) the Value-Added Tax Consolidation Act 2010 and the enactments amending or extending that Act,
+
+(e) the Finance (Local Property Tax) Act 2012 and the enactments amending or extending that Act,
+
+(f) the Customs Act 2015 and the enactments amending or extending that Act,
+
+(g) the Capital Gains Tax Acts,
+
+(h) the Tax Acts,
+
+(i) the statutes relating to the duties of excise and to the management of those duties,
+
+(j) this Act, and
+
+(k) any instruments made under any of the enactments referred to in *paragraphs (a)* to *(j)*;
+
+"Covid-19 relevant tax" means relevant tax, as referred to in *subsection (10)* of *section 28*, due and payable during Period 1 in accordance with that subsection;
+
+F81["Covid-19 entitlement" means an entitlement to payment of an amount under—
+
+(a) section 485 of the Taxes Consolidation Act 1997,
+
+(b) *section 28B*,
+
+(c) any of the following schemes:
+
+(i) the scheme commonly known as the Live Performance Support Scheme Strand II;
+
+(ii) the scheme commonly known as the Live Performance Support Scheme Phase 3;
+
+(iii) the scheme commonly known as the Live Performance Restart Grant Scheme;
+
+(iv) the scheme commonly known as the Live Local Performance Support Scheme;
+
+(v) the scheme commonly known as the Commercial Entertainment Capital Grant Scheme;
+
+(vi) the scheme commonly known as the Music and Entertainment Business Assistance Scheme;
+
+(vii) the scheme commonly known as the Attractions and Activity Tourism Operators Business Continuity Scheme 2022;
+
+(viii) the scheme commonly known as the Strategic Tourism Transport Business Continuity Scheme 2022;
+
+(ix) the scheme commonly known as the Strategic Ireland Based Inbound Agents Tourism Business Continuity Scheme 2022;
+
+(x) the scheme commonly known as the Tourism Accommodation Providers Business Continuity Scheme 2022;
+
+(xi) the scheme commonly known as the Sustaining Enterprise Fund;
+
+(xii) the scheme commonly known as the Accelerated Recovery Fund;
+
+(xiii) the scheme commonly known as the Support for Licensed Outbound Travel Agents and Tour Operators;
+
+(xiv) the scheme commonly known as the Temporary Covid-19 Supports for Commercial Bus Operators,
+
+or
+
+(d) a scheme designated for the purpose of this paragraph by order of the Revenue Commissioners under *subsection (1B)*;
+
+"inspector of taxes" means an inspector of taxes appointed under section 852 of the Taxes Consolidation Act 1997;]
+
+"Period 1", in relation to an employer, means the period—
+
+(a) beginning on 26 March 2020, and
+
+F82[(b) ending on 31 December 2021;]
+
+F83["Period 2", in relation to an employer, means the period beginning on 1 January 2022 and ending on 31 December 2022;]
+
+"Period 3", in relation to an employer, means the period—
+
+(a) beginning on the day next following the last day of Period 2, and
+
+(b) ending on the day on which the employer has discharged the employer’s liability in respect of Covid-19 relevant tax in full;
+
+F84[...]
+
+F85[...]
+
+F87[(1A) Where an employer has a Covid-19 entitlement—
+
+(a) which arises out of circumstances occurring in a period falling between 1 January 2022 and 30 April 2022, or
+
+(b) which arises out of circumstances occurring in a period falling prior to 1 January 2022, resulting in an amount becoming payable to the employer between 1 January 2022 and 30 April 2022,
+
+then, in this section—
+
+"Period 1", in relation to the employer, means the period beginning on 26 March 2020 and ending on 30 April 2022;
+
+"Period 2", in relation to the employer, means the period beginning on 1 May 2022 and ending on 30 April 2023;
+
+"Period 3", in relation to the employer, means the period beginning on 1 May 2023 and ending on the day on which the employer has discharged the employer’s liability in respect of the Covid-19 relevant tax in full.
+
+(1B) The Revenue Commissioners may designate by order a scheme for the purpose of *paragraph (d)* of the definition of "Covid-19 entitlement" in *subsection (1)*, where they are satisfied that the scheme is similar in nature and objective to a scheme referred to in *paragraph (c)* of that definition.]
+
+(2) This section shall apply to an employer—
+
+(a) who, as a consequence of the effect on the employer’s business of Covid-19 is unable to pay all or part of the employer’s liability in respect of Covid-19 relevant tax,
+
+(b) who complies with the requirements under Chapter 4 of Part 42 of the Taxes Consolidation Act 1997 and this Part, and
+
+(c) either—
+
+(i) the employer’s tax affairs are administered by the Personal Division or Business Division of the Office of the Revenue Commissioners, or
+
+(ii) the employer has formed the view that the employer is unable to pay all or part of the employer’s liability in respect of Covid-19 relevant tax and has notified the Revenue Commissioners that the employer has formed such a view.
+
+(3) For the purposes of *subsection (2)(c)(i)*, an employer’s tax affairs shall be treated as being administered by the Personal Division or Business Division of the Office of the Revenue Commissioners where the most recent correspondence received by the employer from that Office indicates that to be the case.
+
+F88[(4) An inspector of taxes, or such other officer as the Revenue Commissioners have nominated for the purposes of section 990 of the Taxes Consolidation Act 1997, may make such enquiries as he or she considers necessary to satisfy himself or herself as to whether an employer—
+
+(a) is unable to pay the employer’s liability in respect of Covid-19 relevant tax, or
+
+(b) has a Covid-19 entitlement—
+
+(i) which arises out of circumstances occurring in a period falling between 1 January 2022 and 30 April 2022, or
+
+(ii) which arises out of circumstances occurring in a period falling prior to 1 January 2022, resulting in an amount becoming payable to the employer between 1 January 2022 and 30 April 2022,
+
+as the case may be.]
+
+(5) Where this section applies to an employer, *section 28(13)* shall not apply to the employer’s liability in respect of Covid-19 relevant tax.
+
+(6) F89[...]
+
+F90[(7) Where—
+
+(a) this section applies to an employer,
+
+(b) the employer complies with the employer’s obligations under the Acts,
+
+(c) the employer has—
+
+(i) before 1 May 2024, engaged with the Collector-General regarding the employer’s liability in respect of Covid-19 relevant tax with a view to entering into an agreement to pay that liability, and
+
+(ii) entered into an agreement referred to in *subparagraph (i)*, whether before or after 1 May 2024,
+
+and
+
+(d) the employer complies with the obligations of the employer under the agreement entered into as referred to in *paragraph (c)(ii)*,
+
+no interest shall be due and payable by the employer in relation to the employer’s liability in respect of Covid-19 relevant tax during Period 1, Period 2 and Period 3.]
+
+F91[(8) Where an employer—
+
+(a) at any time during the period beginning on the first day of Period 1 and ending on 30 April 2024 fails to comply with the employer’s obligations under the Acts,
+
+(b) is not an employer to whom *subsection (7)(c)* applies, or
+
+(c) on or after 1 May 2024—
+
+(i) fails to comply with the employer’s obligations under the Acts, or
+
+(ii) fails to comply with an obligation referred to in *subsection (7)(d)*,
+
+simple interest shall be paid by the employer to the Revenue Commissioners in relation to any amount of the Covid-19 relevant tax remaining unpaid on—
+
+(I) in a case to which *paragraph (a)* or *(c)* applies, the date on which the event resulting in failure to comply with the obligation concerned occurred, and
+
+(II) in a case to which *paragraph (b)* applies, 1 May 2024,
+
+and such interest shall be calculated from—
+
+(A) in a case to which *paragraph (a)* applies, the date on which the event resulting in failure to comply with the obligation concerned occurred,
+
+(B) in a case to which *paragraph (b)* applies, the first day of Period 3, and
+
+(C) in a case to which *paragraph (c)* applies, 1 May 2024,
+
+until payment of the amount for any day or part of a day during which that amount remains unpaid, at a rate of 0.0219 per cent.]
+
+(9) Where an employer has complied with the requirements under Chapter 4 of Part 42 of the Taxes Consolidation Act 1997 and this Part, the failure of the employer to pay Covid-19 relevant tax shall not, for the purpose of section 1094 or 1095 of the Taxes Consolidation Act 1997, be treated as a failure to comply with the obligations imposed on the employer by the Acts (within the meaning of section 1094 or 1095, as the case may be).
+
+(10) Section 960E(2) of the Taxes Consolidation Act 1997 shall not apply in respect of Covid-19 relevant tax where the employer concerned complies with the employer’s requirements under Chapter 4 of Part 42 of the Taxes Consolidation Act 1997 and this Part.
+
+(11) F86[...]]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F78: Inserted (19.12.2020) by *Finance Act 2020* (26/2020), s. 64, commenced on enactment.
+>
+> F79: Substituted (2.06.2022) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2022* (9/2022), s. 10(a)(i), commenced on enactment.
+>
+> F80: Inserted (19.07.2021) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2021* (23/2021), s. 8(a)(i), commenced on enactment.
+>
+> F81: Inserted (2.06.2022) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2022* (9/2022), s. 10(a)(ii), commenced on enactment.
+>
+> F82, F83: Substituted (19.07.2021) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2021* (23/2021), s. 8(a)(ii)-(iv), commenced on enactment.
+>
+> F84, F85, F86: Deleted (19.07.2021) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2021* (23/2021), s. 8(a)(v), (b), commenced on enactment.
+>
+> F87: Inserted (2.06.2022) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2022* (9/2022), s. 10(b), commenced on enactment.
+>
+> F88: Substituted (2.06.2022) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2022* (9/2022), s. 10(c), commenced on enactment.
+>
+> F89: Deleted (12.11.2024) by *Finance Act 2024* (43/2024), s. 107(a), commenced on enactment.
+>
+> F90, F91: Substituted (12.11.2024) by *Finance Act 2024* (43/2024), s. 107(b), (c), commenced on enactment.
+
+### 28D. Covid-19: special warehousing and interest (relevant tax due under section 28B(11))
+
+F92[**28D.** (1) F93[Subject to *subsection (1A)*, in this section]—
+
+"the Acts" has the same meaning as it has in *section 28C*;
+
+F94["Covid-19 entitlement" means an entitlement to payment of an amount under—
+
+(a) section 485 of the Taxes Consolidation Act 1997,
+
+(b) *section 28B*,
+
+(c) any of the following schemes:
+
+(i) the scheme commonly known as the Live Performance Support Scheme Strand II;
+
+(ii) the scheme commonly known as the Live Performance Support Scheme Phase 3;
+
+(iii) the scheme commonly known as the Live Performance Restart Grant Scheme;
+
+(iv) the scheme commonly known as the Live Local Performance Support Scheme;
+
+(v) the scheme commonly known as the Commercial Entertainment Capital Grant Scheme;
+
+(vi) the scheme commonly known as the Music and Entertainment Business Assistance Scheme;
+
+(vii) the scheme commonly known as the Attractions and Activity Tourism Operators Business Continuity Scheme 2022;
+
+(viii) the scheme commonly known as the Strategic Tourism Transport Business Continuity Scheme 2022;
+
+(ix) the scheme commonly known as the Strategic Ireland Based Inbound Agents Tourism Business Continuity Scheme 2022;
+
+(x) the scheme commonly known as the Tourism Accommodation Providers Business Continuity Scheme 2022;
+
+(xi) the scheme commonly known as the Sustaining Enterprise Fund;
+
+(xii) the scheme commonly known as the Accelerated Recovery Fund;
+
+(xiii) the scheme commonly known as the Support for Licensed Outbound Travel Agents and Tour Operators;
+
+(xiv) the scheme commonly known as the Temporary Covid-19 Supports for Commercial Bus Operators, or
+
+(d) a scheme designated for the purpose of this paragraph by order of the Revenue Commissioners under *subsection (1B)*;
+
+"inspector of taxes" means an inspector of taxes appointed under section 852 of the Taxes Consolidation Act 1997;]
+
+"Covid-19 relevant tax" means relevant tax, as referred to in *subsection (12)* of *section 28B*, due and payable during Period 1 in accordance with that subsection;
+
+"Period 1", in relation to an employer, means the period beginning on 1 July 2020 and ending on 31 December 2021;
+
+"Period 2", in relation to an employer, means the period beginning on 1 January 2022 and ending on 31 December 2022;
+
+"Period 3", in relation to an employer, means the period beginning on 1 January 2023 and ending on the day on which the employer has discharged the employer’s liability in respect of the Covid-19 relevant tax in full.
+
+F95[(1A) Where an employer has a Covid-19 entitlement—
+
+(a) which arises out of circumstances occurring in a period falling between 1 January 2022 and 30 April 2022, or
+
+(b) which arises out of circumstances occurring in a period falling prior to 1 January 2022, resulting in an amount becoming payable to the employer between 1 January 2022 and 30 April 2022,
+
+then, in this section—
+
+"Period 1", in relation to the employer, means the period beginning on 1 July 2020 and ending on 30 April 2022;
+
+"Period 2", in relation to the employer, means the period beginning on 1 May 2022 and ending on 30 April 2023;
+
+"Period 3", in relation to the employer, means the period beginning on 1 May 2023 and ending on the day on which the employer has discharged the employer’s liability in respect of the Covid-19 relevant tax in full.
+
+(1B) The Revenue Commissioners may designate by order a scheme for the purpose of *paragraph (d)* of the definition of "Covid-19 entitlement" in *subsection (1)*, where they are satisfied that the scheme is similar in nature and objective to a scheme referred to in *paragraph (c)* of that definition.]
+
+(2) This section shall apply to an employer—
+
+(a) who, as a consequence of the effect on the employer’s business of Covid-19 is unable to pay all or part of the employer’s liability in respect of Covid-19 relevant tax,
+
+(b) who complies with the requirements under Chapter 4 of Part 42 of the Taxes Consolidation Act 1997 and this Part, and
+
+(c) either—
+
+(i) the employer’s tax affairs are administered by the Personal Division or Business Division of the Office of the Revenue Commissioners, or
+
+(ii) the employer has formed the view that the employer is unable to pay all or part of the employer’s liability in respect of Covid-19 relevant tax and has notified the Revenue Commissioners that the employer has formed such a view.
+
+(3) For the purposes of *subsection (2)(c)(i)*, an employer’s tax affairs shall be treated as being administered by the Personal Division or Business Division of the Office of the Revenue Commissioners where the most recent correspondence received by the employer from that Office indicates that to be the case.
+
+F96[(4) An inspector of taxes, or such other officer as the Revenue Commissioners have nominated for the purposes of section 990 of the Taxes Consolidation Act 1997, may make such enquiries as he or she considers necessary to satisfy himself or herself as to whether an employer—
+
+(a) is unable to pay the employer’s liability in respect of Covid-19 relevant tax, or
+
+(b) has a Covid-19 entitlement—
+
+(i) which arises out of circumstances occurring in a period falling between 1 January 2022 and 30 April 2022, or
+
+(ii) which arises out of circumstances occurring in a period falling prior to 1 January 2022, resulting in an amount becoming payable to the employer between 1 January 2022 and 30 April 2022,
+
+as the case may be.]
+
+(5) Where this section applies to an employer, *section 28B(15)* shall not apply to the employer’s liability in respect of Covid-19 relevant tax.
+
+(6) F97[...]
+
+F98[(7) Where—
+
+(a) this section applies to an employer,
+
+(b) the employer complies with the employer’s obligations under the Acts,
+
+(c) the employer has—
+
+(i) before 1 May 2024, engaged with the Collector-General regarding the employer’s liability in respect of Covid-19 relevant tax with a view to entering into an agreement to pay that liability, and
+
+(ii) entered into an agreement referred to in *subparagraph (i)*, whether before or after 1 May 2024,
+
+and
+
+(d) the employer complies with the obligations of the employer under the agreement entered into as referred to in *paragraph (c)(ii)*,
+
+no interest shall be due and payable by the employer in relation to the employer’s liability in respect of Covid-19 relevant tax during Period 1, Period 2 and Period 3.]
+
+F99[(8) Where an employer—
+
+(a) at any time during the period beginning on the first day of Period 1 and ending on 30 April 2024 fails to comply with the employer’s obligations under the Acts,
+
+(b) is not an employer to whom *subsection (7)(c)* applies, or
+
+(c) on or after 1 May 2024—
+
+(i) fails to comply with the employer’s obligations under the Acts, or
+
+(ii) fails to comply with an obligation referred to in *subsection (7)(d)*,
+
+simple interest shall be paid by the employer to the Revenue Commissioners in relation to any amount of the Covid-19 relevant tax remaining unpaid on—
+
+(I) in a case to which *paragraph (a)* or *(c)* applies, the date on which the event resulting in failure to comply with the obligation concerned occurred, and
+
+(II) in a case to which *paragraph (b)* applies, 1 May 2024,
+
+and such interest shall be calculated from—
+
+(A) in a case to which *paragraph (a)* applies, the date on which the event resulting in failure to comply with the obligation concerned occurred,
+
+(B) in a case to which *paragraph (b)* applies, the first day of Period 3, and
+
+(C) in a case to which *paragraph (c)* applies, 1 May 2024,
+
+until payment of the amount for any day or part of a day during which that amount remains unpaid, at a rate of 0.0219 per cent.]
+
+(9) Where an employer has complied with the requirements under Chapter 4 of Part 42 of the Taxes Consolidation Act 1997 and this Part, the failure of the employer to pay Covid-19 relevant tax shall not, for the purpose of section 1094 or 1095 of the Taxes Consolidation Act 1997, be treated as a failure to comply with the obligations imposed on the employer by the Acts (within the meaning of section 1094 or 1095, as the case may be).
+
+(10) Section 960E(2) of the Taxes Consolidation Act 1997 shall not apply in respect of Covid-19 relevant tax where the employer concerned complies with the employer’s requirements under Chapter 4 of Part 42 of the Taxes Consolidation Act 1997 and this Part.]
+
+> **Annotations:**
+>
+> **Amendments:**
+>
+> F92: Inserted (19.07.2021) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2021* (23/2021), s. 7, commenced on enactment.
+>
+> F93: Substituted (2.06.2022) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2022* (9/2022), s. 11(a)(i), commenced on enactment.
+>
+> F94: Inserted (2.06.2022) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2022* (9/2022), s. 11(a)(ii), commenced on enactment.
+>
+> F95: Inserted (2.06.2022) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2022* (9/2022), s. 11(b), commenced on enactment.
+>
+> F96: Substituted (2.06.2022) by *Finance (Covid-19 and Miscellaneous Provisions) Act 2022* (9/2022), s. 11(c), commenced on enactment.
+>
+> F97: Deleted (12.11.2024) by *Finance Act 2024* (43/2024), s. 108(a), commenced on enactment.
+>
+> F98, F99: Substituted (12.11.2024) by *Finance Act 2024* (43/2024), s. 108(b), (c), commenced on enactment.
+
+## PART 8 — Amendment to Redundancy Payments Act 1967
+
+### 29. Operation of section 12 - emergency period
+
+**29.** The Redundancy Payments Act 1967 is amended by the insertion of the following section after section 12:
+
+**“12A.** (1) Section 12 shall not have effect during the emergency period in respect of an employee who has been laid off or kept on short-time due to the effects of measures required to be taken by his or her employer in order to comply with, or as a consequence of, Government policy to prevent, limit, minimise or slow the spread of infection of Covid-19.
+
+(2) Before the expiration of the emergency period, the Government may, at the request of the Minister made—
+
+(a) after consultation with the Minister for Health,
+
+(b) with the consent of the Minister for Public Expenditure and Reform, and
+
+(c) having had regard to the matters referred to in subsection (3),
+
+by order specify a date that is later than the expiration date of the emergency period specified in the definition of ‘emergency period’ or the last order made under this subsection, as the case may be, and the emergency period shall be read as extending to, and including the date so specified.
+
+(3) When making an order under subsection (2), the Government shall have regard to the following:
+
+(a) the nature and potential impact of Covid-19 on individuals, society and the State;
+
+(b) the capacity of the State to respond to the risk to public health posed by the spread of Covid-19;
+
+(c) the policies and objectives of the Government to protect the health and welfare of members of the public;
+
+(d) the need to ensure the most beneficial, effective and efficient use of resources;
+
+(e) the need to mitigate the economic effects of the spread of Covid-19;
+
+(f) the need to ensure a continued attachment to the labour market for workers who have been temporarily laid off or put on short-time as a result of Covid-19;
+
+(g) the need to protect the relationship between employee and employer during the emergency period;
+
+(h) the need to mitigate the increased risk of insolvencies in the event of a substantial number of redundancies occurring over a short time period resulting in permanent job losses.
+
+(4) Every order made under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which that House sits after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+(5) In this section—
+
+‘emergency period’ means the period beginning on 13 March 2020 and ending on 31 May 2020;
+
+‘Covid-19’ means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 (S.I. No. 390 of 1981) or any variant of the disease so specified as an infectious disease in those Regulations.”.
+
+## PART 9 — Amendments to Civil Registration Act 2004
+
+### 30. Definition (Part 9)
+
+**30.** In this Part, “Act of 2004” means the Civil Registration Act 2004.
+
+### 31. Performance of functions of registrar and Superintendent Registrar by staff of Ard-Chláraitheoir in certain exceptional circumstances
+
+**31.** The Act of 2004 is amended by the insertion of the following section after section 8:
+
+**“8A.** (1) A Superintendent Registrar of a registration area may make a request in writing to an tArd-Chláraitheoir (in this section referred to as a ‘request’) that an tArd-Chláraitheoir issue a direction (in this section referred to as a ‘direction’) that the relevant functions of registrars and Superintendent Registrars in the registration area to which the request relates are to be performed in accordance with this section.
+
+(2) Where an tArd-Chláraitheoir receives a request under subsection (1), he or she shall issue a direction in relation to a registration area where he or she is satisfied that—
+
+(a) it is appropriate to do so in the circumstances, and
+
+(b) it is necessary to do so in order to prevent, limit, minimise or slow the spread of infection of Covid-19.
+
+(3) Where an tArd-Chláraitheoir issues a direction in relation to a registration area—
+
+(a) any relevant functions of a registrar or Superintendent Registrar of the registration area to which the direction relates shall be performed by such members of staff of an tArd-Chláraitheoir as an tArd-Chláraitheoir may specify, and
+
+(b) a reference in a relevant provision—
+
+(i) to a registrar or to a Superintendent Registrar shall be read as a reference to a member of staff of an tArd-Chláraitheoir specified under paragraph (a), and
+
+(ii) to an tArd-Chláraitheoir shall, notwithstanding section 8(6), be read as a reference to an tArd-Chláraitheoir.
+
+(4) A direction shall specify—
+
+(a) the day on which it comes into effect, and
+
+(b) the day on which it shall cease to have effect,
+
+and, subject to subsection (5), the direction shall cease to have effect in relation to the registration area on the latter date.
+
+(5) Notwithstanding the date on which a direction is specified to cease to have effect under subsection (4), a direction shall cease to have effect upon the earlier of—
+
+(a) such date as may be specified by an tArd-Chláraitheoir in a written notice to the Superintendent Registrar of the registration area to which the direction relates, or
+
+(b) the date on which this section ceases to be in operation in accordance with subsections (6) or (7), as the case may be.
+
+(6) This section shall, subject to subsections (7) and (8), continue in operation until 31 May 2020.
+
+(7) The Government—
+
+(a) at the request of the Minister for Employment Affairs and Social Protection,
+
+(b) after consultation with any other Minister of the Government as he or she considers appropriate having regard to the functions of that Minister of the Government, and
+
+(c) having had regard to the matters referred to in subsection (9),
+
+may, from time to time, by order declare that the period of time specified in subsection (6) shall continue in operation for such period or periods as may be specified in the order concerned.
+
+(8) An order under subsection (7) shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which that House sits after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+(9) When making an order under subsection (7), the Government shall have regard to the following:
+
+(a) the nature and potential impact of Covid-19 on individuals, society and the State;
+
+(b) the capacity of the State to respond to the risk to public health posed by the spread of Covid-19;
+
+(c) measures taken in order to comply with, or as a consequence of, Government policy;
+
+(d) the need to ensure the most beneficial, effective and efficient use of resources;
+
+(e) the need to ensure the continuity of a well-functioning registration service.
+
+(10) In this section—
+
+‘Covid-19’ means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 (S.I. No. 390 of 1981) or any variant of the disease so specified as an infectious disease in those Regulations;
+
+‘relevant function’ means a function of a registrar or a Superintendent Registrar under a relevant provision;
+
+‘relevant provision’ means Part 3 or Part 5.”.
+
+### 32. Alleviation of requirement on certain persons to appear in person under Part 3 of Act of 2004
+
+**32.** The Act of 2004 is amended by the insertion of the following section after section 19A:
+
+**“19B.** (1) Notwithstanding any provision of this Part, a parent or a qualified informant who, within the emergency period, is required under this Part to—
+
+(a) attend in person before a registrar,
+
+(b) attend in person before a Superintendent Registrar, or
+
+(c) sign a register in the presence of any person,
+
+shall be deemed to have d. Tone so where they have provided to the registrar, Superintendent Registrar or person in question such written particulars relating to that requirement as an tArd-Chláraitheoir may specify.
+
+(2) Before the expiration of the emergency period, the Government may, at the request of the Minister made—
+
+(a) after consultation with any other Minister of the Government as he or she considers appropriate having regard to the functions of that Minister of the Government, and
+
+(b) having had regard to the matters referred to in subsection (4),
+
+by order specify a date that is later than the expiration date of the emergency period specified in the definition of ‘emergency period’ or the last order under this subsection, as the case may be, and the emergency period shall be read as extending to, and including, the date so specified.
+
+(3) An order under subsection (2) shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which that House sits after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+(4) When making an order under subsection (2), the Government shall have regard to the following:
+
+(a) the nature and potential impact of Covid-19 on individuals, society and the State;
+
+(b) the capacity of the State to respond to the risk to public health posed by the spread of Covid-19;
+
+(c) measures taken in order to comply with, or as a consequence of, Government policy;
+
+(d) the need to ensure the most beneficial, effective and efficient use of resources;
+
+(e) the need to ensure the continuity of a well-functioning registration service;
+
+(f) the need to ensure that persons do not have to attend in person to register a birth where it would not be safe or advisable in the interests of public health for them to do so.
+
+(5) In this section—
+
+‘Covid-19’ means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 (S.I. No. 390 of 1981) or any variant of the disease so specified as an infectious disease in those Regulations;
+
+‘emergency period’ means the period beginning on 13 March 2020 and ending on 31 May 2020.”.
+
+### 33. Alleviation of requirement on certain persons to appear in person under Part 5 of Act of 2004
+
+**33.** The Act of 2004 is amended by the insertion of the following section after section 37:
+
+**“37A.** (1) Notwithstanding any provision of this Part, a relative or a qualified informant who, within the emergency period, is required under this Part to—
+
+(a) attend in person before a registrar,
+
+(b) attend in person before a Superintendent Registrar, or
+
+(c) sign a register in the presence of any person,
+
+shall be deemed to have done so where they have provided to the registrar, Superintendent Registrar or person in question such written particulars relating to that requirement as an tArd-Chláraitheoir may specify.
+
+(2) Before the expiration of the emergency period, the Government may, at the request of the Minister made—
+
+(a) after consultation with any other Minister of the Government as he or she considers appropriate having regard to the functions of that Minister of the Government, and
+
+(b) having had regard to the matters referred to in subsection (4),
+
+by order specify a date that is later than the expiration date of the emergency period specified in the definition of ‘emergency period’ or the last order under this subsection, as the case may be, and the emergency period shall be read as extending to, and including, the date so specified.
+
+(3) An order under subsection (2) shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which that House sits after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+(4) When making an order under subsection (2), the Government shall have regard to the following:
+
+(a) the nature and potential impact of Covid-19 on individuals, society and the State;
+
+(b) the capacity of the State to respond to the risk to public health posed by the spread of Covid-19;
+
+(c) measures taken in order to comply with, or as a consequence of, Government policy;
+
+(d) the need to ensure the most beneficial, effective and efficient use of resources;
+
+(e) the need to ensure the continuity of a well-functioning registration service;
+
+(f) the need to ensure that persons do not have to attend in person to register a death where it would not be safe or advisable in the interests of public health for them to do so.
+
+(5) In this section—
+
+‘Covid-19’ means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 (S.I. No. 390 of 1981) or any variant of the disease so specified as an infectious disease in those Regulations;
+
+‘emergency period’ means the period beginning on 13 March 2020 and ending on 31 May 2020.”.
+
+[^1]: OJ No. C384I, 12.11.2019, p. 178
